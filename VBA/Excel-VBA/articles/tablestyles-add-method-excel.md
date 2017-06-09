@@ -3,10 +3,11 @@ title: TableStyles.Add Method (Excel)
 keywords: vbaxl10.chm841074
 f1_keywords:
 - vbaxl10.chm841074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyles.Add
 ms.assetid: 90f8f3ff-91e5-c2c5-f3c6-b19ec174270f
+ms.date: 06/08/2017
 ---
 
 

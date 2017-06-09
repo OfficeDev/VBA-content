@@ -3,14 +3,15 @@ title: USER (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277496
 f1_keywords:
 - jetsql40.chm5277496
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 921b10b0-fd9a-c207-67bf-c3dc7ebfd4fb
+ms.date: 06/08/2017
 ---
 
 
 # USER (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

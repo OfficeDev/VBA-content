@@ -3,10 +3,11 @@ title: SparkVerticalAxis.Parent Property (Excel)
 keywords: vbaxl10.chm880075
 f1_keywords:
 - vbaxl10.chm880075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.Parent
 ms.assetid: a6bada2b-c103-b526-eb48-24520a30e71b
+ms.date: 06/08/2017
 ---
 
 

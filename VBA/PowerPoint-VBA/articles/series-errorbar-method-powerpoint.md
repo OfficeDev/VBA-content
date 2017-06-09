@@ -3,10 +3,11 @@ title: Series.ErrorBar Method (PowerPoint)
 keywords: vbapp10.chm65688
 f1_keywords:
 - vbapp10.chm65688
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ErrorBar
 ms.assetid: a25795b8-a954-0803-bea6-6c650190ad3f
+ms.date: 06/08/2017
 ---
 
 

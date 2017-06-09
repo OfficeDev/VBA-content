@@ -3,8 +3,9 @@ title: LockTextEdit Cell (Protection Section), Visio [vis_sdr.chm665]
 keywords: vis_sdr.chm665
 f1_keywords:
 - vis_sdr.chm665
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3bcd60da-d734-4cab-b377-11e8db4deda1
+ms.date: 06/08/2017
 ---
 
 

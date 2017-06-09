@@ -3,10 +3,11 @@ title: Operation.Execute Method (Access)
 keywords: vbaac10.chm14585
 f1_keywords:
 - vbaac10.chm14585
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Operation.Execute
 ms.assetid: d8663d82-609f-3b6f-8d42-6f9aab7fff7c
+ms.date: 06/08/2017
 ---
 
 

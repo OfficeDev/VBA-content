@@ -3,10 +3,11 @@ title: Selection.NextRevision Method (Word)
 keywords: vbawd10.chm158663187
 f1_keywords:
 - vbawd10.chm158663187
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.NextRevision
 ms.assetid: 990e3c20-9991-b2cb-aa3b-e64ae8936b34
+ms.date: 06/08/2017
 ---
 
 

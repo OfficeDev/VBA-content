@@ -3,10 +3,11 @@ title: ListBox.Locked Property (Access)
 keywords: vbaac10.chm11236
 f1_keywords:
 - vbaac10.chm11236
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Locked
 ms.assetid: b820438b-1ebf-780f-9fe9-e51d90bbf326
+ms.date: 06/08/2017
 ---
 
 

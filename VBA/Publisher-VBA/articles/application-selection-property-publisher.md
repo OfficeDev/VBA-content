@@ -3,10 +3,11 @@ title: Application.Selection Property (Publisher)
 keywords: vbapb10.chm131109
 f1_keywords:
 - vbapb10.chm131109
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Selection
 ms.assetid: b4a542a7-cb54-476b-9ccf-004ce4b9ec47
+ms.date: 06/08/2017
 ---
 
 

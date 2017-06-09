@@ -1,9 +1,10 @@
 ---
 title: CodeMaskLevel.Separator Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Separator
 ms.assetid: e439e778-1aee-3469-3d88-79489b7715fd
+ms.date: 06/08/2017
 ---
 
 

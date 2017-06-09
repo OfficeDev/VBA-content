@@ -3,10 +3,11 @@ title: StyleSheet.Index Property (Word)
 keywords: vbawd10.chm166658050
 f1_keywords:
 - vbawd10.chm166658050
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheet.Index
 ms.assetid: aca30517-7dd5-72e3-4dd8-2a709653bee4
+ms.date: 06/08/2017
 ---
 
 

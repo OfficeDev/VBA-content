@@ -3,10 +3,11 @@ title: Window.Zoom Property (Visio)
 keywords: vis_sdr.chm11614675
 f1_keywords:
 - vis_sdr.chm11614675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Zoom
 ms.assetid: 35b6973f-ede6-e731-acf0-59ef03456c47
+ms.date: 06/08/2017
 ---
 
 

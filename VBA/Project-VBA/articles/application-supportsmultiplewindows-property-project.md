@@ -3,10 +3,11 @@ title: Application.SupportsMultipleWindows Property (Project)
 keywords: vbapj.chm132628
 f1_keywords:
 - vbapj.chm132628
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SupportsMultipleWindows
 ms.assetid: d52eb74c-a809-2084-9e4e-45ca4d53d2e4
+ms.date: 06/08/2017
 ---
 
 

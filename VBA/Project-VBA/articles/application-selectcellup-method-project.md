@@ -3,10 +3,11 @@ title: Application.SelectCellUp Method (Project)
 keywords: vbapj.chm2049
 f1_keywords:
 - vbapj.chm2049
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectCellUp
 ms.assetid: d2e2aecc-0a05-7dd5-23da-a47ffe161028
+ms.date: 06/08/2017
 ---
 
 

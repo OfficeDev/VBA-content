@@ -3,10 +3,11 @@ title: TablesOfContents.Application Property (Word)
 keywords: vbawd10.chm152306664
 f1_keywords:
 - vbawd10.chm152306664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Application
 ms.assetid: 65d4f4e9-5648-6834-3237-a99a6dc6176d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Get Statement
 keywords: vblr6.chm1008928
 f1_keywords:
 - vblr6.chm1008928
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73b44467-c9e6-3cd4-8d35-b2c19176bf80
+ms.date: 06/08/2017
 ---
 
 

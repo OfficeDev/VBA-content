@@ -3,10 +3,11 @@ title: TextEffectFormat.PresetShape Property (Excel)
 keywords: vbaxl10.chm118009
 f1_keywords:
 - vbaxl10.chm118009
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.PresetShape
 ms.assetid: d85bcdf6-0ad4-4a3d-ed3a-40a96a4b63a0
+ms.date: 06/08/2017
 ---
 
 

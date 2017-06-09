@@ -1,6 +1,8 @@
 ---
 title: Assignment.Compliant Property (Project)
 ms.assetid: bceddf30-8cb4-4098-c354-46c044a97b0a
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

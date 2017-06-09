@@ -3,10 +3,11 @@ title: LineFormat.Transparency Property (PowerPoint)
 keywords: vbapp10.chm553013
 f1_keywords:
 - vbapp10.chm553013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Transparency
 ms.assetid: 7d9e3a3c-479a-1a7a-45b2-4245b8444c21
+ms.date: 06/08/2017
 ---
 
 

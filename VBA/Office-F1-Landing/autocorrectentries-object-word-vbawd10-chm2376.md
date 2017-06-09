@@ -3,8 +3,9 @@ title: AutoCorrectEntries Object, Word [vbawd10.chm2376]
 keywords: vbawd10.chm2376
 f1_keywords:
 - vbawd10.chm2376
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 07e61b72-81c8-4a2a-836f-ed59e3b43383
+ms.date: 06/08/2017
 ---
 
 

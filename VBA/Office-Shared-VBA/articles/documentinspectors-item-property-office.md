@@ -3,10 +3,11 @@ title: DocumentInspectors.Item Property (Office)
 keywords: vbaof11.chm278001
 f1_keywords:
 - vbaof11.chm278001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspectors.Item
 ms.assetid: 9f095ade-0e78-7158-b09e-ff068ebff20b
+ms.date: 06/08/2017
 ---
 
 

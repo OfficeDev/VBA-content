@@ -3,8 +3,9 @@ title: Invalid Clipboard format (Error 460) [2 of 2]
 keywords: vblr6.chm1107977
 f1_keywords:
 - vblr6.chm1107977
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48fdfbac-357c-e4c6-0711-e26e4eb113ee
+ms.date: 06/08/2017
 ---
 
 

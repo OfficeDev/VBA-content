@@ -3,10 +3,11 @@ title: WebBrowserControl.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm14399
 f1_keywords:
 - vbaac10.chm14399
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineWidthTop
 ms.assetid: 561bca13-3f9b-950c-ef74-71d267cb47d1
+ms.date: 06/08/2017
 ---
 
 

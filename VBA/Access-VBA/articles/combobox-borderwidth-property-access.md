@@ -3,10 +3,11 @@ title: ComboBox.BorderWidth Property (Access)
 keywords: vbaac10.chm11411
 f1_keywords:
 - vbaac10.chm11411
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BorderWidth
 ms.assetid: f8eddb71-d8ad-cca1-10ed-e6d3fb10e41a
+ms.date: 06/08/2017
 ---
 
 

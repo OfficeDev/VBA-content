@@ -3,10 +3,11 @@ title: Validation.Modify Method (Excel)
 keywords: vbaxl10.chm532085
 f1_keywords:
 - vbaxl10.chm532085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Modify
 ms.assetid: 4f6b435a-6ca6-8953-1bde-549b0bdc1774
+ms.date: 06/08/2017
 ---
 
 

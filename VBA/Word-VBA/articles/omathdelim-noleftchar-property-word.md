@@ -3,10 +3,11 @@ title: OMathDelim.NoLeftChar Property (Word)
 keywords: vbawd10.chm145096813
 f1_keywords:
 - vbawd10.chm145096813
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathDelim.NoLeftChar
 ms.assetid: 93ca382e-6bb3-81c6-654e-360f588f7410
+ms.date: 06/08/2017
 ---
 
 

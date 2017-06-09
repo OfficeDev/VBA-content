@@ -1,9 +1,10 @@
 ---
 title: Application.KeyDown Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.KeyDown
 ms.assetid: 3e9481cc-b9e7-17c0-7b7d-93b6fa2f8825
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MailMergeDataFields.Application Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields.Application
 ms.assetid: 8ee03f9e-1996-58e7-c6e9-3a1ccd0d2963
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.HasTextFrame Property (PowerPoint)
 keywords: vbapp10.chm548055
 f1_keywords:
 - vbapp10.chm548055
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.HasTextFrame
 ms.assetid: 6359fbeb-0a91-ad56-9edd-9b6be7fe51b7
+ms.date: 06/08/2017
 ---
 
 

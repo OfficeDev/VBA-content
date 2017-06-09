@@ -1,7 +1,8 @@
 ---
 title: Modify a Table's Design Using Access SQL
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c05687af-ed43-56dc-a65a-e9c328be0f5b
+ms.date: 06/08/2017
 ---
 
 

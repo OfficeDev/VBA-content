@@ -3,8 +3,9 @@ title: PlotVisibleOnly Property, Project [vbapj.chm131636]
 keywords: vbapj.chm131636
 f1_keywords:
 - vbapj.chm131636
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf232791-0c91-423c-b09b-c2b61ec6ef5b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContainerProperties.InsertListMember Method (Visio)
 keywords: vis_sdr.chm17662320
 f1_keywords:
 - vis_sdr.chm17662320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.InsertListMember
 ms.assetid: be9c8bc6-7e2d-fb52-dd32-370a32d12744
+ms.date: 06/08/2017
 ---
 
 

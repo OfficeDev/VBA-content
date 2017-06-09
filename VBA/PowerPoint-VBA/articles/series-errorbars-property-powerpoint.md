@@ -3,10 +3,11 @@ title: Series.ErrorBars Property (PowerPoint)
 keywords: vbapp10.chm65695
 f1_keywords:
 - vbapp10.chm65695
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ErrorBars
 ms.assetid: 6d3a4bd3-93f1-95d6-6d8e-4f296c1b5f95
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Chart.ChartArea Property (Excel)
 keywords: vbaxl10.chm149086
 f1_keywords:
 - vbaxl10.chm149086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ChartArea
 ms.assetid: 125d6176-b770-900b-8572-ce33b95ad897
+ms.date: 06/08/2017
 ---
 
 

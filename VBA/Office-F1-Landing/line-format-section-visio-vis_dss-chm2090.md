@@ -3,8 +3,9 @@ title: Line Format Section, Visio [Vis_DSS.chm2090]
 keywords: vis_dss.chm2090
 f1_keywords:
 - vis_dss.chm2090
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04550f77-77e1-4fbe-aefc-e1d537b941e9
+ms.date: 06/08/2017
 ---
 
 

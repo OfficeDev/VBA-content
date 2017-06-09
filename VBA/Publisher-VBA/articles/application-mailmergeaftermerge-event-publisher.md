@@ -3,10 +3,11 @@ title: Application.MailMergeAfterMerge Event (Publisher)
 keywords: vbapb10.chm268435465
 f1_keywords:
 - vbapb10.chm268435465
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeAfterMerge
 ms.assetid: dd01d8f5-f95e-e833-bb8b-708ced54240c
+ms.date: 06/08/2017
 ---
 
 

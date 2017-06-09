@@ -3,10 +3,11 @@ title: Table.Parent Property (Word)
 keywords: vbawd10.chm156304362
 f1_keywords:
 - vbawd10.chm156304362
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Parent
 ms.assetid: a4ca3483-3121-0169-6251-07d23faa118a
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Assignment.Flag14 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag14
 ms.assetid: 8067c60f-bd67-6625-e127-badb32e7453d
+ms.date: 06/08/2017
 ---
 
 

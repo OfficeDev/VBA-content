@@ -3,10 +3,11 @@ title: PivotLine.LineType Property (Excel)
 keywords: vbaxl10.chm764073
 f1_keywords:
 - vbaxl10.chm764073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLine.LineType
 ms.assetid: ace4b9ae-3d2a-4deb-00a5-42459052a0d5
+ms.date: 06/08/2017
 ---
 
 

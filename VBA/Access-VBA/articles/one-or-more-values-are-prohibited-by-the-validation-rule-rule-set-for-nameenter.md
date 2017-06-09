@@ -3,8 +3,9 @@ title: One or more values are prohibited by the validation rule <rule> set for <
 keywords: jeterr40.chm5003317
 f1_keywords:
 - jeterr40.chm5003317
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3b8155bd-a007-21b1-0c50-25b6bae89e62
+ms.date: 06/08/2017
 ---
 
 # One or more values are prohibited by the validation rule <rule> set for <name>. Enter a value that the expression for this field can accept. (Error 3317)

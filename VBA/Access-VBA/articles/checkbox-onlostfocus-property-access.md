@@ -3,10 +3,11 @@ title: CheckBox.OnLostFocus Property (Access)
 keywords: vbaac10.chm10740
 f1_keywords:
 - vbaac10.chm10740
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnLostFocus
 ms.assetid: b2f7b85b-73c3-b47c-5a31-b9b733208901
+ms.date: 06/08/2017
 ---
 
 

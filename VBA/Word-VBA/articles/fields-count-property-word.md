@@ -3,10 +3,11 @@ title: Fields.Count Property (Word)
 keywords: vbawd10.chm154140673
 f1_keywords:
 - vbawd10.chm154140673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Fields.Count
 ms.assetid: ab47dea0-4f3c-378d-d176-d6c23ea53ed7
+ms.date: 06/08/2017
 ---
 
 

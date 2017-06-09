@@ -3,8 +3,9 @@ title: StartNewUndoEntry Method, PowerPoint [vbapp10.chm502070]
 keywords: vbapp10.chm502070
 f1_keywords:
 - vbapp10.chm502070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6bbfb8b5-a7fd-4832-985a-73ffe2ec8645
+ms.date: 06/08/2017
 ---
 
 

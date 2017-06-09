@@ -3,10 +3,11 @@ title: Document.DocumentOpened Event (Visio)
 keywords: vis_sdr.chm10519130
 f1_keywords:
 - vis_sdr.chm10519130
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DocumentOpened
 ms.assetid: 32e1d16e-1906-9477-bdb7-e72833a055f2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Explorers.Add Method (Outlook)
 keywords: vbaol11.chm122
 f1_keywords:
 - vbaol11.chm122
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorers.Add
 ms.assetid: c3db3c6f-6441-c23e-06f2-afb5b61e5662
+ms.date: 06/08/2017
 ---
 
 

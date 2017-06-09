@@ -3,10 +3,11 @@ title: PostItem.Subject Property (Outlook)
 keywords: vbaol11.chm1536
 f1_keywords:
 - vbaol11.chm1536
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Subject
 ms.assetid: 23973924-e5ca-da22-0e63-7b655c96f67b
+ms.date: 06/08/2017
 ---
 
 

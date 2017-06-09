@@ -3,8 +3,9 @@ title: Invalid property value (Error 380) [1 of 2], Office Shared [vblr6.chm1018
 keywords: vblr6.chm1018980
 f1_keywords:
 - vblr6.chm1018980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6877a34f-1629-448f-af4c-1de8b5da226b
+ms.date: 06/08/2017
 ---
 
 

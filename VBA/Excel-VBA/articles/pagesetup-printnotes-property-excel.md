@@ -3,10 +3,11 @@ title: PageSetup.PrintNotes Property (Excel)
 keywords: vbaxl10.chm473095
 f1_keywords:
 - vbaxl10.chm473095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintNotes
 ms.assetid: 6609fe58-6015-9ae2-4cc0-107e29cd7b9d
+ms.date: 06/08/2017
 ---
 
 

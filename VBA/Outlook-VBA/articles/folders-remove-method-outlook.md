@@ -3,10 +3,11 @@ title: Folders.Remove Method (Outlook)
 keywords: vbaol11.chm51
 f1_keywords:
 - vbaol11.chm51
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.Remove
 ms.assetid: 4b9da2a5-5918-5675-01c7-5a9da5e52a09
+ms.date: 06/08/2017
 ---
 
 

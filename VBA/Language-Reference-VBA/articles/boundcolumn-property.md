@@ -3,10 +3,11 @@ title: BoundColumn Property
 keywords: fm20.chm5225011
 f1_keywords:
 - fm20.chm5225011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BoundColumn
 ms.assetid: 6c5c5c31-0bd3-87bf-4c1d-0b1064ffc0d6
+ms.date: 06/08/2017
 ---
 
 

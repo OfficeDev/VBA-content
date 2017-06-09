@@ -3,10 +3,11 @@ title: AddressEntry.Update Method (Outlook)
 keywords: vbaol11.chm2053
 f1_keywords:
 - vbaol11.chm2053
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Update
 ms.assetid: 099d83cf-01ff-21f8-aabb-ccfd497bab24
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: TabStop Property (VBE.Dev)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c1672383-72cf-4bb0-b1fa-96c830147f21
+ms.date: 06/08/2017
 ---
 
 

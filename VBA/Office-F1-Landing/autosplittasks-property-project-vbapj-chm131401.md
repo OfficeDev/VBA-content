@@ -3,8 +3,9 @@ title: AutoSplitTasks Property, Project [vbapj.chm131401]
 keywords: vbapj.chm131401
 f1_keywords:
 - vbapj.chm131401
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b6d8cbc-3e35-4c13-9763-37da989448ef
+ms.date: 06/08/2017
 ---
 
 

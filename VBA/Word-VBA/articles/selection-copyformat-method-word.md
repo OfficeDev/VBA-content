@@ -3,10 +3,11 @@ title: Selection.CopyFormat Method (Word)
 keywords: vbawd10.chm158663165
 f1_keywords:
 - vbawd10.chm158663165
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.CopyFormat
 ms.assetid: ef892e50-2ff1-3ab0-1112-cf6d268a1103
+ms.date: 06/08/2017
 ---
 
 

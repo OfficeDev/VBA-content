@@ -3,10 +3,11 @@ title: CommandBars.GetScreentipMso Method (Office)
 keywords: vbaof11.chm2023
 f1_keywords:
 - vbaof11.chm2023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetScreentipMso
 ms.assetid: 23411622-2b35-0c0e-9373-9bc75c5e433e
+ms.date: 06/08/2017
 ---
 
 

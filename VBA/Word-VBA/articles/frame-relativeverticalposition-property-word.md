@@ -3,10 +3,11 @@ title: Frame.RelativeVerticalPosition Property (Word)
 keywords: vbawd10.chm153747464
 f1_keywords:
 - vbawd10.chm153747464
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.RelativeVerticalPosition
 ms.assetid: 70da43d6-602b-3afc-3353-a4ac53a48534
+ms.date: 06/08/2017
 ---
 
 

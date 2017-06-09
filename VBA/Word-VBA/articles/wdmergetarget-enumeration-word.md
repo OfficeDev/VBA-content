@@ -1,9 +1,10 @@
 ---
 title: WdMergeTarget Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMergeTarget
 ms.assetid: 04a3e0fb-4f23-6dd4-8040-fb570af58272
+ms.date: 06/08/2017
 ---
 
 

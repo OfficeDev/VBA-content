@@ -3,10 +3,11 @@ title: InlineShape.AlternativeText Property (Word)
 keywords: vbawd10.chm162005123
 f1_keywords:
 - vbawd10.chm162005123
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.AlternativeText
 ms.assetid: a9eba1a4-393d-7d85-a964-984d7b5bd485
+ms.date: 06/08/2017
 ---
 
 

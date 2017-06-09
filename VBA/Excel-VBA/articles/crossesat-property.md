@@ -3,10 +3,11 @@ title: CrossesAt Property
 keywords: vbagr10.chm65579
 f1_keywords:
 - vbagr10.chm65579
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CrossesAt
 ms.assetid: aca86ee9-cb90-5982-b1cf-312829d9cc40
+ms.date: 06/08/2017
 ---
 
 

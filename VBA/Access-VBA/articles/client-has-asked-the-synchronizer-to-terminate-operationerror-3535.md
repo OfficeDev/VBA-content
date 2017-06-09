@@ -3,14 +3,15 @@ title: Client has asked the Synchronizer to terminate operation. (Error 3535)
 keywords: jeterr40.chm5003535
 f1_keywords:
 - jeterr40.chm5003535
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6f96981b-4f86-91e5-0228-3184f1d0f9b1
+ms.date: 06/08/2017
 ---
 
 
 # Client has asked the Synchronizer to terminate operation. (Error 3535)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

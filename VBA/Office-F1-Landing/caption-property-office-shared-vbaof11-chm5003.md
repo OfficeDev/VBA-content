@@ -3,8 +3,9 @@ title: Caption Property, Office Shared [vbaof11.chm5003]
 keywords: vbaof11.chm5003
 f1_keywords:
 - vbaof11.chm5003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4390ceed-af00-4114-856f-e29d01a4f93b
+ms.date: 06/08/2017
 ---
 
 

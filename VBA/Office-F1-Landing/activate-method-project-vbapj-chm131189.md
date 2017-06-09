@@ -3,8 +3,9 @@ title: Activate Method, Project [vbapj.chm131189]
 keywords: vbapj.chm131189
 f1_keywords:
 - vbapj.chm131189
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dfcc81a7-7547-46b4-8d6a-a0c933764ee3
+ms.date: 06/08/2017
 ---
 
 

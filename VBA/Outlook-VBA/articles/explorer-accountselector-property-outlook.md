@@ -3,10 +3,11 @@ title: Explorer.AccountSelector Property (Outlook)
 keywords: vbaol11.chm3553
 f1_keywords:
 - vbaol11.chm3553
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.AccountSelector
 ms.assetid: 5d383684-a88e-8266-522b-7762895e69d3
+ms.date: 06/08/2017
 ---
 
 

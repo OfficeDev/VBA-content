@@ -3,10 +3,11 @@ title: Section.Footers Property (Word)
 keywords: vbawd10.chm156827770
 f1_keywords:
 - vbawd10.chm156827770
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section.Footers
 ms.assetid: 2aa522ae-fc34-eb75-790f-85a8182f76c2
+ms.date: 06/08/2017
 ---
 
 

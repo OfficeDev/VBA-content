@@ -3,10 +3,11 @@ title: DependencyObjects.Parent Property (Access)
 keywords: vbaac10.chm13267
 f1_keywords:
 - vbaac10.chm13267
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DependencyObjects.Parent
 ms.assetid: b35d46b6-f90f-367c-a35c-555733386c2d
+ms.date: 06/08/2017
 ---
 
 

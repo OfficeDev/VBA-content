@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetThreeDFormat Property (Word)
 keywords: vbawd10.chm164626540
 f1_keywords:
 - vbawd10.chm164626540
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetThreeDFormat
 ms.assetid: 16a3b8d8-3fbf-670a-7d89-fac5f04a9512
+ms.date: 06/08/2017
 ---
 
 

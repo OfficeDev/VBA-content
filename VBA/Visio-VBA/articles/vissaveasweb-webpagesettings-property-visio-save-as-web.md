@@ -1,9 +1,10 @@
 ---
 title: VisSaveAsWeb.WebPageSettings Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.WebPageSettings
 ms.assetid: a026cbcb-1156-89f9-429a-3d1b23c78065
+ms.date: 06/08/2017
 ---
 
 

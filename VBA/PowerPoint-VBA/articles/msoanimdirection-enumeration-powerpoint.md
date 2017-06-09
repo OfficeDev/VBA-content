@@ -1,9 +1,10 @@
 ---
 title: MsoAnimDirection Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimDirection
 ms.assetid: 8a65fb1d-3b7a-d4d3-6c8c-d73abf547fb8
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Custom Fields and Data Types Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a85a7bc2-2b85-1782-04a3-0104e0df32aa
+ms.date: 06/08/2017
 ---
 
 

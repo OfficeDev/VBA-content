@@ -3,10 +3,11 @@ title: PbShapeType Enumeration (Publisher)
 keywords: vbapb10.chm65541
 f1_keywords:
 - vbapb10.chm65541
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbShapeType
 ms.assetid: 6fea89c6-4105-a575-8866-9229857c9c8d
+ms.date: 06/08/2017
 ---
 
 

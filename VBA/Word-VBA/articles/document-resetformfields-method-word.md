@@ -3,10 +3,11 @@ title: Document.ResetFormFields Method (Word)
 keywords: vbawd10.chm158007671
 f1_keywords:
 - vbawd10.chm158007671
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ResetFormFields
 ms.assetid: 77354799-7ba7-a4e1-5379-c7664c8820b0
+ms.date: 06/08/2017
 ---
 
 

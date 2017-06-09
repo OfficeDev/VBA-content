@@ -3,8 +3,9 @@ title: AsianFont Cell (Character Section), Visio [Vis_DSS.chm60021]
 keywords: vis_dss.chm60021
 f1_keywords:
 - vis_dss.chm60021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1138d89a-4392-4b8d-b9b8-349a26898c14
+ms.date: 06/08/2017
 ---
 
 

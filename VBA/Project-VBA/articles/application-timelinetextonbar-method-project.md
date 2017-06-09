@@ -3,10 +3,11 @@ title: Application.TimelineTextOnBar Method (Project)
 keywords: vbapj.chm63
 f1_keywords:
 - vbapj.chm63
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TimelineTextOnBar
 ms.assetid: d57ec0d8-8e35-b6eb-1932-454210bc7dad
+ms.date: 06/08/2017
 ---
 
 

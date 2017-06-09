@@ -3,8 +3,9 @@ title: "'Item' is a read-only file, Office Shared [vblr6.chm60060]"
 keywords: vblr6.chm60060
 f1_keywords:
 - vblr6.chm60060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2ba20ff3-8ba7-40e4-8144-4ed65c384442
+ms.date: 06/08/2017
 ---
 
 

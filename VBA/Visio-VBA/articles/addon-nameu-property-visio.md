@@ -3,10 +3,11 @@ title: Addon.NameU Property (Visio)
 keywords: vis_sdr.chm12451985
 f1_keywords:
 - vis_sdr.chm12451985
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Addon.NameU
 ms.assetid: ad6f445d-81b7-f45f-753c-8228a1f31b78
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Masters.BeforeSelectionDelete Event (Visio)
 keywords: vis_sdr.chm10819060
 f1_keywords:
 - vis_sdr.chm10819060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.BeforeSelectionDelete
 ms.assetid: 3aed0ebc-3658-f9b9-ae63-dd1f0e3efe54
+ms.date: 06/08/2017
 ---
 
 

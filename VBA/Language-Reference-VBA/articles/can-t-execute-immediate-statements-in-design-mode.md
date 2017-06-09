@@ -3,8 +3,9 @@ title: Can't execute immediate statements in design mode
 keywords: vblr6.chm1015637
 f1_keywords:
 - vblr6.chm1015637
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ceb67fa9-6893-6e03-6d88-c48a2b9da937
+ms.date: 06/08/2017
 ---
 
 

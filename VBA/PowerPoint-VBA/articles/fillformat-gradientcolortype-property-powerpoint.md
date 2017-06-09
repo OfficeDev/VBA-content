@@ -3,10 +3,11 @@ title: FillFormat.GradientColorType Property (PowerPoint)
 keywords: vbapp10.chm552013
 f1_keywords:
 - vbapp10.chm552013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.GradientColorType
 ms.assetid: 90224ee2-80f9-480b-bd1b-678035ded3ef
+ms.date: 06/08/2017
 ---
 
 

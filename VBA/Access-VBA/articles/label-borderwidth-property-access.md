@@ -3,10 +3,11 @@ title: Label.BorderWidth Property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BorderWidth
 ms.assetid: 245db6e4-81f8-a95b-65a8-9a7a5dd0b0e0
+ms.date: 06/08/2017
 ---
 
 

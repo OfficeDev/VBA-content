@@ -3,10 +3,11 @@ title: OlkSenderPhoto.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000479
 f1_keywords:
 - vbaol11.chm1000479
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.MouseIcon
 ms.assetid: 9be2192e-b3e0-bdc6-f06e-eeef5b231ab1
+ms.date: 06/08/2017
 ---
 
 

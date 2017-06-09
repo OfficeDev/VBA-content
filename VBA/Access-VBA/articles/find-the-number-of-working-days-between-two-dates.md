@@ -1,7 +1,8 @@
 ---
 title: Find the Number of Working Days Between Two Dates
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2831d409-1b10-06ef-54ec-9c3386e70021
+ms.date: 06/08/2017
 ---
 
 

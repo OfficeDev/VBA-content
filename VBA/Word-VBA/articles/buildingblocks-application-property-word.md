@@ -1,9 +1,10 @@
 ---
 title: BuildingBlocks.Application Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlocks.Application
 ms.assetid: 1a4a34bc-f322-2f2e-e1f4-edbb038bd455
+ms.date: 06/08/2017
 ---
 
 

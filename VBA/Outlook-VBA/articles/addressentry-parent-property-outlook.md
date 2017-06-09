@@ -3,10 +3,11 @@ title: AddressEntry.Parent Property (Outlook)
 keywords: vbaol11.chm2041
 f1_keywords:
 - vbaol11.chm2041
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Parent
 ms.assetid: 191bc4b8-0e55-8676-569f-7fde61033298
+ms.date: 06/08/2017
 ---
 
 

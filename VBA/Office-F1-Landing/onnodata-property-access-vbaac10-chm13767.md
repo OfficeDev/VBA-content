@@ -3,8 +3,9 @@ title: OnNoData Property, Access [vbaac10.chm13767]
 keywords: vbaac10.chm13767
 f1_keywords:
 - vbaac10.chm13767
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4922c6fc-2b71-4eb8-93b5-d751cd7dab35
+ms.date: 06/08/2017
 ---
 
 

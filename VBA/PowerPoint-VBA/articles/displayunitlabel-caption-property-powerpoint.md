@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Caption Property (PowerPoint)
 keywords: vbapp10.chm699001
 f1_keywords:
 - vbapp10.chm699001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Caption
 ms.assetid: ac560738-7ab5-3b5c-92b6-c46c1f28e483
+ms.date: 06/08/2017
 ---
 
 

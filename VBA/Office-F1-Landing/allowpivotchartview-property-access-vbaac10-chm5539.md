@@ -3,8 +3,9 @@ title: AllowPivotChartView Property, Access [vbaac10.chm5539]
 keywords: vbaac10.chm5539
 f1_keywords:
 - vbaac10.chm5539
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6019845b-a4d1-47aa-9f37-622b5f169498
+ms.date: 06/08/2017
 ---
 
 

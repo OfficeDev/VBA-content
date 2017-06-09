@@ -3,8 +3,9 @@ title: BaseConnectionString Property, Access [vbaac10.chm12713]
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 436e0cd1-c9b6-45a8-ab9f-bf3b0f8a55c3
+ms.date: 06/08/2017
 ---
 
 

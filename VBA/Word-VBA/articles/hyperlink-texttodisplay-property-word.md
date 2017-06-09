@@ -3,10 +3,11 @@ title: Hyperlink.TextToDisplay Property (Word)
 keywords: vbawd10.chm161285108
 f1_keywords:
 - vbawd10.chm161285108
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.TextToDisplay
 ms.assetid: 9b9f73cd-bf4e-367e-c901-746b85da9f9c
+ms.date: 06/08/2017
 ---
 
 

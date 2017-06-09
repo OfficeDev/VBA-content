@@ -3,10 +3,11 @@ title: Workbook.FullNameURLEncoded Property (Excel)
 keywords: vbaxl10.chm199203
 f1_keywords:
 - vbaxl10.chm199203
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.FullNameURLEncoded
 ms.assetid: 589d98f7-e6fa-bc28-2c8f-7cb72009737a
+ms.date: 06/08/2017
 ---
 
 

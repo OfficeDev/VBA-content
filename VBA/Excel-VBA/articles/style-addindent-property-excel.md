@@ -3,10 +3,11 @@ title: Style.AddIndent Property (Excel)
 keywords: vbaxl10.chm177073
 f1_keywords:
 - vbaxl10.chm177073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.AddIndent
 ms.assetid: 76b9c820-8c94-3cf6-7267-6d2710f07b74
+ms.date: 06/08/2017
 ---
 
 

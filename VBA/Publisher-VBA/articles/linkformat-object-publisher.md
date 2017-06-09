@@ -3,10 +3,11 @@ title: LinkFormat Object (Publisher)
 keywords: vbapb10.chm4456447
 f1_keywords:
 - vbapb10.chm4456447
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LinkFormat
 ms.assetid: 5b588edd-b026-cfc7-4acb-77290ae4d297
+ms.date: 06/08/2017
 ---
 
 

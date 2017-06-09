@@ -3,8 +3,9 @@ title: ForeShade Property, Access [vbaac10.chm14606]
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6d756ede-507b-481a-a82b-7fbf56bfdcfd
+ms.date: 06/08/2017
 ---
 
 

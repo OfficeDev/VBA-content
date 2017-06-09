@@ -3,10 +3,11 @@ title: ObjectVerbs Object (PowerPoint)
 keywords: vbapp10.chm564000
 f1_keywords:
 - vbapp10.chm564000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ObjectVerbs
 ms.assetid: 71dfd143-cec6-8b6f-7d0f-5229bc442d92
+ms.date: 06/08/2017
 ---
 
 

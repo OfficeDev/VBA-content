@@ -3,10 +3,11 @@ title: ChartGroup.Index Property (PowerPoint)
 keywords: vbapp10.chm692012
 f1_keywords:
 - vbapp10.chm692012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Index
 ms.assetid: 90c98031-4c7d-c3a3-8841-49edb50a00ad
+ms.date: 06/08/2017
 ---
 
 

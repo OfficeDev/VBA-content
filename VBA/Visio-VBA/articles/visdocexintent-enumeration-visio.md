@@ -1,7 +1,8 @@
 ---
 title: VisDocExIntent Enumeration (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: ddf76405-46b9-0b4b-88c0-173297a0a24b
+ms.date: 06/08/2017
 ---
 
 

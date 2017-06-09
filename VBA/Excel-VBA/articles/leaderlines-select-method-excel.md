@@ -3,10 +3,11 @@ title: LeaderLines.Select Method (Excel)
 keywords: vbaxl10.chm606075
 f1_keywords:
 - vbaxl10.chm606075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LeaderLines.Select
 ms.assetid: 727367f3-08de-12f7-650a-3e93d9ff3a9e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.SendFaxOverInternet Method (Word)
 keywords: vbawd10.chm158007760
 f1_keywords:
 - vbawd10.chm158007760
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SendFaxOverInternet
 ms.assetid: 1e1d061e-c33a-fdf1-ae63-b9a62babc1ef
+ms.date: 06/08/2017
 ---
 
 

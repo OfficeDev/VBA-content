@@ -3,10 +3,11 @@ title: Form.Query Property (Access)
 keywords: vbaac10.chm13539,vbaac10.chm5103
 f1_keywords:
 - vbaac10.chm13539,vbaac10.chm5103
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Query
 ms.assetid: fcef59f9-f405-0a05-f986-b29c2b0528de
+ms.date: 06/08/2017
 ---
 
 

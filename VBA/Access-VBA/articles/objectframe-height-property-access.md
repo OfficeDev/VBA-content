@@ -3,10 +3,11 @@ title: ObjectFrame.Height Property (Access)
 keywords: vbaac10.chm11591
 f1_keywords:
 - vbaac10.chm11591
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Height
 ms.assetid: 53d6085e-e01e-5260-0802-3958f62e378a
+ms.date: 06/08/2017
 ---
 
 

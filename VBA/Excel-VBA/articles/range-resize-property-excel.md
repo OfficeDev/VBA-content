@@ -3,10 +3,11 @@ title: Range.Resize Property (Excel)
 keywords: vbaxl10.chm144187
 f1_keywords:
 - vbaxl10.chm144187
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Resize
 ms.assetid: 05af0539-8aa3-c83c-1972-dfac618929b9
+ms.date: 06/08/2017
 ---
 
 

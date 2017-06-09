@@ -3,10 +3,11 @@ title: Window.Caption Property (Word)
 keywords: vbawd10.chm157417472
 f1_keywords:
 - vbawd10.chm157417472
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Caption
 ms.assetid: 8d8df29a-7d32-65c8-a714-a356d06b0969
+ms.date: 06/08/2017
 ---
 
 

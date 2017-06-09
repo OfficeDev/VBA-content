@@ -1,7 +1,8 @@
 ---
 title: SharedWorkspaceLinks Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 802944a7-77cf-45ad-8592-53e484783785
+ms.date: 06/08/2017
 ---
 
 

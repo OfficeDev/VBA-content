@@ -1,6 +1,8 @@
 ---
 title: TextRange2.Lines Property (PowerPoint)
 ms.assetid: 09b52bda-e1ab-4cf2-bf38-25a156bf4c2e
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

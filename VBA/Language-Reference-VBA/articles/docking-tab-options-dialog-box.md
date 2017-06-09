@@ -3,8 +3,9 @@ title: Docking Tab (Options Dialog Box)
 keywords: vbui6.chm181049
 f1_keywords:
 - vbui6.chm181049
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5596e84d-97d5-ca1a-c9af-adf1454e8ee5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Chart.Select Event (Excel)
 keywords: vbaxl10.chm500083
 f1_keywords:
 - vbaxl10.chm500083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Select
 ms.assetid: 00ea6501-e92e-5b95-f2b0-bb9b014bb5ec
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Application.QueryCancelDocumentClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelDocumentClose
 ms.assetid: 5d58168d-ed84-943e-26b6-16246c907e52
+ms.date: 06/08/2017
 ---
 
 

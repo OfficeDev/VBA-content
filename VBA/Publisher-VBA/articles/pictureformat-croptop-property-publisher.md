@@ -3,10 +3,11 @@ title: PictureFormat.CropTop Property (Publisher)
 keywords: vbapb10.chm3604742
 f1_keywords:
 - vbapb10.chm3604742
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropTop
 ms.assetid: b235898d-addf-6a4c-5693-229431545e6c
+ms.date: 06/08/2017
 ---
 
 

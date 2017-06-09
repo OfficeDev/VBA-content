@@ -1,7 +1,8 @@
 ---
 title: Comment.Delete Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 7762f264-f680-5758-7c35-dfe9067b61ca
+ms.date: 06/08/2017
 ---
 
 

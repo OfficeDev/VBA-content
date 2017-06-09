@@ -3,8 +3,9 @@ title: Printer error (Error 482) [1 of 2]
 keywords: vblr6.chm482
 f1_keywords:
 - vblr6.chm482
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6fb63b55-46b5-a74b-01ad-8caeca190c12
+ms.date: 06/08/2017
 ---
 
 

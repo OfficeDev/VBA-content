@@ -1,7 +1,8 @@
 ---
 title: Page Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: aeaf2aae-5429-4431-b094-d3db9215bdbc
+ms.date: 06/08/2017
 ---
 
 

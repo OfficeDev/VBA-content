@@ -3,10 +3,11 @@ title: PivotCache.Index Property (Excel)
 keywords: vbaxl10.chm227076
 f1_keywords:
 - vbaxl10.chm227076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.Index
 ms.assetid: a806f65f-69c5-0691-8a7d-e6a4601116b4
+ms.date: 06/08/2017
 ---
 
 

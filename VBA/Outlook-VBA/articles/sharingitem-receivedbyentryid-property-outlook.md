@@ -3,10 +3,11 @@ title: SharingItem.ReceivedByEntryID Property (Outlook)
 keywords: vbaol11.chm644
 f1_keywords:
 - vbaol11.chm644
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReceivedByEntryID
 ms.assetid: 8255da4d-8312-3ed5-b216-5ddc9298c505
+ms.date: 06/08/2017
 ---
 
 

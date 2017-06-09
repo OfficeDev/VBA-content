@@ -3,10 +3,11 @@ title: Page.Name Property (Visio)
 keywords: vis_sdr.chm10913930
 f1_keywords:
 - vis_sdr.chm10913930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Name
 ms.assetid: 745bb4cf-b79c-4212-325b-40b4e1c9bc81
+ms.date: 06/08/2017
 ---
 
 

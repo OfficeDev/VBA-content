@@ -3,10 +3,11 @@ title: HeaderFooter.Format Property (PowerPoint)
 keywords: vbapp10.chm582006
 f1_keywords:
 - vbapp10.chm582006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.Format
 ms.assetid: ba8f2afa-8c57-60e0-cd84-9366c016efd9
+ms.date: 06/08/2017
 ---
 
 

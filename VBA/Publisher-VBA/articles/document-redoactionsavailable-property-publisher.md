@@ -3,10 +3,11 @@ title: Document.RedoActionsAvailable Property (Publisher)
 keywords: vbapb10.chm196727
 f1_keywords:
 - vbapb10.chm196727
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.RedoActionsAvailable
 ms.assetid: 9af11772-e807-730a-89a0-da06e979f834
+ms.date: 06/08/2017
 ---
 
 

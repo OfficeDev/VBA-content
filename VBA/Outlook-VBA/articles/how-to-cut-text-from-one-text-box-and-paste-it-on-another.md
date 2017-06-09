@@ -3,8 +3,9 @@ title: "How to: Cut Text from One Text Box and Paste it on Another"
 keywords: olfm10.chm3077171
 f1_keywords:
 - olfm10.chm3077171
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 33339831-9567-6910-f596-6a9a398886e8
+ms.date: 06/08/2017
 ---
 
 

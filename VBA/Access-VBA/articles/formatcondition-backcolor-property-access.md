@@ -3,10 +3,11 @@ title: FormatCondition.BackColor Property (Access)
 keywords: vbaac10.chm10053
 f1_keywords:
 - vbaac10.chm10053
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.BackColor
 ms.assetid: b0154db6-f474-4d7d-3d30-e7a0fadf3b18
+ms.date: 06/08/2017
 ---
 
 

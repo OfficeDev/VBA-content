@@ -3,10 +3,11 @@ title: AutoCorrect.FirstLetterAutoAdd Property (Word)
 keywords: vbawd10.chm155779080
 f1_keywords:
 - vbawd10.chm155779080
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.FirstLetterAutoAdd
 ms.assetid: 17f51d86-405a-7188-eb8c-bfde5bdb386c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Flag6 Property, Project [vbapj.chm132251]
 keywords: vbapj.chm132251
 f1_keywords:
 - vbapj.chm132251
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89a21d68-e552-475f-b26a-32ea4b05d544
+ms.date: 06/08/2017
 ---
 
 

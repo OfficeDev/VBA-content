@@ -3,10 +3,11 @@ title: DataLabels.ShowBubbleSize Property (Excel)
 keywords: vbaxl10.chm584103
 f1_keywords:
 - vbaxl10.chm584103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowBubbleSize
 ms.assetid: b7fe576f-c736-4e64-1c24-ec21273e237f
+ms.date: 06/08/2017
 ---
 
 

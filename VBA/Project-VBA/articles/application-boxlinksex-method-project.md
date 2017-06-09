@@ -3,10 +3,11 @@ title: Application.BoxLinksEx Method (Project)
 keywords: vbapj.chm2158
 f1_keywords:
 - vbapj.chm2158
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxLinksEx
 ms.assetid: f6292e01-3f4a-3b83-e86c-2316c83b2509
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomControl.ObjectVerbs Property (Access)
 keywords: vbaac10.chm11999
 f1_keywords:
 - vbaac10.chm11999
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.ObjectVerbs
 ms.assetid: fae2e8b8-6326-143f-15cd-ba1f1c541f5d
+ms.date: 06/08/2017
 ---
 
 

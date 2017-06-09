@@ -3,10 +3,11 @@ title: Chart.Refresh Method (Word)
 keywords: vbawd10.chm79364187
 f1_keywords:
 - vbawd10.chm79364187
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Refresh
 ms.assetid: 1f53620e-1a79-b932-bbf2-2a6cd95d524c
+ms.date: 06/08/2017
 ---
 
 

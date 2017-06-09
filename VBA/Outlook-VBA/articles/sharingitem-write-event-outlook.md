@@ -1,9 +1,10 @@
 ---
 title: SharingItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Write
 ms.assetid: 22cfb332-d9e9-005a-fb6c-e77ff098a444
+ms.date: 06/08/2017
 ---
 
 

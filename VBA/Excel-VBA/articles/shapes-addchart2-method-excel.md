@@ -3,8 +3,9 @@ title: Shapes.AddChart2 Method (Excel)
 keywords: vbaxl10.chm638096
 f1_keywords:
 - vbaxl10.chm638096
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 2d4569df-2f77-40d5-5f81-859e13e0abb7
+ms.date: 06/08/2017
 ---
 
 

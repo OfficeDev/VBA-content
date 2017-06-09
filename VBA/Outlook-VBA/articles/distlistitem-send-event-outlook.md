@@ -1,9 +1,10 @@
 ---
 title: DistListItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Send
 ms.assetid: 8f92ff6e-9922-1460-0c9d-eba77dadbba1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListBox.ColumnOrder Property (Access)
 keywords: vbaac10.chm11264
 f1_keywords:
 - vbaac10.chm11264
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ColumnOrder
 ms.assetid: 846b745a-0818-a312-dc60-774dce7ec059
+ms.date: 06/08/2017
 ---
 
 

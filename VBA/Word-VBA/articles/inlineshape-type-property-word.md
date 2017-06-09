@@ -3,10 +3,11 @@ title: InlineShape.Type Property (Word)
 keywords: vbawd10.chm162004998
 f1_keywords:
 - vbawd10.chm162004998
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Type
 ms.assetid: 0f85b99c-025b-9dff-b4f2-b74ab627efcc
+ms.date: 06/08/2017
 ---
 
 

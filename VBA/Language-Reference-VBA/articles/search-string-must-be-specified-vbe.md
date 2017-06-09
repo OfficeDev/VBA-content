@@ -1,7 +1,8 @@
 ---
 title: Search string must be specified (VBE)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2c98f93b-ae7b-4fcc-9ebf-bc483199cdfa
+ms.date: 06/08/2017
 ---
 
 

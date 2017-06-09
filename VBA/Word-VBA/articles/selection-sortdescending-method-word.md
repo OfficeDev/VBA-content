@@ -3,10 +3,11 @@ title: Selection.SortDescending Method (Word)
 keywords: vbawd10.chm158662826
 f1_keywords:
 - vbawd10.chm158662826
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SortDescending
 ms.assetid: 057461e9-d8f8-7d9b-c985-c634dd8bef6a
+ms.date: 06/08/2017
 ---
 
 

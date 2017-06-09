@@ -1,8 +1,11 @@
+---
+title: Office for Mac
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Office for Mac
 
 Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.
-
-**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 

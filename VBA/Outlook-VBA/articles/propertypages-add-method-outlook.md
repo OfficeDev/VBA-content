@@ -3,10 +3,11 @@ title: PropertyPages.Add Method (Outlook)
 keywords: vbaol11.chm167
 f1_keywords:
 - vbaol11.chm167
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPages.Add
 ms.assetid: 85fd8b5e-7236-4cae-6d2d-5ff940ceb6a1
+ms.date: 06/08/2017
 ---
 
 

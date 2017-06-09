@@ -3,8 +3,9 @@ title: Import a Text File into Code
 keywords: vbhw6.chm1008942
 f1_keywords:
 - vbhw6.chm1008942
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83d1d2f0-26a0-c411-db5d-4233086f9f98
+ms.date: 06/08/2017
 ---
 
 

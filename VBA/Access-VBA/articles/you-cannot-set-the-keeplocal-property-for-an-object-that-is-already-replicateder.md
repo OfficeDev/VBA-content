@@ -3,14 +3,15 @@ title: You cannot set the KeepLocal property for an object that is already repli
 keywords: jeterr40.chm5003457
 f1_keywords:
 - jeterr40.chm5003457
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 916ea4af-3190-99f4-901d-76b7754efa6a
+ms.date: 06/08/2017
 ---
 
 
 # You cannot set the KeepLocal property for an object that is already replicated. (Error 3457)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

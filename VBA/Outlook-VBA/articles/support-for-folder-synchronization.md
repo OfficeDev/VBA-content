@@ -3,8 +3,9 @@ title: Support for Folder Synchronization
 keywords: vbaol11.chm5272702
 f1_keywords:
 - vbaol11.chm5272702
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d1f941dd-fde5-b547-0751-79d03144c6bb
+ms.date: 06/08/2017
 ---
 
 

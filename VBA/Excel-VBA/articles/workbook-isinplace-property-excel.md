@@ -3,10 +3,11 @@ title: Workbook.IsInplace Property (Excel)
 keywords: vbaxl10.chm199184
 f1_keywords:
 - vbaxl10.chm199184
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.IsInplace
 ms.assetid: f492c09f-79d1-cde0-6cf1-db9644e41589
+ms.date: 06/08/2017
 ---
 
 

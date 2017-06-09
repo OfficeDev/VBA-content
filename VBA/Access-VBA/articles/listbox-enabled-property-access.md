@@ -3,10 +3,11 @@ title: ListBox.Enabled Property (Access)
 keywords: vbaac10.chm11235
 f1_keywords:
 - vbaac10.chm11235
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Enabled
 ms.assetid: f6e95fea-f038-e190-ee8c-1ab088e27828
+ms.date: 06/08/2017
 ---
 
 

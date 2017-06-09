@@ -3,10 +3,11 @@ title: XMLNode.Validate Method (Word)
 keywords: vbawd10.chm37748840
 f1_keywords:
 - vbawd10.chm37748840
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.Validate
 ms.assetid: 1a520e28-6b4c-dd95-ba74-cde60e36ad32
+ms.date: 06/08/2017
 ---
 
 

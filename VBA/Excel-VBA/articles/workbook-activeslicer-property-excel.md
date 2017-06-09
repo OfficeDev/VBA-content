@@ -3,10 +3,11 @@ title: Workbook.ActiveSlicer Property (Excel)
 keywords: vbaxl10.chm199267
 f1_keywords:
 - vbaxl10.chm199267
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ActiveSlicer
 ms.assetid: d3858353-0be1-338c-e43f-1e5ffb7f37ba
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationControl.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BorderTint
 ms.assetid: 8e0a943d-f863-7bd6-6491-5661b3b58556
+ms.date: 06/08/2017
 ---
 
 

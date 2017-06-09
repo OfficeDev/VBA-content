@@ -3,8 +3,9 @@ title: Picture Property, Access [vbaac10.chm10451]
 keywords: vbaac10.chm10451
 f1_keywords:
 - vbaac10.chm10451
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 27a97b1c-3250-428b-9d51-44614b97aeae
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Connection (ADO/WFC Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: adead04c-7a49-40b8-6d15-5d19c559b1b2
+ms.date: 06/08/2017
 ---
 
 
 # Connection (ADO/WFC Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

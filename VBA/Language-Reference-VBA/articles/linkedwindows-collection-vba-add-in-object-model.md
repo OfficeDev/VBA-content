@@ -3,8 +3,9 @@ title: LinkedWindows Collection (VBA Add-In Object Model)
 keywords: vbob6.chm1070949
 f1_keywords:
 - vbob6.chm1070949
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 182ee238-c7e5-2d8b-8144-25edd064d1e4
+ms.date: 06/08/2017
 ---
 
 

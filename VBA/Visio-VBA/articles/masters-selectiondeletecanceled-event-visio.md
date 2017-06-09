@@ -3,10 +3,11 @@ title: Masters.SelectionDeleteCanceled Event (Visio)
 keywords: vis_sdr.chm10819365
 f1_keywords:
 - vis_sdr.chm10819365
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.SelectionDeleteCanceled
 ms.assetid: d152ee14-96e0-7cde-6a9f-2ea16d17799f
+ms.date: 06/08/2017
 ---
 
 

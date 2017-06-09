@@ -3,10 +3,11 @@ title: PictureFormat.ColorType Property (Word)
 keywords: vbawd10.chm164298853
 f1_keywords:
 - vbawd10.chm164298853
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.ColorType
 ms.assetid: f4596bf7-4602-385d-61c0-0aed87aaf420
+ms.date: 06/08/2017
 ---
 
 

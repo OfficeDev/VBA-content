@@ -3,8 +3,9 @@ title: WorksheetFunction.Csc Method (Excel)
 keywords: vbaxl10.chm137425
 f1_keywords:
 - vbaxl10.chm137425
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 92eb3bc6-afa3-ca11-6eeb-26d3c8c4ca6d
+ms.date: 06/08/2017
 ---
 
 

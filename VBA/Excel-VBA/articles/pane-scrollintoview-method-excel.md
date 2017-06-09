@@ -3,10 +3,11 @@ title: Pane.ScrollIntoView Method (Excel)
 keywords: vbaxl10.chm360080
 f1_keywords:
 - vbaxl10.chm360080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.ScrollIntoView
 ms.assetid: 650020f6-cc4a-fe19-8c7a-3c2ed9b27e16
+ms.date: 06/08/2017
 ---
 
 

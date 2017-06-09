@@ -3,10 +3,11 @@ title: Shapes.ContainingPage Property (Visio)
 keywords: vis_sdr.chm11313305
 f1_keywords:
 - vis_sdr.chm11313305
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.ContainingPage
 ms.assetid: 0e74569b-7044-6743-9dfe-52ff8acb11dc
+ms.date: 06/08/2017
 ---
 
 

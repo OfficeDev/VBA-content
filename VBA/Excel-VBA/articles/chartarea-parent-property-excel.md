@@ -3,10 +3,11 @@ title: ChartArea.Parent Property (Excel)
 keywords: vbaxl10.chm620073
 f1_keywords:
 - vbaxl10.chm620073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea.Parent
 ms.assetid: 61b456e7-7bba-2b71-4681-7e548248a512
+ms.date: 06/08/2017
 ---
 
 

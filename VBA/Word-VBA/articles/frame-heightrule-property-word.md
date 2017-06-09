@@ -3,10 +3,11 @@ title: Frame.HeightRule Property (Word)
 keywords: vbawd10.chm153747457
 f1_keywords:
 - vbawd10.chm153747457
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.HeightRule
 ms.assetid: f7b96439-6e08-ee9c-3c77-739666756c50
+ms.date: 06/08/2017
 ---
 
 

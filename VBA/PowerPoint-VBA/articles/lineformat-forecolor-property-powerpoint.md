@@ -3,10 +3,11 @@ title: LineFormat.ForeColor Property (PowerPoint)
 keywords: vbapp10.chm553010
 f1_keywords:
 - vbapp10.chm553010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.ForeColor
 ms.assetid: 0b022f2e-d546-2d56-13ae-1040682ee9d0
+ms.date: 06/08/2017
 ---
 
 

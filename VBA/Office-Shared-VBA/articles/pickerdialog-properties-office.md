@@ -1,7 +1,8 @@
 ---
 title: PickerDialog Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ee033d6d-d553-458c-bdb8-1a4baa6cdf5c
+ms.date: 06/08/2017
 ---
 
 

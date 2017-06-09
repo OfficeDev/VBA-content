@@ -3,10 +3,11 @@ title: InvisibleApp.HelpPaths Property (Visio)
 keywords: vis_sdr.chm17513635
 f1_keywords:
 - vis_sdr.chm17513635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.HelpPaths
 ms.assetid: 31e7a73f-85ad-dce0-cfce-3b1a1fdb634d
+ms.date: 06/08/2017
 ---
 
 

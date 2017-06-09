@@ -3,8 +3,9 @@ title: Bad file mode (Error 54), Office Shared [vblr6.chm1000054]
 keywords: vblr6.chm1000054
 f1_keywords:
 - vblr6.chm1000054
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e66f144f-780e-434a-8f55-a2aaa995de3e
+ms.date: 06/08/2017
 ---
 
 

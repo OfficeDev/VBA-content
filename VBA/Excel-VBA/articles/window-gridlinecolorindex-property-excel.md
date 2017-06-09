@@ -3,10 +3,11 @@ title: Window.GridlineColorIndex Property (Excel)
 keywords: vbaxl10.chm356094
 f1_keywords:
 - vbaxl10.chm356094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.GridlineColorIndex
 ms.assetid: c178bed5-8478-aea9-7cb4-2c7f498b533e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.DeliverableDependencyDelete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DeliverableDependencyDelete
 ms.assetid: 3baa2e62-3352-c3e9-6855-c90da6eea3a2
+ms.date: 06/08/2017
 ---
 
 

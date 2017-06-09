@@ -3,10 +3,11 @@ title: Masters.TextChanged Event (Visio)
 keywords: vis_sdr.chm10819255
 f1_keywords:
 - vis_sdr.chm10819255
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.TextChanged
 ms.assetid: b01fb699-4c8b-2f86-c69d-70aee941c49b
+ms.date: 06/08/2017
 ---
 
 

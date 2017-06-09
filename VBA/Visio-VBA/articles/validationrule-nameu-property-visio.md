@@ -3,10 +3,11 @@ title: ValidationRule.NameU Property (Visio)
 keywords: vis_sdr.chm18451990
 f1_keywords:
 - vis_sdr.chm18451990
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.NameU
 ms.assetid: ed5f5ba3-5dcc-2d60-45d8-8198292f2aed
+ms.date: 06/08/2017
 ---
 
 

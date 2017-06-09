@@ -1,9 +1,10 @@
 ---
 title: Resource.Text13 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text13
 ms.assetid: 332280ee-894f-dc1c-b84e-f32117107424
+ms.date: 06/08/2017
 ---
 
 

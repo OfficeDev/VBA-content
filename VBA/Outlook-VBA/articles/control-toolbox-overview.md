@@ -1,7 +1,8 @@
 ---
 title: Control Toolbox Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0dac9ed6-d9d5-1c3b-cfd2-ce564e5dc6e2
+ms.date: 06/08/2017
 ---
 
 

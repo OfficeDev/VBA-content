@@ -3,10 +3,11 @@ title: Attachment.StatusBarText Property (Access)
 keywords: vbaac10.chm14012
 f1_keywords:
 - vbaac10.chm14012
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.StatusBarText
 ms.assetid: 9d947d11-edb1-947a-df0c-727ef9b1599a
+ms.date: 06/08/2017
 ---
 
 

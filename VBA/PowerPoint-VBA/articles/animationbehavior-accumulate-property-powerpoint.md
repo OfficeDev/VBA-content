@@ -3,10 +3,11 @@ title: AnimationBehavior.Accumulate Property (PowerPoint)
 keywords: vbapp10.chm657004
 f1_keywords:
 - vbapp10.chm657004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Accumulate
 ms.assetid: 218687c0-6a0e-22ba-a921-efc460986d54
+ms.date: 06/08/2017
 ---
 
 

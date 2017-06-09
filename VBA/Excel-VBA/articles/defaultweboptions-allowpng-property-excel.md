@@ -3,10 +3,11 @@ title: DefaultWebOptions.AllowPNG Property (Excel)
 keywords: vbaxl10.chm660082
 f1_keywords:
 - vbaxl10.chm660082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.AllowPNG
 ms.assetid: b4cdab42-25ed-e313-ebf2-fc9abd68474b
+ms.date: 06/08/2017
 ---
 
 

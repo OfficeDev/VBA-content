@@ -3,10 +3,11 @@ title: Report.UseDefaultPrinter Property (Access)
 keywords: vbaac10.chm13812
 f1_keywords:
 - vbaac10.chm13812
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.UseDefaultPrinter
 ms.assetid: a7edf38e-181b-3822-bdb4-fb74ec18d40a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: MaintainHierarchy Property, Project [vbapj.chm132366]
 keywords: vbapj.chm132366
 f1_keywords:
 - vbapj.chm132366
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 72ad530e-4dd3-48cf-9c8b-7eac474c2487
+ms.date: 06/08/2017
 ---
 
 

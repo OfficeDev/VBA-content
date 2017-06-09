@@ -3,8 +3,9 @@ title: MarkerIndex Cell (Annotation Section), Visio [vis_sdr.chm60056]
 keywords: vis_sdr.chm60056
 f1_keywords:
 - vis_sdr.chm60056
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 85ff7cac-0596-4f09-a55d-224f0c793387
+ms.date: 06/08/2017
 ---
 
 

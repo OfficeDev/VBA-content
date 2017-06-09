@@ -3,10 +3,11 @@ title: SignatureProvider.VerifyXmlDsig Method (Office)
 keywords: vbaof11.chm287006
 f1_keywords:
 - vbaof11.chm287006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureProvider.VerifyXmlDsig
 ms.assetid: 8b72f282-ace5-4b51-e90a-e2df79affcb1
+ms.date: 06/08/2017
 ---
 
 

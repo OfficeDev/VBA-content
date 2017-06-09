@@ -3,10 +3,11 @@ title: ShapeRange.VerticalFlip Property (PowerPoint)
 keywords: vbapp10.chm548039
 f1_keywords:
 - vbapp10.chm548039
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.VerticalFlip
 ms.assetid: 868657a8-72c6-896d-6a6f-f9adbbc88a59
+ms.date: 06/08/2017
 ---
 
 

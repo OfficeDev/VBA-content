@@ -3,10 +3,11 @@ title: SelLength Property
 keywords: fm20.chm2001870
 f1_keywords:
 - fm20.chm2001870
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SelLength
 ms.assetid: 86f86e84-b22e-a86a-12b9-dc1011cbcf9d
+ms.date: 06/08/2017
 ---
 
 

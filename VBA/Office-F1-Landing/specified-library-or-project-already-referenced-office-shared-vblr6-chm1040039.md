@@ -3,8 +3,9 @@ title: Specified library or project already referenced, Office Shared [vblr6.chm
 keywords: vblr6.chm1040039
 f1_keywords:
 - vblr6.chm1040039
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 597e156c-abd7-4c67-83d4-78df73b39fd5
+ms.date: 06/08/2017
 ---
 
 

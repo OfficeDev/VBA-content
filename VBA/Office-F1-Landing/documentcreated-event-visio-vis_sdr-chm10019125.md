@@ -3,8 +3,9 @@ title: DocumentCreated Event, Visio [vis_sdr.chm10019125]
 keywords: vis_sdr.chm10019125
 f1_keywords:
 - vis_sdr.chm10019125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bc5467a9-201d-4fe3-8db2-78da5e15493c
+ms.date: 06/08/2017
 ---
 
 

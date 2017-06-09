@@ -3,8 +3,9 @@ title: IsOfficeTaskPaneVisible Method, Project [vbapj.chm131228]
 keywords: vbapj.chm131228
 f1_keywords:
 - vbapj.chm131228
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4290d080-610c-44e5-819b-2ad40e78b7d2
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Assignment.Flag5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag5
 ms.assetid: d05594c1-f117-e623-7145-788d60ba6eb5
+ms.date: 06/08/2017
 ---
 
 

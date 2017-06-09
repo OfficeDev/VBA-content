@@ -3,10 +3,11 @@ title: Shape.GetLinkedDataRecordsetIDs Method (Visio)
 keywords: vis_sdr.chm11260220
 f1_keywords:
 - vis_sdr.chm11260220
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GetLinkedDataRecordsetIDs
 ms.assetid: 1ce55d6c-02ae-8d5d-f581-b368e830bcf5
+ms.date: 06/08/2017
 ---
 
 

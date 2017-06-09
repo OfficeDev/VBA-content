@@ -3,8 +3,9 @@ title: Name Property, Access [vbaac10.chm11136]
 keywords: vbaac10.chm11136
 f1_keywords:
 - vbaac10.chm11136
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e5fa5d51-a911-4b5e-8ed9-c2c4d11b61db
+ms.date: 06/08/2017
 ---
 
 

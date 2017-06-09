@@ -3,8 +3,9 @@ title: Delete Method, Excel [vbagr10.chm65653]
 keywords: vbagr10.chm65653
 f1_keywords:
 - vbagr10.chm65653
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd0307b6-2439-464a-979a-398da28f1c51
+ms.date: 06/08/2017
 ---
 
 

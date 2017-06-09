@@ -3,10 +3,11 @@ title: ShapeRange.LayoutInCell Property (Word)
 keywords: vbawd10.chm162857105
 f1_keywords:
 - vbawd10.chm162857105
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.LayoutInCell
 ms.assetid: ed09bd81-007c-0907-5eea-e9e3edf70e8b
+ms.date: 06/08/2017
 ---
 
 

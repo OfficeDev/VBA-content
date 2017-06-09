@@ -3,10 +3,11 @@ title: Validation.Creator Property (Excel)
 keywords: vbaxl10.chm531074
 f1_keywords:
 - vbaxl10.chm531074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Creator
 ms.assetid: 664abd2c-550e-bb5e-877a-db7dc43a5c52
+ms.date: 06/08/2017
 ---
 
 

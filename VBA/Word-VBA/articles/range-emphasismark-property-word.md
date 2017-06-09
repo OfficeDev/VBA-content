@@ -3,10 +3,11 @@ title: Range.EmphasisMark Property (Word)
 keywords: vbawd10.chm157155468
 f1_keywords:
 - vbawd10.chm157155468
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.EmphasisMark
 ms.assetid: 6f0f7d19-efba-8fee-7e6c-abb1defe8529
+ms.date: 06/08/2017
 ---
 
 

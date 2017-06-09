@@ -3,10 +3,11 @@ title: Selection.Characters Property (Word)
 keywords: vbawd10.chm158662709
 f1_keywords:
 - vbawd10.chm158662709
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Characters
 ms.assetid: 605c0fc5-f5b9-6782-9fdd-54589040d243
+ms.date: 06/08/2017
 ---
 
 

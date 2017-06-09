@@ -3,10 +3,11 @@ title: Global.FontNames Property (Word)
 keywords: vbawd10.chm163119115
 f1_keywords:
 - vbawd10.chm163119115
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.FontNames
 ms.assetid: aa70c33b-2ca3-849a-54b0-fe050072f9ac
+ms.date: 06/08/2017
 ---
 
 

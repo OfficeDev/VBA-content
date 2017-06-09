@@ -3,10 +3,11 @@ title: ExchangeDistributionList.Address Property (Outlook)
 keywords: vbaol11.chm2112
 f1_keywords:
 - vbaol11.chm2112
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Address
 ms.assetid: 9bfb7b5c-02ec-febc-c411-574efaa52c55
+ms.date: 06/08/2017
 ---
 
 

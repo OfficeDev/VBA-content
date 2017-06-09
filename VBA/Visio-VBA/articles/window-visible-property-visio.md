@@ -3,10 +3,11 @@ title: Window.Visible Property (Visio)
 keywords: vis_sdr.chm11614650
 f1_keywords:
 - vis_sdr.chm11614650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Visible
 ms.assetid: e713d0cd-def0-0ae2-08c9-fcfed9ffe883
+ms.date: 06/08/2017
 ---
 
 

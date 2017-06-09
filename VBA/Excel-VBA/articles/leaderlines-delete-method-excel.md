@@ -3,10 +3,11 @@ title: LeaderLines.Delete Method (Excel)
 keywords: vbaxl10.chm606074
 f1_keywords:
 - vbaxl10.chm606074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LeaderLines.Delete
 ms.assetid: 57b6cb0c-f0fe-70b7-4958-cfdfd20ee059
+ms.date: 06/08/2017
 ---
 
 

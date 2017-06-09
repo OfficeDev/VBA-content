@@ -3,8 +3,9 @@ title: "How to: Simulate a Two-Dimensional Array with List Boxes"
 keywords: olfm10.chm3077165
 f1_keywords:
 - olfm10.chm3077165
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: da0dd724-ff6e-04e0-c421-6011bffa750e
+ms.date: 06/08/2017
 ---
 
 

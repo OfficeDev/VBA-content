@@ -3,10 +3,11 @@ title: ComboBox.MouseUp Event (Access)
 keywords: vbaac10.chm14223
 f1_keywords:
 - vbaac10.chm14223
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.MouseUp
 ms.assetid: 400e2f82-9177-d084-680e-32673164e457
+ms.date: 06/08/2017
 ---
 
 

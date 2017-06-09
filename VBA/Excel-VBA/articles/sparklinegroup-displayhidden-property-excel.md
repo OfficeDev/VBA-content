@@ -3,10 +3,11 @@ title: SparklineGroup.DisplayHidden Property (Excel)
 keywords: vbaxl10.chm871089
 f1_keywords:
 - vbaxl10.chm871089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.DisplayHidden
 ms.assetid: b78d632a-658e-ce5e-a90b-df399b95cd09
+ms.date: 06/08/2017
 ---
 
 

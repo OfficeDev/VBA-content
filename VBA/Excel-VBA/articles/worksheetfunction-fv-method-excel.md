@@ -3,10 +3,11 @@ title: WorksheetFunction.Fv Method (Excel)
 keywords: vbaxl10.chm137108
 f1_keywords:
 - vbaxl10.chm137108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Fv
 ms.assetid: 0f2cedc5-2f10-0ad1-b140-cdbbfa6af8ce
+ms.date: 06/08/2017
 ---
 
 

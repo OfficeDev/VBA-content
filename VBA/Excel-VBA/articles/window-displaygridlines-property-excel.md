@@ -3,10 +3,11 @@ title: Window.DisplayGridlines Property (Excel)
 keywords: vbaxl10.chm356083
 f1_keywords:
 - vbaxl10.chm356083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.DisplayGridlines
 ms.assetid: d4253c7f-bed2-6e58-9b04-479355f70561
+ms.date: 06/08/2017
 ---
 
 

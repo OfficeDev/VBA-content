@@ -3,10 +3,11 @@ title: PictureFormat.Parent Property (Excel)
 keywords: vbaxl10.chm113001
 f1_keywords:
 - vbaxl10.chm113001
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.Parent
 ms.assetid: 215d013c-02cc-bbe2-32f1-585888506ece
+ms.date: 06/08/2017
 ---
 
 

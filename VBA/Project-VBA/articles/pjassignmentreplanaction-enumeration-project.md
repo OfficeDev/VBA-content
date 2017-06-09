@@ -1,9 +1,10 @@
 ---
 title: PjAssignmentReplanAction Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAssignmentReplanAction
 ms.assetid: 402f981c-2111-3094-09e7-9c8d2164700c
+ms.date: 06/08/2017
 ---
 
 

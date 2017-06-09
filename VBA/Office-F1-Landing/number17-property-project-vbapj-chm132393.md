@@ -3,8 +3,9 @@ title: Number17 Property, Project [vbapj.chm132393]
 keywords: vbapj.chm132393
 f1_keywords:
 - vbapj.chm132393
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 442de4b5-a294-443d-bc4b-4e0ee3029aa0
+ms.date: 06/08/2017
 ---
 
 

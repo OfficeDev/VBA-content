@@ -3,8 +3,9 @@ title: Cost4 Property, Project [vbapj.chm131676]
 keywords: vbapj.chm131676
 f1_keywords:
 - vbapj.chm131676
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 329b4a31-1dd2-478f-bae1-dd7e803ba5a2
+ms.date: 06/08/2017
 ---
 
 

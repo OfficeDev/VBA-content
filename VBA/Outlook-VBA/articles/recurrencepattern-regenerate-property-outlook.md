@@ -3,10 +3,11 @@ title: RecurrencePattern.Regenerate Property (Outlook)
 keywords: vbaol11.chm286
 f1_keywords:
 - vbaol11.chm286
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Regenerate
 ms.assetid: c1db398b-5f13-85e0-981d-795c8c7ac8ea
+ms.date: 06/08/2017
 ---
 
 

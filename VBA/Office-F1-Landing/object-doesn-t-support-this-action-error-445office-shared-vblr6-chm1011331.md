@@ -3,8 +3,9 @@ title: Object doesn't support this action (Error 445), Office Shared [vblr6.chm1
 keywords: vblr6.chm1011331
 f1_keywords:
 - vblr6.chm1011331
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ecdeef48-48e0-4320-9657-d7488e1dd8fd
+ms.date: 06/08/2017
 ---
 
 

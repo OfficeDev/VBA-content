@@ -3,10 +3,11 @@ title: FormatConditions.AddAboveAverage Method (Excel)
 keywords: vbaxl10.chm510083
 f1_keywords:
 - vbaxl10.chm510083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddAboveAverage
 ms.assetid: d5cf96ed-4af7-0be3-62e4-b966db21dfb6
+ms.date: 06/08/2017
 ---
 
 

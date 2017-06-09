@@ -3,10 +3,11 @@ title: Report.Load Event (Access)
 keywords: vbaac10.chm13884
 f1_keywords:
 - vbaac10.chm13884
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Load
 ms.assetid: 966527a0-4c61-9f5e-50ca-791d39bd24ac
+ms.date: 06/08/2017
 ---
 
 

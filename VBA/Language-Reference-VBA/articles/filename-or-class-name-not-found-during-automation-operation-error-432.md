@@ -3,8 +3,9 @@ title: Filename or class name not found during Automation operation (Error 432)
 keywords: vblr6.chm1000432
 f1_keywords:
 - vblr6.chm1000432
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 56e222c6-2300-ec19-c9cb-2a9e42d19fe0
+ms.date: 06/08/2017
 ---
 
 

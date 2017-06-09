@@ -3,10 +3,11 @@ title: SparkHorizontalAxis.RightToLeftPlotOrder Property (Excel)
 keywords: vbaxl10.chm879075
 f1_keywords:
 - vbaxl10.chm879075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.RightToLeftPlotOrder
 ms.assetid: 75515893-aab3-379f-26c6-31145493a592
+ms.date: 06/08/2017
 ---
 
 

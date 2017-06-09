@@ -3,10 +3,11 @@ title: NavigationButton.BackStyle Property (Access)
 keywords: vbaac10.chm10540
 f1_keywords:
 - vbaac10.chm10540
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BackStyle
 ms.assetid: 941456b8-df23-2811-ff93-21d007eb9a2e
+ms.date: 06/08/2017
 ---
 
 

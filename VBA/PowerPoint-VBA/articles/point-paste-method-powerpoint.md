@@ -1,9 +1,10 @@
 ---
 title: Point.Paste Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Paste
 ms.assetid: 4f6304f2-8cb6-8956-38ff-8718a25aa3ef
+ms.date: 06/08/2017
 ---
 
 

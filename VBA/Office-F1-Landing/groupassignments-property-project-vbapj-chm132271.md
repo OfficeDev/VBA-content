@@ -3,8 +3,9 @@ title: GroupAssignments Property, Project [vbapj.chm132271]
 keywords: vbapj.chm132271
 f1_keywords:
 - vbapj.chm132271
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 08415534-e4aa-4316-802d-06a6e74f82cc
+ms.date: 06/08/2017
 ---
 
 

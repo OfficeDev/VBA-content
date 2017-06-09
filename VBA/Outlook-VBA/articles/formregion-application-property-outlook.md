@@ -3,10 +3,11 @@ title: FormRegion.Application Property (Outlook)
 keywords: vbaol11.chm2385
 f1_keywords:
 - vbaol11.chm2385
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Application
 ms.assetid: 65bb9522-1660-4cc0-8802-51ca67255ba6
+ms.date: 06/08/2017
 ---
 
 

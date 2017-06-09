@@ -3,10 +3,11 @@ title: Page.Footer Property (Publisher)
 keywords: vbapb10.chm393248
 f1_keywords:
 - vbapb10.chm393248
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Footer
 ms.assetid: 8ab5a59b-c8d5-6217-098c-c53336ee5311
+ms.date: 06/08/2017
 ---
 
 

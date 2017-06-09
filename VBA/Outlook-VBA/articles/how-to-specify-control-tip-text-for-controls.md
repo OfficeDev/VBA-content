@@ -3,8 +3,9 @@ title: "How to: Specify Control Tip Text for Controls"
 keywords: olfm10.chm3077167
 f1_keywords:
 - olfm10.chm3077167
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 50ea26b3-763b-beed-6f06-30afbd205f02
+ms.date: 06/08/2017
 ---
 
 

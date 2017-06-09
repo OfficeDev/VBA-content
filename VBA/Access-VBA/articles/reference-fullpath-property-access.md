@@ -3,10 +3,11 @@ title: Reference.FullPath Property (Access)
 keywords: vbaac10.chm12634
 f1_keywords:
 - vbaac10.chm12634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reference.FullPath
 ms.assetid: 41e2b1b5-a0fd-79a0-27f2-71b996cc25ea
+ms.date: 06/08/2017
 ---
 
 

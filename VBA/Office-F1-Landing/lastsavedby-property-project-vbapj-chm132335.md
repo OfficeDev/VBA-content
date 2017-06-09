@@ -3,8 +3,9 @@ title: LastSavedBy Property, Project [vbapj.chm132335]
 keywords: vbapj.chm132335
 f1_keywords:
 - vbapj.chm132335
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7ebea65-aa76-4e54-9796-c6d949a55ec7
+ms.date: 06/08/2017
 ---
 
 

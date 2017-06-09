@@ -1,9 +1,10 @@
 ---
 title: WdTableFieldSeparator Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTableFieldSeparator
 ms.assetid: aca9925a-8f17-5dc3-6c49-1314812e0cfe
+ms.date: 06/08/2017
 ---
 
 

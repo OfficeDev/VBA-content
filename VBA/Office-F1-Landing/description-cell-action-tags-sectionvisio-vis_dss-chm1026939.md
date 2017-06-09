@@ -3,8 +3,9 @@ title: Description Cell (Action Tags Section), Visio [Vis_DSS.chm1026939]
 keywords: vis_dss.chm1026939
 f1_keywords:
 - vis_dss.chm1026939
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a26a75b5-77b1-4e95-a21e-bd7d446af1f8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Image.RightPadding Property (Access)
 keywords: vbaac10.chm10415
 f1_keywords:
 - vbaac10.chm10415
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.RightPadding
 ms.assetid: 9fe9eb52-d504-6406-894f-0a90530687b9
+ms.date: 06/08/2017
 ---
 
 

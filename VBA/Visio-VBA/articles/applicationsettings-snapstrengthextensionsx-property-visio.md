@@ -3,10 +3,11 @@ title: ApplicationSettings.SnapStrengthExtensionsX Property (Visio)
 keywords: vis_sdr.chm16251595
 f1_keywords:
 - vis_sdr.chm16251595
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthExtensionsX
 ms.assetid: 45fb7005-34af-860f-ea59-a48e5a0b7a01
+ms.date: 06/08/2017
 ---
 
 

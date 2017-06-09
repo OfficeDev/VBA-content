@@ -3,10 +3,11 @@ title: Axes Object (PowerPoint)
 keywords: vbapp10.chm681000
 f1_keywords:
 - vbapp10.chm681000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes
 ms.assetid: 71f1e1fc-7086-a84e-1e05-6fa50597b49b
+ms.date: 06/08/2017
 ---
 
 

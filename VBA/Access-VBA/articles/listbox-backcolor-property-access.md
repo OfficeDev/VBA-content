@@ -3,10 +3,11 @@ title: ListBox.BackColor Property (Access)
 keywords: vbaac10.chm11245
 f1_keywords:
 - vbaac10.chm11245
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BackColor
 ms.assetid: 85d7d802-76d3-0a4f-debc-51dda0f81910
+ms.date: 06/08/2017
 ---
 
 

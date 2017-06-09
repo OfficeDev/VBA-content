@@ -3,10 +3,11 @@ title: Hyperlink.ScreenTip Property (Word)
 keywords: vbawd10.chm161285107
 f1_keywords:
 - vbawd10.chm161285107
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.ScreenTip
 ms.assetid: 59df269f-3dfd-53fe-b4ac-7889eefef740
+ms.date: 06/08/2017
 ---
 
 

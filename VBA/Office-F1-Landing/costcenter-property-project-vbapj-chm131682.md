@@ -3,8 +3,9 @@ title: CostCenter Property, Project [vbapj.chm131682]
 keywords: vbapj.chm131682
 f1_keywords:
 - vbapj.chm131682
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24c450dc-43b5-4119-ac6b-9be62ad27fb6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationControl.Layout Property (Access)
 keywords: vbaac10.chm11150
 f1_keywords:
 - vbaac10.chm11150
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Layout
 ms.assetid: eb8ab5e3-2443-d755-6dfa-6432223e87c0
+ms.date: 06/08/2017
 ---
 
 

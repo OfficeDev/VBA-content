@@ -1,9 +1,10 @@
 ---
 title: CostRateTables.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CostRateTables.Parent
 ms.assetid: 0a9a2729-0b7e-3d8c-acab-7996c9e86e7d
+ms.date: 06/08/2017
 ---
 
 

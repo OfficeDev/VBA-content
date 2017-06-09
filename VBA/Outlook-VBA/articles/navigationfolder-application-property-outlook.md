@@ -3,10 +3,11 @@ title: NavigationFolder.Application Property (Outlook)
 keywords: vbaol11.chm2900
 f1_keywords:
 - vbaol11.chm2900
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.Application
 ms.assetid: 23b09ccd-ea8a-68a1-401b-122319a581ce
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Rectangle.IsVisible Property (Access)
 keywords: vbaac10.chm10298
 f1_keywords:
 - vbaac10.chm10298
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.IsVisible
 ms.assetid: dee5811d-c80c-9c9b-8b89-dd2bf327bf5c
+ms.date: 06/08/2017
 ---
 
 

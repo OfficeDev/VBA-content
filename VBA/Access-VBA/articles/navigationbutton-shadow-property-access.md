@@ -3,10 +3,11 @@ title: NavigationButton.Shadow Property (Access)
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Shadow
 ms.assetid: 06e28d4d-8390-8c2c-9095-05a0e14c81e6
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Point.ClearFormats Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ClearFormats
 ms.assetid: 02c805e5-5d5b-745e-f272-4c4dcdd209a5
+ms.date: 06/08/2017
 ---
 
 

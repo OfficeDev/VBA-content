@@ -3,8 +3,9 @@ title: Find Command (Edit Menu), Office Shared [vbui6.chm2007517]
 keywords: vbui6.chm2007517
 f1_keywords:
 - vbui6.chm2007517
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 752ad919-9c80-46f9-bcaa-17ab7cdc04cb
+ms.date: 06/08/2017
 ---
 
 

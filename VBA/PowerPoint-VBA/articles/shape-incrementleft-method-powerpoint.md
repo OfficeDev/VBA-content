@@ -3,10 +3,11 @@ title: Shape.IncrementLeft Method (PowerPoint)
 keywords: vbapp10.chm547005
 f1_keywords:
 - vbapp10.chm547005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.IncrementLeft
 ms.assetid: a2b9a5e8-ba8c-612d-817f-c05d3df800b9
+ms.date: 06/08/2017
 ---
 
 

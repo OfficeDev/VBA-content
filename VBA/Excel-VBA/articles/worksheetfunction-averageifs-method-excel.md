@@ -3,10 +3,11 @@ title: WorksheetFunction.AverageIfs Method (Excel)
 keywords: vbaxl10.chm137356
 f1_keywords:
 - vbaxl10.chm137356
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AverageIfs
 ms.assetid: ec1071d7-c36d-4894-dee9-6b5423f13c0b
+ms.date: 06/08/2017
 ---
 
 

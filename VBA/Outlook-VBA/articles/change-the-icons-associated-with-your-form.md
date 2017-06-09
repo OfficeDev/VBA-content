@@ -1,7 +1,8 @@
 ---
 title: Change the Icons Associated with your Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2c13a1ad-b901-cda4-9f14-ce3357ab98e3
+ms.date: 06/08/2017
 ---
 
 

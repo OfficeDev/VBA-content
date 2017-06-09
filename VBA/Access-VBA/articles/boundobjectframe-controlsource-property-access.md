@@ -3,10 +3,11 @@ title: BoundObjectFrame.ControlSource Property (Access)
 keywords: vbaac10.chm10910
 f1_keywords:
 - vbaac10.chm10910
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ControlSource
 ms.assetid: f4200d00-fcb8-f15b-68e5-f1e58bfe41e8
+ms.date: 06/08/2017
 ---
 
 

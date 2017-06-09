@@ -3,10 +3,11 @@ title: SlideShowWindows.Item Method (PowerPoint)
 keywords: vbapp10.chm510003
 f1_keywords:
 - vbapp10.chm510003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindows.Item
 ms.assetid: dfe6f98f-ee22-060f-b52a-0a053233ccd8
+ms.date: 06/08/2017
 ---
 
 

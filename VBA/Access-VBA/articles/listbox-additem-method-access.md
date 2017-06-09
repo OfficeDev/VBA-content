@@ -3,10 +3,11 @@ title: ListBox.AddItem Method (Access)
 keywords: vbaac10.chm11301
 f1_keywords:
 - vbaac10.chm11301
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.AddItem
 ms.assetid: dab0c3e4-8ecc-774b-4c7e-f973eb4c1516
+ms.date: 06/08/2017
 ---
 
 

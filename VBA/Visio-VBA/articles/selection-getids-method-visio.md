@@ -3,10 +3,11 @@ title: Selection.GetIDs Method (Visio)
 keywords: vis_sdr.chm11160200
 f1_keywords:
 - vis_sdr.chm11160200
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.GetIDs
 ms.assetid: 79b1fb3f-eb53-2640-a988-6e79b067f228
+ms.date: 06/08/2017
 ---
 
 

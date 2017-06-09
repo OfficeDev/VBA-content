@@ -3,10 +3,11 @@ title: Form.PaintPalette Property (Access)
 keywords: vbaac10.chm13426
 f1_keywords:
 - vbaac10.chm13426
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PaintPalette
 ms.assetid: 161a7bfa-c861-68b9-eaac-05a2d7c24d4a
+ms.date: 06/08/2017
 ---
 
 

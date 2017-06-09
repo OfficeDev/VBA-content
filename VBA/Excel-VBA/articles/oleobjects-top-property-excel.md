@@ -3,10 +3,11 @@ title: OLEObjects.Top Property (Excel)
 keywords: vbaxl10.chm419089
 f1_keywords:
 - vbaxl10.chm419089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.Top
 ms.assetid: 0527a555-2aba-689f-a2c1-163fbf0b668a
+ms.date: 06/08/2017
 ---
 
 

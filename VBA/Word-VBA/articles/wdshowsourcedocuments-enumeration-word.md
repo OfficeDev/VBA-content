@@ -1,9 +1,10 @@
 ---
 title: WdShowSourceDocuments Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdShowSourceDocuments
 ms.assetid: 62af991a-eb3d-c536-9f15-5937022c0bb9
+ms.date: 06/08/2017
 ---
 
 

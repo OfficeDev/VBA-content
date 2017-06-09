@@ -3,8 +3,9 @@ title: ActiveWindow Property (VBA Add-In Object Model)
 keywords: vbob6.chm1070958
 f1_keywords:
 - vbob6.chm1070958
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec90f760-53fa-9fcc-28fe-253d8996d418
+ms.date: 06/08/2017
 ---
 
 

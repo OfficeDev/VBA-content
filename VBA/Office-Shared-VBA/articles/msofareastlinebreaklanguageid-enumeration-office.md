@@ -1,9 +1,10 @@
 ---
 title: MsoFarEastLineBreakLanguageID Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoFarEastLineBreakLanguageID
 ms.assetid: e8e0d9c6-7a29-fcd9-8dd4-916acf2680fd
+ms.date: 06/08/2017
 ---
 
 

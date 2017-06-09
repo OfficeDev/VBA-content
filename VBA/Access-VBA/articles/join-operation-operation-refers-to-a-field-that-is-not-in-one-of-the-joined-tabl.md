@@ -3,14 +3,15 @@ title: JOIN operation <operation> refers to a field that is not in one of the jo
 keywords: jeterr40.chm5003082
 f1_keywords:
 - jeterr40.chm5003082
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 13a1b996-709e-198a-fe68-9a23fd39f6a7
+ms.date: 06/08/2017
 ---
 
 
 # JOIN operation <operation> refers to a field that is not in one of the joined tables. (Error 3082)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

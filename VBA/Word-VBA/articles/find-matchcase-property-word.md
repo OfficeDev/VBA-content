@@ -3,10 +3,11 @@ title: Find.MatchCase Property (Word)
 keywords: vbawd10.chm162529294
 f1_keywords:
 - vbawd10.chm162529294
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchCase
 ms.assetid: c52c1512-9935-c8a4-4211-5b847771dbe9
+ms.date: 06/08/2017
 ---
 
 

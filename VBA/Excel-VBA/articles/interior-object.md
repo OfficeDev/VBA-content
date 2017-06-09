@@ -3,10 +3,11 @@ title: Interior Object
 keywords: vbagr10.chm5207570
 f1_keywords:
 - vbagr10.chm5207570
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior
 ms.assetid: 13a4801e-f121-2a43-cd61-cf3ac9325197
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotItem.LabelRange Property (Excel)
 keywords: vbaxl10.chm246077
 f1_keywords:
 - vbaxl10.chm246077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItem.LabelRange
 ms.assetid: e318d105-c467-afae-2431-923847d3ed9e
+ms.date: 06/08/2017
 ---
 
 

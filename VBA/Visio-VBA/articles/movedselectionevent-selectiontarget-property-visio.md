@@ -3,10 +3,11 @@ title: MovedSelectionEvent.SelectionTarget Property (Visio)
 keywords: vis_sdr.chm17862630
 f1_keywords:
 - vis_sdr.chm17862630
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.SelectionTarget
 ms.assetid: 2c245057-c51a-62fd-4a35-3adddeceff97
+ms.date: 06/08/2017
 ---
 
 

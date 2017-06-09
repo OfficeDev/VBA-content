@@ -3,8 +3,9 @@ title: "How to: Group Option Buttons"
 keywords: olfm10.chm3077190
 f1_keywords:
 - olfm10.chm3077190
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ecf72f77-585b-c493-bcc4-35eb4f11e62a
+ms.date: 06/08/2017
 ---
 
 

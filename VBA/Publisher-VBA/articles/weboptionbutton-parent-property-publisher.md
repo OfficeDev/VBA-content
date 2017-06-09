@@ -3,10 +3,11 @@ title: WebOptionButton.Parent Property (Publisher)
 keywords: vbapb10.chm4259842
 f1_keywords:
 - vbapb10.chm4259842
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebOptionButton.Parent
 ms.assetid: 242ae3ff-591b-8180-6f00-b3ad118e6d28
+ms.date: 06/08/2017
 ---
 
 

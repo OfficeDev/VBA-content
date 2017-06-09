@@ -3,10 +3,11 @@ title: TableOfFigures.UpdatePageNumbers Method (Word)
 keywords: vbawd10.chm153157733
 f1_keywords:
 - vbawd10.chm153157733
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.UpdatePageNumbers
 ms.assetid: d6817167-916d-81f0-c507-16492819b0f3
+ms.date: 06/08/2017
 ---
 
 

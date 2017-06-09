@@ -3,10 +3,11 @@ title: ContentControls.Add Method (Word)
 keywords: vbawd10.chm157745153
 f1_keywords:
 - vbawd10.chm157745153
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControls.Add
 ms.assetid: a9b612a6-6dcb-a74a-0b87-c112f51e2dcc
+ms.date: 06/08/2017
 ---
 
 

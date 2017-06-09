@@ -3,10 +3,11 @@ title: Row.Next Property (Word)
 keywords: vbawd10.chm156237928
 f1_keywords:
 - vbawd10.chm156237928
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Next
 ms.assetid: d74be2bd-5b12-8478-1a09-744571b0bd66
+ms.date: 06/08/2017
 ---
 
 

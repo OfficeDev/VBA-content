@@ -3,10 +3,11 @@ title: Selection.NextSubdocument Method (Word)
 keywords: vbawd10.chm158663170
 f1_keywords:
 - vbawd10.chm158663170
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.NextSubdocument
 ms.assetid: e8527994-23f4-c9a1-d96c-c2018e07efad
+ms.date: 06/08/2017
 ---
 
 

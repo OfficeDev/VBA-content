@@ -3,10 +3,11 @@ title: LegendKey.MarkerStyle Property (Word)
 keywords: vbawd10.chm266207304
 f1_keywords:
 - vbawd10.chm266207304
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.MarkerStyle
 ms.assetid: b083dee8-4e0f-a859-8dc3-95ef77e26221
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalloutFormat.CustomLength Method (Word)
 keywords: vbawd10.chm163905548
 f1_keywords:
 - vbawd10.chm163905548
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.CustomLength
 ms.assetid: b9c2a9d5-873e-9292-04e1-c2e05388589b
+ms.date: 06/08/2017
 ---
 
 

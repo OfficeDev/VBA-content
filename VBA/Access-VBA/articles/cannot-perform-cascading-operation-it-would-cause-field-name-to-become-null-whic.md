@@ -3,14 +3,15 @@ title: Cannot perform cascading operation. It would cause field <name> to become
 keywords: jeterr40.chm5003401
 f1_keywords:
 - jeterr40.chm5003401
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b060e328-9981-65d0-c21d-39b57662582d
+ms.date: 06/08/2017
 ---
 
 
 # Cannot perform cascading operation. It would cause field <name> to become Null, which is not allowed. (Error 3401)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

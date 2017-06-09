@@ -3,10 +3,11 @@ title: TextFrame2.PathFormat Property (PowerPoint)
 keywords: vbapp10.chm678009
 f1_keywords:
 - vbapp10.chm678009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.PathFormat
 ms.assetid: 43c83e42-4439-8806-0fbe-688359521426
+ms.date: 06/08/2017
 ---
 
 

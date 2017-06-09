@@ -3,14 +3,15 @@ title: Illegal column-level constraint. (Error 3789)
 keywords: jeterr40.chm5003789
 f1_keywords:
 - jeterr40.chm5003789
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 66b78a40-bfc6-28dd-77b3-0c876a163f25
+ms.date: 06/08/2017
 ---
 
 
 # Illegal column-level constraint. (Error 3789)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

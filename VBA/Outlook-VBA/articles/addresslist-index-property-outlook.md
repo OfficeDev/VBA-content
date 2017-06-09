@@ -3,10 +3,11 @@ title: AddressList.Index Property (Outlook)
 keywords: vbaol11.chm2029
 f1_keywords:
 - vbaol11.chm2029
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressList.Index
 ms.assetid: 0d0a3072-c39e-debb-04ef-313c8612b325
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorkflowTask.AssignedTo Property (Office)
 keywords: vbaof11.chm280006
 f1_keywords:
 - vbaof11.chm280006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTask.AssignedTo
 ms.assetid: bd1e368f-09f1-95ba-b421-40912fbc085c
+ms.date: 06/08/2017
 ---
 
 

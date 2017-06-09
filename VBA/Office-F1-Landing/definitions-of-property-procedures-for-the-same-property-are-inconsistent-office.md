@@ -3,8 +3,9 @@ title: Definitions of property procedures for the same property are inconsistent
 keywords: vblr6.chm1040067
 f1_keywords:
 - vblr6.chm1040067
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 77abdebe-a96e-425f-a936-5c5a9d267125
+ms.date: 06/08/2017
 ---
 
 

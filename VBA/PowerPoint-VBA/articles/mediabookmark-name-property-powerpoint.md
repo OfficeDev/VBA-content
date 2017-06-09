@@ -3,10 +3,11 @@ title: MediaBookmark.Name Property (PowerPoint)
 keywords: vbapp10.chm729002
 f1_keywords:
 - vbapp10.chm729002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmark.Name
 ms.assetid: af324f2b-5337-6933-5152-ec6f36ec470a
+ms.date: 06/08/2017
 ---
 
 

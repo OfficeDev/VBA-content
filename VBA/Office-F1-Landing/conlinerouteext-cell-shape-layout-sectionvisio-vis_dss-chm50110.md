@@ -3,8 +3,9 @@ title: ConLineRouteExt Cell (Shape Layout Section), Visio [Vis_DSS.chm50110]
 keywords: vis_dss.chm50110
 f1_keywords:
 - vis_dss.chm50110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 550831ce-0525-4e93-ac76-21773be281c0
+ms.date: 06/08/2017
 ---
 
 

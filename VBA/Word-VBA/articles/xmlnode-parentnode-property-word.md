@@ -3,10 +3,11 @@ title: XMLNode.ParentNode Property (Word)
 keywords: vbawd10.chm37748744
 f1_keywords:
 - vbawd10.chm37748744
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.ParentNode
 ms.assetid: 626913c2-d12a-30e3-d1b1-9dd6fb80a30c
+ms.date: 06/08/2017
 ---
 
 

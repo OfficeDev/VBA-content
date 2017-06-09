@@ -3,10 +3,11 @@ title: ToggleButton.OnKeyPress Property (Access)
 keywords: vbaac10.chm11760
 f1_keywords:
 - vbaac10.chm11760
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnKeyPress
 ms.assetid: 8fe11ce6-1566-238e-c93a-1ee5835b9c2e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: BeforeScreenTip Property, Access [vbaac10.chm13547]
 keywords: vbaac10.chm13547
 f1_keywords:
 - vbaac10.chm13547
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a9e0893-4b93-4df5-89e5-e61000d926ec
+ms.date: 06/08/2017
 ---
 
 

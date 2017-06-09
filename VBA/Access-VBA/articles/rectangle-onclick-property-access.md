@@ -3,10 +3,11 @@ title: Rectangle.OnClick Property (Access)
 keywords: vbaac10.chm10300
 f1_keywords:
 - vbaac10.chm10300
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.OnClick
 ms.assetid: 7b0802ec-3320-44fc-09b5-8f6ed65c32de
+ms.date: 06/08/2017
 ---
 
 

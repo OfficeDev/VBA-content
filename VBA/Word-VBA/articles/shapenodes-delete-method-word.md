@@ -3,10 +3,11 @@ title: ShapeNodes.Delete Method (Word)
 keywords: vbawd10.chm164495371
 f1_keywords:
 - vbawd10.chm164495371
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNodes.Delete
 ms.assetid: 1c90b38d-a108-83c7-675a-39fe66d3d261
+ms.date: 06/08/2017
 ---
 
 

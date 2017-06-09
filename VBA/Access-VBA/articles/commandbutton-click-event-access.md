@@ -3,10 +3,11 @@ title: CommandButton.Click Event (Access)
 keywords: vbaac10.chm14077
 f1_keywords:
 - vbaac10.chm14077
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Click
 ms.assetid: b84b7acd-c428-8cdb-7fc3-b1963e7102a3
+ms.date: 06/08/2017
 ---
 
 

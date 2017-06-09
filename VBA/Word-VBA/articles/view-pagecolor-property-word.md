@@ -3,8 +3,9 @@ title: View.PageColor Property (Word)
 keywords: vbawd10.chm161808447
 f1_keywords:
 - vbawd10.chm161808447
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 93b53edc-0f1e-15fc-4a70-a40bb792a2c8
+ms.date: 06/08/2017
 ---
 
 

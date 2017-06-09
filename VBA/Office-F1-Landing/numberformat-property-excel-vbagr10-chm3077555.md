@@ -3,8 +3,9 @@ title: NumberFormat Property, Excel [vbagr10.chm3077555]
 keywords: vbagr10.chm3077555
 f1_keywords:
 - vbagr10.chm3077555
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66e49099-5031-4260-a193-b514f9f7c8b2
+ms.date: 06/08/2017
 ---
 
 

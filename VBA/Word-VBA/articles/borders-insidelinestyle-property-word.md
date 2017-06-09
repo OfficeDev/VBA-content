@@ -3,10 +3,11 @@ title: Borders.InsideLineStyle Property (Word)
 keywords: vbawd10.chm154927110
 f1_keywords:
 - vbawd10.chm154927110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.InsideLineStyle
 ms.assetid: d82862c7-58b2-cb6c-1099-4aaa5bcdf03e
+ms.date: 06/08/2017
 ---
 
 

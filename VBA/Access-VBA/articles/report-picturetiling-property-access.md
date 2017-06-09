@@ -3,10 +3,11 @@ title: Report.PictureTiling Property (Access)
 keywords: vbaac10.chm13708
 f1_keywords:
 - vbaac10.chm13708
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PictureTiling
 ms.assetid: 44927121-1ec4-1edf-b3ca-3e00022fab08
+ms.date: 06/08/2017
 ---
 
 

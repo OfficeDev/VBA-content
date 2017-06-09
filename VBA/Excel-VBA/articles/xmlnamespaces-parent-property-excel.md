@@ -3,10 +3,11 @@ title: XmlNamespaces.Parent Property (Excel)
 keywords: vbaxl10.chm745075
 f1_keywords:
 - vbaxl10.chm745075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Parent
 ms.assetid: 5dba15aa-6fc9-d8dc-f378-d5f43772866c
+ms.date: 06/08/2017
 ---
 
 

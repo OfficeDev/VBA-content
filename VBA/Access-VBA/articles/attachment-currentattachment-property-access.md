@@ -3,10 +3,11 @@ title: Attachment.CurrentAttachment Property (Access)
 keywords: vbaac10.chm13980
 f1_keywords:
 - vbaac10.chm13980
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.CurrentAttachment
 ms.assetid: 894b6b94-2fa2-66b9-8e18-925c77241fef
+ms.date: 06/08/2017
 ---
 
 

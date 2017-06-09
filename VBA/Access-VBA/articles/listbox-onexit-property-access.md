@@ -3,10 +3,11 @@ title: ListBox.OnExit Property (Access)
 keywords: vbaac10.chm11281
 f1_keywords:
 - vbaac10.chm11281
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnExit
 ms.assetid: 87ac5b4f-85d0-7edb-28d6-253f44496946
+ms.date: 06/08/2017
 ---
 
 

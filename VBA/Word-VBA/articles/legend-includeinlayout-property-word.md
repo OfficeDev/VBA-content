@@ -3,10 +3,11 @@ title: Legend.IncludeInLayout Property (Word)
 keywords: vbawd10.chm147196274
 f1_keywords:
 - vbawd10.chm147196274
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend.IncludeInLayout
 ms.assetid: dd0e4c44-ba2a-191b-fa0a-d231a27506f9
+ms.date: 06/08/2017
 ---
 
 

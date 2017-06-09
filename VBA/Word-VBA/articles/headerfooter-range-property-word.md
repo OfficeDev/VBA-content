@@ -1,9 +1,10 @@
 ---
 title: HeaderFooter.Range Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter.Range
 ms.assetid: 254da7c7-d553-a0f5-7f56-85bbdf9990ef
+ms.date: 06/08/2017
 ---
 
 

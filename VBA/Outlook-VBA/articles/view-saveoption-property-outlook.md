@@ -3,10 +3,11 @@ title: View.SaveOption Property (Outlook)
 keywords: vbaol11.chm2492
 f1_keywords:
 - vbaol11.chm2492
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.SaveOption
 ms.assetid: d7990708-5eb4-1b11-944e-127793bdb5b1
+ms.date: 06/08/2017
 ---
 
 

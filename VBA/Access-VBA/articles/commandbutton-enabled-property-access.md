@@ -3,10 +3,11 @@ title: CommandButton.Enabled Property (Access)
 keywords: vbaac10.chm10464
 f1_keywords:
 - vbaac10.chm10464
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Enabled
 ms.assetid: c48d979d-3320-d8ab-1019-c5d1bf60e01d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UserProperties.Find Method (Outlook)
 keywords: vbaol11.chm210
 f1_keywords:
 - vbaol11.chm210
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperties.Find
 ms.assetid: 3b71ce5a-4bb0-fdab-a24e-02c631816b80
+ms.date: 06/08/2017
 ---
 
 

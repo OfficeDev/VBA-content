@@ -3,10 +3,11 @@ title: ShapeRange.Select Method (Word)
 keywords: vbawd10.chm162856985
 f1_keywords:
 - vbawd10.chm162856985
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Select
 ms.assetid: a42e75ce-ed21-868c-9278-b522a541a816
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TaskItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeAttachmentSave
 ms.assetid: 93d31d5c-fb22-ce19-bcf2-651acc2d5db7
+ms.date: 06/08/2017
 ---
 
 

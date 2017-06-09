@@ -3,10 +3,11 @@ title: Module.Type Property (Access)
 keywords: vbaac10.chm12287
 f1_keywords:
 - vbaac10.chm12287
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.Type
 ms.assetid: df30b007-5ce9-9de2-1013-747c47917288
+ms.date: 06/08/2017
 ---
 
 

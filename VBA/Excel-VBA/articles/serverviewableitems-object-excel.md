@@ -3,10 +3,11 @@ title: ServerViewableItems Object (Excel)
 keywords: vbaxl10.chm832072
 f1_keywords:
 - vbaxl10.chm832072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ServerViewableItems
 ms.assetid: ce51dc80-ae34-f31a-81c0-f29467668289
+ms.date: 06/08/2017
 ---
 
 

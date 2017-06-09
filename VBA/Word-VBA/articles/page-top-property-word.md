@@ -3,10 +3,11 @@ title: Page.Top Property (Word)
 keywords: vbawd10.chm11075587
 f1_keywords:
 - vbawd10.chm11075587
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Top
 ms.assetid: 01b3534c-fd22-720f-aa09-1f26f4fa335a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.CategoryNames Property (PowerPoint)
 keywords: vbapp10.chm682004
 f1_keywords:
 - vbapp10.chm682004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.CategoryNames
 ms.assetid: f076ad9f-819b-4ced-a967-2fbda72fdfe8
+ms.date: 06/08/2017
 ---
 
 

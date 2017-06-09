@@ -1,9 +1,10 @@
 ---
 title: ChartArea.ClearFormats Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.ClearFormats
 ms.assetid: 80732262-f84d-1153-811e-30ce887a8661
+ms.date: 06/08/2017
 ---
 
 

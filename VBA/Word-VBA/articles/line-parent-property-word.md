@@ -3,10 +3,11 @@ title: Line.Parent Property (Word)
 keywords: vbawd10.chm49611754
 f1_keywords:
 - vbawd10.chm49611754
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Parent
 ms.assetid: da268f46-4f2a-b5fd-38c7-6d9b3ee5b901
+ms.date: 06/08/2017
 ---
 
 

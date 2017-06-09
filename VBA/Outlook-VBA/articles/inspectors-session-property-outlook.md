@@ -3,10 +3,11 @@ title: Inspectors.Session Property (Outlook)
 keywords: vbaol11.chm135
 f1_keywords:
 - vbaol11.chm135
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspectors.Session
 ms.assetid: 32d60741-21f1-39f8-0069-7dddf3078879
+ms.date: 06/08/2017
 ---
 
 

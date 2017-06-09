@@ -3,8 +3,9 @@ title: Rows Property, Excel [vbagr10.chm65794]
 keywords: vbagr10.chm65794
 f1_keywords:
 - vbagr10.chm65794
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fceff650-7801-46a6-ac2d-e481219d1e11
+ms.date: 06/08/2017
 ---
 
 

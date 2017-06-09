@@ -3,10 +3,11 @@ title: VisContainerAutoResize Enumeration (Visio)
 keywords: vis_sdr.chm70695
 f1_keywords:
 - vis_sdr.chm70695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisContainerAutoResize
 ms.assetid: bcc77146-eee5-24ac-b9a2-03f60b118dbc
+ms.date: 06/08/2017
 ---
 
 

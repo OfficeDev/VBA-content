@@ -3,14 +3,15 @@ title: The GUID could not be created. (Error 3553)
 keywords: jeterr40.chm5003553
 f1_keywords:
 - jeterr40.chm5003553
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 49df3e81-a5b0-7f5c-4e33-a2bc907486c3
+ms.date: 06/08/2017
 ---
 
 
 # The GUID could not be created. (Error 3553)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

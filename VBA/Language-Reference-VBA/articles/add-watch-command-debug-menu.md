@@ -3,8 +3,9 @@ title: Add Watch Command (Debug Menu)
 keywords: vbui6.chm2007504
 f1_keywords:
 - vbui6.chm2007504
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2d44d604-9b00-56c2-a0ec-7ae7e5d2a71b
+ms.date: 06/08/2017
 ---
 
 

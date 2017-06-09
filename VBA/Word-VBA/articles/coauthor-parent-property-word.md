@@ -3,10 +3,11 @@ title: CoAuthor.Parent Property (Word)
 keywords: vbawd10.chm81069034
 f1_keywords:
 - vbawd10.chm81069034
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthor.Parent
 ms.assetid: 33ef16f2-70aa-c63a-8185-8b05d91b12c3
+ms.date: 06/08/2017
 ---
 
 

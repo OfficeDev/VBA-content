@@ -3,8 +3,9 @@ title: MakeServerURLTrusted Method, Project [vbapj.chm132367]
 keywords: vbapj.chm132367
 f1_keywords:
 - vbapj.chm132367
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 69f8a588-ecc5-4913-8e24-7daf344d0aa9
+ms.date: 06/08/2017
 ---
 
 

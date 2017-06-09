@@ -3,10 +3,11 @@ title: Chart.SetBackgroundPicture Method (PowerPoint)
 keywords: vbapp10.chm684002
 f1_keywords:
 - vbapp10.chm684002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SetBackgroundPicture
 ms.assetid: 82514386-9fb7-08b9-ae86-85e94deb0df3
+ms.date: 06/08/2017
 ---
 
 

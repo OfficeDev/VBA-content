@@ -3,10 +3,11 @@ title: TabControl.TabFixedWidth Property (Access)
 keywords: vbaac10.chm12089,vbaac10.chm5506
 f1_keywords:
 - vbaac10.chm12089,vbaac10.chm5506
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.TabFixedWidth
 ms.assetid: e4f819b3-fb2d-cddb-c675-6bc831cb2077
+ms.date: 06/08/2017
 ---
 
 

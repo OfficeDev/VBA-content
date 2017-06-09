@@ -3,14 +3,15 @@ title: Command Button Control
 keywords: vbaac10.chm5186555
 f1_keywords:
 - vbaac10.chm5186555
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: aea2b8e8-2249-0055-472f-e67b86044669
+ms.date: 06/08/2017
 ---
 
 
 # Command Button Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

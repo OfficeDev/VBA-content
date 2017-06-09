@@ -3,10 +3,11 @@ title: ContentControls.Parent Property (Word)
 keywords: vbawd10.chm157745254
 f1_keywords:
 - vbawd10.chm157745254
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControls.Parent
 ms.assetid: ddaa995a-1fad-516a-823d-de67806dbfa3
+ms.date: 06/08/2017
 ---
 
 

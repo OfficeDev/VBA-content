@@ -1,9 +1,10 @@
 ---
 title: Month.Shift2 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month.Shift2
 ms.assetid: 1499be01-4942-04b2-ff37-bbc0d49f9f68
+ms.date: 06/08/2017
 ---
 
 

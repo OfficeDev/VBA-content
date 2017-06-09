@@ -3,10 +3,11 @@ title: ActionSettings Object (PowerPoint)
 keywords: vbapp10.chm566000
 f1_keywords:
 - vbapp10.chm566000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings
 ms.assetid: 8914c203-6b8d-fa80-16ad-7015595657b7
+ms.date: 06/08/2017
 ---
 
 

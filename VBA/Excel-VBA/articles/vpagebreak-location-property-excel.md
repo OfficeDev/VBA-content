@@ -3,10 +3,11 @@ title: VPageBreak.Location Property (Excel)
 keywords: vbaxl10.chm156078
 f1_keywords:
 - vbaxl10.chm156078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.VPageBreak.Location
 ms.assetid: d039049f-5b08-d867-c874-f25ca0dbe70f
+ms.date: 06/08/2017
 ---
 
 

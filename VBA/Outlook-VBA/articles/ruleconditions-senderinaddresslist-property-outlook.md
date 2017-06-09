@@ -3,10 +3,11 @@ title: RuleConditions.SenderInAddressList Property (Outlook)
 keywords: vbaol11.chm2319
 f1_keywords:
 - vbaol11.chm2319
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.SenderInAddressList
 ms.assetid: bf836af6-fd72-d77d-dfbe-90a8038188a6
+ms.date: 06/08/2017
 ---
 
 

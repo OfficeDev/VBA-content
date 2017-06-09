@@ -3,10 +3,11 @@ title: CheckBox.TabIndex Property (Access)
 keywords: vbaac10.chm10707
 f1_keywords:
 - vbaac10.chm10707
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.TabIndex
 ms.assetid: 094064c7-83f3-8d3d-25f2-b5b2956331ef
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.RecordSourceQualifier Property (Access)
 keywords: vbaac10.chm13560
 f1_keywords:
 - vbaac10.chm13560
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.RecordSourceQualifier
 ms.assetid: e4c94bb5-b1e4-bfeb-c5f1-b21ae27762b2
+ms.date: 06/08/2017
 ---
 
 

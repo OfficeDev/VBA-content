@@ -3,10 +3,11 @@ title: OLEDBError.Creator Property (Excel)
 keywords: vbaxl10.chm653074
 f1_keywords:
 - vbaxl10.chm653074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBError.Creator
 ms.assetid: dab01efa-cefb-1dee-847e-56688ef88c14
+ms.date: 06/08/2017
 ---
 
 

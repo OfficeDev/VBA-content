@@ -3,10 +3,11 @@ title: Options.EnvelopeFeederInstalled Property (Word)
 keywords: vbawd10.chm162988067
 f1_keywords:
 - vbawd10.chm162988067
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.EnvelopeFeederInstalled
 ms.assetid: 9b614965-d1e2-21df-a6f5-b595d48c6227
+ms.date: 06/08/2017
 ---
 
 

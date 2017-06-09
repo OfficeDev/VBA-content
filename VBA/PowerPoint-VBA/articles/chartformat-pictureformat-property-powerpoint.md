@@ -3,10 +3,11 @@ title: ChartFormat.PictureFormat Property (PowerPoint)
 keywords: vbapp10.chm691005
 f1_keywords:
 - vbapp10.chm691005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFormat.PictureFormat
 ms.assetid: eeaf72f4-55c7-995b-b91d-ae0ffa45ffb8
+ms.date: 06/08/2017
 ---
 
 

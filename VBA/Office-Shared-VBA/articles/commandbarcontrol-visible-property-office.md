@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.Visible Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Visible
 ms.assetid: 9aa5f926-af48-5685-da7f-ea960c4cdbb3
+ms.date: 06/08/2017
 ---
 
 

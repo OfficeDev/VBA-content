@@ -3,10 +3,11 @@ title: ShapeRange.Line Property (Publisher)
 keywords: vbapb10.chm2293826
 f1_keywords:
 - vbapb10.chm2293826
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Line
 ms.assetid: e9a6e8a0-f57a-63af-3040-5c43f8aba423
+ms.date: 06/08/2017
 ---
 
 

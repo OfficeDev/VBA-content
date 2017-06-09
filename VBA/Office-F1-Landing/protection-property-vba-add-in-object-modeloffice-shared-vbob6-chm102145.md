@@ -3,8 +3,9 @@ title: Protection Property (VBA Add-In Object Model), Office Shared [vbob6.chm10
 keywords: vbob6.chm102145
 f1_keywords:
 - vbob6.chm102145
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3ba0bdb6-a4d7-468b-870c-7185fcc981c0
+ms.date: 06/08/2017
 ---
 
 

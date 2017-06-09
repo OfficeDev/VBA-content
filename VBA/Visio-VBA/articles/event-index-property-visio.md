@@ -3,10 +3,11 @@ title: Event.Index Property (Visio)
 keywords: vis_sdr.chm12613695
 f1_keywords:
 - vis_sdr.chm12613695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.Index
 ms.assetid: 256aaa57-b69b-4d10-63af-088d455ee851
+ms.date: 06/08/2017
 ---
 
 

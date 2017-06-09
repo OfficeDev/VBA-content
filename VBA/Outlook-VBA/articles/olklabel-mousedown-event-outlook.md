@@ -3,10 +3,11 @@ title: OlkLabel.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000104
 f1_keywords:
 - vbaol11.chm1000104
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.MouseDown
 ms.assetid: 80da9c8c-e743-c37a-3cb7-9a6af24fcac1
+ms.date: 06/08/2017
 ---
 
 

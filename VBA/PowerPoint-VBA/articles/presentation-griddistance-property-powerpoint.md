@@ -3,10 +3,11 @@ title: Presentation.GridDistance Property (PowerPoint)
 keywords: vbapp10.chm583062
 f1_keywords:
 - vbapp10.chm583062
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.GridDistance
 ms.assetid: 5c4accfe-2467-3d0e-f7f8-3e3c16d8d0ce
+ms.date: 06/08/2017
 ---
 
 

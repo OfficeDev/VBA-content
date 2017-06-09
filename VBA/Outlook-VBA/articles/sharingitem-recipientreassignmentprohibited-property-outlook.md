@@ -3,10 +3,11 @@ title: SharingItem.RecipientReassignmentProhibited Property (Outlook)
 keywords: vbaol11.chm649
 f1_keywords:
 - vbaol11.chm649
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RecipientReassignmentProhibited
 ms.assetid: ff0e61c3-54af-f027-0c1b-2f903b3a6bab
+ms.date: 06/08/2017
 ---
 
 

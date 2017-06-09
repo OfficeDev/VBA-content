@@ -3,10 +3,11 @@ title: CanvasShapes.Creator Property (Word)
 keywords: vbawd10.chm7544641
 f1_keywords:
 - vbawd10.chm7544641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.Creator
 ms.assetid: 940d02d5-57b1-50da-7a3f-4ca734024fee
+ms.date: 06/08/2017
 ---
 
 

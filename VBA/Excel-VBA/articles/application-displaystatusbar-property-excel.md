@@ -3,10 +3,11 @@ title: Application.DisplayStatusBar Property (Excel)
 keywords: vbaxl10.chm133127
 f1_keywords:
 - vbaxl10.chm133127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayStatusBar
 ms.assetid: bf70a679-bd50-cce7-0dc0-0dc57835038c
+ms.date: 06/08/2017
 ---
 
 

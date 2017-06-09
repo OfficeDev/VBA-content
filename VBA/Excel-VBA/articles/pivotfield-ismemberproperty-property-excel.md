@@ -3,10 +3,11 @@ title: PivotField.IsMemberProperty Property (Excel)
 keywords: vbaxl10.chm240131
 f1_keywords:
 - vbaxl10.chm240131
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.IsMemberProperty
 ms.assetid: e24e6e84-2c27-5d33-78c4-b48e96d48e5d
+ms.date: 06/08/2017
 ---
 
 

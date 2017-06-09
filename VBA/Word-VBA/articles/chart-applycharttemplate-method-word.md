@@ -3,10 +3,11 @@ title: Chart.ApplyChartTemplate Method (Word)
 keywords: vbawd10.chm79364172
 f1_keywords:
 - vbawd10.chm79364172
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.ApplyChartTemplate
 ms.assetid: 10d2c95e-1f67-1301-9b98-3a0b09f60df5
+ms.date: 06/08/2017
 ---
 
 

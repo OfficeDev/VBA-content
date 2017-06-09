@@ -3,10 +3,11 @@ title: KeyBinding Object (Word)
 keywords: vbawd10.chm2456
 f1_keywords:
 - vbawd10.chm2456
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBinding
 ms.assetid: 0f691196-76ef-135d-a8c9-b2fb9f9ac695
+ms.date: 06/08/2017
 ---
 
 

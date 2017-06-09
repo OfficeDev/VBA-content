@@ -1,9 +1,10 @@
 ---
 title: Font2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Creator
 ms.assetid: 8a417bc4-b208-fdb1-5b2d-7f61cb42b590
+ms.date: 06/08/2017
 ---
 
 

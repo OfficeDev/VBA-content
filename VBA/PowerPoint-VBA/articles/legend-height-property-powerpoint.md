@@ -1,9 +1,10 @@
 ---
 title: Legend.Height Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Height
 ms.assetid: 53edaa56-87d5-d0c6-05cd-5f55b6394774
+ms.date: 06/08/2017
 ---
 
 

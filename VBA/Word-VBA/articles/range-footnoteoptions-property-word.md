@@ -3,10 +3,11 @@ title: Range.FootnoteOptions Property (Word)
 keywords: vbawd10.chm157155738
 f1_keywords:
 - vbawd10.chm157155738
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.FootnoteOptions
 ms.assetid: 4adc72b6-cf26-8029-8c72-d2eed6583c27
+ms.date: 06/08/2017
 ---
 
 

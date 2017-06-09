@@ -1,9 +1,10 @@
 ---
 title: UpBars.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Parent
 ms.assetid: 65b7baf1-88dd-cf8e-93a8-8c0d3980fc18
+ms.date: 06/08/2017
 ---
 
 

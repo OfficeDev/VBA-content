@@ -3,8 +3,9 @@ title: SetFocus Method, Access [vbaac10.chm11035]
 keywords: vbaac10.chm11035
 f1_keywords:
 - vbaac10.chm11035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e007909f-1210-4a3a-94b7-3e16d6ce2221
+ms.date: 06/08/2017
 ---
 
 

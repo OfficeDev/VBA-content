@@ -3,10 +3,11 @@ title: OlkDateControl.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000353
 f1_keywords:
 - vbaol11.chm1000353
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.MouseIcon
 ms.assetid: 4d2bf497-0e80-2494-4197-e746778da519
+ms.date: 06/08/2017
 ---
 
 

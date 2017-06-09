@@ -3,10 +3,11 @@ title: Document.DeleteAllCommentsShown Method (Word)
 keywords: vbawd10.chm158007670
 f1_keywords:
 - vbawd10.chm158007670
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DeleteAllCommentsShown
 ms.assetid: b0cdbc8e-973c-1921-a646-d2f5ef091ce9
+ms.date: 06/08/2017
 ---
 
 

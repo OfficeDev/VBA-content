@@ -3,10 +3,11 @@ title: SparkColor.Creator Property (Excel)
 keywords: vbaxl10.chm882074
 f1_keywords:
 - vbaxl10.chm882074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkColor.Creator
 ms.assetid: 4acfe022-4841-70b1-c38b-dd535e9cba9b
+ms.date: 06/08/2017
 ---
 
 

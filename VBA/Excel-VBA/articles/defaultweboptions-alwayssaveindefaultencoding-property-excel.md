@@ -3,10 +3,11 @@ title: DefaultWebOptions.AlwaysSaveInDefaultEncoding Property (Excel)
 keywords: vbaxl10.chm660087
 f1_keywords:
 - vbaxl10.chm660087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: 7da4191e-4502-0005-1577-ac9a872f9cfa
+ms.date: 06/08/2017
 ---
 
 

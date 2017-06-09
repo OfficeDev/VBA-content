@@ -3,10 +3,11 @@ title: ValidationRule.FilterExpression Property (Visio)
 keywords: vis_sdr.chm18462655
 f1_keywords:
 - vis_sdr.chm18462655
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.FilterExpression
 ms.assetid: bbca9cf8-ad34-062b-eaf5-b30a943db1b1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.Top Property (Word)
 keywords: vbawd10.chm113049668
 f1_keywords:
 - vbawd10.chm113049668
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Top
 ms.assetid: 47262cc8-34cf-763b-9244-568982b870f1
+ms.date: 06/08/2017
 ---
 
 

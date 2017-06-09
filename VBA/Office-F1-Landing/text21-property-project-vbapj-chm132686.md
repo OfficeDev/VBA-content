@@ -3,8 +3,9 @@ title: Text21 Property, Project [vbapj.chm132686]
 keywords: vbapj.chm132686
 f1_keywords:
 - vbapj.chm132686
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e8b572e-c0f5-4923-9c76-394dea0d6433
+ms.date: 06/08/2017
 ---
 
 

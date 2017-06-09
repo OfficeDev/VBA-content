@@ -3,10 +3,11 @@ title: TaskItem.SchedulePlusPriority Property (Outlook)
 keywords: vbaol11.chm1742
 f1_keywords:
 - vbaol11.chm1742
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.SchedulePlusPriority
 ms.assetid: 773a9232-692f-cc5c-795f-2f36466afaf4
+ms.date: 06/08/2017
 ---
 
 

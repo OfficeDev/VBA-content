@@ -3,8 +3,9 @@ title: Worksheets Property, Excel [vbaxl10.chm183117]
 keywords: vbaxl10.chm183117
 f1_keywords:
 - vbaxl10.chm183117
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f5dd0e69-0f59-4dc4-ae7e-b47d8af93e63
+ms.date: 06/08/2017
 ---
 
 

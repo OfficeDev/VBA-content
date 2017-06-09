@@ -3,14 +3,15 @@ title: The Microsoft Access database engine cannot find the input table or query
 keywords: jeterr40.chm5003078
 f1_keywords:
 - jeterr40.chm5003078
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3a675d3d-c48c-c8c9-5040-1feb38b625eb
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine cannot find the input table or query <name>. Make sure it exists and that its name is spelled correctly. (Error 3078)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

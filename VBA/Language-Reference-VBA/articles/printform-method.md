@@ -3,10 +3,11 @@ title: PrintForm Method
 keywords: vblr6.chm916130
 f1_keywords:
 - vblr6.chm916130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PrintForm
 ms.assetid: d4481074-6ecf-b845-2a51-ef34dcdc82ab
+ms.date: 06/08/2017
 ---
 
 

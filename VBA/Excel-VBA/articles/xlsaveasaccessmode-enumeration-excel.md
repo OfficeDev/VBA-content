@@ -1,9 +1,10 @@
 ---
 title: XlSaveAsAccessMode Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSaveAsAccessMode
 ms.assetid: 245c910e-4a23-6a4d-40a1-68528f06150c
+ms.date: 06/08/2017
 ---
 
 

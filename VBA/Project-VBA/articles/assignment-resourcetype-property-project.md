@@ -3,10 +3,11 @@ title: Assignment.ResourceType Property (Project)
 keywords: vbapj.chm132577
 f1_keywords:
 - vbapj.chm132577
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.ResourceType
 ms.assetid: c4a99c35-4241-0739-2b42-05a57cf64ced
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.ShowCoauthoringMergeChanges Property (PowerPoint)
 keywords: vbapp10.chm667003
 f1_keywords:
 - vbapp10.chm667003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Options.ShowCoauthoringMergeChanges
 ms.assetid: a5b6c2a0-93c9-629b-be50-e1bb99626006
+ms.date: 06/08/2017
 ---
 
 

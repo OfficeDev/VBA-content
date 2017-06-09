@@ -3,10 +3,11 @@ title: MinorUnit Property
 keywords: vbagr10.chm3077551
 f1_keywords:
 - vbagr10.chm3077551
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MinorUnit
 ms.assetid: 9da86e1c-dfc2-49c8-e6bd-1e5529b2da33
+ms.date: 06/08/2017
 ---
 
 

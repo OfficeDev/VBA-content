@@ -1,7 +1,8 @@
 ---
 title: Remove Data from the Data Store When Deleting a Content Control
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 9b7c7345-bd06-b8e2-d401-dea65ad75f92
+ms.date: 06/08/2017
 ---
 
 

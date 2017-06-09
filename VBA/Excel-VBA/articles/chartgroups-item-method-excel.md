@@ -3,10 +3,11 @@ title: ChartGroups.Item Method (Excel)
 keywords: vbaxl10.chm570074
 f1_keywords:
 - vbaxl10.chm570074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroups.Item
 ms.assetid: 29ca6f13-96b7-bd43-9562-480c467ef7db
+ms.date: 06/08/2017
 ---
 
 

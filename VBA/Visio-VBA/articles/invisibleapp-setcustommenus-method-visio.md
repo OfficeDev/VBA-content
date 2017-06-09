@@ -3,10 +3,11 @@ title: InvisibleApp.SetCustomMenus Method (Visio)
 keywords: vis_sdr.chm17516560
 f1_keywords:
 - vis_sdr.chm17516560
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SetCustomMenus
 ms.assetid: 5538c47c-fe24-e00b-b7c4-64ccf2100d84
+ms.date: 06/08/2017
 ---
 
 

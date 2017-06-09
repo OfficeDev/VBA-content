@@ -3,10 +3,11 @@ title: ExchangeUser.Details Method (Outlook)
 keywords: vbaol11.chm2074
 f1_keywords:
 - vbaol11.chm2074
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Details
 ms.assetid: 6c93a583-cc61-e527-7832-88dba525854a
+ms.date: 06/08/2017
 ---
 
 

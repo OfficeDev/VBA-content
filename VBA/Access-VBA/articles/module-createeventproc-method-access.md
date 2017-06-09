@@ -3,10 +3,11 @@ title: Module.CreateEventProc Method (Access)
 keywords: vbaac10.chm12285
 f1_keywords:
 - vbaac10.chm12285
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.CreateEventProc
 ms.assetid: 13d2a4db-ec80-4225-f3fd-87527dbf660e
+ms.date: 06/08/2017
 ---
 
 

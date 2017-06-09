@@ -3,10 +3,11 @@ title: SubForm.TabIndex Property (Access)
 keywords: vbaac10.chm11935
 f1_keywords:
 - vbaac10.chm11935
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.TabIndex
 ms.assetid: d135000e-3b91-4646-66b9-e4418321285e
+ms.date: 06/08/2017
 ---
 
 

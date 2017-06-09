@@ -3,10 +3,11 @@ title: Application.DefaultZoomBehavior Property (Visio)
 keywords: vis_sdr.chm10052070
 f1_keywords:
 - vis_sdr.chm10052070
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DefaultZoomBehavior
 ms.assetid: 59f26e36-90e3-defa-be04-b7a8ce710eeb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ThreeDFormat.SetThreeDFormat Method (PowerPoint)
 keywords: vbapp10.chm557005
 f1_keywords:
 - vbapp10.chm557005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.SetThreeDFormat
 ms.assetid: 9685d3f9-467a-8b11-144a-c4260bdbbddd
+ms.date: 06/08/2017
 ---
 
 

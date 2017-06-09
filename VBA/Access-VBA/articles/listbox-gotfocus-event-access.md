@@ -3,10 +3,11 @@ title: ListBox.GotFocus Event (Access)
 keywords: vbaac10.chm14175
 f1_keywords:
 - vbaac10.chm14175
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GotFocus
 ms.assetid: b451f0a6-7017-124f-44e3-7f64b9a049ef
+ms.date: 06/08/2017
 ---
 
 

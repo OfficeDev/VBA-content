@@ -3,10 +3,11 @@ title: Application.ReferenceStyle Property (Excel)
 keywords: vbaxl10.chm133197
 f1_keywords:
 - vbaxl10.chm133197
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ReferenceStyle
 ms.assetid: 86c4931b-ab1a-0363-d048-5195707a952b
+ms.date: 06/08/2017
 ---
 
 

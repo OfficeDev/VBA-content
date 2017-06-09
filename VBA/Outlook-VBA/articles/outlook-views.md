@@ -1,7 +1,8 @@
 ---
 title: Outlook Views
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: cbaa3192-6c27-26c0-ebd6-f6489c2e812e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Envelope.ReturnAddressStyle Property (Word)
 keywords: vbawd10.chm152567826
 f1_keywords:
 - vbawd10.chm152567826
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.ReturnAddressStyle
 ms.assetid: cebc53db-5c79-c036-7e15-835095affbde
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SubForm.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm11977
 f1_keywords:
 - vbaac10.chm11977
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.GridlineWidthBottom
 ms.assetid: 0d97523e-7962-a72c-6e7b-f7515562d84d
+ms.date: 06/08/2017
 ---
 
 

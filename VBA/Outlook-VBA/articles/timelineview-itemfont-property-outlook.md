@@ -3,10 +3,11 @@ title: TimelineView.ItemFont Property (Outlook)
 keywords: vbaol11.chm2669
 f1_keywords:
 - vbaol11.chm2669
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.ItemFont
 ms.assetid: 7f01e8b1-cd9e-eb19-e481-35b98029320c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: PjEngagementWarnings Enumeration (Project)
 ms.assetid: 6a6b606b-6040-e278-642a-aa54fb690be2
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

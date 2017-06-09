@@ -3,8 +3,9 @@ title: Frame.ScrollBars Property (Outlook Forms Script)
 keywords: olfm10.chm2001780
 f1_keywords:
 - olfm10.chm2001780
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2a443602-40f7-6f56-0626-479fcd0efd38
+ms.date: 06/08/2017
 ---
 
 

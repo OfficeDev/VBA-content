@@ -1,9 +1,10 @@
 ---
 title: XlTrendlineType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTrendlineType
 ms.assetid: c0a39c74-2df1-9816-0daf-3fce481a2241
+ms.date: 06/08/2017
 ---
 
 

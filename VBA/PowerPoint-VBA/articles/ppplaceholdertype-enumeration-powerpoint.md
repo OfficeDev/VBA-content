@@ -1,9 +1,10 @@
 ---
 title: PpPlaceholderType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPlaceholderType
 ms.assetid: 9dc579f4-4ab0-1027-7419-20e7e7a6bf8c
+ms.date: 06/08/2017
 ---
 
 

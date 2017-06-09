@@ -3,8 +3,9 @@ title: Page.ControlTipText Property (Outlook Forms Script)
 keywords: olfm10.chm2000990
 f1_keywords:
 - olfm10.chm2000990
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 11412cc8-7e62-1382-de69-905d5d75d419
+ms.date: 06/08/2017
 ---
 
 

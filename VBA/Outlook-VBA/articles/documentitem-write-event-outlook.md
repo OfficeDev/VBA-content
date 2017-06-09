@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Write
 ms.assetid: ae8c445f-cf46-9544-7073-bf08638b9247
+ms.date: 06/08/2017
 ---
 
 

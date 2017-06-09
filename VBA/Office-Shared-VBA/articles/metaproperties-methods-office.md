@@ -1,7 +1,8 @@
 ---
 title: MetaProperties Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 80ac7c1f-3498-4b26-a160-aa8e309f1eaf
+ms.date: 06/08/2017
 ---
 
 

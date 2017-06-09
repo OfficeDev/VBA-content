@@ -3,10 +3,11 @@ title: RecurrencePattern.Class Property (Outlook)
 keywords: vbaol11.chm270
 f1_keywords:
 - vbaol11.chm270
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Class
 ms.assetid: 64e7d0b9-9a86-7e81-1747-306c28bd5611
+ms.date: 06/08/2017
 ---
 
 

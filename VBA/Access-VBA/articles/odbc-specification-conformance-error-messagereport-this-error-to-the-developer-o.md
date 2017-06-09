@@ -3,14 +3,15 @@ title: ODBC Specification Conformance Error <message>. Report this error to the 
 keywords: jeterr40.chm5003299
 f1_keywords:
 - jeterr40.chm5003299
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9cc705ea-d6c4-e844-6a92-839979dd401f
+ms.date: 06/08/2017
 ---
 
 
 # ODBC Specification Conformance Error <message>. Report this error to the developer of your application. (Error 3299)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

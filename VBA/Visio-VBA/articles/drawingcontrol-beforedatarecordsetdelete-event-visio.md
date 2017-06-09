@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.BeforeDataRecordsetDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDataRecordsetDelete
 ms.assetid: 70e30b15-6254-b12b-6f46-ce1f7ae07140
+ms.date: 06/08/2017
 ---
 
 

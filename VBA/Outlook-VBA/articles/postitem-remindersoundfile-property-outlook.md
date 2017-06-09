@@ -3,10 +3,11 @@ title: PostItem.ReminderSoundFile Property (Outlook)
 keywords: vbaol11.chm1579
 f1_keywords:
 - vbaol11.chm1579
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ReminderSoundFile
 ms.assetid: 9292a962-e7f9-75e0-20a0-716daf7d677f
+ms.date: 06/08/2017
 ---
 
 

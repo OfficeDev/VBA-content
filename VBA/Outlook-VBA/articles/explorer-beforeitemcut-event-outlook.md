@@ -3,10 +3,11 @@ title: Explorer.BeforeItemCut Event (Outlook)
 keywords: vbaol11.chm462
 f1_keywords:
 - vbaol11.chm462
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeItemCut
 ms.assetid: 82861e5e-e990-aed9-4134-db9cbe63d47c
+ms.date: 06/08/2017
 ---
 
 

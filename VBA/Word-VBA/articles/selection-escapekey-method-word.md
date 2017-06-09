@@ -3,10 +3,11 @@ title: Selection.EscapeKey Method (Word)
 keywords: vbawd10.chm158663162
 f1_keywords:
 - vbawd10.chm158663162
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.EscapeKey
 ms.assetid: a498cf00-a3dc-b084-79ae-c31d6f4e5e27
+ms.date: 06/08/2017
 ---
 
 

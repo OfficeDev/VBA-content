@@ -3,10 +3,11 @@ title: Chart.PlotBy Property (Word)
 keywords: vbawd10.chm79364298
 f1_keywords:
 - vbawd10.chm79364298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.PlotBy
 ms.assetid: ae2774d0-0f58-2224-9104-61d00fa63a86
+ms.date: 06/08/2017
 ---
 
 

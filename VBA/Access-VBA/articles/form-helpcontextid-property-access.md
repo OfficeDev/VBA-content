@@ -3,10 +3,11 @@ title: Form.HelpContextId Property (Access)
 keywords: vbaac10.chm13394
 f1_keywords:
 - vbaac10.chm13394
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.HelpContextId
 ms.assetid: 20cd50e1-5ac9-9739-d9e4-e5214706c61d
+ms.date: 06/08/2017
 ---
 
 

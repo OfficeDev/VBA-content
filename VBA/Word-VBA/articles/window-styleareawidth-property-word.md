@@ -3,10 +3,11 @@ title: Window.StyleAreaWidth Property (Word)
 keywords: vbawd10.chm157417493
 f1_keywords:
 - vbawd10.chm157417493
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.StyleAreaWidth
 ms.assetid: 2256deb8-1682-3c09-ac64-0557185c3d39
+ms.date: 06/08/2017
 ---
 
 

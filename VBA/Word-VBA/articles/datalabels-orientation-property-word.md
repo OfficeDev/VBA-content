@@ -3,10 +3,11 @@ title: DataLabels.Orientation Property (Word)
 keywords: vbawd10.chm207487110
 f1_keywords:
 - vbawd10.chm207487110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.Orientation
 ms.assetid: 34e487f2-42a2-81cb-2654-8b6f5f5fd602
+ms.date: 06/08/2017
 ---
 
 

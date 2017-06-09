@@ -3,10 +3,11 @@ title: DoCmd.RunDataMacro Method (Access)
 keywords: vbaac10.chm5978
 f1_keywords:
 - vbaac10.chm5978
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.RunDataMacro
 ms.assetid: e95b7a8e-a502-67c6-1941-dd5a06c08ef7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: There is no active transport for the Synchronizer. (Error 3508)
 keywords: jeterr40.chm5003508
 f1_keywords:
 - jeterr40.chm5003508
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 678214e8-0c0f-7d1c-6777-11a476e0a01d
+ms.date: 06/08/2017
 ---
 
 
 # There is no active transport for the Synchronizer. (Error 3508)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

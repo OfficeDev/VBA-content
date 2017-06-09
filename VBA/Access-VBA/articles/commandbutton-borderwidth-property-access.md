@@ -3,10 +3,11 @@ title: CommandButton.BorderWidth Property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.BorderWidth
 ms.assetid: a59dbd51-e839-145b-2971-82bdc4c21097
+ms.date: 06/08/2017
 ---
 
 

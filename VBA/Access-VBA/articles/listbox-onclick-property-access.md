@@ -3,10 +3,11 @@ title: ListBox.OnClick Property (Access)
 keywords: vbaac10.chm11284
 f1_keywords:
 - vbaac10.chm11284
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnClick
 ms.assetid: 1afb8ebd-c22b-1978-1eb4-a18d75f7f6c0
+ms.date: 06/08/2017
 ---
 
 

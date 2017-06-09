@@ -3,10 +3,11 @@ title: HiLoLines Object (Word)
 keywords: vbawd10.chm3601
 f1_keywords:
 - vbawd10.chm3601
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HiLoLines
 ms.assetid: 9f1ed891-7e95-8dd0-745a-ce28555284a9
+ms.date: 06/08/2017
 ---
 
 

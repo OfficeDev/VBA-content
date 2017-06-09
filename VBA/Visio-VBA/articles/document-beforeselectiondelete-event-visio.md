@@ -3,10 +3,11 @@ title: Document.BeforeSelectionDelete Event (Visio)
 keywords: vis_sdr.chm10519060
 f1_keywords:
 - vis_sdr.chm10519060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BeforeSelectionDelete
 ms.assetid: 25fccddf-efbb-8041-087a-2c3e3b5cc12c
+ms.date: 06/08/2017
 ---
 
 

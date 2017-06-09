@@ -3,10 +3,11 @@ title: Application.CalculationVersion Property (Excel)
 keywords: vbaxl10.chm133257
 f1_keywords:
 - vbaxl10.chm133257
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CalculationVersion
 ms.assetid: 10de3816-9873-09e5-4141-effdbfe5cd9c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Type Property (VBA Add-In Object Model)
 keywords: vbob6.chm100096
 f1_keywords:
 - vbob6.chm100096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 358eca6e-05fd-2c01-f004-b80bd909338e
+ms.date: 06/08/2017
 ---
 
 

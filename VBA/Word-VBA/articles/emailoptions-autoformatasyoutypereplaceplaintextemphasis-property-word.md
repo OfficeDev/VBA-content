@@ -3,10 +3,11 @@ title: EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
 keywords: vbawd10.chm165347596
 f1_keywords:
 - vbawd10.chm165347596
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis
 ms.assetid: 2fbd053f-cc0b-e38b-2f2a-dfc0c7f49a38
+ms.date: 06/08/2017
 ---
 
 

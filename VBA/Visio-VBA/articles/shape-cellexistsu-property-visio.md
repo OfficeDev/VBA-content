@@ -3,10 +3,11 @@ title: Shape.CellExistsU Property (Visio)
 keywords: vis_sdr.chm11251945
 f1_keywords:
 - vis_sdr.chm11251945
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellExistsU
 ms.assetid: da26e913-39c5-7af5-194d-3bb5dca76678
+ms.date: 06/08/2017
 ---
 
 

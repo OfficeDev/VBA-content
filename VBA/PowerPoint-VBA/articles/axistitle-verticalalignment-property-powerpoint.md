@@ -3,10 +3,11 @@ title: AxisTitle.VerticalAlignment Property (PowerPoint)
 keywords: vbapp10.chm683010
 f1_keywords:
 - vbapp10.chm683010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.VerticalAlignment
 ms.assetid: 03dc2918-e33b-7a72-ec10-9ffe424d906d
+ms.date: 06/08/2017
 ---
 
 

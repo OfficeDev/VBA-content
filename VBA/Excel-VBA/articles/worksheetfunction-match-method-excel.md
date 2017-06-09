@@ -3,10 +3,11 @@ title: WorksheetFunction.Match Method (Excel)
 keywords: vbaxl10.chm137114
 f1_keywords:
 - vbaxl10.chm137114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Match
 ms.assetid: 901cdd78-e8fc-f149-66ff-5887f7099c96
+ms.date: 06/08/2017
 ---
 
 

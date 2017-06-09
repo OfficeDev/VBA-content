@@ -3,10 +3,11 @@ title: NoteItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm1497
 f1_keywords:
 - vbaol11.chm1497
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.PrintOut
 ms.assetid: 4ae4072c-3ff0-a6fb-25c4-5564c7d34736
+ms.date: 06/08/2017
 ---
 
 

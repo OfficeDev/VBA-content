@@ -3,10 +3,11 @@ title: Document.ActiveWindow Property (Publisher)
 keywords: vbapb10.chm196611
 f1_keywords:
 - vbapb10.chm196611
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ActiveWindow
 ms.assetid: 0d00a8fa-aef2-43df-3c54-0cca804b7eee
+ms.date: 06/08/2017
 ---
 
 

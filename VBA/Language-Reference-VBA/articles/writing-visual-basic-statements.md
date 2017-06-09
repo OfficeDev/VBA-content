@@ -3,8 +3,9 @@ title: Writing Visual Basic Statements
 keywords: vbcn6.chm1076695
 f1_keywords:
 - vbcn6.chm1076695
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2d35638-995b-1a6f-2975-8deacddf93de
+ms.date: 06/08/2017
 ---
 
 

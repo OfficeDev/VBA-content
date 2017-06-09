@@ -3,8 +3,9 @@ title: Member identifier already exists in object module from which this object 
 keywords: vblr6.chm1040356
 f1_keywords:
 - vblr6.chm1040356
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29eda9b1-b690-8c4a-7c57-fc938bbcd25a
+ms.date: 06/08/2017
 ---
 
 

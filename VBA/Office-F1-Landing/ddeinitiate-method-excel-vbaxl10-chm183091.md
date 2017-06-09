@@ -3,8 +3,9 @@ title: DDEInitiate Method, Excel [vbaxl10.chm183091]
 keywords: vbaxl10.chm183091
 f1_keywords:
 - vbaxl10.chm183091
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 53aa9604-ed56-4c84-b851-7c0ad45bda44
+ms.date: 06/08/2017
 ---
 
 

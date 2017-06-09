@@ -3,10 +3,11 @@ title: CustomXMLNodes.Count Property (Office)
 keywords: vbaof11.chm293002
 f1_keywords:
 - vbaof11.chm293002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNodes.Count
 ms.assetid: 55c27d9f-6b3d-8008-06e1-99d12d77d801
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MovedSelectionEvent.SelectionSource Property (Visio)
 keywords: vis_sdr.chm17862625
 f1_keywords:
 - vis_sdr.chm17862625
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.SelectionSource
 ms.assetid: 3fe6d8a8-9e76-86dd-e5fa-75c64f53753b
+ms.date: 06/08/2017
 ---
 
 

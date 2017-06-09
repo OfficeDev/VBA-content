@@ -3,10 +3,11 @@ title: Report.KeyPreview Property (Access)
 keywords: vbaac10.chm13824
 f1_keywords:
 - vbaac10.chm13824
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.KeyPreview
 ms.assetid: 49ca195d-bd9e-7a69-1891-455581bcf09a
+ms.date: 06/08/2017
 ---
 
 

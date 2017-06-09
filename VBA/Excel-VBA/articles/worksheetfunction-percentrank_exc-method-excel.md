@@ -3,10 +3,11 @@ title: WorksheetFunction.PercentRank_Exc Method (Excel)
 keywords: vbaxl10.chm137374
 f1_keywords:
 - vbaxl10.chm137374
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.PercentRank_Exc
 ms.assetid: 7d887f36-769c-2d02-c1cf-321d84a2bb56
+ms.date: 06/08/2017
 ---
 
 

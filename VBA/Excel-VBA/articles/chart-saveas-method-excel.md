@@ -3,10 +3,11 @@ title: Chart.SaveAs Method (Excel)
 keywords: vbaxl10.chm149172
 f1_keywords:
 - vbaxl10.chm149172
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.SaveAs
 ms.assetid: 21e2a786-1df2-21ea-f32f-81e07dc2261c
+ms.date: 06/08/2017
 ---
 
 

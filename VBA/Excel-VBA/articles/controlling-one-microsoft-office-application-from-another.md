@@ -3,8 +3,9 @@ title: Controlling One Microsoft Office Application from Another
 keywords: vbaxl10.chm5200116
 f1_keywords:
 - vbaxl10.chm5200116
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 588c18f7-b9e4-60df-e209-a411c5a22fc6
+ms.date: 06/08/2017
 ---
 
 

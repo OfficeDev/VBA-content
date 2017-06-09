@@ -1,13 +1,14 @@
 ---
 title: Error (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 830be489-5362-4f60-ac3a-537662938e80
+ms.date: 06/08/2017
 ---
 
 
 # Error (Visual C++ Syntax Index with #import)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

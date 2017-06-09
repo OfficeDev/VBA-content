@@ -3,8 +3,9 @@ title: Options Dialog Box, Office Shared [vbui6.chm2058225]
 keywords: vbui6.chm2058225
 f1_keywords:
 - vbui6.chm2058225
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b312b137-04d8-441e-80b4-ed153c78654f
+ms.date: 06/08/2017
 ---
 
 

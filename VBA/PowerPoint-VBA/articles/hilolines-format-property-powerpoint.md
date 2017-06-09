@@ -3,10 +3,11 @@ title: HiLoLines.Format Property (PowerPoint)
 keywords: vbapp10.chm706004
 f1_keywords:
 - vbapp10.chm706004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HiLoLines.Format
 ms.assetid: a806617f-f581-df00-4351-4bd1abf96592
+ms.date: 06/08/2017
 ---
 
 

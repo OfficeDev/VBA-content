@@ -3,8 +3,9 @@ title: C Cell (Geometry Section), Visio [Vis_DSS.chm82251752]
 keywords: vis_dss.chm82251752
 f1_keywords:
 - vis_dss.chm82251752
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f37a6f2-c837-41d4-9d55-c30539fccffb
+ms.date: 06/08/2017
 ---
 
 

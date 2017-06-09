@@ -3,10 +3,11 @@ title: WorksheetFunction.LogNormDist Method (Excel)
 keywords: vbaxl10.chm137194
 f1_keywords:
 - vbaxl10.chm137194
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LogNormDist
 ms.assetid: 93f8135e-4967-5708-1372-0c27a0d8be12
+ms.date: 06/08/2017
 ---
 
 

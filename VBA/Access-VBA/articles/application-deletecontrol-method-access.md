@@ -3,10 +3,11 @@ title: Application.DeleteControl Method (Access)
 keywords: vbaac10.chm12522
 f1_keywords:
 - vbaac10.chm12522
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DeleteControl
 ms.assetid: f59f9368-0d7a-8e5f-5140-86e2d2c18c22
+ms.date: 06/08/2017
 ---
 
 

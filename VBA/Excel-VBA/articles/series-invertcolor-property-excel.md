@@ -3,10 +3,11 @@ title: Series.InvertColor Property (Excel)
 keywords: vbaxl10.chm578126
 f1_keywords:
 - vbaxl10.chm578126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.InvertColor
 ms.assetid: 889cef2a-8211-c1b2-0668-8e0c48a894ec
+ms.date: 06/08/2017
 ---
 
 

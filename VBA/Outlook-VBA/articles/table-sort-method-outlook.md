@@ -3,10 +3,11 @@ title: Table.Sort Method (Outlook)
 keywords: vbaol11.chm2235
 f1_keywords:
 - vbaol11.chm2235
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.Sort
 ms.assetid: 4e4867c2-27b8-f920-59ce-b60116d22054
+ms.date: 06/08/2017
 ---
 
 

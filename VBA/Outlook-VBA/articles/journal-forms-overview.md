@@ -1,7 +1,8 @@
 ---
 title: Journal Forms Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ea75cab0-be55-9637-d809-eb53d73be5c8
+ms.date: 06/08/2017
 ---
 
 

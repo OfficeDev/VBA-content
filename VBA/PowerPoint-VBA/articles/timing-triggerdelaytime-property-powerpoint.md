@@ -3,10 +3,11 @@ title: Timing.TriggerDelayTime Property (PowerPoint)
 keywords: vbapp10.chm653005
 f1_keywords:
 - vbapp10.chm653005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.TriggerDelayTime
 ms.assetid: 4d14ffb0-e966-4708-ba30-4a9a1fe34766
+ms.date: 06/08/2017
 ---
 
 

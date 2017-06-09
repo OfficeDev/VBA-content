@@ -3,10 +3,11 @@ title: ColorFormat.ObjectThemeColor Property (Word)
 keywords: vbawd10.chm163971272
 f1_keywords:
 - vbawd10.chm163971272
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ColorFormat.ObjectThemeColor
 ms.assetid: b73fdab7-ea28-c334-7c53-b1711c23bef8
+ms.date: 06/08/2017
 ---
 
 

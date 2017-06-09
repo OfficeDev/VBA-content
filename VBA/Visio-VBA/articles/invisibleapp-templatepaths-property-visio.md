@@ -3,10 +3,11 @@ title: InvisibleApp.TemplatePaths Property (Visio)
 keywords: vis_sdr.chm17514510
 f1_keywords:
 - vis_sdr.chm17514510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TemplatePaths
 ms.assetid: 05ba5082-7f49-36cb-3482-2b04a876dae3
+ms.date: 06/08/2017
 ---
 
 

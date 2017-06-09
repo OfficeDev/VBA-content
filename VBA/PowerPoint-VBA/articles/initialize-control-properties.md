@@ -3,8 +3,9 @@ title: Initialize Control Properties
 keywords: vbapp10.chm5192842
 f1_keywords:
 - vbapp10.chm5192842
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 ms.assetid: d73b960d-bf78-1917-fc54-7b9b7cc7ca10
+ms.date: 06/08/2017
 ---
 
 

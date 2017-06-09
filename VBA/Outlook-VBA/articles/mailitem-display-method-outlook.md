@@ -3,10 +3,11 @@ title: MailItem.Display Method (Outlook)
 keywords: vbaol11.chm1323
 f1_keywords:
 - vbaol11.chm1323
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Display
 ms.assetid: 19ead642-b7bd-579f-e43b-ef5c5d0cfecb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Range.Footnotes Property (Word)
 keywords: vbawd10.chm157155382
 f1_keywords:
 - vbawd10.chm157155382
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Footnotes
 ms.assetid: 5c06672f-8de2-29e9-dd68-15408348faa5
+ms.date: 06/08/2017
 ---
 
 

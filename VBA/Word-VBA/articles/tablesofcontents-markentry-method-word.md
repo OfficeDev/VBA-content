@@ -3,10 +3,11 @@ title: TablesOfContents.MarkEntry Method (Word)
 keywords: vbawd10.chm152305765
 f1_keywords:
 - vbawd10.chm152305765
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.MarkEntry
 ms.assetid: ef8e1d14-82b0-d1f8-8aaf-e2e1b4079c2b
+ms.date: 06/08/2017
 ---
 
 

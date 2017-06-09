@@ -3,10 +3,11 @@ title: DisplayFormat.IndentLevel Property (Excel)
 keywords: vbaxl10.chm893080
 f1_keywords:
 - vbaxl10.chm893080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.IndentLevel
 ms.assetid: 4b7cdb95-c613-799f-7bfd-667506018722
+ms.date: 06/08/2017
 ---
 
 

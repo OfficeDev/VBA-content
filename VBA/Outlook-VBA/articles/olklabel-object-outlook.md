@@ -3,10 +3,11 @@ title: OlkLabel Object (Outlook)
 keywords: vbaol11.chm1000107
 f1_keywords:
 - vbaol11.chm1000107
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel
 ms.assetid: 52e5bbb2-4b22-f308-d5d4-1a1eafad2f48
+ms.date: 06/08/2017
 ---
 
 

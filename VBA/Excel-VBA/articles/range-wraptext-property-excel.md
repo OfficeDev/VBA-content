@@ -3,10 +3,11 @@ title: Range.WrapText Property (Excel)
 keywords: vbaxl10.chm144221
 f1_keywords:
 - vbaxl10.chm144221
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.WrapText
 ms.assetid: 5e61b704-af16-7bad-5eeb-f163e3035513
+ms.date: 06/08/2017
 ---
 
 

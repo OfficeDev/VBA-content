@@ -3,10 +3,11 @@ title: TableView.Standard Property (Outlook)
 keywords: vbaol11.chm2512
 f1_keywords:
 - vbaol11.chm2512
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Standard
 ms.assetid: ad60a066-aefc-2043-b582-e5442a038f5d
+ms.date: 06/08/2017
 ---
 
 

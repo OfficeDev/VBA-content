@@ -3,10 +3,11 @@ title: Footnotes.Item Method (Word)
 keywords: vbawd10.chm155320320
 f1_keywords:
 - vbawd10.chm155320320
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.Item
 ms.assetid: 4d8971ec-1112-3459-f0b3-a3b89e1f1218
+ms.date: 06/08/2017
 ---
 
 

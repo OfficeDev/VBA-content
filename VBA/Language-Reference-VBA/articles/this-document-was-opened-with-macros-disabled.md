@@ -3,8 +3,9 @@ title: This document was opened with Macros Disabled
 keywords: vblr6.chm1057123
 f1_keywords:
 - vblr6.chm1057123
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1a28f6be-9bb8-641f-b6d8-74c8e3df2d59
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ChartArea.Shadow Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Shadow
 ms.assetid: 03f26807-98c4-4436-5fd7-1dba91f9aec6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: LockCrop Cell (Protection Section), Visio [Vis_DSS.chm82251223]
 keywords: vis_dss.chm82251223
 f1_keywords:
 - vis_dss.chm82251223
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b14626eb-c40d-4351-8c40-296fbc2cba30
+ms.date: 06/08/2017
 ---
 
 

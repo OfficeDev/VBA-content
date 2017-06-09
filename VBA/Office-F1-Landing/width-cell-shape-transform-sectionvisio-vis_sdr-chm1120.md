@@ -3,8 +3,9 @@ title: Width Cell (Shape Transform Section), Visio [vis_sdr.chm1120]
 keywords: vis_sdr.chm1120
 f1_keywords:
 - vis_sdr.chm1120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: edb853fe-7777-4292-9025-27efd1335de9
+ms.date: 06/08/2017
 ---
 
 

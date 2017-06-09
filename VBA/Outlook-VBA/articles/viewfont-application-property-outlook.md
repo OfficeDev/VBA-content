@@ -3,10 +3,11 @@ title: ViewFont.Application Property (Outlook)
 keywords: vbaol11.chm2691
 f1_keywords:
 - vbaol11.chm2691
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Application
 ms.assetid: e309e0cc-8f4b-a309-01fd-53fe8ea384cf
+ms.date: 06/08/2017
 ---
 
 

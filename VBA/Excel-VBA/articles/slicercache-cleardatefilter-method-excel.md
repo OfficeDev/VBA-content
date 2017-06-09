@@ -3,8 +3,9 @@ title: SlicerCache.ClearDateFilter Method (Excel)
 keywords: vbaxl10.chm897098
 f1_keywords:
 - vbaxl10.chm897098
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d999d249-c0c7-747c-b402-acc650df5367
+ms.date: 06/08/2017
 ---
 
 

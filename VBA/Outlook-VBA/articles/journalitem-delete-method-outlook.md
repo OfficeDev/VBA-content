@@ -3,10 +3,11 @@ title: JournalItem.Delete Method (Outlook)
 keywords: vbaol11.chm1259
 f1_keywords:
 - vbaol11.chm1259
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Delete
 ms.assetid: ccfe20b5-7338-281f-7df9-850bee3d589a
+ms.date: 06/08/2017
 ---
 
 

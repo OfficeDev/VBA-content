@@ -3,10 +3,11 @@ title: CubeField.Creator Property (Excel)
 keywords: vbaxl10.chm667074
 f1_keywords:
 - vbaxl10.chm667074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.Creator
 ms.assetid: 2534f870-90cd-e3ab-b1fd-d63455a75809
+ms.date: 06/08/2017
 ---
 
 

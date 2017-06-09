@@ -1,9 +1,10 @@
 ---
 title: MsoAnimEffect Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimEffect
 ms.assetid: 2a4ec4c0-9bf2-281a-420b-dd7d3f13f716
+ms.date: 06/08/2017
 ---
 
 

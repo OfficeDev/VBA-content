@@ -3,10 +3,11 @@ title: ContainerProperties.SetListSpacing Method (Visio)
 keywords: vis_sdr.chm17662315
 f1_keywords:
 - vis_sdr.chm17662315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.SetListSpacing
 ms.assetid: 2aa7d9c3-5945-5b2c-ab0c-3663e6d49288
+ms.date: 06/08/2017
 ---
 
 

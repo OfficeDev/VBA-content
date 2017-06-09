@@ -3,10 +3,11 @@ title: Document.RemovePersonalInformation Property (Visio)
 keywords: vis_sdr.chm10551675
 f1_keywords:
 - vis_sdr.chm10551675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.RemovePersonalInformation
 ms.assetid: b05eb59e-9906-10f9-8819-60f8f0f1d4f5
+ms.date: 06/08/2017
 ---
 
 

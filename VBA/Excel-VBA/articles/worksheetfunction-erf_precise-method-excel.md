@@ -3,10 +3,11 @@ title: WorksheetFunction.Erf_Precise Method (Excel)
 keywords: vbaxl10.chm137416
 f1_keywords:
 - vbaxl10.chm137416
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Erf_Precise
 ms.assetid: 1a34f60c-b5e9-f18f-2d0e-4ebe770edd59
+ms.date: 06/08/2017
 ---
 
 

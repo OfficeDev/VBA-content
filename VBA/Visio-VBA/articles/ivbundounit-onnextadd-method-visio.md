@@ -3,10 +3,11 @@ title: IVBUndoUnit.OnNextAdd Method (Visio)
 keywords: vis_sdr.chm17360160
 f1_keywords:
 - vis_sdr.chm17360160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.IVBUndoUnit.OnNextAdd
 ms.assetid: a5504398-75a9-06be-346c-3afd85ce708e
+ms.date: 06/08/2017
 ---
 
 

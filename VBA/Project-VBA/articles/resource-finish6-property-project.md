@@ -1,9 +1,10 @@
 ---
 title: Resource.Finish6 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Finish6
 ms.assetid: c9224977-3a53-12c6-a6ca-ee8d67c81297
+ms.date: 06/08/2017
 ---
 
 

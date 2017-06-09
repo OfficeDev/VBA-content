@@ -1,9 +1,10 @@
 ---
 title: MailItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeRead
 ms.assetid: de506bc1-37af-0738-1381-56d69e05e829
+ms.date: 06/08/2017
 ---
 
 

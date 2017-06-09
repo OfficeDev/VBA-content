@@ -3,10 +3,11 @@ title: AddIns2.Application Property (Excel)
 keywords: vbaxl10.chm866073
 f1_keywords:
 - vbaxl10.chm866073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIns2.Application
 ms.assetid: f540ea29-e0e7-fa7b-5aa9-f0423ad044f8
+ms.date: 06/08/2017
 ---
 
 

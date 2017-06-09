@@ -3,10 +3,11 @@ title: CustomControl.Top Property (Access)
 keywords: vbaac10.chm12021
 f1_keywords:
 - vbaac10.chm12021
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Top
 ms.assetid: a79a5dba-acdc-d17e-76fb-d90629ea84d5
+ms.date: 06/08/2017
 ---
 
 

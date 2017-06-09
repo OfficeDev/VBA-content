@@ -3,10 +3,11 @@ title: Table.Index Property (Project)
 keywords: vbapj.chm132693
 f1_keywords:
 - vbapj.chm132693
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.Index
 ms.assetid: f216af60-856b-883d-f91f-43f52a3808bf
+ms.date: 06/08/2017
 ---
 
 

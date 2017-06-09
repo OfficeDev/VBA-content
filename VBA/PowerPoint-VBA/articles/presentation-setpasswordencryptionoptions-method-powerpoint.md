@@ -3,10 +3,11 @@ title: Presentation.SetPasswordEncryptionOptions Method (PowerPoint)
 keywords: vbapp10.chm583079
 f1_keywords:
 - vbapp10.chm583079
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SetPasswordEncryptionOptions
 ms.assetid: 03c07952-784b-eba6-af71-57d3d1414f81
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.DDETerminate Method (Word)
 keywords: vbawd10.chm158335290
 f1_keywords:
 - vbawd10.chm158335290
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DDETerminate
 ms.assetid: c469656c-edf8-3ce2-b09b-0883faba8943
+ms.date: 06/08/2017
 ---
 
 

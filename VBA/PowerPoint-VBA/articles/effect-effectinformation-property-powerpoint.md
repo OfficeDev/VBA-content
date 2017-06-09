@@ -3,10 +3,11 @@ title: Effect.EffectInformation Property (PowerPoint)
 keywords: vbapp10.chm652018
 f1_keywords:
 - vbapp10.chm652018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.EffectInformation
 ms.assetid: 68c61bfc-842e-6659-eda9-cc4899c50b94
+ms.date: 06/08/2017
 ---
 
 

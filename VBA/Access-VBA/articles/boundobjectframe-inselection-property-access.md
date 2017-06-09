@@ -3,10 +3,11 @@ title: BoundObjectFrame.InSelection Property (Access)
 keywords: vbaac10.chm10960
 f1_keywords:
 - vbaac10.chm10960
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.InSelection
 ms.assetid: 8212bebc-0d9c-6476-a8f6-f1bbd3c26066
+ms.date: 06/08/2017
 ---
 
 

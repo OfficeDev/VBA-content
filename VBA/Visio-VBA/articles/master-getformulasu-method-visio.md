@@ -3,10 +3,11 @@ title: Master.GetFormulasU Method (Visio)
 keywords: vis_sdr.chm10751935
 f1_keywords:
 - vis_sdr.chm10751935
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.GetFormulasU
 ms.assetid: d5a419e2-9630-a724-af44-f2f1b0166c80
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.ShowToolbar Property (Visio)
 keywords: vis_sdr.chm17514385
 f1_keywords:
 - vis_sdr.chm17514385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShowToolbar
 ms.assetid: d3a39c62-c73e-3212-cf94-356b371ad8ea
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Search.SearchSubFolders Property (Outlook)
 keywords: vbaol11.chm2256
 f1_keywords:
 - vbaol11.chm2256
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Search.SearchSubFolders
 ms.assetid: 26dd1970-ba59-9f6a-8cf6-3dba0f9668b2
+ms.date: 06/08/2017
 ---
 
 

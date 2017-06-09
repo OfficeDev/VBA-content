@@ -1,13 +1,14 @@
 ---
 title: Multi-level GROUP BY clause is not allowed in a subquery. (Error 3612)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 05d87e16-399f-c2fd-49bd-36be4930dce9
+ms.date: 06/08/2017
 ---
 
 
 # Multi-level GROUP BY clause is not allowed in a subquery. (Error 3612)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

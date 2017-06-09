@@ -3,10 +3,11 @@ title: ExchangeUser.Session Property (Outlook)
 keywords: vbaol11.chm2063
 f1_keywords:
 - vbaol11.chm2063
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Session
 ms.assetid: 7d2d23f0-c441-281a-1784-fe63dfa47b9f
+ms.date: 06/08/2017
 ---
 
 

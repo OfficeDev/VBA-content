@@ -3,8 +3,9 @@ title: ScheduledFinish Property, Project [vbapj.chm132555]
 keywords: vbapj.chm132555
 f1_keywords:
 - vbapj.chm132555
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac1e7976-f905-454c-8082-ef91622bd2f1
+ms.date: 06/08/2017
 ---
 
 

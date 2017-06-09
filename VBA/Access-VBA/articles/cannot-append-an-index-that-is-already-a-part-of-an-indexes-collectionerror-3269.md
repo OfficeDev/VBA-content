@@ -3,14 +3,15 @@ title: Cannot append an Index that is already a part of an Indexes collection. (
 keywords: jeterr40.chm5003269
 f1_keywords:
 - jeterr40.chm5003269
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4c503222-51d4-c4fd-08cc-8da40b8dcfda
+ms.date: 06/08/2017
 ---
 
 
 # Cannot append an Index that is already a part of an Indexes collection. (Error 3269)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

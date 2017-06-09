@@ -3,10 +3,11 @@ title: Pane.SmallScroll Method (Word)
 keywords: vbawd10.chm157286503
 f1_keywords:
 - vbawd10.chm157286503
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.SmallScroll
 ms.assetid: e4d82e4b-ed4e-0050-c6d9-67fb580dde6d
+ms.date: 06/08/2017
 ---
 
 

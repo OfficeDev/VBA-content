@@ -1,7 +1,8 @@
 ---
 title: Sorting Items in a Folder
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bc3651da-cfdb-4301-4034-bb848f371e55
+ms.date: 06/08/2017
 ---
 
 

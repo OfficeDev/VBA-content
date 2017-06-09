@@ -3,8 +3,9 @@ title: VisDocCleanTargets Enumeration (Visio)
 keywords: vis_sdr.chm70305
 f1_keywords:
 - vis_sdr.chm70305
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 9a5941a6-c9ba-7cc9-265c-ff1c65482cb1
+ms.date: 06/08/2017
 ---
 
 

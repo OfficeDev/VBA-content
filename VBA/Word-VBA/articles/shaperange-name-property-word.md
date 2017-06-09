@@ -3,10 +3,11 @@ title: ShapeRange.Name Property (Word)
 keywords: vbawd10.chm162857075
 f1_keywords:
 - vbawd10.chm162857075
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Name
 ms.assetid: 76929d0e-a710-0885-2beb-71c2317d754d
+ms.date: 06/08/2017
 ---
 
 

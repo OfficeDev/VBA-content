@@ -3,10 +3,11 @@ title: FootnoteOptions Object (Word)
 keywords: vbawd10.chm2596
 f1_keywords:
 - vbawd10.chm2596
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FootnoteOptions
 ms.assetid: 5fdeb6d6-ce33-44f5-62c1-743fc3770457
+ms.date: 06/08/2017
 ---
 
 

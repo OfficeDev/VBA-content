@@ -3,8 +3,9 @@ title: Fixed or static data can't be larger than 64K
 keywords: vblr6.chm1011320
 f1_keywords:
 - vblr6.chm1011320
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e41c3342-6ea7-38d9-be17-f058858ec006
+ms.date: 06/08/2017
 ---
 
 

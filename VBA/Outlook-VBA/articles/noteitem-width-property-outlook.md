@@ -3,10 +3,11 @@ title: NoteItem.Width Property (Outlook)
 keywords: vbaol11.chm1491
 f1_keywords:
 - vbaol11.chm1491
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Width
 ms.assetid: 84006489-db28-a3ce-a897-7ec1a3e35f05
+ms.date: 06/08/2017
 ---
 
 

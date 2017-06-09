@@ -1,9 +1,10 @@
 ---
 title: Task.TotalSlack Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.TotalSlack
 ms.assetid: 6a9246c7-7d94-534e-28f2-403c2587976e
+ms.date: 06/08/2017
 ---
 
 

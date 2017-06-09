@@ -3,10 +3,11 @@ title: ODSOFilter.Column Property (Office)
 keywords: vbaof11.chm240003
 f1_keywords:
 - vbaof11.chm240003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilter.Column
 ms.assetid: 53caf4f7-73f1-3969-b407-8fa89883c78d
+ms.date: 06/08/2017
 ---
 
 

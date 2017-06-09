@@ -3,8 +3,9 @@ title: NoLiveDynamics Cell (Miscellaneous Section), Visio [Vis_DSS.chm720]
 keywords: vis_dss.chm720
 f1_keywords:
 - vis_dss.chm720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 072d6d2d-78dd-4704-9600-61040a8d87e9
+ms.date: 06/08/2017
 ---
 
 

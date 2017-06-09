@@ -3,10 +3,11 @@ title: Image.SetFocus Method (Access)
 keywords: vbaac10.chm10360
 f1_keywords:
 - vbaac10.chm10360
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.SetFocus
 ms.assetid: d7cad49f-e5ee-ed4a-567c-9706725f867e
+ms.date: 06/08/2017
 ---
 
 

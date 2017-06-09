@@ -3,10 +3,11 @@ title: Style.Borders Property (Excel)
 keywords: vbaxl10.chm177075
 f1_keywords:
 - vbaxl10.chm177075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Borders
 ms.assetid: 7da8309e-f01f-b131-b462-f974dde67007
+ms.date: 06/08/2017
 ---
 
 

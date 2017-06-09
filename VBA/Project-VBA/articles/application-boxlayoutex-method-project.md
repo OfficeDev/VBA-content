@@ -3,10 +3,11 @@ title: Application.BoxLayoutEx Method (Project)
 keywords: vbapj.chm2157
 f1_keywords:
 - vbapj.chm2157
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxLayoutEx
 ms.assetid: 40c80e1c-6763-172d-c48a-0ec7c1fa2412
+ms.date: 06/08/2017
 ---
 
 

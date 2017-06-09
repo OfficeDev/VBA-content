@@ -3,10 +3,11 @@ title: ParagraphFormat.ListType Property (Publisher)
 keywords: vbapb10.chm5439521
 f1_keywords:
 - vbapb10.chm5439521
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.ListType
 ms.assetid: 04ae7157-e864-4e95-74ff-59821eceb286
+ms.date: 06/08/2017
 ---
 
 

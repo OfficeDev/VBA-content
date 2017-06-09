@@ -3,10 +3,11 @@ title: CanUndo Property
 keywords: fm20.chm5225016
 f1_keywords:
 - fm20.chm5225016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CanUndo
 ms.assetid: e96f23c1-5a82-0f94-4bef-aaf9767db719
+ms.date: 06/08/2017
 ---
 
 

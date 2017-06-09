@@ -3,10 +3,11 @@ title: Folder.DefaultItemType Property (Outlook)
 keywords: vbaol11.chm1985
 f1_keywords:
 - vbaol11.chm1985
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.DefaultItemType
 ms.assetid: 5a08d9aa-6bb7-0917-6d46-cb27cd03dace
+ms.date: 06/08/2017
 ---
 
 

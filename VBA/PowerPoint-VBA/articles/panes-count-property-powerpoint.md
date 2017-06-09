@@ -1,9 +1,10 @@
 ---
 title: Panes.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Panes.Count
 ms.assetid: 450fb25b-46b5-00e5-4e26-f08974ca14e0
+ms.date: 06/08/2017
 ---
 
 

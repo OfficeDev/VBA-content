@@ -1,7 +1,8 @@
 ---
 title: Characters Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 6d22ae7a-128d-134d-9136-1cdd5a8d9941
+ms.date: 06/08/2017
 ---
 
 

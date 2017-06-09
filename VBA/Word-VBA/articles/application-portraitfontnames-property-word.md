@@ -3,10 +3,11 @@ title: Application.PortraitFontNames Property (Word)
 keywords: vbawd10.chm158334989
 f1_keywords:
 - vbawd10.chm158334989
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PortraitFontNames
 ms.assetid: 21c3802b-43ad-3d8f-34de-af9af4d29bcf
+ms.date: 06/08/2017
 ---
 
 

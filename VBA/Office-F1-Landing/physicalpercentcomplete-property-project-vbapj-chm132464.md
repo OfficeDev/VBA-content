@@ -3,8 +3,9 @@ title: PhysicalPercentComplete Property, Project [vbapj.chm132464]
 keywords: vbapj.chm132464
 f1_keywords:
 - vbapj.chm132464
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 56d3f32e-bc57-4578-b6c4-b1f5023ad085
+ms.date: 06/08/2017
 ---
 
 

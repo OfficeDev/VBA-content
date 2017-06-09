@@ -3,8 +3,9 @@ title: MouseUp Event, Visio [vis_sdr.chm10051300]
 keywords: vis_sdr.chm10051300
 f1_keywords:
 - vis_sdr.chm10051300
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ee601bd7-f1ee-452a-9b0f-9e8920bcbcdf
+ms.date: 06/08/2017
 ---
 
 

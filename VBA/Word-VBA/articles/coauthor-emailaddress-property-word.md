@@ -3,10 +3,11 @@ title: CoAuthor.EmailAddress Property (Word)
 keywords: vbawd10.chm81068037
 f1_keywords:
 - vbawd10.chm81068037
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthor.EmailAddress
 ms.assetid: 48d33e56-78a3-172f-177e-3b250bbec130
+ms.date: 06/08/2017
 ---
 
 

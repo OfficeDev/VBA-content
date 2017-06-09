@@ -3,10 +3,11 @@ title: Series.Select Method (Word)
 keywords: vbawd10.chm123732203
 f1_keywords:
 - vbawd10.chm123732203
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Select
 ms.assetid: afed7057-30b5-5bef-b5ad-7427d6694005
+ms.date: 06/08/2017
 ---
 
 

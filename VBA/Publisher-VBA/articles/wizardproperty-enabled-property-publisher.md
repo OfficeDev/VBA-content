@@ -3,10 +3,11 @@ title: WizardProperty.Enabled Property (Publisher)
 keywords: vbapb10.chm1572871
 f1_keywords:
 - vbapb10.chm1572871
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.Enabled
 ms.assetid: c66741c8-1493-ac90-4ecb-ed8d58743c69
+ms.date: 06/08/2017
 ---
 
 

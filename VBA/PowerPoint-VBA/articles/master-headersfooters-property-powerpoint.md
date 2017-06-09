@@ -3,10 +3,11 @@ title: Master.HeadersFooters Property (PowerPoint)
 keywords: vbapp10.chm533004
 f1_keywords:
 - vbapp10.chm533004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.HeadersFooters
 ms.assetid: ac9f3282-32be-c561-e5cb-80e35db1797d
+ms.date: 06/08/2017
 ---
 
 

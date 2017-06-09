@@ -3,8 +3,9 @@ title: View Object, Project [vbapj.chm131341]
 keywords: vbapj.chm131341
 f1_keywords:
 - vbapj.chm131341
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0eacbea9-786a-4d26-bea1-a5375d625631
+ms.date: 06/08/2017
 ---
 
 

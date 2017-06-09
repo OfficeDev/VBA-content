@@ -3,10 +3,11 @@ title: CopyFile Method
 keywords: vblr6.chm2182032
 f1_keywords:
 - vblr6.chm2182032
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CopyFile
 ms.assetid: 2ab700b1-0827-c277-6af5-93a86ed05cc1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.DocRestore Method (Project)
 keywords: vbapj.chm2016
 f1_keywords:
 - vbapj.chm2016
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DocRestore
 ms.assetid: 78589202-af87-2ab9-d03e-93fb48067481
+ms.date: 06/08/2017
 ---
 
 

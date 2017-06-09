@@ -1,9 +1,10 @@
 ---
 title: Assignment.Baseline3Work Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline3Work
 ms.assetid: f834160a-40e3-d6e9-66ed-0f9b9f6a1698
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Start8 Property, Project [vbapj.chm132598]
 keywords: vbapj.chm132598
 f1_keywords:
 - vbapj.chm132598
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 151c8433-63ea-445e-b8cc-35393404ea5b
+ms.date: 06/08/2017
 ---
 
 

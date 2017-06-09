@@ -3,8 +3,9 @@ title: UpdateNeeded Property, Project [vbapj.chm132724]
 keywords: vbapj.chm132724
 f1_keywords:
 - vbapj.chm132724
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 96ba873d-5674-4f35-b3af-81fd449d4381
+ms.date: 06/08/2017
 ---
 
 

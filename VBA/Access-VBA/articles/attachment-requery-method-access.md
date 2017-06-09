@@ -3,10 +3,11 @@ title: Attachment.Requery Method (Access)
 keywords: vbaac10.chm13908
 f1_keywords:
 - vbaac10.chm13908
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Requery
 ms.assetid: 6af04ea8-02cb-9eda-439d-6c69cd772891
+ms.date: 06/08/2017
 ---
 
 

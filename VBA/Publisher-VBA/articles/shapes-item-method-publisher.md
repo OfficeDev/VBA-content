@@ -3,10 +3,11 @@ title: Shapes.Item Method (Publisher)
 keywords: vbapb10.chm2162688
 f1_keywords:
 - vbapb10.chm2162688
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.Item
 ms.assetid: 174bbabb-e19f-4638-6dd8-780a8617fd70
+ms.date: 06/08/2017
 ---
 
 

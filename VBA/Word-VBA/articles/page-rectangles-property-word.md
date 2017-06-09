@@ -3,10 +3,11 @@ title: Page.Rectangles Property (Word)
 keywords: vbawd10.chm11075590
 f1_keywords:
 - vbawd10.chm11075590
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Rectangles
 ms.assetid: 57c2f9f9-b858-b2f7-2dcc-1cbd565d009c
+ms.date: 06/08/2017
 ---
 
 

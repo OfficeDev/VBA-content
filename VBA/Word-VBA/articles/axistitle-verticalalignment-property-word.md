@@ -3,10 +3,11 @@ title: AxisTitle.VerticalAlignment Property (Word)
 keywords: vbawd10.chm98238480
 f1_keywords:
 - vbawd10.chm98238480
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.VerticalAlignment
 ms.assetid: 06e1fc06-4f3f-ecc7-78e1-80477a4d1544
+ms.date: 06/08/2017
 ---
 
 

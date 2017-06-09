@@ -3,10 +3,11 @@ title: IBlogExtensibility.GetCategories Method (Office)
 keywords: vbaof11.chm328008
 f1_keywords:
 - vbaof11.chm328008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IBlogExtensibility.GetCategories
 ms.assetid: f263594c-db27-86bd-8597-35a3148a5ea7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: QueryCancelPageDelete Event, Visio [vis_sdr.chm10019315]
 keywords: vis_sdr.chm10019315
 f1_keywords:
 - vis_sdr.chm10019315
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a1f6e975-8389-4691-887b-a3f38abd8153
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextEffectFormat.FontItalic Property (Publisher)
 keywords: vbapb10.chm3735810
 f1_keywords:
 - vbapb10.chm3735810
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.FontItalic
 ms.assetid: 6594e6f7-e29e-a51d-55b8-d02f1fb9f26a
+ms.date: 06/08/2017
 ---
 
 

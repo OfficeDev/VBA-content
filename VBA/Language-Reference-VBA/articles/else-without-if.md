@@ -3,8 +3,9 @@ title: Else without If
 keywords: vblr6.chm1011133
 f1_keywords:
 - vblr6.chm1011133
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1c95caf3-9b16-bc84-2a6f-da21543895e8
+ms.date: 06/08/2017
 ---
 
 

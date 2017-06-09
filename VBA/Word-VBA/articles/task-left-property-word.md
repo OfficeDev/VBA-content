@@ -3,10 +3,11 @@ title: Task.Left Property (Word)
 keywords: vbawd10.chm159514625
 f1_keywords:
 - vbawd10.chm159514625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task.Left
 ms.assetid: a603ecba-5d16-bbed-81c1-a91ba9b4699e
+ms.date: 06/08/2017
 ---
 
 

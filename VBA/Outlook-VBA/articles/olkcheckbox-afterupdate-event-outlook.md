@@ -3,10 +3,11 @@ title: OlkCheckBox.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000160
 f1_keywords:
 - vbaol11.chm1000160
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.AfterUpdate
 ms.assetid: a207e36b-9afe-b7e3-9dd4-9af2ae16cf7d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: EventList.ItemFromID Property (Visio)
 keywords: vis_sdr.chm12713775
 f1_keywords:
 - vis_sdr.chm12713775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EventList.ItemFromID
 ms.assetid: 0a5e73f7-e876-90e1-4b33-15a2593bb9cc
+ms.date: 06/08/2017
 ---
 
 

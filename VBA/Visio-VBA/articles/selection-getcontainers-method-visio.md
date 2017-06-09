@@ -3,10 +3,11 @@ title: Selection.GetContainers Method (Visio)
 keywords: vis_sdr.chm11162165
 f1_keywords:
 - vis_sdr.chm11162165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.GetContainers
 ms.assetid: 8e04bed5-f9ef-04bf-3013-c6dd623f9f63
+ms.date: 06/08/2017
 ---
 
 

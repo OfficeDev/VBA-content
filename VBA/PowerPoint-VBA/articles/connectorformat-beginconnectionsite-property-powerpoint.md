@@ -3,10 +3,11 @@ title: ConnectorFormat.BeginConnectionSite Property (PowerPoint)
 keywords: vbapp10.chm555008
 f1_keywords:
 - vbapp10.chm555008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.BeginConnectionSite
 ms.assetid: c26690ad-77a9-b312-33f0-8d88a6fa667f
+ms.date: 06/08/2017
 ---
 
 

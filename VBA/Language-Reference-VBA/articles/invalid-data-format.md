@@ -3,8 +3,9 @@ title: Invalid data format
 keywords: vblr6.chm1032792
 f1_keywords:
 - vblr6.chm1032792
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4812fe11-7137-70c3-0601-f5815827d21b
+ms.date: 06/08/2017
 ---
 
 

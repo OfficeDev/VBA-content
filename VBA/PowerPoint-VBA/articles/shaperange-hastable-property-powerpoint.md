@@ -3,10 +3,11 @@ title: ShapeRange.HasTable Property (PowerPoint)
 keywords: vbapp10.chm548068
 f1_keywords:
 - vbapp10.chm548068
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.HasTable
 ms.assetid: aaf47e4f-0315-2311-e9c5-68a12d36235c
+ms.date: 06/08/2017
 ---
 
 

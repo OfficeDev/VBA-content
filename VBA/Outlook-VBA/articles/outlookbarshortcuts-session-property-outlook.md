@@ -3,10 +3,11 @@ title: OutlookBarShortcuts.Session Property (Outlook)
 keywords: vbaol11.chm331
 f1_keywords:
 - vbaol11.chm331
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.Session
 ms.assetid: 538cc6e5-2772-23bb-6ed4-658ed8607660
+ms.date: 06/08/2017
 ---
 
 

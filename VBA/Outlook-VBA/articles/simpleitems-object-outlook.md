@@ -3,10 +3,11 @@ title: SimpleItems Object (Outlook)
 keywords: vbaol11.chm3400
 f1_keywords:
 - vbaol11.chm3400
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SimpleItems
 ms.assetid: b929ae28-fe5f-607e-37b5-ed6a304d4896
+ms.date: 06/08/2017
 ---
 
 

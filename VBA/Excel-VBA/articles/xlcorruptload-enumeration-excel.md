@@ -1,9 +1,10 @@
 ---
 title: XlCorruptLoad Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCorruptLoad
 ms.assetid: 0b24b2d9-0a43-8b63-d02d-c783aca79f9c
+ms.date: 06/08/2017
 ---
 
 

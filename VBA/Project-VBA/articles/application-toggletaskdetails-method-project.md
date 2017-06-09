@@ -3,10 +3,11 @@ title: Application.ToggleTaskDetails Method (Project)
 keywords: vbapj.chm2298
 f1_keywords:
 - vbapj.chm2298
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ToggleTaskDetails
 ms.assetid: c27dffe7-6814-85f5-9c49-21e0efb12cd1
+ms.date: 06/08/2017
 ---
 
 

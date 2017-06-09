@@ -3,10 +3,11 @@ title: ComboBox.FontItalic Property (Access)
 keywords: vbaac10.chm11417
 f1_keywords:
 - vbaac10.chm11417
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.FontItalic
 ms.assetid: 57a1a671-1001-e614-ff10-8b5e7a16ca43
+ms.date: 06/08/2017
 ---
 
 

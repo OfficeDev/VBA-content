@@ -3,10 +3,11 @@ title: MailItem.Application Property (Outlook)
 keywords: vbaol11.chm1290
 f1_keywords:
 - vbaol11.chm1290
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Application
 ms.assetid: d71cb356-f3ae-ab08-4209-1dac0c2b8fdf
+ms.date: 06/08/2017
 ---
 
 

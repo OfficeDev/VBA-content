@@ -3,10 +3,11 @@ title: Selection.TypeText Method (Word)
 keywords: vbawd10.chm158663163
 f1_keywords:
 - vbawd10.chm158663163
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.TypeText
 ms.assetid: fb8e58cc-0c49-0efa-d60a-8be6c3d4435c
+ms.date: 06/08/2017
 ---
 
 

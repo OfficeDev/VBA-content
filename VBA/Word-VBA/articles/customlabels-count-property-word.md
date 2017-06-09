@@ -3,10 +3,11 @@ title: CustomLabels.Count Property (Word)
 keywords: vbawd10.chm152436737
 f1_keywords:
 - vbawd10.chm152436737
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabels.Count
 ms.assetid: 293b2271-2b83-c076-a880-3e3efc7ac161
+ms.date: 06/08/2017
 ---
 
 

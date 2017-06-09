@@ -3,8 +3,9 @@ title: "Line 'item1': Property 'item2' in control 'item3' had an invalid propert
 keywords: vblr6.chm1117739
 f1_keywords:
 - vblr6.chm1117739
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aa1fc07e-4dce-e50e-cf02-d77586359057
+ms.date: 06/08/2017
 ---
 
 

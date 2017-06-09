@@ -3,10 +3,11 @@ title: Application.OptionsSecurityEx Method (Project)
 keywords: vbapj.chm652
 f1_keywords:
 - vbapj.chm652
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsSecurityEx
 ms.assetid: 9c6e0c77-6873-1a90-fb85-ca33ca7c9ec1
+ms.date: 06/08/2017
 ---
 
 

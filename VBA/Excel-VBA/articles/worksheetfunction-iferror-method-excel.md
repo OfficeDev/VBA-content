@@ -3,10 +3,11 @@ title: WorksheetFunction.IfError Method (Excel)
 keywords: vbaxl10.chm137357
 f1_keywords:
 - vbaxl10.chm137357
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IfError
 ms.assetid: 864812c0-990e-2e99-3c3b-05fe5210cf16
+ms.date: 06/08/2017
 ---
 
 

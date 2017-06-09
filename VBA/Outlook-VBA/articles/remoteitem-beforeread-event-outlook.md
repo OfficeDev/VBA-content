@@ -1,9 +1,10 @@
 ---
 title: RemoteItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeRead
 ms.assetid: aa42bad1-3bab-a2f2-6565-9804dc90ae6d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SlicerPivotTables.Creator Property (Excel)
 keywords: vbaxl10.chm910074
 f1_keywords:
 - vbaxl10.chm910074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.Creator
 ms.assetid: 7c1bf1f9-4d70-4b21-b235-d0f89b2bd500
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LayoutGuides.MarginTop Property (Publisher)
 keywords: vbapb10.chm1114118
 f1_keywords:
 - vbapb10.chm1114118
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.MarginTop
 ms.assetid: f0b4f600-6c79-060b-edd5-82f07f78770a
+ms.date: 06/08/2017
 ---
 
 

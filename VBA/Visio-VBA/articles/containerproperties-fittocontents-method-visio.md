@@ -3,10 +3,11 @@ title: ContainerProperties.FitToContents Method (Visio)
 keywords: vis_sdr.chm17662295
 f1_keywords:
 - vis_sdr.chm17662295
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.FitToContents
 ms.assetid: 09169624-f1fd-66a3-0be2-738d808d540a
+ms.date: 06/08/2017
 ---
 
 

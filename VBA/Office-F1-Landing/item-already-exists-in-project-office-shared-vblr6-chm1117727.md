@@ -3,8 +3,9 @@ title: Item' already exists in project, Office Shared [vblr6.chm1117727]
 keywords: vblr6.chm1117727
 f1_keywords:
 - vblr6.chm1117727
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89d6239a-2c9a-4dfd-af96-35b27db63ae3
+ms.date: 06/08/2017
 ---
 
 

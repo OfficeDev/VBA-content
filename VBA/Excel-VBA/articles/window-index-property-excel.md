@@ -3,10 +3,11 @@ title: Window.Index Property (Excel)
 keywords: vbaxl10.chm356096
 f1_keywords:
 - vbaxl10.chm356096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Index
 ms.assetid: ea8e3dae-032e-9188-1068-ed1248dcff1a
+ms.date: 06/08/2017
 ---
 
 

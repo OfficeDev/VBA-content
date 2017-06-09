@@ -1,9 +1,10 @@
 ---
 title: WdOMathFracType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdOMathFracType
 ms.assetid: 24546a50-1692-2cb4-cd8e-7f47688e4708
+ms.date: 06/08/2017
 ---
 
 

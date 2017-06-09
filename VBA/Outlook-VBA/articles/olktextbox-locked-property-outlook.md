@@ -3,10 +3,11 @@ title: OlkTextBox.Locked Property (Outlook)
 keywords: vbaol11.chm1000049
 f1_keywords:
 - vbaol11.chm1000049
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Locked
 ms.assetid: 8eb61f92-5be4-387a-28d8-8585dfbe3cc9
+ms.date: 06/08/2017
 ---
 
 

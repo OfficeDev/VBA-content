@@ -3,10 +3,11 @@ title: ComboBox.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm11422
 f1_keywords:
 - vbaac10.chm11422
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ShortcutMenuBar
 ms.assetid: e010eab3-c24c-b077-b8cd-6fbf708aa3a9
+ms.date: 06/08/2017
 ---
 
 

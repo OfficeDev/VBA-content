@@ -3,10 +3,11 @@ title: Chart.PlotVisibleOnly Property (Excel)
 keywords: vbaxl10.chm149135
 f1_keywords:
 - vbaxl10.chm149135
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.PlotVisibleOnly
 ms.assetid: e09aee43-c3f7-9269-f01a-d6298ab780fa
+ms.date: 06/08/2017
 ---
 
 

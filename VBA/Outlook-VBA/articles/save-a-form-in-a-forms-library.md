@@ -1,7 +1,8 @@
 ---
 title: Save a Form in a Forms Library
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: de56fb4d-d6c0-b268-05c0-26be0166c4fc
+ms.date: 06/08/2017
 ---
 
 

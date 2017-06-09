@@ -3,10 +3,11 @@ title: Application.ControlCharacters Property (Excel)
 keywords: vbaxl10.chm133238
 f1_keywords:
 - vbaxl10.chm133238
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ControlCharacters
 ms.assetid: 039a266a-e5ae-468e-e3ee-101fa2b12863
+ms.date: 06/08/2017
 ---
 
 

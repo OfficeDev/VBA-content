@@ -3,10 +3,11 @@ title: AnimationBehaviors.Application Property (PowerPoint)
 keywords: vbapp10.chm656001
 f1_keywords:
 - vbapp10.chm656001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehaviors.Application
 ms.assetid: 751786d8-d1c5-e02a-a41e-106ce2f00b7b
+ms.date: 06/08/2017
 ---
 
 

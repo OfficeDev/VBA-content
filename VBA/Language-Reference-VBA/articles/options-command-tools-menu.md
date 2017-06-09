@@ -3,8 +3,9 @@ title: Options Command (Tools Menu)
 keywords: vbui6.chm2020910
 f1_keywords:
 - vbui6.chm2020910
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 56b02821-539a-e1aa-18fb-547986e8b8c3
+ms.date: 06/08/2017
 ---
 
 

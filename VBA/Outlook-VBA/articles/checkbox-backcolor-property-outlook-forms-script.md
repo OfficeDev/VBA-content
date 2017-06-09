@@ -3,8 +3,9 @@ title: CheckBox.BackColor Property (Outlook Forms Script)
 keywords: olfm10.chm2000770
 f1_keywords:
 - olfm10.chm2000770
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c0c3a00c-2679-68fb-6a4e-6f8bb9946694
+ms.date: 06/08/2017
 ---
 
 

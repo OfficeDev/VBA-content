@@ -3,10 +3,11 @@ title: Document.TextEncoding Property (Word)
 keywords: vbawd10.chm158007653
 f1_keywords:
 - vbawd10.chm158007653
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TextEncoding
 ms.assetid: a11b45c1-1829-0df0-3403-e92268d9ec81
+ms.date: 06/08/2017
 ---
 
 

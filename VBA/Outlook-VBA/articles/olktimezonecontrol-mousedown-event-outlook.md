@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000518
 f1_keywords:
 - vbaol11.chm1000518
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.MouseDown
 ms.assetid: 5c544113-46ef-ddb0-0926-ec0c089465c5
+ms.date: 06/08/2017
 ---
 
 

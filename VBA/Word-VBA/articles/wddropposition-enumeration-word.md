@@ -1,9 +1,10 @@
 ---
 title: WdDropPosition Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDropPosition
 ms.assetid: f1cd46e1-4778-570e-0cbe-0a2f5919fb18
+ms.date: 06/08/2017
 ---
 
 

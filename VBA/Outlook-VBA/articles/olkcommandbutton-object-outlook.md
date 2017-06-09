@@ -3,10 +3,11 @@ title: OlkCommandButton Object (Outlook)
 keywords: vbaol11.chm1000132
 f1_keywords:
 - vbaol11.chm1000132
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton
 ms.assetid: bb150211-d50a-130b-91f0-1129dba8f378
+ms.date: 06/08/2017
 ---
 
 

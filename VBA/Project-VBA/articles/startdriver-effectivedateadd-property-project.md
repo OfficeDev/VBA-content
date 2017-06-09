@@ -1,9 +1,10 @@
 ---
 title: StartDriver.EffectiveDateAdd Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateAdd
 ms.assetid: 5b2e2c6e-06b9-ebf4-efdb-4ca2e944b7ff
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: AskForCompletedWork Property, Project [vbapj.chm131395]
 keywords: vbapj.chm131395
 f1_keywords:
 - vbapj.chm131395
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5f83622c-79f2-4fb4-883f-e8a10a84ea4a
+ms.date: 06/08/2017
 ---
 
 

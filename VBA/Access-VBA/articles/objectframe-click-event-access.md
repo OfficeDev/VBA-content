@@ -3,10 +3,11 @@ title: ObjectFrame.Click Event (Access)
 keywords: vbaac10.chm14109
 f1_keywords:
 - vbaac10.chm14109
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Click
 ms.assetid: 78a80855-693e-6e6a-59c9-963802dd3b5d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Assignment.TeamStatusPending Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.TeamStatusPending
 ms.assetid: 8e403925-225e-a1e9-121c-6f9353578150
+ms.date: 06/08/2017
 ---
 
 

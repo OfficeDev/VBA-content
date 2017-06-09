@@ -3,10 +3,11 @@ title: PivotTable.ViewCalculatedMembers Property (Excel)
 keywords: vbaxl10.chm235144
 f1_keywords:
 - vbaxl10.chm235144
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ViewCalculatedMembers
 ms.assetid: 2d1f752a-0bab-baa6-a9b0-e158cc9a4f09
+ms.date: 06/08/2017
 ---
 
 

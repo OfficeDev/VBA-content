@@ -3,10 +3,11 @@ title: Application.CommandBars Property (PowerPoint)
 keywords: vbapp10.chm503010
 f1_keywords:
 - vbapp10.chm503010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.CommandBars
 ms.assetid: 3ba8a827-f585-b4f5-4ba0-20a0d791216c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Page.RedoAction Method (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ff5e5487-de4c-0967-a724-e4d2d592ff43
+ms.date: 06/08/2017
 ---
 
 

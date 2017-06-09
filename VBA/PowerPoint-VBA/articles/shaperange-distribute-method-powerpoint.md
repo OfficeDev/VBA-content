@@ -3,10 +3,11 @@ title: ShapeRange.Distribute Method (PowerPoint)
 keywords: vbapp10.chm548064
 f1_keywords:
 - vbapp10.chm548064
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Distribute
 ms.assetid: bbabe9db-30ba-e165-0dcc-7a15e849228e
+ms.date: 06/08/2017
 ---
 
 

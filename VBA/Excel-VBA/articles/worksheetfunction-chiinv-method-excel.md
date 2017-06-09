@@ -3,10 +3,11 @@ title: WorksheetFunction.ChiInv Method (Excel)
 keywords: vbaxl10.chm137179
 f1_keywords:
 - vbaxl10.chm137179
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiInv
 ms.assetid: 10b89d77-bc9f-80b0-dc31-f90c50f7e580
+ms.date: 06/08/2017
 ---
 
 

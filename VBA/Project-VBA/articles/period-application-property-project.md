@@ -1,9 +1,10 @@
 ---
 title: Period.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Period.Application
 ms.assetid: f928379c-bd2b-432d-e72f-b42f9edd40a6
+ms.date: 06/08/2017
 ---
 
 

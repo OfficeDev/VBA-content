@@ -3,8 +3,9 @@ title: MultiPage Object (Outlook Forms Script)
 keywords: olfm10.chm2000570
 f1_keywords:
 - olfm10.chm2000570
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ac0fa233-81fe-8a34-4113-6907c6d8f7e2
+ms.date: 06/08/2017
 ---
 
 

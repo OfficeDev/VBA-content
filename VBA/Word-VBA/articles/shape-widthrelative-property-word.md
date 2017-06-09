@@ -3,10 +3,11 @@ title: Shape.WidthRelative Property (Word)
 keywords: vbawd10.chm161480906
 f1_keywords:
 - vbawd10.chm161480906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.WidthRelative
 ms.assetid: db076311-7ecf-3564-9cf4-400663ae400b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.Hwnd Property (Access)
 keywords: vbaac10.chm13408
 f1_keywords:
 - vbaac10.chm13408
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Hwnd
 ms.assetid: 894b2d6d-b11d-c674-e1e5-21ff33aeca36
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Invalid length for fixed-length string, Office Shared [vblr6.chm1011184]
 keywords: vblr6.chm1011184
 f1_keywords:
 - vblr6.chm1011184
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 015fd68d-725b-4280-be34-c0b58d613996
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Connect.ContainingMasterID Property (Visio)
 keywords: vis_sdr.chm10351935
 f1_keywords:
 - vis_sdr.chm10351935
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.ContainingMasterID
 ms.assetid: 4ac0f6c4-c5df-33e3-8c28-9bdf5d77d300
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: DataRecordsets.Document Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.Document
 ms.assetid: 426df7a7-67dd-5596-37e1-d5d1c9c0c082
+ms.date: 06/08/2017
 ---
 
 

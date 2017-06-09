@@ -3,8 +3,9 @@ title: Selecting and Activating Cells
 keywords: vbaxl10.chm5204866
 f1_keywords:
 - vbaxl10.chm5204866
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bdfead4b-0909-e67d-e478-7fb33aceec79
+ms.date: 06/08/2017
 ---
 
 

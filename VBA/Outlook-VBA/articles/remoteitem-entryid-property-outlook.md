@@ -3,10 +3,11 @@ title: RemoteItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1595
 f1_keywords:
 - vbaol11.chm1595
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.EntryID
 ms.assetid: 8c2212a7-e37f-5d28-d283-e4529202ad64
+ms.date: 06/08/2017
 ---
 
 

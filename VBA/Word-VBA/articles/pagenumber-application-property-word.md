@@ -1,9 +1,10 @@
 ---
 title: PageNumber.Application Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumber.Application
 ms.assetid: f4611f28-7548-e38a-97a3-6f0f86a5f5ac
+ms.date: 06/08/2017
 ---
 
 

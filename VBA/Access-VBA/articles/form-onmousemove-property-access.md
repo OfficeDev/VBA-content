@@ -3,10 +3,11 @@ title: Form.OnMouseMove Property (Access)
 keywords: vbaac10.chm13452
 f1_keywords:
 - vbaac10.chm13452
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnMouseMove
 ms.assetid: c0d5b1f8-edbc-d319-6edd-e48768b61f40
+ms.date: 06/08/2017
 ---
 
 

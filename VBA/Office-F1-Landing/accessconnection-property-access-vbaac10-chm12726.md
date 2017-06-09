@@ -3,8 +3,9 @@ title: AccessConnection Property, Access [vbaac10.chm12726]
 keywords: vbaac10.chm12726
 f1_keywords:
 - vbaac10.chm12726
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 418adec0-8816-4a5f-8997-c91b9fc0e876
+ms.date: 06/08/2017
 ---
 
 

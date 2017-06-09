@@ -3,8 +3,9 @@ title: Quick Watch Command (Tools Menu)
 keywords: vbui6.chm2007508
 f1_keywords:
 - vbui6.chm2007508
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 380c3568-2acf-4ce0-9723-54e954245857
+ms.date: 06/08/2017
 ---
 
 

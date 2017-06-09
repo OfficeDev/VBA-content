@@ -3,10 +3,11 @@ title: Global.IsSandboxed Property (Word)
 keywords: vbawd10.chm163119220
 f1_keywords:
 - vbawd10.chm163119220
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.IsSandboxed
 ms.assetid: 12bef36b-7ec6-5b43-f8b8-dbb5dacef868
+ms.date: 06/08/2017
 ---
 
 

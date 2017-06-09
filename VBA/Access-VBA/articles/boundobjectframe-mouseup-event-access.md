@@ -3,10 +3,11 @@ title: BoundObjectFrame.MouseUp Event (Access)
 keywords: vbaac10.chm14100
 f1_keywords:
 - vbaac10.chm14100
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.MouseUp
 ms.assetid: d37ac9b3-e9eb-113c-289a-db8d5b7cf125
+ms.date: 06/08/2017
 ---
 
 

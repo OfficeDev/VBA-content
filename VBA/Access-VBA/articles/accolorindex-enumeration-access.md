@@ -3,10 +3,11 @@ title: AcColorIndex Enumeration (Access)
 keywords: vbaac10.chm10041
 f1_keywords:
 - vbaac10.chm10041
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcColorIndex
 ms.assetid: 10e54a60-f96f-3e1a-571a-86bdb8b00a15
+ms.date: 06/08/2017
 ---
 
 

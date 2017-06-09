@@ -3,10 +3,11 @@ title: Recipients.Application Property (Outlook)
 keywords: vbaol11.chm226
 f1_keywords:
 - vbaol11.chm226
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipients.Application
 ms.assetid: e8f5d72b-d3f6-6f83-f3f9-496278377c84
+ms.date: 06/08/2017
 ---
 
 

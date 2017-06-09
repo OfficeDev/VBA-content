@@ -3,10 +3,11 @@ title: TextStyles Object (Publisher)
 keywords: vbapb10.chm5963775
 f1_keywords:
 - vbapb10.chm5963775
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyles
 ms.assetid: 8a250160-0400-62e7-8301-5a5743fb2485
+ms.date: 06/08/2017
 ---
 
 

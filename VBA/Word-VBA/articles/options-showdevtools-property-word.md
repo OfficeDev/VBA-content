@@ -3,10 +3,11 @@ title: Options.ShowDevTools Property (Word)
 keywords: vbawd10.chm162988502
 f1_keywords:
 - vbawd10.chm162988502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ShowDevTools
 ms.assetid: 3bb4f697-9e83-f3c0-fb85-3f62e24da37c
+ms.date: 06/08/2017
 ---
 
 

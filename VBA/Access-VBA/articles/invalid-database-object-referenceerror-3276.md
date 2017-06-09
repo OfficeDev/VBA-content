@@ -1,13 +1,14 @@
 ---
 title: Invalid database object reference. (Error 3276)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a15bf4b4-8eaf-be6c-b762-a522b3596a60
+ms.date: 06/08/2017
 ---
 
 
 # Invalid database object reference. (Error 3276)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

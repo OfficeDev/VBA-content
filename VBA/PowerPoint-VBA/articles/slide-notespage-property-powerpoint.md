@@ -3,10 +3,11 @@ title: Slide.NotesPage Property (PowerPoint)
 keywords: vbapp10.chm531022
 f1_keywords:
 - vbapp10.chm531022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.NotesPage
 ms.assetid: 8d102704-1660-cc5f-6701-d7bc67b5924b
+ms.date: 06/08/2017
 ---
 
 

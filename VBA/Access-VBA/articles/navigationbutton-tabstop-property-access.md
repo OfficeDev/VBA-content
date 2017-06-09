@@ -3,10 +3,11 @@ title: NavigationButton.TabStop Property (Access)
 keywords: vbaac10.chm10465
 f1_keywords:
 - vbaac10.chm10465
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.TabStop
 ms.assetid: 615492c6-d953-3c0d-21c4-b9f233743aa6
+ms.date: 06/08/2017
 ---
 
 

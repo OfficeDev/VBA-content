@@ -3,10 +3,11 @@ title: Column Property
 keywords: fm20.chm2000930
 f1_keywords:
 - fm20.chm2000930
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Column
 ms.assetid: 989f9e98-8764-ca23-c90d-a64966568f86
+ms.date: 06/08/2017
 ---
 
 

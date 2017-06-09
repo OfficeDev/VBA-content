@@ -1,9 +1,10 @@
 ---
 title: Pane.Activate Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Pane.Activate
 ms.assetid: d88f8d6e-8b65-d0ca-b6c6-0144263fdbf0
+ms.date: 06/08/2017
 ---
 
 

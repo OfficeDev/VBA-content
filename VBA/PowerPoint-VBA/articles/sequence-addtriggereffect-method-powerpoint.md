@@ -3,10 +3,11 @@ title: Sequence.AddTriggerEffect Method (PowerPoint)
 keywords: vbapp10.chm651013
 f1_keywords:
 - vbapp10.chm651013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.AddTriggerEffect
 ms.assetid: 65acf575-5b64-e95c-827d-dada8e915666
+ms.date: 06/08/2017
 ---
 
 

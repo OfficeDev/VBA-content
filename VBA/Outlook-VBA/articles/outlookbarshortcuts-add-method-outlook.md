@@ -3,10 +3,11 @@ title: OutlookBarShortcuts.Add Method (Outlook)
 keywords: vbaol11.chm335
 f1_keywords:
 - vbaol11.chm335
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.Add
 ms.assetid: 801d1a9e-f2b6-cbcd-8181-003eba1025b2
+ms.date: 06/08/2017
 ---
 
 

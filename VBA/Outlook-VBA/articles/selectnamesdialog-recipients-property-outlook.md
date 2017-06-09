@@ -3,10 +3,11 @@ title: SelectNamesDialog.Recipients Property (Outlook)
 keywords: vbaol11.chm827
 f1_keywords:
 - vbaol11.chm827
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Recipients
 ms.assetid: 8b939af1-b266-55ad-f9ad-8802ac2e0930
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Component could not successfully create requested object
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 465bdc50-6843-fc18-0489-273a578b471c
+ms.date: 06/08/2017
 ---
 
 

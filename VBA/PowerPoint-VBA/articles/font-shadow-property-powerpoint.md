@@ -3,10 +3,11 @@ title: Font.Shadow Property (PowerPoint)
 keywords: vbapp10.chm575006
 f1_keywords:
 - vbapp10.chm575006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Shadow
 ms.assetid: 37d23e3a-26a7-ba20-1e23-13861090ae79
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: CheckBox.TripleState Property (Outlook Forms Script)
 keywords: olfm10.chm2002150
 f1_keywords:
 - olfm10.chm2002150
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6d68324c-a551-b0d4-b89e-28e1045f0992
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TimeZone.Session Property (Outlook)
 keywords: vbaol11.chm3280
 f1_keywords:
 - vbaol11.chm3280
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.Session
 ms.assetid: 8b696765-dcc5-3af2-a861-a14c9c0bf7e8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WebCommandButton.HiddenFields Property (Publisher)
 keywords: vbapb10.chm3932177
 f1_keywords:
 - vbapb10.chm3932177
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.HiddenFields
 ms.assetid: 187553fb-a4d3-a1fb-f583-49e1d76992ec
+ms.date: 06/08/2017
 ---
 
 

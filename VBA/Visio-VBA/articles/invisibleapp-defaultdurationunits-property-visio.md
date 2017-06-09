@@ -3,10 +3,11 @@ title: InvisibleApp.DefaultDurationUnits Property (Visio)
 keywords: vis_sdr.chm17551045
 f1_keywords:
 - vis_sdr.chm17551045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DefaultDurationUnits
 ms.assetid: 91a2e157-a9c8-9884-65e2-09ee8f389f59
+ms.date: 06/08/2017
 ---
 
 

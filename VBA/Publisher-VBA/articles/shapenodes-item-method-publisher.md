@@ -3,10 +3,11 @@ title: ShapeNodes.Item Method (Publisher)
 keywords: vbapb10.chm3473408
 f1_keywords:
 - vbapb10.chm3473408
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Item
 ms.assetid: 880fd858-c76b-5555-f520-99c45f93ffb4
+ms.date: 06/08/2017
 ---
 
 

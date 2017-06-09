@@ -3,10 +3,11 @@ title: Rule.Conditions Property (Outlook)
 keywords: vbaol11.chm2175
 f1_keywords:
 - vbaol11.chm2175
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.Conditions
 ms.assetid: e2cacf1c-95eb-31d3-012c-7cf9426053d5
+ms.date: 06/08/2017
 ---
 
 

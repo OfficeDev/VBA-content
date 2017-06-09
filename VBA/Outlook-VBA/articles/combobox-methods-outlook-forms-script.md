@@ -1,7 +1,8 @@
 ---
 title: ComboBox Methods (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 50222c75-c52e-49be-bc49-190d4eb59925
+ms.date: 06/08/2017
 ---
 
 

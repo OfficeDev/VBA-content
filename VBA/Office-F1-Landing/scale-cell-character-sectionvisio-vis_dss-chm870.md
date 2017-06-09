@@ -3,8 +3,9 @@ title: Scale Cell (Character Section), Visio [Vis_DSS.chm870]
 keywords: vis_dss.chm870
 f1_keywords:
 - vis_dss.chm870
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51799fb5-41af-454a-a205-d0e0e3a19515
+ms.date: 06/08/2017
 ---
 
 

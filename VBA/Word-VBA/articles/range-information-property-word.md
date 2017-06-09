@@ -3,10 +3,11 @@ title: Range.Information Property (Word)
 keywords: vbawd10.chm157155641
 f1_keywords:
 - vbawd10.chm157155641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Information
 ms.assetid: 967e9a22-5f98-e4bd-557c-7367cb7c5d2b
+ms.date: 06/08/2017
 ---
 
 

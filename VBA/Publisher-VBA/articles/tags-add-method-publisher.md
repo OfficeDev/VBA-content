@@ -3,10 +3,11 @@ title: Tags.Add Method (Publisher)
 keywords: vbapb10.chm4653060
 f1_keywords:
 - vbapb10.chm4653060
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Tags.Add
 ms.assetid: 78602ccc-8198-1183-4775-fe626eb8b5af
+ms.date: 06/08/2017
 ---
 
 

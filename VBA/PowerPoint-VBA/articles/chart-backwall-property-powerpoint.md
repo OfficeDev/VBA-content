@@ -3,10 +3,11 @@ title: Chart.BackWall Property (PowerPoint)
 keywords: vbapp10.chm67914
 f1_keywords:
 - vbapp10.chm67914
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.BackWall
 ms.assetid: 15691772-f520-5e74-564d-1846b8e81adc
+ms.date: 06/08/2017
 ---
 
 

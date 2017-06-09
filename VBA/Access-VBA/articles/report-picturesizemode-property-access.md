@@ -3,10 +3,11 @@ title: Report.PictureSizeMode Property (Access)
 keywords: vbaac10.chm13706
 f1_keywords:
 - vbaac10.chm13706
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PictureSizeMode
 ms.assetid: 7343ec48-b15e-632e-7493-776d8c9cd456
+ms.date: 06/08/2017
 ---
 
 

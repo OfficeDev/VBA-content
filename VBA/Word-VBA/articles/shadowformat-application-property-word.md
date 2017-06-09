@@ -3,10 +3,11 @@ title: ShadowFormat.Application Property (Word)
 keywords: vbawd10.chm164365288
 f1_keywords:
 - vbawd10.chm164365288
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShadowFormat.Application
 ms.assetid: 4cb6570a-b965-9525-e26b-ec270833d025
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.Height Property (Excel)
 keywords: vbaxl10.chm133145
 f1_keywords:
 - vbaxl10.chm133145
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Height
 ms.assetid: 2842f4c9-93b6-64a8-2394-72b47cf0cc83
+ms.date: 06/08/2017
 ---
 
 

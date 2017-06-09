@@ -1,9 +1,10 @@
 ---
 title: WdRelativeVerticalPosition Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRelativeVerticalPosition
 ms.assetid: 0a612720-7361-440f-8186-a976c31779bf
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.CalloutRelationshipDeleted Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CalloutRelationshipDeleted
 ms.assetid: 1a4c30f1-e449-f713-3cec-b02029935d02
+ms.date: 06/08/2017
 ---
 
 

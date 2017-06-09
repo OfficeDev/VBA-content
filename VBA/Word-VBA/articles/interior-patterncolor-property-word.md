@@ -3,10 +3,11 @@ title: Interior.PatternColor Property (Word)
 keywords: vbawd10.chm2818056
 f1_keywords:
 - vbawd10.chm2818056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Interior.PatternColor
 ms.assetid: 131f0006-6ed3-78f3-4888-8a3f47aeec78
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: VisWebPageSettings.NavBar Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.NavBar
 ms.assetid: 5a3245df-d0b6-40c6-5ed9-6d7700e835c8
+ms.date: 06/08/2017
 ---
 
 

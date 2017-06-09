@@ -3,8 +3,9 @@ title: Hyperlink Row (Hyperlinks Section), Visio [vis_sdr.chm3065]
 keywords: vis_sdr.chm3065
 f1_keywords:
 - vis_sdr.chm3065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2268ff9-c3a7-4268-af97-7e026845b2ab
+ms.date: 06/08/2017
 ---
 
 

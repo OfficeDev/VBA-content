@@ -3,8 +3,9 @@ title: Prefix Property, Office Shared [vbaof11.chm326002]
 keywords: vbaof11.chm326002
 f1_keywords:
 - vbaof11.chm326002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e55bc5dc-818f-472d-8bc6-d6b15367fa90
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 title: ADO Event Instantiation by Language
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f4f5f1a3-bf9a-840a-3931-fbc7c42a00c7
+ms.date: 06/08/2017
 ---
 
 
 # ADO Event Instantiation by Language
 
- **Last modified:** December 30, 2015
 
 **Applies to:** Access 2013 | Access 2016
 

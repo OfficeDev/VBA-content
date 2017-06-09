@@ -3,10 +3,11 @@ title: ChartGroup.Overlap Property (PowerPoint)
 keywords: vbapp10.chm692013
 f1_keywords:
 - vbapp10.chm692013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Overlap
 ms.assetid: fd8afe06-9ef0-7428-b410-9baf14138c2c
+ms.date: 06/08/2017
 ---
 
 

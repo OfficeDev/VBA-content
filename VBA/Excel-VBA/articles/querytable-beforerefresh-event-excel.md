@@ -3,10 +3,11 @@ title: QueryTable.BeforeRefresh Event (Excel)
 keywords: vbaxl10.chm519073
 f1_keywords:
 - vbaxl10.chm519073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.BeforeRefresh
 ms.assetid: 763cfe16-d48c-07f2-73e1-5c59021b4e58
+ms.date: 06/08/2017
 ---
 
 

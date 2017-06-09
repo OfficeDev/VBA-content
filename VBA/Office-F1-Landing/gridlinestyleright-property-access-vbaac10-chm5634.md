@@ -3,8 +3,9 @@ title: GridlineStyleRight Property, Access [vbaac10.chm5634]
 keywords: vbaac10.chm5634
 f1_keywords:
 - vbaac10.chm5634
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8f455c5f-640e-4dd0-b9b3-e769eecf0233
+ms.date: 06/08/2017
 ---
 
 

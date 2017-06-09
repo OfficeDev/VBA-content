@@ -3,8 +3,9 @@ title: Option Explicit Statement
 keywords: vblr6.chm1008808
 f1_keywords:
 - vblr6.chm1008808
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7871e28-9577-740b-e887-1109f52be30e
+ms.date: 06/08/2017
 ---
 
 

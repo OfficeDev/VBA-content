@@ -1,9 +1,10 @@
 ---
 title: Availabilities.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availabilities.Application
 ms.assetid: 4f9630cc-193a-bd0f-fbfd-405e454b2a85
+ms.date: 06/08/2017
 ---
 
 

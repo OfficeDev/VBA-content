@@ -1,13 +1,14 @@
 ---
 title: HAVING clause <name> without grouping or aggregation. (Error 3091)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: db7b0a94-4333-83fe-6a7c-d3e8d6311d81
+ms.date: 06/08/2017
 ---
 
 
 # HAVING clause <name> without grouping or aggregation. (Error 3091)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

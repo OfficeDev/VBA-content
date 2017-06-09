@@ -3,10 +3,11 @@ title: Toolbars.AddAt Method (Visio)
 keywords: vis_sdr.chm13816015
 f1_keywords:
 - vis_sdr.chm13816015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbars.AddAt
 ms.assetid: 925f6c3a-8d74-9359-4008-0fced3e03ec1
+ms.date: 06/08/2017
 ---
 
 

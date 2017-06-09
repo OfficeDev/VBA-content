@@ -1,7 +1,8 @@
 ---
 title: Delete a Page in the Control Toolbox
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7826b95a-417a-ca3b-6257-958e673b40cc
+ms.date: 06/08/2017
 ---
 
 

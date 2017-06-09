@@ -3,10 +3,11 @@ title: OutlookBarShortcuts.BeforeShortcutRemove Event (Outlook)
 keywords: vbaol11.chm379
 f1_keywords:
 - vbaol11.chm379
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.BeforeShortcutRemove
 ms.assetid: 4a4107ce-db02-f698-ffae-5a2a4571089c
+ms.date: 06/08/2017
 ---
 
 

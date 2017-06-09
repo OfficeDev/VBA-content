@@ -3,10 +3,11 @@ title: CustomXMLNode.HasChildNodes Method (Office)
 keywords: vbaof11.chm294022
 f1_keywords:
 - vbaof11.chm294022
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.HasChildNodes
 ms.assetid: 9afc3116-372c-7efa-8cdd-04f87d903cc2
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.UniqueID Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.UniqueID
 ms.assetid: b49c0065-4b74-4e8e-48fa-9cf80bfc6e34
+ms.date: 06/08/2017
 ---
 
 

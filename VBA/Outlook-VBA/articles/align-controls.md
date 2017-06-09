@@ -1,7 +1,8 @@
 ---
 title: Align Controls
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ceb1004d-afd8-9f16-dc43-a18e94de57cc
+ms.date: 06/08/2017
 ---
 
 

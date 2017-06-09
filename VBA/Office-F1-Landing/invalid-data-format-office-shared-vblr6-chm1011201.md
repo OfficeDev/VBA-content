@@ -3,8 +3,9 @@ title: Invalid data format, Office Shared [vblr6.chm1011201]
 keywords: vblr6.chm1011201
 f1_keywords:
 - vblr6.chm1011201
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2065f5a1-21a5-45f5-8e6d-17bfc560b429
+ms.date: 06/08/2017
 ---
 
 

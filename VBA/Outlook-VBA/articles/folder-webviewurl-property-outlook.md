@@ -3,10 +3,11 @@ title: Folder.WebViewURL Property (Outlook)
 keywords: vbaol11.chm2001
 f1_keywords:
 - vbaol11.chm2001
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.WebViewURL
 ms.assetid: 6a7630c2-5c16-f63f-a435-987c7c1251b8
+ms.date: 06/08/2017
 ---
 
 

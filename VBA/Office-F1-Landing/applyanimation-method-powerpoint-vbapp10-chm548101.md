@@ -3,8 +3,9 @@ title: ApplyAnimation Method, PowerPoint [vbapp10.chm548101]
 keywords: vbapp10.chm548101
 f1_keywords:
 - vbapp10.chm548101
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 841417a6-2425-4842-a979-817c657f1a6b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListTemplates.Creator Property (Word)
 keywords: vbawd10.chm160433129
 f1_keywords:
 - vbawd10.chm160433129
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplates.Creator
 ms.assetid: 8af8b8e3-fce0-3770-01de-12bea22b6792
+ms.date: 06/08/2017
 ---
 
 

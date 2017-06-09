@@ -3,10 +3,11 @@ title: Global.ActivePage Property (Visio)
 keywords: vis_sdr.chm12813030
 f1_keywords:
 - vis_sdr.chm12813030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Global.ActivePage
 ms.assetid: ac981df6-5d43-f93d-f10c-41bd8e0ad2de
+ms.date: 06/08/2017
 ---
 
 

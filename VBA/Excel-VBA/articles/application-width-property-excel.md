@@ -3,10 +3,11 @@ title: Application.Width Property (Excel)
 keywords: vbaxl10.chm133232
 f1_keywords:
 - vbaxl10.chm133232
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Width
 ms.assetid: eeb8ff27-d219-bade-3e0b-aed6e34d17d7
+ms.date: 06/08/2017
 ---
 
 

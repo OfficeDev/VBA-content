@@ -3,10 +3,11 @@ title: Document.Paragraphs Property (Word)
 keywords: vbawd10.chm158007312
 f1_keywords:
 - vbawd10.chm158007312
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Paragraphs
 ms.assetid: ad60de6b-6287-8ea0-142e-8795f623aa29
+ms.date: 06/08/2017
 ---
 
 

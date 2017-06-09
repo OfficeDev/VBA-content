@@ -3,8 +3,9 @@ title: Layers Object, Visio [vis_sdr.chm10125]
 keywords: vis_sdr.chm10125
 f1_keywords:
 - vis_sdr.chm10125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 863b32de-b00d-423d-9dbc-ba495d581e3b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Viewer.HyperlinkAddress Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.HyperlinkAddress
 ms.assetid: 13683f2f-3ada-5b45-e9e0-0b2dbed16e94
+ms.date: 06/08/2017
 ---
 
 

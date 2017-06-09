@@ -3,10 +3,11 @@ title: Application.LayoutSelectionNow Method (Project)
 keywords: vbapj.chm2399
 f1_keywords:
 - vbapj.chm2399
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LayoutSelectionNow
 ms.assetid: 79d8521a-2760-7e73-f430-f39dc7747cd8
+ms.date: 06/08/2017
 ---
 
 

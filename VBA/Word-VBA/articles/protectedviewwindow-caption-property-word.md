@@ -3,10 +3,11 @@ title: ProtectedViewWindow.Caption Property (Word)
 keywords: vbawd10.chm231735296
 f1_keywords:
 - vbawd10.chm231735296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Caption
 ms.assetid: ec8d2b22-34b6-2685-6ab5-74eb48b1dfb0
+ms.date: 06/08/2017
 ---
 
 

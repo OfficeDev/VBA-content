@@ -3,10 +3,11 @@ title: Folders.Item Method (Outlook)
 keywords: vbaol11.chm44
 f1_keywords:
 - vbaol11.chm44
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.Item
 ms.assetid: 96a462c2-fa55-62dc-48a4-6464966b84ce
+ms.date: 06/08/2017
 ---
 
 

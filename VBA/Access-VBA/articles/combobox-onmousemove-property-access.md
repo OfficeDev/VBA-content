@@ -3,10 +3,11 @@ title: ComboBox.OnMouseMove Property (Access)
 keywords: vbaac10.chm11458
 f1_keywords:
 - vbaac10.chm11458
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnMouseMove
 ms.assetid: 4610d4e9-97a5-2091-095c-f8aa5d8ac427
+ms.date: 06/08/2017
 ---
 
 

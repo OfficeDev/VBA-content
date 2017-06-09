@@ -3,10 +3,11 @@ title: WorksheetFunction.DCountA Method (Excel)
 keywords: vbaxl10.chm137152
 f1_keywords:
 - vbaxl10.chm137152
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DCountA
 ms.assetid: 43f355c0-ad66-667c-265e-12a133b2e3c2
+ms.date: 06/08/2017
 ---
 
 

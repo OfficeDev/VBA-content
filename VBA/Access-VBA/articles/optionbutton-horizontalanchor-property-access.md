@@ -3,10 +3,11 @@ title: OptionButton.HorizontalAnchor Property (Access)
 keywords: vbaac10.chm10654
 f1_keywords:
 - vbaac10.chm10654
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.HorizontalAnchor
 ms.assetid: 1815fce8-2afe-8e21-8702-9bb6f779f112
+ms.date: 06/08/2017
 ---
 
 

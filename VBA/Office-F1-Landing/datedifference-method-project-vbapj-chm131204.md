@@ -3,8 +3,9 @@ title: DateDifference Method, Project [vbapj.chm131204]
 keywords: vbapj.chm131204
 f1_keywords:
 - vbapj.chm131204
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62edf5a0-a8ce-40fb-adb2-cb2d47596b8d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ActiveCell Property, Excel [vbaxl10.chm132073]
 keywords: vbaxl10.chm132073
 f1_keywords:
 - vbaxl10.chm132073
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a1c8be25-9cd8-4dc0-985c-2a6c4895187a
+ms.date: 06/08/2017
 ---
 
 

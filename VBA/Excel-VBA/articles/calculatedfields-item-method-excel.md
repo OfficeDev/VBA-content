@@ -3,10 +3,11 @@ title: CalculatedFields.Item Method (Excel)
 keywords: vbaxl10.chm244075
 f1_keywords:
 - vbaxl10.chm244075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedFields.Item
 ms.assetid: cae0c3a5-3403-f1b1-fe7f-c38ff6be6b07
+ms.date: 06/08/2017
 ---
 
 

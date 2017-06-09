@@ -3,8 +3,9 @@ title: Trendline Object, Excel [vbagr10.chm5208075]
 keywords: vbagr10.chm5208075
 f1_keywords:
 - vbagr10.chm5208075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d79420eb-23b0-4cde-8ddf-8716a6259222
+ms.date: 06/08/2017
 ---
 
 

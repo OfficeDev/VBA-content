@@ -3,10 +3,11 @@ title: Shapes.Creator Property (Excel)
 keywords: vbaxl10.chm637074
 f1_keywords:
 - vbaxl10.chm637074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.Creator
 ms.assetid: 937cc87a-96a7-d1dc-7c06-0693f50293ea
+ms.date: 06/08/2017
 ---
 
 

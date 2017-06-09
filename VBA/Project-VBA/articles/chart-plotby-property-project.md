@@ -3,8 +3,9 @@ title: Chart.PlotBy Property (Project)
 keywords: vbapj.chm131635
 f1_keywords:
 - vbapj.chm131635
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 10483232-929b-c040-025e-059ddf2fe915
+ms.date: 06/08/2017
 ---
 
 

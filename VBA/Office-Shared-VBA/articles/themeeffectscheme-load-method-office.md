@@ -1,9 +1,10 @@
 ---
 title: ThemeEffectScheme.Load Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Load
 ms.assetid: 9bf428f7-bda8-c6d7-1688-05466f242280
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CommandButton.SetFocus Method (Access)
 keywords: vbaac10.chm10444
 f1_keywords:
 - vbaac10.chm10444
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.SetFocus
 ms.assetid: ec0c4c1a-72cb-f766-c05b-fc1e99e5c8e9
+ms.date: 06/08/2017
 ---
 
 

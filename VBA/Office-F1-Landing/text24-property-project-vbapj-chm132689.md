@@ -3,8 +3,9 @@ title: Text24 Property, Project [vbapj.chm132689]
 keywords: vbapj.chm132689
 f1_keywords:
 - vbapj.chm132689
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9f49223d-f9ed-4b8c-b048-4baeed70477b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ScrollBar Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 708caa00-5c41-42b4-abf4-1ad416d8dd67
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MeetingItem.ExpiryTime Property (Outlook)
 keywords: vbaol11.chm1439
 f1_keywords:
 - vbaol11.chm1439
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ExpiryTime
 ms.assetid: 14e78315-f430-20fe-b24e-fe8bf396bc3b
+ms.date: 06/08/2017
 ---
 
 

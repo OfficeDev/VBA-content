@@ -3,14 +3,15 @@ title: There is no suitable replica to exchange with. (Error 3684)
 keywords: jeterr40.chm5003684
 f1_keywords:
 - jeterr40.chm5003684
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c38df21d-4993-9450-d55c-2108c6851b01
+ms.date: 06/08/2017
 ---
 
 
 # There is no suitable replica to exchange with. (Error 3684)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

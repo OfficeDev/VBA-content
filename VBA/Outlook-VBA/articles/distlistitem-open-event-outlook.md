@@ -1,9 +1,10 @@
 ---
 title: DistListItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Open
 ms.assetid: 5bc620d5-9dd5-e7a0-10ff-a1ea7e2fdc56
+ms.date: 06/08/2017
 ---
 
 

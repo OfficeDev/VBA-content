@@ -3,10 +3,11 @@ title: TaskItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1738
 f1_keywords:
 - vbaol11.chm1738
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ReminderSet
 ms.assetid: 441de5fb-2c43-9024-b4cb-126f683df9f5
+ms.date: 06/08/2017
 ---
 
 

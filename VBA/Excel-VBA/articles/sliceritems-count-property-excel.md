@@ -3,10 +3,11 @@ title: SlicerItems.Count Property (Excel)
 keywords: vbaxl10.chm909073
 f1_keywords:
 - vbaxl10.chm909073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItems.Count
 ms.assetid: 63adcd4f-5fcc-13d9-5046-3c4215454e30
+ms.date: 06/08/2017
 ---
 
 

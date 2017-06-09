@@ -3,8 +3,9 @@ title: HAlign Cell (Paragraph Section), Visio [vis_sdr.chm425]
 keywords: vis_sdr.chm425
 f1_keywords:
 - vis_sdr.chm425
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2e6f8e8e-b067-446e-a1f9-affc21b842fa
+ms.date: 06/08/2017
 ---
 
 

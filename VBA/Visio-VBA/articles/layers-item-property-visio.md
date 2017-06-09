@@ -3,10 +3,11 @@ title: Layers.Item Property (Visio)
 keywords: vis_sdr.chm11913765
 f1_keywords:
 - vis_sdr.chm11913765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.Item
 ms.assetid: 4f52c429-447c-e240-f6e6-8cad4dcd3322
+ms.date: 06/08/2017
 ---
 
 

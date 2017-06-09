@@ -3,10 +3,11 @@ title: InvisibleApp.StencilPaths Property (Visio)
 keywords: vis_sdr.chm17514440
 f1_keywords:
 - vis_sdr.chm17514440
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.StencilPaths
 ms.assetid: 9cbf837e-c192-78e4-b829-a33425e82f45
+ms.date: 06/08/2017
 ---
 
 

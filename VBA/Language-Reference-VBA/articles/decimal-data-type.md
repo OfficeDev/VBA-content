@@ -3,8 +3,9 @@ title: Decimal Data Type
 keywords: vblr6.chm1099868
 f1_keywords:
 - vblr6.chm1099868
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5f70e06b-61da-e0be-9f96-7dd84f377c74
+ms.date: 06/08/2017
 ---
 
 

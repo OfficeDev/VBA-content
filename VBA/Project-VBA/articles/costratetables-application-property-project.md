@@ -1,9 +1,10 @@
 ---
 title: CostRateTables.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CostRateTables.Application
 ms.assetid: ff26a42f-aadd-63a4-1df8-7ec2e4e84ff1
+ms.date: 06/08/2017
 ---
 
 

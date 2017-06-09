@@ -3,10 +3,11 @@ title: DoCmd.SetMenuItem Method (Access)
 keywords: vbaac10.chm4181
 f1_keywords:
 - vbaac10.chm4181
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SetMenuItem
 ms.assetid: 690263c1-5e0f-54cd-1032-b2f718d82075
+ms.date: 06/08/2017
 ---
 
 

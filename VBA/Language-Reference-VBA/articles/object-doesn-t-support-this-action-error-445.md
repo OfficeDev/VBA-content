@@ -3,8 +3,9 @@ title: Object doesn't support this action (Error 445)
 keywords: vblr6.chm1000445
 f1_keywords:
 - vblr6.chm1000445
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ea8ce336-5407-e70d-7e24-05b9d39a42d9
+ms.date: 06/08/2017
 ---
 
 

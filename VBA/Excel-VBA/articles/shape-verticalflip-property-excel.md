@@ -3,10 +3,11 @@ title: Shape.VerticalFlip Property (Excel)
 keywords: vbaxl10.chm636112
 f1_keywords:
 - vbaxl10.chm636112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.VerticalFlip
 ms.assetid: 3b50edac-a167-8e07-3286-6ced14bb715d
+ms.date: 06/08/2017
 ---
 
 

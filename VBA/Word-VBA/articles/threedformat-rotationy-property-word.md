@@ -3,10 +3,11 @@ title: ThreeDFormat.RotationY Property (Word)
 keywords: vbawd10.chm164626542
 f1_keywords:
 - vbawd10.chm164626542
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.RotationY
 ms.assetid: 64ebb9d9-4338-3672-9149-e1e82ba8abdc
+ms.date: 06/08/2017
 ---
 
 

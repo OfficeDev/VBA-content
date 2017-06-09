@@ -3,10 +3,11 @@ title: SharingItem.Application Property (Outlook)
 keywords: vbaol11.chm593
 f1_keywords:
 - vbaol11.chm593
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Application
 ms.assetid: 769f5431-90dd-96b9-3275-021dd103520e
+ms.date: 06/08/2017
 ---
 
 

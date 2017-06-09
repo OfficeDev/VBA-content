@@ -3,10 +3,11 @@ title: ParagraphFormat Object (PowerPoint)
 keywords: vbapp10.chm576000
 f1_keywords:
 - vbapp10.chm576000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat
 ms.assetid: 15d495cf-16e2-5cfb-e99c-a551876e3a8a
+ms.date: 06/08/2017
 ---
 
 

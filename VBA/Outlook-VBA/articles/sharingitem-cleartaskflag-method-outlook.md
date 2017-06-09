@@ -3,10 +3,11 @@ title: SharingItem.ClearTaskFlag Method (Outlook)
 keywords: vbaol11.chm3224
 f1_keywords:
 - vbaol11.chm3224
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ClearTaskFlag
 ms.assetid: 304475bf-1d69-a383-7031-64d47a2b87c8
+ms.date: 06/08/2017
 ---
 
 

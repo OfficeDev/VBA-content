@@ -3,10 +3,11 @@ title: Presentation.SnapToGrid Property (PowerPoint)
 keywords: vbapp10.chm583061
 f1_keywords:
 - vbapp10.chm583061
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SnapToGrid
 ms.assetid: d0155913-cca5-c2ed-b1cc-6463a573ff49
+ms.date: 06/08/2017
 ---
 
 

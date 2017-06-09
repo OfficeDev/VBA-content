@@ -3,10 +3,11 @@ title: Axis.ScaleType Property (Word)
 keywords: vbawd10.chm113049645
 f1_keywords:
 - vbawd10.chm113049645
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.ScaleType
 ms.assetid: 3b48280e-378d-81f2-133f-b5b21f63f7b1
+ms.date: 06/08/2017
 ---
 
 

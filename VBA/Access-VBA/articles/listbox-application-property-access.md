@@ -3,10 +3,11 @@ title: ListBox.Application Property (Access)
 keywords: vbaac10.chm11203
 f1_keywords:
 - vbaac10.chm11203
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Application
 ms.assetid: de3a7634-a31b-0455-3807-eb1163eb052d
+ms.date: 06/08/2017
 ---
 
 

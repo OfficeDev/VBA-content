@@ -3,10 +3,11 @@ title: AppointmentItem.Display Method (Outlook)
 keywords: vbaol11.chm871
 f1_keywords:
 - vbaol11.chm871
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Display
 ms.assetid: 24706404-d646-a3ac-b7b1-64a6a1c697a9
+ms.date: 06/08/2017
 ---
 
 

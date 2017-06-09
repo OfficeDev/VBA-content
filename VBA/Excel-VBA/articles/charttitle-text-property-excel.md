@@ -3,10 +3,11 @@ title: ChartTitle.Text Property (Excel)
 keywords: vbaxl10.chm563087
 f1_keywords:
 - vbaxl10.chm563087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Text
 ms.assetid: 22e073e3-06be-4888-cac3-7daad2a9cb33
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: AutoLabel Property, Access [vbaac10.chm10482]
 keywords: vbaac10.chm10482
 f1_keywords:
 - vbaac10.chm10482
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b265d7d1-0230-430f-bd60-46a2f493e8e9
+ms.date: 06/08/2017
 ---
 
 

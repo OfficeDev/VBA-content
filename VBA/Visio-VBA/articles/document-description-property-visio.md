@@ -3,10 +3,11 @@ title: Document.Description Property (Visio)
 keywords: vis_sdr.chm10513405
 f1_keywords:
 - vis_sdr.chm10513405
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Description
 ms.assetid: 530adbe3-5285-6aa5-32e6-88d2bc1d8ebf
+ms.date: 06/08/2017
 ---
 
 

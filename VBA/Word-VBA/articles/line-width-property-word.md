@@ -3,10 +3,11 @@ title: Line.Width Property (Word)
 keywords: vbawd10.chm49610757
 f1_keywords:
 - vbawd10.chm49610757
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Width
 ms.assetid: 00aac43b-9638-808e-f203-6021f833ffcb
+ms.date: 06/08/2017
 ---
 
 

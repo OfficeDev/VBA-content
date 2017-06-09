@@ -3,10 +3,11 @@ title: Application.EnterpriseProtectActuals Property (Project)
 keywords: vbapj.chm131810
 f1_keywords:
 - vbapj.chm131810
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseProtectActuals
 ms.assetid: 99880223-194c-39de-aed0-068b3eb0a96b
+ms.date: 06/08/2017
 ---
 
 

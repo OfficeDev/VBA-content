@@ -3,10 +3,11 @@ title: Shape.CatalogMergeItems Property (Publisher)
 keywords: vbapb10.chm5308690
 f1_keywords:
 - vbapb10.chm5308690
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.CatalogMergeItems
 ms.assetid: 1dcf4ae0-7a18-f1d5-2176-1912c63eefcc
+ms.date: 06/08/2017
 ---
 
 

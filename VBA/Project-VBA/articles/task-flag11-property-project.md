@@ -1,9 +1,10 @@
 ---
 title: Task.Flag11 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Flag11
 ms.assetid: defeee71-a899-81b5-4107-602fd0e9373c
+ms.date: 06/08/2017
 ---
 
 

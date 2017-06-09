@@ -3,10 +3,11 @@ title: Border.Visible Property (Word)
 keywords: vbawd10.chm154861568
 f1_keywords:
 - vbawd10.chm154861568
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Border.Visible
 ms.assetid: 7040aa03-17dc-073c-c9db-e4a7cc2e7ef9
+ms.date: 06/08/2017
 ---
 
 

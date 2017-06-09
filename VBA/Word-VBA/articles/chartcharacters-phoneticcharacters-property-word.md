@@ -3,10 +3,11 @@ title: ChartCharacters.PhoneticCharacters Property (Word)
 keywords: vbawd10.chm250742258
 f1_keywords:
 - vbawd10.chm250742258
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartCharacters.PhoneticCharacters
 ms.assetid: 3bf59590-d83c-1d11-f092-61b190cd24ad
+ms.date: 06/08/2017
 ---
 
 

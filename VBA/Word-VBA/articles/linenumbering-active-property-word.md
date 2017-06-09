@@ -3,10 +3,11 @@ title: LineNumbering.Active Property (Word)
 keywords: vbawd10.chm158466152
 f1_keywords:
 - vbawd10.chm158466152
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering.Active
 ms.assetid: 31b62e8f-a254-21aa-97bf-d9114f0605a8
+ms.date: 06/08/2017
 ---
 
 

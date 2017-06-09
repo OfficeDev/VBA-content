@@ -3,14 +3,15 @@ title: Bound Control
 keywords: vbaac10.chm5186619
 f1_keywords:
 - vbaac10.chm5186619
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9a1cde73-1923-6380-540c-6ae742bd8a4a
+ms.date: 06/08/2017
 ---
 
 
 # Bound Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

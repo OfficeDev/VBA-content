@@ -3,10 +3,11 @@ title: Master.CreateSelection Method (Visio)
 keywords: vis_sdr.chm10751430
 f1_keywords:
 - vis_sdr.chm10751430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.CreateSelection
 ms.assetid: 52db8b1b-e253-549f-c3ba-d661fa7b675e
+ms.date: 06/08/2017
 ---
 
 

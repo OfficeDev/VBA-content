@@ -3,8 +3,9 @@ title: Toggle Breakpoint Command (Debug Menu)
 keywords: vbui6.chm2007513
 f1_keywords:
 - vbui6.chm2007513
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5572c438-69a1-fdcf-5c04-586c8eb0c022
+ms.date: 06/08/2017
 ---
 
 

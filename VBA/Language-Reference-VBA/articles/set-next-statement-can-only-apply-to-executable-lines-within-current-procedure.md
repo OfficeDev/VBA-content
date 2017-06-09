@@ -3,8 +3,9 @@ title: Set Next Statement can only apply to executable lines within current proc
 keywords: vblr6.chm1040350
 f1_keywords:
 - vblr6.chm1040350
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4e5c0a9d-95ec-ee89-499f-42af2b9d44ec
+ms.date: 06/08/2017
 ---
 
 

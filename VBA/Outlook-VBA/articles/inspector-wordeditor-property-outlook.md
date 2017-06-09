@@ -3,10 +3,11 @@ title: Inspector.WordEditor Property (Outlook)
 keywords: vbaol11.chm2972
 f1_keywords:
 - vbaol11.chm2972
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.WordEditor
 ms.assetid: 9e09b772-f679-19e6-905e-552ccadb0d24
+ms.date: 06/08/2017
 ---
 
 

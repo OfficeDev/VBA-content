@@ -3,10 +3,11 @@ title: Form.Tag Property (Access)
 keywords: vbaac10.chm13425
 f1_keywords:
 - vbaac10.chm13425
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Tag
 ms.assetid: 7fec664b-b82e-8cd1-93ff-5162c72fb036
+ms.date: 06/08/2017
 ---
 
 

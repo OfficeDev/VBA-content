@@ -1,7 +1,8 @@
 ---
 title: ComboBox.Click Event (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 43286138-766d-ffe3-9de3-fcea3808f8cd
+ms.date: 06/08/2017
 ---
 
 

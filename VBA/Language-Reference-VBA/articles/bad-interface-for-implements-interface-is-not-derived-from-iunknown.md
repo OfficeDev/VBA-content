@@ -3,8 +3,9 @@ title: "Bad interface for Implements: interface is not derived from Iunknown"
 keywords: vblr6.chm1057165
 f1_keywords:
 - vblr6.chm1057165
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 32ec980d-3af0-5751-03fe-83e2c456bac0
+ms.date: 06/08/2017
 ---
 
 

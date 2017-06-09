@@ -1,9 +1,10 @@
 ---
 title: Application.Version Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Version
 ms.assetid: 9fa235a3-8bdd-a4d3-3d40-e0f77f52e314
+ms.date: 06/08/2017
 ---
 
 

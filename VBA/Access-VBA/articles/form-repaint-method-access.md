@@ -3,10 +3,11 @@ title: Form.Repaint Method (Access)
 keywords: vbaac10.chm13505
 f1_keywords:
 - vbaac10.chm13505
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Repaint
 ms.assetid: ce386055-c4b7-9aa8-7f49-de0010467970
+ms.date: 06/08/2017
 ---
 
 

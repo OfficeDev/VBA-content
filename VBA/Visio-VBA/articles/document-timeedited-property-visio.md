@@ -3,10 +3,11 @@ title: Document.TimeEdited Property (Visio)
 keywords: vis_sdr.chm10550910
 f1_keywords:
 - vis_sdr.chm10550910
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.TimeEdited
 ms.assetid: 2c4efd8a-ae6a-69b0-5033-b456f84f5acf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: View.ShowFirstLineOnly Property (Word)
 keywords: vbawd10.chm161808392
 f1_keywords:
 - vbawd10.chm161808392
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowFirstLineOnly
 ms.assetid: 16b67deb-e65d-10ac-f856-4f7df0a4ccbc
+ms.date: 06/08/2017
 ---
 
 

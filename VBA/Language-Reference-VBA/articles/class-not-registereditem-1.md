@@ -1,7 +1,8 @@
 ---
 title: Class not registered. 'item 1'
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17494b1d-e7ac-f381-c203-198c6fc68ab3
+ms.date: 06/08/2017
 ---
 
 

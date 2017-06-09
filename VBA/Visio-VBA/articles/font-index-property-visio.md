@@ -3,10 +3,11 @@ title: Font.Index Property (Visio)
 keywords: vis_sdr.chm12013695
 f1_keywords:
 - vis_sdr.chm12013695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Font.Index
 ms.assetid: 3abb359d-0a40-1f2d-5d00-041cc6d39385
+ms.date: 06/08/2017
 ---
 
 

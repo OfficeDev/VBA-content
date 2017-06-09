@@ -1,7 +1,8 @@
 ---
 title: CustomTaskPane Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5618964a-f6ba-46ae-9316-02412764184b
+ms.date: 06/08/2017
 ---
 
 

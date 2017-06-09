@@ -3,8 +3,9 @@ title: Outdent Command (Edit Menu)
 keywords: vbui6.chm2012554
 f1_keywords:
 - vbui6.chm2012554
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec0ff0fc-20d6-e31f-4cf5-ea87098123bf
+ms.date: 06/08/2017
 ---
 
 

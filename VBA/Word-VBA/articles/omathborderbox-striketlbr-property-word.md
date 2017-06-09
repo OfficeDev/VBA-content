@@ -3,10 +3,11 @@ title: OMathBorderBox.StrikeTLBR Property (Word)
 keywords: vbawd10.chm116260975
 f1_keywords:
 - vbawd10.chm116260975
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBorderBox.StrikeTLBR
 ms.assetid: 0e59d19e-83cb-b501-1a5a-5beaeccc757c
+ms.date: 06/08/2017
 ---
 
 

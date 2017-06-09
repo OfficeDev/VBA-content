@@ -3,10 +3,11 @@ title: Shapes.AddLabel Method (PowerPoint)
 keywords: vbapp10.chm543008
 f1_keywords:
 - vbapp10.chm543008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddLabel
 ms.assetid: b744daf1-5b99-9649-8b97-d3f2193373c1
+ms.date: 06/08/2017
 ---
 
 

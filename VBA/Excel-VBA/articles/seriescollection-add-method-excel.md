@@ -3,10 +3,11 @@ title: SeriesCollection.Add Method (Excel)
 keywords: vbaxl10.chm580074
 f1_keywords:
 - vbaxl10.chm580074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Add
 ms.assetid: 11bedfdb-de8e-94cf-a23d-2c6e1d85cc9a
+ms.date: 06/08/2017
 ---
 
 

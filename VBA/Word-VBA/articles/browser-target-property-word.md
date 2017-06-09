@@ -3,10 +3,11 @@ title: Browser.Target Property (Word)
 keywords: vbawd10.chm154009601
 f1_keywords:
 - vbawd10.chm154009601
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Target
 ms.assetid: 138a2e3b-29cb-2523-575b-12ad02e00977
+ms.date: 06/08/2017
 ---
 
 

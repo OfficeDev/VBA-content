@@ -1,13 +1,14 @@
 ---
 title: RDS Code Examples
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0800fec6-5078-3ef7-1e2c-33d10d8a9ebd
+ms.date: 06/08/2017
 ---
 
 
 # RDS Code Examples
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

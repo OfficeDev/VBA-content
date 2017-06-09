@@ -1,9 +1,10 @@
 ---
 title: SmartArtQuickStyle.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Creator
 ms.assetid: 6c3aafcf-677b-6be9-1068-ad4f847be336
+ms.date: 06/08/2017
 ---
 
 

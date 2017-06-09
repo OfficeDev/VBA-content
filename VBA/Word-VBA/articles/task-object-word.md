@@ -3,10 +3,11 @@ title: Task Object (Word)
 keywords: vbawd10.chm2434
 f1_keywords:
 - vbawd10.chm2434
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task
 ms.assetid: 8802fcd5-0947-2ea0-308a-376077633e34
+ms.date: 06/08/2017
 ---
 
 

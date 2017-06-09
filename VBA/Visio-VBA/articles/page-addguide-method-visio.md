@@ -3,10 +3,11 @@ title: Page.AddGuide Method (Visio)
 keywords: vis_sdr.chm10916035
 f1_keywords:
 - vis_sdr.chm10916035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.AddGuide
 ms.assetid: 7be0cc07-6322-a3f0-3292-6dc66804db44
+ms.date: 06/08/2017
 ---
 
 

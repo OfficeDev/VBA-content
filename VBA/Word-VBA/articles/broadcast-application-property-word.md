@@ -3,8 +3,9 @@ title: Broadcast.Application Property (Word)
 keywords: vbawd10.chm36439016
 f1_keywords:
 - vbawd10.chm36439016
-ms.prod: WORD
+ms.prod: word
 ms.assetid: ba2d77f0-591f-ace6-43d3-3ceae86276e0
+ms.date: 06/08/2017
 ---
 
 

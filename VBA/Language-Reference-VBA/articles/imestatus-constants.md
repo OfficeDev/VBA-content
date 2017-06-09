@@ -3,8 +3,9 @@ title: IMEStatus Constants
 keywords: vblr6.chm1014630
 f1_keywords:
 - vblr6.chm1014630
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48ceed66-4bf5-d0c7-fa01-08f82cd6fadc
+ms.date: 06/08/2017
 ---
 
 

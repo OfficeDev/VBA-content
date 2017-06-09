@@ -3,10 +3,11 @@ title: Section.MouseUp Event (Access)
 keywords: vbaac10.chm14237
 f1_keywords:
 - vbaac10.chm14237
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.MouseUp
 ms.assetid: fcfb223c-b57e-5f3c-60aa-1a9edc149c48
+ms.date: 06/08/2017
 ---
 
 

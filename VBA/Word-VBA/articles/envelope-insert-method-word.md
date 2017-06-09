@@ -3,10 +3,11 @@ title: Envelope.Insert Method (Word)
 keywords: vbawd10.chm152567913
 f1_keywords:
 - vbawd10.chm152567913
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.Insert
 ms.assetid: 6fd42ed0-f8d0-d2be-175d-345f1367de61
+ms.date: 06/08/2017
 ---
 
 

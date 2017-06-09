@@ -3,10 +3,11 @@ title: LineFormat.Pattern Property (Publisher)
 keywords: vbapb10.chm3408137
 f1_keywords:
 - vbapb10.chm3408137
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Pattern
 ms.assetid: ba14b1d1-9c32-a58e-d842-52fc3dc985e8
+ms.date: 06/08/2017
 ---
 
 

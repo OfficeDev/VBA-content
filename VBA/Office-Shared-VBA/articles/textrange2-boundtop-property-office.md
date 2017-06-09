@@ -1,9 +1,10 @@
 ---
 title: TextRange2.BoundTop Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.BoundTop
 ms.assetid: b225b65e-04a0-1938-9520-ea71eed13b04
+ms.date: 06/08/2017
 ---
 
 

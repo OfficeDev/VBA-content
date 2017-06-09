@@ -3,10 +3,11 @@ title: Document.BottomMargin Property (Visio)
 keywords: vis_sdr.chm10513150
 f1_keywords:
 - vis_sdr.chm10513150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BottomMargin
 ms.assetid: 5fd185a5-ecc9-000e-f5b0-fa309d52847a
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Cannot jump to specified type because it is in the specified library, which is not currently referenced
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 96f01bf8-2575-4c6a-b223-12c0b1f21e53
+ms.date: 06/08/2017
 ---
 
 

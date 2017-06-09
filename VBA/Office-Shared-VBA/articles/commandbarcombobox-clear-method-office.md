@@ -3,10 +3,11 @@ title: CommandBarComboBox.Clear Method (Office)
 keywords: vbaof11.chm8002
 f1_keywords:
 - vbaof11.chm8002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Clear
 ms.assetid: f60afda8-5740-c6f6-7f3b-315dc95c45f8
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: TabStops2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 90c91c91-96eb-91d1-90f8-f41d2a6d2dd7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Log Function
 keywords: vblr6.chm1008966
 f1_keywords:
 - vblr6.chm1008966
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 09ff0a30-0138-cfad-6cb8-2172c8ff37f2
+ms.date: 06/08/2017
 ---
 
 

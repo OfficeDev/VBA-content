@@ -3,10 +3,11 @@ title: ViewField.ViewXMLSchemaName Property (Outlook)
 keywords: vbaol11.chm2543
 f1_keywords:
 - vbaol11.chm2543
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewField.ViewXMLSchemaName
 ms.assetid: 69490353-b470-6092-0b8e-b0f1c1549f7a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PickerResult.SubItems Property (Office)
 keywords: vbaof11.chm338006
 f1_keywords:
 - vbaof11.chm338006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResult.SubItems
 ms.assetid: a728f398-4d67-49cc-9ae8-6b14f1923e34
+ms.date: 06/08/2017
 ---
 
 

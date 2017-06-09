@@ -3,10 +3,11 @@ title: Application.VBAEnabled Property (Visio)
 keywords: vis_sdr.chm10052085
 f1_keywords:
 - vis_sdr.chm10052085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.VBAEnabled
 ms.assetid: fd4aa300-2117-aa66-54da-3be7be920287
+ms.date: 06/08/2017
 ---
 
 

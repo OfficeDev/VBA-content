@@ -3,10 +3,11 @@ title: CatalogMergeShapes.HorizontalRepeat Property (Publisher)
 keywords: vbapb10.chm8388613
 f1_keywords:
 - vbapb10.chm8388613
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.HorizontalRepeat
 ms.assetid: 1c3f1093-294f-e7b3-02ca-803ce7437d49
+ms.date: 06/08/2017
 ---
 
 

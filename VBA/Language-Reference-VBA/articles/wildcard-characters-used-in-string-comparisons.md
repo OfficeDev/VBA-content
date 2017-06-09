@@ -3,8 +3,9 @@ title: Wildcard Characters used in String Comparisons
 keywords: vbui6.chm1105375
 f1_keywords:
 - vbui6.chm1105375
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 351a346d-95ee-1801-1e59-fb17befdb65f
+ms.date: 06/08/2017
 ---
 
 

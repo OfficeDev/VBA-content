@@ -1,7 +1,8 @@
 ---
 title: Managing Rules in the Outlook Object Model
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 05ddd643-e9bd-a37d-b680-b8519960a5f6
+ms.date: 06/08/2017
 ---
 
 

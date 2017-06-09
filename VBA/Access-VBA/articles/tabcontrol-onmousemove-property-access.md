@@ -3,10 +3,11 @@ title: TabControl.OnMouseMove Property (Access)
 keywords: vbaac10.chm12108
 f1_keywords:
 - vbaac10.chm12108
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnMouseMove
 ms.assetid: 32dae617-f4b8-6a32-36a6-3792ffffcde8
+ms.date: 06/08/2017
 ---
 
 

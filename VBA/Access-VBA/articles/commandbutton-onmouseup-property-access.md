@@ -3,10 +3,11 @@ title: CommandButton.OnMouseUp Property (Access)
 keywords: vbaac10.chm10501
 f1_keywords:
 - vbaac10.chm10501
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnMouseUp
 ms.assetid: 01abc8c3-031e-eb7e-1893-a4a7c6fbd24e
+ms.date: 06/08/2017
 ---
 
 

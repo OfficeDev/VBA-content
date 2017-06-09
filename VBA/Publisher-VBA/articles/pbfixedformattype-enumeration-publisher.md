@@ -3,10 +3,11 @@ title: PbFixedFormatType Enumeration (Publisher)
 keywords: vbapb10.chm65636
 f1_keywords:
 - vbapb10.chm65636
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbFixedFormatType
 ms.assetid: 300a49ee-0a66-7638-71b7-4e8b545c6909
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The password supplied for the dropbox folder <name> is invalid. (Error 34
 keywords: jeterr40.chm5003483
 f1_keywords:
 - jeterr40.chm5003483
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d0eddd4b-ae82-c98f-9d33-5c2a941de243
+ms.date: 06/08/2017
 ---
 
 
 # The password supplied for the dropbox folder <name> is invalid. (Error 3483)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,8 +3,9 @@ title: GroupCanceled Event, Visio [vis_sdr.chm10562005]
 keywords: vis_sdr.chm10562005
 f1_keywords:
 - vis_sdr.chm10562005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fdacd9e8-4c28-4d2a-9dff-dbbd9458d0da
+ms.date: 06/08/2017
 ---
 
 

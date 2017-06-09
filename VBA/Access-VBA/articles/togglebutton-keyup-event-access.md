@@ -3,10 +3,11 @@ title: ToggleButton.KeyUp Event (Access)
 keywords: vbaac10.chm14160
 f1_keywords:
 - vbaac10.chm14160
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.KeyUp
 ms.assetid: 94359da1-d763-43f4-8d47-c6b6f3816a04
+ms.date: 06/08/2017
 ---
 
 

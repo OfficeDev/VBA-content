@@ -1,9 +1,10 @@
 ---
 title: ViewSingle.Type Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewSingle.Type
 ms.assetid: 58b21a88-c71d-9949-5ca2-a0511d24467e
+ms.date: 06/08/2017
 ---
 
 

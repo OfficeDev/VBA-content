@@ -3,8 +3,9 @@ title: WorksheetFunction.Xor Method (Excel)
 keywords: vbaxl10.chm137440
 f1_keywords:
 - vbaxl10.chm137440
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d826d0b5-4a1b-0883-faa9-f894ee98d248
+ms.date: 06/08/2017
 ---
 
 

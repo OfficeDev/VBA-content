@@ -3,10 +3,11 @@ title: PieGroups Method
 keywords: vbagr10.chm65549
 f1_keywords:
 - vbagr10.chm65549
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PieGroups
 ms.assetid: f7fd5497-f7a0-6c28-1a59-9e6f37a0885e
+ms.date: 06/08/2017
 ---
 
 

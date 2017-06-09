@@ -3,14 +3,15 @@ title: "Cannot delete one or more objects: <name>. (Error 3773)"
 keywords: jeterr40.chm5003773
 f1_keywords:
 - jeterr40.chm5003773
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 602e783b-e774-873b-6fab-30aa512c9829
+ms.date: 06/08/2017
 ---
 
 
 # Cannot delete one or more objects: <name>. (Error 3773)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

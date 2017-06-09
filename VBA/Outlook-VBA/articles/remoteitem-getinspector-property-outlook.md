@@ -3,10 +3,11 @@ title: RemoteItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1597
 f1_keywords:
 - vbaol11.chm1597
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.GetInspector
 ms.assetid: 0f8e0621-7094-afd5-8913-9f42d55765e0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListObjects.Add Method (Excel)
 keywords: vbaxl10.chm732078
 f1_keywords:
 - vbaxl10.chm732078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObjects.Add
 ms.assetid: 764dafed-d4e3-82b9-df8c-68a358319491
+ms.date: 06/08/2017
 ---
 
 

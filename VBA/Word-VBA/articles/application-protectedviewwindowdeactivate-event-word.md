@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowDeactivate Event (Word)
 keywords: vbawd10.chm4000035
 f1_keywords:
 - vbawd10.chm4000035
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowDeactivate
 ms.assetid: bd80056b-edce-7e0b-c61a-31ebda24a416
+ms.date: 06/08/2017
 ---
 
 

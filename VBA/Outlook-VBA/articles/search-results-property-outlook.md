@@ -3,10 +3,11 @@ title: Search.Results Property (Outlook)
 keywords: vbaol11.chm2255
 f1_keywords:
 - vbaol11.chm2255
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Search.Results
 ms.assetid: 405166fa-d0bc-33d2-f4aa-908fb821edd6
+ms.date: 06/08/2017
 ---
 
 

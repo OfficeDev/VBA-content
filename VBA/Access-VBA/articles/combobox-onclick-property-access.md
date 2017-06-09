@@ -3,10 +3,11 @@ title: ComboBox.OnClick Property (Access)
 keywords: vbaac10.chm11455
 f1_keywords:
 - vbaac10.chm11455
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnClick
 ms.assetid: 9cb266d8-6e7d-80c9-c5e9-1d2406b7d54d
+ms.date: 06/08/2017
 ---
 
 

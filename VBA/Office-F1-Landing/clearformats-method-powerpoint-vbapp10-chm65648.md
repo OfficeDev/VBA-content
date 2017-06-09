@@ -3,8 +3,9 @@ title: ClearFormats Method, PowerPoint [vbapp10.chm65648]
 keywords: vbapp10.chm65648
 f1_keywords:
 - vbapp10.chm65648
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4b393d9-89c6-4626-a4c5-df2cf16ade73
+ms.date: 06/08/2017
 ---
 
 

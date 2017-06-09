@@ -3,10 +3,11 @@ title: Adjustments.Parent Property (Word)
 keywords: vbawd10.chm163840001
 f1_keywords:
 - vbawd10.chm163840001
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Adjustments.Parent
 ms.assetid: 9783ed4f-7146-3793-90eb-0dccbecf7f18
+ms.date: 06/08/2017
 ---
 
 

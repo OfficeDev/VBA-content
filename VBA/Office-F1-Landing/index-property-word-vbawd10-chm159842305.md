@@ -3,8 +3,9 @@ title: Index Property, Word [vbawd10.chm159842305]
 keywords: vbawd10.chm159842305
 f1_keywords:
 - vbawd10.chm159842305
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f881a5b8-4ada-4acb-ae65-3b7b51636f0b
+ms.date: 06/08/2017
 ---
 
 

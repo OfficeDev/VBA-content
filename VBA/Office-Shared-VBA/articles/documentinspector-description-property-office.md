@@ -3,10 +3,11 @@ title: DocumentInspector.Description Property (Office)
 keywords: vbaof11.chm279002
 f1_keywords:
 - vbaof11.chm279002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspector.Description
 ms.assetid: 15216b40-4451-5abf-9f81-02ae8b7258ff
+ms.date: 06/08/2017
 ---
 
 

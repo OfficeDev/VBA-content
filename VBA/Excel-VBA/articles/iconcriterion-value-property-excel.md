@@ -3,10 +3,11 @@ title: IconCriterion.Value Property (Excel)
 keywords: vbaxl10.chm814075
 f1_keywords:
 - vbaxl10.chm814075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconCriterion.Value
 ms.assetid: 5cb72b0b-1df2-dd47-932f-1454fda9f804
+ms.date: 06/08/2017
 ---
 
 

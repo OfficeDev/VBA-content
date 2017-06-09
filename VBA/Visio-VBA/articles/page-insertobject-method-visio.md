@@ -3,10 +3,11 @@ title: Page.InsertObject Method (Visio)
 keywords: vis_sdr.chm10916370
 f1_keywords:
 - vis_sdr.chm10916370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.InsertObject
 ms.assetid: 74081ecf-59ee-44e8-6fc8-3ccc0915e110
+ms.date: 06/08/2017
 ---
 
 

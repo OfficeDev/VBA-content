@@ -3,10 +3,11 @@ title: Range.Characters Property (Word)
 keywords: vbawd10.chm157155381
 f1_keywords:
 - vbawd10.chm157155381
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Characters
 ms.assetid: 0d6ffe59-14ef-a198-e70f-6ccef0a83398
+ms.date: 06/08/2017
 ---
 
 

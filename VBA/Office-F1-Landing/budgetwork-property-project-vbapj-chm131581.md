@@ -3,8 +3,9 @@ title: BudgetWork Property, Project [vbapj.chm131581]
 keywords: vbapj.chm131581
 f1_keywords:
 - vbapj.chm131581
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7204da7b-f8d6-45fe-8e69-7f91777d9ad5
+ms.date: 06/08/2017
 ---
 
 

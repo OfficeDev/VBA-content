@@ -3,10 +3,11 @@ title: TotalSize Property
 keywords: vblr6.chm2181964
 f1_keywords:
 - vblr6.chm2181964
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TotalSize
 ms.assetid: 3c5d7904-3abe-2733-abe2-f329979863da
+ms.date: 06/08/2017
 ---
 
 

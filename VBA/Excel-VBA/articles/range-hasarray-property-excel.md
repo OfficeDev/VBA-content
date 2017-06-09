@@ -3,10 +3,11 @@ title: Range.HasArray Property (Excel)
 keywords: vbaxl10.chm144142
 f1_keywords:
 - vbaxl10.chm144142
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.HasArray
 ms.assetid: fac17206-8671-6209-9133-d56da6ea2b9c
+ms.date: 06/08/2017
 ---
 
 

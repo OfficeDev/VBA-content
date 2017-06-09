@@ -3,8 +3,9 @@ title: Chart.GetChartElement Method (Project)
 keywords: vbapj.chm131624
 f1_keywords:
 - vbapj.chm131624
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: f2705f1d-7252-41ec-848b-f7f9cc26663e
+ms.date: 06/08/2017
 ---
 
 

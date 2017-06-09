@@ -3,8 +3,9 @@ title: Controls Property, Access [vbaac10.chm11036]
 keywords: vbaac10.chm11036
 f1_keywords:
 - vbaac10.chm11036
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd775d3f-056f-4b91-aeb2-b89ca390b24f
+ms.date: 06/08/2017
 ---
 
 

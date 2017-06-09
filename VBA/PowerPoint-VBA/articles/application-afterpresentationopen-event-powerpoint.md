@@ -3,10 +3,11 @@ title: Application.AfterPresentationOpen Event (PowerPoint)
 keywords: vbapp10.chm621021
 f1_keywords:
 - vbapp10.chm621021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.AfterPresentationOpen
 ms.assetid: 3f783486-0ceb-166d-017b-0a41bd15cfa6
+ms.date: 06/08/2017
 ---
 
 

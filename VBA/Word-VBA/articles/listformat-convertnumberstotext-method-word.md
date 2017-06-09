@@ -3,10 +3,11 @@ title: ListFormat.ConvertNumbersToText Method (Word)
 keywords: vbawd10.chm163578042
 f1_keywords:
 - vbawd10.chm163578042
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.ConvertNumbersToText
 ms.assetid: 5ba6d823-dadb-1059-d439-0e556d91058f
+ms.date: 06/08/2017
 ---
 
 

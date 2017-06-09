@@ -3,10 +3,11 @@ title: Font.Borders Property (Word)
 keywords: vbawd10.chm156369996
 f1_keywords:
 - vbawd10.chm156369996
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Borders
 ms.assetid: a2b39af8-4b9a-be2a-2586-bdd3deb00bfe
+ms.date: 06/08/2017
 ---
 
 

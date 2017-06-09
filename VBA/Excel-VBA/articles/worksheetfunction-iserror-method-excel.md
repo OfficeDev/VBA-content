@@ -3,10 +3,11 @@ title: WorksheetFunction.IsError Method (Excel)
 keywords: vbaxl10.chm137076
 f1_keywords:
 - vbaxl10.chm137076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsError
 ms.assetid: 87902aa7-295b-5d0b-650e-b30b8a4084c8
+ms.date: 06/08/2017
 ---
 
 

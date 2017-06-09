@@ -3,10 +3,11 @@ title: WorkflowTemplates.Count Property (Office)
 keywords: vbaof11.chm283002
 f1_keywords:
 - vbaof11.chm283002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTemplates.Count
 ms.assetid: 58a0c128-d019-203d-ad31-e59a31e0ba86
+ms.date: 06/08/2017
 ---
 
 

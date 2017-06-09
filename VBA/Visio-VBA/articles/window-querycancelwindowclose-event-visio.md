@@ -3,10 +3,11 @@ title: Window.QueryCancelWindowClose Event (Visio)
 keywords: vis_sdr.chm11619300
 f1_keywords:
 - vis_sdr.chm11619300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.QueryCancelWindowClose
 ms.assetid: 42b2533a-7958-affc-c722-8b15a396908f
+ms.date: 06/08/2017
 ---
 
 

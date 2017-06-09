@@ -3,10 +3,11 @@ title: OutlookBarGroups.Remove Method (Outlook)
 keywords: vbaol11.chm353
 f1_keywords:
 - vbaol11.chm353
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Remove
 ms.assetid: 997db21c-9d4a-5691-f6b9-c156bdc73b2a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Image.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm10399
 f1_keywords:
 - vbaac10.chm10399
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.ShortcutMenuBar
 ms.assetid: 1d85ddc5-3aa7-2267-778d-e96f1e1148b0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Trendlines.Add Method (Word)
 keywords: vbawd10.chm102367413
 f1_keywords:
 - vbawd10.chm102367413
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendlines.Add
 ms.assetid: 7260373c-626b-2778-0517-e5c62b754bc9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Research.SetLanguagePair Method (Word)
 keywords: vbawd10.chm201654773
 f1_keywords:
 - vbawd10.chm201654773
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Research.SetLanguagePair
 ms.assetid: 95e874b7-5acf-7c73-4f12-8220a4630443
+ms.date: 06/08/2017
 ---
 
 

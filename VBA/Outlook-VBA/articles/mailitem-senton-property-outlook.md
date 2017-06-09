@@ -3,10 +3,11 @@ title: MailItem.SentOn Property (Outlook)
 keywords: vbaol11.chm1359
 f1_keywords:
 - vbaol11.chm1359
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.SentOn
 ms.assetid: 477d7f13-af24-dca7-9845-1a3669093972
+ms.date: 06/08/2017
 ---
 
 

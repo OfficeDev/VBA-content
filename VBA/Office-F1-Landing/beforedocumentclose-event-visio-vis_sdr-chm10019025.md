@@ -3,8 +3,9 @@ title: BeforeDocumentClose Event, Visio [vis_sdr.chm10019025]
 keywords: vis_sdr.chm10019025
 f1_keywords:
 - vis_sdr.chm10019025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e40b33b2-43e5-4d89-b254-0929c0eea80d
+ms.date: 06/08/2017
 ---
 
 

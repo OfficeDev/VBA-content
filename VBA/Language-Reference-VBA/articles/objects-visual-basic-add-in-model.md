@@ -1,7 +1,8 @@
 ---
 title: Objects (Visual Basic Add-In Model)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d92a32be-3e40-4ce2-ba11-fa797840984a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Range.Sentences Property (Word)
 keywords: vbawd10.chm157155380
 f1_keywords:
 - vbawd10.chm157155380
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Sentences
 ms.assetid: fe870f13-d09f-efbf-1d2f-745f2c318c28
+ms.date: 06/08/2017
 ---
 
 

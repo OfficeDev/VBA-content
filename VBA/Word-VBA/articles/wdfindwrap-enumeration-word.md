@@ -1,9 +1,10 @@
 ---
 title: WdFindWrap Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFindWrap
 ms.assetid: 7baf9a4e-e4e1-cd71-ac03-3e23ff2e1f63
+ms.date: 06/08/2017
 ---
 
 

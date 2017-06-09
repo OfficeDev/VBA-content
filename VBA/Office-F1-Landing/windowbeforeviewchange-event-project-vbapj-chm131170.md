@@ -3,8 +3,9 @@ title: WindowBeforeViewChange Event, Project [vbapj.chm131170]
 keywords: vbapj.chm131170
 f1_keywords:
 - vbapj.chm131170
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 57d0b5dd-757b-4e24-9dbd-3a2140c1b7ae
+ms.date: 06/08/2017
 ---
 
 

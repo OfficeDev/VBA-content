@@ -3,10 +3,11 @@ title: Workbook.FollowHyperlink Method (Excel)
 keywords: vbaxl10.chm199182
 f1_keywords:
 - vbaxl10.chm199182
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.FollowHyperlink
 ms.assetid: d070ecc9-fbb6-c146-f250-5c99b09063ec
+ms.date: 06/08/2017
 ---
 
 

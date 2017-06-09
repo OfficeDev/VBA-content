@@ -3,10 +3,11 @@ title: Connect.ObjectType Property (Visio)
 keywords: vis_sdr.chm10313960
 f1_keywords:
 - vis_sdr.chm10313960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.ObjectType
 ms.assetid: 93bcb805-aec7-b4fc-cfd4-9b49d3a59b93
+ms.date: 06/08/2017
 ---
 
 

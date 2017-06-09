@@ -3,8 +3,9 @@ title: FixedCost Property, Project [vbapj.chm132263]
 keywords: vbapj.chm132263
 f1_keywords:
 - vbapj.chm132263
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5bb7cf6-9f93-4f40-a551-65d34a2b3501
+ms.date: 06/08/2017
 ---
 
 

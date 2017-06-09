@@ -3,10 +3,11 @@ title: Application.FilterNew Method (Project)
 keywords: vbapj.chm504
 f1_keywords:
 - vbapj.chm504
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilterNew
 ms.assetid: 9289cf4f-ce29-695d-baf8-08316ed1e31b
+ms.date: 06/08/2017
 ---
 
 

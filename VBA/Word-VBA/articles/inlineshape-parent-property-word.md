@@ -3,10 +3,11 @@ title: InlineShape.Parent Property (Word)
 keywords: vbawd10.chm162005994
 f1_keywords:
 - vbawd10.chm162005994
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Parent
 ms.assetid: 30ac0159-2cb6-e223-77f5-a2a7982886e2
+ms.date: 06/08/2017
 ---
 
 

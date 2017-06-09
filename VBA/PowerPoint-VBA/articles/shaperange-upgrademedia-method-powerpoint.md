@@ -3,10 +3,11 @@ title: ShapeRange.UpgradeMedia Method (PowerPoint)
 keywords: vbapp10.chm548102
 f1_keywords:
 - vbapp10.chm548102
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.UpgradeMedia
 ms.assetid: a05e171a-1fff-1128-7a2d-a5576593fc70
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Table.ApplyAutoFormat Method (Publisher)
 keywords: vbapb10.chm4784137
 f1_keywords:
 - vbapb10.chm4784137
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table.ApplyAutoFormat
 ms.assetid: f792a5f3-0d1c-06de-a030-7a588ca372d2
+ms.date: 06/08/2017
 ---
 
 

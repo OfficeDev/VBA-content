@@ -3,10 +3,11 @@ title: Task.Activate Method (Word)
 keywords: vbawd10.chm159514634
 f1_keywords:
 - vbawd10.chm159514634
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task.Activate
 ms.assetid: 99c9750a-35f4-ac84-649b-fc8788dc0904
+ms.date: 06/08/2017
 ---
 
 

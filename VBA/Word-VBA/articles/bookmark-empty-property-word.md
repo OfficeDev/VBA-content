@@ -3,10 +3,11 @@ title: Bookmark.Empty Property (Word)
 keywords: vbawd10.chm157810690
 f1_keywords:
 - vbawd10.chm157810690
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Empty
 ms.assetid: 88675e63-9e34-e9e4-247a-3d3281bbf2e2
+ms.date: 06/08/2017
 ---
 
 

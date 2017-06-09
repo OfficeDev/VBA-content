@@ -3,10 +3,11 @@ title: Frames.Add Method (Word)
 keywords: vbawd10.chm153813092
 f1_keywords:
 - vbawd10.chm153813092
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frames.Add
 ms.assetid: e9b25f79-b95d-fcd4-f88c-a32b5f83f3dc
+ms.date: 06/08/2017
 ---
 
 

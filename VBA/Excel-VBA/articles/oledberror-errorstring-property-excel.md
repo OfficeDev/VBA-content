@@ -3,10 +3,11 @@ title: OLEDBError.ErrorString Property (Excel)
 keywords: vbaxl10.chm654074
 f1_keywords:
 - vbaxl10.chm654074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBError.ErrorString
 ms.assetid: 64f4780a-e8bc-fbbf-9b06-02a78ebcb181
+ms.date: 06/08/2017
 ---
 
 

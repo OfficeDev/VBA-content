@@ -3,10 +3,11 @@ title: Cell.FormulaForce Property (Visio)
 keywords: vis_sdr.chm10113565
 f1_keywords:
 - vis_sdr.chm10113565
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.FormulaForce
 ms.assetid: bce2a3c8-eaac-42dc-3a7f-c4838ed6518b
+ms.date: 06/08/2017
 ---
 
 

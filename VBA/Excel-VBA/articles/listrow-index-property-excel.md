@@ -3,10 +3,11 @@ title: ListRow.Index Property (Excel)
 keywords: vbaxl10.chm742074
 f1_keywords:
 - vbaxl10.chm742074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListRow.Index
 ms.assetid: 701262e9-1c24-0117-023e-8f11ef26ed6b
+ms.date: 06/08/2017
 ---
 
 

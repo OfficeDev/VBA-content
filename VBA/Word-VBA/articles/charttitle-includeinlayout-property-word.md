@@ -3,10 +3,11 @@ title: ChartTitle.IncludeInLayout Property (Word)
 keywords: vbawd10.chm65276274
 f1_keywords:
 - vbawd10.chm65276274
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.IncludeInLayout
 ms.assetid: 5adcb002-5b23-cd5b-06ea-7680ed359653
+ms.date: 06/08/2017
 ---
 
 

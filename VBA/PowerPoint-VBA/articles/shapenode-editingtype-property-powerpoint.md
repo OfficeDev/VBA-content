@@ -3,10 +3,11 @@ title: ShapeNode.EditingType Property (PowerPoint)
 keywords: vbapp10.chm561002
 f1_keywords:
 - vbapp10.chm561002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.EditingType
 ms.assetid: 6d7f285c-06a2-a9e6-dc3c-bddb1146640f
+ms.date: 06/08/2017
 ---
 
 

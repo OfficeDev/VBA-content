@@ -3,10 +3,11 @@ title: SlideRange.Count Property (PowerPoint)
 keywords: vbapp10.chm532029
 f1_keywords:
 - vbapp10.chm532029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Count
 ms.assetid: ff280d05-41f1-fbdc-16c3-ae30a1102340
+ms.date: 06/08/2017
 ---
 
 

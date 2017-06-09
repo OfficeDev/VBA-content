@@ -3,10 +3,11 @@ title: Report.Hwnd Property (Access)
 keywords: vbaac10.chm13719
 f1_keywords:
 - vbaac10.chm13719
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Hwnd
 ms.assetid: e2d045f4-57bf-8681-0e00-bb5fe287136d
+ms.date: 06/08/2017
 ---
 
 

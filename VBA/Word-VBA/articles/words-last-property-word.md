@@ -3,10 +3,11 @@ title: Words.Last Property (Word)
 keywords: vbawd10.chm157024260
 f1_keywords:
 - vbawd10.chm157024260
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Words.Last
 ms.assetid: 5ca384f7-786f-9c44-41fb-4dce72d45d3e
+ms.date: 06/08/2017
 ---
 
 

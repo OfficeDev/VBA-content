@@ -1,9 +1,10 @@
 ---
 title: ShapeNode.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.Application
 ms.assetid: 07bb2801-4249-3132-4801-21fee153fd88
+ms.date: 06/08/2017
 ---
 
 

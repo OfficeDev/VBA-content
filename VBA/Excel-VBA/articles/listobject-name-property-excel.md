@@ -3,10 +3,11 @@ title: ListObject.Name Property (Excel)
 keywords: vbaxl10.chm734088
 f1_keywords:
 - vbaxl10.chm734088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.Name
 ms.assetid: fbbdf2f9-6c5f-6ebe-35b1-74aab63971a4
+ms.date: 06/08/2017
 ---
 
 

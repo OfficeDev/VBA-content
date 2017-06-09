@@ -3,10 +3,11 @@ title: Form.DatasheetFontItalic Property (Access)
 keywords: vbaac10.chm13399
 f1_keywords:
 - vbaac10.chm13399
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetFontItalic
 ms.assetid: 32fe51fa-ee36-2fc3-bb72-e61a4b43c19c
+ms.date: 06/08/2017
 ---
 
 

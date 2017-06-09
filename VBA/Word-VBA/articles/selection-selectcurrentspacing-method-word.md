@@ -3,10 +3,11 @@ title: Selection.SelectCurrentSpacing Method (Word)
 keywords: vbawd10.chm158663175
 f1_keywords:
 - vbawd10.chm158663175
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentSpacing
 ms.assetid: 1a49caa6-d261-e9d7-9d64-c564c30a7e29
+ms.date: 06/08/2017
 ---
 
 

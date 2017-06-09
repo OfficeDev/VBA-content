@@ -3,10 +3,11 @@ title: Range.PhoneticGuide Method (Word)
 keywords: vbawd10.chm157155552
 f1_keywords:
 - vbawd10.chm157155552
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.PhoneticGuide
 ms.assetid: f720cf42-4d61-977c-8e09-6346a48afecf
+ms.date: 06/08/2017
 ---
 
 

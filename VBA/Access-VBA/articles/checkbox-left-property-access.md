@@ -3,10 +3,11 @@ title: CheckBox.Left Property (Access)
 keywords: vbaac10.chm10709
 f1_keywords:
 - vbaac10.chm10709
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Left
 ms.assetid: 0d4eb8e2-b45a-a293-5d71-3b13743283bc
+ms.date: 06/08/2017
 ---
 
 

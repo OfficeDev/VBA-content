@@ -3,10 +3,11 @@ title: Masters.AddEx Method (Visio)
 keywords: vis_sdr.chm10851450
 f1_keywords:
 - vis_sdr.chm10851450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.AddEx
 ms.assetid: a27b1a7c-37f4-90c9-91f1-2249611a3cf9
+ms.date: 06/08/2017
 ---
 
 

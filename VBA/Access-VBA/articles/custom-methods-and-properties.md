@@ -3,8 +3,9 @@ title: Custom Methods and Properties
 keywords: vbaac10.chm5187125
 f1_keywords:
 - vbaac10.chm5187125
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2915eacb-240f-6876-0afb-1db038c4ecba
+ms.date: 06/08/2017
 ---
 
 

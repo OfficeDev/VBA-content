@@ -3,8 +3,9 @@ title: Operation not allowed in DLL, Office Shared [vblr6.chm1040035]
 keywords: vblr6.chm1040035
 f1_keywords:
 - vblr6.chm1040035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 85f22455-6602-47f6-b135-34c63013c887
+ms.date: 06/08/2017
 ---
 
 

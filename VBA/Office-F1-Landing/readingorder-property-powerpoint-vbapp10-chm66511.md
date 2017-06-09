@@ -3,8 +3,9 @@ title: ReadingOrder Property, PowerPoint [vbapp10.chm66511]
 keywords: vbapp10.chm66511
 f1_keywords:
 - vbapp10.chm66511
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54516370-e95e-41ce-bb0a-cee85f1a2ca0
+ms.date: 06/08/2017
 ---
 
 

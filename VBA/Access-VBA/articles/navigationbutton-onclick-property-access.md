@@ -3,10 +3,11 @@ title: NavigationButton.OnClick Property (Access)
 keywords: vbaac10.chm10497
 f1_keywords:
 - vbaac10.chm10497
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnClick
 ms.assetid: 8011ea46-129e-4194-7b2f-e577378111c7
+ms.date: 06/08/2017
 ---
 
 

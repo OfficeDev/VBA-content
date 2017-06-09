@@ -3,10 +3,11 @@ title: Application.XMLNamespaces Property (Word)
 keywords: vbawd10.chm158335439
 f1_keywords:
 - vbawd10.chm158335439
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.XMLNamespaces
 ms.assetid: e7eac332-f805-5ceb-682c-482565ff0786
+ms.date: 06/08/2017
 ---
 
 

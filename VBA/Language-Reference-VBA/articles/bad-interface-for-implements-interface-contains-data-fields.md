@@ -3,8 +3,9 @@ title: "Bad interface for Implements: interface contains data fields"
 keywords: vblr6.chm1057159
 f1_keywords:
 - vblr6.chm1057159
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f1b74921-8f9f-7391-3943-92746a2d8ffb
+ms.date: 06/08/2017
 ---
 
 

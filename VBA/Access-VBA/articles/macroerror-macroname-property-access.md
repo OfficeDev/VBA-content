@@ -3,10 +3,11 @@ title: MacroError.MacroName Property (Access)
 keywords: vbaac10.chm14051
 f1_keywords:
 - vbaac10.chm14051
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.MacroError.MacroName
 ms.assetid: 9f36dde0-4b4f-67ef-0b84-765c8e848097
+ms.date: 06/08/2017
 ---
 
 

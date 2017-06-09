@@ -1,9 +1,10 @@
 ---
 title: Application.WindowCloseCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.WindowCloseCanceled
 ms.assetid: 1273b75d-0543-69aa-aab3-47281295ee6b
+ms.date: 06/08/2017
 ---
 
 

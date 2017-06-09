@@ -3,10 +3,11 @@ title: Page.LayoutIncremental Method (Visio)
 keywords: vis_sdr.chm10962140
 f1_keywords:
 - vis_sdr.chm10962140
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.LayoutIncremental
 ms.assetid: db112261-120d-e2e8-18f0-91b1bba0a3a4
+ms.date: 06/08/2017
 ---
 
 

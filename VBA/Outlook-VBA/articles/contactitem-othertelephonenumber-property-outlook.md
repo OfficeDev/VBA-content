@@ -3,10 +3,11 @@ title: ContactItem.OtherTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm1057
 f1_keywords:
 - vbaol11.chm1057
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OtherTelephoneNumber
 ms.assetid: 21a2f846-64ea-0898-dc37-4fe6dbe9ab49
+ms.date: 06/08/2017
 ---
 
 

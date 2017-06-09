@@ -3,10 +3,11 @@ title: MailMergeFilters.Item Method (Publisher)
 keywords: vbapb10.chm6750211
 f1_keywords:
 - vbapb10.chm6750211
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilters.Item
 ms.assetid: 6da1766f-c497-0426-d413-4254a3dc2c8c
+ms.date: 06/08/2017
 ---
 
 

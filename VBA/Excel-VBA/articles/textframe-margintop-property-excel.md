@@ -3,10 +3,11 @@ title: TextFrame.MarginTop Property (Excel)
 keywords: vbaxl10.chm644076
 f1_keywords:
 - vbaxl10.chm644076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame.MarginTop
 ms.assetid: 5c03ceb4-e2fd-9ff7-ac5d-4fad45cd5313
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlkControl.HorizontalLayout Property (Outlook)
 keywords: vbaol11.chm1000540
 f1_keywords:
 - vbaol11.chm1000540
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkControl.HorizontalLayout
 ms.assetid: c613a515-e27b-4046-3089-bc481225f014
+ms.date: 06/08/2017
 ---
 
 

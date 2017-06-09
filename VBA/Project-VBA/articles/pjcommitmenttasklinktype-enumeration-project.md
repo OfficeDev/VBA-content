@@ -1,9 +1,10 @@
 ---
 title: PjCommitmentTaskLinkType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCommitmentTaskLinkType
 ms.assetid: f59c6401-07ec-270d-c54f-154299e6268a
+ms.date: 06/08/2017
 ---
 
 

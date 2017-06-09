@@ -3,10 +3,11 @@ title: Application.WebRefresh Method (Project)
 keywords: vbapj.chm1303
 f1_keywords:
 - vbapj.chm1303
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebRefresh
 ms.assetid: ef36cbc0-4d11-2328-a2d0-24370f4143c8
+ms.date: 06/08/2017
 ---
 
 

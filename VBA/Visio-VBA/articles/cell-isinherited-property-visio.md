@@ -3,10 +3,11 @@ title: Cell.IsInherited Property (Visio)
 keywords: vis_sdr.chm10113745
 f1_keywords:
 - vis_sdr.chm10113745
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.IsInherited
 ms.assetid: e68ef657-64dc-2e8e-d21f-d8ff5566a12d
+ms.date: 06/08/2017
 ---
 
 

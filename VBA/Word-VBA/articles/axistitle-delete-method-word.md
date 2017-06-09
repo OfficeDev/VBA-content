@@ -3,10 +3,11 @@ title: AxisTitle.Delete Method (Word)
 keywords: vbawd10.chm98238488
 f1_keywords:
 - vbawd10.chm98238488
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Delete
 ms.assetid: 6d4d05c5-8319-5df7-c892-02d9e15e18d4
+ms.date: 06/08/2017
 ---
 
 

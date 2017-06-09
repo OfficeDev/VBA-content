@@ -3,10 +3,11 @@ title: Axis.BaseUnitIsAuto Property (PowerPoint)
 keywords: vbapp10.chm682034
 f1_keywords:
 - vbapp10.chm682034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.BaseUnitIsAuto
 ms.assetid: 3cc90d1a-a87f-ac57-b2a2-bf3ccc964a8e
+ms.date: 06/08/2017
 ---
 
 

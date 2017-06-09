@@ -3,10 +3,11 @@ title: Application.SetTaskFieldByID Method (Project)
 keywords: vbapj.chm95
 f1_keywords:
 - vbapj.chm95
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SetTaskFieldByID
 ms.assetid: b4c74d96-d25b-707e-15f1-5e7f05363360
+ms.date: 06/08/2017
 ---
 
 

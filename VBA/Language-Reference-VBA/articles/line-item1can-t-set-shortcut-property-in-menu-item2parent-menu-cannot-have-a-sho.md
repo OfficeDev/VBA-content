@@ -3,8 +3,9 @@ title: "Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu c
 keywords: vblr6.chm60117
 f1_keywords:
 - vblr6.chm60117
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fabb46ea-3969-ea1f-e5b0-5f502b78d69c
+ms.date: 06/08/2017
 ---
 
 

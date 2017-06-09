@@ -3,10 +3,11 @@ title: LegendKey Object (PowerPoint)
 keywords: vbapp10.chm712000
 f1_keywords:
 - vbapp10.chm712000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey
 ms.assetid: 98e8b9c3-b53e-9595-9389-6f92a6d730f4
+ms.date: 06/08/2017
 ---
 
 

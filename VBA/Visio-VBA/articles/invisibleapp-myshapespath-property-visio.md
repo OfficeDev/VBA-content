@@ -3,10 +3,11 @@ title: InvisibleApp.MyShapesPath Property (Visio)
 keywords: vis_sdr.chm17560045
 f1_keywords:
 - vis_sdr.chm17560045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MyShapesPath
 ms.assetid: 2cfec57f-4ad9-d007-f720-0ce0a23079cc
+ms.date: 06/08/2017
 ---
 
 

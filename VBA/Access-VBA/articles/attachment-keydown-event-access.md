@@ -3,10 +3,11 @@ title: Attachment.KeyDown Event (Access)
 keywords: vbaac10.chm14032
 f1_keywords:
 - vbaac10.chm14032
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.KeyDown
 ms.assetid: 91a000e2-0a4e-4dd0-2715-b1987eb7212a
+ms.date: 06/08/2017
 ---
 
 

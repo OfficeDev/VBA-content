@@ -3,10 +3,11 @@ title: ListEntry.Delete Method (Word)
 keywords: vbawd10.chm153288715
 f1_keywords:
 - vbawd10.chm153288715
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntry.Delete
 ms.assetid: c390d865-71a4-be90-1839-ea86304fcf0d
+ms.date: 06/08/2017
 ---
 
 

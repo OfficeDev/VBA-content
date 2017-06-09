@@ -3,10 +3,11 @@ title: WorksheetFunction.T_Dist Method (Excel)
 keywords: vbaxl10.chm137383
 f1_keywords:
 - vbaxl10.chm137383
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.T_Dist
 ms.assetid: a6b7ad29-d00f-f779-9531-4d05bc216036
+ms.date: 06/08/2017
 ---
 
 

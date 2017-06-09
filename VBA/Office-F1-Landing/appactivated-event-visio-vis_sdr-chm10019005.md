@@ -3,8 +3,9 @@ title: AppActivated Event, Visio [vis_sdr.chm10019005]
 keywords: vis_sdr.chm10019005
 f1_keywords:
 - vis_sdr.chm10019005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24123190-199a-40be-b87b-de6b9a65eae3
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdGutterStyle Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdGutterStyle
 ms.assetid: 74cfa11d-7a29-ea24-e64c-d144ea4b8b37
+ms.date: 06/08/2017
 ---
 
 

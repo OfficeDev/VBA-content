@@ -3,10 +3,11 @@ title: Phonetic Object (Excel)
 keywords: vbaxl10.chm627072
 f1_keywords:
 - vbaxl10.chm627072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetic
 ms.assetid: 297e85d5-e8f6-6009-c51a-0d3fe01efba0
+ms.date: 06/08/2017
 ---
 
 

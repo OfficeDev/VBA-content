@@ -3,8 +3,9 @@ title: Hide Method, Office Shared [vblr6.chm1100677]
 keywords: vblr6.chm1100677
 f1_keywords:
 - vblr6.chm1100677
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a78bce98-49dc-4341-b457-e86e90692180
+ms.date: 06/08/2017
 ---
 
 

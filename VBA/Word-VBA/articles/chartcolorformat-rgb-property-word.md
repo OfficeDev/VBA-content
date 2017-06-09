@@ -3,10 +3,11 @@ title: ChartColorFormat.RGB Property (Word)
 keywords: vbawd10.chm12059679
 f1_keywords:
 - vbawd10.chm12059679
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartColorFormat.RGB
 ms.assetid: cd662ac4-e9ec-a6df-7af5-6d1fd13f86eb
+ms.date: 06/08/2017
 ---
 
 

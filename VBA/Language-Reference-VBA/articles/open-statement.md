@@ -3,8 +3,9 @@ title: Open Statement
 keywords: vblr6.chm1008800
 f1_keywords:
 - vblr6.chm1008800
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 359a24b9-6dbb-3648-0ce4-98ec38441ccf
+ms.date: 06/08/2017
 ---
 
 

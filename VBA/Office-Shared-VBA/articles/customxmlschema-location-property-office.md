@@ -3,10 +3,11 @@ title: CustomXMLSchema.Location Property (Office)
 keywords: vbaof11.chm291002
 f1_keywords:
 - vbaof11.chm291002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Location
 ms.assetid: 0efe9b44-8ad1-bf4d-a5f4-0aeb60457d90
+ms.date: 06/08/2017
 ---
 
 

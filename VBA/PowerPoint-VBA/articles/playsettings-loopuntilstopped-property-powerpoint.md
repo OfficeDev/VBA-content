@@ -3,10 +3,11 @@ title: PlaySettings.LoopUntilStopped Property (PowerPoint)
 keywords: vbapp10.chm568005
 f1_keywords:
 - vbapp10.chm568005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.LoopUntilStopped
 ms.assetid: b1c89b63-51cf-5ab3-4d98-2dd0a14f3d0e
+ms.date: 06/08/2017
 ---
 
 

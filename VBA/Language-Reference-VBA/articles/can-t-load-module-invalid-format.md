@@ -3,8 +3,9 @@ title: Can't load module; invalid format
 keywords: vblr6.chm1011319
 f1_keywords:
 - vblr6.chm1011319
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bcf72b74-0af3-84fa-9898-cd53fbff92a5
+ms.date: 06/08/2017
 ---
 
 

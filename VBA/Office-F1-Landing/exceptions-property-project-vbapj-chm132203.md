@@ -3,8 +3,9 @@ title: Exceptions Property, Project [vbapj.chm132203]
 keywords: vbapj.chm132203
 f1_keywords:
 - vbapj.chm132203
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 21b642d5-4124-4f92-b9f3-28f1f69fd3e8
+ms.date: 06/08/2017
 ---
 
 

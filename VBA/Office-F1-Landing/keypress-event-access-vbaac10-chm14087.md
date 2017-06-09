@@ -3,8 +3,9 @@ title: KeyPress Event, Access [vbaac10.chm14087]
 keywords: vbaac10.chm14087
 f1_keywords:
 - vbaac10.chm14087
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f6216ec2-daa0-410e-9600-825b53834ea7
+ms.date: 06/08/2017
 ---
 
 

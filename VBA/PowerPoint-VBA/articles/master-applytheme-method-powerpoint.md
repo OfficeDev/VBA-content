@@ -3,10 +3,11 @@ title: Master.ApplyTheme Method (PowerPoint)
 keywords: vbapp10.chm533019
 f1_keywords:
 - vbapp10.chm533019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.ApplyTheme
 ms.assetid: ae30318b-20e6-4eae-df4c-1f159fd77d6a
+ms.date: 06/08/2017
 ---
 
 

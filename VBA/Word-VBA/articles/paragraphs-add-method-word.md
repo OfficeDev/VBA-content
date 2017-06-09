@@ -3,10 +3,11 @@ title: Paragraphs.Add Method (Word)
 keywords: vbawd10.chm156762117
 f1_keywords:
 - vbawd10.chm156762117
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Add
 ms.assetid: a75b7e4c-0a94-2bea-27bc-e6ad68ac075e
+ms.date: 06/08/2017
 ---
 
 

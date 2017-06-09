@@ -3,8 +3,9 @@ title: TxtAngle Cell (Text Transform Section), Visio [vis_sdr.chm1020]
 keywords: vis_sdr.chm1020
 f1_keywords:
 - vis_sdr.chm1020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c786e0f-f8d0-4731-903a-e54156112d2a
+ms.date: 06/08/2017
 ---
 
 

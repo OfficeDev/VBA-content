@@ -3,10 +3,11 @@ title: SlideShowView.EraseDrawing Method (PowerPoint)
 keywords: vbapp10.chm513016
 f1_keywords:
 - vbapp10.chm513016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.EraseDrawing
 ms.assetid: d1ccb77b-c591-f3ec-bb88-1f317f057103
+ms.date: 06/08/2017
 ---
 
 

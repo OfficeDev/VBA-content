@@ -3,10 +3,11 @@ title: Window.ShowConnectPoints Property (Visio)
 keywords: vis_sdr.chm11614345
 f1_keywords:
 - vis_sdr.chm11614345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.ShowConnectPoints
 ms.assetid: e69f8fc7-243e-0443-4486-7c0db3a532e2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Program with Class Modules
 keywords: vbaac10.chm5187902
 f1_keywords:
 - vbaac10.chm5187902
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6b10be38-bfe6-dea2-4aa5-4859722c1869
+ms.date: 06/08/2017
 ---
 
 

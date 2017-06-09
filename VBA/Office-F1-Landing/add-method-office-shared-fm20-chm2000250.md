@@ -3,8 +3,9 @@ title: Add Method, Office Shared [fm20.chm2000250]
 keywords: fm20.chm2000250
 f1_keywords:
 - fm20.chm2000250
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc619594-0664-4712-b49b-9484244c9e35
+ms.date: 06/08/2017
 ---
 
 

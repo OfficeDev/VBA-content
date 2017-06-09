@@ -3,10 +3,11 @@ title: OLEObjects.BringToFront Method (Excel)
 keywords: vbaxl10.chm419074
 f1_keywords:
 - vbaxl10.chm419074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.BringToFront
 ms.assetid: 07742776-f3fd-9260-b982-b6f791d52e40
+ms.date: 06/08/2017
 ---
 
 

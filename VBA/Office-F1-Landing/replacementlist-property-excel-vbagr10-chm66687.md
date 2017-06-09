@@ -3,8 +3,9 @@ title: ReplacementList Property, Excel [vbagr10.chm66687]
 keywords: vbagr10.chm66687
 f1_keywords:
 - vbagr10.chm66687
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 668b661b-946c-4544-979e-bf002611905e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ControlFormat.LockedText Property (Excel)
 keywords: vbaxl10.chm630084
 f1_keywords:
 - vbaxl10.chm630084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.LockedText
 ms.assetid: 3b663597-4dec-8e9c-9d85-d07e162c4243
+ms.date: 06/08/2017
 ---
 
 

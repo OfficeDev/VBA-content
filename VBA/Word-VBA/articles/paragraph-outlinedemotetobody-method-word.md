@@ -3,10 +3,11 @@ title: Paragraph.OutlineDemoteToBody Method (Word)
 keywords: vbawd10.chm156696904
 f1_keywords:
 - vbawd10.chm156696904
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.OutlineDemoteToBody
 ms.assetid: 3ed68d82-9d07-0dbc-7be4-e65857945d11
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ContactCard.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ContactCard.Application
 ms.assetid: 9782d907-41b2-2c38-3fdb-bb8c0385fa41
+ms.date: 06/08/2017
 ---
 
 

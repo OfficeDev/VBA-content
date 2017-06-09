@@ -3,10 +3,11 @@ title: ErrorCheckingOptions.IndicatorColorIndex Property (Excel)
 keywords: vbaxl10.chm698074
 f1_keywords:
 - vbaxl10.chm698074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.IndicatorColorIndex
 ms.assetid: 4818c6b6-8cb9-705a-a441-e35159b4ffa8
+ms.date: 06/08/2017
 ---
 
 

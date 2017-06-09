@@ -3,10 +3,11 @@ title: Inspectors.Application Property (Outlook)
 keywords: vbaol11.chm133
 f1_keywords:
 - vbaol11.chm133
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspectors.Application
 ms.assetid: 8a1b5f5d-ee87-251f-dc67-67c8951b231a
+ms.date: 06/08/2017
 ---
 
 

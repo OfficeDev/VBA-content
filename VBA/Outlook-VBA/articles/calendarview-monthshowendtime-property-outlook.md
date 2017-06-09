@@ -3,10 +3,11 @@ title: CalendarView.MonthShowEndTime Property (Outlook)
 keywords: vbaol11.chm2632
 f1_keywords:
 - vbaol11.chm2632
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.MonthShowEndTime
 ms.assetid: 19a92965-aa85-e1f6-9db6-ce85c7980d75
+ms.date: 06/08/2017
 ---
 
 

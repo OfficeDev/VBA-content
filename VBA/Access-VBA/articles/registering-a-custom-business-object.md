@@ -1,13 +1,14 @@
 ---
 title: Registering a Custom Business Object
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: eed3b78e-310a-98fa-5cf9-32edaab0402f
+ms.date: 06/08/2017
 ---
 
 
 # Registering a Custom Business Object
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

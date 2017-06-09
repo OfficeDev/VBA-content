@@ -3,8 +3,9 @@ title: BeforeShapeDelete Event, Visio [vis_sdr.chm10019065]
 keywords: vis_sdr.chm10019065
 f1_keywords:
 - vis_sdr.chm10019065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bcc36dc-df3e-46ce-afa6-cf08f0dff514
+ms.date: 06/08/2017
 ---
 
 

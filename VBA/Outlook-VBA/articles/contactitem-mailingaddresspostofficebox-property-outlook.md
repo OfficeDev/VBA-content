@@ -3,10 +3,11 @@ title: ContactItem.MailingAddressPostOfficeBox Property (Outlook)
 keywords: vbaol11.chm1038
 f1_keywords:
 - vbaol11.chm1038
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MailingAddressPostOfficeBox
 ms.assetid: b4dc4baa-2af8-f008-6f26-3070dd739a6c
+ms.date: 06/08/2017
 ---
 
 

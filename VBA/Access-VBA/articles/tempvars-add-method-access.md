@@ -3,10 +3,11 @@ title: TempVars.Add Method (Access)
 keywords: vbaac10.chm14069
 f1_keywords:
 - vbaac10.chm14069
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TempVars.Add
 ms.assetid: 836e449c-35ff-4089-857a-403c9fc97592
+ms.date: 06/08/2017
 ---
 
 

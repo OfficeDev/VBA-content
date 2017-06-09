@@ -3,8 +3,9 @@ title: Next without For, Office Shared [vblr6.chm1040088]
 keywords: vblr6.chm1040088
 f1_keywords:
 - vblr6.chm1040088
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48dbec2a-1657-4eb5-8ecc-b741e83f6990
+ms.date: 06/08/2017
 ---
 
 

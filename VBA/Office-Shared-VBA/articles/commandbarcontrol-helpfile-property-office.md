@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.HelpFile Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.HelpFile
 ms.assetid: 2372698e-1c3b-de8b-b671-356fbd9cad6b
+ms.date: 06/08/2017
 ---
 
 

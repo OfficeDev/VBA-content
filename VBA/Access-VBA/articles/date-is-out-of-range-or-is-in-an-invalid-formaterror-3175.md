@@ -3,14 +3,15 @@ title: Date is out of range or is in an invalid format. (Error 3175)
 keywords: jeterr40.chm5003175
 f1_keywords:
 - jeterr40.chm5003175
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4c7bf285-563d-a918-d5a8-effde19f1b1d
+ms.date: 06/08/2017
 ---
 
 
 # Date is out of range or is in an invalid format. (Error 3175)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

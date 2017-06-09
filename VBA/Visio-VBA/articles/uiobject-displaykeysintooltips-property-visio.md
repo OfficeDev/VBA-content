@@ -3,10 +3,11 @@ title: UIObject.DisplayKeysInTooltips Property (Visio)
 keywords: vis_sdr.chm14913410
 f1_keywords:
 - vis_sdr.chm14913410
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.DisplayKeysInTooltips
 ms.assetid: 81cd5ba8-decb-0db7-391d-b79bfbdc4cb6
+ms.date: 06/08/2017
 ---
 
 

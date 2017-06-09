@@ -3,8 +3,9 @@ title: ApplyPictToFront Property, Excel [vbagr10.chm67196]
 keywords: vbagr10.chm67196
 f1_keywords:
 - vbagr10.chm67196
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: afe94791-5b63-456e-855c-dc9bb5ca38ab
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Table <name> is read-only. (Error 3328)
 keywords: jeterr40.chm5003328
 f1_keywords:
 - jeterr40.chm5003328
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d38885ec-87d0-8707-2655-3403882fd65b
+ms.date: 06/08/2017
 ---
 
 
 # Table <name> is read-only. (Error 3328)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

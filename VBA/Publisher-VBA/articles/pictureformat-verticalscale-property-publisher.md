@@ -3,10 +3,11 @@ title: PictureFormat.VerticalScale Property (Publisher)
 keywords: vbapb10.chm3604784
 f1_keywords:
 - vbapb10.chm3604784
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.VerticalScale
 ms.assetid: ff83d1bc-798b-5b42-7087-9b45f3ff573d
+ms.date: 06/08/2017
 ---
 
 

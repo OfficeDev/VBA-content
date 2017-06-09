@@ -3,8 +3,9 @@ title: StartWeekOn Property, Project [vbapj.chm132607]
 keywords: vbapj.chm132607
 f1_keywords:
 - vbapj.chm132607
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 895a882c-c2cc-4ab1-aee1-1633ce9edc84
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomLabels.Creator Property (Word)
 keywords: vbawd10.chm152437737
 f1_keywords:
 - vbawd10.chm152437737
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabels.Creator
 ms.assetid: 8ae625ca-61a4-d63b-dfe8-f9eadccbd69d
+ms.date: 06/08/2017
 ---
 
 

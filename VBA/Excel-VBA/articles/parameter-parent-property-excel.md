@@ -3,10 +3,11 @@ title: Parameter.Parent Property (Excel)
 keywords: vbaxl10.chm522075
 f1_keywords:
 - vbaxl10.chm522075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parameter.Parent
 ms.assetid: 24467831-594b-e9a2-7954-65adc2ba1174
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: XlListDataType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlListDataType
 ms.assetid: 80226dbd-e136-7a6b-b8a8-5f6482da731d
+ms.date: 06/08/2017
 ---
 
 

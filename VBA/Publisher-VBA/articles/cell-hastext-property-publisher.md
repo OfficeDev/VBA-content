@@ -3,10 +3,11 @@ title: Cell.HasText Property (Publisher)
 keywords: vbapb10.chm5111824
 f1_keywords:
 - vbapb10.chm5111824
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.HasText
 ms.assetid: b44c5d24-7ac1-a63d-6986-05ed9c91dd8e
+ms.date: 06/08/2017
 ---
 
 

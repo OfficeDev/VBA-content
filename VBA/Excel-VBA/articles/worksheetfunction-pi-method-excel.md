@@ -3,10 +3,11 @@ title: WorksheetFunction.Pi Method (Excel)
 keywords: vbaxl10.chm137085
 f1_keywords:
 - vbaxl10.chm137085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Pi
 ms.assetid: b19bc395-1eaf-1dba-b14f-8ae8fbb6b16f
+ms.date: 06/08/2017
 ---
 
 

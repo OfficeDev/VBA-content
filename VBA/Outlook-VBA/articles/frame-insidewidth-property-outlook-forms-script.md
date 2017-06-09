@@ -3,8 +3,9 @@ title: Frame.InsideWidth Property (Outlook Forms Script)
 keywords: olfm10.chm2001310
 f1_keywords:
 - olfm10.chm2001310
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8ffd3991-4600-c110-0398-75bd969c6900
+ms.date: 06/08/2017
 ---
 
 

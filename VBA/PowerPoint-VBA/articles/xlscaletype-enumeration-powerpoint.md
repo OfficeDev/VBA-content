@@ -1,9 +1,10 @@
 ---
 title: XlScaleType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlScaleType
 ms.assetid: 0783616c-90f8-efdc-d09f-526c26e450b9
+ms.date: 06/08/2017
 ---
 
 

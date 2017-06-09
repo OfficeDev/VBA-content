@@ -1,13 +1,14 @@
 ---
 title: InternetTimeout Property Example (VB)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 095a384d-5c02-a096-d8f8-31edbc941f90
+ms.date: 06/08/2017
 ---
 
 
 # InternetTimeout Property Example (VB)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

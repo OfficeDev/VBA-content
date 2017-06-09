@@ -3,8 +3,9 @@ title: Superscript Property, PowerPoint [vbapp10.chm704013]
 keywords: vbapp10.chm704013
 f1_keywords:
 - vbapp10.chm704013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75874878-7e36-4994-86da-bbb6cb8c9cc5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CanvasShapes.AddLabel Method (Word)
 keywords: vbawd10.chm7536653
 f1_keywords:
 - vbawd10.chm7536653
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.AddLabel
 ms.assetid: a789aa04-039c-f455-56ed-ca864e0de6ee
+ms.date: 06/08/2017
 ---
 
 

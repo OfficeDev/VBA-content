@@ -3,10 +3,11 @@ title: Document.CustomDocumentProperties Property (Word)
 keywords: vbawd10.chm158007298
 f1_keywords:
 - vbawd10.chm158007298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CustomDocumentProperties
 ms.assetid: 4f8ac449-b9b3-45a0-7962-df7252067e67
+ms.date: 06/08/2017
 ---
 
 

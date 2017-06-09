@@ -3,10 +3,11 @@ title: Hyperlink.ScreenTip Property (Access)
 keywords: vbaac10.chm10119
 f1_keywords:
 - vbaac10.chm10119
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink.ScreenTip
 ms.assetid: b935ea5c-17d8-e3ad-fca2-ef0985daa709
+ms.date: 06/08/2017
 ---
 
 

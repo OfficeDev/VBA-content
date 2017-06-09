@@ -1,9 +1,10 @@
 ---
 title: Point.Explosion Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Explosion
 ms.assetid: de7d81aa-bbee-3af5-f38a-74ff7b11c88e
+ms.date: 06/08/2017
 ---
 
 

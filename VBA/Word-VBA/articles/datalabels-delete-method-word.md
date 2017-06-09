@@ -3,10 +3,11 @@ title: DataLabels.Delete Method (Word)
 keywords: vbawd10.chm207487093
 f1_keywords:
 - vbawd10.chm207487093
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.Delete
 ms.assetid: 53ef4298-dbee-01f9-60c3-721e91302f1f
+ms.date: 06/08/2017
 ---
 
 

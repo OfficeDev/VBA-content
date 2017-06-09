@@ -1,7 +1,8 @@
 ---
 title: Import Outlook Contacts to a Worksheet
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f45979f9-0a3a-4c58-b1fe-ac9d33a2984d
+ms.date: 06/08/2017
 ---
 
 

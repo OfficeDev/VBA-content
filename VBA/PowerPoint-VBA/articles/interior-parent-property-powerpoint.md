@@ -1,9 +1,10 @@
 ---
 title: Interior.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.Parent
 ms.assetid: 485489f4-1729-f6e2-71f2-ad9f9f04cc58
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TabStop.Clear Method (Word)
 keywords: vbawd10.chm156500168
 f1_keywords:
 - vbawd10.chm156500168
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStop.Clear
 ms.assetid: 5337df07-97a5-2dfe-97b3-7277649b4701
+ms.date: 06/08/2017
 ---
 
 

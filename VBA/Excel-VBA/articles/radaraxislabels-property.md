@@ -3,10 +3,11 @@ title: RadarAxisLabels Property
 keywords: vbagr10.chm65680
 f1_keywords:
 - vbagr10.chm65680
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RadarAxisLabels
 ms.assetid: e382e92c-96f2-a9ee-720f-dcb85e5e2e7c
+ms.date: 06/08/2017
 ---
 
 

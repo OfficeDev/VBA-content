@@ -3,10 +3,11 @@ title: IconView.Save Method (Outlook)
 keywords: vbaol11.chm2565
 f1_keywords:
 - vbaol11.chm2565
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Save
 ms.assetid: a3fbd05c-c6f8-b387-d0fd-436c4c1ecc1e
+ms.date: 06/08/2017
 ---
 
 

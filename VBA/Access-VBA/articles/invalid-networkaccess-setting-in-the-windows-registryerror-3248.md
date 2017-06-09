@@ -1,13 +1,14 @@
 ---
 title: Invalid NetworkAccess setting in the Windows Registry. (Error 3248)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c61fb87b-47eb-9644-f4af-5c5676e8c2b8
+ms.date: 06/08/2017
 ---
 
 
 # Invalid NetworkAccess setting in the Windows Registry. (Error 3248)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

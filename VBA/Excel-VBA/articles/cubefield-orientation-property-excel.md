@@ -3,10 +3,11 @@ title: CubeField.Orientation Property (Excel)
 keywords: vbaxl10.chm668077
 f1_keywords:
 - vbaxl10.chm668077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.Orientation
 ms.assetid: b134cefe-7df0-dc9f-0f7d-e93f2cb0e303
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Copy Method, PowerPoint [vbapp10.chm66087]
 keywords: vbapp10.chm66087
 f1_keywords:
 - vbapp10.chm66087
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 55134160-b97e-4db4-bb5e-8117070b3fc6
+ms.date: 06/08/2017
 ---
 
 

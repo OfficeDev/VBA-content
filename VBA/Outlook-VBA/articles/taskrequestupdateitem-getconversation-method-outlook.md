@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.GetConversation Method (Outlook)
 keywords: vbaol11.chm3504
 f1_keywords:
 - vbaol11.chm3504
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.GetConversation
 ms.assetid: d5759937-17c3-0d34-a12a-c43bc7b93d15
+ms.date: 06/08/2017
 ---
 
 

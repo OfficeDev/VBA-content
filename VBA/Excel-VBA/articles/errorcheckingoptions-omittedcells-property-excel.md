@@ -3,10 +3,11 @@ title: ErrorCheckingOptions.OmittedCells Property (Excel)
 keywords: vbaxl10.chm698079
 f1_keywords:
 - vbaxl10.chm698079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.OmittedCells
 ms.assetid: a337da5d-4f02-d24c-c59a-288b4a9c9117
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Paragraphs.OpenUp Method (Word)
 keywords: vbawd10.chm156762414
 f1_keywords:
 - vbawd10.chm156762414
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.OpenUp
 ms.assetid: 0998519f-5fdc-3ac1-488f-03ff179be1c9
+ms.date: 06/08/2017
 ---
 
 

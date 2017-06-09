@@ -3,8 +3,9 @@ title: Text23 Property, Project [vbapj.chm132737]
 keywords: vbapj.chm132737
 f1_keywords:
 - vbapj.chm132737
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1563b8d8-4864-4ed9-9795-b5ecc8bbda8f
+ms.date: 06/08/2017
 ---
 
 

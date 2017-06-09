@@ -3,10 +3,11 @@ title: Axis.Width Property (PowerPoint)
 keywords: vbapp10.chm682040
 f1_keywords:
 - vbapp10.chm682040
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Width
 ms.assetid: a9f618a4-36c4-1e05-8c0c-68edc7608417
+ms.date: 06/08/2017
 ---
 
 

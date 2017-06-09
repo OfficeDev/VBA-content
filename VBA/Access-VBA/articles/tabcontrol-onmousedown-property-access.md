@@ -3,10 +3,11 @@ title: TabControl.OnMouseDown Property (Access)
 keywords: vbaac10.chm12107
 f1_keywords:
 - vbaac10.chm12107
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnMouseDown
 ms.assetid: 034bf4b5-c170-f349-c4aa-d114f0d27caf
+ms.date: 06/08/2017
 ---
 
 

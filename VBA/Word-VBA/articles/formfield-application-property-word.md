@@ -3,10 +3,11 @@ title: FormField.Application Property (Word)
 keywords: vbawd10.chm153617384
 f1_keywords:
 - vbawd10.chm153617384
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Application
 ms.assetid: 480e1c18-7e44-b013-9f91-3d70b709f767
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Tag.Value Property (Publisher)
 keywords: vbapb10.chm4718596
 f1_keywords:
 - vbapb10.chm4718596
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Tag.Value
 ms.assetid: dee3b69b-ae5b-df13-561e-84105057979a
+ms.date: 06/08/2017
 ---
 
 

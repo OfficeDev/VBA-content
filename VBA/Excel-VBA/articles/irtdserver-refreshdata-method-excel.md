@@ -3,10 +3,11 @@ title: IRtdServer.RefreshData Method (Excel)
 keywords: vbaxl10.chm500007
 f1_keywords:
 - vbaxl10.chm500007
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IRtdServer.RefreshData
 ms.assetid: 42a2ad6f-a413-6b09-ca38-3369475e1cd5
+ms.date: 06/08/2017
 ---
 
 

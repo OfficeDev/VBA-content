@@ -3,10 +3,11 @@ title: Timing.Decelerate Property (PowerPoint)
 keywords: vbapp10.chm653011
 f1_keywords:
 - vbapp10.chm653011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.Decelerate
 ms.assetid: 3bf6fc1b-8f14-ef9a-cf70-69a93729f5bf
+ms.date: 06/08/2017
 ---
 
 

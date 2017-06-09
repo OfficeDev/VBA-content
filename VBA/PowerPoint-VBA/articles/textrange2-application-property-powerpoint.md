@@ -1,6 +1,8 @@
 ---
 title: TextRange2.Application Property (PowerPoint)
 ms.assetid: 87be86f1-e5c6-4698-9262-139f7c3e5b44
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

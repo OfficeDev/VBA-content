@@ -3,10 +3,11 @@ title: PivotFields.Count Property (Excel)
 keywords: vbaxl10.chm242074
 f1_keywords:
 - vbaxl10.chm242074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFields.Count
 ms.assetid: 29f23d5a-87f1-1b21-4ee1-665232970e2f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.Creator Property (Word)
 keywords: vbawd10.chm158008297
 f1_keywords:
 - vbawd10.chm158008297
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Creator
 ms.assetid: 0ed9cf75-8bae-ba10-4ba0-12a73ff84c08
+ms.date: 06/08/2017
 ---
 
 

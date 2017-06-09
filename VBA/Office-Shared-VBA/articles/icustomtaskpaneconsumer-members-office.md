@@ -1,7 +1,8 @@
 ---
 title: ICustomTaskPaneConsumer Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 60770e22-c08b-d554-c1f2-89e940031531
+ms.date: 06/08/2017
 ---
 
 

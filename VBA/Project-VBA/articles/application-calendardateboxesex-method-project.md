@@ -3,10 +3,11 @@ title: Application.CalendarDateBoxesEx Method (Project)
 keywords: vbapj.chm2148
 f1_keywords:
 - vbapj.chm2148
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CalendarDateBoxesEx
 ms.assetid: a6c1fffd-ce21-d3ef-348f-1f41b5231005
+ms.date: 06/08/2017
 ---
 
 

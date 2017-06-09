@@ -3,10 +3,11 @@ title: OptionButton.BorderStyle Property (Access)
 keywords: vbaac10.chm10587
 f1_keywords:
 - vbaac10.chm10587
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.BorderStyle
 ms.assetid: 44aa551d-6b08-2e55-21e8-0c7af12e1cc2
+ms.date: 06/08/2017
 ---
 
 

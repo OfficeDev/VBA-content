@@ -1,9 +1,10 @@
 ---
 title: ChartFont.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Creator
 ms.assetid: f913146f-ca9c-d7c3-d2e6-e8cbc3e55256
+ms.date: 06/08/2017
 ---
 
 

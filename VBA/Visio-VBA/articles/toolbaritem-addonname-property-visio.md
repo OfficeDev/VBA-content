@@ -3,10 +3,11 @@ title: ToolbarItem.AddOnName Property (Visio)
 keywords: vis_sdr.chm13513050
 f1_keywords:
 - vis_sdr.chm13513050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.AddOnName
 ms.assetid: 1903a362-b312-06dd-55cf-ab053fd513b1
+ms.date: 06/08/2017
 ---
 
 

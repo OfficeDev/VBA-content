@@ -3,10 +3,11 @@ title: Shape.Section Property (Visio)
 keywords: vis_sdr.chm11214300
 f1_keywords:
 - vis_sdr.chm11214300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Section
 ms.assetid: e87823aa-fd7c-e222-417b-a167d2e0898a
+ms.date: 06/08/2017
 ---
 
 

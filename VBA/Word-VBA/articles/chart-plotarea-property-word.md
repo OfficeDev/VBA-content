@@ -3,10 +3,11 @@ title: Chart.PlotArea Property (Word)
 keywords: vbawd10.chm79364154
 f1_keywords:
 - vbawd10.chm79364154
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.PlotArea
 ms.assetid: 440f7d57-c681-098e-45d6-a2f7aca6de07
+ms.date: 06/08/2017
 ---
 
 

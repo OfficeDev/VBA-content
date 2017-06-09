@@ -3,10 +3,11 @@ title: Application.EditGoTo Method (Project)
 keywords: vbapj.chm213
 f1_keywords:
 - vbapj.chm213
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditGoTo
 ms.assetid: cd2c886b-fddf-d7b8-8f16-51a3af5f0005
+ms.date: 06/08/2017
 ---
 
 

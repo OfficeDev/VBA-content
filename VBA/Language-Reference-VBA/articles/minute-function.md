@@ -3,8 +3,9 @@ title: Minute Function
 keywords: vblr6.chm1008974
 f1_keywords:
 - vblr6.chm1008974
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 47b5924f-41cf-9c25-68df-3932f0d77f8b
+ms.date: 06/08/2017
 ---
 
 

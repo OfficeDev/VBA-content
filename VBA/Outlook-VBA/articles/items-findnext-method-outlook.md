@@ -3,10 +3,11 @@ title: Items.FindNext Method (Outlook)
 keywords: vbaol11.chm63
 f1_keywords:
 - vbaol11.chm63
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.FindNext
 ms.assetid: 2530f640-e024-3567-f539-6bdbf645401d
+ms.date: 06/08/2017
 ---
 
 

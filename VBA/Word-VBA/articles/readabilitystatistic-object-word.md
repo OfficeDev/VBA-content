@@ -3,10 +3,11 @@ title: ReadabilityStatistic Object (Word)
 keywords: vbawd10.chm2479
 f1_keywords:
 - vbawd10.chm2479
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReadabilityStatistic
 ms.assetid: 5e82c44d-fc6d-9586-816b-0c46c4a01f3b
+ms.date: 06/08/2017
 ---
 
 

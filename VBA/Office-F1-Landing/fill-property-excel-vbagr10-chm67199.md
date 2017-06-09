@@ -3,8 +3,9 @@ title: Fill Property, Excel [vbagr10.chm67199]
 keywords: vbagr10.chm67199
 f1_keywords:
 - vbagr10.chm67199
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 90561db2-0a7b-432a-a77c-f15d020ee67a
+ms.date: 06/08/2017
 ---
 
 

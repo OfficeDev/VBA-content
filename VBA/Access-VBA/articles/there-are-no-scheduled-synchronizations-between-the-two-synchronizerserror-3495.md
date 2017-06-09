@@ -3,14 +3,15 @@ title: There are no scheduled synchronizations between the two Synchronizers. (E
 keywords: jeterr40.chm5003495
 f1_keywords:
 - jeterr40.chm5003495
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5bf1f991-391b-805e-83bb-8ecbd8a54ddf
+ms.date: 06/08/2017
 ---
 
 
 # There are no scheduled synchronizations between the two Synchronizers. (Error 3495)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: XMLSchemaReferences.Application Property (Word)
 keywords: vbawd10.chm116130792
 f1_keywords:
 - vbawd10.chm116130792
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.Application
 ms.assetid: 2b9b66ce-ac3b-b4eb-07d5-9a2300542f6d
+ms.date: 06/08/2017
 ---
 
 

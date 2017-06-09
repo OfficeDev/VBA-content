@@ -3,8 +3,9 @@ title: Environ Function, Office Shared [vblr6.chm1013096]
 keywords: vblr6.chm1013096
 f1_keywords:
 - vblr6.chm1013096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec52284f-9619-4c38-915c-81185ab27941
+ms.date: 06/08/2017
 ---
 
 

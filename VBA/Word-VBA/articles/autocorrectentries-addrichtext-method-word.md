@@ -3,10 +3,11 @@ title: AutoCorrectEntries.AddRichText Method (Word)
 keywords: vbawd10.chm155713638
 f1_keywords:
 - vbawd10.chm155713638
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntries.AddRichText
 ms.assetid: e03f37ca-1011-825f-5a79-29a23f2371f0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The database you are attempting to open is already in use by another appl
 keywords: jeterr40.chm5003576
 f1_keywords:
 - jeterr40.chm5003576
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 26fa6f8a-ae2e-dd7b-f7f3-fc598db8dc75
+ms.date: 06/08/2017
 ---
 
 
 # The database you are attempting to open is already in use by another application. (Error 3576)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

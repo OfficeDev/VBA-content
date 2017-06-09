@@ -3,10 +3,11 @@ title: SubForm.VerticalAnchor Property (Access)
 keywords: vbaac10.chm11980
 f1_keywords:
 - vbaac10.chm11980
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.VerticalAnchor
 ms.assetid: d429b552-298e-1a0c-0485-4ef8b8e60c7f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.HasMinorGridlines Property (Word)
 keywords: vbawd10.chm113049613
 f1_keywords:
 - vbawd10.chm113049613
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.HasMinorGridlines
 ms.assetid: f835dab5-1256-bd4c-0219-2e3016120d18
+ms.date: 06/08/2017
 ---
 
 

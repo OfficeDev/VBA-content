@@ -3,10 +3,11 @@ title: Page Object
 keywords: fm20.chm2000590
 f1_keywords:
 - fm20.chm2000590
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Page
 ms.assetid: 889faad0-d2ce-b404-a603-2a491c27df23
+ms.date: 06/08/2017
 ---
 
 

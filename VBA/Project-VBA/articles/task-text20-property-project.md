@@ -1,9 +1,10 @@
 ---
 title: Task.Text20 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text20
 ms.assetid: d8d135de-4722-40d1-61ef-26bb5ac76738
+ms.date: 06/08/2017
 ---
 
 

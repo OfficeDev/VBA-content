@@ -3,10 +3,11 @@ title: Selection.Fields Property (Word)
 keywords: vbawd10.chm158662720
 f1_keywords:
 - vbawd10.chm158662720
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Fields
 ms.assetid: 15060502-c0cf-1c94-93ba-0db0bb045c66
+ms.date: 06/08/2017
 ---
 
 

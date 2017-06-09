@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.OutlookInternalVersion Property (Outlook)
 keywords: vbaol11.chm1939
 f1_keywords:
 - vbaol11.chm1939
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.OutlookInternalVersion
 ms.assetid: 28a1edc4-bbe3-a1b3-ce98-ff2847f19d31
+ms.date: 06/08/2017
 ---
 
 

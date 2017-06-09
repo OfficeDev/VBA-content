@@ -3,8 +3,9 @@ title: TabStrip Control, Office Shared [fm20.chm5224987]
 keywords: fm20.chm5224987
 f1_keywords:
 - fm20.chm5224987
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e4bb03d8-2fe0-43c0-9916-ac1b61824251
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Paragraphs.OpenOrCloseUp Method (Word)
 keywords: vbawd10.chm156762415
 f1_keywords:
 - vbawd10.chm156762415
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.OpenOrCloseUp
 ms.assetid: b8531067-8c4a-e3aa-2561-aae4c20d7abf
+ms.date: 06/08/2017
 ---
 
 

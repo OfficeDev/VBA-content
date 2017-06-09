@@ -3,10 +3,11 @@ title: Options.AutoFormatReplaceHyperlinks Property (Word)
 keywords: vbawd10.chm162988305
 f1_keywords:
 - vbawd10.chm162988305
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatReplaceHyperlinks
 ms.assetid: affbc523-15c2-e029-22a7-a08c5d8c8410
+ms.date: 06/08/2017
 ---
 
 

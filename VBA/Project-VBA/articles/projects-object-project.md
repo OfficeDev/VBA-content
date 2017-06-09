@@ -3,8 +3,9 @@ title: Projects Object (Project)
 keywords: vbapj.chm131311
 f1_keywords:
 - vbapj.chm131311
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 5a254428-f50d-e74f-dd31-5cdb260a4364
+ms.date: 06/08/2017
 ---
 
 

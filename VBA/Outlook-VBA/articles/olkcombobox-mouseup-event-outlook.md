@@ -3,10 +3,11 @@ title: OlkComboBox.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000239
 f1_keywords:
 - vbaol11.chm1000239
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MouseUp
 ms.assetid: 6ed2b75b-10e7-48a1-6cf6-8a6ec98ec923
+ms.date: 06/08/2017
 ---
 
 

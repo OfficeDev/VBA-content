@@ -3,14 +3,15 @@ title: ALTER (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5278863
 f1_keywords:
 - jetsql40.chm5278863
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: abfeae35-9807-d23d-c2f6-bc826131c81f
+ms.date: 06/08/2017
 ---
 
 
 # ALTER (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

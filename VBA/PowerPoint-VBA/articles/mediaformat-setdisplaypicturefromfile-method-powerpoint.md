@@ -3,10 +3,11 @@ title: MediaFormat.SetDisplayPictureFromFile Method (PowerPoint)
 keywords: vbapp10.chm724012
 f1_keywords:
 - vbapp10.chm724012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.SetDisplayPictureFromFile
 ms.assetid: eef58c6f-99a9-6f2e-437f-74801498e600
+ms.date: 06/08/2017
 ---
 
 

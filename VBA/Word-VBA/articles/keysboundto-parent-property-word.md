@@ -3,10 +3,11 @@ title: KeysBoundTo.Parent Property (Word)
 keywords: vbawd10.chm160891882
 f1_keywords:
 - vbawd10.chm160891882
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeysBoundTo.Parent
 ms.assetid: 7b432b64-df2a-0440-f1d3-b28ba9f954bf
+ms.date: 06/08/2017
 ---
 
 

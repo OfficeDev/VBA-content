@@ -3,14 +3,15 @@ title: Invalid SQL syntax - expected a view name. (Error 3780)
 keywords: jeterr40.chm5003780
 f1_keywords:
 - jeterr40.chm5003780
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b6a7b58b-d98e-98ab-e8e2-5bfa296ad74f
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL syntax - expected a view name. (Error 3780)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

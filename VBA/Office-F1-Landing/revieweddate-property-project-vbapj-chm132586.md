@@ -3,8 +3,9 @@ title: ReviewedDate Property, Project [vbapj.chm132586]
 keywords: vbapj.chm132586
 f1_keywords:
 - vbapj.chm132586
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2259ee5-0c16-4b1b-b7b5-4a050f29a012
+ms.date: 06/08/2017
 ---
 
 

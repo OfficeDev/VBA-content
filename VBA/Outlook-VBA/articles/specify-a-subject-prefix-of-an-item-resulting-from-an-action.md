@@ -1,7 +1,8 @@
 ---
 title: Specify a Subject Prefix of an Item Resulting from an Action
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a293f15e-ef68-84fe-2ef6-9badbfb9b194
+ms.date: 06/08/2017
 ---
 
 

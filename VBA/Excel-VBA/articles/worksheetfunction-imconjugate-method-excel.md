@@ -3,10 +3,11 @@ title: WorksheetFunction.ImConjugate Method (Excel)
 keywords: vbaxl10.chm137285
 f1_keywords:
 - vbaxl10.chm137285
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImConjugate
 ms.assetid: 4c9f9f16-30a1-4e1b-3b18-a495e13ec0f7
+ms.date: 06/08/2017
 ---
 
 

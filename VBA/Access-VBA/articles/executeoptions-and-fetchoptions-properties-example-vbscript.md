@@ -1,13 +1,14 @@
 ---
 title: ExecuteOptions and FetchOptions Properties Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 54a1decc-d774-9521-5808-0fcb4294facb
+ms.date: 06/08/2017
 ---
 
 
 # ExecuteOptions and FetchOptions Properties Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

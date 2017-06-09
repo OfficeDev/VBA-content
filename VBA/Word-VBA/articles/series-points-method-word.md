@@ -3,10 +3,11 @@ title: Series.Points Method (Word)
 keywords: vbawd10.chm123732038
 f1_keywords:
 - vbawd10.chm123732038
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Points
 ms.assetid: 31f5763b-fdb9-de54-aff7-6fb3dc540a53
+ms.date: 06/08/2017
 ---
 
 

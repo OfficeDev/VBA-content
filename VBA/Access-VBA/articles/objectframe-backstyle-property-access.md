@@ -3,10 +3,11 @@ title: ObjectFrame.BackStyle Property (Access)
 keywords: vbaac10.chm11592
 f1_keywords:
 - vbaac10.chm11592
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.BackStyle
 ms.assetid: 4d8a384b-e796-30b2-4ce1-ce172e58b431
+ms.date: 06/08/2017
 ---
 
 

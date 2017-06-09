@@ -3,10 +3,11 @@ title: CommandButton.OnKeyDown Property (Access)
 keywords: vbaac10.chm10502
 f1_keywords:
 - vbaac10.chm10502
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnKeyDown
 ms.assetid: 33945139-f404-ea8a-577e-2a3623f52cb3
+ms.date: 06/08/2017
 ---
 
 

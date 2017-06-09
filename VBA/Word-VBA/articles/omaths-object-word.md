@@ -3,10 +3,11 @@ title: OMaths Object (Word)
 keywords: vbawd10.chm1867
 f1_keywords:
 - vbawd10.chm1867
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMaths
 ms.assetid: 5e185b0f-b0c9-16f8-3056-c1114dadd3e0
+ms.date: 06/08/2017
 ---
 
 

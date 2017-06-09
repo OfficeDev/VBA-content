@@ -3,10 +3,11 @@ title: Document.NoLineBreakAfter Property (Word)
 keywords: vbawd10.chm158007609
 f1_keywords:
 - vbawd10.chm158007609
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.NoLineBreakAfter
 ms.assetid: 287a9e9e-355e-3faf-d7fb-ee68bb0e6568
+ms.date: 06/08/2017
 ---
 
 

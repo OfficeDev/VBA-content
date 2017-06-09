@@ -3,10 +3,11 @@ title: System.Cursor Property (Word)
 keywords: vbawd10.chm154468368
 f1_keywords:
 - vbawd10.chm154468368
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Cursor
 ms.assetid: f4acf757-920f-f389-948e-e2a142d451b0
+ms.date: 06/08/2017
 ---
 
 

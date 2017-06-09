@@ -3,10 +3,11 @@ title: Presentation.Parent Property (PowerPoint)
 keywords: vbapp10.chm583002
 f1_keywords:
 - vbapp10.chm583002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Parent
 ms.assetid: 0560e735-f21a-6ed3-55c6-06e025032fcb
+ms.date: 06/08/2017
 ---
 
 

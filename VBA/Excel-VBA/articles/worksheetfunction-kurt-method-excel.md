@@ -3,10 +3,11 @@ title: WorksheetFunction.Kurt Method (Excel)
 keywords: vbaxl10.chm137226
 f1_keywords:
 - vbaxl10.chm137226
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Kurt
 ms.assetid: 46ff116f-9d74-e59c-d238-4a3c6d55677a
+ms.date: 06/08/2017
 ---
 
 

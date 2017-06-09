@@ -3,14 +3,15 @@ title: There are several tables with that name. Please specify owner in the form
 keywords: jeterr40.chm5003298
 f1_keywords:
 - jeterr40.chm5003298
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 62348518-5729-f6b2-6c46-bca33d975ef0
+ms.date: 06/08/2017
 ---
 
 
 # There are several tables with that name. Please specify owner in the format 'owner.table'. (Error 3298)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

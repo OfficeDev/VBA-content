@@ -3,10 +3,11 @@ title: NavigationButton.OnKeyUp Property (Access)
 keywords: vbaac10.chm10503
 f1_keywords:
 - vbaac10.chm10503
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnKeyUp
 ms.assetid: 4239b8d8-6d38-3406-1a56-994a4dba778f
+ms.date: 06/08/2017
 ---
 
 

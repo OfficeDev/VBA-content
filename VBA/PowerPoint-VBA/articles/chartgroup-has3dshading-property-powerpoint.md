@@ -3,10 +3,11 @@ title: ChartGroup.Has3DShading Property (PowerPoint)
 keywords: vbapp10.chm692005
 f1_keywords:
 - vbapp10.chm692005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Has3DShading
 ms.assetid: 6276bf7a-9d21-9eda-6ad9-6153c9a74948
+ms.date: 06/08/2017
 ---
 
 

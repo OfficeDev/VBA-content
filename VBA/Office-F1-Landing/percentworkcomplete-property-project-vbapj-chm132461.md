@@ -3,8 +3,9 @@ title: PercentWorkComplete Property, Project [vbapj.chm132461]
 keywords: vbapj.chm132461
 f1_keywords:
 - vbapj.chm132461
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cff5df6e-e79b-4589-b698-9a2ecf479025
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PlotArea.Position Property (Word)
 keywords: vbawd10.chm53479047
 f1_keywords:
 - vbawd10.chm53479047
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Position
 ms.assetid: 2556f373-2926-a485-76d6-8f026d408c30
+ms.date: 06/08/2017
 ---
 
 

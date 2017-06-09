@@ -3,10 +3,11 @@ title: Document.TrackRevisions Property (Word)
 keywords: vbawd10.chm158007610
 f1_keywords:
 - vbawd10.chm158007610
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TrackRevisions
 ms.assetid: c6ff8462-805d-2494-cebb-ace6fe536f40
+ms.date: 06/08/2017
 ---
 
 

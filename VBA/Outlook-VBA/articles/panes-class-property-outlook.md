@@ -3,10 +3,11 @@ title: Panes.Class Property (Outlook)
 keywords: vbaol11.chm75
 f1_keywords:
 - vbaol11.chm75
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Panes.Class
 ms.assetid: fd3f1c08-c898-ac07-555a-63a75e20d8ce
+ms.date: 06/08/2017
 ---
 
 

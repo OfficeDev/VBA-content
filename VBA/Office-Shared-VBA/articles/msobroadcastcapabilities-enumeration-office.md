@@ -1,6 +1,8 @@
 ---
 title: MsoBroadcastCapabilities Enumeration (Office)
 ms.assetid: 445ff0f7-fcb1-d65a-b055-189c268e2076
+ms.date: 06/08/2017
+ms.prod: office
 ---
 
 

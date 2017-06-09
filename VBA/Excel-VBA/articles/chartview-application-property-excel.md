@@ -3,10 +3,11 @@ title: ChartView.Application Property (Excel)
 keywords: vbaxl10.chm780073
 f1_keywords:
 - vbaxl10.chm780073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartView.Application
 ms.assetid: cb539c0b-1540-fe85-865a-13448a452e79
+ms.date: 06/08/2017
 ---
 
 

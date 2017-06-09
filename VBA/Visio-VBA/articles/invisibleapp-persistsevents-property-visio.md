@@ -3,10 +3,11 @@ title: InvisibleApp.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm17514080
 f1_keywords:
 - vis_sdr.chm17514080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PersistsEvents
 ms.assetid: f6e50c60-2e89-3c25-5fb9-8161b3874d91
+ms.date: 06/08/2017
 ---
 
 

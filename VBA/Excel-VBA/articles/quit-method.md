@@ -3,10 +3,11 @@ title: Quit Method
 keywords: vbagr10.chm5207837
 f1_keywords:
 - vbagr10.chm5207837
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Quit
 ms.assetid: 8195f39e-d12e-3189-f324-1d8e0b5e3463
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WebPageOptions.Description Property (Publisher)
 keywords: vbapb10.chm544771
 f1_keywords:
 - vbapb10.chm544771
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.Description
 ms.assetid: dfd18427-c70d-7232-191e-a6332a89c3fe
+ms.date: 06/08/2017
 ---
 
 

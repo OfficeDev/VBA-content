@@ -3,10 +3,11 @@ title: Hyperlinks.Creator Property (Word)
 keywords: vbawd10.chm161219561
 f1_keywords:
 - vbawd10.chm161219561
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlinks.Creator
 ms.assetid: 6ba3b06b-38e3-36a0-c8f9-2c481fedf112
+ms.date: 06/08/2017
 ---
 
 

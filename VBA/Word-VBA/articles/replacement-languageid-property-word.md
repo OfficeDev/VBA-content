@@ -3,10 +3,11 @@ title: Replacement.LanguageID Property (Word)
 keywords: vbawd10.chm162594832
 f1_keywords:
 - vbawd10.chm162594832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.LanguageID
 ms.assetid: a5dc1ef5-f195-7b8c-52c4-1cb8984e6cbd
+ms.date: 06/08/2017
 ---
 
 

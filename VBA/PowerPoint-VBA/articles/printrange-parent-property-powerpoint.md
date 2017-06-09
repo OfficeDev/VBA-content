@@ -3,10 +3,11 @@ title: PrintRange.Parent Property (PowerPoint)
 keywords: vbapp10.chm519002
 f1_keywords:
 - vbapp10.chm519002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRange.Parent
 ms.assetid: bdf7de95-8cea-be3b-6554-e7d68a7992d9
+ms.date: 06/08/2017
 ---
 
 

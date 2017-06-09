@@ -3,8 +3,9 @@ title: Year Object, Project [vbapj.chm131354]
 keywords: vbapj.chm131354
 f1_keywords:
 - vbapj.chm131354
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2888d1d7-ab53-4e8c-b833-a44562675d61
+ms.date: 06/08/2017
 ---
 
 

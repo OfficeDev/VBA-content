@@ -3,10 +3,11 @@ title: ComboBox.RightPadding Property (Access)
 keywords: vbaac10.chm11483
 f1_keywords:
 - vbaac10.chm11483
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.RightPadding
 ms.assetid: 71089377-d206-24b0-be15-aca3e7f33c2e
+ms.date: 06/08/2017
 ---
 
 

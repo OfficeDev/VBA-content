@@ -3,10 +3,11 @@ title: ListEntry.Parent Property (Word)
 keywords: vbawd10.chm153289706
 f1_keywords:
 - vbawd10.chm153289706
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntry.Parent
 ms.assetid: 80dbb906-164d-81d6-9f66-4f84c047e44a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: CountOfLines Property (VBA Add-In Object Model)
 keywords: vbob6.chm1071210
 f1_keywords:
 - vbob6.chm1071210
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ae9bed01-4961-4df4-9855-d61c6099f8a5
+ms.date: 06/08/2017
 ---
 
 

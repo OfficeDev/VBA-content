@@ -3,10 +3,11 @@ title: Effect.Index Property (PowerPoint)
 keywords: vbapp10.chm652008
 f1_keywords:
 - vbapp10.chm652008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Index
 ms.assetid: 1eac9295-e24c-c31e-3cd6-ace59f5ac04a
+ms.date: 06/08/2017
 ---
 
 

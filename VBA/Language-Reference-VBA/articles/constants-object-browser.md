@@ -1,7 +1,8 @@
 ---
 title: Constants (Object Browser)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c7dd14e-fd28-3546-1002-3105d21e641a
+ms.date: 06/08/2017
 ---
 
 

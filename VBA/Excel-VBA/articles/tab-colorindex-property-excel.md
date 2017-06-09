@@ -3,10 +3,11 @@ title: Tab.ColorIndex Property (Excel)
 keywords: vbaxl10.chm723074
 f1_keywords:
 - vbaxl10.chm723074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Tab.ColorIndex
 ms.assetid: 4c257c58-613e-dbc9-095f-3609feffe64c
+ms.date: 06/08/2017
 ---
 
 

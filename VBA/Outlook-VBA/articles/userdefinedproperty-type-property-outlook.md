@@ -3,10 +3,11 @@ title: UserDefinedProperty.Type Property (Outlook)
 keywords: vbaol11.chm7
 f1_keywords:
 - vbaol11.chm7
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperty.Type
 ms.assetid: 94895d2b-7b3e-e455-3b58-58abd8279c10
+ms.date: 06/08/2017
 ---
 
 

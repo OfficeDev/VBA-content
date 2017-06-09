@@ -3,8 +3,9 @@ title: Line Control, Access [vbaac10.chm13594]
 keywords: vbaac10.chm13594
 f1_keywords:
 - vbaac10.chm13594
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6702b0ec-cd63-4ae1-a1b2-df3c15b97f59
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Categories Object (Outlook)
 keywords: vbaol11.chm3178
 f1_keywords:
 - vbaol11.chm3178
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories
 ms.assetid: 319efa26-269d-9f2f-c8ec-33082e80a9e2
+ms.date: 06/08/2017
 ---
 
 

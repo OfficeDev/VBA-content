@@ -3,10 +3,11 @@ title: OutlookBarShortcuts.Application Property (Outlook)
 keywords: vbaol11.chm329
 f1_keywords:
 - vbaol11.chm329
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.Application
 ms.assetid: e9178112-f2f6-f1fd-e586-89906d3a0130
+ms.date: 06/08/2017
 ---
 
 

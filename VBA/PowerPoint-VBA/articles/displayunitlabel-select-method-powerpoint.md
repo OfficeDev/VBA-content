@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Select Method (PowerPoint)
 keywords: vbapp10.chm699018
 f1_keywords:
 - vbapp10.chm699018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Select
 ms.assetid: 57d04445-065f-99eb-5333-724ce3285e6b
+ms.date: 06/08/2017
 ---
 
 

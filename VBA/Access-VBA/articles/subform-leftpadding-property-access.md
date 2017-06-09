@@ -3,10 +3,11 @@ title: SubForm.LeftPadding Property (Access)
 keywords: vbaac10.chm11966
 f1_keywords:
 - vbaac10.chm11966
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.LeftPadding
 ms.assetid: 53c258c9-9a8d-5b12-a2be-a4649f1092cb
+ms.date: 06/08/2017
 ---
 
 

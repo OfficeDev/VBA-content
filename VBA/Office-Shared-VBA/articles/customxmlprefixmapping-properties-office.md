@@ -1,7 +1,8 @@
 ---
 title: CustomXMLPrefixMapping Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dd32707f-2a85-412a-b235-ceafce509d8a
+ms.date: 06/08/2017
 ---
 
 

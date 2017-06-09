@@ -3,10 +3,11 @@ title: Documents.Open Method (Visio)
 keywords: vis_sdr.chm10616395
 f1_keywords:
 - vis_sdr.chm10616395
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.Open
 ms.assetid: 0d5e3c3f-d1bc-c7d8-0167-bb9514ede0e3
+ms.date: 06/08/2017
 ---
 
 

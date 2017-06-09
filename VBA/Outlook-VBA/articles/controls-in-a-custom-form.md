@@ -1,7 +1,8 @@
 ---
 title: Controls in a Custom Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fcba1b34-c526-5d01-8644-cb8852bd2348
+ms.date: 06/08/2017
 ---
 
 

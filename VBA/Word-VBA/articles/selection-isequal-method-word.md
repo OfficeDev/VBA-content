@@ -3,10 +3,11 @@ title: Selection.IsEqual Method (Word)
 keywords: vbawd10.chm158662827
 f1_keywords:
 - vbawd10.chm158662827
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.IsEqual
 ms.assetid: 57ca55bc-17cf-054c-81dd-aa6d1e536cd8
+ms.date: 06/08/2017
 ---
 
 

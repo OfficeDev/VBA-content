@@ -3,10 +3,11 @@ title: CalculatedItems.Add Method (Excel)
 keywords: vbaxl10.chm250078
 f1_keywords:
 - vbaxl10.chm250078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Add
 ms.assetid: 2a7dff2b-c874-1579-1e95-78841a91e6cd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Orientation Property (Excel)
 keywords: vbaxl10.chm673084
 f1_keywords:
 - vbaxl10.chm673084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Orientation
 ms.assetid: 63e9661b-fbfb-b77a-d159-70717a4fb489
+ms.date: 06/08/2017
 ---
 
 

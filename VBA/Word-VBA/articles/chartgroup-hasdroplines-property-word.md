@@ -3,10 +3,11 @@ title: ChartGroup.HasDropLines Property (Word)
 keywords: vbawd10.chm263454730
 f1_keywords:
 - vbawd10.chm263454730
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.HasDropLines
 ms.assetid: 34743dd3-73f6-d125-a240-23984d31fa47
+ms.date: 06/08/2017
 ---
 
 

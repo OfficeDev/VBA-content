@@ -1,9 +1,10 @@
 ---
 title: AppointmentItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.CustomAction
 ms.assetid: bd16129d-d9e3-2953-2ccb-116eadd5bbaa
+ms.date: 06/08/2017
 ---
 
 

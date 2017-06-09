@@ -3,10 +3,11 @@ title: GetExtensionName Method
 keywords: vblr6.chm2182052
 f1_keywords:
 - vblr6.chm2182052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GetExtensionName
 ms.assetid: 0fa9da71-7938-c50c-6fed-8a23d6a680d1
+ms.date: 06/08/2017
 ---
 
 

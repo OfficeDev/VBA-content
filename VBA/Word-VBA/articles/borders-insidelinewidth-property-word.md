@@ -3,10 +3,11 @@ title: Borders.InsideLineWidth Property (Word)
 keywords: vbawd10.chm154927112
 f1_keywords:
 - vbawd10.chm154927112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.InsideLineWidth
 ms.assetid: 7feabfc0-cb32-8b56-5f23-3db9c9dadc89
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: SchemeColor Property, Excel [vbagr10.chm67182]
 keywords: vbagr10.chm67182
 f1_keywords:
 - vbagr10.chm67182
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e71d8709-53ba-447f-92e3-0b91ee79fbf2
+ms.date: 06/08/2017
 ---
 
 

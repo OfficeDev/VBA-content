@@ -3,10 +3,11 @@ title: JournalItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm1284
 f1_keywords:
 - vbaol11.chm1284
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.MarkForDownload
 ms.assetid: 4fae4f9a-00ac-71d9-0d72-83209c475bf0
+ms.date: 06/08/2017
 ---
 
 

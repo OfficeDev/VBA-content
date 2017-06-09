@@ -3,8 +3,9 @@ title: LTrim, RTrim, and Trim Functions, Office Shared [vblr6.chm1011366]
 keywords: vblr6.chm1011366
 f1_keywords:
 - vblr6.chm1011366
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4dd0f978-30da-4261-89a1-e4eb302de167
+ms.date: 06/08/2017
 ---
 
 

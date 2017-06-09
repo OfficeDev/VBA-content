@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.ConvertToGroupCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.ConvertToGroupCanceled
 ms.assetid: de4c6838-62dd-c983-3677-a8598c09edeb
+ms.date: 06/08/2017
 ---
 
 

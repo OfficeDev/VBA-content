@@ -3,10 +3,11 @@ title: Form.BeforeScreenTip Event (Access)
 keywords: vbaac10.chm13678
 f1_keywords:
 - vbaac10.chm13678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeScreenTip
 ms.assetid: 08e67747-9023-e880-c246-1aa9e9c447ed
+ms.date: 06/08/2017
 ---
 
 

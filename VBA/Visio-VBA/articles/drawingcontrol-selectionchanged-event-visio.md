@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.SelectionChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.SelectionChanged
 ms.assetid: c655fa19-1e2b-8602-455e-34f6252386d2
+ms.date: 06/08/2017
 ---
 
 

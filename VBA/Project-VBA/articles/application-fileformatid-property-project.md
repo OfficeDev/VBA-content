@@ -3,10 +3,11 @@ title: Application.FileFormatID Property (Project)
 keywords: vbapj.chm131218
 f1_keywords:
 - vbapj.chm131218
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileFormatID
 ms.assetid: 86a6a5ce-6508-f1ad-b9cc-fb86fd96e410
+ms.date: 06/08/2017
 ---
 
 

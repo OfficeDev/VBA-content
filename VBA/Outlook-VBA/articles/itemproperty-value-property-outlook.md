@@ -3,10 +3,11 @@ title: ItemProperty.Value Property (Outlook)
 keywords: vbaol11.chm527
 f1_keywords:
 - vbaol11.chm527
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperty.Value
 ms.assetid: 81144bd5-15d5-a233-6001-f8c80392850f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The file name you provided is too long. (Error 3549)
 keywords: jeterr40.chm5003549
 f1_keywords:
 - jeterr40.chm5003549
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 034441a2-6d90-edf3-b3bc-f87457068569
+ms.date: 06/08/2017
 ---
 
 
 # The file name you provided is too long. (Error 3549)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

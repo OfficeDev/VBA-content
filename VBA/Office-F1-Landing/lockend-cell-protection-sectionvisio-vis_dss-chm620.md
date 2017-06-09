@@ -3,8 +3,9 @@ title: LockEnd Cell (Protection Section), Visio [Vis_DSS.chm620]
 keywords: vis_dss.chm620
 f1_keywords:
 - vis_dss.chm620
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8abc8f42-efae-4891-b9d0-0dfd9033398c
+ms.date: 06/08/2017
 ---
 
 

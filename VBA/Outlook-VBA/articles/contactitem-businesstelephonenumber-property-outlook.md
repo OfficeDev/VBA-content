@@ -3,10 +3,11 @@ title: ContactItem.BusinessTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm979
 f1_keywords:
 - vbaol11.chm979
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessTelephoneNumber
 ms.assetid: 6c30e792-f5d6-bdd3-1b01-ca9a5bf27b44
+ms.date: 06/08/2017
 ---
 
 

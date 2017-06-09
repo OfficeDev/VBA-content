@@ -3,14 +3,15 @@ title: Syntax error (missing operator). (Error 2434)
 keywords: jeterr40.chm5002434
 f1_keywords:
 - jeterr40.chm5002434
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ea473f14-d4f0-b66b-cf48-d8fe13851d6d
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error (missing operator). (Error 2434)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

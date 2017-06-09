@@ -3,10 +3,11 @@ title: Application.TraceFlags Property (Visio)
 keywords: vis_sdr.chm10014590
 f1_keywords:
 - vis_sdr.chm10014590
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.TraceFlags
 ms.assetid: aae7879a-7f21-f16e-cfcc-2520c70af7e7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OMathRad.Deg Property (Word)
 keywords: vbawd10.chm247791719
 f1_keywords:
 - vbawd10.chm247791719
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRad.Deg
 ms.assetid: d048868e-ef7d-ad7e-9eda-22a06fe666e5
+ms.date: 06/08/2017
 ---
 
 

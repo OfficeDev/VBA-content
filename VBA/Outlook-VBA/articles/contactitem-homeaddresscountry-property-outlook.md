@@ -3,10 +3,11 @@ title: ContactItem.HomeAddressCountry Property (Outlook)
 keywords: vbaol11.chm1014
 f1_keywords:
 - vbaol11.chm1014
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddressCountry
 ms.assetid: a3e1f178-c01c-e7df-ee4e-fc82f89915f0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TaskItem.CardData Property (Outlook)
 keywords: vbaol11.chm1721
 f1_keywords:
 - vbaol11.chm1721
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.CardData
 ms.assetid: d057d3e6-72c6-01d1-5e1b-37f9ee82cc06
+ms.date: 06/08/2017
 ---
 
 

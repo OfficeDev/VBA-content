@@ -3,10 +3,11 @@ title: TwoColorGradient Method
 keywords: vbagr10.chm3077636
 f1_keywords:
 - vbagr10.chm3077636
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TwoColorGradient
 ms.assetid: c42ec02c-41a2-ffc4-3d23-20a952b3de7b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: HasDropLines Property, Excel [vbagr10.chm65597]
 keywords: vbagr10.chm65597
 f1_keywords:
 - vbagr10.chm65597
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4ec382cd-13c2-45c9-b65f-26800ac85f43
+ms.date: 06/08/2017
 ---
 
 

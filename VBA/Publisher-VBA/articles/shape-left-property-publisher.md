@@ -3,10 +3,11 @@ title: Shape.Left Property (Publisher)
 keywords: vbapb10.chm2228289
 f1_keywords:
 - vbapb10.chm2228289
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Left
 ms.assetid: 275f5af9-9812-2a6b-bba3-704d4a7f5601
+ms.date: 06/08/2017
 ---
 
 

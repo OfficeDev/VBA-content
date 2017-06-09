@@ -1,9 +1,10 @@
 ---
 title: VisWebPageSettings.PropControl Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.PropControl
 ms.assetid: 615e5038-d84d-9527-6987-95f289da77d9
+ms.date: 06/08/2017
 ---
 
 

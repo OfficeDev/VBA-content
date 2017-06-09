@@ -3,10 +3,11 @@ title: OlkComboBox.SetItem Method (Outlook)
 keywords: vbaol11.chm1000225
 f1_keywords:
 - vbaol11.chm1000225
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.SetItem
 ms.assetid: 00cc1630-1423-5244-557b-acb2861401bf
+ms.date: 06/08/2017
 ---
 
 

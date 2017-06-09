@@ -3,10 +3,11 @@ title: BusinessCardView.Save Method (Outlook)
 keywords: vbaol11.chm2925
 f1_keywords:
 - vbaol11.chm2925
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Save
 ms.assetid: 9d3d85b7-4ed1-fea3-abb1-7506a0851b50
+ms.date: 06/08/2017
 ---
 
 

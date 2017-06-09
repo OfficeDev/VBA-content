@@ -3,10 +3,11 @@ title: Shapes.BuildFreeform Method (Word)
 keywords: vbawd10.chm161415188
 f1_keywords:
 - vbawd10.chm161415188
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.BuildFreeform
 ms.assetid: 760fe720-3fbc-16a1-c5b3-b78502dbf670
+ms.date: 06/08/2017
 ---
 
 

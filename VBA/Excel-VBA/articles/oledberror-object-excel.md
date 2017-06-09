@@ -3,10 +3,11 @@ title: OLEDBError Object (Excel)
 keywords: vbaxl10.chm653072
 f1_keywords:
 - vbaxl10.chm653072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBError
 ms.assetid: 6bcbf721-f2c8-f784-361b-e1a298bb2ecb
+ms.date: 06/08/2017
 ---
 
 

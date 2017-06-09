@@ -3,10 +3,11 @@ title: Report.Error Event (Access)
 keywords: vbaac10.chm13880
 f1_keywords:
 - vbaac10.chm13880
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Error
 ms.assetid: 06d88711-df19-6453-a7ce-095d3d02674f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.Exit Event (Outlook)
 keywords: vbaol11.chm1000522
 f1_keywords:
 - vbaol11.chm1000522
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Exit
 ms.assetid: da5616c5-97da-6049-4115-5a41d4e28c7b
+ms.date: 06/08/2017
 ---
 
 

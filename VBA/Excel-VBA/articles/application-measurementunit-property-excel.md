@@ -3,10 +3,11 @@ title: Application.MeasurementUnit Property (Excel)
 keywords: vbaxl10.chm133298
 f1_keywords:
 - vbaxl10.chm133298
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MeasurementUnit
 ms.assetid: 2f48eda1-9d82-d8fc-ce89-2d33a4801e12
+ms.date: 06/08/2017
 ---
 
 

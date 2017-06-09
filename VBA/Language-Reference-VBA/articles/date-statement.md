@@ -3,8 +3,9 @@ title: Date Statement
 keywords: vblr6.chm1008887
 f1_keywords:
 - vblr6.chm1008887
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61cbe51b-f9a6-8d51-eba3-6d27a155b7c3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Cell Object (Visio)
 keywords: vis_sdr.chm10045
 f1_keywords:
 - vis_sdr.chm10045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell
 ms.assetid: 06ac28a6-5749-6c70-94bf-c721e217f375
+ms.date: 06/08/2017
 ---
 
 

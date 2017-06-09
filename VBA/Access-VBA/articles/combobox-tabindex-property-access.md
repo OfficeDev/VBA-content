@@ -3,10 +3,11 @@ title: ComboBox.TabIndex Property (Access)
 keywords: vbaac10.chm11399
 f1_keywords:
 - vbaac10.chm11399
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.TabIndex
 ms.assetid: 7e04fd77-8f25-eaad-c902-526f69226322
+ms.date: 06/08/2017
 ---
 
 

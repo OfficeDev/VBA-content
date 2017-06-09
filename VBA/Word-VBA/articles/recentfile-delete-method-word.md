@@ -3,10 +3,11 @@ title: RecentFile.Delete Method (Word)
 keywords: vbawd10.chm157548549
 f1_keywords:
 - vbawd10.chm157548549
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFile.Delete
 ms.assetid: abd3dcab-77e0-626e-008f-dbc8d7468538
+ms.date: 06/08/2017
 ---
 
 

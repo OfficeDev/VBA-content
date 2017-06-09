@@ -3,10 +3,11 @@ title: AddIn.Parent Property (PowerPoint)
 keywords: vbapp10.chm521002
 f1_keywords:
 - vbapp10.chm521002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn.Parent
 ms.assetid: db53e381-f2aa-86f6-4e24-6de2ef8bd511
+ms.date: 06/08/2017
 ---
 
 

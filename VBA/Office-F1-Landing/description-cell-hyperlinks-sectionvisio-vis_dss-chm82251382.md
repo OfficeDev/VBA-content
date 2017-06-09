@@ -3,8 +3,9 @@ title: Description Cell (Hyperlinks Section), Visio [Vis_DSS.chm82251382]
 keywords: vis_dss.chm82251382
 f1_keywords:
 - vis_dss.chm82251382
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 320bfeff-2b28-467f-9a17-d3c7542c1261
+ms.date: 06/08/2017
 ---
 
 

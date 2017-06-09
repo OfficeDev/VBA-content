@@ -3,10 +3,11 @@ title: Table.FindRow Method (Outlook)
 keywords: vbaol11.chm2228
 f1_keywords:
 - vbaol11.chm2228
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.FindRow
 ms.assetid: 5722cf58-d026-007a-558f-90b73bad920d
+ms.date: 06/08/2017
 ---
 
 

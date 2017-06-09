@@ -3,10 +3,11 @@ title: PbPictureInsertAs Enumeration (Publisher)
 keywords: vbapb10.chm65628
 f1_keywords:
 - vbapb10.chm65628
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbPictureInsertAs
 ms.assetid: 210c5813-fd62-f736-779e-85975f6536f2
+ms.date: 06/08/2017
 ---
 
 

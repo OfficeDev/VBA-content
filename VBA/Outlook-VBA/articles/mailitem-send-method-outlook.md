@@ -3,10 +3,11 @@ title: MailItem.Send Method (Outlook)
 keywords: vbaol11.chm1369
 f1_keywords:
 - vbaol11.chm1369
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Send
 ms.assetid: 78c85013-523e-447b-c47d-2da0705f1fe0
+ms.date: 06/08/2017
 ---
 
 

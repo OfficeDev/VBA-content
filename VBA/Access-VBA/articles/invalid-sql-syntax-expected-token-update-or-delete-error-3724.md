@@ -3,14 +3,15 @@ title: "Invalid SQL syntax: expected token: UPDATE or DELETE (Error 3724)"
 keywords: jeterr40.chm5003724
 f1_keywords:
 - jeterr40.chm5003724
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c12cdd43-9a78-478e-358e-2c590c761b20
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL syntax: expected token: UPDATE or DELETE (Error 3724)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

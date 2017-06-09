@@ -3,10 +3,11 @@ title: Application.Ready Property (Excel)
 keywords: vbaxl10.chm133260
 f1_keywords:
 - vbaxl10.chm133260
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Ready
 ms.assetid: 4b9577ee-0f0c-dd0b-c1dd-90cde2c5fb1e
+ms.date: 06/08/2017
 ---
 
 

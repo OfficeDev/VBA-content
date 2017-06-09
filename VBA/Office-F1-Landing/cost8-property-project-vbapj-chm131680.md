@@ -3,8 +3,9 @@ title: Cost8 Property, Project [vbapj.chm131680]
 keywords: vbapj.chm131680
 f1_keywords:
 - vbapj.chm131680
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc1ed858-faf1-423b-8149-dbc70ca6c4bc
+ms.date: 06/08/2017
 ---
 
 

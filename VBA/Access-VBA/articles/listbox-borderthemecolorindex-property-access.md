@@ -3,10 +3,11 @@ title: ListBox.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BorderThemeColorIndex
 ms.assetid: 3dac9a1c-4a8b-1b01-9937-6dc8e5018fb5
+ms.date: 06/08/2017
 ---
 
 

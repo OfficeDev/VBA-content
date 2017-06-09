@@ -3,14 +3,15 @@ title: Wait For Post Processing
 keywords: vbaac10.chm5991
 f1_keywords:
 - vbaac10.chm5991
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b747ff33-3e84-480c-bcd8-3b5e7d0e063d
+ms.date: 06/08/2017
 ---
 
 
 # Wait For Post Processing
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

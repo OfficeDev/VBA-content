@@ -1,7 +1,8 @@
 ---
 title: Object model (Outlook View Control reference)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 36fa9303-2135-6fcc-b93c-05eef37af3ec
+ms.date: 06/08/2017
 ---
 
 

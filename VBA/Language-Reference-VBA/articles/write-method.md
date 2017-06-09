@@ -3,10 +3,11 @@ title: Write Method
 keywords: vblr6.chm2182081
 f1_keywords:
 - vblr6.chm2182081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Write
 ms.assetid: fd66062a-aa05-15a3-d88c-34a0c033f496
+ms.date: 06/08/2017
 ---
 
 

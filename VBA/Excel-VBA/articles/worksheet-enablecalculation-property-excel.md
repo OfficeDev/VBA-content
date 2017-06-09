@@ -3,10 +3,11 @@ title: Worksheet.EnableCalculation Property (Excel)
 keywords: vbaxl10.chm175079
 f1_keywords:
 - vbaxl10.chm175079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.EnableCalculation
 ms.assetid: fc70ae97-b56b-3b57-6f7b-8438b78c424d
+ms.date: 06/08/2017
 ---
 
 

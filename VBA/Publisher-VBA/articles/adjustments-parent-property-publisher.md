@@ -3,10 +3,11 @@ title: Adjustments.Parent Property (Publisher)
 keywords: vbapb10.chm2424834
 f1_keywords:
 - vbapb10.chm2424834
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Adjustments.Parent
 ms.assetid: 2114d703-194b-d6fa-08e9-53637a8a2010
+ms.date: 06/08/2017
 ---
 
 

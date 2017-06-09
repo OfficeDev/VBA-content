@@ -1,7 +1,8 @@
 ---
 title: Change the Filter or Sort Order of a Form or Report
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9888dbcd-7409-f334-115e-a318131ebca4
+ms.date: 06/08/2017
 ---
 
 

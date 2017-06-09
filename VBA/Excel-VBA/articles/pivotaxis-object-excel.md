@@ -3,10 +3,11 @@ title: PivotAxis Object (Excel)
 keywords: vbaxl10.chm767072
 f1_keywords:
 - vbaxl10.chm767072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotAxis
 ms.assetid: f8f4fbef-5cf7-1615-2ed3-7c90ab6c82f6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PageSetup.Pages Property (Excel)
 keywords: vbaxl10.chm473116
 f1_keywords:
 - vbaxl10.chm473116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.Pages
 ms.assetid: df05bbc8-1c9c-fc7d-442f-81f1488cd476
+ms.date: 06/08/2017
 ---
 
 

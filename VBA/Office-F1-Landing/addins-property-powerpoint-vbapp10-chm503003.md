@@ -3,8 +3,9 @@ title: AddIns Property, PowerPoint [vbapp10.chm503003]
 keywords: vbapp10.chm503003
 f1_keywords:
 - vbapp10.chm503003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ee5955c-862d-4c00-b724-001aa46f8449
+ms.date: 06/08/2017
 ---
 
 

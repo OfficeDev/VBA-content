@@ -3,10 +3,11 @@ title: CalendarView.Filter Property (Outlook)
 keywords: vbaol11.chm2624
 f1_keywords:
 - vbaol11.chm2624
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Filter
 ms.assetid: c62e9521-e1aa-bfe8-5774-25c3227973b5
+ms.date: 06/08/2017
 ---
 
 

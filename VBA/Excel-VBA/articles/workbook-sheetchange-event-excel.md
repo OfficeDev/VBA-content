@@ -3,10 +3,11 @@ title: Workbook.SheetChange Event (Excel)
 keywords: vbaxl10.chm503091
 f1_keywords:
 - vbaxl10.chm503091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetChange
 ms.assetid: 37e727d8-255c-ac23-45d8-13a8e7639991
+ms.date: 06/08/2017
 ---
 
 

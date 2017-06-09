@@ -1,9 +1,10 @@
 ---
 title: RemoteItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Unload
 ms.assetid: 8d105e1a-4923-4296-10b1-6e26fed51539
+ms.date: 06/08/2017
 ---
 
 

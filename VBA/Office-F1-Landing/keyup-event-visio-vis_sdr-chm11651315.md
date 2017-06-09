@@ -3,8 +3,9 @@ title: KeyUp Event, Visio [vis_sdr.chm11651315]
 keywords: vis_sdr.chm11651315
 f1_keywords:
 - vis_sdr.chm11651315
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d613e89d-cbb7-495b-9de8-adba1941efad
+ms.date: 06/08/2017
 ---
 
 

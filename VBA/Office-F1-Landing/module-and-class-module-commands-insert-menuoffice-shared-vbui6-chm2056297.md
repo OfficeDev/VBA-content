@@ -3,8 +3,9 @@ title: Module and Class Module Commands (Insert Menu), Office Shared [vbui6.chm2
 keywords: vbui6.chm2056297
 f1_keywords:
 - vbui6.chm2056297
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f204c00c-8429-4f23-a49c-df6c5390ae33
+ms.date: 06/08/2017
 ---
 
 

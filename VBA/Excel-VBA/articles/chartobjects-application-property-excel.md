@@ -3,10 +3,11 @@ title: ChartObjects.Application Property (Excel)
 keywords: vbaxl10.chm495073
 f1_keywords:
 - vbaxl10.chm495073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Application
 ms.assetid: 2ff0a431-a796-e1c6-d15d-7e70aba1e426
+ms.date: 06/08/2017
 ---
 
 

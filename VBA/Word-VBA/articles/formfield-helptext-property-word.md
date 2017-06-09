@@ -3,10 +3,11 @@ title: FormField.HelpText Property (Word)
 keywords: vbawd10.chm153616391
 f1_keywords:
 - vbawd10.chm153616391
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.HelpText
 ms.assetid: 98069a1f-03eb-933b-9f7a-7d20cb83ce8c
+ms.date: 06/08/2017
 ---
 
 

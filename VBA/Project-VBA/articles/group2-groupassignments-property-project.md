@@ -1,9 +1,10 @@
 ---
 title: Group2.GroupAssignments Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Group2.GroupAssignments
 ms.assetid: 281b30cb-0d6a-3784-0d4b-7bc4e9eca53c
+ms.date: 06/08/2017
 ---
 
 

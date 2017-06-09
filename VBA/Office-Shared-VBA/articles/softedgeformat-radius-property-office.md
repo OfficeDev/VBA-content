@@ -1,9 +1,10 @@
 ---
 title: SoftEdgeFormat.Radius Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SoftEdgeFormat.Radius
 ms.assetid: 7731f33c-852f-33a5-a48f-59d6aa86631e
+ms.date: 06/08/2017
 ---
 
 

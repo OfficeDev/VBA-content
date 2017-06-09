@@ -3,10 +3,11 @@ title: Application.ClipboardFormats Property (Excel)
 keywords: vbaxl10.chm133092
 f1_keywords:
 - vbaxl10.chm133092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ClipboardFormats
 ms.assetid: 9b0de0b9-6acf-a73c-6d29-a405d0784170
+ms.date: 06/08/2017
 ---
 
 

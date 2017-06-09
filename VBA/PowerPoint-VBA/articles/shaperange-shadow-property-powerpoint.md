@@ -3,10 +3,11 @@ title: ShapeRange.Shadow Property (PowerPoint)
 keywords: vbapp10.chm548033
 f1_keywords:
 - vbapp10.chm548033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Shadow
 ms.assetid: 01aa0a5a-341b-6764-e3ea-1f20379d0de3
+ms.date: 06/08/2017
 ---
 
 

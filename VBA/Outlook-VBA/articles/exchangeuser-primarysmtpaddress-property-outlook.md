@@ -3,10 +3,11 @@ title: ExchangeUser.PrimarySmtpAddress Property (Outlook)
 keywords: vbaol11.chm2098
 f1_keywords:
 - vbaol11.chm2098
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.PrimarySmtpAddress
 ms.assetid: 2dda21da-44a2-fbfe-babc-58646c76689d
+ms.date: 06/08/2017
 ---
 
 

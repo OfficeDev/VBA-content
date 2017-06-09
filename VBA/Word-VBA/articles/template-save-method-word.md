@@ -3,10 +3,11 @@ title: Template.Save Method (Word)
 keywords: vbawd10.chm157941861
 f1_keywords:
 - vbawd10.chm157941861
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.Save
 ms.assetid: 34f41798-89a1-050f-be00-2e8421b1389b
+ms.date: 06/08/2017
 ---
 
 

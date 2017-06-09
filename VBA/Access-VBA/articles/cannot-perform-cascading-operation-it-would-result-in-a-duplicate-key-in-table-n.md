@@ -3,14 +3,15 @@ title: Cannot perform cascading operation. It would result in a duplicate key in
 keywords: jeterr40.chm5003399
 f1_keywords:
 - jeterr40.chm5003399
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 27f8a7c9-b78f-78ba-604d-bd2511518ff2
+ms.date: 06/08/2017
 ---
 
 
 # Cannot perform cascading operation. It would result in a duplicate key in table <name>. (Error 3399)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

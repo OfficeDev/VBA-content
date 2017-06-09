@@ -3,8 +3,9 @@ title: OnDirty Property, Access [vbaac10.chm4549]
 keywords: vbaac10.chm4549
 f1_keywords:
 - vbaac10.chm4549
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a0454db1-4cae-4ffe-8578-bea64a365226
+ms.date: 06/08/2017
 ---
 
 

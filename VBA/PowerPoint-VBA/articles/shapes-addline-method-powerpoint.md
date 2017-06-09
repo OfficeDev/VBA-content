@@ -3,10 +3,11 @@ title: Shapes.AddLine Method (PowerPoint)
 keywords: vbapp10.chm543009
 f1_keywords:
 - vbapp10.chm543009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddLine
 ms.assetid: 9dbe640b-5ba4-a620-d3c6-4a2d0cc2bc27
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Task.FinishVariance Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.FinishVariance
 ms.assetid: 152aa61c-2c79-539c-7193-b251ad85a5e2
+ms.date: 06/08/2017
 ---
 
 

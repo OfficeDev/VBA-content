@@ -3,8 +3,9 @@ title: Reset Method, Office Shared [vbaof11.chm5021]
 keywords: vbaof11.chm5021
 f1_keywords:
 - vbaof11.chm5021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a95b434a-ebef-4a55-8bcd-858b25972cef
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CellFormat.VerticalAlignment Property (Excel)
 keywords: vbaxl10.chm676081
 f1_keywords:
 - vbaxl10.chm676081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.VerticalAlignment
 ms.assetid: c901dff3-3f0a-1f54-250e-c03b9e32c819
+ms.date: 06/08/2017
 ---
 
 

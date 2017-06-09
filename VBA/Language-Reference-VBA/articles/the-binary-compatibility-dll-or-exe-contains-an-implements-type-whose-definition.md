@@ -3,8 +3,9 @@ title: The binary compatibility DLL or EXE contains an Implements type whose def
 keywords: vblr6.chm1040373
 f1_keywords:
 - vblr6.chm1040373
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4cace415-821b-d0d6-64ca-ccc4fe207f4a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axes.Application Property (PowerPoint)
 keywords: vbapp10.chm681002
 f1_keywords:
 - vbapp10.chm681002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes.Application
 ms.assetid: cc791f62-243b-07ec-38aa-7048d49bf3f6
+ms.date: 06/08/2017
 ---
 
 

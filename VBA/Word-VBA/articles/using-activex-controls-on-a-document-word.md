@@ -1,7 +1,8 @@
 ---
 title: Using ActiveX Controls on a Document (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: fe3a830e-c734-1412-6955-4a67b6ec9eed
+ms.date: 06/08/2017
 ---
 
 

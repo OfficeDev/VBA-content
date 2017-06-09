@@ -1,9 +1,10 @@
 ---
 title: SearchFolders.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchFolders.Application
 ms.assetid: c499edb2-ca9e-81ec-521c-82527a5fbb54
+ms.date: 06/08/2017
 ---
 
 

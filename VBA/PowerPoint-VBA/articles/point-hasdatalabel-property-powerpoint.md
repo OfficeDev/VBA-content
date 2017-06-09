@@ -3,10 +3,11 @@ title: Point.HasDataLabel Property (PowerPoint)
 keywords: vbapp10.chm65613
 f1_keywords:
 - vbapp10.chm65613
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.HasDataLabel
 ms.assetid: bb0e96e7-5280-c074-5278-f8e5acb7bab3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.DisplayPasteOptions Property (Excel)
 keywords: vbaxl10.chm133273
 f1_keywords:
 - vbaxl10.chm133273
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayPasteOptions
 ms.assetid: da9cc6c1-e803-411a-220d-5c9c82d94504
+ms.date: 06/08/2017
 ---
 
 

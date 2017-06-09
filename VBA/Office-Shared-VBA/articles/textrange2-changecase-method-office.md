@@ -1,9 +1,10 @@
 ---
 title: TextRange2.ChangeCase Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.ChangeCase
 ms.assetid: c59fd653-02e6-0e9a-a7a7-3806a75fc146
+ms.date: 06/08/2017
 ---
 
 

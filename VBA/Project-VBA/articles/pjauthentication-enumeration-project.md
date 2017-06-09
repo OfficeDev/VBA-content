@@ -1,9 +1,10 @@
 ---
 title: PjAuthentication Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAuthentication
 ms.assetid: 3af5efa4-a3a1-e233-adaa-b5f8a8ab94c1
+ms.date: 06/08/2017
 ---
 
 

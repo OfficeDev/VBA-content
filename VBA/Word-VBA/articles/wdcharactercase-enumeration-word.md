@@ -1,9 +1,10 @@
 ---
 title: WdCharacterCase Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCharacterCase
 ms.assetid: 596b5eb5-3ea4-ed23-99ba-2cf6052d3dc6
+ms.date: 06/08/2017
 ---
 
 

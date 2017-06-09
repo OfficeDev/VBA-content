@@ -3,10 +3,11 @@ title: Workbook.RemovePersonalInformation Property (Excel)
 keywords: vbaxl10.chm199202
 f1_keywords:
 - vbaxl10.chm199202
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.RemovePersonalInformation
 ms.assetid: f5cdc655-8ba9-6dd1-ab05-028d98c11972
+ms.date: 06/08/2017
 ---
 
 

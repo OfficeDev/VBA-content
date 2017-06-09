@@ -3,10 +3,11 @@ title: OMathScrSup.Application Property (Word)
 keywords: vbawd10.chm119930980
 f1_keywords:
 - vbawd10.chm119930980
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSup.Application
 ms.assetid: c444b286-c0f6-e8f5-129b-dca0f9f2f187
+ms.date: 06/08/2017
 ---
 
 

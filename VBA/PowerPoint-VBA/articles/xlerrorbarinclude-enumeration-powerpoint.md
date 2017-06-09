@@ -1,9 +1,10 @@
 ---
 title: XlErrorBarInclude Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarInclude
 ms.assetid: 8ee44fac-0f0f-7211-1daf-ae2efb8ea587
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.TickLabels Property (PowerPoint)
 keywords: vbapp10.chm682029
 f1_keywords:
 - vbapp10.chm682029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.TickLabels
 ms.assetid: 80e39b06-b01d-f817-5357-e6abbbc28e1c
+ms.date: 06/08/2017
 ---
 
 

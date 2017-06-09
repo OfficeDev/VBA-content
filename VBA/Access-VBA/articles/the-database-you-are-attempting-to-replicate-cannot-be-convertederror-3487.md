@@ -3,14 +3,15 @@ title: The database you are attempting to replicate cannot be converted. (Error 
 keywords: jeterr40.chm5003487
 f1_keywords:
 - jeterr40.chm5003487
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e6116662-4802-2b26-6aa3-80fd1b27a0f1
+ms.date: 06/08/2017
 ---
 
 
 # The database you are attempting to replicate cannot be converted. (Error 3487)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

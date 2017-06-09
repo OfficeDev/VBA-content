@@ -3,10 +3,11 @@ title: MetaProperties Object (Office)
 keywords: vbaof11.chm274000
 f1_keywords:
 - vbaof11.chm274000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperties
 ms.assetid: 957a6e06-3348-b180-3655-06ffbfb69e12
+ms.date: 06/08/2017
 ---
 
 

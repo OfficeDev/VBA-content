@@ -3,10 +3,11 @@ title: PivotTable.PivotSelection Property (Excel)
 keywords: vbaxl10.chm235124
 f1_keywords:
 - vbaxl10.chm235124
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotSelection
 ms.assetid: efc3898f-aba8-3ffb-1421-da4c4864b712
+ms.date: 06/08/2017
 ---
 
 

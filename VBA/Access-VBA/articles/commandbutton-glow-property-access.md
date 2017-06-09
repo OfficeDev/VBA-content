@@ -3,10 +3,11 @@ title: CommandButton.Glow Property (Access)
 keywords: vbaac10.chm14630
 f1_keywords:
 - vbaac10.chm14630
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Glow
 ms.assetid: e6c147b4-c378-90bd-7132-f44021994ecd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Left Property (Publisher)
 keywords: vbapb10.chm2293825
 f1_keywords:
 - vbapb10.chm2293825
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Left
 ms.assetid: 2f071ef6-f6b3-2444-ea31-ea7abc9ef1ea
+ms.date: 06/08/2017
 ---
 
 

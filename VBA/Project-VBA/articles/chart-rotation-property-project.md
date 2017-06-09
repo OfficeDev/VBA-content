@@ -1,7 +1,8 @@
 ---
 title: Chart.Rotation Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: a6281031-fb66-6b79-47c2-d6708c997f32
+ms.date: 06/08/2017
 ---
 
 

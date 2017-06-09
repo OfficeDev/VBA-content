@@ -3,10 +3,11 @@ title: WorksheetFunction.Sinh Method (Excel)
 keywords: vbaxl10.chm137164
 f1_keywords:
 - vbaxl10.chm137164
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Sinh
 ms.assetid: 5cae95dd-f1fd-6902-c734-1a80e60b7ba4
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ThreeDFormat.ProjectText Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ProjectText
 ms.assetid: b4d1b408-baca-1b04-3ee5-e2c160dd08eb
+ms.date: 06/08/2017
 ---
 
 

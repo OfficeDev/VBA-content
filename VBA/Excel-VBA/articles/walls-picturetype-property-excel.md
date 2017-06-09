@@ -3,10 +3,11 @@ title: Walls.PictureType Property (Excel)
 keywords: vbaxl10.chm614080
 f1_keywords:
 - vbaxl10.chm614080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Walls.PictureType
 ms.assetid: 832115e2-1711-9952-d845-d56aa16808cd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.CanCheckIn Method (Visio)
 keywords: vis_sdr.chm10552020
 f1_keywords:
 - vis_sdr.chm10552020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.CanCheckIn
 ms.assetid: 99922339-631b-f60e-1d07-3ae9df134cf7
+ms.date: 06/08/2017
 ---
 
 

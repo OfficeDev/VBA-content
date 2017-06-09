@@ -1,9 +1,10 @@
 ---
 title: Trendline.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Name
 ms.assetid: 6b3c1823-5f9a-ee5f-19ac-e19bc04b6434
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Paragraph.CloseUp Method (Word)
 keywords: vbawd10.chm156696877
 f1_keywords:
 - vbawd10.chm156696877
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.CloseUp
 ms.assetid: eb244d95-8de9-6de3-730d-663f6149c973
+ms.date: 06/08/2017
 ---
 
 

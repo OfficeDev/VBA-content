@@ -1,9 +1,10 @@
 ---
 title: Point.InvertIfNegative Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.InvertIfNegative
 ms.assetid: eb1e9b32-6001-353c-c205-9e75d1947b0d
+ms.date: 06/08/2017
 ---
 
 

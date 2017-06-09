@@ -3,8 +3,9 @@ title: SlicerCache.RequireManualUpdate Property (Excel)
 keywords: vbaxl10.chm897096
 f1_keywords:
 - vbaxl10.chm897096
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 5ddad9f9-c875-e37f-4424-d2a11b7355cb
+ms.date: 06/08/2017
 ---
 
 

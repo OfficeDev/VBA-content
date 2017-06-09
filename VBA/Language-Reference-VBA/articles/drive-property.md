@@ -3,10 +3,11 @@ title: Drive Property
 keywords: vblr6.chm2181976
 f1_keywords:
 - vblr6.chm2181976
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Drive
 ms.assetid: 34512359-067f-f625-5f19-db7b0faa0138
+ms.date: 06/08/2017
 ---
 
 

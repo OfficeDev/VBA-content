@@ -1,13 +1,14 @@
 ---
 title: Data type conversion error. (Error 3421)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9a70ddb6-e047-dce6-8f7b-14e192cac924
+ms.date: 06/08/2017
 ---
 
 
 # Data type conversion error. (Error 3421)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

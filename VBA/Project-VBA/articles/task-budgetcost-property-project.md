@@ -1,9 +1,10 @@
 ---
 title: Task.BudgetCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.BudgetCost
 ms.assetid: ed03fd97-8cf5-6c5d-c064-2c69c45c61db
+ms.date: 06/08/2017
 ---
 
 

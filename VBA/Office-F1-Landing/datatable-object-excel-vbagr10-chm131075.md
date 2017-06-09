@@ -3,8 +3,9 @@ title: DataTable Object, Excel [vbagr10.chm131075]
 keywords: vbagr10.chm131075
 f1_keywords:
 - vbagr10.chm131075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7911b94-3497-4d4e-98d6-4ce5295b6e6c
+ms.date: 06/08/2017
 ---
 
 

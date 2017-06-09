@@ -3,14 +3,15 @@ title: DestConnectStr, DestinationDB, DestinationTable Properties
 keywords: vbaac10.chm6181
 f1_keywords:
 - vbaac10.chm6181
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5d9f3e9d-fc36-d4af-d82b-8d2ebd8044fa
+ms.date: 06/08/2017
 ---
 
 
 # DestConnectStr, DestinationDB, DestinationTable Properties
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

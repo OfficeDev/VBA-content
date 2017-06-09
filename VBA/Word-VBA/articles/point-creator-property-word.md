@@ -3,10 +3,11 @@ title: Point.Creator Property (Word)
 keywords: vbawd10.chm262144149
 f1_keywords:
 - vbawd10.chm262144149
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Creator
 ms.assetid: a3ffad03-52c4-c785-403b-c24a7fca856b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LegendKey.Format Property (Excel)
 keywords: vbaxl10.chm590096
 f1_keywords:
 - vbaxl10.chm590096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.Format
 ms.assetid: b05d0ce2-013f-8383-f907-a02ab11942cd
+ms.date: 06/08/2017
 ---
 
 

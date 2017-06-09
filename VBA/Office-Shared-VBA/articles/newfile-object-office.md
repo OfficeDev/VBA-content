@@ -3,10 +3,11 @@ title: NewFile Object (Office)
 keywords: vbaof11.chm235000
 f1_keywords:
 - vbaof11.chm235000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.NewFile
 ms.assetid: 6f53ced5-4488-b67f-ca1f-729aeb790eb1
+ms.date: 06/08/2017
 ---
 
 

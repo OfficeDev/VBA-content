@@ -3,8 +3,9 @@ title: CommandBars Property, Excel [vbagr10.chm3076985]
 keywords: vbagr10.chm3076985
 f1_keywords:
 - vbagr10.chm3076985
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6cf9e4e5-25b8-41ac-8799-dffaffb95a3d
+ms.date: 06/08/2017
 ---
 
 

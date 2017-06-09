@@ -3,10 +3,11 @@ title: ObjectFrame.StatusBarText Property (Access)
 keywords: vbaac10.chm11585
 f1_keywords:
 - vbaac10.chm11585
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.StatusBarText
 ms.assetid: 51daa6c0-8887-9843-c899-ebb99c722866
+ms.date: 06/08/2017
 ---
 
 

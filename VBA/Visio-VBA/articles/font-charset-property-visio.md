@@ -3,10 +3,11 @@ title: Font.CharSet Property (Visio)
 keywords: vis_sdr.chm12013235
 f1_keywords:
 - vis_sdr.chm12013235
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Font.CharSet
 ms.assetid: 2658818f-0678-a8c2-cd4c-3628a6158a01
+ms.date: 06/08/2017
 ---
 
 

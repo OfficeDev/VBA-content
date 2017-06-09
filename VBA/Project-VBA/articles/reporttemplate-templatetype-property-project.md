@@ -1,9 +1,10 @@
 ---
 title: ReportTemplate.TemplateType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ReportTemplate.TemplateType
 ms.assetid: 5461ae85-0168-f31b-1c04-878afed001e2
+ms.date: 06/08/2017
 ---
 
 

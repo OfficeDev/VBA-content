@@ -3,10 +3,11 @@ title: Recipient.FreeBusy Method (Outlook)
 keywords: vbaol11.chm2357
 f1_keywords:
 - vbaol11.chm2357
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.FreeBusy
 ms.assetid: eeb831bc-c369-10f1-fb0b-08a8105c48e6
+ms.date: 06/08/2017
 ---
 
 

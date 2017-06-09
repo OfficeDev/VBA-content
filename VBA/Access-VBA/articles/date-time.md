@@ -1,7 +1,8 @@
 ---
 title: Date/Time
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 382d91c4-0434-45b9-b623-67d76c75a888
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ItemProperty.Session Property (Outlook)
 keywords: vbaol11.chm520
 f1_keywords:
 - vbaol11.chm520
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperty.Session
 ms.assetid: f33cfcd0-f86b-d0cd-7d35-a21644bc5c42
+ms.date: 06/08/2017
 ---
 
 

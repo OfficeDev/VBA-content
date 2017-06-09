@@ -3,10 +3,11 @@ title: Footnotes.Add Method (Word)
 keywords: vbawd10.chm155320324
 f1_keywords:
 - vbawd10.chm155320324
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.Add
 ms.assetid: 952a90b0-f550-820b-15e7-82bad3cc201f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Path Property, Access [vbaac10.chm12718]
 keywords: vbaac10.chm12718
 f1_keywords:
 - vbaac10.chm12718
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9d49d61-0a3a-4bdd-8f28-bbe0d415ab40
+ms.date: 06/08/2017
 ---
 
 

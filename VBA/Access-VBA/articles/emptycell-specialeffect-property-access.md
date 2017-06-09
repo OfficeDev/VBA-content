@@ -3,10 +3,11 @@ title: EmptyCell.SpecialEffect Property (Access)
 keywords: vbaac10.chm14313
 f1_keywords:
 - vbaac10.chm14313
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.SpecialEffect
 ms.assetid: f5858a41-9ba2-83a8-6457-3a5a04352d5a
+ms.date: 06/08/2017
 ---
 
 

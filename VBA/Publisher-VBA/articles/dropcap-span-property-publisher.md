@@ -3,10 +3,11 @@ title: DropCap.Span Property (Publisher)
 keywords: vbapb10.chm5505033
 f1_keywords:
 - vbapb10.chm5505033
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap.Span
 ms.assetid: 00c51e48-5bbc-13e9-2d0c-e8993f753bbe
+ms.date: 06/08/2017
 ---
 
 

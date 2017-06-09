@@ -3,10 +3,11 @@ title: OlkTextBox.DragBehavior Property (Outlook)
 keywords: vbaol11.chm1000041
 f1_keywords:
 - vbaol11.chm1000041
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.DragBehavior
 ms.assetid: 98d9eb39-1810-831d-d2be-3a560916796f
+ms.date: 06/08/2017
 ---
 
 

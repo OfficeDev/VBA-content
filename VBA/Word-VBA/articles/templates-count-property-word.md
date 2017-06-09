@@ -3,10 +3,11 @@ title: Templates.Count Property (Word)
 keywords: vbawd10.chm161611777
 f1_keywords:
 - vbawd10.chm161611777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Templates.Count
 ms.assetid: c2218be5-a097-57a6-dbd1-2dc4812aebbf
+ms.date: 06/08/2017
 ---
 
 

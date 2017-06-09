@@ -3,10 +3,11 @@ title: Application.GanttBarStyleDelete Method (Project)
 keywords: vbapj.chm2059
 f1_keywords:
 - vbapj.chm2059
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttBarStyleDelete
 ms.assetid: 3cac2b37-147c-f1bf-bc94-d2bc9bffa14b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.ReplyAll
 ms.assetid: bc98249a-ad2d-043e-cbf8-ceb9d020443d
+ms.date: 06/08/2017
 ---
 
 

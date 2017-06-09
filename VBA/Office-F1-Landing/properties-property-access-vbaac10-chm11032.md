@@ -3,8 +3,9 @@ title: Properties Property, Access [vbaac10.chm11032]
 keywords: vbaac10.chm11032
 f1_keywords:
 - vbaac10.chm11032
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0199f2db-8490-4d58-a901-53982ee2c3a8
+ms.date: 06/08/2017
 ---
 
 

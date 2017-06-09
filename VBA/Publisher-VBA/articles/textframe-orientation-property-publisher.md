@@ -3,10 +3,11 @@ title: TextFrame.Orientation Property (Publisher)
 keywords: vbapb10.chm3866659
 f1_keywords:
 - vbapb10.chm3866659
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Orientation
 ms.assetid: f510e624-6322-4054-5e7f-8688c5ea817a
+ms.date: 06/08/2017
 ---
 
 

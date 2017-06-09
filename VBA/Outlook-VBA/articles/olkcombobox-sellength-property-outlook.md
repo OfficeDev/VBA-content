@@ -3,10 +3,11 @@ title: OlkComboBox.SelLength Property (Outlook)
 keywords: vbaol11.chm1000222
 f1_keywords:
 - vbaol11.chm1000222
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.SelLength
 ms.assetid: 3cbd5016-3868-6cf9-c28c-8d692620f367
+ms.date: 06/08/2017
 ---
 
 

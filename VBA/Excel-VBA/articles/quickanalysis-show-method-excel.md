@@ -3,8 +3,9 @@ title: QuickAnalysis.Show Method (Excel)
 keywords: vbaxl10.chm920073
 f1_keywords:
 - vbaxl10.chm920073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 0a30cfb1-1a15-95da-9ad5-2bf579696769
+ms.date: 06/08/2017
 ---
 
 

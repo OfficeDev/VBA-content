@@ -3,10 +3,11 @@ title: ComboBox.Enabled Property (Access)
 keywords: vbaac10.chm11395
 f1_keywords:
 - vbaac10.chm11395
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Enabled
 ms.assetid: 69952de0-af27-32fe-0567-6558e85f53c5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Text Property (Visio)
 keywords: vis_sdr.chm11251175
 f1_keywords:
 - vis_sdr.chm11251175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Text
 ms.assetid: 5c002c5d-f5ce-7f89-d799-4fc6ccb1a1f7
+ms.date: 06/08/2017
 ---
 
 

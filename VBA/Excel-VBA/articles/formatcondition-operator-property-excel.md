@@ -3,10 +3,11 @@ title: FormatCondition.Operator Property (Excel)
 keywords: vbaxl10.chm512075
 f1_keywords:
 - vbaxl10.chm512075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.Operator
 ms.assetid: 943fd9c1-30b2-d2aa-e9fe-f243af6b1292
+ms.date: 06/08/2017
 ---
 
 

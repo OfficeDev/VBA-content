@@ -3,10 +3,11 @@ title: NavigationButton.KeyUp Event (Access)
 keywords: vbaac10.chm14088
 f1_keywords:
 - vbaac10.chm14088
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.KeyUp
 ms.assetid: 65461552-5178-0b71-e82d-a48e98f2cbef
+ms.date: 06/08/2017
 ---
 
 

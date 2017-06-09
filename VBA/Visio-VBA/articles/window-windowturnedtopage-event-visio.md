@@ -3,10 +3,11 @@ title: Window.WindowTurnedToPage Event (Visio)
 keywords: vis_sdr.chm11619285
 f1_keywords:
 - vis_sdr.chm11619285
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.WindowTurnedToPage
 ms.assetid: f1f92687-41b3-fc58-d862-93d4343c5808
+ms.date: 06/08/2017
 ---
 
 

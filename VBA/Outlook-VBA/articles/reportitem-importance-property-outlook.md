@@ -3,10 +3,11 @@ title: ReportItem.Importance Property (Outlook)
 keywords: vbaol11.chm1650
 f1_keywords:
 - vbaol11.chm1650
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Importance
 ms.assetid: 4ecffe39-45d5-c646-2de2-50bf440189c7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextFrame.Overflowing Property (Word)
 keywords: vbawd10.chm162665355
 f1_keywords:
 - vbawd10.chm162665355
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.Overflowing
 ms.assetid: 299020e0-0c26-e5cb-c47c-2aa3651aac36
+ms.date: 06/08/2017
 ---
 
 

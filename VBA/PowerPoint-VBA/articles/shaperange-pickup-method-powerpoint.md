@@ -3,10 +3,11 @@ title: ShapeRange.PickUp Method (PowerPoint)
 keywords: vbapp10.chm548008
 f1_keywords:
 - vbapp10.chm548008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.PickUp
 ms.assetid: f583c44c-0ab1-19eb-40f7-7e3412c93686
+ms.date: 06/08/2017
 ---
 
 

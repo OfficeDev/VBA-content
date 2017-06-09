@@ -3,8 +3,9 @@ title: Open Project Dialog Box
 keywords: vbui6.chm181010
 f1_keywords:
 - vbui6.chm181010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0baf1ec3-e109-1781-4508-e5394ab6fbf3
+ms.date: 06/08/2017
 ---
 
 

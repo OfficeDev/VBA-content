@@ -3,10 +3,11 @@ title: TickLabels.Parent Property (Word)
 keywords: vbawd10.chm167051264
 f1_keywords:
 - vbawd10.chm167051264
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.Parent
 ms.assetid: 8a428674-17f3-d86c-9560-553c7451de76
+ms.date: 06/08/2017
 ---
 
 

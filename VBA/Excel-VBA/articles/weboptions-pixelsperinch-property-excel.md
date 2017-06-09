@@ -3,10 +3,11 @@ title: WebOptions.PixelsPerInch Property (Excel)
 keywords: vbaxl10.chm662080
 f1_keywords:
 - vbaxl10.chm662080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.PixelsPerInch
 ms.assetid: e459670a-edf8-40f7-5025-829b9b33b7ae
+ms.date: 06/08/2017
 ---
 
 

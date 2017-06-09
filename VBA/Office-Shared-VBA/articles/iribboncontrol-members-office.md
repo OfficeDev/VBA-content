@@ -1,7 +1,8 @@
 ---
 title: IRibbonControl Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 396d85dc-ddd5-8985-0830-22ee5b1579dc
+ms.date: 06/08/2017
 ---
 
 

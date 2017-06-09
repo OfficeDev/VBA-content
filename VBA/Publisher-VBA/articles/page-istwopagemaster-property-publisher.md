@@ -3,10 +3,11 @@ title: Page.IsTwoPageMaster Property (Publisher)
 keywords: vbapb10.chm131100
 f1_keywords:
 - vbapb10.chm131100
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.IsTwoPageMaster
 ms.assetid: dbfc3c21-0070-3f0a-c0b0-746d83c46765
+ms.date: 06/08/2017
 ---
 
 

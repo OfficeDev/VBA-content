@@ -1,9 +1,10 @@
 ---
 title: ChartArea.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Creator
 ms.assetid: 27116510-d18e-a0a6-c406-54c8bf73652a
+ms.date: 06/08/2017
 ---
 
 

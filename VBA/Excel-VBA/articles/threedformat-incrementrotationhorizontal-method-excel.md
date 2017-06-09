@@ -1,9 +1,10 @@
 ---
 title: ThreeDFormat.IncrementRotationHorizontal Method (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationHorizontal
 ms.assetid: 2f0d0123-59a9-a9ad-fbae-a008dd631c26
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: XlHAlign Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlHAlign
 ms.assetid: a2909b40-82e5-702f-1ddb-b7788c4a5f19
+ms.date: 06/08/2017
 ---
 
 

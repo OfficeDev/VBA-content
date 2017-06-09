@@ -3,10 +3,11 @@ title: Axis.AxisTitle Property (Excel)
 keywords: vbaxl10.chm561075
 f1_keywords:
 - vbaxl10.chm561075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.AxisTitle
 ms.assetid: 33ba6b94-189b-e9d0-a153-af028380a58a
+ms.date: 06/08/2017
 ---
 
 

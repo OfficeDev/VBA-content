@@ -3,10 +3,11 @@ title: Name.Category Property (Excel)
 keywords: vbaxl10.chm490075
 f1_keywords:
 - vbaxl10.chm490075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Category
 ms.assetid: 01892c7b-a42e-e4b3-6ddd-27ace1c51aae
+ms.date: 06/08/2017
 ---
 
 

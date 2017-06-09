@@ -3,10 +3,11 @@ title: CurrentProject.Path Property (Access)
 keywords: vbaac10.chm12718
 f1_keywords:
 - vbaac10.chm12718
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.Path
 ms.assetid: 25f28502-b5fc-aafa-9189-eb091907a529
+ms.date: 06/08/2017
 ---
 
 

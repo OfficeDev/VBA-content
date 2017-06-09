@@ -3,10 +3,11 @@ title: PbWrapType Enumeration (Publisher)
 keywords: vbapb10.chm65595
 f1_keywords:
 - vbapb10.chm65595
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbWrapType
 ms.assetid: ae4ebf58-9d42-c605-4110-a16f811619a2
+ms.date: 06/08/2017
 ---
 
 

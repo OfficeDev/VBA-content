@@ -3,10 +3,11 @@ title: SharingItem.DeferredDeliveryTime Property (Outlook)
 keywords: vbaol11.chm635
 f1_keywords:
 - vbaol11.chm635
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.DeferredDeliveryTime
 ms.assetid: a9584137-8e61-40a2-bc21-5bbfc3237c4d
+ms.date: 06/08/2017
 ---
 
 

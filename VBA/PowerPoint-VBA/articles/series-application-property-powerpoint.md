@@ -3,10 +3,11 @@ title: Series.Application Property (PowerPoint)
 keywords: vbapp10.chm716002
 f1_keywords:
 - vbapp10.chm716002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Application
 ms.assetid: e6a8c8a0-928a-08b5-82e0-1ea060cb0daf
+ms.date: 06/08/2017
 ---
 
 

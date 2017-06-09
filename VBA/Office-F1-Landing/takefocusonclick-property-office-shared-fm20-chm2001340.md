@@ -3,8 +3,9 @@ title: TakeFocusOnClick Property, Office Shared [fm20.chm2001340]
 keywords: fm20.chm2001340
 f1_keywords:
 - fm20.chm2001340
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a27b2142-abfb-45b6-9ea3-2cc8b8c38b9c
+ms.date: 06/08/2017
 ---
 
 

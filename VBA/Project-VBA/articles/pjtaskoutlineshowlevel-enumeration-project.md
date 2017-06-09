@@ -1,9 +1,10 @@
 ---
 title: PJTaskOutlineShowLevel Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PJTaskOutlineShowLevel
 ms.assetid: 27b015dd-5983-ca49-1a5d-67d71bb3d91f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Image.EventProcPrefix Property (Access)
 keywords: vbaac10.chm10363
 f1_keywords:
 - vbaac10.chm10363
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.EventProcPrefix
 ms.assetid: 57817dd3-62ed-5595-8196-f914f1fda037
+ms.date: 06/08/2017
 ---
 
 

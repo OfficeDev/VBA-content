@@ -3,10 +3,11 @@ title: ContactItem.ComputerNetworkName Property (Outlook)
 keywords: vbaol11.chm988
 f1_keywords:
 - vbaol11.chm988
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ComputerNetworkName
 ms.assetid: 3042c37b-08b5-25d6-f83d-f038789f844a
+ms.date: 06/08/2017
 ---
 
 

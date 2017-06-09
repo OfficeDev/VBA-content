@@ -3,8 +3,9 @@ title: GradientColorType Property, Excel [vbagr10.chm67176]
 keywords: vbagr10.chm67176
 f1_keywords:
 - vbagr10.chm67176
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14e54d59-e609-40ff-b8ac-1d1da77a893a
+ms.date: 06/08/2017
 ---
 
 

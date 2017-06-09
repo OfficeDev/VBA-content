@@ -3,10 +3,11 @@ title: Characters.Shape Property (Visio)
 keywords: vis_sdr.chm10214320
 f1_keywords:
 - vis_sdr.chm10214320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.Shape
 ms.assetid: 24565a24-3b95-2a89-1903-ae1759d3d8e2
+ms.date: 06/08/2017
 ---
 
 

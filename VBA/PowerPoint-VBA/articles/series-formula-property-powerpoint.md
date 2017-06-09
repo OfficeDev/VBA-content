@@ -3,10 +3,11 @@ title: Series.Formula Property (PowerPoint)
 keywords: vbapp10.chm65797
 f1_keywords:
 - vbapp10.chm65797
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Formula
 ms.assetid: 04d62f5d-e63d-1643-a6cd-eae0c37b73cf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Section.Row Property (Visio)
 keywords: vis_sdr.chm15714240
 f1_keywords:
 - vis_sdr.chm15714240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Row
 ms.assetid: 7d0d887a-3509-1602-9af6-f3d1857648c9
+ms.date: 06/08/2017
 ---
 
 

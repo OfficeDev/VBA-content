@@ -3,10 +3,11 @@ title: Axis.MinorTickMark Property (PowerPoint)
 keywords: vbapp10.chm682022
 f1_keywords:
 - vbapp10.chm682022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MinorTickMark
 ms.assetid: 2486a649-7006-388f-1b52-379b44f3f80d
+ms.date: 06/08/2017
 ---
 
 

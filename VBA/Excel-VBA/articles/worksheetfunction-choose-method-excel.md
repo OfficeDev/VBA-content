@@ -3,10 +3,11 @@ title: WorksheetFunction.Choose Method (Excel)
 keywords: vbaxl10.chm137121
 f1_keywords:
 - vbaxl10.chm137121
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Choose
 ms.assetid: f4031f31-2647-80fd-8458-c84f29d95e63
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Invalid entry. Cannot perform cascading operation in table <name> because the value entered is too large for field <name>. (Error 3411)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 286a606c-72c0-7dab-0dc7-0fba19d683bb
+ms.date: 06/08/2017
 ---
 
 
 # Invalid entry. Cannot perform cascading operation in table <name> because the value entered is too large for field <name>. (Error 3411)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

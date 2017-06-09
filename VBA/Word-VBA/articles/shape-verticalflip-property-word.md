@@ -3,10 +3,11 @@ title: Shape.VerticalFlip Property (Word)
 keywords: vbawd10.chm161480829
 f1_keywords:
 - vbawd10.chm161480829
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.VerticalFlip
 ms.assetid: f14d27b2-99f5-ddf5-a6b9-4163c20c0715
+ms.date: 06/08/2017
 ---
 
 

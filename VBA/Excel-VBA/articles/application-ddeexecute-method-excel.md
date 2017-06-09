@@ -3,10 +3,11 @@ title: Application.DDEExecute Method (Excel)
 keywords: vbaxl10.chm132089
 f1_keywords:
 - vbaxl10.chm132089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DDEExecute
 ms.assetid: 18cd97e6-4dff-2386-84bf-25e8c85b5277
+ms.date: 06/08/2017
 ---
 
 

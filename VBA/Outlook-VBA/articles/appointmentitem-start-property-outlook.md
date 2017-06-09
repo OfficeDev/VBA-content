@@ -3,10 +3,11 @@ title: AppointmentItem.Start Property (Outlook)
 keywords: vbaol11.chm902
 f1_keywords:
 - vbaol11.chm902
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Start
 ms.assetid: 1b869a9d-fe08-6efb-48b1-f33cf9ea0024
+ms.date: 06/08/2017
 ---
 
 

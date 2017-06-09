@@ -3,10 +3,11 @@ title: Report.OnClose Property (Access)
 keywords: vbaac10.chm13764
 f1_keywords:
 - vbaac10.chm13764
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnClose
 ms.assetid: 640b5540-4b0d-6649-0a36-9dd63a437c84
+ms.date: 06/08/2017
 ---
 
 

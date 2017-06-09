@@ -1,9 +1,10 @@
 ---
 title: XlTextQualifier Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlTextQualifier
 ms.assetid: ba209892-9dea-84db-eafd-629c7ab0b20f
+ms.date: 06/08/2017
 ---
 
 

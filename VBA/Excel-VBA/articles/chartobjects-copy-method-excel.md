@@ -3,10 +3,11 @@ title: ChartObjects.Copy Method (Excel)
 keywords: vbaxl10.chm496075
 f1_keywords:
 - vbaxl10.chm496075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Copy
 ms.assetid: 66e30b0c-a304-00fa-e573-e975c530c46c
+ms.date: 06/08/2017
 ---
 
 

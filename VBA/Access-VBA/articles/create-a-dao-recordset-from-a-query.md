@@ -1,7 +1,8 @@
 ---
 title: Create a DAO Recordset From a Query
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d84870d4-58e4-9d48-9951-72d928929002
+ms.date: 06/08/2017
 ---
 
 

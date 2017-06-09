@@ -3,8 +3,9 @@ title: VbCompareMethod (Object Browser)
 keywords: vblr6.chm1113545
 f1_keywords:
 - vblr6.chm1113545
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 405ad5d7-a687-b2c0-cde9-8ab190bc85b7
+ms.date: 06/08/2017
 ---
 
 

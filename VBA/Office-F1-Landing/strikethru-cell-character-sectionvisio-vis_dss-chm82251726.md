@@ -3,8 +3,9 @@ title: Strikethru Cell (Character Section), Visio [Vis_DSS.chm82251726]
 keywords: vis_dss.chm82251726
 f1_keywords:
 - vis_dss.chm82251726
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7026717-9c79-49dc-a6f8-17f84b5d246c
+ms.date: 06/08/2017
 ---
 
 

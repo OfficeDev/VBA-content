@@ -3,8 +3,9 @@ title: Variants Supported in VBScript
 keywords: olfm10.chm3077516
 f1_keywords:
 - olfm10.chm3077516
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 85e65768-5648-592b-08eb-9b646ec1b8a3
+ms.date: 06/08/2017
 ---
 
 

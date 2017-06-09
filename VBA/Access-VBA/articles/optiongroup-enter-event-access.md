@@ -3,10 +3,11 @@ title: OptionGroup.Enter Event (Access)
 keywords: vbaac10.chm14187
 f1_keywords:
 - vbaac10.chm14187
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Enter
 ms.assetid: ab5f5745-b8c2-7d5c-6fd6-43fd7901abd1
+ms.date: 06/08/2017
 ---
 
 

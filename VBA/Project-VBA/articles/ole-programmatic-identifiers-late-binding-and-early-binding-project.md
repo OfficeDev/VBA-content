@@ -3,8 +3,9 @@ title: OLE programmatic identifiers, late binding, and early binding (Project)
 keywords: vbapj.chm45320154
 f1_keywords:
 - vbapj.chm45320154
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: c72f3f22-3628-1379-8c6b-79c7984c728d
+ms.date: 06/08/2017
 ---
 
 

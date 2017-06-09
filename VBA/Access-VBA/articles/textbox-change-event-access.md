@@ -3,10 +3,11 @@ title: TextBox.Change Event (Access)
 keywords: vbaac10.chm14196
 f1_keywords:
 - vbaac10.chm14196
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Change
 ms.assetid: adde0a6d-d37a-a457-0dea-f2358adbb665
+ms.date: 06/08/2017
 ---
 
 

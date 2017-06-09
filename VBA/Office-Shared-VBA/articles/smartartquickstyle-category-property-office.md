@@ -1,9 +1,10 @@
 ---
 title: SmartArtQuickStyle.Category Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Category
 ms.assetid: 0d7c884c-f285-9562-a8e3-3b7599d8ce89
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Hyperlinks.Count Property (Publisher)
 keywords: vbapb10.chm6881283
 f1_keywords:
 - vbapb10.chm6881283
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Count
 ms.assetid: 36747f3e-b365-11ca-9cbe-f6148f7da235
+ms.date: 06/08/2017
 ---
 
 

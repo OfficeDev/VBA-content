@@ -3,10 +3,11 @@ title: ContactItem.BusinessCardLayoutXml Property (Outlook)
 keywords: vbaol11.chm3227
 f1_keywords:
 - vbaol11.chm3227
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessCardLayoutXml
 ms.assetid: 0a2cfc55-7835-db1a-7dba-b896e14a13d5
+ms.date: 06/08/2017
 ---
 
 

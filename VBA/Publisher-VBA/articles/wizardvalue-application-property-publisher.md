@@ -3,10 +3,11 @@ title: WizardValue.Application Property (Publisher)
 keywords: vbapb10.chm2097153
 f1_keywords:
 - vbapb10.chm2097153
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardValue.Application
 ms.assetid: c6b94421-619a-8589-f266-dec03647254b
+ms.date: 06/08/2017
 ---
 
 

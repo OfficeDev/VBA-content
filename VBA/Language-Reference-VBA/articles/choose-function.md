@@ -3,8 +3,9 @@ title: Choose Function
 keywords: vblr6.chm1010091
 f1_keywords:
 - vblr6.chm1010091
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ccf3fe4c-9507-5ff3-b834-9a16e2a19ae2
+ms.date: 06/08/2017
 ---
 
 

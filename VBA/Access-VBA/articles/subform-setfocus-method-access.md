@@ -3,10 +3,11 @@ title: SubForm.SetFocus Method (Access)
 keywords: vbaac10.chm11920
 f1_keywords:
 - vbaac10.chm11920
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.SetFocus
 ms.assetid: ee627fa2-348a-1c98-5464-b4cbaaf0f9cc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OMathPhantom.Application Property (Word)
 keywords: vbawd10.chm88146020
 f1_keywords:
 - vbawd10.chm88146020
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathPhantom.Application
 ms.assetid: 54073c4c-366d-638b-1cbc-83baf272debe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Remove Method (VBA Add-In Object Model), Office Shared [vbob6.chm1014020]
 keywords: vbob6.chm1014020
 f1_keywords:
 - vbob6.chm1014020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ba30eaa6-dffa-47d7-bba9-af6f83af6262
+ms.date: 06/08/2017
 ---
 
 

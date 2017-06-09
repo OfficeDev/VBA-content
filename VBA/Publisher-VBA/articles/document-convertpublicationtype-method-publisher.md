@@ -3,10 +3,11 @@ title: Document.ConvertPublicationType Method (Publisher)
 keywords: vbapb10.chm196737
 f1_keywords:
 - vbapb10.chm196737
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ConvertPublicationType
 ms.assetid: e4bfe349-a22f-6017-ac9d-49f67e1f6dd2
+ms.date: 06/08/2017
 ---
 
 

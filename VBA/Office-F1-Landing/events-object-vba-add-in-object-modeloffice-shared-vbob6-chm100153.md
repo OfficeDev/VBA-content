@@ -3,8 +3,9 @@ title: Events Object (VBA Add-In Object Model), Office Shared [vbob6.chm100153]
 keywords: vbob6.chm100153
 f1_keywords:
 - vbob6.chm100153
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 721f35eb-d315-4176-84a4-ab6e2cfc2b46
+ms.date: 06/08/2017
 ---
 
 

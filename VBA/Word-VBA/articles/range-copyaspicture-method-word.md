@@ -3,10 +3,11 @@ title: Range.CopyAsPicture Method (Word)
 keywords: vbawd10.chm157155495
 f1_keywords:
 - vbawd10.chm157155495
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.CopyAsPicture
 ms.assetid: b104bb78-9e76-37c7-2102-f71a3d8ddabb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PictureFormat.Remove Method (Publisher)
 keywords: vbapb10.chm3604807
 f1_keywords:
 - vbapb10.chm3604807
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Remove
 ms.assetid: 23bfc598-166d-ee0a-aeaa-e21dd157ced3
+ms.date: 06/08/2017
 ---
 
 

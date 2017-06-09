@@ -3,10 +3,11 @@ title: Application.EPostageInsert Event (Word)
 keywords: vbawd10.chm4000015
 f1_keywords:
 - vbawd10.chm4000015
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.EPostageInsert
 ms.assetid: 33dfd513-7782-0877-7bf9-1b23cf995d4b
+ms.date: 06/08/2017
 ---
 
 

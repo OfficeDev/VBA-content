@@ -3,10 +3,11 @@ title: OlkTextBox Object (Outlook)
 keywords: vbaol11.chm1000084
 f1_keywords:
 - vbaol11.chm1000084
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox
 ms.assetid: 8c9438bf-e20a-2f70-90ac-097cf09594ca
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DataLabel.FormulaR1C1 Property (Word)
 keywords: vbawd10.chm233900016
 f1_keywords:
 - vbawd10.chm233900016
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.FormulaR1C1
 ms.assetid: b0da4a5a-b998-a1de-ea38-87ca0cc0486b
+ms.date: 06/08/2017
 ---
 
 

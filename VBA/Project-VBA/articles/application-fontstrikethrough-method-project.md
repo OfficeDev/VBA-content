@@ -3,10 +3,11 @@ title: Application.FontStrikethrough Method (Project)
 keywords: vbapj.chm2294
 f1_keywords:
 - vbapj.chm2294
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FontStrikethrough
 ms.assetid: e8689bfe-1c74-5582-8bf1-97b089207321
+ms.date: 06/08/2017
 ---
 
 

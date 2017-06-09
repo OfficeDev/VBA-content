@@ -3,10 +3,11 @@ title: FillFormat.PictureEffects Property (PowerPoint)
 keywords: vbapp10.chm552033
 f1_keywords:
 - vbapp10.chm552033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.PictureEffects
 ms.assetid: 01897ad5-84c9-f98e-8c2f-9a9e5c13bc2e
+ms.date: 06/08/2017
 ---
 
 

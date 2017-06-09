@@ -3,8 +3,9 @@ title: IsStartValid Property, Project [vbapj.chm132359]
 keywords: vbapj.chm132359
 f1_keywords:
 - vbapj.chm132359
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d323c41c-bb22-45ea-b4eb-11b29233adcd
+ms.date: 06/08/2017
 ---
 
 

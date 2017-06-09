@@ -1,9 +1,10 @@
 ---
 title: Lines Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Lines
 ms.assetid: d04aff17-bd9c-8340-f3ab-191da921ea79
+ms.date: 06/08/2017
 ---
 
 

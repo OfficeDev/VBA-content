@@ -3,10 +3,11 @@ title: ShapeRange.Align Method (PowerPoint)
 keywords: vbapp10.chm548063
 f1_keywords:
 - vbapp10.chm548063
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Align
 ms.assetid: 5d4553ad-521a-1f3c-77ba-3dd5fbd02a09
+ms.date: 06/08/2017
 ---
 
 

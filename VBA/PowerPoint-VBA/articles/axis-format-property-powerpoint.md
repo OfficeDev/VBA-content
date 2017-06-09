@@ -3,10 +3,11 @@ title: Axis.Format Property (PowerPoint)
 keywords: vbapp10.chm682047
 f1_keywords:
 - vbapp10.chm682047
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Format
 ms.assetid: c00a6cbf-d2d1-3718-2cd6-d61abeed40d3
+ms.date: 06/08/2017
 ---
 
 

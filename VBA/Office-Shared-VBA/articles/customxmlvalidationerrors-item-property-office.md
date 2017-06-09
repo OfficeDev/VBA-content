@@ -3,10 +3,11 @@ title: CustomXMLValidationErrors.Item Property (Office)
 keywords: vbaof11.chm308003
 f1_keywords:
 - vbaof11.chm308003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Item
 ms.assetid: 8e468d5a-e9dd-58e6-da3a-fed9fdb11ee6
+ms.date: 06/08/2017
 ---
 
 

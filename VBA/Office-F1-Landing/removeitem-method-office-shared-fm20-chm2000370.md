@@ -3,8 +3,9 @@ title: RemoveItem Method, Office Shared [fm20.chm2000370]
 keywords: fm20.chm2000370
 f1_keywords:
 - fm20.chm2000370
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 846cf705-2a50-48e5-929c-cd3edffd86b1
+ms.date: 06/08/2017
 ---
 
 

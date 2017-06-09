@@ -3,10 +3,11 @@ title: Application.GoalAreaHighlight Method (Project)
 keywords: vbapj.chm131221
 f1_keywords:
 - vbapj.chm131221
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GoalAreaHighlight
 ms.assetid: 56146d8b-f986-0ba7-3661-26b508db3ec8
+ms.date: 06/08/2017
 ---
 
 

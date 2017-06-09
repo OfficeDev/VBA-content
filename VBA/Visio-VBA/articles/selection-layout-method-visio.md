@@ -3,10 +3,11 @@ title: Selection.Layout Method (Visio)
 keywords: vis_sdr.chm11116385
 f1_keywords:
 - vis_sdr.chm11116385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Layout
 ms.assetid: 58ff8c1f-92b3-2473-d786-28e64e7c5586
+ms.date: 06/08/2017
 ---
 
 

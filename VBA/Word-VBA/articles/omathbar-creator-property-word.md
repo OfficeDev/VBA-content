@@ -3,10 +3,11 @@ title: OMathBar.Creator Property (Word)
 keywords: vbawd10.chm99680357
 f1_keywords:
 - vbawd10.chm99680357
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBar.Creator
 ms.assetid: eb0e14ce-ea14-a8ec-6be0-044878506bce
+ms.date: 06/08/2017
 ---
 
 

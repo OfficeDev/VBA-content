@@ -3,10 +3,11 @@ title: ComboBox.DefaultValue Property (Access)
 keywords: vbaac10.chm11389
 f1_keywords:
 - vbaac10.chm11389
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.DefaultValue
 ms.assetid: 9c8a001f-ba06-f5c4-654d-7f37cabec14e
+ms.date: 06/08/2017
 ---
 
 

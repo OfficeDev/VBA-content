@@ -3,10 +3,11 @@ title: MailMergeDataSource.InvalidComments Property (Word)
 keywords: vbawd10.chm152895503
 f1_keywords:
 - vbawd10.chm152895503
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.InvalidComments
 ms.assetid: 4eb0ea4d-e89d-548d-f3be-1d0c3592ce53
+ms.date: 06/08/2017
 ---
 
 

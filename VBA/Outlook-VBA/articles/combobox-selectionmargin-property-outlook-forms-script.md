@@ -3,8 +3,9 @@ title: ComboBox.SelectionMargin Property (Outlook Forms Script)
 keywords: olfm10.chm2001860
 f1_keywords:
 - olfm10.chm2001860
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 68d1b2c3-950b-1928-a790-edfbbc5de4b5
+ms.date: 06/08/2017
 ---
 
 

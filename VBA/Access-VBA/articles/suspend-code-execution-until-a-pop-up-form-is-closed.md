@@ -1,7 +1,8 @@
 ---
 title: Suspend Code Execution Until a Pop-up Form is Closed
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d4d419ac-bf43-3356-4c20-e9bb74f9f591
+ms.date: 06/08/2017
 ---
 
 

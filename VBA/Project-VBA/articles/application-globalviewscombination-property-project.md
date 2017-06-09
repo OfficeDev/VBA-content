@@ -3,10 +3,11 @@ title: Application.GlobalViewsCombination Property (Project)
 keywords: vbapj.chm132301
 f1_keywords:
 - vbapj.chm132301
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GlobalViewsCombination
 ms.assetid: 9eace5f8-163e-9b55-2ca4-f1bf43bf12d4
+ms.date: 06/08/2017
 ---
 
 

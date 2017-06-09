@@ -3,10 +3,11 @@ title: Pane.Activate Method (Excel)
 keywords: vbaxl10.chm360073
 f1_keywords:
 - vbaxl10.chm360073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.Activate
 ms.assetid: 8c5a97cf-df0f-01ad-a87f-83f79761ad61
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Task.Baseline3Duration Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline3Duration
 ms.assetid: db58503e-b7b2-04cd-482f-bfe2c0fd744c
+ms.date: 06/08/2017
 ---
 
 

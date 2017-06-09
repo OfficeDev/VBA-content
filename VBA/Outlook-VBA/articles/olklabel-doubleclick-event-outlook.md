@@ -3,10 +3,11 @@ title: OlkLabel.DoubleClick Event (Outlook)
 keywords: vbaol11.chm1000103
 f1_keywords:
 - vbaol11.chm1000103
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.DoubleClick
 ms.assetid: 9343f72d-e8b3-09f0-6ee0-a5872fbc78e2
+ms.date: 06/08/2017
 ---
 
 

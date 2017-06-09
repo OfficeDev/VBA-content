@@ -3,10 +3,11 @@ title: PivotTable.PivotSelectionStandard Property (Excel)
 keywords: vbaxl10.chm235138
 f1_keywords:
 - vbaxl10.chm235138
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotSelectionStandard
 ms.assetid: 72252681-65ec-885b-466d-fb890db812a4
+ms.date: 06/08/2017
 ---
 
 

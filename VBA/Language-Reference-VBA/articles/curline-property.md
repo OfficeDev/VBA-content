@@ -3,10 +3,11 @@ title: CurLine Property
 keywords: fm20.chm2001010
 f1_keywords:
 - fm20.chm2001010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CurLine
 ms.assetid: c154483f-fd12-d090-1643-0182f3895e0b
+ms.date: 06/08/2017
 ---
 
 

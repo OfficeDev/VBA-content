@@ -3,10 +3,11 @@ title: Application.OptionsEditEx Method (Project)
 keywords: vbapj.chm2159
 f1_keywords:
 - vbapj.chm2159
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsEditEx
 ms.assetid: d735d118-f004-ba67-7aa5-290ff256da10
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.ShapeParentChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeParentChanged
 ms.assetid: 526b0da9-c086-a461-2708-6c882210ce76
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DocumentItem.Display Method (Outlook)
 keywords: vbaol11.chm1212
 f1_keywords:
 - vbaol11.chm1212
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Display
 ms.assetid: 828924eb-ab76-4db1-5ae4-d0296d56996e
+ms.date: 06/08/2017
 ---
 
 

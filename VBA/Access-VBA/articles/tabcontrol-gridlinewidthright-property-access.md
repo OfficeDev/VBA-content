@@ -3,10 +3,11 @@ title: TabControl.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm14546
 f1_keywords:
 - vbaac10.chm14546
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineWidthRight
 ms.assetid: b670d58a-ee53-266b-999a-5c9576e172a7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.Acos Method (Excel)
 keywords: vbaxl10.chm137120
 f1_keywords:
 - vbaxl10.chm137120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Acos
 ms.assetid: 76954fdf-5aa0-de8d-1f7c-4184ebc472f4
+ms.date: 06/08/2017
 ---
 
 

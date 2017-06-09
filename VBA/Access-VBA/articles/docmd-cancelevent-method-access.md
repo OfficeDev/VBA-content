@@ -3,10 +3,11 @@ title: DoCmd.CancelEvent Method (Access)
 keywords: vbaac10.chm4144
 f1_keywords:
 - vbaac10.chm4144
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.CancelEvent
 ms.assetid: f8c0d2ff-9bf3-09d5-d15b-d3134bb6df80
+ms.date: 06/08/2017
 ---
 
 

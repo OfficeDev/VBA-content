@@ -3,10 +3,11 @@ title: Workbook.NewSheet Event (Excel)
 keywords: vbaxl10.chm503079
 f1_keywords:
 - vbaxl10.chm503079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.NewSheet
 ms.assetid: 5abb254d-a2c3-7dac-e79f-0de74a081ecd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Font.Duplicate Property (Word)
 keywords: vbawd10.chm156368906
 f1_keywords:
 - vbawd10.chm156368906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Duplicate
 ms.assetid: 86add1f8-9c1f-57c0-87d5-9fdef0841880
+ms.date: 06/08/2017
 ---
 
 

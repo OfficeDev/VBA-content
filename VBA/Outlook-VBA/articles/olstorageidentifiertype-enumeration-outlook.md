@@ -3,10 +3,11 @@ title: OlStorageIdentifierType Enumeration (Outlook)
 keywords: vbaol11.chm3111
 f1_keywords:
 - vbaol11.chm3111
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlStorageIdentifierType
 ms.assetid: 14283b38-6a0d-2954-bffe-87c36af27b2c
+ms.date: 06/08/2017
 ---
 
 

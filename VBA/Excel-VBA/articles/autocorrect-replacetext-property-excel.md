@@ -3,10 +3,11 @@ title: AutoCorrect.ReplaceText Property (Excel)
 keywords: vbaxl10.chm545077
 f1_keywords:
 - vbaxl10.chm545077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.ReplaceText
 ms.assetid: ff3321e3-335f-01a4-bbf2-2de8136d1d2d
+ms.date: 06/08/2017
 ---
 
 

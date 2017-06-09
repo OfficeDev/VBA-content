@@ -3,10 +3,11 @@ title: Page.CalloutRelationshipAdded Event (Visio)
 keywords: vis_sdr.chm10962075
 f1_keywords:
 - vis_sdr.chm10962075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.CalloutRelationshipAdded
 ms.assetid: b5181cd5-e763-a25c-abdc-3b32d2c902a0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Attachment.AutoLabel Property (Access)
 keywords: vbaac10.chm14003
 f1_keywords:
 - vbaac10.chm14003
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.AutoLabel
 ms.assetid: 09007508-f7b4-3fa6-2548-a78afd34bd0c
+ms.date: 06/08/2017
 ---
 
 

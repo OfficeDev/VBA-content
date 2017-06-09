@@ -3,10 +3,11 @@ title: Find.Forward Property (Word)
 keywords: vbawd10.chm162529290
 f1_keywords:
 - vbawd10.chm162529290
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Forward
 ms.assetid: deacedde-ca81-6fa0-6a62-696163d8c52d
+ms.date: 06/08/2017
 ---
 
 

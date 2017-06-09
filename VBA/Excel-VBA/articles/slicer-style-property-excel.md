@@ -3,10 +3,11 @@ title: Slicer.Style Property (Excel)
 keywords: vbaxl10.chm905088
 f1_keywords:
 - vbaxl10.chm905088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Style
 ms.assetid: def64adc-46db-a54f-539b-fbe8fcc1b22e
+ms.date: 06/08/2017
 ---
 
 

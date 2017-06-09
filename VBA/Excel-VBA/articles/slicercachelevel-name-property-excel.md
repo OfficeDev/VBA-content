@@ -3,10 +3,11 @@ title: SlicerCacheLevel.Name Property (Excel)
 keywords: vbaxl10.chm901076
 f1_keywords:
 - vbaxl10.chm901076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCacheLevel.Name
 ms.assetid: eaad75d7-943a-87cb-f933-7f7e141eedd9
+ms.date: 06/08/2017
 ---
 
 

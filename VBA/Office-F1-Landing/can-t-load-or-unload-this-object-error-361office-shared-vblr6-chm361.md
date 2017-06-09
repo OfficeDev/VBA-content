@@ -3,8 +3,9 @@ title: Can't load or unload this object (Error 361), Office Shared [vblr6.chm361
 keywords: vblr6.chm361
 f1_keywords:
 - vblr6.chm361
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a38d4069-5619-4150-ba4b-d03a5e50956f
+ms.date: 06/08/2017
 ---
 
 

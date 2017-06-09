@@ -1,9 +1,10 @@
 ---
 title: Point.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Delete
 ms.assetid: 5df17bb7-5f73-be23-43b8-fbda66b6007e
+ms.date: 06/08/2017
 ---
 
 

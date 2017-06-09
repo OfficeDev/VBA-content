@@ -3,10 +3,11 @@ title: Application.ViewShowSchedule Method (Project)
 keywords: vbapj.chm918
 f1_keywords:
 - vbapj.chm918
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowSchedule
 ms.assetid: 13788fb3-f3ef-cfdc-e66f-ba67273dd5c9
+ms.date: 06/08/2017
 ---
 
 

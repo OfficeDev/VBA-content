@@ -3,10 +3,11 @@ title: SharingItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm628
 f1_keywords:
 - vbaol11.chm628
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PrintOut
 ms.assetid: 203e03f0-ab73-ce2b-0b0e-d696435595e0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalendarModule.Position Property (Outlook)
 keywords: vbaol11.chm2828
 f1_keywords:
 - vbaol11.chm2828
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.Position
 ms.assetid: 3857d981-acd7-975c-0ff1-453ee2b7402e
+ms.date: 06/08/2017
 ---
 
 

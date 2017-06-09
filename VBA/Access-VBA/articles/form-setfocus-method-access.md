@@ -3,10 +3,11 @@ title: Form.SetFocus Method (Access)
 keywords: vbaac10.chm13507
 f1_keywords:
 - vbaac10.chm13507
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SetFocus
 ms.assetid: b0169892-0040-bb61-904f-0ea81eea681a
+ms.date: 06/08/2017
 ---
 
 

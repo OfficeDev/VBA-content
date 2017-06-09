@@ -3,10 +3,11 @@ title: Layers.ObjectType Property (Visio)
 keywords: vis_sdr.chm11913960
 f1_keywords:
 - vis_sdr.chm11913960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.ObjectType
 ms.assetid: c5542132-81b7-bd14-22b3-a2e33c828543
+ms.date: 06/08/2017
 ---
 
 

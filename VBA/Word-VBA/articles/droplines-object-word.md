@@ -3,10 +3,11 @@ title: DropLines Object (Word)
 keywords: vbawd10.chm1602
 f1_keywords:
 - vbawd10.chm1602
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropLines
 ms.assetid: 4691b002-8512-7cd3-5a20-561232e18d88
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Calendars.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendars.Item
 ms.assetid: de9595de-a159-e19a-6a7c-81c67ca7557f
+ms.date: 06/08/2017
 ---
 
 

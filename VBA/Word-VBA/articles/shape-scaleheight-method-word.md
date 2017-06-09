@@ -3,10 +3,11 @@ title: Shape.ScaleHeight Method (Word)
 keywords: vbawd10.chm161480723
 f1_keywords:
 - vbawd10.chm161480723
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.ScaleHeight
 ms.assetid: 994aac8b-5842-5986-0d27-01e52e01066d
+ms.date: 06/08/2017
 ---
 
 

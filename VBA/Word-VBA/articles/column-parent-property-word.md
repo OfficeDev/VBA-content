@@ -3,10 +3,11 @@ title: Column.Parent Property (Word)
 keywords: vbawd10.chm156173290
 f1_keywords:
 - vbawd10.chm156173290
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Parent
 ms.assetid: bdec1d26-f9bd-172e-6cb2-995ddbe3fa82
+ms.date: 06/08/2017
 ---
 
 

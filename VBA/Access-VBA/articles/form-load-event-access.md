@@ -3,10 +3,11 @@ title: Form.Load Event (Access)
 keywords: vbaac10.chm13633
 f1_keywords:
 - vbaac10.chm13633
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Load
 ms.assetid: a7547066-e1eb-6cdc-a170-2ee222081720
+ms.date: 06/08/2017
 ---
 
 

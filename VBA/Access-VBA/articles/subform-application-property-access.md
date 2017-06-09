@@ -3,10 +3,11 @@ title: SubForm.Application Property (Access)
 keywords: vbaac10.chm11914
 f1_keywords:
 - vbaac10.chm11914
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Application
 ms.assetid: 2aafea49-e27c-b3d4-2710-b1ef1c84b195
+ms.date: 06/08/2017
 ---
 
 

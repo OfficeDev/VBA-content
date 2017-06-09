@@ -3,10 +3,11 @@ title: PbTrackingPresetType Enumeration (Publisher)
 keywords: vbapb10.chm65563
 f1_keywords:
 - vbapb10.chm65563
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbTrackingPresetType
 ms.assetid: a08bf813-450a-4777-a7fd-a0c338386a9b
+ms.date: 06/08/2017
 ---
 
 

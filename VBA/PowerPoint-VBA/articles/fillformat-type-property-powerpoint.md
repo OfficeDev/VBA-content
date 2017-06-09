@@ -3,10 +3,11 @@ title: FillFormat.Type Property (PowerPoint)
 keywords: vbapp10.chm552023
 f1_keywords:
 - vbapp10.chm552023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Type
 ms.assetid: e7818487-0e6f-3227-487d-94ffeaf85006
+ms.date: 06/08/2017
 ---
 
 

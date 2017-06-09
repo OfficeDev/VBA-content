@@ -3,10 +3,11 @@ title: ComboBox.FontName Property (Access)
 keywords: vbaac10.chm11414
 f1_keywords:
 - vbaac10.chm11414
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.FontName
 ms.assetid: 0869818d-225e-c46b-39f3-5d500374361b
+ms.date: 06/08/2017
 ---
 
 

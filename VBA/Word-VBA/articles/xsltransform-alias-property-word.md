@@ -3,10 +3,11 @@ title: XSLTransform.Alias Property (Word)
 keywords: vbawd10.chm76742658
 f1_keywords:
 - vbawd10.chm76742658
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XSLTransform.Alias
 ms.assetid: 38615e8f-cb40-6e83-f29c-520430f16ada
+ms.date: 06/08/2017
 ---
 
 

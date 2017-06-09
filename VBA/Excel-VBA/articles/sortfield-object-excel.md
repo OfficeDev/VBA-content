@@ -3,10 +3,11 @@ title: SortField Object (Excel)
 keywords: vbaxl10.chm842072
 f1_keywords:
 - vbaxl10.chm842072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField
 ms.assetid: 2becf77f-c072-2060-9baf-ebcf785c05bb
+ms.date: 06/08/2017
 ---
 
 

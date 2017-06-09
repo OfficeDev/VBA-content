@@ -3,10 +3,11 @@ title: Worksheet.StandardWidth Property (Excel)
 keywords: vbaxl10.chm175130
 f1_keywords:
 - vbaxl10.chm175130
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.StandardWidth
 ms.assetid: 6792ce79-0a73-fcbd-ea52-7d7aee7b9932
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DistListItem.ReminderPlaySound Property (Outlook)
 keywords: vbaol11.chm1174
 f1_keywords:
 - vbaol11.chm1174
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReminderPlaySound
 ms.assetid: 449c0c37-b0f7-ff42-1ba4-6eabd990e4db
+ms.date: 06/08/2017
 ---
 
 

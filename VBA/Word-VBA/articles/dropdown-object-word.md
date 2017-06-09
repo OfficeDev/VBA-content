@@ -3,10 +3,11 @@ title: DropDown Object (Word)
 keywords: vbawd10.chm2341
 f1_keywords:
 - vbawd10.chm2341
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropDown
 ms.assetid: 55233d61-d6d0-30f9-6825-ebbdbeb928b6
+ms.date: 06/08/2017
 ---
 
 

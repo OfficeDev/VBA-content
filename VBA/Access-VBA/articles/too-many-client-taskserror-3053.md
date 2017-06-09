@@ -3,14 +3,15 @@ title: Too many client tasks. (Error 3053)
 keywords: jeterr40.chm5003053
 f1_keywords:
 - jeterr40.chm5003053
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9fdb1f27-ee42-34f9-754d-a86fe3707da9
+ms.date: 06/08/2017
 ---
 
 
 # Too many client tasks. (Error 3053)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

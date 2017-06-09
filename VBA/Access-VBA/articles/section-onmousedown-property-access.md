@@ -3,10 +3,11 @@ title: Section.OnMouseDown Property (Access)
 keywords: vbaac10.chm12209
 f1_keywords:
 - vbaac10.chm12209
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnMouseDown
 ms.assetid: 3780a950-6f01-10de-7e91-c991e92f344a
+ms.date: 06/08/2017
 ---
 
 

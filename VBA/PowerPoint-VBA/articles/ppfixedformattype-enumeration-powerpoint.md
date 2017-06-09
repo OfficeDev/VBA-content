@@ -1,9 +1,10 @@
 ---
 title: PpFixedFormatType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFixedFormatType
 ms.assetid: f7fcd263-8c00-65f8-cd66-cd22af7e2e87
+ms.date: 06/08/2017
 ---
 
 

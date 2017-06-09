@@ -3,10 +3,11 @@ title: Point.ApplyDataLabels Method (Excel)
 keywords: vbaxl10.chm576100
 f1_keywords:
 - vbaxl10.chm576100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.ApplyDataLabels
 ms.assetid: f242eef7-75ed-868f-bb8d-d42838cc9ff0
+ms.date: 06/08/2017
 ---
 
 

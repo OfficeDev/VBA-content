@@ -1,9 +1,10 @@
 ---
 title: Task.OutlineLevel Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.OutlineLevel
 ms.assetid: 7b852e27-bdbc-ee01-4146-c22b929adfa5
+ms.date: 06/08/2017
 ---
 
 

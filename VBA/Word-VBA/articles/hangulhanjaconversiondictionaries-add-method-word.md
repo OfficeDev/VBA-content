@@ -3,10 +3,11 @@ title: HangulHanjaConversionDictionaries.Add Method (Word)
 keywords: vbawd10.chm165675109
 f1_keywords:
 - vbawd10.chm165675109
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.Add
 ms.assetid: 106d6c75-5d3f-1965-79f0-942408d0450a
+ms.date: 06/08/2017
 ---
 
 

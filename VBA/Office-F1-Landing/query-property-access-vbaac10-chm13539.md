@@ -3,8 +3,9 @@ title: Query Property, Access [vbaac10.chm13539]
 keywords: vbaac10.chm13539
 f1_keywords:
 - vbaac10.chm13539
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3dbd2ddc-82f2-46e5-b947-98f3228a6a0a
+ms.date: 06/08/2017
 ---
 
 

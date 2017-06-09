@@ -3,8 +3,9 @@ title: Budget Property, Project [vbapj.chm131587]
 keywords: vbapj.chm131587
 f1_keywords:
 - vbapj.chm131587
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d8023a31-e651-4f7a-ac24-6c44c9c19b40
+ms.date: 06/08/2017
 ---
 
 

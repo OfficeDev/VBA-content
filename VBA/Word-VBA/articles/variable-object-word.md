@@ -3,10 +3,11 @@ title: Variable Object (Word)
 keywords: vbawd10.chm2406
 f1_keywords:
 - vbawd10.chm2406
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variable
 ms.assetid: e6a75f54-6f91-75b4-7ca0-9be302e8dbe0
+ms.date: 06/08/2017
 ---
 
 

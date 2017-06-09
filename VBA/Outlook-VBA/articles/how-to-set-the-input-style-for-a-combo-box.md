@@ -3,8 +3,9 @@ title: "How to: Set the Input Style for a Combo Box"
 keywords: olfm10.chm3077245
 f1_keywords:
 - olfm10.chm3077245
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3cc10ca8-4c9a-93e5-da88-460198c48c48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ChartGroups Collection (Excel)
 keywords: vbagr10.chm5207191
 f1_keywords:
 - vbagr10.chm5207191
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 203bc32b-61e7-9bbc-bcc3-c7d8afc8b2ae
+ms.date: 06/08/2017
 ---
 
 

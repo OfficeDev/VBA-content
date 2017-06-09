@@ -3,8 +3,9 @@ title: UniqueID Property, Project [vbapj.chm132720]
 keywords: vbapj.chm132720
 f1_keywords:
 - vbapj.chm132720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f5821b2b-c85c-4a6c-a8b4-f8202158e18b
+ms.date: 06/08/2017
 ---
 
 

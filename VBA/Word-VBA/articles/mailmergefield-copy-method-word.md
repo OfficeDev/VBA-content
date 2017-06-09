@@ -3,10 +3,11 @@ title: MailMergeField.Copy Method (Word)
 keywords: vbawd10.chm152961129
 f1_keywords:
 - vbawd10.chm152961129
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Copy
 ms.assetid: 5e12d57c-30f0-a63b-1564-04fc9a9f96fc
+ms.date: 06/08/2017
 ---
 
 

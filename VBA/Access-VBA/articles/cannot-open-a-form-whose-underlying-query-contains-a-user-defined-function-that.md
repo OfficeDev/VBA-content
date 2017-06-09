@@ -3,14 +3,15 @@ title: Cannot open a form whose underlying query contains a user-defined functio
 keywords: jeterr40.chm5003252
 f1_keywords:
 - jeterr40.chm5003252
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dfa5991d-81e0-e103-b5d3-ffe10736691d
+ms.date: 06/08/2017
 ---
 
 
 # Cannot open a form whose underlying query contains a user-defined function that attempts to set or get the form's RecordsetClone property. (Error 3252)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

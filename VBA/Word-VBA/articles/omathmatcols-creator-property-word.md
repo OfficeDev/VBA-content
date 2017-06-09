@@ -3,10 +3,11 @@ title: OMathMatCols.Creator Property (Word)
 keywords: vbawd10.chm261881957
 f1_keywords:
 - vbawd10.chm261881957
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatCols.Creator
 ms.assetid: 5df162df-dd4a-4c76-7dc3-7c6f5b0d04b4
+ms.date: 06/08/2017
 ---
 
 

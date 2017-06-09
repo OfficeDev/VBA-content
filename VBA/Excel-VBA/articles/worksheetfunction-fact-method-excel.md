@@ -3,10 +3,11 @@ title: WorksheetFunction.Fact Method (Excel)
 keywords: vbaxl10.chm137144
 f1_keywords:
 - vbaxl10.chm137144
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Fact
 ms.assetid: 088fffd4-6ba9-0151-969e-8e7b71a77e6b
+ms.date: 06/08/2017
 ---
 
 

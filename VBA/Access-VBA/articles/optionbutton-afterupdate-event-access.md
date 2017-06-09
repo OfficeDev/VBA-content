@@ -3,10 +3,11 @@ title: OptionButton.AfterUpdate Event (Access)
 keywords: vbaac10.chm14135
 f1_keywords:
 - vbaac10.chm14135
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.AfterUpdate
 ms.assetid: dbff2785-184c-601c-f26e-1ca99ea496a8
+ms.date: 06/08/2017
 ---
 
 

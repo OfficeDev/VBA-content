@@ -3,8 +3,9 @@ title: "How to: Control the Extent of Scrolling in a Scroll Bar"
 keywords: olfm10.chm3077200
 f1_keywords:
 - olfm10.chm3077200
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 60a8eea3-9277-4db0-ffa8-5ad2a8adb0b4
+ms.date: 06/08/2017
 ---
 
 

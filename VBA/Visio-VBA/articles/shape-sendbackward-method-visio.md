@@ -3,10 +3,11 @@ title: Shape.SendBackward Method (Visio)
 keywords: vis_sdr.chm11216540
 f1_keywords:
 - vis_sdr.chm11216540
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SendBackward
 ms.assetid: 9e43cfd9-c2d3-9042-46e3-39e209ae54aa
+ms.date: 06/08/2017
 ---
 
 

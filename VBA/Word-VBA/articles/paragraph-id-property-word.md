@@ -3,10 +3,11 @@ title: Paragraph.ID Property (Word)
 keywords: vbawd10.chm156696780
 f1_keywords:
 - vbawd10.chm156696780
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.ID
 ms.assetid: f3cfe8a7-99dc-065b-4398-8ad708ab2b24
+ms.date: 06/08/2017
 ---
 
 

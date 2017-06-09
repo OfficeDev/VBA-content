@@ -3,10 +3,11 @@ title: WorksheetFunction.Bin2Dec Method (Excel)
 keywords: vbaxl10.chm137270
 f1_keywords:
 - vbaxl10.chm137270
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Bin2Dec
 ms.assetid: 05a212f7-8330-002f-8bbc-f54550d1276e
+ms.date: 06/08/2017
 ---
 
 

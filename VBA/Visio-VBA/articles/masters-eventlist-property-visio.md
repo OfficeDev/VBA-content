@@ -3,10 +3,11 @@ title: Masters.EventList Property (Visio)
 keywords: vis_sdr.chm10813480
 f1_keywords:
 - vis_sdr.chm10813480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.EventList
 ms.assetid: 1703269d-91bb-2a66-538c-20aecd48f879
+ms.date: 06/08/2017
 ---
 
 

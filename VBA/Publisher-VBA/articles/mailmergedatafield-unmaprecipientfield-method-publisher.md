@@ -3,10 +3,11 @@ title: MailMergeDataField.UnMapRecipientField Method (Publisher)
 keywords: vbapb10.chm6422564
 f1_keywords:
 - vbapb10.chm6422564
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.UnMapRecipientField
 ms.assetid: 0063dfa7-1168-3701-56a3-f1908cf0d23a
+ms.date: 06/08/2017
 ---
 
 

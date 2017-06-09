@@ -3,10 +3,11 @@ title: LineFormat.Visible Property (Word)
 keywords: vbawd10.chm164233328
 f1_keywords:
 - vbawd10.chm164233328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.Visible
 ms.assetid: 728c3146-6c7b-730c-aed0-c263481c374a
+ms.date: 06/08/2017
 ---
 
 

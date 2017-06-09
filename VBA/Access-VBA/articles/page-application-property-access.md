@@ -3,10 +3,11 @@ title: Page.Application Property (Access)
 keywords: vbaac10.chm12138
 f1_keywords:
 - vbaac10.chm12138
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Application
 ms.assetid: eaae5c67-91af-ac9d-685c-81f82ec2b023
+ms.date: 06/08/2017
 ---
 
 

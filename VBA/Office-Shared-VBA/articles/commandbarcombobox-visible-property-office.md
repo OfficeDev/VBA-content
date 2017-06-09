@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Visible Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Visible
 ms.assetid: d3fa2bfe-10ea-70d7-40f9-bf757fff6e27
+ms.date: 06/08/2017
 ---
 
 

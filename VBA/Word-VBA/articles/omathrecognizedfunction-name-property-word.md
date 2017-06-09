@@ -3,10 +3,11 @@ title: OMathRecognizedFunction.Name Property (Word)
 keywords: vbawd10.chm227737704
 f1_keywords:
 - vbawd10.chm227737704
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRecognizedFunction.Name
 ms.assetid: 2d7fe25e-1312-2d2e-cee1-06f718331c76
+ms.date: 06/08/2017
 ---
 
 

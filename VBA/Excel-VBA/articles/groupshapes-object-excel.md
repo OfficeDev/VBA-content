@@ -3,10 +3,11 @@ title: GroupShapes Object (Excel)
 keywords: vbaxl10.chm641072
 f1_keywords:
 - vbaxl10.chm641072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GroupShapes
 ms.assetid: 252d35da-9ab4-97f4-1e00-48ccfc003534
+ms.date: 06/08/2017
 ---
 
 

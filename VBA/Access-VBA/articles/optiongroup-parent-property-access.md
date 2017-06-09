@@ -3,10 +3,11 @@ title: OptionGroup.Parent Property (Access)
 keywords: vbaac10.chm10810
 f1_keywords:
 - vbaac10.chm10810
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Parent
 ms.assetid: 882e6786-a8c3-d865-675d-a97e3143a8ab
+ms.date: 06/08/2017
 ---
 
 

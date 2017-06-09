@@ -3,10 +3,11 @@ title: DocumentLibraryVersion.ModifiedBy Property (Office)
 keywords: vbaof11.chm277020
 f1_keywords:
 - vbaof11.chm277020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.ModifiedBy
 ms.assetid: 0a24bdd1-5636-0f37-b3ac-335b61b5b8a4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.IncrementRotation Method (Publisher)
 keywords: vbapb10.chm2293793
 f1_keywords:
 - vbapb10.chm2293793
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.IncrementRotation
 ms.assetid: c58cdc12-948a-d6f8-2ddd-113008c7201b
+ms.date: 06/08/2017
 ---
 
 

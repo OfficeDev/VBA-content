@@ -1,9 +1,10 @@
 ---
 title: XlSlicerSort Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSlicerSort
 ms.assetid: e8a8bcac-880d-e5d5-c05f-2ecb2910639c
+ms.date: 06/08/2017
 ---
 
 

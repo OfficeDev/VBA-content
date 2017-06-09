@@ -3,8 +3,9 @@ title: Flag9 Property, Project [vbapj.chm132254]
 keywords: vbapj.chm132254
 f1_keywords:
 - vbapj.chm132254
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 03e291f9-f8e5-4692-b360-49be9c857d98
+ms.date: 06/08/2017
 ---
 
 

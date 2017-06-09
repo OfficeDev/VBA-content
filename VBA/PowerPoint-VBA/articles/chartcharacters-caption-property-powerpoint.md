@@ -1,9 +1,10 @@
 ---
 title: ChartCharacters.Caption Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Caption
 ms.assetid: 4bfaf504-4489-cf51-3879-dd0100a95183
+ms.date: 06/08/2017
 ---
 
 

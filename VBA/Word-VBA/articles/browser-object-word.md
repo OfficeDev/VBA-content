@@ -3,10 +3,11 @@ title: Browser Object (Word)
 keywords: vbawd10.chm2350
 f1_keywords:
 - vbawd10.chm2350
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser
 ms.assetid: 447bcab6-cfb2-77b0-9bbd-35e774417a60
+ms.date: 06/08/2017
 ---
 
 

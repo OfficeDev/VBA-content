@@ -3,10 +3,11 @@ title: Project.ExportAsFixedFormat Method (Project)
 keywords: vbapj.chm132843
 f1_keywords:
 - vbapj.chm132843
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ExportAsFixedFormat
 ms.assetid: ee217506-bcc5-a514-0c32-ba6402ac07f2
+ms.date: 06/08/2017
 ---
 
 

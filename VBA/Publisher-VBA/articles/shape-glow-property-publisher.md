@@ -1,7 +1,8 @@
 ---
 title: Shape.Glow Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: f138e966-4b01-8cd2-36e7-d9d10b33062f
+ms.date: 06/08/2017
 ---
 
 

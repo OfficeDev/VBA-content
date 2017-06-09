@@ -3,8 +3,9 @@ title: CostVariance Property, Project [vbapj.chm131673]
 keywords: vbapj.chm131673
 f1_keywords:
 - vbapj.chm131673
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bdbc3f31-597a-4616-91e9-c740dc307f1f
+ms.date: 06/08/2017
 ---
 
 

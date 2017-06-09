@@ -3,8 +3,9 @@ title: Procedure type mismatch, Office Shared [vblr6.chm1011295]
 keywords: vblr6.chm1011295
 f1_keywords:
 - vblr6.chm1011295
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3fabb777-8571-4d22-85fc-b05a71d8f53b
+ms.date: 06/08/2017
 ---
 
 

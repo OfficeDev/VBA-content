@@ -3,10 +3,11 @@ title: Worksheet.CodeName Property (Excel)
 keywords: vbaxl10.chm174076
 f1_keywords:
 - vbaxl10.chm174076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.CodeName
 ms.assetid: a734c6d7-3287-3639-6efe-60d270343a44
+ms.date: 06/08/2017
 ---
 
 

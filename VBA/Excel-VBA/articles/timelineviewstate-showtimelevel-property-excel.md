@@ -3,8 +3,9 @@ title: TimelineViewState.ShowTimeLevel Property (Excel)
 keywords: vbaxl10.chm952075
 f1_keywords:
 - vbaxl10.chm952075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c197162c-4b3e-f1d9-62ac-7e86932f4d95
+ms.date: 06/08/2017
 ---
 
 

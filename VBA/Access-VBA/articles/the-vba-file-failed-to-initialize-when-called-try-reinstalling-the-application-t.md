@@ -3,14 +3,15 @@ title: The VBA file failed to initialize when called. Try reinstalling the appli
 keywords: jeterr40.chm5003447
 f1_keywords:
 - jeterr40.chm5003447
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 52c116e3-fa21-f39e-52a6-d99cbeb9a5a7
+ms.date: 06/08/2017
 ---
 
 
 # The VBA file failed to initialize when called. Try reinstalling the application that returned the error. (Error 3447)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

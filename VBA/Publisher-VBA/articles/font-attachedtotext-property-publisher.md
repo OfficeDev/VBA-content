@@ -3,10 +3,11 @@ title: Font.AttachedToText Property (Publisher)
 keywords: vbapb10.chm5373989
 f1_keywords:
 - vbapb10.chm5373989
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.AttachedToText
 ms.assetid: 23b0519a-9f35-fa25-752a-4942e8161edd
+ms.date: 06/08/2017
 ---
 
 

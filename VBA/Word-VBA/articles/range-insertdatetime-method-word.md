@@ -3,10 +3,11 @@ title: Range.InsertDateTime Method (Word)
 keywords: vbawd10.chm157155772
 f1_keywords:
 - vbawd10.chm157155772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertDateTime
 ms.assetid: 2203a0bb-6c90-ee55-6bdc-73f6761e4603
+ms.date: 06/08/2017
 ---
 
 

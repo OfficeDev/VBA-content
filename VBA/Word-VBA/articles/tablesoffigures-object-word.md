@@ -3,8 +3,9 @@ title: TablesOfFigures Object (Word)
 keywords: vbawd10.chm2338
 f1_keywords:
 - vbawd10.chm2338
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 2a5b3c3d-bb25-e31d-e7d3-b011732de6fb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TemplatePath Property, Project [vbapj.chm131120]
 keywords: vbapj.chm131120
 f1_keywords:
 - vbapj.chm131120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b97b6f17-bbae-475c-b3b5-389020247385
+ms.date: 06/08/2017
 ---
 
 

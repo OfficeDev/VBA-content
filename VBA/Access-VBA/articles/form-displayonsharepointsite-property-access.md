@@ -3,10 +3,11 @@ title: Form.DisplayOnSharePointSite Property (Access)
 keywords: vbaac10.chm13629
 f1_keywords:
 - vbaac10.chm13629
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DisplayOnSharePointSite
 ms.assetid: f741a5df-5924-2756-409a-94a8fcf21809
+ms.date: 06/08/2017
 ---
 
 

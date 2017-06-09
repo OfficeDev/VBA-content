@@ -3,8 +3,9 @@ title: TimelineViewState.ShowSelectionLabel Property (Excel)
 keywords: vbaxl10.chm952074
 f1_keywords:
 - vbaxl10.chm952074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f6addfd0-7327-fa17-a1e2-1ba1af999c31
+ms.date: 06/08/2017
 ---
 
 

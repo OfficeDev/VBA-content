@@ -3,10 +3,11 @@ title: TabControl.Visible Property (Access)
 keywords: vbaac10.chm12076
 f1_keywords:
 - vbaac10.chm12076
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Visible
 ms.assetid: 4e112aa7-113c-64e4-8e6c-c495c40ab5cd
+ms.date: 06/08/2017
 ---
 
 

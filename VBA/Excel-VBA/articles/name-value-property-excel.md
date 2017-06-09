@@ -3,10 +3,11 @@ title: Name.Value Property (Excel)
 keywords: vbaxl10.chm490082
 f1_keywords:
 - vbaxl10.chm490082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Value
 ms.assetid: 26732c54-3519-885d-e40d-69c6b1795318
+ms.date: 06/08/2017
 ---
 
 

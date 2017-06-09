@@ -3,10 +3,11 @@ title: WorksheetFunction.BetaInv Method (Excel)
 keywords: vbaxl10.chm137176
 f1_keywords:
 - vbaxl10.chm137176
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BetaInv
 ms.assetid: 13588c71-8075-7145-915b-fd46251a3395
+ms.date: 06/08/2017
 ---
 
 

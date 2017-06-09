@@ -1,9 +1,10 @@
 ---
 title: XlConsolidationFunction Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlConsolidationFunction
 ms.assetid: a3d0e4c0-8463-340c-a258-219d49f715d7
+ms.date: 06/08/2017
 ---
 
 

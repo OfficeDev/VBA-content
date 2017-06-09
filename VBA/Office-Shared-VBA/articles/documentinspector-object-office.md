@@ -3,10 +3,11 @@ title: DocumentInspector Object (Office)
 keywords: vbaof11.chm279000
 f1_keywords:
 - vbaof11.chm279000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspector
 ms.assetid: 75dcf0ca-5afa-996b-e8d2-13d71ac0f6f8
+ms.date: 06/08/2017
 ---
 
 

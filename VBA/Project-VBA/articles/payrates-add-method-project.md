@@ -1,9 +1,10 @@
 ---
 title: PayRates.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PayRates.Add
 ms.assetid: ba5d2667-7452-f9d9-032e-bb7c9d1d4911
+ms.date: 06/08/2017
 ---
 
 

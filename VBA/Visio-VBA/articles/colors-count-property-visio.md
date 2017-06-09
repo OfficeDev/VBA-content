@@ -3,10 +3,11 @@ title: Colors.Count Property (Visio)
 keywords: vis_sdr.chm12313330
 f1_keywords:
 - vis_sdr.chm12313330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Colors.Count
 ms.assetid: ade1336b-fc3f-ef2d-0365-914a480260ad
+ms.date: 06/08/2017
 ---
 
 

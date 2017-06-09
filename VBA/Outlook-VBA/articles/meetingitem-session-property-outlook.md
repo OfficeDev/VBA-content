@@ -3,10 +3,11 @@ title: MeetingItem.Session Property (Outlook)
 keywords: vbaol11.chm1400
 f1_keywords:
 - vbaol11.chm1400
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Session
 ms.assetid: b18a448d-c3a6-e8cd-f251-30883e53e484
+ms.date: 06/08/2017
 ---
 
 

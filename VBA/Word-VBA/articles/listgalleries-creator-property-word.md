@@ -3,10 +3,11 @@ title: ListGalleries.Creator Property (Word)
 keywords: vbawd10.chm160760809
 f1_keywords:
 - vbawd10.chm160760809
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListGalleries.Creator
 ms.assetid: 2c24a4a7-b109-0b50-483a-b118b76ed731
+ms.date: 06/08/2017
 ---
 
 

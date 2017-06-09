@@ -3,10 +3,11 @@ title: WebPageOptions.BackgroundSound Property (Publisher)
 keywords: vbapb10.chm544774
 f1_keywords:
 - vbapb10.chm544774
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.BackgroundSound
 ms.assetid: c6be30e0-28ea-e269-c546-48e0eb284ac4
+ms.date: 06/08/2017
 ---
 
 

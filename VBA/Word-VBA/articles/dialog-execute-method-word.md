@@ -3,10 +3,11 @@ title: Dialog.Execute Method (Word)
 keywords: vbawd10.chm163085569
 f1_keywords:
 - vbawd10.chm163085569
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dialog.Execute
 ms.assetid: 7f7dce3a-40ef-988c-f5ea-06a25c0ccc4b
+ms.date: 06/08/2017
 ---
 
 

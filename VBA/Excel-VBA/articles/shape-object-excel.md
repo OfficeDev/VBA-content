@@ -3,10 +3,11 @@ title: Shape Object (Excel)
 keywords: vbaxl10.chm635072
 f1_keywords:
 - vbaxl10.chm635072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape
 ms.assetid: 8f01fcd1-b7d9-5216-2de5-40fb6648a403
+ms.date: 06/08/2017
 ---
 
 

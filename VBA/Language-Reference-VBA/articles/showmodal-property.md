@@ -3,10 +3,11 @@ title: ShowModal Property
 keywords: vblr6.chm1248574
 f1_keywords:
 - vblr6.chm1248574
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ShowModal
 ms.assetid: 710c7bc7-ce50-057f-680e-e2be157d0dac
+ms.date: 06/08/2017
 ---
 
 

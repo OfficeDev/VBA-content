@@ -3,10 +3,11 @@ title: CustomXMLNode.ReplaceChildSubtree Method (Office)
 keywords: vbaof11.chm294027
 f1_keywords:
 - vbaof11.chm294027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.ReplaceChildSubtree
 ms.assetid: 955ec2ab-c6c9-242c-5e05-3ff03b00b120
+ms.date: 06/08/2017
 ---
 
 

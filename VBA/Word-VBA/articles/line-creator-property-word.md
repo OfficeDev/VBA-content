@@ -3,10 +3,11 @@ title: Line.Creator Property (Word)
 keywords: vbawd10.chm49611753
 f1_keywords:
 - vbawd10.chm49611753
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Creator
 ms.assetid: ebca9236-4623-7ecf-229e-917e3a024b0a
+ms.date: 06/08/2017
 ---
 
 

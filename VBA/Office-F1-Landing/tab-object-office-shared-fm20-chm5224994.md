@@ -3,8 +3,9 @@ title: Tab Object, Office Shared [fm20.chm5224994]
 keywords: fm20.chm5224994
 f1_keywords:
 - fm20.chm5224994
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e6ae263-3d77-419d-9c0f-23efcbd41018
+ms.date: 06/08/2017
 ---
 
 

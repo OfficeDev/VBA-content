@@ -3,8 +3,9 @@ title: Width Property, Access [vbaac10.chm11073]
 keywords: vbaac10.chm11073
 f1_keywords:
 - vbaac10.chm11073
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d7abde22-1a32-48cf-94f7-44721022c0da
+ms.date: 06/08/2017
 ---
 
 

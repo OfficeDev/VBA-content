@@ -3,10 +3,11 @@ title: SharedWorkspace.Refresh Method (Office)
 keywords: vbaof11.chm276007
 f1_keywords:
 - vbaof11.chm276007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.Refresh
 ms.assetid: 62059fb9-b695-78e7-ad44-c3b918c9d423
+ms.date: 06/08/2017
 ---
 
 

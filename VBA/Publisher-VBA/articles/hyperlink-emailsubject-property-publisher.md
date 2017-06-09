@@ -3,10 +3,11 @@ title: Hyperlink.EmailSubject Property (Publisher)
 keywords: vbapb10.chm4587524
 f1_keywords:
 - vbapb10.chm4587524
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.EmailSubject
 ms.assetid: 16b60648-56fe-b8ba-3424-0dd6e88727e6
+ms.date: 06/08/2017
 ---
 
 

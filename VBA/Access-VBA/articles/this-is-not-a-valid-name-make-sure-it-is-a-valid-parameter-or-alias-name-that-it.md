@@ -3,14 +3,15 @@ title: This is not a valid name. Make sure it is a valid parameter or alias name
 keywords: jeterr40.chm5003125
 f1_keywords:
 - jeterr40.chm5003125
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ea8192f9-43fc-739b-4058-ec2d43d01793
+ms.date: 06/08/2017
 ---
 
 
 # This is not a valid name. Make sure it is a valid parameter or alias name, that it does not include invalid characters or punctuation, and that the name is not too long. (Error 3125)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

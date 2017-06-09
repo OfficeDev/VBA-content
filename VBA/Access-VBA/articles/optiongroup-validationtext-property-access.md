@@ -3,10 +3,11 @@ title: OptionGroup.ValidationText Property (Access)
 keywords: vbaac10.chm10825
 f1_keywords:
 - vbaac10.chm10825
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.ValidationText
 ms.assetid: d115a085-7c22-7a88-539e-ec4461ca6d5d
+ms.date: 06/08/2017
 ---
 
 

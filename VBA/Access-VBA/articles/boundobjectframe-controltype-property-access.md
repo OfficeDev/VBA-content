@@ -3,10 +3,11 @@ title: BoundObjectFrame.ControlType Property (Access)
 keywords: vbaac10.chm10909
 f1_keywords:
 - vbaac10.chm10909
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ControlType
 ms.assetid: 16ccb55a-9866-fd21-12a1-791e2c460db2
+ms.date: 06/08/2017
 ---
 
 

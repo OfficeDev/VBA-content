@@ -1,9 +1,10 @@
 ---
 title: Task.Number7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Number7
 ms.assetid: f9e501a4-59b6-aabc-5503-b972a4b8b6e8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Using Enumerated Constants in Microsoft Access 2002 and Later
 keywords: vbaac10.chm113266
 f1_keywords:
 - vbaac10.chm113266
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7eb8fb08-76e5-a59f-5d6d-64c7081470e6
+ms.date: 06/08/2017
 ---
 
 

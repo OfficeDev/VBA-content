@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Parent
 ms.assetid: d6727c3d-7666-2339-1271-d44e4545b97c
+ms.date: 06/08/2017
 ---
 
 

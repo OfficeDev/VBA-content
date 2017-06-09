@@ -3,8 +3,9 @@ title: TwoColorGradient Method, Excel [vbagr10.chm67160]
 keywords: vbagr10.chm67160
 f1_keywords:
 - vbagr10.chm67160
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ea650fb8-fe07-456a-abe6-7263b28d3715
+ms.date: 06/08/2017
 ---
 
 

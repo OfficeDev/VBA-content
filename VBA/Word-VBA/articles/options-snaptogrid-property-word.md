@@ -3,10 +3,11 @@ title: Options.SnapToGrid Property (Word)
 keywords: vbawd10.chm162988111
 f1_keywords:
 - vbawd10.chm162988111
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SnapToGrid
 ms.assetid: 253c0e7a-02d3-30da-ebe6-60f73894a421
+ms.date: 06/08/2017
 ---
 
 

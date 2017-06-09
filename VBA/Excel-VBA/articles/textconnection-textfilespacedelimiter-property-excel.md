@@ -3,8 +3,9 @@ title: TextConnection.TextFileSpaceDelimiter Property (Excel)
 keywords: vbaxl10.chm926085
 f1_keywords:
 - vbaxl10.chm926085
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 9f09960a-8c70-7f61-8f56-d291028ca8d0
+ms.date: 06/08/2017
 ---
 
 

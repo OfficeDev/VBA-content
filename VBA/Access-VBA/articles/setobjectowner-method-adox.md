@@ -1,13 +1,14 @@
 ---
 title: SetObjectOwner method [ADOX]
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 22c5d2d9-c7b2-3c3a-0b1f-a2e5bc46395c
+ms.date: 06/08/2017
 ---
 
 
 # SetObjectOwner method [ADOX]
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

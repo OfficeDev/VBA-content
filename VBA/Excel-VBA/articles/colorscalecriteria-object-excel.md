@@ -3,10 +3,11 @@ title: ColorScaleCriteria Object (Excel)
 keywords: vbaxl10.chm807072
 f1_keywords:
 - vbaxl10.chm807072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScaleCriteria
 ms.assetid: 9c50a2e4-aa22-92ca-6cef-2f8fc931ec33
+ms.date: 06/08/2017
 ---
 
 

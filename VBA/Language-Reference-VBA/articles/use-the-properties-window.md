@@ -3,8 +3,9 @@ title: Use the Properties Window
 keywords: vbhw6.chm1107717
 f1_keywords:
 - vbhw6.chm1107717
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de674cdf-2e47-96ea-d2f9-bb5b4af685cb
+ms.date: 06/08/2017
 ---
 
 

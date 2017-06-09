@@ -3,10 +3,11 @@ title: Options.EnableMisusedWordsDictionary Property (Word)
 keywords: vbawd10.chm162988370
 f1_keywords:
 - vbawd10.chm162988370
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.EnableMisusedWordsDictionary
 ms.assetid: 53ec74bd-d1fb-39ee-6ddb-4cca840c13dd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Font.AllCaps Property (Publisher)
 keywords: vbapb10.chm5373959
 f1_keywords:
 - vbapb10.chm5373959
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.AllCaps
 ms.assetid: e8394f91-de31-0075-51ac-8a372023f0ce
+ms.date: 06/08/2017
 ---
 
 

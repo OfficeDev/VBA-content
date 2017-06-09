@@ -3,8 +3,9 @@ title: Case Else outside Select Case, Office Shared [vblr6.chm1040105]
 keywords: vblr6.chm1040105
 f1_keywords:
 - vblr6.chm1040105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2079974-ff11-4066-b799-bd5f768faa71
+ms.date: 06/08/2017
 ---
 
 

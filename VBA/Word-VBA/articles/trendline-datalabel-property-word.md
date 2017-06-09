@@ -3,10 +3,11 @@ title: Trendline.DataLabel Property (Word)
 keywords: vbawd10.chm26345630
 f1_keywords:
 - vbawd10.chm26345630
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.DataLabel
 ms.assetid: 058f6bcc-bab7-709a-69a4-b9927116f6b3
+ms.date: 06/08/2017
 ---
 
 

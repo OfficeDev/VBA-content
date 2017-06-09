@@ -3,10 +3,11 @@ title: ListBox.Enter Event (Access)
 keywords: vbaac10.chm14173
 f1_keywords:
 - vbaac10.chm14173
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Enter
 ms.assetid: 58f29589-8754-2323-c044-09dbea35fd83
+ms.date: 06/08/2017
 ---
 
 

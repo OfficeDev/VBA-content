@@ -3,10 +3,11 @@ title: TextBox.TopPadding Property (Access)
 keywords: vbaac10.chm11153
 f1_keywords:
 - vbaac10.chm11153
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.TopPadding
 ms.assetid: fd6420f1-c3d9-2374-7b3c-e1fa5dd8199a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TabControl.ForeTint Property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.ForeTint
 ms.assetid: 9e7c2a92-028b-f565-22fb-fc44753c7908
+ms.date: 06/08/2017
 ---
 
 

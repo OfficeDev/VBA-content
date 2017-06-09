@@ -3,8 +3,9 @@ title: Line 'item1' Class 'item2' of control 'item3' was not a loaded control cl
 keywords: vblr6.chm60110
 f1_keywords:
 - vblr6.chm60110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5daa4f49-4e36-4d67-b136-27265b62e067
+ms.date: 06/08/2017
 ---
 
 

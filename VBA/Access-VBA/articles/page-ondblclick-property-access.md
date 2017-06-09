@@ -3,10 +3,11 @@ title: Page.OnDblClick Property (Access)
 keywords: vbaac10.chm12168
 f1_keywords:
 - vbaac10.chm12168
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.OnDblClick
 ms.assetid: af72d00d-6089-6571-cea8-1c1ccb94dba6
+ms.date: 06/08/2017
 ---
 
 

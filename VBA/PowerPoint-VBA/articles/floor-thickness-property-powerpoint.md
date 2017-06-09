@@ -1,9 +1,10 @@
 ---
 title: Floor.Thickness Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Thickness
 ms.assetid: 44983b6e-7bbd-c6ef-bfdb-fb5c8c8dbbdb
+ms.date: 06/08/2017
 ---
 
 

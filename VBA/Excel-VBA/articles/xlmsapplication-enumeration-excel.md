@@ -1,9 +1,10 @@
 ---
 title: XlMSApplication Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlMSApplication
 ms.assetid: 7e28228d-c322-d454-15ea-61db9a5e08da
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetLightingDirection Property (Word)
 keywords: vbawd10.chm164626537
 f1_keywords:
 - vbawd10.chm164626537
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetLightingDirection
 ms.assetid: 595b1541-c203-e736-2326-f7123f296d46
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SchemeColor Property
 keywords: vbagr10.chm5207954
 f1_keywords:
 - vbagr10.chm5207954
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SchemeColor
 ms.assetid: a90b4570-dae3-4ca1-563a-0467efbf9bca
+ms.date: 06/08/2017
 ---
 
 

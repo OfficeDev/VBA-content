@@ -3,14 +3,15 @@ title: Bound Object Frame Control
 keywords: vbaac10.chm5186601
 f1_keywords:
 - vbaac10.chm5186601
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9d087a78-278d-1b87-d1b4-22f836707efa
+ms.date: 06/08/2017
 ---
 
 
 # Bound Object Frame Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

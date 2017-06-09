@@ -3,10 +3,11 @@ title: ShapeRange.Group Method (PowerPoint)
 keywords: vbapp10.chm548061
 f1_keywords:
 - vbapp10.chm548061
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Group
 ms.assetid: f70f3986-3a39-78f9-476e-b72ef000c469
+ms.date: 06/08/2017
 ---
 
 

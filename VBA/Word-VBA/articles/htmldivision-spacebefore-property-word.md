@@ -3,10 +3,11 @@ title: HTMLDivision.SpaceBefore Property (Word)
 keywords: vbawd10.chm166133765
 f1_keywords:
 - vbawd10.chm166133765
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.SpaceBefore
 ms.assetid: b5a774f3-9a35-2813-6c5f-cf2bae16b493
+ms.date: 06/08/2017
 ---
 
 

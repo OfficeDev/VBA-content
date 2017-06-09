@@ -1,9 +1,10 @@
 ---
 title: TaskDependencies.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Parent
 ms.assetid: 965a8751-4e56-9846-a1b6-d83163f5dfef
+ms.date: 06/08/2017
 ---
 
 

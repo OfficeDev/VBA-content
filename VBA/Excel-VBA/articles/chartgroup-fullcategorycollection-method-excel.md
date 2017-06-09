@@ -3,8 +3,9 @@ title: ChartGroup.FullCategoryCollection Method (Excel)
 keywords: vbaxl10.chm568101
 f1_keywords:
 - vbaxl10.chm568101
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 8cf85f22-d6c7-a428-4bb4-2c77cba36969
+ms.date: 06/08/2017
 ---
 
 

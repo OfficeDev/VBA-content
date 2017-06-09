@@ -3,8 +3,9 @@ title: On Error Statement, Office Shared [vblr6.chm1008799]
 keywords: vblr6.chm1008799
 f1_keywords:
 - vblr6.chm1008799
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ffce16fd-ddc2-4872-b97e-208b402b73cf
+ms.date: 06/08/2017
 ---
 
 

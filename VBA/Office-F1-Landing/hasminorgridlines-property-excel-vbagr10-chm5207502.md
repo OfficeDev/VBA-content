@@ -3,8 +3,9 @@ title: HasMinorGridlines Property, Excel [vbagr10.chm5207502]
 keywords: vbagr10.chm5207502
 f1_keywords:
 - vbagr10.chm5207502
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e77bee1d-89c1-4d5f-bbb0-6dee81687022
+ms.date: 06/08/2017
 ---
 
 

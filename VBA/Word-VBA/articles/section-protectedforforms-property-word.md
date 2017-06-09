@@ -3,10 +3,11 @@ title: Section.ProtectedForForms Property (Word)
 keywords: vbawd10.chm156827771
 f1_keywords:
 - vbawd10.chm156827771
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section.ProtectedForForms
 ms.assetid: f87ef960-9ef3-f5a8-c3e0-325c263e985b
+ms.date: 06/08/2017
 ---
 
 

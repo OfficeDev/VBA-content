@@ -3,10 +3,11 @@ title: Printer.PaperHeight Property (Publisher)
 keywords: vbapb10.chm8978441
 f1_keywords:
 - vbapb10.chm8978441
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperHeight
 ms.assetid: 2c97adb8-0a24-c375-6105-375b203d5640
+ms.date: 06/08/2017
 ---
 
 

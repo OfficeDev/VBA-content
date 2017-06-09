@@ -3,10 +3,11 @@ title: Attachment.DisplayAs Property (Access)
 keywords: vbaac10.chm13975,vbaac10.chm5817
 f1_keywords:
 - vbaac10.chm13975,vbaac10.chm5817
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.DisplayAs
 ms.assetid: a8813925-8062-501a-a985-27084c2033f4
+ms.date: 06/08/2017
 ---
 
 

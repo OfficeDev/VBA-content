@@ -3,10 +3,11 @@ title: Pane.ViewType Property (PowerPoint)
 keywords: vbapp10.chm631005
 f1_keywords:
 - vbapp10.chm631005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Pane.ViewType
 ms.assetid: 6114b581-a9f5-a4b7-827e-99004fea4e58
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PageBreak.ControlType Property (Access)
 keywords: vbaac10.chm11673
 f1_keywords:
 - vbaac10.chm11673
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.PageBreak.ControlType
 ms.assetid: 79977aab-29e3-7a25-38ee-a01645a87cdb
+ms.date: 06/08/2017
 ---
 
 

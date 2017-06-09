@@ -3,10 +3,11 @@ title: Document.PrintCenteredH Property (Visio)
 keywords: vis_sdr.chm10514105
 f1_keywords:
 - vis_sdr.chm10514105
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PrintCenteredH
 ms.assetid: f91d63cf-e447-1e1a-2c45-c2a48d0ab4dc
+ms.date: 06/08/2017
 ---
 
 

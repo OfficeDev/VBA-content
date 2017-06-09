@@ -3,10 +3,11 @@ title: OMathEqArray.RowSpacing Property (Word)
 keywords: vbawd10.chm174129260
 f1_keywords:
 - vbawd10.chm174129260
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathEqArray.RowSpacing
 ms.assetid: 0ad6ea7d-8983-7e56-6e43-89044b420458
+ms.date: 06/08/2017
 ---
 
 

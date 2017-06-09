@@ -3,10 +3,11 @@ title: Application.CustomFieldPropertiesEx Method (Project)
 keywords: vbapj.chm35
 f1_keywords:
 - vbapj.chm35
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldPropertiesEx
 ms.assetid: 3eac9820-848a-011a-96df-f752ea33f31f
+ms.date: 06/08/2017
 ---
 
 

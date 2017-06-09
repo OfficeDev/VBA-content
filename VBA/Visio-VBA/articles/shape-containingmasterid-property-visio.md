@@ -3,10 +3,11 @@ title: Shape.ContainingMasterID Property (Visio)
 keywords: vis_sdr.chm11260130
 f1_keywords:
 - vis_sdr.chm11260130
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ContainingMasterID
 ms.assetid: e194cd7c-d7c0-2c08-a0df-764398efa447
+ms.date: 06/08/2017
 ---
 
 

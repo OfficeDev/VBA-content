@@ -3,8 +3,9 @@ title: GoalAreaTaskHighlight Method, Project [vbapj.chm131225]
 keywords: vbapj.chm131225
 f1_keywords:
 - vbapj.chm131225
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 56c4d5ec-3cea-4d67-b681-dcea9a2f16fd
+ms.date: 06/08/2017
 ---
 
 

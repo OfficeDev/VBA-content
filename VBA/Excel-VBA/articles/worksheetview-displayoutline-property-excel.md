@@ -3,10 +3,11 @@ title: WorksheetView.DisplayOutline Property (Excel)
 keywords: vbaxl10.chm779076
 f1_keywords:
 - vbaxl10.chm779076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetView.DisplayOutline
 ms.assetid: a1f75888-bc95-7aea-a34b-e75d73c406db
+ms.date: 06/08/2017
 ---
 
 

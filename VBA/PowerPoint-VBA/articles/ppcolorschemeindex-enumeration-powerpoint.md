@@ -1,9 +1,10 @@
 ---
 title: PpColorSchemeIndex Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpColorSchemeIndex
 ms.assetid: 1c1c01c5-90ab-6645-35cb-d5e198c40826
+ms.date: 06/08/2017
 ---
 
 

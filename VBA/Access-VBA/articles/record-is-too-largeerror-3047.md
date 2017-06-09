@@ -3,14 +3,15 @@ title: Record is too large. (Error 3047)
 keywords: jeterr40.chm5003047
 f1_keywords:
 - jeterr40.chm5003047
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b5409033-6dee-f597-6286-fbdbd2b1b4c4
+ms.date: 06/08/2017
 ---
 
 
 # Record is too large. (Error 3047)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: CustomControl.SpecialEffect Property (Access)
 keywords: vbaac10.chm12024
 f1_keywords:
 - vbaac10.chm12024
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.SpecialEffect
 ms.assetid: cad6b92e-b927-fa6f-518c-f019dba0f879
+ms.date: 06/08/2017
 ---
 
 

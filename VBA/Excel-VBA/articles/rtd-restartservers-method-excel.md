@@ -3,10 +3,11 @@ title: RTD.RestartServers Method (Excel)
 keywords: vbaxl10.chm728075
 f1_keywords:
 - vbaxl10.chm728075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RTD.RestartServers
 ms.assetid: ae3b3b50-63a3-1e7e-7f34-4d50770020ee
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Field (ADO/WFC Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 61d7028f-ed13-2a20-643d-68d43df91163
+ms.date: 06/08/2017
 ---
 
 
 # Field (ADO/WFC Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

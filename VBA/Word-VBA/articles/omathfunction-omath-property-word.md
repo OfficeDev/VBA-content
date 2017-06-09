@@ -3,10 +3,11 @@ title: OMathFunction.OMath Property (Word)
 keywords: vbawd10.chm22151293
 f1_keywords:
 - vbawd10.chm22151293
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.OMath
 ms.assetid: e5d5b768-3369-28b8-17a2-1c89d3ccafa7
+ms.date: 06/08/2017
 ---
 
 

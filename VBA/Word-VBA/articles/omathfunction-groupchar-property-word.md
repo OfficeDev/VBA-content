@@ -3,10 +3,11 @@ title: OMathFunction.GroupChar Property (Word)
 keywords: vbawd10.chm22151281
 f1_keywords:
 - vbawd10.chm22151281
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.GroupChar
 ms.assetid: 7a58a6de-766e-29e9-4a92-99edfd9b9cc9
+ms.date: 06/08/2017
 ---
 
 

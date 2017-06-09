@@ -1,9 +1,10 @@
 ---
 title: SmartArtNodes Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNodes
 ms.assetid: 4c35e5a4-15a1-dd6d-85a2-eb30cbaa3093
+ms.date: 06/08/2017
 ---
 
 

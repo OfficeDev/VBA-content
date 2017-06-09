@@ -3,10 +3,11 @@ title: InvisibleApp.ProcessID Property (Visio)
 keywords: vis_sdr.chm17514145
 f1_keywords:
 - vis_sdr.chm17514145
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ProcessID
 ms.assetid: ae20f8f4-3236-68c7-161c-fdc87f68e7ca
+ms.date: 06/08/2017
 ---
 
 

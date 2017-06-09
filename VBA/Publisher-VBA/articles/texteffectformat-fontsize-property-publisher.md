@@ -3,10 +3,11 @@ title: TextEffectFormat.FontSize Property (Publisher)
 keywords: vbapb10.chm3735812
 f1_keywords:
 - vbapb10.chm3735812
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.FontSize
 ms.assetid: 8db62556-27b3-f6c7-3ea3-25aa59daff7e
+ms.date: 06/08/2017
 ---
 
 

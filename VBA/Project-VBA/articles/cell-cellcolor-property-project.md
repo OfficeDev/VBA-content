@@ -1,9 +1,10 @@
 ---
 title: Cell.CellColor Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell.CellColor
 ms.assetid: 30d67933-a9ce-9e57-f7ac-c4af2f485959
+ms.date: 06/08/2017
 ---
 
 

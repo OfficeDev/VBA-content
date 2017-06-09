@@ -3,16 +3,17 @@ title: Description Property (Access)
 keywords: vbaac10.chm3487
 f1_keywords:
 - vbaac10.chm3487
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Description
 ms.assetid: b2933bc9-5e8b-9bee-d07b-2b015c530ebe
+ms.date: 06/08/2017
 ---
 
 
 # Description Property (Access)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

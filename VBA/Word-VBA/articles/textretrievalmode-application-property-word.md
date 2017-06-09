@@ -3,10 +3,11 @@ title: TextRetrievalMode.Application Property (Word)
 keywords: vbawd10.chm154731496
 f1_keywords:
 - vbawd10.chm154731496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.Application
 ms.assetid: 2018e12a-fa1c-4ebe-5c6b-84fd9246ee26
+ms.date: 06/08/2017
 ---
 
 

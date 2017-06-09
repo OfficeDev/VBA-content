@@ -3,10 +3,11 @@ title: OlkLabel.TextAlign Property (Outlook)
 keywords: vbaol11.chm1000097
 f1_keywords:
 - vbaol11.chm1000097
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.TextAlign
 ms.assetid: 21999b7c-77b4-85e0-9032-410b712fa15b
+ms.date: 06/08/2017
 ---
 
 

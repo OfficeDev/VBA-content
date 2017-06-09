@@ -3,10 +3,11 @@ title: Workbook.ForceFullCalculation Property (Excel)
 keywords: vbaxl10.chm199264
 f1_keywords:
 - vbaxl10.chm199264
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ForceFullCalculation
 ms.assetid: 76f46d18-79e3-9828-d126-e221ae1a8157
+ms.date: 06/08/2017
 ---
 
 

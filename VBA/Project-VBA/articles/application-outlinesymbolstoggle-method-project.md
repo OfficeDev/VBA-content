@@ -3,10 +3,11 @@ title: Application.OutlineSymbolsToggle Method (Project)
 keywords: vbapj.chm2082
 f1_keywords:
 - vbapj.chm2082
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OutlineSymbolsToggle
 ms.assetid: ea65d093-1a07-7bfc-b8bb-4669f0609ecf
+ms.date: 06/08/2017
 ---
 
 

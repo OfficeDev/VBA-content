@@ -1,9 +1,10 @@
 ---
 title: MsoFileDialogView Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoFileDialogView
 ms.assetid: fbeb4236-417c-53ba-199d-4ce7e219d2a2
+ms.date: 06/08/2017
 ---
 
 

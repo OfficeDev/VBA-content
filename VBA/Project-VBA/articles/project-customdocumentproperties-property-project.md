@@ -1,9 +1,10 @@
 ---
 title: Project.CustomDocumentProperties Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CustomDocumentProperties
 ms.assetid: 49e532bc-4bc2-c9e7-c6d0-253540572093
+ms.date: 06/08/2017
 ---
 
 

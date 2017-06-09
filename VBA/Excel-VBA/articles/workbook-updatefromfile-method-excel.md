@@ -3,10 +3,11 @@ title: Workbook.UpdateFromFile Method (Excel)
 keywords: vbaxl10.chm199159
 f1_keywords:
 - vbaxl10.chm199159
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.UpdateFromFile
 ms.assetid: f5148b60-9b25-8a12-5cf3-40103dcff2a3
+ms.date: 06/08/2017
 ---
 
 

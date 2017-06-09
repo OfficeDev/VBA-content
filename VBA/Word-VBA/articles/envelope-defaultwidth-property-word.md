@@ -3,10 +3,11 @@ title: Envelope.DefaultWidth Property (Word)
 keywords: vbawd10.chm152567815
 f1_keywords:
 - vbawd10.chm152567815
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.DefaultWidth
 ms.assetid: 2b593322-0959-a4a4-8607-65e2f9e91f7b
+ms.date: 06/08/2017
 ---
 
 

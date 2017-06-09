@@ -3,10 +3,11 @@ title: GroupLevel.ControlSource Property (Access)
 keywords: vbaac10.chm12239
 f1_keywords:
 - vbaac10.chm12239
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.ControlSource
 ms.assetid: b6f87977-abcc-2bb8-c6ea-720dd20789ec
+ms.date: 06/08/2017
 ---
 
 

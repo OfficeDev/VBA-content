@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.ConnectionsDeleted Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectionsDeleted
 ms.assetid: 88505099-3b7d-bf02-cc3d-d56bc436e63f
+ms.date: 06/08/2017
 ---
 
 

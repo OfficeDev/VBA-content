@@ -3,10 +3,11 @@ title: ToolbarItem.IsHierarchical Property (Visio)
 keywords: vis_sdr.chm13513740
 f1_keywords:
 - vis_sdr.chm13513740
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.IsHierarchical
 ms.assetid: 663080e1-3608-8ce9-0b82-1c8d18776037
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotLineCells.Item Property (Excel)
 keywords: vbaxl10.chm762075
 f1_keywords:
 - vbaxl10.chm762075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLineCells.Item
 ms.assetid: 1ba80d98-f9c6-a044-ea52-885d7fff06bb
+ms.date: 06/08/2017
 ---
 
 

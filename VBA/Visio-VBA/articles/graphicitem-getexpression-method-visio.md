@@ -3,10 +3,11 @@ title: GraphicItem.GetExpression Method (Visio)
 keywords: vis_sdr.chm16960425
 f1_keywords:
 - vis_sdr.chm16960425
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.GetExpression
 ms.assetid: 61864d97-a61b-549a-6f41-d741c19a330f
+ms.date: 06/08/2017
 ---
 
 

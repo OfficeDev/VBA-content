@@ -3,10 +3,11 @@ title: OutlookBarGroup.ViewType Property (Outlook)
 keywords: vbaol11.chm327
 f1_keywords:
 - vbaol11.chm327
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroup.ViewType
 ms.assetid: 71925c37-4664-290f-6caf-7e4d443ae908
+ms.date: 06/08/2017
 ---
 
 

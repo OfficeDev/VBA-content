@@ -3,8 +3,9 @@ title: Type Property (FileSystemObject object)
 keywords: vblr6.chm2182001
 f1_keywords:
 - vblr6.chm2182001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b2e9bd7b-b9ea-1fe0-bd00-1f734d165e37
+ms.date: 06/08/2017
 ---
 
 

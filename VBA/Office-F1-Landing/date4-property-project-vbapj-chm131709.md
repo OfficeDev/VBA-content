@@ -3,8 +3,9 @@ title: Date4 Property, Project [vbapj.chm131709]
 keywords: vbapj.chm131709
 f1_keywords:
 - vbapj.chm131709
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4f31b951-46cc-44a1-841b-b2fef24b6fb2
+ms.date: 06/08/2017
 ---
 
 

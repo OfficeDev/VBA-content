@@ -3,8 +3,9 @@ title: Order Commands (Format Menu)
 keywords: vbui6.chm1065817
 f1_keywords:
 - vbui6.chm1065817
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a1691a6c-3cd4-1ff3-0d8d-71bfca1a2c53
+ms.date: 06/08/2017
 ---
 
 

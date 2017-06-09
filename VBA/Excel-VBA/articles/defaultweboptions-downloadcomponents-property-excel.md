@@ -3,10 +3,11 @@ title: DefaultWebOptions.DownloadComponents Property (Excel)
 keywords: vbaxl10.chm660080
 f1_keywords:
 - vbaxl10.chm660080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.DownloadComponents
 ms.assetid: 8522baf4-77da-4e0b-30b1-604a2a4493d0
+ms.date: 06/08/2017
 ---
 
 

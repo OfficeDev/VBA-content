@@ -3,8 +3,9 @@ title: AutomationSecurity Property, Project [vbapj.chm131197]
 keywords: vbapj.chm131197
 f1_keywords:
 - vbapj.chm131197
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b2f48c6d-025b-4cbf-a8ec-46116be62429
+ms.date: 06/08/2017
 ---
 
 

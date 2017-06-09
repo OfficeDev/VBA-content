@@ -3,14 +3,15 @@ title: You tried to call Update or CancelUpdate or attempted to update a Field i
 keywords: jeterr40.chm5003020
 f1_keywords:
 - jeterr40.chm5003020
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c8fe9945-d327-c22a-5057-be6ee32836f0
+ms.date: 06/08/2017
 ---
 
 
 # You tried to call Update or CancelUpdate or attempted to update a Field in a recordset without first calling AddNew or Edit. (Error 3020)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

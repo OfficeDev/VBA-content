@@ -3,10 +3,11 @@ title: Masters.ConvertToGroupCanceled Event (Visio)
 keywords: vis_sdr.chm10819370
 f1_keywords:
 - vis_sdr.chm10819370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ConvertToGroupCanceled
 ms.assetid: 76f8d86d-dfe9-7749-ae33-96bec632d47a
+ms.date: 06/08/2017
 ---
 
 

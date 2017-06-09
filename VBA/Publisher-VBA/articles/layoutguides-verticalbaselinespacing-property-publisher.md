@@ -3,10 +3,11 @@ title: LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
 keywords: vbapb10.chm1114134
 f1_keywords:
 - vbapb10.chm1114134
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: BottomPadding Property, Access [vbaac10.chm11155]
 keywords: vbaac10.chm11155
 f1_keywords:
 - vbaac10.chm11155
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c26e6653-72cb-47e6-9a9a-472e1dddf3b1
+ms.date: 06/08/2017
 ---
 
 

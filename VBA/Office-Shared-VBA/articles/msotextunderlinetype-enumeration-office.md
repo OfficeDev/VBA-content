@@ -1,9 +1,10 @@
 ---
 title: MsoTextUnderlineType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextUnderlineType
 ms.assetid: c28b97dd-dfd8-c0e5-8e59-dbc91b8c1cc6
+ms.date: 06/08/2017
 ---
 
 

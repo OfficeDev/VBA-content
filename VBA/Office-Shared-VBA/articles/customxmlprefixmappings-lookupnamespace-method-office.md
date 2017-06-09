@@ -3,10 +3,11 @@ title: CustomXMLPrefixMappings.LookupNamespace Method (Office)
 keywords: vbaof11.chm290005
 f1_keywords:
 - vbaof11.chm290005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.LookupNamespace
 ms.assetid: 33a8f054-0e67-0c9e-ce4b-c9d3360df1a6
+ms.date: 06/08/2017
 ---
 
 

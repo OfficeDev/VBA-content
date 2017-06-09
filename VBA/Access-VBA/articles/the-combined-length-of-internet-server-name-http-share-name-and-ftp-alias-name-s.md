@@ -3,14 +3,15 @@ title: The combined length of Internet Server Name, HTTP Share name, and FTP ali
 keywords: jeterr40.chm5003745
 f1_keywords:
 - jeterr40.chm5003745
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6ec9efdf-b70b-ea2c-706c-e3916aa565ea
+ms.date: 06/08/2017
 ---
 
 
 # The combined length of Internet Server Name, HTTP Share name, and FTP alias name should not be greater than 252 characters. (Error 3745)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

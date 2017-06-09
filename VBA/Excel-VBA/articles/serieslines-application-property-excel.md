@@ -3,10 +3,11 @@ title: SeriesLines.Application Property (Excel)
 keywords: vbaxl10.chm597073
 f1_keywords:
 - vbaxl10.chm597073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesLines.Application
 ms.assetid: 0f933a08-4c85-2b72-9943-c1c4194d1bc2
+ms.date: 06/08/2017
 ---
 
 

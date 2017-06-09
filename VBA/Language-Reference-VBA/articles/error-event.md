@@ -3,10 +3,11 @@ title: Error Event
 keywords: fm20.chm2000100
 f1_keywords:
 - fm20.chm2000100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Error
 ms.assetid: 12901147-8a12-b94b-0aa9-6cd9fe43b2e8
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Shell Constants
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 76b5cc9e-e896-f658-7d23-ca850305a16b
+ms.date: 06/08/2017
 ---
 
 

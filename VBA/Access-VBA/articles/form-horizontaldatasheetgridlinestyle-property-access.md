@@ -3,10 +3,11 @@ title: Form.HorizontalDatasheetGridlineStyle Property (Access)
 keywords: vbaac10.chm13514
 f1_keywords:
 - vbaac10.chm13514
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.HorizontalDatasheetGridlineStyle
 ms.assetid: 31467913-382f-031e-b030-68181a71d5e0
+ms.date: 06/08/2017
 ---
 
 

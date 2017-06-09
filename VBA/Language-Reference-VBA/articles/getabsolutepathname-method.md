@@ -3,10 +3,11 @@ title: GetAbsolutePathName Method
 keywords: vblr6.chm2182045
 f1_keywords:
 - vblr6.chm2182045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GetAbsolutePathName
 ms.assetid: 49209a8f-6346-b32a-55d7-d72692b4defb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Cell.CellColorEx Property (Project)
 keywords: vbapj.chm131602
 f1_keywords:
 - vbapj.chm131602
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell.CellColorEx
 ms.assetid: a4ab73b9-0428-3564-6652-51baee12939e
+ms.date: 06/08/2017
 ---
 
 

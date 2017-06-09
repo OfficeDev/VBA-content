@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.GroupCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GroupCanceled
 ms.assetid: 1845e634-1a3a-18b6-b110-0e7ce2c94810
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ControlFormat.ListIndex Property (Excel)
 keywords: vbaxl10.chm630083
 f1_keywords:
 - vbaxl10.chm630083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.ListIndex
 ms.assetid: 34df9efc-e53b-58fd-31b1-4ae592d3d9a8
+ms.date: 06/08/2017
 ---
 
 

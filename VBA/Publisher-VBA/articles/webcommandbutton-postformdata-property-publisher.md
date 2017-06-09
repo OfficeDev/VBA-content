@@ -3,10 +3,11 @@ title: WebCommandButton.PostFormData Property (Publisher)
 keywords: vbapb10.chm3932176
 f1_keywords:
 - vbapb10.chm3932176
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.PostFormData
 ms.assetid: d04e3172-0d96-856f-af63-341031d92291
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SlicerCache.OLAP Property (Excel)
 keywords: vbaxl10.chm897074
 f1_keywords:
 - vbaxl10.chm897074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.OLAP
 ms.assetid: 621ca936-5b60-98be-45a2-ea15ef5297ba
+ms.date: 06/08/2017
 ---
 
 

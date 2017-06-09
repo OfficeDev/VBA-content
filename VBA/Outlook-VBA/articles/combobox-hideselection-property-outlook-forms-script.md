@@ -3,8 +3,9 @@ title: ComboBox.HideSelection Property (Outlook Forms Script)
 keywords: olfm10.chm2001270
 f1_keywords:
 - olfm10.chm2001270
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4306fbaa-9afa-735a-7195-887977e9ce4c
+ms.date: 06/08/2017
 ---
 
 

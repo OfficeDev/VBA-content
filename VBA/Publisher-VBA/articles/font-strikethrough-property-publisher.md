@@ -3,8 +3,9 @@ title: Font.StrikeThrough Property (Publisher)
 keywords: vbapb10.chm5374017
 f1_keywords:
 - vbapb10.chm5374017
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: fa4bca2d-b43d-4d2b-901f-858e277df520
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Email.CurrentEmailAuthor Property (Word)
 keywords: vbawd10.chm165478505
 f1_keywords:
 - vbawd10.chm165478505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Email.CurrentEmailAuthor
 ms.assetid: a317b265-f712-2954-aeaf-3a17da38d380
+ms.date: 06/08/2017
 ---
 
 

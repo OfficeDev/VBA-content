@@ -3,10 +3,11 @@ title: TickLabels.Creator Property (Excel)
 keywords: vbaxl10.chm615074
 f1_keywords:
 - vbaxl10.chm615074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Creator
 ms.assetid: e319d5b6-9048-8823-0161-cba3ed4037f4
+ms.date: 06/08/2017
 ---
 
 

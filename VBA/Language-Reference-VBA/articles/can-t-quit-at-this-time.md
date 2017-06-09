@@ -3,8 +3,9 @@ title: Can't quit at this time
 keywords: vblr6.chm60002
 f1_keywords:
 - vblr6.chm60002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4d614194-7d15-157e-1edc-92fdbc7577af
+ms.date: 06/08/2017
 ---
 
 

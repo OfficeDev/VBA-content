@@ -3,8 +3,9 @@ title: QuickStyleMask Property, Access [vbaac10.chm14647]
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f589086d-fca9-4865-b06d-b2d5cec737d3
+ms.date: 06/08/2017
 ---
 
 

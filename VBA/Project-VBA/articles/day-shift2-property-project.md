@@ -1,9 +1,10 @@
 ---
 title: Day.Shift2 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Day.Shift2
 ms.assetid: effe2df6-06fb-5376-2c8a-a0382e1e4a29
+ms.date: 06/08/2017
 ---
 
 

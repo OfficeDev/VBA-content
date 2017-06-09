@@ -3,10 +3,11 @@ title: Style.IncludesLine Property (Visio)
 keywords: vis_sdr.chm11413685
 f1_keywords:
 - vis_sdr.chm11413685
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.IncludesLine
 ms.assetid: be5bdf69-4fad-6322-6e9c-52e36981a215
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UpBars.Application Property (Word)
 keywords: vbawd10.chm180945044
 f1_keywords:
 - vbawd10.chm180945044
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Application
 ms.assetid: 170e30cb-8f90-4d95-2cf0-4dd1712a5f69
+ms.date: 06/08/2017
 ---
 
 

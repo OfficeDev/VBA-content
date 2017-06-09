@@ -3,8 +3,9 @@ title: Label Cell (Shape Data Section), Visio [vis_sdr.chm510]
 keywords: vis_sdr.chm510
 f1_keywords:
 - vis_sdr.chm510
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f23ca2be-934b-4ece-9eb5-9bbd29331427
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartBorder.LineStyle Property (Word)
 keywords: vbawd10.chm61014020
 f1_keywords:
 - vbawd10.chm61014020
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartBorder.LineStyle
 ms.assetid: f11e0877-2a3c-4aa6-471f-333d6b485249
+ms.date: 06/08/2017
 ---
 
 

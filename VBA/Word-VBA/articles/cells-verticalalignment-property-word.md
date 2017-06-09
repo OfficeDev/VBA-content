@@ -3,10 +3,11 @@ title: Cells.VerticalAlignment Property (Word)
 keywords: vbawd10.chm155845712
 f1_keywords:
 - vbawd10.chm155845712
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.VerticalAlignment
 ms.assetid: c60fcbdb-b443-6b5a-8dd2-1c4c1e4a71d4
+ms.date: 06/08/2017
 ---
 
 

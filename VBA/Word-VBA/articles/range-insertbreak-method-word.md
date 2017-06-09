@@ -3,10 +3,11 @@ title: Range.InsertBreak Method (Word)
 keywords: vbawd10.chm157155450
 f1_keywords:
 - vbawd10.chm157155450
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertBreak
 ms.assetid: 9c565036-e060-f26e-2e12-9c340331233e
+ms.date: 06/08/2017
 ---
 
 

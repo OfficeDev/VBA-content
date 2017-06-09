@@ -3,8 +3,9 @@ title: Opening a Workbook
 keywords: vbaxl10.chm5203418
 f1_keywords:
 - vbaxl10.chm5203418
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d7445059-fcb3-edf3-752e-3a1014022f81
+ms.date: 06/08/2017
 ---
 
 

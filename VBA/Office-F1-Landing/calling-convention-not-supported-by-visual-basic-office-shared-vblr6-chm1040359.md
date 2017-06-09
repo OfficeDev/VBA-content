@@ -3,8 +3,9 @@ title: Calling convention not supported by Visual Basic, Office Shared [vblr6.ch
 keywords: vblr6.chm1040359
 f1_keywords:
 - vblr6.chm1040359
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 21c30170-9df4-4ee8-80d8-27daf4853dcb
+ms.date: 06/08/2017
 ---
 
 

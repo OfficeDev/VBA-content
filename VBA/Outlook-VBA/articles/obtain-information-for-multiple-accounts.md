@@ -1,7 +1,8 @@
 ---
 title: Obtain Information for Multiple Accounts
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: af587ee2-429a-252f-ecb6-2f058b9a37a8
+ms.date: 06/08/2017
 ---
 
 

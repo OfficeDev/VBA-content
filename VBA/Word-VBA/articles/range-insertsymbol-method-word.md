@@ -3,10 +3,11 @@ title: Range.InsertSymbol Method (Word)
 keywords: vbawd10.chm157155492
 f1_keywords:
 - vbawd10.chm157155492
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertSymbol
 ms.assetid: 2fa843fa-4966-a4e6-1411-028b14029bdf
+ms.date: 06/08/2017
 ---
 
 

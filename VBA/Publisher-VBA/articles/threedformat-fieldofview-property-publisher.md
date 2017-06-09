@@ -3,8 +3,9 @@ title: ThreeDFormat.FieldOfView Property (Publisher)
 keywords: vbapb10.chm3801380
 f1_keywords:
 - vbapb10.chm3801380
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: ebd9e887-eb61-28e2-2ca6-a271ea9a3272
+ms.date: 06/08/2017
 ---
 
 

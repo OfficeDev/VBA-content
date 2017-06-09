@@ -3,10 +3,11 @@ title: MeetingItem.ReceivedTime Property (Outlook)
 keywords: vbaol11.chm1444
 f1_keywords:
 - vbaol11.chm1444
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReceivedTime
 ms.assetid: bf27c544-3f3e-87e1-9f0c-84f1469d771d
+ms.date: 06/08/2017
 ---
 
 

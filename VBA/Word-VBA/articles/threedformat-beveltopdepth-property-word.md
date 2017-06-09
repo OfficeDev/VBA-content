@@ -3,10 +3,11 @@ title: ThreeDFormat.BevelTopDepth Property (Word)
 keywords: vbawd10.chm164626548
 f1_keywords:
 - vbawd10.chm164626548
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.BevelTopDepth
 ms.assetid: 75496ce8-62b4-5024-55eb-cbfb1ec0be5a
+ms.date: 06/08/2017
 ---
 
 

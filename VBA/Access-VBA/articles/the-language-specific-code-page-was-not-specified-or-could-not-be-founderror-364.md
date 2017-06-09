@@ -3,14 +3,15 @@ title: The language-specific code page was not specified or could not be found. 
 keywords: jeterr40.chm5003649
 f1_keywords:
 - jeterr40.chm5003649
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cdd32ac4-eae4-d0fc-aab1-b6ca18c56024
+ms.date: 06/08/2017
 ---
 
 
 # The language-specific code page was not specified or could not be found. (Error 3649)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

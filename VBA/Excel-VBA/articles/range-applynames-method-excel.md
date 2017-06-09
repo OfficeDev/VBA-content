@@ -3,10 +3,11 @@ title: Range.ApplyNames Method (Excel)
 keywords: vbaxl10.chm144079
 f1_keywords:
 - vbaxl10.chm144079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ApplyNames
 ms.assetid: 3798ecfb-c839-64a9-1088-d7752a3e81ae
+ms.date: 06/08/2017
 ---
 
 

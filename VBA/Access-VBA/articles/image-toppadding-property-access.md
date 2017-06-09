@@ -3,10 +3,11 @@ title: Image.TopPadding Property (Access)
 keywords: vbaac10.chm10414
 f1_keywords:
 - vbaac10.chm10414
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.TopPadding
 ms.assetid: fb248161-837d-e455-8d9e-4fb5d1a39d3b
+ms.date: 06/08/2017
 ---
 
 

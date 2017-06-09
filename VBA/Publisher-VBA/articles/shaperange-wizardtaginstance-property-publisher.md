@@ -3,10 +3,11 @@ title: ShapeRange.WizardTagInstance Property (Publisher)
 keywords: vbapb10.chm2293873
 f1_keywords:
 - vbapb10.chm2293873
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.WizardTagInstance
 ms.assetid: 07d1c4c8-8efb-b029-2dba-37fef435cc8b
+ms.date: 06/08/2017
 ---
 
 

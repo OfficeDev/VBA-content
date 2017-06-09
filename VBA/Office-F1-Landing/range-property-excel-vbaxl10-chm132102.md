@@ -3,8 +3,9 @@ title: Range Property, Excel [vbaxl10.chm132102]
 keywords: vbaxl10.chm132102
 f1_keywords:
 - vbaxl10.chm132102
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8eaeee7d-8f26-44c4-b87d-2117208fcca7
+ms.date: 06/08/2017
 ---
 
 

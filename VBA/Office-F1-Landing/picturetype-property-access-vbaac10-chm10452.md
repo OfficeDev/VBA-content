@@ -3,8 +3,9 @@ title: PictureType Property, Access [vbaac10.chm10452]
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b49dc929-da41-4fc4-81ad-7438662966df
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Frame.Range Property (Word)
 keywords: vbawd10.chm153747471
 f1_keywords:
 - vbawd10.chm153747471
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.Range
 ms.assetid: b1094be5-953c-8f36-8c78-2bdd521c8ac4
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: PostItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeCheckNames
 ms.assetid: b58d6417-ac1a-b458-abf3-bc36769a75d9
+ms.date: 06/08/2017
 ---
 
 

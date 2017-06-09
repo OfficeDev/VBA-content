@@ -3,10 +3,11 @@ title: SpecialEffect Property
 keywords: fm20.chm5225095
 f1_keywords:
 - fm20.chm5225095
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SpecialEffect
 ms.assetid: db3fa148-42f3-fded-9ec4-6d46c963fdce
+ms.date: 06/08/2017
 ---
 
 

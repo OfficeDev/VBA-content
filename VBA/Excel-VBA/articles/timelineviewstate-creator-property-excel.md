@@ -3,8 +3,9 @@ title: TimelineViewState.Creator Property (Excel)
 keywords: vbaxl10.chm951074
 f1_keywords:
 - vbaxl10.chm951074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: ba8e2368-a38a-143f-7c3c-bc6097cc5af0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Effect.MoveTo Method (PowerPoint)
 keywords: vbapp10.chm652004
 f1_keywords:
 - vbapp10.chm652004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.MoveTo
 ms.assetid: 7b424225-e53c-7dc9-1e5c-14b824110027
+ms.date: 06/08/2017
 ---
 
 

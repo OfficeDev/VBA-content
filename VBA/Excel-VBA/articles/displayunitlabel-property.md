@@ -3,10 +3,11 @@ title: DisplayUnitLabel Property
 keywords: vbagr10.chm67318
 f1_keywords:
 - vbagr10.chm67318
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel
 ms.assetid: 50e91894-9b5d-c915-e94c-e4563b54487a
+ms.date: 06/08/2017
 ---
 
 

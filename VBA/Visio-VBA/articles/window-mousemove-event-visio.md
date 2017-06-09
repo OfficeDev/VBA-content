@@ -3,10 +3,11 @@ title: Window.MouseMove Event (Visio)
 keywords: vis_sdr.chm11651305
 f1_keywords:
 - vis_sdr.chm11651305
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.MouseMove
 ms.assetid: 97f6aece-2d09-b0cc-3197-c16b7cc976a7
+ms.date: 06/08/2017
 ---
 
 

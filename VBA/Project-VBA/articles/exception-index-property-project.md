@@ -1,9 +1,10 @@
 ---
 title: Exception.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Index
 ms.assetid: 23231ffb-5539-6ab5-07d8-010dc0cab539
+ms.date: 06/08/2017
 ---
 
 

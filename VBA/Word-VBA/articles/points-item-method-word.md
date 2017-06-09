@@ -3,10 +3,11 @@ title: Points.Item Method (Word)
 keywords: vbawd10.chm10485760
 f1_keywords:
 - vbawd10.chm10485760
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Points.Item
 ms.assetid: fae75738-6507-1b97-5179-9bc855d4c83d
+ms.date: 06/08/2017
 ---
 
 

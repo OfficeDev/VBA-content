@@ -1,7 +1,8 @@
 ---
 title: Cannot display specified name because it is hidden
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eed82544-a13a-4bda-b8c5-29e5148e8546
+ms.date: 06/08/2017
 ---
 
 

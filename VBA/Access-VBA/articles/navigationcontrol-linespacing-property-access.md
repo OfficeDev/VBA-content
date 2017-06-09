@@ -3,10 +3,11 @@ title: NavigationControl.LineSpacing Property (Access)
 keywords: vbaac10.chm11140
 f1_keywords:
 - vbaac10.chm11140
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.LineSpacing
 ms.assetid: bf1d5cef-8f0e-f759-3499-2f567097800e
+ms.date: 06/08/2017
 ---
 
 

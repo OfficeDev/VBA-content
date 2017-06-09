@@ -3,10 +3,11 @@ title: Conflicts.Count Property (Outlook)
 keywords: vbaol11.chm404
 f1_keywords:
 - vbaol11.chm404
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflicts.Count
 ms.assetid: 4a7445ff-8628-50d6-f4c0-ada85f3b3f5c
+ms.date: 06/08/2017
 ---
 
 

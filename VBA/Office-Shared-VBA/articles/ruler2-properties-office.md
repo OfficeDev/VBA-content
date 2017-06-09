@@ -1,7 +1,8 @@
 ---
 title: Ruler2 Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ff192fd4-a10e-4906-b707-ff39a4f69054
+ms.date: 06/08/2017
 ---
 
 

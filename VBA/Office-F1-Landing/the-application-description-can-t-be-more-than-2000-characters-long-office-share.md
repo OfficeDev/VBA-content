@@ -3,8 +3,9 @@ title: The application description can't be more than 2000 characters long, Offi
 keywords: vblr6.chm1117781
 f1_keywords:
 - vblr6.chm1117781
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 273b8710-587c-4f29-82b4-c225a98e1ed9
+ms.date: 06/08/2017
 ---
 
 

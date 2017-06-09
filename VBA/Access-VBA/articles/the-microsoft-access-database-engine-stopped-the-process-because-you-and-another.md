@@ -3,14 +3,15 @@ title: The Microsoft Access database engine stopped the process because you and 
 keywords: jeterr40.chm5003197
 f1_keywords:
 - jeterr40.chm5003197
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3ea30548-166c-2cfc-5014-6d624a75294e
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine stopped the process because you and another user are attempting to change the same data at the same time. (Error 3197)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

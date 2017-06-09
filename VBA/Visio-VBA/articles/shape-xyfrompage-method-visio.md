@@ -3,10 +3,11 @@ title: Shape.XYFromPage Method (Visio)
 keywords: vis_sdr.chm11216645
 f1_keywords:
 - vis_sdr.chm11216645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.XYFromPage
 ms.assetid: 85b04e0b-04e1-a5b5-f6ff-393c57751946
+ms.date: 06/08/2017
 ---
 
 

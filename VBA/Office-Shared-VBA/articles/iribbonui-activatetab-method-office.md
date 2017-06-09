@@ -3,10 +3,11 @@ title: IRibbonUI.ActivateTab Method (Office)
 keywords: vbaof11.chm320004
 f1_keywords:
 - vbaof11.chm320004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.ActivateTab
 ms.assetid: 32f5205c-6ab1-e3a6-6bae-5f36706c4d0d
+ms.date: 06/08/2017
 ---
 
 

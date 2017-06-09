@@ -1,9 +1,10 @@
 ---
 title: WorkflowTemplates.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTemplates.Creator
 ms.assetid: 5ed62a23-0edc-246f-21e3-79cad819e891
+ms.date: 06/08/2017
 ---
 
 

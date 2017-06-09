@@ -3,8 +3,9 @@ title: Footnotes Object, Word [vbawd10.chm2370]
 keywords: vbawd10.chm2370
 f1_keywords:
 - vbawd10.chm2370
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f182b18b-8006-4a5f-a78c-28b53b5cf717
+ms.date: 06/08/2017
 ---
 
 

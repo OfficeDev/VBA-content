@@ -3,10 +3,11 @@ title: CalloutFormat.Parent Property (PowerPoint)
 keywords: vbapp10.chm559001
 f1_keywords:
 - vbapp10.chm559001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Parent
 ms.assetid: 8739b1d2-eab0-373f-7bf4-7262eae4b758
+ms.date: 06/08/2017
 ---
 
 

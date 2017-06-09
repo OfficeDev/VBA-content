@@ -3,10 +3,11 @@ title: PivotTable.CalculatedMembersInFilters Property (Excel)
 keywords: vbaxl10.chm235202
 f1_keywords:
 - vbaxl10.chm235202
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CalculatedMembersInFilters
 ms.assetid: 1f28b21d-d079-e37a-563e-473e6b57bccd
+ms.date: 06/08/2017
 ---
 
 

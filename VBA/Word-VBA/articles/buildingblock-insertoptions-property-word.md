@@ -3,10 +3,11 @@ title: BuildingBlock.InsertOptions Property (Word)
 keywords: vbawd10.chm203620359
 f1_keywords:
 - vbawd10.chm203620359
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.InsertOptions
 ms.assetid: cf9c11d3-3f96-f8bb-3f07-1500cfcf3d2c
+ms.date: 06/08/2017
 ---
 
 

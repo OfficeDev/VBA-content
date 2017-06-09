@@ -3,8 +3,9 @@ title: ApplyCustomType Method, Project [vbapj.chm131607]
 keywords: vbapj.chm131607
 f1_keywords:
 - vbapj.chm131607
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3269ce69-87d0-4277-b66c-a13e7bfbed5f
+ms.date: 06/08/2017
 ---
 
 

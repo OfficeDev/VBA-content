@@ -3,10 +3,11 @@ title: ReportItem.Close Method (Outlook)
 keywords: vbaol11.chm1664
 f1_keywords:
 - vbaol11.chm1664
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Close
 ms.assetid: bd38dde1-b747-5686-6073-1945557c9926
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: LineTo Row (Geometry Section), Visio [Vis_DSS.chm82251206]
 keywords: vis_dss.chm82251206
 f1_keywords:
 - vis_dss.chm82251206
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 81687757-4ff8-4b4b-a28b-b95a855feeea
+ms.date: 06/08/2017
 ---
 
 

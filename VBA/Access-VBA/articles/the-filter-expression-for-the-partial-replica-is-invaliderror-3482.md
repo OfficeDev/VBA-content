@@ -3,14 +3,15 @@ title: The filter expression for the partial replica is invalid. (Error 3482)
 keywords: jeterr40.chm5003482
 f1_keywords:
 - jeterr40.chm5003482
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6b302dcd-3e76-2455-8d98-317167401f4b
+ms.date: 06/08/2017
 ---
 
 
 # The filter expression for the partial replica is invalid. (Error 3482)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

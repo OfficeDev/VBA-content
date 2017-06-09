@@ -3,10 +3,11 @@ title: ApplyCustomType Method
 keywords: vbagr10.chm66937
 f1_keywords:
 - vbagr10.chm66937
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ApplyCustomType
 ms.assetid: 5385d195-96ce-bdd3-e84d-596fd4236904
+ms.date: 06/08/2017
 ---
 
 

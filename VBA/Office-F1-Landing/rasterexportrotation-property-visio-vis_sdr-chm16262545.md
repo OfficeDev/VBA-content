@@ -3,8 +3,9 @@ title: RasterExportRotation Property, Visio [vis_sdr.chm16262545]
 keywords: vis_sdr.chm16262545
 f1_keywords:
 - vis_sdr.chm16262545
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14c8eba0-742a-44e3-a1a7-84997ef476f1
+ms.date: 06/08/2017
 ---
 
 

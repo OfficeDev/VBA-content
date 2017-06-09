@@ -3,10 +3,11 @@ title: Range.Cells Property (Word)
 keywords: vbawd10.chm157155385
 f1_keywords:
 - vbawd10.chm157155385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Cells
 ms.assetid: aa081698-53d0-2234-5ec3-6e9a4091caef
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ErrorBars Object, Excel [vbagr10.chm5207346]
 keywords: vbagr10.chm5207346
 f1_keywords:
 - vbagr10.chm5207346
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f0fbfb7-c11a-453f-b91f-69b09d0b4f26
+ms.date: 06/08/2017
 ---
 
 

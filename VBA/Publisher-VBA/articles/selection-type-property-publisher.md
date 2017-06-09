@@ -3,10 +3,11 @@ title: Selection.Type Property (Publisher)
 keywords: vbapb10.chm851971
 f1_keywords:
 - vbapb10.chm851971
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Selection.Type
 ms.assetid: 4dfcfecc-dd76-36b6-21df-34c3865b3064
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Device unavailable (Error 68), Office Shared [vblr6.chm1000068]
 keywords: vblr6.chm1000068
 f1_keywords:
 - vblr6.chm1000068
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 919fbd6c-e8ba-49a0-a080-a21cbf24da4e
+ms.date: 06/08/2017
 ---
 
 

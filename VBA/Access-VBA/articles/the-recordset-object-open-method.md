@@ -1,13 +1,14 @@
 ---
 title: The Recordset Object Open Method
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5df72473-725c-39f5-a2d0-71466fba70df
+ms.date: 06/08/2017
 ---
 
 
 # The Recordset Object Open Method
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

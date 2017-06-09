@@ -1,13 +1,14 @@
 ---
 title: Database <name> is exclusively locked. (Error 3006)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 068c6f26-eac4-b787-aa25-7273cd36601b
+ms.date: 06/08/2017
 ---
 
 
 # Database <name> is exclusively locked. (Error 3006)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

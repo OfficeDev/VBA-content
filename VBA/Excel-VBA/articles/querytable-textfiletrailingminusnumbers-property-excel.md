@@ -3,10 +3,11 @@ title: QueryTable.TextFileTrailingMinusNumbers Property (Excel)
 keywords: vbaxl10.chm518134
 f1_keywords:
 - vbaxl10.chm518134
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileTrailingMinusNumbers
 ms.assetid: 4e2257b2-fc88-145b-d307-35b6877d390b
+ms.date: 06/08/2017
 ---
 
 

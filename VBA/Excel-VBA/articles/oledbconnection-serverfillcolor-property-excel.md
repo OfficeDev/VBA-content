@@ -3,10 +3,11 @@ title: OLEDBConnection.ServerFillColor Property (Excel)
 keywords: vbaxl10.chm794100
 f1_keywords:
 - vbaxl10.chm794100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerFillColor
 ms.assetid: 18a5b515-df3b-bbf1-5fbb-e9d744370d6a
+ms.date: 06/08/2017
 ---
 
 

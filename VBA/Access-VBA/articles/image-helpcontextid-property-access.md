@@ -3,10 +3,11 @@ title: Image.HelpContextId Property (Access)
 keywords: vbaac10.chm10389
 f1_keywords:
 - vbaac10.chm10389
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.HelpContextId
 ms.assetid: 76799f89-978a-4baa-a330-525247c1131d
+ms.date: 06/08/2017
 ---
 
 

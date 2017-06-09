@@ -3,10 +3,11 @@ title: Selection.Footnotes Property (Word)
 keywords: vbawd10.chm158662710
 f1_keywords:
 - vbawd10.chm158662710
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Footnotes
 ms.assetid: 61829c93-46e9-c1c5-1424-fb34a812a76d
+ms.date: 06/08/2017
 ---
 
 

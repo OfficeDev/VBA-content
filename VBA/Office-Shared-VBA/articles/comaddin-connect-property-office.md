@@ -3,10 +3,11 @@ title: COMAddIn.Connect Property (Office)
 keywords: vbaof11.chm219005
 f1_keywords:
 - vbaof11.chm219005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIn.Connect
 ms.assetid: b1392380-c19f-ab3e-c9dc-c62438b16500
+ms.date: 06/08/2017
 ---
 
 

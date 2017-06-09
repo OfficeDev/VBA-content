@@ -3,10 +3,11 @@ title: Page.Move Method (Access)
 keywords: vbaac10.chm12174
 f1_keywords:
 - vbaac10.chm12174
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Move
 ms.assetid: d44456cf-21b7-593d-ae1f-75900c93ce33
+ms.date: 06/08/2017
 ---
 
 

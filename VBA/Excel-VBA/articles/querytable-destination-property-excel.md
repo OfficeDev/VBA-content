@@ -3,10 +3,11 @@ title: QueryTable.Destination Property (Excel)
 keywords: vbaxl10.chm518086
 f1_keywords:
 - vbaxl10.chm518086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Destination
 ms.assetid: 11dc755d-1686-18e9-88df-b885328e8ef5
+ms.date: 06/08/2017
 ---
 
 

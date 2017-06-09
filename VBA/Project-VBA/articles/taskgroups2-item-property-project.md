@@ -1,9 +1,10 @@
 ---
 title: TaskGroups2.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Item
 ms.assetid: 62a5a8d4-e72d-075b-a80d-07539f2a3ca8
+ms.date: 06/08/2017
 ---
 
 

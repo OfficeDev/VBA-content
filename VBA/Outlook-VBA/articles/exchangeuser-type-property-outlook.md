@@ -3,10 +3,11 @@ title: ExchangeUser.Type Property (Outlook)
 keywords: vbaol11.chm2072
 f1_keywords:
 - vbaol11.chm2072
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Type
 ms.assetid: de3652a8-023c-5d2c-9ced-88f768c22a87
+ms.date: 06/08/2017
 ---
 
 

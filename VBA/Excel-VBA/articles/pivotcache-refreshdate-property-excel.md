@@ -3,10 +3,11 @@ title: PivotCache.RefreshDate Property (Excel)
 keywords: vbaxl10.chm227081
 f1_keywords:
 - vbaxl10.chm227081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.RefreshDate
 ms.assetid: 0bbb3e62-584b-7daf-2ad0-643a6e886187
+ms.date: 06/08/2017
 ---
 
 

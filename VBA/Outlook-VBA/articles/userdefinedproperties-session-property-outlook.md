@@ -3,10 +3,11 @@ title: UserDefinedProperties.Session Property (Outlook)
 keywords: vbaol11.chm584
 f1_keywords:
 - vbaol11.chm584
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Session
 ms.assetid: 7fb72c53-bb2e-5c27-61e6-a7ac79726647
+ms.date: 06/08/2017
 ---
 
 

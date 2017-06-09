@@ -3,8 +3,9 @@ title: Number8 Property, Project [vbapj.chm132403]
 keywords: vbapj.chm132403
 f1_keywords:
 - vbapj.chm132403
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8e50db8b-773f-46e0-938c-53f7ed9e7cd3
+ms.date: 06/08/2017
 ---
 
 

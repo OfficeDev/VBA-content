@@ -3,10 +3,11 @@ title: Shape.HitTest Method (Visio)
 keywords: vis_sdr.chm11213645
 f1_keywords:
 - vis_sdr.chm11213645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.HitTest
 ms.assetid: 1250ac1d-32f8-d078-3a01-6e2ce045d254
+ms.date: 06/08/2017
 ---
 
 

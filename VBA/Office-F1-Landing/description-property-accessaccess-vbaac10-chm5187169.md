@@ -3,8 +3,9 @@ title: Description Property (Access), Access [vbaac10.chm5187169]
 keywords: vbaac10.chm5187169
 f1_keywords:
 - vbaac10.chm5187169
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0b936bdc-f277-47ba-be99-5d05b0a9eb65
+ms.date: 06/08/2017
 ---
 
 

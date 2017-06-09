@@ -3,10 +3,11 @@ title: MinimumScale Property
 keywords: vbagr10.chm65569
 f1_keywords:
 - vbagr10.chm65569
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MinimumScale
 ms.assetid: 4aca27ef-c1af-e74e-8ca5-6a3fc1aefaa2
+ms.date: 06/08/2017
 ---
 
 

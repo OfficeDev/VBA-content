@@ -1,9 +1,10 @@
 ---
 title: PpSlideShowAdvanceMode Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowAdvanceMode
 ms.assetid: 58167ce9-3859-ebf4-b9ee-2bef2c88822c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MsoChartElementType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoChartElementType
 ms.assetid: bfbdb3a9-b2bc-7fd0-9c15-680daf03fc72
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartBorder.Parent Property (Word)
 keywords: vbawd10.chm61014166
 f1_keywords:
 - vbawd10.chm61014166
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartBorder.Parent
 ms.assetid: 17d0134f-0b77-7b42-5939-29b57c46046e
+ms.date: 06/08/2017
 ---
 
 

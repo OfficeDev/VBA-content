@@ -3,10 +3,11 @@ title: ChartFont Object (Word)
 keywords: vbawd10.chm3905
 f1_keywords:
 - vbawd10.chm3905
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont
 ms.assetid: 2ca7fb97-fa22-dec1-6978-8ebb6d8aad7c
+ms.date: 06/08/2017
 ---
 
 

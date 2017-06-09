@@ -3,10 +3,11 @@ title: Document.Hyperlinks Property (Word)
 keywords: vbawd10.chm158007357
 f1_keywords:
 - vbawd10.chm158007357
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Hyperlinks
 ms.assetid: b8db5b89-0a2a-ffe9-c353-1fa77190af75
+ms.date: 06/08/2017
 ---
 
 

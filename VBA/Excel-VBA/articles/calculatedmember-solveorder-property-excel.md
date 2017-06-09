@@ -3,10 +3,11 @@ title: CalculatedMember.SolveOrder Property (Excel)
 keywords: vbaxl10.chm686076
 f1_keywords:
 - vbaxl10.chm686076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.SolveOrder
 ms.assetid: 45e461ac-4900-000b-cb72-4022bcc1a7c9
+ms.date: 06/08/2017
 ---
 
 

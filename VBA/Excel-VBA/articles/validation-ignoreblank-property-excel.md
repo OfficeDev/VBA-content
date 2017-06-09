@@ -3,10 +3,11 @@ title: Validation.IgnoreBlank Property (Excel)
 keywords: vbaxl10.chm532075
 f1_keywords:
 - vbaxl10.chm532075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.IgnoreBlank
 ms.assetid: 91913061-9cc7-8e96-11c3-67d7b84e2e25
+ms.date: 06/08/2017
 ---
 
 

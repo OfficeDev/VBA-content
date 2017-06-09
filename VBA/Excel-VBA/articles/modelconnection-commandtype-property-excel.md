@@ -3,8 +3,9 @@ title: ModelConnection.CommandType Property (Excel)
 keywords: vbaxl10.chm922074
 f1_keywords:
 - vbaxl10.chm922074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 29343162-48b3-65c2-ccde-d780b81fd43d
+ms.date: 06/08/2017
 ---
 
 

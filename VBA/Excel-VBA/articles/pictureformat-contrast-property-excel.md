@@ -3,10 +3,11 @@ title: PictureFormat.Contrast Property (Excel)
 keywords: vbaxl10.chm113004
 f1_keywords:
 - vbaxl10.chm113004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.Contrast
 ms.assetid: 994cfca5-8ddb-d943-63c8-21abe8508de6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ComboBox.RowSourceType Property (Access)
 keywords: vbaac10.chm11378
 f1_keywords:
 - vbaac10.chm11378
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.RowSourceType
 ms.assetid: dd1d6ea8-5479-4bf9-3317-0b95282c7d74
+ms.date: 06/08/2017
 ---
 
 

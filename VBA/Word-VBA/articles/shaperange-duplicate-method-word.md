@@ -3,10 +3,11 @@ title: ShapeRange.Duplicate Method (Word)
 keywords: vbawd10.chm162856974
 f1_keywords:
 - vbawd10.chm162856974
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Duplicate
 ms.assetid: 98efa3b3-3405-152a-b629-d4bb654c8029
+ms.date: 06/08/2017
 ---
 
 

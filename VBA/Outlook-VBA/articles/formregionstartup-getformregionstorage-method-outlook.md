@@ -3,10 +3,11 @@ title: FormRegionStartup.GetFormRegionStorage Method (Outlook)
 keywords: vbaol11.chm2946
 f1_keywords:
 - vbaol11.chm2946
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegionStartup.GetFormRegionStorage
 ms.assetid: 685b5ed7-dd19-9040-664f-5deff6e738c7
+ms.date: 06/08/2017
 ---
 
 

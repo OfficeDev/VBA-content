@@ -3,10 +3,11 @@ title: CustomProperty.Parent Property (Excel)
 keywords: vbaxl10.chm681075
 f1_keywords:
 - vbaxl10.chm681075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomProperty.Parent
 ms.assetid: 3b10a084-88d3-a874-d24c-f254ce7b92f1
+ms.date: 06/08/2017
 ---
 
 

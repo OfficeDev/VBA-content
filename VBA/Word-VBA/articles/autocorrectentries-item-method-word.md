@@ -3,10 +3,11 @@ title: AutoCorrectEntries.Item Method (Word)
 keywords: vbawd10.chm155713536
 f1_keywords:
 - vbawd10.chm155713536
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntries.Item
 ms.assetid: 389bb7f8-cca0-b152-4496-62b6b9d12edf
+ms.date: 06/08/2017
 ---
 
 

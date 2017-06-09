@@ -3,10 +3,11 @@ title: CalloutFormat.CustomDrop Method (Publisher)
 keywords: vbapb10.chm2490385
 f1_keywords:
 - vbapb10.chm2490385
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.CustomDrop
 ms.assetid: 65fc7309-acd0-5bdd-6bb0-1b6c41968775
+ms.date: 06/08/2017
 ---
 
 

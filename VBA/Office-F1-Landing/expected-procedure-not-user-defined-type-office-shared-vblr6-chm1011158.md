@@ -3,8 +3,9 @@ title: Expected procedure, not user-defined type, Office Shared [vblr6.chm101115
 keywords: vblr6.chm1011158
 f1_keywords:
 - vblr6.chm1011158
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f3062ae6-1317-4f28-a6bd-0ed5631af780
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ErrorBars.EndStyle Property (Excel)
 keywords: vbaxl10.chm624079
 f1_keywords:
 - vbaxl10.chm624079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorBars.EndStyle
 ms.assetid: 865c1da8-1231-5290-c737-c0415615a0ea
+ms.date: 06/08/2017
 ---
 
 

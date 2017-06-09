@@ -3,10 +3,11 @@ title: Replacement.Creator Property (Word)
 keywords: vbawd10.chm162595817
 f1_keywords:
 - vbawd10.chm162595817
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.Creator
 ms.assetid: 4151ba54-23bc-62cc-7595-af5b90b7d970
+ms.date: 06/08/2017
 ---
 
 

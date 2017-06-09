@@ -1,9 +1,10 @@
 ---
 title: ContentControls Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControls
 ms.assetid: 2595eea9-df68-edce-3a51-069cad14bb87
+ms.date: 06/08/2017
 ---
 
 

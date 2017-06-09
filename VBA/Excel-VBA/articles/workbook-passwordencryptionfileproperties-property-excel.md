@@ -3,10 +3,11 @@ title: Workbook.PasswordEncryptionFileProperties Property (Excel)
 keywords: vbaxl10.chm199215
 f1_keywords:
 - vbaxl10.chm199215
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.PasswordEncryptionFileProperties
 ms.assetid: 536ad729-424e-5f81-85e9-8a6ed71fb11a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartGroup.FirstSliceAngle Property (Word)
 keywords: vbawd10.chm263454726
 f1_keywords:
 - vbawd10.chm263454726
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.FirstSliceAngle
 ms.assetid: 0b5b9e0b-1210-6fc6-9e2c-2913cdb552cc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Categories.Application Property (Outlook)
 keywords: vbaol11.chm2431
 f1_keywords:
 - vbaol11.chm2431
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories.Application
 ms.assetid: 7488c3e5-4163-9192-0e1d-8aa50f000978
+ms.date: 06/08/2017
 ---
 
 

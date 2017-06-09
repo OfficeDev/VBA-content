@@ -3,10 +3,11 @@ title: Document.EnvelopeVisible Property (Publisher)
 keywords: vbapb10.chm196618
 f1_keywords:
 - vbapb10.chm196618
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.EnvelopeVisible
 ms.assetid: 65423c1f-e61b-3c83-4bff-ddd278d97238
+ms.date: 06/08/2017
 ---
 
 

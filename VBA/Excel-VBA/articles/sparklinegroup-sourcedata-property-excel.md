@@ -3,10 +3,11 @@ title: SparklineGroup.SourceData Property (Excel)
 keywords: vbaxl10.chm871077
 f1_keywords:
 - vbaxl10.chm871077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.SourceData
 ms.assetid: b55c67a5-2cf8-4a36-a8d5-c7653f13ceb3
+ms.date: 06/08/2017
 ---
 
 

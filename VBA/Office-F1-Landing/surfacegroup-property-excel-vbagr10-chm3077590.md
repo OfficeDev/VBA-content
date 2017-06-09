@@ -3,8 +3,9 @@ title: SurfaceGroup Property, Excel [vbagr10.chm3077590]
 keywords: vbagr10.chm3077590
 f1_keywords:
 - vbagr10.chm3077590
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e0bf5b1-908e-42bf-98bb-61831d0c856a
+ms.date: 06/08/2017
 ---
 
 

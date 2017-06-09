@@ -3,10 +3,11 @@ title: Shape.Copy Method (Visio)
 keywords: vis_sdr.chm11251005
 f1_keywords:
 - vis_sdr.chm11251005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Copy
 ms.assetid: 2579682b-1dd3-7579-271d-a9994b91a933
+ms.date: 06/08/2017
 ---
 
 

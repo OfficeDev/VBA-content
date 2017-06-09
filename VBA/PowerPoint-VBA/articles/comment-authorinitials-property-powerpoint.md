@@ -3,10 +3,11 @@ title: Comment.AuthorInitials Property (PowerPoint)
 keywords: vbapp10.chm642004
 f1_keywords:
 - vbapp10.chm642004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.AuthorInitials
 ms.assetid: 21789206-78b0-2c9e-4461-5005d821bd6c
+ms.date: 06/08/2017
 ---
 
 

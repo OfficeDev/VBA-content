@@ -3,10 +3,11 @@ title: FormField.EntryMacro Property (Word)
 keywords: vbawd10.chm153616387
 f1_keywords:
 - vbawd10.chm153616387
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.EntryMacro
 ms.assetid: db4ff78e-6795-0e8e-20db-56ceac01b8f2
+ms.date: 06/08/2017
 ---
 
 

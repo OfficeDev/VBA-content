@@ -1,7 +1,8 @@
 ---
 title: ScrollBar Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ede3ff67-126d-4038-8616-661a014cc687
+ms.date: 06/08/2017
 ---
 
 

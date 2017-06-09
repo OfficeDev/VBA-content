@@ -3,14 +3,15 @@ title: Cannot set multiple NULL, NOT NULL attributes. (Error 3806)
 keywords: jeterr40.chm5003806
 f1_keywords:
 - jeterr40.chm5003806
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8cc85f8a-d00d-0299-e861-7345e0d21de3
+ms.date: 06/08/2017
 ---
 
 
 # Cannot set multiple NULL, NOT NULL attributes. (Error 3806)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

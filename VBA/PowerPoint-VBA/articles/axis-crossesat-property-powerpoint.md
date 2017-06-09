@@ -3,10 +3,11 @@ title: Axis.CrossesAt Property (PowerPoint)
 keywords: vbapp10.chm682006
 f1_keywords:
 - vbapp10.chm682006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.CrossesAt
 ms.assetid: ccc6438d-fb72-7674-0994-bf5d9cecf58d
+ms.date: 06/08/2017
 ---
 
 

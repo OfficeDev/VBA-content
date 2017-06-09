@@ -3,8 +3,9 @@ title: Invalid use of Null (Error 94)
 keywords: vblr6.chm1000094
 f1_keywords:
 - vblr6.chm1000094
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c1c987fb-8b4c-bbc2-a69b-c5e9047bb94a
+ms.date: 06/08/2017
 ---
 
 

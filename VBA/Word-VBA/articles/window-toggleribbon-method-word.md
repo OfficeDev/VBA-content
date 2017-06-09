@@ -3,10 +3,11 @@ title: Window.ToggleRibbon Method (Word)
 keywords: vbawd10.chm157417919
 f1_keywords:
 - vbawd10.chm157417919
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.ToggleRibbon
 ms.assetid: 9ca5a0e4-277a-a997-2de8-439087d49751
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: "'item' designers cannot be public in ActiveX EXE projects"
 keywords: vblr6.chm50337
 f1_keywords:
 - vblr6.chm50337
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8f23be89-fbf0-d9d3-01e8-87ab5fede8da
+ms.date: 06/08/2017
 ---
 
 

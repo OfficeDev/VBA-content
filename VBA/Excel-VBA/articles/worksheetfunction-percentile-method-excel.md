@@ -3,10 +3,11 @@ title: WorksheetFunction.Percentile Method (Excel)
 keywords: vbaxl10.chm137232
 f1_keywords:
 - vbaxl10.chm137232
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Percentile
 ms.assetid: a4918744-a7b1-28f9-4591-58c5ebf25c10
+ms.date: 06/08/2017
 ---
 
 

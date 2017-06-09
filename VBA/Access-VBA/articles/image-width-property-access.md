@@ -3,10 +3,11 @@ title: Image.Width Property (Access)
 keywords: vbaac10.chm10378
 f1_keywords:
 - vbaac10.chm10378
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Width
 ms.assetid: 9a6641b4-8e9b-2d9b-8122-6f4d6967606c
+ms.date: 06/08/2017
 ---
 
 

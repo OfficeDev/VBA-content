@@ -3,8 +3,9 @@ title: SaveAs Method, Excel [vbagr10.chm67461]
 keywords: vbagr10.chm67461
 f1_keywords:
 - vbagr10.chm67461
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a0b28a72-9bfd-424c-9ee6-06d87812b820
+ms.date: 06/08/2017
 ---
 
 

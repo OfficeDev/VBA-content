@@ -3,14 +3,15 @@ title: ODBC -- linked table definition has changed. (Error 3247)
 keywords: jeterr40.chm5003247
 f1_keywords:
 - jeterr40.chm5003247
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9d3c056f-2312-ab78-c188-3ed68102a250
+ms.date: 06/08/2017
 ---
 
 
 # ODBC -- linked table definition has changed. (Error 3247)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

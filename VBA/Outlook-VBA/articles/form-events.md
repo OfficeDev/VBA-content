@@ -1,7 +1,8 @@
 ---
 title: Form Events
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9f6135ad-9366-4eb1-bec7-2e96d41d067e
+ms.date: 06/08/2017
 ---
 
 

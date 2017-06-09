@@ -3,10 +3,11 @@ title: ColorsInUse Object (Publisher)
 keywords: vbapb10.chm3014655
 f1_keywords:
 - vbapb10.chm3014655
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse
 ms.assetid: ced0028a-8ab5-d9b1-b28c-24b794bdcbfe
+ms.date: 06/08/2017
 ---
 
 

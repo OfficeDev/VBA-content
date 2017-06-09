@@ -1,9 +1,10 @@
 ---
 title: WdDeleteCells Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDeleteCells
 ms.assetid: 5f4d57e7-9df3-2bc9-f047-19b47e102481
+ms.date: 06/08/2017
 ---
 
 

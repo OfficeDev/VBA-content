@@ -3,10 +3,11 @@ title: LineFormat.ForeColor Property (Word)
 keywords: vbawd10.chm164233324
 f1_keywords:
 - vbawd10.chm164233324
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.ForeColor
 ms.assetid: 16f8ddbe-21d8-4c09-ac54-feeb8f71146b
+ms.date: 06/08/2017
 ---
 
 

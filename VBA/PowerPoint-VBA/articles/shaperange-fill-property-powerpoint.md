@@ -3,10 +3,11 @@ title: ShapeRange.Fill Property (PowerPoint)
 keywords: vbapp10.chm548022
 f1_keywords:
 - vbapp10.chm548022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Fill
 ms.assetid: 689cef96-6ad8-aa20-27c6-065af06b5753
+ms.date: 06/08/2017
 ---
 
 

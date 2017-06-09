@@ -3,10 +3,11 @@ title: FileConverter.Extensions Property (Word)
 keywords: vbawd10.chm161021960
 f1_keywords:
 - vbawd10.chm161021960
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.Extensions
 ms.assetid: 18a9819b-ddc3-5928-8ce7-882d00d3f5c9
+ms.date: 06/08/2017
 ---
 
 

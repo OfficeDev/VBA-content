@@ -3,10 +3,11 @@ title: FillFormat.PresetTextured Method (Excel)
 keywords: vbaxl10.chm115006
 f1_keywords:
 - vbaxl10.chm115006
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.PresetTextured
 ms.assetid: 44661e53-9aee-7abd-6a6e-b6cb0a97ee2d
+ms.date: 06/08/2017
 ---
 
 

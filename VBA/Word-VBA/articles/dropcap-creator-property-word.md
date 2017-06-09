@@ -3,10 +3,11 @@ title: DropCap.Creator Property (Word)
 keywords: vbawd10.chm156632041
 f1_keywords:
 - vbawd10.chm156632041
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.Creator
 ms.assetid: a92ac246-0003-0db8-6c80-23114cf56966
+ms.date: 06/08/2017
 ---
 
 

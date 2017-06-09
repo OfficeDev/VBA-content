@@ -3,10 +3,11 @@ title: TextRange.Paste Method (Publisher)
 keywords: vbapb10.chm5308482
 f1_keywords:
 - vbapb10.chm5308482
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Paste
 ms.assetid: dd29c9ab-7f56-3604-3390-8f5a3b97821f
+ms.date: 06/08/2017
 ---
 
 

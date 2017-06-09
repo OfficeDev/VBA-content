@@ -3,14 +3,15 @@ title: Cannot open <tablename>. Another user has the table open using a differen
 keywords: jeterr40.chm5003418
 f1_keywords:
 - jeterr40.chm5003418
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3f3c4b8b-0749-61f1-f8dd-635f836cf335
+ms.date: 06/08/2017
 ---
 
 
 # Cannot open <tablename>. Another user has the table open using a different network control file or locking style. (Error 3418)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

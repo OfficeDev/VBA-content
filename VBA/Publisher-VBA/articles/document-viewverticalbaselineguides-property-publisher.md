@@ -3,10 +3,11 @@ title: Document.ViewVerticalBaseLineGuides Property (Publisher)
 keywords: vbapb10.chm196729
 f1_keywords:
 - vbapb10.chm196729
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ViewVerticalBaseLineGuides
 ms.assetid: 711335ab-237b-65a2-534a-7635cfba474e
+ms.date: 06/08/2017
 ---
 
 

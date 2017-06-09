@@ -3,10 +3,11 @@ title: WorksheetFunction.StDev_S Method (Excel)
 keywords: vbaxl10.chm137381
 f1_keywords:
 - vbaxl10.chm137381
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.StDev_S
 ms.assetid: 8c62edde-7978-8b75-8554-2a1a77a5f0e2
+ms.date: 06/08/2017
 ---
 
 

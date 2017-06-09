@@ -3,10 +3,11 @@ title: TextFrame.HasNextLink Property (Publisher)
 keywords: vbapb10.chm3866640
 f1_keywords:
 - vbapb10.chm3866640
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.HasNextLink
 ms.assetid: 907ec470-e283-906a-e25f-f5a8548a18a4
+ms.date: 06/08/2017
 ---
 
 

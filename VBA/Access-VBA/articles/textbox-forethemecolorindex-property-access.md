@@ -3,10 +3,11 @@ title: TextBox.ForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.ForeThemeColorIndex
 ms.assetid: 9b49e363-fe5b-0536-c3ed-b4836acb383b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.ShowMenuFloaties Property (Word)
 keywords: vbawd10.chm162988501
 f1_keywords:
 - vbawd10.chm162988501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ShowMenuFloaties
 ms.assetid: cb73ce28-b0d5-6d01-0e46-7206a90e8f4b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: GroupShapes.Application Property (Word)
 keywords: vbawd10.chm162930496
 f1_keywords:
 - vbawd10.chm162930496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GroupShapes.Application
 ms.assetid: 49603630-7cb4-9bc6-7edd-eadeb0266af2
+ms.date: 06/08/2017
 ---
 
 

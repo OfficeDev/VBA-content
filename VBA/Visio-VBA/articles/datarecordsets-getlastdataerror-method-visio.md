@@ -3,10 +3,11 @@ title: DataRecordsets.GetLastDataError Method (Visio)
 keywords: vis_sdr.chm16360615
 f1_keywords:
 - vis_sdr.chm16360615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.GetLastDataError
 ms.assetid: c3c4490f-a9bb-2f36-6a3d-b3be0a94fa2b
+ms.date: 06/08/2017
 ---
 
 

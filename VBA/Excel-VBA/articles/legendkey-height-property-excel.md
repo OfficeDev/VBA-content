@@ -3,10 +3,11 @@ title: LegendKey.Height Property (Excel)
 keywords: vbaxl10.chm590093
 f1_keywords:
 - vbaxl10.chm590093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.Height
 ms.assetid: 2dd9fccf-4769-d9aa-267d-1dab7e55b7f6
+ms.date: 06/08/2017
 ---
 
 

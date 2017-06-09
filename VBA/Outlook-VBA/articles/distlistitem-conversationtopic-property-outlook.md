@@ -3,10 +3,11 @@ title: DistListItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm1121
 f1_keywords:
 - vbaol11.chm1121
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ConversationTopic
 ms.assetid: a01880ac-6fdb-0aa5-9ab5-1bd89d6ffdcc
+ms.date: 06/08/2017
 ---
 
 

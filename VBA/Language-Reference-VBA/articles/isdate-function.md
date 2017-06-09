@@ -3,8 +3,9 @@ title: IsDate Function
 keywords: vblr6.chm1008951
 f1_keywords:
 - vblr6.chm1008951
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 832486a7-c69f-8d3b-f0fc-2f6a2f707ecc
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Group Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: e81e9b3f-35bc-eea6-4d3e-0147114188be
+ms.date: 06/08/2017
 ---
 
 

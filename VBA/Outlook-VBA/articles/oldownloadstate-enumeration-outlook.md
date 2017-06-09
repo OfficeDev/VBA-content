@@ -3,10 +3,11 @@ title: OlDownloadState Enumeration (Outlook)
 keywords: vbaol11.chm3093
 f1_keywords:
 - vbaol11.chm3093
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlDownloadState
 ms.assetid: ff5e00db-ad06-ddf1-6e3a-536c0ae4ef34
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.Recalc Method (Access)
 keywords: vbaac10.chm13502
 f1_keywords:
 - vbaac10.chm13502
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Recalc
 ms.assetid: 61786e64-dc17-b685-f427-fc7952d0320f
+ms.date: 06/08/2017
 ---
 
 

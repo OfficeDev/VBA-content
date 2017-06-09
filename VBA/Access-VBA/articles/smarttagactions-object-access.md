@@ -3,10 +3,11 @@ title: SmartTagActions Object (Access)
 keywords: vbaac10.chm13295
 f1_keywords:
 - vbaac10.chm13295
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTagActions
 ms.assetid: 642e9138-9734-a719-c6c9-5080fd31bd93
+ms.date: 06/08/2017
 ---
 
 

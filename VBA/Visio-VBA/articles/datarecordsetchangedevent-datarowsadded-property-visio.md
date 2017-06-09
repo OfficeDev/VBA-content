@@ -3,10 +3,11 @@ title: DataRecordsetChangedEvent.DataRowsAdded Property (Visio)
 keywords: vis_sdr.chm17260455
 f1_keywords:
 - vis_sdr.chm17260455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent.DataRowsAdded
 ms.assetid: f99396bf-fba0-bffb-903a-f96630e8689d
+ms.date: 06/08/2017
 ---
 
 

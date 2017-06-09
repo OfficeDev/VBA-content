@@ -1,7 +1,8 @@
 ---
 title: Specify a Form Region to be Used Only for the Exact Message Class
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: cf08e1da-bc82-8f8f-0790-09bbf24bc8cd
+ms.date: 06/08/2017
 ---
 
 

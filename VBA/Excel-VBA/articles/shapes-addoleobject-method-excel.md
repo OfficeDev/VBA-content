@@ -3,10 +3,11 @@ title: Shapes.AddOLEObject Method (Excel)
 keywords: vbaxl10.chm638091
 f1_keywords:
 - vbaxl10.chm638091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddOLEObject
 ms.assetid: 6e73970f-3c2d-0e4d-8974-14e478bf489a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: The load behavior for 'item' could not be updated because of current regi
 keywords: vblr6.chm1009375
 f1_keywords:
 - vblr6.chm1009375
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11e2d39a-178d-54f0-030c-0822d2f176ca
+ms.date: 06/08/2017
 ---
 
 

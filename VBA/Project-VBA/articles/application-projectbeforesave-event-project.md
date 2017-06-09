@@ -1,9 +1,10 @@
 ---
 title: Application.ProjectBeforeSave Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeSave
 ms.assetid: 406986e7-22f6-109e-1973-f22e81081111
+ms.date: 06/08/2017
 ---
 
 

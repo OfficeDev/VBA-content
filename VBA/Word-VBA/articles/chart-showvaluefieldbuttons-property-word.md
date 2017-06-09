@@ -3,10 +3,11 @@ title: Chart.ShowValueFieldButtons Property (Word)
 keywords: vbawd10.chm79366943
 f1_keywords:
 - vbawd10.chm79366943
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.ShowValueFieldButtons
 ms.assetid: 9b650a6f-8cdb-9aef-d19e-6a2e339e7768
+ms.date: 06/08/2017
 ---
 
 

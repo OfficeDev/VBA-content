@@ -3,10 +3,11 @@ title: Adjustments.Creator Property (Word)
 keywords: vbawd10.chm163841001
 f1_keywords:
 - vbawd10.chm163841001
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Adjustments.Creator
 ms.assetid: 7baa91c2-9f99-461f-82c5-be86953c3b59
+ms.date: 06/08/2017
 ---
 
 

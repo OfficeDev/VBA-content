@@ -3,10 +3,11 @@ title: Inspector.HideFormPage Method (Outlook)
 keywords: vbaol11.chm2967
 f1_keywords:
 - vbaol11.chm2967
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.HideFormPage
 ms.assetid: fbb0fec9-5a23-50f8-0be6-3d264859f327
+ms.date: 06/08/2017
 ---
 
 

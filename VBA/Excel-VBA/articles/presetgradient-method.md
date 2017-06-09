@@ -3,10 +3,11 @@ title: PresetGradient Method
 keywords: vbagr10.chm67172
 f1_keywords:
 - vbagr10.chm67172
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PresetGradient
 ms.assetid: db282722-c2ad-b504-62b3-326814fd8ca0
+ms.date: 06/08/2017
 ---
 
 

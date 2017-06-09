@@ -3,10 +3,11 @@ title: MediaFormat.Parent Property (PowerPoint)
 keywords: vbapp10.chm724002
 f1_keywords:
 - vbapp10.chm724002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.Parent
 ms.assetid: 6ba07206-4f45-574d-5617-1abe1aefaab1
+ms.date: 06/08/2017
 ---
 
 

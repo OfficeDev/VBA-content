@@ -3,8 +3,9 @@ title: HasMajorGridlines Property, Excel [vbagr10.chm65560]
 keywords: vbagr10.chm65560
 f1_keywords:
 - vbagr10.chm65560
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 99b330bb-4b7f-4140-9a91-dd111c7f09e7
+ms.date: 06/08/2017
 ---
 
 

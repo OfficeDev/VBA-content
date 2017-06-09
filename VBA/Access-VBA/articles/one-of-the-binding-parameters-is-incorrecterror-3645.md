@@ -3,14 +3,15 @@ title: One of the binding parameters is incorrect. (Error 3645)
 keywords: jeterr40.chm5003645
 f1_keywords:
 - jeterr40.chm5003645
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f8c35777-a3d3-ad79-1f91-9a431c8c44d3
+ms.date: 06/08/2017
 ---
 
 
 # One of the binding parameters is incorrect. (Error 3645)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

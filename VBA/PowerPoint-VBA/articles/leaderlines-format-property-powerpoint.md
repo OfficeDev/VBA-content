@@ -3,10 +3,11 @@ title: LeaderLines.Format Property (PowerPoint)
 keywords: vbapp10.chm708001
 f1_keywords:
 - vbapp10.chm708001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Format
 ms.assetid: 3e1dad16-8919-d9cf-ab2c-fbae9306c76f
+ms.date: 06/08/2017
 ---
 
 

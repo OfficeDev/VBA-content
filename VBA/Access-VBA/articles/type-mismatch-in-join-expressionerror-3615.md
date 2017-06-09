@@ -3,14 +3,15 @@ title: Type mismatch in JOIN expression. (Error 3615)
 keywords: jeterr40.chm5003615
 f1_keywords:
 - jeterr40.chm5003615
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 05fbb6e2-6055-2114-4729-20722c0c94bf
+ms.date: 06/08/2017
 ---
 
 
 # Type mismatch in JOIN expression. (Error 3615)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

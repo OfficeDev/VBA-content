@@ -3,10 +3,11 @@ title: AutoCorrect.AutoFillFormulasInLists Property (Excel)
 keywords: vbaxl10.chm545083
 f1_keywords:
 - vbaxl10.chm545083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.AutoFillFormulasInLists
 ms.assetid: efef5f17-d50c-c21b-3c88-07f3092d2f25
+ms.date: 06/08/2017
 ---
 
 

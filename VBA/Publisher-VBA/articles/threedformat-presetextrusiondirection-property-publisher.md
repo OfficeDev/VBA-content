@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetExtrusionDirection Property (Publisher)
 keywords: vbapb10.chm3801348
 f1_keywords:
 - vbapb10.chm3801348
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: fdf3843e-12bc-4b3b-11cb-e512abd991af
+ms.date: 06/08/2017
 ---
 
 

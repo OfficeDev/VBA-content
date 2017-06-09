@@ -3,10 +3,11 @@ title: Cell.ColumnIndex Property (Word)
 keywords: vbawd10.chm156106757
 f1_keywords:
 - vbawd10.chm156106757
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.ColumnIndex
 ms.assetid: cb30b08a-b95f-da3f-ceae-7c83a5d2ec9e
+ms.date: 06/08/2017
 ---
 
 

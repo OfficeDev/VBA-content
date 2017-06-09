@@ -3,10 +3,11 @@ title: CustomLabel.VerticalPitch Property (Word)
 keywords: vbawd10.chm152371207
 f1_keywords:
 - vbawd10.chm152371207
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.VerticalPitch
 ms.assetid: 5f1107b7-e521-f022-579c-00f14d93d5f6
+ms.date: 06/08/2017
 ---
 
 

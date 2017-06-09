@@ -1,9 +1,10 @@
 ---
 title: XlPivotTableMissingItems Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotTableMissingItems
 ms.assetid: 3450ac87-7a30-f2dd-efc8-fcd336b26319
+ms.date: 06/08/2017
 ---
 
 

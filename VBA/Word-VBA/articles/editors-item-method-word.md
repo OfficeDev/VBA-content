@@ -3,10 +3,11 @@ title: Editors.Item Method (Word)
 keywords: vbawd10.chm9175040
 f1_keywords:
 - vbawd10.chm9175040
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editors.Item
 ms.assetid: 58fee673-6162-37e3-803d-5fd0ce1fb144
+ms.date: 06/08/2017
 ---
 
 

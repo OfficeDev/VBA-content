@@ -3,10 +3,11 @@ title: MenuItems.Add Method (Visio)
 keywords: vis_sdr.chm13016005
 f1_keywords:
 - vis_sdr.chm13016005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItems.Add
 ms.assetid: 29743e75-572b-7638-710e-434c68b1a0b3
+ms.date: 06/08/2017
 ---
 
 

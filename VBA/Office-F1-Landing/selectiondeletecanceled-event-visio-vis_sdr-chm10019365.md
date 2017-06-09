@@ -3,8 +3,9 @@ title: SelectionDeleteCanceled Event, Visio [vis_sdr.chm10019365]
 keywords: vis_sdr.chm10019365
 f1_keywords:
 - vis_sdr.chm10019365
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7167b92a-e660-4370-bc97-bce8297fa532
+ms.date: 06/08/2017
 ---
 
 

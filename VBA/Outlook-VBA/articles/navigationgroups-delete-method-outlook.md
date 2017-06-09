@@ -3,10 +3,11 @@ title: NavigationGroups.Delete Method (Outlook)
 keywords: vbaol11.chm2859
 f1_keywords:
 - vbaol11.chm2859
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.Delete
 ms.assetid: b5bb08c4-9cf1-4ed7-9522-0096f1016e5b
+ms.date: 06/08/2017
 ---
 
 

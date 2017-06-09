@@ -3,10 +3,11 @@ title: UpBars.Parent Property (Word)
 keywords: vbawd10.chm180945046
 f1_keywords:
 - vbawd10.chm180945046
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Parent
 ms.assetid: 5b8db034-b7ea-69ad-263a-5e04cb45fe15
+ms.date: 06/08/2017
 ---
 
 

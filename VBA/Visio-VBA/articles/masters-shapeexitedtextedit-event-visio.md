@@ -3,10 +3,11 @@ title: Masters.ShapeExitedTextEdit Event (Visio)
 keywords: vis_sdr.chm10819385
 f1_keywords:
 - vis_sdr.chm10819385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ShapeExitedTextEdit
 ms.assetid: d4237896-734b-5308-d5db-bceef77f6b57
+ms.date: 06/08/2017
 ---
 
 

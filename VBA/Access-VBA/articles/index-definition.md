@@ -3,14 +3,15 @@ title: Index (Definition)
 keywords: vbaac10.chm13623
 f1_keywords:
 - vbaac10.chm13623
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 67b93637-afba-f20a-b135-149a92ee9d99
+ms.date: 06/08/2017
 ---
 
 
 # Index (Definition)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

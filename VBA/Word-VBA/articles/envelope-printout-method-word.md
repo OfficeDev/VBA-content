@@ -3,10 +3,11 @@ title: Envelope.PrintOut Method (Word)
 keywords: vbawd10.chm152567914
 f1_keywords:
 - vbawd10.chm152567914
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.PrintOut
 ms.assetid: 68d8d60a-f07a-1371-e9cc-1d08118e5295
+ms.date: 06/08/2017
 ---
 
 

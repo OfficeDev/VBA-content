@@ -3,10 +3,11 @@ title: Shape.ShapeParentChanged Event (Visio)
 keywords: vis_sdr.chm11219235
 f1_keywords:
 - vis_sdr.chm11219235
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ShapeParentChanged
 ms.assetid: b26b9740-a3bf-1100-0f7b-f34cb03be53c
+ms.date: 06/08/2017
 ---
 
 

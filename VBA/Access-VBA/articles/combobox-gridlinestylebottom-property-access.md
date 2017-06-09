@@ -3,10 +3,11 @@ title: ComboBox.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm11488
 f1_keywords:
 - vbaac10.chm11488
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.GridlineStyleBottom
 ms.assetid: 36ccbfbb-60e4-8d2e-6f15-4b1d22a732bf
+ms.date: 06/08/2017
 ---
 
 

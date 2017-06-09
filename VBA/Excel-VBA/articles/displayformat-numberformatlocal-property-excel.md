@@ -3,10 +3,11 @@ title: DisplayFormat.NumberFormatLocal Property (Excel)
 keywords: vbaxl10.chm893085
 f1_keywords:
 - vbaxl10.chm893085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.NumberFormatLocal
 ms.assetid: 0f364ecd-ec4d-f378-12d5-b67fec62336a
+ms.date: 06/08/2017
 ---
 
 

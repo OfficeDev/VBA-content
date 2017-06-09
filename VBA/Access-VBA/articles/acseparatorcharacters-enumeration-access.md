@@ -3,10 +3,11 @@ title: AcSeparatorCharacters Enumeration (Access)
 keywords: vbaac10.chm14042
 f1_keywords:
 - vbaac10.chm14042
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSeparatorCharacters
 ms.assetid: f6f0c881-d092-b68a-ea1f-bd4e28b730a8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Major Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071226
 keywords: vbob6.chm1071226
 f1_keywords:
 - vbob6.chm1071226
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 831069a1-2c0d-4951-8e1d-7eb40ad27673
+ms.date: 06/08/2017
 ---
 
 

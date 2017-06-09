@@ -3,10 +3,11 @@ title: ObjectFrame.Exit Event (Access)
 keywords: vbaac10.chm14106
 f1_keywords:
 - vbaac10.chm14106
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Exit
 ms.assetid: 9abc0214-a73c-7709-aaeb-817716694dd7
+ms.date: 06/08/2017
 ---
 
 

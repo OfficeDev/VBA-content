@@ -3,10 +3,11 @@ title: Attachments.Item Property (Publisher)
 keywords: vbapb10.chm569344
 f1_keywords:
 - vbapb10.chm569344
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Attachments.Item
 ms.assetid: fa01c528-fc0d-9fbd-1dad-cab695a14682
+ms.date: 06/08/2017
 ---
 
 

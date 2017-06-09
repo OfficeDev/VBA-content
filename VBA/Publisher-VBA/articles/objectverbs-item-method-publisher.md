@@ -3,10 +3,11 @@ title: ObjectVerbs.Item Method (Publisher)
 keywords: vbapb10.chm4521984
 f1_keywords:
 - vbapb10.chm4521984
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ObjectVerbs.Item
 ms.assetid: 4d554407-8cac-407b-e767-82df719e84ef
+ms.date: 06/08/2017
 ---
 
 

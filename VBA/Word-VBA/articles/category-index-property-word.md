@@ -3,10 +3,11 @@ title: Category.Index Property (Word)
 keywords: vbawd10.chm190709761
 f1_keywords:
 - vbawd10.chm190709761
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Category.Index
 ms.assetid: 863ed3ea-6da8-b23e-8f25-2bab0643d343
+ms.date: 06/08/2017
 ---
 
 

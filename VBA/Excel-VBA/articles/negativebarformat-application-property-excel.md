@@ -3,10 +3,11 @@ title: NegativeBarFormat.Application Property (Excel)
 keywords: vbaxl10.chm886073
 f1_keywords:
 - vbaxl10.chm886073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat.Application
 ms.assetid: 12a8b047-9840-381d-8614-37967470118f
+ms.date: 06/08/2017
 ---
 
 

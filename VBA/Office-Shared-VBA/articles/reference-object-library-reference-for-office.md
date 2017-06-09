@@ -1,7 +1,8 @@
 ---
 title: Reference (Object library reference for Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 499c789a-aba2-0fad-649a-0ea964cd3b5e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NewItemAlertRuleAction.Parent Property (Outlook)
 keywords: vbaol11.chm2291
 f1_keywords:
 - vbaol11.chm2291
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NewItemAlertRuleAction.Parent
 ms.assetid: a7b18f69-4a8d-8fa2-dab5-a8493b266cc2
+ms.date: 06/08/2017
 ---
 
 

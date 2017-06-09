@@ -3,10 +3,11 @@ title: Application.ActiveWindow Property (Visio)
 keywords: vis_sdr.chm10013035
 f1_keywords:
 - vis_sdr.chm10013035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ActiveWindow
 ms.assetid: 6da310fd-3fb1-618b-d80f-98ee1e45d5a2
+ms.date: 06/08/2017
 ---
 
 

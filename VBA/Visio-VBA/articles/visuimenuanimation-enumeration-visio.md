@@ -3,8 +3,9 @@ title: VisUIMenuAnimation Enumeration (Visio)
 keywords: vis_sdr.chm70280
 f1_keywords:
 - vis_sdr.chm70280
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: cd790fdb-70a4-da9c-5614-240ec597e99f
+ms.date: 06/08/2017
 ---
 
 

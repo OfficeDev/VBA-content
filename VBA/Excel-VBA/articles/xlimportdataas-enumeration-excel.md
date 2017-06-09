@@ -1,9 +1,10 @@
 ---
 title: XlImportDataAs Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlImportDataAs
 ms.assetid: a83e7308-1839-fa5a-8a71-89a46b982bbe
+ms.date: 06/08/2017
 ---
 
 

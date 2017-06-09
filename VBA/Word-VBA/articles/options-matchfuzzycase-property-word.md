@@ -3,10 +3,11 @@ title: Options.MatchFuzzyCase Property (Word)
 keywords: vbawd10.chm162988341
 f1_keywords:
 - vbawd10.chm162988341
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyCase
 ms.assetid: 2fa5cf3f-01d5-c47a-cc99-ce9249ea59bf
+ms.date: 06/08/2017
 ---
 
 

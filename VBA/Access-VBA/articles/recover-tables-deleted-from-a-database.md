@@ -1,7 +1,8 @@
 ---
 title: Recover Tables Deleted from a Database
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4d370adb-741f-269d-8def-bccec1f335f1
+ms.date: 06/08/2017
 ---
 
 

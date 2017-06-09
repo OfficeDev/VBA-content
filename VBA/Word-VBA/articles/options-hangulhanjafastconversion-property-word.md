@@ -3,10 +3,11 @@ title: Options.HangulHanjaFastConversion Property (Word)
 keywords: vbawd10.chm162988372
 f1_keywords:
 - vbawd10.chm162988372
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.HangulHanjaFastConversion
 ms.assetid: 3816fb7e-61e9-e2d8-bb03-c904130b1f10
+ms.date: 06/08/2017
 ---
 
 

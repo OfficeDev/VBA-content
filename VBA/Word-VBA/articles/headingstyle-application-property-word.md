@@ -3,10 +3,11 @@ title: HeadingStyle.Application Property (Word)
 keywords: vbawd10.chm160105448
 f1_keywords:
 - vbawd10.chm160105448
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadingStyle.Application
 ms.assetid: 2349da89-14cd-2b45-63ba-760b2e9b35e5
+ms.date: 06/08/2017
 ---
 
 

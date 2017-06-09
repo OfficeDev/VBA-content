@@ -3,10 +3,11 @@ title: Shapes.AddTextbox Method (Word)
 keywords: vbawd10.chm161415187
 f1_keywords:
 - vbawd10.chm161415187
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddTextbox
 ms.assetid: 7b5c766e-40b3-a390-561f-cd1a53eb93a7
+ms.date: 06/08/2017
 ---
 
 

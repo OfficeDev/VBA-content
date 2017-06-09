@@ -3,10 +3,11 @@ title: Range.Subtotal Method (Excel)
 keywords: vbaxl10.chm144206
 f1_keywords:
 - vbaxl10.chm144206
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Subtotal
 ms.assetid: b4b7b640-5a6c-8c94-d9ab-c9a557190829
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TxtPinY Cell (Text Transform Section), Visio [Vis_DSS.chm1045]
 keywords: vis_dss.chm1045
 f1_keywords:
 - vis_dss.chm1045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf99bdf3-7171-4059-b3f2-89083b3be071
+ms.date: 06/08/2017
 ---
 
 

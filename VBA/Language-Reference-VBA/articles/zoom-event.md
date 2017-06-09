@@ -3,10 +3,11 @@ title: Zoom Event
 keywords: fm20.chm5224952
 f1_keywords:
 - fm20.chm5224952
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Zoom
 ms.assetid: 8716a59d-2d1c-88e6-bf0c-f062dc11b1b5
+ms.date: 06/08/2017
 ---
 
 

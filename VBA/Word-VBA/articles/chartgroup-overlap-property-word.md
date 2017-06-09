@@ -3,10 +3,11 @@ title: ChartGroup.Overlap Property (Word)
 keywords: vbawd10.chm263454742
 f1_keywords:
 - vbawd10.chm263454742
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Overlap
 ms.assetid: e2d219f6-7edd-69c7-015f-8304cf95dbc3
+ms.date: 06/08/2017
 ---
 
 

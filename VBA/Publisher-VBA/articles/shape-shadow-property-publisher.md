@@ -3,10 +3,11 @@ title: Shape.Shadow Property (Publisher)
 keywords: vbapb10.chm2228296
 f1_keywords:
 - vbapb10.chm2228296
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Shadow
 ms.assetid: cfb908ae-ef1d-9539-1f82-2693cbe38d97
+ms.date: 06/08/2017
 ---
 
 

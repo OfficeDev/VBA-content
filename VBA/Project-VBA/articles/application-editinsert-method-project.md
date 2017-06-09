@@ -3,10 +3,11 @@ title: Application.EditInsert Method (Project)
 keywords: vbapj.chm209
 f1_keywords:
 - vbapj.chm209
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditInsert
 ms.assetid: c6b858c7-beb4-9e0e-b3f3-39a1fc37d106
+ms.date: 06/08/2017
 ---
 
 

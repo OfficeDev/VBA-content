@@ -3,10 +3,11 @@ title: Template.Path Property (Word)
 keywords: vbawd10.chm157941761
 f1_keywords:
 - vbawd10.chm157941761
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.Path
 ms.assetid: 9b84e053-b806-d43d-2c3c-b8ce56cf7d15
+ms.date: 06/08/2017
 ---
 
 

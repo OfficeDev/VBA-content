@@ -1,9 +1,10 @@
 ---
 title: Resource.ID Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.ID
 ms.assetid: 15e18fda-ca6d-c81b-55c8-ad21605f75fc
+ms.date: 06/08/2017
 ---
 
 

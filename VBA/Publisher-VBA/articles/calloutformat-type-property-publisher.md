@@ -3,10 +3,11 @@ title: CalloutFormat.Type Property (Publisher)
 keywords: vbapb10.chm2490633
 f1_keywords:
 - vbapb10.chm2490633
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Type
 ms.assetid: 13a9210a-4f2e-e010-0ecf-e4535f849b36
+ms.date: 06/08/2017
 ---
 
 

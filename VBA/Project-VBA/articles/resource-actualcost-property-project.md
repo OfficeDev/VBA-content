@@ -1,9 +1,10 @@
 ---
 title: Resource.ActualCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.ActualCost
 ms.assetid: 9e5bd065-c88d-aa87-0191-be95b4d3ca04
+ms.date: 06/08/2017
 ---
 
 

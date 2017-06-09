@@ -3,10 +3,11 @@ title: Menu.MDIWindowMenu Property (Visio)
 keywords: vis_sdr.chm13113895
 f1_keywords:
 - vis_sdr.chm13113895
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.MDIWindowMenu
 ms.assetid: bf4bc746-a90f-7d97-0b3f-8a803e5318bd
+ms.date: 06/08/2017
 ---
 
 

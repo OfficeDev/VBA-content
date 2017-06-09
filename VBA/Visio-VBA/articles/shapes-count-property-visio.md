@@ -3,10 +3,11 @@ title: Shapes.Count Property (Visio)
 keywords: vis_sdr.chm11313330
 f1_keywords:
 - vis_sdr.chm11313330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.Count
 ms.assetid: 7e3246ec-f339-89b7-6e25-86217de86382
+ms.date: 06/08/2017
 ---
 
 

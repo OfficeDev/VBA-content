@@ -1,9 +1,10 @@
 ---
 title: MsoPresetTexture Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPresetTexture
 ms.assetid: fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f
+ms.date: 06/08/2017
 ---
 
 

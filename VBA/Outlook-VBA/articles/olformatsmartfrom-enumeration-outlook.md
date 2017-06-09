@@ -3,10 +3,11 @@ title: OlFormatSmartFrom Enumeration (Outlook)
 keywords: vbaol11.chm3141
 f1_keywords:
 - vbaol11.chm3141
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatSmartFrom
 ms.assetid: 4c7da733-dc98-fb22-42b5-4849b40deba6
+ms.date: 06/08/2017
 ---
 
 

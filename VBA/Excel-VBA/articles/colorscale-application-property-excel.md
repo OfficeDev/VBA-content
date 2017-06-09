@@ -3,10 +3,11 @@ title: ColorScale.Application Property (Excel)
 keywords: vbaxl10.chm805073
 f1_keywords:
 - vbaxl10.chm805073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.Application
 ms.assetid: 37f23eb0-ceeb-a6a9-666f-7c5c5e1b87f4
+ms.date: 06/08/2017
 ---
 
 

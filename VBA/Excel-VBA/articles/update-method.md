@@ -3,10 +3,11 @@ title: Update Method
 keywords: vbagr10.chm66216
 f1_keywords:
 - vbagr10.chm66216
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Update
 ms.assetid: ef26d691-e77a-115e-2152-eec136aa6839
+ms.date: 06/08/2017
 ---
 
 

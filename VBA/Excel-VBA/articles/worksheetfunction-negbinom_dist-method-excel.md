@@ -3,10 +3,11 @@ title: WorksheetFunction.NegBinom_Dist Method (Excel)
 keywords: vbaxl10.chm137409
 f1_keywords:
 - vbaxl10.chm137409
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NegBinom_Dist
 ms.assetid: ee29a47b-4c2e-3a6f-d62b-7d622cd0ff85
+ms.date: 06/08/2017
 ---
 
 

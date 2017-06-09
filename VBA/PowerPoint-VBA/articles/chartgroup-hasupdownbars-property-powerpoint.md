@@ -1,9 +1,10 @@
 ---
 title: ChartGroup.HasUpDownBars Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasUpDownBars
 ms.assetid: fbc2efef-d3dd-cd26-fe90-3888425b7401
+ms.date: 06/08/2017
 ---
 
 

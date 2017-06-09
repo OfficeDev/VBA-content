@@ -3,10 +3,11 @@ title: PageSizes.Count Property (Publisher)
 keywords: vbapb10.chm8781828
 f1_keywords:
 - vbapb10.chm8781828
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSizes.Count
 ms.assetid: 10770705-e8b3-903c-bcfa-84ba26dc1478
+ms.date: 06/08/2017
 ---
 
 

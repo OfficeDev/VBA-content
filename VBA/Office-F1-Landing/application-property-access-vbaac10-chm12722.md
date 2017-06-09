@@ -3,8 +3,9 @@ title: Application Property, Access [vbaac10.chm12722]
 keywords: vbaac10.chm12722
 f1_keywords:
 - vbaac10.chm12722
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20a70405-e611-4b78-86c9-ceec2aa6fd23
+ms.date: 06/08/2017
 ---
 
 

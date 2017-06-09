@@ -3,10 +3,11 @@ title: Application.PickerDialog Property (Word)
 keywords: vbawd10.chm158335465
 f1_keywords:
 - vbawd10.chm158335465
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PickerDialog
 ms.assetid: 1d3de67e-6760-1b5d-9ff6-fccb2de32455
+ms.date: 06/08/2017
 ---
 
 

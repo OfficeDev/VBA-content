@@ -3,8 +3,9 @@ title: ScrollBar Control
 keywords: fm20.chm5224985
 f1_keywords:
 - fm20.chm5224985
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73b0b5af-dfca-2ebd-bb94-c4660c710bc9
+ms.date: 06/08/2017
 ---
 
 

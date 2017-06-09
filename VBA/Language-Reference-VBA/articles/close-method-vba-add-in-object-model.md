@@ -3,8 +3,9 @@ title: Close Method (VBA Add-In Object Model)
 keywords: vbob6.chm100111
 f1_keywords:
 - vbob6.chm100111
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e3c951ed-032b-9e4b-ba1b-a802f42d3544
+ms.date: 06/08/2017
 ---
 
 

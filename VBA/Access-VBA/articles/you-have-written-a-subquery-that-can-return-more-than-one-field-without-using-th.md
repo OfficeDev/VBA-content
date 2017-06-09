@@ -3,14 +3,15 @@ title: You have written a subquery that can return more than one field without u
 keywords: jeterr40.chm5003306
 f1_keywords:
 - jeterr40.chm5003306
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e683599f-9942-1e3b-2f6b-d16b2accbe7b
+ms.date: 06/08/2017
 ---
 
 
 # You have written a subquery that can return more than one field without using the EXISTS reserved word in the main query's FROM clause. Revise the SELECT statement of the subquery to request only one field. (Error 3306)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

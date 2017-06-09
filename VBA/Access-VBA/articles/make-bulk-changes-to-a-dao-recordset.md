@@ -1,7 +1,8 @@
 ---
 title: Make Bulk Changes to a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b66c857a-42ed-15c9-e01d-99c451651f3b
+ms.date: 06/08/2017
 ---
 
 

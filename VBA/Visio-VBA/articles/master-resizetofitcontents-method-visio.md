@@ -3,10 +3,11 @@ title: Master.ResizeToFitContents Method (Visio)
 keywords: vis_sdr.chm10750820
 f1_keywords:
 - vis_sdr.chm10750820
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.ResizeToFitContents
 ms.assetid: 982fa4c4-014c-319d-a73e-f6bbc28f16e8
+ms.date: 06/08/2017
 ---
 
 

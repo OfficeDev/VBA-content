@@ -3,10 +3,11 @@ title: ValueChange.AllocationWeightExpression Property (Excel)
 keywords: vbaxl10.chm889080
 f1_keywords:
 - vbaxl10.chm889080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ValueChange.AllocationWeightExpression
 ms.assetid: 4a40be04-c978-bb74-5453-e42fa6b210e2
+ms.date: 06/08/2017
 ---
 
 

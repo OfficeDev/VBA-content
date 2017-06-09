@@ -3,10 +3,11 @@ title: Section.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.BackThemeColorIndex
 ms.assetid: 70977458-8331-f5c7-3aa3-6e9729ea50cf
+ms.date: 06/08/2017
 ---
 
 

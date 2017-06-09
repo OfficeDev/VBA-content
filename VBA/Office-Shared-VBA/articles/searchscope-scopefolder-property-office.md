@@ -3,10 +3,11 @@ title: SearchScope.ScopeFolder Property (Office)
 keywords: vbaof11.chm251002
 f1_keywords:
 - vbaof11.chm251002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchScope.ScopeFolder
 ms.assetid: 9bb05a24-7d9c-e218-40b1-06c054baacab
+ms.date: 06/08/2017
 ---
 
 

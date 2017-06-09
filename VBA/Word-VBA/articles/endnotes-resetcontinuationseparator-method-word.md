@@ -3,10 +3,11 @@ title: Endnotes.ResetContinuationSeparator Method (Word)
 keywords: vbawd10.chm155254792
 f1_keywords:
 - vbawd10.chm155254792
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.ResetContinuationSeparator
 ms.assetid: 92de72c3-ab86-77e8-5047-928c145560cf
+ms.date: 06/08/2017
 ---
 
 

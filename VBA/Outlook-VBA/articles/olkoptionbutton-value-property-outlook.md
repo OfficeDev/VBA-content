@@ -3,10 +3,11 @@ title: OlkOptionButton.Value Property (Outlook)
 keywords: vbaol11.chm1000175
 f1_keywords:
 - vbaol11.chm1000175
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Value
 ms.assetid: 5199d3f8-c90c-a66a-0487-78ec7ee66bcc
+ms.date: 06/08/2017
 ---
 
 

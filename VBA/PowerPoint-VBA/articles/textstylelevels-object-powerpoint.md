@@ -3,10 +3,11 @@ title: TextStyleLevels Object (PowerPoint)
 keywords: vbapp10.chm580000
 f1_keywords:
 - vbapp10.chm580000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevels
 ms.assetid: dc61e97f-e92e-d214-47af-5830c14b1b09
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Writing an Outlook Macro
 keywords: vbaol11.chm5274241
 f1_keywords:
 - vbaol11.chm5274241
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 60bfec1f-4cf2-a919-0985-6f071404eb70
+ms.date: 06/08/2017
 ---
 
 

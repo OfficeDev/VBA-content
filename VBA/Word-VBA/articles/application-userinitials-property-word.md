@@ -3,10 +3,11 @@ title: Application.UserInitials Property (Word)
 keywords: vbawd10.chm158335029
 f1_keywords:
 - vbawd10.chm158335029
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.UserInitials
 ms.assetid: 00f7d562-4ce5-00e1-bf9d-4325d47947b2
+ms.date: 06/08/2017
 ---
 
 

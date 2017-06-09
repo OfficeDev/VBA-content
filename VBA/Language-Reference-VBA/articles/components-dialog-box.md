@@ -3,8 +3,9 @@ title: Components Dialog Box
 keywords: vbui6.chm181034
 f1_keywords:
 - vbui6.chm181034
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b391b080-9bb9-63f6-4a32-36941e814bd5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Window.ActivePane Property (Word)
 keywords: vbawd10.chm157417473
 f1_keywords:
 - vbawd10.chm157417473
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.ActivePane
 ms.assetid: 8491d406-5444-2d11-da29-8de575a0e066
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.ViewChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ViewChanged
 ms.assetid: 6c69423e-50fa-af13-b198-bb628df17440
+ms.date: 06/08/2017
 ---
 
 

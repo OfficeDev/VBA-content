@@ -3,10 +3,11 @@ title: CalendarSharing.Folder Property (Outlook)
 keywords: vbaol11.chm2415
 f1_keywords:
 - vbaol11.chm2415
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.Folder
 ms.assetid: 5da2c83b-873a-43fe-7175-5d78c76a909a
+ms.date: 06/08/2017
 ---
 
 

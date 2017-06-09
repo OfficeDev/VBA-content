@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Delete Method (Word)
 keywords: vbawd10.chm94568472
 f1_keywords:
 - vbawd10.chm94568472
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Delete
 ms.assetid: ae6bfe91-f495-1638-84aa-0501e05312f1
+ms.date: 06/08/2017
 ---
 
 

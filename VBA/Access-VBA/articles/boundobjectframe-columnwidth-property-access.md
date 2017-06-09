@@ -3,10 +3,11 @@ title: BoundObjectFrame.ColumnWidth Property (Access)
 keywords: vbaac10.chm10942
 f1_keywords:
 - vbaac10.chm10942
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ColumnWidth
 ms.assetid: 3e7601ce-5aff-9f9e-feae-7ab6b9e35869
+ms.date: 06/08/2017
 ---
 
 

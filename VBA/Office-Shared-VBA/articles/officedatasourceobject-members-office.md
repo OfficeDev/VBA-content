@@ -1,7 +1,8 @@
 ---
 title: OfficeDataSourceObject Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff
+ms.date: 06/08/2017
 ---
 
 

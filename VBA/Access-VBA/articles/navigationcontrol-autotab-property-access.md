@@ -3,10 +3,11 @@ title: NavigationControl.AutoTab Property (Access)
 keywords: vbaac10.chm11063
 f1_keywords:
 - vbaac10.chm11063
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.AutoTab
 ms.assetid: 3d484269-c00b-3f5e-8492-6e0ca60460b8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ExtraColors.Add Method (PowerPoint)
 keywords: vbapp10.chm529004
 f1_keywords:
 - vbapp10.chm529004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Add
 ms.assetid: 0f4bcac0-fbcf-a6a9-18c2-b4b4fb231cf9
+ms.date: 06/08/2017
 ---
 
 

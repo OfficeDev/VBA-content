@@ -3,10 +3,11 @@ title: Document.Subject Property (Visio)
 keywords: vis_sdr.chm10514465
 f1_keywords:
 - vis_sdr.chm10514465
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Subject
 ms.assetid: b954ca88-c7f7-0c1f-ed30-8ea3eb3bc0e3
+ms.date: 06/08/2017
 ---
 
 

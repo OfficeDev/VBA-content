@@ -3,8 +3,9 @@ title: ForceNewPage Property, Access [vbaac10.chm4359]
 keywords: vbaac10.chm4359
 f1_keywords:
 - vbaac10.chm4359
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9e957a64-63d2-434f-a018-e8901e5336a2
+ms.date: 06/08/2017
 ---
 
 

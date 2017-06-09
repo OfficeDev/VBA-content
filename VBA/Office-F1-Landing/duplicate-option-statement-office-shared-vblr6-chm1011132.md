@@ -3,8 +3,9 @@ title: Duplicate Option statement, Office Shared [vblr6.chm1011132]
 keywords: vblr6.chm1011132
 f1_keywords:
 - vblr6.chm1011132
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cd5dc924-1e15-4217-8afd-31d4bec79487
+ms.date: 06/08/2017
 ---
 
 

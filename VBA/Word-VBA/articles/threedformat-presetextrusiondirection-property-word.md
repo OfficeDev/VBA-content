@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetExtrusionDirection Property (Word)
 keywords: vbawd10.chm164626536
 f1_keywords:
 - vbawd10.chm164626536
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: 8fc0cd0a-1d62-64ae-8757-851207aae56f
+ms.date: 06/08/2017
 ---
 
 

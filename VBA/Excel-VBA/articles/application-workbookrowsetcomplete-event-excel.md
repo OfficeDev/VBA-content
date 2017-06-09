@@ -3,10 +3,11 @@ title: Application.WorkbookRowsetComplete Event (Excel)
 keywords: vbaxl10.chm504102
 f1_keywords:
 - vbaxl10.chm504102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookRowsetComplete
 ms.assetid: cc472400-5622-5b4f-60a2-d3347ded266f
+ms.date: 06/08/2017
 ---
 
 

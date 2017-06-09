@@ -3,10 +3,11 @@ title: SmartTags Object (Access)
 keywords: vbaac10.chm13280
 f1_keywords:
 - vbaac10.chm13280
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTags
 ms.assetid: 79c0e84e-e0a1-35b8-b826-9d2cde3bd485
+ms.date: 06/08/2017
 ---
 
 

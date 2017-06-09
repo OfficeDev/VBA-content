@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.PageDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageDeleteCanceled
 ms.assetid: f15d3287-d496-9fc5-047c-aded74de6957
+ms.date: 06/08/2017
 ---
 
 

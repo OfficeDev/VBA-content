@@ -3,10 +3,11 @@ title: ListColumns Object (Excel)
 keywords: vbaxl10.chm735072
 f1_keywords:
 - vbaxl10.chm735072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumns
 ms.assetid: c1b8aff0-3049-df58-ce1f-0c5e4bddc467
+ms.date: 06/08/2017
 ---
 
 

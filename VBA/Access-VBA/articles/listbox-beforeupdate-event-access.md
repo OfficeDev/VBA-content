@@ -3,10 +3,11 @@ title: ListBox.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14171
 f1_keywords:
 - vbaac10.chm14171
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BeforeUpdate
 ms.assetid: 2a0c1046-4d40-87f8-7ecc-4ef262ae90f0
+ms.date: 06/08/2017
 ---
 
 

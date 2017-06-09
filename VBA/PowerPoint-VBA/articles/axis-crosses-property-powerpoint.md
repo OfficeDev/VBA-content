@@ -3,10 +3,11 @@ title: Axis.Crosses Property (PowerPoint)
 keywords: vbapp10.chm682005
 f1_keywords:
 - vbapp10.chm682005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Crosses
 ms.assetid: 93390bc6-8d94-4bf3-257e-c20fce2a2c62
+ms.date: 06/08/2017
 ---
 
 

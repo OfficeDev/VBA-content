@@ -1,7 +1,8 @@
 ---
 title: WorkflowTasks Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 712fcfe3-c2d9-4578-a99d-e756a35c619b
+ms.date: 06/08/2017
 ---
 
 

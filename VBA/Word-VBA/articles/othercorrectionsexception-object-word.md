@@ -3,10 +3,11 @@ title: OtherCorrectionsException Object (Word)
 keywords: vbawd10.chm2529
 f1_keywords:
 - vbawd10.chm2529
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OtherCorrectionsException
 ms.assetid: f3c92186-0d3a-0585-b545-3a94e27a7d7b
+ms.date: 06/08/2017
 ---
 
 

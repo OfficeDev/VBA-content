@@ -3,8 +3,9 @@ title: Margin Indicators
 keywords: vbui6.chm1067042
 f1_keywords:
 - vbui6.chm1067042
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 50a583cb-24b8-1452-d014-4f3d04b2571b
+ms.date: 06/08/2017
 ---
 
 

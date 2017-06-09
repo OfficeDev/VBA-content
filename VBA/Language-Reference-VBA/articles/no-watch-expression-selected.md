@@ -3,8 +3,9 @@ title: No watch expression selected
 keywords: vblr6.chm1011134
 f1_keywords:
 - vblr6.chm1011134
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 857f9df9-c80d-e998-b8db-0ed7b9167e0e
+ms.date: 06/08/2017
 ---
 
 

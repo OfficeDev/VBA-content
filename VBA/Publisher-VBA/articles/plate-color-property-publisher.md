@@ -3,10 +3,11 @@ title: Plate.Color Property (Publisher)
 keywords: vbapb10.chm2883587
 f1_keywords:
 - vbapb10.chm2883587
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.Color
 ms.assetid: 4c4897f5-90bb-cb84-e9b8-47df1a912916
+ms.date: 06/08/2017
 ---
 
 

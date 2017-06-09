@@ -3,10 +3,11 @@ title: TableOfContents.UseHeadingStyles Property (Word)
 keywords: vbawd10.chm152240129
 f1_keywords:
 - vbawd10.chm152240129
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.UseHeadingStyles
 ms.assetid: c026c00b-f3ec-b350-d046-0761b6e70851
+ms.date: 06/08/2017
 ---
 
 

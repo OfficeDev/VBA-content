@@ -1,7 +1,8 @@
 ---
 title: Security (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 46bf9221-ff06-41b4-abde-8e5d31ebd68f
+ms.date: 06/08/2017
 ---
 
 

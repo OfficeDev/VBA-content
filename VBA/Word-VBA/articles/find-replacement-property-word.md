@@ -3,10 +3,11 @@ title: Find.Replacement Property (Word)
 keywords: vbawd10.chm162529305
 f1_keywords:
 - vbawd10.chm162529305
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Replacement
 ms.assetid: b0c728d6-4f2e-6c01-da95-ab59c79ce752
+ms.date: 06/08/2017
 ---
 
 

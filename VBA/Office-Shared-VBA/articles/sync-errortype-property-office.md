@@ -3,10 +3,11 @@ title: Sync.ErrorType Property (Office)
 keywords: vbaof11.chm277005
 f1_keywords:
 - vbaof11.chm277005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.ErrorType
 ms.assetid: 6663e5f6-b90e-29f8-2ff9-f9fb8bda76f0
+ms.date: 06/08/2017
 ---
 
 

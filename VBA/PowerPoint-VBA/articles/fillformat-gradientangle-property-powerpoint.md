@@ -3,10 +3,11 @@ title: FillFormat.GradientAngle Property (PowerPoint)
 keywords: vbapp10.chm552034
 f1_keywords:
 - vbapp10.chm552034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.GradientAngle
 ms.assetid: eb5362f0-5d3b-0091-7a83-0a8d58d90438
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Option Explicit Statement, Office Shared [vblr6.chm1008992]
 keywords: vblr6.chm1008992
 f1_keywords:
 - vblr6.chm1008992
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83c0b0aa-2331-407f-9e65-7895d5e4efb5
+ms.date: 06/08/2017
 ---
 
 

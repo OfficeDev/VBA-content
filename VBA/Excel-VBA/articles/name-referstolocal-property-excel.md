@@ -3,10 +3,11 @@ title: Name.RefersToLocal Property (Excel)
 keywords: vbaxl10.chm490085
 f1_keywords:
 - vbaxl10.chm490085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.RefersToLocal
 ms.assetid: e079e8c9-44f9-494e-97aa-2a38c0ec157b
+ms.date: 06/08/2017
 ---
 
 

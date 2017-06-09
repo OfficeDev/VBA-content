@@ -3,8 +3,9 @@ title: Input  Statement
 keywords: vblr6.chm1008943
 f1_keywords:
 - vblr6.chm1008943
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b248ddce-f733-8bb2-2bea-349f5d2c6552
+ms.date: 06/08/2017
 ---
 
 

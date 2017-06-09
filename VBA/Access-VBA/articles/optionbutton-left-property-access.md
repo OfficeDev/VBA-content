@@ -3,10 +3,11 @@ title: OptionButton.Left Property (Access)
 keywords: vbaac10.chm10582
 f1_keywords:
 - vbaac10.chm10582
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Left
 ms.assetid: bb7f0e55-e08a-a231-ad6c-55ebdd65cf3b
+ms.date: 06/08/2017
 ---
 
 

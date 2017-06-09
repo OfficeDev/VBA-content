@@ -1,9 +1,10 @@
 ---
 title: DataLabels.AutoText Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.AutoText
 ms.assetid: 6e964058-3cfa-ba02-b324-fc1e82beb3d3
+ms.date: 06/08/2017
 ---
 
 

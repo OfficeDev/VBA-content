@@ -3,10 +3,11 @@ title: ToolbarItem.TypeSpecific1 Property (Visio)
 keywords: vis_sdr.chm13514600
 f1_keywords:
 - vis_sdr.chm13514600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.TypeSpecific1
 ms.assetid: e282f50e-ec10-1c6d-5ccd-33887882735f
+ms.date: 06/08/2017
 ---
 
 

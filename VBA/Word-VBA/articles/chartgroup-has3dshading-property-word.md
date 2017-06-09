@@ -3,10 +3,11 @@ title: ChartGroup.Has3DShading Property (Word)
 keywords: vbawd10.chm263454766
 f1_keywords:
 - vbawd10.chm263454766
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Has3DShading
 ms.assetid: 095f5bc7-86aa-2c09-c52c-6e6d5a4deb16
+ms.date: 06/08/2017
 ---
 
 

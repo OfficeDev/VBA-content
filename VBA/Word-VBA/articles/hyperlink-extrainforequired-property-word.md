@@ -3,10 +3,11 @@ title: Hyperlink.ExtraInfoRequired Property (Word)
 keywords: vbawd10.chm161285105
 f1_keywords:
 - vbawd10.chm161285105
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.ExtraInfoRequired
 ms.assetid: 066a4dbf-f5ea-f708-cd57-f8e515a258d5
+ms.date: 06/08/2017
 ---
 
 

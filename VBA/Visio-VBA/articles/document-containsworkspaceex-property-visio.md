@@ -3,10 +3,11 @@ title: Document.ContainsWorkspaceEx Property (Visio)
 keywords: vis_sdr.chm10550530
 f1_keywords:
 - vis_sdr.chm10550530
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ContainsWorkspaceEx
 ms.assetid: 074d4b49-cb26-5d11-d710-7d27f2f4dd01
+ms.date: 06/08/2017
 ---
 
 

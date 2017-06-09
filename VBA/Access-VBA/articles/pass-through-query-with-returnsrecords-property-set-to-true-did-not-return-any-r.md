@@ -3,14 +3,15 @@ title: Pass-through query with ReturnsRecords property set to True did not retur
 keywords: jeterr40.chm5003325
 f1_keywords:
 - jeterr40.chm5003325
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ebb7fee6-6bdf-9188-bb1b-1a9a4f0afa28
+ms.date: 06/08/2017
 ---
 
 
 # Pass-through query with ReturnsRecords property set to True did not return any records. (Error 3325)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

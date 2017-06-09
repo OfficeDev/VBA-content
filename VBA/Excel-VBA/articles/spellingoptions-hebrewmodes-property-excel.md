@@ -3,10 +3,11 @@ title: SpellingOptions.HebrewModes Property (Excel)
 keywords: vbaxl10.chm717083
 f1_keywords:
 - vbaxl10.chm717083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.HebrewModes
 ms.assetid: b8ecfa29-7ec4-180b-fb37-6876ab6c0cc7
+ms.date: 06/08/2017
 ---
 
 

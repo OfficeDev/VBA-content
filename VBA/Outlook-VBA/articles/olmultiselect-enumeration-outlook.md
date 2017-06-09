@@ -3,10 +3,11 @@ title: OlMultiSelect Enumeration (Outlook)
 keywords: vbaol11.chm1000027
 f1_keywords:
 - vbaol11.chm1000027
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlMultiSelect
 ms.assetid: 33d61773-515f-e267-d60a-a3d91f3be9d7
+ms.date: 06/08/2017
 ---
 
 

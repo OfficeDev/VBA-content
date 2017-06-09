@@ -3,10 +3,11 @@ title: ComboBox.BeforeUpdate Property (Access)
 keywords: vbaac10.chm11447
 f1_keywords:
 - vbaac10.chm11447
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BeforeUpdate
 ms.assetid: ce748fb1-4f8d-9e96-f77c-5dfc54dfee48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AllowEditRanges Object (Excel)
 keywords: vbaxl10.chm724072
 f1_keywords:
 - vbaxl10.chm724072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRanges
 ms.assetid: c08bf170-f982-ecca-c026-df4b907e1dde
+ms.date: 06/08/2017
 ---
 
 

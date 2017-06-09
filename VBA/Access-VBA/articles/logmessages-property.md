@@ -3,16 +3,17 @@ title: LogMessages Property
 keywords: vbaac10.chm5187437
 f1_keywords:
 - vbaac10.chm5187437
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.LogMessages
 ms.assetid: 848f215b-50aa-22f4-264c-ff7d00347aa7
+ms.date: 06/08/2017
 ---
 
 
 # LogMessages Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

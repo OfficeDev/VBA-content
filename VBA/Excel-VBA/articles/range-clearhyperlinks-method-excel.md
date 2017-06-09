@@ -3,10 +3,11 @@ title: Range.ClearHyperlinks Method (Excel)
 keywords: vbaxl10.chm144250
 f1_keywords:
 - vbaxl10.chm144250
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ClearHyperlinks
 ms.assetid: 1bf0613b-4415-a9cc-88e0-5e71f0ab812b
+ms.date: 06/08/2017
 ---
 
 

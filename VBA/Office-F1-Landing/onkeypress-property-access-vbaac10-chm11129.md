@@ -3,8 +3,9 @@ title: OnKeyPress Property, Access [vbaac10.chm11129]
 keywords: vbaac10.chm11129
 f1_keywords:
 - vbaac10.chm11129
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2cde300d-8532-40d1-946f-b1642c81fe22
+ms.date: 06/08/2017
 ---
 
 

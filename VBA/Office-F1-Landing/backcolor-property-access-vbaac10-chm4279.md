@@ -3,8 +3,9 @@ title: BackColor Property, Access [vbaac10.chm4279]
 keywords: vbaac10.chm4279
 f1_keywords:
 - vbaac10.chm4279
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 380e28e8-f07f-4683-bef5-fcb211aa479e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CanvasShapes.AddCallout Method (Word)
 keywords: vbawd10.chm7536650
 f1_keywords:
 - vbawd10.chm7536650
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.AddCallout
 ms.assetid: 87affac3-523e-165f-690a-75bd9e0b9961
+ms.date: 06/08/2017
 ---
 
 

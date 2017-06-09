@@ -3,10 +3,11 @@ title: AutoFormatRules.Count Property (Outlook)
 keywords: vbaol11.chm2717
 f1_keywords:
 - vbaol11.chm2717
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Count
 ms.assetid: 5cd11720-c7be-d6b1-4e80-f3d2c70582d0
+ms.date: 06/08/2017
 ---
 
 

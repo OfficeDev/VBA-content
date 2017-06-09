@@ -3,10 +3,11 @@ title: Inspector.Left Property (Outlook)
 keywords: vbaol11.chm2975
 f1_keywords:
 - vbaol11.chm2975
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.Left
 ms.assetid: 55e19d2a-7f67-7ef2-6310-21d1992c1c48
+ms.date: 06/08/2017
 ---
 
 

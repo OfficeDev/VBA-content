@@ -3,10 +3,11 @@ title: RemoveItem Method
 keywords: fm20.chm5224968
 f1_keywords:
 - fm20.chm5224968
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RemoveItem
 ms.assetid: b895775c-7b77-6f2b-b368-998d7114aa7a
+ms.date: 06/08/2017
 ---
 
 

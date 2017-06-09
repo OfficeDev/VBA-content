@@ -3,10 +3,11 @@ title: ToggleButton.Gradient Property (Access)
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Gradient
 ms.assetid: ac12829e-ec4c-7f6e-93fa-918dc84bf7ce
+ms.date: 06/08/2017
 ---
 
 

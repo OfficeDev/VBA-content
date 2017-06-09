@@ -3,10 +3,11 @@ title: Worksheet.Index Property (Excel)
 keywords: vbaxl10.chm174078
 f1_keywords:
 - vbaxl10.chm174078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Index
 ms.assetid: 970065b3-f9bd-d518-261a-f5f704c350df
+ms.date: 06/08/2017
 ---
 
 

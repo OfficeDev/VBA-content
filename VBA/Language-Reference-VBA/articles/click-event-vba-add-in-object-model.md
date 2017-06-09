@@ -3,8 +3,9 @@ title: Click Event (VBA Add-In Object Model)
 keywords: vbob6.chm1098932
 f1_keywords:
 - vbob6.chm1098932
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac72bf41-e582-be84-d204-96545e8db71e
+ms.date: 06/08/2017
 ---
 
 

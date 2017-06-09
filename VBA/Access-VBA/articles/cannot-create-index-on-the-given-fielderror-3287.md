@@ -3,14 +3,15 @@ title: Cannot create index on the given field. (Error 3287)
 keywords: jeterr40.chm5003287
 f1_keywords:
 - jeterr40.chm5003287
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 01df27ad-d966-f0d1-07e6-4c63739199af
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create index on the given field. (Error 3287)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

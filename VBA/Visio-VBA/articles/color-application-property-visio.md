@@ -3,10 +3,11 @@ title: Color.Application Property (Visio)
 keywords: vis_sdr.chm12213090
 f1_keywords:
 - vis_sdr.chm12213090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Color.Application
 ms.assetid: 2819183f-17de-83f2-9180-c41e435755cc
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.GetDisplayNameFromObjectMatchingID Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.GetDisplayNameFromObjectMatchingID
 ms.assetid: 5e535f7b-fbd9-2989-57ed-583f491a448b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContactItem.Categories Property (Outlook)
 keywords: vbaol11.chm934
 f1_keywords:
 - vbaol11.chm934
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Categories
 ms.assetid: c2ac3005-caa9-cc91-766e-a341ed0d0e9e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shapes.AddTable Method (PowerPoint)
 keywords: vbapp10.chm543027
 f1_keywords:
 - vbapp10.chm543027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddTable
 ms.assetid: 77ce193e-10f7-25f4-a6f8-99d7d2b781ad
+ms.date: 06/08/2017
 ---
 
 

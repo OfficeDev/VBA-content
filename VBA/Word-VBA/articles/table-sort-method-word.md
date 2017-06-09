@@ -3,10 +3,11 @@ title: Table.Sort Method (Word)
 keywords: vbawd10.chm156303383
 f1_keywords:
 - vbawd10.chm156303383
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Sort
 ms.assetid: 2c68f7ad-2d57-05ea-bd8b-cb8712c21f02
+ms.date: 06/08/2017
 ---
 
 

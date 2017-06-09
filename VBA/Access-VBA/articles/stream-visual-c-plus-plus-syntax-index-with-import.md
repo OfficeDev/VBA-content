@@ -1,13 +1,14 @@
 ---
 title: Stream (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a3188858-9c0d-aff6-c893-2111aee77383
+ms.date: 06/08/2017
 ---
 
 
 # Stream (Visual C++ Syntax Index with #import)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

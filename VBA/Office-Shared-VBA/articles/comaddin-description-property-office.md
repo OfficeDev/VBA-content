@@ -3,10 +3,11 @@ title: COMAddIn.Description Property (Office)
 keywords: vbaof11.chm219001
 f1_keywords:
 - vbaof11.chm219001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIn.Description
 ms.assetid: f194ae48-0762-732f-7c9a-f19a92e94d9b
+ms.date: 06/08/2017
 ---
 
 

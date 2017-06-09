@@ -3,10 +3,11 @@ title: WebBrowserControl.Controls Property (Access)
 keywords: vbaac10.chm14355
 f1_keywords:
 - vbaac10.chm14355
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Controls
 ms.assetid: 864cbaf1-ad1c-7b74-1aac-3df61758c30e
+ms.date: 06/08/2017
 ---
 
 

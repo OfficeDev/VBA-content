@@ -3,8 +3,9 @@ title: DataFeedConnection.Creator Property (Excel)
 keywords: vbaxl10.chm927074
 f1_keywords:
 - vbaxl10.chm927074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 42c5d1f6-b740-dd1c-87dc-4285ad0eec08
+ms.date: 06/08/2017
 ---
 
 

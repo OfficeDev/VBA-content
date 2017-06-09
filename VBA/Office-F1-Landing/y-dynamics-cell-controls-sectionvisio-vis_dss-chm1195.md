@@ -3,8 +3,9 @@ title: Y Dynamics Cell (Controls Section), Visio [Vis_DSS.chm1195]
 keywords: vis_dss.chm1195
 f1_keywords:
 - vis_dss.chm1195
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf92744a-cfda-4651-aa5d-7a5ace9ae9db
+ms.date: 06/08/2017
 ---
 
 

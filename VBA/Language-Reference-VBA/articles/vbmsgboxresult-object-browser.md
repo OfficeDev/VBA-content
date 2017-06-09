@@ -3,8 +3,9 @@ title: VbMsgBoxResult (Object Browser)
 keywords: vblr6.chm1113592
 f1_keywords:
 - vblr6.chm1113592
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0310107-307c-9fc2-e5b0-380a2141e076
+ms.date: 06/08/2017
 ---
 
 

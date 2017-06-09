@@ -1,13 +1,14 @@
 ---
 title: Disk or network error. (Error 3043)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 041c2c1e-ab3e-e40f-520d-8bf31604f21a
+ms.date: 06/08/2017
 ---
 
 
 # Disk or network error. (Error 3043)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

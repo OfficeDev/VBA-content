@@ -1,9 +1,10 @@
 ---
 title: XlLayoutRowType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlLayoutRowType
 ms.assetid: 7bd98255-8053-41a3-a62b-98a595ffa4cf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Child Property (PowerPoint)
 keywords: vbapp10.chm548075
 f1_keywords:
 - vbapp10.chm548075
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Child
 ms.assetid: 882bb89f-1a0c-4384-55cd-4399f4e840c0
+ms.date: 06/08/2017
 ---
 
 

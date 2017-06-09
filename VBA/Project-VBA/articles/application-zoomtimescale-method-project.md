@@ -3,10 +3,11 @@ title: Application.ZoomTimescale Method (Project)
 keywords: vbapj.chm307
 f1_keywords:
 - vbapj.chm307
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ZoomTimescale
 ms.assetid: d20b2c8a-bef2-5456-73f1-a6fa417b427e
+ms.date: 06/08/2017
 ---
 
 

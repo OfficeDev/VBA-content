@@ -1,9 +1,10 @@
 ---
 title: WdFieldKind Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFieldKind
 ms.assetid: b9e0d407-cef5-423d-93eb-f315a4910da7
+ms.date: 06/08/2017
 ---
 
 

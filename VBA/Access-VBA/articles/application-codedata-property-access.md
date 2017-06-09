@@ -3,10 +3,11 @@ title: Application.CodeData Property (Access)
 keywords: vbaac10.chm12579
 f1_keywords:
 - vbaac10.chm12579
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CodeData
 ms.assetid: f75e7676-ec76-9270-109a-91db58e32ff1
+ms.date: 06/08/2017
 ---
 
 

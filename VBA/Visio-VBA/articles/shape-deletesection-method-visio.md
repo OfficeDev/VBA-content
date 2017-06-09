@@ -3,10 +3,11 @@ title: Shape.DeleteSection Method (Visio)
 keywords: vis_sdr.chm11216175
 f1_keywords:
 - vis_sdr.chm11216175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DeleteSection
 ms.assetid: e07981f3-5efe-f4ad-0517-1af4913c3f70
+ms.date: 06/08/2017
 ---
 
 

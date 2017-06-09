@@ -3,10 +3,11 @@ title: Adjustments.Item Property (PowerPoint)
 keywords: vbapp10.chm550003
 f1_keywords:
 - vbapp10.chm550003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Item
 ms.assetid: 54cc6850-0fe8-8887-2acc-dc91085b7451
+ms.date: 06/08/2017
 ---
 
 

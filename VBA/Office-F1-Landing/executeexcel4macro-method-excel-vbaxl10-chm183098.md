@@ -3,8 +3,9 @@ title: ExecuteExcel4Macro Method, Excel [vbaxl10.chm183098]
 keywords: vbaxl10.chm183098
 f1_keywords:
 - vbaxl10.chm183098
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48e8cccd-f2d9-444c-ab4a-e54350bfd5e3
+ms.date: 06/08/2017
 ---
 
 

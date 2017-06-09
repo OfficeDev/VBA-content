@@ -3,10 +3,11 @@ title: Borders.LineStyle Property (Excel)
 keywords: vbaxl10.chm181077
 f1_keywords:
 - vbaxl10.chm181077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Borders.LineStyle
 ms.assetid: a057234d-0442-3fd7-5547-b19451774c0e
+ms.date: 06/08/2017
 ---
 
 

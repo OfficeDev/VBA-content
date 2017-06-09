@@ -3,10 +3,11 @@ title: Window.DisplayHorizontalScrollBar Property (Word)
 keywords: vbawd10.chm157417492
 f1_keywords:
 - vbawd10.chm157417492
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.DisplayHorizontalScrollBar
 ms.assetid: c52d2cc8-d7ce-0b95-e97c-e41e449e4be6
+ms.date: 06/08/2017
 ---
 
 

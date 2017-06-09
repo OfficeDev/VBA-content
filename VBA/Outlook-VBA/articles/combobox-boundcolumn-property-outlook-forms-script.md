@@ -3,8 +3,9 @@ title: ComboBox.BoundColumn Property (Outlook Forms Script)
 keywords: olfm10.chm2000830
 f1_keywords:
 - olfm10.chm2000830
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0ebc2ce0-f3f6-ce96-749c-be49343bc978
+ms.date: 06/08/2017
 ---
 
 

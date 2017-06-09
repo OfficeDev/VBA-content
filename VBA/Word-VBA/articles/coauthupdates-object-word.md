@@ -1,6 +1,8 @@
 ---
 title: CoAuthUpdates Object (Word)
 ms.assetid: afd0abeb-276e-96f4-ee8a-01f263e69121
+ms.prod: word
+ms.date: 06/08/2017
 ---
 
 

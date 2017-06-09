@@ -3,10 +3,11 @@ title: Report.Print Method (Access)
 keywords: vbaac10.chm13788
 f1_keywords:
 - vbaac10.chm13788
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Print
 ms.assetid: 6f8523cc-7b17-ec27-e2c9-a7ae3d5a8c3f
+ms.date: 06/08/2017
 ---
 
 

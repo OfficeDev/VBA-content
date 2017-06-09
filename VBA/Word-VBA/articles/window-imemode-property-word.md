@@ -3,10 +3,11 @@ title: Window.IMEMode Property (Word)
 keywords: vbawd10.chm157417502
 f1_keywords:
 - vbawd10.chm157417502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.IMEMode
 ms.assetid: 1f8fea5d-d602-9c82-a54d-c10620046466
+ms.date: 06/08/2017
 ---
 
 

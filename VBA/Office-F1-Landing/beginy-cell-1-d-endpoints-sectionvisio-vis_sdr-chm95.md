@@ -3,8 +3,9 @@ title: BeginY Cell (1-D Endpoints Section), Visio [vis_sdr.chm95]
 keywords: vis_sdr.chm95
 f1_keywords:
 - vis_sdr.chm95
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7892406b-003c-4b5d-9e31-ba6464f37102
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: UserPermission Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b9fdae9a-719b-9e1d-42aa-7553de91f9d1
+ms.date: 06/08/2017
 ---
 
 

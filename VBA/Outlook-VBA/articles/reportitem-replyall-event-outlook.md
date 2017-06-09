@@ -1,9 +1,10 @@
 ---
 title: ReportItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.ReplyAll
 ms.assetid: b5724798-8c73-13ce-23d4-9d7ec8147f44
+ms.date: 06/08/2017
 ---
 
 

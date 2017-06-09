@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.HelpContextId Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.HelpContextId
 ms.assetid: 3b34572b-af1b-a4fc-a98e-23d51315a077
+ms.date: 06/08/2017
 ---
 
 

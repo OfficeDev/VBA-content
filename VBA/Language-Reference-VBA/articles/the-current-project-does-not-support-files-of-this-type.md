@@ -3,8 +3,9 @@ title: The current project does not support files of this type
 keywords: vblr6.chm50068
 f1_keywords:
 - vblr6.chm50068
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04f3ffb8-3aac-1e53-8185-67ab32d92aaa
+ms.date: 06/08/2017
 ---
 
 

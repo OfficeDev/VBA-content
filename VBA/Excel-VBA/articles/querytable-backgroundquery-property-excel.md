@@ -3,10 +3,11 @@ title: QueryTable.BackgroundQuery Property (Excel)
 keywords: vbaxl10.chm518081
 f1_keywords:
 - vbaxl10.chm518081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.BackgroundQuery
 ms.assetid: d3fd1d37-4956-7fda-accc-25eedf5188c0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.AfterLayout Event (Access)
 keywords: vbaac10.chm13682
 f1_keywords:
 - vbaac10.chm13682
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterLayout
 ms.assetid: 3b500c32-e1aa-ad06-432f-981253767c3d
+ms.date: 06/08/2017
 ---
 
 

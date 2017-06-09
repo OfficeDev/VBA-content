@@ -3,8 +3,9 @@ title: AutoHeight Property, Access [vbaac10.chm12217]
 keywords: vbaac10.chm12217
 f1_keywords:
 - vbaac10.chm12217
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ad768f5a-9b69-4ec1-9fdd-c72a68e47afb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: RecurrencePattern.DayOfWeekMask Property (Outlook)
 keywords: vbaol11.chm274
 f1_keywords:
 - vbaol11.chm274
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.DayOfWeekMask
 ms.assetid: 79268798-90ab-4161-5a6e-97669daa475a
+ms.date: 06/08/2017
 ---
 
 

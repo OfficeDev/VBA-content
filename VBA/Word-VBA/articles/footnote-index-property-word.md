@@ -3,10 +3,11 @@ title: Footnote.Index Property (Word)
 keywords: vbawd10.chm155123718
 f1_keywords:
 - vbawd10.chm155123718
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnote.Index
 ms.assetid: c2bb31c1-d168-d783-4abc-9eda6d0381c6
+ms.date: 06/08/2017
 ---
 
 

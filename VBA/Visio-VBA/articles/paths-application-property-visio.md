@@ -3,10 +3,11 @@ title: Paths.Application Property (Visio)
 keywords: vis_sdr.chm15313090
 f1_keywords:
 - vis_sdr.chm15313090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Paths.Application
 ms.assetid: d5439015-9efb-46ea-49a8-7f08c4d82a14
+ms.date: 06/08/2017
 ---
 
 

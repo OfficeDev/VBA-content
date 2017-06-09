@@ -3,10 +3,11 @@ title: PivotCache.CreatePivotTable Method (Excel)
 keywords: vbaxl10.chm227095
 f1_keywords:
 - vbaxl10.chm227095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.CreatePivotTable
 ms.assetid: dca20930-5d58-8db7-bd81-3c90b7588011
+ms.date: 06/08/2017
 ---
 
 

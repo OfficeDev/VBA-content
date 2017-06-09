@@ -1,6 +1,8 @@
 ---
 title: EngagementComment.AuthorResName Property (Project)
 ms.assetid: 1c148709-ce9b-ff90-3f4c-932e2c6f79aa
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

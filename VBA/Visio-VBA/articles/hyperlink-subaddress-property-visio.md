@@ -3,10 +3,11 @@ title: Hyperlink.SubAddress Property (Visio)
 keywords: vis_sdr.chm15014460
 f1_keywords:
 - vis_sdr.chm15014460
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlink.SubAddress
 ms.assetid: e384fd34-7696-042d-12a3-a2aae949ce43
+ms.date: 06/08/2017
 ---
 
 

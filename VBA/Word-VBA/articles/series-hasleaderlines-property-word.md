@@ -3,10 +3,11 @@ title: Series.HasLeaderLines Property (Word)
 keywords: vbawd10.chm123733362
 f1_keywords:
 - vbawd10.chm123733362
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.HasLeaderLines
 ms.assetid: c558ffc3-939b-a237-3c6e-e10549f3c8d8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.GetBuiltInStencilFile Method (Visio)
 keywords: vis_sdr.chm10062110
 f1_keywords:
 - vis_sdr.chm10062110
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.GetBuiltInStencilFile
 ms.assetid: 2ae65aaa-d441-c7e8-3c8c-737bcca84738
+ms.date: 06/08/2017
 ---
 
 

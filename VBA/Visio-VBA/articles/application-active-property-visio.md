@@ -3,10 +3,11 @@ title: Application.Active Property (Visio)
 keywords: vis_sdr.chm10013020
 f1_keywords:
 - vis_sdr.chm10013020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.Active
 ms.assetid: d2e8e683-15b8-9c6e-f945-5a1d17a177b0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Baseline10Finish Property, Project [vbapj.chm131419]
 keywords: vbapj.chm131419
 f1_keywords:
 - vbapj.chm131419
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4eb63d2a-caa3-4062-a3c7-6b0d24b02f73
+ms.date: 06/08/2017
 ---
 
 

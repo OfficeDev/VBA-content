@@ -3,15 +3,15 @@ title: A cancel was performed on the operation. (Error 3642)
 keywords: jeterr40.chm5003642
 f1_keywords:
 - jeterr40.chm5003642
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f7bfd3ed-6295-6f36-16bc-3e03fe42bd59
+ms.date: 06/08/2017
 ---
 
 
 # A cancel was performed on the operation. (Error 3642)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 A query has been interrupted by the data source. Some of the matching rows have not been returned. Try submitting the query again.

@@ -3,8 +3,9 @@ title: Baseline8DurationText Property, Project [vbapj.chm131538]
 keywords: vbapj.chm131538
 f1_keywords:
 - vbapj.chm131538
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 45767e2a-b0b3-4579-8642-76405e389fd4
+ms.date: 06/08/2017
 ---
 
 

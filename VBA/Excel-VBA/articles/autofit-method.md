@@ -3,10 +3,11 @@ title: AutoFit Method
 keywords: vbagr10.chm65773
 f1_keywords:
 - vbagr10.chm65773
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoFit
 ms.assetid: 45dea7dd-7695-1f72-9bf7-9ab4cbbd74ec
+ms.date: 06/08/2017
 ---
 
 

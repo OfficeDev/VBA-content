@@ -3,10 +3,11 @@ title: ColorScaleCriterion.FormatColor Property (Excel)
 keywords: vbaxl10.chm808076
 f1_keywords:
 - vbaxl10.chm808076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScaleCriterion.FormatColor
 ms.assetid: d0c11343-5924-5577-82fc-85d2b1ab4e5a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.ScreenUpdating Property (Visio)
 keywords: vis_sdr.chm17514295
 f1_keywords:
 - vis_sdr.chm17514295
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ScreenUpdating
 ms.assetid: c932e8be-b6a6-df5c-d8bc-88aa0c3bd3dc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LetterContent.CCList Property (Word)
 keywords: vbawd10.chm161546358
 f1_keywords:
 - vbawd10.chm161546358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.CCList
 ms.assetid: 87e4fd7c-ae2e-bb29-c228-65c217a41976
+ms.date: 06/08/2017
 ---
 
 

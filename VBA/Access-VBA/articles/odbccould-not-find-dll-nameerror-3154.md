@@ -3,14 +3,15 @@ title: ODBC - could not find DLL <name>. (Error 3154)
 keywords: jeterr40.chm5003154
 f1_keywords:
 - jeterr40.chm5003154
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fd4c4c6e-3fd5-925c-47b3-13bc04c02cb8
+ms.date: 06/08/2017
 ---
 
 
 # ODBC - could not find DLL <name>. (Error 3154)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

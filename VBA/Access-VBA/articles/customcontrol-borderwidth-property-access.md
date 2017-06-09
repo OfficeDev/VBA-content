@@ -3,10 +3,11 @@ title: CustomControl.BorderWidth Property (Access)
 keywords: vbaac10.chm12028
 f1_keywords:
 - vbaac10.chm12028
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.BorderWidth
 ms.assetid: ac847423-f5ad-4d56-655d-25c468f82240
+ms.date: 06/08/2017
 ---
 
 

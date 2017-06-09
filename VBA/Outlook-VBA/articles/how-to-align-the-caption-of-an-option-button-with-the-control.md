@@ -3,8 +3,9 @@ title: "How to: Align the Caption of an Option Button with the Control"
 keywords: olfm10.chm3077154
 f1_keywords:
 - olfm10.chm3077154
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4331a16a-6d73-855a-68d3-ef1fee6145bc
+ms.date: 06/08/2017
 ---
 
 

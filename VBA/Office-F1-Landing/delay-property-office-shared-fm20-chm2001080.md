@@ -3,8 +3,9 @@ title: Delay Property, Office Shared [fm20.chm2001080]
 keywords: fm20.chm2001080
 f1_keywords:
 - fm20.chm2001080
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fd55fe70-b9fb-4d89-9fb8-9a9630f7ae19
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ReadingOrder Property, Access [vbaac10.chm10505]
 keywords: vbaac10.chm10505
 f1_keywords:
 - vbaac10.chm10505
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20317af4-3af4-4475-bcd7-37ada629375e
+ms.date: 06/08/2017
 ---
 
 

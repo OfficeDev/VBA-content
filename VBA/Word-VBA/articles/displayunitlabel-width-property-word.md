@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Width Property (Word)
 keywords: vbawd10.chm94568570
 f1_keywords:
 - vbawd10.chm94568570
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Width
 ms.assetid: d559b621-164c-30b3-f38c-a237fbc91de0
+ms.date: 06/08/2017
 ---
 
 

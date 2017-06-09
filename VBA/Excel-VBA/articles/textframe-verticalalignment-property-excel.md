@@ -3,10 +3,11 @@ title: TextFrame.VerticalAlignment Property (Excel)
 keywords: vbaxl10.chm644080
 f1_keywords:
 - vbaxl10.chm644080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame.VerticalAlignment
 ms.assetid: 72cb4110-ec7a-876e-b347-de1c2a83c0e2
+ms.date: 06/08/2017
 ---
 
 

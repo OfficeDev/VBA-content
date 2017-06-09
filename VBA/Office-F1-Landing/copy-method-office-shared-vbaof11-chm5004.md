@@ -3,8 +3,9 @@ title: Copy Method, Office Shared [vbaof11.chm5004]
 keywords: vbaof11.chm5004
 f1_keywords:
 - vbaof11.chm5004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 812037d3-d90d-4fe3-b300-a32bf7233b8c
+ms.date: 06/08/2017
 ---
 
 

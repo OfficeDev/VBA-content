@@ -3,10 +3,11 @@ title: OlkPageControl Object (Outlook)
 keywords: vbaol11.chm1000339
 f1_keywords:
 - vbaol11.chm1000339
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkPageControl
 ms.assetid: c65794b4-0ef3-4ae1-0bea-f0c55c72e5de
+ms.date: 06/08/2017
 ---
 
 

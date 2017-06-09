@@ -3,10 +3,11 @@ title: DoCmd.Beep Method (Access)
 keywords: vbaac10.chm4143
 f1_keywords:
 - vbaac10.chm4143
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.Beep
 ms.assetid: 822a565d-89d9-fdc1-eb01-b8535e363714
+ms.date: 06/08/2017
 ---
 
 

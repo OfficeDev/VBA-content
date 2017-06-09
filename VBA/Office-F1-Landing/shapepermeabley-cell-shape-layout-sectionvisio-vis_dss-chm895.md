@@ -3,8 +3,9 @@ title: ShapePermeableY Cell (Shape Layout Section), Visio [Vis_DSS.chm895]
 keywords: vis_dss.chm895
 f1_keywords:
 - vis_dss.chm895
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5d34debb-fd19-4270-835d-bfa9301aadbb
+ms.date: 06/08/2017
 ---
 
 

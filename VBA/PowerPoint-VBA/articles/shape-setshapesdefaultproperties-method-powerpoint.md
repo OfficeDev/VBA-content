@@ -3,10 +3,11 @@ title: Shape.SetShapesDefaultProperties Method (PowerPoint)
 keywords: vbapp10.chm547012
 f1_keywords:
 - vbapp10.chm547012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.SetShapesDefaultProperties
 ms.assetid: 4974cc1b-28af-94da-0821-76ffb698e2c3
+ms.date: 06/08/2017
 ---
 
 

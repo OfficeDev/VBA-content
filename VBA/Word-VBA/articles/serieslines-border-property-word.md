@@ -3,10 +3,11 @@ title: SeriesLines.Border Property (Word)
 keywords: vbawd10.chm202702976
 f1_keywords:
 - vbawd10.chm202702976
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesLines.Border
 ms.assetid: b27a6fca-d041-0458-7e42-b157e7958271
+ms.date: 06/08/2017
 ---
 
 

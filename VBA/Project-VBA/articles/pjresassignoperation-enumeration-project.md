@@ -1,9 +1,10 @@
 ---
 title: PjResAssignOperation Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjResAssignOperation
 ms.assetid: 555d439a-6464-f5e1-a9f2-925640e321a3
+ms.date: 06/08/2017
 ---
 
 

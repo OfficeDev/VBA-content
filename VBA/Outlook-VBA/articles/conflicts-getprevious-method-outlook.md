@@ -3,10 +3,11 @@ title: Conflicts.GetPrevious Method (Outlook)
 keywords: vbaol11.chm409
 f1_keywords:
 - vbaol11.chm409
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflicts.GetPrevious
 ms.assetid: 23b5d75a-e1eb-7164-df92-71e37a1ec79f
+ms.date: 06/08/2017
 ---
 
 

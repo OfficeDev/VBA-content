@@ -3,10 +3,11 @@ title: RuleActions.DesktopAlert Property (Outlook)
 keywords: vbaol11.chm2187
 f1_keywords:
 - vbaol11.chm2187
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.DesktopAlert
 ms.assetid: 700c3e5a-ebb1-3cfe-e27d-eea305c27143
+ms.date: 06/08/2017
 ---
 
 

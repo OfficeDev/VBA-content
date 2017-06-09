@@ -3,10 +3,11 @@ title: ShapeRange.Line Property (PowerPoint)
 keywords: vbapp10.chm548027
 f1_keywords:
 - vbapp10.chm548027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Line
 ms.assetid: 27f648e0-d7eb-27a9-312b-8aa1784e7001
+ms.date: 06/08/2017
 ---
 
 

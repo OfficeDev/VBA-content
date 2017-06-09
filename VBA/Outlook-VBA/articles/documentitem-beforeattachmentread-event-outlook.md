@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.BeforeAttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeAttachmentRead
 ms.assetid: 22ed23a8-42a5-09bd-73b9-10591bfa7de9
+ms.date: 06/08/2017
 ---
 
 

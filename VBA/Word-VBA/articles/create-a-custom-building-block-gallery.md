@@ -1,7 +1,8 @@
 ---
 title: Create a Custom Building Block Gallery
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 472688b6-205c-c88d-5a7e-26334ec5eeeb
+ms.date: 06/08/2017
 ---
 
 

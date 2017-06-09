@@ -3,10 +3,11 @@ title: ToggleButton.Picture Property (Access)
 keywords: vbaac10.chm11702
 f1_keywords:
 - vbaac10.chm11702
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Picture
 ms.assetid: 78889614-9916-1265-611a-8ae6932187fd
+ms.date: 06/08/2017
 ---
 
 

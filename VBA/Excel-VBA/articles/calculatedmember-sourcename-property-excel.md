@@ -3,10 +3,11 @@ title: CalculatedMember.SourceName Property (Excel)
 keywords: vbaxl10.chm686075
 f1_keywords:
 - vbaxl10.chm686075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.SourceName
 ms.assetid: 719e330f-28f2-4ad1-aa0b-53a0339af759
+ms.date: 06/08/2017
 ---
 
 

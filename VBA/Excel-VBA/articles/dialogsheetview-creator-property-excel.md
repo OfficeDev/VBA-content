@@ -3,10 +3,11 @@ title: DialogSheetView.Creator Property (Excel)
 keywords: vbaxl10.chm786074
 f1_keywords:
 - vbaxl10.chm786074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DialogSheetView.Creator
 ms.assetid: 7118a311-7f47-f229-78a5-6b1fec2d7fd9
+ms.date: 06/08/2017
 ---
 
 

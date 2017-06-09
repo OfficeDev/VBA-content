@@ -3,10 +3,11 @@ title: Interior.PatternColorIndex Property (PowerPoint)
 keywords: vbapp10.chm707006
 f1_keywords:
 - vbapp10.chm707006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.PatternColorIndex
 ms.assetid: d7a42e0c-d3f4-85a1-009c-0b6d2385ee77
+ms.date: 06/08/2017
 ---
 
 

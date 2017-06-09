@@ -3,10 +3,11 @@ title: SeriesCollection.Application Property (Word)
 keywords: vbawd10.chm150405268
 f1_keywords:
 - vbawd10.chm150405268
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesCollection.Application
 ms.assetid: adac8280-eb57-c342-8c7f-5d1dda0bfdcd
+ms.date: 06/08/2017
 ---
 
 

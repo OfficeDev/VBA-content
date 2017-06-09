@@ -3,10 +3,11 @@ title: Cell.BorderRight Property (Publisher)
 keywords: vbapb10.chm5111813
 f1_keywords:
 - vbapb10.chm5111813
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderRight
 ms.assetid: da741816-d61c-61db-cf33-5b181780b902
+ms.date: 06/08/2017
 ---
 
 

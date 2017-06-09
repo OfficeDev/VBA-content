@@ -3,10 +3,11 @@ title: Application.Name Property (Visio)
 keywords: vis_sdr.chm10014150
 f1_keywords:
 - vis_sdr.chm10014150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.Name
 ms.assetid: d30a1b28-7ef8-e77b-220c-16eb9b6f8562
+ms.date: 06/08/2017
 ---
 
 

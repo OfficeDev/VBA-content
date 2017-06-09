@@ -3,8 +3,9 @@ title: New Page Command (Shortcut Menu)
 keywords: vbui6.chm1069931
 f1_keywords:
 - vbui6.chm1069931
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df72e2fb-3913-6b4e-1c04-ce900602d04f
+ms.date: 06/08/2017
 ---
 
 

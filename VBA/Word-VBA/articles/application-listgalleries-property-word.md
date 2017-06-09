@@ -3,10 +3,11 @@ title: Application.ListGalleries Property (Word)
 keywords: vbawd10.chm158335041
 f1_keywords:
 - vbawd10.chm158335041
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ListGalleries
 ms.assetid: 769d3494-3fc3-5a4b-e6d1-a3910107c8bd
+ms.date: 06/08/2017
 ---
 
 

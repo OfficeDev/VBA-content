@@ -3,10 +3,11 @@ title: Application.GanttBarFormatEx Method (Project)
 keywords: vbapj.chm2165
 f1_keywords:
 - vbapj.chm2165
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttBarFormatEx
 ms.assetid: 9ec9d5a3-7cbb-bfed-9571-e6ba657aaeef
+ms.date: 06/08/2017
 ---
 
 

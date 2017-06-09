@@ -3,10 +3,11 @@ title: TextInput.Parent Property (Word)
 keywords: vbawd10.chm153551850
 f1_keywords:
 - vbawd10.chm153551850
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextInput.Parent
 ms.assetid: d309ded9-4cb1-de54-56c0-ddf5e5a3f653
+ms.date: 06/08/2017
 ---
 
 

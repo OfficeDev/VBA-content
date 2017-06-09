@@ -3,10 +3,11 @@ title: Paragraphs.Reset Method (Word)
 keywords: vbawd10.chm156762424
 f1_keywords:
 - vbawd10.chm156762424
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Reset
 ms.assetid: 52faa471-ada5-463c-e997-1051d92f1f2e
+ms.date: 06/08/2017
 ---
 
 

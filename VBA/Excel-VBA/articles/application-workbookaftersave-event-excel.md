@@ -3,9 +3,10 @@ title: Application.WorkbookAfterSave Event (Excel)
 keywords: vbaxl10.chm504114
 f1_keywords:
 - vbaxl10.chm504114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAfterSave
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,8 @@ keywords: vbapp10.chm732009
 f1_keywords:
 - vbapp10.chm732009
 ms.assetid: c667cf7c-b4a2-19fc-ad1f-ed8a09c5f769
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

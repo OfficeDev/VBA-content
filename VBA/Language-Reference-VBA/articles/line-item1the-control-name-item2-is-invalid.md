@@ -3,8 +3,9 @@ title: "Line 'item1': The control name 'item2' is invalid."
 keywords: vblr6.chm1117735
 f1_keywords:
 - vblr6.chm1117735
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7a6cebe5-8091-0531-5259-9cb9b04fcc80
+ms.date: 06/08/2017
 ---
 
 

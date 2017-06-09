@@ -3,10 +3,11 @@ title: HangulAndAlphabetException.Name Property (Word)
 keywords: vbawd10.chm164757506
 f1_keywords:
 - vbawd10.chm164757506
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulAndAlphabetException.Name
 ms.assetid: a4f37303-9571-0fa6-bb85-081e3491d3f7
+ms.date: 06/08/2017
 ---
 
 

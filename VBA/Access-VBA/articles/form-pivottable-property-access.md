@@ -3,10 +3,11 @@ title: Form.PivotTable Property (Access)
 keywords: vbaac10.chm13521
 f1_keywords:
 - vbaac10.chm13521
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PivotTable
 ms.assetid: a80edfb5-966b-e1d9-d13e-daefe06c6777
+ms.date: 06/08/2017
 ---
 
 

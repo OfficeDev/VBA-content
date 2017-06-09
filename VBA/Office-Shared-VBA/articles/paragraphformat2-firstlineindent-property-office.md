@@ -1,9 +1,10 @@
 ---
 title: ParagraphFormat2.FirstLineIndent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.FirstLineIndent
 ms.assetid: 5568a8c6-eb55-77b9-63a6-cfa453b1c032
+ms.date: 06/08/2017
 ---
 
 

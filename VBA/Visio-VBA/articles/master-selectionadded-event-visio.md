@@ -3,10 +3,11 @@ title: Master.SelectionAdded Event (Visio)
 keywords: vis_sdr.chm10719215
 f1_keywords:
 - vis_sdr.chm10719215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.SelectionAdded
 ms.assetid: c004e65c-1770-edf1-9d1e-a1a02a15fc39
+ms.date: 06/08/2017
 ---
 
 

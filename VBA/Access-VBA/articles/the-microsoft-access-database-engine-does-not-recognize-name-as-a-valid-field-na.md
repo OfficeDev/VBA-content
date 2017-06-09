@@ -3,14 +3,15 @@ title: The Microsoft Access database engine does not recognize <name> as a valid
 keywords: jeterr40.chm5003070
 f1_keywords:
 - jeterr40.chm5003070
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8866f9ea-4c2b-45f6-9ec7-8e23596efbf9
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine does not recognize <name> as a valid field name or expression. (Error 3070)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

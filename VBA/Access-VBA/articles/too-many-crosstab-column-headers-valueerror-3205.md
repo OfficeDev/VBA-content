@@ -3,14 +3,15 @@ title: Too many crosstab column headers <value>. (Error 3205)
 keywords: jeterr40.chm5003205
 f1_keywords:
 - jeterr40.chm5003205
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f745d611-29af-3d4b-300e-ca5873aa658b
+ms.date: 06/08/2017
 ---
 
 
 # Too many crosstab column headers <value>. (Error 3205)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

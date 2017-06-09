@@ -3,10 +3,11 @@ title: Image.LeftPadding Property (Access)
 keywords: vbaac10.chm10413
 f1_keywords:
 - vbaac10.chm10413
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.LeftPadding
 ms.assetid: 2a409876-3c11-515a-37f5-ac676d693550
+ms.date: 06/08/2017
 ---
 
 

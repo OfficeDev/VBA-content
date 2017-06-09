@@ -3,8 +3,9 @@ title: This control can only be used with 'item' designers
 keywords: vblr6.chm50151
 f1_keywords:
 - vblr6.chm50151
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e6c7c96a-7c7c-7870-1c11-d1b7f2e7d9ba
+ms.date: 06/08/2017
 ---
 
 

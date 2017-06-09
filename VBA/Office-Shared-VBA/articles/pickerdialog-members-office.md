@@ -1,7 +1,8 @@
 ---
 title: PickerDialog Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4ad8074d-9611-79e9-48e8-8c4f5fbbaba0
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: PlotArea.Width Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Width
 ms.assetid: 88812b0d-b65c-1052-8bf4-a5683c6f53ef
+ms.date: 06/08/2017
 ---
 
 

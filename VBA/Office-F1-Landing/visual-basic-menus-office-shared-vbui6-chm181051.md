@@ -3,8 +3,9 @@ title: Visual Basic Menus, Office Shared [vbui6.chm181051]
 keywords: vbui6.chm181051
 f1_keywords:
 - vbui6.chm181051
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 755a2fe7-1eb9-42ad-978c-b6237dde975f
+ms.date: 06/08/2017
 ---
 
 

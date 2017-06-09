@@ -3,10 +3,11 @@ title: PivotTable.ColumnGrand Property (Excel)
 keywords: vbaxl10.chm235075
 f1_keywords:
 - vbaxl10.chm235075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ColumnGrand
 ms.assetid: aa012e55-c944-22f1-13da-7ad76ae72c5b
+ms.date: 06/08/2017
 ---
 
 

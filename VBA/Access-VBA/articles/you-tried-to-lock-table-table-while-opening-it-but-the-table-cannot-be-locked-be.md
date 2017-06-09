@@ -3,14 +3,15 @@ title: You tried to lock table <table> while opening it, but the table cannot be
 keywords: jeterr40.chm5003009
 f1_keywords:
 - jeterr40.chm5003009
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: df34091c-7230-535f-23b9-7b4348fb58a9
+ms.date: 06/08/2017
 ---
 
 
 # You tried to lock table <table> while opening it, but the table cannot be locked because it is currently in use. Wait a moment, and then try the operation again. (Error 3009)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

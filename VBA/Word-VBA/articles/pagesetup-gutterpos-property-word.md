@@ -3,10 +3,11 @@ title: PageSetup.GutterPos Property (Word)
 keywords: vbawd10.chm158401734
 f1_keywords:
 - vbawd10.chm158401734
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.GutterPos
 ms.assetid: 71027b04-e01b-e826-c0ae-39ca3c33182a
+ms.date: 06/08/2017
 ---
 
 

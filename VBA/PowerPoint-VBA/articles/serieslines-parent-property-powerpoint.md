@@ -1,9 +1,10 @@
 ---
 title: SeriesLines.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Parent
 ms.assetid: 2f562fcf-0bbf-a1e2-2c76-d0b19d84d2c7
+ms.date: 06/08/2017
 ---
 
 

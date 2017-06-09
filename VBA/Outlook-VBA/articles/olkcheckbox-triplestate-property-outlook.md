@@ -3,10 +3,11 @@ title: OlkCheckBox.TripleState Property (Outlook)
 keywords: vbaol11.chm1000144
 f1_keywords:
 - vbaol11.chm1000144
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.TripleState
 ms.assetid: f0f8f928-28e2-3f0f-dcd6-afe0dc4a6618
+ms.date: 06/08/2017
 ---
 
 

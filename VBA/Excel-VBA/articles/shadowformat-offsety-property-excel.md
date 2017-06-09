@@ -3,10 +3,11 @@ title: ShadowFormat.OffsetY Property (Excel)
 keywords: vbaxl10.chm114005
 f1_keywords:
 - vbaxl10.chm114005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.OffsetY
 ms.assetid: 54783d52-c32e-14ef-2cae-25f3a7676d80
+ms.date: 06/08/2017
 ---
 
 

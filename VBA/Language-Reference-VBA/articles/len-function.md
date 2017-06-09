@@ -3,8 +3,9 @@ title: Len Function
 keywords: vblr6.chm1011065
 f1_keywords:
 - vblr6.chm1011065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b5b8789-90cc-ac2c-e6a7-1da1d684bd81
+ms.date: 06/08/2017
 ---
 
 

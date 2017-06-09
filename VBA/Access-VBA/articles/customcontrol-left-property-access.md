@@ -3,10 +3,11 @@ title: CustomControl.Left Property (Access)
 keywords: vbaac10.chm12020
 f1_keywords:
 - vbaac10.chm12020
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Left
 ms.assetid: 583eb7ee-2df5-aac2-f103-b343a8d315eb
+ms.date: 06/08/2017
 ---
 
 

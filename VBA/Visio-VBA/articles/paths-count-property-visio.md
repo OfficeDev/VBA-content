@@ -3,10 +3,11 @@ title: Paths.Count Property (Visio)
 keywords: vis_sdr.chm15313330
 f1_keywords:
 - vis_sdr.chm15313330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Paths.Count
 ms.assetid: fb8ac400-7767-667a-d2b1-79962ed0fcac
+ms.date: 06/08/2017
 ---
 
 

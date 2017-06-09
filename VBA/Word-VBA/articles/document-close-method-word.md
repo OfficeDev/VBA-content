@@ -3,10 +3,11 @@ title: Document.Close Method (Word)
 keywords: vbawd10.chm158008401
 f1_keywords:
 - vbawd10.chm158008401
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Close
 ms.assetid: 59603a58-17ee-bc65-597b-6200e8be9fbc
+ms.date: 06/08/2017
 ---
 
 

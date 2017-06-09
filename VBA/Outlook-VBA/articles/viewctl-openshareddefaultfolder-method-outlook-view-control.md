@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.OpenSharedDefaultFolder Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 989d4a15-8aa6-4bc1-855f-1a4b2898ec35
+ms.date: 06/08/2017
 ---
 
 

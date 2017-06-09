@@ -3,14 +3,15 @@ title: The operation failed. There are too many indexes on table <name>. Delete 
 keywords: jeterr40.chm5003626
 f1_keywords:
 - jeterr40.chm5003626
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6dc9ec44-65ef-00c4-f475-e3029d672c25
+ms.date: 06/08/2017
 ---
 
 
 # The operation failed. There are too many indexes on table <name>. Delete some of the indexes on the table and try the operation again. (Error 3626)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

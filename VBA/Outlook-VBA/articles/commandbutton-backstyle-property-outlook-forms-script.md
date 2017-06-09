@@ -1,7 +1,8 @@
 ---
 title: CommandButton.BackStyle Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a66c00e1-4407-92c5-cccf-12bd958b589d
+ms.date: 06/08/2017
 ---
 
 

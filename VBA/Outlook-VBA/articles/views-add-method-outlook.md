@@ -3,10 +3,11 @@ title: Views.Add Method (Outlook)
 keywords: vbaol11.chm547
 f1_keywords:
 - vbaol11.chm547
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Views.Add
 ms.assetid: 8005ca2e-8b28-1286-74d1-448f2a168c65
+ms.date: 06/08/2017
 ---
 
 

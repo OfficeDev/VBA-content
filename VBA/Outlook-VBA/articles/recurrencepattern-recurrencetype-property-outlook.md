@@ -3,10 +3,11 @@ title: RecurrencePattern.RecurrenceType Property (Outlook)
 keywords: vbaol11.chm285
 f1_keywords:
 - vbaol11.chm285
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.RecurrenceType
 ms.assetid: bc9b35b5-ef00-e5cf-09cc-ee8743efddcf
+ms.date: 06/08/2017
 ---
 
 

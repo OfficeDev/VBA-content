@@ -3,8 +3,9 @@ title: Parent Property, Word [vbawd10.chm201655274]
 keywords: vbawd10.chm201655274
 f1_keywords:
 - vbawd10.chm201655274
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b76e114a-c473-4312-913c-a2ea1405b2c9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DoCmd.DoMenuItem Method (Access)
 keywords: vbaac10.chm4148
 f1_keywords:
 - vbaac10.chm4148
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.DoMenuItem
 ms.assetid: b897bfdb-7f03-2b42-2bfd-219a2f4aa21b
+ms.date: 06/08/2017
 ---
 
 

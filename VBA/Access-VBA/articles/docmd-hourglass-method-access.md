@@ -3,10 +3,11 @@ title: DoCmd.Hourglass Method (Access)
 keywords: vbaac10.chm4155
 f1_keywords:
 - vbaac10.chm4155
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.Hourglass
 ms.assetid: e032e879-6ce4-982d-08cb-f9622c000b11
+ms.date: 06/08/2017
 ---
 
 

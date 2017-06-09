@@ -3,10 +3,11 @@ title: TaskItem.Attachments Property (Outlook)
 keywords: vbaol11.chm1687
 f1_keywords:
 - vbaol11.chm1687
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Attachments
 ms.assetid: 8a645c34-74be-0125-c63f-636c6f090b89
+ms.date: 06/08/2017
 ---
 
 

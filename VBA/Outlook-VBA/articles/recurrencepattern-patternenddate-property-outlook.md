@@ -3,10 +3,11 @@ title: RecurrencePattern.PatternEndDate Property (Outlook)
 keywords: vbaol11.chm283
 f1_keywords:
 - vbaol11.chm283
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.PatternEndDate
 ms.assetid: 0f78ea71-3d92-2d38-be10-e05ab7bcf44a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Interior.PatternColor Property (Excel)
 keywords: vbaxl10.chm551077
 f1_keywords:
 - vbaxl10.chm551077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.PatternColor
 ms.assetid: 44d3e506-56a4-e021-4b7c-452169a6dbf2
+ms.date: 06/08/2017
 ---
 
 

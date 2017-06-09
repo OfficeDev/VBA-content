@@ -3,10 +3,11 @@ title: CodeProject Object (Access)
 keywords: vbaac10.chm12741
 f1_keywords:
 - vbaac10.chm12741
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject
 ms.assetid: 70b71f57-df23-2cf7-23f5-147053a8ec26
+ms.date: 06/08/2017
 ---
 
 

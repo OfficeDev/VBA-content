@@ -1,7 +1,8 @@
 ---
 title: Page.ShapeComments Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: b7d86594-ba1f-627b-222f-905da1b1201e
+ms.date: 06/08/2017
 ---
 
 

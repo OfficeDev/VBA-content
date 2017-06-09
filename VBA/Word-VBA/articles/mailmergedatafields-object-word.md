@@ -1,7 +1,8 @@
 ---
 title: MailMergeDataFields Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: a660288d-1a2c-53ec-20d2-c52353be90c8
+ms.date: 06/08/2017
 ---
 
 

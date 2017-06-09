@@ -3,10 +3,11 @@ title: Window.VerticalPercentScrolled Property (Word)
 keywords: vbawd10.chm157417496
 f1_keywords:
 - vbawd10.chm157417496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.VerticalPercentScrolled
 ms.assetid: 008d46d1-667a-9f32-1f8c-cb18ccde8a2f
+ms.date: 06/08/2017
 ---
 
 

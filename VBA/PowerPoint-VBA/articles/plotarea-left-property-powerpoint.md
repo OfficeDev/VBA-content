@@ -1,9 +1,10 @@
 ---
 title: PlotArea.Left Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Left
 ms.assetid: 4dae4fc8-146f-9c20-f329-636b64b7acb5
+ms.date: 06/08/2017
 ---
 
 

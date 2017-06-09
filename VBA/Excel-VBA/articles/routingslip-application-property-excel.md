@@ -3,10 +3,11 @@ title: RoutingSlip.Application Property (Excel)
 keywords: vbaxl10.chm452073
 f1_keywords:
 - vbaxl10.chm452073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RoutingSlip.Application
 ms.assetid: 0ff17a09-41ec-9a5c-c04a-ae4dabcddddb
+ms.date: 06/08/2017
 ---
 
 

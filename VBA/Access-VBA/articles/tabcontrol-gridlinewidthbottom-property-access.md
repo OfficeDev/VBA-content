@@ -3,10 +3,11 @@ title: TabControl.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm14547
 f1_keywords:
 - vbaac10.chm14547
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineWidthBottom
 ms.assetid: 1ac4edd2-df9b-f7f9-7bbb-234d46ba81a7
+ms.date: 06/08/2017
 ---
 
 

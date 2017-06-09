@@ -3,10 +3,11 @@ title: OptionButton.IsVisible Property (Access)
 keywords: vbaac10.chm10606
 f1_keywords:
 - vbaac10.chm10606
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.IsVisible
 ms.assetid: e9fdcd98-275a-7e54-bee5-74d97a6de086
+ms.date: 06/08/2017
 ---
 
 

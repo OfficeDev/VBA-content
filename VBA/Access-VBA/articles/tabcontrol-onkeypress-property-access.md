@@ -3,10 +3,11 @@ title: TabControl.OnKeyPress Property (Access)
 keywords: vbaac10.chm12112
 f1_keywords:
 - vbaac10.chm12112
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnKeyPress
 ms.assetid: 4045a573-1871-a968-21f1-ebae85dc8318
+ms.date: 06/08/2017
 ---
 
 

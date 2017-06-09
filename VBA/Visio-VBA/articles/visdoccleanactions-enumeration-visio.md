@@ -3,8 +3,9 @@ title: VisDocCleanActions Enumeration (Visio)
 keywords: vis_sdr.chm70310
 f1_keywords:
 - vis_sdr.chm70310
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 78189c36-976b-6bcc-95fd-b38e2a74a285
+ms.date: 06/08/2017
 ---
 
 

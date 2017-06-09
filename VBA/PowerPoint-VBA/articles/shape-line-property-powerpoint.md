@@ -3,10 +3,11 @@ title: Shape.Line Property (PowerPoint)
 keywords: vbapp10.chm547027
 f1_keywords:
 - vbapp10.chm547027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Line
 ms.assetid: edb5f40e-8b1e-fd3f-33da-0d4f1d465525
+ms.date: 06/08/2017
 ---
 
 

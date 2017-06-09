@@ -3,10 +3,11 @@ title: NavigationButton Object (Access)
 keywords: vbaac10.chm11201
 f1_keywords:
 - vbaac10.chm11201
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton
 ms.assetid: ac6ba9b4-45aa-0d92-d01d-fd8e8b9cede6
+ms.date: 06/08/2017
 ---
 
 

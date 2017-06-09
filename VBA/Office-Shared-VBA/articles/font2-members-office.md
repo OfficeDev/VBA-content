@@ -1,7 +1,8 @@
 ---
 title: Font2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c91a433-b474-486a-4c03-eb9f7b44ecb0
+ms.date: 06/08/2017
 ---
 
 

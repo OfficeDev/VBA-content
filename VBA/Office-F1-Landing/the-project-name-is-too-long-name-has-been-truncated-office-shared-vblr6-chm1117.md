@@ -3,8 +3,9 @@ title: The project name is too long. Name has been truncated, Office Shared [vbl
 keywords: vblr6.chm1117767
 f1_keywords:
 - vblr6.chm1117767
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0760ec3e-412d-4d71-ac8b-5456605d3633
+ms.date: 06/08/2017
 ---
 
 

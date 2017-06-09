@@ -3,10 +3,11 @@ title: Shape.InsertObject Method (Visio)
 keywords: vis_sdr.chm11216370
 f1_keywords:
 - vis_sdr.chm11216370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.InsertObject
 ms.assetid: 7abc6e96-6822-7237-b695-36f297a076fc
+ms.date: 06/08/2017
 ---
 
 

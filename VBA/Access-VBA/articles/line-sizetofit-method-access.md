@@ -3,10 +3,11 @@ title: Line.SizeToFit Method (Access)
 keywords: vbaac10.chm10325
 f1_keywords:
 - vbaac10.chm10325
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.SizeToFit
 ms.assetid: ee0912e1-ccb2-5c3c-db09-9f4a19fa992c
+ms.date: 06/08/2017
 ---
 
 

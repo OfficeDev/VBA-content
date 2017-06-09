@@ -3,10 +3,11 @@ title: ChartArea.Clear Method (Word)
 keywords: vbawd10.chm160039023
 f1_keywords:
 - vbawd10.chm160039023
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea.Clear
 ms.assetid: 779f38e5-4a0e-fb1e-705b-d7f2c678a933
+ms.date: 06/08/2017
 ---
 
 

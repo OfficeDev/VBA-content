@@ -1,9 +1,10 @@
 ---
 title: AnimationPoints.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoints.Count
 ms.assetid: 41d338d8-e45c-347c-d4a4-5695098e98ac
+ms.date: 06/08/2017
 ---
 
 

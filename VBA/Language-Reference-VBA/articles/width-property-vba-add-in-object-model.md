@@ -3,8 +3,9 @@ title: Width Property (VBA Add-In Object Model)
 keywords: vbob6.chm100116
 f1_keywords:
 - vbob6.chm100116
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d9730ed-243c-3e20-87c9-f52b921ba3b3
+ms.date: 06/08/2017
 ---
 
 

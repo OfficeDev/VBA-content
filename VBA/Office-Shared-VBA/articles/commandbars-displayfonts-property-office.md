@@ -3,10 +3,11 @@ title: CommandBars.DisplayFonts Property (Office)
 keywords: vbaof11.chm2015
 f1_keywords:
 - vbaof11.chm2015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.DisplayFonts
 ms.assetid: 25a9ede7-3575-6706-406d-a5b656cd965e
+ms.date: 06/08/2017
 ---
 
 

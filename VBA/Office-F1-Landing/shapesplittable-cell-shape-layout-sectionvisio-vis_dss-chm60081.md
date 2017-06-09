@@ -3,8 +3,9 @@ title: ShapeSplittable Cell (Shape Layout Section), Visio [Vis_DSS.chm60081]
 keywords: vis_dss.chm60081
 f1_keywords:
 - vis_dss.chm60081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2d3bce3f-c82c-4966-96af-da789b1f81c3
+ms.date: 06/08/2017
 ---
 
 

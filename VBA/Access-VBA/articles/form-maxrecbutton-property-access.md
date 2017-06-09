@@ -3,10 +3,11 @@ title: Form.MaxRecButton Property (Access)
 keywords: vbaac10.chm13488
 f1_keywords:
 - vbaac10.chm13488
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.MaxRecButton
 ms.assetid: 6f5ea968-1f79-1fbc-86e1-fff034dcc827
+ms.date: 06/08/2017
 ---
 
 

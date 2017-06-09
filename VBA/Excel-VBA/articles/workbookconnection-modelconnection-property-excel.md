@@ -3,8 +3,9 @@ title: WorkbookConnection.ModelConnection Property (Excel)
 keywords: vbaxl10.chm774082
 f1_keywords:
 - vbaxl10.chm774082
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c57e464a-40aa-2fc6-4368-79ad1661a3f9
+ms.date: 06/08/2017
 ---
 
 

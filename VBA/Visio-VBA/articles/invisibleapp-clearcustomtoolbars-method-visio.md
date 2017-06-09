@@ -3,10 +3,11 @@ title: InvisibleApp.ClearCustomToolbars Method (Visio)
 keywords: vis_sdr.chm17516115
 f1_keywords:
 - vis_sdr.chm17516115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ClearCustomToolbars
 ms.assetid: 3020ea80-ea8b-3670-865b-329326835a7f
+ms.date: 06/08/2017
 ---
 
 

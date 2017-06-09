@@ -3,10 +3,11 @@ title: Master.Index Property (Visio)
 keywords: vis_sdr.chm10713695
 f1_keywords:
 - vis_sdr.chm10713695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Index
 ms.assetid: 48a90dee-ce11-ef81-e58a-e4a3cdb899dc
+ms.date: 06/08/2017
 ---
 
 

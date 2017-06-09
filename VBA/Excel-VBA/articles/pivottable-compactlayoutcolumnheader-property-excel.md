@@ -3,10 +3,11 @@ title: PivotTable.CompactLayoutColumnHeader Property (Excel)
 keywords: vbaxl10.chm235180
 f1_keywords:
 - vbaxl10.chm235180
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CompactLayoutColumnHeader
 ms.assetid: 63bb7b64-9445-4fa7-6fee-63ac2435ef50
+ms.date: 06/08/2017
 ---
 
 

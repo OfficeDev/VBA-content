@@ -3,8 +3,9 @@ title: End With without With, Office Shared [vblr6.chm1011143]
 keywords: vblr6.chm1011143
 f1_keywords:
 - vblr6.chm1011143
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a6bd71f4-6f11-49d6-b16c-03156d497a7a
+ms.date: 06/08/2017
 ---
 
 

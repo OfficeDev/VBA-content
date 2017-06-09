@@ -3,8 +3,9 @@ title: Options Tab (Customize Dialog Box)
 keywords: vbui6.chm1077004
 f1_keywords:
 - vbui6.chm1077004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d43a1d2f-c87e-e8d2-6e24-1f454d11505e
+ms.date: 06/08/2017
 ---
 
 

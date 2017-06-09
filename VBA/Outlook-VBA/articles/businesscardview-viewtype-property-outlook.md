@@ -3,10 +3,11 @@ title: BusinessCardView.ViewType Property (Outlook)
 keywords: vbaol11.chm2931
 f1_keywords:
 - vbaol11.chm2931
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.ViewType
 ms.assetid: afafdf28-b090-a108-9550-9befcbd98e60
+ms.date: 06/08/2017
 ---
 
 

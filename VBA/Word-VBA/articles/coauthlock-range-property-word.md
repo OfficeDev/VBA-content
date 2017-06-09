@@ -3,10 +3,11 @@ title: CoAuthLock.Range Property (Word)
 keywords: vbawd10.chm260046851
 f1_keywords:
 - vbawd10.chm260046851
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLock.Range
 ms.assetid: 092cafbc-09b1-75b7-660e-85b6cd2b5ba2
+ms.date: 06/08/2017
 ---
 
 

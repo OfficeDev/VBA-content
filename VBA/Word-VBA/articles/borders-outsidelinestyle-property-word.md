@@ -3,10 +3,11 @@ title: Borders.OutsideLineStyle Property (Word)
 keywords: vbawd10.chm154927111
 f1_keywords:
 - vbawd10.chm154927111
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.OutsideLineStyle
 ms.assetid: 13e9dfa7-6168-c217-b1bb-eebc81a40fbd
+ms.date: 06/08/2017
 ---
 
 

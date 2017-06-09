@@ -3,10 +3,11 @@ title: Document.OLEObjects Property (Visio)
 keywords: vis_sdr.chm10513965
 f1_keywords:
 - vis_sdr.chm10513965
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.OLEObjects
 ms.assetid: 3cb58d69-2287-2dbc-a6fb-f8a1ec9cf854
+ms.date: 06/08/2017
 ---
 
 

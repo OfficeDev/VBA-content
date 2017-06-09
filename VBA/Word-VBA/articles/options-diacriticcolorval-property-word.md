@@ -3,10 +3,11 @@ title: Options.DiacriticColorVal Property (Word)
 keywords: vbawd10.chm162988453
 f1_keywords:
 - vbawd10.chm162988453
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DiacriticColorVal
 ms.assetid: bbc1c850-f4d4-7ddb-5fbf-2b9f07788a44
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Application.ProjectBeforeAssignmentDelete Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete
 ms.assetid: f0db513e-3dec-e9d6-8385-ac0117e8f28e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UserDefinedProperty.DisplayFormat Property (Outlook)
 keywords: vbaol11.chm8
 f1_keywords:
 - vbaol11.chm8
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperty.DisplayFormat
 ms.assetid: f891aa8d-a769-275d-c027-7c5260eafc97
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Send
 ms.assetid: 7e77c1c3-f6dd-13d1-ed76-b37e7dd6e82a
+ms.date: 06/08/2017
 ---
 
 

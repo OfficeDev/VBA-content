@@ -3,8 +3,9 @@ title: DataLabel Property, Excel [vbagr10.chm5207282]
 keywords: vbagr10.chm5207282
 f1_keywords:
 - vbagr10.chm5207282
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1b9ac8f4-c468-41a8-b3d7-c9901f820cab
+ms.date: 06/08/2017
 ---
 
 

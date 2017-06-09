@@ -3,10 +3,11 @@ title: Document.BeforeDocumentClose Event (Visio)
 keywords: vis_sdr.chm10519025
 f1_keywords:
 - vis_sdr.chm10519025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BeforeDocumentClose
 ms.assetid: e35f9593-f5ee-f84b-95e6-f23a899c0d6d
+ms.date: 06/08/2017
 ---
 
 

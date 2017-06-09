@@ -3,10 +3,11 @@ title: Form.AfterFinalRender Event (Access)
 keywords: vbaac10.chm13681
 f1_keywords:
 - vbaac10.chm13681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterFinalRender
 ms.assetid: 89f9cbb5-f002-4783-dc70-17878763e486
+ms.date: 06/08/2017
 ---
 
 

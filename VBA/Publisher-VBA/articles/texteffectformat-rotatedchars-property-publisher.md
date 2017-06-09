@@ -3,10 +3,11 @@ title: TextEffectFormat.RotatedChars Property (Publisher)
 keywords: vbapb10.chm3735817
 f1_keywords:
 - vbapb10.chm3735817
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.RotatedChars
 ms.assetid: 47566497-7b78-65dc-48d9-26b2e4245d31
+ms.date: 06/08/2017
 ---
 
 

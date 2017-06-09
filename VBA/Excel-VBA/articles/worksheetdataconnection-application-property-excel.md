@@ -3,8 +3,9 @@ title: WorksheetDataConnection.Application Property (Excel)
 keywords: vbaxl10.chm923073
 f1_keywords:
 - vbaxl10.chm923073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 79545289-efa9-ce0b-3268-4f73c410fb55
+ms.date: 06/08/2017
 ---
 
 

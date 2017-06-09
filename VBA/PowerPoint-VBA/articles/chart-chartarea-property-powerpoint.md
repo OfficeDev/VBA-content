@@ -3,10 +3,11 @@ title: Chart.ChartArea Property (PowerPoint)
 keywords: vbapp10.chm684017
 f1_keywords:
 - vbapp10.chm684017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ChartArea
 ms.assetid: 2b3a7b7f-c27d-7f79-7625-7d9b20c049c3
+ms.date: 06/08/2017
 ---
 
 

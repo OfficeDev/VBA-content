@@ -3,8 +3,9 @@ title: Annotation Section, Visio [Vis_DSS.chm60013]
 keywords: vis_dss.chm60013
 f1_keywords:
 - vis_dss.chm60013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2765669b-a0ad-42eb-aeed-605794950b1f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shapes.AddOLEObject Method (Word)
 keywords: vbawd10.chm161415192
 f1_keywords:
 - vbawd10.chm161415192
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddOLEObject
 ms.assetid: 06da5744-2c7e-294e-e497-e96bf452f93c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Workbook.Activate Event (Excel)
 keywords: vbaxl10.chm503074
 f1_keywords:
 - vbaxl10.chm503074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Activate
 ms.assetid: 74bb6d8c-aec8-7bb6-5c30-9a20f9a7afe8
+ms.date: 06/08/2017
 ---
 
 

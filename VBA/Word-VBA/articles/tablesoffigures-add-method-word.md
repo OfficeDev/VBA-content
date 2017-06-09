@@ -3,10 +3,11 @@ title: TablesOfFigures.Add Method (Word)
 keywords: vbawd10.chm153223612
 f1_keywords:
 - vbawd10.chm153223612
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfFigures.Add
 ms.assetid: 9ebee370-deeb-24b1-0fa1-a98db85e1972
+ms.date: 06/08/2017
 ---
 
 

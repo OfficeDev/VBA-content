@@ -3,10 +3,11 @@ title: Comment.Next Method (Excel)
 keywords: vbaxl10.chm516078
 f1_keywords:
 - vbaxl10.chm516078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment.Next
 ms.assetid: 0331918c-056d-6adc-e232-0aeee3d9c57b
+ms.date: 06/08/2017
 ---
 
 

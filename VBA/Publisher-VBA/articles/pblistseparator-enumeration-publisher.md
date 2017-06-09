@@ -3,10 +3,11 @@ title: PbListSeparator Enumeration (Publisher)
 keywords: vbapb10.chm65616
 f1_keywords:
 - vbapb10.chm65616
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbListSeparator
 ms.assetid: 9a9531aa-b5de-9f2c-f4c2-ebcf3b1023b1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DocumentLibraryVersions Object (Office)
 keywords: vbaof11.chm277026
 f1_keywords:
 - vbaof11.chm277026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions
 ms.assetid: 075c0315-fade-6d45-9ab9-6c798f6f09ac
+ms.date: 06/08/2017
 ---
 
 

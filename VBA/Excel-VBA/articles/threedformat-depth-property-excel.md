@@ -3,10 +3,11 @@ title: ThreeDFormat.Depth Property (Excel)
 keywords: vbaxl10.chm119005
 f1_keywords:
 - vbaxl10.chm119005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Depth
 ms.assetid: 1fce69d1-6813-1f92-d457-6a6c36de7dba
+ms.date: 06/08/2017
 ---
 
 

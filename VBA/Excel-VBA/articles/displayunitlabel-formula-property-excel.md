@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Formula Property (Excel)
 keywords: vbaxl10.chm673095
 f1_keywords:
 - vbaxl10.chm673095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Formula
 ms.assetid: cd8259bf-a1de-9493-2b0a-f0bc0f488d09
+ms.date: 06/08/2017
 ---
 
 

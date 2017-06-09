@@ -3,10 +3,11 @@ title: Application.DrawingPaths Property (Visio)
 keywords: vis_sdr.chm10013445
 f1_keywords:
 - vis_sdr.chm10013445
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DrawingPaths
 ms.assetid: 46a0a769-8ef4-1cc3-9206-24c23b0982ee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.AxisGroup Property (Excel)
 keywords: vbaxl10.chm561074
 f1_keywords:
 - vbaxl10.chm561074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.AxisGroup
 ms.assetid: daf04d13-4bb3-1282-55ee-dacf3ab76020
+ms.date: 06/08/2017
 ---
 
 

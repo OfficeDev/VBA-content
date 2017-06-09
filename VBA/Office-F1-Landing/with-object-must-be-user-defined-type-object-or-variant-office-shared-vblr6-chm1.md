@@ -3,8 +3,9 @@ title: With object must be user-defined type, Object, or Variant, Office Shared 
 keywords: vblr6.chm1040133
 f1_keywords:
 - vblr6.chm1040133
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78be7bd7-4fe0-4ba0-ab69-cb9c86fe01f8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.InsertRowsAbove Method (Word)
 keywords: vbawd10.chm158663195
 f1_keywords:
 - vbawd10.chm158663195
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertRowsAbove
 ms.assetid: f5387043-34d0-cd84-6550-bfd96bf661b8
+ms.date: 06/08/2017
 ---
 
 

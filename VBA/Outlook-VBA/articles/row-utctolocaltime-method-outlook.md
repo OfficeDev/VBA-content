@@ -3,10 +3,11 @@ title: Row.UTCToLocalTime Method (Outlook)
 keywords: vbaol11.chm2247
 f1_keywords:
 - vbaol11.chm2247
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Row.UTCToLocalTime
 ms.assetid: 82685689-89af-4c49-1e6b-42e1ecd9d301
+ms.date: 06/08/2017
 ---
 
 

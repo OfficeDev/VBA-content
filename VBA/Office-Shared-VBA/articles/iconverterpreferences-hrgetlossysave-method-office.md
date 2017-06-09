@@ -3,10 +3,11 @@ title: IConverterPreferences.HrGetLossySave Method (Office)
 keywords: vbaof11.chm330003
 f1_keywords:
 - vbaof11.chm330003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverterPreferences.HrGetLossySave
 ms.assetid: 272d52de-e118-fe90-8e6f-adccd57e4ebc
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: CodeMask.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMask.Parent
 ms.assetid: 9a1bae04-ed22-9838-9ea6-7b11dd65a1ee
+ms.date: 06/08/2017
 ---
 
 

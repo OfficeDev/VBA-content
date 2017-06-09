@@ -3,10 +3,11 @@ title: CheckBox.BorderStyle Property (Access)
 keywords: vbaac10.chm10714
 f1_keywords:
 - vbaac10.chm10714
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.BorderStyle
 ms.assetid: 8d2c64cd-b5ca-0c02-1332-3887929ecee5
+ms.date: 06/08/2017
 ---
 
 

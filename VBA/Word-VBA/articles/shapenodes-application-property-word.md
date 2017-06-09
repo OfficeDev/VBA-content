@@ -3,10 +3,11 @@ title: ShapeNodes.Application Property (Word)
 keywords: vbawd10.chm164496360
 f1_keywords:
 - vbawd10.chm164496360
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNodes.Application
 ms.assetid: 1fc8e643-a024-8eb2-395d-223541299198
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TickLabelSpacing Property
 keywords: vbagr10.chm5208063
 f1_keywords:
 - vbagr10.chm5208063
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabelSpacing
 ms.assetid: f8bf4611-3b25-3d66-f49b-5a088e95028b
+ms.date: 06/08/2017
 ---
 
 

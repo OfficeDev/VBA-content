@@ -3,14 +3,15 @@ title: Form Section
 keywords: vbaac10.chm5186608
 f1_keywords:
 - vbaac10.chm5186608
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 394d69a5-371c-4e0f-6671-c4da9227dfcd
+ms.date: 06/08/2017
 ---
 
 
 # Form Section
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

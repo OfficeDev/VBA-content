@@ -3,8 +3,9 @@ title: Windows Property, PowerPoint [vbapp10.chm502002]
 keywords: vbapp10.chm502002
 f1_keywords:
 - vbapp10.chm502002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c92a87d3-ce29-4bfd-be06-6779d7ba37b8
+ms.date: 06/08/2017
 ---
 
 

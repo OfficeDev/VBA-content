@@ -3,8 +3,9 @@ title: FileConverters Property, PowerPoint [vbapp10.chm503012]
 keywords: vbapp10.chm503012
 f1_keywords:
 - vbapp10.chm503012
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 01ea105f-f6e2-410f-b317-06b87e78cc2f
+ms.date: 06/08/2017
 ---
 
 

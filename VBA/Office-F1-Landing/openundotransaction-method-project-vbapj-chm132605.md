@@ -3,8 +3,9 @@ title: OpenUndoTransaction Method, Project [vbapj.chm132605]
 keywords: vbapj.chm132605
 f1_keywords:
 - vbapj.chm132605
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11eb96e0-6e87-4c5b-90fe-8ed03d811bdd
+ms.date: 06/08/2017
 ---
 
 

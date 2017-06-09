@@ -3,10 +3,11 @@ title: WebCheckBox.Selected Property (Publisher)
 keywords: vbapb10.chm4325380
 f1_keywords:
 - vbapb10.chm4325380
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCheckBox.Selected
 ms.assetid: ad34871d-474d-70ad-6245-ee5a017839c1
+ms.date: 06/08/2017
 ---
 
 

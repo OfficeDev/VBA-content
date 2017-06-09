@@ -1,7 +1,8 @@
 ---
 title: IDocumentInspector Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61140922-4f7f-3547-ef3d-7b4120c5b34e
+ms.date: 06/08/2017
 ---
 
 

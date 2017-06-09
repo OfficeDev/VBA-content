@@ -3,10 +3,11 @@ title: View.Zoom Property (PowerPoint)
 keywords: vbapp10.chm512004
 f1_keywords:
 - vbapp10.chm512004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Zoom
 ms.assetid: 83624f62-0da8-ad96-d887-7f87cb4cacd2
+ms.date: 06/08/2017
 ---
 
 

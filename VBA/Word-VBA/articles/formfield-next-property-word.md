@@ -3,10 +3,11 @@ title: FormField.Next Property (Word)
 keywords: vbawd10.chm153616398
 f1_keywords:
 - vbawd10.chm153616398
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Next
 ms.assetid: fa11061c-6dd5-5b5b-a871-9f52477d0e23
+ms.date: 06/08/2017
 ---
 
 

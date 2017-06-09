@@ -1,7 +1,8 @@
 ---
 title: Controls How Do I Topics
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c1b0cd6e-de48-43c7-a393-44f2963738e9
+ms.date: 06/08/2017
 ---
 
 

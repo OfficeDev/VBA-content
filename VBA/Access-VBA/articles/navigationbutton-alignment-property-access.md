@@ -3,10 +3,11 @@ title: NavigationButton.Alignment Property (Access)
 keywords: vbaac10.chm14292
 f1_keywords:
 - vbaac10.chm14292
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Alignment
 ms.assetid: 1104aa67-38dc-d7b2-3b9a-9e31e11744cc
+ms.date: 06/08/2017
 ---
 
 

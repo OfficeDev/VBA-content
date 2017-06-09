@@ -3,8 +3,9 @@ title: StoryRanges Object (Word)
 keywords: vbawd10.chm2444
 f1_keywords:
 - vbawd10.chm2444
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 131b04b0-e4a8-8969-0a4b-e5b3793af03d
+ms.date: 06/08/2017
 ---
 
 

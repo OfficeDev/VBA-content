@@ -3,10 +3,11 @@ title: Range.AutoFilter Method (Excel)
 keywords: vbaxl10.chm144084
 f1_keywords:
 - vbaxl10.chm144084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.AutoFilter
 ms.assetid: 0f773dbf-63e8-f714-d246-f803a74d366c
+ms.date: 06/08/2017
 ---
 
 

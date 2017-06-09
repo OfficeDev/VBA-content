@@ -3,10 +3,11 @@ title: PivotFilters Object (Excel)
 keywords: vbaxl10.chm771072
 f1_keywords:
 - vbaxl10.chm771072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilters
 ms.assetid: fc647acb-bd6a-8544-6411-1f5e49807e53
+ms.date: 06/08/2017
 ---
 
 

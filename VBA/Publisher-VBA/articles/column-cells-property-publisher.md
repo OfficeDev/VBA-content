@@ -3,10 +3,11 @@ title: Column.Cells Property (Publisher)
 keywords: vbapb10.chm4980738
 f1_keywords:
 - vbapb10.chm4980738
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Column.Cells
 ms.assetid: 6c8b33f9-61f0-086c-1ceb-996221aa3a02
+ms.date: 06/08/2017
 ---
 
 

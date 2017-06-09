@@ -3,8 +3,9 @@ title: ButtonFace Cell (Actions Section), Visio [Vis_DSS.chm1027284]
 keywords: vis_dss.chm1027284
 f1_keywords:
 - vis_dss.chm1027284
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a16c5db4-b091-49e1-9386-43d8d25d097d
+ms.date: 06/08/2017
 ---
 
 

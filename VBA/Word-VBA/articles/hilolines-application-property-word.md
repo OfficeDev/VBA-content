@@ -3,10 +3,11 @@ title: HiLoLines.Application Property (Word)
 keywords: vbawd10.chm235995284
 f1_keywords:
 - vbawd10.chm235995284
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HiLoLines.Application
 ms.assetid: 617d89eb-f9d7-5f4f-d9c5-ff4453a8a7cb
+ms.date: 06/08/2017
 ---
 
 

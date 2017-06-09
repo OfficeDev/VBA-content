@@ -3,8 +3,9 @@ title: InvisibleApp.IsVisio32 Property (Visio)
 keywords: vis_sdr.chm17500000
 f1_keywords:
 - vis_sdr.chm17500000
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: aeea156c-7bec-702f-62aa-fdbc4e2045f3
+ms.date: 06/08/2017
 ---
 
 

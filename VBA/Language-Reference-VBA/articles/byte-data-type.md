@@ -3,8 +3,9 @@ title: Byte Data Type
 keywords: vblr6.chm1015360
 f1_keywords:
 - vblr6.chm1015360
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 642e0330-62b5-9e4c-7cfa-562c14302321
+ms.date: 06/08/2017
 ---
 
 

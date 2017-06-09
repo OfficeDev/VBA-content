@@ -1,7 +1,8 @@
 ---
 title: Modify an Existing Record in a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e1fe83cc-db41-8c51-1809-e5ae059c0260
+ms.date: 06/08/2017
 ---
 
 

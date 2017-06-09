@@ -3,10 +3,11 @@ title: Columns.Add Method (Publisher)
 keywords: vbapb10.chm5046276
 f1_keywords:
 - vbapb10.chm5046276
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Columns.Add
 ms.assetid: b3dfb892-6bda-d2c4-11f7-9bd29bf257aa
+ms.date: 06/08/2017
 ---
 
 

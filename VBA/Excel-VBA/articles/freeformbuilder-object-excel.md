@@ -3,10 +3,11 @@ title: FreeformBuilder Object (Excel)
 keywords: vbaxl10.chm647072
 f1_keywords:
 - vbaxl10.chm647072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FreeformBuilder
 ms.assetid: 91c779ac-69bc-3b68-8ecb-1f9cc8e5b20e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.SetFocus Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.SetFocus
 ms.assetid: 3170651c-40da-5025-8b36-195b836c8fcb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Image.OnDblClick Property (Access)
 keywords: vbaac10.chm10395
 f1_keywords:
 - vbaac10.chm10395
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.OnDblClick
 ms.assetid: 65700447-c7bf-7b7f-ea2e-75e4c8fff70a
+ms.date: 06/08/2017
 ---
 
 

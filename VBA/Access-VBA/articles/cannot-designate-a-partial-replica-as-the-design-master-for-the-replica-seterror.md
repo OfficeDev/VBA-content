@@ -3,14 +3,15 @@ title: Cannot designate a partial replica as the Design Master for the replica s
 keywords: jeterr40.chm5003479
 f1_keywords:
 - jeterr40.chm5003479
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b2df06f5-97ee-2073-3e0f-155c93aa196c
+ms.date: 06/08/2017
 ---
 
 
 # Cannot designate a partial replica as the Design Master for the replica set. (Error 3479)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

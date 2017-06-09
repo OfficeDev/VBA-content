@@ -3,10 +3,11 @@ title: AutoCorrect.CorrectKeyboardSetting Property (Word)
 keywords: vbawd10.chm155779090
 f1_keywords:
 - vbawd10.chm155779090
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.CorrectKeyboardSetting
 ms.assetid: 2b611e7d-b0fe-41c2-1b93-3364c5d26c9b
+ms.date: 06/08/2017
 ---
 
 

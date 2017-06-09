@@ -3,10 +3,11 @@ title: Selection.UpdateAlignmentBox Method (Visio)
 keywords: vis_sdr.chm11116635
 f1_keywords:
 - vis_sdr.chm11116635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.UpdateAlignmentBox
 ms.assetid: d7f13dcd-3ff6-0e0f-d996-afe59c16f813
+ms.date: 06/08/2017
 ---
 
 

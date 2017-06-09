@@ -1,7 +1,8 @@
 ---
 title: Object model (Access VBA reference)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2de134a4-6c5c-d2a3-8377-f4dd973ba650
+ms.date: 06/08/2017
 ---
 
 

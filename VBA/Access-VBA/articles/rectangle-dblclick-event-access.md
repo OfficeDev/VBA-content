@@ -3,10 +3,11 @@ title: Rectangle.DblClick Event (Access)
 keywords: vbaac10.chm14162
 f1_keywords:
 - vbaac10.chm14162
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.DblClick
 ms.assetid: cc43d05a-b8a6-8a6b-8baf-74ad3753515f
+ms.date: 06/08/2017
 ---
 
 

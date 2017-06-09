@@ -3,10 +3,11 @@ title: TextBox.Hyperlink Property (Access)
 keywords: vbaac10.chm11037
 f1_keywords:
 - vbaac10.chm11037
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Hyperlink
 ms.assetid: a5d80cd4-d03d-41ea-9394-214537dd6c8c
+ms.date: 06/08/2017
 ---
 
 

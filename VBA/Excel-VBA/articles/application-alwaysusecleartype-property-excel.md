@@ -3,10 +3,11 @@ title: Application.AlwaysUseClearType Property (Excel)
 keywords: vbaxl10.chm133304
 f1_keywords:
 - vbaxl10.chm133304
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AlwaysUseClearType
 ms.assetid: f848fedf-8dc4-83c5-e2c6-e20db4d0eb0b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot initialize Synchronizer because there are too many applications ru
 keywords: jeterr40.chm5003538
 f1_keywords:
 - jeterr40.chm5003538
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 39d671f2-c4a2-73aa-f918-5e4ebdaefc65
+ms.date: 06/08/2017
 ---
 
 
 # Cannot initialize Synchronizer because there are too many applications running. (Error 3538)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: View.ExpandOutline Method (Word)
 keywords: vbawd10.chm161808486
 f1_keywords:
 - vbawd10.chm161808486
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ExpandOutline
 ms.assetid: 46286501-3583-e931-71a6-cf5d091f0b15
+ms.date: 06/08/2017
 ---
 
 

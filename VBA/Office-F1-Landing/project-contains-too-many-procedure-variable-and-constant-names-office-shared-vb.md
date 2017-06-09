@@ -3,8 +3,9 @@ title: Project contains too many procedure, variable, and constant names, Office
 keywords: vblr6.chm1057029
 f1_keywords:
 - vblr6.chm1057029
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 638e9d1e-7ae7-4e1d-96f3-404d8e2df2dd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Reflection Property (Excel)
 keywords: vbaxl10.chm636153
 f1_keywords:
 - vbaxl10.chm636153
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Reflection
 ms.assetid: 8f5a23a9-0245-224f-2827-982ef2814ad0
+ms.date: 06/08/2017
 ---
 
 

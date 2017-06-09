@@ -1,13 +1,14 @@
 ---
 title: Handler Property Example (VJ++)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fba66f04-654d-5950-ee48-0da6f6106be2
+ms.date: 06/08/2017
 ---
 
 
 # Handler Property Example (VJ++)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

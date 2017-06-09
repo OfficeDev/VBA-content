@@ -3,10 +3,11 @@ title: PostItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1532
 f1_keywords:
 - vbaol11.chm1532
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.OutlookVersion
 ms.assetid: 671325ef-236b-084a-7c1e-ba9add0f8c89
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailMerge.Execute Method (Publisher)
 keywords: vbapb10.chm6225940
 f1_keywords:
 - vbapb10.chm6225940
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.Execute
 ms.assetid: edcabcc5-f2ce-53ce-d422-0d6fcb5f8a33
+ms.date: 06/08/2017
 ---
 
 

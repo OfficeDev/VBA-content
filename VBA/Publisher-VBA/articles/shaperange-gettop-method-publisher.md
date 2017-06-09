@@ -3,10 +3,11 @@ title: ShapeRange.GetTop Method (Publisher)
 keywords: vbapb10.chm2293783
 f1_keywords:
 - vbapb10.chm2293783
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.GetTop
 ms.assetid: bbee5dec-78fd-efd9-1368-2089a44d9bff
+ms.date: 06/08/2017
 ---
 
 

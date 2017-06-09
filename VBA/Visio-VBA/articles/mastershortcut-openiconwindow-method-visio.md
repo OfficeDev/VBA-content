@@ -3,10 +3,11 @@ title: MasterShortcut.OpenIconWindow Method (Visio)
 keywords: vis_sdr.chm16016410
 f1_keywords:
 - vis_sdr.chm16016410
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.OpenIconWindow
 ms.assetid: e6a736ec-14f5-0653-2024-213428e1050c
+ms.date: 06/08/2017
 ---
 
 

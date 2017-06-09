@@ -1,9 +1,10 @@
 ---
 title: FreeformBuilder.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Creator
 ms.assetid: 27b13b1e-eca5-90c1-c4ac-fbe56dd1cd30
+ms.date: 06/08/2017
 ---
 
 

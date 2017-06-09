@@ -1,9 +1,10 @@
 ---
 title: ViewSingle Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewSingle
 ms.assetid: 41a36448-df16-3ad4-ec98-1dba0b3f8aef
+ms.date: 06/08/2017
 ---
 
 

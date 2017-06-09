@@ -1,9 +1,10 @@
 ---
 title: ViewCombination.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewCombination.Parent
 ms.assetid: e98d4c6a-3e2f-62ee-6b11-6c74e0bc69c7
+ms.date: 06/08/2017
 ---
 
 

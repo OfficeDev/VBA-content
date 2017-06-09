@@ -3,10 +3,11 @@ title: Application.Calculate Method (Excel)
 keywords: vbaxl10.chm183084
 f1_keywords:
 - vbaxl10.chm183084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Calculate
 ms.assetid: 2818a08b-1c02-9f10-db03-db509a251f60
+ms.date: 06/08/2017
 ---
 
 

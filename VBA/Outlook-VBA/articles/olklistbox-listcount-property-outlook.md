@@ -3,10 +3,11 @@ title: OlkListBox.ListCount Property (Outlook)
 keywords: vbaol11.chm1000267
 f1_keywords:
 - vbaol11.chm1000267
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.ListCount
 ms.assetid: 7e3a33ff-6c6d-7667-108f-fc2ca27ff01f
+ms.date: 06/08/2017
 ---
 
 

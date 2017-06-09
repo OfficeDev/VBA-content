@@ -1,9 +1,10 @@
 ---
 title: Resource.Duration6 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Duration6
 ms.assetid: f29dec51-a63d-0265-6ddf-23e4485307b3
+ms.date: 06/08/2017
 ---
 
 

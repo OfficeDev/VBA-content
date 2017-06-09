@@ -3,10 +3,11 @@ title: Clear Method
 keywords: vbagr10.chm65647
 f1_keywords:
 - vbagr10.chm65647
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Clear
 ms.assetid: f77c2fc0-6ec4-7345-0e5c-7b8dd4cd1a90
+ms.date: 06/08/2017
 ---
 
 

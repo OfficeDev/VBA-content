@@ -3,10 +3,11 @@ title: WorksheetFunction.Frequency Method (Excel)
 keywords: vbaxl10.chm137172
 f1_keywords:
 - vbaxl10.chm137172
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Frequency
 ms.assetid: e13a993f-c669-45ca-90f9-41655f01cc18
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.Height Property (Access)
 keywords: vbaac10.chm12158
 f1_keywords:
 - vbaac10.chm12158
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Height
 ms.assetid: df6c7cc3-bcf5-6607-144a-383a1f26d21e
+ms.date: 06/08/2017
 ---
 
 

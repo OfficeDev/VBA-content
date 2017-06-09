@@ -1,9 +1,10 @@
 ---
 title: Resource.DefaultAssignmentOwner Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.DefaultAssignmentOwner
 ms.assetid: 41f08732-0f5a-e366-dbc0-54aab1a89fe2
+ms.date: 06/08/2017
 ---
 
 

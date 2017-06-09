@@ -3,10 +3,11 @@ title: Workbook.FileFormat Property (Excel)
 keywords: vbaxl10.chm199100
 f1_keywords:
 - vbaxl10.chm199100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.FileFormat
 ms.assetid: ef722c3c-90ea-9810-b853-a3fff19d5c60
+ms.date: 06/08/2017
 ---
 
 

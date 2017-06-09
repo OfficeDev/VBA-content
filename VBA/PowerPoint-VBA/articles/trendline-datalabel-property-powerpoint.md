@@ -1,9 +1,10 @@
 ---
 title: Trendline.DataLabel Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.DataLabel
 ms.assetid: 6c1a6934-3c7a-6732-c613-2adc32bd93e2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Pages.Remove Method (Outlook)
 keywords: vbaol11.chm398
 f1_keywords:
 - vbaol11.chm398
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Pages.Remove
 ms.assetid: 211b0f26-8193-6c6f-d3c5-4b8495629cf3
+ms.date: 06/08/2017
 ---
 
 

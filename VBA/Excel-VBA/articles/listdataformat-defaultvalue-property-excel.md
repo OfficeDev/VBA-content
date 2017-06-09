@@ -3,10 +3,11 @@ title: ListDataFormat.DefaultValue Property (Excel)
 keywords: vbaxl10.chm758076
 f1_keywords:
 - vbaxl10.chm758076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.DefaultValue
 ms.assetid: 503de2f7-878e-a946-9138-10922082bc0d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Font.Color Property (Excel)
 keywords: vbaxl10.chm559075
 f1_keywords:
 - vbaxl10.chm559075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.Color
 ms.assetid: a6acd8b8-f04b-6d43-15d4-78ee20b0b14d
+ms.date: 06/08/2017
 ---
 
 

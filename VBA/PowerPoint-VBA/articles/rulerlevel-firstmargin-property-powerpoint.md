@@ -3,10 +3,11 @@ title: RulerLevel.FirstMargin Property (PowerPoint)
 keywords: vbapp10.chm572003
 f1_keywords:
 - vbapp10.chm572003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RulerLevel.FirstMargin
 ms.assetid: 9149006e-d518-bb68-4244-b6047387b672
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ThemeColor Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColor
 ms.assetid: 357605ea-247d-b151-0286-4e2413658c3f
+ms.date: 06/08/2017
 ---
 
 

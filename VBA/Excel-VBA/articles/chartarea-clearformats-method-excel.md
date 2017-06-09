@@ -3,10 +3,11 @@ title: ChartArea.ClearFormats Method (Excel)
 keywords: vbaxl10.chm620082
 f1_keywords:
 - vbaxl10.chm620082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea.ClearFormats
 ms.assetid: 0af0bba7-6fb8-d221-7b1f-ba7c40ae1687
+ms.date: 06/08/2017
 ---
 
 

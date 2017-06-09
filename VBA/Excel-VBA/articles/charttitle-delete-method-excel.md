@@ -3,10 +3,11 @@ title: ChartTitle.Delete Method (Excel)
 keywords: vbaxl10.chm563077
 f1_keywords:
 - vbaxl10.chm563077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Delete
 ms.assetid: f5ad76d9-2cec-d834-283f-c1f5ab17db1b
+ms.date: 06/08/2017
 ---
 
 

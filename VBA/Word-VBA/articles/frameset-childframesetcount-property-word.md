@@ -3,10 +3,11 @@ title: Frameset.ChildFramesetCount Property (Word)
 keywords: vbawd10.chm165806085
 f1_keywords:
 - vbawd10.chm165806085
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.ChildFramesetCount
 ms.assetid: 2e6bc910-9159-d3db-a399-0abc6bd9ba20
+ms.date: 06/08/2017
 ---
 
 

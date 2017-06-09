@@ -3,10 +3,11 @@ title: OlkDateControl.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000366
 f1_keywords:
 - vbaol11.chm1000366
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.MouseUp
 ms.assetid: abe4afac-3afd-7f08-3128-650f847c692c
+ms.date: 06/08/2017
 ---
 
 

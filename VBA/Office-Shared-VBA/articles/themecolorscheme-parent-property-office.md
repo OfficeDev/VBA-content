@@ -1,9 +1,10 @@
 ---
 title: ThemeColorScheme.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Parent
 ms.assetid: da0eb01e-2833-b614-81d8-295c7f660681
+ms.date: 06/08/2017
 ---
 
 

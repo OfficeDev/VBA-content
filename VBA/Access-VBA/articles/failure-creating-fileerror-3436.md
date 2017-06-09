@@ -1,13 +1,14 @@
 ---
 title: Failure creating file. (Error 3436)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 108a44e9-77ba-65df-7b19-ecdce3d22d2c
+ms.date: 06/08/2017
 ---
 
 
 # Failure creating file. (Error 3436)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

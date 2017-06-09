@@ -3,10 +3,11 @@ title: TextEffectFormat.PresetShape Property (Publisher)
 keywords: vbapb10.chm3735815
 f1_keywords:
 - vbapb10.chm3735815
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.PresetShape
 ms.assetid: 4e98e606-d26b-aa81-0e19-5b8535ba6df1
+ms.date: 06/08/2017
 ---
 
 

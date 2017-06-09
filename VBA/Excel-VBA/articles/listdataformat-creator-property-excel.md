@@ -3,10 +3,11 @@ title: ListDataFormat.Creator Property (Excel)
 keywords: vbaxl10.chm757074
 f1_keywords:
 - vbaxl10.chm757074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.Creator
 ms.assetid: f8ac98f1-f34a-430c-16fa-d62d07c76276
+ms.date: 06/08/2017
 ---
 
 

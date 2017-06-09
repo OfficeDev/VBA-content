@@ -1,7 +1,8 @@
 ---
 title: Calendars Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: a96c7b96-f0ab-5ec3-3d16-facea61b8ee5
+ms.date: 06/08/2017
 ---
 
 

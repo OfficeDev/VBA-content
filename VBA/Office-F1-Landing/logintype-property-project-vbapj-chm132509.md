@@ -3,8 +3,9 @@ title: LoginType Property, Project [vbapj.chm132509]
 keywords: vbapj.chm132509
 f1_keywords:
 - vbapj.chm132509
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a756e4e5-e62a-465b-b18e-ff51458993c5
+ms.date: 06/08/2017
 ---
 
 

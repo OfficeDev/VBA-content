@@ -3,8 +3,9 @@ title: MenuItems Object, Visio [vis_sdr.chm10160]
 keywords: vis_sdr.chm10160
 f1_keywords:
 - vis_sdr.chm10160
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6cffcb64-f8f0-4212-8d6b-65159b684573
+ms.date: 06/08/2017
 ---
 
 

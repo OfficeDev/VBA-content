@@ -3,10 +3,11 @@ title: HorizontalLineFormat.Application Property (Word)
 keywords: vbawd10.chm165544936
 f1_keywords:
 - vbawd10.chm165544936
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.Application
 ms.assetid: 5cbb1807-97ba-1357-00e2-87fd26d3d20f
+ms.date: 06/08/2017
 ---
 
 

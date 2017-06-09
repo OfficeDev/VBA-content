@@ -3,10 +3,11 @@ title: Documents.CheckOut Method (Word)
 keywords: vbawd10.chm158072848
 f1_keywords:
 - vbawd10.chm158072848
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Documents.CheckOut
 ms.assetid: 70b89f66-7d02-ad40-d868-f6aa7b13ebdd
+ms.date: 06/08/2017
 ---
 
 

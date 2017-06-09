@@ -3,10 +3,11 @@ title: TabControl.Application Property (Access)
 keywords: vbaac10.chm12065
 f1_keywords:
 - vbaac10.chm12065
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Application
 ms.assetid: 3074f868-a6e0-954a-3211-251f516f1a6f
+ms.date: 06/08/2017
 ---
 
 

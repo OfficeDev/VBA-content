@@ -1,13 +1,14 @@
 ---
 title: LAST (Microsoft Access SQL reserved word)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 68ac1598-33ee-65e8-6875-5acc6e7803bd
+ms.date: 06/08/2017
 ---
 
 
 # LAST (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

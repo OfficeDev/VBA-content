@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Parameter Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Parameter
 ms.assetid: b5019fba-5124-5d9c-7abe-db10df32078b
+ms.date: 06/08/2017
 ---
 
 

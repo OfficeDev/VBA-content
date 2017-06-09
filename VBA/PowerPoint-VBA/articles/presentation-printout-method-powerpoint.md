@@ -3,10 +3,11 @@ title: Presentation.PrintOut Method (PowerPoint)
 keywords: vbapp10.chm583034
 f1_keywords:
 - vbapp10.chm583034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.PrintOut
 ms.assetid: 57685390-43c1-4bd4-d2ee-ba34641e34c5
+ms.date: 06/08/2017
 ---
 
 

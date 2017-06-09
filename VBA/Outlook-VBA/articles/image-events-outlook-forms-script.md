@@ -1,7 +1,8 @@
 ---
 title: Image Events (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9ac98d3e-def5-4d92-be0f-12f3ed6eb171
+ms.date: 06/08/2017
 ---
 
 

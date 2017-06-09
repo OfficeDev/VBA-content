@@ -3,10 +3,11 @@ title: Documents.Count Property (Publisher)
 keywords: vbapb10.chm8650753
 f1_keywords:
 - vbapb10.chm8650753
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Documents.Count
 ms.assetid: fe637a72-a96c-abfb-fa17-421848db5396
+ms.date: 06/08/2017
 ---
 
 

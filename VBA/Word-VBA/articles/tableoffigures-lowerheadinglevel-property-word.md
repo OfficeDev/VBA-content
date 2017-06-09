@@ -3,10 +3,11 @@ title: TableOfFigures.LowerHeadingLevel Property (Word)
 keywords: vbawd10.chm153157637
 f1_keywords:
 - vbawd10.chm153157637
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.LowerHeadingLevel
 ms.assetid: 5408cb26-a24b-4898-bf38-021357ce1633
+ms.date: 06/08/2017
 ---
 
 

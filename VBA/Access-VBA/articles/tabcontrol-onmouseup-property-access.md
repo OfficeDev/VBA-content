@@ -3,10 +3,11 @@ title: TabControl.OnMouseUp Property (Access)
 keywords: vbaac10.chm12109
 f1_keywords:
 - vbaac10.chm12109
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnMouseUp
 ms.assetid: 91489f10-4903-1eeb-6530-832b644c624f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DataColumns Object (Visio)
 keywords: vis_sdr.chm61015
 f1_keywords:
 - vis_sdr.chm61015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataColumns
 ms.assetid: 620a56f5-d552-1247-22fb-18d07993d5ad
+ms.date: 06/08/2017
 ---
 
 

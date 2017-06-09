@@ -3,10 +3,11 @@ title: TabControl.Enabled Property (Access)
 keywords: vbaac10.chm12078
 f1_keywords:
 - vbaac10.chm12078
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Enabled
 ms.assetid: 902b88fc-b0dc-65b4-24c3-22030aedb1bb
+ms.date: 06/08/2017
 ---
 
 

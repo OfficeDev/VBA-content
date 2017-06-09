@@ -1,9 +1,10 @@
 ---
 title: Assignment.Text4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text4
 ms.assetid: 1690718d-d1f2-f4fb-eff1-50719a6cc05c
+ms.date: 06/08/2017
 ---
 
 

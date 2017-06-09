@@ -1,9 +1,10 @@
 ---
 title: Font2.StrikeThrough Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.StrikeThrough
 ms.assetid: d40062d9-0a38-2aaa-9675-57a90cbde1dc
+ms.date: 06/08/2017
 ---
 
 

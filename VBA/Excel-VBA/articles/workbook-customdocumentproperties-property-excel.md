@@ -3,10 +3,11 @@ title: Workbook.CustomDocumentProperties Property (Excel)
 keywords: vbaxl10.chm199094
 f1_keywords:
 - vbaxl10.chm199094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.CustomDocumentProperties
 ms.assetid: 8470adbb-5b10-96ba-71f7-c667c33b6707
+ms.date: 06/08/2017
 ---
 
 

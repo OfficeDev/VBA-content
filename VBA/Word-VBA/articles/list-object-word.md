@@ -3,10 +3,11 @@ title: List Object (Word)
 keywords: vbawd10.chm2450
 f1_keywords:
 - vbawd10.chm2450
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List
 ms.assetid: 2c3dae28-447a-af48-2966-e19ae75ab6c2
+ms.date: 06/08/2017
 ---
 
 

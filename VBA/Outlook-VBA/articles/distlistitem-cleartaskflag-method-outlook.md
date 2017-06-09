@@ -3,10 +3,11 @@ title: DistListItem.ClearTaskFlag Method (Outlook)
 keywords: vbaol11.chm3036
 f1_keywords:
 - vbaol11.chm3036
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ClearTaskFlag
 ms.assetid: 198ff98f-2ea8-e235-42c3-b8722d49c34d
+ms.date: 06/08/2017
 ---
 
 

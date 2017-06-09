@@ -1,6 +1,8 @@
 ---
 title: MsoChartFieldType Enumeration (Office)
 ms.assetid: ce6b367d-d09f-4345-33e3-f181b1a9a41d
+ms.date: 06/08/2017
+ms.prod: office
 ---
 
 

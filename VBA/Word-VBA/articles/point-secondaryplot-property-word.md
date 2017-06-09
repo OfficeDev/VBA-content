@@ -3,10 +3,11 @@ title: Point.SecondaryPlot Property (Word)
 keywords: vbawd10.chm262145662
 f1_keywords:
 - vbawd10.chm262145662
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.SecondaryPlot
 ms.assetid: 89e56434-2b5a-b93c-cf18-8045cdf2da96
+ms.date: 06/08/2017
 ---
 
 

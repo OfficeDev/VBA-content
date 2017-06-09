@@ -1,9 +1,10 @@
 ---
 title: Application.IsOffline Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.IsOffline
 ms.assetid: fd844bc5-4b7f-7f4c-a11b-5b26bfe314d2
+ms.date: 06/08/2017
 ---
 
 

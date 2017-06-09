@@ -3,10 +3,11 @@ title: IRibbonUI Object (Office)
 keywords: vbaof11.chm320000
 f1_keywords:
 - vbaof11.chm320000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI
 ms.assetid: d323aa21-de74-e821-c914-db71ef3b9c5e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: QueryCancelConvertToGroup Event, Visio [vis_sdr.chm10019325]
 keywords: vis_sdr.chm10019325
 f1_keywords:
 - vis_sdr.chm10019325
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 783be218-30ff-4304-9856-0cc996689926
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AutoCaption Object (Word)
 keywords: vbawd10.chm2427
 f1_keywords:
 - vbawd10.chm2427
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCaption
 ms.assetid: 895b5181-d36f-7f63-572a-c2d37c878e17
+ms.date: 06/08/2017
 ---
 
 

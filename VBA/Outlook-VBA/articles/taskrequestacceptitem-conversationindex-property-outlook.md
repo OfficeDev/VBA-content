@@ -3,10 +3,11 @@ title: TaskRequestAcceptItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm1780
 f1_keywords:
 - vbaol11.chm1780
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.ConversationIndex
 ms.assetid: b59b0e35-4e93-a7b7-6896-2225d17162f4
+ms.date: 06/08/2017
 ---
 
 

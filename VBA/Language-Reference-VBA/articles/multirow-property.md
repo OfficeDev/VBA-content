@@ -3,10 +3,11 @@ title: MultiRow Property
 keywords: fm20.chm5225068
 f1_keywords:
 - fm20.chm5225068
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MultiRow
 ms.assetid: 2030addd-5a90-e94f-9647-a4aa50e68690
+ms.date: 06/08/2017
 ---
 
 

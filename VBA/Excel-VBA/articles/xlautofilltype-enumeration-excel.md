@@ -1,9 +1,10 @@
 ---
 title: XlAutoFillType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlAutoFillType
 ms.assetid: bfb09be7-8922-ef4b-751e-c8972536b723
+ms.date: 06/08/2017
 ---
 
 

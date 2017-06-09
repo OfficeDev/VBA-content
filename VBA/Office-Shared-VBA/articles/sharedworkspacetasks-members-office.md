@@ -1,7 +1,8 @@
 ---
 title: SharedWorkspaceTasks Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6323d5c3-b1ed-af53-25e6-e97b22554699
+ms.date: 06/08/2017
 ---
 
 

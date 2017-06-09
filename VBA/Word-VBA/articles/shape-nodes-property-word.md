@@ -3,10 +3,11 @@ title: Shape.Nodes Property (Word)
 keywords: vbawd10.chm161480820
 f1_keywords:
 - vbawd10.chm161480820
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Nodes
 ms.assetid: 90904836-e4c4-bbf5-c306-982c9f839ebe
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Availability.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availability.Parent
 ms.assetid: 8fc6f0dc-3f8b-1bc6-619f-0dbfa84015b6
+ms.date: 06/08/2017
 ---
 
 

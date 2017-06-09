@@ -3,10 +3,11 @@ title: TableOfFigures.UpperHeadingLevel Property (Word)
 keywords: vbawd10.chm153157638
 f1_keywords:
 - vbawd10.chm153157638
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.UpperHeadingLevel
 ms.assetid: bfda7885-8aec-96d7-2bdf-93ddd2804385
+ms.date: 06/08/2017
 ---
 
 

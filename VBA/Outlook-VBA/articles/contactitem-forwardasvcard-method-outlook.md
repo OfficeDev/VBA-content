@@ -3,10 +3,11 @@ title: ContactItem.ForwardAsVcard Method (Outlook)
 keywords: vbaol11.chm1079
 f1_keywords:
 - vbaol11.chm1079
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ForwardAsVcard
 ms.assetid: 3d4f0154-9860-823f-c316-c88e410b59c3
+ms.date: 06/08/2017
 ---
 
 

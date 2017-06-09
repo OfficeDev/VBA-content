@@ -1,9 +1,10 @@
 ---
 title: Task.Baseline2Start Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline2Start
 ms.assetid: c2802511-429e-52c8-0fa9-e773fe9b13af
+ms.date: 06/08/2017
 ---
 
 

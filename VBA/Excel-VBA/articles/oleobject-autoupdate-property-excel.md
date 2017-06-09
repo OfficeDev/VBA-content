@@ -3,10 +3,11 @@ title: OLEObject.AutoUpdate Property (Excel)
 keywords: vbaxl10.chm417075
 f1_keywords:
 - vbaxl10.chm417075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.AutoUpdate
 ms.assetid: 3834c552-a282-ab75-781e-42c055346b7d
+ms.date: 06/08/2017
 ---
 
 

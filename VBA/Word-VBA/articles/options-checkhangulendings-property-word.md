@@ -3,10 +3,11 @@ title: Options.CheckHangulEndings Property (Word)
 keywords: vbawd10.chm162988373
 f1_keywords:
 - vbawd10.chm162988373
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CheckHangulEndings
 ms.assetid: fdb1e463-62d9-7053-13b2-e5dec345912e
+ms.date: 06/08/2017
 ---
 
 

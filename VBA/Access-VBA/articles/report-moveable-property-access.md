@@ -3,10 +3,11 @@ title: Report.Moveable Property (Access)
 keywords: vbaac10.chm13811
 f1_keywords:
 - vbaac10.chm13811
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Moveable
 ms.assetid: 77e682a5-7a0f-f55e-a469-2770bb2de844
+ms.date: 06/08/2017
 ---
 
 

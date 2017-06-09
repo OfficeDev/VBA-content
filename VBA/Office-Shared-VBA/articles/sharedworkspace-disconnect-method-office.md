@@ -3,10 +3,11 @@ title: SharedWorkspace.Disconnect Method (Office)
 keywords: vbaof11.chm276016
 f1_keywords:
 - vbaof11.chm276016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.Disconnect
 ms.assetid: a742bdc5-4fe1-fa51-bdb9-290fd7179ea7
+ms.date: 06/08/2017
 ---
 
 

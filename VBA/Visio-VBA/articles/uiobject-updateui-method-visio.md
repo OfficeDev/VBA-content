@@ -3,10 +3,11 @@ title: UIObject.UpdateUI Method (Visio)
 keywords: vis_sdr.chm14916640
 f1_keywords:
 - vis_sdr.chm14916640
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.UpdateUI
 ms.assetid: d5aefb7a-5d6f-5835-4c38-521aeceea289
+ms.date: 06/08/2017
 ---
 
 

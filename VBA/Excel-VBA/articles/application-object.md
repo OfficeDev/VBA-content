@@ -3,10 +3,11 @@ title: Application Object
 keywords: vbagr10.chm3077640
 f1_keywords:
 - vbagr10.chm3077640
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application
 ms.assetid: 553a0ee2-83da-6d32-f082-15e93e7b0e4d
+ms.date: 06/08/2017
 ---
 
 

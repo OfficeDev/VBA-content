@@ -3,10 +3,11 @@ title: Range.Copy Method (Word)
 keywords: vbawd10.chm157155448
 f1_keywords:
 - vbawd10.chm157155448
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Copy
 ms.assetid: c13c5310-cad2-c520-7304-507b81112551
+ms.date: 06/08/2017
 ---
 
 

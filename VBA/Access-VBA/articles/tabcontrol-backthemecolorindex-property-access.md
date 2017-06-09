@@ -3,10 +3,11 @@ title: TabControl.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BackThemeColorIndex
 ms.assetid: 696df45f-b0b7-f0ec-122e-1bd2241b09a7
+ms.date: 06/08/2017
 ---
 
 

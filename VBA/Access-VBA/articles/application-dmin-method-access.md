@@ -3,10 +3,11 @@ title: Application.DMin Method (Access)
 keywords: vbaac10.chm12525
 f1_keywords:
 - vbaac10.chm12525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DMin
 ms.assetid: d41b1852-7d97-ddfe-d071-8a1a7b42359b
+ms.date: 06/08/2017
 ---
 
 

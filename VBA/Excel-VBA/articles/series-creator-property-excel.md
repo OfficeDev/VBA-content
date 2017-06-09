@@ -3,10 +3,11 @@ title: Series.Creator Property (Excel)
 keywords: vbaxl10.chm577074
 f1_keywords:
 - vbaxl10.chm577074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Creator
 ms.assetid: f0c855a2-6901-be4f-13e2-426b97d34ef8
+ms.date: 06/08/2017
 ---
 
 

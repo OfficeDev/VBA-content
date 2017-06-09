@@ -3,10 +3,11 @@ title: TaskPanes.Item Method (Word)
 keywords: vbawd10.chm201654272
 f1_keywords:
 - vbawd10.chm201654272
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TaskPanes.Item
 ms.assetid: 1c4697cc-8ec6-8281-e43e-d1efdcd1b7e5
+ms.date: 06/08/2017
 ---
 
 

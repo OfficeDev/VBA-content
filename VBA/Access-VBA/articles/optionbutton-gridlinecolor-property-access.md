@@ -3,10 +3,11 @@ title: OptionButton.GridlineColor Property (Access)
 keywords: vbaac10.chm10653
 f1_keywords:
 - vbaac10.chm10653
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.GridlineColor
 ms.assetid: 23cdfbdf-6e89-8d2a-bb4a-29ee0a13af37
+ms.date: 06/08/2017
 ---
 
 

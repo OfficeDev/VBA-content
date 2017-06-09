@@ -3,10 +3,11 @@ title: QueryTable.TextFileVisualLayout Property (Excel)
 keywords: vbaxl10.chm518137
 f1_keywords:
 - vbaxl10.chm518137
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileVisualLayout
 ms.assetid: 13105ba8-945d-9e9b-f90c-9059e2ade9f1
+ms.date: 06/08/2017
 ---
 
 

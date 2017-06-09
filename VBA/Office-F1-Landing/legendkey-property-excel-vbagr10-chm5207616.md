@@ -3,8 +3,9 @@ title: LegendKey Property, Excel [vbagr10.chm5207616]
 keywords: vbagr10.chm5207616
 f1_keywords:
 - vbagr10.chm5207616
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5fccf6cf-b8d1-4f1d-aea4-cabcae93419a
+ms.date: 06/08/2017
 ---
 
 

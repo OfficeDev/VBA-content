@@ -1,7 +1,8 @@
 ---
 title: TextBox.SelStart Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a650448b-694d-3ba6-dbac-3b6890589cd3
+ms.date: 06/08/2017
 ---
 
 

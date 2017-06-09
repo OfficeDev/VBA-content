@@ -3,10 +3,11 @@ title: RedoAction Method
 keywords: fm20.chm5224966
 f1_keywords:
 - fm20.chm5224966
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RedoAction
 ms.assetid: a4aba525-5cbe-1a68-aec6-731fb5f78464
+ms.date: 06/08/2017
 ---
 
 

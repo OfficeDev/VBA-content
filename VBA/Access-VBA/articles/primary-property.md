@@ -3,16 +3,17 @@ title: Primary Property
 keywords: vbaac10.chm4470
 f1_keywords:
 - vbaac10.chm4470
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Primary
 ms.assetid: 782e3341-f47a-2054-9884-1feb2e68496c
+ms.date: 06/08/2017
 ---
 
 
 # Primary Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

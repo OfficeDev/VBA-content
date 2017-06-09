@@ -3,10 +3,11 @@ title: ChartGroup Object (Word)
 keywords: vbawd10.chm4020
 f1_keywords:
 - vbawd10.chm4020
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup
 ms.assetid: ea5a2610-9c00-9c95-8366-f9b0fcdf90be
+ms.date: 06/08/2017
 ---
 
 

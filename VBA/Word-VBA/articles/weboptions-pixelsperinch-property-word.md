@@ -3,10 +3,11 @@ title: WebOptions.PixelsPerInch Property (Word)
 keywords: vbawd10.chm165937161
 f1_keywords:
 - vbawd10.chm165937161
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.PixelsPerInch
 ms.assetid: b5f8db0d-b3f9-4834-8228-1b2ad1b8e180
+ms.date: 06/08/2017
 ---
 
 

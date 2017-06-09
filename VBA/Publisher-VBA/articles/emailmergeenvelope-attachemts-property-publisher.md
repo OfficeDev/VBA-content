@@ -3,10 +3,11 @@ title: EmailMergeEnvelope.Attachemts Property (Publisher)
 keywords: vbapb10.chm9043975
 f1_keywords:
 - vbapb10.chm9043975
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Attachemts
 ms.assetid: 53948bf7-2727-7b9c-a645-c9b954d5e023
+ms.date: 06/08/2017
 ---
 
 

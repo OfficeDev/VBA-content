@@ -3,10 +3,11 @@ title: TabControl.RightPadding Property (Access)
 keywords: vbaac10.chm14538
 f1_keywords:
 - vbaac10.chm14538
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.RightPadding
 ms.assetid: 03474457-ab92-5892-6fcc-fe397de5035d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Profile.Name Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Profile.Name
 ms.assetid: 98e1ca12-ecaa-aaae-de48-352301c28e50
+ms.date: 06/08/2017
 ---
 
 

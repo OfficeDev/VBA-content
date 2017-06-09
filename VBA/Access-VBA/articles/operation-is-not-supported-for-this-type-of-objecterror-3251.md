@@ -3,14 +3,15 @@ title: Operation is not supported for this type of object. (Error 3251)
 keywords: jeterr40.chm5003251
 f1_keywords:
 - jeterr40.chm5003251
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d6a18e82-02ab-4514-6e31-3960e972dd0b
+ms.date: 06/08/2017
 ---
 
 
 # Operation is not supported for this type of object. (Error 3251)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

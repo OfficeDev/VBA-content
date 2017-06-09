@@ -3,10 +3,11 @@ title: Report.FontItalic Property (Access)
 keywords: vbaac10.chm13749
 f1_keywords:
 - vbaac10.chm13749
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.FontItalic
 ms.assetid: e6cc9478-2bbd-6a80-daff-95e160bdcbe6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The size of the Registry parameter exceeds the maximum allowed. (Error 35
 keywords: jeterr40.chm5003552
 f1_keywords:
 - jeterr40.chm5003552
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3102f5c2-66c7-50cb-19ba-6d04e1d95fb2
+ms.date: 06/08/2017
 ---
 
 
 # The size of the Registry parameter exceeds the maximum allowed. (Error 3552)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

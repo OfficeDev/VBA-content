@@ -3,14 +3,15 @@ title: The KeepLocal property cannot be set on a database; it can be set only on
 keywords: jeterr40.chm5003458
 f1_keywords:
 - jeterr40.chm5003458
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5dfad53d-f80a-9b48-799c-dde65512e829
+ms.date: 06/08/2017
 ---
 
 
 # The KeepLocal property cannot be set on a database; it can be set only on the objects in a database. (Error 3458)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

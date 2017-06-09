@@ -3,10 +3,11 @@ title: SharedWorkspaceTask.Title Property (Office)
 keywords: vbaof11.chm264001
 f1_keywords:
 - vbaof11.chm264001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Title
 ms.assetid: 038d24fe-5afa-c61d-16e7-7a8c8fca2ccf
+ms.date: 06/08/2017
 ---
 
 

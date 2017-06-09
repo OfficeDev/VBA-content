@@ -3,10 +3,11 @@ title: ColorFormat.Parent Property (Word)
 keywords: vbawd10.chm163971073
 f1_keywords:
 - vbawd10.chm163971073
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ColorFormat.Parent
 ms.assetid: bfb87df8-bddc-ae3e-ad7b-2536307e92c5
+ms.date: 06/08/2017
 ---
 
 

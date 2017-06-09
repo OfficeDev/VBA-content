@@ -1,9 +1,10 @@
 ---
 title: SharingItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Open
 ms.assetid: b795dbfa-2d47-0ee4-98ef-0c44bb6a0bec
+ms.date: 06/08/2017
 ---
 
 

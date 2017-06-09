@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.StyleAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.StyleAdded
 ms.assetid: f6918406-51ab-8c9a-a8a2-d9f672ef7efc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: FileDateTime Function
 keywords: vblr6.chm1008921
 f1_keywords:
 - vblr6.chm1008921
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4a54c4c-dc61-cb70-38b4-9c5506cfe789
+ms.date: 06/08/2017
 ---
 
 

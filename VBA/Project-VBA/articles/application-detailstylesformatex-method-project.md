@@ -3,10 +3,11 @@ title: Application.DetailStylesFormatEx Method (Project)
 keywords: vbapj.chm2164
 f1_keywords:
 - vbapj.chm2164
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailStylesFormatEx
 ms.assetid: 3e460e76-ff7b-f07b-058c-1e37c53e453e
+ms.date: 06/08/2017
 ---
 
 

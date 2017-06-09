@@ -3,10 +3,11 @@ title: Tags.Count Property (Publisher)
 keywords: vbapb10.chm4653059
 f1_keywords:
 - vbapb10.chm4653059
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Tags.Count
 ms.assetid: 46d443a3-643b-a43f-a77e-19a32af67217
+ms.date: 06/08/2017
 ---
 
 

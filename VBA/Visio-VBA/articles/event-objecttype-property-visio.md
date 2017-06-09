@@ -3,10 +3,11 @@ title: Event.ObjectType Property (Visio)
 keywords: vis_sdr.chm12613960
 f1_keywords:
 - vis_sdr.chm12613960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.ObjectType
 ms.assetid: f391f85f-8ef1-a7d5-22aa-d60bae7eb18b
+ms.date: 06/08/2017
 ---
 
 

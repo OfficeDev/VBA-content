@@ -3,10 +3,11 @@ title: ConnectorFormat.BeginConnect Method (PowerPoint)
 keywords: vbapp10.chm555002
 f1_keywords:
 - vbapp10.chm555002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.BeginConnect
 ms.assetid: d8762e6c-e628-b290-9847-a60bdd1f297e
+ms.date: 06/08/2017
 ---
 
 

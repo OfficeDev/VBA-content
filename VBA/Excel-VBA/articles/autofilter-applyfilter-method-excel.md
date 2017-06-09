@@ -3,10 +3,11 @@ title: AutoFilter.ApplyFilter Method (Excel)
 keywords: vbaxl10.chm538077
 f1_keywords:
 - vbaxl10.chm538077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoFilter.ApplyFilter
 ms.assetid: 5707966d-79c3-0538-9df2-1feecf1e793d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListFormat.SingleListTemplate Property (Word)
 keywords: vbawd10.chm163577929
 f1_keywords:
 - vbawd10.chm163577929
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.SingleListTemplate
 ms.assetid: 9f02aa2f-c855-b117-c031-d03bac3d5f53
+ms.date: 06/08/2017
 ---
 
 

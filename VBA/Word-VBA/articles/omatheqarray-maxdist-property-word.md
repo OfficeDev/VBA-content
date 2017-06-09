@@ -3,10 +3,11 @@ title: OMathEqArray.MaxDist Property (Word)
 keywords: vbawd10.chm174129256
 f1_keywords:
 - vbawd10.chm174129256
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathEqArray.MaxDist
 ms.assetid: 04c3ce5e-afc3-8565-0d1c-21c899f40302
+ms.date: 06/08/2017
 ---
 
 

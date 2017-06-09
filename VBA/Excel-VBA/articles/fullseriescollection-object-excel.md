@@ -3,8 +3,9 @@ title: FullSeriesCollection Object (Excel)
 keywords: vbaxl10.chm943072
 f1_keywords:
 - vbaxl10.chm943072
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 5d7b7e7c-0a74-307b-84f9-56143ceba464
+ms.date: 06/08/2017
 ---
 
 

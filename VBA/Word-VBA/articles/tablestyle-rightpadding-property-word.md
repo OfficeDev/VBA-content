@@ -3,10 +3,11 @@ title: TableStyle.RightPadding Property (Word)
 keywords: vbawd10.chm244776967
 f1_keywords:
 - vbawd10.chm244776967
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.RightPadding
 ms.assetid: 384595df-a12a-9d2b-1387-81eb4e92a906
+ms.date: 06/08/2017
 ---
 
 

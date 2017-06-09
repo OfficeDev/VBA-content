@@ -3,10 +3,11 @@ title: WorksheetFunction.DVar Method (Excel)
 keywords: vbaxl10.chm137101
 f1_keywords:
 - vbaxl10.chm137101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DVar
 ms.assetid: 01f75308-fab4-1373-3fd3-c2362ddc7791
+ms.date: 06/08/2017
 ---
 
 

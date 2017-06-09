@@ -3,10 +3,11 @@ title: SlideRange.NotesPage Property (PowerPoint)
 keywords: vbapp10.chm532022
 f1_keywords:
 - vbapp10.chm532022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.NotesPage
 ms.assetid: 15300d0d-3ece-6071-83b5-23108b6be512
+ms.date: 06/08/2017
 ---
 
 

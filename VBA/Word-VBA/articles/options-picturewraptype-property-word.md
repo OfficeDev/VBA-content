@@ -3,10 +3,11 @@ title: Options.PictureWrapType Property (Word)
 keywords: vbawd10.chm162988468
 f1_keywords:
 - vbawd10.chm162988468
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PictureWrapType
 ms.assetid: bb0cc23d-d58c-c506-c6f9-e4ccf5f2a8ac
+ms.date: 06/08/2017
 ---
 
 

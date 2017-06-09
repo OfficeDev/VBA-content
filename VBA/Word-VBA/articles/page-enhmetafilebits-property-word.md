@@ -3,10 +3,11 @@ title: Page.EnhMetaFileBits Property (Word)
 keywords: vbawd10.chm11075592
 f1_keywords:
 - vbawd10.chm11075592
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.EnhMetaFileBits
 ms.assetid: 7d59c1a4-4943-02f8-25f2-4b50d330cc28
+ms.date: 06/08/2017
 ---
 
 

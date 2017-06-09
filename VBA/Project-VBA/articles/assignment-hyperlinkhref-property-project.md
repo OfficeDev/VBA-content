@@ -1,9 +1,10 @@
 ---
 title: Assignment.HyperlinkHREF Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.HyperlinkHREF
 ms.assetid: 7e8f761d-3167-2e43-fb73-40528f567153
+ms.date: 06/08/2017
 ---
 
 

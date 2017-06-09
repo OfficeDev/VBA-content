@@ -3,10 +3,11 @@ title: Endnotes.StartingNumber Property (Word)
 keywords: vbawd10.chm155254886
 f1_keywords:
 - vbawd10.chm155254886
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.StartingNumber
 ms.assetid: 32e8e638-4782-a841-b971-d389406518db
+ms.date: 06/08/2017
 ---
 
 

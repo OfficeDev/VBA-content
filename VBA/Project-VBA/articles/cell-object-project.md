@@ -1,9 +1,10 @@
 ---
 title: Cell Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell
 ms.assetid: 553c50f1-1288-72b8-e2d2-74b3aee988c9
+ms.date: 06/08/2017
 ---
 
 

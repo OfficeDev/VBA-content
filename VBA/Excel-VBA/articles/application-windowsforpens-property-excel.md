@@ -3,10 +3,11 @@ title: Application.WindowsForPens Property (Excel)
 keywords: vbaxl10.chm133233
 f1_keywords:
 - vbaxl10.chm133233
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WindowsForPens
 ms.assetid: 798c0bd0-80f3-f6bd-a5d0-9abd88317bbc
+ms.date: 06/08/2017
 ---
 
 

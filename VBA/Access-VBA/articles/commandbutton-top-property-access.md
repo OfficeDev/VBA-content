@@ -3,10 +3,11 @@ title: CommandButton.Top Property (Access)
 keywords: vbaac10.chm10468
 f1_keywords:
 - vbaac10.chm10468
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Top
 ms.assetid: 0c2207a6-5d99-0409-58e5-6a9ec2716e77
+ms.date: 06/08/2017
 ---
 
 

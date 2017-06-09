@@ -3,10 +3,11 @@ title: AppointmentItem.CopyTo Method (Outlook)
 keywords: vbaol11.chm3517
 f1_keywords:
 - vbaol11.chm3517
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.CopyTo
 ms.assetid: 50b8e820-fdb9-1ee9-289b-99be037300c4
+ms.date: 06/08/2017
 ---
 
 

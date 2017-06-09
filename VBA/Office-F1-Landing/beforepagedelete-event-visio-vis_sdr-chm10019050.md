@@ -3,8 +3,9 @@ title: BeforePageDelete Event, Visio [vis_sdr.chm10019050]
 keywords: vis_sdr.chm10019050
 f1_keywords:
 - vis_sdr.chm10019050
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2706613b-4222-4baa-b3c8-74090d3e71a5
+ms.date: 06/08/2017
 ---
 
 

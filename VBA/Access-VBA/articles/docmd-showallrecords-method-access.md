@@ -3,10 +3,11 @@ title: DoCmd.ShowAllRecords Method (Access)
 keywords: vbaac10.chm4184
 f1_keywords:
 - vbaac10.chm4184
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.ShowAllRecords
 ms.assetid: 765ead1a-d626-3a54-1831-1490fc8daacc
+ms.date: 06/08/2017
 ---
 
 

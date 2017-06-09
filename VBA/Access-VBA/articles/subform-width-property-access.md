@@ -3,10 +3,11 @@ title: SubForm.Width Property (Access)
 keywords: vbaac10.chm11940
 f1_keywords:
 - vbaac10.chm11940
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Width
 ms.assetid: da0c1b22-1373-63da-5a02-7f4fe7d1aef2
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: InternetTimeout Property Example (VC++)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 56c0d0df-8f8b-428f-ece9-ae5b98c9b820
+ms.date: 06/08/2017
 ---
 
 
 # InternetTimeout Property Example (VC++)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

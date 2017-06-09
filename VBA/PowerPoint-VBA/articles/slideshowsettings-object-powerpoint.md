@@ -3,10 +3,11 @@ title: SlideShowSettings Object (PowerPoint)
 keywords: vbapp10.chm514000
 f1_keywords:
 - vbapp10.chm514000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings
 ms.assetid: d58c7c3b-a1cc-d819-b386-fd3fb7f967a2
+ms.date: 06/08/2017
 ---
 
 

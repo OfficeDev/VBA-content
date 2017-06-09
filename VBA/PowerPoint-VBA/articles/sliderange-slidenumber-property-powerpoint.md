@@ -3,10 +3,11 @@ title: SlideRange.SlideNumber Property (PowerPoint)
 keywords: vbapp10.chm532019
 f1_keywords:
 - vbapp10.chm532019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.SlideNumber
 ms.assetid: 2fee7966-26b8-4ed1-adb4-cff9ce6ba37f
+ms.date: 06/08/2017
 ---
 
 

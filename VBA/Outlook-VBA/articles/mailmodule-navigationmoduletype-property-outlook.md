@@ -3,10 +3,11 @@ title: MailModule.NavigationModuleType Property (Outlook)
 keywords: vbaol11.chm3242
 f1_keywords:
 - vbaol11.chm3242
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailModule.NavigationModuleType
 ms.assetid: d73c9fba-b768-4a40-2a18-9128e226b42d
+ms.date: 06/08/2017
 ---
 
 

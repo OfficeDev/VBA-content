@@ -3,10 +3,11 @@ title: LetterContent.IncludeHeaderFooter Property (Word)
 keywords: vbawd10.chm161546342
 f1_keywords:
 - vbawd10.chm161546342
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.IncludeHeaderFooter
 ms.assetid: 365fe58d-ef60-436e-a942-d43f12bafee8
+ms.date: 06/08/2017
 ---
 
 

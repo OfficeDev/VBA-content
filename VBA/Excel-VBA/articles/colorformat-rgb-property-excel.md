@@ -3,10 +3,11 @@ title: ColorFormat.RGB Property (Excel)
 keywords: vbaxl10.chm105002
 f1_keywords:
 - vbaxl10.chm105002
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorFormat.RGB
 ms.assetid: 5a190b70-3b23-ae13-6b7f-8b101d0de15d
+ms.date: 06/08/2017
 ---
 
 

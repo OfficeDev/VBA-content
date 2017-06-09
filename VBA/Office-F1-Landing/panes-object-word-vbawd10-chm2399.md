@@ -3,8 +3,9 @@ title: Panes Object, Word [vbawd10.chm2399]
 keywords: vbawd10.chm2399
 f1_keywords:
 - vbawd10.chm2399
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 70638d20-3d57-4422-ad93-7dfadab2bafd
+ms.date: 06/08/2017
 ---
 
 

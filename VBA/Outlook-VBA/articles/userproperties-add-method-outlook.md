@@ -3,10 +3,11 @@ title: UserProperties.Add Method (Outlook)
 keywords: vbaol11.chm209
 f1_keywords:
 - vbaol11.chm209
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperties.Add
 ms.assetid: 88b86622-2234-77be-41e7-b76b0b3a75ad
+ms.date: 06/08/2017
 ---
 
 

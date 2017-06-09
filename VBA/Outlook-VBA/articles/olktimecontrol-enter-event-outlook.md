@@ -3,10 +3,11 @@ title: OlkTimeControl.Enter Event (Outlook)
 keywords: vbaol11.chm1000406
 f1_keywords:
 - vbaol11.chm1000406
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.Enter
 ms.assetid: 281db870-29af-01b0-ee77-7041ad759645
+ms.date: 06/08/2017
 ---
 
 

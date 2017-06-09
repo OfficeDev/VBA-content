@@ -3,10 +3,11 @@ title: PivotFormula.Value Property (Excel)
 keywords: vbaxl10.chm231076
 f1_keywords:
 - vbaxl10.chm231076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFormula.Value
 ms.assetid: a82beff5-d8ee-9d93-7ec9-4e3ecc05f624
+ms.date: 06/08/2017
 ---
 
 

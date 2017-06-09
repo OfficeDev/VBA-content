@@ -3,10 +3,11 @@ title: FillFormat.Type Property (Excel)
 keywords: vbaxl10.chm115023
 f1_keywords:
 - vbaxl10.chm115023
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.Type
 ms.assetid: 6542e486-e461-7b1d-fb2c-213bae93b279
+ms.date: 06/08/2017
 ---
 
 

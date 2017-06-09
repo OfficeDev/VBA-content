@@ -3,10 +3,11 @@ title: Hyperlinks.ItemU Property (Visio)
 keywords: vis_sdr.chm15651980
 f1_keywords:
 - vis_sdr.chm15651980
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlinks.ItemU
 ms.assetid: 6ab613ce-1dd9-1e71-dea8-4d5a01a565da
+ms.date: 06/08/2017
 ---
 
 

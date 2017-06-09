@@ -3,8 +3,9 @@ title: CategoryCollection.Application Property (Word)
 keywords: vbawd10.chm204275860
 f1_keywords:
 - vbawd10.chm204275860
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 54d1575e-dcf9-1c20-0efe-9a013b5f828b
+ms.date: 06/08/2017
 ---
 
 

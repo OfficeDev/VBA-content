@@ -3,10 +3,11 @@ title: Window.ShowSourceDocuments Property (Word)
 keywords: vbawd10.chm157417510
 f1_keywords:
 - vbawd10.chm157417510
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.ShowSourceDocuments
 ms.assetid: 693cebe8-ec07-15aa-896a-e4cc7f7e0aad
+ms.date: 06/08/2017
 ---
 
 

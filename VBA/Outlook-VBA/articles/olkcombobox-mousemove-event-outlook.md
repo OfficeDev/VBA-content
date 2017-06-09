@@ -3,10 +3,11 @@ title: OlkComboBox.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000238
 f1_keywords:
 - vbaol11.chm1000238
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MouseMove
 ms.assetid: d0c797e7-7503-2a2f-04ef-d9315a0e8540
+ms.date: 06/08/2017
 ---
 
 

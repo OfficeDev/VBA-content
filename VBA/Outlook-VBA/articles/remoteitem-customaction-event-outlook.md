@@ -1,9 +1,10 @@
 ---
 title: RemoteItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.CustomAction
 ms.assetid: 4c662153-6de7-8e6b-021c-f7f407e0d790
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Access the Values of a Multi-valued Property in a Table
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e914b32b-d290-705b-d4fc-fecfba85fd8b
+ms.date: 06/08/2017
 ---
 
 

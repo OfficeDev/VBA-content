@@ -3,10 +3,11 @@ title: IRibbonControl.Tag Property (Office)
 keywords: vbaof11.chm288003
 f1_keywords:
 - vbaof11.chm288003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonControl.Tag
 ms.assetid: d0f041c0-d7bc-7a4f-df9b-ba62fa08f1ca
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotItem.DrilledDown Property (Excel)
 keywords: vbaxl10.chm246091
 f1_keywords:
 - vbaxl10.chm246091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItem.DrilledDown
 ms.assetid: 863909c6-7d2c-4b54-7fb9-de79a6487e4d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Row.Index Property (Visio)
 keywords: vis_sdr.chm15813695
 f1_keywords:
 - vis_sdr.chm15813695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.Index
 ms.assetid: 16018421-c47a-4375-c8d9-c2f5b8c81a12
+ms.date: 06/08/2017
 ---
 
 

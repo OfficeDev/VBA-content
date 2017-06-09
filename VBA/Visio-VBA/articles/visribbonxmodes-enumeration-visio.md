@@ -3,10 +3,11 @@ title: VisRibbonXModes Enumeration (Visio)
 keywords: vis_sdr.chm70570
 f1_keywords:
 - vis_sdr.chm70570
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRibbonXModes
 ms.assetid: 80f01121-3ea5-1ba8-bbea-ba81936ea4ae
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Flag15 Property, Project [vbapj.chm132241]
 keywords: vbapj.chm132241
 f1_keywords:
 - vbapj.chm132241
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac65bbad-1420-478d-8802-34b7cc9055c2
+ms.date: 06/08/2017
 ---
 
 

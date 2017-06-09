@@ -3,10 +3,11 @@ title: SpellingOptions.GermanPostReform Property (Excel)
 keywords: vbaxl10.chm717079
 f1_keywords:
 - vbaxl10.chm717079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.GermanPostReform
 ms.assetid: 52e7c958-9122-ee2e-c5c1-335a2c2b520b
+ms.date: 06/08/2017
 ---
 
 

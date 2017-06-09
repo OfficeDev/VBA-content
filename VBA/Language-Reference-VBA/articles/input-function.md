@@ -3,8 +3,9 @@ title: Input Function
 keywords: vblr6.chm1011066
 f1_keywords:
 - vblr6.chm1011066
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 25ab9e37-4536-4cd0-2b29-985add94a489
+ms.date: 06/08/2017
 ---
 
 

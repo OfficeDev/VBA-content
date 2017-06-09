@@ -3,10 +3,11 @@ title: Cell.Tables Property (Word)
 keywords: vbawd10.chm156106858
 f1_keywords:
 - vbawd10.chm156106858
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Tables
 ms.assetid: 2e18a6ae-590b-0f4f-41b5-cd34e15c9375
+ms.date: 06/08/2017
 ---
 
 

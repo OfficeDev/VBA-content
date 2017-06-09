@@ -3,10 +3,11 @@ title: Selection.BringToFront Method (Visio)
 keywords: vis_sdr.chm11116100
 f1_keywords:
 - vis_sdr.chm11116100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.BringToFront
 ms.assetid: f7e0b949-9f16-e4c1-8443-941abd3495db
+ms.date: 06/08/2017
 ---
 
 

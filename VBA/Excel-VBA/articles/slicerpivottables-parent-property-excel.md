@@ -3,10 +3,11 @@ title: SlicerPivotTables.Parent Property (Excel)
 keywords: vbaxl10.chm910075
 f1_keywords:
 - vbaxl10.chm910075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.Parent
 ms.assetid: 98ae0b14-f243-8372-9973-74cf6a55620a
+ms.date: 06/08/2017
 ---
 
 

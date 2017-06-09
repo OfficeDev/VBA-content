@@ -1,9 +1,10 @@
 ---
 title: Application.SelectionDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SelectionDeleteCanceled
 ms.assetid: 612b087f-1985-f399-44ad-7308344ae97f
+ms.date: 06/08/2017
 ---
 
 

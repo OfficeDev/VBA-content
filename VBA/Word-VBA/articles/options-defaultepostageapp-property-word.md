@@ -3,10 +3,11 @@ title: Options.DefaultEPostageApp Property (Word)
 keywords: vbawd10.chm162988474
 f1_keywords:
 - vbawd10.chm162988474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultEPostageApp
 ms.assetid: 1d039201-2e86-7f8b-9732-da1d13a12cf0
+ms.date: 06/08/2017
 ---
 
 

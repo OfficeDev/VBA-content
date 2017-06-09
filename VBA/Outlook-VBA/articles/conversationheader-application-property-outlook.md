@@ -3,10 +3,11 @@ title: ConversationHeader.Application Property (Outlook)
 keywords: vbaol11.chm3546
 f1_keywords:
 - vbaol11.chm3546
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.Application
 ms.assetid: dbef8719-abd0-0dd6-7b40-e764c3610b9d
+ms.date: 06/08/2017
 ---
 
 

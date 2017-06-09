@@ -3,10 +3,11 @@ title: Template.FullName Property (Word)
 keywords: vbawd10.chm157941767
 f1_keywords:
 - vbawd10.chm157941767
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.FullName
 ms.assetid: 5a0d33f4-2034-22f6-a0ce-fa467dd97b86
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextInput Object (Word)
 keywords: vbawd10.chm2343
 f1_keywords:
 - vbawd10.chm2343
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextInput
 ms.assetid: d7f6531a-4da2-ccc4-29b3-ad79ca7b18de
+ms.date: 06/08/2017
 ---
 
 

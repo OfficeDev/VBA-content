@@ -1,13 +1,14 @@
 ---
 title: Invalid DataCodePage option in initialization setting. (Error 3337)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 51df967e-82dd-38c3-e413-dfbf728d065d
+ms.date: 06/08/2017
 ---
 
 
 # Invalid DataCodePage option in initialization setting. (Error 3337)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

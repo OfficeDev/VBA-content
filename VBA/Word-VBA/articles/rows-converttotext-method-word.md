@@ -3,10 +3,11 @@ title: Rows.ConvertToText Method (Word)
 keywords: vbawd10.chm155975890
 f1_keywords:
 - vbawd10.chm155975890
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.ConvertToText
 ms.assetid: 36b763f2-807b-53c0-e7ff-42b63bd356dc
+ms.date: 06/08/2017
 ---
 
 

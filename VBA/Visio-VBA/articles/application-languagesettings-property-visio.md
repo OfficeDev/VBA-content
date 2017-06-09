@@ -3,10 +3,11 @@ title: Application.LanguageSettings Property (Visio)
 keywords: vis_sdr.chm10060035
 f1_keywords:
 - vis_sdr.chm10060035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.LanguageSettings
 ms.assetid: 3fa0c4a4-3a1c-b035-9f9d-e4358917ebee
+ms.date: 06/08/2017
 ---
 
 

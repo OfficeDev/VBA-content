@@ -3,10 +3,11 @@ title: ChartColorFormat.Type Property (Word)
 keywords: vbawd10.chm12058732
 f1_keywords:
 - vbawd10.chm12058732
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartColorFormat.Type
 ms.assetid: 7f23586e-05be-67f4-809b-ab58370aff19
+ms.date: 06/08/2017
 ---
 
 

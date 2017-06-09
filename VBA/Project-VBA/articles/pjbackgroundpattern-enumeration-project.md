@@ -1,9 +1,10 @@
 ---
 title: PjBackgroundPattern Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjBackgroundPattern
 ms.assetid: ae452d71-3cfd-15c3-5435-4918fbaac4a1
+ms.date: 06/08/2017
 ---
 
 

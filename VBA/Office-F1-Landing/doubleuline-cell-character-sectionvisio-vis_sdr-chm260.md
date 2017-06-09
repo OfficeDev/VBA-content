@@ -3,8 +3,9 @@ title: DoubleULine Cell (Character Section), Visio [vis_sdr.chm260]
 keywords: vis_sdr.chm260
 f1_keywords:
 - vis_sdr.chm260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 43b969df-b7bb-4c8c-b8e2-a8a1df69b25f
+ms.date: 06/08/2017
 ---
 
 

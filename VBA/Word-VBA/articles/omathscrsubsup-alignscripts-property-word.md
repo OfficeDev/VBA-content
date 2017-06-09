@@ -3,10 +3,11 @@ title: OMathScrSubSup.AlignScripts Property (Word)
 keywords: vbawd10.chm181665898
 f1_keywords:
 - vbawd10.chm181665898
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSubSup.AlignScripts
 ms.assetid: c23100b4-7fc2-c8eb-a600-7de878af8476
+ms.date: 06/08/2017
 ---
 
 

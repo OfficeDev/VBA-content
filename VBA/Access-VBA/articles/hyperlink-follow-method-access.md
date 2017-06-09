@@ -3,10 +3,11 @@ title: Hyperlink.Follow Method (Access)
 keywords: vbaac10.chm10117
 f1_keywords:
 - vbaac10.chm10117
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink.Follow
 ms.assetid: 842f546c-b629-fd47-e8d0-d73d3ee7f3cd
+ms.date: 06/08/2017
 ---
 
 

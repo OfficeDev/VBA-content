@@ -3,14 +3,15 @@ title: The ORDER BY expression <expression> includes fields that are not selecte
 keywords: jeterr40.chm5003351
 f1_keywords:
 - jeterr40.chm5003351
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f550d7e2-d80c-5510-1fcc-a7815ee363b4
+ms.date: 06/08/2017
 ---
 
 
 # The ORDER BY expression <expression> includes fields that are not selected by the query. Only those fields requested in the first query can be included in an ORDER BY expression. (Error 3351)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

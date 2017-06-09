@@ -1,9 +1,10 @@
 ---
 title: ContactItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeDelete
 ms.assetid: a37ddcea-12eb-82f8-19a7-609d599394b2
+ms.date: 06/08/2017
 ---
 
 

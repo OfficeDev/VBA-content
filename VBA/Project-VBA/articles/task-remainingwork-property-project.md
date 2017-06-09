@@ -1,9 +1,10 @@
 ---
 title: Task.RemainingWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.RemainingWork
 ms.assetid: 7fbd527d-d9f5-424e-fa5e-5eb6534ad28b
+ms.date: 06/08/2017
 ---
 
 

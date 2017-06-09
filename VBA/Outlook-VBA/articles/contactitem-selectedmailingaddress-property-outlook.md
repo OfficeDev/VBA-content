@@ -3,10 +3,11 @@ title: ContactItem.SelectedMailingAddress Property (Outlook)
 keywords: vbaol11.chm1064
 f1_keywords:
 - vbaol11.chm1064
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.SelectedMailingAddress
 ms.assetid: 7f0a68a0-2663-276f-7217-f580d63edb51
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Controls Property, Access [vbaac10.chm10445]
 keywords: vbaac10.chm10445
 f1_keywords:
 - vbaac10.chm10445
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 585155b4-3c2f-4716-972e-60ec2878ab7a
+ms.date: 06/08/2017
 ---
 
 

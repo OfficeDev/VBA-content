@@ -3,8 +3,9 @@ title: Project Object, Project [vbapj.chm131310]
 keywords: vbapj.chm131310
 f1_keywords:
 - vbapj.chm131310
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c82cc25-795d-44a1-89f3-3cbda78601ce
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Window.Height Property (Excel)
 keywords: vbaxl10.chm356095
 f1_keywords:
 - vbaxl10.chm356095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Height
 ms.assetid: abfbd7ee-a983-cfb1-51c3-09159c8ba08c
+ms.date: 06/08/2017
 ---
 
 

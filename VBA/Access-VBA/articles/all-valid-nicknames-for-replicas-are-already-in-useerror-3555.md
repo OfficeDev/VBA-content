@@ -3,14 +3,15 @@ title: All valid nicknames for replicas are already in use. (Error 3555)
 keywords: jeterr40.chm5003555
 f1_keywords:
 - jeterr40.chm5003555
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: df186bf6-213e-271a-2fa2-c11d870a99cf
+ms.date: 06/08/2017
 ---
 
 
 # All valid nicknames for replicas are already in use. (Error 3555)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

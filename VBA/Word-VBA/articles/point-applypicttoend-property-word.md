@@ -3,10 +3,11 @@ title: Point.ApplyPictToEnd Property (Word)
 keywords: vbawd10.chm262145661
 f1_keywords:
 - vbawd10.chm262145661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.ApplyPictToEnd
 ms.assetid: 4755d10d-5844-0274-d0e5-fc90e7c2e779
+ms.date: 06/08/2017
 ---
 
 

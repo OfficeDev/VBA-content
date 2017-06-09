@@ -3,10 +3,11 @@ title: Report.WindowHeight Property (Access)
 keywords: vbaac10.chm13805
 f1_keywords:
 - vbaac10.chm13805
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.WindowHeight
 ms.assetid: 316bce4d-1b5b-e30e-5e80-a4bc31c41d11
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ReturnVars.Application Property (Access)
 keywords: vbaac10.chm14693
 f1_keywords:
 - vbaac10.chm14693
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ReturnVars.Application
 ms.assetid: f27f1d56-7cf7-49f9-b37b-9b6cc272f9b5
+ms.date: 06/08/2017
 ---
 
 

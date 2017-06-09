@@ -3,10 +3,11 @@ title: CustomControl.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.BorderThemeColorIndex
 ms.assetid: 4e4d6aeb-dd68-b16f-375a-be4c3cf95286
+ms.date: 06/08/2017
 ---
 
 

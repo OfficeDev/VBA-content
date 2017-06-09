@@ -1,9 +1,10 @@
 ---
 title: Project.AutoCalcCosts Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AutoCalcCosts
 ms.assetid: fa9e27f9-7f7c-63f3-83c5-e2e0fc2ddfc7
+ms.date: 06/08/2017
 ---
 
 

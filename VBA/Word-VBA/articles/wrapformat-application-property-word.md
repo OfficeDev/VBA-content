@@ -3,10 +3,11 @@ title: WrapFormat.Application Property (Word)
 keywords: vbawd10.chm163775464
 f1_keywords:
 - vbawd10.chm163775464
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.Application
 ms.assetid: 8cdc913b-0c7b-1215-f700-83ef4789d9c4
+ms.date: 06/08/2017
 ---
 
 

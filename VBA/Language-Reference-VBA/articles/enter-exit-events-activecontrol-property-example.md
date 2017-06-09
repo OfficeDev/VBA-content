@@ -3,8 +3,9 @@ title: Enter, Exit Events, ActiveControl Property Example
 keywords: fm20.chm5225152
 f1_keywords:
 - fm20.chm5225152
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d3123e3-e5b1-cb8f-0f89-de308c3eecda
+ms.date: 06/08/2017
 ---
 
 

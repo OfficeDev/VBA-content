@@ -3,10 +3,11 @@ title: Label.Tag Property (Access)
 keywords: vbaac10.chm10230
 f1_keywords:
 - vbaac10.chm10230
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Tag
 ms.assetid: 06e1f108-d222-b9d5-1c57-65c3ff13cde2
+ms.date: 06/08/2017
 ---
 
 

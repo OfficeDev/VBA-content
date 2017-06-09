@@ -1,9 +1,10 @@
 ---
 title: CommandBarButton.Execute Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Execute
 ms.assetid: 1cf36559-86ba-8a9c-ef81-ef72185dd21c
+ms.date: 06/08/2017
 ---
 
 

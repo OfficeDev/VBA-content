@@ -1,9 +1,10 @@
 ---
 title: Year.Shift5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Shift5
 ms.assetid: 5b076a75-7576-5f52-ed90-3615cb041e07
+ms.date: 06/08/2017
 ---
 
 

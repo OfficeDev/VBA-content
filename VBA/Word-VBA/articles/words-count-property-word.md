@@ -3,10 +3,11 @@ title: Words.Count Property (Word)
 keywords: vbawd10.chm157024258
 f1_keywords:
 - vbawd10.chm157024258
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Words.Count
 ms.assetid: abbb4293-0ffb-f845-cdda-acbbe0ff477b
+ms.date: 06/08/2017
 ---
 
 

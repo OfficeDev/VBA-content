@@ -3,10 +3,11 @@ title: ParagraphFormat.HalfWidthPunctuationOnTopOfLine Property (Word)
 keywords: vbawd10.chm156434552
 f1_keywords:
 - vbawd10.chm156434552
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.HalfWidthPunctuationOnTopOfLine
 ms.assetid: f4b2a723-ec3c-d8bd-eb82-66423399c549
+ms.date: 06/08/2017
 ---
 
 

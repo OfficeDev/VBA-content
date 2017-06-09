@@ -3,10 +3,11 @@ title: Task.Successors Property (Project)
 keywords: vbapj.chm132674
 f1_keywords:
 - vbapj.chm132674
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Successors
 ms.assetid: 7e294395-00a7-ca80-ef58-506fbba1c9a8
+ms.date: 06/08/2017
 ---
 
 

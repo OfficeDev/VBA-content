@@ -3,10 +3,11 @@ title: Floor.Select Method (Excel)
 keywords: vbaxl10.chm612075
 f1_keywords:
 - vbaxl10.chm612075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor.Select
 ms.assetid: 53e8a6da-d198-af5d-596e-507c8eacda18
+ms.date: 06/08/2017
 ---
 
 

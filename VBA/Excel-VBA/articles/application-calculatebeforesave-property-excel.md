@@ -3,10 +3,11 @@ title: Application.CalculateBeforeSave Property (Excel)
 keywords: vbaxl10.chm133083
 f1_keywords:
 - vbaxl10.chm133083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CalculateBeforeSave
 ms.assetid: 133dbe08-8f41-c07c-8362-48412ed7c086
+ms.date: 06/08/2017
 ---
 
 

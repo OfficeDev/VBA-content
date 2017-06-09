@@ -3,10 +3,11 @@ title: JournalItem.ItemProperties Property (Outlook)
 keywords: vbaol11.chm1283
 f1_keywords:
 - vbaol11.chm1283
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ItemProperties
 ms.assetid: 10ccce04-11c2-db2c-1fc6-e4ef20036574
+ms.date: 06/08/2017
 ---
 
 

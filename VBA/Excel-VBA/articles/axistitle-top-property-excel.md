@@ -3,10 +3,11 @@ title: AxisTitle.Top Property (Excel)
 keywords: vbaxl10.chm565086
 f1_keywords:
 - vbaxl10.chm565086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Top
 ms.assetid: 4981d1e5-d9ac-66fe-d61d-0d4a681aed7f
+ms.date: 06/08/2017
 ---
 
 

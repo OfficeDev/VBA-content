@@ -3,10 +3,11 @@ title: Label.LineSpacing Property (Access)
 keywords: vbaac10.chm10236
 f1_keywords:
 - vbaac10.chm10236
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.LineSpacing
 ms.assetid: 871f8b35-d304-4611-4b9c-b7d09b252c11
+ms.date: 06/08/2017
 ---
 
 

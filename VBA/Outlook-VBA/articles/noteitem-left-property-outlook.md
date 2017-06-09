@@ -3,10 +3,11 @@ title: NoteItem.Left Property (Outlook)
 keywords: vbaol11.chm1485
 f1_keywords:
 - vbaol11.chm1485
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Left
 ms.assetid: 0273f7cc-efaf-d1ef-39b3-3aea8f4ba834
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Global.ActiveWindow Property (Word)
 keywords: vbawd10.chm163119108
 f1_keywords:
 - vbawd10.chm163119108
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.ActiveWindow
 ms.assetid: 645913c3-0724-1604-9ac0-4e1b4e81439d
+ms.date: 06/08/2017
 ---
 
 

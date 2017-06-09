@@ -3,10 +3,11 @@ title: Phonetics.Start Property (Excel)
 keywords: vbaxl10.chm658074
 f1_keywords:
 - vbaxl10.chm658074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetics.Start
 ms.assetid: 987613b4-7f33-7004-6abf-fb52061cb722
+ms.date: 06/08/2017
 ---
 
 

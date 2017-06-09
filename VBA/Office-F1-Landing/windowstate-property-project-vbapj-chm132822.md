@@ -3,8 +3,9 @@ title: WindowState Property, Project [vbapj.chm132822]
 keywords: vbapj.chm132822
 f1_keywords:
 - vbapj.chm132822
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aa263313-f79b-4712-984b-cad47798bb6f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotField.CurrentPageName Property (Excel)
 keywords: vbaxl10.chm240127
 f1_keywords:
 - vbaxl10.chm240127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.CurrentPageName
 ms.assetid: cdf3be5e-d71b-af73-e65b-63075b78bfeb
+ms.date: 06/08/2017
 ---
 
 

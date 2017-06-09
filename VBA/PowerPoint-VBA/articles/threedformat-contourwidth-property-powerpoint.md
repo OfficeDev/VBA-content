@@ -3,10 +3,11 @@ title: ThreeDFormat.ContourWidth Property (PowerPoint)
 keywords: vbapp10.chm557033
 f1_keywords:
 - vbapp10.chm557033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.ContourWidth
 ms.assetid: 0e59761a-abd5-cd71-dedf-2dcfe0fe1c48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: WorksheetFunction.Csch Method (Excel)
 keywords: vbaxl10.chm137426
 f1_keywords:
 - vbaxl10.chm137426
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c120de83-d567-c719-21af-625ca9f318b1
+ms.date: 06/08/2017
 ---
 
 

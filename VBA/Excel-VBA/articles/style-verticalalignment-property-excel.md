@@ -3,10 +3,11 @@ title: Style.VerticalAlignment Property (Excel)
 keywords: vbaxl10.chm177097
 f1_keywords:
 - vbaxl10.chm177097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.VerticalAlignment
 ms.assetid: 6c47e6f1-6e86-a5ac-a57d-4bfec12becf2
+ms.date: 06/08/2017
 ---
 
 

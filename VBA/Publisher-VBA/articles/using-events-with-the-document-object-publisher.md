@@ -1,7 +1,8 @@
 ---
 title: Using Events with the Document Object (Publisher)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: publisher
 ms.assetid: 0f5cfe67-bfa1-0ec7-11c9-c4c1337ebe50
+ms.date: 06/08/2017
 ---
 
 

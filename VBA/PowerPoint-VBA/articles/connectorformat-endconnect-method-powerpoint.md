@@ -3,10 +3,11 @@ title: ConnectorFormat.EndConnect Method (PowerPoint)
 keywords: vbapp10.chm555004
 f1_keywords:
 - vbapp10.chm555004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.EndConnect
 ms.assetid: b1a864e3-c2c2-ceeb-ac7c-5a26e7248dbe
+ms.date: 06/08/2017
 ---
 
 

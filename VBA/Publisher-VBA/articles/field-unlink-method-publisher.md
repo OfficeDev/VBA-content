@@ -3,10 +3,11 @@ title: Field.Unlink Method (Publisher)
 keywords: vbapb10.chm6094857
 f1_keywords:
 - vbapb10.chm6094857
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Field.Unlink
 ms.assetid: 4dfe5c29-eb1e-b071-fd86-6ee222455c4e
+ms.date: 06/08/2017
 ---
 
 

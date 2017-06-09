@@ -3,10 +3,11 @@ title: OMathBar.BarTop Property (Word)
 keywords: vbawd10.chm99680360
 f1_keywords:
 - vbawd10.chm99680360
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBar.BarTop
 ms.assetid: 66242ffe-db61-95bb-c9da-3f26b9b08de2
+ms.date: 06/08/2017
 ---
 
 

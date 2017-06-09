@@ -3,14 +3,15 @@ title: The Microsoft Access database engine could not execute the SQL statement 
 keywords: jeterr40.chm5003169
 f1_keywords:
 - jeterr40.chm5003169
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0d1c107b-4bf9-e389-c2da-cb1ea14fa65e
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine could not execute the SQL statement because it contains a field that has an invalid data type. (Error 3169)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: TablesOfContents.Item Method (Word)
 keywords: vbawd10.chm152305664
 f1_keywords:
 - vbawd10.chm152305664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Item
 ms.assetid: 0e3f755f-f538-2c58-3216-00e38158df9b
+ms.date: 06/08/2017
 ---
 
 

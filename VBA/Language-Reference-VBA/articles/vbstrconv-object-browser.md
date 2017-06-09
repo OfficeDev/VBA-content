@@ -3,8 +3,9 @@ title: VbStrConv (Object Browser)
 keywords: vblr6.chm1113636
 f1_keywords:
 - vblr6.chm1113636
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 039b9667-4aac-c7ba-4652-11040241c14e
+ms.date: 06/08/2017
 ---
 
 

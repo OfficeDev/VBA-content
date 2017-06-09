@@ -3,14 +3,13 @@ title: The database engine could not lock table <name> because it is already in 
 keywords: jeterr40.chm5003211
 f1_keywords:
 - jeterr40.chm5003211
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 984b9ee0-cc64-6014-4519-dda123737551
+ms.date: 06/08/2017
 ---
 
 
 # The database engine could not lock table <name> because it is already in use by another person or process. (Error 3211)
-
- **Last modified:** February 16, 2016
 
 **Applies to:** Access 2013 | Access 2016
 

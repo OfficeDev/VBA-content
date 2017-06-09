@@ -3,14 +3,15 @@ title: Could not lock table <name>; currently in use by user <name> on machine <
 keywords: jeterr40.chm5003212
 f1_keywords:
 - jeterr40.chm5003212
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a1f1d177-df1f-973e-be57-841ac5b3f3cb
+ms.date: 06/08/2017
 ---
 
 
 # Could not lock table <name>; currently in use by user <name> on machine <name>. (Error 3212)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

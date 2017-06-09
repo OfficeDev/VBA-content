@@ -3,10 +3,11 @@ title: Options.AutoFormatReplaceQuotes Property (Word)
 keywords: vbawd10.chm162988286
 f1_keywords:
 - vbawd10.chm162988286
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatReplaceQuotes
 ms.assetid: 23fe2823-0aec-7deb-8fc1-ff70a79b19af
+ms.date: 06/08/2017
 ---
 
 

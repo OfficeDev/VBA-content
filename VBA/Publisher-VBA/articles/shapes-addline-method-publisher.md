@@ -3,10 +3,11 @@ title: Shapes.AddLine Method (Publisher)
 keywords: vbapb10.chm2162708
 f1_keywords:
 - vbapb10.chm2162708
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddLine
 ms.assetid: 43df8878-5640-875f-06e0-37e1feb47b78
+ms.date: 06/08/2017
 ---
 
 

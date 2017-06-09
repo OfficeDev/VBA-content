@@ -3,10 +3,11 @@ title: Attachments.Class Property (Outlook)
 keywords: vbaol11.chm171
 f1_keywords:
 - vbaol11.chm171
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachments.Class
 ms.assetid: 29f722c7-7117-0827-1531-fa45d2b4b6b5
+ms.date: 06/08/2017
 ---
 
 

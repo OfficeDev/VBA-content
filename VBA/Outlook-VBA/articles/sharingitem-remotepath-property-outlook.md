@@ -3,10 +3,11 @@ title: SharingItem.RemotePath Property (Outlook)
 keywords: vbaol11.chm696
 f1_keywords:
 - vbaol11.chm696
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RemotePath
 ms.assetid: a0a40c81-2d57-1e6b-b565-70c765fcc829
+ms.date: 06/08/2017
 ---
 
 

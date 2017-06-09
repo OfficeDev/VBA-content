@@ -3,10 +3,11 @@ title: Font.Line Property (Word)
 keywords: vbawd10.chm156369067
 f1_keywords:
 - vbawd10.chm156369067
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Line
 ms.assetid: 36ab6dfc-e5de-4011-e03d-4d381727ab42
+ms.date: 06/08/2017
 ---
 
 

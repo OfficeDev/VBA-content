@@ -3,8 +3,9 @@ title: LBound Function
 keywords: vblr6.chm1008956
 f1_keywords:
 - vblr6.chm1008956
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 49520e9d-305b-4f5b-3ae6-df92f875d1eb
+ms.date: 06/08/2017
 ---
 
 

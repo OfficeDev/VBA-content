@@ -3,8 +3,9 @@ title: ComboBox.ListRows Property (Outlook Forms Script)
 keywords: olfm10.chm2001440
 f1_keywords:
 - olfm10.chm2001440
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 685de18b-7f1d-e112-fcaa-dccfa60a283f
+ms.date: 06/08/2017
 ---
 
 

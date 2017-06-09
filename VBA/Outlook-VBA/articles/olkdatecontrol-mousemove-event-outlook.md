@@ -3,10 +3,11 @@ title: OlkDateControl.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000365
 f1_keywords:
 - vbaol11.chm1000365
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.MouseMove
 ms.assetid: a4788848-a2dd-d19e-e969-fb353eddbfc7
+ms.date: 06/08/2017
 ---
 
 

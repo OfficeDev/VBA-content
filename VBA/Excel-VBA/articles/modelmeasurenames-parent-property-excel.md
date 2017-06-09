@@ -3,8 +3,9 @@ title: ModelMeasureNames.Parent Property (Excel)
 keywords: vbaxl10.chm971075
 f1_keywords:
 - vbaxl10.chm971075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 028ffd8d-ded4-72af-8b54-fa4e8f267a16
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.Picture Property (Access)
 keywords: vbaac10.chm13379
 f1_keywords:
 - vbaac10.chm13379
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Picture
 ms.assetid: 4a42a443-13f0-e7aa-848d-34faff52c9bd
+ms.date: 06/08/2017
 ---
 
 

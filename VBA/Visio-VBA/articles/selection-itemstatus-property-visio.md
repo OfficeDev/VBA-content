@@ -3,10 +3,11 @@ title: Selection.ItemStatus Property (Visio)
 keywords: vis_sdr.chm11113780
 f1_keywords:
 - vis_sdr.chm11113780
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.ItemStatus
 ms.assetid: 2dcd9875-222d-fdb9-c2be-1a1df4ee86e7
+ms.date: 06/08/2017
 ---
 
 

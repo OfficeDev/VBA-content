@@ -3,10 +3,11 @@ title: Series.ErrorBar Method (Word)
 keywords: vbawd10.chm123732120
 f1_keywords:
 - vbawd10.chm123732120
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ErrorBar
 ms.assetid: 5deb5b19-50f1-2327-0b54-0952cd89756e
+ms.date: 06/08/2017
 ---
 
 

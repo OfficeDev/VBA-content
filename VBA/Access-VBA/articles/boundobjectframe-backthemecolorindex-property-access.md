@@ -3,10 +3,11 @@ title: BoundObjectFrame.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackThemeColorIndex
 ms.assetid: e0efd6e0-9d58-85c8-0bac-1456044013cd
+ms.date: 06/08/2017
 ---
 
 

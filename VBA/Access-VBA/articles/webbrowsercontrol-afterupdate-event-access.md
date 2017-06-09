@@ -3,10 +3,11 @@ title: WebBrowserControl.AfterUpdate Event (Access)
 keywords: vbaac10.chm143125
 f1_keywords:
 - vbaac10.chm143125
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.AfterUpdate
 ms.assetid: 902cd078-1f4b-d35a-4136-bc43914b8503
+ms.date: 06/08/2017
 ---
 
 

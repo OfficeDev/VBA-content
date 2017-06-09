@@ -3,10 +3,11 @@ title: Trendlines.Item Method (Excel)
 keywords: vbaxl10.chm592076
 f1_keywords:
 - vbaxl10.chm592076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendlines.Item
 ms.assetid: e2bbc0fc-a618-8c84-f001-c77c0206cbf9
+ms.date: 06/08/2017
 ---
 
 

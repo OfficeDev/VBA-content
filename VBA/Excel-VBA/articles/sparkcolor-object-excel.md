@@ -3,10 +3,11 @@ title: SparkColor Object (Excel)
 keywords: vbaxl10.chm882072
 f1_keywords:
 - vbaxl10.chm882072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkColor
 ms.assetid: 3de82c5c-eb0a-ab39-64a8-00f4c005c6af
+ms.date: 06/08/2017
 ---
 
 

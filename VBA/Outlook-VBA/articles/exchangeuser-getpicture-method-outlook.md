@@ -3,10 +3,11 @@ title: ExchangeUser.GetPicture Method (Outlook)
 keywords: vbaol11.chm3485
 f1_keywords:
 - vbaol11.chm3485
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetPicture
 ms.assetid: 4298db85-0576-4982-9592-6eae666d966a
+ms.date: 06/08/2017
 ---
 
 

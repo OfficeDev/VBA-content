@@ -3,10 +3,11 @@ title: LinkFormat.Update Method (Publisher)
 keywords: vbapb10.chm4390916
 f1_keywords:
 - vbapb10.chm4390916
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LinkFormat.Update
 ms.assetid: a167a463-56bd-2c4e-ded5-70ea38b2ed2f
+ms.date: 06/08/2017
 ---
 
 

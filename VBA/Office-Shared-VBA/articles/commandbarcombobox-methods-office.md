@@ -1,7 +1,8 @@
 ---
 title: CommandBarComboBox Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3d0d402e-5c4f-46c6-bbf5-1a452f09a310
+ms.date: 06/08/2017
 ---
 
 

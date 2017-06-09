@@ -1,9 +1,10 @@
 ---
 title: MsoOLEMenuGroup Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoOLEMenuGroup
 ms.assetid: b9b88071-4cab-b95d-d1f6-eb04a7929c3d
+ms.date: 06/08/2017
 ---
 
 

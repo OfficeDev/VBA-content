@@ -3,10 +3,11 @@ title: FormatConditions Object (Excel)
 keywords: vbaxl10.chm509072
 f1_keywords:
 - vbaxl10.chm509072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions
 ms.assetid: 2486d4b4-605c-76d8-132a-694c0c600a81
+ms.date: 06/08/2017
 ---
 
 

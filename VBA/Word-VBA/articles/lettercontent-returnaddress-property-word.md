@@ -3,10 +3,11 @@ title: LetterContent.ReturnAddress Property (Word)
 keywords: vbawd10.chm161546359
 f1_keywords:
 - vbawd10.chm161546359
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.ReturnAddress
 ms.assetid: 6a9bb308-c447-b4e6-1ab9-6f73b29bee12
+ms.date: 06/08/2017
 ---
 
 

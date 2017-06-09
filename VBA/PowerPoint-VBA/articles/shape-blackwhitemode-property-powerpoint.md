@@ -3,10 +3,11 @@ title: Shape.BlackWhiteMode Property (PowerPoint)
 keywords: vbapp10.chm547017
 f1_keywords:
 - vbapp10.chm547017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.BlackWhiteMode
 ms.assetid: bed5df5a-87b5-5e61-6d28-48a7776d0d83
+ms.date: 06/08/2017
 ---
 
 

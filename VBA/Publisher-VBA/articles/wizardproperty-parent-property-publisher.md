@@ -3,10 +3,11 @@ title: WizardProperty.Parent Property (Publisher)
 keywords: vbapb10.chm1572866
 f1_keywords:
 - vbapb10.chm1572866
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.Parent
 ms.assetid: 4175581f-b42e-ae5f-f7b1-463c61b5bf20
+ms.date: 06/08/2017
 ---
 
 

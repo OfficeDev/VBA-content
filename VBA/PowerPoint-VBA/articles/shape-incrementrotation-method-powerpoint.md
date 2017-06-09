@@ -3,10 +3,11 @@ title: Shape.IncrementRotation Method (PowerPoint)
 keywords: vbapp10.chm547006
 f1_keywords:
 - vbapp10.chm547006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.IncrementRotation
 ms.assetid: f6e494fa-6bc1-0fc1-3bd3-ecc4fa5852e0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContainerProperties.ObjectType Property (Visio)
 keywords: vis_sdr.chm17613960
 f1_keywords:
 - vis_sdr.chm17613960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ObjectType
 ms.assetid: 92631374-f556-e09f-6048-3f21bd6a873b
+ms.date: 06/08/2017
 ---
 
 

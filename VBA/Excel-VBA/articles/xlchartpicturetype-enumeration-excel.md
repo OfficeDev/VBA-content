@@ -1,9 +1,10 @@
 ---
 title: XlChartPictureType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlChartPictureType
 ms.assetid: 7d4f70ea-4a66-1b88-49cf-85200c8eebff
+ms.date: 06/08/2017
 ---
 
 

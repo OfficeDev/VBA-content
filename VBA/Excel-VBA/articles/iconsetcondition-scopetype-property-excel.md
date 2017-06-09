@@ -3,10 +3,11 @@ title: IconSetCondition.ScopeType Property (Excel)
 keywords: vbaxl10.chm812079
 f1_keywords:
 - vbaxl10.chm812079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.ScopeType
 ms.assetid: e2198d8b-0286-b199-59aa-7b3a69669b65
+ms.date: 06/08/2017
 ---
 
 

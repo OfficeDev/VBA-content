@@ -1,13 +1,14 @@
 ---
 title: Crosstab query contains one or more invalid fixed column headings. (Error 3322)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 863793f8-2c82-13b5-81cb-1ab3a766893a
+ms.date: 06/08/2017
 ---
 
 
 # Crosstab query contains one or more invalid fixed column headings. (Error 3322)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

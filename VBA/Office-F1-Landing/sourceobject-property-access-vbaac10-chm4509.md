@@ -3,8 +3,9 @@ title: SourceObject Property, Access [vbaac10.chm4509]
 keywords: vbaac10.chm4509
 f1_keywords:
 - vbaac10.chm4509
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64ec6e28-34d5-4e40-96c0-fc6e021638c9
+ms.date: 06/08/2017
 ---
 
 

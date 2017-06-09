@@ -3,8 +3,9 @@ title: Create a Workbook
 keywords: vbaxl10.chm5200215
 f1_keywords:
 - vbaxl10.chm5200215
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b505b4bc-a3c3-3362-28cb-c119c2af5a3d
+ms.date: 06/08/2017
 ---
 
 

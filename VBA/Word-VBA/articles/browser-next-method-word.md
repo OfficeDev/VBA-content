@@ -3,10 +3,11 @@ title: Browser.Next Method (Word)
 keywords: vbawd10.chm154009701
 f1_keywords:
 - vbawd10.chm154009701
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Next
 ms.assetid: d1ac6216-dbd9-9b74-3ac6-133a1d83c09a
+ms.date: 06/08/2017
 ---
 
 

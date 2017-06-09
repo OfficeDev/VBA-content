@@ -3,10 +3,11 @@ title: Point.Top Property (Word)
 keywords: vbawd10.chm262146655
 f1_keywords:
 - vbawd10.chm262146655
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Top
 ms.assetid: d0cb0bae-1291-5c9c-26bb-cac6fe2bf426
+ms.date: 06/08/2017
 ---
 
 

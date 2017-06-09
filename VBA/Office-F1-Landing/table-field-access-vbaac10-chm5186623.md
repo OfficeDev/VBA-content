@@ -3,8 +3,9 @@ title: Table Field, Access [vbaac10.chm5186623]
 keywords: vbaac10.chm5186623
 f1_keywords:
 - vbaac10.chm5186623
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4965f17a-3fb6-4178-8aef-9b58e22d7999
+ms.date: 06/08/2017
 ---
 
 

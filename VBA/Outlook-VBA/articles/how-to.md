@@ -1,7 +1,8 @@
 ---
 title: How To
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e19b61d9-18c7-48df-9902-efee93c2da77
+ms.date: 06/08/2017
 ---
 
 

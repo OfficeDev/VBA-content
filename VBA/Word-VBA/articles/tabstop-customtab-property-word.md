@@ -3,10 +3,11 @@ title: TabStop.CustomTab Property (Word)
 keywords: vbawd10.chm156500071
 f1_keywords:
 - vbawd10.chm156500071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStop.CustomTab
 ms.assetid: c909f223-7e5d-6a2b-317f-12f735e43921
+ms.date: 06/08/2017
 ---
 
 

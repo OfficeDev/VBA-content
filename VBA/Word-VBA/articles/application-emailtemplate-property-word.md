@@ -3,10 +3,11 @@ title: Application.EmailTemplate Property (Word)
 keywords: vbawd10.chm158335427
 f1_keywords:
 - vbawd10.chm158335427
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.EmailTemplate
 ms.assetid: 339a421e-b608-4063-a6e8-a08ba4debaf5
+ms.date: 06/08/2017
 ---
 
 

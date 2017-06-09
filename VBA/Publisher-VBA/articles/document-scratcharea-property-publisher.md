@@ -3,10 +3,11 @@ title: Document.ScratchArea Property (Publisher)
 keywords: vbapb10.chm196657
 f1_keywords:
 - vbapb10.chm196657
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ScratchArea
 ms.assetid: 782d9b7f-b620-60f0-c21d-04f588c37cc6
+ms.date: 06/08/2017
 ---
 
 

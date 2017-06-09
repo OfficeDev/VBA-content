@@ -3,10 +3,11 @@ title: WorksheetFunction.Asc Method (Excel)
 keywords: vbaxl10.chm137246
 f1_keywords:
 - vbaxl10.chm137246
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Asc
 ms.assetid: c89ee3d9-1a3b-6a85-7e5e-b8c3049d63a0
+ms.date: 06/08/2017
 ---
 
 

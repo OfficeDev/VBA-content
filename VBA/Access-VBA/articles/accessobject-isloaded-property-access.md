@@ -3,10 +3,11 @@ title: AccessObject.IsLoaded Property (Access)
 keywords: vbaac10.chm12750
 f1_keywords:
 - vbaac10.chm12750
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.IsLoaded
 ms.assetid: 5e68398c-8a95-f3e1-87ec-e2d637f34429
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Can't assign or coerce array of fixed-length string or user-defined type 
 keywords: vblr6.chm1040123
 f1_keywords:
 - vblr6.chm1040123
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b33f923-6e76-491c-2b0a-901045d03ff8
+ms.date: 06/08/2017
 ---
 
 

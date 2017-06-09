@@ -1,9 +1,10 @@
 ---
 title: MeetingItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Send
 ms.assetid: 9dc87c39-d209-dc06-86e8-ce00f9cb152f
+ms.date: 06/08/2017
 ---
 
 

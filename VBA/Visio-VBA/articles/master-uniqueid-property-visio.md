@@ -3,10 +3,11 @@ title: Master.UniqueID Property (Visio)
 keywords: vis_sdr.chm10751165
 f1_keywords:
 - vis_sdr.chm10751165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.UniqueID
 ms.assetid: 99d0655c-da5c-9d0a-4936-2fa24821e097
+ms.date: 06/08/2017
 ---
 
 

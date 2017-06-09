@@ -3,10 +3,11 @@ title: Options.SaveNormalPrompt Property (Word)
 keywords: vbawd10.chm162988076
 f1_keywords:
 - vbawd10.chm162988076
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SaveNormalPrompt
 ms.assetid: bc58327f-d35e-70ae-ae53-0c312d3bbc0b
+ms.date: 06/08/2017
 ---
 
 

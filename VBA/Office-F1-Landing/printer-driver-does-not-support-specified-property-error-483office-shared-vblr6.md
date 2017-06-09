@@ -3,8 +3,9 @@ title: Printer driver does not support specified property (Error 483), Office Sh
 keywords: vblr6.chm1117799
 f1_keywords:
 - vblr6.chm1117799
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbb091c2-c90f-4924-945f-4cf8cde3a307
+ms.date: 06/08/2017
 ---
 
 

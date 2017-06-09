@@ -3,14 +3,15 @@ title: Cannot perform cascading update on the table because it is currently in u
 keywords: jeterr40.chm5003412
 f1_keywords:
 - jeterr40.chm5003412
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0718b58e-5553-8c08-ea85-83f97eb88998
+ms.date: 06/08/2017
 ---
 
 
 # Cannot perform cascading update on the table because it is currently in use by another user. (Error 3412)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

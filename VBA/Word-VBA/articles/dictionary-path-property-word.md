@@ -3,10 +3,11 @@ title: Dictionary.Path Property (Word)
 keywords: vbawd10.chm162332673
 f1_keywords:
 - vbawd10.chm162332673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionary.Path
 ms.assetid: 1fd2d6ac-e112-9d13-0e41-2584e6841b73
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.CustomAction
 ms.assetid: eec2389c-45bf-38fb-46fe-c319cac12319
+ms.date: 06/08/2017
 ---
 
 

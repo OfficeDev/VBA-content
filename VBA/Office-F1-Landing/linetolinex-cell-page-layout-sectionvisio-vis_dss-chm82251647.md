@@ -3,8 +3,9 @@ title: LineToLineX Cell (Page Layout Section), Visio [Vis_DSS.chm82251647]
 keywords: vis_dss.chm82251647
 f1_keywords:
 - vis_dss.chm82251647
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c13b97f2-0417-4370-a638-bff4de990b32
+ms.date: 06/08/2017
 ---
 
 

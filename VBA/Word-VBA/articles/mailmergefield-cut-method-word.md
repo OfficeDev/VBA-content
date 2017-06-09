@@ -3,10 +3,11 @@ title: MailMergeField.Cut Method (Word)
 keywords: vbawd10.chm152961130
 f1_keywords:
 - vbawd10.chm152961130
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Cut
 ms.assetid: 83455a23-06cb-9c73-1655-ad6c86d9cb3b
+ms.date: 06/08/2017
 ---
 
 

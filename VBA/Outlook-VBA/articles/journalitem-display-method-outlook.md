@@ -3,10 +3,11 @@ title: JournalItem.Display Method (Outlook)
 keywords: vbaol11.chm1260
 f1_keywords:
 - vbaol11.chm1260
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Display
 ms.assetid: f04572b2-ca5f-cbae-71cc-6986e0fc5dca
+ms.date: 06/08/2017
 ---
 
 

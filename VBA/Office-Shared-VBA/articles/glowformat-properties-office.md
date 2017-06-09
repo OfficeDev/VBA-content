@@ -1,7 +1,8 @@
 ---
 title: GlowFormat Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e9dbe1d-f936-4a2a-ade2-2a10651d5f65
+ms.date: 06/08/2017
 ---
 
 

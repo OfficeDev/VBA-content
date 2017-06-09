@@ -3,10 +3,11 @@ title: ShapeRange.Chart Property (PowerPoint)
 keywords: vbapp10.chm548093
 f1_keywords:
 - vbapp10.chm548093
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Chart
 ms.assetid: 15b69ed5-db0e-0bae-403d-263eedb7b4a1
+ms.date: 06/08/2017
 ---
 
 

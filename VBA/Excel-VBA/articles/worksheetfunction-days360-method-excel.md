@@ -3,10 +3,11 @@ title: WorksheetFunction.Days360 Method (Excel)
 keywords: vbaxl10.chm137160
 f1_keywords:
 - vbaxl10.chm137160
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Days360
 ms.assetid: cc8b607d-348f-0fa7-70e4-3ddb9b83f6b8
+ms.date: 06/08/2017
 ---
 
 

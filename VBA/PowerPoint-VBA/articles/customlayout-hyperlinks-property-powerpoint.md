@@ -3,10 +3,11 @@ title: CustomLayout.Hyperlinks Property (PowerPoint)
 keywords: vbapp10.chm672010
 f1_keywords:
 - vbapp10.chm672010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Hyperlinks
 ms.assetid: 834448c1-2acf-33b4-15c9-eb485d9c176c
+ms.date: 06/08/2017
 ---
 
 

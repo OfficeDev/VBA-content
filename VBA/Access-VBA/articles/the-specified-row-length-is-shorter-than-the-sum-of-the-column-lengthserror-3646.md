@@ -3,14 +3,15 @@ title: The specified row length is shorter than the sum of the column lengths. (
 keywords: jeterr40.chm5003646
 f1_keywords:
 - jeterr40.chm5003646
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 068a705f-dae8-f363-646a-e44b14439f66
+ms.date: 06/08/2017
 ---
 
 
 # The specified row length is shorter than the sum of the column lengths. (Error 3646)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

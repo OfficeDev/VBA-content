@@ -3,10 +3,11 @@ title: Reviewers.Count Property (Word)
 keywords: vbawd10.chm211419138
 f1_keywords:
 - vbawd10.chm211419138
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewers.Count
 ms.assetid: fe6510b1-e63e-9f35-5c4e-2cf5518a8d5a
+ms.date: 06/08/2017
 ---
 
 

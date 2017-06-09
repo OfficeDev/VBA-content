@@ -3,10 +3,11 @@ title: CustomXMLNode.Delete Method (Office)
 keywords: vbaof11.chm294021
 f1_keywords:
 - vbaof11.chm294021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.Delete
 ms.assetid: e240dea8-3045-634d-1ac8-782facf85d4e
+ms.date: 06/08/2017
 ---
 
 

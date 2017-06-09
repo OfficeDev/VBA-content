@@ -3,10 +3,11 @@ title: LeaderLines Property
 keywords: vbagr10.chm5207592
 f1_keywords:
 - vbagr10.chm5207592
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LeaderLines
 ms.assetid: ddd9ab86-d135-73de-b888-3ba43c39ece8
+ms.date: 06/08/2017
 ---
 
 

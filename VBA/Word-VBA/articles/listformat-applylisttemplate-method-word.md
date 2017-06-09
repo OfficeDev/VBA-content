@@ -3,10 +3,11 @@ title: ListFormat.ApplyListTemplate Method (Word)
 keywords: vbawd10.chm163578071
 f1_keywords:
 - vbawd10.chm163578071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.ApplyListTemplate
 ms.assetid: 63296884-9024-a0a1-061a-59eadbc6a5cb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Tab.Application Property (Excel)
 keywords: vbaxl10.chm722073
 f1_keywords:
 - vbaxl10.chm722073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Tab.Application
 ms.assetid: 081bb5a6-68e0-744b-8541-514e26f2f6e5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartGroup.RadarAxisLabels Property (Excel)
 keywords: vbaxl10.chm568087
 f1_keywords:
 - vbaxl10.chm568087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.RadarAxisLabels
 ms.assetid: 36bb1e30-99b0-e795-2730-145421a2a342
+ms.date: 06/08/2017
 ---
 
 

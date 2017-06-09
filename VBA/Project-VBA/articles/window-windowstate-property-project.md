@@ -1,9 +1,10 @@
 ---
 title: Window.WindowState Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Window.WindowState
 ms.assetid: b1c0616c-7377-356e-446d-ee2d2f490e15
+ms.date: 06/08/2017
 ---
 
 

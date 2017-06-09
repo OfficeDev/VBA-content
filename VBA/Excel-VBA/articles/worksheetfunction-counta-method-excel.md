@@ -3,10 +3,11 @@ title: WorksheetFunction.CountA Method (Excel)
 keywords: vbaxl10.chm137142
 f1_keywords:
 - vbaxl10.chm137142
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CountA
 ms.assetid: b3d8662b-a886-daf8-2ce0-763017fbcd94
+ms.date: 06/08/2017
 ---
 
 

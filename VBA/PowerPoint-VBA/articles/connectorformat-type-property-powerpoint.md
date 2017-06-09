@@ -3,10 +3,11 @@ title: ConnectorFormat.Type Property (PowerPoint)
 keywords: vbapp10.chm555012
 f1_keywords:
 - vbapp10.chm555012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.Type
 ms.assetid: d76b5a38-a525-2afc-e095-54db135674c0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SlicerCache.SortUsingCustomLists Property (Excel)
 keywords: vbaxl10.chm897087
 f1_keywords:
 - vbaxl10.chm897087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.SortUsingCustomLists
 ms.assetid: 61c156fe-67cf-f6e8-4fce-bc617c9a1e03
+ms.date: 06/08/2017
 ---
 
 

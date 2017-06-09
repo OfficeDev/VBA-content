@@ -1,7 +1,8 @@
 ---
 title: Designing Form Regions with the Form Region XML Schema
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bdf58ab1-20bd-416a-bd11-95447a3ef143
+ms.date: 06/08/2017
 ---
 
 

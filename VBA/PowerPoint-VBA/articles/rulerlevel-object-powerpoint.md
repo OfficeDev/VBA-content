@@ -3,10 +3,11 @@ title: RulerLevel Object (PowerPoint)
 keywords: vbapp10.chm572000
 f1_keywords:
 - vbapp10.chm572000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RulerLevel
 ms.assetid: 601fa2ef-8d8d-1e1d-e349-034d3c2842a5
+ms.date: 06/08/2017
 ---
 
 

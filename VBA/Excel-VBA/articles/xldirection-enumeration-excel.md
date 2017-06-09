@@ -1,9 +1,10 @@
 ---
 title: XlDirection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDirection
 ms.assetid: 546386fc-9c67-e358-d5c3-357f02a08abc
+ms.date: 06/08/2017
 ---
 
 

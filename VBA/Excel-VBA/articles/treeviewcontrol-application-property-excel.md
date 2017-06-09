@@ -3,10 +3,11 @@ title: TreeviewControl.Application Property (Excel)
 keywords: vbaxl10.chm665073
 f1_keywords:
 - vbaxl10.chm665073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TreeviewControl.Application
 ms.assetid: b883fb0e-c382-4ac3-ca93-9364d3b490d6
+ms.date: 06/08/2017
 ---
 
 

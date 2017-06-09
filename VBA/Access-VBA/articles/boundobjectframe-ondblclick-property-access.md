@@ -3,10 +3,11 @@ title: BoundObjectFrame.OnDblClick Property (Access)
 keywords: vbaac10.chm10969
 f1_keywords:
 - vbaac10.chm10969
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnDblClick
 ms.assetid: 554db576-5976-6f05-0cb4-fdc6a38fd09c
+ms.date: 06/08/2017
 ---
 
 

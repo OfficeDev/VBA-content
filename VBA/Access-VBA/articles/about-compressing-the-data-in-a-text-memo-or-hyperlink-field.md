@@ -3,15 +3,15 @@ title: About compressing the data in a Text, Memo, or Hyperlink field
 keywords: vbaac10.chm1043024
 f1_keywords:
 - vbaac10.chm1043024
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4f2aa9c5-a23e-076a-cc91-8b6061911f59
+ms.date: 06/08/2017
 ---
 
 
 # About compressing the data in a Text, Memo, or Hyperlink field
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 Microsoft Access uses the Unicode character-encoding scheme to represent the data in a Text, Memo, or Hyperlink field. Unicode represents each character as two bytes, so the data in a Text, Memo, or Hyperlink field requires more storage space than it did in Access 97 or earlier, where each character is represented as one byte.

@@ -3,10 +3,11 @@ title: OlkDateControl.KeyPress Event (Outlook)
 keywords: vbaol11.chm1000370
 f1_keywords:
 - vbaol11.chm1000370
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.KeyPress
 ms.assetid: 59b22d35-001a-4e99-3b71-d7f95a73d821
+ms.date: 06/08/2017
 ---
 
 

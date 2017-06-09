@@ -3,10 +3,11 @@ title: Masters.ObjectType Property (Visio)
 keywords: vis_sdr.chm10813960
 f1_keywords:
 - vis_sdr.chm10813960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ObjectType
 ms.assetid: c8dc1643-1ff5-8c81-6fd0-be3c8b569443
+ms.date: 06/08/2017
 ---
 
 

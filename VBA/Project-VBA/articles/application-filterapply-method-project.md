@@ -3,10 +3,11 @@ title: Application.FilterApply Method (Project)
 keywords: vbapj.chm502
 f1_keywords:
 - vbapj.chm502
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilterApply
 ms.assetid: d270862e-0577-a9db-e63b-9dcf1dc68b4a
+ms.date: 06/08/2017
 ---
 
 

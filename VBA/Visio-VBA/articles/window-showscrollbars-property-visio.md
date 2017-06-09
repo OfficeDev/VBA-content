@@ -3,10 +3,11 @@ title: Window.ShowScrollBars Property (Visio)
 keywords: vis_sdr.chm11650845
 f1_keywords:
 - vis_sdr.chm11650845
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.ShowScrollBars
 ms.assetid: 46be2c47-d9b0-c3d8-6f8b-cc728feb4ccb
+ms.date: 06/08/2017
 ---
 
 

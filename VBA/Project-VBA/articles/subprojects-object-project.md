@@ -1,7 +1,8 @@
 ---
 title: Subprojects Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 15688529-6d9c-6429-0d22-a5a16c033dcc
+ms.date: 06/08/2017
 ---
 
 

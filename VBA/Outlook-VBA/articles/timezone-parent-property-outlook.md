@@ -3,10 +3,11 @@ title: TimeZone.Parent Property (Outlook)
 keywords: vbaol11.chm3281
 f1_keywords:
 - vbaol11.chm3281
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.Parent
 ms.assetid: 24adc643-941f-ca7c-049b-db476de3ff96
+ms.date: 06/08/2017
 ---
 
 

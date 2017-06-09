@@ -3,10 +3,11 @@ title: Form.Requery Method (Access)
 keywords: vbaac10.chm13503
 f1_keywords:
 - vbaac10.chm13503
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Requery
 ms.assetid: 26d8d784-9348-6301-9bef-569d15668a0e
+ms.date: 06/08/2017
 ---
 
 

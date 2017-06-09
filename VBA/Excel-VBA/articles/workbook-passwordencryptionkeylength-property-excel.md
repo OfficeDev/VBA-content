@@ -3,10 +3,11 @@ title: Workbook.PasswordEncryptionKeyLength Property (Excel)
 keywords: vbaxl10.chm199213
 f1_keywords:
 - vbaxl10.chm199213
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.PasswordEncryptionKeyLength
 ms.assetid: 2662f2f5-1ad0-4a75-82c0-3268f147948a
+ms.date: 06/08/2017
 ---
 
 

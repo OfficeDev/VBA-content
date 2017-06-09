@@ -3,10 +3,11 @@ title: OlkListBox.BeforeUpdate Event (Outlook)
 keywords: vbaol11.chm1000292
 f1_keywords:
 - vbaol11.chm1000292
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.BeforeUpdate
 ms.assetid: 23208dfa-f989-734a-6f3a-d67287d6673f
+ms.date: 06/08/2017
 ---
 
 

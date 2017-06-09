@@ -3,10 +3,11 @@ title: Control.ObjectVerbs Property (Access)
 keywords: vbaac10.chm10143
 f1_keywords:
 - vbaac10.chm10143
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.ObjectVerbs
 ms.assetid: e94a1718-0cd7-6d4a-b319-03b180233824
+ms.date: 06/08/2017
 ---
 
 

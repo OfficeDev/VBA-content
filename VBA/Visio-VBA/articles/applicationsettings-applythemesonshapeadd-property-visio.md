@@ -3,10 +3,11 @@ title: ApplicationSettings.ApplyThemesOnShapeAdd Property (Visio)
 keywords: vis_sdr.chm16260610
 f1_keywords:
 - vis_sdr.chm16260610
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ApplyThemesOnShapeAdd
 ms.assetid: c2a83004-852e-83d7-718f-f27f254aae58
+ms.date: 06/08/2017
 ---
 
 

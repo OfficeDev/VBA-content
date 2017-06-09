@@ -3,10 +3,11 @@ title: ODBCErrors.Application Property (Excel)
 keywords: vbaxl10.chm528073
 f1_keywords:
 - vbaxl10.chm528073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCErrors.Application
 ms.assetid: c204119d-a371-0821-40f1-0515c97e48e2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Fonts Object, Visio [vis_sdr.chm10105]
 keywords: vis_sdr.chm10105
 f1_keywords:
 - vis_sdr.chm10105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 653e8021-8bac-4aa8-8668-f806a68cf437
+ms.date: 06/08/2017
 ---
 
 

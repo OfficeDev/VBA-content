@@ -3,8 +3,9 @@ title: EnterpriseGeneric Property, Project [vbapj.chm131853]
 keywords: vbapj.chm131853
 f1_keywords:
 - vbapj.chm131853
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 41265d27-6755-4357-bc6f-a09597cf5eee
+ms.date: 06/08/2017
 ---
 
 

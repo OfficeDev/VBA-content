@@ -3,10 +3,11 @@ title: Window.SelectedCell Property (Visio)
 keywords: vis_sdr.chm11660125
 f1_keywords:
 - vis_sdr.chm11660125
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.SelectedCell
 ms.assetid: 104a2b2d-eb12-2917-6332-9a60e4623e74
+ms.date: 06/08/2017
 ---
 
 

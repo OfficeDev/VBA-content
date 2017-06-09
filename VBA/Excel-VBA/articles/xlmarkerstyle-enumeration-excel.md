@@ -1,9 +1,10 @@
 ---
 title: XlMarkerStyle Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlMarkerStyle
 ms.assetid: 404f138e-b3ed-556e-23e8-105114c2f66b
+ms.date: 06/08/2017
 ---
 
 

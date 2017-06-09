@@ -1,7 +1,8 @@
 ---
 title: Control Groups Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f0ab5bd4-b464-da22-6ba8-34c5cf7405e0
+ms.date: 06/08/2017
 ---
 
 

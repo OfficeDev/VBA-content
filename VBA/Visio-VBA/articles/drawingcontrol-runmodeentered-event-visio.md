@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.RunModeEntered Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.RunModeEntered
 ms.assetid: 2db53fff-8171-f9ef-188a-bdd3101cda9d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.WebOptions Property (Publisher)
 keywords: vbapb10.chm131176
 f1_keywords:
 - vbapb10.chm131176
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.WebOptions
 ms.assetid: 2e0c3435-a55a-4903-a0f8-9c347dec03b5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ColumnGroups Method
 keywords: vbagr10.chm65547
 f1_keywords:
 - vbagr10.chm65547
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColumnGroups
 ms.assetid: dcb4d7e0-ce56-46d9-35d9-d9653bbb6f97
+ms.date: 06/08/2017
 ---
 
 

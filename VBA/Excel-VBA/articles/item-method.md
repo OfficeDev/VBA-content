@@ -3,10 +3,11 @@ title: Item Method
 keywords: vbagr10.chm3077621
 f1_keywords:
 - vbagr10.chm3077621
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Item
 ms.assetid: 9e92de7f-b231-c7c5-fcea-50c1051d1add
+ms.date: 06/08/2017
 ---
 
 

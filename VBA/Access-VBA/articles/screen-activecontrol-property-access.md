@@ -3,10 +3,11 @@ title: Screen.ActiveControl Property (Access)
 keywords: vbaac10.chm12488
 f1_keywords:
 - vbaac10.chm12488
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Screen.ActiveControl
 ms.assetid: 01d76377-c88d-8f64-b13b-c80f4d296834
+ms.date: 06/08/2017
 ---
 
 

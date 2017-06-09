@@ -1,7 +1,8 @@
 ---
 title: Comments.Add Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: da02de49-8057-7e5c-6b59-0a013e56256d
+ms.date: 06/08/2017
 ---
 
 

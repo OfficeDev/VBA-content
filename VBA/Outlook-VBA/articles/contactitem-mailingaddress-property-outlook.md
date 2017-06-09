@@ -3,10 +3,11 @@ title: ContactItem.MailingAddress Property (Outlook)
 keywords: vbaol11.chm1034
 f1_keywords:
 - vbaol11.chm1034
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MailingAddress
 ms.assetid: 7af2770c-1f8b-510b-4e6f-3ef919082088
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Attachment.OnKeyUp Property (Access)
 keywords: vbaac10.chm13951
 f1_keywords:
 - vbaac10.chm13951
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnKeyUp
 ms.assetid: 56e5a246-5907-f537-0c89-a746beab0865
+ms.date: 06/08/2017
 ---
 
 

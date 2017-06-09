@@ -3,8 +3,9 @@ title: Month Function
 keywords: vblr6.chm1008977
 f1_keywords:
 - vblr6.chm1008977
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d0b3cfef-d192-166d-2dcf-c60b08213327
+ms.date: 06/08/2017
 ---
 
 

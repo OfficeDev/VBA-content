@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.BeforeSuspend Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSuspend
 ms.assetid: f7c84f82-6c44-2053-f28e-c4810d58eedf
+ms.date: 06/08/2017
 ---
 
 

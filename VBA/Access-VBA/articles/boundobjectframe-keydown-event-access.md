@@ -3,10 +3,11 @@ title: BoundObjectFrame.KeyDown Event (Access)
 keywords: vbaac10.chm14101
 f1_keywords:
 - vbaac10.chm14101
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.KeyDown
 ms.assetid: 97bb4897-416c-b58b-fa14-164ebd053306
+ms.date: 06/08/2017
 ---
 
 

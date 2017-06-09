@@ -1,7 +1,8 @@
 ---
 title: OptionButton.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 908f588a-8f76-82d8-8b0f-1cb7764b179c
+ms.date: 06/08/2017
 ---
 
 

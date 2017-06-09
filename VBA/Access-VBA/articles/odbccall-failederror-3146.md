@@ -3,14 +3,15 @@ title: ODBC - call failed. (Error 3146)
 keywords: jeterr40.chm5003146
 f1_keywords:
 - jeterr40.chm5003146
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2f955592-13a5-a6f7-428c-1cabe003cfab
+ms.date: 06/08/2017
 ---
 
 
 # ODBC - call failed. (Error 3146)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

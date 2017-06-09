@@ -3,10 +3,11 @@ title: Image.IsVisible Property (Access)
 keywords: vbaac10.chm10393
 f1_keywords:
 - vbaac10.chm10393
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.IsVisible
 ms.assetid: c0359df3-a60b-e0d4-e494-3ea2b237aa25
+ms.date: 06/08/2017
 ---
 
 

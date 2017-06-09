@@ -3,10 +3,11 @@ title: ODBCError.ErrorString Property (Excel)
 keywords: vbaxl10.chm527074
 f1_keywords:
 - vbaxl10.chm527074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCError.ErrorString
 ms.assetid: 8d7a5e14-459a-963f-e3a4-696ec1b43d21
+ms.date: 06/08/2017
 ---
 
 

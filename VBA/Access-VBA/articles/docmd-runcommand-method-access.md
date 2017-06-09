@@ -3,10 +3,11 @@ title: DoCmd.RunCommand Method (Access)
 keywords: vbaac10.chm4174
 f1_keywords:
 - vbaac10.chm4174
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.RunCommand
 ms.assetid: 5d4a4a3c-cea0-7f2c-8af7-51b65f7bdcf8
+ms.date: 06/08/2017
 ---
 
 

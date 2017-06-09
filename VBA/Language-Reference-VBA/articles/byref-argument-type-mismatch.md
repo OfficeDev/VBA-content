@@ -3,8 +3,9 @@ title: ByRef argument type mismatch
 keywords: vblr6.chm1011308
 f1_keywords:
 - vblr6.chm1011308
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6adca657-8620-e3f1-3587-e317f988979c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Index Property Example
 keywords: fm20.chm5225145
 f1_keywords:
 - fm20.chm5225145
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7e2a502c-386d-cc3d-842e-8fbbe95e2518
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailItem.To Property (Outlook)
 keywords: vbaol11.chm1362
 f1_keywords:
 - vbaol11.chm1362
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.To
 ms.assetid: 036dc0b7-1ac7-3884-8d3e-e2f2f1e66ff5
+ms.date: 06/08/2017
 ---
 
 

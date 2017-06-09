@@ -1,7 +1,8 @@
 ---
 title: Assignment to constant not permitted
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9fb23a16-79b2-4862-b31f-4c31ca2a29a1
+ms.date: 06/08/2017
 ---
 
 

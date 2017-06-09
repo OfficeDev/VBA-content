@@ -3,10 +3,11 @@ title: PublishObjects.Item Method (PowerPoint)
 keywords: vbapp10.chm634003
 f1_keywords:
 - vbapp10.chm634003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObjects.Item
 ms.assetid: cf51a669-e5b3-a49d-e8fa-f9a16ab9ab53
+ms.date: 06/08/2017
 ---
 
 

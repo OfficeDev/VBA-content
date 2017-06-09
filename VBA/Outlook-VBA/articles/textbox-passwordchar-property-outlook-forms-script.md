@@ -3,8 +3,9 @@ title: TextBox.PasswordChar Property (Outlook Forms Script)
 keywords: olfm10.chm2001690
 f1_keywords:
 - olfm10.chm2001690
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f9f80fb8-3c93-86fa-c717-e3bf4bde29fd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Callout Property (Word)
 keywords: vbawd10.chm162857063
 f1_keywords:
 - vbawd10.chm162857063
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Callout
 ms.assetid: 87cc8811-497d-17b9-4483-682cdd1fbce3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Store.ExchangeStoreType Property (Outlook)
 keywords: vbaol11.chm802
 f1_keywords:
 - vbaol11.chm802
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.ExchangeStoreType
 ms.assetid: ca6002bd-444d-a111-adca-6f8fafc37ea1
+ms.date: 06/08/2017
 ---
 
 

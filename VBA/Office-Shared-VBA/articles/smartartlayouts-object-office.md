@@ -1,9 +1,10 @@
 ---
 title: SmartArtLayouts Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayouts
 ms.assetid: 25e33439-fb5e-01d7-1b85-01884a42ba68
+ms.date: 06/08/2017
 ---
 
 

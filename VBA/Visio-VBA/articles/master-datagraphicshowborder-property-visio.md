@@ -3,10 +3,11 @@ title: Master.DataGraphicShowBorder Property (Visio)
 keywords: vis_sdr.chm10760120
 f1_keywords:
 - vis_sdr.chm10760120
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicShowBorder
 ms.assetid: 203d631c-d838-ea0a-f67a-39de513e738e
+ms.date: 06/08/2017
 ---
 
 

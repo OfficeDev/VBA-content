@@ -3,8 +3,9 @@ title: DoCmd/DOCMD Commands
 keywords: vis_sdr.chm1046209
 f1_keywords:
 - vis_sdr.chm1046209
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: b8390f44-607c-c32a-5200-e1559c51b2a8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.PathSeparator Property (Publisher)
 keywords: vbapb10.chm131104
 f1_keywords:
 - vbapb10.chm131104
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.PathSeparator
 ms.assetid: f8c07ce4-d171-9c5b-60ac-d544bf65e620
+ms.date: 06/08/2017
 ---
 
 

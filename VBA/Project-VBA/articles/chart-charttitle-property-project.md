@@ -1,7 +1,8 @@
 ---
 title: Chart.ChartTitle Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: eb2e9c18-1dcc-3d66-e73c-b5d0dfa88472
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FillFormat.PresetTexture Property (Excel)
 keywords: vbaxl10.chm115019
 f1_keywords:
 - vbaxl10.chm115019
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.PresetTexture
 ms.assetid: 3ed8dc1b-f816-ece8-6238-44d5d8f51378
+ms.date: 06/08/2017
 ---
 
 

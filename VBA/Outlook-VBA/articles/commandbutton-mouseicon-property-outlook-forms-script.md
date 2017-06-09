@@ -1,7 +1,8 @@
 ---
 title: CommandButton.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6364a63d-64e7-a9bf-91e2-1c08531beee0
+ms.date: 06/08/2017
 ---
 
 

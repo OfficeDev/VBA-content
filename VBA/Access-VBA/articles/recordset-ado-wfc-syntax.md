@@ -1,13 +1,14 @@
 ---
 title: Recordset (ADO/WFC Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 28314537-2585-6e29-2014-e7fd8ae78542
+ms.date: 06/08/2017
 ---
 
 
 # Recordset (ADO/WFC Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

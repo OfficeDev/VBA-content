@@ -3,10 +3,11 @@ title: WorksheetFunction.Even Method (Excel)
 keywords: vbaxl10.chm137183
 f1_keywords:
 - vbaxl10.chm137183
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Even
 ms.assetid: f67f74fd-f3af-69d1-1b42-8295fbdb1ec3
+ms.date: 06/08/2017
 ---
 
 

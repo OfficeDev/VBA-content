@@ -3,8 +3,9 @@ title: Add Watch Dialog Box
 keywords: vbui6.chm2019270
 f1_keywords:
 - vbui6.chm2019270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1871880c-b701-21f6-0c32-c032154100c1
+ms.date: 06/08/2017
 ---
 
 

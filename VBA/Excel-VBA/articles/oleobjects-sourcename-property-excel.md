@@ -3,10 +3,11 @@ title: OLEObjects.SourceName Property (Excel)
 keywords: vbaxl10.chm421074
 f1_keywords:
 - vbaxl10.chm421074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.SourceName
 ms.assetid: 8e317f28-990b-9d8c-3b0c-577e238fa063
+ms.date: 06/08/2017
 ---
 
 

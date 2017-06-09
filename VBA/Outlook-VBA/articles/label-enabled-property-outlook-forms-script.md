@@ -1,7 +1,8 @@
 ---
 title: Label.Enabled Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5674182d-96eb-b004-7158-b6a089d3255b
+ms.date: 06/08/2017
 ---
 
 

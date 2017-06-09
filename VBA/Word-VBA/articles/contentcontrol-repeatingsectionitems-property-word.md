@@ -3,8 +3,9 @@ title: ContentControl.RepeatingSectionItems Property (Word)
 keywords: vbawd10.chm266534946
 f1_keywords:
 - vbawd10.chm266534946
-ms.prod: WORD
+ms.prod: word
 ms.assetid: bd4ef14e-cb17-f883-682d-d02a9fdcae60
+ms.date: 06/08/2017
 ---
 
 

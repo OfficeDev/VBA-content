@@ -1,13 +1,14 @@
 ---
 title: Invalid reference in SELECT statement. (Error 3242)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 002935e3-b4ec-2b15-9aa7-39b7ef9154d9
+ms.date: 06/08/2017
 ---
 
 
 # Invalid reference in SELECT statement. (Error 3242)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

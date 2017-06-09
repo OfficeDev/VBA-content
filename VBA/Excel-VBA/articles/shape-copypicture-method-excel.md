@@ -3,10 +3,11 @@ title: Shape.CopyPicture Method (Excel)
 keywords: vbaxl10.chm636127
 f1_keywords:
 - vbaxl10.chm636127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.CopyPicture
 ms.assetid: 276cd993-18b1-8c5b-3618-95e5b5c9a773
+ms.date: 06/08/2017
 ---
 
 

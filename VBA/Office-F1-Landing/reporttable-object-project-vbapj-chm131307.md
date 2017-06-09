@@ -3,8 +3,9 @@ title: ReportTable Object, Project [vbapj.chm131307]
 keywords: vbapj.chm131307
 f1_keywords:
 - vbapj.chm131307
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1dfac60c-081f-4668-92dc-92ccff58e137
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ItemSend Event (Outlook)
 keywords: vbaol11.chm429
 f1_keywords:
 - vbaol11.chm429
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.ItemSend
 ms.assetid: 54f506ea-87a2-29b9-2b33-67bc87167933
+ms.date: 06/08/2017
 ---
 
 

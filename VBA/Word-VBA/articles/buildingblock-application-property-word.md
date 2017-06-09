@@ -3,10 +3,11 @@ title: BuildingBlock.Application Property (Word)
 keywords: vbawd10.chm203621352
 f1_keywords:
 - vbawd10.chm203621352
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.Application
 ms.assetid: 63a36595-ccb1-0cdd-7950-c6ab2c6e6d26
+ms.date: 06/08/2017
 ---
 
 

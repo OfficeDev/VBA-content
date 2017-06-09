@@ -1,9 +1,10 @@
 ---
 title: Task.CalendarGuid Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.CalendarGuid
 ms.assetid: 7420d159-e579-1989-b266-65323e3a9f3a
+ms.date: 06/08/2017
 ---
 
 

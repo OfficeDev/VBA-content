@@ -3,8 +3,9 @@ title: Line isn't an executable statement, Office Shared [vblr6.chm1040349]
 keywords: vblr6.chm1040349
 f1_keywords:
 - vblr6.chm1040349
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: def7e6c9-f732-45ac-909c-4e2f20827a94
+ms.date: 06/08/2017
 ---
 
 

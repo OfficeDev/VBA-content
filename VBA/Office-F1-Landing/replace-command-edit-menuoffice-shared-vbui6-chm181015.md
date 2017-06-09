@@ -3,8 +3,9 @@ title: Replace Command (Edit Menu), Office Shared [vbui6.chm181015]
 keywords: vbui6.chm181015
 f1_keywords:
 - vbui6.chm181015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ae56d5a0-91d3-4e2d-b8a4-8cde3691efda
+ms.date: 06/08/2017
 ---
 
 

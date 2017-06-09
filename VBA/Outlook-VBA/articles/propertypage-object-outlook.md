@@ -3,10 +3,11 @@ title: PropertyPage Object (Outlook)
 keywords: vbaol11.chm380
 f1_keywords:
 - vbaol11.chm380
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPage
 ms.assetid: 22e561d5-603e-2cf3-e142-6173dd0d4c25
+ms.date: 06/08/2017
 ---
 
 

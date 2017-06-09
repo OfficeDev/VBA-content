@@ -3,10 +3,11 @@ title: WorksheetFunction.Ppmt Method (Excel)
 keywords: vbaxl10.chm137141
 f1_keywords:
 - vbaxl10.chm137141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ppmt
 ms.assetid: 9b088c90-9db6-b043-ee3e-0f9709a06475
+ms.date: 06/08/2017
 ---
 
 

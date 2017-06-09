@@ -3,8 +3,9 @@ title: Left Property, Access [vbaac10.chm10467]
 keywords: vbaac10.chm10467
 f1_keywords:
 - vbaac10.chm10467
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dd6334f7-a716-45cf-b0f5-6fc9bb909c6d
+ms.date: 06/08/2017
 ---
 
 

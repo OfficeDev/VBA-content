@@ -1,9 +1,10 @@
 ---
 title: TaskRequestUpdateItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeDelete
 ms.assetid: b19bb985-c218-847a-300e-397da5b8ae73
+ms.date: 06/08/2017
 ---
 
 

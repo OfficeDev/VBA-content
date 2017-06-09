@@ -3,10 +3,11 @@ title: ColorScale.PTCondition Property (Excel)
 keywords: vbaxl10.chm806082
 f1_keywords:
 - vbaxl10.chm806082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.PTCondition
 ms.assetid: 73bedd99-00d4-6ca7-c2ad-9bbe851d0be7
+ms.date: 06/08/2017
 ---
 
 

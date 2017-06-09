@@ -1,9 +1,10 @@
 ---
 title: XlRgbColor Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlRgbColor
 ms.assetid: 435ec542-c5d4-5b27-f87b-f1d589081312
+ms.date: 06/08/2017
 ---
 
 

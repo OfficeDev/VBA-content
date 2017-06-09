@@ -3,10 +3,11 @@ title: Axis.Delete Method (Excel)
 keywords: vbaxl10.chm561080
 f1_keywords:
 - vbaxl10.chm561080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.Delete
 ms.assetid: 3a000eb1-dfbf-00df-d7b9-3b92728e96fa
+ms.date: 06/08/2017
 ---
 
 

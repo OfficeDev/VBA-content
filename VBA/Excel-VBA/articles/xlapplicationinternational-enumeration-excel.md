@@ -1,9 +1,10 @@
 ---
 title: XlApplicationInternational Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlApplicationInternational
 ms.assetid: 19e6c752-652e-d1d1-5aa3-a288c149f87a
+ms.date: 06/08/2017
 ---
 
 

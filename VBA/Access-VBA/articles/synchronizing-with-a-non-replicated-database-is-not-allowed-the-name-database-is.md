@@ -3,14 +3,15 @@ title: Synchronizing with a non-replicated database is not allowed. The <name> d
 keywords: jeterr40.chm5003605
 f1_keywords:
 - jeterr40.chm5003605
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5233d276-9a31-bbe3-7b2e-33636c7df521
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizing with a non-replicated database is not allowed. The <name> database is not a Design Master or replica. (Error 3605)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

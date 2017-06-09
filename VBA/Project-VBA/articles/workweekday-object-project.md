@@ -1,9 +1,10 @@
 ---
 title: WorkWeekDay Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeekDay
 ms.assetid: b6cbbe5f-11de-de90-e0cc-82bc2027acf5
+ms.date: 06/08/2017
 ---
 
 

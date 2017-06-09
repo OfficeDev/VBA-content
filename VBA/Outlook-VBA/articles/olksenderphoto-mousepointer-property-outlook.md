@@ -3,10 +3,11 @@ title: OlkSenderPhoto.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000480
 f1_keywords:
 - vbaol11.chm1000480
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.MousePointer
 ms.assetid: 68489e88-294a-1861-d0b8-052a3368c3dd
+ms.date: 06/08/2017
 ---
 
 

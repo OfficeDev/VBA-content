@@ -3,10 +3,11 @@ title: NavigationControl.Name Property (Access)
 keywords: vbaac10.chm11136
 f1_keywords:
 - vbaac10.chm11136
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Name
 ms.assetid: 0daea497-ec28-769b-6722-4ac60026147c
+ms.date: 06/08/2017
 ---
 
 

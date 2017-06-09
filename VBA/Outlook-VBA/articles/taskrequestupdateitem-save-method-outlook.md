@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.Save Method (Outlook)
 keywords: vbaol11.chm1953
 f1_keywords:
 - vbaol11.chm1953
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Save
 ms.assetid: 3110b151-8850-6ac1-b2a5-1bc35d9beff3
+ms.date: 06/08/2017
 ---
 
 

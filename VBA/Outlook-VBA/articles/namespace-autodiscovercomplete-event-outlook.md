@@ -3,10 +3,11 @@ title: NameSpace.AutoDiscoverComplete Event (Outlook)
 keywords: vbaol11.chm3301
 f1_keywords:
 - vbaol11.chm3301
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.AutoDiscoverComplete
 ms.assetid: b7cac212-4d38-660e-0caf-48f97035f14a
+ms.date: 06/08/2017
 ---
 
 

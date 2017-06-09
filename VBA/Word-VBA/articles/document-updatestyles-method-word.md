@@ -3,10 +3,11 @@ title: Document.UpdateStyles Method (Word)
 keywords: vbawd10.chm158007423
 f1_keywords:
 - vbawd10.chm158007423
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.UpdateStyles
 ms.assetid: fe713979-27e1-c81c-198d-5e25564233c2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.PasteFormatWithinDocument Property (Word)
 keywords: vbawd10.chm162988509
 f1_keywords:
 - vbawd10.chm162988509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PasteFormatWithinDocument
 ms.assetid: 57075eeb-5a03-8b44-7293-b79c70da1e24
+ms.date: 06/08/2017
 ---
 
 

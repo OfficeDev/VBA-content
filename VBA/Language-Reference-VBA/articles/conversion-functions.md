@@ -1,7 +1,8 @@
 ---
 title: Conversion Functions
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7548597-105e-77f0-0ec0-59dc5f89b7aa
+ms.date: 06/08/2017
 ---
 
 

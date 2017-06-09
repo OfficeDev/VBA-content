@@ -1,6 +1,8 @@
 ---
 title: Resource.IsLocked Property (Project)
 ms.assetid: 56525d08-e779-b9e4-c41a-24664ed68538
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

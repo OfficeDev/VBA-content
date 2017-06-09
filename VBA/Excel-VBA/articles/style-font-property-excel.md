@@ -3,10 +3,11 @@ title: Style.Font Property (Excel)
 keywords: vbaxl10.chm177077
 f1_keywords:
 - vbaxl10.chm177077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Font
 ms.assetid: bce2abc4-73fc-d1cf-ee4c-c46adbb01aae
+ms.date: 06/08/2017
 ---
 
 

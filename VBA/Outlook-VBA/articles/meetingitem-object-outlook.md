@@ -3,10 +3,11 @@ title: MeetingItem Object (Outlook)
 keywords: vbaol11.chm2989
 f1_keywords:
 - vbaol11.chm2989
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem
 ms.assetid: b75730f5-b395-3d66-5acd-b64fd8fcd78f
+ms.date: 06/08/2017
 ---
 
 

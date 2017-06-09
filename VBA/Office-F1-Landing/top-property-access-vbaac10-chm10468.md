@@ -3,8 +3,9 @@ title: Top Property, Access [vbaac10.chm10468]
 keywords: vbaac10.chm10468
 f1_keywords:
 - vbaac10.chm10468
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48ae84f9-f0e3-405e-9a70-69ce09c932b4
+ms.date: 06/08/2017
 ---
 
 

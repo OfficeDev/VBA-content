@@ -3,10 +3,11 @@ title: Report.ServerFilter Property (Access)
 keywords: vbaac10.chm13694
 f1_keywords:
 - vbaac10.chm13694
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ServerFilter
 ms.assetid: e73ad797-8c76-705f-080b-2d0f3423cb39
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ServerPublishOptions.IsPublishedPage Property (Visio)
 keywords: vis_sdr.chm17962635
 f1_keywords:
 - vis_sdr.chm17962635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.IsPublishedPage
 ms.assetid: b174f50d-4d37-962a-06cc-5013b36309ff
+ms.date: 06/08/2017
 ---
 
 

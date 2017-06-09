@@ -1,7 +1,8 @@
 ---
 title: Specifying Rule Actions
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c5f83c81-0e01-38aa-5ec7-3932b4443e43
+ms.date: 06/08/2017
 ---
 
 

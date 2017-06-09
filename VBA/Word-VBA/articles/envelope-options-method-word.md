@@ -3,10 +3,11 @@ title: Envelope.Options Method (Word)
 keywords: vbawd10.chm152567912
 f1_keywords:
 - vbawd10.chm152567912
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.Options
 ms.assetid: 5619bf1a-eaf9-aa0e-01c3-66111c20dd0c
+ms.date: 06/08/2017
 ---
 
 

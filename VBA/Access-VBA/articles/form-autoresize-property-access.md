@@ -3,10 +3,11 @@ title: Form.AutoResize Property (Access)
 keywords: vbaac10.chm13367
 f1_keywords:
 - vbaac10.chm13367
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AutoResize
 ms.assetid: 5ae98bc8-fa33-7e4b-31c8-ba22aa026a45
+ms.date: 06/08/2017
 ---
 
 

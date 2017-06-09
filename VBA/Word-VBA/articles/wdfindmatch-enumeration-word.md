@@ -1,9 +1,10 @@
 ---
 title: WdFindMatch Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFindMatch
 ms.assetid: 90149975-e313-75b2-6a2f-2a9c5fdafd27
+ms.date: 06/08/2017
 ---
 
 

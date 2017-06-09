@@ -3,10 +3,11 @@ title: OLEDBConnection.Application Property (Excel)
 keywords: vbaxl10.chm793073
 f1_keywords:
 - vbaxl10.chm793073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.Application
 ms.assetid: fadade6e-d90f-974f-05e0-429e1500ef03
+ms.date: 06/08/2017
 ---
 
 

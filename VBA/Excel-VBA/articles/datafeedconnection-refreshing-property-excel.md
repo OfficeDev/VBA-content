@@ -3,8 +3,9 @@ title: DataFeedConnection.Refreshing Property (Excel)
 keywords: vbaxl10.chm928079
 f1_keywords:
 - vbaxl10.chm928079
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bd842a35-7474-1cfa-fd59-921152e9d30e
+ms.date: 06/08/2017
 ---
 
 

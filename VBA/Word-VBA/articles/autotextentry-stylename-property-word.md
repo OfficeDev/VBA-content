@@ -3,10 +3,11 @@ title: AutoTextEntry.StyleName Property (Word)
 keywords: vbawd10.chm154533891
 f1_keywords:
 - vbawd10.chm154533891
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntry.StyleName
 ms.assetid: 0bcb48b2-c131-4bff-732e-ec221f24e463
+ms.date: 06/08/2017
 ---
 
 

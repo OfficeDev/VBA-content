@@ -3,10 +3,11 @@ title: WrapFormat.Side Property (Publisher)
 keywords: vbapb10.chm786436
 f1_keywords:
 - vbapb10.chm786436
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Side
 ms.assetid: b7998643-216a-a294-bbee-e5f1947400a7
+ms.date: 06/08/2017
 ---
 
 

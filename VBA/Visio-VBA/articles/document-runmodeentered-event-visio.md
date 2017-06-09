@@ -3,10 +3,11 @@ title: Document.RunModeEntered Event (Visio)
 keywords: vis_sdr.chm10519210
 f1_keywords:
 - vis_sdr.chm10519210
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.RunModeEntered
 ms.assetid: 8e582dd1-b2c5-72e5-b144-510726d35a18
+ms.date: 06/08/2017
 ---
 
 

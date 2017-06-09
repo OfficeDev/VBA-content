@@ -3,10 +3,11 @@ title: Shape.BringForward Method (Visio)
 keywords: vis_sdr.chm11216095
 f1_keywords:
 - vis_sdr.chm11216095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.BringForward
 ms.assetid: 88e5c746-e7f2-eddd-35c9-2d9c09c1a602
+ms.date: 06/08/2017
 ---
 
 

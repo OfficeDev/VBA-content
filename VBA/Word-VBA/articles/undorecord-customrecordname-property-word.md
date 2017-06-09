@@ -3,10 +3,11 @@ title: UndoRecord.CustomRecordName Property (Word)
 keywords: vbawd10.chm56098820
 f1_keywords:
 - vbawd10.chm56098820
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UndoRecord.CustomRecordName
 ms.assetid: 97da07e1-3b9f-de7d-c2d8-af6af2bb2374
+ms.date: 06/08/2017
 ---
 
 

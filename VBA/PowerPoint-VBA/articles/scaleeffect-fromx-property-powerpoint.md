@@ -3,10 +3,11 @@ title: ScaleEffect.FromX Property (PowerPoint)
 keywords: vbapp10.chm660005
 f1_keywords:
 - vbapp10.chm660005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect.FromX
 ms.assetid: 2533c987-5321-177f-946d-ee5be5122b16
+ms.date: 06/08/2017
 ---
 
 

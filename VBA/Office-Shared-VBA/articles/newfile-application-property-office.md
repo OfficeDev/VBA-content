@@ -1,9 +1,10 @@
 ---
 title: NewFile.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.NewFile.Application
 ms.assetid: 3ef429d3-12a6-cc81-4e31-72e496bba2c6
+ms.date: 06/08/2017
 ---
 
 

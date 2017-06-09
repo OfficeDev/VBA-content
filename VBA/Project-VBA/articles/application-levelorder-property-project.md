@@ -1,9 +1,10 @@
 ---
 title: Application.LevelOrder Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelOrder
 ms.assetid: c8cf70bb-7808-48c4-43b4-c7f693d4613d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FillFormat.PresetGradientType Property (Publisher)
 keywords: vbapb10.chm2359559
 f1_keywords:
 - vbapb10.chm2359559
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetGradientType
 ms.assetid: 1febce3f-9925-3fec-eb78-f5167585477e
+ms.date: 06/08/2017
 ---
 
 

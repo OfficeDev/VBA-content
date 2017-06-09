@@ -1,9 +1,10 @@
 ---
 title: MsoBarProtection Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoBarProtection
 ms.assetid: 5475758e-32c8-98bc-e07e-613668b6f20e
+ms.date: 06/08/2017
 ---
 
 

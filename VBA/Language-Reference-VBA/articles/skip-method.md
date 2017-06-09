@@ -3,10 +3,11 @@ title: Skip Method
 keywords: vblr6.chm2182079
 f1_keywords:
 - vblr6.chm2182079
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Skip
 ms.assetid: 0951169b-a890-9828-a81b-9218a9d5ebd4
+ms.date: 06/08/2017
 ---
 
 

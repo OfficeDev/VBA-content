@@ -3,8 +3,9 @@ title: Line 'item1' Syntax error property 'item2' in 'item3' was missing an equa
 keywords: vblr6.chm1117749
 f1_keywords:
 - vblr6.chm1117749
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e638861-5739-473a-991e-b49204b6f271
+ms.date: 06/08/2017
 ---
 
 

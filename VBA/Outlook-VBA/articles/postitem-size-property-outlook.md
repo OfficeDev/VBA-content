@@ -3,10 +3,11 @@ title: PostItem.Size Property (Outlook)
 keywords: vbaol11.chm1535
 f1_keywords:
 - vbaol11.chm1535
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Size
 ms.assetid: 0279d361-d28a-6738-deea-f290b25f87e0
+ms.date: 06/08/2017
 ---
 
 

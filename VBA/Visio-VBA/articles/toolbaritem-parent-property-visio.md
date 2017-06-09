@@ -3,10 +3,11 @@ title: ToolbarItem.Parent Property (Visio)
 keywords: vis_sdr.chm13514040
 f1_keywords:
 - vis_sdr.chm13514040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.Parent
 ms.assetid: 76c63643-684b-65fe-f9fe-377dbacf911b
+ms.date: 06/08/2017
 ---
 
 

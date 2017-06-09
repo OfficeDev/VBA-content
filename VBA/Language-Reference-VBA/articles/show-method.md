@@ -3,10 +3,11 @@ title: Show Method
 keywords: vblr6.chm916142
 f1_keywords:
 - vblr6.chm916142
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Show
 ms.assetid: 25d05f62-8901-5592-00e0-ca7c340dfb86
+ms.date: 06/08/2017
 ---
 
 

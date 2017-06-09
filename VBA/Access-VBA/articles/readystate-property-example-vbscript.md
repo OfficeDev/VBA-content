@@ -1,13 +1,14 @@
 ---
 title: ReadyState Property Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0deacb21-4503-cee5-ea8c-6b30af903ab5
+ms.date: 06/08/2017
 ---
 
 
 # ReadyState Property Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

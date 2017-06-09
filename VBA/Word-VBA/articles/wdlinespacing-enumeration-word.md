@@ -1,9 +1,10 @@
 ---
 title: WdLineSpacing Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLineSpacing
 ms.assetid: 02e95bf9-b295-2199-a5cf-a7798b1273a0
+ms.date: 06/08/2017
 ---
 
 

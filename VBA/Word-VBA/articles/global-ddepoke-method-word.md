@@ -3,10 +3,11 @@ title: Global.DDEPoke Method (Word)
 keywords: vbawd10.chm163119416
 f1_keywords:
 - vbawd10.chm163119416
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.DDEPoke
 ms.assetid: d92a84af-d1c2-4082-2e6d-993493ff1ab5
+ms.date: 06/08/2017
 ---
 
 

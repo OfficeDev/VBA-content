@@ -3,10 +3,11 @@ title: RectangularGradient Object (Excel)
 keywords: vbaxl10.chm856072
 f1_keywords:
 - vbaxl10.chm856072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RectangularGradient
 ms.assetid: e668d158-0436-cb27-a6f5-e27453681d66
+ms.date: 06/08/2017
 ---
 
 

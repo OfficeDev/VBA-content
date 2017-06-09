@@ -3,8 +3,9 @@ title: Pmt Function
 keywords: vblr6.chm1009285
 f1_keywords:
 - vblr6.chm1009285
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30583bb1-3a39-bdf5-7632-c8810b9e3617
+ms.date: 06/08/2017
 ---
 
 

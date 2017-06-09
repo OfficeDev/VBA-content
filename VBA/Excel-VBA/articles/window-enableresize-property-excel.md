@@ -3,10 +3,11 @@ title: Window.EnableResize Property (Excel)
 keywords: vbaxl10.chm356091
 f1_keywords:
 - vbaxl10.chm356091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.EnableResize
 ms.assetid: cc94ca6f-0553-8d63-c30d-0fe6fdbff551
+ms.date: 06/08/2017
 ---
 
 

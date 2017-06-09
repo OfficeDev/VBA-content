@@ -3,10 +3,11 @@ title: ThreeDFormat.ExtrusionColor Property (Word)
 keywords: vbawd10.chm164626533
 f1_keywords:
 - vbawd10.chm164626533
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.ExtrusionColor
 ms.assetid: 60c8bf56-1a6e-08e9-2100-058c7863e2fe
+ms.date: 06/08/2017
 ---
 
 

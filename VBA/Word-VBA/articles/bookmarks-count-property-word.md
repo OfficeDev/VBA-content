@@ -3,10 +3,11 @@ title: Bookmarks.Count Property (Word)
 keywords: vbawd10.chm157745154
 f1_keywords:
 - vbawd10.chm157745154
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmarks.Count
 ms.assetid: 2a399e4d-19b6-fd32-8c17-e63941972e4f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: BuildingBlockTypes Object (Word)
 keywords: vbawd10.chm2896
 f1_keywords:
 - vbawd10.chm2896
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlockTypes
 ms.assetid: fb179437-b736-dd99-3aea-125346aa7a3d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot modify table structure. Another user has the table open. (Error 34
 keywords: jeterr40.chm5003422
 f1_keywords:
 - jeterr40.chm5003422
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d1dc316e-9640-f008-933f-b3866b2cdb2d
+ms.date: 06/08/2017
 ---
 
 
 # Cannot modify table structure. Another user has the table open. (Error 3422)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

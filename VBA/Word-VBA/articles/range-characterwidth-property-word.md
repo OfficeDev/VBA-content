@@ -3,10 +3,11 @@ title: Range.CharacterWidth Property (Word)
 keywords: vbawd10.chm157155654
 f1_keywords:
 - vbawd10.chm157155654
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.CharacterWidth
 ms.assetid: 83eadb2b-5c79-d246-d1f1-fd6a9e1f4bd8
+ms.date: 06/08/2017
 ---
 
 

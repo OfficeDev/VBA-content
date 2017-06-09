@@ -3,10 +3,11 @@ title: CommandButton.ForeShade Property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ForeShade
 ms.assetid: c8ddc31f-83a3-c836-e1f7-2ffe5ea86d4a
+ms.date: 06/08/2017
 ---
 
 

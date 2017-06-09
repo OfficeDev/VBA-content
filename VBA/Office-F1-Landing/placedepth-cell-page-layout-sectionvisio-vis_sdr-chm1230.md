@@ -3,8 +3,9 @@ title: PlaceDepth Cell (Page Layout Section), Visio [vis_sdr.chm1230]
 keywords: vis_sdr.chm1230
 f1_keywords:
 - vis_sdr.chm1230
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 40a886c5-cc6d-4e2d-b24a-98ea10b27db6
+ms.date: 06/08/2017
 ---
 
 

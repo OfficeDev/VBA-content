@@ -3,10 +3,11 @@ title: WorksheetFunction.F_Dist_RT Method (Excel)
 keywords: vbaxl10.chm137403
 f1_keywords:
 - vbaxl10.chm137403
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Dist_RT
 ms.assetid: 307f9afa-3e15-edce-cabb-dd96b351cdab
+ms.date: 06/08/2017
 ---
 
 

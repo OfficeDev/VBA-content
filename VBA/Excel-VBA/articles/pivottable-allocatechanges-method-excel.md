@@ -3,10 +3,11 @@ title: PivotTable.AllocateChanges Method (Excel)
 keywords: vbaxl10.chm235191
 f1_keywords:
 - vbaxl10.chm235191
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AllocateChanges
 ms.assetid: 6eb2d6b6-7340-fe63-611c-0972b9ccf496
+ms.date: 06/08/2017
 ---
 
 

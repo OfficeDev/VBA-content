@@ -3,14 +3,15 @@ title: Table <name> is exclusively locked by user <name> on machine <name>. (Err
 keywords: jeterr40.chm5003189
 f1_keywords:
 - jeterr40.chm5003189
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e5e34490-e9a4-f9ae-8d23-d251af8f748b
+ms.date: 06/08/2017
 ---
 
 
 # Table <name> is exclusively locked by user <name> on machine <name>. (Error 3189)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

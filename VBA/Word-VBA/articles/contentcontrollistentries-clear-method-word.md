@@ -3,10 +3,11 @@ title: ContentControlListEntries.Clear Method (Word)
 keywords: vbawd10.chm230948968
 f1_keywords:
 - vbawd10.chm230948968
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntries.Clear
 ms.assetid: baaae83d-98ad-18ee-9302-632fbf5271fe
+ms.date: 06/08/2017
 ---
 
 

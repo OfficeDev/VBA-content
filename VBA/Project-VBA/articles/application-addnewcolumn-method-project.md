@@ -3,10 +3,11 @@ title: Application.AddNewColumn Method (Project)
 keywords: vbapj.chm710
 f1_keywords:
 - vbapj.chm710
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AddNewColumn
 ms.assetid: 009071ad-b713-4252-ab1c-781d58620d8c
+ms.date: 06/08/2017
 ---
 
 

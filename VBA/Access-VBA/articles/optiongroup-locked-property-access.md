@@ -3,10 +3,11 @@ title: OptionGroup.Locked Property (Access)
 keywords: vbaac10.chm10830
 f1_keywords:
 - vbaac10.chm10830
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Locked
 ms.assetid: 3d131a07-41cf-a21c-afad-623f01ed14ad
+ms.date: 06/08/2017
 ---
 
 

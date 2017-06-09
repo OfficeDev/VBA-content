@@ -3,8 +3,9 @@ title: Text25 Property, Project [vbapj.chm132739]
 keywords: vbapj.chm132739
 f1_keywords:
 - vbapj.chm132739
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83259727-3892-4b2b-a459-ba7fcbdfedc9
+ms.date: 06/08/2017
 ---
 
 

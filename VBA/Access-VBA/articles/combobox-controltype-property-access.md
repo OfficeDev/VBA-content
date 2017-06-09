@@ -3,10 +3,11 @@ title: ComboBox.ControlType Property (Access)
 keywords: vbaac10.chm11373
 f1_keywords:
 - vbaac10.chm11373
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ControlType
 ms.assetid: 2826c41c-ef98-f474-10d2-3b181daf041d
+ms.date: 06/08/2017
 ---
 
 

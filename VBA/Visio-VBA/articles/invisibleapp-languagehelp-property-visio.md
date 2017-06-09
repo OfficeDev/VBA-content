@@ -3,10 +3,11 @@ title: InvisibleApp.LanguageHelp Property (Visio)
 keywords: vis_sdr.chm17551700
 f1_keywords:
 - vis_sdr.chm17551700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.LanguageHelp
 ms.assetid: 58dc3f31-84c3-6b94-4460-c648dfff22d6
+ms.date: 06/08/2017
 ---
 
 

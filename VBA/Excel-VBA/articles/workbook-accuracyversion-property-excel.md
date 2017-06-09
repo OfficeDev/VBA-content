@@ -3,10 +3,11 @@ title: Workbook.AccuracyVersion Property (Excel)
 keywords: vbaxl10.chm199271
 f1_keywords:
 - vbaxl10.chm199271
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AccuracyVersion
 ms.assetid: bc81782c-662c-87ec-8381-d06e77674d0c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.IsObjectValid Property (Word)
 keywords: vbawd10.chm158335085
 f1_keywords:
 - vbawd10.chm158335085
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.IsObjectValid
 ms.assetid: 94cb08e4-2a4f-5ebf-25b8-6492e35f5695
+ms.date: 06/08/2017
 ---
 
 

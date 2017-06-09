@@ -3,8 +3,9 @@ title: TopPane Property, Project [vbapj.chm132711]
 keywords: vbapj.chm132711
 f1_keywords:
 - vbapj.chm132711
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2987fe3b-9ebb-49b9-b8cd-d136e716acfd
+ms.date: 06/08/2017
 ---
 
 

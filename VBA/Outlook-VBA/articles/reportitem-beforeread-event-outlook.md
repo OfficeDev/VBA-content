@@ -1,9 +1,10 @@
 ---
 title: ReportItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeRead
 ms.assetid: dc485dac-3ee0-f20e-c9b8-6dd01b56ac30
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.MoveUntil Method (Word)
 keywords: vbawd10.chm158662771
 f1_keywords:
 - vbawd10.chm158662771
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveUntil
 ms.assetid: 888655d0-44ec-b589-bd0b-b3e193e413ef
+ms.date: 06/08/2017
 ---
 
 

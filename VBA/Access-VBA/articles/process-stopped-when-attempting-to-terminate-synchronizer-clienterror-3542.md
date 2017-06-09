@@ -3,14 +3,15 @@ title: Process stopped when attempting to terminate Synchronizer client. (Error 
 keywords: jeterr40.chm5003542
 f1_keywords:
 - jeterr40.chm5003542
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4c1626a4-8f65-c342-ab86-883847cd278b
+ms.date: 06/08/2017
 ---
 
 
 # Process stopped when attempting to terminate Synchronizer client. (Error 3542)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: TextBox.OnKeyPress Property (Access)
 keywords: vbaac10.chm11129
 f1_keywords:
 - vbaac10.chm11129
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnKeyPress
 ms.assetid: 458d2e2d-3003-79e4-a911-058928c25cef
+ms.date: 06/08/2017
 ---
 
 

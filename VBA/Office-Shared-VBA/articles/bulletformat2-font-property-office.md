@@ -1,9 +1,10 @@
 ---
 title: BulletFormat2.Font Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BulletFormat2.Font
 ms.assetid: 13ea8a0d-602f-5a30-73b5-9334349f041c
+ms.date: 06/08/2017
 ---
 
 

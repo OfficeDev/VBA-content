@@ -3,10 +3,11 @@ title: Controls Collection (Microsoft Forms)
 keywords: fm20.chm2000500
 f1_keywords:
 - fm20.chm2000500
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Controls
 ms.assetid: b84e6c66-8773-58c7-d076-191e4397ee6a
+ms.date: 06/08/2017
 ---
 
 

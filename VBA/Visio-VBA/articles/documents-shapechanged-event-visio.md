@@ -3,10 +3,11 @@ title: Documents.ShapeChanged Event (Visio)
 keywords: vis_sdr.chm10619230
 f1_keywords:
 - vis_sdr.chm10619230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.ShapeChanged
 ms.assetid: c39e7dd1-0baf-6a6e-b51c-e3f6e7dfa03d
+ms.date: 06/08/2017
 ---
 
 

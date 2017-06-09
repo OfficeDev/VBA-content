@@ -3,10 +3,11 @@ title: ListBox.RightPadding Property (Access)
 keywords: vbaac10.chm11308
 f1_keywords:
 - vbaac10.chm11308
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.RightPadding
 ms.assetid: aacb7180-a9f3-9450-dd2f-35f21768a9c7
+ms.date: 06/08/2017
 ---
 
 

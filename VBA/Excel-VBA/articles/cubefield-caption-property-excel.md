@@ -3,10 +3,11 @@ title: CubeField.Caption Property (Excel)
 keywords: vbaxl10.chm668102
 f1_keywords:
 - vbaxl10.chm668102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.Caption
 ms.assetid: 3a1fb6a9-422b-9e7e-36fd-02baf52a9658
+ms.date: 06/08/2017
 ---
 
 

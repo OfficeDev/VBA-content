@@ -3,10 +3,11 @@ title: View.GoToDate Method (Outlook)
 keywords: vbaol11.chm2496
 f1_keywords:
 - vbaol11.chm2496
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.GoToDate
 ms.assetid: 5ad66fcc-fcdf-9a48-a8e1-669dd294967b
+ms.date: 06/08/2017
 ---
 
 

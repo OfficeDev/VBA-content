@@ -3,10 +3,11 @@ title: Report.ScaleTop Property (Access)
 keywords: vbaac10.chm13746
 f1_keywords:
 - vbaac10.chm13746
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ScaleTop
 ms.assetid: 2f148587-6da0-a6d3-414a-82f97d94a615
+ms.date: 06/08/2017
 ---
 
 

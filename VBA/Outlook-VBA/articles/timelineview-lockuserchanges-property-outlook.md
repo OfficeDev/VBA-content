@@ -3,10 +3,11 @@ title: TimelineView.LockUserChanges Property (Outlook)
 keywords: vbaol11.chm2652
 f1_keywords:
 - vbaol11.chm2652
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.LockUserChanges
 ms.assetid: 1e7dcc85-58a2-5599-9a48-8405331d04c9
+ms.date: 06/08/2017
 ---
 
 

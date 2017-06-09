@@ -3,10 +3,11 @@ title: Axis.Crosses Property (Word)
 keywords: vbawd10.chm113049606
 f1_keywords:
 - vbawd10.chm113049606
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Crosses
 ms.assetid: 41235c80-55a5-3933-3469-fd95b37ec43c
+ms.date: 06/08/2017
 ---
 
 

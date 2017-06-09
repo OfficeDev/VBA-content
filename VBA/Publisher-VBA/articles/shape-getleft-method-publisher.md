@@ -3,10 +3,11 @@ title: Shape.GetLeft Method (Publisher)
 keywords: vbapb10.chm2228246
 f1_keywords:
 - vbapb10.chm2228246
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.GetLeft
 ms.assetid: e8f28ab3-f9da-eae7-2a21-b8b2505e9b44
+ms.date: 06/08/2017
 ---
 
 

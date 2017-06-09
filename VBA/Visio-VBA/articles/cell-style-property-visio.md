@@ -3,10 +3,11 @@ title: Cell.Style Property (Visio)
 keywords: vis_sdr.chm10151145
 f1_keywords:
 - vis_sdr.chm10151145
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Style
 ms.assetid: 12eec8c7-706a-488e-ad3a-326c9f628f5c
+ms.date: 06/08/2017
 ---
 
 

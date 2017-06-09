@@ -3,8 +3,9 @@ title: What is a MultiPage?
 keywords: fm20.chm5225196
 f1_keywords:
 - fm20.chm5225196
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2ec904f7-09aa-dfbe-ff00-ecb02be6d2c9
+ms.date: 06/08/2017
 ---
 
 

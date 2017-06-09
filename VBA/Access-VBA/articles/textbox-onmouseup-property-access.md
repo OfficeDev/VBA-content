@@ -3,10 +3,11 @@ title: TextBox.OnMouseUp Property (Access)
 keywords: vbaac10.chm11126
 f1_keywords:
 - vbaac10.chm11126
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnMouseUp
 ms.assetid: acd5de89-de56-e7c4-1a5d-cc560c5cffb6
+ms.date: 06/08/2017
 ---
 
 

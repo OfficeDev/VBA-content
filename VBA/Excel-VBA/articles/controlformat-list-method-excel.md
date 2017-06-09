@@ -3,10 +3,11 @@ title: ControlFormat.List Method (Excel)
 keywords: vbaxl10.chm630080
 f1_keywords:
 - vbaxl10.chm630080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.List
 ms.assetid: 8ec9abd2-d5cf-8179-96e9-a8b583bb8bcc
+ms.date: 06/08/2017
 ---
 
 

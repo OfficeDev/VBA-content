@@ -3,8 +3,9 @@ title: ConvertToGroupCanceled Event, Visio [vis_sdr.chm10019370]
 keywords: vis_sdr.chm10019370
 f1_keywords:
 - vis_sdr.chm10019370
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0476bda2-ae3e-4a0c-b79c-f57345651215
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: HasModule Property, Access [vbaac10.chm4376]
 keywords: vbaac10.chm4376
 f1_keywords:
 - vbaac10.chm4376
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d473a84b-a86f-4046-ba20-58f0b1318a3d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Properties Object (Access)
 keywords: vbaac10.chm10046
 f1_keywords:
 - vbaac10.chm10046
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Properties
 ms.assetid: 7e888aad-e783-dfc5-46df-9d92c89cfc35
+ms.date: 06/08/2017
 ---
 
 

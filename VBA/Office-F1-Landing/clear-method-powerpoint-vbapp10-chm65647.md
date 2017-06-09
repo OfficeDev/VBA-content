@@ -3,8 +3,9 @@ title: Clear Method, PowerPoint [vbapp10.chm65647]
 keywords: vbapp10.chm65647
 f1_keywords:
 - vbapp10.chm65647
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0206cf1-c503-4514-a7b3-45bfc38b08c0
+ms.date: 06/08/2017
 ---
 
 

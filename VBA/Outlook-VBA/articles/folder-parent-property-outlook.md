@@ -3,10 +3,11 @@ title: Folder.Parent Property (Outlook)
 keywords: vbaol11.chm1984
 f1_keywords:
 - vbaol11.chm1984
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Parent
 ms.assetid: 0671c1d3-c25e-b9c7-3c07-bd83c9f01ae4
+ms.date: 06/08/2017
 ---
 
 

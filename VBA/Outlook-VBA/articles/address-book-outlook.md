@@ -1,7 +1,8 @@
 ---
 title: Address Book (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 23cb44fa-2ff1-40df-a830-4c95f5652e20
+ms.date: 06/08/2017
 ---
 
 

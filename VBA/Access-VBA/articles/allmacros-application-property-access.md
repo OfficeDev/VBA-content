@@ -3,10 +3,11 @@ title: AllMacros.Application Property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllMacros.Application
 ms.assetid: 8297f6a4-fbfb-9d73-1914-6bc351f09619
+ms.date: 06/08/2017
 ---
 
 

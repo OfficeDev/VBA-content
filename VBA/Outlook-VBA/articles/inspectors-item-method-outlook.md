@@ -3,10 +3,11 @@ title: Inspectors.Item Method (Outlook)
 keywords: vbaol11.chm138
 f1_keywords:
 - vbaol11.chm138
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspectors.Item
 ms.assetid: 14bc41cf-68a4-2db5-8e0e-2c32ee9580e3
+ms.date: 06/08/2017
 ---
 
 

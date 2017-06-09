@@ -3,10 +3,11 @@ title: Application.OptionsSave Method (Project)
 keywords: vbapj.chm650
 f1_keywords:
 - vbapj.chm650
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsSave
 ms.assetid: 658a4b31-8bd6-8dbb-852f-a7f604386215
+ms.date: 06/08/2017
 ---
 
 

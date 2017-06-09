@@ -3,10 +3,11 @@ title: CellRange.Row Property (Publisher)
 keywords: vbapb10.chm5177350
 f1_keywords:
 - vbapb10.chm5177350
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellRange.Row
 ms.assetid: ac5bccf0-6c9b-ce0e-20e5-f06ef29886c6
+ms.date: 06/08/2017
 ---
 
 

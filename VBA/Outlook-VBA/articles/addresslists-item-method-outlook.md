@@ -3,10 +3,11 @@ title: AddressLists.Item Method (Outlook)
 keywords: vbaol11.chm93
 f1_keywords:
 - vbaol11.chm93
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressLists.Item
 ms.assetid: 7a7a19d4-a622-6188-e4c0-9b43d4c8d376
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Explorer.ViewSwitch Event (Outlook)
 keywords: vbaol11.chm452
 f1_keywords:
 - vbaol11.chm452
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.ViewSwitch
 ms.assetid: ab981f42-d429-ccd7-a25c-142e52683020
+ms.date: 06/08/2017
 ---
 
 

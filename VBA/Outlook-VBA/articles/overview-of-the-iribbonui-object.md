@@ -1,7 +1,8 @@
 ---
 title: Overview of the IRibbonUI Object
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ef273431-550f-4ff6-b964-79d05b09bea5
+ms.date: 06/08/2017
 ---
 
 

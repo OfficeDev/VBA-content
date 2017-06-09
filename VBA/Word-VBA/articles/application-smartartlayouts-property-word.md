@@ -3,10 +3,11 @@ title: Application.SmartArtLayouts Property (Word)
 keywords: vbawd10.chm158335457
 f1_keywords:
 - vbawd10.chm158335457
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.SmartArtLayouts
 ms.assetid: dcbaf620-0865-8f2f-ef97-456edd0d70e3
+ms.date: 06/08/2017
 ---
 
 

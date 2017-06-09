@@ -3,10 +3,11 @@ title: WebOptions Object (Publisher)
 keywords: vbapb10.chm8323071
 f1_keywords:
 - vbapb10.chm8323071
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebOptions
 ms.assetid: 15358c46-f7ca-bc37-d7ef-7d4dbfee09a4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.DocumentInspectors Property (Word)
 keywords: vbawd10.chm158007806
 f1_keywords:
 - vbawd10.chm158007806
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DocumentInspectors
 ms.assetid: db63909c-c7e3-91f1-0ebb-0c2dd9568c2c
+ms.date: 06/08/2017
 ---
 
 

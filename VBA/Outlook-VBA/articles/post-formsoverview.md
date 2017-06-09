@@ -1,7 +1,8 @@
 ---
 title: Post Forms Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6d560721-094d-7f2a-e1df-1e5f3d9127bc
+ms.date: 06/08/2017
 ---
 
 

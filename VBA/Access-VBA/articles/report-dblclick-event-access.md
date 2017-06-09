@@ -3,10 +3,11 @@ title: Report.DblClick Event (Access)
 keywords: vbaac10.chm13890
 f1_keywords:
 - vbaac10.chm13890
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.DblClick
 ms.assetid: e4cd6226-8647-1a94-07a4-00ecef1ccde7
+ms.date: 06/08/2017
 ---
 
 

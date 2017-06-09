@@ -3,14 +3,15 @@ title: Missing ), ], or Item. (Error 2436)
 keywords: jeterr40.chm5002436
 f1_keywords:
 - jeterr40.chm5002436
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dba240a8-c0c3-9704-bd0d-e58c87f9c4ed
+ms.date: 06/08/2017
 ---
 
 
 # Missing ), ], or Item. (Error 2436)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

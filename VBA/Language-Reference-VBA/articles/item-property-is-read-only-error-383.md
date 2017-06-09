@@ -3,8 +3,9 @@ title: "'Item' property is read-only (Error 383)"
 keywords: vblr6.chm1117824
 f1_keywords:
 - vblr6.chm1117824
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6ef3eb14-5e32-5639-e297-990184249393
+ms.date: 06/08/2017
 ---
 
 

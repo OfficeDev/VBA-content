@@ -3,10 +3,11 @@ title: Workbook.UserStatus Property (Excel)
 keywords: vbaxl10.chm199163
 f1_keywords:
 - vbaxl10.chm199163
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.UserStatus
 ms.assetid: 0df24f8a-b60b-fd8c-3436-903652487a09
+ms.date: 06/08/2017
 ---
 
 

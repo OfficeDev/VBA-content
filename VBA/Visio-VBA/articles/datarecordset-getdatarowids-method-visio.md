@@ -3,10 +3,11 @@ title: DataRecordset.GetDataRowIDs Method (Visio)
 keywords: vis_sdr.chm16460310
 f1_keywords:
 - vis_sdr.chm16460310
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.GetDataRowIDs
 ms.assetid: d76874eb-c25b-df65-5d00-64de288d086e
+ms.date: 06/08/2017
 ---
 
 

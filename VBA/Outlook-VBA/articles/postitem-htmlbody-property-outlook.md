@@ -3,10 +3,11 @@ title: PostItem.HTMLBody Property (Outlook)
 keywords: vbaol11.chm1548
 f1_keywords:
 - vbaol11.chm1548
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.HTMLBody
 ms.assetid: 5db93b3c-96b0-ce14-4d53-cbc113c2c14c
+ms.date: 06/08/2017
 ---
 
 

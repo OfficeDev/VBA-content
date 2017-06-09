@@ -3,10 +3,11 @@ title: Rectangle.BorderWidth Property (Access)
 keywords: vbaac10.chm10293
 f1_keywords:
 - vbaac10.chm10293
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BorderWidth
 ms.assetid: 03ef9eb4-f688-5724-3a5c-b2824bfd3839
+ms.date: 06/08/2017
 ---
 
 

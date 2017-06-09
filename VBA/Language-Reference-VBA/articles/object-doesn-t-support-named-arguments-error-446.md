@@ -3,8 +3,9 @@ title: Object doesn't support named arguments (Error 446)
 keywords: vblr6.chm1011332
 f1_keywords:
 - vblr6.chm1011332
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cb7d923a-e877-6a0e-0a2a-12c81399c218
+ms.date: 06/08/2017
 ---
 
 

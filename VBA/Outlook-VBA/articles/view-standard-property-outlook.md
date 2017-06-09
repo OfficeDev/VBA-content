@@ -3,10 +3,11 @@ title: View.Standard Property (Outlook)
 keywords: vbaol11.chm2493
 f1_keywords:
 - vbaol11.chm2493
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Standard
 ms.assetid: 99fc4067-29e6-8597-09e7-057d2533b022
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlkListBox.RemoveItem Method (Outlook)
 keywords: vbaol11.chm1000277
 f1_keywords:
 - vbaol11.chm1000277
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.RemoveItem
 ms.assetid: fe7bc0c4-d607-e4d1-b304-48b08f9c1e7a
+ms.date: 06/08/2017
 ---
 
 

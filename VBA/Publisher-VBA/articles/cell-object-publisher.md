@@ -3,10 +3,11 @@ title: Cell Object (Publisher)
 keywords: vbapb10.chm5177343
 f1_keywords:
 - vbapb10.chm5177343
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell
 ms.assetid: 5baafaa6-368e-9eae-30b9-90d2d89d5a5b
+ms.date: 06/08/2017
 ---
 
 

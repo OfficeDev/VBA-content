@@ -3,10 +3,11 @@ title: Borders.HasHorizontal Property (Word)
 keywords: vbawd10.chm154927131
 f1_keywords:
 - vbawd10.chm154927131
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.HasHorizontal
 ms.assetid: 5a5863c8-8f0d-67f9-6e1f-2a4dd6b4fbc6
+ms.date: 06/08/2017
 ---
 
 

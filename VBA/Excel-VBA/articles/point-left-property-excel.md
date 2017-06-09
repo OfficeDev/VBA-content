@@ -3,10 +3,11 @@ title: Point.Left Property (Excel)
 keywords: vbaxl10.chm576107
 f1_keywords:
 - vbaxl10.chm576107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Left
 ms.assetid: e219f939-b714-1229-f847-433d7ce6e2f6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Export Method, Excel [vbagr10.chm5207358]
 keywords: vbagr10.chm5207358
 f1_keywords:
 - vbagr10.chm5207358
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 830956a6-8c4c-40fb-ad3c-9aa0e6a2b0bf
+ms.date: 06/08/2017
 ---
 
 

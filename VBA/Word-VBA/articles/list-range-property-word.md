@@ -3,10 +3,11 @@ title: List.Range Property (Word)
 keywords: vbawd10.chm160563201
 f1_keywords:
 - vbawd10.chm160563201
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.Range
 ms.assetid: f078066b-9e8d-20a2-79af-5b93dc50bed7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContactItem.RTFBody Property (Outlook)
 keywords: vbaol11.chm3525
 f1_keywords:
 - vbaol11.chm3525
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.RTFBody
 ms.assetid: f8e7e632-113b-a50e-211b-dbd182221168
+ms.date: 06/08/2017
 ---
 
 

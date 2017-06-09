@@ -3,10 +3,11 @@ title: Application.ResourceDetails Method (Project)
 keywords: vbapj.chm2116
 f1_keywords:
 - vbapj.chm2116
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceDetails
 ms.assetid: 63ac7f3c-38c6-6da9-e442-373da02b63a2
+ms.date: 06/08/2017
 ---
 
 

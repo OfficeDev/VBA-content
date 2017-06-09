@@ -3,10 +3,11 @@ title: RuleConditions.FromRssFeed Property (Outlook)
 keywords: vbaol11.chm3251
 f1_keywords:
 - vbaol11.chm3251
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.FromRssFeed
 ms.assetid: ef312495-4d65-bb89-c543-59c5473171ff
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContactItem.ReferredBy Property (Outlook)
 keywords: vbaol11.chm1063
 f1_keywords:
 - vbaol11.chm1063
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReferredBy
 ms.assetid: 052e1595-dd0f-d240-712d-e460bf78a1bf
+ms.date: 06/08/2017
 ---
 
 

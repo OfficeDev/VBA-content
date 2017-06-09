@@ -3,10 +3,11 @@ title: Action.Class Property (Outlook)
 keywords: vbaol11.chm11
 f1_keywords:
 - vbaol11.chm11
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Action.Class
 ms.assetid: cdba7120-30d8-621f-415d-4c4b4101b4bc
+ms.date: 06/08/2017
 ---
 
 

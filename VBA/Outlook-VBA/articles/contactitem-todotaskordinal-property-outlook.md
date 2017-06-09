@@ -3,10 +3,11 @@ title: ContactItem.ToDoTaskOrdinal Property (Outlook)
 keywords: vbaol11.chm3030
 f1_keywords:
 - vbaol11.chm3030
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ToDoTaskOrdinal
 ms.assetid: 080e32ad-b770-42d1-60d0-4eb6271056db
+ms.date: 06/08/2017
 ---
 
 

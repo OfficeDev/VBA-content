@@ -3,10 +3,11 @@ title: Language Object (Word)
 keywords: vbawd10.chm2413
 f1_keywords:
 - vbawd10.chm2413
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language
 ms.assetid: 0acc4a42-b4c2-a415-0e38-a049b085dc86
+ms.date: 06/08/2017
 ---
 
 

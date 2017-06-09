@@ -3,10 +3,11 @@ title: Windows.SyncScrollingSideBySide Property (Excel)
 keywords: vbaxl10.chm354080
 f1_keywords:
 - vbaxl10.chm354080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.SyncScrollingSideBySide
 ms.assetid: 1cbc5a51-c4a3-dd30-42d1-e66c1e95c33a
+ms.date: 06/08/2017
 ---
 
 

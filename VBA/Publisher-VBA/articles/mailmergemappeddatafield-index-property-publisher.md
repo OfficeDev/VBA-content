@@ -3,10 +3,11 @@ title: MailMergeMappedDataField.Index Property (Publisher)
 keywords: vbapb10.chm6553604
 f1_keywords:
 - vbapb10.chm6553604
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeMappedDataField.Index
 ms.assetid: c590d1af-f845-7e1d-95bc-c65969ebd0ff
+ms.date: 06/08/2017
 ---
 
 

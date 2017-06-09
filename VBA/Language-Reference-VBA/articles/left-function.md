@@ -3,8 +3,9 @@ title: Left Function
 keywords: vblr6.chm1011361
 f1_keywords:
 - vblr6.chm1011361
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2835aa57-6273-8f72-4ee8-ec19df26c5d9
+ms.date: 06/08/2017
 ---
 
 

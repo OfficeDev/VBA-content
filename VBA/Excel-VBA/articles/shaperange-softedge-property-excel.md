@@ -3,10 +3,11 @@ title: ShapeRange.SoftEdge Property (Excel)
 keywords: vbaxl10.chm640143
 f1_keywords:
 - vbaxl10.chm640143
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.SoftEdge
 ms.assetid: 49976464-fcc3-b7e0-a3aa-5d6873b0e857
+ms.date: 06/08/2017
 ---
 
 

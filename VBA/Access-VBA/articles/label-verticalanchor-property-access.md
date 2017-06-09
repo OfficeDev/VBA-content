@@ -3,10 +3,11 @@ title: Label.VerticalAnchor Property (Access)
 keywords: vbaac10.chm10259
 f1_keywords:
 - vbaac10.chm10259
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.VerticalAnchor
 ms.assetid: 56be4e50-4c25-a829-d77d-5eeee89120c9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomProperties.Count Property (Word)
 keywords: vbawd10.chm232849410
 f1_keywords:
 - vbawd10.chm232849410
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomProperties.Count
 ms.assetid: c005beec-5df7-1394-7ef0-7ccbbf5951d3
+ms.date: 06/08/2017
 ---
 
 

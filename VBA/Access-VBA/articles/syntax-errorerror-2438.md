@@ -3,14 +3,15 @@ title: Syntax error. (Error 2438)
 keywords: jeterr40.chm5002438
 f1_keywords:
 - jeterr40.chm5002438
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: abd1d86b-3e35-8393-104b-9e05778d10af
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error. (Error 2438)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

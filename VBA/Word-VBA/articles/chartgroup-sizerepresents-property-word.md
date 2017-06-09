@@ -3,10 +3,11 @@ title: ChartGroup.SizeRepresents Property (Word)
 keywords: vbawd10.chm263454754
 f1_keywords:
 - vbawd10.chm263454754
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.SizeRepresents
 ms.assetid: 9611e92a-725c-fbe8-41bf-ef57d2166e4d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot make a new replica because the <name> object in <name> container c
 keywords: jeterr40.chm5003582
 f1_keywords:
 - jeterr40.chm5003582
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: aee359ed-0b2e-a3e1-cdec-7c437f65b5e6
+ms.date: 06/08/2017
 ---
 
 
 # Cannot make a new replica because the <name> object in <name> container could not be made replicable. (Error 3582)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

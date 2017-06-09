@@ -3,10 +3,11 @@ title: Shape.OpenDrawWindow Method (Visio)
 keywords: vis_sdr.chm11216400
 f1_keywords:
 - vis_sdr.chm11216400
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.OpenDrawWindow
 ms.assetid: 5e4106a3-ba72-9e3c-1189-9587d39edd00
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: KeyboardLanguage Property, Access [vbaac10.chm11131]
 keywords: vbaac10.chm11131
 f1_keywords:
 - vbaac10.chm11131
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d7731da0-95f2-4b0d-aece-39570950f1a6
+ms.date: 06/08/2017
 ---
 
 

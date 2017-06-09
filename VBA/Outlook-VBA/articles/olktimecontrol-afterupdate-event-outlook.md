@@ -3,10 +3,11 @@ title: OlkTimeControl.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000413
 f1_keywords:
 - vbaol11.chm1000413
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.AfterUpdate
 ms.assetid: 5454d296-9508-a4c4-37b7-9c119e29d20e
+ms.date: 06/08/2017
 ---
 
 

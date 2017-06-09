@@ -3,14 +3,15 @@ title: <Name> in criteria expression. (Error 3076)
 keywords: jeterr40.chm5003076
 f1_keywords:
 - jeterr40.chm5003076
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a21401b7-6c54-003e-f1b8-1c9f15405877
+ms.date: 06/08/2017
 ---
 
 
 # <Name> in criteria expression. (Error 3076)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

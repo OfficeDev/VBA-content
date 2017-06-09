@@ -3,10 +3,11 @@ title: Paragraphs.AddSpaceBetweenFarEastAndAlpha Property (Word)
 keywords: vbawd10.chm156762233
 f1_keywords:
 - vbawd10.chm156762233
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.AddSpaceBetweenFarEastAndAlpha
 ms.assetid: f101d2fa-f999-b9fb-84c1-3f060fab7ed0
+ms.date: 06/08/2017
 ---
 
 

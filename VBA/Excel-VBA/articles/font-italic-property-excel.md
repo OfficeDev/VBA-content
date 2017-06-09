@@ -3,10 +3,11 @@ title: Font.Italic Property (Excel)
 keywords: vbaxl10.chm559078
 f1_keywords:
 - vbaxl10.chm559078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.Italic
 ms.assetid: 9d249157-9c8a-79ec-9b70-021c19ea1336
+ms.date: 06/08/2017
 ---
 
 

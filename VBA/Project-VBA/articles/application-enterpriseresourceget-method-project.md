@@ -3,10 +3,11 @@ title: Application.EnterpriseResourceGet Method (Project)
 keywords: vbapj.chm2094
 f1_keywords:
 - vbapj.chm2094
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseResourceGet
 ms.assetid: c1e29298-7859-28c4-edbf-917acdd8aecd
+ms.date: 06/08/2017
 ---
 
 

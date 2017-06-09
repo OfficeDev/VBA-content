@@ -3,10 +3,11 @@ title: OptionGroup.HelpContextId Property (Access)
 keywords: vbaac10.chm10848
 f1_keywords:
 - vbaac10.chm10848
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.HelpContextId
 ms.assetid: cd6d2aec-fc7c-5dfc-1386-568bad2a26f8
+ms.date: 06/08/2017
 ---
 
 

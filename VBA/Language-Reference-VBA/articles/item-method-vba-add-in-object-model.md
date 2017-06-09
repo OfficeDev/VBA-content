@@ -3,8 +3,9 @@ title: Item Method (VBA Add-In Object Model)
 keywords: vbob6.chm104043
 f1_keywords:
 - vbob6.chm104043
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 46074a24-356c-f003-d8cd-67807bea1bcd
+ms.date: 06/08/2017
 ---
 
 

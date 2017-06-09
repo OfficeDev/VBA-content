@@ -3,10 +3,11 @@ title: Form.BeforeQuery Property (Access)
 keywords: vbaac10.chm13540
 f1_keywords:
 - vbaac10.chm13540
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeQuery
 ms.assetid: 40e763fd-897a-a0b1-72a9-d73ec628e397
+ms.date: 06/08/2017
 ---
 
 

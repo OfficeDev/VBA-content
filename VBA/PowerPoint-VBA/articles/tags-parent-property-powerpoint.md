@@ -3,10 +3,11 @@ title: Tags.Parent Property (PowerPoint)
 keywords: vbapp10.chm611002
 f1_keywords:
 - vbapp10.chm611002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Tags.Parent
 ms.assetid: 019d1e25-a57c-d081-c019-51fcefc9a147
+ms.date: 06/08/2017
 ---
 
 

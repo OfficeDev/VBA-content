@@ -3,10 +3,11 @@ title: Form.ViewChange Property (Access)
 keywords: vbaac10.chm13553,vbaac10.chm5118
 f1_keywords:
 - vbaac10.chm13553,vbaac10.chm5118
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ViewChange
 ms.assetid: f8a8fe82-6983-5632-b779-879faf228ac2
+ms.date: 06/08/2017
 ---
 
 

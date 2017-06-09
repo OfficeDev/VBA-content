@@ -3,8 +3,9 @@ title: ViewsSingle Object, Project [vbapj.chm131353]
 keywords: vbapj.chm131353
 f1_keywords:
 - vbapj.chm131353
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 637bf145-00b0-4d54-84c9-58660885d0b6
+ms.date: 06/08/2017
 ---
 
 

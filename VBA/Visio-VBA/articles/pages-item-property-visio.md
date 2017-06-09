@@ -3,10 +3,11 @@ title: Pages.Item Property (Visio)
 keywords: vis_sdr.chm11013765
 f1_keywords:
 - vis_sdr.chm11013765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.Item
 ms.assetid: c52ace02-486f-d50b-caf5-109b78008d77
+ms.date: 06/08/2017
 ---
 
 

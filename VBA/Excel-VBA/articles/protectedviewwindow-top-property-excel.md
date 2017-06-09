@@ -3,10 +3,11 @@ title: ProtectedViewWindow.Top Property (Excel)
 keywords: vbaxl10.chm914078
 f1_keywords:
 - vbaxl10.chm914078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Top
 ms.assetid: 8bb9012c-aede-4fd8-6f7d-05537c80ba79
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: IMsoContactCard Object (Office)
 keywords: vbaof11.chm341000
 f1_keywords:
 - vbaof11.chm341000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IMsoContactCard
 ms.assetid: 337320dd-a60a-fdc5-76a1-c40518171bd6
+ms.date: 06/08/2017
 ---
 
 

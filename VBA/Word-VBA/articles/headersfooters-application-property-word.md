@@ -3,10 +3,11 @@ title: HeadersFooters.Application Property (Word)
 keywords: vbawd10.chm159646696
 f1_keywords:
 - vbawd10.chm159646696
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadersFooters.Application
 ms.assetid: 743b07e7-6064-cac9-f25e-5fd4a1583ac7
+ms.date: 06/08/2017
 ---
 
 

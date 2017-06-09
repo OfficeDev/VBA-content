@@ -3,10 +3,11 @@ title: BoundObjectFrame.Class Property (Access)
 keywords: vbaac10.chm10912
 f1_keywords:
 - vbaac10.chm10912
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Class
 ms.assetid: 0938d124-efd2-63c1-4282-a06fb412185a
+ms.date: 06/08/2017
 ---
 
 

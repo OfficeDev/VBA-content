@@ -3,10 +3,11 @@ title: Shape.CanvasCropRight Method (Word)
 keywords: vbawd10.chm161480846
 f1_keywords:
 - vbawd10.chm161480846
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.CanvasCropRight
 ms.assetid: 82488d2e-0854-4b19-1b31-3b73604c409f
+ms.date: 06/08/2017
 ---
 
 

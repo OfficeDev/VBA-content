@@ -3,10 +3,11 @@ title: Options.PrintDrawingObjects Property (Word)
 keywords: vbawd10.chm162988070
 f1_keywords:
 - vbawd10.chm162988070
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintDrawingObjects
 ms.assetid: 366ddc26-1cb0-fe48-8d54-ff9d5d3492b4
+ms.date: 06/08/2017
 ---
 
 

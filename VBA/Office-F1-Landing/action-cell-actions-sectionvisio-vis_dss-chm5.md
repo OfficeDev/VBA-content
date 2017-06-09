@@ -3,8 +3,9 @@ title: Action Cell (Actions Section), Visio [Vis_DSS.chm5]
 keywords: vis_dss.chm5
 f1_keywords:
 - vis_dss.chm5
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 772f50de-ed0f-4e51-8888-7577ea471d16
+ms.date: 06/08/2017
 ---
 
 

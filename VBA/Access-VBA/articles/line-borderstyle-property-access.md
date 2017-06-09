@@ -3,10 +3,11 @@ title: Line.BorderStyle Property (Access)
 keywords: vbaac10.chm10337
 f1_keywords:
 - vbaac10.chm10337
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.BorderStyle
 ms.assetid: 1ddf622c-b1c4-009b-06df-0a6bc819b367
+ms.date: 06/08/2017
 ---
 
 

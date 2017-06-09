@@ -3,10 +3,11 @@ title: Documents.Application Property (Visio)
 keywords: vis_sdr.chm10613090
 f1_keywords:
 - vis_sdr.chm10613090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.Application
 ms.assetid: 485ee568-3a48-c716-2049-48b1030ba269
+ms.date: 06/08/2017
 ---
 
 

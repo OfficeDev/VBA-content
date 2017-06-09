@@ -3,10 +3,11 @@ title: Selection.Font Property (Word)
 keywords: vbawd10.chm158662661
 f1_keywords:
 - vbawd10.chm158662661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Font
 ms.assetid: c2a24190-62fa-09c4-7c47-90a7ecf20d97
+ms.date: 06/08/2017
 ---
 
 

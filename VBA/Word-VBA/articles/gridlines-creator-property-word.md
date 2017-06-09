@@ -3,10 +3,11 @@ title: Gridlines.Creator Property (Word)
 keywords: vbawd10.chm11468949
 f1_keywords:
 - vbawd10.chm11468949
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Gridlines.Creator
 ms.assetid: e3548aa9-1e88-b5ee-eb4a-417504d7bde5
+ms.date: 06/08/2017
 ---
 
 

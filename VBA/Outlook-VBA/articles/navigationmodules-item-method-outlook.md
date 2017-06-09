@@ -3,10 +3,11 @@ title: NavigationModules.Item Method (Outlook)
 keywords: vbaol11.chm2800
 f1_keywords:
 - vbaol11.chm2800
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationModules.Item
 ms.assetid: ee8fdd9c-2b94-29c3-7622-f6e5c8c5399c
+ms.date: 06/08/2017
 ---
 
 

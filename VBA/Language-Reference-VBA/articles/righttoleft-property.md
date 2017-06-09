@@ -3,10 +3,11 @@ title: RightToLeft Property
 keywords: vblr6.chm1264146
 f1_keywords:
 - vblr6.chm1264146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RightToLeft
 ms.assetid: 0d3678c4-57c4-4c7c-aa2f-77ce1c339524
+ms.date: 06/08/2017
 ---
 
 

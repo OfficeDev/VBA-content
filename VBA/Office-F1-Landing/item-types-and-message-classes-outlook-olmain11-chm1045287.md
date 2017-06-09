@@ -3,8 +3,9 @@ title: Item Types and Message Classes, Outlook [olmain11.chm1045287]
 keywords: olmain11.chm1045287
 f1_keywords:
 - olmain11.chm1045287
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbcc81a9-d4f4-4a61-9428-93caa9c58141
+ms.date: 06/08/2017
 ---
 
 

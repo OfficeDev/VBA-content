@@ -3,10 +3,11 @@ title: Page.OnMouseDown Property (Access)
 keywords: vbaac10.chm12169
 f1_keywords:
 - vbaac10.chm12169
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.OnMouseDown
 ms.assetid: bef21fb9-db50-833f-b76c-6df740a6b97a
+ms.date: 06/08/2017
 ---
 
 

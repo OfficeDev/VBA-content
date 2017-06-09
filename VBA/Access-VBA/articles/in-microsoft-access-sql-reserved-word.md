@@ -3,14 +3,15 @@ title: IN (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277604
 f1_keywords:
 - jetsql40.chm5277604
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 95038630-3f5f-7fc8-cf45-c4e6148a621b
+ms.date: 06/08/2017
 ---
 
 
 # IN (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

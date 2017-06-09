@@ -3,10 +3,11 @@ title: Shape.BeforeSelectionDelete Event (Visio)
 keywords: vis_sdr.chm11219060
 f1_keywords:
 - vis_sdr.chm11219060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.BeforeSelectionDelete
 ms.assetid: 3979ee0b-155d-7c16-8141-b2131270b6c6
+ms.date: 06/08/2017
 ---
 
 

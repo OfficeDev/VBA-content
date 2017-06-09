@@ -1,13 +1,14 @@
 ---
 title: Joined table <name> not listed in FROM clause. (Error 3080)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 186fecef-75b1-d7db-3133-c3b9c90bcd9f
+ms.date: 06/08/2017
 ---
 
 
 # Joined table <name> not listed in FROM clause. (Error 3080)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: DistListItem.GetMember Method (Outlook)
 keywords: vbaol11.chm1156
 f1_keywords:
 - vbaol11.chm1156
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.GetMember
 ms.assetid: 97196e1f-02a5-c1ac-be93-841702abaf52
+ms.date: 06/08/2017
 ---
 
 

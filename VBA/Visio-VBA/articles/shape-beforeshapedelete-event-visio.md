@@ -3,10 +3,11 @@ title: Shape.BeforeShapeDelete Event (Visio)
 keywords: vis_sdr.chm11219065
 f1_keywords:
 - vis_sdr.chm11219065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.BeforeShapeDelete
 ms.assetid: 6cbfc832-cdf6-1289-feb4-1b1fcbb3574f
+ms.date: 06/08/2017
 ---
 
 

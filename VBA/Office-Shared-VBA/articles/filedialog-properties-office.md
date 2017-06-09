@@ -1,7 +1,8 @@
 ---
 title: FileDialog Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14303730-b777-4175-b138-d2b6d54f40d5
+ms.date: 06/08/2017
 ---
 
 

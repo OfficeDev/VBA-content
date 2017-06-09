@@ -3,10 +3,11 @@ title: Resource.AvailableTo Property (Project)
 keywords: vbapj.chm131413
 f1_keywords:
 - vbapj.chm131413
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.AvailableTo
 ms.assetid: 27671dd6-77c8-0dea-eed5-943237c10dcd
+ms.date: 06/08/2017
 ---
 
 

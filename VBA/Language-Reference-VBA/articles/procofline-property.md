@@ -3,10 +3,11 @@ title: ProcOfLine Property
 keywords: vbob6.chm104019
 f1_keywords:
 - vbob6.chm104019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ProcOfLine
 ms.assetid: daf7ffbf-41a8-aacb-e9ef-c576efd3d11c
+ms.date: 06/08/2017
 ---
 
 

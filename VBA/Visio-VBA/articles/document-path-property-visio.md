@@ -3,10 +3,11 @@ title: Document.Path Property (Visio)
 keywords: vis_sdr.chm10514050
 f1_keywords:
 - vis_sdr.chm10514050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Path
 ms.assetid: 50c20d69-3909-9383-1d2c-d1744a96e751
+ms.date: 06/08/2017
 ---
 
 

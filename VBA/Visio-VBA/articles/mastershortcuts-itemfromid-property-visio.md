@@ -3,10 +3,11 @@ title: MasterShortcuts.ItemFromID Property (Visio)
 keywords: vis_sdr.chm15913775
 f1_keywords:
 - vis_sdr.chm15913775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.ItemFromID
 ms.assetid: 4a4eb2f9-9ab7-4574-c942-e9bd4031fabd
+ms.date: 06/08/2017
 ---
 
 

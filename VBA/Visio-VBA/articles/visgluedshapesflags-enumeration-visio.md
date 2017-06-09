@@ -3,10 +3,11 @@ title: VisGluedShapesFlags Enumeration (Visio)
 keywords: vis_sdr.chm70580
 f1_keywords:
 - vis_sdr.chm70580
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisGluedShapesFlags
 ms.assetid: c89e043e-3b86-f885-584d-54d20dc5f337
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SortField.Creator Property (Excel)
 keywords: vbaxl10.chm842074
 f1_keywords:
 - vbaxl10.chm842074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField.Creator
 ms.assetid: c9247d01-32fa-3360-7261-5287e47d6d40
+ms.date: 06/08/2017
 ---
 
 

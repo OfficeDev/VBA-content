@@ -3,10 +3,11 @@ title: PivotTable.Summary Property (Excel)
 keywords: vbaxl10.chm235199
 f1_keywords:
 - vbaxl10.chm235199
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.Summary
 ms.assetid: 4f397910-544c-b960-4583-29c4651d6f24
+ms.date: 06/08/2017
 ---
 
 

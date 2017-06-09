@@ -3,14 +3,15 @@ title: CHECK Constraint <name> does not exist. (Error 3755)
 keywords: jeterr40.chm5003755
 f1_keywords:
 - jeterr40.chm5003755
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f4f05c1b-c0f5-781e-85fe-3deb17fdeeeb
+ms.date: 06/08/2017
 ---
 
 
 # CHECK Constraint <name> does not exist. (Error 3755)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

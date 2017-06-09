@@ -1,9 +1,10 @@
 ---
 title: PictureEffects.Insert Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PictureEffects.Insert
 ms.assetid: 589c38d7-1d0a-ad87-a84c-72147b6b07cf
+ms.date: 06/08/2017
 ---
 
 

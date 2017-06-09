@@ -3,10 +3,11 @@ title: ShapeNodes.Parent Property (Publisher)
 keywords: vbapb10.chm3473410
 f1_keywords:
 - vbapb10.chm3473410
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Parent
 ms.assetid: 71aded28-238d-36bf-478f-8be48041d424
+ms.date: 06/08/2017
 ---
 
 

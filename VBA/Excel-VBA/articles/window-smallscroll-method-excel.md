@@ -3,10 +3,11 @@ title: Window.SmallScroll Method (Excel)
 keywords: vbaxl10.chm356110
 f1_keywords:
 - vbaxl10.chm356110
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.SmallScroll
 ms.assetid: dcf1fdeb-36ab-06ed-a9fc-5b2bbaecc457
+ms.date: 06/08/2017
 ---
 
 

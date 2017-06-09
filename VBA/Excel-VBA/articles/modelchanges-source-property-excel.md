@@ -4,6 +4,8 @@ keywords: vbaxl10.chm960083
 f1_keywords:
 - vbaxl10.chm960083
 ms.assetid: 5cdfac2a-2ec9-44b4-99be-7fa36eee516a
+ms.date: 06/08/2017
+ms.prod: excel
 ---
 
 

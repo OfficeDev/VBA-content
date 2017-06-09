@@ -3,8 +3,9 @@ title: SeriesCollection Collection (Excel)
 keywords: vbagr10.chm131116
 f1_keywords:
 - vbagr10.chm131116
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c5d00466-f7a1-7e6f-56e4-958901dbe3e3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: GroupOn Property, Project [vbapj.chm132318]
 keywords: vbapj.chm132318
 f1_keywords:
 - vbapj.chm132318
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c658ae2a-8f12-4623-83dc-383d4f61204a
+ms.date: 06/08/2017
 ---
 
 

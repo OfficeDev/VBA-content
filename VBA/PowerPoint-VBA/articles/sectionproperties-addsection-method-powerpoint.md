@@ -3,10 +3,11 @@ title: SectionProperties.AddSection Method (PowerPoint)
 keywords: vbapp10.chm725009
 f1_keywords:
 - vbapp10.chm725009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.AddSection
 ms.assetid: bdad42c8-0d2b-91cc-67c5-452abe28d658
+ms.date: 06/08/2017
 ---
 
 

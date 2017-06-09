@@ -3,10 +3,11 @@ title: ApplyPictToSides Property
 keywords: vbagr10.chm67195
 f1_keywords:
 - vbagr10.chm67195
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ApplyPictToSides
 ms.assetid: aa6146cf-4e4f-b0c7-55eb-0ed8bd9dcc65
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Resource.Date10 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Date10
 ms.assetid: ff110314-b315-79be-b473-36f0f36e1b41
+ms.date: 06/08/2017
 ---
 
 

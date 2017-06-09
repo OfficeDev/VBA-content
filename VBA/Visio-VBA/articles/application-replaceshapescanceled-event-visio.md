@@ -1,7 +1,8 @@
 ---
 title: Application.ReplaceShapesCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: e8eecd64-e4bd-d2c4-b942-c5ff607a4121
+ms.date: 06/08/2017
 ---
 
 

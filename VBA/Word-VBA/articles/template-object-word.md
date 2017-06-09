@@ -3,10 +3,11 @@ title: Template Object (Word)
 keywords: vbawd10.chm2410
 f1_keywords:
 - vbawd10.chm2410
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template
 ms.assetid: 47d1d92d-bba9-3f2a-9c71-22ac43159bd3
+ms.date: 06/08/2017
 ---
 
 

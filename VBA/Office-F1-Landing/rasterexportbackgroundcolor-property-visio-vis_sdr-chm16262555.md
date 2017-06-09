@@ -3,8 +3,9 @@ title: RasterExportBackgroundColor Property, Visio [vis_sdr.chm16262555]
 keywords: vis_sdr.chm16262555
 f1_keywords:
 - vis_sdr.chm16262555
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eaa77a46-a755-4c7e-8add-743b18f569ce
+ms.date: 06/08/2017
 ---
 
 

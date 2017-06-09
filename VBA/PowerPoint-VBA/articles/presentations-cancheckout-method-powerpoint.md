@@ -3,10 +3,11 @@ title: Presentations.CanCheckOut Method (PowerPoint)
 keywords: vbapp10.chm522008
 f1_keywords:
 - vbapp10.chm522008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.CanCheckOut
 ms.assetid: 60393f0c-11e1-169d-2ead-c6556f1d1364
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlkCategory.AutoSize Property (Outlook)
 keywords: vbaol11.chm1000439
 f1_keywords:
 - vbaol11.chm1000439
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.AutoSize
 ms.assetid: e09b2e18-5fd3-cedc-394c-1080635d1b44
+ms.date: 06/08/2017
 ---
 
 

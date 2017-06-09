@@ -3,10 +3,11 @@ title: Printer Object (Publisher)
 keywords: vbapb10.chm9043967
 f1_keywords:
 - vbapb10.chm9043967
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer
 ms.assetid: 46f8c6a2-4cf1-bb6a-1214-a751440870f2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: RecentFile.Index Property (Excel)
 keywords: vbaxl10.chm170075
 f1_keywords:
 - vbaxl10.chm170075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFile.Index
 ms.assetid: f06aa815-451f-9cfe-e380-27aaefdaab1f
+ms.date: 06/08/2017
 ---
 
 

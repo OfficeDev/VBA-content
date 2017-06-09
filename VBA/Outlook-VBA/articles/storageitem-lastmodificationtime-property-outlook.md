@@ -3,10 +3,11 @@ title: StorageItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm2142
 f1_keywords:
 - vbaol11.chm2142
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.LastModificationTime
 ms.assetid: 3095e2b6-04d2-f878-2822-8373ab8a2ff0
+ms.date: 06/08/2017
 ---
 
 

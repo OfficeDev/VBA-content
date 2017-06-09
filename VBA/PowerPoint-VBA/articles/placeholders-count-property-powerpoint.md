@@ -1,9 +1,10 @@
 ---
 title: Placeholders.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders.Count
 ms.assetid: 8f20feee-b574-a5f1-1499-655495056178
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Reviewers.Application Property (Word)
 keywords: vbawd10.chm211420136
 f1_keywords:
 - vbawd10.chm211420136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewers.Application
 ms.assetid: b6082256-78b7-cb54-719f-77d748f38d04
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Range.LanguageIDFarEast Property (Word)
 keywords: vbawd10.chm157155649
 f1_keywords:
 - vbawd10.chm157155649
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.LanguageIDFarEast
 ms.assetid: 324eaba2-2a48-71e3-6a96-9b7a092d0c6d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdIndexSortBy Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdIndexSortBy
 ms.assetid: fd0ba186-0233-9620-3201-d20cd3c24d64
+ms.date: 06/08/2017
 ---
 
 

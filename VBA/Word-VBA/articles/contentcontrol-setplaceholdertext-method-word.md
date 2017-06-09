@@ -3,10 +3,11 @@ title: ContentControl.SetPlaceholderText Method (Word)
 keywords: vbawd10.chm266534923
 f1_keywords:
 - vbawd10.chm266534923
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.SetPlaceholderText
 ms.assetid: d2684e44-61f0-e0bf-36bc-6a5eabed1b82
+ms.date: 06/08/2017
 ---
 
 

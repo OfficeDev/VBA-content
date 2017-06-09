@@ -3,8 +3,9 @@ title: LineAdjustTo Cell (Page Layout Section), Visio [Vis_DSS.chm525]
 keywords: vis_dss.chm525
 f1_keywords:
 - vis_dss.chm525
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4810715f-55a0-4b97-b099-a49e79fe6d21
+ms.date: 06/08/2017
 ---
 
 

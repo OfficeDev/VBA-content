@@ -3,10 +3,11 @@ title: SharingItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm616
 f1_keywords:
 - vbaol11.chm616
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.OutlookVersion
 ms.assetid: c8c2cefe-a8b6-d261-f79b-117dda8f96b6
+ms.date: 06/08/2017
 ---
 
 

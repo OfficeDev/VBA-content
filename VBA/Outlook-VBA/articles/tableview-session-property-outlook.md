@@ -3,10 +3,11 @@ title: TableView.Session Property (Outlook)
 keywords: vbaol11.chm2501
 f1_keywords:
 - vbaol11.chm2501
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Session
 ms.assetid: 6443565e-2a7a-5466-a68e-9baf13e316c5
+ms.date: 06/08/2017
 ---
 
 

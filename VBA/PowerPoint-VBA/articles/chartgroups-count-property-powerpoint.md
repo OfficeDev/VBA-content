@@ -1,9 +1,10 @@
 ---
 title: ChartGroups.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Count
 ms.assetid: 184188d8-37b8-d057-5378-a1d649d528da
+ms.date: 06/08/2017
 ---
 
 

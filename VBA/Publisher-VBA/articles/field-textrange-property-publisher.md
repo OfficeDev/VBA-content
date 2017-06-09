@@ -3,10 +3,11 @@ title: Field.TextRange Property (Publisher)
 keywords: vbapb10.chm6094852
 f1_keywords:
 - vbapb10.chm6094852
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Field.TextRange
 ms.assetid: 09279cc7-3911-3b8d-51f2-b26494220c68
+ms.date: 06/08/2017
 ---
 
 

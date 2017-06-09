@@ -1,9 +1,10 @@
 ---
 title: LegendEntry.Font Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Font
 ms.assetid: ef4051e3-3332-730a-eb30-d52795a0c7d6
+ms.date: 06/08/2017
 ---
 
 

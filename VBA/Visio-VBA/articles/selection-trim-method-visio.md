@@ -3,10 +3,11 @@ title: Selection.Trim Method (Visio)
 keywords: vis_sdr.chm11116615
 f1_keywords:
 - vis_sdr.chm11116615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Trim
 ms.assetid: 0063d29a-3e47-bb2b-71fd-328c19a0a65b
+ms.date: 06/08/2017
 ---
 
 

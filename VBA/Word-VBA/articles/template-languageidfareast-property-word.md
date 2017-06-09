@@ -3,10 +3,11 @@ title: Template.LanguageIDFarEast Property (Word)
 keywords: vbawd10.chm157941771
 f1_keywords:
 - vbawd10.chm157941771
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.LanguageIDFarEast
 ms.assetid: d9798c5a-1362-a713-0357-2599d5038c18
+ms.date: 06/08/2017
 ---
 
 

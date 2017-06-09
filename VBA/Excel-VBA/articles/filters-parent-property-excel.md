@@ -3,10 +3,11 @@ title: Filters.Parent Property (Excel)
 keywords: vbaxl10.chm539075
 f1_keywords:
 - vbaxl10.chm539075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Filters.Parent
 ms.assetid: f3f066af-8fbb-79a6-ee0b-d2e524754c7c
+ms.date: 06/08/2017
 ---
 
 

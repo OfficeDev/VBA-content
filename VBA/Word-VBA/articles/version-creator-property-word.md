@@ -3,10 +3,11 @@ title: Version.Creator Property (Word)
 keywords: vbawd10.chm162792425
 f1_keywords:
 - vbawd10.chm162792425
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version.Creator
 ms.assetid: 952bc69e-de7d-faaa-d598-7d1e493ea9a4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Internet not set up. (Error 3653)
 keywords: jeterr40.chm5003653
 f1_keywords:
 - jeterr40.chm5003653
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7308249e-45f8-f71f-a026-10291f69c55b
+ms.date: 06/08/2017
 ---
 
 
 # Internet not set up. (Error 3653)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

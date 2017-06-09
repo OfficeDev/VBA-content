@@ -3,10 +3,11 @@ title: Selection.Creator Property (Word)
 keywords: vbawd10.chm158663657
 f1_keywords:
 - vbawd10.chm158663657
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Creator
 ms.assetid: 612e00fa-49cd-5f9e-7a10-9504d4e7b408
+ms.date: 06/08/2017
 ---
 
 

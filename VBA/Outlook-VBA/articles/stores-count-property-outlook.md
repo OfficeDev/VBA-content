@@ -3,10 +3,11 @@ title: Stores.Count Property (Outlook)
 keywords: vbaol11.chm818
 f1_keywords:
 - vbaol11.chm818
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Stores.Count
 ms.assetid: 218d55b5-8394-146b-46eb-d57f444688e8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ModelTableColumn Object (Excel)
 keywords: vbaxl10.chm929072
 f1_keywords:
 - vbaxl10.chm929072
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 8deb1b62-c089-e0c3-0320-2d4596e8f6e3
+ms.date: 06/08/2017
 ---
 
 

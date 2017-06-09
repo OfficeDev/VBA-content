@@ -3,10 +3,11 @@ title: MediaBookmarks.Item Method (PowerPoint)
 keywords: vbapp10.chm730001
 f1_keywords:
 - vbapp10.chm730001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmarks.Item
 ms.assetid: 972bc5c2-4807-9e4a-a207-a7ac8036ab4e
+ms.date: 06/08/2017
 ---
 
 

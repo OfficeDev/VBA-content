@@ -3,8 +3,9 @@ title: Property Get can't be executed at run time (Error 393), Office Shared [vb
 keywords: vblr6.chm1000393
 f1_keywords:
 - vblr6.chm1000393
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83ad49bc-b117-4fe7-88ef-cb24182f12da
+ms.date: 06/08/2017
 ---
 
 

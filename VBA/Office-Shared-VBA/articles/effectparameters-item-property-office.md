@@ -1,9 +1,10 @@
 ---
 title: EffectParameters.Item Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.EffectParameters.Item
 ms.assetid: 57b861a5-5306-5b48-47ea-c93b4b7b0ab1
+ms.date: 06/08/2017
 ---
 
 

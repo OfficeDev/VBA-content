@@ -3,10 +3,11 @@ title: ParagraphFormat.SpaceBefore Property (PowerPoint)
 keywords: vbapp10.chm576008
 f1_keywords:
 - vbapp10.chm576008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.SpaceBefore
 ms.assetid: be73b3fe-4490-df58-57fd-47c51767b985
+ms.date: 06/08/2017
 ---
 
 

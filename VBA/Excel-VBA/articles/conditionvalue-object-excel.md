@@ -3,10 +3,11 @@ title: ConditionValue Object (Excel)
 keywords: vbaxl10.chm803072
 f1_keywords:
 - vbaxl10.chm803072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConditionValue
 ms.assetid: a39335db-4e0a-66aa-393b-3aa7e5268c00
+ms.date: 06/08/2017
 ---
 
 

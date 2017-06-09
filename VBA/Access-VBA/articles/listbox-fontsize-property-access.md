@@ -3,10 +3,11 @@ title: ListBox.FontSize Property (Access)
 keywords: vbaac10.chm11254
 f1_keywords:
 - vbaac10.chm11254
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.FontSize
 ms.assetid: 4abc5ab0-8d34-1f87-6e23-706e4d3c9e88
+ms.date: 06/08/2017
 ---
 
 

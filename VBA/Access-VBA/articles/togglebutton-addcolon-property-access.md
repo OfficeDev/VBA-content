@@ -3,10 +3,11 @@ title: ToggleButton.AddColon Property (Access)
 keywords: vbaac10.chm11737
 f1_keywords:
 - vbaac10.chm11737
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.AddColon
 ms.assetid: 962c79fd-4575-1eea-982a-27a8d55416aa
+ms.date: 06/08/2017
 ---
 
 

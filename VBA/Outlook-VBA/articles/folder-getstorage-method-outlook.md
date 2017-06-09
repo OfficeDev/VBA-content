@@ -3,10 +3,11 @@ title: Folder.GetStorage Method (Outlook)
 keywords: vbaol11.chm2017
 f1_keywords:
 - vbaol11.chm2017
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.GetStorage
 ms.assetid: cc5ee63b-7d11-6340-8392-8b35a689a28c
+ms.date: 06/08/2017
 ---
 
 

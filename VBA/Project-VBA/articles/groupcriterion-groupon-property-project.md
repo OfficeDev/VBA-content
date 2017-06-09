@@ -1,9 +1,10 @@
 ---
 title: GroupCriterion.GroupOn Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion.GroupOn
 ms.assetid: dd36cf16-9306-4cc7-904b-9e2ae364722f
+ms.date: 06/08/2017
 ---
 
 

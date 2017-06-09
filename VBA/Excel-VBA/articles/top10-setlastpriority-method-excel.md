@@ -3,10 +3,11 @@ title: Top10.SetLastPriority Method (Excel)
 keywords: vbaxl10.chm822085
 f1_keywords:
 - vbaxl10.chm822085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.SetLastPriority
 ms.assetid: 878cbcd5-47c9-64f8-d864-cfe279dec513
+ms.date: 06/08/2017
 ---
 
 

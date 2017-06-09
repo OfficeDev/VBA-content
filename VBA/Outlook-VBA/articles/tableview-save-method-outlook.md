@@ -3,10 +3,11 @@ title: TableView.Save Method (Outlook)
 keywords: vbaol11.chm2507
 f1_keywords:
 - vbaol11.chm2507
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Save
 ms.assetid: 729f20ee-f9ea-93de-f38a-ebc8e9da4b2e
+ms.date: 06/08/2017
 ---
 
 

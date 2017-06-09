@@ -3,8 +3,9 @@ title: Export File Dialog Box
 keywords: vbui6.chm1076807
 f1_keywords:
 - vbui6.chm1076807
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a952053-b49f-e761-cf47-eb519d33dbb1
+ms.date: 06/08/2017
 ---
 
 

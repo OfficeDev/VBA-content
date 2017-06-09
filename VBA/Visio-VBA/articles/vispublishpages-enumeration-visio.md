@@ -3,10 +3,11 @@ title: VisPublishPages Enumeration (Visio)
 keywords: vis_sdr.chm70665
 f1_keywords:
 - vis_sdr.chm70665
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisPublishPages
 ms.assetid: a638bea0-67e5-0fd1-1984-ffafb37afcb2
+ms.date: 06/08/2017
 ---
 
 

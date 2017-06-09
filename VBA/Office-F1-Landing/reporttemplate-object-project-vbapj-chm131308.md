@@ -3,8 +3,9 @@ title: ReportTemplate Object, Project [vbapj.chm131308]
 keywords: vbapj.chm131308
 f1_keywords:
 - vbapj.chm131308
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 114391b7-4be9-4d89-875c-7b15918e1348
+ms.date: 06/08/2017
 ---
 
 

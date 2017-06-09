@@ -1,7 +1,8 @@
 ---
 title: Selecting Text in a Document
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 1684b81f-caed-ea76-1378-580f6e34a1db
+ms.date: 06/08/2017
 ---
 
 

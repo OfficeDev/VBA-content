@@ -3,10 +3,11 @@ title: ColorFormat.Application Property (Publisher)
 keywords: vbapb10.chm2555905
 f1_keywords:
 - vbapb10.chm2555905
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.Application
 ms.assetid: 271eb1ca-16ad-fbd0-83e0-d7e7776994c1
+ms.date: 06/08/2017
 ---
 
 

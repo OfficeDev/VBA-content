@@ -3,8 +3,9 @@ title: Duration3 Property, Project [vbapj.chm131750]
 keywords: vbapj.chm131750
 f1_keywords:
 - vbapj.chm131750
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7825f8d5-98ce-4b42-9303-21aaf73d0fc9
+ms.date: 06/08/2017
 ---
 
 

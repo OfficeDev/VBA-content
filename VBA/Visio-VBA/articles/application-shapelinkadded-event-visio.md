@@ -1,9 +1,10 @@
 ---
 title: Application.ShapeLinkAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ShapeLinkAdded
 ms.assetid: 24b517f7-e6da-df93-db2e-14740050f832
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ColorScheme.Colors Method (PowerPoint)
 keywords: vbapp10.chm537003
 f1_keywords:
 - vbapp10.chm537003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorScheme.Colors
 ms.assetid: ac910a40-9014-e709-491c-a8649fc08137
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ApplicationSettings.DrawingBackgroundColor Property (Visio)
 keywords: vis_sdr.chm16251810
 f1_keywords:
 - vis_sdr.chm16251810
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DrawingBackgroundColor
 ms.assetid: c07d8268-d0f6-afc7-8c6f-da16a3f643a0
+ms.date: 06/08/2017
 ---
 
 

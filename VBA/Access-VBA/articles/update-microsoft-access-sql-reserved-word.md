@@ -1,13 +1,14 @@
 ---
 title: UPDATE (Microsoft Access SQL reserved word)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f1e9358a-4e46-bef7-4126-bee21e0ed299
+ms.date: 06/08/2017
 ---
 
 
 # UPDATE (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

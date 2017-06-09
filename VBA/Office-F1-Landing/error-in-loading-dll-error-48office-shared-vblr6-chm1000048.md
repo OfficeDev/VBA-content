@@ -3,8 +3,9 @@ title: Error in loading DLL (Error 48), Office Shared [vblr6.chm1000048]
 keywords: vblr6.chm1000048
 f1_keywords:
 - vblr6.chm1000048
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 239b0b9d-ade9-4a97-ae0a-938aa68b8733
+ms.date: 06/08/2017
 ---
 
 

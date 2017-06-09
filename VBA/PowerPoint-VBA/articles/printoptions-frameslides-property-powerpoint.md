@@ -3,10 +3,11 @@ title: PrintOptions.FrameSlides Property (PowerPoint)
 keywords: vbapp10.chm517005
 f1_keywords:
 - vbapp10.chm517005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.FrameSlides
 ms.assetid: 4e866170-ab21-44e1-a497-7fc8e331fcec
+ms.date: 06/08/2017
 ---
 
 

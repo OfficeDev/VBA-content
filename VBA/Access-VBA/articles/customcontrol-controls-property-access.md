@@ -3,10 +3,11 @@ title: CustomControl.Controls Property (Access)
 keywords: vbaac10.chm12004
 f1_keywords:
 - vbaac10.chm12004
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Controls
 ms.assetid: 9e8e9948-94eb-87d3-6917-be95224da5c4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Menu.Style Property (Visio)
 keywords: vis_sdr.chm13151150
 f1_keywords:
 - vis_sdr.chm13151150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.Style
 ms.assetid: 25d36a5a-d109-bd60-7fea-6f22eba8b5bb
+ms.date: 06/08/2017
 ---
 
 

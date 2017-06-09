@@ -3,10 +3,11 @@ title: TextEffectFormat Object (PowerPoint)
 keywords: vbapp10.chm556000
 f1_keywords:
 - vbapp10.chm556000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat
 ms.assetid: 62434479-237f-01c4-712c-08e48b391d48
+ms.date: 06/08/2017
 ---
 
 

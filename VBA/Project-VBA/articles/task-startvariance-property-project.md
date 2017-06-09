@@ -1,9 +1,10 @@
 ---
 title: Task.StartVariance Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.StartVariance
 ms.assetid: 8ec7f5c9-62c4-36fd-d245-4a2bf21fd7bd
+ms.date: 06/08/2017
 ---
 
 

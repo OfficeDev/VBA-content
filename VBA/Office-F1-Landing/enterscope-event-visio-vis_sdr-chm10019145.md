@@ -3,8 +3,9 @@ title: EnterScope Event, Visio [vis_sdr.chm10019145]
 keywords: vis_sdr.chm10019145
 f1_keywords:
 - vis_sdr.chm10019145
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c62ac290-6555-4e00-adb3-f7e1cfa78847
+ms.date: 06/08/2017
 ---
 
 

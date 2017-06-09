@@ -1,7 +1,8 @@
 ---
 title: Select a Range
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 4ec2e533-74b3-448d-90aa-1e2a624490b8
+ms.date: 06/08/2017
 ---
 
 

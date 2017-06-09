@@ -1,9 +1,10 @@
 ---
 title: Resource.Number6 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Number6
 ms.assetid: a4094f48-ddac-df9c-3c58-89fa0fb9e57c
+ms.date: 06/08/2017
 ---
 
 

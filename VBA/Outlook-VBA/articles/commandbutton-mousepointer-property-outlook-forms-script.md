@@ -1,7 +1,8 @@
 ---
 title: CommandButton.MousePointer Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b17ab36f-62f7-7305-cda7-79b195649fd4
+ms.date: 06/08/2017
 ---
 
 

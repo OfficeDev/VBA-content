@@ -3,10 +3,11 @@ title: Axis Object (Excel)
 keywords: vbaxl10.chm560072
 f1_keywords:
 - vbaxl10.chm560072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis
 ms.assetid: 7e08c61b-90f4-8d91-0ee2-84283d10b324
+ms.date: 06/08/2017
 ---
 
 

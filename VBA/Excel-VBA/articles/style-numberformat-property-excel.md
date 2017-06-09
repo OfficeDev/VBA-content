@@ -3,10 +3,11 @@ title: Style.NumberFormat Property (Excel)
 keywords: vbaxl10.chm177092
 f1_keywords:
 - vbaxl10.chm177092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.NumberFormat
 ms.assetid: e55eb3b0-8177-4da4-dee0-c39027e90473
+ms.date: 06/08/2017
 ---
 
 

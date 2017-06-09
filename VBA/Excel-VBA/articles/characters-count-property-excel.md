@@ -3,10 +3,11 @@ title: Characters.Count Property (Excel)
 keywords: vbaxl10.chm252074
 f1_keywords:
 - vbaxl10.chm252074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Characters.Count
 ms.assetid: 0fabbbe3-5c4a-c215-1bc0-201ee5971fb0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.AddonPaths Property (Visio)
 keywords: vis_sdr.chm17513055
 f1_keywords:
 - vis_sdr.chm17513055
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AddonPaths
 ms.assetid: a6709892-abc9-7043-ca51-f1b74fdb424c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.Confidence Method (Excel)
 keywords: vbaxl10.chm137181
 f1_keywords:
 - vbaxl10.chm137181
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Confidence
 ms.assetid: ede48d09-ad55-e68a-d90b-94b1b02026ef
+ms.date: 06/08/2017
 ---
 
 

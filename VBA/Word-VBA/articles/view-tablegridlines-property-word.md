@@ -3,10 +3,11 @@ title: View.TableGridlines Property (Word)
 keywords: vbawd10.chm161808409
 f1_keywords:
 - vbawd10.chm161808409
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.TableGridlines
 ms.assetid: 02ef1d7b-185b-ed17-e811-a752faa11b3f
+ms.date: 06/08/2017
 ---
 
 

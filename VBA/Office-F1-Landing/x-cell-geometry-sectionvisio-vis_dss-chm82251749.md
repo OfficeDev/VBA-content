@@ -3,8 +3,9 @@ title: X Cell (Geometry Section), Visio [Vis_DSS.chm82251749]
 keywords: vis_dss.chm82251749
 f1_keywords:
 - vis_dss.chm82251749
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 44ba6237-a068-4aed-ab24-acf07b00695a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.PageID Property (Publisher)
 keywords: vbapb10.chm393223
 f1_keywords:
 - vbapb10.chm393223
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.PageID
 ms.assetid: 07a87780-fb97-93ff-6f7d-1f1b72d3cb6a
+ms.date: 06/08/2017
 ---
 
 

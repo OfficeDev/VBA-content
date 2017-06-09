@@ -3,8 +3,9 @@ title: "How to: Place an Image and a Caption on a Command Button"
 keywords: olfm10.chm3077228
 f1_keywords:
 - olfm10.chm3077228
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f17ced22-bbab-87e0-ef3a-5450c55fa950
+ms.date: 06/08/2017
 ---
 
 

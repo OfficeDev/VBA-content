@@ -1,7 +1,8 @@
 ---
 title: Controls Tab (Components Dialog Box)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d6a85033-9a49-838c-9e5f-f4c5ea99f346
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.FetchDefaults Property (Access)
 keywords: vbaac10.chm13555
 f1_keywords:
 - vbaac10.chm13555
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.FetchDefaults
 ms.assetid: 3bbe8c57-e9ff-419a-d2b4-93cb966d6f30
+ms.date: 06/08/2017
 ---
 
 

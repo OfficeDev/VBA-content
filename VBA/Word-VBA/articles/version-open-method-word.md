@@ -3,10 +3,11 @@ title: Version.Open Method (Word)
 keywords: vbawd10.chm162791527
 f1_keywords:
 - vbawd10.chm162791527
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version.Open
 ms.assetid: 97880749-0cf1-21bb-e268-8907e424127a
+ms.date: 06/08/2017
 ---
 
 

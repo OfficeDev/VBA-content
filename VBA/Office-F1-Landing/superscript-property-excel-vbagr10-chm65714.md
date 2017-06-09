@@ -3,8 +3,9 @@ title: Superscript Property, Excel [vbagr10.chm65714]
 keywords: vbagr10.chm65714
 f1_keywords:
 - vbagr10.chm65714
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 492ac400-f0f5-4e61-94dd-acaed8d3e5d8
+ms.date: 06/08/2017
 ---
 
 

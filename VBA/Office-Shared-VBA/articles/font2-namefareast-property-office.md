@@ -1,9 +1,10 @@
 ---
 title: Font2.NameFarEast Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.NameFarEast
 ms.assetid: 3f476612-615f-b1c4-625a-1a4fd67f7da9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.EnterpriseProjectDelete Method (Project)
 keywords: vbapj.chm2128
 f1_keywords:
 - vbapj.chm2128
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseProjectDelete
 ms.assetid: ef6c296e-c9d2-02ad-77d1-557c59419872
+ms.date: 06/08/2017
 ---
 
 

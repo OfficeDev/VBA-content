@@ -3,10 +3,11 @@ title: OlkCheckBox.KeyPress Event (Outlook)
 keywords: vbaol11.chm1000157
 f1_keywords:
 - vbaol11.chm1000157
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.KeyPress
 ms.assetid: aae8dbfc-d85c-a977-8543-602ff18518fd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AcCursorOnHover Enumeration (Access)
 keywords: vbaac10.chm14076
 f1_keywords:
 - vbaac10.chm14076
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcCursorOnHover
 ms.assetid: cea3585d-7160-1375-40c4-a71b85135b7e
+ms.date: 06/08/2017
 ---
 
 

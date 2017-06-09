@@ -3,10 +3,11 @@ title: ViewField.Parent Property (Outlook)
 keywords: vbaol11.chm2542
 f1_keywords:
 - vbaol11.chm2542
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewField.Parent
 ms.assetid: 2f43f3ef-2f87-a682-7811-a198b2a42497
+ms.date: 06/08/2017
 ---
 
 

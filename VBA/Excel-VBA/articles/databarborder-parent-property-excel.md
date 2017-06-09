@@ -3,10 +3,11 @@ title: DataBarBorder.Parent Property (Excel)
 keywords: vbaxl10.chm884075
 f1_keywords:
 - vbaxl10.chm884075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataBarBorder.Parent
 ms.assetid: 8938e80f-1d4c-f9d9-15a3-1eaee9807cc1
+ms.date: 06/08/2017
 ---
 
 

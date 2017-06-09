@@ -3,10 +3,11 @@ title: PickerDialog.DataHandlerId Property (Office)
 keywords: vbaof11.chm340001
 f1_keywords:
 - vbaof11.chm340001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerDialog.DataHandlerId
 ms.assetid: 6c494116-74a2-1fdc-bc1c-033191adfca1
+ms.date: 06/08/2017
 ---
 
 

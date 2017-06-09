@@ -3,10 +3,11 @@ title: DocumentItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1198
 f1_keywords:
 - vbaol11.chm1198
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.MessageClass
 ms.assetid: 635ba15e-cacc-4e3e-0824-8ca4dfca2a82
+ms.date: 06/08/2017
 ---
 
 

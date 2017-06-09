@@ -3,10 +3,11 @@ title: DropCap.Position Property (Word)
 keywords: vbawd10.chm156631050
 f1_keywords:
 - vbawd10.chm156631050
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.Position
 ms.assetid: ab217570-e506-6fd5-6e8d-4321925907ee
+ms.date: 06/08/2017
 ---
 
 

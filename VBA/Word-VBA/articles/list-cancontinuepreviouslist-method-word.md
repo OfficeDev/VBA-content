@@ -3,10 +3,11 @@ title: List.CanContinuePreviousList Method (Word)
 keywords: vbawd10.chm160563305
 f1_keywords:
 - vbawd10.chm160563305
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.CanContinuePreviousList
 ms.assetid: 5e235969-27ee-22eb-61ba-2b52a23447aa
+ms.date: 06/08/2017
 ---
 
 

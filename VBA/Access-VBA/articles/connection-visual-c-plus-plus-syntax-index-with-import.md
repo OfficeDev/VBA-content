@@ -1,13 +1,14 @@
 ---
 title: Connection (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3217a7d7-1c70-89f7-74a4-172371521358
+ms.date: 06/08/2017
 ---
 
 
 # Connection (Visual C++ Syntax Index with #import)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

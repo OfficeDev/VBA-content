@@ -1,9 +1,10 @@
 ---
 title: Viewer.ParentShape Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ParentShape
 ms.assetid: ee6dc52a-86c7-6a8c-c40e-aaad6a1100a5
+ms.date: 06/08/2017
 ---
 
 

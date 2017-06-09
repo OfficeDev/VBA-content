@@ -3,10 +3,11 @@ title: ShapeRange.IncrementTop Method (Excel)
 keywords: vbaxl10.chm640085
 f1_keywords:
 - vbaxl10.chm640085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.IncrementTop
 ms.assetid: 39004de1-dbae-b57b-e2ea-edfc9b3aa9e3
+ms.date: 06/08/2017
 ---
 
 

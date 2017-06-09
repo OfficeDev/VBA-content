@@ -3,8 +3,9 @@ title: LinePattern Cell (Line Format Section), Visio [Vis_DSS.chm82251232]
 keywords: vis_dss.chm82251232
 f1_keywords:
 - vis_dss.chm82251232
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17f4b157-caa8-4856-bcd2-5521c43b409b
+ms.date: 06/08/2017
 ---
 
 

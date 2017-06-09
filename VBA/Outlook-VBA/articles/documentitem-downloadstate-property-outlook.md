@@ -3,10 +3,11 @@ title: DocumentItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1218
 f1_keywords:
 - vbaol11.chm1218
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.DownloadState
 ms.assetid: d8ffb22f-c977-3cb5-edfb-793748a6dde6
+ms.date: 06/08/2017
 ---
 
 

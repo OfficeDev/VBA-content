@@ -3,10 +3,11 @@ title: Report.PSet Method (Access)
 keywords: vbaac10.chm13784
 f1_keywords:
 - vbaac10.chm13784
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PSet
 ms.assetid: 951a262b-b17b-9b95-b5f2-922d4aff9ce9
+ms.date: 06/08/2017
 ---
 
 

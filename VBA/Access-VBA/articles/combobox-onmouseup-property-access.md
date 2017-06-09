@@ -3,10 +3,11 @@ title: ComboBox.OnMouseUp Property (Access)
 keywords: vbaac10.chm11459
 f1_keywords:
 - vbaac10.chm11459
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnMouseUp
 ms.assetid: bf6f673c-fd59-d411-9cd2-cf7820bb04b3
+ms.date: 06/08/2017
 ---
 
 

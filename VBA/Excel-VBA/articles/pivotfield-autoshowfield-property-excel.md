@@ -3,10 +3,11 @@ title: PivotField.AutoShowField Property (Excel)
 keywords: vbaxl10.chm240118
 f1_keywords:
 - vbaxl10.chm240118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowField
 ms.assetid: 88d3a338-c809-0843-7968-9a8e60612445
+ms.date: 06/08/2017
 ---
 
 

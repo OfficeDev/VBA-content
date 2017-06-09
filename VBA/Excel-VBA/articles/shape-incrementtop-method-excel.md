@@ -3,10 +3,11 @@ title: Shape.IncrementTop Method (Excel)
 keywords: vbaxl10.chm636080
 f1_keywords:
 - vbaxl10.chm636080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.IncrementTop
 ms.assetid: 84aa117d-5309-ea33-e21a-5fc5ef1d6123
+ms.date: 06/08/2017
 ---
 
 

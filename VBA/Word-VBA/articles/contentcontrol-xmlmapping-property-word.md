@@ -3,10 +3,11 @@ title: ContentControl.XMLMapping Property (Word)
 keywords: vbawd10.chm266534916
 f1_keywords:
 - vbawd10.chm266534916
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.XMLMapping
 ms.assetid: 3730e4b2-b69c-3428-6968-4a48a3dc0b93
+ms.date: 06/08/2017
 ---
 
 

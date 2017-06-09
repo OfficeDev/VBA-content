@@ -3,8 +3,9 @@ title: Notes Property, Project [vbapj.chm132421]
 keywords: vbapj.chm132421
 f1_keywords:
 - vbapj.chm132421
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f17aca8-bcec-4b1e-b110-e5c676a444a4
+ms.date: 06/08/2017
 ---
 
 

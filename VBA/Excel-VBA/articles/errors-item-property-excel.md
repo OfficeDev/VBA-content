@@ -3,10 +3,11 @@ title: Errors.Item Property (Excel)
 keywords: vbaxl10.chm700073
 f1_keywords:
 - vbaxl10.chm700073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Errors.Item
 ms.assetid: e7182924-48cb-d97d-93b4-b4f53542013e
+ms.date: 06/08/2017
 ---
 
 

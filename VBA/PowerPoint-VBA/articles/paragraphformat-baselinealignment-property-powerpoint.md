@@ -3,10 +3,11 @@ title: ParagraphFormat.BaseLineAlignment Property (PowerPoint)
 keywords: vbapp10.chm576011
 f1_keywords:
 - vbapp10.chm576011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.BaseLineAlignment
 ms.assetid: b59f680f-a5a9-f6bc-85d5-f14670269ae8
+ms.date: 06/08/2017
 ---
 
 

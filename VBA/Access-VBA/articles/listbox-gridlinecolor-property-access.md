@@ -3,10 +3,11 @@ title: ListBox.GridlineColor Property (Access)
 keywords: vbaac10.chm11318
 f1_keywords:
 - vbaac10.chm11318
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineColor
 ms.assetid: 296db594-3edc-e32f-c4c1-d854b4f9a922
+ms.date: 06/08/2017
 ---
 
 

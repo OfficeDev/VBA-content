@@ -3,14 +3,15 @@ title: Object has no value. (Error 2427)
 keywords: jeterr40.chm5002427
 f1_keywords:
 - jeterr40.chm5002427
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ecc2d091-a9fa-bd9f-078d-f598a6a931e8
+ms.date: 06/08/2017
 ---
 
 
 # Object has no value. (Error 2427)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,8 +3,9 @@ title: Subproject Property, Project [vbapj.chm132614]
 keywords: vbapj.chm132614
 f1_keywords:
 - vbapj.chm132614
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b213e698-e3ef-4a2f-97ba-399ceed435a4
+ms.date: 06/08/2017
 ---
 
 

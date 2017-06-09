@@ -3,10 +3,11 @@ title: Selection.Cut Method (Visio)
 keywords: vis_sdr.chm11116160
 f1_keywords:
 - vis_sdr.chm11116160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Cut
 ms.assetid: 1f5d6f8a-81ab-3948-870c-a46a21f6b005
+ms.date: 06/08/2017
 ---
 
 

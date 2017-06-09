@@ -3,10 +3,11 @@ title: Shapes.AddSmartArt Method (Excel)
 keywords: vbaxl10.chm638095
 f1_keywords:
 - vbaxl10.chm638095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddSmartArt
 ms.assetid: e18a53ef-7649-34be-a264-aa545dd3d012
+ms.date: 06/08/2017
 ---
 
 

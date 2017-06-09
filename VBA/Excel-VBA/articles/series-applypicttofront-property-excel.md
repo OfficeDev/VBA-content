@@ -3,10 +3,11 @@ title: Series.ApplyPictToFront Property (Excel)
 keywords: vbaxl10.chm578116
 f1_keywords:
 - vbaxl10.chm578116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.ApplyPictToFront
 ms.assetid: b40a8808-734f-a00e-3fa1-4e1cf5ac0a52
+ms.date: 06/08/2017
 ---
 
 

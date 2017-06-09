@@ -3,10 +3,11 @@ title: Application.FixedDecimal Property (Excel)
 keywords: vbaxl10.chm133138
 f1_keywords:
 - vbaxl10.chm133138
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FixedDecimal
 ms.assetid: 49b0a3de-bf5a-0130-e473-5b52f761932a
+ms.date: 06/08/2017
 ---
 
 

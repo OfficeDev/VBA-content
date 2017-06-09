@@ -3,10 +3,11 @@ title: DocumentLibraryVersions.Count Property (Office)
 keywords: vbaof11.chm277028
 f1_keywords:
 - vbaof11.chm277028
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions.Count
 ms.assetid: 6a0040ef-8198-15c4-f06f-43791cf284f7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeNodes.SetSegmentType Method (Publisher)
 keywords: vbapb10.chm3473429
 f1_keywords:
 - vbapb10.chm3473429
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.SetSegmentType
 ms.assetid: 64f742fb-8216-9ec3-3fa9-ca2b319cf3e9
+ms.date: 06/08/2017
 ---
 
 

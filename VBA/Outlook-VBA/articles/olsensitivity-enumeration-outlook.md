@@ -3,10 +3,11 @@ title: OlSensitivity Enumeration (Outlook)
 keywords: vbaol11.chm3081
 f1_keywords:
 - vbaol11.chm3081
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSensitivity
 ms.assetid: 611d23ca-40ee-17e9-2560-99c5508f6e29
+ms.date: 06/08/2017
 ---
 
 

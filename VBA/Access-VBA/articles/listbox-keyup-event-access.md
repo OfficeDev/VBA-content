@@ -3,10 +3,11 @@ title: ListBox.KeyUp Event (Access)
 keywords: vbaac10.chm14184
 f1_keywords:
 - vbaac10.chm14184
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.KeyUp
 ms.assetid: 2e4d0bed-8c2c-967d-e7b4-dc9de12ad570
+ms.date: 06/08/2017
 ---
 
 

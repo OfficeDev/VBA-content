@@ -3,8 +3,9 @@ title: Object module must implement all procedures in interface
 keywords: vblr6.chm1109544
 f1_keywords:
 - vblr6.chm1109544
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9b8ccb3a-92e3-20d8-1263-0425c53286a5
+ms.date: 06/08/2017
 ---
 
 

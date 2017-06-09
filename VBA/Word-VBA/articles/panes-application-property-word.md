@@ -3,10 +3,11 @@ title: Panes.Application Property (Word)
 keywords: vbawd10.chm157221864
 f1_keywords:
 - vbawd10.chm157221864
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Panes.Application
 ms.assetid: b6f267ae-4fa0-989a-c218-e1919dbcba83
+ms.date: 06/08/2017
 ---
 
 

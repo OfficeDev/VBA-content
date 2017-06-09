@@ -3,8 +3,9 @@ title: WBSVerifyUniqueness Property, Project [vbapj.chm132766]
 keywords: vbapj.chm132766
 f1_keywords:
 - vbapj.chm132766
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ca360b2c-b8c4-41bb-8cae-2544174471db
+ms.date: 06/08/2017
 ---
 
 

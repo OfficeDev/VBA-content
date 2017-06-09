@@ -1,9 +1,10 @@
 ---
 title: Views.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Views.Application
 ms.assetid: 9010a82d-744f-8d8d-b33b-d6dc9ebc84d4
+ms.date: 06/08/2017
 ---
 
 

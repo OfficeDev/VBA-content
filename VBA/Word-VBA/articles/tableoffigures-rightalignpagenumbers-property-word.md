@@ -3,10 +3,11 @@ title: TableOfFigures.RightAlignPageNumbers Property (Word)
 keywords: vbawd10.chm153157635
 f1_keywords:
 - vbawd10.chm153157635
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.RightAlignPageNumbers
 ms.assetid: 0c9388b6-d6d7-9d41-547d-35d1345c1d38
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Export Method (VBA Add-In Object Model), Office Shared [vbob6.chm1098971]
 keywords: vbob6.chm1098971
 f1_keywords:
 - vbob6.chm1098971
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbf70baf-d54f-4c1a-8f75-32446438f88c
+ms.date: 06/08/2017
 ---
 
 

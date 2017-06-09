@@ -3,10 +3,11 @@ title: PivotItem.DataRange Property (Excel)
 keywords: vbaxl10.chm246075
 f1_keywords:
 - vbaxl10.chm246075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItem.DataRange
 ms.assetid: 6946f4eb-60ef-0d7a-394a-cd7904967a02
+ms.date: 06/08/2017
 ---
 
 

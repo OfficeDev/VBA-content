@@ -3,10 +3,11 @@ title: System.CountryRegion Property (Word)
 keywords: vbawd10.chm154468455
 f1_keywords:
 - vbawd10.chm154468455
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.CountryRegion
 ms.assetid: 51db26e6-9f24-5934-24a4-0ed87bb51f69
+ms.date: 06/08/2017
 ---
 
 

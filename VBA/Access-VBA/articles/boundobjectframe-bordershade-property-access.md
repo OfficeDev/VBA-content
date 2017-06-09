@@ -3,10 +3,11 @@ title: BoundObjectFrame.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BorderShade
 ms.assetid: 5a8baed2-9f1d-e835-013b-b3973e79e228
+ms.date: 06/08/2017
 ---
 
 

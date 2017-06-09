@@ -3,10 +3,11 @@ title: TimelineView.Apply Method (Outlook)
 keywords: vbaol11.chm2646
 f1_keywords:
 - vbaol11.chm2646
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Apply
 ms.assetid: 92edb6d3-78ac-47ab-0419-add6b6d74e19
+ms.date: 06/08/2017
 ---
 
 

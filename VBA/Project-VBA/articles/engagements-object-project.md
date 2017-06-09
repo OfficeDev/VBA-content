@@ -1,6 +1,8 @@
 ---
 title: Engagements Object (Project)
 ms.assetid: 4986802b-1d53-7bc6-0bc7-6a5b83855628
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

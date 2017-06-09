@@ -3,8 +3,9 @@ title: Name conflicts with existing module, project, or object library, Office S
 keywords: vblr6.chm1011218
 f1_keywords:
 - vblr6.chm1011218
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dd4da212-3bd4-4e00-80c8-534caa202e6e
+ms.date: 06/08/2017
 ---
 
 

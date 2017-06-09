@@ -3,8 +3,9 @@ title: Invalid property name
 keywords: vblr6.chm1000331
 f1_keywords:
 - vblr6.chm1000331
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 622da783-8edb-f9c6-307a-4e208e6fa5eb
+ms.date: 06/08/2017
 ---
 
 

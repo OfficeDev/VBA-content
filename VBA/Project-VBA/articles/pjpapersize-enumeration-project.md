@@ -1,9 +1,10 @@
 ---
 title: PjPaperSize Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjPaperSize
 ms.assetid: d1ed803e-52fa-40cf-76a0-a3f41b1729f7
+ms.date: 06/08/2017
 ---
 
 

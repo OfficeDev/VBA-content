@@ -3,8 +3,9 @@ title: BeforeCheckNames Event, Outlook [vbaol11.chm485]
 keywords: vbaol11.chm485
 f1_keywords:
 - vbaol11.chm485
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: edff0bbd-c294-4523-8ea7-b18d9a97b1d7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NoteItem.Body Property (Outlook)
 keywords: vbaol11.chm1477
 f1_keywords:
 - vbaol11.chm1477
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Body
 ms.assetid: d7ba082e-893d-f4a7-0545-fbbf3c393633
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Application.GlobalOutlineCodes Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GlobalOutlineCodes
 ms.assetid: a63d1a87-5c87-a2d6-c4da-70ab9526eaae
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.FullName Property (Word)
 keywords: vbawd10.chm158007325
 f1_keywords:
 - vbawd10.chm158007325
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FullName
 ms.assetid: 795a20cb-c744-6c3c-8e7f-f7a749489819
+ms.date: 06/08/2017
 ---
 
 

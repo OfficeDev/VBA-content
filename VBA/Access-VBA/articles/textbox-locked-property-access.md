@@ -3,10 +3,11 @@ title: TextBox.Locked Property (Access)
 keywords: vbaac10.chm11061
 f1_keywords:
 - vbaac10.chm11061
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Locked
 ms.assetid: 025b88db-7409-4cb6-bcc0-c72a6a3850d3
+ms.date: 06/08/2017
 ---
 
 

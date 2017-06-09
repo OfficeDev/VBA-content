@@ -3,10 +3,11 @@ title: Application.ObjectType Property (Visio)
 keywords: vis_sdr.chm10013960
 f1_keywords:
 - vis_sdr.chm10013960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ObjectType
 ms.assetid: 50baf864-034e-9051-3671-a3c8f0f368ed
+ms.date: 06/08/2017
 ---
 
 

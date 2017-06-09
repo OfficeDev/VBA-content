@@ -3,8 +3,9 @@ title: BeforeShapeTextEdit Event, Visio [vis_sdr.chm10019380]
 keywords: vis_sdr.chm10019380
 f1_keywords:
 - vis_sdr.chm10019380
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fb772ecf-18a9-4cb5-94cc-ea0394895a5d
+ms.date: 06/08/2017
 ---
 
 

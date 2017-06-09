@@ -3,10 +3,11 @@ title: Selection.Union Method (Visio)
 keywords: vis_sdr.chm11116630
 f1_keywords:
 - vis_sdr.chm11116630
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Union
 ms.assetid: 1ab7ce2a-98af-c455-7558-6f4f9226eeb9
+ms.date: 06/08/2017
 ---
 
 

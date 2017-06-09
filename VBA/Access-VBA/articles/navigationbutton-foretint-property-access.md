@@ -3,10 +3,11 @@ title: NavigationButton.ForeTint Property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.ForeTint
 ms.assetid: 4d19f8e8-67e0-412a-a515-dd357a26bc46
+ms.date: 06/08/2017
 ---
 
 

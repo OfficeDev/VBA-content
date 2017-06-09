@@ -1,7 +1,8 @@
 ---
 title: Indexes Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 0441446a-c1b5-d333-5950-906fe463b61d
+ms.date: 06/08/2017
 ---
 
 

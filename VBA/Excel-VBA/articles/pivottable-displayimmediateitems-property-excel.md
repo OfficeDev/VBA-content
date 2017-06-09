@@ -3,10 +3,11 @@ title: PivotTable.DisplayImmediateItems Property (Excel)
 keywords: vbaxl10.chm235146
 f1_keywords:
 - vbaxl10.chm235146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayImmediateItems
 ms.assetid: 796529b1-1f19-4e86-b172-1b2e4173b045
+ms.date: 06/08/2017
 ---
 
 

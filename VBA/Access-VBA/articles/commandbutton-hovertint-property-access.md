@@ -3,10 +3,11 @@ title: CommandButton.HoverTint Property (Access)
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.HoverTint
 ms.assetid: 0eac99ff-c693-d456-c319-ec1ce60ba05d
+ms.date: 06/08/2017
 ---
 
 

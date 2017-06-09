@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.ConnectorFormat Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 7193b3aa-2e3f-d349-c398-d30e2878ceaa
+ms.date: 06/08/2017
 ---
 
 

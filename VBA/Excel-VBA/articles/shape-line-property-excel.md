@@ -3,10 +3,11 @@ title: Shape.Line Property (Excel)
 keywords: vbaxl10.chm636101
 f1_keywords:
 - vbaxl10.chm636101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Line
 ms.assetid: 0db51c52-c77c-9c0d-9945-e467dbcce3a9
+ms.date: 06/08/2017
 ---
 
 

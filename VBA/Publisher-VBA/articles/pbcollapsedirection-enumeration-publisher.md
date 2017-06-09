@@ -3,10 +3,11 @@ title: PbCollapseDirection Enumeration (Publisher)
 keywords: vbapb10.chm65547
 f1_keywords:
 - vbapb10.chm65547
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbCollapseDirection
 ms.assetid: 93d87f7c-ee31-c433-ff87-2618029c7d0d
+ms.date: 06/08/2017
 ---
 
 

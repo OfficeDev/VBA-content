@@ -3,10 +3,11 @@ title: Application.CalendarShowBarSplits Method (Project)
 keywords: vbapj.chm2382
 f1_keywords:
 - vbapj.chm2382
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CalendarShowBarSplits
 ms.assetid: d52f7a1e-ec74-3804-4bbd-3e27ae362e26
+ms.date: 06/08/2017
 ---
 
 

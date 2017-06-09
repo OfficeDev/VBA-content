@@ -1,9 +1,10 @@
 ---
 title: AppointmentItem.BeforeAttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentAdd
 ms.assetid: 1574e5b0-b2d1-ca0a-3e1a-0c5efef0a99c
+ms.date: 06/08/2017
 ---
 
 

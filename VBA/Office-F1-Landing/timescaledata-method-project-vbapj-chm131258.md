@@ -3,8 +3,9 @@ title: TimeScaleData Method, Project [vbapj.chm131258]
 keywords: vbapj.chm131258
 f1_keywords:
 - vbapj.chm131258
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 803a771a-1cad-44e1-858e-0db518689b06
+ms.date: 06/08/2017
 ---
 
 

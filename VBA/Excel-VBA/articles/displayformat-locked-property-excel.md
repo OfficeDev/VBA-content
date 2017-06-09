@@ -3,10 +3,11 @@ title: DisplayFormat.Locked Property (Excel)
 keywords: vbaxl10.chm893082
 f1_keywords:
 - vbaxl10.chm893082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Locked
 ms.assetid: 32941867-c714-cfa1-ad16-c214e745580e
+ms.date: 06/08/2017
 ---
 
 

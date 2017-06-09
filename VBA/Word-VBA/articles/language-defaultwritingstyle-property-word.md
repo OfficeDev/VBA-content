@@ -3,10 +3,11 @@ title: Language.DefaultWritingStyle Property (Word)
 keywords: vbawd10.chm158138385
 f1_keywords:
 - vbawd10.chm158138385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.DefaultWritingStyle
 ms.assetid: 89eae276-8439-35d1-19bf-92c8ba69575c
+ms.date: 06/08/2017
 ---
 
 

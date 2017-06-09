@@ -3,10 +3,11 @@ title: WebOptions.TargetBrowser Property (Word)
 keywords: vbawd10.chm165937164
 f1_keywords:
 - vbawd10.chm165937164
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.TargetBrowser
 ms.assetid: d503e040-9534-e3ff-a526-2ede6f595982
+ms.date: 06/08/2017
 ---
 
 

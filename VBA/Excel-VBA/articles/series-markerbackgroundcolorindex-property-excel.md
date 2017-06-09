@@ -3,10 +3,11 @@ title: Series.MarkerBackgroundColorIndex Property (Excel)
 keywords: vbaxl10.chm578094
 f1_keywords:
 - vbaxl10.chm578094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.MarkerBackgroundColorIndex
 ms.assetid: 90f57719-ff91-5b9c-6338-d238c6e234d6
+ms.date: 06/08/2017
 ---
 
 

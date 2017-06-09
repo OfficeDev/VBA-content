@@ -3,10 +3,11 @@ title: Chart.Elevation Property (Excel)
 keywords: vbaxl10.chm149106
 f1_keywords:
 - vbaxl10.chm149106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Elevation
 ms.assetid: 44dde783-5bf7-7c5c-475b-0666337249d7
+ms.date: 06/08/2017
 ---
 
 

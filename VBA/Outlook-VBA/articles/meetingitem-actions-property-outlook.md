@@ -3,10 +3,11 @@ title: MeetingItem.Actions Property (Outlook)
 keywords: vbaol11.chm1402
 f1_keywords:
 - vbaol11.chm1402
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Actions
 ms.assetid: f659ae7a-27bb-5be3-ef8b-2dd07e8bcdf2
+ms.date: 06/08/2017
 ---
 
 

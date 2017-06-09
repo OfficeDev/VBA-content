@@ -3,10 +3,11 @@ title: Paragraphs.Item Method (Word)
 keywords: vbawd10.chm156762112
 f1_keywords:
 - vbawd10.chm156762112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Item
 ms.assetid: 554333d1-6b40-9f2c-19c5-8b015a3cecc0
+ms.date: 06/08/2017
 ---
 
 

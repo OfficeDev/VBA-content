@@ -3,8 +3,9 @@ title: Visual Basic Menus
 keywords: vbui6.chm2056891
 f1_keywords:
 - vbui6.chm2056891
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0969ca06-c1a2-dbe6-abca-a0678a9878b8
+ms.date: 06/08/2017
 ---
 
 

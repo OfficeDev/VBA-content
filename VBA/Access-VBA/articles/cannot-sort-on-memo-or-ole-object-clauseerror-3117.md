@@ -3,14 +3,15 @@ title: Cannot sort on Memo or OLE Object <clause>. (Error 3117)
 keywords: jeterr40.chm5003117
 f1_keywords:
 - jeterr40.chm5003117
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: abb6eb90-4c8b-733f-a35e-b9424a0057c4
+ms.date: 06/08/2017
 ---
 
 
 # Cannot sort on Memo or OLE Object <clause>. (Error 3117)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

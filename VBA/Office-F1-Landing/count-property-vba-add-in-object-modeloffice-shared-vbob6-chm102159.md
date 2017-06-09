@@ -3,8 +3,9 @@ title: Count Property (VBA Add-In Object Model), Office Shared [vbob6.chm102159]
 keywords: vbob6.chm102159
 f1_keywords:
 - vbob6.chm102159
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 173e94ca-c688-4fc2-8b62-6baa74f323c9
+ms.date: 06/08/2017
 ---
 
 

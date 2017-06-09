@@ -3,10 +3,11 @@ title: OptionButton.AfterUpdate Property (Access)
 keywords: vbaac10.chm10609
 f1_keywords:
 - vbaac10.chm10609
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.AfterUpdate
 ms.assetid: 02ca295b-ff5c-2f6d-12f0-ea0bc176947a
+ms.date: 06/08/2017
 ---
 
 

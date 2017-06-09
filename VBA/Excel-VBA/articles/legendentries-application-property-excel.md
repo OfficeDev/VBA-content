@@ -3,10 +3,11 @@ title: LegendEntries.Application Property (Excel)
 keywords: vbaxl10.chm587073
 f1_keywords:
 - vbaxl10.chm587073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntries.Application
 ms.assetid: 24249423-1fde-01a7-fe84-5c953f26dfe9
+ms.date: 06/08/2017
 ---
 
 

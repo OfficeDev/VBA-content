@@ -1,7 +1,8 @@
 ---
 title: SharedWorkspaceTasks Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c3a503a1-f78d-40ef-b1fe-5b5bb1d2dbf3
+ms.date: 06/08/2017
 ---
 
 

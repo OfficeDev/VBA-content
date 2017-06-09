@@ -1,9 +1,10 @@
 ---
 title: Project.DefaultTaskType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultTaskType
 ms.assetid: 293ba84d-73bc-65c3-0ede-c5d402cd7212
+ms.date: 06/08/2017
 ---
 
 

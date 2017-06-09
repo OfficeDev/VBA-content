@@ -3,10 +3,11 @@ title: Floor.Format Property (PowerPoint)
 keywords: vbapp10.chm703001
 f1_keywords:
 - vbapp10.chm703001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Format
 ms.assetid: 7249081e-92fb-8593-e46a-ba75b862b07a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Locked Property, Access [vbaac10.chm5475]
 keywords: vbaac10.chm5475
 f1_keywords:
 - vbaac10.chm5475
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 051075b4-97cf-48bb-a463-2e540e11e59c
+ms.date: 06/08/2017
 ---
 
 

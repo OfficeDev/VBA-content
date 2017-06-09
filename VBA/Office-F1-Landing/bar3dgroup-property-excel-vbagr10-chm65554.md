@@ -3,8 +3,9 @@ title: Bar3DGroup Property, Excel [vbagr10.chm65554]
 keywords: vbagr10.chm65554
 f1_keywords:
 - vbagr10.chm65554
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c9b92f0-9e76-4db5-bcf8-718bcf8ac0ef
+ms.date: 06/08/2017
 ---
 
 

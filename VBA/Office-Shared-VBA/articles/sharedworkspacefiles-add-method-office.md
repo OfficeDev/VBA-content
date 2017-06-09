@@ -3,10 +3,11 @@ title: SharedWorkspaceFiles.Add Method (Office)
 keywords: vbaof11.chm267003
 f1_keywords:
 - vbaof11.chm267003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles.Add
 ms.assetid: d6a8e86b-2075-be56-3e3f-75c3ffa6241c
+ms.date: 06/08/2017
 ---
 
 

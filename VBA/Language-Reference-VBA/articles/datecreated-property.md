@@ -3,10 +3,11 @@ title: DateCreated Property
 keywords: vblr6.chm2181973
 f1_keywords:
 - vblr6.chm2181973
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DateCreated
 ms.assetid: 2b176d36-d598-f922-ceba-989411368253
+ms.date: 06/08/2017
 ---
 
 

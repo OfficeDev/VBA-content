@@ -3,10 +3,11 @@ title: SlicerItem Object (Excel)
 keywords: vbaxl10.chm906072
 f1_keywords:
 - vbaxl10.chm906072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItem
 ms.assetid: cb93cd82-fc3a-f6b7-ae64-db6312db649d
+ms.date: 06/08/2017
 ---
 
 

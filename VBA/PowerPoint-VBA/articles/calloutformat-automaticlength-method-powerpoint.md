@@ -3,10 +3,11 @@ title: CalloutFormat.AutomaticLength Method (PowerPoint)
 keywords: vbapp10.chm559002
 f1_keywords:
 - vbapp10.chm559002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.AutomaticLength
 ms.assetid: f80fdbbe-2fb4-c7d8-5f26-4edf16d65f82
+ms.date: 06/08/2017
 ---
 
 

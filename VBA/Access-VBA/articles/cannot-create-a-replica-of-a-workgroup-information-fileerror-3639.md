@@ -3,14 +3,15 @@ title: Cannot create a replica of a workgroup information file. (Error 3639)
 keywords: jeterr40.chm5003639
 f1_keywords:
 - jeterr40.chm5003639
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bf7afb4f-97a8-951c-4cd2-e57c3da28784
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create a replica of a workgroup information file. (Error 3639)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

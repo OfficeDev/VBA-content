@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.IncrementLeft Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 82ae02d8-4480-ddee-dae8-d6b3c4e07f95
+ms.date: 06/08/2017
 ---
 
 

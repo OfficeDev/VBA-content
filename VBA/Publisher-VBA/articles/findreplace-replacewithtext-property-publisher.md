@@ -3,10 +3,11 @@ title: FindReplace.ReplaceWithText Property (Publisher)
 keywords: vbapb10.chm8323077
 f1_keywords:
 - vbapb10.chm8323077
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace.ReplaceWithText
 ms.assetid: 7bd0457f-c55e-3350-fe16-b9eac7d7d4fa
+ms.date: 06/08/2017
 ---
 
 

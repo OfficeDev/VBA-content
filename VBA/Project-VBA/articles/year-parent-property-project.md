@@ -1,9 +1,10 @@
 ---
 title: Year.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Parent
 ms.assetid: 0705b543-be3e-a6ec-5f0d-83dad6a79ff6
+ms.date: 06/08/2017
 ---
 
 

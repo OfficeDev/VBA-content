@@ -3,14 +3,15 @@ title: Cannot set field <name> in join key to Null. (Error 3100)
 keywords: jeterr40.chm5003100
 f1_keywords:
 - jeterr40.chm5003100
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1dcd1cbc-f492-b254-3525-b8a082401e17
+ms.date: 06/08/2017
 ---
 
 
 # Cannot set field <name> in join key to Null. (Error 3100)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

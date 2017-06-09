@@ -3,10 +3,11 @@ title: MeetingItem.GetAssociatedAppointment Method (Outlook)
 keywords: vbaol11.chm1455
 f1_keywords:
 - vbaol11.chm1455
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.GetAssociatedAppointment
 ms.assetid: 8344d40d-5c1d-ead3-87cb-fd795b831712
+ms.date: 06/08/2017
 ---
 
 

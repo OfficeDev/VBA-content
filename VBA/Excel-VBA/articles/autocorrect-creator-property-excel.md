@@ -3,10 +3,11 @@ title: AutoCorrect.Creator Property (Excel)
 keywords: vbaxl10.chm544074
 f1_keywords:
 - vbaxl10.chm544074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.Creator
 ms.assetid: 25c3b228-cfac-8703-acd9-533cf86387cb
+ms.date: 06/08/2017
 ---
 
 

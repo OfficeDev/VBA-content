@@ -3,10 +3,11 @@ title: CommandButton.OldValue Property (Access)
 keywords: vbaac10.chm10440
 f1_keywords:
 - vbaac10.chm10440
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OldValue
 ms.assetid: a03e4e4c-0c02-7e6a-0654-fafc8a0f0036
+ms.date: 06/08/2017
 ---
 
 

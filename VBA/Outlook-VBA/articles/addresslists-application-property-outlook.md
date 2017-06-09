@@ -3,10 +3,11 @@ title: AddressLists.Application Property (Outlook)
 keywords: vbaol11.chm88
 f1_keywords:
 - vbaol11.chm88
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressLists.Application
 ms.assetid: fe332bc6-efc1-c286-8aed-064ed47b3720
+ms.date: 06/08/2017
 ---
 
 

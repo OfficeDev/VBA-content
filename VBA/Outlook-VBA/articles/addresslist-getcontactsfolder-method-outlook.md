@@ -3,10 +3,11 @@ title: AddressList.GetContactsFolder Method (Outlook)
 keywords: vbaol11.chm2032
 f1_keywords:
 - vbaol11.chm2032
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressList.GetContactsFolder
 ms.assetid: 9ea91624-bd7d-af64-7220-a2d9b659787a
+ms.date: 06/08/2017
 ---
 
 

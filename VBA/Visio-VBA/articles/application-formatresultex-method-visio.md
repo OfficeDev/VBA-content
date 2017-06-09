@@ -3,10 +3,11 @@ title: Application.FormatResultEx Method (Visio)
 keywords: vis_sdr.chm10051375
 f1_keywords:
 - vis_sdr.chm10051375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.FormatResultEx
 ms.assetid: 68dadf46-0d2b-2a2d-a389-0a17c84e45b4
+ms.date: 06/08/2017
 ---
 
 

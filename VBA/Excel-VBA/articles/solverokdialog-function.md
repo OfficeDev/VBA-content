@@ -3,8 +3,9 @@ title: SolverOkDialog Function
 keywords: vbaxl10.chm5205223
 f1_keywords:
 - vbaxl10.chm5205223
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b16cad05-2213-ab11-ee9f-c3e09fe7f973
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TabControl.BackStyle Property (Access)
 keywords: vbaac10.chm12085
 f1_keywords:
 - vbaac10.chm12085
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BackStyle
 ms.assetid: f20c9406-7608-89ea-d0ff-d54bf4d1c526
+ms.date: 06/08/2017
 ---
 
 

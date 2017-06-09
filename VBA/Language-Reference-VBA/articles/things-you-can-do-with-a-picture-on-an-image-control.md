@@ -3,8 +3,9 @@ title: Things you can do with a picture on an Image control
 keywords: fm20.chm5225238
 f1_keywords:
 - fm20.chm5225238
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cceec7a4-ac17-1c2f-0849-7edeeeb2ccf8
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Crop Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop
 ms.assetid: 21ac150e-0a8f-c77b-717f-bf38fbced5a3
+ms.date: 06/08/2017
 ---
 
 

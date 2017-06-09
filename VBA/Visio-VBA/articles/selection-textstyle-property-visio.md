@@ -3,10 +3,11 @@ title: Selection.TextStyle Property (Visio)
 keywords: vis_sdr.chm11114530
 f1_keywords:
 - vis_sdr.chm11114530
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.TextStyle
 ms.assetid: 3b94d8a1-e3aa-0473-de85-744cb353886e
+ms.date: 06/08/2017
 ---
 
 

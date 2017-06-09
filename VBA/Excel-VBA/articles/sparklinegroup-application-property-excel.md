@@ -3,10 +3,11 @@ title: SparklineGroup.Application Property (Excel)
 keywords: vbaxl10.chm870073
 f1_keywords:
 - vbaxl10.chm870073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Application
 ms.assetid: 07f584f6-ed89-4a08-7dfa-f44d03e5b487
+ms.date: 06/08/2017
 ---
 
 

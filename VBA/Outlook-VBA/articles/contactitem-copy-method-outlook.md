@@ -3,10 +3,11 @@ title: ContactItem.Copy Method (Outlook)
 keywords: vbaol11.chm957
 f1_keywords:
 - vbaol11.chm957
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Copy
 ms.assetid: 0e99dbcb-95f0-b1a2-e709-165a09035354
+ms.date: 06/08/2017
 ---
 
 

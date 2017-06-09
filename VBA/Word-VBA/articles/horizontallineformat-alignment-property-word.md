@@ -3,10 +3,11 @@ title: HorizontalLineFormat.Alignment Property (Word)
 keywords: vbawd10.chm165543940
 f1_keywords:
 - vbawd10.chm165543940
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.Alignment
 ms.assetid: 5595d4f6-20f1-c13d-bbc0-8753e9bf4bb7
+ms.date: 06/08/2017
 ---
 
 

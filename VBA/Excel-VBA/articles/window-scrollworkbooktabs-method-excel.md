@@ -3,10 +3,11 @@ title: Window.ScrollWorkbookTabs Method (Excel)
 keywords: vbaxl10.chm356107
 f1_keywords:
 - vbaxl10.chm356107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ScrollWorkbookTabs
 ms.assetid: 5c7c4d74-f125-d67e-2196-14a740afe947
+ms.date: 06/08/2017
 ---
 
 

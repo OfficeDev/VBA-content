@@ -3,10 +3,11 @@ title: DataConnection Object (Visio)
 keywords: vis_sdr.chm61010
 f1_keywords:
 - vis_sdr.chm61010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection
 ms.assetid: db21a645-d24d-253f-11ee-c75261d0896b
+ms.date: 06/08/2017
 ---
 
 

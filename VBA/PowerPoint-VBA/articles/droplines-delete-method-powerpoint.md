@@ -3,10 +3,11 @@ title: DropLines.Delete Method (PowerPoint)
 keywords: vbapp10.chm701006
 f1_keywords:
 - vbapp10.chm701006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DropLines.Delete
 ms.assetid: 5ad36b94-3ee7-8469-8773-d9726900c467
+ms.date: 06/08/2017
 ---
 
 

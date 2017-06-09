@@ -1,7 +1,8 @@
 ---
 title: Shape.ParentGroup Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 1df4b56c-694d-549a-e64e-29d25270ba2f
+ms.date: 06/08/2017
 ---
 
 

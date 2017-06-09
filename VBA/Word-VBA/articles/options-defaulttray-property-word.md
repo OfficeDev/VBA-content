@@ -3,10 +3,11 @@ title: Options.DefaultTray Property (Word)
 keywords: vbawd10.chm162988071
 f1_keywords:
 - vbawd10.chm162988071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultTray
 ms.assetid: e96df21c-2cfc-3f14-5283-107187d193af
+ms.date: 06/08/2017
 ---
 
 

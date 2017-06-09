@@ -3,8 +3,9 @@ title: Declaring Variables
 keywords: vbcn6.chm1076702
 f1_keywords:
 - vbcn6.chm1076702
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 42230f9e-e02f-14d9-8f7b-75441818e6c6
+ms.date: 06/08/2017
 ---
 
 

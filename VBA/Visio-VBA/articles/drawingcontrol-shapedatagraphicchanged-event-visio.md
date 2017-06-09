@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.ShapeDataGraphicChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeDataGraphicChanged
 ms.assetid: 25f42728-a982-679e-cfb7-57cfa59e7cf2
+ms.date: 06/08/2017
 ---
 
 

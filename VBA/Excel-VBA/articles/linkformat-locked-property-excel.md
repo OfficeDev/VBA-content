@@ -3,10 +3,11 @@ title: LinkFormat.Locked Property (Excel)
 keywords: vbaxl10.chm634074
 f1_keywords:
 - vbaxl10.chm634074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinkFormat.Locked
 ms.assetid: 13e9baf7-ecb0-f193-4b69-7e15c9463ed0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Section.ContinueNumbersFromPreviousSection Property (Publisher)
 keywords: vbapb10.chm7405575
 f1_keywords:
 - vbapb10.chm7405575
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Section.ContinueNumbersFromPreviousSection
 ms.assetid: a3d64f14-dc65-4fb1-5079-0fdf2e3f8f38
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.InputBox Method (Excel)
 keywords: vbaxl10.chm133149
 f1_keywords:
 - vbaxl10.chm133149
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.InputBox
 ms.assetid: d3bd2f3a-7fed-20fa-918d-a71e2a2a1d49
+ms.date: 06/08/2017
 ---
 
 

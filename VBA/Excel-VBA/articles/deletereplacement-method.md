@@ -3,10 +3,11 @@ title: DeleteReplacement Method
 keywords: vbagr10.chm66683
 f1_keywords:
 - vbagr10.chm66683
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DeleteReplacement
 ms.assetid: d82693f6-5275-2473-55e8-2b3cc156d702
+ms.date: 06/08/2017
 ---
 
 

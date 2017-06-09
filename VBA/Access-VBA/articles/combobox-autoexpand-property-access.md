@@ -3,10 +3,11 @@ title: ComboBox.AutoExpand Property (Access)
 keywords: vbaac10.chm11388,vbaac10.chm4275
 f1_keywords:
 - vbaac10.chm11388,vbaac10.chm4275
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.AutoExpand
 ms.assetid: 0b3fabf8-4004-0868-3ddc-aef297514324
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shapes.AddTextEffect Method (Word)
 keywords: vbawd10.chm161415186
 f1_keywords:
 - vbawd10.chm161415186
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddTextEffect
 ms.assetid: 1f1fca1b-f357-8526-75a4-b05a378736bc
+ms.date: 06/08/2017
 ---
 
 

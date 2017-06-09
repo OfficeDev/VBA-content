@@ -3,10 +3,11 @@ title: Global.PicasToPoints Method (Word)
 keywords: vbawd10.chm163119477
 f1_keywords:
 - vbawd10.chm163119477
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.PicasToPoints
 ms.assetid: c1fb493b-d63d-484f-9d9b-c6781a0ff027
+ms.date: 06/08/2017
 ---
 
 

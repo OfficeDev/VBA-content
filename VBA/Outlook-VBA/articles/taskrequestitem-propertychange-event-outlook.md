@@ -1,9 +1,10 @@
 ---
 title: TaskRequestItem.PropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.PropertyChange
 ms.assetid: 96e99389-0393-1350-bdfd-45e097d5e185
+ms.date: 06/08/2017
 ---
 
 

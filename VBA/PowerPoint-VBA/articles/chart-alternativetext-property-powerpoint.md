@@ -3,10 +3,11 @@ title: Chart.AlternativeText Property (PowerPoint)
 keywords: vbapp10.chm684054
 f1_keywords:
 - vbapp10.chm684054
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.AlternativeText
 ms.assetid: bdded8b9-5f6e-dd83-db04-0ce180bd2552
+ms.date: 06/08/2017
 ---
 
 

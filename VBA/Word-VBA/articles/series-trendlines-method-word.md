@@ -3,10 +3,11 @@ title: Series.Trendlines Method (Word)
 keywords: vbawd10.chm123732122
 f1_keywords:
 - vbawd10.chm123732122
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Trendlines
 ms.assetid: 300dca01-097f-8a3d-4f63-a1841a92098e
+ms.date: 06/08/2017
 ---
 
 

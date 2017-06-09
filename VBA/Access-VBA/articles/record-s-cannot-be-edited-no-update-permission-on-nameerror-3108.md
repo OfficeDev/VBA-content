@@ -3,14 +3,15 @@ title: Record(s) cannot be edited; no update permission on <name>. (Error 3108)
 keywords: jeterr40.chm5003108
 f1_keywords:
 - jeterr40.chm5003108
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 31b43370-3b26-4d7a-4b03-27472e139249
+ms.date: 06/08/2017
 ---
 
 
 # Record(s) cannot be edited; no update permission on <name>. (Error 3108)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

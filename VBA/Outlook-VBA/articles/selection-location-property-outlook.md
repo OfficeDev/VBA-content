@@ -3,10 +3,11 @@ title: Selection.Location Property (Outlook)
 keywords: vbaol11.chm3481
 f1_keywords:
 - vbaol11.chm3481
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection.Location
 ms.assetid: 8a2db72a-8db0-840e-349e-5d9d22f3affb
+ms.date: 06/08/2017
 ---
 
 

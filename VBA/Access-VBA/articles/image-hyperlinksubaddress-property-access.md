@@ -3,10 +3,11 @@ title: Image.HyperlinkSubAddress Property (Access)
 keywords: vbaac10.chm10373
 f1_keywords:
 - vbaac10.chm10373
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.HyperlinkSubAddress
 ms.assetid: ba6f27ec-d28b-e495-4e63-9355cd26630b
+ms.date: 06/08/2017
 ---
 
 

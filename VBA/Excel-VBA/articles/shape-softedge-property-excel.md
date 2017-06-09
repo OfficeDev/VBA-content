@@ -3,10 +3,11 @@ title: Shape.SoftEdge Property (Excel)
 keywords: vbaxl10.chm636151
 f1_keywords:
 - vbaxl10.chm636151
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.SoftEdge
 ms.assetid: d456fd5b-01b6-c70a-e70e-e345ab43a408
+ms.date: 06/08/2017
 ---
 
 

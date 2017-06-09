@@ -3,10 +3,11 @@ title: ProtectedViewWindow.Activate Method (Word)
 keywords: vbawd10.chm231735396
 f1_keywords:
 - vbawd10.chm231735396
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Activate
 ms.assetid: a784fceb-38b9-2fc4-6c71-fcfb17b53dfe
+ms.date: 06/08/2017
 ---
 
 

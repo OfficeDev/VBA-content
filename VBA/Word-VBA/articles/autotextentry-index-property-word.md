@@ -3,10 +3,11 @@ title: AutoTextEntry.Index Property (Word)
 keywords: vbawd10.chm154533889
 f1_keywords:
 - vbawd10.chm154533889
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntry.Index
 ms.assetid: dd0c6725-bcba-897e-2888-c6c008817f25
+ms.date: 06/08/2017
 ---
 
 

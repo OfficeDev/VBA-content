@@ -3,10 +3,11 @@ title: HiLoLines Object
 keywords: vbagr10.chm5207532
 f1_keywords:
 - vbagr10.chm5207532
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HiLoLines
 ms.assetid: 6793025e-0b3e-360c-4292-02397395535a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Charts.Item Property (Excel)
 keywords: vbaxl10.chm217076
 f1_keywords:
 - vbaxl10.chm217076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Charts.Item
 ms.assetid: 792e3562-7d70-4356-7072-fa09cb40ec47
+ms.date: 06/08/2017
 ---
 
 

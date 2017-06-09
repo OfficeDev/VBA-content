@@ -3,8 +3,9 @@ title: ElseIf must be preceded by a matching If or ElseIf and followed by an Els
 keywords: vblr6.chm1018971
 f1_keywords:
 - vblr6.chm1018971
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66e1871b-b364-4f79-a3ea-93880d4a2733
+ms.date: 06/08/2017
 ---
 
 

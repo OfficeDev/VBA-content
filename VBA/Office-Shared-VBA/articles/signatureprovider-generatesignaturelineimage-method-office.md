@@ -3,10 +3,11 @@ title: SignatureProvider.GenerateSignatureLineImage Method (Office)
 keywords: vbaof11.chm287001
 f1_keywords:
 - vbaof11.chm287001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureProvider.GenerateSignatureLineImage
 ms.assetid: 36430574-939a-4050-c7b1-ce738be334a2
+ms.date: 06/08/2017
 ---
 
 

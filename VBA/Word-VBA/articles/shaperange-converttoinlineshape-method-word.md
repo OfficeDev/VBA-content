@@ -3,10 +3,11 @@ title: ShapeRange.ConvertToInlineShape Method (Word)
 keywords: vbawd10.chm162856990
 f1_keywords:
 - vbawd10.chm162856990
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.ConvertToInlineShape
 ms.assetid: 01ce99b9-408b-2bd4-fd05-21d17e2ada91
+ms.date: 06/08/2017
 ---
 
 

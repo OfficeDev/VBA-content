@@ -1,9 +1,10 @@
 ---
 title: SmartArtNode.Level Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNode.Level
 ms.assetid: 63143dbc-ecd2-240c-f4c1-2b32cd47872d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.Parent Property (Access)
 keywords: vbaac10.chm12139
 f1_keywords:
 - vbaac10.chm12139
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Parent
 ms.assetid: f774a4d5-e841-40c3-a640-79791dd6fe11
+ms.date: 06/08/2017
 ---
 
 

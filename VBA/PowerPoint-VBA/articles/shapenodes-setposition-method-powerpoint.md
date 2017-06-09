@@ -3,10 +3,11 @@ title: ShapeNodes.SetPosition Method (PowerPoint)
 keywords: vbapp10.chm560008
 f1_keywords:
 - vbapp10.chm560008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.SetPosition
 ms.assetid: 8defcf80-84d8-538a-2dce-d3ffe5e8dfb0
+ms.date: 06/08/2017
 ---
 
 

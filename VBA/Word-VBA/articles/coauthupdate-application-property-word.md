@@ -3,10 +3,11 @@ title: CoAuthUpdate.Application Property (Word)
 keywords: vbawd10.chm247792616
 f1_keywords:
 - vbawd10.chm247792616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthUpdate.Application
 ms.assetid: 3ca721e5-a281-9808-7028-b68ca696c570
+ms.date: 06/08/2017
 ---
 
 

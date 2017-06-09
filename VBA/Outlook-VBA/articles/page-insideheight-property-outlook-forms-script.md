@@ -1,7 +1,8 @@
 ---
 title: Page.InsideHeight Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f6847de9-9ea6-32ca-6292-30744046eb49
+ms.date: 06/08/2017
 ---
 
 

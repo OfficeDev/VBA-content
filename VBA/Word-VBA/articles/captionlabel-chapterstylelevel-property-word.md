@@ -3,10 +3,11 @@ title: CaptionLabel.ChapterStyleLevel Property (Word)
 keywords: vbawd10.chm158924805
 f1_keywords:
 - vbawd10.chm158924805
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabel.ChapterStyleLevel
 ms.assetid: c0824b64-8709-009a-53cd-353238289e88
+ms.date: 06/08/2017
 ---
 
 

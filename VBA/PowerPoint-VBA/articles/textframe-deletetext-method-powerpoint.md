@@ -3,10 +3,11 @@ title: TextFrame.DeleteText Method (PowerPoint)
 keywords: vbapp10.chm558014
 f1_keywords:
 - vbapp10.chm558014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.DeleteText
 ms.assetid: 0971765b-8d2c-a34a-7184-119af42be835
+ms.date: 06/08/2017
 ---
 
 

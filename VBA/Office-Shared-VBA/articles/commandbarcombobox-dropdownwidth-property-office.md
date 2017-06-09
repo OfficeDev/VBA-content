@@ -3,10 +3,11 @@ title: CommandBarComboBox.DropDownWidth Property (Office)
 keywords: vbaof11.chm8004
 f1_keywords:
 - vbaof11.chm8004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.DropDownWidth
 ms.assetid: 051ac285-c7f1-a2b7-0c9a-ed2cb08cadc9
+ms.date: 06/08/2017
 ---
 
 

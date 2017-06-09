@@ -3,10 +3,11 @@ title: Selection.PasteFormat Method (Word)
 keywords: vbawd10.chm158663166
 f1_keywords:
 - vbawd10.chm158663166
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PasteFormat
 ms.assetid: 5c8a69fa-4d07-619c-950a-5ff11fa99003
+ms.date: 06/08/2017
 ---
 
 

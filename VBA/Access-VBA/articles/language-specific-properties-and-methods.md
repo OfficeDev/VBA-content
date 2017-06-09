@@ -3,14 +3,15 @@ title: Language-Specific Properties and Methods
 keywords: vbaac10.chm5280133
 f1_keywords:
 - vbaac10.chm5280133
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7c7cc1dc-7674-fd13-85bb-a24ee4b51775
+ms.date: 06/08/2017
 ---
 
 
 # Language-Specific Properties and Methods
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

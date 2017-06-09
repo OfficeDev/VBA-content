@@ -3,10 +3,11 @@ title: CommandButton.TabStop Property (Access)
 keywords: vbaac10.chm10465
 f1_keywords:
 - vbaac10.chm10465
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.TabStop
 ms.assetid: ec624311-cad4-87b7-e697-053c939a078a
+ms.date: 06/08/2017
 ---
 
 

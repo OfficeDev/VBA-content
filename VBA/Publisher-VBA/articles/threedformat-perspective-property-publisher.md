@@ -3,10 +3,11 @@ title: ThreeDFormat.Perspective Property (Publisher)
 keywords: vbapb10.chm3801347
 f1_keywords:
 - vbapb10.chm3801347
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Perspective
 ms.assetid: 5a85f7fa-2c72-e9b0-75f0-e6d6680ecd99
+ms.date: 06/08/2017
 ---
 
 

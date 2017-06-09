@@ -3,8 +3,9 @@ title: Properties Property, Access [vbaac10.chm10441]
 keywords: vbaac10.chm10441
 f1_keywords:
 - vbaac10.chm10441
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 131b7e5b-9840-4c14-893c-d2df13999aba
+ms.date: 06/08/2017
 ---
 
 

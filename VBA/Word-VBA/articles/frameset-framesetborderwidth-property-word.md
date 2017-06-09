@@ -3,10 +3,11 @@ title: Frameset.FramesetBorderWidth Property (Word)
 keywords: vbawd10.chm165806100
 f1_keywords:
 - vbawd10.chm165806100
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.FramesetBorderWidth
 ms.assetid: 6d828372-78a3-83f1-d162-91b000af2023
+ms.date: 06/08/2017
 ---
 
 

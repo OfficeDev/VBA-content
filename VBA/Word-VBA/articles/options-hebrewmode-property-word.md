@@ -3,10 +3,11 @@ title: Options.HebrewMode Property (Word)
 keywords: vbawd10.chm162988443
 f1_keywords:
 - vbawd10.chm162988443
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.HebrewMode
 ms.assetid: 8a98159e-099d-299c-c955-2190d683d450
+ms.date: 06/08/2017
 ---
 
 

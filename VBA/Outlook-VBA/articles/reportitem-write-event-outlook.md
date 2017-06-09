@@ -1,9 +1,10 @@
 ---
 title: ReportItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Write
 ms.assetid: 1656ff7c-85c9-f193-3312-279d35622008
+ms.date: 06/08/2017
 ---
 
 

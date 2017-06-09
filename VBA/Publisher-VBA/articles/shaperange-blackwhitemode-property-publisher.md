@@ -3,10 +3,11 @@ title: ShapeRange.BlackWhiteMode Property (Publisher)
 keywords: vbapb10.chm2293872
 f1_keywords:
 - vbapb10.chm2293872
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.BlackWhiteMode
 ms.assetid: c85babbd-f05d-c3e1-3265-c08888eaf212
+ms.date: 06/08/2017
 ---
 
 

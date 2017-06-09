@@ -3,10 +3,11 @@ title: WorksheetFunction.DSum Method (Excel)
 keywords: vbaxl10.chm137095
 f1_keywords:
 - vbaxl10.chm137095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DSum
 ms.assetid: b10de80b-343f-9526-e386-c8f03fea755b
+ms.date: 06/08/2017
 ---
 
 

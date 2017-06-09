@@ -1,9 +1,10 @@
 ---
 title: Selection.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Selection.Parent
 ms.assetid: a0f83fdd-ecdb-171b-d1b4-982292859c98
+ms.date: 06/08/2017
 ---
 
 

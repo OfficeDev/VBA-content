@@ -3,10 +3,11 @@ title: SharingItem.PermissionService Property (Outlook)
 keywords: vbaol11.chm690
 f1_keywords:
 - vbaol11.chm690
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PermissionService
 ms.assetid: ef50051d-420f-21db-af30-02a7d01896b6
+ms.date: 06/08/2017
 ---
 
 

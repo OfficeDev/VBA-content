@@ -3,10 +3,11 @@ title: FormNameRuleCondition Object (Outlook)
 keywords: vbaol11.chm3180
 f1_keywords:
 - vbaol11.chm3180
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormNameRuleCondition
 ms.assetid: 75b7f687-66e6-4863-b8aa-f19e98fedc45
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Rem Statement
 keywords: vblr6.chm1009000
 f1_keywords:
 - vblr6.chm1009000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f3a8cec4-dc96-1dee-f428-32b13647aa85
+ms.date: 06/08/2017
 ---
 
 

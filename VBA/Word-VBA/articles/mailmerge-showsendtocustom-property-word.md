@@ -3,10 +3,11 @@ title: MailMerge.ShowSendToCustom Property (Word)
 keywords: vbawd10.chm153092109
 f1_keywords:
 - vbawd10.chm153092109
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.ShowSendToCustom
 ms.assetid: 261d5edc-8320-7f73-0b78-899898834c35
+ms.date: 06/08/2017
 ---
 
 

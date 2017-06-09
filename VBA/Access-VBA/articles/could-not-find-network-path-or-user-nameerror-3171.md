@@ -3,14 +3,15 @@ title: Could not find network path or user name. (Error 3171)
 keywords: jeterr40.chm5003171
 f1_keywords:
 - jeterr40.chm5003171
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 10a35148-e922-db2c-97b2-3794cce4a5dd
+ms.date: 06/08/2017
 ---
 
 
 # Could not find network path or user name. (Error 3171)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

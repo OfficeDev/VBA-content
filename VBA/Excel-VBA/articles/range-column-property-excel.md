@@ -3,10 +3,11 @@ title: Range.Column Property (Excel)
 keywords: vbaxl10.chm144099
 f1_keywords:
 - vbaxl10.chm144099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Column
 ms.assetid: 4f540fae-fc9f-30de-5d71-f6496b78930b
+ms.date: 06/08/2017
 ---
 
 

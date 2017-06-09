@@ -1,9 +1,10 @@
 ---
 title: Shift.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Shift.Parent
 ms.assetid: bb657345-0310-d616-1fd8-e08155cb8ddf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.GridOriginHorizontal Property (Word)
 keywords: vbawd10.chm162988115
 f1_keywords:
 - vbawd10.chm162988115
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.GridOriginHorizontal
 ms.assetid: b364fde9-c889-e139-49eb-91fdff42ac96
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UpBars.Fill Property (PowerPoint)
 keywords: vbapp10.chm67199
 f1_keywords:
 - vbapp10.chm67199
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Fill
 ms.assetid: 56609f59-253a-c1ba-c133-6a4be91dd837
+ms.date: 06/08/2017
 ---
 
 

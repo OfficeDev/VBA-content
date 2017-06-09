@@ -3,10 +3,11 @@ title: PbCommandButtonType Enumeration (Publisher)
 keywords: vbapb10.chm65593
 f1_keywords:
 - vbapb10.chm65593
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbCommandButtonType
 ms.assetid: 3255741c-8afd-7c81-7d47-f66ada991ca3
+ms.date: 06/08/2017
 ---
 
 

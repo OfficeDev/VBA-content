@@ -3,10 +3,11 @@ title: Selection.Offset Method (Visio)
 keywords: vis_sdr.chm11151345
 f1_keywords:
 - vis_sdr.chm11151345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Offset
 ms.assetid: 69eb7288-0540-18aa-9c71-96735018442e
+ms.date: 06/08/2017
 ---
 
 

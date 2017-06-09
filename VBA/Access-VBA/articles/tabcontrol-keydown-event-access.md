@@ -3,10 +3,11 @@ title: TabControl.KeyDown Event (Access)
 keywords: vbaac10.chm14275
 f1_keywords:
 - vbaac10.chm14275
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.KeyDown
 ms.assetid: 002a65df-7ccd-82e9-c09b-dc4c283488a9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: IRtdServer.ServerTerminate Method (Excel)
 keywords: vbaxl10.chm500010
 f1_keywords:
 - vbaxl10.chm500010
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IRtdServer.ServerTerminate
 ms.assetid: 56b619f9-98c1-e15b-b327-941632afa574
+ms.date: 06/08/2017
 ---
 
 

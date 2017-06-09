@@ -3,10 +3,11 @@ title: Dialogs.Parent Property (Word)
 keywords: vbawd10.chm152044522
 f1_keywords:
 - vbawd10.chm152044522
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dialogs.Parent
 ms.assetid: 592dbdde-2d1a-fd83-6c66-e0c662a8a617
+ms.date: 06/08/2017
 ---
 
 

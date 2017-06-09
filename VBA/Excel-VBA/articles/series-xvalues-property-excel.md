@@ -3,10 +3,11 @@ title: Series.XValues Property (Excel)
 keywords: vbaxl10.chm578112
 f1_keywords:
 - vbaxl10.chm578112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.XValues
 ms.assetid: 63715a3c-9d2d-6213-ac99-2c583773b45a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WebNavigationBarHyperlinks.Item Method (Publisher)
 keywords: vbapb10.chm8585216
 f1_keywords:
 - vbapb10.chm8585216
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks.Item
 ms.assetid: f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661
+ms.date: 06/08/2017
 ---
 
 

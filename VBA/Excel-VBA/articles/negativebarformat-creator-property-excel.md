@@ -3,10 +3,11 @@ title: NegativeBarFormat.Creator Property (Excel)
 keywords: vbaxl10.chm886074
 f1_keywords:
 - vbaxl10.chm886074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat.Creator
 ms.assetid: 64658149-191d-18b6-ca51-2fc23f7ab09f
+ms.date: 06/08/2017
 ---
 
 

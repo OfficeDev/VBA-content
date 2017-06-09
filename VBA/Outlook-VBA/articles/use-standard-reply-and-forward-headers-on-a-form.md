@@ -1,7 +1,8 @@
 ---
 title: Use Standard Reply and Forward Headers on a Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bec50290-e0ab-873b-501c-86c01ed4aedd
+ms.date: 06/08/2017
 ---
 
 

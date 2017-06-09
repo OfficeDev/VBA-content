@@ -3,10 +3,11 @@ title: FormField.StatusText Property (Word)
 keywords: vbawd10.chm153616392
 f1_keywords:
 - vbawd10.chm153616392
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.StatusText
 ms.assetid: e374b94a-6faa-a2ea-9085-d9b987376fa8
+ms.date: 06/08/2017
 ---
 
 

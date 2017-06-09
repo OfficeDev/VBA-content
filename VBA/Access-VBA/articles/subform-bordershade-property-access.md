@@ -3,10 +3,11 @@ title: SubForm.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.BorderShade
 ms.assetid: 66de642f-bdf7-58db-1ae5-ba859f6cdc02
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.ThreeD Property (Word)
 keywords: vbawd10.chm161480826
 f1_keywords:
 - vbawd10.chm161480826
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.ThreeD
 ms.assetid: 35657b12-0967-5a54-6f12-b87119f51005
+ms.date: 06/08/2017
 ---
 
 

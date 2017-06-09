@@ -3,8 +3,9 @@ title: HelpFile Property, Office Shared [vbaof11.chm5011]
 keywords: vbaof11.chm5011
 f1_keywords:
 - vbaof11.chm5011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0bafa462-5f5a-4c5e-bed3-455deb93e9f9
+ms.date: 06/08/2017
 ---
 
 

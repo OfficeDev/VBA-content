@@ -3,10 +3,11 @@ title: Breaks Object (Word)
 keywords: vbawd10.chm777
 f1_keywords:
 - vbawd10.chm777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Breaks
 ms.assetid: c6a9213d-c4bc-a9a6-3889-a32446f1fc25
+ms.date: 06/08/2017
 ---
 
 

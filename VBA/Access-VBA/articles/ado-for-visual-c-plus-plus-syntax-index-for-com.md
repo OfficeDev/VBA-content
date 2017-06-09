@@ -1,13 +1,12 @@
 ---
 title: ADO for Visual C++ Syntax Index for COM
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e016746e-07a8-10a1-b8e4-7dbb7f6cdaf2
+ms.date: 06/08/2017
 ---
 
 
 # ADO for Visual C++ Syntax Index for COM
-
- **Last modified:** December 30, 2015
 
 **Applies to:** Access 2013 | Access 2016
 

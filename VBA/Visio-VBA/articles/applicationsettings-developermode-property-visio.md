@@ -3,10 +3,11 @@ title: ApplicationSettings.DeveloperMode Property (Visio)
 keywords: vis_sdr.chm16251820
 f1_keywords:
 - vis_sdr.chm16251820
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DeveloperMode
 ms.assetid: db078edb-e8cb-6362-14e1-096186a197f5
+ms.date: 06/08/2017
 ---
 
 

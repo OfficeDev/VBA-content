@@ -3,8 +3,9 @@ title: Baseline9Work Property, Project [vbapj.chm131568]
 keywords: vbapj.chm131568
 f1_keywords:
 - vbapj.chm131568
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 80326ee1-e22f-4f0b-9780-572711d596a4
+ms.date: 06/08/2017
 ---
 
 

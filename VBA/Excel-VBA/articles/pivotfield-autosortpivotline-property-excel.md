@@ -3,10 +3,11 @@ title: PivotField.AutoSortPivotLine Property (Excel)
 keywords: vbaxl10.chm240148
 f1_keywords:
 - vbaxl10.chm240148
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AutoSortPivotLine
 ms.assetid: 13b335a6-276d-aa8e-b197-e11990a232b2
+ms.date: 06/08/2017
 ---
 
 

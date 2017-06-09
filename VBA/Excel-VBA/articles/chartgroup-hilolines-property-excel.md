@@ -3,10 +3,11 @@ title: ChartGroup.HiLoLines Property (Excel)
 keywords: vbaxl10.chm568084
 f1_keywords:
 - vbaxl10.chm568084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.HiLoLines
 ms.assetid: 3d226065-9482-b393-a216-39d7c26961f0
+ms.date: 06/08/2017
 ---
 
 

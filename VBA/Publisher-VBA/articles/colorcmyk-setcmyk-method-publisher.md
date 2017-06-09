@@ -3,10 +3,11 @@ title: ColorCMYK.SetCMYK Method (Publisher)
 keywords: vbapb10.chm2621447
 f1_keywords:
 - vbapb10.chm2621447
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.SetCMYK
 ms.assetid: 9c7ec18b-73e9-66bc-57f4-cd6d62817630
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Explorer.BeforeSize Event (Outlook)
 keywords: vbaol11.chm460
 f1_keywords:
 - vbaol11.chm460
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeSize
 ms.assetid: 2df91a98-89e2-82af-acfc-49f8e9f40952
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: XlChartLocation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlChartLocation
 ms.assetid: 6e17ad11-5175-7c39-8e97-e7a05add72f6
+ms.date: 06/08/2017
 ---
 
 

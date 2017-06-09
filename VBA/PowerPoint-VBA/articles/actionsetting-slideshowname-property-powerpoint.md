@@ -3,10 +3,11 @@ title: ActionSetting.SlideShowName Property (PowerPoint)
 keywords: vbapp10.chm567007
 f1_keywords:
 - vbapp10.chm567007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.SlideShowName
 ms.assetid: 680e998d-feba-3010-d0d4-b916a9bdf722
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalloutFormat.AutomaticLength Method (Excel)
 keywords: vbaxl10.chm104002
 f1_keywords:
 - vbaxl10.chm104002
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.AutomaticLength
 ms.assetid: e82093e0-7b84-c2c8-8365-6fe05298d55b
+ms.date: 06/08/2017
 ---
 
 

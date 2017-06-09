@@ -3,10 +3,11 @@ title: AxisTitle.HorizontalAlignment Property (Word)
 keywords: vbawd10.chm98238468
 f1_keywords:
 - vbawd10.chm98238468
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.HorizontalAlignment
 ms.assetid: 45824b57-e742-3a2d-bbbb-6d2307940273
+ms.date: 06/08/2017
 ---
 
 

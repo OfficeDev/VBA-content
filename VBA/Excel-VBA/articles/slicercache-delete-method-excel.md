@@ -3,10 +3,11 @@ title: SlicerCache.Delete Method (Excel)
 keywords: vbaxl10.chm897090
 f1_keywords:
 - vbaxl10.chm897090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.Delete
 ms.assetid: 34bc2dce-5286-deb2-995d-c64f146a2cd7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Paragraph.Borders Property (Word)
 keywords: vbawd10.chm156697676
 f1_keywords:
 - vbawd10.chm156697676
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Borders
 ms.assetid: 94292676-82cc-3975-d2e7-671d8d80c889
+ms.date: 06/08/2017
 ---
 
 

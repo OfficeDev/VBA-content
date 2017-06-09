@@ -3,10 +3,11 @@ title: Workbook.DisplayInkComments Property (Excel)
 keywords: vbaxl10.chm199230
 f1_keywords:
 - vbaxl10.chm199230
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.DisplayInkComments
 ms.assetid: bce6b184-7640-f51c-1feb-1973de6ff739
+ms.date: 06/08/2017
 ---
 
 

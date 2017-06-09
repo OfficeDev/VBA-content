@@ -3,10 +3,11 @@ title: ShapeRange.Ungroup Method (Word)
 keywords: vbawd10.chm162856987
 f1_keywords:
 - vbawd10.chm162856987
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Ungroup
 ms.assetid: 2a6b4eb1-724b-7ff8-5392-57dfdfaa815d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ObjectFrame.LostFocus Event (Access)
 keywords: vbaac10.chm14108
 f1_keywords:
 - vbaac10.chm14108
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.LostFocus
 ms.assetid: d503815f-1511-82d6-b940-ceba6267f571
+ms.date: 06/08/2017
 ---
 
 

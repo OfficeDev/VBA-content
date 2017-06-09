@@ -3,10 +3,11 @@ title: Windows.ItemFromID Property (Visio)
 keywords: vis_sdr.chm11713775
 f1_keywords:
 - vis_sdr.chm11713775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.ItemFromID
 ms.assetid: 19049ae8-b070-3da7-ce6a-446e547b4d5d
+ms.date: 06/08/2017
 ---
 
 

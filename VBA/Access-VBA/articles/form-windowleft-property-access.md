@@ -3,10 +3,11 @@ title: Form.WindowLeft Property (Access)
 keywords: vbaac10.chm13517
 f1_keywords:
 - vbaac10.chm13517
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.WindowLeft
 ms.assetid: f9e90b5e-6008-675d-9168-6dd932559b6d
+ms.date: 06/08/2017
 ---
 
 

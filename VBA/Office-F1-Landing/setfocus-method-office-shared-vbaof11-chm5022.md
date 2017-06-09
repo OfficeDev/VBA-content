@@ -3,8 +3,9 @@ title: SetFocus Method, Office Shared [vbaof11.chm5022]
 keywords: vbaof11.chm5022
 f1_keywords:
 - vbaof11.chm5022
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2ee0035-5a3f-42ae-b641-371f73b17b2d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ActiveEncryptionSession Property (Word)
 keywords: vbawd10.chm158335455
 f1_keywords:
 - vbawd10.chm158335455
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ActiveEncryptionSession
 ms.assetid: a9ea5257-4cda-e25d-8af5-e29c10b7faa2
+ms.date: 06/08/2017
 ---
 
 

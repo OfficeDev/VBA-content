@@ -3,10 +3,11 @@ title: Application.FilePrintSetup Method (Project)
 keywords: vbapj.chm113
 f1_keywords:
 - vbapj.chm113
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilePrintSetup
 ms.assetid: 87c49847-3b00-28d7-f45b-3205947a6627
+ms.date: 06/08/2017
 ---
 
 

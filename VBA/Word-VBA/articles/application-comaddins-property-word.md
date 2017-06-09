@@ -3,10 +3,11 @@ title: Application.COMAddIns Property (Word)
 keywords: vbawd10.chm158335087
 f1_keywords:
 - vbawd10.chm158335087
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.COMAddIns
 ms.assetid: 2e13bcfd-f2e1-61a5-164a-24cf121011a4
+ms.date: 06/08/2017
 ---
 
 

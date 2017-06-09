@@ -3,8 +3,9 @@ title: FillBkgnd Cell (Fill Format Section), Visio [vis_sdr.chm365]
 keywords: vis_sdr.chm365
 f1_keywords:
 - vis_sdr.chm365
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bfe7ffd-d6d4-470b-ae00-fd008b19dae8
+ms.date: 06/08/2017
 ---
 
 

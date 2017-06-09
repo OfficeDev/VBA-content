@@ -1,9 +1,10 @@
 ---
 title: PpUpdateOption Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpUpdateOption
 ms.assetid: 0ede58db-7c6a-fbda-538a-e3762fe26248
+ms.date: 06/08/2017
 ---
 
 

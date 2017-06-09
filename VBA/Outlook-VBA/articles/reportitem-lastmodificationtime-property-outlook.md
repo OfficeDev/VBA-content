@@ -3,10 +3,11 @@ title: ReportItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1651
 f1_keywords:
 - vbaol11.chm1651
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.LastModificationTime
 ms.assetid: 85f457b7-b344-30cd-de7c-b1dfd1a7ee6d
+ms.date: 06/08/2017
 ---
 
 

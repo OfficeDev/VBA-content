@@ -1,7 +1,8 @@
 ---
 title: ODSOColumn Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2f780b91-4f87-6db0-cab6-cc3689487eb4
+ms.date: 06/08/2017
 ---
 
 

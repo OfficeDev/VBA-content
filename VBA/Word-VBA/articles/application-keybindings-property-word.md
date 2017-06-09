@@ -3,10 +3,11 @@ title: Application.KeyBindings Property (Word)
 keywords: vbawd10.chm158335045
 f1_keywords:
 - vbawd10.chm158335045
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.KeyBindings
 ms.assetid: 68e08a9a-6547-f722-078e-b603b9f3e9cb
+ms.date: 06/08/2017
 ---
 
 

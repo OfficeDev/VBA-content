@@ -3,10 +3,11 @@ title: MailItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1373
 f1_keywords:
 - vbaol11.chm1373
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.DownloadState
 ms.assetid: 7d61b284-e3ef-d52c-415c-215206bc5136
+ms.date: 06/08/2017
 ---
 
 

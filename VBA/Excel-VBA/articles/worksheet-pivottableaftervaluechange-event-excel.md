@@ -3,10 +3,11 @@ title: Worksheet.PivotTableAfterValueChange Event (Excel)
 keywords: vbaxl10.chm502082
 f1_keywords:
 - vbaxl10.chm502082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTableAfterValueChange
 ms.assetid: 097e1c1e-4df6-a0d1-de67-0e0752d2286a
+ms.date: 06/08/2017
 ---
 
 

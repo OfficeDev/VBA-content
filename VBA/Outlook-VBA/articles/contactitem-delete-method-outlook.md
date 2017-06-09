@@ -3,10 +3,11 @@ title: ContactItem.Delete Method (Outlook)
 keywords: vbaol11.chm958
 f1_keywords:
 - vbaol11.chm958
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Delete
 ms.assetid: 229d4c37-4659-01ae-0623-3e1095b13048
+ms.date: 06/08/2017
 ---
 
 

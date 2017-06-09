@@ -3,10 +3,11 @@ title: Application.BaseCalendarEditDays Method (Project)
 keywords: vbapj.chm615
 f1_keywords:
 - vbapj.chm615
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BaseCalendarEditDays
 ms.assetid: 3a65015e-c174-985a-5235-099db363c003
+ms.date: 06/08/2017
 ---
 
 

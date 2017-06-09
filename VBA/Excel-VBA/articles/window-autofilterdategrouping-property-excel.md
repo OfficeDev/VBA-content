@@ -3,10 +3,11 @@ title: Window.AutoFilterDateGrouping Property (Excel)
 keywords: vbaxl10.chm356137
 f1_keywords:
 - vbaxl10.chm356137
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.AutoFilterDateGrouping
 ms.assetid: 0f0d875d-3ae3-2aaa-9d38-78e65373573e
+ms.date: 06/08/2017
 ---
 
 

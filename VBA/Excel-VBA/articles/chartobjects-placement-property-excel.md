@@ -3,10 +3,11 @@ title: ChartObjects.Placement Property (Excel)
 keywords: vbaxl10.chm497086
 f1_keywords:
 - vbaxl10.chm497086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Placement
 ms.assetid: 954e98e5-8b88-6918-3cbd-f8e982c0a47e
+ms.date: 06/08/2017
 ---
 
 

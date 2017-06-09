@@ -3,10 +3,11 @@ title: Masters.Item Property (Visio)
 keywords: vis_sdr.chm10813765
 f1_keywords:
 - vis_sdr.chm10813765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.Item
 ms.assetid: 20837fbb-56d0-b23c-f7de-8fd3d7a99b15
+ms.date: 06/08/2017
 ---
 
 

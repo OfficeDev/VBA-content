@@ -3,10 +3,11 @@ title: DisplayAlerts Property
 keywords: vbagr10.chm65879
 f1_keywords:
 - vbagr10.chm65879
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayAlerts
 ms.assetid: 630e60be-23e3-795b-1ed9-26b791fb7efc
+ms.date: 06/08/2017
 ---
 
 

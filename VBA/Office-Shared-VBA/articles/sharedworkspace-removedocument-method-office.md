@@ -3,10 +3,11 @@ title: SharedWorkspace.RemoveDocument Method (Office)
 keywords: vbaof11.chm276015
 f1_keywords:
 - vbaof11.chm276015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.RemoveDocument
 ms.assetid: 4bfb27d7-6fdd-9350-70d2-9c60d75020eb
+ms.date: 06/08/2017
 ---
 
 

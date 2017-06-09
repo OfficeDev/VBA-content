@@ -3,10 +3,11 @@ title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Excel)
 keywords: vbaxl10.chm660079
 f1_keywords:
 - vbaxl10.chm660079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.CheckIfOfficeIsHTMLEditor
 ms.assetid: 29b77ad1-11ea-f930-a4ab-6bb957287eea
+ms.date: 06/08/2017
 ---
 
 

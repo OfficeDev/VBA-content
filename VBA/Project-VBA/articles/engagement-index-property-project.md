@@ -1,6 +1,8 @@
 ---
 title: Engagement.Index Property (Project)
 ms.assetid: 5d55800f-ea9f-de13-e81e-d6450e0297cb
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

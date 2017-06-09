@@ -3,10 +3,11 @@ title: Items.Restrict Method (Outlook)
 keywords: vbaol11.chm70
 f1_keywords:
 - vbaol11.chm70
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.Restrict
 ms.assetid: e3b0cda1-e43d-cc5e-2942-0f54935d9dab
+ms.date: 06/08/2017
 ---
 
 

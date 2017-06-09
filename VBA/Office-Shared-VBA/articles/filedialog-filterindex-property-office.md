@@ -3,10 +3,11 @@ title: FileDialog.FilterIndex Property (Office)
 keywords: vbaof11.chm256003
 f1_keywords:
 - vbaof11.chm256003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.FilterIndex
 ms.assetid: 102d3266-caab-1101-2234-68d975e11348
+ms.date: 06/08/2017
 ---
 
 

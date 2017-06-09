@@ -3,10 +3,11 @@ title: EffectParameters.Application Property (PowerPoint)
 keywords: vbapp10.chm654001
 f1_keywords:
 - vbapp10.chm654001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Application
 ms.assetid: 807efbe4-f5fe-61c6-f0d3-739736049ecc
+ms.date: 06/08/2017
 ---
 
 

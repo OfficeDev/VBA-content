@@ -3,10 +3,11 @@ title: Pages.BeforePageDelete Event (Visio)
 keywords: vis_sdr.chm11019050
 f1_keywords:
 - vis_sdr.chm11019050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.BeforePageDelete
 ms.assetid: 52fbea6b-0258-8610-74e2-74ade9f8ae49
+ms.date: 06/08/2017
 ---
 
 

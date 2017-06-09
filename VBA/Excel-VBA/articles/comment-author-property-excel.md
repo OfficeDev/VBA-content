@@ -3,10 +3,11 @@ title: Comment.Author Property (Excel)
 keywords: vbaxl10.chm516073
 f1_keywords:
 - vbaxl10.chm516073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment.Author
 ms.assetid: ac964a80-1646-41a0-8b3a-941c800395e7
+ms.date: 06/08/2017
 ---
 
 

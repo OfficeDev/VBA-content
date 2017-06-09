@@ -3,10 +3,11 @@ title: Report.OnDeactivate Property (Access)
 keywords: vbaac10.chm13766
 f1_keywords:
 - vbaac10.chm13766
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnDeactivate
 ms.assetid: 2b15bb7c-a307-6e2b-c933-b7a069ff99d0
+ms.date: 06/08/2017
 ---
 
 

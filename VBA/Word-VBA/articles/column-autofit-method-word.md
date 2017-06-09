@@ -3,10 +3,11 @@ title: Column.AutoFit Method (Word)
 keywords: vbawd10.chm156172490
 f1_keywords:
 - vbawd10.chm156172490
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.AutoFit
 ms.assetid: ced620ce-628b-7eb6-bd4f-5ca8ddf0f072
+ms.date: 06/08/2017
 ---
 
 

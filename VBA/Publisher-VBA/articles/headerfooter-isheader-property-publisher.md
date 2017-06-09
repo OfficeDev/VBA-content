@@ -3,10 +3,11 @@ title: HeaderFooter.IsHeader Property (Publisher)
 keywords: vbapb10.chm7471109
 f1_keywords:
 - vbapb10.chm7471109
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter.IsHeader
 ms.assetid: b652fcc8-2c89-6d4f-c366-4c78681bea59
+ms.date: 06/08/2017
 ---
 
 

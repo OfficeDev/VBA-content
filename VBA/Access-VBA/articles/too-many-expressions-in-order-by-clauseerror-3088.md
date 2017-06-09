@@ -3,14 +3,15 @@ title: Too many expressions in ORDER BY clause. (Error 3088)
 keywords: jeterr40.chm5003088
 f1_keywords:
 - jeterr40.chm5003088
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4a95cf93-c9ac-ecc2-f6d0-69525e2a9609
+ms.date: 06/08/2017
 ---
 
 
 # Too many expressions in ORDER BY clause. (Error 3088)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

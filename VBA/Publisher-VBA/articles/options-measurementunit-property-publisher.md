@@ -3,10 +3,11 @@ title: Options.MeasurementUnit Property (Publisher)
 keywords: vbapb10.chm1048594
 f1_keywords:
 - vbapb10.chm1048594
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.MeasurementUnit
 ms.assetid: 49221e4e-c84a-6706-8f9a-3853283ebb18
+ms.date: 06/08/2017
 ---
 
 

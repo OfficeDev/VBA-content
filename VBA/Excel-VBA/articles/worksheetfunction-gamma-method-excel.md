@@ -3,8 +3,9 @@ title: WorksheetFunction.Gamma Method (Excel)
 keywords: vbaxl10.chm137448
 f1_keywords:
 - vbaxl10.chm137448
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 8b66ad0f-36a2-a01e-a0fa-926a6b5a4454
+ms.date: 06/08/2017
 ---
 
 

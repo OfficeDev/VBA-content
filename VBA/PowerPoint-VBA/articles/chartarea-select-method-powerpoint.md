@@ -1,9 +1,10 @@
 ---
 title: ChartArea.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Select
 ms.assetid: 6bb2d068-3a9e-f8d9-41e5-882a2b72b218
+ms.date: 06/08/2017
 ---
 
 

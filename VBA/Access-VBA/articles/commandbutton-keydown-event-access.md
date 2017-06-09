@@ -3,10 +3,11 @@ title: CommandButton.KeyDown Event (Access)
 keywords: vbaac10.chm14086
 f1_keywords:
 - vbaac10.chm14086
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.KeyDown
 ms.assetid: d2bc24b6-62c8-dd3f-82af-600f045e2df1
+ms.date: 06/08/2017
 ---
 
 

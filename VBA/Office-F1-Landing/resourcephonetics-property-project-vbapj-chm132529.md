@@ -3,8 +3,9 @@ title: ResourcePhonetics Property, Project [vbapj.chm132529]
 keywords: vbapj.chm132529
 f1_keywords:
 - vbapj.chm132529
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7372cffe-3381-44d4-bbcb-27ee02a6ab8e
+ms.date: 06/08/2017
 ---
 
 

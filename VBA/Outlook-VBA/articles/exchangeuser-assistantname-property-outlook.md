@@ -3,10 +3,11 @@ title: ExchangeUser.AssistantName Property (Outlook)
 keywords: vbaol11.chm2086
 f1_keywords:
 - vbaol11.chm2086
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.AssistantName
 ms.assetid: cca35d99-7031-ba46-4171-8c89b9ea2e2b
+ms.date: 06/08/2017
 ---
 
 

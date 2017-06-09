@@ -3,10 +3,11 @@ title: Paragraph.Indent Method (Word)
 keywords: vbawd10.chm156696909
 f1_keywords:
 - vbawd10.chm156696909
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Indent
 ms.assetid: 5fc23149-8011-d465-0a73-f1f6e88d5a1e
+ms.date: 06/08/2017
 ---
 
 

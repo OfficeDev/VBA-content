@@ -3,8 +3,9 @@ title: Visible Property, Office Shared [vbaof11.chm5027]
 keywords: vbaof11.chm5027
 f1_keywords:
 - vbaof11.chm5027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61ca7a36-cf02-469b-abca-813dd0ee31d6
+ms.date: 06/08/2017
 ---
 
 

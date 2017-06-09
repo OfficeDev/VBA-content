@@ -3,8 +3,9 @@ title: ControlTipText Property, Access [vbaac10.chm10480]
 keywords: vbaac10.chm10480
 f1_keywords:
 - vbaac10.chm10480
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a8224f2d-fde2-41c9-ac5d-6033b12524ed
+ms.date: 06/08/2017
 ---
 
 

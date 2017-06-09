@@ -3,10 +3,11 @@ title: Label.Section Property (Access)
 keywords: vbaac10.chm10220
 f1_keywords:
 - vbaac10.chm10220
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Section
 ms.assetid: 0f026b4c-fabb-ae2c-ab1a-66315121de4d
+ms.date: 06/08/2017
 ---
 
 

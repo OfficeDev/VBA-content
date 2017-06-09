@@ -3,10 +3,11 @@ title: NameSpace.Folders Property (Outlook)
 keywords: vbaol11.chm757
 f1_keywords:
 - vbaol11.chm757
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Folders
 ms.assetid: a732d338-c825-4d38-0107-345069da708c
+ms.date: 06/08/2017
 ---
 
 

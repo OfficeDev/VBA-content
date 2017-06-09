@@ -1,7 +1,8 @@
 ---
 title: GroupShapes Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: de29d571-476b-fa8b-619e-f7d0181d9756
+ms.date: 06/08/2017
 ---
 
 

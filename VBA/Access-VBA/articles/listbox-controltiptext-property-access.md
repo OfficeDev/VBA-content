@@ -3,10 +3,11 @@ title: ListBox.ControlTipText Property (Access)
 keywords: vbaac10.chm11261
 f1_keywords:
 - vbaac10.chm11261
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ControlTipText
 ms.assetid: 27abccf5-e3f2-2c0c-06ee-4160eb447374
+ms.date: 06/08/2017
 ---
 
 

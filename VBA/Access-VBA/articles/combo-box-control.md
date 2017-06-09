@@ -3,14 +3,15 @@ title: Combo Box Control
 keywords: vbaac10.chm5186603
 f1_keywords:
 - vbaac10.chm5186603
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 46e98636-768a-3bae-5e05-577253e6f804
+ms.date: 06/08/2017
 ---
 
 
 # Combo Box Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

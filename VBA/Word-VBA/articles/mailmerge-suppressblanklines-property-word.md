@@ -3,10 +3,11 @@ title: MailMerge.SuppressBlankLines Property (Word)
 keywords: vbawd10.chm153092103
 f1_keywords:
 - vbawd10.chm153092103
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.SuppressBlankLines
 ms.assetid: 27faf7f7-5d7b-2377-0775-80ce6d13eb64
+ms.date: 06/08/2017
 ---
 
 

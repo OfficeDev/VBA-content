@@ -3,10 +3,11 @@ title: Chart.RightAngleAxes Property (Word)
 keywords: vbawd10.chm79364110
 f1_keywords:
 - vbawd10.chm79364110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.RightAngleAxes
 ms.assetid: d7f01a8f-aa76-3e92-2db2-370176066145
+ms.date: 06/08/2017
 ---
 
 

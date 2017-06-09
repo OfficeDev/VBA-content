@@ -3,10 +3,11 @@ title: Application.GetAddress Method (Word)
 keywords: vbawd10.chm158335298
 f1_keywords:
 - vbawd10.chm158335298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.GetAddress
 ms.assetid: b0081a05-be87-d0e4-31a6-b0aab02a3371
+ms.date: 06/08/2017
 ---
 
 

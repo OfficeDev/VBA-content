@@ -3,10 +3,11 @@ title: Recipient.Resolve Method (Outlook)
 keywords: vbaol11.chm2358
 f1_keywords:
 - vbaol11.chm2358
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Resolve
 ms.assetid: 2c4f9243-2e31-642e-78a7-fe74cd73b385
+ms.date: 06/08/2017
 ---
 
 

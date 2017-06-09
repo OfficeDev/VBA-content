@@ -3,8 +3,9 @@ title: InvertIfNegative Property, PowerPoint [vbapp10.chm65668]
 keywords: vbapp10.chm65668
 f1_keywords:
 - vbapp10.chm65668
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e71438bc-c7f0-46a4-ab46-727c4d014448
+ms.date: 06/08/2017
 ---
 
 

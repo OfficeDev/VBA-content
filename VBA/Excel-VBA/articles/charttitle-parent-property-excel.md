@@ -3,10 +3,11 @@ title: ChartTitle.Parent Property (Excel)
 keywords: vbaxl10.chm563073
 f1_keywords:
 - vbaxl10.chm563073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Parent
 ms.assetid: ec6aeb2a-402f-f41c-f8c6-8c2c44216c00
+ms.date: 06/08/2017
 ---
 
 

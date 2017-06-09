@@ -3,10 +3,11 @@ title: SlicerPivotTables.RemovePivotTable Method (Excel)
 keywords: vbaxl10.chm911078
 f1_keywords:
 - vbaxl10.chm911078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.RemovePivotTable
 ms.assetid: ebc4cc53-c406-3ae4-06e7-094a1ba32af2
+ms.date: 06/08/2017
 ---
 
 

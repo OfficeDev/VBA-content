@@ -3,10 +3,11 @@ title: Axis.TickMarkSpacing Property (PowerPoint)
 keywords: vbapp10.chm682031
 f1_keywords:
 - vbapp10.chm682031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.TickMarkSpacing
 ms.assetid: 85c37d23-b91a-b390-4475-a4afa21d1566
+ms.date: 06/08/2017
 ---
 
 

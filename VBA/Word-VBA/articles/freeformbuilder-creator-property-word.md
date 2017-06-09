@@ -3,10 +3,11 @@ title: FreeformBuilder.Creator Property (Word)
 keywords: vbawd10.chm164168681
 f1_keywords:
 - vbawd10.chm164168681
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FreeformBuilder.Creator
 ms.assetid: f0e2b402-4de4-b864-ea35-8fc3c6e97a1e
+ms.date: 06/08/2017
 ---
 
 

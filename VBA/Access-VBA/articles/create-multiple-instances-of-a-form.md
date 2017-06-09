@@ -1,7 +1,8 @@
 ---
 title: Create Multiple Instances of a Form
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1e59bcce-f65f-8632-d96c-9e93af419d05
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Table.Columns Property (PowerPoint)
 keywords: vbapp10.chm622003
 f1_keywords:
 - vbapp10.chm622003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.Columns
 ms.assetid: 0645fa19-d5a2-1f4c-ae15-9623925d39bc
+ms.date: 06/08/2017
 ---
 
 

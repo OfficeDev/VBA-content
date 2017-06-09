@@ -3,14 +3,15 @@ title: Setting an exchange with the same Synchronizer is not allowed. (Error 350
 keywords: jeterr40.chm5003500
 f1_keywords:
 - jeterr40.chm5003500
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8118c95e-4b64-f685-806f-929b0c8c823d
+ms.date: 06/08/2017
 ---
 
 
 # Setting an exchange with the same Synchronizer is not allowed. (Error 3500)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

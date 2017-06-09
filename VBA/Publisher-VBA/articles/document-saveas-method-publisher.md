@@ -3,10 +3,11 @@ title: Document.SaveAs Method (Publisher)
 keywords: vbapb10.chm196696
 f1_keywords:
 - vbapb10.chm196696
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.SaveAs
 ms.assetid: ba8b85d7-8ca9-dcf5-12b4-4cabced743e6
+ms.date: 06/08/2017
 ---
 
 

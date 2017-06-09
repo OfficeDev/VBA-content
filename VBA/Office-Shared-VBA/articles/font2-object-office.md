@@ -1,9 +1,10 @@
 ---
 title: Font2 Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2
 ms.assetid: 8e892c52-56d9-72bd-2893-b15a17cd59ae
+ms.date: 06/08/2017
 ---
 
 

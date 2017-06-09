@@ -3,10 +3,11 @@ title: Timing.RewindAtEnd Property (PowerPoint)
 keywords: vbapp10.chm653015
 f1_keywords:
 - vbapp10.chm653015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.RewindAtEnd
 ms.assetid: 2055f5aa-10d4-45a7-f25d-afaa924f0937
+ms.date: 06/08/2017
 ---
 
 

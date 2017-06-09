@@ -3,10 +3,11 @@ title: PictureFormat.IncrementBrightness Method (Publisher)
 keywords: vbapb10.chm3604496
 f1_keywords:
 - vbapb10.chm3604496
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.IncrementBrightness
 ms.assetid: 912fd08e-bbb3-bf98-b0da-7128926f3409
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartGroup.BubbleScale Property (Word)
 keywords: vbawd10.chm263454756
 f1_keywords:
 - vbawd10.chm263454756
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.BubbleScale
 ms.assetid: 4776723c-4d6e-1009-8d00-6f837fbd4803
+ms.date: 06/08/2017
 ---
 
 

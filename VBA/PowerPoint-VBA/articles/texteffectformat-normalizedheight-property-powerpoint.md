@@ -3,10 +3,11 @@ title: TextEffectFormat.NormalizedHeight Property (PowerPoint)
 keywords: vbapp10.chm556009
 f1_keywords:
 - vbapp10.chm556009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.NormalizedHeight
 ms.assetid: 89b1799f-c037-5a37-caad-3344292df6e8
+ms.date: 06/08/2017
 ---
 
 

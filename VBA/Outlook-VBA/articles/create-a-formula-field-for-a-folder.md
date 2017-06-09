@@ -1,7 +1,8 @@
 ---
 title: Create a Formula Field for a Folder
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d7956315-604c-7170-6c98-6ef44e4702b5
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.Column Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.Column
 ms.assetid: 4f78bef0-38b8-534a-c6a3-dfbf21b83eda
+ms.date: 06/08/2017
 ---
 
 

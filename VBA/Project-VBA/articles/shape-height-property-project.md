@@ -1,7 +1,8 @@
 ---
 title: Shape.Height Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 1a795abf-2df7-b338-981c-c4c2511e10cd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: What is a control tip?
 keywords: fm20.chm5225227
 f1_keywords:
 - fm20.chm5225227
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d669d7a7-78a2-8391-8b85-76e00484e371
+ms.date: 06/08/2017
 ---
 
 

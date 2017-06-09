@@ -3,10 +3,11 @@ title: Application.Height Property (PowerPoint)
 keywords: vbapp10.chm502029
 f1_keywords:
 - vbapp10.chm502029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Height
 ms.assetid: 4236df34-3381-2a36-9b51-05a28308377e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: List.ListParagraphs Property (Word)
 keywords: vbawd10.chm160563202
 f1_keywords:
 - vbawd10.chm160563202
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.ListParagraphs
 ms.assetid: 3360f8dd-155a-3b44-1b0c-395ddbac2b51
+ms.date: 06/08/2017
 ---
 
 

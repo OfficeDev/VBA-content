@@ -3,10 +3,11 @@ title: SendRuleAction.Session Property (Outlook)
 keywords: vbaol11.chm2218
 f1_keywords:
 - vbaol11.chm2218
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SendRuleAction.Session
 ms.assetid: 0d0b9289-0381-fe88-d4e7-1d0197ce6d6b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: FillFormat.TextureOffsetY Property (Publisher)
 keywords: vbapb10.chm2359574
 f1_keywords:
 - vbapb10.chm2359574
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: aa690d54-a4b1-5073-1957-13a638cf3e19
+ms.date: 06/08/2017
 ---
 
 

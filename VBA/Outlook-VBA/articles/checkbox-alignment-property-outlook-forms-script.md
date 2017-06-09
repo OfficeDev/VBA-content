@@ -3,8 +3,9 @@ title: CheckBox.Alignment Property (Outlook Forms Script)
 keywords: olfm10.chm2000710
 f1_keywords:
 - olfm10.chm2000710
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: cbbb3e9e-7317-c934-8dd4-72627be82cd8
+ms.date: 06/08/2017
 ---
 
 

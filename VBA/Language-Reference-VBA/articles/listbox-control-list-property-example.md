@@ -3,8 +3,9 @@ title: ListBox Control, List Property Example
 keywords: fm20.chm5225171
 f1_keywords:
 - fm20.chm5225171
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14396c81-9137-7352-906c-acf70e9e77b0
+ms.date: 06/08/2017
 ---
 
 

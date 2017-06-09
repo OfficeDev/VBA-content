@@ -3,10 +3,11 @@ title: ComboBox.OnKeyUp Property (Access)
 keywords: vbaac10.chm11461
 f1_keywords:
 - vbaac10.chm11461
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnKeyUp
 ms.assetid: 5ee1855c-c6ba-84a6-4cc8-586ee2b201e0
+ms.date: 06/08/2017
 ---
 
 

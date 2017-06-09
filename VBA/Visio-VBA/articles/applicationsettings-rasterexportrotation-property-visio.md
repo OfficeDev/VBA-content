@@ -3,10 +3,11 @@ title: ApplicationSettings.RasterExportRotation Property (Visio)
 keywords: vis_sdr.chm16262545
 f1_keywords:
 - vis_sdr.chm16262545
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportRotation
 ms.assetid: 660b22ff-11b6-bfaf-1949-18e5e9c57d64
+ms.date: 06/08/2017
 ---
 
 

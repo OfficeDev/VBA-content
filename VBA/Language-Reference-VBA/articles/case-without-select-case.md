@@ -3,8 +3,9 @@ title: Case without Select Case
 keywords: vblr6.chm1011109
 f1_keywords:
 - vblr6.chm1011109
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 59d1eb92-b346-4013-b4fa-e99e40c2a9d6
+ms.date: 06/08/2017
 ---
 
 

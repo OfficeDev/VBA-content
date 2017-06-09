@@ -3,10 +3,11 @@ title: Presentation.NotesMaster Property (PowerPoint)
 keywords: vbapp10.chm583009
 f1_keywords:
 - vbapp10.chm583009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.NotesMaster
 ms.assetid: 0889b69b-4c51-82cf-ccc2-ccb211d8a34e
+ms.date: 06/08/2017
 ---
 
 

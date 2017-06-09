@@ -3,10 +3,11 @@ title: MeetingItem.Companies Property (Outlook)
 keywords: vbaol11.chm1407
 f1_keywords:
 - vbaol11.chm1407
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Companies
 ms.assetid: cf9ddbc6-286d-47ba-8fb2-6e54d70fc302
+ms.date: 06/08/2017
 ---
 
 

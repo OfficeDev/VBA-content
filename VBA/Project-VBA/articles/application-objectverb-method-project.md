@@ -3,10 +3,11 @@ title: Application.ObjectVerb Method (Project)
 keywords: vbapj.chm237
 f1_keywords:
 - vbapj.chm237
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ObjectVerb
 ms.assetid: 55507406-5a36-0361-3b91-7f17860dc577
+ms.date: 06/08/2017
 ---
 
 

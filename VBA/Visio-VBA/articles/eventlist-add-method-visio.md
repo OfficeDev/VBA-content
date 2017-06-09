@@ -3,10 +3,11 @@ title: EventList.Add Method (Visio)
 keywords: vis_sdr.chm12716665
 f1_keywords:
 - vis_sdr.chm12716665
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EventList.Add
 ms.assetid: 4deacea0-f4dc-bec6-31d0-bb9a060812f5
+ms.date: 06/08/2017
 ---
 
 

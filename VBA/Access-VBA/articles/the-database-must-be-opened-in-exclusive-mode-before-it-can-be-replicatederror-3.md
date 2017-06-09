@@ -3,14 +3,15 @@ title: The database must be opened in exclusive mode before it can be replicated
 keywords: jeterr40.chm5003491
 f1_keywords:
 - jeterr40.chm5003491
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d1756be5-cb77-1357-1919-28360364fda4
+ms.date: 06/08/2017
 ---
 
 
 # The database must be opened in exclusive mode before it can be replicated. (Error 3491)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

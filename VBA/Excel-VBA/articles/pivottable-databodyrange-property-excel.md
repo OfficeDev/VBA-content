@@ -3,10 +3,11 @@ title: PivotTable.DataBodyRange Property (Excel)
 keywords: vbaxl10.chm235078
 f1_keywords:
 - vbaxl10.chm235078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.DataBodyRange
 ms.assetid: b023618a-b526-ef81-b7a7-7f51390dfc87
+ms.date: 06/08/2017
 ---
 
 

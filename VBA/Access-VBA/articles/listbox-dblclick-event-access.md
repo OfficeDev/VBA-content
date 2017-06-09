@@ -3,10 +3,11 @@ title: ListBox.DblClick Event (Access)
 keywords: vbaac10.chm14178
 f1_keywords:
 - vbaac10.chm14178
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.DblClick
 ms.assetid: fe1b9c61-012e-96b7-ea89-8a8c4b47f483
+ms.date: 06/08/2017
 ---
 
 

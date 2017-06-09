@@ -3,10 +3,11 @@ title: BorderArtFormat.Parent Property (Publisher)
 keywords: vbapb10.chm7602178
 f1_keywords:
 - vbapb10.chm7602178
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Parent
 ms.assetid: 7d750cac-7da6-eb0d-b3dd-ead9a3040c9e
+ms.date: 06/08/2017
 ---
 
 

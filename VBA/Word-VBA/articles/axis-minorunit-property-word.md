@@ -3,10 +3,11 @@ title: Axis.MinorUnit Property (Word)
 keywords: vbawd10.chm113049639
 f1_keywords:
 - vbawd10.chm113049639
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MinorUnit
 ms.assetid: 9272b2da-0067-b180-a11f-1bec0dc1a416
+ms.date: 06/08/2017
 ---
 
 

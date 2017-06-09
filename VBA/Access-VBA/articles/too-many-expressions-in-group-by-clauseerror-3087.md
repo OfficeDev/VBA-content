@@ -3,14 +3,15 @@ title: Too many expressions in GROUP BY clause. (Error 3087)
 keywords: jeterr40.chm5003087
 f1_keywords:
 - jeterr40.chm5003087
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c1b73fc2-801f-c446-d08f-1d98dbe9d36d
+ms.date: 06/08/2017
 ---
 
 
 # Too many expressions in GROUP BY clause. (Error 3087)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

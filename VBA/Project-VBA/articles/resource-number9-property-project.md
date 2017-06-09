@@ -1,9 +1,10 @@
 ---
 title: Resource.Number9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Number9
 ms.assetid: fcf12d8b-b46e-eff5-87eb-05c11142f61a
+ms.date: 06/08/2017
 ---
 
 

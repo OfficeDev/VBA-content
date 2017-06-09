@@ -3,10 +3,11 @@ title: OMathLimLow.Lim Property (Word)
 keywords: vbawd10.chm91619432
 f1_keywords:
 - vbawd10.chm91619432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathLimLow.Lim
 ms.assetid: fbc4c0df-8ab0-4290-d21e-bcaacd3c06f7
+ms.date: 06/08/2017
 ---
 
 

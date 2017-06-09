@@ -1,9 +1,10 @@
 ---
 title: Application.OnKeystrokeMessageForAddon Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.OnKeystrokeMessageForAddon
 ms.assetid: 0b3fcabc-217f-fa68-d139-455286b3a34f
+ms.date: 06/08/2017
 ---
 
 

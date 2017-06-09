@@ -3,14 +3,15 @@ title: Cannot delete this field. It is part of one or more relationships. (Error
 keywords: jeterr40.chm5003303
 f1_keywords:
 - jeterr40.chm5003303
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e2c402e1-7cb8-74f1-f1f7-2ddbb02d4339
+ms.date: 06/08/2017
 ---
 
 
 # Cannot delete this field. It is part of one or more relationships. (Error 3303)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

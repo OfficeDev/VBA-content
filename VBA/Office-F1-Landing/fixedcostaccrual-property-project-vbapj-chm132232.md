@@ -3,8 +3,9 @@ title: FixedCostAccrual Property, Project [vbapj.chm132232]
 keywords: vbapj.chm132232
 f1_keywords:
 - vbapj.chm132232
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 436fd31a-8a9a-4494-8213-e362fb5f245b
+ms.date: 06/08/2017
 ---
 
 

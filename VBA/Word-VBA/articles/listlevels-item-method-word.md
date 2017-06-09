@@ -3,10 +3,11 @@ title: ListLevels.Item Method (Word)
 keywords: vbawd10.chm160301056
 f1_keywords:
 - vbawd10.chm160301056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevels.Item
 ms.assetid: 533fa4ca-4bb9-78b7-7f64-70803d254c8b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot create partial replica of a workgroup information file. (Error 363
 keywords: jeterr40.chm5003635
 f1_keywords:
 - jeterr40.chm5003635
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fe42e8ce-7dba-b3e4-885e-d6b522a04cb3
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create partial replica of a workgroup information file. (Error 3635)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

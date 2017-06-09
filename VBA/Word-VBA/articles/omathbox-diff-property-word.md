@@ -3,10 +3,11 @@ title: OMathBox.Diff Property (Word)
 keywords: vbawd10.chm134086762
 f1_keywords:
 - vbawd10.chm134086762
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBox.Diff
 ms.assetid: cece4ced-cc61-4f51-93d2-e537e7353ec4
+ms.date: 06/08/2017
 ---
 
 

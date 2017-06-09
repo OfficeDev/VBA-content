@@ -3,14 +3,15 @@ title: Reserved error <Item>; there is no message for this error. (Error 3000)
 keywords: jeterr40.chm5003000
 f1_keywords:
 - jeterr40.chm5003000
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: db1b443a-6136-f7c2-cac2-3fb810b910a5
+ms.date: 06/08/2017
 ---
 
 
 # Reserved error <Item>; there is no message for this error. (Error 3000)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

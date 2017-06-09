@@ -3,10 +3,11 @@ title: Application.MailMergeDataSourceLoad Event (Publisher)
 keywords: vbapb10.chm268435475
 f1_keywords:
 - vbapb10.chm268435475
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeDataSourceLoad
 ms.assetid: afca3a05-d6a6-15f1-8cbf-593777066757
+ms.date: 06/08/2017
 ---
 
 

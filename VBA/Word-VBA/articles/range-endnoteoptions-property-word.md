@@ -3,10 +3,11 @@ title: Range.EndnoteOptions Property (Word)
 keywords: vbawd10.chm157155739
 f1_keywords:
 - vbawd10.chm157155739
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.EndnoteOptions
 ms.assetid: 48b2cf9e-edba-e6ed-a3b5-d93e26e17fe5
+ms.date: 06/08/2017
 ---
 
 

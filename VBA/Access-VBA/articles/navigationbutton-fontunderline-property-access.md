@@ -3,10 +3,11 @@ title: NavigationButton.FontUnderline Property (Access)
 keywords: vbaac10.chm10476
 f1_keywords:
 - vbaac10.chm10476
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.FontUnderline
 ms.assetid: e5839cc1-d600-d46b-0433-d50aaadd79ca
+ms.date: 06/08/2017
 ---
 
 

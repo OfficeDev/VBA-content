@@ -3,8 +3,9 @@ title: ProportionalThumb Property, Office Shared [fm20.chm5225082]
 keywords: fm20.chm5225082
 f1_keywords:
 - fm20.chm5225082
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 212b651c-0a2b-4dce-94e2-318f82de671c
+ms.date: 06/08/2017
 ---
 
 

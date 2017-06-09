@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.Display Method (Outlook)
 keywords: vbaol11.chm1950
 f1_keywords:
 - vbaol11.chm1950
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Display
 ms.assetid: d91b4860-12f5-b898-9717-b4fddfaee49f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotField.BaseField Property (Excel)
 keywords: vbaxl10.chm240095
 f1_keywords:
 - vbaxl10.chm240095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.BaseField
 ms.assetid: 6f8fae2c-fb56-3d24-9a77-31074c84701b
+ms.date: 06/08/2017
 ---
 
 

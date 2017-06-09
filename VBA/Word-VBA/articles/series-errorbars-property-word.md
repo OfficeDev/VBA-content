@@ -3,10 +3,11 @@ title: Series.ErrorBars Property (Word)
 keywords: vbawd10.chm123732127
 f1_keywords:
 - vbawd10.chm123732127
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ErrorBars
 ms.assetid: f3a4ecb9-2dd2-6d71-b5ca-8e1a3d47cd72
+ms.date: 06/08/2017
 ---
 
 

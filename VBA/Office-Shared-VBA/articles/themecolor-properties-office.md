@@ -1,7 +1,8 @@
 ---
 title: ThemeColor Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 715dd80d-9f6a-4193-9a24-938f119105d9
+ms.date: 06/08/2017
 ---
 
 

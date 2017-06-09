@@ -3,10 +3,11 @@ title: Tasks.Exists Method (Word)
 keywords: vbawd10.chm159580162
 f1_keywords:
 - vbawd10.chm159580162
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Tasks.Exists
 ms.assetid: 421a5ff6-25b5-3255-ae81-32f5decbfe93
+ms.date: 06/08/2017
 ---
 
 

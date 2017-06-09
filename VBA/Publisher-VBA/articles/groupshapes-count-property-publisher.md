@@ -3,10 +3,11 @@ title: GroupShapes.Count Property (Publisher)
 keywords: vbapb10.chm3342339
 f1_keywords:
 - vbapb10.chm3342339
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.GroupShapes.Count
 ms.assetid: 718802f3-a23f-fdbe-253f-bfd27189359e
+ms.date: 06/08/2017
 ---
 
 

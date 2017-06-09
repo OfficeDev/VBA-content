@@ -3,10 +3,11 @@ title: Document.GrammarChecked Property (Word)
 keywords: vbawd10.chm158007366
 f1_keywords:
 - vbawd10.chm158007366
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.GrammarChecked
 ms.assetid: 30de1405-196a-e8e0-f5af-710b217ea3fd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Report.HelpContextId Property (Access)
 keywords: vbaac10.chm13718
 f1_keywords:
 - vbaac10.chm13718
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.HelpContextId
 ms.assetid: 3911ba15-a1fd-06a6-659f-b8599bb01931
+ms.date: 06/08/2017
 ---
 
 

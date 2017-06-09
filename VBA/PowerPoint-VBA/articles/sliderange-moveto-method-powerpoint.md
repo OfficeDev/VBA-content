@@ -3,10 +3,11 @@ title: SlideRange.MoveTo Method (PowerPoint)
 keywords: vbapp10.chm532034
 f1_keywords:
 - vbapp10.chm532034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.MoveTo
 ms.assetid: 42be6065-244f-ba03-1f96-5f953258bdb9
+ms.date: 06/08/2017
 ---
 
 

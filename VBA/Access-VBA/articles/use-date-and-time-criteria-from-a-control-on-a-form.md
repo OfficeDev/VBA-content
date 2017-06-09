@@ -1,7 +1,8 @@
 ---
 title: Use Date and Time Criteria from a Control on a Form
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 65ea2c4c-f714-a34a-7430-b2b11fddf1a6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CoAuthoring.CanShare Property (Word)
 keywords: vbawd10.chm254869512
 f1_keywords:
 - vbawd10.chm254869512
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.CanShare
 ms.assetid: 9b0a08f8-cc54-5017-a487-bfab4057b711
+ms.date: 06/08/2017
 ---
 
 

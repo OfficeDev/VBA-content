@@ -3,10 +3,11 @@ title: Master.TimeLine Property (PowerPoint)
 keywords: vbapp10.chm533015
 f1_keywords:
 - vbapp10.chm533015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.TimeLine
 ms.assetid: f57756b5-9b13-336b-0d5c-00161590ba03
+ms.date: 06/08/2017
 ---
 
 

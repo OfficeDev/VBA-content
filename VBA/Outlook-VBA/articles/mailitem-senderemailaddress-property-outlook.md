@@ -3,10 +3,11 @@ title: MailItem.SenderEmailAddress Property (Outlook)
 keywords: vbaol11.chm1383
 f1_keywords:
 - vbaol11.chm1383
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.SenderEmailAddress
 ms.assetid: a157894c-adf2-1cef-ec7c-8516dbef2b7f
+ms.date: 06/08/2017
 ---
 
 

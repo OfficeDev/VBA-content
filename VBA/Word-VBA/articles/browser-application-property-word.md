@@ -3,10 +3,11 @@ title: Browser.Application Property (Word)
 keywords: vbawd10.chm154010600
 f1_keywords:
 - vbawd10.chm154010600
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Application
 ms.assetid: 8fc2b9c9-d484-87be-c134-93dce7fef9b9
+ms.date: 06/08/2017
 ---
 
 

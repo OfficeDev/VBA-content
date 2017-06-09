@@ -1,7 +1,8 @@
 ---
 title: IAssistance Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f5ae2ce-e24a-4377-6591-86504cba749f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SharingItem.UnRead Property (Outlook)
 keywords: vbaol11.chm621
 f1_keywords:
 - vbaol11.chm621
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.UnRead
 ms.assetid: c0bec94f-1d1b-efaf-f3a8-dfb7113aeb1b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ReflectionFormat.Offset Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ReflectionFormat.Offset
 ms.assetid: bd8528e8-5795-637e-8ef0-6e1d0548e42f
+ms.date: 06/08/2017
 ---
 
 

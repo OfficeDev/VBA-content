@@ -3,10 +3,11 @@ title: CustomXMLPart.NodeAfterInsert Event (Office)
 keywords: vbaof11.chm296001
 f1_keywords:
 - vbaof11.chm296001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.NodeAfterInsert
 ms.assetid: 7ea1ce05-9992-608b-bac9-95f5d80ff586
+ms.date: 06/08/2017
 ---
 
 

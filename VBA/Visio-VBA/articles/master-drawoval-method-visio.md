@@ -3,10 +3,11 @@ title: Master.DrawOval Method (Visio)
 keywords: vis_sdr.chm10716210
 f1_keywords:
 - vis_sdr.chm10716210
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawOval
 ms.assetid: 092a59d6-1b43-c094-e2ae-480ee7b32b73
+ms.date: 06/08/2017
 ---
 
 

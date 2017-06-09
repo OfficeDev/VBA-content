@@ -3,8 +3,9 @@ title: MasterChanged Event, Visio [vis_sdr.chm10519175]
 keywords: vis_sdr.chm10519175
 f1_keywords:
 - vis_sdr.chm10519175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 053ae01e-721e-42d1-91d5-aa60459fd7df
+ms.date: 06/08/2017
 ---
 
 

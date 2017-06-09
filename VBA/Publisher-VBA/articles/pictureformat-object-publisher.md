@@ -3,10 +3,11 @@ title: PictureFormat Object (Publisher)
 keywords: vbapb10.chm3670015
 f1_keywords:
 - vbapb10.chm3670015
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat
 ms.assetid: aa30ea9d-b91f-acdf-2e60-8a9f506f28b4
+ms.date: 06/08/2017
 ---
 
 

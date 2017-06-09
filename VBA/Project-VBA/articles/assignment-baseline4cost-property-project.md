@@ -1,9 +1,10 @@
 ---
 title: Assignment.Baseline4Cost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline4Cost
 ms.assetid: 2bab26ff-0d68-6258-3978-45fc6faf3e9d
+ms.date: 06/08/2017
 ---
 
 

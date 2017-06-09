@@ -3,10 +3,11 @@ title: ToolbarSet.Caption Property (Visio)
 keywords: vis_sdr.chm13913170
 f1_keywords:
 - vis_sdr.chm13913170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarSet.Caption
 ms.assetid: 206c6f4f-ceee-e4d2-c197-197951d8d1a9
+ms.date: 06/08/2017
 ---
 
 

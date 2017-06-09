@@ -3,10 +3,11 @@ title: Document.GridSpaceBetweenVerticalLines Property (Word)
 keywords: vbawd10.chm158007603
 f1_keywords:
 - vbawd10.chm158007603
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.GridSpaceBetweenVerticalLines
 ms.assetid: 83658d56-6724-3e34-57bb-0b9cab537985
+ms.date: 06/08/2017
 ---
 
 

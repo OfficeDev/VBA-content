@@ -3,10 +3,11 @@ title: Reports.Application Property (Access)
 keywords: vbaac10.chm12479
 f1_keywords:
 - vbaac10.chm12479
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reports.Application
 ms.assetid: 2e4da06d-69d8-7eb0-1eb0-f2fa8a6b20b8
+ms.date: 06/08/2017
 ---
 
 

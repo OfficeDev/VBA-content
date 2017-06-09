@@ -3,10 +3,11 @@ title: DoCmd.FindRecord Method (Access)
 keywords: vbaac10.chm4151
 f1_keywords:
 - vbaac10.chm4151
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.FindRecord
 ms.assetid: dc48bc3d-5408-40a8-509b-e52b48b26187
+ms.date: 06/08/2017
 ---
 
 

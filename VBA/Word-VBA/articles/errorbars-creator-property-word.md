@@ -3,10 +3,11 @@ title: ErrorBars.Creator Property (Word)
 keywords: vbawd10.chm74842261
 f1_keywords:
 - vbawd10.chm74842261
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ErrorBars.Creator
 ms.assetid: c8052d99-6816-1345-c1ab-14e5816fcc69
+ms.date: 06/08/2017
 ---
 
 

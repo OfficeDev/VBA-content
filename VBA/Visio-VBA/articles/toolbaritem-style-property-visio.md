@@ -3,10 +3,11 @@ title: ToolbarItem.Style Property (Visio)
 keywords: vis_sdr.chm13551150
 f1_keywords:
 - vis_sdr.chm13551150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.Style
 ms.assetid: 3f4c624c-a80c-9b82-3ca5-34c395770bf0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.FormattingShowParagraph Property (Word)
 keywords: vbawd10.chm158007746
 f1_keywords:
 - vbawd10.chm158007746
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FormattingShowParagraph
 ms.assetid: b2fc92be-02f5-1ed5-aa8a-76e4ed725b49
+ms.date: 06/08/2017
 ---
 
 

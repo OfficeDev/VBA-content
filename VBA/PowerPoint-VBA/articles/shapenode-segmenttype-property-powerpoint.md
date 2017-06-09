@@ -3,10 +3,11 @@ title: ShapeNode.SegmentType Property (PowerPoint)
 keywords: vbapp10.chm561004
 f1_keywords:
 - vbapp10.chm561004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.SegmentType
 ms.assetid: 5135d7a7-3ed7-6abd-b072-7456a59aa707
+ms.date: 06/08/2017
 ---
 
 

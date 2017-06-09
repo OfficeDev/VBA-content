@@ -3,10 +3,11 @@ title: PropertyAccessor.Parent Property (Outlook)
 keywords: vbaol11.chm1969
 f1_keywords:
 - vbaol11.chm1969
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.Parent
 ms.assetid: 764b07a0-2bfa-1457-b587-bc2559ff72a1
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ChartGroup.DropLines Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.DropLines
 ms.assetid: 5646620d-e023-5953-4c91-34234de15b30
+ms.date: 06/08/2017
 ---
 
 

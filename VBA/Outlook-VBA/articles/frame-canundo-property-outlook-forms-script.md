@@ -3,8 +3,9 @@ title: Frame.CanUndo Property (Outlook Forms Script)
 keywords: olfm10.chm2000870
 f1_keywords:
 - olfm10.chm2000870
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7cb4090f-8886-17c9-2bd3-cdeb78e5aa57
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContentControl.ID Property (Word)
 keywords: vbawd10.chm266534930
 f1_keywords:
 - vbawd10.chm266534930
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.ID
 ms.assetid: 2a9480f0-c572-6724-121f-b1a41d99ab93
+ms.date: 06/08/2017
 ---
 
 

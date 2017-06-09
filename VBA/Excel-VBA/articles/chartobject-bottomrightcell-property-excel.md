@@ -3,10 +3,11 @@ title: ChartObject.BottomRightCell Property (Excel)
 keywords: vbaxl10.chm494074
 f1_keywords:
 - vbaxl10.chm494074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.BottomRightCell
 ms.assetid: e437e7d9-b8fb-0a55-9741-1b11dea714b7
+ms.date: 06/08/2017
 ---
 
 

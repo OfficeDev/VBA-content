@@ -3,10 +3,11 @@ title: Application.Nz Method (Access)
 keywords: vbaac10.chm12554
 f1_keywords:
 - vbaac10.chm12554
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.Nz
 ms.assetid: 669fe962-3881-83bb-cc40-ec9b23b44116
+ms.date: 06/08/2017
 ---
 
 

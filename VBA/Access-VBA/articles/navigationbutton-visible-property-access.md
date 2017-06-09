@@ -3,10 +3,11 @@ title: NavigationButton.Visible Property (Access)
 keywords: vbaac10.chm10462
 f1_keywords:
 - vbaac10.chm10462
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Visible
 ms.assetid: 26773edc-1143-d13f-eb75-206640cfae2e
+ms.date: 06/08/2017
 ---
 
 

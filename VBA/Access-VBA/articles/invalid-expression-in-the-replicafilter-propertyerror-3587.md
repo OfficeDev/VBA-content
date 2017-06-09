@@ -1,13 +1,14 @@
 ---
 title: Invalid expression in the ReplicaFilter property. (Error 3587)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 741623e5-fc5d-9b79-7887-413ff955b0a1
+ms.date: 06/08/2017
 ---
 
 
 # Invalid expression in the ReplicaFilter property. (Error 3587)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

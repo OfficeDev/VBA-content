@@ -3,10 +3,11 @@ title: Task.ResourcePhonetics Property (Project)
 keywords: vbapj.chm132572
 f1_keywords:
 - vbapj.chm132572
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ResourcePhonetics
 ms.assetid: 07019a05-a28b-99dc-993c-0ce3b6fda293
+ms.date: 06/08/2017
 ---
 
 

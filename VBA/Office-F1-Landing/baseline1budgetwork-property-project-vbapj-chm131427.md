@@ -3,8 +3,9 @@ title: Baseline1BudgetWork Property, Project [vbapj.chm131427]
 keywords: vbapj.chm131427
 f1_keywords:
 - vbapj.chm131427
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dd3517ce-032a-4b85-9184-62da31945d3b
+ms.date: 06/08/2017
 ---
 
 

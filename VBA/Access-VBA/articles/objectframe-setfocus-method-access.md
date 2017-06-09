@@ -3,10 +3,11 @@ title: ObjectFrame.SetFocus Method (Access)
 keywords: vbaac10.chm11555
 f1_keywords:
 - vbaac10.chm11555
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.SetFocus
 ms.assetid: 856855b5-6b61-6aea-c039-696d4662ee4c
+ms.date: 06/08/2017
 ---
 
 

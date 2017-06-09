@@ -3,10 +3,11 @@ title: Page.PrintTile Method (Visio)
 keywords: vis_sdr.chm10950795
 f1_keywords:
 - vis_sdr.chm10950795
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.PrintTile
 ms.assetid: 221efce0-c706-8583-50a5-ba28ef620fdf
+ms.date: 06/08/2017
 ---
 
 

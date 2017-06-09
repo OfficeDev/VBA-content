@@ -3,10 +3,11 @@ title: Borders.Enable Property (Word)
 keywords: vbawd10.chm154927106
 f1_keywords:
 - vbawd10.chm154927106
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.Enable
 ms.assetid: 5595b02a-35a3-30ce-0b9b-e6e5867d7258
+ms.date: 06/08/2017
 ---
 
 

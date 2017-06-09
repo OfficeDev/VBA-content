@@ -3,10 +3,11 @@ title: RecentFiles.Add Method (Word)
 keywords: vbawd10.chm157483011
 f1_keywords:
 - vbawd10.chm157483011
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFiles.Add
 ms.assetid: 6d20df76-9a7a-be22-2c11-44f328dee13a
+ms.date: 06/08/2017
 ---
 
 

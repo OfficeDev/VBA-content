@@ -1,13 +1,14 @@
 ---
 title: CreateRecordset Method Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 548e5c0a-74cc-0abb-f660-1be483410548
+ms.date: 06/08/2017
 ---
 
 
 # CreateRecordset Method Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

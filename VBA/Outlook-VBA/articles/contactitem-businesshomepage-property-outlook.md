@@ -3,10 +3,11 @@ title: ContactItem.BusinessHomePage Property (Outlook)
 keywords: vbaol11.chm978
 f1_keywords:
 - vbaol11.chm978
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessHomePage
 ms.assetid: 96ef88dd-be24-17f1-1584-8db35747a088
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.Replace Method (Excel)
 keywords: vbaxl10.chm137127
 f1_keywords:
 - vbaxl10.chm137127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Replace
 ms.assetid: 1cca39db-c4ab-f7d4-dd71-0844d0bb44cd
+ms.date: 06/08/2017
 ---
 
 

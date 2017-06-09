@@ -3,10 +3,11 @@ title: SlicerPivotTables.Item Property (Excel)
 keywords: vbaxl10.chm911074
 f1_keywords:
 - vbaxl10.chm911074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.Item
 ms.assetid: d63d4a9e-cd6c-bb4c-8f6b-cbb604e1727b
+ms.date: 06/08/2017
 ---
 
 

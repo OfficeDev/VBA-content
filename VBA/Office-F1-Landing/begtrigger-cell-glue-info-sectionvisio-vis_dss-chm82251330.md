@@ -3,8 +3,9 @@ title: BegTrigger Cell (Glue Info Section), Visio [Vis_DSS.chm82251330]
 keywords: vis_dss.chm82251330
 f1_keywords:
 - vis_dss.chm82251330
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6983ce97-67d2-4cb8-ae1c-bdc427d949f0
+ms.date: 06/08/2017
 ---
 
 

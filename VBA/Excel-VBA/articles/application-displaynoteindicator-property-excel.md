@@ -3,10 +3,11 @@ title: Application.DisplayNoteIndicator Property (Excel)
 keywords: vbaxl10.chm133122
 f1_keywords:
 - vbaxl10.chm133122
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayNoteIndicator
 ms.assetid: 96d43af3-0ceb-4bc2-ebaf-33cbe3e30a8a
+ms.date: 06/08/2017
 ---
 
 

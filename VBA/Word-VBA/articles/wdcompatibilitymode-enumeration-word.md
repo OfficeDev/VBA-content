@@ -1,9 +1,10 @@
 ---
 title: WdCompatibilityMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCompatibilityMode
 ms.assetid: 244e1519-32ea-741c-7e2a-ff8a2e0713aa
+ms.date: 06/08/2017
 ---
 
 

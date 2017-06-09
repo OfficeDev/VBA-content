@@ -3,10 +3,11 @@ title: InvisibleApp.ShowChanges Property (Visio)
 keywords: vis_sdr.chm17514690
 f1_keywords:
 - vis_sdr.chm17514690
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShowChanges
 ms.assetid: 8d38e592-366f-445f-9882-7b5864b5fa9e
+ms.date: 06/08/2017
 ---
 
 

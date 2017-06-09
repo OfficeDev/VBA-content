@@ -3,14 +3,15 @@ title: Invalid use of '.', '!', or '()'. (Error 2423)
 keywords: jeterr40.chm5002423
 f1_keywords:
 - jeterr40.chm5002423
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 388eb7b2-b82a-20e1-52dd-b3840b7a9f74
+ms.date: 06/08/2017
 ---
 
 
 # Invalid use of '.', '!', or '()'. (Error 2423)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

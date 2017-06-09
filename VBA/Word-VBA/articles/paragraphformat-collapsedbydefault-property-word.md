@@ -3,8 +3,9 @@ title: ParagraphFormat.CollapsedByDefault Property (Word)
 keywords: vbawd10.chm156434568
 f1_keywords:
 - vbawd10.chm156434568
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 50a0adf5-1229-4e79-0acb-d8461a3ecc94
+ms.date: 06/08/2017
 ---
 
 

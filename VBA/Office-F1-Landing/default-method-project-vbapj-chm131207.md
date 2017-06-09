@@ -3,8 +3,9 @@ title: Default Method, Project [vbapj.chm131207]
 keywords: vbapj.chm131207
 f1_keywords:
 - vbapj.chm131207
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ef9bf060-8236-4966-992f-618ca6c1494d
+ms.date: 06/08/2017
 ---
 
 

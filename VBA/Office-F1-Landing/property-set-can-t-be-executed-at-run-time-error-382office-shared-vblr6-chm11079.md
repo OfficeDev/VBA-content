@@ -3,8 +3,9 @@ title: Property Set can't be executed at run time (Error 382), Office Shared [vb
 keywords: vblr6.chm1107959
 f1_keywords:
 - vblr6.chm1107959
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de341dbf-8eba-49b2-be7e-030ebf2ca0bc
+ms.date: 06/08/2017
 ---
 
 

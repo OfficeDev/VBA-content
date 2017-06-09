@@ -3,10 +3,11 @@ title: ContainerProperties.GetMemberShapes Method (Visio)
 keywords: vis_sdr.chm17662350
 f1_keywords:
 - vis_sdr.chm17662350
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.GetMemberShapes
 ms.assetid: 4fb246c7-b86d-4e90-ef91-9cac988dbbb8
+ms.date: 06/08/2017
 ---
 
 

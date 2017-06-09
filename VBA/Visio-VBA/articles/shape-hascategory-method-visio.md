@@ -3,10 +3,11 @@ title: Shape.HasCategory Method (Visio)
 keywords: vis_sdr.chm11262250
 f1_keywords:
 - vis_sdr.chm11262250
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.HasCategory
 ms.assetid: 91115794-31ab-73b1-d1ec-ca249a57a61f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Events Object (VBA Add-In Object Model)
 keywords: vbob6.chm1071196
 f1_keywords:
 - vbob6.chm1071196
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7e16c9ca-6167-f6da-fb9a-018b9ac08b17
+ms.date: 06/08/2017
 ---
 
 

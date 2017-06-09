@@ -3,10 +3,11 @@ title: Application.Active Property (PowerPoint)
 keywords: vbapp10.chm502033
 f1_keywords:
 - vbapp10.chm502033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Active
 ms.assetid: 94eb9039-ac4a-b8e0-dc66-c508521e3604
+ms.date: 06/08/2017
 ---
 
 

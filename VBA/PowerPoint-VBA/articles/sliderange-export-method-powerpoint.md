@@ -3,10 +3,11 @@ title: SlideRange.Export Method (PowerPoint)
 keywords: vbapp10.chm532025
 f1_keywords:
 - vbapp10.chm532025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Export
 ms.assetid: a14b5d03-e6c4-486e-a97b-1c9bd1a18769
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailModule.Session Property (Outlook)
 keywords: vbaol11.chm2814
 f1_keywords:
 - vbaol11.chm2814
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailModule.Session
 ms.assetid: 6b4405e4-c7b8-9837-a494-889e2e17d7ef
+ms.date: 06/08/2017
 ---
 
 

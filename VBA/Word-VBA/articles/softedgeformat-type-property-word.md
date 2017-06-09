@@ -3,10 +3,11 @@ title: SoftEdgeFormat.Type Property (Word)
 keywords: vbawd10.chm184090625
 f1_keywords:
 - vbawd10.chm184090625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SoftEdgeFormat.Type
 ms.assetid: 8202d856-4dac-1739-b447-51846dfdf8e0
+ms.date: 06/08/2017
 ---
 
 

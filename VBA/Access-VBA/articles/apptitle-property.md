@@ -3,16 +3,17 @@ title: AppTitle Property
 keywords: vbaac10.chm5187013
 f1_keywords:
 - vbaac10.chm5187013
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AppTitle
 ms.assetid: a505f465-7813-6677-dd80-21a757c9d422
+ms.date: 06/08/2017
 ---
 
 
 # AppTitle Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

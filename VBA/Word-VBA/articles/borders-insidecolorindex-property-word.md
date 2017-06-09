@@ -3,10 +3,11 @@ title: Borders.InsideColorIndex Property (Word)
 keywords: vbawd10.chm154927114
 f1_keywords:
 - vbawd10.chm154927114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.InsideColorIndex
 ms.assetid: 9c626b1f-1696-4e73-10ef-9cec5d354559
+ms.date: 06/08/2017
 ---
 
 

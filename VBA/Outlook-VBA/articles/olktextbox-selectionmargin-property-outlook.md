@@ -3,10 +3,11 @@ title: OlkTextBox.SelectionMargin Property (Outlook)
 keywords: vbaol11.chm1000056
 f1_keywords:
 - vbaol11.chm1000056
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.SelectionMargin
 ms.assetid: d1f5f16b-0a18-10e8-028a-f405dd1cb6c5
+ms.date: 06/08/2017
 ---
 
 

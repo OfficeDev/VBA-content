@@ -3,8 +3,9 @@ title: Public <keyword>
 keywords: vblr6.chm1011010
 f1_keywords:
 - vblr6.chm1011010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bae593b3-84ea-d6ef-5d4b-34f74fad8df3
+ms.date: 06/08/2017
 ---
 
 

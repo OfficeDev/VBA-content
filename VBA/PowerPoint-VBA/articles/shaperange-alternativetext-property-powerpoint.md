@@ -3,10 +3,11 @@ title: ShapeRange.AlternativeText Property (PowerPoint)
 keywords: vbapp10.chm548067
 f1_keywords:
 - vbapp10.chm548067
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.AlternativeText
 ms.assetid: 5255de02-810d-981b-4b2d-9a28fbcdae4c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Colors Object (Visio)
 keywords: vis_sdr.chm10060
 f1_keywords:
 - vis_sdr.chm10060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Colors
 ms.assetid: 99f22b9b-f8cb-f598-7ad9-3367b5d68f72
+ms.date: 06/08/2017
 ---
 
 

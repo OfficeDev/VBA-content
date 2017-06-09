@@ -3,10 +3,11 @@ title: Page.BoundingBox Method (Visio)
 keywords: vis_sdr.chm10916090
 f1_keywords:
 - vis_sdr.chm10916090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.BoundingBox
 ms.assetid: f281e304-057f-5555-8efd-fd81d088b8cd
+ms.date: 06/08/2017
 ---
 
 

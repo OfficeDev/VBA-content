@@ -3,10 +3,11 @@ title: MovedSelectionEvent.Stat Property (Visio)
 keywords: vis_sdr.chm17814420
 f1_keywords:
 - vis_sdr.chm17814420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.Stat
 ms.assetid: b48e32b4-a98e-663d-fc2e-5c83a0b87dd8
+ms.date: 06/08/2017
 ---
 
 

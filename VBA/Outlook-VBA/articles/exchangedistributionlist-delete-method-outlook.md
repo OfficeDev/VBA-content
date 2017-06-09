@@ -3,10 +3,11 @@ title: ExchangeDistributionList.Delete Method (Outlook)
 keywords: vbaol11.chm2120
 f1_keywords:
 - vbaol11.chm2120
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Delete
 ms.assetid: f1d14d2f-63ba-d02a-d40f-56f7d807e11e
+ms.date: 06/08/2017
 ---
 
 

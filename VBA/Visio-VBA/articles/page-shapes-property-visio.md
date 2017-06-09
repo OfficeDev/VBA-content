@@ -3,10 +3,11 @@ title: Page.Shapes Property (Visio)
 keywords: vis_sdr.chm10914330
 f1_keywords:
 - vis_sdr.chm10914330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Shapes
 ms.assetid: b6a5c174-c1d6-049b-8aec-8337c47341d7
+ms.date: 06/08/2017
 ---
 
 

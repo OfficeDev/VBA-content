@@ -3,10 +3,11 @@ title: MailMerge.Check Method (Word)
 keywords: vbawd10.chm153092202
 f1_keywords:
 - vbawd10.chm153092202
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.Check
 ms.assetid: a6f166e9-9c8c-80ec-9725-55efde2f4a3b
+ms.date: 06/08/2017
 ---
 
 

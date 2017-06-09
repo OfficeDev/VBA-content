@@ -1,9 +1,10 @@
 ---
 title: IDocumentInspector.Fix Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IDocumentInspector.Fix
 ms.assetid: bf803bd1-5acc-b023-c98b-f21a7f708f6e
+ms.date: 06/08/2017
 ---
 
 

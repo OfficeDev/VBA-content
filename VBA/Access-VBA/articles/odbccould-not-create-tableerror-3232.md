@@ -3,14 +3,15 @@ title: ODBC -- could not create table. (Error 3232)
 keywords: jeterr40.chm5003232
 f1_keywords:
 - jeterr40.chm5003232
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 72efc14d-6f01-42ea-1aff-d64b7616c98d
+ms.date: 06/08/2017
 ---
 
 
 # ODBC -- could not create table. (Error 3232)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

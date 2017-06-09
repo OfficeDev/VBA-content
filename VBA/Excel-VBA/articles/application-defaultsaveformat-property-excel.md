@@ -3,10 +3,11 @@ title: Application.DefaultSaveFormat Property (Excel)
 keywords: vbaxl10.chm133217
 f1_keywords:
 - vbaxl10.chm133217
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DefaultSaveFormat
 ms.assetid: bb5c50db-8ba3-f79a-4577-f293ebc52b50
+ms.date: 06/08/2017
 ---
 
 

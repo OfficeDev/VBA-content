@@ -3,8 +3,9 @@ title: Copy, GetFromClipboard, GetText Methods, DataObject Object Example
 keywords: fm20.chm5225163
 f1_keywords:
 - fm20.chm5225163
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6be27a7e-58f2-5cad-5ed0-570520fd61f1
+ms.date: 06/08/2017
 ---
 
 

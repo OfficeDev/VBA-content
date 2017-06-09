@@ -3,10 +3,11 @@ title: Form.RecordsetClone Property (Access)
 keywords: vbaac10.chm13496
 f1_keywords:
 - vbaac10.chm13496
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.RecordsetClone
 ms.assetid: d73ef798-477d-9c36-6e29-82b22352c60b
+ms.date: 06/08/2017
 ---
 
 

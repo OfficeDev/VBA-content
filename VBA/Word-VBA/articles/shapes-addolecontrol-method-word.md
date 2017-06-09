@@ -3,10 +3,11 @@ title: Shapes.AddOLEControl Method (Word)
 keywords: vbawd10.chm161415270
 f1_keywords:
 - vbawd10.chm161415270
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddOLEControl
 ms.assetid: f0f5d8cb-ea31-58a9-f266-eff38610cf3b
+ms.date: 06/08/2017
 ---
 
 

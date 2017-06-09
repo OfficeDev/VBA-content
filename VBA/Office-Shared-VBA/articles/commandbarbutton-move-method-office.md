@@ -1,9 +1,10 @@
 ---
 title: CommandBarButton.Move Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Move
 ms.assetid: b2d462ec-63a7-a395-8d93-bedbf1d6941d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TaskItem.Display Method (Outlook)
 keywords: vbaol11.chm1715
 f1_keywords:
 - vbaol11.chm1715
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Display
 ms.assetid: fea0619d-06dc-df44-fe93-5756eefb1be0
+ms.date: 06/08/2017
 ---
 
 

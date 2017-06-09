@@ -3,10 +3,11 @@ title: Shape.SectionExists Property (Visio)
 keywords: vis_sdr.chm11214305
 f1_keywords:
 - vis_sdr.chm11214305
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SectionExists
 ms.assetid: 588a3b17-4831-b7bb-455f-12bc5c3620fc
+ms.date: 06/08/2017
 ---
 
 

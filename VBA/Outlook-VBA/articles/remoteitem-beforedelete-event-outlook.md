@@ -1,9 +1,10 @@
 ---
 title: RemoteItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeDelete
 ms.assetid: 0f1f4b6d-7a5a-2302-2b71-eea7bf7f1af9
+ms.date: 06/08/2017
 ---
 
 

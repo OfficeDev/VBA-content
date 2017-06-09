@@ -3,10 +3,11 @@ title: Workbook.PersonalViewListSettings Property (Excel)
 keywords: vbaxl10.chm199122
 f1_keywords:
 - vbaxl10.chm199122
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.PersonalViewListSettings
 ms.assetid: 998320bf-d703-e42f-8b43-5a7b909a846d
+ms.date: 06/08/2017
 ---
 
 

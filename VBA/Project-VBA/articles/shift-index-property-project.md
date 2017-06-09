@@ -1,9 +1,10 @@
 ---
 title: Shift.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Shift.Index
 ms.assetid: dae37122-f745-2728-5004-b3b3d7ad188a
+ms.date: 06/08/2017
 ---
 
 

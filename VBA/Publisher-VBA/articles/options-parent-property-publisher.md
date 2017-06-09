@@ -3,10 +3,11 @@ title: Options.Parent Property (Publisher)
 keywords: vbapb10.chm1048595
 f1_keywords:
 - vbapb10.chm1048595
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.Parent
 ms.assetid: 96b43655-699c-96cc-bfc9-14199619b699
+ms.date: 06/08/2017
 ---
 
 

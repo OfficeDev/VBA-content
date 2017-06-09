@@ -3,8 +3,9 @@ title: StatusBarText Property, Access [vbaac10.chm11053]
 keywords: vbaac10.chm11053
 f1_keywords:
 - vbaac10.chm11053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 219ebea2-da64-46ee-8aee-c169599ecf34
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Button Editor Dialog Box
 keywords: vbui6.chm1077247
 f1_keywords:
 - vbui6.chm1077247
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5a26e50f-3086-a3ac-4dff-8ef208c64254
+ms.date: 06/08/2017
 ---
 
 

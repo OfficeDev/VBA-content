@@ -3,8 +3,9 @@ title: SortOrder Property, Project [vbapj.chm132433]
 keywords: vbapj.chm132433
 f1_keywords:
 - vbapj.chm132433
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 16fc32ed-1519-4437-8126-2ad95f20037f
+ms.date: 06/08/2017
 ---
 
 

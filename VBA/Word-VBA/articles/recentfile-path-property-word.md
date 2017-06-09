@@ -3,10 +3,11 @@ title: RecentFile.Path Property (Word)
 keywords: vbawd10.chm157548547
 f1_keywords:
 - vbawd10.chm157548547
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFile.Path
 ms.assetid: 5fa6c504-0168-ea5b-8455-bb617a3ee236
+ms.date: 06/08/2017
 ---
 
 

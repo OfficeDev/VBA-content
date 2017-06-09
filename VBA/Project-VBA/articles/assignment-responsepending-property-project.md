@@ -1,9 +1,10 @@
 ---
 title: Assignment.ResponsePending Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.ResponsePending
 ms.assetid: 19fde907-327b-7ecf-3132-9192a2c223aa
+ms.date: 06/08/2017
 ---
 
 

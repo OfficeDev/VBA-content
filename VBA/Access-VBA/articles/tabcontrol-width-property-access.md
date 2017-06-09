@@ -3,10 +3,11 @@ title: TabControl.Width Property (Access)
 keywords: vbaac10.chm12083
 f1_keywords:
 - vbaac10.chm12083
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Width
 ms.assetid: a62fbaa3-2055-6b65-3cf3-57061c00fea6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot start your application. The workgroup information file is missing 
 keywords: jeterr40.chm5003028
 f1_keywords:
 - jeterr40.chm5003028
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 213c8493-3578-9e2e-e8b7-384132af9d19
+ms.date: 06/08/2017
 ---
 
 
 # Cannot start your application. The workgroup information file is missing or opened exclusively by another user. (Error 3028)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

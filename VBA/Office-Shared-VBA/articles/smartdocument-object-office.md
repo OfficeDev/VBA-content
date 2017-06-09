@@ -3,10 +3,11 @@ title: SmartDocument Object (Office)
 keywords: vbaof11.chm262000
 f1_keywords:
 - vbaof11.chm262000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartDocument
 ms.assetid: b56a86eb-a031-d50b-905e-ef8b91914d61
+ms.date: 06/08/2017
 ---
 
 

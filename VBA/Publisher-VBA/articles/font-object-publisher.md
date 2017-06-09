@@ -3,10 +3,11 @@ title: Font Object (Publisher)
 keywords: vbapb10.chm5439487
 f1_keywords:
 - vbapb10.chm5439487
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font
 ms.assetid: 992fda94-2820-d665-0d78-efd4b5434731
+ms.date: 06/08/2017
 ---
 
 

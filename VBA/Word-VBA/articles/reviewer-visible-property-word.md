@@ -3,10 +3,11 @@ title: Reviewer.Visible Property (Word)
 keywords: vbawd10.chm78512128
 f1_keywords:
 - vbawd10.chm78512128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewer.Visible
 ms.assetid: cd60f0f1-86bd-b2ba-1dca-00295191702a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ODBCConnection.SavePassword Property (Excel)
 keywords: vbaxl10.chm796086
 f1_keywords:
 - vbaxl10.chm796086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.SavePassword
 ms.assetid: a7b813c4-b95d-e475-5a00-eb1c246ce5c6
+ms.date: 06/08/2017
 ---
 
 

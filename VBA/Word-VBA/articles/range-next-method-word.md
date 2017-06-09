@@ -3,10 +3,11 @@ title: Range.Next Method (Word)
 keywords: vbawd10.chm157155433
 f1_keywords:
 - vbawd10.chm157155433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Next
 ms.assetid: 8d3a295d-543c-7e17-337d-b4fdfeda96e6
+ms.date: 06/08/2017
 ---
 
 

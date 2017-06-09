@@ -3,8 +3,9 @@ title: Step Into, Step Over, Step Out Commands (Debug Menu), Office Shared [vbui
 keywords: vbui6.chm2015619
 f1_keywords:
 - vbui6.chm2015619
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 31eff330-9feb-4267-8250-d887c22720a3
+ms.date: 06/08/2017
 ---
 
 

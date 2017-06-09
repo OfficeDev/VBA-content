@@ -3,10 +3,11 @@ title: Worksheet.PivotTableChangeSync Event (Excel)
 keywords: vbaxl10.chm502086
 f1_keywords:
 - vbaxl10.chm502086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTableChangeSync
 ms.assetid: b8cd1e24-4986-d3d4-c37a-b2933c6a9d99
+ms.date: 06/08/2017
 ---
 
 

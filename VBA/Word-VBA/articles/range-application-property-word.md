@@ -3,10 +3,11 @@ title: Range.Application Property (Word)
 keywords: vbawd10.chm157156328
 f1_keywords:
 - vbawd10.chm157156328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Application
 ms.assetid: 5777ab91-1ebf-3549-1b03-e54ab5f57f18
+ms.date: 06/08/2017
 ---
 
 

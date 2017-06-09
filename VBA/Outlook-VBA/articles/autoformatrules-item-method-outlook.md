@@ -3,10 +3,11 @@ title: AutoFormatRules.Item Method (Outlook)
 keywords: vbaol11.chm2718
 f1_keywords:
 - vbaol11.chm2718
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Item
 ms.assetid: 575a2601-0bc3-0775-da46-3ba4c3fe7f80
+ms.date: 06/08/2017
 ---
 
 

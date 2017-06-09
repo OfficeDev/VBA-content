@@ -3,10 +3,11 @@ title: Range.Group Method (Excel)
 keywords: vbaxl10.chm144141
 f1_keywords:
 - vbaxl10.chm144141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Group
 ms.assetid: da736f64-35df-ecaf-88ac-8c61f7d3c0d0
+ms.date: 06/08/2017
 ---
 
 

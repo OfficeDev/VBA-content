@@ -3,10 +3,11 @@ title: Report.PaletteSource Property (Access)
 keywords: vbaac10.chm13759
 f1_keywords:
 - vbaac10.chm13759
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PaletteSource
 ms.assetid: 9dc324a1-dc31-b0c5-edca-c4bc1674155a
+ms.date: 06/08/2017
 ---
 
 

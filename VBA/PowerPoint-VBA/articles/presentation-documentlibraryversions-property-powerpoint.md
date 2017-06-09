@@ -3,10 +3,11 @@ title: Presentation.DocumentLibraryVersions Property (PowerPoint)
 keywords: vbapp10.chm583086
 f1_keywords:
 - vbapp10.chm583086
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.DocumentLibraryVersions
 ms.assetid: 4c1b2055-cbbb-732d-26bd-8e6b85c26cc1
+ms.date: 06/08/2017
 ---
 
 

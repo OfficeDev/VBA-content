@@ -3,10 +3,11 @@ title: Application.MyShapesPath Property (Visio)
 keywords: vis_sdr.chm10060045
 f1_keywords:
 - vis_sdr.chm10060045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MyShapesPath
 ms.assetid: 0e5a598b-262f-dbf0-3c68-3199750fd5a9
+ms.date: 06/08/2017
 ---
 
 

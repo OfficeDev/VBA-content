@@ -3,10 +3,11 @@ title: OMathBreak Object (Word)
 keywords: vbawd10.chm1493
 f1_keywords:
 - vbawd10.chm1493
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreak
 ms.assetid: 88e883a4-8514-59f7-b644-bd186dd7a5a4
+ms.date: 06/08/2017
 ---
 
 

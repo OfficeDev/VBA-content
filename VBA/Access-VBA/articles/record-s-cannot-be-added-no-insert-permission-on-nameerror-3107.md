@@ -3,14 +3,15 @@ title: Record(s) cannot be added; no insert permission on <name>. (Error 3107)
 keywords: jeterr40.chm5003107
 f1_keywords:
 - jeterr40.chm5003107
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 92eb3781-6221-4871-4ac0-20b13fa97d54
+ms.date: 06/08/2017
 ---
 
 
 # Record(s) cannot be added; no insert permission on <name>. (Error 3107)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Document.PageChanged Event (Visio)
 keywords: vis_sdr.chm10519205
 f1_keywords:
 - vis_sdr.chm10519205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PageChanged
 ms.assetid: ab5b9492-60d5-35c2-642c-14e588e79f7d
+ms.date: 06/08/2017
 ---
 
 

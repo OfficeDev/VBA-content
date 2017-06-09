@@ -3,10 +3,11 @@ title: Application.IsUndoingOrRedoing Property (Visio)
 keywords: vis_sdr.chm10013760
 f1_keywords:
 - vis_sdr.chm10013760
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.IsUndoingOrRedoing
 ms.assetid: c398cff2-90df-7a7e-b810-fdda8cbfbe8a
+ms.date: 06/08/2017
 ---
 
 

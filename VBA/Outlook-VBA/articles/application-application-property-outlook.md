@@ -3,10 +3,11 @@ title: Application.Application Property (Outlook)
 keywords: vbaol11.chm705
 f1_keywords:
 - vbaol11.chm705
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.Application
 ms.assetid: c49cfea1-d126-75eb-fb3d-6f040526cef0
+ms.date: 06/08/2017
 ---
 
 

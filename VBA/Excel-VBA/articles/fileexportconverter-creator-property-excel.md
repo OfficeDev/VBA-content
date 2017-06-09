@@ -3,10 +3,11 @@ title: FileExportConverter.Creator Property (Excel)
 keywords: vbaxl10.chm862074
 f1_keywords:
 - vbaxl10.chm862074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FileExportConverter.Creator
 ms.assetid: f008a8c9-89a6-a0a9-4f26-acffdde29e6a
+ms.date: 06/08/2017
 ---
 
 

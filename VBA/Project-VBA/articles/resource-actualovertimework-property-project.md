@@ -1,9 +1,10 @@
 ---
 title: Resource.ActualOvertimeWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.ActualOvertimeWork
 ms.assetid: 1770bb0b-8a32-0af6-ddd9-5047b09e4e26
+ms.date: 06/08/2017
 ---
 
 

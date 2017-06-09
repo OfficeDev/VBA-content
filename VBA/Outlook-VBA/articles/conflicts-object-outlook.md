@@ -3,10 +3,11 @@ title: Conflicts Object (Outlook)
 keywords: vbaol11.chm399
 f1_keywords:
 - vbaol11.chm399
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflicts
 ms.assetid: c4e1c060-519a-a6d1-8fb2-c7dfa1e3e66f
+ms.date: 06/08/2017
 ---
 
 

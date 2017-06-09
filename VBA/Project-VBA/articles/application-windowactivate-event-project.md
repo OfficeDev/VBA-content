@@ -1,9 +1,10 @@
 ---
 title: Application.WindowActivate Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowActivate
 ms.assetid: b54d0956-7eab-db5f-394a-5120bc111afd
+ms.date: 06/08/2017
 ---
 
 

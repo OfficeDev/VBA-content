@@ -3,10 +3,11 @@ title: ShapeRange.RerouteConnections Method (PowerPoint)
 keywords: vbapp10.chm548009
 f1_keywords:
 - vbapp10.chm548009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.RerouteConnections
 ms.assetid: 61db5f5d-74cd-1b9d-1b37-9d33e320cca8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ComboBox.BackStyle Property (Access)
 keywords: vbaac10.chm11405
 f1_keywords:
 - vbaac10.chm11405
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BackStyle
 ms.assetid: 1def822f-6b4a-8384-9d81-72b30e680908
+ms.date: 06/08/2017
 ---
 
 

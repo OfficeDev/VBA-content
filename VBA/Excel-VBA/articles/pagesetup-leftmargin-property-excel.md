@@ -3,10 +3,11 @@ title: PageSetup.LeftMargin Property (Excel)
 keywords: vbaxl10.chm473088
 f1_keywords:
 - vbaxl10.chm473088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.LeftMargin
 ms.assetid: 5d52ca64-6fe7-5c0e-63ab-036aa5119bb2
+ms.date: 06/08/2017
 ---
 
 

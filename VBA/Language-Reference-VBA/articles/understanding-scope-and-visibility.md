@@ -3,8 +3,9 @@ title: Understanding Scope and Visibility
 keywords: vbcn6.chm1076771
 f1_keywords:
 - vbcn6.chm1076771
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 38f2ffcc-1bb6-3e0b-2ea5-3ca2355c8b92
+ms.date: 06/08/2017
 ---
 
 

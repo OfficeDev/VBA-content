@@ -3,10 +3,11 @@ title: WorksheetFunction.EDate Method (Excel)
 keywords: vbaxl10.chm137325
 f1_keywords:
 - vbaxl10.chm137325
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.EDate
 ms.assetid: c3f068c2-f6ef-bcb7-79db-e1de4348038c
+ms.date: 06/08/2017
 ---
 
 

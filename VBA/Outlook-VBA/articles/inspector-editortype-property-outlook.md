@@ -3,10 +3,11 @@ title: Inspector.EditorType Property (Outlook)
 keywords: vbaol11.chm2963
 f1_keywords:
 - vbaol11.chm2963
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.EditorType
 ms.assetid: b19e552b-1e8a-8915-f793-396860910f40
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Style for Intrinsic Constants
 keywords: vbaac10.chm4050
 f1_keywords:
 - vbaac10.chm4050
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6f301835-307b-d0b8-be24-c0fa728cc115
+ms.date: 06/08/2017
 ---
 
 
 # Style for Intrinsic Constants
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

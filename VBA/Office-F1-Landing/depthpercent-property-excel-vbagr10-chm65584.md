@@ -3,8 +3,9 @@ title: DepthPercent Property, Excel [vbagr10.chm65584]
 keywords: vbagr10.chm65584
 f1_keywords:
 - vbagr10.chm65584
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64590801-07b9-4dc4-a094-2202bb50504f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Floor Property
 keywords: vbagr10.chm65619
 f1_keywords:
 - vbagr10.chm65619
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor
 ms.assetid: 1c82553e-7285-c759-416d-4537efd1c9ec
+ms.date: 06/08/2017
 ---
 
 

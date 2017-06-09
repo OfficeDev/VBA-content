@@ -3,10 +3,11 @@ title: OlRemoteStatus Enumeration (Outlook)
 keywords: vbaol11.chm3078
 f1_keywords:
 - vbaol11.chm3078
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlRemoteStatus
 ms.assetid: 2df0404c-26c9-87d4-6916-d75aff8e3fbc
+ms.date: 06/08/2017
 ---
 
 

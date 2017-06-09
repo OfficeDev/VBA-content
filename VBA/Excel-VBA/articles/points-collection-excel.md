@@ -3,8 +3,9 @@ title: Points Collection (Excel)
 keywords: vbagr10.chm5207812
 f1_keywords:
 - vbagr10.chm5207812
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b41c8f08-880e-1f4a-0456-3f77c0741bc6
+ms.date: 06/08/2017
 ---
 
 

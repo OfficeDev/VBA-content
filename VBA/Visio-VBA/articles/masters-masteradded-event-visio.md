@@ -3,10 +3,11 @@ title: Masters.MasterAdded Event (Visio)
 keywords: vis_sdr.chm10819170
 f1_keywords:
 - vis_sdr.chm10819170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.MasterAdded
 ms.assetid: d6374a9e-1c15-73b0-086c-5f511943aeec
+ms.date: 06/08/2017
 ---
 
 

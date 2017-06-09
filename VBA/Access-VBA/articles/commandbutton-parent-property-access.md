@@ -3,10 +3,11 @@ title: CommandButton.Parent Property (Access)
 keywords: vbaac10.chm10439
 f1_keywords:
 - vbaac10.chm10439
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Parent
 ms.assetid: 288169cc-0934-43b0-a7b4-18445844519b
+ms.date: 06/08/2017
 ---
 
 

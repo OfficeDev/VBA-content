@@ -3,10 +3,11 @@ title: Application.WorkbookPivotTableOpenConnection Event (Excel)
 keywords: vbaxl10.chm504096
 f1_keywords:
 - vbaxl10.chm504096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookPivotTableOpenConnection
 ms.assetid: 5f07e995-96fd-86ac-2d1c-1366528fd8c6
+ms.date: 06/08/2017
 ---
 
 

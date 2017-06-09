@@ -3,10 +3,11 @@ title: SharingItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm612
 f1_keywords:
 - vbaol11.chm612
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.MessageClass
 ms.assetid: d2991917-120f-9d69-156f-793e67f45ed9
+ms.date: 06/08/2017
 ---
 
 

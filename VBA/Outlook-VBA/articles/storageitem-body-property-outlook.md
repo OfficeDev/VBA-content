@@ -3,10 +3,11 @@ title: StorageItem.Body Property (Outlook)
 keywords: vbaol11.chm2146
 f1_keywords:
 - vbaol11.chm2146
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Body
 ms.assetid: 6a845494-a40c-7f5e-2d3a-2a43be0f9ae3
+ms.date: 06/08/2017
 ---
 
 

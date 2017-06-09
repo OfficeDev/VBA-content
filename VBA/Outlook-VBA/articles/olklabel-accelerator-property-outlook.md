@@ -3,10 +3,11 @@ title: OlkLabel.Accelerator Property (Outlook)
 keywords: vbaol11.chm1000086
 f1_keywords:
 - vbaol11.chm1000086
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.Accelerator
 ms.assetid: 7d461585-5aa1-81ab-8cec-5e25795e9bea
+ms.date: 06/08/2017
 ---
 
 

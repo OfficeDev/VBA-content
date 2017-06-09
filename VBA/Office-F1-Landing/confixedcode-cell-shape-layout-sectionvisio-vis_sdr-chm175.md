@@ -3,8 +3,9 @@ title: ConFixedCode Cell (Shape Layout Section), Visio [vis_sdr.chm175]
 keywords: vis_sdr.chm175
 f1_keywords:
 - vis_sdr.chm175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2358ea50-864b-4e92-9d6f-6ef2d0353613
+ms.date: 06/08/2017
 ---
 
 

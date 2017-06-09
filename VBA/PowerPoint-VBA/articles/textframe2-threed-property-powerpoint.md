@@ -3,10 +3,11 @@ title: TextFrame2.ThreeD Property (PowerPoint)
 keywords: vbapp10.chm678014
 f1_keywords:
 - vbapp10.chm678014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.ThreeD
 ms.assetid: 18f48799-1ea2-6551-26f1-f02c6c74f368
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SpellingOptions.SuggestMainOnly Property (Excel)
 keywords: vbaxl10.chm717076
 f1_keywords:
 - vbaxl10.chm717076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.SuggestMainOnly
 ms.assetid: f4a5aa0a-78be-bd98-22e8-b85eac0f4428
+ms.date: 06/08/2017
 ---
 
 

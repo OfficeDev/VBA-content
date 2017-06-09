@@ -3,8 +3,9 @@ title: OutlineCode8 Property, Project [vbapj.chm132418]
 keywords: vbapj.chm132418
 f1_keywords:
 - vbapj.chm132418
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e9ad3d6c-aab6-4c07-969e-3391b99b7542
+ms.date: 06/08/2017
 ---
 
 

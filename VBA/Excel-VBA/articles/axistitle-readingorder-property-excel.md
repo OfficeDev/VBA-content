@@ -3,10 +3,11 @@ title: AxisTitle.ReadingOrder Property (Excel)
 keywords: vbaxl10.chm565088
 f1_keywords:
 - vbaxl10.chm565088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.ReadingOrder
 ms.assetid: 5461e0ca-3233-ea24-3774-41c39171afe5
+ms.date: 06/08/2017
 ---
 
 

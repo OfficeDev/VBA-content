@@ -3,8 +3,9 @@ title: Set Control Properties
 keywords: vbapp10.chm5193656
 f1_keywords:
 - vbapp10.chm5193656
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 ms.assetid: a1eda81e-61b3-0bcb-99b8-00e5fbd76f1f
+ms.date: 06/08/2017
 ---
 
 

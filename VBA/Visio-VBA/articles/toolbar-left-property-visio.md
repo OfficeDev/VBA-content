@@ -3,10 +3,11 @@ title: Toolbar.Left Property (Visio)
 keywords: vis_sdr.chm13713825
 f1_keywords:
 - vis_sdr.chm13713825
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbar.Left
 ms.assetid: 2929fef2-0855-dae1-9c60-0208d1de4dee
+ms.date: 06/08/2017
 ---
 
 

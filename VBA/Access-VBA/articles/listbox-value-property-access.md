@@ -3,10 +3,11 @@ title: ListBox.Value Property (Access)
 keywords: vbaac10.chm11217
 f1_keywords:
 - vbaac10.chm11217
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Value
 ms.assetid: 4427ed24-3255-13a2-5b42-6a3d93ed76a9
+ms.date: 06/08/2017
 ---
 
 

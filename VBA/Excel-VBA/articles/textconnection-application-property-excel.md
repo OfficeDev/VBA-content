@@ -3,8 +3,9 @@ title: TextConnection.Application Property (Excel)
 keywords: vbaxl10.chm925073
 f1_keywords:
 - vbaxl10.chm925073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: a3dc9071-4d42-6293-b9df-25dcc84d4ca8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ActiveInspector Method (Outlook)
 keywords: vbaol11.chm713
 f1_keywords:
 - vbaol11.chm713
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.ActiveInspector
 ms.assetid: 3f2b6491-7b4b-8165-327e-b319711d5656
+ms.date: 06/08/2017
 ---
 
 

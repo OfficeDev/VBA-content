@@ -3,10 +3,11 @@ title: Selection.Count Property (Visio)
 keywords: vis_sdr.chm11113330
 f1_keywords:
 - vis_sdr.chm11113330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Count
 ms.assetid: 89432479-5457-838f-a85d-20eb0dd61547
+ms.date: 06/08/2017
 ---
 
 

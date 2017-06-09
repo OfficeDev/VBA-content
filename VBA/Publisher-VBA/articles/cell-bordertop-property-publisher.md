@@ -3,10 +3,11 @@ title: Cell.BorderTop Property (Publisher)
 keywords: vbapb10.chm5111814
 f1_keywords:
 - vbapb10.chm5111814
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderTop
 ms.assetid: 4119fcb7-7662-7ab5-ee56-4ef75aaa2766
+ms.date: 06/08/2017
 ---
 
 

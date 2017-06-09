@@ -1,7 +1,8 @@
 ---
 title: RevisionsFilter Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 245fcfc5-dcd2-935a-8569-51e611e98c45
+ms.date: 06/08/2017
 ---
 
 

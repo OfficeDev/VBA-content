@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Nodes Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 86e02038-d96a-0beb-75da-94eeedb6e256
+ms.date: 06/08/2017
 ---
 
 

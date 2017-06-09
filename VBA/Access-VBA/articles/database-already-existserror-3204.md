@@ -1,13 +1,14 @@
 ---
 title: Database already exists. (Error 3204)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 38352c2c-777d-584b-f921-fb71eeac0a4c
+ms.date: 06/08/2017
 ---
 
 
 # Database already exists. (Error 3204)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

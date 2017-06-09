@@ -3,10 +3,11 @@ title: Attachment.IsVisible Property (Access)
 keywords: vbaac10.chm13936
 f1_keywords:
 - vbaac10.chm13936
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.IsVisible
 ms.assetid: 5f8e4bcc-f304-09df-de50-ca994bb07420
+ms.date: 06/08/2017
 ---
 
 

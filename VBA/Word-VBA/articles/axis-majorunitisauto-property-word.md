@@ -3,10 +3,11 @@ title: Axis.MajorUnitIsAuto Property (Word)
 keywords: vbawd10.chm113049626
 f1_keywords:
 - vbawd10.chm113049626
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MajorUnitIsAuto
 ms.assetid: 582059c6-89d4-cd11-e43c-e9c7988fc765
+ms.date: 06/08/2017
 ---
 
 

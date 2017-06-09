@@ -1,9 +1,10 @@
 ---
 title: Resource.Text28 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text28
 ms.assetid: 37e24f89-de3a-5bb8-5ad1-2fe34339a935
+ms.date: 06/08/2017
 ---
 
 

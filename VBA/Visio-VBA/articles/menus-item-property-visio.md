@@ -3,10 +3,11 @@ title: Menus.Item Property (Visio)
 keywords: vis_sdr.chm13213765
 f1_keywords:
 - vis_sdr.chm13213765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menus.Item
 ms.assetid: 6b09568f-4ae0-1818-b484-456749fe3676
+ms.date: 06/08/2017
 ---
 
 

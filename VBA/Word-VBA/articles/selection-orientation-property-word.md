@@ -3,10 +3,11 @@ title: Selection.Orientation Property (Word)
 keywords: vbawd10.chm158663066
 f1_keywords:
 - vbawd10.chm158663066
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Orientation
 ms.assetid: 830f85de-51bc-1cb9-6312-7e2b2751430d
+ms.date: 06/08/2017
 ---
 
 

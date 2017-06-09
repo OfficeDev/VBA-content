@@ -3,10 +3,11 @@ title: Page.DrawRectangle Method (Visio)
 keywords: vis_sdr.chm10916220
 f1_keywords:
 - vis_sdr.chm10916220
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawRectangle
 ms.assetid: 3ace50fe-cc78-1412-28d6-5bc1dbe73700
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Path/File access error (Error 75), Office Shared [vblr6.chm1000075]
 keywords: vblr6.chm1000075
 f1_keywords:
 - vblr6.chm1000075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 15169808-fcbb-4cc3-b4a4-71df6b529f54
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextRange.BoundLeft Property (PowerPoint)
 keywords: vbapp10.chm569006
 f1_keywords:
 - vbapp10.chm569006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.BoundLeft
 ms.assetid: 2641e084-6b6e-ff6e-c6a6-27cb84cbd4dd
+ms.date: 06/08/2017
 ---
 
 

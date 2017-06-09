@@ -3,14 +3,15 @@ title: Cannot create a relationship on linked ODBC tables. (Error 3613)
 keywords: jeterr40.chm5003613
 f1_keywords:
 - jeterr40.chm5003613
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 05d02797-b618-57ef-129b-2b64f92056c4
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create a relationship on linked ODBC tables. (Error 3613)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

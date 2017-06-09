@@ -3,10 +3,11 @@ title: Page.DropIntoList Method (Visio)
 keywords: vis_sdr.chm10962180
 f1_keywords:
 - vis_sdr.chm10962180
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropIntoList
 ms.assetid: fcefca11-d64b-9f95-a00e-bf9968d26267
+ms.date: 06/08/2017
 ---
 
 

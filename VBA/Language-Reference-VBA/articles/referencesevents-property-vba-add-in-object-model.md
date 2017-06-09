@@ -3,8 +3,9 @@ title: ReferencesEvents Property (VBA Add-In Object Model)
 keywords: vbob6.chm1092849
 f1_keywords:
 - vbob6.chm1092849
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2482995e-ca97-067c-a7ae-cbeca2113199
+ms.date: 06/08/2017
 ---
 
 

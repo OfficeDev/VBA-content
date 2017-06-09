@@ -3,10 +3,11 @@ title: NoteItem.Size Property (Outlook)
 keywords: vbaol11.chm1488
 f1_keywords:
 - vbaol11.chm1488
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Size
 ms.assetid: 8456d0d7-c6fb-64ae-6e52-f98dab86d345
+ms.date: 06/08/2017
 ---
 
 

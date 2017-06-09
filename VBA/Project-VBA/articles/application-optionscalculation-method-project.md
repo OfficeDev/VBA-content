@@ -3,10 +3,11 @@ title: Application.OptionsCalculation Method (Project)
 keywords: vbapj.chm606
 f1_keywords:
 - vbapj.chm606
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsCalculation
 ms.assetid: 608d5bd2-eb6b-0e3c-789a-c376ee55816d
+ms.date: 06/08/2017
 ---
 
 

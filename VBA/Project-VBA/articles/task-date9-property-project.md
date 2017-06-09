@@ -1,9 +1,10 @@
 ---
 title: Task.Date9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Date9
 ms.assetid: f44e530e-6534-b317-6b07-864a415b964b
+ms.date: 06/08/2017
 ---
 
 

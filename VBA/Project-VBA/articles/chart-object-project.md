@@ -1,7 +1,8 @@
 ---
 title: Chart Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 810d4ec1-69d2-c432-b9da-57042b783b85
+ms.date: 06/08/2017
 ---
 
 

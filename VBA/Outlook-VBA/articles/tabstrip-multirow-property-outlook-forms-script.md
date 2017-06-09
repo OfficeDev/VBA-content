@@ -1,7 +1,8 @@
 ---
 title: TabStrip.MultiRow Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 09dc5bcc-4425-8f37-24fa-3b74af0e4605
+ms.date: 06/08/2017
 ---
 
 

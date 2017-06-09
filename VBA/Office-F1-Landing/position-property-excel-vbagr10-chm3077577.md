@@ -3,8 +3,9 @@ title: Position Property, Excel [vbagr10.chm3077577]
 keywords: vbagr10.chm3077577
 f1_keywords:
 - vbagr10.chm3077577
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 542a40c8-1da4-4303-8422-84421b7504dc
+ms.date: 06/08/2017
 ---
 
 

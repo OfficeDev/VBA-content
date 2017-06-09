@@ -3,10 +3,11 @@ title: WebTextBox.DefaultText Property (Publisher)
 keywords: vbapb10.chm4194307
 f1_keywords:
 - vbapb10.chm4194307
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.DefaultText
 ms.assetid: 348c1bc2-61c9-f89f-5e7a-b73ddaa3d216
+ms.date: 06/08/2017
 ---
 
 

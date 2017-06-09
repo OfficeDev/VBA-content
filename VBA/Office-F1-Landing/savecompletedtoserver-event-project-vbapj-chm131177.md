@@ -3,8 +3,9 @@ title: SaveCompletedToServer Event, Project [vbapj.chm131177]
 keywords: vbapj.chm131177
 f1_keywords:
 - vbapj.chm131177
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20bef3e3-531e-44db-9fae-b25eef661e82
+ms.date: 06/08/2017
 ---
 
 

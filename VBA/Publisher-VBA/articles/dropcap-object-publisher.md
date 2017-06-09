@@ -3,10 +3,11 @@ title: DropCap Object (Publisher)
 keywords: vbapb10.chm5570559
 f1_keywords:
 - vbapb10.chm5570559
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap
 ms.assetid: 7c6aeffe-cf25-a834-52de-5966df5e21d2
+ms.date: 06/08/2017
 ---
 
 

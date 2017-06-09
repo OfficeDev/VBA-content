@@ -3,10 +3,11 @@ title: LegendEntry.Application Property (PowerPoint)
 keywords: vbapp10.chm711002
 f1_keywords:
 - vbapp10.chm711002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Application
 ms.assetid: 81246fca-2de9-5448-3c41-9e08df6f2ec1
+ms.date: 06/08/2017
 ---
 
 

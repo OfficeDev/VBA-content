@@ -3,10 +3,11 @@ title: ShapeRange.Group Method (Excel)
 keywords: vbaxl10.chm640086
 f1_keywords:
 - vbaxl10.chm640086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Group
 ms.assetid: f0ad9b81-42ad-0ee6-d2e2-ff2a88d47a97
+ms.date: 06/08/2017
 ---
 
 

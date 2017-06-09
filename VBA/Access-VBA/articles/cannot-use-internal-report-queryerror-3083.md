@@ -3,14 +3,15 @@ title: Cannot use internal report query. (Error 3083)
 keywords: jeterr40.chm5003083
 f1_keywords:
 - jeterr40.chm5003083
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 52d419c0-5efe-be8c-285f-dbe496ba188f
+ms.date: 06/08/2017
 ---
 
 
 # Cannot use internal report query. (Error 3083)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

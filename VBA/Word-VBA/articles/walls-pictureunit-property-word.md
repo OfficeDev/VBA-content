@@ -3,10 +3,11 @@ title: Walls.PictureUnit Property (Word)
 keywords: vbawd10.chm25165986
 f1_keywords:
 - vbawd10.chm25165986
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.PictureUnit
 ms.assetid: e95e12b5-f383-48ef-5ee2-d552bef3f94d
+ms.date: 06/08/2017
 ---
 
 

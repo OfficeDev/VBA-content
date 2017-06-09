@@ -3,10 +3,11 @@ title: Shape.SetBegin Method (Visio)
 keywords: vis_sdr.chm11216550
 f1_keywords:
 - vis_sdr.chm11216550
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SetBegin
 ms.assetid: 257a6ec4-b9c4-4c42-3c57-6e53c1d4d526
+ms.date: 06/08/2017
 ---
 
 

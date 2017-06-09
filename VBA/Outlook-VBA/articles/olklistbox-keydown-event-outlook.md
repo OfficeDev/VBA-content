@@ -3,10 +3,11 @@ title: OlkListBox.KeyDown Event (Outlook)
 keywords: vbaol11.chm1000287
 f1_keywords:
 - vbaol11.chm1000287
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.KeyDown
 ms.assetid: 9b91fbfd-df9f-125e-cda5-34d2a69624bd
+ms.date: 06/08/2017
 ---
 
 

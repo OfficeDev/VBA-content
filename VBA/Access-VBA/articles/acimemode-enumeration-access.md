@@ -3,10 +3,11 @@ title: AcImeMode Enumeration (Access)
 keywords: vbaac10.chm10033
 f1_keywords:
 - vbaac10.chm10033
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcImeMode
 ms.assetid: d84e71fb-996e-f1c3-f386-eefd18da98db
+ms.date: 06/08/2017
 ---
 
 

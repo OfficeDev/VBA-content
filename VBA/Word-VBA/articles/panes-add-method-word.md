@@ -3,10 +3,11 @@ title: Panes.Add Method (Word)
 keywords: vbawd10.chm157220867
 f1_keywords:
 - vbawd10.chm157220867
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Panes.Add
 ms.assetid: 34dba7e0-cb4f-0482-c8c5-cc3d54cacc9c
+ms.date: 06/08/2017
 ---
 
 

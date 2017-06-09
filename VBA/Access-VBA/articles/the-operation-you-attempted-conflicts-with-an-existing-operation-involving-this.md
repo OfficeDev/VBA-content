@@ -3,14 +3,15 @@ title: The operation you attempted conflicts with an existing operation involvin
 keywords: jeterr40.chm5003460
 f1_keywords:
 - jeterr40.chm5003460
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 883e372a-38fc-da07-5602-bd26e82cdade
+ms.date: 06/08/2017
 ---
 
 
 # The operation you attempted conflicts with an existing operation involving this member of the replica set. (Error 3460)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

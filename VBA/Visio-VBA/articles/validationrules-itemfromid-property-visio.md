@@ -3,10 +3,11 @@ title: ValidationRules.ItemFromID Property (Visio)
 keywords: vis_sdr.chm18313775
 f1_keywords:
 - vis_sdr.chm18313775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRules.ItemFromID
 ms.assetid: ad4ee749-385d-4e08-de81-202e46ffda8f
+ms.date: 06/08/2017
 ---
 
 

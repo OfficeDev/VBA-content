@@ -3,10 +3,11 @@ title: CalendarSharing.ForwardAsICal Method (Outlook)
 keywords: vbaol11.chm2412
 f1_keywords:
 - vbaol11.chm2412
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.ForwardAsICal
 ms.assetid: b796a573-784b-6725-535e-fd156a3f233c
+ms.date: 06/08/2017
 ---
 
 

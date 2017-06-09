@@ -3,10 +3,11 @@ title: Column.SetWidth Method (Word)
 keywords: vbawd10.chm156172489
 f1_keywords:
 - vbawd10.chm156172489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.SetWidth
 ms.assetid: fd42d86d-53a4-c05d-81c3-add15cf05766
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Min, Max Functions (Microsoft Access SQL)
 keywords: jetsql40.chm5278826
 f1_keywords:
 - jetsql40.chm5278826
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5ac77377-1f6a-7b4f-ecbb-5480bc5a3187
+ms.date: 06/08/2017
 ---
 
 
 # Min, Max Functions (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

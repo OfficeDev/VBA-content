@@ -3,10 +3,11 @@ title: Report.DrawWidth Property (Access)
 keywords: vbaac10.chm13755
 f1_keywords:
 - vbaac10.chm13755
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.DrawWidth
 ms.assetid: 1bda5387-9244-f150-2165-8dba1684ca25
+ms.date: 06/08/2017
 ---
 
 

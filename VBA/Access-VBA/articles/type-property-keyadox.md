@@ -1,13 +1,14 @@
 ---
 title: Type Property (Key) (ADOX)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 119a39e3-a397-1afb-2588-8129140810bf
+ms.date: 06/08/2017
 ---
 
 
 # Type Property (Key) (ADOX)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: ShadowFormat.ForeColor Property (Publisher)
 keywords: vbapb10.chm3670272
 f1_keywords:
 - vbapb10.chm3670272
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.ForeColor
 ms.assetid: 1ff2210f-1ab4-e991-746b-d4383a87c9e8
+ms.date: 06/08/2017
 ---
 
 

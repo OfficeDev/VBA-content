@@ -3,10 +3,11 @@ title: Line.EventProcPrefix Property (Access)
 keywords: vbaac10.chm10326
 f1_keywords:
 - vbaac10.chm10326
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.EventProcPrefix
 ms.assetid: d275d05d-5b38-d358-ebf1-3e3210afe704
+ms.date: 06/08/2017
 ---
 
 

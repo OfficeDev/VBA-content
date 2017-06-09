@@ -1,13 +1,14 @@
 ---
 title: Format Property - Date/Time Data Type
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d043c816-aefe-4881-90bd-59dcbb3b28da
+ms.date: 06/08/2017
 ---
 
 
 # Format Property - Date/Time Data Type
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

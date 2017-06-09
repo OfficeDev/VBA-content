@@ -3,10 +3,11 @@ title: PictureFormat.ClearCrop Method (Publisher)
 keywords: vbapb10.chm3604806
 f1_keywords:
 - vbapb10.chm3604806
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.ClearCrop
 ms.assetid: 63a99182-d38a-6666-27ee-2641e5c43867
+ms.date: 06/08/2017
 ---
 
 

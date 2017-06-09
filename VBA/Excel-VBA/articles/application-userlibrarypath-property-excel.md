@@ -3,10 +3,11 @@ title: Application.UserLibraryPath Property (Excel)
 keywords: vbaxl10.chm133249
 f1_keywords:
 - vbaxl10.chm133249
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.UserLibraryPath
 ms.assetid: 48e66da8-4db9-1262-9c0b-3a7f9f8e43ae
+ms.date: 06/08/2017
 ---
 
 

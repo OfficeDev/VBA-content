@@ -3,10 +3,11 @@ title: Sheets.Parent Property (Excel)
 keywords: vbaxl10.chm151075
 f1_keywords:
 - vbaxl10.chm151075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.Parent
 ms.assetid: 6dc641aa-b501-5934-cb64-be277af222c8
+ms.date: 06/08/2017
 ---
 
 

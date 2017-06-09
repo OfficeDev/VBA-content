@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowOpen Event (PowerPoint)
 keywords: vbapp10.chm621026
 f1_keywords:
 - vbapp10.chm621026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ProtectedViewWindowOpen
 ms.assetid: 642a0f98-7ff9-daea-33ad-a893a65b9782
+ms.date: 06/08/2017
 ---
 
 

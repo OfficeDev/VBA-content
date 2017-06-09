@@ -3,10 +3,11 @@ title: ComboBox.OnKeyDown Property (Access)
 keywords: vbaac10.chm11460
 f1_keywords:
 - vbaac10.chm11460
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnKeyDown
 ms.assetid: 49921f2f-abab-692f-52ca-bbdf2ce04ae3
+ms.date: 06/08/2017
 ---
 
 

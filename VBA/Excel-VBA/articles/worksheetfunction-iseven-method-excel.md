@@ -3,10 +3,11 @@ title: WorksheetFunction.IsEven Method (Excel)
 keywords: vbaxl10.chm137297
 f1_keywords:
 - vbaxl10.chm137297
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsEven
 ms.assetid: a2abc4e5-8da1-2b43-e8a4-9c6efed1cd83
+ms.date: 06/08/2017
 ---
 
 

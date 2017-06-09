@@ -3,8 +3,9 @@ title: Problem getting printer information from the system; make sure the printe
 keywords: vblr6.chm1117800
 f1_keywords:
 - vblr6.chm1117800
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d7f17957-db8d-c8dc-f4e2-88858e15621d
+ms.date: 06/08/2017
 ---
 
 

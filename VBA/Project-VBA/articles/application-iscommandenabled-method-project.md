@@ -3,10 +3,11 @@ title: Application.IsCommandEnabled Method (Project)
 keywords: vbapj.chm131102
 f1_keywords:
 - vbapj.chm131102
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.IsCommandEnabled
 ms.assetid: 22202fed-7531-0f87-0e38-3ee703717ec1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ColorScaleCriterion Object (Excel)
 keywords: vbaxl10.chm808072
 f1_keywords:
 - vbaxl10.chm808072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScaleCriterion
 ms.assetid: 8b7ffd61-b843-3995-d872-e07d35adfedc
+ms.date: 06/08/2017
 ---
 
 

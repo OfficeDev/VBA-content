@@ -3,10 +3,11 @@ title: System.Parent Property (Word)
 keywords: vbawd10.chm154469354
 f1_keywords:
 - vbawd10.chm154469354
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Parent
 ms.assetid: c8750254-5f59-1ef9-b9c5-c14ec999b20d
+ms.date: 06/08/2017
 ---
 
 

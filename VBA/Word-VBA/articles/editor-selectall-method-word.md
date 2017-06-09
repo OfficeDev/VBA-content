@@ -3,10 +3,11 @@ title: Editor.SelectAll Method (Word)
 keywords: vbawd10.chm225575414
 f1_keywords:
 - vbawd10.chm225575414
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editor.SelectAll
 ms.assetid: b436cd25-ae9e-9344-4279-4600f0df9433
+ms.date: 06/08/2017
 ---
 
 

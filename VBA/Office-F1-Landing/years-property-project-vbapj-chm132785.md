@@ -3,8 +3,9 @@ title: Years Property, Project [vbapj.chm132785]
 keywords: vbapj.chm132785
 f1_keywords:
 - vbapj.chm132785
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 948a2f7c-22f2-4ccf-9163-cccf4b3ce570
+ms.date: 06/08/2017
 ---
 
 

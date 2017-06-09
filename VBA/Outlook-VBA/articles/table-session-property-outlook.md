@@ -3,10 +3,11 @@ title: Table.Session Property (Outlook)
 keywords: vbaol11.chm2226
 f1_keywords:
 - vbaol11.chm2226
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.Session
 ms.assetid: 8a17876d-6637-f30b-6c0f-32cfc8b77d51
+ms.date: 06/08/2017
 ---
 
 

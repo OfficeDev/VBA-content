@@ -3,10 +3,11 @@ title: PivotCache.Version Property (Excel)
 keywords: vbaxl10.chm227108
 f1_keywords:
 - vbaxl10.chm227108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.Version
 ms.assetid: 357f61a1-7401-46c1-2a47-4172fb045cd5
+ms.date: 06/08/2017
 ---
 
 

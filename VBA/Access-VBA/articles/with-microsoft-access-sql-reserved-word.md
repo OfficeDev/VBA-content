@@ -3,14 +3,15 @@ title: WITH (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277616
 f1_keywords:
 - jetsql40.chm5277616
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3defe4ed-e0ad-8821-3a6e-7b0fcf837a2c
+ms.date: 06/08/2017
 ---
 
 
 # WITH (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

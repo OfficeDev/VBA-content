@@ -3,10 +3,11 @@ title: Charts.Parent Property (Excel)
 keywords: vbaxl10.chm216075
 f1_keywords:
 - vbaxl10.chm216075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Charts.Parent
 ms.assetid: 4b56eb5c-5057-ca80-e32f-ea82f37c3b2d
+ms.date: 06/08/2017
 ---
 
 

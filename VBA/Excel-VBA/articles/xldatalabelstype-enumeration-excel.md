@@ -1,9 +1,10 @@
 ---
 title: XlDataLabelsType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataLabelsType
 ms.assetid: 42f5e60d-6f12-7f12-47af-2a81577c60d5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.EndUndoScope Method (Visio)
 keywords: vis_sdr.chm17516250
 f1_keywords:
 - vis_sdr.chm17516250
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.EndUndoScope
 ms.assetid: 307287e8-3300-457a-bf00-c24b59eb0cac
+ms.date: 06/08/2017
 ---
 
 

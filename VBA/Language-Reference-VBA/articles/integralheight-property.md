@@ -3,10 +3,11 @@ title: IntegralHeight Property
 keywords: fm20.chm2001320
 f1_keywords:
 - fm20.chm2001320
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IntegralHeight
 ms.assetid: 1aeec970-ef48-a9e8-f130-1ac51c61d026
+ms.date: 06/08/2017
 ---
 
 

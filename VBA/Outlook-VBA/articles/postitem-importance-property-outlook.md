@@ -3,10 +3,11 @@ title: PostItem.Importance Property (Outlook)
 keywords: vbaol11.chm1525
 f1_keywords:
 - vbaol11.chm1525
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Importance
 ms.assetid: 5dec7ffe-665f-024c-17e4-85b3f4b57ff7
+ms.date: 06/08/2017
 ---
 
 

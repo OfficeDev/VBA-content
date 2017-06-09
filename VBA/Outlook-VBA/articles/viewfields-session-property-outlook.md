@@ -3,10 +3,11 @@ title: ViewFields.Session Property (Outlook)
 keywords: vbaol11.chm2548
 f1_keywords:
 - vbaol11.chm2548
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFields.Session
 ms.assetid: 480ac826-b966-9204-8850-214b53a1b0da
+ms.date: 06/08/2017
 ---
 
 

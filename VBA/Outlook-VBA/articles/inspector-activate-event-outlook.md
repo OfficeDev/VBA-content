@@ -3,10 +3,11 @@ title: Inspector.Activate Event (Outlook)
 keywords: vbaol11.chm465
 f1_keywords:
 - vbaol11.chm465
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.Activate
 ms.assetid: 5a1021ab-9a55-b039-8c13-d75c9fdb45fe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.SetContainerFormat Method (Visio)
 keywords: vis_sdr.chm11162235
 f1_keywords:
 - vis_sdr.chm11162235
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.SetContainerFormat
 ms.assetid: b0766138-07da-4539-b254-7692529e0771
+ms.date: 06/08/2017
 ---
 
 

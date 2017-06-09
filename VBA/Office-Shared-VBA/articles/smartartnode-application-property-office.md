@@ -1,9 +1,10 @@
 ---
 title: SmartArtNode.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNode.Application
 ms.assetid: c934623d-49af-93ff-15cd-af1aacff2ef5
+ms.date: 06/08/2017
 ---
 
 

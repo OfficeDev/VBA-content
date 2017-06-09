@@ -3,10 +3,11 @@ title: TextFrame.HasText Property (Publisher)
 keywords: vbapb10.chm3866642
 f1_keywords:
 - vbapb10.chm3866642
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.HasText
 ms.assetid: f8d1c660-c3f1-e835-adc3-114e6611de98
+ms.date: 06/08/2017
 ---
 
 

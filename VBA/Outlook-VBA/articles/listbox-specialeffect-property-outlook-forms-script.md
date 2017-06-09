@@ -1,7 +1,8 @@
 ---
 title: ListBox.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d461a449-844e-2cd1-f2ca-a43849e987fa
+ms.date: 06/08/2017
 ---
 
 

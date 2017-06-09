@@ -3,8 +3,9 @@ title: TotalSlack Property, Project [vbapj.chm132763]
 keywords: vbapj.chm132763
 f1_keywords:
 - vbapj.chm132763
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 776058c0-355a-4fa5-bf94-bf705d582d57
+ms.date: 06/08/2017
 ---
 
 

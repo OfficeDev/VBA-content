@@ -3,10 +3,11 @@ title: Borders.Application Property (Excel)
 keywords: vbaxl10.chm180073
 f1_keywords:
 - vbaxl10.chm180073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Borders.Application
 ms.assetid: bba16d88-5609-3792-3ace-9928fdaccd98
+ms.date: 06/08/2017
 ---
 
 

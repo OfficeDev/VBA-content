@@ -3,10 +3,11 @@ title: WebServices.Parent Property (Access)
 keywords: vbaac10.chm14552
 f1_keywords:
 - vbaac10.chm14552
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebServices.Parent
 ms.assetid: 3ec4901d-1ea6-bd4a-bbce-65997104c97a
+ms.date: 06/08/2017
 ---
 
 

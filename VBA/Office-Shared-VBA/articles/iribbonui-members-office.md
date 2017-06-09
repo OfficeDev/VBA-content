@@ -1,7 +1,8 @@
 ---
 title: IRibbonUI Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6f6ec3b-3132-da29-ea08-70f20923d013
+ms.date: 06/08/2017
 ---
 
 

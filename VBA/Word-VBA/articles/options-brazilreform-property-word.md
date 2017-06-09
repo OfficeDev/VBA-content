@@ -3,10 +3,11 @@ title: Options.BrazilReform Property (Word)
 keywords: vbawd10.chm162988534
 f1_keywords:
 - vbawd10.chm162988534
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.BrazilReform
 ms.assetid: aaab4a4b-bf22-7447-8056-4c05c1bddae4
+ms.date: 06/08/2017
 ---
 
 

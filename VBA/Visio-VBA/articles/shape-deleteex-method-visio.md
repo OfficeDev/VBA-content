@@ -3,10 +3,11 @@ title: Shape.DeleteEx Method (Visio)
 keywords: vis_sdr.chm11262730
 f1_keywords:
 - vis_sdr.chm11262730
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DeleteEx
 ms.assetid: df4c164d-576a-acce-3322-7f166eb81e4f
+ms.date: 06/08/2017
 ---
 
 

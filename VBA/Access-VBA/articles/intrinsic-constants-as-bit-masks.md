@@ -3,14 +3,15 @@ title: Intrinsic Constants as Bit Masks
 keywords: vbaac10.chm13876
 f1_keywords:
 - vbaac10.chm13876
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2f339b2c-d078-aedd-0ebd-8d04877cbf9a
+ms.date: 06/08/2017
 ---
 
 
 # Intrinsic Constants as Bit Masks
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

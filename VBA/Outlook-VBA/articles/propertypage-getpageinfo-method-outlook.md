@@ -3,10 +3,11 @@ title: PropertyPage.GetPageInfo Method (Outlook)
 keywords: vbaol11.chm381
 f1_keywords:
 - vbaol11.chm381
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPage.GetPageInfo
 ms.assetid: 39243864-a81a-eaa6-965d-c1a5ac5ac781
+ms.date: 06/08/2017
 ---
 
 

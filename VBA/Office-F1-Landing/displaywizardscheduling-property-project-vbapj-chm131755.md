@@ -3,8 +3,9 @@ title: DisplayWizardScheduling Property, Project [vbapj.chm131755]
 keywords: vbapj.chm131755
 f1_keywords:
 - vbapj.chm131755
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61622817-8b44-449d-a5e3-d719d1d81c5e
+ms.date: 06/08/2017
 ---
 
 

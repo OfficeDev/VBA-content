@@ -3,8 +3,9 @@ title: Class is not set (Error 31018)
 keywords: vblr6.chm1117833
 f1_keywords:
 - vblr6.chm1117833
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 783d9a10-e857-60dd-d37a-9a38066ed85a
+ms.date: 06/08/2017
 ---
 
 

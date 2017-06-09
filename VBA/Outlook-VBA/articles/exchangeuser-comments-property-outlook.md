@@ -3,10 +3,11 @@ title: ExchangeUser.Comments Property (Outlook)
 keywords: vbaol11.chm2089
 f1_keywords:
 - vbaol11.chm2089
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Comments
 ms.assetid: b55f865c-c564-f209-7648-9977512dd5a5
+ms.date: 06/08/2017
 ---
 
 

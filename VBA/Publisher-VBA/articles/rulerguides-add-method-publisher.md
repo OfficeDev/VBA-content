@@ -3,10 +3,11 @@ title: RulerGuides.Add Method (Publisher)
 keywords: vbapb10.chm720900
 f1_keywords:
 - vbapb10.chm720900
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Add
 ms.assetid: 3986452a-73da-04c2-4e11-8369d61cd974
+ms.date: 06/08/2017
 ---
 
 

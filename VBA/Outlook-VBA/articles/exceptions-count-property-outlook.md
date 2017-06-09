@@ -3,10 +3,11 @@ title: Exceptions.Count Property (Outlook)
 keywords: vbaol11.chm294
 f1_keywords:
 - vbaol11.chm294
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Exceptions.Count
 ms.assetid: a31d20ec-1013-b4fe-180d-b3540fbaac10
+ms.date: 06/08/2017
 ---
 
 

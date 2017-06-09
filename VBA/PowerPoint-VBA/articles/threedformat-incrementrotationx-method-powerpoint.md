@@ -3,10 +3,11 @@ title: ThreeDFormat.IncrementRotationX Method (PowerPoint)
 keywords: vbapp10.chm557002
 f1_keywords:
 - vbapp10.chm557002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationX
 ms.assetid: 39f421e7-93d6-0744-9065-ac4d95738879
+ms.date: 06/08/2017
 ---
 
 

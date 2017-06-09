@@ -1,9 +1,10 @@
 ---
 title: ChartGroup.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Parent
 ms.assetid: 32e168a5-a708-917e-c892-285a4dffc075
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.Binom_Dist Method (Excel)
 keywords: vbaxl10.chm137414
 f1_keywords:
 - vbaxl10.chm137414
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Binom_Dist
 ms.assetid: acd56b17-5304-0095-2696-11797df056ca
+ms.date: 06/08/2017
 ---
 
 

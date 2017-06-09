@@ -3,10 +3,11 @@ title: CoAuthoring.Creator Property (Word)
 keywords: vbawd10.chm254870505
 f1_keywords:
 - vbawd10.chm254870505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.Creator
 ms.assetid: 4804b839-9eaa-438a-745b-16f7b55c8e1f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FormatConditions.AddUniqueValues Method (Excel)
 keywords: vbaxl10.chm510084
 f1_keywords:
 - vbaxl10.chm510084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddUniqueValues
 ms.assetid: 9cff98a9-7d7b-81ed-54b1-5919e681f904
+ms.date: 06/08/2017
 ---
 
 

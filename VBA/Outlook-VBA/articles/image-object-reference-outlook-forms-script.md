@@ -1,7 +1,8 @@
 ---
 title: Image Object Reference (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 74d4a032-5572-4bda-afb2-e9f743f39a09
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.MustFlushScopeEnded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MustFlushScopeEnded
 ms.assetid: de6fbf0d-25cf-e1e4-7d9f-e0a0e302e729
+ms.date: 06/08/2017
 ---
 
 

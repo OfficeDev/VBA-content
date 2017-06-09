@@ -3,10 +3,11 @@ title: ContentControlListEntry.Delete Method (Word)
 keywords: vbawd10.chm147456106
 f1_keywords:
 - vbawd10.chm147456106
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntry.Delete
 ms.assetid: fa28888a-6542-9216-e444-d43b2464cf65
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: VisWebPageSettings.StoreInFolder Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.StoreInFolder
 ms.assetid: ed0cf76a-a68d-cfa7-538c-91df5234a0d0
+ms.date: 06/08/2017
 ---
 
 

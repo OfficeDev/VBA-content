@@ -3,10 +3,11 @@ title: AutoRecover Object (Excel)
 keywords: vbaxl10.chm695072
 f1_keywords:
 - vbaxl10.chm695072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoRecover
 ms.assetid: 02fb24e7-4823-7e52-79d7-3d2726f31227
+ms.date: 06/08/2017
 ---
 
 

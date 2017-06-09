@@ -3,10 +3,11 @@ title: Replacement.Style Property (Word)
 keywords: vbawd10.chm162594828
 f1_keywords:
 - vbawd10.chm162594828
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.Style
 ms.assetid: 4cf38f58-e50b-d39c-18f7-4fb35c8c0575
+ms.date: 06/08/2017
 ---
 
 

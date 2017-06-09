@@ -3,10 +3,11 @@ title: Shape.TextEffect Property (Excel)
 keywords: vbaxl10.chm636108
 f1_keywords:
 - vbaxl10.chm636108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.TextEffect
 ms.assetid: 4e2920c3-340c-c113-2667-4d4779cfb59f
+ms.date: 06/08/2017
 ---
 
 

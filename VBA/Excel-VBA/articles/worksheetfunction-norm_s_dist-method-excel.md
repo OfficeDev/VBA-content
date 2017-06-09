@@ -3,10 +3,11 @@ title: WorksheetFunction.Norm_S_Dist Method (Excel)
 keywords: vbaxl10.chm137410
 f1_keywords:
 - vbaxl10.chm137410
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_S_Dist
 ms.assetid: ea17ac4a-82dc-ce24-0b3f-dc0452d805c6
+ms.date: 06/08/2017
 ---
 
 

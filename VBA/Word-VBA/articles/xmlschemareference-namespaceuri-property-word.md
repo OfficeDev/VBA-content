@@ -3,10 +3,11 @@ title: XMLSchemaReference.NamespaceURI Property (Word)
 keywords: vbawd10.chm32505858
 f1_keywords:
 - vbawd10.chm32505858
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReference.NamespaceURI
 ms.assetid: 4081b67e-45d9-13f4-4faa-bcd92c2533b6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.Layout Method (Visio)
 keywords: vis_sdr.chm10916385
 f1_keywords:
 - vis_sdr.chm10916385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Layout
 ms.assetid: 3611d496-ecb9-674e-b435-8462d55f7256
+ms.date: 06/08/2017
 ---
 
 

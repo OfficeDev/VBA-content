@@ -1,7 +1,8 @@
 ---
 title: Add a Form Region to an Existing Page on a Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3c988dac-f171-966d-cf9a-17139353d604
+ms.date: 06/08/2017
 ---
 
 

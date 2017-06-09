@@ -3,8 +3,9 @@ title: "'Item' will not be loaded. Name is already in use, Office Shared [vblr6.
 keywords: vblr6.chm1117758
 f1_keywords:
 - vblr6.chm1117758
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 124b4681-937c-43c3-ba53-072012d8707d
+ms.date: 06/08/2017
 ---
 
 

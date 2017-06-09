@@ -3,10 +3,11 @@ title: Editor.NextRange Property (Word)
 keywords: vbawd10.chm225575015
 f1_keywords:
 - vbawd10.chm225575015
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editor.NextRange
 ms.assetid: 64c34fd4-2ce8-7d86-0981-1266fe0c7d56
+ms.date: 06/08/2017
 ---
 
 

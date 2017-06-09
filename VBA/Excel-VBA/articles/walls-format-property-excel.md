@@ -3,10 +3,11 @@ title: Walls.Format Property (Excel)
 keywords: vbaxl10.chm614084
 f1_keywords:
 - vbaxl10.chm614084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Walls.Format
 ms.assetid: 5ebe74b5-19b7-ac17-e24e-788a47dbb767
+ms.date: 06/08/2017
 ---
 
 

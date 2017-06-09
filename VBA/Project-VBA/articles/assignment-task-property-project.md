@@ -1,9 +1,10 @@
 ---
 title: Assignment.Task Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Task
 ms.assetid: e86d5f79-1e8f-5416-8795-db31cb50eede
+ms.date: 06/08/2017
 ---
 
 

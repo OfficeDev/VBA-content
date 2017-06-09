@@ -3,10 +3,11 @@ title: MailItem.Attachments Property (Outlook)
 keywords: vbaol11.chm1295
 f1_keywords:
 - vbaol11.chm1295
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Attachments
 ms.assetid: 71f82397-00f3-5660-1211-ebf8b229fff3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Object doesn't support this property or method (Error 438)
 keywords: vblr6.chm1011328
 f1_keywords:
 - vblr6.chm1011328
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0fbab746-dc6d-b227-429a-1f56bb4ca448
+ms.date: 06/08/2017
 ---
 
 

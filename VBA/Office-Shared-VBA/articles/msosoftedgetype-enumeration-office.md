@@ -1,9 +1,10 @@
 ---
 title: MsoSoftEdgeType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoSoftEdgeType
 ms.assetid: 4c5b91d0-b7be-021c-3fa8-ef510a225b7e
+ms.date: 06/08/2017
 ---
 
 

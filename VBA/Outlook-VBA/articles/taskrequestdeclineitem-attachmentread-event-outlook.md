@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentRead
 ms.assetid: 96131b01-5d23-d5d6-e6d4-df6c2e88fe3a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Sections.Add Method (Publisher)
 keywords: vbapb10.chm7340038
 f1_keywords:
 - vbapb10.chm7340038
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Sections.Add
 ms.assetid: d5343281-375a-4817-8353-a3fa8925a2ce
+ms.date: 06/08/2017
 ---
 
 

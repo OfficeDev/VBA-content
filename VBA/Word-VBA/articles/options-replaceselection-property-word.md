@@ -3,10 +3,11 @@ title: Options.ReplaceSelection Property (Word)
 keywords: vbawd10.chm162988099
 f1_keywords:
 - vbawd10.chm162988099
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ReplaceSelection
 ms.assetid: d1bef8ec-02e0-5f69-13af-0fdd758b3f0c
+ms.date: 06/08/2017
 ---
 
 

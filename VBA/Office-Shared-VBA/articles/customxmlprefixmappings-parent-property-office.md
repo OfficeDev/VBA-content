@@ -3,10 +3,11 @@ title: CustomXMLPrefixMappings.Parent Property (Office)
 keywords: vbaof11.chm290001
 f1_keywords:
 - vbaof11.chm290001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.Parent
 ms.assetid: 0e8919f7-4b5e-e951-91e6-c762659ea7e4
+ms.date: 06/08/2017
 ---
 
 

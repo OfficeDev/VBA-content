@@ -3,10 +3,11 @@ title: Style.ReadingOrder Property (Excel)
 keywords: vbaxl10.chm177100
 f1_keywords:
 - vbaxl10.chm177100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.ReadingOrder
 ms.assetid: 359c53dc-1bee-b7dc-b657-a5db63980277
+ms.date: 06/08/2017
 ---
 
 

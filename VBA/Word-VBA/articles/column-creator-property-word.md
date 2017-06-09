@@ -3,10 +3,11 @@ title: Column.Creator Property (Word)
 keywords: vbawd10.chm156173289
 f1_keywords:
 - vbawd10.chm156173289
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Creator
 ms.assetid: cadc230a-006c-6b2c-4ae0-115652f5280a
+ms.date: 06/08/2017
 ---
 
 

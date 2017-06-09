@@ -3,8 +3,9 @@ title: ConstraintType Property, Project [vbapj.chm131654]
 keywords: vbapj.chm131654
 f1_keywords:
 - vbapj.chm131654
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a94f0087-d3bf-4b72-89f1-f6ec32a9e8fa
+ms.date: 06/08/2017
 ---
 
 

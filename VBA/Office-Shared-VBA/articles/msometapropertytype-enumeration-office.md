@@ -1,9 +1,10 @@
 ---
 title: MsoMetaPropertyType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoMetaPropertyType
 ms.assetid: c1642d31-698c-332f-d7df-eefa9f890a83
+ms.date: 06/08/2017
 ---
 
 

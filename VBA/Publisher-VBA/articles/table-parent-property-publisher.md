@@ -3,10 +3,11 @@ title: Table.Parent Property (Publisher)
 keywords: vbapb10.chm4784133
 f1_keywords:
 - vbapb10.chm4784133
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table.Parent
 ms.assetid: e7c02be8-1888-4817-05bf-75b030e597fc
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MsoBulletType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoBulletType
 ms.assetid: 31a0b338-0854-f959-5990-d50b304691b2
+ms.date: 06/08/2017
 ---
 
 

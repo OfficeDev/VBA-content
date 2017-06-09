@@ -3,8 +3,9 @@ title: BulletSize Cell (Paragraph Section), Visio [vis_sdr.chm60024]
 keywords: vis_sdr.chm60024
 f1_keywords:
 - vis_sdr.chm60024
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6db0dd43-87d4-475c-ad4f-978128e70486
+ms.date: 06/08/2017
 ---
 
 

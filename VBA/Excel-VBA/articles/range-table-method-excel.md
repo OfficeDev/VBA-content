@@ -3,10 +3,11 @@ title: Range.Table Method (Excel)
 keywords: vbaxl10.chm144208
 f1_keywords:
 - vbaxl10.chm144208
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Table
 ms.assetid: 804b0e1d-e92d-387d-1054-90643bfd16ff
+ms.date: 06/08/2017
 ---
 
 

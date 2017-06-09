@@ -3,10 +3,11 @@ title: Application.FileCloseAllEx Method (Project)
 keywords: vbapj.chm104
 f1_keywords:
 - vbapj.chm104
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileCloseAllEx
 ms.assetid: 95c7c89f-cfb0-f881-a31b-70ae951fb3f1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowBeforeClose Event (Excel)
 keywords: vbaxl10.chm504110
 f1_keywords:
 - vbaxl10.chm504110
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowBeforeClose
 ms.assetid: 5fa37062-61c7-3002-1ea0-c5bd396b6a9b
+ms.date: 06/08/2017
 ---
 
 

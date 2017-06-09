@@ -3,10 +3,11 @@ title: OlAlign Enumeration (Outlook)
 keywords: vbaol11.chm3131
 f1_keywords:
 - vbaol11.chm3131
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAlign
 ms.assetid: 9969da94-a084-60a7-6fec-aca029e5b000
+ms.date: 06/08/2017
 ---
 
 

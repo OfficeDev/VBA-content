@@ -3,10 +3,11 @@ title: Selection.Cut Method (PowerPoint)
 keywords: vbapp10.chm508003
 f1_keywords:
 - vbapp10.chm508003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.Cut
 ms.assetid: 305103ad-f4d1-8173-e331-17750587d865
+ms.date: 06/08/2017
 ---
 
 

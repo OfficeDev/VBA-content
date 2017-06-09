@@ -3,10 +3,11 @@ title: ToolbarItem.AddOnArgs Property (Visio)
 keywords: vis_sdr.chm13513045
 f1_keywords:
 - vis_sdr.chm13513045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.AddOnArgs
 ms.assetid: 2e498e9e-021c-3857-2420-f7f8cc5de6c5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Regroup Method (Excel)
 keywords: vbaxl10.chm640089
 f1_keywords:
 - vbaxl10.chm640089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Regroup
 ms.assetid: d30d3064-c37e-84b0-10a6-11dcd18c593e
+ms.date: 06/08/2017
 ---
 
 

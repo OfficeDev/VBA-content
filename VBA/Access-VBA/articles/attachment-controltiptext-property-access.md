@@ -3,10 +3,11 @@ title: Attachment.ControlTipText Property (Access)
 keywords: vbaac10.chm13932
 f1_keywords:
 - vbaac10.chm13932
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.ControlTipText
 ms.assetid: c5dd9325-b545-d25e-10bf-7d58f7806e04
+ms.date: 06/08/2017
 ---
 
 

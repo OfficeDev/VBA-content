@@ -3,10 +3,11 @@ title: Series.FormulaR1C1 Property (Excel)
 keywords: vbaxl10.chm578086
 f1_keywords:
 - vbaxl10.chm578086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.FormulaR1C1
 ms.assetid: d7b821f2-6e5c-21bc-b080-ddf666b466c4
+ms.date: 06/08/2017
 ---
 
 

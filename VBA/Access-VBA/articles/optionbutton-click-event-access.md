@@ -3,10 +3,11 @@ title: OptionButton.Click Event (Access)
 keywords: vbaac10.chm14133
 f1_keywords:
 - vbaac10.chm14133
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Click
 ms.assetid: 99391fc2-c114-ca68-a176-a7f2757a9aaa
+ms.date: 06/08/2017
 ---
 
 

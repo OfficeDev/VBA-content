@@ -3,10 +3,11 @@ title: Shape.Flip Method (Publisher)
 keywords: vbapb10.chm2228245
 f1_keywords:
 - vbapb10.chm2228245
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Flip
 ms.assetid: 6d0004a5-2d76-955a-64ff-140dfbc313f3
+ms.date: 06/08/2017
 ---
 
 

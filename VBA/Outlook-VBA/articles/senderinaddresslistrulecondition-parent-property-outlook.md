@@ -3,10 +3,11 @@ title: SenderInAddressListRuleCondition.Parent Property (Outlook)
 keywords: vbaol11.chm2467
 f1_keywords:
 - vbaol11.chm2467
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SenderInAddressListRuleCondition.Parent
 ms.assetid: 4830cf6b-bd2d-f5f7-d8b4-30e7e7c09ae5
+ms.date: 06/08/2017
 ---
 
 

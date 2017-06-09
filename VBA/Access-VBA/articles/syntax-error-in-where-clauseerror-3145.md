@@ -3,14 +3,15 @@ title: Syntax error in WHERE clause. (Error 3145)
 keywords: jeterr40.chm5003145
 f1_keywords:
 - jeterr40.chm5003145
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 029a4d9a-e0f1-1bf7-14af-2171d444983f
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in WHERE clause. (Error 3145)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: LetterContent.Letterhead Property (Word)
 keywords: vbawd10.chm161546345
 f1_keywords:
 - vbawd10.chm161546345
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.Letterhead
 ms.assetid: afd847ed-46b2-2539-a4b4-550094974614
+ms.date: 06/08/2017
 ---
 
 

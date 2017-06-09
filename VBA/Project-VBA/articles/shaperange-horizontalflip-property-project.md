@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.HorizontalFlip Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 1bfe6c4f-a9d6-7d9b-91e3-aab6ad048f7d
+ms.date: 06/08/2017
 ---
 
 

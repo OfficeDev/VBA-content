@@ -3,10 +3,11 @@ title: DistListItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1175
 f1_keywords:
 - vbaol11.chm1175
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReminderSet
 ms.assetid: 3194de9e-866d-8d87-28d7-aa43526e20da
+ms.date: 06/08/2017
 ---
 
 

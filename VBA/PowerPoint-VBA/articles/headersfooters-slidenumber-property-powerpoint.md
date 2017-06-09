@@ -3,10 +3,11 @@ title: HeadersFooters.SlideNumber Property (PowerPoint)
 keywords: vbapp10.chm542004
 f1_keywords:
 - vbapp10.chm542004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeadersFooters.SlideNumber
 ms.assetid: c846069f-dd3f-c5ac-f9ac-b5a7ed499bdc
+ms.date: 06/08/2017
 ---
 
 

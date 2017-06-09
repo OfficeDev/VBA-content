@@ -3,10 +3,11 @@ title: HPageBreaks.Parent Property (Excel)
 keywords: vbaxl10.chm163075
 f1_keywords:
 - vbaxl10.chm163075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreaks.Parent
 ms.assetid: 5f130cc0-520c-360b-a9e9-6d6eb8f5aecb
+ms.date: 06/08/2017
 ---
 
 

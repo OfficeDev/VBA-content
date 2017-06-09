@@ -3,10 +3,11 @@ title: Characters.ContainingPageID Property (Visio)
 keywords: vis_sdr.chm10251930
 f1_keywords:
 - vis_sdr.chm10251930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.ContainingPageID
 ms.assetid: 095cd4fc-1aa1-338a-eb9a-dedb63c2c1ad
+ms.date: 06/08/2017
 ---
 
 

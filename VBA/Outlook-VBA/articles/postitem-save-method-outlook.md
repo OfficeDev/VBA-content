@@ -3,10 +3,11 @@ title: PostItem.Save Method (Outlook)
 keywords: vbaol11.chm1545
 f1_keywords:
 - vbaol11.chm1545
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Save
 ms.assetid: de45d477-c773-0475-bf2a-498533689780
+ms.date: 06/08/2017
 ---
 
 

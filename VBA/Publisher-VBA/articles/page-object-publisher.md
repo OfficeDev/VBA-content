@@ -3,10 +3,11 @@ title: Page Object (Publisher)
 keywords: vbapb10.chm458751
 f1_keywords:
 - vbapb10.chm458751
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page
 ms.assetid: 9b2e8f29-26c3-1008-0ffd-eea2147abca4
+ms.date: 06/08/2017
 ---
 
 

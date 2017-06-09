@@ -3,10 +3,11 @@ title: CalculatedMember.HierarchizeDistinct Property (Excel)
 keywords: vbaxl10.chm686083
 f1_keywords:
 - vbaxl10.chm686083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.HierarchizeDistinct
 ms.assetid: 3845d280-5044-3510-38e0-51c22ba04a38
+ms.date: 06/08/2017
 ---
 
 

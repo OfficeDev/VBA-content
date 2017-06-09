@@ -3,8 +3,9 @@ title: Layout Event, LayoutEffect Property, Move Method Example
 keywords: fm20.chm5225128
 f1_keywords:
 - fm20.chm5225128
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c3585b29-d100-89a8-8e64-3afe5dbae8b2
+ms.date: 06/08/2017
 ---
 
 

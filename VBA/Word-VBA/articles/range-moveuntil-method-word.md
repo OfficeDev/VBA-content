@@ -3,10 +3,11 @@ title: Range.MoveUntil Method (Word)
 keywords: vbawd10.chm157155443
 f1_keywords:
 - vbawd10.chm157155443
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.MoveUntil
 ms.assetid: f0f44ae5-1d61-9e05-4095-a28091feda6f
+ms.date: 06/08/2017
 ---
 
 

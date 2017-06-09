@@ -3,10 +3,11 @@ title: Dialog.Application Property (Excel)
 keywords: vbaxl10.chm255073
 f1_keywords:
 - vbaxl10.chm255073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Dialog.Application
 ms.assetid: 34ebf57a-4d40-319e-817d-9727ae10b3a8
+ms.date: 06/08/2017
 ---
 
 

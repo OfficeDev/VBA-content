@@ -3,8 +3,9 @@ title: Pages Object (Word)
 keywords: vbawd10.chm1026
 f1_keywords:
 - vbawd10.chm1026
-ms.prod: WORD
+ms.prod: word
 ms.assetid: d51e5c61-5719-c70f-b244-99507889f2dc
+ms.date: 06/08/2017
 ---
 
 

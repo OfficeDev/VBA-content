@@ -3,10 +3,11 @@ title: ContactItem.CompanyMainTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm986
 f1_keywords:
 - vbaol11.chm986
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CompanyMainTelephoneNumber
 ms.assetid: 21e092ae-d0cf-fc6c-6834-f0db032409d5
+ms.date: 06/08/2017
 ---
 
 

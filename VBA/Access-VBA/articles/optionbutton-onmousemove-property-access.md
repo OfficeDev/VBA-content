@@ -3,10 +3,11 @@ title: OptionButton.OnMouseMove Property (Access)
 keywords: vbaac10.chm10617
 f1_keywords:
 - vbaac10.chm10617
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnMouseMove
 ms.assetid: 4a93846f-5774-1cf1-4dfe-a93361408497
+ms.date: 06/08/2017
 ---
 
 

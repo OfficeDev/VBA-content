@@ -3,10 +3,11 @@ title: NavigationButton.OnMouseMove Property (Access)
 keywords: vbaac10.chm10500
 f1_keywords:
 - vbaac10.chm10500
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnMouseMove
 ms.assetid: aca4fe0f-c768-83b3-5383-a18720a5b301
+ms.date: 06/08/2017
 ---
 
 

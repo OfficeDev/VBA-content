@@ -3,10 +3,11 @@ title: BoundObjectFrame.UpdateOptions Property (Access)
 keywords: vbaac10.chm10917
 f1_keywords:
 - vbaac10.chm10917
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.UpdateOptions
 ms.assetid: 919ad3b4-1128-947a-09c0-7c7b0373698e
+ms.date: 06/08/2017
 ---
 
 

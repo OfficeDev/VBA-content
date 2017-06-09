@@ -3,10 +3,11 @@ title: Range.TCSCConverter Method (Word)
 keywords: vbawd10.chm157155827
 f1_keywords:
 - vbawd10.chm157155827
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.TCSCConverter
 ms.assetid: 71684cdd-fca8-37b7-04fe-eeeb35dcfe66
+ms.date: 06/08/2017
 ---
 
 

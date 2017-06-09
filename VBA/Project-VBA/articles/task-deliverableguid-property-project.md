@@ -1,9 +1,10 @@
 ---
 title: Task.DeliverableGuid Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.DeliverableGuid
 ms.assetid: 7e67d1df-d1b7-b838-4bc8-5e505ad53ca6
+ms.date: 06/08/2017
 ---
 
 

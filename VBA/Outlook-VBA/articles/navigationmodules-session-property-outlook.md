@@ -3,10 +3,11 @@ title: NavigationModules.Session Property (Outlook)
 keywords: vbaol11.chm2797
 f1_keywords:
 - vbaol11.chm2797
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationModules.Session
 ms.assetid: ce7f293c-cce6-5471-fd41-3387c2f0195e
+ms.date: 06/08/2017
 ---
 
 

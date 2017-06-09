@@ -3,10 +3,11 @@ title: IconView.Class Property (Outlook)
 keywords: vbaol11.chm2558
 f1_keywords:
 - vbaol11.chm2558
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Class
 ms.assetid: 9e7f18aa-bab0-653b-afd3-dc1add1971d1
+ms.date: 06/08/2017
 ---
 
 

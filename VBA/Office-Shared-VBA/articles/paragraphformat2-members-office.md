@@ -1,7 +1,8 @@
 ---
 title: ParagraphFormat2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0580593-7efb-659f-02a2-67dce512ee09
+ms.date: 06/08/2017
 ---
 
 

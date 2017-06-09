@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowBeforeClose Event (PowerPoint)
 keywords: vbapp10.chm621028
 f1_keywords:
 - vbapp10.chm621028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ProtectedViewWindowBeforeClose
 ms.assetid: e10ffe16-aad8-1e2d-fd75-82243a56ef05
+ms.date: 06/08/2017
 ---
 
 

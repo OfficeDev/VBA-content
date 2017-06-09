@@ -3,10 +3,11 @@ title: CalloutFormat.Length Property (Publisher)
 keywords: vbapb10.chm2490632
 f1_keywords:
 - vbapb10.chm2490632
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Length
 ms.assetid: 878fdb7b-fca6-49b6-1ec0-143243ce014c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Worksheet.CircularReference Property (Excel)
 keywords: vbaxl10.chm175084
 f1_keywords:
 - vbaxl10.chm175084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.CircularReference
 ms.assetid: 422c447d-a964-c17c-bb43-14254f962a89
+ms.date: 06/08/2017
 ---
 
 

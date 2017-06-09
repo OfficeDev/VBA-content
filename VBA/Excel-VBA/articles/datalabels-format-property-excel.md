@@ -3,10 +3,11 @@ title: DataLabels.Format Property (Excel)
 keywords: vbaxl10.chm584109
 f1_keywords:
 - vbaxl10.chm584109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Format
 ms.assetid: 55aa741f-0a6e-7ff1-ac07-c5a3e7f08013
+ms.date: 06/08/2017
 ---
 
 

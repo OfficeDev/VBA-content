@@ -1,9 +1,10 @@
 ---
 title: Application.WindowGoalAreaChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowGoalAreaChange
 ms.assetid: 1ae33d11-f8aa-e1a2-b59d-9736ce4a6283
+ms.date: 06/08/2017
 ---
 
 

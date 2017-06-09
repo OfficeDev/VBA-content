@@ -3,8 +3,9 @@ title: You must terminate the If block with an End If
 keywords: vblr6.chm1018973
 f1_keywords:
 - vblr6.chm1018973
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29df0107-df24-350d-9577-d11d4f11b06c
+ms.date: 06/08/2017
 ---
 
 

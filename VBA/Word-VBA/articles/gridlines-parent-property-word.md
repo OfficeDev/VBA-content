@@ -3,10 +3,11 @@ title: Gridlines.Parent Property (Word)
 keywords: vbawd10.chm11468950
 f1_keywords:
 - vbawd10.chm11468950
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Gridlines.Parent
 ms.assetid: 9b83ee7f-f5fa-008a-99fb-b714d34da497
+ms.date: 06/08/2017
 ---
 
 

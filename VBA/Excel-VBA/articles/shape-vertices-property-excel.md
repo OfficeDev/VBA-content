@@ -3,10 +3,11 @@ title: Shape.Vertices Property (Excel)
 keywords: vbaxl10.chm636113
 f1_keywords:
 - vbaxl10.chm636113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Vertices
 ms.assetid: b0525a81-a1fa-62b1-17aa-28f99fb33045
+ms.date: 06/08/2017
 ---
 
 

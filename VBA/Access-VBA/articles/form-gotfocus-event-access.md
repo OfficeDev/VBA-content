@@ -3,10 +3,11 @@ title: Form.GotFocus Event (Access)
 keywords: vbaac10.chm13648
 f1_keywords:
 - vbaac10.chm13648
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.GotFocus
 ms.assetid: ded3dc26-938e-adb2-8017-e72dd83c9742
+ms.date: 06/08/2017
 ---
 
 

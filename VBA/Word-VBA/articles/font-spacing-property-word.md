@@ -3,10 +3,11 @@ title: Font.Spacing Property (Word)
 keywords: vbawd10.chm156369040
 f1_keywords:
 - vbawd10.chm156369040
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Spacing
 ms.assetid: 50e380cd-1126-c2bd-18ff-40249efa0b9f
+ms.date: 06/08/2017
 ---
 
 

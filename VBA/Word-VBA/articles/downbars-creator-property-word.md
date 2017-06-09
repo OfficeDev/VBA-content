@@ -3,10 +3,11 @@ title: DownBars.Creator Property (Word)
 keywords: vbawd10.chm107151509
 f1_keywords:
 - vbawd10.chm107151509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Creator
 ms.assetid: 0aacdc29-f4bc-5ea5-9dd9-3cc638a14ecb
+ms.date: 06/08/2017
 ---
 
 

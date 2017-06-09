@@ -3,10 +3,11 @@ title: Shapes.Count Property (Excel)
 keywords: vbaxl10.chm638073
 f1_keywords:
 - vbaxl10.chm638073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.Count
 ms.assetid: b08b503a-a812-970c-bb10-54c5e9c3a46a
+ms.date: 06/08/2017
 ---
 
 

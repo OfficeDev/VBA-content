@@ -3,10 +3,11 @@ title: SearchFolders Object (Office)
 keywords: vbaof11.chm258000
 f1_keywords:
 - vbaof11.chm258000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchFolders
 ms.assetid: 5958cafc-880e-ee9f-b2f5-be463bfe5232
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.TypeBackspace Method (Word)
 keywords: vbawd10.chm158663169
 f1_keywords:
 - vbawd10.chm158663169
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.TypeBackspace
 ms.assetid: 479f2e0e-06d6-cd62-dc3e-09a5fafafbfa
+ms.date: 06/08/2017
 ---
 
 

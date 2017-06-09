@@ -3,8 +3,9 @@ title: Y Justify Cell (Action Tags Section), Visio [vis_sdr.chm60097]
 keywords: vis_sdr.chm60097
 f1_keywords:
 - vis_sdr.chm60097
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1af5f2d1-330a-413b-b601-b556303e3136
+ms.date: 06/08/2017
 ---
 
 

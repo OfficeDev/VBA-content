@@ -3,10 +3,11 @@ title: Row.AllowBreakAcrossPages Property (Word)
 keywords: vbawd10.chm156237827
 f1_keywords:
 - vbawd10.chm156237827
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.AllowBreakAcrossPages
 ms.assetid: 85b6b3da-e680-4714-d15e-3fb80d3eaa73
+ms.date: 06/08/2017
 ---
 
 

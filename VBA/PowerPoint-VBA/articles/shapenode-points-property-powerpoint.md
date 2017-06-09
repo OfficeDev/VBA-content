@@ -3,10 +3,11 @@ title: ShapeNode.Points Property (PowerPoint)
 keywords: vbapp10.chm561003
 f1_keywords:
 - vbapp10.chm561003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.Points
 ms.assetid: 1ba61c2f-708d-d2a5-aac0-68f566f19337
+ms.date: 06/08/2017
 ---
 
 

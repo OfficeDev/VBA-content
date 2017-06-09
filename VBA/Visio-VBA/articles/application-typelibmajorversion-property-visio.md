@@ -3,10 +3,11 @@ title: Application.TypelibMajorVersion Property (Visio)
 keywords: vis_sdr.chm10014695
 f1_keywords:
 - vis_sdr.chm10014695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.TypelibMajorVersion
 ms.assetid: 17e1abf3-5a5d-aac9-9f78-4eeb2c4a6c79
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: LegendKey.Shadow Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Shadow
 ms.assetid: 67153c37-8b97-56c8-7ea6-cd90e1dd51cc
+ms.date: 06/08/2017
 ---
 
 

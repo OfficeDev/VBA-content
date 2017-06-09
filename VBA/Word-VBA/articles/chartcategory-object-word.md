@@ -3,8 +3,9 @@ title: ChartCategory Object (Word)
 keywords: vbawd10.chm2188
 f1_keywords:
 - vbawd10.chm2188
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 0dd75147-6542-054f-4f19-c7ff4d424b8a
+ms.date: 06/08/2017
 ---
 
 

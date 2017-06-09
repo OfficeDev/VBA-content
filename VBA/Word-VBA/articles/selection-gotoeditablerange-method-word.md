@@ -3,10 +3,11 @@ title: Selection.GoToEditableRange Method (Word)
 keywords: vbawd10.chm158663683
 f1_keywords:
 - vbawd10.chm158663683
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.GoToEditableRange
 ms.assetid: 01c287a4-9293-22c1-9439-4a069a1e7299
+ms.date: 06/08/2017
 ---
 
 

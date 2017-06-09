@@ -3,10 +3,11 @@ title: Plate.Delete Method (Publisher)
 keywords: vbapb10.chm2883600
 f1_keywords:
 - vbapb10.chm2883600
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.Delete
 ms.assetid: fadaba7c-6636-f1e2-e360-3fcf8700ab36
+ms.date: 06/08/2017
 ---
 
 

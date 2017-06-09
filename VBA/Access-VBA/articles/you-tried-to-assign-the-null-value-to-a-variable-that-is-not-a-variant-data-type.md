@@ -3,14 +3,15 @@ title: You tried to assign the Null value to a variable that is not a Variant da
 keywords: jeterr40.chm5003162
 f1_keywords:
 - jeterr40.chm5003162
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f89d5675-0bb4-c8e4-31f8-0dfb8b78862e
+ms.date: 06/08/2017
 ---
 
 
 # You tried to assign the Null value to a variable that is not a Variant data type. (Error 3162)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

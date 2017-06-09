@@ -1,9 +1,10 @@
 ---
 title: MailItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.BeforeAttachmentWriteToTempFile
 ms.assetid: fad940fa-3ab8-ac9c-0cc1-adc36c695af8
+ms.date: 06/08/2017
 ---
 
 

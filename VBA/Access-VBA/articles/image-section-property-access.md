@@ -3,10 +3,11 @@ title: Image.Section Property (Access)
 keywords: vbaac10.chm10390
 f1_keywords:
 - vbaac10.chm10390
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Section
 ms.assetid: 994f5290-e92c-da14-2b85-194681b56d40
+ms.date: 06/08/2017
 ---
 
 

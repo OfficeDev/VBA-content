@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.ConnectionSiteCount Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 8030fa53-9935-4c08-a1b4-831125fe2392
+ms.date: 06/08/2017
 ---
 
 

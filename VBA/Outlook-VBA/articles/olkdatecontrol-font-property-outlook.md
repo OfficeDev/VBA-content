@@ -3,10 +3,11 @@ title: OlkDateControl.Font Property (Outlook)
 keywords: vbaol11.chm1000349
 f1_keywords:
 - vbaol11.chm1000349
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.Font
 ms.assetid: c05993d6-9a33-648b-ec2e-d8c442c2ad6f
+ms.date: 06/08/2017
 ---
 
 

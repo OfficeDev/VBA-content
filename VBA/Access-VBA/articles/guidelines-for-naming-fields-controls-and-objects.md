@@ -3,14 +3,15 @@ title: Guidelines for naming fields, controls, and objects
 keywords: vbaac10.chm4348
 f1_keywords:
 - vbaac10.chm4348
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 304d35b1-6f60-445f-b62f-1f0a17b836be
+ms.date: 06/08/2017
 ---
 
 
 # Guidelines for naming fields, controls, and objects
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

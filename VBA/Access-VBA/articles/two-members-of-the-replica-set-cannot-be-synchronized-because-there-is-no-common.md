@@ -3,14 +3,15 @@ title: Two members of the replica set cannot be synchronized because there is no
 keywords: jeterr40.chm5003521
 f1_keywords:
 - jeterr40.chm5003521
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d06e6543-7c6f-07f8-3347-9ec0418ecaf3
+ms.date: 06/08/2017
 ---
 
 
 # Two members of the replica set cannot be synchronized because there is no common point to start the synchronization. (Error 3521)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

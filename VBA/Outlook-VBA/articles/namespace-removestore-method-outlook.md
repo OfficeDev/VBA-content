@@ -3,10 +3,11 @@ title: NameSpace.RemoveStore Method (Outlook)
 keywords: vbaol11.chm772
 f1_keywords:
 - vbaol11.chm772
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.RemoveStore
 ms.assetid: 4353387a-0e44-1d4a-b0e6-96e2c2594a6d
+ms.date: 06/08/2017
 ---
 
 

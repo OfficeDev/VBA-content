@@ -1,7 +1,8 @@
 ---
 title: Shape.HorizontalFlip Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 57862ea8-62b9-0e01-b7c5-017cc7b8e5ef
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot open library database <name>. (Error 3007)
 keywords: jeterr40.chm5003007
 f1_keywords:
 - jeterr40.chm5003007
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: baef1ea4-f842-21fb-97e3-d1d6c55df786
+ms.date: 06/08/2017
 ---
 
 
 # Cannot open library database <name>. (Error 3007)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

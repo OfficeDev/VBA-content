@@ -3,10 +3,11 @@ title: Shape.FormControlType Property (Excel)
 keywords: vbaxl10.chm636131
 f1_keywords:
 - vbaxl10.chm636131
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.FormControlType
 ms.assetid: a0f7d7e2-a5c0-fd71-bced-fe2866fc6d7f
+ms.date: 06/08/2017
 ---
 
 

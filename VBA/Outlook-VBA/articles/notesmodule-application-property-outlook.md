@@ -3,10 +3,11 @@ title: NotesModule.Application Property (Outlook)
 keywords: vbaol11.chm2872
 f1_keywords:
 - vbaol11.chm2872
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NotesModule.Application
 ms.assetid: 08c09108-bf8f-eaa2-95f8-eaf407a78dd8
+ms.date: 06/08/2017
 ---
 
 

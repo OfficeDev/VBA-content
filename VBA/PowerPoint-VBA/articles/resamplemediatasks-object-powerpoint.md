@@ -3,10 +3,11 @@ title: ResampleMediaTasks Object (PowerPoint)
 keywords: vbapp10.chm728000
 f1_keywords:
 - vbapp10.chm728000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTasks
 ms.assetid: bcfdc052-906c-4c30-8def-35a56ff20a48
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: GradientStops.Item Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GradientStops.Item
 ms.assetid: 0bf0ad81-0afc-ae32-be50-e5fb772a676e
+ms.date: 06/08/2017
 ---
 
 

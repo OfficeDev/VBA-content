@@ -3,10 +3,11 @@ title: Label.OldBorderStyle Property (Access)
 keywords: vbaac10.chm10205
 f1_keywords:
 - vbaac10.chm10205
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.OldBorderStyle
 ms.assetid: a3ffc809-259c-3c2b-3216-ffbfce7fd47d
+ms.date: 06/08/2017
 ---
 
 

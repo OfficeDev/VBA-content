@@ -1,9 +1,10 @@
 ---
 title: Assignment.CostVariance Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.CostVariance
 ms.assetid: 140fe7d6-cfd6-7521-e11b-24d5dbe09d1a
+ms.date: 06/08/2017
 ---
 
 

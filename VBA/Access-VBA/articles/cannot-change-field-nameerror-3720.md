@@ -3,14 +3,15 @@ title: Cannot change field <name>. (Error 3720)
 keywords: jeterr40.chm5003720
 f1_keywords:
 - jeterr40.chm5003720
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c3062dac-0f7c-be1b-d9ee-48cd178d0241
+ms.date: 06/08/2017
 ---
 
 
 # Cannot change field <name>. (Error 3720)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

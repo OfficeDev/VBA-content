@@ -3,8 +3,9 @@ title: MultiSelect Property, Access [vbaac10.chm11237]
 keywords: vbaac10.chm11237
 f1_keywords:
 - vbaac10.chm11237
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f66c9555-0411-4510-b614-cb0bcaf6b702
+ms.date: 06/08/2017
 ---
 
 

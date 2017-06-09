@@ -3,10 +3,11 @@ title: Items.GetPrevious Method (Outlook)
 keywords: vbaol11.chm67
 f1_keywords:
 - vbaol11.chm67
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.GetPrevious
 ms.assetid: 5dde47f8-2bd8-fdbe-d6e7-b1381e8a97a6
+ms.date: 06/08/2017
 ---
 
 

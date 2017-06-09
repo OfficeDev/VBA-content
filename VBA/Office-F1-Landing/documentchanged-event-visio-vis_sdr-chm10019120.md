@@ -3,8 +3,9 @@ title: DocumentChanged Event, Visio [vis_sdr.chm10019120]
 keywords: vis_sdr.chm10019120
 f1_keywords:
 - vis_sdr.chm10019120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0b9bcc2-2395-44a2-8cb6-2930d00c8005
+ms.date: 06/08/2017
 ---
 
 

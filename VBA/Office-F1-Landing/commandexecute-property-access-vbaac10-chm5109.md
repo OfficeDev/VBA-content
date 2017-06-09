@@ -3,8 +3,9 @@ title: CommandExecute Property, Access [vbaac10.chm5109]
 keywords: vbaac10.chm5109
 f1_keywords:
 - vbaac10.chm5109
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8cbe9778-7c47-41c1-94a2-3c6724d9cb3c
+ms.date: 06/08/2017
 ---
 
 

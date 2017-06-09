@@ -3,10 +3,11 @@ title: OLEDBConnection.Reconnect Method (Excel)
 keywords: vbaxl10.chm794105
 f1_keywords:
 - vbaxl10.chm794105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.Reconnect
 ms.assetid: 94f862a0-a42e-bd80-3e1c-9adc52414bfe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartTitle.Orientation Property (Word)
 keywords: vbawd10.chm65273864
 f1_keywords:
 - vbawd10.chm65273864
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Orientation
 ms.assetid: 85c82225-9036-d993-bd76-e44199b859be
+ms.date: 06/08/2017
 ---
 
 

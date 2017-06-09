@@ -1,9 +1,10 @@
 ---
 title: Task.Baseline7BudgetCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline7BudgetCost
 ms.assetid: a9685887-d3d0-4ce8-cc0b-efdc77956be8
+ms.date: 06/08/2017
 ---
 
 

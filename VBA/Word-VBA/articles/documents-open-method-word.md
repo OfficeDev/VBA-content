@@ -3,10 +3,11 @@ title: Documents.Open Method (Word)
 keywords: vbawd10.chm158072851
 f1_keywords:
 - vbawd10.chm158072851
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Documents.Open
 ms.assetid: 9e61e9d5-58d1-833a-5f93-b87299deb400
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: IConverter Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a979971a-adf1-4352-a00b-ea2d7ec50cfa
+ms.date: 06/08/2017
 ---
 
 

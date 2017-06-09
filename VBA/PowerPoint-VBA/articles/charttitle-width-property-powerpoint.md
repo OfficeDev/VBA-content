@@ -3,10 +3,11 @@ title: ChartTitle.Width Property (PowerPoint)
 keywords: vbapp10.chm694023
 f1_keywords:
 - vbapp10.chm694023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Width
 ms.assetid: fa1f96d8-0223-e2dc-9220-f29636399154
+ms.date: 06/08/2017
 ---
 
 

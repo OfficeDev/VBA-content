@@ -3,14 +3,15 @@ title: Cannot group on fields selected with '*' <table name>. (Error 3120)
 keywords: jeterr40.chm5003120
 f1_keywords:
 - jeterr40.chm5003120
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 34cce8ec-dc95-7f1d-8537-9dd7dbbc442d
+ms.date: 06/08/2017
 ---
 
 
 # Cannot group on fields selected with '*' <table name>. (Error 3120)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

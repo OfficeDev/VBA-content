@@ -3,8 +3,9 @@ title: VBProjects Collection (VBA Add-In Object Model)
 keywords: vbob6.chm1070956
 f1_keywords:
 - vbob6.chm1070956
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 80633c50-b908-acaa-bf1f-74fce404eab5
+ms.date: 06/08/2017
 ---
 
 

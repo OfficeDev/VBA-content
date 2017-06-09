@@ -3,10 +3,11 @@ title: Workbook.WebOptions Property (Excel)
 keywords: vbaxl10.chm199188
 f1_keywords:
 - vbaxl10.chm199188
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.WebOptions
 ms.assetid: 801742a2-f5d8-5311-ea24-fd428532ba80
+ms.date: 06/08/2017
 ---
 
 

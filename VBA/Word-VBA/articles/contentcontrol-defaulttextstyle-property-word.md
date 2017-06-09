@@ -3,10 +3,11 @@ title: ContentControl.DefaultTextStyle Property (Word)
 keywords: vbawd10.chm266534937
 f1_keywords:
 - vbawd10.chm266534937
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.DefaultTextStyle
 ms.assetid: 72b2b4b3-b417-1be5-c151-80b740509e8f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PageSetup.VerticalGap Property (Publisher)
 keywords: vbapb10.chm6946838
 f1_keywords:
 - vbapb10.chm6946838
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSetup.VerticalGap
 ms.assetid: 191d66c4-d168-625a-47b7-028167a98af9
+ms.date: 06/08/2017
 ---
 
 

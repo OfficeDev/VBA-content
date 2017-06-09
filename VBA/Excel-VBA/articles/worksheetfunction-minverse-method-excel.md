@@ -3,10 +3,11 @@ title: WorksheetFunction.MInverse Method (Excel)
 keywords: vbaxl10.chm137138
 f1_keywords:
 - vbaxl10.chm137138
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MInverse
 ms.assetid: ff41fb08-8c25-f84c-dbca-ecfe4687359e
+ms.date: 06/08/2017
 ---
 
 

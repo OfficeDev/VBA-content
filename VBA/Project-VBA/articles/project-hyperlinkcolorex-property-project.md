@@ -1,9 +1,10 @@
 ---
 title: Project.HyperlinkColorEx Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.HyperlinkColorEx
 ms.assetid: ee305b13-9375-47d4-4cae-c81af86f3606
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.SetCustomToolbars Method (Visio)
 keywords: vis_sdr.chm10016565
 f1_keywords:
 - vis_sdr.chm10016565
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SetCustomToolbars
 ms.assetid: fe5a3e40-83ea-d02f-03cd-d0ad758aa408
+ms.date: 06/08/2017
 ---
 
 

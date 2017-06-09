@@ -1,9 +1,10 @@
 ---
 title: Resource.Baseline1Work Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Baseline1Work
 ms.assetid: 87356b7b-5c6b-9c99-81ab-ee4c20fbbb54
+ms.date: 06/08/2017
 ---
 
 

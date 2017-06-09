@@ -3,10 +3,11 @@ title: Selection.InsertCrossReference Method (Word)
 keywords: vbawd10.chm158663074
 f1_keywords:
 - vbawd10.chm158663074
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertCrossReference
 ms.assetid: 3aa9261d-8e2a-6230-8f02-629f0a0104bf
+ms.date: 06/08/2017
 ---
 
 

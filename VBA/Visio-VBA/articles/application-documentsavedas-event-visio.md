@@ -1,9 +1,10 @@
 ---
 title: Application.DocumentSavedAs Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DocumentSavedAs
 ms.assetid: f03e5fe2-04da-8324-fc0a-be16daf3ad30
+ms.date: 06/08/2017
 ---
 
 

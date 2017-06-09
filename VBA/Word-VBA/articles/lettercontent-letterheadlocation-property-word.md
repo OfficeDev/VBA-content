@@ -3,10 +3,11 @@ title: LetterContent.LetterheadLocation Property (Word)
 keywords: vbawd10.chm161546346
 f1_keywords:
 - vbawd10.chm161546346
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.LetterheadLocation
 ms.assetid: 5e8271fa-23bc-fcf5-ca5c-9139120711e4
+ms.date: 06/08/2017
 ---
 
 

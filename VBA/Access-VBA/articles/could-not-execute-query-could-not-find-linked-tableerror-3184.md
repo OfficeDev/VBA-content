@@ -3,14 +3,15 @@ title: Could not execute query; could not find linked table. (Error 3184)
 keywords: jeterr40.chm5003184
 f1_keywords:
 - jeterr40.chm5003184
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8dc6b167-89bc-771a-4276-117535d6d372
+ms.date: 06/08/2017
 ---
 
 
 # Could not execute query; could not find linked table. (Error 3184)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

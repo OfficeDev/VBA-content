@@ -3,14 +3,15 @@ title: Invalid Database object. (Error 3263)
 keywords: jeterr40.chm5003263
 f1_keywords:
 - jeterr40.chm5003263
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: db84d47a-5033-ec55-76d5-d6e5e6baf68a
+ms.date: 06/08/2017
 ---
 
 
 # Invalid Database object. (Error 3263)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

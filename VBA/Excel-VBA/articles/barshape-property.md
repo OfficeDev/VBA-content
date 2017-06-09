@@ -3,10 +3,11 @@ title: BarShape Property
 keywords: vbagr10.chm66939
 f1_keywords:
 - vbagr10.chm66939
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.BarShape
 ms.assetid: 2da9b9aa-84db-6ade-845e-abcb142acc3b
+ms.date: 06/08/2017
 ---
 
 

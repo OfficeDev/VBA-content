@@ -3,10 +3,11 @@ title: ToggleButton.OnMouseUp Property (Access)
 keywords: vbaac10.chm11757
 f1_keywords:
 - vbaac10.chm11757
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnMouseUp
 ms.assetid: 734cb3dc-0489-d336-007c-e7a93658680f
+ms.date: 06/08/2017
 ---
 
 

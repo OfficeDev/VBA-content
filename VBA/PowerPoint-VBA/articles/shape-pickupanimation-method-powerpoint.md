@@ -3,10 +3,11 @@ title: Shape.PickupAnimation Method (PowerPoint)
 keywords: vbapp10.chm547090
 f1_keywords:
 - vbapp10.chm547090
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.PickupAnimation
 ms.assetid: 21068cec-c9c0-4a50-f318-74a9ff654091
+ms.date: 06/08/2017
 ---
 
 

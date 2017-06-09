@@ -3,10 +3,11 @@ title: ComboBox.OldBorderStyle Property (Access)
 keywords: vbaac10.chm11409
 f1_keywords:
 - vbaac10.chm11409
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OldBorderStyle
 ms.assetid: 64e0535d-d64d-1114-e01e-3cb1bcc62b2f
+ms.date: 06/08/2017
 ---
 
 

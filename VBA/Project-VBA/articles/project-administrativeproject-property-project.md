@@ -3,10 +3,11 @@ title: Project.AdministrativeProject Property (Project)
 keywords: vbapj.chm131075
 f1_keywords:
 - vbapj.chm131075
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AdministrativeProject
 ms.assetid: 82df997d-3cf6-bb2a-7957-4939ce656bb6
+ms.date: 06/08/2017
 ---
 
 

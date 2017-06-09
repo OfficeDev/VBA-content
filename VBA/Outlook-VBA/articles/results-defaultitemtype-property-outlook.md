@@ -3,10 +3,11 @@ title: Results.DefaultItemType Property (Outlook)
 keywords: vbaol11.chm512
 f1_keywords:
 - vbaol11.chm512
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.DefaultItemType
 ms.assetid: 35c15ee5-4082-2e72-e940-e7c6f849b3ad
+ms.date: 06/08/2017
 ---
 
 

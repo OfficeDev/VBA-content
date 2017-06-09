@@ -3,10 +3,11 @@ title: Shape.UngroupCanceled Event (Visio)
 keywords: vis_sdr.chm11219375
 f1_keywords:
 - vis_sdr.chm11219375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.UngroupCanceled
 ms.assetid: aca15d4f-c623-471b-80b2-80f6afd2d5c7
+ms.date: 06/08/2017
 ---
 
 

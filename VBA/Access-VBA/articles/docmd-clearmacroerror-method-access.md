@@ -3,10 +3,11 @@ title: DoCmd.ClearMacroError Method (Access)
 keywords: vbaac10.chm5773
 f1_keywords:
 - vbaac10.chm5773
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.ClearMacroError
 ms.assetid: 2784bfc8-f61a-a461-e067-640a4244436d
+ms.date: 06/08/2017
 ---
 
 

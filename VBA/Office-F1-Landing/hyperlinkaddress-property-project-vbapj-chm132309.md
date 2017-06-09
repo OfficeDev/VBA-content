@@ -3,8 +3,9 @@ title: HyperlinkAddress Property, Project [vbapj.chm132309]
 keywords: vbapj.chm132309
 f1_keywords:
 - vbapj.chm132309
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc43645a-4e18-4c19-8085-127da11cba0f
+ms.date: 06/08/2017
 ---
 
 

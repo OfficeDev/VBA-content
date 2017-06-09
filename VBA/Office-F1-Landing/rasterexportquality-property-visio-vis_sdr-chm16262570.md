@@ -3,8 +3,9 @@ title: RasterExportQuality Property, Visio [vis_sdr.chm16262570]
 keywords: vis_sdr.chm16262570
 f1_keywords:
 - vis_sdr.chm16262570
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2ed36911-082c-41a8-802d-650a3009bf57
+ms.date: 06/08/2017
 ---
 
 

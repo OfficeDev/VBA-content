@@ -3,10 +3,11 @@ title: Shape.BlackWhiteMode Property (Excel)
 keywords: vbaxl10.chm636118
 f1_keywords:
 - vbaxl10.chm636118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.BlackWhiteMode
 ms.assetid: 95a00870-82c2-d193-6971-9f92aeed6532
+ms.date: 06/08/2017
 ---
 
 

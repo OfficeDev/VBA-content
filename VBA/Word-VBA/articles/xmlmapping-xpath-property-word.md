@@ -3,10 +3,11 @@ title: XMLMapping.XPath Property (Word)
 keywords: vbawd10.chm199688198
 f1_keywords:
 - vbawd10.chm199688198
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping.XPath
 ms.assetid: 131234f2-ea3c-5b67-d10d-27c08aa94101
+ms.date: 06/08/2017
 ---
 
 

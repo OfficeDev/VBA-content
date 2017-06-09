@@ -3,10 +3,11 @@ title: Workbook.ProtectSharing Method (Excel)
 keywords: vbaxl10.chm199265
 f1_keywords:
 - vbaxl10.chm199265
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ProtectSharing
 ms.assetid: 26660bc6-136a-ffc8-987e-c96db9c08231
+ms.date: 06/08/2017
 ---
 
 

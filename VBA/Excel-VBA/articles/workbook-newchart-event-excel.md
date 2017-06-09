@@ -3,10 +3,11 @@ title: Workbook.NewChart Event (Excel)
 keywords: vbaxl10.chm503108
 f1_keywords:
 - vbaxl10.chm503108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.NewChart
 ms.assetid: 76e7f325-9244-fd8c-b38d-063f0193a5e9
+ms.date: 06/08/2017
 ---
 
 

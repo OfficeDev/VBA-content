@@ -3,10 +3,11 @@ title: Revision.Application Property (Word)
 keywords: vbawd10.chm159450088
 f1_keywords:
 - vbawd10.chm159450088
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.Application
 ms.assetid: c11b109b-c55d-a8db-4ece-21b949db4d3f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Cell.CellTextOrientation Property (Publisher)
 keywords: vbapb10.chm5111845
 f1_keywords:
 - vbapb10.chm5111845
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.CellTextOrientation
 ms.assetid: ad2c2f15-358c-7bbc-b249-b886a99ea4a5
+ms.date: 06/08/2017
 ---
 
 

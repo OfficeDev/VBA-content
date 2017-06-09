@@ -3,10 +3,11 @@ title: Application.SelectRowStart Method (Project)
 keywords: vbapj.chm2043
 f1_keywords:
 - vbapj.chm2043
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectRowStart
 ms.assetid: cbb2c5a8-edbb-5d5e-e4ef-5a952db769c3
+ms.date: 06/08/2017
 ---
 
 

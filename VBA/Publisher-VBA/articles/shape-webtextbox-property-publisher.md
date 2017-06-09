@@ -3,10 +3,11 @@ title: Shape.WebTextBox Property (Publisher)
 keywords: vbapb10.chm2228342
 f1_keywords:
 - vbapb10.chm2228342
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebTextBox
 ms.assetid: 8a3f8389-728f-b8ae-3c89-dc8d03a3818e
+ms.date: 06/08/2017
 ---
 
 

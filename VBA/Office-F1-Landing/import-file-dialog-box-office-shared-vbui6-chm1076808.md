@@ -3,8 +3,9 @@ title: Import File Dialog Box, Office Shared [vbui6.chm1076808]
 keywords: vbui6.chm1076808
 f1_keywords:
 - vbui6.chm1076808
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9e9a452b-c999-4232-b1d6-591b24d688f6
+ms.date: 06/08/2017
 ---
 
 

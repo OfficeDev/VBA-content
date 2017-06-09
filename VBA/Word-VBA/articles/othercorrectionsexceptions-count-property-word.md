@@ -3,10 +3,11 @@ title: OtherCorrectionsExceptions.Count Property (Word)
 keywords: vbawd10.chm165609473
 f1_keywords:
 - vbawd10.chm165609473
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OtherCorrectionsExceptions.Count
 ms.assetid: 2f15fc51-5c34-014d-4a0a-9c1c321ac389
+ms.date: 06/08/2017
 ---
 
 

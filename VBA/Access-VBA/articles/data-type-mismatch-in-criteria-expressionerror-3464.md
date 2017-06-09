@@ -3,14 +3,15 @@ title: Data type mismatch in criteria expression. (Error 3464)
 keywords: jeterr40.chm5003464
 f1_keywords:
 - jeterr40.chm5003464
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 199fb82f-b7e5-ff00-f57b-07616717008b
+ms.date: 06/08/2017
 ---
 
 
 # Data type mismatch in criteria expression. (Error 3464)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

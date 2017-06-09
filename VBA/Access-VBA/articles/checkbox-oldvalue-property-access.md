@@ -3,10 +3,11 @@ title: CheckBox.OldValue Property (Access)
 keywords: vbaac10.chm10685
 f1_keywords:
 - vbaac10.chm10685
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OldValue
 ms.assetid: b0e0261d-82d2-47e1-3e0b-b9582798cd9a
+ms.date: 06/08/2017
 ---
 
 

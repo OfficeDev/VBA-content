@@ -3,8 +3,9 @@ title: Unable to activate object (Error 31027)
 keywords: vblr6.chm31027
 f1_keywords:
 - vblr6.chm31027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cfc1ae3c-83ad-a33d-2d02-3550a3ee8a95
+ms.date: 06/08/2017
 ---
 
 

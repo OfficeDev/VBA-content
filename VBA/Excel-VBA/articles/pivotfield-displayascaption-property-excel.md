@@ -3,10 +3,11 @@ title: PivotField.DisplayAsCaption Property (Excel)
 keywords: vbaxl10.chm240143
 f1_keywords:
 - vbaxl10.chm240143
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DisplayAsCaption
 ms.assetid: b2eadf78-2b5b-69cf-7929-fba28608de38
+ms.date: 06/08/2017
 ---
 
 

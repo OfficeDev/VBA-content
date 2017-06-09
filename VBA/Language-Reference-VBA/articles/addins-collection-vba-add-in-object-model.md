@@ -3,10 +3,11 @@ title: AddIns Collection (VBA Add-In Object Model)
 keywords: vbob6.chm102246
 f1_keywords:
 - vbob6.chm102246
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.AddIns
 ms.assetid: 744830ad-1e56-b476-4542-764ffa886142
+ms.date: 06/08/2017
 ---
 
 

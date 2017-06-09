@@ -1,7 +1,8 @@
 ---
 title: TextBox.HideSelection Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7d59098a-88c3-8086-f8ee-1d9a090865e8
+ms.date: 06/08/2017
 ---
 
 

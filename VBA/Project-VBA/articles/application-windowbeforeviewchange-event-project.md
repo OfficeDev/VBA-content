@@ -1,9 +1,10 @@
 ---
 title: Application.WindowBeforeViewChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowBeforeViewChange
 ms.assetid: c3eb450d-2a74-6ae1-175c-1d61c90b22ca
+ms.date: 06/08/2017
 ---
 
 

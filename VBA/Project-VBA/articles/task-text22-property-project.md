@@ -1,9 +1,10 @@
 ---
 title: Task.Text22 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text22
 ms.assetid: 39d5b5d2-5010-f0c0-7734-64941fc2bd19
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CellDragAndDrop Property
 keywords: vbagr10.chm65856
 f1_keywords:
 - vbagr10.chm65856
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellDragAndDrop
 ms.assetid: f5520c3c-a55f-9d6c-6204-3fa9e72e11ed
+ms.date: 06/08/2017
 ---
 
 

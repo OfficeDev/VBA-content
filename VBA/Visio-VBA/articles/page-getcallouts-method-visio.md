@@ -3,10 +3,11 @@ title: Page.GetCallouts Method (Visio)
 keywords: vis_sdr.chm10962170
 f1_keywords:
 - vis_sdr.chm10962170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.GetCallouts
 ms.assetid: a0300c64-4bdd-e442-c00c-a727debbf6b8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Calendar.WeekDays Property (Project)
 keywords: vbapj.chm132819
 f1_keywords:
 - vbapj.chm132819
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.WeekDays
 ms.assetid: 4495a739-156b-8cda-d3d0-acbc56b767ff
+ms.date: 06/08/2017
 ---
 
 

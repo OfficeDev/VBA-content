@@ -1,9 +1,10 @@
 ---
 title: Application.Windows Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Windows
 ms.assetid: 0f589af9-d587-3cfc-ffbb-64d901ff3bd4
+ms.date: 06/08/2017
 ---
 
 

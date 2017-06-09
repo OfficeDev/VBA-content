@@ -3,10 +3,11 @@ title: Report.FitToPage Property (Access)
 keywords: vbaac10.chm13854
 f1_keywords:
 - vbaac10.chm13854
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.FitToPage
 ms.assetid: e2210e28-273b-8eb5-0229-5f6513cf5ae2
+ms.date: 06/08/2017
 ---
 
 

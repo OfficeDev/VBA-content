@@ -3,10 +3,11 @@ title: TableField.Field Property (Project)
 keywords: vbapj.chm132687
 f1_keywords:
 - vbapj.chm132687
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TableField.Field
 ms.assetid: faeb3521-d25b-7474-cb35-e22cd2daffc7
+ms.date: 06/08/2017
 ---
 
 

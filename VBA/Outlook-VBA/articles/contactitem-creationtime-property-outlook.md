@@ -3,10 +3,11 @@ title: ContactItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm938
 f1_keywords:
 - vbaol11.chm938
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CreationTime
 ms.assetid: 95c48449-2488-4110-a498-e9a9a563d54f
+ms.date: 06/08/2017
 ---
 
 

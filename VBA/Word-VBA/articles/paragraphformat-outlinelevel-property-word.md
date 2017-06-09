@@ -3,10 +3,11 @@ title: ParagraphFormat.OutlineLevel Property (Word)
 keywords: vbawd10.chm156434634
 f1_keywords:
 - vbawd10.chm156434634
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.OutlineLevel
 ms.assetid: e1356015-636e-87c3-a6c7-f765276a6079
+ms.date: 06/08/2017
 ---
 
 

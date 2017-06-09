@@ -3,10 +3,11 @@ title: OlkListBox.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000291
 f1_keywords:
 - vbaol11.chm1000291
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.AfterUpdate
 ms.assetid: 140c3cfd-ddad-a6cd-17bb-c8f5297c181e
+ms.date: 06/08/2017
 ---
 
 

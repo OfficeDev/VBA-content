@@ -3,10 +3,11 @@ title: Events Property
 keywords: vbob6.chm100017
 f1_keywords:
 - vbob6.chm100017
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Events
 ms.assetid: 506d45c2-57b1-f1f2-1bf6-44e542ef2a14
+ms.date: 06/08/2017
 ---
 
 

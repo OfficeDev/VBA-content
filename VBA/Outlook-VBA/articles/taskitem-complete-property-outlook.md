@@ -3,10 +3,11 @@ title: TaskItem.Complete Property (Outlook)
 keywords: vbaol11.chm1722
 f1_keywords:
 - vbaol11.chm1722
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Complete
 ms.assetid: c079d11a-bc69-652d-d9c5-6a525f319686
+ms.date: 06/08/2017
 ---
 
 

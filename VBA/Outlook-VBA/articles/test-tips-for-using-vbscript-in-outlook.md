@@ -3,8 +3,9 @@ title: Test Tips for Using VBScript in Outlook
 keywords: olfm10.chm3077355
 f1_keywords:
 - olfm10.chm3077355
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e71c5e64-534b-d6b3-697a-6f78a1c7508c
+ms.date: 06/08/2017
 ---
 
 

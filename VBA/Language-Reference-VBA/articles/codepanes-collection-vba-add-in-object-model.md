@@ -3,8 +3,9 @@ title: CodePanes Collection (VBA Add-In Object Model)
 keywords: vbob6.chm1070948
 f1_keywords:
 - vbob6.chm1070948
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c868e80-59be-562e-ca33-93e4025fc640
+ms.date: 06/08/2017
 ---
 
 

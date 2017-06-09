@@ -3,10 +3,11 @@ title: OMathBreaks.Application Property (Word)
 keywords: vbawd10.chm61276261
 f1_keywords:
 - vbawd10.chm61276261
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreaks.Application
 ms.assetid: 4ff4771f-8c7d-009f-0f56-fb175796e6fb
+ms.date: 06/08/2017
 ---
 
 

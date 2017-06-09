@@ -3,10 +3,11 @@ title: OlkDateControl.Exit Event (Outlook)
 keywords: vbaol11.chm1000368
 f1_keywords:
 - vbaol11.chm1000368
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.Exit
 ms.assetid: 6a8ec569-4e08-0400-95ad-934cbe2c20e4
+ms.date: 06/08/2017
 ---
 
 

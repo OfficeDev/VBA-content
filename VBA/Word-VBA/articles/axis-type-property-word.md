@@ -3,10 +3,11 @@ title: Axis.Type Property (Word)
 keywords: vbawd10.chm113049655
 f1_keywords:
 - vbawd10.chm113049655
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Type
 ms.assetid: 781d9e0b-6c14-693e-e883-8a28367d4cc6
+ms.date: 06/08/2017
 ---
 
 

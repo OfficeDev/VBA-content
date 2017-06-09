@@ -3,10 +3,11 @@ title: Image.BackColor Property (Access)
 keywords: vbaac10.chm10381
 f1_keywords:
 - vbaac10.chm10381
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.BackColor
 ms.assetid: 6003c9d8-a6bd-4718-b2ea-c6e1ccb0a76a
+ms.date: 06/08/2017
 ---
 
 

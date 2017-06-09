@@ -3,10 +3,11 @@ title: MailMergeDataSource.LastRecord Property (Word)
 keywords: vbawd10.chm152895497
 f1_keywords:
 - vbawd10.chm152895497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.LastRecord
 ms.assetid: 9c51a46f-5d46-c066-5cc5-6bcd0a124209
+ms.date: 06/08/2017
 ---
 
 

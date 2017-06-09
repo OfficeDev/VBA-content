@@ -3,10 +3,11 @@ title: OlkTextBox.Paste Method (Outlook)
 keywords: vbaol11.chm1000067
 f1_keywords:
 - vbaol11.chm1000067
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Paste
 ms.assetid: 2f605536-0656-618e-3b27-cebb8de04188
+ms.date: 06/08/2017
 ---
 
 

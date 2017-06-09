@@ -3,10 +3,11 @@ title: Folder.StoreID Property (Outlook)
 keywords: vbaol11.chm1992
 f1_keywords:
 - vbaol11.chm1992
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.StoreID
 ms.assetid: 8b2657b7-0c69-d8ad-147b-482303ebd10f
+ms.date: 06/08/2017
 ---
 
 

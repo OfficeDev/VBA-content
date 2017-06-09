@@ -3,14 +3,15 @@ title: While loading the Microsoft Excel installable ISAM, OLE was unable to ini
 keywords: jeterr40.chm5003430
 f1_keywords:
 - jeterr40.chm5003430
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 69643a7c-0f11-5642-0c46-a262893ccedd
+ms.date: 06/08/2017
 ---
 
 
 # While loading the Microsoft Excel installable ISAM, OLE was unable to initialize. (Error 3430)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

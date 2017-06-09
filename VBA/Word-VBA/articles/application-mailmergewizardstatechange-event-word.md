@@ -3,10 +3,11 @@ title: Application.MailMergeWizardStateChange Event (Word)
 keywords: vbawd10.chm4000023
 f1_keywords:
 - vbawd10.chm4000023
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MailMergeWizardStateChange
 ms.assetid: d112d3f1-7fe7-1db6-891b-917598eea2ef
+ms.date: 06/08/2017
 ---
 
 

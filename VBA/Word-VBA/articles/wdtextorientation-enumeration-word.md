@@ -1,9 +1,10 @@
 ---
 title: WdTextOrientation Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTextOrientation
 ms.assetid: 1f75a8de-283d-ecce-df3b-52a787f308bc
+ms.date: 06/08/2017
 ---
 
 

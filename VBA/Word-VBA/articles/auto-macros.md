@@ -3,8 +3,9 @@ title: Auto Macros
 keywords: vbawd10.chm5209939
 f1_keywords:
 - vbawd10.chm5209939
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 65668dca-8517-5309-a89e-e19b3e85f4c6
+ms.date: 06/08/2017
 ---
 
 

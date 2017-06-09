@@ -3,10 +3,11 @@ title: DataRecordset.GetMatchingRowsForRefreshConflict Method (Visio)
 keywords: vis_sdr.chm16460360
 f1_keywords:
 - vis_sdr.chm16460360
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.GetMatchingRowsForRefreshConflict
 ms.assetid: 07526278-19db-ccbc-6785-095c73128879
+ms.date: 06/08/2017
 ---
 
 

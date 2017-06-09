@@ -3,10 +3,11 @@ title: ConnectorFormat.BeginConnectedShape Property (PowerPoint)
 keywords: vbapp10.chm555007
 f1_keywords:
 - vbapp10.chm555007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.BeginConnectedShape
 ms.assetid: 7456899e-3f1c-3af8-e942-a6de1abeeca3
+ms.date: 06/08/2017
 ---
 
 

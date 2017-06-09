@@ -3,8 +3,9 @@ title: TypeName Function
 keywords: vblr6.chm1010100
 f1_keywords:
 - vblr6.chm1010100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9353f1d5-5b64-9cad-5cc3-e1487bdd3afd
+ms.date: 06/08/2017
 ---
 
 

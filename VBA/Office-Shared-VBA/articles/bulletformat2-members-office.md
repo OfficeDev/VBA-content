@@ -1,7 +1,8 @@
 ---
 title: BulletFormat2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1a86b4e3-0c8c-1900-708f-37486bf71169
+ms.date: 06/08/2017
 ---
 
 

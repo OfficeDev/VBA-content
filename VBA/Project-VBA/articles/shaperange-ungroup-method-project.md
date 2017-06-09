@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Ungroup Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 8de156ed-3f6a-3132-6e7f-33c518a7a65e
+ms.date: 06/08/2017
 ---
 
 

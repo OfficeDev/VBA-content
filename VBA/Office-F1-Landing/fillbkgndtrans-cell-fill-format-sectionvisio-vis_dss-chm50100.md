@@ -3,8 +3,9 @@ title: FillBkgndTrans Cell (Fill Format Section), Visio [Vis_DSS.chm50100]
 keywords: vis_dss.chm50100
 f1_keywords:
 - vis_dss.chm50100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ca836ff5-0959-4fd9-8510-15e3866aceb3
+ms.date: 06/08/2017
 ---
 
 

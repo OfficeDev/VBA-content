@@ -3,10 +3,11 @@ title: AutoCaption.Application Property (Word)
 keywords: vbawd10.chm159056872
 f1_keywords:
 - vbawd10.chm159056872
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCaption.Application
 ms.assetid: da729ad0-6315-9afe-9aeb-dae989cfe85c
+ms.date: 06/08/2017
 ---
 
 

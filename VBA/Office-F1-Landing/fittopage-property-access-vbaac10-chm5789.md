@@ -3,8 +3,9 @@ title: FitToPage Property, Access [vbaac10.chm5789]
 keywords: vbaac10.chm5789
 f1_keywords:
 - vbaac10.chm5789
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cfd7264f-2726-4b34-b0c1-230463213568
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AutoFormatRule.Filter Property (Outlook)
 keywords: vbaol11.chm2708
 f1_keywords:
 - vbaol11.chm2708
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRule.Filter
 ms.assetid: 9ae874ba-8d40-ac5d-42e3-8082d790ab3e
+ms.date: 06/08/2017
 ---
 
 

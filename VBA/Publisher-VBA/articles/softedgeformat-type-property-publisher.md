@@ -3,8 +3,9 @@ title: SoftEdgeFormat.Type Property (Publisher)
 keywords: vbapb10.chm9568257
 f1_keywords:
 - vbapb10.chm9568257
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: e4bd7a4b-17a5-b0c2-7fd8-34025651c19d
+ms.date: 06/08/2017
 ---
 
 

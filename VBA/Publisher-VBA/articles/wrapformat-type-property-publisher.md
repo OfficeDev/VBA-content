@@ -3,10 +3,11 @@ title: WrapFormat.Type Property (Publisher)
 keywords: vbapb10.chm786435
 f1_keywords:
 - vbapb10.chm786435
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Type
 ms.assetid: da53302c-ae95-5aa9-a4ce-32647a2569d6
+ms.date: 06/08/2017
 ---
 
 

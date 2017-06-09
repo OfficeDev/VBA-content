@@ -3,10 +3,11 @@ title: MailMergeDataSource.Creator Property (Word)
 keywords: vbawd10.chm152896489
 f1_keywords:
 - vbawd10.chm152896489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.Creator
 ms.assetid: eeb7afa8-177d-38e3-d367-36b9a49538da
+ms.date: 06/08/2017
 ---
 
 

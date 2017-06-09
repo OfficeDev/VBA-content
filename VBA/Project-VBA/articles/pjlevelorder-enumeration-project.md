@@ -1,9 +1,10 @@
 ---
 title: PjLevelOrder Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjLevelOrder
 ms.assetid: 652f1d7c-6d15-4384-00f6-9791a2a65966
+ms.date: 06/08/2017
 ---
 
 

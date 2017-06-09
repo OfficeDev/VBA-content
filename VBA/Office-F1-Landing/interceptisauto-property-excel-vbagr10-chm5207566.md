@@ -3,8 +3,9 @@ title: InterceptIsAuto Property, Excel [vbagr10.chm5207566]
 keywords: vbagr10.chm5207566
 f1_keywords:
 - vbagr10.chm5207566
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: da46b75e-8926-455c-a62f-b0b667cd25cf
+ms.date: 06/08/2017
 ---
 
 

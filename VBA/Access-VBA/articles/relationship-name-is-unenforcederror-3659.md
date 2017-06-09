@@ -3,14 +3,15 @@ title: Relationship <name> is unenforced. (Error 3659)
 keywords: jeterr40.chm5003659
 f1_keywords:
 - jeterr40.chm5003659
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 65cf4b01-2e55-0fef-4aea-4910871e4fa4
+ms.date: 06/08/2017
 ---
 
 
 # Relationship <name> is unenforced. (Error 3659)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: ParagraphFormat.KeepTogether Property (Word)
 keywords: vbawd10.chm156434534
 f1_keywords:
 - vbawd10.chm156434534
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.KeepTogether
 ms.assetid: 7cc4cade-f986-8dad-a1b3-e1fade4c6825
+ms.date: 06/08/2017
 ---
 
 

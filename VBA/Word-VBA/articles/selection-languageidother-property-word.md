@@ -3,10 +3,11 @@ title: Selection.LanguageIDOther Property (Word)
 keywords: vbawd10.chm158662811
 f1_keywords:
 - vbawd10.chm158662811
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.LanguageIDOther
 ms.assetid: 197474ff-8d79-b48f-e1bf-ac2f164e70e3
+ms.date: 06/08/2017
 ---
 
 

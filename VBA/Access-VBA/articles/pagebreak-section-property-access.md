@@ -3,10 +3,11 @@ title: PageBreak.Section Property (Access)
 keywords: vbaac10.chm11677
 f1_keywords:
 - vbaac10.chm11677
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.PageBreak.Section
 ms.assetid: 6d912441-5af5-3a3c-918b-b560f4cc43b3
+ms.date: 06/08/2017
 ---
 
 

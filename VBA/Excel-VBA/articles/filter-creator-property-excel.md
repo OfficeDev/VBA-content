@@ -3,10 +3,11 @@ title: Filter.Creator Property (Excel)
 keywords: vbaxl10.chm541074
 f1_keywords:
 - vbaxl10.chm541074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Filter.Creator
 ms.assetid: 648b0917-011b-ec4f-4a7a-7a56b070a8cd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: RepaintObject, ShowAllRecords, Requery, and Refresh Action/Method Compari
 keywords: vbaac10.chm5257635
 f1_keywords:
 - vbaac10.chm5257635
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ef1eec86-54d1-5b86-323f-48fb4f7d3897
+ms.date: 06/08/2017
 ---
 
 
 # RepaintObject, ShowAllRecords, Requery, and Refresh Action/Method Comparison
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

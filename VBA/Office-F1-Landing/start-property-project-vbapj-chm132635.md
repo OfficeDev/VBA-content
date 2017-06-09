@@ -3,8 +3,9 @@ title: Start Property, Project [vbapj.chm132635]
 keywords: vbapj.chm132635
 f1_keywords:
 - vbapj.chm132635
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d1c4f994-0b6f-4a8d-88b4-51ef07dbfe7b
+ms.date: 06/08/2017
 ---
 
 

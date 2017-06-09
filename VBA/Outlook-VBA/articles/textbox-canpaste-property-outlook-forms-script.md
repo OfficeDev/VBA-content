@@ -1,7 +1,8 @@
 ---
 title: TextBox.CanPaste Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 827fea27-a641-c232-fe94-f3d19ccc827c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SparklineGroups.ClearGroups Method (Excel)
 keywords: vbaxl10.chm869079
 f1_keywords:
 - vbaxl10.chm869079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroups.ClearGroups
 ms.assetid: 871998c2-d75f-2be2-98c8-cf258bbb9a85
+ms.date: 06/08/2017
 ---
 
 

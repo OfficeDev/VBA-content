@@ -3,8 +3,9 @@ title: CapitalizeNamesOfDays Property, Excel [vbagr10.chm3076967]
 keywords: vbagr10.chm3076967
 f1_keywords:
 - vbagr10.chm3076967
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0cfd82fb-debc-4626-a551-2149fd3f2d90
+ms.date: 06/08/2017
 ---
 
 

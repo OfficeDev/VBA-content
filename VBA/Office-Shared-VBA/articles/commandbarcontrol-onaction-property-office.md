@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.OnAction Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.OnAction
 ms.assetid: 05e40fcb-ff67-049f-6386-a9ef20b48c87
+ms.date: 06/08/2017
 ---
 
 

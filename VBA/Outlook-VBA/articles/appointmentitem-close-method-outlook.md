@@ -3,10 +3,11 @@ title: AppointmentItem.Close Method (Outlook)
 keywords: vbaol11.chm868
 f1_keywords:
 - vbaol11.chm868
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Close
 ms.assetid: 61072885-5319-5a00-c4f1-d412eb4d60cb
+ms.date: 06/08/2017
 ---
 
 

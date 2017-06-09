@@ -3,10 +3,11 @@ title: RecentFiles.Parent Property (Word)
 keywords: vbawd10.chm157484010
 f1_keywords:
 - vbawd10.chm157484010
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFiles.Parent
 ms.assetid: c4148f40-4dce-eb1c-bd79-3c6a54bab526
+ms.date: 06/08/2017
 ---
 
 

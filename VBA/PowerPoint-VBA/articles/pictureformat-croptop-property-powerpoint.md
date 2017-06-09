@@ -3,10 +3,11 @@ title: PictureFormat.CropTop Property (PowerPoint)
 keywords: vbapp10.chm551010
 f1_keywords:
 - vbapp10.chm551010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.CropTop
 ms.assetid: dc9ef14a-99e0-6d5d-3df8-d7818569f31a
+ms.date: 06/08/2017
 ---
 
 

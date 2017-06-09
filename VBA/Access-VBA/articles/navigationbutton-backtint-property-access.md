@@ -3,10 +3,11 @@ title: NavigationButton.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BackTint
 ms.assetid: 73193a90-481c-8be4-983f-cb3638a3609b
+ms.date: 06/08/2017
 ---
 
 

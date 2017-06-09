@@ -3,8 +3,9 @@ title: PivotTableCloseConnection Event, Excel [vbaxl10.chm503094]
 keywords: vbaxl10.chm503094
 f1_keywords:
 - vbaxl10.chm503094
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f099fe1b-a7ef-473a-982c-ef0997732478
+ms.date: 06/08/2017
 ---
 
 

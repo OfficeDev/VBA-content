@@ -3,10 +3,11 @@ title: Slides.FindBySlideID Method (PowerPoint)
 keywords: vbapp10.chm530004
 f1_keywords:
 - vbapp10.chm530004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.FindBySlideID
 ms.assetid: 49c5cb57-e132-0539-ecfd-25321ac7cc32
+ms.date: 06/08/2017
 ---
 
 

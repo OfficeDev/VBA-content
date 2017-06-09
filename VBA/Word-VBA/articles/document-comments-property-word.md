@@ -3,10 +3,11 @@ title: Document.Comments Property (Word)
 keywords: vbawd10.chm158007305
 f1_keywords:
 - vbawd10.chm158007305
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Comments
 ms.assetid: 1597a002-afa4-743d-60a6-ffd398f2b599
+ms.date: 06/08/2017
 ---
 
 

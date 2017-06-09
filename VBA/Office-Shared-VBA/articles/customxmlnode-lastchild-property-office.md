@@ -3,10 +3,11 @@ title: CustomXMLNode.LastChild Property (Office)
 keywords: vbaof11.chm294006
 f1_keywords:
 - vbaof11.chm294006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.LastChild
 ms.assetid: b9172003-4cad-eee2-8ca6-48e120f7781a
+ms.date: 06/08/2017
 ---
 
 

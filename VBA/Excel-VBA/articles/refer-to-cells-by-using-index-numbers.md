@@ -3,8 +3,9 @@ title: Refer to Cells by Using Index Numbers
 keywords: vbaxl10.chm5204428
 f1_keywords:
 - vbaxl10.chm5204428
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 5671563b-9a20-3124-58d9-cfa02fac5312
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlFormatYesNo Enumeration (Outlook)
 keywords: vbaol11.chm3139
 f1_keywords:
 - vbaol11.chm3139
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatYesNo
 ms.assetid: 6b85f49e-64f5-7917-eba9-880979046649
+ms.date: 06/08/2017
 ---
 
 

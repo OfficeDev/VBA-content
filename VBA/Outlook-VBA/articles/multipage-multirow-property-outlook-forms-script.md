@@ -3,8 +3,9 @@ title: MultiPage.MultiRow Property (Outlook Forms Script)
 keywords: olfm10.chm2001570
 f1_keywords:
 - olfm10.chm2001570
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 80375220-7268-f3a9-297e-29999fd3b3e3
+ms.date: 06/08/2017
 ---
 
 

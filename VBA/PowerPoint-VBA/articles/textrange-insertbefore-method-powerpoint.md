@@ -3,10 +3,11 @@ title: TextRange.InsertBefore Method (PowerPoint)
 keywords: vbapp10.chm569019
 f1_keywords:
 - vbapp10.chm569019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.InsertBefore
 ms.assetid: fbadcecd-a31b-8c8d-3281-63d70286bcff
+ms.date: 06/08/2017
 ---
 
 

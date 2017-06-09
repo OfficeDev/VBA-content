@@ -3,10 +3,11 @@ title: ColorFormat.RGB Property (Publisher)
 keywords: vbapb10.chm2555904
 f1_keywords:
 - vbapb10.chm2555904
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.RGB
 ms.assetid: aeff1962-b855-7c3f-1f4d-a336e0739ade
+ms.date: 06/08/2017
 ---
 
 

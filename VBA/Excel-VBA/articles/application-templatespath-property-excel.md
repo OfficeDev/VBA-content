@@ -3,10 +3,11 @@ title: Application.TemplatesPath Property (Excel)
 keywords: vbaxl10.chm133214
 f1_keywords:
 - vbaxl10.chm133214
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.TemplatesPath
 ms.assetid: 2db8397d-248b-7499-7959-1772b51d71a2
+ms.date: 06/08/2017
 ---
 
 

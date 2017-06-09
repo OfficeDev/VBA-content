@@ -3,10 +3,11 @@ title: CanvasShapes.BuildFreeform Method (Word)
 keywords: vbawd10.chm7536660
 f1_keywords:
 - vbawd10.chm7536660
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.BuildFreeform
 ms.assetid: eb960023-aeda-d272-c9c8-5474fb5867b2
+ms.date: 06/08/2017
 ---
 
 

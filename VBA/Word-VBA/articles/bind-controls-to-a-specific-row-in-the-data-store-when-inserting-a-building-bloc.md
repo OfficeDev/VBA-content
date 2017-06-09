@@ -1,7 +1,8 @@
 ---
 title: Bind Controls to a Specific Row in the Data Store When Inserting a Building Block
-ms.prod: WORD
+ms.prod: word
 ms.assetid: c701f613-c14e-267e-7a9b-ea1f193397c2
+ms.date: 06/08/2017
 ---
 
 

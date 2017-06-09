@@ -3,10 +3,11 @@ title: Shape.BlackWhiteMode Property (Publisher)
 keywords: vbapb10.chm2228336
 f1_keywords:
 - vbapb10.chm2228336
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.BlackWhiteMode
 ms.assetid: 0a735488-956f-bd3c-ad74-1639780e4e24
+ms.date: 06/08/2017
 ---
 
 

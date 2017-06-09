@@ -3,10 +3,11 @@ title: Lists.Creator Property (Word)
 keywords: vbawd10.chm160629737
 f1_keywords:
 - vbawd10.chm160629737
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Lists.Creator
 ms.assetid: 9c7a1ba2-479b-30af-1a9c-4f0f7fb73bf7
+ms.date: 06/08/2017
 ---
 
 

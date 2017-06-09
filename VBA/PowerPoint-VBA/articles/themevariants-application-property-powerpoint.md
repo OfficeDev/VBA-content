@@ -1,6 +1,8 @@
 ---
 title: ThemeVariants.Application Property (PowerPoint)
 ms.assetid: 67da3c81-7491-1609-6d11-2215f0b298ae
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

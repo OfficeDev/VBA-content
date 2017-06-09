@@ -3,10 +3,11 @@ title: Line.Height Property (Word)
 keywords: vbawd10.chm49610758
 f1_keywords:
 - vbawd10.chm49610758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Height
 ms.assetid: da85e2f8-b3d4-bb64-9459-3adf07e456b3
+ms.date: 06/08/2017
 ---
 
 

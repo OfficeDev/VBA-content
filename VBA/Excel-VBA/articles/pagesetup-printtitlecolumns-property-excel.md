@@ -3,10 +3,11 @@ title: PageSetup.PrintTitleColumns Property (Excel)
 keywords: vbaxl10.chm473097
 f1_keywords:
 - vbaxl10.chm473097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintTitleColumns
 ms.assetid: 860cf212-0fbb-f3ec-c9ce-a0df57b39b7f
+ms.date: 06/08/2017
 ---
 
 

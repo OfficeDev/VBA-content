@@ -3,10 +3,11 @@ title: Comment.Creator Property (Excel)
 keywords: vbaxl10.chm515074
 f1_keywords:
 - vbaxl10.chm515074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment.Creator
 ms.assetid: c0765a60-a99b-ea10-b708-549222dc4e95
+ms.date: 06/08/2017
 ---
 
 

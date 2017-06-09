@@ -3,10 +3,11 @@ title: Application.ThisCell Property (Excel)
 keywords: vbaxl10.chm133291
 f1_keywords:
 - vbaxl10.chm133291
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ThisCell
 ms.assetid: 83b9c009-7e01-4493-bda0-cd6246aba778
+ms.date: 06/08/2017
 ---
 
 

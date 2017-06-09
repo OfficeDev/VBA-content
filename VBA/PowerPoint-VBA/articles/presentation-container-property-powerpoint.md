@@ -3,10 +3,11 @@ title: Presentation.Container Property (PowerPoint)
 keywords: vbapp10.chm583041
 f1_keywords:
 - vbapp10.chm583041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Container
 ms.assetid: cc0108b7-ce95-3a1b-a400-c49700a2362c
+ms.date: 06/08/2017
 ---
 
 

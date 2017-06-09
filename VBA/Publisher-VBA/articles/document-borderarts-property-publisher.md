@@ -3,10 +3,11 @@ title: Document.BorderArts Property (Publisher)
 keywords: vbapb10.chm196721
 f1_keywords:
 - vbapb10.chm196721
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.BorderArts
 ms.assetid: 5639ffce-f711-71b6-78f8-2de63fe50a3c
+ms.date: 06/08/2017
 ---
 
 

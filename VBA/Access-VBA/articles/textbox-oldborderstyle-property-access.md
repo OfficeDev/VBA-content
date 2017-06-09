@@ -3,10 +3,11 @@ title: TextBox.OldBorderStyle Property (Access)
 keywords: vbaac10.chm11079
 f1_keywords:
 - vbaac10.chm11079
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OldBorderStyle
 ms.assetid: 6064f8b9-31ec-da00-0346-cd259b917daa
+ms.date: 06/08/2017
 ---
 
 

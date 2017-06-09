@@ -3,8 +3,9 @@ title: GetAttr Function
 keywords: vblr6.chm1008929
 f1_keywords:
 - vblr6.chm1008929
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e64ff896-0fae-8a77-7b4c-9d21e83ff919
+ms.date: 06/08/2017
 ---
 
 

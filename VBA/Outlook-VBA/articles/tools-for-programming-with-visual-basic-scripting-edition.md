@@ -1,7 +1,8 @@
 ---
 title: Tools for Programming with Visual Basic Scripting Edition
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e8840167-907d-46b5-9a7d-0cd72ffc9734
+ms.date: 06/08/2017
 ---
 
 

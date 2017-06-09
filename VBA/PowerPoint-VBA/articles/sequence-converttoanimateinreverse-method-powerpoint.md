@@ -3,10 +3,11 @@ title: Sequence.ConvertToAnimateInReverse Method (PowerPoint)
 keywords: vbapp10.chm651011
 f1_keywords:
 - vbapp10.chm651011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.ConvertToAnimateInReverse
 ms.assetid: dabea9a8-1ac5-6e2a-1932-7051efb9577d
+ms.date: 06/08/2017
 ---
 
 

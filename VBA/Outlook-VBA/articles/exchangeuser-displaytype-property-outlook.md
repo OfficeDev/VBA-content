@@ -3,10 +3,11 @@ title: ExchangeUser.DisplayType Property (Outlook)
 keywords: vbaol11.chm2066
 f1_keywords:
 - vbaol11.chm2066
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.DisplayType
 ms.assetid: 3060a00b-9a99-7833-1a8a-5c18123d7d98
+ms.date: 06/08/2017
 ---
 
 

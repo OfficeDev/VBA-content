@@ -3,8 +3,9 @@ title: ScrollLeft, ScrollTop Properties
 keywords: fm20.chm5225086
 f1_keywords:
 - fm20.chm5225086
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1b60c64d-84e5-6e21-eebf-a4c375e7c148
+ms.date: 06/08/2017
 ---
 
 

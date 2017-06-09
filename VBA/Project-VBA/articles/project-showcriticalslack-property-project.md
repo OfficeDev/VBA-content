@@ -1,9 +1,10 @@
 ---
 title: Project.ShowCriticalSlack Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ShowCriticalSlack
 ms.assetid: fac1cf14-8f6f-34ca-7bab-71d444e78346
+ms.date: 06/08/2017
 ---
 
 

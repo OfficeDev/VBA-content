@@ -1,9 +1,10 @@
 ---
 title: XlDataBarBorderType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataBarBorderType
 ms.assetid: 248f5f75-c124-ab36-c3b0-00446d2baf1a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Subdocuments.Application Property (Word)
 keywords: vbawd10.chm159908840
 f1_keywords:
 - vbawd10.chm159908840
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocuments.Application
 ms.assetid: e963bf38-8ee4-0cf3-008a-a6a528c97dfb
+ms.date: 06/08/2017
 ---
 
 

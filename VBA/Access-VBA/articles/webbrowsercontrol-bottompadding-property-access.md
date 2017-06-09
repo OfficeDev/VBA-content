@@ -3,10 +3,11 @@ title: WebBrowserControl.BottomPadding Property (Access)
 keywords: vbaac10.chm14393
 f1_keywords:
 - vbaac10.chm14393
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.BottomPadding
 ms.assetid: f9ee9f08-0dbd-c6bc-b92d-cb1d2bc287cd
+ms.date: 06/08/2017
 ---
 
 

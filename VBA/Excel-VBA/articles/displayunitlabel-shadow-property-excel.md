@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Shadow Property (Excel)
 keywords: vbaxl10.chm673085
 f1_keywords:
 - vbaxl10.chm673085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Shadow
 ms.assetid: 4bba86c9-1407-a3ca-d98d-bee3b1f87493
+ms.date: 06/08/2017
 ---
 
 

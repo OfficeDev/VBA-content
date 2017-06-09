@@ -3,10 +3,11 @@ title: Sheets.Visible Property (Excel)
 keywords: vbaxl10.chm152086
 f1_keywords:
 - vbaxl10.chm152086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.Visible
 ms.assetid: a30627df-6535-6617-f8dc-6cca34435e8d
+ms.date: 06/08/2017
 ---
 
 

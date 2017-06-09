@@ -3,10 +3,11 @@ title: Application.SelectTaskColumn Method (Project)
 keywords: vbapj.chm2065
 f1_keywords:
 - vbapj.chm2065
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectTaskColumn
 ms.assetid: f4269749-de44-d7dd-de74-c95a046411fe
+ms.date: 06/08/2017
 ---
 
 

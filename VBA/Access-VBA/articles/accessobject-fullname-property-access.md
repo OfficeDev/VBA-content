@@ -3,10 +3,11 @@ title: AccessObject.FullName Property (Access)
 keywords: vbaac10.chm12751
 f1_keywords:
 - vbaac10.chm12751
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.FullName
 ms.assetid: 9e6d2249-893e-8b0f-87b8-c427e6d89927
+ms.date: 06/08/2017
 ---
 
 

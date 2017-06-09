@@ -3,10 +3,11 @@ title: ListTemplate Object (Word)
 keywords: vbawd10.chm2447
 f1_keywords:
 - vbawd10.chm2447
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplate
 ms.assetid: d5e339f7-5798-305b-a6b0-6b572d9112f4
+ms.date: 06/08/2017
 ---
 
 

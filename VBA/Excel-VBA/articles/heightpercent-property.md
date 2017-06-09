@@ -3,10 +3,11 @@ title: HeightPercent Property
 keywords: vbagr10.chm5207525
 f1_keywords:
 - vbagr10.chm5207525
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HeightPercent
 ms.assetid: 711c65bd-5603-2678-e07b-fa20d55ada4b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TableOfAuthoritiesCategory.Creator Property (Word)
 keywords: vbawd10.chm158794729
 f1_keywords:
 - vbawd10.chm158794729
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthoritiesCategory.Creator
 ms.assetid: cf7f8dec-174a-f10d-f631-c65ad589f97f
+ms.date: 06/08/2017
 ---
 
 

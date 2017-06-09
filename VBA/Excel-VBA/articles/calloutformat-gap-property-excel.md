@@ -3,10 +3,11 @@ title: CalloutFormat.Gap Property (Excel)
 keywords: vbaxl10.chm104013
 f1_keywords:
 - vbaxl10.chm104013
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Gap
 ms.assetid: 6f50eb69-23f8-a9a1-e0cf-16caf76f3263
+ms.date: 06/08/2017
 ---
 
 

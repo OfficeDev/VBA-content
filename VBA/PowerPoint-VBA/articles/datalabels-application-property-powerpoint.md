@@ -3,10 +3,11 @@ title: DataLabels.Application Property (PowerPoint)
 keywords: vbapp10.chm697002
 f1_keywords:
 - vbapp10.chm697002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Application
 ms.assetid: c790ee90-b36a-9d72-2cf5-099200cc051e
+ms.date: 06/08/2017
 ---
 
 

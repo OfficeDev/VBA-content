@@ -3,8 +3,9 @@ title: Out of resources
 keywords: vblr6.chm1011241
 f1_keywords:
 - vblr6.chm1011241
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e072df25-75b2-4537-3ede-c5406415bee3
+ms.date: 06/08/2017
 ---
 
 

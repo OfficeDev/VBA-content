@@ -3,8 +3,9 @@ title: CategoryCollection.Item Method (Word)
 keywords: vbawd10.chm204275712
 f1_keywords:
 - vbawd10.chm204275712
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 00e28830-4020-5916-b4b6-58b9e1a931b7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: This key is already associated with an element of this collection (Error 
 keywords: vblr6.chm1019364
 f1_keywords:
 - vblr6.chm1019364
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b3c41f2f-c657-4634-b6d4-552bf327992c
+ms.date: 06/08/2017
 ---
 
 

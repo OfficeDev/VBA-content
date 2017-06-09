@@ -3,10 +3,11 @@ title: CodeData.AllQueries Property (Access)
 keywords: vbaac10.chm12733
 f1_keywords:
 - vbaac10.chm12733
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeData.AllQueries
 ms.assetid: 4582c885-0f92-60dc-e061-dd2d4a0c6971
+ms.date: 06/08/2017
 ---
 
 

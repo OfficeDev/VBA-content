@@ -1,9 +1,10 @@
 ---
 title: Application.Top Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Top
 ms.assetid: c6c34d81-5378-2e47-9849-31edf050b4b0
+ms.date: 06/08/2017
 ---
 
 

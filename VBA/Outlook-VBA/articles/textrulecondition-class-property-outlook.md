@@ -3,10 +3,11 @@ title: TextRuleCondition.Class Property (Outlook)
 keywords: vbaol11.chm2473
 f1_keywords:
 - vbaol11.chm2473
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TextRuleCondition.Class
 ms.assetid: 3c60e11c-7ddc-13a5-59b6-894e641f9238
+ms.date: 06/08/2017
 ---
 
 

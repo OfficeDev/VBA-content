@@ -3,10 +3,11 @@ title: DocumentWindow Object (PowerPoint)
 keywords: vbapp10.chm511000
 f1_keywords:
 - vbapp10.chm511000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow
 ms.assetid: 567c5e66-8d68-a868-4072-b5358cf69546
+ms.date: 06/08/2017
 ---
 
 

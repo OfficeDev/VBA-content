@@ -3,10 +3,11 @@ title: TextRange.InsertAfter Method (Publisher)
 keywords: vbapb10.chm5308448
 f1_keywords:
 - vbapb10.chm5308448
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertAfter
 ms.assetid: f647be29-68c7-b221-adf1-fa233583e74e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Error (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 64625aab-0ab4-e395-1291-343842560dfa
+ms.date: 06/08/2017
 ---
 
 
 # Error (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

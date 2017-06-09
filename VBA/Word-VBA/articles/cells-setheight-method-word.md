@@ -3,10 +3,11 @@ title: Cells.SetHeight Method (Word)
 keywords: vbawd10.chm155844811
 f1_keywords:
 - vbawd10.chm155844811
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.SetHeight
 ms.assetid: 116a309b-5687-5fee-e370-a990b310dfcb
+ms.date: 06/08/2017
 ---
 
 

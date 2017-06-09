@@ -3,10 +3,11 @@ title: CalloutFormat.CustomDrop Method (PowerPoint)
 keywords: vbapp10.chm559003
 f1_keywords:
 - vbapp10.chm559003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.CustomDrop
 ms.assetid: 0172ed46-cb73-755a-00c1-cf9c4d29e835
+ms.date: 06/08/2017
 ---
 
 

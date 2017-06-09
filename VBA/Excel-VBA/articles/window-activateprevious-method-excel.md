@@ -3,10 +3,11 @@ title: Window.ActivatePrevious Method (Excel)
 keywords: vbaxl10.chm356075
 f1_keywords:
 - vbaxl10.chm356075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ActivatePrevious
 ms.assetid: 5f244c28-ec32-7f28-cf0a-075f8a2d014d
+ms.date: 06/08/2017
 ---
 
 

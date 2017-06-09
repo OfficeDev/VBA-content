@@ -3,10 +3,11 @@ title: PivotTables.Item Method (Excel)
 keywords: vbaxl10.chm238074
 f1_keywords:
 - vbaxl10.chm238074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTables.Item
 ms.assetid: 1bdc8558-ec67-2823-fd02-ecd5ae4ecee6
+ms.date: 06/08/2017
 ---
 
 

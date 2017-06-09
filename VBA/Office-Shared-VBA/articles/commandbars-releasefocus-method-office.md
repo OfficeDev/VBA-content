@@ -3,10 +3,11 @@ title: CommandBars.ReleaseFocus Method (Office)
 keywords: vbaof11.chm2012
 f1_keywords:
 - vbaof11.chm2012
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.ReleaseFocus
 ms.assetid: 2ddca1e1-b8f4-a09c-120d-498b816747c4
+ms.date: 06/08/2017
 ---
 
 

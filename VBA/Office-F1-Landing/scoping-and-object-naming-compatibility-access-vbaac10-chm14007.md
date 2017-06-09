@@ -3,8 +3,9 @@ title: Scoping and Object-Naming Compatibility, Access [vbaac10.chm14007]
 keywords: vbaac10.chm14007
 f1_keywords:
 - vbaac10.chm14007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7dfac6b7-5fdb-4779-9606-e4195ba7078c
+ms.date: 06/08/2017
 ---
 
 

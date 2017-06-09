@@ -3,10 +3,11 @@ title: PageSetup.Creator Property (Word)
 keywords: vbawd10.chm158401513
 f1_keywords:
 - vbawd10.chm158401513
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.Creator
 ms.assetid: 5b21e35c-aac4-3eef-3aa2-718e47417d56
+ms.date: 06/08/2017
 ---
 
 

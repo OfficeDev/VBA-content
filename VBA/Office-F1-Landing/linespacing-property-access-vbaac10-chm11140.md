@@ -3,8 +3,9 @@ title: LineSpacing Property, Access [vbaac10.chm11140]
 keywords: vbaac10.chm11140
 f1_keywords:
 - vbaac10.chm11140
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 47e29435-d567-4fa7-917d-6556810f9d33
+ms.date: 06/08/2017
 ---
 
 

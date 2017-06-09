@@ -3,10 +3,11 @@ title: Shape.Apply Method (Excel)
 keywords: vbaxl10.chm636074
 f1_keywords:
 - vbaxl10.chm636074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Apply
 ms.assetid: fe094baf-76d7-8418-aa34-c90d37f95def
+ms.date: 06/08/2017
 ---
 
 

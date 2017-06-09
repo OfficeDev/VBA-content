@@ -3,10 +3,11 @@ title: Application.PresentationPrint Event (PowerPoint)
 keywords: vbapp10.chm621015
 f1_keywords:
 - vbapp10.chm621015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.PresentationPrint
 ms.assetid: 41a420b7-c5db-7869-6763-da9cec710d83
+ms.date: 06/08/2017
 ---
 
 

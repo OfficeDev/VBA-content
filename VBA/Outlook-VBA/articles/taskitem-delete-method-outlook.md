@@ -3,10 +3,11 @@ title: TaskItem.Delete Method (Outlook)
 keywords: vbaol11.chm1714
 f1_keywords:
 - vbaol11.chm1714
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Delete
 ms.assetid: 0a2cf917-4899-0fe0-c7dc-35daa70f0892
+ms.date: 06/08/2017
 ---
 
 

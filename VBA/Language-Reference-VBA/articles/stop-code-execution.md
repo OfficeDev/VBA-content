@@ -3,8 +3,9 @@ title: Stop Code Execution
 keywords: vbhw6.chm1008937
 f1_keywords:
 - vbhw6.chm1008937
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0608ca1-d6d8-d722-cbd7-8a31634264ed
+ms.date: 06/08/2017
 ---
 
 

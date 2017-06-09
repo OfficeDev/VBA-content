@@ -3,10 +3,11 @@ title: Endnote.Index Property (Word)
 keywords: vbawd10.chm155058182
 f1_keywords:
 - vbawd10.chm155058182
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnote.Index
 ms.assetid: 8f41fac6-7a2e-f787-9c4a-749c323aa3d9
+ms.date: 06/08/2017
 ---
 
 

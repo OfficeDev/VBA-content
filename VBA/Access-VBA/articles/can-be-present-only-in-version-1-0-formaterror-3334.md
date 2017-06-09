@@ -3,14 +3,15 @@ title: Can be present only in version 1.0 format. (Error 3334)
 keywords: jeterr40.chm5003334
 f1_keywords:
 - jeterr40.chm5003334
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e8fad3b1-3684-41f3-aa6c-6a01554e9df7
+ms.date: 06/08/2017
 ---
 
 
 # Can be present only in version 1.0 format. (Error 3334)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

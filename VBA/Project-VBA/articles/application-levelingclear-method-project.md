@@ -3,10 +3,11 @@ title: Application.LevelingClear Method (Project)
 keywords: vbapj.chm612
 f1_keywords:
 - vbapj.chm612
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelingClear
 ms.assetid: fdd537eb-f9c2-c8d9-ec26-0f4af9a63c33
+ms.date: 06/08/2017
 ---
 
 

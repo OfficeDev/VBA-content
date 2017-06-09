@@ -3,10 +3,11 @@ title: Selection.AutomaticLink Method (Visio)
 keywords: vis_sdr.chm11160210
 f1_keywords:
 - vis_sdr.chm11160210
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.AutomaticLink
 ms.assetid: 6943b2b1-269a-7759-d981-a3749cfbeaee
+ms.date: 06/08/2017
 ---
 
 

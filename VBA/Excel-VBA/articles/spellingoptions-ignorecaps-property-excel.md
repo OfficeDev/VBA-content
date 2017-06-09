@@ -3,10 +3,11 @@ title: SpellingOptions.IgnoreCaps Property (Excel)
 keywords: vbaxl10.chm717075
 f1_keywords:
 - vbaxl10.chm717075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.IgnoreCaps
 ms.assetid: 185b79d8-9c46-3b17-d2ee-e2544e2dce22
+ms.date: 06/08/2017
 ---
 
 

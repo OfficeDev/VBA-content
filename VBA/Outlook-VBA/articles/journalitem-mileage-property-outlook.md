@@ -3,10 +3,11 @@ title: JournalItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1247
 f1_keywords:
 - vbaol11.chm1247
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Mileage
 ms.assetid: 8a53294f-3de7-a149-d329-bdd110325706
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TaskDependency.Type Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependency.Type
 ms.assetid: fb8203b5-72ab-8b10-6698-461a75fce588
+ms.date: 06/08/2017
 ---
 
 

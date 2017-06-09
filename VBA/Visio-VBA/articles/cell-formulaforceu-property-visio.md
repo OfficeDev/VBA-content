@@ -3,10 +3,11 @@ title: Cell.FormulaForceU Property (Visio)
 keywords: vis_sdr.chm10151970
 f1_keywords:
 - vis_sdr.chm10151970
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.FormulaForceU
 ms.assetid: 386003e3-b9e9-4c35-ac14-55bdb8da4375
+ms.date: 06/08/2017
 ---
 
 

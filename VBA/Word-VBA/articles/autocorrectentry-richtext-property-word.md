@@ -3,10 +3,11 @@ title: AutoCorrectEntry.RichText Property (Word)
 keywords: vbawd10.chm155648004
 f1_keywords:
 - vbawd10.chm155648004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntry.RichText
 ms.assetid: f612473f-d051-1b22-3274-dbd0dd8c49ac
+ms.date: 06/08/2017
 ---
 
 

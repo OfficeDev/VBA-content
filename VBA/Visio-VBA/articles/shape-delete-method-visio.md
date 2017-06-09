@@ -3,10 +3,11 @@ title: Shape.Delete Method (Visio)
 keywords: vis_sdr.chm11216165
 f1_keywords:
 - vis_sdr.chm11216165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Delete
 ms.assetid: 0960d9e1-b091-ea8c-0724-e10a68d8821a
+ms.date: 06/08/2017
 ---
 
 

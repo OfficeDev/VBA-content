@@ -1,9 +1,10 @@
 ---
 title: SmartArt Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArt
 ms.assetid: 24332c9b-87c9-7678-9d9f-9e25f2370afc
+ms.date: 06/08/2017
 ---
 
 

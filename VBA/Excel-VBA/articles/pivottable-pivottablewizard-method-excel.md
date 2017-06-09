@@ -3,10 +3,11 @@ title: PivotTable.PivotTableWizard Method (Excel)
 keywords: vbaxl10.chm235117
 f1_keywords:
 - vbaxl10.chm235117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotTableWizard
 ms.assetid: 65b988fd-7b0a-ebcb-61ca-8ece8819aebf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.MinimumScaleIsAuto Property (Word)
 keywords: vbawd10.chm113049634
 f1_keywords:
 - vbawd10.chm113049634
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MinimumScaleIsAuto
 ms.assetid: 7e9ca498-1872-c4b1-e0b0-8d4444387747
+ms.date: 06/08/2017
 ---
 
 

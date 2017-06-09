@@ -3,10 +3,11 @@ title: Application.InsertBlankRow Method (Project)
 keywords: vbapj.chm2171
 f1_keywords:
 - vbapj.chm2171
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.InsertBlankRow
 ms.assetid: 1726e283-d242-53d4-d675-b9cb9d649d29
+ms.date: 06/08/2017
 ---
 
 

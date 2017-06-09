@@ -3,10 +3,11 @@ title: NegativeBarFormat.ColorType Property (Excel)
 keywords: vbaxl10.chm887073
 f1_keywords:
 - vbaxl10.chm887073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat.ColorType
 ms.assetid: 01485eab-0aa3-278e-2976-02e0d0757a4f
+ms.date: 06/08/2017
 ---
 
 

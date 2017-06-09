@@ -1,9 +1,10 @@
 ---
 title: Crop.PictureOffsetX Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.PictureOffsetX
 ms.assetid: 71ba4f1d-d94e-262e-e719-32d06bf258ef
+ms.date: 06/08/2017
 ---
 
 

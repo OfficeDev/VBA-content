@@ -3,10 +3,11 @@ title: Application.LinkTasks Method (Project)
 keywords: vbapj.chm210
 f1_keywords:
 - vbapj.chm210
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LinkTasks
 ms.assetid: cc41c963-533c-97bf-8301-388bb2aaf746
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AppointmentItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm914
 f1_keywords:
 - vbaol11.chm914
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.DownloadState
 ms.assetid: 0b380863-817d-0f5e-0117-464ab218dbb2
+ms.date: 06/08/2017
 ---
 
 

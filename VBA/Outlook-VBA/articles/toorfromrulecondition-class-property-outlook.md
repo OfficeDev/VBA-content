@@ -3,10 +3,11 @@ title: ToOrFromRuleCondition.Class Property (Outlook)
 keywords: vbaol11.chm2457
 f1_keywords:
 - vbaol11.chm2457
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ToOrFromRuleCondition.Class
 ms.assetid: 853ceee0-906a-42f8-69c7-f293a226c690
+ms.date: 06/08/2017
 ---
 
 

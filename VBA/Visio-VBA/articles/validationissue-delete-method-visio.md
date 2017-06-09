@@ -3,10 +3,11 @@ title: ValidationIssue.Delete Method (Visio)
 keywords: vis_sdr.chm18616165
 f1_keywords:
 - vis_sdr.chm18616165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationIssue.Delete
 ms.assetid: a585713e-b394-5e5f-e5b2-259dacbe8bec
+ms.date: 06/08/2017
 ---
 
 

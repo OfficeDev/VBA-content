@@ -3,10 +3,11 @@ title: FillFormat.PresetTexture Property (PowerPoint)
 keywords: vbapp10.chm552019
 f1_keywords:
 - vbapp10.chm552019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.PresetTexture
 ms.assetid: 684d39f9-53d8-4f69-a6ae-c447253ae3a7
+ms.date: 06/08/2017
 ---
 
 

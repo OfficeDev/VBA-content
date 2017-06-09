@@ -3,10 +3,11 @@ title: PropertyPageSite.OnStatusChange Method (Outlook)
 keywords: vbaol11.chm389
 f1_keywords:
 - vbaol11.chm389
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPageSite.OnStatusChange
 ms.assetid: d314f8fc-33f5-0a6f-22c0-e26548e21a4f
+ms.date: 06/08/2017
 ---
 
 

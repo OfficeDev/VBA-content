@@ -3,8 +3,9 @@ title: Control and Dialog Box Events (PowerPoint)
 keywords: vbapp10.chm5192314
 f1_keywords:
 - vbapp10.chm5192314
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 ms.assetid: 8fc4cece-05e3-3b03-9d6b-5a7bf4fa8a26
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextEffectFormat.Text Property (Publisher)
 keywords: vbapb10.chm3735824
 f1_keywords:
 - vbapb10.chm3735824
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.Text
 ms.assetid: eae1e95f-b0e6-559b-39a5-40291e758915
+ms.date: 06/08/2017
 ---
 
 

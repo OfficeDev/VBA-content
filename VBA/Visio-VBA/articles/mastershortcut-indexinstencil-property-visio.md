@@ -3,10 +3,11 @@ title: MasterShortcut.IndexInStencil Property (Visio)
 keywords: vis_sdr.chm16013700
 f1_keywords:
 - vis_sdr.chm16013700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.IndexInStencil
 ms.assetid: 4136d07c-6cb4-9f82-a358-d37977d8d4ae
+ms.date: 06/08/2017
 ---
 
 

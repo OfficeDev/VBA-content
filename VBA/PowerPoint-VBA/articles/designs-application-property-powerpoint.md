@@ -3,10 +3,11 @@ title: Designs.Application Property (PowerPoint)
 keywords: vbapp10.chm643001
 f1_keywords:
 - vbapp10.chm643001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Application
 ms.assetid: 2e91c645-b2b3-9feb-ea5c-bc998424abd9
+ms.date: 06/08/2017
 ---
 
 

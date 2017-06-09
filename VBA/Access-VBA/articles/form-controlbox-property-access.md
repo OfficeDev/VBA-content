@@ -3,10 +3,11 @@ title: Form.ControlBox Property (Access)
 keywords: vbaac10.chm13372
 f1_keywords:
 - vbaac10.chm13372
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ControlBox
 ms.assetid: c4d9976c-631d-ae99-0c5d-e7008bbdadf9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotCache.BackgroundQuery Property (Excel)
 keywords: vbaxl10.chm227073
 f1_keywords:
 - vbaxl10.chm227073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.BackgroundQuery
 ms.assetid: 91909d27-68ca-a870-5cd9-72019c65f060
+ms.date: 06/08/2017
 ---
 
 

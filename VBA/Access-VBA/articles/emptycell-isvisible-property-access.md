@@ -3,10 +3,11 @@ title: EmptyCell.IsVisible Property (Access)
 keywords: vbaac10.chm14317
 f1_keywords:
 - vbaac10.chm14317
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.IsVisible
 ms.assetid: ef61a89d-69a3-2428-352a-10bfe1b39c47
+ms.date: 06/08/2017
 ---
 
 

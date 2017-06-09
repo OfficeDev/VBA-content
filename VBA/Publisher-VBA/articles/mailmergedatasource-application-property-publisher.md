@@ -3,10 +3,11 @@ title: MailMergeDataSource.Application Property (Publisher)
 keywords: vbapb10.chm6291457
 f1_keywords:
 - vbapb10.chm6291457
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Application
 ms.assetid: ef2588ef-7666-5fca-96a0-f50f69267f28
+ms.date: 06/08/2017
 ---
 
 

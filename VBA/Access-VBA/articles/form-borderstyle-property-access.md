@@ -3,10 +3,11 @@ title: Form.BorderStyle Property (Access)
 keywords: vbaac10.chm13371
 f1_keywords:
 - vbaac10.chm13371
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BorderStyle
 ms.assetid: a6c4d49b-4227-09e9-2999-6f8954bbeb39
+ms.date: 06/08/2017
 ---
 
 

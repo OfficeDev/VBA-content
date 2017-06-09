@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetLightingSoftness Property (Publisher)
 keywords: vbapb10.chm3801350
 f1_keywords:
 - vbapb10.chm3801350
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 8bad53c5-9d1c-367f-3f43-64691e193334
+ms.date: 06/08/2017
 ---
 
 

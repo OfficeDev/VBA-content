@@ -1,7 +1,8 @@
 ---
 title: Chart.Format Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 3ccd9fd1-5a70-4692-ffd5-9b04544554fd
+ms.date: 06/08/2017
 ---
 
 

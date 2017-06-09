@@ -3,10 +3,11 @@ title: Application.FilterShowSummaryRows Method (Project)
 keywords: vbapj.chm2297
 f1_keywords:
 - vbapj.chm2297
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilterShowSummaryRows
 ms.assetid: 173bf591-7579-505f-3cbd-42eaddb231ad
+ms.date: 06/08/2017
 ---
 
 

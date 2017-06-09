@@ -1,7 +1,8 @@
 ---
 title: Shape.Line Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 76d5bba5-c33f-ea1a-23c3-d7a35fb3f992
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.Orientation Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.Orientation
 ms.assetid: 529b71d3-d653-61c6-eb0a-69b2f3910d0a
+ms.date: 06/08/2017
 ---
 
 

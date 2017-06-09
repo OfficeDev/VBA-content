@@ -3,10 +3,11 @@ title: Research.Creator Property (Excel)
 keywords: vbaxl10.chm848074
 f1_keywords:
 - vbaxl10.chm848074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Research.Creator
 ms.assetid: b2fb9ca3-00a0-036b-7f9d-ac16a1367637
+ms.date: 06/08/2017
 ---
 
 

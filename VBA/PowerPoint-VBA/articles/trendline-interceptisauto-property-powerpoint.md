@@ -3,10 +3,11 @@ title: Trendline.InterceptIsAuto Property (PowerPoint)
 keywords: vbapp10.chm65723
 f1_keywords:
 - vbapp10.chm65723
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.InterceptIsAuto
 ms.assetid: 568c57e5-c42f-8559-9c7c-30a72e46463a
+ms.date: 06/08/2017
 ---
 
 

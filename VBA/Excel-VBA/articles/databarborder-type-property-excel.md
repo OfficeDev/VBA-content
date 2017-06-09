@@ -3,10 +3,11 @@ title: DataBarBorder.Type Property (Excel)
 keywords: vbaxl10.chm885073
 f1_keywords:
 - vbaxl10.chm885073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataBarBorder.Type
 ms.assetid: 9364fadd-5dba-d8a2-a704-a4876173e4a2
+ms.date: 06/08/2017
 ---
 
 

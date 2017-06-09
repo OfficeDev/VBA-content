@@ -3,14 +3,15 @@ title: Wrong number of arguments used with function. (Error 2439)
 keywords: jeterr40.chm5002439
 f1_keywords:
 - jeterr40.chm5002439
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 099b4d0b-5c1f-c1dd-8669-ac380daf7bcd
+ms.date: 06/08/2017
 ---
 
 
 # Wrong number of arguments used with function. (Error 2439)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

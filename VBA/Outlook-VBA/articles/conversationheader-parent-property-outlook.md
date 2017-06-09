@@ -3,10 +3,11 @@ title: ConversationHeader.Parent Property (Outlook)
 keywords: vbaol11.chm3545
 f1_keywords:
 - vbaol11.chm3545
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.Parent
 ms.assetid: 2f465ae5-18a9-ad77-4419-eb8ec81acb2f
+ms.date: 06/08/2017
 ---
 
 

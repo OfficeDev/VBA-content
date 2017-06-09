@@ -1,9 +1,10 @@
 ---
 title: RemoteItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Reply
 ms.assetid: 47b49c1a-2e70-0265-d36d-58cf3800ffaf
+ms.date: 06/08/2017
 ---
 
 

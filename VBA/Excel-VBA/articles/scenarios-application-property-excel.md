@@ -3,10 +3,11 @@ title: Scenarios.Application Property (Excel)
 keywords: vbaxl10.chm361073
 f1_keywords:
 - vbaxl10.chm361073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenarios.Application
 ms.assetid: dc2257ff-19d4-db52-7d06-3f802f9dbcb3
+ms.date: 06/08/2017
 ---
 
 

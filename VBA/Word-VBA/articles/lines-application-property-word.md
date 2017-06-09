@@ -3,10 +3,11 @@ title: Lines.Application Property (Word)
 keywords: vbawd10.chm67109864
 f1_keywords:
 - vbawd10.chm67109864
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Lines.Application
 ms.assetid: be55b8cf-5a3d-4e5c-25e9-ef146758326f
+ms.date: 06/08/2017
 ---
 
 

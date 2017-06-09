@@ -3,10 +3,11 @@ title: ListColumn.TotalsCalculation Property (Excel)
 keywords: vbaxl10.chm738079
 f1_keywords:
 - vbaxl10.chm738079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.TotalsCalculation
 ms.assetid: bb8c1dd1-1ee6-3ef8-8af4-2b3f24eb642d
+ms.date: 06/08/2017
 ---
 
 

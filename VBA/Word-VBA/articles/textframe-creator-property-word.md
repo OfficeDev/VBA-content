@@ -3,10 +3,11 @@ title: TextFrame.Creator Property (Word)
 keywords: vbawd10.chm162668353
 f1_keywords:
 - vbawd10.chm162668353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.Creator
 ms.assetid: 5e5f129f-bcbd-81ab-bf87-4a250824b6c5
+ms.date: 06/08/2017
 ---
 
 

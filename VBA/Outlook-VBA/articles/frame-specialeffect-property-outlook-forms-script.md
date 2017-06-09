@@ -1,7 +1,8 @@
 ---
 title: Frame.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e1e6a452-e57e-3d7f-cfe9-46ec5f63fd7f
+ms.date: 06/08/2017
 ---
 
 

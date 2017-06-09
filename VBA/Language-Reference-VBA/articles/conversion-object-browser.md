@@ -3,8 +3,9 @@ title: Conversion (Object Browser)
 keywords: vblr6.chm1011390
 f1_keywords:
 - vblr6.chm1011390
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de086845-a531-b659-72e5-416c30865494
+ms.date: 06/08/2017
 ---
 
 

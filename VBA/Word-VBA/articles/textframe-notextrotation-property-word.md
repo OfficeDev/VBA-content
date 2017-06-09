@@ -3,10 +3,11 @@ title: TextFrame.NoTextRotation Property (Word)
 keywords: vbawd10.chm162665369
 f1_keywords:
 - vbawd10.chm162665369
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.NoTextRotation
 ms.assetid: 6eebb06f-aa4c-91d1-1a00-fc332d55da91
+ms.date: 06/08/2017
 ---
 
 

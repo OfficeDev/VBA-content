@@ -3,10 +3,11 @@ title: DistListItem.SaveAs Method (Outlook)
 keywords: vbaol11.chm1147
 f1_keywords:
 - vbaol11.chm1147
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.SaveAs
 ms.assetid: 6c551868-5142-81ec-c6cb-76fe54bf570c
+ms.date: 06/08/2017
 ---
 
 

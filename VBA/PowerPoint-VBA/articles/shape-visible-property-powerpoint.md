@@ -3,10 +3,11 @@ title: Shape.Visible Property (PowerPoint)
 keywords: vbapp10.chm547041
 f1_keywords:
 - vbapp10.chm547041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Visible
 ms.assetid: bf4d6dc9-fcae-1ae8-000f-736efcad34fc
+ms.date: 06/08/2017
 ---
 
 

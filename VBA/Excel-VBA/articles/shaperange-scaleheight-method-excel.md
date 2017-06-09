@@ -3,10 +3,11 @@ title: ShapeRange.ScaleHeight Method (Excel)
 keywords: vbaxl10.chm640090
 f1_keywords:
 - vbaxl10.chm640090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.ScaleHeight
 ms.assetid: 93687481-8c24-d002-19de-1b60cdfade06
+ms.date: 06/08/2017
 ---
 
 

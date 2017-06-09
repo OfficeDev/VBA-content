@@ -3,10 +3,11 @@ title: Shape.Delete Method (Excel)
 keywords: vbaxl10.chm636075
 f1_keywords:
 - vbaxl10.chm636075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Delete
 ms.assetid: f4b046a9-aff8-e78d-90f4-25875336476a
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: DownBars.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Creator
 ms.assetid: 7fcf2b5a-521d-55ac-322a-380e3308356a
+ms.date: 06/08/2017
 ---
 
 

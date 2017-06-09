@@ -3,10 +3,11 @@ title: PageNumbers.NumberStyle Property (Word)
 keywords: vbawd10.chm159776770
 f1_keywords:
 - vbawd10.chm159776770
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.NumberStyle
 ms.assetid: 5a7a3101-3b16-a107-8790-3666fa7fba54
+ms.date: 06/08/2017
 ---
 
 

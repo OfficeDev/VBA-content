@@ -3,10 +3,11 @@ title: ServerPolicy.Id Property (Office)
 keywords: vbaof11.chm278011
 f1_keywords:
 - vbaof11.chm278011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ServerPolicy.Id
 ms.assetid: b1838ff9-d01a-bf19-a9a1-66627242eacc
+ms.date: 06/08/2017
 ---
 
 

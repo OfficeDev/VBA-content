@@ -3,10 +3,11 @@ title: TextEffectFormat.PresetShape Property (Word)
 keywords: vbawd10.chm164561003
 f1_keywords:
 - vbawd10.chm164561003
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.PresetShape
 ms.assetid: 4d183208-7ea2-7179-4c6c-f710c16dd5fb
+ms.date: 06/08/2017
 ---
 
 

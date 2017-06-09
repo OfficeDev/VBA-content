@@ -3,10 +3,11 @@ title: Label.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BackTint
 ms.assetid: 63825295-8bd1-6dfc-8bfc-3cb346b46ad0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Rows Object, Word [vbawd10.chm2380]
 keywords: vbawd10.chm2380
 f1_keywords:
 - vbawd10.chm2380
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ad06794e-4541-476f-99fe-34b99fdaf0e5
+ms.date: 06/08/2017
 ---
 
 

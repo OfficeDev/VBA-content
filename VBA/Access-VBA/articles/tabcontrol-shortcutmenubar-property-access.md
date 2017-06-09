@@ -3,10 +3,11 @@ title: TabControl.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm12097
 f1_keywords:
 - vbaac10.chm12097
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.ShortcutMenuBar
 ms.assetid: cc1becd1-4300-9d96-ca4d-4f2addfc63e9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Height Property, Word [vbawd10.chm233900020]
 keywords: vbawd10.chm233900020
 f1_keywords:
 - vbawd10.chm233900020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 74cc3423-c53a-42ed-af9b-f89c9711fbfb
+ms.date: 06/08/2017
 ---
 
 

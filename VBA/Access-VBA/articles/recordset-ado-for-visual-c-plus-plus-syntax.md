@@ -1,13 +1,14 @@
 ---
 title: Recordset (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9abd27de-9794-eb50-9744-1c0dfc13c98b
+ms.date: 06/08/2017
 ---
 
 
 # Recordset (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

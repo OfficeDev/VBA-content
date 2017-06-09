@@ -3,10 +3,11 @@ title: Text Property
 keywords: vbagr10.chm3077592
 f1_keywords:
 - vbagr10.chm3077592
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Text
 ms.assetid: 1af6b778-b303-2bf1-8558-f665c71222a8
+ms.date: 06/08/2017
 ---
 
 

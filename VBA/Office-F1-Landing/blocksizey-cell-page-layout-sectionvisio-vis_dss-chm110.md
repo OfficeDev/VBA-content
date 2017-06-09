@@ -3,8 +3,9 @@ title: BlockSizeY Cell (Page Layout Section), Visio [Vis_DSS.chm110]
 keywords: vis_dss.chm110
 f1_keywords:
 - vis_dss.chm110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4e3ac6e-a37e-46ec-94ee-6cb7b0670e3d
+ms.date: 06/08/2017
 ---
 
 

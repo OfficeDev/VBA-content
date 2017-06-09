@@ -3,8 +3,9 @@ title: Foreign Image Info Section, Visio [Vis_DSS.chm2050]
 keywords: vis_dss.chm2050
 f1_keywords:
 - vis_dss.chm2050
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 145b92ed-e3bf-41f5-9955-4cab5fb4fb48
+ms.date: 06/08/2017
 ---
 
 

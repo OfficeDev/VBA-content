@@ -3,10 +3,11 @@ title: SpellingSuggestion.Creator Property (Word)
 keywords: vbawd10.chm162202601
 f1_keywords:
 - vbawd10.chm162202601
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SpellingSuggestion.Creator
 ms.assetid: 59f969ef-e105-4a13-f48c-c5ab9e666f2d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: CostRateTables Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: f08a0a0c-d7ef-f315-5435-804897d5158a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ExchangeUser.Delete Method (Outlook)
 keywords: vbaol11.chm2073
 f1_keywords:
 - vbaol11.chm2073
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Delete
 ms.assetid: d11a82c4-28de-efef-5170-20f999f2bf08
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: COMAddIns Object (Office)
 keywords: vbaof11.chm220000
 f1_keywords:
 - vbaof11.chm220000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIns
 ms.assetid: f6efa1cc-8d30-27d5-8b07-7ddad22f16ef
+ms.date: 06/08/2017
 ---
 
 

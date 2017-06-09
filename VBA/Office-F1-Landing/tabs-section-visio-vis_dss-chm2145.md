@@ -3,8 +3,9 @@ title: Tabs Section, Visio [Vis_DSS.chm2145]
 keywords: vis_dss.chm2145
 f1_keywords:
 - vis_dss.chm2145
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a125761-0d25-4ad3-ae5e-80f53a127f95
+ms.date: 06/08/2017
 ---
 
 

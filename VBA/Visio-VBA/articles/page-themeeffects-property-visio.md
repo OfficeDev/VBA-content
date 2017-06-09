@@ -3,10 +3,11 @@ title: Page.ThemeEffects Property (Visio)
 keywords: vis_sdr.chm10960185
 f1_keywords:
 - vis_sdr.chm10960185
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ThemeEffects
 ms.assetid: 566ee9aa-9c45-e53b-2634-c666565e6fbb
+ms.date: 06/08/2017
 ---
 
 

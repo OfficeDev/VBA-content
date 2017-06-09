@@ -3,10 +3,11 @@ title: DocumentWindow.ExpandSection Method (PowerPoint)
 keywords: vbapp10.chm511031
 f1_keywords:
 - vbapp10.chm511031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.ExpandSection
 ms.assetid: bf4548ea-1459-9a2e-ad5a-e7d16c1b312d
+ms.date: 06/08/2017
 ---
 
 

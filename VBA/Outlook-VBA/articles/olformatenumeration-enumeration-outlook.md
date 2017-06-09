@@ -3,10 +3,11 @@ title: OlFormatEnumeration Enumeration (Outlook)
 keywords: vbaol11.chm3140
 f1_keywords:
 - vbaol11.chm3140
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatEnumeration
 ms.assetid: e47b6c54-ef21-4a5b-6ab1-b26a9aafffa2
+ms.date: 06/08/2017
 ---
 
 

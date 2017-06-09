@@ -3,8 +3,9 @@ title: Columns Property, Excel [vbagr10.chm3076982]
 keywords: vbagr10.chm3076982
 f1_keywords:
 - vbagr10.chm3076982
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cf02da0c-6802-4dc0-a68c-d7992f1095b6
+ms.date: 06/08/2017
 ---
 
 

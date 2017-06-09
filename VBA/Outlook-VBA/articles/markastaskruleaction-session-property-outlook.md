@@ -3,10 +3,11 @@ title: MarkAsTaskRuleAction.Session Property (Outlook)
 keywords: vbaol11.chm2281
 f1_keywords:
 - vbaol11.chm2281
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MarkAsTaskRuleAction.Session
 ms.assetid: c98edd5e-e887-4dfe-9e92-1618f506a10b
+ms.date: 06/08/2017
 ---
 
 

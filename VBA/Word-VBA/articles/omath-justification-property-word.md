@@ -3,10 +3,11 @@ title: OMath.Justification Property (Word)
 keywords: vbawd10.chm176357491
 f1_keywords:
 - vbawd10.chm176357491
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.Justification
 ms.assetid: 6e5d2221-bbfb-b108-159f-d705b900c25e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Series.MarkerBackgroundColorIndex Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerBackgroundColorIndex
 ms.assetid: 18640945-ac4a-c661-46fa-804a66f57502
+ms.date: 06/08/2017
 ---
 
 

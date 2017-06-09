@@ -1,9 +1,10 @@
 ---
 title: PjThemeElement Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjThemeElement
 ms.assetid: 68a138b0-2af6-5919-69ad-3e0c71e885d2
+ms.date: 06/08/2017
 ---
 
 

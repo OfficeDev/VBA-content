@@ -3,10 +3,11 @@ title: ComboBox.ColumnCount Property (Access)
 keywords: vbaac10.chm11380
 f1_keywords:
 - vbaac10.chm11380
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ColumnCount
 ms.assetid: 76db2415-ee22-89c6-6753-f20d636d41f8
+ms.date: 06/08/2017
 ---
 
 

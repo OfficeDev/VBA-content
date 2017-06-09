@@ -3,10 +3,11 @@ title: COMAddIn.Parent Property (Office)
 keywords: vbaof11.chm219009
 f1_keywords:
 - vbaof11.chm219009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIn.Parent
 ms.assetid: dddd8d3a-f5d7-7a30-8301-f9dd0775f0a8
+ms.date: 06/08/2017
 ---
 
 

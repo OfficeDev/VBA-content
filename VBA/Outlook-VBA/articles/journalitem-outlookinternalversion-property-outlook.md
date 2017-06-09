@@ -3,10 +3,11 @@ title: JournalItem.OutlookInternalVersion Property (Outlook)
 keywords: vbaol11.chm1249
 f1_keywords:
 - vbaol11.chm1249
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.OutlookInternalVersion
 ms.assetid: f93de8b8-4111-7968-3a45-6ea05f746fcb
+ms.date: 06/08/2017
 ---
 
 

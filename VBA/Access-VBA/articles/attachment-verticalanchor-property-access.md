@@ -3,10 +3,11 @@ title: Attachment.VerticalAnchor Property (Access)
 keywords: vbaac10.chm13986
 f1_keywords:
 - vbaac10.chm13986
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.VerticalAnchor
 ms.assetid: bbb588c4-ec99-1352-4f1b-fd166d67df33
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PbInlineAlignment Enumeration (Publisher)
 keywords: vbapb10.chm65556
 f1_keywords:
 - vbapb10.chm65556
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbInlineAlignment
 ms.assetid: 923e19b1-3492-51ea-af79-52bdd99b232d
+ms.date: 06/08/2017
 ---
 
 

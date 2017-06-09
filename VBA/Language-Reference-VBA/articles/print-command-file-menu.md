@@ -3,8 +3,9 @@ title: Print Command (File Menu)
 keywords: vbui6.chm181016
 f1_keywords:
 - vbui6.chm181016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc2e9144-53a6-dc38-ceca-78c9a70d9a70
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: HTMLDivisions.NestingLevel Property (Word)
 keywords: vbawd10.chm166199298
 f1_keywords:
 - vbawd10.chm166199298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivisions.NestingLevel
 ms.assetid: 22c324c7-e7a2-8807-de7f-c9775a56d002
+ms.date: 06/08/2017
 ---
 
 

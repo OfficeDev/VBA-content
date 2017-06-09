@@ -1,9 +1,10 @@
 ---
 title: LegendEntry.Index Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Index
 ms.assetid: 99e0b634-1782-e87b-6b8e-73d58d020135
+ms.date: 06/08/2017
 ---
 
 

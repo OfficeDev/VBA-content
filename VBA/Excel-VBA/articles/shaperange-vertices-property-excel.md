@@ -3,10 +3,11 @@ title: ShapeRange.Vertices Property (Excel)
 keywords: vbaxl10.chm640120
 f1_keywords:
 - vbaxl10.chm640120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Vertices
 ms.assetid: 16cee6dd-9403-70e7-14dc-e75860d6406d
+ms.date: 06/08/2017
 ---
 
 

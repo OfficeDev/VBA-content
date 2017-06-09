@@ -3,10 +3,11 @@ title: Axis.MajorGridlines Property (Excel)
 keywords: vbaxl10.chm561084
 f1_keywords:
 - vbaxl10.chm561084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MajorGridlines
 ms.assetid: 618f880a-2b5d-2357-3c85-7b4858723b28
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ChartGroup.SeriesCollection Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SeriesCollection
 ms.assetid: 5d20f5b2-cd4c-06b6-a49c-0ab331157b2f
+ms.date: 06/08/2017
 ---
 
 

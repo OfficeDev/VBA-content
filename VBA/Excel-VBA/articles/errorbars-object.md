@@ -3,10 +3,11 @@ title: ErrorBars Object
 keywords: vbagr10.chm131213
 f1_keywords:
 - vbagr10.chm131213
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorBars
 ms.assetid: f087bede-5ce2-331f-09e1-4c801f8bca82
+ms.date: 06/08/2017
 ---
 
 

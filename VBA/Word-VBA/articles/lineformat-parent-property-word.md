@@ -3,10 +3,11 @@ title: LineFormat.Parent Property (Word)
 keywords: vbawd10.chm164233217
 f1_keywords:
 - vbawd10.chm164233217
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.Parent
 ms.assetid: c146b846-25a7-add1-cbde-5b3b4cf87986
+ms.date: 06/08/2017
 ---
 
 

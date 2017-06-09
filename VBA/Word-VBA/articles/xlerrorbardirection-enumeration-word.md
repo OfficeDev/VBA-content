@@ -1,7 +1,8 @@
 ---
 title: XlErrorBarDirection Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e4f29e17-11e7-6339-1855-45d929f19547
+ms.date: 06/08/2017
 ---
 
 

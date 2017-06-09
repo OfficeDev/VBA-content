@@ -3,10 +3,11 @@ title: ListBox.AfterUpdate Event (Access)
 keywords: vbaac10.chm14172
 f1_keywords:
 - vbaac10.chm14172
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.AfterUpdate
 ms.assetid: b95d98c8-0899-c555-14b4-d8e853b5dce3
+ms.date: 06/08/2017
 ---
 
 

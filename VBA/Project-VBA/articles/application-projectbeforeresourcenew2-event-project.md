@@ -1,9 +1,10 @@
 ---
 title: Application.ProjectBeforeResourceNew2 Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceNew2
 ms.assetid: 24c28eac-946b-80fb-5dcb-8b9ef499b547
+ms.date: 06/08/2017
 ---
 
 

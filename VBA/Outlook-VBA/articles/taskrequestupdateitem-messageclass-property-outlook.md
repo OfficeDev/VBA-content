@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1936
 f1_keywords:
 - vbaol11.chm1936
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.MessageClass
 ms.assetid: 2e9f8234-115c-bc65-ed12-fd86ac0acfa2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Could not save; currently locked by user <name> on machine <name>. (Error
 keywords: jeterr40.chm5003186
 f1_keywords:
 - jeterr40.chm5003186
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a9dfd52b-fb93-af2e-82ae-d2b878d0cd56
+ms.date: 06/08/2017
 ---
 
 
 # Could not save; currently locked by user <name> on machine <name>. (Error 3186)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

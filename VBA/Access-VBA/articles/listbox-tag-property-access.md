@@ -3,10 +3,11 @@ title: ListBox.Tag Property (Access)
 keywords: vbaac10.chm11273
 f1_keywords:
 - vbaac10.chm11273
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Tag
 ms.assetid: 85ee226a-3f66-820d-e90c-3e47ddb8d2d4
+ms.date: 06/08/2017
 ---
 
 

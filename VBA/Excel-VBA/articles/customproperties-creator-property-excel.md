@@ -3,10 +3,11 @@ title: CustomProperties.Creator Property (Excel)
 keywords: vbaxl10.chm679074
 f1_keywords:
 - vbaxl10.chm679074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomProperties.Creator
 ms.assetid: f40d5ca1-0606-e3ec-e4b3-278ec4f0e5f6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Font.Document Property (Visio)
 keywords: vis_sdr.chm12013430
 f1_keywords:
 - vis_sdr.chm12013430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Font.Document
 ms.assetid: 16416d0d-ca58-fc80-95db-b68117312fd3
+ms.date: 06/08/2017
 ---
 
 

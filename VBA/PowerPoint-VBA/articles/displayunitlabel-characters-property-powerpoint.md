@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Characters Property (PowerPoint)
 keywords: vbapp10.chm699002
 f1_keywords:
 - vbapp10.chm699002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Characters
 ms.assetid: 58a26e5b-3526-7eb9-f9c6-a6d83708bad8
+ms.date: 06/08/2017
 ---
 
 

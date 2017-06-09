@@ -3,10 +3,11 @@ title: Section.Tag Property (Access)
 keywords: vbaac10.chm12203
 f1_keywords:
 - vbaac10.chm12203
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.Tag
 ms.assetid: 121fa59f-d4e6-f020-3f2e-1a9218986c8c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationButton.Caption Property (Access)
 keywords: vbaac10.chm10450
 f1_keywords:
 - vbaac10.chm10450
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Caption
 ms.assetid: 65770d68-fe1f-4553-b8e8-25649db2e059
+ms.date: 06/08/2017
 ---
 
 

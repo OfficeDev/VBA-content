@@ -3,8 +3,9 @@ title: PPmt Function
 keywords: vblr6.chm1009286
 f1_keywords:
 - vblr6.chm1009286
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cb2a9f92-f1c3-b991-9d0f-42df652debcd
+ms.date: 06/08/2017
 ---
 
 

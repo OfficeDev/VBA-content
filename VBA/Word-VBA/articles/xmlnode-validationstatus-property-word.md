@@ -3,10 +3,11 @@ title: XMLNode.ValidationStatus Property (Word)
 keywords: vbawd10.chm37748758
 f1_keywords:
 - vbawd10.chm37748758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.ValidationStatus
 ms.assetid: 795114a1-09d3-f2c6-3572-4a8929ca062c
+ms.date: 06/08/2017
 ---
 
 

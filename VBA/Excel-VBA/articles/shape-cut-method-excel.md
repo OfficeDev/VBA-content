@@ -3,10 +3,11 @@ title: Shape.Cut Method (Excel)
 keywords: vbaxl10.chm636126
 f1_keywords:
 - vbaxl10.chm636126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Cut
 ms.assetid: 2b9ee596-4f61-1881-65e6-d786cf43061e
+ms.date: 06/08/2017
 ---
 
 

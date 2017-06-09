@@ -3,10 +3,11 @@ title: SparklineGroup.DateRange Property (Excel)
 keywords: vbaxl10.chm871078
 f1_keywords:
 - vbaxl10.chm871078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.DateRange
 ms.assetid: 4944aa78-89cc-8252-2c5e-148ca4229579
+ms.date: 06/08/2017
 ---
 
 

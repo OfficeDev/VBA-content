@@ -3,10 +3,11 @@ title: Pages.Add Method (Outlook)
 keywords: vbaol11.chm397
 f1_keywords:
 - vbaol11.chm397
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Pages.Add
 ms.assetid: 4a28aac5-be6f-0892-0fc1-17ded4dff783
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: SharedWorkspaceFolder Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b88e2368-45d3-49e7-91ba-79b2de9f75c6
+ms.date: 06/08/2017
 ---
 
 

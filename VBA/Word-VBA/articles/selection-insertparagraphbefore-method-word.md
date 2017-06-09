@@ -3,10 +3,11 @@ title: Selection.InsertParagraphBefore Method (Word)
 keywords: vbawd10.chm158662868
 f1_keywords:
 - vbawd10.chm158662868
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertParagraphBefore
 ms.assetid: f4843e0b-0d0f-ef6f-6f7a-423b49dceb50
+ms.date: 06/08/2017
 ---
 
 

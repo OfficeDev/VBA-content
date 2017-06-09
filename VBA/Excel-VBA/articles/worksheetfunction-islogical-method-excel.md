@@ -3,10 +3,11 @@ title: WorksheetFunction.IsLogical Method (Excel)
 keywords: vbaxl10.chm137151
 f1_keywords:
 - vbaxl10.chm137151
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsLogical
 ms.assetid: 1c7ac638-676c-6276-0604-5ecbf053407c
+ms.date: 06/08/2017
 ---
 
 

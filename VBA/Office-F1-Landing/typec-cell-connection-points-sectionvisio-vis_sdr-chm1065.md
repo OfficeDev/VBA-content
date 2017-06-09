@@ -3,8 +3,9 @@ title: Type / C Cell (Connection Points Section), Visio [vis_sdr.chm1065]
 keywords: vis_sdr.chm1065
 f1_keywords:
 - vis_sdr.chm1065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e37e7bfa-7af0-4723-88be-105c12b10417
+ms.date: 06/08/2017
 ---
 
 

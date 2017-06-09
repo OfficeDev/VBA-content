@@ -1,9 +1,10 @@
 ---
 title: Period.Default Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Period.Default
 ms.assetid: 5c1d5bd3-5756-47ba-2ccf-c417cee0f03e
+ms.date: 06/08/2017
 ---
 
 

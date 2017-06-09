@@ -1,7 +1,8 @@
 ---
 title: DocumentLibraryVersion Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c295360-5a7b-455c-ada1-dcfb97c64571
+ms.date: 06/08/2017
 ---
 
 

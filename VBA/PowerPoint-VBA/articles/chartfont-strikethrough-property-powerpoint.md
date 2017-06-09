@@ -3,10 +3,11 @@ title: ChartFont.Strikethrough Property (PowerPoint)
 keywords: vbapp10.chm704011
 f1_keywords:
 - vbapp10.chm704011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.StrikeThrough
 ms.assetid: 10e7680a-7649-e91e-7c2e-772e77775054
+ms.date: 06/08/2017
 ---
 
 

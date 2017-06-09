@@ -3,10 +3,11 @@ title: Shape.AddRows Method (Visio)
 keywords: vis_sdr.chm11216055
 f1_keywords:
 - vis_sdr.chm11216055
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.AddRows
 ms.assetid: 8b267f98-e077-0854-a1aa-a0ce8719a2c5
+ms.date: 06/08/2017
 ---
 
 

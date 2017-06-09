@@ -3,8 +3,9 @@ title: Exit Statement
 keywords: vblr6.chm1008916
 f1_keywords:
 - vblr6.chm1008916
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a1f4605-8220-c5b1-3760-c710f0535aa8
+ms.date: 06/08/2017
 ---
 
 

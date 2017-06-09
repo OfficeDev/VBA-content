@@ -3,10 +3,11 @@ title: Document.ShapesAdded Event (Publisher)
 keywords: vbapb10.chm285212675
 f1_keywords:
 - vbapb10.chm285212675
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ShapesAdded
 ms.assetid: f6573f7c-56fa-1efa-9dba-39cde3859cc0
+ms.date: 06/08/2017
 ---
 
 

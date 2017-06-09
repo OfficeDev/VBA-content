@@ -3,10 +3,11 @@ title: Application.SelectTaskAssns Method (Project)
 keywords: vbapj.chm1511
 f1_keywords:
 - vbapj.chm1511
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectTaskAssns
 ms.assetid: 80683610-657f-f298-0275-831da215a93a
+ms.date: 06/08/2017
 ---
 
 

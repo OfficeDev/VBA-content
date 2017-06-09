@@ -3,10 +3,11 @@ title: WebTextBox.Application Property (Publisher)
 keywords: vbapb10.chm4194305
 f1_keywords:
 - vbapb10.chm4194305
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.Application
 ms.assetid: 50081f4b-1edd-5c24-2aed-4eeed9399713
+ms.date: 06/08/2017
 ---
 
 

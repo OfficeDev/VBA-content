@@ -3,10 +3,11 @@ title: ListBox.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11314
 f1_keywords:
 - vbaac10.chm11314
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineWidthLeft
 ms.assetid: 61276c61-f39a-b094-99a4-0118cab9b08a
+ms.date: 06/08/2017
 ---
 
 

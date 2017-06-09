@@ -3,10 +3,11 @@ title: Label.BorderColor Property (Access)
 keywords: vbaac10.chm10206
 f1_keywords:
 - vbaac10.chm10206
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BorderColor
 ms.assetid: 1144f996-1262-2dd5-edcc-ec1616a1e86c
+ms.date: 06/08/2017
 ---
 
 

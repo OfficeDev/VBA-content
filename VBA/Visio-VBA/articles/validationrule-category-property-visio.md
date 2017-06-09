@@ -3,10 +3,11 @@ title: ValidationRule.Category Property (Visio)
 keywords: vis_sdr.chm18413175
 f1_keywords:
 - vis_sdr.chm18413175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.Category
 ms.assetid: 2ceb2edc-26a0-7fe4-ba48-a07f6e922af1
+ms.date: 06/08/2017
 ---
 
 

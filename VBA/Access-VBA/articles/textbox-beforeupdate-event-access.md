@@ -3,10 +3,11 @@ title: TextBox.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14194
 f1_keywords:
 - vbaac10.chm14194
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BeforeUpdate
 ms.assetid: 0d57cbce-bdbf-e19e-7f6a-11a00cb6c5f4
+ms.date: 06/08/2017
 ---
 
 

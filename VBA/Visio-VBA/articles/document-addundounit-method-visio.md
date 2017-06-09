@@ -3,10 +3,11 @@ title: Document.AddUndoUnit Method (Visio)
 keywords: vis_sdr.chm10516075
 f1_keywords:
 - vis_sdr.chm10516075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.AddUndoUnit
 ms.assetid: 3b9d903a-8854-fa64-a9c5-85ac71d58f54
+ms.date: 06/08/2017
 ---
 
 

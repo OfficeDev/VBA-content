@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowOpen Event (Excel)
 keywords: vbaxl10.chm504108
 f1_keywords:
 - vbaxl10.chm504108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowOpen
 ms.assetid: 17c847d9-a9d2-28da-832a-01d7719f1248
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Baseline9FixedCostAccrual Property, Project [vbapj.chm131565]
 keywords: vbapj.chm131565
 f1_keywords:
 - vbapj.chm131565
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7f80aba-c284-401a-841a-93045a9cdeb3
+ms.date: 06/08/2017
 ---
 
 

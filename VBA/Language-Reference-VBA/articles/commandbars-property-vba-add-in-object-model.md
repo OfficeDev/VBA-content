@@ -3,8 +3,9 @@ title: CommandBars Property (VBA Add-In Object Model)
 keywords: vbob6.chm100014
 f1_keywords:
 - vbob6.chm100014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 26647bb0-9934-9a88-521f-d9bbcc97cb2d
+ms.date: 06/08/2017
 ---
 
 

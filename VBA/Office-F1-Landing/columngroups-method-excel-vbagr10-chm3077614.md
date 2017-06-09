@@ -3,8 +3,9 @@ title: ColumnGroups Method, Excel [vbagr10.chm3077614]
 keywords: vbagr10.chm3077614
 f1_keywords:
 - vbagr10.chm3077614
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5eb62b5d-b180-42ad-ade7-82124cbf6483
+ms.date: 06/08/2017
 ---
 
 

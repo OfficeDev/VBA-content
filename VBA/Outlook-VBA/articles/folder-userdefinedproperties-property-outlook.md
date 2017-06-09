@@ -3,10 +3,11 @@ title: Folder.UserDefinedProperties Property (Outlook)
 keywords: vbaol11.chm2021
 f1_keywords:
 - vbaol11.chm2021
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.UserDefinedProperties
 ms.assetid: 4293bcb8-855e-4c6d-9718-ba8c5862b3bd
+ms.date: 06/08/2017
 ---
 
 

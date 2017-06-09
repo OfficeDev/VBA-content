@@ -3,10 +3,11 @@ title: Field.Application Property (Publisher)
 keywords: vbapb10.chm6094849
 f1_keywords:
 - vbapb10.chm6094849
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Field.Application
 ms.assetid: 3250d161-b88c-8e2e-34e1-65ca42368bd6
+ms.date: 06/08/2017
 ---
 
 

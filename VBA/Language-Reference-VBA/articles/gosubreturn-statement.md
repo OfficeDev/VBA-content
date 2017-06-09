@@ -3,8 +3,9 @@ title: GoSub...Return Statement
 keywords: vblr6.chm1008934
 f1_keywords:
 - vblr6.chm1008934
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5aafb93f-0baf-f319-d8dd-96a14095d62d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.Application Property (Word)
 keywords: vbawd10.chm11076584
 f1_keywords:
 - vbawd10.chm11076584
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Application
 ms.assetid: 761e480a-2df6-3a12-a7af-1cea58f11f84
+ms.date: 06/08/2017
 ---
 
 

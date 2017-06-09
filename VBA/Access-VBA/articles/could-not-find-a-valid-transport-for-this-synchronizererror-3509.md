@@ -3,14 +3,15 @@ title: Could not find a valid transport for this Synchronizer. (Error 3509)
 keywords: jeterr40.chm5003509
 f1_keywords:
 - jeterr40.chm5003509
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9d5f9756-8bb9-d321-e99e-7ad9893a8639
+ms.date: 06/08/2017
 ---
 
 
 # Could not find a valid transport for this Synchronizer. (Error 3509)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

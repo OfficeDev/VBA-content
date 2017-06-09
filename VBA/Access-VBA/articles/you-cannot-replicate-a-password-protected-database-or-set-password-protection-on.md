@@ -3,14 +3,15 @@ title: You cannot replicate a password-protected database or set password protec
 keywords: jeterr40.chm5003592
 f1_keywords:
 - jeterr40.chm5003592
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bae6c389-5dd6-92d9-a4d1-609a7046b6ed
+ms.date: 06/08/2017
 ---
 
 
 # You cannot replicate a password-protected database or set password protection on a replicated database. (Error 3592)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

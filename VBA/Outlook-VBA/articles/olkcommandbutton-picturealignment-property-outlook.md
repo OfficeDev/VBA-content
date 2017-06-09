@@ -3,10 +3,11 @@ title: OlkCommandButton.PictureAlignment Property (Outlook)
 keywords: vbaol11.chm1000500
 f1_keywords:
 - vbaol11.chm1000500
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.PictureAlignment
 ms.assetid: 483fd606-beec-e9cb-9d86-2cf6047f8a53
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContactItem.Language Property (Outlook)
 keywords: vbaol11.chm1026
 f1_keywords:
 - vbaol11.chm1026
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Language
 ms.assetid: 68f14566-71b5-24ae-5b9d-e8337b97ed78
+ms.date: 06/08/2017
 ---
 
 

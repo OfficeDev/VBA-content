@@ -3,10 +3,11 @@ title: CommandBarComboBox.ListIndex Property (Office)
 keywords: vbaof11.chm8008
 f1_keywords:
 - vbaof11.chm8008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.ListIndex
 ms.assetid: 3267a20a-7b33-3a89-5def-46c8b9756c04
+ms.date: 06/08/2017
 ---
 
 

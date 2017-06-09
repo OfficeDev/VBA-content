@@ -3,10 +3,11 @@ title: ObjectFrame.Enter Event (Access)
 keywords: vbaac10.chm14105
 f1_keywords:
 - vbaac10.chm14105
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Enter
 ms.assetid: 85b48c3c-3b0c-dbe3-71ca-7ac144477bfc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomerData Object (PowerPoint)
 keywords: vbapp10.chm675000
 f1_keywords:
 - vbapp10.chm675000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData
 ms.assetid: 1d658369-ea6c-6959-cd00-230dc111f765
+ms.date: 06/08/2017
 ---
 
 

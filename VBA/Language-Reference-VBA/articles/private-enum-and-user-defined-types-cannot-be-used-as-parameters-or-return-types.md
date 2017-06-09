@@ -3,8 +3,9 @@ title: Private Enum and user-defined types cannot be used as parameters or retur
 keywords: vblr6.chm1108114
 f1_keywords:
 - vblr6.chm1108114
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb291092-bc58-fc0c-9a3e-fdaf84886952
+ms.date: 06/08/2017
 ---
 
 

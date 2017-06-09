@@ -1,9 +1,10 @@
 ---
 title: Exception.Shift4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Shift4
 ms.assetid: 295c1f7c-7614-3efb-4fe6-849c8a2b89d6
+ms.date: 06/08/2017
 ---
 
 

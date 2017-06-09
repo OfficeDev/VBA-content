@@ -3,8 +3,9 @@ title: ListBox Control, BoundColumn Property Example
 keywords: fm20.chm5225170
 f1_keywords:
 - fm20.chm5225170
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17b19e02-5db4-459b-533e-73220730de01
+ms.date: 06/08/2017
 ---
 
 

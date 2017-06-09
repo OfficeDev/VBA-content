@@ -3,10 +3,11 @@ title: ODSOFilter.Comparison Property (Office)
 keywords: vbaof11.chm240004
 f1_keywords:
 - vbaof11.chm240004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilter.Comparison
 ms.assetid: 992565b3-90c5-4f44-7cae-ba0533529127
+ms.date: 06/08/2017
 ---
 
 

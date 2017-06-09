@@ -1,7 +1,8 @@
 ---
 title: Tabs Methods (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 528a2193-85bd-4437-9b07-d68c5474dea7
+ms.date: 06/08/2017
 ---
 
 

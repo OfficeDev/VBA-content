@@ -1,7 +1,8 @@
 ---
 title: Extract Data from a Record in a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cd0d8c73-c9a7-3565-514d-6b379ac2d690
+ms.date: 06/08/2017
 ---
 
 

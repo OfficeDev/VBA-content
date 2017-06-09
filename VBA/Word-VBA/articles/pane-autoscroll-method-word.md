@@ -3,10 +3,11 @@ title: Pane.AutoScroll Method (Word)
 keywords: vbawd10.chm157286504
 f1_keywords:
 - vbawd10.chm157286504
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.AutoScroll
 ms.assetid: c0f35128-c98e-2a9e-0ce4-3386c9db89ee
+ms.date: 06/08/2017
 ---
 
 

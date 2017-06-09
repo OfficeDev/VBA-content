@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.QueryCancelQuit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelQuit
 ms.assetid: c0816c40-6118-c64c-7a84-a221debae679
+ms.date: 06/08/2017
 ---
 
 

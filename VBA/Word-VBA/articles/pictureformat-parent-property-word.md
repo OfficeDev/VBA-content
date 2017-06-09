@@ -3,10 +3,11 @@ title: PictureFormat.Parent Property (Word)
 keywords: vbawd10.chm164298753
 f1_keywords:
 - vbawd10.chm164298753
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.Parent
 ms.assetid: 673adc32-374c-3382-2183-846abecb9941
+ms.date: 06/08/2017
 ---
 
 

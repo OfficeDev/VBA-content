@@ -3,10 +3,11 @@ title: OLEObject.TopLeftCell Property (Excel)
 keywords: vbaxl10.chm415093
 f1_keywords:
 - vbaxl10.chm415093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.TopLeftCell
 ms.assetid: a040afe1-71a9-7d3f-fc48-74f49c75df76
+ms.date: 06/08/2017
 ---
 
 

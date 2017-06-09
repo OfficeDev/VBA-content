@@ -3,8 +3,9 @@ title: ProjectBeforeClearBaseline Event, Project [vbapj.chm131149]
 keywords: vbapj.chm131149
 f1_keywords:
 - vbapj.chm131149
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 149ff0a8-e28c-451d-bd90-333e8cb556c4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ContentControl.Color Property (Word)
 keywords: vbawd10.chm266534943
 f1_keywords:
 - vbawd10.chm266534943
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 11a5b2ba-279d-9654-cff6-e430ae27666d
+ms.date: 06/08/2017
 ---
 
 

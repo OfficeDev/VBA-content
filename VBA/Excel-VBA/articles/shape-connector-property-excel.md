@@ -3,10 +3,11 @@ title: Shape.Connector Property (Excel)
 keywords: vbaxl10.chm636094
 f1_keywords:
 - vbaxl10.chm636094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Connector
 ms.assetid: 757505bd-4c45-9d54-a5ac-94e251b351be
+ms.date: 06/08/2017
 ---
 
 

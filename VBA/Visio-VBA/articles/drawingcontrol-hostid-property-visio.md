@@ -3,10 +3,11 @@ title: DrawingControl.HostID Property (Visio)
 keywords: vis_sdr.chm52000
 f1_keywords:
 - vis_sdr.chm52000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.HostID
 ms.assetid: ecc77cb3-04c8-6a31-0d40-d03dddb6bf20
+ms.date: 06/08/2017
 ---
 
 

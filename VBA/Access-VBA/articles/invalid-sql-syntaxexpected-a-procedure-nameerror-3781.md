@@ -1,13 +1,14 @@
 ---
 title: Invalid SQL syntax - expected a procedure name. (Error 3781)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fb2fc7ea-5381-1cb9-5b5b-8279d0d1d807
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL syntax - expected a procedure name. (Error 3781)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

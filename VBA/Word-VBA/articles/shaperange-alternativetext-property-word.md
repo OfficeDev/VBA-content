@@ -3,10 +3,11 @@ title: ShapeRange.AlternativeText Property (Word)
 keywords: vbawd10.chm162857091
 f1_keywords:
 - vbawd10.chm162857091
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.AlternativeText
 ms.assetid: c8d98235-942e-7c1f-bd00-5a378c060ec7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Style.BeforeStyleDelete Event (Visio)
 keywords: vis_sdr.chm11419070
 f1_keywords:
 - vis_sdr.chm11419070
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.BeforeStyleDelete
 ms.assetid: 3552392d-2fce-0602-18f9-9b882d2ce638
+ms.date: 06/08/2017
 ---
 
 

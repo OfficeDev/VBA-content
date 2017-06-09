@@ -3,10 +3,11 @@ title: ChartGroup.VaryByCategories Property (Word)
 keywords: vbawd10.chm263454752
 f1_keywords:
 - vbawd10.chm263454752
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.VaryByCategories
 ms.assetid: e7ee35a4-ddb7-83ef-3c9b-0076f601bb19
+ms.date: 06/08/2017
 ---
 
 

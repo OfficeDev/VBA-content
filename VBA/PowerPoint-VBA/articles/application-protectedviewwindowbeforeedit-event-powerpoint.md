@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowBeforeEdit Event (PowerPoint)
 keywords: vbapp10.chm621027
 f1_keywords:
 - vbapp10.chm621027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 8cfd38bf-8336-0106-a170-1319bcea0eb8
+ms.date: 06/08/2017
 ---
 
 

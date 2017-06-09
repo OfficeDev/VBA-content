@@ -3,8 +3,9 @@ title: HideDuplicates Property, Access [vbaac10.chm4380]
 keywords: vbaac10.chm4380
 f1_keywords:
 - vbaac10.chm4380
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 754be8b0-85dd-4d5f-a76d-5696a9ebe540
+ms.date: 06/08/2017
 ---
 
 

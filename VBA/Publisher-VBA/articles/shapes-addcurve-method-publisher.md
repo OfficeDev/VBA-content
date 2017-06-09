@@ -3,10 +3,11 @@ title: Shapes.AddCurve Method (Publisher)
 keywords: vbapb10.chm2162706
 f1_keywords:
 - vbapb10.chm2162706
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddCurve
 ms.assetid: 888a35cb-190d-4058-e0d7-a848d77ba920
+ms.date: 06/08/2017
 ---
 
 

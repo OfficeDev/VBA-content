@@ -3,8 +3,9 @@ title: Invalid file format (Error 321), Office Shared [vblr6.chm321]
 keywords: vblr6.chm321
 f1_keywords:
 - vblr6.chm321
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0389f7f-fcce-4a69-9037-bcbf3a806627
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Unexpected error; please contact Microsoft Technical Support
 keywords: vblr6.chm1057105
 f1_keywords:
 - vblr6.chm1057105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5c49a1ba-1238-5f31-1b6f-1e03a5da8022
+ms.date: 06/08/2017
 ---
 
 

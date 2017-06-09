@@ -3,10 +3,11 @@ title: Document.ToggleFormsDesign Method (Word)
 keywords: vbawd10.chm158007440
 f1_keywords:
 - vbawd10.chm158007440
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ToggleFormsDesign
 ms.assetid: 4db26f6c-8e59-33b6-34eb-708b39cbed9f
+ms.date: 06/08/2017
 ---
 
 

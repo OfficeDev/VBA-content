@@ -3,10 +3,11 @@ title: EmailSignature Object (Word)
 keywords: vbawd10.chm2524
 f1_keywords:
 - vbawd10.chm2524
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailSignature
 ms.assetid: 9d641321-d52b-ab9a-4117-6f9e11dedbba
+ms.date: 06/08/2017
 ---
 
 

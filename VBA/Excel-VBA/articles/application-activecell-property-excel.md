@@ -3,10 +3,11 @@ title: Application.ActiveCell Property (Excel)
 keywords: vbaxl10.chm183074
 f1_keywords:
 - vbaxl10.chm183074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ActiveCell
 ms.assetid: 7ebfbec8-dc4e-36c5-188a-347d42649e76
+ms.date: 06/08/2017
 ---
 
 

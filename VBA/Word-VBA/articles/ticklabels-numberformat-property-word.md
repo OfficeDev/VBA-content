@@ -3,10 +3,11 @@ title: TickLabels.NumberFormat Property (Word)
 keywords: vbawd10.chm167051268
 f1_keywords:
 - vbawd10.chm167051268
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.NumberFormat
 ms.assetid: ce7d9eb9-83d4-2c7e-e8ff-a08b4978c70d
+ms.date: 06/08/2017
 ---
 
 

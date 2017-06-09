@@ -3,10 +3,11 @@ title: Series.Has3DEffect Property (Word)
 keywords: vbawd10.chm123733633
 f1_keywords:
 - vbawd10.chm123733633
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Has3DEffect
 ms.assetid: c77450db-2ad0-6f16-30ad-ebe9c204e661
+ms.date: 06/08/2017
 ---
 
 

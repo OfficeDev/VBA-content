@@ -3,10 +3,11 @@ title: Connections.Add Method (Excel)
 keywords: vbaxl10.chm776079
 f1_keywords:
 - vbaxl10.chm776079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Connections.Add
 ms.assetid: 2dff072d-b250-e052-64d7-f75a4746a23f
+ms.date: 06/08/2017
 ---
 
 

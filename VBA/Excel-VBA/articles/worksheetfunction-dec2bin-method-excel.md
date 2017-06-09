@@ -3,10 +3,11 @@ title: WorksheetFunction.Dec2Bin Method (Excel)
 keywords: vbaxl10.chm137264
 f1_keywords:
 - vbaxl10.chm137264
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dec2Bin
 ms.assetid: beb1848e-320d-eaef-074e-4df23c46009d
+ms.date: 06/08/2017
 ---
 
 

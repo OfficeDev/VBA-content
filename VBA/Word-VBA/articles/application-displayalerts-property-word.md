@@ -3,10 +3,11 @@ title: Application.DisplayAlerts Property (Word)
 keywords: vbawd10.chm158335070
 f1_keywords:
 - vbawd10.chm158335070
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DisplayAlerts
 ms.assetid: 23d35e76-d5be-c1ed-4312-b6c220413882
+ms.date: 06/08/2017
 ---
 
 

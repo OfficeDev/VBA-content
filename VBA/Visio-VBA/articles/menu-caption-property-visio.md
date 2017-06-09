@@ -3,10 +3,11 @@ title: Menu.Caption Property (Visio)
 keywords: vis_sdr.chm13113170
 f1_keywords:
 - vis_sdr.chm13113170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.Caption
 ms.assetid: e89db3a6-59cc-a87a-dfbd-f8c18e7c4c58
+ms.date: 06/08/2017
 ---
 
 

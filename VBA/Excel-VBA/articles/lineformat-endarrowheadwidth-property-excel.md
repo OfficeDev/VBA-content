@@ -3,10 +3,11 @@ title: LineFormat.EndArrowheadWidth Property (Excel)
 keywords: vbaxl10.chm110009
 f1_keywords:
 - vbaxl10.chm110009
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat.EndArrowheadWidth
 ms.assetid: 12148fae-ede6-9b05-9283-710f2bb68bbf
+ms.date: 06/08/2017
 ---
 
 

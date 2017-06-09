@@ -3,10 +3,11 @@ title: ToggleButton.OnGotFocus Property (Access)
 keywords: vbaac10.chm11751
 f1_keywords:
 - vbaac10.chm11751
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnGotFocus
 ms.assetid: bcc774c8-7766-942d-b37d-d4c96dd84911
+ms.date: 06/08/2017
 ---
 
 

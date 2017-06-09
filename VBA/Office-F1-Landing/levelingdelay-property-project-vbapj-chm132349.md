@@ -3,8 +3,9 @@ title: LevelingDelay Property, Project [vbapj.chm132349]
 keywords: vbapj.chm132349
 f1_keywords:
 - vbapj.chm132349
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac111232-66d3-4a9b-9878-e955d83e9074
+ms.date: 06/08/2017
 ---
 
 

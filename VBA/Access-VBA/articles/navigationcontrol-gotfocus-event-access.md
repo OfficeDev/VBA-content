@@ -3,10 +3,11 @@ title: NavigationControl.GotFocus Event (Access)
 keywords: vbaac10.chm14199
 f1_keywords:
 - vbaac10.chm14199
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.GotFocus
 ms.assetid: 50ebdaad-3e2c-9eff-47f0-43a402b17938
+ms.date: 06/08/2017
 ---
 
 

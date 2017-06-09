@@ -3,10 +3,11 @@ title: SharedWorkspaceTask.ModifiedBy Property (Office)
 keywords: vbaof11.chm264009
 f1_keywords:
 - vbaof11.chm264009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.ModifiedBy
 ms.assetid: e18d400b-0e53-a599-e789-d47c78abec49
+ms.date: 06/08/2017
 ---
 
 

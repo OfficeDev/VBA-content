@@ -3,10 +3,11 @@ title: Window.Index Property (Visio)
 keywords: vis_sdr.chm11613695
 f1_keywords:
 - vis_sdr.chm11613695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Index
 ms.assetid: b430959b-b7b1-e4a1-d638-6f3ce30e5129
+ms.date: 06/08/2017
 ---
 
 

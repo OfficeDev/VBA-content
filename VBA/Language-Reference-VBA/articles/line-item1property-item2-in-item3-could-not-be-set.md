@@ -3,8 +3,9 @@ title: "Line 'item1': Property 'item2' in 'item3' could not be set."
 keywords: vblr6.chm1117744
 f1_keywords:
 - vblr6.chm1117744
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b1f7115-754c-18cc-add5-7b66d782828f
+ms.date: 06/08/2017
 ---
 
 

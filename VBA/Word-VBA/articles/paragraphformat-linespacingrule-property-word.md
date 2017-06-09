@@ -3,10 +3,11 @@ title: ParagraphFormat.LineSpacingRule Property (Word)
 keywords: vbawd10.chm156434542
 f1_keywords:
 - vbawd10.chm156434542
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.LineSpacingRule
 ms.assetid: a08e9eeb-1b85-7cd8-a497-ac7d63234267
+ms.date: 06/08/2017
 ---
 
 

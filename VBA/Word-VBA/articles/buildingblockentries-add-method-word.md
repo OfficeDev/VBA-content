@@ -3,10 +3,11 @@ title: BuildingBlockEntries.Add Method (Word)
 keywords: vbawd10.chm36241509
 f1_keywords:
 - vbawd10.chm36241509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlockEntries.Add
 ms.assetid: 09578906-ea6d-9475-e026-b9dc437f451b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Placeholder Property, Project [vbapj.chm132465]
 keywords: vbapj.chm132465
 f1_keywords:
 - vbapj.chm132465
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29a8c210-bcc0-49d3-ac56-d1f355d84a8e
+ms.date: 06/08/2017
 ---
 
 

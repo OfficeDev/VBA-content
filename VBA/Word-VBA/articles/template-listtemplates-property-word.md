@@ -3,10 +3,11 @@ title: Template.ListTemplates Property (Word)
 keywords: vbawd10.chm157941770
 f1_keywords:
 - vbawd10.chm157941770
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.ListTemplates
 ms.assetid: 8e024844-3443-d7a4-9ee4-3b1692fd084b
+ms.date: 06/08/2017
 ---
 
 

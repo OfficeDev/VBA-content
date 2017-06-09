@@ -3,10 +3,11 @@ title: Report.DateGrouping Property (Access)
 keywords: vbaac10.chm13699
 f1_keywords:
 - vbaac10.chm13699
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.DateGrouping
 ms.assetid: e2495aa7-06e9-8eaf-81d8-182c7d51559c
+ms.date: 06/08/2017
 ---
 
 

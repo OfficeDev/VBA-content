@@ -3,8 +3,9 @@ title: NewProject Event, Project [vbapj.chm131187]
 keywords: vbapj.chm131187
 f1_keywords:
 - vbapj.chm131187
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dfd40536-ae01-4838-9d8c-aa5df1295a9b
+ms.date: 06/08/2017
 ---
 
 

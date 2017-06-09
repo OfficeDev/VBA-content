@@ -3,10 +3,11 @@ title: Document.OpenStencilWindow Method (Visio)
 keywords: vis_sdr.chm10516420
 f1_keywords:
 - vis_sdr.chm10516420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.OpenStencilWindow
 ms.assetid: 70c3720b-b88d-4859-684b-5c7ae9c868ea
+ms.date: 06/08/2017
 ---
 
 

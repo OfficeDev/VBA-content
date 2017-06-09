@@ -3,14 +3,15 @@ title: File sharing lock count exceeded. (Error 3052)
 keywords: jeterr40.chm5003052
 f1_keywords:
 - jeterr40.chm5003052
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 682df85c-6e2e-26d4-d035-d787de5672ae
+ms.date: 06/08/2017
 ---
 
 
 # File sharing lock count exceeded. (Error 3052)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: DocumentItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1196
 f1_keywords:
 - vbaol11.chm1196
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.LastModificationTime
 ms.assetid: fa538cad-d82e-8e4f-5884-4bdc2505b3b6
+ms.date: 06/08/2017
 ---
 
 

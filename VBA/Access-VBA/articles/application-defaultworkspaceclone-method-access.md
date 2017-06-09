@@ -3,10 +3,11 @@ title: Application.DefaultWorkspaceClone Method (Access)
 keywords: vbaac10.chm12550
 f1_keywords:
 - vbaac10.chm12550
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DefaultWorkspaceClone
 ms.assetid: f72522e5-dd8d-2cd1-df40-4457ef7f94a6
+ms.date: 06/08/2017
 ---
 
 

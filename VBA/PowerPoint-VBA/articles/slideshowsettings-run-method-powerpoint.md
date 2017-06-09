@@ -3,10 +3,11 @@ title: SlideShowSettings.Run Method (PowerPoint)
 keywords: vbapp10.chm514008
 f1_keywords:
 - vbapp10.chm514008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.Run
 ms.assetid: 497fae3b-b6a3-dc26-20d9-bdc8057ddc09
+ms.date: 06/08/2017
 ---
 
 

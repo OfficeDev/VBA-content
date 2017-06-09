@@ -3,10 +3,11 @@ title: Chart.GapDepth Property (Excel)
 keywords: vbaxl10.chm149110
 f1_keywords:
 - vbaxl10.chm149110
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.GapDepth
 ms.assetid: 6020490a-1343-5b79-ff7d-197f78061420
+ms.date: 06/08/2017
 ---
 
 

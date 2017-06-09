@@ -3,8 +3,9 @@ title: "How to: Specify Additional Information for a Control"
 keywords: olfm10.chm3077252
 f1_keywords:
 - olfm10.chm3077252
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: dcbdfec2-ae0c-27d7-6713-9c99fa6e82d6
+ms.date: 06/08/2017
 ---
 
 

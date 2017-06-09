@@ -3,10 +3,11 @@ title: View.ShadeEditableRanges Property (Word)
 keywords: vbawd10.chm161808431
 f1_keywords:
 - vbawd10.chm161808431
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShadeEditableRanges
 ms.assetid: f079c812-024d-6568-4643-4c2df96fd59d
+ms.date: 06/08/2017
 ---
 
 

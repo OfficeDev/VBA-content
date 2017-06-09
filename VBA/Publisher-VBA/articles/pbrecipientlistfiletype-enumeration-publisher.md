@@ -1,9 +1,10 @@
 ---
 title: PbRecipientListFileType Enumeration (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbRecipientListFileType
 ms.assetid: ff8e53ac-7b60-5ade-3357-51afb47c95bc
+ms.date: 06/08/2017
 ---
 
 

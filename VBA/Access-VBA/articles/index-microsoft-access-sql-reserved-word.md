@@ -3,14 +3,15 @@ title: INDEX (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277611
 f1_keywords:
 - jetsql40.chm5277611
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f5e0fe29-49d1-6d93-9bbd-cc4bc02405d8
+ms.date: 06/08/2017
 ---
 
 
 # INDEX (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

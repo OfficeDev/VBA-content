@@ -3,10 +3,11 @@ title: VisContainerFlags Enumeration (Visio)
 keywords: vis_sdr.chm70620
 f1_keywords:
 - vis_sdr.chm70620
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisContainerFlags
 ms.assetid: c440c15a-5dd9-7ece-9175-dd92283455a4
+ms.date: 06/08/2017
 ---
 
 

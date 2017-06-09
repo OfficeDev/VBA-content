@@ -3,10 +3,11 @@ title: ObjectFrame.BackColor Property (Access)
 keywords: vbaac10.chm11593
 f1_keywords:
 - vbaac10.chm11593
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.BackColor
 ms.assetid: c73bd932-ebfe-8b3b-5dc2-0c88a6210c94
+ms.date: 06/08/2017
 ---
 
 

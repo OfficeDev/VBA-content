@@ -3,10 +3,11 @@ title: InlineShapes.AddPicture Method (Word)
 keywords: vbawd10.chm162070628
 f1_keywords:
 - vbawd10.chm162070628
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShapes.AddPicture
 ms.assetid: 89c5f587-d591-d56b-d52a-fd21073f76fb
+ms.date: 06/08/2017
 ---
 
 

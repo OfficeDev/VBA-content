@@ -3,10 +3,11 @@ title: ICTPFactory Object (Office)
 keywords: vbaof11.chm304000
 f1_keywords:
 - vbaof11.chm304000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ICTPFactory
 ms.assetid: da653cf7-9649-dc07-e3ae-4f7805fe3eb1
+ms.date: 06/08/2017
 ---
 
 

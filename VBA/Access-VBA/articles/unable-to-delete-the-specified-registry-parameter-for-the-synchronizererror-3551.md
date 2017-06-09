@@ -3,14 +3,15 @@ title: Unable to delete the specified Registry parameter for the Synchronizer. (
 keywords: jeterr40.chm5003551
 f1_keywords:
 - jeterr40.chm5003551
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: adc4873d-e3af-7860-f902-efd6867a1af3
+ms.date: 06/08/2017
 ---
 
 
 # Unable to delete the specified Registry parameter for the Synchronizer. (Error 3551)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Application.BrokenReference Property (Access)
 keywords: vbaac10.chm12593
 f1_keywords:
 - vbaac10.chm12593
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.BrokenReference
 ms.assetid: 20a55f4b-5fe4-9231-bbef-e90c66f88b90
+ms.date: 06/08/2017
 ---
 
 

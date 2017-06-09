@@ -3,14 +3,15 @@ title: Unbound Object Frame Control
 keywords: vbaac10.chm4074
 f1_keywords:
 - vbaac10.chm4074
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4a0874dc-ecac-be7c-25e2-ecc79696e2eb
+ms.date: 06/08/2017
 ---
 
 
 # Unbound Object Frame Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

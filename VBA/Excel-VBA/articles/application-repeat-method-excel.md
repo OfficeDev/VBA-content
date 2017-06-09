@@ -3,10 +3,11 @@ title: Application.Repeat Method (Excel)
 keywords: vbaxl10.chm133200
 f1_keywords:
 - vbaxl10.chm133200
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Repeat
 ms.assetid: ce8f6340-174e-b6cf-0f99-f39be2cde5c2
+ms.date: 06/08/2017
 ---
 
 

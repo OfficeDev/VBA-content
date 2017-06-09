@@ -3,10 +3,11 @@ title: MailingLabel.DefaultLaserTray Property (Word)
 keywords: vbawd10.chm152502276
 f1_keywords:
 - vbawd10.chm152502276
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.DefaultLaserTray
 ms.assetid: 0bc82fb0-abc3-7b46-c00b-8c009f2a6d91
+ms.date: 06/08/2017
 ---
 
 

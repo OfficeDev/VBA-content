@@ -3,10 +3,11 @@ title: ODBCErrors.Item Method (Excel)
 keywords: vbaxl10.chm529074
 f1_keywords:
 - vbaxl10.chm529074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCErrors.Item
 ms.assetid: 694a0e7e-f6c0-8721-792b-8e82e6a8e5c1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.GroupMaintainHierarchy Method (Project)
 keywords: vbapj.chm2296
 f1_keywords:
 - vbapj.chm2296
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GroupMaintainHierarchy
 ms.assetid: 63f5763a-0ca3-d25b-06ac-03e52cdcf6e2
+ms.date: 06/08/2017
 ---
 
 

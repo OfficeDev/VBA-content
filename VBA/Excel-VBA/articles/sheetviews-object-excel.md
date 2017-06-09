@@ -3,10 +3,11 @@ title: SheetViews Object (Excel)
 keywords: vbaxl10.chm791072
 f1_keywords:
 - vbaxl10.chm791072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SheetViews
 ms.assetid: 954e22cf-1142-40ae-039b-09110d833bfc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Adjustments.Parent Property (Excel)
 keywords: vbaxl10.chm103001
 f1_keywords:
 - vbaxl10.chm103001
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Adjustments.Parent
 ms.assetid: b2e7cb71-ea54-2bd8-787d-3523d4d72c41
+ms.date: 06/08/2017
 ---
 
 

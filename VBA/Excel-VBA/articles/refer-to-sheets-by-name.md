@@ -3,8 +3,9 @@ title: Refer to Sheets by Name
 keywords: vbaxl10.chm5204443
 f1_keywords:
 - vbaxl10.chm5204443
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 8e58c0d0-ff97-fb00-6afc-f14e2f9c425d
+ms.date: 06/08/2017
 ---
 
 

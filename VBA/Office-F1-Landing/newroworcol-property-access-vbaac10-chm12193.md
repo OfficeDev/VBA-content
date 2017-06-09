@@ -3,8 +3,9 @@ title: NewRowOrCol Property, Access [vbaac10.chm12193]
 keywords: vbaac10.chm12193
 f1_keywords:
 - vbaac10.chm12193
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7bb93d6e-4162-4a1d-aea9-92183a2d6361
+ms.date: 06/08/2017
 ---
 
 

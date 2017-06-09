@@ -3,10 +3,11 @@ title: Document.Version Property (Visio)
 keywords: vis_sdr.chm10551135
 f1_keywords:
 - vis_sdr.chm10551135
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Version
 ms.assetid: 336b6825-3d1c-9589-e916-f8d7821f6383
+ms.date: 06/08/2017
 ---
 
 

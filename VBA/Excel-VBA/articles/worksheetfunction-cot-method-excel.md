@@ -3,8 +3,9 @@ title: WorksheetFunction.Cot Method (Excel)
 keywords: vbaxl10.chm137423
 f1_keywords:
 - vbaxl10.chm137423
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: ce49e78a-8b8f-3827-e462-ae82c70af014
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot create relationship. Referenced table <name> does not have a prima
 keywords: jeterr40.chm5003373
 f1_keywords:
 - jeterr40.chm5003373
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e5f5383f-c127-5300-eb2a-60804a75d524
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create relationship. Referenced table <name> does not have a primary key. (Error 3373)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Image.Tag Property (Access)
 keywords: vbaac10.chm10403
 f1_keywords:
 - vbaac10.chm10403
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Tag
 ms.assetid: 627e6f93-8812-e66e-0291-d24be9185fc2
+ms.date: 06/08/2017
 ---
 
 

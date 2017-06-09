@@ -3,8 +3,9 @@ title: Add a Click Event for a Control in a Custom Form Page
 keywords: olfm10.chm3077362
 f1_keywords:
 - olfm10.chm3077362
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7afed276-c0ca-f801-8323-05477dbcc467
+ms.date: 06/08/2017
 ---
 
 

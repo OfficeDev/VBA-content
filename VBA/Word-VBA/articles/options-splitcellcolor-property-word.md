@@ -3,10 +3,11 @@ title: Options.SplitCellColor Property (Word)
 keywords: vbawd10.chm162988499
 f1_keywords:
 - vbawd10.chm162988499
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SplitCellColor
 ms.assetid: bf4b905a-6a75-02ff-8824-3fbeb3184b7f
+ms.date: 06/08/2017
 ---
 
 

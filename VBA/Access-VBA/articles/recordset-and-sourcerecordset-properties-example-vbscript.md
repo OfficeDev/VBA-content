@@ -1,13 +1,14 @@
 ---
 title: Recordset and SourceRecordset Properties Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 235118ce-8468-18b1-ff49-8739fde69427
+ms.date: 06/08/2017
 ---
 
 
 # Recordset and SourceRecordset Properties Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

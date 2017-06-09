@@ -3,8 +3,9 @@ title: Move Method, Office Shared [vbaof11.chm5014]
 keywords: vbaof11.chm5014
 f1_keywords:
 - vbaof11.chm5014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d5a8164f-ace4-4153-8496-6af50b4c54f0
+ms.date: 06/08/2017
 ---
 
 

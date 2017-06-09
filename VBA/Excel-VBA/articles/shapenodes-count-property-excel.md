@@ -3,10 +3,11 @@ title: ShapeNodes.Count Property (Excel)
 keywords: vbaxl10.chm112002
 f1_keywords:
 - vbaxl10.chm112002
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Count
 ms.assetid: 106fa785-5746-722b-b110-32f8667762cd
+ms.date: 06/08/2017
 ---
 
 

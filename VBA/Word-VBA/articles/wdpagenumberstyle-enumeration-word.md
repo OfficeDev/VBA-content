@@ -1,9 +1,10 @@
 ---
 title: WdPageNumberStyle Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPageNumberStyle
 ms.assetid: 1533e7b2-9d59-d980-b1e0-2cd0efe6a2c3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.OLEDBErrors Property (Excel)
 keywords: vbaxl10.chm133244
 f1_keywords:
 - vbaxl10.chm133244
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.OLEDBErrors
 ms.assetid: 0a42417f-f8b6-10bf-712a-44c1107f0f3e
+ms.date: 06/08/2017
 ---
 
 

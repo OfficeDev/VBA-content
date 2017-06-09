@@ -1,13 +1,14 @@
 ---
 title: Invalid use of parentheses. (Error 2442)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c302b405-67dc-d4ba-7b19-9941d6054315
+ms.date: 06/08/2017
 ---
 
 
 # Invalid use of parentheses. (Error 2442)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

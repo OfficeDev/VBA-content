@@ -3,10 +3,11 @@ title: Shape.MoveToSubprocess Method (Visio)
 keywords: vis_sdr.chm11262210
 f1_keywords:
 - vis_sdr.chm11262210
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.MoveToSubprocess
 ms.assetid: 3688c9d5-5b28-23d7-369a-332649267ffe
+ms.date: 06/08/2017
 ---
 
 

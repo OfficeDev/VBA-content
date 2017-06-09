@@ -3,10 +3,11 @@ title: Actions.Item Method (Outlook)
 keywords: vbaol11.chm150
 f1_keywords:
 - vbaol11.chm150
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Actions.Item
 ms.assetid: e4c10f5e-014f-46d5-e5a9-2a70c9399d5f
+ms.date: 06/08/2017
 ---
 
 

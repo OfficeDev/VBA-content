@@ -3,10 +3,11 @@ title: NavigationPane Object (Outlook)
 keywords: vbaol11.chm3021
 f1_keywords:
 - vbaol11.chm3021
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationPane
 ms.assetid: b6538c72-6115-99fc-c926-e0532a747823
+ms.date: 06/08/2017
 ---
 
 

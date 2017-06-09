@@ -3,10 +3,11 @@ title: Documents.Add Method (Publisher)
 keywords: vbapb10.chm8650756
 f1_keywords:
 - vbapb10.chm8650756
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Documents.Add
 ms.assetid: 1e3536c8-8fc0-8c95-3a4c-b16fe8a99098
+ms.date: 06/08/2017
 ---
 
 

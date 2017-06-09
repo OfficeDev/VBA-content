@@ -3,10 +3,11 @@ title: ListFormat.ApplyListTemplateWithLevel Method (Word)
 keywords: vbawd10.chm163578072
 f1_keywords:
 - vbawd10.chm163578072
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.ApplyListTemplateWithLevel
 ms.assetid: 53d107d1-7a6c-b94c-19b9-2794e20ef1cb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationControl.SizeToFit Method (Access)
 keywords: vbaac10.chm11033
 f1_keywords:
 - vbaac10.chm11033
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.SizeToFit
 ms.assetid: 690d17ca-866d-2f8e-fc54-a5cc166b6ad1
+ms.date: 06/08/2017
 ---
 
 

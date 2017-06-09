@@ -3,10 +3,11 @@ title: Range.Interior Property (Excel)
 keywords: vbaxl10.chm144150
 f1_keywords:
 - vbaxl10.chm144150
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Interior
 ms.assetid: 9599b0f7-9f52-627c-51e6-d8be8aeb9bbf
+ms.date: 06/08/2017
 ---
 
 

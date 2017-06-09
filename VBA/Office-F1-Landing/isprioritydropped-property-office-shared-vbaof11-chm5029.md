@@ -3,8 +3,9 @@ title: IsPriorityDropped Property, Office Shared [vbaof11.chm5029]
 keywords: vbaof11.chm5029
 f1_keywords:
 - vbaof11.chm5029
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b359dce7-873f-48ba-99fa-7469ca1c0102
+ms.date: 06/08/2017
 ---
 
 

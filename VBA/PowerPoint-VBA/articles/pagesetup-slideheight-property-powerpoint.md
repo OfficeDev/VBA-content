@@ -3,10 +3,11 @@ title: PageSetup.SlideHeight Property (PowerPoint)
 keywords: vbapp10.chm527004
 f1_keywords:
 - vbapp10.chm527004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.SlideHeight
 ms.assetid: 64b269cf-4b78-eabf-8963-d1971dc90637
+ms.date: 06/08/2017
 ---
 
 

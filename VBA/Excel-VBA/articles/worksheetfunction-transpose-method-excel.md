@@ -3,10 +3,11 @@ title: WorksheetFunction.Transpose Method (Excel)
 keywords: vbaxl10.chm137117
 f1_keywords:
 - vbaxl10.chm137117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Transpose
 ms.assetid: 327aaf19-c226-5251-9bec-eadc4546d53a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: JournalModule.Position Property (Outlook)
 keywords: vbaol11.chm2868
 f1_keywords:
 - vbaol11.chm2868
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalModule.Position
 ms.assetid: 87cd12a7-b414-4f47-a204-7997f6d25989
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AcFormatConditionOperator Enumeration (Access)
 keywords: vbaac10.chm10040
 f1_keywords:
 - vbaac10.chm10040
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcFormatConditionOperator
 ms.assetid: 74521f38-826e-6ada-87c3-f66782d084b4
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Resource.Text11 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text11
 ms.assetid: bc205f10-83cc-a478-c37b-60103121c32c
+ms.date: 06/08/2017
 ---
 
 

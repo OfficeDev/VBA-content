@@ -3,10 +3,11 @@ title: ThreeDFormat.RotationX Property (Excel)
 keywords: vbaxl10.chm119014
 f1_keywords:
 - vbaxl10.chm119014
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.RotationX
 ms.assetid: e9866449-2d84-1e47-276b-69c2feec713c
+ms.date: 06/08/2017
 ---
 
 

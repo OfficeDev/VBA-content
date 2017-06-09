@@ -3,8 +3,9 @@ title: Understanding Visual Basic Syntax
 keywords: vbcn6.chm1076679
 f1_keywords:
 - vbcn6.chm1076679
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8b6f4203-f82e-5f2f-ad1e-1ad90d088700
+ms.date: 06/08/2017
 ---
 
 

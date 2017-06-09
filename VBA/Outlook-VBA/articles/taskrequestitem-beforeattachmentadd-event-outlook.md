@@ -1,9 +1,10 @@
 ---
 title: TaskRequestItem.BeforeAttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAttachmentAdd
 ms.assetid: 70f03812-6af9-a368-bd84-0e8e18e7635e
+ms.date: 06/08/2017
 ---
 
 

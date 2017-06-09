@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.BeforeDocumentSaveAs Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeDocumentSaveAs
 ms.assetid: b8e673f2-2a52-0d8f-a860-82a70f7968f3
+ms.date: 06/08/2017
 ---
 
 

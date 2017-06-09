@@ -3,10 +3,11 @@ title: WebNavigationBarSets Object (Publisher)
 keywords: vbapb10.chm8519679
 f1_keywords:
 - vbapb10.chm8519679
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets
 ms.assetid: 0c4f62c7-b7b2-a7bc-60f8-8097fe99fe58
+ms.date: 06/08/2017
 ---
 
 

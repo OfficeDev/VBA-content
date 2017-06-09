@@ -1,9 +1,10 @@
 ---
 title: XlPieSliceIndex Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPieSliceIndex
 ms.assetid: 04cfc5f3-2a8a-fbd7-e512-4bcd9f524f32
+ms.date: 06/08/2017
 ---
 
 

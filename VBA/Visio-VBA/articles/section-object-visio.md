@@ -3,10 +3,11 @@ title: Section Object (Visio)
 keywords: vis_sdr.chm10215
 f1_keywords:
 - vis_sdr.chm10215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section
 ms.assetid: 2b505e97-8b65-84ff-093d-a260b2d4e59d
+ms.date: 06/08/2017
 ---
 
 

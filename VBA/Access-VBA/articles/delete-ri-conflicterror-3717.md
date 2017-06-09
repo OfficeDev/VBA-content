@@ -1,13 +1,14 @@
 ---
 title: Delete/RI conflict. (Error 3717)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 801a1389-5b1d-2462-5ebb-45911bbb30b2
+ms.date: 06/08/2017
 ---
 
 
 # Delete/RI conflict. (Error 3717)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

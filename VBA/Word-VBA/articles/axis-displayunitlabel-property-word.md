@@ -3,10 +3,11 @@ title: Axis.DisplayUnitLabel Property (Word)
 keywords: vbawd10.chm113049677
 f1_keywords:
 - vbawd10.chm113049677
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.DisplayUnitLabel
 ms.assetid: fed46896-2968-8332-13b4-8ad0d609169e
+ms.date: 06/08/2017
 ---
 
 

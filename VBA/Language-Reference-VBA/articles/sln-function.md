@@ -3,8 +3,9 @@ title: SLN Function
 keywords: vblr6.chm1009289
 f1_keywords:
 - vblr6.chm1009289
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e9587257-b3b8-048f-76ed-609448596a14
+ms.date: 06/08/2017
 ---
 
 

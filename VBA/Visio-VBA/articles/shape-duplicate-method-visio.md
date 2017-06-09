@@ -3,10 +3,11 @@ title: Shape.Duplicate Method (Visio)
 keywords: vis_sdr.chm11216245
 f1_keywords:
 - vis_sdr.chm11216245
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Duplicate
 ms.assetid: a45fd247-e4ad-8149-3656-af9588f076ef
+ms.date: 06/08/2017
 ---
 
 

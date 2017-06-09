@@ -1,9 +1,10 @@
 ---
 title: PictureEffects.Delete Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PictureEffects.Delete
 ms.assetid: 791c409d-26e6-b4d7-8625-ad8cfe7c797e
+ms.date: 06/08/2017
 ---
 
 

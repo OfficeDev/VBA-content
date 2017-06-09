@@ -3,10 +3,11 @@ title: PivotTable.RowAxisLayout Method (Excel)
 keywords: vbaxl10.chm235166
 f1_keywords:
 - vbaxl10.chm235166
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.RowAxisLayout
 ms.assetid: 41a8a3bb-252a-7598-b559-d75dc1e10bc1
+ms.date: 06/08/2017
 ---
 
 

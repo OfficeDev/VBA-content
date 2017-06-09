@@ -1,9 +1,10 @@
 ---
 title: MsoMoveRow Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoMoveRow
 ms.assetid: d353865e-0282-a594-50d4-de7d04ba90d0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomXMLParts.SelectByNamespace Method (Office)
 keywords: vbaof11.chm298006
 f1_keywords:
 - vbaof11.chm298006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLParts.SelectByNamespace
 ms.assetid: 39dcce9c-4354-0211-c2cf-393917bf6aef
+ms.date: 06/08/2017
 ---
 
 

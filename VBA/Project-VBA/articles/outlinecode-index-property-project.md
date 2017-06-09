@@ -3,10 +3,11 @@ title: OutlineCode.Index Property (Project)
 keywords: vbapj.chm132461
 f1_keywords:
 - vbapj.chm132461
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.Index
 ms.assetid: 9069edd7-fc0a-57a0-4f00-64e295780d3f
+ms.date: 06/08/2017
 ---
 
 

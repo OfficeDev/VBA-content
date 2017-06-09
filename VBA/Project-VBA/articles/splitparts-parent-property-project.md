@@ -1,9 +1,10 @@
 ---
 title: SplitParts.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.SplitParts.Parent
 ms.assetid: 3a0be78b-c3f9-a8e5-c19b-9a1fb0fcedaf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OLEFormat.DisplayAsIcon Property (Word)
 keywords: vbawd10.chm154337283
 f1_keywords:
 - vbawd10.chm154337283
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OLEFormat.DisplayAsIcon
 ms.assetid: eb27a24c-69f0-a94d-b2cb-0fc0ccb54a1a
+ms.date: 06/08/2017
 ---
 
 

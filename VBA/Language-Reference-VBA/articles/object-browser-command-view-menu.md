@@ -3,8 +3,9 @@ title: Object Browser Command (View Menu)
 keywords: vbui6.chm2012555
 f1_keywords:
 - vbui6.chm2012555
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7e40952f-65b5-2b7b-c244-b1d963c545f6
+ms.date: 06/08/2017
 ---
 
 

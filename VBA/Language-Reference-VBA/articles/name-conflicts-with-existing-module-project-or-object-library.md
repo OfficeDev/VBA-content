@@ -3,8 +3,9 @@ title: Name conflicts with existing module, project, or object library
 keywords: vblr6.chm1032813
 f1_keywords:
 - vblr6.chm1032813
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0096e260-4af8-e133-1d64-6e606f371df2
+ms.date: 06/08/2017
 ---
 
 

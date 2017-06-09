@@ -3,8 +3,9 @@ title: InlineShapes Object, Word [vbawd10.chm2473]
 keywords: vbawd10.chm2473
 f1_keywords:
 - vbawd10.chm2473
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 096fcefc-e2f2-48d8-83ed-3dc9f629b3f4
+ms.date: 06/08/2017
 ---
 
 

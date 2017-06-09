@@ -3,14 +3,15 @@ title: First, Last Functions (Microsoft Access SQL)
 keywords: jetsql40.chm5278825
 f1_keywords:
 - jetsql40.chm5278825
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8ea0d390-bb37-003b-fb6c-e15bf2a50718
+ms.date: 06/08/2017
 ---
 
 
 # First, Last Functions (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

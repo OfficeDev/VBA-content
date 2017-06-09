@@ -3,10 +3,11 @@ title: Account.CurrentUser Property (Outlook)
 keywords: vbaol11.chm3381
 f1_keywords:
 - vbaol11.chm3381
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.CurrentUser
 ms.assetid: e17ab6a9-344e-b3bf-543c-07590c406a2b
+ms.date: 06/08/2017
 ---
 
 

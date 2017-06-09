@@ -3,8 +3,9 @@ title: Declare Statement
 keywords: vblr6.chm1008781
 f1_keywords:
 - vblr6.chm1008781
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 82f68f6b-76c6-2efd-72d2-652000b3a083
+ms.date: 06/08/2017
 ---
 
 

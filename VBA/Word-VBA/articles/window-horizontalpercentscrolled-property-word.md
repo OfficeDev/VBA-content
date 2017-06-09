@@ -3,10 +3,11 @@ title: Window.HorizontalPercentScrolled Property (Word)
 keywords: vbawd10.chm157417495
 f1_keywords:
 - vbawd10.chm157417495
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.HorizontalPercentScrolled
 ms.assetid: 18b61708-eb2d-41e0-5b42-9ceb825867e1
+ms.date: 06/08/2017
 ---
 
 

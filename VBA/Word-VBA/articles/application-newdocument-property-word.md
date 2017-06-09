@@ -3,10 +3,11 @@ title: Application.NewDocument Property (Word)
 keywords: vbawd10.chm158335430
 f1_keywords:
 - vbawd10.chm158335430
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.NewDocument
 ms.assetid: 2f68f98e-1aad-eeac-59c7-4cd5f9d7ad6a
+ms.date: 06/08/2017
 ---
 
 

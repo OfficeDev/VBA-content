@@ -3,10 +3,11 @@ title: Designs.Load Method (PowerPoint)
 keywords: vbapp10.chm643005
 f1_keywords:
 - vbapp10.chm643005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Load
 ms.assetid: 8926e038-4b01-da8d-3e0f-6b5cdd82f1c7
+ms.date: 06/08/2017
 ---
 
 

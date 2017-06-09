@@ -3,10 +3,11 @@ title: Range.PageSetup Property (Word)
 keywords: vbawd10.chm157156429
 f1_keywords:
 - vbawd10.chm157156429
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.PageSetup
 ms.assetid: 29a1d7cb-42dd-3d3b-1cb6-7905987f962f
+ms.date: 06/08/2017
 ---
 
 

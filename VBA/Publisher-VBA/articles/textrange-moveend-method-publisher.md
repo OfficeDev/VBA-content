@@ -3,10 +3,11 @@ title: TextRange.MoveEnd Method (Publisher)
 keywords: vbapb10.chm5308424
 f1_keywords:
 - vbapb10.chm5308424
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.MoveEnd
 ms.assetid: 4fe27375-34e2-2ecc-33c8-a07230012b13
+ms.date: 06/08/2017
 ---
 
 

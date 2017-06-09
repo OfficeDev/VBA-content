@@ -3,8 +3,9 @@ title: Sub Statement
 keywords: vblr6.chm1009038
 f1_keywords:
 - vblr6.chm1009038
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7931d739-a61a-78ba-5b33-960c1bf908ce
+ms.date: 06/08/2017
 ---
 
 

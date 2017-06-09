@@ -3,8 +3,9 @@ title: Application.FlashFill Property (Excel)
 keywords: vbaxl10.chm133339
 f1_keywords:
 - vbaxl10.chm133339
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 85200392-3105-0bcd-a557-26e6a76fb5ac
+ms.date: 06/08/2017
 ---
 
 

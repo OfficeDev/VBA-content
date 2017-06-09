@@ -3,10 +3,11 @@ title: Worksheet.Move Method (Excel)
 keywords: vbaxl10.chm174079
 f1_keywords:
 - vbaxl10.chm174079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Move
 ms.assetid: 808e6eb8-7811-6f72-5acc-b3779587aa52
+ms.date: 06/08/2017
 ---
 
 

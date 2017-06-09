@@ -3,10 +3,11 @@ title: LegendKey.Left Property (Excel)
 keywords: vbaxl10.chm590090
 f1_keywords:
 - vbaxl10.chm590090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.Left
 ms.assetid: 080803a7-b28c-035f-e9c4-ccddaf7b92c7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TableObject.ResultRange Property (Excel)
 keywords: vbaxl10.chm916078
 f1_keywords:
 - vbaxl10.chm916078
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 1fba8f22-8294-9e5d-f796-ea45ea87d974
+ms.date: 06/08/2017
 ---
 
 

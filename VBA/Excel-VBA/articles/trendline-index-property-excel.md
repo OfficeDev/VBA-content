@@ -3,10 +3,11 @@ title: Trendline.Index Property (Excel)
 keywords: vbaxl10.chm594082
 f1_keywords:
 - vbaxl10.chm594082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Index
 ms.assetid: bf71b9fe-988a-769f-74fe-a7367bd002f0
+ms.date: 06/08/2017
 ---
 
 

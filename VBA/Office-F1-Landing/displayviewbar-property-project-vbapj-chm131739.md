@@ -3,8 +3,9 @@ title: DisplayViewBar Property, Project [vbapj.chm131739]
 keywords: vbapj.chm131739
 f1_keywords:
 - vbapj.chm131739
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4429757e-8cbc-4c5a-8634-7eff1cc0aeb8
+ms.date: 06/08/2017
 ---
 
 

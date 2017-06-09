@@ -3,10 +3,11 @@ title: Pages.Item Method (Word)
 keywords: vbawd10.chm67239936
 f1_keywords:
 - vbawd10.chm67239936
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pages.Item
 ms.assetid: 087f7b95-5a18-728c-30ef-bf9ca44d876f
+ms.date: 06/08/2017
 ---
 
 

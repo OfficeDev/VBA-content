@@ -3,8 +3,9 @@ title: SpreadPercentCompleteToStatusDate Property, Project [vbapj.chm132633]
 keywords: vbapj.chm132633
 f1_keywords:
 - vbapj.chm132633
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1e556607-28fc-4702-9c8a-63a6764b15da
+ms.date: 06/08/2017
 ---
 
 

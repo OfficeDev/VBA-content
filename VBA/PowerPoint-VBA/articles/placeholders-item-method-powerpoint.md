@@ -3,10 +3,11 @@ title: Placeholders.Item Method (PowerPoint)
 keywords: vbapp10.chm544003
 f1_keywords:
 - vbapp10.chm544003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders.Item
 ms.assetid: 744459ec-8122-6b3b-b458-6c1876db217b
+ms.date: 06/08/2017
 ---
 
 

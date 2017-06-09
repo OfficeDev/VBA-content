@@ -3,10 +3,11 @@ title: ChartArea.Creator Property (Word)
 keywords: vbawd10.chm160039061
 f1_keywords:
 - vbawd10.chm160039061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea.Creator
 ms.assetid: dd2c0557-336b-ec22-fed4-dfa263d9fb52
+ms.date: 06/08/2017
 ---
 
 

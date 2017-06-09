@@ -3,10 +3,11 @@ title: UpBars.Fill Property (Word)
 keywords: vbawd10.chm180946559
 f1_keywords:
 - vbawd10.chm180946559
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Fill
 ms.assetid: 531d3d61-e0d1-1b9c-5966-28354e3c837f
+ms.date: 06/08/2017
 ---
 
 

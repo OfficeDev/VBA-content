@@ -3,10 +3,11 @@ title: Application.BarBoxStyles Method (Project)
 keywords: vbapj.chm904
 f1_keywords:
 - vbapj.chm904
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BarBoxStyles
 ms.assetid: a548985d-f5f3-7646-3b05-b00a9232e370
+ms.date: 06/08/2017
 ---
 
 

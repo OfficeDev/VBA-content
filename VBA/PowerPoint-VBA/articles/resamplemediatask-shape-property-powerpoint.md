@@ -3,10 +3,11 @@ title: ResampleMediaTask.Shape Property (PowerPoint)
 keywords: vbapp10.chm727011
 f1_keywords:
 - vbapp10.chm727011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.Shape
 ms.assetid: 1980c6c4-17e0-f6e2-7fcc-864b91f3190d
+ms.date: 06/08/2017
 ---
 
 

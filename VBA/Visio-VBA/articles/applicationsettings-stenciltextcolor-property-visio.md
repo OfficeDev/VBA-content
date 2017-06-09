@@ -3,10 +3,11 @@ title: ApplicationSettings.StencilTextColor Property (Visio)
 keywords: vis_sdr.chm16251515
 f1_keywords:
 - vis_sdr.chm16251515
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.StencilTextColor
 ms.assetid: 4e71f784-0d1a-c49f-7e9f-e0b96fdc0f6e
+ms.date: 06/08/2017
 ---
 
 

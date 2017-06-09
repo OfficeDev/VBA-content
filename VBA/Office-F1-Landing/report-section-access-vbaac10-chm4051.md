@@ -3,8 +3,9 @@ title: Report Section, Access [vbaac10.chm4051]
 keywords: vbaac10.chm4051
 f1_keywords:
 - vbaac10.chm4051
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 09b24bda-4310-460f-aee2-8e34943608de
+ms.date: 06/08/2017
 ---
 
 

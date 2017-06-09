@@ -3,8 +3,9 @@ title: Using Control Values While Code Is Running (Word)
 keywords: vbawd10.chm5214008
 f1_keywords:
 - vbawd10.chm5214008
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 62722982-6725-57e2-099e-c31d0aefadd3
+ms.date: 06/08/2017
 ---
 
 

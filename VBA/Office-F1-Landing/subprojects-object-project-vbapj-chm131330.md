@@ -3,8 +3,9 @@ title: Subprojects Object, Project [vbapj.chm131330]
 keywords: vbapj.chm131330
 f1_keywords:
 - vbapj.chm131330
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e365506d-eca4-4d3c-b4d6-75d746f40411
+ms.date: 06/08/2017
 ---
 
 

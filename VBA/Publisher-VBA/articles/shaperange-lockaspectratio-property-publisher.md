@@ -3,10 +3,11 @@ title: ShapeRange.LockAspectRatio Property (Publisher)
 keywords: vbapb10.chm2293827
 f1_keywords:
 - vbapb10.chm2293827
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.LockAspectRatio
 ms.assetid: 8ed4f41f-3395-dd59-29d4-f66afd19ac51
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Menus.AddAt Method (Visio)
 keywords: vis_sdr.chm13216015
 f1_keywords:
 - vis_sdr.chm13216015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menus.AddAt
 ms.assetid: ef8c26df-84d4-ca63-78e7-d2fa253b846e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: GroupShapes.Range Method (Word)
 keywords: vbawd10.chm162922506
 f1_keywords:
 - vbawd10.chm162922506
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GroupShapes.Range
 ms.assetid: 6d1b5a69-686a-b384-d6cc-cb79201b28d2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OlkContactPhoto.Enter Event (Outlook)
 keywords: vbaol11.chm1000316
 f1_keywords:
 - vbaol11.chm1000316
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.Enter
 ms.assetid: afb6bbff-1329-b1d9-af8a-2792919213e5
+ms.date: 06/08/2017
 ---
 
 

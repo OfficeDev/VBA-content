@@ -3,10 +3,11 @@ title: SlicerCacheLevels.Count Property (Excel)
 keywords: vbaxl10.chm899073
 f1_keywords:
 - vbaxl10.chm899073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCacheLevels.Count
 ms.assetid: 341c0047-2450-c268-e247-a339313de027
+ms.date: 06/08/2017
 ---
 
 

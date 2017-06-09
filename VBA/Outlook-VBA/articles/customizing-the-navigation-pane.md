@@ -1,7 +1,8 @@
 ---
 title: Customizing the Navigation Pane
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 426c3d1c-13b5-cac5-702d-87dfe71f2478
+ms.date: 06/08/2017
 ---
 
 

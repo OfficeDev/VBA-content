@@ -3,14 +3,15 @@ title: The value specified is not a ReplicaID for any member in the replica set.
 keywords: jeterr40.chm5003488
 f1_keywords:
 - jeterr40.chm5003488
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 44d5e5b3-0341-d48a-1f9b-f2fa0670aa05
+ms.date: 06/08/2017
 ---
 
 
 # The value specified is not a ReplicaID for any member in the replica set. (Error 3488)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

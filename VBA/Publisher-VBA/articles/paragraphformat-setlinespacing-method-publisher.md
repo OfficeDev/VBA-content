@@ -3,10 +3,11 @@ title: ParagraphFormat.SetLineSpacing Method (Publisher)
 keywords: vbapb10.chm5439511
 f1_keywords:
 - vbapb10.chm5439511
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SetLineSpacing
 ms.assetid: 32e5b233-8415-2373-7423-18b66df3a5ea
+ms.date: 06/08/2017
 ---
 
 

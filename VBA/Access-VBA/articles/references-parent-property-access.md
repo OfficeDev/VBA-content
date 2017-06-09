@@ -3,10 +3,11 @@ title: References.Parent Property (Access)
 keywords: vbaac10.chm12639
 f1_keywords:
 - vbaac10.chm12639
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.References.Parent
 ms.assetid: aa0b7fbe-d48f-2b9e-7c5d-53218f67a40f
+ms.date: 06/08/2017
 ---
 
 

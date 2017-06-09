@@ -3,10 +3,11 @@ title: ShapeRange.IncrementTop Method (Word)
 keywords: vbawd10.chm162856978
 f1_keywords:
 - vbawd10.chm162856978
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.IncrementTop
 ms.assetid: 871fed42-0fb6-3477-e854-1cc02a70e73b
+ms.date: 06/08/2017
 ---
 
 

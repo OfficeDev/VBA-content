@@ -3,8 +3,9 @@ title: Name Property, Excel [vbaxl10.chm942080]
 keywords: vbaxl10.chm942080
 f1_keywords:
 - vbaxl10.chm942080
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 748adadd-d2a8-458f-88d0-9b938c6c1016
+ms.date: 06/08/2017
 ---
 
 

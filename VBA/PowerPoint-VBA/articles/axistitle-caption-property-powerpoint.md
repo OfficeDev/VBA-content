@@ -3,10 +3,11 @@ title: AxisTitle.Caption Property (PowerPoint)
 keywords: vbapp10.chm683001
 f1_keywords:
 - vbapp10.chm683001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Caption
 ms.assetid: eb9111e7-7517-c96e-045b-bf6ea14a32a1
+ms.date: 06/08/2017
 ---
 
 

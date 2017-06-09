@@ -3,10 +3,11 @@ title: PageSize.TopMargin Property (Publisher)
 keywords: vbapb10.chm8847367
 f1_keywords:
 - vbapb10.chm8847367
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSize.TopMargin
 ms.assetid: 1d1755c2-bb53-5bc2-002c-93714df13784
+ms.date: 06/08/2017
 ---
 
 

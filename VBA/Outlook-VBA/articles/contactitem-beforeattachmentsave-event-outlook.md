@@ -1,9 +1,10 @@
 ---
 title: ContactItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentSave
 ms.assetid: c4c33ade-25db-f9d9-69fb-97dcce76bf45
+ms.date: 06/08/2017
 ---
 
 

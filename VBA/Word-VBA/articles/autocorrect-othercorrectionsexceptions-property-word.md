@@ -3,10 +3,11 @@ title: AutoCorrect.OtherCorrectionsExceptions Property (Word)
 keywords: vbawd10.chm155779089
 f1_keywords:
 - vbawd10.chm155779089
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.OtherCorrectionsExceptions
 ms.assetid: 6353059f-1a87-85e6-8783-f7836ea214f1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ActionSettings.Item Method (PowerPoint)
 keywords: vbapp10.chm566003
 f1_keywords:
 - vbapp10.chm566003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings.Item
 ms.assetid: 88e0b49b-0518-559b-243f-c369c09ab3fe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Series.FormulaLocal Property (Excel)
 keywords: vbaxl10.chm578085
 f1_keywords:
 - vbaxl10.chm578085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.FormulaLocal
 ms.assetid: 6e2a0912-5006-d223-30a6-618642de035d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OptionButton.AutoLabel Property (Access)
 keywords: vbaac10.chm10598
 f1_keywords:
 - vbaac10.chm10598
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.AutoLabel
 ms.assetid: 2ff7b57a-2a8a-84ae-def5-d8a95bff05f7
+ms.date: 06/08/2017
 ---
 
 

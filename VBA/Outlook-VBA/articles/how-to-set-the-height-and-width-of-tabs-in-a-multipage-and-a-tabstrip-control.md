@@ -3,8 +3,9 @@ title: "How to: Set the Height and Width of Tabs in a MultiPage and a TabStrip C
 keywords: olfm10.chm3077249
 f1_keywords:
 - olfm10.chm3077249
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4d351a3d-334e-5356-7a2d-6c7b11655319
+ms.date: 06/08/2017
 ---
 
 

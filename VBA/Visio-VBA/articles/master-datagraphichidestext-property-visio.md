@@ -3,10 +3,11 @@ title: Master.DataGraphicHidesText Property (Visio)
 keywords: vis_sdr.chm10760115
 f1_keywords:
 - vis_sdr.chm10760115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicHidesText
 ms.assetid: c1a08780-0873-3d8b-1872-edc8a6515840
+ms.date: 06/08/2017
 ---
 
 

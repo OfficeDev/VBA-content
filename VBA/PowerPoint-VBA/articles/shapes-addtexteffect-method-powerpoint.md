@@ -3,10 +3,11 @@ title: Shapes.AddTextEffect Method (PowerPoint)
 keywords: vbapp10.chm543013
 f1_keywords:
 - vbapp10.chm543013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddTextEffect
 ms.assetid: 4428ac57-c704-475a-1640-78a556e9ac3d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdSeekView Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSeekView
 ms.assetid: 6a26e72c-fee8-c29b-db00-053c64466491
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Page Object, Pages Collection, MultiPage Control, SelectedItem Property E
 keywords: fm20.chm5225175
 f1_keywords:
 - fm20.chm5225175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 85bf4dd6-a291-27b4-7f67-811e28ade6e9
+ms.date: 06/08/2017
 ---
 
 

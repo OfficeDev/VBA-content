@@ -3,8 +3,9 @@ title: For Each can only iterate over a collection object or an array, Office Sh
 keywords: vblr6.chm1040139
 f1_keywords:
 - vblr6.chm1040139
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e212fe6a-1c99-455c-9d67-1a3d5785234f
+ms.date: 06/08/2017
 ---
 
 

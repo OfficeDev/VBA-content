@@ -3,10 +3,11 @@ title: OptionGroup.SizeToFit Method (Access)
 keywords: vbaac10.chm10814
 f1_keywords:
 - vbaac10.chm10814
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.SizeToFit
 ms.assetid: 53c509fe-41d8-b430-b272-5c506c237680
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ColorScheme.Name Property (Publisher)
 keywords: vbapb10.chm2686979
 f1_keywords:
 - vbapb10.chm2686979
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorScheme.Name
 ms.assetid: 8816c7d5-6dac-f1ad-f7f7-590406be5bef
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Application.QueryCancelConvertToGroup Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelConvertToGroup
 ms.assetid: 1b47836b-def8-6019-93f5-1694fd7cb4f9
+ms.date: 06/08/2017
 ---
 
 

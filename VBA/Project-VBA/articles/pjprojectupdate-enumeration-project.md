@@ -1,9 +1,10 @@
 ---
 title: PjProjectUpdate Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjProjectUpdate
 ms.assetid: 345fc72f-8d15-353b-5b96-2153ed80507f
+ms.date: 06/08/2017
 ---
 
 

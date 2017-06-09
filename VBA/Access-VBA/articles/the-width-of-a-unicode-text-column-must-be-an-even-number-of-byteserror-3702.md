@@ -3,14 +3,15 @@ title: The width of a Unicode text column must be an even number of bytes. (Erro
 keywords: jeterr40.chm5003702
 f1_keywords:
 - jeterr40.chm5003702
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 029d1aa7-3a75-8aa6-3255-c39c5a62d358
+ms.date: 06/08/2017
 ---
 
 
 # The width of a Unicode text column must be an even number of bytes. (Error 3702)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

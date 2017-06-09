@@ -1,7 +1,8 @@
 ---
 title: ComboBox Events (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 57268260-c0bd-4595-9dbd-a01e9e2bbfa9
+ms.date: 06/08/2017
 ---
 
 

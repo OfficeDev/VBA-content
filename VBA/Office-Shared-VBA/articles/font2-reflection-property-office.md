@@ -1,9 +1,10 @@
 ---
 title: Font2.Reflection Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Reflection
 ms.assetid: ae59cf83-4717-d3e1-9664-c7be0233a8eb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: EmptyCell.Height Property (Access)
 keywords: vbaac10.chm14310
 f1_keywords:
 - vbaac10.chm14310
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Height
 ms.assetid: 35a90799-a5fb-62da-1e75-f4f2396cac2e
+ms.date: 06/08/2017
 ---
 
 

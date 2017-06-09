@@ -3,8 +3,9 @@ title: SolverOptions Function
 keywords: vbaxl10.chm5205227
 f1_keywords:
 - vbaxl10.chm5205227
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 270d5440-ac1e-2436-b632-5877ede0820e
+ms.date: 06/08/2017
 ---
 
 

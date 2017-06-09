@@ -3,10 +3,11 @@ title: PictureFormat.ColorType Property (Excel)
 keywords: vbaxl10.chm113003
 f1_keywords:
 - vbaxl10.chm113003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.ColorType
 ms.assetid: 6c183163-8fbd-3a0f-b087-05d8d2cdbfd5
+ms.date: 06/08/2017
 ---
 
 

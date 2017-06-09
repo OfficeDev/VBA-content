@@ -3,10 +3,11 @@ title: Section.FormulaChanged Event (Visio)
 keywords: vis_sdr.chm15719160
 f1_keywords:
 - vis_sdr.chm15719160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.FormulaChanged
 ms.assetid: 809b79cb-f9b1-cd6c-ad9f-3f74bff6f5ee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Master.Picture Property (Visio)
 keywords: vis_sdr.chm10750765
 f1_keywords:
 - vis_sdr.chm10750765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Picture
 ms.assetid: b882b05f-5e54-aab8-db88-1e66cf825581
+ms.date: 06/08/2017
 ---
 
 

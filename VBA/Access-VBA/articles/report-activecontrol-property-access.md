@@ -3,10 +3,11 @@ title: Report.ActiveControl Property (Access)
 keywords: vbaac10.chm13780
 f1_keywords:
 - vbaac10.chm13780
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ActiveControl
 ms.assetid: 71599d10-a423-ab75-e12b-03adec04c2bf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FindReplace Object (Publisher)
 keywords: vbapb10.chm8388607
 f1_keywords:
 - vbapb10.chm8388607
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace
 ms.assetid: 96dcf5fe-4f3e-07b7-c248-46edd370fc31
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DataConnection.ConnectionString Property (Visio)
 keywords: vis_sdr.chm16560370
 f1_keywords:
 - vis_sdr.chm16560370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection.ConnectionString
 ms.assetid: a1a6105f-64ee-1e0c-3b54-9831aec06bf4
+ms.date: 06/08/2017
 ---
 
 

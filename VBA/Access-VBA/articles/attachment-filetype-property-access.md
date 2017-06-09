@@ -3,10 +3,11 @@ title: Attachment.FileType Property (Access)
 keywords: vbaac10.chm13982
 f1_keywords:
 - vbaac10.chm13982
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.FileType
 ms.assetid: 0e22ddf6-695a-f6bc-58c8-f6af77912306
+ms.date: 06/08/2017
 ---
 
 

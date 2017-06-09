@@ -3,10 +3,11 @@ title: Document.DowngradeDocument Method (Word)
 keywords: vbawd10.chm158007854
 f1_keywords:
 - vbawd10.chm158007854
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DowngradeDocument
 ms.assetid: 3f79fb57-dbce-0a12-3ecf-6a1f96992d9f
+ms.date: 06/08/2017
 ---
 
 

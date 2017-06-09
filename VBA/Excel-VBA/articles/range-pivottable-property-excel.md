@@ -3,10 +3,11 @@ title: Range.PivotTable Property (Excel)
 keywords: vbaxl10.chm144177
 f1_keywords:
 - vbaxl10.chm144177
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.PivotTable
 ms.assetid: ae3f77dc-5098-d60f-0afc-f4f01dbc33f0
+ms.date: 06/08/2017
 ---
 
 

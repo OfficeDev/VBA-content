@@ -3,10 +3,11 @@ title: Application.GroupClear Method (Project)
 keywords: vbapj.chm515
 f1_keywords:
 - vbapj.chm515
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GroupClear
 ms.assetid: f30532b6-6fe6-afed-2b38-279d8fbb82eb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.CommandBars Property (Access)
 keywords: vbaac10.chm12559
 f1_keywords:
 - vbaac10.chm12559
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CommandBars
 ms.assetid: a7dc2e41-7271-1f2d-b0f9-7fa884311709
+ms.date: 06/08/2017
 ---
 
 

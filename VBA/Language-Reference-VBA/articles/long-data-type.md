@@ -3,8 +3,9 @@ title: Long Data Type
 keywords: vblr6.chm1008968
 f1_keywords:
 - vblr6.chm1008968
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 41802b5f-1d45-f586-dddd-acb6cced581b
+ms.date: 06/08/2017
 ---
 
 

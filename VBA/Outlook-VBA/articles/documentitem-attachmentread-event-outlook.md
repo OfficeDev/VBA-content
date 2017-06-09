@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.AttachmentRead
 ms.assetid: 46cb82e1-1705-acc1-6bc3-e673ed2be44a
+ms.date: 06/08/2017
 ---
 
 

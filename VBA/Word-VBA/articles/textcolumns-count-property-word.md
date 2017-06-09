@@ -3,10 +3,11 @@ title: TextColumns.Count Property (Word)
 keywords: vbawd10.chm158531586
 f1_keywords:
 - vbawd10.chm158531586
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.Count
 ms.assetid: 22185e1d-7c06-2f93-0a10-b8cbf1256442
+ms.date: 06/08/2017
 ---
 
 

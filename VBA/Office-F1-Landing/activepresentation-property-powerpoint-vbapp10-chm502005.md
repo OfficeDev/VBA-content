@@ -3,8 +3,9 @@ title: ActivePresentation Property, PowerPoint [vbapp10.chm502005]
 keywords: vbapp10.chm502005
 f1_keywords:
 - vbapp10.chm502005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec446fb2-c2d4-40d2-b148-9a981b502beb
+ms.date: 06/08/2017
 ---
 
 

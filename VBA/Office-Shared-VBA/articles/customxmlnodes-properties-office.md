@@ -1,7 +1,8 @@
 ---
 title: CustomXMLNodes Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9248c34c-49a5-4bc1-81ae-a5f05ac8fef9
+ms.date: 06/08/2017
 ---
 
 

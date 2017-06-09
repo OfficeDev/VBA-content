@@ -3,8 +3,9 @@ title: Saving Documents as Web Pages
 keywords: vbaxl10.chm5285317
 f1_keywords:
 - vbaxl10.chm5285317
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: ea07da4e-39f6-d04e-00cc-d52eb87f652f
+ms.date: 06/08/2017
 ---
 
 

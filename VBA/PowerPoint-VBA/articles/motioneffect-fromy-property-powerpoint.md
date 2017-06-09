@@ -3,10 +3,11 @@ title: MotionEffect.FromY Property (PowerPoint)
 keywords: vbapp10.chm658006
 f1_keywords:
 - vbapp10.chm658006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MotionEffect.FromY
 ms.assetid: e9754587-f8bc-4af5-bd2b-ec6b1e3c4bc4
+ms.date: 06/08/2017
 ---
 
 

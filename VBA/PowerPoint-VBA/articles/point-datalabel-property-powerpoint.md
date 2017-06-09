@@ -1,9 +1,10 @@
 ---
 title: Point.DataLabel Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.DataLabel
 ms.assetid: 0f202f4c-2627-09e0-38d8-fd51aa1cdfb1
+ms.date: 06/08/2017
 ---
 
 

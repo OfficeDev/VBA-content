@@ -3,10 +3,11 @@ title: CommandButton.PressedForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14624
 f1_keywords:
 - vbaac10.chm14624
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PressedForeThemeColorIndex
 ms.assetid: 32ad73cd-3960-1516-c45d-175c7d642847
+ms.date: 06/08/2017
 ---
 
 

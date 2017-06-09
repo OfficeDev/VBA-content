@@ -3,14 +3,15 @@ title: You cannot make a database replicable that is being used by a program tha
 keywords: jeterr40.chm5003638
 f1_keywords:
 - jeterr40.chm5003638
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6193a54e-7e09-a3b9-d3ee-f88151b5a5ab
+ms.date: 06/08/2017
 ---
 
 
 # You cannot make a database replicable that is being used by a program that controls modification. (Error 3638)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

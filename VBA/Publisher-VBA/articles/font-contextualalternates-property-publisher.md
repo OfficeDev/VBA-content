@@ -3,10 +3,11 @@ title: Font.ContextualAlternates Property (Publisher)
 keywords: vbapb10.chm5374009
 f1_keywords:
 - vbapb10.chm5374009
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.ContextualAlternates
 ms.assetid: 4737d43a-4ab8-0ae7-ce45-7be62f4aae6e
+ms.date: 06/08/2017
 ---
 
 

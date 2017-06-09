@@ -3,8 +3,9 @@ title: WorksheetFunction.Bitand Method (Excel)
 keywords: vbaxl10.chm137435
 f1_keywords:
 - vbaxl10.chm137435
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 6bd0c1e0-43c4-b6cb-ede2-234fe45bb378
+ms.date: 06/08/2017
 ---
 
 

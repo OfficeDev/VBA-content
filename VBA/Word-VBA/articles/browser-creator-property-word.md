@@ -3,10 +3,11 @@ title: Browser.Creator Property (Word)
 keywords: vbawd10.chm154010601
 f1_keywords:
 - vbawd10.chm154010601
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Creator
 ms.assetid: dd12021b-a90c-d24f-6556-01d3f5ebd582
+ms.date: 06/08/2017
 ---
 
 

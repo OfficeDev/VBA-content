@@ -1,9 +1,10 @@
 ---
 title: SmartArtLayouts.Item Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Item
 ms.assetid: 8741eb7f-21d4-dfff-ef02-a87959d8a841
+ms.date: 06/08/2017
 ---
 
 

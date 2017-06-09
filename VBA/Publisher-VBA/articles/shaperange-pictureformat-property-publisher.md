@@ -3,10 +3,11 @@ title: ShapeRange.PictureFormat Property (Publisher)
 keywords: vbapb10.chm2293831
 f1_keywords:
 - vbapb10.chm2293831
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.PictureFormat
 ms.assetid: 3d693c6b-b76b-0fe1-e7df-63fb08782f6f
+ms.date: 06/08/2017
 ---
 
 

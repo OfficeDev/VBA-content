@@ -1,9 +1,10 @@
 ---
 title: Task.OutlineCode9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.OutlineCode9
 ms.assetid: 969f1f13-ba87-d096-69f9-463d95e9e876
+ms.date: 06/08/2017
 ---
 
 

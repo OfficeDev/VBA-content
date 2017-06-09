@@ -3,10 +3,11 @@ title: RecentFile.Creator Property (Word)
 keywords: vbawd10.chm157549545
 f1_keywords:
 - vbawd10.chm157549545
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFile.Creator
 ms.assetid: 7e236d71-f591-cedd-d371-2e8ffb1e1070
+ms.date: 06/08/2017
 ---
 
 

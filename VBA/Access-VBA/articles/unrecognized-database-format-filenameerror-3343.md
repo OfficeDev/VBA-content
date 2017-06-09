@@ -3,14 +3,15 @@ title: Unrecognized database format <filename>. (Error 3343)
 keywords: jeterr40.chm5003343
 f1_keywords:
 - jeterr40.chm5003343
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d917be92-c946-1764-9409-9368d011390a
+ms.date: 06/08/2017
 ---
 
 
 # Unrecognized database format <filename>. (Error 3343)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Label.ForeColor Property (Access)
 keywords: vbaac10.chm10209
 f1_keywords:
 - vbaac10.chm10209
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.ForeColor
 ms.assetid: dc1f1bcc-cd8b-2a13-a4a6-47d0c0101a4d
+ms.date: 06/08/2017
 ---
 
 

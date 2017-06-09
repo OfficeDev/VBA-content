@@ -3,10 +3,11 @@ title: Range.Errors Property (Excel)
 keywords: vbaxl10.chm144235
 f1_keywords:
 - vbaxl10.chm144235
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Errors
 ms.assetid: 88dcc606-d412-a9ce-82bc-5fbba8baae87
+ms.date: 06/08/2017
 ---
 
 

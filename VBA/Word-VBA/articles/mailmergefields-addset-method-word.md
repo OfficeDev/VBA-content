@@ -3,10 +3,11 @@ title: MailMergeFields.AddSet Method (Word)
 keywords: vbawd10.chm153026669
 f1_keywords:
 - vbawd10.chm153026669
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddSet
 ms.assetid: 6b35e6ab-e918-26bd-6cdd-547882d2bef5
+ms.date: 06/08/2017
 ---
 
 

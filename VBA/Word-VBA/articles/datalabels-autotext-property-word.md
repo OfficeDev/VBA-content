@@ -3,10 +3,11 @@ title: DataLabels.AutoText Property (Word)
 keywords: vbawd10.chm207487111
 f1_keywords:
 - vbawd10.chm207487111
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.AutoText
 ms.assetid: fa26ac03-bf5f-579f-12b5-d7888aa9de9b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Line 'item1' Did not find an index property, and control 'item2' already 
 keywords: vblr6.chm60111
 f1_keywords:
 - vblr6.chm60111
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 46c7c4d3-defb-440d-8862-1d572a4d9331
+ms.date: 06/08/2017
 ---
 
 

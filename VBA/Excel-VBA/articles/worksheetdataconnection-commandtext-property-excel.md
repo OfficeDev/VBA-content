@@ -3,8 +3,9 @@ title: WorksheetDataConnection.CommandText Property (Excel)
 keywords: vbaxl10.chm924074
 f1_keywords:
 - vbaxl10.chm924074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 68bce4d3-8459-8d48-41ab-f3c32e4451d2
+ms.date: 06/08/2017
 ---
 
 

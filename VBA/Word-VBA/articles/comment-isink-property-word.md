@@ -3,10 +3,11 @@ title: Comment.IsInk Property (Word)
 keywords: vbawd10.chm154993652
 f1_keywords:
 - vbawd10.chm154993652
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comment.IsInk
 ms.assetid: 57204e17-cf5a-d006-0738-b1f1ef62632f
+ms.date: 06/08/2017
 ---
 
 

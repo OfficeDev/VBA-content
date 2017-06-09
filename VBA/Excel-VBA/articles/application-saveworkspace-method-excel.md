@@ -3,10 +3,11 @@ title: Application.SaveWorkspace Method (Excel)
 keywords: vbaxl10.chm133204
 f1_keywords:
 - vbaxl10.chm133204
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SaveWorkspace
 ms.assetid: a95df3b2-1408-351b-05c4-177c8305420f
+ms.date: 06/08/2017
 ---
 
 

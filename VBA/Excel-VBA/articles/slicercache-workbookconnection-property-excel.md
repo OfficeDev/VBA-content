@@ -3,10 +3,11 @@ title: SlicerCache.WorkbookConnection Property (Excel)
 keywords: vbaxl10.chm897076
 f1_keywords:
 - vbaxl10.chm897076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.WorkbookConnection
 ms.assetid: ffe4fcbc-025e-6349-aaee-39a938b61e1e
+ms.date: 06/08/2017
 ---
 
 

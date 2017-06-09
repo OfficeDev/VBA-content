@@ -1,9 +1,10 @@
 ---
 title: WdReadingOrder Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdReadingOrder
 ms.assetid: fc67be23-e569-324f-ad08-0df62ff1fffb
+ms.date: 06/08/2017
 ---
 
 

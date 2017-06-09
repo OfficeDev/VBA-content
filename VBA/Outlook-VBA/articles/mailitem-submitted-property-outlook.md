@@ -3,10 +3,11 @@ title: MailItem.Submitted Property (Outlook)
 keywords: vbaol11.chm1361
 f1_keywords:
 - vbaol11.chm1361
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Submitted
 ms.assetid: 58dbf39a-962e-8a1d-6424-c66fffeea6d4
+ms.date: 06/08/2017
 ---
 
 

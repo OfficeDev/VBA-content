@@ -3,10 +3,11 @@ title: WorksheetFunction.Trend Method (Excel)
 keywords: vbaxl10.chm137104
 f1_keywords:
 - vbaxl10.chm137104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Trend
 ms.assetid: 3baae2ed-68c9-88b7-b44e-b5ea91bcbb1d
+ms.date: 06/08/2017
 ---
 
 

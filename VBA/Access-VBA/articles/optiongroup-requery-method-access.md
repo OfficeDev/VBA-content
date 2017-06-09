@@ -3,10 +3,11 @@ title: OptionGroup.Requery Method (Access)
 keywords: vbaac10.chm10815
 f1_keywords:
 - vbaac10.chm10815
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Requery
 ms.assetid: 5cc8188a-a579-3cd6-335a-afb2d05c955c
+ms.date: 06/08/2017
 ---
 
 

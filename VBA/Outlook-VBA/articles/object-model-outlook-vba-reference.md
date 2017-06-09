@@ -1,7 +1,8 @@
 ---
 title: Object model (Outlook VBA reference)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 73221b13-d8d8-99b8-3394-b95dbbfd5ddc
+ms.date: 06/08/2017
 ---
 
 

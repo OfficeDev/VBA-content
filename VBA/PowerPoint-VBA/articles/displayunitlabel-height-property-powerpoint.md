@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Height Property (PowerPoint)
 keywords: vbapp10.chm699022
 f1_keywords:
 - vbapp10.chm699022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Height
 ms.assetid: 905ae88a-9610-d438-0547-64e859cd5e42
+ms.date: 06/08/2017
 ---
 
 

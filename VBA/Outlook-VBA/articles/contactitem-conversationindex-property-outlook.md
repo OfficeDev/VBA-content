@@ -3,10 +3,11 @@ title: ContactItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm936
 f1_keywords:
 - vbaol11.chm936
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ConversationIndex
 ms.assetid: 696feb03-5fda-3abc-8633-0b096298dafe
+ms.date: 06/08/2017
 ---
 
 

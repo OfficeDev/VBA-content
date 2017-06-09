@@ -3,10 +3,11 @@ title: TabStops.Add Method (Word)
 keywords: vbawd10.chm156565604
 f1_keywords:
 - vbawd10.chm156565604
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStops.Add
 ms.assetid: d6996a6c-e2e7-692c-3f48-27af213803e1
+ms.date: 06/08/2017
 ---
 
 

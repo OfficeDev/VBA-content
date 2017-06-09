@@ -3,8 +3,9 @@ title: Str Function, Office Shared [vblr6.chm1009034]
 keywords: vblr6.chm1009034
 f1_keywords:
 - vblr6.chm1009034
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79523aca-aa9b-4df6-852a-36e3532c0d30
+ms.date: 06/08/2017
 ---
 
 

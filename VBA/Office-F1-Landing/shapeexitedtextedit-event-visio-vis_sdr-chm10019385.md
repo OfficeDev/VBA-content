@@ -3,8 +3,9 @@ title: ShapeExitedTextEdit Event, Visio [vis_sdr.chm10019385]
 keywords: vis_sdr.chm10019385
 f1_keywords:
 - vis_sdr.chm10019385
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9d360a3d-05f4-4eb0-b0bb-445aff5a87d0
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Miscellaneous Topics in Access User Interface
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5af31511-1387-40bc-987f-eef5ac8e0e35
+ms.date: 06/08/2017
 ---
 
 

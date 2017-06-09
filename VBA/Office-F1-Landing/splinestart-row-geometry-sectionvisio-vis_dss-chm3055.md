@@ -3,8 +3,9 @@ title: SplineStart Row (Geometry Section), Visio [Vis_DSS.chm3055]
 keywords: vis_dss.chm3055
 f1_keywords:
 - vis_dss.chm3055
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9fc80048-430d-4509-8c07-63c4627b8afa
+ms.date: 06/08/2017
 ---
 
 

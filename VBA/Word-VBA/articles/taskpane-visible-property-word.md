@@ -3,10 +3,11 @@ title: TaskPane.Visible Property (Word)
 keywords: vbawd10.chm81921003
 f1_keywords:
 - vbawd10.chm81921003
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TaskPane.Visible
 ms.assetid: f7d52701-558d-9fdd-be0e-2d2fb07e8c02
+ms.date: 06/08/2017
 ---
 
 

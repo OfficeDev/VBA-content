@@ -3,10 +3,11 @@ title: Account.GetRecipientFromID Method (Outlook)
 keywords: vbaol11.chm3428
 f1_keywords:
 - vbaol11.chm3428
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.GetRecipientFromID
 ms.assetid: 7b97ce67-6015-ece6-de1b-6d4226be83aa
+ms.date: 06/08/2017
 ---
 
 

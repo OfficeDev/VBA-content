@@ -3,14 +3,15 @@ title: Cannot have aggregate function in JOIN operation <operation>. (Error 3099
 keywords: jeterr40.chm5003099
 f1_keywords:
 - jeterr40.chm5003099
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 48e498de-f3db-07bd-b881-17291ed8aaad
+ms.date: 06/08/2017
 ---
 
 
 # Cannot have aggregate function in JOIN operation <operation>. (Error 3099)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

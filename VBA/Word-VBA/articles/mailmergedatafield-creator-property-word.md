@@ -3,10 +3,11 @@ title: MailMergeDataField.Creator Property (Word)
 keywords: vbawd10.chm152634345
 f1_keywords:
 - vbawd10.chm152634345
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataField.Creator
 ms.assetid: 75682878-2128-86f4-a011-471cd50b77e5
+ms.date: 06/08/2017
 ---
 
 

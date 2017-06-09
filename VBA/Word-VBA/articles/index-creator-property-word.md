@@ -3,10 +3,11 @@ title: Index.Creator Property (Word)
 keywords: vbawd10.chm159187945
 f1_keywords:
 - vbawd10.chm159187945
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Index.Creator
 ms.assetid: 09395f00-dfe1-7a86-cd62-bd8c6f72a1e3
+ms.date: 06/08/2017
 ---
 
 

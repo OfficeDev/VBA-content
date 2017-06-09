@@ -3,10 +3,11 @@ title: WebBrowserControl.ReadyState Property (Access)
 keywords: vbaac10.chm14362
 f1_keywords:
 - vbaac10.chm14362
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.ReadyState
 ms.assetid: 49ba1888-9a1e-ea35-18ed-b3bfbbfd3f31
+ms.date: 06/08/2017
 ---
 
 

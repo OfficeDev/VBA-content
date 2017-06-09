@@ -1,13 +1,14 @@
 ---
 title: Stream (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e1482f15-9ef6-9485-06c2-1123762afc9f
+ms.date: 06/08/2017
 ---
 
 
 # Stream (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

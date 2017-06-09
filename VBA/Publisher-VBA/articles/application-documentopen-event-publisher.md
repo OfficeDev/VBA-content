@@ -3,10 +3,11 @@ title: Application.DocumentOpen Event (Publisher)
 keywords: vbapb10.chm268435463
 f1_keywords:
 - vbapb10.chm268435463
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.DocumentOpen
 ms.assetid: 3bdd4b38-ec40-a08f-3742-f81a6ed333b3
+ms.date: 06/08/2017
 ---
 
 

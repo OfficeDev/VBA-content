@@ -3,8 +3,9 @@ title: ProjectBeforeTaskChange Event, Project [vbapj.chm131164]
 keywords: vbapj.chm131164
 f1_keywords:
 - vbapj.chm131164
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: db51cfaa-2d2f-4ff1-9364-7d844964a908
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Save <host document> Command (File Menu)
 keywords: vbui6.chm181011
 f1_keywords:
 - vbui6.chm181011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7b878e94-ed72-cfd0-4b72-21f991f198f1
+ms.date: 06/08/2017
 ---
 
 

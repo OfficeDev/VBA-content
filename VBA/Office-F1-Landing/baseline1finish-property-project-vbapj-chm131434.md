@@ -3,8 +3,9 @@ title: Baseline1Finish Property, Project [vbapj.chm131434]
 keywords: vbapj.chm131434
 f1_keywords:
 - vbapj.chm131434
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 842ea392-623c-421d-ba89-daaa4a959f8e
+ms.date: 06/08/2017
 ---
 
 

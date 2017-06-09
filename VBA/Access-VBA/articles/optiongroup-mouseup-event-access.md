@@ -3,10 +3,11 @@ title: OptionGroup.MouseUp Event (Access)
 keywords: vbaac10.chm14193
 f1_keywords:
 - vbaac10.chm14193
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.MouseUp
 ms.assetid: 203556bc-5242-1aec-ec6c-b11db04df569
+ms.date: 06/08/2017
 ---
 
 

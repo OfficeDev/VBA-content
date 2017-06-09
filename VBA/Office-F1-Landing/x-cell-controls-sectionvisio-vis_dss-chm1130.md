@@ -3,8 +3,9 @@ title: X Cell (Controls Section), Visio [Vis_DSS.chm1130]
 keywords: vis_dss.chm1130
 f1_keywords:
 - vis_dss.chm1130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a410fd7-dbf7-4490-bb83-d78467388696
+ms.date: 06/08/2017
 ---
 
 

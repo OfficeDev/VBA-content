@@ -3,14 +3,15 @@ title: Only simple SELECT queries are allowed in VIEWS. (Error 3766)
 keywords: jeterr40.chm5003766
 f1_keywords:
 - jeterr40.chm5003766
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6351a23c-d108-163a-f0bb-2b6c0f7a9270
+ms.date: 06/08/2017
 ---
 
 
 # Only simple SELECT queries are allowed in VIEWS. (Error 3766)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

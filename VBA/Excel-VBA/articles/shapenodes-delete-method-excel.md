@@ -3,10 +3,11 @@ title: ShapeNodes.Delete Method (Excel)
 keywords: vbaxl10.chm112007
 f1_keywords:
 - vbaxl10.chm112007
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Delete
 ms.assetid: 985a1bed-4c40-e169-42de-fce59eca8b79
+ms.date: 06/08/2017
 ---
 
 

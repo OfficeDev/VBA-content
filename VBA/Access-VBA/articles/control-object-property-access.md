@@ -3,10 +3,11 @@ title: Control.Object Property (Access)
 keywords: vbaac10.chm10142
 f1_keywords:
 - vbaac10.chm10142
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Object
 ms.assetid: bfa11d67-ef96-128f-ef0d-efc555b51b5d
+ms.date: 06/08/2017
 ---
 
 

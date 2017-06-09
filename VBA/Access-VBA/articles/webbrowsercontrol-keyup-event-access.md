@@ -3,10 +3,11 @@ title: WebBrowserControl.KeyUp Event (Access)
 keywords: vbaac10.chm143139
 f1_keywords:
 - vbaac10.chm143139
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.KeyUp
 ms.assetid: dd8de3b1-4da0-2498-c07a-392ef5d48c73
+ms.date: 06/08/2017
 ---
 
 

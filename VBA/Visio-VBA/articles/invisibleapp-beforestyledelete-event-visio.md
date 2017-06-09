@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.BeforeStyleDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeStyleDelete
 ms.assetid: 0547897f-1ef9-27c4-1ea8-46e0e881ac91
+ms.date: 06/08/2017
 ---
 
 

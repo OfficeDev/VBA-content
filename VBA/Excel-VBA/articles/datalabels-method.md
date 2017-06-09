@@ -3,10 +3,11 @@ title: DataLabels Method
 keywords: vbagr10.chm3077616
 f1_keywords:
 - vbagr10.chm3077616
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels
 ms.assetid: 8ffca32c-f505-482e-dd27-d29ad2682daf
+ms.date: 06/08/2017
 ---
 
 

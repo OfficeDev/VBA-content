@@ -3,10 +3,11 @@ title: SecondaryPlot Property
 keywords: vbagr10.chm5207958
 f1_keywords:
 - vbagr10.chm5207958
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SecondaryPlot
 ms.assetid: 6806a9d3-06cc-3786-5d1e-fbc23680da7a
+ms.date: 06/08/2017
 ---
 
 

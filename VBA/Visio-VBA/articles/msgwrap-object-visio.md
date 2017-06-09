@@ -3,10 +3,11 @@ title: MSGWrap Object (Visio)
 keywords: vis_sdr.chm50735
 f1_keywords:
 - vis_sdr.chm50735
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MSGWrap
 ms.assetid: 42ee34a9-72c1-2fa0-b93a-8198325738f7
+ms.date: 06/08/2017
 ---
 
 

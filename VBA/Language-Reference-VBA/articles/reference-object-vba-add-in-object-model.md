@@ -3,8 +3,9 @@ title: Reference Object (VBA Add-In Object Model)
 keywords: vbob6.chm104053
 f1_keywords:
 - vbob6.chm104053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 559d4da0-624f-a574-575d-768155c89c72
+ms.date: 06/08/2017
 ---
 
 

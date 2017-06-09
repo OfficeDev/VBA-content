@@ -3,10 +3,11 @@ title: OlkSenderPhoto.DoubleClick Event (Outlook)
 keywords: vbaol11.chm1000486
 f1_keywords:
 - vbaol11.chm1000486
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.DoubleClick
 ms.assetid: 4ed4eaf2-743b-ffc3-c723-3c628b04b0b1
+ms.date: 06/08/2017
 ---
 
 

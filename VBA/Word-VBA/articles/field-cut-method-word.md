@@ -3,10 +3,11 @@ title: Field.Cut Method (Word)
 keywords: vbawd10.chm154075242
 f1_keywords:
 - vbawd10.chm154075242
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Cut
 ms.assetid: 594b6538-fd90-a969-decd-1468b9ba0c03
+ms.date: 06/08/2017
 ---
 
 

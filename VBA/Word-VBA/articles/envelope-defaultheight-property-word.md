@@ -3,10 +3,11 @@ title: Envelope.DefaultHeight Property (Word)
 keywords: vbawd10.chm152567814
 f1_keywords:
 - vbawd10.chm152567814
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.DefaultHeight
 ms.assetid: 4c13a3b2-4236-defa-3682-ccef1700901f
+ms.date: 06/08/2017
 ---
 
 

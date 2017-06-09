@@ -3,10 +3,11 @@ title: GroupLevel.GroupInterval Property (Access)
 keywords: vbaac10.chm12244
 f1_keywords:
 - vbaac10.chm12244
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.GroupInterval
 ms.assetid: 98ba66b9-658e-9fa6-155b-3b4f1a7c3f01
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Range.InsertAfter Method (Word)
 keywords: vbawd10.chm157155432
 f1_keywords:
 - vbawd10.chm157155432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertAfter
 ms.assetid: 25b2c0be-e9c7-1e42-09ea-308bbdcde7c6
+ms.date: 06/08/2017
 ---
 
 

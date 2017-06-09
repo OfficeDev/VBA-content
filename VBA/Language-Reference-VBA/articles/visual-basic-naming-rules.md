@@ -3,8 +3,9 @@ title: Visual Basic Naming Rules
 keywords: vbcn6.chm1076688
 f1_keywords:
 - vbcn6.chm1076688
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d3e2b5d5-ac45-a1e0-9935-3630fd033a7d
+ms.date: 06/08/2017
 ---
 
 

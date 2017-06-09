@@ -3,14 +3,15 @@ title: Operation not supported on replicable databases that have not been conver
 keywords: jeterr40.chm5003703
 f1_keywords:
 - jeterr40.chm5003703
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 523f0971-4182-9579-082f-90c87c8fa961
+ms.date: 06/08/2017
 ---
 
 
 # Operation not supported on replicable databases that have not been converted to the current version. (Error 3703)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

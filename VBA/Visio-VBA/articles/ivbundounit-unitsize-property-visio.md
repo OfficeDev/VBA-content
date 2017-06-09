@@ -3,10 +3,11 @@ title: IVBUndoUnit.UnitSize Property (Visio)
 keywords: vis_sdr.chm17360165
 f1_keywords:
 - vis_sdr.chm17360165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.IVBUndoUnit.UnitSize
 ms.assetid: 4e6fac31-60d2-e6d5-324d-c593b0456c95
+ms.date: 06/08/2017
 ---
 
 

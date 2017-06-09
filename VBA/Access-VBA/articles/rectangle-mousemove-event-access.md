@@ -3,10 +3,11 @@ title: Rectangle.MouseMove Event (Access)
 keywords: vbaac10.chm14164
 f1_keywords:
 - vbaac10.chm14164
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.MouseMove
 ms.assetid: 3d91c9c3-1425-0651-1960-19dcba47ea00
+ms.date: 06/08/2017
 ---
 
 

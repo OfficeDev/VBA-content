@@ -3,10 +3,11 @@ title: CubeField.ShowInFieldList Property (Excel)
 keywords: vbaxl10.chm668092
 f1_keywords:
 - vbaxl10.chm668092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.ShowInFieldList
 ms.assetid: 9a9163f3-b398-5059-9dce-b993413e850b
+ms.date: 06/08/2017
 ---
 
 

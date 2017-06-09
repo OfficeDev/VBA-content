@@ -3,8 +3,9 @@ title: The form class contained in the specified file is not supported in Visual
 keywords: vblr6.chm50053
 f1_keywords:
 - vblr6.chm50053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9b6dc45c-2076-3e78-4bec-e6d5b913d282
+ms.date: 06/08/2017
 ---
 
 

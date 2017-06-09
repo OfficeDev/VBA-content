@@ -3,10 +3,11 @@ title: AddressEntry.GetContact Method (Outlook)
 keywords: vbaol11.chm2055
 f1_keywords:
 - vbaol11.chm2055
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.GetContact
 ms.assetid: 2364f180-475d-aff1-01e8-30a54e870404
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Programmatically Change the Display Format for All Contacts
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3cf2408e-4d9d-4b41-5cd0-1f3c12784fd4
+ms.date: 06/08/2017
 ---
 
 

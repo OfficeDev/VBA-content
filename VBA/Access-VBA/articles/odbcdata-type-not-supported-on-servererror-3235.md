@@ -3,14 +3,15 @@ title: ODBC -- data type not supported on server. (Error 3235)
 keywords: jeterr40.chm5003235
 f1_keywords:
 - jeterr40.chm5003235
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8f72da76-4fd2-9fbb-baa3-d23e6edb50fb
+ms.date: 06/08/2017
 ---
 
 
 # ODBC -- data type not supported on server. (Error 3235)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

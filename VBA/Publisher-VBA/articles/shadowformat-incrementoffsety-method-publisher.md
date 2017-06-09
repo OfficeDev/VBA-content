@@ -3,10 +3,11 @@ title: ShadowFormat.IncrementOffsetY Method (Publisher)
 keywords: vbapb10.chm3670033
 f1_keywords:
 - vbapb10.chm3670033
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.IncrementOffsetY
 ms.assetid: fca7a688-adf8-d8cd-8e14-9d1988c8d9f2
+ms.date: 06/08/2017
 ---
 
 

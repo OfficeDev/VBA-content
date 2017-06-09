@@ -3,10 +3,11 @@ title: Application.InsertScheduledTask Method (Project)
 keywords: vbapj.chm2168
 f1_keywords:
 - vbapj.chm2168
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.InsertScheduledTask
 ms.assetid: 0bf89c86-6e0b-19fb-131c-70be563876bd
+ms.date: 06/08/2017
 ---
 
 

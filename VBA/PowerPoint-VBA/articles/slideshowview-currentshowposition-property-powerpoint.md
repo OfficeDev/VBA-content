@@ -3,10 +3,11 @@ title: SlideShowView.CurrentShowPosition Property (PowerPoint)
 keywords: vbapp10.chm513027
 f1_keywords:
 - vbapp10.chm513027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.CurrentShowPosition
 ms.assetid: 390eb2c3-059f-f7e9-e91a-0e8cf9a0ddff
+ms.date: 06/08/2017
 ---
 
 

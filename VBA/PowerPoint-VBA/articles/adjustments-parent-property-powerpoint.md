@@ -3,10 +3,11 @@ title: Adjustments.Parent Property (PowerPoint)
 keywords: vbapp10.chm550001
 f1_keywords:
 - vbapp10.chm550001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Parent
 ms.assetid: 3f626525-8554-e0f8-11da-5526fcb1a996
+ms.date: 06/08/2017
 ---
 
 

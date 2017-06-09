@@ -3,10 +3,11 @@ title: Chart.SetElement Method (PowerPoint)
 keywords: vbapp10.chm684044
 f1_keywords:
 - vbapp10.chm684044
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SetElement
 ms.assetid: c9f05df8-a85a-c401-c9bc-33f3a2cc4561
+ms.date: 06/08/2017
 ---
 
 

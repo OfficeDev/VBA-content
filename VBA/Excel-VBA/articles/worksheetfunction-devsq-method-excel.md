@@ -3,10 +3,11 @@ title: WorksheetFunction.DevSq Method (Excel)
 keywords: vbaxl10.chm137222
 f1_keywords:
 - vbaxl10.chm137222
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DevSq
 ms.assetid: 9f74f91c-f9c0-4ffb-1145-32f010bcc257
+ms.date: 06/08/2017
 ---
 
 

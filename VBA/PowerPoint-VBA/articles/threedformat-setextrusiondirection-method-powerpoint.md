@@ -3,10 +3,11 @@ title: ThreeDFormat.SetExtrusionDirection Method (PowerPoint)
 keywords: vbapp10.chm557006
 f1_keywords:
 - vbapp10.chm557006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 3ce76681-1a37-258b-594c-11d1d4f161c6
+ms.date: 06/08/2017
 ---
 
 

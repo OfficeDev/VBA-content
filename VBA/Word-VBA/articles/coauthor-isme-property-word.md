@@ -3,10 +3,11 @@ title: CoAuthor.IsMe Property (Word)
 keywords: vbawd10.chm81068035
 f1_keywords:
 - vbawd10.chm81068035
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthor.IsMe
 ms.assetid: bf6b8282-e114-8b6f-9e89-3bd93662d84e
+ms.date: 06/08/2017
 ---
 
 

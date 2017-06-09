@@ -3,10 +3,11 @@ title: Menus.Parent Property (Visio)
 keywords: vis_sdr.chm13214040
 f1_keywords:
 - vis_sdr.chm13214040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menus.Parent
 ms.assetid: 1dffd96d-d53c-874d-405b-c8f9de9ae459
+ms.date: 06/08/2017
 ---
 
 

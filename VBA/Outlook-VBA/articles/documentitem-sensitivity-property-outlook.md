@@ -3,10 +3,11 @@ title: DocumentItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm1204
 f1_keywords:
 - vbaol11.chm1204
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Sensitivity
 ms.assetid: db9b25ab-414f-daaf-d64f-47957e496f64
+ms.date: 06/08/2017
 ---
 
 

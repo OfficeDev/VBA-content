@@ -3,14 +3,15 @@ title: Counter definition not in valid range. (Error 3770)
 keywords: jeterr40.chm5003770
 f1_keywords:
 - jeterr40.chm5003770
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b92d0732-0e4f-b4dc-5be1-3546c3cfd1f4
+ms.date: 06/08/2017
 ---
 
 
 # Counter definition not in valid range. (Error 3770)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

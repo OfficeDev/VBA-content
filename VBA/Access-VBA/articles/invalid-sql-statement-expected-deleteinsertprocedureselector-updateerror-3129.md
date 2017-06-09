@@ -1,13 +1,14 @@
 ---
 title: Invalid SQL statement; expected 'DELETE', 'INSERT', 'PROCEDURE', 'SELECT', or 'UPDATE'. (Error 3129)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 440bd285-2508-15b9-8c63-8aad9c42928d
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL statement; expected 'DELETE', 'INSERT', 'PROCEDURE', 'SELECT', or 'UPDATE'. (Error 3129)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

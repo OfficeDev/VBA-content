@@ -3,10 +3,11 @@ title: WorksheetFunction.F_Test Method (Excel)
 keywords: vbaxl10.chm137362
 f1_keywords:
 - vbaxl10.chm137362
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Test
 ms.assetid: 193fefdf-28f9-6635-19ec-10c8f655eaf1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DocumentItem.Categories Property (Outlook)
 keywords: vbaol11.chm1187
 f1_keywords:
 - vbaol11.chm1187
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Categories
 ms.assetid: 2aa3df17-39f4-6e9c-a32d-5491d17dcb8e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Trendline.Order Property (PowerPoint)
 keywords: vbapp10.chm65728
 f1_keywords:
 - vbapp10.chm65728
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Order
 ms.assetid: c87e7b39-6fb0-a3c8-a949-0d38305622f7
+ms.date: 06/08/2017
 ---
 
 

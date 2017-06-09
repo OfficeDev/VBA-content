@@ -3,8 +3,9 @@ title: Top Property (VBA Add-In Object Model), Office Shared [vbob6.chm1070967]
 keywords: vbob6.chm1070967
 f1_keywords:
 - vbob6.chm1070967
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6bea5b42-ca93-4804-8b9d-f00895c61228
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShowNegativeBubbles Property
 keywords: vbagr10.chm67190
 f1_keywords:
 - vbagr10.chm67190
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShowNegativeBubbles
 ms.assetid: 1ef1b415-8e89-a57d-249c-db7e85086d4c
+ms.date: 06/08/2017
 ---
 
 

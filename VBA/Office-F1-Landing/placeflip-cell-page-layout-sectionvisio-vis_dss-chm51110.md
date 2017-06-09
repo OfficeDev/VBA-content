@@ -3,8 +3,9 @@ title: PlaceFlip Cell (Page Layout Section), Visio [Vis_DSS.chm51110]
 keywords: vis_dss.chm51110
 f1_keywords:
 - vis_dss.chm51110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d967b90c-375b-4aaa-a3b1-f676affa5224
+ms.date: 06/08/2017
 ---
 
 

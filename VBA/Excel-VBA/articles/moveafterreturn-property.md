@@ -3,10 +3,11 @@ title: MoveAfterReturn Property
 keywords: vbagr10.chm65910
 f1_keywords:
 - vbagr10.chm65910
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MoveAfterReturn
 ms.assetid: 82b4bce3-aed6-1b46-2c65-63dde6a30df1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.InvokeHelp Method (Visio)
 keywords: vis_sdr.chm17550695
 f1_keywords:
 - vis_sdr.chm17550695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.InvokeHelp
 ms.assetid: e3860d89-8d07-22d8-664b-b12becd39d98
+ms.date: 06/08/2017
 ---
 
 

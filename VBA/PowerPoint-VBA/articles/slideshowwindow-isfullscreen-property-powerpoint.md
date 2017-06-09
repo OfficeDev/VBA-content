@@ -3,10 +3,11 @@ title: SlideShowWindow.IsFullScreen Property (PowerPoint)
 keywords: vbapp10.chm507005
 f1_keywords:
 - vbapp10.chm507005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.IsFullScreen
 ms.assetid: 1ba5d587-8ea3-b243-efdb-83e47acfc894
+ms.date: 06/08/2017
 ---
 
 

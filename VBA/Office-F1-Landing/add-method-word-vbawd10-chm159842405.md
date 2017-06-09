@@ -3,8 +3,9 @@ title: Add Method, Word [vbawd10.chm159842405]
 keywords: vbawd10.chm159842405
 f1_keywords:
 - vbawd10.chm159842405
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2232a881-6bdd-4664-8020-da5f527e85f4
+ms.date: 06/08/2017
 ---
 
 

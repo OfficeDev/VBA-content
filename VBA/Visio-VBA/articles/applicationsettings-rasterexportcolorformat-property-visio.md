@@ -3,10 +3,11 @@ title: ApplicationSettings.RasterExportColorFormat Property (Visio)
 keywords: vis_sdr.chm16262535
 f1_keywords:
 - vis_sdr.chm16262535
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportColorFormat
 ms.assetid: 8306b2c1-d0a0-41ae-16de-0deb4d881604
+ms.date: 06/08/2017
 ---
 
 

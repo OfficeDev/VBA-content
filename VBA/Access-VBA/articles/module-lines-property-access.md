@@ -3,10 +3,11 @@ title: Module.Lines Property (Access)
 keywords: vbaac10.chm12275
 f1_keywords:
 - vbaac10.chm12275
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.Lines
 ms.assetid: a230ffef-6640-178f-b3a5-edd1e171a8f6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Borders.DistanceFrom Property (Word)
 keywords: vbawd10.chm154927133
 f1_keywords:
 - vbawd10.chm154927133
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.DistanceFrom
 ms.assetid: 316858c5-51b0-1cc0-407f-0bee7d48aaae
+ms.date: 06/08/2017
 ---
 
 

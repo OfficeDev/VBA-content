@@ -3,14 +3,15 @@ title: The object specified cannot be replicated because it is missing a necessa
 keywords: jeterr40.chm5003489
 f1_keywords:
 - jeterr40.chm5003489
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 349c99ba-c143-4e46-8e0d-6d759236f7a0
+ms.date: 06/08/2017
 ---
 
 
 # The object specified cannot be replicated because it is missing a necessary resource. (Error 3489)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

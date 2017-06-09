@@ -3,10 +3,11 @@ title: ParagraphFormat Object (Publisher)
 keywords: vbapb10.chm5505023
 f1_keywords:
 - vbapb10.chm5505023
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat
 ms.assetid: 0e5b1c20-564e-ef5c-f24d-1143dcaadcd8
+ms.date: 06/08/2017
 ---
 
 

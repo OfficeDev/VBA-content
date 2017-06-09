@@ -3,10 +3,11 @@ title: Project.VBProject Property (Project)
 keywords: vbapj.chm132787
 f1_keywords:
 - vbapj.chm132787
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.VBProject
 ms.assetid: d4d7c4d9-28a7-df4f-1bef-21afd41bee5d
+ms.date: 06/08/2017
 ---
 
 

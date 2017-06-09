@@ -3,10 +3,11 @@ title: ObjectFrame.Scaling Property (Access)
 keywords: vbaac10.chm11611
 f1_keywords:
 - vbaac10.chm11611
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Scaling
 ms.assetid: ec0ccdc1-edcd-14d1-05ca-2c3b2e200440
+ms.date: 06/08/2017
 ---
 
 

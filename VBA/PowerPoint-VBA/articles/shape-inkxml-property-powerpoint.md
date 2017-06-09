@@ -1,6 +1,8 @@
 ---
 title: Shape.InkXML Property (PowerPoint)
 ms.assetid: 01e01d61-89a3-1314-fda5-6354d6590aa5
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

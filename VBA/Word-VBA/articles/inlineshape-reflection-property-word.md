@@ -3,10 +3,11 @@ title: InlineShape.Reflection Property (Word)
 keywords: vbawd10.chm162005146
 f1_keywords:
 - vbawd10.chm162005146
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Reflection
 ms.assetid: 679cbd4e-2c66-7936-7dfd-29fe19fce12d
+ms.date: 06/08/2017
 ---
 
 

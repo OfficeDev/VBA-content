@@ -3,10 +3,11 @@ title: Application.LoadLastFile Property (Project)
 keywords: vbapj.chm132386
 f1_keywords:
 - vbapj.chm132386
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LoadLastFile
 ms.assetid: 2e76f572-d9ad-179a-b32b-b2708898023c
+ms.date: 06/08/2017
 ---
 
 

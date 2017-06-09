@@ -3,8 +3,9 @@ title: Duplicate Deftype statement, Office Shared [vblr6.chm1011130]
 keywords: vblr6.chm1011130
 f1_keywords:
 - vblr6.chm1011130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6b5e6056-e4c8-4e46-9867-f8c282473fd3
+ms.date: 06/08/2017
 ---
 
 

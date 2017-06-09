@@ -3,8 +3,9 @@ title: Menu Cell (Actions Section), Visio [Vis_DSS.chm82251334]
 keywords: vis_dss.chm82251334
 f1_keywords:
 - vis_dss.chm82251334
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bb9ec5d-5691-45e5-88b3-5185fc565bd3
+ms.date: 06/08/2017
 ---
 
 

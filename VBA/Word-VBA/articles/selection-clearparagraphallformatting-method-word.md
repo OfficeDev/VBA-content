@@ -3,10 +3,11 @@ title: Selection.ClearParagraphAllFormatting Method (Word)
 keywords: vbawd10.chm158663695
 f1_keywords:
 - vbawd10.chm158663695
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.ClearParagraphAllFormatting
 ms.assetid: b3a88322-933a-ff14-e788-e1934aba243d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Characters.Text Property (Visio)
 keywords: vis_sdr.chm10214515
 f1_keywords:
 - vis_sdr.chm10214515
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.Text
 ms.assetid: ebfa0548-4150-f6a6-8362-8bd3c2c36f93
+ms.date: 06/08/2017
 ---
 
 

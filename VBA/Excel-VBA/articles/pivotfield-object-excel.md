@@ -3,10 +3,11 @@ title: PivotField Object (Excel)
 keywords: vbaxl10.chm239072
 f1_keywords:
 - vbaxl10.chm239072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField
 ms.assetid: 52784960-e2da-b43a-1e37-2d4dae61c6d8
+ms.date: 06/08/2017
 ---
 
 

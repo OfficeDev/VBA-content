@@ -3,8 +3,9 @@ title: ArcTo Row (Geometry Section), Visio [Vis_DSS.chm3000]
 keywords: vis_dss.chm3000
 f1_keywords:
 - vis_dss.chm3000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 785cba39-f586-4585-9a18-4729e4711859
+ms.date: 06/08/2017
 ---
 
 

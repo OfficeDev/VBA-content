@@ -3,8 +3,9 @@ title: Variable uses a type not supported in Visual Basic (Error 458)
 keywords: vblr6.chm1000458
 f1_keywords:
 - vblr6.chm1000458
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 71aa0e9e-3482-7d60-2b35-08c583934270
+ms.date: 06/08/2017
 ---
 
 

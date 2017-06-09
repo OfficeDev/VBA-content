@@ -3,10 +3,11 @@ title: InlineShapes.AddHorizontalLine Method (Word)
 keywords: vbawd10.chm162070632
 f1_keywords:
 - vbawd10.chm162070632
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShapes.AddHorizontalLine
 ms.assetid: d35591f3-7a42-e4e1-0532-ef1b3b44803a
+ms.date: 06/08/2017
 ---
 
 

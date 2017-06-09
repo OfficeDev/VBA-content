@@ -3,10 +3,11 @@ title: Section.Headers Property (Word)
 keywords: vbawd10.chm156827769
 f1_keywords:
 - vbawd10.chm156827769
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section.Headers
 ms.assetid: 72b61449-2f93-a67a-2757-3c0441961307
+ms.date: 06/08/2017
 ---
 
 

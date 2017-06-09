@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.WindowActivated Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowActivated
 ms.assetid: 8ed197e5-945b-aab1-d90d-ed5c448937ce
+ms.date: 06/08/2017
 ---
 
 

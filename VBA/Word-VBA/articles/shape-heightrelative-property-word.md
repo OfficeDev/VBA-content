@@ -3,10 +3,11 @@ title: Shape.HeightRelative Property (Word)
 keywords: vbawd10.chm161480907
 f1_keywords:
 - vbawd10.chm161480907
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.HeightRelative
 ms.assetid: 24a52ebf-1071-a2e4-8222-9b17d295e653
+ms.date: 06/08/2017
 ---
 
 

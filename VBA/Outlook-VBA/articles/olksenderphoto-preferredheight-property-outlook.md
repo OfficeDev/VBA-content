@@ -3,10 +3,11 @@ title: OlkSenderPhoto.PreferredHeight Property (Outlook)
 keywords: vbaol11.chm1000482
 f1_keywords:
 - vbaol11.chm1000482
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.PreferredHeight
 ms.assetid: 174aea2a-f64a-1e49-eca9-f4af76f40722
+ms.date: 06/08/2017
 ---
 
 

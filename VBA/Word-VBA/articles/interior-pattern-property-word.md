@@ -3,10 +3,11 @@ title: Interior.Pattern Property (Word)
 keywords: vbawd10.chm2818054
 f1_keywords:
 - vbawd10.chm2818054
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Interior.Pattern
 ms.assetid: 5910e6a3-9aaa-7908-aa7d-345bdbabc4de
+ms.date: 06/08/2017
 ---
 
 

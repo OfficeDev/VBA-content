@@ -1,9 +1,10 @@
 ---
 title: Project.Name Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Name
 ms.assetid: 8f6fe6a7-c17d-afb5-58db-79791c9d87cf
+ms.date: 06/08/2017
 ---
 
 

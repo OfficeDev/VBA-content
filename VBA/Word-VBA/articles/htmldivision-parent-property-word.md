@@ -3,10 +3,11 @@ title: HTMLDivision.Parent Property (Word)
 keywords: vbawd10.chm166134762
 f1_keywords:
 - vbawd10.chm166134762
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.Parent
 ms.assetid: 45bbe9b8-e392-001b-b24c-932e44f56730
+ms.date: 06/08/2017
 ---
 
 

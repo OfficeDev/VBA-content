@@ -3,14 +3,15 @@ title: The field cannot be updated because another user or process has locked th
 keywords: jeterr40.chm5003164
 f1_keywords:
 - jeterr40.chm5003164
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d25708d9-d141-01a5-123c-6bd8da83da48
+ms.date: 06/08/2017
 ---
 
 
 # The field cannot be updated because another user or process has locked the corresponding record or table. (Error 3164)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

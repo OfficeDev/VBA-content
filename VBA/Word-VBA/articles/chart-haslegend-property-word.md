@@ -1,9 +1,10 @@
 ---
 title: Chart.HasLegend Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.HasLegend
 ms.assetid: 057fedc3-4f23-9c28-3196-836523d83656
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: VisLayoutVertAlignType Enumeration (Visio)
 keywords: vis_sdr.chm70635
 f1_keywords:
 - vis_sdr.chm70635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisLayoutVertAlignType
 ms.assetid: 6d70f4ef-6b95-6854-8a57-2a939f7f1438
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ApplyCustomType Method, Excel [vbagr10.chm3077605]
 keywords: vbagr10.chm3077605
 f1_keywords:
 - vbagr10.chm3077605
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 18560eeb-337d-4160-9e8d-446f7c0ed0dd
+ms.date: 06/08/2017
 ---
 
 

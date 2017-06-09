@@ -3,10 +3,11 @@ title: ChartGroup.SizeRepresents Property (Excel)
 keywords: vbaxl10.chm568094
 f1_keywords:
 - vbaxl10.chm568094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.SizeRepresents
 ms.assetid: db7811b5-6d65-d3e0-0c0b-83dcd3692cf1
+ms.date: 06/08/2017
 ---
 
 

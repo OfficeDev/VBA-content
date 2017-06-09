@@ -3,10 +3,11 @@ title: Application.Windows Property (Excel)
 keywords: vbaxl10.chm183114
 f1_keywords:
 - vbaxl10.chm183114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Windows
 ms.assetid: 07e54620-c2f5-2354-f313-9756a0f17425
+ms.date: 06/08/2017
 ---
 
 

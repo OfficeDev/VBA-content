@@ -3,10 +3,11 @@ title: CustomXMLNode.XPath Property (Office)
 keywords: vbaof11.chm294016
 f1_keywords:
 - vbaof11.chm294016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.XPath
 ms.assetid: 28159c24-79b2-a3ee-589e-de080dd67a82
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UserProperty Object (Outlook)
 keywords: vbaol11.chm212
 f1_keywords:
 - vbaol11.chm212
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperty
 ms.assetid: c94f642f-4368-d775-a79f-ce6c39bfe1fd
+ms.date: 06/08/2017
 ---
 
 

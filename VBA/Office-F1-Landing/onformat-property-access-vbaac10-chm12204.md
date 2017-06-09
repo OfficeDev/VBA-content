@@ -3,8 +3,9 @@ title: OnFormat Property, Access [vbaac10.chm12204]
 keywords: vbaac10.chm12204
 f1_keywords:
 - vbaac10.chm12204
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fd7cf606-8ba4-4d53-a0a2-cc19fa6cb7b6
+ms.date: 06/08/2017
 ---
 
 

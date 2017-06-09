@@ -3,10 +3,11 @@ title: ShapeRange.AutoShapeType Property (Word)
 keywords: vbawd10.chm162857061
 f1_keywords:
 - vbawd10.chm162857061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.AutoShapeType
 ms.assetid: 95b07065-c9a8-33b1-8ce4-60bb8bd3005a
+ms.date: 06/08/2017
 ---
 
 

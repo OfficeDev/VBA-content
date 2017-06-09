@@ -3,10 +3,11 @@ title: InvisibleApp.UnregisterRibbonX Method (Visio)
 keywords: vis_sdr.chm17562095
 f1_keywords:
 - vis_sdr.chm17562095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.UnregisterRibbonX
 ms.assetid: e32ca983-df29-0062-eb44-a5a54f334485
+ms.date: 06/08/2017
 ---
 
 

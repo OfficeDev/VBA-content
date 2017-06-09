@@ -1,9 +1,10 @@
 ---
 title: Assignment.Units Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Units
 ms.assetid: feab9879-5566-a7b6-061d-47e231ac64a1
+ms.date: 06/08/2017
 ---
 
 

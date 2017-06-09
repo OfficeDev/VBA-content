@@ -3,10 +3,11 @@ title: TaskRequestAcceptItem.Save Method (Outlook)
 keywords: vbaol11.chm1806
 f1_keywords:
 - vbaol11.chm1806
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Save
 ms.assetid: e5276106-8af8-74a7-08d7-e458c45f6a26
+ms.date: 06/08/2017
 ---
 
 

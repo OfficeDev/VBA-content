@@ -1,9 +1,10 @@
 ---
 title: PjBarShape Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjBarShape
 ms.assetid: 057356dc-9cab-fbdc-563e-f81cc54a2c33
+ms.date: 06/08/2017
 ---
 
 

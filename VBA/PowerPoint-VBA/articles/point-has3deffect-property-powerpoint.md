@@ -1,9 +1,10 @@
 ---
 title: Point.Has3DEffect Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Has3DEffect
 ms.assetid: 64ace672-05b5-504c-62dc-8dcaed2e2fd7
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: SharingItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Forward
 ms.assetid: b9f8cb45-e4e8-2eb5-c892-9d718bffae74
+ms.date: 06/08/2017
 ---
 
 

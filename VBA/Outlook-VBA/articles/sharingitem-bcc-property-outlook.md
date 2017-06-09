@@ -3,10 +3,11 @@ title: SharingItem.BCC Property (Outlook)
 keywords: vbaol11.chm633
 f1_keywords:
 - vbaol11.chm633
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BCC
 ms.assetid: e13c7fab-5ce6-289a-35d0-ffea5d0bd09e
+ms.date: 06/08/2017
 ---
 
 

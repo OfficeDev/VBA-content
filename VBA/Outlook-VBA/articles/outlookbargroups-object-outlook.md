@@ -3,10 +3,11 @@ title: OutlookBarGroups Object (Outlook)
 keywords: vbaol11.chm3002
 f1_keywords:
 - vbaol11.chm3002
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups
 ms.assetid: bb5fef46-b15a-51c3-0adf-f94e9da6c921
+ms.date: 06/08/2017
 ---
 
 

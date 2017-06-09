@@ -3,10 +3,11 @@ title: PostItem.TaskDueDate Property (Outlook)
 keywords: vbaol11.chm1572
 f1_keywords:
 - vbaol11.chm1572
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.TaskDueDate
 ms.assetid: e2cb6dc9-2696-0b99-1914-40bfbcc1cc8c
+ms.date: 06/08/2017
 ---
 
 

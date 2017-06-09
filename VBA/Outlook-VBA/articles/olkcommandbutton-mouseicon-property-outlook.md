@@ -3,10 +3,11 @@ title: OlkCommandButton.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000114
 f1_keywords:
 - vbaol11.chm1000114
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.MouseIcon
 ms.assetid: b0f0f620-89bb-7f2b-f370-37e75182056a
+ms.date: 06/08/2017
 ---
 
 

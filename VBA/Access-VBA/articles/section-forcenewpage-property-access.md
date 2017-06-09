@@ -3,10 +3,11 @@ title: Section.ForceNewPage Property (Access)
 keywords: vbaac10.chm12192
 f1_keywords:
 - vbaac10.chm12192
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.ForceNewPage
 ms.assetid: c523159f-f1f4-22b0-1aa3-05b7b213229a
+ms.date: 06/08/2017
 ---
 
 

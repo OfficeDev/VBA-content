@@ -3,10 +3,11 @@ title: CommandButton.PressedForeTint Property (Access)
 keywords: vbaac10.chm14625
 f1_keywords:
 - vbaac10.chm14625
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PressedForeTint
 ms.assetid: 3c5bce3c-e140-cd4c-ef69-7aee89b89998
+ms.date: 06/08/2017
 ---
 
 

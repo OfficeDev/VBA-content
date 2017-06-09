@@ -3,10 +3,11 @@ title: ShapeRange.ThreeD Property (Publisher)
 keywords: vbapb10.chm2293841
 f1_keywords:
 - vbapb10.chm2293841
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ThreeD
 ms.assetid: e5905f9d-dd84-b97e-ac5d-630f6c1208d7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot change password on a shared open database. (Error 3621)
 keywords: jeterr40.chm5003621
 f1_keywords:
 - jeterr40.chm5003621
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 751025dc-97ea-aaac-5661-3dccc3e85aa6
+ms.date: 06/08/2017
 ---
 
 
 # Cannot change password on a shared open database. (Error 3621)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

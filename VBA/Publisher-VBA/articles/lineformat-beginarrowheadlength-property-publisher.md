@@ -3,10 +3,11 @@ title: LineFormat.BeginArrowheadLength Property (Publisher)
 keywords: vbapb10.chm3408129
 f1_keywords:
 - vbapb10.chm3408129
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.BeginArrowheadLength
 ms.assetid: 87daaecf-3b2b-7f21-47fd-bdf192dcac60
+ms.date: 06/08/2017
 ---
 
 

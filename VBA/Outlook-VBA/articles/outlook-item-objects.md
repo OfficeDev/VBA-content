@@ -1,7 +1,8 @@
 ---
 title: Outlook Item Objects
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6ea4babf-facf-4018-ef5a-4a484e55153a
+ms.date: 06/08/2017
 ---
 
 

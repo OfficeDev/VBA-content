@@ -3,10 +3,11 @@ title: Application.References Property (Access)
 keywords: vbaac10.chm12564
 f1_keywords:
 - vbaac10.chm12564
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.References
 ms.assetid: da78f26f-1127-796d-bba1-f1c0d98a582e
+ms.date: 06/08/2017
 ---
 
 

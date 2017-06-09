@@ -3,10 +3,11 @@ title: Options.VisualSelection Property (Word)
 keywords: vbawd10.chm162988436
 f1_keywords:
 - vbawd10.chm162988436
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.VisualSelection
 ms.assetid: d3947a4c-0495-6211-7646-3b202855d35a
+ms.date: 06/08/2017
 ---
 
 

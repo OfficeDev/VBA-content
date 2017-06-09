@@ -3,10 +3,11 @@ title: Document.FullName Property (Visio)
 keywords: vis_sdr.chm10513595
 f1_keywords:
 - vis_sdr.chm10513595
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.FullName
 ms.assetid: 9f6d15ab-9913-57f4-a0ee-57618d5b1b0f
+ms.date: 06/08/2017
 ---
 
 

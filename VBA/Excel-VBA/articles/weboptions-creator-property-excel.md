@@ -3,10 +3,11 @@ title: WebOptions.Creator Property (Excel)
 keywords: vbaxl10.chm661074
 f1_keywords:
 - vbaxl10.chm661074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.Creator
 ms.assetid: 506df7ba-2e4f-69af-793c-96c5f2aa2f1c
+ms.date: 06/08/2017
 ---
 
 

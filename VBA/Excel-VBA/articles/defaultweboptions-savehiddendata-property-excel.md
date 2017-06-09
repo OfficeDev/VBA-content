@@ -3,10 +3,11 @@ title: DefaultWebOptions.SaveHiddenData Property (Excel)
 keywords: vbaxl10.chm660074
 f1_keywords:
 - vbaxl10.chm660074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.SaveHiddenData
 ms.assetid: b1c09c39-3510-263c-3403-6e48d125279d
+ms.date: 06/08/2017
 ---
 
 

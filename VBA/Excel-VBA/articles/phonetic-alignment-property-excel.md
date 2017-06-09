@@ -3,10 +3,11 @@ title: Phonetic.Alignment Property (Excel)
 keywords: vbaxl10.chm628075
 f1_keywords:
 - vbaxl10.chm628075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetic.Alignment
 ms.assetid: 728075ec-889a-4d76-c4e0-508dd10c8fe9
+ms.date: 06/08/2017
 ---
 
 

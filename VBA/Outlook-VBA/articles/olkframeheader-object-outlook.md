@@ -3,10 +3,11 @@ title: OlkFrameHeader Object (Outlook)
 keywords: vbaol11.chm1000476
 f1_keywords:
 - vbaol11.chm1000476
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader
 ms.assetid: 088dd9e4-7210-6465-e337-51cb1bd10172
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ThemeFont Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29f19d99-b33b-4f31-0a37-7665d7ef828b
+ms.date: 06/08/2017
 ---
 
 

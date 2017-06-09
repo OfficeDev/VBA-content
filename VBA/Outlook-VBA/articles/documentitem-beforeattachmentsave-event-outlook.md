@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeAttachmentSave
 ms.assetid: 554f3e7d-9757-c044-2cfd-56614be6b27b
+ms.date: 06/08/2017
 ---
 
 

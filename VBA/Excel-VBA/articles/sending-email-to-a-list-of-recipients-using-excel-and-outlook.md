@@ -1,7 +1,8 @@
 ---
 title: Sending Email to a List of Recipients Using Excel and Outlook
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 207b0384-30f0-412a-8d2b-c1740fb61420
+ms.date: 06/08/2017
 ---
 
 

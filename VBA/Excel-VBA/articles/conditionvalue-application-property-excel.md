@@ -3,10 +3,11 @@ title: ConditionValue.Application Property (Excel)
 keywords: vbaxl10.chm803073
 f1_keywords:
 - vbaxl10.chm803073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConditionValue.Application
 ms.assetid: 061e369f-0fb3-54e0-b495-50baf928b18c
+ms.date: 06/08/2017
 ---
 
 

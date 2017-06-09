@@ -3,8 +3,9 @@ title: AfterCubeBuilt Event, Project [vbapj.chm131128]
 keywords: vbapj.chm131128
 f1_keywords:
 - vbapj.chm131128
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 611ec52c-67b2-4eca-bd95-b0211521f061
+ms.date: 06/08/2017
 ---
 
 

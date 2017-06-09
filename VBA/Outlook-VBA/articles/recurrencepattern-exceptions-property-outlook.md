@@ -3,10 +3,11 @@ title: RecurrencePattern.Exceptions Property (Outlook)
 keywords: vbaol11.chm277
 f1_keywords:
 - vbaol11.chm277
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Exceptions
 ms.assetid: e068565b-5418-897a-9f06-92e87a532144
+ms.date: 06/08/2017
 ---
 
 

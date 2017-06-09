@@ -3,10 +3,11 @@ title: TextBox.OnKeyDown Property (Access)
 keywords: vbaac10.chm11127
 f1_keywords:
 - vbaac10.chm11127
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnKeyDown
 ms.assetid: 472e4b96-a6b1-6473-ed56-64af3522281f
+ms.date: 06/08/2017
 ---
 
 

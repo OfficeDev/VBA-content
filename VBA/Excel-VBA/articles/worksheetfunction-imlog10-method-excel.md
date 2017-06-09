@@ -3,10 +3,11 @@ title: WorksheetFunction.ImLog10 Method (Excel)
 keywords: vbaxl10.chm137280
 f1_keywords:
 - vbaxl10.chm137280
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImLog10
 ms.assetid: 6c391f4f-9f5c-1323-250e-2da9e055259e
+ms.date: 06/08/2017
 ---
 
 

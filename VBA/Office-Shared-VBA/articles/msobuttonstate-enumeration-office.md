@@ -1,9 +1,10 @@
 ---
 title: MsoButtonState Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoButtonState
 ms.assetid: d16e17ef-5314-9c25-19aa-da856c2ac175
+ms.date: 06/08/2017
 ---
 
 

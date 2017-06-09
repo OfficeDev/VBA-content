@@ -3,10 +3,11 @@ title: ListEntries.Clear Method (Word)
 keywords: vbawd10.chm153354342
 f1_keywords:
 - vbawd10.chm153354342
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntries.Clear
 ms.assetid: 3761ca87-db01-3b84-f1c8-01cc902af5b8
+ms.date: 06/08/2017
 ---
 
 

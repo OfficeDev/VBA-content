@@ -3,10 +3,11 @@ title: Chart.ShowDataLabelsOverMaximum Property (Excel)
 keywords: vbaxl10.chm149176
 f1_keywords:
 - vbaxl10.chm149176
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 1638b7f6-23e5-2fc1-e81b-5b8f54023967
+ms.date: 06/08/2017
 ---
 
 

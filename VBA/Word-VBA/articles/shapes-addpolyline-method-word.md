@@ -3,10 +3,11 @@ title: Shapes.AddPolyline Method (Word)
 keywords: vbawd10.chm161415184
 f1_keywords:
 - vbawd10.chm161415184
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddPolyline
 ms.assetid: a9e25bec-095d-e088-246a-34b813ab0328
+ms.date: 06/08/2017
 ---
 
 

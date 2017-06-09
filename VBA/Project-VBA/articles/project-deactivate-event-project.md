@@ -3,10 +3,11 @@ title: Project.Deactivate Event (Project)
 keywords: vbapj.chm131189
 f1_keywords:
 - vbapj.chm131189
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Deactivate
 ms.assetid: ce4301e5-8881-1280-fafb-a87c37d088dd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Windows.Parent Property (Excel)
 keywords: vbaxl10.chm353075
 f1_keywords:
 - vbaxl10.chm353075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.Parent
 ms.assetid: 822dff90-df85-195c-52dc-55f01c51e5ae
+ms.date: 06/08/2017
 ---
 
 

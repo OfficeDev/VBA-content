@@ -1,9 +1,10 @@
 ---
 title: WdListNumberStyle Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdListNumberStyle
 ms.assetid: bb3db85b-0910-2b90-037b-a7fc4b705a80
+ms.date: 06/08/2017
 ---
 
 

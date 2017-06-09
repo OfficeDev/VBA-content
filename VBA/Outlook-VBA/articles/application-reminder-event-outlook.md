@@ -3,10 +3,11 @@ title: Application.Reminder Event (Outlook)
 keywords: vbaol11.chm431
 f1_keywords:
 - vbaol11.chm431
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.Reminder
 ms.assetid: f8c9fa87-3daa-58e1-7b8d-3c819cd4cab2
+ms.date: 06/08/2017
 ---
 
 

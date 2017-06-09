@@ -3,10 +3,11 @@ title: LayoutGuides.VerticalBaseLineOffset Property (Publisher)
 keywords: vbapb10.chm1114133
 f1_keywords:
 - vbapb10.chm1114133
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.VerticalBaseLineOffset
 ms.assetid: 9a2f031c-4469-ca26-3e79-dfa556762e05
+ms.date: 06/08/2017
 ---
 
 

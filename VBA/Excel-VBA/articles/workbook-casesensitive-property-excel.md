@@ -3,8 +3,9 @@ title: Workbook.CaseSensitive Property (Excel)
 keywords: vbaxl10.chm199272
 f1_keywords:
 - vbaxl10.chm199272
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 6053b576-9ede-f9d8-e2bf-c012653b60a2
+ms.date: 06/08/2017
 ---
 
 

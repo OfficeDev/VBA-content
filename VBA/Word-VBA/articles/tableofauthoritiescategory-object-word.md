@@ -3,10 +3,11 @@ title: TableOfAuthoritiesCategory Object (Word)
 keywords: vbawd10.chm2423
 f1_keywords:
 - vbawd10.chm2423
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthoritiesCategory
 ms.assetid: ce481ec8-5d5f-fcb8-1d04-5b796accdd3b
+ms.date: 06/08/2017
 ---
 
 

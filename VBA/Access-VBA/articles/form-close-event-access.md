@@ -3,10 +3,11 @@ title: Form.Close Event (Access)
 keywords: vbaac10.chm13645
 f1_keywords:
 - vbaac10.chm13645
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Close
 ms.assetid: e65fe7e0-efc1-dabc-4b2c-787af465ade0
+ms.date: 06/08/2017
 ---
 
 

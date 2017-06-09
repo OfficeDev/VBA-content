@@ -3,10 +3,11 @@ title: Selection.ExtendMode Property (Word)
 keywords: vbawd10.chm158663062
 f1_keywords:
 - vbawd10.chm158663062
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.ExtendMode
 ms.assetid: 7b12cf8b-9be1-6ebc-de96-e7734eaad3b6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Sheets.Move Method (Excel)
 keywords: vbaxl10.chm152079
 f1_keywords:
 - vbaxl10.chm152079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.Move
 ms.assetid: 8cfb8888-b676-15ba-47eb-9d3d4dae5416
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Module.DeleteLines Method (Access)
 keywords: vbaac10.chm12278
 f1_keywords:
 - vbaac10.chm12278
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.DeleteLines
 ms.assetid: 57f65c6c-4d9c-3abd-065b-b75d1ada06cb
+ms.date: 06/08/2017
 ---
 
 

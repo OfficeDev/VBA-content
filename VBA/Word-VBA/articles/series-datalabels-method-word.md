@@ -3,10 +3,11 @@ title: Series.DataLabels Method (Word)
 keywords: vbawd10.chm123732125
 f1_keywords:
 - vbawd10.chm123732125
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.DataLabels
 ms.assetid: 6dc09ab8-efa4-a5cb-2372-989bf6e3769c
+ms.date: 06/08/2017
 ---
 
 

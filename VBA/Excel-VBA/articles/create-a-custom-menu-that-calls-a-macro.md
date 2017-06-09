@@ -1,7 +1,8 @@
 ---
 title: Create a Custom Menu That Calls a Macro
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 925976ab-e2ef-4b71-aa06-62fe6ac8a4c3
+ms.date: 06/08/2017
 ---
 
 

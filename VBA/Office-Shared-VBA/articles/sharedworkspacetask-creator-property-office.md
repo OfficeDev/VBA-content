@@ -1,9 +1,10 @@
 ---
 title: SharedWorkspaceTask.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Creator
 ms.assetid: 414bba79-c72b-04f6-9784-3fb959b593e1
+ms.date: 06/08/2017
 ---
 
 

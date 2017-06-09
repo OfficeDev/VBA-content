@@ -3,10 +3,11 @@ title: UniqueValues.Borders Property (Excel)
 keywords: vbaxl10.chm826078
 f1_keywords:
 - vbaxl10.chm826078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.Borders
 ms.assetid: 9ebd8e96-d1a3-e69e-ff00-0f6c3dc1c943
+ms.date: 06/08/2017
 ---
 
 

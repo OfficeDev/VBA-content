@@ -1,9 +1,10 @@
 ---
 title: Application.ProjectBeforeAssignmentChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentChange
 ms.assetid: 9d94303c-f8f6-1681-0829-23f240afc570
+ms.date: 06/08/2017
 ---
 
 

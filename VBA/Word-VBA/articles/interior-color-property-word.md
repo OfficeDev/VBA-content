@@ -3,10 +3,11 @@ title: Interior.Color Property (Word)
 keywords: vbawd10.chm2818048
 f1_keywords:
 - vbawd10.chm2818048
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Interior.Color
 ms.assetid: fd52393e-3ac4-6fe0-94ca-86d78bd83207
+ms.date: 06/08/2017
 ---
 
 

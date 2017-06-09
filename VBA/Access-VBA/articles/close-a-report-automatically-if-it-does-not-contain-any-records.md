@@ -1,7 +1,8 @@
 ---
 title: Close a Report Automatically If It Does Not Contain Any Records
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9b160bd3-6eca-f907-ae5b-4327c3c1618e
+ms.date: 06/08/2017
 ---
 
 

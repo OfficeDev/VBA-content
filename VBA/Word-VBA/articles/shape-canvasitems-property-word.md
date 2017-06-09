@@ -3,10 +3,11 @@ title: Shape.CanvasItems Property (Word)
 keywords: vbawd10.chm161480842
 f1_keywords:
 - vbawd10.chm161480842
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.CanvasItems
 ms.assetid: 2dfe33c7-1487-6074-9135-2d3220e11691
+ms.date: 06/08/2017
 ---
 
 

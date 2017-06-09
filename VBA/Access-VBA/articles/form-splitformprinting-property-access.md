@@ -3,10 +3,11 @@ title: Form.SplitFormPrinting Property (Access)
 keywords: vbaac10.chm13566
 f1_keywords:
 - vbaac10.chm13566
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SplitFormPrinting
 ms.assetid: 0542af4f-c778-9038-0058-74aa187d0fc7
+ms.date: 06/08/2017
 ---
 
 

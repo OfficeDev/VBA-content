@@ -3,8 +3,9 @@ title: HelpContextId Property, Access [vbaac10.chm11094]
 keywords: vbaac10.chm11094
 f1_keywords:
 - vbaac10.chm11094
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc5fb73c-9718-4891-8656-6276c787fa53
+ms.date: 06/08/2017
 ---
 
 

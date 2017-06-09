@@ -1,9 +1,10 @@
 ---
 title: Task.Finish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Finish
 ms.assetid: 5b964456-8b64-5455-3651-393c70e75277
+ms.date: 06/08/2017
 ---
 
 

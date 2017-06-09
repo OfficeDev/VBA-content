@@ -3,10 +3,11 @@ title: SharingItem.RemoteID Property (Outlook)
 keywords: vbaol11.chm695
 f1_keywords:
 - vbaol11.chm695
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RemoteID
 ms.assetid: 07b0ba28-f560-7cee-bfc9-38fa073d8669
+ms.date: 06/08/2017
 ---
 
 

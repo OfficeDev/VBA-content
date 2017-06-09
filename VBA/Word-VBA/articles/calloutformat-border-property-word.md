@@ -3,10 +3,11 @@ title: CalloutFormat.Border Property (Word)
 keywords: vbawd10.chm163905640
 f1_keywords:
 - vbawd10.chm163905640
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.Border
 ms.assetid: 4928f59e-1a09-32b9-0e73-ac7f9fbbb047
+ms.date: 06/08/2017
 ---
 
 

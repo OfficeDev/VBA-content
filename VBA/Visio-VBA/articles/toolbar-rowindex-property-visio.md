@@ -3,10 +3,11 @@ title: Toolbar.RowIndex Property (Visio)
 keywords: vis_sdr.chm13714255
 f1_keywords:
 - vis_sdr.chm13714255
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbar.RowIndex
 ms.assetid: f55616ce-73a0-332b-ece0-f9f83ef43547
+ms.date: 06/08/2017
 ---
 
 

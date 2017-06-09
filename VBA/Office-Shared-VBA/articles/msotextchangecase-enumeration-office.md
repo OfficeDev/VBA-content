@@ -1,9 +1,10 @@
 ---
 title: MsoTextChangeCase Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextChangeCase
 ms.assetid: e54a2184-0a51-fb2a-e3ec-b43f6dc05d04
+ms.date: 06/08/2017
 ---
 
 

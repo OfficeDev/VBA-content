@@ -3,8 +3,9 @@ title: CountOfVisibleLines Property (VBA Add-In Object Model), Office Shared [vb
 keywords: vbob6.chm104037
 f1_keywords:
 - vbob6.chm104037
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64b4979b-6a21-4c27-bd9c-dce4e7c76594
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Sentences.Last Property (Word)
 keywords: vbawd10.chm156958724
 f1_keywords:
 - vbawd10.chm156958724
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sentences.Last
 ms.assetid: b116502a-ee26-934b-aa19-c589aafd90a0
+ms.date: 06/08/2017
 ---
 
 

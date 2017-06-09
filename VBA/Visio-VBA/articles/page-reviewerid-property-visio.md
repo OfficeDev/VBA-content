@@ -3,10 +3,11 @@ title: Page.ReviewerID Property (Visio)
 keywords: vis_sdr.chm10951670
 f1_keywords:
 - vis_sdr.chm10951670
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ReviewerID
 ms.assetid: f3de7746-f1f7-4a94-6fcb-e3c2775ed748
+ms.date: 06/08/2017
 ---
 
 

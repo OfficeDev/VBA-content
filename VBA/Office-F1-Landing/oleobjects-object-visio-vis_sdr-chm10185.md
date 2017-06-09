@@ -3,8 +3,9 @@ title: OLEObjects Object, Visio [vis_sdr.chm10185]
 keywords: vis_sdr.chm10185
 f1_keywords:
 - vis_sdr.chm10185
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d6b18670-3333-4409-a5e7-e7ee793f0848
+ms.date: 06/08/2017
 ---
 
 

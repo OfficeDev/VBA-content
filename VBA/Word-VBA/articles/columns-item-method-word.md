@@ -3,10 +3,11 @@ title: Columns.Item Method (Word)
 keywords: vbawd10.chm155910144
 f1_keywords:
 - vbawd10.chm155910144
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Columns.Item
 ms.assetid: 5b69414c-b283-6f17-957b-269d1ec249e3
+ms.date: 06/08/2017
 ---
 
 

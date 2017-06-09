@@ -3,10 +3,11 @@ title: CalendarSharing.Parent Property (Outlook)
 keywords: vbaol11.chm2410
 f1_keywords:
 - vbaol11.chm2410
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.Parent
 ms.assetid: fdf9e33e-1045-73cf-738a-cef000cabc68
+ms.date: 06/08/2017
 ---
 
 

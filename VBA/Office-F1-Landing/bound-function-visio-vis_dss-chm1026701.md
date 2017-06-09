@@ -3,8 +3,9 @@ title: BOUND Function, Visio [Vis_DSS.chm1026701]
 keywords: vis_dss.chm1026701
 f1_keywords:
 - vis_dss.chm1026701
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6391b35c-312f-4e05-b727-2db7318ef583
+ms.date: 06/08/2017
 ---
 
 

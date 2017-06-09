@@ -3,8 +3,9 @@ title: Type Property, Project [vbapj.chm132767]
 keywords: vbapj.chm132767
 f1_keywords:
 - vbapj.chm132767
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c51874f-513e-4695-8b59-8e7575d51ce6
+ms.date: 06/08/2017
 ---
 
 

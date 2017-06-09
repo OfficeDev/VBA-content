@@ -3,10 +3,11 @@ title: Range.Precedents Property (Excel)
 keywords: vbaxl10.chm144178
 f1_keywords:
 - vbaxl10.chm144178
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Precedents
 ms.assetid: 3c00cfb4-1c12-668d-a952-89f9b1ef129f
+ms.date: 06/08/2017
 ---
 
 

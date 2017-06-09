@@ -3,8 +3,9 @@ title: InStr Function, Office Shared [vblr6.chm1011069]
 keywords: vblr6.chm1011069
 f1_keywords:
 - vblr6.chm1011069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 330ed21e-eebd-45a5-b142-32a2188a09b3
+ms.date: 06/08/2017
 ---
 
 

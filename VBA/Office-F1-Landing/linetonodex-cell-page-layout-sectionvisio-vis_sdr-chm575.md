@@ -3,8 +3,9 @@ title: LineToNodeX Cell (Page Layout Section), Visio [vis_sdr.chm575]
 keywords: vis_sdr.chm575
 f1_keywords:
 - vis_sdr.chm575
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6dc5481b-d5b2-418e-aa7a-59ba3fb7f64b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Workbooks.OpenText Method (Excel)
 keywords: vbaxl10.chm203083
 f1_keywords:
 - vbaxl10.chm203083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbooks.OpenText
 ms.assetid: a0771773-d0e2-13a0-e62b-51143e3f6bb1
+ms.date: 06/08/2017
 ---
 
 

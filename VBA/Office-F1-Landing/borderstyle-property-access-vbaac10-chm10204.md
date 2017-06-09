@@ -3,8 +3,9 @@ title: BorderStyle Property, Access [vbaac10.chm10204]
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5956be5a-56a2-4f8c-9105-de4c48ef4206
+ms.date: 06/08/2017
 ---
 
 

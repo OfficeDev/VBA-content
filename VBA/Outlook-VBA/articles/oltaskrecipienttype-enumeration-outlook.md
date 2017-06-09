@@ -3,10 +3,11 @@ title: OlTaskRecipientType Enumeration (Outlook)
 keywords: vbaol11.chm3085
 f1_keywords:
 - vbaol11.chm3085
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlTaskRecipientType
 ms.assetid: 8f1678ba-f11a-1e70-816f-57b8a348a190
+ms.date: 06/08/2017
 ---
 
 

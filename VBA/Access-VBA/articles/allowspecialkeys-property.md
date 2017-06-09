@@ -3,16 +3,17 @@ title: AllowSpecialKeys Property
 keywords: vbaac10.chm4266
 f1_keywords:
 - vbaac10.chm4266
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllowSpecialKeys
 ms.assetid: 5628e6b6-f253-a435-5bce-58b6727382cc
+ms.date: 06/08/2017
 ---
 
 
 # AllowSpecialKeys Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

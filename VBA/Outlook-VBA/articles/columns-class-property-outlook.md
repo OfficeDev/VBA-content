@@ -3,10 +3,11 @@ title: Columns.Class Property (Outlook)
 keywords: vbaol11.chm2736
 f1_keywords:
 - vbaol11.chm2736
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Columns.Class
 ms.assetid: bfd3cf90-dac2-dbfb-da61-0ab0b92c9082
+ms.date: 06/08/2017
 ---
 
 

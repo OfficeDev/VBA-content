@@ -3,10 +3,11 @@ title: Application.WarnOnFunctionNameConflict Property (Excel)
 keywords: vbaxl10.chm133305
 f1_keywords:
 - vbaxl10.chm133305
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WarnOnFunctionNameConflict
 ms.assetid: c29a9dbc-cd1f-18cc-2d44-ec639b0e67fa
+ms.date: 06/08/2017
 ---
 
 

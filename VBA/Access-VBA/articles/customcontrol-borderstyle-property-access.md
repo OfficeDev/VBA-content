@@ -3,10 +3,11 @@ title: CustomControl.BorderStyle Property (Access)
 keywords: vbaac10.chm12025
 f1_keywords:
 - vbaac10.chm12025
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.BorderStyle
 ms.assetid: f0cb73d3-1841-031c-5a5f-0e08d90774ee
+ms.date: 06/08/2017
 ---
 
 

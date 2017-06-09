@@ -1,9 +1,10 @@
 ---
 title: MsoEncoding Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoEncoding
 ms.assetid: 286bed6e-6028-a252-5e4f-b505234d9d34
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FillFormat.Solid Method (PowerPoint)
 keywords: vbapp10.chm552007
 f1_keywords:
 - vbapp10.chm552007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Solid
 ms.assetid: 0d3302de-2b8b-2a05-697d-0010882588e5
+ms.date: 06/08/2017
 ---
 
 

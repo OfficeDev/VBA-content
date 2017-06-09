@@ -3,10 +3,11 @@ title: Row.ContainingMasterID Property (Visio)
 keywords: vis_sdr.chm15851700
 f1_keywords:
 - vis_sdr.chm15851700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.ContainingMasterID
 ms.assetid: 12832d29-2eaf-ce37-fb30-ce2de24b140c
+ms.date: 06/08/2017
 ---
 
 

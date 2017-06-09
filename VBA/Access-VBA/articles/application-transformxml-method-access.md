@@ -3,10 +3,11 @@ title: Application.TransformXML Method (Access)
 keywords: vbaac10.chm12606
 f1_keywords:
 - vbaac10.chm12606
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.TransformXML
 ms.assetid: 03b483ad-9785-be26-4632-411d8fc8a19d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Style.IncludeBorder Property (Excel)
 keywords: vbaxl10.chm177081
 f1_keywords:
 - vbaxl10.chm177081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.IncludeBorder
 ms.assetid: 81b44216-e8fa-88fe-e82c-7fd8844d33ea
+ms.date: 06/08/2017
 ---
 
 

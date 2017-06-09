@@ -3,10 +3,11 @@ title: MeetingItem.RetentionPolicyName Property (Outlook)
 keywords: vbaol11.chm3561
 f1_keywords:
 - vbaol11.chm3561
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.RetentionPolicyName
 ms.assetid: a17f0781-f290-a2f8-10a9-af75b51e9a1f
+ms.date: 06/08/2017
 ---
 
 

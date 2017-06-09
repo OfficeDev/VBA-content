@@ -3,10 +3,11 @@ title: Characters.RunBegin Property (Visio)
 keywords: vis_sdr.chm10214275
 f1_keywords:
 - vis_sdr.chm10214275
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.RunBegin
 ms.assetid: 6397f797-c481-e2f0-ec38-61a799762552
+ms.date: 06/08/2017
 ---
 
 

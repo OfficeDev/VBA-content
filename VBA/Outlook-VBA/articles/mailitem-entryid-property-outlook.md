@@ -3,10 +3,11 @@ title: MailItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1303
 f1_keywords:
 - vbaol11.chm1303
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.EntryID
 ms.assetid: 72ce9938-53fa-ad7c-c69d-453ff348a0e0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TickLabels.Creator Property (Word)
 keywords: vbawd10.chm167051413
 f1_keywords:
 - vbawd10.chm167051413
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.Creator
 ms.assetid: 854570ae-1e01-7b32-8c2d-8643c8912b82
+ms.date: 06/08/2017
 ---
 
 

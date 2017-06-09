@@ -3,10 +3,11 @@ title: Phonetics.Add Method (Excel)
 keywords: vbaxl10.chm658082
 f1_keywords:
 - vbaxl10.chm658082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetics.Add
 ms.assetid: 2a60a1cd-e15e-1341-2de8-953aa999ac07
+ms.date: 06/08/2017
 ---
 
 

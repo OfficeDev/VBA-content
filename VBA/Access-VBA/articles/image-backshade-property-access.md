@@ -3,10 +3,11 @@ title: Image.BackShade Property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.BackShade
 ms.assetid: 899c5320-a2ef-7861-2905-fc08f5b7a1fb
+ms.date: 06/08/2017
 ---
 
 

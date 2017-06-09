@@ -3,10 +3,11 @@ title: Range.Delete Method (Excel)
 keywords: vbaxl10.chm144115
 f1_keywords:
 - vbaxl10.chm144115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Delete
 ms.assetid: 7d890cc5-5b5b-35f9-2d97-e4fe48f244ee
+ms.date: 06/08/2017
 ---
 
 

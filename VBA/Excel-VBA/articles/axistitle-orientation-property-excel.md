@@ -3,10 +3,11 @@ title: AxisTitle.Orientation Property (Excel)
 keywords: vbaxl10.chm565083
 f1_keywords:
 - vbaxl10.chm565083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Orientation
 ms.assetid: f1bb3b1f-d0ae-4cd2-d406-75690cb43714
+ms.date: 06/08/2017
 ---
 
 

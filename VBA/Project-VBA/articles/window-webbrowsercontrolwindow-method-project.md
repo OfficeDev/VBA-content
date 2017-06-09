@@ -3,10 +3,11 @@ title: Window.WebBrowserControlWindow Method (Project)
 keywords: vbapj.chm131101
 f1_keywords:
 - vbapj.chm131101
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Window.WebBrowserControlWindow
 ms.assetid: 30750469-9687-3cb1-e47a-10e6d128463c
+ms.date: 06/08/2017
 ---
 
 

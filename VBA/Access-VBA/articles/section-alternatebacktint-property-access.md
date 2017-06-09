@@ -3,10 +3,11 @@ title: Section.AlternateBackTint Property (Access)
 keywords: vbaac10.chm14608
 f1_keywords:
 - vbaac10.chm14608
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.AlternateBackTint
 ms.assetid: 7758713d-cfba-ac57-91c7-fcdab26ae44a
+ms.date: 06/08/2017
 ---
 
 

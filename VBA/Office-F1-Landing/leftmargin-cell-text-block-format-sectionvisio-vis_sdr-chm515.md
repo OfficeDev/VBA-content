@@ -3,8 +3,9 @@ title: LeftMargin Cell (Text Block Format Section), Visio [vis_sdr.chm515]
 keywords: vis_sdr.chm515
 f1_keywords:
 - vis_sdr.chm515
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2cbb65c8-a48a-4cd7-ad43-2e1e386c4152
+ms.date: 06/08/2017
 ---
 
 

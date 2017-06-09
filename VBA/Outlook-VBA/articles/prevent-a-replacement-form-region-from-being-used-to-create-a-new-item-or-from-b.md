@@ -1,7 +1,8 @@
 ---
 title: Prevent a Replacement Form Region from Being Used to Create a New Item or from Being Modified in the Forms Designer
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: af7ea177-329f-1e96-287a-392a4780ff2a
+ms.date: 06/08/2017
 ---
 
 

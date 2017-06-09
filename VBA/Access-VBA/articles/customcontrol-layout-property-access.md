@@ -3,10 +3,11 @@ title: CustomControl.Layout Property (Access)
 keywords: vbaac10.chm10523
 f1_keywords:
 - vbaac10.chm10523
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Layout
 ms.assetid: 5954580e-18f6-87c0-107b-902065cebc90
+ms.date: 06/08/2017
 ---
 
 

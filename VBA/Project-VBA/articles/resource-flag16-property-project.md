@@ -1,9 +1,10 @@
 ---
 title: Resource.Flag16 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Flag16
 ms.assetid: 5fa75173-8038-35be-ef8d-3f96e5ba377f
+ms.date: 06/08/2017
 ---
 
 

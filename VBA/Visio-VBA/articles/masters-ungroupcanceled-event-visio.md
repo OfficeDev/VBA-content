@@ -3,10 +3,11 @@ title: Masters.UngroupCanceled Event (Visio)
 keywords: vis_sdr.chm10819375
 f1_keywords:
 - vis_sdr.chm10819375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.UngroupCanceled
 ms.assetid: d443f6e0-0bd9-bd55-15bf-f34e17b22ad5
+ms.date: 06/08/2017
 ---
 
 

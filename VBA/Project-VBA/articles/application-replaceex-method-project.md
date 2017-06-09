@@ -3,10 +3,11 @@ title: Application.ReplaceEx Method (Project)
 keywords: vbapj.chm98
 f1_keywords:
 - vbapj.chm98
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ReplaceEx
 ms.assetid: af284688-0701-abc7-4d04-b258957fa9dc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PlaySettings.PlayOnEntry Property (PowerPoint)
 keywords: vbapp10.chm568006
 f1_keywords:
 - vbapp10.chm568006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.PlayOnEntry
 ms.assetid: 63a226b9-b0f2-b739-ced2-f4e57a91b5f5
+ms.date: 06/08/2017
 ---
 
 

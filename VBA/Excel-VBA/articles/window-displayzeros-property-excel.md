@@ -3,10 +3,11 @@ title: Window.DisplayZeros Property (Excel)
 keywords: vbaxl10.chm356090
 f1_keywords:
 - vbaxl10.chm356090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.DisplayZeros
 ms.assetid: cddb671b-5b7f-c2a8-1527-bfe0bfdced78
+ms.date: 06/08/2017
 ---
 
 

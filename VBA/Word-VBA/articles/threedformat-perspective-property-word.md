@@ -3,10 +3,11 @@ title: ThreeDFormat.Perspective Property (Word)
 keywords: vbawd10.chm164626535
 f1_keywords:
 - vbawd10.chm164626535
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Perspective
 ms.assetid: 89d627c6-43d8-35d3-ad01-e6fc7f3e5142
+ms.date: 06/08/2017
 ---
 
 

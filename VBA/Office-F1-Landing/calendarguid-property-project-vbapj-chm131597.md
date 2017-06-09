@@ -3,8 +3,9 @@ title: CalendarGuid Property, Project [vbapj.chm131597]
 keywords: vbapj.chm131597
 f1_keywords:
 - vbapj.chm131597
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79357176-febb-4613-bdd5-110c437bf861
+ms.date: 06/08/2017
 ---
 
 

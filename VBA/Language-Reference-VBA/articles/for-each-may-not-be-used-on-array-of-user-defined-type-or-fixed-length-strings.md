@@ -3,8 +3,9 @@ title: For Each may not be used on array of user-defined type or fixed-length st
 keywords: vblr6.chm1040138
 f1_keywords:
 - vblr6.chm1040138
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 37976c99-e8a7-250b-5b63-5d0fd204d576
+ms.date: 06/08/2017
 ---
 
 

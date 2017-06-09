@@ -3,10 +3,11 @@ title: ApplicationSettings.RasterExportQuality Property (Visio)
 keywords: vis_sdr.chm16262570
 f1_keywords:
 - vis_sdr.chm16262570
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportQuality
 ms.assetid: 6864bbfd-bb2d-721f-4146-f66974318929
+ms.date: 06/08/2017
 ---
 
 

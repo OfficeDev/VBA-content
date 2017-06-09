@@ -3,10 +3,11 @@ title: Master.Application Property (PowerPoint)
 keywords: vbapp10.chm533001
 f1_keywords:
 - vbapp10.chm533001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Application
 ms.assetid: ebe53ffb-cc21-fbf3-f39c-41b2d69cbf63
+ms.date: 06/08/2017
 ---
 
 

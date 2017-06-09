@@ -3,8 +3,9 @@ title: ModelTable.ModelTableColumns Property (Excel)
 keywords: vbaxl10.chm934075
 f1_keywords:
 - vbaxl10.chm934075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 964b8967-8270-830c-bf69-c6ef1078fbbb
+ms.date: 06/08/2017
 ---
 
 

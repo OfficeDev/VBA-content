@@ -3,14 +3,15 @@ title: The relationship <name> in the partial filter expression is invalid. (Err
 keywords: jeterr40.chm5003480
 f1_keywords:
 - jeterr40.chm5003480
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 001dbe23-0785-3a63-08d6-6015711fc172
+ms.date: 06/08/2017
 ---
 
 
 # The relationship <name> in the partial filter expression is invalid. (Error 3480)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

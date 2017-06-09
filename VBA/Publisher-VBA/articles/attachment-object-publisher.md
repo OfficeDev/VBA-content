@@ -3,10 +3,11 @@ title: Attachment Object (Publisher)
 keywords: vbapb10.chm9240575
 f1_keywords:
 - vbapb10.chm9240575
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Attachment
 ms.assetid: d617bdf6-b0ba-be0d-0f72-f729010636c1
+ms.date: 06/08/2017
 ---
 
 

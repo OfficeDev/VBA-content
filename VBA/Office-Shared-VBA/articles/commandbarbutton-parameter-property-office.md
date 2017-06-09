@@ -1,9 +1,10 @@
 ---
 title: CommandBarButton.Parameter Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Parameter
 ms.assetid: 582718f1-8274-9862-c9a8-86bcd1c528b7
+ms.date: 06/08/2017
 ---
 
 

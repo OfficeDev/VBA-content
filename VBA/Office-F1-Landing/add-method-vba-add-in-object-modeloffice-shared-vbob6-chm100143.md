@@ -3,8 +3,9 @@ title: Add Method (VBA Add-In Object Model), Office Shared [vbob6.chm100143]
 keywords: vbob6.chm100143
 f1_keywords:
 - vbob6.chm100143
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30d2c2a3-e6b0-4cda-ae95-96221f50f23f
+ms.date: 06/08/2017
 ---
 
 

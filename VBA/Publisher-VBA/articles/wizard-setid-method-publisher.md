@@ -3,10 +3,11 @@ title: Wizard.SetId Method (Publisher)
 keywords: vbapb10.chm1441798
 f1_keywords:
 - vbapb10.chm1441798
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Wizard.SetId
 ms.assetid: d2278716-514b-0858-d68e-868d0daf86b0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailItem.Copy Method (Outlook)
 keywords: vbaol11.chm1321
 f1_keywords:
 - vbaol11.chm1321
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Copy
 ms.assetid: a9356844-e31e-eb0f-c0f5-a2923ad127db
+ms.date: 06/08/2017
 ---
 
 

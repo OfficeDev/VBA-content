@@ -3,8 +3,9 @@ title: Connects Object, Visio [vis_sdr.chm10070]
 keywords: vis_sdr.chm10070
 f1_keywords:
 - vis_sdr.chm10070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e73d1f61-23c2-410e-bad2-f91d6b0a4d40
+ms.date: 06/08/2017
 ---
 
 

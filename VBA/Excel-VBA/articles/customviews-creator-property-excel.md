@@ -3,10 +3,11 @@ title: CustomViews.Creator Property (Excel)
 keywords: vbaxl10.chm505074
 f1_keywords:
 - vbaxl10.chm505074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomViews.Creator
 ms.assetid: c0d96d50-e126-09cc-3660-e2f0dc1fb566
+ms.date: 06/08/2017
 ---
 
 

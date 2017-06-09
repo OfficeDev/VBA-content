@@ -3,10 +3,11 @@ title: SharedWorkspaceTask.DueDate Property (Office)
 keywords: vbaof11.chm264006
 f1_keywords:
 - vbaof11.chm264006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.DueDate
 ms.assetid: 86ef146e-7528-9dfb-646f-8412abade012
+ms.date: 06/08/2017
 ---
 
 

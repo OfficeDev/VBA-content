@@ -3,10 +3,11 @@ title: ErrorCheckingOptions.Creator Property (Excel)
 keywords: vbaxl10.chm697074
 f1_keywords:
 - vbaxl10.chm697074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.Creator
 ms.assetid: cd236dd2-b53d-ac3e-2010-0ae845c9361e
+ms.date: 06/08/2017
 ---
 
 

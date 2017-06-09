@@ -3,10 +3,11 @@ title: TextRange.InsertSlideNumber Method (PowerPoint)
 keywords: vbapp10.chm569021
 f1_keywords:
 - vbapp10.chm569021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.InsertSlideNumber
 ms.assetid: 07489db8-9db1-9721-845a-7895ad316aca
+ms.date: 06/08/2017
 ---
 
 

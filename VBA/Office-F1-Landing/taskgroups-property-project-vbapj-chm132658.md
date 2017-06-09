@@ -3,8 +3,9 @@ title: TaskGroups Property, Project [vbapj.chm132658]
 keywords: vbapj.chm132658
 f1_keywords:
 - vbapj.chm132658
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 15e360f1-f028-49f1-821f-19eaa50ba91d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: DefaultAutoFilter Property, Project [vbapj.chm131724]
 keywords: vbapj.chm131724
 f1_keywords:
 - vbapj.chm131724
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4bf60671-f3e7-4af4-af63-d4b1d875612e
+ms.date: 06/08/2017
 ---
 
 

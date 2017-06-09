@@ -3,8 +3,9 @@ title: CreateModelWorkbookConnection Method, Excel [vbaxl10.chm942077]
 keywords: vbaxl10.chm942077
 f1_keywords:
 - vbaxl10.chm942077
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b6cf123a-a7f5-40f1-8a30-d0ad1f4df00b
+ms.date: 06/08/2017
 ---
 
 

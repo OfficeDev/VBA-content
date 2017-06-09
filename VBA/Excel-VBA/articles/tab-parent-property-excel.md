@@ -3,10 +3,11 @@ title: Tab.Parent Property (Excel)
 keywords: vbaxl10.chm722075
 f1_keywords:
 - vbaxl10.chm722075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Tab.Parent
 ms.assetid: ccd66a14-c182-9314-5507-7a5ea790eb1c
+ms.date: 06/08/2017
 ---
 
 

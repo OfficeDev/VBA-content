@@ -3,10 +3,11 @@ title: Style.Name Property (Visio)
 keywords: vis_sdr.chm11413930
 f1_keywords:
 - vis_sdr.chm11413930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.Name
 ms.assetid: 276c29ae-eda0-176b-91ce-b2a830f76c68
+ms.date: 06/08/2017
 ---
 
 

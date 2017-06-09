@@ -3,10 +3,11 @@ title: LegendKey.PictureUnit2 Property (Excel)
 keywords: vbaxl10.chm590095
 f1_keywords:
 - vbaxl10.chm590095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.PictureUnit2
 ms.assetid: 4e620e99-a5c9-5ab0-305a-7ae8ddb1caab
+ms.date: 06/08/2017
 ---
 
 

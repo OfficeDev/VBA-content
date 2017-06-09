@@ -1,9 +1,10 @@
 ---
 title: XlSparklineRowCol Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSparklineRowCol
 ms.assetid: 1b978b0d-c2a9-3367-cdef-429f79d84882
+ms.date: 06/08/2017
 ---
 
 

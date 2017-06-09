@@ -3,14 +3,15 @@ title: Cannot create a relationship between a field and itself. (Error 3206)
 keywords: jeterr40.chm5003206
 f1_keywords:
 - jeterr40.chm5003206
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 57003c49-d65c-fee8-1744-1689881b8f5a
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create a relationship between a field and itself. (Error 3206)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

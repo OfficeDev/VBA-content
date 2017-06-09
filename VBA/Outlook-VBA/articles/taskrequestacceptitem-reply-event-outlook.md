@@ -1,9 +1,10 @@
 ---
 title: TaskRequestAcceptItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Reply
 ms.assetid: f06a8e69-b674-7b70-e7a4-7f234ebb5b1d
+ms.date: 06/08/2017
 ---
 
 

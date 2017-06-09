@@ -3,8 +3,9 @@ title: Visual Basic Constants
 keywords: vblr6.chm1011027
 f1_keywords:
 - vblr6.chm1011027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2383287e-352f-00c7-e820-2a2cfec3a72a
+ms.date: 06/08/2017
 ---
 
 

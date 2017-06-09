@@ -3,10 +3,11 @@ title: MailMessage.Application Property (Word)
 keywords: vbawd10.chm163185640
 f1_keywords:
 - vbawd10.chm163185640
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.Application
 ms.assetid: 43c11760-41e9-e05f-2ff1-29f6b8bee0f0
+ms.date: 06/08/2017
 ---
 
 

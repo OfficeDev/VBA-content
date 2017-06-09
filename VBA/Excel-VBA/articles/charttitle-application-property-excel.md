@@ -3,10 +3,11 @@ title: ChartTitle.Application Property (Excel)
 keywords: vbaxl10.chm562073
 f1_keywords:
 - vbaxl10.chm562073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Application
 ms.assetid: ad885eca-db85-6341-62ca-f2541340fb2d
+ms.date: 06/08/2017
 ---
 
 

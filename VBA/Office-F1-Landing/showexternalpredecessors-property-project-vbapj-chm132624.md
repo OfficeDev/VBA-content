@@ -3,8 +3,9 @@ title: ShowExternalPredecessors Property, Project [vbapj.chm132624]
 keywords: vbapj.chm132624
 f1_keywords:
 - vbapj.chm132624
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5877cdd2-6368-4e08-9c2f-96086d2a05ab
+ms.date: 06/08/2017
 ---
 
 

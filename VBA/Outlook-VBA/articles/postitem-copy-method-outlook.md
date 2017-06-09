@@ -3,10 +3,11 @@ title: PostItem.Copy Method (Outlook)
 keywords: vbaol11.chm1540
 f1_keywords:
 - vbaol11.chm1540
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Copy
 ms.assetid: 322c9312-512b-eae3-2e6a-950254efdfc1
+ms.date: 06/08/2017
 ---
 
 

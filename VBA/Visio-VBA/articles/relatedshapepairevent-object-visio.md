@@ -3,10 +3,11 @@ title: RelatedShapePairEvent Object (Visio)
 keywords: vis_sdr.chm61045
 f1_keywords:
 - vis_sdr.chm61045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RelatedShapePairEvent
 ms.assetid: 8a59ae03-ed45-21e3-73ad-8fdbe4c53299
+ms.date: 06/08/2017
 ---
 
 

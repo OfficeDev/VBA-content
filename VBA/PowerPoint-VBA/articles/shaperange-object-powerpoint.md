@@ -3,10 +3,11 @@ title: ShapeRange Object (PowerPoint)
 keywords: vbapp10.chm548000
 f1_keywords:
 - vbapp10.chm548000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange
 ms.assetid: 0a194183-380e-ffb6-9336-b5bd311e917d
+ms.date: 06/08/2017
 ---
 
 

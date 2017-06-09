@@ -3,10 +3,11 @@ title: CalloutFormat.Angle Property (PowerPoint)
 keywords: vbapp10.chm559007
 f1_keywords:
 - vbapp10.chm559007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Angle
 ms.assetid: 75ce8b84-f7f5-a15a-291b-3f9713bddce7
+ms.date: 06/08/2017
 ---
 
 

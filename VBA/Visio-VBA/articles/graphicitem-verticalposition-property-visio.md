@@ -3,10 +3,11 @@ title: GraphicItem.VerticalPosition Property (Visio)
 keywords: vis_sdr.chm16960445
 f1_keywords:
 - vis_sdr.chm16960445
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.VerticalPosition
 ms.assetid: a756df97-851d-c6cf-b68f-b84e07da8628
+ms.date: 06/08/2017
 ---
 
 

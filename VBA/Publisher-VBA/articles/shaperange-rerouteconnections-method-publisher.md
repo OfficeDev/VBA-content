@@ -3,10 +3,11 @@ title: ShapeRange.RerouteConnections Method (Publisher)
 keywords: vbapb10.chm2293796
 f1_keywords:
 - vbapb10.chm2293796
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.RerouteConnections
 ms.assetid: ae2a64ea-1b7a-4ff6-304c-680dd96fd386
+ms.date: 06/08/2017
 ---
 
 

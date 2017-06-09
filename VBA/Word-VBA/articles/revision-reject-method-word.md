@@ -3,10 +3,11 @@ title: Revision.Reject Method (Word)
 keywords: vbawd10.chm159449190
 f1_keywords:
 - vbawd10.chm159449190
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.Reject
 ms.assetid: e97603c6-2310-ad82-7145-66a640a05c04
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ToggleButton.ColumnOrder Property (Access)
 keywords: vbaac10.chm11734
 f1_keywords:
 - vbaac10.chm11734
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ColumnOrder
 ms.assetid: f9344297-d639-208c-db4e-4ceac2fd56ad
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationButton.ForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.ForeThemeColorIndex
 ms.assetid: f0d04d84-338a-c45e-6f26-debc1a402796
+ms.date: 06/08/2017
 ---
 
 

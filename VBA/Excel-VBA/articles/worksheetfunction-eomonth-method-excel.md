@@ -3,10 +3,11 @@ title: WorksheetFunction.EoMonth Method (Excel)
 keywords: vbaxl10.chm137326
 f1_keywords:
 - vbaxl10.chm137326
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.EoMonth
 ms.assetid: 46ffb33b-2992-88d4-59ed-5c0660fbbf5d
+ms.date: 06/08/2017
 ---
 
 

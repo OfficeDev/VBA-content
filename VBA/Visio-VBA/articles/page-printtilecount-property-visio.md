@@ -3,10 +3,11 @@ title: Page.PrintTileCount Property (Visio)
 keywords: vis_sdr.chm10950800
 f1_keywords:
 - vis_sdr.chm10950800
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.PrintTileCount
 ms.assetid: f15eff27-1d20-7151-e773-1ab4de4161db
+ms.date: 06/08/2017
 ---
 
 

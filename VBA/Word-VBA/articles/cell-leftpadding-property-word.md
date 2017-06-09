@@ -3,10 +3,11 @@ title: Cell.LeftPadding Property (Word)
 keywords: vbawd10.chm156106865
 f1_keywords:
 - vbawd10.chm156106865
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.LeftPadding
 ms.assetid: b80dba74-7f12-0258-de03-e9941b6b1f4c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ExchangeUser.GetMemberOfList Method (Outlook)
 keywords: vbaol11.chm2084
 f1_keywords:
 - vbaol11.chm2084
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetMemberOfList
 ms.assetid: 1f4e8910-8998-85ab-05dc-d06f6fd323c3
+ms.date: 06/08/2017
 ---
 
 

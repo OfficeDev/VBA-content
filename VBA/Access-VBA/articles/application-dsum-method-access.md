@@ -3,10 +3,11 @@ title: Application.DSum Method (Access)
 keywords: vbaac10.chm12527
 f1_keywords:
 - vbaac10.chm12527
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DSum
 ms.assetid: 53a3cfd4-a5e3-d0c5-1727-070c99d2b984
+ms.date: 06/08/2017
 ---
 
 

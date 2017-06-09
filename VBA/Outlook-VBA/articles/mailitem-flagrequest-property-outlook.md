@@ -3,10 +3,11 @@ title: MailItem.FlagRequest Property (Outlook)
 keywords: vbaol11.chm1336
 f1_keywords:
 - vbaol11.chm1336
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.FlagRequest
 ms.assetid: 13c04300-ec2a-4ee5-d7b1-eff9f61b71c4
+ms.date: 06/08/2017
 ---
 
 

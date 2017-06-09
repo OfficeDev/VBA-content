@@ -3,14 +3,15 @@ title: Requested row locking, but DB is in page lock mode. (Error 3751)
 keywords: jeterr40.chm5003751
 f1_keywords:
 - jeterr40.chm5003751
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 89d91b67-27af-c911-2af4-417d89fbd66c
+ms.date: 06/08/2017
 ---
 
 
 # Requested row locking, but DB is in page lock mode. (Error 3751)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

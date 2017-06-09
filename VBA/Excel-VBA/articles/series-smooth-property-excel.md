@@ -3,10 +3,11 @@ title: Series.Smooth Property (Excel)
 keywords: vbaxl10.chm578106
 f1_keywords:
 - vbaxl10.chm578106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Smooth
 ms.assetid: 24cb3fc6-a6ed-71ca-1aab-c1ea23480d00
+ms.date: 06/08/2017
 ---
 
 

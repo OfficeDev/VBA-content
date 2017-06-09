@@ -3,10 +3,11 @@ title: ParagraphFormat.RightIndent Property (Publisher)
 keywords: vbapb10.chm5439495
 f1_keywords:
 - vbapb10.chm5439495
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.RightIndent
 ms.assetid: bc3102d3-afc5-3f19-b98a-7f816e374d1a
+ms.date: 06/08/2017
 ---
 
 

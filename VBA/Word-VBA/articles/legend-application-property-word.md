@@ -3,10 +3,11 @@ title: Legend.Application Property (Word)
 keywords: vbawd10.chm147194004
 f1_keywords:
 - vbawd10.chm147194004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend.Application
 ms.assetid: 146098ae-7602-462c-2403-cadb2917f852
+ms.date: 06/08/2017
 ---
 
 

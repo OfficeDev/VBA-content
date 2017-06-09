@@ -3,10 +3,11 @@ title: InvisibleApp.RenameCurrentScope Method (Visio)
 keywords: vis_sdr.chm17550815
 f1_keywords:
 - vis_sdr.chm17550815
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.RenameCurrentScope
 ms.assetid: f057117c-5565-60a8-2c19-d30f6c6b5c28
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Automatically Dismiss a Message Box
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: e4a38fbe-6bed-45dd-98cd-d10376f84322
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ControlFormat.RemoveItem Method (Excel)
 keywords: vbaxl10.chm630075
 f1_keywords:
 - vbaxl10.chm630075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.RemoveItem
 ms.assetid: 351c2333-9e8c-90a6-90a9-839f43184bb8
+ms.date: 06/08/2017
 ---
 
 

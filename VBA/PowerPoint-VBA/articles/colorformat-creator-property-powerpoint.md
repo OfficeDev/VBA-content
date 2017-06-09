@@ -1,9 +1,10 @@
 ---
 title: ColorFormat.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Creator
 ms.assetid: 403c2188-999b-07e8-ff60-16147dd9cb55
+ms.date: 06/08/2017
 ---
 
 

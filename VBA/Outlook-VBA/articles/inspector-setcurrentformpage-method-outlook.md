@@ -3,10 +3,11 @@ title: Inspector.SetCurrentFormPage Method (Outlook)
 keywords: vbaol11.chm2969
 f1_keywords:
 - vbaol11.chm2969
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.SetCurrentFormPage
 ms.assetid: a0e11ca9-d5be-cec9-ad78-bfbaec1b92d6
+ms.date: 06/08/2017
 ---
 
 

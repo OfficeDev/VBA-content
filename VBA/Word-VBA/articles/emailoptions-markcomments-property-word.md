@@ -3,10 +3,11 @@ title: EmailOptions.MarkComments Property (Word)
 keywords: vbawd10.chm165347435
 f1_keywords:
 - vbawd10.chm165347435
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.MarkComments
 ms.assetid: 792e77b2-ba00-2b2b-c81b-7d00dad702cd
+ms.date: 06/08/2017
 ---
 
 

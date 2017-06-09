@@ -3,10 +3,11 @@ title: Global.LinesToPoints Method (Word)
 keywords: vbawd10.chm163119478
 f1_keywords:
 - vbawd10.chm163119478
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.LinesToPoints
 ms.assetid: 3acbbbef-0aec-d6aa-138f-cdd1e79e7dc6
+ms.date: 06/08/2017
 ---
 
 

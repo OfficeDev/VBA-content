@@ -1,9 +1,10 @@
 ---
 title: Series.ChartType Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ChartType
 ms.assetid: 2ee70821-c909-bd90-a07f-7520be7b3117
+ms.date: 06/08/2017
 ---
 
 

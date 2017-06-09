@@ -3,8 +3,9 @@ title: Expression too complex (Error 16)
 keywords: vblr6.chm1076493
 f1_keywords:
 - vblr6.chm1076493
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 718b5c52-5844-fa60-4490-6db2529dcc4e
+ms.date: 06/08/2017
 ---
 
 

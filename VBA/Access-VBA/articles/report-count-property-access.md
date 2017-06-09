@@ -3,10 +3,11 @@ title: Report.Count Property (Access)
 keywords: vbaac10.chm13720
 f1_keywords:
 - vbaac10.chm13720
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Count
 ms.assetid: 72848003-cdf4-586b-c059-6c821104fbda
+ms.date: 06/08/2017
 ---
 
 

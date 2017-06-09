@@ -3,8 +3,9 @@ title: ModelColumnName.ColumnName Property (Excel)
 keywords: vbaxl10.chm962074
 f1_keywords:
 - vbaxl10.chm962074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 17dfdc8a-10a2-cccd-547e-57d9da23af4e
+ms.date: 06/08/2017
 ---
 
 

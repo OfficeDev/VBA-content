@@ -3,10 +3,11 @@ title: Page.Duplicate Method (Publisher)
 keywords: vbapb10.chm393256
 f1_keywords:
 - vbapb10.chm393256
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Duplicate
 ms.assetid: 9ef9d493-d2ca-8cac-3cce-6f0878acb288
+ms.date: 06/08/2017
 ---
 
 

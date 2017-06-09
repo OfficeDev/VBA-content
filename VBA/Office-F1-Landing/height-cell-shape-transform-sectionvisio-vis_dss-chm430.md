@@ -3,8 +3,9 @@ title: Height Cell (Shape Transform Section), Visio [Vis_DSS.chm430]
 keywords: vis_dss.chm430
 f1_keywords:
 - vis_dss.chm430
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1628177f-deda-4621-99cc-bd83ad89cbbb
+ms.date: 06/08/2017
 ---
 
 

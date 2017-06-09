@@ -3,10 +3,11 @@ title: QueryTable.Connection Property (Excel)
 keywords: vbaxl10.chm518087
 f1_keywords:
 - vbaxl10.chm518087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Connection
 ms.assetid: a576c5d2-113c-cbd0-1ad2-aa46591944de
+ms.date: 06/08/2017
 ---
 
 

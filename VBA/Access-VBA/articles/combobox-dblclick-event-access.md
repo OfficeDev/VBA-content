@@ -3,10 +3,11 @@ title: ComboBox.DblClick Event (Access)
 keywords: vbaac10.chm14220
 f1_keywords:
 - vbaac10.chm14220
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.DblClick
 ms.assetid: 76f71a30-6e66-1677-4d09-24c2a420d404
+ms.date: 06/08/2017
 ---
 
 

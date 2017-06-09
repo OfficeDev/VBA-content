@@ -3,10 +3,11 @@ title: Font.Kerning Property (Word)
 keywords: vbawd10.chm156369045
 f1_keywords:
 - vbawd10.chm156369045
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Kerning
 ms.assetid: 1fddf3d7-6750-dcac-2da6-f9da795a8d64
+ms.date: 06/08/2017
 ---
 
 

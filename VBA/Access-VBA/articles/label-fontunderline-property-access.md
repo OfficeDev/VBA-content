@@ -3,10 +3,11 @@ title: Label.FontUnderline Property (Access)
 keywords: vbaac10.chm10214
 f1_keywords:
 - vbaac10.chm10214
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.FontUnderline
 ms.assetid: 0d087af3-06a3-7404-cc02-8d4bc8965c6d
+ms.date: 06/08/2017
 ---
 
 

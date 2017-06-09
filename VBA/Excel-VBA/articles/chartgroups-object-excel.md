@@ -3,10 +3,11 @@ title: ChartGroups Object (Excel)
 keywords: vbaxl10.chm569072
 f1_keywords:
 - vbaxl10.chm569072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroups
 ms.assetid: 991147bc-bbb5-9f7d-a7c9-55854aa50325
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Max, Min, MaxLength Properties Example
 keywords: fm20.chm5225135
 f1_keywords:
 - fm20.chm5225135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17886973-605e-3fc6-5df4-677355932c14
+ms.date: 06/08/2017
 ---
 
 

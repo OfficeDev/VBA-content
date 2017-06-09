@@ -3,10 +3,11 @@ title: Document.VBProjectData Property (Visio)
 keywords: vis_sdr.chm10550925
 f1_keywords:
 - vis_sdr.chm10550925
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.VBProjectData
 ms.assetid: dca456ea-dc82-0092-35d1-68b95d51e0b2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PictureFormat.CropTop Property (Excel)
 keywords: vbaxl10.chm113008
 f1_keywords:
 - vbaxl10.chm113008
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.CropTop
 ms.assetid: adde9cc2-ca09-8494-d250-92a36dfa51e0
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: BulletFormat2.Type Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BulletFormat2.Type
 ms.assetid: 994b3307-70bc-90d1-2028-db30df8e7c63
+ms.date: 06/08/2017
 ---
 
 

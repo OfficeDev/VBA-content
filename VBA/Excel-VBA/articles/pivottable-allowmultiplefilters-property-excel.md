@@ -3,10 +3,11 @@ title: PivotTable.AllowMultipleFilters Property (Excel)
 keywords: vbaxl10.chm235178
 f1_keywords:
 - vbaxl10.chm235178
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AllowMultipleFilters
 ms.assetid: e6e39932-9d20-d34b-a2b1-6b34e4bfb270
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Worksheet.BeforeRightClick Event (Excel)
 keywords: vbaxl10.chm502075
 f1_keywords:
 - vbaxl10.chm502075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.BeforeRightClick
 ms.assetid: 0263dd09-1648-d3c4-007e-15ef7b82092a
+ms.date: 06/08/2017
 ---
 
 

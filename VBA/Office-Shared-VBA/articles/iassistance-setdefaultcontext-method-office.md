@@ -1,9 +1,10 @@
 ---
 title: IAssistance.SetDefaultContext Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IAssistance.SetDefaultContext
 ms.assetid: 3eea8f7a-12a3-aca4-f963-28c5c4e63c96
+ms.date: 06/08/2017
 ---
 
 

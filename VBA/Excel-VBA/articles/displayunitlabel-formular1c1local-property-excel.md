@@ -3,10 +3,11 @@ title: DisplayUnitLabel.FormulaR1C1Local Property (Excel)
 keywords: vbaxl10.chm673098
 f1_keywords:
 - vbaxl10.chm673098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.FormulaR1C1Local
 ms.assetid: a779e576-529f-27f1-7115-4d637c2ef7ab
+ms.date: 06/08/2017
 ---
 
 

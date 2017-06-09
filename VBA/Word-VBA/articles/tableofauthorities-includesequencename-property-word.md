@@ -3,10 +3,11 @@ title: TableOfAuthorities.IncludeSequenceName Property (Word)
 keywords: vbawd10.chm152109062
 f1_keywords:
 - vbawd10.chm152109062
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.IncludeSequenceName
 ms.assetid: 15f3801c-4d79-c01f-4a67-5b09e1f14577
+ms.date: 06/08/2017
 ---
 
 

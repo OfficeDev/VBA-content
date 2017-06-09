@@ -3,10 +3,11 @@ title: Application.SelectCellDown Method (Project)
 keywords: vbapj.chm2050
 f1_keywords:
 - vbapj.chm2050
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectCellDown
 ms.assetid: 78754f19-651b-d614-fa69-5fccd6b3387c
+ms.date: 06/08/2017
 ---
 
 

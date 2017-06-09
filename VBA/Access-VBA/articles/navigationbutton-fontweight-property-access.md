@@ -3,10 +3,11 @@ title: NavigationButton.FontWeight Property (Access)
 keywords: vbaac10.chm10474
 f1_keywords:
 - vbaac10.chm10474
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.FontWeight
 ms.assetid: 23b07172-e1da-bd97-0515-a6c52da4636a
+ms.date: 06/08/2017
 ---
 
 

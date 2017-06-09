@@ -3,10 +3,11 @@ title: ScopeFolder Object (Office)
 keywords: vbaof11.chm259000
 f1_keywords:
 - vbaof11.chm259000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ScopeFolder
 ms.assetid: fe46c1ad-fd60-a698-23dd-04d0631ac403
+ms.date: 06/08/2017
 ---
 
 

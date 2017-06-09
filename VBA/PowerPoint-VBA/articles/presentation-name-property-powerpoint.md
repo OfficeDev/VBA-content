@@ -3,10 +3,11 @@ title: Presentation.Name Property (PowerPoint)
 keywords: vbapp10.chm583025
 f1_keywords:
 - vbapp10.chm583025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Name
 ms.assetid: a93a6d21-e3e7-0d7d-ae73-34f9511445de
+ms.date: 06/08/2017
 ---
 
 

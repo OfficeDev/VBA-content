@@ -3,10 +3,11 @@ title: Range.DialogBox Method (Excel)
 keywords: vbaxl10.chm144117
 f1_keywords:
 - vbaxl10.chm144117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.DialogBox
 ms.assetid: d2d4a677-bd6a-910d-ff53-f95585f40925
+ms.date: 06/08/2017
 ---
 
 

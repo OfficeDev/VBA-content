@@ -1,7 +1,8 @@
 ---
 title: Working with the UndoRecord Object
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e9df1047-5a1a-91da-3673-7e64b668552d
+ms.date: 06/08/2017
 ---
 
 

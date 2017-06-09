@@ -3,8 +3,9 @@ title: Subscript out of range (Error 9), Office Shared [vblr6.chm1000009]
 keywords: vblr6.chm1000009
 f1_keywords:
 - vblr6.chm1000009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6bcaeb1b-ab85-4788-ad93-44e26f2058cf
+ms.date: 06/08/2017
 ---
 
 

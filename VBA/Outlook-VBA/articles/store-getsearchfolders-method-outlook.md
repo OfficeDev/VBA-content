@@ -3,10 +3,11 @@ title: Store.GetSearchFolders Method (Outlook)
 keywords: vbaol11.chm807
 f1_keywords:
 - vbaol11.chm807
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.GetSearchFolders
 ms.assetid: aed6ba0b-5e20-adb9-6f62-d030a0de2e0b
+ms.date: 06/08/2017
 ---
 
 

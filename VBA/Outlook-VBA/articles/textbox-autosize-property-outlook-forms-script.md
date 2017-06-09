@@ -1,7 +1,8 @@
 ---
 title: TextBox.AutoSize Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d9ac63bf-a9ea-c00e-9b67-9cf204f4ebb1
+ms.date: 06/08/2017
 ---
 
 

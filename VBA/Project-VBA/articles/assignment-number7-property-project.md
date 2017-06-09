@@ -1,9 +1,10 @@
 ---
 title: Assignment.Number7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number7
 ms.assetid: 37d38dc3-cab1-a92c-c56f-f0c6a8065de3
+ms.date: 06/08/2017
 ---
 
 

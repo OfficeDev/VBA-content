@@ -3,8 +3,9 @@ title: Data Tips Window
 keywords: vbui6.chm1069858
 f1_keywords:
 - vbui6.chm1069858
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 376029a4-d136-0233-c807-0ae26c2ff079
+ms.date: 06/08/2017
 ---
 
 

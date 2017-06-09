@@ -1,9 +1,10 @@
 ---
 title: Borders.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders.Count
 ms.assetid: 0665b077-e1e4-37b2-8812-87a19b78f138
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Use Message Boxes to Return Values
 keywords: olfm10.chm3077357
 f1_keywords:
 - olfm10.chm3077357
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c63ad579-a2cd-ccc7-602c-7a83476d3060
+ms.date: 06/08/2017
 ---
 
 

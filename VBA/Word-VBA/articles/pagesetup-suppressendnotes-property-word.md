@@ -3,10 +3,11 @@ title: PageSetup.SuppressEndnotes Property (Word)
 keywords: vbawd10.chm158400629
 f1_keywords:
 - vbawd10.chm158400629
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.SuppressEndnotes
 ms.assetid: be1a8712-8763-646f-6126-30fa0056f159
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Folder.Items Property (Outlook)
 keywords: vbaol11.chm1990
 f1_keywords:
 - vbaol11.chm1990
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Items
 ms.assetid: 441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3
+ms.date: 06/08/2017
 ---
 
 

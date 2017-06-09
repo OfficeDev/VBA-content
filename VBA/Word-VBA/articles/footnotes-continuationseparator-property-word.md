@@ -3,10 +3,11 @@ title: Footnotes.ContinuationSeparator Property (Word)
 keywords: vbawd10.chm155320425
 f1_keywords:
 - vbawd10.chm155320425
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.ContinuationSeparator
 ms.assetid: 5bcb180c-58a0-28e8-3712-7a1ee0e731b9
+ms.date: 06/08/2017
 ---
 
 

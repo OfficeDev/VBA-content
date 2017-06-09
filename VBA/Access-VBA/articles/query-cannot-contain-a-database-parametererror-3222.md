@@ -3,14 +3,15 @@ title: Query cannot contain a Database parameter. (Error 3222)
 keywords: jeterr40.chm5003222
 f1_keywords:
 - jeterr40.chm5003222
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 96629cdf-9233-6a60-0293-908488b0e27c
+ms.date: 06/08/2017
 ---
 
 
 # Query cannot contain a Database parameter. (Error 3222)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

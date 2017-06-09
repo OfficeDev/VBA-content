@@ -3,8 +3,9 @@ title: ScreenUpdating Property, Project [vbapj.chm132603]
 keywords: vbapj.chm132603
 f1_keywords:
 - vbapj.chm132603
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 506006d0-6cd4-43d8-9232-38da1b3f5330
+ms.date: 06/08/2017
 ---
 
 

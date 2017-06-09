@@ -3,10 +3,11 @@ title: Presentation.ApplyTemplate Method (PowerPoint)
 keywords: vbapp10.chm583007
 f1_keywords:
 - vbapp10.chm583007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.ApplyTemplate
 ms.assetid: 0340ab20-ae21-996b-63c2-4c0b922dec6e
+ms.date: 06/08/2017
 ---
 
 

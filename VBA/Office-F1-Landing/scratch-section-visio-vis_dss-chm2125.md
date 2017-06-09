@@ -3,8 +3,9 @@ title: Scratch Section, Visio [Vis_DSS.chm2125]
 keywords: vis_dss.chm2125
 f1_keywords:
 - vis_dss.chm2125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54f4354b-b481-4144-9ac8-e1dae03bca8c
+ms.date: 06/08/2017
 ---
 
 

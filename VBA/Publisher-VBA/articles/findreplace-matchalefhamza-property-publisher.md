@@ -3,10 +3,11 @@ title: FindReplace.MatchAlefHamza Property (Publisher)
 keywords: vbapb10.chm8323079
 f1_keywords:
 - vbapb10.chm8323079
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace.MatchAlefHamza
 ms.assetid: a8bdfbc3-13b5-e6a1-d86c-95e8f58ec263
+ms.date: 06/08/2017
 ---
 
 

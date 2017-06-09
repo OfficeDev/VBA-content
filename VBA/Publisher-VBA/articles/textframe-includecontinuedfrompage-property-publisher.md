@@ -3,10 +3,11 @@ title: TextFrame.IncludeContinuedFromPage Property (Publisher)
 keywords: vbapb10.chm3866665
 f1_keywords:
 - vbapb10.chm3866665
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.IncludeContinuedFromPage
 ms.assetid: 7c129bf2-60da-4170-1410-94961ccf3345
+ms.date: 06/08/2017
 ---
 
 

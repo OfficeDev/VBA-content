@@ -3,10 +3,11 @@ title: TextRetrievalMode.Duplicate Property (Word)
 keywords: vbawd10.chm154730497
 f1_keywords:
 - vbawd10.chm154730497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.Duplicate
 ms.assetid: 3ccc1c6a-c709-ea9a-052d-a5c3d566038f
+ms.date: 06/08/2017
 ---
 
 

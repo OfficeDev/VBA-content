@@ -3,10 +3,11 @@ title: ChartTitle.Top Property (Excel)
 keywords: vbaxl10.chm563088
 f1_keywords:
 - vbaxl10.chm563088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Top
 ms.assetid: 6521d104-0b13-e896-ecb9-e8315a2c7106
+ms.date: 06/08/2017
 ---
 
 

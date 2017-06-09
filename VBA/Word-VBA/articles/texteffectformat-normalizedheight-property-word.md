@@ -3,10 +3,11 @@ title: TextEffectFormat.NormalizedHeight Property (Word)
 keywords: vbawd10.chm164561002
 f1_keywords:
 - vbawd10.chm164561002
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.NormalizedHeight
 ms.assetid: 7410b830-3b1c-dc32-2ab8-c17a5a743c05
+ms.date: 06/08/2017
 ---
 
 

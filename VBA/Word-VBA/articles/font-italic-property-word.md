@@ -3,10 +3,11 @@ title: Font.Italic Property (Word)
 keywords: vbawd10.chm156369027
 f1_keywords:
 - vbawd10.chm156369027
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Italic
 ms.assetid: adba2e3c-d904-d835-5a1c-c8762d319106
+ms.date: 06/08/2017
 ---
 
 

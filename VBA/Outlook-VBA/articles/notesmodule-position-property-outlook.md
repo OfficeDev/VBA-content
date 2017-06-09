@@ -3,10 +3,11 @@ title: NotesModule.Position Property (Outlook)
 keywords: vbaol11.chm2878
 f1_keywords:
 - vbaol11.chm2878
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NotesModule.Position
 ms.assetid: 156677b0-2b18-e82a-69c1-4903fac8a47c
+ms.date: 06/08/2017
 ---
 
 

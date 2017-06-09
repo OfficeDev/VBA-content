@@ -3,10 +3,11 @@ title: Application.UsableHeight Property (Excel)
 keywords: vbaxl10.chm133222
 f1_keywords:
 - vbaxl10.chm133222
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.UsableHeight
 ms.assetid: 536d2d03-0ce8-c28a-5a94-461fcfbd4ebf
+ms.date: 06/08/2017
 ---
 
 

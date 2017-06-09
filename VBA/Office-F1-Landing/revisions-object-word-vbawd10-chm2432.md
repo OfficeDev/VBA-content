@@ -3,8 +3,9 @@ title: Revisions Object, Word [vbawd10.chm2432]
 keywords: vbawd10.chm2432
 f1_keywords:
 - vbawd10.chm2432
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c85424b-01db-4a42-8d67-8fe1cc0bd06d
+ms.date: 06/08/2017
 ---
 
 

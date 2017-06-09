@@ -3,8 +3,9 @@ title: Breakpoint not allowed on this line, Office Shared [vblr6.chm1040219]
 keywords: vblr6.chm1040219
 f1_keywords:
 - vblr6.chm1040219
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5ae52bc3-03a8-447a-b789-dcb7ee2ada2a
+ms.date: 06/08/2017
 ---
 
 

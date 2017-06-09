@@ -3,10 +3,11 @@ title: Form.WindowWidth Property (Access)
 keywords: vbaac10.chm13464
 f1_keywords:
 - vbaac10.chm13464
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.WindowWidth
 ms.assetid: 81839600-01e6-0462-3cf0-48de708e3d64
+ms.date: 06/08/2017
 ---
 
 

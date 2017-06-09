@@ -1,9 +1,10 @@
 ---
 title: Application.MustFlushScopeEnded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MustFlushScopeEnded
 ms.assetid: ba9ae16a-9cc6-79d6-d838-e5927937c142
+ms.date: 06/08/2017
 ---
 
 

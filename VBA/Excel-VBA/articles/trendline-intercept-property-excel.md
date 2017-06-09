@@ -3,10 +3,11 @@ title: Trendline.Intercept Property (Excel)
 keywords: vbaxl10.chm594083
 f1_keywords:
 - vbaxl10.chm594083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Intercept
 ms.assetid: a3a1b427-2da2-4409-5488-20a1eb0ceb94
+ms.date: 06/08/2017
 ---
 
 

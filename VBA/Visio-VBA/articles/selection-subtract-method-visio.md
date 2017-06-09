@@ -3,10 +3,11 @@ title: Selection.Subtract Method (Visio)
 keywords: vis_sdr.chm11116595
 f1_keywords:
 - vis_sdr.chm11116595
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Subtract
 ms.assetid: 606798b6-3482-0c45-d583-4762ee07da45
+ms.date: 06/08/2017
 ---
 
 

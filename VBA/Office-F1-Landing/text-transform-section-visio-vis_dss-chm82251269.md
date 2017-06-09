@@ -3,8 +3,9 @@ title: Text Transform Section, Visio [Vis_DSS.chm82251269]
 keywords: vis_dss.chm82251269
 f1_keywords:
 - vis_dss.chm82251269
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5df4b4d9-82d8-4759-abeb-a3381f69728d
+ms.date: 06/08/2017
 ---
 
 

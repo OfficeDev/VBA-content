@@ -3,10 +3,11 @@ title: Attachment.LabelX Property (Access)
 keywords: vbaac10.chm14005
 f1_keywords:
 - vbaac10.chm14005
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.LabelX
 ms.assetid: 6786c91f-32e6-39b1-b9d7-105463a7c103
+ms.date: 06/08/2017
 ---
 
 

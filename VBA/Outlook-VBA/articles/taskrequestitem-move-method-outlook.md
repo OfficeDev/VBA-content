@@ -3,10 +3,11 @@ title: TaskRequestItem.Move Method (Outlook)
 keywords: vbaol11.chm1902
 f1_keywords:
 - vbaol11.chm1902
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Move
 ms.assetid: 9a33da92-aa10-fe5a-b5d2-9c68be1886e5
+ms.date: 06/08/2017
 ---
 
 

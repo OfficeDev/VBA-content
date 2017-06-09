@@ -1,9 +1,10 @@
 ---
 title: ThemeColor.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColor.Creator
 ms.assetid: 60fc8037-4f88-7012-7ca0-2ac60ec59b6f
+ms.date: 06/08/2017
 ---
 
 

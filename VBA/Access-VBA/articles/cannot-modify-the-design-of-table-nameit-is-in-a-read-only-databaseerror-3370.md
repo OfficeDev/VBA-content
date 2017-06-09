@@ -3,14 +3,15 @@ title: Cannot modify the design of table <name>. It is in a read-only database. 
 keywords: jeterr40.chm5003370
 f1_keywords:
 - jeterr40.chm5003370
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0e55379c-4076-d04a-bcf1-af0995488de1
+ms.date: 06/08/2017
 ---
 
 
 # Cannot modify the design of table <name>. It is in a read-only database. (Error 3370)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

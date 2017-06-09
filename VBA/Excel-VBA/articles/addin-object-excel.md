@@ -3,10 +3,11 @@ title: AddIn Object (Excel)
 keywords: vbaxl10.chm184072
 f1_keywords:
 - vbaxl10.chm184072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIn
 ms.assetid: ad26800d-5342-fb4c-01f3-05b7eceb7ffd
+ms.date: 06/08/2017
 ---
 
 

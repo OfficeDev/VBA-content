@@ -1,6 +1,8 @@
 ---
 title: AppointmentItem.ReadComplete Event (Outlook)
 ms.assetid: 749e8d58-c15c-0b63-5486-cc2aa2190638
+ms.date: 06/08/2017
+ms.prod: outlook
 ---
 
 

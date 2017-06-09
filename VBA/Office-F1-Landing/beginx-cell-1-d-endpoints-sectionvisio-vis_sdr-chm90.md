@@ -3,8 +3,9 @@ title: BeginX Cell (1-D Endpoints Section), Visio [vis_sdr.chm90]
 keywords: vis_sdr.chm90
 f1_keywords:
 - vis_sdr.chm90
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 26943e75-b669-44f2-9fe2-3d3c59bb0cee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: AlignMiddle Cell (Alignment Section), Visio [Vis_DSS.chm40]
 keywords: vis_dss.chm40
 f1_keywords:
 - vis_dss.chm40
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92118578-6866-4e7d-9130-277bd9e2a1cb
+ms.date: 06/08/2017
 ---
 
 

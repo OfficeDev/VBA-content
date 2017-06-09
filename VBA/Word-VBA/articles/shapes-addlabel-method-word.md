@@ -3,10 +3,11 @@ title: Shapes.AddLabel Method (Word)
 keywords: vbawd10.chm161415181
 f1_keywords:
 - vbawd10.chm161415181
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddLabel
 ms.assetid: c5a5ea1f-5ca3-2c8d-40e2-bad94a220609
+ms.date: 06/08/2017
 ---
 
 

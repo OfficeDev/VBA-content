@@ -3,8 +3,9 @@ title: "How to: Swap Columns of a Multicolumn List Box"
 keywords: olfm10.chm3077206
 f1_keywords:
 - olfm10.chm3077206
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5d6fb3f2-161e-eeb6-1d0c-dc4d4670214b
+ms.date: 06/08/2017
 ---
 
 

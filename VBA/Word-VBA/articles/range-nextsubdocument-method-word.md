@@ -3,10 +3,11 @@ title: Range.NextSubdocument Method (Word)
 keywords: vbawd10.chm157155547
 f1_keywords:
 - vbawd10.chm157155547
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.NextSubdocument
 ms.assetid: 4c048cc7-a2f6-38b1-e675-4d8870947130
+ms.date: 06/08/2017
 ---
 
 

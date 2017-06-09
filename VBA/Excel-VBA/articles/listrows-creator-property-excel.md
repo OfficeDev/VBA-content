@@ -3,10 +3,11 @@ title: ListRows.Creator Property (Excel)
 keywords: vbaxl10.chm739074
 f1_keywords:
 - vbaxl10.chm739074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListRows.Creator
 ms.assetid: ab0d80a3-5dd5-b007-f586-ea123049483f
+ms.date: 06/08/2017
 ---
 
 

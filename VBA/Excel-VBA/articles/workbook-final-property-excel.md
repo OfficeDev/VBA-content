@@ -3,10 +3,11 @@ title: Workbook.Final Property (Excel)
 keywords: vbaxl10.chm199252
 f1_keywords:
 - vbaxl10.chm199252
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Final
 ms.assetid: 55d3a155-ca0c-1f7c-8612-80aac91a8eb3
+ms.date: 06/08/2017
 ---
 
 

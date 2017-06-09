@@ -3,10 +3,11 @@ title: InvisibleApp.BuiltInToolbars Property (Visio)
 keywords: vis_sdr.chm17513165
 f1_keywords:
 - vis_sdr.chm17513165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BuiltInToolbars
 ms.assetid: b28f212c-b5ab-0d43-1f7a-a91a7c62043d
+ms.date: 06/08/2017
 ---
 
 

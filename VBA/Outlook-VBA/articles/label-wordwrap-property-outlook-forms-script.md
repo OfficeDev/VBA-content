@@ -1,7 +1,8 @@
 ---
 title: Label.WordWrap Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8a7ad580-3492-ec0c-aa84-3634c8b76127
+ms.date: 06/08/2017
 ---
 
 

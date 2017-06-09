@@ -3,10 +3,11 @@ title: Label.Parent Property (Access)
 keywords: vbaac10.chm10184
 f1_keywords:
 - vbaac10.chm10184
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Parent
 ms.assetid: 891decb5-0057-292c-0c7b-4c10422d47e8
+ms.date: 06/08/2017
 ---
 
 

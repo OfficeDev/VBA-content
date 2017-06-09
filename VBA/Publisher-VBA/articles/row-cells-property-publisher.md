@@ -3,10 +3,11 @@ title: Row.Cells Property (Publisher)
 keywords: vbapb10.chm4849666
 f1_keywords:
 - vbapb10.chm4849666
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Row.Cells
 ms.assetid: 2a866890-d564-b9bc-c553-06669f376788
+ms.date: 06/08/2017
 ---
 
 

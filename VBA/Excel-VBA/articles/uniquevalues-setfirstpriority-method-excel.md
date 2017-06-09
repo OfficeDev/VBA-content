@@ -3,10 +3,11 @@ title: UniqueValues.SetFirstPriority Method (Excel)
 keywords: vbaxl10.chm826082
 f1_keywords:
 - vbaxl10.chm826082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.SetFirstPriority
 ms.assetid: 65e0be2a-1bc2-167d-516f-3ba0ebab1322
+ms.date: 06/08/2017
 ---
 
 

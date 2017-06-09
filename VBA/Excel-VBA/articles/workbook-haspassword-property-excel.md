@@ -3,10 +3,11 @@ title: Workbook.HasPassword Property (Excel)
 keywords: vbaxl10.chm199104
 f1_keywords:
 - vbaxl10.chm199104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.HasPassword
 ms.assetid: e3cfdc90-1e82-5556-0064-e8269ba92539
+ms.date: 06/08/2017
 ---
 
 

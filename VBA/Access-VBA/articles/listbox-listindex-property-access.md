@@ -3,10 +3,11 @@ title: ListBox.ListIndex Property (Access)
 keywords: vbaac10.chm11275
 f1_keywords:
 - vbaac10.chm11275
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ListIndex
 ms.assetid: 4d75f753-f6a9-d362-7281-2c0460f4272b
+ms.date: 06/08/2017
 ---
 
 

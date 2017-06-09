@@ -3,10 +3,11 @@ title: Application.PaneClose Method (Project)
 keywords: vbapj.chm2004
 f1_keywords:
 - vbapj.chm2004
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PaneClose
 ms.assetid: 07a0a80f-f036-db3e-a252-ca70de4cb815
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ComboBox.KeyDown Event (Access)
 keywords: vbaac10.chm14224
 f1_keywords:
 - vbaac10.chm14224
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.KeyDown
 ms.assetid: 948985ea-6a7b-ec42-1f09-1ac900962136
+ms.date: 06/08/2017
 ---
 
 

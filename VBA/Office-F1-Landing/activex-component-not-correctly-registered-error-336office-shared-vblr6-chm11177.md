@@ -3,8 +3,9 @@ title: ActiveX component not correctly registered (Error 336), Office Shared [vb
 keywords: vblr6.chm1117795
 f1_keywords:
 - vblr6.chm1117795
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5bb881e8-d983-4840-ab94-c870404f1a65
+ms.date: 06/08/2017
 ---
 
 

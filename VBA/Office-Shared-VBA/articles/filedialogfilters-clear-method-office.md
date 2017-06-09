@@ -3,10 +3,11 @@ title: FileDialogFilters.Clear Method (Office)
 keywords: vbaof11.chm255005
 f1_keywords:
 - vbaof11.chm255005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilters.Clear
 ms.assetid: 1d5fa55e-6a61-d808-51a4-86116420f89f
+ms.date: 06/08/2017
 ---
 
 

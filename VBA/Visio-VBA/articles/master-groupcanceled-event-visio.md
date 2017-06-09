@@ -3,10 +3,11 @@ title: Master.GroupCanceled Event (Visio)
 keywords: vis_sdr.chm10762005
 f1_keywords:
 - vis_sdr.chm10762005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.GroupCanceled
 ms.assetid: ec87e679-2b8f-de85-81b9-ccb4a9df7ae2
+ms.date: 06/08/2017
 ---
 
 

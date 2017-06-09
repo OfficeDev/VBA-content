@@ -3,10 +3,11 @@ title: View.ShowCropMarks Property (Word)
 keywords: vbawd10.chm161808440
 f1_keywords:
 - vbawd10.chm161808440
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowCropMarks
 ms.assetid: bc6db5f2-a9e4-5c0a-7e1a-43a93620f12b
+ms.date: 06/08/2017
 ---
 
 

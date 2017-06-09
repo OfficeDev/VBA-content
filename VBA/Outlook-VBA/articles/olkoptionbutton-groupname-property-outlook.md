@@ -3,10 +3,11 @@ title: OlkOptionButton.GroupName Property (Outlook)
 keywords: vbaol11.chm1000172
 f1_keywords:
 - vbaol11.chm1000172
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.GroupName
 ms.assetid: 10d091d7-4dae-fa13-abca-424ae27cafa6
+ms.date: 06/08/2017
 ---
 
 

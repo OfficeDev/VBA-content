@@ -3,8 +3,9 @@ title: Assistance Property, Project [vbapj.chm131392]
 keywords: vbapj.chm131392
 f1_keywords:
 - vbapj.chm131392
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 60f28503-0f78-4ab7-9c79-6321beaeeb7f
+ms.date: 06/08/2017
 ---
 
 

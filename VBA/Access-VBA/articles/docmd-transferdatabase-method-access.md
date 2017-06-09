@@ -3,10 +3,11 @@ title: DoCmd.TransferDatabase Method (Access)
 keywords: vbaac10.chm4188
 f1_keywords:
 - vbaac10.chm4188
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.TransferDatabase
 ms.assetid: 7eff4d0c-f660-72db-ee99-b6a3158f01de
+ms.date: 06/08/2017
 ---
 
 

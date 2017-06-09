@@ -1,7 +1,8 @@
 ---
 title: WebPageFonts Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e5e9941a-1f41-3d1b-1e31-420fcec7e951
+ms.date: 06/08/2017
 ---
 
 

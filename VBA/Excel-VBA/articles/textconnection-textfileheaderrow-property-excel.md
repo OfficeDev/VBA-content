@@ -3,8 +3,9 @@ title: TextConnection.TextFileHeaderRow Property (Excel)
 keywords: vbaxl10.chm926074
 f1_keywords:
 - vbaxl10.chm926074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bab9caa5-9573-ec25-a4ec-0f51f16f999f
+ms.date: 06/08/2017
 ---
 
 

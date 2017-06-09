@@ -3,10 +3,11 @@ title: RectangularGradient.RectangleLeft Property (Excel)
 keywords: vbaxl10.chm857076
 f1_keywords:
 - vbaxl10.chm857076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RectangularGradient.RectangleLeft
 ms.assetid: 5c9f5843-5ba2-4fdf-7180-4c836c372c1f
+ms.date: 06/08/2017
 ---
 
 

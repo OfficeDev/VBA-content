@@ -3,10 +3,11 @@ title: Window.RangeFromPoint Method (Excel)
 keywords: vbaxl10.chm356131
 f1_keywords:
 - vbaxl10.chm356131
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.RangeFromPoint
 ms.assetid: ece6172d-013d-5175-55e3-4968947d9e4e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailMergeFields.AddIf Method (Word)
 keywords: vbawd10.chm153026664
 f1_keywords:
 - vbawd10.chm153026664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddIf
 ms.assetid: 13c9338a-b70e-1132-0390-121d4daa15fb
+ms.date: 06/08/2017
 ---
 
 

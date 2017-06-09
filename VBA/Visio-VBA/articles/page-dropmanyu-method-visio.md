@@ -3,10 +3,11 @@ title: Page.DropManyU Method (Visio)
 keywords: vis_sdr.chm10951930
 f1_keywords:
 - vis_sdr.chm10951930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropManyU
 ms.assetid: e61d9e8f-3838-240e-b8da-c5f1d8b3eb12
+ms.date: 06/08/2017
 ---
 
 

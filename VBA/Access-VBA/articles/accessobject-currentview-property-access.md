@@ -3,10 +3,11 @@ title: AccessObject.CurrentView Property (Access)
 keywords: vbaac10.chm12754
 f1_keywords:
 - vbaac10.chm12754
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.CurrentView
 ms.assetid: d957f544-9619-be5c-dfce-c6962ba24655
+ms.date: 06/08/2017
 ---
 
 

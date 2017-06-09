@@ -1,9 +1,10 @@
 ---
 title: TaskRequestAcceptItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Open
 ms.assetid: 4a8d97b6-5502-d362-388b-de70174a0816
+ms.date: 06/08/2017
 ---
 
 

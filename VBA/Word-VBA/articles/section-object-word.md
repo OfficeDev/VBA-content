@@ -3,10 +3,11 @@ title: Section Object (Word)
 keywords: vbawd10.chm2393
 f1_keywords:
 - vbawd10.chm2393
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section
 ms.assetid: 3fe563d8-fc05-c17a-e67b-c50eea7e7f13
+ms.date: 06/08/2017
 ---
 
 

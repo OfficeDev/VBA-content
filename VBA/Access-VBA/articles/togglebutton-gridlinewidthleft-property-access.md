@@ -3,10 +3,11 @@ title: ToggleButton.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11788
 f1_keywords:
 - vbaac10.chm11788
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineWidthLeft
 ms.assetid: 23c09d6b-56a6-2ede-a83e-e542b856d4fd
+ms.date: 06/08/2017
 ---
 
 

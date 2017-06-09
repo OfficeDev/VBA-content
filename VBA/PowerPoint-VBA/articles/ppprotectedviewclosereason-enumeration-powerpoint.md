@@ -1,6 +1,8 @@
 ---
 title: PpProtectedViewCloseReason Enumeration (PowerPoint)
 ms.assetid: d40236ab-5d79-3a24-362f-ad48ab57ea08
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

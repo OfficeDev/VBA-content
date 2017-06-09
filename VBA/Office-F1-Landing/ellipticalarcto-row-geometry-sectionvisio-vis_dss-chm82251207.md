@@ -3,8 +3,9 @@ title: EllipticalArcTo Row (Geometry Section), Visio [Vis_DSS.chm82251207]
 keywords: vis_dss.chm82251207
 f1_keywords:
 - vis_dss.chm82251207
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b003b323-7168-40f1-ae53-ed7df0b05a78
+ms.date: 06/08/2017
 ---
 
 

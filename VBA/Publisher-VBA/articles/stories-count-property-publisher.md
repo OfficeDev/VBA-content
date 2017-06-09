@@ -3,10 +3,11 @@ title: Stories.Count Property (Publisher)
 keywords: vbapb10.chm5701635
 f1_keywords:
 - vbapb10.chm5701635
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Stories.Count
 ms.assetid: 3380c5fc-cfd7-98d6-9c19-4a2fe9877166
+ms.date: 06/08/2017
 ---
 
 

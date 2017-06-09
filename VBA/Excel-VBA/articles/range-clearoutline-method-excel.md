@@ -3,10 +3,11 @@ title: Range.ClearOutline Method (Excel)
 keywords: vbaxl10.chm144098
 f1_keywords:
 - vbaxl10.chm144098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ClearOutline
 ms.assetid: 80d82c8d-7670-54b5-7aa5-5c39aadcb990
+ms.date: 06/08/2017
 ---
 
 

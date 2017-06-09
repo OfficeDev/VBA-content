@@ -3,8 +3,9 @@ title: ActiveWindow Property, Project [vbapj.chm131372]
 keywords: vbapj.chm131372
 f1_keywords:
 - vbapj.chm131372
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b894ade6-e0a6-4f26-9dda-3ad36aebf63f
+ms.date: 06/08/2017
 ---
 
 

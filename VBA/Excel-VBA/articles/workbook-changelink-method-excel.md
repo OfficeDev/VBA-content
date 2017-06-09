@@ -3,10 +3,11 @@ title: Workbook.ChangeLink Method (Excel)
 keywords: vbaxl10.chm199083
 f1_keywords:
 - vbaxl10.chm199083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ChangeLink
 ms.assetid: 9b2c0b82-73ff-3bdb-63df-82c0708cb703
+ms.date: 06/08/2017
 ---
 
 

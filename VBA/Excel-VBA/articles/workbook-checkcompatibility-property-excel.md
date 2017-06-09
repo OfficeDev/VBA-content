@@ -3,10 +3,11 @@ title: Workbook.CheckCompatibility Property (Excel)
 keywords: vbaxl10.chm199249
 f1_keywords:
 - vbaxl10.chm199249
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.CheckCompatibility
 ms.assetid: 9379c010-6756-b7ea-b4ad-5c8a4b900124
+ms.date: 06/08/2017
 ---
 
 

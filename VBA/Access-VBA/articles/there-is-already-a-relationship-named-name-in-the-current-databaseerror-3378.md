@@ -3,14 +3,15 @@ title: There is already a relationship named <name> in the current database. (Er
 keywords: jeterr40.chm5003378
 f1_keywords:
 - jeterr40.chm5003378
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a18f6077-b668-9d01-2283-3bf3835ee92b
+ms.date: 06/08/2017
 ---
 
 
 # There is already a relationship named <name> in the current database. (Error 3378)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

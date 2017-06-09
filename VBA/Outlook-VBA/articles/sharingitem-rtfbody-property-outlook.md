@@ -3,10 +3,11 @@ title: SharingItem.RTFBody Property (Outlook)
 keywords: vbaol11.chm3537
 f1_keywords:
 - vbaol11.chm3537
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RTFBody
 ms.assetid: c41c17c1-af15-ea13-9a31-ba1e3d0f30b2
+ms.date: 06/08/2017
 ---
 
 

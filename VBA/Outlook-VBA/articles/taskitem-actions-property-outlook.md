@@ -3,10 +3,11 @@ title: TaskItem.Actions Property (Outlook)
 keywords: vbaol11.chm1686
 f1_keywords:
 - vbaol11.chm1686
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Actions
 ms.assetid: 896817c2-45f0-afc5-d0a3-bfcdf46b5c2d
+ms.date: 06/08/2017
 ---
 
 

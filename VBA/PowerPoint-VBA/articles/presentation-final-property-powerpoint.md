@@ -3,10 +3,11 @@ title: Presentation.Final Property (PowerPoint)
 keywords: vbapp10.chm583104
 f1_keywords:
 - vbapp10.chm583104
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Final
 ms.assetid: 03b16954-2f23-905b-8392-d88070e86e9f
+ms.date: 06/08/2017
 ---
 
 

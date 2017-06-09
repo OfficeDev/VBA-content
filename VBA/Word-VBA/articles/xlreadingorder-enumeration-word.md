@@ -1,9 +1,10 @@
 ---
 title: XlReadingOrder Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XlReadingOrder
 ms.assetid: eb7796d5-8ef5-96a4-dcf4-c86153f9a475
+ms.date: 06/08/2017
 ---
 
 

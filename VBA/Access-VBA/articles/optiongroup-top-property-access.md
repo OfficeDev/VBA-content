@@ -3,10 +3,11 @@ title: OptionGroup.Top Property (Access)
 keywords: vbaac10.chm10835
 f1_keywords:
 - vbaac10.chm10835
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Top
 ms.assetid: 60a479aa-c9df-3eef-3752-4fc0bcbc07d6
+ms.date: 06/08/2017
 ---
 
 

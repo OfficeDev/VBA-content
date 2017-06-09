@@ -3,10 +3,11 @@ title: PivotField.LayoutBlankLine Property (Excel)
 keywords: vbaxl10.chm240119
 f1_keywords:
 - vbaxl10.chm240119
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutBlankLine
 ms.assetid: 8770c3df-0a24-0511-9e8f-44515a6772df
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListBox.GridlineThemeColorIndex Property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineThemeColorIndex
 ms.assetid: 62339876-c58b-6636-5a3d-1fadee6a5c3c
+ms.date: 06/08/2017
 ---
 
 

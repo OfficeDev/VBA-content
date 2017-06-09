@@ -3,8 +3,9 @@ title: QueryCancelQuit Event, Visio [vis_sdr.chm10019290]
 keywords: vis_sdr.chm10019290
 f1_keywords:
 - vis_sdr.chm10019290
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 27640608-5943-4a6f-a0a7-2e8001e29296
+ms.date: 06/08/2017
 ---
 
 

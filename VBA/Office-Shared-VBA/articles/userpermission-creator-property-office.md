@@ -1,9 +1,10 @@
 ---
 title: UserPermission.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.UserPermission.Creator
 ms.assetid: 916d32c5-ce0b-8e9b-f4f4-a5aeac3eb58d
+ms.date: 06/08/2017
 ---
 
 

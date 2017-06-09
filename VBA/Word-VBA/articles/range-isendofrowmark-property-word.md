@@ -3,10 +3,11 @@ title: Range.IsEndOfRowMark Property (Word)
 keywords: vbawd10.chm157155635
 f1_keywords:
 - vbawd10.chm157155635
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.IsEndOfRowMark
 ms.assetid: 0b1a7638-75ea-fb03-3a52-8bc759794408
+ms.date: 06/08/2017
 ---
 
 

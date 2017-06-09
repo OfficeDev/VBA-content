@@ -3,10 +3,11 @@ title: BuildingBlockTypes.Count Property (Word)
 keywords: vbawd10.chm189792257
 f1_keywords:
 - vbawd10.chm189792257
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlockTypes.Count
 ms.assetid: 72fdde8a-94e0-5228-e3d7-4faffdcbc55b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ColorScheme.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorScheme.Count
 ms.assetid: 372e48be-db37-82a1-8bca-1ac71b6ae165
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: SpinButton.MousePointer Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 09bc0dbf-6925-8c43-6f21-280e7008ae54
+ms.date: 06/08/2017
 ---
 
 

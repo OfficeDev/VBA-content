@@ -1,7 +1,8 @@
 ---
 title: ComboBox.Value Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a81934d0-50b5-aa2d-f45b-ea8b826bcea9
+ms.date: 06/08/2017
 ---
 
 

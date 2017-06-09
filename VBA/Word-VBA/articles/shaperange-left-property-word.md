@@ -3,10 +3,11 @@ title: ShapeRange.Left Property (Word)
 keywords: vbawd10.chm162857071
 f1_keywords:
 - vbawd10.chm162857071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Left
 ms.assetid: 18ef49c4-d3b9-d65a-c992-9939479b607d
+ms.date: 06/08/2017
 ---
 
 

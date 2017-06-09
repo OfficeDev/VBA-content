@@ -3,10 +3,11 @@ title: OptionButton.Enter Event (Access)
 keywords: vbaac10.chm14136
 f1_keywords:
 - vbaac10.chm14136
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Enter
 ms.assetid: 62d01554-4a32-cf66-84a6-945becbee9ed
+ms.date: 06/08/2017
 ---
 
 

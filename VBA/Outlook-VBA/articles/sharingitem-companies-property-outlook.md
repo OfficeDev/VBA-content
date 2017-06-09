@@ -3,10 +3,11 @@ title: SharingItem.Companies Property (Outlook)
 keywords: vbaol11.chm602
 f1_keywords:
 - vbaol11.chm602
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Companies
 ms.assetid: 27edfca5-5e58-a29e-7cee-6dd21861b960
+ms.date: 06/08/2017
 ---
 
 

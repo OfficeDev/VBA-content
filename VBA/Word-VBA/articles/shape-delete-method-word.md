@@ -3,10 +3,11 @@ title: Shape.Delete Method (Word)
 keywords: vbawd10.chm161480715
 f1_keywords:
 - vbawd10.chm161480715
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Delete
 ms.assetid: 7125f94f-fe82-dacf-b407-9e2bb374dbc4
+ms.date: 06/08/2017
 ---
 
 

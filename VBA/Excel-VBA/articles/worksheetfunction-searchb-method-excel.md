@@ -3,10 +3,11 @@ title: WorksheetFunction.SearchB Method (Excel)
 keywords: vbaxl10.chm137155
 f1_keywords:
 - vbaxl10.chm137155
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SearchB
 ms.assetid: 10a39f1f-98d1-e264-7b20-078175dc4606
+ms.date: 06/08/2017
 ---
 
 

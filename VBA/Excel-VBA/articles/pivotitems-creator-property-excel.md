@@ -3,10 +3,11 @@ title: PivotItems.Creator Property (Excel)
 keywords: vbaxl10.chm247074
 f1_keywords:
 - vbaxl10.chm247074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItems.Creator
 ms.assetid: 9d055e55-5ca3-a763-cd0b-acb742f55d12
+ms.date: 06/08/2017
 ---
 
 

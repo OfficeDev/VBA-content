@@ -3,10 +3,11 @@ title: DocumentWindow.Active Property (PowerPoint)
 keywords: vbapp10.chm511008
 f1_keywords:
 - vbapp10.chm511008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Active
 ms.assetid: bd68b587-0811-7f40-c0da-741e2305594b
+ms.date: 06/08/2017
 ---
 
 

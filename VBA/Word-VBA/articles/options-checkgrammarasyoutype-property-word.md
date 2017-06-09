@@ -3,10 +3,11 @@ title: Options.CheckGrammarAsYouType Property (Word)
 keywords: vbawd10.chm162988309
 f1_keywords:
 - vbawd10.chm162988309
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CheckGrammarAsYouType
 ms.assetid: 11e4c676-bd8d-26e0-a0d4-74537508fc88
+ms.date: 06/08/2017
 ---
 
 

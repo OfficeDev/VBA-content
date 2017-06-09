@@ -3,10 +3,11 @@ title: OMathDelim.EndChar Property (Word)
 keywords: vbawd10.chm145096810
 f1_keywords:
 - vbawd10.chm145096810
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathDelim.EndChar
 ms.assetid: 0ef8945d-1f93-0a7e-4c1c-47d1b95626bf
+ms.date: 06/08/2017
 ---
 
 

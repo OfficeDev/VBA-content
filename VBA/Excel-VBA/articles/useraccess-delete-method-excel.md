@@ -3,10 +3,11 @@ title: UserAccess.Delete Method (Excel)
 keywords: vbaxl10.chm727075
 f1_keywords:
 - vbaxl10.chm727075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserAccess.Delete
 ms.assetid: 4c064fb7-3d22-0471-71d2-403976eb8d5d
+ms.date: 06/08/2017
 ---
 
 

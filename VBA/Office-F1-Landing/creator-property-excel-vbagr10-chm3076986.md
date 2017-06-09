@@ -3,8 +3,9 @@ title: Creator Property, Excel [vbagr10.chm3076986]
 keywords: vbagr10.chm3076986
 f1_keywords:
 - vbagr10.chm3076986
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 28a7a77c-6a7e-4847-beec-54a43fc0bc4e
+ms.date: 06/08/2017
 ---
 
 

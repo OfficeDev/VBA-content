@@ -3,10 +3,11 @@ title: RotationEffect Object (PowerPoint)
 keywords: vbapp10.chm661000
 f1_keywords:
 - vbapp10.chm661000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RotationEffect
 ms.assetid: d0fc5520-dbbd-a44a-b811-51fd299c4587
+ms.date: 06/08/2017
 ---
 
 

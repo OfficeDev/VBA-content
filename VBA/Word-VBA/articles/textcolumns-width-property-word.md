@@ -3,10 +3,11 @@ title: TextColumns.Width Property (Word)
 keywords: vbawd10.chm158531686
 f1_keywords:
 - vbawd10.chm158531686
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.Width
 ms.assetid: 81aaaf9b-5b28-3575-3908-cc7dfc0ce602
+ms.date: 06/08/2017
 ---
 
 

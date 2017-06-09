@@ -3,10 +3,11 @@ title: OlkCheckBox.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000151
 f1_keywords:
 - vbaol11.chm1000151
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.MouseDown
 ms.assetid: 1b50955b-0dda-e87c-3b1a-2542df3c1154
+ms.date: 06/08/2017
 ---
 
 

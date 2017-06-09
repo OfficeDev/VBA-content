@@ -3,8 +3,9 @@ title: Document.AvailableBuildingBlocks Property (Publisher)
 keywords: vbapb10.chm196762
 f1_keywords:
 - vbapb10.chm196762
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: dab447d9-f044-4a40-8876-a96f233b8d2e
+ms.date: 06/08/2017
 ---
 
 

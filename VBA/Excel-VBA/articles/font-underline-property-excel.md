@@ -3,10 +3,11 @@ title: Font.Underline Property (Excel)
 keywords: vbaxl10.chm559086
 f1_keywords:
 - vbaxl10.chm559086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.Underline
 ms.assetid: 81a2bdd2-bebd-b3ca-e0c3-6dd55280fcc0
+ms.date: 06/08/2017
 ---
 
 

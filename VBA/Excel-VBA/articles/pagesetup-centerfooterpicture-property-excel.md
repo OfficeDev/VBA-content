@@ -3,10 +3,11 @@ title: PageSetup.CenterFooterPicture Property (Excel)
 keywords: vbaxl10.chm473107
 f1_keywords:
 - vbaxl10.chm473107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterFooterPicture
 ms.assetid: 6df72e33-29d2-a638-7e42-2749a61ff9a3
+ms.date: 06/08/2017
 ---
 
 

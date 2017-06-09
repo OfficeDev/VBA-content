@@ -3,10 +3,11 @@ title: WorksheetFunction.DGet Method (Excel)
 keywords: vbaxl10.chm137170
 f1_keywords:
 - vbaxl10.chm137170
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DGet
 ms.assetid: 71c12527-19a6-7fb7-b1c1-f2b5478c14b9
+ms.date: 06/08/2017
 ---
 
 

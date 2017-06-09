@@ -1,9 +1,10 @@
 ---
 title: Application Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application
 ms.assetid: 8eb91712-7784-a102-38c0-19bb056c27e9
+ms.date: 06/08/2017
 ---
 
 

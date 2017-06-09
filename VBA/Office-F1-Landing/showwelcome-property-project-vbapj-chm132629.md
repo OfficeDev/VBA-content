@@ -3,8 +3,9 @@ title: ShowWelcome Property, Project [vbapj.chm132629]
 keywords: vbapj.chm132629
 f1_keywords:
 - vbapj.chm132629
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66709093-5fdd-4a2c-a627-e2fa55c49d32
+ms.date: 06/08/2017
 ---
 
 

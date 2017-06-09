@@ -3,10 +3,11 @@ title: OlkDateControl.TextAlign Property (Outlook)
 keywords: vbaol11.chm1000357
 f1_keywords:
 - vbaol11.chm1000357
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.TextAlign
 ms.assetid: 2050c4f9-b648-59a3-9171-dc31c49f3b51
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The server's MSysConf table exists, but is in an incorrect format. Contac
 keywords: jeterr40.chm5003407
 f1_keywords:
 - jeterr40.chm5003407
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 949fdf28-d2cc-09df-1e3f-6d55f5e006a3
+ms.date: 06/08/2017
 ---
 
 
 # The server's MSysConf table exists, but is in an incorrect format. Contact your system administrator. (Error 3407)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

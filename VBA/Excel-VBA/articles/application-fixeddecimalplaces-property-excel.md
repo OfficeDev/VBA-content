@@ -3,10 +3,11 @@ title: Application.FixedDecimalPlaces Property (Excel)
 keywords: vbaxl10.chm133139
 f1_keywords:
 - vbaxl10.chm133139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FixedDecimalPlaces
 ms.assetid: e264dce3-4589-3e83-c931-5d69e3b8b3be
+ms.date: 06/08/2017
 ---
 
 

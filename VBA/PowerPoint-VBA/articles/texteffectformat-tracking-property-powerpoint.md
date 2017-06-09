@@ -3,10 +3,11 @@ title: TextEffectFormat.Tracking Property (PowerPoint)
 keywords: vbapp10.chm556014
 f1_keywords:
 - vbapp10.chm556014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.Tracking
 ms.assetid: 998cbec0-959c-e76f-9e26-6e8466894a60
+ms.date: 06/08/2017
 ---
 
 

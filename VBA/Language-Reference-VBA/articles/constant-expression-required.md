@@ -3,8 +3,9 @@ title: Constant expression required
 keywords: vblr6.chm1040114
 f1_keywords:
 - vblr6.chm1040114
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0493fe4-8f50-c935-391f-0ffaca726b2b
+ms.date: 06/08/2017
 ---
 
 

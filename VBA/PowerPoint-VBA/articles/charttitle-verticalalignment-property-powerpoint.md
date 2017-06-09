@@ -3,10 +3,11 @@ title: ChartTitle.VerticalAlignment Property (PowerPoint)
 keywords: vbapp10.chm694010
 f1_keywords:
 - vbapp10.chm694010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.VerticalAlignment
 ms.assetid: 5c942c0e-6e9d-b696-d395-a461e92e42ab
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.ReportList Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ReportList
 ms.assetid: 0c688797-21cc-eaa0-0ebf-95e1e053f222
+ms.date: 06/08/2017
 ---
 
 

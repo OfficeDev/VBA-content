@@ -3,10 +3,11 @@ title: Adjustments.Count Property (Publisher)
 keywords: vbapb10.chm2424835
 f1_keywords:
 - vbapb10.chm2424835
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Adjustments.Count
 ms.assetid: 1b32f1c3-0bbc-a175-4f59-36cc76df12fd
+ms.date: 06/08/2017
 ---
 
 

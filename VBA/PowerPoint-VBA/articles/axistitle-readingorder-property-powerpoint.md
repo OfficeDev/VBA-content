@@ -3,10 +3,11 @@ title: AxisTitle.ReadingOrder Property (PowerPoint)
 keywords: vbapp10.chm683021
 f1_keywords:
 - vbapp10.chm683021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.ReadingOrder
 ms.assetid: 4a6ee7e6-eee9-e96c-5509-29711d87056d
+ms.date: 06/08/2017
 ---
 
 

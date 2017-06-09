@@ -1,7 +1,8 @@
 ---
 title: MultiPage.ForeColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 69af0968-a42d-7ccd-dc7f-d09b00ab4672
+ms.date: 06/08/2017
 ---
 
 

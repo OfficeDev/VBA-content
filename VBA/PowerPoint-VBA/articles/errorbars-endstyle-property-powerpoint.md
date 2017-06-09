@@ -3,10 +3,11 @@ title: ErrorBars.EndStyle Property (PowerPoint)
 keywords: vbapp10.chm66660
 f1_keywords:
 - vbapp10.chm66660
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.EndStyle
 ms.assetid: 2d6dca80-0281-3d56-fdc9-dc863bf7ad38
+ms.date: 06/08/2017
 ---
 
 

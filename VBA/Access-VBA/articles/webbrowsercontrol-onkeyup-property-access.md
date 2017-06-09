@@ -3,10 +3,11 @@ title: WebBrowserControl.OnKeyUp Property (Access)
 keywords: vbaac10.chm14384
 f1_keywords:
 - vbaac10.chm14384
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnKeyUp
 ms.assetid: b9ad26fe-2e31-958c-220d-8394b8a2e3de
+ms.date: 06/08/2017
 ---
 
 

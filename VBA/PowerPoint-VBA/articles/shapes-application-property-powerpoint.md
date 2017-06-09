@@ -1,9 +1,10 @@
 ---
 title: Shapes.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Application
 ms.assetid: 23c2ea6f-ed51-4a1a-0e00-94f891242c0a
+ms.date: 06/08/2017
 ---
 
 

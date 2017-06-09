@@ -3,10 +3,11 @@ title: TabStops.Parent Property (PowerPoint)
 keywords: vbapp10.chm573002
 f1_keywords:
 - vbapp10.chm573002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStops.Parent
 ms.assetid: 5697b2b3-e2ad-343a-b52d-ab3b0bfd7ada
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Application Property (Excel)
 keywords: vbaxl10.chm635073
 f1_keywords:
 - vbaxl10.chm635073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Application
 ms.assetid: 6d86a0a4-b9ed-0ba1-22c3-30e2f100901b
+ms.date: 06/08/2017
 ---
 
 

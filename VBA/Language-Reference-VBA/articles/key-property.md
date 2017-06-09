@@ -3,10 +3,11 @@ title: Key Property
 keywords: vblr6.chm2181947
 f1_keywords:
 - vblr6.chm2181947
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Key
 ms.assetid: 6b2d19f0-9729-7c36-fc22-bde7d6366fc8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: FontUnderLine Property, Project [vbapj.chm132284]
 keywords: vbapj.chm132284
 f1_keywords:
 - vbapj.chm132284
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0a4987a-1d7d-419d-b470-3398223c55d5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Groups Object, Project [vbapj.chm131295]
 keywords: vbapj.chm131295
 f1_keywords:
 - vbapj.chm131295
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 19d452d8-51f4-4b98-a51f-bf5e5b9437a2
+ms.date: 06/08/2017
 ---
 
 

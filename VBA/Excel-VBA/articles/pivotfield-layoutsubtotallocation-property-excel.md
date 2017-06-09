@@ -3,10 +3,11 @@ title: PivotField.LayoutSubtotalLocation Property (Excel)
 keywords: vbaxl10.chm240120
 f1_keywords:
 - vbaxl10.chm240120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutSubtotalLocation
 ms.assetid: 77f250da-7bc3-430d-c6ef-53f79588ecf2
+ms.date: 06/08/2017
 ---
 
 

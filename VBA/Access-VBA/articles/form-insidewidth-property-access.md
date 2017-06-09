@@ -3,10 +3,11 @@ title: Form.InsideWidth Property (Access)
 keywords: vbaac10.chm13476
 f1_keywords:
 - vbaac10.chm13476
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.InsideWidth
 ms.assetid: c92954cd-0b8b-94d8-8826-684e886da0a2
+ms.date: 06/08/2017
 ---
 
 

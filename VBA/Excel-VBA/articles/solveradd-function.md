@@ -3,8 +3,9 @@ title: SolverAdd Function
 keywords: vbaxl10.chm5205183
 f1_keywords:
 - vbaxl10.chm5205183
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c20e0a78-113e-254f-428f-0dc1bdc817c2
+ms.date: 06/08/2017
 ---
 
 

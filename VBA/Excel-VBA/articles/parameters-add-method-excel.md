@@ -3,10 +3,11 @@ title: Parameters.Add Method (Excel)
 keywords: vbaxl10.chm525073
 f1_keywords:
 - vbaxl10.chm525073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parameters.Add
 ms.assetid: 043276ed-4af7-3b7a-dbfb-549489d3a127
+ms.date: 06/08/2017
 ---
 
 

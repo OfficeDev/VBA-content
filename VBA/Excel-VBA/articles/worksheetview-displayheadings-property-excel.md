@@ -3,10 +3,11 @@ title: WorksheetView.DisplayHeadings Property (Excel)
 keywords: vbaxl10.chm779075
 f1_keywords:
 - vbaxl10.chm779075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetView.DisplayHeadings
 ms.assetid: 2572f6bf-c309-aadb-7c66-26016087ed96
+ms.date: 06/08/2017
 ---
 
 

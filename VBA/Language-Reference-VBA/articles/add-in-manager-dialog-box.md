@@ -3,8 +3,9 @@ title: Add-In Manager Dialog Box
 keywords: vbui6.chm181033
 f1_keywords:
 - vbui6.chm181033
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c19b1493-5c13-bcc3-6b45-136d7313ded5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Range.Paste Method (Word)
 keywords: vbawd10.chm157155449
 f1_keywords:
 - vbawd10.chm157155449
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Paste
 ms.assetid: 06621016-de31-c61b-a9d0-6544b2d7e0a4
+ms.date: 06/08/2017
 ---
 
 

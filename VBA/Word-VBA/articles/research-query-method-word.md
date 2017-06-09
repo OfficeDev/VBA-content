@@ -3,10 +3,11 @@ title: Research.Query Method (Word)
 keywords: vbawd10.chm201654772
 f1_keywords:
 - vbawd10.chm201654772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Research.Query
 ms.assetid: 416ad3f1-d2c4-4963-81c6-ba9a639c7965
+ms.date: 06/08/2017
 ---
 
 

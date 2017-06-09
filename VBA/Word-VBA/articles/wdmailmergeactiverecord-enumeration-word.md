@@ -1,9 +1,10 @@
 ---
 title: WdMailMergeActiveRecord Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMailMergeActiveRecord
 ms.assetid: 553af0f0-9461-677f-700d-c861f34d0705
+ms.date: 06/08/2017
 ---
 
 

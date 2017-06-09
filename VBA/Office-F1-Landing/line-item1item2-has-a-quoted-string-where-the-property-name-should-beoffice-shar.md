@@ -3,8 +3,9 @@ title: Line 'item1' 'item2' has a quoted string where the property name should b
 keywords: vblr6.chm1117738
 f1_keywords:
 - vblr6.chm1117738
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9a8188de-bc54-4b49-9434-4b0181223282
+ms.date: 06/08/2017
 ---
 
 

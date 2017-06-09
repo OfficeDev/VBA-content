@@ -3,10 +3,11 @@ title: PbParagraphAlignmentType Enumeration (Publisher)
 keywords: vbapb10.chm65550
 f1_keywords:
 - vbapb10.chm65550
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbParagraphAlignmentType
 ms.assetid: bfcf7b96-e774-322b-7dba-e6cbc4f1cb1a
+ms.date: 06/08/2017
 ---
 
 

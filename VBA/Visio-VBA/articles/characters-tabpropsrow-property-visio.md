@@ -3,10 +3,11 @@ title: Characters.TabPropsRow Property (Visio)
 keywords: vis_sdr.chm10214480
 f1_keywords:
 - vis_sdr.chm10214480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.TabPropsRow
 ms.assetid: 83002645-df6c-5565-b62a-983960a8a8a3
+ms.date: 06/08/2017
 ---
 
 

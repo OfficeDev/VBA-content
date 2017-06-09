@@ -3,8 +3,9 @@ title: Duplicate definition
 keywords: vblr6.chm1057031
 f1_keywords:
 - vblr6.chm1057031
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8e9f8532-28fa-8244-939a-40eeee372312
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SynonymInfo.Word Property (Word)
 keywords: vbawd10.chm161153025
 f1_keywords:
 - vbawd10.chm161153025
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SynonymInfo.Word
 ms.assetid: ec019502-6dc7-16f8-b019-957b00a7e3d1
+ms.date: 06/08/2017
 ---
 
 

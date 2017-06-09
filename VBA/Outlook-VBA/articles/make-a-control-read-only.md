@@ -1,7 +1,8 @@
 ---
 title: Make a Control Read-only
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e74cfad8-c72b-3fc5-a6d3-9646fa5b3f36
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomProperty.Delete Method (Excel)
 keywords: vbaxl10.chm682076
 f1_keywords:
 - vbaxl10.chm682076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomProperty.Delete
 ms.assetid: 4cb66fe0-5236-3021-6c1a-98720c6ff95a
+ms.date: 06/08/2017
 ---
 
 

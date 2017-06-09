@@ -3,10 +3,11 @@ title: Cell.VerticalTextAlignment Property (Publisher)
 keywords: vbapb10.chm5111840
 f1_keywords:
 - vbapb10.chm5111840
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.VerticalTextAlignment
 ms.assetid: 793bf932-15d0-cce9-1d5d-aee5d260e1a0
+ms.date: 06/08/2017
 ---
 
 

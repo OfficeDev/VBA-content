@@ -3,8 +3,9 @@ title: BackStyle Property, Access [vbaac10.chm11075]
 keywords: vbaac10.chm11075
 f1_keywords:
 - vbaac10.chm11075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 027029eb-8445-4370-9ec7-e699bc81eda9
+ms.date: 06/08/2017
 ---
 
 

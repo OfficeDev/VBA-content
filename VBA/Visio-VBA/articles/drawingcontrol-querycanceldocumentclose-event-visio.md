@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.QueryCancelDocumentClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelDocumentClose
 ms.assetid: f5072662-0b59-ae8d-6cb5-71b9ffd37dd2
+ms.date: 06/08/2017
 ---
 
 

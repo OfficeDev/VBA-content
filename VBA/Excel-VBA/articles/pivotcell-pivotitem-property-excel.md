@@ -3,10 +3,11 @@ title: PivotCell.PivotItem Property (Excel)
 keywords: vbaxl10.chm692077
 f1_keywords:
 - vbaxl10.chm692077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.PivotItem
 ms.assetid: 3b131e96-8589-9d72-d4d9-afe2d3d6137c
+ms.date: 06/08/2017
 ---
 
 

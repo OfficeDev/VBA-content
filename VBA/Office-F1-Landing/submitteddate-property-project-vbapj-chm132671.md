@@ -3,8 +3,9 @@ title: SubmittedDate Property, Project [vbapj.chm132671]
 keywords: vbapj.chm132671
 f1_keywords:
 - vbapj.chm132671
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b05b910a-215c-4fad-8d1c-cc15d5ebc27e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PbSaveOptions Enumeration (Publisher)
 keywords: vbapb10.chm65538
 f1_keywords:
 - vbapb10.chm65538
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbSaveOptions
 ms.assetid: 0fa89e13-7e0c-8552-c88f-cf9a051a89ac
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TablesOfContents.Format Property (Word)
 keywords: vbawd10.chm152305666
 f1_keywords:
 - vbawd10.chm152305666
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Format
 ms.assetid: ea94f93f-3fce-2b21-1f8b-675d5d3de96e
+ms.date: 06/08/2017
 ---
 
 

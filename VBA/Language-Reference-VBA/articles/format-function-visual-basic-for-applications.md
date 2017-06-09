@@ -3,8 +3,9 @@ title: Format Function (Visual Basic for Applications)
 keywords: vblr6.chm1008925
 f1_keywords:
 - vblr6.chm1008925
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
+ms.date: 06/08/2017
 ---
 
 

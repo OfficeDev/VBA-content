@@ -1,9 +1,10 @@
 ---
 title: ReportItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Forward
 ms.assetid: 607369d8-5e04-f9c8-ad11-828e185edef2
+ms.date: 06/08/2017
 ---
 
 

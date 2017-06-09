@@ -3,10 +3,11 @@ title: Range.MergeArea Property (Excel)
 keywords: vbaxl10.chm144160
 f1_keywords:
 - vbaxl10.chm144160
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.MergeArea
 ms.assetid: 68586bba-fa9c-e0d4-0eae-a08613551a2c
+ms.date: 06/08/2017
 ---
 
 

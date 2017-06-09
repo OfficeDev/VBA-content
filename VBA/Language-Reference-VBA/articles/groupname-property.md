@@ -3,10 +3,11 @@ title: GroupName Property
 keywords: fm20.chm5225039
 f1_keywords:
 - fm20.chm5225039
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GroupName
 ms.assetid: ae7312e7-3125-3110-1c90-bb87c4453e32
+ms.date: 06/08/2017
 ---
 
 

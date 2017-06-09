@@ -3,10 +3,11 @@ title: Table.ApplyStyleDirectFormatting Method (Word)
 keywords: vbawd10.chm156303568
 f1_keywords:
 - vbawd10.chm156303568
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.ApplyStyleDirectFormatting
 ms.assetid: 239807ae-6389-4492-8d17-e450c6ba91dd
+ms.date: 06/08/2017
 ---
 
 

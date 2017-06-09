@@ -3,10 +3,11 @@ title: CustomXMLSchemaCollection.Parent Property (Office)
 keywords: vbaof11.chm292001
 f1_keywords:
 - vbaof11.chm292001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Parent
 ms.assetid: 6929da5b-b6fd-f929-3c08-05bd115a6121
+ms.date: 06/08/2017
 ---
 
 

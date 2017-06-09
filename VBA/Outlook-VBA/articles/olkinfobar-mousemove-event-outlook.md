@@ -3,10 +3,11 @@ title: OlkInfoBar.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000302
 f1_keywords:
 - vbaol11.chm1000302
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkInfoBar.MouseMove
 ms.assetid: a82e3703-27cf-7aa4-1106-614803ea599c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: TextRange2.Select Method (PowerPoint)
 ms.assetid: 7c46efea-8015-45f7-9b23-ad872fbe3198
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

@@ -3,8 +3,9 @@ title: SmartTags Property, Access [vbaac10.chm11148]
 keywords: vbaac10.chm11148
 f1_keywords:
 - vbaac10.chm11148
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b6a09a3d-b40b-4068-a1cb-b50cce26c367
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ObjectFrame.LinkChildFields Property (Access)
 keywords: vbaac10.chm11565
 f1_keywords:
 - vbaac10.chm11565
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.LinkChildFields
 ms.assetid: f82332c1-2dd0-bd3a-3f63-e84727ea7429
+ms.date: 06/08/2017
 ---
 
 

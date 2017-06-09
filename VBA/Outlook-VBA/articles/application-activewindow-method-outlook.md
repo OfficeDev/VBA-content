@@ -3,10 +3,11 @@ title: Application.ActiveWindow Method (Outlook)
 keywords: vbaol11.chm726
 f1_keywords:
 - vbaol11.chm726
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.ActiveWindow
 ms.assetid: 5f5b4e8b-61e4-417b-6b0c-14d1ccb41594
+ms.date: 06/08/2017
 ---
 
 

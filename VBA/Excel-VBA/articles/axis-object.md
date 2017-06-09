@@ -3,10 +3,11 @@ title: Axis Object
 keywords: vbagr10.chm5207088
 f1_keywords:
 - vbagr10.chm5207088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis
 ms.assetid: 708d79de-edcc-ac18-58ec-b9921be9b37e
+ms.date: 06/08/2017
 ---
 
 

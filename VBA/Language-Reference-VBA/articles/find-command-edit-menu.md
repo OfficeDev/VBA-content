@@ -3,8 +3,9 @@ title: Find Command (Edit Menu)
 keywords: vbui6.chm181014
 f1_keywords:
 - vbui6.chm181014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b4fb9f8-7ed3-2f18-33f7-f0cb02debf79
+ms.date: 06/08/2017
 ---
 
 

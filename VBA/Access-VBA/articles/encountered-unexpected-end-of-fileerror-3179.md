@@ -1,13 +1,14 @@
 ---
 title: Encountered unexpected end of file. (Error 3179)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 34bb4869-2931-8c56-5e8e-44d75a2cad3d
+ms.date: 06/08/2017
 ---
 
 
 # Encountered unexpected end of file. (Error 3179)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

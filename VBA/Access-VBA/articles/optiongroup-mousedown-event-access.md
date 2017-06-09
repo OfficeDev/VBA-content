@@ -3,10 +3,11 @@ title: OptionGroup.MouseDown Event (Access)
 keywords: vbaac10.chm14191
 f1_keywords:
 - vbaac10.chm14191
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.MouseDown
 ms.assetid: f3c569de-879d-aa27-77f2-22192731febf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Column.Name Property (Outlook)
 keywords: vbaol11.chm2749
 f1_keywords:
 - vbaol11.chm2749
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Column.Name
 ms.assetid: e69a8a53-d348-2147-28cf-d41ea80bba61
+ms.date: 06/08/2017
 ---
 
 

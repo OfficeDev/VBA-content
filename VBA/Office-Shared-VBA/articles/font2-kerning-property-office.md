@@ -1,9 +1,10 @@
 ---
 title: Font2.Kerning Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Kerning
 ms.assetid: 0fc7f63c-bffc-486e-65ed-bbb04af6a209
+ms.date: 06/08/2017
 ---
 
 

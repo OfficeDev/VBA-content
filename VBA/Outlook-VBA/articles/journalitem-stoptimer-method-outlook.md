@@ -3,10 +3,11 @@ title: JournalItem.StopTimer Method (Outlook)
 keywords: vbaol11.chm1279
 f1_keywords:
 - vbaol11.chm1279
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.StopTimer
 ms.assetid: e7e05980-c113-a100-3433-b8ece4575ed1
+ms.date: 06/08/2017
 ---
 
 

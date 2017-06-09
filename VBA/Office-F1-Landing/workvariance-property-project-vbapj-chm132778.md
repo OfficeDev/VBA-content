@@ -3,8 +3,9 @@ title: WorkVariance Property, Project [vbapj.chm132778]
 keywords: vbapj.chm132778
 f1_keywords:
 - vbapj.chm132778
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 167782dd-29c3-4959-bc77-9a905677a6c3
+ms.date: 06/08/2017
 ---
 
 

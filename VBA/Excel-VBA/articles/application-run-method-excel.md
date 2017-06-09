@@ -3,10 +3,11 @@ title: Application.Run Method (Excel)
 keywords: vbaxl10.chm132104
 f1_keywords:
 - vbaxl10.chm132104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Run
 ms.assetid: 3e0167ab-b101-018f-0f89-ada116b8bb72
+ms.date: 06/08/2017
 ---
 
 

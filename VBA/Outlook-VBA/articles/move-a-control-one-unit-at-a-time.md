@@ -1,7 +1,8 @@
 ---
 title: Move a Control One Unit at a Time
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1839293e-3881-4bdc-2cef-72204882ff6a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LegendKey.Format Property (PowerPoint)
 keywords: vbapp10.chm712001
 f1_keywords:
 - vbapp10.chm712001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Format
 ms.assetid: 9b91b871-d6cc-f149-9268-d12cf236694c
+ms.date: 06/08/2017
 ---
 
 

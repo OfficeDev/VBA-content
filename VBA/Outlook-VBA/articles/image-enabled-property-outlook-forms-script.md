@@ -1,7 +1,8 @@
 ---
 title: Image.Enabled Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: face613c-7a9c-9b28-ff79-656b83cbdf61
+ms.date: 06/08/2017
 ---
 
 

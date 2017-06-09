@@ -3,10 +3,11 @@ title: Hyperlinks.Application Property (Publisher)
 keywords: vbapb10.chm6881281
 f1_keywords:
 - vbapb10.chm6881281
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Application
 ms.assetid: c025e261-dc0e-9445-2c89-c9e79db6b3cd
+ms.date: 06/08/2017
 ---
 
 

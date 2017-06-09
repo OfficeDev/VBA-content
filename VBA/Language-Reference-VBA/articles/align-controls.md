@@ -3,8 +3,9 @@ title: Align controls
 keywords: fm20.chm5225244
 f1_keywords:
 - fm20.chm5225244
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e25fb39b-5a41-49c8-25fb-0ea9569a7ad6
+ms.date: 06/08/2017
 ---
 
 

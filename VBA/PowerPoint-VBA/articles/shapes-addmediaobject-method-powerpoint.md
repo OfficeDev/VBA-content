@@ -3,10 +3,11 @@ title: Shapes.AddMediaObject Method (PowerPoint)
 keywords: vbapp10.chm543025
 f1_keywords:
 - vbapp10.chm543025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddMediaObject
 ms.assetid: 7e2ab704-7fd4-86d7-3f61-8d69c13b5685
+ms.date: 06/08/2017
 ---
 
 

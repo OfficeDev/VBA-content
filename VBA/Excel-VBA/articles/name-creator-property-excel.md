@@ -3,10 +3,11 @@ title: Name.Creator Property (Excel)
 keywords: vbaxl10.chm489074
 f1_keywords:
 - vbaxl10.chm489074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Creator
 ms.assetid: 90c6fe07-e941-269f-71bf-e9dc6a982629
+ms.date: 06/08/2017
 ---
 
 

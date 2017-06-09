@@ -3,10 +3,11 @@ title: RelatedShapePairEvent.ToShapeID Property (Visio)
 keywords: vis_sdr.chm17762585
 f1_keywords:
 - vis_sdr.chm17762585
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RelatedShapePairEvent.ToShapeID
 ms.assetid: cdf61ad1-244e-5605-225b-4f919c923af8
+ms.date: 06/08/2017
 ---
 
 

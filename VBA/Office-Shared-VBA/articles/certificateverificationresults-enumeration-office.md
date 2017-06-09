@@ -1,9 +1,10 @@
 ---
 title: CertificateVerificationResults Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CertificateVerificationResults
 ms.assetid: e6d4708a-ff3d-805b-d5da-455283eb297a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DefaultWebOptions.ScreenSize Property (Word)
 keywords: vbawd10.chm165871627
 f1_keywords:
 - vbawd10.chm165871627
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.ScreenSize
 ms.assetid: 21f1019f-6658-0da9-519e-adefc8356607
+ms.date: 06/08/2017
 ---
 
 

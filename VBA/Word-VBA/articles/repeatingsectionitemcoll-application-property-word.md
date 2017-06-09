@@ -3,8 +3,9 @@ title: RepeatingSectionItemColl.Application Property (Word)
 keywords: vbawd10.chm171115496
 f1_keywords:
 - vbawd10.chm171115496
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 342b3f09-b56f-b56c-6f3b-b061568d93df
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdDiacriticColor Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDiacriticColor
 ms.assetid: ff95afb2-13c0-790f-0b9a-f1a9c4fc0dd2
+ms.date: 06/08/2017
 ---
 
 

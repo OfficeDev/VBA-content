@@ -3,10 +3,11 @@ title: TabControl.OnClick Property (Access)
 keywords: vbaac10.chm12105
 f1_keywords:
 - vbaac10.chm12105
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnClick
 ms.assetid: ae3246ef-91ef-d55d-2c72-676da8a70ed4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Deleting data in a linked table is not supported by this ISAM. (Error 361
 keywords: jeterr40.chm5003617
 f1_keywords:
 - jeterr40.chm5003617
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 221f6815-36ea-2381-8980-a2f8f36ad98f
+ms.date: 06/08/2017
 ---
 
 
 # Deleting data in a linked table is not supported by this ISAM. (Error 3617)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

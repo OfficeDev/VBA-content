@@ -3,8 +3,9 @@ title: Invalid procedure call or argument (Error 5), Office Shared [vblr6.chm101
 keywords: vblr6.chm1011186
 f1_keywords:
 - vblr6.chm1011186
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a6711c83-abf6-4abc-a253-0766d1288008
+ms.date: 06/08/2017
 ---
 
 

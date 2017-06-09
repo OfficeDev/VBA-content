@@ -3,10 +3,11 @@ title: DataLabel.Text Property (Word)
 keywords: vbawd10.chm233898122
 f1_keywords:
 - vbawd10.chm233898122
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Text
 ms.assetid: c9f2119f-4657-260f-f6ec-b59eb6e44749
+ms.date: 06/08/2017
 ---
 
 

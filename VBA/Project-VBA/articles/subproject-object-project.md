@@ -1,9 +1,10 @@
 ---
 title: Subproject Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Subproject
 ms.assetid: 1a3b0d18-6464-a4f2-479f-710e19faffa8
+ms.date: 06/08/2017
 ---
 
 

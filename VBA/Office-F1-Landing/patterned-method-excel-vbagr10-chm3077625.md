@@ -3,8 +3,9 @@ title: Patterned Method, Excel [vbagr10.chm3077625]
 keywords: vbagr10.chm3077625
 f1_keywords:
 - vbagr10.chm3077625
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 677c6833-fd3a-48bd-8dae-9b14c3764a65
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartTitle.Left Property (PowerPoint)
 keywords: vbapp10.chm694005
 f1_keywords:
 - vbapp10.chm694005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Left
 ms.assetid: acba5ff8-7844-7ba1-36a3-33a5ae7b0834
+ms.date: 06/08/2017
 ---
 
 

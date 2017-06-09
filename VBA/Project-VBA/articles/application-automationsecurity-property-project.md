@@ -1,9 +1,10 @@
 ---
 title: Application.AutomationSecurity Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AutomationSecurity
 ms.assetid: 08f71d7f-37bf-c845-89c3-a69e34892efe
+ms.date: 06/08/2017
 ---
 
 

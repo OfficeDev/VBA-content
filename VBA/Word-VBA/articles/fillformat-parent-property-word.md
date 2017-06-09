@@ -3,10 +3,11 @@ title: FillFormat.Parent Property (Word)
 keywords: vbawd10.chm164102145
 f1_keywords:
 - vbawd10.chm164102145
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.Parent
 ms.assetid: febebae2-3bb6-ff15-a631-5ad650bc0a75
+ms.date: 06/08/2017
 ---
 
 

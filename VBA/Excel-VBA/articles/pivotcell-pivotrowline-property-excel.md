@@ -3,10 +3,11 @@ title: PivotCell.PivotRowLine Property (Excel)
 keywords: vbaxl10.chm692083
 f1_keywords:
 - vbaxl10.chm692083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.PivotRowLine
 ms.assetid: e7e1ed02-b401-15b1-8548-fbdeb84796fc
+ms.date: 06/08/2017
 ---
 
 

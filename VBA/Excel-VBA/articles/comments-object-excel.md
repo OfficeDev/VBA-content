@@ -3,10 +3,11 @@ title: Comments Object (Excel)
 keywords: vbaxl10.chm513072
 f1_keywords:
 - vbaxl10.chm513072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comments
 ms.assetid: f43bf021-1e46-10cf-09bf-070fc6a2c81a
+ms.date: 06/08/2017
 ---
 
 

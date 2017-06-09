@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1834
 f1_keywords:
 - vbaol11.chm1834
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.GetInspector
 ms.assetid: 8892e56a-275d-b9df-9d9d-bbfd39b98c33
+ms.date: 06/08/2017
 ---
 
 

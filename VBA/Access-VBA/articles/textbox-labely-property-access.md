@@ -3,10 +3,11 @@ title: TextBox.LabelY Property (Access)
 keywords: vbaac10.chm11101
 f1_keywords:
 - vbaac10.chm11101
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.LabelY
 ms.assetid: 398b268c-271d-566a-36a6-1d703bdb0345
+ms.date: 06/08/2017
 ---
 
 

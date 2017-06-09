@@ -3,10 +3,11 @@ title: Paragraphs.IndentCharWidth Method (Word)
 keywords: vbawd10.chm156762432
 f1_keywords:
 - vbawd10.chm156762432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.IndentCharWidth
 ms.assetid: b463c523-8c2a-0609-db53-03238b4d232a
+ms.date: 06/08/2017
 ---
 
 

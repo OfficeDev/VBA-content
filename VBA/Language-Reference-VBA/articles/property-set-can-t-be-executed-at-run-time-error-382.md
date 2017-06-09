@@ -3,8 +3,9 @@ title: Property Set can't be executed at run time (Error 382)
 keywords: vblr6.chm1000382
 f1_keywords:
 - vblr6.chm1000382
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ab039acc-a840-41e7-b5ce-b31ef1452304
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: XlColorIndex Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 2d9f944e-70ea-04aa-9943-975d603f17ba
+ms.date: 06/08/2017
 ---
 
 

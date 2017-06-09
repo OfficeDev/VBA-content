@@ -3,10 +3,11 @@ title: Application.CustomDictionaries Property (Word)
 keywords: vbawd10.chm158335071
 f1_keywords:
 - vbawd10.chm158335071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CustomDictionaries
 ms.assetid: 1c6dca90-70f0-6b52-72d1-debda33d2ba0
+ms.date: 06/08/2017
 ---
 
 

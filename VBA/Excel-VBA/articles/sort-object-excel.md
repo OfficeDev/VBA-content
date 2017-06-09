@@ -3,10 +3,11 @@ title: Sort Object (Excel)
 keywords: vbaxl10.chm846072
 f1_keywords:
 - vbaxl10.chm846072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sort
 ms.assetid: 637ee681-743c-5196-2bfc-4a5bea025295
+ms.date: 06/08/2017
 ---
 
 

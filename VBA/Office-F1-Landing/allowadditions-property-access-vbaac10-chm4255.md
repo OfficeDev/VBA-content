@@ -3,8 +3,9 @@ title: AllowAdditions Property, Access [vbaac10.chm4255]
 keywords: vbaac10.chm4255
 f1_keywords:
 - vbaac10.chm4255
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20c2a57a-1a16-46a0-9260-6d8fbc47aa1b
+ms.date: 06/08/2017
 ---
 
 

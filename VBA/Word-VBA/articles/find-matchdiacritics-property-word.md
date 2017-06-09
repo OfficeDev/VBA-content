@@ -3,10 +3,11 @@ title: Find.MatchDiacritics Property (Word)
 keywords: vbawd10.chm162529381
 f1_keywords:
 - vbawd10.chm162529381
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchDiacritics
 ms.assetid: db03ebc8-32d7-bdb4-e4fa-257045ecc48b
+ms.date: 06/08/2017
 ---
 
 

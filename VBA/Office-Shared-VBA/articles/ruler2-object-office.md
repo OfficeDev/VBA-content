@@ -1,9 +1,10 @@
 ---
 title: Ruler2 Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Ruler2
 ms.assetid: a1632624-cdae-08db-4b5d-78311dbb224a
+ms.date: 06/08/2017
 ---
 
 

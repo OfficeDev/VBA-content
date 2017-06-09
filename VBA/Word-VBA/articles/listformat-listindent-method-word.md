@@ -3,10 +3,11 @@ title: ListFormat.ListIndent Method (Word)
 keywords: vbawd10.chm163578067
 f1_keywords:
 - vbawd10.chm163578067
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.ListIndent
 ms.assetid: 2c75e457-75f7-378c-b41f-23eb7f6b73da
+ms.date: 06/08/2017
 ---
 
 

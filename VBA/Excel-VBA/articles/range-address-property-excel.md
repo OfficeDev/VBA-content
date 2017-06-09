@@ -3,10 +3,11 @@ title: Range.Address Property (Excel)
 keywords: vbaxl10.chm144076
 f1_keywords:
 - vbaxl10.chm144076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Address
 ms.assetid: aaa2432e-9bb1-4a48-3868-86455bc53938
+ms.date: 06/08/2017
 ---
 
 

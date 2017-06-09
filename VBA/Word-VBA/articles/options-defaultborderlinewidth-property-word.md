@@ -3,10 +3,11 @@ title: Options.DefaultBorderLineWidth Property (Word)
 keywords: vbawd10.chm162988316
 f1_keywords:
 - vbawd10.chm162988316
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultBorderLineWidth
 ms.assetid: ab0ab48b-c05b-9be7-810e-2c97eb8ec2b7
+ms.date: 06/08/2017
 ---
 
 

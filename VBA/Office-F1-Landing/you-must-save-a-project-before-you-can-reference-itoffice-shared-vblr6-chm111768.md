@@ -3,8 +3,9 @@ title: You must save a project before you can reference it., Office Shared [vblr
 keywords: vblr6.chm1117681
 f1_keywords:
 - vblr6.chm1117681
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7969fada-4011-4f23-9182-8a4d3cb917e0
+ms.date: 06/08/2017
 ---
 
 

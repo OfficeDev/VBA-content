@@ -3,10 +3,11 @@ title: EmptyCell.DisplayWhen Property (Access)
 keywords: vbaac10.chm14306
 f1_keywords:
 - vbaac10.chm14306
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.DisplayWhen
 ms.assetid: 571ed93a-6a13-8417-de92-5a019d895955
+ms.date: 06/08/2017
 ---
 
 

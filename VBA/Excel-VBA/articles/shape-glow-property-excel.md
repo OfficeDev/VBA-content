@@ -3,10 +3,11 @@ title: Shape.Glow Property (Excel)
 keywords: vbaxl10.chm636152
 f1_keywords:
 - vbaxl10.chm636152
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Glow
 ms.assetid: 299274f6-2285-ce40-e29b-83795368efe3
+ms.date: 06/08/2017
 ---
 
 

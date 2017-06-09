@@ -3,8 +3,9 @@ title: PutInClipboard Method, Office Shared [fm20.chm2012340]
 keywords: fm20.chm2012340
 f1_keywords:
 - fm20.chm2012340
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8fa7a928-ad49-449d-be41-8e060e86dcd0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Worksheet.PrintedCommentPages Property (Excel)
 keywords: vbaxl10.chm175164
 f1_keywords:
 - vbaxl10.chm175164
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.PrintedCommentPages
 ms.assetid: 3ade9c86-c6b9-08fa-3bc6-a040dd1da36a
+ms.date: 06/08/2017
 ---
 
 

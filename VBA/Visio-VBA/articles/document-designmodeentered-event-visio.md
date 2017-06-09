@@ -3,10 +3,11 @@ title: Document.DesignModeEntered Event (Visio)
 keywords: vis_sdr.chm10519110
 f1_keywords:
 - vis_sdr.chm10519110
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DesignModeEntered
 ms.assetid: c8fc31b5-8770-f068-d469-aeb110214824
+ms.date: 06/08/2017
 ---
 
 

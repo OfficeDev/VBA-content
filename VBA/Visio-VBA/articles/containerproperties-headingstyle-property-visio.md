@@ -3,10 +3,11 @@ title: ContainerProperties.HeadingStyle Property (Visio)
 keywords: vis_sdr.chm17662620
 f1_keywords:
 - vis_sdr.chm17662620
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.HeadingStyle
 ms.assetid: aeb0a6c8-fa7d-fe16-a756-84d092d372c1
+ms.date: 06/08/2017
 ---
 
 

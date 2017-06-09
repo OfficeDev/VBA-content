@@ -3,10 +3,11 @@ title: Watch.Source Property (Excel)
 keywords: vbaxl10.chm690074
 f1_keywords:
 - vbaxl10.chm690074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Watch.Source
 ms.assetid: d21d19fb-cef2-b1c9-b3b7-4393ccbcec8c
+ms.date: 06/08/2017
 ---
 
 

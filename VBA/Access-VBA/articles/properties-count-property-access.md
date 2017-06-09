@@ -3,10 +3,11 @@ title: Properties.Count Property (Access)
 keywords: vbaac10.chm10050
 f1_keywords:
 - vbaac10.chm10050
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Properties.Count
 ms.assetid: 00a6039e-82bf-7cfe-d7b2-9e9bdb12aa44
+ms.date: 06/08/2017
 ---
 
 

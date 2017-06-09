@@ -3,10 +3,11 @@ title: Task.UniqueIDPredecessors Property (Project)
 keywords: vbapj.chm132772
 f1_keywords:
 - vbapj.chm132772
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.UniqueIDPredecessors
 ms.assetid: e6f53dd2-1833-e081-29ee-de734efb9229
+ms.date: 06/08/2017
 ---
 
 

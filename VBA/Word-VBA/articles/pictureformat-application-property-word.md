@@ -3,10 +3,11 @@ title: PictureFormat.Application Property (Word)
 keywords: vbawd10.chm164299752
 f1_keywords:
 - vbawd10.chm164299752
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.Application
 ms.assetid: 0665e7ee-4413-be00-8719-f776ad97eefe
+ms.date: 06/08/2017
 ---
 
 

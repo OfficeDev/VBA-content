@@ -3,14 +3,15 @@ title: SQL Specific Query
 keywords: vbaac10.chm47377
 f1_keywords:
 - vbaac10.chm47377
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 506c45eb-c48e-94de-60cd-10058860b3a6
+ms.date: 06/08/2017
 ---
 
 
 # SQL Specific Query
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,8 +3,9 @@ title: PresetGradientType Property, Excel [vbagr10.chm3077578]
 keywords: vbagr10.chm3077578
 f1_keywords:
 - vbagr10.chm3077578
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6dcdb420-d7fc-4cd5-be01-a7fbf88c6423
+ms.date: 06/08/2017
 ---
 
 

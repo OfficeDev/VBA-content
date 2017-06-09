@@ -1,7 +1,8 @@
 ---
 title: Create a Recurring Appointment that Occurs Every 2 Years
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ce15c1ad-2029-413f-4f03-8206ba7b112d
+ms.date: 06/08/2017
 ---
 
 

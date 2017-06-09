@@ -3,10 +3,11 @@ title: Cell.Selected Property (PowerPoint)
 keywords: vbapp10.chm628008
 f1_keywords:
 - vbapp10.chm628008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Selected
 ms.assetid: 3773ff08-043d-2b57-25ea-ba44cc30c77a
+ms.date: 06/08/2017
 ---
 
 

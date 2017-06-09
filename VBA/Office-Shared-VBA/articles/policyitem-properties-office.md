@@ -1,7 +1,8 @@
 ---
 title: PolicyItem Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c2cfc346-53aa-4b2c-aa89-e46890364d12
+ms.date: 06/08/2017
 ---
 
 

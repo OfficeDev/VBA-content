@@ -3,10 +3,11 @@ title: CustomXMLSchema.Delete Method (Office)
 keywords: vbaof11.chm291004
 f1_keywords:
 - vbaof11.chm291004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Delete
 ms.assetid: bdd79a25-7f2f-c810-13b0-9d7dc34e9a3d
+ms.date: 06/08/2017
 ---
 
 

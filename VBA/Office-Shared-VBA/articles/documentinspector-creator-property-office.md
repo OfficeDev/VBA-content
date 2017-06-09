@@ -1,9 +1,10 @@
 ---
 title: DocumentInspector.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspector.Creator
 ms.assetid: cf0888d5-5688-912f-97ee-65a0c85d4624
+ms.date: 06/08/2017
 ---
 
 

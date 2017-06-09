@@ -3,10 +3,11 @@ title: FootnoteOptions.Parent Property (Word)
 keywords: vbawd10.chm170132458
 f1_keywords:
 - vbawd10.chm170132458
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FootnoteOptions.Parent
 ms.assetid: 816b3543-c8cf-1fac-9132-4468cca72008
+ms.date: 06/08/2017
 ---
 
 

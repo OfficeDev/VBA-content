@@ -3,10 +3,11 @@ title: PostItem.Display Method (Outlook)
 keywords: vbaol11.chm1542
 f1_keywords:
 - vbaol11.chm1542
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Display
 ms.assetid: 7be08ed2-27c4-1d4e-c7c7-82cc908ff7e2
+ms.date: 06/08/2017
 ---
 
 

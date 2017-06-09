@@ -3,10 +3,11 @@ title: DateLastAccessed Property
 keywords: vblr6.chm2181974
 f1_keywords:
 - vblr6.chm2181974
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DateLastAccessed
 ms.assetid: 33ab9638-8c76-98ca-4d48-b9f39ad71025
+ms.date: 06/08/2017
 ---
 
 

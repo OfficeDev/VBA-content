@@ -3,10 +3,11 @@ title: Document.SetCustomToolbars Method (Visio)
 keywords: vis_sdr.chm10516565
 f1_keywords:
 - vis_sdr.chm10516565
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SetCustomToolbars
 ms.assetid: fddae53c-0519-90ef-0023-ee3896e86757
+ms.date: 06/08/2017
 ---
 
 

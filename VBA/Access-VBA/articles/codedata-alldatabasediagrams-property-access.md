@@ -3,10 +3,11 @@ title: CodeData.AllDatabaseDiagrams Property (Access)
 keywords: vbaac10.chm12736
 f1_keywords:
 - vbaac10.chm12736
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeData.AllDatabaseDiagrams
 ms.assetid: 44c3de6e-ff03-4986-6ed9-ca772232509c
+ms.date: 06/08/2017
 ---
 
 

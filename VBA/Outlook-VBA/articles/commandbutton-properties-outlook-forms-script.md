@@ -1,7 +1,8 @@
 ---
 title: CommandButton Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b376f30c-3cc4-48cf-804e-abe82e10b338
+ms.date: 06/08/2017
 ---
 
 

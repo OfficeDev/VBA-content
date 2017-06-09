@@ -3,8 +3,9 @@ title: Chart.UpdateChartData Method (Project)
 keywords: vbapj.chm131637
 f1_keywords:
 - vbapj.chm131637
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: ecdef74d-480c-05a7-757c-a5c2e3e7359c
+ms.date: 06/08/2017
 ---
 
 

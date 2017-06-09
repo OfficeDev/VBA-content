@@ -3,10 +3,11 @@ title: Points Object (Excel)
 keywords: vbaxl10.chm573072
 f1_keywords:
 - vbaxl10.chm573072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Points
 ms.assetid: 918dc385-ed61-262e-033f-ba829f5ee8b2
+ms.date: 06/08/2017
 ---
 
 

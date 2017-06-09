@@ -3,10 +3,11 @@ title: CurrentProject.IsTrusted Property (Access)
 keywords: vbaac10.chm12730
 f1_keywords:
 - vbaac10.chm12730
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.IsTrusted
 ms.assetid: c3d8b6f8-c79f-79ab-d4e0-0454f97ac937
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Rectangle.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BackTint
 ms.assetid: 623b7f0d-b48d-c50f-a139-99b4853b885d
+ms.date: 06/08/2017
 ---
 
 

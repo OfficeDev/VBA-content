@@ -3,10 +3,11 @@ title: SlicerCacheLevel.Creator Property (Excel)
 keywords: vbaxl10.chm900074
 f1_keywords:
 - vbaxl10.chm900074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCacheLevel.Creator
 ms.assetid: 9d590acb-150d-3573-534d-436778fdc61b
+ms.date: 06/08/2017
 ---
 
 

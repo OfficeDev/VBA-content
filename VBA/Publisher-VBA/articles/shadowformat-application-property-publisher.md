@@ -3,10 +3,11 @@ title: ShadowFormat.Application Property (Publisher)
 keywords: vbapb10.chm3670017
 f1_keywords:
 - vbapb10.chm3670017
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.Application
 ms.assetid: a3a19b09-716b-4006-7add-a65ed0865102
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.PrintHiddenText Property (Word)
 keywords: vbawd10.chm162988066
 f1_keywords:
 - vbawd10.chm162988066
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintHiddenText
 ms.assetid: 4f047b82-884e-5109-b931-838f3742094d
+ms.date: 06/08/2017
 ---
 
 

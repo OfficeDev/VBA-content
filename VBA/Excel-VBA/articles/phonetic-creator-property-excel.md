@@ -3,10 +3,11 @@ title: Phonetic.Creator Property (Excel)
 keywords: vbaxl10.chm627074
 f1_keywords:
 - vbaxl10.chm627074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetic.Creator
 ms.assetid: 8c299ced-36f4-747c-3fa6-4f1171431b59
+ms.date: 06/08/2017
 ---
 
 

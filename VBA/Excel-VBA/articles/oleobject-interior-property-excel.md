@@ -3,10 +3,11 @@ title: OLEObject.Interior Property (Excel)
 keywords: vbaxl10.chm416074
 f1_keywords:
 - vbaxl10.chm416074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Interior
 ms.assetid: bd64730a-bedb-7df1-4de8-23fafc49c535
+ms.date: 06/08/2017
 ---
 
 

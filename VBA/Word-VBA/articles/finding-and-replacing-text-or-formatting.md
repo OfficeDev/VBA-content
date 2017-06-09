@@ -1,7 +1,8 @@
 ---
 title: Finding and Replacing Text or Formatting
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 9ab9f4a7-9833-5a78-56b0-56a161480f18
+ms.date: 06/08/2017
 ---
 
 

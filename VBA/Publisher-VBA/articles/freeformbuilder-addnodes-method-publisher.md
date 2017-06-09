@@ -3,10 +3,11 @@ title: FreeformBuilder.AddNodes Method (Publisher)
 keywords: vbapb10.chm3276816
 f1_keywords:
 - vbapb10.chm3276816
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FreeformBuilder.AddNodes
 ms.assetid: 29906bde-e6a6-f661-0f3f-085f39653e42
+ms.date: 06/08/2017
 ---
 
 

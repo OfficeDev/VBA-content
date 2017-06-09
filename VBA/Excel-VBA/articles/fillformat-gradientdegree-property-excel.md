@@ -3,10 +3,11 @@ title: FillFormat.GradientDegree Property (Excel)
 keywords: vbaxl10.chm115014
 f1_keywords:
 - vbaxl10.chm115014
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientDegree
 ms.assetid: 46529845-6ee0-def7-8dac-bb459d6ed2f0
+ms.date: 06/08/2017
 ---
 
 

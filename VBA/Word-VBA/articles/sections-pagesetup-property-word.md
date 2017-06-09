@@ -3,10 +3,11 @@ title: Sections.PageSetup Property (Word)
 keywords: vbawd10.chm156894285
 f1_keywords:
 - vbawd10.chm156894285
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.PageSetup
 ms.assetid: d6d86ddf-bb28-f2fc-49ff-7cfe04853fba
+ms.date: 06/08/2017
 ---
 
 

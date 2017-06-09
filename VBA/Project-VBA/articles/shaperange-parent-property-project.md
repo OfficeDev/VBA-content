@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 19c31bcd-cd0c-f668-ddf7-2243c23f8dd4
+ms.date: 06/08/2017
 ---
 
 

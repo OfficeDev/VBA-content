@@ -3,10 +3,11 @@ title: Attachment.OnLostFocus Property (Access)
 keywords: vbaac10.chm13944
 f1_keywords:
 - vbaac10.chm13944
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnLostFocus
 ms.assetid: 546d0491-ddb8-87d4-9f97-d68cfd96070c
+ms.date: 06/08/2017
 ---
 
 

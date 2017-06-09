@@ -3,10 +3,11 @@ title: Options.AutoFormatWord Property (Publisher)
 keywords: vbapb10.chm1048579
 f1_keywords:
 - vbapb10.chm1048579
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.AutoFormatWord
 ms.assetid: b0466bd7-f0a1-44a8-480f-5d046e24e759
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MsoBackgroundStyleIndex Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoBackgroundStyleIndex
 ms.assetid: 76a4589b-404b-0e8e-3b75-d72d65ba2987
+ms.date: 06/08/2017
 ---
 
 

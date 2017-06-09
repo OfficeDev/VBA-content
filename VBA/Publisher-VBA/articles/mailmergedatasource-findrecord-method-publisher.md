@@ -3,10 +3,11 @@ title: MailMergeDataSource.FindRecord Method (Publisher)
 keywords: vbapb10.chm6291480
 f1_keywords:
 - vbapb10.chm6291480
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.FindRecord
 ms.assetid: a4b37255-bdff-ac61-6d18-05a4fe008beb
+ms.date: 06/08/2017
 ---
 
 

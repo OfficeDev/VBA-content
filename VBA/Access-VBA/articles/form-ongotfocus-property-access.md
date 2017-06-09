@@ -3,10 +3,11 @@ title: Form.OnGotFocus Property (Access)
 keywords: vbaac10.chm13447
 f1_keywords:
 - vbaac10.chm13447
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnGotFocus
 ms.assetid: 04f2e6e2-aaa3-eb05-16ff-32d5a252df94
+ms.date: 06/08/2017
 ---
 
 

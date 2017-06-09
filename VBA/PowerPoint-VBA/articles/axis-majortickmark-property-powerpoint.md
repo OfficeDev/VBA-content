@@ -3,10 +3,11 @@ title: Axis.MajorTickMark Property (PowerPoint)
 keywords: vbapp10.chm682012
 f1_keywords:
 - vbapp10.chm682012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MajorTickMark
 ms.assetid: 82397f1c-8a0d-44dd-a9f3-3426fee03f1d
+ms.date: 06/08/2017
 ---
 
 

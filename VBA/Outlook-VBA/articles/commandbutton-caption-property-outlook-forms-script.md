@@ -1,7 +1,8 @@
 ---
 title: CommandButton.Caption Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 80dfbd73-6315-cb39-ad64-e87cf9083277
+ms.date: 06/08/2017
 ---
 
 

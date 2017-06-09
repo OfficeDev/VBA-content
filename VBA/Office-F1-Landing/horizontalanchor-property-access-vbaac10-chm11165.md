@@ -3,8 +3,9 @@ title: HorizontalAnchor Property, Access [vbaac10.chm11165]
 keywords: vbaac10.chm11165
 f1_keywords:
 - vbaac10.chm11165
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f52efb6c-22a6-4d7c-a15f-52ae2d02b67a
+ms.date: 06/08/2017
 ---
 
 

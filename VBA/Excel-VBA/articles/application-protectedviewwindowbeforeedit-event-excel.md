@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindowBeforeEdit Event (Excel)
 keywords: vbaxl10.chm504109
 f1_keywords:
 - vbaxl10.chm504109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: b823b4a4-5d2f-7caf-f66f-5053b58082e4
+ms.date: 06/08/2017
 ---
 
 

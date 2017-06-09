@@ -1,7 +1,8 @@
 ---
 title: Profiles Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 0e25c828-6482-4d68-f482-ae72c919f338
+ms.date: 06/08/2017
 ---
 
 

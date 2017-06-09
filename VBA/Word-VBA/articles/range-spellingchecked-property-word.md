@@ -3,10 +3,11 @@ title: Range.SpellingChecked Property (Word)
 keywords: vbawd10.chm157155589
 f1_keywords:
 - vbawd10.chm157155589
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.SpellingChecked
 ms.assetid: 5a58fb94-186b-d30c-bef4-d42a295fdeb6
+ms.date: 06/08/2017
 ---
 
 

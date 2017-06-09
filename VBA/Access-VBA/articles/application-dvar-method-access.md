@@ -3,10 +3,11 @@ title: Application.DVar Method (Access)
 keywords: vbaac10.chm12531
 f1_keywords:
 - vbaac10.chm12531
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DVar
 ms.assetid: e1566391-4aac-548f-6475-6a8ee63a2bb7
+ms.date: 06/08/2017
 ---
 
 

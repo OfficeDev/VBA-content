@@ -1,13 +1,14 @@
 ---
 title: Handler Property Example (VB)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e401e7b2-754b-a66c-bfcc-8f6e3966a908
+ms.date: 06/08/2017
 ---
 
 
 # Handler Property Example (VB)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

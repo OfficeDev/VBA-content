@@ -3,10 +3,11 @@ title: Master.Delete Method (PowerPoint)
 keywords: vbapp10.chm533008
 f1_keywords:
 - vbapp10.chm533008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Delete
 ms.assetid: 604d32e9-c47e-e236-de5c-7ada3e5da9ef
+ms.date: 06/08/2017
 ---
 
 

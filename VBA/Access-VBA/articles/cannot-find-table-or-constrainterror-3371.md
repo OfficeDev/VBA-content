@@ -3,14 +3,15 @@ title: Cannot find table or constraint. (Error 3371)
 keywords: jeterr40.chm5003371
 f1_keywords:
 - jeterr40.chm5003371
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ef7f482f-b4b5-8d99-29d5-ccb7402d8183
+ms.date: 06/08/2017
 ---
 
 
 # Cannot find table or constraint. (Error 3371)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

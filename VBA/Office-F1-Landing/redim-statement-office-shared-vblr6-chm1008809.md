@@ -3,8 +3,9 @@ title: ReDim Statement, Office Shared [vblr6.chm1008809]
 keywords: vblr6.chm1008809
 f1_keywords:
 - vblr6.chm1008809
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 70bab30b-ec7e-43c5-9e7c-081a7de12149
+ms.date: 06/08/2017
 ---
 
 

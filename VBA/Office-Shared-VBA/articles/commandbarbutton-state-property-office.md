@@ -3,10 +3,11 @@ title: CommandBarButton.State Property (Office)
 keywords: vbaof11.chm6006
 f1_keywords:
 - vbaof11.chm6006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.State
 ms.assetid: 919ca064-507c-1db6-6b69-b586283ab67b
+ms.date: 06/08/2017
 ---
 
 

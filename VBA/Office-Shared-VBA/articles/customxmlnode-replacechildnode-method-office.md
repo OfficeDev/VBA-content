@@ -3,10 +3,11 @@ title: CustomXMLNode.ReplaceChildNode Method (Office)
 keywords: vbaof11.chm294026
 f1_keywords:
 - vbaof11.chm294026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.ReplaceChildNode
 ms.assetid: 72d571f4-8a54-b250-ce5d-22d595ef09f4
+ms.date: 06/08/2017
 ---
 
 

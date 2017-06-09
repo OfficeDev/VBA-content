@@ -3,8 +3,9 @@ title: Member Options Dialog Box
 keywords: vbui6.chm2018963
 f1_keywords:
 - vbui6.chm2018963
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a4de999e-df54-c8b7-6f7e-aea6e88dafed
+ms.date: 06/08/2017
 ---
 
 

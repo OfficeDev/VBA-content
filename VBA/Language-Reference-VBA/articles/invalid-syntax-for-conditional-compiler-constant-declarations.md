@@ -3,8 +3,9 @@ title: Invalid syntax for conditional compiler constant declarations
 keywords: vblr6.chm1040354
 f1_keywords:
 - vblr6.chm1040354
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 815e6833-9813-5341-838d-55e0b4a4aae5
+ms.date: 06/08/2017
 ---
 
 

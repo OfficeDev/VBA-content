@@ -3,10 +3,11 @@ title: Masters.Count Property (Visio)
 keywords: vis_sdr.chm10813330
 f1_keywords:
 - vis_sdr.chm10813330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.Count
 ms.assetid: baf61642-ccf8-ad9e-b131-8741f3b2c8ba
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ResourceGroups.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Count
 ms.assetid: 637cb744-3ab8-2d48-4fd7-4e36f4a913e8
+ms.date: 06/08/2017
 ---
 
 

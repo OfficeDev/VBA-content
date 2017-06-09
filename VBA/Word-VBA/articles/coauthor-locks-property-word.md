@@ -3,10 +3,11 @@ title: CoAuthor.Locks Property (Word)
 keywords: vbawd10.chm81068036
 f1_keywords:
 - vbawd10.chm81068036
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthor.Locks
 ms.assetid: 9f502e4e-2414-0232-78d0-5ce64d4297f0
+ms.date: 06/08/2017
 ---
 
 

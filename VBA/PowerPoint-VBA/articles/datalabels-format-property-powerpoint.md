@@ -3,10 +3,11 @@ title: DataLabels.Format Property (PowerPoint)
 keywords: vbapp10.chm697001
 f1_keywords:
 - vbapp10.chm697001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Format
 ms.assetid: 1740e54f-6855-a936-bbcc-1cf08cdcc45d
+ms.date: 06/08/2017
 ---
 
 

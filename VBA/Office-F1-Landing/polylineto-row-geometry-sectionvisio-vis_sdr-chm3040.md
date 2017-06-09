@@ -3,8 +3,9 @@ title: PolylineTo Row (Geometry Section), Visio [vis_sdr.chm3040]
 keywords: vis_sdr.chm3040
 f1_keywords:
 - vis_sdr.chm3040
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa2d595c-2ce7-4121-bd55-d44aa762e179
+ms.date: 06/08/2017
 ---
 
 

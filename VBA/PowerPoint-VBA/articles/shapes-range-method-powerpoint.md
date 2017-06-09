@@ -3,10 +3,11 @@ title: Shapes.Range Method (PowerPoint)
 keywords: vbapp10.chm543017
 f1_keywords:
 - vbapp10.chm543017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Range
 ms.assetid: 5ee926d9-5b30-a26b-7365-f4709a1a7bdb
+ms.date: 06/08/2017
 ---
 
 

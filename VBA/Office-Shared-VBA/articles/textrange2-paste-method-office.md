@@ -1,9 +1,10 @@
 ---
 title: TextRange2.Paste Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Paste
 ms.assetid: b22e0628-f137-9018-5b50-a804c07933dd
+ms.date: 06/08/2017
 ---
 
 

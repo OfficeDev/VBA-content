@@ -1,9 +1,10 @@
 ---
 title: SmartArtQuickStyles.Item Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Item
 ms.assetid: 76a857ad-0d8e-b124-bdab-b2394b628cb5
+ms.date: 06/08/2017
 ---
 
 

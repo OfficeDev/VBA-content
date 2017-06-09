@@ -3,8 +3,9 @@ title: Incorrect DLL version, Office Shared [vblr6.chm1040190]
 keywords: vblr6.chm1040190
 f1_keywords:
 - vblr6.chm1040190
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29dad2bf-435f-41af-b427-ae3a120d31c3
+ms.date: 06/08/2017
 ---
 
 

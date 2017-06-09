@@ -3,10 +3,11 @@ title: SharingItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm679
 f1_keywords:
 - vbaol11.chm679
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.MarkForDownload
 ms.assetid: 0bdeeb91-981c-9a32-62ed-a0ea6cd4c559
+ms.date: 06/08/2017
 ---
 
 

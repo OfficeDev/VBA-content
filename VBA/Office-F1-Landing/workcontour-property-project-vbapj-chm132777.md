@@ -3,8 +3,9 @@ title: WorkContour Property, Project [vbapj.chm132777]
 keywords: vbapj.chm132777
 f1_keywords:
 - vbapj.chm132777
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 44ba4cb7-2842-487c-a90a-ccefc768f424
+ms.date: 06/08/2017
 ---
 
 

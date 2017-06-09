@@ -3,14 +3,15 @@ title: There is no field named <name> in table <name>. (Error 3381)
 keywords: jeterr40.chm5003381
 f1_keywords:
 - jeterr40.chm5003381
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: edf801df-10f8-35b7-2edc-38af3be49c05
+ms.date: 06/08/2017
 ---
 
 
 # There is no field named <name> in table <name>. (Error 3381)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

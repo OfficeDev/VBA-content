@@ -3,10 +3,11 @@ title: OlFolderDisplayMode Enumeration (Outlook)
 keywords: vbaol11.chm3059
 f1_keywords:
 - vbaol11.chm3059
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFolderDisplayMode
 ms.assetid: 90ab0507-7096-4075-72c1-bc56de25bbf2
+ms.date: 06/08/2017
 ---
 
 

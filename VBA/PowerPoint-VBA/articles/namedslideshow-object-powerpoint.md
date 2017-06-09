@@ -3,10 +3,11 @@ title: NamedSlideShow Object (PowerPoint)
 keywords: vbapp10.chm516000
 f1_keywords:
 - vbapp10.chm516000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow
 ms.assetid: 2f5ddeeb-ecf5-50da-99b9-b38e789fd5bb
+ms.date: 06/08/2017
 ---
 
 

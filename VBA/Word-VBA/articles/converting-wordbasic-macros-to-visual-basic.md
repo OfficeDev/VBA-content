@@ -3,8 +3,9 @@ title: Converting WordBasic Macros to Visual Basic
 keywords: vbawd10.chm5210330
 f1_keywords:
 - vbawd10.chm5210330
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 44a08969-f0e9-291e-7663-b7cc2e3660db
+ms.date: 06/08/2017
 ---
 
 

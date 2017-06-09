@@ -3,10 +3,11 @@ title: Form.OnLoad Property (Access)
 keywords: vbaac10.chm13441
 f1_keywords:
 - vbaac10.chm13441
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnLoad
 ms.assetid: 8614f8a8-b5ca-6fa6-46b2-7e88d8a8137d
+ms.date: 06/08/2017
 ---
 
 

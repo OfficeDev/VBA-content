@@ -3,14 +3,15 @@ title: An action query cannot be used as a row source. (Error 3417)
 keywords: jeterr40.chm5003417
 f1_keywords:
 - jeterr40.chm5003417
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 753c7b24-51b6-7b0d-e46f-fb8a3d230d0e
+ms.date: 06/08/2017
 ---
 
 
 # An action query cannot be used as a row source. (Error 3417)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

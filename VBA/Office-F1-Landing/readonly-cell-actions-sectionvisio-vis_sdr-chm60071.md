@@ -3,8 +3,9 @@ title: ReadOnly Cell (Actions Section), Visio [vis_sdr.chm60071]
 keywords: vis_sdr.chm60071
 f1_keywords:
 - vis_sdr.chm60071
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d63b7d2b-ac30-47e2-9d96-a88f547dbbcf
+ms.date: 06/08/2017
 ---
 
 

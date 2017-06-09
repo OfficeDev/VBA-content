@@ -3,10 +3,11 @@ title: Application.ColumnAlignment Method (Project)
 keywords: vbapj.chm2325
 f1_keywords:
 - vbapj.chm2325
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ColumnAlignment
 ms.assetid: 9c51eb2d-c28b-cb00-57e5-1643093e4acb
+ms.date: 06/08/2017
 ---
 
 

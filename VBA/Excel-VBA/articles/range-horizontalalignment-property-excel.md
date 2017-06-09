@@ -3,10 +3,11 @@ title: Range.HorizontalAlignment Property (Excel)
 keywords: vbaxl10.chm144146
 f1_keywords:
 - vbaxl10.chm144146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.HorizontalAlignment
 ms.assetid: 6689de5b-60de-07db-d2b4-114f0a343ebc
+ms.date: 06/08/2017
 ---
 
 

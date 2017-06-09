@@ -3,10 +3,11 @@ title: MappedDataFields.Count Property (Word)
 keywords: vbawd10.chm135528449
 f1_keywords:
 - vbawd10.chm135528449
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MappedDataFields.Count
 ms.assetid: 0009fa45-2d3f-7571-fa62-eef9f0631ffd
+ms.date: 06/08/2017
 ---
 
 

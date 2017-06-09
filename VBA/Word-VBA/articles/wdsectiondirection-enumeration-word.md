@@ -1,9 +1,10 @@
 ---
 title: WdSectionDirection Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSectionDirection
 ms.assetid: 79787425-3169-6340-0977-edac0ca44857
+ms.date: 06/08/2017
 ---
 
 

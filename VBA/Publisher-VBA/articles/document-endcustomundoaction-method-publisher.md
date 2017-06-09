@@ -3,10 +3,11 @@ title: Document.EndCustomUndoAction Method (Publisher)
 keywords: vbapb10.chm196710
 f1_keywords:
 - vbapb10.chm196710
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.EndCustomUndoAction
 ms.assetid: 5b703366-8d0e-1bbc-3320-a2fea99468c3
+ms.date: 06/08/2017
 ---
 
 

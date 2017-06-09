@@ -3,10 +3,11 @@ title: OLEFormat.DoVerb Method (Publisher)
 keywords: vbapb10.chm4456455
 f1_keywords:
 - vbapb10.chm4456455
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.OLEFormat.DoVerb
 ms.assetid: c4bca1f2-a3dd-0c49-1268-40e68e1fcef0
+ms.date: 06/08/2017
 ---
 
 

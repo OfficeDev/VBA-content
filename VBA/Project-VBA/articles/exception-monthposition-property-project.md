@@ -1,9 +1,10 @@
 ---
 title: Exception.MonthPosition Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.MonthPosition
 ms.assetid: afe3c243-5b4d-1e10-cd07-2f36f2447ba5
+ms.date: 06/08/2017
 ---
 
 

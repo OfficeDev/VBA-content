@@ -3,10 +3,11 @@ title: PlotArea Object (PowerPoint)
 keywords: vbapp10.chm713000
 f1_keywords:
 - vbapp10.chm713000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea
 ms.assetid: c1b991b8-8be2-5342-8b5c-814a2e99fec2
+ms.date: 06/08/2017
 ---
 
 

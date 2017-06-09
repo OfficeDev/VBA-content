@@ -3,8 +3,9 @@ title: HasDisplayUnitLabel Property, Excel [vbagr10.chm67317]
 keywords: vbagr10.chm67317
 f1_keywords:
 - vbagr10.chm67317
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b746c54a-ed28-4302-b1e2-61f3c2595116
+ms.date: 06/08/2017
 ---
 
 

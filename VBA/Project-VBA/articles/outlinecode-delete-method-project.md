@@ -1,9 +1,10 @@
 ---
 title: OutlineCode.Delete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.Delete
 ms.assetid: 59aa584c-5593-737e-276b-6a61ae2986e2
+ms.date: 06/08/2017
 ---
 
 

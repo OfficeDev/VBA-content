@@ -3,10 +3,11 @@ title: TablesOfAuthorities.Format Property (Word)
 keywords: vbawd10.chm152174594
 f1_keywords:
 - vbawd10.chm152174594
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.Format
 ms.assetid: e0633bd6-b563-4c68-9ecb-b57be312ed06
+ms.date: 06/08/2017
 ---
 
 

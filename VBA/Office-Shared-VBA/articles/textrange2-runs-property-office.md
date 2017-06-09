@@ -1,9 +1,10 @@
 ---
 title: TextRange2.Runs Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Runs
 ms.assetid: 5398a676-67a9-315f-193c-62602f27c377
+ms.date: 06/08/2017
 ---
 
 

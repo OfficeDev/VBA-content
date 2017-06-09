@@ -3,8 +3,9 @@ title: Refer to Multiple Ranges
 keywords: vbaxl10.chm5204435
 f1_keywords:
 - vbaxl10.chm5204435
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 11ac8eec-c754-d4e9-373c-84f04355d198
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TabIndex Property, Office Shared [fm20.chm5225098]
 keywords: fm20.chm5225098
 f1_keywords:
 - fm20.chm5225098
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a0796004-0863-4b38-9563-0b5c5aba1436
+ms.date: 06/08/2017
 ---
 
 

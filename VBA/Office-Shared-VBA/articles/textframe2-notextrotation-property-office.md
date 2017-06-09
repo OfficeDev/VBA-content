@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.NoTextRotation Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.NoTextRotation
 ms.assetid: a20eae43-cc72-5dc5-c240-a3e9f7aa3a18
+ms.date: 06/08/2017
 ---
 
 

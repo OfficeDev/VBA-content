@@ -1,9 +1,10 @@
 ---
 title: PredecessorDrivers.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PredecessorDrivers.Parent
 ms.assetid: ef4efae1-c5d7-4fe0-0841-2506a2b1a4db
+ms.date: 06/08/2017
 ---
 
 

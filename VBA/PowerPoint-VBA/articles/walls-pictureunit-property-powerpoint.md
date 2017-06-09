@@ -3,10 +3,11 @@ title: Walls.PictureUnit Property (PowerPoint)
 keywords: vbapp10.chm65698
 f1_keywords:
 - vbapp10.chm65698
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.PictureUnit
 ms.assetid: bb511827-9dd0-f08d-280b-19c0787028fc
+ms.date: 06/08/2017
 ---
 
 

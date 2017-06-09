@@ -3,10 +3,11 @@ title: Chart.GapDepth Property (PowerPoint)
 keywords: vbapp10.chm684030
 f1_keywords:
 - vbapp10.chm684030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.GapDepth
 ms.assetid: e25fdb39-735f-6158-2628-b0696c08b733
+ms.date: 06/08/2017
 ---
 
 

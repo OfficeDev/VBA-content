@@ -3,10 +3,11 @@ title: Window.SetFocus Method (Word)
 keywords: vbawd10.chm157417581
 f1_keywords:
 - vbawd10.chm157417581
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.SetFocus
 ms.assetid: d6cf90ff-b62e-340d-140b-7d546d1f85a3
+ms.date: 06/08/2017
 ---
 
 

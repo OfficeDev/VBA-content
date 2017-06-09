@@ -3,10 +3,11 @@ title: ShapeRange.ThreeD Property (PowerPoint)
 keywords: vbapp10.chm548036
 f1_keywords:
 - vbapp10.chm548036
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ThreeD
 ms.assetid: e0e2f72d-639b-86fd-2191-f537ddcd45ad
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Rules.Create Method (Outlook)
 keywords: vbaol11.chm2160
 f1_keywords:
 - vbaol11.chm2160
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rules.Create
 ms.assetid: 84789ccc-a6c2-9f79-5338-45b03b116dd5
+ms.date: 06/08/2017
 ---
 
 

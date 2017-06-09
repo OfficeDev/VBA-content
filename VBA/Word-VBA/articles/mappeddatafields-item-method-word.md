@@ -3,10 +3,11 @@ title: MappedDataFields.Item Method (Word)
 keywords: vbawd10.chm135528448
 f1_keywords:
 - vbawd10.chm135528448
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MappedDataFields.Item
 ms.assetid: 65af7865-37bb-c3bc-5381-9cc7a56e3901
+ms.date: 06/08/2017
 ---
 
 

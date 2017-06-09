@@ -3,10 +3,11 @@ title: Selection.BoundingBox Method (Visio)
 keywords: vis_sdr.chm11116090
 f1_keywords:
 - vis_sdr.chm11116090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.BoundingBox
 ms.assetid: 5ec076c3-5720-9215-16ef-8da0e674f86f
+ms.date: 06/08/2017
 ---
 
 

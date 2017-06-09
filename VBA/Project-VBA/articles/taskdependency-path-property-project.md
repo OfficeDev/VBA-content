@@ -1,9 +1,10 @@
 ---
 title: TaskDependency.Path Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependency.Path
 ms.assetid: d6007a61-9079-7a19-93ea-94f3d6e880f1
+ms.date: 06/08/2017
 ---
 
 

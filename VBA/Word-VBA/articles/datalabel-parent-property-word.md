@@ -3,10 +3,11 @@ title: DataLabel.Parent Property (Word)
 keywords: vbawd10.chm233898134
 f1_keywords:
 - vbawd10.chm233898134
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Parent
 ms.assetid: 2165c642-1022-85e9-b558-634427d5d21f
+ms.date: 06/08/2017
 ---
 
 

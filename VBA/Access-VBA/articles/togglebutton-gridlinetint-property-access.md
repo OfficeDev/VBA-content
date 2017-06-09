@@ -3,10 +3,11 @@ title: ToggleButton.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineTint
 ms.assetid: 9ad9a972-2b67-94ae-77a2-5b1410b94639
+ms.date: 06/08/2017
 ---
 
 

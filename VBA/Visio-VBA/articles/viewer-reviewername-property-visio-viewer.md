@@ -1,9 +1,10 @@
 ---
 title: Viewer.ReviewerName Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ReviewerName
 ms.assetid: 69127a8e-bb16-1162-e3a1-d4fd0288dc5c
+ms.date: 06/08/2017
 ---
 
 

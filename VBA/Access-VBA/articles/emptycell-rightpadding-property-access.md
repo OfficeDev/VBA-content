@@ -3,10 +3,11 @@ title: EmptyCell.RightPadding Property (Access)
 keywords: vbaac10.chm14329
 f1_keywords:
 - vbaac10.chm14329
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.RightPadding
 ms.assetid: 25191897-1093-6d5c-638e-e4ece1e813bb
+ms.date: 06/08/2017
 ---
 
 

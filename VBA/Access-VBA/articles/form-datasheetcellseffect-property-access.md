@@ -3,10 +3,11 @@ title: Form.DatasheetCellsEffect Property (Access)
 keywords: vbaac10.chm13404
 f1_keywords:
 - vbaac10.chm13404
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetCellsEffect
 ms.assetid: 3820b218-37b0-d5b5-bae2-8a179cc9b87a
+ms.date: 06/08/2017
 ---
 
 

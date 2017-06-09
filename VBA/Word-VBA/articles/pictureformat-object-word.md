@@ -3,10 +3,11 @@ title: PictureFormat Object (Word)
 keywords: vbawd10.chm2507
 f1_keywords:
 - vbawd10.chm2507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat
 ms.assetid: 79556e36-81bb-f8df-45ef-c040df709497
+ms.date: 06/08/2017
 ---
 
 

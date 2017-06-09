@@ -1,9 +1,10 @@
 ---
 title: AppointmentItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AttachmentRemove
 ms.assetid: db3778f6-3cf4-0830-909a-0b3171b6d605
+ms.date: 06/08/2017
 ---
 
 

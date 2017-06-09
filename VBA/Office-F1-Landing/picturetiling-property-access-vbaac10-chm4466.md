@@ -3,8 +3,9 @@ title: PictureTiling Property, Access [vbaac10.chm4466]
 keywords: vbaac10.chm4466
 f1_keywords:
 - vbaac10.chm4466
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2e2fa0f9-7f5a-42c7-b598-ac926befedd3
+ms.date: 06/08/2017
 ---
 
 

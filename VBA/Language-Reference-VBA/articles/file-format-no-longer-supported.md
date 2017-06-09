@@ -3,8 +3,9 @@ title: File format no longer supported
 keywords: vblr6.chm1032793
 f1_keywords:
 - vblr6.chm1032793
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9bb983a8-8627-13c9-ff7d-89428d53f5b8
+ms.date: 06/08/2017
 ---
 
 

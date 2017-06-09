@@ -3,8 +3,9 @@ title: Expected End With
 keywords: vblr6.chm1040135
 f1_keywords:
 - vblr6.chm1040135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02a23478-d656-da99-dbd6-e8692b6d5394
+ms.date: 06/08/2017
 ---
 
 

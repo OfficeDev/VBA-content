@@ -3,16 +3,17 @@ title: UniqueValues Property
 keywords: vbaac10.chm4531
 f1_keywords:
 - vbaac10.chm4531
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.UniqueValues
 ms.assetid: 41e403b9-a94a-252c-7561-51ac2df4cf0c
+ms.date: 06/08/2017
 ---
 
 
 # UniqueValues Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

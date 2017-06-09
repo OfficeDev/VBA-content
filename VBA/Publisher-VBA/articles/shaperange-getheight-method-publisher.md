@@ -3,10 +3,11 @@ title: ShapeRange.GetHeight Method (Publisher)
 keywords: vbapb10.chm2293784
 f1_keywords:
 - vbapb10.chm2293784
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.GetHeight
 ms.assetid: 63501bf7-c24d-b58e-e4c5-c8a229f07c4e
+ms.date: 06/08/2017
 ---
 
 

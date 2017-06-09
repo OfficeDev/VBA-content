@@ -1,7 +1,8 @@
 ---
 title: TextBox.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 027f1d94-9579-60e0-1c62-63e8be3a5dbe
+ms.date: 06/08/2017
 ---
 
 

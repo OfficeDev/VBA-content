@@ -3,10 +3,11 @@ title: Research.IsResearchService Method (PowerPoint)
 keywords: vbapp10.chm676005
 f1_keywords:
 - vbapp10.chm676005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Research.IsResearchService
 ms.assetid: d2d80f68-8693-3477-e7b5-8b650477cb1b
+ms.date: 06/08/2017
 ---
 
 

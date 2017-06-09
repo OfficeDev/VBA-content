@@ -3,10 +3,11 @@ title: TabStops.Application Property (Word)
 keywords: vbawd10.chm156566504
 f1_keywords:
 - vbawd10.chm156566504
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStops.Application
 ms.assetid: 5309f695-c2f6-1609-6d2b-9c2efd8d88ab
+ms.date: 06/08/2017
 ---
 
 

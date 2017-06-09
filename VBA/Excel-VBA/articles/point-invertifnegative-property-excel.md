@@ -3,10 +3,11 @@ title: Point.InvertIfNegative Property (Excel)
 keywords: vbaxl10.chm576083
 f1_keywords:
 - vbaxl10.chm576083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.InvertIfNegative
 ms.assetid: 5fdbfcb8-3d22-6ea2-6354-87f2107d31cb
+ms.date: 06/08/2017
 ---
 
 

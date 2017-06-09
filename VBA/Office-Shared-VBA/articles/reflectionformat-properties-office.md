@@ -1,7 +1,8 @@
 ---
 title: ReflectionFormat Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 06ef48f2-0d8b-46a3-a6a9-c751c5544340
+ms.date: 06/08/2017
 ---
 
 

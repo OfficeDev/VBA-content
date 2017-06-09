@@ -3,10 +3,11 @@ title: NavigationGroup.Name Property (Outlook)
 keywords: vbaol11.chm2888
 f1_keywords:
 - vbaol11.chm2888
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroup.Name
 ms.assetid: ad66ef0a-1348-372a-f98a-d43171856b35
+ms.date: 06/08/2017
 ---
 
 

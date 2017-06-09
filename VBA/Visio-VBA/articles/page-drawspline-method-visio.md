@@ -3,10 +3,11 @@ title: Page.DrawSpline Method (Visio)
 keywords: vis_sdr.chm10916230
 f1_keywords:
 - vis_sdr.chm10916230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawSpline
 ms.assetid: a75d7f02-5bfd-f341-ca24-06762e56aca3
+ms.date: 06/08/2017
 ---
 
 

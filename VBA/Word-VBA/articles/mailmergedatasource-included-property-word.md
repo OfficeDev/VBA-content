@@ -3,10 +3,11 @@ title: MailMergeDataSource.Included Property (Word)
 keywords: vbawd10.chm152895501
 f1_keywords:
 - vbawd10.chm152895501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.Included
 ms.assetid: 7d82056d-111c-27ce-a61c-be5876ee47df
+ms.date: 06/08/2017
 ---
 
 

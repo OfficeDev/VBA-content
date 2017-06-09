@@ -1,9 +1,10 @@
 ---
 title: LegendKey.MarkerSize Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerSize
 ms.assetid: 712765a9-5a9a-5712-fc12-e1a477d1080c
+ms.date: 06/08/2017
 ---
 
 

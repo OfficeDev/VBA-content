@@ -3,10 +3,11 @@ title: Range.ID Property (Excel)
 keywords: vbaxl10.chm144231
 f1_keywords:
 - vbaxl10.chm144231
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ID
 ms.assetid: 0ff7f261-8829-2858-5097-a638c01e5f3c
+ms.date: 06/08/2017
 ---
 
 

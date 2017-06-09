@@ -3,10 +3,11 @@ title: Selection.Duplicate Method (Visio)
 keywords: vis_sdr.chm11116245
 f1_keywords:
 - vis_sdr.chm11116245
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Duplicate
 ms.assetid: 515b522c-8b99-ea51-822f-47f0de24d330
+ms.date: 06/08/2017
 ---
 
 

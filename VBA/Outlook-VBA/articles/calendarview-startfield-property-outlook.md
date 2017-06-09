@@ -3,10 +3,11 @@ title: CalendarView.StartField Property (Outlook)
 keywords: vbaol11.chm2625
 f1_keywords:
 - vbaol11.chm2625
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.StartField
 ms.assetid: 085c6605-0bff-98a5-fb48-ce32b76037db
+ms.date: 06/08/2017
 ---
 
 

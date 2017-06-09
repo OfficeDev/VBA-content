@@ -3,10 +3,11 @@ title: DataTable.Delete Method (PowerPoint)
 keywords: vbapp10.chm698008
 f1_keywords:
 - vbapp10.chm698008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.Delete
 ms.assetid: 9080007e-8851-d056-77ca-288aba14c92d
+ms.date: 06/08/2017
 ---
 
 

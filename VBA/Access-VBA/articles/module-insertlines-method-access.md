@@ -3,10 +3,11 @@ title: Module.InsertLines Method (Access)
 keywords: vbaac10.chm12277
 f1_keywords:
 - vbaac10.chm12277
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.InsertLines
 ms.assetid: 54ea5ce3-fb2a-e9c7-85ef-8861141f63ec
+ms.date: 06/08/2017
 ---
 
 

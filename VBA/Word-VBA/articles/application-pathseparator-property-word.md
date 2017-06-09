@@ -3,10 +3,11 @@ title: Application.PathSeparator Property (Word)
 keywords: vbawd10.chm158335072
 f1_keywords:
 - vbawd10.chm158335072
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PathSeparator
 ms.assetid: 29347a13-8edb-0b02-32c3-d091eb52c9f1
+ms.date: 06/08/2017
 ---
 
 

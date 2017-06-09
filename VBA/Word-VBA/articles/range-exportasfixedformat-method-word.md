@@ -3,10 +3,11 @@ title: Range.ExportAsFixedFormat Method (Word)
 keywords: vbawd10.chm157155831
 f1_keywords:
 - vbawd10.chm157155831
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ExportAsFixedFormat
 ms.assetid: d1cf9c7d-f2f3-1962-eccf-262568a56ad9
+ms.date: 06/08/2017
 ---
 
 

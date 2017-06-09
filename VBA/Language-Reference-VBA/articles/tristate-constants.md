@@ -3,8 +3,9 @@ title: Tristate Constants
 keywords: vblr6.chm1012532
 f1_keywords:
 - vblr6.chm1012532
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 026855fb-2278-4c7b-b748-7e03bac959d2
+ms.date: 06/08/2017
 ---
 
 

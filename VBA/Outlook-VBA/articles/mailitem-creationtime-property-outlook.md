@@ -3,10 +3,11 @@ title: MailItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm1302
 f1_keywords:
 - vbaol11.chm1302
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.CreationTime
 ms.assetid: 83abef63-4f39-d9dc-9dea-a7365a6461d7
+ms.date: 06/08/2017
 ---
 
 

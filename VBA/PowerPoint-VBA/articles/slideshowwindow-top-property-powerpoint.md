@@ -3,10 +3,11 @@ title: SlideShowWindow.Top Property (PowerPoint)
 keywords: vbapp10.chm507007
 f1_keywords:
 - vbapp10.chm507007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Top
 ms.assetid: 32022226-15ac-01d4-4e66-f9115e477826
+ms.date: 06/08/2017
 ---
 
 

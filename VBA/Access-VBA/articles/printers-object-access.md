@@ -3,10 +3,11 @@ title: Printers Object (Access)
 keywords: vbaac10.chm12881
 f1_keywords:
 - vbaac10.chm12881
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printers
 ms.assetid: 5200c507-75ae-f9a8-c737-c28e175e7ea4
+ms.date: 06/08/2017
 ---
 
 

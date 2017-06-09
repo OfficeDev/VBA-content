@@ -3,10 +3,11 @@ title: Application.Evaluate Method (Excel)
 keywords: vbaxl10.chm132095
 f1_keywords:
 - vbaxl10.chm132095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Evaluate
 ms.assetid: 031ce9e0-a7af-30f3-aa9f-fc776d8bf146
+ms.date: 06/08/2017
 ---
 
 

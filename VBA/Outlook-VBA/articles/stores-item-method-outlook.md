@@ -3,10 +3,11 @@ title: Stores.Item Method (Outlook)
 keywords: vbaol11.chm819
 f1_keywords:
 - vbaol11.chm819
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Stores.Item
 ms.assetid: b516241a-7baf-b04b-027d-25de80058fbe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AnimationPoints.Item Method (PowerPoint)
 keywords: vbapp10.chm663003
 f1_keywords:
 - vbapp10.chm663003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoints.Item
 ms.assetid: dc322b2e-a557-2277-ba89-1dec0b5dd9d8
+ms.date: 06/08/2017
 ---
 
 

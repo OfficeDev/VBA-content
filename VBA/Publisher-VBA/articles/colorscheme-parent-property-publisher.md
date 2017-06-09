@@ -3,10 +3,11 @@ title: ColorScheme.Parent Property (Publisher)
 keywords: vbapb10.chm2686980
 f1_keywords:
 - vbapb10.chm2686980
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorScheme.Parent
 ms.assetid: c0564d95-bf77-9828-eae6-826cb06277a5
+ms.date: 06/08/2017
 ---
 
 

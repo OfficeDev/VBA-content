@@ -1,13 +1,14 @@
 ---
 title: Field <name> already exists in table <name>. (Error 3380)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fb9cf66a-e93a-dda8-47c7-5b1a0046a14c
+ms.date: 06/08/2017
 ---
 
 
 # Field <name> already exists in table <name>. (Error 3380)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

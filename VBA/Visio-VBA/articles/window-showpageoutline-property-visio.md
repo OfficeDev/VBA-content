@@ -3,10 +3,11 @@ title: Window.ShowPageOutline Property (Visio)
 keywords: vis_sdr.chm11651615
 f1_keywords:
 - vis_sdr.chm11651615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.ShowPageOutline
 ms.assetid: 0e1f0413-1619-0e4f-ad44-e810ee2a38d1
+ms.date: 06/08/2017
 ---
 
 

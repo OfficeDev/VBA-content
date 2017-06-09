@@ -3,10 +3,11 @@ title: Options.HyphenationZone Property (Publisher)
 keywords: vbapb10.chm1048593
 f1_keywords:
 - vbapb10.chm1048593
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.HyphenationZone
 ms.assetid: ed0e90de-4a2a-3c8a-27f1-e8c7c1f0e174
+ms.date: 06/08/2017
 ---
 
 

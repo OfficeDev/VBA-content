@@ -3,10 +3,11 @@ title: ScratchArea Object (Publisher)
 keywords: vbapb10.chm1245183
 f1_keywords:
 - vbapb10.chm1245183
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ScratchArea
 ms.assetid: 41856866-c1d8-2550-1b4c-28886ed2b714
+ms.date: 06/08/2017
 ---
 
 

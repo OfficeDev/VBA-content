@@ -1,9 +1,10 @@
 ---
 title: Application.ProjectAssignmentNew Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectAssignmentNew
 ms.assetid: dcb4acc6-a113-1e93-5f08-e9e68b902b96
+ms.date: 06/08/2017
 ---
 
 

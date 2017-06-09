@@ -3,10 +3,11 @@ title: NavigationButton.OnEnter Property (Access)
 keywords: vbaac10.chm10493
 f1_keywords:
 - vbaac10.chm10493
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnEnter
 ms.assetid: 3da3f669-1314-97af-bd01-b1e4848f3a13
+ms.date: 06/08/2017
 ---
 
 

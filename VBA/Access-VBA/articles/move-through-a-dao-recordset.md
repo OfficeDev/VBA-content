@@ -1,7 +1,8 @@
 ---
 title: Move Through a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7d788b60-c6e8-dea7-68fe-01b893fc3374
+ms.date: 06/08/2017
 ---
 
 

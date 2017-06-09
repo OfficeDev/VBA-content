@@ -3,14 +3,15 @@ title: Unknown function name. (Error 2425)
 keywords: jeterr40.chm5002425
 f1_keywords:
 - jeterr40.chm5002425
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f10f2006-d9dd-4b4a-dd55-2cfc629037ee
+ms.date: 06/08/2017
 ---
 
 
 # Unknown function name. (Error 2425)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

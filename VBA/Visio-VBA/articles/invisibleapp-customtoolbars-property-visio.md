@@ -3,10 +3,11 @@ title: InvisibleApp.CustomToolbars Property (Visio)
 keywords: vis_sdr.chm17513355
 f1_keywords:
 - vis_sdr.chm17513355
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CustomToolbars
 ms.assetid: 0f237eec-3d1b-329c-8f39-3dcc49f98570
+ms.date: 06/08/2017
 ---
 
 

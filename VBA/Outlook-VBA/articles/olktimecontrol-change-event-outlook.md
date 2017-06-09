@@ -3,10 +3,11 @@ title: OlkTimeControl.Change Event (Outlook)
 keywords: vbaol11.chm1000411
 f1_keywords:
 - vbaol11.chm1000411
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.Change
 ms.assetid: 8d175180-cd2e-e69d-5b41-791909754895
+ms.date: 06/08/2017
 ---
 
 

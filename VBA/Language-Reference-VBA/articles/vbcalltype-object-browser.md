@@ -3,8 +3,9 @@ title: VbCallType (Object Browser)
 keywords: vblr6.chm1113633
 f1_keywords:
 - vblr6.chm1113633
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c8d05077-e21a-2e20-1344-c21b37a65cd1
+ms.date: 06/08/2017
 ---
 
 

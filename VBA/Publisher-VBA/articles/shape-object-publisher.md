@@ -3,10 +3,11 @@ title: Shape Object (Publisher)
 keywords: vbapb10.chm2293759
 f1_keywords:
 - vbapb10.chm2293759
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape
 ms.assetid: 666cb7f0-62a8-f419-9838-007ef29506ee
+ms.date: 06/08/2017
 ---
 
 

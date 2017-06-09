@@ -1,7 +1,8 @@
 ---
 title: TextBox.Locked Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c4fee2bb-f608-fa77-d94e-44bbb471c85e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TimelineState.SingleRangeFilterState Property (Excel)
 keywords: vbaxl10.chm950078
 f1_keywords:
 - vbaxl10.chm950078
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: aca37428-83e9-cb54-f32a-675dfcac5d9f
+ms.date: 06/08/2017
 ---
 
 

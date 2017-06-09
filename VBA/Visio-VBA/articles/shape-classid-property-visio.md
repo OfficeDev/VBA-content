@@ -3,10 +3,11 @@ title: Shape.ClassID Property (Visio)
 keywords: vis_sdr.chm11213240
 f1_keywords:
 - vis_sdr.chm11213240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ClassID
 ms.assetid: b3cb2f9c-1247-9799-69f3-5374a112af95
+ms.date: 06/08/2017
 ---
 
 

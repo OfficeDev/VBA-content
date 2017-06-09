@@ -3,10 +3,11 @@ title: CommandButton.OnKeyUp Property (Access)
 keywords: vbaac10.chm10503
 f1_keywords:
 - vbaac10.chm10503
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnKeyUp
 ms.assetid: dc4ad60c-4ba5-bf80-2e83-ee75da462e27
+ms.date: 06/08/2017
 ---
 
 

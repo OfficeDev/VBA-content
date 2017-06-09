@@ -3,10 +3,11 @@ title: WebOptions.Creator Property (Word)
 keywords: vbawd10.chm165938153
 f1_keywords:
 - vbawd10.chm165938153
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.Creator
 ms.assetid: ffdf67fd-df4e-7238-055a-b93fb349aa70
+ms.date: 06/08/2017
 ---
 
 

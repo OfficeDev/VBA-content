@@ -1,13 +1,14 @@
 ---
 title: Collections (ADO/WFC Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d854bab9-5439-ebe7-2f89-b290dcaa0342
+ms.date: 06/08/2017
 ---
 
 
 # Collections (ADO/WFC Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

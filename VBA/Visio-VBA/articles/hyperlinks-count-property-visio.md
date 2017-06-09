@@ -3,10 +3,11 @@ title: Hyperlinks.Count Property (Visio)
 keywords: vis_sdr.chm15613330
 f1_keywords:
 - vis_sdr.chm15613330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlinks.Count
 ms.assetid: c460e4ee-679c-b6ed-3c60-e0735bc81815
+ms.date: 06/08/2017
 ---
 
 

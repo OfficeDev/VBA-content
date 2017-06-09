@@ -3,10 +3,11 @@ title: Layer.Delete Method (Visio)
 keywords: vis_sdr.chm11851200
 f1_keywords:
 - vis_sdr.chm11851200
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layer.Delete
 ms.assetid: 817a06fd-f249-d17a-3f8c-6c132ec38823
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SearchScope.Type Property (Office)
 keywords: vbaof11.chm251001
 f1_keywords:
 - vbaof11.chm251001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchScope.Type
 ms.assetid: 5e9c3334-5527-720a-5aba-af2091e6cd85
+ms.date: 06/08/2017
 ---
 
 

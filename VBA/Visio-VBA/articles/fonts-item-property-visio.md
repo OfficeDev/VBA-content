@@ -3,10 +3,11 @@ title: Fonts.Item Property (Visio)
 keywords: vis_sdr.chm12113765
 f1_keywords:
 - vis_sdr.chm12113765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Fonts.Item
 ms.assetid: 3ac06ea3-d2ce-4ced-c54a-ed23df1a26f8
+ms.date: 06/08/2017
 ---
 
 

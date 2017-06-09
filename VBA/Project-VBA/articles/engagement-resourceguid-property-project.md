@@ -1,6 +1,8 @@
 ---
 title: Engagement.ResourceGuid Property (Project)
 ms.assetid: 9b92c2a6-891d-c7d0-97a8-aee2deee7277
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

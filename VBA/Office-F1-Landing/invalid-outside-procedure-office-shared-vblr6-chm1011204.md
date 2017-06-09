@@ -3,8 +3,9 @@ title: Invalid outside procedure, Office Shared [vblr6.chm1011204]
 keywords: vblr6.chm1011204
 f1_keywords:
 - vblr6.chm1011204
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 31dd85bb-b7be-4fac-abb4-1fa771fa9ce8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PivotTable.EnableFieldList Property (Excel)
 keywords: vbaxl10.chm235148
 f1_keywords:
 - vbaxl10.chm235148
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.EnableFieldList
 ms.assetid: 3f078d19-d2ec-1c1a-e039-69e8d7e21e95
+ms.date: 06/08/2017
 ---
 
 

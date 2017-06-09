@@ -3,10 +3,11 @@ title: FormatCondition.LongestBarLimit Property (Access)
 keywords: vbaac10.chm14532
 f1_keywords:
 - vbaac10.chm14532
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.LongestBarLimit
 ms.assetid: 5cf6d17c-78de-f67b-0b47-33b6d05e62cd
+ms.date: 06/08/2017
 ---
 
 

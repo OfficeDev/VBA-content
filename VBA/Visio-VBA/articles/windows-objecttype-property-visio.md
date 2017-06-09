@@ -3,10 +3,11 @@ title: Windows.ObjectType Property (Visio)
 keywords: vis_sdr.chm11713960
 f1_keywords:
 - vis_sdr.chm11713960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.ObjectType
 ms.assetid: 34eb7a08-0c94-b388-9d26-4541acdeb2f2
+ms.date: 06/08/2017
 ---
 
 

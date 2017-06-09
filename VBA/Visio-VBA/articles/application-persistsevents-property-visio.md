@@ -3,10 +3,11 @@ title: Application.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm10014080
 f1_keywords:
 - vis_sdr.chm10014080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.PersistsEvents
 ms.assetid: 455474f3-f39f-cc4c-4e6a-e6dd907c2b35
+ms.date: 06/08/2017
 ---
 
 

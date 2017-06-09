@@ -3,10 +3,11 @@ title: Workbook.AddinInstall Event (Excel)
 keywords: vbaxl10.chm503080
 f1_keywords:
 - vbaxl10.chm503080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AddinInstall
 ms.assetid: 671117b2-590e-9d6f-29ae-5f0bf30d4e99
+ms.date: 06/08/2017
 ---
 
 

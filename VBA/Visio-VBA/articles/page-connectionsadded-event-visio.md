@@ -3,10 +3,11 @@ title: Page.ConnectionsAdded Event (Visio)
 keywords: vis_sdr.chm10919095
 f1_keywords:
 - vis_sdr.chm10919095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ConnectionsAdded
 ms.assetid: 62495ee5-b2f8-bbe3-cb7f-2b02622a5c13
+ms.date: 06/08/2017
 ---
 
 

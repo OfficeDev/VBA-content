@@ -3,8 +3,9 @@ title: Can't display hidden procedure
 keywords: vblr6.chm1011252
 f1_keywords:
 - vblr6.chm1011252
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: be6f41ba-62f8-329f-024e-c578ff38f2dd
+ms.date: 06/08/2017
 ---
 
 

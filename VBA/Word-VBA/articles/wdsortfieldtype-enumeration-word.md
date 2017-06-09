@@ -1,9 +1,10 @@
 ---
 title: WdSortFieldType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSortFieldType
 ms.assetid: b1608991-736f-bcf0-bb7d-4ab08818833b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Table.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.Parent
 ms.assetid: ba398f84-4602-e650-19e7-f00b6046a249
+ms.date: 06/08/2017
 ---
 
 

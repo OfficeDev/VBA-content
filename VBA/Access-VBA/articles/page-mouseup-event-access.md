@@ -3,10 +3,11 @@ title: Page.MouseUp Event (Access)
 keywords: vbaac10.chm14283
 f1_keywords:
 - vbaac10.chm14283
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.MouseUp
 ms.assetid: e53503ea-3210-a4b4-d3c2-b54fa16b48a6
+ms.date: 06/08/2017
 ---
 
 

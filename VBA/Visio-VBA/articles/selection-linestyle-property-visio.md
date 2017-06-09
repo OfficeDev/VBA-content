@@ -3,10 +3,11 @@ title: Selection.LineStyle Property (Visio)
 keywords: vis_sdr.chm11113845
 f1_keywords:
 - vis_sdr.chm11113845
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.LineStyle
 ms.assetid: 8bfba446-5987-58d1-54e2-5e861d7ce48d
+ms.date: 06/08/2017
 ---
 
 

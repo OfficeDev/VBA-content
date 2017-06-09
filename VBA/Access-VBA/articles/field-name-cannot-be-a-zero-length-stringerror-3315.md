@@ -1,13 +1,14 @@
 ---
 title: Field <name> cannot be a zero-length string. (Error 3315)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 400f58a8-e55b-341f-1961-20b5eb7a27d0
+ms.date: 06/08/2017
 ---
 
 
 # Field <name> cannot be a zero-length string. (Error 3315)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

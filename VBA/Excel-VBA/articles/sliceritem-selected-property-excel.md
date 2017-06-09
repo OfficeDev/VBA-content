@@ -3,10 +3,11 @@ title: SlicerItem.Selected Property (Excel)
 keywords: vbaxl10.chm907079
 f1_keywords:
 - vbaxl10.chm907079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItem.Selected
 ms.assetid: 6eca0975-1f7b-0d23-98a5-59f38f6dae84
+ms.date: 06/08/2017
 ---
 
 

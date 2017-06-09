@@ -3,10 +3,11 @@ title: Application.Volatile Method (Excel)
 keywords: vbaxl10.chm133230
 f1_keywords:
 - vbaxl10.chm133230
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Volatile
 ms.assetid: 27047561-9d76-b37d-100d-1c58e6edf494
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: SharingItem.BeforeAutoSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAutoSave
 ms.assetid: 38515dda-2539-5f0b-4c04-831067c09327
+ms.date: 06/08/2017
 ---
 
 

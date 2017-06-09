@@ -3,10 +3,11 @@ title: DocumentItem.IsConflict Property (Outlook)
 keywords: vbaol11.chm1222
 f1_keywords:
 - vbaol11.chm1222
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.IsConflict
 ms.assetid: 63d799ea-ceb6-b070-16a6-629ee3ef2346
+ms.date: 06/08/2017
 ---
 
 

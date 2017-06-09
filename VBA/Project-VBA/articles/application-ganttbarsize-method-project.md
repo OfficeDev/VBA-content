@@ -3,10 +3,11 @@ title: Application.GanttBarSize Method (Project)
 keywords: vbapj.chm2058
 f1_keywords:
 - vbapj.chm2058
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttBarSize
 ms.assetid: 691ee987-a62b-bf5f-0088-0f153aa64966
+ms.date: 06/08/2017
 ---
 
 

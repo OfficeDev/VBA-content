@@ -3,10 +3,11 @@ title: Shape.QueryCancelGroup Event (Visio)
 keywords: vis_sdr.chm11262000
 f1_keywords:
 - vis_sdr.chm11262000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.QueryCancelGroup
 ms.assetid: a2283176-3584-317e-3645-9e6f3dece076
+ms.date: 06/08/2017
 ---
 
 

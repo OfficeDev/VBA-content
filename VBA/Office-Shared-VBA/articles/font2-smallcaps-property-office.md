@@ -1,9 +1,10 @@
 ---
 title: Font2.Smallcaps Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Smallcaps
 ms.assetid: edc34db5-278e-61e9-9510-8acd3fd9ea2c
+ms.date: 06/08/2017
 ---
 
 

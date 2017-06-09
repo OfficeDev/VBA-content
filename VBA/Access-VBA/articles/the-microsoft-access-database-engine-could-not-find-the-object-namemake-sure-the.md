@@ -3,14 +3,15 @@ title: The Microsoft Access database engine could not find the object <name>. Ma
 keywords: jeterr40.chm5003011
 f1_keywords:
 - jeterr40.chm5003011
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 56b9d9fd-a1bc-61d0-1ca1-0dcb7a288206
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine could not find the object <name>. Make sure the object exists and that you spell its name and the path name correctly. (Error 3011)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

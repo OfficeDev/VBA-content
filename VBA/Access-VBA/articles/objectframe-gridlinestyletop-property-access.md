@@ -3,10 +3,11 @@ title: ObjectFrame.GridlineStyleTop Property (Access)
 keywords: vbaac10.chm11644
 f1_keywords:
 - vbaac10.chm11644
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineStyleTop
 ms.assetid: cf902f29-bd15-9abe-cfdb-d34fc059cf0b
+ms.date: 06/08/2017
 ---
 
 

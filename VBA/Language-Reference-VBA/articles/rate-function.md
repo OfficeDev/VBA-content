@@ -3,8 +3,9 @@ title: Rate Function
 keywords: vblr6.chm1009288
 f1_keywords:
 - vblr6.chm1009288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa2c01bd-e717-c199-00b1-e2e56ec86b01
+ms.date: 06/08/2017
 ---
 
 

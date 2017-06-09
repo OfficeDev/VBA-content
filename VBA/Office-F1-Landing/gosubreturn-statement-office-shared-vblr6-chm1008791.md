@@ -3,8 +3,9 @@ title: GoSub...Return Statement, Office Shared [vblr6.chm1008791]
 keywords: vblr6.chm1008791
 f1_keywords:
 - vblr6.chm1008791
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 112977d4-85d3-4ba0-82b8-dcaa2a65ee03
+ms.date: 06/08/2017
 ---
 
 

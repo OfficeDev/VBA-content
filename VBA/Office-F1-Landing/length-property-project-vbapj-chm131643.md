@@ -3,8 +3,9 @@ title: Length Property, Project [vbapj.chm131643]
 keywords: vbapj.chm131643
 f1_keywords:
 - vbapj.chm131643
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ba443c06-bead-410d-bfac-57d3b3d54773
+ms.date: 06/08/2017
 ---
 
 

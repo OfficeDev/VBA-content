@@ -1,9 +1,10 @@
 ---
 title: Application.DisplayAlerts Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayAlerts
 ms.assetid: ef5234ee-cdee-3eee-ca31-1f680d34f9c6
+ms.date: 06/08/2017
 ---
 
 

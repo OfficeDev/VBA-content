@@ -1,9 +1,10 @@
 ---
 title: Assignment.Text26 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text26
 ms.assetid: e01ed7b0-88f1-818f-8548-150945b3bc1f
+ms.date: 06/08/2017
 ---
 
 

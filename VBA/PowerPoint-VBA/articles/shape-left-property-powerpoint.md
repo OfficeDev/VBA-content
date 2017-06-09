@@ -3,10 +3,11 @@ title: Shape.Left Property (PowerPoint)
 keywords: vbapp10.chm547026
 f1_keywords:
 - vbapp10.chm547026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Left
 ms.assetid: 1dffff64-fe2a-c164-52e2-2ea3507c6bec
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextEffectFormat.Text Property (Excel)
 keywords: vbaxl10.chm118012
 f1_keywords:
 - vbaxl10.chm118012
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Text
 ms.assetid: f2d870d3-52c0-547c-78b9-4bba7aff06bb
+ms.date: 06/08/2017
 ---
 
 

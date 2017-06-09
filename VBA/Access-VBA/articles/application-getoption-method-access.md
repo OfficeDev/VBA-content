@@ -3,10 +3,11 @@ title: Application.GetOption Method (Access)
 keywords: vbaac10.chm12503
 f1_keywords:
 - vbaac10.chm12503
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.GetOption
 ms.assetid: 32736ddf-3551-07f5-1559-d0e139c1697d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SharedWorkspaceTask.CreatedDate Property (Office)
 keywords: vbaof11.chm264008
 f1_keywords:
 - vbaof11.chm264008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.CreatedDate
 ms.assetid: 6947aec3-15f0-9274-2770-5136e52ec0af
+ms.date: 06/08/2017
 ---
 
 

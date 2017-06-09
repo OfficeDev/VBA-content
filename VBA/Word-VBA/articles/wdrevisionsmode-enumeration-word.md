@@ -1,9 +1,10 @@
 ---
 title: WdRevisionsMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRevisionsMode
 ms.assetid: eb6663f0-a043-2ded-28d1-d54c73fa2813
+ms.date: 06/08/2017
 ---
 
 

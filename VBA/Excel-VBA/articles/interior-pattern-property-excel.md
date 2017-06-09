@@ -3,10 +3,11 @@ title: Interior.Pattern Property (Excel)
 keywords: vbaxl10.chm551076
 f1_keywords:
 - vbaxl10.chm551076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.Pattern
 ms.assetid: 90587a6d-273c-00df-bb12-1a4415591705
+ms.date: 06/08/2017
 ---
 
 

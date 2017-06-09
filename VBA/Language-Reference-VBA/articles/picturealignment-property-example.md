@@ -3,8 +3,9 @@ title: PictureAlignment Property Example
 keywords: fm20.chm5225161
 f1_keywords:
 - fm20.chm5225161
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92ddb3be-c005-7fb3-dbfd-2cbd74ca021c
+ms.date: 06/08/2017
 ---
 
 

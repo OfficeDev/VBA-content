@@ -1,7 +1,8 @@
 ---
 title: Collection Object Keyword Summary
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 759212a5-d672-e050-da5c-e7ba38b8e42c
+ms.date: 06/08/2017
 ---
 
 

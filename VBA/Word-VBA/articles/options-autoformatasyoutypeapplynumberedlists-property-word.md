@@ -3,10 +3,11 @@ title: Options.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
 keywords: vbawd10.chm162988295
 f1_keywords:
 - vbawd10.chm162988295
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: a20be170-7297-0f55-4650-04540fc6f4f9
+ms.date: 06/08/2017
 ---
 
 

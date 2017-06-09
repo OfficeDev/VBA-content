@@ -3,10 +3,11 @@ title: WebListBoxItems.Selected Method (Publisher)
 keywords: vbapb10.chm4128775
 f1_keywords:
 - vbapb10.chm4128775
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems.Selected
 ms.assetid: 2db3b8cb-2922-1cca-9613-67402772ee27
+ms.date: 06/08/2017
 ---
 
 

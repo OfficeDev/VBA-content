@@ -3,10 +3,11 @@ title: ThreeDFormat.IncrementRotationX Method (Word)
 keywords: vbawd10.chm164626442
 f1_keywords:
 - vbawd10.chm164626442
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.IncrementRotationX
 ms.assetid: 5892375e-b6a5-ae2c-c85c-bc0798558407
+ms.date: 06/08/2017
 ---
 
 

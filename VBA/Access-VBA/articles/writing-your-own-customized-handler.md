@@ -1,13 +1,14 @@
 ---
 title: Writing Your Own Customized Handler
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 67186df9-26b9-428d-2987-cd0bc165f231
+ms.date: 06/08/2017
 ---
 
 
 # Writing Your Own Customized Handler
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

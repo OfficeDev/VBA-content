@@ -3,8 +3,9 @@ title: TabFixedHeight, TabFixedWidth Properties
 keywords: fm20.chm2002000
 f1_keywords:
 - fm20.chm2002000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b8f8ea4-4916-66ba-1e18-87d56d42efe3
+ms.date: 06/08/2017
 ---
 
 

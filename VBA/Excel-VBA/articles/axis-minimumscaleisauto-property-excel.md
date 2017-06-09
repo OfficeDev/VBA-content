@@ -3,10 +3,11 @@ title: Axis.MinimumScaleIsAuto Property (Excel)
 keywords: vbaxl10.chm561091
 f1_keywords:
 - vbaxl10.chm561091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MinimumScaleIsAuto
 ms.assetid: 93767cb3-c71e-b191-2f07-7ca091498023
+ms.date: 06/08/2017
 ---
 
 

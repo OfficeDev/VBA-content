@@ -3,10 +3,11 @@ title: WebBrowserControl.SpecialEffect Property (Access)
 keywords: vbaac10.chm14374
 f1_keywords:
 - vbaac10.chm14374
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.SpecialEffect
 ms.assetid: 59764207-eecc-d310-30dd-ac5173d5c2a4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: View.ShowTextBoundaries Property (Word)
 keywords: vbawd10.chm161808396
 f1_keywords:
 - vbawd10.chm161808396
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowTextBoundaries
 ms.assetid: a9bc7cc0-0062-0b1d-6e16-19ed52ba9fb9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Ruler Object (PowerPoint)
 keywords: vbapp10.chm570000
 f1_keywords:
 - vbapp10.chm570000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Ruler
 ms.assetid: dc6b78ae-4745-0bc8-1d28-831b1f30f86c
+ms.date: 06/08/2017
 ---
 
 

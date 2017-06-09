@@ -3,10 +3,11 @@ title: Folder.CustomViewsOnly Property (Outlook)
 keywords: vbaol11.chm2010
 f1_keywords:
 - vbaol11.chm2010
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.CustomViewsOnly
 ms.assetid: b94b60f3-acd8-a968-f333-cb6d4bae8683
+ms.date: 06/08/2017
 ---
 
 

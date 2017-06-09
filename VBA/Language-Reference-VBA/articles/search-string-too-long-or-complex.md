@@ -3,8 +3,9 @@ title: Search string too long or complex
 keywords: vblr6.chm1040207
 f1_keywords:
 - vblr6.chm1040207
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e7d6838c-bd5f-8fb0-039f-2c43cfadb637
+ms.date: 06/08/2017
 ---
 
 

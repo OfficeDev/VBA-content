@@ -3,8 +3,9 @@ title: WorksheetFunction.NumberValue Method (Excel)
 keywords: vbaxl10.chm137458
 f1_keywords:
 - vbaxl10.chm137458
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 3ab36c6d-c110-1897-44af-ec093aab432e
+ms.date: 06/08/2017
 ---
 
 

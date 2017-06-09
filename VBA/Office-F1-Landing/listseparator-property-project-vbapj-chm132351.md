@@ -3,8 +3,9 @@ title: ListSeparator Property, Project [vbapj.chm132351]
 keywords: vbapj.chm132351
 f1_keywords:
 - vbapj.chm132351
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 91b057a6-620f-4d19-bd08-75f70138180d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot set this property once the object is part of a collection. (Error 
 keywords: jeterr40.chm5003268
 f1_keywords:
 - jeterr40.chm5003268
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dda6984b-ee7e-4838-ee30-904171f4de2c
+ms.date: 06/08/2017
 ---
 
 
 # Cannot set this property once the object is part of a collection. (Error 3268)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

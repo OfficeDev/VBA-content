@@ -3,10 +3,11 @@ title: FreeformBuilder.ConvertToShape Method (PowerPoint)
 keywords: vbapp10.chm546003
 f1_keywords:
 - vbapp10.chm546003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.ConvertToShape
 ms.assetid: bc3d209e-6735-3011-9334-46049d269355
+ms.date: 06/08/2017
 ---
 
 

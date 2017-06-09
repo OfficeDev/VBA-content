@@ -3,10 +3,11 @@ title: ListBox.OnKeyPress Property (Access)
 keywords: vbaac10.chm11291
 f1_keywords:
 - vbaac10.chm11291
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnKeyPress
 ms.assetid: f7d0c300-d3dc-78e3-0e2d-825bd7088ad7
+ms.date: 06/08/2017
 ---
 
 

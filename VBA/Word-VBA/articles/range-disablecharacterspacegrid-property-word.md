@@ -3,10 +3,11 @@ title: Range.DisableCharacterSpaceGrid Property (Word)
 keywords: vbawd10.chm157155469
 f1_keywords:
 - vbawd10.chm157155469
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.DisableCharacterSpaceGrid
 ms.assetid: 042fcf3e-f163-0da2-9e05-8111b4353ace
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Parent Property (VBA Add-In Object Model), Office Shared [vbob6.chm102170
 keywords: vbob6.chm102170
 f1_keywords:
 - vbob6.chm102170
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b311e10-37a2-47e3-9b60-014abb3d6d6a
+ms.date: 06/08/2017
 ---
 
 

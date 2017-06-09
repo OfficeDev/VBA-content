@@ -3,10 +3,11 @@ title: Bookmark.Copy Method (Word)
 keywords: vbawd10.chm157810700
 f1_keywords:
 - vbawd10.chm157810700
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Copy
 ms.assetid: a390978a-e2d3-a950-31cb-488eb18621a5
+ms.date: 06/08/2017
 ---
 
 

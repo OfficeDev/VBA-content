@@ -3,10 +3,11 @@ title: ParagraphFormat.FirstLineIndent Property (Word)
 keywords: vbawd10.chm156434540
 f1_keywords:
 - vbawd10.chm156434540
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.FirstLineIndent
 ms.assetid: a9a94019-537c-942d-c388-06b228fd5463
+ms.date: 06/08/2017
 ---
 
 

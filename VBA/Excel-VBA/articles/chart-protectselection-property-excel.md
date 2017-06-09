@@ -3,10 +3,11 @@ title: Chart.ProtectSelection Property (Excel)
 keywords: vbaxl10.chm149160
 f1_keywords:
 - vbaxl10.chm149160
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ProtectSelection
 ms.assetid: a1b9cf7e-8cc3-f9fe-dfcf-c66469741edb
+ms.date: 06/08/2017
 ---
 
 

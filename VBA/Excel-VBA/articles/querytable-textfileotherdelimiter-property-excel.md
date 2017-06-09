@@ -3,10 +3,11 @@ title: QueryTable.TextFileOtherDelimiter Property (Excel)
 keywords: vbaxl10.chm518107
 f1_keywords:
 - vbaxl10.chm518107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileOtherDelimiter
 ms.assetid: e632984a-4316-4e65-754f-01a2c77d5cad
+ms.date: 06/08/2017
 ---
 
 

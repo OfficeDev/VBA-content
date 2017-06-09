@@ -3,10 +3,11 @@ title: ListFormat.ListString Property (Word)
 keywords: vbawd10.chm163577931
 f1_keywords:
 - vbawd10.chm163577931
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.ListString
 ms.assetid: b426ab7b-158a-0ae8-7c02-d71ef6a84263
+ms.date: 06/08/2017
 ---
 
 

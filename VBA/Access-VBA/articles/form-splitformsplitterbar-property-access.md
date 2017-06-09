@@ -3,10 +3,11 @@ title: Form.SplitFormSplitterBar Property (Access)
 keywords: vbaac10.chm13565
 f1_keywords:
 - vbaac10.chm13565
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SplitFormSplitterBar
 ms.assetid: 80b7c812-2382-ea12-9aff-fb83e5baa7ea
+ms.date: 06/08/2017
 ---
 
 

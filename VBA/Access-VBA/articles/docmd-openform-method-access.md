@@ -3,10 +3,11 @@ title: DoCmd.OpenForm Method (Access)
 keywords: vbaac10.chm4160
 f1_keywords:
 - vbaac10.chm4160
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.OpenForm
 ms.assetid: a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: PressedForeTint Property, Access [vbaac10.chm14625]
 keywords: vbaac10.chm14625
 f1_keywords:
 - vbaac10.chm14625
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2f1b92af-eac7-4d56-a776-6fe973cbc8c5
+ms.date: 06/08/2017
 ---
 
 

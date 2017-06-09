@@ -1,9 +1,10 @@
 ---
 title: CalloutFormat.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Application
 ms.assetid: 0c276f4f-5c1d-5c4a-caeb-2367c5822b26
+ms.date: 06/08/2017
 ---
 
 

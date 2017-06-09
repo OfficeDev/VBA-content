@@ -3,8 +3,9 @@ title: ColumnHeads Property, Access [vbaac10.chm4298]
 keywords: vbaac10.chm4298
 f1_keywords:
 - vbaac10.chm4298
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3fceeedd-9283-4af8-b2ec-e353bd5a1712
+ms.date: 06/08/2017
 ---
 
 

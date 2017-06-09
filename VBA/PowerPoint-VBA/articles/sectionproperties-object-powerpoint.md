@@ -3,10 +3,11 @@ title: SectionProperties Object (PowerPoint)
 keywords: vbapp10.chm725000
 f1_keywords:
 - vbapp10.chm725000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties
 ms.assetid: 06128de8-8b6c-08a4-126e-52f6fd541ce3
+ms.date: 06/08/2017
 ---
 
 

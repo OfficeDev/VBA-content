@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1838
 f1_keywords:
 - vbaol11.chm1838
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.MessageClass
 ms.assetid: 8d244971-e28f-fa88-a115-fad220f3f400
+ms.date: 06/08/2017
 ---
 
 

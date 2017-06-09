@@ -3,10 +3,11 @@ title: QueryTables.Application Property (Excel)
 keywords: vbaxl10.chm520073
 f1_keywords:
 - vbaxl10.chm520073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTables.Application
 ms.assetid: 428b9fbb-8119-0de6-d86a-719edbe5d667
+ms.date: 06/08/2017
 ---
 
 

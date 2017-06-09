@@ -3,10 +3,11 @@ title: Shape.ZOrderPosition Property (Publisher)
 keywords: vbapb10.chm2228312
 f1_keywords:
 - vbapb10.chm2228312
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.ZOrderPosition
 ms.assetid: 46eb765b-578e-f6df-43b7-c14443cddbb2
+ms.date: 06/08/2017
 ---
 
 

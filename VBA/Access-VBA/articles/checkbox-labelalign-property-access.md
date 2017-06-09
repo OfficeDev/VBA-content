@@ -3,10 +3,11 @@ title: CheckBox.LabelAlign Property (Access)
 keywords: vbaac10.chm10729
 f1_keywords:
 - vbaac10.chm10729
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.LabelAlign
 ms.assetid: 255be436-51d3-0926-a7ce-a5b595ff59ce
+ms.date: 06/08/2017
 ---
 
 

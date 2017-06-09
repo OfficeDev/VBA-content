@@ -3,10 +3,11 @@ title: Document.DisableFeatures Property (Word)
 keywords: vbawd10.chm158007633
 f1_keywords:
 - vbawd10.chm158007633
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DisableFeatures
 ms.assetid: 40a62de3-f74e-d604-d3fc-dfb26abeb313
+ms.date: 06/08/2017
 ---
 
 

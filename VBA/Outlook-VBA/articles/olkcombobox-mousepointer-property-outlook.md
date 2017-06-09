@@ -3,10 +3,11 @@ title: OlkComboBox.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000212
 f1_keywords:
 - vbaol11.chm1000212
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MousePointer
 ms.assetid: 85d1e2c3-e3d8-2339-bd38-9452761adce9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Report.ScrollBars Property (Access)
 keywords: vbaac10.chm13820
 f1_keywords:
 - vbaac10.chm13820
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ScrollBars
 ms.assetid: 12693642-6288-4f21-40cd-5aa1d6886cca
+ms.date: 06/08/2017
 ---
 
 

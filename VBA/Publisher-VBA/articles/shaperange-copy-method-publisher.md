@@ -3,10 +3,11 @@ title: ShapeRange.Copy Method (Publisher)
 keywords: vbapb10.chm2293778
 f1_keywords:
 - vbapb10.chm2293778
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Copy
 ms.assetid: 11b9da00-85e4-fc7a-fa93-4a451b7bd15a
+ms.date: 06/08/2017
 ---
 
 

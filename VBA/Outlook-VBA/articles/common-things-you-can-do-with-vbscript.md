@@ -3,8 +3,9 @@ title: Common Things You Can Do with VBScript
 keywords: olfm10.chm3077141
 f1_keywords:
 - olfm10.chm3077141
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 850ebf22-0940-cf41-9903-668154c24e7f
+ms.date: 06/08/2017
 ---
 
 

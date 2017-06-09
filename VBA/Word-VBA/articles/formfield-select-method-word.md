@@ -3,10 +3,11 @@ title: FormField.Select Method (Word)
 keywords: vbawd10.chm153681919
 f1_keywords:
 - vbawd10.chm153681919
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Select
 ms.assetid: cad405c5-0d48-cdb1-58da-ed69da02d00f
+ms.date: 06/08/2017
 ---
 
 

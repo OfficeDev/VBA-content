@@ -3,10 +3,11 @@ title: Document.FormattingShowFilter Property (Word)
 keywords: vbawd10.chm158007748
 f1_keywords:
 - vbawd10.chm158007748
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FormattingShowFilter
 ms.assetid: 41509d69-9cee-bf85-6530-c5603b9c9136
+ms.date: 06/08/2017
 ---
 
 

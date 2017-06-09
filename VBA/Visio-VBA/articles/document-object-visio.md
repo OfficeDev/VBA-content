@@ -3,10 +3,11 @@ title: Document Object (Visio)
 keywords: vis_sdr.chm10080
 f1_keywords:
 - vis_sdr.chm10080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document
 ms.assetid: 21640062-13a2-a2b2-7c61-7e707671207c
+ms.date: 06/08/2017
 ---
 
 

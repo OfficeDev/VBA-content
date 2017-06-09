@@ -3,10 +3,11 @@ title: Section.Properties Property (Access)
 keywords: vbaac10.chm12188
 f1_keywords:
 - vbaac10.chm12188
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.Properties
 ms.assetid: 012fade4-e62e-9e23-c436-82f1d6f92c89
+ms.date: 06/08/2017
 ---
 
 

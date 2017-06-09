@@ -1,9 +1,10 @@
 ---
 title: Availabilities.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availabilities.Count
 ms.assetid: 561de24a-531f-cf49-2757-af54c6730172
+ms.date: 06/08/2017
 ---
 
 

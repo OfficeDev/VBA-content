@@ -3,10 +3,11 @@ title: Styles.Application Property (Visio)
 keywords: vis_sdr.chm11513090
 f1_keywords:
 - vis_sdr.chm11513090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.Application
 ms.assetid: 57986be2-ccb6-3a90-11df-7e92849f659d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Workbook.SetPasswordEncryptionOptions Method (Excel)
 keywords: vbaxl10.chm199214
 f1_keywords:
 - vbaxl10.chm199214
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SetPasswordEncryptionOptions
 ms.assetid: 3b6c9bfe-4cfb-1dde-fd57-07dd474df7db
+ms.date: 06/08/2017
 ---
 
 

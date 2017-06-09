@@ -3,10 +3,11 @@ title: PlotArea.InsideHeight Property (Excel)
 keywords: vbaxl10.chm618091
 f1_keywords:
 - vbaxl10.chm618091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.InsideHeight
 ms.assetid: a9b2e591-afc5-331e-86b5-bbeb47696c3d
+ms.date: 06/08/2017
 ---
 
 

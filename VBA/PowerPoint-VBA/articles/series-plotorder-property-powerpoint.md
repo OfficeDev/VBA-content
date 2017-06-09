@@ -3,10 +3,11 @@ title: Series.PlotOrder Property (PowerPoint)
 keywords: vbapp10.chm65764
 f1_keywords:
 - vbapp10.chm65764
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.PlotOrder
 ms.assetid: 196c0b37-a9fe-ec01-ca0a-786c70e8a63c
+ms.date: 06/08/2017
 ---
 
 

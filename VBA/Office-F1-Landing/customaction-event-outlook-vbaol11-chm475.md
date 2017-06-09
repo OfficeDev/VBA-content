@@ -3,8 +3,9 @@ title: CustomAction Event, Outlook [vbaol11.chm475]
 keywords: vbaol11.chm475
 f1_keywords:
 - vbaol11.chm475
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df352fda-172c-4694-9133-beb2f4dd08ec
+ms.date: 06/08/2017
 ---
 
 

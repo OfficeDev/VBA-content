@@ -3,8 +3,9 @@ title: Type Property, Office Shared [vbaof11.chm5026]
 keywords: vbaof11.chm5026
 f1_keywords:
 - vbaof11.chm5026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e67d9de4-a5ce-4538-a28e-58a53cb04000
+ms.date: 06/08/2017
 ---
 
 

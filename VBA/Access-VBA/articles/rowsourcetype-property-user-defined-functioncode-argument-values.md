@@ -3,14 +3,15 @@ title: RowSourceType Property (User-Defined Function) - Code Argument Values
 keywords: vbaac10.chm5187987
 f1_keywords:
 - vbaac10.chm5187987
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1c39d168-e020-2a98-f902-29c00de137ad
+ms.date: 06/08/2017
 ---
 
 
 # RowSourceType Property (User-Defined Function) - Code Argument Values
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

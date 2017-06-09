@@ -3,10 +3,11 @@ title: ListBox.AfterUpdate Property (Access)
 keywords: vbaac10.chm11279
 f1_keywords:
 - vbaac10.chm11279
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.AfterUpdate
 ms.assetid: b71e1b7a-6893-505b-6de8-b877190c76d6
+ms.date: 06/08/2017
 ---
 
 

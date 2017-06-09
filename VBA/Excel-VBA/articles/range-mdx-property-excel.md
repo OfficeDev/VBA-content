@@ -3,10 +3,11 @@ title: Range.MDX Property (Excel)
 keywords: vbaxl10.chm144245
 f1_keywords:
 - vbaxl10.chm144245
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.MDX
 ms.assetid: 6b22b79b-ce44-ce0d-0bb4-e1bf2cd83578
+ms.date: 06/08/2017
 ---
 
 

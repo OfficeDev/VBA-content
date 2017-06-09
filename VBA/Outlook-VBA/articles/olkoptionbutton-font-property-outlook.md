@@ -3,10 +3,11 @@ title: OlkOptionButton.Font Property (Outlook)
 keywords: vbaol11.chm1000170
 f1_keywords:
 - vbaol11.chm1000170
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Font
 ms.assetid: 1658e020-9791-0926-9170-e25fc52e7dbf
+ms.date: 06/08/2017
 ---
 
 

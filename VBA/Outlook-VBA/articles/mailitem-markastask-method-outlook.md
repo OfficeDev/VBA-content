@@ -3,10 +3,11 @@ title: MailItem.MarkAsTask Method (Outlook)
 keywords: vbaol11.chm3039
 f1_keywords:
 - vbaol11.chm3039
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.MarkAsTask
 ms.assetid: ee38093d-a180-07f7-eae8-c9dbb2e8f413
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Points.Item Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Item
 ms.assetid: d3a6b3cf-3fbb-1e0f-b9cf-0b707839de67
+ms.date: 06/08/2017
 ---
 
 

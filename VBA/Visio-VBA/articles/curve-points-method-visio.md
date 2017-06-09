@@ -3,10 +3,11 @@ title: Curve.Points Method (Visio)
 keywords: vis_sdr.chm15514090
 f1_keywords:
 - vis_sdr.chm15514090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Curve.Points
 ms.assetid: 2dbd66cd-cc63-4635-3caf-29c8ae45c08e
+ms.date: 06/08/2017
 ---
 
 

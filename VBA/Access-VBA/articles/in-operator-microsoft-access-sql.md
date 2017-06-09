@@ -1,13 +1,14 @@
 ---
 title: In Operator (Microsoft Access SQL)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ee4f1d71-82c4-3b0d-94b6-ad3f5a7608b8
+ms.date: 06/08/2017
 ---
 
 
 # In Operator (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

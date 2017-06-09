@@ -3,10 +3,11 @@ title: Section.SpecialEffect Property (Access)
 keywords: vbaac10.chm12202
 f1_keywords:
 - vbaac10.chm12202
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.SpecialEffect
 ms.assetid: 5143b888-5263-6ccd-1d98-3c7168ca7734
+ms.date: 06/08/2017
 ---
 
 

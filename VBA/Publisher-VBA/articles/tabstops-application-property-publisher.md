@@ -3,10 +3,11 @@ title: TabStops.Application Property (Publisher)
 keywords: vbapb10.chm5570561
 f1_keywords:
 - vbapb10.chm5570561
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TabStops.Application
 ms.assetid: 2b972ae8-f69b-1f3d-fafc-4fc4c96a0f8a
+ms.date: 06/08/2017
 ---
 
 

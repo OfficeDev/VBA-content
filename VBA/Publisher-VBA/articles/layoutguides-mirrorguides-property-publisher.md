@@ -3,10 +3,11 @@ title: LayoutGuides.MirrorGuides Property (Publisher)
 keywords: vbapb10.chm1114119
 f1_keywords:
 - vbapb10.chm1114119
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.MirrorGuides
 ms.assetid: 8e6ff709-21e0-2286-5d75-c7ebea05fd26
+ms.date: 06/08/2017
 ---
 
 

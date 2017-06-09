@@ -3,10 +3,11 @@ title: ComboBox.LeftMargin Property (Access)
 keywords: vbaac10.chm11520
 f1_keywords:
 - vbaac10.chm11520
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.LeftMargin
 ms.assetid: b478bd94-b36b-b100-f0a0-10040af55b9d
+ms.date: 06/08/2017
 ---
 
 

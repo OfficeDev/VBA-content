@@ -3,10 +3,11 @@ title: EmptyCell.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm14334
 f1_keywords:
 - vbaac10.chm14334
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineStyleBottom
 ms.assetid: 3c1d9463-89d7-8783-a0b6-cdc92e84c3ce
+ms.date: 06/08/2017
 ---
 
 

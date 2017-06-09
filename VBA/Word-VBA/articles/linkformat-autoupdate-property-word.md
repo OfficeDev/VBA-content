@@ -3,10 +3,11 @@ title: LinkFormat.AutoUpdate Property (Word)
 keywords: vbawd10.chm154206209
 f1_keywords:
 - vbawd10.chm154206209
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat.AutoUpdate
 ms.assetid: 39525118-e17e-d19e-33b8-98dc52d895f2
+ms.date: 06/08/2017
 ---
 
 

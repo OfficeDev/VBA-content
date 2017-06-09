@@ -3,10 +3,11 @@ title: ChartCharacters Object (PowerPoint)
 keywords: vbapp10.chm686000
 f1_keywords:
 - vbapp10.chm686000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters
 ms.assetid: 2f659f71-f277-dab4-f2bd-631c7a2424de
+ms.date: 06/08/2017
 ---
 
 

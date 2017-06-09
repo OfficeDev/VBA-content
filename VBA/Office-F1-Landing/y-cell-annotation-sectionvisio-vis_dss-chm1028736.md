@@ -3,8 +3,9 @@ title: Y Cell (Annotation Section), Visio [Vis_DSS.chm1028736]
 keywords: vis_dss.chm1028736
 f1_keywords:
 - vis_dss.chm1028736
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b902474f-cb41-4d86-bbda-ec20f4a51033
+ms.date: 06/08/2017
 ---
 
 

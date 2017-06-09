@@ -3,10 +3,11 @@ title: Application.AppExecute Method (Project)
 keywords: vbapj.chm8
 f1_keywords:
 - vbapj.chm8
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AppExecute
 ms.assetid: af263a18-9b88-e6c2-d44c-a2ac41951624
+ms.date: 06/08/2017
 ---
 
 

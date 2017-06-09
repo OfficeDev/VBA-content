@@ -3,14 +3,15 @@ title: The Microsoft Access database engine could not read the system clock on y
 keywords: jeterr40.chm5003515
 f1_keywords:
 - jeterr40.chm5003515
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7a815ad4-136b-3590-ee63-8f42b1193d1b
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine could not read the system clock on your computer. (Error 3515)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

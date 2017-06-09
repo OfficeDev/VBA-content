@@ -3,10 +3,11 @@ title: Document.AutoFormatOverride Property (Word)
 keywords: vbawd10.chm158007768
 f1_keywords:
 - vbawd10.chm158007768
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.AutoFormatOverride
 ms.assetid: 85287164-98f8-fd3a-36b7-b03008e9aac3
+ms.date: 06/08/2017
 ---
 
 

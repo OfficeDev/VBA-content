@@ -1,9 +1,10 @@
 ---
 title: XlOrientation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlOrientation
 ms.assetid: a160f0d2-7c3c-4206-dbc2-a6a456e177d3
+ms.date: 06/08/2017
 ---
 
 

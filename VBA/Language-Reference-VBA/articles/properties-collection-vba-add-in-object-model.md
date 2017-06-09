@@ -3,8 +3,9 @@ title: Properties Collection (VBA Add-In Object Model)
 keywords: vbob6.chm102053
 f1_keywords:
 - vbob6.chm102053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 97bf60b5-7463-eba1-4e3a-022c684a8a44
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Conflicts.Item Method (Word)
 keywords: vbawd10.chm174391296
 f1_keywords:
 - vbawd10.chm174391296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflicts.Item
 ms.assetid: e7699ae9-8c50-8e51-cafb-12bb7891d572
+ms.date: 06/08/2017
 ---
 
 

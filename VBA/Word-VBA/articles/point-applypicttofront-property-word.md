@@ -3,10 +3,11 @@ title: Point.ApplyPictToFront Property (Word)
 keywords: vbawd10.chm262145660
 f1_keywords:
 - vbawd10.chm262145660
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.ApplyPictToFront
 ms.assetid: 19a8549e-0d5d-7537-a32b-be1e1ae7178e
+ms.date: 06/08/2017
 ---
 
 

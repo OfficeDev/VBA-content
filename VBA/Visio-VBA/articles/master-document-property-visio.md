@@ -3,10 +3,11 @@ title: Master.Document Property (Visio)
 keywords: vis_sdr.chm10713430
 f1_keywords:
 - vis_sdr.chm10713430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Document
 ms.assetid: b95000f8-67df-99f4-bbfc-020b14ae73b8
+ms.date: 06/08/2017
 ---
 
 

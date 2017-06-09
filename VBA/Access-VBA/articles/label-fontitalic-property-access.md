@@ -3,10 +3,11 @@ title: Label.FontItalic Property (Access)
 keywords: vbaac10.chm10213
 f1_keywords:
 - vbaac10.chm10213
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.FontItalic
 ms.assetid: 7eac7678-1d06-668c-3b85-8a7142a066d4
+ms.date: 06/08/2017
 ---
 
 

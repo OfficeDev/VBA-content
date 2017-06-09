@@ -3,10 +3,11 @@ title: ChartData Object (PowerPoint)
 keywords: vbapp10.chm689000
 f1_keywords:
 - vbapp10.chm689000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartData
 ms.assetid: b7bedf0e-5f11-001d-a97c-e8d07939bc8b
+ms.date: 06/08/2017
 ---
 
 

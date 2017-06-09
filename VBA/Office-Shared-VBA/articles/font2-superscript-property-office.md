@@ -1,9 +1,10 @@
 ---
 title: Font2.Superscript Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Superscript
 ms.assetid: a6cd553f-9916-0182-1678-5e0d9cc71600
+ms.date: 06/08/2017
 ---
 
 

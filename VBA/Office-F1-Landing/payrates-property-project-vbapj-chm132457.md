@@ -3,8 +3,9 @@ title: PayRates Property, Project [vbapj.chm132457]
 keywords: vbapj.chm132457
 f1_keywords:
 - vbapj.chm132457
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5cd492e6-d4dd-45ec-8ba2-83e41c3c88dd
+ms.date: 06/08/2017
 ---
 
 

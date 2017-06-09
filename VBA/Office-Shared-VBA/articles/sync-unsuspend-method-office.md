@@ -3,10 +3,11 @@ title: Sync.Unsuspend Method (Office)
 keywords: vbaof11.chm277011
 f1_keywords:
 - vbaof11.chm277011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.Unsuspend
 ms.assetid: 456a5f22-30bf-224d-7e3c-092711188f80
+ms.date: 06/08/2017
 ---
 
 

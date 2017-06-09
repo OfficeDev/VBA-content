@@ -3,10 +3,11 @@ title: ApplicationSettings.SnapStrengthGridX Property (Visio)
 keywords: vis_sdr.chm16251575
 f1_keywords:
 - vis_sdr.chm16251575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthGridX
 ms.assetid: ebe2489d-6643-4303-30fd-720446a4e19d
+ms.date: 06/08/2017
 ---
 
 

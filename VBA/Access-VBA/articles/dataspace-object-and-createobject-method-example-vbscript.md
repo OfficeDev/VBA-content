@@ -1,13 +1,14 @@
 ---
 title: DataSpace Object and CreateObject Method Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0132996b-e3e1-4dbe-95dc-4313824669b7
+ms.date: 06/08/2017
 ---
 
 
 # DataSpace Object and CreateObject Method Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

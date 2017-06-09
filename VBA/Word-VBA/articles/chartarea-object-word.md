@@ -1,9 +1,10 @@
 ---
 title: ChartArea Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea
 ms.assetid: 7b3384df-f331-033d-4dfa-ee2ff26111c6
+ms.date: 06/08/2017
 ---
 
 

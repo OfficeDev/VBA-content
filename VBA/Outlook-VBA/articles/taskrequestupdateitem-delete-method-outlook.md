@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.Delete Method (Outlook)
 keywords: vbaol11.chm1949
 f1_keywords:
 - vbaol11.chm1949
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Delete
 ms.assetid: 25aad43e-9854-99c0-7038-ce74095a89c5
+ms.date: 06/08/2017
 ---
 
 

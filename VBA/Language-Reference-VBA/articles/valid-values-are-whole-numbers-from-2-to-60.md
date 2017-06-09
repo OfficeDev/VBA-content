@@ -3,8 +3,9 @@ title: Valid values are whole numbers from 2 to 60
 keywords: vblr6.chm50201
 f1_keywords:
 - vblr6.chm50201
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 34fcc867-145d-802f-baa4-a81090ba5547
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: VisCutCopyPasteCodes Enumeration (Visio)
 keywords: vis_sdr.chm70355
 f1_keywords:
 - vis_sdr.chm70355
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 097ff931-bf8d-2d96-a718-41f7708bc265
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Using the Outlook Object Model
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a37cb092-b0b6-40d8-bb95-d86aceaf47da
+ms.date: 06/08/2017
 ---
 
 

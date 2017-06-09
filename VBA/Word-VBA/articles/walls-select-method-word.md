@@ -3,10 +3,11 @@ title: Walls.Select Method (Word)
 keywords: vbawd10.chm25166059
 f1_keywords:
 - vbawd10.chm25166059
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.Select
 ms.assetid: c82a20dc-da21-2582-58cb-d44665b5476f
+ms.date: 06/08/2017
 ---
 
 

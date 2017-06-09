@@ -3,14 +3,15 @@ title: The database has been placed in a state by an unknown user that prevents 
 keywords: jeterr40.chm5003733
 f1_keywords:
 - jeterr40.chm5003733
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 25826882-d413-9d22-d0c6-65cbbf9edecc
+ms.date: 06/08/2017
 ---
 
 
 # The database has been placed in a state by an unknown user that prevents it from being opened or locked. (Error 3733)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

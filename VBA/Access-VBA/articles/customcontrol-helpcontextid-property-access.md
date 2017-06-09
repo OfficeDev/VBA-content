@@ -3,10 +3,11 @@ title: CustomControl.HelpContextId Property (Access)
 keywords: vbaac10.chm12031
 f1_keywords:
 - vbaac10.chm12031
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.HelpContextId
 ms.assetid: a96b1981-3366-f6e9-67c6-5276bfc590d9
+ms.date: 06/08/2017
 ---
 
 

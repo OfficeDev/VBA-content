@@ -3,10 +3,11 @@ title: Section.EventList Property (Visio)
 keywords: vis_sdr.chm15713480
 f1_keywords:
 - vis_sdr.chm15713480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.EventList
 ms.assetid: 281b1413-3732-3067-9442-e77b5a941116
+ms.date: 06/08/2017
 ---
 
 

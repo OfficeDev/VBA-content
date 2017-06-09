@@ -3,10 +3,11 @@ title: TablesOfContents.Creator Property (Word)
 keywords: vbawd10.chm152306665
 f1_keywords:
 - vbawd10.chm152306665
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Creator
 ms.assetid: 6ab6dab7-bc24-bae2-c1b6-a3b2f23f23f7
+ms.date: 06/08/2017
 ---
 
 

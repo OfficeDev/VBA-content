@@ -1,13 +1,14 @@
 ---
 title: Type Property Example (Field) (VJ++)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ee010723-d429-e190-e8e2-b1d8c2cfcb3a
+ms.date: 06/08/2017
 ---
 
 
 # Type Property Example (Field) (VJ++)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

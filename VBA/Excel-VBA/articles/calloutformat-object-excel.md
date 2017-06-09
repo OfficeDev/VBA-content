@@ -3,10 +3,11 @@ title: CalloutFormat Object (Excel)
 keywords: vbaxl10.chm104000
 f1_keywords:
 - vbaxl10.chm104000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat
 ms.assetid: d9d7d279-04ef-dbee-23cd-ddd606ed917d
+ms.date: 06/08/2017
 ---
 
 

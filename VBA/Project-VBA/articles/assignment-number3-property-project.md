@@ -1,9 +1,10 @@
 ---
 title: Assignment.Number3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number3
 ms.assetid: 51d0e7be-aea8-4fda-df9c-e3f855584ccd
+ms.date: 06/08/2017
 ---
 
 

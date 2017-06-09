@@ -1,7 +1,8 @@
 ---
 title: Shapes.SelectAll Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: f85eb8ea-770f-ba13-b7d4-794d162bd598
+ms.date: 06/08/2017
 ---
 
 

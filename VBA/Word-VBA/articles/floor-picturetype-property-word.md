@@ -3,10 +3,11 @@ title: Floor.PictureType Property (Word)
 keywords: vbawd10.chm46006433
 f1_keywords:
 - vbawd10.chm46006433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor.PictureType
 ms.assetid: 37644d6f-fbf8-ebfb-2d75-9142d9f6ee27
+ms.date: 06/08/2017
 ---
 
 

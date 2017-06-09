@@ -3,10 +3,11 @@ title: GetSpecialFolder Method
 keywords: vblr6.chm2182057
 f1_keywords:
 - vblr6.chm2182057
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GetSpecialFolder
 ms.assetid: f10f5721-43a2-6c0d-67a2-a1192c127c06
+ms.date: 06/08/2017
 ---
 
 

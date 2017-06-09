@@ -3,10 +3,11 @@ title: ChartFormat.Application Property (Word)
 keywords: vbawd10.chm203030676
 f1_keywords:
 - vbawd10.chm203030676
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFormat.Application
 ms.assetid: 1b677161-5cb4-48d9-7d85-f231e20ca940
+ms.date: 06/08/2017
 ---
 
 

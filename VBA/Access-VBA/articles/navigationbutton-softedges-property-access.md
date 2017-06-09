@@ -3,10 +3,11 @@ title: NavigationButton.SoftEdges Property (Access)
 keywords: vbaac10.chm14639
 f1_keywords:
 - vbaac10.chm14639
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.SoftEdges
 ms.assetid: ab52bf67-7ea2-e23e-d4a5-264bb153ee0d
+ms.date: 06/08/2017
 ---
 
 

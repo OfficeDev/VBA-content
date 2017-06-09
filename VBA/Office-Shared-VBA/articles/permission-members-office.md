@@ -1,7 +1,8 @@
 ---
 title: Permission Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75614d24-cd47-ef9b-aba5-112206daa358
+ms.date: 06/08/2017
 ---
 
 

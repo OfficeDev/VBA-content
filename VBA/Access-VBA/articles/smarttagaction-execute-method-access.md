@@ -3,10 +3,11 @@ title: SmartTagAction.Execute Method (Access)
 keywords: vbaac10.chm13293
 f1_keywords:
 - vbaac10.chm13293
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTagAction.Execute
 ms.assetid: 0cc72e04-22aa-2d1c-707b-6b61868448ac
+ms.date: 06/08/2017
 ---
 
 

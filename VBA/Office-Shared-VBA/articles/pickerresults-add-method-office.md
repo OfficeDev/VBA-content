@@ -3,10 +3,11 @@ title: PickerResults.Add Method (Office)
 keywords: vbaof11.chm339003
 f1_keywords:
 - vbaof11.chm339003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResults.Add
 ms.assetid: cf6e4f0f-4373-3caa-ddb3-512ca5c4675f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Table Object, Project [vbapj.chm131325]
 keywords: vbapj.chm131325
 f1_keywords:
 - vbapj.chm131325
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b66af5c3-953a-4f57-ab9f-55c4df25c4b8
+ms.date: 06/08/2017
 ---
 
 

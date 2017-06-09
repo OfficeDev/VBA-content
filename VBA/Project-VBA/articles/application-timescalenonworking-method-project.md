@@ -3,10 +3,11 @@ title: Application.TimescaleNonWorking Method (Project)
 keywords: vbapj.chm914
 f1_keywords:
 - vbapj.chm914
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TimescaleNonWorking
 ms.assetid: bc43da1f-1854-d1ca-f44b-48f660f9336f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Row.Name Property (Visio)
 keywords: vis_sdr.chm15813930
 f1_keywords:
 - vis_sdr.chm15813930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.Name
 ms.assetid: a6ff24c1-5bed-ecfa-fcbb-889cbc637263
+ms.date: 06/08/2017
 ---
 
 

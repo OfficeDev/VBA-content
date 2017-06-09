@@ -3,10 +3,11 @@ title: FileExportConverters.Item Property (Excel)
 keywords: vbaxl10.chm865076
 f1_keywords:
 - vbaxl10.chm865076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FileExportConverters.Item
 ms.assetid: 02df282d-70c2-bcae-bb68-78f07f41c8df
+ms.date: 06/08/2017
 ---
 
 

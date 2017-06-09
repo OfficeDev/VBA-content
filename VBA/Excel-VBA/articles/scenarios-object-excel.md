@@ -3,10 +3,11 @@ title: Scenarios Object (Excel)
 keywords: vbaxl10.chm361072
 f1_keywords:
 - vbaxl10.chm361072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenarios
 ms.assetid: 90d6ff4b-f329-a04c-040e-a39bb501a58b
+ms.date: 06/08/2017
 ---
 
 

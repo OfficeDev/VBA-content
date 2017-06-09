@@ -3,10 +3,11 @@ title: WorksheetFunction.RoundDown Method (Excel)
 keywords: vbaxl10.chm137158
 f1_keywords:
 - vbaxl10.chm137158
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.RoundDown
 ms.assetid: 44b334b1-39cf-3be1-bc57-02864c29a995
+ms.date: 06/08/2017
 ---
 
 

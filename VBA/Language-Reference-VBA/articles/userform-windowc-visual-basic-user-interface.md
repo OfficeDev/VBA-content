@@ -3,8 +3,9 @@ title: UserForm Windows (Visual Basic User Interface)
 keywords: vbui6.chm1103822
 f1_keywords:
 - vbui6.chm1103822
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6296ce3-e7bc-5695-63ce-5509c258adc5
+ms.date: 06/08/2017
 ---
 
 

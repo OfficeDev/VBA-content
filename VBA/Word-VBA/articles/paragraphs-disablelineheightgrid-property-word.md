@@ -3,10 +3,11 @@ title: Paragraphs.DisableLineHeightGrid Property (Word)
 keywords: vbawd10.chm156762237
 f1_keywords:
 - vbawd10.chm156762237
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.DisableLineHeightGrid
 ms.assetid: 287370a2-bf08-0104-ec28-ba9e934a8848
+ms.date: 06/08/2017
 ---
 
 

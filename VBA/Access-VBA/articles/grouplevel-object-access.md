@@ -3,10 +3,11 @@ title: GroupLevel Object (Access)
 keywords: vbaac10.chm12247
 f1_keywords:
 - vbaac10.chm12247
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel
 ms.assetid: fdc4f24e-98aa-27bd-7a9d-271d48912dfa
+ms.date: 06/08/2017
 ---
 
 

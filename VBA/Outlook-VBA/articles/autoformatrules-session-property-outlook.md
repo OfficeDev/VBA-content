@@ -3,10 +3,11 @@ title: AutoFormatRules.Session Property (Outlook)
 keywords: vbaol11.chm2715
 f1_keywords:
 - vbaol11.chm2715
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Session
 ms.assetid: 725f7311-29bd-8536-4625-896cc9baffcb
+ms.date: 06/08/2017
 ---
 
 

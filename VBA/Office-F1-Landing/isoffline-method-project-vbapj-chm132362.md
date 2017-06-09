@@ -3,8 +3,9 @@ title: IsOffline Method, Project [vbapj.chm132362]
 keywords: vbapj.chm132362
 f1_keywords:
 - vbapj.chm132362
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec20542c-fdd6-420b-9c2d-c89e4e8e20ca
+ms.date: 06/08/2017
 ---
 
 

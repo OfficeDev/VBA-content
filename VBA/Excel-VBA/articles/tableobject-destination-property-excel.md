@@ -3,8 +3,9 @@ title: TableObject.Destination Property (Excel)
 keywords: vbaxl10.chm916077
 f1_keywords:
 - vbaxl10.chm916077
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 2bf2e258-d289-2503-a87c-c68561cd1296
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Project.ResourcePoolName Property (Project)
 keywords: vbapj.chm132573
 f1_keywords:
 - vbapj.chm132573
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ResourcePoolName
 ms.assetid: 74d426a7-00ed-7a29-5f25-e0f2391add4d
+ms.date: 06/08/2017
 ---
 
 

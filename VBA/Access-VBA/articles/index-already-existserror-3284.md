@@ -1,13 +1,14 @@
 ---
 title: Index already exists. (Error 3284)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d26f3a70-4fcd-1c20-20af-92479392513a
+ms.date: 06/08/2017
 ---
 
 
 # Index already exists. (Error 3284)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

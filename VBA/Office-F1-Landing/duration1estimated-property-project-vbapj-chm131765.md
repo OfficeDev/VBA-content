@@ -3,8 +3,9 @@ title: Duration1Estimated Property, Project [vbapj.chm131765]
 keywords: vbapj.chm131765
 f1_keywords:
 - vbapj.chm131765
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92d88a8c-1428-4491-9fb7-5eed3592fbfd
+ms.date: 06/08/2017
 ---
 
 

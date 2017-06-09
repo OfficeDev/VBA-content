@@ -3,10 +3,11 @@ title: Range.BorderAround Method (Excel)
 keywords: vbaxl10.chm144252
 f1_keywords:
 - vbaxl10.chm144252
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.BorderAround
 ms.assetid: 3ffeb131-45f7-7799-e04a-11577fedaa16
+ms.date: 06/08/2017
 ---
 
 

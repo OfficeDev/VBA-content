@@ -3,10 +3,11 @@ title: WorksheetFunction.Ispmt Method (Excel)
 keywords: vbaxl10.chm137244
 f1_keywords:
 - vbaxl10.chm137244
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ispmt
 ms.assetid: e728944b-f15e-623b-08a4-97d45d3b8473
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Row.Cells Property (Word)
 keywords: vbawd10.chm156237924
 f1_keywords:
 - vbawd10.chm156237924
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Cells
 ms.assetid: d1f4bf00-ffcf-f488-a779-3f73b7a6f59f
+ms.date: 06/08/2017
 ---
 
 

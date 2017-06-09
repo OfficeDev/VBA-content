@@ -3,10 +3,11 @@ title: Shapes.Application Property (Publisher)
 keywords: vbapb10.chm2162689
 f1_keywords:
 - vbapb10.chm2162689
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.Application
 ms.assetid: 433bc241-b009-9d40-0630-5e81fbfc4064
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.BeforeDelConfirm Property (Access)
 keywords: vbaac10.chm13438
 f1_keywords:
 - vbaac10.chm13438
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeDelConfirm
 ms.assetid: 8926afb1-5a86-eddd-5b3f-68abe83fb076
+ms.date: 06/08/2017
 ---
 
 

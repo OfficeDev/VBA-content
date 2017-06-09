@@ -3,10 +3,11 @@ title: Chart.GetChartElement Method (Word)
 keywords: vbawd10.chm79365505
 f1_keywords:
 - vbawd10.chm79365505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.GetChartElement
 ms.assetid: e9ebb101-1625-9a6a-1da9-dbb02c49f01c
+ms.date: 06/08/2017
 ---
 
 

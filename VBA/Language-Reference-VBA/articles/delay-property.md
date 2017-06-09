@@ -3,10 +3,11 @@ title: Delay Property
 keywords: fm20.chm5225031
 f1_keywords:
 - fm20.chm5225031
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Delay
 ms.assetid: 12d76300-bd1c-4b65-ca8e-b9c63e19100f
+ms.date: 06/08/2017
 ---
 
 

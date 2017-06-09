@@ -3,10 +3,11 @@ title: Form.OnConnect Property (Access)
 keywords: vbaac10.chm13536,vbaac10.chm5100
 f1_keywords:
 - vbaac10.chm13536,vbaac10.chm5100
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnConnect
 ms.assetid: de181e49-ccba-52fa-f521-3e55f3ed78d2
+ms.date: 06/08/2017
 ---
 
 

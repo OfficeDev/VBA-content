@@ -3,14 +3,15 @@ title: There is a sharing violation in the source dropbox folder because the mes
 keywords: jeterr40.chm5003565
 f1_keywords:
 - jeterr40.chm5003565
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0512447b-175e-c881-f824-b3784424fb2a
+ms.date: 06/08/2017
 ---
 
 
 # There is a sharing violation in the source dropbox folder because the message database is open in another application. (Error 3565)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

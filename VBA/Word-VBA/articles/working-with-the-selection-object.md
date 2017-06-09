@@ -1,7 +1,8 @@
 ---
 title: Working with the Selection Object
-ms.prod: WORD
+ms.prod: word
 ms.assetid: a1ef7e48-5a0f-d278-4b67-7b96f4e24052
+ms.date: 06/08/2017
 ---
 
 

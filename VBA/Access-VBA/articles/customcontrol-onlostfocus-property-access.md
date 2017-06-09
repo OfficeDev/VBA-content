@@ -3,10 +3,11 @@ title: CustomControl.OnLostFocus Property (Access)
 keywords: vbaac10.chm12044
 f1_keywords:
 - vbaac10.chm12044
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.OnLostFocus
 ms.assetid: 5bbe697b-d9e7-a534-d4b2-ec2e05452682
+ms.date: 06/08/2017
 ---
 
 

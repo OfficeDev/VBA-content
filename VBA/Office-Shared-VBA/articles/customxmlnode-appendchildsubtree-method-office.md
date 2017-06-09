@@ -3,10 +3,11 @@ title: CustomXMLNode.AppendChildSubtree Method (Office)
 keywords: vbaof11.chm294020
 f1_keywords:
 - vbaof11.chm294020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.AppendChildSubtree
 ms.assetid: 67899ba9-7e5a-e40e-2e33-b02ff1fff4b4
+ms.date: 06/08/2017
 ---
 
 

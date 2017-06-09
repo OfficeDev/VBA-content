@@ -3,10 +3,11 @@ title: AutoCorrectEntry.Application Property (Word)
 keywords: vbawd10.chm155649000
 f1_keywords:
 - vbawd10.chm155649000
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntry.Application
 ms.assetid: b500b7b6-39a6-ba24-339f-0761c6e9a5a7
+ms.date: 06/08/2017
 ---
 
 

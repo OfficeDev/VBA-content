@@ -1,9 +1,10 @@
 ---
 title: XlUnderlineStyle Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlUnderlineStyle
 ms.assetid: 226d40cc-d557-8c54-9fe5-1aeaebdad147
+ms.date: 06/08/2017
 ---
 
 

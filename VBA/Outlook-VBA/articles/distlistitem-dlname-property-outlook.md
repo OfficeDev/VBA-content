@@ -3,10 +3,11 @@ title: DistListItem.DLName Property (Outlook)
 keywords: vbaol11.chm1148
 f1_keywords:
 - vbaol11.chm1148
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.DLName
 ms.assetid: 38d027b7-89f9-1659-84e0-35473b07c088
+ms.date: 06/08/2017
 ---
 
 

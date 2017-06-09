@@ -3,10 +3,11 @@ title: Selection.InsertColumnsRight Method (Word)
 keywords: vbawd10.chm158663194
 f1_keywords:
 - vbawd10.chm158663194
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertColumnsRight
 ms.assetid: 0367ae17-d5f0-90f6-7834-4856ff7a1530
+ms.date: 06/08/2017
 ---
 
 

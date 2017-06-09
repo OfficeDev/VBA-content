@@ -3,10 +3,11 @@ title: AllTables Object (Access)
 keywords: vbaac10.chm12688
 f1_keywords:
 - vbaac10.chm12688
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllTables
 ms.assetid: 530bff2d-1d0b-4790-a0f4-ffc628e7f130
+ms.date: 06/08/2017
 ---
 
 

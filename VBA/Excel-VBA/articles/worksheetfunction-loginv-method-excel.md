@@ -3,10 +3,11 @@ title: WorksheetFunction.LogInv Method (Excel)
 keywords: vbaxl10.chm137195
 f1_keywords:
 - vbaxl10.chm137195
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LogInv
 ms.assetid: 414a4e30-1225-279b-2981-bbb798338b18
+ms.date: 06/08/2017
 ---
 
 

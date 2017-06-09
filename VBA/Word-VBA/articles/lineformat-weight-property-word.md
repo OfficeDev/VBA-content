@@ -3,10 +3,11 @@ title: LineFormat.Weight Property (Word)
 keywords: vbawd10.chm164233329
 f1_keywords:
 - vbawd10.chm164233329
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.Weight
 ms.assetid: 81439a12-175e-9ea6-7fd8-ee4207a23752
+ms.date: 06/08/2017
 ---
 
 

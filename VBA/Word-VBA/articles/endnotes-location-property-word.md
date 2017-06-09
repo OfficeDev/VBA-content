@@ -3,10 +3,11 @@ title: Endnotes.Location Property (Word)
 keywords: vbawd10.chm155254884
 f1_keywords:
 - vbawd10.chm155254884
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.Location
 ms.assetid: 948dd801-4ae3-0063-0bfd-28ea141d0b69
+ms.date: 06/08/2017
 ---
 
 

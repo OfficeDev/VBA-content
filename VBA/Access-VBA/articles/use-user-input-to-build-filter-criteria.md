@@ -1,7 +1,8 @@
 ---
 title: Use User Input to Build Filter Criteria
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0ce3417e-3527-ded4-0940-691c5c81352c
+ms.date: 06/08/2017
 ---
 
 

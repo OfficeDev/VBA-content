@@ -3,10 +3,11 @@ title: UniqueValues.Creator Property (Excel)
 keywords: vbaxl10.chm825074
 f1_keywords:
 - vbaxl10.chm825074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.Creator
 ms.assetid: d710b769-8c9b-12f9-ff31-77d4bb14bf64
+ms.date: 06/08/2017
 ---
 
 

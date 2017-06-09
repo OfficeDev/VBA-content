@@ -3,14 +3,15 @@ title: Text Box Control
 keywords: vbaac10.chm5186618
 f1_keywords:
 - vbaac10.chm5186618
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 596913de-8f53-9643-484b-e28dabd9019f
+ms.date: 06/08/2017
 ---
 
 
 # Text Box Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,14 +3,15 @@ title: Cannot delete this index or table. It is either the current index or is u
 keywords: jeterr40.chm5003281
 f1_keywords:
 - jeterr40.chm5003281
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e4bda7bb-5bac-fb89-c2f5-4c66ce371b79
+ms.date: 06/08/2017
 ---
 
 
 # Cannot delete this index or table. It is either the current index or is used in a relationship. (Error 3281)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

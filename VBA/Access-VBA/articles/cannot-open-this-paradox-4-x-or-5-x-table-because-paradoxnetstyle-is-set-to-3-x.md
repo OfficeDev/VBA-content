@@ -3,14 +3,15 @@ title: Cannot open this Paradox 4.x or 5.x table because ParadoxNetStyle is set 
 keywords: jeterr40.chm5003419
 f1_keywords:
 - jeterr40.chm5003419
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 020660b7-10ab-15dc-54f5-091ed149bac4
+ms.date: 06/08/2017
 ---
 
 
 # Cannot open this Paradox 4.x or 5.x table because ParadoxNetStyle is set to 3.x in the Windows Registry. (Error 3419)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

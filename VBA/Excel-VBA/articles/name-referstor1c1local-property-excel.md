@@ -3,10 +3,11 @@ title: Name.RefersToR1C1Local Property (Excel)
 keywords: vbaxl10.chm490087
 f1_keywords:
 - vbaxl10.chm490087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.RefersToR1C1Local
 ms.assetid: 314b8764-5f5c-9a2f-87a7-54637de59bbd
+ms.date: 06/08/2017
 ---
 
 

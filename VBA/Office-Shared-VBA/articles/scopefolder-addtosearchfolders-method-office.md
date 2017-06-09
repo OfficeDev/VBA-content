@@ -3,10 +3,11 @@ title: ScopeFolder.AddToSearchFolders Method (Office)
 keywords: vbaof11.chm259004
 f1_keywords:
 - vbaof11.chm259004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ScopeFolder.AddToSearchFolders
 ms.assetid: e77e2406-b709-0f3e-736d-2fd56c7447e1
+ms.date: 06/08/2017
 ---
 
 

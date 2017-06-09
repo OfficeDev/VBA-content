@@ -3,8 +3,9 @@ title: While...Wend Statement, Office Shared [vblr6.chm1009059]
 keywords: vblr6.chm1009059
 f1_keywords:
 - vblr6.chm1009059
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8ae1fb70-db4e-4680-a2f4-a7419d344c2a
+ms.date: 06/08/2017
 ---
 
 

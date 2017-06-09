@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Index Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Index
 ms.assetid: a844b760-d165-02aa-41ad-0bc75c55d0ed
+ms.date: 06/08/2017
 ---
 
 

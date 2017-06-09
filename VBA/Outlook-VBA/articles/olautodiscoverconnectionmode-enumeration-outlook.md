@@ -3,10 +3,11 @@ title: OlAutoDiscoverConnectionMode Enumeration (Outlook)
 keywords: vbaol11.chm3302
 f1_keywords:
 - vbaol11.chm3302
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAutoDiscoverConnectionMode
 ms.assetid: fee21188-a513-c272-0311-544956c03786
+ms.date: 06/08/2017
 ---
 
 

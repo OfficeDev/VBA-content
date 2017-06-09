@@ -3,10 +3,11 @@ title: MailMergeDataSource.ApplyFilter Method (Publisher)
 keywords: vbapb10.chm6291492
 f1_keywords:
 - vbapb10.chm6291492
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.ApplyFilter
 ms.assetid: a94af75c-e558-7160-76c9-c0f8c3fb317d
+ms.date: 06/08/2017
 ---
 
 

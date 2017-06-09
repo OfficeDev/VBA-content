@@ -3,10 +3,11 @@ title: JournalItem.Parent Property (Outlook)
 keywords: vbaol11.chm1230
 f1_keywords:
 - vbaol11.chm1230
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Parent
 ms.assetid: e1794da3-13d3-5de5-66f2-8aa211c9d59d
+ms.date: 06/08/2017
 ---
 
 

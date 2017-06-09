@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Type Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Type
 ms.assetid: 1f8d29ac-f429-7190-f5b9-76eb0aa5a0be
+ms.date: 06/08/2017
 ---
 
 

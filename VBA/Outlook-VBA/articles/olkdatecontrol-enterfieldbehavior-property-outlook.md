@@ -3,10 +3,11 @@ title: OlkDateControl.EnterFieldBehavior Property (Outlook)
 keywords: vbaol11.chm1000348
 f1_keywords:
 - vbaol11.chm1000348
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.EnterFieldBehavior
 ms.assetid: 985b7c35-cdd7-a75b-309e-a6459beeab31
+ms.date: 06/08/2017
 ---
 
 

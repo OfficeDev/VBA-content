@@ -3,10 +3,11 @@ title: TextColumn2.Number Property (Office)
 keywords: vbaof11.chm0
 f1_keywords:
 - vbaof11.chm0
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn2.Number
 ms.assetid: 076c9908-8988-b9aa-7422-9e9ca5bfc687
+ms.date: 06/08/2017
 ---
 
 

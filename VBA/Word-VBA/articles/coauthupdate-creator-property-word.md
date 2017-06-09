@@ -3,10 +3,11 @@ title: CoAuthUpdate.Creator Property (Word)
 keywords: vbawd10.chm247792617
 f1_keywords:
 - vbawd10.chm247792617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthUpdate.Creator
 ms.assetid: 68e57f41-0826-87bf-e767-7004268f5824
+ms.date: 06/08/2017
 ---
 
 

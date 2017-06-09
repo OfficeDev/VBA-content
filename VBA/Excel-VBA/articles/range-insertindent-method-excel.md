@@ -3,10 +3,11 @@ title: Range.InsertIndent Method (Excel)
 keywords: vbaxl10.chm144148
 f1_keywords:
 - vbaxl10.chm144148
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.InsertIndent
 ms.assetid: 1e004333-a64e-55e4-cf8a-d15e47236f94
+ms.date: 06/08/2017
 ---
 
 

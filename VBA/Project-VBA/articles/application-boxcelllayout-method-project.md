@@ -3,10 +3,11 @@ title: Application.BoxCellLayout Method (Project)
 keywords: vbapj.chm2392
 f1_keywords:
 - vbapj.chm2392
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxCellLayout
 ms.assetid: 9b1ab0f5-d3ef-3258-aa01-ae1dea264ec5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailMessage.ToggleHeader Method (Word)
 keywords: vbawd10.chm163184984
 f1_keywords:
 - vbawd10.chm163184984
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.ToggleHeader
 ms.assetid: 8f77e266-a537-8b89-134e-e0a053e9d150
+ms.date: 06/08/2017
 ---
 
 

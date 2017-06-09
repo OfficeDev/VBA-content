@@ -3,10 +3,11 @@ title: Form.SelectionChange Property (Access)
 keywords: vbaac10.chm13541
 f1_keywords:
 - vbaac10.chm13541
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SelectionChange
 ms.assetid: e31876fc-103a-d231-a6fa-7cb026a343e1
+ms.date: 06/08/2017
 ---
 
 

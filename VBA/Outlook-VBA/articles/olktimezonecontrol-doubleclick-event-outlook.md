@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.DoubleClick Event (Outlook)
 keywords: vbaol11.chm1000517
 f1_keywords:
 - vbaol11.chm1000517
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.DoubleClick
 ms.assetid: 2d04a3fc-a7f6-f851-7462-6d9adc95884b
+ms.date: 06/08/2017
 ---
 
 

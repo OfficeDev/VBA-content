@@ -3,8 +3,9 @@ title: Tag Property, Access [vbaac10.chm11105]
 keywords: vbaac10.chm11105
 f1_keywords:
 - vbaac10.chm11105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 84d29f5a-679b-4af4-ab77-d67d589e680c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Resource.Budget Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Budget
 ms.assetid: 472af288-3686-7b2c-97e6-6a66acfccd1f
+ms.date: 06/08/2017
 ---
 
 

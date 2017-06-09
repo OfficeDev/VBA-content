@@ -3,10 +3,11 @@ title: QueryTable.TextFileCommaDelimiter Property (Excel)
 keywords: vbaxl10.chm518105
 f1_keywords:
 - vbaxl10.chm518105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileCommaDelimiter
 ms.assetid: c6a7aefa-2b66-81a9-52ca-033cf606805b
+ms.date: 06/08/2017
 ---
 
 

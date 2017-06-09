@@ -1,9 +1,10 @@
 ---
 title: SharingItem.BeforeAttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentRead
 ms.assetid: c2b31eb8-4716-575b-8160-c620c78562e2
+ms.date: 06/08/2017
 ---
 
 

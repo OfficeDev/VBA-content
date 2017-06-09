@@ -3,10 +3,11 @@ title: Page.Import Method (Visio)
 keywords: vis_sdr.chm10916355
 f1_keywords:
 - vis_sdr.chm10916355
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Import
 ms.assetid: a84086c3-694d-8cf3-e6f7-ba84e182dd4a
+ms.date: 06/08/2017
 ---
 
 

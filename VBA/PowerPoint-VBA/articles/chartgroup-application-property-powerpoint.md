@@ -3,10 +3,11 @@ title: ChartGroup.Application Property (PowerPoint)
 keywords: vbapp10.chm692006
 f1_keywords:
 - vbapp10.chm692006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.Application
 ms.assetid: 39454584-f30b-0c86-979a-fc0826f4b7ec
+ms.date: 06/08/2017
 ---
 
 

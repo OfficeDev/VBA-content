@@ -3,10 +3,11 @@ title: Options.EnableSound Property (Word)
 keywords: vbawd10.chm162988053
 f1_keywords:
 - vbawd10.chm162988053
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.EnableSound
 ms.assetid: c7934437-2d32-2a2a-9eab-c0dac74b2108
+ms.date: 06/08/2017
 ---
 
 

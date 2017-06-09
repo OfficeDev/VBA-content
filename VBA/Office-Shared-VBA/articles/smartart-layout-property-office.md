@@ -1,9 +1,10 @@
 ---
 title: SmartArt.Layout Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArt.Layout
 ms.assetid: 5aa76408-9c49-2430-eaea-8893a341b106
+ms.date: 06/08/2017
 ---
 
 

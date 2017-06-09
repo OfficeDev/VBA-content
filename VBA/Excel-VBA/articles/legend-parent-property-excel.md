@@ -3,10 +3,11 @@ title: Legend.Parent Property (Excel)
 keywords: vbaxl10.chm622073
 f1_keywords:
 - vbaxl10.chm622073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend.Parent
 ms.assetid: c419b373-af3a-faa9-6934-2aa53bcdd555
+ms.date: 06/08/2017
 ---
 
 

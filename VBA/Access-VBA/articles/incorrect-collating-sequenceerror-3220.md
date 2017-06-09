@@ -1,13 +1,14 @@
 ---
 title: Incorrect collating sequence. (Error 3220)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c8cbfc7d-92a0-f116-dcdb-654b8f74a054
+ms.date: 06/08/2017
 ---
 
 
 # Incorrect collating sequence. (Error 3220)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

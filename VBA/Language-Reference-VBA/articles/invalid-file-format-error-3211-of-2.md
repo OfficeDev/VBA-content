@@ -3,8 +3,9 @@ title: Invalid file format (Error 321) [1 of 2]
 keywords: vblr6.chm1117815
 f1_keywords:
 - vblr6.chm1117815
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a7287746-d3a1-08d7-483a-f5f1569b5269
+ms.date: 06/08/2017
 ---
 
 

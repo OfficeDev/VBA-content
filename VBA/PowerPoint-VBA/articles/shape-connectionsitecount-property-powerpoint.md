@@ -3,10 +3,11 @@ title: Shape.ConnectionSiteCount Property (PowerPoint)
 keywords: vbapp10.chm547019
 f1_keywords:
 - vbapp10.chm547019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ConnectionSiteCount
 ms.assetid: 2180bb96-d205-03f3-1ace-355f34286b2e
+ms.date: 06/08/2017
 ---
 
 

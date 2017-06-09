@@ -3,10 +3,11 @@ title: MailItem.RetentionPolicyName Property (Outlook)
 keywords: vbaol11.chm3558
 f1_keywords:
 - vbaol11.chm3558
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.RetentionPolicyName
 ms.assetid: 27e2c3da-ff1a-c261-72cc-b915d89e1019
+ms.date: 06/08/2017
 ---
 
 

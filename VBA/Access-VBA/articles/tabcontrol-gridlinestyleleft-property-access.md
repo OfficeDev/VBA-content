@@ -3,10 +3,11 @@ title: TabControl.GridlineStyleLeft Property (Access)
 keywords: vbaac10.chm14540
 f1_keywords:
 - vbaac10.chm14540
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineStyleLeft
 ms.assetid: cda36fc3-c96b-aaab-753d-9921b277c311
+ms.date: 06/08/2017
 ---
 
 

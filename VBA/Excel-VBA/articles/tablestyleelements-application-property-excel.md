@@ -3,10 +3,11 @@ title: TableStyleElements.Application Property (Excel)
 keywords: vbaxl10.chm836073
 f1_keywords:
 - vbaxl10.chm836073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyleElements.Application
 ms.assetid: 0aceeb49-8605-f7f6-b19e-c1cc2e0d1af4
+ms.date: 06/08/2017
 ---
 
 

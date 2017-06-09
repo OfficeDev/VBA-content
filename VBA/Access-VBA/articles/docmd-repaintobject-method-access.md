@@ -3,10 +3,11 @@ title: DoCmd.RepaintObject Method (Access)
 keywords: vbaac10.chm4169
 f1_keywords:
 - vbaac10.chm4169
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.RepaintObject
 ms.assetid: 6def040f-ae34-ce49-d3a0-786ad09bdc20
+ms.date: 06/08/2017
 ---
 
 

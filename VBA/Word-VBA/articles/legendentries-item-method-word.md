@@ -3,10 +3,11 @@ title: LegendEntries.Item Method (Word)
 keywords: vbawd10.chm6815744
 f1_keywords:
 - vbawd10.chm6815744
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntries.Item
 ms.assetid: 52c5b905-0f5b-38c9-edf3-46018e4f4ecb
+ms.date: 06/08/2017
 ---
 
 

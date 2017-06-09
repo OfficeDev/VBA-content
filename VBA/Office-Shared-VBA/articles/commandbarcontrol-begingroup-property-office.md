@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.BeginGroup Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.BeginGroup
 ms.assetid: 529b8c23-ec1f-b37b-a40c-9ae6016f4dc0
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Working with Building Blocks
-ms.prod: WORD
+ms.prod: word
 ms.assetid: c32a8972-a6fc-bb66-b62a-039b88580b37
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Can't rename with different drive (Error 74)
 keywords: vblr6.chm1000074
 f1_keywords:
 - vblr6.chm1000074
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bba0646c-ab26-361e-5a7e-2ef6becac4a1
+ms.date: 06/08/2017
 ---
 
 

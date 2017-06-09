@@ -1,9 +1,10 @@
 ---
 title: MsoWarpFormat Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoWarpFormat
 ms.assetid: 481cead3-900f-66b6-8200-21342b0ce21c
+ms.date: 06/08/2017
 ---
 
 

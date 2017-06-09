@@ -3,10 +3,11 @@ title: Window.Page Property (Visio)
 keywords: vis_sdr.chm11651205
 f1_keywords:
 - vis_sdr.chm11651205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Page
 ms.assetid: 17474ce8-f2d7-40c7-7882-30257803c81a
+ms.date: 06/08/2017
 ---
 
 

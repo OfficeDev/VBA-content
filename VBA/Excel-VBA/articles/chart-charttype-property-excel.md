@@ -3,10 +3,11 @@ title: Chart.ChartType Property (Excel)
 keywords: vbaxl10.chm149149
 f1_keywords:
 - vbaxl10.chm149149
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ChartType
 ms.assetid: 532a2988-babf-b51a-7548-2f11f94c82a6
+ms.date: 06/08/2017
 ---
 
 

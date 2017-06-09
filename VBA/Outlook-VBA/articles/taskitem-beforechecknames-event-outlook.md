@@ -1,9 +1,10 @@
 ---
 title: TaskItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeCheckNames
 ms.assetid: a892d659-1be6-b37e-3a7d-aacf92c19293
+ms.date: 06/08/2017
 ---
 
 

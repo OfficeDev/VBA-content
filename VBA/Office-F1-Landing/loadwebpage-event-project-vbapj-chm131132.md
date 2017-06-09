@@ -3,8 +3,9 @@ title: LoadWebPage Event, Project [vbapj.chm131132]
 keywords: vbapj.chm131132
 f1_keywords:
 - vbapj.chm131132
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bef59f2d-ba0d-4071-987a-fbc2d86b207f
+ms.date: 06/08/2017
 ---
 
 

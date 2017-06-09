@@ -3,10 +3,11 @@ title: Form.ScrollBars Property (Access)
 keywords: vbaac10.chm13363
 f1_keywords:
 - vbaac10.chm13363
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ScrollBars
 ms.assetid: d35e3e88-10ce-20f8-d4b1-305b27992395
+ms.date: 06/08/2017
 ---
 
 

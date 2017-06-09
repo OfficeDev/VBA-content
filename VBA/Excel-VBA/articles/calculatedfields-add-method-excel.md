@@ -3,10 +3,11 @@ title: CalculatedFields.Add Method (Excel)
 keywords: vbaxl10.chm244078
 f1_keywords:
 - vbaxl10.chm244078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedFields.Add
 ms.assetid: 7c01ebbf-d6a4-2b4d-4740-5cb4e2de826a
+ms.date: 06/08/2017
 ---
 
 

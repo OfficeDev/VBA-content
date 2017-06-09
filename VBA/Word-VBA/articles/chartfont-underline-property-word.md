@@ -3,10 +3,11 @@ title: ChartFont.Underline Property (Word)
 keywords: vbawd10.chm255918106
 f1_keywords:
 - vbawd10.chm255918106
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Underline
 ms.assetid: 473bd43d-7f66-b5f1-e9b1-5a37678c332f
+ms.date: 06/08/2017
 ---
 
 

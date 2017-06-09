@@ -3,10 +3,11 @@ title: KeysBoundTo.Command Property (Word)
 keywords: vbawd10.chm160890884
 f1_keywords:
 - vbawd10.chm160890884
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeysBoundTo.Command
 ms.assetid: a8c8a12b-5dce-5103-9309-b0cb36042b80
+ms.date: 06/08/2017
 ---
 
 

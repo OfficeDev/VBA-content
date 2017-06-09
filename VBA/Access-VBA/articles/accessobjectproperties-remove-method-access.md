@@ -3,10 +3,11 @@ title: AccessObjectProperties.Remove Method (Access)
 keywords: vbaac10.chm12704
 f1_keywords:
 - vbaac10.chm12704
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObjectProperties.Remove
 ms.assetid: c06fff7c-2e68-1955-f151-27e105e4be6a
+ms.date: 06/08/2017
 ---
 
 

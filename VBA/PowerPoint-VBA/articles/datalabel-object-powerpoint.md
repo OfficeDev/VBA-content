@@ -3,10 +3,11 @@ title: DataLabel Object (PowerPoint)
 keywords: vbapp10.chm696000
 f1_keywords:
 - vbapp10.chm696000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel
 ms.assetid: a17d23c5-0361-9129-28e5-b892f6966bda
+ms.date: 06/08/2017
 ---
 
 

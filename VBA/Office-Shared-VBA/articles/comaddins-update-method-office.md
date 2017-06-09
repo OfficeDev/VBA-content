@@ -3,10 +3,11 @@ title: COMAddIns.Update Method (Office)
 keywords: vbaof11.chm220004
 f1_keywords:
 - vbaof11.chm220004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIns.Update
 ms.assetid: 4cbaff64-10e8-d792-60b5-29f6de97dc8f
+ms.date: 06/08/2017
 ---
 
 

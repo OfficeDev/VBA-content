@@ -1,9 +1,10 @@
 ---
 title: WdWrapSideType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdWrapSideType
 ms.assetid: a14dc2fc-687e-8732-1b51-895511b2ab9f
+ms.date: 06/08/2017
 ---
 
 

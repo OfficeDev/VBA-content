@@ -3,10 +3,11 @@ title: Form.DividingLines Property (Access)
 keywords: vbaac10.chm13366,vbaac10.chm4337
 f1_keywords:
 - vbaac10.chm13366,vbaac10.chm4337
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DividingLines
 ms.assetid: f8c62451-ccde-43f9-91f6-cdef38571c54
+ms.date: 06/08/2017
 ---
 
 

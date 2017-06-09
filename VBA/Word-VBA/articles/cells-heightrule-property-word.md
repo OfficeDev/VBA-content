@@ -3,10 +3,11 @@ title: Cells.HeightRule Property (Word)
 keywords: vbawd10.chm155844616
 f1_keywords:
 - vbawd10.chm155844616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.HeightRule
 ms.assetid: c9389ec4-5276-f64f-9a49-0871c95706eb
+ms.date: 06/08/2017
 ---
 
 

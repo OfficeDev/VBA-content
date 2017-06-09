@@ -3,10 +3,11 @@ title: CommandEffect.Application Property (PowerPoint)
 keywords: vbapp10.chm668001
 f1_keywords:
 - vbapp10.chm668001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CommandEffect.Application
 ms.assetid: c3b54f4d-5761-9606-b675-9258d5f0faee
+ms.date: 06/08/2017
 ---
 
 

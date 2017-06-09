@@ -3,10 +3,11 @@ title: Application.Top Property (Excel)
 keywords: vbaxl10.chm133216
 f1_keywords:
 - vbaxl10.chm133216
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Top
 ms.assetid: 309bf408-4f10-e343-228b-ebaad86d4b26
+ms.date: 06/08/2017
 ---
 
 

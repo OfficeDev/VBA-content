@@ -3,10 +3,11 @@ title: AutoCorrectEntries.Parent Property (Word)
 keywords: vbawd10.chm155714538
 f1_keywords:
 - vbawd10.chm155714538
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntries.Parent
 ms.assetid: 5c9aefe1-18c1-1b4a-64e0-1ca047ee198a
+ms.date: 06/08/2017
 ---
 
 

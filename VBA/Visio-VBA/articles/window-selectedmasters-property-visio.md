@@ -3,10 +3,11 @@ title: Window.SelectedMasters Property (Visio)
 keywords: vis_sdr.chm11651645
 f1_keywords:
 - vis_sdr.chm11651645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.SelectedMasters
 ms.assetid: 8a4546b4-4930-8c69-9df6-84e6b5a1bce0
+ms.date: 06/08/2017
 ---
 
 

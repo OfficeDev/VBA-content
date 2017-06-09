@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Left Property (Word)
 keywords: vbawd10.chm94568454
 f1_keywords:
 - vbawd10.chm94568454
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Left
 ms.assetid: fd31a971-7d02-bee2-e2aa-a2af03a76035
+ms.date: 06/08/2017
 ---
 
 

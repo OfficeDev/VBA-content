@@ -3,10 +3,11 @@ title: Selection.LayoutChangeDirection Method (Visio)
 keywords: vis_sdr.chm11162195
 f1_keywords:
 - vis_sdr.chm11162195
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.LayoutChangeDirection
 ms.assetid: 1c40348c-1884-1501-3609-aebf2e87686c
+ms.date: 06/08/2017
 ---
 
 

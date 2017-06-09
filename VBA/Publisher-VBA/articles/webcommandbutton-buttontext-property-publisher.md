@@ -3,10 +3,11 @@ title: WebCommandButton.ButtonText Property (Publisher)
 keywords: vbapb10.chm3932164
 f1_keywords:
 - vbapb10.chm3932164
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.ButtonText
 ms.assetid: 0a9a7bd9-de7e-7e80-0aa2-7cefda17f354
+ms.date: 06/08/2017
 ---
 
 

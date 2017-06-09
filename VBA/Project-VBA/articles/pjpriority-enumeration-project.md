@@ -1,9 +1,10 @@
 ---
 title: PjPriority Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjPriority
 ms.assetid: 6df0275e-e8a2-6770-c465-010c804ceefb
+ms.date: 06/08/2017
 ---
 
 

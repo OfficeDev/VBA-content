@@ -3,10 +3,11 @@ title: Stores.Class Property (Outlook)
 keywords: vbaol11.chm815
 f1_keywords:
 - vbaol11.chm815
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Stores.Class
 ms.assetid: fb2b9b17-052c-9b25-53ee-b8fcd9e72cc8
+ms.date: 06/08/2017
 ---
 
 

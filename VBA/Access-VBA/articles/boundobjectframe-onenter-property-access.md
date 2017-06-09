@@ -3,10 +3,11 @@ title: BoundObjectFrame.OnEnter Property (Access)
 keywords: vbaac10.chm10964
 f1_keywords:
 - vbaac10.chm10964
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnEnter
 ms.assetid: 8374c513-ede2-4ed7-2e35-55755cfd3942
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WrapFormat.AllowOverlap Property (Word)
 keywords: vbawd10.chm163774570
 f1_keywords:
 - vbawd10.chm163774570
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.AllowOverlap
 ms.assetid: b224d70d-0128-cfec-39f2-97fd12b0c5ca
+ms.date: 06/08/2017
 ---
 
 

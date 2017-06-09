@@ -3,10 +3,11 @@ title: TextBox.EnterKeyBehavior Property (Access)
 keywords: vbaac10.chm11054,vbaac10.chm4343
 f1_keywords:
 - vbaac10.chm11054,vbaac10.chm4343
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.EnterKeyBehavior
 ms.assetid: b7830316-a1aa-ddc1-094f-5976c5298bc1
+ms.date: 06/08/2017
 ---
 
 

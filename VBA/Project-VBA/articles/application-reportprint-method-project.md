@@ -3,10 +3,11 @@ title: Application.ReportPrint Method (Project)
 keywords: vbapj.chm110
 f1_keywords:
 - vbapj.chm110
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ReportPrint
 ms.assetid: 4117b555-2985-f129-65aa-9f6804ebf221
+ms.date: 06/08/2017
 ---
 
 

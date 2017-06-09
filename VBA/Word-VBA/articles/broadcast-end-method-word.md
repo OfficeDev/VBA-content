@@ -3,8 +3,9 @@ title: Broadcast.End Method (Word)
 keywords: vbawd10.chm36438120
 f1_keywords:
 - vbawd10.chm36438120
-ms.prod: WORD
+ms.prod: word
 ms.assetid: dca52c1c-c337-f9ee-6c82-ef05da5cdf45
+ms.date: 06/08/2017
 ---
 
 

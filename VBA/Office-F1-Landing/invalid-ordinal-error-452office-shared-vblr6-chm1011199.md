@@ -3,8 +3,9 @@ title: Invalid ordinal (Error 452), Office Shared [vblr6.chm1011199]
 keywords: vblr6.chm1011199
 f1_keywords:
 - vblr6.chm1011199
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 533cf718-e145-4def-8fc0-bbd3aabb77e7
+ms.date: 06/08/2017
 ---
 
 

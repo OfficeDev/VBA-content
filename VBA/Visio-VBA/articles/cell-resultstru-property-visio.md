@@ -3,10 +3,11 @@ title: Cell.ResultStrU Property (Visio)
 keywords: vis_sdr.chm10160065
 f1_keywords:
 - vis_sdr.chm10160065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.ResultStrU
 ms.assetid: 2a2fc8c9-eb2c-6c49-9af6-abc120bbd610
+ms.date: 06/08/2017
 ---
 
 

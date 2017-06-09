@@ -3,8 +3,9 @@ title: FlipX Cell (Shape Transform Section), Visio [Vis_DSS.chm380]
 keywords: vis_dss.chm380
 f1_keywords:
 - vis_dss.chm380
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 94e82624-1f53-4ca0-adde-3b4cc4ffc145
+ms.date: 06/08/2017
 ---
 
 

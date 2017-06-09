@@ -1,9 +1,10 @@
 ---
 title: DataLabels.ShowCategoryName Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowCategoryName
 ms.assetid: 0869b709-e09d-2c55-4d74-c4a0d130a551
+ms.date: 06/08/2017
 ---
 
 

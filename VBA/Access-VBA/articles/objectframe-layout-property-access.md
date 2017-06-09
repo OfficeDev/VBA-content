@@ -3,10 +3,11 @@ title: ObjectFrame.Layout Property (Access)
 keywords: vbaac10.chm11638
 f1_keywords:
 - vbaac10.chm11638
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Layout
 ms.assetid: bd666a9f-f4b6-9b33-a6e1-d6a8570133de
+ms.date: 06/08/2017
 ---
 
 

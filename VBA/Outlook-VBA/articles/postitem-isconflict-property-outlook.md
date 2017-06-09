@@ -3,10 +3,11 @@ title: PostItem.IsConflict Property (Outlook)
 keywords: vbaol11.chm1564
 f1_keywords:
 - vbaol11.chm1564
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.IsConflict
 ms.assetid: b2f65ec7-da76-29d1-421c-01163a0aadfe
+ms.date: 06/08/2017
 ---
 
 

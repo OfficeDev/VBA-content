@@ -3,8 +3,9 @@ title: Application Property, Excel [vbagr10.chm65684]
 keywords: vbagr10.chm65684
 f1_keywords:
 - vbagr10.chm65684
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8602e9b7-966a-444f-bfb3-6f9d8fcd54ba
+ms.date: 06/08/2017
 ---
 
 

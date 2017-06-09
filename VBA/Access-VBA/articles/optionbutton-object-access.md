@@ -3,10 +3,11 @@ title: OptionButton Object (Access)
 keywords: vbaac10.chm10671
 f1_keywords:
 - vbaac10.chm10671
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton
 ms.assetid: 661ada74-d044-4a5c-2bdd-2dddfc2e79ab
+ms.date: 06/08/2017
 ---
 
 

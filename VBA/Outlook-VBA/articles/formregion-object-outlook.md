@@ -3,10 +3,11 @@ title: FormRegion Object (Outlook)
 keywords: vbaol11.chm3018
 f1_keywords:
 - vbaol11.chm3018
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion
 ms.assetid: 3a0b83eb-4076-9cb3-86a9-68f9e44df89f
+ms.date: 06/08/2017
 ---
 
 

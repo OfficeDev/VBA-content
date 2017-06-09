@@ -3,8 +3,9 @@ title: Need property-array index (Error 385)
 keywords: vblr6.chm1000385
 f1_keywords:
 - vblr6.chm1000385
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b704c5a3-baea-61df-3921-ca017c092983
+ms.date: 06/08/2017
 ---
 
 

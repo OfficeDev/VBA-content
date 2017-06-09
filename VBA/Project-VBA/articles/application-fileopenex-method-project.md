@@ -3,10 +3,11 @@ title: Application.FileOpenEx Method (Project)
 keywords: vbapj.chm102
 f1_keywords:
 - vbapj.chm102
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileOpenEx
 ms.assetid: d03c13b0-c12f-1d45-bb80-26711d69a378
+ms.date: 06/08/2017
 ---
 
 

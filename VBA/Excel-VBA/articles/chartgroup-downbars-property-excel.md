@@ -3,10 +3,11 @@ title: ChartGroup.DownBars Property (Excel)
 keywords: vbaxl10.chm568075
 f1_keywords:
 - vbaxl10.chm568075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.DownBars
 ms.assetid: dd8ae50c-0105-9645-467d-7eb07b56c95e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ThousandSeparator Property, Project [vbapj.chm132752]
 keywords: vbapj.chm132752
 f1_keywords:
 - vbapj.chm132752
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a8bd943-c783-4972-b967-40b739a24c74
+ms.date: 06/08/2017
 ---
 
 

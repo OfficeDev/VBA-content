@@ -3,8 +3,9 @@ title: Return without GoSub (Error 3)
 keywords: vblr6.chm1011266
 f1_keywords:
 - vblr6.chm1011266
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 396d3d0f-6af2-4709-bf3c-3a35668398d7
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.Sort Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2906877d-ea52-7b9d-09f9-58607217a2de
+ms.date: 06/08/2017
 ---
 
 

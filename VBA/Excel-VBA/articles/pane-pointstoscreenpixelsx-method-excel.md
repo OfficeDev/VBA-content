@@ -3,10 +3,11 @@ title: Pane.PointsToScreenPixelsX Method (Excel)
 keywords: vbaxl10.chm360081
 f1_keywords:
 - vbaxl10.chm360081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.PointsToScreenPixelsX
 ms.assetid: 38336ba4-0e2d-f8dc-29b1-184b7663f490
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ChartFillFormat Object
 keywords: vbagr10.chm5207187
 f1_keywords:
 - vbagr10.chm5207187
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFillFormat
 ms.assetid: e011f58f-141b-1b21-0db4-04a5c5e964c6
+ms.date: 06/08/2017
 ---
 
 

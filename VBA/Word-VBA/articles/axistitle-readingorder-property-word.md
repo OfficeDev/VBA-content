@@ -3,10 +3,11 @@ title: AxisTitle.ReadingOrder Property (Word)
 keywords: vbawd10.chm98238482
 f1_keywords:
 - vbawd10.chm98238482
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.ReadingOrder
 ms.assetid: d605eea3-1ab6-a0b6-f6f4-bd5a0bbf4254
+ms.date: 06/08/2017
 ---
 
 

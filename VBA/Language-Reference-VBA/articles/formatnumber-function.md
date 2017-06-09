@@ -3,8 +3,9 @@ title: FormatNumber Function
 keywords: vblr6.chm1008937
 f1_keywords:
 - vblr6.chm1008937
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ab4012b3-efed-bc06-9c5e-416c9200ffed
+ms.date: 06/08/2017
 ---
 
 

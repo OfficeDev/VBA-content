@@ -1,9 +1,10 @@
 ---
 title: Task.GetField Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.GetField
 ms.assetid: 1e5442d1-e36a-bb1c-253c-a2222a6a2fb5
+ms.date: 06/08/2017
 ---
 
 

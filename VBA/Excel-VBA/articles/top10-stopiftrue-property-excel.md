@@ -3,10 +3,11 @@ title: Top10.StopIfTrue Property (Excel)
 keywords: vbaxl10.chm822074
 f1_keywords:
 - vbaxl10.chm822074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.StopIfTrue
 ms.assetid: 12e0820e-8c6b-29c0-fd63-0cd49d175b51
+ms.date: 06/08/2017
 ---
 
 

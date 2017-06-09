@@ -1,9 +1,10 @@
 ---
 title: Viewer.OnMarkupOverlaysVisibleChanged Event (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OnMarkupOverlaysVisibleChanged
 ms.assetid: 343f1bd6-07e1-06a0-c707-7b5ca6baa99c
+ms.date: 06/08/2017
 ---
 
 

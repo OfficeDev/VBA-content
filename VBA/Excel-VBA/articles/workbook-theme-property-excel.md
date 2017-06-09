@@ -3,10 +3,11 @@ title: Workbook.Theme Property (Excel)
 keywords: vbaxl10.chm199254
 f1_keywords:
 - vbaxl10.chm199254
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Theme
 ms.assetid: 1208f610-8c6f-9a62-3378-9566a7ee6b37
+ms.date: 06/08/2017
 ---
 
 

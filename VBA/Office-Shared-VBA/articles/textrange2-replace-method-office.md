@@ -1,9 +1,10 @@
 ---
 title: TextRange2.Replace Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Replace
 ms.assetid: e14f0ad0-3b9c-d9f5-a13d-d3bbdcae50e1
+ms.date: 06/08/2017
 ---
 
 

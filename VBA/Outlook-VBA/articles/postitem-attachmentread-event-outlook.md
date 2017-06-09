@@ -1,9 +1,10 @@
 ---
 title: PostItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentRead
 ms.assetid: 3e3e781e-a671-35c6-4715-1942fb1dc39a
+ms.date: 06/08/2017
 ---
 
 

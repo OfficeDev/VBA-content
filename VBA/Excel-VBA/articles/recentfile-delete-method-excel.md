@@ -3,10 +3,11 @@ title: RecentFile.Delete Method (Excel)
 keywords: vbaxl10.chm170077
 f1_keywords:
 - vbaxl10.chm170077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFile.Delete
 ms.assetid: 3e37b557-56a1-a8c0-dcd6-17945a1bc8d4
+ms.date: 06/08/2017
 ---
 
 

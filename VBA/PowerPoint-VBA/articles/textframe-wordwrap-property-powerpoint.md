@@ -3,10 +3,11 @@ title: TextFrame.WordWrap Property (PowerPoint)
 keywords: vbapp10.chm558013
 f1_keywords:
 - vbapp10.chm558013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.WordWrap
 ms.assetid: f6077142-9afd-b274-7301-3e63d962e7b3
+ms.date: 06/08/2017
 ---
 
 

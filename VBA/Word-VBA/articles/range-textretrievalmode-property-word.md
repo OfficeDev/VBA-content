@@ -3,10 +3,11 @@ title: Range.TextRetrievalMode Property (Word)
 keywords: vbawd10.chm157155390
 f1_keywords:
 - vbawd10.chm157155390
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.TextRetrievalMode
 ms.assetid: e3992479-ba69-e8d3-17e3-73b533f27d26
+ms.date: 06/08/2017
 ---
 
 

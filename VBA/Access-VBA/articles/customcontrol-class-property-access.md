@@ -3,10 +3,11 @@ title: CustomControl.Class Property (Access)
 keywords: vbaac10.chm12012
 f1_keywords:
 - vbaac10.chm12012
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Class
 ms.assetid: c745856b-c447-af0a-ed9e-9945d3917d10
+ms.date: 06/08/2017
 ---
 
 

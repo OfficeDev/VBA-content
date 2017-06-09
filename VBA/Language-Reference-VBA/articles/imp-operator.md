@@ -3,8 +3,9 @@ title: Imp Operator
 keywords: vblr6.chm1008941
 f1_keywords:
 - vblr6.chm1008941
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7f1d82c0-de89-40ae-a504-804d7cf04e28
+ms.date: 06/08/2017
 ---
 
 

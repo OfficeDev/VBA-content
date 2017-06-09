@@ -3,8 +3,9 @@ title: CalloutRelationshipAdded Event, Visio [vis_sdr.chm10062075]
 keywords: vis_sdr.chm10062075
 f1_keywords:
 - vis_sdr.chm10062075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 983de2fc-44f1-47af-b3e4-5f61087fc870
+ms.date: 06/08/2017
 ---
 
 

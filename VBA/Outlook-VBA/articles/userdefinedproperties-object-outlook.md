@@ -3,10 +3,11 @@ title: UserDefinedProperties Object (Outlook)
 keywords: vbaol11.chm3152
 f1_keywords:
 - vbaol11.chm3152
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties
 ms.assetid: 196e5d4c-22be-02d3-95e0-3ea7594c2e4b
+ms.date: 06/08/2017
 ---
 
 

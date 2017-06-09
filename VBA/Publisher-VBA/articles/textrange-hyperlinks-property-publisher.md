@@ -3,10 +3,11 @@ title: TextRange.Hyperlinks Property (Publisher)
 keywords: vbapb10.chm5308485
 f1_keywords:
 - vbapb10.chm5308485
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Hyperlinks
 ms.assetid: 0cf1f043-532c-3ffc-67cf-389adc5ac02f
+ms.date: 06/08/2017
 ---
 
 

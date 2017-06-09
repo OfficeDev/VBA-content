@@ -3,14 +3,15 @@ title: Invalid Date setting in the Xbase key of the Windows Registry. (Error 321
 keywords: jeterr40.chm5003213
 f1_keywords:
 - jeterr40.chm5003213
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5b7dc860-05f9-d6e6-0da5-4b62f258b872
+ms.date: 06/08/2017
 ---
 
 
 # Invalid Date setting in the Xbase key of the Windows Registry. (Error 3213)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

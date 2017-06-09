@@ -3,10 +3,11 @@ title: ReportItem.Subject Property (Outlook)
 keywords: vbaol11.chm1661
 f1_keywords:
 - vbaol11.chm1661
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Subject
 ms.assetid: 0c4ed1df-3ebd-3b0c-2ea7-548cc6576481
+ms.date: 06/08/2017
 ---
 
 

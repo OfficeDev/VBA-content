@@ -3,10 +3,11 @@ title: OlkLabel.BackStyle Property (Outlook)
 keywords: vbaol11.chm1000089
 f1_keywords:
 - vbaol11.chm1000089
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.BackStyle
 ms.assetid: 29623b4a-841b-1a18-c858-366879ec76a8
+ms.date: 06/08/2017
 ---
 
 

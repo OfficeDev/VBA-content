@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Vertices Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 5df31583-7e8a-2bc1-ed6b-719960fb7de1
+ms.date: 06/08/2017
 ---
 
 

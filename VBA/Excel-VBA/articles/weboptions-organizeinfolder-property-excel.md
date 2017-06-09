@@ -3,10 +3,11 @@ title: WebOptions.OrganizeInFolder Property (Excel)
 keywords: vbaxl10.chm662074
 f1_keywords:
 - vbaxl10.chm662074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.OrganizeInFolder
 ms.assetid: 9df9aff2-3a24-3e1f-db3e-7280b50b806b
+ms.date: 06/08/2017
 ---
 
 

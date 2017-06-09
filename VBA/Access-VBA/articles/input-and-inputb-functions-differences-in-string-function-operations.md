@@ -1,13 +1,14 @@
 ---
 title: Input and InputB Functions (Differences in String Function Operations)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 49389ce7-dc9b-3014-ec09-5c444d60b8bf
+ms.date: 06/08/2017
 ---
 
 
 # Input and InputB Functions (Differences in String Function Operations)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

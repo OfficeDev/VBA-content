@@ -3,10 +3,11 @@ title: CustomViews.Count Property (Excel)
 keywords: vbaxl10.chm506073
 f1_keywords:
 - vbaxl10.chm506073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomViews.Count
 ms.assetid: 06cefdb0-c448-8d84-c5cf-34f311a76320
+ms.date: 06/08/2017
 ---
 
 

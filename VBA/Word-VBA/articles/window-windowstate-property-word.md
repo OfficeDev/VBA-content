@@ -3,10 +3,11 @@ title: Window.WindowState Property (Word)
 keywords: vbawd10.chm157417483
 f1_keywords:
 - vbawd10.chm157417483
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.WindowState
 ms.assetid: 0be17839-28d5-6ba7-5f66-02504a4aa604
+ms.date: 06/08/2017
 ---
 
 

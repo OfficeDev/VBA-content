@@ -3,10 +3,11 @@ title: CustomXMLSchemaCollection.NamespaceURI Property (Office)
 keywords: vbaof11.chm292004
 f1_keywords:
 - vbaof11.chm292004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.NamespaceURI
 ms.assetid: 28632514-d797-c6bc-2363-a0c07ee842d3
+ms.date: 06/08/2017
 ---
 
 

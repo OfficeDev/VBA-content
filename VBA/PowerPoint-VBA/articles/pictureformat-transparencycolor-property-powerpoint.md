@@ -3,10 +3,11 @@ title: PictureFormat.TransparencyColor Property (PowerPoint)
 keywords: vbapp10.chm551011
 f1_keywords:
 - vbapp10.chm551011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.TransparencyColor
 ms.assetid: 122e69f6-a403-92d1-8ef7-087c9396ed6a
+ms.date: 06/08/2017
 ---
 
 

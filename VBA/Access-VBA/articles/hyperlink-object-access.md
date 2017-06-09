@@ -3,10 +3,11 @@ title: Hyperlink Object (Access)
 keywords: vbaac10.chm10123
 f1_keywords:
 - vbaac10.chm10123
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink
 ms.assetid: 2ece7c11-ed02-8eec-9ecc-4e1aeeaa6e87
+ms.date: 06/08/2017
 ---
 
 

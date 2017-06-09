@@ -3,10 +3,11 @@ title: WebOptionButton.Application Property (Publisher)
 keywords: vbapb10.chm4259841
 f1_keywords:
 - vbapb10.chm4259841
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebOptionButton.Application
 ms.assetid: 36caa60c-1534-0bbf-f73d-992b199dafd6
+ms.date: 06/08/2017
 ---
 
 

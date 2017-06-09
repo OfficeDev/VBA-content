@@ -1,7 +1,8 @@
 ---
 title: ToggleButton.GroupName Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 69787bc9-90cb-c2f7-380d-2f48ab2db270
+ms.date: 06/08/2017
 ---
 
 

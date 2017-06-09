@@ -3,10 +3,11 @@ title: NavigationControl.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm11159
 f1_keywords:
 - vbaac10.chm11159
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.GridlineStyleBottom
 ms.assetid: 9bd6575e-a0a5-0757-c517-a694b04130e8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Global.Parent Property (Word)
 keywords: vbawd10.chm163120106
 f1_keywords:
 - vbawd10.chm163120106
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Parent
 ms.assetid: be8fd704-1ccc-23bd-d029-4a32ae1abf24
+ms.date: 06/08/2017
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: EngagementComments.Add Method (Project)
 ms.assetid: a36d5592-068f-3cda-c4e5-301ddbe1cbbb
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

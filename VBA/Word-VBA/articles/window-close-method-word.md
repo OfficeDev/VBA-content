@@ -3,10 +3,11 @@ title: Window.Close Method (Word)
 keywords: vbawd10.chm157417574
 f1_keywords:
 - vbawd10.chm157417574
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Close
 ms.assetid: 125fb97f-cfb0-988e-6405-56ddce68b779
+ms.date: 06/08/2017
 ---
 
 

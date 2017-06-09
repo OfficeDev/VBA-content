@@ -3,10 +3,11 @@ title: RemoteItem.IsConflict Property (Outlook)
 keywords: vbaol11.chm1629
 f1_keywords:
 - vbaol11.chm1629
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.IsConflict
 ms.assetid: 56c3aa72-4ddf-802e-b6ab-7e982a80dc08
+ms.date: 06/08/2017
 ---
 
 

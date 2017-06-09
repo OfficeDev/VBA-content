@@ -3,10 +3,11 @@ title: CubeField.Parent Property (Excel)
 keywords: vbaxl10.chm667075
 f1_keywords:
 - vbaxl10.chm667075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.Parent
 ms.assetid: 6e225b1c-3129-0999-f262-c8cae404e95c
+ms.date: 06/08/2017
 ---
 
 

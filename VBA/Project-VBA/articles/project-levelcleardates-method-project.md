@@ -1,9 +1,10 @@
 ---
 title: Project.LevelClearDates Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.LevelClearDates
 ms.assetid: 301a75b6-9650-5440-b6ba-e14a6ec98bcf
+ms.date: 06/08/2017
 ---
 
 

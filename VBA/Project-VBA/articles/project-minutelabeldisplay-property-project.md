@@ -3,10 +3,11 @@ title: Project.MinuteLabelDisplay Property (Project)
 keywords: vbapj.chm132410
 f1_keywords:
 - vbapj.chm132410
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.MinuteLabelDisplay
 ms.assetid: 7cf43dda-ae9b-ed06-027e-740ba855e7f1
+ms.date: 06/08/2017
 ---
 
 

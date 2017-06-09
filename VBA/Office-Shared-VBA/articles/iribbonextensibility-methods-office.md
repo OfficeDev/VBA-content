@@ -1,7 +1,8 @@
 ---
 title: IRibbonExtensibility Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 52a68348-457e-4563-8568-12c4defc5fa5
+ms.date: 06/08/2017
 ---
 
 

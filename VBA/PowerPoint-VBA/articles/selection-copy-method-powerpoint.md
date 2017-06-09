@@ -3,10 +3,11 @@ title: Selection.Copy Method (PowerPoint)
 keywords: vbapp10.chm508004
 f1_keywords:
 - vbapp10.chm508004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.Copy
 ms.assetid: 954106da-a2a9-0c55-114a-5a79f578e0c4
+ms.date: 06/08/2017
 ---
 
 

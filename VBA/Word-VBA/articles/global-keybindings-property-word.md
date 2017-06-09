@@ -3,10 +3,11 @@ title: Global.KeyBindings Property (Word)
 keywords: vbawd10.chm163119173
 f1_keywords:
 - vbawd10.chm163119173
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.KeyBindings
 ms.assetid: 76b3fb80-9169-06b6-8aa6-d70d960ea2f8
+ms.date: 06/08/2017
 ---
 
 

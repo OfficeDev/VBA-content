@@ -3,10 +3,11 @@ title: Rectangle.MouseUp Event (Access)
 keywords: vbaac10.chm14165
 f1_keywords:
 - vbaac10.chm14165
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.MouseUp
 ms.assetid: cac916c9-47b0-df58-e66a-4fc923fbb2d3
+ms.date: 06/08/2017
 ---
 
 

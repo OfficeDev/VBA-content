@@ -3,8 +3,9 @@ title: Specified DLL function not found (Error 453), Office Shared [vblr6.chm100
 keywords: vblr6.chm1000453
 f1_keywords:
 - vblr6.chm1000453
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 820e6306-2afb-458c-9694-f44b56c3f00e
+ms.date: 06/08/2017
 ---
 
 

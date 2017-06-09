@@ -3,10 +3,11 @@ title: ListBox.IMEHold Property (Access)
 keywords: vbaac10.chm11229
 f1_keywords:
 - vbaac10.chm11229
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.IMEHold
 ms.assetid: 22d6bd7c-704b-2b27-6b04-c6628cd83f02
+ms.date: 06/08/2017
 ---
 
 

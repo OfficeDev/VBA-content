@@ -3,10 +3,11 @@ title: Pages.ShapeAdded Event (Visio)
 keywords: vis_sdr.chm11019225
 f1_keywords:
 - vis_sdr.chm11019225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.ShapeAdded
 ms.assetid: 7a68596c-8d8e-255d-0b3a-4490cb2f99d5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Table Property (Publisher)
 keywords: vbapb10.chm2228328
 f1_keywords:
 - vbapb10.chm2228328
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Table
 ms.assetid: a9b29d1f-2459-556c-56f8-f8f809b879c9
+ms.date: 06/08/2017
 ---
 
 

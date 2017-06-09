@@ -3,10 +3,11 @@ title: Pages.Parent Property (Word)
 keywords: vbawd10.chm67240938
 f1_keywords:
 - vbawd10.chm67240938
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pages.Parent
 ms.assetid: d8b1d0fa-9b17-33a1-c1ac-fc923c4a2210
+ms.date: 06/08/2017
 ---
 
 

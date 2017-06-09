@@ -1,4 +1,4 @@
-﻿# [Office for Mac](../VBA-Office-Mac.md)
+# [Office for Mac](../VBA-Office-Mac.md)
 ## [Request access to multiple files](GrantAccessToMultipleFiles.md)
 ## [Run an AppleScript with VB](AppleScriptTask.md)
 ## [Differentiate between Office for Mac versions at compile time](MacOfficeVersion.md)

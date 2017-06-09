@@ -1,6 +1,8 @@
 ---
 title: Master.VisualBoundingBox Method (Visio)
 ms.assetid: 478d636f-e741-cf6b-3e16-b5faf70a9f14
+ms.date: 06/08/2017
+ms.prod: visio
 ---
 
 

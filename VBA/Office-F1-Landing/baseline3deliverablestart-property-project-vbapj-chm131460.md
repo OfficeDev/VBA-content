@@ -3,8 +3,9 @@ title: Baseline3DeliverableStart Property, Project [vbapj.chm131460]
 keywords: vbapj.chm131460
 f1_keywords:
 - vbapj.chm131460
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 575e1b6d-94e2-4c68-a3db-96418a9af3a5
+ms.date: 06/08/2017
 ---
 
 

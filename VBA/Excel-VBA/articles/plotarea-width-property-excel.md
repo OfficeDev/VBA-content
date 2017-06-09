@@ -3,10 +3,11 @@ title: PlotArea.Width Property (Excel)
 keywords: vbaxl10.chm618083
 f1_keywords:
 - vbaxl10.chm618083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Width
 ms.assetid: 9bf7bd1f-e50e-378d-cb16-2b931c34aa65
+ms.date: 06/08/2017
 ---
 
 

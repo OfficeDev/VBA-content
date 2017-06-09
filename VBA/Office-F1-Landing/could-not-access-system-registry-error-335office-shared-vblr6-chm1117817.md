@@ -3,8 +3,9 @@ title: Could not access system registry (Error 335), Office Shared [vblr6.chm111
 keywords: vblr6.chm1117817
 f1_keywords:
 - vblr6.chm1117817
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 55579528-78d0-4ace-a236-64213cac172c
+ms.date: 06/08/2017
 ---
 
 

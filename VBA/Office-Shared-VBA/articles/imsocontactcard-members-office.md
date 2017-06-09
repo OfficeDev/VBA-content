@@ -1,7 +1,8 @@
 ---
 title: IMsoContactCard Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 03c92ec4-11c8-8354-377f-d60ebdb5d2f3
+ms.date: 06/08/2017
 ---
 
 

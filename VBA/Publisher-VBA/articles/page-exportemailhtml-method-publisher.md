@@ -3,10 +3,11 @@ title: Page.ExportEmailHTML Method (Publisher)
 keywords: vbapb10.chm393273
 f1_keywords:
 - vbapb10.chm393273
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.ExportEmailHTML
 ms.assetid: 6257e9b5-26b5-73ae-7d40-50dd0a764488
+ms.date: 06/08/2017
 ---
 
 

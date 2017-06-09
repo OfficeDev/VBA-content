@@ -1,9 +1,10 @@
 ---
 title: ThemeColor.ThemeColorSchemeIndex Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColor.ThemeColorSchemeIndex
 ms.assetid: 1997ee05-909b-e64e-e294-f7cc5a0d70c3
+ms.date: 06/08/2017
 ---
 
 

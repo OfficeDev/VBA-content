@@ -3,10 +3,11 @@ title: PivotTable.ColumnRange Property (Excel)
 keywords: vbaxl10.chm235076
 f1_keywords:
 - vbaxl10.chm235076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ColumnRange
 ms.assetid: 7f54b908-b0cb-80c8-e16f-25c7ff536e43
+ms.date: 06/08/2017
 ---
 
 

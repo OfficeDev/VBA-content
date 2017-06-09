@@ -3,10 +3,11 @@ title: Category.Type Property (Word)
 keywords: vbawd10.chm190709764
 f1_keywords:
 - vbawd10.chm190709764
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Category.Type
 ms.assetid: 6d8cf5a5-0b6f-572b-c3ae-ecf18fe276a9
+ms.date: 06/08/2017
 ---
 
 

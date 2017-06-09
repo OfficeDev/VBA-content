@@ -1,9 +1,10 @@
 ---
 title: XlFileFormat Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlFileFormat
 ms.assetid: 4c0ebc4c-915c-c199-ee39-f4d14ba7b64e
+ms.date: 06/08/2017
 ---
 
 

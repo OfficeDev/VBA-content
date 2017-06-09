@@ -3,16 +3,17 @@ title: OutputAllFields Property
 keywords: vbaac10.chm4453
 f1_keywords:
 - vbaac10.chm4453
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OutputAllFields
 ms.assetid: b4f6e831-f82c-0850-d736-1bbda29d9f89
+ms.date: 06/08/2017
 ---
 
 
 # OutputAllFields Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

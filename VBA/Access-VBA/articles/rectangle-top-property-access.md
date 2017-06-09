@@ -3,10 +3,11 @@ title: Rectangle.Top Property (Access)
 keywords: vbaac10.chm10284
 f1_keywords:
 - vbaac10.chm10284
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.Top
 ms.assetid: ae012c86-a595-9804-c9ac-3bade01d480f
+ms.date: 06/08/2017
 ---
 
 

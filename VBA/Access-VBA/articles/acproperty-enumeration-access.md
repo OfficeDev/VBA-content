@@ -3,10 +3,11 @@ title: AcProperty Enumeration (Access)
 keywords: vbaac10.chm14074
 f1_keywords:
 - vbaac10.chm14074
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcProperty
 ms.assetid: d5a4b6f9-451a-9b8e-9120-18097ecdc494
+ms.date: 06/08/2017
 ---
 
 

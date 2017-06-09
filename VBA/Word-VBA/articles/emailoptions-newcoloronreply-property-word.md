@@ -3,10 +3,11 @@ title: EmailOptions.NewColorOnReply Property (Word)
 keywords: vbawd10.chm165347444
 f1_keywords:
 - vbawd10.chm165347444
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.NewColorOnReply
 ms.assetid: f7878b23-46a3-7950-7b45-28810de58f91
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LinearGradient.Creator Property (Excel)
 keywords: vbaxl10.chm854074
 f1_keywords:
 - vbaxl10.chm854074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinearGradient.Creator
 ms.assetid: 318042d1-d486-5d52-91cb-0a102ee9ae9d
+ms.date: 06/08/2017
 ---
 
 

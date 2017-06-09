@@ -3,10 +3,11 @@ title: BoundObjectFrame.RightPadding Property (Access)
 keywords: vbaac10.chm10997
 f1_keywords:
 - vbaac10.chm10997
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.RightPadding
 ms.assetid: 766c6e34-7996-f592-6fae-cb26aa2e4b40
+ms.date: 06/08/2017
 ---
 
 

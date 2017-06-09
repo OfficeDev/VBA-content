@@ -3,10 +3,11 @@ title: Application.CurrentData Property (Access)
 keywords: vbaac10.chm12577
 f1_keywords:
 - vbaac10.chm12577
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CurrentData
 ms.assetid: 47ddbd6e-cf91-1ccf-e53c-ee999e94d002
+ms.date: 06/08/2017
 ---
 
 

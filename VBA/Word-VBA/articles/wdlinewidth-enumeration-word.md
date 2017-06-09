@@ -1,9 +1,10 @@
 ---
 title: WdLineWidth Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLineWidth
 ms.assetid: 381fe8ec-9a93-d3d9-360d-efc507e3f7c8
+ms.date: 06/08/2017
 ---
 
 

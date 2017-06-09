@@ -3,10 +3,11 @@ title: CommandBarComboBox.List Property (Office)
 keywords: vbaof11.chm8005
 f1_keywords:
 - vbaof11.chm8005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.List
 ms.assetid: c90fae92-daab-1b08-6e85-8caae26d0b72
+ms.date: 06/08/2017
 ---
 
 

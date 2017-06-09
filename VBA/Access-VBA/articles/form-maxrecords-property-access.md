@@ -3,10 +3,11 @@ title: Form.MaxRecords Property (Access)
 keywords: vbaac10.chm13484
 f1_keywords:
 - vbaac10.chm13484
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.MaxRecords
 ms.assetid: 1c1ea306-7ab0-8818-2fb6-8ac377f73484
+ms.date: 06/08/2017
 ---
 
 

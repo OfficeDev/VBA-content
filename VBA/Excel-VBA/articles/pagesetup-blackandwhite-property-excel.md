@@ -3,10 +3,11 @@ title: PageSetup.BlackAndWhite Property (Excel)
 keywords: vbaxl10.chm473073
 f1_keywords:
 - vbaxl10.chm473073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.BlackAndWhite
 ms.assetid: 81d1fd09-d317-7d3f-5200-875340a5917e
+ms.date: 06/08/2017
 ---
 
 

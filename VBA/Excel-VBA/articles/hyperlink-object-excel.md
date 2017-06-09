@@ -3,10 +3,11 @@ title: Hyperlink Object (Excel)
 keywords: vbaxl10.chm535072
 f1_keywords:
 - vbaxl10.chm535072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink
 ms.assetid: 8bdd2c2f-e6eb-a2f2-78c8-b597aa80ec05
+ms.date: 06/08/2017
 ---
 
 

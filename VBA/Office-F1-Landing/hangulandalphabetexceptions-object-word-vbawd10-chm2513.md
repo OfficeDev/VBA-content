@@ -3,8 +3,9 @@ title: HangulAndAlphabetExceptions Object, Word [vbawd10.chm2513]
 keywords: vbawd10.chm2513
 f1_keywords:
 - vbawd10.chm2513
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75c567b7-634b-4b4e-9000-26e2826fadd3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Font.DiacriticColor Property (Publisher)
 keywords: vbapb10.chm5374003
 f1_keywords:
 - vbapb10.chm5374003
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.DiacriticColor
 ms.assetid: 6e9c816e-c7ae-c559-6b35-150a5abb820c
+ms.date: 06/08/2017
 ---
 
 

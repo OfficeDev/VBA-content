@@ -3,10 +3,11 @@ title: SparklineGroups.Creator Property (Excel)
 keywords: vbaxl10.chm868074
 f1_keywords:
 - vbaxl10.chm868074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Creator
 ms.assetid: c88587c7-8e6d-9ab5-f36a-d9376ec7cfeb
+ms.date: 06/08/2017
 ---
 
 

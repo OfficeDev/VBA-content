@@ -3,8 +3,9 @@ title: Specified format doesn't match format of data (Error 461), Office Shared 
 keywords: vblr6.chm1117804
 f1_keywords:
 - vblr6.chm1117804
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 878c11d4-450d-4fee-bcf4-ea73ef8ebce3
+ms.date: 06/08/2017
 ---
 
 

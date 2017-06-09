@@ -3,10 +3,11 @@ title: Master.Background Property (PowerPoint)
 keywords: vbapp10.chm533006
 f1_keywords:
 - vbapp10.chm533006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Background
 ms.assetid: 94b07efa-4e33-ac2c-c466-ff38499f81c4
+ms.date: 06/08/2017
 ---
 
 

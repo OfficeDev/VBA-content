@@ -3,10 +3,11 @@ title: Styles.Count Property (Visio)
 keywords: vis_sdr.chm11513330
 f1_keywords:
 - vis_sdr.chm11513330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.Count
 ms.assetid: fbce264a-e16c-6235-7fed-025f36e867ab
+ms.date: 06/08/2017
 ---
 
 

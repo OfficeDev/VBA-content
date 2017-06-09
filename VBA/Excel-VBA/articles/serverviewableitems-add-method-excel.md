@@ -3,10 +3,11 @@ title: ServerViewableItems.Add Method (Excel)
 keywords: vbaxl10.chm833074
 f1_keywords:
 - vbaxl10.chm833074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.Add
 ms.assetid: e5771bed-efd0-3cdc-ce80-13b71f596d01
+ms.date: 06/08/2017
 ---
 
 

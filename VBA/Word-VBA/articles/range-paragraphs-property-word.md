@@ -3,10 +3,11 @@ title: Range.Paragraphs Property (Word)
 keywords: vbawd10.chm157155387
 f1_keywords:
 - vbawd10.chm157155387
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Paragraphs
 ms.assetid: b5c9df62-a477-ce1a-4a94-027100527a6f
+ms.date: 06/08/2017
 ---
 
 

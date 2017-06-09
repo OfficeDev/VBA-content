@@ -3,10 +3,11 @@ title: Views.Remove Method (Outlook)
 keywords: vbaol11.chm548
 f1_keywords:
 - vbaol11.chm548
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Views.Remove
 ms.assetid: 73a92be6-8dc4-6fb9-7f20-0ff678445737
+ms.date: 06/08/2017
 ---
 
 

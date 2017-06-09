@@ -3,10 +3,11 @@ title: Rectangle.Range Property (Word)
 keywords: vbawd10.chm234029063
 f1_keywords:
 - vbawd10.chm234029063
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle.Range
 ms.assetid: 9e7d5892-b473-60fc-937f-d905faffd604
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: You cannot change the data master attribute for the replica set. It allow
 keywords: jeterr40.chm5003594
 f1_keywords:
 - jeterr40.chm5003594
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dba49da9-84d0-3456-e9fe-06379d15e5c1
+ms.date: 06/08/2017
 ---
 
 
 # You cannot change the data master attribute for the replica set. It allows data changes only at the Design Master. (Error 3594)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

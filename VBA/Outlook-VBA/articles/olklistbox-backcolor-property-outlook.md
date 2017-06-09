@@ -3,10 +3,11 @@ title: OlkListBox.BackColor Property (Outlook)
 keywords: vbaol11.chm1000252
 f1_keywords:
 - vbaol11.chm1000252
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.BackColor
 ms.assetid: aabe5928-acde-7a21-b0d5-2910aa5855bb
+ms.date: 06/08/2017
 ---
 
 

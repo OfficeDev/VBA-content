@@ -3,10 +3,11 @@ title: CommandBar.Left Property (Office)
 keywords: vbaof11.chm3009
 f1_keywords:
 - vbaof11.chm3009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBar.Left
 ms.assetid: 2353aef6-aaa1-76b9-33da-57bbe1df30af
+ms.date: 06/08/2017
 ---
 
 

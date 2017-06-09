@@ -3,10 +3,11 @@ title: OlMeetingStatus Enumeration (Outlook)
 keywords: vbaol11.chm3070
 f1_keywords:
 - vbaol11.chm3070
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlMeetingStatus
 ms.assetid: da83b8ed-267e-c055-13ce-11067e224e9d
+ms.date: 06/08/2017
 ---
 
 

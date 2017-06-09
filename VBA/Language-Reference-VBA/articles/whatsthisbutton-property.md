@@ -3,10 +3,11 @@ title: WhatsThisButton Property
 keywords: vblr6.chm916694
 f1_keywords:
 - vblr6.chm916694
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WhatsThisButton
 ms.assetid: f9e24796-d4e0-1719-32b3-2119f20a6b5a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Connect.Stat Property (Visio)
 keywords: vis_sdr.chm10314420
 f1_keywords:
 - vis_sdr.chm10314420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.Stat
 ms.assetid: ab0f72fe-a0be-b2f7-5e18-7985e5d69507
+ms.date: 06/08/2017
 ---
 
 

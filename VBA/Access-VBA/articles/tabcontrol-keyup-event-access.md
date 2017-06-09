@@ -3,10 +3,11 @@ title: TabControl.KeyUp Event (Access)
 keywords: vbaac10.chm14277
 f1_keywords:
 - vbaac10.chm14277
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.KeyUp
 ms.assetid: c3e9b96d-fb29-6a0c-1547-145ab8f884ca
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ParagraphFormat.SetListType Method (Publisher)
 keywords: vbapb10.chm5439520
 f1_keywords:
 - vbapb10.chm5439520
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SetListType
 ms.assetid: 6900aac5-fb3f-5813-309c-1422d38c8301
+ms.date: 06/08/2017
 ---
 
 

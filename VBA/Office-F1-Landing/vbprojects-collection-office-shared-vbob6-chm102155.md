@@ -3,8 +3,9 @@ title: VBProjects Collection, Office Shared [vbob6.chm102155]
 keywords: vbob6.chm102155
 f1_keywords:
 - vbob6.chm102155
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9bfaa3dd-ad92-4aea-8d07-1c5659d5298e
+ms.date: 06/08/2017
 ---
 
 

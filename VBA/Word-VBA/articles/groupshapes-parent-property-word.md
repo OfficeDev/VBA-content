@@ -3,10 +3,11 @@ title: GroupShapes.Parent Property (Word)
 keywords: vbawd10.chm162922497
 f1_keywords:
 - vbawd10.chm162922497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GroupShapes.Parent
 ms.assetid: defb8545-8eb4-f445-8f29-7ffe9cddd2ca
+ms.date: 06/08/2017
 ---
 
 

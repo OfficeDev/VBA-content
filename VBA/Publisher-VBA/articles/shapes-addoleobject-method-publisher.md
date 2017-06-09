@@ -3,10 +3,11 @@ title: Shapes.AddOLEObject Method (Publisher)
 keywords: vbapb10.chm2162709
 f1_keywords:
 - vbapb10.chm2162709
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddOLEObject
 ms.assetid: c454f9cb-2005-5e55-80a7-6dfbe9c109e5
+ms.date: 06/08/2017
 ---
 
 

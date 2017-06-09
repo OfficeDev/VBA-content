@@ -3,8 +3,9 @@ title: Play Method, PowerPoint [vbapp10.chm726003]
 keywords: vbapp10.chm726003
 f1_keywords:
 - vbapp10.chm726003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 989b13c4-eb45-40eb-9d42-bc601cab0346
+ms.date: 06/08/2017
 ---
 
 

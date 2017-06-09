@@ -3,10 +3,11 @@ title: Form.HelpFile Property (Access)
 keywords: vbaac10.chm13393
 f1_keywords:
 - vbaac10.chm13393
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.HelpFile
 ms.assetid: 72b416b1-5257-9560-ebc0-625abc3f7e85
+ms.date: 06/08/2017
 ---
 
 

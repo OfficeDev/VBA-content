@@ -3,10 +3,11 @@ title: OfficeDataSourceObject.Table Property (Office)
 keywords: vbaof11.chm232002
 f1_keywords:
 - vbaof11.chm232002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Table
 ms.assetid: 5c65237a-49fc-3de1-3de7-267ad7db44a1
+ms.date: 06/08/2017
 ---
 
 

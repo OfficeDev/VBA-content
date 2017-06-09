@@ -1,7 +1,8 @@
 ---
 title: Shape.IncrementRotation Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: b6a4ee31-b572-ac26-5f31-70cb5f9f390d
+ms.date: 06/08/2017
 ---
 
 

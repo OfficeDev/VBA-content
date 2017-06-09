@@ -1,7 +1,8 @@
 ---
 title: Label.BorderStyle Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c5d91d1d-ee3f-395f-bc10-9699615ef299
+ms.date: 06/08/2017
 ---
 
 

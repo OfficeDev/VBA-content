@@ -3,14 +3,15 @@ title: <Path> is not a valid path. Make sure that the path name is spelled corre
 keywords: jeterr40.chm5003044
 f1_keywords:
 - jeterr40.chm5003044
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 59002281-7344-e8ef-b500-5eb4647d2d7d
+ms.date: 06/08/2017
 ---
 
 
 # <Path> is not a valid path. Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. (Error 3044)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: ToggleButton.OnExit Property (Access)
 keywords: vbaac10.chm11750
 f1_keywords:
 - vbaac10.chm11750
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnExit
 ms.assetid: 59dd0f8d-7c77-08be-8978-ea039ad851b9
+ms.date: 06/08/2017
 ---
 
 

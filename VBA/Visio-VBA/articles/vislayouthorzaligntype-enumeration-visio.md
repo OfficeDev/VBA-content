@@ -3,10 +3,11 @@ title: VisLayoutHorzAlignType Enumeration (Visio)
 keywords: vis_sdr.chm70630
 f1_keywords:
 - vis_sdr.chm70630
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisLayoutHorzAlignType
 ms.assetid: 7493b806-1ab4-eb86-2fbd-7ac98ebcea56
+ms.date: 06/08/2017
 ---
 
 

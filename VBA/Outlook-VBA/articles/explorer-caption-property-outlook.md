@@ -3,10 +3,11 @@ title: Explorer.Caption Property (Outlook)
 keywords: vbaol11.chm2765
 f1_keywords:
 - vbaol11.chm2765
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Caption
 ms.assetid: 69f20794-7b31-4999-3c2f-525f1a15f7f6
+ms.date: 06/08/2017
 ---
 
 

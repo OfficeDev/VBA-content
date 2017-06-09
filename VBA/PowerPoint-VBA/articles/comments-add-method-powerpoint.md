@@ -3,10 +3,11 @@ title: Comments.Add Method (PowerPoint)
 keywords: vbapp10.chm641004
 f1_keywords:
 - vbapp10.chm641004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments.Add
 ms.assetid: ab520c51-2a8b-2e37-2e4c-8fce7a70a5ab
+ms.date: 06/08/2017
 ---
 
 

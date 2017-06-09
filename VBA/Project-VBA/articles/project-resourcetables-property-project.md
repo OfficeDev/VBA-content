@@ -3,10 +3,11 @@ title: Project.ResourceTables Property (Project)
 keywords: vbapj.chm132533
 f1_keywords:
 - vbapj.chm132533
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ResourceTables
 ms.assetid: d3b0c4a2-5274-8dbd-bee9-b8975649364b
+ms.date: 06/08/2017
 ---
 
 

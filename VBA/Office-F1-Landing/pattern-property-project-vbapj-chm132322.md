@@ -3,8 +3,9 @@ title: Pattern Property, Project [vbapj.chm132322]
 keywords: vbapj.chm132322
 f1_keywords:
 - vbapj.chm132322
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 65d96501-6912-4c62-b2d6-969b4ff2ccae
+ms.date: 06/08/2017
 ---
 
 

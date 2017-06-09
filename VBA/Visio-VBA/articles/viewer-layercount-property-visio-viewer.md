@@ -1,9 +1,10 @@
 ---
 title: Viewer.LayerCount Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.LayerCount
 ms.assetid: 83871b37-9c5b-9da2-8869-61a2284ae1c0
+ms.date: 06/08/2017
 ---
 
 

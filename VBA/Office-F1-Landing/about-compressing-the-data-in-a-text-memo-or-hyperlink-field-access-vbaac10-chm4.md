@@ -3,8 +3,9 @@ title: About compressing the data in a Text, Memo, or Hyperlink field, Access [v
 keywords: vbaac10.chm4991
 f1_keywords:
 - vbaac10.chm4991
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3ae750bc-daad-4a3e-a32a-3b2c9be5106e
+ms.date: 06/08/2017
 ---
 
 

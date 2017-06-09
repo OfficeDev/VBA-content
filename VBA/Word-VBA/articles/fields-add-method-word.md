@@ -3,10 +3,11 @@ title: Fields.Add Method (Word)
 keywords: vbawd10.chm154140777
 f1_keywords:
 - vbawd10.chm154140777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Fields.Add
 ms.assetid: e4633cf9-394c-5af1-1a3f-02e3387ae8a1
+ms.date: 06/08/2017
 ---
 
 

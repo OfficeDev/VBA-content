@@ -3,10 +3,11 @@ title: Chart.MouseUp Event (Excel)
 keywords: vbaxl10.chm500077
 f1_keywords:
 - vbaxl10.chm500077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.MouseUp
 ms.assetid: 45281aac-a4f6-390d-e767-a4fe2ee670fc
+ms.date: 06/08/2017
 ---
 
 

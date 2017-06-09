@@ -3,10 +3,11 @@ title: Column.Select Method (Word)
 keywords: vbawd10.chm156237823
 f1_keywords:
 - vbawd10.chm156237823
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Select
 ms.assetid: 304d7e2a-8365-b609-6765-655eea45dee2
+ms.date: 06/08/2017
 ---
 
 

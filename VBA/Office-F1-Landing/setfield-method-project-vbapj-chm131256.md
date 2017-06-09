@@ -3,8 +3,9 @@ title: SetField Method, Project [vbapj.chm131256]
 keywords: vbapj.chm131256
 f1_keywords:
 - vbapj.chm131256
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1732d7c1-9945-4012-9b95-b48f442118b7
+ms.date: 06/08/2017
 ---
 
 

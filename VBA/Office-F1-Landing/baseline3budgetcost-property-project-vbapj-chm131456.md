@@ -3,8 +3,9 @@ title: Baseline3BudgetCost Property, Project [vbapj.chm131456]
 keywords: vbapj.chm131456
 f1_keywords:
 - vbapj.chm131456
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0d4f9623-53dd-47c5-9649-93efbca72306
+ms.date: 06/08/2017
 ---
 
 

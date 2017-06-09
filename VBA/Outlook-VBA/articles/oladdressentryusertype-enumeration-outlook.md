@@ -3,10 +3,11 @@ title: OlAddressEntryUserType Enumeration (Outlook)
 keywords: vbaol11.chm3110
 f1_keywords:
 - vbaol11.chm3110
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAddressEntryUserType
 ms.assetid: 9f128fe4-9981-e06a-d69c-ca7cf9107fe9
+ms.date: 06/08/2017
 ---
 
 

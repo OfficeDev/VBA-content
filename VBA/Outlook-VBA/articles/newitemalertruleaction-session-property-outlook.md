@@ -3,10 +3,11 @@ title: NewItemAlertRuleAction.Session Property (Outlook)
 keywords: vbaol11.chm2290
 f1_keywords:
 - vbaol11.chm2290
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NewItemAlertRuleAction.Session
 ms.assetid: 7ea1ec54-ccf3-2626-f709-4f9ba54d80a3
+ms.date: 06/08/2017
 ---
 
 

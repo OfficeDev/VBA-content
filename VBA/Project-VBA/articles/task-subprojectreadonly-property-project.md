@@ -1,9 +1,10 @@
 ---
 title: Task.SubProjectReadOnly Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.SubProjectReadOnly
 ms.assetid: 1f25fd02-b7d5-5db0-7940-815043948a19
+ms.date: 06/08/2017
 ---
 
 

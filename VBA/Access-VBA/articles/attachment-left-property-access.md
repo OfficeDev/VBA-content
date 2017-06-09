@@ -3,10 +3,11 @@ title: Attachment.Left Property (Access)
 keywords: vbaac10.chm13920
 f1_keywords:
 - vbaac10.chm13920
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Left
 ms.assetid: cee21215-a0b0-9247-976d-9f7899287e54
+ms.date: 06/08/2017
 ---
 
 

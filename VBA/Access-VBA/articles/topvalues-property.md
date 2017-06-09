@@ -3,16 +3,17 @@ title: TopValues Property
 keywords: vbaac10.chm4525
 f1_keywords:
 - vbaac10.chm4525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TopValues
 ms.assetid: 86198e46-2061-f39f-b6cf-58b90ef063b7
+ms.date: 06/08/2017
 ---
 
 
 # TopValues Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

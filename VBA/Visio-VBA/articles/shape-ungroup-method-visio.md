@@ -3,10 +3,11 @@ title: Shape.Ungroup Method (Visio)
 keywords: vis_sdr.chm11216625
 f1_keywords:
 - vis_sdr.chm11216625
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Ungroup
 ms.assetid: a4ff17b9-6bad-aaf4-ce00-2b529c73f48b
+ms.date: 06/08/2017
 ---
 
 

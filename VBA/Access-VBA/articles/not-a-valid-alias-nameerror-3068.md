@@ -1,13 +1,14 @@
 ---
 title: Not a valid alias name. (Error 3068)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 22e5d7d7-89ec-afa5-94c7-978f2e1b03de
+ms.date: 06/08/2017
 ---
 
 
 # Not a valid alias name. (Error 3068)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

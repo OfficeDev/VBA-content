@@ -3,10 +3,11 @@ title: Application.CleanupProjectFromCache Method (Project)
 keywords: vbapj.chm2191
 f1_keywords:
 - vbapj.chm2191
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CleanupProjectFromCache
 ms.assetid: 40fef64a-036f-8e1c-ce86-0c3609777f77
+ms.date: 06/08/2017
 ---
 
 

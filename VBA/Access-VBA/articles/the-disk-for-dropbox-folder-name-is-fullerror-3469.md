@@ -3,14 +3,15 @@ title: The disk for dropbox folder <name> is full. (Error 3469)
 keywords: jeterr40.chm5003469
 f1_keywords:
 - jeterr40.chm5003469
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e94ab8c4-b614-241c-b603-7bae08ae92d4
+ms.date: 06/08/2017
 ---
 
 
 # The disk for dropbox folder <name> is full. (Error 3469)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Series.MarkerSize Property (Word)
 keywords: vbawd10.chm123732199
 f1_keywords:
 - vbawd10.chm123732199
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.MarkerSize
 ms.assetid: fbda4404-b067-94fe-4202-a736a246e949
+ms.date: 06/08/2017
 ---
 
 

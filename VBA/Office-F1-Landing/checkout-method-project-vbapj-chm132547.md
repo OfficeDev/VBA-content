@@ -3,8 +3,9 @@ title: CheckOut Method, Project [vbapj.chm132547]
 keywords: vbapj.chm132547
 f1_keywords:
 - vbapj.chm132547
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0df73989-1b0a-4d7a-9f91-7925355c39d2
+ms.date: 06/08/2017
 ---
 
 

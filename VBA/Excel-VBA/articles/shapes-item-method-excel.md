@@ -3,10 +3,11 @@ title: Shapes.Item Method (Excel)
 keywords: vbaxl10.chm638074
 f1_keywords:
 - vbaxl10.chm638074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.Item
 ms.assetid: efd7e247-5976-95b1-3365-34997feb323f
+ms.date: 06/08/2017
 ---
 
 

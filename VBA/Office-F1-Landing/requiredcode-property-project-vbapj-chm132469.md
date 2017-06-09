@@ -3,8 +3,9 @@ title: RequiredCode Property, Project [vbapj.chm132469]
 keywords: vbapj.chm132469
 f1_keywords:
 - vbapj.chm132469
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 377c10bd-2767-45f3-80c0-aa91074ba260
+ms.date: 06/08/2017
 ---
 
 

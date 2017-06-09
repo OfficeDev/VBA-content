@@ -3,8 +3,9 @@ title: BeginGroup Property, Office Shared [vbaof11.chm5001]
 keywords: vbaof11.chm5001
 f1_keywords:
 - vbaof11.chm5001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f87aa570-311a-4108-a42b-0541a8872472
+ms.date: 06/08/2017
 ---
 
 

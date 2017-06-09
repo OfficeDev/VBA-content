@@ -3,10 +3,11 @@ title: Top10.Type Property (Excel)
 keywords: vbaxl10.chm822082
 f1_keywords:
 - vbaxl10.chm822082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.Type
 ms.assetid: 2a3bfd5e-cdc5-3d21-0a0f-57d30b86689b
+ms.date: 06/08/2017
 ---
 
 

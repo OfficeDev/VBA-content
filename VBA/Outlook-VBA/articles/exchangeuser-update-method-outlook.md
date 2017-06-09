@@ -3,10 +3,11 @@ title: ExchangeUser.Update Method (Outlook)
 keywords: vbaol11.chm2076
 f1_keywords:
 - vbaol11.chm2076
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Update
 ms.assetid: a2672fbf-f32a-f120-227c-24ee5c361f35
+ms.date: 06/08/2017
 ---
 
 

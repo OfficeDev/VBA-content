@@ -3,8 +3,9 @@ title: "'item' has caused an access violation. Remove it from the list of availa
 keywords: vblr6.chm60146
 f1_keywords:
 - vblr6.chm60146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe72c22a-7660-4cd2-fcf4-7d4e4f1387d2
+ms.date: 06/08/2017
 ---
 
 

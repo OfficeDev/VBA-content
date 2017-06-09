@@ -1,9 +1,10 @@
 ---
 title: JournalItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeDelete
 ms.assetid: 3165f5e6-f055-86b9-1396-2b89dd8c19a3
+ms.date: 06/08/2017
 ---
 
 

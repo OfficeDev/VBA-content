@@ -3,8 +3,9 @@ title: Resource Property, Project [vbapj.chm132515]
 keywords: vbapj.chm132515
 f1_keywords:
 - vbapj.chm132515
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6f228d8a-d4fc-43c0-bc27-c2ec2bbd829b
+ms.date: 06/08/2017
 ---
 
 

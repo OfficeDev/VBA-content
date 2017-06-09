@@ -3,10 +3,11 @@ title: Section.OnMouseMove Property (Access)
 keywords: vbaac10.chm12210
 f1_keywords:
 - vbaac10.chm12210
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnMouseMove
 ms.assetid: f68e19c8-1eeb-7edc-0296-c4eadb313125
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ContainerRelationshipAdded Event, Visio [vis_sdr.chm10062065]
 keywords: vis_sdr.chm10062065
 f1_keywords:
 - vis_sdr.chm10062065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eb275839-6fad-40e9-9545-e867969f68ea
+ms.date: 06/08/2017
 ---
 
 

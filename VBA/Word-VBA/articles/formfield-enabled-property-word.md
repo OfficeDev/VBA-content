@@ -3,10 +3,11 @@ title: FormField.Enabled Property (Word)
 keywords: vbawd10.chm153616393
 f1_keywords:
 - vbawd10.chm153616393
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Enabled
 ms.assetid: 1002dfdd-387e-9c44-27aa-c855e78784bc
+ms.date: 06/08/2017
 ---
 
 

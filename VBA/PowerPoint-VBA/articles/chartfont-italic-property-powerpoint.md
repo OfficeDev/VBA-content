@@ -3,10 +3,11 @@ title: ChartFont.Italic Property (PowerPoint)
 keywords: vbapp10.chm704006
 f1_keywords:
 - vbapp10.chm704006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Italic
 ms.assetid: c62ad4c5-c7b3-58d8-8d37-540a8a123ce2
+ms.date: 06/08/2017
 ---
 
 

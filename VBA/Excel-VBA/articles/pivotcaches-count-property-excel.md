@@ -3,10 +3,11 @@ title: PivotCaches.Count Property (Excel)
 keywords: vbaxl10.chm229073
 f1_keywords:
 - vbaxl10.chm229073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Count
 ms.assetid: 6ab97937-7002-b940-9b76-34a816b823b8
+ms.date: 06/08/2017
 ---
 
 

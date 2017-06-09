@@ -3,10 +3,11 @@ title: Document.CustomUI Property (Visio)
 keywords: vis_sdr.chm10562690
 f1_keywords:
 - vis_sdr.chm10562690
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.CustomUI
 ms.assetid: dff5841d-f2cc-c8fd-1b30-ca0145f5c04c
+ms.date: 06/08/2017
 ---
 
 

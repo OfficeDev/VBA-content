@@ -3,8 +3,9 @@ title: RepeatingSectionItem.Creator Property (Word)
 keywords: vbawd10.chm228000745
 f1_keywords:
 - vbawd10.chm228000745
-ms.prod: WORD
+ms.prod: word
 ms.assetid: c6b93fc0-ed66-355e-fc4f-80eed042119a
+ms.date: 06/08/2017
 ---
 
 

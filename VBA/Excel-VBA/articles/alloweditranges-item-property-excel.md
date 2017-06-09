@@ -3,10 +3,11 @@ title: AllowEditRanges.Item Property (Excel)
 keywords: vbaxl10.chm724074
 f1_keywords:
 - vbaxl10.chm724074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRanges.Item
 ms.assetid: c6ac67af-258d-c2bf-3169-f42a5b037f2e
+ms.date: 06/08/2017
 ---
 
 

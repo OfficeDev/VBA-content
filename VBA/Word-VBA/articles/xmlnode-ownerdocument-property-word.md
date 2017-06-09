@@ -3,10 +3,11 @@ title: XMLNode.OwnerDocument Property (Word)
 keywords: vbawd10.chm37748747
 f1_keywords:
 - vbawd10.chm37748747
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.OwnerDocument
 ms.assetid: 015559a7-6824-f8dd-edfd-d8d996ac18fc
+ms.date: 06/08/2017
 ---
 
 

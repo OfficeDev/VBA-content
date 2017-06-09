@@ -3,10 +3,11 @@ title: Document.ExportAsFixedFormat Method (Word)
 keywords: vbawd10.chm158007848
 f1_keywords:
 - vbawd10.chm158007848
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ExportAsFixedFormat
 ms.assetid: fe248ff2-0a2a-b10e-fed9-d5bfb73ff1b2
+ms.date: 06/08/2017
 ---
 
 

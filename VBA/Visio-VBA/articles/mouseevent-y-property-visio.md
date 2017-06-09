@@ -3,10 +3,11 @@ title: MouseEvent.y Property (Visio)
 keywords: vis_sdr.chm17151470
 f1_keywords:
 - vis_sdr.chm17151470
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.y
 ms.assetid: 2eaf72ab-7a49-dd27-44a6-9ba90d6e73a8
+ms.date: 06/08/2017
 ---
 
 

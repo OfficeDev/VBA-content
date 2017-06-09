@@ -3,10 +3,11 @@ title: Selection.Style Property (Visio)
 keywords: vis_sdr.chm11151130
 f1_keywords:
 - vis_sdr.chm11151130
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Style
 ms.assetid: f0853c43-14b4-bcd9-eb07-fbc0312e106b
+ms.date: 06/08/2017
 ---
 
 

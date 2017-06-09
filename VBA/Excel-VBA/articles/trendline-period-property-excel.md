@@ -3,10 +3,11 @@ title: Trendline.Period Property (Excel)
 keywords: vbaxl10.chm594088
 f1_keywords:
 - vbaxl10.chm594088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Period
 ms.assetid: 142b675b-8859-a717-1e09-59a8b4000820
+ms.date: 06/08/2017
 ---
 
 

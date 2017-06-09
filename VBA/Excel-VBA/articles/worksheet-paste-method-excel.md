@@ -3,10 +3,11 @@ title: Worksheet.Paste Method (Excel)
 keywords: vbaxl10.chm175115
 f1_keywords:
 - vbaxl10.chm175115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Paste
 ms.assetid: 65561666-7a47-29d6-2a5d-b5de642a064f
+ms.date: 06/08/2017
 ---
 
 

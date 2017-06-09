@@ -3,10 +3,11 @@ title: Column.Width Property (PowerPoint)
 keywords: vbapp10.chm624006
 f1_keywords:
 - vbapp10.chm624006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Column.Width
 ms.assetid: 7b2bcf80-25d5-b1b8-64a5-d8cdf8818978
+ms.date: 06/08/2017
 ---
 
 

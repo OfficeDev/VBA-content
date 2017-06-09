@@ -3,10 +3,11 @@ title: Window.ViewFit Property (Visio)
 keywords: vis_sdr.chm11614645
 f1_keywords:
 - vis_sdr.chm11614645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.ViewFit
 ms.assetid: 5ee12ad7-4acf-aaf9-a928-93fc473e1c8f
+ms.date: 06/08/2017
 ---
 
 

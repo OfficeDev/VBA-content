@@ -3,10 +3,11 @@ title: Image.OnMouseUp Property (Access)
 keywords: vbaac10.chm10398
 f1_keywords:
 - vbaac10.chm10398
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.OnMouseUp
 ms.assetid: d0c73a5e-a478-ca9c-e5c0-c9fc9bcc6269
+ms.date: 06/08/2017
 ---
 
 

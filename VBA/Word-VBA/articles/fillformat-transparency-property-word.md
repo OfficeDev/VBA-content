@@ -3,10 +3,11 @@ title: FillFormat.Transparency Property (Word)
 keywords: vbawd10.chm164102255
 f1_keywords:
 - vbawd10.chm164102255
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.Transparency
 ms.assetid: a3fa8665-1cc1-347a-f4fd-0349e0771e67
+ms.date: 06/08/2017
 ---
 
 

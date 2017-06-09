@@ -3,10 +3,11 @@ title: AutoCorrect.CapitalizeNamesOfDays Property (Excel)
 keywords: vbaxl10.chm545074
 f1_keywords:
 - vbaxl10.chm545074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.CapitalizeNamesOfDays
 ms.assetid: 218f9820-8cb1-438d-7c81-4a9c4385a275
+ms.date: 06/08/2017
 ---
 
 

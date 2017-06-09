@@ -3,10 +3,11 @@ title: Shape.RelativeVerticalPosition Property (Word)
 keywords: vbawd10.chm161481005
 f1_keywords:
 - vbawd10.chm161481005
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.RelativeVerticalPosition
 ms.assetid: 7e77dcab-5d1a-f955-1c80-2d130566167f
+ms.date: 06/08/2017
 ---
 
 

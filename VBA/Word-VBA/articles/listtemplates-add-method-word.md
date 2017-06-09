@@ -3,10 +3,11 @@ title: ListTemplates.Add Method (Word)
 keywords: vbawd10.chm160432228
 f1_keywords:
 - vbawd10.chm160432228
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplates.Add
 ms.assetid: cb5ad343-fbcc-22f0-6a05-83f1480da691
+ms.date: 06/08/2017
 ---
 
 

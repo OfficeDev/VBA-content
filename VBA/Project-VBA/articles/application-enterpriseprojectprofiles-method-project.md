@@ -3,10 +3,11 @@ title: Application.EnterpriseProjectProfiles Method (Project)
 keywords: vbapj.chm2317
 f1_keywords:
 - vbapj.chm2317
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseProjectProfiles
 ms.assetid: b9f9b381-246b-ffc0-e505-1d33fa349fc7
+ms.date: 06/08/2017
 ---
 
 

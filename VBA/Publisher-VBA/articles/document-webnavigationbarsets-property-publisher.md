@@ -3,10 +3,11 @@ title: Document.WebNavigationBarSets Property (Publisher)
 keywords: vbapb10.chm196741
 f1_keywords:
 - vbapb10.chm196741
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.WebNavigationBarSets
 ms.assetid: 4193dbce-a2e3-2587-5282-43b4c3cec921
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalendarView.EndField Property (Outlook)
 keywords: vbaol11.chm2626
 f1_keywords:
 - vbaol11.chm2626
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.EndField
 ms.assetid: 311994db-ef43-e49c-6f0e-9b346d0bb3ca
+ms.date: 06/08/2017
 ---
 
 

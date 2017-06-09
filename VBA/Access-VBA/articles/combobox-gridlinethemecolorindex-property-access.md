@@ -3,10 +3,11 @@ title: ComboBox.GridlineThemeColorIndex Property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.GridlineThemeColorIndex
 ms.assetid: 5ff8140e-4c6a-b719-3fe5-a9a64bb04771
+ms.date: 06/08/2017
 ---
 
 

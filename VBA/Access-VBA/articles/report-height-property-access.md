@@ -3,10 +3,11 @@ title: Report.Height Property (Access)
 keywords: vbaac10.chm13729
 f1_keywords:
 - vbaac10.chm13729
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Height
 ms.assetid: 14821735-efbb-e831-e1d4-94f34de41ef7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Tables.Add Method (Word)
 keywords: vbawd10.chm156041416
 f1_keywords:
 - vbawd10.chm156041416
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Tables.Add
 ms.assetid: 127b5f74-876f-1307-5d25-a04c99debd6b
+ms.date: 06/08/2017
 ---
 
 

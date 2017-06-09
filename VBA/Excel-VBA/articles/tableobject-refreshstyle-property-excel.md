@@ -3,8 +3,9 @@ title: TableObject.RefreshStyle Property (Excel)
 keywords: vbaxl10.chm916075
 f1_keywords:
 - vbaxl10.chm916075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bd01f56f-35a9-f397-ce00-574b97b4b401
+ms.date: 06/08/2017
 ---
 
 

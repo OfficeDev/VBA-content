@@ -1,9 +1,10 @@
 ---
 title: XlEditionOptionsOption Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlEditionOptionsOption
 ms.assetid: 95a42882-88b4-ceea-bfff-50e3df39ece1
+ms.date: 06/08/2017
 ---
 
 

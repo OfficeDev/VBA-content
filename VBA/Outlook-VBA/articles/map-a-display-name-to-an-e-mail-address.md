@@ -1,7 +1,8 @@
 ---
 title: Map a Display Name to an E-mail Address
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ac4e12f8-ea0f-02df-5ce9-23a1c7eda8e0
+ms.date: 06/08/2017
 ---
 
 

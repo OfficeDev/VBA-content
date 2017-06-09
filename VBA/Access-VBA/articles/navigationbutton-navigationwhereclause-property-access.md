@@ -3,10 +3,11 @@ title: NavigationButton.NavigationWhereClause Property (Access)
 keywords: vbaac10.chm14642
 f1_keywords:
 - vbaac10.chm14642
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.NavigationWhereClause
 ms.assetid: ee8e7435-44cf-d065-b7ee-d7c870726101
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Editor.Creator Property (Word)
 keywords: vbawd10.chm225575913
 f1_keywords:
 - vbawd10.chm225575913
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editor.Creator
 ms.assetid: 53a7bbca-98ff-18f1-8e9c-7c738aa1d493
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Align Method (Publisher)
 keywords: vbapb10.chm2294016
 f1_keywords:
 - vbapb10.chm2294016
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Align
 ms.assetid: ef522d47-3fc7-cfca-5b9a-44ff020f8b31
+ms.date: 06/08/2017
 ---
 
 

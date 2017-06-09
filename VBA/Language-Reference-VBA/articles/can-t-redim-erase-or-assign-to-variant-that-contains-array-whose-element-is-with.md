@@ -3,8 +3,9 @@ title: Can't ReDim, Erase, or assign to Variant that contains array whose elemen
 keywords: vblr6.chm1040376
 f1_keywords:
 - vblr6.chm1040376
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0fe8d19c-00f3-ceb9-5ce9-fc349221de6a
+ms.date: 06/08/2017
 ---
 
 

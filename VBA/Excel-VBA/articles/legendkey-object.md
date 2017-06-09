@@ -3,10 +3,11 @@ title: LegendKey Object
 keywords: vbagr10.chm5207614
 f1_keywords:
 - vbagr10.chm5207614
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey
 ms.assetid: ab90cb64-1f81-dfcb-7542-cba68964acba
+ms.date: 06/08/2017
 ---
 
 

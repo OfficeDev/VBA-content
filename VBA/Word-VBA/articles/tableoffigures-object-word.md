@@ -3,10 +3,11 @@ title: TableOfFigures Object (Word)
 keywords: vbawd10.chm2337
 f1_keywords:
 - vbawd10.chm2337
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures
 ms.assetid: 0a93d274-cd2e-3d65-48bc-b8fea84ff268
+ms.date: 06/08/2017
 ---
 
 

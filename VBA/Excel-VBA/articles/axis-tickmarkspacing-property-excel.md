@@ -3,10 +3,11 @@ title: Axis.TickMarkSpacing Property (Excel)
 keywords: vbaxl10.chm561102
 f1_keywords:
 - vbaxl10.chm561102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.TickMarkSpacing
 ms.assetid: 18a23a13-d610-3380-a387-e8f49132dad0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CatalogMergeShapes.Range Method (Publisher)
 keywords: vbapb10.chm8388612
 f1_keywords:
 - vbapb10.chm8388612
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Range
 ms.assetid: e92dcac4-4694-8a22-61da-09fcd98c72ce
+ms.date: 06/08/2017
 ---
 
 

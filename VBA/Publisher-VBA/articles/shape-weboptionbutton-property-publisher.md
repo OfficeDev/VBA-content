@@ -3,10 +3,11 @@ title: Shape.WebOptionButton Property (Publisher)
 keywords: vbapb10.chm2228343
 f1_keywords:
 - vbapb10.chm2228343
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebOptionButton
 ms.assetid: 0c43387c-0cb6-5d6f-68cb-d1883ce17243
+ms.date: 06/08/2017
 ---
 
 

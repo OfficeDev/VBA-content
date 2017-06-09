@@ -3,10 +3,11 @@ title: CommandBar.FindControl Method (Office)
 keywords: vbaof11.chm3006
 f1_keywords:
 - vbaof11.chm3006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBar.FindControl
 ms.assetid: d5ff45de-a356-0dab-4233-88326d08535a
+ms.date: 06/08/2017
 ---
 
 

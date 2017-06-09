@@ -3,10 +3,11 @@ title: TabControl.BorderColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BorderColor
 ms.assetid: 26a4f80e-d4d2-a633-0e7d-67a2d1143af6
+ms.date: 06/08/2017
 ---
 
 

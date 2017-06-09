@@ -3,10 +3,11 @@ title: DocumentWindow.IsSectionExpanded Method (PowerPoint)
 keywords: vbapp10.chm511030
 f1_keywords:
 - vbapp10.chm511030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.IsSectionExpanded
 ms.assetid: ab40cd63-7daa-4406-9311-869ffd281d9a
+ms.date: 06/08/2017
 ---
 
 

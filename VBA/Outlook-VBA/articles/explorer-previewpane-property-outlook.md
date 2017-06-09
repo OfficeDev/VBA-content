@@ -4,6 +4,8 @@ keywords: vbaol11.chm3639
 f1_keywords:
 - vbaol11.chm3639
 ms.assetid: 5f3edb49-b9f6-db03-8f83-3fe27f0aaf08
+ms.date: 06/08/2017
+ms.prod: outlook
 ---
 
 

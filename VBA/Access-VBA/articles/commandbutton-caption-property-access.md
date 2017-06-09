@@ -3,10 +3,11 @@ title: CommandButton.Caption Property (Access)
 keywords: vbaac10.chm10450
 f1_keywords:
 - vbaac10.chm10450
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Caption
 ms.assetid: 9141b138-5bf7-5d45-f945-f9de41e43042
+ms.date: 06/08/2017
 ---
 
 

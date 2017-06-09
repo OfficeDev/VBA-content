@@ -3,8 +3,9 @@ title: "How to: Specify the Column in a Multi-Column List Box to Store Data for 
 keywords: olfm10.chm3077160
 f1_keywords:
 - olfm10.chm3077160
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 11481d20-6c2c-2dfb-4afe-fdc4a4e1563c
+ms.date: 06/08/2017
 ---
 
 

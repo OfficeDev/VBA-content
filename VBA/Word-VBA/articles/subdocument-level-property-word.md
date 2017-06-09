@@ -3,10 +3,11 @@ title: Subdocument.Level Property (Word)
 keywords: vbawd10.chm159973382
 f1_keywords:
 - vbawd10.chm159973382
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocument.Level
 ms.assetid: 5a4d20aa-8801-77b7-ad86-6c0e26179bef
+ms.date: 06/08/2017
 ---
 
 

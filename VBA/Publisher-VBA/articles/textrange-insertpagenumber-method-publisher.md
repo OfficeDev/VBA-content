@@ -3,10 +3,11 @@ title: TextRange.InsertPageNumber Method (Publisher)
 keywords: vbapb10.chm5308486
 f1_keywords:
 - vbapb10.chm5308486
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertPageNumber
 ms.assetid: f71d3b40-0263-93fa-d7e3-d815b90f71f7
+ms.date: 06/08/2017
 ---
 
 

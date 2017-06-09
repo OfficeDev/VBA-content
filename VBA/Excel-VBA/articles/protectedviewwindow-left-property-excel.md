@@ -3,10 +3,11 @@ title: ProtectedViewWindow.Left Property (Excel)
 keywords: vbaxl10.chm914077
 f1_keywords:
 - vbaxl10.chm914077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Left
 ms.assetid: 3b5dd250-f727-7653-82fa-2e187d8b625f
+ms.date: 06/08/2017
 ---
 
 

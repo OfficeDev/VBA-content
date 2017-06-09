@@ -3,10 +3,11 @@ title: PivotTableChangeList.Count Property (Excel)
 keywords: vbaxl10.chm891076
 f1_keywords:
 - vbaxl10.chm891076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Count
 ms.assetid: 0eb7476d-3fdf-3905-2819-0670eb199a53
+ms.date: 06/08/2017
 ---
 
 

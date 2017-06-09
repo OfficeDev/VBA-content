@@ -3,14 +3,15 @@ title: You attempted to link or import a Microsoft Word mail merge file. Althoug
 keywords: jeterr40.chm5003439
 f1_keywords:
 - jeterr40.chm5003439
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a81fb09a-d0cb-9f18-e6c2-89bf3c5eea34
+ms.date: 06/08/2017
 ---
 
 
 # You attempted to link or import a Microsoft Word mail merge file. Although you can export such files, you cannot link or import them. (Error 3439)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

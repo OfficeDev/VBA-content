@@ -1,13 +1,14 @@
 ---
 title: Failed to write to the dropbox folder. (Error 3513)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 517d140e-7873-92cc-b3c6-8c702932dcf8
+ms.date: 06/08/2017
 ---
 
 
 # Failed to write to the dropbox folder. (Error 3513)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

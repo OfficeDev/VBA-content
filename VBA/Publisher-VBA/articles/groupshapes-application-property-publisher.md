@@ -3,10 +3,11 @@ title: GroupShapes.Application Property (Publisher)
 keywords: vbapb10.chm3342337
 f1_keywords:
 - vbapb10.chm3342337
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.GroupShapes.Application
 ms.assetid: 16dcdb9f-1bba-ed84-455c-a0616bdcb083
+ms.date: 06/08/2017
 ---
 
 

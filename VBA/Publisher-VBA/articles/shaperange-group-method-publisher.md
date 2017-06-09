@@ -3,10 +3,11 @@ title: ShapeRange.Group Method (Publisher)
 keywords: vbapb10.chm2294018
 f1_keywords:
 - vbapb10.chm2294018
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Group
 ms.assetid: ca3e011f-72ea-904e-da3f-cac7fe24341d
+ms.date: 06/08/2017
 ---
 
 

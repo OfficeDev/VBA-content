@@ -1,7 +1,8 @@
 ---
 title: Defining Actions for Form Regions
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 07789a5f-26d1-4cdd-9a0b-96b523f42e22
+ms.date: 06/08/2017
 ---
 
 

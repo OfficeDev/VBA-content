@@ -3,10 +3,11 @@ title: MarkerStyle Property
 keywords: vbagr10.chm65608
 f1_keywords:
 - vbagr10.chm65608
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MarkerStyle
 ms.assetid: 6010628c-55ab-a613-efb0-53e6abb92295
+ms.date: 06/08/2017
 ---
 
 

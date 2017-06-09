@@ -3,10 +3,11 @@ title: DataRecordset.LinkReplaceBehavior Property (Visio)
 keywords: vis_sdr.chm16460365
 f1_keywords:
 - vis_sdr.chm16460365
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.LinkReplaceBehavior
 ms.assetid: a49a9a44-1067-dfc6-0fb0-aee15064078b
+ms.date: 06/08/2017
 ---
 
 

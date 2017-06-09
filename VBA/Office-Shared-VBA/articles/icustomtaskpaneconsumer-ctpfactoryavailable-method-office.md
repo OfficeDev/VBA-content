@@ -3,10 +3,11 @@ title: ICustomTaskPaneConsumer.CTPFactoryAvailable Method (Office)
 keywords: vbaof11.chm305001
 f1_keywords:
 - vbaof11.chm305001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ICustomTaskPaneConsumer.CTPFactoryAvailable
 ms.assetid: b4fd5ea5-5cad-0c48-0538-855f94fb65c9
+ms.date: 06/08/2017
 ---
 
 

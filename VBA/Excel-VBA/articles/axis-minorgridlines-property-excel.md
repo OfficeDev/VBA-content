@@ -3,10 +3,11 @@ title: Axis.MinorGridlines Property (Excel)
 keywords: vbaxl10.chm561092
 f1_keywords:
 - vbaxl10.chm561092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MinorGridlines
 ms.assetid: 5725fdb3-05de-e555-5734-cbc64c6a2068
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: AutoCorrectEntries Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 3823f96c-f600-d279-2592-253025ad63ff
+ms.date: 06/08/2017
 ---
 
 

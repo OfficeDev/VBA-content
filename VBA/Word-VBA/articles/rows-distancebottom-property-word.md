@@ -3,10 +3,11 @@ title: Rows.DistanceBottom Property (Word)
 keywords: vbawd10.chm155975694
 f1_keywords:
 - vbawd10.chm155975694
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.DistanceBottom
 ms.assetid: 21d0bb53-69d5-d579-a7eb-690e8f2742fb
+ms.date: 06/08/2017
 ---
 
 

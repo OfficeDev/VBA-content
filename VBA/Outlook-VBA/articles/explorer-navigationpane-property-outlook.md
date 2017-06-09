@@ -3,10 +3,11 @@ title: Explorer.NavigationPane Property (Outlook)
 keywords: vbaol11.chm2782
 f1_keywords:
 - vbaol11.chm2782
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.NavigationPane
 ms.assetid: 9ff92a76-d1cd-e338-2f45-e3e5c79c136e
+ms.date: 06/08/2017
 ---
 
 

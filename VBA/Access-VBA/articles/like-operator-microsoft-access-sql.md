@@ -3,14 +3,15 @@ title: Like Operator (Microsoft Access SQL)
 keywords: jetsql40.chm5277589
 f1_keywords:
 - jetsql40.chm5277589
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 70d2ecef-90d7-aff9-398e-8703fb7dfc6e
+ms.date: 06/08/2017
 ---
 
 
 # Like Operator (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

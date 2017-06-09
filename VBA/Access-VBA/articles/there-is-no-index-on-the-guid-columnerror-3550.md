@@ -3,14 +3,15 @@ title: There is no index on the GUID column. (Error 3550)
 keywords: jeterr40.chm5003550
 f1_keywords:
 - jeterr40.chm5003550
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 57fcc7c8-66d2-12fd-e7f7-0be8213be55d
+ms.date: 06/08/2017
 ---
 
 
 # There is no index on the GUID column. (Error 3550)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

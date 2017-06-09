@@ -3,10 +3,11 @@ title: Section.ObjectType Property (Visio)
 keywords: vis_sdr.chm15713960
 f1_keywords:
 - vis_sdr.chm15713960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.ObjectType
 ms.assetid: 85f5eb9d-d887-c995-4b29-f9eeaa319a6c
+ms.date: 06/08/2017
 ---
 
 

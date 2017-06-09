@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Application
 ms.assetid: 6d9790dd-d418-6287-06f9-27214a564dd9
+ms.date: 06/08/2017
 ---
 
 

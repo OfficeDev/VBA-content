@@ -3,10 +3,11 @@ title: ConnectorFormat.BeginDisconnect Method (Excel)
 keywords: vbaxl10.chm646074
 f1_keywords:
 - vbaxl10.chm646074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginDisconnect
 ms.assetid: 1edd106a-9f02-3916-401c-1b026e40d75a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CommandButton.Default Property (Access)
 keywords: vbaac10.chm10455
 f1_keywords:
 - vbaac10.chm10455
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Default
 ms.assetid: b643350e-9a89-a0ff-b8dd-f1c2c1392992
+ms.date: 06/08/2017
 ---
 
 

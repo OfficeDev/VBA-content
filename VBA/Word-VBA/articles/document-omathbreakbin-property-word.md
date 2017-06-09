@@ -3,10 +3,11 @@ title: Document.OMathBreakBin Property (Word)
 keywords: vbawd10.chm158007824
 f1_keywords:
 - vbawd10.chm158007824
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.OMathBreakBin
 ms.assetid: 7ec16236-3597-232b-f640-2a9c5713865e
+ms.date: 06/08/2017
 ---
 
 

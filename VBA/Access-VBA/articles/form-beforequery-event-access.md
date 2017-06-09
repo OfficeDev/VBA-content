@@ -3,10 +3,11 @@ title: Form.BeforeQuery Event (Access)
 keywords: vbaac10.chm13671
 f1_keywords:
 - vbaac10.chm13671
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeQuery
 ms.assetid: 07d9ba3f-25dc-f448-5c99-8c1e4ca5ab20
+ms.date: 06/08/2017
 ---
 
 

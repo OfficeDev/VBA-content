@@ -3,10 +3,11 @@ title: WorksheetFunction.DollarFr Method (Excel)
 keywords: vbaxl10.chm137320
 f1_keywords:
 - vbaxl10.chm137320
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DollarFr
 ms.assetid: a024cc74-605f-7ac5-77f9-7368f8b22f8c
+ms.date: 06/08/2017
 ---
 
 

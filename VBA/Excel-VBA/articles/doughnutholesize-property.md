@@ -3,10 +3,11 @@ title: DoughnutHoleSize Property
 keywords: vbagr10.chm66662
 f1_keywords:
 - vbagr10.chm66662
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DoughnutHoleSize
 ms.assetid: 07e1e63b-8e31-92e5-18ab-c47104d093ac
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Type Cell (Text Fields Section), Visio [Vis_DSS.chm1060]
 keywords: vis_dss.chm1060
 f1_keywords:
 - vis_dss.chm1060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bae1391e-150f-4056-97c5-a4105a703f90
+ms.date: 06/08/2017
 ---
 
 

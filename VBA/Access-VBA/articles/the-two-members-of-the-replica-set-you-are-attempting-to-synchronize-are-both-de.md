@@ -3,14 +3,15 @@ title: The two members of the replica set you are attempting to synchronize are 
 keywords: jeterr40.chm5003561
 f1_keywords:
 - jeterr40.chm5003561
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8cfcfeef-304a-faa4-52df-c0acf53f8b9d
+ms.date: 06/08/2017
 ---
 
 
 # The two members of the replica set you are attempting to synchronize are both Design Masters. (Error 3561)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

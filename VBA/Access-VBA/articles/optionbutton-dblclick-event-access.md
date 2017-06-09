@@ -3,10 +3,11 @@ title: OptionButton.DblClick Event (Access)
 keywords: vbaac10.chm14140
 f1_keywords:
 - vbaac10.chm14140
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.DblClick
 ms.assetid: 405b3c90-b00e-d7e7-6e22-161060172615
+ms.date: 06/08/2017
 ---
 
 

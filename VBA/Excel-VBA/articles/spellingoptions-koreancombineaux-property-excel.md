@@ -3,10 +3,11 @@ title: SpellingOptions.KoreanCombineAux Property (Excel)
 keywords: vbaxl10.chm717080
 f1_keywords:
 - vbaxl10.chm717080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.KoreanCombineAux
 ms.assetid: 9e858f87-e302-2d51-aa9e-383352b534e2
+ms.date: 06/08/2017
 ---
 
 

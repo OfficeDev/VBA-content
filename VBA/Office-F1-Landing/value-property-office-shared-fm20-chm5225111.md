@@ -3,8 +3,9 @@ title: Value Property, Office Shared [fm20.chm5225111]
 keywords: fm20.chm5225111
 f1_keywords:
 - fm20.chm5225111
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0fc00bbe-c278-4576-800a-70663e3b0374
+ms.date: 06/08/2017
 ---
 
 

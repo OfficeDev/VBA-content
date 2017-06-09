@@ -3,10 +3,11 @@ title: Project.HyperlinkColor Property (Project)
 keywords: vbapj.chm132343
 f1_keywords:
 - vbapj.chm132343
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.HyperlinkColor
 ms.assetid: de3fac1b-b422-39f2-1163-124700bae03a
+ms.date: 06/08/2017
 ---
 
 

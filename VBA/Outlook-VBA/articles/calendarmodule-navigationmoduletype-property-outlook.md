@@ -3,10 +3,11 @@ title: CalendarModule.NavigationModuleType Property (Outlook)
 keywords: vbaol11.chm3243
 f1_keywords:
 - vbaol11.chm3243
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.NavigationModuleType
 ms.assetid: cb63445b-0438-c97e-0b38-eaf17b6b739e
+ms.date: 06/08/2017
 ---
 
 

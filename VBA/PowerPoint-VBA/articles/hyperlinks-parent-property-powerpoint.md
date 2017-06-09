@@ -3,10 +3,11 @@ title: Hyperlinks.Parent Property (PowerPoint)
 keywords: vbapp10.chm525002
 f1_keywords:
 - vbapp10.chm525002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlinks.Parent
 ms.assetid: ac7d6adf-288a-3459-a259-0dec4cbcf56b
+ms.date: 06/08/2017
 ---
 
 

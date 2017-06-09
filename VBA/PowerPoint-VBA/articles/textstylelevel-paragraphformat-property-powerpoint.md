@@ -3,10 +3,11 @@ title: TextStyleLevel.ParagraphFormat Property (PowerPoint)
 keywords: vbapp10.chm581003
 f1_keywords:
 - vbapp10.chm581003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevel.ParagraphFormat
 ms.assetid: bc49660b-7834-0c6c-230f-0d9d31543c71
+ms.date: 06/08/2017
 ---
 
 

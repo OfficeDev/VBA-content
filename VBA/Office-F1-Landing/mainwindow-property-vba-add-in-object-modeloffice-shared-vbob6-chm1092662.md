@@ -3,8 +3,9 @@ title: MainWindow Property (VBA Add-In Object Model), Office Shared [vbob6.chm10
 keywords: vbob6.chm1092662
 f1_keywords:
 - vbob6.chm1092662
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e4622c98-305a-4a30-b5bd-bc1ab2692225
+ms.date: 06/08/2017
 ---
 
 

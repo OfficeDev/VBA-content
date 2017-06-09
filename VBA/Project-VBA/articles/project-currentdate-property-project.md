@@ -3,10 +3,11 @@ title: Project.CurrentDate Property (Project)
 keywords: vbapj.chm131699
 f1_keywords:
 - vbapj.chm131699
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CurrentDate
 ms.assetid: 008da48d-2bc8-f69c-c0d1-1b44a57c1c69
+ms.date: 06/08/2017
 ---
 
 

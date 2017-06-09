@@ -3,8 +3,9 @@ title: Create a transparent control
 keywords: fm20.chm5225260
 f1_keywords:
 - fm20.chm5225260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6c78b9fd-8750-4492-4e19-2e62bbde7f2c
+ms.date: 06/08/2017
 ---
 
 

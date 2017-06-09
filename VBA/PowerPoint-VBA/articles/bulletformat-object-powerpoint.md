@@ -3,10 +3,11 @@ title: BulletFormat Object (PowerPoint)
 keywords: vbapp10.chm577000
 f1_keywords:
 - vbapp10.chm577000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat
 ms.assetid: 8c70b2af-0175-9315-3a7e-e30aa0438798
+ms.date: 06/08/2017
 ---
 
 

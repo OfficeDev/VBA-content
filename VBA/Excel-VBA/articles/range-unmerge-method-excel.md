@@ -3,10 +3,11 @@ title: Range.UnMerge Method (Excel)
 keywords: vbaxl10.chm144159
 f1_keywords:
 - vbaxl10.chm144159
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.UnMerge
 ms.assetid: dfc49876-29b0-0b61-fe18-3953438f7452
+ms.date: 06/08/2017
 ---
 
 

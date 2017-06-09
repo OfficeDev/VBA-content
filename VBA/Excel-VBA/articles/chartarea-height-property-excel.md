@@ -3,10 +3,11 @@ title: ChartArea.Height Property (Excel)
 keywords: vbaxl10.chm620083
 f1_keywords:
 - vbaxl10.chm620083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea.Height
 ms.assetid: 221e00e3-c089-cd86-69fe-73df7d41d6e8
+ms.date: 06/08/2017
 ---
 
 

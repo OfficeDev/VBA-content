@@ -3,14 +3,15 @@ title: ALL (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277606
 f1_keywords:
 - jetsql40.chm5277606
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1361f1c1-f99d-8952-a885-d13dcdd7cb1d
+ms.date: 06/08/2017
 ---
 
 
 # ALL (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

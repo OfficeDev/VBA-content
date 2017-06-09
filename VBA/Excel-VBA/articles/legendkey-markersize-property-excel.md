@@ -3,10 +3,11 @@ title: LegendKey.MarkerSize Property (Excel)
 keywords: vbaxl10.chm590084
 f1_keywords:
 - vbaxl10.chm590084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.MarkerSize
 ms.assetid: 4c90aa34-9720-00b6-5149-9b7c2d1b56d5
+ms.date: 06/08/2017
 ---
 
 

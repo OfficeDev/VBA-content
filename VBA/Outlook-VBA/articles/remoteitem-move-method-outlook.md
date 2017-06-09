@@ -3,10 +3,11 @@ title: RemoteItem.Move Method (Outlook)
 keywords: vbaol11.chm1616
 f1_keywords:
 - vbaol11.chm1616
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Move
 ms.assetid: 0eaffdee-01b2-2292-a31c-35a856652beb
+ms.date: 06/08/2017
 ---
 
 

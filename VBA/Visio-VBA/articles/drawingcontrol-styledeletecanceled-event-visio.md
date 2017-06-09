@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.StyleDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.StyleDeleteCanceled
 ms.assetid: 0ac05f7c-9532-0d8d-39c2-d62fd95912e8
+ms.date: 06/08/2017
 ---
 
 

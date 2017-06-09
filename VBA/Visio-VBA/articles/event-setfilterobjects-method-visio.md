@@ -3,10 +3,11 @@ title: Event.SetFilterObjects Method (Visio)
 keywords: vis_sdr.chm12650835
 f1_keywords:
 - vis_sdr.chm12650835
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.SetFilterObjects
 ms.assetid: 6aa63a44-de34-6cc8-88b2-386064582416
+ms.date: 06/08/2017
 ---
 
 

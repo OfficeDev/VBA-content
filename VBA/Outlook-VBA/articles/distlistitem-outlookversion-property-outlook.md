@@ -3,10 +3,11 @@ title: DistListItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1133
 f1_keywords:
 - vbaol11.chm1133
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.OutlookVersion
 ms.assetid: d6148101-f48f-11cd-cb89-ada465758ab5
+ms.date: 06/08/2017
 ---
 
 

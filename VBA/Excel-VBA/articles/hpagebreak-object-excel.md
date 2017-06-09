@@ -3,10 +3,11 @@ title: HPageBreak Object (Excel)
 keywords: vbaxl10.chm158072
 f1_keywords:
 - vbaxl10.chm158072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreak
 ms.assetid: 8fc96958-33ab-8251-f627-4769b5eab97f
+ms.date: 06/08/2017
 ---
 
 

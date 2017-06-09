@@ -3,10 +3,11 @@ title: Application.CodeProject Property (Access)
 keywords: vbaac10.chm12578
 f1_keywords:
 - vbaac10.chm12578
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CodeProject
 ms.assetid: 881eeb80-7e78-6ae6-3bb5-e7d67731c48c
+ms.date: 06/08/2017
 ---
 
 

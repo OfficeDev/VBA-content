@@ -3,8 +3,9 @@ title: IndRight Cell (Paragraph Section), Visio [vis_sdr.chm475]
 keywords: vis_sdr.chm475
 f1_keywords:
 - vis_sdr.chm475
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 983ec882-8314-4db3-903f-498308c26719
+ms.date: 06/08/2017
 ---
 
 

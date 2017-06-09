@@ -3,10 +3,11 @@ title: Presentation.EnsureAllMediaUpgraded Method (PowerPoint)
 keywords: vbapp10.chm583117
 f1_keywords:
 - vbapp10.chm583117
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.EnsureAllMediaUpgraded
 ms.assetid: 3496f149-cfd2-87b3-d69b-f7a7903bbe10
+ms.date: 06/08/2017
 ---
 
 

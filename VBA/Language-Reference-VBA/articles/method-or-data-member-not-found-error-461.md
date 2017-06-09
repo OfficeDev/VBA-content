@@ -3,8 +3,9 @@ title: Method or data member not found (Error 461)
 keywords: vblr6.chm1000461
 f1_keywords:
 - vblr6.chm1000461
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 10733744-502f-06b3-f0c6-5f039d017be4
+ms.date: 06/08/2017
 ---
 
 

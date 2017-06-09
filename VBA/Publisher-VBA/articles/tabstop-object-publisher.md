@@ -3,10 +3,11 @@ title: TabStop Object (Publisher)
 keywords: vbapb10.chm5701631
 f1_keywords:
 - vbapb10.chm5701631
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TabStop
 ms.assetid: 74e71d75-503f-ef57-ddeb-24a788402df2
+ms.date: 06/08/2017
 ---
 
 

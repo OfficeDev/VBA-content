@@ -1,7 +1,8 @@
 ---
 title: Set Form, Report, and Control Properties in Code
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 23d88ab3-9ee6-5f7f-2351-14bb94d7a27b
+ms.date: 06/08/2017
 ---
 
 

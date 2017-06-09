@@ -3,8 +3,9 @@ title: Invalid Next control variable reference
 keywords: vblr6.chm1011226
 f1_keywords:
 - vblr6.chm1011226
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1fd6eeda-b1e9-5c36-8100-b0e8ea3614fc
+ms.date: 06/08/2017
 ---
 
 

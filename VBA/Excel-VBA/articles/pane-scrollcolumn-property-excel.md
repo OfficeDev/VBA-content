@@ -3,10 +3,11 @@ title: Pane.ScrollColumn Property (Excel)
 keywords: vbaxl10.chm360076
 f1_keywords:
 - vbaxl10.chm360076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.ScrollColumn
 ms.assetid: 47165fe4-299d-8863-708f-9db22ef52ed1
+ms.date: 06/08/2017
 ---
 
 

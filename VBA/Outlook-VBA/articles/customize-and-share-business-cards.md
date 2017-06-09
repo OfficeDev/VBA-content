@@ -1,7 +1,8 @@
 ---
 title: Customize and Share Business Cards
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d29fd962-ea5f-040d-e9af-e8ab70595832
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.EPostagePropertyDialog Event (Word)
 keywords: vbawd10.chm4000014
 f1_keywords:
 - vbawd10.chm4000014
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.EPostagePropertyDialog
 ms.assetid: 6d48fb9b-7826-2897-4deb-bde202fbd05b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Presentation.AddToFavorites Method (PowerPoint)
 keywords: vbapp10.chm583031
 f1_keywords:
 - vbapp10.chm583031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.AddToFavorites
 ms.assetid: 5bdef3c1-fef2-a90b-d2be-f244e3ff1a64
+ms.date: 06/08/2017
 ---
 
 

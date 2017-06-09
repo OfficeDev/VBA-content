@@ -3,10 +3,11 @@ title: OlkTextBox.BorderStyle Property (Outlook)
 keywords: vbaol11.chm1000040
 f1_keywords:
 - vbaol11.chm1000040
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.BorderStyle
 ms.assetid: 5af10c08-04f2-4656-3a89-592580fd85a5
+ms.date: 06/08/2017
 ---
 
 

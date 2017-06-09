@@ -3,10 +3,11 @@ title: WorksheetFunction.DStDev Method (Excel)
 keywords: vbaxl10.chm137099
 f1_keywords:
 - vbaxl10.chm137099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DStDev
 ms.assetid: 9fd68082-a472-e6be-af20-39be3277956b
+ms.date: 06/08/2017
 ---
 
 

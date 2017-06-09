@@ -3,10 +3,11 @@ title: View.MarkupMode Property (Word)
 keywords: vbawd10.chm161808441
 f1_keywords:
 - vbawd10.chm161808441
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.MarkupMode
 ms.assetid: 2db71940-c39d-b8ec-2732-f3f406af3b7d
+ms.date: 06/08/2017
 ---
 
 

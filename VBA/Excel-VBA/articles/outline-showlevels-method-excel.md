@@ -3,10 +3,11 @@ title: Outline.ShowLevels Method (Excel)
 keywords: vbaxl10.chm455074
 f1_keywords:
 - vbaxl10.chm455074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline.ShowLevels
 ms.assetid: 2ebeb135-bbb9-aac1-57d7-02a141aa3ddb
+ms.date: 06/08/2017
 ---
 
 

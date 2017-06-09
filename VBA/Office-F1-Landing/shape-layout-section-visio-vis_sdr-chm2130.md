@@ -3,8 +3,9 @@ title: Shape Layout Section, Visio [vis_sdr.chm2130]
 keywords: vis_sdr.chm2130
 f1_keywords:
 - vis_sdr.chm2130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 34b0be25-c316-4d60-afc3-0a3183151df2
+ms.date: 06/08/2017
 ---
 
 

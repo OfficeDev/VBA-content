@@ -1,9 +1,10 @@
 ---
 title: Assignment.Text27 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text27
 ms.assetid: f8c5d733-7a20-979e-7494-e35f52ae6ece
+ms.date: 06/08/2017
 ---
 
 

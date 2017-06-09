@@ -3,10 +3,11 @@ title: InvisibleApp.CustomMenus Property (Visio)
 keywords: vis_sdr.chm17513345
 f1_keywords:
 - vis_sdr.chm17513345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CustomMenus
 ms.assetid: 7c571744-70b9-f689-f39a-5230b180f4c3
+ms.date: 06/08/2017
 ---
 
 

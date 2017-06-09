@@ -3,10 +3,11 @@ title: FillFormat.GradientStops Property (PowerPoint)
 keywords: vbapp10.chm552025
 f1_keywords:
 - vbapp10.chm552025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.GradientStops
 ms.assetid: dd0c2c5a-81f1-b008-5b2f-5248241ac0db
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CodeProject.BaseConnectionString Property (Access)
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.BaseConnectionString
 ms.assetid: 118da929-8e30-25eb-c940-27ce924a88f7
+ms.date: 06/08/2017
 ---
 
 

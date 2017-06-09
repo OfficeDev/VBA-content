@@ -3,10 +3,11 @@ title: OLEFormat.Activate Method (Excel)
 keywords: vbaxl10.chm632073
 f1_keywords:
 - vbaxl10.chm632073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEFormat.Activate
 ms.assetid: e6d9974e-5287-bf4c-24b8-9bb5696e53af
+ms.date: 06/08/2017
 ---
 
 

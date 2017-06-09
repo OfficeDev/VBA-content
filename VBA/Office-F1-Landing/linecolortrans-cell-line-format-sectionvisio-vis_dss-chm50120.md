@@ -3,8 +3,9 @@ title: LineColorTrans Cell (Line Format Section), Visio [Vis_DSS.chm50120]
 keywords: vis_dss.chm50120
 f1_keywords:
 - vis_dss.chm50120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5af817c8-c00e-4679-9c5e-d3960750be7a
+ms.date: 06/08/2017
 ---
 
 

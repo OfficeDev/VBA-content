@@ -1,7 +1,8 @@
 ---
 title: Wizards can't reference projects
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 983103b7-3f34-48b1-a61c-c4442f8490b0
+ms.date: 06/08/2017
 ---
 
 

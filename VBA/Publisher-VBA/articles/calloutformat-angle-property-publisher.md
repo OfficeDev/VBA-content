@@ -3,10 +3,11 @@ title: CalloutFormat.Angle Property (Publisher)
 keywords: vbapb10.chm2490625
 f1_keywords:
 - vbapb10.chm2490625
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Angle
 ms.assetid: b65a1c87-db52-8703-135e-1fbb1efbeebe
+ms.date: 06/08/2017
 ---
 
 

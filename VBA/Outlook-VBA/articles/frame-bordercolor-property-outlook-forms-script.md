@@ -1,7 +1,8 @@
 ---
 title: Frame.BorderColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 348a2dd5-0b16-327a-0a83-124b338d4b44
+ms.date: 06/08/2017
 ---
 
 

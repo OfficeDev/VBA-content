@@ -3,8 +3,9 @@ title: Learn About Language-Specific Information (PowerPoint)
 keywords: vbapp10.chm5260462
 f1_keywords:
 - vbapp10.chm5260462
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 ms.assetid: 0aba8fb8-2ab4-e5c8-cef4-aa75e27fe122
+ms.date: 06/08/2017
 ---
 
 

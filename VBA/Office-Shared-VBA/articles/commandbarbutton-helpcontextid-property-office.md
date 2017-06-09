@@ -1,9 +1,10 @@
 ---
 title: CommandBarButton.HelpContextId Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.HelpContextId
 ms.assetid: 2e4f33db-7143-dd8d-65b3-d0c993f2e966
+ms.date: 06/08/2017
 ---
 
 

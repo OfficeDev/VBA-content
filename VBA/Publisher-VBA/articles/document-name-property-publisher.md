@@ -3,10 +3,11 @@ title: Document.Name Property (Publisher)
 keywords: vbapb10.chm196630
 f1_keywords:
 - vbapb10.chm196630
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Name
 ms.assetid: fcf86fcc-a3aa-b4c6-1ecc-202972ac558b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Cannot find the executable file for the Synchronizer (mstran40.exe). (Err
 keywords: jeterr40.chm5003627
 f1_keywords:
 - jeterr40.chm5003627
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4fc1de50-1eeb-f848-884b-894ab63afc14
+ms.date: 06/08/2017
 ---
 
 
 # Cannot find the executable file for the Synchronizer (mstran40.exe). (Error 3627)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

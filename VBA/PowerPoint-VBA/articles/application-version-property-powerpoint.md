@@ -3,10 +3,11 @@ title: Application.Version Property (PowerPoint)
 keywords: vbapp10.chm502015
 f1_keywords:
 - vbapp10.chm502015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Version
 ms.assetid: c76b1e7e-db29-0ef8-fefb-9333b8350de0
+ms.date: 06/08/2017
 ---
 
 

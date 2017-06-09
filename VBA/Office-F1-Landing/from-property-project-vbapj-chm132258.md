@@ -3,8 +3,9 @@ title: From Property, Project [vbapj.chm132258]
 keywords: vbapj.chm132258
 f1_keywords:
 - vbapj.chm132258
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f8311efb-c2ea-40b0-bb3e-da8eddfebb6b
+ms.date: 06/08/2017
 ---
 
 

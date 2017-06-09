@@ -1,9 +1,10 @@
 ---
 title: XlEndStyleCap Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlEndStyleCap
 ms.assetid: a681e8c4-cf4b-45c3-4c87-935032fd12f7
+ms.date: 06/08/2017
 ---
 
 

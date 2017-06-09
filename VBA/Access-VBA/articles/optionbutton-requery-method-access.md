@@ -3,10 +3,11 @@ title: OptionButton.Requery Method (Access)
 keywords: vbaac10.chm10561
 f1_keywords:
 - vbaac10.chm10561
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Requery
 ms.assetid: acbd946a-bb2c-e205-9f81-54e034a26e0a
+ms.date: 06/08/2017
 ---
 
 

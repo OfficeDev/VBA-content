@@ -3,10 +3,11 @@ title: DataLabels.HorizontalAlignment Property (Excel)
 keywords: vbaxl10.chm584083
 f1_keywords:
 - vbaxl10.chm584083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.HorizontalAlignment
 ms.assetid: ed316f52-ccbb-2bc0-c3ee-dfddb76354b4
+ms.date: 06/08/2017
 ---
 
 

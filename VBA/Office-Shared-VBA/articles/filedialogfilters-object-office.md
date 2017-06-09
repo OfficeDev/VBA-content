@@ -3,10 +3,11 @@ title: FileDialogFilters Object (Office)
 keywords: vbaof11.chm255000
 f1_keywords:
 - vbaof11.chm255000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilters
 ms.assetid: a74663cf-ad63-e41a-8d5e-e51e8a20c173
+ms.date: 06/08/2017
 ---
 
 

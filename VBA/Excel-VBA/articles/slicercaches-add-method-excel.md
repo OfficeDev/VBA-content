@@ -3,10 +3,11 @@ title: SlicerCaches.Add Method (Excel)
 keywords: vbaxl10.chm895078
 f1_keywords:
 - vbaxl10.chm895078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCaches.Add
 ms.assetid: 8d6f1099-e1ea-d157-8e64-1a9956b77c1b
+ms.date: 06/08/2017
 ---
 
 

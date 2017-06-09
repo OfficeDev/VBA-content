@@ -3,10 +3,11 @@ title: ShapeRange.TextEffect Property (Publisher)
 keywords: vbapb10.chm2293833
 f1_keywords:
 - vbapb10.chm2293833
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.TextEffect
 ms.assetid: 7bc822f2-4754-685d-fdd3-7479b5a3ac52
+ms.date: 06/08/2017
 ---
 
 

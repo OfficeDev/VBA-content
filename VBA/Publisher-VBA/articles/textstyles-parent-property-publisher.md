@@ -3,10 +3,11 @@ title: TextStyles.Parent Property (Publisher)
 keywords: vbapb10.chm5898242
 f1_keywords:
 - vbapb10.chm5898242
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyles.Parent
 ms.assetid: 7bd3bfd0-2122-c753-df20-5d66dc159a57
+ms.date: 06/08/2017
 ---
 
 

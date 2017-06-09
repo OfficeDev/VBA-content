@@ -3,10 +3,11 @@ title: ListObject.InsertRowRange Property (Excel)
 keywords: vbaxl10.chm734085
 f1_keywords:
 - vbaxl10.chm734085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.InsertRowRange
 ms.assetid: 5957f802-96b8-60a3-74e4-d7abcea7544b
+ms.date: 06/08/2017
 ---
 
 

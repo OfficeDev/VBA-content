@@ -3,14 +3,15 @@ title: Cannot perform cascading operation on table <name> because it is currentl
 keywords: jeterr40.chm5003414
 f1_keywords:
 - jeterr40.chm5003414
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 238227df-7dd2-6a72-7c3d-8b76a5bc7834
+ms.date: 06/08/2017
 ---
 
 
 # Cannot perform cascading operation on table <name> because it is currently in use. (Error 3414)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

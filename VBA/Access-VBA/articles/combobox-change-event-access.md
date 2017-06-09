@@ -3,10 +3,11 @@ title: ComboBox.Change Event (Access)
 keywords: vbaac10.chm14213
 f1_keywords:
 - vbaac10.chm14213
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Change
 ms.assetid: ed16e578-85f8-12ae-2adc-03df45dadc47
+ms.date: 06/08/2017
 ---
 
 

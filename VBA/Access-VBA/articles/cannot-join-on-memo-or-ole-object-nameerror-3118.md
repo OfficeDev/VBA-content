@@ -3,14 +3,15 @@ title: Cannot join on Memo or OLE Object <name>. (Error 3118)
 keywords: jeterr40.chm5003118
 f1_keywords:
 - jeterr40.chm5003118
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f9ce3e60-d128-674b-0a8f-0af01a21357a
+ms.date: 06/08/2017
 ---
 
 
 # Cannot join on Memo or OLE Object <name>. (Error 3118)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,14 +3,15 @@ title: Could not read the record; currently locked by another user. (Error 3624)
 keywords: jeterr40.chm5003624
 f1_keywords:
 - jeterr40.chm5003624
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 25e7635d-e851-39b8-1a11-bc87ef8e0682
+ms.date: 06/08/2017
 ---
 
 
 # Could not read the record; currently locked by another user. (Error 3624)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,8 +3,9 @@ title: LockSelect Cell (Protection Section), Visio [Vis_DSS.chm82251229]
 keywords: vis_dss.chm82251229
 f1_keywords:
 - vis_dss.chm82251229
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 790b431e-9552-44f2-bdf4-8a3b3362426b
+ms.date: 06/08/2017
 ---
 
 

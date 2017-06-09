@@ -3,10 +3,11 @@ title: WebPageFont.FixedWidthFontSize Property (Office)
 keywords: vbaof11.chm224004
 f1_keywords:
 - vbaof11.chm224004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WebPageFont.FixedWidthFontSize
 ms.assetid: a3f68d85-219d-c94b-15d2-c55374158fc2
+ms.date: 06/08/2017
 ---
 
 

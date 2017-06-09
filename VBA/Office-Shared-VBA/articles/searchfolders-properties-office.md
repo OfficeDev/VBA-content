@@ -1,7 +1,8 @@
 ---
 title: SearchFolders Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b5c66509-eb75-4506-bc5f-a31cf0a781a6
+ms.date: 06/08/2017
 ---
 
 

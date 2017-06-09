@@ -3,10 +3,11 @@ title: Styles.ObjectType Property (Visio)
 keywords: vis_sdr.chm11513960
 f1_keywords:
 - vis_sdr.chm11513960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.ObjectType
 ms.assetid: 7798c16a-490d-da04-90d1-fca2705e2633
+ms.date: 06/08/2017
 ---
 
 

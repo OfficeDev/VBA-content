@@ -3,10 +3,11 @@ title: Profile.ConnectionState Property (Project)
 keywords: vbapj.chm131665
 f1_keywords:
 - vbapj.chm131665
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Profile.ConnectionState
 ms.assetid: df961e3e-26a2-9b70-475d-143b2a6db7cb
+ms.date: 06/08/2017
 ---
 
 

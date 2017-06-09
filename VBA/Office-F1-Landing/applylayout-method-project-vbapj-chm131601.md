@@ -3,8 +3,9 @@ title: ApplyLayout Method, Project [vbapj.chm131601]
 keywords: vbapj.chm131601
 f1_keywords:
 - vbapj.chm131601
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a1c007a-1e8c-4132-bdce-33e249e395c8
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: FastFind cannot search on non-column references (Error 3768)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b6cba801-1ea7-ef9d-1623-f515a3f51eb6
+ms.date: 06/08/2017
 ---
 
 
 # FastFind cannot search on non-column references (Error 3768)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

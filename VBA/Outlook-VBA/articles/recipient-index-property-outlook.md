@@ -3,10 +3,11 @@ title: Recipient.Index Property (Outlook)
 keywords: vbaol11.chm2349
 f1_keywords:
 - vbaol11.chm2349
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Index
 ms.assetid: fe2ef09a-0046-1f82-e2ad-2e4cbb5a403f
+ms.date: 06/08/2017
 ---
 
 

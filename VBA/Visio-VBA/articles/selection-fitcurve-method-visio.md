@@ -3,10 +3,11 @@ title: Selection.FitCurve Method (Visio)
 keywords: vis_sdr.chm11116275
 f1_keywords:
 - vis_sdr.chm11116275
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.FitCurve
 ms.assetid: d0f3c799-c15d-cdc8-c0b0-34aeeecec495
+ms.date: 06/08/2017
 ---
 
 

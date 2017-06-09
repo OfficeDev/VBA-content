@@ -3,10 +3,11 @@ title: Options.ShowFormatError Property (Word)
 keywords: vbawd10.chm162988480
 f1_keywords:
 - vbawd10.chm162988480
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ShowFormatError
 ms.assetid: 619ccdb4-020c-d6c7-48a8-2d2e56377577
+ms.date: 06/08/2017
 ---
 
 

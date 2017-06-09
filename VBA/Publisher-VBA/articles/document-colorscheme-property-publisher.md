@@ -3,10 +3,11 @@ title: Document.ColorScheme Property (Publisher)
 keywords: vbapb10.chm196614
 f1_keywords:
 - vbapb10.chm196614
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ColorScheme
 ms.assetid: b7748b48-eff3-bdf0-e6ce-a9a2e788d0f7
+ms.date: 06/08/2017
 ---
 
 

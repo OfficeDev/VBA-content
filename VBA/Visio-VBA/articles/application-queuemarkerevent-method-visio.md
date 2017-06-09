@@ -3,10 +3,11 @@ title: Application.QueueMarkerEvent Method (Visio)
 keywords: vis_sdr.chm10016455
 f1_keywords:
 - vis_sdr.chm10016455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueueMarkerEvent
 ms.assetid: 2afa9553-db06-12ca-f5ef-28431f56a92d
+ms.date: 06/08/2017
 ---
 
 

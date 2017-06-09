@@ -3,10 +3,11 @@ title: Image.MouseUp Event (Access)
 keywords: vbaac10.chm14170
 f1_keywords:
 - vbaac10.chm14170
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.MouseUp
 ms.assetid: 29aa863b-315a-7b4b-7c9c-89fcbb44e83a
+ms.date: 06/08/2017
 ---
 
 

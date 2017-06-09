@@ -3,14 +3,15 @@ title: The fetch buffer was too small for the amount of data you requested. (Err
 keywords: jeterr40.chm5003640
 f1_keywords:
 - jeterr40.chm5003640
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4ffcf9c2-61e1-f954-243d-324bee95fe97
+ms.date: 06/08/2017
 ---
 
 
 # The fetch buffer was too small for the amount of data you requested. (Error 3640)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

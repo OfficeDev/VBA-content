@@ -1,9 +1,10 @@
 ---
 title: CommandBarPopup.Caption Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Caption
 ms.assetid: fc9221e6-cfb0-9f2a-290b-73a434569e65
+ms.date: 06/08/2017
 ---
 
 

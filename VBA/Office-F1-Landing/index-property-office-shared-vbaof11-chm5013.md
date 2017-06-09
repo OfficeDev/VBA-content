@@ -3,8 +3,9 @@ title: Index Property, Office Shared [vbaof11.chm5013]
 keywords: vbaof11.chm5013
 f1_keywords:
 - vbaof11.chm5013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1b727d2a-6bb0-402d-b223-064ba46add5c
+ms.date: 06/08/2017
 ---
 
 

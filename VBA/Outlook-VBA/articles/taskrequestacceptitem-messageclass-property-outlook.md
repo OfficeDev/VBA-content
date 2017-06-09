@@ -3,10 +3,11 @@ title: TaskRequestAcceptItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1789
 f1_keywords:
 - vbaol11.chm1789
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.MessageClass
 ms.assetid: 817ffe01-109d-5121-96c9-d4738b1dfd91
+ms.date: 06/08/2017
 ---
 
 

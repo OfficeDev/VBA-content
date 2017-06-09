@@ -1,9 +1,10 @@
 ---
 title: Resource.GroupBySummary Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.GroupBySummary
 ms.assetid: 75bf2466-fa8f-8930-4b75-36198d9a6f4c
+ms.date: 06/08/2017
 ---
 
 

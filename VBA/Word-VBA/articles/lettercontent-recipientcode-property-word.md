@@ -3,10 +3,11 @@ title: LetterContent.RecipientCode Property (Word)
 keywords: vbawd10.chm161546366
 f1_keywords:
 - vbawd10.chm161546366
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.RecipientCode
 ms.assetid: b0c3e3b1-6679-f90f-99ab-6820fa5446f0
+ms.date: 06/08/2017
 ---
 
 

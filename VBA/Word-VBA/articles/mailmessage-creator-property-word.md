@@ -3,10 +3,11 @@ title: MailMessage.Creator Property (Word)
 keywords: vbawd10.chm163185641
 f1_keywords:
 - vbawd10.chm163185641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.Creator
 ms.assetid: 6e5fbcf4-965d-c932-fc6c-0f6d61cb53c0
+ms.date: 06/08/2017
 ---
 
 

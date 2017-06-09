@@ -3,10 +3,11 @@ title: ParentFolder Property
 keywords: vblr6.chm2181999
 f1_keywords:
 - vblr6.chm2181999
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParentFolder
 ms.assetid: 980e6bf3-fdc2-4335-7587-e5e932aee0a2
+ms.date: 06/08/2017
 ---
 
 

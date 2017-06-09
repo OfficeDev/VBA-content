@@ -1,9 +1,10 @@
 ---
 title: TaskItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeRead
 ms.assetid: b01afdf1-f4a4-8a62-d2c7-bf312ec14f29
+ms.date: 06/08/2017
 ---
 
 

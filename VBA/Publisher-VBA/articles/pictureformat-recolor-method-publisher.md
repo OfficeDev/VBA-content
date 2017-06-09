@@ -3,10 +3,11 @@ title: PictureFormat.Recolor Method (Publisher)
 keywords: vbapb10.chm3604793
 f1_keywords:
 - vbapb10.chm3604793
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Recolor
 ms.assetid: 42bc2280-b6d0-862a-7118-38ec1513b9c7
+ms.date: 06/08/2017
 ---
 
 

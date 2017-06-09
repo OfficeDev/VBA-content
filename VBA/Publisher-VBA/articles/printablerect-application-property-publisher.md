@@ -3,10 +3,11 @@ title: PrintableRect.Application Property (Publisher)
 keywords: vbapb10.chm7536642
 f1_keywords:
 - vbapb10.chm7536642
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PrintableRect.Application
 ms.assetid: 8b035af1-75bd-bee6-8165-71c2f36bf839
+ms.date: 06/08/2017
 ---
 
 

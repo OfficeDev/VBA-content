@@ -3,10 +3,11 @@ title: Application.WebOpenHyperlink Method (Project)
 keywords: vbapj.chm1311
 f1_keywords:
 - vbapj.chm1311
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebOpenHyperlink
 ms.assetid: f1da5d5f-45a1-02e0-8783-7f919578e3fe
+ms.date: 06/08/2017
 ---
 
 

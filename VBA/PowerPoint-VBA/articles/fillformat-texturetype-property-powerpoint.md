@@ -3,10 +3,11 @@ title: FillFormat.TextureType Property (PowerPoint)
 keywords: vbapp10.chm552021
 f1_keywords:
 - vbapp10.chm552021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureType
 ms.assetid: 318e5b2f-7baa-296b-c7ea-0feddb70414c
+ms.date: 06/08/2017
 ---
 
 

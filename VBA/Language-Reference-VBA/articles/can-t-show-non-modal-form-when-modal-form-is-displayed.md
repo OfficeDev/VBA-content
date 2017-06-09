@@ -3,8 +3,9 @@ title: Can't show non-modal form when modal form is displayed
 keywords: vblr6.chm1000401
 f1_keywords:
 - vblr6.chm1000401
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51a741a3-2178-6ace-84f7-9dd726e816d6
+ms.date: 06/08/2017
 ---
 
 

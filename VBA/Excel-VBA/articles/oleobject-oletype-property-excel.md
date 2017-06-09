@@ -3,10 +3,11 @@ title: OLEObject.OLEType Property (Excel)
 keywords: vbaxl10.chm417077
 f1_keywords:
 - vbaxl10.chm417077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.OLEType
 ms.assetid: ec26dc86-5a31-ca8b-97c7-fe513fb283b1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.AvailablePrinters Property (Visio)
 keywords: vis_sdr.chm10050510
 f1_keywords:
 - vis_sdr.chm10050510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AvailablePrinters
 ms.assetid: bd070ee3-4f32-1ff0-427c-d61b7778e6c5
+ms.date: 06/08/2017
 ---
 
 

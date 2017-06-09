@@ -3,10 +3,11 @@ title: Application.FocusInMailHeader Property (Word)
 keywords: vbawd10.chm158335362
 f1_keywords:
 - vbawd10.chm158335362
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.FocusInMailHeader
 ms.assetid: fba9d08b-1950-b825-5f1a-14d671181b22
+ms.date: 06/08/2017
 ---
 
 

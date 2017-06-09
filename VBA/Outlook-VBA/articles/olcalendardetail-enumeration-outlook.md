@@ -3,10 +3,11 @@ title: OlCalendarDetail Enumeration (Outlook)
 keywords: vbaol11.chm3118
 f1_keywords:
 - vbaol11.chm3118
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlCalendarDetail
 ms.assetid: 7ad41002-490e-824c-ff63-83a164218839
+ms.date: 06/08/2017
 ---
 
 

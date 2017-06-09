@@ -3,10 +3,11 @@ title: WebBrowserControl.LayoutID Property (Access)
 keywords: vbaac10.chm14412
 f1_keywords:
 - vbaac10.chm14412
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.LayoutID
 ms.assetid: e2f7d76a-d2e1-fc00-597a-347177b1387a
+ms.date: 06/08/2017
 ---
 
 

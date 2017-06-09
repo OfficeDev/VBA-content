@@ -3,10 +3,11 @@ title: WorksheetFunction.Asin Method (Excel)
 keywords: vbaxl10.chm137119
 f1_keywords:
 - vbaxl10.chm137119
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Asin
 ms.assetid: 24195cf6-d762-169d-fb7d-aa15dfbfd152
+ms.date: 06/08/2017
 ---
 
 

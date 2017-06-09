@@ -3,10 +3,11 @@ title: Category.CategoryBorderColor Property (Outlook)
 keywords: vbaol11.chm3266
 f1_keywords:
 - vbaol11.chm3266
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Category.CategoryBorderColor
 ms.assetid: 95251459-f216-7cc8-55ef-c939090cf3bf
+ms.date: 06/08/2017
 ---
 
 

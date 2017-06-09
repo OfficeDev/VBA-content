@@ -3,10 +3,11 @@ title: Series.Format Property (Excel)
 keywords: vbaxl10.chm578124
 f1_keywords:
 - vbaxl10.chm578124
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Format
 ms.assetid: 786f242a-57a8-b856-e826-4548a15f8e98
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ColorStop.Application Property (Excel)
 keywords: vbaxl10.chm850073
 f1_keywords:
 - vbaxl10.chm850073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStop.Application
 ms.assetid: ef8ca642-db09-c2fd-5ac8-87a97e73153c
+ms.date: 06/08/2017
 ---
 
 

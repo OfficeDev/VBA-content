@@ -3,10 +3,11 @@ title: Report.PrintCount Property (Access)
 keywords: vbaac10.chm13734
 f1_keywords:
 - vbaac10.chm13734
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PrintCount
 ms.assetid: 9228d6eb-872c-db58-b316-78bff8b375dc
+ms.date: 06/08/2017
 ---
 
 

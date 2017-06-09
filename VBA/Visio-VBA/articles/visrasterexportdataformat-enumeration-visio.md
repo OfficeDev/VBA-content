@@ -3,10 +3,11 @@ title: VisRasterExportDataFormat Enumeration (Visio)
 keywords: vis_sdr.chm70720
 f1_keywords:
 - vis_sdr.chm70720
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRasterExportDataFormat
 ms.assetid: b9eefce9-5a2a-52a6-fa7f-f3972381326e
+ms.date: 06/08/2017
 ---
 
 

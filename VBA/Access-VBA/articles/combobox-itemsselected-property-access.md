@@ -3,10 +3,11 @@ title: ComboBox.ItemsSelected Property (Access)
 keywords: vbaac10.chm11495
 f1_keywords:
 - vbaac10.chm11495
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ItemsSelected
 ms.assetid: 7e4f6f12-3d97-b36a-1211-8c95b43642e6
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Application.BeforeDocumentSaveAs Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeDocumentSaveAs
 ms.assetid: e6782126-d2e7-c82e-b4dc-a9a5cece14b7
+ms.date: 06/08/2017
 ---
 
 

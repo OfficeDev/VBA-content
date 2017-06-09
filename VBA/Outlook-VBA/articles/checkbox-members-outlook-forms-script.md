@@ -1,7 +1,8 @@
 ---
 title: CheckBox Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0f81427d-e1b3-41aa-94ae-208d6cd16439
+ms.date: 06/08/2017
 ---
 
 

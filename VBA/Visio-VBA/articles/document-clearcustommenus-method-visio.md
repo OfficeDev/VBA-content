@@ -3,10 +3,11 @@ title: Document.ClearCustomMenus Method (Visio)
 keywords: vis_sdr.chm10516110
 f1_keywords:
 - vis_sdr.chm10516110
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ClearCustomMenus
 ms.assetid: 5be16274-151b-e139-8607-76fdb05a4235
+ms.date: 06/08/2017
 ---
 
 

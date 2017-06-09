@@ -3,10 +3,11 @@ title: SharedWorkspaceLink.CreatedBy Property (Office)
 keywords: vbaof11.chm270004
 f1_keywords:
 - vbaof11.chm270004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.CreatedBy
 ms.assetid: a97760f8-5bed-7834-4890-21ef211cee32
+ms.date: 06/08/2017
 ---
 
 

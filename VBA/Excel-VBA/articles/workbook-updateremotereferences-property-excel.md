@@ -3,10 +3,11 @@ title: Workbook.UpdateRemoteReferences Property (Excel)
 keywords: vbaxl10.chm199161
 f1_keywords:
 - vbaxl10.chm199161
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.UpdateRemoteReferences
 ms.assetid: 055c1a88-c189-ddd3-c9b2-9458817cec90
+ms.date: 06/08/2017
 ---
 
 

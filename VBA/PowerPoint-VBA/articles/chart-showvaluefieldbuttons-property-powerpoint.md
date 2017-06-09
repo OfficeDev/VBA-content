@@ -3,10 +3,11 @@ title: Chart.ShowValueFieldButtons Property (PowerPoint)
 keywords: vbapp10.chm684052
 f1_keywords:
 - vbapp10.chm684052
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ShowValueFieldButtons
 ms.assetid: c56b12ac-71ef-a6b5-c66f-3cbe1c62a4c8
+ms.date: 06/08/2017
 ---
 
 

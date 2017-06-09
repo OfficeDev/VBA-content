@@ -3,10 +3,11 @@ title: TempVars.Application Property (Access)
 keywords: vbaac10.chm14065
 f1_keywords:
 - vbaac10.chm14065
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TempVars.Application
 ms.assetid: 250a64f6-d0a2-d816-1211-c56d90de0e70
+ms.date: 06/08/2017
 ---
 
 

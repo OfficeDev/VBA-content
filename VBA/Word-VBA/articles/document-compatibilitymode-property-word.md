@@ -3,10 +3,11 @@ title: Document.CompatibilityMode Property (Word)
 keywords: vbawd10.chm158007863
 f1_keywords:
 - vbawd10.chm158007863
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CompatibilityMode
 ms.assetid: 5e4be325-1883-7701-53a1-4d7e20e3a989
+ms.date: 06/08/2017
 ---
 
 

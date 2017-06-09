@@ -3,8 +3,9 @@ title: Add, Show, Hide, or Delete a Section, Visio [Vis_DSS.chm82251799]
 keywords: vis_dss.chm82251799
 f1_keywords:
 - vis_dss.chm82251799
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3e7291e1-3800-4bae-a544-f0b251641748
+ms.date: 06/08/2017
 ---
 
 

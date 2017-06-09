@@ -1,9 +1,10 @@
 ---
 title: PjExceptionPosition Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjExceptionPosition
 ms.assetid: 08e2393a-53dc-13e4-f1ca-c6b507a1434c
+ms.date: 06/08/2017
 ---
 
 

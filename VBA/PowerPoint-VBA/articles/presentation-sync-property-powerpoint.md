@@ -3,10 +3,11 @@ title: Presentation.Sync Property (PowerPoint)
 keywords: vbapp10.chm583084
 f1_keywords:
 - vbapp10.chm583084
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Sync
 ms.assetid: aebb519d-ffb8-88a8-3771-5edb6b28792c
+ms.date: 06/08/2017
 ---
 
 

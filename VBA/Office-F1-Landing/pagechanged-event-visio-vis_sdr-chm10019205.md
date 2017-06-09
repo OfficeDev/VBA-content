@@ -3,8 +3,9 @@ title: PageChanged Event, Visio [vis_sdr.chm10019205]
 keywords: vis_sdr.chm10019205
 f1_keywords:
 - vis_sdr.chm10019205
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51489ebf-2869-45ad-854b-81adeb844b12
+ms.date: 06/08/2017
 ---
 
 

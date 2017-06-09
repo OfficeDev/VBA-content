@@ -3,8 +3,9 @@ title: WBS Property, Project [vbapj.chm132813]
 keywords: vbapj.chm132813
 f1_keywords:
 - vbapj.chm132813
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c03dbc09-0a65-425a-8dcc-489b9aead42e
+ms.date: 06/08/2017
 ---
 
 

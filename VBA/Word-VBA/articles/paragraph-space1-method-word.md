@@ -3,10 +3,11 @@ title: Paragraph.Space1 Method (Word)
 keywords: vbawd10.chm156696889
 f1_keywords:
 - vbawd10.chm156696889
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Space1
 ms.assetid: e9eaab54-d910-f6d4-8e7b-c47a7395d00b
+ms.date: 06/08/2017
 ---
 
 

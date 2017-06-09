@@ -3,10 +3,11 @@ title: Global.ListGalleries Property (Word)
 keywords: vbawd10.chm163119169
 f1_keywords:
 - vbawd10.chm163119169
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.ListGalleries
 ms.assetid: 56ac5cc2-552a-cff6-95cb-40eebd904eb7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.CheckSpellingAsYouType Property (Word)
 keywords: vbawd10.chm162988308
 f1_keywords:
 - vbawd10.chm162988308
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CheckSpellingAsYouType
 ms.assetid: 8e4b55af-8fc6-2c99-ebfb-f008657d0da6
+ms.date: 06/08/2017
 ---
 
 

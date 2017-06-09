@@ -3,10 +3,11 @@ title: Axes Collection
 keywords: vbagr10.chm131099
 f1_keywords:
 - vbagr10.chm131099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axes
 ms.assetid: 89ebeb9d-3c16-0bb0-35a8-9a07483c4eb6
+ms.date: 06/08/2017
 ---
 
 

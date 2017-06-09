@@ -3,10 +3,11 @@ title: FirstLetterExceptions.Count Property (Word)
 keywords: vbawd10.chm155582465
 f1_keywords:
 - vbawd10.chm155582465
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FirstLetterExceptions.Count
 ms.assetid: 291ad7d4-628d-4379-422c-505a6406237b
+ms.date: 06/08/2017
 ---
 
 

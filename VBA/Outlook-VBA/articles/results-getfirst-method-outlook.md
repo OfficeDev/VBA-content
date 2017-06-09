@@ -3,10 +3,11 @@ title: Results.GetFirst Method (Outlook)
 keywords: vbaol11.chm505
 f1_keywords:
 - vbaol11.chm505
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.GetFirst
 ms.assetid: 9a8b56ce-5e93-f1b1-be7f-7734d86f4997
+ms.date: 06/08/2017
 ---
 
 

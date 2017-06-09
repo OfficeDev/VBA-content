@@ -3,10 +3,11 @@ title: Workbook.SendMailer Method (Excel)
 keywords: vbaxl10.chm199150
 f1_keywords:
 - vbaxl10.chm199150
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SendMailer
 ms.assetid: e44955e1-e250-7279-19e5-e13db80ceddc
+ms.date: 06/08/2017
 ---
 
 

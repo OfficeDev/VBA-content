@@ -3,10 +3,11 @@ title: NavigationControl.FilterLookup Property (Access)
 keywords: vbaac10.chm11062
 f1_keywords:
 - vbaac10.chm11062
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.FilterLookup
 ms.assetid: c368853c-6a1c-f104-2180-ebc889cf7e6d
+ms.date: 06/08/2017
 ---
 
 

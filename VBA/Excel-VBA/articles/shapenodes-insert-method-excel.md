@@ -3,10 +3,11 @@ title: ShapeNodes.Insert Method (Excel)
 keywords: vbaxl10.chm112008
 f1_keywords:
 - vbaxl10.chm112008
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Insert
 ms.assetid: b4f7e695-2102-5cbd-2d6b-bc167407cc0f
+ms.date: 06/08/2017
 ---
 
 

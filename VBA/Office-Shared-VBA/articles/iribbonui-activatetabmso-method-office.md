@@ -3,10 +3,11 @@ title: IRibbonUI.ActivateTabMso Method (Office)
 keywords: vbaof11.chm320005
 f1_keywords:
 - vbaof11.chm320005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.ActivateTabMso
 ms.assetid: 74096b3b-c2a7-0247-f3a1-d5e5dc7286e1
+ms.date: 06/08/2017
 ---
 
 

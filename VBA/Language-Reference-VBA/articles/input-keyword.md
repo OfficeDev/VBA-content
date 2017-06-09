@@ -3,8 +3,9 @@ title: Input <keyword>
 keywords: vblr6.chm1012575
 f1_keywords:
 - vblr6.chm1012575
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce7391fe-06ff-8e91-76c4-53320997fbb6
+ms.date: 06/08/2017
 ---
 
 

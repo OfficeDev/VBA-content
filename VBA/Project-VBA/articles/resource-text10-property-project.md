@@ -1,9 +1,10 @@
 ---
 title: Resource.Text10 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text10
 ms.assetid: ea30e4b1-1cda-d94e-39d8-ef94bb67366e
+ms.date: 06/08/2017
 ---
 
 

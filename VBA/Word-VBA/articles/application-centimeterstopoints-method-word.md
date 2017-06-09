@@ -3,10 +3,11 @@ title: Application.CentimetersToPoints Method (Word)
 keywords: vbawd10.chm158335347
 f1_keywords:
 - vbawd10.chm158335347
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CentimetersToPoints
 ms.assetid: ca57a957-cc39-49ff-5e51-608e7985fd51
+ms.date: 06/08/2017
 ---
 
 

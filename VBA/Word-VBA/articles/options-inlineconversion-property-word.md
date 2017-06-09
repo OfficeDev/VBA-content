@@ -3,10 +3,11 @@ title: Options.InlineConversion Property (Word)
 keywords: vbawd10.chm162988118
 f1_keywords:
 - vbawd10.chm162988118
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.InlineConversion
 ms.assetid: ee8d7237-86b0-74bd-ed19-dd09e29665d8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalculatedItems Object (Excel)
 keywords: vbaxl10.chm249072
 f1_keywords:
 - vbaxl10.chm249072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedItems
 ms.assetid: daad9732-6a20-d146-050e-da9e1c1e6f33
+ms.date: 06/08/2017
 ---
 
 

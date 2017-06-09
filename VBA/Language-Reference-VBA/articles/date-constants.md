@@ -3,8 +3,9 @@ title: Date Constants
 keywords: vblr6.chm1019269
 f1_keywords:
 - vblr6.chm1019269
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 42e70a4a-18e8-5d8a-8e0e-8afd5b846da4
+ms.date: 06/08/2017
 ---
 
 

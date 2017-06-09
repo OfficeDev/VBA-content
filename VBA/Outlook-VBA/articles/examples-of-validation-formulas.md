@@ -1,7 +1,8 @@
 ---
 title: Examples of Validation Formulas
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 325d58cf-3735-71c4-5b00-bfd3f21e025c
+ms.date: 06/08/2017
 ---
 
 

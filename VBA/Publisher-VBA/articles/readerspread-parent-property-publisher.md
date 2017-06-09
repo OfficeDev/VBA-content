@@ -3,10 +3,11 @@ title: ReaderSpread.Parent Property (Publisher)
 keywords: vbapb10.chm524290
 f1_keywords:
 - vbapb10.chm524290
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Parent
 ms.assetid: 2c435040-e64e-88bf-b6ce-2df2dc4dc51a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shapes Object (Publisher)
 keywords: vbapb10.chm2228223
 f1_keywords:
 - vbapb10.chm2228223
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes
 ms.assetid: 52e069a6-d54b-a11a-1cba-96174329cb02
+ms.date: 06/08/2017
 ---
 
 

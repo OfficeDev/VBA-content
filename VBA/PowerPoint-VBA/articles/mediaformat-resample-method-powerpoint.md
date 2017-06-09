@@ -3,10 +3,11 @@ title: MediaFormat.Resample Method (PowerPoint)
 keywords: vbapp10.chm724013
 f1_keywords:
 - vbapp10.chm724013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.Resample
 ms.assetid: d1bb8b41-4640-c57c-83bc-3263376b425e
+ms.date: 06/08/2017
 ---
 
 

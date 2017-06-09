@@ -1,9 +1,10 @@
 ---
 title: ChartGroup.DownBars Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.DownBars
 ms.assetid: d3af23f5-f408-5f9d-f86d-40ba2c15c870
+ms.date: 06/08/2017
 ---
 
 

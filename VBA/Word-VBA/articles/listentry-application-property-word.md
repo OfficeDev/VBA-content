@@ -3,10 +3,11 @@ title: ListEntry.Application Property (Word)
 keywords: vbawd10.chm153289704
 f1_keywords:
 - vbawd10.chm153289704
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntry.Application
 ms.assetid: 79aed816-6d20-3c8a-a4a4-3550a9e47d10
+ms.date: 06/08/2017
 ---
 
 

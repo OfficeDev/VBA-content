@@ -3,10 +3,11 @@ title: Recipients.Add Method (Outlook)
 keywords: vbaol11.chm232
 f1_keywords:
 - vbaol11.chm232
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipients.Add
 ms.assetid: 7c285291-0f92-ca8d-1c7b-a71ace83ac84
+ms.date: 06/08/2017
 ---
 
 

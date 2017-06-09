@@ -3,10 +3,11 @@ title: Category.CategoryGradientBottomColor Property (Outlook)
 keywords: vbaol11.chm3268
 f1_keywords:
 - vbaol11.chm3268
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Category.CategoryGradientBottomColor
 ms.assetid: 5f082300-2eb0-b297-dc54-9657da5ae319
+ms.date: 06/08/2017
 ---
 
 

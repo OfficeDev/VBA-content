@@ -3,10 +3,11 @@ title: HeadersFooters.Parent Property (Word)
 keywords: vbawd10.chm159646698
 f1_keywords:
 - vbawd10.chm159646698
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadersFooters.Parent
 ms.assetid: fe2fd8eb-6f90-fe5a-0d3f-a77d566b9b78
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Failure to read from an internet handle. Try the operation again. (Error 3675)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fa758550-6476-152c-30b7-76c0dd980e6c
+ms.date: 06/08/2017
 ---
 
 
 # Failure to read from an internet handle. Try the operation again. (Error 3675)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

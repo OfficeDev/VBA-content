@@ -3,14 +3,15 @@ title: Cannot insert data with action query. (Error 3084)
 keywords: jeterr40.chm5003084
 f1_keywords:
 - jeterr40.chm5003084
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f0321a28-eb22-0c63-1b10-836ca9abaccd
+ms.date: 06/08/2017
 ---
 
 
 # Cannot insert data with action query. (Error 3084)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

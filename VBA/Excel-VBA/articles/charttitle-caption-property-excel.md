@@ -3,10 +3,11 @@ title: ChartTitle.Caption Property (Excel)
 keywords: vbaxl10.chm563080
 f1_keywords:
 - vbaxl10.chm563080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Caption
 ms.assetid: eb36b740-7aba-3af1-5f2e-40689db272e2
+ms.date: 06/08/2017
 ---
 
 

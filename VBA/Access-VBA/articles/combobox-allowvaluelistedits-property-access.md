@@ -3,10 +3,11 @@ title: ComboBox.AllowValueListEdits Property (Access)
 keywords: vbaac10.chm11517
 f1_keywords:
 - vbaac10.chm11517
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.AllowValueListEdits
 ms.assetid: 558ba7aa-b3b2-4fe8-7338-8e9fbef19159
+ms.date: 06/08/2017
 ---
 
 

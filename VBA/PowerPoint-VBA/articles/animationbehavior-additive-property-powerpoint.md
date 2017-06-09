@@ -3,10 +3,11 @@ title: AnimationBehavior.Additive Property (PowerPoint)
 keywords: vbapp10.chm657003
 f1_keywords:
 - vbapp10.chm657003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Additive
 ms.assetid: 29dabc4f-a333-9b11-97a5-36237a95dcb0
+ms.date: 06/08/2017
 ---
 
 

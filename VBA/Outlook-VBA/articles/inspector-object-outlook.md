@@ -3,10 +3,11 @@ title: Inspector Object (Outlook)
 keywords: vbaol11.chm2986
 f1_keywords:
 - vbaol11.chm2986
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector
 ms.assetid: d7384756-669c-0549-1032-c3b864187994
+ms.date: 06/08/2017
 ---
 
 

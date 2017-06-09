@@ -3,8 +3,9 @@ title: "How to: Allow a Command Button to Take Focus Upon Clicking"
 keywords: olfm10.chm3077253
 f1_keywords:
 - olfm10.chm3077253
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7d4e4355-51cd-36cc-3e3c-18928f8cc03c
+ms.date: 06/08/2017
 ---
 
 

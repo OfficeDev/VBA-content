@@ -3,8 +3,9 @@ title: Availabilities Property, Project [vbapj.chm131404]
 keywords: vbapj.chm131404
 f1_keywords:
 - vbapj.chm131404
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a0a97a6-d51c-4a53-a8fc-832399cd8a0a
+ms.date: 06/08/2017
 ---
 
 

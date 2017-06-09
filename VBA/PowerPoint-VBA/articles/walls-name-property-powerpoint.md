@@ -1,9 +1,10 @@
 ---
 title: Walls.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Name
 ms.assetid: 50ff5c39-e784-5347-0c3d-d9001e4cb98a
+ms.date: 06/08/2017
 ---
 
 

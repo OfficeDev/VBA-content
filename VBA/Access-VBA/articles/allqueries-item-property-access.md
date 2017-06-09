@@ -3,10 +3,11 @@ title: AllQueries.Item Property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllQueries.Item
 ms.assetid: 96c60139-9cf4-d9c7-4b4d-5eed2d0e7371
+ms.date: 06/08/2017
 ---
 
 

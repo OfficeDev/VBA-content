@@ -1,9 +1,10 @@
 ---
 title: Task.ErrorMessage Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ErrorMessage
 ms.assetid: 1d7ded86-610e-77b4-202e-5416b536a737
+ms.date: 06/08/2017
 ---
 
 

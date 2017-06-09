@@ -3,8 +3,9 @@ title: WorksheetFunction.ImCsc Method (Excel)
 keywords: vbaxl10.chm137431
 f1_keywords:
 - vbaxl10.chm137431
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c7a041c3-1187-a126-28a4-f477db05777a
+ms.date: 06/08/2017
 ---
 
 

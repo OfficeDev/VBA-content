@@ -3,10 +3,11 @@ title: OMathFunctions.Count Property (Word)
 keywords: vbawd10.chm44302439
 f1_keywords:
 - vbawd10.chm44302439
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunctions.Count
 ms.assetid: aef85050-d9ea-9c08-1200-1bcd27f39291
+ms.date: 06/08/2017
 ---
 
 

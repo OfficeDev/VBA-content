@@ -3,10 +3,11 @@ title: OMathScrSub.Creator Property (Word)
 keywords: vbawd10.chm219283557
 f1_keywords:
 - vbawd10.chm219283557
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSub.Creator
 ms.assetid: 9919a737-e295-590e-021f-911a7146fa73
+ms.date: 06/08/2017
 ---
 
 

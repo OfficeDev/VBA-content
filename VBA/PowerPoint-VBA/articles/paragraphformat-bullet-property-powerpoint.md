@@ -3,10 +3,11 @@ title: ParagraphFormat.Bullet Property (PowerPoint)
 keywords: vbapp10.chm576004
 f1_keywords:
 - vbapp10.chm576004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.Bullet
 ms.assetid: 2b997a78-7791-6f08-00af-7143f94457c1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: "'Item' is a read-only file"
 keywords: vblr6.chm1117712
 f1_keywords:
 - vblr6.chm1117712
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a6e6766b-f770-09f2-e2ce-a652f15e6471
+ms.date: 06/08/2017
 ---
 
 

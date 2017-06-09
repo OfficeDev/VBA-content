@@ -1,9 +1,10 @@
 ---
 title: Application.TimescaleStart Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TimescaleStart
 ms.assetid: 001e0556-e1b4-d817-868a-834970becc46
+ms.date: 06/08/2017
 ---
 
 

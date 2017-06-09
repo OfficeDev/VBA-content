@@ -1,9 +1,10 @@
 ---
 title: Exception.Shift3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Shift3
 ms.assetid: e7a320de-d140-81f9-e0ff-6bf6c4452c31
+ms.date: 06/08/2017
 ---
 
 

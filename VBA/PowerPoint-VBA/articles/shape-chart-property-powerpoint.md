@@ -3,10 +3,11 @@ title: Shape.Chart Property (PowerPoint)
 keywords: vbapp10.chm547084
 f1_keywords:
 - vbapp10.chm547084
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Chart
 ms.assetid: 7b641a32-a3e8-4d4f-3213-1e38ddb0efae
+ms.date: 06/08/2017
 ---
 
 

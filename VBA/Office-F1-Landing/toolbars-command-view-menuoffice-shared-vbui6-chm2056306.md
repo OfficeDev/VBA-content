@@ -3,8 +3,9 @@ title: Toolbars Command (View Menu), Office Shared [vbui6.chm2056306]
 keywords: vbui6.chm2056306
 f1_keywords:
 - vbui6.chm2056306
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 87e37dce-5416-426b-b834-9da1064581e0
+ms.date: 06/08/2017
 ---
 
 

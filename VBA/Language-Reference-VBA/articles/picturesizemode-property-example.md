@@ -3,8 +3,9 @@ title: PictureSizeMode Property Example
 keywords: fm20.chm5225160
 f1_keywords:
 - fm20.chm5225160
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a535e7b-e32c-9bd4-1ee8-9560fb01c4d9
+ms.date: 06/08/2017
 ---
 
 

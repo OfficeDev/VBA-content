@@ -3,14 +3,15 @@ title: Failure in getting a file from the server using FTP. (Error 3680)
 keywords: jeterr40.chm5003680
 f1_keywords:
 - jeterr40.chm5003680
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1185e08f-0e2c-2dcf-71c1-70c5bfe17337
+ms.date: 06/08/2017
 ---
 
 
 # Failure in getting a file from the server using FTP. (Error 3680)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

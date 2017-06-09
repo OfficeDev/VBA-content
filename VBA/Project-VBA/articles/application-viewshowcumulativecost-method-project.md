@@ -3,10 +3,11 @@ title: Application.ViewShowCumulativeCost Method (Project)
 keywords: vbapj.chm928
 f1_keywords:
 - vbapj.chm928
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowCumulativeCost
 ms.assetid: 46374294-f37b-a71e-ff17-fb3bdf68928d
+ms.date: 06/08/2017
 ---
 
 

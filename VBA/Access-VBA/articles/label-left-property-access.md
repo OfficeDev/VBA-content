@@ -3,10 +3,11 @@ title: Label.Left Property (Access)
 keywords: vbaac10.chm10197
 f1_keywords:
 - vbaac10.chm10197
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Left
 ms.assetid: b27a17e1-daf3-45a0-3e94-790751db7ca9
+ms.date: 06/08/2017
 ---
 
 

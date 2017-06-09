@@ -3,10 +3,11 @@ title: AccountSelector.Application Property (Outlook)
 keywords: vbaol11.chm3449
 f1_keywords:
 - vbaol11.chm3449
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountSelector.Application
 ms.assetid: 89eb1b0d-1e3c-103a-854d-250a0f141301
+ms.date: 06/08/2017
 ---
 
 

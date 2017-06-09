@@ -3,10 +3,11 @@ title: TextBox Object (Access)
 keywords: vbaac10.chm11201
 f1_keywords:
 - vbaac10.chm11201
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox
 ms.assetid: d74fbe9a-0d40-7d28-956f-a2bfd0cfee45
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.DrawArcByThreePoints Method (Visio)
 keywords: vis_sdr.chm10951415
 f1_keywords:
 - vis_sdr.chm10951415
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawArcByThreePoints
 ms.assetid: dfa20dfd-22f7-6d99-2649-d8401bf93a19
+ms.date: 06/08/2017
 ---
 
 

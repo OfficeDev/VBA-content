@@ -3,10 +3,11 @@ title: Chart.Hyperlinks Property (Excel)
 keywords: vbaxl10.chm149118
 f1_keywords:
 - vbaxl10.chm149118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Hyperlinks
 ms.assetid: 4f518463-8bb2-caa6-5383-b54d12f20d07
+ms.date: 06/08/2017
 ---
 
 

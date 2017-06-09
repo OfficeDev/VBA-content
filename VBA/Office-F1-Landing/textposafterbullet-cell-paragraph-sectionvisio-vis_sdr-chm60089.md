@@ -3,8 +3,9 @@ title: TextPosAfterBullet Cell (Paragraph Section), Visio [vis_sdr.chm60089]
 keywords: vis_sdr.chm60089
 f1_keywords:
 - vis_sdr.chm60089
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2cb04ebf-e561-4c46-bf8f-492423cc7a31
+ms.date: 06/08/2017
 ---
 
 

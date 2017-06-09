@@ -3,10 +3,11 @@ title: Application.TogglePreventResOveralloc Method (Project)
 keywords: vbapj.chm1501
 f1_keywords:
 - vbapj.chm1501
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TogglePreventResOveralloc
 ms.assetid: 7b6686ab-58c6-e1de-cbb1-618495d5c8ba
+ms.date: 06/08/2017
 ---
 
 

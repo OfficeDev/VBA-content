@@ -3,10 +3,11 @@ title: SaveAsOldFileFormat Method
 keywords: vbagr10.chm5207946
 f1_keywords:
 - vbagr10.chm5207946
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SaveAsOldFileFormat
 ms.assetid: 0fcdaf08-df42-6d0c-702b-4bd522ab0795
+ms.date: 06/08/2017
 ---
 
 

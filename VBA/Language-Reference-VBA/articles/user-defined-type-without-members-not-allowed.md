@@ -3,8 +3,9 @@ title: User-defined type without members not allowed
 keywords: vblr6.chm1011305
 f1_keywords:
 - vblr6.chm1011305
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 22579906-b485-695f-924c-12779f30430c
+ms.date: 06/08/2017
 ---
 
 

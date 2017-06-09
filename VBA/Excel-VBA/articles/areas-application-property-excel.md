@@ -3,10 +3,11 @@ title: Areas.Application Property (Excel)
 keywords: vbaxl10.chm196073
 f1_keywords:
 - vbaxl10.chm196073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Areas.Application
 ms.assetid: 317f3083-6f65-e085-c370-1ae6c3b31b78
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailModule.Name Property (Outlook)
 keywords: vbaol11.chm2817
 f1_keywords:
 - vbaol11.chm2817
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailModule.Name
 ms.assetid: 6bb6f48d-c3cb-57dc-076c-67b1a2883926
+ms.date: 06/08/2017
 ---
 
 

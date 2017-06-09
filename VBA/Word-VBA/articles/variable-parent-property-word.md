@@ -3,10 +3,11 @@ title: Variable.Parent Property (Word)
 keywords: vbawd10.chm157680618
 f1_keywords:
 - vbawd10.chm157680618
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variable.Parent
 ms.assetid: f401d51b-b8d3-6ae8-a673-8673e8157428
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ObjectInsert Method (Project)
 keywords: vbapj.chm221
 f1_keywords:
 - vbapj.chm221
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ObjectInsert
 ms.assetid: 2956dd32-9e28-76e9-c991-12650ee48576
+ms.date: 06/08/2017
 ---
 
 

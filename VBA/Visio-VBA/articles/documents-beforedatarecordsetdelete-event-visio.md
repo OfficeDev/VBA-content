@@ -3,10 +3,11 @@ title: Documents.BeforeDataRecordsetDelete Event (Visio)
 keywords: vis_sdr.chm10662030
 f1_keywords:
 - vis_sdr.chm10662030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.BeforeDataRecordsetDelete
 ms.assetid: ffa9c7e0-8c40-eef8-03f0-d338f49d80b6
+ms.date: 06/08/2017
 ---
 
 

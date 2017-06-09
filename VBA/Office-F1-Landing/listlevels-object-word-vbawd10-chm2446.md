@@ -3,8 +3,9 @@ title: ListLevels Object, Word [vbawd10.chm2446]
 keywords: vbawd10.chm2446
 f1_keywords:
 - vbawd10.chm2446
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ff9da81-3fbe-44c6-97d2-3d2f25029478
+ms.date: 06/08/2017
 ---
 
 

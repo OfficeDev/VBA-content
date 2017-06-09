@@ -3,10 +3,11 @@ title: Names.Count Property (Excel)
 keywords: vbaxl10.chm488076
 f1_keywords:
 - vbaxl10.chm488076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Names.Count
 ms.assetid: f33046db-1912-5047-a205-e87d01427dfa
+ms.date: 06/08/2017
 ---
 
 

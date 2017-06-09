@@ -3,10 +3,11 @@ title: MailMergeMappedDataFields.Application Property (Publisher)
 keywords: vbapb10.chm6488065
 f1_keywords:
 - vbapb10.chm6488065
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeMappedDataFields.Application
 ms.assetid: 74d102da-4979-4b95-a36f-f187852f99c2
+ms.date: 06/08/2017
 ---
 
 

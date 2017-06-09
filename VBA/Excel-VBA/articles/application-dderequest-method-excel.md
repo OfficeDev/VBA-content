@@ -3,10 +3,11 @@ title: Application.DDERequest Method (Excel)
 keywords: vbaxl10.chm183093
 f1_keywords:
 - vbaxl10.chm183093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DDERequest
 ms.assetid: 822ef77e-5f11-aced-f770-05175ce128c7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Chart.FullSeriesCollection Method (Word)
 keywords: vbawd10.chm79364332
 f1_keywords:
 - vbawd10.chm79364332
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5fed6ff0-0dad-87ba-4db5-21ae919f25fd
+ms.date: 06/08/2017
 ---
 
 

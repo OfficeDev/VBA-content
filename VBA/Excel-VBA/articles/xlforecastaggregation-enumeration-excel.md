@@ -1,6 +1,8 @@
 ---
 title: XlForecastAggregation Enumeration (Excel)
 ms.assetid: 00df6eeb-05ab-e004-7cee-56f520096f72
+ms.date: 06/08/2017
+ms.prod: excel
 ---
 
 

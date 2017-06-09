@@ -3,10 +3,11 @@ title: Application.COMAddIns Property (Access)
 keywords: vbaac10.chm12585
 f1_keywords:
 - vbaac10.chm12585
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.COMAddIns
 ms.assetid: b94474b4-3690-54ab-1a4b-b30744354db5
+ms.date: 06/08/2017
 ---
 
 

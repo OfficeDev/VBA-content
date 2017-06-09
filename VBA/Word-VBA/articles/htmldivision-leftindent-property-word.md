@@ -3,10 +3,11 @@ title: HTMLDivision.LeftIndent Property (Word)
 keywords: vbawd10.chm166133763
 f1_keywords:
 - vbawd10.chm166133763
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.LeftIndent
 ms.assetid: f9fd8b1b-344a-5ab7-7e6a-a06318de2444
+ms.date: 06/08/2017
 ---
 
 

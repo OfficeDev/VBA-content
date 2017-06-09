@@ -3,10 +3,11 @@ title: AppointmentItem.Categories Property (Outlook)
 keywords: vbaol11.chm846
 f1_keywords:
 - vbaol11.chm846
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Categories
 ms.assetid: 71360959-7a42-7aa8-579f-1e544a734dd0
+ms.date: 06/08/2017
 ---
 
 

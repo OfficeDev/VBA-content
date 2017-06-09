@@ -3,8 +3,9 @@ title: ShdwBkgndTrans Cell (Fill Format Section), Visio [vis_sdr.chm50140]
 keywords: vis_sdr.chm50140
 f1_keywords:
 - vis_sdr.chm50140
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51cfc8e6-5fcd-4d17-ac3f-d44407041fb3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Adjustments Property (PowerPoint)
 keywords: vbapp10.chm548015
 f1_keywords:
 - vbapp10.chm548015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Adjustments
 ms.assetid: e76f2051-c362-9848-59be-fc3c9662e3a8
+ms.date: 06/08/2017
 ---
 
 

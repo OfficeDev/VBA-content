@@ -3,10 +3,11 @@ title: Application.ShowIgnoredTaskWarnings Method (Project)
 keywords: vbapj.chm2178
 f1_keywords:
 - vbapj.chm2178
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ShowIgnoredTaskWarnings
 ms.assetid: 77eeb3ef-511d-af17-56c1-aa717fd7d213
+ms.date: 06/08/2017
 ---
 
 

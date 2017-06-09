@@ -3,10 +3,11 @@ title: Documents.AddEx Method (Visio)
 keywords: vis_sdr.chm10651450
 f1_keywords:
 - vis_sdr.chm10651450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.AddEx
 ms.assetid: 4c287668-04b4-fb6c-2b1a-869d9d366991
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Endnote Object (Word)
 keywords: vbawd10.chm2366
 f1_keywords:
 - vbawd10.chm2366
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnote
 ms.assetid: 01f29be4-58e7-28f5-5fcb-dae50c33890e
+ms.date: 06/08/2017
 ---
 
 

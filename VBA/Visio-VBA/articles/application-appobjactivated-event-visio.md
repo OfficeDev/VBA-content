@@ -1,9 +1,10 @@
 ---
 title: Application.AppObjActivated Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AppObjActivated
 ms.assetid: ab27fad1-5afb-534c-987f-e5401603aa52
+ms.date: 06/08/2017
 ---
 
 

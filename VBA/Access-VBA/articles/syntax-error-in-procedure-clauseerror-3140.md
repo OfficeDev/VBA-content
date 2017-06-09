@@ -3,14 +3,15 @@ title: Syntax error in PROCEDURE clause. (Error 3140)
 keywords: jeterr40.chm5003140
 f1_keywords:
 - jeterr40.chm5003140
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1eae673f-8c0b-c635-29ec-3cf824a6d3ab
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in PROCEDURE clause. (Error 3140)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

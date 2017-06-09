@@ -3,8 +3,9 @@ title: Missing end bracket, Office Shared [vblr6.chm1011216]
 keywords: vblr6.chm1011216
 f1_keywords:
 - vblr6.chm1011216
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9feefeb-4047-4b7a-af98-dacb2f3b03ca
+ms.date: 06/08/2017
 ---
 
 

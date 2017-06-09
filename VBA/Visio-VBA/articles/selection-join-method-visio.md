@@ -3,10 +3,11 @@ title: Selection.Join Method (Visio)
 keywords: vis_sdr.chm11116380
 f1_keywords:
 - vis_sdr.chm11116380
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Join
 ms.assetid: e176abcc-edd1-0e40-afc8-e05ed8dec998
+ms.date: 06/08/2017
 ---
 
 

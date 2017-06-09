@@ -3,10 +3,11 @@ title: DistListItem.ReminderTime Property (Outlook)
 keywords: vbaol11.chm1177
 f1_keywords:
 - vbaol11.chm1177
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReminderTime
 ms.assetid: f7230002-2f22-69b3-28e3-86c2f03417ef
+ms.date: 06/08/2017
 ---
 
 

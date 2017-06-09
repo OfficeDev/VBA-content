@@ -3,10 +3,11 @@ title: Row.HeightRule Property (Word)
 keywords: vbawd10.chm156237832
 f1_keywords:
 - vbawd10.chm156237832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.HeightRule
 ms.assetid: 7dad51e9-e819-6c7b-a562-7e3b7ca58f3c
+ms.date: 06/08/2017
 ---
 
 

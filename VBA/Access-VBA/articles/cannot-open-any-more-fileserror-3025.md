@@ -3,14 +3,15 @@ title: Cannot open any more files. (Error 3025)
 keywords: jeterr40.chm5003025
 f1_keywords:
 - jeterr40.chm5003025
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ebcd10a9-84a8-7f53-dfd0-e821048f4cf9
+ms.date: 06/08/2017
 ---
 
 
 # Cannot open any more files. (Error 3025)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

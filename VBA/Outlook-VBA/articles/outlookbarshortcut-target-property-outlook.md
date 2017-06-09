@@ -3,10 +3,11 @@ title: OutlookBarShortcut.Target Property (Outlook)
 keywords: vbaol11.chm343
 f1_keywords:
 - vbaol11.chm343
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcut.Target
 ms.assetid: 990671c0-bfc5-6b09-26a1-1cdf9d0e143b
+ms.date: 06/08/2017
 ---
 
 

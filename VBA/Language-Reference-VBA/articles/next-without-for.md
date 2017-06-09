@@ -3,8 +3,9 @@ title: Next without For
 keywords: vblr6.chm1011227
 f1_keywords:
 - vblr6.chm1011227
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 304e0911-95b7-93e5-79dd-d2ceaaceddd1
+ms.date: 06/08/2017
 ---
 
 

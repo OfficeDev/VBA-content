@@ -3,10 +3,11 @@ title: NavigationGroups.Item Method (Outlook)
 keywords: vbaol11.chm2857
 f1_keywords:
 - vbaol11.chm2857
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.Item
 ms.assetid: a6521179-fa65-b5af-629a-458a852a29b4
+ms.date: 06/08/2017
 ---
 
 

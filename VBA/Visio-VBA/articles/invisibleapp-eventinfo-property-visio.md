@@ -3,10 +3,11 @@ title: InvisibleApp.EventInfo Property (Visio)
 keywords: vis_sdr.chm17513475
 f1_keywords:
 - vis_sdr.chm17513475
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.EventInfo
 ms.assetid: a2908ac3-6e92-5e07-5119-97e1d88416ae
+ms.date: 06/08/2017
 ---
 
 

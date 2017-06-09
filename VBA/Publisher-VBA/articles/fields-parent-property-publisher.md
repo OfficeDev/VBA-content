@@ -3,10 +3,11 @@ title: Fields.Parent Property (Publisher)
 keywords: vbapb10.chm6029314
 f1_keywords:
 - vbapb10.chm6029314
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Fields.Parent
 ms.assetid: b5d1ad86-292a-295f-bc86-2b9edf6b3558
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: EmailOptions.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
 keywords: vbawd10.chm165347590
 f1_keywords:
 - vbawd10.chm165347590
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBulletedLists
 ms.assetid: b8bb6d3f-2226-db63-6edd-e8313a13c8c7
+ms.date: 06/08/2017
 ---
 
 

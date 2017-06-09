@@ -3,10 +3,11 @@ title: AxisTitle.Formula Property (Word)
 keywords: vbawd10.chm98238502
 f1_keywords:
 - vbawd10.chm98238502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Formula
 ms.assetid: 0c7318ac-4c29-f5a4-45cc-dc1b468c19e8
+ms.date: 06/08/2017
 ---
 
 

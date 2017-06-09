@@ -3,10 +3,11 @@ title: Application.FilePrintPreview Method (Project)
 keywords: vbapj.chm111
 f1_keywords:
 - vbapj.chm111
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilePrintPreview
 ms.assetid: b17921eb-0c61-35ed-4cf6-44321f301510
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdTextboxTightWrap Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTextboxTightWrap
 ms.assetid: 6d9e0dcd-816a-e055-b96a-7da5dcea38f7
+ms.date: 06/08/2017
 ---
 
 

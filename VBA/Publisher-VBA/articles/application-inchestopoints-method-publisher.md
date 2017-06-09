@@ -3,10 +3,11 @@ title: Application.InchesToPoints Method (Publisher)
 keywords: vbapb10.chm131143
 f1_keywords:
 - vbapb10.chm131143
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.InchesToPoints
 ms.assetid: 32c8740f-ad14-c947-b960-500378a5873d
+ms.date: 06/08/2017
 ---
 
 

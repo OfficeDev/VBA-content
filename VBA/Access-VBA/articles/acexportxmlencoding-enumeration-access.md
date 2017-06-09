@@ -3,10 +3,11 @@ title: AcExportXMLEncoding Enumeration (Access)
 keywords: vbaac10.chm13241
 f1_keywords:
 - vbaac10.chm13241
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcExportXMLEncoding
 ms.assetid: 6d51f729-3f39-6521-d3ff-563bd6c66e50
+ms.date: 06/08/2017
 ---
 
 

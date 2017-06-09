@@ -3,14 +3,15 @@ title: The member of the replica set you are attempting to synchronize is curren
 keywords: jeterr40.chm5003510
 f1_keywords:
 - jeterr40.chm5003510
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 316f2819-2c3b-a4f5-2a5e-50946697cf35
+ms.date: 06/08/2017
 ---
 
 
 # The member of the replica set you are attempting to synchronize is currently being used in another synchronization. (Error 3510)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

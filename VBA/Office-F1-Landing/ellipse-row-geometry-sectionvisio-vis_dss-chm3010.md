@@ -3,8 +3,9 @@ title: Ellipse Row (Geometry Section), Visio [Vis_DSS.chm3010]
 keywords: vis_dss.chm3010
 f1_keywords:
 - vis_dss.chm3010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6612140a-8969-453b-a5b4-11dab43ebae1
+ms.date: 06/08/2017
 ---
 
 

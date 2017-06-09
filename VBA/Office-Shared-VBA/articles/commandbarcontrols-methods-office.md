@@ -1,7 +1,8 @@
 ---
 title: CommandBarControls Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 377ddbad-cea0-4a11-84af-621d7dd215b7
+ms.date: 06/08/2017
 ---
 
 

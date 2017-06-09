@@ -3,10 +3,11 @@ title: ColorFormat.TintAndShade Property (Word)
 keywords: vbawd10.chm163971175
 f1_keywords:
 - vbawd10.chm163971175
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ColorFormat.TintAndShade
 ms.assetid: e0b54e37-475c-0e6b-f530-aa69b8fe51b8
+ms.date: 06/08/2017
 ---
 
 

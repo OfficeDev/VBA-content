@@ -3,10 +3,11 @@ title: TextFrame.AutoSize Property (PowerPoint)
 keywords: vbapp10.chm558012
 f1_keywords:
 - vbapp10.chm558012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.AutoSize
 ms.assetid: 771f5217-abce-f70d-743d-e17532dabd9e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CheckBox.BeforeUpdate Property (Access)
 keywords: vbaac10.chm10735
 f1_keywords:
 - vbaac10.chm10735
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.BeforeUpdate
 ms.assetid: 4eb1070e-9485-7ebc-70c2-48bba4b8cd88
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Printer.DefaultSize Property (Access)
 keywords: vbaac10.chm12875
 f1_keywords:
 - vbaac10.chm12875
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.DefaultSize
 ms.assetid: b5dd3ce8-a5db-7562-5760-fc07c4409130
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Failure to execute the HTTP request. (Error 3677)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 49395e13-cd19-df2c-73d1-ce0c3fc87fa9
+ms.date: 06/08/2017
 ---
 
 
 # Failure to execute the HTTP request. (Error 3677)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

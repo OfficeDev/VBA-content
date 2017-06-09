@@ -1,9 +1,10 @@
 ---
 title: SearchScope.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchScope.Application
 ms.assetid: a05fa069-e742-8c14-d10a-840469e6b535
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,8 @@ keywords: vbapp10.chm743006
 f1_keywords:
 - vbapp10.chm743006
 ms.assetid: 4f080647-77fe-b581-7e7c-d461b82e6dbe
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

@@ -3,8 +3,9 @@ title: TableObject.PreserveFormatting Property (Excel)
 keywords: vbaxl10.chm916083
 f1_keywords:
 - vbaxl10.chm916083
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 1557f95d-3fef-52ae-750c-02370a10cfd2
+ms.date: 06/08/2017
 ---
 
 

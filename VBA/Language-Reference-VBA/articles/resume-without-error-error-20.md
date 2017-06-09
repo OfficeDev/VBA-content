@@ -3,8 +3,9 @@ title: Resume without error (Error 20)
 keywords: vblr6.chm1011265
 f1_keywords:
 - vblr6.chm1011265
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02b7eb1c-a637-810d-78fd-1945a5784a54
+ms.date: 06/08/2017
 ---
 
 

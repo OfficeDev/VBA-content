@@ -3,10 +3,11 @@ title: Global.NewWindow Method (Word)
 keywords: vbawd10.chm163119449
 f1_keywords:
 - vbawd10.chm163119449
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.NewWindow
 ms.assetid: bf84590f-3a09-1f4f-3957-70a8af99686a
+ms.date: 06/08/2017
 ---
 
 

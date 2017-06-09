@@ -3,10 +3,11 @@ title: DropLines.Delete Method (Word)
 keywords: vbawd10.chm104988676
 f1_keywords:
 - vbawd10.chm104988676
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropLines.Delete
 ms.assetid: a455b3fe-9891-5f15-034c-7415c5bb46a7
+ms.date: 06/08/2017
 ---
 
 

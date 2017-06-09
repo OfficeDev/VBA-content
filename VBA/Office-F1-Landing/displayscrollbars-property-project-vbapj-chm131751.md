@@ -3,8 +3,9 @@ title: DisplayScrollBars Property, Project [vbapj.chm131751]
 keywords: vbapj.chm131751
 f1_keywords:
 - vbapj.chm131751
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 469cc80b-f0d4-4088-81e3-72d34fcd5efa
+ms.date: 06/08/2017
 ---
 
 

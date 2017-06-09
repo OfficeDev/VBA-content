@@ -1,9 +1,10 @@
 ---
 title: BuildingBlocks.Application Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Application
 ms.assetid: f5e9eca1-ff55-b274-cf29-97e487070814
+ms.date: 06/08/2017
 ---
 
 

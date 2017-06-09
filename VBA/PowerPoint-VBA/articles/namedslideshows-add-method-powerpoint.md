@@ -3,10 +3,11 @@ title: NamedSlideShows.Add Method (PowerPoint)
 keywords: vbapp10.chm515004
 f1_keywords:
 - vbapp10.chm515004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShows.Add
 ms.assetid: 413ea52c-95ba-8843-af72-952303328ebd
+ms.date: 06/08/2017
 ---
 
 

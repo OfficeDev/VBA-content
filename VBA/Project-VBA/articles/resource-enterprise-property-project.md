@@ -1,9 +1,10 @@
 ---
 title: Resource.Enterprise Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Enterprise
 ms.assetid: 4b0e7b6a-d936-a483-ece2-ae9d4c127daa
+ms.date: 06/08/2017
 ---
 
 

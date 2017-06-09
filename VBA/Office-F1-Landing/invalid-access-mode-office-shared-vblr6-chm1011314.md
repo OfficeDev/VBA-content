@@ -3,8 +3,9 @@ title: Invalid Access mode, Office Shared [vblr6.chm1011314]
 keywords: vblr6.chm1011314
 f1_keywords:
 - vblr6.chm1011314
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7831d249-ffb0-44f8-a594-27a27c55c89d
+ms.date: 06/08/2017
 ---
 
 

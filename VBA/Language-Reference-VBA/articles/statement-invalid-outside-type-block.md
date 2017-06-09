@@ -3,8 +3,9 @@ title: Statement invalid outside Type block
 keywords: vblr6.chm1040053
 f1_keywords:
 - vblr6.chm1040053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 287d4cf7-257a-2cc4-2e5d-42e578c8b862
+ms.date: 06/08/2017
 ---
 
 

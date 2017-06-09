@@ -3,8 +3,9 @@ title: File is read-only, Office Shared [vblr6.chm50140]
 keywords: vblr6.chm50140
 f1_keywords:
 - vblr6.chm50140
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bef9e9e8-34b3-465b-abeb-9f17895fe9bf
+ms.date: 06/08/2017
 ---
 
 

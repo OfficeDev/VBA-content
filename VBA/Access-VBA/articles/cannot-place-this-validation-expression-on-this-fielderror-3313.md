@@ -3,14 +3,15 @@ title: Cannot place this validation expression on this field. (Error 3313)
 keywords: jeterr40.chm5003313
 f1_keywords:
 - jeterr40.chm5003313
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e3c5304b-e7f1-52b3-ab79-d5d79c973ae5
+ms.date: 06/08/2017
 ---
 
 
 # Cannot place this validation expression on this field. (Error 3313)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Sequence.AddEffect Method (PowerPoint)
 keywords: vbapp10.chm651004
 f1_keywords:
 - vbapp10.chm651004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.AddEffect
 ms.assetid: fea5ac1e-83ae-2241-bf3a-8cfdd8354791
+ms.date: 06/08/2017
 ---
 
 

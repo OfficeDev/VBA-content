@@ -1,9 +1,10 @@
 ---
 title: Font2.SoftEdgeFormat Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.SoftEdgeFormat
 ms.assetid: 8a2d4db3-5788-4b67-fe9d-3fa65f6eb6da
+ms.date: 06/08/2017
 ---
 
 

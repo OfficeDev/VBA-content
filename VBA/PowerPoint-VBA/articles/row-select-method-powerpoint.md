@@ -3,10 +3,11 @@ title: Row.Select Method (PowerPoint)
 keywords: vbapp10.chm626004
 f1_keywords:
 - vbapp10.chm626004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Row.Select
 ms.assetid: 67b1c2ce-392e-e257-b722-dfac76e35f24
+ms.date: 06/08/2017
 ---
 
 

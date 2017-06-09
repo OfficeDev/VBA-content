@@ -3,8 +3,9 @@ title: BeginArrow Cell (Line Format Section), Visio [vis_sdr.chm51105]
 keywords: vis_sdr.chm51105
 f1_keywords:
 - vis_sdr.chm51105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5db1ab65-541f-41e8-9e28-226763c2b07d
+ms.date: 06/08/2017
 ---
 
 

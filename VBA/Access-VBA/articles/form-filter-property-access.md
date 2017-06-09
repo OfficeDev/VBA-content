@@ -3,10 +3,11 @@ title: Form.Filter Property (Access)
 keywords: vbaac10.chm13346
 f1_keywords:
 - vbaac10.chm13346
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Filter
 ms.assetid: 5eb49f82-8519-981c-a663-9862736ac95f
+ms.date: 06/08/2017
 ---
 
 

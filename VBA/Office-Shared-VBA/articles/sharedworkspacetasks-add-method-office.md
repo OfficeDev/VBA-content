@@ -3,10 +3,11 @@ title: SharedWorkspaceTasks.Add Method (Office)
 keywords: vbaof11.chm265003
 f1_keywords:
 - vbaof11.chm265003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Add
 ms.assetid: f427945e-e699-9ba0-6d83-98f9b77b4500
+ms.date: 06/08/2017
 ---
 
 

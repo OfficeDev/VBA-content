@@ -3,10 +3,11 @@ title: NameSpace.Session Property (Outlook)
 keywords: vbaol11.chm754
 f1_keywords:
 - vbaol11.chm754
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Session
 ms.assetid: 93dba2e5-d11e-7761-ac29-08f5b7a83b49
+ms.date: 06/08/2017
 ---
 
 

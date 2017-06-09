@@ -3,10 +3,11 @@ title: SlideShowView.ResetSlideTime Method (PowerPoint)
 keywords: vbapp10.chm513024
 f1_keywords:
 - vbapp10.chm513024
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.ResetSlideTime
 ms.assetid: aa00c585-d3c3-9cdc-860d-8c1f2f0a6ef3
+ms.date: 06/08/2017
 ---
 
 

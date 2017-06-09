@@ -3,10 +3,11 @@ title: SlideShowTransition.EntryEffect Property (PowerPoint)
 keywords: vbapp10.chm539006
 f1_keywords:
 - vbapp10.chm539006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.EntryEffect
 ms.assetid: 4a7bb737-a977-7a02-fccf-4bbb711a6375
+ms.date: 06/08/2017
 ---
 
 

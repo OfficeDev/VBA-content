@@ -3,8 +3,9 @@ title: LineToNodeY Cell (Page Layout Section), Visio [vis_sdr.chm580]
 keywords: vis_sdr.chm580
 f1_keywords:
 - vis_sdr.chm580
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 57a2def0-5f62-425d-b86a-15c327373602
+ms.date: 06/08/2017
 ---
 
 

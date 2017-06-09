@@ -3,8 +3,9 @@ title: Top Property, PowerPoint [vbapp10.chm65662]
 keywords: vbapp10.chm65662
 f1_keywords:
 - vbapp10.chm65662
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 06ea9665-f389-46b7-985d-dffe274e9ee4
+ms.date: 06/08/2017
 ---
 
 

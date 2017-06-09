@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.Index Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Index
 ms.assetid: 0f4e6561-d53a-ed9d-3d24-7306dbe69bd6
+ms.date: 06/08/2017
 ---
 
 

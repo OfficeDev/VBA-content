@@ -3,10 +3,11 @@ title: Form.AfterUpdate Event (Access)
 keywords: vbaac10.chm13638
 f1_keywords:
 - vbaac10.chm13638
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterUpdate
 ms.assetid: b622d8c9-4802-a915-5cd4-f8a91ba57099
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: BoundObjectFrame.Verb Property (Access)
 keywords: vbaac10.chm10918
 f1_keywords:
 - vbaac10.chm10918
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Verb
 ms.assetid: edbca2b1-fe7a-f0d0-1baf-fedbccb6dfb7
+ms.date: 06/08/2017
 ---
 
 

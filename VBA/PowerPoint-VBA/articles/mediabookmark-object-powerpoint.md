@@ -3,10 +3,11 @@ title: MediaBookmark Object (PowerPoint)
 keywords: vbapp10.chm729000
 f1_keywords:
 - vbapp10.chm729000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmark
 ms.assetid: 8340edc3-e9e8-3f65-a1ca-88ff83006a22
+ms.date: 06/08/2017
 ---
 
 

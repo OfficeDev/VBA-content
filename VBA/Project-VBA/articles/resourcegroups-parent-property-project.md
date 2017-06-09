@@ -1,9 +1,10 @@
 ---
 title: ResourceGroups.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ResourceGroups.Parent
 ms.assetid: baa26178-4e06-2a75-f017-e6fc2e6ca7ee
+ms.date: 06/08/2017
 ---
 
 

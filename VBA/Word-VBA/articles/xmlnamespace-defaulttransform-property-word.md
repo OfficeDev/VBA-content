@@ -3,10 +3,11 @@ title: XMLNamespace.DefaultTransform Property (Word)
 keywords: vbawd10.chm2293766
 f1_keywords:
 - vbawd10.chm2293766
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNamespace.DefaultTransform
 ms.assetid: a43c9869-98f0-0a18-8e3c-eb4930553367
+ms.date: 06/08/2017
 ---
 
 

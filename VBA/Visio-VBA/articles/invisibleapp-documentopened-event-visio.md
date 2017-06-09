@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.DocumentOpened Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentOpened
 ms.assetid: 546516c5-74fe-bbfb-8788-f662de9179d5
+ms.date: 06/08/2017
 ---
 
 

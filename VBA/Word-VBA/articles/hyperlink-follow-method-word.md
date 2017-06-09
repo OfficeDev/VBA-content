@@ -3,10 +3,11 @@ title: Hyperlink.Follow Method (Word)
 keywords: vbawd10.chm161284200
 f1_keywords:
 - vbawd10.chm161284200
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.Follow
 ms.assetid: ff8553f3-9da7-245f-75fc-77013b5b1e9a
+ms.date: 06/08/2017
 ---
 
 

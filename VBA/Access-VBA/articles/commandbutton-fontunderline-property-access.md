@@ -3,10 +3,11 @@ title: CommandButton.FontUnderline Property (Access)
 keywords: vbaac10.chm10476
 f1_keywords:
 - vbaac10.chm10476
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.FontUnderline
 ms.assetid: 1882cbe8-3e22-9224-bb18-a5f3aa9cf737
+ms.date: 06/08/2017
 ---
 
 

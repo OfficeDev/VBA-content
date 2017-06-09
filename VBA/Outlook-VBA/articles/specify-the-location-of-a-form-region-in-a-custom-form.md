@@ -1,7 +1,8 @@
 ---
 title: Specify the Location of a Form Region in a Custom Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c617f6a3-c39a-bb0f-37ff-1ea999dac8be
+ms.date: 06/08/2017
 ---
 
 

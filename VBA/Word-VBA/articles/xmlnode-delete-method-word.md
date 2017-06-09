@@ -3,10 +3,11 @@ title: XMLNode.Delete Method (Word)
 keywords: vbawd10.chm37748836
 f1_keywords:
 - vbawd10.chm37748836
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.Delete
 ms.assetid: a9cddae9-0de3-c52b-026b-ecc564dca657
+ms.date: 06/08/2017
 ---
 
 

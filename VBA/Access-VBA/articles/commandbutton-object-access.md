@@ -3,10 +3,11 @@ title: CommandButton Object (Access)
 keywords: vbaac10.chm10554
 f1_keywords:
 - vbaac10.chm10554
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton
 ms.assetid: 25e7c0b7-03c1-dffe-8f52-4ec59739f6b8
+ms.date: 06/08/2017
 ---
 
 

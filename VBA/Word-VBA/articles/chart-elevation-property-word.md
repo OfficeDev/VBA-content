@@ -3,10 +3,11 @@ title: Chart.Elevation Property (Word)
 keywords: vbawd10.chm79364102
 f1_keywords:
 - vbawd10.chm79364102
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Elevation
 ms.assetid: 2913dce4-e35a-31ff-3ea0-237c85dbad23
+ms.date: 06/08/2017
 ---
 
 

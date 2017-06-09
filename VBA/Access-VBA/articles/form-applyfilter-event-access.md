@@ -3,10 +3,11 @@ title: Form.ApplyFilter Event (Access)
 keywords: vbaac10.chm13661
 f1_keywords:
 - vbaac10.chm13661
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ApplyFilter
 ms.assetid: c8aafdbf-1693-21cf-5bdd-1ea6d702aa58
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Picture Property
 keywords: fm20.chm2001710
 f1_keywords:
 - fm20.chm2001710
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Picture
 ms.assetid: ce07e7fb-b123-4ce5-49b5-f21cdedad984
+ms.date: 06/08/2017
 ---
 
 

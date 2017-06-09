@@ -3,10 +3,11 @@ title: Explorer.Width Property (Outlook)
 keywords: vbaol11.chm2772
 f1_keywords:
 - vbaol11.chm2772
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Width
 ms.assetid: 7e5caaf7-c572-d74a-1019-e9fc2cf78d84
+ms.date: 06/08/2017
 ---
 
 

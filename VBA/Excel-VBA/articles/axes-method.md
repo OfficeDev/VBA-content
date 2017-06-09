@@ -3,10 +3,11 @@ title: Axes Method
 keywords: vbagr10.chm3077608
 f1_keywords:
 - vbagr10.chm3077608
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axes
 ms.assetid: 040bf3e2-f60f-935b-9803-6f9bf146bee7
+ms.date: 06/08/2017
 ---
 
 

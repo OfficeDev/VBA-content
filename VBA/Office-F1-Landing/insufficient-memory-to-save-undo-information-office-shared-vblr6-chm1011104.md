@@ -3,8 +3,9 @@ title: Insufficient memory to save Undo information, Office Shared [vblr6.chm101
 keywords: vblr6.chm1011104
 f1_keywords:
 - vblr6.chm1011104
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf6f781b-040c-40d7-b806-903f1a52d173
+ms.date: 06/08/2017
 ---
 
 

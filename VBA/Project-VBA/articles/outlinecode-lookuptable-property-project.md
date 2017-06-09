@@ -1,9 +1,10 @@
 ---
 title: OutlineCode.LookupTable Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.LookupTable
 ms.assetid: 04eedfab-2aff-5836-ec02-5f3a41ab3e77
+ms.date: 06/08/2017
 ---
 
 

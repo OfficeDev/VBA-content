@@ -3,8 +3,9 @@ title: PlotArea Property, Excel [vbagr10.chm5207800]
 keywords: vbagr10.chm5207800
 f1_keywords:
 - vbagr10.chm5207800
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eb75e541-043e-40f7-bce4-797394e2207b
+ms.date: 06/08/2017
 ---
 
 

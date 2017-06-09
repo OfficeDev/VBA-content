@@ -3,10 +3,11 @@ title: ShapeNodes.SetEditingType Method (Word)
 keywords: vbawd10.chm164495373
 f1_keywords:
 - vbawd10.chm164495373
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNodes.SetEditingType
 ms.assetid: 315a8a0d-0caa-278d-af0e-91b468b694ab
+ms.date: 06/08/2017
 ---
 
 

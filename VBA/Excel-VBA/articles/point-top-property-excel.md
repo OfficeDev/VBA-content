@@ -3,10 +3,11 @@ title: Point.Top Property (Excel)
 keywords: vbaxl10.chm576106
 f1_keywords:
 - vbaxl10.chm576106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Top
 ms.assetid: 328ff726-4c34-a55a-35ce-1d7bdd06643a
+ms.date: 06/08/2017
 ---
 
 

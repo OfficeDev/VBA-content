@@ -3,8 +3,9 @@ title: LEFT Function, Visio [Vis_DSS.chm60103]
 keywords: vis_dss.chm60103
 f1_keywords:
 - vis_dss.chm60103
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 80cdaec7-61d9-4e47-936c-2691f71cfe3b
+ms.date: 06/08/2017
 ---
 
 

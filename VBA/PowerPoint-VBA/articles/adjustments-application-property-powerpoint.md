@@ -1,9 +1,10 @@
 ---
 title: Adjustments.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Application
 ms.assetid: 0cd973ac-cf73-7ea1-0009-ef080a1f477d
+ms.date: 06/08/2017
 ---
 
 

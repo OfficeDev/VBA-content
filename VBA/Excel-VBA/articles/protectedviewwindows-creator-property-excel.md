@@ -3,10 +3,11 @@ title: ProtectedViewWindows.Creator Property (Excel)
 keywords: vbaxl10.chm912074
 f1_keywords:
 - vbaxl10.chm912074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindows.Creator
 ms.assetid: f1c6f32e-57dc-3a3c-0d6f-f43f94c0f39f
+ms.date: 06/08/2017
 ---
 
 

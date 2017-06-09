@@ -3,10 +3,11 @@ title: ToolbarItems.Add Method (Visio)
 keywords: vis_sdr.chm13616005
 f1_keywords:
 - vis_sdr.chm13616005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItems.Add
 ms.assetid: 25526a67-11ae-8e93-825f-a84839fe4313
+ms.date: 06/08/2017
 ---
 
 

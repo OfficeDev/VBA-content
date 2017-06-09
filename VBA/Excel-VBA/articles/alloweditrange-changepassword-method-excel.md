@@ -3,10 +3,11 @@ title: AllowEditRange.ChangePassword Method (Excel)
 keywords: vbaxl10.chm725075
 f1_keywords:
 - vbaxl10.chm725075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRange.ChangePassword
 ms.assetid: 1cc52121-f626-eaaa-9ea0-879634e34af7
+ms.date: 06/08/2017
 ---
 
 

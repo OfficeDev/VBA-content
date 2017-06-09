@@ -3,10 +3,11 @@ title: Break.Range Property (Word)
 keywords: vbawd10.chm200343554
 f1_keywords:
 - vbawd10.chm200343554
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Break.Range
 ms.assetid: a78720bd-334b-9f97-bc5d-81da30c0986b
+ms.date: 06/08/2017
 ---
 
 

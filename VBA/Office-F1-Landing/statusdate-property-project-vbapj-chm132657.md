@@ -3,8 +3,9 @@ title: StatusDate Property, Project [vbapj.chm132657]
 keywords: vbapj.chm132657
 f1_keywords:
 - vbapj.chm132657
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9baf98af-e154-4fca-a13a-067fe1cf401c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Connects Property (Visio)
 keywords: vis_sdr.chm11213290
 f1_keywords:
 - vis_sdr.chm11213290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Connects
 ms.assetid: 9edaac59-f52e-67ee-6e5a-e11572907785
+ms.date: 06/08/2017
 ---
 
 

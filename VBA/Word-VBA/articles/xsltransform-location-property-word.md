@@ -3,10 +3,11 @@ title: XSLTransform.Location Property (Word)
 keywords: vbawd10.chm76742659
 f1_keywords:
 - vbawd10.chm76742659
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XSLTransform.Location
 ms.assetid: 6fa766b2-b292-883a-edee-6b8746d6904e
+ms.date: 06/08/2017
 ---
 
 

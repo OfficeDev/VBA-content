@@ -3,10 +3,11 @@ title: Workbook.PivotCaches Method (Excel)
 keywords: vbaxl10.chm199124
 f1_keywords:
 - vbaxl10.chm199124
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.PivotCaches
 ms.assetid: 0a2e7f10-c123-5c98-fb71-56868b9f8bde
+ms.date: 06/08/2017
 ---
 
 

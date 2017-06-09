@@ -3,10 +3,11 @@ title: OlkCategory.KeyUp Event (Outlook)
 keywords: vbaol11.chm1000458
 f1_keywords:
 - vbaol11.chm1000458
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.KeyUp
 ms.assetid: ce4ad525-fe0e-17d8-656f-4a3557e2ff6f
+ms.date: 06/08/2017
 ---
 
 

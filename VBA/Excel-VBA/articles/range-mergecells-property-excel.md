@@ -3,10 +3,11 @@ title: Range.MergeCells Property (Excel)
 keywords: vbaxl10.chm144161
 f1_keywords:
 - vbaxl10.chm144161
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.MergeCells
 ms.assetid: 42904357-5e55-1eb0-9b06-83b446fc6275
+ms.date: 06/08/2017
 ---
 
 

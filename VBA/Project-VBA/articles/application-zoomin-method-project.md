@@ -3,10 +3,11 @@ title: Application.ZoomIn Method (Project)
 keywords: vbapj.chm2036
 f1_keywords:
 - vbapj.chm2036
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ZoomIn
 ms.assetid: 0a6abf44-68ee-b146-d760-a7f0e1e79d76
+ms.date: 06/08/2017
 ---
 
 

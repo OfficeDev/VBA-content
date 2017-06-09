@@ -3,10 +3,11 @@ title: Application.GanttBarEditEx Method (Project)
 keywords: vbapj.chm2145
 f1_keywords:
 - vbapj.chm2145
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttBarEditEx
 ms.assetid: b574b975-a869-31ba-e525-df8775330b0a
+ms.date: 06/08/2017
 ---
 
 

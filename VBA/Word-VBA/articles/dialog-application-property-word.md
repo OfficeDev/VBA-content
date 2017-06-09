@@ -3,10 +3,11 @@ title: Dialog.Application Property (Word)
 keywords: vbawd10.chm163085571
 f1_keywords:
 - vbawd10.chm163085571
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dialog.Application
 ms.assetid: 55ebf9c6-1ad0-d9c4-9c75-98cdb07e1ceb
+ms.date: 06/08/2017
 ---
 
 

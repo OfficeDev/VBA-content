@@ -3,10 +3,11 @@ title: DocumentInspector.Inspect Method (Office)
 keywords: vbaof11.chm279003
 f1_keywords:
 - vbaof11.chm279003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspector.Inspect
 ms.assetid: 5973fa7d-7218-74e3-b67c-c03fbaf4b930
+ms.date: 06/08/2017
 ---
 
 

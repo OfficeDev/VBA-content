@@ -3,10 +3,11 @@ title: Options.IMEAutomaticControl Property (Word)
 keywords: vbawd10.chm162988119
 f1_keywords:
 - vbawd10.chm162988119
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.IMEAutomaticControl
 ms.assetid: 149a6ac6-e1f6-362d-8df9-05a2f159b1b4
+ms.date: 06/08/2017
 ---
 
 

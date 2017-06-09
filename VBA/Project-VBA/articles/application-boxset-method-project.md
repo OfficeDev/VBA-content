@@ -3,10 +3,11 @@ title: Application.BoxSet Method (Project)
 keywords: vbapj.chm49
 f1_keywords:
 - vbapj.chm49
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxSet
 ms.assetid: 06bcae73-5208-824d-4f55-119f35b37718
+ms.date: 06/08/2017
 ---
 
 

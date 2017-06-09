@@ -3,8 +3,9 @@ title: BeforeDragOver Event, Office Shared [fm20.chm2000030]
 keywords: fm20.chm2000030
 f1_keywords:
 - fm20.chm2000030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e4bc18b8-ca76-4076-8595-d0478b466b41
+ms.date: 06/08/2017
 ---
 
 

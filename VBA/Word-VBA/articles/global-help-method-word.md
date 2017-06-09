@@ -3,10 +3,11 @@ title: Global.Help Method (Word)
 keywords: vbawd10.chm163119433
 f1_keywords:
 - vbawd10.chm163119433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Help
 ms.assetid: cfae6e61-84bf-2462-39c5-569baec866ee
+ms.date: 06/08/2017
 ---
 
 

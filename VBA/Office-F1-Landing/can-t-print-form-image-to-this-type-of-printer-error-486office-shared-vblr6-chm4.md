@@ -3,8 +3,9 @@ title: Can't print form image to this type of printer (Error 486), Office Shared
 keywords: vblr6.chm486
 f1_keywords:
 - vblr6.chm486
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 191aeaa7-d76a-4838-96a2-9f77e99c5970
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: DocumentInspector Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 219bf600-9bbf-4527-9ae9-f644b17bc3c2
+ms.date: 06/08/2017
 ---
 
 

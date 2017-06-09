@@ -3,10 +3,11 @@ title: ThreeDFormat.SetExtrusionDirection Method (Word)
 keywords: vbawd10.chm164626446
 f1_keywords:
 - vbawd10.chm164626446
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 651b2b17-d87b-0007-3722-dc330f3e1f2e
+ms.date: 06/08/2017
 ---
 
 

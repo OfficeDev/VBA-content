@@ -3,10 +3,11 @@ title: TextStyles.Count Property (Publisher)
 keywords: vbapb10.chm5898243
 f1_keywords:
 - vbapb10.chm5898243
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyles.Count
 ms.assetid: c8620d07-d5ad-68f6-67c6-0179da441a4c
+ms.date: 06/08/2017
 ---
 
 

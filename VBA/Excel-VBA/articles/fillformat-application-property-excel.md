@@ -1,9 +1,10 @@
 ---
 title: FillFormat.Application Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.Application
 ms.assetid: 845678ab-b55a-9d69-2d18-64b085d221f8
+ms.date: 06/08/2017
 ---
 
 

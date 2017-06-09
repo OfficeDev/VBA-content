@@ -1,7 +1,8 @@
 ---
 title: Shape.ChangePicture Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 9193d802-cebd-2bfd-5f8e-400fac36c1a5
+ms.date: 06/08/2017
 ---
 
 

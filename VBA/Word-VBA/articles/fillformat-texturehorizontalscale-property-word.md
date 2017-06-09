@@ -3,10 +3,11 @@ title: FillFormat.TextureHorizontalScale Property (Word)
 keywords: vbawd10.chm164102262
 f1_keywords:
 - vbawd10.chm164102262
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.TextureHorizontalScale
 ms.assetid: 95673ba4-db72-957a-9873-6a77029d578d
+ms.date: 06/08/2017
 ---
 
 

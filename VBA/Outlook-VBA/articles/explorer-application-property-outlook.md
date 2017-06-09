@@ -3,10 +3,11 @@ title: Explorer.Application Property (Outlook)
 keywords: vbaol11.chm2757
 f1_keywords:
 - vbaol11.chm2757
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Application
 ms.assetid: d3318c7b-55c4-7797-7abf-c2c71911fb01
+ms.date: 06/08/2017
 ---
 
 

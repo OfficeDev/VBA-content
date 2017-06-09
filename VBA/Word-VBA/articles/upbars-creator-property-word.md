@@ -3,10 +3,11 @@ title: UpBars.Creator Property (Word)
 keywords: vbawd10.chm180945045
 f1_keywords:
 - vbawd10.chm180945045
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Creator
 ms.assetid: df200cd8-e76e-ece8-bf93-a521eb0d20ad
+ms.date: 06/08/2017
 ---
 
 

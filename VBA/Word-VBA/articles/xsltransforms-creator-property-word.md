@@ -3,8 +3,9 @@ title: XSLTransforms.Creator Property (Word)
 keywords: vbawd10.chm99222505
 f1_keywords:
 - vbawd10.chm99222505
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 4b18ed91-28db-37a1-67c4-c9ddb1f20aa9
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Calculate Elapsed Time
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 90e46152-6d97-0860-a414-a17cc8ba40cf
+ms.date: 06/08/2017
 ---
 
 

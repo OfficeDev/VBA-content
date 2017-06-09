@@ -1,9 +1,10 @@
 ---
 title: Trendline.Index Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Index
 ms.assetid: 389945bc-3115-6244-1d5a-79961bf8ca68
+ms.date: 06/08/2017
 ---
 
 

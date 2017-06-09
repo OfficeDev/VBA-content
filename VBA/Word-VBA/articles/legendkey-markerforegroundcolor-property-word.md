@@ -3,10 +3,11 @@ title: LegendKey.MarkerForegroundColor Property (Word)
 keywords: vbawd10.chm266207307
 f1_keywords:
 - vbawd10.chm266207307
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.MarkerForegroundColor
 ms.assetid: 851f97eb-7660-99af-285b-e8931436893a
+ms.date: 06/08/2017
 ---
 
 

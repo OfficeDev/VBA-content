@@ -1,9 +1,10 @@
 ---
 title: Assignment.Text13 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text13
 ms.assetid: f00d17b1-a749-8d19-98c5-7cb301005721
+ms.date: 06/08/2017
 ---
 
 

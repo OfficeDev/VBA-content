@@ -3,8 +3,9 @@ title: Select Method, PowerPoint [vbapp10.chm65771]
 keywords: vbapp10.chm65771
 f1_keywords:
 - vbapp10.chm65771
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 71ed61d1-4fe6-40c6-b4e3-93d4b25e64a3
+ms.date: 06/08/2017
 ---
 
 

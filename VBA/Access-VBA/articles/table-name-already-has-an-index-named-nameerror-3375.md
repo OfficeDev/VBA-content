@@ -3,14 +3,15 @@ title: Table <name> already has an index named <name>. (Error 3375)
 keywords: jeterr40.chm5003375
 f1_keywords:
 - jeterr40.chm5003375
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c4255be3-04b5-4b2f-5e00-be5da7696087
+ms.date: 06/08/2017
 ---
 
 
 # Table <name> already has an index named <name>. (Error 3375)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

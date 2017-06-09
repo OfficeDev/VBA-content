@@ -3,10 +3,11 @@ title: Cell.SetWidth Method (Word)
 keywords: vbawd10.chm156106954
 f1_keywords:
 - vbawd10.chm156106954
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.SetWidth
 ms.assetid: fd9fbeb1-a8c7-a6bf-1c9e-b63954848baf
+ms.date: 06/08/2017
 ---
 
 

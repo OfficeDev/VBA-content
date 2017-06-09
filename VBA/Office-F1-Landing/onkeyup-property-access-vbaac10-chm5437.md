@@ -3,8 +3,9 @@ title: OnKeyUp Property, Access [vbaac10.chm5437]
 keywords: vbaac10.chm5437
 f1_keywords:
 - vbaac10.chm5437
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54debc86-4ca2-4af5-9ca8-1f379ccaa94e
+ms.date: 06/08/2017
 ---
 
 

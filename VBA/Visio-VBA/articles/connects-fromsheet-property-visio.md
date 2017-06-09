@@ -3,10 +3,11 @@ title: Connects.FromSheet Property (Visio)
 keywords: vis_sdr.chm10413590
 f1_keywords:
 - vis_sdr.chm10413590
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connects.FromSheet
 ms.assetid: c9fa472c-9f5f-ea4f-adbc-e8741dda1482
+ms.date: 06/08/2017
 ---
 
 

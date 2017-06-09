@@ -3,10 +3,11 @@ title: TabStop.Parent Property (Word)
 keywords: vbawd10.chm156500970
 f1_keywords:
 - vbawd10.chm156500970
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStop.Parent
 ms.assetid: 42412426-fa66-2516-7e8a-b4d71c3357b0
+ms.date: 06/08/2017
 ---
 
 

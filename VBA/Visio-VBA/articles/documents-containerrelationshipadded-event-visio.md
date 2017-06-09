@@ -3,10 +3,11 @@ title: Documents.ContainerRelationshipAdded Event (Visio)
 keywords: vis_sdr.chm10662065
 f1_keywords:
 - vis_sdr.chm10662065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.ContainerRelationshipAdded
 ms.assetid: 8cc692b3-f079-0c9a-b2fe-f0e3fac83ec6
+ms.date: 06/08/2017
 ---
 
 

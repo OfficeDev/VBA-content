@@ -3,10 +3,11 @@ title: SetFocus Method
 keywords: fm20.chm5224972
 f1_keywords:
 - fm20.chm5224972
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SetFocus
 ms.assetid: 430b2404-f11f-a0b6-e3b7-4bfe513c9258
+ms.date: 06/08/2017
 ---
 
 

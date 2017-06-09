@@ -3,10 +3,11 @@ title: NavigationButton.StatusBarText Property (Access)
 keywords: vbaac10.chm10458
 f1_keywords:
 - vbaac10.chm10458
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.StatusBarText
 ms.assetid: ebfeaa64-b614-11a7-c385-53fe24745a77
+ms.date: 06/08/2017
 ---
 
 

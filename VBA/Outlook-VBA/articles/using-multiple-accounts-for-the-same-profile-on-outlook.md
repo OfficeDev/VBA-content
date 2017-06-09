@@ -1,7 +1,8 @@
 ---
 title: Using Multiple Accounts for the Same Profile on Outlook
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9e06e076-d62a-37c8-4502-709da5a0b104
+ms.date: 06/08/2017
 ---
 
 

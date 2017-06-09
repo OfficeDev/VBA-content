@@ -3,10 +3,11 @@ title: Characters.Creator Property (Word)
 keywords: vbawd10.chm157090793
 f1_keywords:
 - vbawd10.chm157090793
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Characters.Creator
 ms.assetid: d8bed9e7-237a-4049-79d1-1d68cc9ca0f1
+ms.date: 06/08/2017
 ---
 
 

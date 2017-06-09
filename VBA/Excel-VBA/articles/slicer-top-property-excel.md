@@ -3,10 +3,11 @@ title: Slicer.Top Property (Excel)
 keywords: vbaxl10.chm905075
 f1_keywords:
 - vbaxl10.chm905075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Top
 ms.assetid: 092d0877-b884-0e12-7bac-edfbaf1909be
+ms.date: 06/08/2017
 ---
 
 

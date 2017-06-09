@@ -3,10 +3,11 @@ title: Application.CommandBars Property (Visio)
 keywords: vis_sdr.chm10050540
 f1_keywords:
 - vis_sdr.chm10050540
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.CommandBars
 ms.assetid: 3829b033-aed4-a132-ff44-96d419dd09cd
+ms.date: 06/08/2017
 ---
 
 

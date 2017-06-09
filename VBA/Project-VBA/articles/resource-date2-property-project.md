@@ -1,9 +1,10 @@
 ---
 title: Resource.Date2 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Date2
 ms.assetid: 1977a3c7-dfff-6f91-a546-ba1d6d8fb0ef
+ms.date: 06/08/2017
 ---
 
 

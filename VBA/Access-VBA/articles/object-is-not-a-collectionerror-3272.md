@@ -3,14 +3,15 @@ title: Object is not a collection. (Error 3272)
 keywords: jeterr40.chm5003272
 f1_keywords:
 - jeterr40.chm5003272
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e282566f-1a73-62cf-ff4e-4f98daddfca1
+ms.date: 06/08/2017
 ---
 
 
 # Object is not a collection. (Error 3272)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

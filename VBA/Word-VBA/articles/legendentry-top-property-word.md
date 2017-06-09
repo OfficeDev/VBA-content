@@ -3,10 +3,11 @@ title: LegendEntry.Top Property (Word)
 keywords: vbawd10.chm4784254
 f1_keywords:
 - vbawd10.chm4784254
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntry.Top
 ms.assetid: 95094119-1b02-7daa-8236-b5740b1ea528
+ms.date: 06/08/2017
 ---
 
 

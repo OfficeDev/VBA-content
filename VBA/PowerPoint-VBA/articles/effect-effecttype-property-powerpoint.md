@@ -3,10 +3,11 @@ title: Effect.EffectType Property (PowerPoint)
 keywords: vbapp10.chm652010
 f1_keywords:
 - vbapp10.chm652010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.EffectType
 ms.assetid: 28c2ed5f-f783-0858-cbff-8a5e6e5b8a41
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.Open Event (Access)
 keywords: vbaac10.chm13642
 f1_keywords:
 - vbaac10.chm13642
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Open
 ms.assetid: 8638e6d9-29af-a007-44f5-9bada14adb29
+ms.date: 06/08/2017
 ---
 
 

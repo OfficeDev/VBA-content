@@ -3,10 +3,11 @@ title: Page.ControlType Property (Access)
 keywords: vbaac10.chm12147
 f1_keywords:
 - vbaac10.chm12147
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.ControlType
 ms.assetid: dec0d7dd-f0e1-a8d7-f026-9ff128481d2a
+ms.date: 06/08/2017
 ---
 
 

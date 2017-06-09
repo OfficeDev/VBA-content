@@ -3,10 +3,11 @@ title: StorageItem.Delete Method (Outlook)
 keywords: vbaol11.chm2145
 f1_keywords:
 - vbaol11.chm2145
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Delete
 ms.assetid: 0ace6d9e-3dc7-52d5-ac20-97c2f3b109de
+ms.date: 06/08/2017
 ---
 
 

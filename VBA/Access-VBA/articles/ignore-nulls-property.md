@@ -3,14 +3,15 @@ title: Ignore Nulls Property
 keywords: acmain11.chm7025
 f1_keywords:
 - acmain11.chm7025
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 87d95ca8-ea29-f0ca-366a-56527c500f13
+ms.date: 06/08/2017
 ---
 
 
 # Ignore Nulls Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

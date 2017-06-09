@@ -3,10 +3,11 @@ title: ParagraphFormat.SpaceAfter Property (Word)
 keywords: vbawd10.chm156434544
 f1_keywords:
 - vbawd10.chm156434544
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.SpaceAfter
 ms.assetid: 804ffaf6-8a74-22a1-7a90-132847b196ee
+ms.date: 06/08/2017
 ---
 
 

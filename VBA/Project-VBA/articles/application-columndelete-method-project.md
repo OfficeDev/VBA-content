@@ -3,10 +3,11 @@ title: Application.ColumnDelete Method (Project)
 keywords: vbapj.chm230
 f1_keywords:
 - vbapj.chm230
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ColumnDelete
 ms.assetid: a492d8ab-6ed6-49f8-e626-d0a042546021
+ms.date: 06/08/2017
 ---
 
 

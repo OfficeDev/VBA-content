@@ -3,10 +3,11 @@ title: Windows.BeforeWindowPageTurn Event (Visio)
 keywords: vis_sdr.chm11719080
 f1_keywords:
 - vis_sdr.chm11719080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.BeforeWindowPageTurn
 ms.assetid: e74bbab7-af7b-19ef-af82-3f21b55a9292
+ms.date: 06/08/2017
 ---
 
 

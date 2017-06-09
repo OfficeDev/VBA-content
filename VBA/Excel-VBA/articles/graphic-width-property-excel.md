@@ -3,10 +3,11 @@ title: Graphic.Width Property (Excel)
 keywords: vbaxl10.chm694083
 f1_keywords:
 - vbaxl10.chm694083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.Width
 ms.assetid: 91558084-6eea-112f-b660-df353f9e893f
+ms.date: 06/08/2017
 ---
 
 

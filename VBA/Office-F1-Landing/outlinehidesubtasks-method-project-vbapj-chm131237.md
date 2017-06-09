@@ -3,8 +3,9 @@ title: OutlineHideSubTasks Method, Project [vbapj.chm131237]
 keywords: vbapj.chm131237
 f1_keywords:
 - vbapj.chm131237
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 388ffca9-c5da-4848-be79-673b52110832
+ms.date: 06/08/2017
 ---
 
 

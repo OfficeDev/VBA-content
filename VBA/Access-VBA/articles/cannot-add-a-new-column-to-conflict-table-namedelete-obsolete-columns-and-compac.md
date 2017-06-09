@@ -3,14 +3,15 @@ title: Cannot add a new column to conflict table <name>. Delete obsolete columns
 keywords: jeterr40.chm5003740
 f1_keywords:
 - jeterr40.chm5003740
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2d43bc6e-45df-a1d8-23fa-2f06ef614b85
+ms.date: 06/08/2017
 ---
 
 
 # Cannot add a new column to conflict table <name>. Delete obsolete columns and compact the database. (Error 3740)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

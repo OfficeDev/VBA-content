@@ -3,10 +3,11 @@ title: Printer.PaperSource Property (Publisher)
 keywords: vbapb10.chm8978449
 f1_keywords:
 - vbapb10.chm8978449
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperSource
 ms.assetid: 3c3f9007-c1ea-6957-6fa5-b34873e0a17f
+ms.date: 06/08/2017
 ---
 
 

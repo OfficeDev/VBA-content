@@ -3,8 +3,9 @@ title: ChartGroups Property, Project [vbapj.chm131617]
 keywords: vbapj.chm131617
 f1_keywords:
 - vbapj.chm131617
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fdce44fa-0f6a-4f4f-ac2a-4a1d0b23b9ed
+ms.date: 06/08/2017
 ---
 
 

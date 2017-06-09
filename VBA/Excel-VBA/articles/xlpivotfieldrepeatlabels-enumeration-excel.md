@@ -1,9 +1,10 @@
 ---
 title: XlPivotFieldRepeatLabels Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotFieldRepeatLabels
 ms.assetid: 58fe7df4-8704-ca81-1278-03906045a7f1
+ms.date: 06/08/2017
 ---
 
 

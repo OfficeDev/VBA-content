@@ -3,14 +3,15 @@ title: Invalid path for destination dropbox folder. (Error 3556)
 keywords: jeterr40.chm5003556
 f1_keywords:
 - jeterr40.chm5003556
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 50bffc1c-5017-5648-2c18-925395eec879
+ms.date: 06/08/2017
 ---
 
 
 # Invalid path for destination dropbox folder. (Error 3556)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

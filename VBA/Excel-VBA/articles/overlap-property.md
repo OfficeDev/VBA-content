@@ -3,10 +3,11 @@ title: Overlap Property
 keywords: vbagr10.chm5207749
 f1_keywords:
 - vbagr10.chm5207749
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Overlap
 ms.assetid: 60e82754-4553-7ee9-7403-06cd12de733e
+ms.date: 06/08/2017
 ---
 
 

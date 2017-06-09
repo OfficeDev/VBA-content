@@ -3,10 +3,11 @@ title: ParagraphFormat.Style Property (Word)
 keywords: vbawd10.chm156434532
 f1_keywords:
 - vbawd10.chm156434532
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.Style
 ms.assetid: 81da5d84-32e6-e133-4f2c-a7652b0356b1
+ms.date: 06/08/2017
 ---
 
 

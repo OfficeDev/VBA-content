@@ -3,10 +3,11 @@ title: Columns.Add Method (Word)
 keywords: vbawd10.chm155910149
 f1_keywords:
 - vbawd10.chm155910149
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Columns.Add
 ms.assetid: b93aa859-e0f1-b8b1-a9d7-766f7f1f528c
+ms.date: 06/08/2017
 ---
 
 

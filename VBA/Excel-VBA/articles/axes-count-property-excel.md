@@ -3,10 +3,11 @@ title: Axes.Count Property (Excel)
 keywords: vbaxl10.chm572073
 f1_keywords:
 - vbaxl10.chm572073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axes.Count
 ms.assetid: 67b36793-d9a2-9b92-edd1-b7c9f4348f8d
+ms.date: 06/08/2017
 ---
 
 

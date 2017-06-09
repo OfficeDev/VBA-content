@@ -3,10 +3,11 @@ title: OptionGroup.InSelection Property (Access)
 keywords: vbaac10.chm10861
 f1_keywords:
 - vbaac10.chm10861
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.InSelection
 ms.assetid: faae80ea-95ab-bcae-d923-39d264612e84
+ms.date: 06/08/2017
 ---
 
 

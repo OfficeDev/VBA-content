@@ -3,10 +3,11 @@ title: ContactItem.Hobby Property (Outlook)
 keywords: vbaol11.chm1010
 f1_keywords:
 - vbaol11.chm1010
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Hobby
 ms.assetid: 6386f34c-ac9c-cd81-75ec-01ac00c75f8b
+ms.date: 06/08/2017
 ---
 
 

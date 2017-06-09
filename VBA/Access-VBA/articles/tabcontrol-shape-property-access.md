@@ -3,10 +3,11 @@ title: TabControl.Shape Property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Shape
 ms.assetid: 579e6710-0e42-74ac-ea97-1618baf9497a
+ms.date: 06/08/2017
 ---
 
 

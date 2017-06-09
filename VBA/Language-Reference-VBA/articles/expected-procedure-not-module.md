@@ -3,8 +3,9 @@ title: Expected procedure, not module
 keywords: vblr6.chm1011156
 f1_keywords:
 - vblr6.chm1011156
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e66075a-6045-7ba4-ae4e-a36a808eadbf
+ms.date: 06/08/2017
 ---
 
 

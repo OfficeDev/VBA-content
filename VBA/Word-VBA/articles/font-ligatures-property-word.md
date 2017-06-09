@@ -3,10 +3,11 @@ title: Font.Ligatures Property (Word)
 keywords: vbawd10.chm156369070
 f1_keywords:
 - vbawd10.chm156369070
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Ligatures
 ms.assetid: f1b0ff39-5eb5-e5a3-e0ff-3e88639670f9
+ms.date: 06/08/2017
 ---
 
 

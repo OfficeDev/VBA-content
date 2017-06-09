@@ -3,10 +3,11 @@ title: FindReplace.MatchKashida Property (Publisher)
 keywords: vbapb10.chm8323082
 f1_keywords:
 - vbapb10.chm8323082
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace.MatchKashida
 ms.assetid: ec2b5fa0-0549-b5c2-d8b9-666be1cbe193
+ms.date: 06/08/2017
 ---
 
 

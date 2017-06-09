@@ -3,10 +3,11 @@ title: Options.UseDiffDiacColor Property (Word)
 keywords: vbawd10.chm162988452
 f1_keywords:
 - vbawd10.chm162988452
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UseDiffDiacColor
 ms.assetid: fdcf3a48-bd12-aefe-198a-81541007a596
+ms.date: 06/08/2017
 ---
 
 

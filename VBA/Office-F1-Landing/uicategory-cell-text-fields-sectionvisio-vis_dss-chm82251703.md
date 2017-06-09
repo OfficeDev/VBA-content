@@ -3,8 +3,9 @@ title: UICategory Cell (Text Fields Section), Visio [Vis_DSS.chm82251703]
 keywords: vis_dss.chm82251703
 f1_keywords:
 - vis_dss.chm82251703
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 606e808f-c253-4889-aa16-e790f68b276f
+ms.date: 06/08/2017
 ---
 
 

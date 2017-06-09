@@ -1,13 +1,14 @@
 ---
 title: Record (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e9a1300e-e2d8-7ad9-e0d6-61be720b83af
+ms.date: 06/08/2017
 ---
 
 
 # Record (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

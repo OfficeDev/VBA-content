@@ -3,10 +3,11 @@ title: WebBrowserControl.Enabled Property (Access)
 keywords: vbaac10.chm14361
 f1_keywords:
 - vbaac10.chm14361
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Enabled
 ms.assetid: 6da2553d-0ad9-4741-c89f-fc19dfacb5a2
+ms.date: 06/08/2017
 ---
 
 

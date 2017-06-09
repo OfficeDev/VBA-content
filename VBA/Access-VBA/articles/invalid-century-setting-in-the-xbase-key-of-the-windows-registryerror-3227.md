@@ -1,13 +1,14 @@
 ---
 title: Invalid Century setting in the Xbase key of the Windows Registry. (Error 3227)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: eb75b1ac-b7d7-d151-7ea0-4ecb7e265a51
+ms.date: 06/08/2017
 ---
 
 
 # Invalid Century setting in the Xbase key of the Windows Registry. (Error 3227)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

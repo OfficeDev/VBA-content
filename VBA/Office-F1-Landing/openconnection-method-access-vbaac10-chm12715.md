@@ -3,8 +3,9 @@ title: OpenConnection Method, Access [vbaac10.chm12715]
 keywords: vbaac10.chm12715
 f1_keywords:
 - vbaac10.chm12715
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d650006-8b22-4356-b04f-90ba95ae1a6a
+ms.date: 06/08/2017
 ---
 
 

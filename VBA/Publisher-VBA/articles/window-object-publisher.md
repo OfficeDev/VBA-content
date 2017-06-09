@@ -3,10 +3,11 @@ title: Window Object (Publisher)
 keywords: vbapb10.chm327679
 f1_keywords:
 - vbapb10.chm327679
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Window
 ms.assetid: 342d77cd-5556-6ac3-a828-b1b60380f910
+ms.date: 06/08/2017
 ---
 
 

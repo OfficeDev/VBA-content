@@ -3,10 +3,11 @@ title: BoundObjectFrame.Enabled Property (Access)
 keywords: vbaac10.chm10923
 f1_keywords:
 - vbaac10.chm10923
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Enabled
 ms.assetid: 58b19f0d-8460-0a51-739f-9fae5de20901
+ms.date: 06/08/2017
 ---
 
 

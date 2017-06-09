@@ -3,10 +3,11 @@ title: SendRuleAction.ActionType Property (Outlook)
 keywords: vbaol11.chm2221
 f1_keywords:
 - vbaol11.chm2221
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SendRuleAction.ActionType
 ms.assetid: 07b46194-32b4-f04f-d18e-d4b7f3db8f07
+ms.date: 06/08/2017
 ---
 
 

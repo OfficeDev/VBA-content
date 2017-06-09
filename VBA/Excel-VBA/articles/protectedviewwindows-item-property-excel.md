@@ -3,10 +3,11 @@ title: ProtectedViewWindows.Item Property (Excel)
 keywords: vbaxl10.chm913074
 f1_keywords:
 - vbaxl10.chm913074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindows.Item
 ms.assetid: 615c5695-4086-b1de-475e-e9f208c7fe37
+ms.date: 06/08/2017
 ---
 
 

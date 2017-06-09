@@ -1,9 +1,10 @@
 ---
 title: WdProofreadingErrorType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdProofreadingErrorType
 ms.assetid: 8bfe821c-6de9-4866-26a6-981f99973c72
+ms.date: 06/08/2017
 ---
 
 

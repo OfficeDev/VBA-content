@@ -3,10 +3,11 @@ title: Document.Keywords Property (Visio)
 keywords: vis_sdr.chm10513795
 f1_keywords:
 - vis_sdr.chm10513795
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Keywords
 ms.assetid: c7717a93-c64f-8363-69a7-7e9ed40865dc
+ms.date: 06/08/2017
 ---
 
 

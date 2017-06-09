@@ -3,10 +3,11 @@ title: ContactsModule.Class Property (Outlook)
 keywords: vbaol11.chm2833
 f1_keywords:
 - vbaol11.chm2833
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactsModule.Class
 ms.assetid: 055f3b2f-ccbc-18b7-8437-708e2fc3b0b3
+ms.date: 06/08/2017
 ---
 
 

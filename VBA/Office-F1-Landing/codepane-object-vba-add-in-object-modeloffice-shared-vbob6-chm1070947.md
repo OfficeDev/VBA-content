@@ -3,8 +3,9 @@ title: CodePane Object (VBA Add-In Object Model), Office Shared [vbob6.chm107094
 keywords: vbob6.chm1070947
 f1_keywords:
 - vbob6.chm1070947
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0d80f7e-9226-40b8-b456-f71b99cd2f39
+ms.date: 06/08/2017
 ---
 
 

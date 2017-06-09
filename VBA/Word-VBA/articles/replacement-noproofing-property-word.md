@@ -3,10 +3,11 @@ title: Replacement.NoProofing Property (Word)
 keywords: vbawd10.chm162594837
 f1_keywords:
 - vbawd10.chm162594837
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.NoProofing
 ms.assetid: 408e41ed-25f4-7e61-a69c-42b731b3df8e
+ms.date: 06/08/2017
 ---
 
 

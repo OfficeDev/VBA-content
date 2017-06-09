@@ -3,10 +3,11 @@ title: DataColumns.Stat Property (Visio)
 keywords: vis_sdr.chm16614420
 f1_keywords:
 - vis_sdr.chm16614420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataColumns.Stat
 ms.assetid: 74aee585-67d5-0ff9-5782-ab9281a3c34e
+ms.date: 06/08/2017
 ---
 
 

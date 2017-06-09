@@ -3,8 +3,9 @@ title: Font.ThreeD Property (Publisher)
 keywords: vbapb10.chm5374023
 f1_keywords:
 - vbapb10.chm5374023
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 947691ab-5b38-8b3c-3615-a205a27ba4c3
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: FileDialog.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.Creator
 ms.assetid: 682d031d-8107-8a89-4cb1-6cbe8524fc95
+ms.date: 06/08/2017
 ---
 
 

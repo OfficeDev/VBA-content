@@ -3,10 +3,11 @@ title: BoundObjectFrame.BorderWidth Property (Access)
 keywords: vbaac10.chm10937
 f1_keywords:
 - vbaac10.chm10937
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BorderWidth
 ms.assetid: f06fa232-f6cd-7736-aeb9-96461d2338fc
+ms.date: 06/08/2017
 ---
 
 

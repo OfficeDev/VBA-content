@@ -3,8 +3,9 @@ title: Initialize Method, Excel [vbaxl10.chm942081]
 keywords: vbaxl10.chm942081
 f1_keywords:
 - vbaxl10.chm942081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a4df759d-4c8b-4f67-825d-dc7cd8704c6f
+ms.date: 06/08/2017
 ---
 
 

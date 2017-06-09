@@ -3,10 +3,11 @@ title: Form.KeyPress Event (Access)
 keywords: vbaac10.chm13656
 f1_keywords:
 - vbaac10.chm13656
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.KeyPress
 ms.assetid: 62ebe014-955a-e47e-6506-f7be9aa44de6
+ms.date: 06/08/2017
 ---
 
 

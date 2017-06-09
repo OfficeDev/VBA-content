@@ -3,10 +3,11 @@ title: Sequence.ConvertToBuildLevel Method (PowerPoint)
 keywords: vbapp10.chm651008
 f1_keywords:
 - vbapp10.chm651008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.ConvertToBuildLevel
 ms.assetid: ee674e55-dae3-1940-cf44-5520e8e82306
+ms.date: 06/08/2017
 ---
 
 

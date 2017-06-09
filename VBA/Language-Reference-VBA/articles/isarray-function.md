@@ -3,8 +3,9 @@ title: IsArray Function
 keywords: vblr6.chm1008823
 f1_keywords:
 - vblr6.chm1008823
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b7926cce-3e55-4074-1a04-99dac608fcb1
+ms.date: 06/08/2017
 ---
 
 

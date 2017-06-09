@@ -3,10 +3,11 @@ title: Order Property
 keywords: vbagr10.chm5207737
 f1_keywords:
 - vbagr10.chm5207737
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Order
 ms.assetid: aa56d241-870c-c3a9-00da-269fb8c314ea
+ms.date: 06/08/2017
 ---
 
 

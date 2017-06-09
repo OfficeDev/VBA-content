@@ -1,9 +1,10 @@
 ---
 title: CalendarDrivers.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.Item
 ms.assetid: ae65e330-fa3f-399d-8c49-4762e7095a4f
+ms.date: 06/08/2017
 ---
 
 

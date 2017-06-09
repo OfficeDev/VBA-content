@@ -3,10 +3,11 @@ title: DropLines.Creator Property (Excel)
 keywords: vbaxl10.chm603074
 f1_keywords:
 - vbaxl10.chm603074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DropLines.Creator
 ms.assetid: c1c7acab-e33b-ec58-6303-c31923c3f1fc
+ms.date: 06/08/2017
 ---
 
 

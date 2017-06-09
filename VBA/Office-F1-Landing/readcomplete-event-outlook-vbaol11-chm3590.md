@@ -3,8 +3,9 @@ title: ReadComplete Event, Outlook [vbaol11.chm3590]
 keywords: vbaol11.chm3590
 f1_keywords:
 - vbaol11.chm3590
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 806b65fc-795e-4eca-a877-f40933acfae1
+ms.date: 06/08/2017
 ---
 
 

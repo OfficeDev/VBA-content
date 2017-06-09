@@ -3,10 +3,11 @@ title: DocumentItem.Copy Method (Outlook)
 keywords: vbaol11.chm1210
 f1_keywords:
 - vbaol11.chm1210
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Copy
 ms.assetid: d5c221dd-b718-f566-764f-b0c5c5ef4430
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextColumns.SetCount Method (Word)
 keywords: vbawd10.chm158531786
 f1_keywords:
 - vbawd10.chm158531786
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.SetCount
 ms.assetid: 59ff1b21-5bec-982d-a2b5-7a8d7dc08f9a
+ms.date: 06/08/2017
 ---
 
 

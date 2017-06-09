@@ -1,13 +1,14 @@
 ---
 title: ODBC -- Cannot lock all records. (Error 3254)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 30a8caae-ec15-7bea-af84-a018c9e255df
+ms.date: 06/08/2017
 ---
 
 
 # ODBC -- Cannot lock all records. (Error 3254)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

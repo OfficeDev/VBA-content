@@ -3,8 +3,9 @@ title: View Object and View Code Commands (Shortcut Menu), Office Shared [vbui6.
 keywords: vbui6.chm1080906
 f1_keywords:
 - vbui6.chm1080906
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 104c3547-3334-47a8-8a0c-77ae60f6ace9
+ms.date: 06/08/2017
 ---
 
 

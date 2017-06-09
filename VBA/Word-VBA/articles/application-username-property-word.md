@@ -3,10 +3,11 @@ title: Application.UserName Property (Word)
 keywords: vbawd10.chm158335028
 f1_keywords:
 - vbawd10.chm158335028
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.UserName
 ms.assetid: 96f5ffb6-a20d-96f0-e3a4-0ad2dd47bf99
+ms.date: 06/08/2017
 ---
 
 

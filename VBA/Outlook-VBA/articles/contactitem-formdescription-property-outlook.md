@@ -3,10 +3,11 @@ title: ContactItem.FormDescription Property (Outlook)
 keywords: vbaol11.chm940
 f1_keywords:
 - vbaol11.chm940
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.FormDescription
 ms.assetid: 618b1bda-696c-9232-f68b-37613940ab20
+ms.date: 06/08/2017
 ---
 
 

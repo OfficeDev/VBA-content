@@ -3,10 +3,11 @@ title: Report Object (Access)
 keywords: vbaac10.chm13901
 f1_keywords:
 - vbaac10.chm13901
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report
 ms.assetid: 6f77c1b4-a9ce-7caa-204c-fe0755c6f9df
+ms.date: 06/08/2017
 ---
 
 

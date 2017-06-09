@@ -3,10 +3,11 @@ title: ShadowFormat.Size Property (PowerPoint)
 keywords: vbapp10.chm554013
 f1_keywords:
 - vbapp10.chm554013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Size
 ms.assetid: d4b308a5-d3ec-b24a-199a-580a5d962a42
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Verify Whether Outlook Is a Click-to-Run Application on a Computer
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4cdf9767-19b2-3976-460a-9470f5abac23
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ApplyPictToFront Property, PowerPoint [vbapp10.chm67196]
 keywords: vbapp10.chm67196
 f1_keywords:
 - vbapp10.chm67196
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2cdf670-fe9a-492a-9e2a-4243bde61697
+ms.date: 06/08/2017
 ---
 
 

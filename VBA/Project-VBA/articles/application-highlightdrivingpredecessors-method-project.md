@@ -3,8 +3,9 @@ title: Application.HighlightDrivingPredecessors Method (Project)
 keywords: vbapj.chm148
 f1_keywords:
 - vbapj.chm148
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 2a2653c5-6b7d-9429-f73f-e65c0cda1c5c
+ms.date: 06/08/2017
 ---
 
 

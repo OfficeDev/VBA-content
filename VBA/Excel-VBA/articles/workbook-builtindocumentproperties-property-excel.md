@@ -3,10 +3,11 @@ title: Workbook.BuiltinDocumentProperties Property (Excel)
 keywords: vbaxl10.chm199081
 f1_keywords:
 - vbaxl10.chm199081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.BuiltinDocumentProperties
 ms.assetid: 3efffd7d-0681-ecbc-000a-b71eceb3f92a
+ms.date: 06/08/2017
 ---
 
 

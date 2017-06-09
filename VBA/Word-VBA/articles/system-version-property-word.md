@@ -3,10 +3,11 @@ title: System.Version Property (Word)
 keywords: vbawd10.chm154468355
 f1_keywords:
 - vbawd10.chm154468355
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Version
 ms.assetid: 0d937656-94eb-2fa5-0d00-bfdfeae59ecf
+ms.date: 06/08/2017
 ---
 
 

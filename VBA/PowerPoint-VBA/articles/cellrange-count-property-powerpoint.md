@@ -1,9 +1,10 @@
 ---
 title: CellRange.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CellRange.Count
 ms.assetid: 9f81da2d-1b5d-9650-0631-19319dcc4bc0
+ms.date: 06/08/2017
 ---
 
 

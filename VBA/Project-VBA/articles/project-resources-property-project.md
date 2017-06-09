@@ -1,9 +1,10 @@
 ---
 title: Project.Resources Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Resources
 ms.assetid: 40744aba-2b61-2b45-133a-f1dd9c7d6add
+ms.date: 06/08/2017
 ---
 
 

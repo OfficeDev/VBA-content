@@ -1,9 +1,10 @@
 ---
 title: XlCellChangedState Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCellChangedState
 ms.assetid: d0242314-afe9-f5e0-6c54-65ca7b4fb800
+ms.date: 06/08/2017
 ---
 
 

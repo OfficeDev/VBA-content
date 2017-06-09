@@ -3,10 +3,11 @@ title: Options.AddControlCharacters Property (Word)
 keywords: vbawd10.chm162988439
 f1_keywords:
 - vbawd10.chm162988439
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AddControlCharacters
 ms.assetid: 42d2e513-86a1-e8e3-8bc3-c133d90c3d2a
+ms.date: 06/08/2017
 ---
 
 

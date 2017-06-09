@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.RuleSetValidated Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.RuleSetValidated
 ms.assetid: 6754decd-b5a4-a67f-0361-5c315ba6098e
+ms.date: 06/08/2017
 ---
 
 

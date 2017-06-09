@@ -3,8 +3,9 @@ title: Frame.ScrollTop Property (Outlook Forms Script)
 keywords: olfm10.chm2001810
 f1_keywords:
 - olfm10.chm2001810
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6ea6a4ae-94dd-fb70-2bcd-2bae1dfd3b36
+ms.date: 06/08/2017
 ---
 
 

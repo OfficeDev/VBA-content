@@ -1,13 +1,14 @@
 ---
 title: Format of memo file does not match specified external database format. (Error 3286)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ff7402c0-05e9-48f7-6ab9-8bbf01888b06
+ms.date: 06/08/2017
 ---
 
 
 # Format of memo file does not match specified external database format. (Error 3286)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

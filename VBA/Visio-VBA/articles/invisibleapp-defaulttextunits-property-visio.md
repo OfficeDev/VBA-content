@@ -3,10 +3,11 @@ title: InvisibleApp.DefaultTextUnits Property (Visio)
 keywords: vis_sdr.chm17551035
 f1_keywords:
 - vis_sdr.chm17551035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DefaultTextUnits
 ms.assetid: a9bd8464-b39c-622c-6446-bc652e42766c
+ms.date: 06/08/2017
 ---
 
 

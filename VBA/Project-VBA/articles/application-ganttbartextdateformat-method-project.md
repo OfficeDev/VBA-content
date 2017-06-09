@@ -3,10 +3,11 @@ title: Application.GanttBarTextDateFormat Method (Project)
 keywords: vbapj.chm2081
 f1_keywords:
 - vbapj.chm2081
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttBarTextDateFormat
 ms.assetid: b6159c2a-2e4d-dbfc-53dc-040e1ba6cf7a
+ms.date: 06/08/2017
 ---
 
 

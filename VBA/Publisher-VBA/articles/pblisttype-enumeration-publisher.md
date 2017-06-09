@@ -3,10 +3,11 @@ title: PbListType Enumeration (Publisher)
 keywords: vbapb10.chm65609
 f1_keywords:
 - vbapb10.chm65609
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbListType
 ms.assetid: 2190e95a-a649-5b04-d5a4-1fc53786b152
+ms.date: 06/08/2017
 ---
 
 

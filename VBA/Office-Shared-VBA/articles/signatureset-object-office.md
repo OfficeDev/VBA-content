@@ -3,10 +3,11 @@ title: SignatureSet Object (Office)
 keywords: vbaof11.chm247000
 f1_keywords:
 - vbaof11.chm247000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureSet
 ms.assetid: 574cba16-c632-ab66-f014-58172ff1c091
+ms.date: 06/08/2017
 ---
 
 

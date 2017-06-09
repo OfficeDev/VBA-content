@@ -3,8 +3,9 @@ title: ProjectBeforePrint Event, Project [vbapj.chm131152]
 keywords: vbapj.chm131152
 f1_keywords:
 - vbapj.chm131152
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2529ddae-dc91-482e-a5f5-e345dcf2fa92
+ms.date: 06/08/2017
 ---
 
 

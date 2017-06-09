@@ -3,8 +3,9 @@ title: PivotValueCell.Parent Property (Excel)
 keywords: vbaxl10.chm917075
 f1_keywords:
 - vbaxl10.chm917075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 901d7c13-9055-4b70-8234-ee2814589a63
+ms.date: 06/08/2017
 ---
 
 

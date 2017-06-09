@@ -1,7 +1,8 @@
 ---
 title: Enumerations (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 22173213-5004-4e53-874c-0b60962d58d6
+ms.date: 06/08/2017
 ---
 
 

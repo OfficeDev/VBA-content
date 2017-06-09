@@ -3,10 +3,11 @@ title: TextRetrievalMode.Creator Property (Word)
 keywords: vbawd10.chm154731497
 f1_keywords:
 - vbawd10.chm154731497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.Creator
 ms.assetid: 5b83173f-2544-7a22-f189-11111faae807
+ms.date: 06/08/2017
 ---
 
 

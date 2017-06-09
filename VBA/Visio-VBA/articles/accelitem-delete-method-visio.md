@@ -3,10 +3,11 @@ title: AccelItem.Delete Method (Visio)
 keywords: vis_sdr.chm14516165
 f1_keywords:
 - vis_sdr.chm14516165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelItem.Delete
 ms.assetid: 67c37ef6-3aa5-3fb2-fe31-c3c546c11d44
+ms.date: 06/08/2017
 ---
 
 

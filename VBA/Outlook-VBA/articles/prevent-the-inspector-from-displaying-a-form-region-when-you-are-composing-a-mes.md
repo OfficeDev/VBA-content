@@ -1,7 +1,8 @@
 ---
 title: Prevent the Inspector from Displaying a Form Region When You are Composing a Message
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f3162118-9e58-47fb-836e-6b2699bcbd18
+ms.date: 06/08/2017
 ---
 
 

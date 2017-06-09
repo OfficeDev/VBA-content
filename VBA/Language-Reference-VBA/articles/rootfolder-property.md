@@ -3,10 +3,11 @@ title: RootFolder Property
 keywords: vblr6.chm2181961
 f1_keywords:
 - vblr6.chm2181961
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RootFolder
 ms.assetid: 2fbd6ddd-50da-6250-e706-1f43876e506f
+ms.date: 06/08/2017
 ---
 
 

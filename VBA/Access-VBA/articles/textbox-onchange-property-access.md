@@ -3,10 +3,11 @@ title: TextBox.OnChange Property (Access)
 keywords: vbaac10.chm11117
 f1_keywords:
 - vbaac10.chm11117
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnChange
 ms.assetid: ea25341f-fd30-62b1-476d-29febf4db4b4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OLEFormat.Parent Property (Publisher)
 keywords: vbapb10.chm4456450
 f1_keywords:
 - vbapb10.chm4456450
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.OLEFormat.Parent
 ms.assetid: 2ac5f8d6-336a-e8ce-cfa0-460955ed62e1
+ms.date: 06/08/2017
 ---
 
 

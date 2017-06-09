@@ -3,8 +3,9 @@ title: Parent Property, Project [vbapj.chm132449]
 keywords: vbapj.chm132449
 f1_keywords:
 - vbapj.chm132449
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b6afb34-f3cd-4ccc-8a87-d49b346ffc92
+ms.date: 06/08/2017
 ---
 
 

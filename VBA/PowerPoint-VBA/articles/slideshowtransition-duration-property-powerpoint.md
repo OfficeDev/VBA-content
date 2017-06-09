@@ -3,10 +3,11 @@ title: SlideShowTransition.Duration Property (PowerPoint)
 keywords: vbapp10.chm539011
 f1_keywords:
 - vbapp10.chm539011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.Duration
 ms.assetid: f8c47dda-9687-e437-8038-dae11c022914
+ms.date: 06/08/2017
 ---
 
 

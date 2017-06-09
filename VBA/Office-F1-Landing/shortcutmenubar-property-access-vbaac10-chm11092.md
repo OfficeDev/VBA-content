@@ -3,8 +3,9 @@ title: ShortcutMenuBar Property, Access [vbaac10.chm11092]
 keywords: vbaac10.chm11092
 f1_keywords:
 - vbaac10.chm11092
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0568f9d8-347d-4ae5-a3b7-0033bcd1c82d
+ms.date: 06/08/2017
 ---
 
 

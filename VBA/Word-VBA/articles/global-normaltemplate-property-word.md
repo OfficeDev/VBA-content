@@ -3,10 +3,11 @@ title: Global.NormalTemplate Property (Word)
 keywords: vbawd10.chm163119112
 f1_keywords:
 - vbawd10.chm163119112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.NormalTemplate
 ms.assetid: ddfcd859-5d4c-e5f7-a04e-70102c1780d2
+ms.date: 06/08/2017
 ---
 
 

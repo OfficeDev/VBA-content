@@ -3,10 +3,11 @@ title: AllowEditRange.Title Property (Excel)
 keywords: vbaxl10.chm725073
 f1_keywords:
 - vbaxl10.chm725073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRange.Title
 ms.assetid: 6b94f20d-285d-f043-bd44-b5296575352f
+ms.date: 06/08/2017
 ---
 
 

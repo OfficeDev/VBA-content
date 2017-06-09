@@ -3,8 +3,9 @@ title: Shift3 Property, Project [vbapj.chm132571]
 keywords: vbapj.chm132571
 f1_keywords:
 - vbapj.chm132571
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bc9a50de-e1f3-4926-bad8-55a13e307573
+ms.date: 06/08/2017
 ---
 
 

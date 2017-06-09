@@ -3,8 +3,9 @@ title: Y Cell (Connection Points Section), Visio [Vis_DSS.chm82251747]
 keywords: vis_dss.chm82251747
 f1_keywords:
 - vis_dss.chm82251747
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f9d1942d-5435-4a73-b52e-cbe6664ccfc4
+ms.date: 06/08/2017
 ---
 
 

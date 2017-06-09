@@ -3,10 +3,11 @@ title: Document.GrammaticalErrors Property (Word)
 keywords: vbawd10.chm158007393
 f1_keywords:
 - vbawd10.chm158007393
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.GrammaticalErrors
 ms.assetid: 24e708e3-6417-f105-43d3-9be8e450f189
+ms.date: 06/08/2017
 ---
 
 

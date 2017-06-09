@@ -1,9 +1,10 @@
 ---
 title: DistListItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AttachmentRead
 ms.assetid: 1ba5a70f-844d-c356-d7c4-4e8312b66662
+ms.date: 06/08/2017
 ---
 
 

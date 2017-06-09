@@ -3,10 +3,11 @@ title: Point.ApplyDataLabels Method (Word)
 keywords: vbawd10.chm262145922
 f1_keywords:
 - vbawd10.chm262145922
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.ApplyDataLabels
 ms.assetid: 86199dd9-f27b-c9bd-58e5-59b0873b88e3
+ms.date: 06/08/2017
 ---
 
 

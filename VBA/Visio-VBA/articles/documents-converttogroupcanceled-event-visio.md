@@ -3,10 +3,11 @@ title: Documents.ConvertToGroupCanceled Event (Visio)
 keywords: vis_sdr.chm10619370
 f1_keywords:
 - vis_sdr.chm10619370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.ConvertToGroupCanceled
 ms.assetid: a36f1001-9f0d-e3b2-438e-0034e6307d29
+ms.date: 06/08/2017
 ---
 
 

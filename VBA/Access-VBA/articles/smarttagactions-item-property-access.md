@@ -3,10 +3,11 @@ title: SmartTagActions.Item Property (Access)
 keywords: vbaac10.chm13300
 f1_keywords:
 - vbaac10.chm13300
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTagActions.Item
 ms.assetid: edfeace3-aafe-1332-7988-576b0d1dcb82
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: NavigationControl.Visible Property (Access)
 keywords: vbaac10.chm11056
 f1_keywords:
 - vbaac10.chm11056
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Visible
 ms.assetid: 91ea0e8c-63d1-3ca7-7f26-748f1651a1c6
+ms.date: 06/08/2017
 ---
 
 

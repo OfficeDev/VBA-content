@@ -3,10 +3,11 @@ title: Shapes.AddTextEffect Method (Excel)
 keywords: vbaxl10.chm638085
 f1_keywords:
 - vbaxl10.chm638085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddTextEffect
 ms.assetid: ace2bd71-455d-d187-7fb0-77eed879ff95
+ms.date: 06/08/2017
 ---
 
 

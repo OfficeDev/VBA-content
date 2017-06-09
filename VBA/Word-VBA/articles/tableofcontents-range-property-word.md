@@ -3,10 +3,11 @@ title: TableOfContents.Range Property (Word)
 keywords: vbawd10.chm152240137
 f1_keywords:
 - vbawd10.chm152240137
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.Range
 ms.assetid: 1e85e099-4997-56cc-7b10-b3a0080760b2
+ms.date: 06/08/2017
 ---
 
 

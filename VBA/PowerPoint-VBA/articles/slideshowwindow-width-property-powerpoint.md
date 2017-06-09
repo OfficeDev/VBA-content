@@ -3,10 +3,11 @@ title: SlideShowWindow.Width Property (PowerPoint)
 keywords: vbapp10.chm507008
 f1_keywords:
 - vbapp10.chm507008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Width
 ms.assetid: e9a340ec-f60f-21c8-4ca2-286725e53705
+ms.date: 06/08/2017
 ---
 
 

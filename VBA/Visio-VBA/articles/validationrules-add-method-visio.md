@@ -3,10 +3,11 @@ title: ValidationRules.Add Method (Visio)
 keywords: vis_sdr.chm18316005
 f1_keywords:
 - vis_sdr.chm18316005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRules.Add
 ms.assetid: 14b0ab24-5ff6-cde5-8311-ccf2989712c9
+ms.date: 06/08/2017
 ---
 
 

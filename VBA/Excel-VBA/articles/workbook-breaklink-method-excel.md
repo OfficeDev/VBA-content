@@ -3,10 +3,11 @@ title: Workbook.BreakLink Method (Excel)
 keywords: vbaxl10.chm199198
 f1_keywords:
 - vbaxl10.chm199198
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.BreakLink
 ms.assetid: 1e9d70c1-908e-92eb-26b8-d6ac753cc9c2
+ms.date: 06/08/2017
 ---
 
 

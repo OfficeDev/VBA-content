@@ -3,10 +3,11 @@ title: DataTable.HasBorderOutline Property (Excel)
 keywords: vbaxl10.chm626076
 f1_keywords:
 - vbaxl10.chm626076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataTable.HasBorderOutline
 ms.assetid: e98c1e9a-ff51-32eb-ab8a-aab92c07c82c
+ms.date: 06/08/2017
 ---
 
 

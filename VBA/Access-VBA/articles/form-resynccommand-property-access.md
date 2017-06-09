@@ -3,10 +3,11 @@ title: Form.ResyncCommand Property (Access)
 keywords: vbaac10.chm13486
 f1_keywords:
 - vbaac10.chm13486
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ResyncCommand
 ms.assetid: 0df53ea9-5771-0ccd-07ef-f33ad1082a61
+ms.date: 06/08/2017
 ---
 
 

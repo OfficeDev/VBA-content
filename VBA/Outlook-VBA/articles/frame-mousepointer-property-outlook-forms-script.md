@@ -1,7 +1,8 @@
 ---
 title: Frame.MousePointer Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5c58dd9b-14ba-14c1-74dd-8d00d1f3f175
+ms.date: 06/08/2017
 ---
 
 

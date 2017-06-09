@@ -3,10 +3,11 @@ title: HasLeaderLines Property
 keywords: vbagr10.chm66930
 f1_keywords:
 - vbagr10.chm66930
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasLeaderLines
 ms.assetid: 7bd99363-8845-f74f-2732-7570427d7a22
+ms.date: 06/08/2017
 ---
 
 

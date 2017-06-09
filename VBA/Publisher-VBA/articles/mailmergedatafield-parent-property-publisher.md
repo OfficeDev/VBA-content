@@ -3,10 +3,11 @@ title: MailMergeDataField.Parent Property (Publisher)
 keywords: vbapb10.chm6422531
 f1_keywords:
 - vbapb10.chm6422531
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.Parent
 ms.assetid: cca35fe6-b959-0cfe-85de-347db2655c38
+ms.date: 06/08/2017
 ---
 
 

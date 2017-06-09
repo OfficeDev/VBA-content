@@ -3,10 +3,11 @@ title: SeriesCollection.Item Method (Word)
 keywords: vbawd10.chm150405120
 f1_keywords:
 - vbawd10.chm150405120
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesCollection.Item
 ms.assetid: 28793a84-8afe-ba65-7264-baf57e6b72ae
+ms.date: 06/08/2017
 ---
 
 

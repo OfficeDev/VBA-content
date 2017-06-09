@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm1854
 f1_keywords:
 - vbaol11.chm1854
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.PrintOut
 ms.assetid: 403ef9de-a7cc-21ef-03a9-e7f8c83dce96
+ms.date: 06/08/2017
 ---
 
 

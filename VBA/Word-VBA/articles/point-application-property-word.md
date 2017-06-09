@@ -3,10 +3,11 @@ title: Point.Application Property (Word)
 keywords: vbawd10.chm262144148
 f1_keywords:
 - vbawd10.chm262144148
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Application
 ms.assetid: 9aa40408-6ec0-ca1f-4cb8-8de01729255a
+ms.date: 06/08/2017
 ---
 
 

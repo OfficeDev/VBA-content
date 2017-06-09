@@ -1,9 +1,10 @@
 ---
 title: Resource.Start1 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Start1
 ms.assetid: f6ffeef7-d920-feb5-ba87-6603cede152b
+ms.date: 06/08/2017
 ---
 
 

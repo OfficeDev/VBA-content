@@ -3,10 +3,11 @@ title: EmailOptions.AutoFormatAsYouTypeReplaceQuotes Property (Word)
 keywords: vbawd10.chm165347592
 f1_keywords:
 - vbawd10.chm165347592
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceQuotes
 ms.assetid: 34be4286-4d36-a338-f103-667d7b8b34a0
+ms.date: 06/08/2017
 ---
 
 

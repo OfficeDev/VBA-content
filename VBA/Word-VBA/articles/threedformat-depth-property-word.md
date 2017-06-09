@@ -3,10 +3,11 @@ title: ThreeDFormat.Depth Property (Word)
 keywords: vbawd10.chm164626532
 f1_keywords:
 - vbawd10.chm164626532
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Depth
 ms.assetid: 45fbea95-7685-d244-19b8-ef4c4560a26f
+ms.date: 06/08/2017
 ---
 
 

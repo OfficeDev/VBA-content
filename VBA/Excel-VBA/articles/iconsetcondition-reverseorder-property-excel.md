@@ -3,10 +3,11 @@ title: IconSetCondition.ReverseOrder Property (Excel)
 keywords: vbaxl10.chm812083
 f1_keywords:
 - vbaxl10.chm812083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.ReverseOrder
 ms.assetid: cd42262e-06b0-04d5-c962-00f937d0d5dc
+ms.date: 06/08/2017
 ---
 
 

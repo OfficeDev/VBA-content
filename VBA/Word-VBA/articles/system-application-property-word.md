@@ -3,10 +3,11 @@ title: System.Application Property (Word)
 keywords: vbawd10.chm154469352
 f1_keywords:
 - vbawd10.chm154469352
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Application
 ms.assetid: 48f3eeee-3913-4b1e-f78f-e2fe02735c0c
+ms.date: 06/08/2017
 ---
 
 

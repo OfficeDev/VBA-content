@@ -3,8 +3,9 @@ title: Field.Type Property (Publisher)
 keywords: vbapb10.chm6094853
 f1_keywords:
 - vbapb10.chm6094853
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 5a875159-e9a6-0fae-5ca9-cd88ea0cda10
+ms.date: 06/08/2017
 ---
 
 

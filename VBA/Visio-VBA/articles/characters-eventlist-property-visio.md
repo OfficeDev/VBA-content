@@ -3,10 +3,11 @@ title: Characters.EventList Property (Visio)
 keywords: vis_sdr.chm10213480
 f1_keywords:
 - vis_sdr.chm10213480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.EventList
 ms.assetid: 620a254a-9a8d-da0a-1274-305064afdb1c
+ms.date: 06/08/2017
 ---
 
 

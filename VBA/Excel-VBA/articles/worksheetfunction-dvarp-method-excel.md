@@ -3,10 +3,11 @@ title: WorksheetFunction.DVarP Method (Excel)
 keywords: vbaxl10.chm137150
 f1_keywords:
 - vbaxl10.chm137150
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DVarP
 ms.assetid: 4c81b0eb-8b3d-bd43-1b71-1a983ab7d044
+ms.date: 06/08/2017
 ---
 
 

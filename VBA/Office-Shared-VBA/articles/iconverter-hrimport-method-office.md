@@ -3,10 +3,11 @@ title: IConverter.HrImport Method (Office)
 keywords: vbaof11.chm333003
 f1_keywords:
 - vbaof11.chm333003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverter.HrImport
 ms.assetid: cc329008-286a-81aa-d9c6-b5cd3bf05e37
+ms.date: 06/08/2017
 ---
 
 

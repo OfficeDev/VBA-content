@@ -3,14 +3,15 @@ title: Unions not allowed in a subquery. (Error 3361)
 keywords: jeterr40.chm5003361
 f1_keywords:
 - jeterr40.chm5003361
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bcbdeac5-8676-3d64-9680-6ad91ba0faab
+ms.date: 06/08/2017
 ---
 
 
 # Unions not allowed in a subquery. (Error 3361)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

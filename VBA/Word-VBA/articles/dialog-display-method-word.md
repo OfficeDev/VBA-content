@@ -3,10 +3,11 @@ title: Dialog.Display Method (Word)
 keywords: vbawd10.chm163053906
 f1_keywords:
 - vbawd10.chm163053906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dialog.Display
 ms.assetid: a9aaa413-ed2f-6fcd-c03e-d76f97783f9a
+ms.date: 06/08/2017
 ---
 
 

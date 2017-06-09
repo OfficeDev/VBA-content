@@ -3,10 +3,11 @@ title: MailMerge.EditHeaderSource Method (Word)
 keywords: vbawd10.chm153092204
 f1_keywords:
 - vbawd10.chm153092204
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.EditHeaderSource
 ms.assetid: d1be3c68-b7f8-7591-2a1a-b5898f731fc6
+ms.date: 06/08/2017
 ---
 
 

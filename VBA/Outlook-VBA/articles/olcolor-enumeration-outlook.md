@@ -3,10 +3,11 @@ title: OlColor Enumeration (Outlook)
 keywords: vbaol11.chm3130
 f1_keywords:
 - vbaol11.chm3130
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlColor
 ms.assetid: b2a457b5-d331-58c4-f9cc-2d56c8edd5e4
+ms.date: 06/08/2017
 ---
 
 

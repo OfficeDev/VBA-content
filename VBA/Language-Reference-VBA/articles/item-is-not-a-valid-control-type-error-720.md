@@ -3,8 +3,9 @@ title: <Item> is not a valid control type (Error 720)
 keywords: vblr6.chm1117778
 f1_keywords:
 - vblr6.chm1117778
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 809266ae-eef8-74ee-e9ce-38f2490b1cbc
+ms.date: 06/08/2017
 ---
 
 

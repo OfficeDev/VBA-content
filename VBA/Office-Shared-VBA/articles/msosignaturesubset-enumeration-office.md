@@ -1,9 +1,10 @@
 ---
 title: MsoSignatureSubset Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoSignatureSubset
 ms.assetid: a62c91dc-44a1-e70d-01c2-e9a3888ca708
+ms.date: 06/08/2017
 ---
 
 

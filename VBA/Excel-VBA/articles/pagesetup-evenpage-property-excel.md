@@ -3,10 +3,11 @@ title: PageSetup.EvenPage Property (Excel)
 keywords: vbaxl10.chm473117
 f1_keywords:
 - vbaxl10.chm473117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.EvenPage
 ms.assetid: de940721-781f-085b-1249-3f641af737c3
+ms.date: 06/08/2017
 ---
 
 

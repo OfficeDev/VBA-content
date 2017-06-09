@@ -1,9 +1,10 @@
 ---
 title: WorkWeeks.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeeks.Item
 ms.assetid: 0d6d0d68-b930-20c9-06cf-da96f247d218
+ms.date: 06/08/2017
 ---
 
 

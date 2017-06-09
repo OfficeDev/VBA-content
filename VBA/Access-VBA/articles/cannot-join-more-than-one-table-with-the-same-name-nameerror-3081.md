@@ -3,14 +3,15 @@ title: Cannot join more than one table with the same name <name>. (Error 3081)
 keywords: jeterr40.chm5003081
 f1_keywords:
 - jeterr40.chm5003081
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a19d52f6-0255-9660-b649-a4406a4e5b83
+ms.date: 06/08/2017
 ---
 
 
 # Cannot join more than one table with the same name <name>. (Error 3081)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

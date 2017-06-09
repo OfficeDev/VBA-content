@@ -3,8 +3,9 @@ title: TextBkgndTrans Cell (Text Block Format Section), Visio [Vis_DSS.chm50125]
 keywords: vis_dss.chm50125
 f1_keywords:
 - vis_dss.chm50125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bea221ec-7d74-422f-9fd2-d5d2d92e3087
+ms.date: 06/08/2017
 ---
 
 

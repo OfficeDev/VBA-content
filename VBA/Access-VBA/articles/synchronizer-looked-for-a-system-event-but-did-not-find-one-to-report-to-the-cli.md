@@ -3,14 +3,15 @@ title: Synchronizer looked for a system event but did not find one to report to 
 keywords: jeterr40.chm5003534
 f1_keywords:
 - jeterr40.chm5003534
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dcdc868a-d5d9-0b89-c685-7f8c22a96d1b
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizer looked for a system event but did not find one to report to the client. (Error 3534)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

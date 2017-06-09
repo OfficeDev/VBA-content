@@ -3,10 +3,11 @@ title: NavigationModule.Position Property (Outlook)
 keywords: vbaol11.chm2809
 f1_keywords:
 - vbaol11.chm2809
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationModule.Position
 ms.assetid: cdf7eedb-18a4-028c-8663-eae70e466617
+ms.date: 06/08/2017
 ---
 
 

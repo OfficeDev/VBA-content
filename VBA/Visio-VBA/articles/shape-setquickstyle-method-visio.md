@@ -1,7 +1,8 @@
 ---
 title: Shape.SetQuickStyle Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: aebe80cb-fae9-0be7-e903-882f6eb58b63
+ms.date: 06/08/2017
 ---
 
 

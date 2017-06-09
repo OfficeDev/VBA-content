@@ -3,10 +3,11 @@ title: Application.ResourceAssignment Method (Project)
 keywords: vbapj.chm212
 f1_keywords:
 - vbapj.chm212
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceAssignment
 ms.assetid: aceb1802-4b5f-0ad3-bd14-ce77c24705fb
+ms.date: 06/08/2017
 ---
 
 

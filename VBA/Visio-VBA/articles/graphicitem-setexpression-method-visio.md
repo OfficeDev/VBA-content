@@ -3,10 +3,11 @@ title: GraphicItem.SetExpression Method (Visio)
 keywords: vis_sdr.chm16960430
 f1_keywords:
 - vis_sdr.chm16960430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.SetExpression
 ms.assetid: e0fd9a38-1fc0-3189-9def-64f2c181951d
+ms.date: 06/08/2017
 ---
 
 

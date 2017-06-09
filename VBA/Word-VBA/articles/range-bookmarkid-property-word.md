@@ -3,10 +3,11 @@ title: Range.BookmarkID Property (Word)
 keywords: vbawd10.chm157155636
 f1_keywords:
 - vbawd10.chm157155636
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.BookmarkID
 ms.assetid: 11157160-6cd5-38d7-dc92-be14399509f4
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.Restriction Property (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5e92a492-653d-27f1-8d3e-799987d911be
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ShapeRange.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Application
 ms.assetid: 6d226806-1452-3a6b-6a0f-ccf0ea0626c7
+ms.date: 06/08/2017
 ---
 
 

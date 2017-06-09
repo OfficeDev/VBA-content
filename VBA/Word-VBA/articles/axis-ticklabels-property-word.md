@@ -3,10 +3,11 @@ title: Axis.TickLabels Property (Word)
 keywords: vbawd10.chm113049650
 f1_keywords:
 - vbawd10.chm113049650
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.TickLabels
 ms.assetid: 5c363e25-71e3-4f89-bcd3-612855000f53
+ms.date: 06/08/2017
 ---
 
 

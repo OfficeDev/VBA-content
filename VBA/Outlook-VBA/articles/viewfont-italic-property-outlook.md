@@ -3,10 +3,11 @@ title: ViewFont.Italic Property (Outlook)
 keywords: vbaol11.chm2696
 f1_keywords:
 - vbaol11.chm2696
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Italic
 ms.assetid: d374bc9e-eba4-bd36-eda5-a95f5b91d094
+ms.date: 06/08/2017
 ---
 
 

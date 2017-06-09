@@ -3,10 +3,11 @@ title: LetterContent.SenderJobTitle Property (Word)
 keywords: vbawd10.chm161546363
 f1_keywords:
 - vbawd10.chm161546363
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.SenderJobTitle
 ms.assetid: 6d617773-31b4-084a-0dfd-d539c5f8f6d4
+ms.date: 06/08/2017
 ---
 
 

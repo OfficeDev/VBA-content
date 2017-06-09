@@ -3,10 +3,11 @@ title: Shape.WebCommandButton Property (Publisher)
 keywords: vbapb10.chm2228340
 f1_keywords:
 - vbapb10.chm2228340
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebCommandButton
 ms.assetid: c20b937b-6f53-fdc1-830a-4044831c351a
+ms.date: 06/08/2017
 ---
 
 

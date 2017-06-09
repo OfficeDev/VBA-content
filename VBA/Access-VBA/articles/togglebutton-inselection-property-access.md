@@ -3,10 +3,11 @@ title: ToggleButton.InSelection Property (Access)
 keywords: vbaac10.chm11746
 f1_keywords:
 - vbaac10.chm11746
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.InSelection
 ms.assetid: c168b14d-c10d-1a0a-96cb-69555c8657d0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.CentimetersToPoints Method (Excel)
 keywords: vbaxl10.chm133090
 f1_keywords:
 - vbaxl10.chm133090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CentimetersToPoints
 ms.assetid: 2693973c-7d80-8883-6959-afabdb51b9b2
+ms.date: 06/08/2017
 ---
 
 

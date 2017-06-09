@@ -3,10 +3,11 @@ title: PivotTable.PreserveFormatting Property (Excel)
 keywords: vbaxl10.chm235122
 f1_keywords:
 - vbaxl10.chm235122
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PreserveFormatting
 ms.assetid: d37d215a-b031-5a20-f302-471df3a3b2a2
+ms.date: 06/08/2017
 ---
 
 

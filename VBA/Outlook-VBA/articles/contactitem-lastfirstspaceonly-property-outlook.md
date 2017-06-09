@@ -3,10 +3,11 @@ title: ContactItem.LastFirstSpaceOnly Property (Outlook)
 keywords: vbaol11.chm1030
 f1_keywords:
 - vbaol11.chm1030
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastFirstSpaceOnly
 ms.assetid: ab1e1edc-23af-ceaf-64e7-d8604c689752
+ms.date: 06/08/2017
 ---
 
 

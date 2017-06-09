@@ -3,8 +3,9 @@ title: Frame.CanRedo Property (Outlook Forms Script)
 keywords: olfm10.chm2000860
 f1_keywords:
 - olfm10.chm2000860
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ec4cff9e-6a48-7055-4e28-9c4c5cb46b24
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.SmartDocument Property (Word)
 keywords: vbawd10.chm158007758
 f1_keywords:
 - vbawd10.chm158007758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SmartDocument
 ms.assetid: f9671c26-208e-1682-c792-661b701308a7
+ms.date: 06/08/2017
 ---
 
 

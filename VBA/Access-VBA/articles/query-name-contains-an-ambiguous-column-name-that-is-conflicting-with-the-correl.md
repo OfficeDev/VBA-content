@@ -3,14 +3,15 @@ title: Query <name> contains an ambiguous column name that is conflicting with t
 keywords: jeterr40.chm5003807
 f1_keywords:
 - jeterr40.chm5003807
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 40113ce0-9911-8bb5-ffbf-35b558ca26c8
+ms.date: 06/08/2017
 ---
 
 
 # Query <name> contains an ambiguous column name that is conflicting with the correlation (alias) name <name>. (Error 3807)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

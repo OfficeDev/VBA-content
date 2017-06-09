@@ -3,10 +3,11 @@ title: Options.UpdateLinksAtPrint Property (Word)
 keywords: vbawd10.chm162988068
 f1_keywords:
 - vbawd10.chm162988068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UpdateLinksAtPrint
 ms.assetid: 45617b04-67ef-00f9-0161-9757fb12d1fa
+ms.date: 06/08/2017
 ---
 
 

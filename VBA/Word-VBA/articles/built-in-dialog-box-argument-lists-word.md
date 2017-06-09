@@ -3,8 +3,9 @@ title: Built-in Dialog Box Argument Lists (Word)
 keywords: vbawd10.chm5210109
 f1_keywords:
 - vbawd10.chm5210109
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 0d8c9f48-85cc-6744-a699-668040313862
+ms.date: 06/08/2017
 ---
 
 

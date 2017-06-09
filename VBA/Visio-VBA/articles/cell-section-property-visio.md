@@ -3,10 +3,11 @@ title: Cell.Section Property (Visio)
 keywords: vis_sdr.chm10151140
 f1_keywords:
 - vis_sdr.chm10151140
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Section
 ms.assetid: aab8e98c-e28b-033e-1c29-852f5ad2861f
+ms.date: 06/08/2017
 ---
 
 

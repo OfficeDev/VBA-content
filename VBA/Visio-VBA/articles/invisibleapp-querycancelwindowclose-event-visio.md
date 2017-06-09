@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.QueryCancelWindowClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelWindowClose
 ms.assetid: 78fb3502-4827-5add-1ff1-5dd3e3b6f143
+ms.date: 06/08/2017
 ---
 
 

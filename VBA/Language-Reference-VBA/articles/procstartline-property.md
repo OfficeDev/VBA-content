@@ -3,10 +3,11 @@ title: ProcStartLine Property
 keywords: vbob6.chm104016
 f1_keywords:
 - vbob6.chm104016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ProcStartLine
 ms.assetid: 1a28f3e2-77a3-709a-5229-7a1a2d5afa48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Curve.Application Property (Visio)
 keywords: vis_sdr.chm15513090
 f1_keywords:
 - vis_sdr.chm15513090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Curve.Application
 ms.assetid: a521ec53-a31b-c2a3-6f07-c016b430be25
+ms.date: 06/08/2017
 ---
 
 

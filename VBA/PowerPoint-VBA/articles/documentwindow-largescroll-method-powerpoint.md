@@ -3,10 +3,11 @@ title: DocumentWindow.LargeScroll Method (PowerPoint)
 keywords: vbapp10.chm511017
 f1_keywords:
 - vbapp10.chm511017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.LargeScroll
 ms.assetid: b74ecd74-acec-0d36-68c7-1848a99fe4c1
+ms.date: 06/08/2017
 ---
 
 

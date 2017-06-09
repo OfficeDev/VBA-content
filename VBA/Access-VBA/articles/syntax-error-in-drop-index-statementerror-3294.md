@@ -3,14 +3,15 @@ title: Syntax error in DROP INDEX statement. (Error 3294)
 keywords: jeterr40.chm5003294
 f1_keywords:
 - jeterr40.chm5003294
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bded3886-ae0f-924a-1a9c-ccb4d3893dfe
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in DROP INDEX statement. (Error 3294)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

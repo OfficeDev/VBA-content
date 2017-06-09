@@ -1,7 +1,8 @@
 ---
 title: ComboBox Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a1b81d23-dc10-46cb-b6b3-29fc8968d4ad
+ms.date: 06/08/2017
 ---
 
 

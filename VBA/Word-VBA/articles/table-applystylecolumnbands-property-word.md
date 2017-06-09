@@ -3,10 +3,11 @@ title: Table.ApplyStyleColumnBands Property (Word)
 keywords: vbawd10.chm156303567
 f1_keywords:
 - vbawd10.chm156303567
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.ApplyStyleColumnBands
 ms.assetid: da3a77b6-ae71-9552-b04c-06b8812c1dcd
+ms.date: 06/08/2017
 ---
 
 

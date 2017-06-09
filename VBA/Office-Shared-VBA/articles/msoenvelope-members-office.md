@@ -1,7 +1,8 @@
 ---
 title: MsoEnvelope Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 49205dd9-e396-2c17-3b7c-f127d4de9607
+ms.date: 06/08/2017
 ---
 
 

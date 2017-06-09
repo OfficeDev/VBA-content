@@ -3,10 +3,11 @@ title: MailMessage.Reply Method (Word)
 keywords: vbawd10.chm163184982
 f1_keywords:
 - vbawd10.chm163184982
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.Reply
 ms.assetid: a05e3352-84bb-8774-c841-d2b6093dcf9b
+ms.date: 06/08/2017
 ---
 
 

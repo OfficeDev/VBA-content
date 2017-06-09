@@ -3,10 +3,11 @@ title: Rows.Application Property (Publisher)
 keywords: vbapb10.chm4915201
 f1_keywords:
 - vbapb10.chm4915201
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Rows.Application
 ms.assetid: 19a4d108-7063-a863-9da3-013687264db7
+ms.date: 06/08/2017
 ---
 
 

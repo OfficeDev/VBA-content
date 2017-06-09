@@ -1,7 +1,8 @@
 ---
 title: ThemeFonts Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 07414d9c-5aa4-4fd7-8e42-930e23b17c73
+ms.date: 06/08/2017
 ---
 
 

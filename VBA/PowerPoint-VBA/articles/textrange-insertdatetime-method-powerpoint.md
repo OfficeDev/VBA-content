@@ -3,10 +3,11 @@ title: TextRange.InsertDateTime Method (PowerPoint)
 keywords: vbapp10.chm569020
 f1_keywords:
 - vbapp10.chm569020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.InsertDateTime
 ms.assetid: b1f6c2db-2524-f76e-eee2-8f177b08dcde
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: VisWebPageSettings.StartPage Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.StartPage
 ms.assetid: 7db581ab-f656-f97a-79b6-17a1fca513e8
+ms.date: 06/08/2017
 ---
 
 

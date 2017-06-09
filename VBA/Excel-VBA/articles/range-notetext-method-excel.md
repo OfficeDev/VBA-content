@@ -3,10 +3,11 @@ title: Range.NoteText Method (Excel)
 keywords: vbaxl10.chm144166
 f1_keywords:
 - vbaxl10.chm144166
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.NoteText
 ms.assetid: cd0e5073-7d04-a52c-f375-f7c59bc8f88a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ActivePane Property, Project [vbapj.chm131369]
 keywords: vbapj.chm131369
 f1_keywords:
 - vbapj.chm131369
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2f41d7bc-11a8-4a1c-b8cc-4d5baf2fa71b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Workbook.ExportAsFixedFormat Method (Excel)
 keywords: vbaxl10.chm199260
 f1_keywords:
 - vbaxl10.chm199260
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ExportAsFixedFormat
 ms.assetid: 4d72247c-bab9-3475-4792-8899c959393c
+ms.date: 06/08/2017
 ---
 
 

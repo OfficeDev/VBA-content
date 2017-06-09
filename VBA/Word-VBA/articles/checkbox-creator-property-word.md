@@ -3,10 +3,11 @@ title: CheckBox.Creator Property (Word)
 keywords: vbawd10.chm153486313
 f1_keywords:
 - vbawd10.chm153486313
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CheckBox.Creator
 ms.assetid: f06ad900-28b8-2823-0c6a-c535fcae6a4f
+ms.date: 06/08/2017
 ---
 
 

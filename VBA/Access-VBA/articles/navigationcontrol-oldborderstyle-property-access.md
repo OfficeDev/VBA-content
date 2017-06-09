@@ -3,10 +3,11 @@ title: NavigationControl.OldBorderStyle Property (Access)
 keywords: vbaac10.chm11079
 f1_keywords:
 - vbaac10.chm11079
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.OldBorderStyle
 ms.assetid: 57f378e9-7211-1d05-15d0-0bc1b2f2f4b3
+ms.date: 06/08/2017
 ---
 
 

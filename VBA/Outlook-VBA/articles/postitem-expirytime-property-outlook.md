@@ -3,10 +3,11 @@ title: PostItem.ExpiryTime Property (Outlook)
 keywords: vbaol11.chm1547
 f1_keywords:
 - vbaol11.chm1547
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ExpiryTime
 ms.assetid: 2e6c6759-64b2-7559-6b19-7440e2a359d5
+ms.date: 06/08/2017
 ---
 
 

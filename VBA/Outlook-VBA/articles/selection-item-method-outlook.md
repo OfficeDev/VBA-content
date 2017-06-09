@@ -3,10 +3,11 @@ title: Selection.Item Method (Outlook)
 keywords: vbaol11.chm86
 f1_keywords:
 - vbaol11.chm86
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection.Item
 ms.assetid: 981b107a-14d7-2dd3-6449-2737b2801c3c
+ms.date: 06/08/2017
 ---
 
 

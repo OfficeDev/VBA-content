@@ -3,14 +3,15 @@ title: Cannot create a relationship. (Error 3300)
 keywords: jeterr40.chm5003300
 f1_keywords:
 - jeterr40.chm5003300
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 30236b8c-1062-587d-1b19-700893711450
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create a relationship. (Error 3300)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

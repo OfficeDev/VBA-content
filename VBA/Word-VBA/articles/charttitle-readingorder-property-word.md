@@ -3,10 +3,11 @@ title: ChartTitle.ReadingOrder Property (Word)
 keywords: vbawd10.chm65273874
 f1_keywords:
 - vbawd10.chm65273874
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.ReadingOrder
 ms.assetid: adda6dec-148f-b985-45cf-892e2e7b3b9a
+ms.date: 06/08/2017
 ---
 
 

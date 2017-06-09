@@ -3,10 +3,11 @@ title: SharedWorkspaceFile.ModifiedBy Property (Office)
 keywords: vbaof11.chm266004
 f1_keywords:
 - vbaof11.chm266004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.ModifiedBy
 ms.assetid: d6533854-ddd9-3a41-b74b-94f282779236
+ms.date: 06/08/2017
 ---
 
 

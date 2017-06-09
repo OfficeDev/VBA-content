@@ -3,8 +3,9 @@ title: Deftype Statements, Office Shared [vblr6.chm1008788]
 keywords: vblr6.chm1008788
 f1_keywords:
 - vblr6.chm1008788
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83b873c5-a55d-4473-805f-ee5bf081cdd9
+ms.date: 06/08/2017
 ---
 
 

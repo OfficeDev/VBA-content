@@ -3,10 +3,11 @@ title: LayoutGuides.MarginBottom Property (Publisher)
 keywords: vbapb10.chm1114115
 f1_keywords:
 - vbapb10.chm1114115
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.MarginBottom
 ms.assetid: 9d11c4d9-8f53-7882-be40-200833a29fb6
+ms.date: 06/08/2017
 ---
 
 

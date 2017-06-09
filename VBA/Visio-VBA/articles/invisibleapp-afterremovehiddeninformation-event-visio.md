@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.AfterRemoveHiddenInformation Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AfterRemoveHiddenInformation
 ms.assetid: 806422e1-66ce-5bed-da8d-5fcdbb2cd662
+ms.date: 06/08/2017
 ---
 
 

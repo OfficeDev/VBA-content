@@ -3,10 +3,11 @@ title: OMathFunction.EqArray Property (Word)
 keywords: vbawd10.chm22151278
 f1_keywords:
 - vbawd10.chm22151278
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.EqArray
 ms.assetid: f3ef80e9-aa4b-b783-e351-a6fe669846ba
+ms.date: 06/08/2017
 ---
 
 

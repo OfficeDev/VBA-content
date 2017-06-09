@@ -3,10 +3,11 @@ title: WizardProperties.Count Property (Publisher)
 keywords: vbapb10.chm1507331
 f1_keywords:
 - vbapb10.chm1507331
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardProperties.Count
 ms.assetid: 835f3467-ec89-54d2-c685-3021e6267121
+ms.date: 06/08/2017
 ---
 
 

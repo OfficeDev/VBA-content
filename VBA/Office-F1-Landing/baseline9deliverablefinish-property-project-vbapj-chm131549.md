@@ -3,8 +3,9 @@ title: Baseline9DeliverableFinish Property, Project [vbapj.chm131549]
 keywords: vbapj.chm131549
 f1_keywords:
 - vbapj.chm131549
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f458834a-5e72-44d0-a86f-6f677aca20e3
+ms.date: 06/08/2017
 ---
 
 

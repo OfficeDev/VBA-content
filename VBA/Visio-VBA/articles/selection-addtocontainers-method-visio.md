@@ -3,10 +3,11 @@ title: Selection.AddToContainers Method (Visio)
 keywords: vis_sdr.chm11162215
 f1_keywords:
 - vis_sdr.chm11162215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.AddToContainers
 ms.assetid: 7f3e739f-a573-049c-9f54-9e93a401191f
+ms.date: 06/08/2017
 ---
 
 

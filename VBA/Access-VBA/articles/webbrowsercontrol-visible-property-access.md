@@ -3,10 +3,11 @@ title: WebBrowserControl.Visible Property (Access)
 keywords: vbaac10.chm14528
 f1_keywords:
 - vbaac10.chm14528
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Visible
 ms.assetid: e46ef067-30a7-a0ea-f2ec-e10ddef4bd6c
+ms.date: 06/08/2017
 ---
 
 

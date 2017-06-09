@@ -3,10 +3,11 @@ title: AccelTables.AddAtID Method (Visio)
 keywords: vis_sdr.chm14816020
 f1_keywords:
 - vis_sdr.chm14816020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelTables.AddAtID
 ms.assetid: 581526c5-eebb-f79a-e48c-b716be719c6f
+ms.date: 06/08/2017
 ---
 
 

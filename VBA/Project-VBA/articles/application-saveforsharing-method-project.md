@@ -3,10 +3,11 @@ title: Application.SaveForSharing Method (Project)
 keywords: vbapj.chm2133
 f1_keywords:
 - vbapj.chm2133
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SaveForSharing
 ms.assetid: a4f46990-aff1-52da-d1c7-7fd99e85d97a
+ms.date: 06/08/2017
 ---
 
 

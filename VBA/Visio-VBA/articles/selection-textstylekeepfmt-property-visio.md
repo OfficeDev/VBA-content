@@ -3,10 +3,11 @@ title: Selection.TextStyleKeepFmt Property (Visio)
 keywords: vis_sdr.chm11114535
 f1_keywords:
 - vis_sdr.chm11114535
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.TextStyleKeepFmt
 ms.assetid: d9900f73-dc39-e717-d923-78a9b275271e
+ms.date: 06/08/2017
 ---
 
 

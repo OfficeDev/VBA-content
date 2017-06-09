@@ -3,10 +3,11 @@ title: Application.SelectBeginning Method (Project)
 keywords: vbapj.chm2041
 f1_keywords:
 - vbapj.chm2041
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectBeginning
 ms.assetid: 4adf20ae-4fd2-818a-da8c-133c08cad7fb
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Month.Shift3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month.Shift3
 ms.assetid: a7329e45-c9e0-0e70-0ead-3a3f914ed352
+ms.date: 06/08/2017
 ---
 
 

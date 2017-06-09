@@ -3,8 +3,9 @@ title: Invalid length for fixed-length string
 keywords: vblr6.chm1040112
 f1_keywords:
 - vblr6.chm1040112
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c67c5693-92eb-3701-dc2b-fb3f5e99e3a7
+ms.date: 06/08/2017
 ---
 
 

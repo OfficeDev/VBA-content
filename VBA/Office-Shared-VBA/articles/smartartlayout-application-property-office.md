@@ -1,9 +1,10 @@
 ---
 title: SmartArtLayout.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayout.Application
 ms.assetid: 4834cf2d-413e-bfcc-e824-d95b4a33c6c1
+ms.date: 06/08/2017
 ---
 
 

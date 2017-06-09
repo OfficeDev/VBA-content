@@ -3,10 +3,11 @@ title: WebCheckBox.Application Property (Publisher)
 keywords: vbapb10.chm4325377
 f1_keywords:
 - vbapb10.chm4325377
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCheckBox.Application
 ms.assetid: c011e902-9627-62ae-00cb-2ac4cb05b781
+ms.date: 06/08/2017
 ---
 
 

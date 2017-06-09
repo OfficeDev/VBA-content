@@ -3,16 +3,17 @@ title: Constants Enumeration (Access)
 keywords: vbaac10.chm10006
 f1_keywords:
 - vbaac10.chm10006
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Constants
 ms.assetid: 4fa47253-5cfb-a8aa-c3f4-e402465efbc9
+ms.date: 06/08/2017
 ---
 
 
 # Constants Enumeration (Access)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Paragraph.Hyphenation Property (Word)
 keywords: vbawd10.chm156696689
 f1_keywords:
 - vbawd10.chm156696689
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Hyphenation
 ms.assetid: 984aa078-9b18-7b96-d2d6-0cd603719c6b
+ms.date: 06/08/2017
 ---
 
 

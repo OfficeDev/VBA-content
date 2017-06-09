@@ -3,10 +3,11 @@ title: Application.AutoRecover Property (Excel)
 keywords: vbaxl10.chm133276
 f1_keywords:
 - vbaxl10.chm133276
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AutoRecover
 ms.assetid: bc2453fa-4319-c1da-5ad5-2efb306c3063
+ms.date: 06/08/2017
 ---
 
 

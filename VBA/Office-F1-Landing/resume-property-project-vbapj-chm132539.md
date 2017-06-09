@@ -3,8 +3,9 @@ title: Resume Property, Project [vbapj.chm132539]
 keywords: vbapj.chm132539
 f1_keywords:
 - vbapj.chm132539
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0d662833-341a-40c1-9de0-3096a909f8b9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContactItem.MailingAddressCity Property (Outlook)
 keywords: vbaol11.chm1035
 f1_keywords:
 - vbaol11.chm1035
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MailingAddressCity
 ms.assetid: f9b8510a-998a-bf7e-9fa5-f567f9d784bc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ComboBox.IsHyperlink Property (Access)
 keywords: vbaac10.chm11471
 f1_keywords:
 - vbaac10.chm11471
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.IsHyperlink
 ms.assetid: 005d21a1-c44c-c0a6-f625-2b3f8f4f8f91
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Display a Custom Dialog Box When the User Deletes a Record
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 512b324b-fe2f-b086-78d2-4c09933f5d25
+ms.date: 06/08/2017
 ---
 
 

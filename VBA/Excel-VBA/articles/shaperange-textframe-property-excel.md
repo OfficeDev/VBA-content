@@ -3,10 +3,11 @@ title: ShapeRange.TextFrame Property (Excel)
 keywords: vbaxl10.chm640097
 f1_keywords:
 - vbaxl10.chm640097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.TextFrame
 ms.assetid: b72b9c3e-c41c-dce9-46ba-ee156ba52676
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.BlackWhiteMode Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 495fff2f-d192-ad5a-d8a8-7056878b0169
+ms.date: 06/08/2017
 ---
 
 

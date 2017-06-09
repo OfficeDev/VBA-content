@@ -1,9 +1,10 @@
 ---
 title: Task.Type Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Type
 ms.assetid: 04a44733-c528-5887-113e-bdc70db8bb7a
+ms.date: 06/08/2017
 ---
 
 

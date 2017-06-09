@@ -3,10 +3,11 @@ title: PresetTextured Method
 keywords: vbagr10.chm3077629
 f1_keywords:
 - vbagr10.chm3077629
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PresetTextured
 ms.assetid: 4f6abf8c-c09e-6ef8-abb1-0cc643e6458b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: VisBuiltInStencilTypes Enumeration (Visio)
 keywords: vis_sdr.chm70650
 f1_keywords:
 - vis_sdr.chm70650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisBuiltInStencilTypes
 ms.assetid: ddd657ba-5497-199d-ddd4-490c28784433
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListLevel Object (Word)
 keywords: vbawd10.chm2445
 f1_keywords:
 - vbawd10.chm2445
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel
 ms.assetid: 0cd152cb-6c25-50cb-7c1d-8b6d9734505b
+ms.date: 06/08/2017
 ---
 
 

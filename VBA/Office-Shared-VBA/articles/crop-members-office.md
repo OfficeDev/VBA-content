@@ -1,7 +1,8 @@
 ---
 title: Crop Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd31aced-3364-657b-a5cd-1edf21d67029
+ms.date: 06/08/2017
 ---
 
 

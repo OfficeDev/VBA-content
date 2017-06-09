@@ -1,9 +1,10 @@
 ---
 title: XlTextVisualLayoutType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlTextVisualLayoutType
 ms.assetid: e4a43bec-661e-4e6e-1fb2-252336f10de4
+ms.date: 06/08/2017
 ---
 
 

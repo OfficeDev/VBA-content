@@ -3,10 +3,11 @@ title: Selection.Copy Method (Visio)
 keywords: vis_sdr.chm11151010
 f1_keywords:
 - vis_sdr.chm11151010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Copy
 ms.assetid: e7d9ab14-7e64-f1fa-7813-62caee133b57
+ms.date: 06/08/2017
 ---
 
 

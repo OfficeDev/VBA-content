@@ -3,10 +3,11 @@ title: PictureFormat Object (Excel)
 keywords: vbaxl10.chm113000
 f1_keywords:
 - vbaxl10.chm113000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat
 ms.assetid: 7e8ec723-b6e0-fdc9-ff4e-22cbb31be4df
+ms.date: 06/08/2017
 ---
 
 

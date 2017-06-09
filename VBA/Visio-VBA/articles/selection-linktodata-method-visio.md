@@ -3,10 +3,11 @@ title: Selection.LinkToData Method (Visio)
 keywords: vis_sdr.chm11160190
 f1_keywords:
 - vis_sdr.chm11160190
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.LinkToData
 ms.assetid: 1aa42548-2f3a-015d-e618-c0e103ffaea3
+ms.date: 06/08/2017
 ---
 
 

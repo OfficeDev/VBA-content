@@ -3,10 +3,11 @@ title: PageSetup.Zoom Property (Excel)
 keywords: vbaxl10.chm473103
 f1_keywords:
 - vbaxl10.chm473103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.Zoom
 ms.assetid: 3deebce5-8605-c549-371c-033848073ffe
+ms.date: 06/08/2017
 ---
 
 

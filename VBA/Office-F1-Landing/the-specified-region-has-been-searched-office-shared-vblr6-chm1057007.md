@@ -3,8 +3,9 @@ title: The specified region has been searched, Office Shared [vblr6.chm1057007]
 keywords: vblr6.chm1057007
 f1_keywords:
 - vblr6.chm1057007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e91ebaa2-f8ab-4e4b-bf57-81eb1d2b2c27
+ms.date: 06/08/2017
 ---
 
 

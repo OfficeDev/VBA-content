@@ -1,9 +1,10 @@
 ---
 title: GlowFormat.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GlowFormat.Application
 ms.assetid: 561823d4-9b41-b9ca-71f4-ccb2a12e3ce9
+ms.date: 06/08/2017
 ---
 
 

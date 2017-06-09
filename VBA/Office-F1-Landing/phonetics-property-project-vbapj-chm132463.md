@@ -3,8 +3,9 @@ title: Phonetics Property, Project [vbapj.chm132463]
 keywords: vbapj.chm132463
 f1_keywords:
 - vbapj.chm132463
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2e807359-7290-487d-bcee-63f90a74a920
+ms.date: 06/08/2017
 ---
 
 

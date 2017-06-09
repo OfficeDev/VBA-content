@@ -3,10 +3,11 @@ title: CalendarView.DayWeekTimeScale Property (Outlook)
 keywords: vbaol11.chm3025
 f1_keywords:
 - vbaol11.chm3025
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.DayWeekTimeScale
 ms.assetid: 94f2aad5-6699-82e9-40a4-3c3c13d80684
+ms.date: 06/08/2017
 ---
 
 

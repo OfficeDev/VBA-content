@@ -3,10 +3,11 @@ title: Page.Shapes Property (Publisher)
 keywords: vbapb10.chm393219
 f1_keywords:
 - vbapb10.chm393219
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Shapes
 ms.assetid: 4e48d4cf-d7b6-9099-ddee-46a79e7eb7bf
+ms.date: 06/08/2017
 ---
 
 

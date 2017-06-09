@@ -3,10 +3,11 @@ title: Application.OnDataChangeDelay Property (Visio)
 keywords: vis_sdr.chm10013970
 f1_keywords:
 - vis_sdr.chm10013970
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.OnDataChangeDelay
 ms.assetid: 14952e41-445a-77ff-30f7-e7aa6d8fcc32
+ms.date: 06/08/2017
 ---
 
 

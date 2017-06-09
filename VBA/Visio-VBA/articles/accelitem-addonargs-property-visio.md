@@ -3,10 +3,11 @@ title: AccelItem.AddOnArgs Property (Visio)
 keywords: vis_sdr.chm14513045
 f1_keywords:
 - vis_sdr.chm14513045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelItem.AddOnArgs
 ms.assetid: ebc91b1e-7780-1cdd-04dc-4a859c8929ff
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.TickLabelSpacing Property (PowerPoint)
 keywords: vbapp10.chm682030
 f1_keywords:
 - vbapp10.chm682030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.TickLabelSpacing
 ms.assetid: 9a6694cb-bb6c-fc5d-a2a3-656327121581
+ms.date: 06/08/2017
 ---
 
 

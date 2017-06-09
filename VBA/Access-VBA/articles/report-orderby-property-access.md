@@ -3,10 +3,11 @@ title: Report.OrderBy Property (Access)
 keywords: vbaac10.chm13692
 f1_keywords:
 - vbaac10.chm13692
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OrderBy
 ms.assetid: 1939157c-12ad-2e58-bf4c-22c04a6c4366
+ms.date: 06/08/2017
 ---
 
 

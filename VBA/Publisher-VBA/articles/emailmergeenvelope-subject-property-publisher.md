@@ -3,10 +3,11 @@ title: EmailMergeEnvelope.Subject Property (Publisher)
 keywords: vbapb10.chm9043973
 f1_keywords:
 - vbapb10.chm9043973
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Subject
 ms.assetid: 3ffcaa88-2130-97d2-5a01-a23b09465e64
+ms.date: 06/08/2017
 ---
 
 

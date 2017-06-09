@@ -3,10 +3,11 @@ title: AboveAverage.Borders Property (Excel)
 keywords: vbaxl10.chm824078
 f1_keywords:
 - vbaxl10.chm824078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.Borders
 ms.assetid: b6edebdf-e1cd-adaa-e8d6-f00c51e6060b
+ms.date: 06/08/2017
 ---
 
 

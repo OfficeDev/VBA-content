@@ -3,10 +3,11 @@ title: SubForm.BorderWidth Property (Access)
 keywords: vbaac10.chm11945
 f1_keywords:
 - vbaac10.chm11945
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.BorderWidth
 ms.assetid: 08ba4fa1-1672-47b3-b1fe-21520d60b7c8
+ms.date: 06/08/2017
 ---
 
 

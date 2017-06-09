@@ -3,10 +3,11 @@ title: ListLevels.Creator Property (Word)
 keywords: vbawd10.chm160302057
 f1_keywords:
 - vbawd10.chm160302057
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevels.Creator
 ms.assetid: b349e652-b3fa-1a0c-ba81-7331f185c26b
+ms.date: 06/08/2017
 ---
 
 

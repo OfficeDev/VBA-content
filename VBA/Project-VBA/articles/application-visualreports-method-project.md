@@ -3,10 +3,11 @@ title: Application.VisualReports Method (Project)
 keywords: vbapj.chm2137
 f1_keywords:
 - vbapj.chm2137
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.VisualReports
 ms.assetid: 4934cdcf-06b0-020c-3741-4ef70944cf98
+ms.date: 06/08/2017
 ---
 
 

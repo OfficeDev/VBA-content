@@ -1,7 +1,8 @@
 ---
 title: Apply a Filter When Opening a Form or Report
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d7a43e62-3003-d411-2128-dffe0536e119
+ms.date: 06/08/2017
 ---
 
 

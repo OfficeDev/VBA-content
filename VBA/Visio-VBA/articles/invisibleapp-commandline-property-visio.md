@@ -3,10 +3,11 @@ title: InvisibleApp.CommandLine Property (Visio)
 keywords: vis_sdr.chm17513280
 f1_keywords:
 - vis_sdr.chm17513280
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CommandLine
 ms.assetid: fb3646b4-5191-71b2-1d6c-23764e764865
+ms.date: 06/08/2017
 ---
 
 

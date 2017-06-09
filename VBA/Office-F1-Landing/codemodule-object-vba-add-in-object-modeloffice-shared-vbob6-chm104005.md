@@ -3,8 +3,9 @@ title: CodeModule Object (VBA Add-In Object Model), Office Shared [vbob6.chm1040
 keywords: vbob6.chm104005
 f1_keywords:
 - vbob6.chm104005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04b725d2-2e98-4aed-bf78-b738292445a4
+ms.date: 06/08/2017
 ---
 
 

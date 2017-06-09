@@ -3,8 +3,9 @@ title: One or more instances of this object are running. Can't remove it at this
 keywords: vblr6.chm60007
 f1_keywords:
 - vblr6.chm60007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 33569c2c-02d6-0005-f437-1080f781611b
+ms.date: 06/08/2017
 ---
 
 

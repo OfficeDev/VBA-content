@@ -3,10 +3,11 @@ title: AllModules.Item Property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllModules.Item
 ms.assetid: 9dfffe9b-afb2-a7e8-04f4-fbedb12a14a9
+ms.date: 06/08/2017
 ---
 
 

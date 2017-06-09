@@ -3,8 +3,9 @@ title: Help Menu
 keywords: vbui6.chm2056466
 f1_keywords:
 - vbui6.chm2056466
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e51c9ca6-7294-2890-9780-fd89cec3bc84
+ms.date: 06/08/2017
 ---
 
 

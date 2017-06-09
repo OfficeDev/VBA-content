@@ -3,10 +3,11 @@ title: Shape.UpdateAlignmentBox Method (Visio)
 keywords: vis_sdr.chm11216635
 f1_keywords:
 - vis_sdr.chm11216635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.UpdateAlignmentBox
 ms.assetid: 7076ee5f-f536-77ec-a1f7-518195e3e897
+ms.date: 06/08/2017
 ---
 
 

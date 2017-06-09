@@ -3,10 +3,11 @@ title: IConverter.HrUninitConverter Method (Office)
 keywords: vbaof11.chm333002
 f1_keywords:
 - vbaof11.chm333002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverter.HrUninitConverter
 ms.assetid: 602c5fc2-e4f5-d4c1-399a-cf2b7f3f5af0
+ms.date: 06/08/2017
 ---
 
 

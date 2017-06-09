@@ -3,8 +3,9 @@ title: Event Statement
 keywords: vblr6.chm1103515
 f1_keywords:
 - vblr6.chm1103515
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14493dfc-5b73-f870-742a-cd4edcf69899
+ms.date: 06/08/2017
 ---
 
 

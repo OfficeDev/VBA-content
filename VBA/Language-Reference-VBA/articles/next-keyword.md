@@ -3,8 +3,9 @@ title: Next <keyword>
 keywords: vblr6.chm1008980
 f1_keywords:
 - vblr6.chm1008980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af9f9352-c18c-af8f-8741-74a8686ff609
+ms.date: 06/08/2017
 ---
 
 

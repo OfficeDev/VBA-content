@@ -3,10 +3,11 @@ title: CustomLabel.Valid Property (Word)
 keywords: vbawd10.chm152371213
 f1_keywords:
 - vbawd10.chm152371213
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.Valid
 ms.assetid: dbc744fc-bf6d-bc1e-5cd2-a5dd97619593
+ms.date: 06/08/2017
 ---
 
 

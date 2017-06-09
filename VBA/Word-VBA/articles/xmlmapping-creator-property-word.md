@@ -3,10 +3,11 @@ title: XMLMapping.Creator Property (Word)
 keywords: vbawd10.chm199689193
 f1_keywords:
 - vbawd10.chm199689193
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping.Creator
 ms.assetid: b596902c-6dc9-e77a-e965-d9a34625c658
+ms.date: 06/08/2017
 ---
 
 

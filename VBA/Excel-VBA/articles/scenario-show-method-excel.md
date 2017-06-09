@@ -3,10 +3,11 @@ title: Scenario.Show Method (Excel)
 keywords: vbaxl10.chm364081
 f1_keywords:
 - vbaxl10.chm364081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenario.Show
 ms.assetid: 50985cfc-29e4-3861-eafa-f4ba1c117bc6
+ms.date: 06/08/2017
 ---
 
 

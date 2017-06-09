@@ -1,9 +1,10 @@
 ---
 title: Application.Caption Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Caption
 ms.assetid: e43c55ea-d239-a6e5-42ce-35da5b47aa01
+ms.date: 06/08/2017
 ---
 
 

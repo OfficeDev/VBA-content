@@ -3,8 +3,9 @@ title: HoverThemeColorIndex Property, Access [vbaac10.chm14612]
 keywords: vbaac10.chm14612
 f1_keywords:
 - vbaac10.chm14612
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a0de347-828b-4433-aa07-22e1a94f6dff
+ms.date: 06/08/2017
 ---
 
 

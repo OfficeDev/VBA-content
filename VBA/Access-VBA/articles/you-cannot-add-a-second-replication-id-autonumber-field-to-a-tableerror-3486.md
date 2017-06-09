@@ -3,14 +3,15 @@ title: You cannot add a second Replication ID AutoNumber field to a table. (Erro
 keywords: jeterr40.chm5003486
 f1_keywords:
 - jeterr40.chm5003486
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 43ce3b8e-15a7-d1d0-edc9-40af415e2a39
+ms.date: 06/08/2017
 ---
 
 
 # You cannot add a second Replication ID AutoNumber field to a table. (Error 3486)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

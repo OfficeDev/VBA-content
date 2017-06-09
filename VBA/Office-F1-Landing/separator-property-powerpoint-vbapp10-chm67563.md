@@ -3,8 +3,9 @@ title: Separator Property, PowerPoint [vbapp10.chm67563]
 keywords: vbapp10.chm67563
 f1_keywords:
 - vbapp10.chm67563
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f773cb6d-289d-4662-aeca-6c9b662fe60f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Style.Creator Property (Excel)
 keywords: vbaxl10.chm176074
 f1_keywords:
 - vbaxl10.chm176074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Creator
 ms.assetid: d7473e53-fba0-a195-7dba-430e3b6d1df6
+ms.date: 06/08/2017
 ---
 
 

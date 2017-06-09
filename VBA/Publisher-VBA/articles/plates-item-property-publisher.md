@@ -3,10 +3,11 @@ title: Plates.Item Property (Publisher)
 keywords: vbapb10.chm2818048
 f1_keywords:
 - vbapb10.chm2818048
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plates.Item
 ms.assetid: 7563df76-56c3-d613-7314-846fe28a995d
+ms.date: 06/08/2017
 ---
 
 

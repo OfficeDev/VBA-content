@@ -3,10 +3,11 @@ title: PictureFormat.RestoreOriginalColors Method (Publisher)
 keywords: vbapb10.chm3604800
 f1_keywords:
 - vbapb10.chm3604800
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.RestoreOriginalColors
 ms.assetid: 13a0d09f-f809-a1ca-73d9-313ea293d56a
+ms.date: 06/08/2017
 ---
 
 

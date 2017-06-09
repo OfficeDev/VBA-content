@@ -3,10 +3,11 @@ title: SubForm.IsVisible Property (Access)
 keywords: vbaac10.chm11956
 f1_keywords:
 - vbaac10.chm11956
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.IsVisible
 ms.assetid: c403b7c0-ac77-a39d-cea0-1dbe585ba54f
+ms.date: 06/08/2017
 ---
 
 

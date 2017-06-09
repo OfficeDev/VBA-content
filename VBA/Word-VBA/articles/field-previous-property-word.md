@@ -3,10 +3,11 @@ title: Field.Previous Property (Word)
 keywords: vbawd10.chm154075143
 f1_keywords:
 - vbawd10.chm154075143
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Previous
 ms.assetid: be39b806-a82a-de52-190d-3f537e063d6a
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdCompareDestination Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCompareDestination
 ms.assetid: 00de3b3f-2673-c6fe-cb91-9b6e8703b2a0
+ms.date: 06/08/2017
 ---
 
 

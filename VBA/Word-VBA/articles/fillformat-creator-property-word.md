@@ -3,10 +3,11 @@ title: FillFormat.Creator Property (Word)
 keywords: vbawd10.chm164103145
 f1_keywords:
 - vbawd10.chm164103145
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.Creator
 ms.assetid: 1bb9d3ad-ab28-f109-f449-624c61be3746
+ms.date: 06/08/2017
 ---
 
 

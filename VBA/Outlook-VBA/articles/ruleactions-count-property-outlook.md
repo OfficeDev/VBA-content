@@ -3,10 +3,11 @@ title: RuleActions.Count Property (Outlook)
 keywords: vbaol11.chm2182
 f1_keywords:
 - vbaol11.chm2182
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.Count
 ms.assetid: 91b4425f-0e17-fff1-0d9c-1697b205ff2a
+ms.date: 06/08/2017
 ---
 
 

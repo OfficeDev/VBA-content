@@ -3,8 +3,9 @@ title: WorksheetFunction.Acot Method (Excel)
 keywords: vbaxl10.chm137421
 f1_keywords:
 - vbaxl10.chm137421
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 2e7fee00-05cb-38a5-a266-c5f8933a3b90
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Collections (Visual Basic Add-In Model)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 45e5f192-c698-4805-9ba8-cbe52f313732
+ms.date: 06/08/2017
 ---
 
 

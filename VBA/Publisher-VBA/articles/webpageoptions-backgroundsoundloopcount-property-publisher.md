@@ -3,10 +3,11 @@ title: WebPageOptions.BackgroundSoundLoopCount Property (Publisher)
 keywords: vbapb10.chm544776
 f1_keywords:
 - vbapb10.chm544776
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopCount
 ms.assetid: 34d34a04-5fdb-3d43-9140-fcf10b420efd
+ms.date: 06/08/2017
 ---
 
 

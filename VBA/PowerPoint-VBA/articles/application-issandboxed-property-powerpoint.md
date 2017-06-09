@@ -3,10 +3,11 @@ title: Application.IsSandboxed Property (PowerPoint)
 keywords: vbapp10.chm502066
 f1_keywords:
 - vbapp10.chm502066
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.IsSandboxed
 ms.assetid: c17eed5c-8612-5cd8-3ef6-a745d54d2a10
+ms.date: 06/08/2017
 ---
 
 

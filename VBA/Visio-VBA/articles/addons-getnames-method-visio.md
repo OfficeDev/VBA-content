@@ -3,10 +3,11 @@ title: Addons.GetNames Method (Visio)
 keywords: vis_sdr.chm12516315
 f1_keywords:
 - vis_sdr.chm12516315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Addons.GetNames
 ms.assetid: b0f0fc37-0dfd-b61e-399e-10fb8c8b4b43
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Add a Control to a Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 388a7d54-65c0-7c34-d28a-0e0a47b9a5c0
+ms.date: 06/08/2017
 ---
 
 

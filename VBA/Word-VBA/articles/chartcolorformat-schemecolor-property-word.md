@@ -3,10 +3,11 @@ title: ChartColorFormat.SchemeColor Property (Word)
 keywords: vbawd10.chm12060270
 f1_keywords:
 - vbawd10.chm12060270
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartColorFormat.SchemeColor
 ms.assetid: 56832016-dcd9-5627-d0e4-8cce040c24f7
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.SendHyperlinkNote Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.SendHyperlinkNote
 ms.assetid: 3812ea5e-7c27-df04-717f-3eb313510303
+ms.date: 06/08/2017
 ---
 
 

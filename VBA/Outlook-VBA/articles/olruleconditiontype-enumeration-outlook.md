@@ -3,10 +3,11 @@ title: OlRuleConditionType Enumeration (Outlook)
 keywords: vbaol11.chm3116
 f1_keywords:
 - vbaol11.chm3116
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlRuleConditionType
 ms.assetid: 35c2f965-0f9d-8cc8-2f05-60522268574f
+ms.date: 06/08/2017
 ---
 
 

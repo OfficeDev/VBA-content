@@ -3,10 +3,11 @@ title: Axes.Creator Property (Word)
 keywords: vbawd10.chm93388949
 f1_keywords:
 - vbawd10.chm93388949
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axes.Creator
 ms.assetid: 09557e5f-fd81-c7f4-a2a3-b842ef05a5d7
+ms.date: 06/08/2017
 ---
 
 

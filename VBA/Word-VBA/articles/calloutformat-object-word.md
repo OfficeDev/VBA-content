@@ -3,10 +3,11 @@ title: CalloutFormat Object (Word)
 keywords: vbawd10.chm2501
 f1_keywords:
 - vbawd10.chm2501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat
 ms.assetid: d54764e6-d761-582b-aa0a-baebd3a7cf6a
+ms.date: 06/08/2017
 ---
 
 

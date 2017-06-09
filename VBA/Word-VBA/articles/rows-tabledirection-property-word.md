@@ -3,10 +3,11 @@ title: Rows.TableDirection Property (Word)
 keywords: vbawd10.chm155975784
 f1_keywords:
 - vbawd10.chm155975784
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.TableDirection
 ms.assetid: 02351774-13c0-ec82-c553-3b048eabb133
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Baseline4Duration Property, Project [vbapj.chm131476]
 keywords: vbapj.chm131476
 f1_keywords:
 - vbapj.chm131476
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0de78094-8e8b-4517-af49-7de64bc1f37c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Unable to retrieve the specified Registry parameter for the Synchronizer.
 keywords: jeterr40.chm5003494
 f1_keywords:
 - jeterr40.chm5003494
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: defe40ff-f138-b4ea-ac97-f23fd3955cef
+ms.date: 06/08/2017
 ---
 
 
 # Unable to retrieve the specified Registry parameter for the Synchronizer. (Error 3494)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

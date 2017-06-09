@@ -3,8 +3,9 @@ title: ReportList Property, Project [vbapj.chm132551]
 keywords: vbapj.chm132551
 f1_keywords:
 - vbapj.chm132551
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b63d16f-e1a3-4897-9228-ffe8e4c00ae8
+ms.date: 06/08/2017
 ---
 
 

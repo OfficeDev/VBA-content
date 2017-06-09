@@ -3,10 +3,11 @@ title: Range.Fields Property (Word)
 keywords: vbawd10.chm157155392
 f1_keywords:
 - vbawd10.chm157155392
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Fields
 ms.assetid: 106c1cb4-0836-3ff3-3138-223356a4a42c
+ms.date: 06/08/2017
 ---
 
 

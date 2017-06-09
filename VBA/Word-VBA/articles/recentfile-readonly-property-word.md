@@ -3,10 +3,11 @@ title: RecentFile.ReadOnly Property (Word)
 keywords: vbawd10.chm157548546
 f1_keywords:
 - vbawd10.chm157548546
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFile.ReadOnly
 ms.assetid: 69c413bb-9758-06f8-05f1-318ec320fa82
+ms.date: 06/08/2017
 ---
 
 

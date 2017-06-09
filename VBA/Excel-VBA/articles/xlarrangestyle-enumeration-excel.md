@@ -1,9 +1,10 @@
 ---
 title: XlArrangeStyle Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlArrangeStyle
 ms.assetid: 35ba7045-cde8-7dcc-bdcb-d35af8c10d66
+ms.date: 06/08/2017
 ---
 
 

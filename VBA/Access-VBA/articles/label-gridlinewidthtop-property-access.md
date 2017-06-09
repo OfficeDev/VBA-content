@@ -3,10 +3,11 @@ title: Label.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm10254
 f1_keywords:
 - vbaac10.chm10254
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineWidthTop
 ms.assetid: a04f9ac8-25a5-eb17-c464-23146eae6732
+ms.date: 06/08/2017
 ---
 
 

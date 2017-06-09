@@ -1,9 +1,10 @@
 ---
 title: PjValueListItem Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjValueListItem
 ms.assetid: 38c7636c-0365-71ef-569b-94a2324ae88f
+ms.date: 06/08/2017
 ---
 
 

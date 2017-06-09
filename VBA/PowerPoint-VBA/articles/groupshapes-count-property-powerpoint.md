@@ -3,10 +3,11 @@ title: GroupShapes.Count Property (PowerPoint)
 keywords: vbapp10.chm549002
 f1_keywords:
 - vbapp10.chm549002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Count
 ms.assetid: 1535f42d-43de-a9e2-0972-a1bb34b5578f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SharedWorkspace Object (Office)
 keywords: vbaof11.chm276000
 f1_keywords:
 - vbaof11.chm276000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace
 ms.assetid: 7512f0ff-382d-d344-9424-aa10549d14f9
+ms.date: 06/08/2017
 ---
 
 

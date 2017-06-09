@@ -3,10 +3,11 @@ title: AnimationSettings.TextLevelEffect Property (PowerPoint)
 keywords: vbapp10.chm565011
 f1_keywords:
 - vbapp10.chm565011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.TextLevelEffect
 ms.assetid: 008e3db2-2d22-5218-c312-663f0106adc6
+ms.date: 06/08/2017
 ---
 
 

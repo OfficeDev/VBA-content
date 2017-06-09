@@ -3,10 +3,11 @@ title: AppointmentItem.RequiredAttendees Property (Outlook)
 keywords: vbaol11.chm898
 f1_keywords:
 - vbaol11.chm898
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.RequiredAttendees
 ms.assetid: 8ff112e9-2d8c-89de-0bdf-e8b9998f9269
+ms.date: 06/08/2017
 ---
 
 

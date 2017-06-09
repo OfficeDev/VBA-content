@@ -3,8 +3,9 @@ title: LangID Cell (Annotation Section), Visio [Vis_DSS.chm1028733]
 keywords: vis_dss.chm1028733
 f1_keywords:
 - vis_dss.chm1028733
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9b791bb-18a1-43d3-9b69-fe5c20a88026
+ms.date: 06/08/2017
 ---
 
 

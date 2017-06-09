@@ -3,10 +3,11 @@ title: Color.Stat Property (Visio)
 keywords: vis_sdr.chm12214420
 f1_keywords:
 - vis_sdr.chm12214420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Color.Stat
 ms.assetid: f2e837bc-0bfc-965c-cedb-decb54434bc1
+ms.date: 06/08/2017
 ---
 
 

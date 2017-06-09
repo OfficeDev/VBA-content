@@ -3,10 +3,11 @@ title: MailItem.ClearTaskFlag Method (Outlook)
 keywords: vbaol11.chm3040
 f1_keywords:
 - vbaol11.chm3040
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ClearTaskFlag
 ms.assetid: 833f62c1-2a99-b5ce-76cb-629b195aa63c
+ms.date: 06/08/2017
 ---
 
 

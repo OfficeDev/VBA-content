@@ -3,10 +3,11 @@ title: CommandButton.ControlType Property (Access)
 keywords: vbaac10.chm10449
 f1_keywords:
 - vbaac10.chm10449
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ControlType
 ms.assetid: c41e555b-195b-7af9-f2ee-09d92980e557
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Find.ParagraphFormat Property (Word)
 keywords: vbawd10.chm162529298
 f1_keywords:
 - vbawd10.chm162529298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.ParagraphFormat
 ms.assetid: ae8bbbaa-700d-7469-30e4-f412e4a32e76
+ms.date: 06/08/2017
 ---
 
 

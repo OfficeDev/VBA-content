@@ -3,10 +3,11 @@ title: AcQuitOption Enumeration (Access)
 keywords: vbaac10.chm10009
 f1_keywords:
 - vbaac10.chm10009
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcQuitOption
 ms.assetid: 6a712a0f-1964-8c1d-f5b2-b552c042efe8
+ms.date: 06/08/2017
 ---
 
 

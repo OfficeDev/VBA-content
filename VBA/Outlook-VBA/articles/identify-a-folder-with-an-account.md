@@ -1,7 +1,8 @@
 ---
 title: Identify a Folder with an Account
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 64dfbe81-933a-0929-e18c-a927156e50d4
+ms.date: 06/08/2017
 ---
 
 

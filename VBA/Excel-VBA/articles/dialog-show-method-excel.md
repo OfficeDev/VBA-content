@@ -3,10 +3,11 @@ title: Dialog.Show Method (Excel)
 keywords: vbaxl10.chm256073
 f1_keywords:
 - vbaxl10.chm256073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Dialog.Show
 ms.assetid: 7c69ecc2-fdd5-c91b-1c66-e3099bd69cb7
+ms.date: 06/08/2017
 ---
 
 

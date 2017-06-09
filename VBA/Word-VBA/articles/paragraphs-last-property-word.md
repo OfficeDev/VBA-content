@@ -3,10 +3,11 @@ title: Paragraphs.Last Property (Word)
 keywords: vbawd10.chm156762116
 f1_keywords:
 - vbawd10.chm156762116
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Last
 ms.assetid: 9d9d173d-7d4f-ff23-35be-e3aeed85cc3c
+ms.date: 06/08/2017
 ---
 
 

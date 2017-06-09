@@ -3,10 +3,11 @@ title: ConnectorFormat.BeginConnectedShape Property (Publisher)
 keywords: vbapb10.chm3211521
 f1_keywords:
 - vbapb10.chm3211521
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.BeginConnectedShape
 ms.assetid: a7eb9090-ad01-234c-99ff-3bb0616d02c0
+ms.date: 06/08/2017
 ---
 
 

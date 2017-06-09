@@ -3,14 +3,15 @@ title: Replication Manager cannot find the ExchangeID in the MSysExchangeLog tab
 keywords: jeterr40.chm5003496
 f1_keywords:
 - jeterr40.chm5003496
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bb50f3af-5c26-d920-6fc6-61f04d03b37c
+ms.date: 06/08/2017
 ---
 
 
 # Replication Manager cannot find the ExchangeID in the MSysExchangeLog table. (Error 3496)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

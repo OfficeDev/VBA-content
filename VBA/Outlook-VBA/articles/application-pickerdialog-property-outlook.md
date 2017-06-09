@@ -3,10 +3,11 @@ title: Application.PickerDialog Property (Outlook)
 keywords: vbaol11.chm3475
 f1_keywords:
 - vbaol11.chm3475
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.PickerDialog
 ms.assetid: 14acc98b-c234-d59b-d089-d6782ffb08a0
+ms.date: 06/08/2017
 ---
 
 

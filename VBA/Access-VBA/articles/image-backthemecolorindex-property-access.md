@@ -3,10 +3,11 @@ title: Image.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.BackThemeColorIndex
 ms.assetid: 9b15a086-0ff4-3ffb-4828-c22486bfc8c5
+ms.date: 06/08/2017
 ---
 
 

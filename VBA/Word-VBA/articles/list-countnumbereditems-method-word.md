@@ -3,10 +3,11 @@ title: List.CountNumberedItems Method (Word)
 keywords: vbawd10.chm160563303
 f1_keywords:
 - vbawd10.chm160563303
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.CountNumberedItems
 ms.assetid: 72f3b9ae-727b-66ef-3c91-71f88780e827
+ms.date: 06/08/2017
 ---
 
 

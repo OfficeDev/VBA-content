@@ -3,10 +3,11 @@ title: OLEFormat.IconIndex Property (Word)
 keywords: vbawd10.chm154337289
 f1_keywords:
 - vbawd10.chm154337289
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OLEFormat.IconIndex
 ms.assetid: 091bd36d-75f6-b31b-ca8f-668a23f215d7
+ms.date: 06/08/2017
 ---
 
 

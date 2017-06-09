@@ -3,10 +3,11 @@ title: MailMergeDataSource.ActiveRecord Property (Publisher)
 keywords: vbapb10.chm6291459
 f1_keywords:
 - vbapb10.chm6291459
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.ActiveRecord
 ms.assetid: 0f092eb4-6e65-9235-83e2-a04b813b2390
+ms.date: 06/08/2017
 ---
 
 

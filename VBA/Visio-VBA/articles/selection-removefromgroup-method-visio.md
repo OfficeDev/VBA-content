@@ -3,10 +3,11 @@ title: Selection.RemoveFromGroup Method (Visio)
 keywords: vis_sdr.chm11116475
 f1_keywords:
 - vis_sdr.chm11116475
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.RemoveFromGroup
 ms.assetid: 4e593510-9970-c6fb-f598-e9f2e237bcb2
+ms.date: 06/08/2017
 ---
 
 

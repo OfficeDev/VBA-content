@@ -1,7 +1,8 @@
 ---
 title: Dictionaries Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 41f31292-4b3e-0d7b-c857-f6b9a0662e9a
+ms.date: 06/08/2017
 ---
 
 

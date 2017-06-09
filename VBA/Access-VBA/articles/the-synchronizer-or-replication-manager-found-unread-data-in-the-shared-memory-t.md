@@ -3,14 +3,15 @@ title: The Synchronizer or Replication Manager found unread data in the shared m
 keywords: jeterr40.chm5003529
 f1_keywords:
 - jeterr40.chm5003529
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3fcb1c6c-ae73-e3f3-bb1e-a7eb036ae689
+ms.date: 06/08/2017
 ---
 
 
 # The Synchronizer or Replication Manager found unread data in the shared memory. The existing data will be overwritten. (Error 3529)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

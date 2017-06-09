@@ -3,10 +3,11 @@ title: OMathFunction.Args Property (Word)
 keywords: vbawd10.chm22151272
 f1_keywords:
 - vbawd10.chm22151272
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Args
 ms.assetid: 7a22e7d9-82db-429f-3e86-d1ec24966544
+ms.date: 06/08/2017
 ---
 
 

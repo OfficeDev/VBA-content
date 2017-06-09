@@ -3,14 +3,15 @@ title: Crosstab Query
 keywords: vbaac10.chm5186639
 f1_keywords:
 - vbaac10.chm5186639
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5439b771-8a2b-cc2a-c79f-bdbf1c9a7db4
+ms.date: 06/08/2017
 ---
 
 
 # Crosstab Query
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

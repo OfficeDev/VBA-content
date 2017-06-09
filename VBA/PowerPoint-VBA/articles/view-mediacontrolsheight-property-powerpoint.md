@@ -3,10 +3,11 @@ title: View.MediaControlsHeight Property (PowerPoint)
 keywords: vbapp10.chm512018
 f1_keywords:
 - vbapp10.chm512018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.MediaControlsHeight
 ms.assetid: 4af9f2a8-2e5d-42ba-f196-e8c1f07fcf47
+ms.date: 06/08/2017
 ---
 
 

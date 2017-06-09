@@ -3,10 +3,11 @@ title: Label.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm10229
 f1_keywords:
 - vbaac10.chm10229
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.ShortcutMenuBar
 ms.assetid: 2515e73f-f4c6-3025-553f-b8271e94db34
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AllDatabaseDiagrams.Item Property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllDatabaseDiagrams.Item
 ms.assetid: 1f644e28-1988-e22a-b83b-033d1354d09c
+ms.date: 06/08/2017
 ---
 
 

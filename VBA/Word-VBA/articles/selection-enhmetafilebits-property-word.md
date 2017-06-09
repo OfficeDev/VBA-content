@@ -3,10 +3,11 @@ title: Selection.EnhMetaFileBits Property (Word)
 keywords: vbawd10.chm158662971
 f1_keywords:
 - vbawd10.chm158662971
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.EnhMetaFileBits
 ms.assetid: ecc28cc8-6c0f-3207-f52c-4a7b77c23445
+ms.date: 06/08/2017
 ---
 
 

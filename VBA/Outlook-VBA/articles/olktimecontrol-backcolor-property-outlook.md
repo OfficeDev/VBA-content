@@ -3,10 +3,11 @@ title: OlkTimeControl.BackColor Property (Outlook)
 keywords: vbaol11.chm1000380
 f1_keywords:
 - vbaol11.chm1000380
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.BackColor
 ms.assetid: ca962737-f5d3-c99f-1a9a-2ff68c0582bb
+ms.date: 06/08/2017
 ---
 
 

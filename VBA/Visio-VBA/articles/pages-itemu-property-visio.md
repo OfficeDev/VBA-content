@@ -3,10 +3,11 @@ title: Pages.ItemU Property (Visio)
 keywords: vis_sdr.chm11051980
 f1_keywords:
 - vis_sdr.chm11051980
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.ItemU
 ms.assetid: cb5af44e-b8de-229d-b7da-d6377f68c494
+ms.date: 06/08/2017
 ---
 
 

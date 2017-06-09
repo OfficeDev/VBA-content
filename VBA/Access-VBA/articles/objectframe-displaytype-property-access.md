@@ -3,10 +3,11 @@ title: ObjectFrame.DisplayType Property (Access)
 keywords: vbaac10.chm11568
 f1_keywords:
 - vbaac10.chm11568
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.DisplayType
 ms.assetid: 30df2df5-ed46-f0e4-02e3-43c3aa99dbad
+ms.date: 06/08/2017
 ---
 
 

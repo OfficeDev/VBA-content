@@ -3,10 +3,11 @@ title: Shapes.BuildFreeform Method (PowerPoint)
 keywords: vbapp10.chm543015
 f1_keywords:
 - vbapp10.chm543015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.BuildFreeform
 ms.assetid: 330ea348-9f8c-c418-d67f-e4fd6c105c59
+ms.date: 06/08/2017
 ---
 
 

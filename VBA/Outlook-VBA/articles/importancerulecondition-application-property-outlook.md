@@ -3,10 +3,11 @@ title: ImportanceRuleCondition.Application Property (Outlook)
 keywords: vbaol11.chm2332
 f1_keywords:
 - vbaol11.chm2332
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ImportanceRuleCondition.Application
 ms.assetid: b671ee51-9b28-e408-02fe-bf9fa0da7dfb
+ms.date: 06/08/2017
 ---
 
 

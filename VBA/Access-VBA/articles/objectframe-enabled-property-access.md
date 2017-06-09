@@ -3,10 +3,11 @@ title: ObjectFrame.Enabled Property (Access)
 keywords: vbaac10.chm11583
 f1_keywords:
 - vbaac10.chm11583
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Enabled
 ms.assetid: 1b70cc10-3132-f8e4-5a82-19396551f1a7
+ms.date: 06/08/2017
 ---
 
 

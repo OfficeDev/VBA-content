@@ -3,10 +3,11 @@ title: AcCurrentView Enumeration (Access)
 keywords: vbaac10.chm13237
 f1_keywords:
 - vbaac10.chm13237
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcCurrentView
 ms.assetid: 1df75bec-f24b-6f53-3af5-bea736fc2df6
+ms.date: 06/08/2017
 ---
 
 

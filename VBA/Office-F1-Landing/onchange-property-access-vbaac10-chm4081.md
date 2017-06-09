@@ -3,8 +3,9 @@ title: OnChange Property, Access [vbaac10.chm4081]
 keywords: vbaac10.chm4081
 f1_keywords:
 - vbaac10.chm4081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64fb232d-76b3-4df2-8683-b6cdb449c075
+ms.date: 06/08/2017
 ---
 
 

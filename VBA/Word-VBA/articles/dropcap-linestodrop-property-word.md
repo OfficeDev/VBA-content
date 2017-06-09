@@ -3,10 +3,11 @@ title: DropCap.LinesToDrop Property (Word)
 keywords: vbawd10.chm156631052
 f1_keywords:
 - vbawd10.chm156631052
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.LinesToDrop
 ms.assetid: 148ca844-d9ee-39f5-722a-6bd8279ca4b9
+ms.date: 06/08/2017
 ---
 
 

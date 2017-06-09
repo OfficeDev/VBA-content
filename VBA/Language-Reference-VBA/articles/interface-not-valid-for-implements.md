@@ -3,8 +3,9 @@ title: Interface not valid for Implements
 keywords: vblr6.chm1109570
 f1_keywords:
 - vblr6.chm1109570
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 944e5139-44df-b07f-d594-c1d869a4c125
+ms.date: 06/08/2017
 ---
 
 

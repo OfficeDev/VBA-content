@@ -3,8 +3,9 @@ title: NoCtlHandles Cell (Miscellaneous Section), Visio [Vis_DSS.chm705]
 keywords: vis_dss.chm705
 f1_keywords:
 - vis_dss.chm705
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f48f9630-aed5-4313-8a2d-4eb433547b8a
+ms.date: 06/08/2017
 ---
 
 

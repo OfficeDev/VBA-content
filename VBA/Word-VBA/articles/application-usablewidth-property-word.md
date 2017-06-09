@@ -3,10 +3,11 @@ title: Application.UsableWidth Property (Word)
 keywords: vbawd10.chm158335009
 f1_keywords:
 - vbawd10.chm158335009
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.UsableWidth
 ms.assetid: e5ea64f7-2a7a-fdaa-20ff-fdf6196de874
+ms.date: 06/08/2017
 ---
 
 

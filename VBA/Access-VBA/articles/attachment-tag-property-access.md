@@ -3,10 +3,11 @@ title: Attachment.Tag Property (Access)
 keywords: vbaac10.chm13973
 f1_keywords:
 - vbaac10.chm13973
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Tag
 ms.assetid: 6d3e9f35-1986-e6b4-5f35-2652123c007c
+ms.date: 06/08/2017
 ---
 
 

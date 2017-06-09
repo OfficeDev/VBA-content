@@ -3,8 +3,9 @@ title: Version number missing or invalid; Visual Basic 5.0 assumed, Office Share
 keywords: vblr6.chm1117720
 f1_keywords:
 - vblr6.chm1117720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c8f0ef80-0944-4c44-adcb-022ad7342490
+ms.date: 06/08/2017
 ---
 
 

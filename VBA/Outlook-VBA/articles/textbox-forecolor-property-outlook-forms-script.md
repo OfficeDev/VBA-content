@@ -1,7 +1,8 @@
 ---
 title: TextBox.ForeColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6a6fb2a7-0434-d254-b825-4ce03c2a8db8
+ms.date: 06/08/2017
 ---
 
 

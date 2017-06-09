@@ -3,10 +3,11 @@ title: BoundObjectFrame.Click Event (Access)
 keywords: vbaac10.chm14096
 f1_keywords:
 - vbaac10.chm14096
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Click
 ms.assetid: 0b602f76-f311-e8f4-bc3b-72a2427f5758
+ms.date: 06/08/2017
 ---
 
 

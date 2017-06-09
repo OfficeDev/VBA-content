@@ -3,10 +3,11 @@ title: ShadowFormat.IncrementOffsetX Method (PowerPoint)
 keywords: vbapp10.chm554002
 f1_keywords:
 - vbapp10.chm554002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.IncrementOffsetX
 ms.assetid: 29fbda10-d3ed-963f-364d-5a5bbce92f34
+ms.date: 06/08/2017
 ---
 
 

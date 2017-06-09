@@ -3,10 +3,11 @@ title: AutoCorrect.AddReplacement Method (Excel)
 keywords: vbaxl10.chm545073
 f1_keywords:
 - vbaxl10.chm545073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.AddReplacement
 ms.assetid: 33b83ca0-77b5-00ed-1344-fc5e9a816f74
+ms.date: 06/08/2017
 ---
 
 

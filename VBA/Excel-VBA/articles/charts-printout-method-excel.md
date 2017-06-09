@@ -3,10 +3,11 @@ title: Charts.PrintOut Method (Excel)
 keywords: vbaxl10.chm218075
 f1_keywords:
 - vbaxl10.chm218075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Charts.PrintOut
 ms.assetid: ad6e659e-0fa8-a0c0-1a24-a0ec0e3b55b8
+ms.date: 06/08/2017
 ---
 
 

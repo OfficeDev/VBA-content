@@ -3,10 +3,11 @@ title: Font.SetAsTemplateDefault Method (Word)
 keywords: vbawd10.chm156368999
 f1_keywords:
 - vbawd10.chm156368999
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.SetAsTemplateDefault
 ms.assetid: 91c32f0a-52bd-cddf-9ce1-362bc205d234
+ms.date: 06/08/2017
 ---
 
 

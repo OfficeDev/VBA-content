@@ -3,10 +3,11 @@ title: ComboBox.OnGotFocus Property (Access)
 keywords: vbaac10.chm11453
 f1_keywords:
 - vbaac10.chm11453
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnGotFocus
 ms.assetid: 6fb801bd-c2f9-e81d-24b7-0669ece6422d
+ms.date: 06/08/2017
 ---
 
 

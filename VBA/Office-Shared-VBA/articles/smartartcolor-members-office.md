@@ -1,7 +1,8 @@
 ---
 title: SmartArtColor Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b1a82f2e-ccd5-c98e-36a6-74642bc63e68
+ms.date: 06/08/2017
 ---
 
 

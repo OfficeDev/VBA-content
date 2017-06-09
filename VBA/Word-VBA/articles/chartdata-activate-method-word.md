@@ -3,10 +3,11 @@ title: ChartData.Activate Method (Word)
 keywords: vbawd10.chm190382081
 f1_keywords:
 - vbawd10.chm190382081
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartData.Activate
 ms.assetid: 08f4a657-41c2-52ea-b31c-976549ace8c1
+ms.date: 06/08/2017
 ---
 
 

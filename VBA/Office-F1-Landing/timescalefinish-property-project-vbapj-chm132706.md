@@ -3,8 +3,9 @@ title: TimescaleFinish Property, Project [vbapj.chm132706]
 keywords: vbapj.chm132706
 f1_keywords:
 - vbapj.chm132706
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 483c53f3-8409-4482-9aff-81fb095eeb9d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Format Property - Yes/No Data Type
 keywords: vbaac10.chm5187268
 f1_keywords:
 - vbaac10.chm5187268
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 51b9af9b-8c43-8f3a-cf93-fc0f3a7eb0a5
+ms.date: 06/08/2017
 ---
 
 
 # Format Property - Yes/No Data Type
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

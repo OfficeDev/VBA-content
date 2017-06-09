@@ -3,10 +3,11 @@ title: OptionGroup.Section Property (Access)
 keywords: vbaac10.chm10857
 f1_keywords:
 - vbaac10.chm10857
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Section
 ms.assetid: f1d04030-8aed-8591-f83e-6a890b96c1f2
+ms.date: 06/08/2017
 ---
 
 

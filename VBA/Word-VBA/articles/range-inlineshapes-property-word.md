@@ -3,10 +3,11 @@ title: Range.InlineShapes Property (Word)
 keywords: vbawd10.chm157155647
 f1_keywords:
 - vbawd10.chm157155647
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InlineShapes
 ms.assetid: 4c0335ac-95a2-412c-650c-afc323ae58ca
+ms.date: 06/08/2017
 ---
 
 

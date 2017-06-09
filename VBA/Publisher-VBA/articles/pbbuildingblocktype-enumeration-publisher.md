@@ -3,8 +3,9 @@ title: PbBuildingBlockType Enumeration (Publisher)
 keywords: vbapb10.chm65660
 f1_keywords:
 - vbapb10.chm65660
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 1649f910-ee57-455e-a486-1f7d0181ecb5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Paragraphs.SpaceBefore Property (Word)
 keywords: vbawd10.chm156762223
 f1_keywords:
 - vbawd10.chm156762223
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.SpaceBefore
 ms.assetid: e526a660-96aa-acf3-2562-addb3e3af113
+ms.date: 06/08/2017
 ---
 
 

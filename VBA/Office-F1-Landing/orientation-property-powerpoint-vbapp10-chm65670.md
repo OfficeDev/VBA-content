@@ -3,8 +3,9 @@ title: Orientation Property, PowerPoint [vbapp10.chm65670]
 keywords: vbapp10.chm65670
 f1_keywords:
 - vbapp10.chm65670
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 19b87999-4c51-4489-a367-63e9ac4f3623
+ms.date: 06/08/2017
 ---
 
 

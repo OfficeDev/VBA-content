@@ -3,10 +3,11 @@ title: BeforeUpdate Event
 keywords: fm20.chm2000050
 f1_keywords:
 - fm20.chm2000050
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BeforeUpdate
 ms.assetid: ccf0fa5d-a069-cba6-5725-072b141fa80b
+ms.date: 06/08/2017
 ---
 
 

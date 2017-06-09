@@ -3,10 +3,11 @@ title: SlideRange.Comments Property (PowerPoint)
 keywords: vbapp10.chm532032
 f1_keywords:
 - vbapp10.chm532032
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Comments
 ms.assetid: ff06c024-66cf-d915-e0b0-676b009f93fb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TimelineView.LowerScaleFont Property (Outlook)
 keywords: vbaol11.chm2668
 f1_keywords:
 - vbaol11.chm2668
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.LowerScaleFont
 ms.assetid: 3aceef64-c442-a719-d104-8bd27fba8283
+ms.date: 06/08/2017
 ---
 
 

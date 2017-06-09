@@ -3,10 +3,11 @@ title: Form.DatasheetForeColor Property (Access)
 keywords: vbaac10.chm13405
 f1_keywords:
 - vbaac10.chm13405
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetForeColor
 ms.assetid: 9756ff09-67bf-edb9-d4b5-d414ec7c1e2a
+ms.date: 06/08/2017
 ---
 
 

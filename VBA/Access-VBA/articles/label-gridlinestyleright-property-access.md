@@ -3,10 +3,11 @@ title: Label.GridlineStyleRight Property (Access)
 keywords: vbaac10.chm10251
 f1_keywords:
 - vbaac10.chm10251
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineStyleRight
 ms.assetid: 820a9a5e-a996-4f78-337d-70d9530ec239
+ms.date: 06/08/2017
 ---
 
 

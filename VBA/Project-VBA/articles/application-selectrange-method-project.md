@@ -3,10 +3,11 @@ title: Application.SelectRange Method (Project)
 keywords: vbapj.chm2062
 f1_keywords:
 - vbapj.chm2062
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectRange
 ms.assetid: 16b5925e-393b-3d4f-70d4-89213f521485
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.OLEUsage Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.OLEUsage
 ms.assetid: 3da25257-6ffe-a00e-bada-79c6245286b7
+ms.date: 06/08/2017
 ---
 
 

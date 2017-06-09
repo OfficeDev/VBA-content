@@ -3,10 +3,11 @@ title: Shape.SetShapesDefaultProperties Method (Publisher)
 keywords: vbapb10.chm2228264
 f1_keywords:
 - vbapb10.chm2228264
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.SetShapesDefaultProperties
 ms.assetid: 3f7d7143-3a08-6ff4-c28e-86598212a876
+ms.date: 06/08/2017
 ---
 
 

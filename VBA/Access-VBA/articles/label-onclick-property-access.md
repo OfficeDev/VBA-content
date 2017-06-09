@@ -3,10 +3,11 @@ title: Label.OnClick Property (Access)
 keywords: vbaac10.chm10224
 f1_keywords:
 - vbaac10.chm10224
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.OnClick
 ms.assetid: a498c7de-614f-bdef-2c03-bc6c764b0953
+ms.date: 06/08/2017
 ---
 
 

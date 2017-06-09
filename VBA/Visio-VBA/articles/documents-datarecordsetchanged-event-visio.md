@@ -3,10 +3,11 @@ title: Documents.DataRecordsetChanged Event (Visio)
 keywords: vis_sdr.chm10662025
 f1_keywords:
 - vis_sdr.chm10662025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.DataRecordsetChanged
 ms.assetid: 39febf24-a586-f56d-285f-9e36794db28d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.TaskTables Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.TaskTables
 ms.assetid: 98ebe380-ab66-238e-f02c-a6dc6ae6c597
+ms.date: 06/08/2017
 ---
 
 

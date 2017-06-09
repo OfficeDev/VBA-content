@@ -3,10 +3,11 @@ title: ApplicationSettings.RasterExportDataFormat Property (Visio)
 keywords: vis_sdr.chm16262520
 f1_keywords:
 - vis_sdr.chm16262520
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportDataFormat
 ms.assetid: e07c3f2e-469e-33bc-cd6d-0261cf7ec267
+ms.date: 06/08/2017
 ---
 
 

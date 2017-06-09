@@ -3,8 +3,9 @@ title: OutlineShowSubTasks Method, Project [vbapj.chm131241]
 keywords: vbapj.chm131241
 f1_keywords:
 - vbapj.chm131241
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2b8c15d-5249-4926-a07f-d9ccdd058082
+ms.date: 06/08/2017
 ---
 
 

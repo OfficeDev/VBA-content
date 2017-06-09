@@ -3,10 +3,11 @@ title: Application.DoCmd Property (Access)
 keywords: vbaac10.chm12511
 f1_keywords:
 - vbaac10.chm12511
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DoCmd
 ms.assetid: 171fb56a-b39f-4439-e841-ae4bbbd71719
+ms.date: 06/08/2017
 ---
 
 

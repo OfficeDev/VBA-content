@@ -3,10 +3,11 @@ title: PageSetup.PageHeight Property (Word)
 keywords: vbawd10.chm158400618
 f1_keywords:
 - vbawd10.chm158400618
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.PageHeight
 ms.assetid: f1c557af-65d2-96e6-c796-a9af33dc1730
+ms.date: 06/08/2017
 ---
 
 

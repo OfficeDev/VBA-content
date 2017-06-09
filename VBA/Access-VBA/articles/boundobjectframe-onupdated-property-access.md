@@ -3,10 +3,11 @@ title: BoundObjectFrame.OnUpdated Property (Access)
 keywords: vbaac10.chm10963
 f1_keywords:
 - vbaac10.chm10963
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnUpdated
 ms.assetid: 1af7adce-8d59-d8ac-cd3a-102266e55618
+ms.date: 06/08/2017
 ---
 
 

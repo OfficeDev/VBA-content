@@ -3,10 +3,11 @@ title: ThreeDFormat Object (Excel)
 keywords: vbaxl10.chm120000
 f1_keywords:
 - vbaxl10.chm120000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat
 ms.assetid: 9cb41236-6aba-4d6c-a54c-5e177657c8d1
+ms.date: 06/08/2017
 ---
 
 

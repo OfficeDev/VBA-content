@@ -3,10 +3,11 @@ title: RecentFile Object (Word)
 keywords: vbawd10.chm2404
 f1_keywords:
 - vbawd10.chm2404
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFile
 ms.assetid: c8d7a06d-c340-2d35-d4a9-5d0cd4a07aab
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Axis Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7dd2c9ee-4f67-091a-fd7f-f914016e04b4
+ms.date: 06/08/2017
 ---
 
 
 # Axis Example (VBScript)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

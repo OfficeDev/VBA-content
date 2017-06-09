@@ -3,10 +3,11 @@ title: Shape.DistanceFromPoint Property (Visio)
 keywords: vis_sdr.chm11213425
 f1_keywords:
 - vis_sdr.chm11213425
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DistanceFromPoint
 ms.assetid: 262b5814-3b86-c3eb-9526-96ec73836ad6
+ms.date: 06/08/2017
 ---
 
 

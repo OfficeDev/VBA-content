@@ -3,10 +3,11 @@ title: MailingLabel.CreateNewDocument Method (Word)
 keywords: vbawd10.chm152502376
 f1_keywords:
 - vbawd10.chm152502376
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.CreateNewDocument
 ms.assetid: a52831c0-42cb-e970-14e7-2c71bcc5c2f1
+ms.date: 06/08/2017
 ---
 
 

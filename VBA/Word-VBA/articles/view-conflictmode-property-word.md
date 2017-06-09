@@ -3,10 +3,11 @@ title: View.ConflictMode Property (Word)
 keywords: vbawd10.chm161808442
 f1_keywords:
 - vbawd10.chm161808442
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ConflictMode
 ms.assetid: e9500c0c-a269-5d07-0955-4a2c326c565c
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: PjAutoFilterType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAutoFilterType
 ms.assetid: f7bd2ed9-90a1-63e9-493c-28c9c944795b
+ms.date: 06/08/2017
 ---
 
 

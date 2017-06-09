@@ -3,14 +3,15 @@ title: Rectangle Control
 keywords: vbaac10.chm4071
 f1_keywords:
 - vbaac10.chm4071
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5acd290e-64e6-c513-e146-d7c95510cde0
+ms.date: 06/08/2017
 ---
 
 
 # Rectangle Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

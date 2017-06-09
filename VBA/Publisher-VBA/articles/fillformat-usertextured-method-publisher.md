@@ -3,10 +3,11 @@ title: FillFormat.UserTextured Method (Publisher)
 keywords: vbapb10.chm2359320
 f1_keywords:
 - vbapb10.chm2359320
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.UserTextured
 ms.assetid: fe1a1e06-8bdc-8022-6d4b-6f320f587baf
+ms.date: 06/08/2017
 ---
 
 

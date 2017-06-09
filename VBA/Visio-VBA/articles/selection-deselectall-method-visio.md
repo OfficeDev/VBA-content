@@ -3,10 +3,11 @@ title: Selection.DeselectAll Method (Visio)
 keywords: vis_sdr.chm11116180
 f1_keywords:
 - vis_sdr.chm11116180
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.DeselectAll
 ms.assetid: 2453beb9-e871-ef77-d420-2430c5466f8e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: RuleActions.NewItemAlert Property (Outlook)
 keywords: vbaol11.chm2199
 f1_keywords:
 - vbaol11.chm2199
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.NewItemAlert
 ms.assetid: 01de8523-7617-c3df-39c6-395f85eda57f
+ms.date: 06/08/2017
 ---
 
 

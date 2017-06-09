@@ -1,9 +1,10 @@
 ---
 title: Font2.WordArtformat Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.WordArtformat
 ms.assetid: b7f69361-d5b2-b7cb-f2a3-692dd449ff1a
+ms.date: 06/08/2017
 ---
 
 

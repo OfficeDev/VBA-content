@@ -3,10 +3,11 @@ title: Screen.MousePointer Property (Access)
 keywords: vbaac10.chm12492
 f1_keywords:
 - vbaac10.chm12492
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Screen.MousePointer
 ms.assetid: e7ee88cf-7eb8-a447-d671-1549cdbcb4fd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: LockCalcWH Cell (Protection Section), Visio [Vis_DSS.chm82251228]
 keywords: vis_dss.chm82251228
 f1_keywords:
 - vis_dss.chm82251228
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6b829333-653e-4df3-9185-a189292ab267
+ms.date: 06/08/2017
 ---
 
 

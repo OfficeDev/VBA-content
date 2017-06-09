@@ -3,10 +3,11 @@ title: PivotTable.AddDataField Method (Excel)
 keywords: vbaxl10.chm235142
 f1_keywords:
 - vbaxl10.chm235142
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AddDataField
 ms.assetid: 768b1eb7-80ea-fb0f-0de5-803ec19bbe18
+ms.date: 06/08/2017
 ---
 
 

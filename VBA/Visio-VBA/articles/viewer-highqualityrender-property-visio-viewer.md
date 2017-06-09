@@ -1,9 +1,10 @@
 ---
 title: Viewer.HighQualityRender Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.HighQualityRender
 ms.assetid: 39f59bc2-36ad-7c74-97de-85a486eb42c3
+ms.date: 06/08/2017
 ---
 
 

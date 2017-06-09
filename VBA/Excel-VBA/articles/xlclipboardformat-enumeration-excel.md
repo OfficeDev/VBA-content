@@ -1,9 +1,10 @@
 ---
 title: XlClipboardFormat Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlClipboardFormat
 ms.assetid: d964de02-d2b4-0b62-85ec-f9f70b5f8642
+ms.date: 06/08/2017
 ---
 
 

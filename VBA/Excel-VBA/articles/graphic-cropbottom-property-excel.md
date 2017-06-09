@@ -3,10 +3,11 @@ title: Graphic.CropBottom Property (Excel)
 keywords: vbaxl10.chm694076
 f1_keywords:
 - vbaxl10.chm694076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.CropBottom
 ms.assetid: ae0ab176-81c4-73ef-bfdb-e08c078dfc9e
+ms.date: 06/08/2017
 ---
 
 

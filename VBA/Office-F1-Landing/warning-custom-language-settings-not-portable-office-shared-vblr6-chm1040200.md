@@ -3,8 +3,9 @@ title: Warning custom language settings not portable, Office Shared [vblr6.chm10
 keywords: vblr6.chm1040200
 f1_keywords:
 - vblr6.chm1040200
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d370f940-8665-4d74-a355-1c9f22f700f6
+ms.date: 06/08/2017
 ---
 
 

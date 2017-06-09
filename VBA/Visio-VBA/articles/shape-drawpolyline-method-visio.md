@@ -3,10 +3,11 @@ title: Shape.DrawPolyline Method (Visio)
 keywords: vis_sdr.chm11216215
 f1_keywords:
 - vis_sdr.chm11216215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DrawPolyline
 ms.assetid: 79bd8e58-097e-6af3-cc52-435acbeececd
+ms.date: 06/08/2017
 ---
 
 

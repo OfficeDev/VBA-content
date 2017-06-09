@@ -3,8 +3,9 @@ title: Resize Event, Office Shared [vblr6.chm916327]
 keywords: vblr6.chm916327
 f1_keywords:
 - vblr6.chm916327
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aac5d7e0-1158-4660-bdf0-19f21d5da5bc
+ms.date: 06/08/2017
 ---
 
 

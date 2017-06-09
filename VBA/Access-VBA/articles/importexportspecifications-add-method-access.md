@@ -3,10 +3,11 @@ title: ImportExportSpecifications.Add Method (Access)
 keywords: vbaac10.chm13341
 f1_keywords:
 - vbaac10.chm13341
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ImportExportSpecifications.Add
 ms.assetid: c048c45f-15e9-6347-b953-c9a5702d2bc5
+ms.date: 06/08/2017
 ---
 
 

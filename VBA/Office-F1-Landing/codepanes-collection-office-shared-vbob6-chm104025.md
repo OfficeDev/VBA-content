@@ -3,8 +3,9 @@ title: CodePanes Collection, Office Shared [vbob6.chm104025]
 keywords: vbob6.chm104025
 f1_keywords:
 - vbob6.chm104025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ef1ab49c-1297-43f5-bc73-4abdc960b075
+ms.date: 06/08/2017
 ---
 
 

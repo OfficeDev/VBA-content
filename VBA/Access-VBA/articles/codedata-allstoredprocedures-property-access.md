@@ -3,10 +3,11 @@ title: CodeData.AllStoredProcedures Property (Access)
 keywords: vbaac10.chm12735
 f1_keywords:
 - vbaac10.chm12735
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeData.AllStoredProcedures
 ms.assetid: 4a14d3b6-1878-5065-6e08-b97d23ddc999
+ms.date: 06/08/2017
 ---
 
 

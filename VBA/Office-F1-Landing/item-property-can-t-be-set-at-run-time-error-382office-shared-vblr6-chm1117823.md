@@ -3,8 +3,9 @@ title: "'Item' property can't be set at run time (Error 382), Office Shared [vbl
 keywords: vblr6.chm1117823
 f1_keywords:
 - vblr6.chm1117823
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c7d38bd-3c56-4352-b9f7-f3c2328fa432
+ms.date: 06/08/2017
 ---
 
 

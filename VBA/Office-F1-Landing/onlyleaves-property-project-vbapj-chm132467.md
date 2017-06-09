@@ -3,8 +3,9 @@ title: OnlyLeaves Property, Project [vbapj.chm132467]
 keywords: vbapj.chm132467
 f1_keywords:
 - vbapj.chm132467
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b64cabb-2ac8-435f-8afd-280b01956973
+ms.date: 06/08/2017
 ---
 
 

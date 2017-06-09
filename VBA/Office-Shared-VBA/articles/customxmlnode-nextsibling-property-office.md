@@ -3,10 +3,11 @@ title: CustomXMLNode.NextSibling Property (Office)
 keywords: vbaof11.chm294008
 f1_keywords:
 - vbaof11.chm294008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.NextSibling
 ms.assetid: 75dff508-f657-f94e-fbff-8bab0f4e5192
+ms.date: 06/08/2017
 ---
 
 

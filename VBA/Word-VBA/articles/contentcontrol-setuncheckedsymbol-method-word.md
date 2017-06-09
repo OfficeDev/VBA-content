@@ -3,10 +3,11 @@ title: ContentControl.SetUncheckedSymbol Method (Word)
 keywords: vbawd10.chm266534942
 f1_keywords:
 - vbawd10.chm266534942
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.SetUncheckedSymbol
 ms.assetid: b563d0cd-e504-7aea-9c91-5c6daf257c35
+ms.date: 06/08/2017
 ---
 
 

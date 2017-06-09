@@ -3,10 +3,11 @@ title: DocumentProperties.Application Property (Office)
 keywords: vbaof11.chm250017
 f1_keywords:
 - vbaof11.chm250017
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperties.Application
 ms.assetid: b91998a4-f933-d584-8293-e63ad82447e2
+ms.date: 06/08/2017
 ---
 
 

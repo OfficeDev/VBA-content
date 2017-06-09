@@ -3,10 +3,11 @@ title: Style.NameLocal Property (Excel)
 keywords: vbaxl10.chm177091
 f1_keywords:
 - vbaxl10.chm177091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.NameLocal
 ms.assetid: fcc978b3-c23b-8a5f-9e5b-e815ecb2f92e
+ms.date: 06/08/2017
 ---
 
 

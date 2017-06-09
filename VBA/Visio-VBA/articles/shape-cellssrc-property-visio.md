@@ -3,10 +3,11 @@ title: Shape.CellsSRC Property (Visio)
 keywords: vis_sdr.chm11213205
 f1_keywords:
 - vis_sdr.chm11213205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellsSRC
 ms.assetid: 8fb6fd7b-e0ca-c694-3b9d-5390d4192565
+ms.date: 06/08/2017
 ---
 
 

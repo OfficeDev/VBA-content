@@ -3,10 +3,11 @@ title: DoCmd.OpenTable Method (Access)
 keywords: vbaac10.chm4164
 f1_keywords:
 - vbaac10.chm4164
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.OpenTable
 ms.assetid: 6461c8c1-7452-f812-8914-e46406c58eae
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Implements Statement
 keywords: vblr6.chm1103517
 f1_keywords:
 - vblr6.chm1103517
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9d0fe592-e945-649a-d277-fe882fe8cf67
+ms.date: 06/08/2017
 ---
 
 # Implements Statement

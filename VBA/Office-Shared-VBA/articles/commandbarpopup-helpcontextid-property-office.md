@@ -1,9 +1,10 @@
 ---
 title: CommandBarPopup.HelpContextId Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.HelpContextId
 ms.assetid: b07d39b7-9fad-51dc-b093-de88cd1ea905
+ms.date: 06/08/2017
 ---
 
 

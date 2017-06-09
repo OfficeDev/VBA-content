@@ -3,14 +3,15 @@ title: DROP (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277610
 f1_keywords:
 - jetsql40.chm5277610
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f5fa12c2-e8cb-eccb-cd77-7def1d8e8cc4
+ms.date: 06/08/2017
 ---
 
 
 # DROP (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

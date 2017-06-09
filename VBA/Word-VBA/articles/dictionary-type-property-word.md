@@ -3,10 +3,11 @@ title: Dictionary.Type Property (Word)
 keywords: vbawd10.chm162332676
 f1_keywords:
 - vbawd10.chm162332676
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionary.Type
 ms.assetid: 50791b70-205c-dcd1-240e-d952cc6ac35a
+ms.date: 06/08/2017
 ---
 
 

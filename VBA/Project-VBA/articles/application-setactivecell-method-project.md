@@ -3,10 +3,11 @@ title: Application.SetActiveCell Method (Project)
 keywords: vbapj.chm6
 f1_keywords:
 - vbapj.chm6
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SetActiveCell
 ms.assetid: fcc225b7-98a6-7b3d-ff3b-22392f09920b
+ms.date: 06/08/2017
 ---
 
 

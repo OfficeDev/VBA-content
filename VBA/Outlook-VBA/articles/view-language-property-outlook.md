@@ -3,10 +3,11 @@ title: View.Language Property (Outlook)
 keywords: vbaol11.chm2489
 f1_keywords:
 - vbaol11.chm2489
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Language
 ms.assetid: caa2eb1b-26e3-e8da-c0d8-118d9ba654dc
+ms.date: 06/08/2017
 ---
 
 

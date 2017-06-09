@@ -3,10 +3,11 @@ title: Series.ApplyPictToFront Property (Word)
 keywords: vbawd10.chm123733628
 f1_keywords:
 - vbawd10.chm123733628
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ApplyPictToFront
 ms.assetid: 85390115-161c-bc63-fbfb-25d793aff79d
+ms.date: 06/08/2017
 ---
 
 

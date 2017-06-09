@@ -3,14 +3,15 @@ title: The text file specification <name> does not exist. You cannot import, exp
 keywords: jeterr40.chm5003625
 f1_keywords:
 - jeterr40.chm5003625
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 35e8c78b-50f9-30a5-ed9a-e7627e21f15f
+ms.date: 06/08/2017
 ---
 
 
 # The text file specification <name> does not exist. You cannot import, export, or link using the specification. (Error 3625)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

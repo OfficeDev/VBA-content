@@ -3,14 +3,15 @@ title: Circular reference caused by alias <name> in query definition's SELECT li
 keywords: jeterr40.chm5003103
 f1_keywords:
 - jeterr40.chm5003103
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b0f5d8a6-4735-367f-dd27-af3d97816430
+ms.date: 06/08/2017
 ---
 
 
 # Circular reference caused by alias <name> in query definition's SELECT list. (Error 3103)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

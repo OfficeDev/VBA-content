@@ -3,10 +3,11 @@ title: BoundObjectFrame.ColumnOrder Property (Access)
 keywords: vbaac10.chm10943
 f1_keywords:
 - vbaac10.chm10943
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ColumnOrder
 ms.assetid: 182e4cdf-f6e3-bf7b-5080-23b5d3cddfe3
+ms.date: 06/08/2017
 ---
 
 

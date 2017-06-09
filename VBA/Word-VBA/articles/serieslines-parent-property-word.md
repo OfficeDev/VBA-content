@@ -3,10 +3,11 @@ title: SeriesLines.Parent Property (Word)
 keywords: vbawd10.chm202702998
 f1_keywords:
 - vbawd10.chm202702998
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesLines.Parent
 ms.assetid: 97ec84b0-6e25-c130-e733-2d3423d12555
+ms.date: 06/08/2017
 ---
 
 

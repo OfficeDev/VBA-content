@@ -1,7 +1,8 @@
 ---
 title: Designing Outlook Workgroup Solutions
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a735db2a-5975-10ac-3f4b-7c2bcbabd8a1
+ms.date: 06/08/2017
 ---
 
 

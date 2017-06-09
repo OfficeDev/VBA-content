@@ -3,10 +3,11 @@ title: BuildingBlock.Category Property (Word)
 keywords: vbawd10.chm203620358
 f1_keywords:
 - vbawd10.chm203620358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.Category
 ms.assetid: 43e54bff-85ba-af64-eebe-033adbcc0873
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Information (Object Browser)
 keywords: vblr6.chm1011393
 f1_keywords:
 - vblr6.chm1011393
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 74b26551-05b1-5e66-e34f-1c8315185351
+ms.date: 06/08/2017
 ---
 
 

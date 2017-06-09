@@ -3,10 +3,11 @@ title: Application.ConstrainNumeric Property (Excel)
 keywords: vbaxl10.chm133096
 f1_keywords:
 - vbaxl10.chm133096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ConstrainNumeric
 ms.assetid: 910dd5ad-1750-71b8-8c12-df5107d21063
+ms.date: 06/08/2017
 ---
 
 

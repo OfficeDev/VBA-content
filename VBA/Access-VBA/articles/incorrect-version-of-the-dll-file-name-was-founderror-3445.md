@@ -1,13 +1,14 @@
 ---
 title: Incorrect version of the DLL file <name> was found. (Error 3445)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4c92e06f-68d7-cc4f-fadd-ef56c1b2d0bf
+ms.date: 06/08/2017
 ---
 
 
 # Incorrect version of the DLL file <name> was found. (Error 3445)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Accounts.AutoDiscoverComplete Event (Outlook)
 keywords: vbaol11.chm3477
 f1_keywords:
 - vbaol11.chm3477
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Accounts.AutoDiscoverComplete
 ms.assetid: 86738163-4fb3-b2f5-40bd-4704081d4564
+ms.date: 06/08/2017
 ---
 
 

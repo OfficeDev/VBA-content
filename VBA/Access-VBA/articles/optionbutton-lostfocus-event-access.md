@@ -3,10 +3,11 @@ title: OptionButton.LostFocus Event (Access)
 keywords: vbaac10.chm14139
 f1_keywords:
 - vbaac10.chm14139
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.LostFocus
 ms.assetid: e840c351-9aac-7a79-31ba-bf9929d0208a
+ms.date: 06/08/2017
 ---
 
 

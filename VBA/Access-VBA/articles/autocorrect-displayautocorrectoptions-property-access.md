@@ -3,10 +3,11 @@ title: AutoCorrect.DisplayAutoCorrectOptions Property (Access)
 keywords: vbaac10.chm13262
 f1_keywords:
 - vbaac10.chm13262
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AutoCorrect.DisplayAutoCorrectOptions
 ms.assetid: 47cee9cd-a920-f439-9e0a-10cade1b54e0
+ms.date: 06/08/2017
 ---
 
 

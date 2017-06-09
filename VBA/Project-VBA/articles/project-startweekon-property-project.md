@@ -1,9 +1,10 @@
 ---
 title: Project.StartWeekOn Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.StartWeekOn
 ms.assetid: c4cbd07f-4258-3655-b013-c65480895203
+ms.date: 06/08/2017
 ---
 
 

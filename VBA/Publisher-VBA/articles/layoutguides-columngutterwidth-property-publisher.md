@@ -3,10 +3,11 @@ title: LayoutGuides.ColumnGutterWidth Property (Publisher)
 keywords: vbapb10.chm1114128
 f1_keywords:
 - vbapb10.chm1114128
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.ColumnGutterWidth
 ms.assetid: 1c8fd297-1164-da50-cee8-390263cce5b0
+ms.date: 06/08/2017
 ---
 
 

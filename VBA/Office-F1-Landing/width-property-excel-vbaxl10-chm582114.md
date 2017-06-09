@@ -3,8 +3,9 @@ title: Width Property, Excel [vbaxl10.chm582114]
 keywords: vbaxl10.chm582114
 f1_keywords:
 - vbaxl10.chm582114
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d1e58d59-2e2e-46f5-bb5b-9ad2780b425f
+ms.date: 06/08/2017
 ---
 
 

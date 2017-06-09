@@ -1,9 +1,10 @@
 ---
 title: Series.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Delete
 ms.assetid: 36684621-b198-689a-d7b2-9dbaf2a7f8c3
+ms.date: 06/08/2017
 ---
 
 

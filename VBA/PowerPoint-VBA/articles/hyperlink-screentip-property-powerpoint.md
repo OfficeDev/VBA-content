@@ -3,10 +3,11 @@ title: Hyperlink.ScreenTip Property (PowerPoint)
 keywords: vbapp10.chm526008
 f1_keywords:
 - vbapp10.chm526008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.ScreenTip
 ms.assetid: 96ff1076-7563-8250-ea75-cee46094824e
+ms.date: 06/08/2017
 ---
 
 

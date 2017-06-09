@@ -3,10 +3,11 @@ title: Rows.Shading Property (Word)
 keywords: vbawd10.chm155975782
 f1_keywords:
 - vbawd10.chm155975782
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.Shading
 ms.assetid: 79c5240c-2845-e038-49cb-8a9b1f8f2a71
+ms.date: 06/08/2017
 ---
 
 

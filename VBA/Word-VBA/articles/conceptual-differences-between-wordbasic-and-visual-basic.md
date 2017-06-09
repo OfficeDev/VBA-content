@@ -3,8 +3,9 @@ title: Conceptual Differences Between WordBasic and Visual Basic
 keywords: vbawd10.chm5210304
 f1_keywords:
 - vbawd10.chm5210304
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 2ec0fa57-68c4-f4e9-000c-91a2b97ac9ac
+ms.date: 06/08/2017
 ---
 
 

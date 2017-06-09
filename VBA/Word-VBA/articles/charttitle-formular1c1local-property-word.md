@@ -3,10 +3,11 @@ title: ChartTitle.FormulaR1C1Local Property (Word)
 keywords: vbawd10.chm65273900
 f1_keywords:
 - vbawd10.chm65273900
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.FormulaR1C1Local
 ms.assetid: d7beb687-f793-b1c1-0e15-1df48709431d
+ms.date: 06/08/2017
 ---
 
 

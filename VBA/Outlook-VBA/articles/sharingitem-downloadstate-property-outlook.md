@@ -3,10 +3,11 @@ title: SharingItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm676
 f1_keywords:
 - vbaol11.chm676
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.DownloadState
 ms.assetid: cc34148c-3b57-cb71-5027-b8f530286fb2
+ms.date: 06/08/2017
 ---
 
 

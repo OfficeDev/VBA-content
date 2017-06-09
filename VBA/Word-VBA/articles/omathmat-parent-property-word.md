@@ -3,10 +3,11 @@ title: OMathMat.Parent Property (Word)
 keywords: vbawd10.chm176029798
 f1_keywords:
 - vbawd10.chm176029798
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMat.Parent
 ms.assetid: a43c6c28-5442-c7fe-bd0e-45ce3812d831
+ms.date: 06/08/2017
 ---
 
 

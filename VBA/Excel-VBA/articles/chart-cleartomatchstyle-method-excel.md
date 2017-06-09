@@ -3,10 +3,11 @@ title: Chart.ClearToMatchStyle Method (Excel)
 keywords: vbaxl10.chm149185
 f1_keywords:
 - vbaxl10.chm149185
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ClearToMatchStyle
 ms.assetid: 8e45ac2f-c479-30b2-c0b0-3c1cf0670a80
+ms.date: 06/08/2017
 ---
 
 

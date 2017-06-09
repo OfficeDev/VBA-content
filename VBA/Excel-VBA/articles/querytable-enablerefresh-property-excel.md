@@ -3,10 +3,11 @@ title: QueryTable.EnableRefresh Property (Excel)
 keywords: vbaxl10.chm518084
 f1_keywords:
 - vbaxl10.chm518084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.EnableRefresh
 ms.assetid: 79a0b628-b90d-1795-830f-e05bc6043517
+ms.date: 06/08/2017
 ---
 
 

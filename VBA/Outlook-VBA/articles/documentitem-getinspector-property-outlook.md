@@ -3,10 +3,11 @@ title: DocumentItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1194
 f1_keywords:
 - vbaol11.chm1194
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.GetInspector
 ms.assetid: 7e1e27a9-8235-5289-a92d-33ed66137343
+ms.date: 06/08/2017
 ---
 
 

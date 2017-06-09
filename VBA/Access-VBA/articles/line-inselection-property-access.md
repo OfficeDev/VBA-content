@@ -3,10 +3,11 @@ title: Line.InSelection Property (Access)
 keywords: vbaac10.chm10346
 f1_keywords:
 - vbaac10.chm10346
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.InSelection
 ms.assetid: eaeac7f9-a452-7121-5950-1c9741c662c2
+ms.date: 06/08/2017
 ---
 
 

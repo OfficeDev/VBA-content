@@ -3,10 +3,11 @@ title: ImportExportSpecification.Application Property (Access)
 keywords: vbaac10.chm13328
 f1_keywords:
 - vbaac10.chm13328
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ImportExportSpecification.Application
 ms.assetid: 6ae597a1-8d1f-dc4f-c170-a4e664011a58
+ms.date: 06/08/2017
 ---
 
 

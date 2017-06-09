@@ -3,10 +3,11 @@ title: SparkVerticalAxis.MinScaleType Property (Excel)
 keywords: vbaxl10.chm881073
 f1_keywords:
 - vbaxl10.chm881073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.MinScaleType
 ms.assetid: e3a306db-fe5d-fe5b-23bb-b3e8b70a516c
+ms.date: 06/08/2017
 ---
 
 

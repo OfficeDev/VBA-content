@@ -3,10 +3,11 @@ title: PivotTable.InGridDropZones Property (Excel)
 keywords: vbaxl10.chm235169
 f1_keywords:
 - vbaxl10.chm235169
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.InGridDropZones
 ms.assetid: 464e175b-8333-a693-da1e-a2ccf7632fca
+ms.date: 06/08/2017
 ---
 
 

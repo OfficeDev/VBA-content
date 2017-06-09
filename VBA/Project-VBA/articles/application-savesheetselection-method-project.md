@@ -3,10 +3,11 @@ title: Application.SaveSheetSelection Method (Project)
 keywords: vbapj.chm2095
 f1_keywords:
 - vbapj.chm2095
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SaveSheetSelection
 ms.assetid: ed792b68-7af2-2b42-9f92-eb77e3b1780e
+ms.date: 06/08/2017
 ---
 
 

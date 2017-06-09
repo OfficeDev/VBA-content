@@ -1,9 +1,10 @@
 ---
 title: Group2.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Group2.Application
 ms.assetid: 4eb2f903-97b4-c98e-50d6-5d028ddeefad
+ms.date: 06/08/2017
 ---
 
 

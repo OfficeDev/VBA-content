@@ -3,10 +3,11 @@ title: DropDown Method
 keywords: fm20.chm5224958
 f1_keywords:
 - fm20.chm5224958
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DropDown
 ms.assetid: 414efeb9-c598-cd48-763b-b42a1b947f0a
+ms.date: 06/08/2017
 ---
 
 

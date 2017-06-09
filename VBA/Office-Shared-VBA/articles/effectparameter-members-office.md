@@ -1,7 +1,8 @@
 ---
 title: EffectParameter Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a52ed620-d0eb-4111-495e-bfe6e768c8df
+ms.date: 06/08/2017
 ---
 
 

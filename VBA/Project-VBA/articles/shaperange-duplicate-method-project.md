@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Duplicate Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: c7af186e-616a-f20c-e2f3-8b0319e6af44
+ms.date: 06/08/2017
 ---
 
 

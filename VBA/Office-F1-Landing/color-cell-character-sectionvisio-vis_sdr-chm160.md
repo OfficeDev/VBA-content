@@ -3,8 +3,9 @@ title: Color Cell (Character Section), Visio [vis_sdr.chm160]
 keywords: vis_sdr.chm160
 f1_keywords:
 - vis_sdr.chm160
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 52caa4f8-7b35-4e2c-8880-0da7c90cf9d4
+ms.date: 06/08/2017
 ---
 
 

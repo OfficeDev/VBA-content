@@ -3,8 +3,9 @@ title: Expected procedure, not module, Office Shared [vblr6.chm1035015]
 keywords: vblr6.chm1035015
 f1_keywords:
 - vblr6.chm1035015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a13bd4b-e11c-4b21-be80-58cad67d66f5
+ms.date: 06/08/2017
 ---
 
 

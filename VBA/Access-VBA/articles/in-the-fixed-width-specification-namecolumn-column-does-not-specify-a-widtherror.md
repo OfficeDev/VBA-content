@@ -3,8 +3,9 @@ title: In the fixed width specification <name>, column <column> does not specify
 keywords: jeterr40.chm5003444
 f1_keywords:
 - jeterr40.chm5003444
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e3af2949-6d6b-ac62-d151-d65007256591
+ms.date: 06/08/2017
 ---
 
 

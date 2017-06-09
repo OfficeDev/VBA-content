@@ -1,9 +1,10 @@
 ---
 title: PjBaselines Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjBaselines
 ms.assetid: 0d359447-5fd9-1378-2593-f410672dc858
+ms.date: 06/08/2017
 ---
 
 

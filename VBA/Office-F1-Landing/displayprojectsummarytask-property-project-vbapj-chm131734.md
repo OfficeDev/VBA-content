@@ -3,8 +3,9 @@ title: DisplayProjectSummaryTask Property, Project [vbapj.chm131734]
 keywords: vbapj.chm131734
 f1_keywords:
 - vbapj.chm131734
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 15e668ec-edcf-4b6a-a4fc-817097c34d61
+ms.date: 06/08/2017
 ---
 
 

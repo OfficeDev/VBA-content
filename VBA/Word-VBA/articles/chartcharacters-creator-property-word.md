@@ -3,10 +3,11 @@ title: ChartCharacters.Creator Property (Word)
 keywords: vbawd10.chm250740885
 f1_keywords:
 - vbawd10.chm250740885
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartCharacters.Creator
 ms.assetid: 3b354698-560c-cae4-34ae-b4814c9ef83b
+ms.date: 06/08/2017
 ---
 
 

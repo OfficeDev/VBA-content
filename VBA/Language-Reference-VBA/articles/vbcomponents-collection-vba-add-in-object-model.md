@@ -3,8 +3,9 @@ title: VBComponents Collection (VBA Add-In Object Model)
 keywords: vbob6.chm1070945
 f1_keywords:
 - vbob6.chm1070945
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de087f44-949a-949a-9703-244ea076480e
+ms.date: 06/08/2017
 ---
 
 

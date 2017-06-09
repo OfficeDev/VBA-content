@@ -3,10 +3,11 @@ title: Selection.Parent Property (Publisher)
 keywords: vbapb10.chm851970
 f1_keywords:
 - vbapb10.chm851970
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Selection.Parent
 ms.assetid: ba5647a3-eef4-462f-70b7-71ace915c7c9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.TextStyleKeepFmt Property (Visio)
 keywords: vis_sdr.chm11214535
 f1_keywords:
 - vis_sdr.chm11214535
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.TextStyleKeepFmt
 ms.assetid: add41319-8b81-a803-46e2-697df37eb731
+ms.date: 06/08/2017
 ---
 
 

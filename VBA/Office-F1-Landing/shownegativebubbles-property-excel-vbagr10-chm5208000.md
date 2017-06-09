@@ -3,8 +3,9 @@ title: ShowNegativeBubbles Property, Excel [vbagr10.chm5208000]
 keywords: vbagr10.chm5208000
 f1_keywords:
 - vbagr10.chm5208000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f062b1f3-4445-4d24-a582-9aec23254537
+ms.date: 06/08/2017
 ---
 
 

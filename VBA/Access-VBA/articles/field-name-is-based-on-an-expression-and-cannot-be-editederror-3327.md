@@ -1,13 +1,14 @@
 ---
 title: Field <name> is based on an expression and cannot be edited. (Error 3327)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7d7c1e1f-645e-b111-60c3-666640d8bde1
+ms.date: 06/08/2017
 ---
 
 
 # Field <name> is based on an expression and cannot be edited. (Error 3327)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

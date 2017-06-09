@@ -3,8 +3,9 @@ title: EventDblClick Cell (Events Section), Visio [vis_sdr.chm345]
 keywords: vis_sdr.chm345
 f1_keywords:
 - vis_sdr.chm345
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30ff73fd-22af-46db-97d6-dab353140432
+ms.date: 06/08/2017
 ---
 
 

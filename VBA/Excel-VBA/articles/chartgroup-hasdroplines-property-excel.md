@@ -3,10 +3,11 @@ title: ChartGroup.HasDropLines Property (Excel)
 keywords: vbaxl10.chm568079
 f1_keywords:
 - vbaxl10.chm568079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.HasDropLines
 ms.assetid: cc0d188d-51ba-951d-7063-10820e5e4a42
+ms.date: 06/08/2017
 ---
 
 

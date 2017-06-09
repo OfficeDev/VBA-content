@@ -3,10 +3,11 @@ title: Font.ExpandUsingKashida Property (Publisher)
 keywords: vbapb10.chm5374004
 f1_keywords:
 - vbapb10.chm5374004
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.ExpandUsingKashida
 ms.assetid: ecf3a170-5f07-379e-ff56-504beb770308
+ms.date: 06/08/2017
 ---
 
 

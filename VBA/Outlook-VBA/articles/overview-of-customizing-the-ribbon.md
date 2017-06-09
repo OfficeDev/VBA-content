@@ -1,7 +1,8 @@
 ---
 title: Overview of Customizing the Ribbon
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ee49751d-9eae-357c-5fa9-0b2dd4ff0890
+ms.date: 06/08/2017
 ---
 
 

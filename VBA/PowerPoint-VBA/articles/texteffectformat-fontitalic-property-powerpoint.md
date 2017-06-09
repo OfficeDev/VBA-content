@@ -3,10 +3,11 @@ title: TextEffectFormat.FontItalic Property (PowerPoint)
 keywords: vbapp10.chm556005
 f1_keywords:
 - vbapp10.chm556005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.FontItalic
 ms.assetid: ee7b38b5-2ef7-ba05-e986-b3c84881baed
+ms.date: 06/08/2017
 ---
 
 

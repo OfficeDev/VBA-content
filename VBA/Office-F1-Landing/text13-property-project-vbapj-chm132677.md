@@ -3,8 +3,9 @@ title: Text13 Property, Project [vbapj.chm132677]
 keywords: vbapj.chm132677
 f1_keywords:
 - vbapj.chm132677
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78b90339-6dd0-4b97-8f39-1cc3c6770e80
+ms.date: 06/08/2017
 ---
 
 

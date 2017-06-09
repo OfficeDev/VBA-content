@@ -3,10 +3,11 @@ title: SlicerItem.HasData Property (Excel)
 keywords: vbaxl10.chm907080
 f1_keywords:
 - vbaxl10.chm907080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItem.HasData
 ms.assetid: 17ce0cdc-ec30-638a-e869-4640ee0ef5a3
+ms.date: 06/08/2017
 ---
 
 

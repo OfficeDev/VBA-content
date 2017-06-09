@@ -3,10 +3,11 @@ title: OptionGroup.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.BorderThemeColorIndex
 ms.assetid: 77c8779c-8ad7-5000-1184-87bf78e46f4b
+ms.date: 06/08/2017
 ---
 
 

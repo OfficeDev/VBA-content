@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Unload
 ms.assetid: e634c3f3-e637-f18c-0f7e-2e5cb18566a3
+ms.date: 06/08/2017
 ---
 
 

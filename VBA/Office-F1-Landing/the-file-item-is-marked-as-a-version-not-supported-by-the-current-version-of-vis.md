@@ -3,8 +3,9 @@ title: The file 'item' is marked as a version not supported by the current versi
 keywords: vblr6.chm1117774
 f1_keywords:
 - vblr6.chm1117774
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a2a8a953-290a-49ef-a122-3756880865f7
+ms.date: 06/08/2017
 ---
 
 

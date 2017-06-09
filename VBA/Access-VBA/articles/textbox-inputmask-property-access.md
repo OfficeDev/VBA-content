@@ -3,10 +3,11 @@ title: TextBox.InputMask Property (Access)
 keywords: vbaac10.chm11046
 f1_keywords:
 - vbaac10.chm11046
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.InputMask
 ms.assetid: a705c2a4-ff2f-74d1-4a7c-1eade3b00ae8
+ms.date: 06/08/2017
 ---
 
 

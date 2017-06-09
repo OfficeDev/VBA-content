@@ -1,9 +1,10 @@
 ---
 title: Application.COMAddIns Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.COMAddIns
 ms.assetid: 32bf64b2-4fee-cc9f-210e-4a463d04a900
+ms.date: 06/08/2017
 ---
 
 

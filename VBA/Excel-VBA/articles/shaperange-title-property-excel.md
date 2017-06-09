@@ -3,10 +3,11 @@ title: ShapeRange.Title Property (Excel)
 keywords: vbaxl10.chm640146
 f1_keywords:
 - vbaxl10.chm640146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Title
 ms.assetid: 46e7315f-5bd1-5c2b-1b83-2dcf95c9f6e2
+ms.date: 06/08/2017
 ---
 
 

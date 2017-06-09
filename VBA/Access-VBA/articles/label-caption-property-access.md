@@ -3,10 +3,11 @@ title: Label.Caption Property (Access)
 keywords: vbaac10.chm10191
 f1_keywords:
 - vbaac10.chm10191
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Caption
 ms.assetid: 47f58d63-a93d-a0ef-333c-ab0479bad6c9
+ms.date: 06/08/2017
 ---
 
 

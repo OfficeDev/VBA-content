@@ -3,8 +3,9 @@ title: ChartCategory.Name Property (Word)
 keywords: vbawd10.chm143392878
 f1_keywords:
 - vbawd10.chm143392878
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e2967c5f-639c-ae31-9098-d073c6602e5e
+ms.date: 06/08/2017
 ---
 
 

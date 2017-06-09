@@ -3,10 +3,11 @@ title: MailMergeField.Locked Property (Word)
 keywords: vbawd10.chm152961027
 f1_keywords:
 - vbawd10.chm152961027
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Locked
 ms.assetid: 3e926cc7-a3a4-4db9-ff11-abc1a57bdfba
+ms.date: 06/08/2017
 ---
 
 

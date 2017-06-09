@@ -3,10 +3,11 @@ title: Index Property
 keywords: vbagr10.chm66022
 f1_keywords:
 - vbagr10.chm66022
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Index
 ms.assetid: 39e1b38c-776c-fd78-0115-a14672d022f2
+ms.date: 06/08/2017
 ---
 
 

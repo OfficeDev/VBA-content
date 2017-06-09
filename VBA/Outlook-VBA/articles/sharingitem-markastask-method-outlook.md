@@ -3,10 +3,11 @@ title: SharingItem.MarkAsTask Method (Outlook)
 keywords: vbaol11.chm3223
 f1_keywords:
 - vbaol11.chm3223
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.MarkAsTask
 ms.assetid: deab1b6c-2d22-678c-1a13-2b171d27a971
+ms.date: 06/08/2017
 ---
 
 

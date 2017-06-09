@@ -3,10 +3,11 @@ title: Conflict.Item Property (Outlook)
 keywords: vbaol11.chm415
 f1_keywords:
 - vbaol11.chm415
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflict.Item
 ms.assetid: 4d2df6de-d68a-fd7a-d41e-90fc13f00ceb
+ms.date: 06/08/2017
 ---
 
 

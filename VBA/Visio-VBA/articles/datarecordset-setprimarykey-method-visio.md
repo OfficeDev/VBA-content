@@ -3,10 +3,11 @@ title: DataRecordset.SetPrimaryKey Method (Visio)
 keywords: vis_sdr.chm16460295
 f1_keywords:
 - vis_sdr.chm16460295
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.SetPrimaryKey
 ms.assetid: 5ec125ff-b4a8-abcb-0d9d-140e97de6db2
+ms.date: 06/08/2017
 ---
 
 

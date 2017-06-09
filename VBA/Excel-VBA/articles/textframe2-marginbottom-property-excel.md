@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.MarginBottom Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.MarginBottom
 ms.assetid: 36847492-45d4-5856-383c-291ca6d64a7e
+ms.date: 06/08/2017
 ---
 
 

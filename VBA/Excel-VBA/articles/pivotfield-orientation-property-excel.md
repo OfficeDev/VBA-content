@@ -3,10 +3,11 @@ title: PivotField.Orientation Property (Excel)
 keywords: vbaxl10.chm240087
 f1_keywords:
 - vbaxl10.chm240087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Orientation
 ms.assetid: 1b3e0867-3a44-a908-ef1b-90ab21653ab9
+ms.date: 06/08/2017
 ---
 
 

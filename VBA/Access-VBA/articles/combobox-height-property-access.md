@@ -3,10 +3,11 @@ title: ComboBox.Height Property (Access)
 keywords: vbaac10.chm11404
 f1_keywords:
 - vbaac10.chm11404
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Height
 ms.assetid: 9cd1dd69-e7b2-800e-301c-742dc4804d28
+ms.date: 06/08/2017
 ---
 
 

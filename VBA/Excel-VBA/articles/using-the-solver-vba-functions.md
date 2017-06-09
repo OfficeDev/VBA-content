@@ -1,7 +1,8 @@
 ---
 title: Using the Solver VBA Functions
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 37d0aa49-2e5c-5efe-1c69-b5168af1f231
+ms.date: 06/08/2017
 ---
 
 

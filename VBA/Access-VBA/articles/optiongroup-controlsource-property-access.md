@@ -3,10 +3,11 @@ title: OptionGroup.ControlSource Property (Access)
 keywords: vbaac10.chm10822
 f1_keywords:
 - vbaac10.chm10822
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.ControlSource
 ms.assetid: 9f4a87a0-f31a-8b6f-c39a-51f49c96221e
+ms.date: 06/08/2017
 ---
 
 

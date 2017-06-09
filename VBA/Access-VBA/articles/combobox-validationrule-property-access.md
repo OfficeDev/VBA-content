@@ -3,10 +3,11 @@ title: ComboBox.ValidationRule Property (Access)
 keywords: vbaac10.chm11391
 f1_keywords:
 - vbaac10.chm11391
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ValidationRule
 ms.assetid: 3ea94f44-46fa-57a7-a9b4-a9e7b58e087b
+ms.date: 06/08/2017
 ---
 
 

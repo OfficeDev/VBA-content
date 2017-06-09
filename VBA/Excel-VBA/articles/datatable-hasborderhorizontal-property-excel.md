@@ -3,10 +3,11 @@ title: DataTable.HasBorderHorizontal Property (Excel)
 keywords: vbaxl10.chm626074
 f1_keywords:
 - vbaxl10.chm626074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataTable.HasBorderHorizontal
 ms.assetid: 9d0f17f2-7786-afd5-164b-c7c5a4bb06d2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalculatedMember.IsValid Property (Excel)
 keywords: vbaxl10.chm686077
 f1_keywords:
 - vbaxl10.chm686077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.IsValid
 ms.assetid: 9b0f78c6-3435-6539-aff0-165810668dde
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Indexes.Count Property (Word)
 keywords: vbawd10.chm159121409
 f1_keywords:
 - vbawd10.chm159121409
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Count
 ms.assetid: dbd7590f-f16a-5850-5e79-6b8a76174975
+ms.date: 06/08/2017
 ---
 
 

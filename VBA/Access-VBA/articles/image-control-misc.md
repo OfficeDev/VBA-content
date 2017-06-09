@@ -3,14 +3,15 @@ title: Image Control (Misc)
 keywords: vbaac10.chm5186617
 f1_keywords:
 - vbaac10.chm5186617
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1f938a6e-7aea-7787-d959-e21edaa9342c
+ms.date: 06/08/2017
 ---
 
 
 # Image Control (Misc)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

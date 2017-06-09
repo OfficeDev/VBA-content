@@ -3,8 +3,9 @@ title: Arrange Buttons Commands (Format Menu)
 keywords: vbui6.chm2056440
 f1_keywords:
 - vbui6.chm2056440
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51e35a64-3ce4-fad7-0160-0316a4d0e19f
+ms.date: 06/08/2017
 ---
 
 

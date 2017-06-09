@@ -3,10 +3,11 @@ title: MailMergeFilterCriterion.Column Property (Publisher)
 keywords: vbapb10.chm6815747
 f1_keywords:
 - vbapb10.chm6815747
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Column
 ms.assetid: 000b4b4c-73a1-ea9f-6f44-bc6eac15cb4b
+ms.date: 06/08/2017
 ---
 
 

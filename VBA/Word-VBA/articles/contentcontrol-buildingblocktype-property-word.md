@@ -3,10 +3,11 @@ title: ContentControl.BuildingBlockType Property (Word)
 keywords: vbawd10.chm266534933
 f1_keywords:
 - vbawd10.chm266534933
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.BuildingBlockType
 ms.assetid: 6fe28ef5-fe7d-792e-f73a-b6726c802790
+ms.date: 06/08/2017
 ---
 
 

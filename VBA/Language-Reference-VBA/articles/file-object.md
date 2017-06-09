@@ -3,10 +3,11 @@ title: File Object
 keywords: vblr6.chm2181925
 f1_keywords:
 - vblr6.chm2181925
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.File
 ms.assetid: 0c8ff620-e1fe-e588-c2a6-d76adf372bbe
+ms.date: 06/08/2017
 ---
 
 

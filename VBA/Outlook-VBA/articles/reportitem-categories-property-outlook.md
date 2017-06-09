@@ -3,10 +3,11 @@ title: ReportItem.Categories Property (Outlook)
 keywords: vbaol11.chm1642
 f1_keywords:
 - vbaol11.chm1642
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Categories
 ms.assetid: 57983279-5be9-1a08-8a13-d70d5e252699
+ms.date: 06/08/2017
 ---
 
 

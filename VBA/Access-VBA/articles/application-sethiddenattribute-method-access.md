@@ -3,10 +3,11 @@ title: Application.SetHiddenAttribute Method (Access)
 keywords: vbaac10.chm12571
 f1_keywords:
 - vbaac10.chm12571
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.SetHiddenAttribute
 ms.assetid: b92a1edc-033a-095c-980f-852b8f7e0785
+ms.date: 06/08/2017
 ---
 
 

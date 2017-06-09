@@ -3,10 +3,11 @@ title: CommandBar Object (Office)
 keywords: vbaof11.chm3000
 f1_keywords:
 - vbaof11.chm3000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBar
 ms.assetid: 78603954-40aa-64cb-c407-2e0820d65231
+ms.date: 06/08/2017
 ---
 
 

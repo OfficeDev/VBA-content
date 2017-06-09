@@ -3,10 +3,11 @@ title: CheckBox.OnKeyDown Property (Access)
 keywords: vbaac10.chm10746
 f1_keywords:
 - vbaac10.chm10746
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnKeyDown
 ms.assetid: ead6dc7b-2be4-a8c4-6f4a-7b3fcfcacc48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Plate.Name Property (Publisher)
 keywords: vbapb10.chm2883591
 f1_keywords:
 - vbapb10.chm2883591
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.Name
 ms.assetid: 47453f6b-2f5b-17ba-5787-4701636ccd72
+ms.date: 06/08/2017
 ---
 
 

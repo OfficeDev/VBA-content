@@ -3,8 +3,9 @@ title: PivotTable.PivotChart Property (Excel)
 keywords: vbaxl10.chm235205
 f1_keywords:
 - vbaxl10.chm235205
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 1cc9d9ba-1867-614e-a2be-fea31eb71b1f
+ms.date: 06/08/2017
 ---
 
 

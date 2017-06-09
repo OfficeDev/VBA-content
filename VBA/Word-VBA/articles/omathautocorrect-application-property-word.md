@@ -3,10 +3,11 @@ title: OMathAutoCorrect.Application Property (Word)
 keywords: vbawd10.chm258474084
 f1_keywords:
 - vbawd10.chm258474084
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrect.Application
 ms.assetid: 523809a0-ee0f-a278-a0ce-7c1ce87f48ab
+ms.date: 06/08/2017
 ---
 
 

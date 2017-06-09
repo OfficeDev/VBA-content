@@ -3,10 +3,11 @@ title: Options.AutoFormatAsYouTypeReplaceFarEastDashes Property (Word)
 keywords: vbawd10.chm162988333
 f1_keywords:
 - vbawd10.chm162988333
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeReplaceFarEastDashes
 ms.assetid: 2126603f-5cc6-4cb7-7a4e-1aac6b22571f
+ms.date: 06/08/2017
 ---
 
 

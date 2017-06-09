@@ -3,10 +3,11 @@ title: FillFormat.PresetGradientType Property (PowerPoint)
 keywords: vbapp10.chm552018
 f1_keywords:
 - vbapp10.chm552018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.PresetGradientType
 ms.assetid: a9a4f3fc-7350-aba1-394a-10936166ea4c
+ms.date: 06/08/2017
 ---
 
 

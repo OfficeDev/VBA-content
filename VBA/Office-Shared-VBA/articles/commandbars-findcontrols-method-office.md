@@ -3,10 +3,11 @@ title: CommandBars.FindControls Method (Office)
 keywords: vbaof11.chm2014
 f1_keywords:
 - vbaof11.chm2014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.FindControls
 ms.assetid: 79c46884-816d-def6-2bff-85b59b0831ea
+ms.date: 06/08/2017
 ---
 
 

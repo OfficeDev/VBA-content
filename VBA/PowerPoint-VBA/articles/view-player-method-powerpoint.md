@@ -3,10 +3,11 @@ title: View.Player Method (PowerPoint)
 keywords: vbapp10.chm512013
 f1_keywords:
 - vbapp10.chm512013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Player
 ms.assetid: 398b3eab-a4a3-89d5-3ba1-626cca1e97eb
+ms.date: 06/08/2017
 ---
 
 

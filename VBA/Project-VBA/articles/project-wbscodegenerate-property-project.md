@@ -3,10 +3,11 @@ title: Project.WBSCodeGenerate Property (Project)
 keywords: vbapj.chm132814
 f1_keywords:
 - vbapj.chm132814
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.WBSCodeGenerate
 ms.assetid: c387015f-6243-1509-ae1a-bafdf09f7393
+ms.date: 06/08/2017
 ---
 
 

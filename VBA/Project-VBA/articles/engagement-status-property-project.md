@@ -1,6 +1,8 @@
 ---
 title: Engagement.Status Property (Project)
 ms.assetid: d928fab4-e451-2384-8b0d-1493b444b390
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

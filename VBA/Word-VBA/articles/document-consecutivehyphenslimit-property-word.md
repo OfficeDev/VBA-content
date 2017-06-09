@@ -3,10 +3,11 @@ title: Document.ConsecutiveHyphensLimit Property (Word)
 keywords: vbawd10.chm158007310
 f1_keywords:
 - vbawd10.chm158007310
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ConsecutiveHyphensLimit
 ms.assetid: 73ff4693-232b-fae3-8077-f6675caede1c
+ms.date: 06/08/2017
 ---
 
 

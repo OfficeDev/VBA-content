@@ -3,8 +3,9 @@ title: AppObjDeactivated Event, Visio [vis_sdr.chm10019020]
 keywords: vis_sdr.chm10019020
 f1_keywords:
 - vis_sdr.chm10019020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5816b343-9463-4f13-8b38-ac6ed76fa2ef
+ms.date: 06/08/2017
 ---
 
 

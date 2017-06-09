@@ -1,9 +1,10 @@
 ---
 title: WdStyleSort Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdStyleSort
 ms.assetid: b5113d24-6f1a-4079-df09-469a226fccf0
+ms.date: 06/08/2017
 ---
 
 

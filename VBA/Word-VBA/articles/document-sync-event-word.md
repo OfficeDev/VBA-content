@@ -3,10 +3,11 @@ title: Document.Sync Event (Word)
 keywords: vbawd10.chm4001007
 f1_keywords:
 - vbawd10.chm4001007
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Sync
 ms.assetid: cc46cfdf-ae26-9bba-7084-64349859d304
+ms.date: 06/08/2017
 ---
 
 

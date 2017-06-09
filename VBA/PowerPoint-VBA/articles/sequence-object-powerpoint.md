@@ -3,10 +3,11 @@ title: Sequence Object (PowerPoint)
 keywords: vbapp10.chm651000
 f1_keywords:
 - vbapp10.chm651000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence
 ms.assetid: 37a5224f-2461-b575-acb6-6905bbb5136d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: InvisibleApp.ActiveDocument Property (Visio)
 keywords: vis_sdr.chm17513025
 f1_keywords:
 - vis_sdr.chm17513025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ActiveDocument
 ms.assetid: 371a2ac8-e2f4-b266-be65-0086baaee59f
+ms.date: 06/08/2017
 ---
 
 

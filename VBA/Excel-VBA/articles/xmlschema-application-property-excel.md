@@ -3,10 +3,11 @@ title: XmlSchema.Application Property (Excel)
 keywords: vbaxl10.chm749073
 f1_keywords:
 - vbaxl10.chm749073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlSchema.Application
 ms.assetid: c9a4dd13-acb4-b841-3099-70872547156e
+ms.date: 06/08/2017
 ---
 
 

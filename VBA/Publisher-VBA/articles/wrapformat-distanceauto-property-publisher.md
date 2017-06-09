@@ -3,10 +3,11 @@ title: WrapFormat.DistanceAuto Property (Publisher)
 keywords: vbapb10.chm786437
 f1_keywords:
 - vbapb10.chm786437
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.DistanceAuto
 ms.assetid: 8b4e6b93-6e68-5c4a-2164-1a88ca0a633e
+ms.date: 06/08/2017
 ---
 
 

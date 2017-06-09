@@ -3,10 +3,11 @@ title: Cell.InheritedFormulaSource Property (Visio)
 keywords: vis_sdr.chm10150680
 f1_keywords:
 - vis_sdr.chm10150680
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.InheritedFormulaSource
 ms.assetid: 62aedef3-06b1-2fc3-5fd2-03f77668548f
+ms.date: 06/08/2017
 ---
 
 

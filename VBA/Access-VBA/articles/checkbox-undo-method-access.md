@@ -3,10 +3,11 @@ title: CheckBox.Undo Method (Access)
 keywords: vbaac10.chm10684
 f1_keywords:
 - vbaac10.chm10684
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Undo
 ms.assetid: e69e5d59-398d-744c-0a99-e2ca9b290c9b
+ms.date: 06/08/2017
 ---
 
 

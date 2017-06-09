@@ -3,10 +3,11 @@ title: Page.LinkShapesToDataRows Method (Visio)
 keywords: vis_sdr.chm10960155
 f1_keywords:
 - vis_sdr.chm10960155
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.LinkShapesToDataRows
 ms.assetid: 306c8edf-04ea-1e54-b3cf-63ea0352c242
+ms.date: 06/08/2017
 ---
 
 

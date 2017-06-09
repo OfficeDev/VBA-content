@@ -3,10 +3,11 @@ title: MeetingItem.ReplyRecipients Property (Outlook)
 keywords: vbaol11.chm1448
 f1_keywords:
 - vbaol11.chm1448
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReplyRecipients
 ms.assetid: a4314327-6174-4fb2-236a-e154457033ae
+ms.date: 06/08/2017
 ---
 
 

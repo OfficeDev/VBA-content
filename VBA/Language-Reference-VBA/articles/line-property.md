@@ -3,10 +3,11 @@ title: Line Property
 keywords: vblr6.chm2182074
 f1_keywords:
 - vblr6.chm2182074
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Line
 ms.assetid: 018367e8-d39b-f0a6-0100-d5e96e17442e
+ms.date: 06/08/2017
 ---
 
 

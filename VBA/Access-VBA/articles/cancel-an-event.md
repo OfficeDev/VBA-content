@@ -1,7 +1,8 @@
 ---
 title: Cancel an Event
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f91f4f8a-99fa-dca7-576a-11c76d6ddc93
+ms.date: 06/08/2017
 ---
 
 

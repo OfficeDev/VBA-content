@@ -3,10 +3,11 @@ title: ListBox.Top Property (Access)
 keywords: vbaac10.chm11242
 f1_keywords:
 - vbaac10.chm11242
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Top
 ms.assetid: 1b1606ca-01df-1c5b-5865-51dc257d62c0
+ms.date: 06/08/2017
 ---
 
 

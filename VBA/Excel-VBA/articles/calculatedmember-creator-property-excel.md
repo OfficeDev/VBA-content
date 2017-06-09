@@ -3,10 +3,11 @@ title: CalculatedMember.Creator Property (Excel)
 keywords: vbaxl10.chm685074
 f1_keywords:
 - vbaxl10.chm685074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Creator
 ms.assetid: 2892e70d-6c8d-b327-138c-80fa0222a375
+ms.date: 06/08/2017
 ---
 
 

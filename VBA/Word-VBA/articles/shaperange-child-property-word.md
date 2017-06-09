@@ -3,10 +3,11 @@ title: ShapeRange.Child Property (Word)
 keywords: vbawd10.chm162857096
 f1_keywords:
 - vbawd10.chm162857096
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Child
 ms.assetid: 7d721776-4c39-787e-2a78-a3c3010f24ff
+ms.date: 06/08/2017
 ---
 
 

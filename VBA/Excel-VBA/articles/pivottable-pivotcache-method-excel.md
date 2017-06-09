@@ -3,10 +3,11 @@ title: PivotTable.PivotCache Method (Excel)
 keywords: vbaxl10.chm235115
 f1_keywords:
 - vbaxl10.chm235115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotCache
 ms.assetid: 82602154-783d-3f78-b354-0dabfdc34c98
+ms.date: 06/08/2017
 ---
 
 

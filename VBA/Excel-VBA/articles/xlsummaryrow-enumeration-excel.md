@@ -1,9 +1,10 @@
 ---
 title: XlSummaryRow Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSummaryRow
 ms.assetid: 001da604-eb94-ba79-b43e-902662826116
+ms.date: 06/08/2017
 ---
 
 

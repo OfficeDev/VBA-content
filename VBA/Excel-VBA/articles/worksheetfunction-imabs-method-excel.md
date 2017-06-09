@@ -3,10 +3,11 @@ title: WorksheetFunction.ImAbs Method (Excel)
 keywords: vbaxl10.chm137276
 f1_keywords:
 - vbaxl10.chm137276
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImAbs
 ms.assetid: 630fc586-8899-59e2-dde9-629c08f2b8eb
+ms.date: 06/08/2017
 ---
 
 

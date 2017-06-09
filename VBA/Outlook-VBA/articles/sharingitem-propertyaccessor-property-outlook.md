@@ -3,10 +3,11 @@ title: SharingItem.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm693
 f1_keywords:
 - vbaol11.chm693
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PropertyAccessor
 ms.assetid: 19286a33-df14-056d-13c7-05051252bf4a
+ms.date: 06/08/2017
 ---
 
 

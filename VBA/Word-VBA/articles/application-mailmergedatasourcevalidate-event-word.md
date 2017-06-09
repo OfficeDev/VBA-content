@@ -3,10 +3,11 @@ title: Application.MailMergeDataSourceValidate Event (Word)
 keywords: vbawd10.chm4000021
 f1_keywords:
 - vbawd10.chm4000021
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MailMergeDataSourceValidate
 ms.assetid: 31e03b87-b76c-9cfe-afb0-c9ee5cbcd13b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MsoSyncStatusType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoSyncStatusType
 ms.assetid: 52dab603-eb05-709a-99d5-908f2713b953
+ms.date: 06/08/2017
 ---
 
 

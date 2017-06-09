@@ -3,8 +3,9 @@ title: Legend Object, Excel [vbagr10.chm5207600]
 keywords: vbagr10.chm5207600
 f1_keywords:
 - vbagr10.chm5207600
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 26ee74d8-faa4-4e73-97bc-bd8e5c2eff5a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Comments.Application Property (PowerPoint)
 keywords: vbapp10.chm641001
 f1_keywords:
 - vbapp10.chm641001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments.Application
 ms.assetid: d87fe93f-1d1a-81c0-5e0d-27d2267ac45e
+ms.date: 06/08/2017
 ---
 
 

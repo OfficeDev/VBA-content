@@ -3,10 +3,11 @@ title: TextFrame.PreviousLinkedTextFrame Property (Publisher)
 keywords: vbapb10.chm3866656
 f1_keywords:
 - vbapb10.chm3866656
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.PreviousLinkedTextFrame
 ms.assetid: 00947ec3-fcff-4451-491b-5b7748ccb74e
+ms.date: 06/08/2017
 ---
 
 

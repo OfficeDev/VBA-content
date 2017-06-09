@@ -3,10 +3,11 @@ title: Conflict.Application Property (Word)
 keywords: vbawd10.chm78709736
 f1_keywords:
 - vbawd10.chm78709736
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflict.Application
 ms.assetid: 25930e9f-1d9f-c168-0156-9016ecc8d739
+ms.date: 06/08/2017
 ---
 
 

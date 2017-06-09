@@ -1,7 +1,8 @@
 ---
 title: Shape.BackgroundStyle Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 358fd8af-4c5a-2fb8-00f0-84c5e0ab832f
+ms.date: 06/08/2017
 ---
 
 

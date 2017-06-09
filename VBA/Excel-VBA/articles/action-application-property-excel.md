@@ -3,10 +3,11 @@ title: Action.Application Property (Excel)
 keywords: vbaxl10.chm797073
 f1_keywords:
 - vbaxl10.chm797073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Action.Application
 ms.assetid: 24da5249-0d00-77a8-c2f0-ab1b5424f30f
+ms.date: 06/08/2017
 ---
 
 

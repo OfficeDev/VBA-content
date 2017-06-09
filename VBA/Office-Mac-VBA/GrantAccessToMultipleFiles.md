@@ -1,8 +1,11 @@
+---
+title: Request access to multiple files
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Request access to multiple files
 
 Use the **GrantAccessToMultipleFiles** command to request access to multiple files at once in your Office 2016 for Mac solution.
-
-**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 

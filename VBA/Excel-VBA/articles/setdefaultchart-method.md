@@ -3,10 +3,11 @@ title: SetDefaultChart Method
 keywords: vbagr10.chm65755
 f1_keywords:
 - vbagr10.chm65755
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SetDefaultChart
 ms.assetid: 1afc1023-654b-67cd-aace-bc4b87747520
+ms.date: 06/08/2017
 ---
 
 

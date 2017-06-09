@@ -3,10 +3,11 @@ title: Window.SelectedText Property (Visio)
 keywords: vis_sdr.chm11651640
 f1_keywords:
 - vis_sdr.chm11651640
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.SelectedText
 ms.assetid: 75397f73-192b-7683-2a46-016d9b458879
+ms.date: 06/08/2017
 ---
 
 

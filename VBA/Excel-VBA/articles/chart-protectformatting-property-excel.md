@@ -3,10 +3,11 @@ title: Chart.ProtectFormatting Property (Excel)
 keywords: vbaxl10.chm149157
 f1_keywords:
 - vbaxl10.chm149157
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ProtectFormatting
 ms.assetid: 71630b7f-6c89-869d-cd5b-d0a7bacd904a
+ms.date: 06/08/2017
 ---
 
 

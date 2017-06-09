@@ -3,10 +3,11 @@ title: Documents.Item Property (Publisher)
 keywords: vbapb10.chm8650752
 f1_keywords:
 - vbapb10.chm8650752
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Documents.Item
 ms.assetid: 61cf3002-26d4-a678-abcb-940e7c385287
+ms.date: 06/08/2017
 ---
 
 

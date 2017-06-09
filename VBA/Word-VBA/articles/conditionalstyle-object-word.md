@@ -3,10 +3,11 @@ title: ConditionalStyle Object (Word)
 keywords: vbawd10.chm1389
 f1_keywords:
 - vbawd10.chm1389
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ConditionalStyle
 ms.assetid: 2380494e-09e9-8494-a93c-8bbaf621aad1
+ms.date: 06/08/2017
 ---
 
 

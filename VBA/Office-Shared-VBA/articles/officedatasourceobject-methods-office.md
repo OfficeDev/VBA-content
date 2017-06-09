@@ -1,7 +1,8 @@
 ---
 title: OfficeDataSourceObject Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a27b8323-b25a-4e87-8453-00077053d74d
+ms.date: 06/08/2017
 ---
 
 

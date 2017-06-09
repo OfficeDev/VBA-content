@@ -1,7 +1,8 @@
 ---
 title: Security Concerns for Solution Storage
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8c237cd0-043a-d394-91a5-d85aab459091
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Chart.PlotBy Property (Excel)
 keywords: vbaxl10.chm149155
 f1_keywords:
 - vbaxl10.chm149155
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.PlotBy
 ms.assetid: 69ff0fbe-7954-6808-68fa-cc92b2851dd8
+ms.date: 06/08/2017
 ---
 
 

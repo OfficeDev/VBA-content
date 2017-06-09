@@ -3,10 +3,11 @@ title: Application.SetShowTaskSuggestions Method (Project)
 keywords: vbapj.chm2177
 f1_keywords:
 - vbapj.chm2177
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SetShowTaskSuggestions
 ms.assetid: 650dd088-9b38-8706-900d-dad7a6ebf4fd
+ms.date: 06/08/2017
 ---
 
 

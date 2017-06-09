@@ -3,10 +3,11 @@ title: Paragraphs.HangingPunctuation Property (Word)
 keywords: vbawd10.chm156762231
 f1_keywords:
 - vbawd10.chm156762231
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.HangingPunctuation
 ms.assetid: e3a4005a-7a70-59c7-40d6-4e7489144b09
+ms.date: 06/08/2017
 ---
 
 

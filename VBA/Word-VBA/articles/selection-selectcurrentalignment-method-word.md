@@ -3,10 +3,11 @@ title: Selection.SelectCurrentAlignment Method (Word)
 keywords: vbawd10.chm158663174
 f1_keywords:
 - vbawd10.chm158663174
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentAlignment
 ms.assetid: 89d76005-c75a-7548-c1da-da292183d5ab
+ms.date: 06/08/2017
 ---
 
 

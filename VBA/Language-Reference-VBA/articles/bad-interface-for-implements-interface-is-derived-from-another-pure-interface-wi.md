@@ -3,8 +3,9 @@ title: "Bad interface for Implements: interface is derived from another pure int
 keywords: vblr6.chm1057158
 f1_keywords:
 - vblr6.chm1057158
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 911975b6-c72f-65a2-8211-893834e7d4ee
+ms.date: 06/08/2017
 ---
 
 

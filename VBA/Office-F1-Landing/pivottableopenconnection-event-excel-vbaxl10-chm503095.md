@@ -3,8 +3,9 @@ title: PivotTableOpenConnection Event, Excel [vbaxl10.chm503095]
 keywords: vbaxl10.chm503095
 f1_keywords:
 - vbaxl10.chm503095
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eb0e3c11-9bff-4f1a-9a94-7d94249262b2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Rectangle.Name Property (Access)
 keywords: vbaac10.chm10305
 f1_keywords:
 - vbaac10.chm10305
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.Name
 ms.assetid: d7eb4ffa-ee60-2bd0-cd91-4f4ce681794c
+ms.date: 06/08/2017
 ---
 
 

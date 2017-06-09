@@ -3,8 +3,9 @@ title: Connection to type library or object library for remote process has been 
 keywords: vblr6.chm1019366
 f1_keywords:
 - vblr6.chm1019366
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a362a898-f34e-8d75-c2dd-40cac5b95b3b
+ms.date: 06/08/2017
 ---
 
 

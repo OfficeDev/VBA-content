@@ -1,9 +1,10 @@
 ---
 title: DataLabels.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Parent
 ms.assetid: b68c159a-bc3c-c6e2-3256-08d3ba64d747
+ms.date: 06/08/2017
 ---
 
 

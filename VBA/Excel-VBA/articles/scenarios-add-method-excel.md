@@ -3,10 +3,11 @@ title: Scenarios.Add Method (Excel)
 keywords: vbaxl10.chm362073
 f1_keywords:
 - vbaxl10.chm362073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenarios.Add
 ms.assetid: 0f76a5fd-82f1-7fa0-34f7-733b0e964666
+ms.date: 06/08/2017
 ---
 
 

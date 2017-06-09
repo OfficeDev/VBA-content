@@ -3,10 +3,11 @@ title: Application.FindFormat Property (Excel)
 keywords: vbaxl10.chm133262
 f1_keywords:
 - vbaxl10.chm133262
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FindFormat
 ms.assetid: b2b62232-1f11-ec82-9344-edd39e0ae33d
+ms.date: 06/08/2017
 ---
 
 

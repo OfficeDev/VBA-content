@@ -3,10 +3,11 @@ title: ODBCConnection.CommandType Property (Excel)
 keywords: vbaxl10.chm796076
 f1_keywords:
 - vbaxl10.chm796076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.CommandType
 ms.assetid: 5bfffa11-94d1-43fa-1da5-83f341c0a3cd
+ms.date: 06/08/2017
 ---
 
 

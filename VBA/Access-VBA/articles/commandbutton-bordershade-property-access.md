@@ -3,10 +3,11 @@ title: CommandButton.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.BorderShade
 ms.assetid: 52816058-36f4-3b68-38dd-5a1324b87428
+ms.date: 06/08/2017
 ---
 
 

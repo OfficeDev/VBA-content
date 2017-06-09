@@ -3,10 +3,11 @@ title: ChartBorder.Application Property (PowerPoint)
 keywords: vbapp10.chm685005
 f1_keywords:
 - vbapp10.chm685005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Application
 ms.assetid: d13374e6-ff65-4cca-fe49-5abb6a4b9a77
+ms.date: 06/08/2017
 ---
 
 

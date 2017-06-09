@@ -3,10 +3,11 @@ title: ApplicationSettings.RecentTemplatesListSize Property (Visio)
 keywords: vis_sdr.chm16262515
 f1_keywords:
 - vis_sdr.chm16262515
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.RecentTemplatesListSize
 ms.assetid: a9b40755-31c9-a297-fe32-e9e0939d32fc
+ms.date: 06/08/2017
 ---
 
 

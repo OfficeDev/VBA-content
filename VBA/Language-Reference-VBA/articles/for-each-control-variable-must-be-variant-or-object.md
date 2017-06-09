@@ -3,8 +3,9 @@ title: For Each control variable must be Variant or Object
 keywords: vblr6.chm1011173
 f1_keywords:
 - vblr6.chm1011173
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 304e3277-d3f9-62fe-8f7a-3af750635b6c
+ms.date: 06/08/2017
 ---
 
 

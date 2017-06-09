@@ -3,10 +3,11 @@ title: FileConverter.SaveFormat Property (Word)
 keywords: vbawd10.chm161021954
 f1_keywords:
 - vbawd10.chm161021954
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.SaveFormat
 ms.assetid: d837cd22-38eb-5160-1f85-16001448213e
+ms.date: 06/08/2017
 ---
 
 

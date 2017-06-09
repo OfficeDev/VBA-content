@@ -3,10 +3,11 @@ title: ChartFormat.TextFrame2 Property (Excel)
 keywords: vbaxl10.chm861079
 f1_keywords:
 - vbaxl10.chm861079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFormat.TextFrame2
 ms.assetid: 239a5c1e-5200-1271-6144-318ab7e28b08
+ms.date: 06/08/2017
 ---
 
 

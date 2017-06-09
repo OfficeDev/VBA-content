@@ -3,14 +3,15 @@ title: Cannot have aggregate function in WHERE clause <clause>. (Error 3096)
 keywords: jeterr40.chm5003096
 f1_keywords:
 - jeterr40.chm5003096
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 130351ae-ed1c-ff0d-8faa-4a39da4d904e
+ms.date: 06/08/2017
 ---
 
 
 # Cannot have aggregate function in WHERE clause <clause>. (Error 3096)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

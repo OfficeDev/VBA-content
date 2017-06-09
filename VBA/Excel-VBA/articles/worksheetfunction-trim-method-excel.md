@@ -3,10 +3,11 @@ title: WorksheetFunction.Trim Method (Excel)
 keywords: vbaxl10.chm137126
 f1_keywords:
 - vbaxl10.chm137126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Trim
 ms.assetid: 1e596960-90d8-87f8-9f1f-3a5c9e302e0c
+ms.date: 06/08/2017
 ---
 
 

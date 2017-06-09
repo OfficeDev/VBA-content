@@ -3,10 +3,11 @@ title: Document.Save Method (Publisher)
 keywords: vbapb10.chm196695
 f1_keywords:
 - vbapb10.chm196695
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Save
 ms.assetid: 89eae461-d1c2-b3ca-58b7-9528df8801d8
+ms.date: 06/08/2017
 ---
 
 

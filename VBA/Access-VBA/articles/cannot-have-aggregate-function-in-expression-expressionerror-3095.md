@@ -3,14 +3,15 @@ title: Cannot have aggregate function in expression <expression>. (Error 3095)
 keywords: jeterr40.chm5003095
 f1_keywords:
 - jeterr40.chm5003095
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3498598e-f8e3-d622-a393-a5976949b83a
+ms.date: 06/08/2017
 ---
 
 
 # Cannot have aggregate function in expression <expression>. (Error 3095)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

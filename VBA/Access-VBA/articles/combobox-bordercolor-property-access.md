@@ -3,10 +3,11 @@ title: ComboBox.BorderColor Property (Access)
 keywords: vbaac10.chm11410
 f1_keywords:
 - vbaac10.chm11410
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BorderColor
 ms.assetid: 1863d1e2-b865-5de5-471e-0d9124f34354
+ms.date: 06/08/2017
 ---
 
 

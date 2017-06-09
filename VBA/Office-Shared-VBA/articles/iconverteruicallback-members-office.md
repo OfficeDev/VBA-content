@@ -1,7 +1,8 @@
 ---
 title: IConverterUICallback Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec3f2d9a-1b1a-ebb1-f003-e725dccc440d
+ms.date: 06/08/2017
 ---
 
 

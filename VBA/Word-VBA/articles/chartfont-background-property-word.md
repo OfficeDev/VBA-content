@@ -3,10 +3,11 @@ title: ChartFont.Background Property (Word)
 keywords: vbawd10.chm255918080
 f1_keywords:
 - vbawd10.chm255918080
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Background
 ms.assetid: 3ae75226-265d-f544-489d-e3e417995ef8
+ms.date: 06/08/2017
 ---
 
 

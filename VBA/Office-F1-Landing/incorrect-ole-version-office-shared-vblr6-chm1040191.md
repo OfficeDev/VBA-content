@@ -3,8 +3,9 @@ title: Incorrect OLE version, Office Shared [vblr6.chm1040191]
 keywords: vblr6.chm1040191
 f1_keywords:
 - vblr6.chm1040191
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 704ef867-21b5-4a98-b9cc-9112704853eb
+ms.date: 06/08/2017
 ---
 
 

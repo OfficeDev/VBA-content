@@ -1,9 +1,10 @@
 ---
 title: Cell.Pattern Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell.Pattern
 ms.assetid: d1aaabe7-c970-8738-caa4-b222db88fdd0
+ms.date: 06/08/2017
 ---
 
 

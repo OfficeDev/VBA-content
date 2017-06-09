@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.QueryCancelUngroup Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelUngroup
 ms.assetid: 8d7ac28d-a0c3-9d6d-a568-75ac4dccf9df
+ms.date: 06/08/2017
 ---
 
 

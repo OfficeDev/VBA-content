@@ -1,9 +1,10 @@
 ---
 title: XlPattern Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPattern
 ms.assetid: e530d609-fe6b-d998-a5be-5d88828a22e7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ArbitraryXMLSupportAvailable Property (Word)
 keywords: vbawd10.chm158335441
 f1_keywords:
 - vbawd10.chm158335441
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ArbitraryXMLSupportAvailable
 ms.assetid: 5cf53ae7-200b-811e-7946-4fefe825eaec
+ms.date: 06/08/2017
 ---
 
 

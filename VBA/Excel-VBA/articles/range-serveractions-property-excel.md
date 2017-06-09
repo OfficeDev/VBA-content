@@ -3,10 +3,11 @@ title: Range.ServerActions Property (Excel)
 keywords: vbaxl10.chm144242
 f1_keywords:
 - vbaxl10.chm144242
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ServerActions
 ms.assetid: dffb9535-3b82-c134-82b0-b87d8bc258ec
+ms.date: 06/08/2017
 ---
 
 

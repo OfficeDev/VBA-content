@@ -3,10 +3,11 @@ title: CustomControl.OldValue Property (Access)
 keywords: vbaac10.chm11997
 f1_keywords:
 - vbaac10.chm11997
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.OldValue
 ms.assetid: 76a696b3-1ffc-d909-e22e-51eb4fc5347f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Attachment.Visible Property (Access)
 keywords: vbaac10.chm13918
 f1_keywords:
 - vbaac10.chm13918
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Visible
 ms.assetid: 15606b3e-dffb-f179-021a-5bf8087003a7
+ms.date: 06/08/2017
 ---
 
 

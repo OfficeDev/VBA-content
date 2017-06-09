@@ -3,10 +3,11 @@ title: MenuSet.SetID Property (Visio)
 keywords: vis_sdr.chm13314315
 f1_keywords:
 - vis_sdr.chm13314315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSet.SetID
 ms.assetid: d1971b55-a03d-dbd7-608f-8b7c88f526c6
+ms.date: 06/08/2017
 ---
 
 

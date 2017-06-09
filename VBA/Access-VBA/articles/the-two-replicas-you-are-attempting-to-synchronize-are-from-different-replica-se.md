@@ -3,14 +3,15 @@ title: The two replicas you are attempting to synchronize are from different rep
 keywords: jeterr40.chm5003545
 f1_keywords:
 - jeterr40.chm5003545
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 60fa92cc-983b-8d07-57dc-f3b89b6a2a2f
+ms.date: 06/08/2017
 ---
 
 
 # The two replicas you are attempting to synchronize are from different replica sets. (Error 3545)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

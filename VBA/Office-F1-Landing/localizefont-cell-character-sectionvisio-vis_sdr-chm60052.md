@@ -3,8 +3,9 @@ title: LocalizeFont Cell (Character Section), Visio [vis_sdr.chm60052]
 keywords: vis_sdr.chm60052
 f1_keywords:
 - vis_sdr.chm60052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78f5efa2-773b-4713-a10c-927fd2ae2bb6
+ms.date: 06/08/2017
 ---
 
 

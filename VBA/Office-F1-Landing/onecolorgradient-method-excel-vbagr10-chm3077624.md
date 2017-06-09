@@ -3,8 +3,9 @@ title: OneColorGradient Method, Excel [vbagr10.chm3077624]
 keywords: vbagr10.chm3077624
 f1_keywords:
 - vbagr10.chm3077624
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 18e25664-59cd-4728-a8ce-e5796fd121a8
+ms.date: 06/08/2017
 ---
 
 

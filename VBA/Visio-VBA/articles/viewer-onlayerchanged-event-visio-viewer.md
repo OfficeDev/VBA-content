@@ -1,9 +1,10 @@
 ---
 title: Viewer.OnLayerChanged Event (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OnLayerChanged
 ms.assetid: d0731153-f975-cde1-3649-be34df859168
+ms.date: 06/08/2017
 ---
 
 

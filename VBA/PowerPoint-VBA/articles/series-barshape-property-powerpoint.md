@@ -3,10 +3,11 @@ title: Series.BarShape Property (PowerPoint)
 keywords: vbapp10.chm66939
 f1_keywords:
 - vbapp10.chm66939
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.BarShape
 ms.assetid: c6f2d0b7-407e-4073-89b1-433e9386287a
+ms.date: 06/08/2017
 ---
 
 

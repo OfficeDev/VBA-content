@@ -3,10 +3,11 @@ title: TwoInitialCapsException.Delete Method (Word)
 keywords: vbawd10.chm155385957
 f1_keywords:
 - vbawd10.chm155385957
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TwoInitialCapsException.Delete
 ms.assetid: cfeb1634-1d8a-51c9-75bc-0a7864c802e1
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3ff170d3-f098-51ab-9ae4-0e71cc587bac
+ms.date: 06/08/2017
 ---
 
 

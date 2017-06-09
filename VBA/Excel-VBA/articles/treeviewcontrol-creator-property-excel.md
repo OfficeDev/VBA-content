@@ -3,10 +3,11 @@ title: TreeviewControl.Creator Property (Excel)
 keywords: vbaxl10.chm665074
 f1_keywords:
 - vbaxl10.chm665074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TreeviewControl.Creator
 ms.assetid: b8956992-0bc3-f98a-1155-5c1f3a0f3ec6
+ms.date: 06/08/2017
 ---
 
 

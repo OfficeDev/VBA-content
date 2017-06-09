@@ -3,10 +3,11 @@ title: ToggleButton.FontBold Property (Access)
 keywords: vbaac10.chm11729
 f1_keywords:
 - vbaac10.chm11729
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.FontBold
 ms.assetid: d9c5bca6-1a89-2eb5-07dc-f855f1ea1580
+ms.date: 06/08/2017
 ---
 
 

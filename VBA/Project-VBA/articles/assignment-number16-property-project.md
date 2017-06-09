@@ -1,9 +1,10 @@
 ---
 title: Assignment.Number16 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number16
 ms.assetid: 9af9d070-bb06-9ba4-da6e-34e9f7e04dfe
+ms.date: 06/08/2017
 ---
 
 

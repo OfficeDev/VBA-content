@@ -3,10 +3,11 @@ title: Rectangle.Top Property (Word)
 keywords: vbawd10.chm234029060
 f1_keywords:
 - vbawd10.chm234029060
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle.Top
 ms.assetid: 14e68034-17c0-9bdd-476e-9d9d2673bec1
+ms.date: 06/08/2017
 ---
 
 

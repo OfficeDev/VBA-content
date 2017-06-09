@@ -3,10 +3,11 @@ title: Window.Top Property (Excel)
 keywords: vbaxl10.chm356117
 f1_keywords:
 - vbaxl10.chm356117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Top
 ms.assetid: e04d6641-9788-1e0b-9343-011c414c31fc
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: CommandBarPopup.BeginGroup Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.BeginGroup
 ms.assetid: 0ecc5c98-5db7-792c-8f33-86f7df32d912
+ms.date: 06/08/2017
 ---
 
 

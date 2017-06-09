@@ -3,10 +3,11 @@ title: Form.CommandEnabled Event (Access)
 keywords: vbaac10.chm13675
 f1_keywords:
 - vbaac10.chm13675
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandEnabled
 ms.assetid: 4a9ff0dc-5ed2-e841-97d3-a1c4a7ed4d42
+ms.date: 06/08/2017
 ---
 
 

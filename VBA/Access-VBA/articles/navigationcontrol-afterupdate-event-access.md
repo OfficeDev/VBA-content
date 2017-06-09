@@ -3,10 +3,11 @@ title: NavigationControl.AfterUpdate Event (Access)
 keywords: vbaac10.chm14195
 f1_keywords:
 - vbaac10.chm14195
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.AfterUpdate
 ms.assetid: ae34fff1-4521-4ec3-707a-f1f2c49f7946
+ms.date: 06/08/2017
 ---
 
 

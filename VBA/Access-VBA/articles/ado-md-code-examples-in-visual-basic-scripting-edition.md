@@ -1,13 +1,14 @@
 ---
 title: ADO MD Code Examples in Visual Basic, Scripting Edition
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d630c707-31a6-926e-8614-5e5ce189f602
+ms.date: 06/08/2017
 ---
 
 
 # ADO MD Code Examples in Visual Basic, Scripting Edition
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

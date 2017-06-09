@@ -3,10 +3,11 @@ title: CaptionLabels.Add Method (Word)
 keywords: vbawd10.chm158859364
 f1_keywords:
 - vbawd10.chm158859364
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabels.Add
 ms.assetid: f74af8c0-fa16-8ea2-3012-ac207d187502
+ms.date: 06/08/2017
 ---
 
 

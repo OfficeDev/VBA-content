@@ -3,14 +3,15 @@ title: Cannot execute a select query. (Error 3065)
 keywords: jeterr40.chm5003065
 f1_keywords:
 - jeterr40.chm5003065
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 24ef2fec-3c24-bfbc-a31b-cad1fa1c3b01
+ms.date: 06/08/2017
 ---
 
 
 # Cannot execute a select query. (Error 3065)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

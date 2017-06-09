@@ -3,10 +3,11 @@ title: CheckBox.StatusBarText Property (Access)
 keywords: vbaac10.chm10700
 f1_keywords:
 - vbaac10.chm10700
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.StatusBarText
 ms.assetid: 5b199d3e-b79d-f611-9e66-1816f5c60f25
+ms.date: 06/08/2017
 ---
 
 

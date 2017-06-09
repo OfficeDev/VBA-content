@@ -3,10 +3,11 @@ title: Range.LocationInTable Property (Excel)
 keywords: vbaxl10.chm144156
 f1_keywords:
 - vbaxl10.chm144156
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.LocationInTable
 ms.assetid: 7a86a0fe-cd46-331e-595b-6be168091d0c
+ms.date: 06/08/2017
 ---
 
 

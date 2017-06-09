@@ -3,10 +3,11 @@ title: Application.ShowWindowsInTaskbar Property (PowerPoint)
 keywords: vbapp10.chm502041
 f1_keywords:
 - vbapp10.chm502041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ShowWindowsInTaskbar
 ms.assetid: ad386fe5-9985-a1cc-cc52-1552bc12cad4
+ms.date: 06/08/2017
 ---
 
 

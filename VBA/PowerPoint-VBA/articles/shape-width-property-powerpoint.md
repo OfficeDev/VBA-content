@@ -3,10 +3,11 @@ title: Shape.Width Property (PowerPoint)
 keywords: vbapp10.chm547042
 f1_keywords:
 - vbapp10.chm547042
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Width
 ms.assetid: b95213f9-2689-5131-5b85-d2eb661502a6
+ms.date: 06/08/2017
 ---
 
 

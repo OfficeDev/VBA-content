@@ -3,10 +3,11 @@ title: Shape.VerticalFlip Property (PowerPoint)
 keywords: vbapp10.chm547039
 f1_keywords:
 - vbapp10.chm547039
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.VerticalFlip
 ms.assetid: 56bf36e4-49df-5ae5-855c-3275d634dee4
+ms.date: 06/08/2017
 ---
 
 

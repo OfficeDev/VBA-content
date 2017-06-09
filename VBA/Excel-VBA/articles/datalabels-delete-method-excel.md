@@ -3,10 +3,11 @@ title: DataLabels.Delete Method (Excel)
 keywords: vbaxl10.chm584077
 f1_keywords:
 - vbaxl10.chm584077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Delete
 ms.assetid: c643324c-10ef-8427-da3e-ce71a7143541
+ms.date: 06/08/2017
 ---
 
 

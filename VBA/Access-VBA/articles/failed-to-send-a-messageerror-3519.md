@@ -3,14 +3,15 @@ title: Failed to send a message. (Error 3519)
 keywords: jeterr40.chm5003519
 f1_keywords:
 - jeterr40.chm5003519
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fda10e55-ef1a-3d19-e6ed-0aa9a041e889
+ms.date: 06/08/2017
 ---
 
 
 # Failed to send a message. (Error 3519)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

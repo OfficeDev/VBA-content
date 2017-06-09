@@ -3,10 +3,11 @@ title: ComboBox.FontWeight Property (Access)
 keywords: vbaac10.chm11416
 f1_keywords:
 - vbaac10.chm11416
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.FontWeight
 ms.assetid: 4e1cf348-4114-788d-34a6-c0b17152ee4b
+ms.date: 06/08/2017
 ---
 
 

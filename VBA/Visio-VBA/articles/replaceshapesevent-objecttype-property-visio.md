@@ -1,7 +1,8 @@
 ---
 title: ReplaceShapesEvent.ObjectType Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: bcc442f0-aa4e-cd5a-d116-f3fb74459927
+ms.date: 06/08/2017
 ---
 
 

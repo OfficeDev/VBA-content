@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.FormulaChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FormulaChanged
 ms.assetid: 0f10836e-82e7-9fed-8796-2680382c7f42
+ms.date: 06/08/2017
 ---
 
 

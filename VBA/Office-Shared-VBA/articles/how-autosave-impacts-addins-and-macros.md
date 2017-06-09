@@ -1,6 +1,7 @@
 ---
 title: How AutoSave impacts add-ins and macros
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
+ms.date: 06/08/2017
 ---
 
 

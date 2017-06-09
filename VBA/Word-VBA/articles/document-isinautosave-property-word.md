@@ -3,8 +3,9 @@ title: Document.IsInAutosave Property (Word)
 keywords: vbawd10.chm158007915
 f1_keywords:
 - vbawd10.chm158007915
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 89438dfd-3b5a-e90b-5059-a62f1e47afeb
+ms.date: 06/08/2017
 ---
 
 

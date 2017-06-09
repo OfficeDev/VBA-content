@@ -3,10 +3,11 @@ title: Rows.DistributeHeight Method (Word)
 keywords: vbawd10.chm155975886
 f1_keywords:
 - vbawd10.chm155975886
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.DistributeHeight
 ms.assetid: f5fe9eea-debc-c1e4-b9a0-81c5f9a0c04a
+ms.date: 06/08/2017
 ---
 
 

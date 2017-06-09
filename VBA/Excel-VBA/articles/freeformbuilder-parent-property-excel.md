@@ -3,10 +3,11 @@ title: FreeformBuilder.Parent Property (Excel)
 keywords: vbaxl10.chm647075
 f1_keywords:
 - vbaxl10.chm647075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FreeformBuilder.Parent
 ms.assetid: 0d1e9d6c-2c2f-e373-4a8d-3c1dbb2b8dc8
+ms.date: 06/08/2017
 ---
 
 

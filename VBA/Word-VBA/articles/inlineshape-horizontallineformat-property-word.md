@@ -3,10 +3,11 @@ title: InlineShape.HorizontalLineFormat Property (Word)
 keywords: vbawd10.chm162005111
 f1_keywords:
 - vbawd10.chm162005111
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.HorizontalLineFormat
 ms.assetid: 3e6f3887-d906-a761-d1ee-a4c4560c4888
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ConnectorFormat.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.Creator
 ms.assetid: bdd8ff41-033f-7721-ab13-ec769915d3a5
+ms.date: 06/08/2017
 ---
 
 

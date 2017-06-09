@@ -3,10 +3,11 @@ title: Resource.EnterpriseBaseCalendar Property (Project)
 keywords: vbapj.chm131813
 f1_keywords:
 - vbapj.chm131813
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.EnterpriseBaseCalendar
 ms.assetid: ca731acc-c507-c329-adb8-0aacc975bedf
+ms.date: 06/08/2017
 ---
 
 

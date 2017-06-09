@@ -3,10 +3,11 @@ title: WorksheetFunction.SumX2MY2 Method (Excel)
 keywords: vbaxl10.chm137208
 f1_keywords:
 - vbaxl10.chm137208
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumX2MY2
 ms.assetid: 5c1dee97-5410-2821-350e-d79a19296ef7
+ms.date: 06/08/2017
 ---
 
 

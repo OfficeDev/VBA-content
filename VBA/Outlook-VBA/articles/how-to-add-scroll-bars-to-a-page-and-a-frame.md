@@ -3,8 +3,9 @@ title: "How to: Add Scroll Bars to a Page and a Frame"
 keywords: olfm10.chm3077235
 f1_keywords:
 - olfm10.chm3077235
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2fdc2fb5-0ee8-b39e-f4a7-c898244b13ac
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Worksheet.Sort Property (Excel)
 keywords: vbaxl10.chm175162
 f1_keywords:
 - vbaxl10.chm175162
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Sort
 ms.assetid: 2e5cadb0-a688-5864-5974-861270b61db3
+ms.date: 06/08/2017
 ---
 
 

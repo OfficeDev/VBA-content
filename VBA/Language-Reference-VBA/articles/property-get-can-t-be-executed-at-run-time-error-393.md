@@ -3,8 +3,9 @@ title: Property Get can't be executed at run time (Error 393)
 keywords: vblr6.chm1107970
 f1_keywords:
 - vblr6.chm1107970
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df26284d-ce9f-2b77-43b9-4d27e16e5750
+ms.date: 06/08/2017
 ---
 
 

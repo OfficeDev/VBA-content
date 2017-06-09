@@ -3,10 +3,11 @@ title: Sheets.PrintPreview Method (Excel)
 keywords: vbaxl10.chm152082
 f1_keywords:
 - vbaxl10.chm152082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.PrintPreview
 ms.assetid: 0e8c0e01-16e3-5d84-7b84-39049186fd7c
+ms.date: 06/08/2017
 ---
 
 

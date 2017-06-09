@@ -3,10 +3,11 @@ title: ListBox.ScrollBarAlign Property (Access)
 keywords: vbaac10.chm11293
 f1_keywords:
 - vbaac10.chm11293
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ScrollBarAlign
 ms.assetid: 6eb9b2d1-e306-5980-7ad0-ff0b9c1cd0c6
+ms.date: 06/08/2017
 ---
 
 

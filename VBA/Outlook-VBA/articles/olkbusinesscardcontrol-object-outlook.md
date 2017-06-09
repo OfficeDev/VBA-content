@@ -3,10 +3,11 @@ title: OlkBusinessCardControl Object (Outlook)
 keywords: vbaol11.chm1000333
 f1_keywords:
 - vbaol11.chm1000333
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl
 ms.assetid: 9a2de42b-7a43-3fd9-7fcc-93fc1508ce0f
+ms.date: 06/08/2017
 ---
 
 

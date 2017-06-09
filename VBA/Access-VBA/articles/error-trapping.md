@@ -3,8 +3,9 @@ title: Error Trapping
 keywords: vbaac10.chm5186626
 f1_keywords:
 - vbaac10.chm5186626
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 41d8de92-55ed-8537-eb31-6d72ba69c165
+ms.date: 06/08/2017
 ---
 
 

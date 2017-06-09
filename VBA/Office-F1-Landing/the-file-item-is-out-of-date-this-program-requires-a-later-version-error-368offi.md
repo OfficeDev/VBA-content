@@ -3,8 +3,9 @@ title: The file 'item' is out of date. This program requires a later version (Er
 keywords: vblr6.chm1117821
 f1_keywords:
 - vblr6.chm1117821
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bc4bc8b2-dded-42d9-8f8c-ba25c45948bf
+ms.date: 06/08/2017
 ---
 
 

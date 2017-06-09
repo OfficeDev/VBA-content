@@ -1,13 +1,14 @@
 ---
 title: Collections (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3f5897d9-e618-7582-bb60-95f690c64cbb
+ms.date: 06/08/2017
 ---
 
 
 # Collections (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

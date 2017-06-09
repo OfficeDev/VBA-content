@@ -3,10 +3,11 @@ title: TaskItem.ReminderOverrideDefault Property (Outlook)
 keywords: vbaol11.chm1736
 f1_keywords:
 - vbaol11.chm1736
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ReminderOverrideDefault
 ms.assetid: 3a11ee36-3418-422e-0783-e39bf92ded6f
+ms.date: 06/08/2017
 ---
 
 

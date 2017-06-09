@@ -3,8 +3,9 @@ title: Application.HighlightPredecessors Method (Project)
 keywords: vbapj.chm147
 f1_keywords:
 - vbapj.chm147
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: e4c51516-2e5d-3ef9-3165-84fe6f9ad38b
+ms.date: 06/08/2017
 ---
 
 

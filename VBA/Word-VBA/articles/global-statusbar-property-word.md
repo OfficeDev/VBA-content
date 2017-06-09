@@ -3,10 +3,11 @@ title: Global.StatusBar Property (Word)
 keywords: vbawd10.chm163119201
 f1_keywords:
 - vbawd10.chm163119201
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.StatusBar
 ms.assetid: 6c304f2e-ab89-a78a-e092-ccb83bb392be
+ms.date: 06/08/2017
 ---
 
 

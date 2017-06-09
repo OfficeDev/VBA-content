@@ -1,7 +1,8 @@
 ---
 title: Frame.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fa8f125f-2560-b7ae-0498-a19593f309ed
+ms.date: 06/08/2017
 ---
 
 

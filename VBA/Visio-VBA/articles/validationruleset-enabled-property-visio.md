@@ -3,10 +3,11 @@ title: ValidationRuleSet.Enabled Property (Visio)
 keywords: vis_sdr.chm18213455
 f1_keywords:
 - vis_sdr.chm18213455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRuleSet.Enabled
 ms.assetid: 1fc9c692-736d-6686-fb47-5bd7efb39773
+ms.date: 06/08/2017
 ---
 
 

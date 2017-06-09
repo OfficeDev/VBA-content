@@ -3,8 +3,9 @@ title: Angle Cell (Shape Transform Section), Visio [vis_sdr.chm55]
 keywords: vis_sdr.chm55
 f1_keywords:
 - vis_sdr.chm55
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5030b40f-6e85-437a-b9b8-8b7ae730e7ab
+ms.date: 06/08/2017
 ---
 
 

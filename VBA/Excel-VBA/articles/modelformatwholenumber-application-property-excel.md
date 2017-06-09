@@ -4,6 +4,8 @@ keywords: vbaxl10.chm987073
 f1_keywords:
 - vbaxl10.chm987073
 ms.assetid: a2dada26-38f7-967a-be69-3f75f911c05e
+ms.date: 06/08/2017
+ms.prod: excel
 ---
 
 

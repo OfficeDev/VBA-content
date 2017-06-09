@@ -3,10 +3,11 @@ title: RemoteItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm1592
 f1_keywords:
 - vbaol11.chm1592
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.ConversationIndex
 ms.assetid: 8a80206d-987f-9f05-8743-7060b9ae08b0
+ms.date: 06/08/2017
 ---
 
 

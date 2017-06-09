@@ -3,10 +3,11 @@ title: Print Method
 keywords: vblr6.chm1010081
 f1_keywords:
 - vblr6.chm1010081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Print
 ms.assetid: 489447fa-e0ea-404a-10f2-23dcd9a8e41a
+ms.date: 06/08/2017
 ---
 
 

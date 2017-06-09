@@ -3,10 +3,11 @@ title: ExchangeDistributionList.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm2129
 f1_keywords:
 - vbaol11.chm2129
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.PropertyAccessor
 ms.assetid: 63c9338f-f852-5074-c140-65a8168bd857
+ms.date: 06/08/2017
 ---
 
 

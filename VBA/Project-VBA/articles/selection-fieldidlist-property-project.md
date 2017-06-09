@@ -3,10 +3,11 @@ title: Selection.FieldIDList Property (Project)
 keywords: vbapj.chm132206
 f1_keywords:
 - vbapj.chm132206
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Selection.FieldIDList
 ms.assetid: 9a9549ca-466c-6536-3a19-d0e056227bfd
+ms.date: 06/08/2017
 ---
 
 

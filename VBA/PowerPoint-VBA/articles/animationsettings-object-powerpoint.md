@@ -3,10 +3,11 @@ title: AnimationSettings Object (PowerPoint)
 keywords: vbapp10.chm565000
 f1_keywords:
 - vbapp10.chm565000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings
 ms.assetid: ebbe4257-236b-35b4-bdf1-e92a1b4b417b
+ms.date: 06/08/2017
 ---
 
 

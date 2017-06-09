@@ -3,10 +3,11 @@ title: DataLabel.Characters Property (Excel)
 keywords: vbaxl10.chm582081
 f1_keywords:
 - vbaxl10.chm582081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.Characters
 ms.assetid: 0072e034-727d-6de5-f2bc-ce398ac750bc
+ms.date: 06/08/2017
 ---
 
 

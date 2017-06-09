@@ -3,10 +3,11 @@ title: Sync.WorkspaceLastChangedBy Property (Office)
 keywords: vbaof11.chm277002
 f1_keywords:
 - vbaof11.chm277002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.WorkspaceLastChangedBy
 ms.assetid: f2eac8a6-5e94-44a9-3d2f-1ca04cf54361
+ms.date: 06/08/2017
 ---
 
 

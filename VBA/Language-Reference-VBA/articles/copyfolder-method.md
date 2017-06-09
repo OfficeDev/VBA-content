@@ -3,10 +3,11 @@ title: CopyFolder Method
 keywords: vblr6.chm2182033
 f1_keywords:
 - vblr6.chm2182033
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CopyFolder
 ms.assetid: d94788b4-9a92-77ea-6591-5ea2b4603233
+ms.date: 06/08/2017
 ---
 
 

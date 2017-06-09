@@ -3,10 +3,11 @@ title: CommandButton.Section Property (Access)
 keywords: vbaac10.chm10487
 f1_keywords:
 - vbaac10.chm10487
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Section
 ms.assetid: 0ef5f32e-b724-205a-94bc-337b76f0a1b7
+ms.date: 06/08/2017
 ---
 
 

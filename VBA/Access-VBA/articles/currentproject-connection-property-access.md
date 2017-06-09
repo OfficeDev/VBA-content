@@ -3,10 +3,11 @@ title: CurrentProject.Connection Property (Access)
 keywords: vbaac10.chm12720
 f1_keywords:
 - vbaac10.chm12720
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.Connection
 ms.assetid: ab956942-deff-793f-e5e6-7412554f9950
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: WBSPredecessors Property, Project [vbapj.chm132815]
 keywords: vbapj.chm132815
 f1_keywords:
 - vbapj.chm132815
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04bc82a1-e767-46d8-94fc-d2a7ebe9a567
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AxisTitle.FormulaR1C1Local Property (Excel)
 keywords: vbaxl10.chm565097
 f1_keywords:
 - vbaxl10.chm565097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.FormulaR1C1Local
 ms.assetid: d0e17941-3518-5959-44fe-6ed1575b853b
+ms.date: 06/08/2017
 ---
 
 

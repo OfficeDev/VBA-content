@@ -3,10 +3,11 @@ title: LegendKey.ClearFormats Method (Excel)
 keywords: vbaxl10.chm590075
 f1_keywords:
 - vbaxl10.chm590075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.ClearFormats
 ms.assetid: fa73187b-9607-2484-5690-e2b07961dc76
+ms.date: 06/08/2017
 ---
 
 

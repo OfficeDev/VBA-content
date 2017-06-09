@@ -3,10 +3,11 @@ title: CustomXMLSchemaCollection.AddCollection Method (Office)
 keywords: vbaof11.chm292006
 f1_keywords:
 - vbaof11.chm292006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.AddCollection
 ms.assetid: d3b49c57-9a5b-9b5b-0003-d09240d227c1
+ms.date: 06/08/2017
 ---
 
 

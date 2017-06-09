@@ -3,10 +3,11 @@ title: Line.Top Property (Word)
 keywords: vbawd10.chm49610756
 f1_keywords:
 - vbawd10.chm49610756
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Top
 ms.assetid: 35015e98-ff91-f24e-56c4-d005f56c5c2e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdLinkType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLinkType
 ms.assetid: d9d2c0ba-47a9-e88c-b4ab-cf8b449a5981
+ms.date: 06/08/2017
 ---
 
 

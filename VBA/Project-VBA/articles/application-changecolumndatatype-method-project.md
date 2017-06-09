@@ -3,10 +3,11 @@ title: Application.ChangeColumnDataType Method (Project)
 keywords: vbapj.chm711
 f1_keywords:
 - vbapj.chm711
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ChangeColumnDataType
 ms.assetid: 25cbcb73-4cbd-3ea7-ff16-90a4d3028af9
+ms.date: 06/08/2017
 ---
 
 

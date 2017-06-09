@@ -3,8 +3,9 @@ title: Line 'item1' Property 'item2' in 'item3' had an invalid file reference., 
 keywords: vblr6.chm1117743
 f1_keywords:
 - vblr6.chm1117743
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c4e8c100-40f7-4e07-a0be-8f23713d4b83
+ms.date: 06/08/2017
 ---
 
 

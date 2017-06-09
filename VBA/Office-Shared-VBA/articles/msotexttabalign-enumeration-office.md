@@ -1,9 +1,10 @@
 ---
 title: MsoTextTabAlign Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextTabAlign
 ms.assetid: 85c311cb-ea9e-88e6-f0f5-27c0d3766f80
+ms.date: 06/08/2017
 ---
 
 

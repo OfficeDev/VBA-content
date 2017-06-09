@@ -3,10 +3,11 @@ title: DataLabel.FormulaR1C1Local Property (Excel)
 keywords: vbaxl10.chm582111
 f1_keywords:
 - vbaxl10.chm582111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.FormulaR1C1Local
 ms.assetid: f2c9b73a-c1c0-65e1-eb9f-86e0b2838019
+ms.date: 06/08/2017
 ---
 
 

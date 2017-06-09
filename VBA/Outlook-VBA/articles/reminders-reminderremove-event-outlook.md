@@ -3,10 +3,11 @@ title: Reminders.ReminderRemove Event (Outlook)
 keywords: vbaol11.chm579
 f1_keywords:
 - vbaol11.chm579
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminders.ReminderRemove
 ms.assetid: f217cd33-84c0-223b-ad4e-9ceb0f7e894c
+ms.date: 06/08/2017
 ---
 
 

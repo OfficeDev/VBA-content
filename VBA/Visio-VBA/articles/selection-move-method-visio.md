@@ -3,10 +3,11 @@ title: Selection.Move Method (Visio)
 keywords: vis_sdr.chm11151355
 f1_keywords:
 - vis_sdr.chm11151355
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Move
 ms.assetid: 12e60f50-f06d-45bb-b79d-db2e0d767461
+ms.date: 06/08/2017
 ---
 
 

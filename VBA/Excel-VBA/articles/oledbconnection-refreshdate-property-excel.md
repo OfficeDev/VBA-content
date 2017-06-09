@@ -3,10 +3,11 @@ title: OLEDBConnection.RefreshDate Property (Excel)
 keywords: vbaxl10.chm794084
 f1_keywords:
 - vbaxl10.chm794084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.RefreshDate
 ms.assetid: 5b808638-c014-3ed4-3d22-272bcb34f8e4
+ms.date: 06/08/2017
 ---
 
 

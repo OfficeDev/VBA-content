@@ -3,10 +3,11 @@ title: Pane.Pages Property (Word)
 keywords: vbawd10.chm157286419
 f1_keywords:
 - vbawd10.chm157286419
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.Pages
 ms.assetid: 18390c33-fd07-73a3-324f-37d09e1c99c6
+ms.date: 06/08/2017
 ---
 
 

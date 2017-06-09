@@ -1,9 +1,10 @@
 ---
 title: XlSortOrder Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSortOrder
 ms.assetid: 786e9f63-5ff2-4fe3-1f5e-72b712d06540
+ms.date: 06/08/2017
 ---
 
 

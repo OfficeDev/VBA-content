@@ -3,10 +3,11 @@ title: ChartFormat.PictureFormat Property (Word)
 keywords: vbawd10.chm203030532
 f1_keywords:
 - vbawd10.chm203030532
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFormat.PictureFormat
 ms.assetid: 82cdf95a-8232-1ca5-ea6d-1c9f27d97b3d
+ms.date: 06/08/2017
 ---
 
 

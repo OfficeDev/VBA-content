@@ -3,10 +3,11 @@ title: Shapes.Count Property (Publisher)
 keywords: vbapb10.chm2162691
 f1_keywords:
 - vbapb10.chm2162691
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.Count
 ms.assetid: 43052c93-461c-ca6a-3c8c-7142bd6d9ea1
+ms.date: 06/08/2017
 ---
 
 

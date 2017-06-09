@@ -3,10 +3,11 @@ title: ShapeNodes.SetEditingType Method (Publisher)
 keywords: vbapb10.chm3473427
 f1_keywords:
 - vbapb10.chm3473427
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.SetEditingType
 ms.assetid: f90b1323-d682-1b2b-6747-cea5f2cead3c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Application.RenameReport Method (Project)
 keywords: vbapj.chm153
 f1_keywords:
 - vbapj.chm153
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 8c4a3ac6-e722-97cb-fe61-c617375c8239
+ms.date: 06/08/2017
 ---
 
 

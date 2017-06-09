@@ -3,10 +3,11 @@ title: MenuSets.Item Property (Visio)
 keywords: vis_sdr.chm13413765
 f1_keywords:
 - vis_sdr.chm13413765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSets.Item
 ms.assetid: a7ad3a73-33ec-1e69-c6d6-7356876be53c
+ms.date: 06/08/2017
 ---
 
 

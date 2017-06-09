@@ -1,7 +1,8 @@
 ---
 title: Change a Content Control from One Type to Another
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e89924d4-3088-2e9a-0797-4553e2ff5ff0
+ms.date: 06/08/2017
 ---
 
 

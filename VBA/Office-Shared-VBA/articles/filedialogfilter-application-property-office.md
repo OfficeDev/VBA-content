@@ -1,9 +1,10 @@
 ---
 title: FileDialogFilter.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilter.Application
 ms.assetid: 279e26e3-0dbe-1fd2-3014-6dda0f9fb96d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ThreeDFormat.ProjectText Property (Word)
 keywords: vbawd10.chm164626557
 f1_keywords:
 - vbawd10.chm164626557
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.ProjectText
 ms.assetid: 0223f0a4-78c8-776d-33dc-157ee7cad14a
+ms.date: 06/08/2017
 ---
 
 

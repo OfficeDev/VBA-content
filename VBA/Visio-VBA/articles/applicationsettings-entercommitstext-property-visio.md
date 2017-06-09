@@ -1,7 +1,8 @@
 ---
 title: ApplicationSettings.EnterCommitsText Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: ba9ce9fa-d224-cdc3-668d-46c1849911c7
+ms.date: 06/08/2017
 ---
 
 

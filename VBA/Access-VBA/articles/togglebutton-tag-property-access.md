@@ -3,10 +3,11 @@ title: ToggleButton.Tag Property (Access)
 keywords: vbaac10.chm11743
 f1_keywords:
 - vbaac10.chm11743
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Tag
 ms.assetid: d487494e-e987-1a2f-86c3-09bdfa1ede08
+ms.date: 06/08/2017
 ---
 
 

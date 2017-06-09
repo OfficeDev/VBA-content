@@ -1,9 +1,10 @@
 ---
 title: Application.LevelProposedBookings Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelProposedBookings
 ms.assetid: 34b1d355-a5c5-38c2-9502-064ecd81906e
+ms.date: 06/08/2017
 ---
 
 

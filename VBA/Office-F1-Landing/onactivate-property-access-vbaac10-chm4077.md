@@ -3,8 +3,9 @@ title: OnActivate Property, Access [vbaac10.chm4077]
 keywords: vbaac10.chm4077
 f1_keywords:
 - vbaac10.chm4077
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3cdbf0c7-fe7f-4e43-8867-af969c9a35c0
+ms.date: 06/08/2017
 ---
 
 

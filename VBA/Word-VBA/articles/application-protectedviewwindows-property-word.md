@@ -3,10 +3,11 @@ title: Application.ProtectedViewWindows Property (Word)
 keywords: vbawd10.chm158335466
 f1_keywords:
 - vbawd10.chm158335466
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindows
 ms.assetid: eb1c8cae-c0da-0a84-316e-808302869b26
+ms.date: 06/08/2017
 ---
 
 

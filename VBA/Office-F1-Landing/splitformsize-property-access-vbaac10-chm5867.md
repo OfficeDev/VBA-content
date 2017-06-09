@@ -3,8 +3,9 @@ title: SplitFormSize Property, Access [vbaac10.chm5867]
 keywords: vbaac10.chm5867
 f1_keywords:
 - vbaac10.chm5867
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 27ffd6ca-63e3-4389-8b25-4e6a70014348
+ms.date: 06/08/2017
 ---
 
 

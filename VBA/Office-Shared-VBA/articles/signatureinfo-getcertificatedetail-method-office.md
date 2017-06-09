@@ -3,10 +3,11 @@ title: SignatureInfo.GetCertificateDetail Method (Office)
 keywords: vbaof11.chm286007
 f1_keywords:
 - vbaof11.chm286007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureInfo.GetCertificateDetail
 ms.assetid: f3cab134-5560-be37-25b4-2cbbfcf0693e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.BeforeViewSwitch Event (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f68c1cd3-7463-0e2b-7fee-d5a100b79f8c
+ms.date: 06/08/2017
 ---
 
 

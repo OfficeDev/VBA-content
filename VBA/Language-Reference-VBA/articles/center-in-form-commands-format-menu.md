@@ -3,8 +3,9 @@ title: Center in Form Commands (Format Menu)
 keywords: vbui6.chm2056465
 f1_keywords:
 - vbui6.chm2056465
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5bbf162-1a42-47ee-dded-f6d22969d0fd
+ms.date: 06/08/2017
 ---
 
 

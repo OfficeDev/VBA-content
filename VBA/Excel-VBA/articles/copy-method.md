@@ -3,10 +3,11 @@ title: Copy Method
 keywords: vbagr10.chm66087
 f1_keywords:
 - vbagr10.chm66087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Copy
 ms.assetid: 2207804d-0003-5c75-afa8-a718efba0c2c
+ms.date: 06/08/2017
 ---
 
 

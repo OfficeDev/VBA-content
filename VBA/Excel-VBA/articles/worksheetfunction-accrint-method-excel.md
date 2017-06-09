@@ -3,10 +3,11 @@ title: WorksheetFunction.AccrInt Method (Excel)
 keywords: vbaxl10.chm137345
 f1_keywords:
 - vbaxl10.chm137345
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AccrInt
 ms.assetid: 17444208-5141-3ffe-1802-b19be0defc52
+ms.date: 06/08/2017
 ---
 
 

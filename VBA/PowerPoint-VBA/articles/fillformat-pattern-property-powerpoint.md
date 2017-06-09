@@ -3,10 +3,11 @@ title: FillFormat.Pattern Property (PowerPoint)
 keywords: vbapp10.chm552017
 f1_keywords:
 - vbapp10.chm552017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Pattern
 ms.assetid: 843504d6-d9a5-f732-89eb-d2d3d1ea4477
+ms.date: 06/08/2017
 ---
 
 

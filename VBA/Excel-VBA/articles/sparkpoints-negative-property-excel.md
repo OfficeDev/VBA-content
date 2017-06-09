@@ -3,10 +3,11 @@ title: SparkPoints.Negative Property (Excel)
 keywords: vbaxl10.chm873073
 f1_keywords:
 - vbaxl10.chm873073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkPoints.Negative
 ms.assetid: 6231f95b-a923-c31a-ade9-3eb7519c474a
+ms.date: 06/08/2017
 ---
 
 

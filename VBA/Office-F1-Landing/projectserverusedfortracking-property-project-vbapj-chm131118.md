@@ -3,8 +3,9 @@ title: ProjectServerUsedForTracking Property, Project [vbapj.chm131118]
 keywords: vbapj.chm131118
 f1_keywords:
 - vbapj.chm131118
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a292c5be-69fa-4717-8490-4caaea4ee5a6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextBox.Move Method (Access)
 keywords: vbaac10.chm11144
 f1_keywords:
 - vbaac10.chm11144
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Move
 ms.assetid: 50b25305-0b91-378d-514f-d35b8d7aed6e
+ms.date: 06/08/2017
 ---
 
 

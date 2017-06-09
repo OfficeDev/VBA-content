@@ -3,10 +3,11 @@ title: Application.InhibitSelectChange Property (Visio)
 keywords: vis_sdr.chm10050675
 f1_keywords:
 - vis_sdr.chm10050675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.InhibitSelectChange
 ms.assetid: d3673adf-a8e2-bc85-aa56-232ec3a93588
+ms.date: 06/08/2017
 ---
 
 

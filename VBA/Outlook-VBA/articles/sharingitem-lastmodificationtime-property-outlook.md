@@ -3,10 +3,11 @@ title: SharingItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm610
 f1_keywords:
 - vbaol11.chm610
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.LastModificationTime
 ms.assetid: 32c8193a-3c40-40a7-08d1-b9e72f958999
+ms.date: 06/08/2017
 ---
 
 

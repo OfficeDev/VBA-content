@@ -3,10 +3,11 @@ title: Speech Object (Excel)
 keywords: vbaxl10.chm718072
 f1_keywords:
 - vbaxl10.chm718072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Speech
 ms.assetid: 1ddd61bc-989e-4766-423e-515ec5d1c23a
+ms.date: 06/08/2017
 ---
 
 

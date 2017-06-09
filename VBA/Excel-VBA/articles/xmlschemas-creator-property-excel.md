@@ -3,10 +3,11 @@ title: XmlSchemas.Creator Property (Excel)
 keywords: vbaxl10.chm751074
 f1_keywords:
 - vbaxl10.chm751074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlSchemas.Creator
 ms.assetid: c9000e23-0426-9571-8104-6b4542f661fa
+ms.date: 06/08/2017
 ---
 
 

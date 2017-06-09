@@ -3,10 +3,11 @@ title: Application.ProgressLines Method (Project)
 keywords: vbapj.chm247
 f1_keywords:
 - vbapj.chm247
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProgressLines
 ms.assetid: d1c56c86-3882-bfa1-dff8-ed42dd5ce8f2
+ms.date: 06/08/2017
 ---
 
 

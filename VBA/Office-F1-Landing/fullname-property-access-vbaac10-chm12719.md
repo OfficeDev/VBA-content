@@ -3,8 +3,9 @@ title: FullName Property, Access [vbaac10.chm12719]
 keywords: vbaac10.chm12719
 f1_keywords:
 - vbaac10.chm12719
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4955d6b4-ca07-42cb-ad7a-bdb0b34dc2f1
+ms.date: 06/08/2017
 ---
 
 

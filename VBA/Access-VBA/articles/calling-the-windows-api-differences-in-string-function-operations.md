@@ -1,13 +1,14 @@
 ---
 title: Calling the Windows API (Differences in String Function Operations)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ee882d00-46f5-2bfc-09fc-ce2941302c5e
+ms.date: 06/08/2017
 ---
 
 
 # Calling the Windows API (Differences in String Function Operations)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

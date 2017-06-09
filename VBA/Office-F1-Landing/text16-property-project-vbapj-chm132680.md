@@ -3,8 +3,9 @@ title: Text16 Property, Project [vbapj.chm132680]
 keywords: vbapj.chm132680
 f1_keywords:
 - vbapj.chm132680
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2d57fd9-07d0-42ae-affa-1e98fc768be7
+ms.date: 06/08/2017
 ---
 
 

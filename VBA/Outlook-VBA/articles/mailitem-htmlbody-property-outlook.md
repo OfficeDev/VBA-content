@@ -3,10 +3,11 @@ title: MailItem.HTMLBody Property (Outlook)
 keywords: vbaol11.chm1338
 f1_keywords:
 - vbaol11.chm1338
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.HTMLBody
 ms.assetid: c340fe05-9a99-3a32-3d6b-f2f7a568b299
+ms.date: 06/08/2017
 ---
 
 

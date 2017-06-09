@@ -3,10 +3,11 @@ title: SlideShowTransition.Parent Property (PowerPoint)
 keywords: vbapp10.chm539002
 f1_keywords:
 - vbapp10.chm539002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.Parent
 ms.assetid: 32ab0ea5-ad24-ba48-6c00-31a1912c8d67
+ms.date: 06/08/2017
 ---
 
 

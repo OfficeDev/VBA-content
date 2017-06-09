@@ -3,10 +3,11 @@ title: Shape.SetCenter Method (Visio)
 keywords: vis_sdr.chm11216555
 f1_keywords:
 - vis_sdr.chm11216555
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SetCenter
 ms.assetid: 9a3c0597-c255-44ab-9268-938acd3c5a69
+ms.date: 06/08/2017
 ---
 
 

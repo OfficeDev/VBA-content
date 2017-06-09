@@ -3,10 +3,11 @@ title: ChartTitle.Caption Property (PowerPoint)
 keywords: vbapp10.chm694001
 f1_keywords:
 - vbapp10.chm694001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Caption
 ms.assetid: 967080e3-66d5-0efd-cbcf-a98c3b51021b
+ms.date: 06/08/2017
 ---
 
 

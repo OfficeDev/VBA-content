@@ -1,9 +1,10 @@
 ---
 title: MsoTextureType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextureType
 ms.assetid: be7fdbb6-3684-fa23-f1d8-f0caac02754e
+ms.date: 06/08/2017
 ---
 
 

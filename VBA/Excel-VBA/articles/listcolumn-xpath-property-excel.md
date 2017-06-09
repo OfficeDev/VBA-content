@@ -3,10 +3,11 @@ title: ListColumn.XPath Property (Excel)
 keywords: vbaxl10.chm738080
 f1_keywords:
 - vbaxl10.chm738080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.XPath
 ms.assetid: a025d423-4291-c40a-96b9-e1f807d4b388
+ms.date: 06/08/2017
 ---
 
 

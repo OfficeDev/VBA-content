@@ -3,14 +3,15 @@ title: Cannot locate the requested Xbase memo file. (Error 3166)
 keywords: jeterr40.chm5003166
 f1_keywords:
 - jeterr40.chm5003166
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: afe89135-f30c-4f6b-1fbe-11a6fe974ff7
+ms.date: 06/08/2017
 ---
 
 
 # Cannot locate the requested Xbase memo file. (Error 3166)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: DistListItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1130
 f1_keywords:
 - vbaol11.chm1130
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Mileage
 ms.assetid: 126d7522-9e69-2b38-c01f-677d28ed5a68
+ms.date: 06/08/2017
 ---
 
 

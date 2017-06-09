@@ -3,8 +3,9 @@ title: CurrentWebUser Method, Access [vbaac10.chm14599]
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8330f510-f964-4953-93b7-65aa9d3e7a51
+ms.date: 06/08/2017
 ---
 
 

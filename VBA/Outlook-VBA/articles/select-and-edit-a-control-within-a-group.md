@@ -1,7 +1,8 @@
 ---
 title: Select and Edit a Control Within a Group
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 46796935-ac5c-ed08-dd4d-14274253d8f7
+ms.date: 06/08/2017
 ---
 
 

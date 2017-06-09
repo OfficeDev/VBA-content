@@ -1,9 +1,10 @@
 ---
 title: MsoPictureEffectType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPictureEffectType
 ms.assetid: 8e93840a-308c-9faf-e867-b2006761b153
+ms.date: 06/08/2017
 ---
 
 

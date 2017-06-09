@@ -3,10 +3,11 @@ title: Interior.PatternColor Property (PowerPoint)
 keywords: vbapp10.chm707005
 f1_keywords:
 - vbapp10.chm707005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.PatternColor
 ms.assetid: eb8e0993-fe73-3ab5-3b89-e5a306b20149
+ms.date: 06/08/2017
 ---
 
 

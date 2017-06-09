@@ -3,10 +3,11 @@ title: WorksheetFunction.ImProduct Method (Excel)
 keywords: vbaxl10.chm137290
 f1_keywords:
 - vbaxl10.chm137290
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImProduct
 ms.assetid: 62733d0c-118b-1382-6c54-e8bc358c702c
+ms.date: 06/08/2017
 ---
 
 

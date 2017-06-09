@@ -3,8 +3,9 @@ title: ForeColor Property, Excel [vbagr10.chm67175]
 keywords: vbagr10.chm67175
 f1_keywords:
 - vbagr10.chm67175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e3d1641-66ba-4e4e-966e-f959986968d5
+ms.date: 06/08/2017
 ---
 
 

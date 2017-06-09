@@ -3,10 +3,11 @@ title: Document.PurgeUndo Method (Visio)
 keywords: vis_sdr.chm10516450
 f1_keywords:
 - vis_sdr.chm10516450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PurgeUndo
 ms.assetid: 04556300-8787-5a04-040c-476d864f682e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ListLevel.ResetOnHigher Property (Word)
 keywords: vbawd10.chm160235533
 f1_keywords:
 - vbawd10.chm160235533
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.ResetOnHigher
 ms.assetid: 6623910d-94ac-62c7-8af5-5cc32ef9c88f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Envelope.RecipientPostalfromLeft Property (Word)
 keywords: vbawd10.chm152567833
 f1_keywords:
 - vbawd10.chm152567833
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.RecipientPostalfromLeft
 ms.assetid: cf0e6156-4495-1808-f1cd-f2e068714d8e
+ms.date: 06/08/2017
 ---
 
 

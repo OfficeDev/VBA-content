@@ -3,10 +3,11 @@ title: MeetingItem.RetentionExpirationDate Property (Outlook)
 keywords: vbaol11.chm3560
 f1_keywords:
 - vbaol11.chm3560
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.RetentionExpirationDate
 ms.assetid: 81ce85c5-0b0e-40b0-563a-8654cd3dece4
+ms.date: 06/08/2017
 ---
 
 

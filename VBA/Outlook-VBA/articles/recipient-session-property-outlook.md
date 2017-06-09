@@ -3,10 +3,11 @@ title: Recipient.Session Property (Outlook)
 keywords: vbaol11.chm2342
 f1_keywords:
 - vbaol11.chm2342
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Session
 ms.assetid: 0719e438-c9b0-ecca-1aa0-f25c9b21fe69
+ms.date: 06/08/2017
 ---
 
 

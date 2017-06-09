@@ -3,10 +3,11 @@ title: WorksheetFunction.Weekday Method (Excel)
 keywords: vbaxl10.chm137115
 f1_keywords:
 - vbaxl10.chm137115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Weekday
 ms.assetid: dc3140ba-98bf-8e56-5440-5eba914b30bc
+ms.date: 06/08/2017
 ---
 
 

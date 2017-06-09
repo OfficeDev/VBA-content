@@ -3,10 +3,11 @@ title: Conversation.StopAlwaysDelete Method (Outlook)
 keywords: vbaol11.chm3432
 f1_keywords:
 - vbaol11.chm3432
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.StopAlwaysDelete
 ms.assetid: c759c9c8-bc43-ad5e-954c-88494c3dc4a6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: IsURLTrusted Method, Project [vbapj.chm131226]
 keywords: vbapj.chm131226
 f1_keywords:
 - vbapj.chm131226
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 35301fa9-ac99-4928-a478-5c7da42f4298
+ms.date: 06/08/2017
 ---
 
 

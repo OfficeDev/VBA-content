@@ -3,10 +3,11 @@ title: LanguageSettings Object (Office)
 keywords: vbaof11.chm231000
 f1_keywords:
 - vbaof11.chm231000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.LanguageSettings
 ms.assetid: 936f7d61-87e5-e153-08d4-f8c5c8ef0710
+ms.date: 06/08/2017
 ---
 
 

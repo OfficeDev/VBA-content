@@ -3,10 +3,11 @@ title: WebBrowserControl.DocumentComplete Event (Access)
 keywords: vbaac10.chm143141
 f1_keywords:
 - vbaac10.chm143141
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.DocumentComplete
 ms.assetid: 8cb83f9f-b9c2-8534-8fe3-eb5c56338d6c
+ms.date: 06/08/2017
 ---
 
 

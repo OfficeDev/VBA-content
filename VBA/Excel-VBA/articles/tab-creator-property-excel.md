@@ -3,10 +3,11 @@ title: Tab.Creator Property (Excel)
 keywords: vbaxl10.chm722074
 f1_keywords:
 - vbaxl10.chm722074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Tab.Creator
 ms.assetid: 21083ac5-8c5a-bd43-8abd-9bc94ebf4281
+ms.date: 06/08/2017
 ---
 
 

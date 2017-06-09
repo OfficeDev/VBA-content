@@ -3,10 +3,11 @@ title: ParagraphFormat.KeepWithNext Property (Publisher)
 keywords: vbapb10.chm5439538
 f1_keywords:
 - vbapb10.chm5439538
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.KeepWithNext
 ms.assetid: fb49169d-4718-8ee6-6468-b7cbc8b8a774
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ReportItem.Delete Method (Outlook)
 keywords: vbaol11.chm1666
 f1_keywords:
 - vbaol11.chm1666
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Delete
 ms.assetid: 1a206718-6ba6-6b1f-803e-93b1ee435dc0
+ms.date: 06/08/2017
 ---
 
 

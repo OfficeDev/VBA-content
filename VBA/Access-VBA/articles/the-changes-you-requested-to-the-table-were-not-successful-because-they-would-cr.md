@@ -3,13 +3,14 @@ title: The changes you requested to the table were not successful because they w
 keywords: jeterr40.chm5003022
 f1_keywords:
 - jeterr40.chm5003022
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 36382cfd-740c-61e7-b55c-ab8a8ac5fab0
+ms.date: 06/08/2017
 ---
 
 # The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

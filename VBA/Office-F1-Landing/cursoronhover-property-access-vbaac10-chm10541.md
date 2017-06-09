@@ -3,8 +3,9 @@ title: CursorOnHover Property, Access [vbaac10.chm10541]
 keywords: vbaac10.chm10541
 f1_keywords:
 - vbaac10.chm10541
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c2d2abf8-62d2-4cdd-b57a-c85793681f12
+ms.date: 06/08/2017
 ---
 
 

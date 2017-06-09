@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.Move Method (Outlook)
 keywords: vbaol11.chm1853
 f1_keywords:
 - vbaol11.chm1853
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Move
 ms.assetid: bf3e3500-a334-f5fd-dd80-c90a9a1c42cd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ComboBox.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.GridlineShade
 ms.assetid: 286746a1-0098-8991-0074-fe6fa0ceff0a
+ms.date: 06/08/2017
 ---
 
 

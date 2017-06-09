@@ -3,8 +3,9 @@ title: <Message> in query expression <expression>. (Error 3075)
 keywords: jeterr40.chm5003075
 f1_keywords:
 - jeterr40.chm5003075
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 209c32a6-3ff3-64b5-d96b-5f145d347038
+ms.date: 06/08/2017
 ---
 
 

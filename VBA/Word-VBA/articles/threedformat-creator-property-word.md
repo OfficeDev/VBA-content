@@ -3,10 +3,11 @@ title: ThreeDFormat.Creator Property (Word)
 keywords: vbawd10.chm164627433
 f1_keywords:
 - vbawd10.chm164627433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Creator
 ms.assetid: 91566d7d-5934-f0a2-8bfc-16054b5c9292
+ms.date: 06/08/2017
 ---
 
 

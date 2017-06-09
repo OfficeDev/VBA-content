@@ -3,8 +3,9 @@ title: Collapse Parent Command (Shortcut Menu)
 keywords: vbui6.chm1069957
 f1_keywords:
 - vbui6.chm1069957
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bc156c56-a474-6cd9-2bda-5e852a188dbb
+ms.date: 06/08/2017
 ---
 
 

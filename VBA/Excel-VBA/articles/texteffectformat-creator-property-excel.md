@@ -1,9 +1,10 @@
 ---
 title: TextEffectFormat.Creator Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Creator
 ms.assetid: 50833f23-3320-a156-2836-c6ea5fbc6437
+ms.date: 06/08/2017
 ---
 
 

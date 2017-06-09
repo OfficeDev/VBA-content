@@ -3,10 +3,11 @@ title: Hyperlink.Range Property (Excel)
 keywords: vbaxl10.chm536075
 f1_keywords:
 - vbaxl10.chm536075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink.Range
 ms.assetid: 0fdc49ba-fd3f-1125-fe3c-481828b7319e
+ms.date: 06/08/2017
 ---
 
 

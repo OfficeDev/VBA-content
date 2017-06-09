@@ -3,10 +3,11 @@ title: DocumentLibraryVersion.Delete Method (Office)
 keywords: vbaof11.chm277022
 f1_keywords:
 - vbaof11.chm277022
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Delete
 ms.assetid: 40cbf409-65f3-c0b3-5f9b-55ef575004e1
+ms.date: 06/08/2017
 ---
 
 

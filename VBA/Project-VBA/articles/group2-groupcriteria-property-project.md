@@ -1,9 +1,10 @@
 ---
 title: Group2.GroupCriteria Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Group2.GroupCriteria
 ms.assetid: 0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1
+ms.date: 06/08/2017
 ---
 
 

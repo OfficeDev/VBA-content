@@ -3,10 +3,11 @@ title: ApplicationSettings.FreeformDrawingSmoothing Property (Visio)
 keywords: vis_sdr.chm16251785
 f1_keywords:
 - vis_sdr.chm16251785
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.FreeformDrawingSmoothing
 ms.assetid: 55526b81-324a-8c6f-1654-bf7e1244ccf2
+ms.date: 06/08/2017
 ---
 
 

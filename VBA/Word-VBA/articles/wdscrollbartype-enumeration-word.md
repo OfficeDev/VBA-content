@@ -1,9 +1,10 @@
 ---
 title: WdScrollbarType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdScrollbarType
 ms.assetid: fb01b0a3-ee28-f54d-e01a-86905904134c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Change the order of pages in a MultiPage or TabStrip
 keywords: fm20.chm5225232
 f1_keywords:
 - fm20.chm5225232
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1838a025-cb7a-5eef-f806-095b73be0025
+ms.date: 06/08/2017
 ---
 
 

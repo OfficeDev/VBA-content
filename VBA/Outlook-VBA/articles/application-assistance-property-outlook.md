@@ -3,10 +3,11 @@ title: Application.Assistance Property (Outlook)
 keywords: vbaol11.chm3029
 f1_keywords:
 - vbaol11.chm3029
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.Assistance
 ms.assetid: 14d6eb82-82ab-ea67-6a0b-103a535b8d41
+ms.date: 06/08/2017
 ---
 
 

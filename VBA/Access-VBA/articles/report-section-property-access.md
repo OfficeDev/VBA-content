@@ -3,10 +3,11 @@ title: Report.Section Property (Access)
 keywords: vbaac10.chm13874
 f1_keywords:
 - vbaac10.chm13874
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Section
 ms.assetid: 3baad974-8869-30b5-abe3-8cf754a225b3
+ms.date: 06/08/2017
 ---
 
 

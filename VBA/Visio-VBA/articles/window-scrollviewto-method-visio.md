@@ -3,10 +3,11 @@ title: Window.ScrollViewTo Method (Visio)
 keywords: vis_sdr.chm11616525
 f1_keywords:
 - vis_sdr.chm11616525
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.ScrollViewTo
 ms.assetid: c2930ee2-f56f-2e3e-cc9a-db73e1d99cd1
+ms.date: 06/08/2017
 ---
 
 

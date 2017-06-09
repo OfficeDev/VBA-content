@@ -3,8 +3,9 @@ title: OnResize Property, Access [vbaac10.chm4104]
 keywords: vbaac10.chm4104
 f1_keywords:
 - vbaac10.chm4104
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 93c58d6e-92dc-44e7-a55a-1128bf396f45
+ms.date: 06/08/2017
 ---
 
 

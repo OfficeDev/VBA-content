@@ -3,10 +3,11 @@ title: Editors.Add Method (Word)
 keywords: vbawd10.chm9175541
 f1_keywords:
 - vbawd10.chm9175541
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editors.Add
 ms.assetid: d17ad2dc-1607-6cb3-f7e4-eefcd7fc3202
+ms.date: 06/08/2017
 ---
 
 

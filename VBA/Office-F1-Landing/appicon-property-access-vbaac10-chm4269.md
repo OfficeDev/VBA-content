@@ -3,8 +3,9 @@ title: AppIcon Property, Access [vbaac10.chm4269]
 keywords: vbaac10.chm4269
 f1_keywords:
 - vbaac10.chm4269
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75054faa-0572-4e08-ada1-b8cbc6262943
+ms.date: 06/08/2017
 ---
 
 

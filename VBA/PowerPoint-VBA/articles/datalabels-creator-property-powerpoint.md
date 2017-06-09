@@ -1,9 +1,10 @@
 ---
 title: DataLabels.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Creator
 ms.assetid: 78db563b-ccc7-5090-8649-cd93d4833e55
+ms.date: 06/08/2017
 ---
 
 

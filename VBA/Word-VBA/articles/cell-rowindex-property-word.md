@@ -3,10 +3,11 @@ title: Cell.RowIndex Property (Word)
 keywords: vbawd10.chm156106756
 f1_keywords:
 - vbawd10.chm156106756
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.RowIndex
 ms.assetid: 745fabed-ba99-2e69-0d87-a7b520ac78cf
+ms.date: 06/08/2017
 ---
 
 

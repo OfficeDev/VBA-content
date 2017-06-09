@@ -3,10 +3,11 @@ title: CommandButton.PictureCaptionArrangement Property (Access)
 keywords: vbaac10.chm14291,vbaac10.chm5883
 f1_keywords:
 - vbaac10.chm14291,vbaac10.chm5883
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PictureCaptionArrangement
 ms.assetid: b33ce40a-b247-9d69-c06d-17c822c80283
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ToggleButton.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14148
 f1_keywords:
 - vbaac10.chm14148
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.BeforeUpdate
 ms.assetid: 4c910eb2-6ae9-ffef-2fd9-a95222975e49
+ms.date: 06/08/2017
 ---
 
 

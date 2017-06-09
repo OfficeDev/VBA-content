@@ -1,7 +1,8 @@
 ---
 title: SmartArtLayout Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: addb351f-b586-c4a1-e3d2-ad170e0ed750
+ms.date: 06/08/2017
 ---
 
 

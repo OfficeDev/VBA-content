@@ -1,9 +1,10 @@
 ---
 title: DataRecordsets.ObjectType Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.ObjectType
 ms.assetid: 51a6fa60-1fdf-43ef-205f-69a56fa8a18b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TextFrame.HorizontalAnchor Property (Word)
 keywords: vbawd10.chm162665364
 f1_keywords:
 - vbawd10.chm162665364
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.HorizontalAnchor
 ms.assetid: 6e78d938-343c-304c-2a40-ccf747c4f15d
+ms.date: 06/08/2017
 ---
 
 

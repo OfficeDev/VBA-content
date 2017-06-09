@@ -3,10 +3,11 @@ title: Slides.Application Property (PowerPoint)
 keywords: vbapp10.chm530001
 f1_keywords:
 - vbapp10.chm530001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.Application
 ms.assetid: 60ef5e73-b7fe-a1ad-a2ba-cde5b65e2a18
+ms.date: 06/08/2017
 ---
 
 

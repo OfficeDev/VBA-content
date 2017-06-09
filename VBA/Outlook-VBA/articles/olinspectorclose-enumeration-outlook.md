@@ -3,10 +3,11 @@ title: OlInspectorClose Enumeration (Outlook)
 keywords: vbaol11.chm3063
 f1_keywords:
 - vbaol11.chm3063
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlInspectorClose
 ms.assetid: 96df6281-7281-dae3-c088-74e512b381c8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Colors Property, Excel [vbagr10.chm65822]
 keywords: vbagr10.chm65822
 f1_keywords:
 - vbagr10.chm65822
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 74a64927-9b58-4918-ba4b-68ff65793883
+ms.date: 06/08/2017
 ---
 
 

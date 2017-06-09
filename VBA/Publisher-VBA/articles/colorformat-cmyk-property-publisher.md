@@ -3,10 +3,11 @@ title: ColorFormat.CMYK Property (Publisher)
 keywords: vbapb10.chm2555907
 f1_keywords:
 - vbapb10.chm2555907
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.CMYK
 ms.assetid: 28d7ad65-c63c-3b11-3ecc-c77a1a586b84
+ms.date: 06/08/2017
 ---
 
 

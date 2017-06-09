@@ -1,9 +1,10 @@
 ---
 title: Task.Text4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text4
 ms.assetid: e325fa01-4bbb-6a28-4261-6b5a9f80a53f
+ms.date: 06/08/2017
 ---
 
 

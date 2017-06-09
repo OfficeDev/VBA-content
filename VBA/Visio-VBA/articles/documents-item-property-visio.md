@@ -3,10 +3,11 @@ title: Documents.Item Property (Visio)
 keywords: vis_sdr.chm10613765
 f1_keywords:
 - vis_sdr.chm10613765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.Item
 ms.assetid: 2180a2ad-39f1-c83e-2a5b-c287bfbb868d
+ms.date: 06/08/2017
 ---
 
 

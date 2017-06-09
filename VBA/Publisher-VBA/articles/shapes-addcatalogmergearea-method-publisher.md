@@ -3,10 +3,11 @@ title: Shapes.AddCatalogMergeArea Method (Publisher)
 keywords: vbapb10.chm2162752
 f1_keywords:
 - vbapb10.chm2162752
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddCatalogMergeArea
 ms.assetid: 4af86b99-5a3a-b9f3-d269-16d635d35c83
+ms.date: 06/08/2017
 ---
 
 

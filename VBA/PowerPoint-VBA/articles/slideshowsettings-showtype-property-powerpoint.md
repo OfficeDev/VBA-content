@@ -3,10 +3,11 @@ title: SlideShowSettings.ShowType Property (PowerPoint)
 keywords: vbapp10.chm514010
 f1_keywords:
 - vbapp10.chm514010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowType
 ms.assetid: 6537dd4c-8029-3e95-7073-7701ba12a627
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.SplitTable Method (Word)
 keywords: vbawd10.chm158663182
 f1_keywords:
 - vbawd10.chm158663182
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SplitTable
 ms.assetid: 5d68a031-1927-ae5c-de11-963bca9c1d2c
+ms.date: 06/08/2017
 ---
 
 

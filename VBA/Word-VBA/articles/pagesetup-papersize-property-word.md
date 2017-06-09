@@ -3,10 +3,11 @@ title: PageSetup.PaperSize Property (Word)
 keywords: vbawd10.chm158400632
 f1_keywords:
 - vbawd10.chm158400632
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.PaperSize
 ms.assetid: 06431f1b-5484-67c6-8ae8-cace3aa9df62
+ms.date: 06/08/2017
 ---
 
 

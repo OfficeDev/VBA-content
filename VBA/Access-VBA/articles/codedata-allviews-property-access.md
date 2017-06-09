@@ -3,10 +3,11 @@ title: CodeData.AllViews Property (Access)
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeData.AllViews
 ms.assetid: 9079dc15-b433-87c9-dad1-f726ffd0be28
+ms.date: 06/08/2017
 ---
 
 

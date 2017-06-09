@@ -3,10 +3,11 @@ title: SlicerCacheLevel.SortItems Property (Excel)
 keywords: vbaxl10.chm901078
 f1_keywords:
 - vbaxl10.chm901078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCacheLevel.SortItems
 ms.assetid: dd08c2d8-3502-d078-5c69-ab678ea9b801
+ms.date: 06/08/2017
 ---
 
 

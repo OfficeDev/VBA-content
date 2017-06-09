@@ -3,10 +3,11 @@ title: RelatedShapePairEvent.ContainingPageID Property (Visio)
 keywords: vis_sdr.chm17751695
 f1_keywords:
 - vis_sdr.chm17751695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RelatedShapePairEvent.ContainingPageID
 ms.assetid: 7845e61f-eaac-8400-435a-3b45b61fe811
+ms.date: 06/08/2017
 ---
 
 

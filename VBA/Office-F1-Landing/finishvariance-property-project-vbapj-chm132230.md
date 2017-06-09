@@ -3,8 +3,9 @@ title: FinishVariance Property, Project [vbapj.chm132230]
 keywords: vbapj.chm132230
 f1_keywords:
 - vbapj.chm132230
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9c5b76f7-4719-483d-98eb-40285a0c492c
+ms.date: 06/08/2017
 ---
 
 

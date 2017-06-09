@@ -1,9 +1,10 @@
 ---
 title: CalendarDrivers.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CalendarDrivers.Parent
 ms.assetid: d5d76590-50f3-9289-b8b7-8eafbf166fe7
+ms.date: 06/08/2017
 ---
 
 

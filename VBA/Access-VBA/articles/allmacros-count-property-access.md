@@ -3,10 +3,11 @@ title: AllMacros.Count Property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllMacros.Count
 ms.assetid: 67ed99d8-2195-5ef1-1adb-7d43a043168f
+ms.date: 06/08/2017
 ---
 
 

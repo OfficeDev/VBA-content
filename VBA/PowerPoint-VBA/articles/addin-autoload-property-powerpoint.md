@@ -3,10 +3,11 @@ title: AddIn.AutoLoad Property (PowerPoint)
 keywords: vbapp10.chm521007
 f1_keywords:
 - vbapp10.chm521007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn.AutoLoad
 ms.assetid: ba8eca66-6d94-62ca-0270-85f2a508299f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Selection.Flip Method (Visio)
 keywords: vis_sdr.chm11151450
 f1_keywords:
 - vis_sdr.chm11151450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Flip
 ms.assetid: 40ad506b-e5e2-4a42-6b38-0363e462fce4
+ms.date: 06/08/2017
 ---
 
 

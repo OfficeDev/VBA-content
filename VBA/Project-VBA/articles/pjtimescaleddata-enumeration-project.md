@@ -1,9 +1,10 @@
 ---
 title: PjTimescaledData Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjTimescaledData
 ms.assetid: 3933e982-913a-d4de-789d-39d3a4a65ca4
+ms.date: 06/08/2017
 ---
 
 

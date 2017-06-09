@@ -3,10 +3,11 @@ title: FillFormat.PresetTexture Property (Publisher)
 keywords: vbapb10.chm2359560
 f1_keywords:
 - vbapb10.chm2359560
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetTexture
 ms.assetid: c03a9bf3-7378-e82a-9a40-650c5c96fd2a
+ms.date: 06/08/2017
 ---
 
 

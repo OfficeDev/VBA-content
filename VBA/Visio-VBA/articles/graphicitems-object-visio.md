@@ -3,10 +3,11 @@ title: GraphicItems Object (Visio)
 keywords: vis_sdr.chm61030
 f1_keywords:
 - vis_sdr.chm61030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItems
 ms.assetid: 89d0bbeb-ee45-50cc-490e-0af49d036ad1
+ms.date: 06/08/2017
 ---
 
 

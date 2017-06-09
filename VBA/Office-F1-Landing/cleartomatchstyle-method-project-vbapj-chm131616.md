@@ -3,8 +3,9 @@ title: ClearToMatchStyle Method, Project [vbapj.chm131616]
 keywords: vbapj.chm131616
 f1_keywords:
 - vbapj.chm131616
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3bfc6120-d31a-4a1b-9bae-be2f93323c27
+ms.date: 06/08/2017
 ---
 
 

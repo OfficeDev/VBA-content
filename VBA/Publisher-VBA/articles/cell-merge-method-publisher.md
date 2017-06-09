@@ -3,10 +3,11 @@ title: Cell.Merge Method (Publisher)
 keywords: vbapb10.chm5111842
 f1_keywords:
 - vbapb10.chm5111842
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Merge
 ms.assetid: 09ae6910-ba47-4b0e-5792-ac9eb1298d57
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: VerticalAlignment Property (Graph)
 keywords: vbagr10.chm65673
 f1_keywords:
 - vbagr10.chm65673
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 0021576c-89c5-79ea-bfad-2e29ee9425ae
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: FileDialogSelectedItems Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1c224a7b-b2a7-4dde-b475-2d80191a8d51
+ms.date: 06/08/2017
 ---
 
 

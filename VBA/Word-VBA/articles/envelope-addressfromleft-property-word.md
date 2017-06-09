@@ -3,10 +3,11 @@ title: Envelope.AddressFromLeft Property (Word)
 keywords: vbawd10.chm152567821
 f1_keywords:
 - vbawd10.chm152567821
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.AddressFromLeft
 ms.assetid: 452734c0-fa41-8c90-2478-ecbd5731d393
+ms.date: 06/08/2017
 ---
 
 

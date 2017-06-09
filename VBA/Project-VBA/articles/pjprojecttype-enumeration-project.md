@@ -1,9 +1,10 @@
 ---
 title: PjProjectType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjProjectType
 ms.assetid: 5344b92a-db82-1179-2fe0-365b96ed4d9f
+ms.date: 06/08/2017
 ---
 
 

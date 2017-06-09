@@ -3,10 +3,11 @@ title: ColorSchemes Object (PowerPoint)
 keywords: vbapp10.chm536000
 f1_keywords:
 - vbapp10.chm536000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorSchemes
 ms.assetid: 9b062448-88f5-b38d-2c76-330c691c9d72
+ms.date: 06/08/2017
 ---
 
 

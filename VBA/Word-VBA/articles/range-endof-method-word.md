@@ -3,10 +3,11 @@ title: Range.EndOf Method (Word)
 keywords: vbawd10.chm157155436
 f1_keywords:
 - vbawd10.chm157155436
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.EndOf
 ms.assetid: b9bda3b3-fee5-6359-f0ab-10fbe6b635b1
+ms.date: 06/08/2017
 ---
 
 

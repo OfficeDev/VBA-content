@@ -3,10 +3,11 @@ title: Document.HyphenationZone Property (Word)
 keywords: vbawd10.chm158007309
 f1_keywords:
 - vbawd10.chm158007309
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.HyphenationZone
 ms.assetid: 30ea2a99-a8f5-10f4-58f9-48533bf3ec00
+ms.date: 06/08/2017
 ---
 
 

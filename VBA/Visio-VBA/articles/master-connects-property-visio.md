@@ -3,10 +3,11 @@ title: Master.Connects Property (Visio)
 keywords: vis_sdr.chm10713290
 f1_keywords:
 - vis_sdr.chm10713290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Connects
 ms.assetid: 72c01ae0-9134-d384-b860-dbb333a498fe
+ms.date: 06/08/2017
 ---
 
 

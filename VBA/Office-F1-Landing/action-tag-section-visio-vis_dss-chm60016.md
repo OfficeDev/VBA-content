@@ -3,8 +3,9 @@ title: Action Tag Section, Visio [Vis_DSS.chm60016]
 keywords: vis_dss.chm60016
 f1_keywords:
 - vis_dss.chm60016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a1be7be8-292d-4d2e-b63a-5ab4aa7c8e8e
+ms.date: 06/08/2017
 ---
 
 

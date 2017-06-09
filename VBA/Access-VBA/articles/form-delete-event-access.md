@@ -3,10 +3,11 @@ title: Form.Delete Event (Access)
 keywords: vbaac10.chm13639
 f1_keywords:
 - vbaac10.chm13639
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Delete
 ms.assetid: 89916f81-ec7a-f322-d4e6-a4a42db523cf
+ms.date: 06/08/2017
 ---
 
 

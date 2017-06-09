@@ -3,10 +3,11 @@ title: DropCap.FontName Property (Word)
 keywords: vbawd10.chm156631051
 f1_keywords:
 - vbawd10.chm156631051
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.FontName
 ms.assetid: 5c89102e-fbf2-cb40-d89b-fbeb56386da1
+ms.date: 06/08/2017
 ---
 
 

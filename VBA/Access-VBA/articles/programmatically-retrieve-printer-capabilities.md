@@ -1,7 +1,8 @@
 ---
 title: Programmatically Retrieve Printer Capabilities
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8c929823-6b61-16ea-6d84-ff47cc1e8389
+ms.date: 06/08/2017
 ---
 
 

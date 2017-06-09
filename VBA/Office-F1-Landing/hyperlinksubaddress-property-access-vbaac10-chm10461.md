@@ -3,8 +3,9 @@ title: HyperlinkSubAddress Property, Access [vbaac10.chm10461]
 keywords: vbaac10.chm10461
 f1_keywords:
 - vbaac10.chm10461
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ea9ed499-c989-428c-8016-95210e2c559d
+ms.date: 06/08/2017
 ---
 
 

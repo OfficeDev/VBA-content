@@ -3,8 +3,9 @@ title: PageAdded Event, Visio [vis_sdr.chm10019200]
 keywords: vis_sdr.chm10019200
 f1_keywords:
 - vis_sdr.chm10019200
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: baf6feed-80f7-4d33-89a6-6e373e91575c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Search.GetTable Method (Outlook)
 keywords: vbaol11.chm2261
 f1_keywords:
 - vbaol11.chm2261
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Search.GetTable
 ms.assetid: 3aba6b77-73a3-9620-9c18-b2e03c7b63bc
+ms.date: 06/08/2017
 ---
 
 

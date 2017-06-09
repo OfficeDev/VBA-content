@@ -3,10 +3,11 @@ title: Axis.TickLabelSpacing Property (Excel)
 keywords: vbaxl10.chm561101
 f1_keywords:
 - vbaxl10.chm561101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.TickLabelSpacing
 ms.assetid: 69e74146-31db-356a-3c00-e5aa35367dc3
+ms.date: 06/08/2017
 ---
 
 

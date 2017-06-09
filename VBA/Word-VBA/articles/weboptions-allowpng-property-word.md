@@ -3,10 +3,11 @@ title: WebOptions.AllowPNG Property (Word)
 keywords: vbawd10.chm165937159
 f1_keywords:
 - vbawd10.chm165937159
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.AllowPNG
 ms.assetid: 61fb3c31-0c6a-f4f0-390b-81d0ffa348ec
+ms.date: 06/08/2017
 ---
 
 

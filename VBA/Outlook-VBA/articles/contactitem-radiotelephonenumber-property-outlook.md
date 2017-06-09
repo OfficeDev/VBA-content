@@ -3,10 +3,11 @@ title: ContactItem.RadioTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm1062
 f1_keywords:
 - vbaol11.chm1062
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.RadioTelephoneNumber
 ms.assetid: 130631d8-6b1b-1378-2937-ced00ec5c70d
+ms.date: 06/08/2017
 ---
 
 

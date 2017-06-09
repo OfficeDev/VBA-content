@@ -3,10 +3,11 @@ title: ToggleButton.GotFocus Event (Access)
 keywords: vbaac10.chm14152
 f1_keywords:
 - vbaac10.chm14152
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.GotFocus
 ms.assetid: 06f9bf2b-0a69-2d90-f238-2594a7baca8b
+ms.date: 06/08/2017
 ---
 
 

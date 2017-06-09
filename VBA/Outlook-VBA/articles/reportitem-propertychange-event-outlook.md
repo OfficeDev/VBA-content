@@ -1,9 +1,10 @@
 ---
 title: ReportItem.PropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.PropertyChange
 ms.assetid: 5fd89535-8fa4-202e-bb0a-1dc4d608acec
+ms.date: 06/08/2017
 ---
 
 

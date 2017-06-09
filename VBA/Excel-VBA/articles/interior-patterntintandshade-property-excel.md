@@ -3,10 +3,11 @@ title: Interior.PatternTintAndShade Property (Excel)
 keywords: vbaxl10.chm551082
 f1_keywords:
 - vbaxl10.chm551082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.PatternTintAndShade
 ms.assetid: 0213fb37-6dd3-af4b-0ff6-ce530862875f
+ms.date: 06/08/2017
 ---
 
 

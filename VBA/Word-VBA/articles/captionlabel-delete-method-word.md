@@ -3,10 +3,11 @@ title: CaptionLabel.Delete Method (Word)
 keywords: vbawd10.chm158924900
 f1_keywords:
 - vbawd10.chm158924900
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabel.Delete
 ms.assetid: fe77725d-bc17-7d72-410e-8379f9f60d25
+ms.date: 06/08/2017
 ---
 
 

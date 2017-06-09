@@ -3,14 +3,15 @@ title: Scaling of decimal value resulted in data truncation. (Error 3759)
 keywords: jeterr40.chm5003759
 f1_keywords:
 - jeterr40.chm5003759
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1c225bb9-dc8f-4755-e96a-31e7b0dd1386
+ms.date: 06/08/2017
 ---
 
 
 # Scaling of decimal value resulted in data truncation. (Error 3759)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

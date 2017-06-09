@@ -3,8 +3,9 @@ title: Property Set can't be used with a read-only property (Error 383)
 keywords: vblr6.chm1000383
 f1_keywords:
 - vblr6.chm1000383
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 42ea9723-86e1-7409-844e-9bda4be80c5f
+ms.date: 06/08/2017
 ---
 
 

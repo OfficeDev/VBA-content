@@ -1,7 +1,8 @@
 ---
 title: WorkflowTemplate Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf7b55ca-0a14-478a-a3c6-bb2528efd41f
+ms.date: 06/08/2017
 ---
 
 

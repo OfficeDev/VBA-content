@@ -3,10 +3,11 @@ title: Options.AutoCreateNewDrawings Property (Word)
 keywords: vbawd10.chm162988483
 f1_keywords:
 - vbawd10.chm162988483
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoCreateNewDrawings
 ms.assetid: d774e700-d62d-1418-e860-b3cd05281468
+ms.date: 06/08/2017
 ---
 
 

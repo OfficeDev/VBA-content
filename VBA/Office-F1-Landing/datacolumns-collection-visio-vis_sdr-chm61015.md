@@ -3,8 +3,9 @@ title: DataColumns Collection, Visio [vis_sdr.chm61015]
 keywords: vis_sdr.chm61015
 f1_keywords:
 - vis_sdr.chm61015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11148a1b-96f5-4421-97ab-a72e409944af
+ms.date: 06/08/2017
 ---
 
 

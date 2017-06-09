@@ -1,9 +1,10 @@
 ---
 title: ChartBorder.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Parent
 ms.assetid: 64dac45e-210b-d9c3-5b8e-68cf41950b5a
+ms.date: 06/08/2017
 ---
 
 

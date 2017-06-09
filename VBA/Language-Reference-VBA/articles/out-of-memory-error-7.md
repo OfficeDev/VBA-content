@@ -3,8 +3,9 @@ title: Out of memory (Error 7)
 keywords: vblr6.chm1011242
 f1_keywords:
 - vblr6.chm1011242
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b04a1604-738c-2425-1d4b-a5c595cd798d
+ms.date: 06/08/2017
 ---
 
 

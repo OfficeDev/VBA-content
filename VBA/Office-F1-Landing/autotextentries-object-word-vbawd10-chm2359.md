@@ -3,8 +3,9 @@ title: AutoTextEntries Object, Word [vbawd10.chm2359]
 keywords: vbawd10.chm2359
 f1_keywords:
 - vbawd10.chm2359
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbf4fe85-b386-4394-9bc6-71c671b61242
+ms.date: 06/08/2017
 ---
 
 

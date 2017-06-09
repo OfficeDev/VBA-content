@@ -1,9 +1,10 @@
 ---
 title: WdDocumentMedium Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDocumentMedium
 ms.assetid: e92dd6ec-d02a-bfc1-ac10-d82fe5040767
+ms.date: 06/08/2017
 ---
 
 

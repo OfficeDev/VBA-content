@@ -3,10 +3,11 @@ title: OlkListBox.TopIndex Property (Outlook)
 keywords: vbaol11.chm1000264
 f1_keywords:
 - vbaol11.chm1000264
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.TopIndex
 ms.assetid: 8d024de7-4135-4957-4d84-1b0199219f8f
+ms.date: 06/08/2017
 ---
 
 

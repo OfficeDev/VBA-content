@@ -3,10 +3,11 @@ title: Global.PointsToMillimeters Method (Word)
 keywords: vbawd10.chm163119486
 f1_keywords:
 - vbawd10.chm163119486
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.PointsToMillimeters
 ms.assetid: 0b7c9c70-4352-e427-db1b-4a1b5b2af426
+ms.date: 06/08/2017
 ---
 
 

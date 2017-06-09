@@ -3,10 +3,11 @@ title: PlotArea.Parent Property (Excel)
 keywords: vbaxl10.chm618073
 f1_keywords:
 - vbaxl10.chm618073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Parent
 ms.assetid: c60df4df-c09a-bce8-9460-eca9e9e47c95
+ms.date: 06/08/2017
 ---
 
 

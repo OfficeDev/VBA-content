@@ -3,10 +3,11 @@ title: Application.ActiveSelection Property (Project)
 keywords: vbapj.chm131378
 f1_keywords:
 - vbapj.chm131378
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ActiveSelection
 ms.assetid: aa72b337-4031-a970-0921-d1d60f66096e
+ms.date: 06/08/2017
 ---
 
 

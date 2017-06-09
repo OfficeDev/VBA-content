@@ -3,14 +3,15 @@ title: Toggle Button Control
 keywords: vbaac10.chm5186560
 f1_keywords:
 - vbaac10.chm5186560
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4dcce1e4-3923-2c97-97a2-f4831d9c5489
+ms.date: 06/08/2017
 ---
 
 
 # Toggle Button Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

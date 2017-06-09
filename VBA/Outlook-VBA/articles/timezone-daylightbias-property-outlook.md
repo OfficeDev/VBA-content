@@ -3,10 +3,11 @@ title: TimeZone.DaylightBias Property (Outlook)
 keywords: vbaol11.chm3287
 f1_keywords:
 - vbaol11.chm3287
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.DaylightBias
 ms.assetid: 59c83104-7ce5-95a9-71fa-df3b0a96e173
+ms.date: 06/08/2017
 ---
 
 

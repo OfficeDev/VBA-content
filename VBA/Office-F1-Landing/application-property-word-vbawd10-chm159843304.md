@@ -3,8 +3,9 @@ title: Application Property, Word [vbawd10.chm159843304]
 keywords: vbawd10.chm159843304
 f1_keywords:
 - vbawd10.chm159843304
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4e66196d-5373-4473-924d-65bffbbc1efb
+ms.date: 06/08/2017
 ---
 
 

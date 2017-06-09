@@ -1,9 +1,10 @@
 ---
 title: PageNumber.Creator Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumber.Creator
 ms.assetid: f83e5112-c0f4-523c-e6ed-43aa572c3e2c
+ms.date: 06/08/2017
 ---
 
 

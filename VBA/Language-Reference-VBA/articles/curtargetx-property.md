@@ -3,10 +3,11 @@ title: CurTargetX Property
 keywords: fm20.chm5225027
 f1_keywords:
 - fm20.chm5225027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CurTargetX
 ms.assetid: b0365f58-22db-34d2-9751-6c9d36598e08
+ms.date: 06/08/2017
 ---
 
 

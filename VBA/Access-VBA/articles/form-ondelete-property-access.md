@@ -3,10 +3,11 @@ title: Form.OnDelete Property (Access)
 keywords: vbaac10.chm13437,vbaac10.chm5427
 f1_keywords:
 - vbaac10.chm13437,vbaac10.chm5427
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnDelete
 ms.assetid: 97cfb9eb-e1c7-a879-a8aa-d26ff337efbb
+ms.date: 06/08/2017
 ---
 
 

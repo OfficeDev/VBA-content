@@ -3,10 +3,11 @@ title: OlkCheckBox.Font Property (Outlook)
 keywords: vbaol11.chm1000140
 f1_keywords:
 - vbaol11.chm1000140
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Font
 ms.assetid: ffabe2b5-1910-4480-b4d4-b684dd8203b5
+ms.date: 06/08/2017
 ---
 
 

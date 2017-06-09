@@ -3,10 +3,11 @@ title: Application.MailMergeBeforeRecordMerge Event (Publisher)
 keywords: vbapb10.chm268435474
 f1_keywords:
 - vbapb10.chm268435474
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeBeforeRecordMerge
 ms.assetid: 67ae8255-336d-0ff8-7927-fbd31262c115
+ms.date: 06/08/2017
 ---
 
 

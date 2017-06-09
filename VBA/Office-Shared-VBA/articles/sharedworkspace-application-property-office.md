@@ -1,9 +1,10 @@
 ---
 title: SharedWorkspace.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.Application
 ms.assetid: c46726f0-418e-6041-2298-018e3d54e54a
+ms.date: 06/08/2017
 ---
 
 

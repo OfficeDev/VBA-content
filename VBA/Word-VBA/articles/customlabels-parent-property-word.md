@@ -3,10 +3,11 @@ title: CustomLabels.Parent Property (Word)
 keywords: vbawd10.chm152437738
 f1_keywords:
 - vbawd10.chm152437738
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabels.Parent
 ms.assetid: afee2b69-41d4-a771-016c-b220136ff4ce
+ms.date: 06/08/2017
 ---
 
 

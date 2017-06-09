@@ -3,10 +3,11 @@ title: InlineShape.PictureFormat Property (Word)
 keywords: vbawd10.chm162005110
 f1_keywords:
 - vbawd10.chm162005110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.PictureFormat
 ms.assetid: 2fe4c4a3-9dbf-e882-4c6c-e4ee4c3880f5
+ms.date: 06/08/2017
 ---
 
 

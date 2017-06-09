@@ -3,10 +3,11 @@ title: Application.SelectTimescaleRange Method (Project)
 keywords: vbapj.chm954
 f1_keywords:
 - vbapj.chm954
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectTimescaleRange
 ms.assetid: 16a4bd12-7a60-c172-6a73-c3552b2baf4b
+ms.date: 06/08/2017
 ---
 
 

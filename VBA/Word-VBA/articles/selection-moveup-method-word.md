@@ -3,10 +3,11 @@ title: Selection.MoveUp Method (Word)
 keywords: vbawd10.chm158663158
 f1_keywords:
 - vbawd10.chm158663158
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveUp
 ms.assetid: 46993371-c916-06b5-a644-960f8a283536
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.Name Property (Word)
 keywords: vbawd10.chm161480819
 f1_keywords:
 - vbawd10.chm161480819
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Name
 ms.assetid: 829e1e67-d863-6af0-8faa-c0c5df6e1f8b
+ms.date: 06/08/2017
 ---
 
 

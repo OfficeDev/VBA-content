@@ -3,8 +3,9 @@ title: Visible Property, Office Shared [fm20.chm5225113]
 keywords: fm20.chm5225113
 f1_keywords:
 - fm20.chm5225113
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02651f08-13fd-4344-b95f-534e3d482252
+ms.date: 06/08/2017
 ---
 
 

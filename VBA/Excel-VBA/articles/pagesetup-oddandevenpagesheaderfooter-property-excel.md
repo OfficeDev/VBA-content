@@ -3,10 +3,11 @@ title: PageSetup.OddAndEvenPagesHeaderFooter Property (Excel)
 keywords: vbaxl10.chm473112
 f1_keywords:
 - vbaxl10.chm473112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: d7d5d5b2-45b5-8fbc-3223-1ad74caa180a
+ms.date: 06/08/2017
 ---
 
 

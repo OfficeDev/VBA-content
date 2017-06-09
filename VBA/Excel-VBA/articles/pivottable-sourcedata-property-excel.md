@@ -3,10 +3,11 @@ title: PivotTable.SourceData Property (Excel)
 keywords: vbaxl10.chm235097
 f1_keywords:
 - vbaxl10.chm235097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.SourceData
 ms.assetid: 099e7401-d684-56e0-7276-8e33bf6b0fab
+ms.date: 06/08/2017
 ---
 
 

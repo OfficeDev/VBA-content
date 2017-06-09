@@ -3,8 +3,9 @@ title: Object variable not set (Error 91), Office Shared [vblr6.chm1011237]
 keywords: vblr6.chm1011237
 f1_keywords:
 - vblr6.chm1011237
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83960ae6-29a2-4373-b17d-14d00e811c45
+ms.date: 06/08/2017
 ---
 
 

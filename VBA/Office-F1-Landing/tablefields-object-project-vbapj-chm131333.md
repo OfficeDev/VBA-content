@@ -3,8 +3,9 @@ title: TableFields Object, Project [vbapj.chm131333]
 keywords: vbapj.chm131333
 f1_keywords:
 - vbapj.chm131333
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe5be0c6-ec1e-4d27-a934-70a1839a0444
+ms.date: 06/08/2017
 ---
 
 

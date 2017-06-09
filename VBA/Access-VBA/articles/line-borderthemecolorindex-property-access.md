@@ -3,10 +3,11 @@ title: Line.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.BorderThemeColorIndex
 ms.assetid: db3989b5-5a9f-ff61-dd22-bd70ee54f914
+ms.date: 06/08/2017
 ---
 
 

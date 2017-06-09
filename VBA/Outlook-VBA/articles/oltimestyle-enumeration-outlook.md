@@ -3,10 +3,11 @@ title: OlTimeStyle Enumeration (Outlook)
 keywords: vbaol11.chm1000031
 f1_keywords:
 - vbaol11.chm1000031
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlTimeStyle
 ms.assetid: 82c4d063-29f2-d7c8-44ff-8b4aca912855
+ms.date: 06/08/2017
 ---
 
 

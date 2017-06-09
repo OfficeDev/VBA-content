@@ -1,9 +1,10 @@
 ---
 title: WdDisableFeaturesIntroducedAfter Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDisableFeaturesIntroducedAfter
 ms.assetid: 4cc08029-c2f2-e952-6209-2cffa1aeb849
+ms.date: 06/08/2017
 ---
 
 

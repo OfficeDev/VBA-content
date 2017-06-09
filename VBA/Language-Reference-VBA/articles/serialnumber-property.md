@@ -3,10 +3,11 @@ title: SerialNumber Property
 keywords: vblr6.chm2181962
 f1_keywords:
 - vblr6.chm2181962
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SerialNumber
 ms.assetid: fdeb1410-3772-7f41-9a48-3bb7d2bd107a
+ms.date: 06/08/2017
 ---
 
 

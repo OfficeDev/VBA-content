@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.SuspendCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SuspendCanceled
 ms.assetid: 5c266211-8686-85e8-f059-38e3cdab4211
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Characters.Stat Property (Visio)
 keywords: vis_sdr.chm10214420
 f1_keywords:
 - vis_sdr.chm10214420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.Stat
 ms.assetid: 384bd298-e3c4-fed3-d5a0-77f0aa69410a
+ms.date: 06/08/2017
 ---
 
 

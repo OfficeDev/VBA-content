@@ -3,10 +3,11 @@ title: OlkSenderPhoto.Change Event (Outlook)
 keywords: vbaol11.chm1000492
 f1_keywords:
 - vbaol11.chm1000492
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.Change
 ms.assetid: a4d58172-a16f-6084-9230-af2c3cefa552
+ms.date: 06/08/2017
 ---
 
 

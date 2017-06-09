@@ -3,10 +3,11 @@ title: Attachment.FileURL Property (Access)
 keywords: vbaac10.chm13983
 f1_keywords:
 - vbaac10.chm13983
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.FileURL
 ms.assetid: 661ce36f-77f8-be34-845f-a3c450b878bf
+ms.date: 06/08/2017
 ---
 
 

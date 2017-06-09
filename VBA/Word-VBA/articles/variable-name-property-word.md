@@ -3,10 +3,11 @@ title: Variable.Name Property (Word)
 keywords: vbawd10.chm157679617
 f1_keywords:
 - vbawd10.chm157679617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variable.Name
 ms.assetid: fd09bf60-8f17-9cb1-c2ba-c18ff561958b
+ms.date: 06/08/2017
 ---
 
 

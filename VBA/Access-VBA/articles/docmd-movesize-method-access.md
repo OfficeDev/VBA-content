@@ -3,10 +3,11 @@ title: DoCmd.MoveSize Method (Access)
 keywords: vbaac10.chm4158
 f1_keywords:
 - vbaac10.chm4158
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.MoveSize
 ms.assetid: 8fe8fc60-023e-26ce-c11a-2c29ffc21fbb
+ms.date: 06/08/2017
 ---
 
 

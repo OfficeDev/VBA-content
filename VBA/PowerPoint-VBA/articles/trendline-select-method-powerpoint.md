@@ -1,9 +1,10 @@
 ---
 title: Trendline.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Select
 ms.assetid: 53aa9b45-acf4-9d12-422a-8b5418434f55
+ms.date: 06/08/2017
 ---
 
 

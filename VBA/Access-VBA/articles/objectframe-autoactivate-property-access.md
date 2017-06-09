@@ -3,10 +3,11 @@ title: ObjectFrame.AutoActivate Property (Access)
 keywords: vbaac10.chm11567
 f1_keywords:
 - vbaac10.chm11567
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.AutoActivate
 ms.assetid: e6e0dfce-1bfe-707b-d7f0-45a216d4aa55
+ms.date: 06/08/2017
 ---
 
 

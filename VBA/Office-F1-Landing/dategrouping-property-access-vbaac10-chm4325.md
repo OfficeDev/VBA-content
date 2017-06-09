@@ -3,8 +3,9 @@ title: DateGrouping Property, Access [vbaac10.chm4325]
 keywords: vbaac10.chm4325
 f1_keywords:
 - vbaac10.chm4325
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a2cad19-8185-466a-833e-03eb48e275dd
+ms.date: 06/08/2017
 ---
 
 

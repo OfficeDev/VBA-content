@@ -3,10 +3,11 @@ title: Paragraph.Alignment Property (Word)
 keywords: vbawd10.chm156696677
 f1_keywords:
 - vbawd10.chm156696677
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Alignment
 ms.assetid: 0142adc2-624c-eb9b-7eca-b24a2f16573f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SparkHorizontalAxis Object (Excel)
 keywords: vbaxl10.chm878072
 f1_keywords:
 - vbaxl10.chm878072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis
 ms.assetid: 2926cb18-c3a2-6a09-16da-ccec15c7f391
+ms.date: 06/08/2017
 ---
 
 

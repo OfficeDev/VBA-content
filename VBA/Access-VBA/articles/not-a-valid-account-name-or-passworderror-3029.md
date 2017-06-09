@@ -3,14 +3,15 @@ title: Not a valid account name or password. (Error 3029)
 keywords: jeterr40.chm5003029
 f1_keywords:
 - jeterr40.chm5003029
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9a9aa8ee-7eee-eb5f-cc99-92fb82edeb00
+ms.date: 06/08/2017
 ---
 
 
 # Not a valid account name or password. (Error 3029)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

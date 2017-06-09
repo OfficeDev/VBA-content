@@ -3,10 +3,11 @@ title: Plates.FindPlateByInkName Method (Publisher)
 keywords: vbapb10.chm2818053
 f1_keywords:
 - vbapb10.chm2818053
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plates.FindPlateByInkName
 ms.assetid: 4ebbc826-468b-7cd7-806e-056e4cbb488c
+ms.date: 06/08/2017
 ---
 
 

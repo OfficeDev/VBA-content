@@ -3,10 +3,11 @@ title: Envelope.Creator Property (Word)
 keywords: vbawd10.chm152568809
 f1_keywords:
 - vbawd10.chm152568809
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.Creator
 ms.assetid: bb631423-89b4-cf3e-55a9-562b8b6aaad0
+ms.date: 06/08/2017
 ---
 
 

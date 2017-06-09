@@ -3,10 +3,11 @@ title: UIObject.Clone Property (Visio)
 keywords: vis_sdr.chm14913245
 f1_keywords:
 - vis_sdr.chm14913245
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.Clone
 ms.assetid: 9fd3eb9b-8b01-9397-8f9f-58e3ce4a980e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ObjectFrame.ControlType Property (Access)
 keywords: vbaac10.chm11559
 f1_keywords:
 - vbaac10.chm11559
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.ControlType
 ms.assetid: 3afa6ed8-db2d-6116-85ce-f1b67990fc1f
+ms.date: 06/08/2017
 ---
 
 

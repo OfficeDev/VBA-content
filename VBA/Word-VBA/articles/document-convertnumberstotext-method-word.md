@@ -3,10 +3,11 @@ title: Document.ConvertNumbersToText Method (Word)
 keywords: vbawd10.chm158007437
 f1_keywords:
 - vbawd10.chm158007437
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ConvertNumbersToText
 ms.assetid: d5fed8c5-4338-04a3-6d79-c28a6ce4b9c1
+ms.date: 06/08/2017
 ---
 
 

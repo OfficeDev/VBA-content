@@ -3,10 +3,11 @@ title: XMLMapping.Delete Method (Word)
 keywords: vbawd10.chm199688196
 f1_keywords:
 - vbawd10.chm199688196
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping.Delete
 ms.assetid: 72864b8d-5b59-66c3-b9e3-b970f8adf7aa
+ms.date: 06/08/2017
 ---
 
 

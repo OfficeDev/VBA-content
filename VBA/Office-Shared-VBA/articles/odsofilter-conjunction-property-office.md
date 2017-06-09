@@ -3,10 +3,11 @@ title: ODSOFilter.Conjunction Property (Office)
 keywords: vbaof11.chm240006
 f1_keywords:
 - vbaof11.chm240006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilter.Conjunction
 ms.assetid: 22d2287c-9b0e-c4ce-164d-e8424c62aa86
+ms.date: 06/08/2017
 ---
 
 

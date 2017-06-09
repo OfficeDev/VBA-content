@@ -3,10 +3,11 @@ title: ListBox.GridlineStyleRight Property (Access)
 keywords: vbaac10.chm11312
 f1_keywords:
 - vbaac10.chm11312
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineStyleRight
 ms.assetid: 5169d8a9-9263-a30f-bb00-da2b6b4ee130
+ms.date: 06/08/2017
 ---
 
 

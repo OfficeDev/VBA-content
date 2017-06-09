@@ -3,10 +3,11 @@ title: EmptyCell.StatusBarText Property (Access)
 keywords: vbaac10.chm14341
 f1_keywords:
 - vbaac10.chm14341
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.StatusBarText
 ms.assetid: c0c02302-b2a5-ab77-8f4e-26c0402bb4b0
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Task.SplitParts Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.SplitParts
 ms.assetid: e4c62dce-4ee0-aff3-3248-f6b5b04b0c2d
+ms.date: 06/08/2017
 ---
 
 

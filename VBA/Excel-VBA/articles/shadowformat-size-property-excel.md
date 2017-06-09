@@ -3,10 +3,11 @@ title: ShadowFormat.Size Property (Excel)
 keywords: vbaxl10.chm114011
 f1_keywords:
 - vbaxl10.chm114011
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Size
 ms.assetid: 7e82b4ac-b664-b351-0724-b3ed826c8be8
+ms.date: 06/08/2017
 ---
 
 

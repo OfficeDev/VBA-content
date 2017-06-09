@@ -1,7 +1,8 @@
 ---
 title: Identify the Global Address List or a Set of Address Lists with a Store
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2cca6dc2-883d-b8cf-cd60-98614d2fb673
+ms.date: 06/08/2017
 ---
 
 

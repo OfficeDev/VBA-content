@@ -3,10 +3,11 @@ title: ContactItem.OtherAddressPostOfficeBox Property (Outlook)
 keywords: vbaol11.chm1053
 f1_keywords:
 - vbaol11.chm1053
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OtherAddressPostOfficeBox
 ms.assetid: 905500a2-475a-ed2a-79b5-e46a3d8c117c
+ms.date: 06/08/2017
 ---
 
 

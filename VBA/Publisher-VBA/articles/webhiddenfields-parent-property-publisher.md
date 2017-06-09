@@ -3,10 +3,11 @@ title: WebHiddenFields.Parent Property (Publisher)
 keywords: vbapb10.chm3997698
 f1_keywords:
 - vbapb10.chm3997698
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Parent
 ms.assetid: a8e8912a-1023-fadf-abec-4aa62b0ea40f
+ms.date: 06/08/2017
 ---
 
 

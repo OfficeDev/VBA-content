@@ -3,10 +3,11 @@ title: Document.DoNotEmbedSystemFonts Property (Word)
 keywords: vbawd10.chm158007634
 f1_keywords:
 - vbawd10.chm158007634
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DoNotEmbedSystemFonts
 ms.assetid: 435054c0-f7e3-e206-146d-7e29cce2c71d
+ms.date: 06/08/2017
 ---
 
 

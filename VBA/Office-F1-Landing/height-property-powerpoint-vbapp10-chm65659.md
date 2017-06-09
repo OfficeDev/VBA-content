@@ -3,8 +3,9 @@ title: Height Property, PowerPoint [vbapp10.chm65659]
 keywords: vbapp10.chm65659
 f1_keywords:
 - vbapp10.chm65659
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 545a7e33-1ddb-40f0-8347-4150141c0d2b
+ms.date: 06/08/2017
 ---
 
 

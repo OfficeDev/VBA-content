@@ -3,10 +3,11 @@ title: Timing Object (PowerPoint)
 keywords: vbapp10.chm653000
 f1_keywords:
 - vbapp10.chm653000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing
 ms.assetid: 11f7dab2-f9ed-1883-ab74-93f1be481af6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.ResourceSharingPoolRefresh Method (Project)
 keywords: vbapj.chm249
 f1_keywords:
 - vbapj.chm249
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceSharingPoolRefresh
 ms.assetid: 8ebb9461-67b6-bfd1-771b-1c7d2d3b79df
+ms.date: 06/08/2017
 ---
 
 

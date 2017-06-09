@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.Locked Property (Outlook)
 keywords: vbaol11.chm1000505
 f1_keywords:
 - vbaol11.chm1000505
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Locked
 ms.assetid: b33184ab-a976-7696-d325-2a142ad27cb9
+ms.date: 06/08/2017
 ---
 
 

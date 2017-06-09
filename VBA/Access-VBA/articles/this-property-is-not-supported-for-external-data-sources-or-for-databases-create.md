@@ -3,14 +3,15 @@ title: This property is not supported for external data sources or for databases
 keywords: jeterr40.chm5003310
 f1_keywords:
 - jeterr40.chm5003310
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c64c0ea0-408b-9bc2-2e1e-13abc3d644eb
+ms.date: 06/08/2017
 ---
 
 
 # This property is not supported for external data sources or for databases created with a previous version of Microsoft Jet. (Error 3310)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

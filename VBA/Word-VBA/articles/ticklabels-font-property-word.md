@@ -3,10 +3,11 @@ title: TickLabels.Font Property (Word)
 keywords: vbawd10.chm167051266
 f1_keywords:
 - vbawd10.chm167051266
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.Font
 ms.assetid: 19a99aaa-39e2-8c89-84b8-b6e04ead0ffe
+ms.date: 06/08/2017
 ---
 
 

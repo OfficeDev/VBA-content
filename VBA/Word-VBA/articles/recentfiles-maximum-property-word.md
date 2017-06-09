@@ -3,10 +3,11 @@ title: RecentFiles.Maximum Property (Word)
 keywords: vbawd10.chm157483010
 f1_keywords:
 - vbawd10.chm157483010
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFiles.Maximum
 ms.assetid: 3bdab716-106f-6e18-abe1-863450397ab9
+ms.date: 06/08/2017
 ---
 
 

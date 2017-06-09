@@ -3,10 +3,11 @@ title: CommandButton.OnMouseDown Property (Access)
 keywords: vbaac10.chm10499
 f1_keywords:
 - vbaac10.chm10499
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnMouseDown
 ms.assetid: 52b27f17-3df7-b0ab-23cd-7913cebaa979
+ms.date: 06/08/2017
 ---
 
 

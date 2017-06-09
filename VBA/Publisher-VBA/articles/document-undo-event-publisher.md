@@ -3,10 +3,11 @@ title: Document.Undo Event (Publisher)
 keywords: vbapb10.chm285212678
 f1_keywords:
 - vbapb10.chm285212678
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Undo
 ms.assetid: 9789e469-dc84-a0b7-ffe0-405d4e7ad861
+ms.date: 06/08/2017
 ---
 
 

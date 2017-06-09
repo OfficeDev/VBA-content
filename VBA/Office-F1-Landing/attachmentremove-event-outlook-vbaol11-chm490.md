@@ -3,8 +3,9 @@ title: AttachmentRemove Event, Outlook [vbaol11.chm490]
 keywords: vbaol11.chm490
 f1_keywords:
 - vbaol11.chm490
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c7ea582-eab7-48bf-b931-e415ba43676b
+ms.date: 06/08/2017
 ---
 
 

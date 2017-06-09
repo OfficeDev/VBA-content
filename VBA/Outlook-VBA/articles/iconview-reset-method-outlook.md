@@ -3,10 +3,11 @@ title: IconView.Reset Method (Outlook)
 keywords: vbaol11.chm2564
 f1_keywords:
 - vbaol11.chm2564
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Reset
 ms.assetid: 0cb48612-db32-19e4-1478-694898775752
+ms.date: 06/08/2017
 ---
 
 

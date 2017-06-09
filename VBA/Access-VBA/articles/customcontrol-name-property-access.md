@@ -3,10 +3,11 @@ title: CustomControl.Name Property (Access)
 keywords: vbaac10.chm12049
 f1_keywords:
 - vbaac10.chm12049
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Name
 ms.assetid: 927f6470-53d1-c8bf-4bf0-56f0dbec8c7e
+ms.date: 06/08/2017
 ---
 
 

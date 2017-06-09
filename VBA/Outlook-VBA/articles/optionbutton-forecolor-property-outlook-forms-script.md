@@ -1,7 +1,8 @@
 ---
 title: OptionButton.ForeColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6902b2a8-a04e-1001-6349-0b0d4eb263a4
+ms.date: 06/08/2017
 ---
 
 

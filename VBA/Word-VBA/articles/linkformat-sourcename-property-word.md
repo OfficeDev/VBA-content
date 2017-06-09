@@ -3,10 +3,11 @@ title: LinkFormat.SourceName Property (Word)
 keywords: vbawd10.chm154206212
 f1_keywords:
 - vbawd10.chm154206212
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat.SourceName
 ms.assetid: 1befe8a0-29f4-21cc-e2cb-03ce018db620
+ms.date: 06/08/2017
 ---
 
 

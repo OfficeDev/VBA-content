@@ -3,10 +3,11 @@ title: TextBox.IsHyperlink Property (Access)
 keywords: vbaac10.chm11143
 f1_keywords:
 - vbaac10.chm11143
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.IsHyperlink
 ms.assetid: 68d2ca6a-7ea2-a44d-db32-1fa040475267
+ms.date: 06/08/2017
 ---
 
 

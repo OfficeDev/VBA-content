@@ -3,10 +3,11 @@ title: WrapFormat.DistanceBottom Property (Word)
 keywords: vbawd10.chm163774567
 f1_keywords:
 - vbawd10.chm163774567
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.DistanceBottom
 ms.assetid: 3a7903a6-1ef7-eb87-0749-39cfde7c573e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SubForm.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm11973
 f1_keywords:
 - vbaac10.chm11973
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.GridlineStyleBottom
 ms.assetid: 0976c103-9001-848d-b5e6-baa8593357f1
+ms.date: 06/08/2017
 ---
 
 

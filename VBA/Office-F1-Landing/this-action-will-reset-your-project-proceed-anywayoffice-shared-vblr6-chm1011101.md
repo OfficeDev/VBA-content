@@ -3,8 +3,9 @@ title: This action will reset your project, proceed anyway?, Office Shared [vblr
 keywords: vblr6.chm1011101
 f1_keywords:
 - vblr6.chm1011101
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89cc95ad-0695-4dd5-9b0c-c5647bf54762
+ms.date: 06/08/2017
 ---
 
 

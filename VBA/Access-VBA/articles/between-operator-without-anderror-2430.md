@@ -3,14 +3,15 @@ title: Between operator without And. (Error 2430)
 keywords: jeterr40.chm5002430
 f1_keywords:
 - jeterr40.chm5002430
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 27ce041d-4b2f-144d-0ac1-4e415637dfd1
+ms.date: 06/08/2017
 ---
 
 
 # Between operator without And. (Error 2430)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

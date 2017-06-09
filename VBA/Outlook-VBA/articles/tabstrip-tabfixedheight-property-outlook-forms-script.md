@@ -1,7 +1,8 @@
 ---
 title: TabStrip.TabFixedHeight Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b07e2029-f93d-4ec7-4c26-5b9eab8d255c
+ms.date: 06/08/2017
 ---
 
 

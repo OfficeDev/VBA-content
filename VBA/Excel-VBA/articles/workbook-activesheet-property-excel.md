@@ -3,10 +3,11 @@ title: Workbook.ActiveSheet Property (Excel)
 keywords: vbaxl10.chm199076
 f1_keywords:
 - vbaxl10.chm199076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ActiveSheet
 ms.assetid: fb5578c3-64a7-edb7-4004-e608739d4c1e
+ms.date: 06/08/2017
 ---
 
 

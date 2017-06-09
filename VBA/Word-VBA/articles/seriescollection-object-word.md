@@ -3,10 +3,11 @@ title: SeriesCollection Object (Word)
 keywords: vbawd10.chm2295
 f1_keywords:
 - vbawd10.chm2295
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesCollection
 ms.assetid: 785d61ff-96c9-b9b0-ed98-e992d9adeda6
+ms.date: 06/08/2017
 ---
 
 

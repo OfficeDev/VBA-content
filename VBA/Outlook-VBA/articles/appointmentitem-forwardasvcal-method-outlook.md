@@ -3,10 +3,11 @@ title: AppointmentItem.ForwardAsVcal Method (Outlook)
 keywords: vbaol11.chm904
 f1_keywords:
 - vbaol11.chm904
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ForwardAsVcal
 ms.assetid: 5d5456b4-315c-b9e3-2ed8-a1b709999a2e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ContainerProperties.Disband Method (Visio)
 keywords: vis_sdr.chm17662290
 f1_keywords:
 - vis_sdr.chm17662290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.Disband
 ms.assetid: eefb5785-643b-44f0-e173-3e855b2a7c30
+ms.date: 06/08/2017
 ---
 
 

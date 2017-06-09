@@ -3,10 +3,11 @@ title: View.SeekView Property (Word)
 keywords: vbawd10.chm161808412
 f1_keywords:
 - vbawd10.chm161808412
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.SeekView
 ms.assetid: 94b026a0-92f9-32c4-0394-d2b02fbcb942
+ms.date: 06/08/2017
 ---
 
 

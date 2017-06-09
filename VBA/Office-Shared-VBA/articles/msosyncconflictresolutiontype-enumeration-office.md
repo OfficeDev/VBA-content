@@ -1,9 +1,10 @@
 ---
 title: MsoSyncConflictResolutionType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoSyncConflictResolutionType
 ms.assetid: 2169c6ed-0460-3f6e-092a-d4a419be4525
+ms.date: 06/08/2017
 ---
 
 

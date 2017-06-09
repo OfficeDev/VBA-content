@@ -3,10 +3,11 @@ title: PageNumber.Select Method (Word)
 keywords: vbawd10.chm159907839
 f1_keywords:
 - vbawd10.chm159907839
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumber.Select
 ms.assetid: 32730d8e-e16b-5278-c6e9-abe63efe4ff8
+ms.date: 06/08/2017
 ---
 
 

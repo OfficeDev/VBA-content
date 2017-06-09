@@ -1,9 +1,10 @@
 ---
 title: Project.Windows2 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Windows2
 ms.assetid: 0f10c401-d09b-82db-60ed-0f2b03b82656
+ms.date: 06/08/2017
 ---
 
 

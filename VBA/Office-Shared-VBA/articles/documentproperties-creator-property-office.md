@@ -3,10 +3,11 @@ title: DocumentProperties.Creator Property (Office)
 keywords: vbaof11.chm250018
 f1_keywords:
 - vbaof11.chm250018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperties.Creator
 ms.assetid: 47ba7f73-b72e-2990-d35d-cd73b08b91cd
+ms.date: 06/08/2017
 ---
 
 

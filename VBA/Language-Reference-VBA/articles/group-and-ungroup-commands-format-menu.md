@@ -3,8 +3,9 @@ title: Group and Ungroup Commands (Format Menu)
 keywords: vbui6.chm2051148
 f1_keywords:
 - vbui6.chm2051148
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4cee144-eee3-a596-ffcf-e513ae6707c0
+ms.date: 06/08/2017
 ---
 
 

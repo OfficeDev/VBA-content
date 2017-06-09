@@ -3,10 +3,11 @@ title: BusinessCardView.Reset Method (Outlook)
 keywords: vbaol11.chm2924
 f1_keywords:
 - vbaol11.chm2924
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Reset
 ms.assetid: ab5c93cd-d763-c35a-05a1-f262d994fd0b
+ms.date: 06/08/2017
 ---
 
 

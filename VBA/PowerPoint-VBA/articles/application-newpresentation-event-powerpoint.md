@@ -3,10 +3,11 @@ title: Application.NewPresentation Event (PowerPoint)
 keywords: vbapp10.chm621007
 f1_keywords:
 - vbapp10.chm621007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.NewPresentation
 ms.assetid: 63a6a83d-74c4-88ac-4972-d54907f5af8a
+ms.date: 06/08/2017
 ---
 
 

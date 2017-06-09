@@ -3,10 +3,11 @@ title: DisplayFormat.Interior Property (Excel)
 keywords: vbaxl10.chm893081
 f1_keywords:
 - vbaxl10.chm893081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Interior
 ms.assetid: c0687719-345c-4f64-d769-5be234489027
+ms.date: 06/08/2017
 ---
 
 

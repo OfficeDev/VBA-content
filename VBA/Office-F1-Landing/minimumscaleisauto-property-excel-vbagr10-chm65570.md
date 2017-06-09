@@ -3,8 +3,9 @@ title: MinimumScaleIsAuto Property, Excel [vbagr10.chm65570]
 keywords: vbagr10.chm65570
 f1_keywords:
 - vbagr10.chm65570
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9156a359-6d9c-47b7-bf0f-621e230741d9
+ms.date: 06/08/2017
 ---
 
 

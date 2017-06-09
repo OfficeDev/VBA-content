@@ -3,8 +3,9 @@ title: Layers Section, Visio [vis_sdr.chm2085]
 keywords: vis_sdr.chm2085
 f1_keywords:
 - vis_sdr.chm2085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ddeeef8d-aaba-4fa2-85a0-fb2c7d5c5afd
+ms.date: 06/08/2017
 ---
 
 

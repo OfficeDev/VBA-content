@@ -3,10 +3,11 @@ title: PageSetup.TextColumns Property (Word)
 keywords: vbawd10.chm158400631
 f1_keywords:
 - vbawd10.chm158400631
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.TextColumns
 ms.assetid: 85fb6b50-1c2e-a96e-e56d-3a1caacaabc5
+ms.date: 06/08/2017
 ---
 
 

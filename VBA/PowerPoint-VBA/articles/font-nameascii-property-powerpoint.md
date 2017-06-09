@@ -3,10 +3,11 @@ title: Font.NameAscii Property (PowerPoint)
 keywords: vbapp10.chm575017
 f1_keywords:
 - vbapp10.chm575017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.NameAscii
 ms.assetid: 06db0f5b-71ac-704d-eef2-1be8a96fb7a8
+ms.date: 06/08/2017
 ---
 
 

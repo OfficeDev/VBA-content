@@ -3,10 +3,11 @@ title: ItemProperty.IsUserProperty Property (Outlook)
 keywords: vbaol11.chm529
 f1_keywords:
 - vbaol11.chm529
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperty.IsUserProperty
 ms.assetid: 6787380b-fe85-22d9-b95b-2b356bf84a21
+ms.date: 06/08/2017
 ---
 
 

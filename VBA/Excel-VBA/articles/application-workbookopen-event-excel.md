@@ -3,10 +3,11 @@ title: Application.WorkbookOpen Event (Excel)
 keywords: vbaxl10.chm504081
 f1_keywords:
 - vbaxl10.chm504081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookOpen
 ms.assetid: 37a5b55d-7968-29a2-3f87-edc3334c8ced
+ms.date: 06/08/2017
 ---
 
 

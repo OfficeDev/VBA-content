@@ -3,8 +3,9 @@ title: Ambiguous selection, Office Shared [vbui6.chm2016030]
 keywords: vbui6.chm2016030
 f1_keywords:
 - vbui6.chm2016030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b25c3e87-c5b9-42ce-8342-c19733ca8b21
+ms.date: 06/08/2017
 ---
 
 

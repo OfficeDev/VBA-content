@@ -3,10 +3,11 @@ title: OlkCheckBox.DoubleClick Event (Outlook)
 keywords: vbaol11.chm1000150
 f1_keywords:
 - vbaol11.chm1000150
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.DoubleClick
 ms.assetid: 9b1dbd3f-87af-58b7-2327-8c83eb9bf2d5
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.WarpFormat Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.WarpFormat
 ms.assetid: 83993a3d-a594-e3bc-47ca-47f50be143b7
+ms.date: 06/08/2017
 ---
 
 

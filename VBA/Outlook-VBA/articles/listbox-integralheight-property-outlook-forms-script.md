@@ -3,8 +3,9 @@ title: ListBox.IntegralHeight Property (Outlook Forms Script)
 keywords: olfm10.chm2001320
 f1_keywords:
 - olfm10.chm2001320
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b8574796-ec7a-c61a-4e87-cebb90220c5c
+ms.date: 06/08/2017
 ---
 
 

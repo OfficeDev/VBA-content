@@ -3,10 +3,11 @@ title: ListParagraphs.Item Method (Word)
 keywords: vbawd10.chm160497664
 f1_keywords:
 - vbawd10.chm160497664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListParagraphs.Item
 ms.assetid: 97c9691c-f8bc-e356-b080-4fb8f6aa72a2
+ms.date: 06/08/2017
 ---
 
 

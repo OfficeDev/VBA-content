@@ -3,10 +3,11 @@ title: AxisTitle.Position Property (Word)
 keywords: vbawd10.chm98240135
 f1_keywords:
 - vbawd10.chm98240135
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Position
 ms.assetid: c8b7516b-1b1f-2b49-5c7b-6040e2aff63d
+ms.date: 06/08/2017
 ---
 
 

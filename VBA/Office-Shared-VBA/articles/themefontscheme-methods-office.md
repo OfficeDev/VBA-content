@@ -1,7 +1,8 @@
 ---
 title: ThemeFontScheme Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c330568-f406-432f-9ead-660a34353c72
+ms.date: 06/08/2017
 ---
 
 

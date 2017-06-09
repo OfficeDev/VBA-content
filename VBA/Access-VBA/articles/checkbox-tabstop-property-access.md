@@ -3,10 +3,11 @@ title: CheckBox.TabStop Property (Access)
 keywords: vbaac10.chm10706
 f1_keywords:
 - vbaac10.chm10706
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.TabStop
 ms.assetid: 2949f9f9-a18d-900b-cc43-05732b91eb19
+ms.date: 06/08/2017
 ---
 
 

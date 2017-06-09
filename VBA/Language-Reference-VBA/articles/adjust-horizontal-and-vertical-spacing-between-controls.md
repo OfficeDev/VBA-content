@@ -3,8 +3,9 @@ title: Adjust horizontal and vertical spacing between controls
 keywords: fm20.chm5225245
 f1_keywords:
 - fm20.chm5225245
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cf285cee-8ef1-c7ca-1fb1-408f2ad74f1d
+ms.date: 06/08/2017
 ---
 
 

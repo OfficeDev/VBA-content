@@ -3,10 +3,11 @@ title: LetterContent.SalutationType Property (Word)
 keywords: vbawd10.chm161546351
 f1_keywords:
 - vbawd10.chm161546351
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.SalutationType
 ms.assetid: f312bdfd-a10d-144d-4b99-0984707d13cb
+ms.date: 06/08/2017
 ---
 
 

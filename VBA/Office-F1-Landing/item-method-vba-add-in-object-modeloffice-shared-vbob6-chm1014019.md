@@ -3,8 +3,9 @@ title: Item Method (VBA Add-In Object Model), Office Shared [vbob6.chm1014019]
 keywords: vbob6.chm1014019
 f1_keywords:
 - vbob6.chm1014019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 87a54159-298b-4398-8465-ad1ce1261788
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: AddItem Method, Office Shared [fm20.chm5224954]
 keywords: fm20.chm5224954
 f1_keywords:
 - fm20.chm5224954
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a638626a-b89f-4aba-bd1d-32ffb084db4a
+ms.date: 06/08/2017
 ---
 
 

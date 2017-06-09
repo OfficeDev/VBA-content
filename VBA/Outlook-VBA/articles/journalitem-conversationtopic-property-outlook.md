@@ -3,10 +3,11 @@ title: JournalItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm1238
 f1_keywords:
 - vbaol11.chm1238
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ConversationTopic
 ms.assetid: 1cb922b3-1d56-d844-8e89-f5af1a3343d3
+ms.date: 06/08/2017
 ---
 
 

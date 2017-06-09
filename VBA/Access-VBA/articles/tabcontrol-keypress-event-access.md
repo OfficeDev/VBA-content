@@ -3,10 +3,11 @@ title: TabControl.KeyPress Event (Access)
 keywords: vbaac10.chm14276
 f1_keywords:
 - vbaac10.chm14276
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.KeyPress
 ms.assetid: 4b67dc83-b7fe-4f76-c785-e9b576f51500
+ms.date: 06/08/2017
 ---
 
 

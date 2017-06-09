@@ -3,10 +3,11 @@ title: Label.TextAlign Property (Access)
 keywords: vbaac10.chm10216
 f1_keywords:
 - vbaac10.chm10216
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.TextAlign
 ms.assetid: 088c8577-2057-8936-6a47-3c304c8e0eb2
+ms.date: 06/08/2017
 ---
 
 

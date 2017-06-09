@@ -3,10 +3,11 @@ title: ComboBox.ListRows Property (Access)
 keywords: vbaac10.chm11384,vbaac10.chm4417
 f1_keywords:
 - vbaac10.chm11384,vbaac10.chm4417
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ListRows
 ms.assetid: b418e124-71b6-2ffb-101d-b56aadebb1fc
+ms.date: 06/08/2017
 ---
 
 

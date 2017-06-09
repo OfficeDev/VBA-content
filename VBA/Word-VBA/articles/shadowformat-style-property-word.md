@@ -3,10 +3,11 @@ title: ShadowFormat.Style Property (Word)
 keywords: vbawd10.chm164364395
 f1_keywords:
 - vbawd10.chm164364395
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShadowFormat.Style
 ms.assetid: b25b4e5b-8123-a04f-c55e-5fb037e20df1
+ms.date: 06/08/2017
 ---
 
 

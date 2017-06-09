@@ -3,8 +3,9 @@ title: Declare Statement, Office Shared [vblr6.chm1021350]
 keywords: vblr6.chm1021350
 f1_keywords:
 - vblr6.chm1021350
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 21d98031-170e-4464-b50b-a205f261a73d
+ms.date: 06/08/2017
 ---
 
 

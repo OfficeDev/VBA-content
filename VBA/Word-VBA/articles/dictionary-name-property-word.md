@@ -3,10 +3,11 @@ title: Dictionary.Name Property (Word)
 keywords: vbawd10.chm162332672
 f1_keywords:
 - vbawd10.chm162332672
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionary.Name
 ms.assetid: fb6760bc-0132-ef10-1db4-50854caaf4b6
+ms.date: 06/08/2017
 ---
 
 

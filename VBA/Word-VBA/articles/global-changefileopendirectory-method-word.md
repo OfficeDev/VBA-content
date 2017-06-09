@@ -3,10 +3,11 @@ title: Global.ChangeFileOpenDirectory Method (Word)
 keywords: vbawd10.chm163119459
 f1_keywords:
 - vbawd10.chm163119459
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.ChangeFileOpenDirectory
 ms.assetid: 16743466-a8d2-6c4b-063a-eeb8cfb1a2c9
+ms.date: 06/08/2017
 ---
 
 

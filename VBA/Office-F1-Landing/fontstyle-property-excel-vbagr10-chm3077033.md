@@ -3,8 +3,9 @@ title: FontStyle Property, Excel [vbagr10.chm3077033]
 keywords: vbagr10.chm3077033
 f1_keywords:
 - vbagr10.chm3077033
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0b051ddb-7290-4550-a941-053734dac127
+ms.date: 06/08/2017
 ---
 
 

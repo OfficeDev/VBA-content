@@ -3,10 +3,11 @@ title: OMathFunctions.Item Method (Word)
 keywords: vbawd10.chm44302336
 f1_keywords:
 - vbawd10.chm44302336
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunctions.Item
 ms.assetid: 5c3f7269-0de6-20fd-66d8-4fc23a1fa9d0
+ms.date: 06/08/2017
 ---
 
 

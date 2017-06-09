@@ -1,7 +1,8 @@
 ---
 title: How do I... (Object library reference for Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd0cf0a5-65aa-4867-4d51-73bceed9128f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Font2.NameAscii Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.NameAscii
 ms.assetid: 085c3147-d93e-2efa-6834-d1fc6c65eef9
+ms.date: 06/08/2017
 ---
 
 

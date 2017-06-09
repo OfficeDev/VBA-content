@@ -3,10 +3,11 @@ title: ParagraphFormat.LineRuleBefore Property (PowerPoint)
 keywords: vbapp10.chm576005
 f1_keywords:
 - vbapp10.chm576005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.LineRuleBefore
 ms.assetid: 2316216e-9f56-07e6-1b32-10b37a6fdc9d
+ms.date: 06/08/2017
 ---
 
 

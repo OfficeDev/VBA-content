@@ -3,10 +3,11 @@ title: FormRegion.Session Property (Outlook)
 keywords: vbaol11.chm2387
 f1_keywords:
 - vbaol11.chm2387
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Session
 ms.assetid: 13b9a148-c898-a3ef-8341-073767ce665e
+ms.date: 06/08/2017
 ---
 
 

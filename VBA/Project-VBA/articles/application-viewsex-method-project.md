@@ -3,10 +3,11 @@ title: Application.ViewsEx Method (Project)
 keywords: vbapj.chm310
 f1_keywords:
 - vbapj.chm310
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewsEx
 ms.assetid: 42567343-54df-fbf2-64a3-79ba72d12866
+ms.date: 06/08/2017
 ---
 
 

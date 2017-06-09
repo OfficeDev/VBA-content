@@ -3,10 +3,11 @@ title: Patterned Method
 keywords: vbagr10.chm67164
 f1_keywords:
 - vbagr10.chm67164
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Patterned
 ms.assetid: a492f089-cd6e-e7c3-2b25-7bcfadde4319
+ms.date: 06/08/2017
 ---
 
 

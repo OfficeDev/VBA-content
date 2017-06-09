@@ -3,10 +3,11 @@ title: Shape.ConnectorFormat Property (PowerPoint)
 keywords: vbapp10.chm547021
 f1_keywords:
 - vbapp10.chm547021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ConnectorFormat
 ms.assetid: 6c3f7f40-02a8-73ff-5829-7994ba1495d2
+ms.date: 06/08/2017
 ---
 
 

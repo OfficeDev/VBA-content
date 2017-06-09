@@ -3,8 +3,9 @@ title: MultiRow Property, Access [vbaac10.chm4431]
 keywords: vbaac10.chm4431
 f1_keywords:
 - vbaac10.chm4431
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 467f691f-a711-4421-afe8-7b842241576d
+ms.date: 06/08/2017
 ---
 
 

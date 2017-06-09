@@ -3,10 +3,11 @@ title: Permission.Enabled Property (Office)
 keywords: vbaof11.chm261008
 f1_keywords:
 - vbaof11.chm261008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Permission.Enabled
 ms.assetid: e77fab6f-0191-3ba4-d418-dc25dc79422d
+ms.date: 06/08/2017
 ---
 
 

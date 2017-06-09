@@ -3,8 +3,9 @@ title: TaskOutlineNumber Property, Project [vbapj.chm132662]
 keywords: vbapj.chm132662
 f1_keywords:
 - vbapj.chm132662
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ab35e10-ea33-4a78-9571-0fcb810bc387
+ms.date: 06/08/2017
 ---
 
 

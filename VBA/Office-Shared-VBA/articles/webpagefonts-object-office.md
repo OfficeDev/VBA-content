@@ -3,10 +3,11 @@ title: WebPageFonts Object (Office)
 keywords: vbaof11.chm225000
 f1_keywords:
 - vbaof11.chm225000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WebPageFonts
 ms.assetid: c42bd65d-7c5c-148a-6f52-7aacd75be06a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ProtectedViewWindow Object (Word)
 keywords: vbawd10.chm3536
 f1_keywords:
 - vbawd10.chm3536
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow
 ms.assetid: d77e80e7-c54e-5954-1586-dacd3c9f7434
+ms.date: 06/08/2017
 ---
 
 

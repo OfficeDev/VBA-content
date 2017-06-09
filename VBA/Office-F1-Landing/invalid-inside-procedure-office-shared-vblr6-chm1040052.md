@@ -3,8 +3,9 @@ title: Invalid inside procedure, Office Shared [vblr6.chm1040052]
 keywords: vblr6.chm1040052
 f1_keywords:
 - vblr6.chm1040052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c02a3815-f420-486f-9b57-2055fe681c3d
+ms.date: 06/08/2017
 ---
 
 

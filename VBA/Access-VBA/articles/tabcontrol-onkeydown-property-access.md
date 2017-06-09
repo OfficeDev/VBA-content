@@ -3,10 +3,11 @@ title: TabControl.OnKeyDown Property (Access)
 keywords: vbaac10.chm12110
 f1_keywords:
 - vbaac10.chm12110
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.OnKeyDown
 ms.assetid: 2ced5814-b1b0-0fff-1003-a5e72e66dbc3
+ms.date: 06/08/2017
 ---
 
 

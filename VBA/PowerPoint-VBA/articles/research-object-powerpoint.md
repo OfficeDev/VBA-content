@@ -3,10 +3,11 @@ title: Research Object (PowerPoint)
 keywords: vbapp10.chm676000
 f1_keywords:
 - vbapp10.chm676000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Research
 ms.assetid: 92b16214-2fe4-73af-b4ba-bce6aa840449
+ms.date: 06/08/2017
 ---
 
 

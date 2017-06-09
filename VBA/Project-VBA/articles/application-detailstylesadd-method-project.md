@@ -3,10 +3,11 @@ title: Application.DetailStylesAdd Method (Project)
 keywords: vbapj.chm963
 f1_keywords:
 - vbapj.chm963
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailStylesAdd
 ms.assetid: 40a1dfa4-ef57-835d-4e42-9631c906ac0b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Report.KeyUp Event (Access)
 keywords: vbaac10.chm13896
 f1_keywords:
 - vbaac10.chm13896
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.KeyUp
 ms.assetid: 5561cbab-b6bd-ab4e-83a6-fbf7ec9272d1
+ms.date: 06/08/2017
 ---
 
 

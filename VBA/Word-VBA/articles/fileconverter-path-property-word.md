@@ -3,10 +3,11 @@ title: FileConverter.Path Property (Word)
 keywords: vbawd10.chm161021958
 f1_keywords:
 - vbawd10.chm161021958
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.Path
 ms.assetid: 85809cfe-7db5-cada-9b25-3d6276356ea9
+ms.date: 06/08/2017
 ---
 
 

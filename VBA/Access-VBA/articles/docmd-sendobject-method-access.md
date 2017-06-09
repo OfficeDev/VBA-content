@@ -3,10 +3,11 @@ title: DoCmd.SendObject Method (Access)
 keywords: vbaac10.chm4180
 f1_keywords:
 - vbaac10.chm4180
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SendObject
 ms.assetid: 881004c6-2dd7-55f1-2a16-2d28034125a8
+ms.date: 06/08/2017
 ---
 
 

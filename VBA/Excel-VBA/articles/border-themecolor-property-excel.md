@@ -3,10 +3,11 @@ title: Border.ThemeColor Property (Excel)
 keywords: vbaxl10.chm547077
 f1_keywords:
 - vbaxl10.chm547077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Border.ThemeColor
 ms.assetid: 5cd6a0f2-408e-30e8-0c1f-5584d888eccd
+ms.date: 06/08/2017
 ---
 
 

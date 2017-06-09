@@ -1,9 +1,10 @@
 ---
 title: PpTextLevelEffect Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTextLevelEffect
 ms.assetid: 8624d540-8728-d65d-6e26-a3065e351265
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ActiveWorkbook Property, Excel [vbaxl10.chm132080]
 keywords: vbaxl10.chm132080
 f1_keywords:
 - vbaxl10.chm132080
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30153cff-1f30-40b2-a344-7e9dadae94d1
+ms.date: 06/08/2017
 ---
 
 

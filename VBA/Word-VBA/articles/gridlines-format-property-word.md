@@ -3,10 +3,11 @@ title: Gridlines.Format Property (Word)
 keywords: vbawd10.chm11468805
 f1_keywords:
 - vbawd10.chm11468805
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Gridlines.Format
 ms.assetid: d3cca580-e797-f317-4d0d-af75967eedb4
+ms.date: 06/08/2017
 ---
 
 

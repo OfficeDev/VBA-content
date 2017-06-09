@@ -3,10 +3,11 @@ title: Column.Cells Property (Word)
 keywords: vbawd10.chm156172388
 f1_keywords:
 - vbawd10.chm156172388
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Cells
 ms.assetid: 425fb211-75bf-028b-d70d-5653b7b6136e
+ms.date: 06/08/2017
 ---
 
 

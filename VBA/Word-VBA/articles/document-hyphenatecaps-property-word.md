@@ -3,10 +3,11 @@ title: Document.HyphenateCaps Property (Word)
 keywords: vbawd10.chm158007308
 f1_keywords:
 - vbawd10.chm158007308
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.HyphenateCaps
 ms.assetid: 13f421aa-7e37-4f13-9b34-7ed139421e17
+ms.date: 06/08/2017
 ---
 
 

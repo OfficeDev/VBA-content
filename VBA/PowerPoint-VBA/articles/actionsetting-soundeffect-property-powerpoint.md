@@ -3,10 +3,11 @@ title: ActionSetting.SoundEffect Property (PowerPoint)
 keywords: vbapp10.chm567009
 f1_keywords:
 - vbapp10.chm567009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.SoundEffect
 ms.assetid: ea577e7a-32be-ec68-42ab-625816534ab4
+ms.date: 06/08/2017
 ---
 
 

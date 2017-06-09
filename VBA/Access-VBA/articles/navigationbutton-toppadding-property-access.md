@@ -3,10 +3,11 @@ title: NavigationButton.TopPadding Property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.TopPadding
 ms.assetid: 05088d34-eae7-bc0e-314b-cd8640c9ed0b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Forward reference to user-defined type
 keywords: vblr6.chm1040069
 f1_keywords:
 - vblr6.chm1040069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 316416e3-68d3-f5ae-88bf-6f6fa01e54a9
+ms.date: 06/08/2017
 ---
 
 

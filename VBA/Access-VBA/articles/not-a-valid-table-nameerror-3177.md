@@ -3,14 +3,15 @@ title: Not a valid table name. (Error 3177)
 keywords: jeterr40.chm5003177
 f1_keywords:
 - jeterr40.chm5003177
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b8d19972-2f5c-8843-cab3-889faaadd85e
+ms.date: 06/08/2017
 ---
 
 
 # Not a valid table name. (Error 3177)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

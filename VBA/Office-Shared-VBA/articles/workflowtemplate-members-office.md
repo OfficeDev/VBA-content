@@ -1,7 +1,8 @@
 ---
 title: WorkflowTemplate Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c891ed9a-87bd-242b-1a6b-012ab1406a1c
+ms.date: 06/08/2017
 ---
 
 

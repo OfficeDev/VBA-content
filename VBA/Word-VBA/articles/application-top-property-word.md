@@ -3,10 +3,11 @@ title: Application.Top Property (Word)
 keywords: vbawd10.chm158335064
 f1_keywords:
 - vbawd10.chm158335064
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Top
 ms.assetid: bbce9fe2-8390-f73d-8fca-bd047df468be
+ms.date: 06/08/2017
 ---
 
 

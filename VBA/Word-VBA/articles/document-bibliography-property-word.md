@@ -3,10 +3,11 @@ title: Document.Bibliography Property (Word)
 keywords: vbawd10.chm158007812
 f1_keywords:
 - vbawd10.chm158007812
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Bibliography
 ms.assetid: 9538bf99-a5f4-732b-69fe-d6706451b0fc
+ms.date: 06/08/2017
 ---
 
 

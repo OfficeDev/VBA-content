@@ -3,10 +3,11 @@ title: NoteItem.Categories Property (Outlook)
 keywords: vbaol11.chm1478
 f1_keywords:
 - vbaol11.chm1478
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Categories
 ms.assetid: fd4d258e-fa20-0bdb-a701-8f3c557f0f8a
+ms.date: 06/08/2017
 ---
 
 

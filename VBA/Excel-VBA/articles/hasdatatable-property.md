@@ -3,10 +3,11 @@ title: HasDataTable Property
 keywords: vbagr10.chm5207470
 f1_keywords:
 - vbagr10.chm5207470
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasDataTable
 ms.assetid: 52d965ca-e4cf-35d5-0ac6-5a6144aedff0
+ms.date: 06/08/2017
 ---
 
 

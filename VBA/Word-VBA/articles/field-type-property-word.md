@@ -3,10 +3,11 @@ title: Field.Type Property (Word)
 keywords: vbawd10.chm154075137
 f1_keywords:
 - vbawd10.chm154075137
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Type
 ms.assetid: 3d946913-ef23-d552-ff0f-7548dd2fd627
+ms.date: 06/08/2017
 ---
 
 

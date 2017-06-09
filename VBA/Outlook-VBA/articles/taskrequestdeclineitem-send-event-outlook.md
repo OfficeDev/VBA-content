@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Send
 ms.assetid: e78cf949-6fdf-db40-8638-e23dcb16529c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ObjectFrame.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11647
 f1_keywords:
 - vbaac10.chm11647
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineWidthLeft
 ms.assetid: 86e7166f-ca94-83de-06fd-5182113fbbe7
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WebBrowserControl.Tag Property (Access)
 keywords: vbaac10.chm14685
 f1_keywords:
 - vbaac10.chm14685
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Tag
 ms.assetid: 540e37bb-db7b-4b5d-9713-b4829a8acd57
+ms.date: 06/08/2017
 ---
 
 

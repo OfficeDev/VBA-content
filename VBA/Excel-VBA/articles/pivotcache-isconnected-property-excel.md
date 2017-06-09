@@ -3,10 +3,11 @@ title: PivotCache.IsConnected Property (Excel)
 keywords: vbaxl10.chm227098
 f1_keywords:
 - vbaxl10.chm227098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.IsConnected
 ms.assetid: 5c238338-c242-019c-1a29-08d2c87bc3be
+ms.date: 06/08/2017
 ---
 
 

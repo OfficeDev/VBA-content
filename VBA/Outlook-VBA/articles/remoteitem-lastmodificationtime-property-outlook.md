@@ -3,10 +3,11 @@ title: RemoteItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1599
 f1_keywords:
 - vbaol11.chm1599
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.LastModificationTime
 ms.assetid: 6ab53bc2-acd7-c453-a7df-ed0c8668af35
+ms.date: 06/08/2017
 ---
 
 

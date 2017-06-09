@@ -3,8 +3,9 @@ title: AutoLinkTasks Property, Project [vbapj.chm131406]
 keywords: vbapj.chm131406
 f1_keywords:
 - vbapj.chm131406
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8ebdf39c-d151-47b7-91f8-58dc14241ed9
+ms.date: 06/08/2017
 ---
 
 

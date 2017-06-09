@@ -3,10 +3,11 @@ title: Selection.Stat Property (Visio)
 keywords: vis_sdr.chm11114420
 f1_keywords:
 - vis_sdr.chm11114420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Stat
 ms.assetid: cd7ecc8b-8513-d901-9f86-670569e53a4b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: LegendKey.Delete Method (Word)
 keywords: vbawd10.chm266207349
 f1_keywords:
 - vbawd10.chm266207349
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.Delete
 ms.assetid: ded35d71-5296-4322-d79e-947ded7bfa1f
+ms.date: 06/08/2017
 ---
 
 

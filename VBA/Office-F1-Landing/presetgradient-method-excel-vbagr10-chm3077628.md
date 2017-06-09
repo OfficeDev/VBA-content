@@ -3,8 +3,9 @@ title: PresetGradient Method, Excel [vbagr10.chm3077628]
 keywords: vbagr10.chm3077628
 f1_keywords:
 - vbagr10.chm3077628
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b175287b-c71d-4406-9bd9-a259c28bb065
+ms.date: 06/08/2017
 ---
 
 

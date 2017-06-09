@@ -3,8 +3,9 @@ title: Deftype Statements
 keywords: vblr6.chm1008787
 f1_keywords:
 - vblr6.chm1008787
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14396fc2-494a-9025-d8a5-86174fcc8a74
+ms.date: 06/08/2017
 ---
 
 

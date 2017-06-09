@@ -3,10 +3,11 @@ title: Document.ServerPublishOptions Property (Visio)
 keywords: vis_sdr.chm10562430
 f1_keywords:
 - vis_sdr.chm10562430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ServerPublishOptions
 ms.assetid: 95d7b668-3a72-a15c-550d-18ef02d0309f
+ms.date: 06/08/2017
 ---
 
 

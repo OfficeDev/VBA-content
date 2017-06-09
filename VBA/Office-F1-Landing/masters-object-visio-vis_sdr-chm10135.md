@@ -3,8 +3,9 @@ title: Masters Object, Visio [vis_sdr.chm10135]
 keywords: vis_sdr.chm10135
 f1_keywords:
 - vis_sdr.chm10135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce545397-aa04-47b5-95cc-65b97c835f1d
+ms.date: 06/08/2017
 ---
 
 

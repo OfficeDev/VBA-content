@@ -3,10 +3,11 @@ title: Language.ActiveSpellingDictionary Property (Word)
 keywords: vbawd10.chm158138383
 f1_keywords:
 - vbawd10.chm158138383
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.ActiveSpellingDictionary
 ms.assetid: a549c07d-e40f-2731-40a0-4d43211cf557
+ms.date: 06/08/2017
 ---
 
 

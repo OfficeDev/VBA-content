@@ -3,10 +3,11 @@ title: Event.GetFilterSRC Method (Visio)
 keywords: vis_sdr.chm12650615
 f1_keywords:
 - vis_sdr.chm12650615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.GetFilterSRC
 ms.assetid: fcf9a5c1-cee9-df26-d774-df45c113945a
+ms.date: 06/08/2017
 ---
 
 

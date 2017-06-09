@@ -3,10 +3,11 @@ title: Application.FileDialog Property (Publisher)
 keywords: vbapb10.chm131089
 f1_keywords:
 - vbapb10.chm131089
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
+ms.date: 06/08/2017
 ---
 
 

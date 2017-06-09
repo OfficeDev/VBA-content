@@ -3,10 +3,11 @@ title: ParagraphFormat.RightIndent Property (Word)
 keywords: vbawd10.chm156434538
 f1_keywords:
 - vbawd10.chm156434538
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.RightIndent
 ms.assetid: de69209e-d88d-d367-9d84-94faa07a30bd
+ms.date: 06/08/2017
 ---
 
 

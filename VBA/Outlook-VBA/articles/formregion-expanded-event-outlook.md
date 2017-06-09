@@ -3,10 +3,11 @@ title: FormRegion.Expanded Event (Outlook)
 keywords: vbaol11.chm2403
 f1_keywords:
 - vbaol11.chm2403
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Expanded
 ms.assetid: 9d95c069-6096-6a84-f5b8-a5eeee61fde4
+ms.date: 06/08/2017
 ---
 
 

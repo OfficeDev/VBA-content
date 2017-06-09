@@ -3,10 +3,11 @@ title: ShapeRange.Vertices Property (Publisher)
 keywords: vbapb10.chm2293845
 f1_keywords:
 - vbapb10.chm2293845
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Vertices
 ms.assetid: 0beb2323-8db6-c8c2-2f34-4c1ffde7fddc
+ms.date: 06/08/2017
 ---
 
 

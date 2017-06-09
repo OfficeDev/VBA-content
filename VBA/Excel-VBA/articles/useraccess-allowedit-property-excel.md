@@ -3,10 +3,11 @@ title: UserAccess.AllowEdit Property (Excel)
 keywords: vbaxl10.chm727074
 f1_keywords:
 - vbaxl10.chm727074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserAccess.AllowEdit
 ms.assetid: 11fc172a-4757-bd14-e0ab-63c9048df981
+ms.date: 06/08/2017
 ---
 
 

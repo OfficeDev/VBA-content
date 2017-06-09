@@ -3,10 +3,11 @@ title: IRtdServer.DisconnectData Method (Excel)
 keywords: vbaxl10.chm500008
 f1_keywords:
 - vbaxl10.chm500008
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IRtdServer.DisconnectData
 ms.assetid: 139d6f10-474b-3704-660c-19208be4d737
+ms.date: 06/08/2017
 ---
 
 

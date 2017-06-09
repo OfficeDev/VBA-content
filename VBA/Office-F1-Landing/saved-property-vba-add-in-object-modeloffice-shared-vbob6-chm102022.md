@@ -3,8 +3,9 @@ title: Saved Property (VBA Add-In Object Model), Office Shared [vbob6.chm102022]
 keywords: vbob6.chm102022
 f1_keywords:
 - vbob6.chm102022
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1c33741c-045c-4f1a-a203-7cbca88f412f
+ms.date: 06/08/2017
 ---
 
 

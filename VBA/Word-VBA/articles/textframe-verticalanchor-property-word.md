@@ -3,10 +3,11 @@ title: TextFrame.VerticalAnchor Property (Word)
 keywords: vbawd10.chm162665363
 f1_keywords:
 - vbawd10.chm162665363
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.VerticalAnchor
 ms.assetid: cf18073b-b492-703c-7326-58b6bc60e88f
+ms.date: 06/08/2017
 ---
 
 

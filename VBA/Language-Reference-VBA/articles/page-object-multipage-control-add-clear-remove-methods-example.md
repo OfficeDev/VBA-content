@@ -3,8 +3,9 @@ title: Page Object, MultiPage Control, Add, Clear, Remove Methods Example
 keywords: fm20.chm5225177
 f1_keywords:
 - fm20.chm5225177
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ba40e297-6f1f-b012-34a2-d8e6c6b0e462
+ms.date: 06/08/2017
 ---
 
 

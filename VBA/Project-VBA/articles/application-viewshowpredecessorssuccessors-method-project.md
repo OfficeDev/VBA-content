@@ -3,10 +3,11 @@ title: Application.ViewShowPredecessorsSuccessors Method (Project)
 keywords: vbapj.chm917
 f1_keywords:
 - vbapj.chm917
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowPredecessorsSuccessors
 ms.assetid: 14c92bb3-0e0a-35ac-c587-6b7c75146ff0
+ms.date: 06/08/2017
 ---
 
 

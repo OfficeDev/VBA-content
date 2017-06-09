@@ -3,10 +3,11 @@ title: ErrorBars.Parent Property (Word)
 keywords: vbawd10.chm74842262
 f1_keywords:
 - vbawd10.chm74842262
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ErrorBars.Parent
 ms.assetid: 96f2f8bc-cdcd-b5b8-9141-8e13959cec85
+ms.date: 06/08/2017
 ---
 
 

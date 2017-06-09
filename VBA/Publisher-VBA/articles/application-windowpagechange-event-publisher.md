@@ -3,10 +3,11 @@ title: Application.WindowPageChange Event (Publisher)
 keywords: vbapb10.chm268435460
 f1_keywords:
 - vbapb10.chm268435460
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.WindowPageChange
 ms.assetid: bb636f6e-da4b-7271-9f59-2b7000270c16
+ms.date: 06/08/2017
 ---
 
 

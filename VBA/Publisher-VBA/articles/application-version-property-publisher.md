@@ -3,10 +3,11 @@ title: Application.Version Property (Publisher)
 keywords: vbapb10.chm131121
 f1_keywords:
 - vbapb10.chm131121
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Version
 ms.assetid: ffec5bca-cd81-77c6-d80b-e629abfa6dec
+ms.date: 06/08/2017
 ---
 
 

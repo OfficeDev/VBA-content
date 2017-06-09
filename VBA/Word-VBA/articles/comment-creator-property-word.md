@@ -3,10 +3,11 @@ title: Comment.Creator Property (Word)
 keywords: vbawd10.chm154993641
 f1_keywords:
 - vbawd10.chm154993641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comment.Creator
 ms.assetid: dab70491-99b5-3163-e01f-0c7ee0ba1768
+ms.date: 06/08/2017
 ---
 
 

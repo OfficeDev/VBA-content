@@ -3,8 +3,9 @@ title: OutlineCode Object, Project [vbapj.chm131301]
 keywords: vbapj.chm131301
 f1_keywords:
 - vbapj.chm131301
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: abb826d0-f83b-4e4b-8831-7db1865cf9e5
+ms.date: 06/08/2017
 ---
 
 

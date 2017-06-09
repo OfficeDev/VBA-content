@@ -3,8 +3,9 @@ title: GrpKeepTogether Property, Access [vbaac10.chm13700]
 keywords: vbaac10.chm13700
 f1_keywords:
 - vbaac10.chm13700
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0442dbab-8507-48e9-8c5a-110a8a79712e
+ms.date: 06/08/2017
 ---
 
 

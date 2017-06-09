@@ -3,10 +3,11 @@ title: BusinessCardView.SaveOption Property (Outlook)
 keywords: vbaol11.chm2929
 f1_keywords:
 - vbaol11.chm2929
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.SaveOption
 ms.assetid: d8d54e07-b050-f070-1ac0-0af3ef026f63
+ms.date: 06/08/2017
 ---
 
 

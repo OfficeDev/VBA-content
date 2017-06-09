@@ -3,10 +3,11 @@ title: MailItem.Subject Property (Outlook)
 keywords: vbaol11.chm1317
 f1_keywords:
 - vbaol11.chm1317
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Subject
 ms.assetid: 5f3e465d-ac2b-a573-0e85-1134e65df017
+ms.date: 06/08/2017
 ---
 
 

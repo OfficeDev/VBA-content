@@ -3,10 +3,11 @@ title: Font.ThreeD Property (Word)
 keywords: vbawd10.chm156369068
 f1_keywords:
 - vbawd10.chm156369068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.ThreeD
 ms.assetid: a88e1b17-45ba-0eaa-bd6e-aa55e3a54199
+ms.date: 06/08/2017
 ---
 
 

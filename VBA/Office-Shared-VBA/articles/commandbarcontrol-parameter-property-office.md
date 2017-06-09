@@ -1,9 +1,10 @@
 ---
 title: CommandBarControl.Parameter Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Parameter
 ms.assetid: 6a1fd988-0c3f-3945-307f-e4e647c3642c
+ms.date: 06/08/2017
 ---
 
 

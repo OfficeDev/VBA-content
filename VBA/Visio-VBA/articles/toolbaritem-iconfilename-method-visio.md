@@ -3,10 +3,11 @@ title: ToolbarItem.IconFileName Method (Visio)
 keywords: vis_sdr.chm13516350
 f1_keywords:
 - vis_sdr.chm13516350
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.IconFileName
 ms.assetid: efbc502d-8a6a-5c24-738f-8a60d1172b0e
+ms.date: 06/08/2017
 ---
 
 

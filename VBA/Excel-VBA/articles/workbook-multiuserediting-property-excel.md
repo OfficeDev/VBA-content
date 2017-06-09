@@ -3,10 +3,11 @@ title: Workbook.MultiUserEditing Property (Excel)
 keywords: vbaxl10.chm199113
 f1_keywords:
 - vbaxl10.chm199113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.MultiUserEditing
 ms.assetid: dc721463-ec34-8c52-6701-51c406beed23
+ms.date: 06/08/2017
 ---
 
 

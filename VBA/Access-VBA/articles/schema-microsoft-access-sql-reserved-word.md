@@ -3,14 +3,15 @@ title: SCHEMA (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277490
 f1_keywords:
 - jetsql40.chm5277490
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d601710e-844a-36a4-187c-557a3560bbc7
+ms.date: 06/08/2017
 ---
 
 
 # SCHEMA (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Range.ColumnDifferences Method (Excel)
 keywords: vbaxl10.chm144100
 f1_keywords:
 - vbaxl10.chm144100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ColumnDifferences
 ms.assetid: 483995e1-9c8d-c171-4c72-17afd5918d49
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TabControl.SizeToFit Method (Access)
 keywords: vbaac10.chm12069
 f1_keywords:
 - vbaac10.chm12069
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.SizeToFit
 ms.assetid: d2509998-4d85-8611-c97a-4ce458d83f58
+ms.date: 06/08/2017
 ---
 
 

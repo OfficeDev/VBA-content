@@ -3,10 +3,11 @@ title: Options Object (Word)
 keywords: vbawd10.chm2487
 f1_keywords:
 - vbawd10.chm2487
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options
 ms.assetid: 873b7b99-3fe1-fd89-9ece-a9355cb827dc
+ms.date: 06/08/2017
 ---
 
 

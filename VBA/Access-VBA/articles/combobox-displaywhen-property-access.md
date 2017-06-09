@@ -3,10 +3,11 @@ title: ComboBox.DisplayWhen Property (Access)
 keywords: vbaac10.chm11394
 f1_keywords:
 - vbaac10.chm11394
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.DisplayWhen
 ms.assetid: cfe800d7-290d-3f5c-fb48-cbc0628cefcd
+ms.date: 06/08/2017
 ---
 
 

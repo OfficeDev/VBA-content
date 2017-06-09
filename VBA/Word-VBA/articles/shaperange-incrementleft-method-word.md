@@ -3,10 +3,11 @@ title: ShapeRange.IncrementLeft Method (Word)
 keywords: vbawd10.chm162856976
 f1_keywords:
 - vbawd10.chm162856976
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.IncrementLeft
 ms.assetid: 05d6b6c0-7265-453b-620d-728c6a659da3
+ms.date: 06/08/2017
 ---
 
 

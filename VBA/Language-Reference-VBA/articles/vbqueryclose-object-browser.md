@@ -3,8 +3,9 @@ title: VbQueryClose (Object Browser)
 keywords: vblr6.chm1113608
 f1_keywords:
 - vblr6.chm1113608
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7fe8c1a6-13b0-abc9-70a6-e71bbe9ad46d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.Worksheets Property (Excel)
 keywords: vbaxl10.chm132116
 f1_keywords:
 - vbaxl10.chm132116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Worksheets
 ms.assetid: ee9350d3-f24e-ed40-b267-8101d3267b4d
+ms.date: 06/08/2017
 ---
 
 

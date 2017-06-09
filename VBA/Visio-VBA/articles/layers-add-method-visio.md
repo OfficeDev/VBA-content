@@ -3,10 +3,11 @@ title: Layers.Add Method (Visio)
 keywords: vis_sdr.chm11916675
 f1_keywords:
 - vis_sdr.chm11916675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.Add
 ms.assetid: e46bc30f-ad35-ddeb-86d3-14ef535451cf
+ms.date: 06/08/2017
 ---
 
 

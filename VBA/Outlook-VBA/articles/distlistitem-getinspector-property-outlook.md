@@ -3,10 +3,11 @@ title: DistListItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1125
 f1_keywords:
 - vbaol11.chm1125
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.GetInspector
 ms.assetid: 2ffab19b-17a3-0de0-f9dd-3a8fbfea8efd
+ms.date: 06/08/2017
 ---
 
 

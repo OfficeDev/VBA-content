@@ -3,8 +3,9 @@ title: WorksheetFunction.ImSech Method (Excel)
 keywords: vbaxl10.chm137434
 f1_keywords:
 - vbaxl10.chm137434
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 486830be-3e0a-b76f-3fb0-41b660cb6285
+ms.date: 06/08/2017
 ---
 
 

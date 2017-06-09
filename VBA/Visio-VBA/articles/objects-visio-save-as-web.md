@@ -1,7 +1,8 @@
 ---
 title: Objects (Visio Save as Web)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 9c95b610-e0d0-4a2c-9d5a-1e9decb0dd91
+ms.date: 06/08/2017
 ---
 
 

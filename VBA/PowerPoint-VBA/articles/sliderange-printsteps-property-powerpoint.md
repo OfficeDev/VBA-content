@@ -3,10 +3,11 @@ title: SlideRange.PrintSteps Property (PowerPoint)
 keywords: vbapp10.chm532010
 f1_keywords:
 - vbapp10.chm532010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.PrintSteps
 ms.assetid: 043a1e60-0810-3f22-7c40-a8a97eb59e4e
+ms.date: 06/08/2017
 ---
 
 

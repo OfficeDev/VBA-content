@@ -3,10 +3,11 @@ title: Inspector.CurrentItem Property (Outlook)
 keywords: vbaol11.chm2962
 f1_keywords:
 - vbaol11.chm2962
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.CurrentItem
 ms.assetid: eaaf0192-a169-c107-95a6-b8e759a3b873
+ms.date: 06/08/2017
 ---
 
 

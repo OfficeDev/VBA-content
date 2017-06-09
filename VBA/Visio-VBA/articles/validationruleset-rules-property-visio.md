@@ -3,10 +3,11 @@ title: ValidationRuleSet.Rules Property (Visio)
 keywords: vis_sdr.chm18262645
 f1_keywords:
 - vis_sdr.chm18262645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRuleSet.Rules
 ms.assetid: 7890ca86-74b3-1dd6-8322-f3fbde235115
+ms.date: 06/08/2017
 ---
 
 

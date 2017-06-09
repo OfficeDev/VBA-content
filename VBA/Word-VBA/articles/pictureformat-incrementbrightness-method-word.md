@@ -3,10 +3,11 @@ title: PictureFormat.IncrementBrightness Method (Word)
 keywords: vbawd10.chm164298762
 f1_keywords:
 - vbawd10.chm164298762
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.IncrementBrightness
 ms.assetid: 2bce8316-c15c-e5b9-9f04-1095ccaa7126
+ms.date: 06/08/2017
 ---
 
 

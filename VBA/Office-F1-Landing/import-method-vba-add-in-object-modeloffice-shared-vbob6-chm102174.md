@@ -3,8 +3,9 @@ title: Import Method (VBA Add-In Object Model), Office Shared [vbob6.chm102174]
 keywords: vbob6.chm102174
 f1_keywords:
 - vbob6.chm102174
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec2d1b0e-45e5-42af-9673-ad0e8c05c300
+ms.date: 06/08/2017
 ---
 
 

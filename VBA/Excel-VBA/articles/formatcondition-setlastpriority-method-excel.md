@@ -3,10 +3,11 @@ title: FormatCondition.SetLastPriority Method (Excel)
 keywords: vbaxl10.chm512092
 f1_keywords:
 - vbaxl10.chm512092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.SetLastPriority
 ms.assetid: fd6263a1-e67f-f4e8-2423-1601f73bdd5c
+ms.date: 06/08/2017
 ---
 
 

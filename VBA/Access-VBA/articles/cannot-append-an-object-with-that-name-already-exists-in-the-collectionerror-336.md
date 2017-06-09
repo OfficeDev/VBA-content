@@ -3,14 +3,15 @@ title: Cannot append. An object with that name already exists in the collection.
 keywords: jeterr40.chm5003367
 f1_keywords:
 - jeterr40.chm5003367
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b6b98c29-dcf4-e2f9-749b-b51c88b275e5
+ms.date: 06/08/2017
 ---
 
 
 # Cannot append. An object with that name already exists in the collection. (Error 3367)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

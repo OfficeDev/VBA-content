@@ -3,10 +3,11 @@ title: DistListItem.Subject Property (Outlook)
 keywords: vbaol11.chm1137
 f1_keywords:
 - vbaol11.chm1137
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Subject
 ms.assetid: 5c4da614-70dc-e7eb-34d8-963d03637b15
+ms.date: 06/08/2017
 ---
 
 

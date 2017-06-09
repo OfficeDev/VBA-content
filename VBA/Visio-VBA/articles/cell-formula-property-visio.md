@@ -3,10 +3,11 @@ title: Cell.Formula Property (Visio)
 keywords: vis_sdr.chm10113560
 f1_keywords:
 - vis_sdr.chm10113560
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Formula
 ms.assetid: 36636047-9ee7-d461-92fb-0b36853e3201
+ms.date: 06/08/2017
 ---
 
 

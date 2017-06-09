@@ -3,10 +3,11 @@ title: PivotFilter.Delete Method (Excel)
 keywords: vbaxl10.chm770077
 f1_keywords:
 - vbaxl10.chm770077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilter.Delete
 ms.assetid: 3df1eda9-fb1c-6aaf-039f-2c0bb3075d8f
+ms.date: 06/08/2017
 ---
 
 

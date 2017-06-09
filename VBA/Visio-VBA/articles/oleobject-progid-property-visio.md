@@ -3,10 +3,11 @@ title: OLEObject.ProgID Property (Visio)
 keywords: vis_sdr.chm15214160
 f1_keywords:
 - vis_sdr.chm15214160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OLEObject.ProgID
 ms.assetid: 694ae7e0-7bde-e3a2-8b04-21eae69c135a
+ms.date: 06/08/2017
 ---
 
 

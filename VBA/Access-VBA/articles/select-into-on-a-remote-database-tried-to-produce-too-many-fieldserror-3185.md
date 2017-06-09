@@ -3,14 +3,15 @@ title: SELECT INTO on a remote database tried to produce too many fields. (Error
 keywords: jeterr40.chm5003185
 f1_keywords:
 - jeterr40.chm5003185
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 82f94c46-9a79-7a8f-dc69-86bf9a272f52
+ms.date: 06/08/2017
 ---
 
 
 # SELECT INTO on a remote database tried to produce too many fields. (Error 3185)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

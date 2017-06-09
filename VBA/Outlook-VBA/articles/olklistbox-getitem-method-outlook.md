@@ -3,10 +3,11 @@ title: OlkListBox.GetItem Method (Outlook)
 keywords: vbaol11.chm1000268
 f1_keywords:
 - vbaol11.chm1000268
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.GetItem
 ms.assetid: 23c47ede-8b72-e30a-b59a-1aa722be2064
+ms.date: 06/08/2017
 ---
 
 

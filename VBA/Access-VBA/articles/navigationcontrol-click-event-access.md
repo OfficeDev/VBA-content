@@ -3,10 +3,11 @@ title: NavigationControl.Click Event (Access)
 keywords: vbaac10.chm14201
 f1_keywords:
 - vbaac10.chm14201
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Click
 ms.assetid: c49b26bd-dbab-666a-ecc0-2b3137bb10a0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ToggleButton.Enabled Property (Access)
 keywords: vbaac10.chm11712
 f1_keywords:
 - vbaac10.chm11712
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Enabled
 ms.assetid: 836c6553-07ae-0014-6a0a-ab1fa33cf550
+ms.date: 06/08/2017
 ---
 
 

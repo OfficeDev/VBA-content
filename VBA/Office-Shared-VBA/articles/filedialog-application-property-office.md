@@ -1,9 +1,10 @@
 ---
 title: FileDialog.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.Application
 ms.assetid: 797e82c7-0737-03ae-7df3-7178bc6ff328
+ms.date: 06/08/2017
 ---
 
 

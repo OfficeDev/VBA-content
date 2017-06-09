@@ -3,16 +3,17 @@ title: Indexed Property
 keywords: vbaac10.chm5187337
 f1_keywords:
 - vbaac10.chm5187337
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Indexed
 ms.assetid: d410da7f-eb9d-5e03-06fa-b5756da357f4
+ms.date: 06/08/2017
 ---
 
 
 # Indexed Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

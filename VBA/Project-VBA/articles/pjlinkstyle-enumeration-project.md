@@ -1,9 +1,10 @@
 ---
 title: PjLinkStyle Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjLinkStyle
 ms.assetid: af857137-eebc-a8cf-64b9-caee1becd231
+ms.date: 06/08/2017
 ---
 
 

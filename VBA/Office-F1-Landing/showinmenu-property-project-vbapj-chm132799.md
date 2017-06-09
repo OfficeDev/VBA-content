@@ -3,8 +3,9 @@ title: ShowInMenu Property, Project [vbapj.chm132799]
 keywords: vbapj.chm132799
 f1_keywords:
 - vbapj.chm132799
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89a3ca1c-bacc-434b-b108-c04177765aee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.WindowHandle32 Property (Visio)
 keywords: vis_sdr.chm10014660
 f1_keywords:
 - vis_sdr.chm10014660
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.WindowHandle32
 ms.assetid: d4c653ae-6582-0d86-75ee-969fe978e754
+ms.date: 06/08/2017
 ---
 
 

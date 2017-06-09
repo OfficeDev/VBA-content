@@ -1,9 +1,10 @@
 ---
 title: Application.BeforeShapeTextEdit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeShapeTextEdit
 ms.assetid: db6cdf8c-6a1d-37c4-e185-8809ddafc340
+ms.date: 06/08/2017
 ---
 
 

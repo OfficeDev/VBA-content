@@ -3,10 +3,11 @@ title: ListBox.OnMouseUp Property (Access)
 keywords: vbaac10.chm11288
 f1_keywords:
 - vbaac10.chm11288
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnMouseUp
 ms.assetid: a0f93909-a3d6-255f-6c9d-77259155741b
+ms.date: 06/08/2017
 ---
 
 

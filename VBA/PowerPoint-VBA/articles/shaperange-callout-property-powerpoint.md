@@ -3,10 +3,11 @@ title: ShapeRange.Callout Property (PowerPoint)
 keywords: vbapp10.chm548018
 f1_keywords:
 - vbapp10.chm548018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Callout
 ms.assetid: ccff61a0-d077-a80d-d1ce-be9b036842c0
+ms.date: 06/08/2017
 ---
 
 

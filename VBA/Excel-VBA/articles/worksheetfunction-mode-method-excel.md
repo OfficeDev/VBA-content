@@ -3,10 +3,11 @@ title: WorksheetFunction.Mode Method (Excel)
 keywords: vbaxl10.chm137234
 f1_keywords:
 - vbaxl10.chm137234
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Mode
 ms.assetid: 1e26c837-159a-63cb-17ab-43bfb788a539
+ms.date: 06/08/2017
 ---
 
 

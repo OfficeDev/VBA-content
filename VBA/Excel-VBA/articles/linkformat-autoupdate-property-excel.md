@@ -3,10 +3,11 @@ title: LinkFormat.AutoUpdate Property (Excel)
 keywords: vbaxl10.chm634073
 f1_keywords:
 - vbaxl10.chm634073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinkFormat.AutoUpdate
 ms.assetid: 79bb79fe-cc3f-8fcd-955b-7f6595d52c09
+ms.date: 06/08/2017
 ---
 
 

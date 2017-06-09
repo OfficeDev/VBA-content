@@ -3,10 +3,11 @@ title: Axis.Application Property (Word)
 keywords: vbawd10.chm113049748
 f1_keywords:
 - vbawd10.chm113049748
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Application
 ms.assetid: 05101c73-8a83-89d7-76f6-c4a62516843c
+ms.date: 06/08/2017
 ---
 
 

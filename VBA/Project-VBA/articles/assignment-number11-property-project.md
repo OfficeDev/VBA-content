@@ -1,9 +1,10 @@
 ---
 title: Assignment.Number11 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number11
 ms.assetid: fcb31200-1139-3c55-0413-40a6619a2b07
+ms.date: 06/08/2017
 ---
 
 

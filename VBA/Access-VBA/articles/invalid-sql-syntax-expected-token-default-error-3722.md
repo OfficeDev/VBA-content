@@ -3,14 +3,15 @@ title: "Invalid SQL Syntax: expected token: DEFAULT (Error 3722)"
 keywords: jeterr40.chm5003722
 f1_keywords:
 - jeterr40.chm5003722
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 17b7fcb4-7915-cbdd-6bd4-51998b30a3a8
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL Syntax: expected token: DEFAULT (Error 3722)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

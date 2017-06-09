@@ -3,10 +3,11 @@ title: AppointmentItem.ResponseStatus Property (Outlook)
 keywords: vbaol11.chm901
 f1_keywords:
 - vbaol11.chm901
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ResponseStatus
 ms.assetid: 853cf25d-6cfc-baef-b906-acf43dbd6478
+ms.date: 06/08/2017
 ---
 
 

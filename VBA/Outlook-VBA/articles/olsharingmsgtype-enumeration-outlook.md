@@ -3,10 +3,11 @@ title: OlSharingMsgType Enumeration (Outlook)
 keywords: vbaol11.chm3147
 f1_keywords:
 - vbaol11.chm3147
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSharingMsgType
 ms.assetid: c7764f85-5e33-9087-cf8f-3a90a9f78687
+ms.date: 06/08/2017
 ---
 
 

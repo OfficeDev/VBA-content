@@ -1,6 +1,8 @@
 ---
 title: Engagement.SubmittedDate Property (Project)
 ms.assetid: b241f0da-0a2c-3faf-4a3b-44bfa327e3b5
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

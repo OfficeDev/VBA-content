@@ -3,8 +3,9 @@ title: ShowChartTipNames Property, Excel [vbagr10.chm66743]
 keywords: vbagr10.chm66743
 f1_keywords:
 - vbagr10.chm66743
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a25f2fc9-49a7-4052-856a-75da4d9e400e
+ms.date: 06/08/2017
 ---
 
 

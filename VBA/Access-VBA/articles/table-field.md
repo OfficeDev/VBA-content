@@ -3,14 +3,15 @@ title: Table Field
 keywords: vbaac10.chm13812
 f1_keywords:
 - vbaac10.chm13812
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b2bf5df9-f8f4-4cca-7a09-1271350e3614
+ms.date: 06/08/2017
 ---
 
 
 # Table Field
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

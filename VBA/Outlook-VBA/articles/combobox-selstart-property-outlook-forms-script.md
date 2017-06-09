@@ -3,8 +3,9 @@ title: ComboBox.SelStart Property (Outlook Forms Script)
 keywords: olfm10.chm2001880
 f1_keywords:
 - olfm10.chm2001880
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: cf739c9f-6c3a-d4fd-780b-6e6ee4559ec9
+ms.date: 06/08/2017
 ---
 
 

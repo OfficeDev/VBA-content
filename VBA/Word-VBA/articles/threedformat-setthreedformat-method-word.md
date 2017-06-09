@@ -3,10 +3,11 @@ title: ThreeDFormat.SetThreeDFormat Method (Word)
 keywords: vbawd10.chm164626445
 f1_keywords:
 - vbawd10.chm164626445
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.SetThreeDFormat
 ms.assetid: 1fff9c23-0f40-ef9a-ca15-331caa61a107
+ms.date: 06/08/2017
 ---
 
 

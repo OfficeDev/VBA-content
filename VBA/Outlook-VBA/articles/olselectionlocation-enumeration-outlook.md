@@ -3,10 +3,11 @@ title: OlSelectionLocation Enumeration (Outlook)
 keywords: vbaol11.chm3480
 f1_keywords:
 - vbaol11.chm3480
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSelectionLocation
 ms.assetid: a13e3915-09a1-5130-42b9-caf3fb25c514
+ms.date: 06/08/2017
 ---
 
 

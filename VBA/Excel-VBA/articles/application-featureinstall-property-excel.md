@@ -3,10 +3,11 @@ title: Application.FeatureInstall Property (Excel)
 keywords: vbaxl10.chm133259
 f1_keywords:
 - vbaxl10.chm133259
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FeatureInstall
 ms.assetid: 0bfe9d01-543c-9ea8-8ff6-2032f056b070
+ms.date: 06/08/2017
 ---
 
 

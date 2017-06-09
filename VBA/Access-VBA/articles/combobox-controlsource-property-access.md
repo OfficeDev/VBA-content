@@ -3,10 +3,11 @@ title: ComboBox.ControlSource Property (Access)
 keywords: vbaac10.chm11374
 f1_keywords:
 - vbaac10.chm11374
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ControlSource
 ms.assetid: d67db09e-d8c5-4605-2789-c75ac652ee0b
+ms.date: 06/08/2017
 ---
 
 

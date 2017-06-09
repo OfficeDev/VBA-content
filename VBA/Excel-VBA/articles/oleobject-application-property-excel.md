@@ -3,10 +3,11 @@ title: OLEObject.Application Property (Excel)
 keywords: vbaxl10.chm414073
 f1_keywords:
 - vbaxl10.chm414073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Application
 ms.assetid: fe0c0640-9e9b-ba8e-6689-12b0bdaa27ba
+ms.date: 06/08/2017
 ---
 
 

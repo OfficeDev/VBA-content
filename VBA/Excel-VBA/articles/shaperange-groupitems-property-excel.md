@@ -3,10 +3,11 @@ title: ShapeRange.GroupItems Property (Excel)
 keywords: vbaxl10.chm640104
 f1_keywords:
 - vbaxl10.chm640104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.GroupItems
 ms.assetid: daf6d12c-409a-cf0a-989f-319333d24596
+ms.date: 06/08/2017
 ---
 
 

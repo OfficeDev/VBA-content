@@ -3,8 +3,9 @@ title: OutlineShowAllTasks Method, Project [vbapj.chm131244]
 keywords: vbapj.chm131244
 f1_keywords:
 - vbapj.chm131244
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1662a421-43d4-466f-8ef8-8f974073924a
+ms.date: 06/08/2017
 ---
 
 

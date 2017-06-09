@@ -3,10 +3,11 @@ title: Event.TargetArgs Property (Visio)
 keywords: vis_sdr.chm12614490
 f1_keywords:
 - vis_sdr.chm12614490
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.TargetArgs
 ms.assetid: b2102b52-de0d-30f2-042c-5ebdbf7aaffd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SlideShowView.EndNamedShow Method (PowerPoint)
 keywords: vbapp10.chm513023
 f1_keywords:
 - vbapp10.chm513023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.EndNamedShow
 ms.assetid: 1b829558-a729-8aa1-c260-8b7410501153
+ms.date: 06/08/2017
 ---
 
 

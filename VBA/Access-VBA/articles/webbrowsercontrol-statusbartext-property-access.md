@@ -3,10 +3,11 @@ title: WebBrowserControl.StatusBarText Property (Access)
 keywords: vbaac10.chm14681
 f1_keywords:
 - vbaac10.chm14681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.StatusBarText
 ms.assetid: 8d2daa59-e8aa-103a-ce26-99fe8a1eae80
+ms.date: 06/08/2017
 ---
 
 

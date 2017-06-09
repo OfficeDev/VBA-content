@@ -3,8 +3,9 @@ title: Destination label too far away; loop, Select Case, or block If too large,
 keywords: vblr6.chm1040150
 f1_keywords:
 - vblr6.chm1040150
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 868865bd-b6ad-4228-a150-2acfd81a7089
+ms.date: 06/08/2017
 ---
 
 

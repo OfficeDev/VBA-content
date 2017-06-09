@@ -3,10 +3,11 @@ title: Styles.Merge Method (Excel)
 keywords: vbaxl10.chm179076
 f1_keywords:
 - vbaxl10.chm179076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Styles.Merge
 ms.assetid: b2212f10-c16b-7108-8281-1c0375448f6d
+ms.date: 06/08/2017
 ---
 
 

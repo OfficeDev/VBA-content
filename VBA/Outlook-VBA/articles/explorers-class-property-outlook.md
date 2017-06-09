@@ -3,10 +3,11 @@ title: Explorers.Class Property (Outlook)
 keywords: vbaol11.chm117
 f1_keywords:
 - vbaol11.chm117
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorers.Class
 ms.assetid: a43705fa-4a6a-1975-feb7-23253d205a9b
+ms.date: 06/08/2017
 ---
 
 

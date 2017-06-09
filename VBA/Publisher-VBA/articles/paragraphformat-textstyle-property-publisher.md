@@ -3,10 +3,11 @@ title: ParagraphFormat.TextStyle Property (Publisher)
 keywords: vbapb10.chm5439508
 f1_keywords:
 - vbapb10.chm5439508
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.TextStyle
 ms.assetid: 8495c9c8-387e-a2e8-26cb-08f660dde985
+ms.date: 06/08/2017
 ---
 
 

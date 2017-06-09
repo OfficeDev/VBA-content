@@ -3,10 +3,11 @@ title: Application.ValidateAddressVisible Property (Publisher)
 keywords: vbapb10.chm131186
 f1_keywords:
 - vbapb10.chm131186
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ValidateAddressVisible
 ms.assetid: 64d3732b-c549-c97b-511f-3122bb192ee5
+ms.date: 06/08/2017
 ---
 
 

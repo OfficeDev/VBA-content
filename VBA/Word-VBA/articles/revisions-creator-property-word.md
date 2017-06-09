@@ -3,10 +3,11 @@ title: Revisions.Creator Property (Word)
 keywords: vbawd10.chm159384553
 f1_keywords:
 - vbawd10.chm159384553
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revisions.Creator
 ms.assetid: c8db3880-70c4-7d3f-5705-828e061f2c52
+ms.date: 06/08/2017
 ---
 
 

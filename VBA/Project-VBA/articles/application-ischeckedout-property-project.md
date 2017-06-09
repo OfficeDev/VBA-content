@@ -1,7 +1,8 @@
 ---
 title: Application.IsCheckedOut Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 616f9342-9d9b-dd85-873c-3e40abfec019
+ms.date: 06/08/2017
 ---
 
 

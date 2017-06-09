@@ -3,10 +3,11 @@ title: GroupLevel.Properties Property (Access)
 keywords: vbaac10.chm12238
 f1_keywords:
 - vbaac10.chm12238
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.Properties
 ms.assetid: a6b2743a-aaed-6ad7-9b38-523a94488665
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.WindowActivate Method (Project)
 keywords: vbapj.chm705
 f1_keywords:
 - vbapj.chm705
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowActivate
 ms.assetid: 8b9b39f8-39e5-b162-d8d9-de9838f7b39e
+ms.date: 06/08/2017
 ---
 
 

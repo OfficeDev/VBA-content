@@ -3,10 +3,11 @@ title: ContactItem.OtherAddressStreet Property (Outlook)
 keywords: vbaol11.chm1055
 f1_keywords:
 - vbaol11.chm1055
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OtherAddressStreet
 ms.assetid: dd82de5e-63fc-18bb-5211-f8218e08354b
+ms.date: 06/08/2017
 ---
 
 

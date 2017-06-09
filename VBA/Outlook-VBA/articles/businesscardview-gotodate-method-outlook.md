@@ -3,10 +3,11 @@ title: BusinessCardView.GoToDate Method (Outlook)
 keywords: vbaol11.chm2933
 f1_keywords:
 - vbaol11.chm2933
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.GoToDate
 ms.assetid: 110b8ba2-c441-cfcc-77bc-f55715a9f2ed
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: "How to: Set the Number of Lines and the Length of Input in a Text Box"
 keywords: olfm10.chm3077204
 f1_keywords:
 - olfm10.chm3077204
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1b56aff7-ab6f-b595-781d-a60d0dffe7a9
+ms.date: 06/08/2017
 ---
 
 

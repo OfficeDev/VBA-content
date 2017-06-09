@@ -1,7 +1,8 @@
 ---
 title: Operators Keyword Summary
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0db3c2ae-2d07-1cd6-ce87-87069b06c280
+ms.date: 06/08/2017
 ---
 
 

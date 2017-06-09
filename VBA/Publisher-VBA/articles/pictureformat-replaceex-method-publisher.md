@@ -3,10 +3,11 @@ title: PictureFormat.ReplaceEx Method (Publisher)
 keywords: vbapb10.chm3604808
 f1_keywords:
 - vbapb10.chm3604808
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.ReplaceEx
 ms.assetid: 0f1b9eaf-51b6-ae21-518f-55663184ab87
+ms.date: 06/08/2017
 ---
 
 

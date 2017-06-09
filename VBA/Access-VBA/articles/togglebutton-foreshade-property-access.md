@@ -3,10 +3,11 @@ title: ToggleButton.ForeShade Property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ForeShade
 ms.assetid: 266e2047-8d29-69e7-bda9-c3d152cf78ba
+ms.date: 06/08/2017
 ---
 
 

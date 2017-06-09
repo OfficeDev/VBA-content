@@ -3,10 +3,11 @@ title: Name.Delete Method (Excel)
 keywords: vbaxl10.chm490077
 f1_keywords:
 - vbaxl10.chm490077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Delete
 ms.assetid: 429a5d17-8f34-9a04-d744-66ce1e9e39a7
+ms.date: 06/08/2017
 ---
 
 

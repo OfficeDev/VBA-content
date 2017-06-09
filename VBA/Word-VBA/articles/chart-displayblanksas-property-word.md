@@ -3,10 +3,11 @@ title: Chart.DisplayBlanksAs Property (Word)
 keywords: vbawd10.chm79364114
 f1_keywords:
 - vbawd10.chm79364114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.DisplayBlanksAs
 ms.assetid: 573752ec-7c2a-a5e0-bd05-626c81fb5d48
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.CellsRowIndexU Property (Visio)
 keywords: vis_sdr.chm11251950
 f1_keywords:
 - vis_sdr.chm11251950
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellsRowIndexU
 ms.assetid: 425fbf08-d44c-2631-7400-55620fd429ee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DistListItem.TaskDueDate Property (Outlook)
 keywords: vbaol11.chm1169
 f1_keywords:
 - vbaol11.chm1169
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.TaskDueDate
 ms.assetid: fb019ff9-c400-eb56-2dcc-473c58406d45
+ms.date: 06/08/2017
 ---
 
 

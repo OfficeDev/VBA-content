@@ -3,8 +3,9 @@ title: Broadcast.State Property (Word)
 keywords: vbawd10.chm36438018
 f1_keywords:
 - vbawd10.chm36438018
-ms.prod: WORD
+ms.prod: word
 ms.assetid: c2f7cbc1-2c1e-e118-c4a4-dc50129a24ab
+ms.date: 06/08/2017
 ---
 
 

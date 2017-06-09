@@ -3,10 +3,11 @@ title: WebPageOptions.PublishFileName Property (Publisher)
 keywords: vbapb10.chm544784
 f1_keywords:
 - vbapb10.chm544784
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.PublishFileName
 ms.assetid: d3f52a82-8876-303a-2a73-fdb6dd1ff1cb
+ms.date: 06/08/2017
 ---
 
 

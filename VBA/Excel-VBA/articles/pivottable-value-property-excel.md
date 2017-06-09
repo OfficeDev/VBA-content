@@ -3,10 +3,11 @@ title: PivotTable.Value Property (Excel)
 keywords: vbaxl10.chm235100
 f1_keywords:
 - vbaxl10.chm235100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.Value
 ms.assetid: a931f842-233a-d0ef-d306-664b65eaaecd
+ms.date: 06/08/2017
 ---
 
 

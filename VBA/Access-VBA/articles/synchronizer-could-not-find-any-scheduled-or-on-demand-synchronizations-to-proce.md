@@ -3,14 +3,15 @@ title: Synchronizer could not find any scheduled or on-demand synchronizations t
 keywords: jeterr40.chm5003514
 f1_keywords:
 - jeterr40.chm5003514
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 93d949e0-5779-2968-eba6-961f3a568b1f
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizer could not find any scheduled or on-demand synchronizations to process. (Error 3514)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

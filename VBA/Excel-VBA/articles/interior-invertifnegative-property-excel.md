@@ -3,10 +3,11 @@ title: Interior.InvertIfNegative Property (Excel)
 keywords: vbaxl10.chm551075
 f1_keywords:
 - vbaxl10.chm551075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.InvertIfNegative
 ms.assetid: 4b803a8b-5e30-8f90-2f26-a37d2dada48b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.PrintLandscape Property (Visio)
 keywords: vis_sdr.chm10514120
 f1_keywords:
 - vis_sdr.chm10514120
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PrintLandscape
 ms.assetid: 4279a23b-2de8-3fbe-77b1-4b7bdd8db374
+ms.date: 06/08/2017
 ---
 
 

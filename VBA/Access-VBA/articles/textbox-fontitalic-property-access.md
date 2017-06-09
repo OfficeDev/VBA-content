@@ -3,10 +3,11 @@ title: TextBox.FontItalic Property (Access)
 keywords: vbaac10.chm11087
 f1_keywords:
 - vbaac10.chm11087
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.FontItalic
 ms.assetid: f982c1ce-ad47-a05e-6b12-1eb51dbc0eb7
+ms.date: 06/08/2017
 ---
 
 

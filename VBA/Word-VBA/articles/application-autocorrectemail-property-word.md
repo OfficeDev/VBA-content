@@ -3,10 +3,11 @@ title: Application.AutoCorrectEmail Property (Word)
 keywords: vbawd10.chm158335432
 f1_keywords:
 - vbawd10.chm158335432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.AutoCorrectEmail
 ms.assetid: 20e94c20-ead7-f16f-b70f-c37d9f34a59e
+ms.date: 06/08/2017
 ---
 
 

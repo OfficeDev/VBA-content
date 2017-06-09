@@ -3,10 +3,11 @@ title: Application.SlideShowNextClick Event (PowerPoint)
 keywords: vbapp10.chm621019
 f1_keywords:
 - vbapp10.chm621019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowNextClick
 ms.assetid: 95a83383-62a4-a99b-3cd4-a69700bfbc3a
+ms.date: 06/08/2017
 ---
 
 

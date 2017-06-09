@@ -3,10 +3,11 @@ title: Application.PixelsToPoints Method (Word)
 keywords: vbawd10.chm158335364
 f1_keywords:
 - vbawd10.chm158335364
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PixelsToPoints
 ms.assetid: f5e2e3f2-1e58-d84f-c73a-f6414fa48c3d
+ms.date: 06/08/2017
 ---
 
 

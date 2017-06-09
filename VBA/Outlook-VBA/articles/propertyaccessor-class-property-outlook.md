@@ -3,10 +3,11 @@ title: PropertyAccessor.Class Property (Outlook)
 keywords: vbaol11.chm1967
 f1_keywords:
 - vbaol11.chm1967
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.Class
 ms.assetid: ef4c4ec9-8e80-34de-7699-be1defe52d7c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: EmailOptions.AutoFormatAsYouTypeInsertOvers Property (Word)
 keywords: vbawd10.chm165347633
 f1_keywords:
 - vbawd10.chm165347633
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeInsertOvers
 ms.assetid: 0c8b77a9-f6ed-1be5-bab8-dbab886812cd
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: CommandBarButton.Enabled Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Enabled
 ms.assetid: 264335ca-6506-0e86-16df-44af277ade83
+ms.date: 06/08/2017
 ---
 
 

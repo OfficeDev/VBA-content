@@ -3,10 +3,11 @@ title: OptionGroup.StatusBarText Property (Access)
 keywords: vbaac10.chm10826
 f1_keywords:
 - vbaac10.chm10826
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.StatusBarText
 ms.assetid: d30da689-1716-767f-0f0a-c1d0ffee6c48
+ms.date: 06/08/2017
 ---
 
 

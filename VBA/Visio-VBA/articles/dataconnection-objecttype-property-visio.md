@@ -3,10 +3,11 @@ title: DataConnection.ObjectType Property (Visio)
 keywords: vis_sdr.chm16513960
 f1_keywords:
 - vis_sdr.chm16513960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection.ObjectType
 ms.assetid: e923f700-70ba-8f2d-c10b-0e582ed725e1
+ms.date: 06/08/2017
 ---
 
 

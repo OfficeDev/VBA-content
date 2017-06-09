@@ -3,10 +3,11 @@ title: Masters.ItemU Property (Visio)
 keywords: vis_sdr.chm10851980
 f1_keywords:
 - vis_sdr.chm10851980
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ItemU
 ms.assetid: fa4e26a1-21d1-04bf-4fd8-83049cc0a5df
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.ChiSq_Test Method (Excel)
 keywords: vbaxl10.chm137361
 f1_keywords:
 - vbaxl10.chm137361
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiSq_Test
 ms.assetid: d8f1de5c-2ddc-40a0-8e1b-6d38ab5a3f69
+ms.date: 06/08/2017
 ---
 
 

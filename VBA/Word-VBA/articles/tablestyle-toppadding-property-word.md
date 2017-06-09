@@ -3,10 +3,11 @@ title: TableStyle.TopPadding Property (Word)
 keywords: vbawd10.chm244776966
 f1_keywords:
 - vbawd10.chm244776966
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.TopPadding
 ms.assetid: ad0f780e-097e-e368-7b06-5a0159d97151
+ms.date: 06/08/2017
 ---
 
 

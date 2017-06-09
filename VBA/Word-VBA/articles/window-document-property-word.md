@@ -3,10 +3,11 @@ title: Window.Document Property (Word)
 keywords: vbawd10.chm157417474
 f1_keywords:
 - vbawd10.chm157417474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Document
 ms.assetid: a1eda09e-9c5b-548a-23d0-27cbda9e0dcd
+ms.date: 06/08/2017
 ---
 
 

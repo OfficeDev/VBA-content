@@ -3,10 +3,11 @@ title: FormRegion.EnableAutoLayout Property (Outlook)
 keywords: vbaol11.chm3265
 f1_keywords:
 - vbaol11.chm3265
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.EnableAutoLayout
 ms.assetid: 24cc737a-0a95-a162-19bb-f2e8e9a73324
+ms.date: 06/08/2017
 ---
 
 

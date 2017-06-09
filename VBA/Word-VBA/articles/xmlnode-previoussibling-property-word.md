@@ -3,10 +3,11 @@ title: XMLNode.PreviousSibling Property (Word)
 keywords: vbawd10.chm37748743
 f1_keywords:
 - vbawd10.chm37748743
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.PreviousSibling
 ms.assetid: f4935228-6aaf-e763-27eb-71ed25c1eb6a
+ms.date: 06/08/2017
 ---
 
 

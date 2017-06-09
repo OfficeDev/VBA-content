@@ -3,10 +3,11 @@ title: CheckBox.Click Event (Access)
 keywords: vbaac10.chm14119
 f1_keywords:
 - vbaac10.chm14119
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Click
 ms.assetid: 15c55276-ef6e-bcb4-09fd-2a457df79387
+ms.date: 06/08/2017
 ---
 
 

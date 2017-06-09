@@ -3,10 +3,11 @@ title: Application.GetHiddenAttribute Method (Access)
 keywords: vbaac10.chm12570
 f1_keywords:
 - vbaac10.chm12570
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.GetHiddenAttribute
 ms.assetid: aee0e022-08d5-10f8-bfd0-588b5310fb43
+ms.date: 06/08/2017
 ---
 
 

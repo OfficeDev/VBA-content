@@ -3,10 +3,11 @@ title: UpBars.Select Method (Excel)
 keywords: vbaxl10.chm608075
 f1_keywords:
 - vbaxl10.chm608075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UpBars.Select
 ms.assetid: 7302a1dd-370b-a168-fe2f-cd5217bd7db1
+ms.date: 06/08/2017
 ---
 
 

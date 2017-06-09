@@ -3,10 +3,11 @@ title: TextBox.BottomMargin Property (Access)
 keywords: vbaac10.chm11142
 f1_keywords:
 - vbaac10.chm11142
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BottomMargin
 ms.assetid: a6ef1155-24c8-1254-614b-c912fda8dae2
+ms.date: 06/08/2017
 ---
 
 

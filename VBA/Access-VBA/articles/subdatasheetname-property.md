@@ -3,16 +3,17 @@ title: SubdatasheetName Property
 keywords: vbaac10.chm4967
 f1_keywords:
 - vbaac10.chm4967
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubdatasheetName
 ms.assetid: 6114c6de-fdcd-9d97-c5ad-0742ca75a1ad
+ms.date: 06/08/2017
 ---
 
 
 # SubdatasheetName Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

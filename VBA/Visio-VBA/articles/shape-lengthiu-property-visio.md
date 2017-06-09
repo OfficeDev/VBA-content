@@ -3,10 +3,11 @@ title: Shape.LengthIU Property (Visio)
 keywords: vis_sdr.chm11213835
 f1_keywords:
 - vis_sdr.chm11213835
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.LengthIU
 ms.assetid: 11d57f17-5285-6b45-1da1-dc58db087395
+ms.date: 06/08/2017
 ---
 
 

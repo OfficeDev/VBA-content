@@ -3,10 +3,11 @@ title: Masters.ConnectionsDeleted Event (Visio)
 keywords: vis_sdr.chm10819100
 f1_keywords:
 - vis_sdr.chm10819100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ConnectionsDeleted
 ms.assetid: bf2ed2be-276a-04d8-cd98-70929cfd31f6
+ms.date: 06/08/2017
 ---
 
 

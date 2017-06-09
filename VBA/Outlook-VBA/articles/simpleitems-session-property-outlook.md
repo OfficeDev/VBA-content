@@ -3,10 +3,11 @@ title: SimpleItems.Session Property (Outlook)
 keywords: vbaol11.chm3395
 f1_keywords:
 - vbaol11.chm3395
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SimpleItems.Session
 ms.assetid: 5445d76f-658c-babf-87cf-44efd75a208a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The Design Master or replica is not being managed by a Synchronizer. (Err
 keywords: jeterr40.chm5003502
 f1_keywords:
 - jeterr40.chm5003502
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2f0c909e-4b44-d857-0441-f7b81d47e52c
+ms.date: 06/08/2017
 ---
 
 
 # The Design Master or replica is not being managed by a Synchronizer. (Error 3502)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

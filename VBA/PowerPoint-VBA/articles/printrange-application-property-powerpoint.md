@@ -3,10 +3,11 @@ title: PrintRange.Application Property (PowerPoint)
 keywords: vbapp10.chm519001
 f1_keywords:
 - vbapp10.chm519001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRange.Application
 ms.assetid: 3aa187da-6f23-b0ec-6036-bc2000d6020a
+ms.date: 06/08/2017
 ---
 
 

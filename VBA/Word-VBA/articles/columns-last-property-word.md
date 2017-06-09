@@ -3,10 +3,11 @@ title: Columns.Last Property (Word)
 keywords: vbawd10.chm155910245
 f1_keywords:
 - vbawd10.chm155910245
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Columns.Last
 ms.assetid: 4fd89087-6a96-520a-4791-e495485b30ae
+ms.date: 06/08/2017
 ---
 
 

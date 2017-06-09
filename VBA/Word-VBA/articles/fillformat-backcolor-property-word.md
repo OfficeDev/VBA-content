@@ -3,10 +3,11 @@ title: FillFormat.BackColor Property (Word)
 keywords: vbawd10.chm164102244
 f1_keywords:
 - vbawd10.chm164102244
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.BackColor
 ms.assetid: bea1c59d-24ed-667c-45da-90626e8ec506
+ms.date: 06/08/2017
 ---
 
 

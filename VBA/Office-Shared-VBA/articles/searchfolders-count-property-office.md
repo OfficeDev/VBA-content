@@ -3,10 +3,11 @@ title: SearchFolders.Count Property (Office)
 keywords: vbaof11.chm258002
 f1_keywords:
 - vbaof11.chm258002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchFolders.Count
 ms.assetid: d7d34fe2-eafb-58d7-83b5-f23a542abadb
+ms.date: 06/08/2017
 ---
 
 

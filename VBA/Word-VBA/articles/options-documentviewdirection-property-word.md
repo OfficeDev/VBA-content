@@ -3,10 +3,11 @@ title: Options.DocumentViewDirection Property (Word)
 keywords: vbawd10.chm162988432
 f1_keywords:
 - vbawd10.chm162988432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DocumentViewDirection
 ms.assetid: 5f68af9c-edff-1b6b-e111-954e9e845e62
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: EnterpriseNameUsed Property, Project [vbapj.chm131867]
 keywords: vbapj.chm131867
 f1_keywords:
 - vbapj.chm131867
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aef946bc-fc1e-4576-b121-e88622df5fee
+ms.date: 06/08/2017
 ---
 
 

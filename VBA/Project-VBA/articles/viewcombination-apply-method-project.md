@@ -1,9 +1,10 @@
 ---
 title: ViewCombination.Apply Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewCombination.Apply
 ms.assetid: 65375343-dbcf-1a4f-4c11-c6c52d052c11
+ms.date: 06/08/2017
 ---
 
 

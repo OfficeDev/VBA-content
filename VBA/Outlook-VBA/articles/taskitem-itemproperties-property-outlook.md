@@ -3,10 +3,11 @@ title: TaskItem.ItemProperties Property (Outlook)
 keywords: vbaol11.chm1761
 f1_keywords:
 - vbaol11.chm1761
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ItemProperties
 ms.assetid: c22c45f7-eb0d-457b-359e-6a3833d1fcfe
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.GridDistanceVertical Property (Word)
 keywords: vbawd10.chm162988114
 f1_keywords:
 - vbawd10.chm162988114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.GridDistanceVertical
 ms.assetid: 6da3a2b5-3961-f8ba-c61f-ec1d1d2ea971
+ms.date: 06/08/2017
 ---
 
 

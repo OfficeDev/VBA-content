@@ -3,10 +3,11 @@ title: ErrorCheckingOptions.Application Property (Excel)
 keywords: vbaxl10.chm697073
 f1_keywords:
 - vbaxl10.chm697073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.Application
 ms.assetid: 33ce949d-a962-e742-2fbe-43dceb2c8082
+ms.date: 06/08/2017
 ---
 
 

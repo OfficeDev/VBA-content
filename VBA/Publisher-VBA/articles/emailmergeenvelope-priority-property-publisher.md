@@ -3,10 +3,11 @@ title: EmailMergeEnvelope.Priority Property (Publisher)
 keywords: vbapb10.chm9043976
 f1_keywords:
 - vbapb10.chm9043976
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Priority
 ms.assetid: 21c4c33f-d211-7ca5-364b-be9ad4d3f187
+ms.date: 06/08/2017
 ---
 
 

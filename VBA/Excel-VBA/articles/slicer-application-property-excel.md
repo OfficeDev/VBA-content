@@ -3,10 +3,11 @@ title: Slicer.Application Property (Excel)
 keywords: vbaxl10.chm904073
 f1_keywords:
 - vbaxl10.chm904073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Application
 ms.assetid: f01ba5f0-686e-6bec-04be-e31be69ffe38
+ms.date: 06/08/2017
 ---
 
 

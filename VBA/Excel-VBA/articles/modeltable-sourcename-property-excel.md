@@ -3,8 +3,9 @@ title: ModelTable.SourceName Property (Excel)
 keywords: vbaxl10.chm934074
 f1_keywords:
 - vbaxl10.chm934074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 96993c18-598d-6270-8582-d6c7aa69f8b9
+ms.date: 06/08/2017
 ---
 
 

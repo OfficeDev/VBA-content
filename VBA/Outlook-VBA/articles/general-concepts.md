@@ -1,7 +1,8 @@
 ---
 title: General Concepts
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 209592d0-dac5-4cbf-8853-7be0a4d4f3c4
+ms.date: 06/08/2017
 ---
 
 

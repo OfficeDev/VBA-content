@@ -3,10 +3,11 @@ title: OptionGroup.OnEnter Property (Access)
 keywords: vbaac10.chm10864
 f1_keywords:
 - vbaac10.chm10864
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.OnEnter
 ms.assetid: 1edbc677-6cf5-a14c-1bd8-b12e6c5a22cf
+ms.date: 06/08/2017
 ---
 
 

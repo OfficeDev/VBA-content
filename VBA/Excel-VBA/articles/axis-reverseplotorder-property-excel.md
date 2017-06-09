@@ -3,10 +3,11 @@ title: Axis.ReversePlotOrder Property (Excel)
 keywords: vbaxl10.chm561096
 f1_keywords:
 - vbaxl10.chm561096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.ReversePlotOrder
 ms.assetid: 151f544c-4e6d-a583-5fab-5df0e5269681
+ms.date: 06/08/2017
 ---
 
 

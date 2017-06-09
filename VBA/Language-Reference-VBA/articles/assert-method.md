@@ -3,10 +3,11 @@ title: Assert Method
 keywords: vblr6.chm1103682
 f1_keywords:
 - vblr6.chm1103682
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Assert
 ms.assetid: 50bc7f70-d1d0-b23b-e449-f41815cc3178
+ms.date: 06/08/2017
 ---
 
 

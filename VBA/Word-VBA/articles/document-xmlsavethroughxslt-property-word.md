@@ -3,10 +3,11 @@ title: Document.XMLSaveThroughXSLT Property (Word)
 keywords: vbawd10.chm158007771
 f1_keywords:
 - vbawd10.chm158007771
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.XMLSaveThroughXSLT
 ms.assetid: cc25a073-99c5-f31b-0cad-b6e4c9a7ff0c
+ms.date: 06/08/2017
 ---
 
 

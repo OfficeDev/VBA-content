@@ -1,9 +1,10 @@
 ---
 title: WorkWeekDay.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Index
 ms.assetid: baf660a1-9f6e-218b-e3c4-988f86bdcb3a
+ms.date: 06/08/2017
 ---
 
 

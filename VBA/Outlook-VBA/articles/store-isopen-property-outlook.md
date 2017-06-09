@@ -3,10 +3,11 @@ title: Store.IsOpen Property (Outlook)
 keywords: vbaol11.chm808
 f1_keywords:
 - vbaol11.chm808
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.IsOpen
 ms.assetid: 05e93457-2d17-39ac-404c-c78c76d2ef72
+ms.date: 06/08/2017
 ---
 
 

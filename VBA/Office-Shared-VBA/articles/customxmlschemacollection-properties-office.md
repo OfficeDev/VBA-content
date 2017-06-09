@@ -1,7 +1,8 @@
 ---
 title: CustomXMLSchemaCollection Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: acc57e12-ac54-4cd2-94dc-614432609348
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DownBars.Parent Property (Word)
 keywords: vbawd10.chm107151510
 f1_keywords:
 - vbawd10.chm107151510
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Parent
 ms.assetid: 938d456d-f8df-cce1-4946-348150a39734
+ms.date: 06/08/2017
 ---
 
 

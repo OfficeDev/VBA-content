@@ -3,10 +3,11 @@ title: ApplicationSettings.DeleteConnectorsEnabled Property (Visio)
 keywords: vis_sdr.chm16262510
 f1_keywords:
 - vis_sdr.chm16262510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DeleteConnectorsEnabled
 ms.assetid: adb52279-5837-08be-ce73-231656ef7640
+ms.date: 06/08/2017
 ---
 
 

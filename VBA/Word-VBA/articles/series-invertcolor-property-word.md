@@ -3,10 +3,11 @@ title: Series.InvertColor Property (Word)
 keywords: vbawd10.chm123734852
 f1_keywords:
 - vbawd10.chm123734852
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.InvertColor
 ms.assetid: 50f248c7-5136-e4ea-c77c-9c0020275f07
+ms.date: 06/08/2017
 ---
 
 

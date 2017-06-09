@@ -3,10 +3,11 @@ title: Find.Execute2007 Method (Word)
 keywords: vbawd10.chm162529727
 f1_keywords:
 - vbawd10.chm162529727
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Execute2007
 ms.assetid: 441de4b6-882c-e950-cafe-ee4463ef1007
+ms.date: 06/08/2017
 ---
 
 

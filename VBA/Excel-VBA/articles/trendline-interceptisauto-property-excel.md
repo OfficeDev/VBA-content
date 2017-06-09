@@ -3,10 +3,11 @@ title: Trendline.InterceptIsAuto Property (Excel)
 keywords: vbaxl10.chm594084
 f1_keywords:
 - vbaxl10.chm594084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.InterceptIsAuto
 ms.assetid: ec5ea945-59d7-3ec2-42cd-95c7031880e8
+ms.date: 06/08/2017
 ---
 
 

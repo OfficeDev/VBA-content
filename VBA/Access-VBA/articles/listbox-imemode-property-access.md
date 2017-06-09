@@ -3,10 +3,11 @@ title: ListBox.IMEMode Property (Access)
 keywords: vbaac10.chm11296
 f1_keywords:
 - vbaac10.chm11296
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.IMEMode
 ms.assetid: 82f9dc6e-7132-d98c-7c5f-6ed2f0b1e552
+ms.date: 06/08/2017
 ---
 
 

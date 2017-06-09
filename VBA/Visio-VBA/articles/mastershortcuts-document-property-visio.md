@@ -3,10 +3,11 @@ title: MasterShortcuts.Document Property (Visio)
 keywords: vis_sdr.chm15913430
 f1_keywords:
 - vis_sdr.chm15913430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Document
 ms.assetid: 85b03285-fc54-9ee8-cf8a-69426924c306
+ms.date: 06/08/2017
 ---
 
 

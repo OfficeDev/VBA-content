@@ -3,10 +3,11 @@ title: PlotArea.Creator Property (Word)
 keywords: vbawd10.chm53477525
 f1_keywords:
 - vbawd10.chm53477525
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Creator
 ms.assetid: 340fb047-e239-3d54-853b-8cbc3919ab2b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.IncrementRotation Method (Word)
 keywords: vbawd10.chm161480719
 f1_keywords:
 - vbawd10.chm161480719
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.IncrementRotation
 ms.assetid: 67f44fb6-0cce-9a5c-5ac7-b8116dffc167
+ms.date: 06/08/2017
 ---
 
 

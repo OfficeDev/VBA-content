@@ -3,8 +3,9 @@ title: VisGraphicItemTypes Enumeration (Visio)
 keywords: vis_sdr.chm70475
 f1_keywords:
 - vis_sdr.chm70475
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 6221823d-4b8c-a16f-09d9-535ef36bfd58
+ms.date: 06/08/2017
 ---
 
 

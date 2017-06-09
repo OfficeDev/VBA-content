@@ -1,7 +1,8 @@
 ---
 title: Concepts (Word VBA reference)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 235f8709-b17d-a03e-7c78-6a663d037721
+ms.date: 06/08/2017
 ---
 
 

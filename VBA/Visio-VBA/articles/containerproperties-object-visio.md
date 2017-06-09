@@ -3,10 +3,11 @@ title: ContainerProperties Object (Visio)
 keywords: vis_sdr.chm61040
 f1_keywords:
 - vis_sdr.chm61040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties
 ms.assetid: b94f758f-58f7-f1ef-c03b-761e26c11017
+ms.date: 06/08/2017
 ---
 
 

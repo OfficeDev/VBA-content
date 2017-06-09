@@ -3,10 +3,11 @@ title: NavigationControl.BackStyle Property (Access)
 keywords: vbaac10.chm11075
 f1_keywords:
 - vbaac10.chm11075
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BackStyle
 ms.assetid: 1f46ccfd-78cc-0eae-3485-b91306dc6bde
+ms.date: 06/08/2017
 ---
 
 

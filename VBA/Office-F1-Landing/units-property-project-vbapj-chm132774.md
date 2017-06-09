@@ -3,8 +3,9 @@ title: Units Property, Project [vbapj.chm132774]
 keywords: vbapj.chm132774
 f1_keywords:
 - vbapj.chm132774
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7fb09464-8ef2-406a-a914-4130cc1df307
+ms.date: 06/08/2017
 ---
 
 

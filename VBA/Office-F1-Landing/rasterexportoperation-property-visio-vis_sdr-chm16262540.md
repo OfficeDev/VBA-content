@@ -3,8 +3,9 @@ title: RasterExportOperation Property, Visio [vis_sdr.chm16262540]
 keywords: vis_sdr.chm16262540
 f1_keywords:
 - vis_sdr.chm16262540
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d71223d-1f94-4fa7-bee4-4233ffc779c2
+ms.date: 06/08/2017
 ---
 
 

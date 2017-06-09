@@ -3,10 +3,11 @@ title: MailMergeDataSource.LastRecord Property (Publisher)
 keywords: vbapb10.chm6291474
 f1_keywords:
 - vbapb10.chm6291474
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.LastRecord
 ms.assetid: c1d11d3e-5f6f-2729-081b-5727c75fbc8d
+ms.date: 06/08/2017
 ---
 
 

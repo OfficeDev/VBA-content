@@ -3,10 +3,11 @@ title: TabControl Object (Access)
 keywords: vbaac10.chm12136
 f1_keywords:
 - vbaac10.chm12136
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl
 ms.assetid: 05f7de7b-8665-df6d-3fbb-47f8547d3baf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Window.SplitVertical Property (Word)
 keywords: vbawd10.chm157417482
 f1_keywords:
 - vbawd10.chm157417482
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.SplitVertical
 ms.assetid: db04a1d5-0f5a-d17c-6a47-1da6b0e7f124
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Paragraphs Object, Word [vbawd10.chm2392]
 keywords: vbawd10.chm2392
 f1_keywords:
 - vbawd10.chm2392
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c7e2a07-30e9-489f-8289-6dc9cd2c6e46
+ms.date: 06/08/2017
 ---
 
 

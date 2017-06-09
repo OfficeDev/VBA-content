@@ -3,10 +3,11 @@ title: Series.InvertIfNegative Property (Word)
 keywords: vbawd10.chm123732100
 f1_keywords:
 - vbawd10.chm123732100
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.InvertIfNegative
 ms.assetid: 37c35aa7-d71b-ae99-b21b-e5040899bd7d
+ms.date: 06/08/2017
 ---
 
 

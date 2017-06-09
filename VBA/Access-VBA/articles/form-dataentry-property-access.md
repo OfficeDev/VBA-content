@@ -3,10 +3,11 @@ title: Form.DataEntry Property (Access)
 keywords: vbaac10.chm13359,vbaac10.chm4316
 f1_keywords:
 - vbaac10.chm13359,vbaac10.chm4316
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DataEntry
 ms.assetid: 0a970904-10f9-d0c3-24d1-0b988725bb38
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Group Method (Word)
 keywords: vbawd10.chm162856979
 f1_keywords:
 - vbawd10.chm162856979
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Group
 ms.assetid: 2220e1d9-24aa-d2ba-f086-130e1139b346
+ms.date: 06/08/2017
 ---
 
 

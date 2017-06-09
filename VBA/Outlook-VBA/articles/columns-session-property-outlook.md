@@ -3,10 +3,11 @@ title: Columns.Session Property (Outlook)
 keywords: vbaol11.chm2737
 f1_keywords:
 - vbaol11.chm2737
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Columns.Session
 ms.assetid: 999b39d6-ed92-021c-ed29-96227f91fce3
+ms.date: 06/08/2017
 ---
 
 

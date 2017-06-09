@@ -3,10 +3,11 @@ title: IRtdServer Object (Excel)
 keywords: vbaxl10.chm500004
 f1_keywords:
 - vbaxl10.chm500004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IRtdServer
 ms.assetid: 6a85aa64-9514-74bb-3c63-141275f1b671
+ms.date: 06/08/2017
 ---
 
 

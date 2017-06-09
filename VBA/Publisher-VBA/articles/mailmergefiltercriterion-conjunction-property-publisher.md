@@ -3,10 +3,11 @@ title: MailMergeFilterCriterion.Conjunction Property (Publisher)
 keywords: vbapb10.chm6815750
 f1_keywords:
 - vbapb10.chm6815750
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Conjunction
 ms.assetid: 79365a25-97fd-a18f-7815-eaccf4c5bdca
+ms.date: 06/08/2017
 ---
 
 

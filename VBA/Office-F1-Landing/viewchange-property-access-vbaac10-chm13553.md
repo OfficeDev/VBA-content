@@ -3,8 +3,9 @@ title: ViewChange Property, Access [vbaac10.chm13553]
 keywords: vbaac10.chm13553
 f1_keywords:
 - vbaac10.chm13553
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2d15b171-67b6-40fe-8ddb-f30b28e3cb7e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: Timeline.Application Property (Project)
 ms.assetid: 4e9beeb2-5fd9-3631-b60e-1f41666f50b4
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

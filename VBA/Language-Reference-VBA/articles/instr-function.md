@@ -3,8 +3,9 @@ title: InStr Function
 keywords: vblr6.chm1008946
 f1_keywords:
 - vblr6.chm1008946
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d83b314a-e77c-fc18-0744-266f982a82b7
+ms.date: 06/08/2017
 ---
 
 

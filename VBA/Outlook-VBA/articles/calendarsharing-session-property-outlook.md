@@ -3,10 +3,11 @@ title: CalendarSharing.Session Property (Outlook)
 keywords: vbaol11.chm2409
 f1_keywords:
 - vbaol11.chm2409
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.Session
 ms.assetid: 5a20615c-7639-8009-2fdf-86b28ba591ba
+ms.date: 06/08/2017
 ---
 
 

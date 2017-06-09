@@ -3,8 +3,9 @@ title: Character Section, Visio [vis_sdr.chm2015]
 keywords: vis_sdr.chm2015
 f1_keywords:
 - vis_sdr.chm2015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1dc13042-db97-469f-8826-df17b44b0102
+ms.date: 06/08/2017
 ---
 
 

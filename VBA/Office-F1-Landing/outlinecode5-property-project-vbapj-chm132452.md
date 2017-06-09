@@ -3,8 +3,9 @@ title: OutlineCode5 Property, Project [vbapj.chm132452]
 keywords: vbapj.chm132452
 f1_keywords:
 - vbapj.chm132452
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 266821aa-82b9-4e26-8dcd-73d72e297e77
+ms.date: 06/08/2017
 ---
 
 

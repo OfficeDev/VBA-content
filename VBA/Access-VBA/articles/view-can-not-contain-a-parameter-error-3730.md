@@ -3,14 +3,15 @@ title: VIEW can not contain a parameter (Error 3730)
 keywords: jeterr40.chm5003730
 f1_keywords:
 - jeterr40.chm5003730
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1814658c-ba70-0ff9-f6e4-21eabc4a3b88
+ms.date: 06/08/2017
 ---
 
 
 # VIEW can not contain a parameter (Error 3730)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

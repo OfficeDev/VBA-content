@@ -3,8 +3,9 @@ title: Version Property, Excel [vbagr10.chm65928]
 keywords: vbagr10.chm65928
 f1_keywords:
 - vbagr10.chm65928
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 96576e8d-0dcc-41a0-a601-6cdc7d865209
+ms.date: 06/08/2017
 ---
 
 

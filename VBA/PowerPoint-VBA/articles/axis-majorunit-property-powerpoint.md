@@ -3,10 +3,11 @@ title: Axis.MajorUnit Property (PowerPoint)
 keywords: vbapp10.chm682013
 f1_keywords:
 - vbapp10.chm682013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MajorUnit
 ms.assetid: 5f88f369-e999-b947-c47f-5413e349d192
+ms.date: 06/08/2017
 ---
 
 

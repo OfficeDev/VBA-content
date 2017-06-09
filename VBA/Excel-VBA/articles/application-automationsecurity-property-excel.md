@@ -3,10 +3,11 @@ title: Application.AutomationSecurity Property (Excel)
 keywords: vbaxl10.chm133269
 f1_keywords:
 - vbaxl10.chm133269
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AutomationSecurity
 ms.assetid: ae19bf93-dc0f-f18a-d8ce-f54108602844
+ms.date: 06/08/2017
 ---
 
 

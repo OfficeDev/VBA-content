@@ -3,10 +3,11 @@ title: DblClick Event
 keywords: fm20.chm5224940
 f1_keywords:
 - fm20.chm5224940
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DblClick
 ms.assetid: 52ee3887-6634-ed57-fb9b-757543ea6e29
+ms.date: 06/08/2017
 ---
 
 

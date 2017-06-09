@@ -1,7 +1,8 @@
 ---
 title: ReflectionFormat Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 040424e8-2903-8416-c294-872d872d5277
+ms.date: 06/08/2017
 ---
 
 

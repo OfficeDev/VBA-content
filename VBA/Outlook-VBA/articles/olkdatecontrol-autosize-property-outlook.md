@@ -3,10 +3,11 @@ title: OlkDateControl.AutoSize Property (Outlook)
 keywords: vbaol11.chm1000341
 f1_keywords:
 - vbaol11.chm1000341
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.AutoSize
 ms.assetid: fdade84d-fa98-868c-4c76-34030242dc83
+ms.date: 06/08/2017
 ---
 
 

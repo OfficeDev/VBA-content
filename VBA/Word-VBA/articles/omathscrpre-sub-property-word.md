@@ -3,10 +3,11 @@ title: OMathScrPre.Sub Property (Word)
 keywords: vbawd10.chm202244199
 f1_keywords:
 - vbawd10.chm202244199
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrPre.Sub
 ms.assetid: 1f565f63-1d82-abe3-59b5-6f3cd7745aec
+ms.date: 06/08/2017
 ---
 
 

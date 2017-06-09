@@ -3,8 +3,9 @@ title: BeforeRender Property, Access [vbaac10.chm5116]
 keywords: vbaac10.chm5116
 f1_keywords:
 - vbaac10.chm5116
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cffa3724-a4c2-41a1-9b78-969c1ab1a948
+ms.date: 06/08/2017
 ---
 
 

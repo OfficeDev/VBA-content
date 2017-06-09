@@ -3,10 +3,11 @@ title: SortField.SetIcon Method (Excel)
 keywords: vbaxl10.chm843082
 f1_keywords:
 - vbaxl10.chm843082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField.SetIcon
 ms.assetid: 840e5a6b-bbaf-087d-06ba-715bde7cbe00
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Cycle Property, Office Shared [fm20.chm2001060]
 keywords: fm20.chm2001060
 f1_keywords:
 - fm20.chm2001060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b912868a-187c-404e-9924-a252eee77204
+ms.date: 06/08/2017
 ---
 
 

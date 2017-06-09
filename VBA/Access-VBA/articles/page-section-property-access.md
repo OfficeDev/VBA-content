@@ -3,10 +3,11 @@ title: Page.Section Property (Access)
 keywords: vbaac10.chm12162
 f1_keywords:
 - vbaac10.chm12162
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Section
 ms.assetid: b0982921-ec20-0e71-7b47-981c518ec549
+ms.date: 06/08/2017
 ---
 
 

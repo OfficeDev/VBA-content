@@ -3,10 +3,11 @@ title: Application.ResourceGraphBarStylesEx Method (Project)
 keywords: vbapj.chm2153
 f1_keywords:
 - vbapj.chm2153
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceGraphBarStylesEx
 ms.assetid: 903c3894-77c9-bd0a-dee0-85c7fcadea38
+ms.date: 06/08/2017
 ---
 
 

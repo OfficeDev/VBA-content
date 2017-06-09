@@ -3,10 +3,11 @@ title: PivotCache.RobustConnect Property (Excel)
 keywords: vbaxl10.chm227105
 f1_keywords:
 - vbaxl10.chm227105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.RobustConnect
 ms.assetid: 354d0124-e178-342b-9565-fa74e9dae5d5
+ms.date: 06/08/2017
 ---
 
 

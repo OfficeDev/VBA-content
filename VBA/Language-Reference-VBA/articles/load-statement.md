@@ -3,8 +3,9 @@ title: Load Statement
 keywords: vblr6.chm1100680
 f1_keywords:
 - vblr6.chm1100680
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 58e13f8f-3a3b-99d1-bf05-575ddf42c7c7
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: GroupCriterion2.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Application
 ms.assetid: 09b7c82a-318d-81f0-7751-b6c3cdbe350a
+ms.date: 06/08/2017
 ---
 
 

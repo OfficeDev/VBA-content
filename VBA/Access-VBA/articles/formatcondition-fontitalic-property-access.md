@@ -3,10 +3,11 @@ title: FormatCondition.FontItalic Property (Access)
 keywords: vbaac10.chm10055
 f1_keywords:
 - vbaac10.chm10055
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.FontItalic
 ms.assetid: eb7dceb1-ecfb-59b4-f810-28c2becd8a95
+ms.date: 06/08/2017
 ---
 
 

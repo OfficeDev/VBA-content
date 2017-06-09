@@ -3,10 +3,11 @@ title: IconView.Standard Property (Outlook)
 keywords: vbaol11.chm2570
 f1_keywords:
 - vbaol11.chm2570
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Standard
 ms.assetid: 13816c3b-a35f-30cf-c63e-fb7d52a0a942
+ms.date: 06/08/2017
 ---
 
 

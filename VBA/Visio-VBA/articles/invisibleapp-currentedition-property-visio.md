@@ -3,10 +3,11 @@ title: InvisibleApp.CurrentEdition Property (Visio)
 keywords: vis_sdr.chm17562415
 f1_keywords:
 - vis_sdr.chm17562415
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CurrentEdition
 ms.assetid: e121097e-74c6-7355-75bc-62b8a261a27d
+ms.date: 06/08/2017
 ---
 
 

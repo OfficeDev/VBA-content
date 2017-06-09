@@ -3,14 +3,15 @@ title: Syntax error in ORDER BY clause. (Error 3138)
 keywords: jeterr40.chm5003138
 f1_keywords:
 - jeterr40.chm5003138
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 66a4f655-d8a4-a279-600f-110caab48de5
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in ORDER BY clause. (Error 3138)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

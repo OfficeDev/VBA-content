@@ -3,10 +3,11 @@ title: FillFormat.Pattern Property (Publisher)
 keywords: vbapb10.chm2359558
 f1_keywords:
 - vbapb10.chm2359558
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Pattern
 ms.assetid: 5b63c81e-b692-92e0-5d72-99c8d4376aff
+ms.date: 06/08/2017
 ---
 
 

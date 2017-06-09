@@ -3,10 +3,11 @@ title: Parameters.Delete Method (Excel)
 keywords: vbaxl10.chm525077
 f1_keywords:
 - vbaxl10.chm525077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parameters.Delete
 ms.assetid: 0e708f81-6d82-3af5-2cde-fa8c924611f8
+ms.date: 06/08/2017
 ---
 
 

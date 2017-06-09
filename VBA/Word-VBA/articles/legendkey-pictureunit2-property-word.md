@@ -3,10 +3,11 @@ title: LegendKey.PictureUnit2 Property (Word)
 keywords: vbawd10.chm266209881
 f1_keywords:
 - vbawd10.chm266209881
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.PictureUnit2
 ms.assetid: 4f0bbf8a-774f-d77c-b8e8-76cb7b839329
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: The database has been placed in a state by user <name> on machine <name> 
 keywords: jeterr40.chm5003734
 f1_keywords:
 - jeterr40.chm5003734
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5c5483ee-af6a-1cb7-16a3-5a72f3c33df7
+ms.date: 06/08/2017
 ---
 
 
 # The database has been placed in a state by user <name> on machine <name> that prevents it from being opened or locked. (Error 3734)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

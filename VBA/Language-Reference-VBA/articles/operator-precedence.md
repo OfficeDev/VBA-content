@@ -3,8 +3,9 @@ title: Operator Precedence
 keywords: vblr6.chm1008988
 f1_keywords:
 - vblr6.chm1008988
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 05bd8527-1bf6-c2ab-6dac-f060d061cace
+ms.date: 06/08/2017
 ---
 
 

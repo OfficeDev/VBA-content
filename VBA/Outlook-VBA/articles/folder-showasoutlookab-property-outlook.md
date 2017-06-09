@@ -3,10 +3,11 @@ title: Folder.ShowAsOutlookAB Property (Outlook)
 keywords: vbaol11.chm2005
 f1_keywords:
 - vbaol11.chm2005
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.ShowAsOutlookAB
 ms.assetid: bb74591b-a3ea-efbd-e7b2-f374f1974be8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Frame Cell (Hyperlinks Section), Visio [Vis_DSS.chm82251384]
 keywords: vis_dss.chm82251384
 f1_keywords:
 - vis_dss.chm82251384
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e5bfd203-b04a-47f5-980b-3ee25ddd67db
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Printing in Access Reports
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5b6b2eb5-6c95-4551-b380-4752f5e96e3b
+ms.date: 06/08/2017
 ---
 
 

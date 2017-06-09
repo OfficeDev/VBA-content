@@ -3,10 +3,11 @@ title: Legend.Parent Property (Word)
 keywords: vbawd10.chm147194006
 f1_keywords:
 - vbawd10.chm147194006
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend.Parent
 ms.assetid: 23a9e2b4-65e2-c7ee-5822-a565a311295f
+ms.date: 06/08/2017
 ---
 
 

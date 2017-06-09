@@ -3,10 +3,11 @@ title: TextEffectFormat.NormalizedHeight Property (Publisher)
 keywords: vbapb10.chm3735814
 f1_keywords:
 - vbapb10.chm3735814
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.NormalizedHeight
 ms.assetid: 2b62fe23-9204-7449-1d4e-73e73def5df0
+ms.date: 06/08/2017
 ---
 
 

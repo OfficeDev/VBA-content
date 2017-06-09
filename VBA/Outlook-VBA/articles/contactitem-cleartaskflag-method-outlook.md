@@ -3,10 +3,11 @@ title: ContactItem.ClearTaskFlag Method (Outlook)
 keywords: vbaol11.chm3032
 f1_keywords:
 - vbaol11.chm3032
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ClearTaskFlag
 ms.assetid: 19e4fecd-7565-60ae-707b-410f4c1a6dcd
+ms.date: 06/08/2017
 ---
 
 

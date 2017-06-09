@@ -3,10 +3,11 @@ title: SlideShowWindow.Presentation Property (PowerPoint)
 keywords: vbapp10.chm507004
 f1_keywords:
 - vbapp10.chm507004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Presentation
 ms.assetid: 9c05deb7-a385-540f-97a5-1c5510f120c6
+ms.date: 06/08/2017
 ---
 
 

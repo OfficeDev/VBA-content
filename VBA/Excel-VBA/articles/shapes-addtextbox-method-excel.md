@@ -3,10 +3,11 @@ title: Shapes.AddTextbox Method (Excel)
 keywords: vbaxl10.chm638086
 f1_keywords:
 - vbaxl10.chm638086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddTextbox
 ms.assetid: c594be81-95e6-37da-2c55-418f11ad7554
+ms.date: 06/08/2017
 ---
 
 

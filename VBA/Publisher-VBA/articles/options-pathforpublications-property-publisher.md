@@ -3,10 +3,11 @@ title: Options.PathForPublications Property (Publisher)
 keywords: vbapb10.chm1048597
 f1_keywords:
 - vbapb10.chm1048597
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.PathForPublications
 ms.assetid: d33d5eab-eb52-b533-8968-31ddb5e12d99
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.InsideHeight Property (Access)
 keywords: vbaac10.chm13475
 f1_keywords:
 - vbaac10.chm13475
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.InsideHeight
 ms.assetid: 7a49b4b4-1bbf-c0ad-d873-ff81f8b99929
+ms.date: 06/08/2017
 ---
 
 

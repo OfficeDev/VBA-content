@@ -3,10 +3,11 @@ title: KeyBinding.Rebind Method (Word)
 keywords: vbawd10.chm160956520
 f1_keywords:
 - vbawd10.chm160956520
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBinding.Rebind
 ms.assetid: edc938ff-5ee5-3134-5808-a861ef37a2da
+ms.date: 06/08/2017
 ---
 
 

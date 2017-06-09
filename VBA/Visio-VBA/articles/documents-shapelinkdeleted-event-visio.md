@@ -3,10 +3,11 @@ title: Documents.ShapeLinkDeleted Event (Visio)
 keywords: vis_sdr.chm10662020
 f1_keywords:
 - vis_sdr.chm10662020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.ShapeLinkDeleted
 ms.assetid: 17c9547b-2001-0878-f17b-5c07dd4ca215
+ms.date: 06/08/2017
 ---
 
 

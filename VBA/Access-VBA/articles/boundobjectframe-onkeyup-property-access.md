@@ -3,10 +3,11 @@ title: BoundObjectFrame.OnKeyUp Property (Access)
 keywords: vbaac10.chm10974
 f1_keywords:
 - vbaac10.chm10974
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnKeyUp
 ms.assetid: 527a0034-31e1-af3f-d518-3c3b7cb62c8b
+ms.date: 06/08/2017
 ---
 
 

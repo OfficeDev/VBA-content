@@ -3,10 +3,11 @@ title: TextFrame.MarginLeft Property (PowerPoint)
 keywords: vbapp10.chm558003
 f1_keywords:
 - vbapp10.chm558003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.MarginLeft
 ms.assetid: c00a6b6c-0a67-5738-f31f-3714e2bf430d
+ms.date: 06/08/2017
 ---
 
 

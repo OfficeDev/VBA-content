@@ -3,10 +3,11 @@ title: ParagraphFormat.CharacterUnitLeftIndent Property (Word)
 keywords: vbawd10.chm156434559
 f1_keywords:
 - vbawd10.chm156434559
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.CharacterUnitLeftIndent
 ms.assetid: b54132c9-3d4a-a8d5-2778-c01928f5dda5
+ms.date: 06/08/2017
 ---
 
 

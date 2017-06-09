@@ -3,8 +3,9 @@ title: VisAutoConnectDir Enumeration (Visio)
 keywords: vis_sdr.chm70505
 f1_keywords:
 - vis_sdr.chm70505
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 369eb3bd-fbf6-b657-8999-00c1540ab2f9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Synchronizer cannot find the record of a specific synchronization in the 
 keywords: jeterr40.chm5003522
 f1_keywords:
 - jeterr40.chm5003522
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 10c13fb9-b49a-7c4b-f5c6-ae6c2c8f0dc4
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizer cannot find the record of a specific synchronization in the MSysExchangeLog table. (Error 3522)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

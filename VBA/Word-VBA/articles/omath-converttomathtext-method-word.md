@@ -3,10 +3,11 @@ title: OMath.ConvertToMathText Method (Word)
 keywords: vbawd10.chm176357579
 f1_keywords:
 - vbawd10.chm176357579
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.ConvertToMathText
 ms.assetid: d9253141-e6b5-9aa5-da91-020cc59b158c
+ms.date: 06/08/2017
 ---
 
 

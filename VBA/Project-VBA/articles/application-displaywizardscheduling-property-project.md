@@ -1,9 +1,10 @@
 ---
 title: Application.DisplayWizardScheduling Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayWizardScheduling
 ms.assetid: abcd5660-1eef-d53b-548f-6ead0c57f836
+ms.date: 06/08/2017
 ---
 
 

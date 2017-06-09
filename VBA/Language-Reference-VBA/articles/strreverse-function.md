@@ -3,8 +3,9 @@ title: StrReverse Function
 keywords: vblr6.chm1008923
 f1_keywords:
 - vblr6.chm1008923
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6ff232f2-d45c-e99e-6cec-99d6f86e3b37
+ms.date: 06/08/2017
 ---
 
 

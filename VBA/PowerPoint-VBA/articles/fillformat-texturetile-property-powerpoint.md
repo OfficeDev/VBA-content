@@ -3,10 +3,11 @@ title: FillFormat.TextureTile Property (PowerPoint)
 keywords: vbapp10.chm552031
 f1_keywords:
 - vbapp10.chm552031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureTile
 ms.assetid: 14d1b329-8d06-b4d6-1ade-aea80f5427ce
+ms.date: 06/08/2017
 ---
 
 

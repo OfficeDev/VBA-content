@@ -3,8 +3,9 @@ title: Exit Property not allowed in Function or Sub
 keywords: vblr6.chm1040127
 f1_keywords:
 - vblr6.chm1040127
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1fcbbb45-fd99-1d88-3840-ade4f4d66606
+ms.date: 06/08/2017
 ---
 
 

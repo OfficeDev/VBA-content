@@ -1,7 +1,8 @@
 ---
 title: ThemeEffectScheme Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 703b838a-718f-4290-a6a8-7f84ed93047c
+ms.date: 06/08/2017
 ---
 
 

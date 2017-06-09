@@ -3,10 +3,11 @@ title: Range.InsertCaption Method (Word)
 keywords: vbawd10.chm157155745
 f1_keywords:
 - vbawd10.chm157155745
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertCaption
 ms.assetid: fee41e81-1a78-2886-9693-dcf90da7c1bc
+ms.date: 06/08/2017
 ---
 
 

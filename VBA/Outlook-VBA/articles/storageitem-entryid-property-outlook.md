@@ -3,10 +3,11 @@ title: StorageItem.EntryID Property (Outlook)
 keywords: vbaol11.chm2143
 f1_keywords:
 - vbaol11.chm2143
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.EntryID
 ms.assetid: 5489c6df-8bd5-db6a-9d06-abe224813feb
+ms.date: 06/08/2017
 ---
 
 

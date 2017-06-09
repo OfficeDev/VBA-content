@@ -3,10 +3,11 @@ title: Selection.Previous Method (Word)
 keywords: vbawd10.chm158662762
 f1_keywords:
 - vbawd10.chm158662762
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Previous
 ms.assetid: 85679323-fe2c-f37a-5373-2c9e6d8494eb
+ms.date: 06/08/2017
 ---
 
 

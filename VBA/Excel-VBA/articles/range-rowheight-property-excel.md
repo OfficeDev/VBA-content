@@ -3,10 +3,11 @@ title: Range.RowHeight Property (Excel)
 keywords: vbaxl10.chm144190
 f1_keywords:
 - vbaxl10.chm144190
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.RowHeight
 ms.assetid: 103c7209-9a4f-8f9c-7bdc-3013113867a5
+ms.date: 06/08/2017
 ---
 
 

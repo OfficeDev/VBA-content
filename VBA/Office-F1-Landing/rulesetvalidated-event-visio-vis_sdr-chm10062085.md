@@ -3,8 +3,9 @@ title: RuleSetValidated Event, Visio [vis_sdr.chm10062085]
 keywords: vis_sdr.chm10062085
 f1_keywords:
 - vis_sdr.chm10062085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aae2d0e5-7d46-4353-b50a-d8416e5c085f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Resources Property, Access [vbaac10.chm14653]
 keywords: vbaac10.chm14653
 f1_keywords:
 - vbaac10.chm14653
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4f208d5-0d28-461c-8830-633380fd2c1c
+ms.date: 06/08/2017
 ---
 
 

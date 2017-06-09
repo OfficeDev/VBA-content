@@ -3,10 +3,11 @@ title: DefaultWebOptions.Encoding Property (Excel)
 keywords: vbaxl10.chm660086
 f1_keywords:
 - vbaxl10.chm660086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.Encoding
 ms.assetid: 53164ab3-b0f5-ed8e-76f8-840cbd8e23bc
+ms.date: 06/08/2017
 ---
 
 

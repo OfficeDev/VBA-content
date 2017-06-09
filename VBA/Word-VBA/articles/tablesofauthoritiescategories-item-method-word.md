@@ -3,10 +3,11 @@ title: TablesOfAuthoritiesCategories.Item Method (Word)
 keywords: vbawd10.chm158728192
 f1_keywords:
 - vbawd10.chm158728192
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfAuthoritiesCategories.Item
 ms.assetid: 48bd569a-720a-9635-c70e-0c6e5414c165
+ms.date: 06/08/2017
 ---
 
 

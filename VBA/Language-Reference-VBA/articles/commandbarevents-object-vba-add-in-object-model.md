@@ -3,8 +3,9 @@ title: CommandBarEvents Object (VBA Add-In Object Model)
 keywords: vbob6.chm1093161
 f1_keywords:
 - vbob6.chm1093161
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 894d6356-d9b6-ade1-3bd2-9624b9026ae2
+ms.date: 06/08/2017
 ---
 
 

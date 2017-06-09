@@ -3,8 +3,9 @@ title: AfterUnloadWebBrowserControl Method, Project [vbapj.chm131195]
 keywords: vbapj.chm131195
 f1_keywords:
 - vbapj.chm131195
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af8bd57c-04f5-48c0-bd3f-c16c6325ca34
+ms.date: 06/08/2017
 ---
 
 

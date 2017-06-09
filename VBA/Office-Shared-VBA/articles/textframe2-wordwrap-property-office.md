@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.WordWrap Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.WordWrap
 ms.assetid: 479e5798-70fa-f9e4-0901-51cb32915a07
+ms.date: 06/08/2017
 ---
 
 

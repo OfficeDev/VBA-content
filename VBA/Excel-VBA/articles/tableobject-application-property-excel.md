@@ -3,8 +3,9 @@ title: TableObject.Application Property (Excel)
 keywords: vbaxl10.chm915073
 f1_keywords:
 - vbaxl10.chm915073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 7150f52d-c871-12bc-89d8-42993844187d
+ms.date: 06/08/2017
 ---
 
 

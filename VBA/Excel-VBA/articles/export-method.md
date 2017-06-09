@@ -3,10 +3,11 @@ title: Export Method
 keywords: vbagr10.chm66950
 f1_keywords:
 - vbagr10.chm66950
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Export
 ms.assetid: c5929fa7-ac8a-0cb4-5c8d-01e5cfa23d1e
+ms.date: 06/08/2017
 ---
 
 

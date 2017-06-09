@@ -3,10 +3,11 @@ title: Cell.Merge Method (PowerPoint)
 keywords: vbapp10.chm628005
 f1_keywords:
 - vbapp10.chm628005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Merge
 ms.assetid: e4830df1-4db9-f1e0-a4c6-d4ed2d99b9fa
+ms.date: 06/08/2017
 ---
 
 

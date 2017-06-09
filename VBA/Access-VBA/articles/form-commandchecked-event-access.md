@@ -3,10 +3,11 @@ title: Form.CommandChecked Event (Access)
 keywords: vbaac10.chm13674
 f1_keywords:
 - vbaac10.chm13674
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandChecked
 ms.assetid: ec30f538-bbd2-9935-1ad9-5210f457b15f
+ms.date: 06/08/2017
 ---
 
 

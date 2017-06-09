@@ -3,8 +3,9 @@ title: EnterpriseTeamMember Method, Project [vbapj.chm131215]
 keywords: vbapj.chm131215
 f1_keywords:
 - vbapj.chm131215
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a8220a0c-a9d3-451f-a068-b431db1aa64f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Names.Item Method (Excel)
 keywords: vbaxl10.chm488074
 f1_keywords:
 - vbaxl10.chm488074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Names.Item
 ms.assetid: 01d138f1-a2a8-8c39-98f0-b953c4b3b5ba
+ms.date: 06/08/2017
 ---
 
 

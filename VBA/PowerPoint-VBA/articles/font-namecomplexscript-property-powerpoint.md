@@ -3,10 +3,11 @@ title: Font.NameComplexScript Property (PowerPoint)
 keywords: vbapp10.chm575020
 f1_keywords:
 - vbapp10.chm575020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.NameComplexScript
 ms.assetid: ef1e44d6-ff5d-aaa9-4eaa-643cb2ebc2bf
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FormRegion.Visible Property (Outlook)
 keywords: vbaol11.chm3457
 f1_keywords:
 - vbaol11.chm3457
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Visible
 ms.assetid: 3830982e-7b28-3b56-4ca1-4fa24ba9dd50
+ms.date: 06/08/2017
 ---
 
 

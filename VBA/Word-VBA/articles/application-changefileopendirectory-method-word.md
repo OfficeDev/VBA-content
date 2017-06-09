@@ -3,10 +3,11 @@ title: Application.ChangeFileOpenDirectory Method (Word)
 keywords: vbawd10.chm158335333
 f1_keywords:
 - vbawd10.chm158335333
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ChangeFileOpenDirectory
 ms.assetid: 9f044713-6e97-7219-8083-7d7d2cbb1b0f
+ms.date: 06/08/2017
 ---
 
 

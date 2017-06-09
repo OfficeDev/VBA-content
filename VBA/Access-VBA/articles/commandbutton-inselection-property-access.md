@@ -3,10 +3,11 @@ title: CommandButton.InSelection Property (Access)
 keywords: vbaac10.chm10492
 f1_keywords:
 - vbaac10.chm10492
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.InSelection
 ms.assetid: 8b8119a7-734c-8e20-8c1a-e80f02a8ad22
+ms.date: 06/08/2017
 ---
 
 

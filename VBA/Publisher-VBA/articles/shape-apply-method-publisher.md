@@ -3,10 +3,11 @@ title: Shape.Apply Method (Publisher)
 keywords: vbapb10.chm2228240
 f1_keywords:
 - vbapb10.chm2228240
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Apply
 ms.assetid: 711c72b6-3618-be0b-fb72-9f68fdbcc4a8
+ms.date: 06/08/2017
 ---
 
 

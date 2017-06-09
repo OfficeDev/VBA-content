@@ -3,10 +3,11 @@ title: Shapes.Range Method (Word)
 keywords: vbawd10.chm161415189
 f1_keywords:
 - vbawd10.chm161415189
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.Range
 ms.assetid: 277b5e9c-1bec-9e0c-b022-32cef4c5e38e
+ms.date: 06/08/2017
 ---
 
 

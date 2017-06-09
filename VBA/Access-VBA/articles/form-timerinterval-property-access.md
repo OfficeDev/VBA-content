@@ -3,10 +3,11 @@ title: Form.TimerInterval Property (Access)
 keywords: vbaac10.chm13462
 f1_keywords:
 - vbaac10.chm13462
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.TimerInterval
 ms.assetid: ee56bcf8-20cb-9d86-ed17-3b85ac88f6f1
+ms.date: 06/08/2017
 ---
 
 

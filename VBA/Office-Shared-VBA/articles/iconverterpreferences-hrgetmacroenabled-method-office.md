@@ -3,10 +3,11 @@ title: IConverterPreferences.HrGetMacroEnabled Method (Office)
 keywords: vbaof11.chm330001
 f1_keywords:
 - vbaof11.chm330001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverterPreferences.HrGetMacroEnabled
 ms.assetid: 9691bd3f-ba8d-87d8-cf2c-7e6b4cdce68d
+ms.date: 06/08/2017
 ---
 
 

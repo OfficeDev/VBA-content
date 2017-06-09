@@ -3,14 +3,15 @@ title: UPDATESECURITY (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277495
 f1_keywords:
 - jetsql40.chm5277495
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9d2c4397-2d80-e974-fbe4-a5c17d91b3da
+ms.date: 06/08/2017
 ---
 
 
 # UPDATESECURITY (Microsoft Access SQL reserved word)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

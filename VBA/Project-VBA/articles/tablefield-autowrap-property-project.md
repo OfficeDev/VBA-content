@@ -3,10 +3,11 @@ title: TableField.AutoWrap Property (Project)
 keywords: vbapj.chm132685
 f1_keywords:
 - vbapj.chm132685
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TableField.AutoWrap
 ms.assetid: 03364d30-736e-ae90-8e68-bf702b40444e
+ms.date: 06/08/2017
 ---
 
 

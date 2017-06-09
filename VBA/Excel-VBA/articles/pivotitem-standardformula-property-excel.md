@@ -3,10 +3,11 @@ title: PivotItem.StandardFormula Property (Excel)
 keywords: vbaxl10.chm246092
 f1_keywords:
 - vbaxl10.chm246092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItem.StandardFormula
 ms.assetid: 34410ff5-0330-f685-e508-94084e6f0e5d
+ms.date: 06/08/2017
 ---
 
 

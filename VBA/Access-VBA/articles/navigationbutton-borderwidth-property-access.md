@@ -3,10 +3,11 @@ title: NavigationButton.BorderWidth Property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BorderWidth
 ms.assetid: 75994c77-6a4e-f5bd-82ce-38343dfe79bc
+ms.date: 06/08/2017
 ---
 
 

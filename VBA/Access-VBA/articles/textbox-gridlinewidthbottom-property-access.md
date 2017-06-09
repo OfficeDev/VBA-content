@@ -3,10 +3,11 @@ title: TextBox.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm11163
 f1_keywords:
 - vbaac10.chm11163
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineWidthBottom
 ms.assetid: 4569d053-008b-a4ce-374f-6078f5ea9bee
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Window.RangeSelection Property (Excel)
 keywords: vbaxl10.chm356104
 f1_keywords:
 - vbaxl10.chm356104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.RangeSelection
 ms.assetid: 1290970f-4a7a-ce68-da5a-d1a90dacf19f
+ms.date: 06/08/2017
 ---
 
 

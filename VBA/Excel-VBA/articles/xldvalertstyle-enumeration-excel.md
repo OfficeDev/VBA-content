@@ -1,9 +1,10 @@
 ---
 title: XlDVAlertStyle Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDVAlertStyle
 ms.assetid: fd64927c-fc34-1561-4f6a-378ecfb7a7c9
+ms.date: 06/08/2017
 ---
 
 

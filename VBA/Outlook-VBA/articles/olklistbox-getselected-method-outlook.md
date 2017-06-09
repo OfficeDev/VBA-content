@@ -3,10 +3,11 @@ title: OlkListBox.GetSelected Method (Outlook)
 keywords: vbaol11.chm1000270
 f1_keywords:
 - vbaol11.chm1000270
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.GetSelected
 ms.assetid: f1af9a89-09aa-79da-ebbf-bce0948b4427
+ms.date: 06/08/2017
 ---
 
 

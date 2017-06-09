@@ -3,10 +3,11 @@ title: Attachment.BottomPadding Property (Access)
 keywords: vbaac10.chm13991
 f1_keywords:
 - vbaac10.chm13991
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.BottomPadding
 ms.assetid: b84a725d-0a4a-b105-ef2b-7355601181ec
+ms.date: 06/08/2017
 ---
 
 

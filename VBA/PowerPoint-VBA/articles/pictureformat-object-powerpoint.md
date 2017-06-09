@@ -3,10 +3,11 @@ title: PictureFormat Object (PowerPoint)
 keywords: vbapp10.chm551000
 f1_keywords:
 - vbapp10.chm551000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat
 ms.assetid: 946794b4-0401-ec7c-cea3-779ebfce0d69
+ms.date: 06/08/2017
 ---
 
 

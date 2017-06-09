@@ -3,10 +3,11 @@ title: CustomTaskPane.Window Property (Office)
 keywords: vbaof11.chm301003
 f1_keywords:
 - vbaof11.chm301003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.Window
 ms.assetid: 8068fb04-0bd8-4711-1813-3198a2085256
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: MinMaxButtons Property, Access [vbaac10.chm4425]
 keywords: vbaac10.chm4425
 f1_keywords:
 - vbaac10.chm4425
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3378d45f-6342-4d77-827c-0df6d5953711
+ms.date: 06/08/2017
 ---
 
 

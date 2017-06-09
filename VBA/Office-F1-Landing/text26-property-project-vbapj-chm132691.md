@@ -3,8 +3,9 @@ title: Text26 Property, Project [vbapj.chm132691]
 keywords: vbapj.chm132691
 f1_keywords:
 - vbapj.chm132691
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54a906fe-d914-46c4-82eb-6266738ed62a
+ms.date: 06/08/2017
 ---
 
 

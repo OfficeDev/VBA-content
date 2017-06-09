@@ -1,7 +1,8 @@
 ---
 title: CaptionLabels Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 7d18c0d6-6d58-9841-4665-ab13e2e2ad9f
+ms.date: 06/08/2017
 ---
 
 

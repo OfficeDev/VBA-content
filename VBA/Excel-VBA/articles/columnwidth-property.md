@@ -3,10 +3,11 @@ title: ColumnWidth Property
 keywords: vbagr10.chm65778
 f1_keywords:
 - vbagr10.chm65778
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColumnWidth
 ms.assetid: fffb3493-4b40-7a0b-f3ad-d191baebb87f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Assignment.Flag2 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag2
 ms.assetid: a1659a3c-e5a9-0409-217c-3cb0be5c0818
+ms.date: 06/08/2017
 ---
 
 

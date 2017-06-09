@@ -3,14 +3,15 @@ title: Property can be set only when the Field is part of a Recordset object's F
 keywords: jeterr40.chm5003267
 f1_keywords:
 - jeterr40.chm5003267
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 794c97ff-c17f-aa64-6435-7a7ee76ee707
+ms.date: 06/08/2017
 ---
 
 
 # Property can be set only when the Field is part of a Recordset object's Fields collection. (Error 3267)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

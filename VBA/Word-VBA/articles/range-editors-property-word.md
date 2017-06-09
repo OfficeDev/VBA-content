@@ -3,10 +3,11 @@ title: Range.Editors Property (Word)
 keywords: vbawd10.chm157155671
 f1_keywords:
 - vbawd10.chm157155671
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Editors
 ms.assetid: fe491d3f-e559-aa3d-53ce-bf4aea0de5f8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.CommandEnabled Property (Access)
 keywords: vbaac10.chm13544,vbaac10.chm5108
 f1_keywords:
 - vbaac10.chm13544,vbaac10.chm5108
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandEnabled
 ms.assetid: 07e6989d-9739-e023-32e4-95147eb4bba3
+ms.date: 06/08/2017
 ---
 
 

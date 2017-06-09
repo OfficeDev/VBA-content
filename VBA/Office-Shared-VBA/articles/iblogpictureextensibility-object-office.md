@@ -3,10 +3,11 @@ title: IBlogPictureExtensibility Object (Office)
 keywords: vbaof11.chm329000
 f1_keywords:
 - vbaof11.chm329000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility
 ms.assetid: 07cedf63-0c59-5c5e-25df-1d627db89cbe
+ms.date: 06/08/2017
 ---
 
 

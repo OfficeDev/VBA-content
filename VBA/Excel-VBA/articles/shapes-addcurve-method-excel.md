@@ -3,10 +3,11 @@ title: Shapes.AddCurve Method (Excel)
 keywords: vbaxl10.chm638079
 f1_keywords:
 - vbaxl10.chm638079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddCurve
 ms.assetid: 745c62fe-5a62-7ef7-6dc8-d34cada4e57d
+ms.date: 06/08/2017
 ---
 
 

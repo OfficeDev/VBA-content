@@ -3,8 +3,9 @@ title: AutoCaptions Object (Word)
 keywords: vbawd10.chm2426
 f1_keywords:
 - vbawd10.chm2426
-ms.prod: WORD
+ms.prod: word
 ms.assetid: da4bd001-8f4c-28c9-4f46-a5a6499000a8
+ms.date: 06/08/2017
 ---
 
 

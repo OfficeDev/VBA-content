@@ -3,10 +3,11 @@ title: ChartGroup.Parent Property (Word)
 keywords: vbawd10.chm263454870
 f1_keywords:
 - vbawd10.chm263454870
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Parent
 ms.assetid: 2f7f4f9f-412a-49cc-9c8c-39885f10c6a9
+ms.date: 06/08/2017
 ---
 
 

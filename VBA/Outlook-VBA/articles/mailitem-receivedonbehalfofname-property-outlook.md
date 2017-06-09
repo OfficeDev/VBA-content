@@ -3,10 +3,11 @@ title: MailItem.ReceivedOnBehalfOfName Property (Outlook)
 keywords: vbaol11.chm1344
 f1_keywords:
 - vbaol11.chm1344
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReceivedOnBehalfOfName
 ms.assetid: 7a34998b-0475-7279-1e7e-2f0cf2c76bb9
+ms.date: 06/08/2017
 ---
 
 

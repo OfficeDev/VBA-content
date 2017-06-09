@@ -3,10 +3,11 @@ title: Document.SurplusShapes Property (Publisher)
 keywords: vbapb10.chm196754
 f1_keywords:
 - vbapb10.chm196754
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.SurplusShapes
 ms.assetid: 8c1c5fee-bea0-1660-a4a5-b465879d6ec9
+ms.date: 06/08/2017
 ---
 
 

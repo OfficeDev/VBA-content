@@ -3,10 +3,11 @@ title: Windows.Add Method (Word)
 keywords: vbawd10.chm157351946
 f1_keywords:
 - vbawd10.chm157351946
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Windows.Add
 ms.assetid: ce201ef7-db0a-b697-815d-bb2cd670f4ad
+ms.date: 06/08/2017
 ---
 
 

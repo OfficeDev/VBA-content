@@ -3,8 +3,9 @@ title: VbMsgBoxStyle (Object Browser), Office Shared [vblr6.chm1113599]
 keywords: vblr6.chm1113599
 f1_keywords:
 - vblr6.chm1113599
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5476db0d-4af9-4ef3-a41c-15e6764d9c8a
+ms.date: 06/08/2017
 ---
 
 

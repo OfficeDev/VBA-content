@@ -3,10 +3,11 @@ title: PublishObject.SlideShowName Property (PowerPoint)
 keywords: vbapp10.chm635007
 f1_keywords:
 - vbapp10.chm635007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.SlideShowName
 ms.assetid: 8555cc11-e221-4bcf-3ea7-84e242985814
+ms.date: 06/08/2017
 ---
 
 

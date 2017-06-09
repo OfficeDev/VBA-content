@@ -3,10 +3,11 @@ title: Control.SizeToFit Method (Access)
 keywords: vbaac10.chm10146
 f1_keywords:
 - vbaac10.chm10146
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.SizeToFit
 ms.assetid: 421b93c4-b648-a7d7-5e0c-845672d4dab8
+ms.date: 06/08/2017
 ---
 
 

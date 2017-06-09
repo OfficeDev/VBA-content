@@ -3,10 +3,11 @@ title: Filter.FilterType Property (Project)
 keywords: vbapj.chm132215
 f1_keywords:
 - vbapj.chm132215
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filter.FilterType
 ms.assetid: 4a0b77fd-d1f1-b0ae-4075-1124d942fbec
+ms.date: 06/08/2017
 ---
 
 

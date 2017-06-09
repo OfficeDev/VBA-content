@@ -3,8 +3,9 @@ title: CtrlAsInput Cell (Page Layout Section), Visio [vis_sdr.chm1225]
 keywords: vis_sdr.chm1225
 f1_keywords:
 - vis_sdr.chm1225
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4741cbd6-de38-48f5-83b4-c449dfa330d1
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: OptionGroup.Width Property (Access)
 keywords: vbaac10.chm10836
 f1_keywords:
 - vbaac10.chm10836
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Width
 ms.assetid: 03db8a33-19f3-94dc-4a46-5d643ab0da14
+ms.date: 06/08/2017
 ---
 
 

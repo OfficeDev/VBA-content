@@ -3,10 +3,11 @@ title: OlAttachmentType Enumeration (Outlook)
 keywords: vbaol11.chm3052
 f1_keywords:
 - vbaol11.chm3052
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAttachmentType
 ms.assetid: b6373ef7-0f30-d6c4-eb52-c6ef1de40b52
+ms.date: 06/08/2017
 ---
 
 

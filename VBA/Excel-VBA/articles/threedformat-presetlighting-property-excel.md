@@ -1,9 +1,10 @@
 ---
 title: ThreeDFormat.PresetLighting Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetLighting
 ms.assetid: 68ff6d02-167c-8be0-c785-879431f5ef5c
+ms.date: 06/08/2017
 ---
 
 

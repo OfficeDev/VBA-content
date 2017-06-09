@@ -3,8 +3,9 @@ title: Textual Criteria from a Control on a Form, Access [vbaac10.chm11333]
 keywords: vbaac10.chm11333
 f1_keywords:
 - vbaac10.chm11333
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 382e095d-75e0-42a6-a25b-4c701559e970
+ms.date: 06/08/2017
 ---
 
 

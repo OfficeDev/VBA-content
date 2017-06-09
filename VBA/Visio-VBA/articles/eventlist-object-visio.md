@@ -3,10 +3,11 @@ title: EventList Object (Visio)
 keywords: vis_sdr.chm10095
 f1_keywords:
 - vis_sdr.chm10095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EventList
 ms.assetid: 08b70863-ce73-2cd2-ccc0-a993bd261ea2
+ms.date: 06/08/2017
 ---
 
 

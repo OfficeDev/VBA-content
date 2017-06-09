@@ -3,10 +3,11 @@ title: ExtraColors.Application Property (PowerPoint)
 keywords: vbapp10.chm529001
 f1_keywords:
 - vbapp10.chm529001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Application
 ms.assetid: 0271f8b3-1cde-a729-3605-ea88a77abff1
+ms.date: 06/08/2017
 ---
 
 

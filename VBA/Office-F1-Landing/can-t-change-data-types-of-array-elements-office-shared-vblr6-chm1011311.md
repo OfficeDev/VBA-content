@@ -3,8 +3,9 @@ title: Can't change data types of array elements, Office Shared [vblr6.chm101131
 keywords: vblr6.chm1011311
 f1_keywords:
 - vblr6.chm1011311
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac25dcb5-a2d4-4110-ac8c-36ee4e5112f6
+ms.date: 06/08/2017
 ---
 
 

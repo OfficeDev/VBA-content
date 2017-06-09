@@ -3,10 +3,11 @@ title: TextEffectFormat.PresetShape Property (PowerPoint)
 keywords: vbapp10.chm556010
 f1_keywords:
 - vbapp10.chm556010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.PresetShape
 ms.assetid: e4e43c4c-09fa-4f1d-a0de-26e0c7a872a0
+ms.date: 06/08/2017
 ---
 
 

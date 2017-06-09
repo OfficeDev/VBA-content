@@ -3,14 +3,15 @@ title: Values for the PaperSize Member
 keywords: vbaac10.chm5188251
 f1_keywords:
 - vbaac10.chm5188251
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 99afe507-9c34-7ec6-fa53-e6f7e9f6128b
+ms.date: 06/08/2017
 ---
 
 
 # Values for the PaperSize Member
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Range.InsertParagraphBefore Method (Word)
 keywords: vbawd10.chm157155540
 f1_keywords:
 - vbawd10.chm157155540
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertParagraphBefore
 ms.assetid: 78d62099-fa2c-911d-690b-93a9ee4f58eb
+ms.date: 06/08/2017
 ---
 
 

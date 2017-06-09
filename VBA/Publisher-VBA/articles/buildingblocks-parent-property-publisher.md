@@ -1,9 +1,10 @@
 ---
 title: BuildingBlocks.Parent Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Parent
 ms.assetid: 86a04e61-5170-d4a6-373a-02a4ec1a01b6
+ms.date: 06/08/2017
 ---
 
 

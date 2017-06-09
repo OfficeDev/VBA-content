@@ -3,10 +3,11 @@ title: TextFrame.BreakForwardLink Method (Word)
 keywords: vbawd10.chm162665356
 f1_keywords:
 - vbawd10.chm162665356
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.BreakForwardLink
 ms.assetid: e72e07bf-cea3-3351-3fa8-aae9777babf6
+ms.date: 06/08/2017
 ---
 
 

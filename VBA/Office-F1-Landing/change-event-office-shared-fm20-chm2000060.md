@@ -3,8 +3,9 @@ title: Change Event, Office Shared [fm20.chm2000060]
 keywords: fm20.chm2000060
 f1_keywords:
 - fm20.chm2000060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5ab0a015-fc3e-412e-8547-4f39df2481e3
+ms.date: 06/08/2017
 ---
 
 

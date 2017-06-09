@@ -3,8 +3,9 @@ title: Enabled, EnterFieldBehavior, SelLength, SelStart, SelText Properties Exam
 keywords: fm20.chm5225191
 f1_keywords:
 - fm20.chm5225191
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a21ec28-9d7e-1b11-9eb9-58907020ba79
+ms.date: 06/08/2017
 ---
 
 

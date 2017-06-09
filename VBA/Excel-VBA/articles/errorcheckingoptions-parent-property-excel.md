@@ -3,10 +3,11 @@ title: ErrorCheckingOptions.Parent Property (Excel)
 keywords: vbaxl10.chm697075
 f1_keywords:
 - vbaxl10.chm697075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.Parent
 ms.assetid: 604897be-baec-313a-dbda-8b2a107ce4d6
+ms.date: 06/08/2017
 ---
 
 

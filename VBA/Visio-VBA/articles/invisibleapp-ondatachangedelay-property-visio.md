@@ -3,10 +3,11 @@ title: InvisibleApp.OnDataChangeDelay Property (Visio)
 keywords: vis_sdr.chm17513970
 f1_keywords:
 - vis_sdr.chm17513970
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.OnDataChangeDelay
 ms.assetid: 6fe13712-24c0-c4d9-df51-66699de776ab
+ms.date: 06/08/2017
 ---
 
 

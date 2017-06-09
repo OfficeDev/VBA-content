@@ -1,7 +1,8 @@
 ---
 title: Frame.BackColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 65b9ece4-bac7-dcb6-5f96-e321a11bfc94
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: OnEnter Property, Access [vbaac10.chm4086]
 keywords: vbaac10.chm4086
 f1_keywords:
 - vbaac10.chm4086
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8988dbbe-c572-4079-b0f8-c100bc1cf8c2
+ms.date: 06/08/2017
 ---
 
 

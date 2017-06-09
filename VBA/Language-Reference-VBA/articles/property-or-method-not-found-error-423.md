@@ -3,8 +3,9 @@ title: Property or method not found (Error 423)
 keywords: vblr6.chm1000423
 f1_keywords:
 - vblr6.chm1000423
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b8e03eb7-cafa-fcce-ac94-c13025f08b3d
+ms.date: 06/08/2017
 ---
 
 

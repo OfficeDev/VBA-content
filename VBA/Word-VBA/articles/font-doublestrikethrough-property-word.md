@@ -3,10 +3,11 @@ title: Font.DoubleStrikeThrough Property (Word)
 keywords: vbawd10.chm156369032
 f1_keywords:
 - vbawd10.chm156369032
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.DoubleStrikeThrough
 ms.assetid: 153d23c7-d5ee-4004-c540-ff23e263d9c5
+ms.date: 06/08/2017
 ---
 
 

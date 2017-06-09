@@ -3,10 +3,11 @@ title: Databar Object (Excel)
 keywords: vbaxl10.chm809072
 f1_keywords:
 - vbaxl10.chm809072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar
 ms.assetid: 2684e913-c278-e6be-ba9d-053b6ad58bae
+ms.date: 06/08/2017
 ---
 
 

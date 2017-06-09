@@ -3,10 +3,11 @@ title: Form.DatasheetBorderLineStyle Property (Access)
 keywords: vbaac10.chm13512
 f1_keywords:
 - vbaac10.chm13512
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetBorderLineStyle
 ms.assetid: 8a752955-97fe-933a-4130-62f63dbf6566
+ms.date: 06/08/2017
 ---
 
 

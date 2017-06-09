@@ -3,10 +3,11 @@ title: OptionGroup.DefaultValue Property (Access)
 keywords: vbaac10.chm10823
 f1_keywords:
 - vbaac10.chm10823
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.DefaultValue
 ms.assetid: cb19cb7b-033c-9e4d-6683-5296c306f47f
+ms.date: 06/08/2017
 ---
 
 

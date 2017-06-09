@@ -3,10 +3,11 @@ title: ChartGroup.ShowNegativeBubbles Property (Word)
 keywords: vbawd10.chm263454758
 f1_keywords:
 - vbawd10.chm263454758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.ShowNegativeBubbles
 ms.assetid: 6102a2dd-2ef8-2047-f14a-ca64e88a0565
+ms.date: 06/08/2017
 ---
 
 

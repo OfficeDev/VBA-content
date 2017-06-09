@@ -3,8 +3,9 @@ title: PaneActivate Event, Project [vbapj.chm131179]
 keywords: vbapj.chm131179
 f1_keywords:
 - vbapj.chm131179
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 21feab41-3124-4d6c-9d42-9b41aceeea4e
+ms.date: 06/08/2017
 ---
 
 

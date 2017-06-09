@@ -3,14 +3,15 @@ title: Cannot create database because the locale is invalid. (Error 3424)
 keywords: jeterr40.chm5003424
 f1_keywords:
 - jeterr40.chm5003424
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 37d17646-d2a1-2377-85ef-b4dcead342d2
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create database because the locale is invalid. (Error 3424)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Graphic.Brightness Property (Excel)
 keywords: vbaxl10.chm694073
 f1_keywords:
 - vbaxl10.chm694073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.Brightness
 ms.assetid: 42776335-6992-b37d-39a8-4a388b56da3e
+ms.date: 06/08/2017
 ---
 
 

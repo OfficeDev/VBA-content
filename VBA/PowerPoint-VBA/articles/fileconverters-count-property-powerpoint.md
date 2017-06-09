@@ -1,9 +1,10 @@
 ---
 title: FileConverters.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverters.Count
 ms.assetid: b3d80b25-7ff5-c47b-4aec-f2b94b63e5e1
+ms.date: 06/08/2017
 ---
 
 

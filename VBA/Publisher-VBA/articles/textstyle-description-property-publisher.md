@@ -3,10 +3,11 @@ title: TextStyle.Description Property (Publisher)
 keywords: vbapb10.chm5963779
 f1_keywords:
 - vbapb10.chm5963779
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyle.Description
 ms.assetid: 278d647e-c4bc-218c-417d-b01caf2d98a3
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SimpleItems.Application Property (Outlook)
 keywords: vbaol11.chm3393
 f1_keywords:
 - vbaol11.chm3393
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SimpleItems.Application
 ms.assetid: f97f64ff-24d8-c72b-cde1-146155b29909
+ms.date: 06/08/2017
 ---
 
 

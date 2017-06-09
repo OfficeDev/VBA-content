@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.PageAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PageAdded
 ms.assetid: e3a27500-16c3-f0d5-be44-9389b7bd3055
+ms.date: 06/08/2017
 ---
 
 

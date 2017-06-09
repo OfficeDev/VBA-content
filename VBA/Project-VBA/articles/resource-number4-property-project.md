@@ -1,9 +1,10 @@
 ---
 title: Resource.Number4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Number4
 ms.assetid: 4b8caeb2-34da-83b7-2f9d-b8dc204fe13e
+ms.date: 06/08/2017
 ---
 
 

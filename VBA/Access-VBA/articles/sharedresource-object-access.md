@@ -3,10 +3,11 @@ title: SharedResource Object (Access)
 keywords: vbaac10.chm14654
 f1_keywords:
 - vbaac10.chm14654
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SharedResource
 ms.assetid: a97163fa-f833-ed1c-aea5-1a7bab783eba
+ms.date: 06/08/2017
 ---
 
 

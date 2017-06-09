@@ -3,10 +3,11 @@ title: IconSetCondition.Application Property (Excel)
 keywords: vbaxl10.chm811073
 f1_keywords:
 - vbaxl10.chm811073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.Application
 ms.assetid: a61b039d-9b67-994b-4e00-f7b8a34a63e1
+ms.date: 06/08/2017
 ---
 
 

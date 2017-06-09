@@ -3,10 +3,11 @@ title: MenuSets.Add Method (Visio)
 keywords: vis_sdr.chm13416005
 f1_keywords:
 - vis_sdr.chm13416005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSets.Add
 ms.assetid: e51bd73d-cd1b-39e2-83dd-df6ce6a1d14a
+ms.date: 06/08/2017
 ---
 
 

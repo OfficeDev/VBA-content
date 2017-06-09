@@ -3,10 +3,11 @@ title: Options.Parent Property (Word)
 keywords: vbawd10.chm162989034
 f1_keywords:
 - vbawd10.chm162989034
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.Parent
 ms.assetid: 8a449307-927c-289b-7602-e1def5f2c067
+ms.date: 06/08/2017
 ---
 
 

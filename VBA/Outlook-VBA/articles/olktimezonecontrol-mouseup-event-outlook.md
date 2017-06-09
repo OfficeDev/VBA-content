@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000520
 f1_keywords:
 - vbaol11.chm1000520
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.MouseUp
 ms.assetid: 93dc1208-11c6-5afc-27d0-ca02a5ddcbe6
+ms.date: 06/08/2017
 ---
 
 

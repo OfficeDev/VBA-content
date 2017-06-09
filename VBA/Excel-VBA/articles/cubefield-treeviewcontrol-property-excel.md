@@ -3,10 +3,11 @@ title: CubeField.TreeviewControl Property (Excel)
 keywords: vbaxl10.chm668079
 f1_keywords:
 - vbaxl10.chm668079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.TreeviewControl
 ms.assetid: 54f44b41-cde8-aa06-af98-c7d79fc85c12
+ms.date: 06/08/2017
 ---
 
 

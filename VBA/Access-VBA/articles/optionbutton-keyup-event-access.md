@@ -3,10 +3,11 @@ title: OptionButton.KeyUp Event (Access)
 keywords: vbaac10.chm14146
 f1_keywords:
 - vbaac10.chm14146
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.KeyUp
 ms.assetid: 5685c274-19a0-2d29-f968-50412ebd1d9b
+ms.date: 06/08/2017
 ---
 
 

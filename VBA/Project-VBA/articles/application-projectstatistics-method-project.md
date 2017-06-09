@@ -3,10 +3,11 @@ title: Application.ProjectStatistics Method (Project)
 keywords: vbapj.chm602
 f1_keywords:
 - vbapj.chm602
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectStatistics
 ms.assetid: aa3cbba5-5c06-7daf-0b07-035faf72015d
+ms.date: 06/08/2017
 ---
 
 

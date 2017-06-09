@@ -1,9 +1,10 @@
 ---
 title: Legend.Top Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Top
 ms.assetid: c5b00b1e-4e51-b172-0a0a-d6384114a9ec
+ms.date: 06/08/2017
 ---
 
 

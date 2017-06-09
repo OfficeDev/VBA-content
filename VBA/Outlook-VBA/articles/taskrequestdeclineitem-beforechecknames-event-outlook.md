@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeCheckNames
 ms.assetid: dd8b01bc-1368-b0ef-d0eb-b6bc955cf98f
+ms.date: 06/08/2017
 ---
 
 

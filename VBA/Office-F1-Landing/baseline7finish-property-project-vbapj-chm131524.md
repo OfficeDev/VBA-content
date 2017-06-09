@@ -3,8 +3,9 @@ title: Baseline7Finish Property, Project [vbapj.chm131524]
 keywords: vbapj.chm131524
 f1_keywords:
 - vbapj.chm131524
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e30b1c8-88c7-4caa-b606-43c65118fc6a
+ms.date: 06/08/2017
 ---
 
 

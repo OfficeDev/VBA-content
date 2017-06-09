@@ -3,10 +3,11 @@ title: Hyperlinks.Add Method (Excel)
 keywords: vbaxl10.chm534073
 f1_keywords:
 - vbaxl10.chm534073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlinks.Add
 ms.assetid: 6b1299b1-c204-f0f1-c328-768c8efdb0cd
+ms.date: 06/08/2017
 ---
 
 

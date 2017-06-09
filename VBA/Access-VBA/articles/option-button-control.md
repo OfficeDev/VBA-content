@@ -3,14 +3,15 @@ title: Option Button Control
 keywords: vbaac10.chm5186558
 f1_keywords:
 - vbaac10.chm5186558
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b57e3a3f-450c-65a0-c076-96d9e047c22d
+ms.date: 06/08/2017
 ---
 
 
 # Option Button Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: TextBox.RightPadding Property (Access)
 keywords: vbaac10.chm11154
 f1_keywords:
 - vbaac10.chm11154
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.RightPadding
 ms.assetid: 7f9e2e21-1e36-01c1-f4e7-b3373644f9e5
+ms.date: 06/08/2017
 ---
 
 

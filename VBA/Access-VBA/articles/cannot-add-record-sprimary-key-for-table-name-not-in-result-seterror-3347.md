@@ -3,14 +3,15 @@ title: Cannot add record(s); primary key for table <name> not in result set. (Er
 keywords: jeterr40.chm5003347
 f1_keywords:
 - jeterr40.chm5003347
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 91af8a8b-bd8d-11e2-0423-4aa8542cc2a7
+ms.date: 06/08/2017
 ---
 
 
 # Cannot add record(s); primary key for table <name> not in result set. (Error 3347)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

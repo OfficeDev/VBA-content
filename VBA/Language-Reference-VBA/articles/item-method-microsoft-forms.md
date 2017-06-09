@@ -3,8 +3,9 @@ title: Item Method (Microsoft Forms)
 keywords: fm20.chm5224962
 f1_keywords:
 - fm20.chm5224962
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6b50b145-7598-157d-111c-5ba9234520bd
+ms.date: 06/08/2017
 ---
 
 

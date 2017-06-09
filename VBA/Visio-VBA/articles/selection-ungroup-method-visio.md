@@ -3,10 +3,11 @@ title: Selection.Ungroup Method (Visio)
 keywords: vis_sdr.chm11116625
 f1_keywords:
 - vis_sdr.chm11116625
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Ungroup
 ms.assetid: b9f14342-e885-1399-83ed-59189f5cbec3
+ms.date: 06/08/2017
 ---
 
 

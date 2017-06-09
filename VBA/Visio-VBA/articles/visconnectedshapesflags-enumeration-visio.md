@@ -3,10 +3,11 @@ title: VisConnectedShapesFlags Enumeration (Visio)
 keywords: vis_sdr.chm70575
 f1_keywords:
 - vis_sdr.chm70575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisConnectedShapesFlags
 ms.assetid: 00cf06f7-8161-8b56-9f3f-bed817789895
+ms.date: 06/08/2017
 ---
 
 

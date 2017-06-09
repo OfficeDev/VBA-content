@@ -3,10 +3,11 @@ title: Columns.Parent Property (Publisher)
 keywords: vbapb10.chm5046275
 f1_keywords:
 - vbapb10.chm5046275
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Columns.Parent
 ms.assetid: 735fc7b8-ca76-0573-d1fa-2b5dff156f6e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: MarkerIndex Cell (Annotation Section), Visio [Vis_DSS.chm1028737]
 keywords: vis_dss.chm1028737
 f1_keywords:
 - vis_dss.chm1028737
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 77f5025a-b754-45b6-a2fe-89586783b46f
+ms.date: 06/08/2017
 ---
 
 

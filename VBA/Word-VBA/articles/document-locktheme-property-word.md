@@ -3,10 +3,11 @@ title: Document.LockTheme Property (Word)
 keywords: vbawd10.chm158007813
 f1_keywords:
 - vbawd10.chm158007813
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.LockTheme
 ms.assetid: 7027bf16-3398-e232-8e61-bf4a0c10806e
+ms.date: 06/08/2017
 ---
 
 

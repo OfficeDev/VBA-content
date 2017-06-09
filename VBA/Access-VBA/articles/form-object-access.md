@@ -3,10 +3,11 @@ title: Form Object (Access)
 keywords: vbaac10.chm13686
 f1_keywords:
 - vbaac10.chm13686
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form
 ms.assetid: 72ef9219-142b-b690-b696-3eba9a5d4522
+ms.date: 06/08/2017
 ---
 
 

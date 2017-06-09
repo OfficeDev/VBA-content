@@ -3,10 +3,11 @@ title: SharedWorkspace.Folders Property (Office)
 keywords: vbaof11.chm276005
 f1_keywords:
 - vbaof11.chm276005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.Folders
 ms.assetid: aaba6357-fff5-f3d2-e7d7-6453183864e3
+ms.date: 06/08/2017
 ---
 
 

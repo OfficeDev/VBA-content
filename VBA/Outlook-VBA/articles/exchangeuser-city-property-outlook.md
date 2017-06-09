@@ -3,10 +3,11 @@ title: ExchangeUser.City Property (Outlook)
 keywords: vbaol11.chm2088
 f1_keywords:
 - vbaol11.chm2088
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.City
 ms.assetid: fcec3330-39fb-61e9-e447-4adca0146171
+ms.date: 06/08/2017
 ---
 
 

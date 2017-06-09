@@ -3,8 +3,9 @@ title: The edit may make the object module incompatible with the previously spec
 keywords: vblr6.chm1057018
 f1_keywords:
 - vblr6.chm1057018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bff59932-99b4-4b47-8a15-5b22165dc72d
+ms.date: 06/08/2017
 ---
 
 

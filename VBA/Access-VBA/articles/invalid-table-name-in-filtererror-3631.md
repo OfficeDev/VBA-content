@@ -1,13 +1,14 @@
 ---
 title: Invalid table name in filter. (Error 3631)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a85bd4b1-43fb-f909-d5e5-e5bfd2300f4a
+ms.date: 06/08/2017
 ---
 
 
 # Invalid table name in filter. (Error 3631)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

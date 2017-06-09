@@ -3,10 +3,11 @@ title: MeetingItem.Send Method (Outlook)
 keywords: vbaol11.chm1458
 f1_keywords:
 - vbaol11.chm1458
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Send
 ms.assetid: d9a6ea8c-2146-06ec-aa8b-6e39fd60a916
+ms.date: 06/08/2017
 ---
 
 

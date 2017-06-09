@@ -3,10 +3,11 @@ title: WebBrowserControl.MouseDown Event (Access)
 keywords: vbaac10.chm143134
 f1_keywords:
 - vbaac10.chm143134
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.MouseDown
 ms.assetid: c2679ba7-9f81-da1e-93ec-5232bb2c5111
+ms.date: 06/08/2017
 ---
 
 

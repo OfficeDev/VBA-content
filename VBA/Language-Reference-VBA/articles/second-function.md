@@ -3,8 +3,9 @@ title: Second Function
 keywords: vblr6.chm1009011
 f1_keywords:
 - vblr6.chm1009011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fef87486-ccda-23e7-04a5-5e484ce66543
+ms.date: 06/08/2017
 ---
 
 

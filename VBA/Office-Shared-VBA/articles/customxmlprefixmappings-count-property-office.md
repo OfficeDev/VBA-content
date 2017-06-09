@@ -3,10 +3,11 @@ title: CustomXMLPrefixMappings.Count Property (Office)
 keywords: vbaof11.chm290002
 f1_keywords:
 - vbaof11.chm290002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.Count
 ms.assetid: 839b7b02-71d3-17a5-59c0-7e6465c64fe6
+ms.date: 06/08/2017
 ---
 
 

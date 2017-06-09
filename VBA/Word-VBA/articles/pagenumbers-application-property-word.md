@@ -3,10 +3,11 @@ title: PageNumbers.Application Property (Word)
 keywords: vbawd10.chm159777768
 f1_keywords:
 - vbawd10.chm159777768
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.Application
 ms.assetid: 38bed1b5-4f4d-f14b-c88e-dbbdb2ebba46
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TickLabels.Name Property (Word)
 keywords: vbawd10.chm167051267
 f1_keywords:
 - vbawd10.chm167051267
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.Name
 ms.assetid: 3b08a584-e6d1-848e-b507-575615b1e996
+ms.date: 06/08/2017
 ---
 
 

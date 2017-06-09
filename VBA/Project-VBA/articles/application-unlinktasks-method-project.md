@@ -3,10 +3,11 @@ title: Application.UnlinkTasks Method (Project)
 keywords: vbapj.chm211
 f1_keywords:
 - vbapj.chm211
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UnlinkTasks
 ms.assetid: 76fefb0b-c137-ac6f-a95e-7950803d561f
+ms.date: 06/08/2017
 ---
 
 

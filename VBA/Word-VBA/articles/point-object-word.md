@@ -3,10 +3,11 @@ title: Point Object (Word)
 keywords: vbawd10.chm4000
 f1_keywords:
 - vbawd10.chm4000
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point
 ms.assetid: 349ea9a3-9e9a-b26f-146f-799d39c3d4a9
+ms.date: 06/08/2017
 ---
 
 

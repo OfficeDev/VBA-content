@@ -3,10 +3,11 @@ title: Worksheet.EnableOutlining Property (Excel)
 keywords: vbaxl10.chm175096
 f1_keywords:
 - vbaxl10.chm175096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.EnableOutlining
 ms.assetid: db849ddf-871d-19cd-9765-3194a8c1e34e
+ms.date: 06/08/2017
 ---
 
 

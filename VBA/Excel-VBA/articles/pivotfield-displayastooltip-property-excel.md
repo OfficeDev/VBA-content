@@ -3,10 +3,11 @@ title: PivotField.DisplayAsTooltip Property (Excel)
 keywords: vbaxl10.chm240141
 f1_keywords:
 - vbaxl10.chm240141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DisplayAsTooltip
 ms.assetid: 48e18a23-8e8c-828f-2522-71910dc54e2c
+ms.date: 06/08/2017
 ---
 
 

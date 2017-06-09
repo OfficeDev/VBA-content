@@ -3,10 +3,11 @@ title: ProtectedViewWindow.WindowState Property (Excel)
 keywords: vbaxl10.chm914083
 f1_keywords:
 - vbaxl10.chm914083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.WindowState
 ms.assetid: 9fd61fb6-1804-7eba-d1e3-a42b8500a52e
+ms.date: 06/08/2017
 ---
 
 

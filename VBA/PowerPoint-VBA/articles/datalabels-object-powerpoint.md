@@ -3,10 +3,11 @@ title: DataLabels Object (PowerPoint)
 keywords: vbapp10.chm697000
 f1_keywords:
 - vbapp10.chm697000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels
 ms.assetid: a0d0b0ec-6a12-9a5c-1026-1e1d85e488fa
+ms.date: 06/08/2017
 ---
 
 

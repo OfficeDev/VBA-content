@@ -3,10 +3,11 @@ title: Recipient.Class Property (Outlook)
 keywords: vbaol11.chm2341
 f1_keywords:
 - vbaol11.chm2341
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Class
 ms.assetid: 1e6aa19a-16ee-7835-c2fb-f5523e8614c4
+ms.date: 06/08/2017
 ---
 
 

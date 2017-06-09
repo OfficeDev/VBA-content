@@ -3,8 +3,9 @@ title: KeyUp Event, Access [vbaac10.chm12136]
 keywords: vbaac10.chm12136
 f1_keywords:
 - vbaac10.chm12136
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f9b41683-b011-4496-9ba8-1c52eed754b6
+ms.date: 06/08/2017
 ---
 
 

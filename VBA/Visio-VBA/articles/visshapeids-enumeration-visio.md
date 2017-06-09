@@ -3,8 +3,9 @@ title: VisShapeIDs Enumeration (Visio)
 keywords: vis_sdr.chm70015
 f1_keywords:
 - vis_sdr.chm70015
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 4646cd9e-2ddd-02dd-ebae-d449a448fe7b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: LockMoveX Cell (Protection Section), Visio [Vis_DSS.chm82251216]
 keywords: vis_dss.chm82251216
 f1_keywords:
 - vis_dss.chm82251216
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9a813713-77cd-4f9b-8068-019cb817c433
+ms.date: 06/08/2017
 ---
 
 

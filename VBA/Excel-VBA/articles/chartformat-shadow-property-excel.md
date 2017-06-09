@@ -3,10 +3,11 @@ title: ChartFormat.Shadow Property (Excel)
 keywords: vbaxl10.chm861077
 f1_keywords:
 - vbaxl10.chm861077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFormat.Shadow
 ms.assetid: d6bc060f-f9d7-9b07-e1c3-5218aa4e7511
+ms.date: 06/08/2017
 ---
 
 

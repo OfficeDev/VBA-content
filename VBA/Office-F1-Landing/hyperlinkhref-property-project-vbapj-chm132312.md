@@ -3,8 +3,9 @@ title: HyperlinkHREF Property, Project [vbapj.chm132312]
 keywords: vbapj.chm132312
 f1_keywords:
 - vbapj.chm132312
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b2f65d1d-a492-4ec3-a6c5-8d1da1a80c6d
+ms.date: 06/08/2017
 ---
 
 

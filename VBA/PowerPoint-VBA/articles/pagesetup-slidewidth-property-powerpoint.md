@@ -3,10 +3,11 @@ title: PageSetup.SlideWidth Property (PowerPoint)
 keywords: vbapp10.chm527005
 f1_keywords:
 - vbapp10.chm527005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.SlideWidth
 ms.assetid: 671d3962-a4d0-fcca-009e-784abaedbd8f
+ms.date: 06/08/2017
 ---
 
 

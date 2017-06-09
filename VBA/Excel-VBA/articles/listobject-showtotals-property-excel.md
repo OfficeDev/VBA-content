@@ -3,10 +3,11 @@ title: ListObject.ShowTotals Property (Excel)
 keywords: vbaxl10.chm734092
 f1_keywords:
 - vbaxl10.chm734092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTotals
 ms.assetid: 99a86f33-d718-98df-9869-76d52ddab0bb
+ms.date: 06/08/2017
 ---
 
 

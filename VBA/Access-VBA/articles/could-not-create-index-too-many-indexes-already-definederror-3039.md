@@ -3,14 +3,15 @@ title: Could not create index; too many indexes already defined. (Error 3039)
 keywords: jeterr40.chm5003039
 f1_keywords:
 - jeterr40.chm5003039
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2ae19c5b-bce9-0cea-c7f8-7112309667da
+ms.date: 06/08/2017
 ---
 
 
 # Could not create index; too many indexes already defined. (Error 3039)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

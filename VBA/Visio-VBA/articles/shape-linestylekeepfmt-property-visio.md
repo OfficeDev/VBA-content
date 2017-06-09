@@ -3,10 +3,11 @@ title: Shape.LineStyleKeepFmt Property (Visio)
 keywords: vis_sdr.chm11213850
 f1_keywords:
 - vis_sdr.chm11213850
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.LineStyleKeepFmt
 ms.assetid: 4dd4ee1e-5201-1602-39f1-bcda85f96bd0
+ms.date: 06/08/2017
 ---
 
 

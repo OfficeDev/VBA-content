@@ -3,10 +3,11 @@ title: Characters Object (Visio)
 keywords: vis_sdr.chm10050
 f1_keywords:
 - vis_sdr.chm10050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters
 ms.assetid: aaff009b-c665-c2ea-8494-e917126d8491
+ms.date: 06/08/2017
 ---
 
 

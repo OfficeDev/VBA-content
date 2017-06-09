@@ -1,7 +1,8 @@
 ---
 title: ToggleButton.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a123389c-3bf4-843f-763c-76e8fff18c6c
+ms.date: 06/08/2017
 ---
 
 

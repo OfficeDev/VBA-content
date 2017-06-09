@@ -1,7 +1,8 @@
 ---
 title: Access Forms How Do I...
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 42a7ed77-e7cc-d945-00b2-9c10a3392223
+ms.date: 06/08/2017
 ---
 
 

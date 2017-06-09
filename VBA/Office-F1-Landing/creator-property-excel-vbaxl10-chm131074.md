@@ -3,8 +3,9 @@ title: Creator Property, Excel [vbaxl10.chm131074]
 keywords: vbaxl10.chm131074
 f1_keywords:
 - vbaxl10.chm131074
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 611c271d-a547-4fad-b828-af8661d1419c
+ms.date: 06/08/2017
 ---
 
 

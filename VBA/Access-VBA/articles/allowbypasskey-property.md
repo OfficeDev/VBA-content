@@ -3,16 +3,17 @@ title: AllowBypassKey Property
 keywords: vbaac10.chm10101
 f1_keywords:
 - vbaac10.chm10101
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllowBypassKey
 ms.assetid: fa693699-f96b-b287-5248-828e9be1bbbe
+ms.date: 06/08/2017
 ---
 
 
 # AllowBypassKey Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

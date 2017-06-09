@@ -3,10 +3,11 @@ title: QueryTable.FillAdjacentFormulas Property (Excel)
 keywords: vbaxl10.chm518076
 f1_keywords:
 - vbaxl10.chm518076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.FillAdjacentFormulas
 ms.assetid: 513a9218-a0b9-2bf6-ebac-1d9e7bb594df
+ms.date: 06/08/2017
 ---
 
 

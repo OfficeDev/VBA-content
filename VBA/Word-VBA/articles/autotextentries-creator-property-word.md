@@ -3,10 +3,11 @@ title: AutoTextEntries.Creator Property (Word)
 keywords: vbawd10.chm154600425
 f1_keywords:
 - vbawd10.chm154600425
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntries.Creator
 ms.assetid: 0496ecb3-8797-32c4-62b2-aadfa5900898
+ms.date: 06/08/2017
 ---
 
 

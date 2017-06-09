@@ -3,10 +3,11 @@ title: Selection.TextRange Property (Publisher)
 keywords: vbapb10.chm851974
 f1_keywords:
 - vbapb10.chm851974
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Selection.TextRange
 ms.assetid: 7de96171-630a-40ae-9e21-92d681601cf2
+ms.date: 06/08/2017
 ---
 
 

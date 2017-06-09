@@ -1,7 +1,8 @@
 ---
 title: Page.AfterReplaceShapes Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: e4005987-acb1-78d7-91fb-c3c2d5b036e3
+ms.date: 06/08/2017
 ---
 
 

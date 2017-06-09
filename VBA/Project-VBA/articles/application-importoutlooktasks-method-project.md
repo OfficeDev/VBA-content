@@ -3,10 +3,11 @@ title: Application.ImportOutlookTasks Method (Project)
 keywords: vbapj.chm2121
 f1_keywords:
 - vbapj.chm2121
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ImportOutlookTasks
 ms.assetid: 74764d22-eb1b-d7ac-fd63-2151f03e85dc
+ms.date: 06/08/2017
 ---
 
 

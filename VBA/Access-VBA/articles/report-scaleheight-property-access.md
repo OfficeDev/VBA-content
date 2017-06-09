@@ -3,10 +3,11 @@ title: Report.ScaleHeight Property (Access)
 keywords: vbaac10.chm13743
 f1_keywords:
 - vbaac10.chm13743
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ScaleHeight
 ms.assetid: b150ece7-b285-669f-8677-f28d6899454b
+ms.date: 06/08/2017
 ---
 
 

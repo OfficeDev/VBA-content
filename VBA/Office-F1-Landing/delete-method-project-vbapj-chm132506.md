@@ -3,8 +3,9 @@ title: Delete Method, Project [vbapj.chm132506]
 keywords: vbapj.chm132506
 f1_keywords:
 - vbapj.chm132506
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2623a17b-0061-4e1b-83c2-0968307d1644
+ms.date: 06/08/2017
 ---
 
 

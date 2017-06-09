@@ -3,10 +3,11 @@ title: Folder Object (Outlook)
 keywords: vbaol11.chm3020
 f1_keywords:
 - vbaol11.chm3020
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder
 ms.assetid: 3cf6cda8-6d70-666e-2643-9d9c5b9cacfc
+ms.date: 06/08/2017
 ---
 
 

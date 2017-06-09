@@ -3,8 +3,9 @@ title: Item Method, Word [vbawd10.chm156958720]
 keywords: vbawd10.chm156958720
 f1_keywords:
 - vbawd10.chm156958720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1240f17d-a32e-44af-8fb8-c2eb755d25a6
+ms.date: 06/08/2017
 ---
 
 

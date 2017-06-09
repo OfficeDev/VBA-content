@@ -3,8 +3,9 @@ title: Unable to create embedded object (Error 31032), Office Shared [vblr6.chm3
 keywords: vblr6.chm31032
 f1_keywords:
 - vblr6.chm31032
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62982a11-5751-4fde-8175-544d58842aa9
+ms.date: 06/08/2017
 ---
 
 

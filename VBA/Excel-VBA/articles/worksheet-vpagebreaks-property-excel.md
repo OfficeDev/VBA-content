@@ -3,10 +3,11 @@ title: Worksheet.VPageBreaks Property (Excel)
 keywords: vbaxl10.chm175136
 f1_keywords:
 - vbaxl10.chm175136
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.VPageBreaks
 ms.assetid: 2a8d5c77-a609-4995-7216-de71295eda9a
+ms.date: 06/08/2017
 ---
 
 

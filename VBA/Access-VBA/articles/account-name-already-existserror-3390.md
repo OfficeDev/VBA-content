@@ -3,14 +3,14 @@ title: Account name already exists. (Error 3390)
 keywords: jeterr40.chm5003390
 f1_keywords:
 - jeterr40.chm5003390
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6dfb2f67-e61f-8685-f711-d8f342c8e6a6
+ms.date: 06/08/2017
 ---
 
 
 # Account name already exists. (Error 3390)
 
- **Last modified:** December 30, 2015
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: AutoTextEntry Object (Word)
 keywords: vbawd10.chm2358
 f1_keywords:
 - vbawd10.chm2358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntry
 ms.assetid: 37a2cf05-ae07-d411-9bd8-ab4726b303a9
+ms.date: 06/08/2017
 ---
 
 

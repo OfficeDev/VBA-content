@@ -3,8 +3,9 @@ title: OnLoad Property, Access [vbaac10.chm4096]
 keywords: vbaac10.chm4096
 f1_keywords:
 - vbaac10.chm4096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a07edeef-1179-4377-9181-65a73e5907f3
+ms.date: 06/08/2017
 ---
 
 

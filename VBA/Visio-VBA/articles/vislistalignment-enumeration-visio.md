@@ -3,10 +3,11 @@ title: VisListAlignment Enumeration (Visio)
 keywords: vis_sdr.chm70600
 f1_keywords:
 - vis_sdr.chm70600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisListAlignment
 ms.assetid: 1ff20524-dee8-659b-c56a-468b5b45e34e
+ms.date: 06/08/2017
 ---
 
 

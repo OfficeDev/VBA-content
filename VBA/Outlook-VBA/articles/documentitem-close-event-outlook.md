@@ -1,9 +1,10 @@
 ---
 title: DocumentItem.Close Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Close
 ms.assetid: 13aecc0c-9e71-7e47-147a-0af020c857bd
+ms.date: 06/08/2017
 ---
 
 

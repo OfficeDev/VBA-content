@@ -3,10 +3,11 @@ title: Image.Left Property (Access)
 keywords: vbaac10.chm10376
 f1_keywords:
 - vbaac10.chm10376
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Left
 ms.assetid: 76fac9f3-aead-6824-cba3-9246c397148c
+ms.date: 06/08/2017
 ---
 
 

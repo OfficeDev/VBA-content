@@ -3,8 +3,9 @@ title: Invalid ReDim, Office Shared [vblr6.chm1040149]
 keywords: vblr6.chm1040149
 f1_keywords:
 - vblr6.chm1040149
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b855fad0-87fa-4bfd-8350-70740ea034fa
+ms.date: 06/08/2017
 ---
 
 

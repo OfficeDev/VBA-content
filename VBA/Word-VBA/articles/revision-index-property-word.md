@@ -3,10 +3,11 @@ title: Revision.Index Property (Word)
 keywords: vbawd10.chm159449093
 f1_keywords:
 - vbawd10.chm159449093
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.Index
 ms.assetid: decc6b22-7cf0-1f9d-0cf3-0615dd58b3fd
+ms.date: 06/08/2017
 ---
 
 

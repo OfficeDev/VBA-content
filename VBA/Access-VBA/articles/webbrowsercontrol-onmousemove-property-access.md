@@ -3,10 +3,11 @@ title: WebBrowserControl.OnMouseMove Property (Access)
 keywords: vbaac10.chm14381
 f1_keywords:
 - vbaac10.chm14381
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnMouseMove
 ms.assetid: a78fede1-fa73-9a8d-60c7-a79709b12008
+ms.date: 06/08/2017
 ---
 
 

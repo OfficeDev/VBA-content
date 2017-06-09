@@ -3,14 +3,15 @@ title: Syntax error in FROM clause. (Error 3131)
 keywords: jeterr40.chm5003131
 f1_keywords:
 - jeterr40.chm5003131
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3a3fd9e2-af92-1356-4776-f1390db487ef
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in FROM clause. (Error 3131)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

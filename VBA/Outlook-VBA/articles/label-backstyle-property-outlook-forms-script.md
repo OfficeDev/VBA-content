@@ -1,7 +1,8 @@
 ---
 title: Label.BackStyle Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f7f4ce30-cb56-4c64-c088-518a49b0df5d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Baseline4FinishText Property, Project [vbapj.chm131480]
 keywords: vbapj.chm131480
 f1_keywords:
 - vbapj.chm131480
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6a4a3a2-52b1-4cda-bdd9-161b9d75a933
+ms.date: 06/08/2017
 ---
 
 

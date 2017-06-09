@@ -3,10 +3,11 @@ title: PageSetup.LinesPage Property (Word)
 keywords: vbawd10.chm158400636
 f1_keywords:
 - vbawd10.chm158400636
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.LinesPage
 ms.assetid: e063f2e4-d7de-48b4-15b0-db75ca9fb6e4
+ms.date: 06/08/2017
 ---
 
 

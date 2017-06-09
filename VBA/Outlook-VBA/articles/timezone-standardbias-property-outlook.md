@@ -3,10 +3,11 @@ title: TimeZone.StandardBias Property (Outlook)
 keywords: vbaol11.chm3286
 f1_keywords:
 - vbaol11.chm3286
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.StandardBias
 ms.assetid: 0400a70c-4a53-417d-8d6e-c0271b4c1dcb
+ms.date: 06/08/2017
 ---
 
 

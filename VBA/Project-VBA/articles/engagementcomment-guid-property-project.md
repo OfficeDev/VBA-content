@@ -1,6 +1,8 @@
 ---
 title: EngagementComment.Guid Property (Project)
 ms.assetid: d36b982b-bf3a-cdfe-d910-f1cd2bdab769
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

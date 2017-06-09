@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetExtrusionDirection Property (Excel)
 keywords: vbaxl10.chm119009
 f1_keywords:
 - vbaxl10.chm119009
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: 61f75976-03d4-b449-31e3-e0c7839cce92
+ms.date: 06/08/2017
 ---
 
 

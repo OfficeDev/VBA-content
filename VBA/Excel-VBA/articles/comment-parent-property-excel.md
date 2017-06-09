@@ -3,10 +3,11 @@ title: Comment.Parent Property (Excel)
 keywords: vbaxl10.chm515075
 f1_keywords:
 - vbaxl10.chm515075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment.Parent
 ms.assetid: c533a5f3-06ea-5af8-c46a-20cb6661384f
+ms.date: 06/08/2017
 ---
 
 

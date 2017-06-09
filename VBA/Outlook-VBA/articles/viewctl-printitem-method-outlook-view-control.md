@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.PrintItem Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8f2ffa4d-cee8-c055-0021-612b048ba5b9
+ms.date: 06/08/2017
 ---
 
 

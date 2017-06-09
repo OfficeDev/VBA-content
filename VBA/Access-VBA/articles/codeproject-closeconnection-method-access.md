@@ -3,10 +3,11 @@ title: CodeProject.CloseConnection Method (Access)
 keywords: vbaac10.chm12716
 f1_keywords:
 - vbaac10.chm12716
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.CloseConnection
 ms.assetid: 850a09c8-45a8-26e4-79f5-e688599a990a
+ms.date: 06/08/2017
 ---
 
 

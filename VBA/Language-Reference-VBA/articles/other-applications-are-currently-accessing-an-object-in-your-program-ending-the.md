@@ -3,8 +3,9 @@ title: Other applications are currently accessing an object in your program. End
 keywords: vblr6.chm60069
 f1_keywords:
 - vblr6.chm60069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b3ce68b0-8e8c-2aa5-c91a-ca99f718130b
+ms.date: 06/08/2017
 ---
 
 

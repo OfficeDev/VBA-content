@@ -3,10 +3,11 @@ title: ObjectFrame.ObjectVerbs Property (Access)
 keywords: vbaac10.chm11551
 f1_keywords:
 - vbaac10.chm11551
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.ObjectVerbs
 ms.assetid: e0e2c596-7276-3626-1ce4-ec5502bec02c
+ms.date: 06/08/2017
 ---
 
 

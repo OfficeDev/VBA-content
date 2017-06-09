@@ -1,7 +1,8 @@
 ---
 title: Manipulating Controls Programmatically
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
+ms.date: 06/08/2017
 ---
 
 

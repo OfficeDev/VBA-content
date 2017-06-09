@@ -3,10 +3,11 @@ title: InlineShape.Script Property (Word)
 keywords: vbawd10.chm162005114
 f1_keywords:
 - vbawd10.chm162005114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Script
 ms.assetid: 91962d95-8704-5ca2-4619-6842e41e8777
+ms.date: 06/08/2017
 ---
 
 

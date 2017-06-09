@@ -3,10 +3,11 @@ title: ObjectFrame.OnClick Property (Access)
 keywords: vbaac10.chm11619
 f1_keywords:
 - vbaac10.chm11619
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnClick
 ms.assetid: 521e9685-317b-aafc-3ef2-bfd0d04dd3d0
+ms.date: 06/08/2017
 ---
 
 

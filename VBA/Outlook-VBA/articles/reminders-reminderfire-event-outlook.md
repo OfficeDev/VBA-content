@@ -3,10 +3,11 @@ title: Reminders.ReminderFire Event (Outlook)
 keywords: vbaol11.chm578
 f1_keywords:
 - vbaol11.chm578
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminders.ReminderFire
 ms.assetid: 73a3f825-8aef-95b8-00c5-74e19daed84a
+ms.date: 06/08/2017
 ---
 
 

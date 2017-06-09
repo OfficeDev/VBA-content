@@ -3,10 +3,11 @@ title: ContactItem.Size Property (Outlook)
 keywords: vbaol11.chm952
 f1_keywords:
 - vbaol11.chm952
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Size
 ms.assetid: 34f42cff-f7be-815b-6165-c9e58b586e4a
+ms.date: 06/08/2017
 ---
 
 

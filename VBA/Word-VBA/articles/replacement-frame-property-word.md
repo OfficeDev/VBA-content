@@ -3,10 +3,11 @@ title: Replacement.Frame Property (Word)
 keywords: vbawd10.chm162594834
 f1_keywords:
 - vbawd10.chm162594834
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.Frame
 ms.assetid: 70c7da24-effd-7db8-f3be-e866577eb88a
+ms.date: 06/08/2017
 ---
 
 

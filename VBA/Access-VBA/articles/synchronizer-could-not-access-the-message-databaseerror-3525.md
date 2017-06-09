@@ -3,14 +3,15 @@ title: Synchronizer could not access the message database. (Error 3525)
 keywords: jeterr40.chm5003525
 f1_keywords:
 - jeterr40.chm5003525
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fd590193-af7a-d3e9-25ed-2f9d106536fe
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizer could not access the message database. (Error 3525)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

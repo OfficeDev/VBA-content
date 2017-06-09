@@ -3,10 +3,11 @@ title: Label.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BorderShade
 ms.assetid: 6343e6d8-2045-f72a-24ea-0952e20c49a7
+ms.date: 06/08/2017
 ---
 
 

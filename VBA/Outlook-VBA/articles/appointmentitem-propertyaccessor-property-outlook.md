@@ -3,10 +3,11 @@ title: AppointmentItem.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm922
 f1_keywords:
 - vbaol11.chm922
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.PropertyAccessor
 ms.assetid: 096e33b6-cb70-765c-c469-955ae7c7d840
+ms.date: 06/08/2017
 ---
 
 

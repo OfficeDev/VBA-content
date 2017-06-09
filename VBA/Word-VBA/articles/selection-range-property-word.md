@@ -3,10 +3,11 @@ title: Selection.Range Property (Word)
 keywords: vbawd10.chm158663056
 f1_keywords:
 - vbawd10.chm158663056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Range
 ms.assetid: 10161d3b-0fa9-209e-a120-be690746ccfc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: BoundObjectFrame.AutoActivate Property (Access)
 keywords: vbaac10.chm10915
 f1_keywords:
 - vbaac10.chm10915
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.AutoActivate
 ms.assetid: 162dcc86-818c-dc84-48cd-97fbfb85b77c
+ms.date: 06/08/2017
 ---
 
 

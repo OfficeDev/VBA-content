@@ -3,10 +3,11 @@ title: Application.FontEx Method (Project)
 keywords: vbapj.chm937
 f1_keywords:
 - vbapj.chm937
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FontEx
 ms.assetid: 4904d4b1-dacb-8020-0c4e-3af0503c68ba
+ms.date: 06/08/2017
 ---
 
 

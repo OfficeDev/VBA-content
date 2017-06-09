@@ -3,10 +3,11 @@ title: Label.BorderStyle Property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BorderStyle
 ms.assetid: 5dba0d04-3367-e34a-1a47-cd8312827667
+ms.date: 06/08/2017
 ---
 
 

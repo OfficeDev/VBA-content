@@ -3,8 +3,9 @@ title: ResourceInitials Property, Project [vbapj.chm132526]
 keywords: vbapj.chm132526
 f1_keywords:
 - vbapj.chm132526
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9cc7c07a-1a08-443d-a5dc-e33db8ace055
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PublishObjects Object (Excel)
 keywords: vbaxl10.chm649072
 f1_keywords:
 - vbaxl10.chm649072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObjects
 ms.assetid: 33ad393e-5ab6-2531-5e5b-42930fc596c0
+ms.date: 06/08/2017
 ---
 
 

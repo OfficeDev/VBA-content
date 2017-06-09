@@ -3,8 +3,9 @@ title: Deselect Method, Excel [vbagr10.chm5207307]
 keywords: vbagr10.chm5207307
 f1_keywords:
 - vbagr10.chm5207307
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 834a6c28-927e-4556-9186-b2e53911b1f5
+ms.date: 06/08/2017
 ---
 
 

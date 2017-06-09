@@ -3,10 +3,11 @@ title: RecurrencePattern.Interval Property (Outlook)
 keywords: vbaol11.chm279
 f1_keywords:
 - vbaol11.chm279
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Interval
 ms.assetid: e3220174-38dc-d1e3-8d26-b3f208b554a4
+ms.date: 06/08/2017
 ---
 
 

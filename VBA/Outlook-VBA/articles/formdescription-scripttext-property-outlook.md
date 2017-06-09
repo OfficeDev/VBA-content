@@ -3,10 +3,11 @@ title: FormDescription.ScriptText Property (Outlook)
 keywords: vbaol11.chm197
 f1_keywords:
 - vbaol11.chm197
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.ScriptText
 ms.assetid: 56ea4cd6-a9f0-cd0c-a378-dab6399bd1ca
+ms.date: 06/08/2017
 ---
 
 

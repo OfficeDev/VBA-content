@@ -3,14 +3,15 @@ title: You tried to commit or roll back a transaction without first using BeginT
 keywords: jeterr40.chm5003034
 f1_keywords:
 - jeterr40.chm5003034
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c8684bee-ac2e-2fb1-6a40-396173048441
+ms.date: 06/08/2017
 ---
 
 
 # You tried to commit or roll back a transaction without first using BeginTrans. (Error 3034)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

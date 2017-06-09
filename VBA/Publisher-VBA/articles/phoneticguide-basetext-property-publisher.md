@@ -3,10 +3,11 @@ title: PhoneticGuide.BaseText Property (Publisher)
 keywords: vbapb10.chm6160391
 f1_keywords:
 - vbapb10.chm6160391
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.BaseText
 ms.assetid: e59ef54f-c650-1a3e-717b-b4b603f312c1
+ms.date: 06/08/2017
 ---
 
 

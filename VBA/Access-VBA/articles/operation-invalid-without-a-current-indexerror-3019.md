@@ -3,14 +3,15 @@ title: Operation invalid without a current index. (Error 3019)
 keywords: jeterr40.chm5003019
 f1_keywords:
 - jeterr40.chm5003019
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2587e59c-3925-1ceb-bbd5-2f77d636f2a1
+ms.date: 06/08/2017
 ---
 
 
 # Operation invalid without a current index. (Error 3019)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

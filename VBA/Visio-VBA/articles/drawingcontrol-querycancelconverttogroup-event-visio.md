@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.QueryCancelConvertToGroup Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelConvertToGroup
 ms.assetid: 1586eab3-a928-d4de-1b08-5ae5ef090fd2
+ms.date: 06/08/2017
 ---
 
 

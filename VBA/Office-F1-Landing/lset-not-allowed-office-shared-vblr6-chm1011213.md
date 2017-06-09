@@ -3,8 +3,9 @@ title: LSet not allowed, Office Shared [vblr6.chm1011213]
 keywords: vblr6.chm1011213
 f1_keywords:
 - vblr6.chm1011213
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c5578de-881b-4eb1-8a9b-b48fd8ffe061
+ms.date: 06/08/2017
 ---
 
 

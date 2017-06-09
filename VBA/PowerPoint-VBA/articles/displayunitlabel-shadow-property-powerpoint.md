@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Shadow Property (PowerPoint)
 keywords: vbapp10.chm699007
 f1_keywords:
 - vbapp10.chm699007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Shadow
 ms.assetid: 99be31f5-fb42-f39a-0a4c-199f1b9d5992
+ms.date: 06/08/2017
 ---
 
 

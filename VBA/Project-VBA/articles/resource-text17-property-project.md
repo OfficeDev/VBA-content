@@ -1,9 +1,10 @@
 ---
 title: Resource.Text17 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text17
 ms.assetid: bcda31ca-ec78-d66e-02bf-b0a9b4452bad
+ms.date: 06/08/2017
 ---
 
 

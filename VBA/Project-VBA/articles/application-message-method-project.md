@@ -3,10 +3,11 @@ title: Application.Message Method (Project)
 keywords: vbapj.chm2
 f1_keywords:
 - vbapj.chm2
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Message
 ms.assetid: d601b101-5338-f404-e63e-6d1ce926a3d7
+ms.date: 06/08/2017
 ---
 
 

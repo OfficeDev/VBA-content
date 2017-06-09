@@ -1,9 +1,10 @@
 ---
 title: Project.LevelToDate Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.LevelToDate
 ms.assetid: b697db71-8f8e-9caf-345c-59899f4024a3
+ms.date: 06/08/2017
 ---
 
 

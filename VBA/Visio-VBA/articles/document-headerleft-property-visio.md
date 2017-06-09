@@ -3,10 +3,11 @@ title: Document.HeaderLeft Property (Visio)
 keywords: vis_sdr.chm10550645
 f1_keywords:
 - vis_sdr.chm10550645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.HeaderLeft
 ms.assetid: f19dede9-e28b-8fc4-bbbd-82b0e72d48c9
+ms.date: 06/08/2017
 ---
 
 

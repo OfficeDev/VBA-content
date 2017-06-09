@@ -3,8 +3,9 @@ title: ApplicationSettings.GetRasterExportSize Method (Visio)
 keywords: vis_sdr.chm16262285
 f1_keywords:
 - vis_sdr.chm16262285
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 70591d2c-ac80-5637-996e-3ebef6be0c51
+ms.date: 06/08/2017
 ---
 
 

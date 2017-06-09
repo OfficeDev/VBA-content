@@ -3,8 +3,9 @@ title: OperatingSystem Property, Project [vbapj.chm132445]
 keywords: vbapj.chm132445
 f1_keywords:
 - vbapj.chm132445
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f25b9b15-16c6-48be-9e1a-53e2ee537fb3
+ms.date: 06/08/2017
 ---
 
 

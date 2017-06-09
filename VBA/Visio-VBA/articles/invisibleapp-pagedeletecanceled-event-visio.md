@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.PageDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PageDeleteCanceled
 ms.assetid: 35741231-a4f6-cffb-7004-3c33e538be0b
+ms.date: 06/08/2017
 ---
 
 

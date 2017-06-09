@@ -3,10 +3,11 @@ title: WebListBox.ListBoxItems Property (Publisher)
 keywords: vbapb10.chm4063235
 f1_keywords:
 - vbapb10.chm4063235
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebListBox.ListBoxItems
 ms.assetid: 642a4592-35af-99fa-ee96-6bd8517c618f
+ms.date: 06/08/2017
 ---
 
 

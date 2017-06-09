@@ -3,8 +3,9 @@ title: Can't open Clipboard (Error 521)
 keywords: vblr6.chm1117803
 f1_keywords:
 - vblr6.chm1117803
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a98a637-81ab-c71f-e3c4-8504c441c5a5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Line Control
 keywords: vbaac10.chm5186599
 f1_keywords:
 - vbaac10.chm5186599
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1b3ead4c-84f3-4cbc-7794-8058b2b29dc0
+ms.date: 06/08/2017
 ---
 
 
 # Line Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

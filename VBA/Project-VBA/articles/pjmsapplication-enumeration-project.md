@@ -1,9 +1,10 @@
 ---
 title: PjMSApplication Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjMSApplication
 ms.assetid: 425dda92-45dc-f5d7-5114-c5f8e2a70892
+ms.date: 06/08/2017
 ---
 
 

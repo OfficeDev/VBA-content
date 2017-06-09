@@ -3,10 +3,11 @@ title: XMLNode.FirstChild Property (Word)
 keywords: vbawd10.chm37748745
 f1_keywords:
 - vbawd10.chm37748745
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.FirstChild
 ms.assetid: ce0d09ac-383c-b9b4-3065-c26410b442d5
+ms.date: 06/08/2017
 ---
 
 

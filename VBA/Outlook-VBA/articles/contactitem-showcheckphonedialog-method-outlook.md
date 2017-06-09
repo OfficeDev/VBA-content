@@ -3,10 +3,11 @@ title: ContactItem.ShowCheckPhoneDialog Method (Outlook)
 keywords: vbaol11.chm1097
 f1_keywords:
 - vbaol11.chm1097
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ShowCheckPhoneDialog
 ms.assetid: 3ef93046-c2b0-5707-9bb1-4dbfb5d7366c
+ms.date: 06/08/2017
 ---
 
 

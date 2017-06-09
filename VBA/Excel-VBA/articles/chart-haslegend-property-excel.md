@@ -3,10 +3,11 @@ title: Chart.HasLegend Property (Excel)
 keywords: vbaxl10.chm149115
 f1_keywords:
 - vbaxl10.chm149115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.HasLegend
 ms.assetid: e791cc18-03a3-1e60-f064-256cdbd6bd2e
+ms.date: 06/08/2017
 ---
 
 

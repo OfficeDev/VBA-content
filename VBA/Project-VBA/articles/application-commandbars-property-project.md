@@ -1,9 +1,10 @@
 ---
 title: Application.CommandBars Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CommandBars
 ms.assetid: 80f57057-9bb3-018b-0e45-fd1423368091
+ms.date: 06/08/2017
 ---
 
 

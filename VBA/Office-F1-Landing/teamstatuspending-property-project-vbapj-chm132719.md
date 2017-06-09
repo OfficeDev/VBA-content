@@ -3,8 +3,9 @@ title: TeamStatusPending Property, Project [vbapj.chm132719]
 keywords: vbapj.chm132719
 f1_keywords:
 - vbapj.chm132719
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb929834-f577-434f-beee-2095f005bf0e
+ms.date: 06/08/2017
 ---
 
 

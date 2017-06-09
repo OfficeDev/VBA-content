@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1847
 f1_keywords:
 - vbaol11.chm1847
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.UnRead
 ms.assetid: 0f74cab6-c4a6-9d22-4c09-3dc007452319
+ms.date: 06/08/2017
 ---
 
 

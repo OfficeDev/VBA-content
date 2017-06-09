@@ -3,14 +3,15 @@ title: Characters found after end of SQL statement. (Error 3142)
 keywords: jeterr40.chm5003142
 f1_keywords:
 - jeterr40.chm5003142
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e55f0528-d8e1-66d1-7c64-70dbf208bff0
+ms.date: 06/08/2017
 ---
 
 
 # Characters found after end of SQL statement. (Error 3142)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Subdocuments.Item Method (Word)
 keywords: vbawd10.chm159907840
 f1_keywords:
 - vbawd10.chm159907840
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocuments.Item
 ms.assetid: 98f42f01-ba00-db3c-1cad-13cff46e6e66
+ms.date: 06/08/2017
 ---
 
 

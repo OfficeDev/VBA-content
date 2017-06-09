@@ -3,10 +3,11 @@ title: Document.ComputeStatistics Method (Word)
 keywords: vbawd10.chm158007414
 f1_keywords:
 - vbawd10.chm158007414
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ComputeStatistics
 ms.assetid: f6f3c42d-b2c0-f0a8-857f-2a8e314f44fb
+ms.date: 06/08/2017
 ---
 
 

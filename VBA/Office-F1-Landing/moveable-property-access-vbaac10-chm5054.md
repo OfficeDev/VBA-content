@@ -3,8 +3,9 @@ title: Moveable Property, Access [vbaac10.chm5054]
 keywords: vbaac10.chm5054
 f1_keywords:
 - vbaac10.chm5054
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a6bbcb61-5021-4285-adcf-c3ff8400e72a
+ms.date: 06/08/2017
 ---
 
 

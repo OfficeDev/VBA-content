@@ -3,10 +3,11 @@ title: ConnectorFormat Object (Excel)
 keywords: vbaxl10.chm645072
 f1_keywords:
 - vbaxl10.chm645072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConnectorFormat
 ms.assetid: 56c97d73-bde2-52ae-2bc3-724d21fdd515
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Options.EnableLiveDrag Property (Word)
 keywords: vbawd10.chm162988540
 f1_keywords:
 - vbawd10.chm162988540
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 7eec7d63-852a-d0f5-0bf1-afae0483d3f5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomXMLSchemaCollection.Count Property (Office)
 keywords: vbaof11.chm292002
 f1_keywords:
 - vbaof11.chm292002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Count
 ms.assetid: b8db6d3b-794a-cf40-4b34-5eb9e52b7022
+ms.date: 06/08/2017
 ---
 
 

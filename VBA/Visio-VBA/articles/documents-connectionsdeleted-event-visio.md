@@ -3,10 +3,11 @@ title: Documents.ConnectionsDeleted Event (Visio)
 keywords: vis_sdr.chm10619100
 f1_keywords:
 - vis_sdr.chm10619100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.ConnectionsDeleted
 ms.assetid: a084e924-e0ff-2ecc-95a6-9943183afb76
+ms.date: 06/08/2017
 ---
 
 

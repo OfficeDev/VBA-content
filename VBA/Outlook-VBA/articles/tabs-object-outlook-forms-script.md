@@ -1,7 +1,8 @@
 ---
 title: Tabs Object (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0b209e50-60c7-e991-f0fb-627dd17cb7ec
+ms.date: 06/08/2017
 ---
 
 

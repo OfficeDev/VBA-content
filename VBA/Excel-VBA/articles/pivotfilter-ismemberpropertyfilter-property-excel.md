@@ -3,10 +3,11 @@ title: PivotFilter.IsMemberPropertyFilter Property (Excel)
 keywords: vbaxl10.chm770085
 f1_keywords:
 - vbaxl10.chm770085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilter.IsMemberPropertyFilter
 ms.assetid: 94b8055f-c45b-90fe-fd65-418f29e78ff0
+ms.date: 06/08/2017
 ---
 
 

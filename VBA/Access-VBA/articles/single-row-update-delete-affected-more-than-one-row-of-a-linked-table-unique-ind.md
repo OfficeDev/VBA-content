@@ -3,14 +3,15 @@ title: Single-row update/delete affected more than one row of a linked table. Un
 keywords: jeterr40.chm5003362
 f1_keywords:
 - jeterr40.chm5003362
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c3a15193-a185-bcce-51c1-4f659e21c7d1
+ms.date: 06/08/2017
 ---
 
 
 # Single-row update/delete affected more than one row of a linked table. Unique index contains duplicate values. (Error 3362)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

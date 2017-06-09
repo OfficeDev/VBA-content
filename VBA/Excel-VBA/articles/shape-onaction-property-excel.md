@@ -3,10 +3,11 @@ title: Shape.OnAction Property (Excel)
 keywords: vbaxl10.chm636120
 f1_keywords:
 - vbaxl10.chm636120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.OnAction
 ms.assetid: 7b278ba3-75d3-1f97-dbe2-181485a88365
+ms.date: 06/08/2017
 ---
 
 

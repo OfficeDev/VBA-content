@@ -3,10 +3,11 @@ title: FormField.OwnStatus Property (Word)
 keywords: vbawd10.chm153616390
 f1_keywords:
 - vbawd10.chm153616390
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.OwnStatus
 ms.assetid: 21595e18-6250-2f56-fc78-2336e4061055
+ms.date: 06/08/2017
 ---
 
 

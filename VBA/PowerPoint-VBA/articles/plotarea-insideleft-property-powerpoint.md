@@ -3,10 +3,11 @@ title: PlotArea.InsideLeft Property (PowerPoint)
 keywords: vbapp10.chm67203
 f1_keywords:
 - vbapp10.chm67203
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.InsideLeft
 ms.assetid: 3357e9cd-4019-a8bd-48d3-d4f25348dd7b
+ms.date: 06/08/2017
 ---
 
 

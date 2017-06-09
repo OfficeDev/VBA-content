@@ -3,10 +3,11 @@ title: Attachment.PictureAlignment Property (Access)
 keywords: vbaac10.chm13916
 f1_keywords:
 - vbaac10.chm13916
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.PictureAlignment
 ms.assetid: 505daae0-8321-cce0-028a-ff6c2ac16245
+ms.date: 06/08/2017
 ---
 
 

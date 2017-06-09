@@ -3,8 +3,9 @@ title: And Operator
 keywords: vblr6.chm1008852
 f1_keywords:
 - vblr6.chm1008852
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 523e8cd3-f27c-2ec5-62e8-e95686a9f9ac
+ms.date: 06/08/2017
 ---
 
 

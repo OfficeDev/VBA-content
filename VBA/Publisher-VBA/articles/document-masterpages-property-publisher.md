@@ -3,10 +3,11 @@ title: Document.MasterPages Property (Publisher)
 keywords: vbapb10.chm196629
 f1_keywords:
 - vbapb10.chm196629
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.MasterPages
 ms.assetid: 26e5342b-94f0-4fd5-2743-92cfd2d43a01
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: HTMLDivision.HTMLDivisionParent Method (Word)
 keywords: vbawd10.chm166133768
 f1_keywords:
 - vbawd10.chm166133768
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.HTMLDivisionParent
 ms.assetid: fee0eaa1-3985-f4fc-4adb-14f0defd9084
+ms.date: 06/08/2017
 ---
 
 

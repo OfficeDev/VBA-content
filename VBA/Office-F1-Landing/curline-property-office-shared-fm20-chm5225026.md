@@ -3,8 +3,9 @@ title: CurLine Property, Office Shared [fm20.chm5225026]
 keywords: fm20.chm5225026
 f1_keywords:
 - fm20.chm5225026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 935fc85e-776b-4f3d-b591-4c0e4daa406c
+ms.date: 06/08/2017
 ---
 
 

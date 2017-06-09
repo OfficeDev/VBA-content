@@ -3,14 +3,15 @@ title: The object is not a stored procedure. (Error 3749)
 keywords: jeterr40.chm5003749
 f1_keywords:
 - jeterr40.chm5003749
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7a664ccd-4ea9-f8b5-e1c6-4d13dcf33d10
+ms.date: 06/08/2017
 ---
 
 
 # The object is not a stored procedure. (Error 3749)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

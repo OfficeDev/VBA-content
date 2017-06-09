@@ -3,10 +3,11 @@ title: PictureFormat.CropLeft Property (Excel)
 keywords: vbaxl10.chm113006
 f1_keywords:
 - vbaxl10.chm113006
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.CropLeft
 ms.assetid: e5d542cb-8653-c798-aede-28c58e4979d6
+ms.date: 06/08/2017
 ---
 
 

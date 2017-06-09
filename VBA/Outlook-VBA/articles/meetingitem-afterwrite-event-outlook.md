@@ -1,9 +1,10 @@
 ---
 title: MeetingItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.AfterWrite
 ms.assetid: 10fab1af-e29f-74d2-5fae-aa61822f06dd
+ms.date: 06/08/2017
 ---
 
 

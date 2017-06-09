@@ -1,9 +1,10 @@
 ---
 title: PostItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeDelete
 ms.assetid: c4099fea-c5eb-c7fe-e787-6bcd0d5816a0
+ms.date: 06/08/2017
 ---
 
 

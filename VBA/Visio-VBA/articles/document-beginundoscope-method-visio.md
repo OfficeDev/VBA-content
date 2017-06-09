@@ -3,10 +3,11 @@ title: Document.BeginUndoScope Method (Visio)
 keywords: vis_sdr.chm10516085
 f1_keywords:
 - vis_sdr.chm10516085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BeginUndoScope
 ms.assetid: 4e0c99a3-3ac6-54f8-3e43-1c79224e09e1
+ms.date: 06/08/2017
 ---
 
 

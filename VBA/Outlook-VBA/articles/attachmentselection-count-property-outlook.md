@@ -3,10 +3,11 @@ title: AttachmentSelection.Count Property (Outlook)
 keywords: vbaol11.chm2943
 f1_keywords:
 - vbaol11.chm2943
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.Count
 ms.assetid: 86c8ecc2-2dba-ccac-6267-acb8ecf3e45b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: TaskRequestUpdateItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 2d53b081-6f97-daf9-4e21-61005cba942a
+ms.date: 06/08/2017
 ---
 
 

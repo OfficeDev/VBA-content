@@ -3,10 +3,11 @@ title: TextBox.BorderColor Property (Access)
 keywords: vbaac10.chm11080
 f1_keywords:
 - vbaac10.chm11080
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BorderColor
 ms.assetid: 7522b663-4ce6-34a6-51db-7de503e01f04
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Height Property (Excel)
 keywords: vbaxl10.chm673093
 f1_keywords:
 - vbaxl10.chm673093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Height
 ms.assetid: adb3c4a2-b9d3-783d-cd90-5f73d46132bd
+ms.date: 06/08/2017
 ---
 
 

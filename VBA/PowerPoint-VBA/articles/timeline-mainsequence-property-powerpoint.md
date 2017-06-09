@@ -3,10 +3,11 @@ title: TimeLine.MainSequence Property (PowerPoint)
 keywords: vbapp10.chm649003
 f1_keywords:
 - vbapp10.chm649003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TimeLine.MainSequence
 ms.assetid: b71f83ad-6d92-cc10-9692-a7567ca0a077
+ms.date: 06/08/2017
 ---
 
 

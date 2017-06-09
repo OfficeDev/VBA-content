@@ -1,9 +1,10 @@
 ---
 title: TextRange2.RtlRun Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.RtlRun
 ms.assetid: 3c18d756-768f-292f-31c0-efbcf5800f63
+ms.date: 06/08/2017
 ---
 
 

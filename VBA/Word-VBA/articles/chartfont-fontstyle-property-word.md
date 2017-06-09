@@ -3,10 +3,11 @@ title: ChartFont.FontStyle Property (Word)
 keywords: vbawd10.chm255918088
 f1_keywords:
 - vbawd10.chm255918088
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.FontStyle
 ms.assetid: dc877dd3-6f58-08f9-719c-2fb9edbb868f
+ms.date: 06/08/2017
 ---
 
 

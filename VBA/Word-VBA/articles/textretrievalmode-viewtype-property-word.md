@@ -3,10 +3,11 @@ title: TextRetrievalMode.ViewType Property (Word)
 keywords: vbawd10.chm154730496
 f1_keywords:
 - vbawd10.chm154730496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.ViewType
 ms.assetid: 1dbc3f48-6d99-84f4-b9db-73a25e8f07c0
+ms.date: 06/08/2017
 ---
 
 

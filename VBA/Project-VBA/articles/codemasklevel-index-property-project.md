@@ -3,10 +3,11 @@ title: CodeMaskLevel.Index Property (Project)
 keywords: vbapj.chm131650
 f1_keywords:
 - vbapj.chm131650
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Index
 ms.assetid: 434006d5-c1da-d0f0-abd1-22791321284d
+ms.date: 06/08/2017
 ---
 
 

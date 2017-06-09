@@ -3,8 +3,9 @@ title: Invalid picture (Error 481) [1 of 2], Office Shared [vblr6.chm1117797]
 keywords: vblr6.chm1117797
 f1_keywords:
 - vblr6.chm1117797
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5eff256c-ec1d-4125-b42a-3586e66315dd
+ms.date: 06/08/2017
 ---
 
 

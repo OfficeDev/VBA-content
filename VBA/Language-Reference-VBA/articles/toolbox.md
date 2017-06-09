@@ -3,8 +3,9 @@ title: Toolbox
 keywords: vbui6.chm1067396
 f1_keywords:
 - vbui6.chm1067396
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 95b11467-a9f8-a08a-dcfe-e09f96995b4a
+ms.date: 06/08/2017
 ---
 
 

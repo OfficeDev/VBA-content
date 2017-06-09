@@ -3,10 +3,11 @@ title: OLEDBConnection.SaveAsODC Method (Excel)
 keywords: vbaxl10.chm794089
 f1_keywords:
 - vbaxl10.chm794089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.SaveAsODC
 ms.assetid: da83acf3-c935-c36f-944e-35b46e54cabf
+ms.date: 06/08/2017
 ---
 
 

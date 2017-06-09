@@ -3,10 +3,11 @@ title: Rectangle.Parent Property (Word)
 keywords: vbawd10.chm234030058
 f1_keywords:
 - vbawd10.chm234030058
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle.Parent
 ms.assetid: ddc1524b-bfd1-ccab-eb6d-d0402d424f3f
+ms.date: 06/08/2017
 ---
 
 

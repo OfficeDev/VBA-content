@@ -3,8 +3,9 @@ title: Restrict Data to a Subset of Records, Access [vbaac10.chm10881]
 keywords: vbaac10.chm10881
 f1_keywords:
 - vbaac10.chm10881
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf8dbb81-de7e-46cc-b667-c923221634b3
+ms.date: 06/08/2017
 ---
 
 

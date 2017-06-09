@@ -3,10 +3,11 @@ title: Reminder.Caption Property (Outlook)
 keywords: vbaol11.chm560
 f1_keywords:
 - vbaol11.chm560
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder.Caption
 ms.assetid: b83b10f7-745c-337c-182b-74dabac65a17
+ms.date: 06/08/2017
 ---
 
 

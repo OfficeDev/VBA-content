@@ -3,10 +3,11 @@ title: OlkCategory.KeyDown Event (Outlook)
 keywords: vbaol11.chm1000456
 f1_keywords:
 - vbaol11.chm1000456
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.KeyDown
 ms.assetid: dcaaff84-eb0a-77a7-998d-3327cc7d02bc
+ms.date: 06/08/2017
 ---
 
 

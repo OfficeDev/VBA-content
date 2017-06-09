@@ -3,10 +3,11 @@ title: SlideShowView.GotoNamedShow Method (PowerPoint)
 keywords: vbapp10.chm513022
 f1_keywords:
 - vbapp10.chm513022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.GotoNamedShow
 ms.assetid: 7e26b77f-bb7b-fd32-eabf-bc8f568e5c62
+ms.date: 06/08/2017
 ---
 
 

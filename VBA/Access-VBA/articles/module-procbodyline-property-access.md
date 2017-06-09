@@ -3,10 +3,11 @@ title: Module.ProcBodyLine Property (Access)
 keywords: vbaac10.chm12282
 f1_keywords:
 - vbaac10.chm12282
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.ProcBodyLine
 ms.assetid: b81affb6-a3ca-3bda-59f0-9fb809b34d2d
+ms.date: 06/08/2017
 ---
 
 

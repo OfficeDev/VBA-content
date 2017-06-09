@@ -3,8 +3,9 @@ title: ComboBox.CanPaste Property (Outlook Forms Script)
 keywords: olfm10.chm2000850
 f1_keywords:
 - olfm10.chm2000850
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 36b1909a-fe23-77f9-4072-0264a6be02c8
+ms.date: 06/08/2017
 ---
 
 

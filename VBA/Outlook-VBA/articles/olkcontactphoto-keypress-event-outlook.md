@@ -3,10 +3,11 @@ title: OlkContactPhoto.KeyPress Event (Outlook)
 keywords: vbaol11.chm1000319
 f1_keywords:
 - vbaol11.chm1000319
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.KeyPress
 ms.assetid: 43b7f7e0-79c5-e02c-5d9e-a204098509c2
+ms.date: 06/08/2017
 ---
 
 

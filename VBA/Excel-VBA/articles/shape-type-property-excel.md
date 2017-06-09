@@ -3,10 +3,11 @@ title: Shape.Type Property (Excel)
 keywords: vbaxl10.chm636111
 f1_keywords:
 - vbaxl10.chm636111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Type
 ms.assetid: 93939e9f-2630-4db2-6b66-6705720877f6
+ms.date: 06/08/2017
 ---
 
 

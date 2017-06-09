@@ -3,10 +3,11 @@ title: Form.CurrentSectionTop Property (Access)
 keywords: vbaac10.chm13467
 f1_keywords:
 - vbaac10.chm13467
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CurrentSectionTop
 ms.assetid: d6f4f5f6-641f-3092-7d99-195c77722718
+ms.date: 06/08/2017
 ---
 
 

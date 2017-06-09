@@ -3,10 +3,11 @@ title: Shape.Ungroup Method (Excel)
 keywords: vbaxl10.chm636087
 f1_keywords:
 - vbaxl10.chm636087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Ungroup
 ms.assetid: 678ff982-25c7-cbaa-7cc5-011b53ecf6b6
+ms.date: 06/08/2017
 ---
 
 

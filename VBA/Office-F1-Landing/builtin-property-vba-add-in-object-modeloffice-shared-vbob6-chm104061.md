@@ -3,8 +3,9 @@ title: BuiltIn Property (VBA Add-In Object Model), Office Shared [vbob6.chm10406
 keywords: vbob6.chm104061
 f1_keywords:
 - vbob6.chm104061
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d11b58d7-2835-4208-ac5f-048f4eb08505
+ms.date: 06/08/2017
 ---
 
 

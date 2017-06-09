@@ -3,10 +3,11 @@ title: CalloutFormat.CustomLength Method (Excel)
 keywords: vbaxl10.chm104004
 f1_keywords:
 - vbaxl10.chm104004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.CustomLength
 ms.assetid: 8c5034f9-32ca-6e34-be59-51e0cd8c8374
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ReadabilityStatistic.Creator Property (Word)
 keywords: vbawd10.chm162464745
 f1_keywords:
 - vbawd10.chm162464745
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReadabilityStatistic.Creator
 ms.assetid: 903372f9-55e6-e2b3-5d3d-3faab81a7613
+ms.date: 06/08/2017
 ---
 
 

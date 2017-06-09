@@ -3,10 +3,11 @@ title: XYGroups Method
 keywords: vbagr10.chm3077639
 f1_keywords:
 - vbagr10.chm3077639
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XYGroups
 ms.assetid: d334382a-8d27-2b35-4306-a16f5fa13c89
+ms.date: 06/08/2017
 ---
 
 

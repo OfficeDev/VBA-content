@@ -3,10 +3,11 @@ title: CatalogMergeShapes.Parent Property (Publisher)
 keywords: vbapb10.chm8388610
 f1_keywords:
 - vbapb10.chm8388610
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Parent
 ms.assetid: 9e16517b-4b54-f7fb-6407-4ac577085149
+ms.date: 06/08/2017
 ---
 
 

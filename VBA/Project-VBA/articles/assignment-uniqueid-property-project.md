@@ -1,9 +1,10 @@
 ---
 title: Assignment.UniqueID Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.UniqueID
 ms.assetid: 694aa1b6-eb88-e921-bc4a-b2dfe47df817
+ms.date: 06/08/2017
 ---
 
 

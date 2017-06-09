@@ -3,8 +3,9 @@ title: Errors during load. Refer to 'item' for details
 keywords: vblr6.chm1117728
 f1_keywords:
 - vblr6.chm1117728
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6bd758ad-e40b-87f8-ed97-1f1c9cbadcfa
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: UserAccess Object (Excel)
 keywords: vbaxl10.chm727072
 f1_keywords:
 - vbaxl10.chm727072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserAccess
 ms.assetid: 44df1865-a5f9-e1b7-b724-41d375e9ea44
+ms.date: 06/08/2017
 ---
 
 

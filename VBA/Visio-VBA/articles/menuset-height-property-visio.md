@@ -3,10 +3,11 @@ title: MenuSet.Height Property (Visio)
 keywords: vis_sdr.chm13313615
 f1_keywords:
 - vis_sdr.chm13313615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSet.Height
 ms.assetid: 99eee623-eaa2-c860-0a52-3dda15d24a82
+ms.date: 06/08/2017
 ---
 
 

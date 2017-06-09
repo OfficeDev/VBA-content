@@ -3,8 +3,9 @@ title: BeforeUpdate Event, Access [vbaac10.chm14194]
 keywords: vbaac10.chm14194
 f1_keywords:
 - vbaac10.chm14194
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3ec2f489-80f1-4b95-9a51-e0f489ff8140
+ms.date: 06/08/2017
 ---
 
 

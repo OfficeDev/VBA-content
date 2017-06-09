@@ -3,10 +3,11 @@ title: Application.Organizer Method (Project)
 keywords: vbapj.chm126
 f1_keywords:
 - vbapj.chm126
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Organizer
 ms.assetid: 4269290c-7be9-a0af-526d-bde73114c24b
+ms.date: 06/08/2017
 ---
 
 

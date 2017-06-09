@@ -3,14 +3,15 @@ title: Cannot create relationships to enforce referential integrity. Existing da
 keywords: jeterr40.chm5003379
 f1_keywords:
 - jeterr40.chm5003379
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2206ce0e-447f-edda-dadf-c931d3e5f834
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create relationships to enforce referential integrity. Existing data in table <name> violates referential integrity rules in table <name>. (Error 3379)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

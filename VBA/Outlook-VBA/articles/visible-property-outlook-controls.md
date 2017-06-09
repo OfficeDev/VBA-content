@@ -1,7 +1,8 @@
 ---
 title: Visible Property (Outlook Controls)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b5480264-b7ea-a064-1dd7-ca07b56660ea
+ms.date: 06/08/2017
 ---
 
 

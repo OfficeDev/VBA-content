@@ -3,10 +3,11 @@ title: ListDataFormat.lcid Property (Excel)
 keywords: vbaxl10.chm758078
 f1_keywords:
 - vbaxl10.chm758078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.lcid
 ms.assetid: 954812f2-d50e-8eff-429d-37da5cd8cff1
+ms.date: 06/08/2017
 ---
 
 

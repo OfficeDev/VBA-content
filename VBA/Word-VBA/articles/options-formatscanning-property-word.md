@@ -3,10 +3,11 @@ title: Options.FormatScanning Property (Word)
 keywords: vbawd10.chm162988481
 f1_keywords:
 - vbawd10.chm162988481
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.FormatScanning
 ms.assetid: 7557b88e-2f16-47e9-cc3b-05019dba9896
+ms.date: 06/08/2017
 ---
 
 

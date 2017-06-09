@@ -3,10 +3,11 @@ title: ListBox.Column Property (Access)
 keywords: vbaac10.chm11206
 f1_keywords:
 - vbaac10.chm11206
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Column
 ms.assetid: d393326a-4114-9ec2-fcfe-1ce74003e86c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Dir Function
 keywords: vblr6.chm1008898
 f1_keywords:
 - vblr6.chm1008898
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eaf6fe6e-342a-5038-3914-bb5e58fcad5a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Axis.HasDisplayUnitLabel Property (Excel)
 keywords: vbaxl10.chm561115
 f1_keywords:
 - vbaxl10.chm561115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.HasDisplayUnitLabel
 ms.assetid: 3092a94f-04ca-2d27-e21d-452b64d11f10
+ms.date: 06/08/2017
 ---
 
 

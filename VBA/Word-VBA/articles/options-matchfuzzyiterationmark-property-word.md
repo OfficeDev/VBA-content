@@ -3,10 +3,11 @@ title: Options.MatchFuzzyIterationMark Property (Word)
 keywords: vbawd10.chm162988346
 f1_keywords:
 - vbawd10.chm162988346
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyIterationMark
 ms.assetid: 24635dfe-e48a-11b7-f8fd-a8058e31e615
+ms.date: 06/08/2017
 ---
 
 

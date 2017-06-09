@@ -3,10 +3,11 @@ title: Range.InsertFile Method (Word)
 keywords: vbawd10.chm157155451
 f1_keywords:
 - vbawd10.chm157155451
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertFile
 ms.assetid: 9f35bacd-1cf3-42a4-c8ab-8c1cf183d2ab
+ms.date: 06/08/2017
 ---
 
 

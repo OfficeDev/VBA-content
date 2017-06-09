@@ -3,10 +3,11 @@ title: InvisibleApp.EnumDirectories Method (Visio)
 keywords: vis_sdr.chm17516255
 f1_keywords:
 - vis_sdr.chm17516255
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.EnumDirectories
 ms.assetid: a9a1c421-b188-4b0d-fa96-e5934efae598
+ms.date: 06/08/2017
 ---
 
 

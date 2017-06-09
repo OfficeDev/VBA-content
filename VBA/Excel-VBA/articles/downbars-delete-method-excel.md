@@ -3,10 +3,11 @@ title: DownBars.Delete Method (Excel)
 keywords: vbaxl10.chm610077
 f1_keywords:
 - vbaxl10.chm610077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DownBars.Delete
 ms.assetid: c9803782-d5e4-9d04-17c3-f20a04b2f994
+ms.date: 06/08/2017
 ---
 
 

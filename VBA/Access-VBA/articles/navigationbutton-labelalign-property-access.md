@@ -3,10 +3,11 @@ title: NavigationButton.LabelAlign Property (Access)
 keywords: vbaac10.chm10486
 f1_keywords:
 - vbaac10.chm10486
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.LabelAlign
 ms.assetid: d6562f66-5b9a-1f91-e140-b84a57ea5ff9
+ms.date: 06/08/2017
 ---
 
 

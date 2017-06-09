@@ -3,10 +3,11 @@ title: Options.UpdateStyleListBehavior Property (Word)
 keywords: vbawd10.chm162988527
 f1_keywords:
 - vbawd10.chm162988527
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UpdateStyleListBehavior
 ms.assetid: 96414cf7-6944-93ed-79a8-2fbfcb65ca3d
+ms.date: 06/08/2017
 ---
 
 

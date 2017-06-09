@@ -3,10 +3,11 @@ title: DataRecordset.RefreshInterval Property (Visio)
 keywords: vis_sdr.chm16460340
 f1_keywords:
 - vis_sdr.chm16460340
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.RefreshInterval
 ms.assetid: 3d108e6e-65af-05ea-77d2-a19d96f82c1e
+ms.date: 06/08/2017
 ---
 
 

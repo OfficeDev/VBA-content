@@ -3,10 +3,11 @@ title: Scenarios.Merge Method (Excel)
 keywords: vbaxl10.chm362077
 f1_keywords:
 - vbaxl10.chm362077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenarios.Merge
 ms.assetid: db956914-aec1-ed2a-e4fa-d0f9c15ec882
+ms.date: 06/08/2017
 ---
 
 

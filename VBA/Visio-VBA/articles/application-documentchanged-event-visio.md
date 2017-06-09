@@ -1,9 +1,10 @@
 ---
 title: Application.DocumentChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DocumentChanged
 ms.assetid: bed6b530-8d95-10f1-2239-ae7fa940db76
+ms.date: 06/08/2017
 ---
 
 

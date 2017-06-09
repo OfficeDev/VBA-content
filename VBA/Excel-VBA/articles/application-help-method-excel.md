@@ -3,10 +3,11 @@ title: Application.Help Method (Excel)
 keywords: vbaxl10.chm133146
 f1_keywords:
 - vbaxl10.chm133146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Help
 ms.assetid: e54291a6-96a5-cc55-72de-f2c1800391e2
+ms.date: 06/08/2017
 ---
 
 

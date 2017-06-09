@@ -3,10 +3,11 @@ title: Coauthoring.MergeMode Property (PowerPoint)
 keywords: vbapp10.chm731003
 f1_keywords:
 - vbapp10.chm731003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Coauthoring.MergeMode
 ms.assetid: b97391fd-c470-0fe5-ec1d-4d81e0ed02b8
+ms.date: 06/08/2017
 ---
 
 

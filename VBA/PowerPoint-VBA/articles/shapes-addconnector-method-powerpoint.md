@@ -3,10 +3,11 @@ title: Shapes.AddConnector Method (PowerPoint)
 keywords: vbapp10.chm543006
 f1_keywords:
 - vbapp10.chm543006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddConnector
 ms.assetid: 407eee86-11c1-7bee-ed25-aba71a930a1c
+ms.date: 06/08/2017
 ---
 
 

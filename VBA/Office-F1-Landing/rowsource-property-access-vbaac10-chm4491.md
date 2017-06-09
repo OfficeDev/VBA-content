@@ -3,8 +3,9 @@ title: RowSource Property, Access [vbaac10.chm4491]
 keywords: vbaac10.chm4491
 f1_keywords:
 - vbaac10.chm4491
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0f6c5975-cccb-43cb-8715-476f8ecee49d
+ms.date: 06/08/2017
 ---
 
 

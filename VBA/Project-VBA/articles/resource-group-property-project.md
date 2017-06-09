@@ -1,9 +1,10 @@
 ---
 title: Resource.Group Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Group
 ms.assetid: 9f5f5bd6-c104-629c-feab-455fbeaf27eb
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Chart.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 24a75836-8607-c7cb-906f-f4679b776001
+ms.date: 06/08/2017
 ---
 
 

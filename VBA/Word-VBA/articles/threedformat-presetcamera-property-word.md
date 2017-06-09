@@ -3,10 +3,11 @@ title: ThreeDFormat.PresetCamera Property (Word)
 keywords: vbawd10.chm164626552
 f1_keywords:
 - vbawd10.chm164626552
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetCamera
 ms.assetid: d8afdab9-d197-5950-872b-7de34d06e137
+ms.date: 06/08/2017
 ---
 
 

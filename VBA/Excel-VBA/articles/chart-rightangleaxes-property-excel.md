@@ -3,10 +3,11 @@ title: Chart.RightAngleAxes Property (Excel)
 keywords: vbaxl10.chm149138
 f1_keywords:
 - vbaxl10.chm149138
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.RightAngleAxes
 ms.assetid: 632aa454-4113-97d3-a80c-eb745a950c6f
+ms.date: 06/08/2017
 ---
 
 

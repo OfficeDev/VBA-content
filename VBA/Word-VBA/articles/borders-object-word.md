@@ -1,7 +1,8 @@
 ---
 title: Borders Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 6dd1d4cc-2dcf-22c7-a299-4721a5543ba3
+ms.date: 06/08/2017
 ---
 
 

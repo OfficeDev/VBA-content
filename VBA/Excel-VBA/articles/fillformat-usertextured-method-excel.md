@@ -3,10 +3,11 @@ title: FillFormat.UserTextured Method (Excel)
 keywords: vbaxl10.chm115010
 f1_keywords:
 - vbaxl10.chm115010
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.UserTextured
 ms.assetid: 8c8e7569-50e9-fec5-9c0e-195b26f9394c
+ms.date: 06/08/2017
 ---
 
 

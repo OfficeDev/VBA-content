@@ -3,10 +3,11 @@ title: PivotTable.HiddenFields Property (Excel)
 keywords: vbaxl10.chm235083
 f1_keywords:
 - vbaxl10.chm235083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.HiddenFields
 ms.assetid: f59f471f-5ce9-fa81-ab37-91eb78666870
+ms.date: 06/08/2017
 ---
 
 

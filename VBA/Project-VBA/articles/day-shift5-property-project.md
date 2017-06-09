@@ -1,9 +1,10 @@
 ---
 title: Day.Shift5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Day.Shift5
 ms.assetid: fcefb5c5-c1c1-31a6-d6d1-2bd3676dbc4f
+ms.date: 06/08/2017
 ---
 
 

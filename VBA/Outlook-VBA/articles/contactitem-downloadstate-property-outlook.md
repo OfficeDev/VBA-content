@@ -3,10 +3,11 @@ title: ContactItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1083
 f1_keywords:
 - vbaol11.chm1083
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.DownloadState
 ms.assetid: 3067720e-dea5-f14f-0c46-61184078fd4f
+ms.date: 06/08/2017
 ---
 
 

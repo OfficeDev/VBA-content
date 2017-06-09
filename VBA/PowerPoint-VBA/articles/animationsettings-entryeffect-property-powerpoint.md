@@ -3,10 +3,11 @@ title: AnimationSettings.EntryEffect Property (PowerPoint)
 keywords: vbapp10.chm565005
 f1_keywords:
 - vbapp10.chm565005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.EntryEffect
 ms.assetid: de803113-6f7f-b1a2-1d52-43eeacccf666
+ms.date: 06/08/2017
 ---
 
 

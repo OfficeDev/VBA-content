@@ -3,10 +3,11 @@ title: HangulHanjaConversionDictionaries.Maximum Property (Word)
 keywords: vbawd10.chm165675010
 f1_keywords:
 - vbawd10.chm165675010
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.Maximum
 ms.assetid: 22e143ec-fed4-9d48-3d50-4a522a0d41f6
+ms.date: 06/08/2017
 ---
 
 

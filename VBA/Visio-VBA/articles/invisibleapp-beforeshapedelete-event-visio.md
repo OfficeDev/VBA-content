@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.BeforeShapeDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeShapeDelete
 ms.assetid: 7a9aa39e-755d-873c-c7f7-b84fe435b5de
+ms.date: 06/08/2017
 ---
 
 

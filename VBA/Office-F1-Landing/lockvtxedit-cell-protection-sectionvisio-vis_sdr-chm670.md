@@ -3,8 +3,9 @@ title: LockVtxEdit Cell (Protection Section), Visio [vis_sdr.chm670]
 keywords: vis_sdr.chm670
 f1_keywords:
 - vis_sdr.chm670
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2c59d70-97db-4407-b685-9612d30bc689
+ms.date: 06/08/2017
 ---
 
 

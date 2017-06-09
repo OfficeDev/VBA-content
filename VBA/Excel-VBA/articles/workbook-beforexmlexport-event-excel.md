@@ -3,10 +3,11 @@ title: Workbook.BeforeXmlExport Event (Excel)
 keywords: vbaxl10.chm503099
 f1_keywords:
 - vbaxl10.chm503099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeXmlExport
 ms.assetid: ee2af5de-e52f-9434-aa7c-5dc9bb102d1b
+ms.date: 06/08/2017
 ---
 
 

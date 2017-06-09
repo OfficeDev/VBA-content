@@ -3,10 +3,11 @@ title: Shapes.BuildFreeform Method (Publisher)
 keywords: vbapb10.chm2162723
 f1_keywords:
 - vbapb10.chm2162723
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.BuildFreeform
 ms.assetid: ea24a9a2-e72c-beb3-b17d-161ea41fff1d
+ms.date: 06/08/2017
 ---
 
 

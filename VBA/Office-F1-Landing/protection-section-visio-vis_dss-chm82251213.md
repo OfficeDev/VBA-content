@@ -3,8 +3,9 @@ title: Protection Section, Visio [Vis_DSS.chm82251213]
 keywords: vis_dss.chm82251213
 f1_keywords:
 - vis_dss.chm82251213
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a7ee457-07b9-4297-a4a2-444bc6d30732
+ms.date: 06/08/2017
 ---
 
 

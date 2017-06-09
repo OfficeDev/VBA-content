@@ -3,10 +3,11 @@ title: OLEObjects.Left Property (Excel)
 keywords: vbaxl10.chm419082
 f1_keywords:
 - vbaxl10.chm419082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.Left
 ms.assetid: 764029f0-0ae4-8198-8cac-5293723677aa
+ms.date: 06/08/2017
 ---
 
 

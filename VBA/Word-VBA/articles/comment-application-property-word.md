@@ -3,10 +3,11 @@ title: Comment.Application Property (Word)
 keywords: vbawd10.chm154993640
 f1_keywords:
 - vbawd10.chm154993640
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comment.Application
 ms.assetid: af4f2a65-65c0-6200-ca50-9a1dcc1a18d8
+ms.date: 06/08/2017
 ---
 
 

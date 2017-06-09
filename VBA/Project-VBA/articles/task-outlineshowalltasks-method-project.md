@@ -1,9 +1,10 @@
 ---
 title: Task.OutlineShowAllTasks Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.OutlineShowAllTasks
 ms.assetid: eb6bd9f7-52e4-fb57-b8da-b64f7615c072
+ms.date: 06/08/2017
 ---
 
 

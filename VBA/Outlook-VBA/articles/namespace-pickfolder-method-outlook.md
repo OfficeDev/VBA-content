@@ -3,10 +3,11 @@ title: NameSpace.PickFolder Method (Outlook)
 keywords: vbaol11.chm768
 f1_keywords:
 - vbaol11.chm768
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.PickFolder
 ms.assetid: f5c1f35a-8e77-8e7f-fcbe-30c6bc90287a
+ms.date: 06/08/2017
 ---
 
 

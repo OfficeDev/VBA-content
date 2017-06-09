@@ -3,10 +3,11 @@ title: TextFrame.MarginRight Property (Word)
 keywords: vbawd10.chm162660454
 f1_keywords:
 - vbawd10.chm162660454
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.MarginRight
 ms.assetid: 9c59758e-8813-a035-b001-5eb57371e7fd
+ms.date: 06/08/2017
 ---
 
 

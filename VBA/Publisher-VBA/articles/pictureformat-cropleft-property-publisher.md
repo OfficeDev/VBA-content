@@ -3,10 +3,11 @@ title: PictureFormat.CropLeft Property (Publisher)
 keywords: vbapb10.chm3604740
 f1_keywords:
 - vbapb10.chm3604740
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropLeft
 ms.assetid: f9fd2031-83f7-ea81-84eb-4f1ac6d65082
+ms.date: 06/08/2017
 ---
 
 

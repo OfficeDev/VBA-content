@@ -3,10 +3,11 @@ title: Connects.Count Property (Visio)
 keywords: vis_sdr.chm10413330
 f1_keywords:
 - vis_sdr.chm10413330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connects.Count
 ms.assetid: 52be9eb0-5130-2490-98a0-58215dead3d5
+ms.date: 06/08/2017
 ---
 
 

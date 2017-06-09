@@ -3,10 +3,11 @@ title: Table.Borders Property (Word)
 keywords: vbawd10.chm156304460
 f1_keywords:
 - vbawd10.chm156304460
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Borders
 ms.assetid: 904bce6b-db91-32be-f65d-7200f9a63be8
+ms.date: 06/08/2017
 ---
 
 

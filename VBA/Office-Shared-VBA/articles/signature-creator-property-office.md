@@ -1,9 +1,10 @@
 ---
 title: Signature.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature.Creator
 ms.assetid: f0b89afe-1aee-d0bb-8756-40396e662b6d
+ms.date: 06/08/2017
 ---
 
 

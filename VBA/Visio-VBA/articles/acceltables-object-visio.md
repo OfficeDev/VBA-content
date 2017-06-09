@@ -3,10 +3,11 @@ title: AccelTables Object (Visio)
 keywords: vis_sdr.chm10025
 f1_keywords:
 - vis_sdr.chm10025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelTables
 ms.assetid: 1bc9671b-83dc-1349-9171-92d1650ebec8
+ms.date: 06/08/2017
 ---
 
 

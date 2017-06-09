@@ -3,10 +3,11 @@ title: PivotTable.PageFields Property (Excel)
 keywords: vbaxl10.chm235086
 f1_keywords:
 - vbaxl10.chm235086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PageFields
 ms.assetid: eff7a772-0472-41ec-412f-9a56f0a0de16
+ms.date: 06/08/2017
 ---
 
 

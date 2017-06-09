@@ -3,10 +3,11 @@ title: NewFile.Remove Method (Office)
 keywords: vbaof11.chm235002
 f1_keywords:
 - vbaof11.chm235002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.NewFile.Remove
 ms.assetid: 1954580b-3c8b-3e4b-0884-8d32932fbf58
+ms.date: 06/08/2017
 ---
 
 

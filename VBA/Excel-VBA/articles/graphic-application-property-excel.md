@@ -3,10 +3,11 @@ title: Graphic.Application Property (Excel)
 keywords: vbaxl10.chm693073
 f1_keywords:
 - vbaxl10.chm693073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.Application
 ms.assetid: 9d8eb663-9f14-331f-60ab-bee49651940b
+ms.date: 06/08/2017
 ---
 
 

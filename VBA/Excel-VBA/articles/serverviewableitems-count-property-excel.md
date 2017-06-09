@@ -3,10 +3,11 @@ title: ServerViewableItems.Count Property (Excel)
 keywords: vbaxl10.chm833073
 f1_keywords:
 - vbaxl10.chm833073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.Count
 ms.assetid: 4a26873e-49cd-ad71-a96a-d5f40e51f31c
+ms.date: 06/08/2017
 ---
 
 

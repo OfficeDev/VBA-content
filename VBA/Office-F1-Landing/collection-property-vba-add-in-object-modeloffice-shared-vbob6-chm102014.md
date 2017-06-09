@@ -3,8 +3,9 @@ title: Collection Property (VBA Add-In Object Model), Office Shared [vbob6.chm10
 keywords: vbob6.chm102014
 f1_keywords:
 - vbob6.chm102014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7a204933-a5e5-41c8-96e5-1d6080ff3d7d
+ms.date: 06/08/2017
 ---
 
 

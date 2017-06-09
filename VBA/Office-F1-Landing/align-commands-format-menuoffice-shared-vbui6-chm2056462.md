@@ -3,8 +3,9 @@ title: Align Commands (Format Menu), Office Shared [vbui6.chm2056462]
 keywords: vbui6.chm2056462
 f1_keywords:
 - vbui6.chm2056462
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc6bae36-472e-4ee7-9e45-94b40c756a1f
+ms.date: 06/08/2017
 ---
 
 

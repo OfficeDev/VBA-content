@@ -3,10 +3,11 @@ title: Window.MergeClass Property (Visio)
 keywords: vis_sdr.chm11650715
 f1_keywords:
 - vis_sdr.chm11650715
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.MergeClass
 ms.assetid: 9ab7b4e7-9be3-9cfe-3a45-57825930ca15
+ms.date: 06/08/2017
 ---
 
 

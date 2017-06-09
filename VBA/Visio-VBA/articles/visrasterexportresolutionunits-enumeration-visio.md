@@ -3,10 +3,11 @@ title: VisRasterExportResolutionUnits Enumeration (Visio)
 keywords: vis_sdr.chm70770
 f1_keywords:
 - vis_sdr.chm70770
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRasterExportResolutionUnits
 ms.assetid: bc3fbcf3-7b15-0bc2-4e03-6badf4be00ce
+ms.date: 06/08/2017
 ---
 
 

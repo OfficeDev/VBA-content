@@ -3,8 +3,9 @@ title: SelectedVBComponent Property (VBA Add-In Object Model)
 keywords: vbob6.chm100173
 f1_keywords:
 - vbob6.chm100173
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 43f5d276-1bcb-8177-9ab0-dc40affdc61f
+ms.date: 06/08/2017
 ---
 
 

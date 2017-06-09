@@ -3,10 +3,11 @@ title: CanvasShapes.AddShape Method (Word)
 keywords: vbawd10.chm7536657
 f1_keywords:
 - vbawd10.chm7536657
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.AddShape
 ms.assetid: b23c69f1-8653-a98f-d7f4-6648e0e214fa
+ms.date: 06/08/2017
 ---
 
 

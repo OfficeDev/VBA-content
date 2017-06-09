@@ -3,10 +3,11 @@ title: ListBox.LayoutID Property (Access)
 keywords: vbaac10.chm11338
 f1_keywords:
 - vbaac10.chm11338
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.LayoutID
 ms.assetid: 0926d2c9-dc23-76ac-29a2-07a800f5fba3
+ms.date: 06/08/2017
 ---
 
 

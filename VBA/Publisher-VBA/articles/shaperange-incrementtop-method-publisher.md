@@ -3,10 +3,11 @@ title: ShapeRange.IncrementTop Method (Publisher)
 keywords: vbapb10.chm2293794
 f1_keywords:
 - vbapb10.chm2293794
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.IncrementTop
 ms.assetid: 8172406f-fac5-ad3d-49b8-cb4858d45c6d
+ms.date: 06/08/2017
 ---
 
 

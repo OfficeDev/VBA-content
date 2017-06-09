@@ -3,10 +3,11 @@ title: OlkFrameHeader.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000467
 f1_keywords:
 - vbaol11.chm1000467
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.MousePointer
 ms.assetid: 6d4e32a5-1218-a351-b3d9-40e3ed1bac03
+ms.date: 06/08/2017
 ---
 
 

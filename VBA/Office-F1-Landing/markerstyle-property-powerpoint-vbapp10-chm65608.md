@@ -3,8 +3,9 @@ title: MarkerStyle Property, PowerPoint [vbapp10.chm65608]
 keywords: vbapp10.chm65608
 f1_keywords:
 - vbapp10.chm65608
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d9f7100-f9ee-43c1-8168-9c4c1367e6a6
+ms.date: 06/08/2017
 ---
 
 

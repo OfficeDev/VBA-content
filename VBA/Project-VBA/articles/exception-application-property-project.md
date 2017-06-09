@@ -1,9 +1,10 @@
 ---
 title: Exception.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Application
 ms.assetid: 825bce08-9310-659f-eef8-d1c7baece1d0
+ms.date: 06/08/2017
 ---
 
 

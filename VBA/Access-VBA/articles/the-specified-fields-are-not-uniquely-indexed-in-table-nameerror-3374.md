@@ -3,14 +3,15 @@ title: The specified fields are not uniquely indexed in table <name>. (Error 337
 keywords: jeterr40.chm5003374
 f1_keywords:
 - jeterr40.chm5003374
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 36f66481-d717-8241-f18e-6672ab830fae
+ms.date: 06/08/2017
 ---
 
 
 # The specified fields are not uniquely indexed in table <name>. (Error 3374)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

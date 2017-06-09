@@ -3,8 +3,9 @@ title: Out of memory; some watches might have been deleted
 keywords: vblr6.chm1040229
 f1_keywords:
 - vblr6.chm1040229
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78af5be3-036c-e317-e075-befc7dca6c4b
+ms.date: 06/08/2017
 ---
 
 

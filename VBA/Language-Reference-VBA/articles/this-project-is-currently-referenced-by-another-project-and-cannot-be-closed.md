@@ -3,8 +3,9 @@ title: This project is currently referenced by another project and cannot be clo
 keywords: vblr6.chm60008
 f1_keywords:
 - vblr6.chm60008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c520ab1c-88c0-1b0a-cf24-8db672acb682
+ms.date: 06/08/2017
 ---
 
 

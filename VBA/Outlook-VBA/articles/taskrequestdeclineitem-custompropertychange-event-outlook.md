@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.CustomPropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.CustomPropertyChange
 ms.assetid: 913f18fb-d3e6-3aa0-61a0-3ce2e9130a62
+ms.date: 06/08/2017
 ---
 
 

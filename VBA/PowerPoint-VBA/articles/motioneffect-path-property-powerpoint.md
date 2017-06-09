@@ -3,10 +3,11 @@ title: MotionEffect.Path Property (PowerPoint)
 keywords: vbapp10.chm658009
 f1_keywords:
 - vbapp10.chm658009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MotionEffect.Path
 ms.assetid: 974cd9cd-9b79-8415-d322-2ad27fd1a587
+ms.date: 06/08/2017
 ---
 
 

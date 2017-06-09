@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.SelectionChange Event (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4f637ff7-4b0d-c66e-ae51-bfd38b6e7f3a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Break.Creator Property (Word)
 keywords: vbawd10.chm200344553
 f1_keywords:
 - vbawd10.chm200344553
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Break.Creator
 ms.assetid: c711f505-3b1e-25a6-a8c7-5afcb0955dc4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.Envelope Property (Word)
 keywords: vbawd10.chm158007324
 f1_keywords:
 - vbawd10.chm158007324
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Envelope
 ms.assetid: 00978466-69b0-a6b8-6111-5b133dd820d5
+ms.date: 06/08/2017
 ---
 
 

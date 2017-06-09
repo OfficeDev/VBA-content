@@ -3,10 +3,11 @@ title: Selection.Sections Property (Word)
 keywords: vbawd10.chm158662714
 f1_keywords:
 - vbawd10.chm158662714
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Sections
 ms.assetid: ac8c26f3-6870-cd25-6f10-21efd16d47d9
+ms.date: 06/08/2017
 ---
 
 

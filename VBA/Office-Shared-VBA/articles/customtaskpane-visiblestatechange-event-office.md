@@ -3,10 +3,11 @@ title: CustomTaskPane.VisibleStateChange Event (Office)
 keywords: vbaof11.chm302001
 f1_keywords:
 - vbaof11.chm302001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.VisibleStateChange
 ms.assetid: 6faccef7-f35f-d0c8-383f-54493e4b4c8b
+ms.date: 06/08/2017
 ---
 
 

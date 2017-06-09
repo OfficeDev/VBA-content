@@ -3,10 +3,11 @@ title: Application.GetCustomListContents Method (Excel)
 keywords: vbaxl10.chm133140
 f1_keywords:
 - vbaxl10.chm133140
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.GetCustomListContents
 ms.assetid: 3adafb35-f7d0-0233-ff7c-c31d5e48f574
+ms.date: 06/08/2017
 ---
 
 

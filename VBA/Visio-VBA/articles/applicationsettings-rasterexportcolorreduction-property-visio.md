@@ -3,10 +3,11 @@ title: ApplicationSettings.RasterExportColorReduction Property (Visio)
 keywords: vis_sdr.chm16262530
 f1_keywords:
 - vis_sdr.chm16262530
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportColorReduction
 ms.assetid: 7897f3aa-d7d1-4dcc-d4f1-9c38771c0122
+ms.date: 06/08/2017
 ---
 
 

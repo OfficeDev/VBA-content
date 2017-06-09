@@ -3,10 +3,11 @@ title: Chart.BeforeRightClick Event (Excel)
 keywords: vbaxl10.chm500079
 f1_keywords:
 - vbaxl10.chm500079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.BeforeRightClick
 ms.assetid: d01f6911-2f6b-3118-27a2-dfafa48791ab
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Invalid SQL syntax - expected a database privilege, such as CREATEDB or CONNECT (Error 3786)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e331d88b-48da-0c1b-f7f0-05b2bb652115
+ms.date: 06/08/2017
 ---
 
 
 # Invalid SQL syntax - expected a database privilege, such as CREATEDB or CONNECT (Error 3786)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

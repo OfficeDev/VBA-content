@@ -3,10 +3,11 @@ title: Actions.Remove Method (Outlook)
 keywords: vbaol11.chm152
 f1_keywords:
 - vbaol11.chm152
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Actions.Remove
 ms.assetid: a44c382b-0eff-2033-da91-05bee0e210b2
+ms.date: 06/08/2017
 ---
 
 

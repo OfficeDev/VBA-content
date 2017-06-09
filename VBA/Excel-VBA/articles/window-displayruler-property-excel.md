@@ -3,10 +3,11 @@ title: Window.DisplayRuler Property (Excel)
 keywords: vbaxl10.chm356136
 f1_keywords:
 - vbaxl10.chm356136
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.DisplayRuler
 ms.assetid: 16cf207e-6d11-2689-9b04-5f9b9a65d848
+ms.date: 06/08/2017
 ---
 
 

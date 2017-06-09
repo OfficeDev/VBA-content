@@ -3,10 +3,11 @@ title: DistListItem.TaskStartDate Property (Outlook)
 keywords: vbaol11.chm1170
 f1_keywords:
 - vbaol11.chm1170
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.TaskStartDate
 ms.assetid: 149142c1-d19d-1136-a67d-0ec71cf2db2d
+ms.date: 06/08/2017
 ---
 
 

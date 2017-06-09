@@ -3,10 +3,11 @@ title: MailMergeDataSource.ValidatedClean Property (Publisher)
 keywords: vbapb10.chm6291497
 f1_keywords:
 - vbapb10.chm6291497
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.ValidatedClean
 ms.assetid: 652d2c25-dd15-7431-897b-b17b171b10ea
+ms.date: 06/08/2017
 ---
 
 

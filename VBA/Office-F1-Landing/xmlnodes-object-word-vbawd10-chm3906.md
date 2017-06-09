@@ -3,8 +3,9 @@ title: XMLNodes Object, Word [vbawd10.chm3906]
 keywords: vbawd10.chm3906
 f1_keywords:
 - vbawd10.chm3906
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df5dab14-4a3f-402a-baa2-383633466ef5
+ms.date: 06/08/2017
 ---
 
 

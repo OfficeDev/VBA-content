@@ -3,8 +3,9 @@ title: Can't open Clipboard (Error 521), Office Shared [vblr6.chm521]
 keywords: vblr6.chm521
 f1_keywords:
 - vblr6.chm521
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e9622997-0f78-40a3-ad2c-5ed28b724eb8
+ms.date: 06/08/2017
 ---
 
 

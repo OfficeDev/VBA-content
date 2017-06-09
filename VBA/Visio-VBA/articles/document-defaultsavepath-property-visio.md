@@ -3,10 +3,11 @@ title: Document.DefaultSavePath Property (Visio)
 keywords: vis_sdr.chm10560100
 f1_keywords:
 - vis_sdr.chm10560100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DefaultSavePath
 ms.assetid: 13d159c8-294b-aa3f-466d-092f3ef0b93c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: PlaySettings.Application Property (PowerPoint)
 keywords: vbapp10.chm568001
 f1_keywords:
 - vbapp10.chm568001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.Application
 ms.assetid: 740e7607-d3a0-b9f6-e13d-9ba3319ecceb
+ms.date: 06/08/2017
 ---
 
 

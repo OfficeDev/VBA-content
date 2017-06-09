@@ -1,9 +1,10 @@
 ---
 title: PictureFormat.Creator Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.Creator
 ms.assetid: 4a2777a6-ed15-ed24-4553-1b96172ab57f
+ms.date: 06/08/2017
 ---
 
 

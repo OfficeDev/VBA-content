@@ -3,10 +3,11 @@ title: PbSubmitDataFormatType Enumeration (Publisher)
 keywords: vbapb10.chm65592
 f1_keywords:
 - vbapb10.chm65592
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbSubmitDataFormatType
 ms.assetid: 650c0362-afd8-18f2-f9a8-119baba4acf6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DataLabel.ShowValue Property (Word)
 keywords: vbawd10.chm233900008
 f1_keywords:
 - vbawd10.chm233900008
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.ShowValue
 ms.assetid: 1dec8c2c-07b0-57a1-7f66-da0d263d6075
+ms.date: 06/08/2017
 ---
 
 

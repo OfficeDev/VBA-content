@@ -3,10 +3,11 @@ title: Resource.WindowsUserAccount Property (Project)
 keywords: vbapj.chm132826
 f1_keywords:
 - vbapj.chm132826
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.WindowsUserAccount
 ms.assetid: 3183283f-3a35-c6da-8d5d-40fb3fd39bc2
+ms.date: 06/08/2017
 ---
 
 

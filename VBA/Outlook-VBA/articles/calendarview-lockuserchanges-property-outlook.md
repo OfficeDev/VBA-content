@@ -3,10 +3,11 @@ title: CalendarView.LockUserChanges Property (Outlook)
 keywords: vbaol11.chm2617
 f1_keywords:
 - vbaol11.chm2617
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.LockUserChanges
 ms.assetid: b5102728-a0d4-6eb6-15ae-916644fe6f9c
+ms.date: 06/08/2017
 ---
 
 

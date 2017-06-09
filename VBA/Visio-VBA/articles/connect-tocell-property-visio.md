@@ -3,10 +3,11 @@ title: Connect.ToCell Property (Visio)
 keywords: vis_sdr.chm10314545
 f1_keywords:
 - vis_sdr.chm10314545
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.ToCell
 ms.assetid: 2210e427-132d-d713-02bf-0fd19ce225b7
+ms.date: 06/08/2017
 ---
 
 

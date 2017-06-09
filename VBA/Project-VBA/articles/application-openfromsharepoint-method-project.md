@@ -3,10 +3,11 @@ title: Application.OpenFromSharePoint Method (Project)
 keywords: vbapj.chm2293
 f1_keywords:
 - vbapj.chm2293
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OpenFromSharePoint
 ms.assetid: 415f8b11-5c6f-d9df-fb58-61ff7f392b5f
+ms.date: 06/08/2017
 ---
 
 

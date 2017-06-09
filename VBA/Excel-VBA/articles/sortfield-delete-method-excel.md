@@ -3,10 +3,11 @@ title: SortField.Delete Method (Excel)
 keywords: vbaxl10.chm843080
 f1_keywords:
 - vbaxl10.chm843080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField.Delete
 ms.assetid: dd48027b-d6d6-0431-4123-a005c66ab457
+ms.date: 06/08/2017
 ---
 
 

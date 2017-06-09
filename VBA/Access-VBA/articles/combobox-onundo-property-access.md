@@ -3,10 +3,11 @@ title: ComboBox.OnUndo Property (Access)
 keywords: vbaac10.chm11474
 f1_keywords:
 - vbaac10.chm11474
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnUndo
 ms.assetid: 848f5228-7238-6e56-af49-8334c821ec04
+ms.date: 06/08/2017
 ---
 
 

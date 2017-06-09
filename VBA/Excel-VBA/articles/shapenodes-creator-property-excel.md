@@ -1,9 +1,10 @@
 ---
 title: ShapeNodes.Creator Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Creator
 ms.assetid: 995d9596-a48b-4fd2-6682-45c453ed91ad
+ms.date: 06/08/2017
 ---
 
 

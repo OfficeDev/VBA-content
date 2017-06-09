@@ -3,10 +3,11 @@ title: TaskRequestUpdateItem.Size Property (Outlook)
 keywords: vbaol11.chm1943
 f1_keywords:
 - vbaol11.chm1943
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Size
 ms.assetid: a5e4f4ba-decf-b95b-6ae6-d4139f1df6fd
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Task.Text21 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text21
 ms.assetid: 74fbc857-4e7d-829a-2ed0-72b639a4bc50
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Project.DefaultFixedCostAccrual Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultFixedCostAccrual
 ms.assetid: 24acadcb-6eed-6b5e-ca50-5b509a7e4af0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Chart.HeightPercent Property (PowerPoint)
 keywords: vbapp10.chm684034
 f1_keywords:
 - vbapp10.chm684034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.HeightPercent
 ms.assetid: 71b6b6e3-ab2c-4ba3-cbbe-940fcbfe7efa
+ms.date: 06/08/2017
 ---
 
 

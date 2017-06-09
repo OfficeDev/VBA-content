@@ -1,9 +1,10 @@
 ---
 title: Assignment.Baseline4Finish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline4Finish
 ms.assetid: 3339d680-94b3-48d6-86a1-cab385465bd9
+ms.date: 06/08/2017
 ---
 
 

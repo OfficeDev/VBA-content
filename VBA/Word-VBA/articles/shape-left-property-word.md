@@ -3,10 +3,11 @@ title: Shape.Left Property (Word)
 keywords: vbawd10.chm161480815
 f1_keywords:
 - vbawd10.chm161480815
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Left
 ms.assetid: 9c14ebc2-70fa-027b-63f0-6e44e60f8eed
+ms.date: 06/08/2017
 ---
 
 

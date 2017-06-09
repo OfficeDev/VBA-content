@@ -1,7 +1,8 @@
 ---
 title: Create a Group of Controls
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 19efb861-fc49-7e8e-6562-d94bc32d32db
+ms.date: 06/08/2017
 ---
 
 

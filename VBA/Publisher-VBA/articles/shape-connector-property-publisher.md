@@ -3,10 +3,11 @@ title: Shape.Connector Property (Publisher)
 keywords: vbapb10.chm2228277
 f1_keywords:
 - vbapb10.chm2228277
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Connector
 ms.assetid: 6cdff1e7-59b0-9905-96f8-99b79db1acd5
+ms.date: 06/08/2017
 ---
 
 

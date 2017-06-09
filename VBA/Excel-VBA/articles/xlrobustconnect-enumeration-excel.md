@@ -1,9 +1,10 @@
 ---
 title: XlRobustConnect Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlRobustConnect
 ms.assetid: 124b8c0f-5120-043e-f226-80d0a7fefe15
+ms.date: 06/08/2017
 ---
 
 

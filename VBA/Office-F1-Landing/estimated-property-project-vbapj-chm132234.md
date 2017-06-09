@@ -3,8 +3,9 @@ title: Estimated Property, Project [vbapj.chm132234]
 keywords: vbapj.chm132234
 f1_keywords:
 - vbapj.chm132234
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5dc54fba-aa32-4827-8770-475fa69d735a
+ms.date: 06/08/2017
 ---
 
 

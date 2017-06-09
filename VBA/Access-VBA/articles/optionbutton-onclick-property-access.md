@@ -3,10 +3,11 @@ title: OptionButton.OnClick Property (Access)
 keywords: vbaac10.chm10614
 f1_keywords:
 - vbaac10.chm10614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnClick
 ms.assetid: 74fe1cf7-0f17-a495-6e2d-527691eae129
+ms.date: 06/08/2017
 ---
 
 

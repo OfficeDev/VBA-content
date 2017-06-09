@@ -1,9 +1,10 @@
 ---
 title: Points.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Parent
 ms.assetid: 25646f9f-dd51-c20b-0372-b875317beddc
+ms.date: 06/08/2017
 ---
 
 

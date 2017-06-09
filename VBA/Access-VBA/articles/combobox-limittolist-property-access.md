@@ -3,10 +3,11 @@ title: ComboBox.LimitToList Property (Access)
 keywords: vbaac10.chm11387
 f1_keywords:
 - vbaac10.chm11387
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.LimitToList
 ms.assetid: 885ed814-6e04-b9f1-0acb-3ded28e00f93
+ms.date: 06/08/2017
 ---
 
 

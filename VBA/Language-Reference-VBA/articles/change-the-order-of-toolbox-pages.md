@@ -3,8 +3,9 @@ title: Change the order of Toolbox pages
 keywords: fm20.chm5225215
 f1_keywords:
 - fm20.chm5225215
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1b24f464-bdb8-2223-2d64-30c631f6ec8b
+ms.date: 06/08/2017
 ---
 
 

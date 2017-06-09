@@ -3,10 +3,11 @@ title: FindReplace.ReplaceScope Property (Publisher)
 keywords: vbapb10.chm8323085
 f1_keywords:
 - vbapb10.chm8323085
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace.ReplaceScope
 ms.assetid: 555fe65b-9edb-8888-03f0-15ce34813d5f
+ms.date: 06/08/2017
 ---
 
 

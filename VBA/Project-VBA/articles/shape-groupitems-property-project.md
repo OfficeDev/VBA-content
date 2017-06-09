@@ -1,7 +1,8 @@
 ---
 title: Shape.GroupItems Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 2045400a-37f2-aac7-5fc9-cc4840fbf837
+ms.date: 06/08/2017
 ---
 
 

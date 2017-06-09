@@ -1,9 +1,10 @@
 ---
 title: Assignment.ActualFinish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.ActualFinish
 ms.assetid: b1ef2626-4fa2-a036-28f0-fbbff5c06407
+ms.date: 06/08/2017
 ---
 
 

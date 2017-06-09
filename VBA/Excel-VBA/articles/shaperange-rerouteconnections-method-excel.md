@@ -3,10 +3,11 @@ title: ShapeRange.RerouteConnections Method (Excel)
 keywords: vbaxl10.chm640088
 f1_keywords:
 - vbaxl10.chm640088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.RerouteConnections
 ms.assetid: e84f9b7a-992b-ec54-521b-c2b949d28eda
+ms.date: 06/08/2017
 ---
 
 

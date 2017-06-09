@@ -3,10 +3,11 @@ title: Page.DropConnected Method (Visio)
 keywords: vis_sdr.chm10962125
 f1_keywords:
 - vis_sdr.chm10962125
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropConnected
 ms.assetid: 7e16dc46-df74-4482-91a4-b0a115f979b2
+ms.date: 06/08/2017
 ---
 
 

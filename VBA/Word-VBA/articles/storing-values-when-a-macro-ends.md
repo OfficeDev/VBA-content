@@ -1,7 +1,8 @@
 ---
 title: Storing Values When a Macro Ends
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 25d6d0ba-d103-3573-d534-1157cfb603f0
+ms.date: 06/08/2017
 ---
 
 

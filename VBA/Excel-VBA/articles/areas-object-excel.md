@@ -3,10 +3,11 @@ title: Areas Object (Excel)
 keywords: vbaxl10.chm196072
 f1_keywords:
 - vbaxl10.chm196072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Areas
 ms.assetid: 43d05ef3-7ae2-2881-dec2-6fec8281f045
+ms.date: 06/08/2017
 ---
 
 

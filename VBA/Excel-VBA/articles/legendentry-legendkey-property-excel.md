@@ -3,10 +3,11 @@ title: LegendEntry.LegendKey Property (Excel)
 keywords: vbaxl10.chm586077
 f1_keywords:
 - vbaxl10.chm586077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntry.LegendKey
 ms.assetid: 727de973-636f-1018-5fc0-809a6af3a6f5
+ms.date: 06/08/2017
 ---
 
 

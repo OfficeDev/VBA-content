@@ -3,10 +3,11 @@ title: Font.Name Property (Word)
 keywords: vbawd10.chm156369038
 f1_keywords:
 - vbawd10.chm156369038
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Name
 ms.assetid: 53928c78-c3f8-1b61-4cf4-fbe3cdc074c2
+ms.date: 06/08/2017
 ---
 
 

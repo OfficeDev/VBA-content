@@ -3,10 +3,11 @@ title: AutoRecover.Path Property (Excel)
 keywords: vbaxl10.chm696075
 f1_keywords:
 - vbaxl10.chm696075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoRecover.Path
 ms.assetid: 1b95e149-d758-89f9-3879-760ffda01bf8
+ms.date: 06/08/2017
 ---
 
 

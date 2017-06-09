@@ -1,9 +1,10 @@
 ---
 title: Style Property
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Style
 ms.assetid: b951714c-360e-47c7-85a4-c3260d898b1d
+ms.date: 06/08/2017
 ---
 
 

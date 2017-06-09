@@ -3,8 +3,9 @@ title: Windowless controls can't have menus.
 keywords: vblr6.chm1117777
 f1_keywords:
 - vblr6.chm1117777
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c25cf98-24a2-d2ee-1512-999597b1cf3f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Task.Predecessors Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Predecessors
 ms.assetid: 4912eb9f-ad7b-68af-8c3b-c066715c1777
+ms.date: 06/08/2017
 ---
 
 

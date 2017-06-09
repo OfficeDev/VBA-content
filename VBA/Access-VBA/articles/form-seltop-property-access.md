@@ -3,10 +3,11 @@ title: Form.SelTop Property (Access)
 keywords: vbaac10.chm13470
 f1_keywords:
 - vbaac10.chm13470
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SelTop
 ms.assetid: 5503187c-09ea-222e-5db2-f3c2298f34dc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: RemoteItem.FormDescription Property (Outlook)
 keywords: vbaol11.chm1596
 f1_keywords:
 - vbaol11.chm1596
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.FormDescription
 ms.assetid: 5f93ee72-3812-eea8-ff36-e32e85fd466f
+ms.date: 06/08/2017
 ---
 
 

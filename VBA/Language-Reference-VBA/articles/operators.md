@@ -1,7 +1,8 @@
 ---
 title: Operators
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6b2abc26-ad22-4b28-9a2b-d178d32538ed
+ms.date: 06/08/2017
 ---
 
 

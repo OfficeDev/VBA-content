@@ -3,10 +3,11 @@ title: Range.SynonymInfo Property (Word)
 keywords: vbawd10.chm157155483
 f1_keywords:
 - vbawd10.chm157155483
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.SynonymInfo
 ms.assetid: b63d2a0b-baa1-306d-10ee-72223099a9f2
+ms.date: 06/08/2017
 ---
 
 

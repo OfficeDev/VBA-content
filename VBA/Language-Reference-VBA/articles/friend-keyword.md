@@ -3,8 +3,9 @@ title: Friend <keyword>
 keywords: vblr6.chm1103683
 f1_keywords:
 - vblr6.chm1103683
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64745732-35c9-cce0-55bb-57133d322ef0
+ms.date: 06/08/2017
 ---
 
 

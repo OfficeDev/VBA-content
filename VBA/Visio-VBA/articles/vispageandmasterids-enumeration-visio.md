@@ -3,8 +3,9 @@ title: VisPageAndMasterIDs Enumeration (Visio)
 keywords: vis_sdr.chm70440
 f1_keywords:
 - vis_sdr.chm70440
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 82ca6dc2-41d8-e50a-85f8-549b74d2a700
+ms.date: 06/08/2017
 ---
 
 

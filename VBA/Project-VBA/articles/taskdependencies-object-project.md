@@ -1,7 +1,8 @@
 ---
 title: TaskDependencies Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 60bda111-998f-1cc2-0b18-b419041767f5
+ms.date: 06/08/2017
 ---
 
 

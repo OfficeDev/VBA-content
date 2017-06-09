@@ -3,8 +3,9 @@ title: ProtectedViewWindows Object, Word [vbawd10.chm1256]
 keywords: vbawd10.chm1256
 f1_keywords:
 - vbawd10.chm1256
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cfe27379-bfa4-4757-bb80-32fbce953b7a
+ms.date: 06/08/2017
 ---
 
 

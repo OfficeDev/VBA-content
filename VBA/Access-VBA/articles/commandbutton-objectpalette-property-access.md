@@ -3,10 +3,11 @@ title: CommandButton.ObjectPalette Property (Access)
 keywords: vbaac10.chm10490
 f1_keywords:
 - vbaac10.chm10490
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ObjectPalette
 ms.assetid: e4c8ea81-b39f-e580-9a68-c809c0deaf71
+ms.date: 06/08/2017
 ---
 
 

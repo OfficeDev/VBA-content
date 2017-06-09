@@ -3,14 +3,15 @@ title: The database <database name> is already in use by another person or proce
 keywords: jeterr40.chm5003196
 f1_keywords:
 - jeterr40.chm5003196
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 40f1c4e3-db0b-b82b-4c9b-a6c11da4201f
+ms.date: 06/08/2017
 ---
 
 
 # The database <database name> is already in use by another person or process. When the database is available, try the operation again. (Error 3196)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Point.MarkerBackgroundColorIndex Property (Excel)
 keywords: vbaxl10.chm576085
 f1_keywords:
 - vbaxl10.chm576085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.MarkerBackgroundColorIndex
 ms.assetid: 67201623-5c76-1983-1710-441d7e54b8a5
+ms.date: 06/08/2017
 ---
 
 

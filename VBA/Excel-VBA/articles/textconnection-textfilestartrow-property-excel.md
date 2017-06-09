@@ -3,8 +3,9 @@ title: TextConnection.TextFileStartRow Property (Excel)
 keywords: vbaxl10.chm926086
 f1_keywords:
 - vbaxl10.chm926086
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: da44f97b-5733-6f0a-d90b-c16adb4fecbe
+ms.date: 06/08/2017
 ---
 
 

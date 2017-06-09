@@ -3,8 +3,9 @@ title: ThisWorkbook Property, Excel [vbaxl10.chm132110]
 keywords: vbaxl10.chm132110
 f1_keywords:
 - vbaxl10.chm132110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 136b07ae-1295-4c1e-8a75-23650f1bb457
+ms.date: 06/08/2017
 ---
 
 

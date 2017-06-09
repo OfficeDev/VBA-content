@@ -3,10 +3,11 @@ title: ControlFormat.Min Property (Excel)
 keywords: vbaxl10.chm630086
 f1_keywords:
 - vbaxl10.chm630086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.Min
 ms.assetid: e5b70b54-5304-d013-2398-128609ddb7af
+ms.date: 06/08/2017
 ---
 
 

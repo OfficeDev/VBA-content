@@ -3,10 +3,11 @@ title: Row.Delete Method (PowerPoint)
 keywords: vbapp10.chm626005
 f1_keywords:
 - vbapp10.chm626005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Row.Delete
 ms.assetid: 243b25b9-9789-1510-f813-14364be0317b
+ms.date: 06/08/2017
 ---
 
 

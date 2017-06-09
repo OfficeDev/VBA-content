@@ -3,10 +3,11 @@ title: ResampleMediaTask.ContainerType Property (PowerPoint)
 keywords: vbapp10.chm727008
 f1_keywords:
 - vbapp10.chm727008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.ContainerType
 ms.assetid: c15c88d5-8217-dfab-d3f1-dfcabe414281
+ms.date: 06/08/2017
 ---
 
 

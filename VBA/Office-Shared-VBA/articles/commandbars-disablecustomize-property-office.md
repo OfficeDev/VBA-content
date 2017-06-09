@@ -3,10 +3,11 @@ title: CommandBars.DisableCustomize Property (Office)
 keywords: vbaof11.chm2016
 f1_keywords:
 - vbaof11.chm2016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.DisableCustomize
 ms.assetid: cbebdaa7-2e8d-af73-fd18-03b3b11f98ac
+ms.date: 06/08/2017
 ---
 
 

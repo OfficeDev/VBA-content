@@ -3,10 +3,11 @@ title: GraphicItem.Document Property (Visio)
 keywords: vis_sdr.chm16913430
 f1_keywords:
 - vis_sdr.chm16913430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.Document
 ms.assetid: 1e441ed9-2a42-67ba-3860-1211abbc8d29
+ms.date: 06/08/2017
 ---
 
 

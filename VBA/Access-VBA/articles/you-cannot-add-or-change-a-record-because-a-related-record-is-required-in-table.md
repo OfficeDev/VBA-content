@@ -3,14 +3,15 @@ title: You cannot add or change a record because a related record is required in
 keywords: jeterr40.chm5003201
 f1_keywords:
 - jeterr40.chm5003201
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 371ebb17-1809-8076-9bde-aea1df33ef74
+ms.date: 06/08/2017
 ---
 
 
 # You cannot add or change a record because a related record is required in table <name>. (Error 3201)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

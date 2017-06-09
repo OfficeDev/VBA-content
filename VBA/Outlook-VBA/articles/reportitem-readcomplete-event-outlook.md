@@ -1,6 +1,8 @@
 ---
 title: ReportItem.ReadComplete Event (Outlook)
 ms.assetid: f73cb164-0c88-f439-6474-a4502b6731ea
+ms.date: 06/08/2017
+ms.prod: outlook
 ---
 
 

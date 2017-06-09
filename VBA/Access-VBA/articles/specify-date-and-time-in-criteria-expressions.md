@@ -1,7 +1,8 @@
 ---
 title: Specify Date and Time in Criteria Expressions
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 749379e7-5fbe-3371-a780-ca7915d8de43
+ms.date: 06/08/2017
 ---
 
 

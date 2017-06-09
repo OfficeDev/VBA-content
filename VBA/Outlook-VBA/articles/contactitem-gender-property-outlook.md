@@ -3,10 +3,11 @@ title: ContactItem.Gender Property (Outlook)
 keywords: vbaol11.chm1008
 f1_keywords:
 - vbaol11.chm1008
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Gender
 ms.assetid: 0192a64e-d575-d43f-77ed-adbcc156786f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: MsoPresetGradientType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPresetGradientType
 ms.assetid: d0ee19e7-bdd3-3102-61b4-dbb17d5c0363
+ms.date: 06/08/2017
 ---
 
 

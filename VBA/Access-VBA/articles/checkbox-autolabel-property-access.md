@@ -3,10 +3,11 @@ title: CheckBox.AutoLabel Property (Access)
 keywords: vbaac10.chm10725
 f1_keywords:
 - vbaac10.chm10725
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.AutoLabel
 ms.assetid: b79869ae-f295-a747-37d7-f48a98c300c8
+ms.date: 06/08/2017
 ---
 
 

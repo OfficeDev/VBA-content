@@ -3,10 +3,11 @@ title: Document.ContentControlOnEnter Event (Word)
 keywords: vbawd10.chm4001013
 f1_keywords:
 - vbawd10.chm4001013
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ContentControlOnEnter
 ms.assetid: 593eca61-886c-85e9-fde2-1dc20c80740b
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.ExpandAllGroups Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6d62c985-b8cb-a198-b55a-3d6bc7491e7f
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: ShowSeriesName Property, Excel [vbagr10.chm3077091]
 keywords: vbagr10.chm3077091
 f1_keywords:
 - vbagr10.chm3077091
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dabaa1e1-bd04-45ec-9258-f8ac831747fc
+ms.date: 06/08/2017
 ---
 
 

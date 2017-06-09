@@ -3,10 +3,11 @@ title: ChartGroup.HasSeriesLines Property (Excel)
 keywords: vbaxl10.chm568082
 f1_keywords:
 - vbaxl10.chm568082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.HasSeriesLines
 ms.assetid: 4285cf5b-ebb0-a6fd-49c1-d36c341bd016
+ms.date: 06/08/2017
 ---
 
 

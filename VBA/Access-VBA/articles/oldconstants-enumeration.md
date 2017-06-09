@@ -3,16 +3,17 @@ title: OldConstants Enumeration
 keywords: vbaac10.chm10005
 f1_keywords:
 - vbaac10.chm10005
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OldConstants
 ms.assetid: 8a4a0adb-be39-1211-748e-1c4d680b5502
+ms.date: 06/08/2017
 ---
 
 
 # OldConstants Enumeration
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

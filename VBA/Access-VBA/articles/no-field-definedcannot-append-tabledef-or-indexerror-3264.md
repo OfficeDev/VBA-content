@@ -1,13 +1,14 @@
 ---
 title: No field defined -- cannot append TableDef or Index. (Error 3264)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 18353c1b-c3c7-9f41-eb2a-87d732d2127a
+ms.date: 06/08/2017
 ---
 
 
 # No field defined -- cannot append TableDef or Index. (Error 3264)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: Options.MatchFuzzyKiKu Property (Word)
 keywords: vbawd10.chm162988356
 f1_keywords:
 - vbawd10.chm162988356
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyKiKu
 ms.assetid: 2e0bde64-f8c2-c61d-1cb3-b8ee3fa8d22d
+ms.date: 06/08/2017
 ---
 
 

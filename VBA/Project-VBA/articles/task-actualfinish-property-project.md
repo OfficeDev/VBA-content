@@ -1,9 +1,10 @@
 ---
 title: Task.ActualFinish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ActualFinish
 ms.assetid: 183ce863-c7e9-77a7-1f0d-1452596b1b23
+ms.date: 06/08/2017
 ---
 
 

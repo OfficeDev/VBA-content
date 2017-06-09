@@ -3,10 +3,11 @@ title: Window.SplitRow Property (Excel)
 keywords: vbaxl10.chm356114
 f1_keywords:
 - vbaxl10.chm356114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.SplitRow
 ms.assetid: a1b900c3-4152-8701-db1f-1b576249c686
+ms.date: 06/08/2017
 ---
 
 

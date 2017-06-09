@@ -3,10 +3,11 @@ title: Intercept Property
 keywords: vbagr10.chm65722
 f1_keywords:
 - vbagr10.chm65722
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Intercept
 ms.assetid: 9c7c4193-8f9d-0f33-74c7-055a9124320e
+ms.date: 06/08/2017
 ---
 
 

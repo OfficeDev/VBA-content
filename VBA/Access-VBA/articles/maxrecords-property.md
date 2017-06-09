@@ -3,16 +3,17 @@ title: MaxRecords Property
 keywords: vbaac10.chm4422
 f1_keywords:
 - vbaac10.chm4422
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.MaxRecords
 ms.assetid: 30ea62b8-9304-2cdf-ff2f-d8ed665b16b4
+ms.date: 06/08/2017
 ---
 
 
 # MaxRecords Property
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

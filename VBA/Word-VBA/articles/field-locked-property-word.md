@@ -3,10 +3,11 @@ title: Field.Locked Property (Word)
 keywords: vbawd10.chm154075138
 f1_keywords:
 - vbawd10.chm154075138
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Locked
 ms.assetid: 2f1b1351-8de1-f2b0-0c39-b944bf23a92e
+ms.date: 06/08/2017
 ---
 
 

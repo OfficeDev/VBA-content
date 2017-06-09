@@ -3,10 +3,11 @@ title: Shape.ConnectedShapes Method (Visio)
 keywords: vis_sdr.chm11262240
 f1_keywords:
 - vis_sdr.chm11262240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ConnectedShapes
 ms.assetid: 7f5a0ac9-d0a7-d9fe-9ecb-8e8070ab5951
+ms.date: 06/08/2017
 ---
 
 

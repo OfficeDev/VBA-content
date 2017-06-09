@@ -3,10 +3,11 @@ title: ChartFormat.ThreeD Property (Excel)
 keywords: vbaxl10.chm861080
 f1_keywords:
 - vbaxl10.chm861080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFormat.ThreeD
 ms.assetid: e4312222-c681-32b1-cd73-aa3cb9fa2064
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailMergeFields.AddSkipIf Method (Word)
 keywords: vbawd10.chm153026670
 f1_keywords:
 - vbawd10.chm153026670
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddSkipIf
 ms.assetid: feaa8b59-292c-0e6f-661a-af501b395cf9
+ms.date: 06/08/2017
 ---
 
 

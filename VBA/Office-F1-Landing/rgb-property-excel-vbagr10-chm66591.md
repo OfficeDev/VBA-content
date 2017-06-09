@@ -3,8 +3,9 @@ title: RGB Property, Excel [vbagr10.chm66591]
 keywords: vbagr10.chm66591
 f1_keywords:
 - vbagr10.chm66591
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1bdffb6-1180-4664-9906-d5d3d2ef8825
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Document.LockServerFile Method (Word)
 keywords: vbawd10.chm158007805
 f1_keywords:
 - vbawd10.chm158007805
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.LockServerFile
 ms.assetid: 0e9d6d4d-0f07-d815-207e-3a1c73f8c7e7
+ms.date: 06/08/2017
 ---
 
 

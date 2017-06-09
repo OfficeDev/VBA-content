@@ -1,9 +1,10 @@
 ---
 title: Floor.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Parent
 ms.assetid: 9c84009a-4166-1c42-0df0-f449c9dcc783
+ms.date: 06/08/2017
 ---
 
 

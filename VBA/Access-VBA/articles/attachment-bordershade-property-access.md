@@ -3,10 +3,11 @@ title: Attachment.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.BorderShade
 ms.assetid: 39792e3b-e10d-98e8-4fcc-cb95fac69ce1
+ms.date: 06/08/2017
 ---
 
 

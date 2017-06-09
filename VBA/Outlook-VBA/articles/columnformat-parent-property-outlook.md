@@ -3,10 +3,11 @@ title: ColumnFormat.Parent Property (Outlook)
 keywords: vbaol11.chm2727
 f1_keywords:
 - vbaol11.chm2727
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Parent
 ms.assetid: 7f90eaba-9ba5-2bf6-91a3-3872ee052d4a
+ms.date: 06/08/2017
 ---
 
 

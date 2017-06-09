@@ -1,9 +1,10 @@
 ---
 title: Assignment.Text16 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text16
 ms.assetid: cd01c1a8-73f9-4fd1-aea4-434256492dbf
+ms.date: 06/08/2017
 ---
 
 

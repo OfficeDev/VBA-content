@@ -3,10 +3,11 @@ title: AxisTitle.Format Property (Word)
 keywords: vbawd10.chm98238497
 f1_keywords:
 - vbawd10.chm98238497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Format
 ms.assetid: 8a6a3325-6891-985f-fbfa-418de4cbcdef
+ms.date: 06/08/2017
 ---
 
 

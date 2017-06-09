@@ -1,7 +1,8 @@
 ---
 title: PictureEffects Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe7a9f46-f5fa-8ab9-5fb6-c88d283e4663
+ms.date: 06/08/2017
 ---
 
 

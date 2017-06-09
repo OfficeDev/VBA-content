@@ -3,10 +3,11 @@ title: Document.Saved Property (Visio)
 keywords: vis_sdr.chm10514285
 f1_keywords:
 - vis_sdr.chm10514285
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Saved
 ms.assetid: de3141f6-eda9-a62b-847c-e946966fae6b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: FontName Property, Project [vbapj.chm132282]
 keywords: vbapj.chm132282
 f1_keywords:
 - vbapj.chm132282
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b9356aa9-a25b-4060-8f3c-1221d05ea36f
+ms.date: 06/08/2017
 ---
 
 

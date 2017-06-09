@@ -3,10 +3,11 @@ title: Table Object (Publisher)
 keywords: vbapb10.chm4849663
 f1_keywords:
 - vbapb10.chm4849663
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table
 ms.assetid: 09da4a0a-2230-067e-1cac-55321ea044c5
+ms.date: 06/08/2017
 ---
 
 

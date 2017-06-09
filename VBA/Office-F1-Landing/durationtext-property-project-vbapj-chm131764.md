@@ -3,8 +3,9 @@ title: DurationText Property, Project [vbapj.chm131764]
 keywords: vbapj.chm131764
 f1_keywords:
 - vbapj.chm131764
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5a8c8e61-6eb3-4b96-90dc-d70970227704
+ms.date: 06/08/2017
 ---
 
 

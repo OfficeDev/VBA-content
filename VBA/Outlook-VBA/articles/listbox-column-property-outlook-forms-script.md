@@ -1,7 +1,8 @@
 ---
 title: ListBox.Column Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9ad2c048-28f2-78d9-2f9d-b90c15f7967e
+ms.date: 06/08/2017
 ---
 
 

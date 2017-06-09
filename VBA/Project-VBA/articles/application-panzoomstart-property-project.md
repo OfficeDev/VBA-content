@@ -1,9 +1,10 @@
 ---
 title: Application.PanZoomStart Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PanZoomStart
 ms.assetid: 7e5ff081-c5fb-165e-8ded-bad1c3cdc72a
+ms.date: 06/08/2017
 ---
 
 

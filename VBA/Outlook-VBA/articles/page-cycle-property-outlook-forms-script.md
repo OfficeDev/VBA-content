@@ -1,7 +1,8 @@
 ---
 title: Page.Cycle Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 729e72fa-5d2b-a754-481b-a9557d5d3c87
+ms.date: 06/08/2017
 ---
 
 

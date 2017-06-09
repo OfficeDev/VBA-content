@@ -3,10 +3,11 @@ title: Selection.Comments Property (Word)
 keywords: vbawd10.chm158662712
 f1_keywords:
 - vbawd10.chm158662712
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Comments
 ms.assetid: 8f6fda0e-7070-eb42-3e1b-3a2a0654b330
+ms.date: 06/08/2017
 ---
 
 

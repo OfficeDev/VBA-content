@@ -3,10 +3,11 @@ title: SubForm.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.BorderThemeColorIndex
 ms.assetid: 676f3c59-fad3-093e-248f-a43e103ae480
+ms.date: 06/08/2017
 ---
 
 

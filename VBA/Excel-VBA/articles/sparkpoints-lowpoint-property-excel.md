@@ -3,10 +3,11 @@ title: SparkPoints.Lowpoint Property (Excel)
 keywords: vbaxl10.chm873076
 f1_keywords:
 - vbaxl10.chm873076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkPoints.Lowpoint
 ms.assetid: 9f2dade8-4d8b-d5cd-816d-18ac6da120cb
+ms.date: 06/08/2017
 ---
 
 

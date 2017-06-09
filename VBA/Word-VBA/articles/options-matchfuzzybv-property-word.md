@@ -3,10 +3,11 @@ title: Options.MatchFuzzyBV Property (Word)
 keywords: vbawd10.chm162988351
 f1_keywords:
 - vbawd10.chm162988351
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyBV
 ms.assetid: 34b82945-06cd-715b-85e3-e09b9f924d84
+ms.date: 06/08/2017
 ---
 
 

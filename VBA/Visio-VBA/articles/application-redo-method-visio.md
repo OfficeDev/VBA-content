@@ -3,10 +3,11 @@ title: Application.Redo Method (Visio)
 keywords: vis_sdr.chm10016465
 f1_keywords:
 - vis_sdr.chm10016465
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.Redo
 ms.assetid: ab7ac8bc-e747-9188-1546-6bb31f77231b
+ms.date: 06/08/2017
 ---
 
 

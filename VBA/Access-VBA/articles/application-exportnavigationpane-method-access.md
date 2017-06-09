@@ -3,10 +3,11 @@ title: Application.ExportNavigationPane Method (Access)
 keywords: vbaac10.chm12618
 f1_keywords:
 - vbaac10.chm12618
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.ExportNavigationPane
 ms.assetid: 49bd679b-d763-ee3e-0cb4-165f1c45f60d
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: PpSoundFormatType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSoundFormatType
 ms.assetid: a7ee383e-7e0a-b391-9b1f-9e6b7d8dd078
+ms.date: 06/08/2017
 ---
 
 

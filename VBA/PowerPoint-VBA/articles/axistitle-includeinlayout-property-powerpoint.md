@@ -1,9 +1,10 @@
 ---
 title: AxisTitle.IncludeInLayout Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.IncludeInLayout
 ms.assetid: 09aa3c00-1484-c74c-5a96-2e928155e19d
+ms.date: 06/08/2017
 ---
 
 

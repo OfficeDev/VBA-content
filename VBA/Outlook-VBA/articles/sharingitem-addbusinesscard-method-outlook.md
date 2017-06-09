@@ -3,10 +3,11 @@ title: SharingItem.AddBusinessCard Method (Outlook)
 keywords: vbaol11.chm3217
 f1_keywords:
 - vbaol11.chm3217
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AddBusinessCard
 ms.assetid: fa3fa071-b43c-c2d1-7d7c-dc52ab9a1681
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CalendarModule.NavigationGroups Property (Outlook)
 keywords: vbaol11.chm2830
 f1_keywords:
 - vbaol11.chm2830
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.NavigationGroups
 ms.assetid: 2f19eceb-24e6-a55c-7013-c840bd0c9fbb
+ms.date: 06/08/2017
 ---
 
 

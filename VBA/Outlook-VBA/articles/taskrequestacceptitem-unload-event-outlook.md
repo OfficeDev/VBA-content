@@ -1,9 +1,10 @@
 ---
 title: TaskRequestAcceptItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Unload
 ms.assetid: 19e89fda-1887-ad50-5db3-a1bb2ad77261
+ms.date: 06/08/2017
 ---
 
 

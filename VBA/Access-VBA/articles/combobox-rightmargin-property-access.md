@@ -3,10 +3,11 @@ title: ComboBox.RightMargin Property (Access)
 keywords: vbaac10.chm11522
 f1_keywords:
 - vbaac10.chm11522
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.RightMargin
 ms.assetid: 4ee85481-4489-4f81-123b-54062c071b97
+ms.date: 06/08/2017
 ---
 
 

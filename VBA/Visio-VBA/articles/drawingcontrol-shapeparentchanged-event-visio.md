@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.ShapeParentChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeParentChanged
 ms.assetid: f3e0a789-bb27-10b4-f363-effc8f480a54
+ms.date: 06/08/2017
 ---
 
 

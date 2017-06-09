@@ -3,10 +3,11 @@ title: AppointmentItem.AllDayEvent Property (Outlook)
 keywords: vbaol11.chm876
 f1_keywords:
 - vbaol11.chm876
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AllDayEvent
 ms.assetid: 42803963-dce2-9eb1-bddb-62867abc57b5
+ms.date: 06/08/2017
 ---
 
 

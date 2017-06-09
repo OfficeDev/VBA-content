@@ -3,8 +3,9 @@ title: CV Property, Project [vbapj.chm131585]
 keywords: vbapj.chm131585
 f1_keywords:
 - vbapj.chm131585
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd31040d-5a6d-473a-a6b3-51cedcd18a95
+ms.date: 06/08/2017
 ---
 
 

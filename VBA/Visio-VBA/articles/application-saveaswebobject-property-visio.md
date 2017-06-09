@@ -3,10 +3,11 @@ title: Application.SaveAsWebObject Property (Visio)
 keywords: vis_sdr.chm10051660
 f1_keywords:
 - vis_sdr.chm10051660
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SaveAsWebObject
 ms.assetid: ce3f8cb0-8e22-e364-e7d8-b1fc3506bc59
+ms.date: 06/08/2017
 ---
 
 

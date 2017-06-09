@@ -3,10 +3,11 @@ title: ExchangeUser.GetExchangeUserManager Method (Outlook)
 keywords: vbaol11.chm3238
 f1_keywords:
 - vbaol11.chm3238
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetExchangeUserManager
 ms.assetid: ead5e950-7f7a-b213-0daf-c2bff890a30c
+ms.date: 06/08/2017
 ---
 
 

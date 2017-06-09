@@ -3,10 +3,11 @@ title: InlineShapes.Count Property (Publisher)
 keywords: vbapb10.chm5767171
 f1_keywords:
 - vbapb10.chm5767171
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.InlineShapes.Count
 ms.assetid: a78ae487-e7d6-1099-236f-6464c601686f
+ms.date: 06/08/2017
 ---
 
 

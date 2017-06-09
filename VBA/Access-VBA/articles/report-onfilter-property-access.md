@@ -3,10 +3,11 @@ title: Report.OnFilter Property (Access)
 keywords: vbaac10.chm13869
 f1_keywords:
 - vbaac10.chm13869
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnFilter
 ms.assetid: 72af402e-8e37-328e-b0f4-89f54f59bce0
+ms.date: 06/08/2017
 ---
 
 

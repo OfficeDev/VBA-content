@@ -1,9 +1,10 @@
 ---
 title: Resource.Text15 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text15
 ms.assetid: 5d129c9b-19b9-01af-7515-6ba872f8404b
+ms.date: 06/08/2017
 ---
 
 

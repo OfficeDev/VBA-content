@@ -3,10 +3,11 @@ title: CustomerData.Application Property (PowerPoint)
 keywords: vbapp10.chm675001
 f1_keywords:
 - vbapp10.chm675001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData.Application
 ms.assetid: ea270863-48ac-0430-395c-8e771bc826ea
+ms.date: 06/08/2017
 ---
 
 

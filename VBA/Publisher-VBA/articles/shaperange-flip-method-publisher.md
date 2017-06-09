@@ -3,10 +3,11 @@ title: ShapeRange.Flip Method (Publisher)
 keywords: vbapb10.chm2293781
 f1_keywords:
 - vbapb10.chm2293781
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Flip
 ms.assetid: fad24b08-9ada-0d6f-f526-ceec9ef996c1
+ms.date: 06/08/2017
 ---
 
 

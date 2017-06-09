@@ -3,10 +3,11 @@ title: Module.CountOfLines Property (Access)
 keywords: vbaac10.chm12276
 f1_keywords:
 - vbaac10.chm12276
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.CountOfLines
 ms.assetid: 6c3bb4c8-15a9-6365-155d-d28dc0c5de78
+ms.date: 06/08/2017
 ---
 
 

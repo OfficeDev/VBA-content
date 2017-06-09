@@ -3,10 +3,11 @@ title: CalloutFormat.Border Property (Excel)
 keywords: vbaxl10.chm104010
 f1_keywords:
 - vbaxl10.chm104010
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Border
 ms.assetid: 6d0c78d9-b30a-c1ff-940a-e15b4decad42
+ms.date: 06/08/2017
 ---
 
 

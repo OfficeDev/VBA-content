@@ -3,10 +3,11 @@ title: ToggleButton.FontWeight Property (Access)
 keywords: vbaac10.chm11725
 f1_keywords:
 - vbaac10.chm11725
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.FontWeight
 ms.assetid: 8b74b5cb-c5d0-82d4-a902-42dcd49ee106
+ms.date: 06/08/2017
 ---
 
 

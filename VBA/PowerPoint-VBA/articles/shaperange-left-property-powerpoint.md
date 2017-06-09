@@ -3,10 +3,11 @@ title: ShapeRange.Left Property (PowerPoint)
 keywords: vbapp10.chm548026
 f1_keywords:
 - vbapp10.chm548026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Left
 ms.assetid: eb27c0ea-68d1-4819-5708-fa5a198cc086
+ms.date: 06/08/2017
 ---
 
 

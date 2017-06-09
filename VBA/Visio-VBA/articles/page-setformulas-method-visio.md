@@ -3,10 +3,11 @@ title: Page.SetFormulas Method (Visio)
 keywords: vis_sdr.chm10916575
 f1_keywords:
 - vis_sdr.chm10916575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.SetFormulas
 ms.assetid: 141de5db-67dc-11c9-69a1-29601bf71cb1
+ms.date: 06/08/2017
 ---
 
 

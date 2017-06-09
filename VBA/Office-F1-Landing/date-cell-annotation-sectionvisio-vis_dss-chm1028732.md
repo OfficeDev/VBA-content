@@ -3,8 +3,9 @@ title: Date Cell (Annotation Section), Visio [Vis_DSS.chm1028732]
 keywords: vis_dss.chm1028732
 f1_keywords:
 - vis_dss.chm1028732
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eac83dab-e5bd-4931-aa1d-6400d80a74ea
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MailMergeFilters Object (Publisher)
 keywords: vbapb10.chm6815743
 f1_keywords:
 - vbapb10.chm6815743
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilters
 ms.assetid: 3a91c67f-6cc2-1d67-3382-04ead84f6f09
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: Resource.Start7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Start7
 ms.assetid: 9cfcb2ba-9b9a-26b1-a066-c45d5d31e09b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Baseline9Start Property, Project [vbapj.chm131566]
 keywords: vbapj.chm131566
 f1_keywords:
 - vbapj.chm131566
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6fe450ca-d776-4c10-89ce-56bb298df58d
+ms.date: 06/08/2017
 ---
 
 

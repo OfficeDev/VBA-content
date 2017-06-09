@@ -3,8 +3,9 @@ title: CheckBox.Picture Property (Outlook Forms Script)
 keywords: olfm10.chm2001710
 f1_keywords:
 - olfm10.chm2001710
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2110dbf6-19d7-5ce8-2ff3-f2622a2cf949
+ms.date: 06/08/2017
 ---
 
 

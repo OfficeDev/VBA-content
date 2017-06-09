@@ -1,7 +1,8 @@
 ---
 title: Using the Add-In Manager
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 74c12f6c-fd24-de25-64e7-a2473857901b
+ms.date: 06/08/2017
 ---
 
 

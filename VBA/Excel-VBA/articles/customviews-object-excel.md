@@ -3,10 +3,11 @@ title: CustomViews Object (Excel)
 keywords: vbaxl10.chm505072
 f1_keywords:
 - vbaxl10.chm505072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomViews
 ms.assetid: f970bdf7-371b-ba41-89a3-bef2c6907f1a
+ms.date: 06/08/2017
 ---
 
 

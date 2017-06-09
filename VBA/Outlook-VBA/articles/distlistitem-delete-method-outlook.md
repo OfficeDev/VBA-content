@@ -3,10 +3,11 @@ title: DistListItem.Delete Method (Outlook)
 keywords: vbaol11.chm1142
 f1_keywords:
 - vbaol11.chm1142
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Delete
 ms.assetid: f266321f-0259-c9c5-81bd-38c745feb859
+ms.date: 06/08/2017
 ---
 
 

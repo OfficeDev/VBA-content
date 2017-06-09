@@ -3,10 +3,11 @@ title: TaskRequestAcceptItem.Attachments Property (Outlook)
 keywords: vbaol11.chm1775
 f1_keywords:
 - vbaol11.chm1775
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Attachments
 ms.assetid: e802f67f-7ba6-201b-5a96-3ad696fd48d3
+ms.date: 06/08/2017
 ---
 
 

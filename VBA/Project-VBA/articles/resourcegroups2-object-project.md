@@ -1,7 +1,8 @@
 ---
 title: ResourceGroups2 Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: b1328c39-42bc-4e9b-e268-1f308cd7ebb1
+ms.date: 06/08/2017
 ---
 
 

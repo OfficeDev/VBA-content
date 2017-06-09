@@ -3,8 +3,9 @@ title: Source Property (Visual Basic for Applications)
 keywords: vblr6.chm1014188
 f1_keywords:
 - vblr6.chm1014188
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbf51a29-682a-8fc5-52db-89647c184885
+ms.date: 06/08/2017
 ---
 
 

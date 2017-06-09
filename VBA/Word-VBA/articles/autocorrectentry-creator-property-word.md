@@ -3,10 +3,11 @@ title: AutoCorrectEntry.Creator Property (Word)
 keywords: vbawd10.chm155649001
 f1_keywords:
 - vbawd10.chm155649001
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntry.Creator
 ms.assetid: 3227ce10-ca29-41a7-b3e9-2b169794d7fb
+ms.date: 06/08/2017
 ---
 
 

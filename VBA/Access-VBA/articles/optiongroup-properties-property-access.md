@@ -3,10 +3,11 @@ title: OptionGroup.Properties Property (Access)
 keywords: vbaac10.chm10813
 f1_keywords:
 - vbaac10.chm10813
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Properties
 ms.assetid: d6e75b49-9b97-6018-1277-6cc6ef8558df
+ms.date: 06/08/2017
 ---
 
 

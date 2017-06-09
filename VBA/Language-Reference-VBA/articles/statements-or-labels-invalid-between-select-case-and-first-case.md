@@ -3,8 +3,9 @@ title: Statements or labels invalid between Select Case and first Case
 keywords: vblr6.chm1011952
 f1_keywords:
 - vblr6.chm1011952
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d43e2a82-7f04-cae9-34bf-e4c819c02c74
+ms.date: 06/08/2017
 ---
 
 

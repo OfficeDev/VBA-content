@@ -3,10 +3,11 @@ title: Application.CalendarDateShadingEdit Method (Project)
 keywords: vbapj.chm2343
 f1_keywords:
 - vbapj.chm2343
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CalendarDateShadingEdit
 ms.assetid: 73c8875c-fc54-ae8a-55de-f2640ac4c23a
+ms.date: 06/08/2017
 ---
 
 

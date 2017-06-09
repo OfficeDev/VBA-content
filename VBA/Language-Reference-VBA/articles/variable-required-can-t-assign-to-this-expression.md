@@ -3,8 +3,9 @@ title: Variable required. Can't assign to this expression
 keywords: vblr6.chm1011215
 f1_keywords:
 - vblr6.chm1011215
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bf661c7f-3cda-7e89-8952-e565397a8987
+ms.date: 06/08/2017
 ---
 
 

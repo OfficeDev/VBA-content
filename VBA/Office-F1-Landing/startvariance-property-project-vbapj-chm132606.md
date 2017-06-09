@@ -3,8 +3,9 @@ title: StartVariance Property, Project [vbapj.chm132606]
 keywords: vbapj.chm132606
 f1_keywords:
 - vbapj.chm132606
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 47d0807e-6b7b-4a7e-819d-f536d0e50efd
+ms.date: 06/08/2017
 ---
 
 

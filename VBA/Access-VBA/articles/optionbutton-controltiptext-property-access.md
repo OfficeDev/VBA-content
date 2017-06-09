@@ -3,10 +3,11 @@ title: OptionButton.ControlTipText Property (Access)
 keywords: vbaac10.chm10593
 f1_keywords:
 - vbaac10.chm10593
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.ControlTipText
 ms.assetid: 4a2ff101-e8dc-cc96-abb7-7b66c2c8e74d
+ms.date: 06/08/2017
 ---
 
 

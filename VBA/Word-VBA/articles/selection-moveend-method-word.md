@@ -3,10 +3,11 @@ title: Selection.MoveEnd Method (Word)
 keywords: vbawd10.chm158662767
 f1_keywords:
 - vbawd10.chm158662767
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveEnd
 ms.assetid: 11fbcd45-16e6-611b-d296-a88cc7d3ca50
+ms.date: 06/08/2017
 ---
 
 

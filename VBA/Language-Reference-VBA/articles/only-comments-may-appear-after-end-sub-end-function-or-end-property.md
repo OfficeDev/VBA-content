@@ -3,8 +3,9 @@ title: Only comments may appear after End Sub, End Function, or End Property
 keywords: vblr6.chm1040081
 f1_keywords:
 - vblr6.chm1040081
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6268c6e6-1bd6-d7f8-50e3-a749bb578bcf
+ms.date: 06/08/2017
 ---
 
 

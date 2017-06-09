@@ -3,10 +3,11 @@ title: MappedDataField.Index Property (Word)
 keywords: vbawd10.chm107544577
 f1_keywords:
 - vbawd10.chm107544577
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MappedDataField.Index
 ms.assetid: 42fdb104-458e-fe67-b943-5e6d37acbdf8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TabStop.Clear Method (PowerPoint)
 keywords: vbapp10.chm574005
 f1_keywords:
 - vbapp10.chm574005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStop.Clear
 ms.assetid: bf1bcae7-96a0-6d81-ff7d-806270d95695
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: WebOptions.Parent Property (Word)
 keywords: vbawd10.chm165938154
 f1_keywords:
 - vbawd10.chm165938154
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.Parent
 ms.assetid: 5cd2d70a-6671-faa1-3a8a-b0460e306f6a
+ms.date: 06/08/2017
 ---
 
 

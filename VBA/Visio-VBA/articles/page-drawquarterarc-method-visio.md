@@ -3,10 +3,11 @@ title: Page.DrawQuarterArc Method (Visio)
 keywords: vis_sdr.chm10951385
 f1_keywords:
 - vis_sdr.chm10951385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawQuarterArc
 ms.assetid: f1d658cf-62de-5979-bd0c-0eea54fb08c4
+ms.date: 06/08/2017
 ---
 
 

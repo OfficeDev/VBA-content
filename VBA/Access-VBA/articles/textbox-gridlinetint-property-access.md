@@ -3,10 +3,11 @@ title: TextBox.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineTint
 ms.assetid: 5dbbd8a7-0942-c39d-b702-a3c0e569e3c1
+ms.date: 06/08/2017
 ---
 
 

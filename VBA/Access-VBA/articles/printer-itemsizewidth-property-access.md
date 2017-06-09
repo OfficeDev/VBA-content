@@ -3,10 +3,11 @@ title: Printer.ItemSizeWidth Property (Access)
 keywords: vbaac10.chm12876
 f1_keywords:
 - vbaac10.chm12876
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.ItemSizeWidth
 ms.assetid: 81a8881d-a1bf-c5b7-9437-d6984cf2cd18
+ms.date: 06/08/2017
 ---
 
 

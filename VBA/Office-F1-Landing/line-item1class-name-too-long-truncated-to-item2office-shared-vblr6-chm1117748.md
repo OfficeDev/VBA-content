@@ -3,8 +3,9 @@ title: Line 'item1' Class name too long; truncated to 'item2'., Office Shared [v
 keywords: vblr6.chm1117748
 f1_keywords:
 - vblr6.chm1117748
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a19a0e73-cccc-489b-9e8f-db727534245b
+ms.date: 06/08/2017
 ---
 
 

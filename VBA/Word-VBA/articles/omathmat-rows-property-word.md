@@ -3,10 +3,11 @@ title: OMathMat.Rows Property (Word)
 keywords: vbawd10.chm176029799
 f1_keywords:
 - vbawd10.chm176029799
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMat.Rows
 ms.assetid: 7c60142a-8012-4c9f-c980-f0e218856341
+ms.date: 06/08/2017
 ---
 
 

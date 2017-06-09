@@ -1,7 +1,8 @@
 ---
 title: Signature Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1054db23-fe1c-f81f-e44b-d8c2c82ca7fa
+ms.date: 06/08/2017
 ---
 
 

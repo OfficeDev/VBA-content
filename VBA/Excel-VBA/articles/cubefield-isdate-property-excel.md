@@ -3,10 +3,11 @@ title: CubeField.IsDate Property (Excel)
 keywords: vbaxl10.chm668101
 f1_keywords:
 - vbaxl10.chm668101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.IsDate
 ms.assetid: 094fdc93-9eb4-137c-7ffb-0e4a7138cce8
+ms.date: 06/08/2017
 ---
 
 

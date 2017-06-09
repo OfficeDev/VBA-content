@@ -3,10 +3,11 @@ title: TaskRequestDeclineItem.Conflicts Property (Outlook)
 keywords: vbaol11.chm1865
 f1_keywords:
 - vbaol11.chm1865
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Conflicts
 ms.assetid: a6009cca-d27c-2b86-803d-30be46499410
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: MajorUnit Property
 keywords: vbagr10.chm5207641
 f1_keywords:
 - vbagr10.chm5207641
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MajorUnit
 ms.assetid: 46d4d4e0-f285-2800-f539-72e7acb98948
+ms.date: 06/08/2017
 ---
 
 

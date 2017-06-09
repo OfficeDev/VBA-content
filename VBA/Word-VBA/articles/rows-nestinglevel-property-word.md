@@ -3,10 +3,11 @@ title: Rows.NestingLevel Property (Word)
 keywords: vbawd10.chm155975783
 f1_keywords:
 - vbawd10.chm155975783
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.NestingLevel
 ms.assetid: 54a34d92-08bc-fb66-3a29-5e491d370307
+ms.date: 06/08/2017
 ---
 
 

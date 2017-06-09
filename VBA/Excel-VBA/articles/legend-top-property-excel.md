@@ -3,10 +3,11 @@ title: Legend.Top Property (Excel)
 keywords: vbaxl10.chm622087
 f1_keywords:
 - vbaxl10.chm622087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend.Top
 ms.assetid: 2b7a4ab2-8147-6c40-4a92-9bde7885af9f
+ms.date: 06/08/2017
 ---
 
 

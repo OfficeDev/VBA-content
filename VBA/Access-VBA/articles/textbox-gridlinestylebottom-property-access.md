@@ -3,10 +3,11 @@ title: TextBox.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm11159
 f1_keywords:
 - vbaac10.chm11159
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineStyleBottom
 ms.assetid: c58d8030-fc96-a53b-4cb4-5bb21237e20e
+ms.date: 06/08/2017
 ---
 
 

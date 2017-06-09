@@ -3,10 +3,11 @@ title: DefaultWebOptions.RelyOnVML Property (Word)
 keywords: vbawd10.chm165871625
 f1_keywords:
 - vbawd10.chm165871625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.RelyOnVML
 ms.assetid: b062a449-11f3-3467-994b-d854f85d064f
+ms.date: 06/08/2017
 ---
 
 

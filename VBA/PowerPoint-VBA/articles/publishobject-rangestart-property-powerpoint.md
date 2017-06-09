@@ -3,10 +3,11 @@ title: PublishObject.RangeStart Property (PowerPoint)
 keywords: vbapp10.chm635005
 f1_keywords:
 - vbapp10.chm635005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.RangeStart
 ms.assetid: c7b576f4-f001-994a-ef36-0ed9402960a2
+ms.date: 06/08/2017
 ---
 
 

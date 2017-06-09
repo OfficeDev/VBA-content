@@ -3,10 +3,11 @@ title: WebBrowserControl.OnUpdated Property (Access)
 keywords: vbaac10.chm14417
 f1_keywords:
 - vbaac10.chm14417
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnUpdated
 ms.assetid: 81b6208e-4034-41ba-8694-c75f0155d562
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: NoLine Cell (Geometry Section), Visio [Vis_DSS.chm82251707]
 keywords: vis_dss.chm82251707
 f1_keywords:
 - vis_dss.chm82251707
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3279633e-4336-4173-97f2-c003c03dd124
+ms.date: 06/08/2017
 ---
 
 

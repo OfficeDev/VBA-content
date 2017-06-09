@@ -3,10 +3,11 @@ title: OlkTimeZoneControl.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000506
 f1_keywords:
 - vbaol11.chm1000506
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.MouseIcon
 ms.assetid: 922034e9-0b3b-dad6-ee7a-1777358a210b
+ms.date: 06/08/2017
 ---
 
 

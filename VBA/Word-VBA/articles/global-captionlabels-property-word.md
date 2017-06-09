@@ -3,10 +3,11 @@ title: Global.CaptionLabels Property (Word)
 keywords: vbawd10.chm163119124
 f1_keywords:
 - vbawd10.chm163119124
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.CaptionLabels
 ms.assetid: 619ae4eb-56fb-ec1d-d2b2-4962e6e4fa5e
+ms.date: 06/08/2017
 ---
 
 

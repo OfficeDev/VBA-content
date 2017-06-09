@@ -3,14 +3,15 @@ title: The attempt to set a column in a partial replica violated a rule governin
 keywords: jeterr40.chm5003571
 f1_keywords:
 - jeterr40.chm5003571
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cfc8a095-741b-d8b3-e21c-2941b406a82e
+ms.date: 06/08/2017
 ---
 
 
 # The attempt to set a column in a partial replica violated a rule governing partial replicas. (Error 3571)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

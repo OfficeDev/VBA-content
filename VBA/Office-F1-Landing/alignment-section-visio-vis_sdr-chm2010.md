@@ -3,8 +3,9 @@ title: Alignment Section, Visio [vis_sdr.chm2010]
 keywords: vis_sdr.chm2010
 f1_keywords:
 - vis_sdr.chm2010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 747efae0-2f75-4ae9-b5d8-13e667ddb493
+ms.date: 06/08/2017
 ---
 
 

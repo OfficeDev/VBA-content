@@ -3,10 +3,11 @@ title: Section.EventProcPrefix Property (Access)
 keywords: vbaac10.chm12190
 f1_keywords:
 - vbaac10.chm12190
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.EventProcPrefix
 ms.assetid: 4e5b06ef-b3aa-d0c5-002f-dabedd25ec32
+ms.date: 06/08/2017
 ---
 
 

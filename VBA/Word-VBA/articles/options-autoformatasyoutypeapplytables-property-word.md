@@ -3,10 +3,11 @@ title: Options.AutoFormatAsYouTypeApplyTables Property (Word)
 keywords: vbawd10.chm162988322
 f1_keywords:
 - vbawd10.chm162988322
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyTables
 ms.assetid: 171da8ca-5754-b5fb-12b2-1fcb1461a8fd
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: TaskGroups2 Object, Project [vbapj.chm131335]
 keywords: vbapj.chm131335
 f1_keywords:
 - vbapj.chm131335
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e576b06a-0876-478d-9765-0d9bb0056d22
+ms.date: 06/08/2017
 ---
 
 

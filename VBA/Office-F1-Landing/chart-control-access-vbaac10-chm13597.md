@@ -3,8 +3,9 @@ title: Chart Control, Access [vbaac10.chm13597]
 keywords: vbaac10.chm13597
 f1_keywords:
 - vbaac10.chm13597
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dae665ee-3d41-4856-ad38-22abfd4cc9d3
+ms.date: 06/08/2017
 ---
 
 

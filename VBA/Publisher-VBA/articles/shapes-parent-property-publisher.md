@@ -3,10 +3,11 @@ title: Shapes.Parent Property (Publisher)
 keywords: vbapb10.chm2162690
 f1_keywords:
 - vbapb10.chm2162690
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.Parent
 ms.assetid: dc05ea19-3c35-43ad-3ac8-f6402fce2011
+ms.date: 06/08/2017
 ---
 
 

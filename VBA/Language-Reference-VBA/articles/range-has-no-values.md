@@ -3,8 +3,9 @@ title: Range has no values
 keywords: vblr6.chm1040109
 f1_keywords:
 - vblr6.chm1040109
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e74762b-e8b1-cf82-8185-227065bb5f8a
+ms.date: 06/08/2017
 ---
 
 

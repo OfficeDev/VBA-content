@@ -1,7 +1,8 @@
 ---
 title: Page.ScrollHeight Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c6fc86b6-e1ab-c1bd-74e7-835120d044ef
+ms.date: 06/08/2017
 ---
 
 

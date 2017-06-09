@@ -1,9 +1,10 @@
 ---
 title: PjCustomField Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCustomField
 ms.assetid: eed248af-bde2-8299-3737-253cf96411e2
+ms.date: 06/08/2017
 ---
 
 

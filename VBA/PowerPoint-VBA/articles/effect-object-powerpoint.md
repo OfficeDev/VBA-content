@@ -3,10 +3,11 @@ title: Effect Object (PowerPoint)
 keywords: vbapp10.chm652000
 f1_keywords:
 - vbapp10.chm652000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect
 ms.assetid: 359ac3da-86cd-8003-d691-349d20fd1777
+ms.date: 06/08/2017
 ---
 
 

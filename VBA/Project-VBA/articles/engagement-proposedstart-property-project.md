@@ -1,6 +1,8 @@
 ---
 title: Engagement.ProposedStart Property (Project)
 ms.assetid: ba467fd7-2930-a8b1-6477-0b28a731b9af
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

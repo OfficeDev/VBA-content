@@ -3,10 +3,11 @@ title: ListBox.GridlineStyleTop Property (Access)
 keywords: vbaac10.chm11311
 f1_keywords:
 - vbaac10.chm11311
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineStyleTop
 ms.assetid: d4da57f4-f67b-5759-0e52-bd61b2ce9d18
+ms.date: 06/08/2017
 ---
 
 

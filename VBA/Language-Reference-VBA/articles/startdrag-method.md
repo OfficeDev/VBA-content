@@ -3,10 +3,11 @@ title: StartDrag Method
 keywords: fm20.chm5224974
 f1_keywords:
 - fm20.chm5224974
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.StartDrag
 ms.assetid: 9713f582-759f-2cb2-825f-a79469041dc8
+ms.date: 06/08/2017
 ---
 
 

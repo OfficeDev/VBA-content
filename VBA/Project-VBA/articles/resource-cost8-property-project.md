@@ -1,9 +1,10 @@
 ---
 title: Resource.Cost8 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Cost8
 ms.assetid: 97a40251-b4be-aa5f-eb50-16b5a236a1c1
+ms.date: 06/08/2017
 ---
 
 

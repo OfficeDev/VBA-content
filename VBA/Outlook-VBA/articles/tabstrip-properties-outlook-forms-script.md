@@ -1,7 +1,8 @@
 ---
 title: TabStrip Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 93c01060-f728-4566-824d-84e28244a642
+ms.date: 06/08/2017
 ---
 
 

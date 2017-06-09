@@ -3,10 +3,11 @@ title: Window.BackgroundColor Property (Visio)
 keywords: vis_sdr.chm11651915
 f1_keywords:
 - vis_sdr.chm11651915
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.BackgroundColor
 ms.assetid: 5c954890-aa8f-7dc7-c64c-38fd8f3317fe
+ms.date: 06/08/2017
 ---
 
 

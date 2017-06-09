@@ -3,8 +3,9 @@ title: ColumnCount Property, Office Shared [fm20.chm5225020]
 keywords: fm20.chm5225020
 f1_keywords:
 - fm20.chm5225020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8e030d48-844a-4979-8f24-6a8234ec6628
+ms.date: 06/08/2017
 ---
 
 

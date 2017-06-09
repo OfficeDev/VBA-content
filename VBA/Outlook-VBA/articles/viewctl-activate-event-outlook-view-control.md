@@ -1,7 +1,8 @@
 ---
 title: ViewCtl.Activate Event (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c7363fe4-abbd-3d2c-8ce2-009ea5dd7133
+ms.date: 06/08/2017
 ---
 
 

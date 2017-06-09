@@ -3,10 +3,11 @@ title: SlideShowView.PointerType Property (PowerPoint)
 keywords: vbapp10.chm513005
 f1_keywords:
 - vbapp10.chm513005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.PointerType
 ms.assetid: 58f40da1-ae25-4604-86bc-6fb884b8fd16
+ms.date: 06/08/2017
 ---
 
 

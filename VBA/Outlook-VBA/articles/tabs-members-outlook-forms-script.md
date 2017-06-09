@@ -1,7 +1,8 @@
 ---
 title: Tabs Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 825acc32-b450-47d7-9917-5732140ab6dc
+ms.date: 06/08/2017
 ---
 
 

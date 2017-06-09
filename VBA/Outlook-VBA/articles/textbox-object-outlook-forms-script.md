@@ -3,8 +3,9 @@ title: TextBox Object (Outlook Forms Script)
 keywords: olfm10.chm2000670
 f1_keywords:
 - olfm10.chm2000670
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4a0e4a3d-beca-9f94-7e27-469c4bafe250
+ms.date: 06/08/2017
 ---
 
 

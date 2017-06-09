@@ -3,8 +3,9 @@ title: AddChild Method, Project [vbapj.chm132353]
 keywords: vbapj.chm132353
 f1_keywords:
 - vbapj.chm132353
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b1590223-9cca-49eb-9d7f-5a71745a49ea
+ms.date: 06/08/2017
 ---
 
 

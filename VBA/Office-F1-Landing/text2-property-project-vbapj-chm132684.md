@@ -3,8 +3,9 @@ title: Text2 Property, Project [vbapj.chm132684]
 keywords: vbapj.chm132684
 f1_keywords:
 - vbapj.chm132684
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e7ef108b-5599-45cc-9923-5c5f692bf549
+ms.date: 06/08/2017
 ---
 
 

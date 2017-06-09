@@ -3,10 +3,11 @@ title: PropertyEffect.Property Property (PowerPoint)
 keywords: vbapp10.chm662003
 f1_keywords:
 - vbapp10.chm662003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PropertyEffect.Property
 ms.assetid: bb0ef094-0edd-3bc4-c02a-70fc8646017e
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DocumentItem.Actions Property (Outlook)
 keywords: vbaol11.chm1183
 f1_keywords:
 - vbaol11.chm1183
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Actions
 ms.assetid: 55ba5eb9-ddd4-7fa0-e807-7ddd97e5ef05
+ms.date: 06/08/2017
 ---
 
 

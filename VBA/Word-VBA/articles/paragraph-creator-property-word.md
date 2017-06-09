@@ -3,10 +3,11 @@ title: Paragraph.Creator Property (Word)
 keywords: vbawd10.chm156697577
 f1_keywords:
 - vbawd10.chm156697577
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Creator
 ms.assetid: ee452c2d-bbed-d2c4-c3a4-0ccd8e45eea6
+ms.date: 06/08/2017
 ---
 
 

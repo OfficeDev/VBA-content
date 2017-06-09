@@ -3,10 +3,11 @@ title: ListObject.DisplayRightToLeft Property (Excel)
 keywords: vbaxl10.chm734083
 f1_keywords:
 - vbaxl10.chm734083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.DisplayRightToLeft
 ms.assetid: d8e7223d-2e7c-8149-8843-900152f491b1
+ms.date: 06/08/2017
 ---
 
 

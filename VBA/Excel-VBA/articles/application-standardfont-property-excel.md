@@ -3,10 +3,11 @@ title: Application.StandardFont Property (Excel)
 keywords: vbaxl10.chm133210
 f1_keywords:
 - vbaxl10.chm133210
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.StandardFont
 ms.assetid: 6bde5ec0-8868-fa00-52e3-b7387f39f56d
+ms.date: 06/08/2017
 ---
 
 

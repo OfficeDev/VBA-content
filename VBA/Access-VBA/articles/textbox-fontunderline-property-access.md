@@ -3,10 +3,11 @@ title: TextBox.FontUnderline Property (Access)
 keywords: vbaac10.chm11088
 f1_keywords:
 - vbaac10.chm11088
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.FontUnderline
 ms.assetid: 67bf0551-21c0-73cd-9418-dc7b3582f53c
+ms.date: 06/08/2017
 ---
 
 

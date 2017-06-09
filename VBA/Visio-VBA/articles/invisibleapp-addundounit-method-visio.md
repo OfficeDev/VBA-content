@@ -3,10 +3,11 @@ title: InvisibleApp.AddUndoUnit Method (Visio)
 keywords: vis_sdr.chm17516075
 f1_keywords:
 - vis_sdr.chm17516075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AddUndoUnit
 ms.assetid: 00d2492a-4154-6004-c961-906ddf191f2f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: MultiPage Events (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a21fb6b3-7c13-4dd3-8b4c-f2c91f874959
+ms.date: 06/08/2017
 ---
 
 

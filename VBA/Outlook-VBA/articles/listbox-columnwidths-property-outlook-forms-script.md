@@ -1,7 +1,8 @@
 ---
 title: ListBox.ColumnWidths Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 380ded70-6467-3767-17b2-3c4e84dc60dd
+ms.date: 06/08/2017
 ---
 
 

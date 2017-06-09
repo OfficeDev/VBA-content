@@ -3,8 +3,9 @@ title: Type Property, PowerPoint [vbapp10.chm65644]
 keywords: vbapp10.chm65644
 f1_keywords:
 - vbapp10.chm65644
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a5c9678-0f5e-4933-8318-5b4d36238441
+ms.date: 06/08/2017
 ---
 
 

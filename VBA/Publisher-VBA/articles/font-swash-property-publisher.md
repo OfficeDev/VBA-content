@@ -3,10 +3,11 @@ title: Font.Swash Property (Publisher)
 keywords: vbapb10.chm5374005
 f1_keywords:
 - vbapb10.chm5374005
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Swash
 ms.assetid: 71537393-167a-f9e3-e3b3-ae743fdbb0ff
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: FormRegion.Language Property (Outlook)
 keywords: vbaol11.chm2396
 f1_keywords:
 - vbaol11.chm2396
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Language
 ms.assetid: 1eece9e0-5a38-55b4-3e8d-ac766511fed0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Folders.FolderAdd Event (Outlook)
 keywords: vbaol11.chm308
 f1_keywords:
 - vbaol11.chm308
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.FolderAdd
 ms.assetid: d72beffe-5a6b-41f1-0a0e-2f8548cbdc84
+ms.date: 06/08/2017
 ---
 
 

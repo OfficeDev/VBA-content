@@ -1,9 +1,10 @@
 ---
 title: Resource.Text26 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text26
 ms.assetid: 3495a77e-d5a3-452c-9102-75739fe907b1
+ms.date: 06/08/2017
 ---
 
 

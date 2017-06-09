@@ -1,9 +1,10 @@
 ---
 title: PjLevelPeriodBasis Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjLevelPeriodBasis
 ms.assetid: 4bfa73c9-f912-c35b-9582-ebc108dc625b
+ms.date: 06/08/2017
 ---
 
 

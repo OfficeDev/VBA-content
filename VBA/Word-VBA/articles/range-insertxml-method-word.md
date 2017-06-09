@@ -3,10 +3,11 @@ title: Range.InsertXML Method (Word)
 keywords: vbawd10.chm157155744
 f1_keywords:
 - vbawd10.chm157155744
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertXML
 ms.assetid: daee0fee-01cb-5ad7-f61d-ea6ebec1d04a
+ms.date: 06/08/2017
 ---
 
 

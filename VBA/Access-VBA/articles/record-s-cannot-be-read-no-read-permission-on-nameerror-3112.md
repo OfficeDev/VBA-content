@@ -3,14 +3,15 @@ title: Record(s) cannot be read; no read permission on <name>. (Error 3112)
 keywords: jeterr40.chm5003112
 f1_keywords:
 - jeterr40.chm5003112
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: dbb4b1aa-5844-9760-2be3-ad55f207a573
+ms.date: 06/08/2017
 ---
 
 
 # Record(s) cannot be read; no read permission on <name>. (Error 3112)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

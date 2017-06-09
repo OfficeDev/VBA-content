@@ -3,10 +3,11 @@ title: FormField.Copy Method (Word)
 keywords: vbawd10.chm153616485
 f1_keywords:
 - vbawd10.chm153616485
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Copy
 ms.assetid: ce6fd604-4729-5394-c7bd-54e966898946
+ms.date: 06/08/2017
 ---
 
 

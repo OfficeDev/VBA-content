@@ -3,10 +3,11 @@ title: Panes.Parent Property (PowerPoint)
 keywords: vbapp10.chm630003
 f1_keywords:
 - vbapp10.chm630003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Panes.Parent
 ms.assetid: 292c6849-c9a7-9965-accc-01ee61cb7539
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Window.Split Property (Excel)
 keywords: vbaxl10.chm356111
 f1_keywords:
 - vbaxl10.chm356111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Split
 ms.assetid: 7fcc304f-8a42-f997-2c32-5a9793683bd5
+ms.date: 06/08/2017
 ---
 
 

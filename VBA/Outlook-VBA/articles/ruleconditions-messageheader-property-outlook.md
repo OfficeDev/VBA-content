@@ -3,10 +3,11 @@ title: RuleConditions.MessageHeader Property (Outlook)
 keywords: vbaol11.chm2316
 f1_keywords:
 - vbaol11.chm2316
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.MessageHeader
 ms.assetid: 311f8834-f12b-50db-1f0d-00d6ebed7e9d
+ms.date: 06/08/2017
 ---
 
 

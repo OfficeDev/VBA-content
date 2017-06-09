@@ -3,14 +3,15 @@ title: The replication property you are attempting to set or delete is read-only
 keywords: jeterr40.chm5003461
 f1_keywords:
 - jeterr40.chm5003461
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 864dc72f-8161-6210-4978-7a242ffeb7b4
+ms.date: 06/08/2017
 ---
 
 
 # The replication property you are attempting to set or delete is read-only and cannot be changed. (Error 3461)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

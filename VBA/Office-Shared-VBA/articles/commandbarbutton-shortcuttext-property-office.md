@@ -3,10 +3,11 @@ title: CommandBarButton.ShortcutText Property (Office)
 keywords: vbaof11.chm6005
 f1_keywords:
 - vbaof11.chm6005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.ShortcutText
 ms.assetid: e0c76e70-16db-d3ae-9767-069579c8ea91
+ms.date: 06/08/2017
 ---
 
 

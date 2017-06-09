@@ -3,8 +3,9 @@ title: Create a Custom Dialog Box
 keywords: vbaxl10.chm5200213
 f1_keywords:
 - vbaxl10.chm5200213
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: ee156753-b6f8-3394-0a4c-a3940026579d
+ms.date: 06/08/2017
 ---
 
 

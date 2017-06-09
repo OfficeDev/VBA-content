@@ -1,7 +1,8 @@
 ---
 title: Delete Data to Reset Solution Storage
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 38147c59-3145-3df1-7488-1df26ba0e1fa
+ms.date: 06/08/2017
 ---
 
 

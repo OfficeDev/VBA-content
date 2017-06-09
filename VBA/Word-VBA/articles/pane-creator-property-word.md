@@ -3,10 +3,11 @@ title: Pane.Creator Property (Word)
 keywords: vbawd10.chm157287401
 f1_keywords:
 - vbawd10.chm157287401
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.Creator
 ms.assetid: 142cc9bf-41f9-fcb5-73c0-8cc9f21cd553
+ms.date: 06/08/2017
 ---
 
 

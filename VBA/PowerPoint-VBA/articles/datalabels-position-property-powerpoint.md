@@ -1,6 +1,8 @@
 ---
 title: DataLabels.Position Property (PowerPoint)
 ms.assetid: 3edff433-2d69-84b4-671b-060824c88531
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

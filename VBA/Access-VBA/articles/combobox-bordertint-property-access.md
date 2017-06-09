@@ -3,10 +3,11 @@ title: ComboBox.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BorderTint
 ms.assetid: 83bb493b-c15e-dcdf-7118-4bdb12f5e264
+ms.date: 06/08/2017
 ---
 
 

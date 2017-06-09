@@ -1,9 +1,10 @@
 ---
 title: Resource.OutlineCode7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.OutlineCode7
 ms.assetid: c5dcd3e4-d75f-9b6c-2d55-21bf97e10ef0
+ms.date: 06/08/2017
 ---
 
 

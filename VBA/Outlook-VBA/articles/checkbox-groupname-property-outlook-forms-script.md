@@ -3,8 +3,9 @@ title: CheckBox.GroupName Property (Outlook Forms Script)
 keywords: olfm10.chm2001245
 f1_keywords:
 - olfm10.chm2001245
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 24fc2e67-273d-2ef3-1040-e5fa9161bd81
+ms.date: 06/08/2017
 ---
 
 

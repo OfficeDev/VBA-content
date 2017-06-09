@@ -1,6 +1,8 @@
 ---
 title: ThemeVariant.Id Property (PowerPoint)
 ms.assetid: 90f72fb5-71eb-b57e-09a6-69ab27316981
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.DisplayAutoCompleteTips Property (Word)
 keywords: vbawd10.chm158335068
 f1_keywords:
 - vbawd10.chm158335068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DisplayAutoCompleteTips
 ms.assetid: 1ffcf473-d6f5-e2e7-c02c-0038b3fd3004
+ms.date: 06/08/2017
 ---
 
 

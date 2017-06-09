@@ -3,10 +3,11 @@ title: PlaceholderFormat Object (PowerPoint)
 keywords: vbapp10.chm545000
 f1_keywords:
 - vbapp10.chm545000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaceholderFormat
 ms.assetid: 5e204d07-7ec0-b08c-497c-7f0174d28782
+ms.date: 06/08/2017
 ---
 
 

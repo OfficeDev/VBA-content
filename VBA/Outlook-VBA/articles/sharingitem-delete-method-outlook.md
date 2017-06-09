@@ -3,10 +3,11 @@ title: SharingItem.Delete Method (Outlook)
 keywords: vbaol11.chm625
 f1_keywords:
 - vbaol11.chm625
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Delete
 ms.assetid: 9848fe0e-b32f-8796-f37d-7b7795309e1a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SharedWorkspace.Files Property (Office)
 keywords: vbaof11.chm276004
 f1_keywords:
 - vbaof11.chm276004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspace.Files
 ms.assetid: e4a2f80e-5cb7-8ff2-3ab7-2b8c2d9d3cfb
+ms.date: 06/08/2017
 ---
 
 

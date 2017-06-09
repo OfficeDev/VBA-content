@@ -3,14 +3,15 @@ title: Partner replica is not managed by a Synchronizer. (Error 3628)
 keywords: jeterr40.chm5003628
 f1_keywords:
 - jeterr40.chm5003628
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1f95e7a1-ed82-b904-dfd9-4e2c2f3df5ad
+ms.date: 06/08/2017
 ---
 
 
 # Partner replica is not managed by a Synchronizer. (Error 3628)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

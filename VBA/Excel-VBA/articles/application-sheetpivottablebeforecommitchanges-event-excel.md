@@ -3,10 +3,11 @@ title: Application.SheetPivotTableBeforeCommitChanges Event (Excel)
 keywords: vbaxl10.chm504106
 f1_keywords:
 - vbaxl10.chm504106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SheetPivotTableBeforeCommitChanges
 ms.assetid: ba586d2e-772a-24e3-0886-fb309f17ebf6
+ms.date: 06/08/2017
 ---
 
 

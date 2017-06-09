@@ -3,8 +3,9 @@ title: ValidationText Property, Access [vbaac10.chm5507]
 keywords: vbaac10.chm5507
 f1_keywords:
 - vbaac10.chm5507
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b09377a9-2f7f-4f3b-82c0-7b3852cd8d0a
+ms.date: 06/08/2017
 ---
 
 

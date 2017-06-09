@@ -3,10 +3,11 @@ title: WebOptions.FolderSuffix Property (Excel)
 keywords: vbaxl10.chm662083
 f1_keywords:
 - vbaxl10.chm662083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.FolderSuffix
 ms.assetid: 5361e4db-4f08-ab6c-1259-d04170879c99
+ms.date: 06/08/2017
 ---
 
 

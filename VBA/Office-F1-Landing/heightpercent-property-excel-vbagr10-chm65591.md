@@ -3,8 +3,9 @@ title: HeightPercent Property, Excel [vbagr10.chm65591]
 keywords: vbagr10.chm65591
 f1_keywords:
 - vbagr10.chm65591
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1cdd8d3-ffa6-42d5-a1b7-e4571a5693dc
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Hyperlink.Target Property (Word)
 keywords: vbawd10.chm161285109
 f1_keywords:
 - vbawd10.chm161285109
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.Target
 ms.assetid: 2a36ec74-fcfd-9000-8229-dcd01b8f7757
+ms.date: 06/08/2017
 ---
 
 

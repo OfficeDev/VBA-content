@@ -3,10 +3,11 @@ title: Chart.SetSourceData Method (Word)
 keywords: vbawd10.chm79365509
 f1_keywords:
 - vbawd10.chm79365509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.SetSourceData
 ms.assetid: 8c5b056a-6680-7e4e-ce67-a3b76b2d7d25
+ms.date: 06/08/2017
 ---
 
 

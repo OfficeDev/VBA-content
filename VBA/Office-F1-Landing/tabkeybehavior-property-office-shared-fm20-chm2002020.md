@@ -3,8 +3,9 @@ title: TabKeyBehavior Property, Office Shared [fm20.chm2002020]
 keywords: fm20.chm2002020
 f1_keywords:
 - fm20.chm2002020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3f9f3c39-1e9a-4d00-88f9-6e9ff7c94fcf
+ms.date: 06/08/2017
 ---
 
 

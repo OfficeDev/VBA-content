@@ -3,10 +3,11 @@ title: HeadersFooters.Item Method (Word)
 keywords: vbawd10.chm159645696
 f1_keywords:
 - vbawd10.chm159645696
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadersFooters.Item
 ms.assetid: b6449c22-d528-acce-4308-28fa81e596c5
+ms.date: 06/08/2017
 ---
 
 

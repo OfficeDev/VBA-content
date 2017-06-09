@@ -1,9 +1,10 @@
 ---
 title: Application.IsURLTrusted Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.IsURLTrusted
 ms.assetid: 850f5c99-7412-3da7-e136-04f86cd7c42d
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Graphic Object (Excel)
 keywords: vbaxl10.chm693072
 f1_keywords:
 - vbaxl10.chm693072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic
 ms.assetid: 0ccdfb0d-effb-9fa4-8de9-b90688693375
+ms.date: 06/08/2017
 ---
 
 

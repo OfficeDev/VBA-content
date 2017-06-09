@@ -3,10 +3,11 @@ title: SolutionsModule.AddSolution Method (Outlook)
 keywords: vbaol11.chm3368
 f1_keywords:
 - vbaol11.chm3368
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.AddSolution
 ms.assetid: 81d2edab-f8b3-340b-47b3-e98e780294ff
+ms.date: 06/08/2017
 ---
 
 

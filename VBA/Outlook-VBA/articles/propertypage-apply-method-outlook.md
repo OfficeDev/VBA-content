@@ -3,10 +3,11 @@ title: PropertyPage.Apply Method (Outlook)
 keywords: vbaol11.chm383
 f1_keywords:
 - vbaol11.chm383
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPage.Apply
 ms.assetid: fdb35048-2471-4402-8137-c75994680b3c
+ms.date: 06/08/2017
 ---
 
 

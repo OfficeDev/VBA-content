@@ -3,10 +3,11 @@ title: ParagraphFormat.BaseLineAlignment Property (Word)
 keywords: vbawd10.chm156434555
 f1_keywords:
 - vbawd10.chm156434555
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.BaseLineAlignment
 ms.assetid: 857b29f2-7a31-27fb-4802-910470a6656b
+ms.date: 06/08/2017
 ---
 
 

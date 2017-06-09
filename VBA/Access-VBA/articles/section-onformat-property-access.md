@@ -3,10 +3,11 @@ title: Section.OnFormat Property (Access)
 keywords: vbaac10.chm12204,vbaac10.chm4089
 f1_keywords:
 - vbaac10.chm12204,vbaac10.chm4089
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnFormat
 ms.assetid: 061652a9-0253-8dc2-a8c0-02daa40d132d
+ms.date: 06/08/2017
 ---
 
 

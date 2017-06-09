@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.BeforeStyleDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeStyleDelete
 ms.assetid: 7b6fb188-d625-3133-f7c0-2f0c55dfe083
+ms.date: 06/08/2017
 ---
 
 

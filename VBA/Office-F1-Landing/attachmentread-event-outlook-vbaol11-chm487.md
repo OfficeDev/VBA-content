@@ -3,8 +3,9 @@ title: AttachmentRead Event, Outlook [vbaol11.chm487]
 keywords: vbaol11.chm487
 f1_keywords:
 - vbaol11.chm487
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 95d99d75-1ce8-49bf-ae6d-86ae6935e764
+ms.date: 06/08/2017
 ---
 
 

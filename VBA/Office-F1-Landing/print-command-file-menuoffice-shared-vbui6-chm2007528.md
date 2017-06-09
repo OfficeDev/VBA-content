@@ -3,8 +3,9 @@ title: Print Command (File Menu), Office Shared [vbui6.chm2007528]
 keywords: vbui6.chm2007528
 f1_keywords:
 - vbui6.chm2007528
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66d29fbd-5261-4f37-8971-03c9bcd96493
+ms.date: 06/08/2017
 ---
 
 

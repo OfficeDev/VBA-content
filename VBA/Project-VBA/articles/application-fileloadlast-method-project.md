@@ -3,10 +3,11 @@ title: Application.FileLoadLast Method (Project)
 keywords: vbapj.chm117
 f1_keywords:
 - vbapj.chm117
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileLoadLast
 ms.assetid: c775d573-d184-d3ac-ed81-3552cc9b045b
+ms.date: 06/08/2017
 ---
 
 

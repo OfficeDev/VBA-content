@@ -3,8 +3,9 @@ title: Number16 Property, Project [vbapj.chm132429]
 keywords: vbapj.chm132429
 f1_keywords:
 - vbapj.chm132429
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d84c3562-7462-4d46-8a4f-2fa7153ed939
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CubeField.DragToPage Property (Excel)
 keywords: vbaxl10.chm668082
 f1_keywords:
 - vbaxl10.chm668082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.DragToPage
 ms.assetid: 9a7d8dab-a43f-9acf-5fd4-40fa47d4a89f
+ms.date: 06/08/2017
 ---
 
 

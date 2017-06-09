@@ -3,10 +3,11 @@ title: OutlookBarShortcuts.ShortcutAdd Event (Outlook)
 keywords: vbaol11.chm377
 f1_keywords:
 - vbaol11.chm377
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.ShortcutAdd
 ms.assetid: d5ddf2ad-0a82-39cb-5bb0-0de389d5c427
+ms.date: 06/08/2017
 ---
 
 

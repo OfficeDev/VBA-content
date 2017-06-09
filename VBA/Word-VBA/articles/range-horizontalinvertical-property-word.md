@@ -3,10 +3,11 @@ title: Range.HorizontalInVertical Property (Word)
 keywords: vbawd10.chm157155593
 f1_keywords:
 - vbawd10.chm157155593
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.HorizontalInVertical
 ms.assetid: 1d0ec26c-62a1-26ef-1fef-f2ab497244cb
+ms.date: 06/08/2017
 ---
 
 

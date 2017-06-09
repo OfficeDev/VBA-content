@@ -3,10 +3,11 @@ title: OrderFields.Application Property (Outlook)
 keywords: vbaol11.chm2672
 f1_keywords:
 - vbaol11.chm2672
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Application
 ms.assetid: 39aa9124-9993-8a21-d0de-c7b2d81b2b23
+ms.date: 06/08/2017
 ---
 
 

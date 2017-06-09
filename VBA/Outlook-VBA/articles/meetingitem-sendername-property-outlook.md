@@ -3,10 +3,11 @@ title: MeetingItem.SenderName Property (Outlook)
 keywords: vbaol11.chm1450
 f1_keywords:
 - vbaol11.chm1450
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.SenderName
 ms.assetid: 07dd4ff2-36cd-cfbd-3b48-08e60f0aed78
+ms.date: 06/08/2017
 ---
 
 

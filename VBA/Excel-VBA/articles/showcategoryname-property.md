@@ -3,10 +3,11 @@ title: ShowCategoryName Property
 keywords: vbagr10.chm67467
 f1_keywords:
 - vbagr10.chm67467
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShowCategoryName
 ms.assetid: f66a0162-f1b7-5b8d-ae09-bb928751cde3
+ms.date: 06/08/2017
 ---
 
 

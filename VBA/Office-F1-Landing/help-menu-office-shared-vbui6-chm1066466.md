@@ -3,8 +3,9 @@ title: Help Menu, Office Shared [vbui6.chm1066466]
 keywords: vbui6.chm1066466
 f1_keywords:
 - vbui6.chm1066466
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f77f1299-7b3e-4bb0-9bf3-c0e38f4cc36b
+ms.date: 06/08/2017
 ---
 
 

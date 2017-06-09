@@ -3,8 +3,9 @@ title: UniqueIDPredecessors Property, Project [vbapj.chm132721]
 keywords: vbapj.chm132721
 f1_keywords:
 - vbapj.chm132721
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d18a662b-43d6-40ed-a61b-5a9a00789364
+ms.date: 06/08/2017
 ---
 
 

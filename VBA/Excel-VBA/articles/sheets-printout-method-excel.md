@@ -3,10 +3,11 @@ title: Sheets.PrintOut Method (Excel)
 keywords: vbaxl10.chm152089
 f1_keywords:
 - vbaxl10.chm152089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.PrintOut
 ms.assetid: b8e11498-4a45-b0d4-9a81-779f924e4e7e
+ms.date: 06/08/2017
 ---
 
 

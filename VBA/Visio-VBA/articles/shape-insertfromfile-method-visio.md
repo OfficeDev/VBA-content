@@ -3,10 +3,11 @@ title: Shape.InsertFromFile Method (Visio)
 keywords: vis_sdr.chm11216365
 f1_keywords:
 - vis_sdr.chm11216365
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.InsertFromFile
 ms.assetid: 894f69fc-65a7-d0a8-a2ae-e56a73843bc2
+ms.date: 06/08/2017
 ---
 
 

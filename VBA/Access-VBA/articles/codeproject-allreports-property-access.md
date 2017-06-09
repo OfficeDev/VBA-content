@@ -3,10 +3,11 @@ title: CodeProject.AllReports Property (Access)
 keywords: vbaac10.chm12708
 f1_keywords:
 - vbaac10.chm12708
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.AllReports
 ms.assetid: 92536101-c4ec-e1a8-723c-ee912a24bdee
+ms.date: 06/08/2017
 ---
 
 

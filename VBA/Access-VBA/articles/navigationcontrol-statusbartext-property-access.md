@@ -3,10 +3,11 @@ title: NavigationControl.StatusBarText Property (Access)
 keywords: vbaac10.chm11053
 f1_keywords:
 - vbaac10.chm11053
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.StatusBarText
 ms.assetid: 8cd0c070-a8ec-e5c3-8996-a551cd344da5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SubForm.Properties Property (Access)
 keywords: vbaac10.chm11918
 f1_keywords:
 - vbaac10.chm11918
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Properties
 ms.assetid: ad472204-659e-bd87-de99-07a2828ae274
+ms.date: 06/08/2017
 ---
 
 

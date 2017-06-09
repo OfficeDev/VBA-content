@@ -3,10 +3,11 @@ title: VBComponents Property
 keywords: vbob6.chm102023
 f1_keywords:
 - vbob6.chm102023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.VBComponents
 ms.assetid: cf5dea3b-e583-8547-9448-0fd23e5623ee
+ms.date: 06/08/2017
 ---
 
 

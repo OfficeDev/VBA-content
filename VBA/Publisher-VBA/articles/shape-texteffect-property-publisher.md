@@ -3,10 +3,11 @@ title: Shape.TextEffect Property (Publisher)
 keywords: vbapb10.chm2228297
 f1_keywords:
 - vbapb10.chm2228297
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.TextEffect
 ms.assetid: 187b55f8-9593-6a00-61e6-dbcf5c56b987
+ms.date: 06/08/2017
 ---
 
 

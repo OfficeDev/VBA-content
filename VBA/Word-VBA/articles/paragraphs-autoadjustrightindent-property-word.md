@@ -3,10 +3,11 @@ title: Paragraphs.AutoAdjustRightIndent Property (Word)
 keywords: vbawd10.chm156762236
 f1_keywords:
 - vbawd10.chm156762236
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.AutoAdjustRightIndent
 ms.assetid: 923706b8-3422-42af-1942-3f8c8b5d1fe2
+ms.date: 06/08/2017
 ---
 
 

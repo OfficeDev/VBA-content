@@ -3,10 +3,11 @@ title: Sync.OpenVersion Method (Office)
 keywords: vbaof11.chm277009
 f1_keywords:
 - vbaof11.chm277009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.OpenVersion
 ms.assetid: 22892531-5e6d-f977-c430-0160cadb4490
+ms.date: 06/08/2017
 ---
 
 

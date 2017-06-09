@@ -3,10 +3,11 @@ title: TickLabels.Parent Property (PowerPoint)
 keywords: vbapp10.chm719001
 f1_keywords:
 - vbapp10.chm719001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Parent
 ms.assetid: 458c84af-1813-a779-537e-5d8860a94caf
+ms.date: 06/08/2017
 ---
 
 

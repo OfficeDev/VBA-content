@@ -1,7 +1,8 @@
 ---
 title: PictureEffects Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 96100a77-ba4a-4e75-86a4-61d1de7a210e
+ms.date: 06/08/2017
 ---
 
 

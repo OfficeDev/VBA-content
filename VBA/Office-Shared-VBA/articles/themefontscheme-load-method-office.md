@@ -1,9 +1,10 @@
 ---
 title: ThemeFontScheme.Load Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Load
 ms.assetid: a9ac928e-904f-70bd-1e96-932243204d73
+ms.date: 06/08/2017
 ---
 
 

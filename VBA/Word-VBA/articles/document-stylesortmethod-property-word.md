@@ -3,10 +3,11 @@ title: Document.StyleSortMethod Property (Word)
 keywords: vbawd10.chm158007789
 f1_keywords:
 - vbawd10.chm158007789
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.StyleSortMethod
 ms.assetid: 188e1f2c-e5f4-3253-4051-d78cd4668f4a
+ms.date: 06/08/2017
 ---
 
 

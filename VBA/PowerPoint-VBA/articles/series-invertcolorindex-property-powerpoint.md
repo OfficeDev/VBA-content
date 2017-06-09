@@ -3,10 +3,11 @@ title: Series.InvertColorIndex Property (PowerPoint)
 keywords: vbapp10.chm716008
 f1_keywords:
 - vbapp10.chm716008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.InvertColorIndex
 ms.assetid: 879637a8-52a7-a6ac-a882-386dad1808cb
+ms.date: 06/08/2017
 ---
 
 

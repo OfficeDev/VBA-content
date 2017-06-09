@@ -3,10 +3,11 @@ title: TickLabels.Font Property (Excel)
 keywords: vbaxl10.chm616075
 f1_keywords:
 - vbaxl10.chm616075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Font
 ms.assetid: b241fa1f-592c-83ac-eb20-c5b0b7a94296
+ms.date: 06/08/2017
 ---
 
 

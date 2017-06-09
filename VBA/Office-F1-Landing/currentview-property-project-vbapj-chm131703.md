@@ -3,8 +3,9 @@ title: CurrentView Property, Project [vbapj.chm131703]
 keywords: vbapj.chm131703
 f1_keywords:
 - vbapj.chm131703
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 53ed5821-0f39-4f55-9df4-053d89f6b4ed
+ms.date: 06/08/2017
 ---
 
 

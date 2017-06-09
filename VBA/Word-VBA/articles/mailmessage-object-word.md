@@ -3,10 +3,11 @@ title: MailMessage Object (Word)
 keywords: vbawd10.chm2490
 f1_keywords:
 - vbawd10.chm2490
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage
 ms.assetid: d0109969-27f7-0180-c56d-5b49a3f0171b
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ShapeRange.Reflection Property (Excel)
 keywords: vbaxl10.chm640145
 f1_keywords:
 - vbaxl10.chm640145
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Reflection
 ms.assetid: 5c4e4918-279f-de8b-0d4d-a2feb51ebee4
+ms.date: 06/08/2017
 ---
 
 

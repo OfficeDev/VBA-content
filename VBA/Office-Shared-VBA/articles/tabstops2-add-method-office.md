@@ -1,9 +1,10 @@
 ---
 title: TabStops2.Add Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabStops2.Add
 ms.assetid: 850b5a3d-c85e-33e5-b8d5-8ca469632e39
+ms.date: 06/08/2017
 ---
 
 

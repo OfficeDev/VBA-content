@@ -3,10 +3,11 @@ title: OutlineCode.CodeMask Property (Project)
 keywords: vbapj.chm132457
 f1_keywords:
 - vbapj.chm132457
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.CodeMask
 ms.assetid: 82f6f4df-b69a-62e4-546d-3600a51a28a3
+ms.date: 06/08/2017
 ---
 
 

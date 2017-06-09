@@ -3,10 +3,11 @@ title: UpBars.Delete Method (Excel)
 keywords: vbaxl10.chm608077
 f1_keywords:
 - vbaxl10.chm608077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UpBars.Delete
 ms.assetid: d224d9c6-362b-b88c-0897-b759e635d409
+ms.date: 06/08/2017
 ---
 
 

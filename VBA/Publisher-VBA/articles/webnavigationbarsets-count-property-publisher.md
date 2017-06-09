@@ -3,10 +3,11 @@ title: WebNavigationBarSets.Count Property (Publisher)
 keywords: vbapb10.chm8454147
 f1_keywords:
 - vbapb10.chm8454147
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets.Count
 ms.assetid: ffe603c6-2c5a-de85-0924-aefa1dad269e
+ms.date: 06/08/2017
 ---
 
 

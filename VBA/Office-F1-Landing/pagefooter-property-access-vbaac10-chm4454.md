@@ -3,8 +3,9 @@ title: PageFooter Property, Access [vbaac10.chm4454]
 keywords: vbaac10.chm4454
 f1_keywords:
 - vbaac10.chm4454
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 370aacb9-5a38-475b-aa6c-0ce86d16a0b0
+ms.date: 06/08/2017
 ---
 
 

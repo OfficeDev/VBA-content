@@ -3,10 +3,11 @@ title: XMLSchemaReference Object (Word)
 keywords: vbawd10.chm496
 f1_keywords:
 - vbawd10.chm496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReference
 ms.assetid: 54142ef1-f731-3f82-2dc0-809d8a041b73
+ms.date: 06/08/2017
 ---
 
 

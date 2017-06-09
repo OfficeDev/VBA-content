@@ -3,10 +3,11 @@ title: PivotField.EnableItemSelection Property (Excel)
 keywords: vbaxl10.chm240134
 f1_keywords:
 - vbaxl10.chm240134
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.EnableItemSelection
 ms.assetid: ae55f88a-618f-3063-2019-a993a3146b67
+ms.date: 06/08/2017
 ---
 
 

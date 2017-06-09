@@ -3,10 +3,11 @@ title: Envelope.AddressStyle Property (Word)
 keywords: vbawd10.chm152567825
 f1_keywords:
 - vbawd10.chm152567825
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.AddressStyle
 ms.assetid: 404962d4-18eb-f79a-67e4-e54c3d6539e5
+ms.date: 06/08/2017
 ---
 
 

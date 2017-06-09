@@ -1,6 +1,8 @@
 ---
 title: XlCategoryLabelLevel Enumeration (PowerPoint)
 ms.assetid: c55e59e0-247e-e286-e276-f6349fd12b56
+ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

@@ -3,10 +3,11 @@ title: Border.TintAndShade Property (Excel)
 keywords: vbaxl10.chm547078
 f1_keywords:
 - vbaxl10.chm547078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Border.TintAndShade
 ms.assetid: 3ec15506-3ba6-a173-a11b-d17448fcdb1b
+ms.date: 06/08/2017
 ---
 
 

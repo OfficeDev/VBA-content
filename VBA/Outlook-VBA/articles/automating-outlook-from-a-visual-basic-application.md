@@ -3,8 +3,9 @@ title: Automating Outlook from a Visual Basic Application
 keywords: vbaol11.chm5273039
 f1_keywords:
 - vbaol11.chm5273039
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 623f91af-cd50-1ff0-9519-5a39cbcf5d18
+ms.date: 06/08/2017
 ---
 
 

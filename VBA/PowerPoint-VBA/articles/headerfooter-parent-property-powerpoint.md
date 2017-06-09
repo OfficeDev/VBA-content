@@ -3,10 +3,11 @@ title: HeaderFooter.Parent Property (PowerPoint)
 keywords: vbapp10.chm582002
 f1_keywords:
 - vbapp10.chm582002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.Parent
 ms.assetid: b97fbcf9-b3e9-9843-eb99-f73b63c66197
+ms.date: 06/08/2017
 ---
 
 

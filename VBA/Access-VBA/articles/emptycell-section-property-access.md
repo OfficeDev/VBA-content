@@ -3,10 +3,11 @@ title: EmptyCell.Section Property (Access)
 keywords: vbaac10.chm14315
 f1_keywords:
 - vbaac10.chm14315
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Section
 ms.assetid: b31458f9-d390-c9ff-14c1-e2488497f906
+ms.date: 06/08/2017
 ---
 
 

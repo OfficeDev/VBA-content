@@ -3,10 +3,11 @@ title: ComboBox.OnDblClick Property (Access)
 keywords: vbaac10.chm11456
 f1_keywords:
 - vbaac10.chm11456
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnDblClick
 ms.assetid: 737b1fd2-8966-5417-4979-538fa0594ef9
+ms.date: 06/08/2017
 ---
 
 

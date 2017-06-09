@@ -3,10 +3,11 @@ title: Watches.Parent Property (Excel)
 keywords: vbaxl10.chm687075
 f1_keywords:
 - vbaxl10.chm687075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Watches.Parent
 ms.assetid: a3b33f25-1f10-db42-e5a8-7c3dbe121933
+ms.date: 06/08/2017
 ---
 
 

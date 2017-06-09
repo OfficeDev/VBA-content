@@ -3,8 +3,9 @@ title: SHARE.EXE required
 keywords: vblr6.chm1011274
 f1_keywords:
 - vblr6.chm1011274
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2f442b9d-b324-ee7f-0daa-c4cf2534a308
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: SetDefaultTabOrder Method, Office Shared [fm20.chm5224971]
 keywords: fm20.chm5224971
 f1_keywords:
 - fm20.chm5224971
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa533597-5fd3-4996-8254-1cd358193f8b
+ms.date: 06/08/2017
 ---
 
 

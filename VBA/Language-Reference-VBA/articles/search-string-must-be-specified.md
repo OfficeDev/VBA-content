@@ -3,8 +3,9 @@ title: Search string must be specified
 keywords: vblr6.chm1011135
 f1_keywords:
 - vblr6.chm1011135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7ada6115-14f6-40a0-9ef2-15098efa9b53
+ms.date: 06/08/2017
 ---
 
 

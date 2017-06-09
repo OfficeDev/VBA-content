@@ -3,10 +3,11 @@ title: PivotTable.PivotSelect Method (Excel)
 keywords: vbaxl10.chm235137
 f1_keywords:
 - vbaxl10.chm235137
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotSelect
 ms.assetid: e9beda74-c022-3ba7-b3af-d607024846f2
+ms.date: 06/08/2017
 ---
 
 

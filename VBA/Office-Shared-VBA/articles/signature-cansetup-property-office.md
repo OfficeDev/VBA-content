@@ -3,10 +3,11 @@ title: Signature.CanSetup Property (Office)
 keywords: vbaof11.chm248015
 f1_keywords:
 - vbaof11.chm248015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature.CanSetup
 ms.assetid: 6c4903e9-2fd0-3947-aeb1-c0bc9c437fe7
+ms.date: 06/08/2017
 ---
 
 

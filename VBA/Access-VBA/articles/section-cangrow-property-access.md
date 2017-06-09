@@ -3,10 +3,11 @@ title: Section.CanGrow Property (Access)
 keywords: vbaac10.chm12197
 f1_keywords:
 - vbaac10.chm12197
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.CanGrow
 ms.assetid: ea3feebb-8193-2fc3-758b-533b65d0e5b0
+ms.date: 06/08/2017
 ---
 
 

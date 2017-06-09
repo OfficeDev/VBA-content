@@ -3,10 +3,11 @@ title: ReflectionFormat.Creator Property (Word)
 keywords: vbawd10.chm67044329
 f1_keywords:
 - vbawd10.chm67044329
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReflectionFormat.Creator
 ms.assetid: 3b6282d3-6ae4-e436-5f0b-fb1dff16c41d
+ms.date: 06/08/2017
 ---
 
 

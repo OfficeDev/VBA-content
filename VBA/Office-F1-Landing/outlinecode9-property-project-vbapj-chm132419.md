@@ -3,8 +3,9 @@ title: OutlineCode9 Property, Project [vbapj.chm132419]
 keywords: vbapj.chm132419
 f1_keywords:
 - vbapj.chm132419
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8b682248-6c3d-4301-a09b-f08411f29687
+ms.date: 06/08/2017
 ---
 
 

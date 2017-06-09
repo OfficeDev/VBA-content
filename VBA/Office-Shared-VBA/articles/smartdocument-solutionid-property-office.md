@@ -3,10 +3,11 @@ title: SmartDocument.SolutionID Property (Office)
 keywords: vbaof11.chm262001
 f1_keywords:
 - vbaof11.chm262001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartDocument.SolutionID
 ms.assetid: e1eea0af-d951-a316-4b58-a65ffd280c89
+ms.date: 06/08/2017
 ---
 
 

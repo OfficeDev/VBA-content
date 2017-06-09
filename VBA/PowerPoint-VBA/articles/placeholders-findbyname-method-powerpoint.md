@@ -3,10 +3,11 @@ title: Placeholders.FindByName Method (PowerPoint)
 keywords: vbapp10.chm544004
 f1_keywords:
 - vbapp10.chm544004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders.FindByName
 ms.assetid: 8911f52e-b544-4246-8b75-8af3650da4de
+ms.date: 06/08/2017
 ---
 
 

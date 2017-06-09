@@ -1,9 +1,10 @@
 ---
 title: PickerDialog.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerDialog.Creator
 ms.assetid: 1c4ac795-ba4d-62e8-3d7d-e656bcbf85d3
+ms.date: 06/08/2017
 ---
 
 

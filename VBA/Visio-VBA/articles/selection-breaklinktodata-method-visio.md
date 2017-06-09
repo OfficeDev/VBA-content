@@ -3,10 +3,11 @@ title: Selection.BreakLinkToData Method (Visio)
 keywords: vis_sdr.chm11160195
 f1_keywords:
 - vis_sdr.chm11160195
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.BreakLinkToData
 ms.assetid: 83a52ed7-1d10-9005-4a1a-339995106d8b
+ms.date: 06/08/2017
 ---
 
 

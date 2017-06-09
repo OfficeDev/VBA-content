@@ -3,10 +3,11 @@ title: WorksheetFunction.DMax Method (Excel)
 keywords: vbaxl10.chm137098
 f1_keywords:
 - vbaxl10.chm137098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DMax
 ms.assetid: f7a3ca85-6b78-8560-0ee2-6d96378dfbfb
+ms.date: 06/08/2017
 ---
 
 

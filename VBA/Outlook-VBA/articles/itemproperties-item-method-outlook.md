@@ -3,10 +3,11 @@ title: ItemProperties.Item Method (Outlook)
 keywords: vbaol11.chm536
 f1_keywords:
 - vbaol11.chm536
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperties.Item
 ms.assetid: 51bb7900-d3fc-650d-d43b-0da14e13ca5a
+ms.date: 06/08/2017
 ---
 
 

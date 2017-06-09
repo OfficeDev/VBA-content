@@ -3,10 +3,11 @@ title: Selection.Sort Method (Word)
 keywords: vbawd10.chm158663679
 f1_keywords:
 - vbawd10.chm158663679
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Sort
 ms.assetid: 3f29f6bf-a6b4-1638-b078-f61a4f36c17e
+ms.date: 06/08/2017
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: WdInlineShapeType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdInlineShapeType
 ms.assetid: 2843a994-6016-b07f-3bc3-70a5c6205cf3
+ms.date: 06/08/2017
 ---
 
 

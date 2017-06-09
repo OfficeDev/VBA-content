@@ -3,10 +3,11 @@ title: DataConnection.Document Property (Visio)
 keywords: vis_sdr.chm16513430
 f1_keywords:
 - vis_sdr.chm16513430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection.Document
 ms.assetid: 58fa85cc-11ba-e1ea-7734-91b2298b4e34
+ms.date: 06/08/2017
 ---
 
 

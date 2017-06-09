@@ -1,7 +1,8 @@
 ---
 title: Shape Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: d2b32bcd-5595-a4a7-9772-feb25fd0103a
+ms.date: 06/08/2017
 ---
 
 

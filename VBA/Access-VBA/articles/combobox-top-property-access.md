@@ -3,10 +3,11 @@ title: ComboBox.Top Property (Access)
 keywords: vbaac10.chm11402
 f1_keywords:
 - vbaac10.chm11402
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Top
 ms.assetid: 17e9ca79-0b35-0c50-09f5-bbbc36482081
+ms.date: 06/08/2017
 ---
 
 

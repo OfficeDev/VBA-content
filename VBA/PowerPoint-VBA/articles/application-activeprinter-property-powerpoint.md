@@ -3,10 +3,11 @@ title: Application.ActivePrinter Property (PowerPoint)
 keywords: vbapp10.chm502017
 f1_keywords:
 - vbapp10.chm502017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ActivePrinter
 ms.assetid: 48ba3853-6a8f-d523-807a-8324e59adbb7
+ms.date: 06/08/2017
 ---
 
 

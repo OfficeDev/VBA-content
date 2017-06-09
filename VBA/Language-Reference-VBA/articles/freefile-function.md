@@ -3,8 +3,9 @@ title: FreeFile Function
 keywords: vblr6.chm1008926
 f1_keywords:
 - vblr6.chm1008926
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b3fda54f-0cbd-788b-e944-d7d7b07a02a1
+ms.date: 06/08/2017
 ---
 
 

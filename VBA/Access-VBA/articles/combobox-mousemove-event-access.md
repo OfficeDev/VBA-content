@@ -3,10 +3,11 @@ title: ComboBox.MouseMove Event (Access)
 keywords: vbaac10.chm14222
 f1_keywords:
 - vbaac10.chm14222
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.MouseMove
 ms.assetid: 73c929d1-bd21-3f79-4291-b5d04357ad9f
+ms.date: 06/08/2017
 ---
 
 

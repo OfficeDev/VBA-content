@@ -3,8 +3,9 @@ title: The library containing this symbol is not referenced by the current proje
 keywords: vblr6.chm1057124
 f1_keywords:
 - vblr6.chm1057124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fcdba283-afab-4c23-99d9-945cd8d12f59
+ms.date: 06/08/2017
 ---
 
 

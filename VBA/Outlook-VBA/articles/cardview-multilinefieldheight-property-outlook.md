@@ -3,10 +3,11 @@ title: CardView.MultiLineFieldHeight Property (Outlook)
 keywords: vbaol11.chm2601
 f1_keywords:
 - vbaol11.chm2601
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.MultiLineFieldHeight
 ms.assetid: 71b87b15-ef48-9214-295c-731bb9fbc808
+ms.date: 06/08/2017
 ---
 
 

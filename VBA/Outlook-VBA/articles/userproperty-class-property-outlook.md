@@ -3,10 +3,11 @@ title: UserProperty.Class Property (Outlook)
 keywords: vbaol11.chm214
 f1_keywords:
 - vbaol11.chm214
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperty.Class
 ms.assetid: 06f17b5f-0d42-6f7e-637c-5754a74aea9c
+ms.date: 06/08/2017
 ---
 
 

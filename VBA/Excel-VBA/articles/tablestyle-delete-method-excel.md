@@ -3,10 +3,11 @@ title: TableStyle.Delete Method (Excel)
 keywords: vbaxl10.chm839080
 f1_keywords:
 - vbaxl10.chm839080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyle.Delete
 ms.assetid: 5dfff261-7730-29f1-d64e-f569eb380790
+ms.date: 06/08/2017
 ---
 
 

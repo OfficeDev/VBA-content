@@ -3,10 +3,11 @@ title: QueryTable.Refresh Method (Excel)
 keywords: vbaxl10.chm518092
 f1_keywords:
 - vbaxl10.chm518092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Refresh
 ms.assetid: 445d74fb-1a9c-bba4-2d53-0ab0caa876da
+ms.date: 06/08/2017
 ---
 
 

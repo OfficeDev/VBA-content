@@ -3,8 +3,9 @@ title: ProjectBeforeAssignmentChange Event, Project [vbapj.chm131146]
 keywords: vbapj.chm131146
 f1_keywords:
 - vbapj.chm131146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cb653718-cfba-4907-b707-5a7a4bc8b05c
+ms.date: 06/08/2017
 ---
 
 

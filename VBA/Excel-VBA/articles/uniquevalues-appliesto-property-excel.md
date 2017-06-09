@@ -3,10 +3,11 @@ title: UniqueValues.AppliesTo Property (Excel)
 keywords: vbaxl10.chm826075
 f1_keywords:
 - vbaxl10.chm826075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.AppliesTo
 ms.assetid: 6ac8233d-eda7-820e-ce76-bd0dfb93114d
+ms.date: 06/08/2017
 ---
 
 

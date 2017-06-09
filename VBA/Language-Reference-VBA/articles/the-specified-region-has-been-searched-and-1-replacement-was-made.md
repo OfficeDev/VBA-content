@@ -3,8 +3,9 @@ title: The specified region has been searched and 1 replacement was made
 keywords: vblr6.chm1015679
 f1_keywords:
 - vblr6.chm1015679
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 718b51fb-bf22-499d-9fd5-8c6f1966af45
+ms.date: 06/08/2017
 ---
 
 

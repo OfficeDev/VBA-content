@@ -3,10 +3,11 @@ title: ComboBox.Requery Method (Access)
 keywords: vbaac10.chm11365
 f1_keywords:
 - vbaac10.chm11365
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Requery
 ms.assetid: 25203ee2-5e4b-4f23-a596-ff3a7ddb0014
+ms.date: 06/08/2017
 ---
 
 

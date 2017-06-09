@@ -3,10 +3,11 @@ title: Range.ModifyEnclosure Method (Word)
 keywords: vbawd10.chm157155551
 f1_keywords:
 - vbawd10.chm157155551
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ModifyEnclosure
 ms.assetid: 173c5b41-5245-4fc5-b9d9-9fd7cea0aab8
+ms.date: 06/08/2017
 ---
 
 

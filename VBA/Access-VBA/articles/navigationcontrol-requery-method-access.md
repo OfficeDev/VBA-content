@@ -3,10 +3,11 @@ title: NavigationControl.Requery Method (Access)
 keywords: vbaac10.chm11034
 f1_keywords:
 - vbaac10.chm11034
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Requery
 ms.assetid: 613e89e1-5e02-d2da-4881-c77f3d8cb55e
+ms.date: 06/08/2017
 ---
 
 

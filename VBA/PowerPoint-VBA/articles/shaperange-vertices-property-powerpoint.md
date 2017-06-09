@@ -3,10 +3,11 @@ title: ShapeRange.Vertices Property (PowerPoint)
 keywords: vbapp10.chm548040
 f1_keywords:
 - vbapp10.chm548040
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Vertices
 ms.assetid: 3ded99dc-f64d-cfdd-f982-2e892ba4a446
+ms.date: 06/08/2017
 ---
 
 

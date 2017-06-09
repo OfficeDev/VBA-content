@@ -3,8 +3,9 @@ title: Must close or hide topmost modal form first (Error 402), Office Shared [v
 keywords: vblr6.chm1117808
 f1_keywords:
 - vblr6.chm1117808
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3476d0b3-e00c-46f8-99f4-9907b998d1d7
+ms.date: 06/08/2017
 ---
 
 

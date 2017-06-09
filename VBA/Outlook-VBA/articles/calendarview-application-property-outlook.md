@@ -3,10 +3,11 @@ title: CalendarView.Application Property (Outlook)
 keywords: vbaol11.chm2607
 f1_keywords:
 - vbaol11.chm2607
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Application
 ms.assetid: e0d38110-8c3f-d4f8-4158-23123c633c05
+ms.date: 06/08/2017
 ---
 
 

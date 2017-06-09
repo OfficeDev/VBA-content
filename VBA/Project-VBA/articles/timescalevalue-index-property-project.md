@@ -1,9 +1,10 @@
 ---
 title: TimeScaleValue.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.Index
 ms.assetid: ebb523d2-cf85-180c-6808-ea83c8d8a5ba
+ms.date: 06/08/2017
 ---
 
 

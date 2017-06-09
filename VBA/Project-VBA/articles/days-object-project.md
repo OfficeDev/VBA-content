@@ -1,7 +1,8 @@
 ---
 title: Days Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: ac9cc007-a318-c9a8-2e6c-c4834a52d5c2
+ms.date: 06/08/2017
 ---
 
 

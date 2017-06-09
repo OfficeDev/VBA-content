@@ -3,10 +3,11 @@ title: WorksheetFunction.F_Dist Method (Excel)
 keywords: vbaxl10.chm137402
 f1_keywords:
 - vbaxl10.chm137402
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Dist
 ms.assetid: 7b18fd63-120f-fddf-a20a-00d4182778a5
+ms.date: 06/08/2017
 ---
 
 

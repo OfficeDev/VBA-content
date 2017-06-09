@@ -3,8 +3,9 @@ title: Print  Statement
 keywords: vblr6.chm1008995
 f1_keywords:
 - vblr6.chm1008995
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 47c69cf9-2476-b9c2-782c-1c0fc2747936
+ms.date: 06/08/2017
 ---
 
 

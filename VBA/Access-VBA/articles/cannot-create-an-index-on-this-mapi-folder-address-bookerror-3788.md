@@ -3,14 +3,15 @@ title: Cannot create an index on this MAPI folder/address book. (Error 3788)
 keywords: jeterr40.chm5003788
 f1_keywords:
 - jeterr40.chm5003788
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 553ea1c1-3f74-869d-f1d3-2cc7d585dc07
+ms.date: 06/08/2017
 ---
 
 
 # Cannot create an index on this MAPI folder/address book. (Error 3788)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: WorksheetFunction.Quotient Method (Excel)
 keywords: vbaxl10.chm137294
 f1_keywords:
 - vbaxl10.chm137294
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Quotient
 ms.assetid: 33a057f8-dbb7-0f0e-fabd-ebdd4d471159
+ms.date: 06/08/2017
 ---
 
 

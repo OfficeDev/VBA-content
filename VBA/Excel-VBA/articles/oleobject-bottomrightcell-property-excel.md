@@ -3,10 +3,11 @@ title: OLEObject.BottomRightCell Property (Excel)
 keywords: vbaxl10.chm415074
 f1_keywords:
 - vbaxl10.chm415074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.BottomRightCell
 ms.assetid: daa803f5-76d7-270e-9116-9b5da9f497c4
+ms.date: 06/08/2017
 ---
 
 

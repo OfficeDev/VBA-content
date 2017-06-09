@@ -3,14 +3,15 @@ title: Syntax error in date. (Error 2421)
 keywords: jeterr40.chm5002421
 f1_keywords:
 - jeterr40.chm5002421
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fb912b28-9107-3e56-bbdf-96f767a82820
+ms.date: 06/08/2017
 ---
 
 
 # Syntax error in date. (Error 2421)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: ClearContents Method
 keywords: vbagr10.chm65649
 f1_keywords:
 - vbagr10.chm65649
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ClearContents
 ms.assetid: 8bf70623-e644-e45e-1b1e-565fe6acd223
+ms.date: 06/08/2017
 ---
 
 

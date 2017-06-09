@@ -3,10 +3,11 @@ title: Reviewers.Creator Property (Word)
 keywords: vbawd10.chm211420137
 f1_keywords:
 - vbawd10.chm211420137
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewers.Creator
 ms.assetid: 4a77f3a3-18ab-1d7a-ba8d-b773c1e6bc91
+ms.date: 06/08/2017
 ---
 
 

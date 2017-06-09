@@ -1,9 +1,10 @@
 ---
 title: XlTextParsingType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlTextParsingType
 ms.assetid: 71d76a41-c0b0-0b0f-27b5-7cac0d4c4ac4
+ms.date: 06/08/2017
 ---
 
 

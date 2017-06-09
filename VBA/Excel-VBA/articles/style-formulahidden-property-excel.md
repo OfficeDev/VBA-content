@@ -3,10 +3,11 @@ title: Style.FormulaHidden Property (Excel)
 keywords: vbaxl10.chm177078
 f1_keywords:
 - vbaxl10.chm177078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.FormulaHidden
 ms.assetid: 7b36f86b-2f88-3fb4-173e-cca7e747a195
+ms.date: 06/08/2017
 ---
 
 

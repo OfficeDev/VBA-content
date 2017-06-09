@@ -3,8 +3,9 @@ title: MsgBox Constants
 keywords: vblr6.chm1012528
 f1_keywords:
 - vblr6.chm1012528
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c07bba5c-b724-0a63-b829-5efd8798734f
+ms.date: 06/08/2017
 ---
 
 

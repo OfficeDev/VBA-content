@@ -3,10 +3,11 @@ title: RuleActions.CopyToFolder Property (Outlook)
 keywords: vbaol11.chm2184
 f1_keywords:
 - vbaol11.chm2184
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.CopyToFolder
 ms.assetid: 6e5c0ea8-6287-2904-c8d8-b3c6b5f7cb24
+ms.date: 06/08/2017
 ---
 
 

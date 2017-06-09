@@ -3,8 +3,9 @@ title: Height Property, Access [vbaac10.chm4377]
 keywords: vbaac10.chm4377
 f1_keywords:
 - vbaac10.chm4377
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9c185e4f-7881-4a56-8bd3-9aef6a031f35
+ms.date: 06/08/2017
 ---
 
 

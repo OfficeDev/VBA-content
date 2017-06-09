@@ -1,9 +1,10 @@
 ---
 title: Sync.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.Creator
 ms.assetid: c12c2c8f-a94d-e673-d528-0eaf68e75f35
+ms.date: 06/08/2017
 ---
 
 

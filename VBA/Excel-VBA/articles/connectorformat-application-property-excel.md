@@ -3,10 +3,11 @@ title: ConnectorFormat.Application Property (Excel)
 keywords: vbaxl10.chm645073
 f1_keywords:
 - vbaxl10.chm645073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.Application
 ms.assetid: c605e69b-6335-c925-8fcb-75b5bfa2999a
+ms.date: 06/08/2017
 ---
 
 

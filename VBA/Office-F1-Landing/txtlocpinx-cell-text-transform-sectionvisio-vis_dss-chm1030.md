@@ -3,8 +3,9 @@ title: TxtLocPinX Cell (Text Transform Section), Visio [Vis_DSS.chm1030]
 keywords: vis_dss.chm1030
 f1_keywords:
 - vis_dss.chm1030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7ba773e3-ea1f-4733-957b-f7322414190b
+ms.date: 06/08/2017
 ---
 
 

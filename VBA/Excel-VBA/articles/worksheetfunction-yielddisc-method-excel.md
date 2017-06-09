@@ -3,10 +3,11 @@ title: WorksheetFunction.YieldDisc Method (Excel)
 keywords: vbaxl10.chm137314
 f1_keywords:
 - vbaxl10.chm137314
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.YieldDisc
 ms.assetid: 838dce53-ce6d-e397-cbc6-f56dce1b2ec3
+ms.date: 06/08/2017
 ---
 
 

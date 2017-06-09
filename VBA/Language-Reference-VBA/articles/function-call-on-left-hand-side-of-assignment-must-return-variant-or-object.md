@@ -3,8 +3,9 @@ title: Function call on left-hand side of assignment must return Variant or Obje
 keywords: vblr6.chm1011177
 f1_keywords:
 - vblr6.chm1011177
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5c0b6c52-ab00-1c1b-96f8-7dfb3fcb749e
+ms.date: 06/08/2017
 ---
 
 

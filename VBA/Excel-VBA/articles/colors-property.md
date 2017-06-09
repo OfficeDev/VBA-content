@@ -3,10 +3,11 @@ title: Colors Property
 keywords: vbagr10.chm3082363
 f1_keywords:
 - vbagr10.chm3082363
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Colors
 ms.assetid: 8e848003-2ae8-a1d4-9ecf-8e6f87a5a600
+ms.date: 06/08/2017
 ---
 
 

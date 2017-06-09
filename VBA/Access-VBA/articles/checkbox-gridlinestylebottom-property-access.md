@@ -3,10 +3,11 @@ title: CheckBox.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm10775
 f1_keywords:
 - vbaac10.chm10775
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.GridlineStyleBottom
 ms.assetid: 2326ec85-b37b-cc97-d8f3-4913c936436b
+ms.date: 06/08/2017
 ---
 
 

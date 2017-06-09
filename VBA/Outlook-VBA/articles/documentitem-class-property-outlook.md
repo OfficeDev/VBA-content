@@ -3,10 +3,11 @@ title: DocumentItem.Class Property (Outlook)
 keywords: vbaol11.chm1180
 f1_keywords:
 - vbaol11.chm1180
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Class
 ms.assetid: 68d7706f-2ce2-ccce-5a52-af12c888fe2d
+ms.date: 06/08/2017
 ---
 
 

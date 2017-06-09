@@ -3,10 +3,11 @@ title: Characters.AddCustomField Method (Visio)
 keywords: vis_sdr.chm10216025
 f1_keywords:
 - vis_sdr.chm10216025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.AddCustomField
 ms.assetid: 26f3c1b9-36a0-602d-acb2-0a4fcdb7b630
+ms.date: 06/08/2017
 ---
 
 

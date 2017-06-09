@@ -3,10 +3,11 @@ title: Shape.XYToPage Method (Visio)
 keywords: vis_sdr.chm11216650
 f1_keywords:
 - vis_sdr.chm11216650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.XYToPage
 ms.assetid: 4a230d63-57a8-3b69-6425-2dca6a2014eb
+ms.date: 06/08/2017
 ---
 
 

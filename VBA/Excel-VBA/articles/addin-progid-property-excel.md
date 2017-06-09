@@ -3,10 +3,11 @@ title: AddIn.progID Property (Excel)
 keywords: vbaxl10.chm185082
 f1_keywords:
 - vbaxl10.chm185082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIn.progID
 ms.assetid: a1c1da74-119a-514e-cb5e-77981299b84d
+ms.date: 06/08/2017
 ---
 
 

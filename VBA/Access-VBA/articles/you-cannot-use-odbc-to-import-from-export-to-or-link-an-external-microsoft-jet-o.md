@@ -3,14 +3,15 @@ title: You cannot use ODBC to import from, export to, or link an external Micros
 keywords: jeterr40.chm5003423
 f1_keywords:
 - jeterr40.chm5003423
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 14305401-fcb7-b7fb-48cd-bada8ada344c
+ms.date: 06/08/2017
 ---
 
 
 # You cannot use ODBC to import from, export to, or link an external Microsoft Jet or ISAM database table to your database. (Error 3423)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

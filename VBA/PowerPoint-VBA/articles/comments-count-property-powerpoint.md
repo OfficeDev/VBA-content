@@ -1,9 +1,10 @@
 ---
 title: Comments.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments.Count
 ms.assetid: b03db1bc-f969-8a27-bfd2-4327e699c08a
+ms.date: 06/08/2017
 ---
 
 

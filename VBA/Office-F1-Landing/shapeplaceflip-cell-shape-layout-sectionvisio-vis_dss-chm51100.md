@@ -3,8 +3,9 @@ title: ShapePlaceFlip Cell (Shape Layout Section), Visio [Vis_DSS.chm51100]
 keywords: vis_dss.chm51100
 f1_keywords:
 - vis_dss.chm51100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 530fae64-d349-4e48-8c00-dc74d7f25150
+ms.date: 06/08/2017
 ---
 
 

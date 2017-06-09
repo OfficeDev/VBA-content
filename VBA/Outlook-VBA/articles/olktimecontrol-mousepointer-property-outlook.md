@@ -3,10 +3,11 @@ title: OlkTimeControl.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000390
 f1_keywords:
 - vbaol11.chm1000390
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.MousePointer
 ms.assetid: fb38e418-8313-14bc-7783-7e6e3bf59ccb
+ms.date: 06/08/2017
 ---
 
 

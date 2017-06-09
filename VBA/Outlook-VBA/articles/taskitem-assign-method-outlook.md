@@ -3,10 +3,11 @@ title: TaskItem.Assign Method (Outlook)
 keywords: vbaol11.chm1749
 f1_keywords:
 - vbaol11.chm1749
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Assign
 ms.assetid: f254107a-4182-de3a-2039-08f664e61eeb
+ms.date: 06/08/2017
 ---
 
 

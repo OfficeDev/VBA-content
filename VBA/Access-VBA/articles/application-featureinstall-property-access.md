@@ -3,10 +3,11 @@ title: Application.FeatureInstall Property (Access)
 keywords: vbaac10.chm12590
 f1_keywords:
 - vbaac10.chm12590
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.FeatureInstall
 ms.assetid: bc9057bc-72a4-0344-a50a-7b73a2d30212
+ms.date: 06/08/2017
 ---
 
 

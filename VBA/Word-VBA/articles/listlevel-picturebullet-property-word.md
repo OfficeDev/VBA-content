@@ -3,10 +3,11 @@ title: ListLevel.PictureBullet Property (Word)
 keywords: vbawd10.chm160235534
 f1_keywords:
 - vbawd10.chm160235534
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.PictureBullet
 ms.assetid: 73c44f47-182c-9ef6-106c-fd68000a27c3
+ms.date: 06/08/2017
 ---
 
 

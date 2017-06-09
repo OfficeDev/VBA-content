@@ -3,10 +3,11 @@ title: Report.OnLoad Property (Access)
 keywords: vbaac10.chm13856
 f1_keywords:
 - vbaac10.chm13856
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnLoad
 ms.assetid: b9ce7eaf-3f52-4cdf-a8eb-74f242c6b526
+ms.date: 06/08/2017
 ---
 
 

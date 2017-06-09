@@ -3,10 +3,11 @@ title: VisRoleSelectionTypes Enumeration (Visio)
 keywords: vis_sdr.chm70645
 f1_keywords:
 - vis_sdr.chm70645
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRoleSelectionTypes
 ms.assetid: 87e0e9fe-23c9-b554-a333-0ea7b3c7fb5b
+ms.date: 06/08/2017
 ---
 
 

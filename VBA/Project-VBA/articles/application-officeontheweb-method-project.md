@@ -3,10 +3,11 @@ title: Application.OfficeOnTheWeb Method (Project)
 keywords: vbapj.chm1322
 f1_keywords:
 - vbapj.chm1322
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OfficeOnTheWeb
 ms.assetid: ea51e58c-c677-7061-e9a6-8bdfc81779b7
+ms.date: 06/08/2017
 ---
 
 

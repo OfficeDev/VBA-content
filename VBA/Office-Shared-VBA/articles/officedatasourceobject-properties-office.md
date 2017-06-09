@@ -1,7 +1,8 @@
 ---
 title: OfficeDataSourceObject Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: afdecb21-9955-4bb3-a7ec-7bf21a3e6b6a
+ms.date: 06/08/2017
 ---
 
 

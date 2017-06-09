@@ -3,8 +3,9 @@ title: Zoom Event, Zoom Property, Label Control Example
 keywords: fm20.chm5225134
 f1_keywords:
 - fm20.chm5225134
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ded265c-6682-221f-e3c3-1ebf08a550c0
+ms.date: 06/08/2017
 ---
 
 

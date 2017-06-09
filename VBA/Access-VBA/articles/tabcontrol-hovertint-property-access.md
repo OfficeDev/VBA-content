@@ -3,10 +3,11 @@ title: TabControl.HoverTint Property (Access)
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HoverTint
 ms.assetid: 24de8049-121d-e8c2-ecce-f88b1651cee0
+ms.date: 06/08/2017
 ---
 
 

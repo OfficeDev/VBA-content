@@ -3,8 +3,9 @@ title: Unrecognized project language, Office Shared [vblr6.chm1011293]
 keywords: vblr6.chm1011293
 f1_keywords:
 - vblr6.chm1011293
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ef7d786d-885c-4971-8755-acc1eaa92b98
+ms.date: 06/08/2017
 ---
 
 

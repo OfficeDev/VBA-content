@@ -3,10 +3,11 @@ title: HasTitle Property
 keywords: vbagr10.chm65590
 f1_keywords:
 - vbagr10.chm65590
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasTitle
 ms.assetid: 9ecc48d3-fd86-e185-a69f-0676230b3194
+ms.date: 06/08/2017
 ---
 
 

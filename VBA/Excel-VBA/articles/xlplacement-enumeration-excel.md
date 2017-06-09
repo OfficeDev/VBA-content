@@ -1,9 +1,10 @@
 ---
 title: XlPlacement Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPlacement
 ms.assetid: ad52cbf4-3d51-d9fe-5e31-be181f7775d3
+ms.date: 06/08/2017
 ---
 
 

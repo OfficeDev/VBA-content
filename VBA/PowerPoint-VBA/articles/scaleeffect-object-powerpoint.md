@@ -3,10 +3,11 @@ title: ScaleEffect Object (PowerPoint)
 keywords: vbapp10.chm660000
 f1_keywords:
 - vbapp10.chm660000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect
 ms.assetid: cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f
+ms.date: 06/08/2017
 ---
 
 

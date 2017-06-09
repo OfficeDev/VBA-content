@@ -3,10 +3,11 @@ title: TaskRequestItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1888
 f1_keywords:
 - vbaol11.chm1888
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Mileage
 ms.assetid: 52ca6fe7-739a-2dec-7c9f-ce7f309d6599
+ms.date: 06/08/2017
 ---
 
 

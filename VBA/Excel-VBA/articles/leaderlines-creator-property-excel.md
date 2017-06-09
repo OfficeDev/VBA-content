@@ -3,10 +3,11 @@ title: LeaderLines.Creator Property (Excel)
 keywords: vbaxl10.chm605074
 f1_keywords:
 - vbaxl10.chm605074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LeaderLines.Creator
 ms.assetid: 6b2769a0-b54d-e75d-2ada-aa220809e238
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Could not decrypt file. (Error 3161)
 keywords: jeterr40.chm5003161
 f1_keywords:
 - jeterr40.chm5003161
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 213625ef-b5df-98cd-e0a6-a451b9437554
+ms.date: 06/08/2017
 ---
 
 
 # Could not decrypt file. (Error 3161)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

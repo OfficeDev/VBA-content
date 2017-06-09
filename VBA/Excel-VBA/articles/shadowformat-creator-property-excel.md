@@ -1,9 +1,10 @@
 ---
 title: ShadowFormat.Creator Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Creator
 ms.assetid: 5c7397d1-dd9e-2889-ad96-6fa6510429e3
+ms.date: 06/08/2017
 ---
 
 

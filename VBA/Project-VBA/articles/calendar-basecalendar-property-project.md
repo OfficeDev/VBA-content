@@ -1,9 +1,10 @@
 ---
 title: Calendar.BaseCalendar Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.BaseCalendar
 ms.assetid: 3ea2b0e2-8d73-b564-fdd1-a098a8428562
+ms.date: 06/08/2017
 ---
 
 

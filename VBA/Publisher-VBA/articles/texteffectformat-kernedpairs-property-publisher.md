@@ -3,10 +3,11 @@ title: TextEffectFormat.KernedPairs Property (Publisher)
 keywords: vbapb10.chm3735813
 f1_keywords:
 - vbapb10.chm3735813
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.KernedPairs
 ms.assetid: 1382ae7a-250f-ca08-a57f-f7132078e3f2
+ms.date: 06/08/2017
 ---
 
 

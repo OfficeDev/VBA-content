@@ -3,10 +3,11 @@ title: Project.DatabaseProjectUniqueID Property (Project)
 keywords: vbapj.chm131115
 f1_keywords:
 - vbapj.chm131115
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DatabaseProjectUniqueID
 ms.assetid: c2630e58-286e-1ff8-351e-9510f6ff2d4a
+ms.date: 06/08/2017
 ---
 
 

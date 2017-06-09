@@ -3,10 +3,11 @@ title: Chart.Walls Property (Excel)
 keywords: vbaxl10.chm149151
 f1_keywords:
 - vbaxl10.chm149151
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Walls
 ms.assetid: fbee1165-7602-4d77-e5b6-8a127783c96e
+ms.date: 06/08/2017
 ---
 
 

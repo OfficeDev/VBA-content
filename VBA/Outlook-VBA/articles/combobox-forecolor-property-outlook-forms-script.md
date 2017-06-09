@@ -1,7 +1,8 @@
 ---
 title: ComboBox.ForeColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 256d695a-df00-d22c-b2aa-e21036beea35
+ms.date: 06/08/2017
 ---
 
 

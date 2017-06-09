@@ -3,10 +3,11 @@ title: Shape.QueryCancelSelectionDelete Event (Visio)
 keywords: vis_sdr.chm11219320
 f1_keywords:
 - vis_sdr.chm11219320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.QueryCancelSelectionDelete
 ms.assetid: d050cf74-b427-32ef-fe11-77246bb9cf55
+ms.date: 06/08/2017
 ---
 
 

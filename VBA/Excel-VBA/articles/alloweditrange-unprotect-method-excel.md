@@ -3,10 +3,11 @@ title: AllowEditRange.Unprotect Method (Excel)
 keywords: vbaxl10.chm725077
 f1_keywords:
 - vbaxl10.chm725077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRange.Unprotect
 ms.assetid: 3c7679c6-828d-e1c4-7009-f42bad1a66d6
+ms.date: 06/08/2017
 ---
 
 

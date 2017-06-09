@@ -1,9 +1,10 @@
 ---
 title: XlConstants Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XlConstants
 ms.assetid: 90d5b59c-8fa6-171c-4f77-01536bc9a1d3
+ms.date: 06/08/2017
 ---
 
 

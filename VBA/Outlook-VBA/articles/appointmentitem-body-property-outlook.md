@@ -3,10 +3,11 @@ title: AppointmentItem.Body Property (Outlook)
 keywords: vbaol11.chm845
 f1_keywords:
 - vbaol11.chm845
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Body
 ms.assetid: 0b9cec33-d3bf-1902-cc60-36966c06b757
+ms.date: 06/08/2017
 ---
 
 

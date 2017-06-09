@@ -3,8 +3,9 @@ title: TaskViewList Property, Project [vbapj.chm132667]
 keywords: vbapj.chm132667
 f1_keywords:
 - vbapj.chm132667
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5138cc8-879b-44f1-afbb-e644cc05c34e
+ms.date: 06/08/2017
 ---
 
 

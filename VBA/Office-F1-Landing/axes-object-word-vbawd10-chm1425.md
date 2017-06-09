@@ -3,8 +3,9 @@ title: Axes Object, Word [vbawd10.chm1425]
 keywords: vbawd10.chm1425
 f1_keywords:
 - vbawd10.chm1425
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aa4a873c-30a0-4607-b720-cea81c85e807
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.FullBuild Property (Visio)
 keywords: vis_sdr.chm10051220
 f1_keywords:
 - vis_sdr.chm10051220
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.FullBuild
 ms.assetid: 608b99df-027b-7878-e519-311b57dc86bd
+ms.date: 06/08/2017
 ---
 
 

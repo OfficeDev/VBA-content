@@ -3,10 +3,11 @@ title: CommandButton.ForeColor Property (Access)
 keywords: vbaac10.chm10471
 f1_keywords:
 - vbaac10.chm10471
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ForeColor
 ms.assetid: 6d19e4b2-2375-fe37-c226-4489ebcb808e
+ms.date: 06/08/2017
 ---
 
 

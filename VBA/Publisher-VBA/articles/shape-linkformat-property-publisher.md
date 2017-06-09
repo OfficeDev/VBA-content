@@ -3,10 +3,11 @@ title: Shape.LinkFormat Property (Publisher)
 keywords: vbapb10.chm2228326
 f1_keywords:
 - vbapb10.chm2228326
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.LinkFormat
 ms.assetid: 801c3a87-7cc6-8c7b-094a-55e8d8d7a004
+ms.date: 06/08/2017
 ---
 
 

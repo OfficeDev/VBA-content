@@ -3,10 +3,11 @@ title: AutoCorrectEntry Object (Word)
 keywords: vbawd10.chm2375
 f1_keywords:
 - vbawd10.chm2375
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntry
 ms.assetid: 33173958-42eb-00ef-7f37-41f95ed47f87
+ms.date: 06/08/2017
 ---
 
 

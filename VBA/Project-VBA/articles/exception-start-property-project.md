@@ -1,9 +1,10 @@
 ---
 title: Exception.Start Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Start
 ms.assetid: d0cad4a6-a980-2a62-7692-07a22aac05e1
+ms.date: 06/08/2017
 ---
 
 

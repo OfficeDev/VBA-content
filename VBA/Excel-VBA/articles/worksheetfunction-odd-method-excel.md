@@ -3,10 +3,11 @@ title: WorksheetFunction.Odd Method (Excel)
 keywords: vbaxl10.chm137202
 f1_keywords:
 - vbaxl10.chm137202
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Odd
 ms.assetid: 28a30d51-ba7b-f7b4-55a5-39b85f7f4cd7
+ms.date: 06/08/2017
 ---
 
 

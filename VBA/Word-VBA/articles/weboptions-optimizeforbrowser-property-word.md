@@ -3,10 +3,11 @@ title: WebOptions.OptimizeForBrowser Property (Word)
 keywords: vbawd10.chm165937153
 f1_keywords:
 - vbawd10.chm165937153
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.OptimizeForBrowser
 ms.assetid: c7b9f987-d13e-a95d-e40d-3b1c9b7f9fa0
+ms.date: 06/08/2017
 ---
 
 

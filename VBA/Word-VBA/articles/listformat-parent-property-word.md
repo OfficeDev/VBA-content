@@ -3,10 +3,11 @@ title: ListFormat.Parent Property (Word)
 keywords: vbawd10.chm163578858
 f1_keywords:
 - vbawd10.chm163578858
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.Parent
 ms.assetid: 3eb82748-6dd7-2029-e7f3-9b807bc3c7cc
+ms.date: 06/08/2017
 ---
 
 

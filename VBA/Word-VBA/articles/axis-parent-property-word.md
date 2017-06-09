@@ -3,10 +3,11 @@ title: Axis.Parent Property (Word)
 keywords: vbawd10.chm113049750
 f1_keywords:
 - vbawd10.chm113049750
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Parent
 ms.assetid: b73b7081-7600-bc3c-d315-d7f2591c52f8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Application.GanttRollup Method (Project)
 keywords: vbapj.chm2119
 f1_keywords:
 - vbapj.chm2119
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttRollup
 ms.assetid: 8bb5ef38-d0c7-7425-a6ac-e50c7ae979d8
+ms.date: 06/08/2017
 ---
 
 

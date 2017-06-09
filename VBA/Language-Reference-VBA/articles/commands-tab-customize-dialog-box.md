@@ -3,8 +3,9 @@ title: Commands Tab (Customize Dialog Box)
 keywords: vbui6.chm1077003
 f1_keywords:
 - vbui6.chm1077003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b6ec0851-a0d3-10aa-2430-0952eea5fcb4
+ms.date: 06/08/2017
 ---
 
 

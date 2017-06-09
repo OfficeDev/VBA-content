@@ -3,10 +3,11 @@ title: Section.Index Property (Visio)
 keywords: vis_sdr.chm15713695
 f1_keywords:
 - vis_sdr.chm15713695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Index
 ms.assetid: 200383d3-0a60-583b-4ccd-439b408986a0
+ms.date: 06/08/2017
 ---
 
 

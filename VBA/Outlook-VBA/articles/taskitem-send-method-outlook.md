@@ -3,10 +3,11 @@ title: TaskItem.Send Method (Outlook)
 keywords: vbaol11.chm1755
 f1_keywords:
 - vbaol11.chm1755
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Send
 ms.assetid: 54f751fc-cff1-5d17-f635-f688cd8ad6f8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: Make Same Size Commands (Format Menu), Office Shared [vbui6.chm2051144]
 keywords: vbui6.chm2051144
 f1_keywords:
 - vbui6.chm2051144
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a318999a-cebe-43f4-8781-992f4a63c328
+ms.date: 06/08/2017
 ---
 
 

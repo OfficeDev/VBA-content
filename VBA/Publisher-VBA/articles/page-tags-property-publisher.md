@@ -3,10 +3,11 @@ title: Page.Tags Property (Publisher)
 keywords: vbapb10.chm393235
 f1_keywords:
 - vbapb10.chm393235
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Tags
 ms.assetid: 94a8be36-20c2-65bc-b1e2-41f24703b264
+ms.date: 06/08/2017
 ---
 
 

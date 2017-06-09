@@ -1,9 +1,10 @@
 ---
 title: Application.NoEventsPending Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.NoEventsPending
 ms.assetid: 8cb93f89-4541-53f8-a95c-abf5b349f67d
+ms.date: 06/08/2017
 ---
 
 

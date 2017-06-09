@@ -1,7 +1,8 @@
 ---
 title: Build SQL Statements That Include Variables and Controls
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e902199f-ed00-e885-3671-0705aa2b058a
+ms.date: 06/08/2017
 ---
 
 

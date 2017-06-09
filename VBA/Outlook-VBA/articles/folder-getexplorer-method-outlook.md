@@ -3,10 +3,11 @@ title: Folder.GetExplorer Method (Outlook)
 keywords: vbaol11.chm1997
 f1_keywords:
 - vbaol11.chm1997
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.GetExplorer
 ms.assetid: f60bf373-802e-cb93-2152-bc6c8945edb1
+ms.date: 06/08/2017
 ---
 
 

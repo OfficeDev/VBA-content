@@ -3,10 +3,11 @@ title: Gridlines.Name Property (Excel)
 keywords: vbaxl10.chm602074
 f1_keywords:
 - vbaxl10.chm602074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Gridlines.Name
 ms.assetid: 4c283803-cc92-dfa0-a443-c1ee66769d74
+ms.date: 06/08/2017
 ---
 
 

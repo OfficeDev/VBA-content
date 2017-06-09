@@ -3,10 +3,11 @@ title: Font.StylisticSet Property (Word)
 keywords: vbawd10.chm156369074
 f1_keywords:
 - vbawd10.chm156369074
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.StylisticSet
 ms.assetid: e82013b1-9f55-d17a-a510-6f77b627382b
+ms.date: 06/08/2017
 ---
 
 

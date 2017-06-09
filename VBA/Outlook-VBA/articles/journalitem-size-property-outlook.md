@@ -3,10 +3,11 @@ title: JournalItem.Size Property (Outlook)
 keywords: vbaol11.chm1253
 f1_keywords:
 - vbaol11.chm1253
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Size
 ms.assetid: 71f076a4-59df-d437-0925-af71c2a42e77
+ms.date: 06/08/2017
 ---
 
 

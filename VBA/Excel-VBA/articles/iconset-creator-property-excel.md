@@ -3,10 +3,11 @@ title: IconSet.Creator Property (Excel)
 keywords: vbaxl10.chm817074
 f1_keywords:
 - vbaxl10.chm817074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSet.Creator
 ms.assetid: 32801791-c2d6-04d2-e93d-b6583728ced8
+ms.date: 06/08/2017
 ---
 
 

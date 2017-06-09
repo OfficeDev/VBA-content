@@ -3,8 +3,9 @@ title: Size Cell (Character Section), Visio [vis_sdr.chm940]
 keywords: vis_sdr.chm940
 f1_keywords:
 - vis_sdr.chm940
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20de0134-04d2-404f-933d-b2ff06e5acdc
+ms.date: 06/08/2017
 ---
 
 

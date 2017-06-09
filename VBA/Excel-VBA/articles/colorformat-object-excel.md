@@ -3,10 +3,11 @@ title: ColorFormat Object (Excel)
 keywords: vbaxl10.chm105000
 f1_keywords:
 - vbaxl10.chm105000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorFormat
 ms.assetid: 9bb6bc1f-9886-d290-a336-068f84cad1a9
+ms.date: 06/08/2017
 ---
 
 

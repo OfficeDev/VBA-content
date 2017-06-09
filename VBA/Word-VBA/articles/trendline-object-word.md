@@ -3,10 +3,11 @@ title: Trendline Object (Word)
 keywords: vbawd10.chm402
 f1_keywords:
 - vbawd10.chm402
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline
 ms.assetid: 1cfe897f-26ad-a838-ed9b-f3fd945ff7ea
+ms.date: 06/08/2017
 ---
 
 

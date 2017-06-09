@@ -3,10 +3,11 @@ title: Application.FileNew Method (Project)
 keywords: vbapj.chm101
 f1_keywords:
 - vbapj.chm101
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileNew
 ms.assetid: 59b5acd1-78dc-9fd2-d672-4cdd6a6005aa
+ms.date: 06/08/2017
 ---
 
 

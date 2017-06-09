@@ -3,8 +3,9 @@ title: Permission denied (Error 70), Office Shared [vblr6.chm1011251]
 keywords: vblr6.chm1011251
 f1_keywords:
 - vblr6.chm1011251
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b6fcc94d-a89b-44a2-9cdf-a943c6640b15
+ms.date: 06/08/2017
 ---
 
 

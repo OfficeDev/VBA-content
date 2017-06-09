@@ -3,14 +3,15 @@ title: Values specified in a TOP clause are not allowed in delete queries or rep
 keywords: jeterr40.chm5003318
 f1_keywords:
 - jeterr40.chm5003318
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 54769670-cc95-d223-3759-8999e938d92e
+ms.date: 06/08/2017
 ---
 
 
 # Values specified in a TOP clause are not allowed in delete queries or reports. (Error 3318)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

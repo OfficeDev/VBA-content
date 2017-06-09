@@ -3,10 +3,11 @@ title: ChartTitle.HorizontalAlignment Property (Word)
 keywords: vbawd10.chm65273860
 f1_keywords:
 - vbawd10.chm65273860
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.HorizontalAlignment
 ms.assetid: 5a3f1310-074f-d60c-c6d8-b252331cc602
+ms.date: 06/08/2017
 ---
 
 

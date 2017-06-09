@@ -3,10 +3,11 @@ title: OLEObject Object (Visio)
 keywords: vis_sdr.chm10180
 f1_keywords:
 - vis_sdr.chm10180
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OLEObject
 ms.assetid: c4d3b441-cfba-bea1-734e-58252a273b32
+ms.date: 06/08/2017
 ---
 
 

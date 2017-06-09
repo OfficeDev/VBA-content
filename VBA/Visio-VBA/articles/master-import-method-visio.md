@@ -3,10 +3,11 @@ title: Master.Import Method (Visio)
 keywords: vis_sdr.chm10716355
 f1_keywords:
 - vis_sdr.chm10716355
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Import
 ms.assetid: 3b13025f-1a83-0dcf-41e1-03cd83dfc7be
+ms.date: 06/08/2017
 ---
 
 

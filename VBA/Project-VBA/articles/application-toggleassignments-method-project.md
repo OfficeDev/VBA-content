@@ -3,10 +3,11 @@ title: Application.ToggleAssignments Method (Project)
 keywords: vbapj.chm246
 f1_keywords:
 - vbapj.chm246
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ToggleAssignments
 ms.assetid: 1bed946e-d45b-4fa2-7e0d-8602c9197093
+ms.date: 06/08/2017
 ---
 
 

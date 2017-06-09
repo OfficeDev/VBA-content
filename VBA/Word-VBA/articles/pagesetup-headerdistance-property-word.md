@@ -3,10 +3,11 @@ title: PageSetup.HeaderDistance Property (Word)
 keywords: vbawd10.chm158400624
 f1_keywords:
 - vbawd10.chm158400624
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.HeaderDistance
 ms.assetid: fee422f6-ecf0-0470-2845-b8694636a76e
+ms.date: 06/08/2017
 ---
 
 

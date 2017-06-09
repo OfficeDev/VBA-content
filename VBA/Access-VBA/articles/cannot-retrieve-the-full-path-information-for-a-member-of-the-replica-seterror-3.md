@@ -3,14 +3,15 @@ title: Cannot retrieve the full path information for a member of the replica set
 keywords: jeterr40.chm5003499
 f1_keywords:
 - jeterr40.chm5003499
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 22b9534f-74af-fc56-5209-fa5f2cb90afb
+ms.date: 06/08/2017
 ---
 
 
 # Cannot retrieve the full path information for a member of the replica set. (Error 3499)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

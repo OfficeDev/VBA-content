@@ -3,8 +3,9 @@ title: The .VBP file for this project contains an invalid or corrupt library ref
 keywords: vblr6.chm1019823
 f1_keywords:
 - vblr6.chm1019823
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02d8466b-6fec-4151-aa0d-cb5b36d3899d
+ms.date: 06/08/2017
 ---
 
 

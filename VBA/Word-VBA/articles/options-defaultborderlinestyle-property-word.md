@@ -3,10 +3,11 @@ title: Options.DefaultBorderLineStyle Property (Word)
 keywords: vbawd10.chm162988307
 f1_keywords:
 - vbawd10.chm162988307
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultBorderLineStyle
 ms.assetid: 677ffe8a-ca89-fd4e-158e-158bd4c98f0c
+ms.date: 06/08/2017
 ---
 
 

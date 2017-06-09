@@ -3,10 +3,11 @@ title: Shape.CellsSRCExists Property (Visio)
 keywords: vis_sdr.chm11213210
 f1_keywords:
 - vis_sdr.chm11213210
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellsSRCExists
 ms.assetid: 7d614820-2a64-c3ee-b61c-a7c0dcfb90c8
+ms.date: 06/08/2017
 ---
 
 

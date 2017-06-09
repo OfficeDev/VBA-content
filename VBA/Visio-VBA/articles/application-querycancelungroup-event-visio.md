@@ -1,9 +1,10 @@
 ---
 title: Application.QueryCancelUngroup Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelUngroup
 ms.assetid: 67d3b9e1-c2f3-20ba-0bb5-3ab2dc8f1564
+ms.date: 06/08/2017
 ---
 
 

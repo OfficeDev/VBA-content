@@ -3,10 +3,11 @@ title: TabStop.Type Property (PowerPoint)
 keywords: vbapp10.chm574003
 f1_keywords:
 - vbapp10.chm574003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStop.Type
 ms.assetid: f00b0cc7-ca2b-56e7-df03-e992456f44dc
+ms.date: 06/08/2017
 ---
 
 

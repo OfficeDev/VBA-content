@@ -3,10 +3,11 @@ title: Attachment.Back Method (Access)
 keywords: vbaac10.chm13978
 f1_keywords:
 - vbaac10.chm13978
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Back
 ms.assetid: 96a8625a-2565-134b-e46e-52567ab08690
+ms.date: 06/08/2017
 ---
 
 

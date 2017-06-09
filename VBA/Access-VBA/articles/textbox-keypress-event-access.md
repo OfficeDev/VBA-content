@@ -3,10 +3,11 @@ title: TextBox.KeyPress Event (Access)
 keywords: vbaac10.chm14207
 f1_keywords:
 - vbaac10.chm14207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.KeyPress
 ms.assetid: 87db62a8-30f6-03d8-63ae-f1a1a50caea3
+ms.date: 06/08/2017
 ---
 
 

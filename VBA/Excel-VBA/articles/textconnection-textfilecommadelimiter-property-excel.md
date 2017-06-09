@@ -3,8 +3,9 @@ title: TextConnection.TextFileCommaDelimiter Property (Excel)
 keywords: vbaxl10.chm926076
 f1_keywords:
 - vbaxl10.chm926076
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 51f1b975-aae0-ba2f-d05c-59f3e7625a46
+ms.date: 06/08/2017
 ---
 
 

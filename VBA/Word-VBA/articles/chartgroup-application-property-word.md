@@ -3,10 +3,11 @@ title: ChartGroup.Application Property (Word)
 keywords: vbawd10.chm263454868
 f1_keywords:
 - vbawd10.chm263454868
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Application
 ms.assetid: 3729126b-3431-98c8-8e8e-e76db2133145
+ms.date: 06/08/2017
 ---
 
 

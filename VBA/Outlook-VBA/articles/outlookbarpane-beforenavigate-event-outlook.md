@@ -3,10 +3,11 @@ title: OutlookBarPane.BeforeNavigate Event (Outlook)
 keywords: vbaol11.chm374
 f1_keywords:
 - vbaol11.chm374
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.BeforeNavigate
 ms.assetid: f632928b-01a9-b467-1cee-0a86e0023f4d
+ms.date: 06/08/2017
 ---
 
 

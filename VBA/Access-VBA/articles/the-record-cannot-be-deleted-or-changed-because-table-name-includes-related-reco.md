@@ -3,14 +3,15 @@ title: The record cannot be deleted or changed because table <name> includes rel
 keywords: jeterr40.chm5003200
 f1_keywords:
 - jeterr40.chm5003200
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e3171406-6a42-5932-35f4-b0a4db616f3a
+ms.date: 06/08/2017
 ---
 
 
 # The record cannot be deleted or changed because table <name> includes related records. (Error 3200)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

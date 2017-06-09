@@ -3,10 +3,11 @@ title: CustomTaskPane.Visible Property (Office)
 keywords: vbaof11.chm301004
 f1_keywords:
 - vbaof11.chm301004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.Visible
 ms.assetid: eb822e64-57e5-0bf8-950e-6d0187f3efdd
+ms.date: 06/08/2017
 ---
 
 

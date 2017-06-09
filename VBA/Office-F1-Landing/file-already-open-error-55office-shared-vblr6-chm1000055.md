@@ -3,8 +3,9 @@ title: File already open (Error 55), Office Shared [vblr6.chm1000055]
 keywords: vblr6.chm1000055
 f1_keywords:
 - vblr6.chm1000055
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e088cb10-489e-4504-a5f8-63b634a8ddad
+ms.date: 06/08/2017
 ---
 
 

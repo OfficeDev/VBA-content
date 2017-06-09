@@ -3,10 +3,11 @@ title: Attachment.AttachmentCurrent Event (Access)
 keywords: vbaac10.chm14035
 f1_keywords:
 - vbaac10.chm14035
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.AttachmentCurrent
 ms.assetid: 4b81608a-d591-7ce2-0075-8d841a825a9f
+ms.date: 06/08/2017
 ---
 
 

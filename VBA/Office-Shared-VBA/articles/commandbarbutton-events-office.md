@@ -1,7 +1,8 @@
 ---
 title: CommandBarButton Events (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f34e7df8-0da4-4b2c-a838-8d1eeff465ac
+ms.date: 06/08/2017
 ---
 
 

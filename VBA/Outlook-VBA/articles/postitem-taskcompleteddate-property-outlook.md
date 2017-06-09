@@ -3,10 +3,11 @@ title: PostItem.TaskCompletedDate Property (Outlook)
 keywords: vbaol11.chm1574
 f1_keywords:
 - vbaol11.chm1574
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.TaskCompletedDate
 ms.assetid: a1017d63-b8bd-0a0e-455f-7a86bae4036b
+ms.date: 06/08/2017
 ---
 
 

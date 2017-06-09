@@ -3,10 +3,11 @@ title: Row Object (PowerPoint)
 keywords: vbapp10.chm626000
 f1_keywords:
 - vbapp10.chm626000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Row
 ms.assetid: df5ca5df-8119-1af8-b698-d96669ed0a02
+ms.date: 06/08/2017
 ---
 
 

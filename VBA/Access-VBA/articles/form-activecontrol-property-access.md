@@ -3,10 +3,11 @@ title: Form.ActiveControl Property (Access)
 keywords: vbaac10.chm13493
 f1_keywords:
 - vbaac10.chm13493
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ActiveControl
 ms.assetid: 0bb3cac4-fc88-cdd3-6bc4-1057b02d4eb5
+ms.date: 06/08/2017
 ---
 
 

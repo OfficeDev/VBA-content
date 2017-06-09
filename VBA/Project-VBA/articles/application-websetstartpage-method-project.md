@@ -3,10 +3,11 @@ title: Application.WebSetStartPage Method (Project)
 keywords: vbapj.chm1317
 f1_keywords:
 - vbapj.chm1317
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebSetStartPage
 ms.assetid: 2ffe7e71-fbdc-e6bc-8eae-9da23e5f63f5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Cells.DistributeWidth Method (Word)
 keywords: vbawd10.chm155844815
 f1_keywords:
 - vbawd10.chm155844815
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.DistributeWidth
 ms.assetid: b617deaf-b84a-eed1-176d-9d38f2d10db8
+ms.date: 06/08/2017
 ---
 
 

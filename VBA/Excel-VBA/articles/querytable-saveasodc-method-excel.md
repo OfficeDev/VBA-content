@@ -3,10 +3,11 @@ title: QueryTable.SaveAsODC Method (Excel)
 keywords: vbaxl10.chm518135
 f1_keywords:
 - vbaxl10.chm518135
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.SaveAsODC
 ms.assetid: 8ee66eb4-d72d-d319-c470-6f2f0db680bf
+ms.date: 06/08/2017
 ---
 
 

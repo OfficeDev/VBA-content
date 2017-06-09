@@ -3,10 +3,11 @@ title: BuildingBlock.Creator Property (Word)
 keywords: vbawd10.chm203621353
 f1_keywords:
 - vbawd10.chm203621353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.Creator
 ms.assetid: 97f89a5d-3a4a-63a8-12bc-086a864d80c8
+ms.date: 06/08/2017
 ---
 
 

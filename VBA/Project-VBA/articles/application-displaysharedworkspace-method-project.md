@@ -3,10 +3,11 @@ title: Application.DisplaySharedWorkspace Method (Project)
 keywords: vbapj.chm2363
 f1_keywords:
 - vbapj.chm2363
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplaySharedWorkspace
 ms.assetid: 6d2b53de-8375-75e8-4d1a-2516464de1ce
+ms.date: 06/08/2017
 ---
 
 

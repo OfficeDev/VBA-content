@@ -3,8 +3,9 @@ title: AllStoredProcedures Property, Access [vbaac10.chm12735]
 keywords: vbaac10.chm12735
 f1_keywords:
 - vbaac10.chm12735
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 710fbb7c-91a1-4b7a-a195-164c3f0c234c
+ms.date: 06/08/2017
 ---
 
 

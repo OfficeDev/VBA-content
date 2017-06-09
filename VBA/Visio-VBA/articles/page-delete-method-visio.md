@@ -3,10 +3,11 @@ title: Page.Delete Method (Visio)
 keywords: vis_sdr.chm10951185
 f1_keywords:
 - vis_sdr.chm10951185
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Delete
 ms.assetid: 7adc0e81-7000-2bfa-cca5-c74c3fcbac5c
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Page.AvoidPageBreaks Method (Visio)
 keywords: vis_sdr.chm10962150
 f1_keywords:
 - vis_sdr.chm10962150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.AvoidPageBreaks
 ms.assetid: 70e99d9d-cce0-c162-5836-0a68e375e4c3
+ms.date: 06/08/2017
 ---
 
 

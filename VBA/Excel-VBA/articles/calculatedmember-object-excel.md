@@ -3,10 +3,11 @@ title: CalculatedMember Object (Excel)
 keywords: vbaxl10.chm685072
 f1_keywords:
 - vbaxl10.chm685072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember
 ms.assetid: 07a1f8df-107e-a5fd-3d15-dfc92916c4c6
+ms.date: 06/08/2017
 ---
 
 

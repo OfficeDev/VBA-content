@@ -3,8 +3,9 @@ title: SelectedItem Property, TabStrip Control, Tab Object, Tabs Collection Exam
 keywords: fm20.chm5225157
 f1_keywords:
 - fm20.chm5225157
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7480356d-77dd-c925-a784-d7388e2bfba9
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: DisplayUnitLabel.Name Property (Word)
 keywords: vbawd10.chm94568474
 f1_keywords:
 - vbawd10.chm94568474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Name
 ms.assetid: 5090c77f-9ccd-0ae2-bc2b-ba3166bc39b2
+ms.date: 06/08/2017
 ---
 
 

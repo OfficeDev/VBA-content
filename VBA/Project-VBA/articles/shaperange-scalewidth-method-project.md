@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.ScaleWidth Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 6087bb9c-c111-7f2e-95d9-334af18fe37d
+ms.date: 06/08/2017
 ---
 
 

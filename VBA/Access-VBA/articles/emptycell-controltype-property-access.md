@@ -3,10 +3,11 @@ title: EmptyCell.ControlType Property (Access)
 keywords: vbaac10.chm14304
 f1_keywords:
 - vbaac10.chm14304
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.ControlType
 ms.assetid: 28d4cab5-7265-64f6-1b71-ac1eb43b7c44
+ms.date: 06/08/2017
 ---
 
 

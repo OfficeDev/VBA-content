@@ -3,10 +3,11 @@ title: PrintOptions.NumberOfCopies Property (PowerPoint)
 keywords: vbapp10.chm517006
 f1_keywords:
 - vbapp10.chm517006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.NumberOfCopies
 ms.assetid: 6630ac4d-5c19-ad5f-f557-12e25e198e17
+ms.date: 06/08/2017
 ---
 
 

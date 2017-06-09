@@ -3,10 +3,11 @@ title: NavigationControl.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.GridlineShade
 ms.assetid: f095b4d4-6c8b-5e17-6282-f4e97a7ef21f
+ms.date: 06/08/2017
 ---
 
 

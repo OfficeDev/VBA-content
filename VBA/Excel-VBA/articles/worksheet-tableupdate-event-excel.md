@@ -3,8 +3,9 @@ title: Worksheet.TableUpdate Event (Excel)
 keywords: vbaxl10.chm502088
 f1_keywords:
 - vbaxl10.chm502088
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 69610de6-6884-d5f5-449d-ec1d766d530d
+ms.date: 06/08/2017
 ---
 
 

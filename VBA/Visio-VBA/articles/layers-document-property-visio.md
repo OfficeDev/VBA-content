@@ -3,10 +3,11 @@ title: Layers.Document Property (Visio)
 keywords: vis_sdr.chm11913430
 f1_keywords:
 - vis_sdr.chm11913430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.Document
 ms.assetid: d70f7dc6-55d6-d28a-28a0-ae77f589b144
+ms.date: 06/08/2017
 ---
 
 

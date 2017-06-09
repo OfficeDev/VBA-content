@@ -3,10 +3,11 @@ title: Table.BottomPadding Property (Word)
 keywords: vbawd10.chm156303474
 f1_keywords:
 - vbawd10.chm156303474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.BottomPadding
 ms.assetid: d4e37a85-d194-8d19-c43f-09d30187e007
+ms.date: 06/08/2017
 ---
 
 

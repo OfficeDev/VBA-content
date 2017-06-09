@@ -1,6 +1,8 @@
 ---
 title: PjResourceWarnings Enumeration (Project)
 ms.assetid: 91d4ddd9-8ca2-e1e8-2948-37a856f944b6
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

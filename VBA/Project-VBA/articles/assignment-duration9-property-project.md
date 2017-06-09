@@ -1,9 +1,10 @@
 ---
 title: Assignment.Duration9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Duration9
 ms.assetid: 5b7d66df-21e6-cbf0-788d-260ec048f062
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Options.AllowCombinedAuxiliaryForms Property (Word)
 keywords: vbawd10.chm162988371
 f1_keywords:
 - vbawd10.chm162988371
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowCombinedAuxiliaryForms
 ms.assetid: c692e1de-7b89-7255-7fba-6c6bdd472a0a
+ms.date: 06/08/2017
 ---
 
 

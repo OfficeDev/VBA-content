@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.DocumentSaved Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentSaved
 ms.assetid: cf0d3906-dad4-8da0-e3f0-64319a6caec8
+ms.date: 06/08/2017
 ---
 
 

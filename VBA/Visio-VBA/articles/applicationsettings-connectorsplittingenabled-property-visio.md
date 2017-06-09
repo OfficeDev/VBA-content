@@ -3,10 +3,11 @@ title: ApplicationSettings.ConnectorSplittingEnabled Property (Visio)
 keywords: vis_sdr.chm16251890
 f1_keywords:
 - vis_sdr.chm16251890
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ConnectorSplittingEnabled
 ms.assetid: f13df7d6-13b6-b39e-1671-a2287505c923
+ms.date: 06/08/2017
 ---
 
 

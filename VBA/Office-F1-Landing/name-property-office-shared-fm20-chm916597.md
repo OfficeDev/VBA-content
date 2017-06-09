@@ -3,8 +3,9 @@ title: Name Property, Office Shared [fm20.chm916597]
 keywords: fm20.chm916597
 f1_keywords:
 - fm20.chm916597
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b1ccd1b0-4391-4ff8-9442-75af60089673
+ms.date: 06/08/2017
 ---
 
 

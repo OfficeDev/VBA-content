@@ -3,10 +3,11 @@ title: Find.MatchWholeWord Property (Word)
 keywords: vbawd10.chm162529297
 f1_keywords:
 - vbawd10.chm162529297
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchWholeWord
 ms.assetid: a4ce7e5f-c84b-b13a-e21c-14051a0f4a6a
+ms.date: 06/08/2017
 ---
 
 

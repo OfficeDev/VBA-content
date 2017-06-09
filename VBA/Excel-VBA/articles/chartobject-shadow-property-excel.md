@@ -3,10 +3,11 @@ title: ChartObject.Shadow Property (Excel)
 keywords: vbaxl10.chm494104
 f1_keywords:
 - vbaxl10.chm494104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Shadow
 ms.assetid: 241d7365-a666-8f87-8e5e-eebf89662e17
+ms.date: 06/08/2017
 ---
 
 

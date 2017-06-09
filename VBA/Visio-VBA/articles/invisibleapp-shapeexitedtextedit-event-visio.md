@@ -1,9 +1,10 @@
 ---
 title: InvisibleApp.ShapeExitedTextEdit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeExitedTextEdit
 ms.assetid: 54e52c06-b7ab-f6c3-9c0d-6ee05da0e1f3
+ms.date: 06/08/2017
 ---
 
 

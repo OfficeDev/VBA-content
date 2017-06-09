@@ -3,10 +3,11 @@ title: Application.DrawingCycleColor Method (Project)
 keywords: vbapj.chm2315
 f1_keywords:
 - vbapj.chm2315
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DrawingCycleColor
 ms.assetid: 2465b550-ff0d-360e-0881-641f23fc61c8
+ms.date: 06/08/2017
 ---
 
 

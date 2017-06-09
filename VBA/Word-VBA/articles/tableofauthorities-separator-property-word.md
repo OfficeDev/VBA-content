@@ -3,10 +3,11 @@ title: TableOfAuthorities.Separator Property (Word)
 keywords: vbawd10.chm152109061
 f1_keywords:
 - vbawd10.chm152109061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.Separator
 ms.assetid: 4da467e9-77df-c656-ed37-f3388ba92b7c
+ms.date: 06/08/2017
 ---
 
 

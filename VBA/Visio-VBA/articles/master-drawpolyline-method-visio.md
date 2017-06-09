@@ -3,10 +3,11 @@ title: Master.DrawPolyline Method (Visio)
 keywords: vis_sdr.chm10716215
 f1_keywords:
 - vis_sdr.chm10716215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawPolyline
 ms.assetid: a599e60c-ccd6-ce6b-7e54-f65f8500447d
+ms.date: 06/08/2017
 ---
 
 

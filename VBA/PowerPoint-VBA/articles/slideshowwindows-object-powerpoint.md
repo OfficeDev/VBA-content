@@ -3,10 +3,11 @@ title: SlideShowWindows Object (PowerPoint)
 keywords: vbapp10.chm510000
 f1_keywords:
 - vbapp10.chm510000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindows
 ms.assetid: aa4c7a38-32ea-c206-ce1f-d78094410f52
+ms.date: 06/08/2017
 ---
 
 

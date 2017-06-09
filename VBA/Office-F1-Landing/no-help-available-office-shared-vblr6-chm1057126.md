@@ -3,8 +3,9 @@ title: No Help available, Office Shared [vblr6.chm1057126]
 keywords: vblr6.chm1057126
 f1_keywords:
 - vblr6.chm1057126
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 210a0922-21ca-4042-8cc6-23f58d34a105
+ms.date: 06/08/2017
 ---
 
 

@@ -3,8 +3,9 @@ title: "How to: Display the Number of Pages and Tabs in MultiPage and TabStrip C
 keywords: olfm10.chm3077169
 f1_keywords:
 - olfm10.chm3077169
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9d49b6b3-7650-d96e-9a47-00b508fc6006
+ms.date: 06/08/2017
 ---
 
 

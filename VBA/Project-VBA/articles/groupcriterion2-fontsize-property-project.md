@@ -1,9 +1,10 @@
 ---
 title: GroupCriterion2.FontSize Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontSize
 ms.assetid: 0c055f9c-96b7-6053-0865-3cfa82ba5ee3
+ms.date: 06/08/2017
 ---
 
 

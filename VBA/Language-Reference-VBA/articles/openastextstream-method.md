@@ -3,10 +3,11 @@ title: OpenAsTextStream Method
 keywords: vblr6.chm2182007
 f1_keywords:
 - vblr6.chm2182007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OpenAsTextStream
 ms.assetid: 11bdf601-368b-7d95-a7db-394271d59da6
+ms.date: 06/08/2017
 ---
 
 

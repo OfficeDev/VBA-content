@@ -3,10 +3,11 @@ title: Hyperlinks.Item Property (Excel)
 keywords: vbaxl10.chm534075
 f1_keywords:
 - vbaxl10.chm534075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlinks.Item
 ms.assetid: c3650cd1-1788-549a-e203-4d7bd6f049c2
+ms.date: 06/08/2017
 ---
 
 

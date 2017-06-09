@@ -1,7 +1,8 @@
 ---
 title: Fill a Value Down into Blank Cells in a Column
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 3d92a4c3-b2fa-4f7c-be97-2ffbf2f2bb06
+ms.date: 06/08/2017
 ---
 
 

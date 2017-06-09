@@ -3,8 +3,9 @@ title: Change Event, Project [vbapj.chm131185]
 keywords: vbapj.chm131185
 f1_keywords:
 - vbapj.chm131185
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7ddc0d27-1454-4a9c-901c-c1285a053402
+ms.date: 06/08/2017
 ---
 
 

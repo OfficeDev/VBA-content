@@ -3,10 +3,11 @@ title: SparklineGroup.ModifyLocation Method (Excel)
 keywords: vbaxl10.chm871079
 f1_keywords:
 - vbaxl10.chm871079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.ModifyLocation
 ms.assetid: 8f6ca2cb-b0cc-a0bf-efc0-ee30ca3888e6
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Shape.IncrementLeft Method (Publisher)
 keywords: vbapb10.chm2228256
 f1_keywords:
 - vbapb10.chm2228256
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.IncrementLeft
 ms.assetid: 447886ad-f515-9869-524a-a803ab025fa4
+ms.date: 06/08/2017
 ---
 
 

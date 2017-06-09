@@ -3,10 +3,11 @@ title: AutoCorrect.HangulAndAlphabetAutoAdd Property (Word)
 keywords: vbawd10.chm155779086
 f1_keywords:
 - vbawd10.chm155779086
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.HangulAndAlphabetAutoAdd
 ms.assetid: dbb1f1b7-21be-423a-e375-543c0c689034
+ms.date: 06/08/2017
 ---
 
 

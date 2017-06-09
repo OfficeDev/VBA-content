@@ -3,14 +3,15 @@ title: Synchronizer could not be shut down properly and is still active. (Error 
 keywords: jeterr40.chm5003541
 f1_keywords:
 - jeterr40.chm5003541
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3f2f9fb2-bb1d-3e46-747f-6dd00443bbd3
+ms.date: 06/08/2017
 ---
 
 
 # Synchronizer could not be shut down properly and is still active. (Error 3541)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

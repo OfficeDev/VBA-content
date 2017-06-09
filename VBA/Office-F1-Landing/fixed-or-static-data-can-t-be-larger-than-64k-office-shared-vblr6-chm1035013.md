@@ -3,8 +3,9 @@ title: Fixed or static data can't be larger than 64K, Office Shared [vblr6.chm10
 keywords: vblr6.chm1035013
 f1_keywords:
 - vblr6.chm1035013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 581f1cbf-d1fb-48bd-8c7f-dcafeb60073a
+ms.date: 06/08/2017
 ---
 
 

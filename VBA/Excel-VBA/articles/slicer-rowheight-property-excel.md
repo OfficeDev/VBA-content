@@ -3,10 +3,11 @@ title: Slicer.RowHeight Property (Excel)
 keywords: vbaxl10.chm905080
 f1_keywords:
 - vbaxl10.chm905080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.RowHeight
 ms.assetid: 925c7874-92d1-36b2-9dde-df3b8754961f
+ms.date: 06/08/2017
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: Query Field
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b39deb06-3814-ed9e-a3d5-558e3f3170e7
+ms.date: 06/08/2017
 ---
 
 
 # Query Field
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

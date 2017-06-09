@@ -3,10 +3,11 @@ title: Shape.Duplicate Method (Publisher)
 keywords: vbapb10.chm2228244
 f1_keywords:
 - vbapb10.chm2228244
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Duplicate
 ms.assetid: 9f35a496-5312-bff1-a31e-05baaaf69e92
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Attachments (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3712d56c-18d8-421f-afe6-c2cd0cffcb40
+ms.date: 06/08/2017
 ---
 
 

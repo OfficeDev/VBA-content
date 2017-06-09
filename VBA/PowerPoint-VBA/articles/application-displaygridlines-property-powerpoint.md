@@ -3,10 +3,11 @@ title: Application.DisplayGridLines Property (PowerPoint)
 keywords: vbapp10.chm502047
 f1_keywords:
 - vbapp10.chm502047
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.DisplayGridLines
 ms.assetid: b639cd4f-26d4-4f63-2fe0-18807bdeefa5
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: HPageBreak.Creator Property (Excel)
 keywords: vbaxl10.chm158074
 f1_keywords:
 - vbaxl10.chm158074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreak.Creator
 ms.assetid: 4cefce48-34ee-40a4-0a0c-d3dade1cb065
+ms.date: 06/08/2017
 ---
 
 

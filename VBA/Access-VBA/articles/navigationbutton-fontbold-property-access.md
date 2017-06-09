@@ -3,10 +3,11 @@ title: NavigationButton.FontBold Property (Access)
 keywords: vbaac10.chm10478
 f1_keywords:
 - vbaac10.chm10478
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.FontBold
 ms.assetid: bdf44cca-eae9-34d7-50a3-d3ac52c9ae39
+ms.date: 06/08/2017
 ---
 
 

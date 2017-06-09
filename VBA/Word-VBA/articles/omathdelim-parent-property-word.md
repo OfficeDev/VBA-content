@@ -3,10 +3,11 @@ title: OMathDelim.Parent Property (Word)
 keywords: vbawd10.chm145096806
 f1_keywords:
 - vbawd10.chm145096806
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathDelim.Parent
 ms.assetid: e2adac53-be9c-b392-91ba-874f4d674fbb
+ms.date: 06/08/2017
 ---
 
 

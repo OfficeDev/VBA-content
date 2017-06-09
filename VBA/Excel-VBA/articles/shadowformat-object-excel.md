@@ -3,10 +3,11 @@ title: ShadowFormat Object (Excel)
 keywords: vbaxl10.chm114000
 f1_keywords:
 - vbaxl10.chm114000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat
 ms.assetid: 2566c68e-f8d6-badc-3ce9-b6ae5f9c1cc2
+ms.date: 06/08/2017
 ---
 
 

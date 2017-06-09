@@ -3,10 +3,11 @@ title: Document.Styles Property (Visio)
 keywords: vis_sdr.chm10514455
 f1_keywords:
 - vis_sdr.chm10514455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Styles
 ms.assetid: 41434c49-3306-78b5-2126-0320fc05825a
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Filter Object (Excel)
 keywords: vbaxl10.chm541072
 f1_keywords:
 - vbaxl10.chm541072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Filter
 ms.assetid: 950023f9-a984-01fa-aa77-947cbbff0433
+ms.date: 06/08/2017
 ---
 
 

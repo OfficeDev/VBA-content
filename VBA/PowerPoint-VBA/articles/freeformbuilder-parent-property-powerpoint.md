@@ -3,10 +3,11 @@ title: FreeformBuilder.Parent Property (PowerPoint)
 keywords: vbapp10.chm546001
 f1_keywords:
 - vbapp10.chm546001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Parent
 ms.assetid: e51f9590-325c-50ef-6e83-60b33308e3a1
+ms.date: 06/08/2017
 ---
 
 

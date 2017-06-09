@@ -1,9 +1,10 @@
 ---
 title: PpBorderType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBorderType
 ms.assetid: feb0524b-59b9-6179-fd23-91b3595be30f
+ms.date: 06/08/2017
 ---
 
 

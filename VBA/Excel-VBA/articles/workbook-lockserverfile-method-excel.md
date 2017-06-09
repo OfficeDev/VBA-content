@@ -3,10 +3,11 @@ title: Workbook.LockServerFile Method (Excel)
 keywords: vbaxl10.chm199240
 f1_keywords:
 - vbaxl10.chm199240
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.LockServerFile
 ms.assetid: be0ac600-320e-0959-bc26-5f3f4a910f5e
+ms.date: 06/08/2017
 ---
 
 

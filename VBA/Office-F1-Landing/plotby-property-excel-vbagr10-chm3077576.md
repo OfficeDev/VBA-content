@@ -3,8 +3,9 @@ title: PlotBy Property, Excel [vbagr10.chm3077576]
 keywords: vbagr10.chm3077576
 f1_keywords:
 - vbagr10.chm3077576
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92dac720-c227-4aa6-8959-9f9e26d4216b
+ms.date: 06/08/2017
 ---
 
 

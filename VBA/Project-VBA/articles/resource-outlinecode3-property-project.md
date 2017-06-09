@@ -1,9 +1,10 @@
 ---
 title: Resource.OutlineCode3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.OutlineCode3
 ms.assetid: 1e5e4596-8e62-5b8d-c4e0-18467df727cf
+ms.date: 06/08/2017
 ---
 
 

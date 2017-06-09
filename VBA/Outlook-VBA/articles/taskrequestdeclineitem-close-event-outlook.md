@@ -1,9 +1,10 @@
 ---
 title: TaskRequestDeclineItem.Close Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Close
 ms.assetid: 38c0ec84-3821-59e9-b431-a8968c88c092
+ms.date: 06/08/2017
 ---
 
 

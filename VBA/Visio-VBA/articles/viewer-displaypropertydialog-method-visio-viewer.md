@@ -1,9 +1,10 @@
 ---
 title: Viewer.DisplayPropertyDialog Method (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DisplayPropertyDialog
 ms.assetid: 92578d7a-53a1-0597-e4b6-21444db0dad8
+ms.date: 06/08/2017
 ---
 
 

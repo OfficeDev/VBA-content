@@ -3,10 +3,11 @@ title: ObjectFrame.Item Property (Access)
 keywords: vbaac10.chm11562
 f1_keywords:
 - vbaac10.chm11562
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Item
 ms.assetid: 18548487-558b-7c37-c17b-00496e29b2cf
+ms.date: 06/08/2017
 ---
 
 

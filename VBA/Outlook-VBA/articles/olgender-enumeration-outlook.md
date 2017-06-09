@@ -3,10 +3,11 @@ title: OlGender Enumeration (Outlook)
 keywords: vbaol11.chm3061
 f1_keywords:
 - vbaol11.chm3061
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlGender
 ms.assetid: 5d0db92c-276c-bf50-b192-c33d7aee5409
+ms.date: 06/08/2017
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Document conventions (Visual Basic for Applications)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1eece8df-7e11-f66d-a2b7-18985c288e81
+ms.date: 06/08/2017
 ---
 
 

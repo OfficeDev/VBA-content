@@ -1,9 +1,10 @@
 ---
 title: XlAxisCrosses Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlAxisCrosses
 ms.assetid: 219f8283-3962-00c5-01dd-7d59c1e7a5a9
+ms.date: 06/08/2017
 ---
 
 

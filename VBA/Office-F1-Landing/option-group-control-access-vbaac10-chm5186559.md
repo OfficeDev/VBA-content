@@ -3,8 +3,9 @@ title: Option Group Control, Access [vbaac10.chm5186559]
 keywords: vbaac10.chm5186559
 f1_keywords:
 - vbaac10.chm5186559
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b135d975-6119-4edb-b022-6f8253c789b2
+ms.date: 06/08/2017
 ---
 
 

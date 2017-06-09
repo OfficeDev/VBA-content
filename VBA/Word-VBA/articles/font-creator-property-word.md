@@ -3,10 +3,11 @@ title: Font.Creator Property (Word)
 keywords: vbawd10.chm156369897
 f1_keywords:
 - vbawd10.chm156369897
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Creator
 ms.assetid: e3b7d8aa-92da-921f-d1c9-b0db66965e0b
+ms.date: 06/08/2017
 ---
 
 

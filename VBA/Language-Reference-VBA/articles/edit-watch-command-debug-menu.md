@@ -3,8 +3,9 @@ title: Edit Watch Command (Debug Menu)
 keywords: vbui6.chm2007507
 f1_keywords:
 - vbui6.chm2007507
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d4b88df-8832-8b01-fbb8-eec3bea7ee62
+ms.date: 06/08/2017
 ---
 
 

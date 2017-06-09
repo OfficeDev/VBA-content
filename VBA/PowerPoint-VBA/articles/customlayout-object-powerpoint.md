@@ -3,10 +3,11 @@ title: CustomLayout Object (PowerPoint)
 keywords: vbapp10.chm672000
 f1_keywords:
 - vbapp10.chm672000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout
 ms.assetid: 67829704-0314-aed2-5415-6736cefc197e
+ms.date: 06/08/2017
 ---
 
 

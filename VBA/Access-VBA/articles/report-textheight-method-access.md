@@ -3,10 +3,11 @@ title: Report.TextHeight Method (Access)
 keywords: vbaac10.chm13787
 f1_keywords:
 - vbaac10.chm13787
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.TextHeight
 ms.assetid: cac67d4c-e140-06ae-ccbd-961cdee3d087
+ms.date: 06/08/2017
 ---
 
 

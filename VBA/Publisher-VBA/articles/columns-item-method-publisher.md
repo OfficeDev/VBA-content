@@ -3,10 +3,11 @@ title: Columns.Item Method (Publisher)
 keywords: vbapb10.chm5046272
 f1_keywords:
 - vbapb10.chm5046272
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Columns.Item
 ms.assetid: c16df25c-ea8d-c04e-bccd-7e642bb7198a
+ms.date: 06/08/2017
 ---
 
 

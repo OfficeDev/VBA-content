@@ -3,10 +3,11 @@ title: Workbook.ForwardMailer Method (Excel)
 keywords: vbaxl10.chm199101
 f1_keywords:
 - vbaxl10.chm199101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ForwardMailer
 ms.assetid: 956b1746-26f2-5968-0ef7-fa3da2be974c
+ms.date: 06/08/2017
 ---
 
 

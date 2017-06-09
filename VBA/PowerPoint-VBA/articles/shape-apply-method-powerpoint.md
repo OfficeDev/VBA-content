@@ -3,10 +3,11 @@ title: Shape.Apply Method (PowerPoint)
 keywords: vbapp10.chm547002
 f1_keywords:
 - vbapp10.chm547002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Apply
 ms.assetid: 699a945f-656a-170a-e784-07b3004a858f
+ms.date: 06/08/2017
 ---
 
 

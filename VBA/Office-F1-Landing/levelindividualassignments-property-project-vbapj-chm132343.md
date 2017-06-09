@@ -3,8 +3,9 @@ title: LevelIndividualAssignments Property, Project [vbapj.chm132343]
 keywords: vbapj.chm132343
 f1_keywords:
 - vbapj.chm132343
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9e2eaf34-f7a5-4b53-818d-bbc34b3a9327
+ms.date: 06/08/2017
 ---
 
 

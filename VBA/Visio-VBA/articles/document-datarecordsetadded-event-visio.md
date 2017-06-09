@@ -3,10 +3,11 @@ title: Document.DataRecordsetAdded Event (Visio)
 keywords: vis_sdr.chm10562035
 f1_keywords:
 - vis_sdr.chm10562035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DataRecordsetAdded
 ms.assetid: 3ddb399d-0b28-9ec7-4059-f8d3011a98c0
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: TimeLine Object (PowerPoint)
 keywords: vbapp10.chm649000
 f1_keywords:
 - vbapp10.chm649000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TimeLine
 ms.assetid: 0b5a8863-8329-48d0-cb0b-3b34e87acb76
+ms.date: 06/08/2017
 ---
 
 

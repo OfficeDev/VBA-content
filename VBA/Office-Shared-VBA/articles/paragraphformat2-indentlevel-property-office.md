@@ -1,9 +1,10 @@
 ---
 title: ParagraphFormat2.IndentLevel Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.IndentLevel
 ms.assetid: b0f5f02e-54cb-1518-4d46-0b9740010226
+ms.date: 06/08/2017
 ---
 
 

@@ -3,14 +3,15 @@ title: Record is deleted. (Error 3167)
 keywords: jeterr40.chm5003167
 f1_keywords:
 - jeterr40.chm5003167
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4e6e13d8-1a9a-7344-60e2-e9276c46549c
+ms.date: 06/08/2017
 ---
 
 
 # Record is deleted. (Error 3167)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

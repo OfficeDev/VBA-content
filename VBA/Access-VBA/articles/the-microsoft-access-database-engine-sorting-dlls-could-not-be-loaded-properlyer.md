@@ -3,14 +3,15 @@ title: The Microsoft Access database engine sorting dlls could not be loaded pro
 keywords: jeterr40.chm5003757
 f1_keywords:
 - jeterr40.chm5003757
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6fe95b32-00bc-7403-e95c-388d51c62104
+ms.date: 06/08/2017
 ---
 
 
 # The Microsoft Access database engine sorting dlls could not be loaded properly. (Error 3757)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

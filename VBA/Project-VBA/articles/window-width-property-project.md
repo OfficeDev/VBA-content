@@ -1,9 +1,10 @@
 ---
 title: Window.Width Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Window.Width
 ms.assetid: 17623ed8-1d96-1b43-56f0-119e7a7b51d8
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: AutoFilter.Creator Property (Excel)
 keywords: vbaxl10.chm537074
 f1_keywords:
 - vbaxl10.chm537074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoFilter.Creator
 ms.assetid: 15231f8b-f5ce-8560-f157-15676d038f89
+ms.date: 06/08/2017
 ---
 
 

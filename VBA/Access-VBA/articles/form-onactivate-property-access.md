@@ -3,10 +3,11 @@ title: Form.OnActivate Property (Access)
 keywords: vbaac10.chm13445
 f1_keywords:
 - vbaac10.chm13445
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnActivate
 ms.assetid: ab9899de-e0dc-7884-e293-e031098d644c
+ms.date: 06/08/2017
 ---
 
 

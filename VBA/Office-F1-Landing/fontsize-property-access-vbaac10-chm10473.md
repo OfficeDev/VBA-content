@@ -3,8 +3,9 @@ title: FontSize Property, Access [vbaac10.chm10473]
 keywords: vbaac10.chm10473
 f1_keywords:
 - vbaac10.chm10473
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 823917a3-1907-4197-bb19-45f2702c5db6
+ms.date: 06/08/2017
 ---
 
 

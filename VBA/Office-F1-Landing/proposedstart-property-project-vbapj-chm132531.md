@@ -3,8 +3,9 @@ title: ProposedStart Property, Project [vbapj.chm132531]
 keywords: vbapj.chm132531
 f1_keywords:
 - vbapj.chm132531
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c983680-ca2f-428e-ad2b-9e14db02387d
+ms.date: 06/08/2017
 ---
 
 

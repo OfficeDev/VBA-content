@@ -3,10 +3,11 @@ title: CellRange.Application Property (PowerPoint)
 keywords: vbapp10.chm627001
 f1_keywords:
 - vbapp10.chm627001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CellRange.Application
 ms.assetid: 8f3aaa0e-05ee-71d5-df33-6b449fa893ba
+ms.date: 06/08/2017
 ---
 
 

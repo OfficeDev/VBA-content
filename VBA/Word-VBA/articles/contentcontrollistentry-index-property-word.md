@@ -3,10 +3,11 @@ title: ContentControlListEntry.Index Property (Word)
 keywords: vbawd10.chm147456105
 f1_keywords:
 - vbawd10.chm147456105
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntry.Index
 ms.assetid: 3c7b139b-cd50-3df8-0347-d002774c2239
+ms.date: 06/08/2017
 ---
 
 

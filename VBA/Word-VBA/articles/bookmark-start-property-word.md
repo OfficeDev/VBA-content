@@ -3,10 +3,11 @@ title: Bookmark.Start Property (Word)
 keywords: vbawd10.chm157810691
 f1_keywords:
 - vbawd10.chm157810691
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Start
 ms.assetid: 42b44a7c-0d2a-daa6-a5ec-ef54d01cb5c3
+ms.date: 06/08/2017
 ---
 
 

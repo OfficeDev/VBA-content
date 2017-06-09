@@ -3,10 +3,11 @@ title: Axis.BaseUnitIsAuto Property (Word)
 keywords: vbawd10.chm113049659
 f1_keywords:
 - vbawd10.chm113049659
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.BaseUnitIsAuto
 ms.assetid: 7dcfd41c-c35d-5a61-55bd-e7e675fb589c
+ms.date: 06/08/2017
 ---
 
 

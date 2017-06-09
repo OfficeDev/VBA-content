@@ -1,9 +1,10 @@
 ---
 title: Crop.ShapeLeft Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.ShapeLeft
 ms.assetid: 3f0f4382-d2bc-b4d2-6fcc-62933dca20c4
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Form.CommandBeforeExecute Event (Access)
 keywords: vbaac10.chm13673
 f1_keywords:
 - vbaac10.chm13673
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandBeforeExecute
 ms.assetid: 4fb1c072-3781-8a52-bc9a-2e26d2738789
+ms.date: 06/08/2017
 ---
 
 

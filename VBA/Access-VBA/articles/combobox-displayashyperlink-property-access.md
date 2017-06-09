@@ -3,10 +3,11 @@ title: ComboBox.DisplayAsHyperlink Property (Access)
 keywords: vbaac10.chm11526
 f1_keywords:
 - vbaac10.chm11526
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.DisplayAsHyperlink
 ms.assetid: 7abd6406-9276-e2d2-de15-9450deb94973
+ms.date: 06/08/2017
 ---
 
 

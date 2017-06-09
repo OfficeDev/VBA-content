@@ -3,10 +3,11 @@ title: StyleSheets.Creator Property (Word)
 keywords: vbawd10.chm209585129
 f1_keywords:
 - vbawd10.chm209585129
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheets.Creator
 ms.assetid: ac2b45fd-3871-e134-4531-fb9c81fef4c4
+ms.date: 06/08/2017
 ---
 
 

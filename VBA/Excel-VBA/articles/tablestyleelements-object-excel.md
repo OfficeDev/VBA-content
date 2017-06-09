@@ -3,10 +3,11 @@ title: TableStyleElements Object (Excel)
 keywords: vbaxl10.chm836072
 f1_keywords:
 - vbaxl10.chm836072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyleElements
 ms.assetid: d8f29faa-039d-6820-028c-763ee2a2989b
+ms.date: 06/08/2017
 ---
 
 

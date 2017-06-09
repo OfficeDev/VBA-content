@@ -3,10 +3,11 @@ title: EmailOptions.Creator Property (Word)
 keywords: vbawd10.chm165347429
 f1_keywords:
 - vbawd10.chm165347429
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.Creator
 ms.assetid: 177aec79-5da3-e761-317c-32a7b2ecc23d
+ms.date: 06/08/2017
 ---
 
 

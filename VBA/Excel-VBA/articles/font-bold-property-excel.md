@@ -3,10 +3,11 @@ title: Font.Bold Property (Excel)
 keywords: vbaxl10.chm559074
 f1_keywords:
 - vbaxl10.chm559074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.Bold
 ms.assetid: 7343989f-f973-0b1d-e595-c625ef2e0c15
+ms.date: 06/08/2017
 ---
 
 

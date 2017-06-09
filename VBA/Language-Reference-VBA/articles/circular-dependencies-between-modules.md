@@ -3,8 +3,9 @@ title: Circular dependencies between modules
 keywords: vblr6.chm1011110
 f1_keywords:
 - vblr6.chm1011110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89b0ffde-11a5-9d8b-927c-386abf69f6e7
+ms.date: 06/08/2017
 ---
 
 

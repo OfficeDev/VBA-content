@@ -1,9 +1,10 @@
 ---
 title: TextFrame2.MarginTop Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.MarginTop
 ms.assetid: d42e148d-8a92-3331-b179-3a3af4447328
+ms.date: 06/08/2017
 ---
 
 

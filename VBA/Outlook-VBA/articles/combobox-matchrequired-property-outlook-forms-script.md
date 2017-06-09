@@ -3,8 +3,9 @@ title: ComboBox.MatchRequired Property (Outlook Forms Script)
 keywords: olfm10.chm2001500
 f1_keywords:
 - olfm10.chm2001500
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 01d6c98b-ab87-d968-011b-7acfa2058feb
+ms.date: 06/08/2017
 ---
 
 

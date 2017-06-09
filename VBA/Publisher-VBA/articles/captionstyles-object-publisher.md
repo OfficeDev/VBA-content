@@ -3,10 +3,11 @@ title: CaptionStyles Object (Publisher)
 keywords: vbapb10.chm593919
 f1_keywords:
 - vbapb10.chm593919
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles
 ms.assetid: 43978df8-0c1c-ab0b-deda-211fad29f5c2
+ms.date: 06/08/2017
 ---
 
 

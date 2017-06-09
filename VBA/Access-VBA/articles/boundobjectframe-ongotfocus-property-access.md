@@ -3,10 +3,11 @@ title: BoundObjectFrame.OnGotFocus Property (Access)
 keywords: vbaac10.chm10966
 f1_keywords:
 - vbaac10.chm10966
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnGotFocus
 ms.assetid: 67b47b88-8a45-c1e6-68b2-fe2cf2e726fe
+ms.date: 06/08/2017
 ---
 
 

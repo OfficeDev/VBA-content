@@ -3,10 +3,11 @@ title: FormatConditions.Creator Property (Excel)
 keywords: vbaxl10.chm509074
 f1_keywords:
 - vbaxl10.chm509074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.Creator
 ms.assetid: c828685a-91a9-d70d-a8e6-33da541f1ae9
+ms.date: 06/08/2017
 ---
 
 

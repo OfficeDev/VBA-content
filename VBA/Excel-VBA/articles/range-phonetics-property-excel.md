@@ -3,10 +3,11 @@ title: Range.Phonetics Property (Excel)
 keywords: vbaxl10.chm144229
 f1_keywords:
 - vbaxl10.chm144229
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Phonetics
 ms.assetid: fdc05b76-b574-63ec-045a-42fdcfae8a9e
+ms.date: 06/08/2017
 ---
 
 

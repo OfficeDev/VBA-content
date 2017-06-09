@@ -3,14 +3,15 @@ title: Cannot repeat table name <name> in FROM clause. (Error 3074)
 keywords: jeterr40.chm5003074
 f1_keywords:
 - jeterr40.chm5003074
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f24892c2-8096-22c7-8209-a84c2f9713a3
+ms.date: 06/08/2017
 ---
 
 
 # Cannot repeat table name <name> in FROM clause. (Error 3074)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

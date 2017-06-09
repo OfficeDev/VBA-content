@@ -3,10 +3,11 @@ title: Options.UseGermanSpellingReform Property (Word)
 keywords: vbawd10.chm162988447
 f1_keywords:
 - vbawd10.chm162988447
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UseGermanSpellingReform
 ms.assetid: 5ab20040-7247-f402-c246-e13c1ba0cb30
+ms.date: 06/08/2017
 ---
 
 

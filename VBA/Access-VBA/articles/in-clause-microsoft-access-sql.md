@@ -3,14 +3,15 @@ title: IN Clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277567
 f1_keywords:
 - jetsql40.chm5277567
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5bca25c0-cd00-140f-79b8-80cd2d0c190b
+ms.date: 06/08/2017
 ---
 
 
 # IN Clause (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: ListColumn.Total Property (Excel)
 keywords: vbaxl10.chm738083
 f1_keywords:
 - vbaxl10.chm738083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.Total
 ms.assetid: e3a2fd3c-560f-2743-e45e-5e472e45e10c
+ms.date: 06/08/2017
 ---
 
 

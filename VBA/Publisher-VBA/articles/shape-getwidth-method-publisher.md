@@ -3,10 +3,11 @@ title: Shape.GetWidth Method (Publisher)
 keywords: vbapb10.chm2228249
 f1_keywords:
 - vbapb10.chm2228249
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.GetWidth
 ms.assetid: 9df33329-c37b-82f5-93b4-fc4752ee907e
+ms.date: 06/08/2017
 ---
 
 

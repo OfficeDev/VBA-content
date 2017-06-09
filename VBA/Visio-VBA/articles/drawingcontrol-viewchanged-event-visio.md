@@ -1,9 +1,10 @@
 ---
 title: DrawingControl.ViewChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.ViewChanged
 ms.assetid: bab291c0-429a-bac5-339f-dcb71ce72199
+ms.date: 06/08/2017
 ---
 
 

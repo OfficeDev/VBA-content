@@ -3,10 +3,11 @@ title: Frame.VerticalDistanceFromText Property (Word)
 keywords: vbawd10.chm153747465
 f1_keywords:
 - vbawd10.chm153747465
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.VerticalDistanceFromText
 ms.assetid: 16496bd5-bb12-11ad-59e6-baf234803471
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: Sections.Parent Property (Publisher)
 keywords: vbapb10.chm7340037
 f1_keywords:
 - vbapb10.chm7340037
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Sections.Parent
 ms.assetid: 29df8618-fc04-ba78-19da-c954c6111659
+ms.date: 06/08/2017
 ---
 
 

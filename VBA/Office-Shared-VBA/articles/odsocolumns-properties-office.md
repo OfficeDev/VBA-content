@@ -1,7 +1,8 @@
 ---
 title: ODSOColumns Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e19a5e42-b780-46f5-a784-526fb6d79e48
+ms.date: 06/08/2017
 ---
 
 

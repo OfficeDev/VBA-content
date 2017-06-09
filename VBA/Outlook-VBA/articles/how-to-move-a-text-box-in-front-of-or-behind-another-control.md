@@ -3,8 +3,9 @@ title: "How to: Move a Text Box in Front of or Behind Another Control"
 keywords: olfm10.chm3077267
 f1_keywords:
 - olfm10.chm3077267
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 43e00491-39e4-5608-dc51-794be11ac721
+ms.date: 06/08/2017
 ---
 
 

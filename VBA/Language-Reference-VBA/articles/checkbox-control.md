@@ -3,8 +3,9 @@ title: CheckBox Control
 keywords: fm20.chm5224977
 f1_keywords:
 - fm20.chm5224977
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24d90604-51ec-7f7d-e679-52391b2c27c0
+ms.date: 06/08/2017
 ---
 
 

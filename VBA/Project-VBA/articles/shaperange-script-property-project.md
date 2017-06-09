@@ -1,7 +1,8 @@
 ---
 title: ShapeRange.Script Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 83eb1b63-d4ea-762d-34b7-07629ca00fd1
+ms.date: 06/08/2017
 ---
 
 

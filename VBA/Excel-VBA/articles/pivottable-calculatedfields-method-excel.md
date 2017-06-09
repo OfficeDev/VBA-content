@@ -3,10 +3,11 @@ title: PivotTable.CalculatedFields Method (Excel)
 keywords: vbaxl10.chm235103
 f1_keywords:
 - vbaxl10.chm235103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CalculatedFields
 ms.assetid: 8f09c79d-48e7-0c75-8db2-2201fcdcc974
+ms.date: 06/08/2017
 ---
 
 

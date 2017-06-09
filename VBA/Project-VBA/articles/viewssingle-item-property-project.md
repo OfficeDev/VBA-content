@@ -1,9 +1,10 @@
 ---
 title: ViewsSingle.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewsSingle.Item
 ms.assetid: b4b97fc0-f075-bf22-9ddb-421249f4e5ff
+ms.date: 06/08/2017
 ---
 
 

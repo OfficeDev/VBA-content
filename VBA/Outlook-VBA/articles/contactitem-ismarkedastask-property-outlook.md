@@ -3,10 +3,11 @@ title: ContactItem.IsMarkedAsTask Property (Outlook)
 keywords: vbaol11.chm3033
 f1_keywords:
 - vbaol11.chm3033
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.IsMarkedAsTask
 ms.assetid: bf651a37-e486-1c54-83d4-3bb3714f7187
+ms.date: 06/08/2017
 ---
 
 

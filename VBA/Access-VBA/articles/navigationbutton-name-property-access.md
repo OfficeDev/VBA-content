@@ -3,10 +3,11 @@ title: NavigationButton.Name Property (Access)
 keywords: vbaac10.chm10506
 f1_keywords:
 - vbaac10.chm10506
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Name
 ms.assetid: 514d922d-e9bc-6a44-b1ac-323b9eb036c2
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: CustomControl.ControlSource Property (Access)
 keywords: vbaac10.chm12009
 f1_keywords:
 - vbaac10.chm12009
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.ControlSource
 ms.assetid: 1f773a09-7bcc-45ec-9380-3ab5ee13f024
+ms.date: 06/08/2017
 ---
 
 

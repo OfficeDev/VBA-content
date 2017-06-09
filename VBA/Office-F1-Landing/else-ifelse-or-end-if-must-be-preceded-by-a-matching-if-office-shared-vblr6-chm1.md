@@ -3,8 +3,9 @@ title: Else If, Else, or End If must be preceded by a matching If, Office Shared
 keywords: vblr6.chm1057021
 f1_keywords:
 - vblr6.chm1057021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3930a7dd-8abb-42ee-ad64-6034db585c11
+ms.date: 06/08/2017
 ---
 
 

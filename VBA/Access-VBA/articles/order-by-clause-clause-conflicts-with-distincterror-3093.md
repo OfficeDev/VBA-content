@@ -3,14 +3,15 @@ title: ORDER BY clause <clause> conflicts with DISTINCT. (Error 3093)
 keywords: jeterr40.chm5003093
 f1_keywords:
 - jeterr40.chm5003093
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c557f34f-1044-a722-e8ae-d37ba24e564d
+ms.date: 06/08/2017
 ---
 
 
 # ORDER BY clause <clause> conflicts with DISTINCT. (Error 3093)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

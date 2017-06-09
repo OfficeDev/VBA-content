@@ -1,9 +1,10 @@
 ---
 title: CommandBarComboBox.Width Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Width
 ms.assetid: 5efb8c56-f896-c5e7-d457-f8862e655d1c
+ms.date: 06/08/2017
 ---
 
 

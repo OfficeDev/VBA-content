@@ -1,6 +1,8 @@
 ---
 title: EngagementComments.Item Property (Project)
 ms.assetid: 04bdc594-4bc4-0d5a-354d-e53c5dacdb5a
+ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: ReportItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Read
 ms.assetid: 7b142bcb-dd96-a0ec-5684-b7311f34d772
+ms.date: 06/08/2017
 ---
 
 

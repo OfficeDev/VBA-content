@@ -3,10 +3,11 @@ title: MailMerge.MainDocumentType Property (Word)
 keywords: vbawd10.chm153092097
 f1_keywords:
 - vbawd10.chm153092097
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.MainDocumentType
 ms.assetid: 6275d472-b513-1879-e48a-326f21d6321d
+ms.date: 06/08/2017
 ---
 
 

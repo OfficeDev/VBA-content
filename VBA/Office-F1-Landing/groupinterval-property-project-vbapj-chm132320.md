@@ -3,8 +3,9 @@ title: GroupInterval Property, Project [vbapj.chm132320]
 keywords: vbapj.chm132320
 f1_keywords:
 - vbapj.chm132320
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9c43a2e1-7338-48e7-8521-4208df7dfb8b
+ms.date: 06/08/2017
 ---
 
 

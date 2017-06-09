@@ -3,10 +3,11 @@ title: Graphic.ColorType Property (Excel)
 keywords: vbaxl10.chm694074
 f1_keywords:
 - vbaxl10.chm694074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.ColorType
 ms.assetid: a1cc3739-4398-caf0-7970-f114190e66cb
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: ObjectFrame.Application Property (Access)
 keywords: vbaac10.chm11547
 f1_keywords:
 - vbaac10.chm11547
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Application
 ms.assetid: 29e3d68f-4f67-793d-6976-e18e290145fe
+ms.date: 06/08/2017
 ---
 
 

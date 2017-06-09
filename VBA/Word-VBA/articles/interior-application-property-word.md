@@ -3,10 +3,11 @@ title: Interior.Application Property (Word)
 keywords: vbawd10.chm2818196
 f1_keywords:
 - vbawd10.chm2818196
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Interior.Application
 ms.assetid: 7da2b1e6-8acd-9b00-eba3-3e1b275c1869
+ms.date: 06/08/2017
 ---
 
 

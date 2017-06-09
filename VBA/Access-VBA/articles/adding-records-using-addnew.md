@@ -1,13 +1,13 @@
 ---
 title: Adding Records Using AddNew
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b37978c6-cb5c-d54d-d6d8-b088b6218c5b
+ms.date: 06/08/2017
 ---
 
 
 # Adding Records Using AddNew
 
- **Last modified:** December 30, 2015
 
 **Applies to:** Access 2013 | Access 2016
 

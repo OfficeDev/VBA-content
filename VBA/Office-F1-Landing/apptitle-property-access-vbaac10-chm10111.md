@@ -3,8 +3,9 @@ title: AppTitle Property, Access [vbaac10.chm10111]
 keywords: vbaac10.chm10111
 f1_keywords:
 - vbaac10.chm10111
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1817254c-0dfa-40d9-bccf-6ec0add89131
+ms.date: 06/08/2017
 ---
 
 

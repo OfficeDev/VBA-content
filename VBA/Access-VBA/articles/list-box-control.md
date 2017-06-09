@@ -3,14 +3,15 @@ title: List Box Control
 keywords: vbaac10.chm5186557
 f1_keywords:
 - vbaac10.chm5186557
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 279e2f07-9f6d-df03-812c-d232cdeb6fd7
+ms.date: 06/08/2017
 ---
 
 
 # List Box Control
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

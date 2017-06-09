@@ -3,10 +3,11 @@ title: Application.ShowProgress Property (Visio)
 keywords: vis_sdr.chm10014370
 f1_keywords:
 - vis_sdr.chm10014370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ShowProgress
 ms.assetid: 4dcfcec7-d652-0b52-a4e8-a43122e72988
+ms.date: 06/08/2017
 ---
 
 

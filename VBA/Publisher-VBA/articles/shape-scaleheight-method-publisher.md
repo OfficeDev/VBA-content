@@ -3,10 +3,11 @@ title: Shape.ScaleHeight Method (Publisher)
 keywords: vbapb10.chm2228261
 f1_keywords:
 - vbapb10.chm2228261
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.ScaleHeight
 ms.assetid: 733afebc-0946-07eb-0550-547a4dc9f9da
+ms.date: 06/08/2017
 ---
 
 

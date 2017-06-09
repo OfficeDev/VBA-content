@@ -1,7 +1,8 @@
 ---
 title: TabStrip.SelectedItem Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b9cc5495-b702-231b-52bb-69e86d8fcfb0
+ms.date: 06/08/2017
 ---
 
 

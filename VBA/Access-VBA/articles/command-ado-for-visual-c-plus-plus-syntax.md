@@ -1,13 +1,14 @@
 ---
 title: Command (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a397daf5-2bcd-6c1a-3fb6-667c1309d0e3
+ms.date: 06/08/2017
 ---
 
 
 # Command (ADO for Visual C++ Syntax)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -3,10 +3,11 @@ title: PageSetup.CenterHeader Property (Excel)
 keywords: vbaxl10.chm473076
 f1_keywords:
 - vbaxl10.chm473076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterHeader
 ms.assetid: 8c928648-c501-bad6-d5b4-ec77fd832538
+ms.date: 06/08/2017
 ---
 
 

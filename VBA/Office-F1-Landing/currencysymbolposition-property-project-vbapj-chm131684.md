@@ -3,8 +3,9 @@ title: CurrencySymbolPosition Property, Project [vbapj.chm131684]
 keywords: vbapj.chm131684
 f1_keywords:
 - vbapj.chm131684
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a04afcf-1cdc-465f-80cb-ba7c41fd0edf
+ms.date: 06/08/2017
 ---
 
 

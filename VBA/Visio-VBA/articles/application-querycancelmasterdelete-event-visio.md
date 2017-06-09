@@ -1,9 +1,10 @@
 ---
 title: Application.QueryCancelMasterDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelMasterDelete
 ms.assetid: 8277a799-c86f-ddd4-7c0a-da0762418217
+ms.date: 06/08/2017
 ---
 
 

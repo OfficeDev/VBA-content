@@ -3,10 +3,11 @@ title: CapitalizeNamesOfDays Property
 keywords: vbagr10.chm66686
 f1_keywords:
 - vbagr10.chm66686
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CapitalizeNamesOfDays
 ms.assetid: dbac8451-a2ac-5e29-b6c9-afa9cfaec469
+ms.date: 06/08/2017
 ---
 
 

@@ -3,10 +3,11 @@ title: SpellingOptions.ArabicStrictFinalYaa Property (Excel)
 keywords: vbaxl10.chm717086
 f1_keywords:
 - vbaxl10.chm717086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.ArabicStrictFinalYaa
 ms.assetid: 90affabc-b04a-62a2-6b50-91febe65def0
+ms.date: 06/08/2017
 ---
 
 

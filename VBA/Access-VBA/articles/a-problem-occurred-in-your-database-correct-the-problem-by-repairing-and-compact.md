@@ -3,14 +3,15 @@ title: A problem occurred in your database. Correct the problem by repairing and
 keywords: jeterr40.chm5003428
 f1_keywords:
 - jeterr40.chm5003428
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 12d431c6-3610-7e06-6a01-33b1104e90c8
+ms.date: 06/08/2017
 ---
 
 
 # A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
 
- **Last modified:** December 30, 2015
+
 
 **Applies to:** Access 2013 | Access 2016
 

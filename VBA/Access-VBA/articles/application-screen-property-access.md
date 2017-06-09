@@ -3,10 +3,11 @@ title: Application.Screen Property (Access)
 keywords: vbaac10.chm12510
 f1_keywords:
 - vbaac10.chm12510
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.Screen
 ms.assetid: d6faa33a-7701-d270-3bc7-04d53ac9303a
+ms.date: 06/08/2017
 ---
 
 

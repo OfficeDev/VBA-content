@@ -1,7 +1,8 @@
 ---
 title: Change the Appearance of a Control
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3e88980a-3b48-0ee9-06a7-f30aaf66f27b
+ms.date: 06/08/2017
 ---
 
 

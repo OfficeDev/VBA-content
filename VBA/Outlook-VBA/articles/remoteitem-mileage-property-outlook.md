@@ -3,10 +3,11 @@ title: RemoteItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1602
 f1_keywords:
 - vbaol11.chm1602
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Mileage
 ms.assetid: 31cba451-eb84-cd65-4443-1ab03d7fa535
+ms.date: 06/08/2017
 ---
 
 

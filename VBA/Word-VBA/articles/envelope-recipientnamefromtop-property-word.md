@@ -3,10 +3,11 @@ title: Envelope.RecipientNamefromTop Property (Word)
 keywords: vbawd10.chm152567832
 f1_keywords:
 - vbawd10.chm152567832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.RecipientNamefromTop
 ms.assetid: 5e18b493-63e7-fc7d-c875-48958477c0b9
+ms.date: 06/08/2017
 ---
 
 

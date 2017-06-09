@@ -3,10 +3,11 @@ title: Worksheet.Previous Property (Excel)
 keywords: vbaxl10.chm174086
 f1_keywords:
 - vbaxl10.chm174086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Previous
 ms.assetid: 8409e3c6-564e-2ba1-1e49-79a1c37cc845
+ms.date: 06/08/2017
 ---
 
 
