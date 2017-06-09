@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot execute data definition statements on linked data sources. (Error 3611)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The name selected for the system object is already in use. (Error 3526)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

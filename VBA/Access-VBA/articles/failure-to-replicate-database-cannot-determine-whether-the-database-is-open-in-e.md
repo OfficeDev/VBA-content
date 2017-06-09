@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Failure to replicate database; cannot determine whether the database is open in exclusive mode. (Error 3578)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

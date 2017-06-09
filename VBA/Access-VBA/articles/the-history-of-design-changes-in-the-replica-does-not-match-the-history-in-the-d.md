@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The history of design changes in the replica does not match the history in the Design Master. (Error 3524)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

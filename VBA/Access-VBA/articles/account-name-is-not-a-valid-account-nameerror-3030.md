@@ -11,7 +11,6 @@ ms.date: 06/08/2017
 
 # <Account name> is not a valid account name. (Error 3030)
 
- **Last modified:** May 06, 2016
 
 **Applies to:** Access 2013 | Access 2016
 

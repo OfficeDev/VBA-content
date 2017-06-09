@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # A column requested is not being returned to the Recordset. (Error 3647)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 One of the requested columns is not available.

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ODBC - could not find DLL <name>. (Error 3154)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

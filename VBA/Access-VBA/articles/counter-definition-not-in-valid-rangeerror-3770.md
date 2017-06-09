@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Counter definition not in valid range. (Error 3770)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

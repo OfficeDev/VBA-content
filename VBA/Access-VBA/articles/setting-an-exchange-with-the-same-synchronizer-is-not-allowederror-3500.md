@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Setting an exchange with the same Synchronizer is not allowed. (Error 3500)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

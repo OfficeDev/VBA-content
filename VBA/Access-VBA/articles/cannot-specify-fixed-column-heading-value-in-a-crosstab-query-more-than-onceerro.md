@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot specify fixed column heading <value> in a crosstab query more than once. (Error 3104)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

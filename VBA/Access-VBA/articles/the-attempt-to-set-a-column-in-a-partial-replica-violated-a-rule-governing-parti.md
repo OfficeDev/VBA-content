@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The attempt to set a column in a partial replica violated a rule governing partial replicas. (Error 3571)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

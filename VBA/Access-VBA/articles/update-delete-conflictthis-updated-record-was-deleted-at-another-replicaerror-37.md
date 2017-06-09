@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Update/delete conflict - This updated record was deleted at another replica. (Error 3736)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot change the data master attribute for the replica set. It allows data changes only at the Design Master. (Error 3594)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

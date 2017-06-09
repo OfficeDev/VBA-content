@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Design Master or replica is not being managed by a Synchronizer. (Error 3502)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

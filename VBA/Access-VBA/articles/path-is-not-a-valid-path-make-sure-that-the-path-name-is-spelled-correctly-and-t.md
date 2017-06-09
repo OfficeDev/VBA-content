@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # <Path> is not a valid path. Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. (Error 3044)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

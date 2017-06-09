@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot modify the design of table <name>. It is in a read-only database. (Error 3370)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

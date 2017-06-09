@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot use the crosstab of a non-fixed column as a subquery. (Error 3637)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

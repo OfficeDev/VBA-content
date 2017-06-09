@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Field <name> cannot be a zero-length string. (Error 3315)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

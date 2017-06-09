@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot establish or maintain an enforced relationship between a replicated table and a local table. (Error 3453)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

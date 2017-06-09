@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # A disk I/O error occurred while reading or writing to the TEMP directory. (Error 3572)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 A problem has occurred accessing the TEMP directory on your computer. Check that the path to the TEMP directory is set properly.

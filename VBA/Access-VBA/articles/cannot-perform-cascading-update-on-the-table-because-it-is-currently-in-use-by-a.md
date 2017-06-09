@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform cascading update on the table because it is currently in use by another user. (Error 3412)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

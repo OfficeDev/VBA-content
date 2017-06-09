@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # MAPI folder or address book not found. (Error 3710)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

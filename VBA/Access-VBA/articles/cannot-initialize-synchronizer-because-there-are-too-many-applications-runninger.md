@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot initialize Synchronizer because there are too many applications running. (Error 3538)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

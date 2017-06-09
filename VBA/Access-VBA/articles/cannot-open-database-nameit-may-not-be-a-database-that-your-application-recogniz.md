@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot open database <name>. It may not be a database that your application recognizes, or the file may be corrupt. (Error 3049)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

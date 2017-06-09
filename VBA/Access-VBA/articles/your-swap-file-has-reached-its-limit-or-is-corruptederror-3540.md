@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Your swap file has reached its limit or is corrupted. (Error 3540)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

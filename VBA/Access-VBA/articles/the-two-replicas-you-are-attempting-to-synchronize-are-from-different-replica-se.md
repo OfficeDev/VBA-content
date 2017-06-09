@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The two replicas you are attempting to synchronize are from different replica sets. (Error 3545)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

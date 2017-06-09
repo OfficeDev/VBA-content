@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The connection for viewing your linked Microsoft Excel worksheet was lost. (Error 3620)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You tried to commit or roll back a transaction without first using BeginTrans. (Error 3034)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

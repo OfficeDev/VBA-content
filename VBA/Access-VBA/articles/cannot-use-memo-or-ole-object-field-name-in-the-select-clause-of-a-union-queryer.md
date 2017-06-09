@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot use Memo or OLE Object field <name> in the SELECT clause of a union query. (Error 3364)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

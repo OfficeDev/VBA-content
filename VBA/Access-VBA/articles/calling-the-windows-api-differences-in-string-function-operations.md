@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Calling the Windows API (Differences in String Function Operations)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

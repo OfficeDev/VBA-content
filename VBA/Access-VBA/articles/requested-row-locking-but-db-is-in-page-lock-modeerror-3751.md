@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Requested row locking, but DB is in page lock mode. (Error 3751)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Missing semicolon (;) at end of SQL statement. (Error 3137)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

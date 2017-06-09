@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # While loading the Microsoft Excel installable ISAM, OLE was unable to initialize. (Error 3430)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

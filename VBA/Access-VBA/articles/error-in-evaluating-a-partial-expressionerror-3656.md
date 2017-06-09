@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Error in evaluating a partial expression. (Error 3656)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

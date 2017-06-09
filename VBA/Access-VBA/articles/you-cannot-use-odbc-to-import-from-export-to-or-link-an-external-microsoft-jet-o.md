@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot use ODBC to import from, export to, or link an external Microsoft Jet or ISAM database table to your database. (Error 3423)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

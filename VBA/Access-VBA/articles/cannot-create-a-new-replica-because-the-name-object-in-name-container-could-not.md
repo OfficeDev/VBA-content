@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot create a new replica because the <name> object in <name> container could not be replicated. (Error 3490)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

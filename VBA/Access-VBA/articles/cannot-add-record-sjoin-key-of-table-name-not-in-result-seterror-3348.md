@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot add record(s); join key of table <name> not in result set. (Error 3348)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

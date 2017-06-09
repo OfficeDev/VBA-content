@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot find the executable file for the Synchronizer (mstran40.exe). (Error 3627)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

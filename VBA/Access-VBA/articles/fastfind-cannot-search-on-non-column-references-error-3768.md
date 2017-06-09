@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # FastFind cannot search on non-column references (Error 3768)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

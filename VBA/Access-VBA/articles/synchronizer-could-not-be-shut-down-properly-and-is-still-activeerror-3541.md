@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer could not be shut down properly and is still active. (Error 3541)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The operation you attempted conflicts with an existing operation involving this member of the replica set. (Error 3460)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

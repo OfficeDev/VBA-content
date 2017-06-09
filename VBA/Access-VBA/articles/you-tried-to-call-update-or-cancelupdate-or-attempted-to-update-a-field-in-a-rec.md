@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You tried to call Update or CancelUpdate or attempted to update a Field in a recordset without first calling AddNew or Edit. (Error 3020)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

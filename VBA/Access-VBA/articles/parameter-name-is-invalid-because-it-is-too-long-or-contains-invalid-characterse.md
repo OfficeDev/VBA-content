@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # <Parameter name> is invalid because it is too long or contains invalid characters. (Error 3223)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

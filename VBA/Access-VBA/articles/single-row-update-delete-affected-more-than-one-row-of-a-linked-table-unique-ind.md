@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Single-row update/delete affected more than one row of a linked table. Unique index contains duplicate values. (Error 3362)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

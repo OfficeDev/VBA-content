@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot create a relationship between a field and itself. (Error 3206)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

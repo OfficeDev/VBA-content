@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Unknown function <name> in validation expression or default value on <name>. (Error 3388)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

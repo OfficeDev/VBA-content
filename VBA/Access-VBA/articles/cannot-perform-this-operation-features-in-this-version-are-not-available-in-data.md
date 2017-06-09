@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform this operation; features in this version are not available in databases with older formats. (Error 3301)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

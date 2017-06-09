@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # A problem occurred in your database. Correct the problem by repairing and compacting the database. (Error 3428)
 
- **Last modified:** December 30, 2015
+
 
 **Applies to:** Access 2013 | Access 2016
 

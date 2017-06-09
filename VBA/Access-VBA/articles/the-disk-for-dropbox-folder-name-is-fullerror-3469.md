@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The disk for dropbox folder <name> is full. (Error 3469)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

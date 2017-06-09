@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Text file specification field separator matches decimal separator or text delimiter. (Error 3441)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

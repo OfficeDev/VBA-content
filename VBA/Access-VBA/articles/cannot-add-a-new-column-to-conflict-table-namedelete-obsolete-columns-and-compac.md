@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot add a new column to conflict table <name>. Delete obsolete columns and compact the database. (Error 3740)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

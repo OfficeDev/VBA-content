@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer <name> is also using the same File System dropbox <name> (Error 3629)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

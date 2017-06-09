@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # After a database has been replicated, you cannot remove the replication features from the database. (Error 3459)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

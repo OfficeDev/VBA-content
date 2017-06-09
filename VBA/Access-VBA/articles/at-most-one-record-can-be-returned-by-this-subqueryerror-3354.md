@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # At most one record can be returned by this subquery. (Error 3354)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

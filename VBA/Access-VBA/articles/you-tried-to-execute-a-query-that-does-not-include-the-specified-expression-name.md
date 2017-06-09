@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You tried to execute a query that does not include the specified expression <name> as part of an aggregate function. (Error 3122)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

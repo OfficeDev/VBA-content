@@ -11,8 +11,6 @@ ms.date: 06/08/2017
 
 # The database engine could not lock table <name> because it is already in use by another person or process. (Error 3211)
 
- **Last modified:** February 16, 2016
-
 **Applies to:** Access 2013 | Access 2016
 
 To complete the current operation, the table is currently locked by another user. 

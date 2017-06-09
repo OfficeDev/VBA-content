@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # A system error has occurred or your swap file has reached its limit. (Error 3539)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 The Synchronizer has made a system call that resulted in an unexpected problem. Shut down, turn off, and then reboot your computer.

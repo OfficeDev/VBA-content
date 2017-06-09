@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The filters defining a partial replica are out of synch with each other. (Error 3570)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

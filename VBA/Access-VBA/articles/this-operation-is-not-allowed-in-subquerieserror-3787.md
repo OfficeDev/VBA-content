@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This operation is not allowed in subqueries. (Error 3787)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The replica name or ID does not match a currently managed member of the replica set. (Error 3520)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

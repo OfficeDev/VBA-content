@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot add a second Replication ID AutoNumber field to a table. (Error 3486)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

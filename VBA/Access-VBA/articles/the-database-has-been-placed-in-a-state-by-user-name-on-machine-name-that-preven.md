@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The database has been placed in a state by user <name> on machine <name> that prevents it from being opened or locked. (Error 3734)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

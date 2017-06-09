@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Updating data in a linked table is not supported by this ISAM. (Error 3616)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

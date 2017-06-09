@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Destination synchronizer is not configured to support indirect synchronization, and the destination replica is unavailable for direct synchronization. (Error 3516)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

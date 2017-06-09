@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # No destination field name in INSERT INTO statement <statement>. (Error 3352)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

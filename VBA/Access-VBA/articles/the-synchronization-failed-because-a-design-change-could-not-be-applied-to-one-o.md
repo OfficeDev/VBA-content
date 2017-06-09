@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The synchronization failed because a design change could not be applied to one of the replicas. (Error 3492)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

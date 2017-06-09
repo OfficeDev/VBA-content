@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # An asynchronous OpenConnection call is not yet complete. (Error 3664)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

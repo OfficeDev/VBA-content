@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This table contains cells that are outside of the range of cells defined in this spreadsheet. (Error 3673)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

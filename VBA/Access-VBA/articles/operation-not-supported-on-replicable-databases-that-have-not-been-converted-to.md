@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Operation not supported on replicable databases that have not been converted to the current version. (Error 3703)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

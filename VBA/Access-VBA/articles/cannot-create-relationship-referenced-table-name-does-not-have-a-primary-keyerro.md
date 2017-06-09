@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot create relationship. Referenced table <name> does not have a primary key. (Error 3373)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

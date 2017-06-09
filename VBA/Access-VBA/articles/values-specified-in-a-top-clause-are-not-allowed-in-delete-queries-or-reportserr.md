@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Values specified in a TOP clause are not allowed in delete queries or reports. (Error 3318)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

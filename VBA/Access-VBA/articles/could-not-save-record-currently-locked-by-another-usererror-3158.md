@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Could not save record; currently locked by another user. (Error 3158)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Operation not supported on a table that contains data. (Error 3282)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

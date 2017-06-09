@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # No such index <name> on table <name>. (Error 3372)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

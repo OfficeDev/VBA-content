@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot start your application. The workgroup information file is missing or opened exclusively by another user. (Error 3028)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

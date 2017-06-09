@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Deleting data in a linked table is not supported by this ISAM. (Error 3617)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The cascading options for the new reference conflict with existing reference <name>. (Error 3707)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

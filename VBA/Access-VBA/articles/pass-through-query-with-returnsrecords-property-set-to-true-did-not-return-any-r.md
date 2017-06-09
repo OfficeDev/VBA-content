@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Pass-through query with ReturnsRecords property set to True did not return any records. (Error 3325)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

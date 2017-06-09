@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # A call to an OLE system function was not successful. Try reinstalling the application that returned the error. (Error 3448)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 An OLE Automation function called failed. Try reinstalling the application that returned the error.

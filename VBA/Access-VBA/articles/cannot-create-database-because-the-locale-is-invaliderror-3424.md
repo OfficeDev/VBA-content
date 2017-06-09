@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot create database because the locale is invalid. (Error 3424)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

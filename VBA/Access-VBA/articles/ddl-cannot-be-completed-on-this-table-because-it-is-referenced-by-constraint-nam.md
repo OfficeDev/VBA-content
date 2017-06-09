@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DDL cannot be completed on this table because it is referenced by constraint <name> on table <name>. (Error 3803)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

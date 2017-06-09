@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property can be set only when the Field is part of a Recordset object's Fields collection. (Error 3267)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

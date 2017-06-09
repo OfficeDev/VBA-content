@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The ORDER BY expression <expression> includes fields that are not selected by the query. Only those fields requested in the first query can be included in an ORDER BY expression. (Error 3351)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

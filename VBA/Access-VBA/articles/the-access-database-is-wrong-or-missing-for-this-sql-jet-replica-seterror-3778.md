@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Access database is wrong or missing for this SQL/Jet replica set. (Error 3778)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

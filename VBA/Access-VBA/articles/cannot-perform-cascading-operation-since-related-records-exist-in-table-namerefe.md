@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform cascading operation. Since related records exist in table <name>, referential integrity rules would be violated. (Error 3396)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

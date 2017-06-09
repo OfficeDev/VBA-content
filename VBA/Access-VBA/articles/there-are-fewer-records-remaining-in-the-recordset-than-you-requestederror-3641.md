@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # There are fewer records remaining in the Recordset than you requested. (Error 3641)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

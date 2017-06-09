@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This operation requires a different cursor library. (Error 3663)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

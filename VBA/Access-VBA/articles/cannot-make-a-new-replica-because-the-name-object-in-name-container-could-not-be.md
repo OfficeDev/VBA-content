@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot make a new replica because the <name> object in <name> container could not be made replicable. (Error 3582)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot designate a partial replica as the Design Master for the replica set. (Error 3479)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

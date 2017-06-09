@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # New in Access for developers
 Learn about the features in Access 2013 that make it easy to create, deploy, and manage collaborative web-based applications on premise or in the cloud.
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

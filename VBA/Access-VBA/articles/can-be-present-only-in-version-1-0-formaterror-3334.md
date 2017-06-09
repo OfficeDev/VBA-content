@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Can be present only in version 1.0 format. (Error 3334)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

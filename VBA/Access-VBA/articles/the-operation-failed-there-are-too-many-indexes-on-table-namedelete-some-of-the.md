@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The operation failed. There are too many indexes on table <name>. Delete some of the indexes on the table and try the operation again. (Error 3626)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

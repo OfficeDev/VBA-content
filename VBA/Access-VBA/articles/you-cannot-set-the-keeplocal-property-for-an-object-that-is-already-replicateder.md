@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot set the KeepLocal property for an object that is already replicated. (Error 3457)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

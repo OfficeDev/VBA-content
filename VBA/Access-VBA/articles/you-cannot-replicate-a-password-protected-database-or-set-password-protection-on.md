@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You cannot replicate a password-protected database or set password protection on a replicated database. (Error 3592)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

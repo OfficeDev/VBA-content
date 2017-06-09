@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The relationship <name> in the partial filter expression is invalid. (Error 3480)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

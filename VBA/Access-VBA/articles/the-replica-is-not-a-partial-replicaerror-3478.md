@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The replica is not a partial replica. (Error 3478)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

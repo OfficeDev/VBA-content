@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The field is too small to accept the amount of data you attempted to add. Try inserting or pasting less data. (Error 3163)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

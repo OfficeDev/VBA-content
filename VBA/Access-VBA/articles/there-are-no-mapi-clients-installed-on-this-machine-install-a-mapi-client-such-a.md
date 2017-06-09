@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # There are no MAPI clients installed on this machine. Install a MAPI client, such as Outlook, on this machine. (Error 3804)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

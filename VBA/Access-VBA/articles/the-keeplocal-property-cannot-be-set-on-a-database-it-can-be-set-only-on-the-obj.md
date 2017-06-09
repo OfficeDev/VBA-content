@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The KeepLocal property cannot be set on a database; it can be set only on the objects in a database. (Error 3458)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

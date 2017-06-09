@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The specified field <field> could refer to more than one table listed in the FROM clause of your SQL statement. (Error 3079)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

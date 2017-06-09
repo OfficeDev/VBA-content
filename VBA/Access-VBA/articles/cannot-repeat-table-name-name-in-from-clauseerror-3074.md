@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot repeat table name <name> in FROM clause. (Error 3074)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

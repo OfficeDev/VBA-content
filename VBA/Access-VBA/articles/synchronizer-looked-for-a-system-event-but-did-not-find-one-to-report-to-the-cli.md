@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer looked for a system event but did not find one to report to the client. (Error 3534)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

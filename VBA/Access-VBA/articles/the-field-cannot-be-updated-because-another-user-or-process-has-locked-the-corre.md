@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The field cannot be updated because another user or process has locked the corresponding record or table. (Error 3164)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

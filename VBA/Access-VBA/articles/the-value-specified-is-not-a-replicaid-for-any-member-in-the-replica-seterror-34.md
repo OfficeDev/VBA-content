@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The value specified is not a ReplicaID for any member in the replica set. (Error 3488)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

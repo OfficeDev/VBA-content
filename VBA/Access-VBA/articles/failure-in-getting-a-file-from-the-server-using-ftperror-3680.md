@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Failure in getting a file from the server using FTP. (Error 3680)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

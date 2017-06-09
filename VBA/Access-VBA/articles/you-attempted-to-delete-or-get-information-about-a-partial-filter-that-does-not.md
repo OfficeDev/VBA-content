@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You attempted to delete or get information about a partial filter that does not exist in MsysFilters. (Error 3505)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

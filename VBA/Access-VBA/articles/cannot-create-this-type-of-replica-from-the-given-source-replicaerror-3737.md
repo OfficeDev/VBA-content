@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot create this type of replica from the given source replica. (Error 3737)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

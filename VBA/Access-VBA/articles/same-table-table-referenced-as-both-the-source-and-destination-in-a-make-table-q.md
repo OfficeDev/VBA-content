@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Same table <table> referenced as both the source and destination in a make-table query. (Error 3610)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

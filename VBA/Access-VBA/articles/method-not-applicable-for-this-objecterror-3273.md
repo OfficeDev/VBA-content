@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Method not applicable for this object. (Error 3273)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

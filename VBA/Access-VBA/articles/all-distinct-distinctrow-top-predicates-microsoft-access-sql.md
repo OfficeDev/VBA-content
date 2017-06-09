@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ALL, DISTINCT, DISTINCTROW, TOP Predicates (Microsoft Access SQL)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

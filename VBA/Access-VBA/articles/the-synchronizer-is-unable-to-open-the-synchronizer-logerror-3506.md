@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Synchronizer is unable to open the Synchronizer log. (Error 3506)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

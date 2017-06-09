@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Input and InputB Functions (Differences in String Function Operations)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

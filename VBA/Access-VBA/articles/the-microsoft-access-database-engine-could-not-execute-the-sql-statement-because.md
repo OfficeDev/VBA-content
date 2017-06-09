@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Microsoft Access database engine could not execute the SQL statement because it contains a field that has an invalid data type. (Error 3169)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

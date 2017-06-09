@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The size of the Registry parameter exceeds the maximum allowed. (Error 3552)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Record length is too long for an indexed Paradox table. (Error 3608)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

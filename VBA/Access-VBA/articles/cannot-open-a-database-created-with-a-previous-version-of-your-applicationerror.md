@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot open a database created with a previous version of your application. (Error 3041)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The database you are attempting to open is already in use by another application. (Error 3576)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

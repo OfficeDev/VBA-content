@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # 5 Database Engine Driver (1 of 2)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 When you install the Microsoft® Jet version 3.5 Engine database driver, the Setup program writes a set of default values to the Microsoft Windows® Registry in the Engines and ISAM Formats subkeys. You must use the Registry Editor to add, remove, or change these settings. The following sections describe initialization and ISAM Format settings for the Microsoft Jet Engine database driver.

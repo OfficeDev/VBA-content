@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The fetch buffer was too small for the amount of data you requested. (Error 3640)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

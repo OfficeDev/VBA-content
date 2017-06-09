@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Query <name> contains an ambiguous column name that is conflicting with the correlation (alias) name <name>. (Error 3807)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

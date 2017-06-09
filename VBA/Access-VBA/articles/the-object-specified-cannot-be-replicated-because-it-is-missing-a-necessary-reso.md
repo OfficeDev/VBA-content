@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The object specified cannot be replicated because it is missing a necessary resource. (Error 3489)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

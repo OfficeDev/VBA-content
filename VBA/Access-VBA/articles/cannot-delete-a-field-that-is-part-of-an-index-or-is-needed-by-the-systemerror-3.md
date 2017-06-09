@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot delete a field that is part of an index or is needed by the system. (Error 3280)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

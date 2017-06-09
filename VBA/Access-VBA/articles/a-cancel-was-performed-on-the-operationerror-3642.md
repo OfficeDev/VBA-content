@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # A cancel was performed on the operation. (Error 3642)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 A query has been interrupted by the data source. Some of the matching rows have not been returned. Try submitting the query again.

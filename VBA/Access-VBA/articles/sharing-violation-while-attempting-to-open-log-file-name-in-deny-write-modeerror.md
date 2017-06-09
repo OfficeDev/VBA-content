@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Sharing violation while attempting to open log file <name> in Deny Write mode. (Error 3475)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

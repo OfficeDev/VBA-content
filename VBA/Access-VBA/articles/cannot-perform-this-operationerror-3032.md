@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform this operation. (Error 3032)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

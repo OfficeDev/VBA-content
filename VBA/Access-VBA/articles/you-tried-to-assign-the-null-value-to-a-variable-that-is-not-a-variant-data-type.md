@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You tried to assign the Null value to a variable that is not a Variant data type. (Error 3162)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

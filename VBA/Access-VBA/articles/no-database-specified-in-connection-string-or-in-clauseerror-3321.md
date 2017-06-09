@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # No database specified in connection string or IN clause. (Error 3321)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

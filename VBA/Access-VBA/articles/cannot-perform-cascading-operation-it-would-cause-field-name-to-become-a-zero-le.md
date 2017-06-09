@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform cascading operation. It would cause field <name> to become a zero-length string, which is not allowed. (Error 3402)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

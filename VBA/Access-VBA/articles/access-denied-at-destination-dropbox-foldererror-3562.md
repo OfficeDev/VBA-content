@@ -11,8 +11,7 @@ ms.date: 06/08/2017
 
 # Access denied at destination dropbox folder. (Error 3562)
 
- **Last modified:** December 30, 2015
-
+ 
 **Applies to:** Access 2013 | Access 2016
 
 Check to see if you have permissions for the drive where the destination dropbox folder resides.

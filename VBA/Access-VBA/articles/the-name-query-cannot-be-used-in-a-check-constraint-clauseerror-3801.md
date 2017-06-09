@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The <name> query cannot be used in a CHECK constraint clause. (Error 3801)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

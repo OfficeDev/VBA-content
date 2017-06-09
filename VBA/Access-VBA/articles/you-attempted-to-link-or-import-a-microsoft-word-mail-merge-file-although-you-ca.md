@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You attempted to link or import a Microsoft Word mail merge file. Although you can export such files, you cannot link or import them. (Error 3439)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

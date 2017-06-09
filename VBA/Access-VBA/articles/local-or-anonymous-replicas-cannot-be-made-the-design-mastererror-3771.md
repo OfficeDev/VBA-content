@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Local or Anonymous replicas cannot be made the design master. (Error 3771)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

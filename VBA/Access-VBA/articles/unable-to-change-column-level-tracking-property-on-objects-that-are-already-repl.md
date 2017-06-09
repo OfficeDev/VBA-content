@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Unable to change Column Level Tracking Property on objects that are already Replicable. (Error 3779)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

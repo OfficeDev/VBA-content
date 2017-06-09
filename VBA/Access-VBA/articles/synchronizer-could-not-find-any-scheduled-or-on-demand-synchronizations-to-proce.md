@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer could not find any scheduled or on-demand synchronizations to process. (Error 3514)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

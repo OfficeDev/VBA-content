@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Failure writing to the Synchronizer log. (Error 3507)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

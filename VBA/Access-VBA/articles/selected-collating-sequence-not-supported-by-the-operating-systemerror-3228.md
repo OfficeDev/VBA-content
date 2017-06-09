@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Selected collating sequence not supported by the operating system. (Error 3228)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

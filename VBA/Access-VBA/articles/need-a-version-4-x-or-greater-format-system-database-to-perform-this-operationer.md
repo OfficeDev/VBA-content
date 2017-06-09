@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Need a version 4.x or greater format system database to perform this operation. (Error 3808)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

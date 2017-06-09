@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You must use the dbSeeChanges option with OpenRecordset when accessing a SQL Server table that has an IDENTITY column. (Error 3622)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

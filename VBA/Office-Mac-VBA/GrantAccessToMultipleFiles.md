@@ -7,8 +7,6 @@ ms.date: 06/08/2017
 
 Use the **GrantAccessToMultipleFiles** command to request access to multiple files at once in your Office 2016 for Mac solution.
 
-**Last modified:** January 26, 2016 
-
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
 Unlike VBA macros in Office for Mac 2011, VBA macros in Office 2016 for Mac don’t have access to external files by default. Because the Office 2016 for Mac apps are sandboxed, they do not have permission to access external files. 

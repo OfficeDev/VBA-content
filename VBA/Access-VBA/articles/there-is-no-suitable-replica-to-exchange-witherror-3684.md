@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # There is no suitable replica to exchange with. (Error 3684)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

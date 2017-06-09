@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Error in evaluating the Boolean filter expression for table <name>. (Error 3657)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This member of the replica set has been logically removed from the set and is no longer available. (Error 3569)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

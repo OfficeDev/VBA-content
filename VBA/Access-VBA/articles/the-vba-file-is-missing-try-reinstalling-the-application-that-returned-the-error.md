@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The VBA file is missing. Try reinstalling the application that returned the error. (Error 3446)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

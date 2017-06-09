@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Microsoft Access database engine cannot open the file <name>. It is already opened exclusively by another user, or you need permission to view its data. (Error 3051)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property <name> must be set before using this method. (Error 3386)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The Synchronizer ID does not match an existing ID in the MSysTranspAddress table. (Error 3504)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Error opening a Microsoft Excel 5.0 file. (Error 3432)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

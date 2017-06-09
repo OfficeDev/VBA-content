@@ -7,8 +7,6 @@ ms.date: 06/08/2017
  
 Call an AppleScript file from a VB macro in Office 2016 for Mac.
 
-**Last modified:** January 26, 2016 
-
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
 The **AppleScriptTask** command executes an AppleScript script file located outside the sandboxed app. 

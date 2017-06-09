@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Dropbox address <name> is syntactically invalid. (Error 3477)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

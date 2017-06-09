@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object is invalid or no longer set. (Error 3420)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Error <error text> in validation rule. (Error 3405)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

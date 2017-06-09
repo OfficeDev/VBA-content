@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot join more than one table with the same name <name>. (Error 3081)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

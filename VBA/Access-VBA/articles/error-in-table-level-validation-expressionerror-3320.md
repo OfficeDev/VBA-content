@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # <Error> in table-level validation expression. (Error 3320)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

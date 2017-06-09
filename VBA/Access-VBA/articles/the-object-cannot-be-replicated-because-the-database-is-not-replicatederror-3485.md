@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The object cannot be replicated because the database is not replicated. (Error 3485)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot make the <name> table replicable due to too many indexes. (Error 3706)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

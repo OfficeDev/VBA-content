@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You tried to lock table <table> while opening it, but the table cannot be locked because it is currently in use. Wait a moment, and then try the operation again. (Error 3009)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

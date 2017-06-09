@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ODBC - insert on a linked table <table> failed. (Error 3155)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

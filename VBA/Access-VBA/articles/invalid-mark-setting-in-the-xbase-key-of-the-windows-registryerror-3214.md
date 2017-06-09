@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Invalid Mark setting in the Xbase key of the Windows Registry. (Error 3214)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

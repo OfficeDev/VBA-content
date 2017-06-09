@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # An attempt was made to import or link an empty text file. To import or link a text file, the file must contain data. (Error 3440)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

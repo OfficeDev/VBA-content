@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Failure to do open file using FTP service. (Error 3679)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

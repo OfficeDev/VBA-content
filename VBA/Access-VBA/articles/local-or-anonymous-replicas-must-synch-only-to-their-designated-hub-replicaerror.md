@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Local or Anonymous replicas must synch only to their designated hub replica. (Error 3738)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

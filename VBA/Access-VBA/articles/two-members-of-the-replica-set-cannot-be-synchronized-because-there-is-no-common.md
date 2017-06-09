@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Two members of the replica set cannot be synchronized because there is no common point to start the synchronization. (Error 3521)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

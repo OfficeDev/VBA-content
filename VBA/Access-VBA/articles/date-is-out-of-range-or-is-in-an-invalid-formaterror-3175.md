@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Date is out of range or is in an invalid format. (Error 3175)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

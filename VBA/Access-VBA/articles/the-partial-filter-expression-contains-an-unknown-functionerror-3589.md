@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The partial filter expression contains an unknown function. (Error 3589)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot set this property once the object is part of a collection. (Error 3268)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

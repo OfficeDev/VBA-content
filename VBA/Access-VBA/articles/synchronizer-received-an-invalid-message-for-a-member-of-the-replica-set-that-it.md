@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer received an invalid message for a member of the replica set that it manages. (Error 3536)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

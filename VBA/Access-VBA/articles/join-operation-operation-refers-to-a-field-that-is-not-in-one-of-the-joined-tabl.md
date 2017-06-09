@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # JOIN operation <operation> refers to a field that is not in one of the joined tables. (Error 3082)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

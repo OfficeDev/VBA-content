@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Record(s) cannot be deleted; no delete permission on <name>. (Error 3109)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

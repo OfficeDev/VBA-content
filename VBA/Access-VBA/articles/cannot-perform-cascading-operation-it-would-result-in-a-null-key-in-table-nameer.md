@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot perform cascading operation. It would result in a null key in table <name>. (Error 3398)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

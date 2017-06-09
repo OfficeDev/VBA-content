@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This is not a valid name. Make sure it is a valid parameter or alias name, that it does not include invalid characters or punctuation, and that the name is not too long. (Error 3125)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

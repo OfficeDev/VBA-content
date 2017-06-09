@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Out of MS-DOS file handles. (Error 3042)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

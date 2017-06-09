@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # You attempted to open a database that is already opened exclusively by user <name> on machine <name>. Try again when the database is available. (Error 3356)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Without Administrator permission, replica priority must be in the range 0 - <number>. (Error 3772)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

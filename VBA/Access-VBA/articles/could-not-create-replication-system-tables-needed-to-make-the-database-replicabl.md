@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Could not create replication system tables needed to make the database replicable. (Error 3579)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

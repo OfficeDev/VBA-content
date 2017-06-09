@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot include Memo or OLE Object when you select unique values <statement>. (Error 3114)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

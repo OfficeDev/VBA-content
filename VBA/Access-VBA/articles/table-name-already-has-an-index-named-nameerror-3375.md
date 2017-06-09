@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Table <name> already has an index named <name>. (Error 3375)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

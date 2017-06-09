@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Replication Manager cannot find the ExchangeID in the MSysExchangeLog table. (Error 3496)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

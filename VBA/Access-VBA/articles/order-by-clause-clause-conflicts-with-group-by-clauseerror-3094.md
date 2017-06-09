@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ORDER BY clause <clause> conflicts with GROUP BY clause. (Error 3094)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

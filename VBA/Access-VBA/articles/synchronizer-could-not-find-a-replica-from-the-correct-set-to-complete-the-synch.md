@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Synchronizer could not find a replica from the correct set to complete the synchronization. (Error 3547)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

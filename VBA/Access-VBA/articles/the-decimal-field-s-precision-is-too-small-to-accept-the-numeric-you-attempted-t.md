@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The decimal field's precision is too small to accept the numeric you attempted to add. (Error 3761)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

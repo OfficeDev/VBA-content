@@ -7,8 +7,6 @@ ms.date: 06/08/2017
 
 Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.
 
-**Last modified:** January 26, 2016 
-
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
 If you're authoring Macros for Office for Mac, you can use most of the same objects that are available in VBA for Office. For information about VBA for Excel, PowerPoint, and Word, see the following:

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot have more than 10 fields in an index. (Error 3277)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

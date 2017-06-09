@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot append. An object with that name already exists in the collection. (Error 3367)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

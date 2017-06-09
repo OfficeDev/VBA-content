@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The password supplied for the dropbox folder <name> is invalid. (Error 3483)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The query cannot be used as a row source. (Error 3323)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The specified row length is shorter than the sum of the column lengths. (Error 3646)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

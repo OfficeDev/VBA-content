@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SELECT INTO on a remote database tried to produce too many fields. (Error 3185)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # There is a sharing violation in the source dropbox folder because the message database is open in another application. (Error 3565)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

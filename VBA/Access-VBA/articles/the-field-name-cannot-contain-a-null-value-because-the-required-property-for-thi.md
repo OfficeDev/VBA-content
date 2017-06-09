@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The field <name> cannot contain a Null value because the Required property for this field is set to True. Enter a value in this field. (Error 3314)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

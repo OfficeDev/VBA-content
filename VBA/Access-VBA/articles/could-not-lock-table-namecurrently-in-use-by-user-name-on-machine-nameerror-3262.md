@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Could not lock table <name>; currently in use by user <name> on machine <name>. (Error 3262)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

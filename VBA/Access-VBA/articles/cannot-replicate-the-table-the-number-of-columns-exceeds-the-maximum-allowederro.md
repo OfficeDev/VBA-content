@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot replicate the table; the number of columns exceeds the maximum allowed. (Error 3585)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

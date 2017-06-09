@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This query is not a properly formed data-definition query. (Error 3357)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

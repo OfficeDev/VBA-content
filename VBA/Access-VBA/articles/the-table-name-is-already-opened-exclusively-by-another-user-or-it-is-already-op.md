@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The table <name> is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. (Error 3008)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

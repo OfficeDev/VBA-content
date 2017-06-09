@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The expression you are trying to use for the DefaultValue property is invalid because <error text>. Use a valid expression to set this property. (Error 3406)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

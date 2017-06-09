@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Records could not be added to exceptions table. (Error 3619)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot delete this field. It is part of one or more relationships. (Error 3303)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

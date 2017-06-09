@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Index or primary key cannot contain a Null value. (Error 3058)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 

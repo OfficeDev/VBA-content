@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # This property is not supported for external data sources or for databases created with a previous version of Microsoft Jet. (Error 3310)
 
- **Last modified:** December 30, 2015
+  
 
 **Applies to:** Access 2013 | Access 2016
 
