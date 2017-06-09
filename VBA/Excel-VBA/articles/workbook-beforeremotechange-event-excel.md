@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: EXCEL
 api_name:
 - Excel.Workbook.BeforeRemoteChange
-ms.assetid: workbook-beforeremotechange-event-excel
 ---
 
 
