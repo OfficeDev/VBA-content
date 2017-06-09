@@ -1,8 +1,11 @@
+---
+title: Run an AppleScript with VB
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Run an AppleScript with VB
  
 Call an AppleScript file from a VB macro in Office 2016 for Mac.
-
-**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 

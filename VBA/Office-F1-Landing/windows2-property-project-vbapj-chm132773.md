@@ -1,0 +1,20 @@
+---
+title: Windows2 Property, Project [vbapj.chm132773]
+keywords: vbapj.chm132773
+f1_keywords:
+- vbapj.chm132773
+ms.prod: office
+ms.assetid: 5b1cf656-ac8e-40d1-a8a9-4bd4cfa15f31
+ms.date: 06/08/2017
+---
+
+
+# Windows2 Property, Project [vbapj.chm132773]
+
+Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
+
+[Project.Windows2 Property (Project)](http://msdn.microsoft.com/library/0f10c401-d09b-82db-60ed-0f2b03b82656%28Office.15%29.aspx)
+
+[Application.Windows2 Property (Project)](http://msdn.microsoft.com/library/038d051c-769d-3a14-c884-7b4b669d3cc8%28Office.15%29.aspx)
+
+
