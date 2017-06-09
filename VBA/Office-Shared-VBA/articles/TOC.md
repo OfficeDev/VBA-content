@@ -1,4 +1,3 @@
-
 # Concepts
 ## [Getting Started with VBA in Office](getting-started-with-vba-in-office.md)
 ## [What's New for VBA in Office 2016](what-s-new-for-vba-in-office-2016.md)
@@ -10,7 +9,7 @@
 ## [Office VBA Object library reference](office-vba-object-library-reference.md)
 ## [Customize the Office Fluent Ribbon by Using an Open XML Formats File](customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
 ## [Customize the Office Fluent Ribbon by Using a Managed COM Add-in](customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
-## [About AutoSave](about-autosave.md)
+## [How AutoSave impacts add-ins and macros](how-autosave-impacts-addins-and-macros.md)
 # [Reference](reference-object-library-reference-for-office.md)
 ## [BulletFormat2 Object](bulletformat2-object-office.md)
 ### [BulletFormat2 Members](bulletformat2-members-office.md)
@@ -1898,4 +1897,3 @@
 ### [XlPivotFieldOrientation Enumeration](xlpivotfieldorientation-enumeration-office.md)
 ### [XlSizeRepresents Enumeration](xlsizerepresents-enumeration-office.md)
 ### [XlTimeUnit Enumeration](xltimeunit-enumeration-office.md)
-

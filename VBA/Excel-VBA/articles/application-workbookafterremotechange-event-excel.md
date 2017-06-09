@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAfterRemoteChange
-ms.assetid: application-workbookafterremotechange-event-excel
 ms.date: 06/08/2017
 ---
 
@@ -34,7 +33,7 @@ Nothing
 
 ## Example
 
-This example shows you where you can place code that runs after merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
+This example shows you where you can place code that runs after merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object.md).
 
 ```vb
 Private Sub App_WorkbookAfterRemoteChange(ByVal Wb As Workbook)
@@ -47,7 +46,7 @@ End Sub
 
 #### Concepts
 
-[AutoSave](../../Office-Shared-VBA/articles/about-autosave.md)
+[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 [Co-authoring](about-coauthoring-in-excel.md)
 

@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAfterSave
-ms.assetid: 4efa76bd-dd9f-3c7b-efa1-e1815ac8774d
 ms.date: 06/08/2017
 ---
 

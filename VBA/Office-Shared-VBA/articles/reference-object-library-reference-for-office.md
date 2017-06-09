@@ -22,4 +22,3 @@ This section of the object library for Microsoft Office  contains documentation 
 
 [What's New for VBA in Office 2016](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/c0294abb-bc0e-495d-b387-4398378dd3ad.md): Lists the new VBA language elements for Office 2016.
 
->>>>>>> Migration5

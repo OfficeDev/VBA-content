@@ -6,7 +6,6 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Workbook.autoSaveOn
-ms.assetid: workbook-autosaveon-property-excel
 ms.date: 06/08/2017
 ---
 
@@ -40,7 +39,7 @@ End Sub
 
 #### Concepts
 
-[AutoSave](about-autosave.md)
+[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 [Co-authoring](about-coauthoring-in-excel.md)
 
