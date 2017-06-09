@@ -377,5 +377,6 @@
 ### [Project Explorer Command (View Menu)](project-explorer-command-view-menu.md)
 ### [Project Explorer Keyboard Shortcuts](project-explorer-keyboard-shortcuts.md)
 # Glossary  
-## [Glossary](glossary-vba.md)
+## [VBA Glossary](glossary-vba.md)
+## [VBE Glossary](vbe-glossary.md)
 
