@@ -28,13 +28,13 @@ myVariable = Range("A1").Value
 
 Excel will not automatically update the value of `myVariable`, meaning that `myVariable` will not be kept in sync with a variable of the same name that's created by code running on the other co-authors' Excel instances.
 
-## Potential situations where you may need to adapt your solution to a co-authoring environment
+## Situations where you may need to adapt your solution to a co-authoring environment
 
 Because existing add-ins and macros can rely on Excel to seamlessly transmit the changes they make to the workbook to the co-authors, for the most part you can use your code in this new environment without making any changes or updates. However, in two particular cases, there may be problems that require you to adapt your code if you want it to work smoothly in a co-authoring setting:
 - [Add-ins that have an internal, in-memory state outside of the workbook content](#StateOfAddins)
 - [Add-ins that leverage events](#UseEvents)
 
-[**BeforeRemoteChange**](workbook-beforeremotechange-event-excel.md) and [**AfterRemoteChange**](workbook-afterremotechange-event-excel.md) events have been added which enable you to manage remote changes where applicable.
+[**BeforeRemoteChange**](workbook-beforeremotechange-event-excel.md) and [**AfterRemoteChange**](workbook-afterremotechange-event-excel.md) events were added to enable you to manage remote changes where applicable.
 
 ### <a name="StateOfAddins"></a>Add-ins that have an internal, in-memory state outside of the workbook content
 
@@ -62,7 +62,7 @@ There can be issues when your code uses save events like **BeforeSave** and **Af
 
 #### <a name="ChangeEvents"></a>Change events
 
-
+By default, your code usually does not need to handle changes from remote users. There are, however, some cases where handling remote changes may cause problems. A couple of sample scenarios are explored here.
 
 #### Sample scenario: Data validation
 
@@ -104,7 +104,7 @@ End Sub
 
 A change event is triggered and your add-in code synchronizes the data in the workbook with data in another part of the workbook or in an external system. If a remote user receives the change which causes the add-in code to synchronize the same data, this can lead to decreased performance for the remote user or data duplication in the external system.
 
-#### 
+### Potential issues with change events
 
 Although normally you would not want your event handler code to run in response to changes from a remote user, there are some exceptions where the default behavior of *not* firing change events could cause problems. This section will give some examples of these sorts of problems and explain how you can work around them by using **BeforeRemoteChange** and **AfterRemoteChange** events.
 
@@ -114,7 +114,7 @@ Your add-in plots data points on a map based on location data found in a particu
 
 #### Example
 
-Let's say that you have created a custom map. In this example, you could add code to change location data then update the map. The workbook is shared with someone in a different city. With autosave on, the change is passed to the remote user but this user's map will not be updated.
+Let's say that you have created a custom map. In this example, you could add code to change location data then update the map. The workbook is shared with someone in a different city. With AutoSave on, the change is passed to the remote user but that user's map will not be updated.
 
 ```vb
 Public Sub UpdateMap()
@@ -126,7 +126,7 @@ Private Sub Worksheet_Change(ByVal Target As Range)
 End Sub
 ```
 
- Now use the **AfterRemoteChange** event to add code that updates the map. Subsequent changes sent to the remote user will now be used to update the map.
+ Now use the **AfterRemoteChange** event to add code that updates the map. Subsequent changes sent to the remote user will be used to update the map.
 
 ```vb
 Private Sub Workbook_AfterRemoteChange()
