@@ -3,7 +3,7 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md,**/**.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -27,7 +27,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path":"/breadcrumb/toc.yml"
+    },
     "fileMetadata": {},
     "template": [
       null
