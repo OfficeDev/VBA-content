@@ -32,9 +32,8 @@
     "template": [
       null
     ],
-    "dest": "VBA"
-  },
-      "fileMetadata": { 
+    "dest": "VBA",
+         "fileMetadata": { 
        "ms.prod": 
        { 
          "VBA/Access-VBA/**.md": "access",
@@ -58,4 +57,6 @@
         "author": "o365devx",
         "ms.topic": "reference"
      }
+  }
+ 
 }
