@@ -31,8 +31,7 @@
     "template": [
       null
     ],
-    "dest": "VBA"
-  },
+    "dest": "VBA",
   "fileMetadata": { 
        "ms.prod": 
        { 
@@ -57,4 +56,6 @@
         "author": "o365devx",
         "ms.topic": "reference"
      }
+    
+  },
 }
