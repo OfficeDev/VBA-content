@@ -13,7 +13,7 @@ Co-authoring is available to all Excel Online users. This feature is also availa
 
 ## Introduction to co-authoring
 
-[Co-authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/about-autosave.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
+[Co-authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
 
 ## Principles of co-authoring
 
@@ -58,7 +58,7 @@ Your add-in or macro may already subscribe to save or change events. With the in
 
 #### <a name="SaveEvents"></a>Save events
 
-There can be issues when your code uses save events like **BeforeSave** and **AfterSave**. For more about that, take a look at [Potential issues with save events and AutoSave](../../Office-Shared-VBA/articles/about-autosave.md#IssuesWithSaveEventsAndAutoSave).
+There can be issues when your code uses save events like **BeforeSave** and **AfterSave**. For more about that, take a look at [Potential issues with save events and AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md#IssuesWithSaveEventsAndAutoSave).
 
 #### <a name="ChangeEvents"></a>Change events
 
@@ -145,7 +145,7 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 
 #### Concepts
 
-[AutoSave](../../Office-Shared-VBA/articles/about-autosave.md)
+[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 #### Additional resources
 
