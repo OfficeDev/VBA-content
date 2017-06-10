@@ -31,7 +31,6 @@
 ### [Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport.md)
 ### [Program with Class Modules](program-with-class-modules.md)
 ## Structured Query Language (SQL)
-### [Build SQL Statements](build-sql-statements-that-include-variables-and-controls.md)
 ### [Use International Date Formats in SQL Statements](use-international-date-formats-in-sql-statements.md)
 ### [Build SQL Statements that Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
 ### [Create and Delete Tables and Indexes Using Access SQL](create-and-delete-tables-and-indexes-using-access-sql.md)
