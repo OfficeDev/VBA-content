@@ -3,7 +3,7 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md,**/**.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -11,11 +11,13 @@
         ]
       }
     ],
+    
     "resource": [
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif"
         ],
         "exclude": [
           "**/obj/**",
@@ -25,11 +27,38 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path":"/breadcrumb/toc.yml"
+    },
     "fileMetadata": {},
     "template": [
       null
     ],
-    "dest": "VBA"
+    "dest": "VBA",
+  "fileMetadata": { 
+       "ms.prod": 
+       { 
+         "VBA/Access-VBA/**.md": "access",
+         "VBA/Excel-VBA/**.md": "excel",
+         "VBA/Outlook-VBA/**.md": "outlook",
+         "VBA/PowerPoint-VBA/**.md": "powerpoint",
+         "VBA/Project-VBA/**.md": "project",
+         "VBA/Publisher-VBA/**.md": "publisher",
+         "VBA/Visio-VBA/**.md": "visio",
+         "VBA/Word-VBA/**.md": "word",
+         "VBA/Language-Reference-VBA/**.md": "office",
+         "VBA/Office-F1-Landing/**.md": "office",
+         "VBA/Office-Mac-VBA/**.md": "office",
+         "VBA/Office-Shared-VBA/**.md": "office"
+       }
+     }, 
+     "globalMetadata": {
+        "ms.suite": "office365",
+        "ms.technology": "vba",
+        "ms.author": "o365devx",
+        "author": "o365devx",
+        "ms.topic": "reference"
+     }
   }
+ 
 }

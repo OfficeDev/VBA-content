@@ -1,8 +1,11 @@
+---
+title: Differentiate between Office for Mac versions at compile time
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Differentiate between Office for Mac versions at compile time
 
 Use a version conditional to differentiate between Office for Mac 2011 and Office 2016 for Mac.
-
-**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac | Office for Mac 2011*
 
