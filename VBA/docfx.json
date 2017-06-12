@@ -28,15 +28,14 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path":"/breadcrumb/toc.yml"
+      "breadcrumb_path":"/breadcrumb/toc.yml",
+        "ms.suite": "office365",
+        "ms.technology": "vba",
+        "ms.author": "o365devx",
+        "author": "o365devx",
+        "ms.topic": "reference"
     },
-    "fileMetadata": {},
-    "template": [
-      null
-    ],
-    "dest": "VBA",
-  "fileMetadata": { 
-       "ms.prod": 
+    "fileMetadata": {"ms.prod": 
        { 
          "VBA/Access-VBA/**.md": "access",
          "VBA/Excel-VBA/**.md": "excel",
@@ -50,15 +49,10 @@
          "VBA/Office-F1-Landing/**.md": "office",
          "VBA/Office-Mac-VBA/**.md": "office",
          "VBA/Office-Shared-VBA/**.md": "office"
-       }
-     }, 
-     "globalMetadata": {
-        "ms.suite": "office365",
-        "ms.technology": "vba",
-        "ms.author": "o365devx",
-        "author": "o365devx",
-        "ms.topic": "reference"
-     }
+       }},
+    "template": [
+      null
+    ],
+    "dest": "VBA"
   }
- 
 }
