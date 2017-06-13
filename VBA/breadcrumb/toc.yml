@@ -3,7 +3,7 @@
   topicHref: /vba/office-vba-reference
 items:
 - name: Access VBA
-  tocHref: /vba/access-vba
+  tocHref: /vba/access-vba/
   topicHref: /vba/vba-access
 - name: Excel VBA
   tocHref: /vba/vba-excel
