@@ -48,9 +48,7 @@
          "VBA/Office-Mac-VBA/**.md": "office",
          "VBA/Office-Shared-VBA/**.md": "office"
        }},
-    "template": [
-      null
-    ],
+     "template": "op.html",
     "dest": "VBA"
   }
 }
