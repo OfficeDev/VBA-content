@@ -3,7 +3,7 @@
 ## [Excel VBA](Excel-VBA/articles/TOC.md)
 ## [Language Reference VBA](Language-Reference-VBA/articles/TOC.md)
 ## [Office for Mac VBA](Office-Mac-VBA/TOC.md)
-## [Office VBA Object library reference](Office-Shared-VBA/articles/office-vba-object-library-reference.md)
+## [Office VBA Object library reference](Office-Shared-VBA/articles/TOC.md)
 ## [Outlook VBA](Outlook-VBA/articles/TOC.md)
 ## [PowerPoint VBA](PowerPoint-VBA/articles/TOC.md)
 ## [Project VBA](Project-VBA/articles/TOC.md)
