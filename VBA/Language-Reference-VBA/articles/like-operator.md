@@ -75,6 +75,11 @@ MyCheck = "a2a" Like "a#a"    ' Returns True.
 MyCheck = "aM5b" Like "a[L-P]#[!c-e]"    ' Returns True.
 MyCheck = "BAT123khg" Like "B?T*"    ' Returns True.
 MyCheck = "CAT123khg" Like "B?T*"    ' Returns False.
+MyCheck = "ab" Like "a*b"    ' Returns True.
+MyCheck = "a*b" Like "a[*]b"    ' Returns True.
+MyCheck = "axxxxxb" Like "a[*]b"    ' Returns False.
+MyCheck = "a[xyz" Like "a[[]*"    ' Returns True.
+MyCheck = "a[xyz" Like "a[*"    ' Throws Error 93 (invalid pattern string).
 ```
 
 
