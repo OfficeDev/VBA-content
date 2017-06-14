@@ -111,7 +111,7 @@ The following constants represent keys on the numeric keypad:
 |**vbKeyNumpad7**|0x67|7 key|
 |**vbKeyNumpad8**|0x68|8 key|
 |**vbKeyNumpad9**|0x69|9 key|
-|**vbKeyMultiply**|0x6A|MULTIPLICATION SIGN ( ***** ) key|
+|**vbKeyMultiply**|0x6A|MULTIPLICATION SIGN ( **\*** ) key|
 |**vbKeyAdd**|0x6B|PLUS SIGN ( **+** ) key|
 |**vbKeySeparator**|0x6C|ENTER key|
 |**vbKeySubtract**|0x6D|MINUS SIGN ( **-** ) key|

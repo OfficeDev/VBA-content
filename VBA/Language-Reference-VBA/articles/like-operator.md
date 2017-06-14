@@ -37,13 +37,13 @@ Built-in pattern matching provides a versatile tool for string comparisons. The 
 |**Characters in  _pattern_**|**Matches in  _string_**|
 |:-----|:-----|
 |**?**|Any single character.|
-|*****|Zero or more characters.|
+|**\***|Zero or more characters.|
 |**#**|Any single digit (0-9).|
 |[ _charlist_ ]|Any single character in  _charlist_.|
 |[ **!**_charlist_ ]|Any single character not in  _charlist_.|
 A group of one or more characters ( _charlist_ ) enclosed in brackets ( **[ ]** ) can be used to match any single character in _string_ and can include almost any[character code](vbe-glossary.md), including digits.
 
- **Note**  To match the special characters left bracket ( **[** ), question mark ( **?** ), number sign ( **#** ), and asterisk ( ***** ), enclose them in brackets. The right bracket ( **]** ) can't be used within a group to match itself, but it can be used outside a group as an individual character.
+ **Note**  To match the special characters left bracket ( **[** ), question mark ( **?** ), number sign ( **#** ), and asterisk ( **\*** ), enclose them in brackets. The right bracket ( **]** ) can't be used within a group to match itself, but it can be used outside a group as an individual character.
 
 By using a hyphen ( **-** ) to separate the upper and lower bounds of the range, _charlist_ can specify a range of characters. For example, `[A-Z]` results in a match if the corresponding character position in _string_ contains any uppercase letters in the range A-Z. Multiple ranges are included within the brackets without delimiters.
 The meaning of a specified range depends on the character ordering valid at [run time](vbe-glossary.md) (as determined by **Option Compare** and the[locale](vbe-glossary.md) setting of the system the code is running on). Using the **Option Compare Binary** example, the range `[A-E]` matches A, B and E. With **Option Compare Text**, `[A-E]` matches A, a, À, à, B, b, E, e. The range does not match Ê or ê because accented characters fall after unaccented characters in the sort order.

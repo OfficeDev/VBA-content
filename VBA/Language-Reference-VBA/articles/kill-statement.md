@@ -19,7 +19,7 @@ Deletes files from a disk.
 
 The required  _pathname_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that specifies one or more file names to be deleted. The _pathname_ may include the directory or folder, and the drive.
  **Remarks**
-In Microsoft Windows,  **Kill** supports the use of multiple-character ( ***** ) and single-character ( **?** ) wildcards to specify multiple files. However, on the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
+In Microsoft Windows,  **Kill** supports the use of multiple-character ( **\*** ) and single-character ( **?** ) wildcards to specify multiple files. However, on the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
 Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files to delete. You can use the  **MacID** function to specify file type instead of repeating the command with separate file names. For example, the following statement deletes all TEXT files in the current folder.
 
 
