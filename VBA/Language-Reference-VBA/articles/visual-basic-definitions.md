@@ -12,5 +12,6 @@ ms.date: 06/08/2017
 
 
 - [VBE Glossary](vbe-glossary.md)
+- [VBA Glossary](gossary-vba.md)
     
 
