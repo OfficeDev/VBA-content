@@ -1,5 +1,5 @@
 # [Office VBA Reference](Office-VBA-Reference.md)
-## [Access VBA](Access-VBA/articles/TOC.md)
+## [Access VBA](Access-VBA/articles/)
 ## [Excel VBA](Excel-VBA/articles/TOC.md)
 ## [Language Reference VBA](Language-Reference-VBA/articles/TOC.md)
 ## [Office for Mac VBA](Office-Mac-VBA/TOC.md)
