@@ -3,32 +3,32 @@
   topicHref: /VBA/Office-VBA-Reference
   items:
   - name: Access VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Access-VBA/
     topicHref: /VBA/VBA-access
   - name: Excel VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Excel-VBA/
     topicHref: /VBA/VBA-Excel
   - name: Language Reference VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Language-Reference-VBA/
     topicHref: /VBA/VBA-Language-Reference
   - name: Office for Mac VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Office-Mac-VBA
     topicHref: /VBA/VBA-Office-Mac
   - name: Outlook VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Outlook-VBA
     topicHref: /VBA/VBA-Outlook
   - name: PowerPoint VBA
-    tocHref: /VBA/
+    tocHref: /VBA/PowerPoint-VBA
     topicHref: /VBA/VBA-PowerPoint
   - name: Project VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Project-VBA
     topicHref: /VBA/VBA-Project
   - name: Publisher VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Publisher-VBA
     topicHref: /VBA/VBA-Publisher
   - name: Visio VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Visio-VBA
     topicHref: /VBA/VBA-Visio
   - name: Word VBA
-    tocHref: /VBA/
+    tocHref: /VBA/Word-VBA
     topicHref: /VBA/VBA-Word
