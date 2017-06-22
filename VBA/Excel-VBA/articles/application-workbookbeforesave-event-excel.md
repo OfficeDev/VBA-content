@@ -1,4 +1,4 @@
----
+O--
 title: Application.WorkbookBeforeSave Event (Excel)
 keywords: vbaxl10.chm504085
 f1_keywords:
@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Occurs before any open workbook is saved.
 
-**NOTE:** In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. Following the guidance in [this article](../../office-shared-vba/articles/how-autosave-impacts-addins-and-macros) will ensure that running code in response to the **WorkbookBeforeSave** event will function as intended when AutoSave is enabled.
+**NOTE:** In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. Following the guidance in [this article](../../Office-Shared-Vba/articles/how-autosave-impacts-addins-and-macros) will ensure that running code in response to the **WorkbookBeforeSave** event will function as intended when AutoSave is enabled.
 
 ## Syntax
 
