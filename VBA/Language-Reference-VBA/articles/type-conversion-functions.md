@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Type Conversion Functions
 
-Each function coerces an [expression](vbe-glossary.md) to a specific[data type](vbe-glossary.md).
+Each function coerces an [expression](vbe-glossary.md) to a specific [data type](vbe-glossary.md).
 
  **Syntax**
 
@@ -49,10 +49,11 @@ The function name determines the return type as shown in the following:
 |**CSng** [Single](vbe-glossary.md)|-3.402823E38 to -1.401298E-45 for negative values+ADs- 1.401298E-45 to 3.402823E38 for positive values.|
 |**CStr** [String](vbe-glossary.md)|AWw-Returns for CStr](returns-for-cstr.md) depend on the _expression_ argument.|
 |**CVar** [Variant](vbe-glossary.md)|Same range as  **Double** for numerics. Same range as **String** for non-numerics.|
- **Remarks**
+
+**Remarks**
 If the  _expression_ passed to the function is outside the range of the data type being converted to, an error occurs.
 
- **Note**  Conversion functions must be used to explicitly assign  **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
+ >**Note**  Conversion functions must be used to explicitly assign  **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
 
 In general, you can document your code using the data-type conversion functions to show that the result of some operation should be expressed as a particular data type rather than the default data type. For example, use  **CCur** to force currency arithmetic in cases where single-precision, double-precision, or integer arithmetic normally would occur.
 You should use the data-type conversion functions instead of  **Val** to provide internationally aware conversions from one data type to another. For example, when you use **CCur**, different decimal separators, different thousand separators, and various currency options are properly recognized depending on the [locale](vbe-glossary.md) setting of your computer.
