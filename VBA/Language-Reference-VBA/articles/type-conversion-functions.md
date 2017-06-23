@@ -32,6 +32,7 @@ Each function coerces an [expression](vbe-glossary.md) to a specific [data type]
 The required  _expression_ [argument](vbe-glossary.md) is any [string expression](vbe-glossary.md) or [numeric expression](vbe-glossary.md).
 
 **Return Types**
+
 The function name determines the return type as shown in the following:
 
 
@@ -51,7 +52,8 @@ The function name determines the return type as shown in the following:
 |**CStr** [String](vbe-glossary.md)|AWw-Returns for CStr](returns-for-cstr.md) depend on the _expression_ argument.|
 |**CVar** [Variant](vbe-glossary.md)|Same range as  **Double** for numerics. Same range as **String** for non-numerics.|
 
-**Remarks**
+## Remarks
+
 If the  _expression_ passed to the function is outside the range of the data type being converted to, an error occurs.
 
  >**Note**  Conversion functions must be used to explicitly assign  **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
