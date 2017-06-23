@@ -30,7 +30,8 @@ Each function coerces an [expression](vbe-glossary.md) to a specific [data type]
 - **CVar(**_expression_**)**
 
 The required  _expression_ [argument](vbe-glossary.md) is any [string expression](vbe-glossary.md) or [numeric expression](vbe-glossary.md).
- **Return Types**
+
+**Return Types**
 The function name determines the return type as shown in the following:
 
 
@@ -62,7 +63,7 @@ Use the  **IsDate** function to determine if _date_ can be converted to a date o
  **CDate** recognizes date formats according to the locale setting of your system. The correct order of day, month, and year may not be determined if it is provided in a format other than one of the recognized date settings. In addition, a long date format is not recognized if it also contains the day-of-the-week string.
 A  **CVDate** function is also provided for compatibility with previous versions of Visual Basic. The syntax of the **CVDate** function is identical to the **CDate** function, however, **CVDate** returns a **Variant** whose subtype is **Date** instead of an actual **Date** type. Since there is now an intrinsic **Date** type, there is no further need for **CVDate**. The same effect can be achieved by converting an expression to a **Date,** and then assigning it to a **Variant**. This technique is consistent with the conversion of all other intrinsic types to their equivalent **Variant** subtypes.
 
- **Note**  The  **CDec** function does not return a discrete data type+ADs- instead, it always returns a **Variant** whose value has been converted to a **Decimal** subtype.
+>**Note**  The  **CDec** function does not return a discrete data type+ADs- instead, it always returns a **Variant** whose value has been converted to a **Decimal** subtype.
 
 
 ## CBool Function Example
