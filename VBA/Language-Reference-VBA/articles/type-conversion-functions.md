@@ -78,7 +78,7 @@ Dim A, B, Check
 A = 5: B = 5 ' Initialize variables. 
 Check = CBool(A = B) ' Check contains True. 
  
-A   0 ' Define variable. 
+A = 0 ' Define variable. 
 Check = CBool(A) ' Check contains False. 
 
 ```
