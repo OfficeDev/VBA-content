@@ -1,5 +1,5 @@
 - name: Office VBA Reference
-  tocHref: /VBA/
+  tocHref: /VBA/breadcrumb/
   topicHref: /VBA/Office-VBA-Reference
   items:
   - name: Access VBA
