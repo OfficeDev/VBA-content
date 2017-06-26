@@ -75,11 +75,11 @@ This example uses the  **CBool** function to convert an expression to a **Boolea
 
 ```vb
 Dim A, B, Check 
-A +AD0- 5: B +AD0- 5 ' Initialize variables. 
-Check +AD0- CBool(A +AD0- B) ' Check contains True. 
+A = 5: B = 5 ' Initialize variables. 
+Check = CBool(A = B) ' Check contains True. 
  
-A +AD0- 0 ' Define variable. 
-Check +AD0- CBool(A) ' Check contains False. 
+A   0 ' Define variable. 
+Check = CBool(A) ' Check contains False. 
 
 ```
 
@@ -91,8 +91,8 @@ This example uses the  **CByte** function to convert an expression to a **Byte**
 
 ```vb
 Dim MyDouble, MyByte 
-MyDouble +AD0- 125.5678 ' MyDouble is a Double. 
-MyByte +AD0- CByte(MyDouble) ' MyByte contains 126. 
+MyDouble = 125.5678 ' MyDouble is a Double. 
+MyByte = CByte(MyDouble) ' MyByte contains 126. 
 
 ```
 
@@ -104,8 +104,8 @@ This example uses the  **CCur** function to convert an expression to a **Currenc
 
 ```vb
 Dim MyDouble, MyCurr 
-MyDouble +AD0- 543.214588 ' MyDouble is a Double. 
-MyCurr +AD0- CCur(MyDouble +ACo- 2) ' Convert result of MyDouble +ACo- 2 
+MyDouble = 543.214588 ' MyDouble is a Double. 
+MyCurr = CCur(MyDouble * 2) ' Convert result of MyDouble +ACo- 2 
  ' (1086.429176) to a 
  ' Currency (1086.4292). 
 
@@ -119,11 +119,11 @@ This example uses the  **CDate** function to convert a string to a **Date**. In 
 
 ```vb
 Dim MyDate, MyShortDate, MyTime, MyShortTime 
-MyDate +AD0- +ACI-February 12, 1969+ACI- ' Define date. 
-MyShortDate +AD0- CDate(MyDate) ' Convert to Date data type. 
+MyDate = February 12, 1969 ' Define date. 
+MyShortDate = CDate(MyDate) ' Convert to Date data type. 
  
-MyTime +AD0- +ACI-4:35:47 PM+ACI- ' Define time. 
-MyShortTime +AD0- CDate(MyTime) ' Convert to Date data type. 
+MyTime = 4:35:47 PM ' Define time. 
+MyShortTime = CDate(MyTime) ' Convert to Date data type. 
 
 ```
 
@@ -135,8 +135,8 @@ This example uses the  **CDbl** function to convert an expression to a **Double*
 
 ```vb
 Dim MyCurr, MyDouble 
-MyCurr +AD0- CCur(234.456784) ' MyCurr is a Currency. 
-MyDouble +AD0- CDbl(MyCurr +ACo- 8.2 +ACo- 0.01) ' Convert result to a Double. 
+MyCurr = CCur(234.456784) ' MyCurr is a Currency. 
+MyDouble = CDbl(MyCurr * 8.2 * 0.01) ' Convert result to a Double. 
 
 ```
 
@@ -148,8 +148,8 @@ This example uses the  **CDec** function to convert a numeric value to a **Decim
 
 ```vb
 Dim MyDecimal, MyCurr 
-MyCurr +AD0- 10000000.0587 ' MyCurr is a Currency. 
-MyDecimal +AD0- CDec(MyCurr) ' MyDecimal is a Decimal. 
+MyCurr = 10000000.0587 ' MyCurr is a Currency. 
+MyDecimal = CDec(MyCurr) ' MyDecimal is a Decimal. 
 
 ```
 
@@ -161,8 +161,8 @@ This example uses the  **CInt** function to convert a value to an **Integer**.
 
 ```vb
 Dim MyDouble, MyInt 
-MyDouble +AD0- 2345.5678 ' MyDouble is a Double. 
-MyInt +AD0- CInt(MyDouble) ' MyInt contains 2346. 
+MyDouble = 2345.5678 ' MyDouble is a Double. 
+MyInt = CInt(MyDouble) ' MyInt contains 2346. 
 
 ```
 
@@ -174,9 +174,9 @@ This example uses the  **CLng** function to convert a value to a **Long**.
 
 ```vb
 Dim MyVal1, MyVal2, MyLong1, MyLong2 
-MyVal1 +AD0- 25427.45: MyVal2 +AD0- 25427.55 ' MyVal1, MyVal2 are Doubles. 
-MyLong1 +AD0- CLng(MyVal1) ' MyLong1 contains 25427. 
-MyLong2 +AD0- CLng(MyVal2) ' MyLong2 contains 25428. 
+MyVal1 = 25427.45: MyVal2 = 25427.55 ' MyVal1, MyVal2 are Doubles. 
+MyLong1 = CLng(MyVal1) ' MyLong1 contains 25427. 
+MyLong2 = CLng(MyVal2) ' MyLong2 contains 25428. 
 
 ```
 
@@ -189,9 +189,9 @@ This example uses the  **CSng** function to convert a value to a **Single**.
 ```vb
 Dim MyDouble1, MyDouble2, MySingle1, MySingle2 
 ' MyDouble1, MyDouble2 are Doubles. 
-MyDouble1 +AD0- 75.3421115: MyDouble2 +AD0- 75.3421555 
-MySingle1 +AD0- CSng(MyDouble1) ' MySingle1 contains 75.34211. 
-MySingle2 +AD0- CSng(MyDouble2) ' MySingle2 contains 75.34216. 
+MyDouble1 = 75.3421115: MyDouble2 = 75.3421555 
+MySingle1 = CSng(MyDouble1) ' MySingle1 contains 75.34211. 
+MySingle2 = CSng(MyDouble2) ' MySingle2 contains 75.34216. 
 
 ```
 
@@ -203,8 +203,8 @@ This example uses the  **CStr** function to convert a numeric value to a **Strin
 
 ```vb
 Dim MyDouble, MyString 
-MyDouble +AD0- 437.324 ' MyDouble is a Double. 
-MyString +AD0- CStr(MyDouble) ' MyString contains +ACI-437.324+ACI-. 
+MyDouble = 437.324 ' MyDouble is a Double. 
+MyString = CStr(MyDouble) ' MyString contains +ACI-437.324+ACI-. 
 
 ```
 
@@ -216,8 +216,8 @@ This example uses the  **CVar** function to convert an expression to a **Variant
 
 ```vb
 Dim MyInt, MyVar 
-MyInt +AD0- 4534 ' MyInt is an Integer. 
-MyVar +AD0- CVar(MyInt +ACYAOw- +ACI-000+ACI-) ' MyVar contains the string 
+MyInt = 4534 ' MyInt is an Integer. 
+MyVar = CVar(MyInt & 000) ' MyVar contains the string 
  ' 4534000. 
 
 ```
