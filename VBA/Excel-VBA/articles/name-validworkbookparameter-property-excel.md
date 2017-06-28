@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.ValidWorkbookParameter Property (Excel)
 
-Returns  **True** if the specified **Name** object is a valid workbook parameter. Read-only **Boolen** .
+Returns  **True** if the specified **Name** object is a valid workbook parameter. Read-only **Boolean** .
 
 
 ## Syntax
