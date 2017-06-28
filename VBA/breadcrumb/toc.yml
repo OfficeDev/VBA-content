@@ -1,6 +1,6 @@
 - name: Office VBA Reference
   tocHref: /VBA/
-  topicHref: /VBA/index
+  topicHref: /VBA/Office-VBA-Reference
   items:
     - name: Access VBA
       tocHref: /VBA/Access-VBA/articles/
