@@ -12,8 +12,11 @@
       tocHref: /VBA/Language-Reference-VBA/articles/
       topicHref: /VBA/VBA-Language-Reference
     - name: Office for Mac VBA
-      tocHref: /VBA/Office-Mac-VBA/articles/
+      tocHref: /VBA/Office-Mac-VBA/
       topicHref: /VBA/VBA-Office-Mac
+    - name: Office VBA Object Library reference
+      tocHref: /VBA/Office-Shared-VBA/articles/
+      topicHref: /VBA/VBA-Library-Reference
     - name: Outlook VBA
       tocHref: /VBA/Outlook-VBA/articles/
       topicHref: /VBA/VBA-Outlook
