@@ -1,7 +1,3 @@
----
-redirect_url: https://msdn.microsoft.com/en-us/vba/office-vba-reference
----
-
 # Office VBA Reference
 
 Office Visual Basic for Applications (VBA) is an event-driven programming language that enables you to extend Office applications. 
