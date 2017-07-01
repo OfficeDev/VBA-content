@@ -3,8 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
-          ,"**/**.yml"
+          "**/*.md",
+          "**/**.yml"
         ],
         "exclude": [
           "**/obj/**"
@@ -27,7 +27,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path":"/breadcrumb/toc.yml",
+      "breadcrumb_path":"/VBA/breadcrumb/toc.json",
         "ms.suite": "office",
         "ms.technology": "vba",
         "ms.author": "o365devx",
