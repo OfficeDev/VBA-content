@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.Text Property (Access)
 
-You can use the  **Text** property to set or return the text contained in a text box. Read/write **String**.
+You can use the  **Text** property to set or return the text **Value** contained in a text box. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Text** property to set or return the text contained in a text
 
 ## Remarks
 
-You can set the  **Text** property to the text you want to display in the control. You can also use the **Text** property to read the text currently in the control.
+You can set the **Text** property to the text you want to display in the control. You can also use the **Text** property to read the text currently in the control.
 
 
  **Note**  To set or return a control's  **Text** property, the control must have the focus, or an error occurs. To move the focus to a control, you can use the **SetFocus** method or GoToControl action.
@@ -39,7 +39,7 @@ The following example uses the  **Text** property to enable a Next button named 
 
 
 ```vb
-Sub txtName_Change() 
+Sub txtName_Change()  
  btnNext.Enabled = Len(Me!txtName.Text &; "")<>0 
 End Sub
 ```
