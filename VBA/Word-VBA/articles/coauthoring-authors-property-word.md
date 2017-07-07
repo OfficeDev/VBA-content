@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.Authors Property (Word)
 
- Returns a **[CoAuthors](coauthors-object-word.md)** collection that represents all the co-authors currently editing the document. Read-only.
+ Returns a **[CoAuthors](coauthors-object-word.md)** collection that represents all the co authors currently editing the document. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The collection returned by this property is static. If this collection is stored
 
 ## Example
 
-The following code example gets all the co-authors currently editing the document.
+The following code example gets all the co authors currently editing the document.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthor.Locks Property (Word)
 
-Returns a [CoAuthLocks](coauthlocks-object-word.md) collection that represents the locks in the document that are associated with the specified co-author. Read-only.
+Returns a [CoAuthLocks](coauthlocks-object-word.md) collection that represents the locks in the document that are associated with the specified co author. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a [CoAuthLocks](coauthlocks-object-word.md) collection that represents t
 
 ## Example
 
-The following code example displays the number of locks that are associated with the first co-author in the active document.
+The following code example displays the number of locks that are associated with the first co author in the active document.
 
 
 ```vb

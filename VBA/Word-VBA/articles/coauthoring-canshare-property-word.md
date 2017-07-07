@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.CanShare Property (Word)
 
-Returns a  **Boolean** that specifies whether this document can be co-authored. Read-only.
+Returns a  **Boolean** that specifies whether this document can be co authored. Read-only.
 
 
 ## Syntax
@@ -30,13 +30,13 @@ The value of this property is affected by whether  **[CanMerge](coauthoring-canm
 
 ## Example
 
-The following code example displays whether the active document can be co-authored.
+The following code example displays whether the active document can be co authored.
 
 
 ```vb
 If ActiveDocument.CoAuthoring.CanShare Then 
-    MsgBox "This document can be co-authored." 
-Else: MsgBox "This document cannot be co-authored." 
+    MsgBox "This document can be co authored." 
+Else: MsgBox "This document cannot be co authored." 
 End If
 ```
 

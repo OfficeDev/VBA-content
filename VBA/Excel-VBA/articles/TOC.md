@@ -1,7 +1,7 @@
 # [Introduction to Excel VBA](../../VBA-Excel.md)
 # Concepts
 ## [About the PowerPivot Model Object in Excel](about-the-powerpivot-model-object-in-excel.md)
-## [About co-authoring](about-coauthoring-in-excel.md)
+## [About co authoring](about-coauthoring-in-excel.md)
 ## [Language-specific Properties, Methods, and Functions](language-specific-properties-methods-and-functions.md)
 ### [OLE DB for OLAP Properties Used by Excel](ole-db-for-olap-properties-used-by-excel.md)
 ### [Programming for the Single Document Interface in Excel](programming-for-the-single-document-interface-in-excel.md)

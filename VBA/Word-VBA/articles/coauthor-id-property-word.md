@@ -30,7 +30,7 @@ The unique identifier returned by the  **ID** property should not be assumed to 
 
 ## Example
 
-The following code example displays the unique identifier for each co-author in the active document.
+The following code example displays the unique identifier for each co author in the active document.
 
 
 ```vb

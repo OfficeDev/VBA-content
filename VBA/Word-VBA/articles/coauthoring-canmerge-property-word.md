@@ -25,7 +25,7 @@ Returns a  **Boolean** that specifies whether the document can be auto-merged. R
 
 ## Remarks
 
-Only documents stored on a server that supports the File Synchronization via SOAP over HTTP protocol can be co-authored, for example, SharePoint Server 2010. Additionally, a document that has the following features cannot be auto-merged:
+Only documents stored on a server that supports the File Synchronization via SOAP over HTTP protocol can be co authored, for example, SharePoint Server 2010. Additionally, a document that has the following features cannot be auto-merged:
 
 
 - Digital Rights Management

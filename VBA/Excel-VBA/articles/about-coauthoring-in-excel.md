@@ -1,23 +1,23 @@
 ---
-title: About co-authoring in Excel
+title: About co authoring in Excel
 ms.prod: excel
 ms.date: 06/08/2017
 ---
 
 
-# About co-authoring in Excel
+# About co authoring in Excel
 
-Learn about how co-authoring works in Excel and how you may need to adjust your add-in or macro for smooth integration with co-authoring.
+Learn about how co authoring works in Excel and how you may need to adjust your add-in or macro for smooth integration with co authoring.
 
-Co-authoring is available to all Excel Online users. This feature is also available on Excel for Windows Desktop but only to Office 365 customers.
+co authoring is available to all Excel Online users. This feature is also available on Excel for Windows Desktop but only to Office 365 customers.
 
-## Introduction to co-authoring
+## Introduction to co authoring
 
 [Co-authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
 
-## Principles of co-authoring
+## Principles of co authoring
 
-Excel will automatically synchronize changes that are made to the workbook (whether by a user or your code). For example, let's say that code is running on a user's instance and modifies the contents of a cell like this: `Range("A1").Value = "myNewValue"`. Excel would take care of sending this change to other co-authors. Now let's say there's code running on another user's instance that inspects the contents of that cell like this: `MsgBox Range("A1").Value`. The second user would see the value "myNewValue" which had been set by the first user.
+Excel will automatically synchronize changes that are made to the workbook (whether by a user or your code). For example, let's say that code is running on a user's instance and modifies the contents of a cell like this: `Range("A1").Value = "myNewValue"`. Excel would take care of sending this change to other co authors. Now let's say there's code running on another user's instance that inspects the contents of that cell like this: `MsgBox Range("A1").Value`. The second user would see the value "myNewValue" which had been set by the first user.
 
 However, Excel will **not** automatically synchronize any variables created by your code outside of the workbook content. For example, let's say that your code reads a value from a cell then loads it into a variable:
 
@@ -26,11 +26,11 @@ Dim myVariable
 myVariable = Range("A1").Value
 ```
 
-Excel will not automatically update the value of `myVariable`, meaning that `myVariable` will not be kept in sync with a variable of the same name that's created by code running on the other co-authors' Excel instances.
+Excel will not automatically update the value of `myVariable`, meaning that `myVariable` will not be kept in sync with a variable of the same name that's created by code running on the other co authors' Excel instances.
 
-## Situations where you may need to adapt your solution to a co-authoring environment
+## Situations where you may need to adapt your solution to a co authoring environment
 
-Because existing add-ins and macros can rely on Excel to seamlessly transmit the changes they make to the workbook to the co-authors, for the most part you can use your code in this new environment without making any changes or updates. However, in two particular cases, there may be problems that require you to adapt your code if you want it to work smoothly in a co-authoring setting:
+Because existing add-ins and macros can rely on Excel to seamlessly transmit the changes they make to the workbook to the co authors, for the most part you can use your code in this new environment without making any changes or updates. However, in two particular cases, there may be problems that require you to adapt your code if you want it to work smoothly in a co authoring setting:
 - [Add-ins that have an internal, in-memory state outside of the workbook content](#StateOfAddins)
 - [Add-ins that leverage events](#UseEvents)
 
@@ -40,7 +40,7 @@ Because existing add-ins and macros can rely on Excel to seamlessly transmit the
 
 Imagine an add-in that allows the user to create custom charts based on data in an Excel workbook. This add-in loads data for the user's charts into a hidden sheet in the workbook. When a file containing the custom charts is opened, the add-in reads data on the hidden sheet and loads the chart into memory. As the user makes edits to the chart, this in-memory structure is updated and re-written to the file before each save. This add-in assumes that the only time it is necessary to read the hidden sheet and load it into memory is when the file is opened. 
 
-Co-authoring opens another possibility: the hidden sheet could be modified by another user running the same add-in at the same time. If this occurs, the charts that the users are viewing might become out of sync. For example:
+co authoring opens another possibility: the hidden sheet could be modified by another user running the same add-in at the same time. If this occurs, the charts that the users are viewing might become out of sync. For example:
 - Suppose User A opens the file and starts viewing an existing custom chart.
 - While she is doing this, User B opens the same file and starts making changes to the custom chart (for example, changes the type of chart).
 - That change would be saved to the sheet by the add-in on User B’s computer, but User A would never see the change until she reloaded the file.
@@ -51,7 +51,7 @@ As much as possible try to avoid making assumptions about when workbook data can
 
 ### <a name="UseEvents"></a>Add-ins that leverage events
 
-Your add-in or macro may already subscribe to save or change events. With the introduction of co-authoring, there is the potential for:
+Your add-in or macro may already subscribe to save or change events. With the introduction of co authoring, there is the potential for:
 
 - [Issues with **BeforeSave** or **AfterSave** events](#SaveEvents)
 - [Issues with Change events](#ChangeEvents)
@@ -149,4 +149,4 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 
 #### Additional resources
 
-[Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
+[Collaborate on Excel workbooks at the same time with co authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)

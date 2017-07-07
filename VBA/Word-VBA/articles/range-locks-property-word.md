@@ -28,7 +28,7 @@ Returns a  **[CoAuthLocks](coauthlocks-object-word.md)** collection object that 
 Use the  **Locks** property to return the **[CoAuthLocks](coauthlocks-object-word.md)** collection.
 
 
- **Note**  This property is only available for co-authoring enabled documents. If you attempt to access this property on a document that is not enabled for co-authoring, you will receive a run-time error.
+ **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.
 
 
 ## Example

@@ -112,7 +112,7 @@ End Sub
 
 #### Concepts
 
-[Co-authoring](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
+[co authoring](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
 
 [Workbook Object](../../Excel-VBA/articles/workbook-object-excel.md)
 

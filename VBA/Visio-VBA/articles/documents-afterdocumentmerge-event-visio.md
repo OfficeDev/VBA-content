@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Documents.AfterDocumentMerge Event (Visio)
 
-Occurs when Visio incorporates changes from other users? versions of a document into a merged, co-authored document.
+Occurs when Visio incorporates changes from other users? versions of a document into a merged, co authored document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Occurs when Visio incorporates changes from other users? versions of a document 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |||||
-| _coauthMergeObjects_|Required|IVCOAUTHMERGEEVENT|An object that represents different versions of the merged, co-authored document.|
+| _coauthMergeObjects_|Required|IVCOAUTHMERGEEVENT|An object that represents different versions of the merged, co authored document.|
 
 ## See also
 

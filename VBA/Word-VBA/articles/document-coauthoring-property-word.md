@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CoAuthoring Property (Word)
 
-Returns a [CoAuthoring](coauthoring-object-word.md) object that provides the entry point into the co-authoring object model. Read-only.
+Returns a [CoAuthoring](coauthoring-object-word.md) object that provides the entry point into the co authoring object model. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a [CoAuthoring](coauthoring-object-word.md) object that provides the ent
 
 ## Remarks
 
-The [CoAuthoring](coauthoring-object-word.md) object provides information about co-authoring at the document level. For example, the[CoAuthoring](coauthoring-object-word.md) object can provide information about whether there are any locks in the document, which users have current locks on the document, or whether or not updates to the document content is available from the server. Use the **CoAuthoring** property to return the[CoAuthoring](coauthoring-object-word.md) object.
+The [CoAuthoring](coauthoring-object-word.md) object provides information about co authoring at the document level. For example, the[CoAuthoring](coauthoring-object-word.md) object can provide information about whether there are any locks in the document, which users have current locks on the document, or whether or not updates to the document content is available from the server. Use the **CoAuthoring** property to return the[CoAuthoring](coauthoring-object-word.md) object.
 
 
 ## Example

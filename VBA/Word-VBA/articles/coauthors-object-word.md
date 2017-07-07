@@ -15,12 +15,12 @@ A collection of all the  **[CoAuthor](coauthor-object-word.md)** objects in the 
 
 ## Remarks
 
-The  **CoAuthors** collection contains all the co-authors in the document (authors that are actively editing the document).
+The  **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
 ## Example
 
-The following code example gets the number of co-authors in the active document.
+The following code example gets the number of co authors in the active document.
 
 
 ```vb
@@ -28,7 +28,7 @@ Dim i As Integer
  
 i = ActiveDocument.CoAuthoring.Authors.Count 
  
-MsgBox "The number of co-authors is " &; i
+MsgBox "The number of co authors is " &; i
 ```
 
 
