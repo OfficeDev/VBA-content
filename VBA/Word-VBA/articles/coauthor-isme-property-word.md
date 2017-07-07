@@ -25,7 +25,7 @@ Returns true if this author represents the current user. Read-only.
 
 ## Example
 
-The following code example checks the active document to see if the first co-author in the CoAuthors collection is the current user.
+The following code example checks the active document to see if the first co author in the CoAuthors collection is the current user.
 
 
 ```vb

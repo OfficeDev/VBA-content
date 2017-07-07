@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Ephemeral locks are automatically applied to a range when a co-author begins to edit a document that has co-authoring enabled.
+Ephemeral locks are automatically applied to a range when a co author begins to edit a document that has co authoring enabled.
 
 
 ## Example

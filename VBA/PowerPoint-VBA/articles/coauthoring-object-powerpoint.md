@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Coauthoring Object (PowerPoint)
 
-Contains properties and methods for manipulating co-authoring in a presentation.
+Contains properties and methods for manipulating co authoring in a presentation.
 
 
 ## Remarks

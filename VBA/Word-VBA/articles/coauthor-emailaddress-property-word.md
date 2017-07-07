@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthor.EmailAddress Property (Word)
 
-Returns a string that specifies the e-mail address of the specified co-author. Read-only.
+Returns a string that specifies the e-mail address of the specified co author. Read-only.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns a string that specifies the e-mail address of the specified co-author. R
 
 ## Example
 
-The following code example displays the e-mail address of the first co-author in the active document.
+The following code example displays the e-mail address of the first co author in the active document.
 
 
 ```vb
 If ActiveDocument.CoAuthoring.Authors.Count <> 0 Then 
  MsgBox ActiveDocument.CoAuthoring.Authors(1).EmailAddress 
 Else
- MsgBox "There are no co-authors in this document."
+ MsgBox "There are no co authors in this document."
 End If 
  
 

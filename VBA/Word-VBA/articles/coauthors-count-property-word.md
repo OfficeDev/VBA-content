@@ -25,7 +25,7 @@ Returns the number of items in the [CoAuthors](coauthors-object-word.md) collect
 
 ## Example
 
-The following code example displays the number of co-authors in the active document.
+The following code example displays the number of co authors in the active document.
 
 
 ```vb

@@ -109,7 +109,7 @@ An add-in might completely override the default Word save code so that the file 
 
 #### Concepts
 
-[Co-authoring in Excel](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
+[Co authoring in Excel](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
 
 [Workbook Object](../../Excel-VBA/articles/workbook-object-excel.md)
 
