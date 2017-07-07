@@ -13,7 +13,7 @@ co authoring is available to all Excel Online users. This feature is also availa
 
 ## Introduction to co authoring
 
-[Co-authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
+[Co authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
 
 ## Principles of co authoring
 
@@ -40,7 +40,7 @@ Because existing add-ins and macros can rely on Excel to seamlessly transmit the
 
 Imagine an add-in that allows the user to create custom charts based on data in an Excel workbook. This add-in loads data for the user's charts into a hidden sheet in the workbook. When a file containing the custom charts is opened, the add-in reads data on the hidden sheet and loads the chart into memory. As the user makes edits to the chart, this in-memory structure is updated and re-written to the file before each save. This add-in assumes that the only time it is necessary to read the hidden sheet and load it into memory is when the file is opened. 
 
-co authoring opens another possibility: the hidden sheet could be modified by another user running the same add-in at the same time. If this occurs, the charts that the users are viewing might become out of sync. For example:
+Co authoring opens another possibility: the hidden sheet could be modified by another user running the same add-in at the same time. If this occurs, the charts that the users are viewing might become out of sync. For example:
 - Suppose User A opens the file and starts viewing an existing custom chart.
 - While she is doing this, User B opens the same file and starts making changes to the custom chart (for example, changes the type of chart).
 - That change would be saved to the sheet by the add-in on User B’s computer, but User A would never see the change until she reloaded the file.
@@ -149,4 +149,4 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 
 #### Additional resources
 
-[Collaborate on Excel workbooks at the same time with co authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
+[Collaborate on Excel workbooks at the same time with co authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
