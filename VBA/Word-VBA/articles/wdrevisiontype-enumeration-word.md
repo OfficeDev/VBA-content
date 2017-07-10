@@ -22,8 +22,8 @@ Specifies the type of a change that is marked with a revision mark.
 | **wdRevisionCellMerge**|18|Table cells merged.|
 | **wdRevisionCellSplit**|19|This object, member, or enumeration is deprecated and is not intended to be used in your code.|
 | **wdRevisionConflict**|7|Revision marked as a conflict.|
-| **wdRevisionConflictDelete**|21|Deletion revision conflict in a co authored document.|
-| **wdRevisionConflictInsert**|20|Insertion revision conflict in a co authored document|
+| **wdRevisionConflictDelete**|21|Deletion revision conflict in a coauthored document.|
+| **wdRevisionConflictInsert**|20|Insertion revision conflict in a coauthored document|
 | **wdRevisionDelete**|2|Deletion.|
 | **wdRevisionDisplayField**|5|Field display changed.|
 | **wdRevisionInsert**|1|Insertion.|
