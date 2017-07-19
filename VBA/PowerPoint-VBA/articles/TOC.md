@@ -1465,6 +1465,7 @@
 ### [Item Method](points-item-method-powerpoint.md)
 ## [Presentation Object](presentation-object-powerpoint.md)
 ### [Application Property](presentation-application-property-powerpoint.md)
+### [AutoSaveOn Property](presentation-autosaveon-property-powerpoint.md)
 ### [Broadcast Property](presentation-broadcast-property-powerpoint.md)
 ### [BuiltInDocumentProperties Property](presentation-builtindocumentproperties-property-powerpoint.md)
 ### [ChartDataPointTrack Property](presentation-chartdatapointtrack-property-powerpoint.md)
