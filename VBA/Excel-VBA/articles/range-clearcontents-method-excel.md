@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ClearContents Method (Excel)
 
-Clears the formulas from the range.
+Clears the values and formulas from the range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Example
 
-This example clears the formulas from cells A1:G37 on Sheet1 but leaves the formatting intact.
+This example clears the values and formulas from cells A1:G37 on Sheet1 but leaves the formatting intact.
 
 
 ```vb
