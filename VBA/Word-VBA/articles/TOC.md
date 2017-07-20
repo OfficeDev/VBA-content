@@ -1429,7 +1429,7 @@
 ### [AttachedTemplate Property](document-attachedtemplate-property-word.md)
 ### [AutoFormatOverride Property](document-autoformatoverride-property-word.md)
 ### [AutoHyphenation Property](document-autohyphenation-property-word.md)
-### [AutoSaveon Property](document-autosaveon-property-word.md)
+### [AutoSaveOn Property](document-autosaveon-property-word.md)
 ### [Background Property](document-background-property-word.md)
 ### [Bibliography Property](document-bibliography-property-word.md)
 ### [Bookmarks Property](document-bookmarks-property-word.md)
