@@ -1,13 +1,13 @@
 ---
 title: How AutoSave impacts add-ins and macros
 ms.prod: office
-ms.date: 07/19/2017
+ms.date: 07/28/2017
 ---
 
 
 # How AutoSave impacts add-ins and macros
 
-Learn about how AutoSave works in Excel, PowerPoint, and Word and how it can impact add-ins or macros. For more about how AutoSave works in general, see ["What is AutoSave?"](https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5).
+Learn about how AutoSave works in Excel, PowerPoint, and Word and how it can impact add-ins or macros. For more about how AutoSave works in general, see ["What is AutoSave?"][AutoSaveArticle].
 
 ## Overview of AutoSave
 
@@ -17,7 +17,7 @@ Currently, Excel, Word, and PowerPoint provide a **BeforeSave** event that allow
 
 When AutoSave is enabled, these events will fire automatically on a periodic basis without user interaction. Because of this new behavior when AutoSave is enabled, add-ins and macros that leverage these events may experience problems when AutoSave is on.
 
-In general, these issues can be avoided if the user chooses to disable AutoSave. You can do this on the user’s behalf using the [**AutoSaveOn**](../../Excel-VBA/articles/workbook-autosaveon-property-excel.md) property if it's available (see the [example](#example) below). You can also take steps as a developer to mitigate these potential problems so that your add-ins and macros work smoothly, even if AutoSave is enabled.
+In general, these issues can be avoided if the user chooses to disable AutoSave. You can do this on the user’s behalf using the **AutoSaveOn** property in [Word][AutoSaveOn_Word], [Excel][AutoSaveOn_Excel], and [PowerPoint][AutoSaveOn_PowerPoint] if it's available (see the [example](#example) below). You can also take steps as a developer to mitigate these potential problems so that your add-ins and macros work smoothly, even if AutoSave is enabled.
 
 ### <a name="example"></a>Example
 
@@ -119,18 +119,24 @@ An add-in might completely override the default Word save code so that the file 
 
 #### Additional resources
 
-[What is AutoSave?](https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+[What is AutoSave?][AutoSaveArticle]
 
-[**AutoSaveOn** property in Excel](../../Excel-VBA/articles/workbook-autosaveon-property-excel.md)
+[**AutoSaveOn** property in Excel][AutoSaveOn_Excel]
 
 [**AfterSave** event in Excel](../../Excel-VBA/articles/application-workbookaftersave-event-excel.md)
 
 [**BeforeSave** event in Excel](../../Excel-VBA/articles/application-workbookbeforesave-event-excel.md)
 
-[**AutoSaveOn** property in PowerPoint](../../PowerPoint-VBA/articles/presentation-autosaveon-property-powerpoint.md)
+[**AutoSaveOn** property in PowerPoint][AutoSaveOn_PowerPoint]
 
 [**BeforeSave** event in PowerPoint](../../PowerPoint-VBA/articles/application-presentationbeforesave-event-powerpoint.md)
 
-[**AutoSaveOn** property in Word](../../Word-VBA/articles/document-autosaveon-property-word.md)
+[**AutoSaveOn** property in Word][AutoSaveOn_Word]
 
 [**BeforeSave** event in Word](../..//Word-VBA/articles/application-documentbeforesave-event-word.md)
+
+[comment]: # (Local shared links)
+[AutoSaveArticle]: "https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5"
+[AutoSaveOn_Excel]: "../../Excel-VBA/articles/workbook-autosaveon-property-excel.md"
+[AutoSaveOn_PowerPoint]: "../../PowerPoint-VBA/articles/presentation-autosaveon-property-powerpoint.md"
+[AutoSaveOn_Word]: "../../Word-VBA/articles/document-autosaveon-property-word.md"
