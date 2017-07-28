@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Display and Use the File Dialog Box
 
-The  **[FileDialog](application-filedialog-property-access.md)** object allows you to display the file dialog box used by Access and to determine what files were selected by the user. The **[SelectedItems](http://msdn.microsoft.com/library/af45013a-c745-3f14-9c12-64a1c2b50279%28Office.15%29.aspx)** property of the **FileDialog** object contains the paths to the files selected by the user. By using a **For...Each** loop, you can enumerate this collection and display each file.
+The  **[FileDialog](application-filedialog-property-access.md)** object allows you to display the file dialog box used by Access and to determine what files were selected by the user. The **[SelectedItems](../../Office-Shared-VBA/articles/filedialog-selecteditems-property-office.md)** property of the **FileDialog** object contains the paths to the files selected by the user. By using a **For...Each** loop, you can enumerate this collection and display each file.
 
 The following example adds the files selected by the user to a list box named FileList.
 
