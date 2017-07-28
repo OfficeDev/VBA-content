@@ -136,7 +136,11 @@ An add-in might completely override the default Word save code so that the file 
 [**BeforeSave** event in Word](../..//Word-VBA/articles/application-documentbeforesave-event-word.md)
 
 [comment]: # (Local shared links)
-[AutoSaveArticle]: "https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5"
-[AutoSaveOn_Excel]: "../../Excel-VBA/articles/workbook-autosaveon-property-excel.md"
-[AutoSaveOn_PowerPoint]: "../../PowerPoint-VBA/articles/presentation-autosaveon-property-powerpoint.md"
-[AutoSaveOn_Word]: "../../Word-VBA/articles/document-autosaveon-property-word.md"
+
+[AutoSaveArticle]: https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5
+
+[AutoSaveOn_Excel]: ../../Excel-VBA/articles/workbook-autosaveon-property-excel.md
+
+[AutoSaveOn_PowerPoint]: ../../PowerPoint-VBA/articles/presentation-autosaveon-property-powerpoint.md
+
+[AutoSaveOn_Word]: ../../Word-VBA/articles/document-autosaveon-property-word.md
