@@ -25,6 +25,7 @@ _expression_ A variable that represents a **Workbook** object.
 When a new workbook is created, the default value for the **AutoSaveOn** property is **False**, the property is disabled, and the user's changes will need to be saved manually. However, if the workbook is hosted on the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online), then the **AutoSaveOn** property defaults to **True** and the edits in the specified workbook are automatically saved. If a cloud-hosted workbook is shared with other users, then their changes will also be automatically merged into the user's local copy when **AutoSaveOn** is **True**.
 
 **Table 1 AutoSaveOn behavior**
+
 |`AutoSaveOn` Toggle State|Set `AutoSaveOn` to True|Set `AutoSaveOn` to False|
 |:-----|:-----|:-----|
 |`AutoSaveOn == True`|No-op|`AutoSaveOn` turned off|
