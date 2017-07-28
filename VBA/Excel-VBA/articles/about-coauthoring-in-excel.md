@@ -1,7 +1,7 @@
 ---
 title: About coauthoring in Excel
 ms.prod: excel
-ms.date: 06/08/2017
+ms.date: 07/19/2017
 ---
 
 
@@ -9,11 +9,11 @@ ms.date: 06/08/2017
 
 Learn about how coauthoring works in Excel and how you may need to adjust your add-in or macro for smooth integration with coauthoring.
 
-coauthoring is available to all Excel Online users. This feature is also available on Excel for Windows Desktop but only to Office 365 customers.
+Coauthoring is available to all Excel Online users. This feature is also available on Excel for Windows Desktop but only to Office 365 customers.
 
 ## Introduction to coauthoring
 
-[Co authoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
+[Coauthoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, then you can turn off AutoSave until you're ready to share your changes and receive others' changes.
 
 ## Principles of coauthoring
 

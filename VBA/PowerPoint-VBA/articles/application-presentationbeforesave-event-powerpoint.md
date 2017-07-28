@@ -79,3 +79,4 @@ End Sub
 
 [Application Object](application-object-powerpoint.md)
 
+[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)

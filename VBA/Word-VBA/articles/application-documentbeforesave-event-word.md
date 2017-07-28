@@ -70,3 +70,4 @@ End Sub
 
 [Application Object](application-object-word.md)
 
+[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
