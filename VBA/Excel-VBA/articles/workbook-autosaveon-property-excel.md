@@ -37,7 +37,6 @@ This example notifies you whether the workbook is set to be automatically saved 
 
 ```vb
 Sub UseAutoSaveOn()
-    ActiveWorkbook.AutoSaveOn = True
     MsgBox "This workbook is being saved automatically: " & ActiveWorkbook.AutoSaveOn
 End Sub
 ```

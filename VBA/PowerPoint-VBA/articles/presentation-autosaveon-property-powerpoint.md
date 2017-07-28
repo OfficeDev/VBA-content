@@ -37,7 +37,6 @@ This example notifies you whether the presentation is set to be automatically sa
 
 ```vb
 Sub UseAutoSaveOn()
-    ActivePresentation.AutoSaveOn = True
     MsgBox "This presentation is being saved automatically: " & ActivePresentation.AutoSaveOn
 End Sub
 ```

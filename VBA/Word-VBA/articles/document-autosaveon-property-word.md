@@ -37,7 +37,6 @@ This example notifies you whether the document is set to be automatically saved 
 
 ```vb
 Sub UseAutoSaveOn()
-    ActiveDocument.AutoSaveOn = True
     MsgBox "This document is being saved automatically: " & ActiveDocument.AutoSaveOn
 End Sub
 ```
