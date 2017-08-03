@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Save Method (Word)
 
-Save the specified document.
+Saves the specified document.
 
 
 ## Syntax
