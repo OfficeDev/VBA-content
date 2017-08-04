@@ -18,18 +18,11 @@ This message is displayed when an error generated with the  **Raise** method or 
 - Your application executed an  **Err.Raise**_n_ or **Error**_n_ statement, but the number _n_ isn't defined by Visual Basic for Applications. If this was what was intended, you must use **Err.Raise** and specify additional arguments so that an end user can understand the nature of the error. For example, you can include a description string, source, and help information. To regenerate an error that you trapped, this approach will work if you don't execute **Err.Clear** before regenerating the error. If you execute **Err.Clear** first, you must fill in the additional arguments to the **Raise** method. Look at the context in which the error occurred, and make sure you are regenerating the same error.
     
 - It may be that in accessing objects from other applications, an error was propagated back to your program that can't be mapped to a Visual Basic error.
+
+Check the documentation for any objects you have accessed. The  **Err** object's **Source** property should contain the programmatic ID of the application or object that generated the error. To understand the context of an error returned by an object, you may want to use the **On Error Resume Next** construct in code that accesses objects, rather than the **On Error GoTo**_line_ syntax.
     
-```vb
-For index = 1 to 500 
-    Debug.Print Error$(index) 
-Next index 
-```
-
-
-    Check the documentation for any objects you have accessed. The  **Err** object's **Source** property should contain the programmatic ID of the application or object that generated the error. To understand the context of an error returned by an object, you may want to use the **On Error Resume Next** construct in code that accesses objects, rather than the **On Error GoTo**_line_ syntax.
-    
-     **Note**  In the past, programmers often used a loop to print out a list of all trappable error message strings. Typically this was done with code such as the following:
-
+## Note
+In the past, programmers often used a loop to print out a list of all trappable error message strings. Typically this was done with code such as the following:
 
 
 ```vb
@@ -39,7 +32,7 @@ Next index
 ```
 
 
-     **Note**  Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](vbe-glossary.md). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
+Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable [run-time errors](vbe-glossary.md). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type **Trappable** in the first text box, and then click **Show Topics**. Select **Trappable Errors** in the lower list box and click **Go To**.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
