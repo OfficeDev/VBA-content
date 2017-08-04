@@ -66,7 +66,7 @@ An add-in that validates a Word document before save to ensure that company bran
 
 - If you want validation code to trigger only on the first save from a new document but not on subsequent auto-saves, consider inspecting a property like Excel's **Workbook.Path** before displaying any UI during **BeforeSave** or **AfterSave**. In Excel, the **Workbook.Path** property should be blank if the workbook does not yet have a save location.
 
-### <a name="Issue3"></a>Issue 3: Code in save events causes the undo stack to get blown away (Excel Only)
+### <a name="Issue3"></a>Issue 3: Code in save events clears the undo stack (Excel Only)
 
 In general, if you run certain VBA statements in Excel, the undo stack will be cleared. For example, if you change the value of a cell by running
 `ActiveCell.Value = "myValue"`, the undo stack will be cleared. If such code is present in the **BeforeSave** or **AfterSave** event for a particular macro or add-in and AutoSave is on, a user of that macro or add-in will frequently not be able to undo normal user actions as expected.
