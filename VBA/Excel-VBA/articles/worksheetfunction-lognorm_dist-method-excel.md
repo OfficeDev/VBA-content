@@ -49,7 +49,7 @@ Double
 - If x ? 0 or if standard_dev ? 0, LOGNORM_DIST returns the #NUM! error value.
     
 - The equation for the lognormal cumulative distribution function is:
-![](images/LOGNORM_DIST_ZA10390996.jpg)
+![Equation for the lognormal cumulative distribution function](images/LOGNORM_DIST_ZA10390996.jpg)
 
 
     
