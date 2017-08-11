@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.ListTemplates Property (Word)
 
-Returns a  **[ListTemplates](listtemplates-object-word.md)** collection that represents all the list formats for the specified document, template, or list gallery. Read-only.
+Returns a  **[ListTemplates](listtemplates-object-word.md)** collection that represents all the list formats for the specified template. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ListTemplates](listtemplates-object-word.md)** collection that rep
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx). The ListTemplates property is a member of the [Document](document-object-word.md), [ListGallery](listgallery-object-word.md), and [Template](template-object-word.md) objects.
 
 
 ## See also
