@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # With Statement
 
-Executes a series of [statements](vbe-glossary.md) on a single object or a[user-defined type](vbe-glossary.md).
+Executes a series of [statements](vbe-glossary.md) on a single object or a [user-defined type](vbe-glossary.md).
 
  **Syntax**
 
@@ -58,9 +58,10 @@ With MyObject
  .Height = 100 ' Same as MyObject.Height = 100. 
  .Caption = "Hello World" ' Same as MyObject.Caption = "Hello World". 
  With .Font 
- .Color = Red ' Same as MyObject.Font.Color = Red. 
- .Bold = True ' Same as MyObject.Font.Bold = True. 
- End WithEnd With
+  .Color = Red ' Same as MyObject.Font.Color = Red. 
+  .Bold = True ' Same as MyObject.Font.Bold = True. 
+ End With
+End With
 ```
 
 
