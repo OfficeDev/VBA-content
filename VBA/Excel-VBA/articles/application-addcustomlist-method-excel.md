@@ -34,7 +34,7 @@ Adds a custom list for custom autofill and/or custom sort.
 
 ## Remarks
 
-If the list you're trying to add already exists, this method throws a run-time error '1004'. It is easy to overcome with On Error statement.
+If the list you're trying to add already exists, this method throws a run-time error '1004'. Catch the error with an On Error statement.
 
 
 ## Example
