@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: word
 api_name:
 - Word.View.PageMovementType
-ms.date: 08/14/2017
+ms.date: 08/15/2017
 ---
 
 # View.PageMovementType Property (Word)

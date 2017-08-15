@@ -3,7 +3,7 @@ title: WdPageMovementType Enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageMovementType
-ms.date: 08/14/2017
+ms.date: 08/15/2017
 ---
 
 # WdPageMovementType Enumeration (Word)
