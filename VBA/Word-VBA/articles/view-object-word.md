@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.View
 ms.assetid: 8bf5b26b-14c0-1985-65b2-3e034360baeb
-ms.date: 06/08/2017
+ms.date: 08/15/2017
 ---
 
 
@@ -96,6 +96,7 @@ End With
 |[MailMergeDataView](view-mailmergedataview-property-word.md)|
 |[MarkupMode](view-markupmode-property-word.md)|
 |[PageColor](view-pagecolor-property-word.md)|
+|[PageMovementType](view-pagemovementtype-property-word.md)|
 |[Panning](view-panning-property-word.md)|
 |[Parent](view-parent-property-word.md)|
 |[ReadingLayout](view-readinglayout-property-word.md)|
