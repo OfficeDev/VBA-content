@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application-defined or object-defined error
 
-This message is displayed when an error generated with the  **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for[arguments](vbe-glossary.md) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including[host applications](vbe-glossary.md) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
+This message is displayed when an error generated with the  **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for [arguments](vbe-glossary.md) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](vbe-glossary.md) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
 
 
 
@@ -21,7 +21,7 @@ This message is displayed when an error generated with the  **Raise** method or 
 
 Check the documentation for any objects you have accessed. The  **Err** object's **Source** property should contain the programmatic ID of the application or object that generated the error. To understand the context of an error returned by an object, you may want to use the **On Error Resume Next** construct in code that accesses objects, rather than the **On Error GoTo**_line_ syntax.
     
-## Note
+## List trappable errors for the host application 
 In the past, programmers often used a loop to print out a list of all trappable error message strings. Typically this was done with code such as the following:
 
 
