@@ -1,7 +1,6 @@
 ---
 title: ListTemplates Object (Word)
-ms.prod: word
-ms.assetid: 5b5f3ed8-4522-f52e-5ae8-9df26a7da154
+ms.prod: wordms.assetid: 5b5f3ed8-4522-f52e-5ae8-9df26a7da154
 ms.date: 06/08/2017
 ---
 
@@ -54,7 +53,7 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=mylt
 ```
 
 
- **Note**  Some properties and methods —  **Convert** and **Add** , for example — won't work with the list templates in a list gallery. You can modify those list templates, but you cannot change their list gallery type ( **wdBulletGallery** , **wdNumberGallery** , or **wdOutlineNumberGallery** ).
+> **Note**  Some properties and methods —  **Convert** and **Add** , for example — won't work with the list templates in a list gallery. You can modify those list templates, but you cannot change their list gallery type ( **wdBulletGallery** , **wdNumberGallery** , or **wdOutlineNumberGallery** ).
 
 To see whether a list template in a list gallery contains the formatting built into Word, use the  **[Modified](listgallery-modified-property-word.md)** property with the **ListGallery** object. To reset formatting to the original list format, use the **[Reset](listgallery-reset-method-word.md)** method for the **ListGallery** object.
 
