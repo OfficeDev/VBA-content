@@ -34,7 +34,7 @@ Adds a custom list for custom autofill and/or custom sort.
 
 ## Remarks
 
-If the list you're trying to add already exists, this method does nothing.
+If the list you're trying to add already exists, this method throws a run-time error '1004'. Catch the error with an On Error statement.
 
 
 ## Example
@@ -43,8 +43,10 @@ This example adds an array of strings as a custom list.
 
 
 ```vb
+On Error Resume Next  ' if the list already exists, do nothing
 Application.AddCustomList Array("cogs", "sprockets", _ 
  "widgets", "gizmos")
+On Error Goto 0       ' resume regular error handling
 ```
 
 
