@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.DeleteAfterSubmit Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a copy of the mail message is not saved upon being sent, and **False** if a copy is saved. Read/write.
+Returns or sets a  **Boolean** value that is **True** if a copy of the mail message is not saved upon being sent, and **False** if a copy is saved in Sent Items folder. Read/write.
 
 
 ## Syntax

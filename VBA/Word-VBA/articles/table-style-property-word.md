@@ -25,7 +25,7 @@ Returns or sets the style for the specified table. Read/write  **Variant** .
 
 ## Remarks
 
-To set this property, you can specify the local name of the style, an integer, a  **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or a **TableStyle** object that contains the desired formatting for the table.
+To set this property, you can specify the local name of the style, an integer, a  **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or a **[TableStyle](tablestyle-object-word.md)** object that contains the desired formatting for the table.
 
 
 ## See also
