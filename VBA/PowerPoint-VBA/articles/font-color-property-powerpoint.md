@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Color Property (PowerPoint)
 
-Returns the color of the current  **Font** object. Read-only.
+Returns or sets the color of the current  **Font** object. Read-write.
 
 
 ## Syntax
