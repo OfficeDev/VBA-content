@@ -1,45 +1,46 @@
 ---
-title: AdvancedPrintOptions.PrintCropMarks Property (Publisher)
+title: "Свойство AdvancedPrintOptions.PrintCropMarks (издатель)"
 keywords: vbapb10.chm7077895
-f1_keywords:
-- vbapb10.chm7077895
+f1_keywords: vbapb10.chm7077895
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.PrintCropMarks
+api_name: Publisher.AdvancedPrintOptions.PrintCropMarks
 ms.assetid: 0b777632-572c-7080-8f4d-b97a284d04e2
 ms.date: 06/08/2017
+ms.openlocfilehash: c7ec0d766a3109840fbffa2ca2ed5784c4718187
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsprintcropmarks-property-publisher"></a>Свойство AdvancedPrintOptions.PrintCropMarks (издатель)
+
+ **Значение true** для печати обрезки помечает для указанной публикации. По умолчанию используется **значение True**. Чтение и запись **типа Boolean**.
 
 
-# AdvancedPrintOptions.PrintCropMarks Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to print crop marks for the specified publication. The default is **True**. Read/write  **Boolean**.
+ _выражение_. **PrintCropMarks**
 
-
-## Syntax
-
- _expression_. **PrintCropMarks**
-
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property corresponds to the  **Crop marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
-
-Crop marks are used as guides when a printed publication is trimmed to its intended size.
-
-These printer's marks print outside the publication and can only be printed if the size of the sheet being printed to is larger than the publication page size.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets crop marks and job information to print with the publication. If the publication is printed as separations, the additional types of printer's marks are also set to print. This example assumes that the size of the paper being printed to is larger than the publication page size.
+Это свойство соответствует управления **меток обрезки** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+
+Обрезка метки используются в качестве руководства при публикации для печати обрезается до требуемого размера.
+
+Эти метки печати за пределами публикации и можно распечатать только если размер листа, печать для превышает размер страницы публикации.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается меток обрезки и сведения о задании для печати с публикацией. При печати публикации цветоделение дополнительные типы типографские метки также необходимо задать для печати. В этом примере предполагается, что размер бумаги, печать для больше, чем размер страницы публикации.
 
 
 ```vb
@@ -57,11 +58,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

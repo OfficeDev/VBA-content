@@ -1,25 +1,26 @@
 ---
-title: TextStyle Object (Publisher)
+title: "Объект стиля текста (издатель)"
 keywords: vbapb10.chm6029311
-f1_keywords:
-- vbapb10.chm6029311
+f1_keywords: vbapb10.chm6029311
 ms.prod: publisher
-api_name:
-- Publisher.TextStyle
+api_name: Publisher.TextStyle
 ms.assetid: 163ab726-ac44-07d1-ab7b-50061037cc77
 ms.date: 06/08/2017
+ms.openlocfilehash: 45ff7498833d4625c0fe59e9618e210ad064240b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textstyle-object-publisher"></a>Объект стиля текста (издатель)
 
-
-# TextStyle Object (Publisher)
-
-Represents a single built-in or user-defined style. The  **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](textstyles-object-publisher.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
+Представляет один встроенных или пользовательских стилей. Объект **стиля текста** содержит атрибуты стиля (шрифт, стиль шрифта, абзацами и т.д.) в качестве свойства объекта **стиля текста** . Объект **стиля текста** является элементом коллекции **[TextStyles](textstyles-object-publisher.md)** . Коллекция **TextStyles** включает все стили в указанный документ.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **TextStyles** (index), where index is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
+Используйте **TextStyles** (индекс), где индекс — это имя или номер стиля текста, чтобы получить объект **стиля текста** . Должен полностью совпадать правописания и интервал по имени стиля, но не обязательно его правильно.
  
 
  
@@ -27,7 +28,7 @@ Use  **TextStyles** (index), where index is the text style number or name, to re
  
 
  
-The following example displays the style name and base style of the first style in the  **TextStyles** collection.
+Следующий пример отображает имя стиля и базового стиля первый стиль в коллекции **TextStyles** .
  
 
  
@@ -43,7 +44,7 @@ Sub BaseStyleName()
 End Sub
 ```
 
-Use the  **[Add](textstyles-add-method-publisher.md)** method to create a new style. To apply a style to a range, paragraph, or multiple paragraphs, set the **[TextStyle](paragraphformat-textstyle-property-publisher.md)** property to a user-defined or built-in style name. The following example creates a new style and applies it to the paragraph at the cursor position.
+Используйте метод **[Add](textstyles-add-method-publisher.md)** для создания нового стиля. Применение стиля к диапазону, или несколько абзацев, присвойте свойству **[стиля текста](paragraphformat-textstyle-property-publisher.md)** с именем пользовательских или встроенных стилей. В следующем примере создается новый стиль и применяется к абзац с позиции курсора.
  
 
  
@@ -75,7 +76,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -83,18 +84,18 @@ End Sub
 |:-----|
 |[Delete](textstyle-delete-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](textstyle-application-property-publisher.md)|
+|[Приложения](textstyle-application-property-publisher.md)|
 |[BaseStyle](textstyle-basestyle-property-publisher.md)|
-|[Description](textstyle-description-property-publisher.md)|
-|[Font](textstyle-font-property-publisher.md)|
+|[Описание](textstyle-description-property-publisher.md)|
+|[Шрифт](textstyle-font-property-publisher.md)|
 |[Name](textstyle-name-property-publisher.md)|
 |[NextParagraphStyle](textstyle-nextparagraphstyle-property-publisher.md)|
 |[ParagraphFormat](textstyle-paragraphformat-property-publisher.md)|
-|[Parent](textstyle-parent-property-publisher.md)|
+|[Родительский раздел](textstyle-parent-property-publisher.md)|
 

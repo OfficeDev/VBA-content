@@ -1,41 +1,42 @@
 ---
-title: TextEffectFormat.PresetTextEffect Property (Publisher)
+title: "Свойство TextEffectFormat.PresetTextEffect (издатель)"
 keywords: vbapb10.chm3735816
-f1_keywords:
-- vbapb10.chm3735816
+f1_keywords: vbapb10.chm3735816
 ms.prod: publisher
-api_name:
-- Publisher.TextEffectFormat.PresetTextEffect
+api_name: Publisher.TextEffectFormat.PresetTextEffect
 ms.assetid: d7ef0995-4560-fea0-b98d-03c8e0c8e65e
 ms.date: 06/08/2017
+ms.openlocfilehash: b50f96364e3565cd5829961c68dc3ed43ec370e8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="texteffectformatpresettexteffect-property-publisher"></a>Свойство TextEffectFormat.PresetTextEffect (издатель)
+
+Возвращает или задает константой **MsoPresetTextEffect** , представляющий стиль указанного WordArt. Значения для этого свойства соответствуют форматов в диалоговом окне **Коллекция WordArt** нумерованные слева направо, сверху вниз. Чтение и запись.
 
 
-# TextEffectFormat.PresetTextEffect Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoPresetTextEffect** constant that represents the style of the specified WordArt. The values for this property correspond to the formats in the **WordArt Gallery** dialog box, numbered from left to right, top to bottom. Read/write.
+ _выражение_. **PresetTextEffect**
 
-
-## Syntax
-
- _expression_. **PresetTextEffect**
-
- _expression_A variable that represents a  **TextEffectFormat** object.
+ переменная _expression_A, представляет собой объект- **TextEffectFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoPresetTextEffect
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **PresetTextEffect** может иметь одно из ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the text effect style for the first shape on the first page of the active publication. This example assumes that there is at least one shape on the first page of the active publication.
+В этом примере задается эффекта стиля текста для первой фигуры на первой странице active публикации. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
 
 
 ```vb

@@ -1,41 +1,42 @@
 ---
-title: ThreeDFormat.PresetMaterial Property (Publisher)
+title: "Свойство ThreeDFormat.PresetMaterial (издатель)"
 keywords: vbapb10.chm3801351
-f1_keywords:
-- vbapb10.chm3801351
+f1_keywords: vbapb10.chm3801351
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.PresetMaterial
+api_name: Publisher.ThreeDFormat.PresetMaterial
 ms.assetid: 5f12fb22-f596-0d59-1f02-63ce8d4bd927
 ms.date: 06/08/2017
+ms.openlocfilehash: 696c6288c8d848d1fb56914cb16cfebdc3a5db1c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatpresetmaterial-property-publisher"></a>Свойство ThreeDFormat.PresetMaterial (издатель)
+
+Возвращает или задает константой **MsoPresetMaterial** , представляющий материал поверхности придания объема. Чтение и запись.
 
 
-# ThreeDFormat.PresetMaterial Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoPresetMaterial** constant that represents the extrusion surface material. Read/write.
+ _выражение_. **PresetMaterial**
 
-
-## Syntax
-
- _expression_. **PresetMaterial**
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoPresetMaterial
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **PresetMaterial** property value can be one of the ** [MsoPresetMaterial](http://msdn.microsoft.com/library/4cf62ef4-f6c8-eb0c-1dfd-569aafca16c0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **PresetMaterial** может иметь одно из ** [MsoPresetMaterial](http://msdn.microsoft.com/library/4cf62ef4-f6c8-eb0c-1dfd-569aafca16c0%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example specifies that the extrusion surface for shape one in the active publication be a wireframe. For this example to work, the specified shape must be a 3-D shape.
+В этом примере указывает поверхности придания объема для фигуры одно в активной публикации каркас. В данном примере для работы указанного фигуры должен быть объемной фигуры.
 
 
 ```vb

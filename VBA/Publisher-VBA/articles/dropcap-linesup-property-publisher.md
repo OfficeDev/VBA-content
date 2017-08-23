@@ -1,36 +1,37 @@
 ---
-title: DropCap.LinesUp Property (Publisher)
+title: "Свойство DropCap.LinesUp (издатель)"
 keywords: vbapb10.chm5505031
-f1_keywords:
-- vbapb10.chm5505031
+f1_keywords: vbapb10.chm5505031
 ms.prod: publisher
-api_name:
-- Publisher.DropCap.LinesUp
+api_name: Publisher.DropCap.LinesUp
 ms.assetid: 97bf3fc1-2203-d916-0c2d-352260c279fe
 ms.date: 06/08/2017
+ms.openlocfilehash: efa66ff97962ae7cfab7422e6f81d5fee6193b45
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="dropcaplinesup-property-publisher"></a>Свойство DropCap.LinesUp (издатель)
+
+Возвращает или задает типа **Long** , представляющее номер строки возникновения потерянных заглавной буквы выше строки текста, на котором она существует. Чтение и запись.
 
 
-# DropCap.LinesUp Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that represents the number of lines an initial dropped capital letter is raised above the line of text on which it exists. Read/write.
+ _выражение_. **LinesUp**
 
-
-## Syntax
-
- _expression_. **LinesUp**
-
- _expression_A variable that represents a  **DropCap** object.
+ переменная _expression_A, представляет собой объект- **буквицу** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a custom dropped capital letter that is five lines high and raises it two lines above the line on which it exists.
+В этом примере создается настраиваемых буквицы пять строк высокой и вызывает его две строки над строкой, на котором она существует.
 
 
 ```vb

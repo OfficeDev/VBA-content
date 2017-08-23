@@ -1,25 +1,26 @@
 ---
-title: WizardProperty Object (Publisher)
+title: "Объект WizardProperty (издатель)"
 keywords: vbapb10.chm1638399
-f1_keywords:
-- vbapb10.chm1638399
+f1_keywords: vbapb10.chm1638399
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperty
+api_name: Publisher.WizardProperty
 ms.assetid: 9f059422-5454-1902-a092-76e21e36a3f7
 ms.date: 06/08/2017
+ms.openlocfilehash: 59eb119b1655ae5f031acf569224b10532a93ab4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardproperty-object-publisher"></a>Объект WizardProperty (издатель)
 
-
-# WizardProperty Object (Publisher)
-
-Represents a setting that is part of a specific publication design or a Design Gallery object's wizard.
+Представляет параметр, который является частью определенного публикации проекта или мастер объектов макетов.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Item](wizardproperties-item-property-publisher.md)** property or the **[FindByPropertyID](wizardproperties-findpropertybyid-method-publisher.md)** method with the **WizardProperties** collection to return a single **WizardProperty** object. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
+Используйте свойство **[Item](wizardproperties-item-property-publisher.md)** или метод **[FindByPropertyID](wizardproperties-findpropertybyid-method-publisher.md)** с коллекцией **WizardProperties** для возврата объекта **WizardProperty** . Следующий пример отчетов по публикации проекта, связанного с активной публикации, отображение его имя и текущие настройки.
  
 
  
@@ -46,21 +47,21 @@ End With
 ```
 
 
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](wizard-object-publisher.md)**.
+ **Примечание**  В зависимости от языковой версии Microsoft Publisher, используемая может появиться ошибка при использовании выше кода. В этом случае необходимо создать в обработчики ошибок для обхода ошибок. Для получения дополнительных сведений см **[Объект мастера](wizard-object-publisher.md)**.
  
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](wizardproperty-application-property-publisher.md)|
+|[Приложения](wizardproperty-application-property-publisher.md)|
 |[CurrentValueId](wizardproperty-currentvalueid-property-publisher.md)|
-|[Enabled](wizardproperty-enabled-property-publisher.md)|
+|[Включено](wizardproperty-enabled-property-publisher.md)|
 |[ID](wizardproperty-id-property-publisher.md)|
 |[Name](wizardproperty-name-property-publisher.md)|
-|[Parent](wizardproperty-parent-property-publisher.md)|
-|[Values](wizardproperty-values-property-publisher.md)|
+|[Родительский раздел](wizardproperty-parent-property-publisher.md)|
+|[Значения](wizardproperty-values-property-publisher.md)|
 

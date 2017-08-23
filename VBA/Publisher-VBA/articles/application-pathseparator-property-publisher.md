@@ -1,45 +1,46 @@
 ---
-title: Application.PathSeparator Property (Publisher)
+title: "Свойство Application.PathSeparator (издатель)"
 keywords: vbapb10.chm131104
-f1_keywords:
-- vbapb10.chm131104
+f1_keywords: vbapb10.chm131104
 ms.prod: publisher
-api_name:
-- Publisher.Application.PathSeparator
+api_name: Publisher.Application.PathSeparator
 ms.assetid: f8c07ce4-d171-9c5b-60ac-d544bf65e620
 ms.date: 06/08/2017
+ms.openlocfilehash: a004422bd6a15b0fdbc5ec9060a24db9eded2dfb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpathseparator-property-publisher"></a>Свойство Application.PathSeparator (издатель)
+
+Возвращает **строку** , представляющую знак, используемый для разделения имена папок. Только для чтения.
 
 
-# Application.PathSeparator Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the character used to separate folder names. Read-only.
+ _выражение_. **PathSeparator**
 
-
-## Syntax
-
- _expression_. **PathSeparator**
-
- _expression_A variable that represents a  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use  **PathSeparator** to build Web addresses even though they contain forward slashes (/).
+**PathSeparator** можно использовать для создания веб-адреса, несмотря на то, что они содержат косую черту (/).
 
-The  **[FullName](document-fullname-property-publisher.md)** property returns the path and file name as a single string.
+Свойство **[полное имя](document-fullname-property-publisher.md)** возвращает путь и имя файла в одну строку.
 
-For worldwide compatibility, we recommend that you use this property when building paths, rather than referring explicitly to path separator characters in code (for example, "/").
+Для обеспечения совместимости по всему миру, мы рекомендуем использовать это свойство при построении пути, а не ссылается явно разделитель пути знаки в коде (например, «/»).
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the path and file name of the active document.
+В этом примере отображается путь и имя активного документа.
 
 
 ```vb
@@ -54,11 +55,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

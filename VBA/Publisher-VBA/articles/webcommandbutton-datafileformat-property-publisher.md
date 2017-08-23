@@ -1,41 +1,42 @@
 ---
-title: WebCommandButton.DataFileFormat Property (Publisher)
+title: "Свойство WebCommandButton.DataFileFormat (издатель)"
 keywords: vbapb10.chm3932169
-f1_keywords:
-- vbapb10.chm3932169
+f1_keywords: vbapb10.chm3932169
 ms.prod: publisher
-api_name:
-- Publisher.WebCommandButton.DataFileFormat
+api_name: Publisher.WebCommandButton.DataFileFormat
 ms.assetid: 7594b575-b39f-3cd4-d0b9-c13c04299345
 ms.date: 06/08/2017
+ms.openlocfilehash: cbaf6876e67c68c3cb91ec9e734607a8a76c42ad
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webcommandbuttondatafileformat-property-publisher"></a>Свойство WebCommandButton.DataFileFormat (издатель)
+
+Задает или возвращает константу **PbSubmitDataFormatType** , который представляет формат для использования при сохранении в файл данных веб-форм. Чтение и запись.
 
 
-# WebCommandButton.DataFileFormat Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **PbSubmitDataFormatType** constant that represents the format to use when saving Web form data to a file. Read/write.
+ _выражение_. **DataFileFormat**
 
-
-## Syntax
-
- _expression_. **DataFileFormat**
-
- _expression_A variable that represents a  **WebCommandButton** object.
+ переменная _expression_A, представляет собой объект- **WebCommandButton** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbSubmitDataFormatType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **DataFileFormat** property value can be one of the **[PbSubmitDataFormatType](pbsubmitdataformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **DataFileFormat** может иметь одно из **[PbSubmitDataFormatType](pbsubmitdataformattype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets Microsoft Publisher to process Web form data by saving it to a comma-delimited text file on the same Web server as the form is stored. (Note that Filename must be replaced with a valid file name for this example to work.)
+В этом примере задается Microsoft Publisher процесс данных веб-форм путем сохранения файла с разделителями-запятыми на одном веб-сервере, как форма будет сохранена. (Обратите внимание на то, имя файла, заменены допустимое имя файла для работы этого примера).
 
 
 ```vb

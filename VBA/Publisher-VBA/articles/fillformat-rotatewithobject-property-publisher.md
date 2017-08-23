@@ -1,52 +1,54 @@
 ---
-title: FillFormat.RotateWithObject Property (Publisher)
+title: "Свойство FillFormat.RotateWithObject (издатель)"
 keywords: vbapb10.chm2359585
-f1_keywords:
-- vbapb10.chm2359585
+f1_keywords: vbapb10.chm2359585
 ms.prod: publisher
 ms.assetid: a1e5f826-4200-4eac-204d-f17717160f33
 ms.date: 06/08/2017
+ms.openlocfilehash: cbd6463b7c4fb3323ef43c4af8c950390416422e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatrotatewithobject-property-publisher"></a>Свойство FillFormat.RotateWithObject (издатель)
+
+Возвращает или задает поворот заливки вместе с указанной фигуры. Чтение и запись.
 
 
-# FillFormat.RotateWithObject Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets whether the fill rotates with the specified shape. Read/write.
+ _выражение_. **RotateWithObject**
 
-
-## Syntax
-
- _expression_. **RotateWithObject**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MSOTRISTATE**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The value returned by the  **RotateWithObject** property can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants listed in the following table.
+Значение, возвращаемое свойством **RotateWithObject** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** константы, перечисленные в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The fill does not rotate with the shape.|
-| **msoTrue**|The fill rotates with the shape.|
-The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
+| **msoFalse**|Не поворачивайте заливки с формой.|
+| **msoTrue**|Поворот заливки с формой.|
+Значение свойства **RotateWithObject** соответствует параметру поля **Поворот с фигуры** в области **заполнения** диалогового окна **Формат фигуры** в пользовательском интерфейсе Publisher.
 
 
- **Note**  The  **Rotate with shape** box appears only if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
+ **Примечание**  Поле **Поворот формы** отображается только в том случае, если у вас есть либо **градиентной заливки** или **рисунок или текстуры** переключатели выбрано на панели **заливки** в диалоговом окне " **Формат фигуры** ".
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [FillFormat Object](fillformat-object-publisher.md)
+ [Объект FillFormat](fillformat-object-publisher.md)
 

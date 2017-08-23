@@ -1,31 +1,32 @@
 ---
-title: Column.Width Property (Publisher)
+title: "Свойство Column.Width (издатель)"
 keywords: vbapb10.chm4980739
-f1_keywords:
-- vbapb10.chm4980739
+f1_keywords: vbapb10.chm4980739
 ms.prod: publisher
-api_name:
-- Publisher.Column.Width
+api_name: Publisher.Column.Width
 ms.assetid: 9596b828-a5ce-e501-db59-a0e1533108b3
 ms.date: 06/08/2017
+ms.openlocfilehash: cd945078ee3d1e8cf142a0da45f771401aa07bfc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="columnwidth-property-publisher"></a>Свойство Column.Width (издатель)
+
+Возвращает или задает **Variant** , который представляет ширину (в точках) указанного столбца или фигуры. Чтение и запись.
 
 
-# Column.Width Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
+ _выражение_. **Ширина**
 
-
-## Syntax
-
- _expression_. **Width**
-
- _expression_A variable that represents a  **Column** object.
+ переменная _expression_A, представляет собой объект- **столбец** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new table and sets the height and width of the second row and column, respectively.
+В этом примере создается новая таблица и задает высоту и ширину второй строк и столбцов, соответственно.
 
 
 ```vb

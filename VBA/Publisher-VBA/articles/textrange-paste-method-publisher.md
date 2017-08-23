@@ -1,36 +1,37 @@
 ---
-title: TextRange.Paste Method (Publisher)
+title: "Метод TextRange.Paste (издатель)"
 keywords: vbapb10.chm5308482
-f1_keywords:
-- vbapb10.chm5308482
+f1_keywords: vbapb10.chm5308482
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Paste
+api_name: Publisher.TextRange.Paste
 ms.assetid: dd29c9ab-7f56-3604-3390-8f5a3b97821f
 ms.date: 06/08/2017
+ms.openlocfilehash: 22a914831fdc14b20f3dcaf1f7b9f8c9d7957da2
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangepaste-method-publisher"></a>Метод TextRange.Paste (издатель)
+
+Вставляет этот текст в буфер обмена в диапазон указанный текст и возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий вставленного текста.
 
 
-# TextRange.Paste Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Pastes the text on the Clipboard into the specified text range, and returns a  **[TextRange](textrange-object-publisher.md)** object that represents the pasted text.
+ _выражение_. **Вставить**
 
-
-## Syntax
-
- _expression_. **Paste**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 TextRange
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example deletes the text in shape one on page one in the active publication, places it on the Clipboard, and then pastes it after the first word in shape two on the same page. This example assumes that each shape contains text.
+Этот пример удаляет текст в фигуры на страницу один активный публикации помещает его в буфер обмена и вставляет его после первого слова в двух фигуры на той же странице. В этом примере предполагается, что каждой фигуры содержит текст.
 
 
 ```vb

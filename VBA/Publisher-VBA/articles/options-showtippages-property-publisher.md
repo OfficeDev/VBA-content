@@ -1,36 +1,37 @@
 ---
-title: Options.ShowTipPages Property (Publisher)
+title: "Свойство Options.ShowTipPages (издатель)"
 keywords: vbapb10.chm1048609
-f1_keywords:
-- vbapb10.chm1048609
+f1_keywords: vbapb10.chm1048609
 ms.prod: publisher
-api_name:
-- Publisher.Options.ShowTipPages
+api_name: Publisher.Options.ShowTipPages
 ms.assetid: 44f91cf1-68e3-0755-3114-5dc41a2e4eba
 ms.date: 06/08/2017
+ms.openlocfilehash: 2ba06258820910ab7b19f57d37f7620fac599ea6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsshowtippages-property-publisher"></a>Свойство Options.ShowTipPages (издатель)
+
+ **Значение true** для Microsoft Publisher для отображения страниц советов в выносках. Чтение и запись **типа Boolean**.
 
 
-# Options.ShowTipPages Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** for Microsoft Publisher to display tippages in balloons. Read/write **Boolean**.
+ _выражение_. **ShowTipPages**
 
-
-## Syntax
-
- _expression_. **ShowTipPages**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example disables displaying tippages in balloons.
+В этом примере отключается отображение страниц советов в выносках.
 
 
 ```vb

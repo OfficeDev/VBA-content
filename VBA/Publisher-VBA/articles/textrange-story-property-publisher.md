@@ -1,31 +1,32 @@
 ---
-title: TextRange.Story Property (Publisher)
+title: "Свойство TextRange.Story (издатель)"
 keywords: vbapb10.chm5308470
-f1_keywords:
-- vbapb10.chm5308470
+f1_keywords: vbapb10.chm5308470
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Story
+api_name: Publisher.TextRange.Story
 ms.assetid: 833f9537-5c11-a4d5-907a-777eaecb89d2
 ms.date: 06/08/2017
+ms.openlocfilehash: 32753305a83ba5302f037d6b55a0e1d00385b37f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangestory-property-publisher"></a>Свойство TextRange.Story (издатель)
+
+Возвращает объект **материал** , который представляет свойства материала в диапазон текста.
 
 
-# TextRange.Story Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Story** object that represents the story properties in a text range.
+ _выражение_. **Статья**
 
-
-## Syntax
-
- _expression_. **Story**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
+В этом примере возвращает История в диапазоне выделенный текст и, если фрагмент текста Вставка текста в диапазон текста.
 
 
 ```vb

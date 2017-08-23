@@ -1,36 +1,37 @@
 ---
-title: MailMergeMappedDataField.DataFieldName Property (Publisher)
+title: "Свойство MailMergeMappedDataField.DataFieldName (издатель)"
 keywords: vbapb10.chm6553603
-f1_keywords:
-- vbapb10.chm6553603
+f1_keywords: vbapb10.chm6553603
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeMappedDataField.DataFieldName
+api_name: Publisher.MailMergeMappedDataField.DataFieldName
 ms.assetid: c30e56c1-c4f4-a581-00d1-eb367178e0af
 ms.date: 06/08/2017
+ms.openlocfilehash: b3160c65042d499573664114333d33ed94e63391
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergemappeddatafielddatafieldname-property-publisher"></a>Свойство MailMergeMappedDataField.DataFieldName (издатель)
+
+Возвращает или задает **строку** , которая представляет имя поля в источнике данных слияния почты, с которыми сопоставляется сопоставленное поле данных. Если поля данных не связан с сопоставленное поле данных, возвращается пустая строка. Чтение и запись.
 
 
-# MailMergeMappedDataField.DataFieldName Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** which represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
+ _выражение_. **DataFieldName**
 
-
-## Syntax
-
- _expression_. **DataFieldName**
-
- _expression_A variable that represents a  **MailMergeMappedDataField** object.
+ переменная _expression_A, представляет собой объект- **MailMergeMappedDataField** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a table on a new page of the current publication and lists the mapped data fields available and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
+В этом примере создается таблица на новой странице текущей публикации и перечисляет поля сопоставленные данные, доступные и поля в источнике данных, к которой они сопоставлены. В этом примере предполагается, что текущей публикации является публикацией слияния почты и у соответствующих полей источника данных сопоставленные поля данных.
 
 
 ```vb

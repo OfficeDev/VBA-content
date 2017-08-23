@@ -1,36 +1,37 @@
 ---
-title: Cell.BorderBottom Property (Publisher)
+title: "Свойство Cell.BorderBottom (издатель)"
 keywords: vbapb10.chm5111811
-f1_keywords:
-- vbapb10.chm5111811
+f1_keywords: vbapb10.chm5111811
 ms.prod: publisher
-api_name:
-- Publisher.Cell.BorderBottom
+api_name: Publisher.Cell.BorderBottom
 ms.assetid: 78892893-a1c9-5151-fb7b-1449c01e0bd4
 ms.date: 06/08/2017
+ms.openlocfilehash: 16f31888cec34dc16c2cf03c461a0f7353fef92b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellborderbottom-property-publisher"></a>Свойство Cell.BorderBottom (издатель)
+
+Возвращает объект [CellBorder](cellborder-object-publisher.md), представляющего нижнюю границу для указанной ячейке таблицы.
 
 
-# Cell.BorderBottom Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  [CellBorder](cellborder-object-publisher.md)object that represents the bottom border for a specified table cell.
+ _выражение_. **BorderBottom**
 
-
-## Syntax
-
- _expression_. **BorderBottom**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 CellBorder
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
+В этом примере создается шашками, теперь разработки, с помощью границы и цвет заливки с помощью существующей таблицы. Предполагается первую фигуру на вторую страницу таблицы и не другого типа фигуры и таблицы на наличие нечетного числа столбцов.
 
 
 ```vb

@@ -1,36 +1,37 @@
 ---
-title: Page.RulerGuides Property (Publisher)
+title: "Свойство Page.RulerGuides (издатель)"
 keywords: vbapb10.chm393225
-f1_keywords:
-- vbapb10.chm393225
+f1_keywords: vbapb10.chm393225
 ms.prod: publisher
-api_name:
-- Publisher.Page.RulerGuides
+api_name: Publisher.Page.RulerGuides
 ms.assetid: 69605642-7722-0721-cb07-d33689eda9ab
 ms.date: 06/08/2017
+ms.openlocfilehash: edd52404209acd20aebac89a10d2234720615978
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagerulerguides-property-publisher"></a>Свойство Page.RulerGuides (издатель)
+
+Возвращает коллекцию **[RulerGuides](rulerguides-object-publisher.md)** , представляющий линии сетки используется для выравнивания объектов на странице.
 
 
-# Page.RulerGuides Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[RulerGuides](rulerguides-object-publisher.md)** collection that represents gridlines used to align objects on a page.
+ _выражение_. **RulerGuides**
 
-
-## Syntax
-
- _expression_. **RulerGuides**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 RulerGuides
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates horizontal ruler guides and vertical ruler guides every half inch on the first page of the active publication.
+В этом примере создается руководства по горизонтальной линейки и вертикальной направляющие каждый половины дюйм на первой странице active публикации.
 
 
 ```vb

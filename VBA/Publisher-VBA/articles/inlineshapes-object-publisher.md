@@ -1,40 +1,41 @@
 ---
-title: InlineShapes Object (Publisher)
+title: "Объект InlineShapes (издатель)"
 keywords: vbapb10.chm5832703
-f1_keywords:
-- vbapb10.chm5832703
+f1_keywords: vbapb10.chm5832703
 ms.prod: publisher
-api_name:
-- Publisher.InlineShapes
+api_name: Publisher.InlineShapes
 ms.assetid: 1a6d1e8f-0be0-102e-af6c-a1cee53eae02
 ms.date: 06/08/2017
+ms.openlocfilehash: a6c4219099616a94c6a45c36e5103e27c2aab5c9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="inlineshapes-object-publisher"></a>Объект InlineShapes (издатель)
 
-
-# InlineShapes Object (Publisher)
-
-Contains a collection of  **[Shape](shape-object-publisher.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
+Содержит коллекцию объектов **[фигуры](shape-object-publisher.md)** , которые представляют объекты в графических, где **Shape.IsInline** имеет **значение True**. Коллекции фигур ограничен фигур в диапазоне заданный текст.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **InlineShapes** collection is available only on the **TextRange** object. Using **TextFrame.Story.TextRange.InlineShapes** will return all inline shapes in a text frame, including those that are in overflow. Using **TextFrame.TextRange.InlineShapes** will return only visible inline shapes in a text frame, and not those that are in overflow.
+Набор **InlineShapes** доступен только на объекте **TextRange** . С помощью **TextFrame.Story.TextRange.InlineShapes** возвращает всех встроенных фигур в рамке, включая те, которые находятся в переполнения. С помощью **TextFrame.TextRange.InlineShapes** возвращает только видимые встроенных фигур в фрагмент текста, а не указанные в переполнения.
  
 
  
-The  **InlineShapes** collection can also be accessed from **Document.Stories( _i_ ).TextRange**, where i is the index to the active page of the publication.
+Коллекции **InlineShapes** также можно получить доступ из **Document.Stories ( _i_ ). TextRange**, где i — индекс на активную страницу публикации.
  
 
  
-The **InlineShapes** collection is not available in the **Page.Shapes** collection, including its contained **ShapeRange**.
+Коллекция **InlineShapes** недоступна в коллекции **Page.Shapes** , включая его автономные **ShapeRange**.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[InlineShapes](textrange-inlineshapes-property-publisher.md)** property on the **[TextRange](textrange-object-publisher.md)** object to return an **InlineShapes** collection. The following example finds the first shape, a text box, on page one of the publication, and appends text to the end of the text range in the text box if there is more than one inline shape within the text range.
+Свойство **[InlineShapes](textrange-inlineshapes-property-publisher.md)** объекта **[TextRange](textrange-object-publisher.md)** используется для возврата коллекции **InlineShapes** . В следующем примере выполняется поиск первой фигуры в текстовом поле на странице публикации и добавляет текст в конец диапазона текст в текстовом поле при наличии более одного встроенного фигуры в диапазон текста.
  
 
  
@@ -51,7 +52,7 @@ With theShape.TextFrame.TextRange
 End With
 ```
 
-Use the  **InlineShapes** (index) property to return a single inline shape. The following example finds the third inline shape within a text box and flips it vertically.
+Используйте свойство **InlineShapes** (индекс) для возвращения одного встроенного фигуры. В следующем примере производится поиск третий встроенная фигура в текстовое поле и зеркальное отражение по вертикали.
  
 
  
@@ -70,7 +71,7 @@ With theShape.TextFrame.Story.TextRange
 End With
 ```
 
-Use the  **[Range](shapes-range-method-publisher.md)** method to return a **[ShapeRange](shaperange-object-publisher.md)** object that contains all members of the **InlineShapes** collection. An array of indexes or strings or a single index or string can be passed as a parameter of the **Range** property to select particular shapes or a shape within the range. The following example sets a **ShapeRange** variable equal to the collection of inline shapes that exist within a text box. Each inline shape within the range is then modified in some way. This example assumes that the first shape on the page is a text box that contains three inline shapes.
+Используйте метод **[диапазона](shapes-range-method-publisher.md)** возвращает объект **[ShapeRange](shaperange-object-publisher.md)** , содержащий все элементы из коллекции **InlineShapes** . Массив индексов строк или отдельный индекс или строка может передается как параметр свойства **диапазон** для выбора конкретного фигур или фигуры в диапазоне. В следующем примере задается переменная **ShapeRange** равно коллекцию встроенных фигур, существующих в текстовом поле. Каждая фигура встроенного в диапазоне изменяется каким-либо образом. В этом примере предполагает первую фигуру на странице текстовое поле, которое содержит три встроенных фигур.
  
 
  
@@ -91,22 +92,22 @@ End With
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](inlineshapes-item-method-publisher.md)|
+|[Элемент](inlineshapes-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](inlineshapes-application-property-publisher.md)|
+|[Приложения](inlineshapes-application-property-publisher.md)|
 |[Count](inlineshapes-count-property-publisher.md)|
-|[Parent](inlineshapes-parent-property-publisher.md)|
+|[Родительский раздел](inlineshapes-parent-property-publisher.md)|
 |[Range](inlineshapes-range-property-publisher.md)|
 

@@ -1,56 +1,57 @@
 ---
-title: Shapes.AddCatalogMergeArea Method (Publisher)
+title: "Метод Shapes.AddCatalogMergeArea (издатель)"
 keywords: vbapb10.chm2162752
-f1_keywords:
-- vbapb10.chm2162752
+f1_keywords: vbapb10.chm2162752
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddCatalogMergeArea
+api_name: Publisher.Shapes.AddCatalogMergeArea
 ms.assetid: 4af86b99-5a3a-b9f3-d269-16d635d35c83
 ms.date: 06/08/2017
+ms.openlocfilehash: 74e15744dcac7520600bdc46ec7cdd277ff745db
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddcatalogmergearea-method-publisher"></a>Метод Shapes.AddCatalogMergeArea (издатель)
+
+Добавляет объект **фигуры** , представляющий область указанной публикации.
 
 
-# Shapes.AddCatalogMergeArea Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a  **Shape** object that represents the specified publication's catalog merge area.
+ _выражение_. **AddCatalogMergeArea**
 
-
-## Syntax
-
- _expression_. **AddCatalogMergeArea**
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Only one catalog merge area can be added to a publication page. Typically, a publication will only have one catalog merge area.
+Только одна область можно добавить на страницу публикации. Как правило публикации будут иметь только одну область.
 
-Although you can add one catalog merge area per publication page, you can only connect to a single data source for a publication. What data is merged is determined by the catalog merge area on the active page, and the data fields it contains.
-
-
- **Note**  You must add a catalog merge area to the publication page before you connect to a data source.
-
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
-
-Use the  **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection to add a picture data field to a publication's catalog merge area.
-
-Use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
-
-Use the  **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove a catalog merge area from a publication.
-
-This method corresponds to selecting a catalog merge in  **Step 1: Select a merge type** of the **Mail and Catalog Merge Wizard**.
+Несмотря на то, что можно добавить одну область на каждой странице публикации, можно только подключения к источнику данных для публикации. Какие данные объединяются определяет, какие области данных на активной странице и полей данных, которые он содержит.
 
 
-## Example
+ **Примечание**  Перед подключением к источнику данных, необходимо добавить область страницы публикации.
 
-The following example adds a catalog merge area to the first page of the specified publication.
+Используйте метод **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** объектов **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** добавление фигур в области объединения в каталог.
+
+Используйте метод **[вставки](mailmergedatafield-insert-method-publisher.md)** коллекции **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** Добавление поля данных изображения в области публикации.
+
+Используйте метод **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** объекта **[TextRange](textrange-object-publisher.md)** Добавление текстового поля данных в текстовом поле в области публикации.
+
+Используйте метод **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** объекта **[Shape](shape-object-publisher.md)** , чтобы удалить область из публикации.
+
+Этот метод соответствует выбору объединения в каталог в **Шаг 1: Выбор типа слияния** **почты и каталог**.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере добавляется область объединения в каталог на первой странице указанной публикации.
 
 
 ```vb

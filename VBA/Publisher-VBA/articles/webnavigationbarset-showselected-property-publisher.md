@@ -1,36 +1,37 @@
 ---
-title: WebNavigationBarSet.ShowSelected Property (Publisher)
+title: "Свойство WebNavigationBarSet.ShowSelected (издатель)"
 keywords: vbapb10.chm8519696
-f1_keywords:
-- vbapb10.chm8519696
+f1_keywords: vbapb10.chm8519696
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSet.ShowSelected
+api_name: Publisher.WebNavigationBarSet.ShowSelected
 ms.assetid: c8229f03-a043-a280-84f9-f75a430c3903
 ms.date: 06/08/2017
+ms.openlocfilehash: 6081ba8f46bb9e2fb0002dcf37fa275e91c1e236
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarsetshowselected-property-publisher"></a>Свойство WebNavigationBarSet.ShowSelected (издатель)
+
+ **Значение true,** Если для указанного объекта **WebNavigationBarSet** будет выделена выбранной кнопки. Чтение и запись **типа Boolean**.
 
 
-# WebNavigationBarSet.ShowSelected Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if the selected button is highlighted for the specified **WebNavigationBarSet** object. Read/write **Boolean**.
+ _выражение_. **ShowSelected**
 
-
-## Syntax
-
- _expression_. **ShowSelected**
-
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a new Web navigation bar to the active document, adds it to every page, and then sets the  **ShowSelected** property to **False** so that the selected button will not be highlighted in the navigation bar.
+В следующем примере добавляется новый панель навигации в активный документ добавляется на все страницы и затем устанавливает для свойства **ShowSelected** значение **False** , чтобы выбранной кнопки не выделяются в панели навигации.
 
 
 ```vb

@@ -1,48 +1,49 @@
 ---
-title: Attachments.Add Method (Publisher)
+title: "Метод Attachments.Add (издатель)"
 keywords: vbapb10.chm569349
-f1_keywords:
-- vbapb10.chm569349
+f1_keywords: vbapb10.chm569349
 ms.prod: publisher
-api_name:
-- Publisher.Attachments.Add
+api_name: Publisher.Attachments.Add
 ms.assetid: dbf2eb67-5e28-a7e6-226f-feac9045186b
 ms.date: 06/08/2017
+ms.openlocfilehash: ee7be82171cd5a3e6ea9f65e2dc076f699b18eab
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="attachmentsadd-method-publisher"></a>Метод Attachments.Add (издатель)
+
+Добавляет объект **вложения** в коллекцию **вложений** публикации Microsoft Publisher.
 
 
-# Attachments.Add Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds an  **Attachment** object to the **Attachments** collection of a Microsoft Publisher publication.
+ _выражение_. **Добавление** ( **_Имя файла_**)
 
-
-## Syntax
-
- _expression_. **Add**( **_Filename_**)
-
- _expression_A variable that represents an  **Attachments** colleciton.
+ переменная _expression_A, представляющий colleciton **вложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|File name of the attachment.|
+|Имя файла|Обязательное свойство.| **String**|Имя файла вложения.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Attachment
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to add an attachment to the message in an e-mail merge. The code adds an attachment to an e-mail message and then prints the number of current attachments to the message in the  **Immediate** window.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как добавить вложения в сообщение в слияния почты. Код добавляет вложения в сообщение электронной почты, а затем печать номер текущего вложения в сообщение в окне **Интерпретация** .
 
-The attachment in this example is an image file at the root of the C drive. Before running the code, replace " _C:\image.jpg_" with the path to and name of the file on your computer that you want to add as an e-mail attachment.
+Вложения в данном примере — это файл изображения в корне диска С. Перед выполнением кода, замените « _C:\image.jpg_» путь и имя файла на компьютере, который нужно добавить в качестве вложения электронной почты.
 
-Before you can create an e-mail merge, you must use the  **[OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method of the **[MailMerge](mailmerge-object-publisher.md)** object to connect the active document to a data source. To run the merge, use the **[Execute](findreplace-execute-method-publisher.md)** method of the **MailMerge** object. For an example of how to connect to a data source and create an e-mail merge, see the **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** object topic.
+Перед созданием слияния почты необходимо использовать метод **[OpenDataSource](mailmerge-opendatasource-method-publisher.md)** объекта **[слияния](mailmerge-object-publisher.md)** для подключения к источнику данных активных документов. Чтобы выполнить слияние, используйте метод **[Execute](findreplace-execute-method-publisher.md)** объекта **слияния** . Пример того, как для подключения к источнику данных и создания слияния почты приведены в разделе объект **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** .
 
 
 
@@ -59,11 +60,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Attachments Collection](attachments-object-publisher.md)
+ [Коллекция вложений](attachments-object-publisher.md)
 

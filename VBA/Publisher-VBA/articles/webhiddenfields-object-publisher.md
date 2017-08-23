@@ -1,25 +1,26 @@
 ---
-title: WebHiddenFields Object (Publisher)
+title: "Объект WebHiddenFields (издатель)"
 keywords: vbapb10.chm4063231
-f1_keywords:
-- vbapb10.chm4063231
+f1_keywords: vbapb10.chm4063231
 ms.prod: publisher
-api_name:
-- Publisher.WebHiddenFields
+api_name: Publisher.WebHiddenFields
 ms.assetid: 8ced4021-fa99-39dd-e880-b9793426871f
 ms.date: 06/08/2017
+ms.openlocfilehash: 1f25ce2b3cc79f83b1c5cab7ed5d5c144487d55b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webhiddenfields-object-publisher"></a>Объект WebHiddenFields (издатель)
 
-
-# WebHiddenFields Object (Publisher)
-
-Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
+Представляет скрытых полей Web, позволяющих веб-страницы для передачи невидимые данных на веб-сервер при отправке веб-страницы. Объект **WebHiddenFields** позволяет управлять скрытых полей, подключенного к кнопки Отправить.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **HiddenFields** property to access hidden Web fields. This example adds a new hidden Web field to a new Submit command button.
+Используйте свойство **скрытые поля** для доступа к скрытых полей Web. В этом примере добавляет новый скрытого поля Web новой кнопки Отправить.
  
 
  
@@ -39,24 +40,24 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Add](webhiddenfields-add-method-publisher.md)|
+|[Добавление](webhiddenfields-add-method-publisher.md)|
 |[Delete](webhiddenfields-delete-method-publisher.md)|
-|[Item](webhiddenfields-item-method-publisher.md)|
+|[Элемент](webhiddenfields-item-method-publisher.md)|
 |[Name](webhiddenfields-name-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](webhiddenfields-application-property-publisher.md)|
+|[Приложения](webhiddenfields-application-property-publisher.md)|
 |[Count](webhiddenfields-count-property-publisher.md)|
-|[Parent](webhiddenfields-parent-property-publisher.md)|
+|[Родительский раздел](webhiddenfields-parent-property-publisher.md)|
 

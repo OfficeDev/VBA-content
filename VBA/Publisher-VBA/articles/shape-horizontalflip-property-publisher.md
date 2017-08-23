@@ -1,43 +1,44 @@
 ---
-title: Shape.HorizontalFlip Property (Publisher)
+title: "Свойство Shape.HorizontalFlip (издатель)"
 keywords: vbapb10.chm2228288
-f1_keywords:
-- vbapb10.chm2228288
+f1_keywords: vbapb10.chm2228288
 ms.prod: publisher
-api_name:
-- Publisher.Shape.HorizontalFlip
+api_name: Publisher.Shape.HorizontalFlip
 ms.assetid: 5a940631-c63a-efdf-6cfb-dc6b82594028
 ms.date: 06/08/2017
+ms.openlocfilehash: e0c65834db0ee26bd629fe10a802db52a6db8893
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapehorizontalflip-property-publisher"></a>Свойство Shape.HorizontalFlip (издатель)
+
+Указывает, является ли указанный фигуры отразилось относительно его горизонтальной оси. Только для чтения.
 
 
-# Shape.HorizontalFlip Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates whether the specified shape has been flipped around its horizontal axis. Read-only.
+ _выражение_. **HorizontalFlip**
 
-
-## Syntax
-
- _expression_. **HorizontalFlip**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **HorizontalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **HorizontalFlip** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The shape has not been flipped around its horizontal axis.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape.|
-| **msoTrue**|The shape has been flipped around its horizontal axis.|
+| **msoFalse**|Фигура не отразилось относительно его горизонтальной оси.|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для указанной фигуры.|
+| **msoTrue**|Фигура отразилось относительно его горизонтальной оси.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example restores each shape on the active publication to its original state if it has been flipped horizontally or vertically.
+В этом примере восстанавливает исходное состояние каждой фигуры на активной публикации, если его отразилось по горизонтали или по вертикали.
 
 
 ```vb

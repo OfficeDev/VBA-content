@@ -1,30 +1,31 @@
 ---
-title: TextEffectFormat.Alignment Property (Publisher)
+title: "Свойство TextEffectFormat.Alignment (издатель)"
 keywords: vbapb10.chm3735808
-f1_keywords:
-- vbapb10.chm3735808
+f1_keywords: vbapb10.chm3735808
 ms.prod: publisher
-api_name:
-- Publisher.TextEffectFormat.Alignment
+api_name: Publisher.TextEffectFormat.Alignment
 ms.assetid: f569ea7c-9a9f-f50e-e88c-610da0adf153
 ms.date: 06/08/2017
+ms.openlocfilehash: e9d2c652810e15faebafda10bd3389b52ad79d7b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="texteffectformatalignment-property-publisher"></a>Свойство TextEffectFormat.Alignment (издатель)
+
+Возвращает или задает значение константы **MsoTextEffectAlignment** , представляющий выравнивание по влиянию указанный текст. Чтение и запись.
 
 
-# TextEffectFormat.Alignment Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
+ _выражение_. **Выравнивание**
 
-
-## Syntax
-
- _expression_. **Alignment**
-
- _expression_A variable that represents a  **TextEffectFormat** object.
+ переменная _expression_A, представляет собой объект- **TextEffectFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Alignment** property value can be one of the ** [MsoTextEffectAlignment](http://msdn.microsoft.com/library/5a165109-c820-bbc2-235b-a24807abd0d0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **Alignment** может иметь одно из ** [MsoTextEffectAlignment](http://msdn.microsoft.com/library/5a165109-c820-bbc2-235b-a24807abd0d0%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 

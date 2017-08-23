@@ -1,51 +1,52 @@
 ---
-title: Document.PrintOutEx Method (Publisher)
+title: "Метод Document.PrintOutEx (издатель)"
 keywords: vbapb10.chm196755
-f1_keywords:
-- vbapb10.chm196755
+f1_keywords: vbapb10.chm196755
 ms.prod: publisher
-api_name:
-- Publisher.Document.PrintOutEx
+api_name: Publisher.Document.PrintOutEx
 ms.assetid: f11b6f8b-08a0-28f6-5930-47d684585bef
 ms.date: 06/08/2017
+ms.openlocfilehash: ad9b88b9d63257967f847c4abaaba264c9000cb3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentprintoutex-method-publisher"></a>Метод Document.PrintOutEx (издатель)
+
+Печатает полностью или частично указанной публикации.
 
 
-# Document.PrintOutEx Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Prints all or part of the specified publication.
+ _выражение_. **Распечатки** ( **_Из_**, **_Чтобы_**, **_параметр PrintToFile_**, **_копий_**, **_сортировки_**, **_PrintStyle_**)
 
-
-## Syntax
-
- _expression_. **PrintOut**( **_From_**,  **_To_**,  **_PrintToFile_**,  **_Copies_**,  **_Collate_**,  **_PrintStyle_**)
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|From|Optional| **Long**|The starting page number.|
-|To|Optional| **Long**|The ending page number.|
-|PrintToFile|Optional| **String**|The path and file name of a document to be printed to a file.|
-|Copies|Optional| **Long**|The number of copies to be printed.|
-|Collate|Optional| **Boolean**|When printing multiple copies of a document,  **True** to print all pages of the document before printing the next copy.|
-|PrintStyle|Optional| **PbPrintStyle**|The print style to use. See Remarks for possible values.|
+|From|Необязательный| **Длинный**|Начальный номер страницы.|
+|Чтобы|Необязательный| **Длинный**|Номер конечной страницы.|
+|Параметр PrintToFile|Необязательный| **String**|Путь и имя документа на печать в файл.|
+|Копий|Необязательный| **Длинный**|Число копий для печати.|
+|Сопоставление|Необязательный| **Boolean**|При печати нескольких копий документа, **значение True** для печати всех страниц документа перед печатью следующей копии.|
+|PrintStyle|Необязательный| **PbPrintStyle**|Стиль печати для использования. Возможные значения см.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The PrintStyle parameter can be one of the  **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Параметр PrintStyle может иметь одно из **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
-If PrintStyle is  **pbPrintStyleMultipleCopiesPerSheet** or **pbPrintStyleMultiplePagesPerSheet**, Publisher ignores any value you pass for the Collate parameter.
+Если PrintStyle **pbPrintStyleMultipleCopiesPerSheet** или **pbPrintStyleMultiplePagesPerSheet**, Publisher игнорирует любое значение, передаваемого для параметра Разобрать по копиям.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example prints the active publication.
+В этом примере реализуется печать active публикации.
 
 
 ```vb

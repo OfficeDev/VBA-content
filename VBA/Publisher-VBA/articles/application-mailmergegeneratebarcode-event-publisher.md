@@ -1,51 +1,52 @@
 ---
-title: Application.MailMergeGenerateBarcode Event (Publisher)
+title: "Событие Application.MailMergeGenerateBarcode (издатель)"
 keywords: vbapb10.chm268435489
-f1_keywords:
-- vbapb10.chm268435489
+f1_keywords: vbapb10.chm268435489
 ms.prod: publisher
-api_name:
-- Publisher.Application.MailMergeGenerateBarcode
+api_name: Publisher.Application.MailMergeGenerateBarcode
 ms.assetid: 5da4ec65-32b6-ea05-09ad-d2224eafee30
 ms.date: 06/08/2017
+ms.openlocfilehash: c1cddcee9385d0781d4c1d6d10438fab7cca115b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationmailmergegeneratebarcode-event-publisher"></a>Событие Application.MailMergeGenerateBarcode (издатель)
+
+Происходит, когда Microsoft Publisher требует данные для создания штрих-кодов в публикации слияния почты, в частности при изменении списка получателей слияния почты.
 
 
-# Application.MailMergeGenerateBarcode Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs when Microsoft Publisher requires data to generate barcodes in a mail-merge publication, in particular when the mail-merge recipient list changes.
+ _выражение_. **MailMergeGenerateBarcode** ( **_Doc_**, **_bstrString_**)
 
-
-## Syntax
-
- _expression_. **MailMergeGenerateBarcode**( **_Doc_**,  **_bstrString_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
-|bstrString|Required| **String**|Output parameter. A string representation of the barcode.|
+|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
+|bstrString|Обязательное свойство.| **String**|Выходной параметр. Строковое представление штрих-кода.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Third-party add-ins that validate mail-merge addresses can use the  **MailMergeGenerateBarcode** event to listen for user actions requesting that barcodes be generated. In this situation, when the add-in receives notification that the **MailMergeGenerateBarcode** event fired, and if the active document is connected to a data source, the add-in can use the ** [MailMergeDataSource.ActiveRecord](mailmergedatasource-activerecord-property-publisher.md)** property to determine the record for which to generate the barcode. If the active document is not connected to a data source, the add-in uses the address text directly.
+Надстройки сторонних производителей, которые проверяют адреса слияния почты событие **MailMergeGenerateBarcode** можно использовать для прослушивания действия пользователя, запрашивающего создаваться, штрих-коды. В этом случае, если надстройка получает уведомление, что событие **MailMergeGenerateBarcode** , и если активный документ подключен к источнику данных, надстройки можно использовать ** [MailMergeDataSource.ActiveRecord](mailmergedatasource-activerecord-property-publisher.md)** свойства, чтобы определить записи, для которой создается штрих-кода. Если активный документ не подключен к источнику данных, надстройка использует адрес текст напрямую.
 
-If the add-in can use the address text directly, it returns a string representation of the barcode for the bstrString output parameter. If the add-in cannot use the address text directly, it returns an empty string.
+Если надстройка можно использовать в текст адреса непосредственно, возвращает строковое представление штрих-кода для параметра output bstrString. Если надстройка нельзя использовать в текст адреса напрямую, возвращает пустую строку.
 
-To permit triggering of the  **MailMergeGenerateBarcode** event, you must handle the **[MailMergeInsertBarcode](application-mailmergeinsertbarcode-event-publisher.md)** event in your code, and the add-in must set the OkToInsert parameter passed to that event to **True**. 
+Чтобы разрешить запуск события **MailMergeGenerateBarcode** , должен обрабатывать событие **[MailMergeInsertBarcode](application-mailmergeinsertbarcode-event-publisher.md)** в коде и надстройки задать параметр OkToInsert, передаваемый событие значение **True**. 
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **MailMergeGenerateBarcode** event. It returns the string that represents the barcode for active record. Note that the variable _indexNumberOfBarcodeColumn_ represents the index number of the column in the data source that lists barcodes. This code assumes that the current publication is connected to a data source.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **MailMergeGenerateBarcode** . Возвращает строку, представляющую штрих-кода для активной записи. Обратите внимание на то, что переменная _indexNumberOfBarcodeColumn_ представляет индекс столбца в источнике данных, в котором приведены штрих-коды. В этом коде предполагается, что текущей публикации подключен к источнику данных.
 
 
 ```vb
@@ -54,7 +55,7 @@ Private Sub pubApplication_MailMergeGenerateBarcode(ByVal Doc As Document, bstrS
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
 
 
 
@@ -63,7 +64,7 @@ For this event to occur, you must place the following line of code in the  **Gen
 Public WithEvents pubApplication As Application
 ```
 
-Then run the following initialization procedure.
+Затем выполните следующую процедуру инициализации.
 
 
 
@@ -75,11 +76,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

@@ -1,36 +1,37 @@
 ---
-title: Hyperlink.Address Property (Publisher)
+title: "Свойство Hyperlink.Address (издатель)"
 keywords: vbapb10.chm4587523
-f1_keywords:
-- vbapb10.chm4587523
+f1_keywords: vbapb10.chm4587523
 ms.prod: publisher
-api_name:
-- Publisher.Hyperlink.Address
+api_name: Publisher.Hyperlink.Address
 ms.assetid: 784a9213-38bc-c5fd-f215-abeb174ec628
 ms.date: 06/08/2017
+ms.openlocfilehash: c61f9f85d591a563ba567ee206ad8ae5c2357b0e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="hyperlinkaddress-property-publisher"></a>Свойство Hyperlink.Address (издатель)
+
+Возвращает или задает **строку** , представляющую URL-адрес гиперссылки. Чтение и запись.
 
 
-# Hyperlink.Address Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the URL address for a hyperlink. Read/write.
+ _выражение_. **Адрес**
 
-
-## Syntax
-
- _expression_. **Address**
-
- _expression_A variable that represents a  **Hyperlink** object.
+ переменная _expression_A, представляющий объект **гиперссылки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the URL addresses for all hyperlinks in the active publication.
+В этом примере отображается URL-адреса для всех гиперссылок в активной публикации.
 
 
 ```vb

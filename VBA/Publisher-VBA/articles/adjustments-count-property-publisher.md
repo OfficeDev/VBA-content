@@ -1,31 +1,32 @@
 ---
-title: Adjustments.Count Property (Publisher)
+title: "Свойство Adjustments.Count (издатель)"
 keywords: vbapb10.chm2424835
-f1_keywords:
-- vbapb10.chm2424835
+f1_keywords: vbapb10.chm2424835
 ms.prod: publisher
-api_name:
-- Publisher.Adjustments.Count
+api_name: Publisher.Adjustments.Count
 ms.assetid: 1b32f1c3-0bbc-a175-4f59-36cc76df12fd
 ms.date: 06/08/2017
+ms.openlocfilehash: 3ef89bc5dde4500ed3b9116575fe9fcf6696c1e6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="adjustmentscount-property-publisher"></a>Свойство Adjustments.Count (издатель)
+
+Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-# Adjustments.Count Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of items in the specified collection.
+ _выражение_. **Count**
 
-
-## Syntax
-
- _expression_. **Count**
-
- _expression_A variable that represents an  **Adjustments** object.
+ переменная _expression_A, представляющий объект **корректировки** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the number of pages in the active document.
+В этом примере отображается число страниц в активный документ.
 
 
 ```vb
@@ -35,7 +36,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-This example displays the number of shapes in the active document.
+В этом примере отображается количество фигур в активном документе.
 
 
 
@@ -54,11 +55,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Adjustments Object](adjustments-object-publisher.md)
+ [Объект корректировки](adjustments-object-publisher.md)
 

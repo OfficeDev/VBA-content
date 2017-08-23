@@ -1,26 +1,27 @@
 ---
-title: PbPageNumberFormat Enumeration (Publisher)
+title: "Перечисление PbPageNumberFormat (издатель)"
 keywords: vbapb10.chm65618
-f1_keywords:
-- vbapb10.chm65618
+f1_keywords: vbapb10.chm65618
 ms.prod: publisher
-api_name:
-- Publisher.PbPageNumberFormat
+api_name: Publisher.PbPageNumberFormat
 ms.assetid: 0c23a61f-4267-fb6e-7483-ef366fd0c772
 ms.date: 06/08/2017
+ms.openlocfilehash: be61a4824a81c1bdc8cd7b02c259d7f77797553d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbpagenumberformat-enumeration-publisher"></a>Перечисление PbPageNumberFormat (издатель)
 
-
-# PbPageNumberFormat Enumeration (Publisher)
-
-Reperesents the formatting of the page numbering.
+Представляется форматирование нумерации страниц.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
 | **pbPageNumberFormatAiueo**|12|Aiueo|
-| **pbPageNumberFormatArabic**|0|Arabic|
+| **pbPageNumberFormatArabic**|0|Арабский|
 | **pbPageNumberFormatArabic1**|46|Arabic1|
 | **pbPageNumberFormatArabic2**|48|Arabic2|
 | **pbPageNumberFormatArabicLZ**|22|ArabicLZ|
@@ -47,19 +48,19 @@ Reperesents the formatting of the page numbering.
 | **pbPageNumberFormatKorDbNum2**|42|KorDbNum2|
 | **pbPageNumberFormatKorDbNum3**|43|KorDbNum3|
 | **pbPageNumberFormatKorDbNum4**|44|KorDbNum4|
-| **pbPageNumberFormatLCLetter**|4|LC Letter|
+| **pbPageNumberFormatLCLetter**|4|Буква LC|
 | **pbPageNumberFormatLCRoman**|2|LC Roman|
 | **pbPageNumberFormatLCRus**|58|LC Rus|
-| **pbPageNumberFormatOrdinal**|5|Ordinal|
+| **pbPageNumberFormatOrdinal**|5|Порядковый номер|
 | **pbPageNumberFormatOrdtext**|7|Ordtext|
 | **pbPageNumberFormatThai1**|53|Thai1|
 | **pbPageNumberFormatThai2**|54|Thai2|
 | **pbPageNumberFormatThai3**|55|Thai3|
 | **pbPageNumberFormatTpeDbNum2**|34|TpeDbNum2|
 | **pbPageNumberFormatTpeDbNum3**|35|TpeDbNum3|
-| **pbPageNumberFormatUCLetter**|3|UC Letter|
-| **pbPageNumberFormatUCRoman**|1|UC Roman|
-| **pbPageNumberFormatUCRus**|59|UC Rus|
+| **pbPageNumberFormatUCLetter**|3|Буква объединенных Коммуникаций|
+| **pbPageNumberFormatUCRoman**|1|Roman объединенных Коммуникаций|
+| **pbPageNumberFormatUCRus**|59|Rus объединенных Коммуникаций|
 | **pbPageNumberFormatViet1**|56|Viet 1|
 | **pbPageNumberFormatZodiac1**|30|Zodiac1|
 | **pbPageNumberFormatZodiac2**|31|Zodiac2|

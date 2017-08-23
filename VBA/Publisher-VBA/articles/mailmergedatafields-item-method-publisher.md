@@ -1,37 +1,38 @@
 ---
-title: MailMergeDataFields.Item Method (Publisher)
+title: "Метод MailMergeDataFields.Item (издатель)"
 keywords: vbapb10.chm6356995
-f1_keywords:
-- vbapb10.chm6356995
+f1_keywords: vbapb10.chm6356995
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataFields.Item
+api_name: Publisher.MailMergeDataFields.Item
 ms.assetid: d0305807-90a2-87eb-60cb-cd45925c5ed0
 ms.date: 06/08/2017
+ms.openlocfilehash: f1e709a6e7abeee2d770633f9c4969988175c9f3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafieldsitem-method-publisher"></a>Метод MailMergeDataFields.Item (издатель)
+
+Возвращает объект **[MailMergeDataField](mailmergedatafield-object-publisher.md)** из указанного объекта **MailMergeDataFields** .
 
 
-# MailMergeDataFields.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object from the specified **MailMergeDataFields** object.
+ _выражение_. **Элемент** ( **_varIndex_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_varIndex_**)
-
- _expression_A variable that represents a  **MailMergeDataFields** object.
+ переменная _expression_A, представляет собой объект- **MailMergeDataFields** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|varIndex|Required| **Variant**|The number or name of the field to return.|
+|varIndex|Обязательное свойство.| **Variant**|Номер или имя поля, чтобы возвратить.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MailMergeDataField
 

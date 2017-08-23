@@ -1,40 +1,41 @@
 ---
-title: CatalogMergeShapes Object (Publisher)
+title: "Объект CatalogMergeShapes (издатель)"
 keywords: vbapb10.chm8454143
-f1_keywords:
-- vbapb10.chm8454143
+f1_keywords: vbapb10.chm8454143
 ms.prod: publisher
-api_name:
-- Publisher.CatalogMergeShapes
+api_name: Publisher.CatalogMergeShapes
 ms.assetid: 1108e9a4-57ef-2b1a-0998-54b6fad838da
 ms.date: 06/08/2017
+ms.openlocfilehash: 5b9180b10cd1fb019be265c69e555bac423e66eb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="catalogmergeshapes-object-publisher"></a>Объект CatalogMergeShapes (издатель)
 
-
-# CatalogMergeShapes Object (Publisher)
-
-Represents the shapes contained in the catalog merge area of the specified publication.
+Представляет фигуры, содержащиеся в этой области указанной публикации.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The catalog merge area is automatically resized to accommodate objects that are larger then the merge area, or that are positioned outside the catalog merge area when they are added.
+Область данных автоматически изменяется, чтобы вместить объекты, размер которых затем области объединения или, находятся вне области данных после их добавления.
  
 
  
-Shapes inside the catalog merge area are automatically resized or repositioned if the catalog merge area is decreased in size or moved.
+Фигуры внутри области данных автоматически изменения размера или положения, если область данных уменьшается размер или перемещены.
  
 
  
-The catalog merge area can contain picture and text data fields you have inserted, in addtion to other design elements you choose. 
+Область данных может содержать изображения и текст полей данных, вставленных, в того в другие элементы дизайна, выбранное. 
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[CatalogMergeItems](shape-catalogmergeitems-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to return the contents of the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, it returns a list of the shapes it contains.
+Свойство **[CatalogMergeItems](shape-catalogmergeitems-property-publisher.md)** **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** объекты для возвращения содержимого области данных. Следующий пример проверяет, является ли указанный публикация содержит область объединения в каталог. Если это так, возвращает список фигуры, которые он содержит.
  
 
  
@@ -69,7 +70,7 @@ End Sub
 
 ```
 
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area. The following example adds a rectangle to the catalog merge area in the specified publication. This example assumes a catalog merge area has been added to the first page of the publication.
+Используйте метод **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** объектов **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** добавление фигур в области объединения в каталог. Следующий пример добавляет прямоугольник области данных в указанной публикации. В этом примере предполагается, что область объединения в каталог был добавлен к первой страницы публикации.
  
 
  
@@ -80,7 +81,7 @@ Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
-Use  **CatalogMergeItems** (index), where index is index number, to return a single catalog merge area shape. The following example removes the first shape from the catalog merge area.
+Используйте **CatalogMergeItems** (индекс), где индекс — номер индекса, для возвращения фигуры области объединения один каталог. Следующий пример удаляет первую фигуру из области данных.
  
 
  
@@ -91,7 +92,7 @@ Use  **CatalogMergeItems** (index), where index is index number, to return a sin
 ThisDocument.Pages(1).Shapes(1).CatalogMergeItems(1).RemoveFromCatalogMergeArea
 ```
 
-Use the  **[RemoveFromCatalogMergeArea](shape-removefromcatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to remove shapes from a catalog merge area. Removed shapes are not deleted, but are instead placed on the publication page containing the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
+Метод **[RemoveFromCatalogMergeArea](shape-removefromcatalogmergearea-method-publisher.md)** **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** объектов для удаления из области фигуры. Удаленные фигур не удаляются, но вместо этого помещаются на странице публикации, содержащий области данных. Следующий пример проверяет, является ли указанный публикация содержит область объединения в каталог. Если это так, удаляются из области данных и удаления всех фигур и затем область данных удаляется из публикации.
  
 
  
@@ -127,24 +128,24 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](catalogmergeshapes-item-method-publisher.md)|
+|[Элемент](catalogmergeshapes-item-method-publisher.md)|
 |[Range](catalogmergeshapes-range-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](catalogmergeshapes-application-property-publisher.md)|
+|[Приложения](catalogmergeshapes-application-property-publisher.md)|
 |[Count](catalogmergeshapes-count-property-publisher.md)|
 |[HorizontalRepeat](catalogmergeshapes-horizontalrepeat-property-publisher.md)|
-|[Parent](catalogmergeshapes-parent-property-publisher.md)|
+|[Родительский раздел](catalogmergeshapes-parent-property-publisher.md)|
 |[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)|
 

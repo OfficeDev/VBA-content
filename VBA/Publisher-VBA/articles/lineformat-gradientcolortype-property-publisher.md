@@ -1,36 +1,38 @@
 ---
-title: LineFormat.GradientColorType Property (Publisher)
+title: "Свойство LineFormat.GradientColorType (издатель)"
 keywords: vbapb10.chm3408150
-f1_keywords:
-- vbapb10.chm3408150
+f1_keywords: vbapb10.chm3408150
 ms.prod: publisher
 ms.assetid: bb8f15c6-1cd1-d023-1e6f-037ab09b635a
 ms.date: 06/08/2017
+ms.openlocfilehash: 2d02e613f2dbf8ddacf6a74f63cea922086f4e80
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatgradientcolortype-property-publisher"></a>Свойство LineFormat.GradientColorType (издатель)
+
+Возвращает тип градиента для указанной строки. Только для чтения.
 
 
-# LineFormat.GradientColorType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the gradient color type for the specified line. Read-only.
+ _выражение_. **GradientColorType**
 
-
-## Syntax
-
- _expression_. **GradientColorType**
-
- _expression_A variable that represents a  **LineFormat** object.
+ переменная _expression_A, представляет собой объект- **LineFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MsoGradientColorType**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [LineFormat Object](lineformat-object-publisher.md)
+ [Объект LineFormat](lineformat-object-publisher.md)
 

@@ -1,36 +1,37 @@
 ---
-title: MailMergeDataSource.ConnectString Property (Publisher)
+title: "Свойство MailMergeDataSource.ConnectString (издатель)"
 keywords: vbapb10.chm6291460
-f1_keywords:
-- vbapb10.chm6291460
+f1_keywords: vbapb10.chm6291460
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.ConnectString
+api_name: Publisher.MailMergeDataSource.ConnectString
 ms.assetid: d7719567-f946-6b76-3ff2-d372dcc76a17
 ms.date: 06/08/2017
+ms.openlocfilehash: 6742c8baf290a2bae3e9e0dd41540f36cc5e5de6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourceconnectstring-property-publisher"></a>Свойство MailMergeDataSource.ConnectString (издатель)
+
+Возвращает **строку** , представляющую подключения для указанного источника данных. Только для чтения.
 
 
-# MailMergeDataSource.ConnectString Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the connection to the specified mail merge data source. Read-only.
+ _выражение_. **Стрсоедин**
 
-
-## Syntax
-
- _expression_. **ConnectString**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example checks if the connection string contains the characters OLEDB and displays a message accordingly.
+В этом примере проверяется, если строка подключения содержит указанные символы OLEDB и отображает сообщение соответствующим образом.
 
 
 ```vb

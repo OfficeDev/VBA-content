@@ -1,39 +1,40 @@
 ---
-title: MailMergeDataSource.ValidatedClean Property (Publisher)
+title: "Свойство MailMergeDataSource.ValidatedClean (издатель)"
 keywords: vbapb10.chm6291497
-f1_keywords:
-- vbapb10.chm6291497
+f1_keywords: vbapb10.chm6291497
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.ValidatedClean
+api_name: Publisher.MailMergeDataSource.ValidatedClean
 ms.assetid: 652d2c25-dd15-7431-897b-b17b171b10ea
 ms.date: 06/08/2017
+ms.openlocfilehash: cc501ad20d987f6fdc1e3d4781ab1f234f9ee382
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcevalidatedclean-property-publisher"></a>Свойство MailMergeDataSource.ValidatedClean (издатель)
+
+Указывает, будет ли все адреса получателей в родительский объект **вывода** успешно прошли проверку, и следует ли внесения изменений в список с момента последней проверки, который требуется список проверяемые еще раз. Чтение и запись.
 
 
-# MailMergeDataSource.ValidatedClean Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates whether all recipient addresses in the the parent  **MailMergeDataSource** object were successfully validated, and whether any changes are made to the list since the last validation that require the list to be validated again. Read/write.
+ _выражение_. **ValidatedClean**
 
-
-## Syntax
-
- _expression_. **ValidatedClean**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If you create an add-in for Microsoft Publisher that validates recipient addresses and maintains its own data sources, your add-in can set the  **ValidatedClean** property value to **True** after a successful validation.
+При создании надстройки для Microsoft Publisher, проверяет адреса получателей и обслуживает собственные источники данных,-связи можно задать значение свойства **ValidatedClean** значение **True,** после успешной проверки.
 
-The  **ValidatedClean** property value is not persisted in the Publisher file, and is set to **False** by default when you first open a publication.
+Значение свойства **ValidatedClean** не сохраняется в файле издателя и имеет значение **False** по умолчанию при открытии публикации.
 
-Publisher resets the  **ValidatedClean** property value to **False** whenever you add a new data source, change a filter setting, or change a sort setting.
+Publisher сбрасывает значение свойства **ValidatedClean** **False** при добавить новый источник данных, изменить параметр filter или изменение Настройка сортировки.
 
 

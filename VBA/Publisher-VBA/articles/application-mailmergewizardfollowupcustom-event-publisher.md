@@ -1,46 +1,47 @@
 ---
-title: Application.MailMergeWizardFollowUpCustom Event (Publisher)
+title: "Событие Application.MailMergeWizardFollowUpCustom (издатель)"
 keywords: vbapb10.chm268435490
-f1_keywords:
-- vbapb10.chm268435490
+f1_keywords: vbapb10.chm268435490
 ms.prod: publisher
-api_name:
-- Publisher.Application.MailMergeWizardFollowUpCustom
+api_name: Publisher.Application.MailMergeWizardFollowUpCustom
 ms.assetid: ac8cb695-69a4-83f7-8e13-66762f52f611
 ms.date: 06/08/2017
+ms.openlocfilehash: e83e913830c9451a576651dce668e5afdf5fdd74
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationmailmergewizardfollowupcustom-event-publisher"></a>Событие Application.MailMergeWizardFollowUpCustom (издатель)
+
+Возникает при нажатии строку, которая отображается как четвертый элемента в разделе **Подготовка к отслеживанию результатов рассылки** на **третий области задач в интерфейсе пользователя Microsoft Publisher** .
 
 
-# Application.MailMergeWizardFollowUpCustom Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Fires when the string that appears as the fourth item under  **Prepare to follow-up on this mailing** on the third **Mail Merge** task pane in the Microsoft Publisher user interface is clicked.
+ _выражение_. **MailMergeWizardFollowUpCustom** ( **_Doc_**)
 
-
-## Syntax
-
- _expression_. **MailMergeWizardFollowUpCustom**( **_Doc_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
+|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use the  **[ShowFollowUpCustom](application-showfollowupcustom-property-publisher.md)** property to display this string.
+Свойство **[ShowFollowUpCustom](application-showfollowupcustom-property-publisher.md)** используется для отображения этой строки.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **MailMergeWizardFollowUpCustom** event. It displays a message notifying the user that the string described above was displayed.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **MailMergeWizardFollowUpCustom** . Будет выведено сообщение о том, что отображенные строки, описанных выше.
 
 
 ```vb
@@ -49,7 +50,7 @@ Private Sub pubApplication_MailMergeWizardFollowUpCustom(ByVal Doc As Document)
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
 
 
 
@@ -58,7 +59,7 @@ For this event to occur, you must place the following line of code in the  **Gen
 Private WithEvents pubApplication As Application
 ```
 
-Then run the following initialization procedure.
+Затем выполните следующую процедуру инициализации.
 
 
 
@@ -70,11 +71,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

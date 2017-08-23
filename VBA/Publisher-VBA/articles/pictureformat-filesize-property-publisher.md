@@ -1,43 +1,44 @@
 ---
-title: PictureFormat.FileSize Property (Publisher)
+title: "Свойство PictureFormat.FileSize (издатель)"
 keywords: vbapb10.chm3604757
-f1_keywords:
-- vbapb10.chm3604757
+f1_keywords: vbapb10.chm3604757
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.FileSize
+api_name: Publisher.PictureFormat.FileSize
 ms.assetid: 8bad7bc0-7381-9bd8-3db8-5841e41ccb34
 ms.date: 06/08/2017
+ms.openlocfilehash: 230a196706401a004e253134c299b6542ca65d0c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatfilesize-property-publisher"></a>Свойство PictureFormat.FileSize (издатель)
+
+Возвращает значение типа **Long** , представляющее, в байтах, размер изображения или объекта OLE, как оно отображается в указанной публикации. Только для чтения.
 
 
-# PictureFormat.FileSize Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents, in bytes, the size of the picture or OLE object as it appears in the specified publication. Read-only.
+ _выражение_. **Размер файла**
 
-
-## Syntax
-
- _expression_. **FileSize**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-If the picture or OLE object is linked, use the  **[OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)** property to determine the size of the linked file.
-
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+Длинный
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example tests each picture in the active publication, and prints selected image properties for pictures that are linked.
+Свойство **[OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)** для определения размера связанный файл, если связанного рисунка или объекта OLE.
+
+Чтобы определить, является ли фигура представляет связанного рисунка, используйте свойство **[Type](shape-type-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** или свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** .
+
+
+## <a name="example"></a>Пример
+
+В следующем примере проверяется каждого изображения в активной публикации и печатает свойства выбранного изображения для изображений, которые связаны.
 
 
 ```vb

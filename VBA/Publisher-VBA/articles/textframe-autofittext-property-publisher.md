@@ -1,41 +1,42 @@
 ---
-title: TextFrame.AutoFitText Property (Publisher)
+title: "Свойство TextFrame.AutoFitText (издатель)"
 keywords: vbapb10.chm3866630
-f1_keywords:
-- vbapb10.chm3866630
+f1_keywords: vbapb10.chm3866630
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.AutoFitText
+api_name: Publisher.TextFrame.AutoFitText
 ms.assetid: 468a9d3e-cb9d-8147-60ea-eb839d691e7a
 ms.date: 06/08/2017
+ms.openlocfilehash: 8b50a265a9714038e629ef318d44e81b9fb885d5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframeautofittext-property-publisher"></a>Свойство TextFrame.AutoFitText (издатель)
+
+Задает или возвращает константу **PbTextAutoFitType**, представляющий как Microsoft Publisher автоматически изменяет размер шрифта текста и размер объектов **TextFrame** для лучшего просмотра. Чтение и запись.
 
 
-# TextFrame.AutoFitText Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **PbTextAutoFitType**constant that represents how Microsoft Publisher automatically adjusts the text font size and the  **TextFrame** objects size for best viewing. Read/write.
+ _выражение_. **AutoFitText**
 
-
-## Syntax
-
- _expression_. **AutoFitText**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbTextAutoFitType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **AutoFitText** property value can be one of the **[PbTextAutoFitType](pbtextautofittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **AutoFitText** может иметь одно из **[PbTextAutoFitType](pbtextautofittype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests to see if the text frame has text, and if so, the  **AutoFitText** property is set to best fit.
+Следующий пример проверяет ли надпись содержит текст, и если да, свойству **AutoFitText** лучше всего подходит.
 
 
 ```vb

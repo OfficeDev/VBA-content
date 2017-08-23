@@ -1,51 +1,52 @@
 ---
-title: ParagraphFormat.WidowControl Property (Publisher)
+title: "Свойство ParagraphFormat.WidowControl (издатель)"
 keywords: vbapb10.chm5439536
-f1_keywords:
-- vbapb10.chm5439536
+f1_keywords: vbapb10.chm5439536
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.WidowControl
+api_name: Publisher.ParagraphFormat.WidowControl
 ms.assetid: af1f1106-60e3-3987-3710-30fae7cf3940
 ms.date: 06/08/2017
+ms.openlocfilehash: f25749d76604b99881384abd4d3f2220b5f65978
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatwidowcontrol-property-publisher"></a>Свойство ParagraphFormat.WidowControl (издатель)
+
+Задает или возвращает **MsoTriState** , представляющий ли первой или последней строки указанного абзаца могут появляться, сам по себе в текстовом поле. Чтение и запись.
 
 
-# ParagraphFormat.WidowControl Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns an  **MsoTriState** that represents whether or not the first or last line of the specified paragraph can appear by itself in a text box. Read/write.
+ _выражение_. **WidowControl**
 
-
-## Syntax
-
- _expression_. **WidowControl**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This option ensures that the first or last line of the specified paragraph will not appear by itself in a text frame. For example, if the last line in a specified paragraph is the first line of a widow controlled paragraph, a second line will be moved to the next text frame with it.
+Этот параметр гарантирует, что первой или последней строки указанного абзаца не будет отображаться сам по себе в рамке. Например если последней строки в указанном абзаце является первой строки абзаца запрет управляются, второй строке перемещается на следующий кадр текста с ним.
 
-The  **WidowControl** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **WidowControl** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The first or last line may appear by itself in a text box.|
-| **msoTrue**|The first or last line will not appear by itself in a text box.|
-The default setting for this property is  **msoFalse**.
+| **msoFalse**|В текстовом поле первой или последней строке могут отображаться сам по себе.|
+| **msoTrue**|В текстовом поле сам по себе не появится строка или фамилии.|
+Значение по умолчанию для этого свойства — **msoFalse**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the  **WidowControl** property to **msoTrue** for the specified **ParagraphFormat** object.
+В этом примере задается свойство **WidowControl** **msoTrue** для указанного объекта **ParagraphFormat** .
 
 
 ```vb

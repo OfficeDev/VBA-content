@@ -1,41 +1,42 @@
 ---
-title: LineFormat.DashStyle Property (Publisher)
+title: "Свойство LineFormat.DashStyle (издатель)"
 keywords: vbapb10.chm3408132
-f1_keywords:
-- vbapb10.chm3408132
+f1_keywords: vbapb10.chm3408132
 ms.prod: publisher
-api_name:
-- Publisher.LineFormat.DashStyle
+api_name: Publisher.LineFormat.DashStyle
 ms.assetid: c2904350-89c1-2fc0-5bae-86f5193c8732
 ms.date: 06/08/2017
+ms.openlocfilehash: 542c8049efd62f442aa1f3b01dceb51f04f4eb19
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatdashstyle-property-publisher"></a>Свойство LineFormat.DashStyle (издатель)
+
+Возвращает или задает константой **MsoLineDashStyle** , указывающее, помощник для указанной строки. Чтение и запись.
 
 
-# LineFormat.DashStyle Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
+ _выражение_. **DashStyle**
 
-
-## Syntax
-
- _expression_. **DashStyle**
-
- _expression_A variable that represents a  **LineFormat** object.
+ переменная _expression_A, представляет собой объект- **LineFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoLineDashStyle
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **DashStyle** может иметь одно из ** [MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a blue dashed line to the active publication.
+В этом примере добавляет синий пунктирная линия active публикации.
 
 
 ```vb

@@ -1,40 +1,41 @@
 ---
-title: Document.RedoActionsAvailable Property (Publisher)
+title: "Свойство Document.RedoActionsAvailable (издатель)"
 keywords: vbapb10.chm196727
-f1_keywords:
-- vbapb10.chm196727
+f1_keywords: vbapb10.chm196727
 ms.prod: publisher
-api_name:
-- Publisher.Document.RedoActionsAvailable
+api_name: Publisher.Document.RedoActionsAvailable
 ms.assetid: 9af11772-e807-730a-89a0-da06e979f834
 ms.date: 06/08/2017
+ms.openlocfilehash: d12ad5c38acddc7b81c2851075b4b2a02f81f5ca
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentredoactionsavailable-property-publisher"></a>Свойство Document.RedoActionsAvailable (издатель)
+
+Возвращает число действий, доступных в стеке повтора. Только для чтения **времени**.
 
 
-# Document.RedoActionsAvailable Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the number of actions available on the redo stack. Read-only  **Long**.
+ _выражение_. **RedoActionsAvailable**
 
-
-## Syntax
-
- _expression_. **RedoActionsAvailable**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a rectangle that contains a text frame to the fourth page of the active publication. Some font properties and the text of the text frame are set. A test is then run to determine whether the font in the text frame is Courier. If so, the  **[Undo](document-undo-method-publisher.md)** method is used with the value of the **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** property passed as a parameter to specify that all previous actions be undone.
+В следующем примере добавляется прямоугольника, который содержит фрагмент текста на страницу четвертый active публикации. Некоторые свойства шрифта и текст надписи зависят от выбора. Затем запускается для определения, является ли шрифт в элементе frame текст Courier. Если это так, метод **[Отменить](document-undo-method-publisher.md)** используется со значением свойства **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** , передается как параметр для указания, что все предыдущие действия быть отменены.
 
-The  **[Redo](document-redo-method-publisher.md)** method is then used with the value of the **RedoActionsAvailable** property minus 2 passed as a parameter to redo all actions except for the last two. A new font is specified for the text in the text frame, in addition to new text.
+Метод **[Повторить](document-redo-method-publisher.md)** нажмите используется со значением свойства **RedoActionsAvailable** минус 2, передается как параметр для возврата всех действий, за исключением последние два. Новый шрифт указан текст в текстовой рамки, в дополнение к новый текст.
 
-This example assumes the active document contains at least four pages.
+В этом примере предполагается, что активный документ содержит по крайней мере четыре страницы.
 
 
 

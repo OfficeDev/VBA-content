@@ -1,43 +1,44 @@
 ---
-title: ConnectorFormat.BeginConnected Property (Publisher)
+title: "Свойство ConnectorFormat.BeginConnected (издатель)"
 keywords: vbapb10.chm3211520
-f1_keywords:
-- vbapb10.chm3211520
+f1_keywords: vbapb10.chm3211520
 ms.prod: publisher
-api_name:
-- Publisher.ConnectorFormat.BeginConnected
+api_name: Publisher.ConnectorFormat.BeginConnected
 ms.assetid: ed70561e-b63e-530d-87be-1e6b7d87c425
 ms.date: 06/08/2017
+ms.openlocfilehash: 28438ef68ad560e5845c6a658dc1d35988768950
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="connectorformatbeginconnected-property-publisher"></a>Свойство ConnectorFormat.BeginConnected (издатель)
+
+Возвращает константу **MsoTriState**, указывающее, подключен ли в начало соединительной фигуры. Только для чтения.
 
 
-# ConnectorFormat.BeginConnected Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoTriState**constant indicating whether the beginning of the specified connector is connected to a shape. Read-only.
+ _выражение_. **BeginConnected**
 
-
-## Syntax
-
- _expression_. **BeginConnected**
-
- _expression_A variable that represents a  **ConnectorFormat** object.
+ переменная _expression_A, представляет собой объект- **ConnectorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **BeginConnected** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **BeginConnected** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
-Use the  **[EndConnected](connectorformat-endconnected-property-publisher.md)** property to determine if the end of a connector is connected to a shape.
+Свойство **[EndConnected](connectorformat-endconnected-property-publisher.md)** определяет, подключен ли конца соединителя фигуры.
 
 
-## Example
+## <a name="example"></a>Пример
 
-If the third shape on the first page in the active publication is a connector whose beginning is connected to a shape, this example stores the connection site number, stores a reference to the connected shape, and then disconnects the beginning of the connector from the shape.
+Если третий фигуры на первой странице в активной публикации соединитель, начало подключена к фигуры, в этом примере хранит номера сайта подключения, содержит ссылку на подключенных фигуры и отключается фигуру начала соединитель.
 
 
 ```vb

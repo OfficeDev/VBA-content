@@ -1,36 +1,37 @@
 ---
-title: Page.Duplicate Method (Publisher)
+title: "Метод Page.Duplicate (издатель)"
 keywords: vbapb10.chm393256
-f1_keywords:
-- vbapb10.chm393256
+f1_keywords: vbapb10.chm393256
 ms.prod: publisher
-api_name:
-- Publisher.Page.Duplicate
+api_name: Publisher.Page.Duplicate
 ms.assetid: 9ef9d493-d2ca-8cac-3cce-6f0878acb288
 ms.date: 06/08/2017
+ms.openlocfilehash: 9758821cd621c9fb1bfbe4200adc8b6ca3205d4e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pageduplicate-method-publisher"></a>Метод Page.Duplicate (издатель)
+
+Создает копию на указанный объект **страницы** и возвращает новый объект **Page** .
 
 
-# Page.Duplicate Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Creates a duplicate of the specified  **Page** object and then returns the new **Page** object.
+ _выражение_. **Дублирующиеся**
 
-
-## Syntax
-
- _expression_. **Duplicate**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Page
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example duplicates the first page in the publication and then sets properties for the duplicate. A shape is then added to the new page and properties are set for the shape.
+В следующем примере дублирует первой страницы публикации и затем задает свойства для повторяющихся. Фигура добавляется новая страница и установки свойств фигуры.
 
 
 ```vb

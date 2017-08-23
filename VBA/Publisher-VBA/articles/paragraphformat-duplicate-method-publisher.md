@@ -1,36 +1,37 @@
 ---
-title: ParagraphFormat.Duplicate Method (Publisher)
+title: "Метод ParagraphFormat.Duplicate (издатель)"
 keywords: vbapb10.chm5439510
-f1_keywords:
-- vbapb10.chm5439510
+f1_keywords: vbapb10.chm5439510
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.Duplicate
+api_name: Publisher.ParagraphFormat.Duplicate
 ms.assetid: 83156999-7867-05c2-9e85-4cc0f580ac6e
 ms.date: 06/08/2017
+ms.openlocfilehash: 12048fac340edba4d1f21e77723093cd74846393
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatduplicate-method-publisher"></a>Метод ParagraphFormat.Duplicate (издатель)
+
+Создает копию на указанный объект **[ParagraphFormat](paragraphformat-object-publisher.md)** и возвращает новый объект **ParagraphFormat** .
 
 
-# ParagraphFormat.Duplicate Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Creates a duplicate of the specified  **[ParagraphFormat](paragraphformat-object-publisher.md)** object and then returns the new **ParagraphFormat** object.
+ _выражение_. **Дублирующиеся**
 
-
-## Syntax
-
- _expression_. **Duplicate**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ParagraphFormat
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example duplicates the paragraph formatting information from the text range in shape one on page one of the active publication and applies it to the text range in shape two.
+В следующем примере дублирует форматирование информации из диапазона текст в фигуре одно на странице абзаца, один из активных публикации и применяется к диапазон текста в форме двух.
 
 
 ```vb

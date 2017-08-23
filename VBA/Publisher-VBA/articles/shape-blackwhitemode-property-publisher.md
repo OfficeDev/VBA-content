@@ -1,36 +1,37 @@
 ---
-title: Shape.BlackWhiteMode Property (Publisher)
+title: "Свойство Shape.BlackWhiteMode (издатель)"
 keywords: vbapb10.chm2228336
-f1_keywords:
-- vbapb10.chm2228336
+f1_keywords: vbapb10.chm2228336
 ms.prod: publisher
-api_name:
-- Publisher.Shape.BlackWhiteMode
+api_name: Publisher.Shape.BlackWhiteMode
 ms.assetid: 0a735488-956f-bd3c-ad74-1639780e4e24
 ms.date: 06/08/2017
+ms.openlocfilehash: 084dd08559cd00db27d7430adbf7cf1688f4043b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeblackwhitemode-property-publisher"></a>Свойство Shape.BlackWhiteMode (издатель)
+
+Возвращает или задает константой **MsoBlackWhiteMode**, указывающее, как указанные форму или диапазона фигуры отображается при просмотре публикации в черно-белом режиме. Чтение и запись.
 
 
-# Shape.BlackWhiteMode Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified shape or shape range appears when the publication is viewed in black-and-white mode. Read/write.
+ _выражение_. **BlackWhiteMode**
 
-
-## Syntax
-
- _expression_. **BlackWhiteMode**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **BlackWhiteMode** может иметь одно из ** [MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the first shape in the active publication to appear in black-and-white mode. When you view the publication in black-and-white mode, the shape will appear black, regardless of what color it is in color mode.
+В этом примере задается первую фигуру в active публикации, которая будет отображаться в черно-белом режиме. При просмотре публикации в черно-белом режиме фигуры будет отображаться черные, независимо от того, какой цвет в режиме цвета.
 
 
 ```vb

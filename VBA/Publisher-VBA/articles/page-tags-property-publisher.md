@@ -1,31 +1,32 @@
 ---
-title: Page.Tags Property (Publisher)
+title: "Свойство Page.Tags (издатель)"
 keywords: vbapb10.chm393235
-f1_keywords:
-- vbapb10.chm393235
+f1_keywords: vbapb10.chm393235
 ms.prod: publisher
-api_name:
-- Publisher.Page.Tags
+api_name: Publisher.Page.Tags
 ms.assetid: 94a8be36-20c2-65bc-b1e2-41f24703b264
 ms.date: 06/08/2017
+ms.openlocfilehash: cb46a1cab2310ae7f98b4d9489f55790d82cac63
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagetags-property-publisher"></a>Свойство Page.Tags (издатель)
+
+Возвращает коллекцию **[тегов](tags-object-publisher.md)** , представляющее теги или настраиваемых свойств, применяемых к фигуры, диапазона фигуры, страницы или публикации.
 
 
-# Page.Tags Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Tags](tags-object-publisher.md)** collection representing tags or custom properties applied to a shape, shape range, page, or publication.
+ _выражение_. **Теги**
 
-
-## Syntax
-
- _expression_. **Tags**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a tag to each oval shape on the first page of the active publication.
+В этом примере добавляется тег для каждой фигуры овала на первой странице active публикации.
 
 
 ```vb

@@ -1,41 +1,43 @@
 ---
-title: Font.StrikeThrough Property (Publisher)
+title: "Свойство Font.StrikeThrough (издатель)"
 keywords: vbapb10.chm5374017
-f1_keywords:
-- vbapb10.chm5374017
+f1_keywords: vbapb10.chm5374017
 ms.prod: publisher
 ms.assetid: fa4bca2d-b43d-4d2b-901f-858e277df520
 ms.date: 06/08/2017
+ms.openlocfilehash: a42efcf151a34cd457dbc79e099754044b6e9c38
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontstrikethrough-property-publisher"></a>Свойство Font.StrikeThrough (издатель)
+
+Возвращает или задает константой **MsoTriState** , представляющее состояние свойства **зачеркивание** символы в диапазон текста. Чтение и запись.
 
 
-# Font.StrikeThrough Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant that represents the state of the **StrikeThrough** property on the characters in a text range. Read/write.
+ _выражение_. **Зачеркивание**
 
-
-## Syntax
-
- _expression_. **StrikeThrough**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
  **MsoTriState**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **StrikeThrough** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+Значение свойства **зачеркивание** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|None of the characters in the range are formatted as strikethrough.|
-| **msoTriStateMixed**|Return value indicating that the range contains some text formatted as strikethrough and some text not formatted as strikethrough.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All characters in the range are formatted as strikethrough.|
+| **msoFalse**|Ни один из символов в диапазоне форматируются как зачеркивание.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, что диапазон содержит текст в формате зачеркивание и текст не в формате зачеркивание.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Все символы в диапазоне форматируются как зачеркивание.|
 

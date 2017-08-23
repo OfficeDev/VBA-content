@@ -1,44 +1,45 @@
 ---
-title: CalloutFormat.CustomDrop Method (Publisher)
+title: "Метод CalloutFormat.CustomDrop (издатель)"
 keywords: vbapb10.chm2490385
-f1_keywords:
-- vbapb10.chm2490385
+f1_keywords: vbapb10.chm2490385
 ms.prod: publisher
-api_name:
-- Publisher.CalloutFormat.CustomDrop
+api_name: Publisher.CalloutFormat.CustomDrop
 ms.assetid: 65fc7309-acd0-5bdd-6bb0-1b6c41968775
 ms.date: 06/08/2017
+ms.openlocfilehash: 8ce55fbd8583d8e2d7624fd88dbf327cab200d05
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="calloutformatcustomdrop-method-publisher"></a>Метод CalloutFormat.CustomDrop (издатель)
+
+Задает расстояние по вертикали от края текста, ограничивающий прямоугольник в то место, где линии выноски подключает текстовое поле.
 
 
-# CalloutFormat.CustomDrop Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box.
+ _выражение_. **CustomDrop** ( **_Удалить_**)
 
-
-## Syntax
-
- _expression_. **CustomDrop**( **_Drop_**)
-
- _expression_A variable that represents a  **CalloutFormat** object.
+ переменная _expression_A, представляет собой объект- **CalloutFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Drop|Required| **Variant**|The drop distance. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
+|Поместите|Обязательное свойство.| **Variant**|Расстояние размещения сообщений. Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The drop distance is normally measured from the top of the text box. However, if the  **[AutoAttach](calloutformat-autoattach-property-publisher.md)** property is set to **True** and the text box is to the left of the origin of the callout line (the place to which the callout points), the drop distance is measured from the bottom of the text box.
+Расстояние размещения обычно отсчитывается от верхней части текстового поля. Тем не менее если свойство **[AutoAttach](calloutformat-autoattach-property-publisher.md)** имеет значение **True** , а поле — слева от происхождения линии выноски (месте, на который указывает выноски) раскрывающегося расстояния измеряется в нижней части текстового поля.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the custom drop distance to 14 points, and specifies that the drop distance always be measured from the top. For the example to work, the third shape in the active publication must be a callout.
+В этом примере задается расстояние перетаскивания 14 пунктов, а также определяет всегда измеряется раскрывающегося расстояния сверху. Для обеспечения работы примера третий фигуры в активной публикации должен быть выноске.
 
 
 ```vb

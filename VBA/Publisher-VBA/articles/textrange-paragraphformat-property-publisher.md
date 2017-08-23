@@ -1,31 +1,32 @@
 ---
-title: TextRange.ParagraphFormat Property (Publisher)
+title: "Свойство TextRange.ParagraphFormat (издатель)"
 keywords: vbapb10.chm5308439
-f1_keywords:
-- vbapb10.chm5308439
+f1_keywords: vbapb10.chm5308439
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.ParagraphFormat
+api_name: Publisher.TextRange.ParagraphFormat
 ms.assetid: 475da411-9292-a12d-addd-1bbe822ec09e
 ms.date: 06/08/2017
+ms.openlocfilehash: 57308aa2f14ec7b26506e7f700e97e1479c15e95
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangeparagraphformat-property-publisher"></a>Свойство TextRange.ParagraphFormat (издатель)
+
+Возвращает объект **[ParagraphFormat](paragraphformat-object-publisher.md)** , представляющий форматирование абзаца для указанного текста диапазон или стиля текста.
 
 
-# TextRange.ParagraphFormat Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ParagraphFormat](paragraphformat-object-publisher.md)** object representing the paragraph formatting for the specified text range or text style.
+ _выражение_. **ParagraphFormat**
 
-
-## Syntax
-
- _expression_. **ParagraphFormat**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example removes all the tab stops from the text in the first shape on page one of the active publication.
+Следующий пример удаляет все табуляции из текста в первую фигуру на странице один из активных публикации.
 
 
 ```vb

@@ -1,31 +1,32 @@
 ---
-title: TextFrame.MarginTop Property (Publisher)
+title: "Свойство TextFrame.MarginTop (издатель)"
 keywords: vbapb10.chm3866645
-f1_keywords:
-- vbapb10.chm3866645
+f1_keywords: vbapb10.chm3866645
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.MarginTop
+api_name: Publisher.TextFrame.MarginTop
 ms.assetid: 9709eefe-0857-f228-aa56-780c4789a413
 ms.date: 06/08/2017
+ms.openlocfilehash: 46f89ae4779febd39144d207bf393914590ce228
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframemargintop-property-publisher"></a>Свойство TextFrame.MarginTop (издатель)
+
+Возвращает или задает **Variant** , который представляет дискового пространства (в точках) между текстом и верхнего края ячейки, текстового фрейма или страницы. Чтение и запись.
 
 
-# TextFrame.MarginTop Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the top edge of a cell, text frame, or page. Read/write.
+ _выражение_. **MarginTop**
 
-
-## Syntax
-
- _expression_. **MarginTop**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the margins of the active publication to two inches.
+В этом примере задается полей активной публикации для двух дюйма.
 
 
 ```vb

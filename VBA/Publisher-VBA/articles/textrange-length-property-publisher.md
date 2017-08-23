@@ -1,31 +1,32 @@
 ---
-title: TextRange.Length Property (Publisher)
+title: "Свойство TextRange.Length (издатель)"
 keywords: vbapb10.chm5308432
-f1_keywords:
-- vbapb10.chm5308432
+f1_keywords: vbapb10.chm5308432
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Length
+api_name: Publisher.TextRange.Length
 ms.assetid: 003b4ad1-2c09-17c9-279b-b1cf2ebdb40a
 ms.date: 06/08/2017
+ms.openlocfilehash: a1e15f47df0253406d80cddbcc0d81ab4a8d9976
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangelength-property-publisher"></a>Свойство TextRange.Length (издатель)
+
+Возвращает значение типа **Long** , указывающее длину диапазона указанный текст в символах. Только для чтения.
 
 
-# TextRange.Length Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** value indicating the length of the specified text range, in characters. Read-only.
+ _выражение_. **Длина**
 
-
-## Syntax
-
- _expression_. **Length**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the font size of a text frame on page two to 48 points if the text frame contains more than five characters, or it sets the font size to 72 points if the text frame has five or fewer characters.
+В этом примере задает размер шрифта фрагмент текста на странице двух до 48 точек Если надпись содержит более пяти символов, или задает размер шрифта 72 точки, если рамки содержит более пяти символов.
 
 
 ```vb

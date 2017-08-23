@@ -1,46 +1,47 @@
 ---
-title: Attachments.Item Property (Publisher)
+title: "Свойство Attachments.Item (издатель)"
 keywords: vbapb10.chm569344
-f1_keywords:
-- vbapb10.chm569344
+f1_keywords: vbapb10.chm569344
 ms.prod: publisher
-api_name:
-- Publisher.Attachments.Item
+api_name: Publisher.Attachments.Item
 ms.assetid: fa01c528-fc0d-9fbd-1dad-cab695a14682
 ms.date: 06/08/2017
+ms.openlocfilehash: e5697d5b0919be0cf76da288f17685a8e1c387ba
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="attachmentsitem-property-publisher"></a>Свойство Attachments.Item (издатель)
+
+Возвращает объект **[вложения](attachment-object-publisher.md)** по указанному индексу в коллекции **[вложений](attachments-object-publisher.md)** . Только для чтения. .
 
 
-# Attachments.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **[Attachment](attachment-object-publisher.md)** object at the specified index position in the **[Attachments](attachments-object-publisher.md)** collection. Read-only. .
+ _выражение_. **Элемент** ( **_Элемент_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Item_**)
-
- _expression_A variable that represents an  **Attachments** collection.
+ переменная _expression_A, представляющий коллекцию **вложений** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The index position of the attachment to be returned.|
+|Item|Обязательное свойство.| **Длинный**|Индекс вложения должно быть возвращено.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Attachment
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Attachments Collection](attachments-object-publisher.md)
+ [Коллекция вложений](attachments-object-publisher.md)
 

@@ -1,30 +1,31 @@
 ---
-title: Row.Delete Method (Publisher)
+title: "Метод Row.Delete (издатель)"
 keywords: vbapb10.chm4849669
-f1_keywords:
-- vbapb10.chm4849669
+f1_keywords: vbapb10.chm4849669
 ms.prod: publisher
-api_name:
-- Publisher.Row.Delete
+api_name: Publisher.Row.Delete
 ms.assetid: 2fbc2849-9553-bc4a-a3a2-1a2779819066
 ms.date: 06/08/2017
+ms.openlocfilehash: 4ede356e2ca164eb91f42e64eeb35a76b1737772
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rowdelete-method-publisher"></a>Метод Row.Delete (издатель)
+
+Удаляет указанный объект.
 
 
-# Row.Delete Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Deletes the specified object.
+ _выражение_. **Удаление**
 
-
-## Syntax
-
- _expression_. **Delete**
-
- _expression_A variable that represents a  **Row** object.
+ переменная _expression_A, представляет собой объект- **строку** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-A run-time error occurs if the specified object does not exist.
+Если указанный объект не существует, возникает ошибка времени выполнения.
 
 

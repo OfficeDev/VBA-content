@@ -1,36 +1,37 @@
 ---
-title: Font.Grow Method (Publisher)
+title: "Метод Font.Grow (издатель)"
 keywords: vbapb10.chm5373990
-f1_keywords:
-- vbapb10.chm5373990
+f1_keywords: vbapb10.chm5373990
 ms.prod: publisher
-api_name:
-- Publisher.Font.Grow
+api_name: Publisher.Font.Grow
 ms.assetid: 41d48db2-4a0d-6efc-80c5-c6f035e9e6ff
 ms.date: 06/08/2017
+ms.openlocfilehash: 83fcda6b9ba5c8f2d37aff8b2770e8f8aa5ef4f3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontgrow-method-publisher"></a>Метод Font.Grow (издатель)
+
+Увеличение размера шрифта до следующего доступные значения.
 
 
-# Font.Grow Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Increases the font size to the next available size.
+ _выражение_. **Увеличьте размеры**
 
-
-## Syntax
-
- _expression_. **Grow**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If the selection or range contains more than one font size, each size is increased to the next available setting.
+Если выделение или диапазон содержит более одного размер шрифта, размер каждого увеличивается до доступен следующий параметр.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example increases the font size of the fourth word in a new textbox.
+В этом примере увеличивается размер шрифта четвертый word в новый текстовое поле.
 
 
 ```vb
@@ -55,7 +56,7 @@ Sub GrowFont()
 End Sub
 ```
 
-This example increases the font size of the selected text.
+В этом примере увеличивается размер шрифта выделенного текста.
 
 
 

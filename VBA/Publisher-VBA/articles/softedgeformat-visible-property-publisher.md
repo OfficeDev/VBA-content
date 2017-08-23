@@ -1,37 +1,39 @@
 ---
-title: SoftEdgeFormat.Visible Property (Publisher)
+title: "Свойство SoftEdgeFormat.Visible (издатель)"
 keywords: vbapb10.chm9568259
-f1_keywords:
-- vbapb10.chm9568259
+f1_keywords: vbapb10.chm9568259
 ms.prod: publisher
 ms.assetid: e95a9764-4e36-5757-3d78-ae0344bf3562
 ms.date: 06/08/2017
+ms.openlocfilehash: e39961af0a1d8b28ac4c57c93575249919e67e5e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="softedgeformatvisible-property-publisher"></a>Свойство SoftEdgeFormat.Visible (издатель)
+
+ **Значение true,** Если указанный объект или форматирование применяется к нему, отображается. Чтение и запись **MsoTriState**.
 
 
-# SoftEdgeFormat.Visible Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState**.
+ _выражение_. **Visible**
 
-
-## Syntax
-
- _expression_. **Visible**
-
- _expression_A variable that represents a  **SoftEdgeFormat** object.
+ переменная _expression_A, представляет собой объект- **SoftEdgeFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MSOTRISTATE**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Other resources
+#### <a name="other-resources"></a>Другие ресурсы
 
 
- [SoftEdgeFormat Object](softedgeformat-object-publisher.md)
+ [Объект SoftEdgeFormat](softedgeformat-object-publisher.md)
  
 

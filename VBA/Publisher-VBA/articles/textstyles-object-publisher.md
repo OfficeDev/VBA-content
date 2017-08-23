@@ -1,25 +1,26 @@
 ---
-title: TextStyles Object (Publisher)
+title: "Объект TextStyles (издатель)"
 keywords: vbapb10.chm5963775
-f1_keywords:
-- vbapb10.chm5963775
+f1_keywords: vbapb10.chm5963775
 ms.prod: publisher
-api_name:
-- Publisher.TextStyles
+api_name: Publisher.TextStyles
 ms.assetid: 8a250160-0400-62e7-8301-5a5743fb2485
 ms.date: 06/08/2017
+ms.openlocfilehash: 78465b532976e9d493cf35f982cc3db436c4c83a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textstyles-object-publisher"></a>Объект TextStyles (издатель)
 
-
-# TextStyles Object (Publisher)
-
-A collection of  **[TextStyle](textstyle-object-publisher.md)** objects that represent both the built-in and user-defined styles in a document.
+Коллекция объектов **[стиля текста](textstyle-object-publisher.md)** , представляющих встроенные и пользовательские стили в документе.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **TextStyles** property to return the **TextStyles** collection. The following example creates a table and lists all the styles in the active publication.
+Свойство **TextStyles** используется для возврата коллекции **TextStyles** . В следующем примере создается таблица и перечислены все стили в активной публикации.
  
 
  
@@ -44,7 +45,7 @@ Sub ListTextStyles()
 End Sub
 ```
 
-Use the  **[Add](textstyles-add-method-publisher.md)** method to create a new user-defined style and add it to the **TextStyles** collection. The following example creates a new style and applies it to the paragraph at the cursor position.
+Используйте метод **[Add](textstyles-add-method-publisher.md)** создает новый стиль пользовательских и добавляет его в коллекцию **TextStyles** . В следующем примере создается новый стиль и применяется к абзац с позиции курсора.
  
 
  
@@ -76,22 +77,22 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Add](textstyles-add-method-publisher.md)|
-|[Item](textstyles-item-method-publisher.md)|
+|[Добавление](textstyles-add-method-publisher.md)|
+|[Элемент](textstyles-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](textstyles-application-property-publisher.md)|
+|[Приложения](textstyles-application-property-publisher.md)|
 |[Count](textstyles-count-property-publisher.md)|
-|[Parent](textstyles-parent-property-publisher.md)|
+|[Родительский раздел](textstyles-parent-property-publisher.md)|
 

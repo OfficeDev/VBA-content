@@ -1,38 +1,39 @@
 ---
-title: ShapeRange.RemoveFromCatalogMergeArea Method (Publisher)
+title: "Метод ShapeRange.RemoveFromCatalogMergeArea (издатель)"
 keywords: vbapb10.chm2294049
-f1_keywords:
-- vbapb10.chm2294049
+f1_keywords: vbapb10.chm2294049
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.RemoveFromCatalogMergeArea
+api_name: Publisher.ShapeRange.RemoveFromCatalogMergeArea
 ms.assetid: 732cd277-9c2e-0a01-c2b5-8d016637884a
 ms.date: 06/08/2017
+ms.openlocfilehash: dd2624dae6e0e713b57fc439f89968d47f3c7535
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeremovefromcatalogmergearea-method-publisher"></a>Метод ShapeRange.RemoveFromCatalogMergeArea (издатель)
+
+Удаляет из указанной странице области фигуры. Удаленные фигур не удаляются, но вместо этого остаются на месте на странице, содержащей области данных.
 
 
-# ShapeRange.RemoveFromCatalogMergeArea Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Removes a shape from the specified page's catalog merge area. Removed shapes are not deleted, but instead remain in place on the page containing the catalog merge area.
+ _выражение_. **RemoveFromCatalogMergeArea**
 
-
-## Syntax
-
- _expression_. **RemoveFromCatalogMergeArea**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
+Используйте метод **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** объектов **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** добавление фигур в области объединения в каталог.
 
-Use the  **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove the catalog merge area from a publication page, but leave the shapes it contains.
+Метод **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** объекта **[Shape](shape-object-publisher.md)** для удаления области данных со страницы публикации, но оставьте фигуры, которые он содержит.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests whether any page of the specified publication contains a catalog merge area. If any page does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
+Следующий пример проверяет ли любую страницу указанной публикации содержит область объединения в каталог. В случае любую страницу удаляются из области данных и удаления всех фигур и затем область данных удаляется из публикации.
 
 
 ```vb

@@ -1,36 +1,37 @@
 ---
-title: TextStyle.NextParagraphStyle Property (Publisher)
+title: "Свойство TextStyle.NextParagraphStyle (издатель)"
 keywords: vbapb10.chm5963784
-f1_keywords:
-- vbapb10.chm5963784
+f1_keywords: vbapb10.chm5963784
 ms.prod: publisher
-api_name:
-- Publisher.TextStyle.NextParagraphStyle
+api_name: Publisher.TextStyle.NextParagraphStyle
 ms.assetid: 2b31b883-c26d-3be8-7145-f8e3cf1ba5cc
 ms.date: 06/08/2017
+ms.openlocfilehash: 0e54bf0635f3beece10a75060fc7c589afd73999
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textstylenextparagraphstyle-property-publisher"></a>Свойство TextStyle.NextParagraphStyle (издатель)
+
+Возвращает или задает **строку** , представляющую стиль абзаца, стиль указанный текст при нажатии клавиши ВВОД. Чтение и запись.
 
 
-# TextStyle.NextParagraphStyle Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
+ _выражение_. **NextParagraphStyle**
 
-
-## Syntax
-
- _expression_. **NextParagraphStyle**
-
- _expression_A variable that represents a  **TextStyle** object.
+ переменная _expression_A, представляющий объект **стиля текста** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new text style and specifies that the text style following the new text style is the Normal style.
+В этом примере создается новый стиль текста и указывает, что следующий новый стиль текста стиля текста — обычный стиль.
 
 
 ```vb

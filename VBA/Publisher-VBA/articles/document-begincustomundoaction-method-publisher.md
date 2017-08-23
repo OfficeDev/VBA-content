@@ -1,39 +1,40 @@
 ---
-title: Document.BeginCustomUndoAction Method (Publisher)
+title: "Метод Document.BeginCustomUndoAction (издатель)"
 keywords: vbapb10.chm196709
-f1_keywords:
-- vbapb10.chm196709
+f1_keywords: vbapb10.chm196709
 ms.prod: publisher
-api_name:
-- Publisher.Document.BeginCustomUndoAction
+api_name: Publisher.Document.BeginCustomUndoAction
 ms.assetid: 316f443e-6782-594b-b955-f5ab60140f6a
 ms.date: 06/08/2017
+ms.openlocfilehash: d90457576886837ee5ca2c80bffec48c09db0afd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentbegincustomundoaction-method-publisher"></a>Метод Document.BeginCustomUndoAction (издатель)
+
+Указывает начальную точку и метка (текстовое описание) группы действий, реализуемые для создания единого отменить действие. Метод **[EndCustomUndoAction](document-endcustomundoaction-method-publisher.md)** используется для указания конечной точки действия, используемые для создания единого отменить действие. Перенос группы действий можно отменить с помощью одной операции отмены.
 
 
-# Document.BeginCustomUndoAction Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the starting point and label (textual description) of a group of actions that are wrapped to create a single undo action. The  **[EndCustomUndoAction](document-endcustomundoaction-method-publisher.md)** method is used to specify the endpoint of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
+ _выражение_. **BeginCustomUndoAction** ( **_Действие_**)
 
-
-## Syntax
-
- _expression_. **BeginCustomUndoAction**( **_ActionName_**)
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|ActionName|Required| **String**|The label that corresponds to the single undo action. This label appears when you click the arrow beside the Undo button on the Standard toolbar.|
+|Имя действия|Обязательное свойство.| **String**|Метка, которая соответствует одной отменить действие. Эта метка отображается, если щелкнуть стрелку рядом с кнопкой кнопка "Отменить" на панели инструментов Стандартная.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The following methods of the  **Document** object are unavailable within a custom undo action. A run-time error is returned if any of these methods are called within a custom undo action:
+Следующие методы объекта **Document** , недоступны в настраиваемых отменить действие. Если какие-либо из этих методов вызываются в настраиваемых отменить действие, возвращается ошибка во время выполнения:
 
 
 -  **Document.Close**
@@ -56,18 +57,18 @@ The following methods of the  **Document** object are unavailable within a custo
     
 
 
-The  **BeginCustomUndoAction** method must be called before the **EndCustomUndoAction** method is called. A run-time error is returned if **EndCustomUndoAction** is called before **BeginCustomUndoAction**.
+**BeginCustomUndoAction** метод необходимо вызывать до вызова метода **EndCustomUndoAction** . Если **EndCustomUndoAction** вызывается до **BeginCustomUndoAction**, возвращается ошибка во время выполнения.
 
-Nesting a custom undo action within another custom undo action is allowed, but the nested custom undo action has no effect. Only the outermost custom undo action is active.
+Вложение настраиваемой отменить действие в рамках другого настраиваемого отменить действие разрешено, но вложенных настраиваемых отменить действие не оказывает влияния. Только внешний настраиваемых отменить действие является активным.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example contains two custom undo actions. The first one is created on the first page of the active publication. The  **BeginCustomUndoAction** method is used to specify the point at which the custom undo action should begin. Six individual actions are performed, and then they are wrapped into one action with the call to **EndCustomUndoAction**. 
+Следующий пример содержит два действия настраиваемой отмены. На первой странице активная публикация создается первый из них. Метод **BeginCustomUndoAction** используется для указания точки, в которой должно начаться настраиваемых отменить действие. Шесть отдельные действия выполняются, а затем они помещаются в одно действие при вызове **EndCustomUndoAction**. 
 
-The text in the text frame that was created within the first custom undo action is then tested to determine whether the font is Verdana. If not, the  **Undo** method is called with **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** passed as a parameter. In this case there is only one undo action available. So, the call to ** [Undo Method](document-undo-method-publisher.md)** will undo only one action, but this one action has wrapped six actions into one.
+Чтобы определить, является ли шрифт Verdana протестирована текста в элементе frame текст, который был создан в первый настраиваемых отменить действие. В противном случае метод **Отменить** вызывается с **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** передается как параметр. В этом случае имеется только один отменить действие. Таким образом, вызов ** [Отменить метод](document-undo-method-publisher.md)** отменяет только одно действие, но это действие один переход шесть действий в одну.
 
-A second undo action is then created, and it could also be undone later with a single undo operation.
+Создается второй отменить действие, а также может быть отменено более поздней версии с помощью операции отмены одного.
 
 
 

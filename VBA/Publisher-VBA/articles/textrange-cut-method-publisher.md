@@ -1,43 +1,44 @@
 ---
-title: TextRange.Cut Method (Publisher)
+title: "Метод TextRange.Cut (издатель)"
 keywords: vbapb10.chm5308473
-f1_keywords:
-- vbapb10.chm5308473
+f1_keywords: vbapb10.chm5308473
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Cut
+api_name: Publisher.TextRange.Cut
 ms.assetid: c9b8b896-26e7-ac58-0e1a-a66ef789f397
 ms.date: 06/08/2017
+ms.openlocfilehash: dfc27f397ead93d979c646e75f4e43b241e5ee52
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangecut-method-publisher"></a>Метод TextRange.Cut (издатель)
+
+Удаляет указанный объект и помещает его в буфер обмена.
 
 
-# TextRange.Cut Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Deletes the specified object and places it on the Clipboard.
+ _выражение_. **Вырезание**
 
-
-## Syntax
-
- _expression_. **Cut**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Nothing
-
-
-## Remarks
-
-Use the  **[Paste](textrange-paste-method-publisher.md)** method to paste the contents of the Clipboard.
-
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+Значение Nothing
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example deletes shape one and shape two from page one of the active publication, places copies of them on the Clipboard, and then pastes the copies onto page two.
+Используйте метод **[вставьте](textrange-paste-method-publisher.md)** Вставка содержимого буфера обмена.
+
+Метод **Copy** можно использовать на **фигуры** , но не удается метод **Paste** .
+
+
+## <a name="example"></a>Пример
+
+В этом примере удаляется фигуры одно и фигуры двух со страницы, один из активных публикации помещает их копии в буфер обмена и вставляет копии на второй страницы.
 
 
 ```vb
@@ -47,7 +48,7 @@ With ActiveDocument
 End With
 ```
 
-This example deletes shape one on page one of the active publication and places a copy of it on the Clipboard.
+В этом примере удаляется один фигуры на странице один активный публикации и помещает его копию в буфер обмена.
 
 
 
@@ -63,7 +64,7 @@ ActiveDocument
 .Pages(1).Shapes(1).Cut
 ```
 
-This example deletes the text in shape one on page one of the active publication and places a copy of it on the Clipboard.
+В этом примере удаляет текст в фигуре одно на странице один активный публикации и помещает его копию в буфер обмена.
 
 
 

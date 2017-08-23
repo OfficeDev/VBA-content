@@ -1,36 +1,37 @@
 ---
-title: OLEFormat.ObjectVerbs Property (Publisher)
+title: "Свойство OLEFormat.ObjectVerbs (издатель)"
 keywords: vbapb10.chm4456453
-f1_keywords:
-- vbapb10.chm4456453
+f1_keywords: vbapb10.chm4456453
 ms.prod: publisher
-api_name:
-- Publisher.OLEFormat.ObjectVerbs
+api_name: Publisher.OLEFormat.ObjectVerbs
 ms.assetid: 887070e6-7f7d-4f65-290e-3d46bfd91d34
 ms.date: 06/08/2017
+ms.openlocfilehash: 368a1832013d3d2acea0abb681a71f1ddee04e4c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="oleformatobjectverbs-property-publisher"></a>Свойство OLEFormat.ObjectVerbs (издатель)
+
+Возвращает коллекцию **[ObjectVerbs](objectverbs-object-publisher.md)** , содержащий все команды OLE для указанного объекта OLE. Только для чтения.
 
 
-# OLEFormat.ObjectVerbs Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **[ObjectVerbs](objectverbs-object-publisher.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
+ _выражение_. **ObjectVerbs**
 
-
-## Syntax
-
- _expression_. **ObjectVerbs**
-
- _expression_A variable that represents an  **OLEFormat** object.
+ переменная _expression_A, представляющий объект **OLEFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ObjectVerbs
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays all the available verbs for the OLE object contained in shape one on page two in the active publication. For this example to work, shape one must be a shape that represents an OLE object.
+В этом примере отображаются все доступные команды для объекта OLE, содержащихся в форму одно на вторую страницу в активной публикации. В данном примере для работы фигуры один должен быть фигуры, представляющий объект OLE.
 
 
 ```vb

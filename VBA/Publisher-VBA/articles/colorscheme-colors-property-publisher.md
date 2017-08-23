@@ -1,49 +1,50 @@
 ---
-title: ColorScheme.Colors Property (Publisher)
+title: "Свойство ColorScheme.Colors (издатель)"
 keywords: vbapb10.chm2686978
-f1_keywords:
-- vbapb10.chm2686978
+f1_keywords: vbapb10.chm2686978
 ms.prod: publisher
-api_name:
-- Publisher.ColorScheme.Colors
+api_name: Publisher.ColorScheme.Colors
 ms.assetid: e6599096-3f99-e7ca-0c38-1cc7d4e0a1cd
 ms.date: 06/08/2017
+ms.openlocfilehash: 54729d81f55362016b5035cadd6766f6ed0547d5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorschemecolors-property-publisher"></a>Свойство ColorScheme.Colors (издатель)
+
+Возвращает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет из указанного цветовая схема.
 
 
-# ColorScheme.Colors Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing a color from the specified color scheme.
+ _выражение_. **Цвета** ( **_ColorIndex (en)_**)
 
-
-## Syntax
-
- _expression_. **Colors**( **_ColorIndex_**)
-
- _expression_A variable that represents a  **ColorScheme** object.
+ переменная _expression_A, представляет собой объект- **ColorScheme** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|ColorIndex|Required| **PbSchemeColorIndex**| The color from the scheme to return based on its function in the scheme.|
+|ColorIndex (en)|Обязательное свойство.| **PbSchemeColorIndex**| Цвет из схемы для возврата на основании его функции в схеме.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorFormat
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The ColorIndex parameter can be one of the  **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Параметр ColorIndex может иметь одно из **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example loops through the  **ColorSchemes** collection and looks for color schemes where the followed hyperlink color matches the color with the RGB value of 128.
+В следующем примере коллекции **ColorSchemes** и выполняет поиск цветовые схемы, где цвет папка сопоставляет цвета RGB значения 128.
 
 
 ```vb

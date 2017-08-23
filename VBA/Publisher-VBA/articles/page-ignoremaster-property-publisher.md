@@ -1,36 +1,37 @@
 ---
-title: Page.IgnoreMaster Property (Publisher)
+title: "Свойство Page.IgnoreMaster (издатель)"
 keywords: vbapb10.chm393233
-f1_keywords:
-- vbapb10.chm393233
+f1_keywords: vbapb10.chm393233
 ms.prod: publisher
-api_name:
-- Publisher.Page.IgnoreMaster
+api_name: Publisher.Page.IgnoreMaster
 ms.assetid: 53cd7b4b-4164-c6d3-766f-885a056d9b2b
 ms.date: 06/08/2017
+ms.openlocfilehash: a3f713347b6da5015a237be0057c35c1a3c3ca3b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pageignoremaster-property-publisher"></a>Свойство Page.IgnoreMaster (издатель)
+
+ **Значение true** для Microsoft Publisher для форматирования для указанной странице главную страницу. Чтение и запись **типа Boolean**.
 
 
-# Page.IgnoreMaster Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** for Microsoft Publisher to ignore the master page formatting for the specified page. Read/write **Boolean**.
+ _выражение_. **IgnoreMaster**
 
-
-## Syntax
-
- _expression_. **IgnoreMaster**
-
- _expression_A variable that represents an  **Page** object.
+ переменная _expression_A, представляющий объект **страницы** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a red star in the upper left corner of the master page so that it shows up on each page; then it adds a couple of new pages and sets one of the pages to ignore the master page so that the shape doesn't show on it.
+В этом примере добавляется красной звездочкой в верхнем левом углу главной страницы, чтобы он отображается на каждой странице; затем добавляет несколько новых страниц и задает один из страниц, чтобы не использовать главную страницу, чтобы фигуры не отображается над ним.
 
 
 ```vb

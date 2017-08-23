@@ -1,42 +1,43 @@
 ---
-title: Printer.DriverType Property (Publisher)
+title: "Свойство Printer.DriverType (издатель)"
 keywords: vbapb10.chm8978435
-f1_keywords:
-- vbapb10.chm8978435
+f1_keywords: vbapb10.chm8978435
 ms.prod: publisher
-api_name:
-- Publisher.Printer.DriverType
+api_name: Publisher.Printer.DriverType
 ms.assetid: 99c3b4e5-a55a-0f8d-3767-d035d9d6e4df
 ms.date: 06/08/2017
+ms.openlocfilehash: e49180aae2dc9726a6175e445c8f7af3711e1bdb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="printerdrivertype-property-publisher"></a>Свойство Printer.DriverType (издатель)
+
+Указывает тип драйвер поддерживается принтером. Только для чтения.
 
 
-# Printer.DriverType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the type of driver supported by the printer. Read-only.
+ _выражение_. **DriverType**
 
-
-## Syntax
-
- _expression_. **DriverType**
-
- _expression_A variable that represents a  **Printer** object.
+ переменная _expression_A, представляющий объект **Printer** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
  **PbDriverType**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Possible values for the  **DriverType** property are declared in the **PbDriverType** enumeration and shown in the following table.
+Возможные значения для свойства **DriverType** объявления в перечислении **PbDriverType** и показаны в следующей таблице.
 
 
 
-|**Constant**|**Value**|**Description**|
+|**Константы**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbDriverTypeNonPostScript**|1|Non PostScript|
+| **pbDriverTypeNonPostScript**|1|Не PostScript|
 | **pbDriverTypePostScript1**|2|PostScript 1|
 | **pbDriverTypePostScript2**|3|PostScript 2|
 | **pbDriverTypePostScript3**|4|PostScript 3|

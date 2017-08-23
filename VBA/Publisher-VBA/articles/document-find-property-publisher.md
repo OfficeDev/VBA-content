@@ -1,30 +1,31 @@
 ---
-title: Document.Find Property (Publisher)
+title: "Свойство Document.Find (издатель)"
 keywords: vbapb10.chm196725
-f1_keywords:
-- vbapb10.chm196725
+f1_keywords: vbapb10.chm196725
 ms.prod: publisher
-api_name:
-- Publisher.Document.Find
+api_name: Publisher.Document.Find
 ms.assetid: e9b31937-4504-79b5-5913-b2ef0a23f2a7
 ms.date: 06/08/2017
+ms.openlocfilehash: f7138c7a5f32f58edcdc93259e1501689675de1b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentfind-property-publisher"></a>Свойство Document.Find (издатель)
+
+## <a name="syntax"></a>Синтаксис
+
+ _выражение_. **Поиск**
+
+ переменная _expression_A, представляющий объект **Document** .
 
 
-# Document.Find Property (Publisher)
+## <a name="example"></a>Пример
 
-## Syntax
+Применительно к объекта **Document** .
 
- _expression_. **Find**
-
- _expression_A variable that represents a  **Document** object.
-
-
-## Example
-
-As it applies to the  **Document** object.
-
-The following example sets an object variable to the  **FindReplace** object of the active document. A search operation is executed that applies bold formatting to every occurrence of the word "important".
+В следующем примере задается объектную переменную объекту **FindReplace** для активных документов. Выполняет операцию поиска, который применяет жирное форматирование для каждого вхождения слово «важно».
 
 
 
@@ -48,9 +49,9 @@ With objFind
 End With 
 ```
 
-As it applies to the  **TextRange** object.
+Применительно к объекту **TextRange** .
 
-The following example sets an object variable to the  **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word "urgent" in the text range.
+В следующем примере задается объектную переменную объекту **FindReplace** текстового диапазона первой фигуры в активный документ. Выполняет операцию поиска, которое применяется для каждого вхождения слово «срочно» в диапазоне текст полужирным шрифтом.
 
 
 

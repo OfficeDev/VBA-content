@@ -1,39 +1,40 @@
 ---
-title: Application.ShowWizardCatalog Method (Publisher)
+title: "Метод Application.ShowWizardCatalog (издатель)"
 keywords: vbapb10.chm131189
-f1_keywords:
-- vbapb10.chm131189
+f1_keywords: vbapb10.chm131189
 ms.prod: publisher
-api_name:
-- Publisher.Application.ShowWizardCatalog
+api_name: Publisher.Application.ShowWizardCatalog
 ms.assetid: a8307ff9-a6c1-7655-8127-284f3781dae9
 ms.date: 06/08/2017
+ms.openlocfilehash: 083d13ade3ea72eb91032e80bcced64e58c4858a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationshowwizardcatalog-method-publisher"></a>Метод Application.ShowWizardCatalog (издатель)
+
+Отображает каталога **Публикаций** для мастера для указанного типа.
 
 
-# Application.ShowWizardCatalog Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Displays the  **Publication Types** catalog for the wizard of the specified type.
+ _выражение_. **ShowWizardCatalog** ( **_Мастер_**)
 
-
-## Syntax
-
- _expression_. **ShowWizardCatalog**( **_Wizard_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Wizard|Optional| **PbWizard**|The type of wizard catalog to be displayed.|
+|Мастер|Необязательный| **PbWizard**|Тип каталога мастера для отображения.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShowWizardCatalog** method to show the wizard catalog for brochures.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ShowWizardCatalog** для отображения каталога мастера для брошюры.
 
 
 ```vb
@@ -43,11 +44,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

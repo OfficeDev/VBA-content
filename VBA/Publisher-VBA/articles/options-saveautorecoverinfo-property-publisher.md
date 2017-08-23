@@ -1,41 +1,42 @@
 ---
-title: Options.SaveAutoRecoverInfo Property (Publisher)
+title: "Свойство Options.SaveAutoRecoverInfo (издатель)"
 keywords: vbapb10.chm1048599
-f1_keywords:
-- vbapb10.chm1048599
+f1_keywords: vbapb10.chm1048599
 ms.prod: publisher
-api_name:
-- Publisher.Options.SaveAutoRecoverInfo
+api_name: Publisher.Options.SaveAutoRecoverInfo
 ms.assetid: 1cbb7960-8995-37f4-5989-01b97152269f
 ms.date: 06/08/2017
+ms.openlocfilehash: c1ea2b01d23da1d906fbb58cffb02f1a0230c453
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionssaveautorecoverinfo-property-publisher"></a>Свойство Options.SaveAutoRecoverInfo (издатель)
+
+ **Значение true,** Если Microsoft Publisher автоматически сохраняет публикации для восстановления, если приложение неожиданно завершить работу. Чтение и запись **типа Boolean**.
 
 
-# Options.SaveAutoRecoverInfo Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if Microsoft Publisher automatically saves publications for recovery if the application is unexpectedly shut down. Read/write **Boolean**.
+ _выражение_. **SaveAutoRecoverInfo**
 
-
-## Syntax
-
- _expression_. **SaveAutoRecoverInfo**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-Use the  **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** property to specify how often auto recovery saves occur.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example enables the global auto recovery option and sets the save interval to every five minutes.
+Свойство **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** определяет, как часто возникают сохраняет автоматическое восстановление.
+
+
+## <a name="example"></a>Пример
+
+Этот пример включает параметр глобального автоматическое восстановление и задает сохранения интервал для каждые пять минут.
 
 
 ```vb

@@ -1,31 +1,32 @@
 ---
-title: PageBackground.Fill Property (Publisher)
+title: "Свойство PageBackground.Fill (издатель)"
 keywords: vbapb10.chm8126467
-f1_keywords:
-- vbapb10.chm8126467
+f1_keywords: vbapb10.chm8126467
 ms.prod: publisher
-api_name:
-- Publisher.PageBackground.Fill
+api_name: Publisher.PageBackground.Fill
 ms.assetid: bb5226aa-0b47-0d0f-1310-5abb34999910
 ms.date: 06/08/2017
+ms.openlocfilehash: 27022cfb8caaa950f8ae381d9fb0cd2ee8d98c29
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagebackgroundfill-property-publisher"></a>Свойство PageBackground.Fill (издатель)
+
+ Возвращает объект **[FillFormat](fillformat-object-publisher.md)** , представляющий заливки для указанной ячейке фигуры или таблицу.
 
 
-# PageBackground.Fill Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- Returns a **[FillFormat](fillformat-object-publisher.md)** object representing the fill for the specified shape or table cell.
+ _выражение_. **Заполните поля**
 
-
-## Syntax
-
- _expression_. **Fill**
-
- _expression_A variable that represents a  **PageBackground** object.
+ переменная _expression_A, представляет собой объект- **PageBackground** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new  **AutoShape** object and fills the shape with green.
+В этом примере создается новый объект **автофигуры** и заполняет фигуры с зеленой.
 
 
 ```vb

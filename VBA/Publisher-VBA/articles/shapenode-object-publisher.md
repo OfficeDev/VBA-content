@@ -1,25 +1,26 @@
 ---
-title: ShapeNode Object (Publisher)
+title: "Объект ShapeNode (издатель)"
 keywords: vbapb10.chm3604479
-f1_keywords:
-- vbapb10.chm3604479
+f1_keywords: vbapb10.chm3604479
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNode
+api_name: Publisher.ShapeNode
 ms.assetid: 8246e1fd-2477-91f4-490b-2d2b6032fccd
 ms.date: 06/08/2017
+ms.openlocfilehash: 28a657f43997fea5b556c80ce9dfeb7e6dd31f18
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenode-object-publisher"></a>Объект ShapeNode (издатель)
 
-
-# ShapeNode Object (Publisher)
-
-Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **[ShapeNodes](shapenodes-object-publisher.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
+Представляет геометрии и редактирования геометрии свойства узлов в определенный пользователем freeform. Узлы включают грани между сегменты фигуру и контрольные точки для изогнутые сегменты. Объект **ShapeNode** является элементом коллекции **[ShapeNodes](shapenodes-object-publisher.md)** . Коллекция **ShapeNodes** содержит все узлы в произвольной формы.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
+С помощью **узлов** (индекс), где индекс — номер индекса узла, для возврата объекта **ShapeNode** . Если один узел в трех фигуры на активном документе точку угла, следующий пример делает точку смягчения. В данном примере для работы фигуры один должен быть freeform.
  
 
  
@@ -35,15 +36,15 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](shapenode-application-property-publisher.md)|
+|[Приложения](shapenode-application-property-publisher.md)|
 |[EditingType](shapenode-editingtype-property-publisher.md)|
-|[Parent](shapenode-parent-property-publisher.md)|
-|[Points](shapenode-points-property-publisher.md)|
+|[Родительский раздел](shapenode-parent-property-publisher.md)|
+|[Точки](shapenode-points-property-publisher.md)|
 |[SegmentType](shapenode-segmenttype-property-publisher.md)|
 

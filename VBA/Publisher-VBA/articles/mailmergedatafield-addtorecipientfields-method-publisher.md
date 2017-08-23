@@ -1,40 +1,41 @@
 ---
-title: MailMergeDataField.AddToRecipientFields Method (Publisher)
+title: "Метод MailMergeDataField.AddToRecipientFields (издатель)"
 keywords: vbapb10.chm6422562
-f1_keywords:
-- vbapb10.chm6422562
+f1_keywords: vbapb10.chm6422562
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataField.AddToRecipientFields
+api_name: Publisher.MailMergeDataField.AddToRecipientFields
 ms.assetid: eaf365f0-a9f4-c6e2-1267-d0a31b5934ce
 ms.date: 06/08/2017
+ms.openlocfilehash: fc21e1e7db16eabed890e087c14afdaafcae9973
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafieldaddtorecipientfields-method-publisher"></a>Метод MailMergeDataField.AddToRecipientFields (издатель)
+
+Добавляет родительский объект **MailMergeDataField** из конкретного источника данных к источнику данных master (коллекцию полей данных) для публикации слияния почты.
 
 
-# MailMergeDataField.AddToRecipientFields Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds the parent  **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
+ _выражение_. **AddToRecipientFields**
 
-
-## Syntax
-
- _expression_. **AddToRecipientFields**
-
- _expression_A variable that represents a  **MailMergeDataField** object.
+ переменная _expression_A, представляет собой объект- **MailMergeDataField** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This method works only if the parent  **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
+Этот метод работает только в том случае, если родительский объект **MailMergeDataField** еще не сопоставлен к полю получателя. Свойство **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** объекта **MailMergeDataField** можно использовать для определения, если объект уже сопоставлен.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddToRecipientFields** method to add a data field (column) in a particular data source to the master data source (combined recipient list) for the publication.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **AddToRecipientFields** для добавления данных поля (столбца) для источника данных для основного источника данных (комбинированное списка получателей) для публикации.
 
-Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, and replace _fieldname_ with the name of the field in the data source that you want to add to the combined list of recipient fields.
+Прежде чем запустить этот макрос, замените _datasourceindex_ номер индекса допустимый источник данных в коллекции источника данных активных документов и заменить _fieldname_ с именем поля в источнике данных, который требуется добавить к списку объединенный полями получателей.
 
-See the  **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
+В разделе **[элемент](mailmergedatasources-item-method-publisher.md)** метод пример того, как использовать свойство **Name** объекта **DataSource** для определения номера индекса требуемый источник данных.
 
 
 

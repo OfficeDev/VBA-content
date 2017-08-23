@@ -1,50 +1,51 @@
 ---
-title: MailMergeDataSource.EditRecord Method (Publisher)
+title: "Метод MailMergeDataSource.EditRecord (издатель)"
 keywords: vbapb10.chm6291504
-f1_keywords:
-- vbapb10.chm6291504
+f1_keywords: vbapb10.chm6291504
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.EditRecord
+api_name: Publisher.MailMergeDataSource.EditRecord
 ms.assetid: 1fa31b25-b00a-9478-b341-094c2cdb2d9e
 ms.date: 06/08/2017
+ms.openlocfilehash: a5ab3b471a47a1b5d9b245ddbc0ffcec7c49b843
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourceeditrecord-method-publisher"></a>Метод MailMergeDataSource.EditRecord (издатель)
+
+Изменение одного из полей данных в одной из записей в источник данных (объединенный слияния почты списка получателей).
 
 
-# MailMergeDataSource.EditRecord Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Changes one of the data fields in one of the records in the master data source (the combined mail-merge recipient list).
+ _выражение_. **ИзменитьЗапись** ( **_lRec_**, **_varField_** **_значение_**)
 
-
-## Syntax
-
- _expression_. **EditRecord**( **_lRec_**,  **_varField_**,  **_Value_**)
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|lRec|Required| **Long**|The ID of the record you want to edit.|
-|varField|Required| **Variant**|The data field (column) that contains the value you want to change.|
-|Value|Required| **Variant**|The value to be changed.|
+|lRec|Обязательное свойство.| **Длинный**|Идентификатор записи, которую требуется изменить.|
+|varField|Обязательное свойство.| **Variant**|Поля данных (столбца), содержащую значение, которое требуется изменить.|
+|Значение|Обязательное свойство.| **Variant**|Значение, которое нужно изменить.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use the  **EditRecord** method to correct data source information that is in error, such as an outdated recipient address.
+Метод **ИзменитьЗапись** исправьте источника данных, который находится в ошибки, такие как устаревшие адрес получателя.
 
-The  **EditRecord** method does not make any changes to the individual data sources that together make up the master data source.
+Метод **ИзменитьЗапись** не вносите никаких изменений в отдельные источники данных, составляющих основного источника данных.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **EditRecord** method to change the value of a single column in a particular record in the master data source (the combined mail-merge recipient list).
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ИзменитьЗапись** изменение значения одного столбца в определенной записи в источник данных (объединенный слияния почты списка получателей).
 
-Before running this macro, replace  _recordID_ with the index number of the record in the data source that you want to edit; replace _fieldname_ with the name of the field (column) in the record that you want to edit; and replace _value_ with the new value you want to set for the field.
+Прежде чем запустить этот макрос, замените _recordID_ номер индекса записи в источнике данных, которую требуется изменить; Замените _fieldname_ имя поля (столбца) в записи, которую требуется изменить; и замените _ключевое значение_ нового значения, которые необходимо задать для поля.
 
 
 

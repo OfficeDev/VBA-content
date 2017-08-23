@@ -1,46 +1,47 @@
 ---
-title: Application.MailMergeAfterRecordMerge Event (Publisher)
+title: "Событие Application.MailMergeAfterRecordMerge (издатель)"
 keywords: vbapb10.chm268435472
-f1_keywords:
-- vbapb10.chm268435472
+f1_keywords: vbapb10.chm268435472
 ms.prod: publisher
-api_name:
-- Publisher.Application.MailMergeAfterRecordMerge
+api_name: Publisher.Application.MailMergeAfterRecordMerge
 ms.assetid: 550c3310-01ba-718f-4c1d-cbf3ce077d27
 ms.date: 06/08/2017
+ms.openlocfilehash: bcf892f6b4e8751565493728401b98ddbb32d1aa
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationmailmergeafterrecordmerge-event-publisher"></a>Событие Application.MailMergeAfterRecordMerge (издатель)
+
+Происходит после успешного слияния каждой записи в источнике данных.
 
 
-# Application.MailMergeAfterRecordMerge Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs after each record in the data source successfully merges in a mail merge.
+ _выражение_. **MailMergeAfterRecordMerge** ( **_Doc_**)
 
-
-## Syntax
-
- _expression_. **MailMergeAfterRecordMerge**( **_Doc_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
+|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If you maintain a customer management database, you can use the  **MailMergeAfterRecordMerge** event to update the database for each merged record.
+При обслуживании базы данных управления клиента событие **MailMergeAfterRecordMerge** используется для обновления базы данных для каждой из объединенных записей.
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays a message with the value of the first and second fields in the record that has just finished merging.
+Этот пример отображает сообщение со значением поля первый и второй записи, которая только что завершения объединения.
 
 
 ```vb
@@ -54,7 +55,7 @@ Private Sub MailMergeApp_MailMergeAfterRecordMerge(ByVal Doc As Document)
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the General Declarations section of your module and run the following initialization routine.
+Чтобы произошло это событие необходимо поместить следующую строку кода в разделе Общие описаний модуля и выполнить следующую процедуру инициализации.
 
 
 
@@ -68,11 +69,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

@@ -1,43 +1,40 @@
 ---
-title: Selection.Type Property (Publisher)
+title: "Свойство Selection.Type (издатель)"
 keywords: vbapb10.chm851971
-f1_keywords:
-- vbapb10.chm851971
+f1_keywords: vbapb10.chm851971
 ms.prod: publisher
-api_name:
-- Publisher.Selection.Type
+api_name: Publisher.Selection.Type
 ms.assetid: 4dfcfecc-dd76-36b6-21df-34c3865b3064
 ms.date: 06/08/2017
+ms.openlocfilehash: ab7e27cda6fa69f6ea7a7a1c1b2440f4f87d182b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="selectiontype-property-publisher"></a>Свойство Selection.Type (издатель)
+
+Возвращает константу **PbSelectionType** , представляющий тип выделения. Только для чтения.
 
 
-# Selection.Type Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **PbSelectionType** constant that represents the selection type. Read-only.
+ _выражение_. **Тип**
 
-
-## Syntax
-
- _expression_. **Type**
-
- _expression_A variable that represents a  **Selection** object.
+ переменная _expression_A, представляющий объект **Selection** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Type** property value can be one of these **PbSelectionType** constants.
+Значение свойства **типа** может иметь одно из следующих констант **PbSelectionType** .
 
 
 
-| **pbSelectionNone**|
-| **pbSelectionShape**|
-| **pbSelectionShapeSubSelection**|
-| **pbSelectionTableCells**|
-| **pbSelectionText**|
+| **pbSelectionNone**|| **pbSelectionShape**|| **pbSelectionShapeSubSelection**|| **pbSelectionTableCells**|| **pbSelectionText**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example checks to see if the selection is text and if it is, makes the selected text bold.
+В этом примере проверяется при выделении текста и если он установлен, позволяет выделенный текст полужирным шрифтом.
 
 
 ```vb

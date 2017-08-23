@@ -1,36 +1,37 @@
 ---
-title: Shape.WebOptionButton Property (Publisher)
+title: "Свойство Shape.WebOptionButton (издатель)"
 keywords: vbapb10.chm2228343
-f1_keywords:
-- vbapb10.chm2228343
+f1_keywords: vbapb10.chm2228343
 ms.prod: publisher
-api_name:
-- Publisher.Shape.WebOptionButton
+api_name: Publisher.Shape.WebOptionButton
 ms.assetid: 0c43387c-0cb6-5d6f-68cb-d1883ce17243
 ms.date: 06/08/2017
+ms.openlocfilehash: 86a86e1021281f84924759d3eb8bfb0cba96e898
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeweboptionbutton-property-publisher"></a>Свойство Shape.WebOptionButton (издатель)
+
+Возвращает объект **[WebOptionButton](weboptionbutton-object-publisher.md)** , связанный с указанным фигуры.
 
 
-# Shape.WebOptionButton Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **[WebOptionButton](weboptionbutton-object-publisher.md)** object associated with the specified shape.
+ _выражение_. **WebOptionButton**
 
-
-## Syntax
-
- _expression_. **WebOptionButton**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 WebOptionButton
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new Web option button and specifies that its default state is selected.
+В этом примере создается новая кнопка параметр Web и указывает, что выбран пункт состояние по умолчанию.
 
 
 ```vb

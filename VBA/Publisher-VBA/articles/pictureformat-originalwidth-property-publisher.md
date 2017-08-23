@@ -1,43 +1,44 @@
 ---
-title: PictureFormat.OriginalWidth Property (Publisher)
+title: "Свойство PictureFormat.OriginalWidth (издатель)"
 keywords: vbapb10.chm3604777
-f1_keywords:
-- vbapb10.chm3604777
+f1_keywords: vbapb10.chm3604777
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.OriginalWidth
+api_name: Publisher.PictureFormat.OriginalWidth
 ms.assetid: 3c418f3f-b2af-3176-9a37-a548b15fb4bc
 ms.date: 06/08/2017
+ms.openlocfilehash: 0f6699f4a5843fbf62daa2a906d3d2e98dfb2350
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatoriginalwidth-property-publisher"></a>Свойство PictureFormat.OriginalWidth (издатель)
+
+Возвращает **Variant** , который представляет, в точках, ширина указанного связанного рисунка или объекта OLE. Только для чтения.
 
 
-# PictureFormat.OriginalWidth Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
+ _выражение_. **OriginalWidth**
 
-
-## Syntax
-
- _expression_. **OriginalWidth**
-
- _expression_A variable that represents an  **PictureFormat** object.
+ переменная _expression_A, представляющий объект **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property applies only to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
+Это свойство применяется только к связанных рисунков. Возвращает значение «Отказано в разрешении» для фигуры, представляющие внедренные или вставлять рисунки.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+Чтобы определить, является ли фигура представляет связанного рисунка, используйте свойство **[Type](shape-type-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** или свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests each picture in the active publication, and returns selected image properties for pictures that are linked.
+В следующем примере проверяется каждого изображения в активной публикации и возвращает свойства выбранного изображения для изображений, которые связаны.
 
 
 ```vb

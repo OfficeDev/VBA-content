@@ -1,45 +1,46 @@
 ---
-title: CalloutFormat.Drop Property (Publisher)
+title: "Свойство CalloutFormat.Drop (издатель)"
 keywords: vbapb10.chm2490629
-f1_keywords:
-- vbapb10.chm2490629
+f1_keywords: vbapb10.chm2490629
 ms.prod: publisher
-api_name:
-- Publisher.CalloutFormat.Drop
+api_name: Publisher.CalloutFormat.Drop
 ms.assetid: 7878a6a6-9c7c-dfd0-ef1b-d56a5aab6a18
 ms.date: 06/08/2017
+ms.openlocfilehash: 7a0730c8bbbcdd54c6ace23d19510b71dbf8cb55
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="calloutformatdrop-property-publisher"></a>Свойство CalloutFormat.Drop (издатель)
+
+Для выносок с явным образом установлен перетащите значение, данное свойство возвращает расстояние по вертикали от края текста, ограничивающий прямоугольник в то место, где линии выноски подключает текстовое поле. Это расстояние отсчитывается от верхней части текстового поля, если не **AutoAttach** задано значение **True,** а поле слева от происхождения линии выноски (где выноски указывает). В этом случае раскрывающегося расстояния измеряется в нижней части текстового поля. Только для чтения **Variant**.
 
 
-# CalloutFormat.Drop Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-For callouts with an explicitly set drop value, this property returns the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box. This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (where the callout points). In this case, the drop distance is measured from the bottom of the text box. Read-only **Variant**.
+ _выражение_. **Поместите**
 
-
-## Syntax
-
- _expression_. **Drop**
-
- _expression_A variable that represents a  **CalloutFormat** object.
+ переменная _expression_A, представляет собой объект- **CalloutFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
-Use the  **[CustomDrop](calloutformat-customdrop-method-publisher.md)** method to set the value of this property.
+Используйте метод **[CustomDrop](calloutformat-customdrop-method-publisher.md)** для задания значения этого свойства.
 
-The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the  **[DropType](calloutformat-droptype-property-publisher.md)** property is  **msoCalloutDropCustom**.
+Значение этого свойства точно отражает положение вложения выноски строки в текстовом поле только в том случае, если выноски имеет явным образом установлен перетащите значение, то есть, если значение свойства **[DropType](calloutformat-droptype-property-publisher.md)** **msoCalloutDropCustom**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example replaces the custom drop for the first shape in the active publication with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box. For the example to work, the shape must be a callout.
+В этом примере заменяет перетаскивания для первой фигуры в активной публикации с одним из двух предварительно падения, в зависимости от того, является ли значение настраиваемого перетаскивания больше или меньше, чем половину высоты текстовое поле выноски. Для обеспечения работы примера фигуры должен быть выноске.
 
 
 ```vb

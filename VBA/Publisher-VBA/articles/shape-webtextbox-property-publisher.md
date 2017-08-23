@@ -1,36 +1,37 @@
 ---
-title: Shape.WebTextBox Property (Publisher)
+title: "Свойство Shape.WebTextBox (издатель)"
 keywords: vbapb10.chm2228342
-f1_keywords:
-- vbapb10.chm2228342
+f1_keywords: vbapb10.chm2228342
 ms.prod: publisher
-api_name:
-- Publisher.Shape.WebTextBox
+api_name: Publisher.Shape.WebTextBox
 ms.assetid: 8a3f8389-728f-b8ae-3c89-dc8d03a3818e
 ms.date: 06/08/2017
+ms.openlocfilehash: ae697e84d71e730fab6bb1c648444b57117608f3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapewebtextbox-property-publisher"></a>Свойство Shape.WebTextBox (издатель)
+
+Возвращает объект **[WebTextBox](webtextbox-object-publisher.md)** , связанный с указанным фигуры.
 
 
-# Shape.WebTextBox Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **[WebTextBox](webtextbox-object-publisher.md)** object associated with the specified shape.
+ _выражение_. **WebTextBox**
 
-
-## Syntax
-
- _expression_. **WebTextBox**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 WebTextBox
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new Web text box, specifies default text, indicates that entry is required, and limits entry to 50 characters.
+В этом примере создается новое текстовое поле Web, задает текст по умолчанию, указывает, что запись является обязательным и ограничения для записи до 50 символов.
 
 
 ```vb

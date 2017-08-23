@@ -1,41 +1,42 @@
 ---
-title: PageSetup.PageHeight Property (Publisher)
+title: "Свойство PageSetup.PageHeight (издатель)"
 keywords: vbapb10.chm6946821
-f1_keywords:
-- vbapb10.chm6946821
+f1_keywords: vbapb10.chm6946821
 ms.prod: publisher
-api_name:
-- Publisher.PageSetup.PageHeight
+api_name: Publisher.PageSetup.PageHeight
 ms.assetid: 1ef153e2-5d13-d896-cd69-2066efa2f8ef
 ms.date: 06/08/2017
+ms.openlocfilehash: 71cbdb855792007f8fdb081a94b6e4d138b7f62a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagesetuppageheight-property-publisher"></a>Свойство PageSetup.PageHeight (издатель)
+
+Возвращает или задает **Variant** , который представляет высоту страниц в публикации. Чтение и запись.
 
 
-# PageSetup.PageHeight Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the height of the pages in a publication. Read/write.
+ _выражение_. **PageHeight**
 
-
-## Syntax
-
- _expression_. **PageHeight**
-
- _expression_A variable that represents a  **PageSetup** object.
+ переменная _expression_A, представляет собой объект- **PageSetup** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Numeric values are evaluated as points. String values can be in any unit supported by Microsoft Publisher (for example, "2.5 in"). The valid range of possible values is from zero to the difference between the sheet height and the page height.
+Числовые значения вычисляются как точки. Строковые значения можно в любое устройство, поддерживаемый Microsoft Publisher (например, «2,5 дюйма»). Допустимый диапазон допустимых значений — от 0 до различие между высота листа и высота страницы.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example specifies a height of five inches for the pages in the active publication.
+В этом примере указывается высота пять дюйма для страниц в активной публикации.
 
 
 ```vb

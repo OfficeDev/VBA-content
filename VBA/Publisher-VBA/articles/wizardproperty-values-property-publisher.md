@@ -1,36 +1,37 @@
 ---
-title: WizardProperty.Values Property (Publisher)
+title: "Свойство WizardProperty.Values (издатель)"
 keywords: vbapb10.chm1572872
-f1_keywords:
-- vbapb10.chm1572872
+f1_keywords: vbapb10.chm1572872
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperty.Values
+api_name: Publisher.WizardProperty.Values
 ms.assetid: 478d3b98-65f4-c448-8096-3e999c865846
 ms.date: 06/08/2017
+ms.openlocfilehash: e855e4873f0c7eb82d8276a00b4c97ceb9da191e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardpropertyvalues-property-publisher"></a>Свойство WizardProperty.Values (издатель)
+
+Возвращает коллекцию **[WizardValues](wizardvalues-object-publisher.md)** , представляющую все допустимые значения для свойства мастера.
 
 
-# WizardProperty.Values Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[WizardValues](wizardvalues-object-publisher.md)** collection representing all the valid values for a wizard property.
+ _выражение_. **Значения**
 
-
-## Syntax
-
- _expression_. **Values**
-
- _expression_A variable that represents a  **WizardProperty** object.
+ переменная _expression_A, представляет собой объект- **WizardProperty** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 WizardValues
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
+Следующий пример отображает текущее значение для первого свойства мастера в активной публикации и выводит список всех возможных значений.
 
 
 ```vb

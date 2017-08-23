@@ -1,36 +1,37 @@
 ---
-title: Options.DragAndDropText Property (Publisher)
+title: "Свойство Options.DragAndDropText (издатель)"
 keywords: vbapb10.chm1048584
-f1_keywords:
-- vbapb10.chm1048584
+f1_keywords: vbapb10.chm1048584
 ms.prod: publisher
-api_name:
-- Publisher.Options.DragAndDropText
+api_name: Publisher.Options.DragAndDropText
 ms.assetid: 55fb68e8-4ddc-6866-00d8-bdd6a1e25ec3
 ms.date: 06/08/2017
+ms.openlocfilehash: df6d8ebc32dbeeee4135045495872e089fa320f3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsdraganddroptext-property-publisher"></a>Свойство Options.DragAndDropText (издатель)
+
+ **Значение true,** чтобы разрешить перетаскивание текста. Чтение и запись **типа Boolean**.
 
 
-# Options.DragAndDropText Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to enable dragging of text. Read/write **Boolean**.
+ _выражение_. **DragAndDropText**
 
-
-## Syntax
-
- _expression_. **DragAndDropText**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets global options for Microsoft Publisher, including enabling dragging to reposition text.
+В этом примере задается глобальных параметров для Microsoft Publisher, включая активацию перетаскивания для изменения положения текста.
 
 
 ```vb

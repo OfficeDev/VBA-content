@@ -1,31 +1,32 @@
 ---
-title: Shape.Top Property (Publisher)
+title: "Свойство Shape.Top (издатель)"
 keywords: vbapb10.chm2228306
-f1_keywords:
-- vbapb10.chm2228306
+f1_keywords: vbapb10.chm2228306
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Top
+api_name: Publisher.Shape.Top
 ms.assetid: 76ab84a9-651c-ddc6-6f7f-f98e2b71074f
 ms.date: 06/08/2017
+ms.openlocfilehash: 07daf8348d42f803519d555cc07d26cd46cdb6fc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapetop-property-publisher"></a>Свойство Shape.Top (издатель)
+
+Возвращает или задает **Variant** , который представляет расстояние между верхней части страницы и в верхней части фигуры. Чтение и запись.
 
 
-# Shape.Top Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the distance between the top of the page and the top of a shape. Read/write.
+ _выражение_. **В начало**
 
-
-## Syntax
-
- _expression_. **Top**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example changes the position, size, and type of shape of the first shape on the first page of the active publication. This example assumes there is at least one shape on the first page of the active publication.
+В этом примере изменяется позицию, размер и тип фигуры первую фигуру на первой странице active публикации. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
 
 
 ```vb

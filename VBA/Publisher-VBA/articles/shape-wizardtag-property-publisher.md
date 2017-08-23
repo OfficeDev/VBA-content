@@ -1,38 +1,39 @@
 ---
-title: Shape.WizardTag Property (Publisher)
+title: "Свойство Shape.WizardTag (издатель)"
 keywords: vbapb10.chm2228324
-f1_keywords:
-- vbapb10.chm2228324
+f1_keywords: vbapb10.chm2228324
 ms.prod: publisher
-api_name:
-- Publisher.Shape.WizardTag
+api_name: Publisher.Shape.WizardTag
 ms.assetid: b93bbdf9-6ce7-3ba6-566a-b11f8044fbda
 ms.date: 06/08/2017
+ms.openlocfilehash: d51ff48c2badbc56080060fcd38efb45cf4f881e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapewizardtag-property-publisher"></a>Свойство Shape.WizardTag (издатель)
+
+Возвращает или задает значение, указывающее, функция указанного фигуры по отношению к его дизайн публикации константы **PbWizardTag**. Чтение и запись.
 
 
-# Shape.WizardTag Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbWizardTag**constant indicating the function of a specified shape with respect to its publication design. Read/write.
+ _выражение_. **WizardTag**
 
-
-## Syntax
-
- _expression_. **WizardTag**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **WizardTag** property value can be one of the **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **WizardTag** может иметь одно из **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
-The combination of the  **[WizardTagInstance](shape-wizardtaginstance-property-publisher.md)** property and the **WizardTag** property uniquely defines every shape in a publication.
+Комбинация свойство **[WizardTagInstance](shape-wizardtaginstance-property-publisher.md)** и свойство **WizardTag** однозначно определяет все фигуры в публикации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example displays the wizard tag and wizard tag instance information for all the shapes on page one of the active publication.
+Следующий пример отображает сведения об экземпляре тег мастера для всех фигур и мастер тега на странице один из активных публикации.
 
 
 ```vb

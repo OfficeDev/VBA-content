@@ -1,31 +1,32 @@
 ---
-title: TextStyle.Description Property (Publisher)
+title: "Свойство TextStyle.Description (издатель)"
 keywords: vbapb10.chm5963779
-f1_keywords:
-- vbapb10.chm5963779
+f1_keywords: vbapb10.chm5963779
 ms.prod: publisher
-api_name:
-- Publisher.TextStyle.Description
+api_name: Publisher.TextStyle.Description
 ms.assetid: 278d647e-c4bc-218c-417d-b01caf2d98a3
 ms.date: 06/08/2017
+ms.openlocfilehash: 3137aab4268dd33d0a57b287ea05b77393bf2c23
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textstyledescription-property-publisher"></a>Свойство TextStyle.Description (издатель)
+
+Возвращает **строку** , представляющую описание указанного стиля. К примеру, могут быть типичное описание обычный стиль «Roman нового времени (по умолчанию), Mincho мс (восточно-азиатский), 10 пунктов, Main (черный) кернинг 14 pt слева, строки разделитель 1 sp.» Только для чтения.
 
 
-# TextStyle.Description Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the description of the specified style. For example, a typical description for the Normal style might be "(Default) Times New Roman, (Asian) MS Mincho, 10 pt, Main (Black), Kerning 14 pt, Left, Line spacing 1 sp." Read-only.
+ _выражение_. **Описание**
 
-
-## Syntax
-
- _expression_. **Description**
-
- _expression_A variable that represents a  **TextStyle** object.
+ переменная _expression_A, представляющий объект **стиля текста** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the description for the Normal style.
+В этом примере отображается описание для стиля Обычный.
 
 
 ```vb

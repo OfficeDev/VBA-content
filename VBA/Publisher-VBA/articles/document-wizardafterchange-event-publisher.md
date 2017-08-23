@@ -1,40 +1,41 @@
 ---
-title: Document.WizardAfterChange Event (Publisher)
+title: "Событие Document.WizardAfterChange (издатель)"
 keywords: vbapb10.chm285212676
-f1_keywords:
-- vbapb10.chm285212676
+f1_keywords: vbapb10.chm285212676
 ms.prod: publisher
-api_name:
-- Publisher.Document.WizardAfterChange
+api_name: Publisher.Document.WizardAfterChange
 ms.assetid: c4ec0950-3a58-1f29-b35f-35db9d87f330
 ms.date: 06/08/2017
+ms.openlocfilehash: 7ef75316b6a6847d3f2cf29ee20fff5902a16469
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentwizardafterchange-event-publisher"></a>Событие Document.WizardAfterChange (издатель)
+
+Возникает после пользователь выбирает вариант в окне мастера, которое изменяет любой из следующих параметров в публикации: макет страницы (размер страницы, сгиб тип, ориентация, метки продукта), Настройка печати (размер бумаги, размещение на странице), добавления и удаления объектов, добавление или удаление страниц, или объекта или страницы форматирование (размер, положение, заливки, границы, фон, текст по умолчанию, форматирование текста).
 
 
-# Document.WizardAfterChange Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs after the user chooses an option in the wizard pane that changes any of the following settings in the publication: page layout (page size, fold type, orientation, label product), print setup (paper size, print tiling), adding or deleting objects, adding or deleting pages, or object or page formatting (size, position, fill, border, background, default text, text formatting).
+ _выражение_. **WizardAfterChange**
 
-
-## Syntax
-
- _expression_. **WizardAfterChange**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The WizardAfterChange event only occurs once regardless of the scope or number of individual modifications made to the publication.
+Событие WizardAfterChange возникает только один раз независимо от того, область или количество отдельных изменения, внесенные в публикации.
 
-To access the  **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
+Для доступа к события объекта **Document** , объявите переменную объекта **документов** в разделе Общие описаний модуля класса, а затем задайте переменную равно объект **документа** , для которого требуется получить доступ к событиям.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **Document** содержатся в разделе [С помощью событий с помощью объекта Document](using-events-with-the-document-object-publisher.md).
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays a message when a publication is altered using the wizard pane. (The procedure can be stored in the ThisDocument module of a publication.)
+В этом примере выводится сообщение при изменении с помощью панели мастера публикации. (Процедуры могут храниться в модуле ThisDocument публикации.)
 
 
 ```vb

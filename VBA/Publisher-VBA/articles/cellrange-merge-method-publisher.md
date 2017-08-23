@@ -1,31 +1,32 @@
 ---
-title: CellRange.Merge Method (Publisher)
+title: "Метод CellRange.Merge (издатель)"
 keywords: vbapb10.chm5177352
-f1_keywords:
-- vbapb10.chm5177352
+f1_keywords: vbapb10.chm5177352
 ms.prod: publisher
-api_name:
-- Publisher.CellRange.Merge
+api_name: Publisher.CellRange.Merge
 ms.assetid: f097659c-d1b8-f2bb-c4fc-5efc2b7417dd
 ms.date: 06/08/2017
+ms.openlocfilehash: 83b0ddafb081e2f18b55fb432a4a1898c77e9f3f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellrangemerge-method-publisher"></a>Метод CellRange.Merge (издатель)
+
+Объединение ячеек указанной таблицы друг с другом. Результатом является одну ячейку.
 
 
-# CellRange.Merge Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Merges the specified table cells with one another. The result is a single table cell.
+ _выражение_. **Объединение**
 
-
-## Syntax
-
- _expression_. **Merge**
-
- _expression_A variable that represents a  **CellRange** object.
+ переменная _expression_A, представляет собой объект- **CellRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example merges the first two cells in the first two rows of the specified table.
+В этом примере выполняется объединение первых двух смежных ячеек в первых двух строк в указанной таблице.
 
 
 ```vb

@@ -1,43 +1,44 @@
 ---
-title: Document.RemovePersonalInformation Property (Publisher)
+title: "Свойство Document.RemovePersonalInformation (издатель)"
 keywords: vbapb10.chm196742
-f1_keywords:
-- vbapb10.chm196742
+f1_keywords: vbapb10.chm196742
 ms.prod: publisher
-api_name:
-- Publisher.Document.RemovePersonalInformation
+api_name: Publisher.Document.RemovePersonalInformation
 ms.assetid: bbc1aee1-90ca-966e-c17c-579064318cd1
 ms.date: 06/08/2017
+ms.openlocfilehash: 927cdf34920c0dfc208c1e9ec4032485b5d476d1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentremovepersonalinformation-property-publisher"></a>Свойство Document.RemovePersonalInformation (издатель)
+
+Возвращает или задает **логическое** , представляет ли сохраняться личные сведения при сохранении файла. Чтение и запись.
 
 
-# Document.RemovePersonalInformation Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Boolean** that represents whether to save personal information when the file is saved. Read/write.
+ _выражение_. **RemovePersonalInformation**
 
-
-## Syntax
-
- _expression_. **RemovePersonalInformation**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-The information removed from the document is the Author, Manager, Company, and the GUID of the computer on which the document was created.
-
-The default setting for this property is  **False**.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example removes the personal information from the active document.
+Информация, удалены из документа является автор, руководитель, компании и идентификатор GUID для компьютера, на котором был создан документ.
+
+По умолчанию для этого свойства имеет **значение False**.
+
+
+## <a name="example"></a>Пример
+
+В этом примере удаляется личных сведений из активных документов.
 
 
 ```vb

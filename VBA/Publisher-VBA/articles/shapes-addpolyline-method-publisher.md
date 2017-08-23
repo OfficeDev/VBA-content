@@ -1,51 +1,52 @@
 ---
-title: Shapes.AddPolyline Method (Publisher)
+title: "Метод Shapes.AddPolyline (издатель)"
 keywords: vbapb10.chm2162711
-f1_keywords:
-- vbapb10.chm2162711
+f1_keywords: vbapb10.chm2162711
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddPolyline
+api_name: Publisher.Shapes.AddPolyline
 ms.assetid: d49fb2bc-4df5-fff8-c741-2c0d35413fc5
 ms.date: 06/08/2017
+ms.openlocfilehash: ff794bf4979771bc331460348afe5cf79b49dd5b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddpolyline-method-publisher"></a>Метод Shapes.AddPolyline (издатель)
+
+Добавление нового объекта **Shape** , представляющее open ломаной или закрытой многоугольника определенной коллекции **фигур** .
 
 
-# Shapes.AddPolyline Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing an open polyline or a closed polygon to the specified **Shapes** collection.
+ _выражение_. **AddPolyline** ( **_SafeArrayOfPoints_**)
 
-
-## Syntax
-
- _expression_. **AddPolyline**( **_SafeArrayOfPoints_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|SafeArrayOfPoints|Required| **Variant**|An array of coordinate pairs that specifies the polyline's or polygon's vertices.|
+|SafeArrayOfPoints|Обязательное свойство.| **Variant**|Массив пар координат, указывающее вершины ломаной пользователя или многоугольника.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the array elements in  **_SafeArrayOfPoints_**, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Для элементов массива в **_SafeArrayOfPoints_**числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
-To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing.
+Чтобы закрытой многоугольник, назначьте те же координаты грани имени и фамилии в ломаной документа.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a triangle to the first page of the active publication. Because the first and last points have the same coordinates, the polygon is closed.
+В следующем примере добавляется треугольник для первой страницы active публикации. Поскольку начальную и конечную точки имеют те же координаты, многоугольника закрывается.
 
 
 ```vb

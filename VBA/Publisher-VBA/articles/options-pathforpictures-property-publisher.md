@@ -1,36 +1,37 @@
 ---
-title: Options.PathForPictures Property (Publisher)
+title: "Свойство Options.PathForPictures (издатель)"
 keywords: vbapb10.chm1048596
-f1_keywords:
-- vbapb10.chm1048596
+f1_keywords: vbapb10.chm1048596
 ms.prod: publisher
-api_name:
-- Publisher.Options.PathForPictures
+api_name: Publisher.Options.PathForPictures
 ms.assetid: e66c8c86-f049-0f32-0a0d-60fd37470708
 ms.date: 06/08/2017
+ms.openlocfilehash: 4fd6be2884b089875a54f64afa34624f8609bdbe
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionspathforpictures-property-publisher"></a>Свойство Options.PathForPictures (издатель)
+
+Возвращает **строку** , представляющую путь по умолчанию для файлов рисунков. Чтение.
 
 
-# Options.PathForPictures Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the default path for picture files. Read.
+ _выражение_. **PathForPictures**
 
-
-## Syntax
-
- _expression_. **PathForPictures**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example places the default path for picture files in a string and then uses the path string to add the specified file to the active publication. (Note that Filename must be replaced with a valid file name for this example to work.)
+В этом примере устанавливает путь по умолчанию для файлов рисунков в строку, а затем использует строку пути для добавления указанного файла для активной публикации. (Обратите внимание на то, имя файла, заменены допустимое имя файла для работы этого примера).
 
 
 ```vb

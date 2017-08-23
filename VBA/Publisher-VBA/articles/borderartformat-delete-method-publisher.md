@@ -1,36 +1,37 @@
 ---
-title: BorderArtFormat.Delete Method (Publisher)
+title: "Метод BorderArtFormat.Delete (издатель)"
 keywords: vbapb10.chm7602184
-f1_keywords:
-- vbapb10.chm7602184
+f1_keywords: vbapb10.chm7602184
 ms.prod: publisher
-api_name:
-- Publisher.BorderArtFormat.Delete
+api_name: Publisher.BorderArtFormat.Delete
 ms.assetid: 3ec0576f-8304-2647-7309-b014b586c1b6
 ms.date: 06/08/2017
+ms.openlocfilehash: 184e243f872b4315f4b06444fcae7b67dde3d2c9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartformatdelete-method-publisher"></a>Метод BorderArtFormat.Delete (издатель)
+
+Удаляет указанный объект.
 
 
-# BorderArtFormat.Delete Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Deletes the specified object.
+ _выражение_. **Удаление**
 
-
-## Syntax
-
- _expression_. **Delete**
-
- _expression_A variable that represents a  **BorderArtFormat** object.
+ переменная _expression_A, представляет собой объект- **BorderArtFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-A run-time error occurs if the specified object does not exist.
+Если указанный объект не существует, возникает ошибка времени выполнения.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests for the existence of BorderArt on each shape for each page of the active publication. If BorderArt exists, it is deleted.
+Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы публикации active. Если Узорные существует, она удаляется.
 
 
 ```vb
@@ -52,11 +53,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [BorderArtFormat Object](borderartformat-object-publisher.md)
+ [Объект BorderArtFormat](borderartformat-object-publisher.md)
 

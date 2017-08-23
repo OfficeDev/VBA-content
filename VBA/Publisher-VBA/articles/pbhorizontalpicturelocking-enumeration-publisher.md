@@ -1,26 +1,27 @@
 ---
-title: PbHorizontalPictureLocking Enumeration (Publisher)
+title: "Перечисление PbHorizontalPictureLocking (издатель)"
 keywords: vbapb10.chm65570
-f1_keywords:
-- vbapb10.chm65570
+f1_keywords: vbapb10.chm65570
 ms.prod: publisher
-api_name:
-- Publisher.PbHorizontalPictureLocking
+api_name: Publisher.PbHorizontalPictureLocking
 ms.assetid: 28877641-c8e3-b73c-dd57-4a66c25028b0
 ms.date: 06/08/2017
+ms.openlocfilehash: a02b95348edffa78a3feca1b9aa2731d37f119d6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbhorizontalpicturelocking-enumeration-publisher"></a>Перечисление PbHorizontalPictureLocking (издатель)
 
-
-# PbHorizontalPictureLocking Enumeration (Publisher)
-
-Indicates where newly inserted pictures appear in relation to the specified frame.
+Указывает, где отображаются вставленных новых изображений при использовании указанного кадра.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbHorizontalLockingLeft**|1|New pictures are inserted along the left edge of the frame.|
-| **pbHorizontalLockingNone**|0|New pictures are inserted in the middle between the left and right edges of the frame.|
-| **pbHorizontalLockingRight**|2|New pictures are inserted along the right edge of the frame.|
-| **pbHorizontalLockingStretch**|3|New pictures are horizontally stretched to the full width of the frame.|
+| **pbHorizontalLockingLeft**|1|Новые изображения, вставляются по левому краю фрейма.|
+| **pbHorizontalLockingNone**|0|Новые изображения вставляется в середине между краями влево и вправо кадра.|
+| **pbHorizontalLockingRight**|2|Новые изображения, вставляются по правому краю фрейма.|
+| **pbHorizontalLockingStretch**|3|Новые изображения по горизонтали расширяются до полной ширины рамки.|
 

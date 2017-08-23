@@ -1,52 +1,53 @@
 ---
-title: TextRange.Lines Method (Publisher)
+title: "Метод TextRange.Lines (издатель)"
 keywords: vbapb10.chm5308455
-f1_keywords:
-- vbapb10.chm5308455
+f1_keywords: vbapb10.chm5308455
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Lines
+api_name: Publisher.TextRange.Lines
 ms.assetid: 56862090-b2ff-403b-d016-e37108d5ccc1
 ms.date: 06/08/2017
+ms.openlocfilehash: 5519e0f7f25e6ded73cceaba404d29ff63bf574a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangelines-method-publisher"></a>Метод TextRange.Lines (издатель)
+
+Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий указанной строки.
 
 
-# TextRange.Lines Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified lines.
+ _выражение_. **Строки** ( **_Запуск_**, **_Длина_**)
 
-
-## Syntax
-
- _expression_. **Lines**( **_Start_**,  **_Length_**)
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Start|Required| **Long**|The first line in the returned range.|
-|Length|Optional| **Long**|The number of lines to be returned. Default is 1.|
+|Начало|Обязательное свойство.| **Длинный**|Первая строка возвращаемого диапазона.|
+|Length|Необязательный| **Длинный**|Число строк должно быть возвращено. Значение по умолчанию — 1.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 TextRange
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If  **_Start_** is greater than the number of lines in the specified text, the returned range starts with the last line in the specified range.
+Если **_запустить_** больше, чем количество строк в указанный текст, возвращенный диапазон начинается с последней строки в указанном диапазоне.
 
-If  **_Length_** is greater than the number of lines from the specified starting line to the end of the text, the returned range contains all those lines.
+Если **_Длина_** больше, чем количество строк из указанного начальную строку в конец текста, возвращенный диапазон содержит все строки.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example replaces the first three lines of the first shape on the first page with the specified string.
+В этом примере заменяет первые три строки первую фигуру на первой странице указанной строки.
 
 
 ```vb

@@ -1,44 +1,45 @@
 ---
-title: Application.ChangeFileOpenDirectory Method (Publisher)
+title: "Метод Application.ChangeFileOpenDirectory (издатель)"
 keywords: vbapb10.chm131124
-f1_keywords:
-- vbapb10.chm131124
+f1_keywords: vbapb10.chm131124
 ms.prod: publisher
-api_name:
-- Publisher.Application.ChangeFileOpenDirectory
+api_name: Publisher.Application.ChangeFileOpenDirectory
 ms.assetid: 9178881c-2f7f-9063-31d1-14d4745f0666
 ms.date: 06/08/2017
+ms.openlocfilehash: 7d25e9056f0bd237fa8706de484d9b183991a6ad
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationchangefileopendirectory-method-publisher"></a>Метод Application.ChangeFileOpenDirectory (издатель)
+
+Задает папку, в которой Microsoft Publisher выполняется поиск документов. Содержимое указанной папки, перечислены в следующий раз отображается диалоговое окно " **Открыть публикацию** " (меню " **файл** ").
 
 
-# Application.ChangeFileOpenDirectory Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box ( **File** menu) is displayed.
+ _выражение_. **ChangeFileOpenDirectory** ( **_Dir_**)
 
-
-## Syntax
-
- _expression_. **ChangeFileOpenDirectory**( **_Dir_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Dir|Required| **String**|The directory path.|
+|Dir|Обязательное свойство.| **String**|Путь к каталогу.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Publisher searches the specified folder for documents until the user changes the folder in the  **Open Publication** dialog box or the current Publisher session ends. Use the **[PathForPublications](options-pathforpublications-property-publisher.md)** property of the  **Options** object to change the default folder for documents in every Publisher session.
+Publisher выполняет поиск указанной папки для документов, пока пользователь изменяет папку в диалоговом окне **Открыть публикацию** или текущей завершается сеанс Publisher. Используйте свойство **[PathForPublications](options-pathforpublications-property-publisher.md)** объекта **Параметры** для изменения папки по умолчанию для документов в каждом сеансе Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example changes the folder in which Publisher searches for documents. (Note that PathToDirectory must be replaced with a valid file path for this example to work.)
+В этом примере изменяется папки, в которой Publisher выполняется поиск документов. (Обратите внимание на то, что действительный путь к файлу для работы этого примера необходимо заменить PathToDirectory.)
 
 
 ```vb
@@ -48,11 +49,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

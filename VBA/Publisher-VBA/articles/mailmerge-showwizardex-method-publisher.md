@@ -1,57 +1,58 @@
 ---
-title: MailMerge.ShowWizardEx Method (Publisher)
+title: "Метод MailMerge.ShowWizardEx (издатель)"
 keywords: vbapb10.chm6225944
-f1_keywords:
-- vbapb10.chm6225944
+f1_keywords: vbapb10.chm6225944
 ms.prod: publisher
-api_name:
-- Publisher.MailMerge.ShowWizardEx
+api_name: Publisher.MailMerge.ShowWizardEx
 ms.assetid: 3815204f-5f09-5a25-a2e4-5de4889c9919
 ms.date: 06/08/2017
+ms.openlocfilehash: 6a4fcae433c5ea07636ba41f92ac412d4f5ff589
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergeshowwizardex-method-publisher"></a>Метод MailMerge.ShowWizardEx (издатель)
+
+Отображает указанный каталог или слияния почты мастера в документе.
 
 
-# MailMerge.ShowWizardEx Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Displays the specified catalog or mail merge wizard in a document.
+ _выражение_. **ShowWizardEx** ( **_ShowDocumentStep_**, **_ShowTemplateStep_**, **_ShowDataStep_**, **_ShowWriteStep_**, **_ShowPreviewStep_**, **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
 
-
-## Syntax
-
- _expression_. **ShowWizardEx**( **_ShowDocumentStep_**,  **_ShowTemplateStep_**,  **_ShowDataStep_**,  **_ShowWriteStep_**,  **_ShowPreviewStep_**,  **_ShowMergeStep_**, **_MergeType_**, **_iStep_**)
-
- _expression_A variable that represents a  **MailMerge** object.
+ переменная _expression_A, представляет собой объект- **слияния** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|ShowDocumentStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Select a merge type" step. **False** removed the step.|
-|ShowTemplateStep|Optional| **Boolean**| This parameter does not apply to Microsoft Publisher.|
-|ShowDataStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Select data source" step. **False** removed the step.|
-|ShowWriteStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Create your publication" step. **False** removed the step.|
-|ShowPreviewStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Preview your publication" step. **False** removed the step.|
-|ShowMergeStep|Optional| **Boolean**|Not used in Microsoft Publisher 2007. In previous versions,  **True** (the default) displayed the "Complete the merge" step. **False** removed the step.|
-|MergeType|Optional| **PbMergeType**|The merge type to use. See Remarks for possible values.|
-|iStep|Optional| **Long**|The initial step. See Remarks for information about default values.|
+|ShowDocumentStep|Необязательный| **Boolean**|Не используется в Microsoft Publisher 2007. В предыдущих версиях **значение True** (значение по умолчанию) отображается на шаге «Выбор типа слияния». **Значение false,** удален шаг.|
+|ShowTemplateStep|Необязательный| **Boolean**| Этот параметр не применяется к Microsoft Publisher.|
+|ShowDataStep|Необязательный| **Boolean**|Не используется в Microsoft Publisher 2007. В предыдущих версиях **значение True** (значение по умолчанию) отображается на шаге «Выбор источника данных». **Значение false,** удален шаг.|
+|ShowWriteStep|Необязательный| **Boolean**|Не используется в Microsoft Publisher 2007. В предыдущих версиях **значение True** (значение по умолчанию) отображается на шаге «Создание публикации». **Значение false,** удален шаг.|
+|ShowPreviewStep|Необязательный| **Boolean**|Не используется в Microsoft Publisher 2007. В предыдущих версиях **значение True** (значение по умолчанию) отображается на шаге «Просмотр публикации». **Значение false,** удален шаг.|
+|ShowMergeStep|Необязательный| **Boolean**|Не используется в Microsoft Publisher 2007. В предыдущих версиях **значение True** (значение по умолчанию) отображается на шаге «Завершение слияния». **Значение false,** удален шаг.|
+|MergeType|Необязательный| **PbMergeType**|Тип объединения для использования. Возможные значения см.|
+|iStep|Необязательный| **Длинный**|Начальное действие. Сведения о значениях по умолчанию см.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The MergeType parameter can be one of the  **[PbMergeType](pbmergetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library. The default is **pbMergeDefault**.
+Параметр MergeType может иметь одно из **[PbMergeType](pbmergetype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher. Значение по умолчанию — **pbMergeDefault**.
 
-Passing  **pbMergeDefault** for MergeType starts a new mail merge; if the publication is already a merge, it leaves the merge type unchanged.
+Передача **pbMergeDefault** для MergeType начинает новый слияния почты; Если публикации уже слияние, они находятся вне области объединения тип без изменений.
 
-Passing a merge type that is different from the current publication's merge type changes the publication to that new type of merge, but disconnects the data source. Doing so results in the loss of previously inserted fields when the change is to or from a catalog merge type.
+Передача типа слияния, отличный от типа текущей публикации слияния изменяет публикации в этот новый тип объединения, но отключает источник данных. Это приводит к потере ранее вставленных полей, таким образом при изменении или из типа слияния каталога.
 
-Wizard steps correspond to the sequence of merge task panes in the user interface. If no data source is connected, the merge wizard always starts on the first step (the first task pane). If a data source is connected, the wizard starts on Step 2 by default, unless you use the iStep parameter to specify starting with Step 1 or Step 3.
+Мастер действия соответствуют последовательности объединения областей задач в пользовательском интерфейсе. Если источник данных не подключена, мастер слияния всегда запускается на первом шаге (на первую область задач). Если подключение источника данных, запуска мастера на шаге 2 по умолчанию, если не использовать параметр iStep для указания, начиная с шага 1 или шаг 3.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example checks whether the  **Mail Merge Wizard** is closed, and if it is, displays it.
+В этом примере проверок закрытия **Мастера слияния почты** , и если это так, отображает его.
 
 
 ```vb

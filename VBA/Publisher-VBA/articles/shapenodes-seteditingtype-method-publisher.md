@@ -1,53 +1,54 @@
 ---
-title: ShapeNodes.SetEditingType Method (Publisher)
+title: "Метод ShapeNodes.SetEditingType (издатель)"
 keywords: vbapb10.chm3473427
-f1_keywords:
-- vbapb10.chm3473427
+f1_keywords: vbapb10.chm3473427
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNodes.SetEditingType
+api_name: Publisher.ShapeNodes.SetEditingType
 ms.assetid: f90b1323-d682-1b2b-6747-cea5f2cead3c
 ms.date: 06/08/2017
+ms.openlocfilehash: 9223ba290e35e0a4cca0a40371ab22077a009d0f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenodesseteditingtype-method-publisher"></a>Метод ShapeNodes.SetEditingType (издатель)
+
+Задает тип редактирования указанного узла. Если узел является контрольной точки для сегмент, этого метода можно задать редактирования тип узла рядом с ней, соединяет два сегмента. В зависимости от типа редактирования этот метод может повлиять на положение рядом с узлами.
 
 
-# ShapeNodes.SetEditingType Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the editing type of the specified node. If the node is a control point for a curved segment, this method sets the editing type of the node adjacent to it that joins two segments. Depending on the editing type, this method may affect the position of adjacent nodes.
+ _выражение_. **SetEditingType** ( **_Индекса_**, **_EditingType_**)
 
-
-## Syntax
-
- _expression_. **SetEditingType**( **_Index_**,  **_EditingType_**)
-
- _expression_A variable that represents a  **ShapeNodes** object.
+ переменная _expression_A, представляет собой объект- **ShapeNodes** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The node whose editing type is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
-|EditingType|Required| **MsoEditingType**|The editing property of the node.|
+|Индекс|Обязательное свойство.| **Длинный**|Узел, тип которого редактирования не должно быть задано. Должно быть число от 1 до количества узлов в указанном фигуры; в противном случае возникает ошибка.|
+|EditingType|Обязательное свойство.| **MsoEditingType**|Свойство редактирования узла.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The EditingType parameter can be one of the  **MsoEditingType** constants declared in the Microsoft Office type library and shown in the following table.
+Параметр EditingType может быть одной из констант **MsoEditingType** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoEditingAuto**|Changes the node to a type appropriate to the segments being connected.|
-| **msoEditingCorner**| Changes the node to a corner node.|
-| **msoEditingSmooth**|Changes the node to a smooth curve node..|
-| **msoEditingSymmetric**|Changes the node to a symmetric curve node.|
+| **msoEditingAuto**|Изменяет узел типа подходят для сегменты подключения.|
+| **msoEditingCorner**| Изменяет узел узел угла.|
+| **msoEditingSmooth**|Изменение узла на узел легко график...|
+| **msoEditingSymmetric**|Изменяет узел симметричного график узел.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example changes all corner nodes to smooth nodes in the third shape of the active publication. The shape must be a freeform drawing.
+В этом примере изменяется все узлы углу сгладить узлов в третьей фигуры active публикации. Фигуры должен быть freeform документа.
 
 
 ```vb

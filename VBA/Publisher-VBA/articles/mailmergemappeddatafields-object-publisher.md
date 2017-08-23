@@ -1,25 +1,26 @@
 ---
-title: MailMergeMappedDataFields Object (Publisher)
+title: "Объект MailMergeMappedDataFields (издатель)"
 keywords: vbapb10.chm6553599
-f1_keywords:
-- vbapb10.chm6553599
+f1_keywords: vbapb10.chm6553599
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeMappedDataFields
+api_name: Publisher.MailMergeMappedDataFields
 ms.assetid: 7f33bf07-9cbb-e171-d276-d5ccb06abb95
 ms.date: 06/08/2017
+ms.openlocfilehash: dc99540651a24973dea2a07bb680e6433230799e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergemappeddatafields-object-publisher"></a>Объект MailMergeMappedDataFields (издатель)
 
-
-# MailMergeMappedDataFields Object (Publisher)
-
-A collection of  **[MailMergeMappedDataField](mailmergemappeddatafield-object-publisher.md)** objects that represents the mapped data fields available in Microsoft Publisher.
+Коллекция объектов **[MailMergeMappedDataField](mailmergemappeddatafield-object-publisher.md)** , который представляет поля сопоставленные данные, доступные в Microsoft Publisher.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[MappedDataFields](mailmergedatasource-mappeddatafields-property-publisher.md)** property of the **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object to return the **MailMergeMappedDataFields** collection. This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
+Используйте свойство **[MappedDataFields](mailmergedatasource-mappeddatafields-property-publisher.md)** объекта **[вывода](mailmergedatasource-object-publisher.md)** для возврата коллекции **MailMergeMappedDataFields** . В этом примере создается таблица на новой странице текущей публикации и перечисляет поля сопоставленные данные, доступные в Publisher и поля в источнике данных, к которой они сопоставлены. В этом примере предполагается, что текущей публикации является публикацией слияния почты и у соответствующих полей источника данных сопоставленные поля данных.
  
 
  
@@ -69,21 +70,21 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](mailmergemappeddatafields-item-method-publisher.md)|
+|[Элемент](mailmergemappeddatafields-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](mailmergemappeddatafields-application-property-publisher.md)|
+|[Приложения](mailmergemappeddatafields-application-property-publisher.md)|
 |[Count](mailmergemappeddatafields-count-property-publisher.md)|
-|[Parent](mailmergemappeddatafields-parent-property-publisher.md)|
+|[Родительский раздел](mailmergemappeddatafields-parent-property-publisher.md)|
 

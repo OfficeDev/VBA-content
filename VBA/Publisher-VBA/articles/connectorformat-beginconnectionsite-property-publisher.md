@@ -1,43 +1,44 @@
 ---
-title: ConnectorFormat.BeginConnectionSite Property (Publisher)
+title: "Свойство ConnectorFormat.BeginConnectionSite (издатель)"
 keywords: vbapb10.chm3211522
-f1_keywords:
-- vbapb10.chm3211522
+f1_keywords: vbapb10.chm3211522
 ms.prod: publisher
-api_name:
-- Publisher.ConnectorFormat.BeginConnectionSite
+api_name: Publisher.ConnectorFormat.BeginConnectionSite
 ms.assetid: 24a9246e-270f-7289-971d-8763acfaf02d
 ms.date: 06/08/2017
+ms.openlocfilehash: 67b9720484b0feaad86543fbc18358ecca65efd1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="connectorformatbeginconnectionsite-property-publisher"></a>Свойство ConnectorFormat.BeginConnectionSite (издатель)
+
+Возвращает значение типа **Long** , указывающее подключения сайта, к которому подключен начала соединитель. Только для чтения.
 
 
-# ConnectorFormat.BeginConnectionSite Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** indicating the connection site to which the beginning of a connector is connected. Read-only.
+ _выражение_. **BeginConnectionSite**
 
-
-## Syntax
-
- _expression_. **BeginConnectionSite**
-
- _expression_A variable that represents a  **ConnectorFormat** object.
+ переменная _expression_A, представляет собой объект- **ConnectorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-If the beginning of the specified connector isn't attached to a shape, this property generates an error.
-
-Use the  **[EndConnectionSite](connectorformat-endconnectionsite-property-publisher.md)** property to return the site to which the end of a connector is connected.
+Длинный
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example assumes that the first page in the active publication already contains two shapes attached by a connector named Conn1To2. The code adds a rectangle and a connector to the first page. The beginning of the new connector will be attached to the same connection site as the beginning of the connector named Conn1To2, and the end of the new connector will be attached to connection site one on the new rectangle.
+Если в начало указанный соединитель не будет присоединен к фигуры, это свойство приводит к ошибке.
+
+Свойство **[EndConnectionSite](connectorformat-endconnectionsite-property-publisher.md)** используется для возврата сайта, к которому подключен конца соединителя.
+
+
+## <a name="example"></a>Пример
+
+В этом примере предполагается, что первая страница в активной публикации уже содержит две фигуры, подключенное соединителем с именем Conn1To2. Код добавляет прямоугольник и соединитель для первой страницы. В начало новый соединитель будет присоединена к на одном узле подключения в начале соединитель с именем Conn1To2 и end новый соединитель будет присоединена к точке, один на новый прямоугольник.
 
 
 ```vb

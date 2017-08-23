@@ -1,35 +1,36 @@
 ---
-title: PbListType Enumeration (Publisher)
+title: "Перечисление PbListType (издатель)"
 keywords: vbapb10.chm65609
-f1_keywords:
-- vbapb10.chm65609
+f1_keywords: vbapb10.chm65609
 ms.prod: publisher
-api_name:
-- Publisher.PbListType
+api_name: Publisher.PbListType
 ms.assetid: 2190e95a-a649-5b04-d5a4-1fc53786b152
 ms.date: 06/08/2017
+ms.openlocfilehash: 00e7020e7af306343fb5b87ab9682d2b55df735a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pblisttype-enumeration-publisher"></a>Перечисление PbListType (издатель)
 
-
-# PbListType Enumeration (Publisher)
-
-Constants specifying the list type of a  **ParagraphFormat** object, passed to the **SetListType** method.
+Константы, определяющее тип списка объекта **ParagraphFormat** , переданной в метод **SetListType** .
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
 | **pbListTypeAiueo**|12|Aiueo|
-| **pbListTypeArabic**|0|Arabic|
+| **pbListTypeArabic**|0|Арабский|
 | **pbListTypeArabic1**|46|Arabic1|
 | **pbListTypeArabic2**|48|Arabic2|
-| **pbListTypeArabicLeadingZero**|22|Arabic Leading Zero|
-| **pbListTypeBullet**|23|Bullet|
-| **pbListTypeCardinalText**|6|Cardinal Text|
+| **pbListTypeArabicLeadingZero**|22|Арабский начальным нулем|
+| **pbListTypeBullet**|23|Маркер|
+| **pbListTypeCardinalText**|6|Основные текста|
 | **pbListTypeChnDbNum2**|38|ChnDbNum2|
 | **pbListTypeChnDbNum3**|39|ChnDbNum3|
 | **pbListTypeChosung**|25|Chosung|
-| **pbListTypeCirclenum**|18|Circle num|
+| **pbListTypeCirclenum**|18|Круг num|
 | **pbListTypeDAiueo**|20|DAiueo|
 | **pbListTypeDbChar**|14|DbChar|
 | **pbListTypeDbNum1**|10|DbNum1|
@@ -49,20 +50,20 @@ Constants specifying the list type of a  **ParagraphFormat** object, passed to t
 | **pbListTypeKorDbNum2**|42|KorDbNum2|
 | **pbListTypeKorDbNum3**|43|KorDbNum3|
 | **pbListTypeKorDbNum4**|44|KorDbNum4|
-| **pbListTypeLowerCaseLetter**|4|Lowercase Letter|
-| **pbListTypeLowerCaseRoman**|2|Lowercase Roman|
-| **pbListTypeLowerCaseRussian**|58|Lowercase Russian|
-| **pbListTypeNone**|255|None|
-| **pbListTypeOrdinal**|5|Ordinal|
+| **pbListTypeLowerCaseLetter**|4|Строчные буквы|
+| **pbListTypeLowerCaseRoman**|2|Строчные Roman|
+| **pbListTypeLowerCaseRussian**|58|Нижний регистр русский|
+| **pbListTypeNone**|255|Нет|
+| **pbListTypeOrdinal**|5|Порядковый номер|
 | **pbListTypeOrdinalText**|7|OrdinalText|
 | **pbListTypeThai1**|53|Thai1|
 | **pbListTypeThai2**|54|Thai2|
 | **pbListTypeThai3**|55|Thai3|
 | **pbListTypeTpeDbNum2**|34|DbNum2|
 | **pbListTypeTpeDbNum3**|35|DbNum3|
-| **pbListTypeUpperCaseLetter**|3|Uppercase Letter|
-| **pbListTypeUpperCaseRoman**|1|Uppercase Roman|
-| **pbListTypeUpperCaseRussian**|59|Uppercase Russian|
+| **pbListTypeUpperCaseLetter**|3|Прописная буква|
+| **pbListTypeUpperCaseRoman**|1|Прописные буквы Roman|
+| **pbListTypeUpperCaseRussian**|59|Прописные буквы русский|
 | **pbListTypeVietnamese1**|56|Vietnamese1|
 | **pbListTypeZodiac1**|30|Zodiac1|
 | **pbListTypeZodiac2**|31|Zodiac2|

@@ -1,48 +1,49 @@
 ---
-title: EmailMergeEnvelope Object (Publisher)
+title: "Объект EmailMergeEnvelope (издатель)"
 keywords: vbapb10.chm9109503
-f1_keywords:
-- vbapb10.chm9109503
+f1_keywords: vbapb10.chm9109503
 ms.prod: publisher
-api_name:
-- Publisher.EmailMergeEnvelope
+api_name: Publisher.EmailMergeEnvelope
 ms.assetid: 555dd80e-bac2-96dd-4256-ad1b8006da0f
 ms.date: 06/08/2017
+ms.openlocfilehash: b76642d76f88a45a44ec7bc0806ad3de0c194e5d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="emailmergeenvelope-object-publisher"></a>Объект EmailMergeEnvelope (издатель)
 
-
-# EmailMergeEnvelope Object (Publisher)
-
-Represents the e-mail container (envelope) that holds the Microsoft Publisher document that is merged into an e-mail merge.
+Представляет контейнер электронной почты (конверт), в котором размещается документ Microsoft Publisher, объединенные в слияния электронной почты.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The properties of the  **EmailMergeEnvelope** object correspond to the combination of both required and optional settings in the **Merge to E-mail** dialog box in the Publisher user interface (on the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**). 
- 
-
- 
-Before you can use the  **Execute** method of the **[MailMerge](mailmerge-object-publisher.md)** object to send a merged e-mail, you must specify a value for the **To** property of the **EmailMergeEnvelope** object, or Publisher will return an error.
+Свойства объекта **EmailMergeEnvelope** соответствуют сочетание необходимые и необязательные параметры в диалоговом окне **Слияние по электронной почте** в пользовательском интерфейсе Publisher (в меню **файл** выберите команду **Отправить**сообщение, нажмите кнопку **Отправить слияния почты**и нажмите кнопку **Параметры**). 
  
 
  
-
-## Example
-
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an e-mail merge and then send the resulting e-mail message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the e-mail message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the e-mail.
+Прежде чем использовать метод **Execute** объекта **[слияния](mailmerge-object-publisher.md)** для отправки объединенных электронной почты, необходимо указать значение для свойства **для** объекта **EmailMergeEnvelope** или Publisher возвращает ошибку.
  
 
  
-The data source referenced in this example is a simple tab-deliimited text file that contains three columns with the headings "First," "Last," and "E-mail Address" respectively.
+
+## <a name="example"></a>Пример
+
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как назначить некоторые свойства объекта **EmailMergeEnvelope** , который представляет слияния почты и отправьте итогового сообщения электронной почты, приглашения. Макрос подключается к источнику данных, присваивает значения свойства **к** и **Subject** объекта **EmailMergeEnvelope** и добавляет текстовое поле, содержащее полей слияния и некоторые дополнительный текст в сообщение электронной почты. Затем он использует метод **Execute** объекта **слияния** для выполнения объединения и отправки сообщения электронной почты.
  
 
  
-Before running the code, create the text file, add one or more data rows, name the file DataSource.txt, and save it to disk. Then add the file's path to the code by replacing the  _PathToFile_ variable with your path.
+В этом примере указанный источник данных является простой вкладку deliimited текстовый файл, содержащий три столбца с заголовками «First», «Последняя» и «Адрес электронной почты» соответственно.
  
 
  
-If you run the code in this example more than once, you will encounter errors because Publisher connects to the data source each time you run the code, resulting in a publication connected to multiple data sources. When multiple data-source connections exist, Publisher inserts an extra column in the master (combined) mail-merge data source to specify the specific data source for each record. As a result, Publisher effectively changes the index number of all the data-source columns, making the indexes used in this code (for example,  _MailMergeField1_ ) incorrect.
+Перед выполнением кода, создайте текстовый файл, добавьте один или несколько строк данных, имя файла DataSource.txt и сохраните его на диск. Затем добавьте путь файла кода, заменив _PathToFile_ переменную path.
+ 
+
+ 
+При выполнении кода в этом примере показан более чем один раз, который будет возникли ошибки, так как Publisher подключается к источнику данных каждый раз, когда выполняется код, приведшего к публикации, подключенная к нескольким источникам данных. При наличии нескольких подключений к источнику данных, Microsoft Publisher вставляет дополнительный столбец в источнике данных master (комбинированные) слияния почты для указания конкретного источника данных для каждой записи. В результате Publisher эффективно изменяется номер индекса все столбцы источника данных, создание индексов, используемых в этом примере кода (например, _MailMergeField1_ ) неправильные.
  
 
  
@@ -84,18 +85,18 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](emailmergeenvelope-application-property-publisher.md)|
+|[Приложения](emailmergeenvelope-application-property-publisher.md)|
 |[Attachemts](emailmergeenvelope-attachemts-property-publisher.md)|
-|[Bcc](emailmergeenvelope-bcc-property-publisher.md)|
-|[Cc](emailmergeenvelope-cc-property-publisher.md)|
-|[Parent](emailmergeenvelope-parent-property-publisher.md)|
-|[Priority](emailmergeenvelope-priority-property-publisher.md)|
+|[Скрытой копии](emailmergeenvelope-bcc-property-publisher.md)|
+|[«Копия»](emailmergeenvelope-cc-property-publisher.md)|
+|[Родительский раздел](emailmergeenvelope-parent-property-publisher.md)|
+|[Приоритет](emailmergeenvelope-priority-property-publisher.md)|
 |[Subject](emailmergeenvelope-subject-property-publisher.md)|
-|[To](emailmergeenvelope-to-property-publisher.md)|
+|[Для](emailmergeenvelope-to-property-publisher.md)|
 

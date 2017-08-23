@@ -1,31 +1,32 @@
 ---
-title: TabStop.Position Property (Publisher)
+title: "Свойство TabStop.Position (издатель)"
 keywords: vbapb10.chm5636099
-f1_keywords:
-- vbapb10.chm5636099
+f1_keywords: vbapb10.chm5636099
 ms.prod: publisher
-api_name:
-- Publisher.TabStop.Position
+api_name: Publisher.TabStop.Position
 ms.assetid: 1ca7831a-6662-036e-8ba2-5784bc95fe8d
 ms.date: 06/08/2017
+ms.openlocfilehash: e36bc50a3276f0de9c9741ca2e9b8690804a7c3d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="tabstopposition-property-publisher"></a>Свойство TabStop.Position (издатель)
+
+Возвращает или задает **Variant** представляющее положение шрифта относительно базового плана текста в указанном диапазоне. Положительные значения переместить текст выше обычного базового, отрицательные значения переместить текст ниже базового плана. Неопределенное значения возвращаются в виде-9999.0. Чтение и запись.
 
 
-# TabStop.Position Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
+ _выражение_. **Положение**
 
-
-## Syntax
-
- _expression_. **Position**
-
- _expression_A variable that represents a  **TabStop** object.
+ переменная _expression_A, представляет собой объект- **TabStop** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adjusts the text in the second story to 5 points below the baseline.
+Этот пример устанавливает текст во второй материал на 5 точек ниже базового плана.
 
 
 ```vb

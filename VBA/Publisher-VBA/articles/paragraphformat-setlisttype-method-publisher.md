@@ -1,113 +1,55 @@
 ---
-title: ParagraphFormat.SetListType Method (Publisher)
+title: "Метод ParagraphFormat.SetListType (издатель)"
 keywords: vbapb10.chm5439520
-f1_keywords:
-- vbapb10.chm5439520
+f1_keywords: vbapb10.chm5439520
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.SetListType
+api_name: Publisher.ParagraphFormat.SetListType
 ms.assetid: 6900aac5-fb3f-5813-309c-1422d38c8301
 ms.date: 06/08/2017
+ms.openlocfilehash: 34c502c6aea5d24f6ee352993d6fc4fe4e427b98
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatsetlisttype-method-publisher"></a>Метод ParagraphFormat.SetListType (издатель)
+
+Задает тип списка на указанный объект **ParagraphFormat** . .
 
 
-# ParagraphFormat.SetListType Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the list type of the specified  **ParagraphFormat** object. .
+ _выражение_. **SetListType** ( **_Значение_**, **_BulletText_**)
 
-
-## Syntax
-
- _expression_. **SetListType**( **_Value_**,  **_BulletText_**)
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
-|BulletText|Optional| **String**| **String** that represents the text of the list bullet.|
+|Значение|Обязательное свойство.| **PbListType**|Представляет тип списка на указанный объект **ParagraphFormat** .|
+|BulletText|Необязательный| **String**| **Строка** , представляющая текст маркированный список.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If Value is a bulleted list and the BulletText parameter is missing, the first bullet from the  **Bullets and Numbering** dialog box is used.
+Если значение равно маркированный список, а параметр BulletText отсутствует, используется первый маркер из диалогового окна **список** .
 
-BulletText is limited to one character. 
+BulletText применяется только для одного символа. 
 
-A run-time error occurs if the BulletText parameter is provided and the Value parameter is not set to  **pbListTypeBullet**.
+Если параметр BulletText указан, значение параметра не задано значение **pbListTypeBullet**, возникает ошибка времени выполнения.
 
-The Value parameter can be one of the  **PbListType** constants declared in the Microsoft Publisher type library and shown in the following table.
+Значение параметра может иметь одно из **PbListType** константы объявляются в библиотеке типов Microsoft Publisher и показаны в следующей таблице.
 
 
 
-| **pbListTypeAiueo**|
-| **pbListTypeArabic**|
-| **pbListTypeArabic1**|
-| **pbListTypeArabic2**|
-| **pbListTypeArabicLeadingZero**|
-| **pbListTypeBullet**|
-| **pbListTypeCardinalText**|
-| **pbListTypeChiManSty**|
-| **pbListTypeChinaDbNum1**|
-| **pbListTypeChinaDbNum2**|
-| **pbListTypeChinaDbNum3**|
-| **pbListTypeChinaDbNum4**|
-| **pbListTypeChosung**|
-| **pbListTypeCirclenum**|
-| **pbListTypeDAiueo**|
-| **pbListTypeDArabic**|
-| **pbListTypeDbChar**|
-| **pbListTypeDbNum1**|
-| **pbListTypeDbNum2**|
-| **pbListTypeDbNum3**|
-| **pbListTypeDbNum4**|
-| **pbListTypeDIroha**|
-| **pbListTypeGanada**|
-| **pbListTypeGB1**|
-| **pbListTypeGB2**|
-| **pbListTypeGB3**|
-| **pbListTypeGB4**|
-| **pbListTypeHebrew1**|
-| **pbListTypeHebrew2**|
-| **pbListTypeHex**|
-| **pbListTypeHindi1**|
-| **pbListTypeHindi2**|
-| **pbListTypeHindi3**|
-| **pbListTypeHindi4**|
-| **pbListTypeIroha**|
-| **pbListTypeKoreaDbNum1**|
-| **pbListTypeKoreaDbNum2**|
-| **pbListTypeKoreaDbNum3**|
-| **pbListTypeKoreaDbNum4**|
-| **pbListTypeLowerCaseLetter**|
-| **pbListTypeLowerCaseRoman**|
-| **pbListTypeLowerCaseRussian**|
-| **pbListTypeNone**|
-| **pbListTypeOrdinal**|
-| **pbListTypeOrdinalText**|
-| **pbListTypeSbChar**|
-| **pbListTypeTaiwanDbNum1**|
-| **pbListTypeTaiwanDbNum2**|
-| **pbListTypeTaiwanDbNum3**|
-| **pbListTypeTaiwanDbNum4**|
-| **pbListTypeThai1**|
-| **pbListTypeThai2**|
-| **pbListTypeThai3**|
-| **pbListTypeUpperCaseLetter**|
-| **pbListTypeUpperCaseRoman**|
-| **pbListTypeUpperCaseRussian**|
-| **pbListTypeVietnamese1**|
-| **pbListTypeZodiac1**|
-| **pbListTypeZodiac2**|
-| **pbListTypeZodiac3**|
+| **pbListTypeAiueo**|| **pbListTypeArabic**|| **pbListTypeArabic1**|| **pbListTypeArabic2**|| **pbListTypeArabicLeadingZero**|| **pbListTypeBullet**|| **pbListTypeCardinalText**|| **pbListTypeChiManSty**|| **pbListTypeChinaDbNum1**|| **pbListTypeChinaDbNum2**|| **pbListTypeChinaDbNum3**|| **pbListTypeChinaDbNum4**|| **pbListTypeChosung**|| **pbListTypeCirclenum**|| **pbListTypeDAiueo**|| **pbListTypeDArabic**|| **pbListTypeDbChar**|| **pbListTypeDbNum1**|| **pbListTypeDbNum2**|| **pbListTypeDbNum3**|| **pbListTypeDbNum4**|| **pbListTypeDIroha**|| **pbListTypeGanada**|| **pbListTypeGB1**|| **pbListTypeGB2**|| **pbListTypeGB3**|| **pbListTypeGB4**|| **pbListTypeHebrew1**|| **pbListTypeHebrew2**|| **pbListTypeHex**|| **pbListTypeHindi1**|| **pbListTypeHindi2**|| **pbListTypeHindi3**|| **pbListTypeHindi4**|| **pbListTypeIroha**|| **pbListTypeKoreaDbNum1**|| **pbListTypeKoreaDbNum2**|| **pbListTypeKoreaDbNum3**|| **pbListTypeKoreaDbNum4**|| **pbListTypeLowerCaseLetter**|| **pbListTypeLowerCaseRoman**|| **pbListTypeLowerCaseRussian**|| **pbListTypeNone**|| **pbListTypeOrdinal**|| **pbListTypeOrdinalText**|| **pbListTypeSbChar**|| **pbListTypeTaiwanDbNum1**|| **pbListTypeTaiwanDbNum2**|| **pbListTypeTaiwanDbNum3**|| **pbListTypeTaiwanDbNum4**|| **pbListTypeThai1**|| **pbListTypeThai2**|| **pbListTypeThai3**|| **pbListTypeUpperCaseLetter**|| **pbListTypeUpperCaseRoman**|| **pbListTypeUpperCaseRussian**|| **pbListTypeVietnamese1**|| **pbListTypeZodiac1**|| **pbListTypeZodiac2**|| **pbListTypeZodiac3**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests to see if the list type is a numbered list, specifically  **pbListTypeArabic**. If the  **ListType** property is set to **pbListTypeArabic**, the  **ListSeparator** is set to **pbListSeparatorParenthesis**. Otherwise the  **SetListType** method is called and passed **pbListTypeArabic** as the Value parameter and then the **ListNumberSeparator** property can be set.
+В этом примере проверяется, если тип списка — нумерованный список, а именно **pbListTypeArabic**. Если свойство **ListType** **pbListTypeArabic**, **ListSeparator** задано значение **pbListSeparatorParenthesis**. В противном случае метод **SetListType** вызван и передается в качестве значения параметра **pbListTypeArabic** и задайте свойство **ListNumberSeparator** .
 
 
 ```vb
@@ -127,7 +69,7 @@ End With
 
 ```
 
-This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for  **TextFrame** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The  **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** set.
+В этом примере показано, как можно настроить структуру упорядоченный документа, содержащую именованные текстовые рамки со списками. В этом примере предполагается, что публикация содержит схему именования **TextFrame** объекты, содержащие списки, использующих word «список» с префиксом. В этом примере использует итерации вложенного набора для доступа к объектам **TextFrame** в каждой коллекции **фигур** каждой **страницы**. Объект **ParagraphFormat** имени каждого **TextFrame** с префикса «список» имеет **ListType** и **ListBulletFontSize** задания.
 
 
 

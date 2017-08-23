@@ -1,45 +1,46 @@
 ---
-title: MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+title: "Метод MailMergeDataSource.SetAllErrorFlags (издатель)"
 keywords: vbapb10.chm6291488
-f1_keywords:
-- vbapb10.chm6291488
+f1_keywords: vbapb10.chm6291488
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.SetAllErrorFlags
+api_name: Publisher.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 17c41fbb-3b21-c31a-63cd-ed26065bfa79
 ms.date: 06/08/2017
+ms.openlocfilehash: 41f32f083926e7d36fbd02a456dfbeafdcb44660
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcesetallerrorflags-method-publisher"></a>Метод MailMergeDataSource.SetAllErrorFlags (издатель)
+
+Помечает все записи в источнике данных, содержащее недопустимые данные в поле адрес.
 
 
-# MailMergeDataSource.SetAllErrorFlags Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Marks all records in a mail merge data source as containing invalid data in an address field.
+ _выражение_. **SetAllErrorFlags** ( **_Недопустимые_**, **_InvalidComment_**)
 
-
-## Syntax
-
- _expression_. **SetAllErrorFlags**( **_Invalid_**,  **_InvalidComment_**)
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Invalid|Required| **Boolean**| **True** marks all records in the data source of a mail merge as invalid.|
-|InvalidComment|Optional| **String**|Text describing the invalid setting.|
+|Недопустимый|Обязательное свойство.| **Boolean**| **Значение true,** помечает все записи в источнике данных слияния почты как недопустимый.|
+|InvalidComment|Необязательный| **String**|Текст с описанием недопустимый параметр.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can individually mark records in a data source that contain invalid data in an address field using the  **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties.
+Отдельно можно пометить записей в источнике данных, содержащих недопустимые данные в поле адреса с помощью свойства **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** и **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example marks all records in the data source as containing an invalid address field, sets a comment as to why it is invalid, and excludes all records from the mail merge.
+В этом примере все записи в источнике данных, содержащее поле недопустимый адреса, задает комментарий, почему он является недопустимым и исключает все записи из слияния почты.
 
 
 ```vb

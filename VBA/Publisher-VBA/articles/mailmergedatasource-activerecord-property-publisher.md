@@ -1,41 +1,42 @@
 ---
-title: MailMergeDataSource.ActiveRecord Property (Publisher)
+title: "Свойство MailMergeDataSource.ActiveRecord (издатель)"
 keywords: vbapb10.chm6291459
-f1_keywords:
-- vbapb10.chm6291459
+f1_keywords: vbapb10.chm6291459
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.ActiveRecord
+api_name: Publisher.MailMergeDataSource.ActiveRecord
 ms.assetid: 0f092eb4-6e65-9235-83e2-a04b813b2390
 ms.date: 06/08/2017
+ms.openlocfilehash: d83e1efb2c86cd0614e77d363252270cb4f6e5ac
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourceactiverecord-property-publisher"></a>Свойство MailMergeDataSource.ActiveRecord (издатель)
+
+Возвращает или задает **времени** , представляющий запись active слияния почты. Чтение и запись.
 
 
-# MailMergeDataSource.ActiveRecord Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that represents the active mail merge record. Read/write.
+ _выражение_. **ActiveRecord**
 
-
-## Syntax
-
- _expression_. **ActiveRecord**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-The active record number is the position of the record in the query result produced by the current query options; as such, this number is not necessarily the position of the record in the data source.
+Длинный
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example validates that the value entered into the PostalCode field is ten characters long (U.S. ZIP Code plus 4-digit locator code). If it is not, it is excluded from the mail merge and marked with a comment.
+Номер активной записи — положение записи в результатах запроса, созданные средством параметры текущего запроса; Таким образом этот номер не обязательно положение записи в источнике данных.
+
+
+## <a name="example"></a>Пример
+
+В этом примере проверяет, что значение, указанное в поле «Индекс» является 10 символов (ПОЧТОВЫЙ индекс США плюс 4-значного локатор кода). Если он не установлен, исключены из слияния почты и помеченные комментарий.
 
 
 ```vb

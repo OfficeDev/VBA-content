@@ -1,57 +1,49 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Publisher)
+title: "Метод ThreeDFormat.SetExtrusionDirection (издатель)"
 keywords: vbapb10.chm3801108
-f1_keywords:
-- vbapb10.chm3801108
+f1_keywords: vbapb10.chm3801108
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.SetExtrusionDirection
+api_name: Publisher.ThreeDFormat.SetExtrusionDirection
 ms.assetid: ac01d31d-7775-8e33-3b68-6e53f952fdda
 ms.date: 06/08/2017
+ms.openlocfilehash: 42e7e0d793555418b4ceecd32cdf7488ae61fa39
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatsetextrusiondirection-method-publisher"></a>Метод ThreeDFormat.SetExtrusionDirection (издатель)
+
+Направление пути очистки придания объема принимает от вытянутый фигуры.
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the direction that the extrusion's sweep path takes away from the extruded shape.
+ _выражение_. **SetExtrusionDirection** ( **_PresetExtrusionDirection_**)
 
-
-## Syntax
-
- _expression_. **SetExtrusionDirection**( **_PresetExtrusionDirection_**)
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|PresetExtrusionDirection|Required| **MsoPresetExtrusionDirection**|Specifies the extrusion direction.|
+|PresetExtrusionDirection|Обязательное свойство.| **MsoPresetExtrusionDirection**|Указывает направление придания объема.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The PresetExtrusionDirection parameter can be one of the  **MsoPresetExtrusionDirection** constants declared in the Microsoft Office type library and shown in the following table.
-
-
-
-| **msoExtrusionBottom**|
-| **msoExtrusionBottomLeft**|
-| **msoExtrusionBottomRight**|
-| **msoExtrusionLeft**|
-| **msoExtrusionNone**|
-| **msoExtrusionRight**|
-| **msoExtrusionTop**|
-| **msoExtrusionTopLeft**|
-| **msoExtrusionTopRight**|
-This method sets the  [PresetExtrusionDirection](threedformat-presetextrusiondirection-property-publisher.md)property to the direction specified by the PresetExtrusionDirection argument.
+Параметр PresetExtrusionDirection может быть одной из констант **MsoPresetExtrusionDirection** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
-## Example
 
-This example specifies that the extrusion for the first shape in the active publication extend toward the top of the shape and that the lighting for the extrusion come from the left.
+| **msoExtrusionBottom**|| **msoExtrusionBottomLeft**|| **msoExtrusionBottomRight**|| **msoExtrusionLeft**|| **msoExtrusionNone**|| **msoExtrusionRight**|| **msoExtrusionTop**|| **msoExtrusionTopLeft**|| **msoExtrusionTopRight**| Этот метод устанавливает значение свойства [PresetExtrusionDirection](threedformat-presetextrusiondirection-property-publisher.md)направление, указанный в аргументе PresetExtrusionDirection.
+
+
+## <a name="example"></a>Пример
+
+В этом примере указывается, что изменяется для первой фигуры в активной публикации расширение к началу фигуры и что освещения для изменяется поступают из слева.
 
 
 ```vb

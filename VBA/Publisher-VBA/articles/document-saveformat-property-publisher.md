@@ -1,41 +1,42 @@
 ---
-title: Document.SaveFormat Property (Publisher)
+title: "Свойство Document.SaveFormat (издатель)"
 keywords: vbapb10.chm196656
-f1_keywords:
-- vbapb10.chm196656
+f1_keywords: vbapb10.chm196656
 ms.prod: publisher
-api_name:
-- Publisher.Document.SaveFormat
+api_name: Publisher.Document.SaveFormat
 ms.assetid: 545f0411-899f-ffe3-e844-8c2922a357f0
 ms.date: 06/08/2017
+ms.openlocfilehash: ff5f126c38b0cef1399476616997f736651107bb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentsaveformat-property-publisher"></a>Свойство Document.SaveFormat (издатель)
+
+Указывает формат файла, указанного документа. Только для чтения.
 
 
-# Document.SaveFormat Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates the file format of the specified document. Read-only.
+ _выражение_. **SaveFormat**
 
-
-## Syntax
-
- _expression_. **SaveFormat**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbFileFormat
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **SaveFormat** property value can be one of the **[PbFileFormat](pbfileformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **SaveFormat** может иметь одно из **[PbFileFormat](pbfileformat-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-If the active publication is in the Publisher 2000 format, this example saves it in Rich Text Format (RTF).
+Если active публикации в формате Publisher 2000, в этом примере сохраняется в форматированный текст (RTF).
 
 
 ```vb

@@ -1,47 +1,48 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Publisher)
+title: "Свойство TextEffectFormat.NormalizedHeight (издатель)"
 keywords: vbapb10.chm3735814
-f1_keywords:
-- vbapb10.chm3735814
+f1_keywords: vbapb10.chm3735814
 ms.prod: publisher
-api_name:
-- Publisher.TextEffectFormat.NormalizedHeight
+api_name: Publisher.TextEffectFormat.NormalizedHeight
 ms.assetid: 2b62fe23-9204-7449-1d4e-73e73def5df0
 ms.date: 06/08/2017
+ms.openlocfilehash: 4273715ac9924a5d2b2e70ad84a766d0627429ee
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="texteffectformatnormalizedheight-property-publisher"></a>Свойство TextEffectFormat.NormalizedHeight (издатель)
+
+Указывает, являются ли все символы (прописные и строчные) в указанном WordArt по высоте. Чтение и запись.
 
 
-# TextEffectFormat.NormalizedHeight Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies whether all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write.
+ _выражение_. **NormalizedHeight**
 
-
-## Syntax
-
- _expression_. **NormalizedHeight**
-
- _expression_A variable that represents a  **TextEffectFormat** object.
+ переменная _expression_A, представляет собой объект- **TextEffectFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **NormalizedHeight** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **NormalizedHeight** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| Characters in the specified WordArt object are not all the same height.|
-| **msoTrue**| Characters in the specified WordArt object are all the same height.|
+| **msoFalse**| Символы в указанном объекте WordArt не все же высоту.|
+| **msoTrue**| Символы в указанном объекте WordArt — это все же высоту.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new WordArt shape on the first page of the active publication and then sets each character in the shape to be the same height.
+В этом примере создается новая форма WordArt на первой странице active публикации и затем задает каждый символ в форму на одинаковую высоту.
 
 
 ```vb

@@ -1,43 +1,44 @@
 ---
-title: FillFormat.GradientColorType Property (Publisher)
+title: "Свойство FillFormat.GradientColorType (издатель)"
 keywords: vbapb10.chm2359554
-f1_keywords:
-- vbapb10.chm2359554
+f1_keywords: vbapb10.chm2359554
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.GradientColorType
+api_name: Publisher.FillFormat.GradientColorType
 ms.assetid: b0866675-4bc4-5e82-780d-8bae4b7d16ef
 ms.date: 06/08/2017
+ms.openlocfilehash: e223fe955af45db80fb9e90350200d5eb0868b2f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatgradientcolortype-property-publisher"></a>Свойство FillFormat.GradientColorType (издатель)
+
+Возвращает константу **MsoGradientColorType** , указывающий тип градиента для указанного заполнения. Только для чтения.
 
 
-# FillFormat.GradientColorType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoGradientColorType** constant indicating the gradient color type for the specified fill. Read-only.
+ _выражение_. **GradientColorType**
 
-
-## Syntax
-
- _expression_. **GradientColorType**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoGradientColorType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  [OneColorGradient](fillformat-onecolorgradient-method-publisher.md),  [PresetGradient](fillformat-presetgradient-method-publisher.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient type for the fill.
+Используйте метод [OneColorGradient](fillformat-onecolorgradient-method-publisher.md), [PresetGradient](fillformat-presetgradient-method-publisher.md)или **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** , чтобы задать тип градиента для заполнения.
 
-The  **GradientColorType** property value can be one of the ** [MsoGradientColorType](http://msdn.microsoft.com/library/0940fc83-d089-8b1d-dcf1-73773d0e21c5%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **GradientColorType** может иметь одно из ** [MsoGradientColorType](http://msdn.microsoft.com/library/0940fc83-d089-8b1d-dcf1-73773d0e21c5%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example changes the fill for all shapes on the first page of the active publication that have a two-color gradient fill to a preset gradient fill.
+В этом примере изменяется заливки для всех фигур на первой странице active публикации, имеющие градиентной заливки двух цветов для предварительно градиентной заливки.
 
 
 ```vb

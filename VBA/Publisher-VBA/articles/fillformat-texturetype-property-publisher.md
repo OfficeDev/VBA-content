@@ -1,50 +1,51 @@
 ---
-title: FillFormat.TextureType Property (Publisher)
+title: "Свойство FillFormat.TextureType (издатель)"
 keywords: vbapb10.chm2359568
-f1_keywords:
-- vbapb10.chm2359568
+f1_keywords: vbapb10.chm2359568
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.TextureType
+api_name: Publisher.FillFormat.TextureType
 ms.assetid: 08f3b0a1-97a3-bdbf-25b4-93e05938d607
 ms.date: 06/08/2017
+ms.openlocfilehash: 4d9120f11f7e2f5231beaed521b25aa1b9a077e6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformattexturetype-property-publisher"></a>Свойство FillFormat.TextureType (издатель)
+
+Возвращает константу **MsoTextureType** , указывающий тип текстуры для указанного заполнения. Только для чтения.
 
 
-# FillFormat.TextureType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoTextureType** constant indicating the texture type for the specified fill. Read-only.
+ _выражение_. **TextureType**
 
-
-## Syntax
-
- _expression_. **TextureType**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTextureType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property is read-only. Use the  [PresetTextured](fillformat-presettextured-method-publisher.md)or  **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture type for the fill.
+Это свойство доступно только для чтения. Используйте метод [PresetTextured](fillformat-presettextured-method-publisher.md)или **[UserTextured](fillformat-usertextured-method-publisher.md)** для задания типа текстуры для заполнения.
 
-The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoTexturePreset**| The fill uses a preset texture type.|
-| **msoTextureTypeMixed**|Indicates a combination of texture types for the specified shape range..|
-| **msoTextureUserDefined**|The fill uses a user-defined texture type.|
+| **msoTexturePreset**| Заливки использует тип, предварительно текстуры.|
+| **msoTextureTypeMixed**|Указывает оба типа текстуры для диапазона указанной фигуры.|
+| **msoTextureUserDefined**|Заливки использует тип, определенный пользователем текстуры.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example applies a canvas texture to the fill for all shapes on the first page of the active publication that currently have fills with a user-defined texture.
+В этом примере применяется полотно текстуры для заполнения для всех фигур на первой странице active публикации, которые в настоящий момент назначены заливки с пользовательской текстуры.
 
 
 ```vb

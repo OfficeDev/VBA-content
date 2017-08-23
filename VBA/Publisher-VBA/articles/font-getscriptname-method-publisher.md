@@ -1,49 +1,50 @@
 ---
-title: Font.GetScriptName Method (Publisher)
+title: "Метод Font.GetScriptName (издатель)"
 keywords: vbapb10.chm5374000
-f1_keywords:
-- vbapb10.chm5374000
+f1_keywords: vbapb10.chm5374000
 ms.prod: publisher
-api_name:
-- Publisher.Font.GetScriptName
+api_name: Publisher.Font.GetScriptName
 ms.assetid: 332860de-33fa-7d6a-ac42-28c39856cff7
 ms.date: 06/08/2017
+ms.openlocfilehash: 050d5d75852ddadcdb1454ee011d9092f2053c31
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontgetscriptname-method-publisher"></a>Метод Font.GetScriptName (издатель)
+
+Возвращает **строку** , представляющую имя начертания шрифта, используемых в диапазон текста.
 
 
-# Font.GetScriptName Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the name of the font script being used in a text range.
+ _выражение_. **GetScriptName** ( **_Скрипт_**)
 
-
-## Syntax
-
- _expression_. **GetScriptName**( **_Script_**)
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Script|Required| **PbFontScriptType**|The script name.|
+|Сценарий|Обязательное свойство.| **PbFontScriptType**|Имя скрипта.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The Script parameter can be one of the  **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Параметр скрипт может иметь одно из **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example verifies that the default font script in use for the specified text range is Tahoma and, if not, sets it as the default font script.
+В этом примере проверяет начертания шрифта по умолчанию используется для указанного текста диапазона Tahoma и, если это не так, устанавливает ее в качестве начертания шрифта по умолчанию.
 
 
 ```vb

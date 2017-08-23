@@ -1,36 +1,37 @@
 ---
-title: ScratchArea.Shapes Property (Publisher)
+title: "Свойство ScratchArea.Shapes (издатель)"
 keywords: vbapb10.chm1179651
-f1_keywords:
-- vbapb10.chm1179651
+f1_keywords: vbapb10.chm1179651
 ms.prod: publisher
-api_name:
-- Publisher.ScratchArea.Shapes
+api_name: Publisher.ScratchArea.Shapes
 ms.assetid: 0d867fec-42f4-fd61-c6c3-745be955e5d2
 ms.date: 06/08/2017
+ms.openlocfilehash: 7e7e1201e2d3277621c2687cafa555feaee0ce5a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="scratchareashapes-property-publisher"></a>Свойство ScratchArea.Shapes (издатель)
+
+Возвращает коллекцию **[фигур](shapes-object-publisher.md)** , представляющий все объекты **фигур** в указанной публикации. Эта коллекция может содержать документы, фигур, рисунков, OLE объекты, ActiveX элементов управления, текстовые объекты и выноски.
 
 
-# ScratchArea.Shapes Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Shapes](shapes-object-publisher.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
+ _выражение_. **Фигур**
 
-
-## Syntax
-
- _expression_. **Shapes**
-
- _expression_A variable that represents a  **ScratchArea** object.
+ переменная _expression_A, представляет собой объект- **ScratchArea** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For information about returning a single member of a collection, see  **Returning an Object from a Collection**.
+Сведения о возврате один элемент коллекции видеть **возврата объекта из коллекции**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a rectangle to the first page in the active publication.
+В этом примере добавляется прямоугольник для первой страницы в активной публикации.
 
 
 ```vb
@@ -40,7 +41,7 @@ Sub AddNewRectangle()
 End Sub
 ```
 
-This example sets the fill texture for all the shapes in the active publication. This example assumes there is at least one shape in the active publication.
+В этом примере задается текстуры заливки для всех фигур в активной публикации. В этом примере предполагается, что имеется по крайней мере один фигуры в активной публикации.
 
 
 
@@ -54,7 +55,7 @@ Sub SetNewTextureForAllShapes()
 End Sub
 ```
 
-This example adds a shadow to the first shape in the active publication. This example assumes there is at least one shape in the active publication.
+В этом примере добавляется тень для первой фигуры в активной публикации. В этом примере предполагается, что имеется по крайней мере один фигуры в активной публикации.
 
 
 
@@ -65,7 +66,7 @@ Sub SetShadowForFirstShape()
 End Sub
 ```
 
-This example displays a count of all shapes on the first page of the active publication. This example assumes there is at least one shape in the active publication.
+В этом примере отображается количество всех фигур на первой странице active публикации. В этом примере предполагается, что имеется по крайней мере один фигуры в активной публикации.
 
 
 

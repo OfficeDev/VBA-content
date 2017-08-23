@@ -1,36 +1,37 @@
 ---
-title: WebListBox.ListBoxItems Property (Publisher)
+title: "Свойство WebListBox.ListBoxItems (издатель)"
 keywords: vbapb10.chm4063235
-f1_keywords:
-- vbapb10.chm4063235
+f1_keywords: vbapb10.chm4063235
 ms.prod: publisher
-api_name:
-- Publisher.WebListBox.ListBoxItems
+api_name: Publisher.WebListBox.ListBoxItems
 ms.assetid: 642a4592-35af-99fa-ee96-6bd8517c618f
 ms.date: 06/08/2017
+ms.openlocfilehash: 349f0b767fb6e2a9c78543da9a435db6ce6d3b4c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="weblistboxlistboxitems-property-publisher"></a>Свойство WebListBox.ListBoxItems (издатель)
+
+Возвращает объект **[WebListBoxItems](weblistboxitems-object-publisher.md)** , представляющий элементов в элемент управления списка Web.
 
 
-# WebListBox.ListBoxItems Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[WebListBoxItems](weblistboxitems-object-publisher.md)** object that represents the items in a Web list box control.
+ _выражение_. **ListBoxItems**
 
-
-## Syntax
-
- _expression_. **ListBoxItems**
-
- _expression_A variable that represents a  **WebListBox** object.
+ переменная _expression_A, представляет собой объект- **WebListBox** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 WebListBoxItems
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new Web list box control and adds five new list items to it.
+В этом примере создается новый элемент управления полем Web списка и добавляет пять новых элементов списка.
 
 
 ```vb

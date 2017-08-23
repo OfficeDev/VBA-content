@@ -1,44 +1,45 @@
 ---
-title: MailMergeDataSource.SetAllIncludedFlags Method (Publisher)
+title: "Метод MailMergeDataSource.SetAllIncludedFlags (издатель)"
 keywords: vbapb10.chm6291481
-f1_keywords:
-- vbapb10.chm6291481
+f1_keywords: vbapb10.chm6291481
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.SetAllIncludedFlags
+api_name: Publisher.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: ab668e95-55ac-fcbd-19c9-3c13fe3aa995
 ms.date: 06/08/2017
+ms.openlocfilehash: 55daaa431fef7329bddced245c1753a2540aafd2
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcesetallincludedflags-method-publisher"></a>Метод MailMergeDataSource.SetAllIncludedFlags (издатель)
+
+ **Значение true,** Чтобы включить все записи источника данных при слиянии.
 
 
-# MailMergeDataSource.SetAllIncludedFlags Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to include all data source records in a mail merge.
+ _выражение_. **SetAllIncludedFlags** ( **_Включено_**)
 
-
-## Syntax
-
- _expression_. **SetAllIncludedFlags**( **_Included_**)
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Included|Required| **Boolean**| **True** to include all data source records in a mail merge. **False** to exclude all data source records from a mail merge.|
+|Включенные|Обязательное свойство.| **Boolean**| **Значение true,** Чтобы включить все записи источника данных при слиянии. **Значение false,** чтобы исключить все записи источника данных из слияния почты.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can set individual records in a data source to be included in or excluded from a mail merge using the  **[Included](mailmergedatasource-included-property-publisher.md)** property.
+Позволяет указать отдельные записи в источник данных, чтобы быть включены или исключены из слияния почты, с помощью свойства **[включено](mailmergedatasource-included-property-publisher.md)** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example marks all records in the data source as containing an invalid address field, sets a comment as to why it is invalid, and excludes all records from the mail merge.
+В этом примере все записи в источнике данных, содержащее поле недопустимый адреса, задает комментарий, почему он является недопустимым и исключает все записи из слияния почты.
 
 
 ```vb

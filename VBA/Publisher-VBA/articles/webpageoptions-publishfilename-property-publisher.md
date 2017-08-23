@@ -1,58 +1,59 @@
 ---
-title: WebPageOptions.PublishFileName Property (Publisher)
+title: "Свойство WebPageOptions.PublishFileName (издатель)"
 keywords: vbapb10.chm544784
-f1_keywords:
-- vbapb10.chm544784
+f1_keywords: vbapb10.chm544784
 ms.prod: publisher
-api_name:
-- Publisher.WebPageOptions.PublishFileName
+api_name: Publisher.WebPageOptions.PublishFileName
 ms.assetid: d3f52a82-8876-303a-2a73-fdb6dd1ff1cb
 ms.date: 06/08/2017
+ms.openlocfilehash: cb7e488f9217d1730bdc6af0ec0e863a7efeeaf5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webpageoptionspublishfilename-property-publisher"></a>Свойство WebPageOptions.PublishFileName (издатель)
+
+Возвращает или задает **строку** , представляющую имя файла веб-страницы (в пределах веб-публикации), которое сохраняется как HTML с фильтром.
 
 
-# WebPageOptions.PublishFileName Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the file name of a Web page (within a Web publication) that is being saved as filtered HTML.
+ _выражение_. **PublishFileName**
 
-
-## Syntax
-
- _expression_. **PublishFileName**
-
- _expression_A variable that represents a  **WebPageOptions** object.
+ переменная _expression_A, представляет собой объект- **WebPageOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Specifying a file name for a Web page is optional. When a publication is saved as filtered HTML, Microsoft Publisher automatically generates a file name for any Web page that does not have a file name specified. Use the  **[SaveAs](document-saveas-method-publisher.md)** method of the **[Document](document-object-publisher.md)** object to save a publication as filtered HTML.
+Указание имени файла для веб-страницы является необязательным. При публикации сохраняется в виде HTML с фильтром, Microsoft Publisher автоматически создает имя файла для любой веб-страницы, для которого не указано имя файла. Метод **[SaveAs](document-saveas-method-publisher.md)** объекта **[Document](document-object-publisher.md)** для Сохранение публикации в формате HTML с фильтром.
 
-User-defined file names are used only when a publication is saved as filtered HTML.
+Файл пользовательских имен используется только в том случае, когда публикации сохраняется в виде HTML с фильтром.
 
-File names must be specified without a file name extension.
+Имена файлов должен быть указан без расширения имени файла.
 
-Including invalid characters (such as characters that are not universally allowed in file names that are part of URLs) in the file name generates a run-time error. Invalid characters include: 
+Включая недопустимые символы (такие как знаки, которые не всегда допустимы в именах файлов, являющихся частью URL-адреса) в поле имя файла возникает ошибка времени выполнения. Недопустимые символы: 
 
 
--  characters with a code point value of below (decimal) 48
+-  символы с кодом выберите значение ниже (десятичное) 48
     
-- any double-byte characters
+- любой двухбайтовых знаков
     
-- the following symbols: \, ?, >, <, |, : , and .
+- следующие символы: \, ?, >, <, |,:, и.
     
 
 
-This property corresponds to the  **File name** text box in the **Publish to the Web** section of the **Web Page Options** dialog box.
+Это свойство соответствует текстовое поле **имя файла** в разделе **Опубликовать в Интернете** диалогового окна **Параметры веб-страницы** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the file name and description of the second page in the active publication. The example assumes the active publication is a Web publication containing at least two pages.
+В следующем примере задается имя файла и описание второй страницы в активной публикации. Предполагается, что активная публикация — это веб-публикации, содержащий по крайней мере две страницы.
 
 
 ```vb

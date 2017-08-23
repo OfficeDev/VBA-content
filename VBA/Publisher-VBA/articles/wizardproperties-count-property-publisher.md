@@ -1,31 +1,32 @@
 ---
-title: WizardProperties.Count Property (Publisher)
+title: "Свойство WizardProperties.Count (издатель)"
 keywords: vbapb10.chm1507331
-f1_keywords:
-- vbapb10.chm1507331
+f1_keywords: vbapb10.chm1507331
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperties.Count
+api_name: Publisher.WizardProperties.Count
 ms.assetid: 835f3467-ec89-54d2-c685-3021e6267121
 ms.date: 06/08/2017
+ms.openlocfilehash: 777825e3a52212716b177c1c5385f2b661c3e70b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardpropertiescount-property-publisher"></a>Свойство WizardProperties.Count (издатель)
+
+Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-# WizardProperties.Count Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of items in the specified collection.
+ _выражение_. **Count**
 
-
-## Syntax
-
- _expression_. **Count**
-
- _expression_A variable that represents a  **WizardProperties** object.
+ переменная _expression_A, представляет собой объект- **WizardProperties** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the number of pages in the active document.
+В этом примере отображается число страниц в активный документ.
 
 
 ```vb
@@ -35,7 +36,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-This example displays the number of shapes in the active document.
+В этом примере отображается количество фигур в активном документе.
 
 
 

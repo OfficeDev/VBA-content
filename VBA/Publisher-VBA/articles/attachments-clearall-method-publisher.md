@@ -1,36 +1,37 @@
 ---
-title: Attachments.ClearAll Method (Publisher)
+title: "Метод Attachments.ClearAll (издатель)"
 keywords: vbapb10.chm569350
-f1_keywords:
-- vbapb10.chm569350
+f1_keywords: vbapb10.chm569350
 ms.prod: publisher
-api_name:
-- Publisher.Attachments.ClearAll
+api_name: Publisher.Attachments.ClearAll
 ms.assetid: ae4e4c60-56cb-f97b-06f4-bd0d2abac4ee
 ms.date: 06/08/2017
+ms.openlocfilehash: eb49f80a615f8f8b54ae6aa81539d887bfe2ed16
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="attachmentsclearall-method-publisher"></a>Метод Attachments.ClearAll (издатель)
+
+Удаляет объекты (удаление) все **вложения** в родительской коллекции **вложения** сообщения электронной почты merge.
 
 
-# Attachments.ClearAll Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Clears (deletes) all the  **Attachment** objects in the parent **Attachments** collection of an e-mail merge message.
+ _выражение_. **ClearAll**
 
-
-## Syntax
-
- _expression_. **ClearAll**
-
- _expression_A variable that represents an  **Attachments** collection.
+ переменная _expression_A, представляющий коллекцию **вложений** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-To clear an individual attachment, use the  **[Delete](attachment-delete-method-publisher.md)** method of the specific **Attachment** object
+Чтобы очистить отдельного вложения, используйте метод **[Delete](attachment-delete-method-publisher.md)** определенного объекта **вложения**
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to clear all the attachment to the message in an e-mail merge. The code prints the number of current attachments to the message in the  **Immediate** window and then deletes all of the **Attachment** objects in the collection.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как очистить все вложения в сообщение электронной почты merge. Код печатает номер текущего вложения в сообщение в окне **интерпретации** и затем удаляет все объекты **вложения** в коллекции.
 
 
 ```vb
@@ -52,11 +53,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Attachments Collection](attachments-object-publisher.md)
+ [Коллекция вложений](attachments-object-publisher.md)
 

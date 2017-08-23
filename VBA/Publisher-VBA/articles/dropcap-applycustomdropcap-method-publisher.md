@@ -1,44 +1,45 @@
 ---
-title: DropCap.ApplyCustomDropCap Method (Publisher)
+title: "Метод DropCap.ApplyCustomDropCap (издатель)"
 keywords: vbapb10.chm5505041
-f1_keywords:
-- vbapb10.chm5505041
+f1_keywords: vbapb10.chm5505041
 ms.prod: publisher
-api_name:
-- Publisher.DropCap.ApplyCustomDropCap
+api_name: Publisher.DropCap.ApplyCustomDropCap
 ms.assetid: 906cf476-3826-8510-315f-425f6f50a92a
 ms.date: 06/08/2017
+ms.openlocfilehash: bbcad93b3d537d3e34c88331a9fad8b3a164283f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="dropcapapplycustomdropcap-method-publisher"></a>Метод DropCap.ApplyCustomDropCap (издатель)
+
+Применяет пользовательского форматирования для первых знаков абзацев в рамке.
 
 
-# DropCap.ApplyCustomDropCap Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Applies custom formatting to the first letters of paragraphs in a text frame.
+ _выражение_. **ApplyCustomDropCap** ( **_LinesUp_**, **_размер_**, **_диапазон_**, **_FontName_**, **_Полужирный_**, **_Курсив_**)
 
-
-## Syntax
-
- _expression_. **ApplyCustomDropCap**( **_LinesUp_**,  **_Size_**,  **_Span_**,  **_FontName_**,  **_Bold_**,  **_Italic_**)
-
- _expression_A variable that represents a  **DropCap** object.
+ переменная _expression_A, представляет собой объект- **буквицу** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|LinesUp|Optional| **Long**|The number of lines to move up the drop cap. The default is 0. The maximum number cannot be more than the number entered for the Size argument less one.|
-|Size|Optional| **Long**|The size of the drop cap letters in number of lines high. The default is 5.|
-|Span|Optional| **Long**|The number of letters included in the drop cap. The default is 1.|
-|FontName|Optional| **String**|The name of the font to format the drop cap. The default is the current font.|
-|Bold|Optional| **Boolean**| **True** to bold the drop cap. The default is **False**.|
-|Italic|Optional| **Boolean**| **True** to italicize the drop cap. The default is **False**.|
+|LinesUp|Необязательный| **Длинный**|Номер строки, чтобы переместить вверх буквицы. Значение по умолчанию равно 0. Максимальное количество не может быть больше, чем номер, введенный для аргумента размером менее одного.|
+|Размер|Необязательный| **Длинный**|Размер символы буквицы в число строк. Значение по умолчанию равно 5.|
+|Диапазон|Необязательный| **Длинный**|Число включенных в буквицы букв. Значение по умолчанию — 1.|
+|FontName|Необязательный| **String**|Имя шрифта для форматирования буквицы. Значение по умолчанию — текущий шрифт.|
+|Полужирный|Необязательный| **Boolean**| **Значение true,** полужирный шрифт буквицы. Значение по умолчанию — **False**.|
+|Курсив|Необязательный| **Boolean**| **Значение true,** Чтобы применить курсивное буквицы. Значение по умолчанию — **False**.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example formats the first three letters of the paragraphs in the specified text box.
+В этом примере форматов первые три буквы абзацы в указанном текстовом поле.
 
 
 ```vb

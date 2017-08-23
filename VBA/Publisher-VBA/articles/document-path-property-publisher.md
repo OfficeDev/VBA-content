@@ -1,36 +1,37 @@
 ---
-title: Document.Path Property (Publisher)
+title: "Свойство Document.Path (издатель)"
 keywords: vbapb10.chm196644
-f1_keywords:
-- vbapb10.chm196644
+f1_keywords: vbapb10.chm196644
 ms.prod: publisher
-api_name:
-- Publisher.Document.Path
+api_name: Publisher.Document.Path
 ms.assetid: 01926d63-e59e-5aad-3cb9-143166d253a5
 ms.date: 06/08/2017
+ms.openlocfilehash: 09fad0c194b89ab4a198a94f31fffa19b164b23b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentpath-property-publisher"></a>Свойство Document.Path (издатель)
+
+Возвращает **строку** , указывающее полный путь к файлу сохраненного active публикации, не включая Фамилия разделитель или файл.
 
 
-# Document.Path Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
+ _выражение_. **Путь**
 
-
-## Syntax
-
- _expression_. **Path**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **[FullName](document-fullname-property-publisher.md)** property can be used to return both the path and file name.
+Свойство **[полное имя](document-fullname-property-publisher.md)** можно использовать для возвращения как путь и имя файла.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
+В следующем примере показано различия между **путь**, **имя**и **полное имя** свойства. В этом примере лучше всего иллюстрируется публикации при сохранении в папку по умолчанию.
 
 
 ```vb

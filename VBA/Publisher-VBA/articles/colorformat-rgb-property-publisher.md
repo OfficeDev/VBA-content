@@ -1,36 +1,37 @@
 ---
-title: ColorFormat.RGB Property (Publisher)
+title: "Свойство ColorFormat.RGB (издатель)"
 keywords: vbapb10.chm2555904
-f1_keywords:
-- vbapb10.chm2555904
+f1_keywords: vbapb10.chm2555904
 ms.prod: publisher
-api_name:
-- Publisher.ColorFormat.RGB
+api_name: Publisher.ColorFormat.RGB
 ms.assetid: aeff1962-b855-7c3f-1f4d-a336e0739ade
 ms.date: 06/08/2017
+ms.openlocfilehash: a4aae70b817f892a2905d5cbbfd537cdc90c4413
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorformatrgb-property-publisher"></a>Свойство ColorFormat.RGB (издатель)
+
+Возвращает или задает **MsoRGBType** , который представляет значение красный зеленый синий (RGB) указанного цвета. Чтение и запись.
 
 
-# ColorFormat.RGB Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoRGBType** that represents the red-green-blue (RGB) value of the specified color. Read/write.
+ _выражение_. **RGB**
 
-
-## Syntax
-
- _expression_. **RGB**
-
- _expression_A variable that represents a  **ColorFormat** object.
+ переменная _expression_A, представляет собой объект- **ColorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoRGBType
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new shape to the first page of the active publication and sets the fill color to red.
+В этом примере создается новая форма для первой страницы публикации, активных и задает красный цвет заливки.
 
 
 ```vb
@@ -41,7 +42,7 @@ Sub SetFill()
 End Sub
 ```
 
-This example returns the value of the foreground color of the first shape on the first page of the active document. This example assumes that there is at least one shape on the first page of the active publication.
+В этом примере возвращает значение цвет переднего плана первой фигуры на первой странице активных документов. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
 
 
 

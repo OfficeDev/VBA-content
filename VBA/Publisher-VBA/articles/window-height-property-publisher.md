@@ -1,36 +1,37 @@
 ---
-title: Window.Height Property (Publisher)
+title: "Свойство Window.Height (издатель)"
 keywords: vbapb10.chm262151
-f1_keywords:
-- vbapb10.chm262151
+f1_keywords: vbapb10.chm262151
 ms.prod: publisher
-api_name:
-- Publisher.Window.Height
+api_name: Publisher.Window.Height
 ms.assetid: 3d47bb99-bab7-b5aa-c834-04bcd6e8b151
 ms.date: 06/08/2017
+ms.openlocfilehash: a5a7beb05adcfd93c3321b4b58cf7b3656cbeb99
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="windowheight-property-publisher"></a>Свойство Window.Height (издатель)
+
+Возвращает или задает **Long** , представляющее высоту окна (в точках). Чтение и запись.
 
 
-# Window.Height Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that represents the height (in points) of the window. Read/write.
+ _выражение_. **Высота**
 
-
-## Syntax
-
- _expression_. **Height**
-
- _expression_A variable that represents a  **Window** object.
+ переменная _expression_A, представляющий объект **Window** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The valid range for the  **Height** property depends on the size of the application workspace and the position of the object within the workspace. For centered objects on non-banner page sizes, the **Height** property may be 0.0 to 50.0 inches. For centered objects on banner page sizes, the **Height** property may be 0.0 to 241.0 inches.
+Допустимые значения для свойства **Height** зависит от размера рабочей области приложения и позиции объекта в рабочей области. По центру объектов на размер страницы не баннер свойство **Height** может быть 0,0-50,0 дюйма. По центру объектов на размер заголовка страницы свойство **Height** может быть 0.0 для 241.0 дюйма.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the height and width of the active window if the window is neither maximized nor minimized.
+Этот пример устанавливает высоту и ширину окна, если окно не развернуто и не свернуто.
 
 
 ```vb

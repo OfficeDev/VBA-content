@@ -1,25 +1,26 @@
 ---
-title: Window Object (Publisher)
+title: "Объект Window (издатель)"
 keywords: vbapb10.chm327679
-f1_keywords:
-- vbapb10.chm327679
+f1_keywords: vbapb10.chm327679
 ms.prod: publisher
-api_name:
-- Publisher.Window
+api_name: Publisher.Window
 ms.assetid: 342d77cd-5556-6ac3-a828-b1b60380f910
 ms.date: 06/08/2017
+ms.openlocfilehash: 7145579055403870923e6b7d49620b1b13869294
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="window-object-publisher"></a>Объект Window (издатель)
 
-
-# Window Object (Publisher)
-
-Represents a window. Many publication characteristics, such as scroll bars and rulers, are actually properties of the window.
+Представляет окно. Многие характеристики публикации, такие как полосы прокрутки и линейки, в действительности являются свойствами окна.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[ActiveWindow](application-activewindow-property-publisher.md)** property to return a **Window** object. The following example maximizes the active window.
+Свойство **[ActiveWindow](application-activewindow-property-publisher.md)** используется для возврата объекта **Window** . Следующий пример разворачивает активного окна.
  
 
  
@@ -30,7 +31,7 @@ Sub MaximizeWindow
 End Sub
 ```
 
-Use the  **[Caption](window-caption-property-publisher.md)** property to return the file and application names of the active window. The following example displays a message with the file name and Microsoft Publisher application name.
+Свойство **[Caption](window-caption-property-publisher.md)** возвращает имена файлов и приложения активного окна. В следующем примере отображается сообщение с именем файла и имя приложения Microsoft Publisher.
  
 
  
@@ -44,30 +45,30 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Activate](window-activate-method-publisher.md)|
-|[Move](window-move-method-publisher.md)|
-|[Resize](window-resize-method-publisher.md)|
+|[Активация](window-activate-method-publisher.md)|
+|[Перемещение](window-move-method-publisher.md)|
+|[Чтобы изменить размер](window-resize-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](window-application-property-publisher.md)|
-|[Caption](window-caption-property-publisher.md)|
-|[Height](window-height-property-publisher.md)|
-|[Hwnd](window-hwnd-property-publisher.md)|
-|[Left](window-left-property-publisher.md)|
-|[Parent](window-parent-property-publisher.md)|
-|[Top](window-top-property-publisher.md)|
+|[Приложения](window-application-property-publisher.md)|
+|[Заголовок](window-caption-property-publisher.md)|
+|[Высота](window-height-property-publisher.md)|
+|[HWND](window-hwnd-property-publisher.md)|
+|[Слева](window-left-property-publisher.md)|
+|[Родительский раздел](window-parent-property-publisher.md)|
+|[Вверх](window-top-property-publisher.md)|
 |[Visible](window-visible-property-publisher.md)|
-|[Width](window-width-property-publisher.md)|
+|[Ширина](window-width-property-publisher.md)|
 |[WindowState](window-windowstate-property-publisher.md)|
 

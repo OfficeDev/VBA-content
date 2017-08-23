@@ -1,45 +1,40 @@
 ---
-title: CalloutFormat.Angle Property (Publisher)
+title: "Свойство CalloutFormat.Angle (издатель)"
 keywords: vbapb10.chm2490625
-f1_keywords:
-- vbapb10.chm2490625
+f1_keywords: vbapb10.chm2490625
 ms.prod: publisher
-api_name:
-- Publisher.CalloutFormat.Angle
+api_name: Publisher.CalloutFormat.Angle
 ms.assetid: b65a1c87-db52-8703-135e-1fbb1efbeebe
 ms.date: 06/08/2017
+ms.openlocfilehash: fa002f8fb9b55b60f0bd4db326e4de881f204c63
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="calloutformatangle-property-publisher"></a>Свойство CalloutFormat.Angle (издатель)
+
+Возвращает или задает константой **MsoCalloutAngleType** , представляющее угол линии выноски. Если строка выноски содержит более одного сегмента линии, это свойство Возвращает или задает угол сегмент, дальше всего от текстовое поле выноски. Чтение и запись.
 
 
-# CalloutFormat.Angle Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoCalloutAngleType** constant that represents the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write.
+ _выражение_. **Угол**
 
-
-## Syntax
-
- _expression_. **Angle**
-
- _expression_A variable that represents a  **CalloutFormat** object.
+ переменная _expression_A, представляет собой объект- **CalloutFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If you set the value of this property to anything other than  **msoCalloutAngleAutomatic**, the callout line maintains a fixed angle as you drag the callout.
+Если задать значение этого свойства отличное от **msoCalloutAngleAutomatic**, линии выноски поддерживает фиксированный угол при перетаскивании выноске.
 
 
 
-|MsoCalloutAngleType can be one of these MsoCalloutAngleType constants.|
-| **msoCalloutAngle30**|
-| **msoCalloutAngle45**|
-| **msoCalloutAngle60**|
-| **msoCalloutAngle90**|
-| **msoCalloutAngleAutomatic**|
-| **msoCalloutAngleMixed**|
+| MsoCalloutAngleType может иметь одно из следующих констант MsoCalloutAngleType. | | **msoCalloutAngle30**|| **msoCalloutAngle45**|| **msoCalloutAngle60**|| **msoCalloutAngle90**|| **msoCalloutAngleAutomatic**|| **msoCalloutAngleMixed**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the callout angle to 90 degrees for the first shape on the first page of the active publication. For this example to work, the specified shape must be a callout.
+В этом примере задается угол выноски до 90 градусов для первой фигуры на первой странице active публикации. В данном примере для работы указанного фигуры должен быть выноске.
 
 
 ```vb

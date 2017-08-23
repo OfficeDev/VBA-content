@@ -1,41 +1,42 @@
 ---
-title: Options.AllowBackgroundSave Property (Publisher)
+title: "Свойство Options.AllowBackgroundSave (издатель)"
 keywords: vbapb10.chm1048577
-f1_keywords:
-- vbapb10.chm1048577
+f1_keywords: vbapb10.chm1048577
 ms.prod: publisher
-api_name:
-- Publisher.Options.AllowBackgroundSave
+api_name: Publisher.Options.AllowBackgroundSave
 ms.assetid: 5bddfb2d-7fb7-99db-43ea-c6ee53e1d0b3
 ms.date: 06/08/2017
+ms.openlocfilehash: a439aab747b1950ae4177ae017c54bb616a60e23
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsallowbackgroundsave-property-publisher"></a>Свойство Options.AllowBackgroundSave (издатель)
+
+ **Значение true** (по умолчанию) для Microsoft Publisher для сохранения публикации в фоновом режиме, позволяя пользователям выполнять другие действия в то же время. Чтение и запись **типа Boolean**.
 
 
-# Options.AllowBackgroundSave Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** (default) for Microsoft Publisher to save publications in the background, allowing users to perform other actions at the same time. Read/write **Boolean**.
+ _выражение_. **AllowBackgroundSave**
 
-
-## Syntax
-
- _expression_. **AllowBackgroundSave**
-
- _expression_A variable that represents an  **Options** object.
+ переменная _expression_A, представляющий объект **параметров** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This setting is saved for each individual user and persists from one session to another.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example turns off background save, so publications do not save in the background.
+Этот параметр сохраняется для каждого пользователя и сохраняет из одного сеанса.
+
+
+## <a name="example"></a>Пример
+
+В этом примере показано отключение фон сохранить, поэтому публикаций не следует сохранять в фоновом режиме.
 
 
 ```vb

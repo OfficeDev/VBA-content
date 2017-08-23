@@ -1,31 +1,32 @@
 ---
-title: Font.Position Property (Publisher)
+title: "Свойство Font.Position (издатель)"
 keywords: vbapb10.chm5373988
-f1_keywords:
-- vbapb10.chm5373988
+f1_keywords: vbapb10.chm5373988
 ms.prod: publisher
-api_name:
-- Publisher.Font.Position
+api_name: Publisher.Font.Position
 ms.assetid: 24573faf-1627-3b10-5a8e-2f76a9f8831d
 ms.date: 06/08/2017
+ms.openlocfilehash: 2b2e319fd34b412d5787102547046d25f8e90a8d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontposition-property-publisher"></a>Свойство Font.Position (издатель)
+
+Возвращает или задает **Variant** представляющее положение шрифта относительно базового плана текста в указанном диапазоне. Положительные значения переместить текст выше обычного базового, отрицательные значения переместить текст ниже базового плана. Неопределенное значения возвращаются в виде-9999.0. Чтение и запись.
 
 
-# Font.Position Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
+ _выражение_. **Положение**
 
-
-## Syntax
-
- _expression_. **Position**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adjusts the text in the second story to 5 points below the baseline.
+Этот пример устанавливает текст во второй материал на 5 точек ниже базового плана.
 
 
 ```vb

@@ -1,35 +1,36 @@
 ---
-title: Shape.IsExcess Property (Publisher)
+title: "Свойство Shape.IsExcess (издатель)"
 keywords: vbapb10.chm2228377
-f1_keywords:
-- vbapb10.chm2228377
+f1_keywords: vbapb10.chm2228377
 ms.prod: publisher
-api_name:
-- Publisher.Shape.IsExcess
+api_name: Publisher.Shape.IsExcess
 ms.assetid: 217689d6-7508-92ab-3828-e61fc70f0993
 ms.date: 06/08/2017
+ms.openlocfilehash: df526847dcce96eafc2ada8ed19b9473a87f95c0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeisexcess-property-publisher"></a>Свойство Shape.IsExcess (издатель)
+
+Указывает, является ли **фигура** родительский объект лишние фигуры после изменения с помощью шаблона документа (мастер) ** [Document.ChangeDocument](document-changedocument-method-publisher.md)** метод или с помощью команды **Изменить шаблон** в пользовательском интерфейсе. Microsoft Publisher помещает все лишние фигуры в разделе **Дополнительное содержимое** в области задач **Формат публикации** . Только для чтения.
 
 
-# Shape.IsExcess Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates whether the parent  **Shape** object is an excess shape after the document template (wizard) is changed by using the ** [Document.ChangeDocument](document-changedocument-method-publisher.md)** method or by using the **Change Template** command in the user interface. Microsoft Publisher places any excess shape under **Extra Content** in the **Format Publication** task pane. Read-only.
+ _выражение_. **IsExcess**
 
-
-## Syntax
-
- _expression_. **IsExcess**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Publisher classifies a shape as excess (surplus) if that shape does not fit neatly into the new template after the template is changed.
+Publisher классификация фигуры как превышение (избыток), если ее нельзя отнести новый шаблон после изменения шаблона.
 
 

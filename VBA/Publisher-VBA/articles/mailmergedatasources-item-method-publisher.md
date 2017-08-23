@@ -1,55 +1,56 @@
 ---
-title: MailMergeDataSources.Item Method (Publisher)
+title: "Метод MailMergeDataSources.Item (издатель)"
 keywords: vbapb10.chm7143427
-f1_keywords:
-- vbapb10.chm7143427
+f1_keywords: vbapb10.chm7143427
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSources.Item
+api_name: Publisher.MailMergeDataSources.Item
 ms.assetid: a65fedf6-aae5-64ef-e7d0-6bbc3d5b733c
 ms.date: 06/08/2017
+ms.openlocfilehash: 3497fe3397d535d24d06042d3589550c887c91a4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcesitem-method-publisher"></a>Метод MailMergeDataSources.Item (издатель)
+
+Возвращает объект **[вывода](mailmergedatasource-object-publisher.md)** по указанному индексу в коллекции **MailMergeDataSources** .
 
 
-# MailMergeDataSources.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object at the specified index position in the **MailMergeDataSources** collection.
+ _выражение_. **Элемент** ( **_varIndex_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_varIndex_**)
-
- _expression_A variable that represents a  **MailMergeDataSources** collection.
+ переменная _expression_A, представляющий коллекцию **MailMergeDataSources** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|varIndex|Required| **Variant**|The index number or name of the object to return.|
+|varIndex|Обязательное свойство.| **Variant**|Номер индекса или имя возвращаемого объекта.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-MailMergeDataSource
-
-
-## Remarks
-
-The  **Item** method is the default member of the **MailMergeDataSources** collection
-
-If there is only a single  **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you try to use the **DataSources** property of the **MailMergeDataSource** object to get the data sources collection, Microsoft Publisher returns an error.
+Вывода
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the  **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
+Метод **Item** — это элемент по умолчанию коллекции **MailMergeDataSources**
 
-If one or more data sources is connected, the macro uses the  **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
+Если имеется только один объект **вывода** в активном документе, коллекция **MailMergeDataSources** пуста. В этом случае при попытке использовать свойство **DataSources** объекта **вывода** для получения коллекции источников данных, Microsoft Publisher возвращает ошибку.
 
-If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, the macro uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
+
+## <a name="example"></a>Пример
+
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как получить имена всех подключенных источников данных в коллекции **MailMergeDataSources** в активный документ. Он используется свойство **IsDataSourceConnected** активного документа для определения, подключен ли в источнике данных.
+
+Если подключение одного или нескольких источников данных, макрос использует свойство **Count** коллекции **MailMergeDataSources** для определения подключенные сколько источников данных.
+
+Если подключен только один источник данных, макрос печатает имя этого источника данных в окне **интерпретации** ; Если подключено более одного источника данных, макрос использует метод **элемента** коллекции **MailMergeDataSources** для итерации по коллекции и свойство **Name** объекта **вывода** для печати имя каждого источника данных в окне **интерпретации** .
 
 
 

@@ -1,35 +1,37 @@
 ---
-title: Application.AutomationSecurity Property (Publisher)
+title: "Свойство Application.AutomationSecurity (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.Application.AutomationSecurity
+api_name: Publisher.Application.AutomationSecurity
 ms.assetid: 610f6300-0335-4fa1-7574-14afcf0e96e6
 ms.date: 06/08/2017
+ms.openlocfilehash: 21c69e91542709e1a7ef731697a5996d62b47b1c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationautomationsecurity-property-publisher"></a>Свойство Application.AutomationSecurity (издатель)
+
+Указывает режим безопасности, который использует Microsoft Publisher при открытии файлов программными средствами. Чтение и запись.
 
 
-# Application.AutomationSecurity Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the security mode that Microsoft Publisher uses when programmatically opening files. Read/write.
+ _выражение_. **БезопасностьПрограммированияОбъектов**
 
-
-## Syntax
-
- _expression_. **AutomationSecurity**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoAutomationSecurity
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

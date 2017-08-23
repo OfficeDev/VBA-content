@@ -1,36 +1,37 @@
 ---
-title: LinkFormat Object (Publisher)
+title: "Объект LinkFormat (издатель)"
 keywords: vbapb10.chm4456447
-f1_keywords:
-- vbapb10.chm4456447
+f1_keywords: vbapb10.chm4456447
 ms.prod: publisher
-api_name:
-- Publisher.LinkFormat
+api_name: Publisher.LinkFormat
 ms.assetid: 5b588edd-b026-cfc7-4acb-77290ae4d297
 ms.date: 06/08/2017
+ms.openlocfilehash: 18025fdd44a5512a97bf787852eda611638f4697
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="linkformat-object-publisher"></a>Объект LinkFormat (издатель)
 
-
-# LinkFormat Object (Publisher)
-
-Represents the linking characteristics for an OLE object or picture.
+Представляет связывания характеристики для объекта OLE или рисунок.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Not all types of shapes and fields can be linked to a source. Use the  **[Type](shape-type-property-publisher.md)** property for the **[Shape](shape-object-publisher.md)** object to determine whether a particular shape can be linked.
+Не все типы фигур и полей могут быть связаны с источника. Используйте свойство **[Type](shape-type-property-publisher.md)** для объекта **[Shape](shape-object-publisher.md)** для определения, могут быть связаны определенного фигуры.
  
 
  
-Use the  **[Update](linkformat-update-method-publisher.md)** method to update links. To return or set the full path for a particular link's source file, use the **[SourceFullName](linkformat-sourcefullname-property-publisher.md)** property.
+Используйте метод **[обновления](linkformat-update-method-publisher.md)** для обновления ссылок. Для возвращения или задания полный путь для данной ссылки исходного файла, используйте свойство **[SourceFullName](linkformat-sourcefullname-property-publisher.md)** .
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[LinkFormat](shape-linkformat-property-publisher.md)** property for a shape or field to return a **LinkFormat** object. The following example updates the links to all linked OLE objects on the first page of the active publication.
+Используйте свойство **[LinkFormat](shape-linkformat-property-publisher.md)** для поля или фигуры для возврата объекта **LinkFormat** . В следующем примере обновляются ссылки на все связанные объекты OLE на первой странице active публикации.
  
 
  
@@ -48,7 +49,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -56,13 +57,13 @@ End Sub
 |:-----|
 |[Update](linkformat-update-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](linkformat-application-property-publisher.md)|
-|[Parent](linkformat-parent-property-publisher.md)|
+|[Приложения](linkformat-application-property-publisher.md)|
+|[Родительский раздел](linkformat-parent-property-publisher.md)|
 |[SourceFullName](linkformat-sourcefullname-property-publisher.md)|
 

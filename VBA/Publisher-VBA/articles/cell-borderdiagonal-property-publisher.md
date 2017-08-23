@@ -1,36 +1,37 @@
 ---
-title: Cell.BorderDiagonal Property (Publisher)
+title: "Свойство Cell.BorderDiagonal (издатель)"
 keywords: vbapb10.chm5111810
-f1_keywords:
-- vbapb10.chm5111810
+f1_keywords: vbapb10.chm5111810
 ms.prod: publisher
-api_name:
-- Publisher.Cell.BorderDiagonal
+api_name: Publisher.Cell.BorderDiagonal
 ms.assetid: 2c857a1b-2a0f-5796-9397-ad113dd984cb
 ms.date: 06/08/2017
+ms.openlocfilehash: 2b485afaa70badad82cbd63c95ca8cf9cdda58da
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellborderdiagonal-property-publisher"></a>Свойство Cell.BorderDiagonal (издатель)
+
+Возвращает объект [CellBorder](cellborder-object-publisher.md), представляющий косую границу для указанной ячейке таблицы.
 
 
-# Cell.BorderDiagonal Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  [CellBorder](cellborder-object-publisher.md)object that represents the diagonal border for a specified table cell.
+ _выражение_. **BorderDiagonal**
 
-
-## Syntax
-
- _expression_. **BorderDiagonal**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 CellBorder
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example diagonally splits every other cell in the specified table and adds a diagonal border. This example assumes the first shape on page two is a table and not another type of shape.
+В этом примере диагонали разделяет каждой ячейки в указанную таблицу и добавляет косую границу. В этом примере предполагается, что первую фигуру на вторую страницу — это таблица и не другого типа фигуры.
 
 
 ```vb

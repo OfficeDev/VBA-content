@@ -1,31 +1,32 @@
 ---
-title: ShapeRange.ID Property (Publisher)
+title: "Свойство ShapeRange.ID (издатель)"
 keywords: vbapb10.chm2293861
-f1_keywords:
-- vbapb10.chm2293861
+f1_keywords: vbapb10.chm2293861
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.ID
+api_name: Publisher.ShapeRange.ID
 ms.assetid: d7ad646b-be40-2ac4-9d3e-faa37f8bf456
 ms.date: 06/08/2017
+ms.openlocfilehash: 8b8781dc516349c1386068a08570111b4786770c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeid-property-publisher"></a>Свойство ShapeRange.ID (издатель)
+
+Возвращает значение типа **Long** , представляющее тип фигуры, диапазона фигур или свойство, тип или значение мастера. Только для чтения.
 
 
-# ShapeRange.ID Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
+ _выражение_. **Идентификатор**
 
-
-## Syntax
-
- _expression_. **ID**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the type for each shape on the first page of the active publication.
+В этом примере тип для каждой фигуры на первой странице active публикации.
 
 
 ```vb

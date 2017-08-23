@@ -1,45 +1,46 @@
 ---
-title: Application.MailMergeBeforeRecordMerge Event (Publisher)
+title: "Событие Application.MailMergeBeforeRecordMerge (издатель)"
 keywords: vbapb10.chm268435474
-f1_keywords:
-- vbapb10.chm268435474
+f1_keywords: vbapb10.chm268435474
 ms.prod: publisher
-api_name:
-- Publisher.Application.MailMergeBeforeRecordMerge
+api_name: Publisher.Application.MailMergeBeforeRecordMerge
 ms.assetid: 67ae8255-336d-0ff8-7927-fbd31262c115
 ms.date: 06/08/2017
+ms.openlocfilehash: a556d4fb62cb4a43a9c0f03117e968a177c50257
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationmailmergebeforerecordmerge-event-publisher"></a>Событие Application.MailMergeBeforeRecordMerge (издатель)
+
+Происходит, как для отдельных записей выполняется слияние.
 
 
-# Application.MailMergeBeforeRecordMerge Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs as a merge is executed for the individual records in a merge.
+ _выражение_. **MailMergeBeforeRecordMerge** ( **_Doc_**, **_Отменить_**)
 
-
-## Syntax
-
- _expression_. **MailMergeBeforeRecordMerge**( **_Doc_**,  **_Cancel_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
-|Cancel|Required| **Boolean**|Stops the mail merge process, for the current record only, before it starts.|
+|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
+|Cancel|Обязательное свойство.| **Boolean**|Останавливает процесс слияния почты для текущей записи только, до его запуска.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example verifies that the length of the ZIP Code (which in this example is field number six) is less than five and if it is, cancels the merge for that record only.
+В этом примере выполняется проверка, что длина ПОЧТОВЫЙ индекс (который в этом примере — поля номер шести) меньше 5 и если он установлен, отменяет merge для этой записи только.
 
 
 ```vb
@@ -60,7 +61,7 @@ Private Sub MailMergeApp_MailMergeBeforeRecordMerge(ByVal _
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the global declarations section of your module and run the following initialization routine.
+Чтобы произошло это событие необходимо поместить следующую строку кода в разделе глобальные описаний модуля и выполнить следующую процедуру инициализации.
 
 
 
@@ -74,11 +75,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

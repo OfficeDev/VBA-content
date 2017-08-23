@@ -1,43 +1,44 @@
 ---
-title: ShapeRange.Group Method (Publisher)
+title: "Метод ShapeRange.Group (издатель)"
 keywords: vbapb10.chm2294018
-f1_keywords:
-- vbapb10.chm2294018
+f1_keywords: vbapb10.chm2294018
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Group
+api_name: Publisher.ShapeRange.Group
 ms.assetid: ca3e011f-72ea-904e-da3f-cac7fe24341d
 ms.date: 06/08/2017
+ms.openlocfilehash: d79f3071ddde6ed8811335f7403c7f16b4a1edb6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangegroup-method-publisher"></a>Метод ShapeRange.Group (издатель)
+
+Группы фигур в диапазон указанной фигуры. Возвращает группы фигур в виде одного объекта **[Shape](shape-object-publisher.md)** .
 
 
-# ShapeRange.Group Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Groups the shapes in the specified shape range. Returns the grouped shapes as a single  **[Shape](shape-object-publisher.md)** object.
+ _выражение_. **Группа**
 
-
-## Syntax
-
- _expression_. **Group**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The specified range must contain more than one shape, or an error occurs.
+Указанный диапазон должен содержать более одного фигуры или возникает ошибка.
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-publisher.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Так как в группы фигур обрабатывается как одну форму, Группировка и разгруппировка фигур изменения количество элементов в коллекции **[фигур](shapes-object-publisher.md)** и изменяет номера индекса элементов, следующие за затронутых элементов в коллекции.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds two shapes to the first page of the active publication, groups the two new shapes, sets the fill for the group, rotates the group, and sends the group to the back of the drawing layer.
+В этом примере добавляет две фигуры в первой страницы публикации, active, группирует две новые фигуры, задает заполнения группы, поворот группы и отправляет группы на задней слой графики.
 
 
 ```vb

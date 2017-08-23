@@ -1,31 +1,32 @@
 ---
-title: HeaderFooter.TextRange Property (Publisher)
+title: "Свойство HeaderFooter.TextRange (издатель)"
 keywords: vbapb10.chm7471108
-f1_keywords:
-- vbapb10.chm7471108
+f1_keywords: vbapb10.chm7471108
 ms.prod: publisher
-api_name:
-- Publisher.HeaderFooter.TextRange
+api_name: Publisher.HeaderFooter.TextRange
 ms.assetid: 4bc5004e-6516-d6d3-222a-4960716c6845
 ms.date: 06/08/2017
+ms.openlocfilehash: 79a5aa9ff96c49c44b64c786016fa13460a76177
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="headerfootertextrange-property-publisher"></a>Свойство HeaderFooter.TextRange (издатель)
+
+Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий текст, который присоединен к фигуры и свойства и методы для работы с текстом.
 
 
-# HeaderFooter.TextRange Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
+ _выражение_. **TextRange**
 
-
-## Syntax
-
- _expression_. **TextRange**
-
- _expression_A variable that represents a  **HeaderFooter** object.
+ переменная _expression_A, представляет собой объект- **HeaderFooter** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds text to the text frame of shape one in the active publication, and then formats the new text. This example assumes there is at least one shape on the first page of the active publication.
+В следующем примере добавляется текст надписи фигуры один активный публикации и форматирует новый текст. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
 
 
 ```vb
@@ -41,7 +42,7 @@ Sub AddTextToTextFrame()
 End Sub
 ```
 
-The following example adds a rectangle to the active publication and adds text to it.
+В следующем примере добавляет прямоугольник active публикации и добавляет текст.
 
 
 

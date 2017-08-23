@@ -1,60 +1,50 @@
 ---
-title: MailMergeFilters.Add Method (Publisher)
+title: "Метод MailMergeFilters.Add (издатель)"
 keywords: vbapb10.chm6750212
-f1_keywords:
-- vbapb10.chm6750212
+f1_keywords: vbapb10.chm6750212
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeFilters.Add
+api_name: Publisher.MailMergeFilters.Add
 ms.assetid: ab114dda-d144-7c5f-88b0-930cadcf53db
 ms.date: 06/08/2017
+ms.openlocfilehash: ddfcf25dee80cdc7f5f4866ebd5cbba519fbaab5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergefiltersadd-method-publisher"></a>Метод MailMergeFilters.Add (издатель)
+
+Добавление нового условия фильтра на указанный объект **MailMergeFilters** .
 
 
-# MailMergeFilters.Add Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new filter criterion to the specified  **MailMergeFilters** object.
+ _выражение_. **Добавление** ( **_Столбец_**, **_сравнения_**, **_совместно_**, **_bstrCompareTo_**, **_DeferUpdate_**)
 
-
-## Syntax
-
- _expression_. **Add**( **_Column_**,  **_Comparison_**,  **_Conjunction_**,  **_bstrCompareTo_**,  **_DeferUpdate_**)
-
- _expression_A variable that represents a  **MailMergeFilters** object.
+ переменная _expression_A, представляет собой объект- **MailMergeFilters** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Column|Required| **String**|The name of the table in the data source.|
-|Comparison|Required| **MsoFilterComparison**|How the data in the table is filtered.|
-|Conjunction|Required| **MsoFilterConjunction**| How this filter relates to other filters in the **MailMergeFilters** object.|
-|bstrCompareTo|Optional| **String**|If the  **Comparison** argument is something other than **msoFilterComparisonIsBlank** or **msoFilterComparisonIsNotBlank**, a string to which the data in the table is compared.|
-|DeferUpdate|Optional| **Boolean**| **True** to queue the filters and apply them when the **ApplyFilter** method is called. **False** to apply the filter condition immediately. Default is **False**.|
+|Столбец|Обязательное свойство.| **String**|Имя таблицы в источнике данных.|
+|Comparison|Обязательное свойство.| **MsoFilterComparison**|Способ фильтрации данных в таблице.|
+|Совместно|Обязательное свойство.| **MsoFilterConjunction**| Как этот фильтр относится к другим фильтров в объекте **MailMergeFilters** .|
+|bstrCompareTo|Необязательный| **String**|Если аргумент **сравнения** , что-то отличного от **msoFilterComparisonIsBlank** или **msoFilterComparisonIsNotBlank**, строка, с которым сравнивается данных в таблице.|
+|DeferUpdate|Необязательный| **Boolean**| **Значение true,** для создания очереди фильтры и применить их при вызове метода **ApplyFilter** . **Значение false,** Чтобы немедленно применить условия фильтра. Значение по умолчанию — **False**.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Comparison can be one of these  **MsoFilterComparison** constants.
-
-
-
-| **msoFilterComparisonContains**|
-| **msoFilterComparisonEqual**|
-| **msoFilterComparisonGreaterThan**|
-| **msoFilterComparisonGreaterThanEqual**|
-| **msoFilterComparisonIsBlank**|
-| **msoFilterComparisonIsNotBlank**|
-| **msoFilterComparisonLessThan**|
-| **msoFilterComparisonLessThanEqual**|
-| **msoFilterComparisonNotContains**|
-| **msoFilterComparisonNotEqual**|
-Conjunction can be one of these  **MsoFilterConjunction** constants.
+Сравнение может иметь одно из следующих констант **MsoFilterComparison** .
 
 
 
-| **msoFilterConjunctionAnd**|
-| **msoFilterConjunctionOr**|
+| **msoFilterComparisonContains**|| **msoFilterComparisonEqual**|| **msoFilterComparisonGreaterThan**|| **msoFilterComparisonGreaterThanEqual**|| **msoFilterComparisonIsBlank**|| **msoFilterComparisonIsNotBlank**|| **msoFilterComparisonLessThan**|| **msoFilterComparisonLessThanEqual**|| **msoFilterComparisonNotContains**|| **msoFilterComparisonNotEqual**| Совместно может иметь одно из следующих констант **MsoFilterConjunction** .
+
+
+
+| **msoFilterConjunctionAnd**|| **msoFilterConjunctionOr**|
 

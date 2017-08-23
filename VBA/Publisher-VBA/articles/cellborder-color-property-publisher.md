@@ -1,31 +1,32 @@
 ---
-title: CellBorder.Color Property (Publisher)
+title: "Свойство CellBorder.Color (издатель)"
 keywords: vbapb10.chm5242882
-f1_keywords:
-- vbapb10.chm5242882
+f1_keywords: vbapb10.chm5242882
 ms.prod: publisher
-api_name:
-- Publisher.CellBorder.Color
+api_name: Publisher.CellBorder.Color
 ms.assetid: 59a43522-f0df-fe1a-6e35-19cb012b103f
 ms.date: 06/08/2017
+ms.openlocfilehash: 8212253c1bd8615277ce14323299631159e8f10d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellbordercolor-property-publisher"></a>Свойство CellBorder.Color (издатель)
+
+Возвращает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет сведения для указанного объекта.
 
 
-# CellBorder.Color Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the color information for the specified object.
+ _выражение_. **Цвет**
 
-
-## Syntax
-
- _expression_. **Color**
-
- _expression_A variable that represents a  **CellBorder** object.
+ переменная _expression_A, представляет собой объект- **CellBorder** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the font color of the first story in the active document and tells the user if the font color is black or not.
+В этом примере проверяется цвет шрифта для первой статьи в активном документе и сообщает пользователю, если или не установлен черный цвет шрифта.
 
 
 ```vb

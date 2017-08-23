@@ -1,36 +1,37 @@
 ---
-title: TextRange.BoundTop Property (Publisher)
+title: "Свойство TextRange.BoundTop (издатель)"
 keywords: vbapb10.chm5308437
-f1_keywords:
-- vbapb10.chm5308437
+f1_keywords: vbapb10.chm5308437
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.BoundTop
+api_name: Publisher.TextRange.BoundTop
 ms.assetid: f3c2cd42-8d2b-f757-bcbb-140f5e567a1e
 ms.date: 06/08/2017
+ms.openlocfilehash: 178da1a7cb48c48659f33582da30353f2906e00c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangeboundtop-property-publisher"></a>Свойство TextRange.BoundTop (издатель)
+
+Возвращает значение типа **одного** , указывающее, расстояние в пунктах от верхнего края верхнего уровня страницы, чтобы верхнего края прямоугольника в диапазоне указанный текст. Только для чтения.
 
 
-# TextRange.BoundTop Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Single** indicating the distance, in points, from the top edge of the topmost page to the top edge of the bounding box for the specified text range. Read-only.
+ _выражение_. **BoundTop**
 
-
-## Syntax
-
- _expression_. **BoundTop**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
+Один
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example displays the position, width, and height of the bounding box surrounding the text in the first shape on page one of the active publication.
+Следующий пример отображает позицию, ширину и высоту прямоугольника, окружающим текстом в первую фигуру на странице один из активных публикации.
 
 
 ```vb

@@ -1,41 +1,42 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (Publisher)
+title: "Свойство ThreeDFormat.ExtrusionColorType (издатель)"
 keywords: vbapb10.chm3801346
-f1_keywords:
-- vbapb10.chm3801346
+f1_keywords: vbapb10.chm3801346
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.ExtrusionColorType
+api_name: Publisher.ThreeDFormat.ExtrusionColorType
 ms.assetid: 5abd895d-0cf3-985d-537e-e45d02f8a852
 ms.date: 06/08/2017
+ms.openlocfilehash: a850644e6ba238dfb14b10680afc211d027b5507
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatextrusioncolortype-property-publisher"></a>Свойство ThreeDFormat.ExtrusionColorType (издатель)
+
+Возвращает или задает константой **MsoExtrusionColorType** , указывающее, является ли цвет объемной фигуры основано на вытянутый фигуры заливки (лицевой из изменяется) и устанавливается автоматически при изменении заливки фигуры или ли цвет объемной фигуры не зависит от заливки фигуры. Чтение и запись.
 
 
-# ThreeDFormat.ExtrusionColorType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoExtrusionColorType** constant indicating whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write.
+ _выражение_. **ExtrusionColorType**
 
-
-## Syntax
-
- _expression_. **ExtrusionColorType**
-
- _expression_A variable that represents an  **ThreeDFormat** object.
+ переменная _expression_A, представляющий объект **ThreeDFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoExtrusionColorType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **ExtrusionColorType** property value can be one of the ** [MsoExtrusionColorType](http://msdn.microsoft.com/library/6acf7f2b-3d7b-15e3-f468-7dcb20865dc1%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **ExtrusionColorType** может иметь одно из ** [MsoExtrusionColorType](http://msdn.microsoft.com/library/6acf7f2b-3d7b-15e3-f468-7dcb20865dc1%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-If the first shape in the active publication has an automatic extrusion color, this example gives the extrusion a custom yellow color.
+Если первой фигуры в активной публикации цвет автоматического объемной фигуры, в этом примере позволяет выбирать желтый цвет.
 
 
 ```vb

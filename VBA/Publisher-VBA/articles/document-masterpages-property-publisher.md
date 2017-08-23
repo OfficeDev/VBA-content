@@ -1,36 +1,37 @@
 ---
-title: Document.MasterPages Property (Publisher)
+title: "Свойство Document.MasterPages (издатель)"
 keywords: vbapb10.chm196629
-f1_keywords:
-- vbapb10.chm196629
+f1_keywords: vbapb10.chm196629
 ms.prod: publisher
-api_name:
-- Publisher.Document.MasterPages
+api_name: Publisher.Document.MasterPages
 ms.assetid: 26e5342b-94f0-4fd5-2743-92cfd2d43a01
 ms.date: 06/08/2017
+ms.openlocfilehash: f645844b6b6ea133d1fd1750aaf9f26af0a64e78
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentmasterpages-property-publisher"></a>Свойство Document.MasterPages (издатель)
+
+Возвращает коллекцию **[макетом](masterpages-object-publisher.md)** для указанной публикации.
 
 
-# Document.MasterPages Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **[MasterPages](masterpages-object-publisher.md)** collection for the specified publication.
+ _выражение_. **Макетом**
 
-
-## Syntax
-
- _expression_. **MasterPages**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-MasterPages
+Макетом
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the text in the first text frame on the master page to Second Quarter.
+В следующем примере задается текст в первой текстовой рамке на главную страницу на втором квартале.
 
 
 ```vb

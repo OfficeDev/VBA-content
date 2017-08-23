@@ -1,36 +1,37 @@
 ---
-title: FillFormat.Pattern Property (Publisher)
+title: "Свойство FillFormat.Pattern (издатель)"
 keywords: vbapb10.chm2359558
-f1_keywords:
-- vbapb10.chm2359558
+f1_keywords: vbapb10.chm2359558
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.Pattern
+api_name: Publisher.FillFormat.Pattern
 ms.assetid: 5b63c81e-b692-92e0-5d72-99c8d4376aff
 ms.date: 06/08/2017
+ms.openlocfilehash: f3c53132ef16fa4c3a82b7cf14481a6f4ccf5f5e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatpattern-property-publisher"></a>Свойство FillFormat.Pattern (издатель)
+
+Возвращает константу **MsoPatternType** , представляющее шаблон, применяемый к указанным заливки или строки.
 
 
-# FillFormat.Pattern Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
+ _выражение_. **Шаблон**
 
-
-## Syntax
-
- _expression_. **Pattern**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **шаблон** может иметь одно из ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the pattern for the specified shape if the shape currently doesn't have a fill pattern. This example assumes that at least one shape exists on the first page of the active publication.
+В этом примере задает шаблон для указанного фигуры, если фигуры в настоящее время не задан параметр узор заливки. В этом примере предполагается, что по крайней мере один фигуры существует на первой странице active публикации.
 
 
 ```vb

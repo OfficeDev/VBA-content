@@ -1,31 +1,32 @@
 ---
-title: Shape.Line Property (Publisher)
+title: "Свойство Shape.Line (издатель)"
 keywords: vbapb10.chm2228290
-f1_keywords:
-- vbapb10.chm2228290
+f1_keywords: vbapb10.chm2228290
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Line
+api_name: Publisher.Shape.Line
 ms.assetid: 3d53f917-87ad-159d-65c3-e6fdfa72b15e
 ms.date: 06/08/2017
+ms.openlocfilehash: 5c7c3e1a679f4f6743546127e5aeb2e59f29bfcc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeline-property-publisher"></a>Свойство Shape.Line (издатель)
+
+Возвращает объект **[LineFormat](lineformat-object-publisher.md)** , который содержит строку свойства для указанного фигуры форматирования. (Для строки, сама линия представляет объект **LineFormat** ; для фигуры с границей, границы которого представляет объект **LineFormat** .).
 
 
-# Shape.Line Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[LineFormat](lineformat-object-publisher.md)** object that contains line formatting properties for the specified shape. (For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.).
+ _выражение_. **Строка**
 
-
-## Syntax
-
- _expression_. **Line**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a blue dashed line to the active publication.
+В этом примере добавляет синий пунктирная линия active публикации.
 
 
 ```vb
@@ -37,7 +38,7 @@ With ActiveDocument.Pages(1).Shapes _
 End With
 ```
 
-This example adds a cross to the first page and then sets its border to be 8 points thick and red.
+В этом примере добавляется нескольких для первой страницы и затем устанавливаются ее границу, чтобы быть 8 пунктов толстые и красным.
 
 
 

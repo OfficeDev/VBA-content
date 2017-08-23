@@ -1,36 +1,37 @@
 ---
-title: DropCap.FontColor Property (Publisher)
+title: "Свойство DropCap.FontColor (издатель)"
 keywords: vbapb10.chm5505028
-f1_keywords:
-- vbapb10.chm5505028
+f1_keywords: vbapb10.chm5505028
 ms.prod: publisher
-api_name:
-- Publisher.DropCap.FontColor
+api_name: Publisher.DropCap.FontColor
 ms.assetid: 0c740ec7-05ac-b1fc-875c-cfd5a934c403
 ms.date: 06/08/2017
+ms.openlocfilehash: be7acec4bbbbaa8f0d83a369cefe6bd59c05741f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="dropcapfontcolor-property-publisher"></a>Свойство DropCap.FontColor (издатель)
+
+Возвращает или задает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющий цвет, применяемый к указанным буквицы.
 
 
-# DropCap.FontColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **[ColorFormat](colorformat-object-publisher.md)** object that represents the color applied to a specified dropped capital letter.
+ _выражение_. **FontColor**
 
-
-## Syntax
-
- _expression_. **FontColor**
-
- _expression_A variable that represents a  **DropCap** object.
+ переменная _expression_A, представляет собой объект- **буквицу** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorFormat
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example applies an  **[RGB](colorformat-rgb-property-publisher.md)** color to the dropped capital letter in the specified text frame. This example assumes that the specified text frame is formatted with a dropped capital letter.
+В этом примере применяется цвета **[RGB](colorformat-rgb-property-publisher.md)** буквицы в элементе frame указанный текст. В этом примере предполагается, что указанный текст frame отформатирован буквицы.
 
 
 ```vb

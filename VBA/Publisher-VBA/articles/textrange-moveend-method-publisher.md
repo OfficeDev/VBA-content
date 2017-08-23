@@ -1,69 +1,54 @@
 ---
-title: TextRange.MoveEnd Method (Publisher)
+title: "Метод TextRange.MoveEnd (издатель)"
 keywords: vbapb10.chm5308424
-f1_keywords:
-- vbapb10.chm5308424
+f1_keywords: vbapb10.chm5308424
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.MoveEnd
+api_name: Publisher.TextRange.MoveEnd
 ms.assetid: 4fe27375-34e2-2ecc-33c8-a07230012b13
 ms.date: 06/08/2017
+ms.openlocfilehash: d6a4d3bd57c5b5bac43819a9de7de7d24de2f9fd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangemoveend-method-publisher"></a>Метод TextRange.MoveEnd (издатель)
+
+Перемещает конечного диапазона символов. Этот метод возвращает **Long** , представляющее номер единиц измерения диапазон или выбора фактически перемещается или возвращает нуль (0), если не удалось выполнить перемещение.
 
 
-# TextRange.MoveEnd Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Moves the ending character position of a range. This method returns a  **Long** that represents the number of units the range or selection actually moved or returns 0 (zero) if the move was unsuccessful.
+ _выражение_. **MoveEnd** ( **_Единицы_**, **_размер_**)
 
-
-## Syntax
-
- _expression_. **MoveEnd**( **_Unit_**,  **_Size_**)
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
-|Size|Required| **Long**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together.|
+|Подразделения|Обязательное свойство.| **PbTextUnit**|Подразделения, с помощью которого является перемещены свернутые диапазон или выделить фрагмент.|
+|Размер|Обязательное свойство.| **Длинный**|Число единиц измерения для перемещения. Если этот номер является положительным, положение конечного знака перемещается вперед в документе. Если этот номер является отрицательным, конца перемещается назад. Если положение конечного положением начального знака, диапазон сворачивается, а оба символа положения перемещаются одновременно.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
+Длинный
 
 
+## <a name="remarks"></a>Заметки
 
-| **pbTextUnitCell**|
-| **pbTextUnitCharacter**|
-| **pbTextUnitCharFormat**|
-| **pbTextUnitCodePoint**|
-| **pbTextUnitColumn**|
-| **pbTextUnitLine**|
-| **pbTextUnitObject**|
-| **pbTextUnitParaFormat**|
-| **pbTextUnitParagraph**|
-| **pbTextUnitRow**|
-| **pbTextUnitScreen**|
-| **pbTextUnitSection**|
-| **pbTextUnitSentence**|
-| **pbTextUnitStory**|
-| **pbTextUnitTable**|
-| **pbTextUnitWindow**|
-| **pbTextUnitWord**|
+Параметр устройства может быть одной из констант **PbTextUnit** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
 
-## Example
 
-This example sets a text range, moves the range's starting and ending character positions, and then formats the font for the range.
+
+| **pbTextUnitCell**|| **pbTextUnitCharacter**|| **pbTextUnitCharFormat**|| **pbTextUnitCodePoint**|| **pbTextUnitColumn**|| **pbTextUnitLine**|| **pbTextUnitObject**|| **pbTextUnitParaFormat**|| **pbTextUnitParagraph**|| **pbTextUnitRow**|| **pbTextUnitScreen**|| **pbTextUnitSection**|| **pbTextUnitSentence**|| **pbTextUnitStory**|| **pbTextUnitTable**|| **pbTextUnitWindow**|| **pbTextUnitWord**|
+
+## <a name="example"></a>Пример
+
+В этом примере задает диапазон текста, перемещает диапазон начальной и конечной позиций символов и форматирует шрифта для диапазона.
 
 
 ```vb

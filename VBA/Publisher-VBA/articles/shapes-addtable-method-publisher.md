@@ -1,64 +1,65 @@
 ---
-title: Shapes.AddTable Method (Publisher)
+title: "Метод Shapes.AddTable (издатель)"
 keywords: vbapb10.chm2162713
-f1_keywords:
-- vbapb10.chm2162713
+f1_keywords: vbapb10.chm2162713
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddTable
+api_name: Publisher.Shapes.AddTable
 ms.assetid: 1aa00f40-de41-12ed-8d4f-5e9c91cbf5af
 ms.date: 06/08/2017
+ms.openlocfilehash: 50aac26469dfbaa193d51ff993b6478157a476ee
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddtable-method-publisher"></a>Метод Shapes.AddTable (издатель)
+
+Добавляет новый объект **фигуры** , предоставляющий таблицы для определенной коллекции **фигур** .
 
 
-# Shapes.AddTable Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing a table to the specified **Shapes** collection.
+ _выражение_. **AddTable** ( **_NumRows_**, **_NumColumns_**, **_слева_**, **_в начало_**, **_Width_**, **_Height_**, **_FixedSize_**, **_направление_**)
 
-
-## Syntax
-
- _expression_. **AddTable**( **_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|NumRows|Required| **Long**|The number of rows in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|
-|NumColumns|Required| **Long**|The number of columns in the new table. Values between 1 and 128 are valid; any values outside this range will generate an error.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the table.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the table.|
-|Width|Required| **Variant**|The width of the shape representing the table.|
-|Height|Required| **Variant**|The height of the shape representing the table.|
-|FixedSize|Optional| **Boolean**| **True** if Microsoft Publisher reduces the number of rows and columns of the table to fit the specified width and height. **False** if Publisher automatically increases the width and height of the table frame to accommodate the number of rows and columns in the table. Default is **False**.|
-|Direction|Optional| **PbTableDirectionType**|The direction in which table columns are numbered. The default depends on the current language setting.|
+|NumRows|Обязательное свойство.| **Длинный**|Количество строк в новую таблицу. Допустимы значения от 1 до 128; все значения за пределами этого диапазона приведет к ошибке.|
+|NumColumns|Обязательное свойство.| **Длинный**|Количество столбцов в новую таблицу. Допустимы значения от 1 до 128; все значения за пределами этого диапазона приведет к ошибке.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей в таблице.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей в таблице.|
+|Width|Обязательное свойство.| **Variant**|Ширина фигуры, представляющей в таблице.|
+|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей в таблице.|
+|FixedSize|Необязательный| **Boolean**| **Значение true,** Если Microsoft Publisher сокращает число строк и столбцов таблицы в соответствии с указанной ширины и высоты. **Значение false,** Если Publisher автоматически увеличивает ширину и высоту рамки таблицы для размещения строк и столбцов в таблице. Значение по умолчанию — **False**.|
+|Direction|Необязательный| **PbTableDirectionType**|Направление, в какой таблице столбцы нумеруются. Значение по умолчанию зависит от текущих языковых параметров.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
+Аргументы слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Publisher (например, «2,5 дюйма»).
 
-The Direction parameter can be one of the  **PbTableDirectionType** constants declared in the Microsoft Publisher type library and shown in the following table.
+Направление параметра может иметь одно из **PbTableDirectionType** константы объявляются в библиотеке типов Microsoft Publisher и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **pbTableDirectionLeftToRight**|Table columns are numbered from left to right. Default for left-to-right languages.|
-| **pbTableDirectionRightToLeft**|Table columns are numbered from right to left. Default for right-to-left languages.|
+| **pbTableDirectionLeftToRight**|Столбцов таблицы нумеруются слева направо. По умолчанию для языков слева направо.|
+| **pbTableDirectionRightToLeft**|Столбцы в таблице нумеруются справа налево. По умолчанию для языков для письма справа налево.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new table on the first page of the active publication.
+В этом примере создается новая таблица на первой странице active публикации.
 
 
 ```vb

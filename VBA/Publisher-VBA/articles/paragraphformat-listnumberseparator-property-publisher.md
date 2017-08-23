@@ -1,54 +1,47 @@
 ---
-title: ParagraphFormat.ListNumberSeparator Property (Publisher)
+title: "Свойство ParagraphFormat.ListNumberSeparator (издатель)"
 keywords: vbapb10.chm5439526
-f1_keywords:
-- vbapb10.chm5439526
+f1_keywords: vbapb10.chm5439526
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.ListNumberSeparator
+api_name: Publisher.ParagraphFormat.ListNumberSeparator
 ms.assetid: 63189011-12a0-c7bc-f6c6-7b17b0dcedf2
 ms.date: 06/08/2017
+ms.openlocfilehash: 5fdd2b99e03c7f7f2e3568a0897f026eed960d09
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatlistnumberseparator-property-publisher"></a>Свойство ParagraphFormat.ListNumberSeparator (издатель)
+
+Задает или получает **PbListSeparator** константа, представляющий список разделитель указанного абзацев. Чтение и запись.
 
 
-# ParagraphFormat.ListNumberSeparator Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or retrieves a  **PbListSeparator** constant that represents the list separator of the specified paragraphs. Read/write.
+ _выражение_. **ListNumberSeparator**
 
-
-## Syntax
-
- _expression_. **ListNumberSeparator**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbListNumberSeparator
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You must set the  **ListType** property to a numbered list type before you set the **ListNumberSeparator** property. Returns an "Access Denied" message if the list is not a numbered list.
+Прежде чем задать свойство **ListNumberSeparator** , необходимо установить свойство **ListType** в тип нумерованного списка. Возвращает сообщение «Доступ запрещен», если список не нумерованного списка.
 
-The  **ListNumberSeparator** property value can be one of these **PbListSeparator** constants.
+Значение свойства **ListNumberSeparator** может иметь одно из следующих констант **PbListSeparator** .
 
 
 
-| **pbListSeparatorColon**|
-| **pbListSeparatorDoubleHyphen**|
-| **pbListSeparatorDoubleParen**|
-| **pbListSeparatorDoubleSquare**|
-| **pbListSeparatorParenthesis**|
-| **pbListSeparatorPeriod**|
-| **pbListSeparatorPlain**|
-| **pbListSeparatorSquare**|
-| **pbListSeparatorWideComma**|
+| **pbListSeparatorColon**|| **pbListSeparatorDoubleHyphen**|| **pbListSeparatorDoubleParen**|| **pbListSeparatorDoubleSquare**|| **pbListSeparatorParenthesis**|| **pbListSeparatorPeriod**|| **pbListSeparatorPlain**|| **pbListSeparatorSquare**|| **pbListSeparatorWideComma**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests to see if the list type is a numbered list, specifically  **pbListTypeArabic**. If the  **ListType** property is set to **pbListTypeArabic** the **ListNumberSeparator** property is set to **pbListSeparatorParenthesis**. Otherwise, the  **SetListType** method is called and passed **pbListTypeArabic** as the pbListType parameter and then the **ListNumberSeparator** property can be set.
+В этом примере проверяется, если тип списка — нумерованный список, а именно **pbListTypeArabic**. Если свойство **ListType** имеет значение **pbListTypeArabic** **ListNumberSeparator** задано значение **pbListSeparatorParenthesis**. В противном случае вызывается метод **SetListType** и **pbListTypeArabic** передается как параметр pbListType и задайте свойство **ListNumberSeparator** .
 
 
 ```vb

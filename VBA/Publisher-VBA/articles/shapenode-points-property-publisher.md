@@ -1,36 +1,37 @@
 ---
-title: ShapeNode.Points Property (Publisher)
+title: "Свойство ShapeNode.Points (издатель)"
 keywords: vbapb10.chm3539201
-f1_keywords:
-- vbapb10.chm3539201
+f1_keywords: vbapb10.chm3539201
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNode.Points
+api_name: Publisher.ShapeNode.Points
 ms.assetid: 30235d5a-9f05-4cc4-f62f-ac3cf4916e0d
 ms.date: 06/08/2017
+ms.openlocfilehash: 2d58ed4841a78cdc8467708fd15137768cf04268
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenodepoints-property-publisher"></a>Свойство ShapeNode.Points (издатель)
+
+Получает координаты _x_ и _y_ узла фигуры. Только для чтения.
 
 
-# ShapeNode.Points Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Gets the  _x-_ and _y-_ coordinates of the shape node. Read-only.
+ _выражение_. **Точки**
 
-
-## Syntax
-
- _expression_. **Points**
-
- _expression_A variable that represents a  **ShapeNode** object.
+ переменная _expression_A, представляет собой объект- **ShapeNode** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property is read-only. Use the  **[SetPosition](shapenodes-setposition-method-publisher.md)** method to set the location of the node.
+Это свойство доступно только для чтения. Используйте метод **[SetPosition](shapenodes-setposition-method-publisher.md)** , чтобы задать расположение узла.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example moves node two in shape one on the first page of the active publication to the right 200 points and down 300 points. For this example to work, shape one must be a freeform drawing.
+В этом примере перемещает два узла в один фигуры на первой странице активная публикация 200 точек вправо и вниз 300 точек. В данном примере для работы фигуры один должен быть freeform документа.
 
 
 ```vb

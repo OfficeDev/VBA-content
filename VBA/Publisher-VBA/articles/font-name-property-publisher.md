@@ -1,36 +1,37 @@
 ---
-title: Font.Name Property (Publisher)
+title: "Свойство Font.Name (издатель)"
 keywords: vbapb10.chm5373952
-f1_keywords:
-- vbapb10.chm5373952
+f1_keywords: vbapb10.chm5373952
 ms.prod: publisher
-api_name:
-- Publisher.Font.Name
+api_name: Publisher.Font.Name
 ms.assetid: 03561991-5456-aee3-4c04-56a2520a4d6e
 ms.date: 06/08/2017
+ms.openlocfilehash: ca9aaf6760112b792937400419e14abd8fe32a18
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontname-property-publisher"></a>Свойство Font.Name (издатель)
+
+Указывает имя выбранного шрифта. Чтение и запись.
 
 
-# Font.Name Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates the name of the specified font. Read/write.
+ _выражение_. **Имя**
 
-
-## Syntax
-
- _expression_. **Name**
-
- _expression_An expression that returns a  **Font** object.
+ _expression_An выражение, возвращающее объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example formats a text frame on page one as Arial bold.
+В этом примере форматов фрагмент текста на одну страницу вместе с Arial полужирным шрифтом.
 
 
 ```vb

@@ -1,36 +1,37 @@
 ---
-title: Section.PageNumberStart Property (Publisher)
+title: "Свойство Section.PageNumberStart (издатель)"
 keywords: vbapb10.chm7405572
-f1_keywords:
-- vbapb10.chm7405572
+f1_keywords: vbapb10.chm7405572
 ms.prod: publisher
-api_name:
-- Publisher.Section.PageNumberStart
+api_name: Publisher.Section.PageNumberStart
 ms.assetid: f4124b7d-4a90-2489-13da-947df0c34a3d
 ms.date: 06/08/2017
+ms.openlocfilehash: e502ea64b72ba0a354938e920843288814755f4f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="sectionpagenumberstart-property-publisher"></a>Свойство Section.PageNumberStart (издатель)
+
+Задает или возвращает номер страницы, указанного раздела начинается с. Чтение и запись **времени**.
 
 
-# Section.PageNumberStart Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns the page number that the specified section starts with. Read/write  **Long**.
+ _выражение_. **PageNumberStart**
 
-
-## Syntax
-
- _expression_. **PageNumberStart**
-
- _expression_A variable that represents a  **Section** object.
+ переменная _expression_A, представляет собой объект **раздела** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the starting page number for the first section of the active document to 45.
+В следующем примере задается начальный номер страницы для первого раздела активного документа для 45.
 
 
 ```vb

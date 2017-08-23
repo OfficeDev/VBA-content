@@ -1,39 +1,40 @@
 ---
-title: RulerGuides.Item Property (Publisher)
+title: "Свойство RulerGuides.Item (издатель)"
 keywords: vbapb10.chm720896
-f1_keywords:
-- vbapb10.chm720896
+f1_keywords: vbapb10.chm720896
 ms.prod: publisher
-api_name:
-- Publisher.RulerGuides.Item
+api_name: Publisher.RulerGuides.Item
 ms.assetid: e0c49279-4fd4-fe61-636c-c29399fdc404
 ms.date: 06/08/2017
+ms.openlocfilehash: 2339b65fe8881583fb3ebb8c7548fcdaf8eff175
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rulerguidesitem-property-publisher"></a>Свойство RulerGuides.Item (издатель)
+
+Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-# RulerGuides.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an individual object from a specified collection. Read-only.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **RulerGuides** object.
+ переменная _expression_A, представляет собой объект- **RulerGuides** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the object to return.|
+|Item|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the position of the first ruler guide to 3 inches from the edge of the publication.
+В этом примере задается положение первого направляющей линейки на 3 дюйма от края публикации.
 
 
 ```vb

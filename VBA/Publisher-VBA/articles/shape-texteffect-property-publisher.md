@@ -1,31 +1,32 @@
 ---
-title: Shape.TextEffect Property (Publisher)
+title: "Свойство Shape.TextEffect (издатель)"
 keywords: vbapb10.chm2228297
-f1_keywords:
-- vbapb10.chm2228297
+f1_keywords: vbapb10.chm2228297
 ms.prod: publisher
-api_name:
-- Publisher.Shape.TextEffect
+api_name: Publisher.Shape.TextEffect
 ms.assetid: 187b55f8-9593-6a00-61e6-dbcf5c56b987
 ms.date: 06/08/2017
+ms.openlocfilehash: 148f3d198ea09b0ec280758b2db80b5346d4f347
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapetexteffect-property-publisher"></a>Свойство Shape.TextEffect (издатель)
+
+Возвращает объект **[TextEffectFormat](texteffectformat-object-publisher.md)** , который представляет свойства объекта WordArt форматирования текста.
 
 
-# Shape.TextEffect Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextEffectFormat](texteffectformat-object-publisher.md)** object that represents the text formatting properties of a WordArt object.
+ _выражение_. **TextEffect**
 
-
-## Syntax
-
- _expression_. **TextEffect**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a WordArt object to the active publication and formats and inserts additional into it.
+В этом примере добавляет объект WordArt active публикации и форматы и вставки дополнительных в нее.
 
 
 ```vb

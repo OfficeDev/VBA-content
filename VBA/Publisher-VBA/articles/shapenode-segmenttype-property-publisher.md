@@ -1,49 +1,49 @@
 ---
-title: ShapeNode.SegmentType Property (Publisher)
+title: "Свойство ShapeNode.SegmentType (издатель)"
 keywords: vbapb10.chm3539202
-f1_keywords:
-- vbapb10.chm3539202
+f1_keywords: vbapb10.chm3539202
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNode.SegmentType
+api_name: Publisher.ShapeNode.SegmentType
 ms.assetid: 471206b2-ca37-5e4a-678b-df8a47c90f96
 ms.date: 06/08/2017
+ms.openlocfilehash: 130ec238af067924fc3dbb67bc666c15f7e05d97
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenodesegmenttype-property-publisher"></a>Свойство ShapeNode.SegmentType (издатель)
+
+Возвращает константу **MsoSegmentType** , указывающее прямых или изогнутых сегмента, связанного с указанного узла. Только для чтения.
 
 
-# ShapeNode.SegmentType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoSegmentType** constant that indicates whether the segment associated with the specified node is straight or curved. Read-only.
+ _выражение_. **SegmentType**
 
-
-## Syntax
-
- _expression_. **SegmentType**
-
- _expression_A variable that represents a  **ShapeNode** object.
+ переменная _expression_A, представляет собой объект- **ShapeNode** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoSegmentType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**.
+Если указанный узел контрольной точки для сегмент, данное свойство возвращает **msoSegmentCurve**.
 
-Use the  **[SetSegmentType](shapenodes-setsegmenttype-method-publisher.md)** method to set the value of this property.
+Используйте метод **[SetSegmentType](shapenodes-setsegmenttype-method-publisher.md)** для задания значения этого свойства.
 
-The  **SegmentType** property value can be one of these **MsoSegmentType** constants declared in the Microsoft Publisher type library.
+Значение свойства **SegmentType** может иметь одно из следующих **MsoSegmentType** константы, описанные в библиотеке типов, Microsoft Publisher.
 
 
 
-| **msoSegmentCurve**|
-| **msoSegmentLine**|
+| **msoSegmentCurve**|| **msoSegmentLine**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example changes all straight segments to curved segments in the first shape on the first page of the active publication. For this example to work, the specified shape must be a freeform drawing.
+В этом примере изменяется все прямые сегменты изогнутые сегменты в первую фигуру на первой странице active публикации. В данном примере для работы указанного фигуры должен быть freeform документа.
 
 
 ```vb

@@ -1,25 +1,26 @@
 ---
-title: Columns Object (Publisher)
+title: "Объект столбцы (издатель)"
 keywords: vbapb10.chm5111807
-f1_keywords:
-- vbapb10.chm5111807
+f1_keywords: vbapb10.chm5111807
 ms.prod: publisher
-api_name:
-- Publisher.Columns
+api_name: Publisher.Columns
 ms.assetid: 3fe6ddce-a598-a967-fc89-7296c18a6a55
 ms.date: 06/08/2017
+ms.openlocfilehash: a586b572a5e50afc1af71cfb63fcd3d49017430b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="columns-object-publisher"></a>Объект столбцы (издатель)
 
-
-# Columns Object (Publisher)
-
-A collection of  **[Column](column-object-publisher.md)** objects that represent the columns in a table.
+Коллекция объектов **[столбцов](column-object-publisher.md)** , которые представляют столбцы в таблице.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Columns](table-columns-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Columns** collection. The following example displays the number of **[Column](column-object-publisher.md)** objects in the **Columns** collection for the first table in the active document.
+Свойство **[столбцы](table-columns-property-publisher.md)** объекта **[таблицы](table-object-publisher.md)** для возврата коллекции **столбцов** . Следующий пример показывает число объектов **[столбца](column-object-publisher.md)** в коллекции **столбцов** для первой таблицы в активный документ.
  
 
  
@@ -31,7 +32,7 @@ Sub CountColumns()
 End Sub
 ```
 
-This example enters a bold number into each cell in the specified table. This example assumes the specified shape is a table and not another type of shape.
+В этом примере вводит полужирный номер в каждой ячейки в указанной таблице. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
  
 
  
@@ -63,7 +64,7 @@ Sub CountCellsByColumn()
 End Sub
 ```
 
-Use  **Columns** (index), where index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
+Используйте **столбцы** (индекс), где индекс — номер индекса, чтобы возвратить объект одного **столбца** . Номер индекса представляет положение столбца в коллекции **столбцов** (начиная с слева направо). В следующем примере выбирается третьего столбца в указанной таблице.
  
 
  
@@ -76,7 +77,7 @@ Sub SelectColumns()
 End Sub
 ```
 
-Use the  **[Add](columns-add-method-publisher.md)** method to add a column to a table. This example adds a column to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
+Используйте метод **[Add](columns-add-method-publisher.md)** для добавления столбца в таблицу. В этом примере добавляет столбец в указанную таблицу на второй странице active публикации и затем изменяет ширину, слияния ячеек и задает цвет заливки. В этом примере предполагается, что первой фигуры являются таблицы и не другого типа фигуры.
  
 
  
@@ -98,22 +99,22 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Add](columns-add-method-publisher.md)|
-|[Item](columns-item-method-publisher.md)|
+|[Добавление](columns-add-method-publisher.md)|
+|[Элемент](columns-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](columns-application-property-publisher.md)|
+|[Приложения](columns-application-property-publisher.md)|
 |[Count](columns-count-property-publisher.md)|
-|[Parent](columns-parent-property-publisher.md)|
+|[Родительский раздел](columns-parent-property-publisher.md)|
 

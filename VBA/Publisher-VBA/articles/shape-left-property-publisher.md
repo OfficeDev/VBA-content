@@ -1,31 +1,32 @@
 ---
-title: Shape.Left Property (Publisher)
+title: "Свойство Shape.Left (издатель)"
 keywords: vbapb10.chm2228289
-f1_keywords:
-- vbapb10.chm2228289
+f1_keywords: vbapb10.chm2228289
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Left
+api_name: Publisher.Shape.Left
 ms.assetid: 275f5af9-9812-2a6b-bba3-704d4a7f5601
 ms.date: 06/08/2017
+ms.openlocfilehash: 88a62b01a647042652236e7aa94d08b7736116ce
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeleft-property-publisher"></a>Свойство Shape.Left (издатель)
+
+Возвращает или задает **Variant** , указывающее расстояние от левого края страницы до левого края указанного фигуры. Числовые значения находятся в точках; все остальные значения находятся в любой измерения, поддерживаемых Publisher (например, «2,5 дюйма»). Чтение и запись.
 
 
-# Shape.Left Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** indicating the distance from the left edge of the page to the leftmost edge of the specified shape. Numeric values are in points; all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read/write.
+ _выражение_. **Слева**
 
-
-## Syntax
-
- _expression_. **Left**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the horizontal position of the first shape in the active publication to 1 inch from the left edge of the page.
+В этом примере задает горизонтальную позицию первой фигуры в активной публикации 1 дюйм от левого края страницы.
 
 
 ```vb

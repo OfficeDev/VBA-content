@@ -1,51 +1,52 @@
 ---
-title: Font.SuperScript Property (Publisher)
+title: "Свойство Font.SuperScript (издатель)"
 keywords: vbapb10.chm5373972
-f1_keywords:
-- vbapb10.chm5373972
+f1_keywords: vbapb10.chm5373972
 ms.prod: publisher
-api_name:
-- Publisher.Font.SuperScript
+api_name: Publisher.Font.SuperScript
 ms.assetid: 582c02c9-4dcb-f826-8ec0-e9e10702f717
 ms.date: 06/08/2017
+ms.openlocfilehash: 2361adfc905ff6604f709a943fc36815caedbde9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontsuperscript-property-publisher"></a>Свойство Font.SuperScript (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, форматируются ли символы как надстрочный знак в диапазоне указанный текст. Чтение и запись.
 
 
-# Font.SuperScript Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as superscript in the specified text range. Read/write.
+ _выражение_. **Надстрочный знак**
 
-
-## Syntax
-
- _expression_. **SuperScript**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **SuperScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **надстрочный знак** может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| No characters in the range are formatted as superscript.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All characters in the range are formatted as superscript.|
-Setting the  **SuperScript** property to **msoTrue** removes subscript formatting from the text range.
+| **msoFalse**| Нет символов в диапазоне форматируются как надстрочный знак.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Все символы в диапазоне форматируются как надстрочный знак.|
+Установка для свойства **надстрочный знак** **msoTrue** удаляет нижнего индекса форматирование из диапазона текста.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the text in the second story and, if it has mixed superscripting, it formats all the text as superscript.
+В этом примере проверяется текст во второй материал и, если он имеет смешанный надстрочное начертание, он форматирует весь текст как надстрочный знак.
 
 
 ```vb

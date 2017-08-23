@@ -1,43 +1,44 @@
 ---
-title: WebNavigationBarSet.AutoUpdate Property (Publisher)
+title: "Свойство WebNavigationBarSet.AutoUpdate (издатель)"
 keywords: vbapb10.chm8519689
-f1_keywords:
-- vbapb10.chm8519689
+f1_keywords: vbapb10.chm8519689
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSet.AutoUpdate
+api_name: Publisher.WebNavigationBarSet.AutoUpdate
 ms.assetid: b9ce8dde-c09f-6fe9-6935-cb4903a17b85
 ms.date: 06/08/2017
+ms.openlocfilehash: 88bd8d9d3b2ceb3bfa7f10dde3402be6362ceb80
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarsetautoupdate-property-publisher"></a>Свойство WebNavigationBarSet.AutoUpdate (издатель)
+
+ **Значение true,** Если все страницы будет добавлен в указанный набор панель навигации Web и, что добавление новой страницы приведут к обновлению панели навигации с помощью соответствующего элемента. Страница должна иметь **AddHyperlinkToWebNavbar** , задайте значение **True** или свойство **WebPageOptions.IncludePageOnNewWebNavigationBars** значение **True** для добавления или обновления в рамках указанного **WebNavigationBarSet**. Чтение и запись **типа Boolean**.
 
 
-# WebNavigationBarSet.AutoUpdate Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if all pages will be added to the specified Web navigation bar set and that adding new pages will update the navigation bar with a corresponding item. Pages must have the **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Read/write  **Boolean**.
+ _выражение_. **Автоматическое обновление**
 
-
-## Syntax
-
- _expression_. **AutoUpdate**
-
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property determines whether or not the existing pages in the publication will be added to the navigation bar and if added pages will also be updated. These pages must be marked with the  **AddHyperlinkToWebNavbar** set to **True** or **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. Changing this setting does not change the number of items in the bar, it just determines whether or not new pages will be added. By setting this value to  **False** it is possible to design specific navigation bars for specific content pages in a Web site that do not contain all of the available hyperlinks in the publication.
-
-The default value is  **True**. 
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example adds a new Web navigation bar set to the active document with text style buttons and auto update set to  **False** so that page links will not be added or new pages automatically updated in the navigation bar, then the Web navigation bar is added to the first page of the publication.
+Это свойство определяет ли существующие страницы в публикации будет добавлен в область навигации и, если добавлено страниц также будут обновлены. Эти страницы должны быть отмечены с **AddHyperlinkToWebNavbar** присвоено **значение True** или свойство **WebPageOptions.IncludePageOnNewWebNavigationBars** задано значение **True** для добавления или обновления в рамках указанного **WebNavigationBarSet**. Изменение этого параметра не изменяет количество элементов в панели, просто определяет, будут ли добавлены новые страницы. Установка этого значения в **значение False,** возможность разработки панелей навигации для определенных страниц на веб-сайте, не содержащих все доступные ссылки в публикации.
+
+Значение по умолчанию — **True**. 
+
+
+## <a name="example"></a>Пример
+
+В следующем примере добавляется новый панель навигации задать в активный документ с помощью кнопок стиля текста и автоматическое обновление задано значение **False** , чтобы не будут добавлены ссылки на страницы или новые страницы автоматически обновляется на панели навигации панель навигации добавляется к первой страницы публикации.
 
 
 ```vb

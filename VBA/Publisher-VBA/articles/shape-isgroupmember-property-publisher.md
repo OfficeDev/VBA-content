@@ -1,41 +1,42 @@
 ---
-title: Shape.IsGroupMember Property (Publisher)
+title: "Свойство Shape.IsGroupMember (издатель)"
 keywords: vbapb10.chm2228337
-f1_keywords:
-- vbapb10.chm2228337
+f1_keywords: vbapb10.chm2228337
 ms.prod: publisher
-api_name:
-- Publisher.Shape.IsGroupMember
+api_name: Publisher.Shape.IsGroupMember
 ms.assetid: bbd9b662-b47d-d5cf-6858-e208c44f88a0
 ms.date: 06/08/2017
+ms.openlocfilehash: 5018e4c75eacbbb38bf7db5bb5a3ffafbebaed3a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeisgroupmember-property-publisher"></a>Свойство Shape.IsGroupMember (издатель)
+
+Возвращает **значение True** , если указанный фигуры должна быть членом группы, **значение False** в противном случае. Только для чтения **типа Boolean**.
 
 
-# Shape.IsGroupMember Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if the specified shape is a member of a group, **False** otherwise. Read-only **Boolean**.
+ _выражение_. **IsGroupMember**
 
-
-## Syntax
-
- _expression_. **IsGroupMember**
-
- _expression_A variable that represents an  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-The object returned by the  **ParentGroupShape** property can be used to determine the parent shape for the group.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following statement can be used to return a  **True** value if the first shape of the active publication is a group member.
+Объект, возвращенный свойством **ParentGroupShape** можно использовать для определения родительскую фигуру для группы.
+
+
+## <a name="example"></a>Пример
+
+Возвращает значение **True** , если первую фигуру active публикации, является участником группы можно использовать следующий оператор.
 
 
 ```

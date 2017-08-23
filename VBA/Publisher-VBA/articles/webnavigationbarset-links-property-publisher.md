@@ -1,43 +1,44 @@
 ---
-title: WebNavigationBarSet.Links Property (Publisher)
+title: "Свойство WebNavigationBarSet.Links (издатель)"
 keywords: vbapb10.chm8519697
-f1_keywords:
-- vbapb10.chm8519697
+f1_keywords: vbapb10.chm8519697
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSet.Links
+api_name: Publisher.WebNavigationBarSet.Links
 ms.assetid: 9f155781-390b-ad77-8db7-5099be1409ce
 ms.date: 06/08/2017
+ms.openlocfilehash: 16c81fccb9427c91bbdced923554639d4772e26a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarsetlinks-property-publisher"></a>Свойство WebNavigationBarSet.Links (издатель)
+
+Возвращает коллекцию **WebNavigationBarHyperlinks** , содержащую всех гиперссылок в указанный набор панель навигации Web. Чтение и запись.
 
 
-# WebNavigationBarSet.Links Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified Web navigation bar set. Read/write.
+ _выражение_. **Ссылки**
 
-
-## Syntax
-
- _expression_. **Links**
-
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 WebNavigationBarHyperlinks
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **Links** property to return a **WebNavigationBarHyperlinks** property. This example returns the Web navigation bar hyperlinks of the first Web navigation bar set of the active document.
+Свойство **ссылки** возвращает свойство **WebNavigationBarHyperlinks** . В этом примере возвращается Web гиперссылки первого набора панель навигации Web активного документа.
 
 
 ```vb
 ActiveDocument.WebNavigationBarSets(1).Links
 ```
 
-The following example adds a new Web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the  **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
+Пример добавления новой панели навигации веб задайте в активный документ, добавляет гиперссылку на панель навигации и затем добавляет на панели навигации на все страницы публикации, который имеет свойство **AddHyperlinkToWebNavbar** задано значение **True** или свойство **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** задано значение **True**.
 
 
 

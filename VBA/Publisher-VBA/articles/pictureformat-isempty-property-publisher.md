@@ -1,48 +1,49 @@
 ---
-title: PictureFormat.IsEmpty Property (Publisher)
+title: "Свойство PictureFormat.IsEmpty (издатель)"
 keywords: vbapb10.chm3604788
-f1_keywords:
-- vbapb10.chm3604788
+f1_keywords: vbapb10.chm3604788
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.IsEmpty
+api_name: Publisher.PictureFormat.IsEmpty
 ms.assetid: 493cbb8f-e069-14a9-a827-7f7631eb3a09
 ms.date: 06/08/2017
+ms.openlocfilehash: 638be845247e67e27eb5848935af0bf8558032cc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatisempty-property-publisher"></a>Свойство PictureFormat.IsEmpty (издатель)
+
+Возвращает константу **MsoTriState** , которое указывает, находится ли указанный фигуры пустой рамки. Только для чтения.
 
 
-# PictureFormat.IsEmpty Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **MsoTriState** constant that represents whether the specified shape is an empty picture frame. Read-only.
+ _выражение_. **Функция IsEmpty**
 
-
-## Syntax
-
- _expression_. **IsEmpty**
-
- _expression_A variable that represents an  **PictureFormat** object.
+ переменная _expression_A, представляющий объект **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **IsEmpty** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **IsEmpty** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The specified shape is not an empty picture frame.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The specified shape is an empty picture frame.|
+| **msoFalse**|Указанный фигура не является пустой рамки.|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Указанный фигуры является пустой рамки.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests each picture in the active publication, and if it is not an empty picture frame, prints selected image properties for the picture.
+В следующем примере проверяет каждого изображения в активной публикации и если это еще не пустой рамки, печатает свойства выбранного изображения для рисунка.
 
 
 ```vb

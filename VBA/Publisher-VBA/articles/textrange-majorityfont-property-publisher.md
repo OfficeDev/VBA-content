@@ -1,36 +1,37 @@
 ---
-title: TextRange.MajorityFont Property (Publisher)
+title: "Свойство TextRange.MajorityFont (издатель)"
 keywords: vbapb10.chm5308467
-f1_keywords:
-- vbapb10.chm5308467
+f1_keywords: vbapb10.chm5308467
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.MajorityFont
+api_name: Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2
 ms.date: 06/08/2017
+ms.openlocfilehash: 0d830bee09d5f11423370897b0eeec77f20e4886
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangemajorityfont-property-publisher"></a>Свойство TextRange.MajorityFont (издатель)
+
+Возвращает объект **[шрифта](font-object-publisher.md)** , который представляет имя шрифта, используемых в наиболее в диапазон текста.
 
 
-# TextRange.MajorityFont Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Font](font-object-publisher.md)** object that represents the font name most in use in a text range.
+ _выражение_. **MajorityFont**
 
-
-## Syntax
-
- _expression_. **MajorityFont**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Font
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new text box, fills it with text, checks if the font most in use is Tahoma, and if it isn't, changes the font to Tahoma.
+В этом примере создается новое текстовое поле, заполняет его текстом, проверяет, если шрифта, используемых в наиболее Tahoma, а в противном случае изменяет шрифт Tahoma.
 
 
 ```vb

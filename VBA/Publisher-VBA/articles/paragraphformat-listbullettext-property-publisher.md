@@ -1,45 +1,46 @@
 ---
-title: ParagraphFormat.ListBulletText Property (Publisher)
+title: "Свойство ParagraphFormat.ListBulletText (издатель)"
 keywords: vbapb10.chm5439523
-f1_keywords:
-- vbapb10.chm5439523
+f1_keywords: vbapb10.chm5439523
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.ListBulletText
+api_name: Publisher.ParagraphFormat.ListBulletText
 ms.assetid: fa80957a-be91-398f-a24f-5a0449a9466f
 ms.date: 06/08/2017
+ms.openlocfilehash: 3163b35ce46bce49710f1f91294d6139319a2fc9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatlistbullettext-property-publisher"></a>Свойство ParagraphFormat.ListBulletText (издатель)
+
+Возвращает **строку** , представляющую текст маркированный список из указанного абзацев. Только для чтения.
 
 
-# ParagraphFormat.ListBulletText Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** representing the list bullet text from the specified paragraphs. Read-only.
+ _выражение_. **ListBulletText**
 
-
-## Syntax
-
- _expression_. **ListBulletText**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **ListBulletText** property is limited to one character.
+Свойство **ListBulletText** только для одного символа.
 
-This property is read-only. To set the  **ListBulletText** property of a bulleted list, use the **SetListType** method.
+Это свойство доступно только для чтения. Чтобы задать свойство **ListBulletText** маркированного списка, используйте метод **SetListType** .
 
-Returns an "Access Denied" message if the list is not a bulleted list.
+Возвращает сообщение «Доступ запрещен», если список не маркированный список.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests to see if the list type is a bulleted list. If it is, a test is made to see that the list bullet text is set to "*". If it is not, the  **SetListType** method is called and passed **pbListTypeBullet** as the pbListType parameter and "*" as the BulletText parameter.
+В этом примере проверяется, если тип списка — маркированный список. Если он установлен, тест выполняется, что текст маркированный список задано значение «*». Если он не установлен, метод **SetListType** вызван и передается как параметр pbListType **pbListTypeBullet** и "*" в качестве BulletText параметра.
 
 
 ```vb

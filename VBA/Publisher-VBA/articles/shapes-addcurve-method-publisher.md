@@ -1,49 +1,50 @@
 ---
-title: Shapes.AddCurve Method (Publisher)
+title: "Метод Shapes.AddCurve (издатель)"
 keywords: vbapb10.chm2162706
-f1_keywords:
-- vbapb10.chm2162706
+f1_keywords: vbapb10.chm2162706
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddCurve
+api_name: Publisher.Shapes.AddCurve
 ms.assetid: 888a35cb-190d-4058-e0d7-a848d77ba920
 ms.date: 06/08/2017
+ms.openlocfilehash: 43031eae70a33cf3f9feeb54e02b6b74aa0c82a4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddcurve-method-publisher"></a>Метод Shapes.AddCurve (издатель)
+
+Добавляет новый объект **[фигуры](shape-object-publisher.md)** , предоставляющий Безье график для указанной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-# Shapes.AddCurve Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing a Bézier curve to the specified **[Shapes](shapes-object-publisher.md)** collection.
+ _выражение_. **AddCurve** ( **_SafeArrayOfPoints_**)
 
-
-## Syntax
-
- _expression_. **AddCurve**( **_SafeArrayOfPoints_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|SafeArrayOfPoints|Required| **Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first Bézier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
+|SafeArrayOfPoints|Обязательное свойство.| **Variant**|Массив координации пары, указывает грани и контроль точек график. Первой точкой указываемые является отправной вершин и следующие две точки являются контрольными для первого сегмента Безье. Для каждого дополнительного сегмента график укажите узел и двух контрольных точек. Конечная точка, указываемые — это последний вершины график. Обратите внимание на то, что всегда следует указывать 3n + 1 точки, где n — число сегментов в поверхности.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the array elements in  **_SafeArrayOfPoints_**, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Для элементов массива в **_SafeArrayOfPoints_**числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a two-segment Bézier curve to the first page of the active publication.
+Следующий пример добавляет два сегмента Безье график для первой страницы публикации active.
 
 
 ```vb

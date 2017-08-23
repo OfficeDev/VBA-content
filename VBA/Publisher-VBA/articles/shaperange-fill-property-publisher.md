@@ -1,31 +1,32 @@
 ---
-title: ShapeRange.Fill Property (Publisher)
+title: "Свойство ShapeRange.Fill (издатель)"
 keywords: vbapb10.chm2293815
-f1_keywords:
-- vbapb10.chm2293815
+f1_keywords: vbapb10.chm2293815
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Fill
+api_name: Publisher.ShapeRange.Fill
 ms.assetid: cdff2b6f-52f5-3ab3-c57a-4647888cd96f
 ms.date: 06/08/2017
+ms.openlocfilehash: 3cab4fd268bcbf5d86183e95ca579ca19a1925a1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangefill-property-publisher"></a>Свойство ShapeRange.Fill (издатель)
+
+ Возвращает объект **[FillFormat](fillformat-object-publisher.md)** , представляющий заливки для указанной ячейке фигуры или таблицу.
 
 
-# ShapeRange.Fill Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- Returns a **[FillFormat](fillformat-object-publisher.md)** object representing the fill for the specified shape or table cell.
+ _выражение_. **Заполните поля**
 
-
-## Syntax
-
- _expression_. **Fill**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new  **AutoShape** object and fills the shape with green.
+В этом примере создается новый объект **автофигуры** и заполняет фигуры с зеленой.
 
 
 ```vb

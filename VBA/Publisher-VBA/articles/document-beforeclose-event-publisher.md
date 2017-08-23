@@ -1,44 +1,45 @@
 ---
-title: Document.BeforeClose Event (Publisher)
+title: "Событие Document.BeforeClose (издатель)"
 keywords: vbapb10.chm285212674
-f1_keywords:
-- vbapb10.chm285212674
+f1_keywords: vbapb10.chm285212674
 ms.prod: publisher
-api_name:
-- Publisher.Document.BeforeClose
+api_name: Publisher.Document.BeforeClose
 ms.assetid: d40e36b6-fea7-a9d5-0c88-55197983b888
 ms.date: 06/08/2017
+ms.openlocfilehash: 8edc9973a0effc742aa56a95761f4989d5fdb674
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentbeforeclose-event-publisher"></a>Событие Document.BeforeClose (издатель)
+
+Происходит непосредственно перед закрытием любого открытого документа.
 
 
-# Document.BeforeClose Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs immediately before any open document closes.
+ _выражение_. **BeforeClose** ( **_Отмена_**)
 
-
-## Syntax
-
- _expression_. **BeforeClose**( **_Cancel_**)
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document doesn't close when the procedure is finished.|
+|Cancel|Обязательное свойство.| **Boolean**| **Значение false,** при возникновении события. Если этот аргумент задает процедуру события значение **True**, документ не закрыть после завершения процедуры.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **Document** содержатся в разделе [С помощью событий с помощью объекта Document](using-events-with-the-document-object-publisher.md).
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example prompts the user for a yes or no response before closing a document. For this example to work, you must place this code into the  **ThisDocument** module.
+В этом примере пользователю Да или нет ответа перед закрытием документа. Для работы этого примера необходимо поместить этот код в модуле **ThisDocument** .
 
 
 ```vb

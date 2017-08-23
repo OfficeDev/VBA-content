@@ -1,61 +1,59 @@
 ---
-title: Shapes.AddCallout Method (Publisher)
+title: "Метод Shapes.AddCallout (издатель)"
 keywords: vbapb10.chm2162704
-f1_keywords:
-- vbapb10.chm2162704
+f1_keywords: vbapb10.chm2162704
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddCallout
+api_name: Publisher.Shapes.AddCallout
 ms.assetid: bbf5f913-fcf0-b700-0c7e-9f0bdc7c6aea
 ms.date: 06/08/2017
+ms.openlocfilehash: 94910d40aa383d911a66523049798b47ccb07122
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddcallout-method-publisher"></a>Метод Shapes.AddCallout (издатель)
+
+Добавление нового объекта **[Shape](shape-object-publisher.md)** , представляющее без границ выноску определенной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-# Shapes.AddCallout Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing a borderless line callout to the specified **[Shapes](shapes-object-publisher.md)** collection.
+ _выражение_. **AddCallout** ( **_Тип_**, **_слева_**, **_в начало_**, **_Width_**, **_Height_**)
 
-
-## Syntax
-
- _expression_. **AddCallout**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **MsoCalloutType**|The type of callout line.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the line callout.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the line callout.|
-|Width|Required| **Variant**|The width of the shape representing the line callout.|
-|Height|Required| **Variant**|The height of the shape representing the line callout.|
+|Тип|Обязательный| **MsoCalloutType**|Тип линии выноски.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей выноску.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей выноску.|
+|Width|Обязательное свойство.| **Variant**|Ширина формы, представляющее выноску.|
+|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей выноску.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Аргументы слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
-The Type parameter can be one of these  **MsoCalloutType** constants.
+Параметр типа может иметь одно из следующих констант **MsoCalloutType** .
 
 
 
-| **msoCalloutOne**|A horizontal or vertical single-segment callout line.|
-| **msoCalloutTwo**|A freely-rotating single-segment callout line.|
-| **msoCalloutThree**|A two-segment callout line.|
-| **msoCalloutFour**|A three-segment callout line.|
+| **msoCalloutOne**| Линия выноски сегмента одним горизонтальный или вертикальный. | | **msoCalloutTwo**| Свободно вращающимся линии выноски одним сегмент. | | **msoCalloutThree**| Линии выноски два сегмента. | | **msoCalloutFour**| Линии выноски три сегмента. |
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a new freely-rotating callout line to the first page of the active publication.
+Следующий пример добавляет новую строку свободно вращающимся выноски для первой страницы публикации active.
 
 
 ```vb

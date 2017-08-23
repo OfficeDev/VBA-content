@@ -1,38 +1,39 @@
 ---
-title: Application.InstalledPrinters Property (Publisher)
+title: "Свойство Application.InstalledPrinters (издатель)"
 keywords: vbapb10.chm131184
-f1_keywords:
-- vbapb10.chm131184
+f1_keywords: vbapb10.chm131184
 ms.prod: publisher
-api_name:
-- Publisher.Application.InstalledPrinters
+api_name: Publisher.Application.InstalledPrinters
 ms.assetid: e7cc1387-1ed8-dee8-a9f3-8c85eb1bea91
 ms.date: 06/08/2017
+ms.openlocfilehash: ed0205044a59e85825ac1e87ac8c3433a3a01b07
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationinstalledprinters-property-publisher"></a>Свойство Application.InstalledPrinters (издатель)
+
+Возвращает коллекцию **[InstalledPrinters](installedprinters-object-publisher.md)** , который представляет имена всех принтеров, установленных на компьютере и для каких Microsoft Publisher печать. Только для чтения.
 
 
-# Application.InstalledPrinters Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **[InstalledPrinters](installedprinters-object-publisher.md)** collection that represents the names of all the printers installed on the computer and to which Microsoft Publisher can print the publication. Read-only.
+ _выражение_. **InstalledPrinters**
 
-
-## Syntax
-
- _expression_. **InstalledPrinters**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 InstalledPrinters
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

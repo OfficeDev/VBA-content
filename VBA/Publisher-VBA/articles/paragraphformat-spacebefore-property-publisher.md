@@ -1,36 +1,37 @@
 ---
-title: ParagraphFormat.SpaceBefore Property (Publisher)
+title: "Свойство ParagraphFormat.SpaceBefore (издатель)"
 keywords: vbapb10.chm5439497
-f1_keywords:
-- vbapb10.chm5439497
+f1_keywords: vbapb10.chm5439497
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.SpaceBefore
+api_name: Publisher.ParagraphFormat.SpaceBefore
 ms.assetid: ed19a927-67e4-a1b3-06f8-1035c4b0815a
 ms.date: 06/08/2017
+ms.openlocfilehash: e16f44f2071c64ecde25912f6dc45c96c9d54e09
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatspacebefore-property-publisher"></a>Свойство ParagraphFormat.SpaceBefore (издатель)
+
+Возвращает или задает **Variant** , который представляет значение интервала (в пунктах) до одного или нескольких абзацев. Чтение и запись.
 
 
-# ParagraphFormat.SpaceBefore Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the amount of spacing (in points) before one or more paragraphs. Read/write.
+ _выражение_. **SpaceBefore**
 
-
-## Syntax
-
- _expression_. **SpaceBefore**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the spacing before and after the third paragraph in the first shape on the first page of the active publication to 6 points. This example assumes there is at least one shape on the first page of the active publication.
+В этом примере задается интервал до и после третий абзац в первую фигуру на первой странице active публикации на 6 пунктов. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
 
 
 ```vb
@@ -43,7 +44,7 @@ Sub SetSpacingBeforeAfterParagraph()
 End Sub
 ```
 
-This example sets spacing before and after all paragraphs in the first shape on the first page of the active publication to 6 points. This example assumes there is at least one shape on the first page of the active publication.
+В этом примере задается интервал до и после все абзацы в первую фигуру на первой странице active публикации на 6 пунктов. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
 
 
 

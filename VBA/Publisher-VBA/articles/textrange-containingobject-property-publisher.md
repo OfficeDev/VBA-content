@@ -1,36 +1,37 @@
 ---
-title: TextRange.ContainingObject Property (Publisher)
+title: "Свойство TextRange.ContainingObject (издатель)"
 keywords: vbapb10.chm5308465
-f1_keywords:
-- vbapb10.chm5308465
+f1_keywords: vbapb10.chm5308465
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.ContainingObject
+api_name: Publisher.TextRange.ContainingObject
 ms.assetid: f15c81b5-d03f-0d83-323b-6ec6f57b4f26
 ms.date: 06/08/2017
+ms.openlocfilehash: c7870b0f673d7f2ff1697a3e1b50e8f2dc1e8d2d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangecontainingobject-property-publisher"></a>Свойство TextRange.ContainingObject (издатель)
+
+Возвращает **объект** , представляющий объект, который содержит диапазон текста. Только для чтения.
 
 
-# TextRange.ContainingObject Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **Object** that represents the object that contains the text range. Read-only.
+ _выражение_. **ContainingObject**
 
-
-## Syntax
-
- _expression_. **ContainingObject**
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Object
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example returns the name of the object containing the specified text range.
+В этом примере возвращается имя object, содержащий указанный текст диапазона.
 
 
 ```vb

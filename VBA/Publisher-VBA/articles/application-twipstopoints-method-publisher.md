@@ -1,49 +1,50 @@
 ---
-title: Application.TwipsToPoints Method (Publisher)
+title: "Метод Application.TwipsToPoints (издатель)"
 keywords: vbapb10.chm131154
-f1_keywords:
-- vbapb10.chm131154
+f1_keywords: vbapb10.chm131154
 ms.prod: publisher
-api_name:
-- Publisher.Application.TwipsToPoints
+api_name: Publisher.Application.TwipsToPoints
 ms.assetid: 18e1c4da-1295-31a2-d66b-ab0df807b7a6
 ms.date: 06/08/2017
+ms.openlocfilehash: 243d965a4f7758d2cdd3264d7d77248339befc9c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationtwipstopoints-method-publisher"></a>Метод Application.TwipsToPoints (издатель)
+
+Преобразует измерения из твипов в точки (20 твипов = 1 пункт). Возвращает преобразованные измерения как **один**.
 
 
-# Application.TwipsToPoints Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Converts a measurement from twips to points (20 twips = 1 point). Returns the converted measurement as a  **Single**.
+ _выражение_. **TwipsToPoints** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **TwipsToPoints**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The twip value to be converted to points.|
+|Значение|Обязательное свойство.| **Один**|Значение твип для преобразования в пунктах.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[PointsToTwips](application-pointstotwips-method-publisher.md)** method to convert measurements in points to twips.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example converts measurements in twips entered by the user to measurements in points.
+Используйте метод **[PointsToTwips](application-pointstotwips-method-publisher.md)** для преобразования твипов измерения в точках.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется преобразование измерения в твипах, введенный пользователем измерений в пунктах.
 
 
 ```vb
@@ -71,11 +72,11 @@ Loop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

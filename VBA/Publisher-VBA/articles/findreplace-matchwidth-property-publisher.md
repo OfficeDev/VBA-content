@@ -1,43 +1,44 @@
 ---
-title: FindReplace.MatchWidth Property (Publisher)
+title: "Свойство FindReplace.MatchWidth (издатель)"
 keywords: vbapb10.chm8323084
-f1_keywords:
-- vbapb10.chm8323084
+f1_keywords: vbapb10.chm8323084
 ms.prod: publisher
-api_name:
-- Publisher.FindReplace.MatchWidth
+api_name: Publisher.FindReplace.MatchWidth
 ms.assetid: b9f89092-6ac0-bbf9-4bfd-d3cce2359b80
 ms.date: 06/08/2017
+ms.openlocfilehash: f5063b1583df840d9769075e81d86fd448127487
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="findreplacematchwidth-property-publisher"></a>Свойство FindReplace.MatchWidth (издатель)
+
+Задает или возвращает значение **типа Boolean** представляющее ли операции поиска будут учитывать ширину знаков поиск текста. Чтение и запись.
 
 
-# FindReplace.MatchWidth Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **Boolean** representing whether or not a search operation will match the character width of the searched text. Read/Write.
+ _выражение_. **MatchWidth**
 
-
-## Syntax
-
- _expression_. **MatchWidth**
-
- _expression_A variable that represents a  **FindReplace** object.
+ переменная _expression_A, представляет собой объект- **FindReplace** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
-
-Return "Access denied" if an East Asian language is not enabled.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example finds each occurance of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **False** so that full or half width characters will both be found. For example, this search will apply bold formatting to the word "width" (half-width characters) and the word " w i d t h" (full-width characters).
+Это свойство не может быть доступно в зависимости от языка, включен в операционной системе. Значение по умолчанию — **False**.
+
+Возвращает «Доступ запрещен», если не включена восточно-азиатских языков.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере выполняется поиск каждого экземпляры слово «ширина» в активном документе и применяет жирное форматирование. Свойство **MatchWidth** имеет значение **False** , поэтому полное или половинной ширины символов, оба доступны. Например, поиска будет быстрого форматирования word «width» (половинной ширины знаков) и слово "w я h d t» (полной ширины знаков).
 
 
 ```vb
@@ -53,7 +54,7 @@ With objDocument.Find
 End With
 ```
 
-The following example finds each occurance of the word "width" in the active document and applies bold formatting. The  **MatchWidth** property is set to **True** so that either full or half width characters will be found. For example, this search will apply bold formatting to "width". It will not apply formatting to the word "w i d t h".
+В следующем примере выполняется поиск каждого экземпляры слово «ширина» в активном документе и применяет жирное форматирование. Свойство **MatchWidth** имеет значение **True** , поэтому будет найден полное или знаков половинной ширины. Например поиск будет быстрого форматирования для «ширина». Он не будет применять форматирование к слово «w я h d t».
 
 
 

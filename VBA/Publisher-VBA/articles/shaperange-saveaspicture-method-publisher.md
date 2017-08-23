@@ -1,47 +1,48 @@
 ---
-title: ShapeRange.SaveAsPicture Method (Publisher)
+title: "Метод ShapeRange.SaveAsPicture (издатель)"
 keywords: vbapb10.chm2294050
-f1_keywords:
-- vbapb10.chm2294050
+f1_keywords: vbapb10.chm2294050
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.SaveAsPicture
+api_name: Publisher.ShapeRange.SaveAsPicture
 ms.assetid: 0be9b741-8f11-a386-313b-231a3269883a
 ms.date: 06/08/2017
+ms.openlocfilehash: 3d01b533f5822e9303523fe5d0a299f69ccc54f7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangesaveaspicture-method-publisher"></a>Метод ShapeRange.SaveAsPicture (издатель)
+
+Сохраняет диапазон из одного или нескольких фигур в файле.
 
 
-# ShapeRange.SaveAsPicture Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Saves a range of one or more shapes as a picture file.
+ _выражение_. **SaveAsPicture** ( **_Имя файла_**, **_pbResolution_**)
 
-
-## Syntax
-
- _expression_. **SaveAsPicture**( **_Filename_**,  **_pbResolution_**)
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The path and file name of the new picture file you want to create. The graphics format the picture is saved in is determined by the file name extension (such as .jpg or .gif) you specify.|
-|pbResolution|Optional| **PbPictureResolution**|The resolution in which you want the picture to be saved. See Remarks for possible values.|
+|Имя файла|Обязательное свойство.| **String**|Путь и имя нового файла изображения, который требуется создать. Рисунок сохраняется в формат графики определяется по расширению имени файла (например, JPG или GIF) укажите.|
+|pbResolution|Необязательный| **PbPictureResolution**|Разрешение, в которой будут рисунок сохраняется. Возможные значения см.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Possible values for the pbResolution parameter are declared in the  **[PbPictureResolution](pbpictureresolution-enumeration-publisher.md)** enumeration in the Microsoft Publisher type library.
+Возможные значения для параметра pbResolution объявляются в перечислении **[PbPictureResolution](pbpictureresolution-enumeration-publisher.md)** в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SaveAsPicture** method to save all the shapes on the first page of the active publication as a .jpg picture file.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **SaveAsPicture** для сохранения всех фигур на первой странице активная публикация качестве рисунков JPG-файла.
 
-Before running this code, replace  _filename.jpg_ with a valid file name and the path to a folder on your computer where you have permission to save files.
+Перед запуском этого кода замените _filename.jpg_ допустимое имя файла и путь к папке на компьютере, где у вас есть разрешение на сохранение файлов.
 
 
 

@@ -1,36 +1,37 @@
 ---
-title: FindReplace.Execute Method (Publisher)
+title: "Метод FindReplace.Execute (издатель)"
 keywords: vbapb10.chm8323086
-f1_keywords:
-- vbapb10.chm8323086
+f1_keywords: vbapb10.chm8323086
 ms.prod: publisher
-api_name:
-- Publisher.FindReplace.Execute
+api_name: Publisher.FindReplace.Execute
 ms.assetid: 351a64ab-3c6c-c9c9-7ffe-b60b73d390ae
 ms.date: 06/08/2017
+ms.openlocfilehash: be53f1680913d5f84ba8ded0fd8b40814ef42a72
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="findreplaceexecute-method-publisher"></a>Метод FindReplace.Execute (издатель)
+
+Выполняет указанной операции поиска и замены.
 
 
-# FindReplace.Execute Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Performs the specified Find or Replace operation.
+ _выражение_. **Выполнение**
 
-
-## Syntax
-
- _expression_. **Execute**
-
- _expression_A variable that represents a  **FindReplace** object.
+ переменная _expression_A, представляет собой объект- **FindReplace** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example executes a Find and Replace operation on the active document.
+В этом примере выполняет операцию поиска и замены активных документов.
 
 
 ```vb

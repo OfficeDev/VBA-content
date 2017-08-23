@@ -1,35 +1,36 @@
 ---
-title: TextFrame.IncludeContinuedFromPage Property (Publisher)
+title: "Свойство TextFrame.IncludeContinuedFromPage (издатель)"
 keywords: vbapb10.chm3866665
-f1_keywords:
-- vbapb10.chm3866665
+f1_keywords: vbapb10.chm3866665
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.IncludeContinuedFromPage
+api_name: Publisher.TextFrame.IncludeContinuedFromPage
 ms.assetid: 7c129bf2-60da-4170-1410-94961ccf3345
 ms.date: 06/08/2017
+ms.openlocfilehash: 92d715a6c677f0b2bd1fb1a00c9e21cdf4106269
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframeincludecontinuedfrompage-property-publisher"></a>Свойство TextFrame.IncludeContinuedFromPage (издатель)
+
+Определяет, отображается ли текст «Начало на странице _pagenumber_» в текстовом поле при Microsoft Publisher связывает текстовые поля. Чтение и запись.
 
 
-# TextFrame.IncludeContinuedFromPage Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Determines whether the text "Continued from page  _pagenumber_" appears in a text box when Microsoft Publisher links text boxes. Read/write.
+ _выражение_. **IncludeContinuedFromPage**
 
-
-## Syntax
-
- _expression_. **IncludeContinuedFromPage**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **IncludeContinuedFromPage** property corresponds to the **Include "Continued from page..."** check box in the Publisher user interface. (With the text box selected, on the **Format** menu, click **Text Box**, and then click the  **Text Box** tab.)
+Свойство **IncludeContinuedFromPage** соответствующий флажок **Включить «Начало на странице...»** в пользовательском интерфейсе Publisher. (С помощью текстового поля и в меню **Формат** выберите пункт **Текстовое поле**и откройте вкладку **Текстовое поле** .)
 
 

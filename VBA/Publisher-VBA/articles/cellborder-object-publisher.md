@@ -1,25 +1,26 @@
 ---
-title: CellBorder Object (Publisher)
+title: "Объект CellBorder (издатель)"
 keywords: vbapb10.chm5308415
-f1_keywords:
-- vbapb10.chm5308415
+f1_keywords: vbapb10.chm5308415
 ms.prod: publisher
-api_name:
-- Publisher.CellBorder
+api_name: Publisher.CellBorder
 ms.assetid: c4eddeac-54cd-95ff-9423-b06e515a720e
 ms.date: 06/08/2017
+ms.openlocfilehash: 04bd142f4f3788e06ff292eabcfd2d4ecfdfbf7f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellborder-object-publisher"></a>Объект CellBorder (издатель)
 
-
-# CellBorder Object (Publisher)
-
-Represents the color and weight settings for cell borders.
+Представляет параметры цвета и вес границы ячеек.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the various border properties of the  **Cell** object to return the different borders of a cell (left, right, top, bottom, and diagonal). The following example retrieves the top border of the first cell in a table.
+Использование различных свойств границы объекта **ячейки** для возвращения различных границ ячейки (слева, справа, верхней, нижней и вправо). В следующем примере извлекается верхняя граница первую ячейку в таблице.
  
 
  
@@ -31,7 +32,7 @@ Set cbTemp = ActiveDocument.Pages(1) _
  .Shapes(1).Table.Cells.Item(1).BorderTop
 ```
 
-Use the  **[Color](cellborder-color-property-publisher.md)** and **[Weight](cellborder-weight-property-publisher.md)** properties of the **CellBorder** object to format the appearance of a cell border. The following example makes the left border of the first cell in a table red and two points thick.
+Использование свойства **[цвета](cellborder-color-property-publisher.md)** и **[Вес](cellborder-weight-property-publisher.md)** объекта **CellBorder** для быстрого форматирования внешний вид границы. В следующем примере создается левая граница первую ячейку в таблице красной и два аспекта толстые.
  
 
  
@@ -49,14 +50,14 @@ cbTemp.Weight = 2
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](cellborder-application-property-publisher.md)|
-|[Color](cellborder-color-property-publisher.md)|
-|[Parent](cellborder-parent-property-publisher.md)|
-|[Weight](cellborder-weight-property-publisher.md)|
+|[Приложения](cellborder-application-property-publisher.md)|
+|[Цвет](cellborder-color-property-publisher.md)|
+|[Родительский раздел](cellborder-parent-property-publisher.md)|
+|[Вес](cellborder-weight-property-publisher.md)|
 

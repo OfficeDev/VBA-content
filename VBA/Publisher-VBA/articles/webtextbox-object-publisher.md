@@ -1,25 +1,26 @@
 ---
-title: WebTextBox Object (Publisher)
+title: "Объект WebTextBox (издатель)"
 keywords: vbapb10.chm4259839
-f1_keywords:
-- vbapb10.chm4259839
+f1_keywords: vbapb10.chm4259839
 ms.prod: publisher
-api_name:
-- Publisher.WebTextBox
+api_name: Publisher.WebTextBox
 ms.assetid: 74fde391-734c-6672-dadb-59bc58232c0f
 ms.date: 06/08/2017
+ms.openlocfilehash: e52b35239218ebff72fe34e01951c1569b4da40a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webtextbox-object-publisher"></a>Объект WebTextBox (издатель)
 
-
-# WebTextBox Object (Publisher)
-
-Represents a Web text box control. The  **WebTextBox** object is a member of the **Shape** object.
+Представляет элемент управления текстового поля Web. Объект **WebTextBox** является членом объекта **Shape** .
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create new Web option button. Use the **[WebTextBox](shape-webtextbox-property-publisher.md)** property to access a Web text box control shape. This example creates a new Web text box, specifies default text, indicates that entry is required, and limits entry to 50 characters.
+Используйте метод **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** для создания новой кнопки параметр Web. Используйте свойство **[WebTextBox](shape-webtextbox-property-publisher.md)** для доступа к поле элемента управления Web текст фигуры. В этом примере создается новое текстовое поле Web, задает текст по умолчанию, указывает, что запись является обязательным и ограничения для записи до 50 символов.
  
 
  
@@ -38,17 +39,17 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](webtextbox-application-property-publisher.md)|
+|[Приложения](webtextbox-application-property-publisher.md)|
 |[DefaultText](webtextbox-defaulttext-property-publisher.md)|
 |[EchoAsterisks](webtextbox-echoasterisks-property-publisher.md)|
-|[Limit](webtextbox-limit-property-publisher.md)|
-|[Parent](webtextbox-parent-property-publisher.md)|
+|[Ограничение](webtextbox-limit-property-publisher.md)|
+|[Родительский раздел](webtextbox-parent-property-publisher.md)|
 |[RequiredControl](webtextbox-requiredcontrol-property-publisher.md)|
 |[ReturnDataLabel](webtextbox-returndatalabel-property-publisher.md)|
 

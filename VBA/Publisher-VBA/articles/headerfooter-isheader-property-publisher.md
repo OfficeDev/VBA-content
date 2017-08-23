@@ -1,36 +1,37 @@
 ---
-title: HeaderFooter.IsHeader Property (Publisher)
+title: "Свойство HeaderFooter.IsHeader (издатель)"
 keywords: vbapb10.chm7471109
-f1_keywords:
-- vbapb10.chm7471109
+f1_keywords: vbapb10.chm7471109
 ms.prod: publisher
-api_name:
-- Publisher.HeaderFooter.IsHeader
+api_name: Publisher.HeaderFooter.IsHeader
 ms.assetid: b652fcc8-2c89-6d4f-c366-4c78681bea59
 ms.date: 06/08/2017
+ms.openlocfilehash: acf1c252d2591b35d189df51a4400085e9ad99a0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="headerfooterisheader-property-publisher"></a>Свойство HeaderFooter.IsHeader (издатель)
+
+ **Значение true,** Если указанный объект **HeaderFooter** заголовок, **значение False** , если это нижнего колонтитула. Только для чтения **типа Boolean**.
 
 
-# HeaderFooter.IsHeader Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if the specified **HeaderFooter** object is a header, **False** if it is a footer. Read-only **Boolean**.
+ _выражение_. **IsHeader**
 
-
-## Syntax
-
- _expression_. **IsHeader**
-
- _expression_A variable that represents an  **HeaderFooter** object.
+ переменная _expression_A, представляющий объект **HeaderFooter** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example creates a new collection and fills it with the headers and footer from each master page. The collection is then iterated and a test is made to determine whether the  **HeaderFooter** object is a header or a footer, then appropriate text is written to the header or footer.
+В следующем примере создается коллекция и заполняет его верхних и нижних колонтитулов из каждого главной страницы. Затем итерация коллекции и выполняется тест для определения ли объект **HeaderFooter** является верхних и нижних колонтитулов, а затем соответствующий текст записывается верхнего или нижнего колонтитула.
 
 
 ```vb

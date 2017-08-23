@@ -1,35 +1,36 @@
 ---
-title: MailMergeDataField.MappedTo Property (Publisher)
+title: "Свойство MailMergeDataField.MappedTo (издатель)"
 keywords: vbapb10.chm6422566
-f1_keywords:
-- vbapb10.chm6422566
+f1_keywords: vbapb10.chm6422566
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataField.MappedTo
+api_name: Publisher.MailMergeDataField.MappedTo
 ms.assetid: 067619e8-98fe-d0c2-2f50-96b50cf53de4
 ms.date: 06/08/2017
+ms.openlocfilehash: e656c967c817d95f03bbde8033789f71c0598c76
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafieldmappedto-property-publisher"></a>Свойство MailMergeDataField.MappedTo (издатель)
+
+Возвращает имя получателя поля (столбца) в источнике данных главной (список получателей объединенный слияния почты), сопоставленную с **MailMergeDataField** родительский объект. Только для чтения.
 
 
-# MailMergeDataField.MappedTo Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the name of the recipient field (column) in the master data source (combined mail-merge recipient list) that the parent  **MailMergeDataField** object is mapped to. Read-only.
+ _выражение_. **MappedTo**
 
-
-## Syntax
-
- _expression_. **MappedTo**
-
- _expression_A variable that represents a  **MailMergeDataField** object.
+ переменная _expression_A, представляет собой объект- **MailMergeDataField** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The parent  **MailMergeDataField** object must represent a field (column) in a connected data source that is not the master data source (the combination of all connected data sources). The **MappedTo** property is not available for data fields in the data source represented by the **DataSource** property of the **MailMerge** object of the active **Document** object ( `ThisDocument.MailMerge.DataSource`).
+Родительский объект **MailMergeDataField** должен представлять поля (столбца) для источника данных, который не является источником основных данных (сочетание всех подключенных источников данных). Свойство **MappedTo** недоступно для полей данных в источнике данных, представленного свойство **DataSource** объекта **слияния** активной объекта **Document** ( `ThisDocument.MailMerge.DataSource`).
 
 

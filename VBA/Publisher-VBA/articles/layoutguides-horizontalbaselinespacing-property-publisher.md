@@ -1,41 +1,42 @@
 ---
-title: LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+title: "Свойство LayoutGuides.HorizontalBaseLineSpacing (издатель)"
 keywords: vbapb10.chm1114132
-f1_keywords:
-- vbapb10.chm1114132
+f1_keywords: vbapb10.chm1114132
 ms.prod: publisher
-api_name:
-- Publisher.LayoutGuides.HorizontalBaseLineSpacing
+api_name: Publisher.LayoutGuides.HorizontalBaseLineSpacing
 ms.assetid: 19899a25-c1a5-9c81-f022-d842a3d6c7d8
 ms.date: 06/08/2017
+ms.openlocfilehash: 38212f352c058a643b8d8c4a856ba16297b45702
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="layoutguideshorizontalbaselinespacing-property-publisher"></a>Свойство LayoutGuides.HorizontalBaseLineSpacing (издатель)
+
+Возвращает значение типа **одного** , который представляет расстояние между горизонтальной базового на указанный объект **LayoutGuides** . Чтение и запись.
 
 
-# LayoutGuides.HorizontalBaseLineSpacing Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Single** that represents the horizontal baseline spacing of the specified **LayoutGuides** object. Read/write.
+ _выражение_. **HorizontalBaseLineSpacing**
 
-
-## Syntax
-
- _expression_. **HorizontalBaseLineSpacing**
-
- _expression_A variable that represents a  **LayoutGuides** object.
+ переменная _expression_A, представляет собой объект- **LayoutGuides** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example sets the horizontal baseline spacing of the layout guides object to 20 for the second master page in the active document.
+Установка свойств объекта **страницы** макета руководство должны возвращаться из коллекции **макетом** .
+
+
+## <a name="example"></a>Пример
+
+В этом примере задается интервал горизонтальной базового объекта макета руководства по 20 для второй главную страницу в активном документе.
 
 
 ```vb

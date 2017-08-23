@@ -1,31 +1,32 @@
 ---
-title: MailMergeDataSource.ApplyFilter Method (Publisher)
+title: "Метод MailMergeDataSource.ApplyFilter (издатель)"
 keywords: vbapb10.chm6291492
-f1_keywords:
-- vbapb10.chm6291492
+f1_keywords: vbapb10.chm6291492
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.ApplyFilter
+api_name: Publisher.MailMergeDataSource.ApplyFilter
 ms.assetid: a94af75c-e558-7160-76c9-c0f8c3fb317d
 ms.date: 06/08/2017
+ms.openlocfilehash: 31059d58942dde02e2b1e342b902929b11224e97
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourceapplyfilter-method-publisher"></a>Метод MailMergeDataSource.ApplyFilter (издатель)
+
+Применяет фильтр для слияния почты источник данных, чтобы удалить (или отфильтровать) указан записей содержащего (или не содержащие) определенного данных.
 
 
-# MailMergeDataSource.ApplyFilter Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Applies a filter to a mail merge data source to remove (or filter out) specified records containing (or not containing) specific data.
+ _выражение_. **ApplyFilter**
 
-
-## Syntax
-
- _expression_. **ApplyFilter**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a new filter that removes all records with a blank Region field and then applies the filter to the active publication. This example assumes that a mail merge data source is attached to the active publication.
+В этом примере добавляется новый фильтр, который удаляет все записи с пустым полем региона и затем применяет фильтр для активной публикации. В этом примере предполагается, что источник данных слияния почты подключенный к активной публикации.
 
 
 ```vb

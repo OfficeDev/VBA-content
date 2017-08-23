@@ -1,31 +1,32 @@
 ---
-title: WebCheckBox.Application Property (Publisher)
+title: "Свойство WebCheckBox.Application (издатель)"
 keywords: vbapb10.chm4325377
-f1_keywords:
-- vbapb10.chm4325377
+f1_keywords: vbapb10.chm4325377
 ms.prod: publisher
-api_name:
-- Publisher.WebCheckBox.Application
+api_name: Publisher.WebCheckBox.Application
 ms.assetid: c011e902-9627-62ae-00cb-2ac4cb05b781
 ms.date: 06/08/2017
+ms.openlocfilehash: 59193a0d16f533367c64e03b565f77590123abed
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webcheckboxapplication-property-publisher"></a>Свойство WebCheckBox.Application (издатель)
+
+При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-# WebCheckBox.Application Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+ _выражение_. **Приложения**
 
-
-## Syntax
-
- _expression_. **Application**
-
- _expression_A variable that represents a  **WebCheckBox** object.
+ переменная _expression_A, представляет собой объект- **WebCheckBox** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the version and build information for Publisher.
+В этом примере отображаются сведения о версии и построения для Publisher.
 
 
 ```vb
@@ -35,7 +36,7 @@ With Application
 End With
 ```
 
-This example displays the name of the application that created each linked OLE object on page one of the active publication.
+В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
 
 
 

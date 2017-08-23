@@ -1,50 +1,51 @@
 ---
-title: Document.Undo Method (Publisher)
+title: "Метод Document.Undo (издатель)"
 keywords: vbapb10.chm196704
-f1_keywords:
-- vbapb10.chm196704
+f1_keywords: vbapb10.chm196704
 ms.prod: publisher
-api_name:
-- Publisher.Document.Undo
+api_name: Publisher.Document.Undo
 ms.assetid: 8cfd09a0-8a0d-2870-f833-a35ff1fc21b4
 ms.date: 06/08/2017
+ms.openlocfilehash: eada9e30aa8734670714c5465715b6a89744060d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentundo-method-publisher"></a>Метод Document.Undo (издатель)
+
+Отменяет последнее действие или указанное число действий. Соответствует список элементов, который отображается, если щелкнуть стрелку рядом с кнопкой " **Отмена** " на панели инструментов **Стандартная** .
 
 
-# Document.Undo Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Undoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar.
+ _выражение_. **Отменить** ( **_Количество_**)
 
-
-## Syntax
-
- _expression_. **Undo**( **_Count_**)
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Count|Optional| **Long**|Specifies the number of actions to be undone. Default is 1, meaning that if omitted, only the last action will be undone.|
+|Count|Необязательный| **Длинный**|Задает число действий, чтобы быть отменена. Значение по умолчанию — 1, что означает, что если этот параметр опущен, отменить последнее действие.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If called when there are no actions on the undo stack, or when  **_Count_** is greater than the number of actions that currently reside on the stack, the **Undo** method will undo as many actions as possible and ignore the rest.
+Если вызывается, когда нет никаких действий в стеке отмены или **_Count_** больше, чем число действий, которые в настоящее время находятся в стеке, метод **Отменить** отмены всех действий по мере возможности без применения rest.
 
-The maximum number of actions that can be undone in one call to  **Undo** is 20.
+Максимальное число действий, которые можно отменить в одном вызове для **отмены** — 20.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example uses the  **Undo** method to undo actions that do not meet specific criteria.
+В следующем примере метод **Отменить** для отмены всех действий, которые не отвечают определенным условиям.
 
-Part 1 of the example adds a rectangular callout shape to the fourth page of the active publication, and text is added to the callout. This process creates three actions. 
+Часть 1 из примера в четвертой странице активная публикация добавляется фигура прямоугольный выноски и текст добавляется в выноске. Этот процесс создает три действия. 
 
-Part 2 of the example tests whether the font of the text added to the callout is Verdana. If not, then the  **Undo** method is used to undo all available actions (the value of the **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** property is used to specify that all actions be undone). This clears all actions from the stack. A new rectangle shape and text frame are then added and the text frame is populated with Verdana text.
+Часть 2 примера проверяет, является ли шрифт текста, добавляемого на выноске Verdana. В противном случае выберите метод **Отменить** используется для отмены всех доступных действий (значение свойства **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** используется для указания, что все действия быть отменены). Это приведет к очистке всех действий из стека. Затем добавляются новые прямоугольника фигуры и текст frame и выполняется заполнение рамки с текстом.
 
 
 

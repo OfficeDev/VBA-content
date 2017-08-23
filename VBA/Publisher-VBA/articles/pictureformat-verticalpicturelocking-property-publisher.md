@@ -1,49 +1,50 @@
 ---
-title: PictureFormat.VerticalPictureLocking Property (Publisher)
+title: "Свойство PictureFormat.VerticalPictureLocking (издатель)"
 keywords: vbapb10.chm3604745
-f1_keywords:
-- vbapb10.chm3604745
+f1_keywords: vbapb10.chm3604745
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.VerticalPictureLocking
+api_name: Publisher.PictureFormat.VerticalPictureLocking
 ms.assetid: 0575d733-b515-2256-7136-6ec07532ab67
 ms.date: 06/08/2017
+ms.openlocfilehash: 3f4cc573d2569b55521dd2c1f9522d5cf2032c4a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatverticalpicturelocking-property-publisher"></a>Свойство PictureFormat.VerticalPictureLocking (издатель)
+
+Возвращает или задает значение, указывающее, где отображаются вставленных новых изображений при использовании указанного кадра константы **PbVerticalPictureLocking** . Чтение и запись.
 
 
-# PictureFormat.VerticalPictureLocking Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbVerticalPictureLocking** constant indicating where newly inserted pictures appear in relation to the specified frame. Read/write.
+ _выражение_. **VerticalPictureLocking**
 
-
-## Syntax
-
- _expression_. **VerticalPictureLocking**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbVerticalPictureLocking
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Vertical PictureLocking** property value can be one of the **PbVerticalPictureLocking** constants declared in the Microsoft Publisher type library and shown in the following table.
+Значение свойства **Вертикали PictureLocking** может быть одной из констант **PbVerticalPictureLocking** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **pbVerticalLockingBottom**|New pictures are inserted along the bottom edge of the frame.|
-| **pbVerticalLockingNone**|New pictures are inserted in the center between the top and bottom edges of the frame.|
-| **pbVerticalLockingStretch**|New pictures are vertically stretched to the full height of the frame.|
-| **pbVerticalLockingTop**|New pictures are inserted along the top edge of the frame.|
+| **pbVerticalLockingBottom**|Новые изображения, вставляются нижнему краю фрейма.|
+| **pbVerticalLockingNone**|Новые изображения вставляется в центре между верхнего и нижнего края кадра.|
+| **pbVerticalLockingStretch**|Новые изображения по вертикали расширяются полный высота кадра.|
+| **pbVerticalLockingTop**|Новые изображения, вставляются по верхней границе фрейма.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example locks the specified picture to the upper-left corner of the picture frame. Shape one on page one of the active publication must be a picture frame for this example to work.
+Следующий пример блокирует указанный рисунок в верхний левый угол рамка рисунка. Фигура одно на странице один из активных публикации должен быть рамка рисунка для работы этого примера.
 
 
 ```vb

@@ -1,25 +1,26 @@
 ---
-title: PbReplaceTint Enumeration (Publisher)
+title: "Перечисление PbReplaceTint (издатель)"
 keywords: vbapb10.chm65629
-f1_keywords:
-- vbapb10.chm65629
+f1_keywords: vbapb10.chm65629
 ms.prod: publisher
-api_name:
-- Publisher.PbReplaceTint
+api_name: Publisher.PbReplaceTint
 ms.assetid: 91950561-224f-285e-6dee-7d2bdbd3a589
 ms.date: 06/08/2017
+ms.openlocfilehash: 68d526bddce8b4d679ded5bd6fa109d097d79f45
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbreplacetint-enumeration-publisher"></a>Перечисление PbReplaceTint (издатель)
 
-
-# PbReplaceTint Enumeration (Publisher)
-
-Constants passed to the  **Plate.Delete** method specifying how to replace the colors in a deleted plate.
+Константы, переданной в метод **Plate.Delete** , определяющее порядок замены цветов в удаленных формы.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbReplaceTintKeepTints**|1|Maintain the same tint percentage in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with a 100% tint of blue.|
-| **pbReplaceTintMaintainLuminosity**|2|Maintain the same lightness value in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with an approximately 10% tint of blue.|
-| **pbReplaceTintUseDefault**|0|Default.|
+| **pbReplaceTintKeepTints**|1|Ведение процентного tint рукописного ввода, представленное замены формы как и удаленные формы. Например замените tint 100% желтый tint 100% синего.|
+| **pbReplaceTintMaintainLuminosity**|2|Ведение такое же значение яркости в рукописного ввода, представленное замены формы как и удаленные формы. Например, замените tint 100% желтого примерно 10% tint синего цвета.|
+| **pbReplaceTintUseDefault**|0|По умолчанию.|
 

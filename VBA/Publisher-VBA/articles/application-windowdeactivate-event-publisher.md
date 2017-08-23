@@ -1,44 +1,45 @@
 ---
-title: Application.WindowDeactivate Event (Publisher)
+title: "Событие Application.WindowDeactivate (издатель)"
 keywords: vbapb10.chm268435458
-f1_keywords:
-- vbapb10.chm268435458
+f1_keywords: vbapb10.chm268435458
 ms.prod: publisher
-api_name:
-- Publisher.Application.WindowDeactivate
+api_name: Publisher.Application.WindowDeactivate
 ms.assetid: 84473784-7c03-4c9e-3e1b-9bf6ec7e1fbc
 ms.date: 06/08/2017
+ms.openlocfilehash: e4c571705ca8da0349f5f64e21208efd15077078
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationwindowdeactivate-event-publisher"></a>Событие Application.WindowDeactivate (издатель)
+
+Происходит при отключении окна приложения.
 
 
-# Application.WindowDeactivate Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs when the application window is deactivated.
+ _выражение_. **WindowDeactivate** ( **_Низ_**)
 
-
-## Syntax
-
- _expression_. **WindowDeactivate**( **_Wn_**, )
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Wn|Required| **Window**|The window that is being deactivated.|
+|Низ|Обязательное свойство.| **Окно**|Окно, — происходит деактивация функции.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For information about using events with the Application object, see  [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Сведения об использовании событий с помощью объекта приложения [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example minimizes the window when it is deactivated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see  [Using Events with the Application Object](using-events-with-the-application-object-publisher.md)for directions on how to accomplish this.
+В этом примере Свертывание окна, если он отключен. Этот код должен находиться в модуле класса и экземпляр класса необходимо правильно инициализировать данный пример работы; просмотра [Событий с помощью объекта](using-events-with-the-application-object-publisher.md)для указания о том, как это сделать.
 
 
 ```vb
@@ -51,11 +52,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

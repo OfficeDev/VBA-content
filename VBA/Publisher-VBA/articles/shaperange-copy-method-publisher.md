@@ -1,43 +1,44 @@
 ---
-title: ShapeRange.Copy Method (Publisher)
+title: "Метод ShapeRange.Copy (издатель)"
 keywords: vbapb10.chm2293778
-f1_keywords:
-- vbapb10.chm2293778
+f1_keywords: vbapb10.chm2293778
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Copy
+api_name: Publisher.ShapeRange.Copy
 ms.assetid: 11b9da00-85e4-fc7a-fa93-4a451b7bd15a
 ms.date: 06/08/2017
+ms.openlocfilehash: 96da71bfa395a37a50d4754863c076151c6ed862
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangecopy-method-publisher"></a>Метод ShapeRange.Copy (издатель)
+
+Копирует указанный объект в буфер обмена.
 
 
-# ShapeRange.Copy Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Copies the specified object to the Clipboard.
+ _выражение_. **Копия**
 
-
-## Syntax
-
- _expression_. **Copy**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Nothing
-
-
-## Remarks
-
-Use the  **Paste**method to paste the contents of the Clipboard.
-
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+Значение Nothing
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example copies shapes one and two on page one of the active publication to the Clipboard and then pastes the copies onto page two.
+Используйте метод **вставьте**Вставка содержимого буфера обмена.
+
+Метод **Copy** можно использовать на **фигуры** , но не удается метод **Paste** .
+
+
+## <a name="example"></a>Пример
+
+В этом примере копируется фигур первый и второй на странице один из активных публикации в буфер обмена и вставляет копии на второй страницы.
 
 
 ```vb
@@ -47,7 +48,7 @@ With ActiveDocument
 End With
 ```
 
-This example copies shape one on page one of the active publication to the Clipboard.
+В этом примере копирует один фигуры на странице один из активных публикации в буфер обмена.
 
 
 
@@ -56,7 +57,7 @@ This example copies shape one on page one of the active publication to the Clipb
 ActiveDocument.Pages(1).Shapes(1).Copy
 ```
 
-This example copies the text in shape one on page one of the active publication to the Clipboard.
+В этом примере копирует текст в фигуре одно на странице один из активных публикации в буфер обмена.
 
 
 

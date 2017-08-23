@@ -1,44 +1,45 @@
 ---
-title: Wizard.SetId Method (Publisher)
+title: "Метод Wizard.SetId (издатель)"
 keywords: vbapb10.chm1441798
-f1_keywords:
-- vbapb10.chm1441798
+f1_keywords: vbapb10.chm1441798
 ms.prod: publisher
-api_name:
-- Publisher.Wizard.SetId
+api_name: Publisher.Wizard.SetId
 ms.assetid: d2278716-514b-0858-d68e-868d0daf86b0
 ms.date: 06/08/2017
+ms.openlocfilehash: 588e21e97381ad3cdab5a8e12e138695fb62f21f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardsetid-method-publisher"></a>Метод Wizard.SetId (издатель)
+
+Указывает тип мастера (шаблон) для которого требуется преобразовать тип текущей публикации.
 
 
-# Wizard.SetId Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the type of the wizard (template) to which to convert the current publication type.
+ _выражение_. **SetId** ( **_Код_**)
 
-
-## Syntax
-
- _expression_. **SetId**( **_ID_**)
-
- _expression_A variable that represents a  **Wizard** object.
+ переменная _expression_A, представляющий объект **мастера** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|ID|Required| **Long**|ID of the wizard (template) to which to convert the current publication.|
+|ID|Обязательное свойство.| **Длинный**|Идентификатор в мастере (шаблон), для которого требуется преобразовать текущей публикации.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-When Microsoft Publisher converts the publication type, it automatically maps elements of the existing publication type to the new publication type as best as possible. Any elements that it cannot map appear under  **Extra Content** in the **Format Publication** task pane in the Publisher user interface; you can add them to the new publication manually by dragging them onto the publication page.
+Если Microsoft Publisher преобразует тип публикации, элементов существующего типа публикации автоматически сопоставляется новый тип публикации как наиболее по возможности. Все элементы, которые не может сопоставлять отображаются в разделе **Дополнительное содержимое** в области задач **Формат публикации** в Publisher пользовательского интерфейса; добавлены новые публикации вручную, перетащив их на странице публикации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SetId** method to convert the current publication type to a brochure.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **SetId** преобразовать тип текущей публикации брошюра.
 
 
 ```vb

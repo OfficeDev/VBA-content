@@ -1,44 +1,45 @@
 ---
-title: InlineShapes.Item Method (Publisher)
+title: "Метод InlineShapes.Item (издатель)"
 keywords: vbapb10.chm5767168
-f1_keywords:
-- vbapb10.chm5767168
+f1_keywords: vbapb10.chm5767168
 ms.prod: publisher
-api_name:
-- Publisher.InlineShapes.Item
+api_name: Publisher.InlineShapes.Item
 ms.assetid: 7cc4bb2a-e7d8-68c1-7d09-9b81a9d6b87a
 ms.date: 06/08/2017
+ms.openlocfilehash: 966cc85148674421178eaf8aecacc4c5dc47c350
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="inlineshapesitem-method-publisher"></a>Метод InlineShapes.Item (издатель)
+
+Возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий встроенная фигура, содержащихся в диапазон текста. Этот метод является элементом по умолчанию коллекции **InlineShapes** .
 
 
-# InlineShapes.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents an inline shape contained in a text range. This method is the default member of the **InlineShapes** collection.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents an  **InlineShapes** object.
+ переменная _expression_A, представляющий объект **InlineShapes** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|var|Required| **Variant**|The index position or name of the object to return. If  **Index** is an integer, the index into the collection is 1-based. If **Index** is a string, the name of the shape is used as the index. An automation error is returned if the index or name does not represent a shape in the collection.|
+|var|Обязательное свойство.| **Variant**|Индекс или имя возвращаемого объекта. Если **аргумент Index** имеет целое число, индекс в коллекции, основанный на 1. Если **аргумент Index** имеет строку, имя фигуры используется в качестве индекса. Если индекс или имя не представляет фигуры в коллекции, возвращается ошибка автоматизации.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example finds the first inline shape in a text range and flips it vertically.
+В этом примере выполняется поиск первую фигуру встроенного в диапазон текста и зеркальное отражение по вертикали.
 
 
 ```vb

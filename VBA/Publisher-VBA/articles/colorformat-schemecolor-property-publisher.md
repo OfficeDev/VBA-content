@@ -1,41 +1,42 @@
 ---
-title: ColorFormat.SchemeColor Property (Publisher)
+title: "Свойство ColorFormat.SchemeColor (издатель)"
 keywords: vbapb10.chm2555910
-f1_keywords:
-- vbapb10.chm2555910
+f1_keywords: vbapb10.chm2555910
 ms.prod: publisher
-api_name:
-- Publisher.ColorFormat.SchemeColor
+api_name: Publisher.ColorFormat.SchemeColor
 ms.assetid: 8b02c85c-a976-7b10-c4ea-6f881d702b55
 ms.date: 06/08/2017
+ms.openlocfilehash: 29b0fef46ea0e4ff7b9f11a8d595e3d507263154
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorformatschemecolor-property-publisher"></a>Свойство ColorFormat.SchemeColor (издатель)
+
+Задает цвет текущего цветовая схема. Чтение и запись.
 
 
-# ColorFormat.SchemeColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the color of the current color scheme. Read/write.
+ _выражение_. **SchemeColor**
 
-
-## Syntax
-
- _expression_. **SchemeColor**
-
- _expression_A variable that represents a  **ColorFormat** object.
+ переменная _expression_A, представляет собой объект- **ColorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbSchemeColorIndex
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **SchemeColor** property value can be one of the **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **SchemeColor** может иметь одно из **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the color of the text in shape one on page one of the active publication to accent color five in the current color scheme.
+В следующем примере устанавливается цвет текста в форму одно на странице один активный публикации диакритических знаков цвета пять в текущей цветовой схеме.
 
 
 ```vb

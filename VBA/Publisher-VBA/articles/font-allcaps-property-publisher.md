@@ -1,43 +1,44 @@
 ---
-title: Font.AllCaps Property (Publisher)
+title: "Свойство Font.AllCaps (издатель)"
 keywords: vbapb10.chm5373959
-f1_keywords:
-- vbapb10.chm5373959
+f1_keywords: vbapb10.chm5373959
 ms.prod: publisher
-api_name:
-- Publisher.Font.AllCaps
+api_name: Publisher.Font.AllCaps
 ms.assetid: e8394f91-de31-0075-51ac-8a372023f0ce
 ms.date: 06/08/2017
+ms.openlocfilehash: 805e2fb05c3e991eb8c158994b277bf4d1ee05c7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontallcaps-property-publisher"></a>Свойство Font.AllCaps (издатель)
+
+Возвращает или задает **msoTrue** , если шрифт имеет формат прописных букв или возвращает один или другие константы **MsoTriState** , если он не установлен. Чтение и запись.
 
 
-# Font.AllCaps Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets  **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
+ _выражение_. **AllCaps**
 
-
-## Syntax
-
- _expression_. **AllCaps**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
+Установка для свойства **AllCaps** **msoTrue** задает свойство **SmallCaps** **msoFalse**и наоборот.
 
-The  **AllCaps** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **AllCaps** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example checks the selected text in the active document for text formatted as all capital letters. For this example to work, there must be be an active publication with text selected.
+В этом примере проверяется выбранного текста в активном документе для текста в формате прописных букв. Для работы этого примера необходимо быть активной публикации с выделенного текста.
 
 
 ```vb
@@ -53,7 +54,7 @@ Public Sub Caps()
 End Sub
 ```
 
-This example formats the selected text as all capital letters. For this code to execute properly, an active document must exist with selected text.
+В этом примере Форматирует выбранный текст в виде прописных букв. Для правильного выполнения этого кода активный документ должен существовать с выделенного текста.
 
 
 

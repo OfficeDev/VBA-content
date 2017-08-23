@@ -1,36 +1,37 @@
 ---
-title: FillFormat.ForeColor Property (Publisher)
+title: "Свойство FillFormat.ForeColor (издатель)"
 keywords: vbapb10.chm2359553
-f1_keywords:
-- vbapb10.chm2359553
+f1_keywords: vbapb10.chm2359553
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.ForeColor
+api_name: Publisher.FillFormat.ForeColor
 ms.assetid: 39e7cf23-2ff8-69f3-8bf3-9051959c5418
 ms.date: 06/08/2017
+ms.openlocfilehash: af4c6fe3d161d4f0bb1e8afa867765b4de729c62
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatforecolor-property-publisher"></a>Свойство FillFormat.ForeColor (издатель)
+
+Возвращает или задает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет переднего плана для заливки, строки или тени. Чтение и запись.
 
 
-# FillFormat.ForeColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **[ColorFormat](colorformat-object-publisher.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
+ _выражение_. **Цвет текста**
 
-
-## Syntax
-
- _expression_. **ForeColor**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **BackColor** property to set the background color for a fill or line.
+Свойство **BackColor** задайте цвет фона для заполнения или строку.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
+В этом примере добавляет прямоугольник active публикации и затем задает цвет переднего плана, цвет фона и градиент для заливки прямоугольника.
 
 
 ```vb
@@ -43,7 +44,7 @@ With ActiveDocument.Pages(1).Shapes.AddShape _
 End With
 ```
 
-This example adds a patterned line to the active publication.
+В этом примере добавляется узорная линия active публикации.
 
 
 

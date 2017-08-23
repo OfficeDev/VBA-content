@@ -1,42 +1,43 @@
 ---
-title: Document.EndCustomUndoAction Method (Publisher)
+title: "Метод Document.EndCustomUndoAction (издатель)"
 keywords: vbapb10.chm196710
-f1_keywords:
-- vbapb10.chm196710
+f1_keywords: vbapb10.chm196710
 ms.prod: publisher
-api_name:
-- Publisher.Document.EndCustomUndoAction
+api_name: Publisher.Document.EndCustomUndoAction
 ms.assetid: 5b703366-8d0e-1bbc-3320-a2fea99468c3
 ms.date: 06/08/2017
+ms.openlocfilehash: 77286813bf3ae1ae280a40c1ddd024e526d52a1f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentendcustomundoaction-method-publisher"></a>Метод Document.EndCustomUndoAction (издатель)
+
+Конечная группа действий, реализуемые для создания единого отменить действие. ** [Метод BeginCustomUndoAction](document-begincustomundoaction-method-publisher.md)** метод используется для указания начальной точки и метки (текстовое описание) действия, используемые для создания единого отменить действие. Перенос группы действий можно отменить с помощью одной операции отмены.
 
 
-# Document.EndCustomUndoAction Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies the endpoint of a group of actions that are wrapped to create a single undo action. The  ** [BeginCustomUndoAction Method](document-begincustomundoaction-method-publisher.md)** method is used to specify the starting point and label (textual description) of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
+ _выражение_. **EndCustomUndoAction**
 
-
-## Syntax
-
- _expression_. **EndCustomUndoAction**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **BeginCustomUndoAction** method must be called before the **EndCustomUndoAction** method is called. A run-time error is returned if **EndCustomUndoAction** is called before **BeginCustomUndoAction**.
+**BeginCustomUndoAction** метод необходимо вызывать до вызова метода **EndCustomUndoAction** . Если **EndCustomUndoAction** вызывается до **BeginCustomUndoAction**, возвращается ошибка во время выполнения.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example contains two custom undo actions. The first one is created on page four of the active publication. The  **BeginCustomUndoAction** method is used to specify the point at which the custom undo action should begin. Six individual actions are performed, and then they are wrapped into one action with the call to **EndCustomUndoAction**. 
+Следующий пример содержит два действия настраиваемой отмены. Первый создается на странице четырех active публикации. Метод **BeginCustomUndoAction** используется для указания точки, в которой должно начаться настраиваемых отменить действие. Шесть отдельные действия выполняются, а затем они помещаются в одно действие при вызове **EndCustomUndoAction**. 
 
-The text in the text frame that was created within the first custom undo action is then tested to determine whether the font is Verdana. If not, the  **[Undo](document-undo-method-publisher.md)** method is called with **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** passed as a parameter. In this case there is only one undo action available. So, the call to **Undo** will undo only one action, but this one action has wrapped six actions into one.
+Чтобы определить, является ли шрифт Verdana протестирована текста в элементе frame текст, который был создан в первый настраиваемых отменить действие. В противном случае метод **[Отменить](document-undo-method-publisher.md)** вызывается с **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** передается как параметр. В этом случае имеется только один отменить действие. Таким образом вызов для **отмены** отменяет только одно действие, но это действие один переход шесть действий в одну.
 
-A second undo action is then created, and it could also be undone later with a single undo operation.
+Создается второй отменить действие, а также может быть отменено более поздней версии с помощью операции отмены одного.
 
-This example assumes that the active publication contains at least four pages.
+В этом примере предполагается, что активная публикация содержит по крайней мере четыре страницы.
 
 
 

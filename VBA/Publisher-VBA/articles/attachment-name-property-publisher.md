@@ -1,38 +1,39 @@
 ---
-title: Attachment.Name Property (Publisher)
+title: "Свойство Attachment.Name (издатель)"
 keywords: vbapb10.chm573440
-f1_keywords:
-- vbapb10.chm573440
+f1_keywords: vbapb10.chm573440
 ms.prod: publisher
-api_name:
-- Publisher.Attachment.Name
+api_name: Publisher.Attachment.Name
 ms.assetid: 7539a5ac-427f-0dfe-dc31-47ef9436fd14
 ms.date: 06/08/2017
+ms.openlocfilehash: f656f630257e02f87867b0ee903679c4e25f1cd4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="attachmentname-property-publisher"></a>Свойство Attachment.Name (издатель)
+
+Возвращает имя вложения. Только для чтения.
 
 
-# Attachment.Name Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the name of the attachment. Read-only.
+ _выражение_. **Имя**
 
-
-## Syntax
-
- _expression_. **Name**
-
- _expression_A variable that represents an  **Attachment** object.
+ переменная _expression_A, представляющий объект **вложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Attachment Object](attachment-object-publisher.md)
+ [Объект вложения](attachment-object-publisher.md)
 

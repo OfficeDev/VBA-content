@@ -1,31 +1,32 @@
 ---
-title: Plate.Color Property (Publisher)
+title: "Свойство Plate.Color (издатель)"
 keywords: vbapb10.chm2883587
-f1_keywords:
-- vbapb10.chm2883587
+f1_keywords: vbapb10.chm2883587
 ms.prod: publisher
-api_name:
-- Publisher.Plate.Color
+api_name: Publisher.Plate.Color
 ms.assetid: 4c4897f5-90bb-cb84-e9b8-47df1a912916
 ms.date: 06/08/2017
+ms.openlocfilehash: b62085b6be43dd860f5bce26470da493d9a9a017
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="platecolor-property-publisher"></a>Свойство Plate.Color (издатель)
+
+Возвращает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет сведения для указанного объекта.
 
 
-# Plate.Color Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the color information for the specified object.
+ _выражение_. **Цвет**
 
-
-## Syntax
-
- _expression_. **Color**
-
- _expression_A variable that represents a  **Plate** object.
+ переменная _expression_A, представляющий объект **формы** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the font color of the first story in the active document and tells the user if the font color is black or not.
+В этом примере проверяется цвет шрифта для первой статьи в активном документе и сообщает пользователю, если или не установлен черный цвет шрифта.
 
 
 ```vb

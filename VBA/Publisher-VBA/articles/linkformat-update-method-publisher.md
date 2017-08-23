@@ -1,31 +1,32 @@
 ---
-title: LinkFormat.Update Method (Publisher)
+title: "Метод LinkFormat.Update (издатель)"
 keywords: vbapb10.chm4390916
-f1_keywords:
-- vbapb10.chm4390916
+f1_keywords: vbapb10.chm4390916
 ms.prod: publisher
-api_name:
-- Publisher.LinkFormat.Update
+api_name: Publisher.LinkFormat.Update
 ms.assetid: a167a463-56bd-2c4e-ded5-70ea38b2ed2f
 ms.date: 06/08/2017
+ms.openlocfilehash: 88fd4b0e26576a31c01f8da404eb484610edace4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="linkformatupdate-method-publisher"></a>Метод LinkFormat.Update (издатель)
+
+Обновляет указанный связанный объект OLE.
 
 
-# LinkFormat.Update Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Updates the specified linked OLE object.
+ _выражение_. **Обновление**
 
-
-## Syntax
-
- _expression_. **Update**
-
- _expression_A variable that represents a  **LinkFormat** object.
+ переменная _expression_A, представляет собой объект- **LinkFormat** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example updates all linked OLE objects in the active publication.
+В этом примере обновляются все связанные объекты OLE в активной публикации.
 
 
 ```vb

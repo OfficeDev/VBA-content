@@ -1,36 +1,37 @@
 ---
-title: Document.ColorScheme Property (Publisher)
+title: "Свойство Document.ColorScheme (издатель)"
 keywords: vbapb10.chm196614
-f1_keywords:
-- vbapb10.chm196614
+f1_keywords: vbapb10.chm196614
 ms.prod: publisher
-api_name:
-- Publisher.Document.ColorScheme
+api_name: Publisher.Document.ColorScheme
 ms.assetid: b7748b48-eff3-bdf0-e6ce-a9a2e788d0f7
 ms.date: 06/08/2017
+ms.openlocfilehash: 52d9fac69bdba47c3e6d48b347440dcd0b517e24
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentcolorscheme-property-publisher"></a>Свойство Document.ColorScheme (издатель)
+
+Возвращает или задает объект **[ColorScheme](colorscheme-object-publisher.md)** , представляющий цвета схемы для указанной публикации. Чтение и запись.
 
 
-# Document.ColorScheme Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets the  **[ColorScheme](colorscheme-object-publisher.md)** object that represents the scheme colors for the specified publication. Read/write.
+ _выражение_. **ColorScheme**
 
-
-## Syntax
-
- _expression_. **ColorScheme**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorScheme
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the name of the current color scheme for the active publication.
+В этом примере отображается имя текущего цветовая схема active публикации.
 
 
 ```vb
@@ -39,7 +40,7 @@ With ActiveDocument.ColorScheme
 End With
 ```
 
-This example sets the color scheme of the active publication to "Alpine."
+В этом примере задается цветовая схема active публикации для «Alpine».
 
 
 

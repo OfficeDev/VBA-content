@@ -1,31 +1,32 @@
 ---
-title: TextStyle.Font Property (Publisher)
+title: "Свойство TextStyle.Font (издатель)"
 keywords: vbapb10.chm5963780
-f1_keywords:
-- vbapb10.chm5963780
+f1_keywords: vbapb10.chm5963780
 ms.prod: publisher
-api_name:
-- Publisher.TextStyle.Font
+api_name: Publisher.TextStyle.Font
 ms.assetid: 80d7177a-fef9-c3fd-f559-94644a2ba0f7
 ms.date: 06/08/2017
+ms.openlocfilehash: 223b572b42edbfd5acd4ce940fc92187b398bbf7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textstylefont-property-publisher"></a>Свойство TextStyle.Font (издатель)
+
+Задает или возвращает объект **[шрифта](font-object-publisher.md)** , представляющий атрибуты форматирования символ применяются на указанный объект. Чтение и запись.
 
 
-# TextStyle.Font Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **[Font](font-object-publisher.md)** object that represents character formatting attributes applied to the specified object. Read/write.
+ _выражение_. **Шрифт**
 
-
-## Syntax
-
- _expression_. **Font**
-
- _expression_A variable that represents a  **TextStyle** object.
+ переменная _expression_A, представляющий объект **стиля текста** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example selects text and formats the font as bold.
+В этом примере выбирает текст и форматирование шрифта как полужирным шрифтом.
 
 
 ```vb

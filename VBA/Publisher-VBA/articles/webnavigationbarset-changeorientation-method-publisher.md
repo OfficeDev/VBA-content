@@ -1,48 +1,48 @@
 ---
-title: WebNavigationBarSet.ChangeOrientation Method (Publisher)
+title: "Метод WebNavigationBarSet.ChangeOrientation (издатель)"
 keywords: vbapb10.chm8519699
-f1_keywords:
-- vbapb10.chm8519699
+f1_keywords: vbapb10.chm8519699
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSet.ChangeOrientation
+api_name: Publisher.WebNavigationBarSet.ChangeOrientation
 ms.assetid: bce05e9c-5b4a-f5a2-33a9-b40d4e05664f
 ms.date: 06/08/2017
+ms.openlocfilehash: 2d22eccd23ac8eeb255e7ba8f68be6290d6c166f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarsetchangeorientation-method-publisher"></a>Метод WebNavigationBarSet.ChangeOrientation (издатель)
+
+Задает значение константы **PbNavBarOrientation** , представляющий выравнивания на панели навигации; вертикальной или горизонтальной.
 
 
-# WebNavigationBarSet.ChangeOrientation Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets a  **PbNavBarOrientation** constant that represents the alignment of the navigation bar; vertical or horizontal.
+ _выражение_. **ChangeOrientation** ( **_Ориентация_**)
 
-
-## Syntax
-
- _expression_. **ChangeOrientation**( **_Orientation_**)
-
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Orientation|Required| **PbNavBarOrientation**|
+|Ориентация|Обязательное свойство.| **PbNavBarOrientation**|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The Orientation parameter can be one of the following  **PbNavBarOrientation** constants declared in the Microsoft Publisher type library.
+Параметр ориентации может иметь одно из следующих **PbNavBarOrientation** константы, описанные в библиотеке типов, Microsoft Publisher.
 
 
 
-| **pbNavBarOrientHorizontal**|
-| **pbNavBarOrientVertical**|
+| **pbNavBarOrientHorizontal**|| **pbNavBarOrientVertical**|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets an object variable to the first Web navigation bar set in the active document, adds it to every page, changes the orientation to horizontal, sets the horizontal alignment to center, and then sets the horizontal button count to 4.
+В следующем примере указывается, задайте объектную переменную на первом панель навигации в активный документ добавляется его для каждой страницы, изменяет ориентацию по горизонтали, задает горизонтальное выравнивание центра и наборы горизонтальной кнопки count — 4.
 
 
 ```vb

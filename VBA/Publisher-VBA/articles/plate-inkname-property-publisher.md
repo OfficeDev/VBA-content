@@ -1,38 +1,39 @@
 ---
-title: Plate.InkName Property (Publisher)
+title: "Свойство Plate.InkName (издатель)"
 keywords: vbapb10.chm2883603
-f1_keywords:
-- vbapb10.chm2883603
+f1_keywords: vbapb10.chm2883603
 ms.prod: publisher
-api_name:
-- Publisher.Plate.InkName
+api_name: Publisher.Plate.InkName
 ms.assetid: 248c1529-2706-5458-a13f-def479d16132
 ms.date: 06/08/2017
+ms.openlocfilehash: 1dcb76784a04a0f4ef6ef286f1c47b28680e9cc8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="plateinkname-property-publisher"></a>Свойство Plate.InkName (издатель)
+
+Возвращает константу **PbInkName** , представляющий имя рукописного ввода для печати с помощью этой формы. Только для чтения.
 
 
-# Plate.InkName Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
+ _выражение_. **InkName**
 
-
-## Syntax
-
- _expression_. **InkName**
-
- _expression_A variable that represents a  **Plate** object.
+ переменная _expression_A, представляющий объект **формы** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **InkName** property value can be one of the ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** constants declared in the Microsoft Publisher type library.
+Значение свойства **InkName** может иметь одно из ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Publisher.
 
-Use the  **FindPlateByInkName** method of the **[PrintablePlates](printableplates-object-publisher.md)** collection to return a specific plate by referencing its ink name.
+Используйте метод **FindPlateByInkName** **[PrintablePlates](printableplates-object-publisher.md)** коллекции для возврата определенного формы с учетом его рукописного ввода имени.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns a list of the printable plates currently in the collection for the active publication. The example assumes that separations have been specified as the active publication's print mode.
+Следующий пример возвращает список подготовленных к печати формы в настоящее время в коллекции для активной публикации. В примере предполагается, что цветоделение были указаны в качестве режима печати active публикации.
 
 
 ```vb

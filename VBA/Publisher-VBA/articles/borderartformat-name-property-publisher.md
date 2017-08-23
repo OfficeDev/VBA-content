@@ -1,40 +1,41 @@
 ---
-title: BorderArtFormat.Name Property (Publisher)
+title: "Свойство BorderArtFormat.Name (издатель)"
 keywords: vbapb10.chm7602179
-f1_keywords:
-- vbapb10.chm7602179
+f1_keywords: vbapb10.chm7602179
 ms.prod: publisher
-api_name:
-- Publisher.BorderArtFormat.Name
+api_name: Publisher.BorderArtFormat.Name
 ms.assetid: 742bb441-8661-b08d-8503-963421753cef
 ms.date: 06/08/2017
+ms.openlocfilehash: 48d8cdc206136b5d20e92871d33a05051fd303b7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartformatname-property-publisher"></a>Свойство BorderArtFormat.Name (издатель)
+
+Возвращает или задает **строковое** значение, указывающее имя указанного объекта. Чтение и запись.
 
 
-# BorderArtFormat.Name Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** value indicating the name of the specified object. Read/write.
+ _выражение_. **Имя**
 
-
-## Syntax
-
- _expression_. **Name**
-
- _expression_A variable that represents a  **BorderArtFormat** object.
+ переменная _expression_A, представляет собой объект- **BorderArtFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use an object's name in conjunction with the  **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, then `.Shapes("Rectangle 2")` will return a reference to that shape.
+Имя объекта можно использовать в сочетании с **элемента** метод или свойство **Item** возвращает ссылку на объект, если **элемент** метод или свойство для семейства сайтов, содержащее объект принимает аргумент **типа Variant** . Например, если значение свойства **Name** для фигуры — 2 прямоугольника, затем `.Shapes("Rectangle 2")` возвращает ссылку на фигуры.
 
-The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
-
-
-## See also
+Свойство **Name** является свойством по умолчанию для объектов **Узорные**, **BorderArtFormat**и **метки** .
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [BorderArtFormat Object](borderartformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект BorderArtFormat](borderartformat-object-publisher.md)
 

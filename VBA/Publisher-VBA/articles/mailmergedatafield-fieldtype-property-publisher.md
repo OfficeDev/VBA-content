@@ -1,47 +1,49 @@
 ---
-title: MailMergeDataField.FieldType Property (Publisher)
+title: "Свойство MailMergeDataField.FieldType (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.Field.FieldType
+api_name: Publisher.Field.FieldType
 ms.assetid: 9574f59b-a03f-ab0b-a2ac-085f31473f78
 ms.date: 06/08/2017
+ms.openlocfilehash: 62a7017c4a34238b40d0d2a9a99bf36bab253fc3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafieldfieldtype-property-publisher"></a>Свойство MailMergeDataField.FieldType (издатель)
+
+Возвращает константу **pbMailMergeDataFieldType** , представляющий тип данных, содержащихся в поле данных.
 
 
-# MailMergeDataField.FieldType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
+ _выражение_. **FieldType**
 
-
-## Syntax
-
- _expression_. **FieldType**
-
- _expression_A variable that represents a  **MailMergeDataField** object.
+ переменная _expression_A, представляет собой объект- **MailMergeDataField** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
  **PbMailMergeDataFieldType**
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **PBMAILMERGEDATAFIELDTYPE**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object to add a picture data field to a publication's catalog merge area.
+Используйте метод **[вставки](mailmergedatafield-insert-method-publisher.md)** объекта **[MailMergeDataField](mailmergedatafield-object-publisher.md)** Добавление поля данных изображения в области публикации.
 
-Use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
+Используйте метод **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** объекта **[TextRange](textrange-object-publisher.md)** Добавление текстового поля данных в текстовом поле в области публикации.
 
-The  **FieldType** property value can be one of the **[PbMailMergeDataFieldType](pbmailmergedatafieldtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **FieldType** может иметь одно из **[PbMailMergeDataFieldType](pbmailmergedatafieldtype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example defines a data field as a picture data field, inserts it into the catalog merge area of the specified publication, and sizes and positions the picture data field. This example assumes that the publication has been connected to a data source, and that a catalog merge area has been added to the publication.
+В этом примере определяет поля данных как поле данных изображения, вставляется в область данных для указанной публикации и размеры и располагает полей данных рисунка. В этом примере предполагается, что публикация подключен к источнику данных и что область объединения в каталог был добавлен к публикации.
 
 
 ```vb

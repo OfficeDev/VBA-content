@@ -1,44 +1,45 @@
 ---
-title: Rows.Add Method (Publisher)
+title: "Метод Rows.Add (издатель)"
 keywords: vbapb10.chm4915204
-f1_keywords:
-- vbapb10.chm4915204
+f1_keywords: vbapb10.chm4915204
 ms.prod: publisher
-api_name:
-- Publisher.Rows.Add
+api_name: Publisher.Rows.Add
 ms.assetid: 34d72709-92f7-ddc6-5be6-e74693466e61
 ms.date: 06/08/2017
+ms.openlocfilehash: be3a3cef3b601a6feedc632bdc44db4cffb98e3d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rowsadd-method-publisher"></a>Метод Rows.Add (издатель)
+
+Добавляет новый объект **строки** в указанный набор **строк** и возвращает новый объект **строки** .
 
 
-# Rows.Add Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Row** object to the specified **Rows** collection and returns the new **Row** object.
+ _выражение_. **Добавление** ( **_BeforeRow_**)
 
-
-## Syntax
-
- _expression_. **Add**( **_BeforeRow_**)
-
- _expression_A variable that represents a  **Rows** object.
+ переменная _expression_A, представляет собой объект- **строк** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|BeforeRow|Optional| **Long**|The number of the row before which to insert the new row. If this argument is omitted, the new row is added after the existing rows. An error occurs if the value of this argument does not correspond to an existing row in the table.|
+|BeforeRow|Необязательный| **Длинный**|Номер строки, перед которым необходимо вставить новую строку. Если этот аргумент задан, новая строка добавляется после существующих строк. Если значение этого аргумента не соответствует существующей строки в таблице, возникает ошибка.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Row
+Строка
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a row before row three in the specified table.
+Следующий пример добавляет строку до трех строк в указанной таблице.
 
 
 ```vb

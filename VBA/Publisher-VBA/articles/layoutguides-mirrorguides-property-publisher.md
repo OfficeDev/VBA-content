@@ -1,41 +1,42 @@
 ---
-title: LayoutGuides.MirrorGuides Property (Publisher)
+title: "Свойство LayoutGuides.MirrorGuides (издатель)"
 keywords: vbapb10.chm1114119
-f1_keywords:
-- vbapb10.chm1114119
+f1_keywords: vbapb10.chm1114119
 ms.prod: publisher
-api_name:
-- Publisher.LayoutGuides.MirrorGuides
+api_name: Publisher.LayoutGuides.MirrorGuides
 ms.assetid: 8e6ff709-21e0-2286-5d75-c7ebea05fd26
 ms.date: 06/08/2017
+ms.openlocfilehash: a81d16ea465f5b38b31e93f53e445e320b214fb7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="layoutguidesmirrorguides-property-publisher"></a>Свойство LayoutGuides.MirrorGuides (издатель)
+
+Возвращает или задает значение **Boolean** , указывающее, создается ли Microsoft Publisher положения руководство зеркала для публикации сгиб книги. **Значение true,** Если Publisher создает зеркала руководство по позиции для отдельных страниц влево и вправо в публикации сгиб книги; **Значение false,** Если же направляющие полей, строк и столбцов, применяются на всех страницах публикации. Чтение и запись.
 
 
-# LayoutGuides.MirrorGuides Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Boolean** indicating whether Microsoft Publisher creates mirror guide positions for a book fold publication. **True** if Publisher creates mirror guide positions for separate left and right pages in a book fold publication; **False** if the same margin, row, and column guides are applied to all pages in the publication. Read/write.
+ _выражение_. **MirrorGuides**
 
-
-## Syntax
-
- _expression_. **MirrorGuides**
-
- _expression_A variable that represents a  **LayoutGuides** object.
+ переменная _expression_A, представляет собой объект- **LayoutGuides** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-When the  **MirrorGuides** property is **True**, margin settings apply to right-facing pages and are mirrored for left-facing pages. In addition, when set to  **True**, the  **MirrorGuides** property sets the publication to use two master pages instead of the default of one. The first master page is for all left-facing pages and the second is for all right-facing pages in the publication. For more information, see **[MasterPages](masterpages-object-publisher.md)** object.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets Publisher to create mirror guides for a book fold publication and sets the inside and outside margins of each two-page spread. The example sets the left and right margin values for right-facing pages, and Publisher mirrors these values for left-facing pages.
+Если свойство **MirrorGuides** имеет **значение True**, параметры полей применить к страницам вправо и дублируются для страниц влево. Кроме того, если задано значение **True**, свойство **MirrorGuides** устанавливает публикации для использования двумя главными страницами вместо одной по умолчанию. — Это первый главной страницы для всех страниц влево и второй — для всех страниц вправо в публикации. Для получения дополнительных сведений см **[макетом](masterpages-object-publisher.md)** объекта.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается Publisher для создания зеркальной руководства для публикации сгиб книги и задает внутри и вне поля каждого двух страницах. В примере задается слева и значения правого поля страницы вправо и Publisher отображают эти значения для страниц влево.
 
 
 ```vb

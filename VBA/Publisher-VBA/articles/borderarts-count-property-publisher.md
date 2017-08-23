@@ -1,31 +1,32 @@
 ---
-title: BorderArts.Count Property (Publisher)
+title: "Свойство BorderArts.Count (издатель)"
 keywords: vbapb10.chm7733251
-f1_keywords:
-- vbapb10.chm7733251
+f1_keywords: vbapb10.chm7733251
 ms.prod: publisher
-api_name:
-- Publisher.BorderArts.Count
+api_name: Publisher.BorderArts.Count
 ms.assetid: 024cd14d-80f7-7372-c550-ef804661bbae
 ms.date: 06/08/2017
+ms.openlocfilehash: ace0ec3b02105a8080808635dfbde2c949dc63a3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartscount-property-publisher"></a>Свойство BorderArts.Count (издатель)
+
+Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-# BorderArts.Count Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of items in the specified collection.
+ _выражение_. **Count**
 
-
-## Syntax
-
- _expression_. **Count**
-
- _expression_A variable that represents a  **BorderArts** object.
+ переменная _expression_A, представляет собой объект- **BorderArts** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the number of pages in the active document.
+В этом примере отображается число страниц в активный документ.
 
 
 ```vb
@@ -35,7 +36,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-This example displays the number of shapes in the active document.
+В этом примере отображается количество фигур в активном документе.
 
 
 
@@ -54,11 +55,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [BorderArts Object](borderarts-object-publisher.md)
+ [Объект BorderArts](borderarts-object-publisher.md)
 

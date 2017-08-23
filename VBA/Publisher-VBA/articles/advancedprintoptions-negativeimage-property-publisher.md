@@ -1,45 +1,46 @@
 ---
-title: AdvancedPrintOptions.NegativeImage Property (Publisher)
+title: "Свойство AdvancedPrintOptions.NegativeImage (издатель)"
 keywords: vbapb10.chm7077893
-f1_keywords:
-- vbapb10.chm7077893
+f1_keywords: vbapb10.chm7077893
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.NegativeImage
+api_name: Publisher.AdvancedPrintOptions.NegativeImage
 ms.assetid: 32a524ce-da31-8dfa-3286-c5d9c74367ca
 ms.date: 06/08/2017
+ms.openlocfilehash: cec9cd70f47fcfa96e1a29e457cdfd03b8e44366
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsnegativeimage-property-publisher"></a>Свойство AdvancedPrintOptions.NegativeImage (издатель)
+
+ **Значение true** для печати негативного изображения указанной публикации. Значение по умолчанию — **False**. Чтение и запись **типа Boolean**.
 
 
-# AdvancedPrintOptions.NegativeImage Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to print a negative image of the specified publication. The default is **False**. Read/write  **Boolean**.
+ _выражение_. **NegativeImage**
 
-
-## Syntax
-
- _expression_. **NegativeImage**
-
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property is only accessible if the active printer is a PostScript printer. Returns a run-time error if a non-PostScript printer is specified. Use the  **[IsPostscriptPrinter](advancedprintoptions-ispostscriptprinter-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to determine if the specified printer is a PostScript printer.
-
-This property is saved as an application setting and applied to future instances of Microsoft Publisher.
-
-This property corresponds to the  **Negative image** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example determines if the active printer is a PostScript printer. If it is, the active publication is set to print as a horizontally and vertically mirrored, negative image of itself.
+Это свойство доступно только в том случае, если active принтер PostScript принтера. Возвращает ошибку времени выполнения, если указан другие принтера. Используйте свойство **[IsPostscriptPrinter](advancedprintoptions-ispostscriptprinter-property-publisher.md)** объекта **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** для определения, если указанный принтер PostScript принтера.
+
+Данное свойство применяется для будущего экземпляры Microsoft Publisher и сохраняются как параметр приложения.
+
+Это свойство соответствует **отрицательные** рисунка на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+
+
+## <a name="example"></a>Пример
+
+Следующий пример определяет, является ли активного принтера PostScript принтера. Если он установлен, active публикация предназначена для печати, как зеркальное копирование по горизонтали и по вертикали, отрицательные изображение самого себя.
 
 
 ```vb
@@ -57,11 +58,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

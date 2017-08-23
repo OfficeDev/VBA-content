@@ -1,43 +1,45 @@
 ---
-title: FillFormat.Transparency Property (Publisher)
+title: "Свойство FillFormat.Transparency (издатель)"
 keywords: vbapb10.chm2359569
-f1_keywords:
-- vbapb10.chm2359569
+f1_keywords: vbapb10.chm2359569
 ms.prod: publisher
 ms.assetid: f7f8e0e9-2f44-269d-6cad-29521612ab2f
 ms.date: 06/08/2017
+ms.openlocfilehash: 232a92f9938bdda4a4891441ccb213e4c9d8d439
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformattransparency-property-publisher"></a>Свойство FillFormat.Transparency (издатель)
+
+Возвращает или задает степень прозрачности указанного заливки фигуры значение между 0.0 (Непрозрачный) и 1.0 (Очистить). Чтение и запись.
 
 
-# FillFormat.Transparency Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets the degree of transparency of the specified fill for a shape as a value between 0.0 (opaque) and 1.0 (clear). Read/write.
+ _выражение_. **Прозрачность**
 
-
-## Syntax
-
- _expression_. **Transparency**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
- **Single**
-
-
-## Remarks
-
-The setting of the  **Transparency** property corresponds to the setting of the **Transparency** control in the Publisher user interface.
-
-The value of this property affects the appearance of solid-colored fills only. It has no effect on the appearance of patterned, gradient, picture, or textured fills.
+ **Один**
 
 
-## See also
+## <a name="remarks"></a>Заметки
+
+Параметр свойства **прозрачность** соответствует параметру элемента управления **прозрачность** в пользовательском интерфейсе Publisher.
+
+Значение этого свойства влияет на внешний вид только сплошного заливки. Он не влияет на внешний узора, градиента, рисунков или текстуры заливки.
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [FillFormat Object](fillformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект FillFormat](fillformat-object-publisher.md)
 

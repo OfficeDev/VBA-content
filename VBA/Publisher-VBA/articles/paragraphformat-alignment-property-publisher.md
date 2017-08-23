@@ -1,36 +1,37 @@
 ---
-title: ParagraphFormat.Alignment Property (Publisher)
+title: "Свойство ParagraphFormat.Alignment (издатель)"
 keywords: vbapb10.chm5439491
-f1_keywords:
-- vbapb10.chm5439491
+f1_keywords: vbapb10.chm5439491
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.Alignment
+api_name: Publisher.ParagraphFormat.Alignment
 ms.assetid: db66f8b8-a813-418c-2735-e5299e6a6045
 ms.date: 06/08/2017
+ms.openlocfilehash: 84e1ff5b8b4ddf759c29a42ccacd1c3b43a2c757
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatalignment-property-publisher"></a>Свойство ParagraphFormat.Alignment (издатель)
+
+Возвращает или задает значение константы **PbParagraphAlignmentType** , представляющий выравнивание для указанного абзацев. Чтение и запись.
 
 
-# ParagraphFormat.Alignment Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
+ _выражение_. **Выравнивание**
 
-
-## Syntax
-
- _expression_. **Alignment**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Alignment** property value can be one of the **[PbParagraphAlignmentType](pbparagraphalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **Alignment** может иметь одно из **[PbParagraphAlignmentType](pbparagraphalignmenttype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a new text box to the first page of the active publication, and then add text and sets the paragraph alignment and font formatting.
+В этом примере добавляется новое текстовое поле для первой страницы active публикации и затем добавить текст и задает выравнивание абзаца и форматирование шрифта.
 
 
 ```vb

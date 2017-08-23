@@ -1,32 +1,33 @@
 ---
-title: FillFormat Object (Publisher)
+title: "Объект FillFormat (издатель)"
 keywords: vbapb10.chm2424831
-f1_keywords:
-- vbapb10.chm2424831
+f1_keywords: vbapb10.chm2424831
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat
+api_name: Publisher.FillFormat
 ms.assetid: 0a5d4f7a-c42a-28ad-c86d-ac9828a3b874
 ms.date: 06/08/2017
+ms.openlocfilehash: 2240a9c5d4f6367a4724db065d983dfdbc07b372
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformat-object-publisher"></a>Объект FillFormat (издатель)
 
-
-# FillFormat Object (Publisher)
-
-Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semitransparent fill.
+Представляет заполнения форматирования для фигуры. Фигура может иметь сплошной, градиентной, текстуры, шаблон, рисунков или Полупрозрачная заливки.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Many of the properties of the  **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
+Многие из свойств объекта **FillFormat** доступны только для чтения. Чтобы задать одно из этих свойств, необходимо применить соответствующий метод.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Fill](shape-fill-property-publisher.md)** property to return a **FillFormat** object. The following example adds a shape to the active document and then sets the gradient and color for the shape's fill.
+Используйте свойство **[заполните поля](shape-fill-property-publisher.md)** для возврата объекта **FillFormat** . В следующем примере добавляется фигура в активный документ и затем задает градиентной и цвет заливки фигуры.
  
 
  
@@ -43,37 +44,37 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
 |[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)|
-|[Patterned](fillformat-patterned-method-publisher.md)|
+|[Узорные](fillformat-patterned-method-publisher.md)|
 |[PresetGradient](fillformat-presetgradient-method-publisher.md)|
 |[PresetTextured](fillformat-presettextured-method-publisher.md)|
-|[Solid](fillformat-solid-method-publisher.md)|
+|[Сплошной](fillformat-solid-method-publisher.md)|
 |[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)|
 |[UserPicture](fillformat-userpicture-method-publisher.md)|
 |[UserTextured](fillformat-usertextured-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](fillformat-application-property-publisher.md)|
-|[BackColor](fillformat-backcolor-property-publisher.md)|
-|[ForeColor](fillformat-forecolor-property-publisher.md)|
+|[Приложения](fillformat-application-property-publisher.md)|
+|[Цвет фона](fillformat-backcolor-property-publisher.md)|
+|[Цвет текста](fillformat-forecolor-property-publisher.md)|
 |[GradientAngle](fillformat-gradientangle-property-publisher.md)|
 |[GradientColorType](fillformat-gradientcolortype-property-publisher.md)|
 |[GradientDegree](fillformat-gradientdegree-property-publisher.md)|
 |[GradientStyle](fillformat-gradientstyle-property-publisher.md)|
 |[GradientVariant](fillformat-gradientvariant-property-publisher.md)|
-|[Parent](fillformat-parent-property-publisher.md)|
-|[Pattern](fillformat-pattern-property-publisher.md)|
+|[Родительский раздел](fillformat-parent-property-publisher.md)|
+|[Шаблон](fillformat-pattern-property-publisher.md)|
 |[PresetGradientType](fillformat-presetgradienttype-property-publisher.md)|
 |[PresetTexture](fillformat-presettexture-property-publisher.md)|
 |[RotateWithObject](fillformat-rotatewithobject-property-publisher.md)|
@@ -84,7 +85,7 @@ End Sub
 |[TextureOffsetY](fillformat-textureoffsety-property-publisher.md)|
 |[TextureType](fillformat-texturetype-property-publisher.md)|
 |[TextureVerticalScale](fillformat-textureverticalscale-property-publisher.md)|
-|[Transparency](fillformat-transparency-property-publisher.md)|
+|[Прозрачность](fillformat-transparency-property-publisher.md)|
 |[Type](fillformat-type-property-publisher.md)|
 |[Visible](fillformat-visible-property-publisher.md)|
 

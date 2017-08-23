@@ -1,43 +1,44 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (Publisher)
+title: "Свойство LineFormat.BeginArrowheadLength (издатель)"
 keywords: vbapb10.chm3408129
-f1_keywords:
-- vbapb10.chm3408129
+f1_keywords: vbapb10.chm3408129
 ms.prod: publisher
-api_name:
-- Publisher.LineFormat.BeginArrowheadLength
+api_name: Publisher.LineFormat.BeginArrowheadLength
 ms.assetid: 87daaecf-3b2b-7f21-47fd-bdf192dcac60
 ms.date: 06/08/2017
+ms.openlocfilehash: ccfc37879e17a399849956a333ae45fa96f97715
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatbeginarrowheadlength-property-publisher"></a>Свойство LineFormat.BeginArrowheadLength (издатель)
+
+Возвращает или задает константой **MsoArrowheadLength**, указывающее длину стрелки в начале указанной строке. Чтение и запись.
 
 
-# LineFormat.BeginArrowheadLength Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoArrowheadLength**constant indicating the length of the arrowhead at the beginning of the specified line. Read/write.
+ _выражение_. **BeginArrowheadLength**
 
-
-## Syntax
-
- _expression_. **BeginArrowheadLength**
-
- _expression_A variable that represents a  **LineFormat** object.
+ переменная _expression_A, представляет собой объект- **LineFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoArrowheadLength
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **BeginArrowheadLength** property value can be one of the ** [MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **BeginArrowheadLength** может иметь одно из ** [MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
-Use the  **[EndArrowheadLength](lineformat-endarrowheadlength-property-publisher.md)** property to return or set the length of the arrowhead at the end of the line.
+Свойство **[EndArrowheadLength](lineformat-endarrowheadlength-property-publisher.md)** используется для возвращения или задания длина стрелки в конце строки.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
+В этом примере добавляет строку active публикации. Существует короткий, узкий овал на начальную точку строки и long, широкий треугольник в его конечной точки.
 
 
 ```vb

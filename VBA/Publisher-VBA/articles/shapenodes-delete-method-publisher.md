@@ -1,39 +1,40 @@
 ---
-title: ShapeNodes.Delete Method (Publisher)
+title: "Метод ShapeNodes.Delete (издатель)"
 keywords: vbapb10.chm3473425
-f1_keywords:
-- vbapb10.chm3473425
+f1_keywords: vbapb10.chm3473425
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNodes.Delete
+api_name: Publisher.ShapeNodes.Delete
 ms.assetid: 09f7a8ef-cefd-5a68-f0a6-e99c2f111ea6
 ms.date: 06/08/2017
+ms.openlocfilehash: 047dff49a4d6de0914d0994e919bea28feeeda2b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenodesdelete-method-publisher"></a>Метод ShapeNodes.Delete (издатель)
+
+Удаляет объект узел указанного фигуры.
 
 
-# ShapeNodes.Delete Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Deletes the specified shape node object.
+ _выражение_. **Удаление** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Delete**( **_Index_**)
-
- _expression_A variable that represents a  **ShapeNodes** object.
+ переменная _expression_A, представляет собой объект- **ShapeNodes** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **[INT]**| **Long**. The number of the shape node to delete.|
+|Индекс|Обязательное свойство.| **[INT]**| **Длинные**. Число фигур узел для удаления.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example deletes the first node in the first shape in the active publication.
+В этом примере удаляется первый узел в первую фигуру в активной публикации.
 
 
 ```vb

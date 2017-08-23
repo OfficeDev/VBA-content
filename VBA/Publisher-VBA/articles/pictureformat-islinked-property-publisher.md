@@ -1,52 +1,53 @@
 ---
-title: PictureFormat.IsLinked Property (Publisher)
+title: "Свойство PictureFormat.IsLinked (издатель)"
 keywords: vbapb10.chm3604769
-f1_keywords:
-- vbapb10.chm3604769
+f1_keywords: vbapb10.chm3604769
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.IsLinked
+api_name: Publisher.PictureFormat.IsLinked
 ms.assetid: 2215cee8-864d-7228-8692-a428385d2be2
 ms.date: 06/08/2017
+ms.openlocfilehash: 02b24287a943c2175358ac8dcd2c50fb297293f6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatislinked-property-publisher"></a>Свойство PictureFormat.IsLinked (издатель)
+
+Возвращает константу **MsoTriState** , указывающее, является ли указанный рисунок рисунка или объекта OLE. Только для чтения.
 
 
-# PictureFormat.IsLinked Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **MsoTriState** constant indicating whether the specified picture is a linked picture or OLE object. Read-only.
+ _выражение_. **IsLinked**
 
-
-## Syntax
-
- _expression_. **IsLinked**
-
- _expression_A variable that represents an  **PictureFormat** object.
+ переменная _expression_A, представляющий объект **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Returns  **msoFalse** for pasted or embedded pictures and OLE objects.
+Возвращает **msoFalse** для вставленных или внедренного изображения и объекты OLE.
 
-If a picture or OLE object is linked, several additional properties of the  **[PictureFormat](pictureformat-object-publisher.md)** object dealing with the original picture (such as ** [OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)**) are accessible.
+Если связанного рисунка или объекта OLE несколько дополнительных свойств **[PictureFormat](pictureformat-object-publisher.md)** объект реагирования на исходный рисунок (например, ** [OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)**) доступны.
 
-The  **IsLinked** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **IsLinked** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The specified picture is not a linked picture.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The specified picture is a linked picture.|
+| **msoFalse**|Указанный рисунок не связанного рисунка.|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Указанный рисунок является связанного рисунка.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes the shape is a picture.
+В следующем примере возвращается, содержит ли первую фигуру на первой странице активная публикация альфа-канал. Если связь изображения, а исходный рисунок содержит альфа-канал, также возвращаются. В этом примере предполагается, что фигурой является рисунок.
 
 
 ```vb

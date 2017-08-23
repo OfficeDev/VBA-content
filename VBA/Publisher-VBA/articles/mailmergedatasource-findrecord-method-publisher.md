@@ -1,45 +1,46 @@
 ---
-title: MailMergeDataSource.FindRecord Method (Publisher)
+title: "Метод MailMergeDataSource.FindRecord (издатель)"
 keywords: vbapb10.chm6291480
-f1_keywords:
-- vbapb10.chm6291480
+f1_keywords: vbapb10.chm6291480
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.FindRecord
+api_name: Publisher.MailMergeDataSource.FindRecord
 ms.assetid: a4b37255-bdff-ac61-6d18-05a4fe008beb
 ms.date: 06/08/2017
+ms.openlocfilehash: dc445b50892eed9827e9d46c350d8d9687ccabd8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcefindrecord-method-publisher"></a>Метод MailMergeDataSource.FindRecord (издатель)
+
+Осуществляет поиск содержимого источника данных указанного слияния почты для текста в отдельного поля. Возвращает значение **типа Boolean** , указывающее, будет ли найден искомый текст; **Значение true,** Если текст поиска найден.
 
 
-# MailMergeDataSource.FindRecord Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Searches the contents of the specified mail merge data source for text in a particular field. Returns a  **Boolean** indicating whether the search text is found; **True** if the search text is found.
+ _выражение_. **НайтиЗапись** ( **_FindText_**, **_поле_**)
 
-
-## Syntax
-
- _expression_. **FindRecord**( **_FindText_**,  **_Field_**)
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|FindText|Required| **String**|The text to look for.|
-|Field|Optional| **String**|The name of the field to be searched.|
+|FindText|Обязательное свойство.| **String**|Текст для поиска.|
+|Поле|Необязательный| **String**|Имя поля для поиска.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays a merge publication for the first record in which the FirstName field contains Joe. If the record is found, the record number is stored in a variable.
+В этом примере отображаются публикации слиянием для первой записи, в котором поля FirstName содержит Джо. Если запись найдена, номер записи хранится в переменной.
 
 
 ```vb

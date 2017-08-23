@@ -1,29 +1,30 @@
 ---
-title: ColorFormat.BaseCMYK Property (Publisher)
+title: "Свойство ColorFormat.BaseCMYK (издатель)"
 keywords: vbapb10.chm2555921
-f1_keywords:
-- vbapb10.chm2555921
+f1_keywords: vbapb10.chm2555921
 ms.prod: publisher
-api_name:
-- Publisher.ColorFormat.BaseCMYK
+api_name: Publisher.ColorFormat.BaseCMYK
 ms.assetid: 6bdbace8-0558-65c9-2c6a-235038bf528a
 ms.date: 06/08/2017
+ms.openlocfilehash: 33e6820dc702526ec6128f0ea5bd7fde2a83405b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorformatbasecmyk-property-publisher"></a>Свойство ColorFormat.BaseCMYK (издатель)
+
+Возвращает значение родительского объекта **ColorFormat** цвета базового голубой пурпурный желтый черный (CMYK) перед любой оттенок или применяется к цвет заливки. Только для чтения.
 
 
-# ColorFormat.BaseCMYK Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the base cyan-magenta-yellow-black (CMYK) color value of the parent  **ColorFormat** object before any tinting or shading is applied to the color. Read-only.
+ _выражение_. **BaseCMYK**
 
-
-## Syntax
-
- _expression_. **BaseCMYK**
-
- _expression_A variable that represents a  **ColorFormat** object.
+ переменная _expression_A, представляет собой объект- **ColorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorCMYK
 

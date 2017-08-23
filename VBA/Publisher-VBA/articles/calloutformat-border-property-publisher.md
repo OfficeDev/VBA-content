@@ -1,41 +1,42 @@
 ---
-title: CalloutFormat.Border Property (Publisher)
+title: "Свойство CalloutFormat.Border (издатель)"
 keywords: vbapb10.chm2490628
-f1_keywords:
-- vbapb10.chm2490628
+f1_keywords: vbapb10.chm2490628
 ms.prod: publisher
-api_name:
-- Publisher.CalloutFormat.Border
+api_name: Publisher.CalloutFormat.Border
 ms.assetid: 64a72ec7-4cc8-f0c7-9858-45e97bac0411
 ms.date: 06/08/2017
+ms.openlocfilehash: 6e37a6456836853f6b4910ebdd35e483814748e7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="calloutformatborder-property-publisher"></a>Свойство CalloutFormat.Border (издатель)
+
+Возвращает или задает константой **MsoTriState**, указывающее, является ли текст в указанном выноски заключается в границы. Чтение и запись.
 
 
-# CalloutFormat.Border Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState**constant indicating whether the text in the specified callout is surrounded by a border. Read/write.
+ _выражение_. **Границы**
 
-
-## Syntax
-
- _expression_. **Border**
-
- _expression_A variable that represents a  **CalloutFormat** object.
+ переменная _expression_A, представляет собой объект- **CalloutFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Border** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **границы** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an oval to the active publication and a callout that points to the oval. The callout text will have a border, but not a vertical accent bar that separates the text from the callout line.
+В этом примере добавляется овала active публикации и выноски, указывающий на овал. Текст выноски будут иметь границы, но не вертикальная черта, отделяющий текст из строки выноски.
 
 
 ```vb

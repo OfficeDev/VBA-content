@@ -1,41 +1,42 @@
 ---
-title: Cell.CellTextOrientation Property (Publisher)
+title: "Свойство Cell.CellTextOrientation (издатель)"
 keywords: vbapb10.chm5111845
-f1_keywords:
-- vbapb10.chm5111845
+f1_keywords: vbapb10.chm5111845
 ms.prod: publisher
-api_name:
-- Publisher.Cell.CellTextOrientation
+api_name: Publisher.Cell.CellTextOrientation
 ms.assetid: ad2c2f15-358c-7bbc-b249-b886a99ea4a5
 ms.date: 06/08/2017
+ms.openlocfilehash: 93bc9ca3ff0001f662776b5529abb6394e116ab5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellcelltextorientation-property-publisher"></a>Свойство Cell.CellTextOrientation (издатель)
+
+Возвращает или задает **PbTextOrientation** , представляющий поток текст в указанной ячейке таблицы. Чтение и запись.
 
 
-# Cell.CellTextOrientation Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
+ _выражение_. **CellTextOrientation**
 
-
-## Syntax
-
- _expression_. **CellTextOrientation**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbTextOrientation
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **CellTextOrientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **CellTextOrientation** может иметь одно из **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example increases the height of the cells in the first row, and then adds vertically-oriented heading text.
+В этом примере увеличивается высота ячеек в первой строке и затем добавляет текст по вертикали ориентированного заголовка.
 
 
 ```vb

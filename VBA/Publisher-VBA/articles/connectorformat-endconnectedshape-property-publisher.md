@@ -1,43 +1,44 @@
 ---
-title: ConnectorFormat.EndConnectedShape Property (Publisher)
+title: "Свойство ConnectorFormat.EndConnectedShape (издатель)"
 keywords: vbapb10.chm3211524
-f1_keywords:
-- vbapb10.chm3211524
+f1_keywords: vbapb10.chm3211524
 ms.prod: publisher
-api_name:
-- Publisher.ConnectorFormat.EndConnectedShape
+api_name: Publisher.ConnectorFormat.EndConnectedShape
 ms.assetid: 3ee4a031-228a-cac7-8268-29bfc3a888c1
 ms.date: 06/08/2017
+ms.openlocfilehash: c0cb8d1c011ca24a6b5d50e88a59baad8426be1d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="connectorformatendconnectedshape-property-publisher"></a>Свойство ConnectorFormat.EndConnectedShape (издатель)
+
+Возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий фигуры, к которому присоединяется в конец указанный соединитель.
 
 
-# ConnectorFormat.EndConnectedShape Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents the shape to which the end of the specified connector is attached.
+ _выражение_. **EndConnectedShape**
 
-
-## Syntax
-
- _expression_. **EndConnectedShape**
-
- _expression_A variable that represents an  **ConnectorFormat** object.
+ переменная _expression_A, представляющий объект **ConnectorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If the end of the specified connector isn't attached to a shape, an error occurs.
+Если в конец указанный соединитель не будет присоединен к фигуры, возникает ошибка.
 
-Use the  **[BeginConnectedShape](connectorformat-beginconnectedshape-property-publisher.md)** property to return the shape attached to the beginning of a connector.
+Свойство **[BeginConnectedShape](connectorformat-beginconnectedshape-property-publisher.md)** возвращает фигуры, подключенного к началу соединитель.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example assumes that the first page in the active publication already contains two shapes attached by a connector named Conn1To2. The code adds a rectangle and a connector to the first page. The end of the new connector will be attached to the same connection site as the end of the connector named Conn1To2, and the beginning of the new connector will be attached to connection site one on the new rectangle.
+В этом примере предполагается, что первая страница в активной публикации уже содержит две фигуры, подключенное соединителем с именем Conn1To2. Код добавляет прямоугольник и соединитель для первой страницы. Конец новый соединитель будет присоединено на том же сайте подключения в конец соединителя с именем Conn1To2 и подключения к сайту один на новый прямоугольник будет присоединено начала нового соединителя.
 
 
 ```vb

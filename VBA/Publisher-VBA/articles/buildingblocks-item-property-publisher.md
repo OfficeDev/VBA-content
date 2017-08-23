@@ -1,30 +1,32 @@
 ---
-title: BuildingBlocks.Item Property (Publisher)
+title: "Свойство BuildingBlocks.Item (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.BuildingBlocks.Item
+api_name: Publisher.BuildingBlocks.Item
 ms.assetid: faa5e9c5-a80e-6629-21b0-acdd5afbe626
 ms.date: 06/08/2017
+ms.openlocfilehash: 1393f4602b6f299a3be610c5fa3cf3e6709a6c7c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="buildingblocksitem-property-publisher"></a>Свойство BuildingBlocks.Item (издатель)
+
+Возвращает указанный объект **[BuildingBlock](buildingblock-object-publisher.md)** **BuildingBlocks** коллекции. Только для чтения.
 
 
-# BuildingBlocks.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the specified  **[BuildingBlock](buildingblock-object-publisher.md)** object from a **BuildingBlocks** collection. Read-only.
+ _выражение_. **Элемент** ( **_Элемент_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Item_**)
-
- _expression_A variable that represents a  **BuildingBlocks** object.
+ переменная _expression_A, представляет собой объект- **BuildingBlocks** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the building block object to return.|
+|Item|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта стандартного блока.|
 

@@ -1,30 +1,31 @@
 ---
-title: Printer.PaperHeight Property (Publisher)
+title: "Свойство Printer.PaperHeight (издатель)"
 keywords: vbapb10.chm8978441
-f1_keywords:
-- vbapb10.chm8978441
+f1_keywords: vbapb10.chm8978441
 ms.prod: publisher
-api_name:
-- Publisher.Printer.PaperHeight
+api_name: Publisher.Printer.PaperHeight
 ms.assetid: 2c97adb8-0a24-c375-6105-375b203d5640
 ms.date: 06/08/2017
+ms.openlocfilehash: 143520a464dcf92afd15c0564d228eda9a05a394
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="printerpaperheight-property-publisher"></a>Свойство Printer.PaperHeight (издатель)
+
+Получает или задает высоту печатной страницы в точках. Чтение и запись.
 
 
-# Printer.PaperHeight Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Gets or sets the height of the printed page in points. Read/write.
+ _выражение_. **PaperHeight**
 
-
-## Syntax
-
- _expression_. **PaperHeight**
-
- _expression_A variable that represents a  **Printer** object.
+ переменная _expression_A, представляющий объект **Printer** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 

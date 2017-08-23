@@ -1,36 +1,37 @@
 ---
-title: ThreeDFormat.ExtrusionColor Property (Publisher)
+title: "Свойство ThreeDFormat.ExtrusionColor (издатель)"
 keywords: vbapb10.chm3801345
-f1_keywords:
-- vbapb10.chm3801345
+f1_keywords: vbapb10.chm3801345
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.ExtrusionColor
+api_name: Publisher.ThreeDFormat.ExtrusionColor
 ms.assetid: 209a47fd-a219-9533-1a4a-572dfa4312f2
 ms.date: 06/08/2017
+ms.openlocfilehash: 62c93198ebac7ab74688ba39a1927efe32a75fcb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatextrusioncolor-property-publisher"></a>Свойство ThreeDFormat.ExtrusionColor (издатель)
+
+Возвращает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет придания объема фигуры.
 
 
-# ThreeDFormat.ExtrusionColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the color of the shape's extrusion.
+ _выражение_. **ExtrusionColor**
 
-
-## Syntax
-
- _expression_. **ExtrusionColor**
-
- _expression_A variable that represents an  **ThreeDFormat** object.
+ переменная _expression_A, представляющий объект **ThreeDFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorFormat
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an oval to the active publication, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+В этом примере добавляется овала active публикации и затем указывает, что овала быть вытянутый глубина 50 точек и выбирать должен быть фиолетовым.
 
 
 ```vb

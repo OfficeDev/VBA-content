@@ -1,41 +1,42 @@
 ---
-title: MailMerge.ViewMailMergeFieldCodes Property (Publisher)
+title: "Свойство MailMerge.ViewMailMergeFieldCodes (издатель)"
 keywords: vbapb10.chm6225928
-f1_keywords:
-- vbapb10.chm6225928
+f1_keywords: vbapb10.chm6225928
 ms.prod: publisher
-api_name:
-- Publisher.MailMerge.ViewMailMergeFieldCodes
+api_name: Publisher.MailMerge.ViewMailMergeFieldCodes
 ms.assetid: 05b5e6e2-10ae-c6e0-3214-7016295703e2
 ms.date: 06/08/2017
+ms.openlocfilehash: 7f67265193cb1d6d3d22c18aa24c3c0786fc6294
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergeviewmailmergefieldcodes-property-publisher"></a>Свойство MailMerge.ViewMailMergeFieldCodes (издатель)
+
+ **Значение true,** Если имена полей слияния отображаются в публикации слияния почты; **Значение false,** Если отображаются данные из текущей записи. Чтение и запись **типа Boolean**. .
 
 
-# MailMerge.ViewMailMergeFieldCodes Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if merge field names are displayed in a mail merge publication; **False** if information from the current record is displayed. Read/write **Boolean**. .
+ _выражение_. **ViewMailMergeFieldCodes**
 
-
-## Syntax
-
- _expression_. **ViewMailMergeFieldCodes**
-
- _expression_A variable that represents a  **MailMerge** object.
+ переменная _expression_A, представляет собой объект- **слияния** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-If the active publication is not a mail merge publication, using this property has no effect.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example hides the mail merge field codes in the active publication.
+Если активная публикация не публикации слияния, с помощью этого свойства не оказывает влияния.
+
+
+## <a name="example"></a>Пример
+
+В этом примере скрывает коды полей слияния почты в активной публикации.
 
 
 ```vb

@@ -1,36 +1,38 @@
 ---
-title: Font.TextShadow Property (Publisher)
+title: "Свойство Font.TextShadow (издатель)"
 keywords: vbapb10.chm5374022
-f1_keywords:
-- vbapb10.chm5374022
+f1_keywords: vbapb10.chm5374022
 ms.prod: publisher
 ms.assetid: 052948b2-205b-6934-d659-17e3b17f8590
 ms.date: 06/08/2017
+ms.openlocfilehash: ebaa5535bbcdb279cab2c648db021383f7aa8019
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fonttextshadow-property-publisher"></a>Свойство Font.TextShadow (издатель)
+
+Возвращает объект [ShadowFormat](shadowformat-object-publisher.md) , указывающее, тени для выбранного шрифта.
 
 
-# Font.TextShadow Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  [ShadowFormat](shadowformat-object-publisher.md) object that specifies the shadow formatting for the specified font.
+ _выражение_. **TextShadow**
 
-
-## Syntax
-
- _expression_. **TextShadow**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **SHADOWFORMAT**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Font Object](font-object-publisher.md)
+ [Объект Font](font-object-publisher.md)
 

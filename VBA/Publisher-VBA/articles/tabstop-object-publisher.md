@@ -1,32 +1,33 @@
 ---
-title: TabStop Object (Publisher)
+title: "Объект TabStop (издатель)"
 keywords: vbapb10.chm5701631
-f1_keywords:
-- vbapb10.chm5701631
+f1_keywords: vbapb10.chm5701631
 ms.prod: publisher
-api_name:
-- Publisher.TabStop
+api_name: Publisher.TabStop
 ms.assetid: 74e71d75-503f-ef57-ddeb-24a788402df2
 ms.date: 06/08/2017
+ms.openlocfilehash: e05ca924ce5c63324612ee5e3bf7e188f6aa2013
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="tabstop-object-publisher"></a>Объект TabStop (издатель)
 
-
-# TabStop Object (Publisher)
-
-Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](tabstops-object-publisher.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
+Представляет один позиции табуляции. Объект **TabStop** является элементом коллекции **[TabStops](tabstops-object-publisher.md)** . Коллекция **TabStops** представляет все пользовательские и табуляции по умолчанию в абзаца или группы абзацев.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Set the  **[DefaultTabStop](document-defaulttabstop-property-publisher.md)** property to adjust the spacing of default tab stops.
+Присвойте свойству **[DefaultTabStop](document-defaulttabstop-property-publisher.md)** интервал табуляции по умолчанию.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **[Tabs](tabstops-add-method-publisher.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
+Используйте **[вкладки](tabstops-add-method-publisher.md)** (индекс), где индекс — это расположение табуляции (в пунктах) или номер индекса, чтобы возвратить объект **TabStop** . Табуляции, индексируются числовым слева направо на линейке. Следующий пример удаляет первый настраиваемых табуляции из выделенных абзацев.
  
 
  
@@ -37,7 +38,7 @@ Sub ClearTabStop()
 End Sub
 ```
 
-The following example adds a right-aligned tab stop positioned at 2 inches to the selected paragraphs.
+В следующем примере добавляется по правому краю позиции табуляции, размещенный в 2 дюйма для выделенных абзацев.
  
 
  
@@ -51,7 +52,7 @@ Sub ChangeTabStop()
 End Sub
 ```
 
-Use the  **[Add](tabstops-add-method-publisher.md)** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
+Используйте метод **[Add](tabstops-add-method-publisher.md)** для добавления позиции табуляции. В следующем примере добавляется два табуляции для выделенных абзацев. Первый табуляции — это вкладка по левому краю с точками заполнитель, размещенный в 1 дюйм (72 точки). Второй позиции табуляции выравнивается по центру и размещенный в 2 дюйма.
  
 
  
@@ -70,23 +71,23 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Clear](tabstop-clear-method-publisher.md)|
+|[Очистить](tabstop-clear-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Alignment](tabstop-alignment-property-publisher.md)|
-|[Application](tabstop-application-property-publisher.md)|
-|[Leader](tabstop-leader-property-publisher.md)|
-|[Parent](tabstop-parent-property-publisher.md)|
+|[Выравнивание](tabstop-alignment-property-publisher.md)|
+|[Приложения](tabstop-application-property-publisher.md)|
+|[Ведущий сотрудник](tabstop-leader-property-publisher.md)|
+|[Родительский раздел](tabstop-parent-property-publisher.md)|
 |[Position](tabstop-position-property-publisher.md)|
 

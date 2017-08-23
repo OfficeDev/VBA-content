@@ -1,36 +1,38 @@
 ---
-title: ShadowFormat.RotateWithShape Property (Publisher)
+title: "Свойство ShadowFormat.RotateWithShape (издатель)"
 keywords: vbapb10.chm3670288
-f1_keywords:
-- vbapb10.chm3670288
+f1_keywords: vbapb10.chm3670288
 ms.prod: publisher
 ms.assetid: 1f5f2cdb-9712-0c05-f8ef-9c0779040ac4
 ms.date: 06/08/2017
+ms.openlocfilehash: 93c860cb2645fc5359dcfc1ba67fd4420627bdc9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shadowformatrotatewithshape-property-publisher"></a>Свойство ShadowFormat.RotateWithShape (издатель)
+
+Возвращает или задает константой **MsoTriState** , представляющий необходимость поворот тени, когда Поворот фигуры. Чтение и запись.
 
 
-# ShadowFormat.RotateWithShape Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant that represents whether to rotate the shadow when rotating the shape. Read/write.
+ _выражение_. **RotateWithShape**
 
-
-## Syntax
-
- _expression_. **RotateWithShape**
-
- _expression_A variable that represents a  **ShadowFormat** object.
+ переменная _expression_A, представляет собой объект- **ShadowFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MSOTRISTATE**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [ShadowFormat Object](shadowformat-object-publisher.md)
+ [Объект ShadowFormat](shadowformat-object-publisher.md)
 

@@ -1,31 +1,32 @@
 ---
-title: Hyperlink.PageID Property (Publisher)
+title: "Свойство Hyperlink.PageID (издатель)"
 keywords: vbapb10.chm4587525
-f1_keywords:
-- vbapb10.chm4587525
+f1_keywords: vbapb10.chm4587525
 ms.prod: publisher
-api_name:
-- Publisher.Hyperlink.PageID
+api_name: Publisher.Hyperlink.PageID
 ms.assetid: 1b5051eb-e6b4-a5a7-610a-5be03863a92b
 ms.date: 06/08/2017
+ms.openlocfilehash: 559fb42cd9e607f57ca0dd4b8af574305862315d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="hyperlinkpageid-property-publisher"></a>Свойство Hyperlink.PageID (издатель)
+
+Возвращает или задает **Long** , указывающее, страницы публикации, который является целевым для указанного гиперссылки. Чтение и запись.
 
 
-# Hyperlink.PageID Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** indicating the page in the publication that is the destination for the specified hyperlink. Read/write.
+ _выражение_. **PageID**
 
-
-## Syntax
-
- _expression_. **PageID**
-
- _expression_A variable that represents a  **Hyperlink** object.
+ переменная _expression_A, представляющий объект **гиперссылки** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example reports what page the first hyperlink in the active publication is linked to.
+В следующем примере сообщается какие гиперссылки в активной публикации, связанной со страницы.
 
 
 ```vb

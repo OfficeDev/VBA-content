@@ -1,31 +1,32 @@
 ---
-title: Cell.Select Method (Publisher)
+title: "Метод Cell.Select (издатель)"
 keywords: vbapb10.chm5111843
-f1_keywords:
-- vbapb10.chm5111843
+f1_keywords: vbapb10.chm5111843
 ms.prod: publisher
-api_name:
-- Publisher.Cell.Select
+api_name: Publisher.Cell.Select
 ms.assetid: 37a026a3-67ec-7a13-5eb4-66e14918579d
 ms.date: 06/08/2017
+ms.openlocfilehash: f0853723c6059688b93955f3cef3227626706b61
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellselect-method-publisher"></a>Метод Cell.Select (издатель)
+
+Выбирает указанный объект.
 
 
-# Cell.Select Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Selects the specified object.
+ _выражение_. **Выберите**
 
-
-## Syntax
-
- _expression_. **Select**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example selects the upper-left cell from a table that has been added to the first page in the active publication.
+В этом примере выбирает левый верхний угол из таблицы, который был добавлен к первой страницы в активной публикации.
 
 
 ```vb
@@ -40,7 +41,7 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-This example selects the first column from a table that has been added to the first page in the active publication.
+В этом примере выбирает первый столбец из таблицы, который был добавлен к первой страницы в активной публикации.
 
 
 
@@ -58,7 +59,7 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-This example selects the first five characters in shape one on page one of the active publication.
+В этом примере выбирает первые пять знаков в форму одно на странице один из активных публикации.
 
 
 

@@ -1,30 +1,31 @@
 ---
-title: ShapeRange.Delete Method (Publisher)
+title: "Метод ShapeRange.Delete (издатель)"
 keywords: vbapb10.chm2293779
-f1_keywords:
-- vbapb10.chm2293779
+f1_keywords: vbapb10.chm2293779
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Delete
+api_name: Publisher.ShapeRange.Delete
 ms.assetid: fc9a7c2d-1bfc-d373-9d10-59df687b6fbf
 ms.date: 06/08/2017
+ms.openlocfilehash: f91d88a44c492eb30617cc709d7e1268da5fe3a1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangedelete-method-publisher"></a>Метод ShapeRange.Delete (издатель)
+
+Удаляет указанный объект.
 
 
-# ShapeRange.Delete Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Deletes the specified object.
+ _выражение_. **Удаление**
 
-
-## Syntax
-
- _expression_. **Delete**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-A run-time error occurs if the specified object does not exist.
+Если указанный объект не существует, возникает ошибка времени выполнения.
 
 

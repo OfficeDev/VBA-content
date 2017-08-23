@@ -1,44 +1,45 @@
 ---
-title: Plates.Add Method (Publisher)
+title: "Метод Plates.Add (издатель)"
 keywords: vbapb10.chm2818052
-f1_keywords:
-- vbapb10.chm2818052
+f1_keywords: vbapb10.chm2818052
 ms.prod: publisher
-api_name:
-- Publisher.Plates.Add
+api_name: Publisher.Plates.Add
 ms.assetid: 7fb7b602-8797-e275-4ff7-2e87cf1db11f
 ms.date: 06/08/2017
+ms.openlocfilehash: e7bc79f2d33269c847259a6900ae51e93d83450f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="platesadd-method-publisher"></a>Метод Plates.Add (издатель)
+
+Добавляет новый цвет формы на указанный объект **формы** .
 
 
-# Plates.Add Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new color plate to the specified  **Plates** object.
+ _выражение_. **Добавление** ( **_PlateColor_**)
 
-
-## Syntax
-
- _expression_. **Add**( **_PlateColor_**)
-
- _expression_A variable that represents a  **Plates** object.
+ переменная _expression_A, представляющий объект **формы** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|PlateColor|Optional| **ColorFormat**| **ColorFormat** object. The color settings to apply to the new plate.|
+|PlateColor|Необязательный| **ColorFormat**| Объект **ColorFormat** . Параметры цвета, применяемые к новой формы.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If the  ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property of the specified publication is not **pbColorModeSpot** or **pbColorModeSpotAndProcess**, an error occurs.
+Если ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** свойства указанного публикации не **pbColorModeSpot** или **pbColorModeSpotAndProcess**, возникает ошибка.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a color plate to the active publication if it is a spot-color publication.
+Следующий пример добавляет цвет формы active публикации при публикации.
 
 
 ```vb

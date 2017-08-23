@@ -1,41 +1,42 @@
 ---
-title: WebPageOptions.BackgroundSoundLoopForever Property (Publisher)
+title: "Свойство WebPageOptions.BackgroundSoundLoopForever (издатель)"
 keywords: vbapb10.chm544775
-f1_keywords:
-- vbapb10.chm544775
+f1_keywords: vbapb10.chm544775
 ms.prod: publisher
-api_name:
-- Publisher.WebPageOptions.BackgroundSoundLoopForever
+api_name: Publisher.WebPageOptions.BackgroundSoundLoopForever
 ms.assetid: f2e90665-09e9-5215-59e4-f93e4469d0df
 ms.date: 06/08/2017
+ms.openlocfilehash: 7d88eac8fa0c5b14b811917f52ba0c2bf1b1b36d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webpageoptionsbackgroundsoundloopforever-property-publisher"></a>Свойство WebPageOptions.BackgroundSoundLoopForever (издатель)
+
+Возвращает **логическое** значение, указывающее, является ли звуковое сопровождение, подключенного к веб-странице должен повторяться бесконечно. Только для чтения.
 
 
-# WebPageOptions.BackgroundSoundLoopForever Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Boolean** value that specifies whether the background sound attached to the Web page should be repeated infinitely. Read-only.
+ _выражение_. **BackgroundSoundLoopForever**
 
-
-## Syntax
-
- _expression_. **BackgroundSoundLoopForever**
-
- _expression_A variable that represents a  **WebPageOptions** object.
+ переменная _expression_A, представляет собой объект- **WebPageOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-The  **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** method is used to specify whether the background sound should be repeated infinitely after the page is loaded. Until the **SetBackgroundSoundRepeat** method is used to specify whether the background sound should be played infinitely, **BackgroundSoundLoopForever** is **False**.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound should be repeated infinitely. The **BackgroundSoundLoopForever** property will now be **True**.
+Метод **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** используется для указания, необходимо ли выполнять звуковое сопровождение бесконечно после загрузки страницы. Пока метод **SetBackgroundSoundRepeat** используется для указания, следует ли фоновый звук будет воспроизводиться бесконечно, **BackgroundSoundLoopForever** имеет **значение False**.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается фон звука для страницы четыре active веб-публикации для WAV-файл на локальном компьютере. Если **BackgroundSoundLoopForever** имеет **значение False**, метод **SetBackgroundSoundRepeat** используется для указания, что звуковое сопровождение должен повторяться бесконечно. Свойство **BackgroundSoundLoopForever** теперь будет иметь **значение True**.
 
 
 ```vb

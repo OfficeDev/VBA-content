@@ -1,53 +1,54 @@
 ---
-title: Shapes.AddShape Method (Publisher)
+title: "Метод Shapes.AddShape (издатель)"
 keywords: vbapb10.chm2162712
-f1_keywords:
-- vbapb10.chm2162712
+f1_keywords: vbapb10.chm2162712
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddShape
+api_name: Publisher.Shapes.AddShape
 ms.assetid: 500d8cb3-f066-fdb6-09ac-b03c7822e8bd
 ms.date: 06/08/2017
+ms.openlocfilehash: 42acd0b3253a9b36d647ae072100e3c574127fee
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddshape-method-publisher"></a>Метод Shapes.AddShape (издатель)
+
+Добавляет новый объект **фигуры** , представляющее автофигуры к определенной коллекции **фигур** .
 
 
-# Shapes.AddShape Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing an AutoShape to the specified **Shapes** collection.
+ _выражение_. **AddShape** ( **_Тип_**, **_слева_**, **_в начало_**, **_Width_**, **_Height_**)
 
-
-## Syntax
-
- _expression_. **AddShape**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **MsoAutoShapeType**|The type of AutoShape to draw. For a complete list of MsoAutoShapeType constants, see the Object Browser.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the AutoShape.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the AutoShape.|
-|Width|Required| **Variant**|The width of the shape representing the AutoShape.|
-|Height|Required| **Variant**|The height of the shape representing the AutoShape.|
+|Тип|Обязательный| **MsoAutoShapeType**|Тип автофигуры иными способами. Полный список MsoAutoShapeType константы в разделе обозреватель объектов.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей автофигуры.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей автофигуры.|
+|Width|Обязательное свойство.| **Variant**|Ширина формы, представляющее автофигуры.|
+|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей автофигуры.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the  **_Left_**,  **_Top_**,  **_Width_**, and  **_Height_** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Для **_слева_**, **_Top_**, **_ширину_**и **_высоту_** аргументы числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a rectangle to the first page of the active publication.
+Следующий пример добавляет прямоугольник для первой страницы active публикации.
 
 
 ```vb

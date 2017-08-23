@@ -1,43 +1,44 @@
 ---
-title: Shape.HasTable Property (Publisher)
+title: "Свойство Shape.HasTable (издатель)"
 keywords: vbapb10.chm2228321
-f1_keywords:
-- vbapb10.chm2228321
+f1_keywords: vbapb10.chm2228321
 ms.prod: publisher
-api_name:
-- Publisher.Shape.HasTable
+api_name: Publisher.Shape.HasTable
 ms.assetid: 6f544d9c-00a4-3047-fbfb-6f1835bbe2c6
 ms.date: 06/08/2017
+ms.openlocfilehash: 2165049e0ca3152ee09fb471c900c31fc61280bf
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapehastable-property-publisher"></a>Свойство Shape.HasTable (издатель)
+
+Возвращает **msoTrue** , если фигуры представляет объект **TableFrame** или **msoFalse** , если фигуры представляет любой другой тип объекта. Только для чтения.
 
 
-# Shape.HasTable Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
+ _выражение_. **HasTable**
 
-
-## Syntax
-
- _expression_. **HasTable**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **HasTable** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **HasTable** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| The shapes in the range do not represent a **TableFrame** object.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The shapes in the range represent a  **TableFrame** object.|
+| **msoFalse**| Фигуры в диапазоне представляет объект **TableFrame** .|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Фигуры в диапазоне представляют объект **TableFrame** .|
 
-## Example
+## <a name="example"></a>Пример
 
-This example checks the currently selected shape to see if it is a table. If it is, the code sets the width of column one to one inch (72 points).
+В этом примере проверяется выбранной фигуре ли таблица. Если он установлен, код задает ширину столбцов один к одному дюйма (72 точки).
 
 
 ```vb

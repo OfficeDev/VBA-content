@@ -1,30 +1,31 @@
 ---
-title: PictureFormat.Height Property (Publisher)
+title: "Свойство PictureFormat.Height (издатель)"
 keywords: vbapb10.chm3604759
-f1_keywords:
-- vbapb10.chm3604759
+f1_keywords: vbapb10.chm3604759
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.Height
+api_name: Publisher.PictureFormat.Height
 ms.assetid: d98c76cc-4b75-28b7-5be1-101b372472d5
 ms.date: 06/08/2017
+ms.openlocfilehash: 211a8f0c5c4c38046bb9594baf9a4b43c498ff5a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatheight-property-publisher"></a>Свойство PictureFormat.Height (издатель)
+
+Возвращает значение **типа Variant** , который представляет высота в пунктах указанного изображения или объекта OLE. Только для чтения.
 
 
-# PictureFormat.Height Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Variant** that represents the height, in points, of the specified picture or OLE object. Read-only.
+ _выражение_. **Высота**
 
-
-## Syntax
-
- _expression_. **Height**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The valid range for the  **Height** property depends on the size of the application workspace and the position of the object within the workspace. For centered objects on non-banner page sizes, the **Height** property may be 0.0 to 50.0 inches. For centered objects on banner page sizes, the **Height** property may be 0.0 to 241.0 inches.
+Допустимые значения для свойства **Height** зависит от размера рабочей области приложения и позиции объекта в рабочей области. По центру объектов на размер страницы не баннер свойство **Height** может быть 0,0-50,0 дюйма. По центру объектов на размер заголовка страницы свойство **Height** может быть 0.0 для 241.0 дюйма.
 
 

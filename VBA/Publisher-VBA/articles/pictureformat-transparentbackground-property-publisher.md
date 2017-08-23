@@ -1,55 +1,56 @@
 ---
-title: PictureFormat.TransparentBackground Property (Publisher)
+title: "Свойство PictureFormat.TransparentBackground (издатель)"
 keywords: vbapb10.chm3604744
-f1_keywords:
-- vbapb10.chm3604744
+f1_keywords: vbapb10.chm3604744
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.TransparentBackground
+api_name: Publisher.PictureFormat.TransparentBackground
 ms.assetid: 0a78b579-92bf-36e6-22f6-3ca0a48f5b5a
 ms.date: 06/08/2017
+ms.openlocfilehash: 961293cb4074d2e4fd56c85e112a5451fec389b7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformattransparentbackground-property-publisher"></a>Свойство PictureFormat.TransparentBackground (издатель)
+
+Указывает, отображение прозрачной части указанного изображения, которые определены как прозрачный. Чтение и запись.
 
 
-# PictureFormat.TransparentBackground Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Indicates whether the parts of the specified picture that are defined as the transparent color appear transparent. Read/write.
+ _выражение_. **TransparentBackground**
 
-
-## Syntax
-
- _expression_. **TransparentBackground**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **TransparentBackground** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **TransparentBackground** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| Parts of the picture whose color is the transparency color do not appear transparent.|
-| **msoTriStateMixed**|Return value only, indicating a combination of  **msoTrue** and **msoFalse** for the specified objects..|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**| Parts of the picture whose color is the transparency color appear transparent.|
-Use the  **[TransparencyColor](pictureformat-transparencycolor-property-publisher.md)** property to set the transparent color.
+| **msoFalse**| Части рисунка, цвет которого является прозрачность цвета не отображаются прозрачной.|
+| **msoTriStateMixed**|Возвращает только значение, указывающее, сочетание **msoTrue** и **msoFalse** для указанных объектов...|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**| Части рисунка, цвет которого является прозрачность цвет прозрачным.|
+Свойство **[прозрачного цвета](pictureformat-transparencycolor-property-publisher.md)** прозрачный цвет.
 
-This property applies only to bitmaps.
+Это свойство применяется только к растровых изображений.
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **[Visible](fillformat-visible-property-publisher.md)** property of the picture's **[FillFormat](fillformat-object-publisher.md)** object to **mso False**. If your picture has a transparent color and the  **Visible** property of the picture's **FillFormat** object is set to **msoTrue**, the picture's fill is visible through the transparent color, but objects behind the picture are obscured.
+Если необходимо иметь возможность видеть через прозрачный частей рисунка до объекты за изображение, необходимо присвоить **mso False**свойство **[Visible](fillformat-visible-property-publisher.md)** объекта **[FillFormat](fillformat-object-publisher.md)** рисунков. Если изображение имеет прозрачный цвет, свойство **Visible** объекта **FillFormat** изображение задано значение **msoTrue**, отображается с помощью прозрачный цвет заливки рисунка, но объектов, изображение, скрываются.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the color blue as the transparent color for shape one in the active publication. For the example to work, shape one must be a bitmap.
+В этом примере задается цвет синий как прозрачный для фигуры одно в активной публикации. Для обеспечения работы примера фигуры один должен быть растрового изображения.
 
 
 ```vb

@@ -1,34 +1,36 @@
 ---
-title: CaptionStyles.Item Method (Publisher)
+title: "Метод CaptionStyles.Item (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.CaptionStyles.Item
+api_name: Publisher.CaptionStyles.Item
 ms.assetid: d9a015bb-93f6-8138-be48-8093730f173a
 ms.date: 06/08/2017
+ms.openlocfilehash: d3641855dbee4370b615dc995d6cf3cd6050f98f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="captionstylesitem-method-publisher"></a>Метод CaptionStyles.Item (издатель)
+
+Возвращает указанный объект **[CaptionStyle](captionstyle-object-publisher.md)** **CaptionStyles** коллекции. Только для чтения.
 
 
-# CaptionStyles.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the specified  **[CaptionStyle](captionstyle-object-publisher.md)** object from a **CaptionStyles** collection. Read-only.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **CaptionStyles** object.
+ переменная _expression_A, представляет собой объект- **CaptionStyles** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The index number in the collection of the caption style to return.|
+|Индекс|Обязательное свойство.| **Длинный**|Номер индекса в коллекции стилей заголовка для возврата.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 CaptionStyle
 

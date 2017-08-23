@@ -1,36 +1,37 @@
 ---
-title: Shape.Duplicate Method (Publisher)
+title: "Метод Shape.Duplicate (издатель)"
 keywords: vbapb10.chm2228244
-f1_keywords:
-- vbapb10.chm2228244
+f1_keywords: vbapb10.chm2228244
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Duplicate
+api_name: Publisher.Shape.Duplicate
 ms.assetid: 9f35a496-5312-bff1-a31e-05baaaf69e92
 ms.date: 06/08/2017
+ms.openlocfilehash: 02f94cc94d3d14b7e7ef2bed8cf26a81a4249f2b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeduplicate-method-publisher"></a>Метод Shape.Duplicate (издатель)
+
+Создает копию на указанный объект **[ShapeRange](shaperange-object-publisher.md)** или **[фигуры](shape-object-publisher.md)** , добавляет новую фигуру или диапазона фигур в коллекцию **фигур** сразу же после фигуры или диапазона фигур указан изначально, а затем возвращает новый объект **ShapeRange** или **фигуры** .
 
 
-# Shape.Duplicate Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Creates a duplicate of the specified  **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** object, adds the new shape or range of shapes to the **Shapes** collection immediately after the shape or range of shapes specified originally, and then returns the new **Shape** or **ShapeRange** object.
+ _выражение_. **Дублирующиеся**
 
-
-## Syntax
-
- _expression_. **Duplicate**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a new, blank page at the end of the active publication, adds a diamond shape to the new page, duplicates the diamond, and then sets properties for the duplicate. The first diamond will have the default fill color for the active color scheme; the second diamond will be offset from the first one and will have the first accent color for the active color scheme.
+В этом примере добавляется новый пустой странице в конце active публикации, добавляется фигура ромб на новую страницу, дублирует ромб и затем задает свойства для повторяющихся. Первый ромб будут иметь цвет заливки по умолчанию для активной цветовая схема; второй ромб будет смещение от первого и будут иметь первого контрастный цвет для активных цветовая схема.
 
 
 ```vb

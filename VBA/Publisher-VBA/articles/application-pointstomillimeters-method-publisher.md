@@ -1,49 +1,50 @@
 ---
-title: Application.PointsToMillimeters Method (Publisher)
+title: "Метод Application.PointsToMillimeters (издатель)"
 keywords: vbapb10.chm131159
-f1_keywords:
-- vbapb10.chm131159
+f1_keywords: vbapb10.chm131159
 ms.prod: publisher
-api_name:
-- Publisher.Application.PointsToMillimeters
+api_name: Publisher.Application.PointsToMillimeters
 ms.assetid: eaa9154d-1a9b-81e7-58bc-3f7bf873ab97
 ms.date: 06/08/2017
+ms.openlocfilehash: 688d206c23db9bb6a4c29eb09dbebd8f710d7a5e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpointstomillimeters-method-publisher"></a>Метод Application.PointsToMillimeters (издатель)
+
+Преобразует измерения из точки мм (1 мм = 2.835 точек). Возвращает преобразованные измерения как **один**.
 
 
-# Application.PointsToMillimeters Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.
+ _выражение_. **PointsToMillimeters** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **PointsToMillimeters**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to millimeters.|
+|Значение|Обязательное свойство.| **Один**|Значение точки для преобразования в мм.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[MillimetersToPoints](application-millimeterstopoints-method-publisher.md)** method to convert measurements in millimeters to points.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example converts measurements in points entered by the user to measurements in centimeters.
+Используйте метод **[MillimetersToPoints](application-millimeterstopoints-method-publisher.md)** для преобразования измерений в мм в пунктах.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется преобразование измерения в пунктах, введенный пользователем измерений в см.
 
 
 ```vb
@@ -71,11 +72,11 @@ Loop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

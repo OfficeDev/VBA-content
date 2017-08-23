@@ -1,42 +1,43 @@
 ---
-title: Adjustments Object (Publisher)
+title: "Объект корректировки (издатель)"
 keywords: vbapb10.chm2490367
-f1_keywords:
-- vbapb10.chm2490367
+f1_keywords: vbapb10.chm2490367
 ms.prod: publisher
-api_name:
-- Publisher.Adjustments
+api_name: Publisher.Adjustments
 ms.assetid: a1abecf9-582d-3b5c-8a2c-14c4d260df3a
 ms.date: 06/08/2017
+ms.openlocfilehash: 60683f41587eefd881b32a992292c6f4d37a3537
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="adjustments-object-publisher"></a>Объект корректировки (издатель)
+
+Содержит коллекцию значений корректировка для указанного объекта автофигуры или WordArt. 
 
 
-# Adjustments Object (Publisher)
+## <a name="remarks"></a>Заметки
 
-Contains a collection of adjustment values for the specified AutoShape or WordArt object. 
+Каждое значение корректировка представляет одним из способов приведения маркер настройки можно изменить. Так как некоторые регулировщики формы можно настроить двумя способами? Например можно изменить некоторые дескрипторы по горизонтали и по вертикали? Фигура может иметь несколько значений корректировка не имеет регулировщики формы. Фигура может иметь до восьми корректировки.
 
+Используйте свойство **[дополнительной настройки](http://msdn.microsoft.com/library/14794cba-c671-51e3-0aac-52e885a4ba7f%28Office.15%29.aspx)** для возврата объекта **корректировки** . Используйте **корректировки** (индекс), где индекс — это значение корректировки порядковый номер, для возврата значения одного набора.
 
-## Remarks
+Различных фигур иметь разные номера корректировка значения, различные виды корректировки изменение геометрии фигуры различными способами, а различные виды корректировки разные диапазоны допустимых значений.
 
-Each adjustment value represents one way an adjustment handle can be adjusted. Because some adjustment handles can be adjusted in two ways ? for instance, some handles can be adjusted both horizontally and vertically ? a shape can have more adjustment values than it has adjustment handles. A shape can have up to eight adjustments.
-
-Use the  **[Adjustments](http://msdn.microsoft.com/library/14794cba-c671-51e3-0aac-52e885a4ba7f%28Office.15%29.aspx)** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
-
-Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values.
-
-The following table summarizes the ranges of valid adjustment values for different types of adjustments. In most cases, if you specify a value that's beyond the range of valid values, the closest valid value will be assigned to the adjustment.
+В следующей таблице обобщаются диапазоны значений допустимый корректировки для разных типов корректировки. В большинстве случаев Если указать значение, которое выходит за диапазон допустимых значений ближайших допустимое значение будет назначен корректировки.
 
 
 
-|**Type of adjustment**|**Valid values**|
+|**Тип корректировки**|**Допустимые значения**|
 |:-----|:-----|
-|Linear (horizontal or vertical)|Generally the value 0.0 represents the left or top edge of the shape and the value 1.0 represents the right or bottom edge of the shape. Valid values correspond to valid adjustments you can make to the shape manually. For example, if you can only pull an adjustment handle half way across the shape manually, the maximum value for the corresponding adjustment will be 0.5. For shapes such as callouts, where the values 0.0 and 1.0 represent the limits of the rectangle defined by the starting and ending points of the callout line, negative numbers and numbers greater than 1.0 are valid values.|
-|Radial|An adjustment value of 1.0 corresponds to the width of the shape. The maximum value is 0.5, or halfway across the shape.|
-|Angle|Values are expressed in degrees. If you specify a value outside the range ? 180 to 180, it will be normalized to be within that range.|
+|Линейный (по горизонтали или по вертикали)|Обычно представляет значение 0.0 левого или верхнего края фигуры и представляет значение 1.0 правому или нижнему краю фигуры. Допустимые значения соответствуют допустимый корректировки можно внести фигуру вручную. Например если вы можно только по запросу маркер настройки половины способ через форму вручную, максимальное значение для соответствующего корректировки будет 0,5. Для фигур, таких как выноски, где значения 0.0 и 1.0 представляют ограничения прямоугольник, определяемый начальная и конечная точки линии выноски отрицательными числами, а числа больше, чем 1.0 являются допустимыми значениями.|
+|Радиальное|Значение корректировки 1.0 соответствует ширину фигуры. Максимальное значение — 0,5 или наполовину в форме.|
+|Угол|Значения выражаются в градусов. Если указать значение вне диапазона? 180 180 он будет нормализован находиться в этот диапазон.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a right-arrow callout to the active document and sets adjustment values for the callout. Note that although the shape has only three adjustment handles, it has four adjustments. Adjustments three and four both correspond to the handle between the head and neck of the arrow.
+В следующем примере активный документ добавляется выноски Стрелка вправо и задает значения коррекции для выноске. Обратите внимание, что несмотря на то, что фигура имеет только три регулировщики формы, имеет четыре корректировки. Дополнительной настройки, которые соответствуют три и четыре оба маркер между head и горловины стрелку.
 
 
 ```
@@ -53,21 +54,21 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/9782bcd4-91ac-4ea3-4db7-f87b9b7c00ee%28Office.15%29.aspx)|
+|[Приложения](http://msdn.microsoft.com/library/9782bcd4-91ac-4ea3-4db7-f87b9b7c00ee%28Office.15%29.aspx)|
 |[Count](http://msdn.microsoft.com/library/1b32f1c3-0bbc-a175-4f59-36cc76df12fd%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/9adba87a-d09d-b024-f889-4dcdab961561%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/2114d703-194b-d6fa-08e9-53637a8a2010%28Office.15%29.aspx)|
+|[Элемент](http://msdn.microsoft.com/library/9adba87a-d09d-b024-f889-4dcdab961561%28Office.15%29.aspx)|
+|[Родительский раздел](http://msdn.microsoft.com/library/2114d703-194b-d6fa-08e9-53637a8a2010%28Office.15%29.aspx)|
 
-## See also
-
-
-#### Other resources
+## <a name="see-also"></a>См. также
 
 
-[Adjustments Object Members](http://msdn.microsoft.com/library/76d7aeb4-1631-d81c-2fd0-bb71ca739fc4%28Office.15%29.aspx)
+#### <a name="other-resources"></a>Другие ресурсы
+
+
+[Элементы объектной корректировки](http://msdn.microsoft.com/library/76d7aeb4-1631-d81c-2fd0-bb71ca739fc4%28Office.15%29.aspx)

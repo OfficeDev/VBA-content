@@ -1,38 +1,39 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (Publisher)
+title: "Метод TextEffectFormat.ToggleVerticalText (издатель)"
 keywords: vbapb10.chm3735568
-f1_keywords:
-- vbapb10.chm3735568
+f1_keywords: vbapb10.chm3735568
 ms.prod: publisher
-api_name:
-- Publisher.TextEffectFormat.ToggleVerticalText
+api_name: Publisher.TextEffectFormat.ToggleVerticalText
 ms.assetid: 627ddbcc-5951-70c6-4e54-de0e9a4bebec
 ms.date: 06/08/2017
+ms.openlocfilehash: a5a3287da83fb2d9e336622ba910e1eda118caff
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="texteffectformattoggleverticaltext-method-publisher"></a>Метод TextEffectFormat.ToggleVerticalText (издатель)
+
+Переключение потока текст в указанном WordArt горизонтальную по вертикали или наоборот.
 
 
-# TextEffectFormat.ToggleVerticalText Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
+ _выражение_. **ToggleVerticalText**
 
-
-## Syntax
-
- _expression_. **ToggleVerticalText**
-
- _expression_A variable that represents a  **TextEffectFormat** object.
+ переменная _expression_A, представляет собой объект- **TextEffectFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Using the  **ToggleVerticalText** method swaps the values of the **[Left](shape-left-property-publisher.md)** and **[Top](shape-top-property-publisher.md)** properties of the **[Shape](shape-object-publisher.md)** object that represents the WordArt and leaves the  **[Width](shape-width-property-publisher.md)** and **[Height](shape-height-property-publisher.md)** properties unchanged.
+С помощью метода **ToggleVerticalText** меняет местами значения свойств **[Left](shape-left-property-publisher.md)** и **[Top](shape-top-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** , который представляет объект WordArt и оставляет свойства **[ширины](shape-width-property-publisher.md)** и **[высоты](shape-height-property-publisher.md)** без изменений.
 
-The  **[Flip](shape-flip-method-publisher.md)** method and  **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object and the  **[RotatedChars](texteffectformat-rotatedchars-property-publisher.md)** property and  **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+Метод **[Отразить](shape-flip-method-publisher.md)** и **[Вращение](shape-rotation-property-publisher.md)** свойство объекта **[Shape](shape-object-publisher.md)** **[RotatedChars](texteffectformat-rotatedchars-property-publisher.md)** свойство и метод **ToggleVerticalText** объекта **[TextEffectFormat](texteffectformat-object-publisher.md)** все влияет на ориентация символов и направление потока текста в объект **фигуры** , представляющий WordArt. Может потребоваться проверить, узнайте, как объединить эффекты этих свойств и методов для получения результатов, который будет.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds WordArt that contains the text "Test" to the active publication, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
+В этом примере добавляется объект WordArt, который содержит текст «Test» для активной публикации и коммутаторы из потока горизонтальный текст (по умолчанию для указанного стилей WordArt, **msoTextEffect1**) на вертикальное.
 
 
 ```vb

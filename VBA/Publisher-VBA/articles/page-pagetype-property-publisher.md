@@ -1,47 +1,45 @@
 ---
-title: Page.PageType Property (Publisher)
+title: "Свойство Page.PageType (издатель)"
 keywords: vbapb10.chm393221
-f1_keywords:
-- vbapb10.chm393221
+f1_keywords: vbapb10.chm393221
 ms.prod: publisher
-api_name:
-- Publisher.Page.PageType
+api_name: Publisher.Page.PageType
 ms.assetid: 0bb34de5-ac3e-386c-3b9f-814a476c9695
 ms.date: 06/08/2017
+ms.openlocfilehash: 758c339a6488daf46951e20e347116d2495892fa
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagepagetype-property-publisher"></a>Свойство Page.PageType (издатель)
+
+Возвращает константу **PbPageType** , представляющий тип страницы. Только для чтения.
 
 
-# Page.PageType Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **PbPageType** constant that represents the page type. Read-only.
+ _выражение_. **PageType**
 
-
-## Syntax
-
- _expression_. **PageType**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbPageType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **PageType** property value can be one of the following **PbPageType** constants declared in the Microsoft Publisher type library.
+Значение свойства **PageType** может иметь одно из следующих **PbPageType** константы, описанные в библиотеке типов, Microsoft Publisher.
 
 
 
-| **pbPageLeftPage**|
-| **pbPageMasterPage**|
-| **pbPageRightPage**|
-| **pbPageScratchPage**|
+| **pbPageLeftPage**|| **pbPageMasterPage**|| **pbPageRightPage**|| **pbPageScratchPage**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a shape on alternating corners of each page in the active publication.
+В этом примере добавляется фигура на разный углов каждой страницы в активной публикации.
 
 
 ```vb

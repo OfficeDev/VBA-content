@@ -1,44 +1,45 @@
 ---
-title: Printer.PrintableRect Property (Publisher)
+title: "Свойство Printer.PrintableRect (издатель)"
 keywords: vbapb10.chm8978450
-f1_keywords:
-- vbapb10.chm8978450
+f1_keywords: vbapb10.chm8978450
 ms.prod: publisher
-api_name:
-- Publisher.Printer.PrintableRect
+api_name: Publisher.Printer.PrintableRect
 ms.assetid: 9d5b8264-9213-3d89-0613-421a4872c158
 ms.date: 06/08/2017
+ms.openlocfilehash: 9cb8e29d238f1f6996acc981f3677a91a52a8896
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="printerprintablerect-property-publisher"></a>Свойство Printer.PrintableRect (издатель)
+
+Возвращает объект **[PrintableRect](printablerect-object-publisher.md)** , представляющий принтера области листа, в течение которого указанного печать. Только для чтения.
 
 
-# Printer.PrintableRect Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[PrintableRect](printablerect-object-publisher.md)** object that represents the printer sheet area within which the specified printer will print. Read-only.
+ _выражение_. **PrintableRect**
 
-
-## Syntax
-
- _expression_. **PrintableRect**
-
- _expression_A variable that represents a  **Printer** object.
+ переменная _expression_A, представляющий объект **Printer** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PrintableRect
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The printable rectangle is determined by the printer based on the sheet size specified. The printable rectangle of the printer sheet should not be confused with the area within the margins of the publication page. The printable rectangle might be larger or smaller than the publication page.
-
-
- **Note**  When the printer sheet and the publication page size are identical, the publication page is centered on the printer sheet and none of the printer's marks print, even if they are selected.
+Область печати определяется принтера на основе указанного размера листа. Не следует путать с область внутри поля страницы публикации подготовленных к печати прямоугольника листа принтера. Область печати может быть больше или меньше, чем страницы публикации.
 
 
-## Example
+ **Примечание**  При идентичны sheet принтера и размер страницы публикации, страница публикации располагается на листе принтера и ни один из метки Печать "," даже в том случае, если они выбраны.
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PrintableRect** property to get the boundaries of the printable rectangle for the printer sheet of the active printer.
+
+## <a name="example"></a>Пример
+
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать свойство **PrintableRect** для получения границах подготовленных к печати прямоугольника для листа принтера активного принтера.
 
 
 ```vb

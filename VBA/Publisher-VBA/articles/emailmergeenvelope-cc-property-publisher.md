@@ -1,42 +1,43 @@
 ---
-title: EmailMergeEnvelope.Cc Property (Publisher)
+title: "Свойство EmailMergeEnvelope.Cc (издатель)"
 keywords: vbapb10.chm9043972
-f1_keywords:
-- vbapb10.chm9043972
+f1_keywords: vbapb10.chm9043972
 ms.prod: publisher
-api_name:
-- Publisher.EmailMergeEnvelope.Cc
+api_name: Publisher.EmailMergeEnvelope.Cc
 ms.assetid: d9e7704c-c45a-cf19-e0a8-8d55e1e82fc0
 ms.date: 06/08/2017
+ms.openlocfilehash: fc4b4589e4f767131e1039217a6ad0afbcaa2438
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="emailmergeenvelopecc-property-publisher"></a>Свойство EmailMergeEnvelope.Cc (издатель)
+
+Получает или задает объект **MailMergeDataField** , который представляет источник данных поля (столбца), в котором приведены адреса электронной почты получателей, вы хотите получать скрытую копию (CC) сообщения электронной почты слиянием. Чтение и запись.
 
 
-# EmailMergeEnvelope.Cc Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the e-mail addresses of recipients you want to receive a carbon copy (CC) of the merged e-mail message. Read/write.
+ _выражение_. **«Копия»**
 
-
-## Syntax
-
- _expression_. **Cc**
-
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ переменная _expression_A, представляющий объект **EmailMergeEnvelope** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MailMergeDataField
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You must make certain that you assign the correct data-source field (the one that represents CC e-mail addresses) to the  **Cc** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **Cc** is assigned, to ensure that you make the correct assignment:
+Необходимо включить для определенных, присвойте правильные источника данных поле (решает, соответствующий электронной почты «копия») в свойстве **«копия»** . Можно использовать следующую строку кода, который возвращает значение свойства **Name** объекта **MailMergeDataField** , к которому **«копия»** назначается, убедитесь, что правильный назначения:
 
 
 ```vb
 Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.Cc.Name
 ```
 
-For an example of how to set the  **Cc** property value, see the **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** object topic.
+Пример того, как задать значение свойства **«копия»** приведены в разделе объект **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** .
 
 

@@ -1,36 +1,37 @@
 ---
-title: ShapeRange.Adjustments Property (Publisher)
+title: "Свойство ShapeRange.Adjustments (издатель)"
 keywords: vbapb10.chm2293809
-f1_keywords:
-- vbapb10.chm2293809
+f1_keywords: vbapb10.chm2293809
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Adjustments
+api_name: Publisher.ShapeRange.Adjustments
 ms.assetid: 819677e0-806d-a5ac-6fce-f7b0525e63ce
 ms.date: 06/08/2017
+ms.openlocfilehash: 288da6e3d4b156d94b7baf97cd6e00ae8cfb815e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeadjustments-property-publisher"></a>Свойство ShapeRange.Adjustments (издатель)
+
+Возвращает коллекцию **[корректировки](adjustments-object-publisher.md)** , представляющий все регулировщики формы для указанного объекта **фигуры** или **ShapeRange** .
 
 
-# ShapeRange.Adjustments Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **[Adjustments](adjustments-object-publisher.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
+ _выражение_. **Корректировки**
 
-
-## Syntax
-
- _expression_. **Adjustments**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Adjustment handles correspond to Microsoft Publisher shape sliders.
+Маркерами настройки соответствуют ползунков фигуры Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example takes the number of adjustments for a given shape range and assigns it to a variable.
+В этом примере количество дополнительной настройки для заданной фигуры диапазона и присваивается переменной.
 
 
 ```vb

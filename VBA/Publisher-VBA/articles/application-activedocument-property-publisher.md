@@ -1,36 +1,37 @@
 ---
-title: Application.ActiveDocument Property (Publisher)
+title: "Свойство Application.ActiveDocument (издатель)"
 keywords: vbapb10.chm131073
-f1_keywords:
-- vbapb10.chm131073
+f1_keywords: vbapb10.chm131073
 ms.prod: publisher
-api_name:
-- Publisher.Application.ActiveDocument
+api_name: Publisher.Application.ActiveDocument
 ms.assetid: c6293fa6-291c-d8ce-be54-f8a997b95d2e
 ms.date: 06/08/2017
+ms.openlocfilehash: a0581aad811846da9bda6187393fbc975d257fcb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationactivedocument-property-publisher"></a>Свойство Application.ActiveDocument (издатель)
+
+Возвращает объект **[Document](document-object-publisher.md)** , представляющий active публикации. При наличии открыть доступ к документам, возникает ошибка.
 
 
-# Application.ActiveDocument Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Document](document-object-publisher.md)** object that represents the active publication. If there are no documents open, an error occurs.
+ _выражение_. **ActiveDocument**
 
-
-## Syntax
-
- _expression_. **ActiveDocument**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Document
+Документ
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example allows the user to assign a file name to the active publication and save it with the new file name. The file name, along with other text, is then inserted after the currently selected text. (Note that Filename must be replaced with a valid publication name for this example to work.)
+В этом примере пользователь может назначить имя файла для активной публикации и сохраните его с новым именем файла. Имя файла вместе с другими текст вставляется после текущего выбранного текста. (Обратите внимание на то, что имя файла, необходимо заменить имя допустимого публикации для работы этого примера.)
 
 
 ```vb
@@ -51,11 +52,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

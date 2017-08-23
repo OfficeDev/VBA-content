@@ -1,36 +1,38 @@
 ---
-title: Font.Ligature Property (Publisher)
+title: "Свойство Font.Ligature (издатель)"
 keywords: vbapb10.chm5374007
-f1_keywords:
-- vbapb10.chm5374007
+f1_keywords: vbapb10.chm5374007
 ms.prod: publisher
 ms.assetid: 17847824-8761-42b7-8d0c-00345e8b5de8
 ms.date: 06/08/2017
+ms.openlocfilehash: b8c52417251d28f9ef5ccee122a8c401654708f8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontligature-property-publisher"></a>Свойство Font.Ligature (издатель)
+
+Возвращает или задает значение константы **[pbLigaturePresetType](pbligaturepresettype-enumeration-publisher.md)** , представляющий состояние свойства **в то же время** на символов в диапазон текста. Свойство **в то же время** включает Надсимвольные элементы в символы, часто в виде больше и больше затейливым засечек. Чтение и запись.
 
 
-# Font.Ligature Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **[pbLigaturePresetType](pbligaturepresettype-enumeration-publisher.md)** constant that represents the state of the **Ligature** property on the characters in a text range. The **Ligature** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
+ _выражение_. **В то же время**
 
-
-## Syntax
-
- _expression_. **Ligature**
-
- _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+ переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
 
 
-## Return Value
+## <a name="return-value"></a>Возвращаемое значение
 
  **pbLigaturePresetType**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
 
- **Note**  The  **Ligature** property has an effect only for OpenType fonts that contain ligatures.
+ **Примечание**  **В то же время** свойство действует только для шрифтов OpenType, которые содержат лигатуры.
 
-Ligatures are alternate appearances of sequences of characters; multiple characters are merged into one glyph. For example, when ligatures are turned on for the word  _Office_, the letters  _ffi_ are all joined together into one glyph that displays a continuous line from the first _f_ through the dot in the _i_.
+Лигатуры — это альтернативное отображение последовательности символов; несколько символов объединяются в одного знака. Например лигатуры в режиме для _Microsoft Office_word, буквы _«ffi»_ все соединены друг в одного знака, которое отображает непрерывной строки из первого _f_ через точки в _i_.
 
 

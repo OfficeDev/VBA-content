@@ -1,54 +1,49 @@
 ---
-title: WebPageOptions.BackgroundSound Property (Publisher)
+title: "Свойство WebPageOptions.BackgroundSound (издатель)"
 keywords: vbapb10.chm544774
-f1_keywords:
-- vbapb10.chm544774
+f1_keywords: vbapb10.chm544774
 ms.prod: publisher
-api_name:
-- Publisher.WebPageOptions.BackgroundSound
+api_name: Publisher.WebPageOptions.BackgroundSound
 ms.assetid: c6be30e0-28ea-e269-c546-48e0eb284ac4
 ms.date: 06/08/2017
+ms.openlocfilehash: 880e202eb3282f532185b70f1184dbd0431303de
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webpageoptionsbackgroundsound-property-publisher"></a>Свойство WebPageOptions.BackgroundSound (издатель)
+
+Возвращает или задает **строку** , которая указывает путь к звуковой файл, который будет воспроизводиться при загрузке веб-страницы в веб-браузере. Чтение и запись.
 
 
-# WebPageOptions.BackgroundSound Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that specifies the path to a sound file that is played when the Web page is loaded in a Web browser. Read/write.
+ _выражение_. **'' Фоновый звук ''**
 
-
-## Syntax
-
- _expression_. **BackgroundSound**
-
- _expression_A variable that represents a  **WebPageOptions** object.
+ переменная _expression_A, представляет собой объект- **WebPageOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The path to the background sound file must be a network path or a local path; an http:// address will not work.
+Путь к фоновый звуковой файл должен быть сетевой или локальный путь; адрес http:// не будут работать.
 
-If  **BackgroundSound** is specified, the background sound will play once by default. The **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** method can be used to specify whether the background sound should be played infinitely, and if it should not, to specify the number of times the background sound file should be played.
+Если указано **'' фоновый звук ''** фоновый звук будет воспроизводиться один раз по умолчанию. Метод **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** можно использовать для указания ли звуковое сопровождение для прослушивания бесконечно и противном случае, чтобы указать, сколько раз звукового файла фона для прослушивания.
 
-The background sound can be any of the following file types:
+Звуковое сопровождение может быть любой из следующих типов файлов:
 
 
 
-|*.wav|
-|*.mid|
-|*.midi|
-|*.rmi|
-|*.au|
-|*.aif|
-|*.aiff|
+|*.wav | |*. Mid | | *.midi | |*. RMI | | *.au | |*. AIF | | * .aiff |
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. This .wav file will play once when the page is loaded in a Web browser.
+В следующем примере задается фон звука для страницы четыре active веб-публикации для WAV-файл на локальном компьютере. Этот файл WAV будет воспроизведен один раз при загрузке страницы в веб-браузере.
 
 
 ```vb

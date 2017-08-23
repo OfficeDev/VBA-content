@@ -1,25 +1,26 @@
 ---
-title: ColorSchemes Object (Publisher)
+title: "Объект ColorSchemes (издатель)"
 keywords: vbapb10.chm2818047
-f1_keywords:
-- vbapb10.chm2818047
+f1_keywords: vbapb10.chm2818047
 ms.prod: publisher
-api_name:
-- Publisher.ColorSchemes
+api_name: Publisher.ColorSchemes
 ms.assetid: f5002de1-5e91-fc92-eedb-0e13dce57802
 ms.date: 06/08/2017
+ms.openlocfilehash: 1f300731b1a0d1efdabdc1864282a2dd65960223
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorschemes-object-publisher"></a>Объект ColorSchemes (издатель)
 
-
-# ColorSchemes Object (Publisher)
-
-A collection of all the  **[ColorScheme](colorscheme-object-publisher.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
+Коллекция всех объектов **[ColorScheme](colorscheme-object-publisher.md)** в Microsoft Publisher. Каждый объект **ColorScheme** представляет цветовая схема, которая представляет собой набор цветов, которые используются в публикации.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Count](colorschemes-count-property-publisher.md)** property to return the number of color schemes available to Publisher. The following example displays the number of color schemes.
+Свойство **[Count](colorschemes-count-property-publisher.md)** возвращает число доступных цветовые схемы Publisher. Следующий пример показывает число цветовые схемы.
  
 
  
@@ -30,7 +31,7 @@ Sub CountColorSchemes()
 End Sub
 ```
 
-Use the  **[Item](colorschemes-item-property-publisher.md)** property to return a specific color scheme from the **ColorSchemes** collection. The ** _Index_** argument of the **Item** property can be the number or name of the color scheme, or a **PbColorScheme** constant. The follow example sets the color scheme of the active publication to Wildflower.
+Используйте свойство **[Item](colorschemes-item-property-publisher.md)** для возврата определенного цветовая схема из коллекции **ColorSchemes** . ** _Индекса_** аргумент свойства **элемента** может быть номер или имя цветовая схема или константа **PbColorScheme** . В следующем примере задается цветовая схема active публикации для Дикие цветы.
  
 
  
@@ -44,7 +45,7 @@ Sub SetColorScheme()
 End Sub
 ```
 
-Use the  **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
+Используйте свойство **[Name](colorscheme-name-property-publisher.md)** возвращает имя цветовой схемы. В текстовом поле в следующем примере перечисляются все доступные издателю цветовые схемы.
  
 
  
@@ -69,14 +70,14 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](colorschemes-application-property-publisher.md)|
+|[Приложения](colorschemes-application-property-publisher.md)|
 |[Count](colorschemes-count-property-publisher.md)|
-|[Item](colorschemes-item-property-publisher.md)|
-|[Parent](colorschemes-parent-property-publisher.md)|
+|[Элемент](colorschemes-item-property-publisher.md)|
+|[Родительский раздел](colorschemes-parent-property-publisher.md)|
 

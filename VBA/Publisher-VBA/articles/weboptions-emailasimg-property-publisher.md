@@ -1,47 +1,48 @@
 ---
-title: WebOptions.EmailAsImg Property (Publisher)
+title: "Свойство WebOptions.EmailAsImg (издатель)"
 keywords: vbapb10.chm8257545
-f1_keywords:
-- vbapb10.chm8257545
+f1_keywords: vbapb10.chm8257545
 ms.prod: publisher
-api_name:
-- Publisher.WebOptions.EmailAsImg
+api_name: Publisher.WebOptions.EmailAsImg
 ms.assetid: c44d3b07-2030-4901-b9df-4dcfe08c985c
 ms.date: 06/08/2017
+ms.openlocfilehash: 25b0acb5b1ef844324be277e570ee3d0f1d13f0d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="weboptionsemailasimg-property-publisher"></a>Свойство WebOptions.EmailAsImg (издатель)
+
+ **Значение true,** Чтобы отправить страницу публикации в виде одного изображения в формате JPEG. Чтение и запись **типа Boolean**.
 
 
-# WebOptions.EmailAsImg Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to send the entire publication page as a single JPEG image. Read/write **Boolean**.
+ _выражение_. **EmailAsImg**
 
-
-## Syntax
-
- _expression_. **EmailAsImg**
-
- _expression_A variable that represents an  **WebOptions** object.
+ переменная _expression_A, представляющий объект **WebOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property can increase your message's compatibility with older e-mail clients, but may result in larger file size.
-
-This property is accessible for print publications in addition to Web publications.
-
-The properties of the  **[WebOptions](weboptions-object-publisher.md)** object are used to specify the behavior of Web publications. This means that when any of these properties are modified, newly created Web publications will inherit the modified properties.
-
-This property corresponds to the check box in the  **E-Mail Options** section of the **Web** tab of the **Options** dialog box.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets Microsoft Publisher to e-mail publication pages as JPEG images.
+Это свойство можно увеличить совместимость с устаревшими клиентами электронной почты, но может привести к увеличению размера файла.
+
+Это свойство доступно для печати публикаций в дополнение к веб-публикации.
+
+Свойства объекта **[WebOptions](weboptions-object-publisher.md)** используются для указания режима веб-публикации. Это означает, что если какие-либо из этих свойств изменяются, только что созданный веб-публикации будет наследовать измененных свойств.
+
+Это свойство соответствует флажок в разделе **Параметры электронной почты** на вкладке **веб** диалогового окна **Параметры** .
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается Microsoft Publisher по электронной почте страниц публикации как изображений в формате JPEG.
 
 
 ```vb

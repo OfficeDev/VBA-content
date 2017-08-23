@@ -1,38 +1,39 @@
 ---
-title: Application.Quit Event (Publisher)
+title: "Событие Application.Quit (издатель)"
 keywords: vbapb10.chm268435461
-f1_keywords:
-- vbapb10.chm268435461
+f1_keywords: vbapb10.chm268435461
 ms.prod: publisher
-api_name:
-- Publisher.Application.Quit
+api_name: Publisher.Application.Quit
 ms.assetid: 79948040-4848-b8e7-a70c-d23c1f416bac
 ms.date: 06/08/2017
+ms.openlocfilehash: ef2cce6177559d3ea6dc89f5aed37185137f62ad
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationquit-event-publisher"></a>Событие Application.Quit (издатель)
+
+Происходит, когда пользователь выходит из Microsoft Publisher.
 
 
-# Application.Quit Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs when the user exits Microsoft Publisher.
+ _выражение_. **Завершите работу**
 
-
-## Syntax
-
- _expression_. **Quit**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For information about using events with the Application object, see  [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
-
-
-## See also
+Сведения об использовании событий с помощью объекта приложения [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [Application Object](application-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект приложения](application-object-publisher.md)
 

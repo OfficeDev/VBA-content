@@ -1,51 +1,52 @@
 ---
-title: Font.SubScript Property (Publisher)
+title: "Свойство Font.SubScript (издатель)"
 keywords: vbapb10.chm5373973
-f1_keywords:
-- vbapb10.chm5373973
+f1_keywords: vbapb10.chm5373973
 ms.prod: publisher
-api_name:
-- Publisher.Font.SubScript
+api_name: Publisher.Font.SubScript
 ms.assetid: 9992fdcc-dd60-b2f7-307b-99b10dc7debb
 ms.date: 06/08/2017
+ms.openlocfilehash: 23500ec814c9075702f55691aa7d0eeee070b4f5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontsubscript-property-publisher"></a>Свойство Font.SubScript (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, форматируются ли символы как подстрочный знак в диапазоне указанный текст. Чтение и запись.
 
 
-# Font.SubScript Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant indicating whether characters are formatted as subscript in the specified text range. Read/write.
+ _выражение_. **Подстрочный знак**
 
-
-## Syntax
-
- _expression_. **SubScript**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **SubScript** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **подстрочный знак** может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|No characters in the range are formatted as subscript.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**| All characters in the range are formatted as subscript.|
-Setting the  **SubScript** property to **msoTrue** removes superscript formatting from the text range.
+| **msoFalse**|Нет символов в диапазоне форматируются как индекс.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**| Все символы в диапазоне форматируются как индекс.|
+Установка для свойства **подстрочный знак** **msoTrue** удаляет верхним форматирования из диапазона текста.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the text in the second story and, if it has mixed subscripting, it formats all the text as subscript.
+В этом примере проверяется текст во второй материал и, если он имеет смешанный нижней индексации, он форматирует весь текст как индекс.
 
 
 ```vb

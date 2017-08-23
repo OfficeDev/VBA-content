@@ -1,55 +1,56 @@
 ---
-title: Options.MeasurementUnit Property (Publisher)
+title: "Свойство Options.MeasurementUnit (издатель)"
 keywords: vbapb10.chm1048594
-f1_keywords:
-- vbapb10.chm1048594
+f1_keywords: vbapb10.chm1048594
 ms.prod: publisher
-api_name:
-- Publisher.Options.MeasurementUnit
+api_name: Publisher.Options.MeasurementUnit
 ms.assetid: 49221e4e-c84a-6706-8f9a-3853283ebb18
 ms.date: 06/08/2017
+ms.openlocfilehash: 4986b9aa615e2ee528f29e113ab287d6a5249567
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsmeasurementunit-property-publisher"></a>Свойство Options.MeasurementUnit (издатель)
+
+Возвращает или задает значение константы **PbUnitType** , представляющее единицы измерения standard для Microsoft Publisher. Чтение и запись.
 
 
-# Options.MeasurementUnit Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbUnitType** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
+ _выражение_. **MeasurementUnit**
 
-
-## Syntax
-
- _expression_. **MeasurementUnit**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbUnitType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **MeasurementUnit** property value can be one of the **PbUnitType** constants declared in the Publisher type library and shown in the following table.
+Значение свойства **MeasurementUnit** может иметь одно из **PbUnitType** константы объявляются в библиотеке типов издателя и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **pbUnitCM**| Sets the unit of measurement to centimeters.|
-| **pbUnitEmu**| Doesn't apply to this property; returns an error if used..|
-| **pbUnitFeet**|Doesn't apply to this property; returns an error if used.|
-| **pbUnitHa**|Doesn't apply to this property; returns an error if used.|
-| **pbUnitInch**|Sets the unit of measurement to inches.|
-| **pbUnitKyu**| Doesn't apply to this property; returns an error if used.|
-| **pbUnitMeter** .|Doesn't apply to this property; returns an error if used.|
-| **pbUnitPica**|Sets the unit of measurement to picas.|
-| **pbUnitPoint**|Sets the unit of measurement to points.|
-| **pbUnitTwip**|Doesn't apply to this property; returns an error if used.|
+| **pbUnitCM**| Задает единицы измерения см.|
+| **pbUnitEmu**| Не определено для этого свойства. Возвращает ошибку, если используется...|
+| **pbUnitFeet**|Не определено для этого свойства. Возвращает ошибку, если используется.|
+| **pbUnitHa**|Не определено для этого свойства. Возвращает ошибку, если используется.|
+| **pbUnitInch**|Задает единицы измерения см.|
+| **pbUnitKyu**| Не определено для этого свойства. Возвращает ошибку, если используется.|
+| **pbUnitMeter** .|Не определено для этого свойства. Возвращает ошибку, если используется.|
+| **pbUnitPica**|Задает единицы измерения пики.|
+| **pbUnitPoint**|Задает единицы измерения в точках.|
+| **pbUnitTwip**|Не определено для этого свойства. Возвращает ошибку, если используется.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the standard measurement unit for Publisher to points.
+В этом примере задается единицы измерения standard для Publisher точек.
 
 
 ```vb
@@ -58,7 +59,7 @@ Sub SetUnitOfMeasurement()
 End Sub
 ```
 
-This example displays the current unit of measurement.
+В этом примере отображается текущий единицы измерения.
 
 
 

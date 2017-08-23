@@ -1,26 +1,28 @@
 ---
-title: PbBuildingBlockGallery Enumeration (Publisher)
+title: "Перечисление PbBuildingBlockGallery (издатель)"
 keywords: vbapb10.chm65661
-f1_keywords:
-- vbapb10.chm65661
+f1_keywords: vbapb10.chm65661
 ms.prod: publisher
 ms.assetid: e8fc3a1a-d5cc-42e8-9746-86fe849f8169
 ms.date: 06/08/2017
+ms.openlocfilehash: bf902e8fd81fdd6e32934b5ee09f13995fab701a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbbuildingblockgallery-enumeration-publisher"></a>Перечисление PbBuildingBlockGallery (издатель)
 
-
-# PbBuildingBlockGallery Enumeration (Publisher)
-
-Constants that represent galleries of building blocks.
+Константы, которые представляют коллекции стандартных блоков.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbBBGalAccents**|1|Borders &; Accents gallery|
-| **pbBBGalAdvertisements**|0|Advertisements gallery|
-| **pbBBGalBusinessInfo**|3|Business Information gallery|
-| **pbBBGalCalendars**|2|Calendars gallery|
-| **pbBBGalNone**|-1 (&;HFFFFFFFF)|No gallery|
-| **pbBBGalPageParts**|4|Page Parts gallery|
+| **pbBBGalAccents**|1|Границы &; коллекции диакритические знаки|
+| **pbBBGalAdvertisements**|0|Коллекция объявлений|
+| **pbBBGalBusinessInfo**|3|Коллекцию бизнес-информации|
+| **pbBBGalCalendars**|2|Коллекция календарей|
+| **pbBBGalNone**|Значение -1 (&;HFFFFFFFF)|Нет галереи|
+| **pbBBGalPageParts**|4|Коллекция части страницы|
 

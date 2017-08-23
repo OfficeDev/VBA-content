@@ -1,41 +1,42 @@
 ---
-title: Shape.PickUp Method (Publisher)
+title: "Метод Shape.PickUp (издатель)"
 keywords: vbapb10.chm2228259
-f1_keywords:
-- vbapb10.chm2228259
+f1_keywords: vbapb10.chm2228259
 ms.prod: publisher
-api_name:
-- Publisher.Shape.PickUp
+api_name: Publisher.Shape.PickUp
 ms.assetid: 12b59235-db2d-b451-de8e-9e8df6bfeb1c
 ms.date: 06/08/2017
+ms.openlocfilehash: da7f7a6c6afcc4c3ea2fc3a3699378ffa875557b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapepickup-method-publisher"></a>Метод Shape.PickUp (издатель)
+
+Копирование форматирования фигуры или диапазона фигуры, чтобы его можно скопировать в другую фигуру или фигур с помощью метода **[Применить](shaperange-apply-method-publisher.md)** диапазона.
 
 
-# Shape.PickUp Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](shaperange-apply-method-publisher.md)** method.
+ _выражение_. **Раскладки**
 
-
-## Syntax
-
- _expression_. **PickUp**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Nothing
-
-
-## Remarks
-
-You must use the  **PickUp** method to copy the formatting from a shape or shape range before using the **Apply** method; otherwise, an error occurs.
+Значение Nothing
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example copies the formatting from the first shape of the active publication to the second shape of the active publication.
+Необходимо использовать метод **раскладки** для копирования форматирования фигуры или диапазона фигуры перед использованием методу **Apply** ; в противном случае возникает ошибка.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере копируется форматирование из первой фигуры active публикации для второй фигуры active публикации.
 
 
 ```vb

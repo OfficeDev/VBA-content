@@ -1,25 +1,26 @@
 ---
-title: LayoutGuides.Columns Property (Publisher)
+title: "Свойство LayoutGuides.Columns (издатель)"
 keywords: vbapb10.chm1114114
-f1_keywords:
-- vbapb10.chm1114114
+f1_keywords: vbapb10.chm1114114
 ms.prod: publisher
-api_name:
-- Publisher.LayoutGuides.Columns
+api_name: Publisher.LayoutGuides.Columns
 ms.assetid: 926f7d06-0ff7-bf4a-033e-6b310ef9f400
 ms.date: 06/08/2017
+ms.openlocfilehash: 4f65e931c5115818b67c54572ee24df4c7629b0a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="layoutguidescolumns-property-publisher"></a>Свойство LayoutGuides.Columns (издатель)
+
+Возвращает или задает **времени** , представляющий число столбцов руководство по на странице или количество столбцов в рамке. Чтение и запись.
 
 
-# LayoutGuides.Columns Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that represents the number of guide columns on a page or the number of columns in a text frame. Read/write.
+ _выражение_. **Столбцы**
 
-
-## Syntax
-
- _expression_. **Columns**
-
- _expression_A variable that represents a  **LayoutGuides** object.
+ переменная _expression_A, представляет собой объект- **LayoutGuides** .
 
 

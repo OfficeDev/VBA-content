@@ -1,36 +1,37 @@
 ---
-title: ColorCMYK.Black Property (Publisher)
+title: "Свойство ColorCMYK.Black (издатель)"
 keywords: vbapb10.chm2621442
-f1_keywords:
-- vbapb10.chm2621442
+f1_keywords: vbapb10.chm2621442
 ms.prod: publisher
-api_name:
-- Publisher.ColorCMYK.Black
+api_name: Publisher.ColorCMYK.Black
 ms.assetid: f404ee43-45e1-6c6d-75cc-b868fdedcd86
 ms.date: 06/08/2017
+ms.openlocfilehash: 7d23349ff055dab9087a26875be879cdc2ff8e0b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorcmykblack-property-publisher"></a>Свойство ColorCMYK.Black (издатель)
+
+Задает или возвращает значение типа **Long** , представляющее компонент черного цвета CMYK. Значение может быть любое число в диапазоне от 0 до 255. Чтение и запись.
 
 
-# ColorCMYK.Black Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **Long** that represents the black component of a CMYK color. Value can be any number between 0 and 255. Read/write.
+ _выражение_. **Черный**
 
-
-## Syntax
-
- _expression_. **Black**
-
- _expression_A variable that represents a  **ColorCMYK** object.
+ переменная _expression_A, представляет собой объект- **ColorCMYK** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
+В этом примере создается два новых фигур и затем показана цвет заливки CMYK для одной формы и значения CMYK вторую фигуру на те же значения CMYK.
 
 
 ```vb

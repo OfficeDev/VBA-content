@@ -1,31 +1,32 @@
 ---
-title: Cell.TextRange Property (Publisher)
+title: "Свойство Cell.TextRange (издатель)"
 keywords: vbapb10.chm5111833
-f1_keywords:
-- vbapb10.chm5111833
+f1_keywords: vbapb10.chm5111833
 ms.prod: publisher
-api_name:
-- Publisher.Cell.TextRange
+api_name: Publisher.Cell.TextRange
 ms.assetid: 31aa92d1-852f-3742-defa-94485411bcc3
 ms.date: 06/08/2017
+ms.openlocfilehash: 3730adee92c0a724cecef5e490973667dd53ea41
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="celltextrange-property-publisher"></a>Свойство Cell.TextRange (издатель)
+
+Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий текст, который присоединен к фигуры и свойства и методы для работы с текстом.
 
 
-# Cell.TextRange Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
+ _выражение_. **TextRange**
 
-
-## Syntax
-
- _expression_. **TextRange**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds text to the text frame of shape one in the active publication, and then formats the new text. This example assumes there is at least one shape on the first page of the active publication.
+В следующем примере добавляется текст надписи фигуры один активный публикации и форматирует новый текст. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
 
 
 ```vb
@@ -41,7 +42,7 @@ Sub AddTextToTextFrame()
 End Sub
 ```
 
-The following example adds a rectangle to the active publication and adds text to it.
+В следующем примере добавляет прямоугольник active публикации и добавляет текст.
 
 
 

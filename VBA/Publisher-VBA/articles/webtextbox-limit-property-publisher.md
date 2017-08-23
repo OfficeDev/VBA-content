@@ -1,41 +1,42 @@
 ---
-title: WebTextBox.Limit Property (Publisher)
+title: "Свойство WebTextBox.Limit (издатель)"
 keywords: vbapb10.chm4194309
-f1_keywords:
-- vbapb10.chm4194309
+f1_keywords: vbapb10.chm4194309
 ms.prod: publisher
-api_name:
-- Publisher.WebTextBox.Limit
+api_name: Publisher.WebTextBox.Limit
 ms.assetid: b6bf334e-a610-492a-b316-e8b52d223176
 ms.date: 06/08/2017
+ms.openlocfilehash: ec7966e7137f1864cc6137ed3d3ffa50a4a5e67e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webtextboxlimit-property-publisher"></a>Свойство WebTextBox.Limit (издатель)
+
+Возвращает или задает типа **Long** , который представляет максимальное число символов, которое можно ввести в элемент управления текстового поля Web. Чтение и запись.
 
 
-# WebTextBox.Limit Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
+ _выражение_. **Ограничение**
 
-
-## Syntax
-
- _expression_. **Limit**
-
- _expression_A variable that represents a  **WebTextBox** object.
+ переменная _expression_A, представляет собой объект- **WebTextBox** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-Text box limits can be any number from 1 to 255 characters. Numbers higher than 255 will generate an error.
+Длинный
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example creates a new Web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that it is a required control.
+Текстовое поле ограничения может быть любое число от 1 до 255 символов. Номера больше, чем 255 приведет к ошибке.
+
+
+## <a name="example"></a>Пример
+
+В этом примере создается новый элемент управления полем Web текст в активной публикации, задает текст по умолчанию и ограничение количества знаков для текстового поля и указывает, что необходимый элемент управления.
 
 
 ```vb

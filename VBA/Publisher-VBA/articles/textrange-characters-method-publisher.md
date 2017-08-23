@@ -1,52 +1,53 @@
 ---
-title: TextRange.Characters Method (Publisher)
+title: "Метод TextRange.Characters (издатель)"
 keywords: vbapb10.chm5308425
-f1_keywords:
-- vbapb10.chm5308425
+f1_keywords: vbapb10.chm5308425
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.Characters
+api_name: Publisher.TextRange.Characters
 ms.assetid: e851767e-12b2-ad77-071b-9d27bbf0d637
 ms.date: 06/08/2017
+ms.openlocfilehash: 944d5f489175c4eda06f0ff86e25c58f56932f4f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangecharacters-method-publisher"></a>Метод TextRange.Characters (издатель)
+
+Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий указанного подмножества текстовых символов.
 
 
-# TextRange.Characters Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text characters.
+ _выражение_. **Символы** ( **_Запуск_**, **_Длина_**)
 
-
-## Syntax
-
- _expression_. **Characters**( **_Start_**,  **_Length_**)
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Start|Required| **Long**|The first character in the returned range.|
-|Length|Optional| **Long**|The number of characters to be returned. Default is 1.|
+|Начало|Обязательное свойство.| **Длинный**|Первый символ возвращаемого диапазона.|
+|Length|Необязательный| **Длинный**|Число символов, которые будут возвращены. Значение по умолчанию — 1.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 TextRange
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If  **_Start_** is greater than the number of characters in the specified text, the returned range starts with the last character in the specified range.
+Если **_запустить_** больше, чем количество символов в указанный текст, возвращенный диапазон начинается с последнего символа в указанном диапазоне.
 
-If  **_Length_** is greater than the number of characters from the specified starting character to the end of the text, the returned range contains all those characters.
+Если **_Длина_** больше, чем количество символов из указанного начального знака в конец текста, возвращенный диапазон содержит все символы.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the text for the first shape on the first page in the active document, and then sets the font of the first two characters to 15 points and bold.
+В этом примере задает текст для первой фигуры на первой странице в активном документе и затем задает шрифт первые два разряда 15 точек и полужирным шрифтом.
 
 
 ```vb

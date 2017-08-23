@@ -1,35 +1,37 @@
 ---
-title: Application.Assistance Property (Publisher)
+title: "Свойство Application.Assistance (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.Application.Assistance
+api_name: Publisher.Application.Assistance
 ms.assetid: 2abac248-bec5-876f-9ae5-88a59ce16b59
 ms.date: 06/08/2017
+ms.openlocfilehash: da27e011267a1108db777922cceecefd3f5c85c7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationassistance-property-publisher"></a>Свойство Application.Assistance (издатель)
+
+Возвращает ссылку на объект Microsoft Office (ФН) **IAssistance** , который предоставляет средства для разработчиков для создания настраиваемого интерфейса справки для пользователей в Microsoft Office. Только для чтения.
 
 
-# Application.Assistance Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Gets a reference to the Microsoft Office (MSO) **IAssistance** object, which provides a means for developers to create a customized Help experience for users within Microsoft Office. Read-only.
+ _выражение_. **Помощник**
 
-
-## Syntax
-
- _expression_. **Assistance**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **IAssistance** object exposes methods that developers can use to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Publisher Help window.
-
-
-## See also
+Объект **IAssistance** предоставляет методы, которые могут использоваться разработчиками для отображения разделов справки в средстве просмотра справки Office или для отображения разделов справки, поставляемых с Microsoft Office в окне «Справка».
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [Application Object](application-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект приложения](application-object-publisher.md)
 

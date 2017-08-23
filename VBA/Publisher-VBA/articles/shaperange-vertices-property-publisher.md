@@ -1,48 +1,49 @@
 ---
-title: ShapeRange.Vertices Property (Publisher)
+title: "Свойство ShapeRange.Vertices (издатель)"
 keywords: vbapb10.chm2293845
-f1_keywords:
-- vbapb10.chm2293845
+f1_keywords: vbapb10.chm2293845
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Vertices
+api_name: Publisher.ShapeRange.Vertices
 ms.assetid: 0beb2323-8db6-c8c2-2f34-4c1ffde7fddc
 ms.date: 06/08/2017
+ms.openlocfilehash: 2dfccff7ff7deae6ae738f4826a70684222eb877
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangevertices-property-publisher"></a>Свойство ShapeRange.Vertices (издатель)
+
+Возвращает координаты вершин указанного freeform документа (и контрольные точки для кривых Безье) в формате пары координат. Только для чтения **Variant**.
 
 
-# ShapeRange.Vertices Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
+ _выражение_. **Вершины**
 
-
-## Syntax
-
- _expression_. **Vertices**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use the array returned by this property as an argument to the  [AddCurve](shapes-addcurve-method-publisher.md)or  [AddPolyline](shapes-addpolyline-method-publisher.md)methods.
+Можно использовать массива, возвращаемого этим свойством как аргумент для методов [AddCurve](shapes-addcurve-method-publisher.md)или [AddPolyline](shapes-addpolyline-method-publisher.md).
 
-The following table shows how the  **Vertices** property associates the values in the array `vertArray()` with the coordinates of a triangle's vertices.
+В следующей таблице показано, как свойство **вершин** связывает значения в массиве `vertArray()` с координаты вершины треугольника.
 
 
 
-|**vertArray element**|**Contains**|
+|**элемент vertArray**|**Contains**|
 |:-----|:-----|
-| `vertArray(1, 1)`|The horizontal distance from the first vertex to the left side of the page.|
-| `vertArray(1, 2)`|The vertical distance from the first vertex to the top of the page.|
-| `vertArray(2, 1)`|The horizontal distance from the second vertex to the left side of the page.|
-| `vertArray(2, 2)`|The vertical distance from the second vertex to the top of the page.|
-| `vertArray(3, 1)`|The horizontal distance from the third vertex to the left side of the page.|
-| `vertArray(3, 2)`|The vertical distance from the third vertex to the top of the page.|
+| `vertArray(1, 1)`|Расстояние по горизонтали из первой вершины в левой части страницы.|
+| `vertArray(1, 2)`|Расстояние по вертикали из первой вершины в верхней части страницы.|
+| `vertArray(2, 1)`|Расстояние по горизонтали от второй вершины в левой части страницы.|
+| `vertArray(2, 2)`|Расстояние по вертикали от второй вершины в верхней части страницы.|
+| `vertArray(3, 1)`|Расстояние по горизонтали от третьей вершины в левой части страницы.|
+| `vertArray(3, 2)`|Расстояние по вертикали от третьей вершины в верхней части страницы.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example assigns the vertex coordinates for shape one in the active publication to the array variable  `vertArray()` and displays the coordinates for the first vertex.
+В этом примере присваивает переменной массива координаты вершин фигуры один активный публикации `vertArray()` и отображает координаты для первой вершины.
 
 
 ```vb
@@ -58,7 +59,7 @@ With ActiveDocument.Pages(1).Shapes(1)
 End With
 ```
 
-This example creates a curve that has the same geometric description as shape one in the active publication. Shape one must contain 3n+1 vertices for this example to work, where n is an integer greater than or equal to 1.
+В этом примере создается график, который выполняет ту же функцию геометрические как один фигуры в активной публикации. Фигура один должен содержать 3n + 1 вершины для этого примера, где n — целое число, большее или равное 1.
 
 
 

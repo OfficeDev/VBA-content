@@ -1,25 +1,26 @@
 ---
-title: RulerGuides Object (Publisher)
+title: "Объект RulerGuides (издатель)"
 keywords: vbapb10.chm786431
-f1_keywords:
-- vbapb10.chm786431
+f1_keywords: vbapb10.chm786431
 ms.prod: publisher
-api_name:
-- Publisher.RulerGuides
+api_name: Publisher.RulerGuides
 ms.assetid: c58d3cb2-8cf8-74fa-2bf4-a931dc95a26a
 ms.date: 06/08/2017
+ms.openlocfilehash: a3e45d73e3eb4c1239f542bed6c46646c04cdc24
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rulerguides-object-publisher"></a>Объект RulerGuides (издатель)
 
-
-# RulerGuides Object (Publisher)
-
-A collection of  **[RulerGuide](rulerguide-object-publisher.md)** objects that represents a gridline used to align objects on a page.
+Коллекция объектов **[RulerGuide](rulerguide-object-publisher.md)** , представляющий линий сетки, используется для выравнивания объектов на странице.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to add ruler gridlines to the **RulerGuides** collection. This example creates horizontal ruler guides and vertical ruler guides every half inch on the first page of the active publication.
+Используйте метод **[Add](rulerguides-add-method-publisher.md)** коллекции **RulerGuides** для добавления в коллекцию **RulerGuides** линии сетки линейки. В этом примере создается руководства по горизонтальной линейки и вертикальной направляющие каждый половины дюйм на первой странице active публикации.
  
 
  
@@ -42,7 +43,7 @@ Sub SetRulerGuides()
 End Sub
 ```
 
-Use the  **[Count](rulerguides-count-property-publisher.md)** property to return the total number of ruler guides, horizontal and vertical, in the collection. The following example uses the **Count** property to create a loop that deletes each of the ruler guides in the collection.
+Свойство **[Count](rulerguides-count-property-publisher.md)** возвращает общее число направляющие, горизонтальных и вертикальных в коллекции. В следующем примере свойство **Count** используйте цикл в котором удаление всех направляющие в коллекции.
  
 
  
@@ -61,22 +62,22 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Add](rulerguides-add-method-publisher.md)|
+|[Добавление](rulerguides-add-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](rulerguides-application-property-publisher.md)|
+|[Приложения](rulerguides-application-property-publisher.md)|
 |[Count](rulerguides-count-property-publisher.md)|
-|[Item](rulerguides-item-property-publisher.md)|
-|[Parent](rulerguides-parent-property-publisher.md)|
+|[Элемент](rulerguides-item-property-publisher.md)|
+|[Родительский раздел](rulerguides-parent-property-publisher.md)|
 

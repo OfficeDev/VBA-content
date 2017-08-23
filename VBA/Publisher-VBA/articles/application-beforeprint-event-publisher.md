@@ -1,47 +1,48 @@
 ---
-title: Application.BeforePrint Event (Publisher)
+title: "Событие Application.BeforePrint (издатель)"
 keywords: vbapb10.chm268435491
-f1_keywords:
-- vbapb10.chm268435491
+f1_keywords: vbapb10.chm268435491
 ms.prod: publisher
-api_name:
-- Publisher.Application.BeforePrint
+api_name: Publisher.Application.BeforePrint
 ms.assetid: 4d819aab-726e-ab00-89e0-aedcb62d834e
 ms.date: 06/08/2017
+ms.openlocfilehash: 98632fd1cf93ba3f698d3d9f4e777752fcb502f6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationbeforeprint-event-publisher"></a>Событие Application.BeforePrint (издатель)
+
+Возникает перед публикацией печати или просмотра. .
 
 
-# Application.BeforePrint Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs before the publication is printed or previewed. .
+ _выражение_. **BeforePrint** ( **_Doc_**, **_Отменить_**)
 
-
-## Syntax
-
- _expression_. **BeforePrint**( **_Doc_**,  **_Cancel_**)
-
- _expression_An expression that returns an  **Application** object.
+ _expression_An выражение, возвращающее объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
-|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this parameter to **True**, the publication is not printed when the procedure finishes running.|
+|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
+|Cancel|Обязательное свойство.| **Boolean**| **Значение false,** при возникновении события. Если этот параметр задает процедуру события значение **True**, публикации не печатается после завершения работы процедуры.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **BeforePrint** event fires only after the document is fully loaded and the onload events have returned. Printing does not occur until the event handler is executed.
+Событие **BeforePrint** вызывается только после того, как документ загружен полностью и вернули события onload. Печать не выполняется, пока выполняется обработчик событий.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **BeforePrint** event. It displays a message notifying the user that the document is about to be printed.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **BeforePrint** . Будет выведено сообщение о том, что документ будет готов к печати.
 
 
 ```vb
@@ -50,7 +51,7 @@ Private Sub pubApplication_BeforePrint(ByVal Doc As Document, Cancel As Boolean 
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
 
 
 
@@ -59,7 +60,7 @@ For this event to occur, you must place the following line of code in the  **Gen
 Private WithEvents pubApplication As Application
 ```
 
-Then run the following initialization procedure.
+Затем выполните следующую процедуру инициализации.
 
 
 
@@ -71,11 +72,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

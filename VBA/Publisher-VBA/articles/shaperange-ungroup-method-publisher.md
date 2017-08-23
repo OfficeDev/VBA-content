@@ -1,43 +1,44 @@
 ---
-title: ShapeRange.Ungroup Method (Publisher)
+title: "Метод ShapeRange.Ungroup (издатель)"
 keywords: vbapb10.chm2293801
-f1_keywords:
-- vbapb10.chm2293801
+f1_keywords: vbapb10.chm2293801
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Ungroup
+api_name: Publisher.ShapeRange.Ungroup
 ms.assetid: 253a366c-7317-14e7-2668-191eccec6cb8
 ms.date: 06/08/2017
+ms.openlocfilehash: 16ec074ec44862c4dbf4edd17de2ae43551f1e63
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeungroup-method-publisher"></a>Метод ShapeRange.Ungroup (издатель)
+
+Отменяет группировку указанной группы фигур или любой группы фигур в диапазоне указанные форму. Если указанный фигуры объектов OLE и рисунков, Microsoft Publisher разбить его и преобразования его разгруппировании набор фигур. (Например, электронную таблицу Microsoft Excel внедренных преобразуется в линии и текстовых полей.) Возвращает разгруппировании фигур в виде одного объекта **[ShapeRange](shaperange-object-publisher.md)** .
 
 
-# ShapeRange.Ungroup Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Ungroups the specified group of shapes or any groups of shapes in the specified shape range. If the specified shape is a picture or OLE object, Microsoft Publisher will break it apart and convert it to an ungrouped set of shapes. (For example, an embedded Microsoft Excel spreadsheet is converted into lines and text boxes.) Returns the ungrouped shapes as a single  **[ShapeRange](shaperange-object-publisher.md)** object.
+ _выражение_. **Разгруппировать**
 
-
-## Syntax
-
- _expression_. **Ungroup**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ShapeRange
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Using this method on an inline shape or a shape that isn't a group, picture, or OLE object generates an error. Also, an error occurs if the picture is a bitmap, JPEG, GIF, or PNG (Portable Network Graphics) file.
+С помощью этого метода на фигуры, которая не является группу или встроенная фигура, изображение или объекта OLE приводит к ошибке. Кроме того Если рисунок — это растровое изображение, JPEG, GIF или PNG (Portable Network Graphics) файла возникает ошибка.
 
-Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection. Also, newly ungrouped shapes are added to the **Shapes** collection on the current page (or pages) or scratch area. As a result, they may shift from one collection to another.
+Так как в группы фигур рассматривается как один объект, Группировка и разгруппировка фигур изменения количество элементов в коллекции **фигур** и изменяет номера индекса элементов, следующие за затронутых элементов в коллекции. Кроме того, недавно разгруппировании фигур добавляются в коллекцию **фигур** на текущей странице (или страниц) или рабочие области. В результате они могут сместиться из одного семейства сайтов в другое.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example ungroups any grouped shapes on the first page of the active publication.
+В этом примере Разгруппировать сгруппированные фигуры на первой странице active публикации.
 
 
 ```vb

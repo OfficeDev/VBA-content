@@ -1,46 +1,47 @@
 ---
-title: PictureFormat.IncrementContrast Method (Publisher)
+title: "Метод PictureFormat.IncrementContrast (издатель)"
 keywords: vbapb10.chm3604497
-f1_keywords:
-- vbapb10.chm3604497
+f1_keywords: vbapb10.chm3604497
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.IncrementContrast
+api_name: Publisher.PictureFormat.IncrementContrast
 ms.assetid: cff50058-2b88-fc2d-633d-411380e5f2f3
 ms.date: 06/08/2017
+ms.openlocfilehash: 3601c0074a164cbe772b550ab1439dd907a00e78
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatincrementcontrast-method-publisher"></a>Метод PictureFormat.IncrementContrast (издатель)
+
+Изменение контрастности рисунка на указанную величину.
 
 
-# PictureFormat.IncrementContrast Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Changes the contrast of the picture by the specified amount.
+ _выражение_. **IncrementContrast** ( **_Порядкового номера_**)
 
-
-## Syntax
-
- _expression_. **IncrementContrast**( **_Increment_**)
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Increment|Required| **Single**|Specifies how much to change the value of the  **[Contrast](pictureformat-contrast-property-publisher.md)** property for the picture. A positive value increases the contrast; a negative value decreases the contrast. Valid values are between - 1 and 1.|
+|Порядкового номера|Обязательное свойство.| **Один**|Определяет, насколько изменение значение свойства **[контрастности](pictureformat-contrast-property-publisher.md)** рисунка. Положительное значение увеличивает контрастность; отрицательное значение уменьшает контраст. Допустимые значения: от - 1 до 1.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You cannot adjust the contrast of a picture past the upper or lower limit for the  **Contrast** property. For example, if the **Contrast** property is initially set to 0.9 and you specify 0.3 for the **_Increment_** argument, the resulting contrast level will be 1.0, which is the upper limit for the **Contrast** property, instead of 1.2.
+Нельзя настроить контрастность изображения за границу верхней или нижней, для свойства **контрастности** . Например если свойство **контрастности** изначально установлено значение 0,9 и можно указать 0,3 для аргумента **_порядкового номера_** , результирующий уровень контрастности 1.0, являющийся верхний предел для свойства **контрастности** вместо 1.2.
 
-Use the  **Contrast** property to set the absolute contrast for the picture.
+Свойство **контрастности** задать абсолютные яркости для рисунка.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example increases the contrast for all pictures on the first page of the active publication that aren't already set to maximum contrast.
+В этом примере увеличивает контрастность для всех рисунков на первой странице active публикации, которые уже не задано значение максимального контрастности.
 
 
 ```vb

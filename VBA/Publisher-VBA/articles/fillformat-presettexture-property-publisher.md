@@ -1,43 +1,44 @@
 ---
-title: FillFormat.PresetTexture Property (Publisher)
+title: "Свойство FillFormat.PresetTexture (издатель)"
 keywords: vbapb10.chm2359560
-f1_keywords:
-- vbapb10.chm2359560
+f1_keywords: vbapb10.chm2359560
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.PresetTexture
+api_name: Publisher.FillFormat.PresetTexture
 ms.assetid: c03a9bf3-7378-e82a-9a40-650c5c96fd2a
 ms.date: 06/08/2017
+ms.openlocfilehash: 42978780243ffbc10174df61382418c1836a099c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatpresettexture-property-publisher"></a>Свойство FillFormat.PresetTexture (издатель)
+
+Возвращает константу **MsoPresetTexture** , представляющий предварительно текстуры для указанного заполнения. Только для чтения.
 
 
-# FillFormat.PresetTexture Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
+ _выражение_. **PresetTexture**
 
-
-## Syntax
-
- _expression_. **PresetTexture**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoPresetTexture
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **PresetTexture** property value can be one of the ** [MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **PresetTexture** может иметь одно из ** [MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
-Use the  **[PresetTextured](fillformat-presettextured-method-publisher.md)** method to specify the preset texture for the fill.
+Метод **[PresetTextured](fillformat-presettextured-method-publisher.md)** используется для указания предварительно текстуры для заполнения.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a rectangle to the first page in the active publication and sets its preset texture to match that of the first shape on the page. For the example to work, the first shape must have a preset textured fill.
+В этом примере добавляет прямоугольник к первой страницы в активной публикации и задает его предварительно текстуры в соответствии с, первой фигуры на странице. Для обеспечения работы примера первую фигуру должна иметь предварительно текстуры заливки.
 
 
 ```vb

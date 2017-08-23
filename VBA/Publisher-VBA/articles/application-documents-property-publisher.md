@@ -1,36 +1,37 @@
 ---
-title: Application.Documents Property (Publisher)
+title: "Свойство Application.Documents (издатель)"
 keywords: vbapb10.chm131174
-f1_keywords:
-- vbapb10.chm131174
+f1_keywords: vbapb10.chm131174
 ms.prod: publisher
-api_name:
-- Publisher.Application.Documents
+api_name: Publisher.Application.Documents
 ms.assetid: dd48d68f-a6ae-b5c0-2a85-90abff1e6c5a
 ms.date: 06/08/2017
+ms.openlocfilehash: e1f4015814476ab49d755bd8519075a28dc27596
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationdocuments-property-publisher"></a>Свойство Application.Documents (издатель)
+
+Возвращает коллекцию **[документов](documents-object-publisher.md)** , представляющий все открытые публикации. Только для чтения.
 
 
-# Application.Documents Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Documents](documents-object-publisher.md)** collection that represents all open publications. Read-only.
+ _выражение_. **Документы**
 
-
-## Syntax
-
- _expression_. **Documents**
-
- _expression_A variable that represents a  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Documents
+Документы
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example lists all of the open publications.
+В следующем примере перечисляются все открытые публикации.
 
 
 ```vb
@@ -43,11 +44,11 @@ MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

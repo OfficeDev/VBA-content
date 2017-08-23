@@ -1,44 +1,45 @@
 ---
-title: ReaderSpread.Pages Property (Publisher)
+title: "Свойство ReaderSpread.Pages (издатель)"
 keywords: vbapb10.chm524293
-f1_keywords:
-- vbapb10.chm524293
+f1_keywords: vbapb10.chm524293
 ms.prod: publisher
-api_name:
-- Publisher.ReaderSpread.Pages
+api_name: Publisher.ReaderSpread.Pages
 ms.assetid: 181c37b2-ed3f-826a-5718-ae6aff120eb3
 ms.date: 06/08/2017
+ms.openlocfilehash: 00d0f9c2fc7508f1af937d92ad9252e905f52c17
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="readerspreadpages-property-publisher"></a>Свойство ReaderSpread.Pages (издатель)
+
+Возвращает объект **[Page](page-object-publisher.md)** , представляющий одну из страниц, составляющих указанного ширина чтения.
 
 
-# ReaderSpread.Pages Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Page](page-object-publisher.md)** object representing one of the pages that compose the specified reader spread.
+ _выражение_. **Страницы** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Pages**( **_Index_**)
-
- _expression_A variable that represents a  **ReaderSpread** object.
+ переменная _expression_A, представляет собой объект- **ReaderSpread** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The page from the reader spread to return. Can be either 1 or 2.|
+|Индекс|Обязательное свойство.| **Длинный**|Для возврата распространение страницы из устройства чтения. Может быть 1 или 2.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-A reader spread will consist of only one or two pages, which is why the valid values for the  **Index** argument are 1 or 2.
+Средство чтения распространения будет состоять из только для одного или двух страниц, поэтому поддерживаются следующие допустимые значения для аргумента **Index** 1 или 2.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example checks the reader spread of the fifth page in the active publication to see if it contains more than one page. If it does, the example reports the page number of the second page in the spread.
+В следующем примере проверяется распространения чтения странице пятый в активной публикации на предмет наличия более одной страницы. Если это так, в примере сообщается номер второй страницы в распространении.
 
 
 ```vb

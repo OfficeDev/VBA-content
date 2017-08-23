@@ -1,54 +1,49 @@
 ---
-title: FillFormat.TwoColorGradient Method (Publisher)
+title: "Метод FillFormat.TwoColorGradient (издатель)"
 keywords: vbapb10.chm2359318
-f1_keywords:
-- vbapb10.chm2359318
+f1_keywords: vbapb10.chm2359318
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.TwoColorGradient
+api_name: Publisher.FillFormat.TwoColorGradient
 ms.assetid: 7b0d1b19-a7bf-7b3d-66f4-60dfc588abfe
 ms.date: 06/08/2017
+ms.openlocfilehash: e34ce5501e759a9cd60971f808f86f0d6d3e97bf
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformattwocolorgradient-method-publisher"></a>Метод FillFormat.TwoColorGradient (издатель)
+
+Устанавливает указанный заливки градиентом двух цветов. Цвета заливки двух задаются свойства **[ForeColor](fillformat-forecolor-property-publisher.md)** и **[BackColor](fillformat-backcolor-property-publisher.md)** .
 
 
-# FillFormat.TwoColorGradient Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the specified fill to a two-color gradient. The two fill colors are specified by the  **[ForeColor](fillformat-forecolor-property-publisher.md)** and **[BackColor](fillformat-backcolor-property-publisher.md)** properties.
+ _выражение_. **TwoColorGradient** ( **_Стиль_**, **_вариантов_**)
 
-
-## Syntax
-
- _expression_. **TwoColorGradient**( **_Style_**,  **_Variant_**)
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|Стиль|Обязательное свойство.| **MsoGradientStyle**|Стиль градиента.|
+|Variant|Обязательное свойство.| **Длинный**|Градиентный variant. Может быть в диапазоне от 1 до 4, соответствующий четырех вариантов на вкладке **градиента** в диалоговом окне **Заливки** . Если стиль **msoGradientFromTitle** или **msoGradientFromCenter**, этот аргумент может быть 1 или 2.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The Style parameter can be one of the  **MsoGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
+Параметр Style может иметь одно из **MsoGradientStyle** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-| **msoGradientDiagonalDown**|
-| **msoGradientDiagonalUp**|
-| **msoGradientFromCenter**|
-| **msoGradientFromCorner**|
-| **msoGradientFromTitle**|
-| **msoGradientHorizontal**|
-| **msoGradientVertical**|
+| **msoGradientDiagonalDown**|| **msoGradientDiagonalUp**|| **msoGradientFromCenter**|| **msoGradientFromCorner**|| **msoGradientFromTitle**|| **msoGradientHorizontal**|| **msoGradientVertical**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a rectangle with a two-color gradient fill to the active publication and sets the background and foreground color for the fill.
+В этом примере добавляет прямоугольник с градиентной заливки двух цветов active публикации и задает цвет фона и переднего плана для заполнения.
 
 
 ```vb

@@ -1,41 +1,43 @@
 ---
-title: LineFormat.GradientVariant Property (Publisher)
+title: "Свойство LineFormat.GradientVariant (издатель)"
 keywords: vbapb10.chm3408152
-f1_keywords:
-- vbapb10.chm3408152
+f1_keywords: vbapb10.chm3408152
 ms.prod: publisher
 ms.assetid: aa3d9d8f-dc59-8274-a177-f99ddd0d472f
 ms.date: 06/08/2017
+ms.openlocfilehash: c14fd14a8428bf088921da25cda8391d3813a224
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatgradientvariant-property-publisher"></a>Свойство LineFormat.GradientVariant (издатель)
+
+Возвращает градиента variant для указанной строки в виде целое значение, обычно от 1 до 4. Только для чтения.
 
 
-# LineFormat.GradientVariant Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the gradient variant for the specified line as an integer value, usually from 1 to 4. Read-only.
+ _выражение_. **GradientVariant**
 
-
-## Syntax
-
- _expression_. **GradientVariant**
-
- _expression_A variable that represents a  **LineFormat** object.
+ переменная _expression_A, представляет собой объект- **LineFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
- **Long**
-
-
-## Remarks
-
-If the gradient style is  **msoGradientFromCenter**, this property returns either 1 or 2. 
+ **Длинный**
 
 
-## See also
+## <a name="remarks"></a>Заметки
+
+Если стиль градиента **msoGradientFromCenter**, данное свойство возвращает 1 или 2. 
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [LineFormat Object](lineformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект LineFormat](lineformat-object-publisher.md)
 

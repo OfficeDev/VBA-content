@@ -1,41 +1,42 @@
 ---
-title: WebCommandButton.ActionURL Property (Publisher)
+title: "Свойство WebCommandButton.ActionURL (издатель)"
 keywords: vbapb10.chm3932163
-f1_keywords:
-- vbapb10.chm3932163
+f1_keywords: vbapb10.chm3932163
 ms.prod: publisher
-api_name:
-- Publisher.WebCommandButton.ActionURL
+api_name: Publisher.WebCommandButton.ActionURL
 ms.assetid: ede9b18f-1be1-9572-9b78-7dbe0817cfe7
 ms.date: 06/08/2017
+ms.openlocfilehash: 6dddc9d5b1bc6580aa9942cd203204f22b5fbe67
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webcommandbuttonactionurl-property-publisher"></a>Свойство WebCommandButton.ActionURL (издатель)
+
+Возвращает или задает **строку** , представляющую URL-адреса сценариев на стороне сервера, выполняются в ответ на нажатие кнопки Отправить. Чтение и запись.
 
 
-# WebCommandButton.ActionURL Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the URL of the server-side script to execute in response to a Submit button click. Read/write.
+ _выражение_. **ActionURL**
 
-
-## Syntax
-
- _expression_. **ActionURL**
-
- _expression_A variable that represents a  **WebCommandButton** object.
+ переменная _expression_A, представляет собой объект- **WebCommandButton** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The default value for the  **ActionURL** property is "http://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
+Значение по умолчанию для свойства **ActionURL** : «http://example.microsoft.com/~user/ispscript.cgi». Это свойство игнорируется для сброса кнопок.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a Web form Submit command button and sets the script path and file name to run when a user clicks the button.
+В этом примере создается кнопки Отправить форму Web и задает путь и имя скрипта для запуска при нажатии кнопки.
 
 
 ```vb

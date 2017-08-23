@@ -1,36 +1,37 @@
 ---
-title: Table.GrowToFitText Property (Publisher)
+title: "Свойство Table.GrowToFitText (издатель)"
 keywords: vbapb10.chm4784132
-f1_keywords:
-- vbapb10.chm4784132
+f1_keywords: vbapb10.chm4784132
 ms.prod: publisher
-api_name:
-- Publisher.Table.GrowToFitText
+api_name: Publisher.Table.GrowToFitText
 ms.assetid: d8822df7-a252-a5bb-be26-83df8ec5eb94
 ms.date: 06/08/2017
+ms.openlocfilehash: dae6529fa9e2335e2975c2cf5fffcb33dce40348
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="tablegrowtofittext-property-publisher"></a>Свойство Table.GrowToFitText (издатель)
+
+ **Значение true** для ячеек в таблице увеличить по размеру текста по вертикали. Чтение и запись.
 
 
-# Table.GrowToFitText Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** for cells in a table to increase vertically to fit text. Read/write.
+ _выражение_. **GrowToFitText**
 
-
-## Syntax
-
- _expression_. **GrowToFitText**
-
- _expression_A variable that represents a  **Table** object.
+ переменная _expression_A, представляет собой объект- **таблицы** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets each row of the specified table to 12 points, and the row height doesn't increase as text is added to the cells in the rows.
+В этом примере задается каждой строки в указанной таблице 12 пунктов, а не увеличивает высоты строки текста при добавлении ячеек в строках.
 
 
 ```vb

@@ -1,43 +1,44 @@
 ---
-title: PictureFormat.Filename Property (Publisher)
+title: "Свойство PictureFormat.Filename (издатель)"
 keywords: vbapb10.chm3604756
-f1_keywords:
-- vbapb10.chm3604756
+f1_keywords: vbapb10.chm3604756
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.Filename
+api_name: Publisher.PictureFormat.Filename
 ms.assetid: 73e2a224-f15a-50cc-462e-10ccf9478122
 ms.date: 06/08/2017
+ms.openlocfilehash: 842ea9c09db35f5abfa00d60bf61fdf27f0b226a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatfilename-property-publisher"></a>Свойство PictureFormat.Filename (издатель)
+
+Возвращает **строку** , представляющую имя файла, указанного изображения или объекта OLE. Только для чтения.
 
 
-# PictureFormat.Filename Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the file name of the specified picture or OLE object. Read-only.
+ _выражение_. **Имя файла**
 
-
-## Syntax
-
- _expression_. **Filename**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For linked pictures and OLE objects, the returned string represents the full path and file name of the picture. For embedded pictures and OLE objects, the returned string represents the file name only.
+Связанные рисунки и объекты OLE возвращаемая строка представляет полный путь и имя рисунка. Внедренные изображения и объекты OLE возвращаемая строка представляет только имя файла.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+Чтобы определить, является ли фигура представляет связанного рисунка, используйте свойство **[Type](shape-type-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** или свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns selected image properties for each picture in the active publication.
+Следующий пример возвращает свойства выбранного изображения для каждого изображения в активной публикации.
 
 
 ```vb

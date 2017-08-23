@@ -1,44 +1,45 @@
 ---
-title: ColorSchemes.Item Property (Publisher)
+title: "Свойство ColorSchemes.Item (издатель)"
 keywords: vbapb10.chm2752512
-f1_keywords:
-- vbapb10.chm2752512
+f1_keywords: vbapb10.chm2752512
 ms.prod: publisher
-api_name:
-- Publisher.ColorSchemes.Item
+api_name: Publisher.ColorSchemes.Item
 ms.assetid: 5a66a0ae-b552-0979-d3ac-7b1d7bec96f7
 ms.date: 06/08/2017
+ms.openlocfilehash: bdd27da5580d14873f870404d6986650fedf4d25
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorschemesitem-property-publisher"></a>Свойство ColorSchemes.Item (издатель)
+
+Возвращает указанный объект **[ColorScheme](colorscheme-object-publisher.md)** **ColorSchemes** коллекции. Только для чтения.
 
 
-# ColorSchemes.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the specified  **[ColorScheme](colorscheme-object-publisher.md)** object from a **ColorSchemes** collection. Read-only.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **ColorSchemes** object.
+ переменная _expression_A, представляет собой объект- **ColorSchemes** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
+|Индекс|Обязательное свойство.| **Variant**|Цветовая схема для возврата. Может быть либо именем цветовая схема как строку или соответствующей константы **PbColorScheme** .|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Item** property value can be one of the **[PbColorScheme](pbcolorscheme-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **элемента** может иметь одно из **[PbColorScheme](pbcolorscheme-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the color scheme of the active publication to the Aqua color scheme.
+В этом примере задается цветовая схема active публикации цветовая схема голубой.
 
 
 ```vb

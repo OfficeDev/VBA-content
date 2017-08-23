@@ -1,36 +1,37 @@
 ---
-title: BorderArtFormat Object (Publisher)
+title: "Объект BorderArtFormat (издатель)"
 keywords: vbapb10.chm7667711
-f1_keywords:
-- vbapb10.chm7667711
+f1_keywords: vbapb10.chm7667711
 ms.prod: publisher
-api_name:
-- Publisher.BorderArtFormat
+api_name: Publisher.BorderArtFormat
 ms.assetid: ba066b2e-fe40-aeef-9275-2cc2810f63ca
 ms.date: 06/08/2017
+ms.openlocfilehash: 01793f52b174cd8dc494ddc3d858a8acbe266a3c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartformat-object-publisher"></a>Объект BorderArtFormat (издатель)
 
-
-# BorderArtFormat Object (Publisher)
-
-Represents the formatting of the BorderArt applied to the specified shape.
+Представляет форматирования Узорные, применяемые к указанной фигуры.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-BorderArt are picture borders that can be applied to text boxes, picture frames, or rectangles.
+Узорные, границы изображения, которые можно применять для текстовых полей, рамки рисунков или прямоугольники.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[BorderArt](shape-borderart-property-publisher.md)** property of a shape to return a **BorderArtFormat** object.
+Свойство **[Узорные](shape-borderart-property-publisher.md)** фигуры возвращает объект **BorderArtFormat** .
  
 
  
-The following example returns the BorderArt of the first shape on the first page of the active publication, and displays the name of the BorderArt in a message box.
+Следующий пример возвращает Узорные первую фигуру на первой странице active публикации и отображает имя Узорные в окне сообщения.
  
 
  
@@ -44,7 +45,7 @@ Set bdaTemp = ActiveDocument.Pages(1).Shapes(1).BorderArt
 MsgBox "BorderArt name is: " &amp;bdaTemp.Name
 ```
 
-Use the  **[Set](borderartformat-set-method-publisher.md)** method to specify which type of BorderArt you want applied to a picture. The following example tests for the existence of BorderArt on each shape for each page of the active document. Any BorderArt found is set to the same type.
+Позволяет указать тип, который требуется Узорные применяется к изображению метод **[Set](borderartformat-set-method-publisher.md)** . Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы активных документов. Все найденные Узорные присвоено значение того же типа.
  
 
  
@@ -71,7 +72,7 @@ Next anyPage
 End Sub
 ```
 
-You can also use the  **[Name](borderartformat-name-property-publisher.md)** property to specify which type of BorderArt you want applied to a picture. The following example sets all the BorderArt in a document to the same type using the **Name** property.
+Свойство **[Name](borderartformat-name-property-publisher.md)** можно также использовать для указания того, какой тип Узорные требуется применяется к изображению. В следующем примере задается Узорные в документе для того же типа с помощью свойства **Name** .
  
 
  
@@ -99,10 +100,10 @@ End Sub
 ```
 
 
- **Note**  Because  **Name** is the default property of both the **[BorderArt](borderart-object-publisher.md)** and **BorderArtFormat** objects, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)`is equivalent to  `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
+ **Примечание**  Так как **имя** является свойством по умолчанию как **[Узорные](borderart-object-publisher.md)** , так и **BorderArtFormat** объектов, его состояния явным образом, при задании типа Узорные не требуется. Оператор `Shape.BorderArtFormat = Document.BorderArts(1)`соответствует`Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
  
 
-Use the  **[Delete](borderartformat-delete-method-publisher.md)** method to remove BorderArt from a picture. The following example tests for the existence of border art on each shape for each page of the active document. If border art exists, it is deleted.
+Используйте метод **[Delete](borderartformat-delete-method-publisher.md)** для удаления Узорные из изображения. Следующий пример проверяет существование картинка границы на каждой фигуры для каждой страницы активных документов. Если картинка границы существует, она удаляется.
  
 
  
@@ -127,7 +128,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -136,19 +137,19 @@ End Sub
 |[Delete](borderartformat-delete-method-publisher.md)|
 |[RevertToDefaultWeight](borderartformat-reverttodefaultweight-method-publisher.md)|
 |[RevertToOriginalColor](borderartformat-reverttooriginalcolor-method-publisher.md)|
-|[Set](borderartformat-set-method-publisher.md)|
+|[SET](borderartformat-set-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](borderartformat-application-property-publisher.md)|
-|[Color](borderartformat-color-property-publisher.md)|
-|[Exists](borderartformat-exists-property-publisher.md)|
+|[Приложения](borderartformat-application-property-publisher.md)|
+|[Цвет](borderartformat-color-property-publisher.md)|
+|[Существует](borderartformat-exists-property-publisher.md)|
 |[Name](borderartformat-name-property-publisher.md)|
-|[Parent](borderartformat-parent-property-publisher.md)|
+|[Родительский раздел](borderartformat-parent-property-publisher.md)|
 |[StretchPictures](borderartformat-stretchpictures-property-publisher.md)|
-|[Weight](borderartformat-weight-property-publisher.md)|
+|[Вес](borderartformat-weight-property-publisher.md)|
 

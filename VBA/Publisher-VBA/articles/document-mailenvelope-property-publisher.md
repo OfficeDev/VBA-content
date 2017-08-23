@@ -1,41 +1,42 @@
 ---
-title: Document.MailEnvelope Property (Publisher)
+title: "Свойство Document.MailEnvelope (издатель)"
 keywords: vbapb10.chm196627
-f1_keywords:
-- vbapb10.chm196627
+f1_keywords: vbapb10.chm196627
 ms.prod: publisher
-api_name:
-- Publisher.Document.MailEnvelope
+api_name: Publisher.Document.MailEnvelope
 ms.assetid: 3c4c734a-6725-5f6e-ed0a-5b19e4e642bd
 ms.date: 06/08/2017
+ms.openlocfilehash: 53c7aaf74cef4491722aeded8ff3f1c31b2f8387
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentmailenvelope-property-publisher"></a>Свойство Document.MailEnvelope (издатель)
+
+Возвращает объект, представляющий заголовке сообщения электронной почты для публикации на **MsoEnvelope** .
 
 
-# Document.MailEnvelope Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoEnvelope** object that represents an e-mail header for a publication.
+ _выражение_. **MailEnvelope**
 
-
-## Syntax
-
- _expression_. **MailEnvelope**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoEnvelope
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **MailEnvelope** property is only accessible if the **[EnvelopeVisible](document-envelopevisible-property-publisher.md)** property has been set to **True**.
+Свойство **MailEnvelope** доступен только в случае, если свойство **[EnvelopeVisible](document-envelopevisible-property-publisher.md)** задано значение **True**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the comments for the e-mail header of the active publication. This example assumes that the  **EnvelopeVisible** property has been set to **True**.
+В этом примере задает комментариев в заголовке электронной почты active публикации. В этом примере предполагается, что **EnvelopeVisible** свойство значение **True**.
 
 
 ```vb

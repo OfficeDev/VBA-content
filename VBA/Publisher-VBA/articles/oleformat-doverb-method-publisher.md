@@ -1,44 +1,45 @@
 ---
-title: OLEFormat.DoVerb Method (Publisher)
+title: "Метод OLEFormat.DoVerb (издатель)"
 keywords: vbapb10.chm4456455
-f1_keywords:
-- vbapb10.chm4456455
+f1_keywords: vbapb10.chm4456455
 ms.prod: publisher
-api_name:
-- Publisher.OLEFormat.DoVerb
+api_name: Publisher.OLEFormat.DoVerb
 ms.assetid: c4bca1f2-a3dd-0c49-1268-40e68e1fcef0
 ms.date: 06/08/2017
+ms.openlocfilehash: ff3431717629d21d84ba34907eecd90bd2b01906
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="oleformatdoverb-method-publisher"></a>Метод OLEFormat.DoVerb (издатель)
+
+Запросы, что объект OLE выполните одно из его команд.
 
 
-# OLEFormat.DoVerb Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Requests that an OLE object perform one of its verbs.
+ _выражение_. **DoVerb** ( **_iVerb_**)
 
-
-## Syntax
-
- _expression_. **DoVerb**( **_iVerb_**)
-
- _expression_A variable that represents an  **OLEFormat** object.
+ переменная _expression_A, представляющий объект **OLEFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|iVerb|Required| **Long**|The verb to perform. |
+|iVerb|Обязательное свойство.| **Длинный**|Для выполнения команды. |
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to determine the available verbs for an OLE object.
+Свойство **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** определяет доступные команды для объекта OLE.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example performs the first verb for the third shape on the first page of the active publication if the shape is a linked or embedded OLE object.
+В этом примере выполняется первая команда для третьего фигуры на первой странице active публикации, если фигуры — это связанный или внедренный объект OLE.
 
 
 ```vb
@@ -50,7 +51,7 @@ With ActiveDocument.Pages(1).Shapes(3)
 End With
 ```
 
-This example performs the verb "Open" for the third shape on the first page of the active publication if the shape is an OLE object that supports the verb "Open."
+В этом примере выполняется команда «Открыть» для третьего фигуры на первой странице active публикации, если фигуры объекта OLE, который поддерживает команды «Открыть».
 
 
 

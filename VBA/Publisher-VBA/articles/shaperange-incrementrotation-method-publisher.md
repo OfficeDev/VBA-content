@@ -1,46 +1,47 @@
 ---
-title: ShapeRange.IncrementRotation Method (Publisher)
+title: "Метод ShapeRange.IncrementRotation (издатель)"
 keywords: vbapb10.chm2293793
-f1_keywords:
-- vbapb10.chm2293793
+f1_keywords: vbapb10.chm2293793
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.IncrementRotation
+api_name: Publisher.ShapeRange.IncrementRotation
 ms.assetid: c58cdc12-948a-d6f8-2ddd-113008c7201b
 ms.date: 06/08/2017
+ms.openlocfilehash: 486e5afe569ffedd9f44c6ff93e59b4f94e39efe
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeincrementrotation-method-publisher"></a>Метод ShapeRange.IncrementRotation (издатель)
+
+Изменяет вращение указанного фигуры относительно оси z (расширяет наружу плоскости публикации) указанное число градусов.
 
 
-# ShapeRange.IncrementRotation Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Changes the rotation of the specified shape around the z-axis (extends outward from the plane of the publication) by the specified number of degrees.
+ _выражение_. **IncrementRotation** ( **_Порядкового номера_**)
 
-
-## Syntax
-
- _expression_. **IncrementRotation**( **_Increment_**)
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Increment|Required| **Single**|Specifies how far the shape is to be rotated around the z-axis, in degrees. A positive value rotates the shape clockwise; a negative value rotates it counterclockwise. Valid values are between - 360 and 360.|
+|Порядкового номера|Обязательное свойство.| **Один**|Указывает, насколько фигуры вращаться вокруг оси z в градусов. Положительное значение Поворот фигуры часовой; отрицательное значение поворот против. Допустимые значения: от - 360 до 360.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[Rotation](shaperange-rotation-property-publisher.md)** property to set the absolute rotation of the shape.
+Свойство **[Вращение](shaperange-rotation-property-publisher.md)** задать абсолютные Поворот фигуры.
 
-To rotate a three-dimensional shape around the x-axis (horizontal) or the y-axis (vertical), use the  **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method or the  **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** method, respectively.
+Поворот объемной фигуры вокруг оси x (по горизонтали) или y (по вертикали), используйте метод **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** или **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** , соответственно.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example duplicates the first shape on the active publication, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
+В этом примере дубликатов первую фигуру на активной публикации задает заливки для повторяющихся, перемещает 70 точек вправо и на 50 точек вверх и поворот его 30 градусов часовой.
 
 
 ```vb

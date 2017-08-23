@@ -1,36 +1,37 @@
 ---
-title: PageBackground.Create Method (Publisher)
+title: "Метод PageBackground.Create (издатель)"
 keywords: vbapb10.chm8126469
-f1_keywords:
-- vbapb10.chm8126469
+f1_keywords: vbapb10.chm8126469
 ms.prod: publisher
-api_name:
-- Publisher.PageBackground.Create
+api_name: Publisher.PageBackground.Create
 ms.assetid: a9b699c4-067a-2c68-5f9b-ee7ba0c22cbd
 ms.date: 06/08/2017
+ms.openlocfilehash: cd1613e1da52a52e44e75bface4e4215ab7bcf6d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagebackgroundcreate-method-publisher"></a>Метод PageBackground.Create (издатель)
+
+Создает новый объект **PageBackground** для указанного объекта **страницы** .
 
 
-# PageBackground.Create Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Creates a new  **PageBackground** object for the specified **Page** object.
+ _выражение_. **Создание**
 
-
-## Syntax
-
- _expression_. **Create**
-
- _expression_A variable that represents a  **PageBackground** object.
+ переменная _expression_A, представляет собой объект- **PageBackground** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use PageBackground.Exists to test if a page already has a background before trying to create a new one. Returns a "Permission denied' error if a background already exists. 
+Использование PageBackground.Exists для проверки, если страница уже фон перед попыткой создать новую. Возвращает «отказано в разрешении "ошибка возникает, если фона уже существует. 
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests for the existence of a background on the first page of the active document. If a background does not exist then one is created. 
+Следующий пример проверяет наличие фона на первой странице активных документов. Если не существует фона затем он будет создан. 
 
 
 ```vb

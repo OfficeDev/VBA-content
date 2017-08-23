@@ -1,45 +1,46 @@
 ---
-title: Fields.AddHorizontalInVertical Method (Publisher)
+title: "Метод Fields.AddHorizontalInVertical (издатель)"
 keywords: vbapb10.chm6029319
-f1_keywords:
-- vbapb10.chm6029319
+f1_keywords: vbapb10.chm6029319
 ms.prod: publisher
-api_name:
-- Publisher.Fields.AddHorizontalInVertical
+api_name: Publisher.Fields.AddHorizontalInVertical
 ms.assetid: 4b451a24-0d79-70d4-4910-2725f1ed0297
 ms.date: 06/08/2017
+ms.openlocfilehash: d107f01c2b7cce41dbc038a292fbda3e4ce7d8e6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fieldsaddhorizontalinvertical-method-publisher"></a>Метод Fields.AddHorizontalInVertical (издатель)
+
+Вставляет горизонтальный текст в поток вертикальной и возвращает новый текст горизонтальной как объект **поля** .
 
 
-# Fields.AddHorizontalInVertical Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a  **Field** object.
+ _выражение_. **AddHorizontalInVertical** ( **_Диапазон_**, **_текст_**)
 
-
-## Syntax
-
- _expression_. **AddHorizontalInVertical**( **_Range_**,  **_Text_**)
-
- _expression_A variable that represents a  **Fields** object.
+ переменная _expression_A, представляющий объект **поля** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Range|Required| **TextRange**|The text range at which to insert the horizontal text.|
-|Text|Required| **String**|The text to be horizontally inserted.|
+|Range|Обязательное свойство.| **TextRange**|Диапазон текста для вставки горизонтальный текст.|
+|Text|Обязательное свойство.| **String**|Текст, вставляемый по горизонтали.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Field
+Поле
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example horizontally inserts the text "horizontal test" after the existing vertical text in shape one on page one of the active publication.
+В этом примере по горизонтали вставляет текст «горизонтальной тест» после существующего вертикальный текст в форму одно на странице один из активных публикации.
 
 
 ```vb

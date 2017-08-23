@@ -1,41 +1,42 @@
 ---
-title: PictureFormat.Contrast Property (Publisher)
+title: "Свойство PictureFormat.Contrast (издатель)"
 keywords: vbapb10.chm3604738
-f1_keywords:
-- vbapb10.chm3604738
+f1_keywords: vbapb10.chm3604738
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.Contrast
+api_name: Publisher.PictureFormat.Contrast
 ms.assetid: f081b7c8-50cc-772b-f3b0-27c215cfebac
 ms.date: 06/08/2017
+ms.openlocfilehash: 1e87fa0a3d37c3d848e0eead0a4dfd0ff6c58803
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatcontrast-property-publisher"></a>Свойство PictureFormat.Contrast (издатель)
+
+Возвращает или задает **единого** , указывающее, контрастности для указанного изображения или объекта OLE. Значение для этого свойства должна быть число от 0,0 (как минимум контрастности) до 1.0 (наивысшего контрастности). Чтение и запись.
 
 
-# PictureFormat.Contrast Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Single** indicating the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write.
+ _выражение_. **Контрастности**
 
-
-## Syntax
-
- _expression_. **Contrast**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[IncrementContrast](pictureformat-incrementcontrast-method-publisher.md)** method to incrementally adjust the contrast from its current level.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example sets the contrast for the first shape in the active publication. The shape must be either a picture or an OLE object.
+Используйте метод **[IncrementContrast](pictureformat-incrementcontrast-method-publisher.md)** для постепенного настройки контрастности из его текущего уровня.
+
+
+## <a name="example"></a>Пример
+
+В этом примере задается контрастности первую фигуру в активной публикации. Фигура должен быть изображения или объекта OLE.
 
 
 ```vb

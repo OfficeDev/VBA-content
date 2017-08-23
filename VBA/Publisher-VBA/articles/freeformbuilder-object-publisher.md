@@ -1,25 +1,26 @@
 ---
-title: FreeformBuilder Object (Publisher)
+title: "Объект FreeformBuilder (издатель)"
 keywords: vbapb10.chm3342335
-f1_keywords:
-- vbapb10.chm3342335
+f1_keywords: vbapb10.chm3342335
 ms.prod: publisher
-api_name:
-- Publisher.FreeformBuilder
+api_name: Publisher.FreeformBuilder
 ms.assetid: 542df9f7-f636-a98e-01de-11005b5797cc
 ms.date: 06/08/2017
+ms.openlocfilehash: 2741714df93e14e4bafe781ee40c5f3facda162f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="freeformbuilder-object-publisher"></a>Объект FreeformBuilder (издатель)
 
-
-# FreeformBuilder Object (Publisher)
-
-Represents the geometry of a freeform while it is being built.
+Представляет геометрии freeform во время его построения.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add nodes to the freeform. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
+Метод **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** коллекцию **[фигур](shapes-object-publisher.md)** для возврата объекта **FreeformBuilder** . Чтобы добавить узлы в фигуру, используйте метод **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** . Используйте метод **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** для создания фигуры, определенные в объекте **FreeformBuilder** и добавить его в коллекцию **фигур** . В следующем примере добавляется freeform с четырьмя сегменты в активный документ.
  
 
  
@@ -43,7 +44,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -52,12 +53,12 @@ End Sub
 |[AddNodes](freeformbuilder-addnodes-method-publisher.md)|
 |[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](freeformbuilder-application-property-publisher.md)|
-|[Parent](freeformbuilder-parent-property-publisher.md)|
+|[Приложения](freeformbuilder-application-property-publisher.md)|
+|[Родительский раздел](freeformbuilder-parent-property-publisher.md)|
 

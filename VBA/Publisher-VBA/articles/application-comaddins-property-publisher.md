@@ -1,43 +1,44 @@
 ---
-title: Application.COMAddIns Property (Publisher)
+title: "Свойство Application.COMAddIns (издатель)"
 keywords: vbapb10.chm131081
-f1_keywords:
-- vbapb10.chm131081
+f1_keywords: vbapb10.chm131081
 ms.prod: publisher
-api_name:
-- Publisher.Application.COMAddIns
+api_name: Publisher.Application.COMAddIns
 ms.assetid: b6f48f72-871a-6b7c-761c-9a9e0599acfa
 ms.date: 06/08/2017
+ms.openlocfilehash: 78e9a54b7dc784850fc78c2267139375df36dff7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationcomaddins-property-publisher"></a>Свойство Application.COMAddIns (издатель)
+
+Возвращает коллекцию **COMAddIns** , представляющий ссылку на модели компонентных объектов (COM) надстроек в настоящее время загружен в Microsoft Publisher.
 
 
-# Application.COMAddIns Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **COMAddIns** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
+ _выражение_. **COMAddIns**
 
-
-## Syntax
-
- _expression_. **COMAddIns**
-
- _expression_A variable that represents a  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 COMAddIns
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-These are listed in the  **COM Add-Ins** dialog box. You can add the **Add-Ins** command to your **Tools** menu by using the **Customize** dialog box.
-
-
-## See also
+Они перечислены в диалоговом окне " **Надстройки COM** ". Можно добавить команду **Надстройки** в меню " **Сервис** " с помощью диалогового окна **Настройка** .
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [Application Object](application-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект приложения](application-object-publisher.md)
 

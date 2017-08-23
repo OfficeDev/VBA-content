@@ -1,41 +1,42 @@
 ---
-title: Page.Master Property (Publisher)
+title: "Свойство Page.Master (издатель)"
 keywords: vbapb10.chm393222
-f1_keywords:
-- vbapb10.chm393222
+f1_keywords: vbapb10.chm393222
 ms.prod: publisher
-api_name:
-- Publisher.Page.Master
+api_name: Publisher.Page.Master
 ms.assetid: f206b4f1-cde3-458d-f26c-a970ad3bd21b
 ms.date: 06/08/2017
+ms.openlocfilehash: a14e6aaf54c8fa129fb21404b90299aae247ea64
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagemaster-property-publisher"></a>Свойство Page.Master (издатель)
+
+Задает или возвращает объект **[страницы](page-object-publisher.md)** , представляющий главную страницу свойств для указанного страницы.
 
 
-# Page.Master Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **[Page](page-object-publisher.md)** object that represents the master page properties for the specified page.
+ _выражение_. **Образец**
 
-
-## Syntax
-
- _expression_. **Master**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Page
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Master pages do not have a  **Master** property. Any attempt to access the **Master** property of a master page will result in a run-time error.
+Главные страницы не имеют **главных** свойства. Любая попытка доступа к свойству **главных** главной страницы приведет к ошибке времени выполнения.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a shape to the master page for the first page in the active publication.
+В этом примере добавляется фигура на главную страницу для первой страницы в активной публикации.
 
 
 ```vb
@@ -49,7 +50,7 @@ Sub AddNewMasterPageShape()
 End Sub
 ```
 
-The  **Master** property can also be used to apply a master page to a page in a publication. The following example sets the master page of the first page of a publication to the master page of the second page in the publication. This example assumes that there are at least two pages and two master pages in the document.
+Свойство **главных** также может использоваться для применения главной страницы на страницу в публикации. В следующем примере задается главную страницу первой страницы публикации на главную страницу вторая страница публикации. В этом примере предполагается, что существует по крайней мере два страницы и двумя главными страницами в документе.
 
 
 

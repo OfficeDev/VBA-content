@@ -1,51 +1,52 @@
 ---
-title: ShapeRange.GetWidth Method (Publisher)
+title: "Метод ShapeRange.GetWidth (издатель)"
 keywords: vbapb10.chm2293785
-f1_keywords:
-- vbapb10.chm2293785
+f1_keywords: vbapb10.chm2293785
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.GetWidth
+api_name: Publisher.ShapeRange.GetWidth
 ms.assetid: a15d1b50-289a-8b02-e090-0f0a9637980a
 ms.date: 06/08/2017
+ms.openlocfilehash: ef803b746b0bc043098f23fcee07e79894608517
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangegetwidth-method-publisher"></a>Метод ShapeRange.GetWidth (издатель)
+
+Возвращает ширину фигуры или диапазона фигуры в виде **одного** в указанных единицах. .
 
 
-# ShapeRange.GetWidth Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the width of the shape or shape range as a  **Single** in the specified units. .
+ _выражение_. **GetWidth** ( **_Единицы_**)
 
-
-## Syntax
-
- _expression_. **GetWidth**( **_Unit_**)
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Unit|Required| **PbUnitType**|The units in which to return the width.|
+|Подразделения|Обязательное свойство.| **PbUnitType**|Единицы измерения, в которой требуется получить ширины.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-The Unit parameter can be one of the  **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
-
-Use the  **[GetHeight](shape-getheight-method-publisher.md)** method to return the height of a shape or shape range.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example displays the height and width in inches (to the nearest hundredth) of the shape range consisting of all the shapes on the first page of the active publication.
+Параметр устройства может иметь одно из **[PbUnitType](pbunittype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+
+Используйте метод **[GetHeight](shape-getheight-method-publisher.md)** для возврата высоту фигуры или диапазона фигуры.
+
+
+## <a name="example"></a>Пример
+
+Следующий пример отображает высоту и ширину в дюймах (до сотой) диапазона фигуры, состоящий из всех фигур на первой странице active публикации.
 
 
 ```vb

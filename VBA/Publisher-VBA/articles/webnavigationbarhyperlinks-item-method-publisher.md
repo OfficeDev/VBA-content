@@ -1,37 +1,38 @@
 ---
-title: WebNavigationBarHyperlinks.Item Method (Publisher)
+title: "Метод WebNavigationBarHyperlinks.Item (издатель)"
 keywords: vbapb10.chm8585216
-f1_keywords:
-- vbapb10.chm8585216
+f1_keywords: vbapb10.chm8585216
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarHyperlinks.Item
+api_name: Publisher.WebNavigationBarHyperlinks.Item
 ms.assetid: f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661
 ms.date: 06/08/2017
+ms.openlocfilehash: 7286802654844395bfd473fff52a06419f2d64f3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarhyperlinksitem-method-publisher"></a>Метод WebNavigationBarHyperlinks.Item (издатель)
+
+Возвращает объект отдельных в указанном семействе сайтов.
 
 
-# WebNavigationBarHyperlinks.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an individual object in a specified collection.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **WebNavigationBarHyperlinks** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarHyperlinks** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**| **Variant**. The number or name of the field or list box item to return.|
+|Индекс|Обязательное свойство.| **Длинный**| **Variant**. Номер или имя поля или поля элемента списка, чтобы возвратить.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Hyperlink
 

@@ -1,46 +1,47 @@
 ---
-title: Application.AfterPrint Event (Publisher)
+title: "Событие Application.AfterPrint (издатель)"
 keywords: vbapb10.chm268435492
-f1_keywords:
-- vbapb10.chm268435492
+f1_keywords: vbapb10.chm268435492
 ms.prod: publisher
-api_name:
-- Publisher.Application.AfterPrint
+api_name: Publisher.Application.AfterPrint
 ms.assetid: ddd5a1a4-8130-9e75-039c-e069a37390e8
 ms.date: 06/08/2017
+ms.openlocfilehash: 7d3c3d721d4c6679730d7f4cdf9bf52f0f2956b3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationafterprint-event-publisher"></a>Событие Application.AfterPrint (издатель)
+
+Печать активируется после всех переменных и полей.
 
 
-# Application.AfterPrint Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Fires after all variables and fields print.
+ _выражение_. **AfterPrint** ( **_Doc_**)
 
-
-## Syntax
-
- _expression_. **AfterPrint**( **_Doc_**)
-
- _expression_An expression that returns an  **Application** object.
+ _expression_An выражение, возвращающее объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The current publication.|
+|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Microsoft Publisher does not return UI control to the user until the event handler is executed. The event is called after all the drawing operations are completed (in other words, after the software's job finishes and the printing hardware takes over).
+Microsoft Publisher не возвращает элемент управления пользовательского интерфейса пользователя, пока не выполняется обработчик событий. Событие вызывается после завершения всех графических операций (иными словами, после завершения задания программного обеспечения и оборудования печати начинает работать).
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **AfterPrint** event. It displays a message notifying the user that the document was printed.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **AfterPrint** . Будет выведено сообщение о том, что печати документа.
 
 
 ```vb
@@ -49,7 +50,7 @@ Private Sub pubApplication_AfterPrint(ByVal Doc As Document)
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
 
 
 
@@ -58,7 +59,7 @@ For this event to occur, you must place the following line of code in the  **Gen
 Private WithEvents pubApplication As Application
 ```
 
-Then run the following initialization procedure.
+Затем выполните следующую процедуру инициализации.
 
 
 
@@ -70,11 +71,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

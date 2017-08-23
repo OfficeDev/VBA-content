@@ -1,31 +1,32 @@
 ---
-title: Cell.Selected Property (Publisher)
+title: "Свойство Cell.Selected (издатель)"
 keywords: vbapb10.chm5111832
-f1_keywords:
-- vbapb10.chm5111832
+f1_keywords: vbapb10.chm5111832
 ms.prod: publisher
-api_name:
-- Publisher.Cell.Selected
+api_name: Publisher.Cell.Selected
 ms.assetid: b07f40bf-a14b-9b2a-2e0d-dc907cc78748
 ms.date: 06/08/2017
+ms.openlocfilehash: aa82aa49375519865396cbd970b14b7a20f861af
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellselected-property-publisher"></a>Свойство Cell.Selected (издатель)
+
+Возвращает **значение True** , если при выборе ячейки. Только для чтения **типа Boolean**.
 
 
-# Cell.Selected Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if a cell is selected. Read-only **Boolean**.
+ _выражение_. **Выбранные**
 
-
-## Syntax
-
- _expression_. **Selected**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example determines if a cell in the specified table is selected and if it is, enters text into the cell.
+В этом примере определяется при выборе ячейки в указанной таблице и его при вводе текста в ячейку.
 
 
 ```vb

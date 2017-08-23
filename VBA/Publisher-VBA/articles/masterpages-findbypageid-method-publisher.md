@@ -1,49 +1,50 @@
 ---
-title: MasterPages.FindByPageID Method (Publisher)
+title: "Метод MasterPages.FindByPageID (издатель)"
 keywords: vbapb10.chm589830
-f1_keywords:
-- vbapb10.chm589830
+f1_keywords: vbapb10.chm589830
 ms.prod: publisher
-api_name:
-- Publisher.MasterPages.FindByPageID
+api_name: Publisher.MasterPages.FindByPageID
 ms.assetid: 2d05a2ae-853d-bc4c-bff8-0f3489627052
 ms.date: 06/08/2017
+ms.openlocfilehash: 913a32e5c14e158887604e3fb33d9a3f2737f5be
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="masterpagesfindbypageid-method-publisher"></a>Метод MasterPages.FindByPageID (издатель)
+
+Возвращает объект **[страницы](page-object-publisher.md)** , представляющий страница с номером указанный идентификатор. Каждая страница автоматически назначается уникальный Идентификационный номер при его создании. Свойство **[PageID](page-pageid-property-publisher.md)** возвращает номер идентификатора страницы.
 
 
-# MasterPages.FindByPageID Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[Page](page-object-publisher.md)** object that represents the page with the specified page ID number. Each page is automatically assigned a unique ID number when it is created. Use the **[PageID](page-pageid-property-publisher.md)** property to return a page's ID number.
+ _выражение_. **FindByPageID** ( **_PageID_**)
 
-
-## Syntax
-
- _expression_. **FindByPageID**( **_PageID_**)
-
- _expression_A variable that represents a  **MasterPages** object.
+ переменная _expression_A, представляет собой объект- **макетом** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|PageID|Required| **Long**|Specifies the ID number of the page you want to return. Publisher assigns this number when the page is created.|
+|PageID|Обязательное свойство.| **Длинный**|Указывает идентификатор страницы, которую необходимо возвратить. Publisher присваивает этот номер при создании страниц.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Page
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Unlike the  **[PageIndex](page-pageindex-property-publisher.md)** property, the  **PageID** property of a **Page** object won't change when you add pages to or rearrange pages in the publication. Therefore, using the **FindByPageID** method with the page ID number can be a more reliable way to return a specific **Page** object from a **[Pages](pages-object-publisher.md)** collection than using the **Item**method with the page's index number.
+В отличие от свойство **[PageIndex](page-pageindex-property-publisher.md)** свойство **PageID** объекта **страницы** не будет изменяться при страницы, чтобы добавить или изменить порядок страниц в публикации. Таким образом с помощью метода **FindByPageID** с идентификатором страница может быть более надежный способ возврата определенного объекта **Page** из коллекции **[Pages](pages-object-publisher.md)** , чем при использовании метода **Item**с номером страницы.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example demonstrates how to retrieve the unique ID number for a  **Page** object and then use this number to return that **Page** object from the **Pages** collection and add a new shape to the page.
+В этом примере показано, как получить уникальный Идентификационный номер для объекта **Page** , а затем использовать этот номер для возврата объекта **страницы** из коллекции **страниц** и добавьте новый фигуры на страницу.
 
 
 ```vb

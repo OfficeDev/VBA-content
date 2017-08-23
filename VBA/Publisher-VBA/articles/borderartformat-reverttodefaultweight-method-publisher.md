@@ -1,38 +1,39 @@
 ---
-title: BorderArtFormat.RevertToDefaultWeight Method (Publisher)
+title: "Метод BorderArtFormat.RevertToDefaultWeight (издатель)"
 keywords: vbapb10.chm7602180
-f1_keywords:
-- vbapb10.chm7602180
+f1_keywords: vbapb10.chm7602180
 ms.prod: publisher
-api_name:
-- Publisher.BorderArtFormat.RevertToDefaultWeight
+api_name: Publisher.BorderArtFormat.RevertToDefaultWeight
 ms.assetid: 3e46637f-3fce-3346-9193-063be40844bd
 ms.date: 06/08/2017
+ms.openlocfilehash: 6f802970f5985864e173181448972ae3cd18f6d4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartformatreverttodefaultweight-method-publisher"></a>Метод BorderArtFormat.RevertToDefaultWeight (издатель)
+
+Задает Узорные указанные форму обратно в его толщина по умолчанию.
 
 
-# BorderArtFormat.RevertToDefaultWeight Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the BorderArt on the specified shape back to its default thickness.
+ _выражение_. **RevertToDefaultWeight**
 
-
-## Syntax
-
- _expression_. **RevertToDefaultWeight**
-
- _expression_A variable that represents a  **BorderArtFormat** object.
+ переменная _expression_A, представляет собой объект- **BorderArtFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **RevertToDefaultWeight** method has the same effect as the **Always apply at default size** control on the **BorderArt** dialog box.
+Метод **RevertToDefaultWeight** имеет тот же эффект, как элемент управления **всегда применяются на размер по умолчанию** в диалоговом окне **Узорные** .
 
-Use the  **[Weight](borderartformat-weight-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the specified BorderArt to a thickness other than the default.
+Используйте свойство **[Вес](borderartformat-weight-property-publisher.md)** объекта **[BorderArtFormat](borderartformat-object-publisher.md)** Установка указанного Узорные толщины используемый по умолчанию.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests for the existence of BorderArt on each shape for each page of the active document. If BorderArt exists, its weight is set to the default thickness and original color.
+Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы активных документов. Если существует Узорные его вес задано значение по умолчанию толщина и исходный цвет.
 
 
 ```vb
@@ -55,11 +56,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [BorderArtFormat Object](borderartformat-object-publisher.md)
+ [Объект BorderArtFormat](borderartformat-object-publisher.md)
 

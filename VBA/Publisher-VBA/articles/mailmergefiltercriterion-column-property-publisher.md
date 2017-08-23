@@ -1,31 +1,32 @@
 ---
-title: MailMergeFilterCriterion.Column Property (Publisher)
+title: "Свойство MailMergeFilterCriterion.Column (издатель)"
 keywords: vbapb10.chm6815747
-f1_keywords:
-- vbapb10.chm6815747
+f1_keywords: vbapb10.chm6815747
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeFilterCriterion.Column
+api_name: Publisher.MailMergeFilterCriterion.Column
 ms.assetid: 000b4b4c-73a1-ea9f-6f44-bc6eac15cb4b
 ms.date: 06/08/2017
+ms.openlocfilehash: b012327e7da28938bcfcab36e23966e6d3515b13
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergefiltercriterioncolumn-property-publisher"></a>Свойство MailMergeFilterCriterion.Column (издатель)
+
+Возвращает **строку** , представляющую имя поля в источнике данных слияния почты для использования в фильтре. Чтение и запись.
 
 
-# MailMergeFilterCriterion.Column Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
+ _выражение_. **Столбец**
 
-
-## Syntax
-
- _expression_. **Column**
-
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ переменная _expression_A, представляет собой объект- **MailMergeFilterCriterion** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA".
+В следующем примере изменяется существующий фильтр для удаления из слияния почты все записи, у которых нет поля региона, равное «WA».
 
 
 ```vb

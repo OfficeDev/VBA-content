@@ -1,36 +1,37 @@
 ---
-title: ColorCMYK.Magenta Property (Publisher)
+title: "Свойство ColorCMYK.Magenta (издатель)"
 keywords: vbapb10.chm2621444
-f1_keywords:
-- vbapb10.chm2621444
+f1_keywords: vbapb10.chm2621444
 ms.prod: publisher
-api_name:
-- Publisher.ColorCMYK.Magenta
+api_name: Publisher.ColorCMYK.Magenta
 ms.assetid: 2996279e-d5f6-9734-ca1a-0e80d7991e5a
 ms.date: 06/08/2017
+ms.openlocfilehash: e3c6c6346bb607668880ac4714706f56085fc133
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorcmykmagenta-property-publisher"></a>Свойство ColorCMYK.Magenta (издатель)
+
+Задает или возвращает значение типа **Long** , представляющее пурпурный компонента цвета CMYK. Значение может быть любое число в диапазоне от 0 до 255. Чтение и запись.
 
 
-# ColorCMYK.Magenta Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **Long** that represents the magenta component of a CMYK color. Value can be any number between 0 and 255. Read/write.
+ _выражение_. **Пурпурный**
 
-
-## Syntax
-
- _expression_. **Magenta**
-
- _expression_A variable that represents a  **ColorCMYK** object.
+ переменная _expression_A, представляет собой объект- **ColorCMYK** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
+В этом примере создается два новых фигур и затем показана цвет заливки CMYK для одной формы и значения CMYK вторую фигуру на те же значения CMYK.
 
 
 ```vb

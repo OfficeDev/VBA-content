@@ -1,41 +1,42 @@
 ---
-title: Document.Saved Property (Publisher)
+title: "Свойство Document.Saved (издатель)"
 keywords: vbapb10.chm196649
-f1_keywords:
-- vbapb10.chm196649
+f1_keywords: vbapb10.chm196649
 ms.prod: publisher
-api_name:
-- Publisher.Document.Saved
+api_name: Publisher.Document.Saved
 ms.assetid: d1f4357a-103c-2227-d1bd-50706e1f241c
 ms.date: 06/08/2017
+ms.openlocfilehash: 75d61abd6ef14efe4a3f2748cec1ca8b6dc628fd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentsaved-property-publisher"></a>Свойство Document.Saved (издатель)
+
+Возвращает **значение True,** Если изменения не были внесены в публикацию с момента последнего сохранения. Только для чтения **типа Boolean**.
 
 
-# Document.Saved Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if no changes have been made to a publication since it was last saved. Read-only **Boolean**.
+ _выражение_. **Сохранить**
 
-
-## Syntax
-
- _expression_. **Saved**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-If the  **Saved** property of a modified publication returns **True**, the user won't be prompted to save changes when closing the publication, and all changes made to it since it was last saved will be lost.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example saves the active publication if it has been changed since the last time it was saved.
+Если свойству **Saved** измененную публикацию возвращает **значение True**, пользователь не будет предложено сохранить изменения, при закрытии публикации, и будут потеряны все изменения, внесенные с момента последнего сохранения.
+
+
+## <a name="example"></a>Пример
+
+В этом примере сохраняет active публикации, если она была изменена со времени последнего сохранения.
 
 
 ```vb

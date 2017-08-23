@@ -1,40 +1,41 @@
 ---
-title: MailMergeDataField.UnMapRecipientField Method (Publisher)
+title: "Метод MailMergeDataField.UnMapRecipientField (издатель)"
 keywords: vbapb10.chm6422564
-f1_keywords:
-- vbapb10.chm6422564
+f1_keywords: vbapb10.chm6422564
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataField.UnMapRecipientField
+api_name: Publisher.MailMergeDataField.UnMapRecipientField
 ms.assetid: 0063dfa7-1168-3701-56a3-f1908cf0d23a
 ms.date: 06/08/2017
+ms.openlocfilehash: aa2bdff4025091ce50372bc94187fe6eb1d56bc7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafieldunmaprecipientfield-method-publisher"></a>Метод MailMergeDataField.UnMapRecipientField (издатель)
+
+Отменяет сопоставление между **MailMergeDataField** родительский объект для источника данных и поле получателя в источник данных (список получателей объединенный слияния почты), для которого выполняется в данный момент сопоставление.
 
 
-# MailMergeDataField.UnMapRecipientField Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Undoes the mapping between the parent  **MailMergeDataField** object in a particular data source and the recipient field in the master data source (combined mail-merge recipient list) to which it is currently mapped.
+ _выражение_. **UnMapRecipientField**
 
-
-## Syntax
-
- _expression_. **UnMapRecipientField**
-
- _expression_A variable that represents a  **MailMergeDataField** object.
+ переменная _expression_A, представляет собой объект- **MailMergeDataField** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This method works only if the parent  **MailMergeDataField** object is mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object is mapped.
+Этот метод работает только в том случае, если родительский объект **MailMergeDataField** сопоставляется к полю получателя. Свойство **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** объекта **MailMergeDataField** можно использовать для определения, если объект сопоставлен.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UnmapRecipientField** method to undo the mapping between a data field (column) in a particular data source and a field in the the master data source (combined recipient list) for the publication.
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **UnmapRecipientField** для отмены сопоставление данных поля (столбца) для источника данных и поля в основных данных источника (объединенный список получателей) для публикации.
 
-Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, and replace _fieldname_ with the name of the field in the data source that you want to remove from the combined list of recipient fields.
+Прежде чем запустить этот макрос, замените _datasourceindex_ номер индекса допустимый источник данных в коллекции источника данных активных документов и заменить _fieldname_ с именем поля в источнике данных, который требуется удалить из объединенного списка полями получателей.
 
-See the  **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
+В разделе **[элемент](mailmergedatasources-item-method-publisher.md)** метод пример того, как использовать свойство **Name** объекта **DataSource** для определения номера индекса требуемый источник данных.
 
 
 

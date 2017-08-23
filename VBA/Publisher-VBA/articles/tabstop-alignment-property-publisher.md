@@ -1,36 +1,37 @@
 ---
-title: TabStop.Alignment Property (Publisher)
+title: "Свойство TabStop.Alignment (издатель)"
 keywords: vbapb10.chm5636100
-f1_keywords:
-- vbapb10.chm5636100
+f1_keywords: vbapb10.chm5636100
 ms.prod: publisher
-api_name:
-- Publisher.TabStop.Alignment
+api_name: Publisher.TabStop.Alignment
 ms.assetid: 59b35d9a-d53b-88cd-952b-6324d1ee7c01
 ms.date: 06/08/2017
+ms.openlocfilehash: efe49db2025e456bd9b1cc73406f044c0f4d49d8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="tabstopalignment-property-publisher"></a>Свойство TabStop.Alignment (издатель)
+
+Возвращает или задает значение константы **PbTabAlignmentType** , представляющий выравнивание для заданной позиции табуляции. Чтение и запись.
 
 
-# TabStop.Alignment Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbTabAlignmentType** constant that represents the alignment for the specified tab stop. Read/write.
+ _выражение_. **Выравнивание**
 
-
-## Syntax
-
- _expression_. **Alignment**
-
- _expression_A variable that represents a  **TabStop** object.
+ переменная _expression_A, представляет собой объект- **TabStop** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Alignment** property value can be one of the **[PbTabAlignmentType](pbtabalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **Alignment** может иметь одно из **[PbTabAlignmentType](pbtabalignmenttype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example enters a tabbed list and sets the alignment for two custom tab stops. This example assumes that the specified shape is a text frame and not another type of shape and that there are at least two custom tab stops already set.
+В этом примере переходит в список с вкладками и задает выравнивание для двух табуляции. В этом примере предполагается, что указанные форму — фрагмент текста и не другого типа фигуры и задать, что по крайней мере два табуляции уже существует.
 
 
 ```vb

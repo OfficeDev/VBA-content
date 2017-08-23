@@ -1,36 +1,37 @@
 ---
-title: Application.ProductCode Property (Publisher)
+title: "Свойство Application.ProductCode (издатель)"
 keywords: vbapb10.chm131105
-f1_keywords:
-- vbapb10.chm131105
+f1_keywords: vbapb10.chm131105
 ms.prod: publisher
-api_name:
-- Publisher.Application.ProductCode
+api_name: Publisher.Application.ProductCode
 ms.assetid: aacd5ff6-dad1-af86-f4e0-af9012ae93f8
 ms.date: 06/08/2017
+ms.openlocfilehash: b0e141f6131427b5569ba7c8d000ba76daa51b01
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationproductcode-property-publisher"></a>Свойство Application.ProductCode (издатель)
+
+Возвращает **строку** , указывающую Microsoft Publisher глобальный уникальный идентификатор (GUID). Только для чтения.
 
 
-# Application.ProductCode Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
+ _выражение_. **Код продукта**
 
-
-## Syntax
-
- _expression_. **ProductCode**
-
- _expression_A variable that represents a  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example displays the product code for Publisher.
+В следующем примере отображается код продукта для Publisher.
 
 
 ```vb
@@ -39,11 +40,11 @@ MsgBox "The product code for Microsoft Publisher is " _
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

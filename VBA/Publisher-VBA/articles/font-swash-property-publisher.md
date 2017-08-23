@@ -1,46 +1,47 @@
 ---
-title: Font.Swash Property (Publisher)
+title: "Свойство Font.Swash (издатель)"
 keywords: vbapb10.chm5374005
-f1_keywords:
-- vbapb10.chm5374005
+f1_keywords: vbapb10.chm5374005
 ms.prod: publisher
-api_name:
-- Publisher.Font.Swash
+api_name: Publisher.Font.Swash
 ms.assetid: 71537393-167a-f9e3-e3b3-ae743fdbb0ff
 ms.date: 06/08/2017
+ms.openlocfilehash: fbc73571a2406e349ad93ee366e7e9c89478c61d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontswash-property-publisher"></a>Свойство Font.Swash (издатель)
+
+Возвращает или задает константой **MsoTriState** , представляющее состояние свойства **Swash** символов в диапазон текста. Свойство **Swash** включает Надсимвольные элементы в символы, часто в виде больше и больше затейливым засечек. Чтение и запись.
 
 
-# Font.Swash Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant that represents the state of the **Swash** property on the characters in a text range. The **Swash** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
+ _выражение_. **Swash**
 
-
-## Syntax
-
- _expression_. **Swash**
-
- _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+ переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
 
 
-## Return Value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MsoTriState**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
 
- **Note**  The  **Swash** property has an effect only for OpenType fonts that contain swashes.
+ **Примечание**  Свойство **Swash** действует только для шрифтов OpenType, которые содержат шлейфов.
 
-The  **Swash** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+Значение свойства **Swash** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|None of the characters in the range are formatted as swash.|
-| **msoTriStateMixed**|Return value indicating that the range contains some text formatted as swash and some text not formatted as swash.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All characters in the range are formatted as swash.|
+| **msoFalse**|Ни один из символов в диапазоне форматируются как swash.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, что диапазон содержит текст в формате каллиграфическая или не в формате swash текст.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Все символы в диапазоне форматируются как swash.|
 

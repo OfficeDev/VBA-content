@@ -1,52 +1,53 @@
 ---
-title: PictureFormat.LinkedFileStatus Property (Publisher)
+title: "Свойство PictureFormat.LinkedFileStatus (издатель)"
 keywords: vbapb10.chm3604787
-f1_keywords:
-- vbapb10.chm3604787
+f1_keywords: vbapb10.chm3604787
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.LinkedFileStatus
+api_name: Publisher.PictureFormat.LinkedFileStatus
 ms.assetid: 43ddffe3-9cc3-b102-c5e8-80f26f63849c
 ms.date: 06/08/2017
+ms.openlocfilehash: edc92477d0c48e21b898dac8019334e23322e90c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatlinkedfilestatus-property-publisher"></a>Свойство PictureFormat.LinkedFileStatus (издатель)
+
+Возвращает константу **PbLinkedFileStatus** , указывающий состояние файла, связанных с указанным рисунков. Только для чтения.
 
 
-# PictureFormat.LinkedFileStatus Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
+ _выражение_. **LinkedFileStatus**
 
-
-## Syntax
-
- _expression_. **LinkedFileStatus**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbLinkedFileStatus
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property only applies to linked picture files. It returns "Permission Denied" for shapes representing embedded or pasted pictures.
+Это свойство применяется только к файлам связанного рисунка. Возвращает «Отказано в разрешении» для фигуры, представляющие внедренных или вставленного изображения.
 
-Use either of the following properties to determine whether a shape represents a linked picture:
+Используйте один из следующих свойств для определения, является ли фигура представляет связанного рисунка:
 
 
--  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
+-  Свойство **[Type](shape-type-property-publisher.md)** объекта **[фигуры](shape-object-publisher.md)**
     
-- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
+- Свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)**
     
 
 
-The  **LinkedFileStatus** property value can be one of the **[PbLinkedFileStatus](pblinkedfilestatus-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **LinkedFileStatus** может иметь одно из **[PbLinkedFileStatus](pblinkedfilestatus-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example generates a list of the linked pictures in the active publication for which the linked files cannot be found.
+Следующий пример создает список связанных рисунков в активной публикации, для которого не удается найти связанные файлы.
 
 
 ```vb

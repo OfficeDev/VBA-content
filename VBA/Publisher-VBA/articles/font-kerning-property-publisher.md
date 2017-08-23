@@ -1,43 +1,44 @@
 ---
-title: Font.Kerning Property (Publisher)
+title: "Свойство Font.Kerning (издатель)"
 keywords: vbapb10.chm5373976
-f1_keywords:
-- vbapb10.chm5373976
+f1_keywords: vbapb10.chm5373976
 ms.prod: publisher
-api_name:
-- Publisher.Font.Kerning
+api_name: Publisher.Font.Kerning
 ms.assetid: 756fe3fa-9bf3-be16-2dd1-5b8fb0ec6496
 ms.date: 06/08/2017
+ms.openlocfilehash: 8d7a68a678424ce72736d793f2a28f7c570b2190
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontkerning-property-publisher"></a>Свойство Font.Kerning (издатель)
+
+Возвращает или задает **Variant** , указывающее количество интервал по горизонтали, Microsoft Publisher применяется к символов в диапазон текста. Чтение и запись.
 
 
-# Font.Kerning Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** indicating the amount of horizontal spacing Microsoft Publisher applies to the characters in the text range. Read/write.
+ _выражение_. **Кернинг**
 
-
-## Syntax
-
- _expression_. **Kerning**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-When setting this property, numeric values are considered to be in points, and  **String** values may be in any unit supported by Publisher. Return values are of type **Single** and in points. Negative values bring characters closer together than normal, and positive values spread characters farther apart than normal. The valid range is -600.0 to 600.0 points.
+Когда для этого свойства числовых значений считаются в пунктах и **строковые** значения может находиться в любой единицы поддерживаются в Publisher. Возвращаемые значения: **одного** типа и в пунктах. Отрицательные значения Объединить знаки ближе чем обычно и положительные значения распространение символов дальше друг от друга, чем обычно. Допустимые значения — от-600.0 к 600.0 точек.
 
-Use the  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method to convert inches to points.
+Используйте метод **[InchesToPoints не была назначена](application-inchestopoints-method-publisher.md)** для преобразования дюймов в пунктах.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adjusts the kerning of all text in the first story to 6 point.
+Этот пример устанавливает кернинг весь текст в первой статьи 6 момент.
 
 
 ```vb

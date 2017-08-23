@@ -1,45 +1,46 @@
 ---
-title: FillFormat.GradientStyle Property (Publisher)
+title: "Свойство FillFormat.GradientStyle (издатель)"
 keywords: vbapb10.chm2359556
-f1_keywords:
-- vbapb10.chm2359556
+f1_keywords: vbapb10.chm2359556
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.GradientStyle
+api_name: Publisher.FillFormat.GradientStyle
 ms.assetid: 38a38de1-4ed3-7919-421f-474b0b5d7b2f
 ms.date: 06/08/2017
+ms.openlocfilehash: 350d46bff3af3e3edd58465dc1f9a551fd00f9b0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatgradientstyle-property-publisher"></a>Свойство FillFormat.GradientStyle (издатель)
+
+Возвращает константу **MsoGradientStyle** , указывающее, стиль градиента для указанного заполнения. Только для чтения.
 
 
-# FillFormat.GradientStyle Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoGradientStyle** constant indicating the gradient style for the specified fill. Read-only.
+ _выражение_. **GradientStyle**
 
-
-## Syntax
-
- _expression_. **GradientStyle**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoGradientStyle
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  [OneColorGradient](fillformat-onecolorgradient-method-publisher.md),  [PresetGradient](fillformat-presetgradient-method-publisher.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient style for the fill.
+Используйте метод [OneColorGradient](fillformat-onecolorgradient-method-publisher.md), [PresetGradient](fillformat-presetgradient-method-publisher.md)или **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** Установка стиль градиента для заполнения.
 
-Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the  **[Type](fillformat-type-property-publisher.md)** property to determine whether the fill has a gradient.
+Попытка получить значение этого свойства для заполнения, не имеющим градиент приводит к ошибке. Свойство **[типа](fillformat-type-property-publisher.md)** определить наличие градиентной заливки.
 
-The  **GradientStyle** property value can be one of the ** [MsoGradientStyle](http://msdn.microsoft.com/library/1f0e723f-293c-3646-fd77-da2c8842c71f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **GradientStyle** может иметь одно из ** [MsoGradientStyle](http://msdn.microsoft.com/library/1f0e723f-293c-3646-fd77-da2c8842c71f%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a rectangle to the active publication and sets its fill gradient style to match that of the shape named rect1. For the example to work, rect1 must have a gradient fill.
+В этом примере добавляет прямоугольник active публикации и задает его стиль градиентной заливки в соответствии с именем прямоуг1 фигуры. Для обеспечения работы примера прямоуг1 должна иметь градиентной заливки.
 
 
 ```vb

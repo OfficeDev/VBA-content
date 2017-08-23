@@ -1,36 +1,37 @@
 ---
-title: Shape.WizardTagInstance Property (Publisher)
+title: "Свойство Shape.WizardTagInstance (издатель)"
 keywords: vbapb10.chm2228339
-f1_keywords:
-- vbapb10.chm2228339
+f1_keywords: vbapb10.chm2228339
 ms.prod: publisher
-api_name:
-- Publisher.Shape.WizardTagInstance
+api_name: Publisher.Shape.WizardTagInstance
 ms.assetid: 908d3f31-f277-7213-737e-9a946687bda7
 ms.date: 06/08/2017
+ms.openlocfilehash: 929882fbcc072311efe02bd80a07a0c6e2729922
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapewizardtaginstance-property-publisher"></a>Свойство Shape.WizardTagInstance (издатель)
+
+Возвращает или задает **Long** , указывающее, экземпляр указанного фигуры, по сравнению с другими фигурами того же тег мастера. Чтение и запись.
 
 
-# Shape.WizardTagInstance Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
+ _выражение_. **WizardTagInstance**
 
-
-## Syntax
-
- _expression_. **WizardTagInstance**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The combination of the  **WizardTagInstance** property and the **[WizardTag](shaperange-wizardtag-property-publisher.md)** property uniquely defines every shape in a publication.
+Комбинация свойство **WizardTagInstance** и свойство **[WizardTag](shaperange-wizardtag-property-publisher.md)** однозначно определяет все фигуры в публикации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example displays the wizard tag and wizard tag instance information for all the shapes on page one of the active publication.
+Следующий пример отображает сведения об экземпляре тег мастера для всех фигур и мастер тега на странице один из активных публикации.
 
 
 ```vb

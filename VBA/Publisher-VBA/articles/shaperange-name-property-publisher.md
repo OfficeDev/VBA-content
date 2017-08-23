@@ -1,32 +1,33 @@
 ---
-title: ShapeRange.Name Property (Publisher)
+title: "Свойство ShapeRange.Name (издатель)"
 keywords: vbapb10.chm2293828
-f1_keywords:
-- vbapb10.chm2293828
+f1_keywords: vbapb10.chm2293828
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Name
+api_name: Publisher.ShapeRange.Name
 ms.assetid: 517eca4b-fa8c-0f6a-2829-75704bb4c899
 ms.date: 06/08/2017
+ms.openlocfilehash: 23473bf9d7a5bdd135d38977778c6dae38e54a94
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangename-property-publisher"></a>Свойство ShapeRange.Name (издатель)
+
+Возвращает или задает **строковое** значение, указывающее имя указанного объекта. Чтение и запись.
 
 
-# ShapeRange.Name Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** value indicating the name of the specified object. Read/write.
+ _выражение_. **Имя**
 
-
-## Syntax
-
- _expression_. **Name**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can use an object's name in conjunction with the  **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, then `.Shapes("Rectangle 2")` will return a reference to that shape.
+Имя объекта можно использовать в сочетании с **элемента** метод или свойство **Item** возвращает ссылку на объект, если **элемент** метод или свойство для семейства сайтов, содержащее объект принимает аргумент **типа Variant** . Например, если значение свойства **Name** для фигуры — 2 прямоугольника, затем `.Shapes("Rectangle 2")` возвращает ссылку на фигуры.
 
-The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
+Свойство **Name** является свойством по умолчанию для объектов **Узорные**, **BorderArtFormat**и **метки** .
 
 

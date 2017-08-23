@@ -1,44 +1,45 @@
 ---
-title: WebHiddenFields.Name Method (Publisher)
+title: "Метод WebHiddenFields.Name (издатель)"
 keywords: vbapb10.chm3997703
-f1_keywords:
-- vbapb10.chm3997703
+f1_keywords: vbapb10.chm3997703
 ms.prod: publisher
-api_name:
-- Publisher.WebHiddenFields.Name
+api_name: Publisher.WebHiddenFields.Name
 ms.assetid: 9dade2c9-6f6b-8686-90fa-a41c8bb6dfa2
 ms.date: 06/08/2017
+ms.openlocfilehash: 8abb3e4bf93c5cc88c40894bb5e0ea15ce31fef4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webhiddenfieldsname-method-publisher"></a>Метод WebHiddenFields.Name (издатель)
+
+Возвращает **строку** , представляющую имя скрытого поля Web для кнопки Web.
 
 
-# WebHiddenFields.Name Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the name of a hidden Web field for a Web command button.
+ _выражение_. **Имя** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Name**( **_Index_**)
-
- _expression_A variable that represents a  **WebHiddenFields** object.
+ переменная _expression_A, представляет собой объект- **WebHiddenFields** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The index number of the hidden field.|
+|Индекс|Обязательное свойство.| **Длинный**|Номер индекса скрытых полей.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a Web command button with a hidden field, then displays the field's name.
+В этом примере создается кнопки команды Web с скрытого поля, а затем отображает имя поля.
 
 
 ```vb

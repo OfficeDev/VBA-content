@@ -1,43 +1,44 @@
 ---
-title: Shape.BorderArt Property (Publisher)
+title: "Свойство Shape.BorderArt (издатель)"
 keywords: vbapb10.chm5308675
-f1_keywords:
-- vbapb10.chm5308675
+f1_keywords: vbapb10.chm5308675
 ms.prod: publisher
-api_name:
-- Publisher.Shape.BorderArt
+api_name: Publisher.Shape.BorderArt
 ms.assetid: dcc0ceb4-ef69-ffd3-e510-13dcb8d06832
 ms.date: 06/08/2017
+ms.openlocfilehash: cb1d3fee5dd07ce44a22d15d4e671d3363f334f5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeborderart-property-publisher"></a>Свойство Shape.BorderArt (издатель)
+
+Возвращает объект **[BorderArtFormat](borderartformat-object-publisher.md)** , представляющий тип Узорные, применяемые к указанной фигуры. Возвращает «Отказано в разрешении», если Узорные не была применена к фигуре. Только для чтения.
 
 
-# Shape.BorderArt Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[BorderArtFormat](borderartformat-object-publisher.md)** object that represents the BorderArt type applied to the specified shape. Returns "Permission Denied" if BorderArt has not been applied to the shape. Read-only.
+ _выражение_. **Узорные**
 
-
-## Syntax
-
- _expression_. **BorderArt**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 BorderArtFormat
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-BorderArt are picture borders that can be applied to text boxes, picture frames, or rectangles. 
+Узорные, границы изображения, которые можно применять для текстовых полей, рамки рисунков или прямоугольники. 
 
-Use the  **BorderArt** property to apply, change, and remove BorderArt from shapes in publications.
+Используйте свойство **Узорные** для применения, изменение и удаление Узорные из фигур в публикации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests for the existence of BorderArt on each shape for each page of the active publication. If BorderArt exists, it is deleted.
+Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы публикации active. Если Узорные существует, она удаляется.
 
 
 ```vb

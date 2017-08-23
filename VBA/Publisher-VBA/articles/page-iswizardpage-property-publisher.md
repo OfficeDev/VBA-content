@@ -1,43 +1,44 @@
 ---
-title: Page.IsWizardPage Property (Publisher)
+title: "Свойство Page.IsWizardPage (издатель)"
 keywords: vbapb10.chm393271
-f1_keywords:
-- vbapb10.chm393271
+f1_keywords: vbapb10.chm393271
 ms.prod: publisher
-api_name:
-- Publisher.Page.IsWizardPage
+api_name: Publisher.Page.IsWizardPage
 ms.assetid: 09c1352d-6760-ad54-aa95-211727c968b3
 ms.date: 06/08/2017
+ms.openlocfilehash: 96d95e02c9b0e93d6f91f99f91a28b54a0ef1cd5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pageiswizardpage-property-publisher"></a>Свойство Page.IsWizardPage (издатель)
+
+Возвращает **значение True** , если это, страница мастера Microsoft Publisher. Только для чтения **типа Boolean**.
 
 
-# Page.IsWizardPage Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
+ _выражение_. **IsWizardPage**
 
-
-## Syntax
-
- _expression_. **IsWizardPage**
-
- _expression_A variable that represents an  **Page** object.
+ переменная _expression_A, представляющий объект **страницы** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-Wizard pages are special page types for certain types of Publisher wizards (such as Newsletters, Catalogs, and Web Wizards) that can be inserted into a publication.
-
-Use the  **[Wizard](page-wizard-property-publisher.md)** property of the **[Page](page-object-publisher.md)** object to access the wizard for the specified page.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example tests to determine whether the specified page is a wizard page. If it is, certain wizard properties are returned.
+Страницы мастера являются типы специальных страниц для определенных типов мастеров Publisher (например, бюллетени, каталоги и веб-мастера), которые можно вставить в публикации.
+
+Используйте свойство **[Мастер](page-wizard-property-publisher.md)** объекта **[Page](page-object-publisher.md)** для доступа к мастеру для указанной страницы.
+
+
+## <a name="example"></a>Пример
+
+Следующий пример проверяет, чтобы определить, является ли указанный страницы страница мастера. Если он установлен, будут возвращены определенных свойств мастера.
 
 
 ```vb

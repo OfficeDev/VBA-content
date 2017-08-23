@@ -1,44 +1,45 @@
 ---
-title: TextRange.InsertBefore Method (Publisher)
+title: "Метод TextRange.InsertBefore (издатель)"
 keywords: vbapb10.chm5308449
-f1_keywords:
-- vbapb10.chm5308449
+f1_keywords: vbapb10.chm5308449
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.InsertBefore
+api_name: Publisher.TextRange.InsertBefore
 ms.assetid: b0e4355b-b1bc-ae78-08ad-000d577fd7db
 ms.date: 06/08/2017
+ms.openlocfilehash: d19f7c24c456214e16a27fe8e61aa77924209f8f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangeinsertbefore-method-publisher"></a>Метод TextRange.InsertBefore (издатель)
+
+Добавляет новую строку в начало диапазона указанный текст. Возвращает объект **TextRange** , представляющий добавленный текст. При использовании без аргумента, этот метод возвращает пустую строку в конце указанного диапазона.
 
 
-# TextRange.InsertBefore Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Appends a string to the beginning of the specified text range. Returns a  **TextRange** object that represents the appended text. When used without an argument, this method returns a zero-length string at the end of the specified range.
+ _выражение_. **InsertBefore** ( **_NewText_**)
 
-
-## Syntax
-
- _expression_. **InsertBefore**( **_NewText_**)
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|NewText|Required| **String**|The text to be inserted. The default value is an empty string.|
+|NewText|Обязательное свойство.| **String**|Текст для вставки. Значение по умолчанию — пустая строка.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 TextRange
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds the Microsoft Publisher build number and a paragraph break to the beginning of the first shape on the first page of the active publication. This example assumes the specified shape is a text frame and not another type of shape.
+В этом примере добавляет номер сборки Microsoft Publisher и конца абзаца в начало первой фигуры на первой странице active публикации. В этом примере предполагается, что указанные форму — фрагмент текста и не другого типа фигуры.
 
 
 ```vb

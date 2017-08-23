@@ -1,105 +1,56 @@
 ---
-title: Application.NewDocument Method (Publisher)
+title: "Метод Application.NewDocument (издатель)"
 keywords: vbapb10.chm131127
-f1_keywords:
-- vbapb10.chm131127
+f1_keywords: vbapb10.chm131127
 ms.prod: publisher
-api_name:
-- Publisher.Application.NewDocument
+api_name: Publisher.Application.NewDocument
 ms.assetid: 9beb6176-0c46-0ba0-8d41-a9021c624223
 ms.date: 06/08/2017
+ms.openlocfilehash: 0ef817876651d6211b5a75bf834356ddab706748
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationnewdocument-method-publisher"></a>Метод Application.NewDocument (издатель)
+
+Возвращает объект **Document** , представляющий новую публикацию.
 
 
-# Application.NewDocument Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Document** object that represents a new publication.
+ _выражение_. **NewDocument** ( **_Мастер_** **_разработки_**)
 
-
-## Syntax
-
- _expression_. **NewDocument**( **_Wizard_**,  **_Design_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Wizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
-|Design|Optional| **Long**|The design to apply to the new publication.|
+|Мастер|Необязательный| **PbWizard**|Мастер для создания новой публикации.|
+|Разработка|Необязательный| **Длинный**|Разработка, чтобы применить новые публикации.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Document
-
-
-## Remarks
-
-The Wizard parameter can be one of the  **PbWizard** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbWizardNone**.
+Документ
 
 
+## <a name="remarks"></a>Заметки
+
+Параметр мастера может быть одной из констант **PbWizard** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице. Значение по умолчанию — **pbWizardNone**.
 
 
 
-| **pbWizardAdvertisements**|
-| **pbWizardAirplanes**|
-| **pbWizardBanners**|
-| **pbWizardBrochures**|
-| **pbWizardBusinessCards**|
-| **pbWizardBusinessForms**|
-| **pbWizardCalendars**|
-| **pbWizardCatalogs**|
-| **pbWizardCertificates**|
-| **pbWizardEnvelopes**|
-| **pbWizardFlyers**|
-| **pbWizardGiftCertificates**|
-| **pbWizardGreetingCards**|
-| **pbWizardInvitations**|
-| **pbWizardJapaneseAdvertisements**|
-| **pbWizardJapaneseAirplanes**|
-| **pbWizardJapaneseBanners**|
-| **pbWizardJapaneseBrochures**|
-| **pbWizardJapaneseBusinessCards**|
-| **pbWizardJapaneseBusinessForms**|
-| **pbWizardJapaneseCalendars**|
-| **pbWizardJapaneseCatalogs**|
-| **pbWizardJapaneseCertificates**|
-| **pbWizardJapaneseEnvelopes**|
-| **pbWizardJapaneseFlyers**|
-| **pbWizardJapaneseGiftCertificates**|
-| **pbWizardJapaneseGreetingCards**|
-| **pbWizardJapaneseInvitations**|
-| **pbWizardJapaneseLabels**|
-| **pbWizardJapaneseLetterheads**|
-| **pbWizardJapaneseMenus**|
-| **pbWizardJapaneseNewsletters**|
-| **pbWizardJapaneseOrigami**|
-| **pbWizardJapanesePostcards**|
-| **pbWizardJapanesePrograms**|
-| **pbWizardJapaneseSigns**|
-| **pbWizardJapaneseWebSites**|
-| **pbWizardLabels**|
-| **pbWizardLetterheads**|
-| **pbWizardMenus**|
-| **pbWizardNewsletters**|
-| **pbWizardNone**|
-| **pbWizardOrigami**|
-| **pbWizardPostcards**|
-| **pbWizardPrograms**|
-| **pbWizardQuickPublications**|
-| **pbWizardResumes**|
-| **pbWizardSigns**|
-| **pbWizardWebSites**|
-| **pbWizardWithComplimentsCards**|
-| **pbWizardWordDocument**|
 
-## Example
 
-This example creates a new publication and edits the master page to contain a page number in a star in the upper-left corner of the page.
+| **pbWizardAdvertisements**|| **pbWizardAirplanes**|| **pbWizardBanners**|| **pbWizardBrochures**|| **pbWizardBusinessCards**|| **pbWizardBusinessForms**|| **pbWizardCalendars**|| **pbWizardCatalogs**|| **pbWizardCertificates**|| **pbWizardEnvelopes**|| **pbWizardFlyers**|| **pbWizardGiftCertificates**|| **pbWizardGreetingCards**|| **pbWizardInvitations**|| **pbWizardJapaneseAdvertisements**|| **pbWizardJapaneseAirplanes**|| **pbWizardJapaneseBanners**|| **pbWizardJapaneseBrochures**|| **pbWizardJapaneseBusinessCards**|| **pbWizardJapaneseBusinessForms**|| **pbWizardJapaneseCalendars**|| **pbWizardJapaneseCatalogs**|| **pbWizardJapaneseCertificates**|| **pbWizardJapaneseEnvelopes**|| **pbWizardJapaneseFlyers**|| **pbWizardJapaneseGiftCertificates**|| **pbWizardJapaneseGreetingCards**|| **pbWizardJapaneseInvitations**|| **pbWizardJapaneseLabels**|| **pbWizardJapaneseLetterheads**|| **pbWizardJapaneseMenus**|| **pbWizardJapaneseNewsletters**|| **pbWizardJapaneseOrigami**|| **pbWizardJapanesePostcards**|| **pbWizardJapanesePrograms**|| **pbWizardJapaneseSigns**|| **pbWizardJapaneseWebSites**|| **pbWizardLabels**|| **pbWizardLetterheads**|| **pbWizardMenus**|| **pbWizardNewsletters**|| **pbWizardNone**|| **pbWizardOrigami**|| **pbWizardPostcards**|| **pbWizardPrograms**|| **pbWizardQuickPublications**|| **pbWizardResumes**|| **pbWizardSigns**|| **pbWizardWebSites**|| **pbWizardWithComplimentsCards**|| **pbWizardWordDocument**|
+
+## <a name="example"></a>Пример
+
+В этом примере создается новая публикация и изменение главной страницы, содержащие номер страницы в звезда в левом верхнем углу страницы.
 
 
 ```vb
@@ -129,11 +80,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

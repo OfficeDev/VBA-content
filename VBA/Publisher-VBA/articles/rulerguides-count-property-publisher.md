@@ -1,31 +1,32 @@
 ---
-title: RulerGuides.Count Property (Publisher)
+title: "Свойство RulerGuides.Count (издатель)"
 keywords: vbapb10.chm720899
-f1_keywords:
-- vbapb10.chm720899
+f1_keywords: vbapb10.chm720899
 ms.prod: publisher
-api_name:
-- Publisher.RulerGuides.Count
+api_name: Publisher.RulerGuides.Count
 ms.assetid: 92a93b1a-80c1-7a41-cb94-ac0859a4a470
 ms.date: 06/08/2017
+ms.openlocfilehash: 5a2b2d4abbafe5e3ba0be78606ccff715830af7d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rulerguidescount-property-publisher"></a>Свойство RulerGuides.Count (издатель)
+
+Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-# RulerGuides.Count Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of items in the specified collection.
+ _выражение_. **Count**
 
-
-## Syntax
-
- _expression_. **Count**
-
- _expression_A variable that represents a  **RulerGuides** object.
+ переменная _expression_A, представляет собой объект- **RulerGuides** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the number of pages in the active document.
+В этом примере отображается число страниц в активный документ.
 
 
 ```vb
@@ -35,7 +36,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-This example displays the number of shapes in the active document.
+В этом примере отображается количество фигур в активном документе.
 
 
 

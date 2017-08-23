@@ -1,67 +1,68 @@
 ---
-title: Shapes.AddPicture Method (Publisher)
+title: "Метод Shapes.AddPicture (издатель)"
 keywords: vbapb10.chm2162710
-f1_keywords:
-- vbapb10.chm2162710
+f1_keywords: vbapb10.chm2162710
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddPicture
+api_name: Publisher.Shapes.AddPicture
 ms.assetid: a5305bd0-295f-46f6-7823-46dab750243b
 ms.date: 06/08/2017
+ms.openlocfilehash: 7ee8654e98298405d6dd1163ce24e52f695a0499
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddpicture-method-publisher"></a>Метод Shapes.AddPicture (издатель)
+
+Добавление нового объекта **Shape** , представляющий изображение для указанной коллекции **фигур** .
 
 
-# Shapes.AddPicture Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing a picture to the specified **Shapes** collection.
+ _выражение_. **AddPicture** ( **_Имя файла_**, **_LinkToFile_**, **_SaveWithDocument_**, **_слева_**, **_сверху_**, **_Ширина_**, **_Высота_**)
 
-
-## Syntax
-
- _expression_. **AddPicture**( **_Filename_**,  **_LinkToFile_**,  **_SaveWithDocument_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Filename|Required| **String**|The name of the picture file to insert into the shape. The path can be absolute or relative.|
-|LinkToFile|Required| **MsoTriState**|Determines whether the picture is linked to or embedded in the publication.|
-|SaveWithDocument|Required| **MsoTriState**|Determines whether the picture is saved as a separate file with the publication.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the picture.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the picture.|
-|Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
-|Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
+|Имя файла|Обязательное свойство.| **String**|Имя файла изображения для вставки в форму. Путь может быть абсолютное или относительное.|
+|LinkToFile|Обязательное свойство.| **MsoTriState**|Определяет, связанный с рисунок или внедренных в публикации.|
+|SaveWithDocument|Обязательное свойство.| **MsoTriState**|Определяет, будет ли рисунок сохраняется как отдельный файл с публикацией.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющее рисунок.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющее рисунок.|
+|Width|Необязательный| **Variant**|Ширина формы, представляющее рисунок. По умолчанию используется значение -1, то есть ширину фигуры автоматически устанавливается на основе данных объекта.|
+|Height|Необязательный| **Variant**|Высота формы, представляющее рисунок. По умолчанию используется значение -1, то есть ширину фигуры автоматически устанавливается на основе данных объекта.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If the SaveWithDocument argument is  **msoTrue**, Microsoft Publisher saves a new copy of the picture file specified by the FileName argument in the same directory as the publication.
+Если аргумент SaveWithDocument **msoTrue**, Microsoft Publisher сохраняет новую копию файла изображения, указанный в аргументе FileName в одном каталоге с публикацией.
 
-The LinkToFile and SaveWithDocument arguments cannot have the same value, or else an error occurs. If either argument is  **msoTrue**, the other must be  **msoFalse**.
+Аргументы LinkToFile и SaveWithDocument не могут иметь такое же значение, в противном случае возникает ошибка. Если аргумент не является **msoTrue**, другое должен быть **msoFalse**.
 
-For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
+Аргументы слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Publisher (например, «2,5 дюйма»).
 
-The LinkToFile parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Параметр LinkToFile может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The picture is to be embedded in the publication.|
-| **msoTrue**|The picture is to be linked to the publication.|
+| **msoFalse**|Рисунок является внедрены в публикации.|
+| **msoTrue**|Изображения — к публикации.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a picture based on an existing file to the active publication; the picture in the publication is linked to a copy of the original file. (Note that  _PathToFile_ must be replaced with a valid file path for this example to work.)
+В следующем примере добавляется изображение на основе существующего файла для активной публикации; рисунок в публикации связан копию исходного файла. (Обратите внимание на то, что действительный путь к файлу для работы этого примера необходимо заменить _PathToFile_ .)
 
 
 ```vb

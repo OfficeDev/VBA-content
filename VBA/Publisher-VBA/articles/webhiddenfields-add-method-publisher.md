@@ -1,45 +1,46 @@
 ---
-title: WebHiddenFields.Add Method (Publisher)
+title: "Метод WebHiddenFields.Add (издатель)"
 keywords: vbapb10.chm3997700
-f1_keywords:
-- vbapb10.chm3997700
+f1_keywords: vbapb10.chm3997700
 ms.prod: publisher
-api_name:
-- Publisher.WebHiddenFields.Add
+api_name: Publisher.WebHiddenFields.Add
 ms.assetid: c3035138-f369-b561-b1f8-9977bd9e080c
 ms.date: 06/08/2017
+ms.openlocfilehash: 38404fab095a8b40be40d22af3e24740db511455
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webhiddenfieldsadd-method-publisher"></a>Метод WebHiddenFields.Add (издатель)
+
+Добавляет нового скрытого поля в веб-формы и возвращает значение типа **Long** , указывающее количество нового поля в коллекции **WebHiddenFields** . Новые поля, всегда помещаются в конце текущий список полей.
 
 
-# WebHiddenFields.Add Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new hidden field to a Web form and returns a  **Long** indicating the number of the new field in the **WebHiddenFields** collection. New fields are always placed at the end of the current field list.
+ _выражение_. **Добавление** ( **_Имя_**, **_значение_**)
 
-
-## Syntax
-
- _expression_. **Add**( **_Name_**,  **_Value_**)
-
- _expression_A variable that represents a  **WebHiddenFields** object.
+ переменная _expression_A, представляет собой объект- **WebHiddenFields** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the new field.|
-|Value|Required| **String**|The value of the new field.|
+|Имя|Обязательное свойство.| **String**|Имя нового поля.|
+|Значение|Обязательное свойство.| **String**|Значение нового поля.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a new hidden field to the specified Web command button control. Shape one on page one of the active publication must be a Web command button control for this example to work.
+Следующий пример добавляет нового скрытого поля для указанного элемента управления кнопки команды Web. Фигура одно на странице один из активных публикации должен быть элемент управления кнопки команды Web для работы этого примера.
 
 
 ```vb

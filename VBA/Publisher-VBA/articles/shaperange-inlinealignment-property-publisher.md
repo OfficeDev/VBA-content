@@ -1,38 +1,39 @@
 ---
-title: ShapeRange.InlineAlignment Property (Publisher)
+title: "Свойство ShapeRange.InlineAlignment (издатель)"
 keywords: vbapb10.chm2294024
-f1_keywords:
-- vbapb10.chm2294024
+f1_keywords: vbapb10.chm2294024
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.InlineAlignment
+api_name: Publisher.ShapeRange.InlineAlignment
 ms.assetid: fed6d488-1483-2b59-b7be-1c4298f016a0
 ms.date: 06/08/2017
+ms.openlocfilehash: 089ec3ede500dc036e496d021570fbedb6bbb609
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeinlinealignment-property-publisher"></a>Свойство ShapeRange.InlineAlignment (издатель)
+
+Возвращает или задает **PbInlineAlignment** константа, указывающее, является ли встроенная фигура слева, справа, или выравнивание в текст. Чтение и запись.
 
 
-# ShapeRange.InlineAlignment Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
+ _выражение_. **InlineAlignment**
 
-
-## Syntax
-
- _expression_. **InlineAlignment**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **InlineAlignment** property value can be one of the **[PbInlineAlignment](pbinlinealignment-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **InlineAlignment** может иметь одно из **[PbInlineAlignment](pbinlinealignment-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
-An automation error is returned if the shape is not already inline.
+Если фигуры еще не является встроенной, возвращается ошибка автоматизации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example moves the second shape on the second page of the publication into the text flow by using the  **[MoveIntoTextFlow](shape-moveintotextflow-method-publisher.md)** method. The **InlineAlignment** property is then used to align the shape to the right.
+В следующем примере второй фигура перемещается на второй странице публикации в потоке текста с помощью метода **[MoveIntoTextFlow](shape-moveintotextflow-method-publisher.md)** . Свойство **InlineAlignment** затем используется для выравнивания фигур справа.
 
 
 ```vb

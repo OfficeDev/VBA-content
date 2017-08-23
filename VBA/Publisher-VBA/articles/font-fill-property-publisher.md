@@ -1,36 +1,38 @@
 ---
-title: Font.Fill Property (Publisher)
+title: "Свойство Font.Fill (издатель)"
 keywords: vbapb10.chm5374018
-f1_keywords:
-- vbapb10.chm5374018
+f1_keywords: vbapb10.chm5374018
 ms.prod: publisher
 ms.assetid: c38ac8a3-2673-c968-9fcb-ebd5545d4da4
 ms.date: 06/08/2017
+ms.openlocfilehash: 2eb6420e2e84aa0934cae1cecd9d3cbf78376743
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontfill-property-publisher"></a>Свойство Font.Fill (издатель)
+
+Возвращает объект [FillFormat](fillformat-object-publisher.md) , который содержит заливки параметры форматирования для шрифта, используемого в указанный диапазон текста. Только для чтения.
 
 
-# Font.Fill Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  [FillFormat](fillformat-object-publisher.md) object that contains fill formatting properties for the font used by the specified range of text. Read-only.
+ _выражение_. **Заполните поля**
 
-
-## Syntax
-
- _expression_. **Fill**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **FILLFORMAT**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Font Object](font-object-publisher.md)
+ [Объект Font](font-object-publisher.md)
 

@@ -1,32 +1,33 @@
 ---
-title: PrintableRect Object (Publisher)
+title: "Объект PrintableRect (издатель)"
 keywords: vbapb10.chm7602175
-f1_keywords:
-- vbapb10.chm7602175
+f1_keywords: vbapb10.chm7602175
 ms.prod: publisher
-api_name:
-- Publisher.PrintableRect
+api_name: Publisher.PrintableRect
 ms.assetid: fd99e9d4-81d9-63ae-78ca-f7a16b031239
 ms.date: 06/08/2017
+ms.openlocfilehash: 4780bb421eba59bdcdeab762cdd2f2454ff62cbd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="printablerect-object-publisher"></a>Объект PrintableRect (издатель)
 
-
-# PrintableRect Object (Publisher)
-
-Represents the sheet area within which the specified printer will print. The printable rectangle is determined by the printer based on the sheet size specified. The printable rectangle of the printer sheet should not be confused with the area within the margins of the publication page; it may be larger or smaller than the publication page.
+Представляет область листа, в течение которого указанного печать. Область печати определяется принтера на основе указанного размера листа. Подготовленных к печати прямоугольника листа принтера не следует путать с область внутри поля страницы публикации; может быть меньше или больше страницы публикации.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-In cases in which the printer sheet and the publication page size are identical, the publication page is centered on the printer sheet and none of the printer's marks print, even if they are selected.
+В тех случаях, когда идентичны sheet принтера и размер страницы публикации страница публикации располагается на листе принтера и ни один из метки печати, даже в том случае, если они выбраны.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[PrintableRect](printer-printablerect-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to return a **PrintableRect** object. The following example returns printable rectangle boundaries for the printer sheet of the active publication.
+Используйте свойство **[PrintableRect](printer-printablerect-property-publisher.md)** объекта **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** возвращает объект **PrintableRect** . В следующем примере возвращается ограничениях подготовленных к печати прямоугольника в листе принтера active публикации.
  
 
  
@@ -55,16 +56,16 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](printablerect-application-property-publisher.md)|
-|[Height](printablerect-height-property-publisher.md)|
-|[Left](printablerect-left-property-publisher.md)|
-|[Parent](printablerect-parent-property-publisher.md)|
-|[Top](printablerect-top-property-publisher.md)|
-|[Width](printablerect-width-property-publisher.md)|
+|[Приложения](printablerect-application-property-publisher.md)|
+|[Высота](printablerect-height-property-publisher.md)|
+|[Слева](printablerect-left-property-publisher.md)|
+|[Родительский раздел](printablerect-parent-property-publisher.md)|
+|[Вверх](printablerect-top-property-publisher.md)|
+|[Ширина](printablerect-width-property-publisher.md)|
 

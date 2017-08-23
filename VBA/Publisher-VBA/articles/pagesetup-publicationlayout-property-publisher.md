@@ -1,39 +1,41 @@
 ---
-title: PageSetup.PublicationLayout Property (Publisher)
+title: "Свойство PageSetup.PublicationLayout (издатель)"
 keywords: vbapb10.chm6946839
-f1_keywords:
-- vbapb10.chm6946839
+f1_keywords: vbapb10.chm6946839
 ms.prod: publisher
 ms.assetid: 6c476789-577d-2088-37dc-bcaed25cd219
 ms.date: 06/08/2017
+ms.openlocfilehash: e7153d8ec76ec6f4257b69f74c7a07dd5613b94a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagesetuppublicationlayout-property-publisher"></a>Свойство PageSetup.PublicationLayout (издатель)
+
+Возвращает или задает константа [Перечисления PbPublicationLayout (издатель)](pbpublicationlayout-enumeration-publisher.md) , который указывает расположение публикации. Чтение и запись.
 
 
-# PageSetup.PublicationLayout Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](pbpublicationlayout-enumeration-publisher.md) constant that indicates the layout of a publication. Read/write.
+ _выражение_. **PublicationLayout**
 
-
-## Syntax
-
- _expression_. **PublicationLayout**
-
- _expression_A variable that represents a  **PageSetup** object.
+ переменная _expression_A, представляет собой объект- **PageSetup** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **PBPUBLICATIONLAYOUT**
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Using the  **PublicationLayout** property to set the layout of a publication is equivalent to setting the layout from the list box in the **Page Setup** dialog box.
+С помощью свойства **PublicationLayout** задать макет публикации эквивалентно параметру макет из списка в диалоговом окне **Параметры страницы** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the layout of the active publication to  **pbLayoutBusinessCardUS**, which, by default, specifies a page width of 3.5 inches and a page height of 2 inches.
+В следующем примере задается макет active публикации для **pbLayoutBusinessCardUS**, который по умолчанию определяет ширину страницы 3,5 дюйма и высота страницы 2 дюйма.
 
 
 ```vb
@@ -44,11 +46,11 @@ End With
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [PageSetup Object (Publisher)](pagesetup-object-publisher.md)
+ [Объект PageSetup (издатель)](pagesetup-object-publisher.md)
 

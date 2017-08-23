@@ -1,36 +1,37 @@
 ---
-title: WebPageOptions.Keywords Property (Publisher)
+title: "Свойство WebPageOptions.Keywords (издатель)"
 keywords: vbapb10.chm544772
-f1_keywords:
-- vbapb10.chm544772
+f1_keywords: vbapb10.chm544772
 ms.prod: publisher
-api_name:
-- Publisher.WebPageOptions.Keywords
+api_name: Publisher.WebPageOptions.Keywords
 ms.assetid: 8dd7b073-747e-a6f6-a20d-0b3e3d9a27b8
 ms.date: 06/08/2017
+ms.openlocfilehash: 3513d3d619dbee19e1477f53206bd2454a534538
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webpageoptionskeywords-property-publisher"></a>Свойство WebPageOptions.Keywords (издатель)
+
+Возвращает или задает **строку** , представляющую ключевые слова для веб-страницы в веб-публикации. Чтение и запись.
 
 
-# WebPageOptions.Keywords Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the keywords for a Web page within a Web publication. Read/write.
+ _выражение_. **Ключевые слова**
 
-
-## Syntax
-
- _expression_. **Keywords**
-
- _expression_A variable that represents a  **WebPageOptions** object.
+ переменная _expression_A, представляет собой объект- **WebPageOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example sets the keywords for page four of the active publication.
+В следующем примере задается ключевые слова для страницы четыре active публикации.
 
 
 ```vb

@@ -1,25 +1,26 @@
 ---
-title: ObjectVerbs Object (Publisher)
+title: "Объект ObjectVerbs (издатель)"
 keywords: vbapb10.chm4587519
-f1_keywords:
-- vbapb10.chm4587519
+f1_keywords: vbapb10.chm4587519
 ms.prod: publisher
-api_name:
-- Publisher.ObjectVerbs
+api_name: Publisher.ObjectVerbs
 ms.assetid: e04cf7db-ee56-7d95-9f5c-7ecee1844866
 ms.date: 06/08/2017
+ms.openlocfilehash: 53f24fad17f735fb7b6ba484d12201fd083ba6a5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="objectverbs-object-publisher"></a>Объект ObjectVerbs (издатель)
 
-
-# ObjectVerbs Object (Publisher)
-
-Represents the collection of OLE verbs for the specified OLE object. OLE verbs are the operations supported by an OLE object. Commonly used OLE verbs are play and edit.
+Представляет коллекцию команды OLE для указанного объекта OLE. Команды OLE являются операции, поддерживаемые объекты OLE. Часто используемые команды OLE являются воспроизвести и изменить.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to return an **ObjectVerbs** object. The following example displays all the available verbs for the OLE object contained in the first shape on first page in the active publication. For this example to work, the specified shape must contain an OLE object.
+Свойство **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** возвращает объект **ObjectVerbs** . В следующем примере отображаются все доступные команды для объекта OLE, содержащихся в первую фигуру на первой странице в активной публикации. В данном примере для работы указанного фигуры должен содержать объекта OLE.
  
 
  
@@ -37,21 +38,21 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](objectverbs-item-method-publisher.md)|
+|[Элемент](objectverbs-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](objectverbs-application-property-publisher.md)|
+|[Приложения](objectverbs-application-property-publisher.md)|
 |[Count](objectverbs-count-property-publisher.md)|
-|[Parent](objectverbs-parent-property-publisher.md)|
+|[Родительский раздел](objectverbs-parent-property-publisher.md)|
 

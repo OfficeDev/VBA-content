@@ -1,41 +1,42 @@
 ---
-title: Plate.InUse Property (Publisher)
+title: "Свойство Plate.InUse (издатель)"
 keywords: vbapb10.chm2883602
-f1_keywords:
-- vbapb10.chm2883602
+f1_keywords: vbapb10.chm2883602
 ms.prod: publisher
-api_name:
-- Publisher.Plate.InUse
+api_name: Publisher.Plate.InUse
 ms.assetid: 6c98ada2-ff05-30c9-0043-afbe892dab3d
 ms.date: 06/08/2017
+ms.openlocfilehash: 65b9b30731f76a245e71663714ad3014a293ba2e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="plateinuse-property-publisher"></a>Свойство Plate.InUse (издатель)
+
+Возвращает **значение True** , если указанный рукописный ввод (представленное форму) используется в публикации. Только для чтения **типа Boolean**.
 
 
-# Plate.InUse Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
+ _выражение_. **Может быть каталогом**
 
-
-## Syntax
-
- _expression_. **InUse**
-
- _expression_A variable that represents an  **Plate** object.
+ переменная _expression_A, представляющий объект **формы** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property corresponds to the  **In Use** or **Not In Use** notation listed by each ink on the **Ink** tab of the **Color Printing** dialog box.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example loops through the active publication's plates collection, determines which plates represent inks that are not used in the publication, and deletes them.
+Это свойство соответствует нотацию **Используется** или **Не используется** , перечисленные по каждой рукописного ввода на вкладке **рукописного ввода** диалогового окна **Печать цвета** .
+
+
+## <a name="example"></a>Пример
+
+В следующем примере циклически просматривает коллекцию форм active публикации, определяет, какие формы представляют краски, которые не используются в публикации и их удаление.
 
 
 ```vb

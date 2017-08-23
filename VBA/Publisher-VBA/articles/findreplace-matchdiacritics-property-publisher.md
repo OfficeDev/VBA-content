@@ -1,43 +1,44 @@
 ---
-title: FindReplace.MatchDiacritics Property (Publisher)
+title: "Свойство FindReplace.MatchDiacritics (издатель)"
 keywords: vbapb10.chm8323081
-f1_keywords:
-- vbapb10.chm8323081
+f1_keywords: vbapb10.chm8323081
 ms.prod: publisher
-api_name:
-- Publisher.FindReplace.MatchDiacritics
+api_name: Publisher.FindReplace.MatchDiacritics
 ms.assetid: e23d01a1-9252-4077-c52f-87c53b5c0589
 ms.date: 06/08/2017
+ms.openlocfilehash: e8f1c9c47ba874a0f3ebe96d692b6227e58994cc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="findreplacematchdiacritics-property-publisher"></a>Свойство FindReplace.MatchDiacritics (издатель)
+
+Задает или возвращает значение **типа Boolean** представляющее ли операция поиска будет соответствовать диакритические знаки. Чтение и запись.
 
 
-# FindReplace.MatchDiacritics Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **Boolean** representing whether or not a search operation will match diacritics. Read/write.
+ _выражение_. **MatchDiacritics**
 
-
-## Syntax
-
- _expression_. **MatchDiacritics**
-
- _expression_A variable that represents a  **FindReplace** object.
+ переменная _expression_A, представляет собой объект- **FindReplace** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-This property may not be available depending on the languages enabled on your operating system. The default value is  **False**.
-
-Returns  **Access denied** if a proper language, such as Arabic, is not enabled.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example finds the first occurrence of the word "gegenüber" in a German document. 
+Это свойство не может быть доступно в зависимости от языка в операционной системе. Значение по умолчанию — **False**.
+
+Возвращает **доступ запрещен** при правильного языка, например арабский, не включено.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется поиск первого появления слово «gegenüber» в документе Германии. 
 
 
 ```vb

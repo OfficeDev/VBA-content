@@ -1,35 +1,36 @@
 ---
-title: Shapes.AddCatalogMergeFieldToCanvas Method (Publisher)
+title: "Метод Shapes.AddCatalogMergeFieldToCanvas (издатель)"
 keywords: vbapb10.chm2162760
-f1_keywords:
-- vbapb10.chm2162760
+f1_keywords: vbapb10.chm2162760
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddCatalogMergeFieldToCanvas
+api_name: Publisher.Shapes.AddCatalogMergeFieldToCanvas
 ms.assetid: 30cd45d0-97f0-ab01-31c2-8d819b435b1b
 ms.date: 06/08/2017
+ms.openlocfilehash: 85613151a60cdae10beb13fe9367f67aa5a7fe23
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# Метод Shapes.AddCatalogMergeFieldToCanvas (издатель)
+
+Добавляет поле слияния каталога указанного типа на основе. Возвращает значение nothing.
 
 
-# Shapes.AddCatalogMergeFieldToCanvas Method (Publisher)
+## Синтаксис
 
-Adds a catalog merge field of the specified type to the canvas. Returns nothing.
+ _выражение_. **AddCatalogMergeFieldToCanvas** ( **_CanvasId_**, **_CatalogMergeFieldType_**, **_DbCol_**)
 
-
-## Syntax
-
- _expression_. **AddCatalogMergeFieldToCanvas**( **_CanvasId_**,  **_CatalogMergeFieldType_**,  **_DbCol_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|CanvasId|Required| **[INT]**|The ID of the canvas to which to add the catalog merge field.|
-|CatalogMergeFieldType|Required| **pbCatalogMergeFieldType**|The type (picture or text) of the catalog merge field to add.|
-|DbCol|Required| **[INT]**|The number of the column in the data source that contains the catalog merge information.|
+|CanvasId|Обязательное свойство.| **[INT]**|Идентификатор полотно, в которую нужно добавить поле слияния каталога.|
+|CatalogMergeFieldType|Обязательное свойство.| **pbCatalogMergeFieldType**|Тип (рисунок или текст) поле слияния каталога для добавления.|
+|DbCol|Обязательное свойство.| **[INT]**|Количество столбцов в источнике данных, который содержит сведения объединения каталога.|
 

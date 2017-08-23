@@ -1,49 +1,50 @@
 ---
-title: WebCommandButton.PostFormData Property (Publisher)
+title: "Свойство WebCommandButton.PostFormData (издатель)"
 keywords: vbapb10.chm3932176
-f1_keywords:
-- vbapb10.chm3932176
+f1_keywords: vbapb10.chm3932176
 ms.prod: publisher
-api_name:
-- Publisher.WebCommandButton.PostFormData
+api_name: Publisher.WebCommandButton.PostFormData
 ms.assetid: d04e3172-0d96-856f-af63-341031d92291
 ms.date: 06/08/2017
+ms.openlocfilehash: 998236da0d1b9d15fa985232cb447a0aa009afbd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webcommandbuttonpostformdata-property-publisher"></a>Свойство WebCommandButton.PostFormData (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, использует ли указанный элемент управления кнопки команды Web метода **Post** или Microsoft Visual Basic, **Получение** при отправке данных формы на веб-сервере. Чтение и запись.
 
 
-# WebCommandButton.PostFormData Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified Web command button control uses the Microsoft Visual Basic **Get** or **Post** method when submitting form data to a Web server. Read/write.
+ _выражение_. **PostFormData**
 
-
-## Syntax
-
- _expression_. **PostFormData**
-
- _expression_A variable that represents a  **WebCommandButton** object.
+ переменная _expression_A, представляет собой объект- **WebCommandButton** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The control uses the Visual Basic  **Get** method to submit form data.|
-| **msoTrue**|The control uses the Visual Basic  **Post** method to submit form data. The default value.|
-This property is ignored for  **Reset** command buttons.
+| **msoFalse**|Элемент управления использует метод Visual Basic **получить** для отправки данных формы.|
+| **msoTrue**|Элемент управления использует метод Visual Basic **Post** для отправки данных формы. Значение по умолчанию.|
+Это свойство игнорируется для **сброса** кнопок.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a Web form Submit command button and sets the script path and file name to run when a user clicks the button. The example also specifies that the Web form should use the Visual Basic  **Get** method to submit form data.
+В этом примере создается кнопки Отправить форму Web и задает путь и имя скрипта для запуска при нажатии кнопки. В примере также указывается, что веб-форму следует использовать метод Visual Basic **получить** для отправки данных формы.
 
 
 ```vb

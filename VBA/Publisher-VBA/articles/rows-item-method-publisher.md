@@ -1,38 +1,39 @@
 ---
-title: Rows.Item Method (Publisher)
+title: "Метод Rows.Item (издатель)"
 keywords: vbapb10.chm4915200
-f1_keywords:
-- vbapb10.chm4915200
+f1_keywords: vbapb10.chm4915200
 ms.prod: publisher
-api_name:
-- Publisher.Rows.Item
+api_name: Publisher.Rows.Item
 ms.assetid: c91a6253-6130-be2f-4e93-29de44b5055c
 ms.date: 06/08/2017
+ms.openlocfilehash: fc04b285a4df625cfa7b152a22abfc4259b88c71
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rowsitem-method-publisher"></a>Метод Rows.Item (издатель)
+
+Возвращает объект отдельных в указанном семействе сайтов.
 
 
-# Rows.Item Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an individual object in a specified collection.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **Rows** object.
+ переменная _expression_A, представляет собой объект- **строк** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the object to return.|
+|Индекс|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Row
+Строка
 
 

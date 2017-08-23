@@ -1,31 +1,32 @@
 ---
-title: WebOptionButton.ReturnDataLabel Property (Publisher)
+title: "Свойство WebOptionButton.ReturnDataLabel (издатель)"
 keywords: vbapb10.chm4259843
-f1_keywords:
-- vbapb10.chm4259843
+f1_keywords: vbapb10.chm4259843
 ms.prod: publisher
-api_name:
-- Publisher.WebOptionButton.ReturnDataLabel
+api_name: Publisher.WebOptionButton.ReturnDataLabel
 ms.assetid: 22b4a4d6-1068-2b35-d054-42bbea3f9098
 ms.date: 06/08/2017
+ms.openlocfilehash: f721f98134a1959a2661e2c16d7d457b20b3afe4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="weboptionbuttonreturndatalabel-property-publisher"></a>Свойство WebOptionButton.ReturnDataLabel (издатель)
+
+Возвращает или задает **строку** , представляющую текст, используемый с веб-страницы для подписи указанного веб-объект при отправке страницы. Чтение и запись.
 
 
-# WebOptionButton.ReturnDataLabel Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
+ _выражение_. **ReturnDataLabel**
 
-
-## Syntax
-
- _expression_. **ReturnDataLabel**
-
- _expression_A variable that represents a  **WebOptionButton** object.
+ переменная _expression_A, представляет собой объект- **WebOptionButton** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new Web text box and specifies the label for the text in the text box when the page is submitted.
+В этом примере создается новое текстовое поле Web и определяет метку для текста в текстовом поле при отправке страницы.
 
 
 ```vb

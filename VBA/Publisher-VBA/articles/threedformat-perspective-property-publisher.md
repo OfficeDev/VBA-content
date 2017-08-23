@@ -1,36 +1,37 @@
 ---
-title: ThreeDFormat.Perspective Property (Publisher)
+title: "Свойство ThreeDFormat.Perspective (издатель)"
 keywords: vbapb10.chm3801347
-f1_keywords:
-- vbapb10.chm3801347
+f1_keywords: vbapb10.chm3801347
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.Perspective
+api_name: Publisher.ThreeDFormat.Perspective
 ms.assetid: 5a85f7fa-2c72-e9b0-75f0-e6d6680ecd99
 ms.date: 06/08/2017
+ms.openlocfilehash: 44c921d2680217721cd2e73d820365617c8890d1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatperspective-property-publisher"></a>Свойство ThreeDFormat.Perspective (издатель)
+
+ **msoTrue** Если изменяется в Перспектива — то есть, если стенок изменяется сузить направить перспективы. **msoFalse** изменяется в случае параллельного или Ортогональная, проекции — то есть, если не сузить стенок направить перспективы. Чтение и запись.
 
 
-# ThreeDFormat.Perspective Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **msoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **msoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write.
+ _выражение_. **Перспектива**
 
-
-## Syntax
-
- _expression_. **Perspective**
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the extrusion depth for shape one on the first page to 100 points and specifies that the extrusion be parallel, or orthographic. For this example to work, the specified shape must be a 3-D shape.
+В этом примере задается глубина объема для фигуры одно на первой странице в 100 точек и указывает, что выбирать значения параллельный или Ортогональная. В данном примере для работы указанного фигуры должен быть объемной фигуры.
 
 
 ```vb

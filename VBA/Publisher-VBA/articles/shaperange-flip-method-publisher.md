@@ -1,48 +1,48 @@
 ---
-title: ShapeRange.Flip Method (Publisher)
+title: "Метод ShapeRange.Flip (издатель)"
 keywords: vbapb10.chm2293781
-f1_keywords:
-- vbapb10.chm2293781
+f1_keywords: vbapb10.chm2293781
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Flip
+api_name: Publisher.ShapeRange.Flip
 ms.assetid: fad24b08-9ada-0d6f-f526-ceec9ef996c1
 ms.date: 06/08/2017
+ms.openlocfilehash: 0e367ca38a7bf59596ab181a8de6fe4ab886480a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeflip-method-publisher"></a>Метод ShapeRange.Flip (издатель)
+
+Зеркальное отражение указанного фигуры вокруг оси горизонтальный или вертикальный или зеркальное отражение всех фигур в диапазоне указанного фигуры относительно горизонтальной или вертикальной оси.
 
 
-# ShapeRange.Flip Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Flips the specified shape around its horizontal or vertical axis, or flips all the shapes in the specified shape range around their horizontal or vertical axes.
+ _выражение_. **Зеркальное отражение** ( **_FlipCmd_**)
 
-
-## Syntax
-
- _expression_. **Flip**( **_FlipCmd_**)
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|FlipCmd|Required| **MsoFlipCmd**| Specifies whether the shape is flipped horizontally or vertically.|
+|FlipCmd|Обязательное свойство.| **MsoFlipCmd**| Указывает, является ли фигура зеркально по горизонтали или по вертикали.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The FlipCmd parameter can be one of the following  **MsoFlipCmd** constants declared in the Microsoft Office type library.
+Параметр FlipCmd может иметь одно из следующих **MsoFlipCmd** константы, описанные в библиотеке типов, Microsoft Office.
 
 
 
-| **msoFlipHorizontal**|
-| **msoFlipVertical**|
+| **msoFlipHorizontal**|| **msoFlipVertical**|
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a triangle to the first page of the active publication, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
+В этом примере добавляет треугольник в первой страницы публикации active, дублирует треугольник Вертикальное зеркальное отражение повторяющихся треугольник и делает красным.
 
 
 ```vb

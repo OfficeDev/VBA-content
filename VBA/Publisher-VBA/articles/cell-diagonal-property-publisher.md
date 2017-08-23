@@ -1,41 +1,42 @@
 ---
-title: Cell.Diagonal Property (Publisher)
+title: "Свойство Cell.Diagonal (издатель)"
 keywords: vbapb10.chm5111816
-f1_keywords:
-- vbapb10.chm5111816
+f1_keywords: vbapb10.chm5111816
 ms.prod: publisher
-api_name:
-- Publisher.Cell.Diagonal
+api_name: Publisher.Cell.Diagonal
 ms.assetid: 4ec93690-38ef-7434-55a5-419f14c9ea73
 ms.date: 06/08/2017
+ms.openlocfilehash: d9945c4562db5e4474cb6f2910a34c5263f9c117
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="celldiagonal-property-publisher"></a>Свойство Cell.Diagonal (издатель)
+
+Задает или возвращает константу **PbCellDiagonalType** , представляющий ячейку, в которой диагонали разделение. Чтение и запись.
 
 
-# Cell.Diagonal Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
+ _выражение_. **Диагональный**
 
-
-## Syntax
-
- _expression_. **Diagonal**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbCellDiagonalType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Diagonal** property value can be one of the **[PbCellDiagonalType](pbcelldiagonaltype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+**Диагональные** значение свойства может иметь одно из **[PbCellDiagonalType](pbcelldiagonaltype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a page to the active publication, creates a table on that new page, and diagonally splits all cells in even-numbered columns.
+В этом примере добавляет страницу в активной публикации, создается таблица на новой странице и диагонали разделяет всем ячейкам в четных столбцов.
 
 
 ```vb

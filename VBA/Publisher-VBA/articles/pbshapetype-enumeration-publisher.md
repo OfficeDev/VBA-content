@@ -1,53 +1,54 @@
 ---
-title: PbShapeType Enumeration (Publisher)
+title: "Перечисление PbShapeType (издатель)"
 keywords: vbapb10.chm65541
-f1_keywords:
-- vbapb10.chm65541
+f1_keywords: vbapb10.chm65541
 ms.prod: publisher
-api_name:
-- Publisher.PbShapeType
+api_name: Publisher.PbShapeType
 ms.assetid: 6fea89c6-4105-a575-8866-9229857c9c8d
 ms.date: 06/08/2017
+ms.openlocfilehash: 90135b36fb10f98e45096870cbb2cd6712db668b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbshapetype-enumeration-publisher"></a>Перечисление PbShapeType (издатель)
 
-
-# PbShapeType Enumeration (Publisher)
-
- Represents the shape type.
+ Представляет тип фигуры.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbAutoShape**|1|AutoShape|
-| **pbCallout**|2|Callout|
-| **pbCatalogMergeArea**|111|Catalog Merge Area|
+| **pbAutoShape**|1|Автофигуры|
+| **pbCallout**|2|Выноска|
+| **pbCatalogMergeArea**|111|Область данных|
 | **pbChart**|3|Chart|
-| **pbComment**|4|Comment|
-| **pbEmbeddedOLEObject**|7|Embedded OLE Object|
-| **pbFormControl**|8|Form Control|
+| **pbComment**|4|Комментарий|
+| **pbEmbeddedOLEObject**|7|Объект Embedded OLE|
+| **pbFormControl**|8|Элемент управления формы|
 | **pbFreeform**|5|Freeform|
-| **pbGroup**|6|Group|
-| **pbGroupWizard**|108|Group Wizard|
-| **pbLine**|9|Line|
-| **pbLinkedOLEObject**|10|Linked OLE Object|
-| **pbLinkedPicture**|11|Picture|
-| **pbMedia**|16|Media|
-| **pbOLEControlObject**|12|OLE Control Object|
-| **pbPicture**|13|Picture|
-| **pbPlaceholder**|14|Placeholder|
-| **pbShapeTypeMixed**|-2|Shape Type Mixed|
-| **pbTable**|18|Table|
-| **pbTextEffect**|15|Text effect|
-| **pbTextFrame**|17|Text frame|
-| **pbWebCheckBox**|100|Web check box|
-| **pbWebCommandButton**|101|Web command button|
-| **pbWebHotSpot**|110|Web hot spot|
-| **pbWebHTMLFragment**|107|Web HTML Fragment|
-| **pbWebListBox**|102|Web list box|
-| **pbWebMultiLineTextBox**|103|Web multiLine text box|
-| **pbWebNavigationBar**|112|Web navigation bar|
-| **pbWebOptionButton**|104|Web option button|
-| **pbWebSingleLineTextBox**|105|Web single-line textbox|
-| **pbWebWebComponent**|106|Web Web component|
+| **pbGroup**|6|Группа|
+| **pbGroupWizard**|108|Мастер создания группы|
+| **pbLine**|9|Строка|
+| **pbLinkedOLEObject**|10|Объект связанный OLE|
+| **pbLinkedPicture**|11|Рисунок|
+| **pbMedia**|16|Мультимедиа|
+| **pbOLEControlObject**|12|Объект элемента управления OLE|
+| **pbPicture**|13|Рисунок|
+| **pbPlaceholder**|14|Заполнитель|
+| **pbShapeTypeMixed**|-2|Mixed фигуры: тип|
+| **pbTable**|18|Таблица|
+| **pbTextEffect**|15|Применение анимации|
+| **pbTextFrame**|17|Надписи|
+| **pbWebCheckBox**|100|Флажок Web|
+| **pbWebCommandButton**|101|Кнопки команды Web|
+| **pbWebHotSpot**|110|Web активная область|
+| **pbWebHTMLFragment**|107|Веб-HTML-фрагмента|
+| **pbWebListBox**|102|Поле со списком Web|
+| **pbWebMultiLineTextBox**|103|Web многострочного текстового поля|
+| **pbWebNavigationBar**|112|Панель навигации|
+| **pbWebOptionButton**|104|Переключатель Web|
+| **pbWebSingleLineTextBox**|105|Однострочный элемент textbox Web|
+| **pbWebWebComponent**|106|Веб-компонент Web|
 

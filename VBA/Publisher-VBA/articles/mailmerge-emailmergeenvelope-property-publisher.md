@@ -1,29 +1,30 @@
 ---
-title: MailMerge.EmailMergeEnvelope Property (Publisher)
+title: "Свойство MailMerge.EmailMergeEnvelope (издатель)"
 keywords: vbapb10.chm6225943
-f1_keywords:
-- vbapb10.chm6225943
+f1_keywords: vbapb10.chm6225943
 ms.prod: publisher
-api_name:
-- Publisher.MailMerge.EmailMergeEnvelope
+api_name: Publisher.MailMerge.EmailMergeEnvelope
 ms.assetid: 96ddcd72-c87f-9ddb-5a7f-b91be715fc79
 ms.date: 06/08/2017
+ms.openlocfilehash: ac13112e712bbce722869fdc34b2148a55da0eac
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergeemailmergeenvelope-property-publisher"></a>Свойство MailMerge.EmailMergeEnvelope (издатель)
+
+Возвращает объект **EmailMergeEnvelope** , связанный с родительским объектом **слияния** . Только для чтения.
 
 
-# MailMerge.EmailMergeEnvelope Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the  **EmailMergeEnvelope** object associated with the parent **MailMerge** object. Read-only.
+ _выражение_. **EmailMergeEnvelope**
 
-
-## Syntax
-
- _expression_. **EmailMergeEnvelope**
-
- _expression_A variable that represents a  **MailMerge** object.
+ переменная _expression_A, представляет собой объект- **слияния** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 EmailMergeEnvelope
 

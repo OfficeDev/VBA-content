@@ -1,44 +1,45 @@
 ---
-title: Document.FindShapesByTag Method (Publisher)
+title: "Метод Document.FindShapesByTag (издатель)"
 keywords: vbapb10.chm196689
-f1_keywords:
-- vbapb10.chm196689
+f1_keywords: vbapb10.chm196689
 ms.prod: publisher
-api_name:
-- Publisher.Document.FindShapesByTag
+api_name: Publisher.Document.FindShapesByTag
 ms.assetid: 405a0f39-5892-23da-904a-5188a4340b00
 ms.date: 06/08/2017
+ms.openlocfilehash: 0b4ea229a08d6d063fadd018fdca05073d02dc65
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentfindshapesbytag-method-publisher"></a>Метод Document.FindShapesByTag (издатель)
+
+Возвращает объект **[ShapeRange](shaperange-object-publisher.md)** , представляющий фигур с помощью указанного тега.
 
 
-# Document.FindShapesByTag Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represents the shapes with the specified tag.
+ _выражение_. **FindShapesByTag** ( **_TagName_**)
 
-
-## Syntax
-
- _expression_. **FindShapesByTag**( **_TagName_**)
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|TagName|Required| **String**|The name of the tag.|
+|TagName|Обязательное свойство.| **String**|Имя тега.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ShapeRange
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds two shapes to the first page of the active publication, assigns each a tag, and then enters the name of each tag into the text frame of its assigned shape.
+В этом примере добавляет две фигуры в первой страницы публикации, active, назначает каждого тега и затем вводит имя каждого тега в рамку ее назначенный фигуры.
 
 
 ```vb

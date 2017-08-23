@@ -1,31 +1,32 @@
 ---
-title: MailMerge.Application Property (Publisher)
+title: "Свойство MailMerge.Application (издатель)"
 keywords: vbapb10.chm6225921
-f1_keywords:
-- vbapb10.chm6225921
+f1_keywords: vbapb10.chm6225921
 ms.prod: publisher
-api_name:
-- Publisher.MailMerge.Application
+api_name: Publisher.MailMerge.Application
 ms.assetid: 44a89300-ff8a-ccc6-5646-6ef7e4cb8138
 ms.date: 06/08/2017
+ms.openlocfilehash: 4682f8286a4541e1f99f63f02cee0790bd5be55b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergeapplication-property-publisher"></a>Свойство MailMerge.Application (издатель)
+
+При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-# MailMerge.Application Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+ _выражение_. **Приложения**
 
-
-## Syntax
-
- _expression_. **Application**
-
- _expression_A variable that represents a  **MailMerge** object.
+ переменная _expression_A, представляет собой объект- **слияния** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the version and build information for Publisher.
+В этом примере отображаются сведения о версии и построения для Publisher.
 
 
 ```vb
@@ -35,7 +36,7 @@ With Application
 End With
 ```
 
-This example displays the name of the application that created each linked OLE object on page one of the active publication.
+В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
 
 
 

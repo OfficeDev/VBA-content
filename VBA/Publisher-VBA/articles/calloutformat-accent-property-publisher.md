@@ -1,50 +1,51 @@
 ---
-title: CalloutFormat.Accent Property (Publisher)
+title: "Свойство CalloutFormat.Accent (издатель)"
 keywords: vbapb10.chm2490624
-f1_keywords:
-- vbapb10.chm2490624
+f1_keywords: vbapb10.chm2490624
 ms.prod: publisher
-api_name:
-- Publisher.CalloutFormat.Accent
+api_name: Publisher.CalloutFormat.Accent
 ms.assetid: 8e31544c-79ed-3882-98d1-42fc88f58115
 ms.date: 06/08/2017
+ms.openlocfilehash: d310973a1bbf767ec864335482e255602d131ab8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="calloutformataccent-property-publisher"></a>Свойство CalloutFormat.Accent (издатель)
+
+Возвращает или задает константой **MsoTriState**, указывающее, является ли вертикальная черта разделяет выноски текста из строки выноски. Чтение и запись.
 
 
-# CalloutFormat.Accent Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState**constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
+ _выражение_. **Диакритических знаков**
 
-
-## Syntax
-
- _expression_. **Accent**
-
- _expression_A variable that represents a  **CalloutFormat** object.
+ переменная _expression_A, представляет собой объект- **CalloutFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Accent** property value can be one of these **MsoTriState** constants.
+Значение свойства **Акцент** может иметь одно из следующих констант **MsoTriState** .
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoCTrue**|Not used with this property.|
-| **msoFalse**|A vertical accent bar does not separate the callout text from the callout line.|
-| **msoTriStateMixed**|Return value only; indicates a combination of  **msoTrue** and **msoFalse** in the specified shape range.|
-| **msoTriStateToggle**|Set value only; switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|A vertical accent bar separates the callout text from the callout line.|
+| **msoCTrue**|Не используется с этим свойством.|
+| **msoFalse**|Вертикальная черта отделяйте выноски текст из строки выноски.|
+| **msoTriStateMixed**|Возвращаемое значение. Указывает сочетание **msoTrue** и **msoFalse** в диапазоне указанные форму.|
+| **msoTriStateToggle**|Заданное значение. Переключение между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Вертикальная черта разделяет текст выноски линии выноски.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an oval to the active publication and a callout that points to the oval. The callout text will not have a border, but it will have a vertical accent bar that separates the text from the callout line.
+В этом примере добавляется овала active публикации и выноски, указывающий на овал. Текст выноски не будут иметь границы, но он будет иметь вертикальная черта, отделяющий текст из строки выноски.
 
 
 ```vb

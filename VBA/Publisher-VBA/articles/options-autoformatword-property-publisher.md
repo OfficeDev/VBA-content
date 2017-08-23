@@ -1,41 +1,42 @@
 ---
-title: Options.AutoFormatWord Property (Publisher)
+title: "Свойство Options.AutoFormatWord (издатель)"
 keywords: vbapb10.chm1048579
-f1_keywords:
-- vbapb10.chm1048579
+f1_keywords: vbapb10.chm1048579
 ms.prod: publisher
-api_name:
-- Publisher.Options.AutoFormatWord
+api_name: Publisher.Options.AutoFormatWord
 ms.assetid: b0466bd7-f0a1-44a8-480f-5d046e24e759
 ms.date: 06/08/2017
+ms.openlocfilehash: f716ee1656616f1c31d3a39a302d2b8a413d39de
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsautoformatword-property-publisher"></a>Свойство Options.AutoFormatWord (издатель)
+
+ **Значение true** для Microsoft Publisher автоматически форматирование целого слова в позиции курсора даже в том случае, если текст не выделен. Чтение и запись **типа Boolean**.
 
 
-# Options.AutoFormatWord Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** for Microsoft Publisher to automatically format the entire word at the cursor position, even when no text is selected. Read/write **Boolean**.
+ _выражение_. **AutoFormatWord**
 
-
-## Syntax
-
- _expression_. **AutoFormatWord**
-
- _expression_A variable that represents an  **Options** object.
+ переменная _expression_A, представляющий объект **параметров** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-If only one or two characters in a word are selected, only the selected characters are affected by a formatting change, not the whole word.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example sets global options for Microsoft Publisher, including enabling automatic formatting of the entire word.
+Если выбраны один или два символов в word, только только выбранные символы, влияют необходимые изменения, слово целиком.
+
+
+## <a name="example"></a>Пример
+
+В этом примере задается глобальных параметров для Microsoft Publisher, в том числе включения автоматического форматирования слово целиком.
 
 
 ```vb

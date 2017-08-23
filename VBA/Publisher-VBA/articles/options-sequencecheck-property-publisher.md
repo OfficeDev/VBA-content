@@ -1,36 +1,37 @@
 ---
-title: Options.SequenceCheck Property (Publisher)
+title: "Свойство Options.SequenceCheck (издатель)"
 keywords: vbapb10.chm1048625
-f1_keywords:
-- vbapb10.chm1048625
+f1_keywords: vbapb10.chm1048625
 ms.prod: publisher
-api_name:
-- Publisher.Options.SequenceCheck
+api_name: Publisher.Options.SequenceCheck
 ms.assetid: a2801af8-5c89-9256-80a6-d9dac17b6066
 ms.date: 06/08/2017
+ms.openlocfilehash: 376f3b3bb18827f1b2a18da35cbac2beb6d51cd0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionssequencecheck-property-publisher"></a>Свойство Options.SequenceCheck (издатель)
+
+ **Значение true,** для проверки последовательности independent символов на восточноазиатских языках. Чтение и запись **типа Boolean**.
 
 
-# Options.SequenceCheck Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to check the sequence of independent characters for Asian text. Read/write **Boolean**.
+ _выражение_. **SequenceCheck**
 
-
-## Syntax
-
- _expression_. **SequenceCheck**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example enables sequence checking, allowing the user to input a valid sequence of independent characters to form valid character cells in South Asian text.
+В этом примере включается проверка последовательности, позволяя у пользователя ввод допустимую последовательность независимой знаков недействительный символ ячеек в южно-азиатских текста.
 
 
 ```vb

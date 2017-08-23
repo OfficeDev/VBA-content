@@ -1,47 +1,48 @@
 ---
-title: Application.MailMergeDataSourceValidate Event (Publisher)
+title: "Событие Application.MailMergeDataSourceValidate (издатель)"
 keywords: vbapb10.chm268435480
-f1_keywords:
-- vbapb10.chm268435480
+f1_keywords: vbapb10.chm268435480
 ms.prod: publisher
-api_name:
-- Publisher.Application.MailMergeDataSourceValidate
+api_name: Publisher.Application.MailMergeDataSourceValidate
 ms.assetid: 8e18b0a0-8fe8-f72e-8a75-1585367cc796
 ms.date: 06/08/2017
+ms.openlocfilehash: a31b68277639cfbe63fbb36056864fdc2c12e8ac
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationmailmergedatasourcevalidate-event-publisher"></a>Событие Application.MailMergeDataSourceValidate (издатель)
+
+Происходит, когда пользователь выполняет проверку адреса, нажав кнопку **Проверить** в диалоговом окне **Получатели слияния** .
 
 
-# Application.MailMergeDataSourceValidate Event (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Occurs when a user performs address verification by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
+ _выражение_. **MailMergeDataSourceValidate** ( **_Doc_**, **_обрабатывается_**)
 
-
-## Syntax
-
- _expression_. **MailMergeDataSourceValidate**( **_Doc_**,  **_Handled_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Doc|Required| **Document**|The mail merge main document.|
-|Handled|Required| **Boolean**| **True** runs the accompanying validation code against the mail merge data source. **False** cancels the data source validation.|
+|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
+|Обработано|Обязательное свойство.| **Boolean**| **Значение true,** выполняется сопутствующий код проверки источника данных для слияния. **False** отменяет проверку источника данных.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If you do not have address verification software installed on your computer, use the  **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the code sample below and using Microsoft Visual Basic commands to search for text or special characters.
+Если у вас на компьютере программное обеспечение для проверки адреса, использование **событием MailMergeDataSourceValidate, чтобы создать простое** фильтрации процедур, таких как циклический перебор записей для проверки почтового индекса и удалить все, что пользователи не - США не в США можно отфильтровать все почтовые индексы США путем изменения в образце кода и с помощью Microsoft Visual Basic команды для поиска текста или специальные символы.
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a four-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
+В этом примере выполняется проверка индексы в источник данных для пяти цифр. Если длина ПОЧТОВЫЙ индекс составляет менее пяти цифр, записи исключается из процесс слияния почты. В этом примере предполагается, что почтовые индексы являются ПОЧТОВЫЕ индексы США. Можно изменить в этом примере для поиска индексы, содержащие код локатор из четырех цифр, добавляется в конец ПОЧТОВЫЙ индекс и затем исключить все записи, не содержащих кода локатор.
 
 
 ```vb
@@ -92,7 +93,7 @@ Private Sub MailMergeApp_MailMergeDataSourceValidate( _
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the General Declarations section of your module and run the following initialization routine.
+Чтобы произошло это событие необходимо поместить следующую строку кода в разделе Общие описаний модуля и выполнить следующую процедуру инициализации.
 
 
 
@@ -106,11 +107,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

@@ -1,41 +1,43 @@
 ---
-title: LineFormat.GradientAngle Property (Publisher)
+title: "Свойство LineFormat.GradientAngle (издатель)"
 keywords: vbapb10.chm3408149
-f1_keywords:
-- vbapb10.chm3408149
+f1_keywords: vbapb10.chm3408149
 ms.prod: publisher
 ms.assetid: 84457dce-f81e-6037-0496-899e376977da
 ms.date: 06/08/2017
+ms.openlocfilehash: e52f712f20e056dc527185dbfc736efd1d9a9e74
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatgradientangle-property-publisher"></a>Свойство LineFormat.GradientAngle (издатель)
+
+Возвращает или задает угол градиентной заливки для заливки указанного формата. Чтение и запись.
 
 
-# LineFormat.GradientAngle Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
+ _выражение_. **GradientAngle**
 
-
-## Syntax
-
- _expression_. **GradientAngle**
-
- _expression_A variable that represents a  **LineFormat** object.
+ переменная _expression_A, представляет собой объект- **LineFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
- **Single**
-
-
-## Remarks
-
-A gradient fill can be specified in the formatting for various elements. The valid range of values for the  **GradientAngle** property is from 0 to 359.9.
+ **Один**
 
 
-## See also
+## <a name="remarks"></a>Заметки
+
+Градиентную заливку можно указать форматирование для различных элементов. Диапазон допустимых значений для свойства **GradientAngle** — от 0 359.9.
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [LineFormat Object](lineformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект LineFormat](lineformat-object-publisher.md)
 

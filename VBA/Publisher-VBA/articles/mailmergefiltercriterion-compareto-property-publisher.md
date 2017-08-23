@@ -1,36 +1,37 @@
 ---
-title: MailMergeFilterCriterion.CompareTo Property (Publisher)
+title: "Свойство MailMergeFilterCriterion.CompareTo (издатель)"
 keywords: vbapb10.chm6815749
-f1_keywords:
-- vbapb10.chm6815749
+f1_keywords: vbapb10.chm6815749
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeFilterCriterion.CompareTo
+api_name: Publisher.MailMergeFilterCriterion.CompareTo
 ms.assetid: 6e81fa38-a5d7-8421-6722-a18c5e9a8229
 ms.date: 06/08/2017
+ms.openlocfilehash: 984f53efccef550a1ba08547c1a2ec87c8a18197
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergefiltercriterioncompareto-property-publisher"></a>Свойство MailMergeFilterCriterion.CompareTo (издатель)
+
+Возвращает или задает **строку** , представляющую текст для сравнения в критерий фильтра запроса. Чтение и запись.
 
 
-# MailMergeFilterCriterion.CompareTo Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the text to compare in the query filter criterion. Read/write.
+ _выражение_. **CompareTo**
 
-
-## Syntax
-
- _expression_. **CompareTo**
-
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ переменная _expression_A, представляет собой объект- **MailMergeFilterCriterion** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA". This example assumes that a mail merge data source is attached to the active publication.
+В следующем примере изменяется существующий фильтр для удаления из слияния почты все записи, у которых нет поля региона, равное «WA». В этом примере предполагается, что источник данных слияния почты подключенный к активной публикации.
 
 
 ```vb

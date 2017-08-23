@@ -1,39 +1,40 @@
 ---
-title: ParagraphFormat.StartInNextTextBox Property (Publisher)
+title: "Свойство ParagraphFormat.StartInNextTextBox (издатель)"
 keywords: vbapb10.chm5439539
-f1_keywords:
-- vbapb10.chm5439539
+f1_keywords: vbapb10.chm5439539
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.StartInNextTextBox
+api_name: Publisher.ParagraphFormat.StartInNextTextBox
 ms.assetid: 96b34fa8-04ef-e472-16f0-15f82e7912ba
 ms.date: 06/08/2017
+ms.openlocfilehash: 34130a0d081cdf822da9e41736ce8e4dcb3673ba
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatstartinnexttextbox-property-publisher"></a>Свойство ParagraphFormat.StartInNextTextBox (издатель)
+
+Возвращает или задает константой **MsoTriState** , представляющий необходимость всегда запускать выделенного абзаца в следующей связанной надписи. Чтение и запись.
 
 
-# ParagraphFormat.StartInNextTextBox Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant that represents whether to always start the selected paragraph in the next linked text box. Read/write.
+ _выражение_. **StartInNextTextBox**
 
-
-## Syntax
-
- _expression_. **StartInNextTextBox**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **StartInNextTextBox** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **StartInNextTextBox** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
-If text is added to the previous text box, causing text to overflow into the text box containing the specified text, the specified text (and any text following it) is moved to the top of the next available text box. If no linked text box is available, the specified text (and any text following it) is placed into the text overflow buffer. It will remain in the buffer until either another linked text box is added to the publication, or the  **StartInNextTextBox** property is changed.
+Если текст добавляется в предыдущем текстовое поле, что приводит к переполнению в текстовое поле, содержащий указанный текст, указанный текст (и любой текст, следующий его) перемещаются в верхней части следующего доступные текстовое поле. Если нет связанного текстового поля, указанный текст (и любой текст, следующий его) помещаются в буфер переполнение текста. Она останется в буфере до другого связанного текстового поля добавляется к публикации или изменении свойства **StartInNextTextBox** .
 
-This property corresponds to the  **Start in next text box** control in the **Paragraph** dialog box.
+Это свойство соответствует управления **Пуск в следующем текстовом поле** в диалоговом окне **Абзац** .
 
 

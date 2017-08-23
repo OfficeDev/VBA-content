@@ -1,47 +1,48 @@
 ---
-title: AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+title: "Свойство AdvancedPrintOptions.PrintJobInformation (издатель)"
 keywords: vbapb10.chm7077897
-f1_keywords:
-- vbapb10.chm7077897
+f1_keywords: vbapb10.chm7077897
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.PrintJobInformation
+api_name: Publisher.AdvancedPrintOptions.PrintJobInformation
 ms.assetid: c4494804-6dfa-8647-a72d-591f90624c1c
 ms.date: 06/08/2017
+ms.openlocfilehash: 855ff02c2bbe8e465e3254c944f90936bd89fe00
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsprintjobinformation-property-publisher"></a>Свойство AdvancedPrintOptions.PrintJobInformation (издатель)
+
+ **Значение true** для печати сведений о задании печати на каждой форме. По умолчанию используется **значение True**. Чтение и запись **типа Boolean**.
 
 
-# AdvancedPrintOptions.PrintJobInformation Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to print information about the print job on each plate. The default is **True**. Read/write  **Boolean**.
+ _выражение_. **PrintJobInformation**
 
-
-## Syntax
-
- _expression_. **PrintJobInformation**
-
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-The  **PrintJobInformation** property can be set regardless of the print mode selected for the publication. However, it is ignored (and no job information is printed) when the print mode is set as composite RGB.
-
-Job information includes the file name of the printed publication, the date it was printed, the page number, and which color ink the plate is for (cyan, magenta, yellow, black, or a spot color).
-
-This property corresponds to the  **Job information** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
-
-These printer's marks print outside the publication and can be printed only if the size of the paper being printed to is larger than the publication page size.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets crop marks and job information to print with the publication. If the publication is printed as separations, the additional types of printer's marks are also set to print. This example assumes that the size of the paper being printed to is larger than the publication page size.
+Свойство **PrintJobInformation** можно задать независимо от того, режим, выбранные для публикации. Тем не менее, он будет проигнорирован (и печать не сведения о задании) при печати используется режим как совмещенных RGB.
+
+Сведения о задании включает в себя имя файла распечатанных публикации, дату распечатки, номер страницы и цветовой рукописного ввода форму для (голубой, пурпурный, желтый, черный или плашечный цвет).
+
+Это свойство соответствует элементу управления **сведения о задании** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+
+Эти метки печати за пределами публикации и может быть при выводе на печать только в том случае, если размер бумаги, печать для превышает размер страницы публикации.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается меток обрезки и сведения о задании для печати с публикацией. При печати публикации цветоделение дополнительные типы типографские метки также необходимо задать для печати. В этом примере предполагается, что размер бумаги, печать для больше, чем размер страницы публикации.
 
 
 ```vb
@@ -59,11 +60,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

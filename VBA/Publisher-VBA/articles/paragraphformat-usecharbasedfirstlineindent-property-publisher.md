@@ -1,45 +1,46 @@
 ---
-title: ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+title: "Свойство ParagraphFormat.UseCharBasedFirstLineIndent (издатель)"
 keywords: vbapb10.chm5439529
-f1_keywords:
-- vbapb10.chm5439529
+f1_keywords: vbapb10.chm5439529
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.UseCharBasedFirstLineIndent
+api_name: Publisher.ParagraphFormat.UseCharBasedFirstLineIndent
 ms.assetid: c2ac44ab-6671-5851-ac62-7449fd646cc5
 ms.date: 06/08/2017
+ms.openlocfilehash: 5d7f0cc808a9e591d4c2de2d828e0249f50c9937
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatusecharbasedfirstlineindent-property-publisher"></a>Свойство ParagraphFormat.UseCharBasedFirstLineIndent (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, является ли абзац с отступом с помощью ширину восточно-азиатских символов. Чтение и запись.
 
 
-# ParagraphFormat.UseCharBasedFirstLineIndent Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant that specifies whether a paragraph is indented using East Asian character width. Read/write.
+ _выражение_. **UseCharBasedFirstLineIndent**
 
-
-## Syntax
-
- _expression_. **UseCharBasedFirstLineIndent**
-
- _expression_A variable that represents an  **ParagraphFormat** object.
+ переменная _expression_A, представляющий объект **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **UseCharBasedFirstLineIndent** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **UseCharBasedFirstLineIndent** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
-The value of  **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer, whereas the value can be returned regardless of whether East Asian languages are enabled. Note that **UseCharBasedFirstLineIndent** must be set before the **[CharBasedFirstLineIndent](paragraphformat-charbasedfirstlineindent-property-publisher.md)** property can be returned or set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first.
+Значение **UseCharBasedFirstLineIndent** можно задать только в том случае, если на клиентском компьютере включены восточно-азиатских языков, а значение может быть возвращено независимо от того, включен ли восточно-азиатских языков. Обратите внимание, что перед **[CharBasedFirstLineIndent](paragraphformat-charbasedfirstlineindent-property-publisher.md)** свойство должно быть задано **UseCharBasedFirstLineIndent** можно возвращаются или задаются. Если **UseCharBasedFirstLineIndent** установлено сначала возвращается ошибку времени выполнения «отказано в разрешении».
 
-If  **UseCharBasedFirstLineIndent** is **msoTrue**, the paragraph is indented using East Asian character width, and if it is  **msoFalse** it is not. The default value is **msoFalse**.
+Если **UseCharBasedFirstLineIndent** **msoTrue**, абзац с отступом с помощью ширину знаков восточно-азиатских языков, и если это **msoFalse** не. Значение по умолчанию — **msoFalse**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example creates a text box on the fourth page of the active publication. After the  **UseCharBasedFirstLineIndent** property is set to **True**, the width of the first line indent is set to 15 points by using the  **CharBasedFirstLineIndent** property. Font properties are then set, and text is inserted into the paragraph.
+В следующем примере создается текстовое поле на странице четвертый active публикации. После **UseCharBasedFirstLineIndent** задано значение **True**, ширина отступ первой строки задано 15 точек с помощью свойства **CharBasedFirstLineIndent** . Задайте свойства шрифта и вставки текста в абзац.
 
 
 ```vb

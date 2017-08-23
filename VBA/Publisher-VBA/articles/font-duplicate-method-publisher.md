@@ -1,36 +1,37 @@
 ---
-title: Font.Duplicate Method (Publisher)
+title: "Метод Font.Duplicate (издатель)"
 keywords: vbapb10.chm5373992
-f1_keywords:
-- vbapb10.chm5373992
+f1_keywords: vbapb10.chm5373992
 ms.prod: publisher
-api_name:
-- Publisher.Font.Duplicate
+api_name: Publisher.Font.Duplicate
 ms.assetid: 26ae64bc-036e-5c19-cbac-99f11da7fb60
 ms.date: 06/08/2017
+ms.openlocfilehash: 72b996b8de044d19a51d325153c2356624f205b7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontduplicate-method-publisher"></a>Метод Font.Duplicate (издатель)
+
+Создает копию на указанный объект **[шрифта](font-object-publisher.md)** и возвращает новый объект **Font** .
 
 
-# Font.Duplicate Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Creates a duplicate of the specified  **[Font](font-object-publisher.md)** object and then returns the new **Font** object.
+ _выражение_. **Дублирующиеся**
 
-
-## Syntax
-
- _expression_. **Duplicate**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Font
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example duplicates the character formatting information from the text range in shape one on page one of the active publication and applies it to the text range in shape two.
+В следующем примере дублирует форматирование информации из диапазона текст в фигуре одно на странице символов, один из активных публикации и применяется к диапазон текста в форме двух.
 
 
 ```vb

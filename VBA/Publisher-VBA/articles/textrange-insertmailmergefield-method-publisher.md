@@ -1,49 +1,50 @@
 ---
-title: TextRange.InsertMailMergeField Method (Publisher)
+title: "Метод TextRange.InsertMailMergeField (издатель)"
 keywords: vbapb10.chm5308483
-f1_keywords:
-- vbapb10.chm5308483
+f1_keywords: vbapb10.chm5308483
 ms.prod: publisher
-api_name:
-- Publisher.TextRange.InsertMailMergeField
+api_name: Publisher.TextRange.InsertMailMergeField
 ms.assetid: 97bce07d-b831-3ad6-2436-f85590c3bcd8
 ms.date: 06/08/2017
+ms.openlocfilehash: 2820d136c0b38bed551d4cd425ec6fc91a589549
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textrangeinsertmailmergefield-method-publisher"></a>Метод TextRange.InsertMailMergeField (издатель)
+
+Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий текстового поля данных для слияния почты и объединение в каталог.
 
 
-# TextRange.InsertMailMergeField Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a text data field for a mail merge or catalog merge.
+ _выражение_. **InsertMailMergeField** ( **_varIndex_**)
 
-
-## Syntax
-
- _expression_. **InsertMailMergeField**( **_varIndex_**)
-
- _expression_A variable that represents a  **TextRange** object.
+ переменная _expression_A, представляющий объект **TextRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|varIndex|Required| **Variant**|The name or index of the data field in the datasource.|
+|varIndex|Обязательное свойство.| **Variant**|Имя или индекс поля данных в источнике данных.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 TextRange
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For a publication's catalog merge area to contain text data fields, it must first contain at least one text box to contain the text data fields. 
+Для публикации области объединения в каталог для хранения данных текстовых полей он должен содержать по крайней мере один текстовое поле для хранения данных текстовых полей. 
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example inserts a  **LastName** field at the cursor position. This example assumes that the active publication is a mail merge publication and that the cursor position is somewhere inside a text box.
+В этом примере Вставка поля **LastName** в позиции курсора. В этом примере предполагается, что активная публикация является публикацией слияния почты и где-нибудь является позиции курсора в текстовом поле.
 
 
 ```vb
@@ -52,7 +53,7 @@ Sub InsertMergeField()
 End Sub
 ```
 
-This example adds a text box to the specified publication's catalog merge area, and then inserts a text data field into the text box. This example assumes that the specified publication is connected to a data source, and that it contains a catalog merge area.
+В этом примере добавляется текстовое поле область указанной публикации и вставляет текстового поля данных в текстовом поле. В этом примере предполагается, что указанной публикации подключен к источнику данных, и что он содержит области объединения в каталог.
 
 
 

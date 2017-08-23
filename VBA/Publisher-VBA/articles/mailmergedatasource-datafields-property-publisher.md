@@ -1,36 +1,37 @@
 ---
-title: MailMergeDataSource.DataFields Property (Publisher)
+title: "Свойство MailMergeDataSource.DataFields (издатель)"
 keywords: vbapb10.chm6291461
-f1_keywords:
-- vbapb10.chm6291461
+f1_keywords: vbapb10.chm6291461
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.DataFields
+api_name: Publisher.MailMergeDataSource.DataFields
 ms.assetid: 820af882-d54c-a205-2925-e7110fc0c02b
 ms.date: 06/08/2017
+ms.openlocfilehash: c67cb066a0c44af0878748a2434eae740bb99df5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcedatafields-property-publisher"></a>Свойство MailMergeDataSource.DataFields (издатель)
+
+Возвращает коллекцию **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** , который представляет поля в указанном источнике данных.
 
 
-# MailMergeDataSource.DataFields Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection that represents the fields in the specified data source.
+ _выражение_. **DataFields**
 
-
-## Syntax
-
- _expression_. **DataFields**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MailMergeDataFields
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the value of the value of the FirstName and LastName fields from the active record in the data source attached to the active publication.
+В этом примере отображает значение поля FirstName и LastName из активной записи в источнике данных, подключенного к active публикации.
 
 
 ```vb

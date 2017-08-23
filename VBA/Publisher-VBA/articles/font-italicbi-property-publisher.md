@@ -1,49 +1,50 @@
 ---
-title: Font.ItalicBi Property (Publisher)
+title: "Свойство Font.ItalicBi (издатель)"
 keywords: vbapb10.chm5373969
-f1_keywords:
-- vbapb10.chm5373969
+f1_keywords: vbapb10.chm5373969
 ms.prod: publisher
-api_name:
-- Publisher.Font.ItalicBi
+api_name: Publisher.Font.ItalicBi
 ms.assetid: 604e776c-92b0-6e5b-2599-ab879c61a78a
 ms.date: 06/08/2017
+ms.openlocfilehash: afc1f35e4ab4ce8199391721e9698cbb384d7f47
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontitalicbi-property-publisher"></a>Свойство Font.ItalicBi (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, указанный текст в формате italic; применяется для текста справа налево языке. Чтение и запись.
 
 
-# Font.ItalicBi Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic; applies to text in a right-to-left language. Read/write.
+ _выражение_. **ItalicBi**
 
-
-## Syntax
-
- _expression_. **ItalicBi**
-
- _expression_A variable that represents an  **Font** object.
+ переменная _expression_A, представляющий объект **шрифта** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **ItalicBi** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **ItalicBi** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| None of the characters in the range are formatted as italic.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All of the characters in the range are formatted as italic.|
+| **msoFalse**| Ни один из символов в диапазоне форматируются как курсив.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Все символы в диапазоне форматируются как курсив.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the text in the first story and displays one of two possible text boxes, depending on whether the text is right-to-left formatted and whether its font is formatted as italic.
+В этом примере проверяется текст в первый сценариев и отображается одно из двух возможных текстовых полей, в зависимости от того, является ли текста справа налево отформатированные и ли шрифт представлен в формате курсив.
 
 
 ```vb

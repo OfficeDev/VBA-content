@@ -1,37 +1,39 @@
 ---
-title: SoftEdgeFormat.Type Property (Publisher)
+title: "Свойство SoftEdgeFormat.Type (издатель)"
 keywords: vbapb10.chm9568257
-f1_keywords:
-- vbapb10.chm9568257
+f1_keywords: vbapb10.chm9568257
 ms.prod: publisher
 ms.assetid: e4bd7a4b-17a5-b0c2-7fd8-34025651c19d
 ms.date: 06/08/2017
+ms.openlocfilehash: c3d38b0ae555a43d3c1221bb838e55ccdc61f1a2
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="softedgeformattype-property-publisher"></a>Свойство SoftEdgeFormat.Type (издатель)
+
+Возвращает или задает **единого** , представляющий длину radius для использования программных эффекта пограничного сервера. Чтение и запись.
 
 
-# SoftEdgeFormat.Type Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
+ _выражение_. **Тип**
 
-
-## Syntax
-
- _expression_. **Type**
-
- _expression_A variable that represents a  **SoftEdgeFormat** object.
+ переменная _expression_A, представляет собой объект- **SoftEdgeFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **MSOSOFTEDGETYPE**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Other resources
+#### <a name="other-resources"></a>Другие ресурсы
 
 
- [SoftEdgeFormat Object](softedgeformat-object-publisher.md)
+ [Объект SoftEdgeFormat](softedgeformat-object-publisher.md)
  
 

@@ -1,31 +1,32 @@
 ---
-title: CellRange.Row Property (Publisher)
+title: "Свойство CellRange.Row (издатель)"
 keywords: vbapb10.chm5177350
-f1_keywords:
-- vbapb10.chm5177350
+f1_keywords: vbapb10.chm5177350
 ms.prod: publisher
-api_name:
-- Publisher.CellRange.Row
+api_name: Publisher.CellRange.Row
 ms.assetid: ac5bccf0-6c9b-ce0e-20e5-f06ef29886c6
 ms.date: 06/08/2017
+ms.openlocfilehash: 3bc1a6e683e2e30db9983710983113ed0bb53580
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellrangerow-property-publisher"></a>Свойство CellRange.Row (издатель)
+
+Возвращает значение типа **Long** , представляющее номер строки, содержащей указанную ячейку. Только для чтения.
 
 
-# CellRange.Row Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the row number containing the specified cell. Read-only.
+ _выражение_. **Строка**
 
-
-## Syntax
-
- _expression_. **Row**
-
- _expression_A variable that represents a  **CellRange** object.
+ переменная _expression_A, представляет собой объект- **CellRange** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example enters the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
+В этом примере вводит заливки для всех четных строк и очищает заливки для всех нечетных строк в указанной таблице. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
 
 
 ```vb

@@ -1,48 +1,49 @@
 ---
-title: Pages.AddWizardPage Method (Publisher)
+title: "Метод Pages.AddWizardPage (издатель)"
 keywords: vbapb10.chm458758
-f1_keywords:
-- vbapb10.chm458758
+f1_keywords: vbapb10.chm458758
 ms.prod: publisher
-api_name:
-- Publisher.Pages.AddWizardPage
+api_name: Publisher.Pages.AddWizardPage
 ms.assetid: c56db218-d0f4-4f13-dfde-6198dc63cc81
 ms.date: 06/08/2017
+ms.openlocfilehash: 207e1fe8f1e5fb2281dbb288b6766168228bb7c9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagesaddwizardpage-method-publisher"></a>Метод Pages.AddWizardPage (издатель)
+
+Добавляет указанный новая страница мастера в указанное расположение в публикации.
 
 
-# Pages.AddWizardPage Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds the specified new wizard page to a specified location in a publication.
+ _выражение_. **AddWizardPage** ( **_После_**, **_PageType_**, **_AddHyperlinkToWebNavBar_**)
 
-
-## Syntax
-
- _expression_. **AddWizardPage**( **_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
-
- _expression_A variable that represents a  **Pages** object.
+ переменная _expression_A, представляет собой объект- **страниц** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|After|Required| **Long**|The page after which to place the new wizard page.|
-|PageType|Optional| **PbWizardPageType**|The type of wizard page to add.|
-|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether a link to the new page will be added to the automatic navigation bars of existing pages. Default is  **False**, which means that if this argument is omitted, links to this page will not be added to the automatic navigation bars of existing pages.|
+|После|Обязательное свойство.| **Длинный**|Страница, после которого следует поместить новую страницу мастера.|
+|PageType|Необязательный| **PbWizardPageType**|Тип страницы мастера, чтобы добавить.|
+|AddHyperlinkToWebNavBar|Необязательный| **Boolean**|Указывает, добавляются ли ссылка на новую страницу на панели автоматического навигации существующих страниц. Значение по умолчанию — **False**, что означает, что если этот аргумент задан, ссылки на этой странице не добавляются на панели автоматического навигации существующих страниц.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You can add wizard pages only to similar wizard publications. For example, you can add a Catalog Calendar Wizard page to a catalog but not to a newsletter. An error occurs if you try to add a wizard page to a different type of publication.
+Страницах мастера можно добавить только на аналогичную мастера публикации. К примеру можно добавить страница мастера календаря каталога в каталоге, но не на информационный бюллетень. При добавлении на страницу мастера в другой тип публикации, возникает ошибка.
 
-The PageType parameter can be one of the  **[PbWizardPageType](pbwizardpagetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Параметр PageType может иметь одно из **[PbWizardPageType](pbwizardpagetype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new catalog publication, adds the wizard calendar page after the first page of the catalog, and adds the page as a link to each Web navigation bar set of the publication.
+В этом примере создается новая публикация каталога, добавляет страница мастера календаря после первой страницы каталога и добавляет страницы как ссылку к каждому набору панель навигации Web публикации.
 
 
 ```vb
@@ -59,7 +60,7 @@ Sub AddNewWizardPage()
 End Sub
 ```
 
-This example verifies that the active document is a catalog and, if it is, adds a catalog form after the first page but does not add the page as a link in any Web navigation bar sets.
+В этом примере выполняется проверка, что активный документ в каталоге и, если он установлен, добавляет каталога формы после первой страницы, но не добавляйте страницы как ссылку в наборах панели навигации веб.
 
 
 

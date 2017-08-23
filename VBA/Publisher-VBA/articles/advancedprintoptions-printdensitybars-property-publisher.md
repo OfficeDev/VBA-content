@@ -1,47 +1,48 @@
 ---
-title: AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+title: "Свойство AdvancedPrintOptions.PrintDensityBars (издатель)"
 keywords: vbapb10.chm7077904
-f1_keywords:
-- vbapb10.chm7077904
+f1_keywords: vbapb10.chm7077904
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.PrintDensityBars
+api_name: Publisher.AdvancedPrintOptions.PrintDensityBars
 ms.assetid: b98baed0-e2ba-bf69-78e2-d60125d7f57a
 ms.date: 06/08/2017
+ms.openlocfilehash: b6f989d1344f66d1a3ae8e75c1d6fd3bbb420d8a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsprintdensitybars-property-publisher"></a>Свойство AdvancedPrintOptions.PrintDensityBars (издатель)
+
+ **Значение true** для печати шкалы плотности для указанной публикации. По умолчанию используется **значение True**. Чтение и запись **типа Boolean**.
 
 
-# AdvancedPrintOptions.PrintDensityBars Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to print a density bar for the specified publication. The default is **True**. Read/write  **Boolean**.
+ _выражение_. **PrintDensityBars**
 
-
-## Syntax
-
- _expression_. **PrintDensityBars**
-
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-Returns "Permission Denied" if any print mode other than separations is selected for the specified publication.
-
-The density bar printed is graded from a 10 percent screen to a 100 percent fill. A commercial printer can use this bar to determine proper exposure time for plate burning, and to test dot gain in the printed pages.
-
-This property corresponds to the  **Density bars** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
-
-These printer's marks print outside the publication and can be printed only if the size of the paper being printed on is larger than the publication page size.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets crop marks and job information to print with the publication. If the publication is printed as separations, the additional types of printer's marks are also set to print. This example assumes that the size of the paper being printed to is larger than the publication page size.
+Если выбрать любой режим, отличный от цветоделение для указанной публикации возвращает «Отказано в разрешении».
+
+На панели плотность при выводе на печать выражаемым числом экране 10 процентов для заполнения 100 процентов. Профессиональной печати можно использовать эту панель для определения нужное время выдержки при записи формы, а также тестирования растровых в печатных страниц.
+
+Это свойство соответствует управления **плотности** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+
+Эти метки печати за пределами публикации и может быть при выводе на печать только в том случае, если размер бумаги, печать на превышает размер страницы публикации.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается меток обрезки и сведения о задании для печати с публикацией. При печати публикации цветоделение дополнительные типы типографские метки также необходимо задать для печати. В этом примере предполагается, что размер бумаги, печать для больше, чем размер страницы публикации.
 
 
 ```vb
@@ -59,11 +60,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

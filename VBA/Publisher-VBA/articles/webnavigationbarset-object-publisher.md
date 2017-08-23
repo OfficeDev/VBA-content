@@ -1,25 +1,26 @@
 ---
-title: WebNavigationBarSet Object (Publisher)
+title: "Объект WebNavigationBarSet (издатель)"
 keywords: vbapb10.chm8585215
-f1_keywords:
-- vbapb10.chm8585215
+f1_keywords: vbapb10.chm8585215
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSet
+api_name: Publisher.WebNavigationBarSet
 ms.assetid: 03b31cc1-5b24-1a16-710c-73755298066e
 ms.date: 06/08/2017
+ms.openlocfilehash: e5121d2ffc0a3c35201b6a80efb8458a2ddef469
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarset-object-publisher"></a>Объект WebNavigationBarSet (издатель)
 
-
-# WebNavigationBarSet Object (Publisher)
-
-Represents a Web navigation bar set for the current document. The  **WebNavigationBarSet** object is a member of the **WebNavigationBarSets** collection, which includes all of the Web navigation bar sets in the current document.
+Представляет панель навигации для текущего документа. Объект **WebNavigationBarSet** , является участником коллекцию **WebNavigationBarSets** , которая включает в себя все веб-сайта, задает панели навигации в текущем документе.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **WebNavigationBarSet**. **AddToEveryPage** (Left, Top, [Width]), where Left is the position of the left edge of the shape, Top is the position of the top edge of the shape, and Width is the width of the shape representing the Web navigation bar set, to add the specified Web navigation bar to every page of a document. The following example adds the first Web navigation bar set to every page that has the **AddHyperlinkToWebNavbar** property set to **True** when adding the page or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
+С помощью **WebNavigationBarSet**. **AddToEveryPage** (Слева, сверху, [ширина]), где слева — это положение левого края фигуры в начало — это положение верхней границы фигуры и ширина — ширину фигуры, представляющий набор панель навигации Web, для добавления указанного панель навигации на каждой странице документа. В следующем примере добавляется первого панель навигации задайте каждые страницу, которая содержит свойство **AddHyperlinkToWebNavbar** задано значение **True** , при добавлении на страницу или свойство **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** задано значение **True**.
  
 
  
@@ -30,7 +31,7 @@ Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets(1)
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
 ```
 
-Use  **WebNavigationBarSet**. **DeleteSetAndInstances** to remove the Web navigation bar set and every instance of it from the document. The following example deletes all instances of each **WebNavigationBarSet** object in the **WebNavigationBarSets** collection.
+С помощью **WebNavigationBarSet**. **DeleteSetAndInstances** для удаления Web навигационной панели набора и каждый экземпляр из документа. Следующий пример удаляет все экземпляры каждого объекта **WebNavigationBarSet** в коллекции **WebNavigationBarSets** .
  
 
  
@@ -44,7 +45,7 @@ For Each objWebNavBarSet In ActiveDocument.WebNavigationBarSets
 Next objWebNavBarSet
 ```
 
-There are three properties that concern horizontally oriented Web navigation bars. Use  **WebNavigationBarSet**. **IsHorizontal** to determine the orientation of the navigation bar set. The **ChangeOrientation** method is used to set the orientation of the Web navigation bar set. If the orientation is set to **horizontal**, **HorizontalAlignment** and **HorizontalButtonCount** properties can then be set. The following example adds the first navigation bar in the **WebNavigationBarSets** collection of the active document to each page that has the **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**, and then sets the button style to **small**. A test is performed to determine whether the navigation bar set is horizontal or not. If it is not, the **ChangeOrientation** method is called and the orientation is set to **horizontal**. After the navigation bar is oriented horizontally, the horizontal button count is set to **3** and the horizontal alignment of the buttons is set to **left**.
+Существует три свойства, касающиеся горизонтальный панелей навигации Web. С помощью **WebNavigationBarSet**. Задайте **IsHorizontal** для определения ориентации на панели навигации. Метод **ChangeOrientation** используется для установки ориентации набор панели навигации веб. Если на **горизонтальную**ориентацию, свойства **HorizontalAlignment** и **HorizontalButtonCount** можно задать. В следующем примере добавляет первой панели навигации в коллекции **WebNavigationBarSets** активного документа для каждой страницы, имеет свойство **AddHyperlinkToWebNavbar** задано значение **True** или свойство **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** задано значение **True**и затем задает стиль кнопки для **малого**. Для определения, является ли набор панель навигации горизонтальной выполняется проверка. Если он не установлен, вызывается метод **ChangeOrientation** , ориентации задано значение **Горизонтальная**. После ориентирована на панели навигации по горизонтали, count горизонтальной кнопки задано значение **3** , горизонтальное выравнивание кнопок задано значение **слева**.
  
 
  
@@ -65,7 +66,7 @@ End With
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -75,21 +76,21 @@ End With
 |[ChangeOrientation](webnavigationbarset-changeorientation-method-publisher.md)|
 |[DeleteSetAndInstances](webnavigationbarset-deletesetandinstances-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](webnavigationbarset-application-property-publisher.md)|
-|[AutoUpdate](webnavigationbarset-autoupdate-property-publisher.md)|
+|[Приложения](webnavigationbarset-application-property-publisher.md)|
+|[Автоматическое обновление](webnavigationbarset-autoupdate-property-publisher.md)|
 |[ButtonStyle](webnavigationbarset-buttonstyle-property-publisher.md)|
-|[Design](webnavigationbarset-design-property-publisher.md)|
+|[Разработка](webnavigationbarset-design-property-publisher.md)|
 |[HorizontalAlignment](webnavigationbarset-horizontalalignment-property-publisher.md)|
 |[HorizontalButtonCount](webnavigationbarset-horizontalbuttoncount-property-publisher.md)|
 |[IsHorizontal](webnavigationbarset-ishorizontal-property-publisher.md)|
-|[Links](webnavigationbarset-links-property-publisher.md)|
+|[Ссылки](webnavigationbarset-links-property-publisher.md)|
 |[Name](webnavigationbarset-name-property-publisher.md)|
-|[Parent](webnavigationbarset-parent-property-publisher.md)|
+|[Родительский раздел](webnavigationbarset-parent-property-publisher.md)|
 |[ShowSelected](webnavigationbarset-showselected-property-publisher.md)|
 

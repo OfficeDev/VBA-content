@@ -1,43 +1,44 @@
 ---
-title: ThreeDFormat.Depth Property (Publisher)
+title: "Свойство ThreeDFormat.Depth (издатель)"
 keywords: vbapb10.chm3801344
-f1_keywords:
-- vbapb10.chm3801344
+f1_keywords: vbapb10.chm3801344
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.Depth
+api_name: Publisher.ThreeDFormat.Depth
 ms.assetid: b6b46ddb-e3dd-0f9a-1a67-6433bb9ea89a
 ms.date: 06/08/2017
+ms.openlocfilehash: 9cd8b0a92b91c004b6273e394f39ff06162636f7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatdepth-property-publisher"></a>Свойство ThreeDFormat.Depth (издатель)
+
+Возвращает или задает **Variant** , показывающее глубину придания объема фигуры. Чтение и запись.
 
 
-# ThreeDFormat.Depth Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Read/write.
+ _выражение_. **Число уровней**
 
-
-## Syntax
-
- _expression_. **Depth**
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Variant
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
-Positive values produce an extrusion whose front face is the original shape; negative values produce an extrusion whose back face is the original shape. The valid range is -600 through 9600 points, or the equivalent distance in all other units.
+Положительные значения необходимо создать придания объема, чьи лицевой является исходной фигуры; отрицательные значения осуществлять придания объема, чьи обратная фрагмент – исходной фигуры. Допустимые значения — от-600 через 9600 точек или эквивалентный расстояние в других единицах.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an oval to the active publication, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+В этом примере добавляется овала active публикации и затем указывает, что овала быть вытянутый глубина 50 точек и выбирать должен быть фиолетовым.
 
 
 ```vb

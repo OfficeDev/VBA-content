@@ -1,36 +1,37 @@
 ---
-title: PictureFormat.TransparencyColor Property (Publisher)
+title: "Свойство PictureFormat.TransparencyColor (издатель)"
 keywords: vbapb10.chm3604743
-f1_keywords:
-- vbapb10.chm3604743
+f1_keywords: vbapb10.chm3604743
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.TransparencyColor
+api_name: Publisher.PictureFormat.TransparencyColor
 ms.assetid: 908d2e21-3e2a-b75b-a82d-454686b7ecb8
 ms.date: 06/08/2017
+ms.openlocfilehash: 09f7b44c84709ca3cdc40ff8b23bce1ee77723ee
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformattransparencycolor-property-publisher"></a>Свойство PictureFormat.TransparencyColor (издатель)
+
+Возвращает или задает константой **MsoRGBType** , представляющий прозрачность цвета. Чтение и запись.
 
 
-# PictureFormat.TransparencyColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoRGBType** constant that represents the transparency color. Read/write.
+ _выражение_. **Прозрачного цвета**
 
-
-## Syntax
-
- _expression_. **TransparencyColor**
-
- _expression_A variable that represents a  **PictureFormat** object.
+ переменная _expression_A, представляет собой объект- **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoRGBType
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a picture on the first page and sets the transparency color to black.
+В этом примере создается изображение на первой странице и задает цвет прозрачность в черный цвет.
 
 
 ```vb

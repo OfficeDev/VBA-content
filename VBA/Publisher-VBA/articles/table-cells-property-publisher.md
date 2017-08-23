@@ -1,47 +1,48 @@
 ---
-title: Table.Cells Property (Publisher)
+title: "Свойство Table.Cells (издатель)"
 keywords: vbapb10.chm4784136
-f1_keywords:
-- vbapb10.chm4784136
+f1_keywords: vbapb10.chm4784136
 ms.prod: publisher
-api_name:
-- Publisher.Table.Cells
+api_name: Publisher.Table.Cells
 ms.assetid: 42622697-aef1-0765-7d85-4919c298d92f
 ms.date: 06/08/2017
+ms.openlocfilehash: de73747489fa0d9a4b190bc23cc72b475567571e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="tablecells-property-publisher"></a>Свойство Table.Cells (издатель)
+
+Возвращает объект **CellRange** , представляющий диапазон ячеек в таблице.
 
 
-# Table.Cells Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **CellRange** object that represents a range of cells in a table.
+ _выражение_. **Ячейки** ( **_StartRow_**, **_StartColumn_**, **_EndRow_**, **_EndColumn_**)
 
-
-## Syntax
-
- _expression_. **Cells**( **_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
-
- _expression_A variable that represents a  **Table** object.
+ переменная _expression_A, представляет собой объект- **таблицы** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|StartRow|Optional| **Long**|The row in which the starting cell exists. If this argument is omitted, all the table rows are included in the range.|
-|StartColumn|Optional| **Long**|The column in which the starting cell exists. If this argument is omitted, all the table columns are included in the range.|
-|EndRow|Optional| **Long**|The row in which the ending cell exists. If this argument is omitted, only the row specified by  **StartRow** is included in the range. If this argument is specified but **StartRow** is omitted, an error occurs.|
-|EndColumn|Optional| **Long**|The column in which the ending cell exists. If this argument is omitted, only the column specified by  **StartColumn** is included in the range. If this argument is specified but **StartColumn** is omitted, an error occurs.|
+|StartRow|Необязательный| **Длинный**|Строка, в котором существует начальной ячейки. Если этот аргумент указан, все строки в таблице, включаются в диапазоне.|
+|StartColumn|Необязательный| **Длинный**|Столбец, в котором существует начальной ячейки. Если этот аргумент указан, в диапазоне включаются все столбцы в таблице.|
+|EndRow|Необязательный| **Длинный**|Строка, в котором существует конечные ячейки. Если этот аргумент задан, только строка, указанная в **StartRow** включается в диапазоне. Если этот параметр задан, но указан **StartRow** , возникает ошибка.|
+|EndColumn|Необязательный| **Длинный**|Столбец, в котором существует конечные ячейки. Если этот аргумент задан, столбец, указанный **StartColumn** включается в диапазоне. Если этот параметр задан, но указан **StartColumn** , возникает ошибка.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-If all arguments are omitted, all the cells in the table are included in the range.
+Если все аргументов опускаются, всем ячейкам в таблице включаются в диапазоне.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example merges the first two cells in the first two rows of the specified table.
+В этом примере выполняется объединение первых двух смежных ячеек в первых двух строк в указанной таблице.
 
 
 ```vb

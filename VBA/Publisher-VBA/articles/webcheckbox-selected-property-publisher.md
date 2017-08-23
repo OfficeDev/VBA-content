@@ -1,36 +1,37 @@
 ---
-title: WebCheckBox.Selected Property (Publisher)
+title: "Свойство WebCheckBox.Selected (издатель)"
 keywords: vbapb10.chm4325380
-f1_keywords:
-- vbapb10.chm4325380
+f1_keywords: vbapb10.chm4325380
 ms.prod: publisher
-api_name:
-- Publisher.WebCheckBox.Selected
+api_name: Publisher.WebCheckBox.Selected
 ms.assetid: ad34871d-474d-70ad-6245-ee5a017839c1
 ms.date: 06/08/2017
+ms.openlocfilehash: 6f5f327d87a8e4d1cdceb393755140a77a205679
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webcheckboxselected-property-publisher"></a>Свойство WebCheckBox.Selected (издатель)
+
+Указывает, установлен ли флажок Web или переключателя. Чтение и запись.
 
 
-# WebCheckBox.Selected Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies whether a Web check box or option button is selected. Read/write.
+ _выражение_. **Выбранные**
 
-
-## Syntax
-
- _expression_. **Selected**
-
- _expression_A variable that represents a  **WebCheckBox** object.
+ переменная _expression_A, представляет собой объект- **WebCheckBox** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Selected** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **Selected** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a new Web check box to the first page of the active publication and then selects it.
+В этом примере добавляется новый Web флажок первой страницы публикации, активных и выбирает его.
 
 
 ```vb

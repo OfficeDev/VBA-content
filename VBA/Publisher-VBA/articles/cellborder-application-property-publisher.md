@@ -1,31 +1,32 @@
 ---
-title: CellBorder.Application Property (Publisher)
+title: "Свойство CellBorder.Application (издатель)"
 keywords: vbapb10.chm5242881
-f1_keywords:
-- vbapb10.chm5242881
+f1_keywords: vbapb10.chm5242881
 ms.prod: publisher
-api_name:
-- Publisher.CellBorder.Application
+api_name: Publisher.CellBorder.Application
 ms.assetid: 7e2bfcdc-8a95-7703-0299-b4f1d90fa498
 ms.date: 06/08/2017
+ms.openlocfilehash: 678683bd0bb8554c7dbf3e4fffa580e7e50711ae
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellborderapplication-property-publisher"></a>Свойство CellBorder.Application (издатель)
+
+При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-# CellBorder.Application Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+ _выражение_. **Приложения**
 
-
-## Syntax
-
- _expression_. **Application**
-
- _expression_A variable that represents a  **CellBorder** object.
+ переменная _expression_A, представляет собой объект- **CellBorder** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the version and build information for Publisher.
+В этом примере отображаются сведения о версии и построения для Publisher.
 
 
 ```vb
@@ -35,7 +36,7 @@ With Application
 End With
 ```
 
-This example displays the name of the application that created each linked OLE object on page one of the active publication.
+В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
 
 
 

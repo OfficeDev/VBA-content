@@ -1,43 +1,44 @@
 ---
-title: ParagraphFormat.KeepLinesTogether Property (Publisher)
+title: "Свойство ParagraphFormat.KeepLinesTogether (издатель)"
 keywords: vbapb10.chm5439537
-f1_keywords:
-- vbapb10.chm5439537
+f1_keywords: vbapb10.chm5439537
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.KeepLinesTogether
+api_name: Publisher.ParagraphFormat.KeepLinesTogether
 ms.assetid: a0f3f2f0-d986-4928-3c4f-0665711a6876
 ms.date: 06/08/2017
+ms.openlocfilehash: 9acb9bc7d791e09645af0dfe4c3b042979c51689
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatkeeplinestogether-property-publisher"></a>Свойство ParagraphFormat.KeepLinesTogether (издатель)
+
+Задает или возвращает **MsoTriState** , которое указывает, остается ли все строки в указанном абзаце в одном текстовом поле. Чтение и запись.
 
 
-# ParagraphFormat.KeepLinesTogether Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns an  **MsoTriState** that indicates whether all lines in the specified paragraph will remain in the same text box. Read/write.
+ _выражение_. **KeepLinesTogether**
 
-
-## Syntax
-
- _expression_. **KeepLinesTogether**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 msoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This option ensures that there is not a text frame or column break between the lines of the specified paragraph. If the paragraphs are too large for the text frame or column, the first line will start at the top of the next text frame or column.
+Этот параметр гарантирует, что не текст frame или столбца разрыв между строк указанного абзаца. Если абзацы слишком велик для текстового фрейма или столбца, первая строка будет запускаться в верхней части следующей текстовой рамке или столбца.
 
-The default setting for this property is  **msoFalse**.
+Значение по умолчанию для этого свойства — **msoFalse**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the  **KeepLinesTogether** property to **msoTrue** for the specified **ParagraphFormat** object.
+В этом примере задается свойство **KeepLinesTogether** **msoTrue** для указанного объекта **ParagraphFormat** .
 
 
 ```vb

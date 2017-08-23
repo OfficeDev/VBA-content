@@ -1,43 +1,44 @@
 ---
-title: FindReplace.ReplaceScope Property (Publisher)
+title: "Свойство FindReplace.ReplaceScope (издатель)"
 keywords: vbapb10.chm8323085
-f1_keywords:
-- vbapb10.chm8323085
+f1_keywords: vbapb10.chm8323085
 ms.prod: publisher
-api_name:
-- Publisher.FindReplace.ReplaceScope
+api_name: Publisher.FindReplace.ReplaceScope
 ms.assetid: 555fe65b-9edb-8888-03f0-15ce34813d5f
 ms.date: 06/08/2017
+ms.openlocfilehash: 02cef638162c92d276af738cd01e63685fbabe23
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="findreplacereplacescope-property-publisher"></a>Свойство FindReplace.ReplaceScope (издатель)
+
+Указывает, сколько замены область следует обратить внимание: один, все или нет. Чтение и запись.
 
 
-# FindReplace.ReplaceScope Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Specifies how many scope replacements are to be made: one, all, or none. Read/write.
+ _выражение_. **ReplaceScope**
 
-
-## Syntax
-
- _expression_. **ReplaceScope**
-
- _expression_A variable that represents a  **FindReplace** object.
+ переменная _expression_A, представляет собой объект- **FindReplace** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbReplaceScope
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **ReplaceScope** property value can be one of the **[PbReplaceScope](pbreplacescope-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **ReplaceScope** может иметь одно из **[PbReplaceScope](pbreplacescope-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
-The default setting of the  **ReplaceScope** property is **pbReplaceScopeNone**.
+Значение по умолчанию свойства **ReplaceScope** — **pbReplaceScopeNone**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example replaces all occurrences of the word "hi" with "hello" in the active document.
+Следующий пример заменяет все вхождения слова «Привет» «hello» в активный документ.
 
 
 ```vb

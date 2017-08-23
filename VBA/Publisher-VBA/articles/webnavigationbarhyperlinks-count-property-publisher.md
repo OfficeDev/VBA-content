@@ -1,31 +1,32 @@
 ---
-title: WebNavigationBarHyperlinks.Count Property (Publisher)
+title: "Свойство WebNavigationBarHyperlinks.Count (издатель)"
 keywords: vbapb10.chm8585219
-f1_keywords:
-- vbapb10.chm8585219
+f1_keywords: vbapb10.chm8585219
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarHyperlinks.Count
+api_name: Publisher.WebNavigationBarHyperlinks.Count
 ms.assetid: 55e62f9b-7d7e-50bd-bd3b-0c2fdae903df
 ms.date: 06/08/2017
+ms.openlocfilehash: 8fd5b89e36bf2871277fcb1475fd0055b063706e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarhyperlinkscount-property-publisher"></a>Свойство WebNavigationBarHyperlinks.Count (издатель)
+
+Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-# WebNavigationBarHyperlinks.Count Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of items in the specified collection.
+ _выражение_. **Count**
 
-
-## Syntax
-
- _expression_. **Count**
-
- _expression_A variable that represents a  **WebNavigationBarHyperlinks** object.
+ переменная _expression_A, представляет собой объект- **WebNavigationBarHyperlinks** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the number of pages in the active document.
+В этом примере отображается число страниц в активный документ.
 
 
 ```vb
@@ -35,7 +36,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-This example displays the number of shapes in the active document.
+В этом примере отображается количество фигур в активном документе.
 
 
 

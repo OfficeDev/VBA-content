@@ -1,31 +1,32 @@
 ---
-title: Shape.Shadow Property (Publisher)
+title: "Свойство Shape.Shadow (издатель)"
 keywords: vbapb10.chm2228296
-f1_keywords:
-- vbapb10.chm2228296
+f1_keywords: vbapb10.chm2228296
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Shadow
+api_name: Publisher.Shape.Shadow
 ms.assetid: cfb908ae-ef1d-9539-1f82-2693cbe38d97
 ms.date: 06/08/2017
+ms.openlocfilehash: cde9675f703c70e4e31764461b09a8a408d35866
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeshadow-property-publisher"></a>Свойство Shape.Shadow (издатель)
+
+Возвращает объект **[ShadowFormat](shadowformat-object-publisher.md)** , представляющий тени для указанной фигуры.
 
 
-# Shape.Shadow Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ShadowFormat](shadowformat-object-publisher.md)** object that represents the shadow formatting for the specified shape.
+ _выражение_. **Теневая**
 
-
-## Syntax
-
- _expression_. **Shadow**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an arrow with shadow formatting and fill color to the first page in the active document.
+В этом примере добавляется Стрелка с форматированием и заливки цвет затенения для первой страницы в активном документе.
 
 
 ```vb

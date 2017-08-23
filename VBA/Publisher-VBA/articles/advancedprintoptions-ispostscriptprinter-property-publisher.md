@@ -1,43 +1,44 @@
 ---
-title: AdvancedPrintOptions.IsPostscriptPrinter Property (Publisher)
+title: "Свойство AdvancedPrintOptions.IsPostscriptPrinter (издатель)"
 keywords: vbapb10.chm7077921
-f1_keywords:
-- vbapb10.chm7077921
+f1_keywords: vbapb10.chm7077921
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.IsPostscriptPrinter
+api_name: Publisher.AdvancedPrintOptions.IsPostscriptPrinter
 ms.assetid: 69c31e55-2781-38fa-7c4a-c5bc1b49972a
 ms.date: 06/08/2017
+ms.openlocfilehash: 6abe1755af26414de75c74793dc088111d2cd822
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsispostscriptprinter-property-publisher"></a>Свойство AdvancedPrintOptions.IsPostscriptPrinter (издатель)
+
+Возвращает **значение True** , если active принтер PostScript принтера. Только для чтения **типа Boolean**.
 
 
-# AdvancedPrintOptions.IsPostscriptPrinter Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if the active printer is a PostScript printer. Read-only **Boolean**.
+ _выражение_. **IsPostscriptPrinter**
 
-
-## Syntax
-
- _expression_. **IsPostscriptPrinter**
-
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляющий объект **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-The following properties of the  **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object are only accessible if the active printer is a Postscript printer: **[HorizontalFlip](advancedprintoptions-horizontalflip-property-publisher.md)**,  **[VerticalFlip](advancedprintoptions-verticalflip-property-publisher.md)**, and  **[NegativeImage](advancedprintoptions-negativeimage-property-publisher.md)**.
-
-Use the  **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** property to specify the active printer for a publication.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example determines if the active printer is a PostScript printer. If it is, the active publication is set to print as a horizontally and vertically mirrored, negative image of itself.
+Следующие свойства объекта **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** доступны, только если active принтер Postscript принтера: **[HorizontalFlip](advancedprintoptions-horizontalflip-property-publisher.md)**, **[VerticalFlip](advancedprintoptions-verticalflip-property-publisher.md)**и **[NegativeImage](advancedprintoptions-negativeimage-property-publisher.md)**.
+
+Свойство **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** используется для указания активного принтера для публикации.
+
+
+## <a name="example"></a>Пример
+
+Следующий пример определяет, является ли активного принтера PostScript принтера. Если он установлен, active публикация предназначена для печати, как зеркальное копирование по горизонтали и по вертикали, отрицательные изображение самого себя.
 
 
 ```vb
@@ -55,11 +56,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

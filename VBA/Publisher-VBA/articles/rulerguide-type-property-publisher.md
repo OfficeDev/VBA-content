@@ -1,34 +1,34 @@
 ---
-title: RulerGuide.Type Property (Publisher)
+title: "Свойство RulerGuide.Type (издатель)"
 keywords: vbapb10.chm655363
-f1_keywords:
-- vbapb10.chm655363
+f1_keywords: vbapb10.chm655363
 ms.prod: publisher
-api_name:
-- Publisher.RulerGuide.Type
+api_name: Publisher.RulerGuide.Type
 ms.assetid: 7fbd4d25-d335-4641-2a8a-9bbefeaf5aa2
 ms.date: 06/08/2017
+ms.openlocfilehash: f6ad12aa781244b0cf3fee0cfabe62610c6ba337
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="rulerguidetype-property-publisher"></a>Свойство RulerGuide.Type (издатель)
+
+Возвращает или задает значение константы **PbRulerGuideType** , представляющий тип направляющей линейки. Чтение и запись.
 
 
-# RulerGuide.Type Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbRulerGuideType** constant that represents the ruler guide type. Read/write.
+ _выражение_. **Тип**
 
-
-## Syntax
-
- _expression_. **Type**
-
- _expression_A variable that represents a  **RulerGuide** object.
+ переменная _expression_A, представляет собой объект- **RulerGuide** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Type** property value can be one of these **PbRulerGuideType** constants.
+Значение свойства **типа** может иметь одно из следующих констант **PbRulerGuideType** .
 
 
 
-| **pbRulerGuideTypeHorizontal**|
-| **pbRulerGuideTypeVertical**|
+| **pbRulerGuideTypeHorizontal**|| **pbRulerGuideTypeVertical**|
 

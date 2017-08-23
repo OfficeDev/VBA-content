@@ -1,36 +1,37 @@
 ---
-title: Application.Path Property (Publisher)
+title: "Свойство Application.Path (издатель)"
 keywords: vbapb10.chm131097
-f1_keywords:
-- vbapb10.chm131097
+f1_keywords: vbapb10.chm131097
 ms.prod: publisher
-api_name:
-- Publisher.Application.Path
+api_name: Publisher.Application.Path
 ms.assetid: 36ac9a9c-8235-aeba-c3d5-d39aef960cc5
 ms.date: 06/08/2017
+ms.openlocfilehash: 7e096ac4ba4ecb724e8867222650aa02963201e1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpath-property-publisher"></a>Свойство Application.Path (издатель)
+
+Возвращает **строку** , указывающее полный путь к файлу сохраненного active публикации, не включая Фамилия разделитель или файл.
 
 
-# Application.Path Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
+ _выражение_. **Путь**
 
-
-## Syntax
-
- _expression_. **Path**
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **[FullName](document-fullname-property-publisher.md)** property can be used to return both the path and file name.
+Свойство **[полное имя](document-fullname-property-publisher.md)** можно использовать для возвращения как путь и имя файла.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
+В следующем примере показано различия между **путь**, **имя**и **полное имя** свойства. В этом примере лучше всего иллюстрируется публикации при сохранении в папку по умолчанию.
 
 
 ```vb
@@ -54,11 +55,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

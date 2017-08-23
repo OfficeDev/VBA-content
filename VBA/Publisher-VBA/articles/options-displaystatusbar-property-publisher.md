@@ -1,36 +1,37 @@
 ---
-title: Options.DisplayStatusBar Property (Publisher)
+title: "Свойство Options.DisplayStatusBar (издатель)"
 keywords: vbapb10.chm1048583
-f1_keywords:
-- vbapb10.chm1048583
+f1_keywords: vbapb10.chm1048583
 ms.prod: publisher
-api_name:
-- Publisher.Options.DisplayStatusBar
+api_name: Publisher.Options.DisplayStatusBar
 ms.assetid: 335b2f1e-03ff-fd90-5ec2-27d5219b27e7
 ms.date: 06/08/2017
+ms.openlocfilehash: def1d2401a0845aebb103d4280995eb30dc9e155
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsdisplaystatusbar-property-publisher"></a>Свойство Options.DisplayStatusBar (издатель)
+
+ **Значение true** для Microsoft Publisher для отображения в строке состояния в нижней части окна Publisher. Чтение и запись **типа Boolean**.
 
 
-# Options.DisplayStatusBar Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** for Microsoft Publisher to show the status bar at the bottom of the Publisher window. Read/write **Boolean**.
+ _выражение_. **DisplayStatusBar**
 
-
-## Syntax
-
- _expression_. **DisplayStatusBar**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example hides the status bar from view.
+В этом примере скрывается в строке состояния из представления.
 
 
 ```vb

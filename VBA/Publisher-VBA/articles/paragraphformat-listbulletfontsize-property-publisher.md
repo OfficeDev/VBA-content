@@ -1,41 +1,42 @@
 ---
-title: ParagraphFormat.ListBulletFontSize Property (Publisher)
+title: "Свойство ParagraphFormat.ListBulletFontSize (издатель)"
 keywords: vbapb10.chm5439524
-f1_keywords:
-- vbapb10.chm5439524
+f1_keywords: vbapb10.chm5439524
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.ListBulletFontSize
+api_name: Publisher.ParagraphFormat.ListBulletFontSize
 ms.assetid: 1ff1de0f-afcc-cc9c-bf45-d745695db89b
 ms.date: 06/08/2017
+ms.openlocfilehash: ffbf32f09b79489d41648cc68f82943299b442a7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatlistbulletfontsize-property-publisher"></a>Свойство ParagraphFormat.ListBulletFontSize (издатель)
+
+Задает или получает **единого** , представляющее размер шрифта маркера списка из указанного абзацев. Чтение и запись.
 
 
-# ParagraphFormat.ListBulletFontSize Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or retrieves a  **Single** that represents the list bullet font size from the specified paragraphs. Read/write.
+ _выражение_. **ListBulletFontSize**
 
-
-## Syntax
-
- _expression_. **ListBulletFontSize**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Returns an "Access Denied" message if the list is not a bulleted list.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example tests to see if the list type is a bulleted list. If it is, the  **ListFontSize** is set to 24 and the **ListBulletFontName** is set to "Verdana".
+Возвращает сообщение «Доступ запрещен», если список не маркированный список.
+
+
+## <a name="example"></a>Пример
+
+В этом примере проверяется, если тип списка — маркированный список. Если он установлен, **ListFontSize** задано значение 24, **ListBulletFontName** задано значение «Verdana».
 
 
 ```vb

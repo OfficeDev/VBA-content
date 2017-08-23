@@ -1,36 +1,37 @@
 ---
-title: Cell.BorderLeft Property (Publisher)
+title: "Свойство Cell.BorderLeft (издатель)"
 keywords: vbapb10.chm5111812
-f1_keywords:
-- vbapb10.chm5111812
+f1_keywords: vbapb10.chm5111812
 ms.prod: publisher
-api_name:
-- Publisher.Cell.BorderLeft
+api_name: Publisher.Cell.BorderLeft
 ms.assetid: f996a96f-4392-48c2-e5c2-bfe373a7997a
 ms.date: 06/08/2017
+ms.openlocfilehash: 9a306c640ad1e3e163b830ebdb52f0df0a045f08
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="cellborderleft-property-publisher"></a>Свойство Cell.BorderLeft (издатель)
+
+Возвращает объект [CellBorder](cellborder-object-publisher.md), представляющий левую границу для указанной ячейке таблицы.
 
 
-# Cell.BorderLeft Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  [CellBorder](cellborder-object-publisher.md)object that represents the left border for a specified table cell.
+ _выражение_. **BorderLeft**
 
-
-## Syntax
-
- _expression_. **BorderLeft**
-
- _expression_A variable that represents a  **Cell** object.
+ переменная _expression_A, представляет собой объект- **ячейки** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 CellBorder
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
+В этом примере создается шашками, теперь разработки, с помощью границы и цвет заливки с помощью существующей таблицы. Предполагается первую фигуру на вторую страницу таблицы и не другого типа фигуры и таблицы на наличие нечетного числа столбцов.
 
 
 ```vb

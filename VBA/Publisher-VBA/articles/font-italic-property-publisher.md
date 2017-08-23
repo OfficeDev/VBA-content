@@ -1,49 +1,50 @@
 ---
-title: Font.Italic Property (Publisher)
+title: "Свойство Font.Italic (издатель)"
 keywords: vbapb10.chm5373968
-f1_keywords:
-- vbapb10.chm5373968
+f1_keywords: vbapb10.chm5373968
 ms.prod: publisher
-api_name:
-- Publisher.Font.Italic
+api_name: Publisher.Font.Italic
 ms.assetid: c55c0bfa-a365-86ac-4cfb-f6911dadd0af
 ms.date: 06/08/2017
+ms.openlocfilehash: 48f34ec79a7fef25c2019a7b2774b628b40c70b3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontitalic-property-publisher"></a>Свойство Font.Italic (издатель)
+
+Возвращает или задает константой **MsoTriState** , указывающее, указанный текст в формате курсив. Чтение и запись.
 
 
-# Font.Italic Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic. Read/write.
+ _выражение_. **Курсив**
 
-
-## Syntax
-
- _expression_. **Italic**
-
- _expression_A variable that represents an  **Font** object.
+ переменная _expression_A, представляющий объект **шрифта** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Italic** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **Italic** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|None of the characters in the range are formatted as italic.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All of the characters in the range are formatted as italic.|
+| **msoFalse**|Ни один из символов в диапазоне форматируются как курсив.|
+| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
+| **msoTrue**|Все символы в диапазоне форматируются как курсив.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests all the text in the second story of the active publication and, if it has some text formatted as italic, it sets all the text to italic. If the text is all italic or all not italic, a message is displayed informing the user that there is no mixed italic formatting.
+В этом примере проверяется весь текст во второй материал active публикации и, если он имеет текст в формате курсив, задает весь текст на курсив. Если текст не все курсивом или все курсивом, отображается сообщение о том, что не не смешанных курсивное форматирование.
 
 
 ```vb

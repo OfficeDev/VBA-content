@@ -1,25 +1,26 @@
 ---
-title: MailMergeMappedDataField Object (Publisher)
+title: "Объект MailMergeMappedDataField (издатель)"
 keywords: vbapb10.chm6619135
-f1_keywords:
-- vbapb10.chm6619135
+f1_keywords: vbapb10.chm6619135
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeMappedDataField
+api_name: Publisher.MailMergeMappedDataField
 ms.assetid: 3711d28e-f005-27fb-88b5-8674d4ece887
 ms.date: 06/08/2017
+ms.openlocfilehash: 6db8a4f2b18e12efa4a8fb3b8c69942257bb31f1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergemappeddatafield-object-publisher"></a>Объект MailMergeMappedDataField (издатель)
 
-
-# MailMergeMappedDataField Object (Publisher)
-
-Represents a single mapped data field. The  **MailMergeMappedDataField** object is a member of the **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** collection. A mapped data field is a field contained within Microsoft Publisher that represents commonly used name or address information, such as First Name. If a data source contains a First Name field or a variation (such as First_Name, FirstName, First, or FName), the field in the data source will automatically map to the corresponding mapped data field. If a publication is to be merged with more than one data source, mapped data fields make it unnecessary to reenter the fields into the publication to agree with the field names in the database.
+Представляет одного сопоставленные поля данных. Объект **MailMergeMappedDataField** является элементом коллекции **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** . Сопоставленные данные поля — поля, содержащиеся в Microsoft Publisher, представляющий часто используемых имя или адрес информации, например, имя. Если источник данных содержит имя поля или вариантов (например, имя, FirstName, во-первых или отображающее общие сведения), в соответствующее поле сопоставленные данные автоматически сопоставляются поля в источнике данных. При публикации для объединения с более одного источника данных, сопоставленные поля данных устраняют на повторный ввод поля в публикации для подтверждения с именами полей в базе данных.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **MappedDataFields** (index) to return a **MailMergeMappedDataField** object. This example returns the data source field name for the **pbFirstName** mapped data field. This example assumes the current publication is a mail merge publication. A blank string value returned for the **DataFieldName** property indicates that the mapped data field is not mapped to a field in the data source.
+Используйте **MappedDataFields** (индекс), чтобы получить объект **MailMergeMappedDataField** . В этом примере возвращается имя поля источника данных в поле **pbFirstName** сопоставленные данные. В этом примере предполагается, что текущей публикации является публикацией слияния почты. Пустая строковое значение, возвращаемое для свойства **DataFieldName** указывает, что поле не связан с полем в источнике данных.
  
 
  
@@ -42,16 +43,16 @@ End Sub
 ```
 
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](mailmergemappeddatafield-application-property-publisher.md)|
+|[Приложения](mailmergemappeddatafield-application-property-publisher.md)|
 |[DataFieldName](mailmergemappeddatafield-datafieldname-property-publisher.md)|
 |[Index](mailmergemappeddatafield-index-property-publisher.md)|
 |[Name](mailmergemappeddatafield-name-property-publisher.md)|
-|[Parent](mailmergemappeddatafield-parent-property-publisher.md)|
-|[Value](mailmergemappeddatafield-value-property-publisher.md)|
+|[Родительский раздел](mailmergemappeddatafield-parent-property-publisher.md)|
+|[Значение](mailmergemappeddatafield-value-property-publisher.md)|
 

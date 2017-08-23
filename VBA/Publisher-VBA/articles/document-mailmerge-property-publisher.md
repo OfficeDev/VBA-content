@@ -1,36 +1,37 @@
 ---
-title: Document.MailMerge Property (Publisher)
+title: "Свойство Document.MailMerge (издатель)"
 keywords: vbapb10.chm196628
-f1_keywords:
-- vbapb10.chm196628
+f1_keywords: vbapb10.chm196628
 ms.prod: publisher
-api_name:
-- Publisher.Document.MailMerge
+api_name: Publisher.Document.MailMerge
 ms.assetid: 15b1a8aa-3472-c67d-1d99-92617b05c157
 ms.date: 06/08/2017
+ms.openlocfilehash: f662ee54b3788691b3d32a239624c0263187e53a
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentmailmerge-property-publisher"></a>Свойство Document.MailMerge (издатель)
+
+Возвращает объект **[слияния](mailmerge-object-publisher.md)** , который представляет функции слияния почты для указанной публикации.
 
 
-# Document.MailMerge Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[MailMerge](mailmerge-object-publisher.md)** object that represents the mail merge functionality for the specified publication.
+ _выражение_. **Слияния**
 
-
-## Syntax
-
- _expression_. **MailMerge**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-MailMerge
+Слияния
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the information from the current record in the data source.
+В этом примере отображаются сведения из текущей записи в источнике данных.
 
 
 ```vb
@@ -39,7 +40,7 @@ Sub ViewMergeData()
 End Sub
 ```
 
-This example displays the  **Mail Merge Recipients** dialog box, which contains the records from the data source.
+В этом примере отображается диалоговое окно **Получатели слияния** , который содержит записи из источника данных.
 
 
 

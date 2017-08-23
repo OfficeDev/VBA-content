@@ -1,49 +1,50 @@
 ---
-title: Application.PicasToPoints Method (Publisher)
+title: "Метод Application.PicasToPoints (издатель)"
 keywords: vbapb10.chm131152
-f1_keywords:
-- vbapb10.chm131152
+f1_keywords: vbapb10.chm131152
 ms.prod: publisher
-api_name:
-- Publisher.Application.PicasToPoints
+api_name: Publisher.Application.PicasToPoints
 ms.assetid: 64d3e435-dcc1-d637-7aac-cc9a9bf81e76
 ms.date: 06/08/2017
+ms.openlocfilehash: ad8f76610ec177f019217863081af009b6235a0c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpicastopoints-method-publisher"></a>Метод Application.PicasToPoints (издатель)
+
+Преобразует измерения из пики в точках (1 пика = 12 точек). Возвращает преобразованные измерения как **один**.
 
 
-# Application.PicasToPoints Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single**.
+ _выражение_. **PicasToPoints** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **PicasToPoints**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The pica value to be converted to points.|
+|Значение|Обязательное свойство.| **Один**|Значение пика для преобразования в пунктах.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[PointsToPicas](application-pointstopicas-method-publisher.md)** method to convert measurements in points to picas.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example converts measurements in picas entered by the user to measurements in points.
+Используйте метод **[PointsToPicas](application-pointstopicas-method-publisher.md)** для преобразования значения в пунктах пики.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется преобразование размеры в пики, введенный пользователем измерений в пунктах.
 
 
 ```vb
@@ -70,11 +71,11 @@ Loop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

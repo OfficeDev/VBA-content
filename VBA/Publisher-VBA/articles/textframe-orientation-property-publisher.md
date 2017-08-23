@@ -1,41 +1,42 @@
 ---
-title: TextFrame.Orientation Property (Publisher)
+title: "Свойство TextFrame.Orientation (издатель)"
 keywords: vbapb10.chm3866659
-f1_keywords:
-- vbapb10.chm3866659
+f1_keywords: vbapb10.chm3866659
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.Orientation
+api_name: Publisher.TextFrame.Orientation
 ms.assetid: f510e624-6322-4054-5e7f-8688c5ea817a
 ms.date: 06/08/2017
+ms.openlocfilehash: 86712e54f57b2bbda7bd48632ecf920e09994bd5
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframeorientation-property-publisher"></a>Свойство TextFrame.Orientation (издатель)
+
+Возвращает или задает значение константы **PbTextOrientation**, представляющий потоки текст в текстовом поле. Чтение и запись.
 
 
-# TextFrame.Orientation Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbTextOrientation**constant that represents how text flows in a text box. Read/write.
+ _выражение_. **Ориентация**
 
-
-## Syntax
-
- _expression_. **Orientation**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbTextOrientation
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Orientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **ориентации** может иметь одно из **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the text orientation in the specified text box to vertical so that text flows from top to bottom. This assumes there is at least one shape on page one of the active publication.
+В этом примере задается Ориентация текста в поле указанный текст для вертикальной так, чтобы текст перетекал сверху вниз. Предполагается, что имеется по крайней мере один фигуры на странице один активный публикации.
 
 
 

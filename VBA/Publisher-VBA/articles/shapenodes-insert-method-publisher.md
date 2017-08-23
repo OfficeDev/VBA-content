@@ -1,64 +1,62 @@
 ---
-title: ShapeNodes.Insert Method (Publisher)
+title: "Метод ShapeNodes.Insert (издатель)"
 keywords: vbapb10.chm3473426
-f1_keywords:
-- vbapb10.chm3473426
+f1_keywords: vbapb10.chm3473426
 ms.prod: publisher
-api_name:
-- Publisher.ShapeNodes.Insert
+api_name: Publisher.ShapeNodes.Insert
 ms.assetid: c78ceefe-db9f-4af0-2e76-2ab1e4dc74b8
 ms.date: 06/08/2017
+ms.openlocfilehash: 25693191133a5dc9419da8eedcca790425c6a588
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapenodesinsert-method-publisher"></a>Метод ShapeNodes.Insert (издатель)
+
+Вставляет новый сегмент после указанного узла freeform документа.
 
 
-# ShapeNodes.Insert Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Inserts a new segment after the specified node of the freeform drawing.
+ _выражение_. **Вставка** ( **_Индекса_**, **_SegmentType_**, **_EditingType_**, **_X1_**, **_Y1_**, **_X2_**, **_года 2_**, **_X3_**, **_года 3_**)
 
-
-## Syntax
-
- _expression_. **Insert**( **_Index_**,  **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
-
- _expression_A variable that represents a  **ShapeNodes** object.
+ переменная _expression_A, представляет собой объект- **ShapeNodes** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the node after which the new node is to be inserted.|
-|SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
-|EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node.|
-|X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
-|Y1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
-|X2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|X3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|Индекс|Обязательное свойство.| **Длинный**|Число узлов, после которого новый узел является для вставки.|
+|SegmentType|Обязательное свойство.| **MsoSegmentType**|Тип сегмента будет добавлена.|
+|EditingType|Обязательное свойство.| **MsoEditingType**|Указывает тип редактирования новый узел.|
+|X1|Обязательное свойство.| **Variant**|Если EditingType новый сегмент **msoEditingAuto**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый узел **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы для первой контрольной точки для нового сегмента.|
+|Y1|Обязательное свойство.| **Variant**|Если EditingType новый сегмент **msoEditingAuto**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый узел **msoEditingCorner**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы для первой контрольной точки для нового сегмента.|
+|X2|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы для второй контрольной точки для нового сегмента. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
+|ГОДА 2|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы для второй контрольной точки для нового сегмента. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
+|X3|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
+|ГОДА 3|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in"). 
+Для X1 Y1, X 2 года 2, X3 и аргументы года 3 числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Publisher (например, «2,5 дюйма»). 
 
-SegmentType can be one of these  **MsoSegmentType** constants.
-
-
-
-| **msoSegmentCurve**|
-| **msoSegmentLine**|
-EditingType can be one of these  **MsoEditingType** constants.
+SegmentType может иметь одно из следующих констант **MsoSegmentType** .
 
 
 
-| **msoEditingAuto**|Adds a node type appropriate to the segments being connected.|
-| **msoEditingCorner**|Adds a corner node.|
+| **msoSegmentCurve**|| **msoSegmentLine**| EditingType может иметь одно из следующих констант **MsoEditingType** .
 
-## Example
 
-This example adds a smooth node with a curved segment after node four in the third shape in the active publication. The shape must be a freeform drawing with at least four nodes.
+
+| **msoEditingAuto**| Добавляет тип узла, соответствующий в сегменты подключаемого. | | **msoEditingCorner**| Добавляет узел угла. |
+
+## <a name="example"></a>Пример
+
+В этом примере добавляется легко узел с сегмент после узла четырех в третьей фигуры в активной публикации. Фигуры должен быть freeform документа по крайней мере четыре узлами.
 
 
 ```vb

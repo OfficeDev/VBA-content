@@ -1,48 +1,49 @@
 ---
-title: PictureFormat.IsGreyScale Property (Publisher)
+title: "Свойство PictureFormat.IsGreyScale (издатель)"
 keywords: vbapb10.chm3604768
-f1_keywords:
-- vbapb10.chm3604768
+f1_keywords: vbapb10.chm3604768
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.IsGreyScale
+api_name: Publisher.PictureFormat.IsGreyScale
 ms.assetid: 1f8308c1-353e-2aac-9b4b-fad300a89b97
 ms.date: 06/08/2017
+ms.openlocfilehash: 6a972affe0b4b9263c05e5400a767a8952e3a041
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatisgreyscale-property-publisher"></a>Свойство PictureFormat.IsGreyScale (издатель)
+
+Возвращает константу **MsoTriState** , которое указывает, является ли рисунок оттенки серого изображения. Только для чтения.
 
 
-# PictureFormat.IsGreyScale Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **MsoTriState** constant that indicates whether the picture is a greyscale image. Read-only.
+ _выражение_. **IsGreyScale**
 
-
-## Syntax
-
- _expression_. **IsGreyScale**
-
- _expression_A variable that represents an  **PictureFormat** object.
+ переменная _expression_A, представляющий объект **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **IsGreyScale** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **IsGreyScale** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The picture is not a greyscale image.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The specified picture is a greyscale image.|
+| **msoFalse**|Изображение не оттенки серого изображения.|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Указанный рисунок является оттенки серого изображения.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns a list of the greyscale pictures contained in the active publication.
+Следующий пример возвращает список оттенки серого изображения, содержащиеся в активной публикации.
 
 
 ```vb

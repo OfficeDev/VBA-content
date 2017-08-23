@@ -1,36 +1,37 @@
 ---
-title: Page.IsTrailing Property (Publisher)
+title: "Свойство Page.IsTrailing (издатель)"
 keywords: vbapb10.chm131101
-f1_keywords:
-- vbapb10.chm131101
+f1_keywords: vbapb10.chm131101
 ms.prod: publisher
-api_name:
-- Publisher.Page.IsTrailing
+api_name: Publisher.Page.IsTrailing
 ms.assetid: e0ed15dc-d2e8-d6b7-913d-4e72b2817e88
 ms.date: 06/08/2017
+ms.openlocfilehash: 378177df9ad09091dceb68d771b1f67f79cd5785
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pageistrailing-property-publisher"></a>Свойство Page.IsTrailing (издатель)
+
+ **Значение true,** Если указанный объект **Page** является конечные страницы из двух страницах. Только для чтения **типа Boolean**.
 
 
-# Page.IsTrailing Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if the specified **Page** object is a trailing page of a two-page spread. Read-only **Boolean**.
+ _выражение_. **IsTrailing**
 
-
-## Syntax
-
- _expression_. **IsTrailing**
-
- _expression_A variable that represents an  **Page** object.
+ переменная _expression_A, представляющий объект **страницы** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example diplays for each page whether the page is a trailing or leading page in the publication.
+Следующий пример отображает для каждой страницы ли страница находится в конце строки или основную страницу в публикации.
 
 
 ```vb

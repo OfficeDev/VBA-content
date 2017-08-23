@@ -1,61 +1,62 @@
 ---
-title: PictureFormat.OriginalHasAlphaChannel Property (Publisher)
+title: "Свойство PictureFormat.OriginalHasAlphaChannel (издатель)"
 keywords: vbapb10.chm3604773
-f1_keywords:
-- vbapb10.chm3604773
+f1_keywords: vbapb10.chm3604773
 ms.prod: publisher
-api_name:
-- Publisher.PictureFormat.OriginalHasAlphaChannel
+api_name: Publisher.PictureFormat.OriginalHasAlphaChannel
 ms.assetid: e58a97d2-4ced-d3cf-56b2-6a89df02bcdf
 ms.date: 06/08/2017
+ms.openlocfilehash: e56fdb2f07e3a201954d69c8bb5935e3acb0e590
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pictureformatoriginalhasalphachannel-property-publisher"></a>Свойство PictureFormat.OriginalHasAlphaChannel (издатель)
+
+Возвращает константу **MsoTriState** в зависимости от того, содержит ли исходный, связанных рисунков альфа-канал. Только для чтения.
 
 
-# PictureFormat.OriginalHasAlphaChannel Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
+ _выражение_. **OriginalHasAlphaChannel**
 
-
-## Syntax
-
- _expression_. **OriginalHasAlphaChannel**
-
- _expression_A variable that represents an  **PictureFormat** object.
+ переменная _expression_A, представляющий объект **PictureFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property only applies to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
+Это свойство применяется только к связанных рисунков. Возвращает значение «Отказано в разрешении» для фигуры, представляющие внедренные или вставлять рисунки.
 
-Use either of the following properties to determine whether a shape represents a linked picture:
+Используйте один из следующих свойств для определения, является ли фигура представляет связанного рисунка:
 
 
--  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
+-  Свойство **[Type](shape-type-property-publisher.md)** объекта **[фигуры](shape-object-publisher.md)**
     
-- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
+- Свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)**
     
 
 
-An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking information or transparency information.
+Альфа-канал — это специальные 8-разрядный канал, используемых обработки программного обеспечения изображения для хранения дополнительных данных, таких как маскирование сведения или прозрачность сведений.
 
-The  **OriginalHasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства **OriginalHasAlphaChannel** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| The original, linked picture does not contain an alpha channel.|
-| **msoTriStateMixed**| Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The original, linked picture contains an alpha channel.|
+| **msoFalse**| Исходный, связанных рисунков не содержит альфа-канал.|
+| **msoTriStateMixed**| Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Исходный, связанных рисунков содержит альфа-канал.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes the shape is a picture.
+В следующем примере возвращается, содержит ли первую фигуру на первой странице активная публикация альфа-канал. Если связь изображения, а исходный рисунок содержит альфа-канал, также возвращаются. В этом примере предполагается, что фигурой является рисунок.
 
 
 ```vb

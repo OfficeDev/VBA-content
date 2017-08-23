@@ -1,30 +1,31 @@
 ---
-title: Printer.IsColor Property (Publisher)
+title: "Свойство Printer.IsColor (издатель)"
 keywords: vbapb10.chm8978437
-f1_keywords:
-- vbapb10.chm8978437
+f1_keywords: vbapb10.chm8978437
 ms.prod: publisher
-api_name:
-- Publisher.Printer.IsColor
+api_name: Publisher.Printer.IsColor
 ms.assetid: ae466c89-8da0-986b-c3f8-b0aea651dffe
 ms.date: 06/08/2017
+ms.openlocfilehash: f4bc1ffb51105374e4ee858b7cf2bd3b834cecc7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="printeriscolor-property-publisher"></a>Свойство Printer.IsColor (издатель)
+
+Возвращает **значение True,** Если устройство, представленная родительский объект **Printer** — это цвет принтера. Только для чтения.
 
 
-# Printer.IsColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **True** if the device represented by the parent **Printer** object is a color printer. Read-only.
+ _выражение_. **IsColor**
 
-
-## Syntax
-
- _expression_. **IsColor**
-
- _expression_A variable that represents a  **Printer** object.
+ переменная _expression_A, представляющий объект **Printer** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
- **Boolean**
+ **Логическое значение**
 
 

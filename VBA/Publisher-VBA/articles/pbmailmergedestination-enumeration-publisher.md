@@ -1,26 +1,27 @@
 ---
-title: PbMailMergeDestination Enumeration (Publisher)
+title: "Перечисление PbMailMergeDestination (издатель)"
 keywords: vbapb10.chm65597
-f1_keywords:
-- vbapb10.chm65597
+f1_keywords: vbapb10.chm65597
 ms.prod: publisher
-api_name:
-- Publisher.PbMailMergeDestination
+api_name: Publisher.PbMailMergeDestination
 ms.assetid: 7e060743-941c-c899-1601-778e51d66bea
 ms.date: 06/08/2017
+ms.openlocfilehash: 1a28eb53a24d78a5984cd6bdd949539cd3152944
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbmailmergedestination-enumeration-publisher"></a>Перечисление PbMailMergeDestination (издатель)
 
-
-# PbMailMergeDestination Enumeration (Publisher)
-
-The destination of the mail merge or catalog merge results.
+Назначение результаты объединения слияния почты и каталогов.
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbMergeToExistingPublication**|3| **Default** Merge to an exisiting presentation.|
-| **pbMergeToNewPublication**|2|Merge to a new presentation.|
-| **pbSendEmail**|4|Merge and send as an e-mail message.|
-| **pbSendToPrinter**|1|Merge and send to the printer.|
+| **pbMergeToExistingPublication**|3| **Значение по умолчанию** Объединение презентацию на существующий.|
+| **pbMergeToNewPublication**|2|Объединить презентации.|
+| **pbSendEmail**|4|Объединение и отправлять в виде сообщения электронной почты.|
+| **pbSendToPrinter**|1|Объединение и отправляет на принтер.|
 

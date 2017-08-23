@@ -1,31 +1,32 @@
 ---
-title: Shape.TextWrap Property (Publisher)
+title: "Свойство Shape.TextWrap (издатель)"
 keywords: vbapb10.chm2228352
-f1_keywords:
-- vbapb10.chm2228352
+f1_keywords: vbapb10.chm2228352
 ms.prod: publisher
-api_name:
-- Publisher.Shape.TextWrap
+api_name: Publisher.Shape.TextWrap
 ms.assetid: e641d9a5-5b63-06d0-a0c3-d3feb1910159
 ms.date: 06/08/2017
+ms.openlocfilehash: 9a978b60e0200d2ab1545e42a4247a569d894119
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapetextwrap-property-publisher"></a>Свойство Shape.TextWrap (издатель)
+
+Возвращает объект **[WrapFormat](wrapformat-object-publisher.md)** , который представляет свойства обтекания текста фигуры или диапазона фигуры.
 
 
-# Shape.TextWrap Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[WrapFormat](wrapformat-object-publisher.md)** object that represents the properties for wrapping text around a shape or shape range.
+ _выражение_. **TextWrap**
 
-
-## Syntax
-
- _expression_. **TextWrap**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds an oval to the active publication and specifies that publication text wrap around the left and right sides of the square that circumscribes the oval. There will be a 0.1-inch margin between the publication text and the top, bottom, left side, and right side of the square.
+В следующем примере добавляет овала active публикации и указывает, что текст публикации обтекания слева и справа квадрата, circumscribes овала. Будет поля 0,1 дюйма между текст публикации и верхней, нижней, левой и правой части квадрата.
 
 
 ```vb

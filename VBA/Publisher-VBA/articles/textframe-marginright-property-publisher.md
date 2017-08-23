@@ -1,31 +1,32 @@
 ---
-title: TextFrame.MarginRight Property (Publisher)
+title: "Свойство TextFrame.MarginRight (издатель)"
 keywords: vbapb10.chm3866646
-f1_keywords:
-- vbapb10.chm3866646
+f1_keywords: vbapb10.chm3866646
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.MarginRight
+api_name: Publisher.TextFrame.MarginRight
 ms.assetid: bdbde217-6a51-7823-ac93-8bbffa583544
 ms.date: 06/08/2017
+ms.openlocfilehash: a64bf65a16a9c3f5f38437ad9f1471da65606c31
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframemarginright-property-publisher"></a>Свойство TextFrame.MarginRight (издатель)
+
+Возвращает или задает **Variant** , который представляет дискового пространства (в точках) между текстом и правого края ячейки, текстового фрейма или страницы. Чтение и запись.
 
 
-# TextFrame.MarginRight Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the right edge of a cell, text frame, or page. Read/write.
+ _выражение_. **MarginRight**
 
-
-## Syntax
-
- _expression_. **MarginRight**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the margins of the active publication to two inches.
+В этом примере задается полей активной публикации для двух дюйма.
 
 
 ```vb

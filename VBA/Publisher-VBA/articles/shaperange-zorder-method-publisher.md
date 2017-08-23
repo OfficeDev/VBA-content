@@ -1,59 +1,54 @@
 ---
-title: ShapeRange.ZOrder Method (Publisher)
+title: "Метод ShapeRange.ZOrder (издатель)"
 keywords: vbapb10.chm2293808
-f1_keywords:
-- vbapb10.chm2293808
+f1_keywords: vbapb10.chm2293808
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.ZOrder
+api_name: Publisher.ShapeRange.ZOrder
 ms.assetid: 2043f78c-ab83-e719-c3b5-5d75edcf1593
 ms.date: 06/08/2017
+ms.openlocfilehash: af4c148e9018bcbb4ffdd89f91e25d30481868d6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangezorder-method-publisher"></a>Метод ShapeRange.ZOrder (издатель)
+
+Перемещает указанный фигуры на переднем плане или из-за других фигур в коллекции (то есть, изменяется фигуры позицию в z порядке).
 
 
-# ShapeRange.ZOrder Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
+ _выражение_. **Метод ZOrder** ( **_ZOrderCmd_**)
 
-
-## Syntax
-
- _expression_. **ZOrder**( **_ZOrderCmd_**)
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|ZOrderCmd|Required| **MsoZOrderCmd**|Specifies where to move the specified shape relative to the other shapes.|
+|ZOrderCmd|Обязательное свойство.| **MsoZOrderCmd**|Указывает, где для перемещения указанного фигуры относительно других фигур.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Nothing
-
-
-## Remarks
-
-The ZOrderCmd parameter can be one of the  **MsoZOrderCmd** constants declared in the Microsoft Office type library and shown in the following table.
+Значение Nothing
 
 
+## <a name="remarks"></a>Заметки
 
-| **msoBringForward**|
-| **msoBringInFrontOfText**|
-| **msoBringToFront**|
-| **msoSendBackward**|
-| **msoSendBehindText**|
-| **msoSendToBack**|
-Use the  [ZOrderPosition](shape-zorderposition-property-publisher.md)property to determine a shape's current position in the z-order.
+Параметр ZOrderCmd может быть одной из констант **MsoZOrderCmd** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
-## Example
 
-This example adds an oval to the active publication and then places the oval second from the back in the z-order if there is at least one other shape on the page.
+| **msoBringForward**|| **msoBringInFrontOfText**|| **msoBringToFront**|| **msoSendBackward**|| **msoSendBehindText**|| **msoSendToBack**| Свойство [ZOrderPosition](shape-zorderposition-property-publisher.md)определяет фигуры текущую позицию в z порядке.
+
+
+## <a name="example"></a>Пример
+
+В этом примере добавляет овала active публикации и помещает Овал второй с обратной в z порядке при наличии по крайней мере один фигуры на странице.
 
 
 ```vb

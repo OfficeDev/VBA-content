@@ -1,22 +1,24 @@
 ---
-title: BuildingBlock.Description Property (Publisher)
+title: "Свойство BuildingBlock.Description (издатель)"
 ms.prod: publisher
-api_name:
-- Publisher.BuildingBlock.Description
+api_name: Publisher.BuildingBlock.Description
 ms.assetid: de78c9b6-25a8-c92c-0523-6b00ef932b06
 ms.date: 06/08/2017
+ms.openlocfilehash: c8cec0da976567c24183a7f2bf249bd4ff34c65c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="buildingblockdescription-property-publisher"></a>Свойство BuildingBlock.Description (издатель)
+
+Получает или задает строку, представляющую описание стандартного блока. Чтение и запись.
 
 
-# BuildingBlock.Description Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Gets or sets a string that represents the description of the building block. Read/write.
+ _выражение_. **Описание**
 
-
-## Syntax
-
- _expression_. **Description**
-
- _expression_A variable that represents a  **BuildingBlock** object.
+ переменная _expression_A, представляет собой объект- **BuildingBlock** .
 
 

@@ -1,36 +1,37 @@
 ---
-title: WizardProperty.Enabled Property (Publisher)
+title: "Свойство WizardProperty.Enabled (издатель)"
 keywords: vbapb10.chm1572871
-f1_keywords:
-- vbapb10.chm1572871
+f1_keywords: vbapb10.chm1572871
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperty.Enabled
+api_name: Publisher.WizardProperty.Enabled
 ms.assetid: c66741c8-1493-ac90-4ecb-ed8d58743c69
 ms.date: 06/08/2017
+ms.openlocfilehash: cd1c45264414e75559da8bc065abb044c1282fc8
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardpropertyenabled-property-publisher"></a>Свойство WizardProperty.Enabled (издатель)
+
+ **Значение true,** Если включено свойство мастера. Только для чтения **типа Boolean**.
 
 
-# WizardProperty.Enabled Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** if a wizard property is enabled. Read-only **Boolean**.
+ _выражение_. **Включено**
 
-
-## Syntax
-
- _expression_. **Enabled**
-
- _expression_A variable that represents an  **WizardProperty** object.
+ переменная _expression_A, представляющий объект **WizardProperty** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
+Логический
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the name of each enabled wizard property in the active publication.
+В этом примере имя каждого свойства enabled мастера в активной публикации.
 
 
 ```vb

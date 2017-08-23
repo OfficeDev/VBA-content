@@ -1,41 +1,42 @@
 ---
-title: Shape.Apply Method (Publisher)
+title: "Метод Shape.Apply (издатель)"
 keywords: vbapb10.chm2228240
-f1_keywords:
-- vbapb10.chm2228240
+f1_keywords: vbapb10.chm2228240
 ms.prod: publisher
-api_name:
-- Publisher.Shape.Apply
+api_name: Publisher.Shape.Apply
 ms.assetid: 711c72b6-3618-be0b-fb72-9f68fdbcc4a8
 ms.date: 06/08/2017
+ms.openlocfilehash: b5099e18a296982124e036fc552dc19560e824c9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeapply-method-publisher"></a>Метод Shape.Apply (издатель)
+
+Применяет форматирование, скопированные из другой фигуры или фигур с помощью метода **[раскладки](shape-pickup-method-publisher.md)** в диапазоне.
 
 
-# Shape.Apply Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Applies formatting copied from another shape or shape range using the  **[PickUp](shape-pickup-method-publisher.md)** method.
+ _выражение_. **Применение**
 
-
-## Syntax
-
- _expression_. **Apply**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Nothing
-
-
-## Remarks
-
-If you do not first use the  **PickUp** method to copy the formatting from another shape, an error occurs.
+Значение Nothing
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example copies the formatting from the first shape of the active publication to the second shape of the active publication.
+Если метод **раскладки** сначала не используется для копирования форматирования другую фигуру, возникает ошибка.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере копируется форматирование из первой фигуры active публикации для второй фигуры active публикации.
 
 
 ```vb

@@ -1,48 +1,49 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Publisher)
+title: "Метод ThreeDFormat.IncrementRotationY (издатель)"
 keywords: vbapb10.chm3801105
-f1_keywords:
-- vbapb10.chm3801105
+f1_keywords: vbapb10.chm3801105
 ms.prod: publisher
-api_name:
-- Publisher.ThreeDFormat.IncrementRotationY
+api_name: Publisher.ThreeDFormat.IncrementRotationY
 ms.assetid: 54260253-c914-6600-60ef-17bdde12be59
 ms.date: 06/08/2017
+ms.openlocfilehash: 7a608580354ead9fb2ab2201d3effc63cee0b15c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatincrementrotationy-method-publisher"></a>Метод ThreeDFormat.IncrementRotationY (издатель)
+
+Изменяет вращение указанного фигуры относительно оси y (по вертикали) указанное число градусов.
 
 
-# ThreeDFormat.IncrementRotationY Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Changes the rotation of the specified shape around the y-axis (vertical) by the specified number of degrees.
+ _выражение_. **IncrementRotationY** ( **_Порядкового номера_**)
 
-
-## Syntax
-
- _expression_. **IncrementRotationY**( **_Increment_**)
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Increment|Required| **Single**|Specifies by how many degrees to rotate the shape around the y-axis. Can be a value from - 90 through 90. A positive value tilts the shape to the left; a negative value tilts it to the right.|
+|Порядкового номера|Обязательное свойство.| **Один**|Указывает, сколько градусов Поворот фигуры относительно оси y. Может быть в диапазоне от - 90 до 90. Положительное значение tilts фигуры слева; отрицательное значение tilts его справа.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[RotationY](threedformat-rotationy-property-publisher.md)** property to set the absolute rotation of the shape around the y-axis.
+Свойство **[RotationY](threedformat-rotationy-property-publisher.md)** задать абсолютные вращения фигуры относительно оси y.
 
-You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the  **RotationY** property (90 degrees to - 90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the **_Increment_** argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
+Нельзя изменять размеры поворот вокруг оси y указанной фигуры за границу верхней или нижней, для свойства **RotationY** (90 градусов - 90 градусов). К примеру Если свойство **RotationY** изначально установлено значение 80 и можно указать 40 для аргумента **_порядкового номера_** , результирующий вращение 90 (верхний предел для свойства **RotationY** ) вместо 120.
 
-To change the rotation of a shape around the x-axis (horizontal), use the  **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method. To change the rotation around the z-axis (extends outward from the plane of the publication), use the  **[IncrementRotation](shape-incrementrotation-method-publisher.md)** method.
+Чтобы изменить вращения фигуры относительно оси x (по горизонтали), используйте метод **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** . Чтобы изменить вращения вокруг оси z (расширяет наружу плоскости публикации), используйте метод **[IncrementRotation](shape-incrementrotation-method-publisher.md)** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tilts the first shape in the active publication 10 degrees to the right. The shape must be an extruded shape for you to see the effect of this code.
+В этом примере tilts первую фигуру в активной публикации 10 градусов вправо. Фигуры должен быть вытянутый фигуру увидеть результат этого кода.
 
 
 ```vb

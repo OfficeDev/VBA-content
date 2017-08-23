@@ -1,25 +1,26 @@
 ---
-title: Plate Object (Publisher)
+title: "Объект формы (издатель)"
 keywords: vbapb10.chm2949119
-f1_keywords:
-- vbapb10.chm2949119
+f1_keywords: vbapb10.chm2949119
 ms.prod: publisher
-api_name:
-- Publisher.Plate
+api_name: Publisher.Plate
 ms.assetid: f7d7dbb1-a6a4-780f-814e-8e95aaaeeeea
 ms.date: 06/08/2017
+ms.openlocfilehash: dcd562397190161e7a2790978e56b242ff4a2087
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="plate-object-publisher"></a>Объект формы (издатель)
 
-
-# Plate Object (Publisher)
-
-Represents a single printer's plate. The  **Plate** object is a member of the **[Plates](plates-object-publisher.md)** collection.
+Представляет один принтер формы. Объект **формы** является элементом коллекции **[формы](plates-object-publisher.md)** .
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Add](plates-add-method-publisher.md)** method of the **[Plates](plates-object-publisher.md)** collection to create a new plate. This example creates a new spot-color plate collection and adds a plate to it.
+Используйте метод **[Add](plates-add-method-publisher.md)** коллекции **[формы](plates-object-publisher.md)** для создания новой формы. В этом примере создается коллекция цвет область формы и добавляет форму.
  
 
  
@@ -36,12 +37,12 @@ Sub AddNewPlates()
 End Sub
 ```
 
-Use the  **[FindPlateByInkName](plates-findplatebyinkname-method-publisher.md)** method to return a specific plate by referencing its ink name. Process colors are assigned different index numbers in the **Plates** collection than in the **[PrintablePlates](printableplates-object-publisher.md)** collection. Use the **FindPlateByInkName** method to insure the desired **Plate** or **[PrintablePlate](printableplate-object-publisher.md)** object is accessed.
+Используйте метод **[FindPlateByInkName](plates-findplatebyinkname-method-publisher.md)** для возврата определенного формы с учетом его рукописного ввода имени. Процесс цвета назначены разные номера индекса в коллекции **формы** , чем в коллекции **[PrintablePlates](printableplates-object-publisher.md)** . Используйте метод **FindPlateByInkName** для гарантии на желаемую **формы** или получить доступ к объекту **[PrintablePlate](printableplate-object-publisher.md)** .
  
 
  
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -50,18 +51,18 @@ Use the  **[FindPlateByInkName](plates-findplatebyinkname-method-publisher.md)**
 |[ConvertToProcess](plate-converttoprocess-method-publisher.md)|
 |[Delete](plate-delete-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](plate-application-property-publisher.md)|
-|[Color](plate-color-property-publisher.md)|
+|[Приложения](plate-application-property-publisher.md)|
+|[Цвет](plate-color-property-publisher.md)|
 |[Index](plate-index-property-publisher.md)|
 |[InkName](plate-inkname-property-publisher.md)|
-|[InUse](plate-inuse-property-publisher.md)|
-|[Luminance](plate-luminance-property-publisher.md)|
+|[Может быть каталогом](plate-inuse-property-publisher.md)|
+|[Яркости](plate-luminance-property-publisher.md)|
 |[Name](plate-name-property-publisher.md)|
-|[Parent](plate-parent-property-publisher.md)|
+|[Родительский раздел](plate-parent-property-publisher.md)|
 

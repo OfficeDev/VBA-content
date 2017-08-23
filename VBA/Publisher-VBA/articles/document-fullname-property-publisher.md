@@ -1,41 +1,42 @@
 ---
-title: Document.FullName Property (Publisher)
+title: "Свойство Document.FullName (издатель)"
 keywords: vbapb10.chm196625
-f1_keywords:
-- vbapb10.chm196625
+f1_keywords: vbapb10.chm196625
 ms.prod: publisher
-api_name:
-- Publisher.Document.FullName
+api_name: Publisher.Document.FullName
 ms.assetid: 137e4310-8431-ed2a-503a-c225378a9a74
 ms.date: 06/08/2017
+ms.openlocfilehash: eef4c11c671940021fcc5df8010057a9868aefb1
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentfullname-property-publisher"></a>Свойство Document.FullName (издатель)
+
+Возвращает **строку** , представляющую полное имя файла сохраненного active публикации, включая его путь и имя файла. Только для чтения.
 
 
-# Document.FullName Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
+ _выражение_. **Полное имя**
 
-
-## Syntax
-
- _expression_. **FullName**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **FullName** property can be used to return both path and file name as returned by the **[Path](document-path-property-publisher.md)** and **[Name](document-name-property-publisher.md)** properties.
+Свойство **полное имя** можно использовать для возвращения как путь и имя файла в виде, возвращаемом **[путь](document-path-property-publisher.md)** и **[имя](document-name-property-publisher.md)** свойства.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
+В следующем примере показано различия между **путь**, **имя**и **полное имя** свойства. В этом примере лучше всего иллюстрируется публикации при сохранении в папку по умолчанию.
 
 
 ```vb

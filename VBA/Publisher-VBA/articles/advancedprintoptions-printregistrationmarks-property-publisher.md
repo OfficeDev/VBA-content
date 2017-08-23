@@ -1,47 +1,48 @@
 ---
-title: AdvancedPrintOptions.PrintRegistrationMarks Property (Publisher)
+title: "Свойство AdvancedPrintOptions.PrintRegistrationMarks (издатель)"
 keywords: vbapb10.chm7077896
-f1_keywords:
-- vbapb10.chm7077896
+f1_keywords: vbapb10.chm7077896
 ms.prod: publisher
-api_name:
-- Publisher.AdvancedPrintOptions.PrintRegistrationMarks
+api_name: Publisher.AdvancedPrintOptions.PrintRegistrationMarks
 ms.assetid: 24928459-0158-b7a9-46c0-c1a6116518d5
 ms.date: 06/08/2017
+ms.openlocfilehash: 7c238177d5c4155069e710ad5270d379bfd372ab
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="advancedprintoptionsprintregistrationmarks-property-publisher"></a>Свойство AdvancedPrintOptions.PrintRegistrationMarks (издатель)
+
+ **Значение true** для печати регистрации помечает для указанной публикации. По умолчанию используется **значение True**. Чтение и запись **типа Boolean**.
 
 
-# AdvancedPrintOptions.PrintRegistrationMarks Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
- **True** to print registration marks for the specified publication. The default is **True**. Read/write  **Boolean**.
+ _выражение_. **PrintRegistrationMarks**
 
-
-## Syntax
-
- _expression_. **PrintRegistrationMarks**
-
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Boolean
-
-
-## Remarks
-
-Returns "Permission Denied" if any print mode other than separations is selected for the specified publication.
-
-This property corresponds to the  **Registration marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
-
-Registration marks are used to align (register) the printing of two or more press plates on a single page.
-
-These printer's marks print outside the publication and can only be printed if the size of the paper being printed to is larger than the publication page size.
+Логический
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets crop marks and job information to print with the publication. If the publication is printed as separations, the additional types of printer's marks are also set to print. This example assumes that the size of the paper being printed to is larger than the publication page size.
+Если выбрать любой режим, отличный от цветоделение для указанной публикации возвращает «Отказано в разрешении».
+
+Это свойство соответствует управления **совмещения** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+
+Совмещения используются для выравнивания (реестр) печати двух или более press формы на одной странице.
+
+Эти метки печати за пределами публикации и можно распечатать только если размер бумаги, печать для превышает размер страницы публикации.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается меток обрезки и сведения о задании для печати с публикацией. При печати публикации цветоделение дополнительные типы типографские метки также необходимо задать для печати. В этом примере предполагается, что размер бумаги, печать для больше, чем размер страницы публикации.
 
 
 ```vb
@@ -59,11 +60,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
+ [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
 

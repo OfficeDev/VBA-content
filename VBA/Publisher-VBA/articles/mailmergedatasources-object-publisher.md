@@ -1,44 +1,45 @@
 ---
-title: MailMergeDataSources Object (Publisher)
+title: "Объект MailMergeDataSources (издатель)"
 keywords: vbapb10.chm7274495
-f1_keywords:
-- vbapb10.chm7274495
+f1_keywords: vbapb10.chm7274495
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSources
+api_name: Publisher.MailMergeDataSources
 ms.assetid: 9eff8354-fbc3-7f55-ba6e-738a60f41259
 ms.date: 06/08/2017
+ms.openlocfilehash: ccf3d29f25c25d092fbce64dcded797d12ceb20f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasources-object-publisher"></a>Объект MailMergeDataSources (издатель)
 
-
-# MailMergeDataSources Object (Publisher)
-
-Represents the collection of all  **MailMergeDataSource** objects in the active Microsoft Publisher document, each of which represents one of the data sources in a mail merge operation.
+Представляет коллекцию всех объектов **вывода** в активном документе Microsoft Publisher, каждый из которых представляет один из источников данных в ходе операции слияния почты.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The default member of the  **MailMergeDataSources** collection is the **Item** method, which returns the **MailMergeDataSource** object at the index position you specify.
- 
-
- 
-If there is only a single  **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you attempt to get the value of the **DataSources** property of the **MailMergeDataSource** object, Publisher returns an error.
+Элемент по умолчанию коллекции **MailMergeDataSources** — это метод **элемента** , который возвращает объект **вывода** в указанной позиции индекса.
  
 
  
-
-## Example
-
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the  **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
+Если имеется только один объект **вывода** в активном документе, коллекция **MailMergeDataSources** пуста. В этом случае при попытке получить значение свойства **DataSources** объекта **вывода** Publisher возвращает ошибку.
  
 
  
-If one or more data sources is connected, the macro uses the  **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
+
+## <a name="example"></a>Пример
+
+Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как получить имена всех подключенных источников данных в коллекции **MailMergeDataSources** в активный документ. Он используется свойство **IsDataSourceConnected** активного документа для определения, подключен ли в источнике данных.
  
 
  
-If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, it uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
+Если подключение одного или нескольких источников данных, макрос использует свойство **Count** коллекции **MailMergeDataSources** для определения подключенные сколько источников данных.
+ 
+
+ 
+Если подключен только один источник данных, макрос печатает имя этого источника данных в окне **интерпретации** ; Если подключено более одного источника данных, метод **элемента** коллекции **MailMergeDataSources** используется для итерации по коллекции и свойство **Name** объекта **вывода** для печати имя каждого источника данных в окне **интерпретации** .
  
 
  
@@ -84,22 +85,22 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](mailmergedatasources-item-method-publisher.md)|
+|[Элемент](mailmergedatasources-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](mailmergedatasources-application-property-publisher.md)|
+|[Приложения](mailmergedatasources-application-property-publisher.md)|
 |[Count](mailmergedatasources-count-property-publisher.md)|
-|[Creator](mailmergedatasources-creator-property-publisher.md)|
-|[Parent](mailmergedatasources-parent-property-publisher.md)|
+|[Создатель](mailmergedatasources-creator-property-publisher.md)|
+|[Родительский раздел](mailmergedatasources-parent-property-publisher.md)|
 

@@ -1,25 +1,26 @@
 ---
-title: Selection Object (Publisher)
+title: "Объект Selection (издатель)"
 keywords: vbapb10.chm917503
-f1_keywords:
-- vbapb10.chm917503
+f1_keywords: vbapb10.chm917503
 ms.prod: publisher
-api_name:
-- Publisher.Selection
+api_name: Publisher.Selection
 ms.assetid: 1ebee88b-a39e-ea3a-48b0-6205621853af
 ms.date: 06/08/2017
+ms.openlocfilehash: c4c07102dd18279ece643845ce50bf2d46a72673
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="selection-object-publisher"></a>Объект Selection (издатель)
 
-
-# Selection Object (Publisher)
-
-Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one  **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
+Представляет текущего выделения в окне или области. Выбор представляет либо выбранного (или выделенной) области в публикации или представляет указатель, если ничего не в публикации выбрано. Может быть только один объект **выбора** на панели окна публикации, и только один объект **выбора** в всего приложения может быть активным.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[Selection](document-selection-property-publisher.md)** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Publisher returns the selection from the active pane of the active publication window. The following example copies the current selection from the active publication.
+Свойство **[выбора](document-selection-property-publisher.md)** используется для возврата объекта **Selection** . При использовании без описатель объекта со свойством **выбора** Microsoft Publisher возвращает выборку из активной области в окне active публикации. В следующем примере копируется текущего выделения из активной публикации.
  
 
  
@@ -30,7 +31,7 @@ Sub CopySelection()
 End Sub
 ```
 
-The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active pubication.
+В следующем примере определяется, какой тип элемента выбран и, если это автофигуры, заливка первую фигуру в выделение цветом. В этом примере предполагается, что имеется по крайней мере один элемент, выбранный в active pubication.
  
 
  
@@ -46,7 +47,7 @@ Sub SelectedShape()
 End Sub
 ```
 
-The following example copies the selection and pastes it into the first shape on the second page of the active publication.
+В следующем примере копирует выделение и вставляет его в первую фигуру на второй странице active публикации.
  
 
  
@@ -65,23 +66,23 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Unselect](selection-unselect-method-publisher.md)|
+|[Снятие выделения](selection-unselect-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](selection-application-property-publisher.md)|
+|[Приложения](selection-application-property-publisher.md)|
 |[ChildShapeRange](selection-childshaperange-property-publisher.md)|
-|[Parent](selection-parent-property-publisher.md)|
+|[Родительский раздел](selection-parent-property-publisher.md)|
 |[ShapeRange](selection-shaperange-property-publisher.md)|
 |[TableCellRange](selection-tablecellrange-property-publisher.md)|
 |[TextRange](selection-textrange-property-publisher.md)|

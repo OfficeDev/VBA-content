@@ -1,49 +1,50 @@
 ---
-title: Application.PointsToCentimeters Method (Publisher)
+title: "Метод Application.PointsToCentimeters (издатель)"
 keywords: vbapb10.chm131155
-f1_keywords:
-- vbapb10.chm131155
+f1_keywords: vbapb10.chm131155
 ms.prod: publisher
-api_name:
-- Publisher.Application.PointsToCentimeters
+api_name: Publisher.Application.PointsToCentimeters
 ms.assetid: 9a734d3d-78d2-1e27-63b3-2ad1074e16c1
 ms.date: 06/08/2017
+ms.openlocfilehash: f1c4bd11408bb887a235bec200bbf2a653190032
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# Метод Application.PointsToCentimeters (издатель)
+
+Преобразует измерения из точки см (1 cm = 28.35 точек). Возвращает преобразованные измерения как **один**.
 
 
-# Application.PointsToCentimeters Method (Publisher)
+## Синтаксис
 
-Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
+ _выражение_. **PointsToCentimeters** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **PointsToCentimeters**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to centimeters.|
+|Значение|Обязательное свойство.| **Один**|Значение точки для преобразования в см.|
 
-### Return Value
+### Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[CentimetersToPoints](application-centimeterstopoints-method-publisher.md)** method to convert measurements in centimeters to points.
+Один
 
 
-## Example
+## Заметки
 
-This example converts measurements in points entered by the user to measurements in centimeters.
+Используйте метод **[CentimetersToPoints](application-centimeterstopoints-method-publisher.md)** для преобразования измерений в см в пунктах.
+
+
+## Пример
+
+В этом примере выполняется преобразование измерения в пунктах, введенный пользователем измерений в см.
 
 
 ```vb
@@ -70,11 +71,11 @@ Loop
 ```
 
 
-## See also
+## См. также
 
 
-#### Concepts
+#### Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

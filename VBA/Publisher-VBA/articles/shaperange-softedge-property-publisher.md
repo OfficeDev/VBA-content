@@ -1,33 +1,36 @@
 ---
-title: ShapeRange.SoftEdge Property (Publisher)
+title: "Свойство ShapeRange.SoftEdge (издатель)"
 ms.prod: publisher
 ms.assetid: fd8006a9-91f8-6aeb-fa20-d5847122d14f
 ms.date: 06/08/2017
+ms.openlocfilehash: dd9b10e9dc3aa784b1c57d934113af1b6e926631
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangesoftedge-property-publisher"></a>Свойство ShapeRange.SoftEdge (издатель)
+
+Возвращает объект **[SoftEdgeFormat](softedgeformat-object-publisher.md)** , представляющий мягкий край форматирования для диапазона фигур. Только для чтения.
 
 
-# ShapeRange.SoftEdge Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[SoftEdgeFormat](softedgeformat-object-publisher.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
+ _выражение_. **Мягкий край**
 
-
-## Syntax
-
- _expression_. **SoftEdge**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
  **SOFTEDGEFORMAT**
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [ShapeRange Object](shaperange-object-publisher.md)
+ [Объект ShapeRange](shaperange-object-publisher.md)
 

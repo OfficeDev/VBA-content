@@ -1,36 +1,37 @@
 ---
-title: Field.Code Property (Publisher)
+title: "Свойство Field.Code (издатель)"
 keywords: vbapb10.chm6094851
-f1_keywords:
-- vbapb10.chm6094851
+f1_keywords: vbapb10.chm6094851
 ms.prod: publisher
-api_name:
-- Publisher.Field.Code
+api_name: Publisher.Field.Code
 ms.assetid: bb2f3b23-dea1-bdfb-90bf-4b4ea09570f6
 ms.date: 06/08/2017
+ms.openlocfilehash: 1ff4c138ccda3e305550416df5408d6fdd163596
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fieldcode-property-publisher"></a>Свойство Field.Code (издатель)
+
+Возвращает **строку** , представляющую текст, отображаемый при Просмотр страницы имеет значение для отображения кодов полей. Только для чтения.
 
 
-# Field.Code Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **String** that represents the text displayed when the page view is set to show field codes. Read-only.
+ _выражение_. **Код**
 
-
-## Syntax
-
- _expression_. **Code**
-
- _expression_A variable that represents a  **Field** object.
+ переменная _expression_A, представляющий объект **поля** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example loops through all the fields in the active publication, and then displays a message as to whether the string "www" was found in the code of any of the fields.
+В этом примере циклически просматривает все поля в активной публикации и затем отображает сообщение как, чтобы ли строка «www» найден в коде поля.
 
 
 ```vb

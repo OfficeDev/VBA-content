@@ -1,41 +1,42 @@
 ---
-title: Shape.CatalogMergeItems Property (Publisher)
+title: "Свойство Shape.CatalogMergeItems (издатель)"
 keywords: vbapb10.chm5308690
-f1_keywords:
-- vbapb10.chm5308690
+f1_keywords: vbapb10.chm5308690
 ms.prod: publisher
-api_name:
-- Publisher.Shape.CatalogMergeItems
+api_name: Publisher.Shape.CatalogMergeItems
 ms.assetid: 1dcf4ae0-7a18-f1d5-2176-1912c63eefcc
 ms.date: 06/08/2017
+ms.openlocfilehash: 9b7fe17ec6791542e85e2613eb49075049cb8eeb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapecatalogmergeitems-property-publisher"></a>Свойство Shape.CatalogMergeItems (издатель)
+
+Возвращает коллекцию **CatalogMergeShapes** , представляющий фигур, включенные в этой области. Только для чтения.
 
 
-# Shape.CatalogMergeItems Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **CatalogMergeShapes** collection that represents the shapes included in the catalog merge area. Read-only.
+ _выражение_. **CatalogMergeItems**
 
-
-## Syntax
-
- _expression_. **CatalogMergeItems**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 CatalogMergeShapes
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The catalog merge area can contain picture and text data fields you have inserted, in addition to other design elements you choose.
+Область данных может содержать изображения и текст полей данных, вставленных, помимо другие элементы дизайна, выбранное.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests whether any page in the specified publication contains a catalog merge area and, if it does, it returns a list of the shapes it contains.
+Следующий пример проверяет ли любую страницу в указанной публикации содержит область объединения в каталог, и, если это так, он возвращает список фигур, которые он содержит.
 
 
 ```vb

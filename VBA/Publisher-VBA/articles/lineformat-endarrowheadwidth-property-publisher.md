@@ -1,43 +1,44 @@
 ---
-title: LineFormat.EndArrowheadWidth Property (Publisher)
+title: "Свойство LineFormat.EndArrowheadWidth (издатель)"
 keywords: vbapb10.chm3408135
-f1_keywords:
-- vbapb10.chm3408135
+f1_keywords: vbapb10.chm3408135
 ms.prod: publisher
-api_name:
-- Publisher.LineFormat.EndArrowheadWidth
+api_name: Publisher.LineFormat.EndArrowheadWidth
 ms.assetid: 20284d2d-e733-ee26-3c1c-53fd60012a75
 ms.date: 06/08/2017
+ms.openlocfilehash: 50683d2a2622c262bb64b601db5719c56d15cda0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="lineformatendarrowheadwidth-property-publisher"></a>Свойство LineFormat.EndArrowheadWidth (издатель)
+
+Возвращает или задает константой **MsoArrowheadWidth** , указывающее ширину стрелки в конце указанной строке. Чтение и запись.
 
 
-# LineFormat.EndArrowheadWidth Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoArrowheadWidth** constant indicating the width of the arrowhead at the end of the specified line. Read/write.
+ _выражение_. **EndArrowheadWidth**
 
-
-## Syntax
-
- _expression_. **EndArrowheadWidth**
-
- _expression_A variable that represents an  **LineFormat** object.
+ переменная _expression_A, представляющий объект **LineFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoArrowheadWidth
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Use the  **[BeginArrowheadWidth](lineformat-beginarrowheadwidth-property-publisher.md)** property to return or set the width of the arrowhead at the beginning of the line.
+Свойство **[BeginArrowheadWidth](lineformat-beginarrowheadwidth-property-publisher.md)** используется для возвращения или задания ширины стрелки в начале строки.
 
-The  **EndArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+Значение свойства **EndArrowheadWidth** может иметь одно из ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
+В этом примере добавляет строку active публикации. Существует короткий, узкий овал на начальную точку строки и long, широкий треугольник в его конечной точки.
 
 
 ```vb

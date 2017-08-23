@@ -1,43 +1,44 @@
 ---
-title: Options.DefaultPubDirection Property (Publisher)
+title: "Свойство Options.DefaultPubDirection (издатель)"
 keywords: vbapb10.chm1048624
-f1_keywords:
-- vbapb10.chm1048624
+f1_keywords: vbapb10.chm1048624
 ms.prod: publisher
-api_name:
-- Publisher.Options.DefaultPubDirection
+api_name: Publisher.Options.DefaultPubDirection
 ms.assetid: 628352c1-040f-9ab1-d0f1-308b2c26679c
 ms.date: 06/08/2017
+ms.openlocfilehash: 0da5baa3b883318851ae4a88407b5b82af16920d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="optionsdefaultpubdirection-property-publisher"></a>Свойство Options.DefaultPubDirection (издатель)
+
+Возвращает или задает значение константы **PbDirectionType** , представляющий направление по умолчанию, в какой текст создается денежных средств при новой публикации. Чтение и запись.
 
 
-# Options.DefaultPubDirection Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbDirectionType** constant that represents the default direction in which text flows when a new publication is created. Read/write.
+ _выражение_. **DefaultPubDirection**
 
-
-## Syntax
-
- _expression_. **DefaultPubDirection**
-
- _expression_A variable that represents a  **Options** object.
+ переменная _expression_A, представляет собой объект- **Параметры** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbDirectionType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **DefaultPubDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **DefaultPubDirection** может иметь одно из **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
-This property generates an error if you are not running a bi-directional-enabled version of Microsoft Publisher (for example, Arabic).
+Это свойство приводит к ошибке, если не выполняется в бизнес-аналитики обмен сообщениями версии Microsoft Publisher (например, арабский).
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the default direction for new publications and text flow in a bi-directional-enabled version of Publisher.
+В этом примере направление текста по умолчанию для новых публикаций и текста в бизнес-аналитики обмен сообщениями версии Publisher.
 
 
 ```vb

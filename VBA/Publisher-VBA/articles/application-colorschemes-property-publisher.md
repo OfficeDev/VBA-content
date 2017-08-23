@@ -1,36 +1,37 @@
 ---
-title: Application.ColorSchemes Property (Publisher)
+title: "Свойство Application.ColorSchemes (издатель)"
 keywords: vbapb10.chm131080
-f1_keywords:
-- vbapb10.chm131080
+f1_keywords: vbapb10.chm131080
 ms.prod: publisher
-api_name:
-- Publisher.Application.ColorSchemes
+api_name: Publisher.Application.ColorSchemes
 ms.assetid: b991d8a2-d25d-839a-c14a-18cb6d126d33
 ms.date: 06/08/2017
+ms.openlocfilehash: d00046026eadb004b9687ab0814c7960323d8a2f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationcolorschemes-property-publisher"></a>Свойство Application.ColorSchemes (издатель)
+
+Возвращает коллекцию **[ColorSchemes](colorschemes-object-publisher.md)** , представляющий доступные цветовые схемы.
 
 
-# Application.ColorSchemes Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorSchemes](colorschemes-object-publisher.md)** collection that represents the color schemes available.
+ _выражение_. **ColorSchemes**
 
-
-## Syntax
-
- _expression_. **ColorSchemes**
-
- _expression_A variable that represents a  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorSchemes
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example loops through the  **ColorSchemes** collection and displays the name of each color scheme and the RGB value of the color for followed hyperlinks in each scheme.
+В следующем примере коллекции **ColorSchemes** и отображает имя каждого цветовая схема и RGB значение цвета для последующей гиперссылки в каждой схемы.
 
 
 ```vb
@@ -49,11 +50,11 @@ Next cscLoop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

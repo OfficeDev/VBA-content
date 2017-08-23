@@ -1,25 +1,26 @@
 ---
-title: Column Object (Publisher)
+title: "Объект столбца (издатель)"
 keywords: vbapb10.chm5046271
-f1_keywords:
-- vbapb10.chm5046271
+f1_keywords: vbapb10.chm5046271
 ms.prod: publisher
-api_name:
-- Publisher.Column
+api_name: Publisher.Column
 ms.assetid: 7f14fd4f-3919-8dd9-ed1e-988269b4b0c9
 ms.date: 06/08/2017
+ms.openlocfilehash: 1f415537f5bb718f50daeb0f068afce1bc92f019
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="column-object-publisher"></a>Объект столбца (издатель)
 
-
-# Column Object (Publisher)
-
-Represents a single table column. The  **Column** object is a member of the **[Columns](columns-object-publisher.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
+Представляет одного столбца. Объект **столбца** , является участником коллекции **[столбцов](columns-object-publisher.md)** . Коллекция **столбцов** включает все столбцы в таблице, выделения или диапазона.
  
 
 
-## Example
+## <a name="example"></a>Пример
 
-Use  **Columns** (index), where index is the column number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). This example selects column three in the first shape in the active publication. This example assumes the first shape is a table and not another type of shape.
+Используйте **столбцы** (индекс), где индекс — номер столбца, чтобы возвратить объект одного **столбца** . Номер индекса представляет положение столбца в коллекции **столбцов** (начиная с слева направо). В этом примере выбирает три столбца в первой фигуры в активной публикации. В этом примере предполагается, что первой фигуры являются таблицы и не другого типа фигуры.
  
 
  
@@ -30,7 +31,7 @@ Sub SelectColumn()
 End Sub
 ```
 
-Use the  **[Item](columns-item-method-publisher.md)** method of a **[Columns](columns-object-publisher.md)** collection to return a **Column** object. This example enters text into the first cell of the third column of the specified table and formats the text with a bold, 15-point font. This example assumes the first shape is a table and not another type of shape.
+Метод **[Item](columns-item-method-publisher.md)** коллекции **[столбцов](columns-object-publisher.md)** для возврата объекта **столбца** . В этом примере вводит текст в первую ячейку третьего столбца указанную таблицу и форматирования текста с полужирный шрифт точка 15. В этом примере предполагается, что первой фигуры являются таблицы и не другого типа фигуры.
  
 
  
@@ -48,7 +49,7 @@ Sub ColumnHeading()
 End Sub
 ```
 
-Use the  **[Delete](column-delete-method-publisher.md)** method to delete a column from a table. This example deletes the column added in the above example.
+Используйте метод **[Delete](column-delete-method-publisher.md)** для удаления столбца из таблицы. В этом примере удаляется столбцов, добавленных в приведенном выше примере.
  
 
  
@@ -62,7 +63,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -70,14 +71,14 @@ End Sub
 |:-----|
 |[Delete](column-delete-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](column-application-property-publisher.md)|
-|[Cells](column-cells-property-publisher.md)|
-|[Parent](column-parent-property-publisher.md)|
-|[Width](column-width-property-publisher.md)|
+|[Приложения](column-application-property-publisher.md)|
+|[Ячейки](column-cells-property-publisher.md)|
+|[Родительский раздел](column-parent-property-publisher.md)|
+|[Ширина](column-width-property-publisher.md)|
 

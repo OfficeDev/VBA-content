@@ -1,41 +1,42 @@
 ---
-title: LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+title: "Свойство LayoutGuides.VerticalBaseLineSpacing (издатель)"
 keywords: vbapb10.chm1114134
-f1_keywords:
-- vbapb10.chm1114134
+f1_keywords: vbapb10.chm1114134
 ms.prod: publisher
-api_name:
-- Publisher.LayoutGuides.VerticalBaseLineSpacing
+api_name: Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
 ms.date: 06/08/2017
+ms.openlocfilehash: cf72093e97132c3fc0826f97ea413e4f6b485990
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="layoutguidesverticalbaselinespacing-property-publisher"></a>Свойство LayoutGuides.VerticalBaseLineSpacing (издатель)
+
+Возвращает значение типа **одного** , представляющий интервал по вертикали базового на указанный объект **LayoutGuides** . Чтение и запись.
 
 
-# LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Single** that represents the vertical baseline spacing of the specified **LayoutGuides** object. Read/write.
+ _выражение_. **VerticalBaseLineSpacing**
 
-
-## Syntax
-
- _expression_. **VerticalBaseLineSpacing**
-
- _expression_A variable that represents a  **LayoutGuides** object.
+ переменная _expression_A, представляет собой объект- **LayoutGuides** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example sets the vertical baseline spacing of the  **LayoutGuides** object to 12 for the second master page in the active document.
+Установка свойств объекта **страницы** макета руководство должны возвращаться из коллекции **макетом** .
+
+
+## <a name="example"></a>Пример
+
+В этом примере задается интервал по вертикали базового объекта **LayoutGuides** 12 для второй главную страницу в активном документе.
 
 
 ```vb

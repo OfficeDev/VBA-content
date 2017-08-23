@@ -1,45 +1,46 @@
 ---
-title: ShapeRange.Regroup Method (Publisher)
+title: "Метод ShapeRange.Regroup (издатель)"
 keywords: vbapb10.chm2294019
-f1_keywords:
-- vbapb10.chm2294019
+f1_keywords: vbapb10.chm2294019
 ms.prod: publisher
-api_name:
-- Publisher.ShapeRange.Regroup
+api_name: Publisher.ShapeRange.Regroup
 ms.assetid: 29342a78-9425-2356-963c-36a62a7f3091
 ms.date: 06/08/2017
+ms.openlocfilehash: 5ef87654a765cfc52395183a310d8969d796123b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shaperangeregroup-method-publisher"></a>Метод ShapeRange.Regroup (издатель)
+
+Regroups группы, ранее принадлежавшее диапазона указанной фигуры. Возвращает regrouped фигур в виде одного объекта **Shape** .
 
 
-# ShapeRange.Regroup Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **Shape** object.
+ _выражение_. **Сгруппировать**
 
-
-## Syntax
-
- _expression_. **Regroup**
-
- _expression_A variable that represents a  **ShapeRange** object.
+ переменная _expression_A, представляющий объект **ShapeRange** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Regroup** method only restores the group for the first previously grouped shape it finds in the specified **ShapeRange** collection. Therefore, if the specified shape range contains shapes that previously belonged to different groups, only one of the groups will be restored.
+Метод **сгруппировать** только восстанавливает группы для первой ранее сгруппированных фигуры, найденные в указанном семействе **ShapeRange** . Таким образом Если диапазон указанной фигуры содержит фигуры, которые ранее входившее для различных групп, только одну из групп будут восстановлены.
 
-An error occurs if none of the shapes in the specified range were previously members of a group.
+Если ни один из фигур в указанном диапазоне ранее не членов группы, возникает ошибка.
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Так как в группы фигур обрабатывается как одну форму, Группировка и разгруппировка фигур изменения количество элементов в коллекции **фигур** и изменяет номера индекса элементов, следующие за затронутых элементов в коллекции.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example regroups the selected shapes in the active publication. If the shapes haven't been previously grouped and ungrouped, this example will fail.
+В этом примере regroups выбранные фигуры в активной публикации. Если фигуры еще не были ранее сгруппированных и разгруппировать, в этом примере завершится с ошибкой.
 
 
 ```vb

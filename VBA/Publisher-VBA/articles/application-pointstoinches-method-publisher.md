@@ -1,49 +1,50 @@
 ---
-title: Application.PointsToInches Method (Publisher)
+title: "Метод Application.PointsToInches (издатель)"
 keywords: vbapb10.chm131157
-f1_keywords:
-- vbapb10.chm131157
+f1_keywords: vbapb10.chm131157
 ms.prod: publisher
-api_name:
-- Publisher.Application.PointsToInches
+api_name: Publisher.Application.PointsToInches
 ms.assetid: 58bfd9ce-dee7-0a14-8ec1-7e16a5e967d8
 ms.date: 06/08/2017
+ms.openlocfilehash: bb2d2c82657ce66c00e07c9a31cfea01b70df938
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpointstoinches-method-publisher"></a>Метод Application.PointsToInches (издатель)
+
+Преобразует измерения из точки дюйма (1 = 72 точки). Возвращает преобразованные измерения как **один**.
 
 
-# Application.PointsToInches Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Converts a measurement from points to inches (1 in = 72 points). Returns the converted measurement as a  **Single**.
+ _выражение_. **PointsToInches** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **PointsToInches**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to inches.|
+|Значение|Обязательное свойство.| **Один**|Значение точки для преобразования в дюймах.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method to convert measurements in inches to points.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example converts measurements in points entered by the user to measurements in inches.
+Используйте метод **[InchesToPoints не была назначена](application-inchestopoints-method-publisher.md)** для преобразования измерений в дюймах в пунктах.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется преобразование измерения в пунктах, введенный пользователем измерений в дюймах.
 
 
 ```vb
@@ -71,11 +72,11 @@ Loop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

@@ -1,39 +1,40 @@
 ---
-title: Hyperlinks.Item Property (Publisher)
+title: "Свойство Hyperlinks.Item (издатель)"
 keywords: vbapb10.chm6881280
-f1_keywords:
-- vbapb10.chm6881280
+f1_keywords: vbapb10.chm6881280
 ms.prod: publisher
-api_name:
-- Publisher.Hyperlinks.Item
+api_name: Publisher.Hyperlinks.Item
 ms.assetid: 8d288fc6-9ded-5732-b972-6fa366ef31c3
 ms.date: 06/08/2017
+ms.openlocfilehash: 16976a1028d943e3027a509639f43e29804a6c3e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="hyperlinksitem-property-publisher"></a>Свойство Hyperlinks.Item (издатель)
+
+Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-# Hyperlinks.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an individual object from a specified collection. Read-only.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **Hyperlinks** object.
+ переменная _expression_A, представляющий объект **гиперссылки** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the object to return.|
+|Индекс|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the address of the first hyperlink in shape one of the active publication.
+В этом примере отображается адрес гиперссылки в фигуры, один из активных публикации.
 
 
 ```vb

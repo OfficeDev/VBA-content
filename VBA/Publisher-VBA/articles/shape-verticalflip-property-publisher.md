@@ -1,43 +1,44 @@
 ---
-title: Shape.VerticalFlip Property (Publisher)
+title: "Свойство Shape.VerticalFlip (издатель)"
 keywords: vbapb10.chm2228308
-f1_keywords:
-- vbapb10.chm2228308
+f1_keywords: vbapb10.chm2228308
 ms.prod: publisher
-api_name:
-- Publisher.Shape.VerticalFlip
+api_name: Publisher.Shape.VerticalFlip
 ms.assetid: b3c7492f-08ee-8fad-102a-8e2a2f69b969
 ms.date: 06/08/2017
+ms.openlocfilehash: b77847f31d26d7eccc15d1111e168d6b3c3c3a81
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapeverticalflip-property-publisher"></a>Свойство Shape.VerticalFlip (издатель)
+
+Возвращает **msoTrue** , если указанный фигуры отразилось вокруг вертикальной оси. Только для чтения.
 
 
-# Shape.VerticalFlip Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns  **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
+ _выражение_. **VerticalFlip**
 
-
-## Syntax
-
- _expression_. **VerticalFlip**
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Значение свойства может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|The shape has not been flipped around its vertical axis.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTrue**|The shape has been flipped around its vertical axis.|
+| **msoFalse**|Фигура не отразилось вокруг вертикальной оси.|
+| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
+| **msoTrue**|Фигура отразилось вокруг вертикальной оси.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example restores each shape on the active publication to its original state if it has been flipped horizontally or vertically.
+В этом примере восстанавливает исходное состояние каждой фигуры на активной публикации, если его отразилось по горизонтали или по вертикали.
 
 
 ```vb

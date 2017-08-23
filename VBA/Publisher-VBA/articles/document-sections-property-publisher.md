@@ -1,36 +1,37 @@
 ---
-title: Document.Sections Property (Publisher)
+title: "Свойство Document.Sections (издатель)"
 keywords: vbapb10.chm196738
-f1_keywords:
-- vbapb10.chm196738
+f1_keywords: vbapb10.chm196738
 ms.prod: publisher
-api_name:
-- Publisher.Document.Sections
+api_name: Publisher.Document.Sections
 ms.assetid: 9e425836-1d62-99ef-2984-b61f3a3cf831
 ms.date: 06/08/2017
+ms.openlocfilehash: 5546ce18edfe290729d4defb69ab4b524278ca67
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentsections-property-publisher"></a>Свойство Document.Sections (издатель)
+
+Возвращает объект, который **разделах** представляет коллекцию объектов **раздела** в указанный документ. Только для чтения, **разделы**.
 
 
-# Document.Sections Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Sections** object representing a collection of **Section** objects in the specified document. Read-only **Sections**.
+ _выражение_. **Разделы**
 
-
-## Syntax
-
- _expression_. **Sections**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Sections
+Разделы
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets an object variable to the  **Sections** object of the active document and adds a new section starting at the second page of the publication. This example assumes that there are at least two pages in the publication.
+В этом примере задается объектную переменную объекту **разделах** активного документа и добавляет новый раздел, начиная с вторая страница публикации. В этом примере предполагается, что в публикации есть по крайней мере две страницы.
 
 
 ```vb

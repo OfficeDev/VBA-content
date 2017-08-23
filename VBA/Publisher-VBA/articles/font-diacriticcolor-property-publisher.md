@@ -1,36 +1,37 @@
 ---
-title: Font.DiacriticColor Property (Publisher)
+title: "Свойство Font.DiacriticColor (издатель)"
 keywords: vbapb10.chm5374003
-f1_keywords:
-- vbapb10.chm5374003
+f1_keywords: vbapb10.chm5374003
 ms.prod: publisher
-api_name:
-- Publisher.Font.DiacriticColor
+api_name: Publisher.Font.DiacriticColor
 ms.assetid: 6e9c816e-c7ae-c559-6b35-150a5abb820c
 ms.date: 06/08/2017
+ms.openlocfilehash: 2285156f4312872ca10a0649d00e14ce514e86d3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fontdiacriticcolor-property-publisher"></a>Свойство Font.DiacriticColor (издатель)
+
+Возвращает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющий 24-разрядный цвет, используемый для диакритические знаки в публикации языка для письма справа налево.
 
 
-# Font.DiacriticColor Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the 24-bit color used for diacritics in a right-to-left language publication.
+ _выражение_. **DiacriticColor**
 
-
-## Syntax
-
- _expression_. **DiacriticColor**
-
- _expression_A variable that represents a  **Font** object.
+ переменная _expression_A, представляющий объект **Font** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ColorFormat
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example tests the text in the first story of the current publication to see if its color is red and it is formatted right-to-left.
+В этом примере проверяется текст в первой статьи текущей публикации ли красный цвет и форматирования для письма справа налево.
 
 
 ```vb

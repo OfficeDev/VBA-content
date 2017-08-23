@@ -1,32 +1,33 @@
 ---
-title: MailMergeDataFields Object (Publisher)
+title: "Объект MailMergeDataFields (издатель)"
 keywords: vbapb10.chm6422527
-f1_keywords:
-- vbapb10.chm6422527
+f1_keywords: vbapb10.chm6422527
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataFields
+api_name: Publisher.MailMergeDataFields
 ms.assetid: 44ae8a3c-b8a8-fc57-9d02-d71dcffc21ef
 ms.date: 06/08/2017
+ms.openlocfilehash: 54c8ba3306e3ff61b8ead4cb284c34eb408efc7e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatafields-object-publisher"></a>Объект MailMergeDataFields (издатель)
 
-
-# MailMergeDataFields Object (Publisher)
-
-A collection of  **[MailMergeDataField](mailmergedatafield-object-publisher.md)** objects that represent the data fields in a mail merge or catalog merge data source.
+Коллекция объектов **[MailMergeDataField](mailmergedatafield-object-publisher.md)** , представляющих полей данных в источнике данных слияния слияния почты и каталогов.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-You cannot add fields to the  **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection.
+Нельзя добавлять поля в коллекцию **MailMergeDataFields** . При добавлении поля данных в источнике данных, это поле автоматически включается в коллекции **MailMergeDataFields** .
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **[DataFields](mailmergedatasource-datafields-property-publisher.md)** property to return the **MailMergeDataFields** collection.
+Свойство **[DataFields](mailmergedatasource-datafields-property-publisher.md)** используется для возврата коллекции **MailMergeDataFields** .
  
 
  
@@ -34,7 +35,7 @@ Use the  **[DataFields](mailmergedatasource-datafields-property-publisher.md)** 
  
 
  
-The following example displays the field names in the data source attached to the active publication.
+Следующий пример отображает имена полей в источнике данных, подключенного к active публикации.
  
 
  
@@ -52,7 +53,7 @@ Sub ShowFieldNames()
 End Sub
 ```
 
-Use  **DataFields** (index), where index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
+Используйте **DataFields** (индекс), где индекс — это имя поля данных или номер индекса, чтобы получить объект **MailMergeDataField** . Номер индекса представляет позицию поля данных в источнике данных. В этом примере извлекается имя первого поля и значения первой записи поля FirstName в источнике данных, подключенного к active публикации.
  
 
  
@@ -70,22 +71,22 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
-|[Item](mailmergedatafields-item-method-publisher.md)|
+|[Элемент](mailmergedatafields-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](mailmergedatafields-application-property-publisher.md)|
+|[Приложения](mailmergedatafields-application-property-publisher.md)|
 |[Count](mailmergedatafields-count-property-publisher.md)|
-|[Creator](mailmergedatafields-creator-property-publisher.md)|
-|[Parent](mailmergedatafields-parent-property-publisher.md)|
+|[Создатель](mailmergedatafields-creator-property-publisher.md)|
+|[Родительский раздел](mailmergedatafields-parent-property-publisher.md)|
 

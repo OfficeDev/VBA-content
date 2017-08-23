@@ -1,41 +1,42 @@
 ---
-title: WrapFormat.Side Property (Publisher)
+title: "Свойство WrapFormat.Side (издатель)"
 keywords: vbapb10.chm786436
-f1_keywords:
-- vbapb10.chm786436
+f1_keywords: vbapb10.chm786436
 ms.prod: publisher
-api_name:
-- Publisher.WrapFormat.Side
+api_name: Publisher.WrapFormat.Side
 ms.assetid: b7998643-216a-a294-bbee-e5f1947400a7
 ms.date: 06/08/2017
+ms.openlocfilehash: d52aa615c2bd35eccc44c7c831cc66af3f2b7e69
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wrapformatside-property-publisher"></a>Свойство WrapFormat.Side (издатель)
+
+Возвращает или задает значение константы **PbWrapSideType** , которое указывает, следует ли переносить текст вокруг фигуры. Чтение и запись.
 
 
-# WrapFormat.Side Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **PbWrapSideType** constant that indicates whether text should wrap around a shape. Read/write.
+ _выражение_. **Со стороны**
 
-
-## Syntax
-
- _expression_. **Side**
-
- _expression_A variable that represents a  **WrapFormat** object.
+ переменная _expression_A, представляет собой объект- **WrapFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PbWrapSideType
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Side** property value can be one of the **[PbWrapSideType](pbwrapsidetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+Значение свойства **со стороны** может иметь одно из **[PbWrapSideType](pbwrapsidetype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds an oval to the first page of the active publication and specifies that text wrap around both the left and right sides of the oval.
+В этом примере добавляется овала для первой страницы публикации, активных и указывает, что текст окружающей слева и справа овала.
 
 
 ```vb

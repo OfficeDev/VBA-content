@@ -1,44 +1,45 @@
 ---
-title: Shapes.Range Method (Publisher)
+title: "Метод Shapes.Range (издатель)"
 keywords: vbapb10.chm2162725
-f1_keywords:
-- vbapb10.chm2162725
+f1_keywords: vbapb10.chm2162725
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.Range
+api_name: Publisher.Shapes.Range
 ms.assetid: f9ef5314-21f1-378f-1552-fcd4e46f841d
 ms.date: 06/08/2017
+ms.openlocfilehash: 2d82ab78433701c0c450646093e2518118437f0b
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesrange-method-publisher"></a>Метод Shapes.Range (издатель)
+
+Возвращает объект **[ShapeRange](shaperange-object-publisher.md)** , который представляет собой подмножество фигуры в коллекции **фигур** .
 
 
-# Shapes.Range Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represents a subset of the shapes in a **Shapes** collection.
+ _выражение_. **Диапазон** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Range**( **_Index_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the  **Range** method returns all the objects in the specified collection.|
+|Индекс|Обязательное свойство.| **Variant**|Отдельные фигуры, которые должны быть включены в диапазоне. Может быть целое число, указывающее индекс фигуры, string, указывающее имя фигуры или массив, содержащий целых значений или строк. Если индекс указан, метод **диапазона** возвращает все объекты в указанном семействе сайтов.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 ShapeRange
 
 
-## Example
+## <a name="example"></a>Пример
 
-To specify an array of integers or strings for  **_Index_**, you can use the  **Array** function. For example, the following instruction returns two shapes specified by name.
+Чтобы указать массив целых значений или строк для **_индекса_**, можно использовать функцию **массива** . Например следующие инструкции возвращает двумя фигурами, указанный в параметре name.
 
 
 ```vb
@@ -50,7 +51,7 @@ Set shpRange = ActiveDocument.Pages(1) _
  .Shapes.Range(arrShapes)
 ```
 
-This example sets the fill pattern for shapes one and three on the active publication.
+В этом примере задается узор заливки для фигур одним и три active публикацией.
 
 
 
@@ -67,7 +68,7 @@ ActiveDocument.Pages(1).Shapes.Range(Array(1, 3)).Fill _
 
 ```
 
-This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on the first page.
+В этом примере задается узор заливки для фигуры, с именем «Овал 4» и «прямоугольник 5" на первой странице.
 
 
 
@@ -83,7 +84,7 @@ Set shpRange = ActiveDocument.Pages(1).Shapes.Range(arrShapes)
 shpRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for all shapes on the first page.
+В этом примере задается узор заливки для всех фигур на первой странице.
 
 
 
@@ -93,7 +94,7 @@ ActiveDocument.Pages(1).Shapes _
  .Range.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example sets the fill pattern for shape one on the first page.
+В этом примере задается узор заливки для фигуры одно на первой странице.
 
 
 
@@ -106,7 +107,7 @@ Set shpRange = ActiveDocument.Pages(1).Shapes.Range(1)
 shpRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-This example creates an array that contains all the AutoShapes on the first page, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
+В этом примере создается массив, содержащий все автофигуры на первой странице, этот массив используется для определения диапазона фигуры и затем распределяет всех фигур в этот диапазон по горизонтали.
 
 
 

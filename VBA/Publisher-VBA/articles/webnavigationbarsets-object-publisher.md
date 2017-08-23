@@ -1,32 +1,33 @@
 ---
-title: WebNavigationBarSets Object (Publisher)
+title: "Объект WebNavigationBarSets (издатель)"
 keywords: vbapb10.chm8519679
-f1_keywords:
-- vbapb10.chm8519679
+f1_keywords: vbapb10.chm8519679
 ms.prod: publisher
-api_name:
-- Publisher.WebNavigationBarSets
+api_name: Publisher.WebNavigationBarSets
 ms.assetid: 0c4f62c7-b7b2-a7bc-60f8-8097fe99fe58
 ms.date: 06/08/2017
+ms.openlocfilehash: b3985b719f64716c5d2d78baaea4bf1b0fcf68cc
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webnavigationbarsets-object-publisher"></a>Объект WebNavigationBarSets (издатель)
 
-
-# WebNavigationBarSets Object (Publisher)
-
-A collection of all the  **WebNavigationBarSet** objects in the current document. Each **WebNavigationBarSet** represents a Web navigation bar set consisting of hyperlinks.
+Коллекция всех объектов **WebNavigationBarSet** в текущем документе. Каждый **WebNavigationBarSet** представляет панель навигации, набор, состоящий из гиперссылки.
  
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-By default there are two  **WebNavigationBarSet** objects on each Web wizard page; one is text-only and the other is vertical. These objects correspond to the design of the wizard regardless of whether or not a navigation bar is used on the page.
+По умолчанию существует два объекта **WebNavigationBarSet** на каждом веб-странице мастера; один только текст, а другое — вертикальной. Эти объекты соответствуют разработки мастер вне зависимости от того, является ли используемый панели навигации на странице.
  
 
  
 
-## Example
+## <a name="example"></a>Пример
 
-Use the  **WebNavigationBarSets** property of the current document to return a **WebNavigationBarSet** object. The following example sets an object variable to the **WebNavigationBarSets** collection of the active document.
+Возвращает объект **WebNavigationBarSet** , используйте свойство **WebNavigationBarSets** текущего документа. В следующем примере задается переменная объекта в коллекцию **WebNavigationBarSets** активных документов.
  
 
  
@@ -36,7 +37,7 @@ Dim objWebNavBarSets As WebNavigationBarSets
 Set objWebNavBarSets = ActiveDocument.WebNavigationBarSets
 ```
 
-Use  **WebNavigationBarSets** **.Item** (index), where index is the index number, to return a **WebNavigationBarSet** object from the collection. The following example returns the first Web navigation bar set from the **WebNavigationBarSets** collection.
+Используйте **WebNavigationBarSets** **. Элемент** (индекс), где индекс — номер индекса, чтобы возвратить объект **WebNavigationBarSet** из коллекции. В следующем примере возвращается первый панель навигации задайте из коллекции **WebNavigationBarSets** .
  
 
  
@@ -48,7 +49,7 @@ Dim objWebNavBarSet As WebNavigationBarSet
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.Item(1)
 ```
 
-The previous example can also be accomplished using  **WebNavigationBarSets** (index), where index is the index number, to return a **WebNavigationBarSet** object.
+Предыдущий пример также может быть выполнено с помощью **WebNavigationBarSets** (индекс), где индекс — номер индекса, чтобы возвратить объект **WebNavigationBarSet** .
  
 
  
@@ -60,7 +61,7 @@ Dim objWebNavBarSet As WebNavigationBarSet
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets(1)
 ```
 
-The previous example can also be accomplished using  **WebNavigationBarSets** (index) where index is a string indicating the name of the Web navigation bar set to return.
+Предыдущий пример также может быть выполнено с помощью **WebNavigationBarSets** (индекс) где индекса — это строка, указывающая имя панель навигации задать для возвращения.
  
 
  
@@ -72,7 +73,7 @@ Dim objWebNavBarSet As WebNavigationBarSet
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets("WebNavBarSet1")
 ```
 
-Use  **WebNavigationBarSets** **.Count** to return the number of Web navigation bar sets in the collection. This example displays the number of Web navigation bar sets in the current document.
+Используйте **WebNavigationBarSets** **. Число** возвращает число веб-переходе задает панели в коллекции. В этом примере отображается число веб-панель инструментов задает текущего документа.
  
 
  
@@ -84,7 +85,7 @@ MsgBox ActiveDocument.WebNavigationBarSets.Count
 
 ```
 
-Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Left is the distance from the left of the page to the left edge of the navigation bar, Top is the distance form the top of the page to the top edge of the navigation bar, and Width is the width of the navigaion bar, to add the specified navigation bar to every page. The following example adds the navigation bar named "WebNavBar1" to every page in the current publication.
+Используйте **WebNavigationBarSets** **. AddToEveryPage** (слева, сверху, [ширина]), где слева — расстояние от левого края страницы на левой панели навигации, находится на форме расстояние в верхней части страницы по верхнему краю панели навигации и ширина — ширину панели navigaion для добавления на панели навигации, указанный для каждой страницы. В следующем примере добавляется на панели навигации, с именем «WebNavBar1» на все страницы публикации.
  
 
  
@@ -98,22 +99,22 @@ ActiveDocument.WebNavigationBarSets.Item _
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
 |**Name**|
 |:-----|
 |[AddSet](webnavigationbarsets-addset-method-publisher.md)|
-|[Item](webnavigationbarsets-item-method-publisher.md)|
+|[Элемент](webnavigationbarsets-item-method-publisher.md)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
 |**Name**|
 |:-----|
-|[Application](webnavigationbarsets-application-property-publisher.md)|
+|[Приложения](webnavigationbarsets-application-property-publisher.md)|
 |[Count](webnavigationbarsets-count-property-publisher.md)|
-|[Parent](webnavigationbarsets-parent-property-publisher.md)|
+|[Родительский раздел](webnavigationbarsets-parent-property-publisher.md)|
 

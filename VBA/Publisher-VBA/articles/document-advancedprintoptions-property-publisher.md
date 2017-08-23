@@ -1,41 +1,42 @@
 ---
-title: Document.AdvancedPrintOptions Property (Publisher)
+title: "Свойство Document.AdvancedPrintOptions (издатель)"
 keywords: vbapb10.chm196713
-f1_keywords:
-- vbapb10.chm196713
+f1_keywords: vbapb10.chm196713
 ms.prod: publisher
-api_name:
-- Publisher.Document.AdvancedPrintOptions
+api_name: Publisher.Document.AdvancedPrintOptions
 ms.assetid: 33c075e0-f813-9bb4-e199-96e5e9ed4ba8
 ms.date: 06/08/2017
+ms.openlocfilehash: acfb6ecfb03557d5486ca6d79e3e6b0530ea4772
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentadvancedprintoptions-property-publisher"></a>Свойство Document.AdvancedPrintOptions (издатель)
+
+Возвращает объект, представляющий параметры печати для публикации на **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** . Только для чтения.
 
 
-# Document.AdvancedPrintOptions Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an  **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object that represents the advanced print settings for a publication. Read-only.
+ _выражение_. **AdvancedPrintOptions**
 
-
-## Syntax
-
- _expression_. **AdvancedPrintOptions**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 AdvancedPrintOptions
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The properties of the  **AdvancedPrintOptions** object correspond to the options in the **Advanced Print Settings** dialog box.
+Свойства объекта **AdvancedPrintOptions** соответствуют параметрам в диалоговом окне **Дополнительные параметры печати** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests to determine if the active publication has been set to print as separations. If it has, it is set to print only plates for the inks actually used in the publication, and to not print plates for any pages where a color is not used.
+Следующий пример проверяет, чтобы определить, установлено ли active публикации для печати цветоделение. Если Да, оно установлено для печати форм только для красок, используемые в публикации, а также не печатать формы для всех страниц, где не используется цвет.
 
 
 ```vb

@@ -1,51 +1,52 @@
 ---
-title: Shape.GetLeft Method (Publisher)
+title: "Метод Shape.GetLeft (издатель)"
 keywords: vbapb10.chm2228246
-f1_keywords:
-- vbapb10.chm2228246
+f1_keywords: vbapb10.chm2228246
 ms.prod: publisher
-api_name:
-- Publisher.Shape.GetLeft
+api_name: Publisher.Shape.GetLeft
 ms.assetid: e8f28ab3-f9da-eae7-2a21-b8b2505e9b44
 ms.date: 06/08/2017
+ms.openlocfilehash: dc9b760ab4dd8846fcc3b23e649a4cd674f0744f
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapegetleft-method-publisher"></a>Метод Shape.GetLeft (издатель)
+
+Возвращает расстояние от левого края диапазона фигуры или фигуры от левого края самые левые страницы в текущем представлении в виде **одного** в указанных единицах.
 
 
-# Shape.GetLeft Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns the distance of the shape's or shape range's left edge from the left edge of the leftmost page in the current view as a  **Single** in the specified units.
+ _выражение_. **GetLeft** ( **_Единицы_**)
 
-
-## Syntax
-
- _expression_. **GetLeft**( **_Unit_**)
-
- _expression_A variable that represents a  **Shape** object.
+ переменная _expression_A, представляющий объект **фигуры** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Unit|Required| **PbUnitType**|The units in which to return the distance.|
+|Подразделения|Обязательное свойство.| **PbUnitType**|Единицы измерения, в которой требуется получить расстояние.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-The Unit parameter can be one of the  **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
-
-Use the  **[GetTop](shape-gettop-method-publisher.md)** method to return the distance of a shape's or shape range's top edge from the top edge of the leftmost page in the current view.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example displays the distances from the left and top edges of the leftmost page to the left and top edges of shape range consisting of all the shapes on the first page. The distances are expressed in inches (to the nearest hundredth).
+Параметр устройства может иметь одно из **[PbUnitType](pbunittype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+
+Используйте метод **[GetTop](shape-gettop-method-publisher.md)** для возврата расстояние диапазона фигуры или фигуры верхнего края из верхнего края самые левые страницы в текущем представлении.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере показан расстояния слева и верхнему краю самые левые страницы слева и верхнего края диапазона фигуры, состоящий из всех фигур на первой странице. Расстояния выражаются в дюймах (до сотой).
 
 
 ```vb

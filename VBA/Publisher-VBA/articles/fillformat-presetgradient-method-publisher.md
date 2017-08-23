@@ -1,83 +1,54 @@
 ---
-title: FillFormat.PresetGradient Method (Publisher)
+title: "Метод FillFormat.PresetGradient (издатель)"
 keywords: vbapb10.chm2359315
-f1_keywords:
-- vbapb10.chm2359315
+f1_keywords: vbapb10.chm2359315
 ms.prod: publisher
-api_name:
-- Publisher.FillFormat.PresetGradient
+api_name: Publisher.FillFormat.PresetGradient
 ms.assetid: d97c4ce8-5cef-6f53-d0c8-8bcf9ab8bb80
 ms.date: 06/08/2017
+ms.openlocfilehash: a8dc6ceea7ad2653aeaedd5af81cbebe66fb1b24
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformatpresetgradient-method-publisher"></a>Метод FillFormat.PresetGradient (издатель)
+
+Устанавливает указанный заливки предварительно заданного градиента.
 
 
-# FillFormat.PresetGradient Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the specified fill to a preset gradient.
+ _выражение_. **PresetGradient** ( **_Стиль_**, **_Variant_**, **_PresetGradientType_**)
 
-
-## Syntax
-
- _expression_. **PresetGradient**( **_Style_**,  **_Variant_**,  **_PresetGradientType_**)
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Style|Required| **MsoGradientStyle**|The style of the gradient.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
-|PresetGradientType|Required| **MsoPresetGradientType**|The gradient type.|
+|Стиль|Обязательное свойство.| **MsoGradientStyle**|Стиль градиента.|
+|Variant|Обязательное свойство.| **Длинный**|Градиентный variant. Может быть в диапазоне от 1 до 4, соответствующий четырех вариантов на вкладке **градиента** в диалоговом окне **Заливки** . Если стиль **msoGradientFromTitle** или **msoGradientFromCenter**, этот аргумент может быть 1 или 2.|
+|PresetGradientType|Обязательное свойство.| **MsoPresetGradientType**|Тип градиента.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The Style parameter can be one of the  **MsoPresetGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
-
-
-
-| **msoGradientDiagonalDown**|
-| **msoGradientDiagonalUp**|
-| **msoGradientFromCenter**|
-| **msoGradientFromCorner**|
-| **msoGradientFromTitle**|
-| **msoGradientHorizontal**|
-| **msoGradientVertical**|
-The PresetGradientType parameter can be one of the  **MsoPresetGradientType** constants declared in the Microsoft Office type library and shown in the following table.
+Параметр Style может иметь одно из **MsoPresetGradientStyle** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-| **msoGradientBrass**|
-| **msoGradientCalmWater**|
-| **msoGradientChrome**|
-| **msoGradientChromeII**|
-| **msoGradientDaybreak**|
-| **msoGradientDesert**|
-| **msoGradientEarlySunset**|
-| **msoGradientFire**|
-| **msoGradientFog**|
-| **msoGradientGold**|
-| **msoGradientGoldII**|
-| **msoGradientHorizon**|
-| **msoGradientLateSunset**|
-| **msoGradientMahogany**|
-| **msoGradientMoss**|
-| **msoGradientNightfall**|
-| **msoGradientOcean**|
-| **msoGradientParchment**|
-| **msoGradientPeacock**|
-| **msoGradientRainbow**|
-| **msoGradientRainbowII**|
-| **msoGradientSapphire**|
-| **msoGradientSilver**|
-| **msoGradientWheat**|
+| **msoGradientDiagonalDown**|| **msoGradientDiagonalUp**|| **msoGradientFromCenter**|| **msoGradientFromCorner**|| **msoGradientFromTitle**|| **msoGradientHorizontal**|| **msoGradientVertical**| Параметр PresetGradientType может быть одной из констант **MsoPresetGradientType** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
-## Example
 
-This example adds a rectangle with a preset gradient fill to the active publication.
+
+| **msoGradientBrass**|| **msoGradientCalmWater**|| **msoGradientChrome**|| **msoGradientChromeII**|| **msoGradientDaybreak**|| **msoGradientDesert**|| **msoGradientEarlySunset**|| **msoGradientFire**|| **msoGradientFog**|| **msoGradientGold**|| **msoGradientGoldII**|| **msoGradientHorizon**|| **msoGradientLateSunset**|| **msoGradientMahogany**|| **msoGradientMoss**|| **msoGradientNightfall**|| **msoGradientOcean**|| **msoGradientParchment**|| **msoGradientPeacock**|| **msoGradientRainbow**|| **msoGradientRainbowII**|| **msoGradientSapphire**|| **msoGradientSilver**|| **msoGradientWheat**|
+
+## <a name="example"></a>Пример
+
+В этом примере добавляется прямоугольник с предварительно градиентной заливки active публикацию.
 
 
 ```vb

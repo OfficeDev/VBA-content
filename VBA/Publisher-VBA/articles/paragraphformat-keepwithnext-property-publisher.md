@@ -1,43 +1,44 @@
 ---
-title: ParagraphFormat.KeepWithNext Property (Publisher)
+title: "Свойство ParagraphFormat.KeepWithNext (издатель)"
 keywords: vbapb10.chm5439538
-f1_keywords:
-- vbapb10.chm5439538
+f1_keywords: vbapb10.chm5439538
 ms.prod: publisher
-api_name:
-- Publisher.ParagraphFormat.KeepWithNext
+api_name: Publisher.ParagraphFormat.KeepWithNext
 ms.assetid: fb49169d-4718-8ee6-6468-b7cbc8b8a774
 ms.date: 06/08/2017
+ms.openlocfilehash: ca74f092fb6e76a6716f76bd611de974760fc430
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="paragraphformatkeepwithnext-property-publisher"></a>Свойство ParagraphFormat.KeepWithNext (издатель)
+
+Задает или возвращает **MsoTriState** , которое указывает, остается ли следующий абзац в текстовом поле же указанного абзаца. Чтение и запись.
 
 
-# ParagraphFormat.KeepWithNext Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns an  **MsoTriState** that indicates whether the following paragraph will remain in the same text box as the specified paragraph. Read/write.
+ _выражение_. **KeepWithNext**
 
-
-## Syntax
-
- _expression_. **KeepWithNext**
-
- _expression_A variable that represents a  **ParagraphFormat** object.
+ переменная _expression_A, представляет собой объект- **ParagraphFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoTriState
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The purpose of keep with next is to prevent hanging headings in a document. To do, you may set this property to  **msoTrue** for all headings.
+Keep с Далее предназначен для предотвращения длина заголовков в документе. Чтобы сделать, который может этому свойству присвоено значение **msoTrue** для всех заголовков.
 
-The default setting for this property is  **msoFalse**.
+Значение по умолчанию для этого свойства — **msoFalse**.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example sets the  **KeepWithNext** property to **msoTrue** for the specified **ParagraphFormat** object.
+В этом примере задается свойство **KeepWithNext** **msoTrue** для указанного объекта **ParagraphFormat** .
 
 
 ```vb

@@ -1,62 +1,63 @@
 ---
-title: Shapes.AddTextbox Method (Publisher)
+title: "Метод Shapes.AddTextbox (издатель)"
 keywords: vbapb10.chm2162720
-f1_keywords:
-- vbapb10.chm2162720
+f1_keywords: vbapb10.chm2162720
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddTextbox
+api_name: Publisher.Shapes.AddTextbox
 ms.assetid: 38494902-61d5-2017-819e-248b2b7bc0d1
 ms.date: 06/08/2017
+ms.openlocfilehash: b8831350717f248f1169a6f09e53c0c00c41c6ec
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddtextbox-method-publisher"></a>Метод Shapes.AddTextbox (издатель)
+
+Добавляет новый объект **фигуры** , представляющее текстовое поле для указанной коллекции **фигур** .
 
 
-# Shapes.AddTextbox Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing a text box to the specified **Shapes** collection.
+ _выражение_. **AddTextbox** ( **_Ориентация_**, **_слева_**, **_Top_**, **_Ширина_**, **_Высота_**)
 
-
-## Syntax
-
- _expression_. **AddTextbox**( **_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Orientation|Required| **PbTextOrientation**|The orientation of the text box.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the text box.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the text box.|
-|Width|Required| **Variant**|The width of the shape representing the text box.|
-|Height|Required| **Variant**|The height of the shape representing the text box.|
+|Ориентация|Обязательное свойство.| **PbTextOrientation**|Ориентация текстовое поле.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей текстовое поле.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей текстовое поле.|
+|Width|Обязательное свойство.| **Variant**|Ширина фигуры, представляющей текстовое поле.|
+|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей текстовое поле.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the Left, Top, Width, and Height parameters numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+Для параметров слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
 
-The Orientation parameter can be one of the  **PbTextOrientation** constants declared in the Microsoft Publisher type library and shown in the following table.
+Параметр ориентации может иметь одно из **PbTextOrientation** константы объявляются в библиотеке типов Microsoft Publisher и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **pbTextOrientationHorizontal**| A horizontal text box for left-to-right languages.|
-| **pbTextOrientationRightToLeft**|A horizontal text box for right-to-left languages. This value has no effect if a right-to-left language is not selected.|
-| **pbTextOrientationVerticalEastAsia**|A vertical text box for East Asian languages. If a non-East Asian language is selected, text appears rotated 90 degrees to the right.|
+| **pbTextOrientationHorizontal**| Горизонтальная текстовое поле для языков слева направо.|
+| **pbTextOrientationRightToLeft**|Горизонтальная текстовое поле для языков для письма справа налево. Если справа налево язык не установлен, это значение недействительно.|
+| **pbTextOrientationVerticalEastAsia**|Вертикальная текстовое поле для языков Восточной Азии. Если выбрано языков Восточной Азии языка, текст отображается вращение 90 градусов вправо.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a new horizontal text box to the first page of the active publication.
+В следующем примере добавляется новый горизонтальной текстовое поле для первой страницы active публикации.
 
 
 ```vb

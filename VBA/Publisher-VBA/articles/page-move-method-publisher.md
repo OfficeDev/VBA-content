@@ -1,40 +1,41 @@
 ---
-title: Page.Move Method (Publisher)
+title: "Метод Page.Move (издатель)"
 keywords: vbapb10.chm393250
-f1_keywords:
-- vbapb10.chm393250
+f1_keywords: vbapb10.chm393250
 ms.prod: publisher
-api_name:
-- Publisher.Page.Move
+api_name: Publisher.Page.Move
 ms.assetid: 754cfe41-0853-a2cf-59ee-85db68fb871a
 ms.date: 06/08/2017
+ms.openlocfilehash: f7f2cc30c3c6780fa57bdf32f3bf7e904c439ce0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagemove-method-publisher"></a>Метод Page.Move (издатель)
+
+Перемещает указанную страницу к указанному индексу в коллекции **страниц** .
 
 
-# Page.Move Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Moves the specified page to the specified index in the  **Pages** collection.
+ _выражение_. **Перемещение** ( **_Страница_** **_после_**)
 
-
-## Syntax
-
- _expression_. **Move**( **_Page_**,  **_After_**)
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Page|Required| **Long**|The index number of the  **Pages** collection where the specified page will be moved.|
-|After|Optional| **Boolean**| **True** if the page will be inserted after the specified index number of the Pages collection specified by the Page parameter. Deafult is **True**.|
+|Page|Обязательное свойство.| **Длинный**|Номер индекса коллекции **Pages** , где будут перемещены указанной странице.|
+|После|Необязательный| **Boolean**| **Значение true,** Если страница будет вставлена после указанного количества индекса коллекции Pages, указанного с помощью параметра страницы. Deafult имеет **значение True**.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example moves the first page of the publication before the third page of the publication. This example assumes that there are at least three pages in the document.
+В этом примере перемещает первой страницы публикации, прежде чем третьей страницы публикации. В этом примере предполагается, что в документе есть по крайней мере три страницы.
 
 
 ```vb

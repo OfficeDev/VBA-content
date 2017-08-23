@@ -1,40 +1,41 @@
 ---
-title: WebListBoxItems.Selected Method (Publisher)
+title: "Метод WebListBoxItems.Selected (издатель)"
 keywords: vbapb10.chm4128775
-f1_keywords:
-- vbapb10.chm4128775
+f1_keywords: vbapb10.chm4128775
 ms.prod: publisher
-api_name:
-- Publisher.WebListBoxItems.Selected
+api_name: Publisher.WebListBoxItems.Selected
 ms.assetid: 2db3b8cb-2922-1cca-9613-67402772ee27
 ms.date: 06/08/2017
+ms.openlocfilehash: 8ab9d0ee7105a4150e5ef3afc9a7955d3754fba3
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="weblistboxitemsselected-method-publisher"></a>Метод WebListBoxItems.Selected (издатель)
+
+Выбирает или отменяет выбор элемента в элемент управления списка Web.
 
 
-# WebListBoxItems.Selected Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Selects or cancels the selection of an item in a Web list box control.
+ _выражение_. **Выбранные** ( **_Индекса_**, **_SelectState_**)
 
-
-## Syntax
-
- _expression_. **Selected**( **_Index_**,  **_SelectState_**)
-
- _expression_A variable that represents a  **WebListBoxItems** object.
+ переменная _expression_A, представляет собой объект- **WebListBoxItems** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The number of the Web list box item.|
-|SelectState|Required| **Boolean**| **True** to select the list item.|
+|Индекс|Обязательное свойство.| **Длинный**|Номер элемента списка Web.|
+|SelectState|Обязательное свойство.| **Boolean**| **Значение true,** чтобы выбрать элемент списка.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example verifies that an existing Web list box control allows selecting multiple entries and then selects two items in the list.
+В этом примере выполняется проверка, что существующий элемент управления полем списка Web позволяет выбирать несколько записей, а затем выбирает два элемента в списке.
 
 
 ```vb

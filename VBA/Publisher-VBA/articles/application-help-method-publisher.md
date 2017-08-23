@@ -1,53 +1,54 @@
 ---
-title: Application.Help Method (Publisher)
+title: "Метод Application.Help (издатель)"
 keywords: vbapb10.chm131125
-f1_keywords:
-- vbapb10.chm131125
+f1_keywords: vbapb10.chm131125
 ms.prod: publisher
-api_name:
-- Publisher.Application.Help
+api_name: Publisher.Application.Help
 ms.assetid: 37b51399-5897-4003-a0a9-9829a8adf8ed
 ms.date: 06/08/2017
+ms.openlocfilehash: 1c918df0eefcf8d8f5b37dfde65ca7180bb4840c
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationhelp-method-publisher"></a>Метод Application.Help (издатель)
+
+Сведения о интерактивной справки.
 
 
-# Application.Help Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Displays online Help information.
+ _выражение_. **Справка** ( **_HelpType_**)
 
-
-## Syntax
-
- _expression_. **Help**( **_HelpType_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|HelpType|Required| **PbHelpType**|The type of help to display.|
+|HelpType|Обязательное свойство.| **PbHelpType**|Тип справки для отображения.|
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The HelpType parameter can be one of the following  **PbHelpType** constants declared in the Microsoft Publisher type library.
+Параметр HelpType может иметь одно из следующих **PbHelpType** константы, описанные в библиотеке типов, Microsoft Publisher.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **pbHelp**|Displays the  **Help Topics** dialog box.|
-| **pbHelpActiveWindow**|Displays Help describing the command associated with the active view or pane.|
-| **pbHelpPSSHelp**| Displays product support information.|
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+| **pbHelp**|Отображает диалоговое окно **справки** .|
+| **pbHelpActiveWindow**|Отображение справки, описывающие команды, связанные с активным представлением или области.|
+| **pbHelpPSSHelp**| Отображает сведения о поддержке продукта.|
+Некоторые из указанных выше констант могут быть недоступны, в зависимости от языка Английский (США, например), который установлен или установлен.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays a list of topics for troubleshooting printing problems.
+В этом примере отображается список разделов для устранения неполадок печати.
 
 
 ```vb
@@ -57,11 +58,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

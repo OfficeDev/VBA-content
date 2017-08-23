@@ -1,36 +1,37 @@
 ---
-title: ColorCMYK.Cyan Property (Publisher)
+title: "Свойство ColorCMYK.Cyan (издатель)"
 keywords: vbapb10.chm2621443
-f1_keywords:
-- vbapb10.chm2621443
+f1_keywords: vbapb10.chm2621443
 ms.prod: publisher
-api_name:
-- Publisher.ColorCMYK.Cyan
+api_name: Publisher.ColorCMYK.Cyan
 ms.assetid: 47729474-40f4-e336-a92c-62f3ac19ed8f
 ms.date: 06/08/2017
+ms.openlocfilehash: 7ce0fee2cdb62a40e220d598f3ae56242899b1dd
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorcmykcyan-property-publisher"></a>Свойство ColorCMYK.Cyan (издатель)
+
+Задает или возвращает значение типа **Long** , представляющее голубой компонент цвета CMYK. Значение может быть любое число в диапазоне от 0 до 255. Чтение и запись.
 
 
-# ColorCMYK.Cyan Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **Long** that represents the cyan component of a CMYK color. Value can be any number between 0 and 255. Read/write.
+ _выражение_. **Голубой**
 
-
-## Syntax
-
- _expression_. **Cyan**
-
- _expression_A variable that represents a  **ColorCMYK** object.
+ переменная _expression_A, представляет собой объект- **ColorCMYK** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
+В этом примере создается два новых фигур и затем показана цвет заливки CMYK для одной формы и значения CMYK вторую фигуру на те же значения CMYK.
 
 
 ```vb

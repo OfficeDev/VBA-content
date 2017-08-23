@@ -1,36 +1,34 @@
 ---
-title: ConnectorFormat.Type Property (Publisher)
+title: "Свойство ConnectorFormat.Type (издатель)"
 keywords: vbapb10.chm3211526
-f1_keywords:
-- vbapb10.chm3211526
+f1_keywords: vbapb10.chm3211526
 ms.prod: publisher
-api_name:
-- Publisher.ConnectorFormat.Type
+api_name: Publisher.ConnectorFormat.Type
 ms.assetid: 78258632-a37b-6eac-af45-70ffa04357b8
 ms.date: 06/08/2017
+ms.openlocfilehash: 310721457c2fff07868cc5593c07f4a395037234
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="connectorformattype-property-publisher"></a>Свойство ConnectorFormat.Type (издатель)
+
+Возвращает или задает константой **MsoConnectorType** , представляющий тип соединителя. Чтение и запись.
 
 
-# ConnectorFormat.Type Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoConnectorType** constant that represents the connector type. Read/write.
+ _выражение_. **Тип**
 
-
-## Syntax
-
- _expression_. **Type**
-
- _expression_A variable that represents a  **ConnectorFormat** object.
+ переменная _expression_A, представляет собой объект- **ConnectorFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **Type** property value can be one of these **MsoConnectorType** constants.
+Значение свойства **типа** может иметь одно из следующих констант **MsoConnectorType** .
 
 
 
-| **msoConnectorCurve**|
-| **msoConnectorElbow**|
-| **msoConnectorStraight**|
-| **msoConnectorTypeMixed**|
+| **msoConnectorCurve**|| **msoConnectorElbow**|| **msoConnectorStraight**|| **msoConnectorTypeMixed**|
 

@@ -1,41 +1,42 @@
 ---
-title: Page.Background Property (Publisher)
+title: "Свойство Page.Background (издатель)"
 keywords: vbapb10.chm393249
-f1_keywords:
-- vbapb10.chm393249
+f1_keywords: vbapb10.chm393249
 ms.prod: publisher
-api_name:
-- Publisher.Page.Background
+api_name: Publisher.Page.Background
 ms.assetid: 1bba32dc-0e7e-40ca-0f29-b67be6be518d
 ms.date: 06/08/2017
+ms.openlocfilehash: d7d4f96732705795dd2f1452b6d7f85154f0642e
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pagebackground-property-publisher"></a>Свойство Page.Background (издатель)
+
+Задает или возвращает объект **PageBackground** , представляющий фон для указанной страницы.
 
 
-# Page.Background Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets or returns a  **PageBackground** object representing the background of the specified page.
+ _выражение_. **Фон**
 
-
-## Syntax
-
- _expression_. **Background**
-
- _expression_A variable that represents a  **Page** object.
+ переменная _expression_A, представляющий объект **Page** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 PageBackground
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-This property is for publication pages only. Any attempt to create a background for a master page will return a "Permission denied" error.
+Это свойство соответствует публикации только для страниц. Любая попытка создания фон для главной страницы возвратит ошибку «Отказано в разрешении».
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example creates a  **PageBackground** object and sets it to the background of the first page of the active document.
+В следующем примере создается объект **PageBackground** и задает фон первой страницы активных документов.
 
 
 ```vb

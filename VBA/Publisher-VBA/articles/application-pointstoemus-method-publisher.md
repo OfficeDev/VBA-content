@@ -1,49 +1,50 @@
 ---
-title: Application.PointsToEmus Method (Publisher)
+title: "Метод Application.PointsToEmus (издатель)"
 keywords: vbapb10.chm131156
-f1_keywords:
-- vbapb10.chm131156
+f1_keywords: vbapb10.chm131156
 ms.prod: publisher
-api_name:
-- Publisher.Application.PointsToEmus
+api_name: Publisher.Application.PointsToEmus
 ms.assetid: cb3f0bb9-fa0d-d967-9294-081a369c2c4e
 ms.date: 06/08/2017
+ms.openlocfilehash: ddac987710af1aa5719c8276c20bbd8f6796c9a7
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="applicationpointstoemus-method-publisher"></a>Метод Application.PointsToEmus (издатель)
+
+Преобразует измерения из точки emus (12700 emus = 1 пункт). Возвращает преобразованные измерения как **один**.
 
 
-# Application.PointsToEmus Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Converts a measurement from points to emus (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
+ _выражение_. **PointsToEmus** ( **_Значение_**)
 
-
-## Syntax
-
- _expression_. **PointsToEmus**( **_Value_**)
-
- _expression_A variable that represents an  **Application** object.
+ переменная _expression_A, представляющий объект **приложения** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The point value to be converted to emus.|
+|Значение|Обязательное свойство.| **Один**|Значение точки для преобразования в emus.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Single
-
-
-## Remarks
-
-Use the  **[EmusToPoints](application-emustopoints-method-publisher.md)** method to convert measurements in emus to points.
+Один
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-This example converts measurements in points entered by the user to measurements in centimeters.
+Используйте метод **[EmusToPoints](application-emustopoints-method-publisher.md)** для преобразования измерений в emus в пунктах.
+
+
+## <a name="example"></a>Пример
+
+В этом примере выполняется преобразование измерения в пунктах, введенный пользователем измерений в см.
 
 
 ```vb
@@ -71,11 +72,11 @@ Loop
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [Application Object](application-object-publisher.md)
+ [Объект приложения](application-object-publisher.md)
 

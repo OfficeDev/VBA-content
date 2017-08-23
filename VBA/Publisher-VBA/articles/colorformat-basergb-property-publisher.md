@@ -1,36 +1,37 @@
 ---
-title: ColorFormat.BaseRGB Property (Publisher)
+title: "Свойство ColorFormat.BaseRGB (издатель)"
 keywords: vbapb10.chm2555906
-f1_keywords:
-- vbapb10.chm2555906
+f1_keywords: vbapb10.chm2555906
 ms.prod: publisher
-api_name:
-- Publisher.ColorFormat.BaseRGB
+api_name: Publisher.ColorFormat.BaseRGB
 ms.assetid: c8096661-9a5a-2769-fd88-72d38d383095
 ms.date: 06/08/2017
+ms.openlocfilehash: 3614acab7b04ac51a2d54988cf84a8c3d2a6e5d9
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="colorformatbasergb-property-publisher"></a>Свойство ColorFormat.BaseRGB (издатель)
+
+Возвращает или задает константой **MsoRGBType** , который представляет исходный формат цвета RGB перед изменением цвета свойства, такие как оттенок и тени, которые применяются. Чтение и запись.
 
 
-# ColorFormat.BaseRGB Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets an  **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
+ _выражение_. **BaseRGB**
 
-
-## Syntax
-
- _expression_. **BaseRGB**
-
- _expression_A variable that represents a  **ColorFormat** object.
+ переменная _expression_A, представляет собой объект- **ColorFormat** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 MsoRGBType
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a shape, sets the fill color and lightens the color; then it creates a second shape and applies the original RGB color of the first shape to the second shape.
+В этом примере создается фигуры, задает цвет заливки и осветляет цвета; Затем он создает второй фигуры и применение исходного цвета RGB первой фигуры для второй фигуры.
 
 
 ```vb

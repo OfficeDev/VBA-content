@@ -1,33 +1,34 @@
 ---
-title: WizardProperties.Item Property (Publisher)
+title: "Свойство WizardProperties.Item (издатель)"
 keywords: vbapb10.chm1507328
-f1_keywords:
-- vbapb10.chm1507328
+f1_keywords: vbapb10.chm1507328
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperties.Item
+api_name: Publisher.WizardProperties.Item
 ms.assetid: e3f6732f-d093-4ccd-7c20-9fc357c0a8f5
 ms.date: 06/08/2017
+ms.openlocfilehash: 550b5ead55c466c9ad39479b6840e3a041564b31
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardpropertiesitem-property-publisher"></a>Свойство WizardProperties.Item (издатель)
+
+Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-# WizardProperties.Item Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns an individual object from a specified collection. Read-only.
+ _выражение_. **Элемент** ( **_Индекс_**)
 
-
-## Syntax
-
- _expression_. **Item**( **_Index_**)
-
- _expression_A variable that represents a  **WizardProperties** object.
+ переменная _expression_A, представляет собой объект- **WizardProperties** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the object to return.|
+|Item|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
 

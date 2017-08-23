@@ -1,36 +1,38 @@
 ---
-title: ThreeDFormat.BevelTopInset Property (Publisher)
+title: "Свойство ThreeDFormat.BevelTopInset (издатель)"
 keywords: vbapb10.chm3801365
-f1_keywords:
-- vbapb10.chm3801365
+f1_keywords: vbapb10.chm3801365
 ms.prod: publisher
 ms.assetid: d4bdeed9-36e0-1e4d-d881-cfc912a0ed61
 ms.date: 06/08/2017
+ms.openlocfilehash: 9dab698c95c7d9f4cd57b27890f46bfbac6379de
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="threedformatbeveltopinset-property-publisher"></a>Свойство ThreeDFormat.BevelTopInset (издатель)
+
+Возвращает или задает **одного** , которое представляет число уровней в верхней рельефов. Чтение и запись.
 
 
-# ThreeDFormat.BevelTopInset Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Single** that represents the depth of the top bevel. Read/write.
+ _выражение_. **BevelTopInset**
 
-
-## Syntax
-
- _expression_. **BevelTopInset**
-
- _expression_A variable that represents a  **ThreeDFormat** object.
+ переменная _expression_A, представляет собой объект- **ThreeDFormat** .
 
 
-## Return value
+## <a name="return-value"></a>Возвращаемое значение
 
- **Single**
-
-
-## See also
+ **Один**
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [ThreeDFormat Object](threedformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект ThreeDFormat](threedformat-object-publisher.md)
 

@@ -1,79 +1,80 @@
 ---
-title: PbWizardTag Enumeration (Publisher)
+title: "Перечисление PbWizardTag (издатель)"
 keywords: vbapb10.chm65604
-f1_keywords:
-- vbapb10.chm65604
+f1_keywords: vbapb10.chm65604
 ms.prod: publisher
-api_name:
-- Publisher.PbWizardTag
+api_name: Publisher.PbWizardTag
 ms.assetid: 7fbfdb61-e546-ab6f-3a75-6c5a5c30614f
 ms.date: 06/08/2017
+ms.openlocfilehash: 24f6771fe373d7220c7a966d4b16c247ee296dba
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="pbwizardtag-enumeration-publisher"></a>Перечисление PbWizardTag (издатель)
 
-
-# PbWizardTag Enumeration (Publisher)
-
-Indicates the function of a specified shape with respect to its publication design. 
+Указывает функцию указанного фигуры по отношению к его дизайн публикации. 
 
 
 
-|**Name**|**Value**|**Description**|
+|**Имя**|**Значение**|**Описание**|
 |:-----|:-----|:-----|
-| **pbWizardTagAddress**|10|Address|
-| **pbWizardTagAddressGroup**|117|Address Group|
-| **pbWizardTagBriefDescriptionCaption**|1361|Description Caption|
-| **pbWizardTagBriefDescriptionGraphic**|1359|Description Graphic|
-| **pbWizardTagBriefDescriptionSummary**|1353|Description Summary|
-| **pbWizardTagBriefDescriptionSummaryPrimary**|1365|Description Summary Primary|
-| **pbWizardTagBriefDescriptionTitle**|1364|Brief Description Title|
-| **pbWizardTagBusinessDescription**|685|Business Description|
-| **pbWizardTagCustomerMailingAddress**|560|Customer Mailing Address|
-| **pbWizardTagDate**|1835|Tag Date|
-| **pbWizardTagEAPostalCodeBox**|2151|EA Postal Code Box|
-| **pbWizardTagEAPostalCodeGroup**|2150|EA Postal Code Group|
-| **pbWizardTagEAPostalCodeLine**|2152|EA Postal Code Line|
-| **pbWizardTagFloatingGraphicCaption**|1362|Floating Graphic Caption|
-| **pbWizardTagHourTimeDateInformation**|684|Hour Time Date Information|
-| **pbWizardTagJobTitle**|115|Job Title|
-| **pbWizardTagLinkedStoryPrimary**|1354|Linked Primary Story|
-| **pbWizardTagLinkedStorySecondary**|1355|Secondary Story|
-| **pbWizardTagLinkedStoryTertiary**|1356|Linked Story Tertiary|
-| **pbWizardTagList**|1837|List|
-| **pbWizardTagLocation**|488|Location|
-| **pbWizardTagLogoGroup**|5|Logo Group|
-| **pbWizardTagMainFloatingGraphic**|1357|Main Floating Graphic|
-| **pbWizardTagMainGraphic**|1833|Main Graphic|
-| **pbWizardTagMainTitle**|1832|Title|
-| **pbWizardTagMapPicture**|489|Picture|
-| **pbWizardTagMasthead**|1831|Masthead|
-| **pbWizardTagNewsletterTitle**|1344|Newsletter Title|
-| **pbWizardTagOrganizationName**|7|Organization Name|
-| **pbWizardTagOrganizationNameGroup**|118|Organization Name Group|
-| **pbWizardTagPageNumber**|1346|Page Number|
-| **pbWizardTagPersonalName**|8|Personal Name|
-| **pbWizardTagPersonalNameGroup**|116|Personal Name Group|
-| **pbWizardTagPhoneFaxEmail**|113|Phone/Fax/E-mail|
-| **pbWizardTagPhoneFaxEmailGroup**|120|Phone/Fax/E-mail Group|
-| **pbWizardTagPhoneNumber**|114|Phone Number|
-| **pbWizardTagPhotoPlaceholderFrame**|1134|Photo Placeholder Frame|
-| **pbWizardTagPhotoPlaceholderText**|1135|Photo Placeholder Text|
-| **pbWizardTagPublicationDate**|1341|Publication Date|
-| **pbWizardTagQuickPubContent**|2143|Quick Pub Content|
-| **pbWizardTagQuickPubHeading**|2140|Quick Pub Heading|
-| **pbWizardTagQuickPubMessage**|2141|Quick Pub Message|
-| **pbWizardTagQuickPubPicture**|2142|Quick Pub Picture|
-| **pbWizardTagReturnAddressLines**|793|Return Address Lines|
-| **pbWizardTagStampBox**|887|Stamp Box|
-| **pbWizardTagStampBoxOutline**|794|Stamp Box Outline|
-| **pbWizardTagStory**|1349|Story|
-| **pbWizardTagStoryCaptionPrimary**|1351|Caption Primary|
-| **pbWizardTagStoryCaptionSecondary**|1373|Caption Secondary|
-| **pbWizardTagStoryGraphicPrimary**|1350|Graphic Primary|
-| **pbWizardTagStoryGraphicSecondary**|1360|Graphic Secondary|
-| **pbWizardTagStoryTitle**|1348|Story Title|
-| **pbWizardTagTableOfContents**|1343|Table of Contents|
-| **pbWizardTagTableOfContentsTitle**|1342|Table of Contents Title|
-| **pbWizardTagTagLine**|112|Tag Line|
-| **pbWizardTagTagLineGroup**|119|Tag Line Group|
-| **pbWizardTagTime**|1836|Tag Time|
+| **pbWizardTagAddress**|10|Адрес|
+| **pbWizardTagAddressGroup**|117|Группа адресов|
+| **pbWizardTagBriefDescriptionCaption**|1361|Описание заголовка|
+| **pbWizardTagBriefDescriptionGraphic**|1359|Описание рисунка|
+| **pbWizardTagBriefDescriptionSummary**|1353|Описание Сводка|
+| **pbWizardTagBriefDescriptionSummaryPrimary**|1365|Описание основной сводки|
+| **pbWizardTagBriefDescriptionTitle**|1364|Краткое описание заголовка|
+| **pbWizardTagBusinessDescription**|685|Описание бизнеса|
+| **pbWizardTagCustomerMailingAddress**|560|Почтового адреса клиента|
+| **pbWizardTagDate**|1835|Дата тега|
+| **pbWizardTagEAPostalCodeBox**|2151|Поле Почтовый индекс EA|
+| **pbWizardTagEAPostalCodeGroup**|2150|EA почтовый группы кода|
+| **pbWizardTagEAPostalCodeLine**|2152|EA почтовый индекс строки|
+| **pbWizardTagFloatingGraphicCaption**|1362|Перемещаемый рисунок, связанный с заголовка|
+| **pbWizardTagHourTimeDateInformation**|684|Сведения о дате время час|
+| **pbWizardTagJobTitle**|115|Должность|
+| **pbWizardTagLinkedStoryPrimary**|1354|Связанные статьи основной|
+| **pbWizardTagLinkedStorySecondary**|1355|Дополнительной статьи|
+| **pbWizardTagLinkedStoryTertiary**|1356|Связанные статьи третьего уровня|
+| **pbWizardTagList**|1837|Список|
+| **pbWizardTagLocation**|488|Расположение|
+| **pbWizardTagLogoGroup**|5|Эмблема группы|
+| **pbWizardTagMainFloatingGraphic**|1357|Основной перемещаемый рисунок|
+| **pbWizardTagMainGraphic**|1833|Основной рисунок|
+| **pbWizardTagMainTitle**|1832|Название|
+| **pbWizardTagMapPicture**|489|Рисунок|
+| **pbWizardTagMasthead**|1831|Общий заголовок|
+| **pbWizardTagNewsletterTitle**|1344|Заголовок информационный бюллетень|
+| **pbWizardTagOrganizationName**|7|Название организации|
+| **pbWizardTagOrganizationNameGroup**|118|Группа имя организации|
+| **pbWizardTagPageNumber**|1346|Номер страницы|
+| **pbWizardTagPersonalName**|8|Имя|
+| **pbWizardTagPersonalNameGroup**|116|Личный имя группы|
+| **pbWizardTagPhoneFaxEmail**|113|Телефон/факс/электронная почта|
+| **pbWizardTagPhoneFaxEmailGroup**|120|Телефон/факс/электронная почта группы|
+| **pbWizardTagPhoneNumber**|114|Номер телефона|
+| **pbWizardTagPhotoPlaceholderFrame**|1134|Заполнитель Frame фотографий|
+| **pbWizardTagPhotoPlaceholderText**|1135|Фотография замещающий текст|
+| **pbWizardTagPublicationDate**|1341|Дата публикации|
+| **pbWizardTagQuickPubContent**|2143|Быстрый Pub содержимого|
+| **pbWizardTagQuickPubHeading**|2140|Заголовок быстрого Pub|
+| **pbWizardTagQuickPubMessage**|2141|Быстрый Pub сообщения|
+| **pbWizardTagQuickPubPicture**|2142|Быстрый Pub рисунков|
+| **pbWizardTagReturnAddressLines**|793|Обратный адрес строки|
+| **pbWizardTagStampBox**|887|Метка поля|
+| **pbWizardTagStampBoxOutline**|794|Метка поля структуры|
+| **pbWizardTagStory**|1349|Статья|
+| **pbWizardTagStoryCaptionPrimary**|1351|Основной заголовок|
+| **pbWizardTagStoryCaptionSecondary**|1373|Дополнительный заголовок|
+| **pbWizardTagStoryGraphicPrimary**|1350|Рисунок, связанный с основным|
+| **pbWizardTagStoryGraphicSecondary**|1360|Рисунок, связанный с дополнительный|
+| **pbWizardTagStoryTitle**|1348|Название статьи|
+| **pbWizardTagTableOfContents**|1343|Содержание|
+| **pbWizardTagTableOfContentsTitle**|1342|Заголовок содержимого|
+| **pbWizardTagTagLine**|112|Дополнительные сведения|
+| **pbWizardTagTagLineGroup**|119|Группа строке тег|
+| **pbWizardTagTime**|1836|Время тега|
 

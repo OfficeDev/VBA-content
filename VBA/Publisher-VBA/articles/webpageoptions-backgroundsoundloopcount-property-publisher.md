@@ -1,43 +1,44 @@
 ---
-title: WebPageOptions.BackgroundSoundLoopCount Property (Publisher)
+title: "Свойство WebPageOptions.BackgroundSoundLoopCount (издатель)"
 keywords: vbapb10.chm544776
-f1_keywords:
-- vbapb10.chm544776
+f1_keywords: vbapb10.chm544776
 ms.prod: publisher
-api_name:
-- Publisher.WebPageOptions.BackgroundSoundLoopCount
+api_name: Publisher.WebPageOptions.BackgroundSoundLoopCount
 ms.assetid: 34d34a04-5fdb-3d43-9140-fcf10b420efd
 ms.date: 06/08/2017
+ms.openlocfilehash: 6b7aa9b6aa37f566e2c5d346672b50cbf11bcd70
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webpageoptionsbackgroundsoundloopcount-property-publisher"></a>Свойство WebPageOptions.BackgroundSoundLoopCount (издатель)
+
+Возвращает значение типа **Long** , указывает, сколько раз звук фона, подключенного к веб-страницы будет воспроизводиться при загрузке страницы в веб-браузере. Только для чтения.
 
 
-# WebPageOptions.BackgroundSoundLoopCount Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** value that specifies the number of times the background sound attached to a Web page is played when the page is loaded in a Web browser. Read-only.
+ _выражение_. **BackgroundSoundLoopCount**
 
-
-## Syntax
-
- _expression_. **BackgroundSoundLoopCount**
-
- _expression_A variable that represents a  **WebPageOptions** object.
+ переменная _expression_A, представляет собой объект- **WebPageOptions** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
-
-
-## Remarks
-
-The  **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** method can be used to specify the number of times the background sound file is played when the page is loaded. If using the **SetBackgroundSoundRepeat** method to specify the number of times the background file is played, the **BackgroundSoundLoopCount** property will be equal to that specified value. Note that valid values range from 1 to 999, inclusive. Attempting to set this value outside this range will result in a run-time error.
-
-Until the  **SetBackgroundSoundRepeat** method is used to change the number of times the background sound file is played, **BackgroundSoundLoopCount** is 1.
+Длинный
 
 
-## Example
+## <a name="remarks"></a>Заметки
 
-The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopCount** is less than three, the **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated three times. The **BackgroundSoundLoopCount** property will now be three.
+Метод **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** можно использовать для указания количество отправок воспроизведения звукового файла фона при загрузке страницы. Если с помощью метода **SetBackgroundSoundRepeat** , чтобы указать, сколько раз воспроизвести файл фонового, свойство **BackgroundSoundLoopCount** будет равен, заданному значению. Обратите внимание, что допустимые значения в диапазоне от 1 до 999 включительно. При попытке установить это значение за пределами этого диапазона приведет к ошибке времени выполнения.
+
+Пока метод **SetBackgroundSoundRepeat** используется для изменения номера отправок воспроизведения звукового файла фона, **BackgroundSoundLoopCount** равен 1.
+
+
+## <a name="example"></a>Пример
+
+В следующем примере задается фон звука для страницы четыре active веб-публикации для WAV-файл на локальном компьютере. Если **BackgroundSoundLoopCount** меньше, чем три, метод **SetBackgroundSoundRepeat** используется для указания, что звуковое сопровождение повторяться три раза. Свойство **BackgroundSoundLoopCount** будут три.
 
 
 ```vb

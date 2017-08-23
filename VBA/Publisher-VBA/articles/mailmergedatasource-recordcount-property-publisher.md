@@ -1,36 +1,37 @@
 ---
-title: MailMergeDataSource.RecordCount Property (Publisher)
+title: "Свойство MailMergeDataSource.RecordCount (издатель)"
 keywords: vbapb10.chm6291477
-f1_keywords:
-- vbapb10.chm6291477
+f1_keywords: vbapb10.chm6291477
 ms.prod: publisher
-api_name:
-- Publisher.MailMergeDataSource.RecordCount
+api_name: Publisher.MailMergeDataSource.RecordCount
 ms.assetid: 56b929bf-9b7f-dd83-98b7-35bf96028732
 ms.date: 06/08/2017
+ms.openlocfilehash: 2c2037b6678bbd2721d2d28984f34e4026a8110d
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="mailmergedatasourcerecordcount-property-publisher"></a>Свойство MailMergeDataSource.RecordCount (издатель)
+
+Возвращает значение типа **Long** , представляющее количество записей в источнике данных. Только для чтения.
 
 
-# MailMergeDataSource.RecordCount Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the number of records in the data source. Read-only.
+ _выражение_. **RecordCount**
 
-
-## Syntax
-
- _expression_. **RecordCount**
-
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ переменная _expression_A, представляющий объект **вывода** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
-Long
+Длинный
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a 4-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
+В этом примере выполняется проверка индексы в источник данных для пяти цифр. Если длина ПОЧТОВЫЙ индекс составляет менее пяти цифр, записи исключается из процесс слияния почты. В этом примере предполагается, что почтовые индексы являются ПОЧТОВЫЕ индексы США. Можно изменить в этом примере для поиска индексы, содержащие код локатор четырехзначное, добавляется в конец ПОЧТОВЫЙ индекс и затем исключить все записи, не содержащих кода локатор.
 
 
 ```vb

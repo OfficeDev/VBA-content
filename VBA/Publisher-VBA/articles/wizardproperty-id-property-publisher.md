@@ -1,31 +1,32 @@
 ---
-title: WizardProperty.ID Property (Publisher)
+title: "Свойство WizardProperty.ID (издатель)"
 keywords: vbapb10.chm1572867
-f1_keywords:
-- vbapb10.chm1572867
+f1_keywords: vbapb10.chm1572867
 ms.prod: publisher
-api_name:
-- Publisher.WizardProperty.ID
+api_name: Publisher.WizardProperty.ID
 ms.assetid: 2827af5d-d002-029b-7f93-26befe459229
 ms.date: 06/08/2017
+ms.openlocfilehash: cb7a625a7d0444f5ef2c3b3d969d5e03bcb377eb
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="wizardpropertyid-property-publisher"></a>Свойство WizardProperty.ID (издатель)
+
+Возвращает значение типа **Long** , представляющее тип фигуры, диапазона фигур или свойство, тип или значение мастера. Только для чтения.
 
 
-# WizardProperty.ID Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
+ _выражение_. **Идентификатор**
 
-
-## Syntax
-
- _expression_. **ID**
-
- _expression_A variable that represents a  **WizardProperty** object.
+ переменная _expression_A, представляет собой объект- **WizardProperty** .
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example displays the type for each shape on the first page of the active publication.
+В этом примере тип для каждой фигуры на первой странице active публикации.
 
 
 ```vb

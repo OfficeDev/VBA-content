@@ -1,36 +1,37 @@
 ---
-title: WebTextBox.DefaultText Property (Publisher)
+title: "Свойство WebTextBox.DefaultText (издатель)"
 keywords: vbapb10.chm4194307
-f1_keywords:
-- vbapb10.chm4194307
+f1_keywords: vbapb10.chm4194307
 ms.prod: publisher
-api_name:
-- Publisher.WebTextBox.DefaultText
+api_name: Publisher.WebTextBox.DefaultText
 ms.assetid: 348c1bc2-61c9-f89f-5e7a-b73ddaa3d216
 ms.date: 06/08/2017
+ms.openlocfilehash: d0f82bc05557caf4cb3ee05660525b2decf24e15
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="webtextboxdefaulttext-property-publisher"></a>Свойство WebTextBox.DefaultText (издатель)
+
+Возвращает или задает **строку** , представляющую текст по умолчанию в элемент управления текстового поля Web. Чтение и запись.
 
 
-# WebTextBox.DefaultText Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **String** that represents the default text in a Web text box control. Read/write.
+ _выражение_. **DefaultText**
 
-
-## Syntax
-
- _expression_. **DefaultText**
-
- _expression_A variable that represents a  **WebTextBox** object.
+ переменная _expression_A, представляет собой объект- **WebTextBox** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 String
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new Web text box control in the active publication, sets the default text and the character limit for the text box, and specifies that it is a required control.
+В этом примере создается новый элемент управления полем Web текст в активной публикации, задает текст по умолчанию и ограничение количества знаков для текстового поля и указывает, что необходимый элемент управления.
 
 
 ```vb

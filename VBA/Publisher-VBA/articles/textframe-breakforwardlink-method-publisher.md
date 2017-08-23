@@ -1,36 +1,37 @@
 ---
-title: TextFrame.BreakForwardLink Method (Publisher)
+title: "Метод TextFrame.BreakForwardLink (издатель)"
 keywords: vbapb10.chm3866661
-f1_keywords:
-- vbapb10.chm3866661
+f1_keywords: vbapb10.chm3866661
 ms.prod: publisher
-api_name:
-- Publisher.TextFrame.BreakForwardLink
+api_name: Publisher.TextFrame.BreakForwardLink
 ms.assetid: 60a7a798-ebd3-e00d-032d-685dd0d5a042
 ms.date: 06/08/2017
+ms.openlocfilehash: 438f78b71c4fd60e05508d24aed341fad6895253
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="textframebreakforwardlink-method-publisher"></a>Метод TextFrame.BreakForwardLink (издатель)
+
+Прерывается прямая ссылка для frame указанный текст, если существует таких ссылок.
 
 
-# TextFrame.BreakForwardLink Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Breaks the forward link for the specified text frame, if such a link exists.
+ _выражение_. **BreakForwardLink**
 
-
-## Syntax
-
- _expression_. **BreakForwardLink**
-
- _expression_A variable that represents a  **TextFrame** object.
+ переменная _expression_A, представляет собой объект- **TextFrame** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-Applying this method to a shape in the middle of a chain of shapes with linked text frames will break the chain, leaving two sets of linked shapes. All of the text, however, will remain in the first series of linked shapes.
+Этот метод для применения к фигуры середину цепочки фигур с помощью связанных текстовых кадров разрываются цепочки, отправляемых из двух наборов связанные фигуры. Весь текст, тем не менее, останутся первого ряда связанные фигуры.
 
 
-## Example
+## <a name="example"></a>Пример
 
-This example creates a new publication, adds a chain of three linked text boxes to it, and then breaks the link after the second text box.
+В этом примере создается новая публикация, добавляет цепочки три связанных текстовых полей и затем нарушает связь после вторым текстовым полем.
 
 
 ```vb

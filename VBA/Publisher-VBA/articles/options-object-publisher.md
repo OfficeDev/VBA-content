@@ -1,24 +1,25 @@
 ---
-title: Options Object (Publisher)
+title: "Объект параметров (издатель)"
 keywords: vbapb10.chm1114111
-f1_keywords:
-- vbapb10.chm1114111
+f1_keywords: vbapb10.chm1114111
 ms.prod: publisher
-api_name:
-- Publisher.Options
+api_name: Publisher.Options
 ms.assetid: 2554cd33-9d94-2622-6fab-19ca33d5a561
 ms.date: 06/08/2017
+ms.openlocfilehash: e790a9f8de0e95d6c38434d575f61973039c13e0
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="options-object-publisher"></a>Объект параметров (издатель)
+
+Представляет параметры приложения и публикации в Microsoft Publisher. Многие из свойств для объекта **Параметры** соответствуют элементам в диалоговое окно " **Параметры** " (меню " **Сервис** ").
 
 
-# Options Object (Publisher)
+## <a name="example"></a>Пример
 
-Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box ( **Tools** menu).
-
-
-## Example
-
-Use the  **[Options](http://msdn.microsoft.com/library/999f208a-02e6-49fb-c9a0-42aa97c5e37e%28Office.15%29.aspx)** property to return the **Options** object. The following example sets four application options for Publisher.
+Используйте свойство **[параметров](http://msdn.microsoft.com/library/999f208a-02e6-49fb-c9a0-42aa97c5e37e%28Office.15%29.aspx)** для возврата объекта **Options** . В следующем примере задается четыре параметры приложений для Publisher.
 
 
 ```
@@ -33,7 +34,7 @@ End Sub
 ```
 
 
-## Methods
+## <a name="methods"></a>Методы
 
 
 
@@ -42,7 +43,7 @@ End Sub
 |[ResetTips](http://msdn.microsoft.com/library/a119aacc-ba19-f430-e8af-6d84c438ec25%28Office.15%29.aspx)|
 |[ResetWizardSynchronizing](http://msdn.microsoft.com/library/1027a113-45aa-b722-b625-a6bb7bbcc3e6%28Office.15%29.aspx)|
 
-## Properties
+## <a name="properties"></a>Properties
 
 
 
@@ -50,7 +51,7 @@ End Sub
 |:-----|
 |[AddHebDoubleQuote](http://msdn.microsoft.com/library/9c71b52e-0273-7ca9-1f50-5beed65c2e73%28Office.15%29.aspx)|
 |[AllowBackgroundSave](http://msdn.microsoft.com/library/5bddfb2d-7fb7-99db-43ea-c6ee53e1d0b3%28Office.15%29.aspx)|
-|[Application](http://msdn.microsoft.com/library/06336d0e-18c8-f364-7911-1749d125d638%28Office.15%29.aspx)|
+|[Приложения](http://msdn.microsoft.com/library/06336d0e-18c8-f364-7911-1749d125d638%28Office.15%29.aspx)|
 |[AutoFormatWord](http://msdn.microsoft.com/library/b0466bd7-f0a1-44a8-480f-5d046e24e759%28Office.15%29.aspx)|
 |[AutoHyphenate](http://msdn.microsoft.com/library/821d0540-80ec-9f9d-777e-4d2596baf7d7%28Office.15%29.aspx)|
 |[AutoKeyboardSwitching](http://msdn.microsoft.com/library/05f22aa6-332d-e033-ab9d-550eb08f1018%28Office.15%29.aspx)|
@@ -61,7 +62,7 @@ End Sub
 |[DragAndDropText](http://msdn.microsoft.com/library/55fb68e8-4ddc-6866-00d8-bdd6a1e25ec3%28Office.15%29.aspx)|
 |[HyphenationZone](http://msdn.microsoft.com/library/ed0e90de-4a2a-3c8a-27f1-e8c7c1f0e174%28Office.15%29.aspx)|
 |[MeasurementUnit](http://msdn.microsoft.com/library/49221e4e-c84a-6706-8f9a-3853283ebb18%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/96b43655-699c-96cc-bfc9-14199619b699%28Office.15%29.aspx)|
+|[Родительский раздел](http://msdn.microsoft.com/library/96b43655-699c-96cc-bfc9-14199619b699%28Office.15%29.aspx)|
 |[PathForPictures](http://msdn.microsoft.com/library/e66c8c86-f049-0f32-0a0d-60fd37470708%28Office.15%29.aspx)|
 |[PathForPublications](http://msdn.microsoft.com/library/d33d5eab-eb52-b533-8968-31ddb5e12d99%28Office.15%29.aspx)|
 |[SaveAutoRecoverInfo](http://msdn.microsoft.com/library/1cbb7960-8995-37f4-5989-01b97152269f%28Office.15%29.aspx)|

@@ -1,39 +1,40 @@
 ---
-title: View.ScrollShapeIntoView Method (Publisher)
+title: "Метод View.ScrollShapeIntoView (издатель)"
 keywords: vbapb10.chm327685
-f1_keywords:
-- vbapb10.chm327685
+f1_keywords: vbapb10.chm327685
 ms.prod: publisher
-api_name:
-- Publisher.View.ScrollShapeIntoView
+api_name: Publisher.View.ScrollShapeIntoView
 ms.assetid: 1d654fd4-d3b8-49e4-731d-fed27e6e0d8d
 ms.date: 06/08/2017
+ms.openlocfilehash: 8670a38b8fea306a31aebb990d973f8e9885a2ee
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="viewscrollshapeintoview-method-publisher"></a>Метод View.ScrollShapeIntoView (издатель)
+
+Прокрутка окна публикации для отображения указанного фигуры в окне Публикация или области.
 
 
-# View.ScrollShapeIntoView Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Scrolls the publication window so that the specified shape is displayed in the publication window or pane.
+ _выражение_. **ScrollShapeIntoView** ( **_Фигуры_**)
 
-
-## Syntax
-
- _expression_. **ScrollShapeIntoView**( **_Shape_**)
-
- _expression_A variable that represents a  **View** object.
+ переменная _expression_A, представляющий объект **View** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|Shape|Required| **Shape**|The shape to scroll into view.|
+|Shape|Обязательное свойство.| **Фигура**|Фигура появится в представлении.|
 
-## Example
+## <a name="example"></a>Пример
 
-This example adds a shape to a new page and scrolls the current view to the new shape.
+В этом примере добавляется фигура на новую страницу и прокрутка текущего представления на новую фигуру.
 
 
 ```vb

@@ -1,43 +1,44 @@
 ---
-title: Document.BorderArts Property (Publisher)
+title: "Свойство Document.BorderArts (издатель)"
 keywords: vbapb10.chm196721
-f1_keywords:
-- vbapb10.chm196721
+f1_keywords: vbapb10.chm196721
 ms.prod: publisher
-api_name:
-- Publisher.Document.BorderArts
+api_name: Publisher.Document.BorderArts
 ms.assetid: 5639ffce-f711-71b6-78f8-2de63fe50a3c
 ms.date: 06/08/2017
+ms.openlocfilehash: 137071883d12c4d19226fb34cb200d48932d59b6
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="documentborderarts-property-publisher"></a>Свойство Document.BorderArts (издатель)
+
+Возвращает коллекцию **[BorderArts](borderarts-object-publisher.md)** , представляющий Узорные типы, доступные для использования в указанной публикации. Только для чтения.
 
 
-# Document.BorderArts Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns a  **[BorderArts](borderarts-object-publisher.md)** collection that represents the BorderArt types available for use in the specified publication. Read-only.
+ _выражение_. **BorderArts**
 
-
-## Syntax
-
- _expression_. **BorderArts**
-
- _expression_A variable that represents a  **Document** object.
+ переменная _expression_A, представляющий объект **Document** .
 
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 BorderArts
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-BorderArt are picture borders that can be applied to text boxes, picture frames, or rectangles. 
+Узорные, границы изображения, которые можно применять для текстовых полей, рамки рисунков или прямоугольники. 
 
-The  **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
+Коллекция **BorderArts** включает все пользовательские типы Узорные, создаваемые пользователем для указанной публикации.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example returns the BorderArts collection and lists the names of all the BorderArt types available for use in the active publication.
+В следующем примере возвращается коллекция BorderArts и перечислены имена всех типов Узорные, доступных для использования в активной публикации.
 
 
 ```vb

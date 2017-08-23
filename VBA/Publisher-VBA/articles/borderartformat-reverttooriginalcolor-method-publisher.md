@@ -1,38 +1,39 @@
 ---
-title: BorderArtFormat.RevertToOriginalColor Method (Publisher)
+title: "Метод BorderArtFormat.RevertToOriginalColor (издатель)"
 keywords: vbapb10.chm7602192
-f1_keywords:
-- vbapb10.chm7602192
+f1_keywords: vbapb10.chm7602192
 ms.prod: publisher
-api_name:
-- Publisher.BorderArtFormat.RevertToOriginalColor
+api_name: Publisher.BorderArtFormat.RevertToOriginalColor
 ms.assetid: 6b966576-eac4-3e55-ffdc-c064341474c0
 ms.date: 06/08/2017
+ms.openlocfilehash: 72a761d43629f30e9b2694ac2b773caf1ed7da97
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="borderartformatreverttooriginalcolor-method-publisher"></a>Метод BorderArtFormat.RevertToOriginalColor (издатель)
+
+Задает Узорные указанные форму обратно в его цвет по умолчанию.
 
 
-# BorderArtFormat.RevertToOriginalColor Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Sets the BorderArt on the specified shape back to its default color.
+ _выражение_. **RevertToOriginalColor**
 
-
-## Syntax
-
- _expression_. **RevertToOriginalColor**
-
- _expression_A variable that represents a  **BorderArtFormat** object.
+ переменная _expression_A, представляет собой объект- **BorderArtFormat** .
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-The  **RevertToOriginalColor** method has the same effect as the **Default** selection on the **Color** control on the **Format <Shape&gt;** dialog box.
+Метод **RevertToOriginalColor** имеет тот же эффект, как выбор **по умолчанию** на элемент управления **цвета** **Формат < фигуры&gt; ** диалоговое окно.
 
-Use the  **[Color](borderartformat-color-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the BorderArt to a color other than the original color.
+Используйте свойство **[цвет](borderartformat-color-property-publisher.md)** объекта **[BorderArtFormat](borderartformat-object-publisher.md)** Установка Узорные цвет, отличный от исходного цвета.
 
 
-## Example
+## <a name="example"></a>Пример
 
-The following example tests for the existence of BorderArt on each shape for each page of the active document. If BorderArt exists, its weight is set to the default thickness and original color.
+Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы активных документов. Если существует Узорные его вес задано значение по умолчанию толщина и исходный цвет.
 
 
 ```vb
@@ -55,11 +56,11 @@ End Sub
 ```
 
 
-## See also
+## <a name="see-also"></a>См. также
 
 
-#### Concepts
+#### <a name="concepts"></a>Основные понятия
 
 
- [BorderArtFormat Object](borderartformat-object-publisher.md)
+ [Объект BorderArtFormat](borderartformat-object-publisher.md)
 

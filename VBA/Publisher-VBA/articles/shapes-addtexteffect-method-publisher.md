@@ -1,78 +1,79 @@
 ---
-title: Shapes.AddTextEffect Method (Publisher)
+title: "Метод Shapes.AddTextEffect (издатель)"
 keywords: vbapb10.chm2162721
-f1_keywords:
-- vbapb10.chm2162721
+f1_keywords: vbapb10.chm2162721
 ms.prod: publisher
-api_name:
-- Publisher.Shapes.AddTextEffect
+api_name: Publisher.Shapes.AddTextEffect
 ms.assetid: 21af82f1-d507-3c16-72df-bde1b5e00717
 ms.date: 06/08/2017
+ms.openlocfilehash: acc360ff465d9813eda8b8ddca5cab124467a254
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="shapesaddtexteffect-method-publisher"></a>Метод Shapes.AddTextEffect (издатель)
+
+Добавление нового объекта **Shape** , представляющий объект WordArt определенной коллекции **фигур** .
 
 
-# Shapes.AddTextEffect Method (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Adds a new  **Shape** object representing a WordArt object to the specified **Shapes** collection.
+ _выражение_. **AddTextEffect** ( **_PresetTextEffect_**, **_текст_**, **_FontName_**, **_FontSize_**, **_FontBold_**, **_FontItalic_**, **_слева_**, **_в начало_**)
 
-
-## Syntax
-
- _expression_. **AddTextEffect**( **_PresetTextEffect_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
-
- _expression_A variable that represents a  **Shapes** object.
+ переменная _expression_A, представляет собой объект- **фигур** .
 
 
-### Parameters
+### <a name="parameters"></a>Параметры
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
 |:-----|:-----|:-----|:-----|
-|PresetTextEffect|Required| **MsoPresetTextEffect**|The preset text effect to use. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
-|Text|Required| **String**|The text to use for the WordArt object.|
-|FontName|Required| **String**|The name of the font to use for the WordArt object.|
-|FontSize|Required| **Variant**|The font size to use for the WordArt object. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
-|FontBold|Required| **MsoTriState**|Determines whether to format the WordArt text as bold.|
-|FontItalic|Required| **MsoTriState**|Determines whether to format the WordArt text as italic.|
-|Left|Required| **Variant**|The position of the left edge of the shape representing the WordArt object.|
-|Top|Required| **Variant**|The position of the top edge of the shape representing the WordArt object.|
+|PresetTextEffect|Обязательное свойство.| **MsoPresetTextEffect**|Влияние предварительно текст для использования. Значения константы **MsoPresetTextEffect** соответствуют форматы, перечисленные в диалоговом окне **Коллекция WordArt** (нумерованные слева направо и сверху вниз).|
+|Text|Обязательное свойство.| **String**|Текст, который используется для объекта WordArt.|
+|FontName|Обязательное свойство.| **String**|Имя шрифта, используемого для объекта WordArt.|
+|FontSize|Обязательное свойство.| **Variant**|Размер шрифта для объекта WordArt. Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).|
+|FontBold|Обязательное свойство.| **MsoTriState**|Определяет, следует ли для форматирования текста WordArt как полужирным шрифтом.|
+|FontItalic|Обязательное свойство.| **MsoTriState**|Определяет, следует ли для форматирования текста WordArt как курсив.|
+|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющий объект WordArt.|
+|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющий объект WordArt.|
 
-### Return Value
+### <a name="return-value"></a>Возвращаемое значение
 
 Shape
 
 
-## Remarks
+## <a name="remarks"></a>Заметки
 
-For the Left and Top parameters, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
+Для параметров Left и Top числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Publisher (например, «2,5 дюйма»).
 
-The height and width of the WordArt object is determined by its text and formatting.
+Высота и ширина объекта WordArt определяется его текста и форматирования.
 
-Use the  **[TextEffect](shape-texteffect-property-publisher.md)** property to return a **[TextEffectFormat](texteffectformat-object-publisher.md)** object whose properties can be used to edit an existing WordArt object.
+Свойство **[TextEffect](shape-texteffect-property-publisher.md)** используется для возврата объекта **[TextEffectFormat](texteffectformat-object-publisher.md)** , свойства которого может использоваться для изменения существующего объекта WordArt.
 
-The PresetTextEffect parameter can be one of the  ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library. The **msoTextEffectMixed** constant is not supported.
+Параметр PresetTextEffect может иметь одно из ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office. Константа **msoTextEffectMixed** не поддерживается.
 
-The FontBold parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+Параметр FontBold может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**|Do not format the WordArt text as bold.|
-| **msoTrue**|Format the WordArt text as bold.|
-The FontItalic parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+| **msoFalse**|Не форматировать текст WordArt в качестве полужирным шрифтом.|
+| **msoTrue**|Отформатируйте текст WordArt в качестве полужирным шрифтом.|
+Параметр FontItalic может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
 
 
 
-|**Constant**|**Description**|
+|**Константы**|**Описание**|
 |:-----|:-----|
-| **msoFalse**| Do not format the WordArt text as italic.|
-| **msoTrue**|Format the WordArt text as italic.|
+| **msoFalse**| Не формат текста WordArt курсив.|
+| **msoTrue**|Формат текста WordArt курсив.|
 
-## Example
+## <a name="example"></a>Пример
 
-The following example adds a WordArt object to the first page of the active publication.
+Следующий пример добавляет объект WordArt первой страницы active публикации.
 
 
 ```vb

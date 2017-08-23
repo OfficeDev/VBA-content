@@ -1,43 +1,45 @@
 ---
-title: FillFormat.TextureOffsetX Property (Publisher)
+title: "Свойство FillFormat.TextureOffsetX (издатель)"
 keywords: vbapb10.chm2359573
-f1_keywords:
-- vbapb10.chm2359573
+f1_keywords: vbapb10.chm2359573
 ms.prod: publisher
 ms.assetid: 8023af14-0155-0387-9af7-5f7a8ea557b4
 ms.date: 06/08/2017
+ms.openlocfilehash: ca15773068dce43ab30c4fa107aed444ca8fa2a4
+ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/26/2017
 ---
+# <a name="fillformattextureoffsetx-property-publisher"></a>Свойство FillFormat.TextureOffsetX (издатель)
+
+Возвращает или задает типа **Long** , указывающее горизонтальное смещение текстуры из источника в пунктах. Чтение и запись.
 
 
-# FillFormat.TextureOffsetX Property (Publisher)
+## <a name="syntax"></a>Синтаксис
 
-Returns or sets a  **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
+ _выражение_. **TextureOffsetX**
 
-
-## Syntax
-
- _expression_. **TextureOffsetX**
-
- _expression_A variable that represents a  **FillFormat** object.
+ переменная _expression_A, представляет собой объект- **FillFormat** .
 
 
-## Property value
+## <a name="property-value"></a>Значение свойства
 
- **FLOAT**
-
-
-## Remarks
-
-The position of the origin is determined by the setting of the  [TextureAlignment](fillformat-texturealignment-property-publisher.md) property.
-
-The setting of the  **TextureOffsetX** property corresponds to the setting of the **Offset X** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface (under **Drawing Tools**, on the  **Format** tab, click **Shape Fill**, point to  **Texture**, and then click  **More Textures**.)
+ Позволяет явно задавать тип числовых значений.
 
 
-## See also
+## <a name="remarks"></a>Заметки
+
+Положение происхождения определяет, какие свойства [TextureAlignment](fillformat-texturealignment-property-publisher.md) .
+
+Параметр свойства **TextureOffsetX** соответствует параметру поля **Смещение X** в области **заполнения** диалогового окна **Формат фигуры** в пользовательском интерфейсе Publisher (в разделе **Средства рисования**на вкладке **Формат** выберите **Заливки фигуры**, выберите пункт **текстуры**и нажмите кнопку **Дополнительно текстуры**.)
 
 
-#### Concepts
+## <a name="see-also"></a>См. также
 
 
- [FillFormat Object](fillformat-object-publisher.md)
+#### <a name="concepts"></a>Основные понятия
+
+
+ [Объект FillFormat](fillformat-object-publisher.md)
 
