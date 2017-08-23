@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "docs/howto/azure-ad-reports-and-events-preview.md",
+            "redirect_url": "https://docs.microsoft.com/azure/active-directory/active-directory-reporting-api-getting-started-azure-portal",
+            "redirect_document_id": false
+        },
+    ]
+}
