@@ -1,37 +1,36 @@
 ---
-title: "Свойство PictureFormat.HasTransparencyColor (издатель)"
+title: PictureFormat.HasTransparencyColor Property (Publisher)
 keywords: vbapb10.chm3604789
-f1_keywords: vbapb10.chm3604789
+f1_keywords:
+- vbapb10.chm3604789
 ms.prod: publisher
-api_name: Publisher.PictureFormat.HasTransparencyColor
+api_name:
+- Publisher.PictureFormat.HasTransparencyColor
 ms.assetid: 2e6066e8-60b0-c33e-0bb0-1b6f83208fd0
 ms.date: 06/08/2017
-ms.openlocfilehash: 1455e1c07092c70251392019adcd146b8898e6b1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformathastransparencycolor-property-publisher"></a>Свойство PictureFormat.HasTransparencyColor (издатель)
-
-Возвращает значение **типа Boolean** , которое указывает, применяется ли цвет прозрачность для указанного изображения. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.HasTransparencyColor Property (Publisher)
 
- _выражение_. **HasTransparencyColor**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Returns a  **Boolean** that indicates whether a transparency color has been applied to the specified picture. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **HasTransparencyColor**
+
+ _expression_A variable that represents a  **PictureFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере возвращается список изображений с прозрачность цвета в активной публикации.
+Boolean
+
+
+## Example
+
+The following example returns a list of the pictures with transparency colors in the active publication.
 
 
 ```vb

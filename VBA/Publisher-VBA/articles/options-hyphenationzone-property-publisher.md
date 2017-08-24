@@ -1,37 +1,36 @@
 ---
-title: "Свойство Options.HyphenationZone (издатель)"
+title: Options.HyphenationZone Property (Publisher)
 keywords: vbapb10.chm1048593
-f1_keywords: vbapb10.chm1048593
+f1_keywords:
+- vbapb10.chm1048593
 ms.prod: publisher
-api_name: Publisher.Options.HyphenationZone
+api_name:
+- Publisher.Options.HyphenationZone
 ms.assetid: ed0e90de-4a2a-3c8a-27f1-e8c7c1f0e174
 ms.date: 06/08/2017
-ms.openlocfilehash: c7c71597ca57546043d0d648828ead08a12b6f89
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="optionshyphenationzone-property-publisher"></a>Свойство Options.HyphenationZone (издатель)
-
-Возвращает или задает **Variant** , который представляет максимальный объем пространства, который Microsoft Publisher оставляет между окончания последнего слова в строке и правого поля. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Options.HyphenationZone Property (Publisher)
 
- _выражение_. **HyphenationZone**
-
- переменная _expression_A, представляет собой объект- **Параметры** .
+Returns or sets a  **Variant** that represents the maximum amount of space that Microsoft Publisher leaves between the end of the last word in a line and the right margin. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HyphenationZone**
+
+ _expression_A variable that represents a  **Options** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере показано включение автоматической расстановки переносов и указывает максимальный объем пространства между окончания последнего слова и правого поля, равное 1 дюйм (72 точки).
+This example turns on automatic hyphenation and specifies the maximum amount of space between the end of the last word and the right margin equal to one inch (72 points).
 
 
 ```vb

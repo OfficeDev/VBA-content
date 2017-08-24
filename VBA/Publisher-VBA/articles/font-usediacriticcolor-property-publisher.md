@@ -1,50 +1,49 @@
 ---
-title: "Свойство Font.UseDiacriticColor (издатель)"
+title: Font.UseDiacriticColor Property (Publisher)
 keywords: vbapb10.chm5374002
-f1_keywords: vbapb10.chm5374002
+f1_keywords:
+- vbapb10.chm5374002
 ms.prod: publisher
-api_name: Publisher.Font.UseDiacriticColor
+api_name:
+- Publisher.Font.UseDiacriticColor
 ms.assetid: 368d3599-b0b0-1790-0ce0-13f1936bccb0
 ms.date: 06/08/2017
-ms.openlocfilehash: f6331a37c8a1bf35e39945d9e1b6b68fd5e7c874
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontusediacriticcolor-property-publisher"></a>Свойство Font.UseDiacriticColor (издатель)
-
-Возвращает или задает константу **MsoTriState** , указывающее, можно ли установить цвет диакритические знаки в диапазоне указанный текст. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.UseDiacriticColor Property (Publisher)
 
- _выражение_. **UseDiacriticColor**
-
- переменная _expression_A, представляющий объект **шрифта** .
+Returns or sets  **MsoTriState** constant indicating whether you can set the color of diacritics in the specified text range. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **UseDiacriticColor**
+
+ _expression_A variable that represents an  **Font** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **UseDiacriticColor** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **UseDiacriticColor** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Цвет диакритические знаки нельзя задать в диапазоне указанный текст.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Позволяет указать цвет диакритические знаки в диапазоне указанный текст.|
+| **msoFalse**|The color of diacritics cannot be set in the specified text range.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
+| **msoTrue**|The color of diacritics can be set in the specified text range.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверить текст в первой статьи публикации для состояния свойства **UseDiacriticColor** . Если это **msoTrue**синий задано значение свойства **DiacriticColor** . В противном случае отображается окно сообщения.
+This example test the text in the first story of the publication for the state of the  **UseDiacriticColor** property. If it is **msoTrue**, the  **DiacriticColor** property value is set to blue. Otherwise, a message box is displayed.
 
 
 ```vb

@@ -1,37 +1,36 @@
 ---
-title: "Свойство Page.PageNumber (издатель)"
+title: Page.PageNumber Property (Publisher)
 keywords: vbapb10.chm393220
-f1_keywords: vbapb10.chm393220
+f1_keywords:
+- vbapb10.chm393220
 ms.prod: publisher
-api_name: Publisher.Page.PageNumber
+api_name:
+- Publisher.Page.PageNumber
 ms.assetid: 670e3f46-9cad-b85e-b627-3be8c7c4e577
 ms.date: 06/08/2017
-ms.openlocfilehash: 5a9270a3b3482c58b706f0113dfb5f09cfc8f860
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagepagenumber-property-publisher"></a>Свойство Page.PageNumber (издатель)
-
-Возвращает **строку** , представляющую текущий номер страницы. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.PageNumber Property (Publisher)
 
- _выражение_. **PageNumber**
-
- переменная _expression_A, представляющий объект **Page** .
+Returns a  **String** that represents the current page number. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PageNumber**
+
+ _expression_A variable that represents a  **Page** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается текстовое поле, возвращает номер текущей страницы и вставляет его с помощью нового текста в его.
+This example creates a text box, gets the current page number, and inserts it with new text into the new shape.
 
 
 ```vb

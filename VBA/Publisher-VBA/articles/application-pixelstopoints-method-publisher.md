@@ -1,50 +1,49 @@
 ---
-title: "Метод Application.PixelsToPoints (издатель)"
+title: Application.PixelsToPoints Method (Publisher)
 keywords: vbapb10.chm131153
-f1_keywords: vbapb10.chm131153
+f1_keywords:
+- vbapb10.chm131153
 ms.prod: publisher
-api_name: Publisher.Application.PixelsToPoints
+api_name:
+- Publisher.Application.PixelsToPoints
 ms.assetid: 5d7e453f-e962-e557-48e4-44766d0c64d9
 ms.date: 06/08/2017
-ms.openlocfilehash: 9fbc60a25a0b9812f05790f3c64bd3af3e6ca33e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationpixelstopoints-method-publisher"></a>Метод Application.PixelsToPoints (издатель)
-
-Преобразует измерения из точек в точках (1 пиксель = 0,75 точек). Возвращает преобразованные измерения как **один**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.PixelsToPoints Method (Publisher)
 
- _выражение_. **PixelsToPoints** ( **_Значение_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns the converted measurement as a  **Single**.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **PixelsToPoints**( **_Value_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Значение|Обязательное свойство.| **Один**|Значение в пикселях для преобразования в пунктах.|
+|Value|Required| **Single**|The pixel value to be converted to points.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Один
-
-
-## <a name="remarks"></a>Заметки
-
-Используйте метод **[PointsToPixels](application-pointstopixels-method-publisher.md)** для преобразования измерений в точках в пикселях.
+Single
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере преобразует измерения в пикселах, введенный пользователем измерений в пунктах.
+Use the  **[PointsToPixels](application-pointstopixels-method-publisher.md)** method to convert measurements in points to pixels.
+
+
+## Example
+
+This example converts measurements in pixels entered by the user to measurements in points.
 
 
 ```vb
@@ -72,11 +71,11 @@ Loop
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

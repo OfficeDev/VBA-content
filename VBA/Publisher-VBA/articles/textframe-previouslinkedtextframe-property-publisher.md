@@ -1,42 +1,41 @@
 ---
-title: "Свойство TextFrame.PreviousLinkedTextFrame (издатель)"
+title: TextFrame.PreviousLinkedTextFrame Property (Publisher)
 keywords: vbapb10.chm3866656
-f1_keywords: vbapb10.chm3866656
+f1_keywords:
+- vbapb10.chm3866656
 ms.prod: publisher
-api_name: Publisher.TextFrame.PreviousLinkedTextFrame
+api_name:
+- Publisher.TextFrame.PreviousLinkedTextFrame
 ms.assetid: 00947ec3-fcff-4451-491b-5b7748ccb74e
 ms.date: 06/08/2017
-ms.openlocfilehash: c8042d644b3265ca91c05f557a5ce21925ae7226
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframepreviouslinkedtextframe-property-publisher"></a>Свойство TextFrame.PreviousLinkedTextFrame (издатель)
-
-Возвращает объект **[TextFrame](textframe-object-publisher.md)** , представляющий рамки с какой текст располагается frame указанный текст.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.PreviousLinkedTextFrame Property (Publisher)
 
- _выражение_. **PreviousLinkedTextFrame**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Returns a  **[TextFrame](textframe-object-publisher.md)** object representing the text frame from which text flows to the specified text frame.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PreviousLinkedTextFrame**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+### Return Value
 
 TextFrame
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если указанный текст frame не является частью цепочки связанных рамок или является первым в цепочке связанных рамок, данное свойство возвращает значение nothing.
+If the specified text frame is not part of a chain of linked frames or is the first in a chain of linked frames, this property returns nothing.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере возвращает ранее связанного рамки фигуры три на странице один из активных публикации и задает его шрифт Times New Roman.
+The following example returns the previously linked text frame of shape three on page one of the active publication and sets its font to Times New Roman.
 
 
 ```vb

@@ -1,31 +1,30 @@
 ---
-title: "Свойство Document.ViewGuides (издатель)"
+title: Document.ViewGuides Property (Publisher)
 keywords: vbapb10.chm196761
-f1_keywords: vbapb10.chm196761
+f1_keywords:
+- vbapb10.chm196761
 ms.prod: publisher
-api_name: Publisher.Document.ViewGuides
+api_name:
+- Publisher.Document.ViewGuides
 ms.assetid: a0533bc6-8565-eb4f-67e3-b438d4460e80
 ms.date: 06/08/2017
-ms.openlocfilehash: 59916e33ce74b4d65354ca552f76e10a46ba8e75
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentviewguides-property-publisher"></a>Свойство Document.ViewGuides (издатель)
-
-Возвращает **значение True** , если руководства видимы в указанной публикации. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ViewGuides Property (Publisher)
 
- _выражение_. **ViewGuides**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns  **True** if guides are visible in the specified publication. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **ViewGuides**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
+
+Boolean
 
 

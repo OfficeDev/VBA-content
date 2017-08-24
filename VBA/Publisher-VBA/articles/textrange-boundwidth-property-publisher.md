@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.BoundWidth (издатель)"
+title: TextRange.BoundWidth Property (Publisher)
 keywords: vbapb10.chm5308438
-f1_keywords: vbapb10.chm5308438
+f1_keywords:
+- vbapb10.chm5308438
 ms.prod: publisher
-api_name: Publisher.TextRange.BoundWidth
+api_name:
+- Publisher.TextRange.BoundWidth
 ms.assetid: bab5053f-958b-9264-9a1e-6f81b5a860b7
 ms.date: 06/08/2017
-ms.openlocfilehash: 251b94275abd12a406aa98052d161e32c4171810
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeboundwidth-property-publisher"></a>Свойство TextRange.BoundWidth (издатель)
-
-Возвращает значение типа **одного** , указывающее ширину в пунктах прямоугольника в диапазоне указанный текст. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.BoundWidth Property (Publisher)
 
- _выражение_. **BoundWidth**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **BoundWidth**
+
+ _expression_A variable that represents a  **TextRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример отображает позицию, ширину и высоту прямоугольника, окружающим текстом в первую фигуру на странице один из активных публикации.
+Single
+
+
+## Example
+
+The following example displays the position, width, and height of the bounding box surrounding the text in the first shape on page one of the active publication.
 
 
 ```vb

@@ -1,45 +1,45 @@
 ---
-title: "Свойство MailMergeFilterCriterion.Conjunction (издатель)"
+title: MailMergeFilterCriterion.Conjunction Property (Publisher)
 keywords: vbapb10.chm6815750
-f1_keywords: vbapb10.chm6815750
+f1_keywords:
+- vbapb10.chm6815750
 ms.prod: publisher
-api_name: Publisher.MailMergeFilterCriterion.Conjunction
+api_name:
+- Publisher.MailMergeFilterCriterion.Conjunction
 ms.assetid: 79365a25-97fd-a18f-7815-eaccf4c5bdca
 ms.date: 06/08/2017
-ms.openlocfilehash: 624a1b0ce2b211a3462842bf504de8e3e171ef2b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergefiltercriterionconjunction-property-publisher"></a>Свойство MailMergeFilterCriterion.Conjunction (издатель)
-
-Возвращает или задает константой **MsoFilterConjunction** , представляющий как условиям фильтра относится к других критериев фильтрации в объекте **[MailMergeFilters](mailmergefilters-object-publisher.md)** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeFilterCriterion.Conjunction Property (Publisher)
 
- _выражение_. **Совместно**
-
- переменная _expression_A, представляет собой объект- **MailMergeFilterCriterion** .
+Returns or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **[MailMergeFilters](mailmergefilters-object-publisher.md)** object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Conjunction**
+
+ _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+
+
+### Return Value
 
 MsoFilterConjunction
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **совместно** может иметь одно из следующих **MsoFilterConjunction** константы, описанные в библиотеке типов, Microsoft Office.
+The  **Conjunction** property value can be one of the following **MsoFilterConjunction** constants declared in the Microsoft Office type library.
 
 
 
-| **msoFilterConjunctionAnd**|| **msoFilterConjunctionOr**|
+| **msoFilterConjunctionAnd**|
+| **msoFilterConjunctionOr**|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере изменяет существующий фильтр для удаления из слияния почты, все записи, не связанные с полем региона равно «WA» и затем добавляет фильтр для следующих фильтра, чтобы условия фильтра должно соответствовать фильтры объединенный и не только один или другое.
+The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA", and then adds the filter to the following filter, so that the the filter criteria must match both filters combined and not just one or the other.
 
 
 ```vb

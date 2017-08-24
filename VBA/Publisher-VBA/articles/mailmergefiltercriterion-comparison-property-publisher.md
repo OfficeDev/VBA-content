@@ -1,42 +1,41 @@
 ---
-title: "Свойство MailMergeFilterCriterion.Comparison (издатель)"
+title: MailMergeFilterCriterion.Comparison Property (Publisher)
 keywords: vbapb10.chm6815748
-f1_keywords: vbapb10.chm6815748
+f1_keywords:
+- vbapb10.chm6815748
 ms.prod: publisher
-api_name: Publisher.MailMergeFilterCriterion.Comparison
+api_name:
+- Publisher.MailMergeFilterCriterion.Comparison
 ms.assetid: ba815a39-35d6-803e-39c4-deba30646e66
 ms.date: 06/08/2017
-ms.openlocfilehash: 4c7a89afb316eccef5d2c23f215cb5755f844c3f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergefiltercriterioncomparison-property-publisher"></a>Свойство MailMergeFilterCriterion.Comparison (издатель)
-
-Возвращает или задает константой **MsoFilterComparison** , представляющий сравнение свойств [столбца](cell-column-property-publisher.md) и **[CompareTo](mailmergefiltercriterion-compareto-property-publisher.md)** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeFilterCriterion.Comparison Property (Publisher)
 
- _выражение_. **Сравнение**
-
- переменная _expression_A, представляет собой объект- **MailMergeFilterCriterion** .
+Returns or sets an  **MsoFilterComparison** constant that represents how to compare the [Column](cell-column-property-publisher.md) and **[CompareTo](mailmergefiltercriterion-compareto-property-publisher.md)** properties. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Comparison**
+
+ _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+
+
+### Return Value
 
 MsoFilterComparison
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **сравнения** может иметь одно из ** [MsoFilterComparison](http://msdn.microsoft.com/library/12650101-777b-2142-e985-cc34d5e2fb16%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **Comparison** property value can be one of the ** [MsoFilterComparison](http://msdn.microsoft.com/library/12650101-777b-2142-e985-cc34d5e2fb16%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере изменяется существующий фильтр для удаления из слияния почты все записи, у которых нет поля региона, равное «WA». В этом примере предполагается, что источник данных слияния почты подключенный к активной публикации.
+The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA". This example assumes that a mail merge data source is attached to the active publication.
 
 
 ```vb

@@ -1,24 +1,22 @@
 ---
-title: "Свойство BuildingBlocks.Application (издатель)"
+title: BuildingBlocks.Application Property (Publisher)
 ms.prod: publisher
-api_name: Publisher.BuildingBlocks.Application
+api_name:
+- Publisher.BuildingBlocks.Application
 ms.assetid: f5e9eca1-ff55-b274-cf29-97e487070814
 ms.date: 06/08/2017
-ms.openlocfilehash: d9f6e216a6faee1310d83f0cb407c08dd963983a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="buildingblocksapplication-property-publisher"></a>Свойство BuildingBlocks.Application (издатель)
-
-При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Microsoft Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# BuildingBlocks.Application Property (Publisher)
 
- _выражение_. **Приложения**
+Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Microsoft Publisher. Used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 
- переменная _expression_A, представляет собой объект- **BuildingBlocks** .
+
+## Syntax
+
+ _expression_. **Application**
+
+ _expression_A variable that represents a  **BuildingBlocks** object.
 
 

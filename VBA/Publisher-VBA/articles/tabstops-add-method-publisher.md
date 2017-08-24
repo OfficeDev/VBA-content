@@ -1,54 +1,61 @@
 ---
-title: "Метод TabStops.Add (издатель)"
+title: TabStops.Add Method (Publisher)
 keywords: vbapb10.chm5570565
-f1_keywords: vbapb10.chm5570565
+f1_keywords:
+- vbapb10.chm5570565
 ms.prod: publisher
-api_name: Publisher.TabStops.Add
+api_name:
+- Publisher.TabStops.Add
 ms.assetid: 23536810-e851-c0ac-22e2-fab41582d612
 ms.date: 06/08/2017
-ms.openlocfilehash: 061585c5545dabb2008dbdba419200d9a86f4f6d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tabstopsadd-method-publisher"></a>Метод TabStops.Add (издатель)
-
-Добавление новой позиции табуляции определенной коллекции **TabStops** .
 
 
-## <a name="syntax"></a>Синтаксис
+# TabStops.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_Положение_**, **_Выравнивание_**, **_ведущий_**)
-
- переменная _expression_A, представляет собой объект- **TabStops** .
+Adds a new tab stop to the specified  **TabStops** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_Position_**,  **_Alignment_**,  **_Leader_**)
+
+ _expression_A variable that represents a  **TabStops** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Position|Обязательное свойство.| **Variant**|Горизонтальную позицию новой позиции табуляции относительно левого края рамки. Числовые значения вычисляются в точках; строки вычисляются в единицах, заданных и может быть в любой единицы измерения, поддерживаются в Microsoft Publisher (например, «2,5 дюйма»).|
-|Выравнивание|Обязательное свойство.| **PbTabAlignmentType**|Настройка выравнивания для позиции табуляции.|
-|Ведущий сотрудник|Обязательное свойство.| **PbTabLeaderType**|Тип ведущий табуляции.|
+|Position|Required| **Variant**|The horizontal position of the new tab stop relative to the left edge of the text frame. Numeric values are evaluated in points; strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
+|Alignment|Required| **PbTabAlignmentType**|The alignment setting for the tab stop.|
+|Leader|Required| **PbTabLeaderType**|The type of leader for the tab stop.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Выравнивание может иметь одно из следующих констант PbTabAlignmentType.
-
-
-
-| **pbTabAlignmentCenter**|| **pbTabAlignmentDecimal**|| **pbTabAlignmentLeading**|| **pbTabAlignmentTrailing**| Ведущий может иметь одно из следующих констант **PbTabLeaderType** .
+Alignment can be one of these PbTabAlignmentType constants.
 
 
 
-| **pbTabLeaderBullet**|| **pbTabLeaderDashes**|| **pbTabLeaderDot**|| **pbTabLeaderLine**|| **pbTabLeaderNone**|
+| **pbTabAlignmentCenter**|
+| **pbTabAlignmentDecimal**|
+| **pbTabAlignmentLeading**|
+| **pbTabAlignmentTrailing**|
+Leader can be one of these  **PbTabLeaderType** constants.
 
-## <a name="example"></a>Пример
 
-В следующем примере добавляется новый по левому краю табуляции 0,5 дюйма от левого края кадра указанный текст.
+
+| **pbTabLeaderBullet**|
+| **pbTabLeaderDashes**|
+| **pbTabLeaderDot**|
+| **pbTabLeaderLine**|
+| **pbTabLeaderNone**|
+
+## Example
+
+The following example adds a new left-aligned tab stop 0.5 inches from the left edge of the specified text frame.
 
 
 ```vb

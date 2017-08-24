@@ -1,37 +1,36 @@
 ---
-title: "Свойство Wizard.Properties (издатель)"
+title: Wizard.Properties Property (Publisher)
 keywords: vbapb10.chm1441797
-f1_keywords: vbapb10.chm1441797
+f1_keywords:
+- vbapb10.chm1441797
 ms.prod: publisher
-api_name: Publisher.Wizard.Properties
+api_name:
+- Publisher.Wizard.Properties
 ms.assetid: 9f9811b3-10ee-d429-c5a2-8223349525f2
 ms.date: 06/08/2017
-ms.openlocfilehash: c31905102d58f0bc995644079214b831f8367e05
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardproperties-property-publisher"></a>Свойство Wizard.Properties (издатель)
-
-Возвращает коллекцию **[WizardProperties](wizardproperties-object-publisher.md)** , представляющую все параметры, которые являются частью указанной публикации проекта или мастер макетов объектов.
 
 
-## <a name="syntax"></a>Синтаксис
+# Wizard.Properties Property (Publisher)
 
- _выражение_. **Свойства**
-
- переменная _expression_A, представляющий объект **мастера** .
+Returns a  **[WizardProperties](wizardproperties-object-publisher.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Properties**
+
+ _expression_A variable that represents a  **Wizard** object.
+
+
+### Return Value
 
 WizardProperties
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример отчетов по публикации проекта, связанного с активной публикации, отображение его имя и текущие настройки.
+The following example reports on the publication design associated with the active publication, displaying its name and current settings.
 
 
 ```vb

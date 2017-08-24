@@ -1,42 +1,41 @@
 ---
-title: "Свойство Application.ScreenUpdating (издатель)"
+title: Application.ScreenUpdating Property (Publisher)
 keywords: vbapb10.chm131107
-f1_keywords: vbapb10.chm131107
+f1_keywords:
+- vbapb10.chm131107
 ms.prod: publisher
-api_name: Publisher.Application.ScreenUpdating
+api_name:
+- Publisher.Application.ScreenUpdating
 ms.assetid: d265b4fb-1452-91a5-32fe-0cad54c8f29c
 ms.date: 06/08/2017
-ms.openlocfilehash: 03e533dc1d5dbe286c7be892ee20323e858beec1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationscreenupdating-property-publisher"></a>Свойство Application.ScreenUpdating (издатель)
-
-Возвращает или задает значение **Boolean** , указывающее, является ли Microsoft Publisher обновляет экрана во время выполнения; **Значение true,** чтобы обновить на экране. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.ScreenUpdating Property (Publisher)
 
- _выражение_. **Свойство ScreenUpdating**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **ScreenUpdating**
 
-
-## <a name="remarks"></a>Заметки
-
-Отключение обновления экрана во время выполнения может ускорить выполнение кода Microsoft Visual Basic. Тем не менее рекомендуется предоставить некоторые указания состояния, пользователя принять во внимание, что программа работает правильно.
+ _expression_A variable that represents a  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример отключает обновление экрана в начале подпрограммы и включает его обратно в конце подпрограммы.
+Boolean
+
+
+## Remarks
+
+Turning screen updating off during run time can speed execution of Microsoft Visual Basic code. However, we recommend that you provide some indication of status so that the user is aware that the program is functioning correctly.
+
+
+## Example
+
+The following example turns off screen updating at the beginning of a subroutine and turns it back on at the end of the subroutine.
 
 
 ```vb
@@ -50,11 +49,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

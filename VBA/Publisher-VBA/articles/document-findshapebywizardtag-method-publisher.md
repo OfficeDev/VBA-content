@@ -1,51 +1,50 @@
 ---
-title: "Метод Document.FindShapeByWizardTag (издатель)"
+title: Document.FindShapeByWizardTag Method (Publisher)
 keywords: vbapb10.chm196690
-f1_keywords: vbapb10.chm196690
+f1_keywords:
+- vbapb10.chm196690
 ms.prod: publisher
-api_name: Publisher.Document.FindShapeByWizardTag
+api_name:
+- Publisher.Document.FindShapeByWizardTag
 ms.assetid: c6db9ba7-15b0-e8f0-1ed2-08b6e978c948
 ms.date: 06/08/2017
-ms.openlocfilehash: 5296cf64352ff077e1f95b73d6aef482a4f03b7a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentfindshapebywizardtag-method-publisher"></a>Метод Document.FindShapeByWizardTag (издатель)
-
-Возвращает объект **ShapeRange** , представляющая одного или всех фигур в публикации с помощью мастера и с тегом указанного мастера.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.FindShapeByWizardTag Method (Publisher)
 
- _выражение_. **FindShapeByWizardTag** ( **_WizardTag_**, **_экземпляр_**)
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **FindShapeByWizardTag**( **_WizardTag_**,  **_Instance_**)
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|WizardTag|Обязательное свойство.| **PbWizardTag**|Задает тег мастера для поиска.|
-|Экземпляр|Необязательный| **Длинный**|Указывает, какой экземпляр фигуры с тегом указанного мастера возвращается. Для экземпляра равно n, n-й экземпляра фигуры с тегом указанного мастера возвращается. Если значение не для экземпляра не указан, возвращаются все фигур с помощью мастера указанный тег.|
+|WizardTag|Required| **PbWizardTag**|Specifies the wizard tag for which to search.|
+|Instance|Optional| **Long**|Specifies which instance of a shape with the specified wizard tag is returned. For Instance equal to n, the nth instance of a shape with the specified wizard tag is returned. If no value for Instance is specified, all the shapes with the specified wizard tag are returned.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 ShapeRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр WizardTag может иметь одно из **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The WizardTag parameter can be one of the  **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере выполняется поиск второго экземпляра фигуры с тегом мастер **pbWizardDate** и присваивается переменной.
+The following example finds the second instance of a shape with the wizard tag  **pbWizardDate** and assigns it to a variable.
 
 
 ```vb

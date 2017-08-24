@@ -1,66 +1,65 @@
 ---
-title: "Метод Shapes.AddOLEObject (издатель)"
+title: Shapes.AddOLEObject Method (Publisher)
 keywords: vbapb10.chm2162709
-f1_keywords: vbapb10.chm2162709
+f1_keywords:
+- vbapb10.chm2162709
 ms.prod: publisher
-api_name: Publisher.Shapes.AddOLEObject
+api_name:
+- Publisher.Shapes.AddOLEObject
 ms.assetid: c454f9cb-2005-5e55-80a7-6dfbe9c109e5
 ms.date: 06/08/2017
-ms.openlocfilehash: 7f24c38df4fc234194c9e93b74d2eb8efb656431
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddoleobject-method-publisher"></a>Метод Shapes.AddOLEObject (издатель)
-
-Добавляет новый объект **[фигуры](shape-object-publisher.md)** , представляющий объект OLE определенной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddOLEObject Method (Publisher)
 
- _выражение_. **AddOLEObject** ( **_Слева_**, **_сверху_**, **_Ширина_**, **_Высота_**, **_ClassName_**, **_имя файла_**, **_ссылку_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a new  **[Shape](shape-object-publisher.md)** object representing an OLE object to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddOLEObject**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_ClassName_**,  **_Filename_**,  **_Link_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющий объект OLE.|
-|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющий объект OLE.|
-|Width|Необязательный| **Variant**|Ширина фигуры, представляющий объект OLE. По умолчанию используется значение -1, то есть ширину фигуры автоматически устанавливается на основе данных объекта.|
-|Height|Необязательный| **Variant**|Высота формы, представляющий объект OLE. По умолчанию используется значение -1, то есть ширину фигуры автоматически устанавливается на основе данных объекта.|
-|ClassName|Необязательный| **String**|Имя класса для добавления объекта OLE.|
-|Имя файла|Необязательный| **String**|Имя файла для добавления объекта OLE. Если путь не указан, используется текущей рабочей папки.|
-|Ссылка|Необязательный| **MsoTriState**|Определяет, связанные или внедренные в публикации объекта OLE.|
+|Left|Required| **Variant**|The position of the left edge of the shape representing the OLE object.|
+|Top|Required| **Variant**|The position of the top edge of the shape representing the OLE object.|
+|Width|Optional| **Variant**|The width of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
+|Height|Optional| **Variant**|The height of the shape representing the OLE object. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
+|ClassName|Optional| **String**|The class name of the OLE object to be added.|
+|Filename|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
+|Link|Optional| **MsoTriState**|Determines whether the OLE object is linked to or embedded in the publication.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Аргументы слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Необходимо указать имя файла или ClassName. Если не указан ни один из аргументов или оба указанных, возникает ошибка.
+You must specify either a ClassName or FileName. If neither argument is specified, or if both are specified, an error occurs.
 
-Параметр ссылки может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
+The Link parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Внедренных объектов OLE.|
-| **msoTrue**|Связанный объект OLE. По умолчанию.|
+| **msoFalse**|The OLE object is embedded.|
+| **msoTrue**|The OLE object is linked. The default.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляет таблицу Microsoft Office Excel для первой страницы публикации, активных и активирует лист для редактирования.
+The following example adds a Microsoft Office Excel worksheet to the first page of the active publication and activates the worksheet for editing.
 
 
 ```vb

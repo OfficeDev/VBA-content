@@ -1,26 +1,25 @@
 ---
-title: "Свойство DropCap.FontName (издатель)"
+title: DropCap.FontName Property (Publisher)
 keywords: vbapb10.chm5505027
-f1_keywords: vbapb10.chm5505027
+f1_keywords:
+- vbapb10.chm5505027
 ms.prod: publisher
-api_name: Publisher.DropCap.FontName
+api_name:
+- Publisher.DropCap.FontName
 ms.assetid: f5220c46-09b4-7860-0b85-7d44af05e3a9
 ms.date: 06/08/2017
-ms.openlocfilehash: 68228f890ab688d14ff5511af45da991146809b9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="dropcapfontname-property-publisher"></a>Свойство DropCap.FontName (издатель)
-
-Задает или возвращает **строку** , представляющую имя шрифта, применяемые к буквицы или текст надписи WordArt. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# DropCap.FontName Property (Publisher)
 
- _выражение_. **FontName**
+Sets or returns a  **String** that represents the name of the font applied to a dropped capital letter or WordArt text effect. Read/write.
 
- переменная _expression_A, представляет собой объект- **буквицу** .
+
+## Syntax
+
+ _expression_. **FontName**
+
+ _expression_A variable that represents a  **DropCap** object.
 
 

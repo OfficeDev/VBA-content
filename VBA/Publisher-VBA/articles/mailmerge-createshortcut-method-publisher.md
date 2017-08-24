@@ -1,51 +1,50 @@
 ---
-title: "Метод MailMerge.CreateShortcut (издатель)"
+title: MailMerge.CreateShortcut Method (Publisher)
 keywords: vbapb10.chm6225942
-f1_keywords: vbapb10.chm6225942
+f1_keywords:
+- vbapb10.chm6225942
 ms.prod: publisher
-api_name: Publisher.MailMerge.CreateShortcut
+api_name:
+- Publisher.MailMerge.CreateShortcut
 ms.assetid: 96878925-41ce-4873-931e-d5c05307a94a
 ms.date: 06/08/2017
-ms.openlocfilehash: 5063e925eaf57caf16648954a5078f34e44e10ea
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergecreateshortcut-method-publisher"></a>Метод MailMerge.CreateShortcut (издатель)
-
-Создается ярлык для файла, содержащего список получателей или продуктов для публикации слияния почты.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.CreateShortcut Method (Publisher)
 
- _выражение_. **CreateShortcut** ( **_Имя файла_**)
-
- переменная _expression_A, представляет собой объект- **слияния** .
+Creates a shortcut to the file that contains the list of recipients or products for a mail merge publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **CreateShortcut**( **_Filename_**)
+
+ _expression_A variable that represents a  **MailMerge** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя файла|Обязательное свойство.| **String**|Имя файла списка список рассылки или продукт, для которого должен быть создан ярлык на панели.|
+|Filename|Required| **String**|Name of the mailing list or product list file for which the shortcut should be created.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Метод **CreateShortcut** соответствует команда **Сохранить ярлык в список получателей** в области задач **слияния почты** и **Слияния почты** и команды **Сохранить ярлык для списка продуктов** в области задач, **Объединение в каталог** , в интерфейсе пользователя Microsoft Publisher.
+The  **CreateShortcut** method corresponds to the **Save a shortcut to recipient list** command in the **Mail Merge** and **E-mail Merge** task panes, and the **Save a shortcut to product list** command in the **Catalog Merge** task pane in the Microsoft Publisher user interface.
 
-Список рассылки получателя файлы с расширением .ols (для ярлыка списка Microsoft Office).
+Mailing list recipient files have the .ols extension (for Microsoft Office List Shortcut).
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **CreateShortcut** для создания ярлыка в список получателей слияния почты. Прежде чем запустить этот макрос, убедитесь, что активный документ подключен к источнику данных. Если активный документ не подключен к источнику данных, можно использовать ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** метод для подключения.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CreateShortcut** method to create a shortcut to a mail-merge recipient list. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method to make the connection.
 
-Кроме того перед выполнением кода замените _имя пользователя_ в путь к папке на сохраненный файл с именем допустимого пользователя на вашем компьютере или замените путь к папке и имя файла, в которое включен путь и имя файла.
+Also, before running the code, replace  _username_ in the folder path to the saved file with the name of a valid user on your computer, or replace the folder path and file name with a path and file name of your choice.
 
-Обратите внимание, что путь к папке, в этом примере типичные для путей к папкам в Microsoft Windows Vista. Необходимо иметь разрешение на сохранение файлов в папке.
+Note that the folder path used in this example is typical of folder paths in Microsoft Windows Vista. You must have permission to save files in the folder you designate.
 
 
 

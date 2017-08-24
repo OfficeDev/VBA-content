@@ -1,38 +1,36 @@
 ---
-title: "Свойство ThreeDFormat.ContourColor (издатель)"
+title: ThreeDFormat.ContourColor Property (Publisher)
 keywords: vbapb10.chm3801379
-f1_keywords: vbapb10.chm3801379
+f1_keywords:
+- vbapb10.chm3801379
 ms.prod: publisher
 ms.assetid: 4021df2d-8e38-098f-c539-851069b91584
 ms.date: 06/08/2017
-ms.openlocfilehash: c07a1712cb2e6f5d9193e231f4185f57a9320faf
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformatcontourcolor-property-publisher"></a>Свойство ThreeDFormat.ContourColor (издатель)
-
-Возвращает или задает объект **ColorFormat** , представляющий цвета контура фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ThreeDFormat.ContourColor Property (Publisher)
 
- _выражение_. **ContourColor**
-
- переменная _expression_A, представляет собой объект- **ThreeDFormat** .
+Returns or sets a  **ColorFormat** object that represents color of the contour of a shape. Read/write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ContourColor**
+
+ _expression_A variable that represents a  **ThreeDFormat** object.
+
+
+## Return value
 
  **COLORFORMAT**
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект ThreeDFormat](threedformat-object-publisher.md)
+ [ThreeDFormat Object](threedformat-object-publisher.md)
 

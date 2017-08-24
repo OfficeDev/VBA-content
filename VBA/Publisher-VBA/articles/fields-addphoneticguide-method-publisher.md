@@ -1,65 +1,64 @@
 ---
-title: "Метод Fields.AddPhoneticGuide (издатель)"
+title: Fields.AddPhoneticGuide Method (Publisher)
 keywords: vbapb10.chm6029320
-f1_keywords: vbapb10.chm6029320
+f1_keywords:
+- vbapb10.chm6029320
 ms.prod: publisher
-api_name: Publisher.Fields.AddPhoneticGuide
+api_name:
+- Publisher.Fields.AddPhoneticGuide
 ms.assetid: 9b64e505-3aa7-040f-f791-f2dbeaf6860e
 ms.date: 06/08/2017
-ms.openlocfilehash: c31c3ebe412bd2287fe562eb8e3c3903789f0e22
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fieldsaddphoneticguide-method-publisher"></a>Метод Fields.AddPhoneticGuide (издатель)
-
-Возвращает объект **[поля](field-object-publisher.md)** , представляющий фонетическое текст, добавляемый в указанный диапазон.
 
 
-## <a name="syntax"></a>Синтаксис
+# Fields.AddPhoneticGuide Method (Publisher)
 
- _выражение_. **AddPhoneticGuide** ( **_Диапазон_**, **_текст_**, **_Выравнивание_**, **_вызовет_**, **_FontName_**, **_FontSize_**)
-
- переменная _expression_A, представляющий объект **поля** .
+Returns a  **[Field](field-object-publisher.md)** object that represents phonetic text added to the specified range.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddPhoneticGuide**( **_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
+
+ _expression_A variable that represents a  **Fields** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Обязательное свойство.| **TextRange**|Текст в публикации, по которому фонетическое текст отображается.|
-|Text|Обязательное свойство.| **String**|Фонетическое текст для добавления.|
-|Выравнивание|Необязательный| **PbPhoneticGuideAlignmentType**|Выравнивание фонетическое добавлен текст.|
-|Чтобы увеличить|Необязательный| **Variant**|Расстояние (в точках) в верхней части текста в указанном диапазоне в верхнюю часть фонетическое текста. Если значение не указано, Microsoft Publisher автоматически устанавливает фонетическое текст на оптимальное расстояние над указанным диапазоном.|
-|FontName|Необязательный| **String**|Имя шрифта, используемого для фонетическое текста. Если значение не указано, используется тот же шрифт как текст в указанном диапазоне.|
-|FontSize|Необязательный| **Variant**|Размер шрифта для фонетическое текста. Значение по умолчанию — 10 точек.|
+|Range|Required| **TextRange**|The text in the publication over which the phonetic text is displayed.|
+|Text|Required| **String**|The phonetic text to add.|
+|Alignment|Optional| **PbPhoneticGuideAlignmentType**|The alignment of the added phonetic text.|
+|Raise|Optional| **Variant**|The distance (in points) from the top of the text in the specified range to the top of the phonetic text. If no value is specified, Microsoft Publisher automatically sets the phonetic text at an optimum distance above the specified range.|
+|FontName|Optional| **String**|The name of the font to use for the phonetic text. If no value is specified, Publisher uses the same font as the text in the specified range.|
+|FontSize|Optional| **Variant**|The font size to use for the phonetic text. Default is 10 point.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Поле
-
-
-## <a name="remarks"></a>Заметки
-
-Параметр Выравнивание может иметь одно из **PbPhoneticGuideAlignmentType** константы объявляются в библиотеке типов Microsoft Publisher и показаны в следующей таблице.
+Field
 
 
+## Remarks
 
-|**Константы**|**Описание**|
+The Alignment parameter can be one of the  **PbPhoneticGuideAlignmentType** constants declared in the Microsoft Publisher type library and shown in the following table.
+
+
+
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbPhoneticGuideAlignmentCenter**|Центры фонетическое текст в указанном диапазоне.|
-| **pbPhoneticGuideAlignmentDefault**|Центры фонетическое текст в указанном диапазоне. По умолчанию.|
-| **pbPhoneticGuideAlignmentLeft**| По левому краю фонетическое текст в указанном диапазоне.|
-| **pbPhoneticGuideAlignmentOneTwoOne**|Настраивает внутри и вне интервал фонетическое текста в 1:2:1 отношение.|
-| **pbPhoneticGuideAlignmentRight**|Правому краю фонетическое текст в указанном диапазоне.|
-| **pbPhoneticGuideAlignmentZeroOneZero**|Настраивает внутри и вне интервал фонетическое текста в 0: соотношение 1:0.|
+| **pbPhoneticGuideAlignmentCenter**|Centers phonetic text over the specified range.|
+| **pbPhoneticGuideAlignmentDefault**|Centers phonetic text over the specified range. The default.|
+| **pbPhoneticGuideAlignmentLeft**| Left-aligns phonetic text with the specified range.|
+| **pbPhoneticGuideAlignmentOneTwoOne**|Adjusts the inside and outside spacing of the phonetic text in a 1:2:1 ratio.|
+| **pbPhoneticGuideAlignmentRight**|Right-aligns phonetic text with the specified range.|
+| **pbPhoneticGuideAlignmentZeroOneZero**|Adjusts the inside and outside spacing of the phonetic text in a 0:1:0 ratio.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется фонетическое руководство для выбранного фразу «очень хорошо».
+This example adds a phonetic guide to the selected phrase "very nice."
 
 
 ```vb

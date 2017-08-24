@@ -1,49 +1,48 @@
 ---
-title: "Метод Window.Activate (издатель)"
+title: Window.Activate Method (Publisher)
 keywords: vbapb10.chm262162
-f1_keywords: vbapb10.chm262162
+f1_keywords:
+- vbapb10.chm262162
 ms.prod: publisher
-api_name: Publisher.Window.Activate
+api_name:
+- Publisher.Window.Activate
 ms.assetid: 9bd17970-d038-33de-18ad-139bd9fdb8e8
 ms.date: 06/08/2017
-ms.openlocfilehash: 2ae05af90e90e1c0af876e444be43c76b0b86a49
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="windowactivate-method-publisher"></a>Метод Window.Activate (издатель)
-
-Активирует окно или объекта OLE.
 
 
-## <a name="syntax"></a>Синтаксис
+# Window.Activate Method (Publisher)
 
- _выражение_. **Активация**
-
- переменная _expression_A, представляющий объект **Window** .
+Activates a window or OLE object.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Значение Nothing
+ _expression_. **Activate**
 
-
-## <a name="remarks"></a>Заметки
-
-Publisher выполняется в одном окне, с помощью метода **активировать** с помощью объекта **Window** , поэтому Publisher активное приложение.
+ _expression_A variable that represents a  **Window** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере создается Publisher активное приложение.
+Nothing
+
+
+## Remarks
+
+Because Publisher runs in a single window, using the  **Activate** method with a **Window** object makes Publisher the active application.
+
+
+## Example
+
+The following example makes Publisher the active application.
 
 
 ```vb
 Application.ActiveWindow.Activate
 ```
 
-В следующем примере добавляет таблицы Excel в первой страницы публикации, активных и активирует электронной таблицы для редактирования.
+The following example adds an Excel spreadsheet to the first page of the active publication and activates the spreadsheet for editing.
 
 
 

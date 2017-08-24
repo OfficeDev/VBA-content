@@ -1,38 +1,36 @@
 ---
-title: "Свойство ThreeDFormat.BevelTopType (издатель)"
+title: ThreeDFormat.BevelTopType Property (Publisher)
 keywords: vbapb10.chm3801364
-f1_keywords: vbapb10.chm3801364
+f1_keywords:
+- vbapb10.chm3801364
 ms.prod: publisher
 ms.assetid: 4a9d2f3e-a6a5-c0bb-edad-f0be4c167b35
 ms.date: 06/08/2017
-ms.openlocfilehash: c79571e172f292478f1ae5e58e1be5281f7645bb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformatbeveltoptype-property-publisher"></a>Свойство ThreeDFormat.BevelTopType (издатель)
-
-Возвращает или задает константой **MsoPresetCamera** , представляющий тип рельефов для верхней рельефов. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ThreeDFormat.BevelTopType Property (Publisher)
 
- _выражение_. **BevelTopType**
-
- переменная _expression_A, представляет собой объект- **ThreeDFormat** .
+Returns or sets an  **MsoPresetCamera** constant that represents the bevel type for the top bevel. Read/write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **BevelTopType**
+
+ _expression_A variable that represents a  **ThreeDFormat** object.
+
+
+## Return value
 
  **MSOBEVELTYPE**
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект ThreeDFormat](threedformat-object-publisher.md)
+ [ThreeDFormat Object](threedformat-object-publisher.md)
 

@@ -1,38 +1,36 @@
 ---
-title: "Свойство LineFormat.JoinStyle (издатель)"
+title: LineFormat.JoinStyle Property (Publisher)
 keywords: vbapb10.chm3408161
-f1_keywords: vbapb10.chm3408161
+f1_keywords:
+- vbapb10.chm3408161
 ms.prod: publisher
 ms.assetid: 39939fe5-69f8-e3ce-9190-5c138ef83cf0
 ms.date: 06/08/2017
-ms.openlocfilehash: 1be89a905d9708bb66dde0130a0d264a1624bf7b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatjoinstyle-property-publisher"></a>Свойство LineFormat.JoinStyle (издатель)
-
-Возвращает наборов данных, стиль для указанной строки. Режим чтения и записи.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.JoinStyle Property (Publisher)
 
- _выражение_. **JoinStyle**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns of sets the join style for the specified line. Read-write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **JoinStyle**
+
+ _expression_A variable that represents a  **LineFormat** object.
+
+
+## Return value
 
  **MSOLINEJOINSTYLE**
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект LineFormat](lineformat-object-publisher.md)
+ [LineFormat Object](lineformat-object-publisher.md)
 

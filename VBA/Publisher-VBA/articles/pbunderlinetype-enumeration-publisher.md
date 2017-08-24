@@ -1,42 +1,41 @@
 ---
-title: "Перечисление PbUnderlineType (издатель)"
+title: PbUnderlineType Enumeration (Publisher)
 keywords: vbapb10.chm65562
-f1_keywords: vbapb10.chm65562
+f1_keywords:
+- vbapb10.chm65562
 ms.prod: publisher
-api_name: Publisher.PbUnderlineType
+api_name:
+- Publisher.PbUnderlineType
 ms.assetid: 61977d15-c7f3-f496-bc37-91eba9d9f6e7
 ms.date: 06/08/2017
-ms.openlocfilehash: 10dc7f242d1e1bb4d473035a392e5c5509685329
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pbunderlinetype-enumeration-publisher"></a>Перечисление PbUnderlineType (издатель)
-
-Указывает тип подчеркивание выбранного символы указанного шрифта в диапазон текста.
 
 
+# PbUnderlineType Enumeration (Publisher)
 
-|**Имя**|**Значение**|**Описание**|
+Indicates the type of underline for the selected characters in the specified font in a text range.
+
+
+
+|**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbUnderlineDash**|6|Тире|
-| **pbUnderlineDashHeavy**|12|Высокая интенсивность операций тире|
-| **pbUnderlineDashLong**|15|Длинный пунктир|
-| **pbUnderlineDashLongHeavy**|16|Высокая интенсивность операций длинное тире|
-| **pbUnderlineDotDash**|7|Пунктирная|
-| **pbUnderlineDotDashHeavy**|13|Высокая интенсивность операций тире точка|
-| **pbUnderlineDotDotDash**|8|Точка пунктирная|
-| **pbUnderlineDotDotDashHeavy**|14|Высокая интенсивность операций тире точка точка|
-| **pbUnderlineDotHeavy**|11|Высокая интенсивность операций точка|
-| **pbUnderlineDotted**|4|Временный|
+| **pbUnderlineDash**|6|Dash|
+| **pbUnderlineDashHeavy**|12|Dash Heavy|
+| **pbUnderlineDashLong**|15|Dash Long|
+| **pbUnderlineDashLongHeavy**|16|Dash Long Heavy|
+| **pbUnderlineDotDash**|7|Dot Dash|
+| **pbUnderlineDotDashHeavy**|13|Dot Dash Heavy|
+| **pbUnderlineDotDotDash**|8|Dot Dot Dash|
+| **pbUnderlineDotDotDashHeavy**|14|Dot Dot Dash Heavy|
+| **pbUnderlineDotHeavy**|11|Dot Heavy|
+| **pbUnderlineDotted**|4|Dotted|
 | **pbUnderlineDouble**|3|Double|
 | **pbUnderlineMixed**|-1|Mixed|
-| **pbUnderlineNone**|0|Нет|
-| **pbUnderlineSingle**|1|Один|
-| **pbUnderlineThick**|5|Толстые|
-| **pbUnderlineWavy**|9|Волнистая|
-| **pbUnderlineWavyDouble**|17|Двойной волнистой линией|
-| **pbUnderlineWavyHeavy**|10|Высокая интенсивность операций волнистой линией|
-| **pbUnderlineWordsOnly**|2|Только слова|
+| **pbUnderlineNone**|0|None|
+| **pbUnderlineSingle**|1|Single|
+| **pbUnderlineThick**|5|Thick|
+| **pbUnderlineWavy**|9|Wavy|
+| **pbUnderlineWavyDouble**|17|Wavy Double|
+| **pbUnderlineWavyHeavy**|10|Wavy Heavy|
+| **pbUnderlineWordsOnly**|2|Words Only|
 

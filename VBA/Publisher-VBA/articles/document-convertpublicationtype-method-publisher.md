@@ -1,52 +1,52 @@
 ---
-title: "Метод Document.ConvertPublicationType (издатель)"
+title: Document.ConvertPublicationType Method (Publisher)
 keywords: vbapb10.chm196737
-f1_keywords: vbapb10.chm196737
+f1_keywords:
+- vbapb10.chm196737
 ms.prod: publisher
-api_name: Publisher.Document.ConvertPublicationType
+api_name:
+- Publisher.Document.ConvertPublicationType
 ms.assetid: e4bfe349-a22f-6017-ac9d-49f67e1f6dd2
 ms.date: 06/08/2017
-ms.openlocfilehash: b6185e05239970aae7d3c6974f15e59a3db871e9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentconvertpublicationtype-method-publisher"></a>Метод Document.ConvertPublicationType (издатель)
-
-Преобразует тип указанного публикации указанной публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ConvertPublicationType Method (Publisher)
 
- _выражение_. **ConvertPublicationType** ( **_Значение_**)
-
- переменная _expression_A, представляющий объект **Document** .
+Converts the specified publication to the specified publication type.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ConvertPublicationType**( **_Value_**)
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Значение|Обязательное свойство.| **PbPublicationType**|Тип публикации, который будет преобразован публикации.|
+|Value|Required| **PbPublicationType**|The type of publication to which you want the publication converted.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-При преобразовании публикации все параметры, применимые к предыдущей типа остаются, но игнорируются. Например преобразование печатной публикации в веб-публикации результатов поиска в любые дополнительные настройки печати игнорируются. При публикации преобразуется обратно в печатной публикации, вступят в силу еще раз.
+When a publication is converted, any settings that apply to its previous type remain, but are ignored. For example, converting a print publication to a Web publication results in any advanced print settings being ignored. If the publication is converted back to a print publication, the settings take effect again.
 
-Используйте свойство **[PublicationType](document-publicationtype-property-publisher.md)** объекта **[Document](document-object-publisher.md)** для определения типа публикации публикации.
+Use the  **[PublicationType](document-publicationtype-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine the publication type of a publication.
 
-Значение параметра может иметь одно из следующих **PbPublicationType** константы, описанные в библиотеке типов, Microsoft Publisher.
+The Value parameter can be one of the following  **PbPublicationType** constants declared in the Microsoft Publisher type library.
 
 
 
-| **pbTypePrint**|| **pbTypeWeb**|
+| **pbTypePrint**|
+| **pbTypeWeb**|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример определяет, является ли активная публикация печати публикации. Если он установлен, публикация преобразуется в веб-публикации.
+The following example determines if the active publication is a print publication. If it is, the publication is converted to a Web publication.
 
 
 ```vb

@@ -1,44 +1,43 @@
 ---
-title: "Свойство ShadowFormat.OffsetX (издатель)"
+title: ShadowFormat.OffsetX Property (Publisher)
 keywords: vbapb10.chm3670274
-f1_keywords: vbapb10.chm3670274
+f1_keywords:
+- vbapb10.chm3670274
 ms.prod: publisher
-api_name: Publisher.PictureFormat.OffsetX
+api_name:
+- Publisher.PictureFormat.OffsetX
 ms.assetid: 2b34ace8-5c3b-002b-df96-43c8aef2fbd2
 ms.date: 06/08/2017
-ms.openlocfilehash: 0c4c60979ba3f63358a99678dedc8297fd0e0c26
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shadowformatoffsetx-property-publisher"></a>Свойство ShadowFormat.OffsetX (издатель)
-
-Возвращает или задает значение **Variant** , указывающее вертикальное смещение тени заданной фигуры. Положительное значение смещения тени фигуры; отрицательное значение смещения его над фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShadowFormat.OffsetX Property (Publisher)
 
- _выражение_. **OffsetX**
-
- переменная _expression_A, представляющий объект **ShadowFormat** .
+Returns or sets a  **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **OffsetX**
+
+ _expression_A variable that represents an  **ShadowFormat** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Если вы хотите Сдвиг тени по горизонтали или по вертикали из текущей позиции без указания абсолютного положения, используйте метод **[IncrementOffsetX](shadowformat-incrementoffsetx-method-publisher.md)** или **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** .
+If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the  **[IncrementOffsetX](shadowformat-incrementoffsetx-method-publisher.md)** method or the  **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается горизонтального и вертикального смещения тени для трех фигуры на странице один активный публикации. 5 точек справа от фигуры и 3 точки над текстом смещения тени. Если фигуры еще нет тени, этот пример добавляет в него.
+This example sets the horizontal and vertical offsets of the shadow for shape three on page one of the active publication. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство Font.AttachedToText (издатель)"
+title: Font.AttachedToText Property (Publisher)
 keywords: vbapb10.chm5373989
-f1_keywords: vbapb10.chm5373989
+f1_keywords:
+- vbapb10.chm5373989
 ms.prod: publisher
-api_name: Publisher.Font.AttachedToText
+api_name:
+- Publisher.Font.AttachedToText
 ms.assetid: 23b0519a-9f35-fa25-752a-4942e8161edd
 ms.date: 06/08/2017
-ms.openlocfilehash: d547d99e5adaff66fba8ef69d1fc0960899cfc2f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontattachedtotext-property-publisher"></a>Свойство Font.AttachedToText (издатель)
-
- **Значение true,** Если объект **шрифта** или **ParagraphFormat** присоединен к объекту **TextRange** . Если объект связан объект **TextRange** , документ будет обновляться при изменении свойства объекта. Если объект не подключена, в документе будет изменяться, пока объект применяется объект **TextRange** или **стиля** . Только для чтения **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.AttachedToText Property (Publisher)
 
- _выражение_. **AttachedToText**
-
- переменная _expression_A, представляющий объект **Font** .
+ **True** if the **Font** or **ParagraphFormat** object is attached to a **TextRange** object. If the object is attached to a **TextRange** object, the document will be updated when properties of the object are changed. If the object is not attached, nothing in the document will be changed until the object is applied to a **TextRange** or **Style** object. Read-only **Boolean**.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере дублирует форматирование; шрифта Затем проверяется ли дублируемые форматирования подключенный к диапазон текста, и если он не установлен, подключает форматирования для второй фигуры.
+ _expression_. **AttachedToText**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+## Example
+
+This example duplicates the font formatting; then it checks to see if the duplicated formatting is attached to a text range and if it is not, it attaches the formatting to the second shape.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство MailMergeFilterCriterion.Index (издатель)"
+title: MailMergeFilterCriterion.Index Property (Publisher)
 keywords: vbapb10.chm6815745
-f1_keywords: vbapb10.chm6815745
+f1_keywords:
+- vbapb10.chm6815745
 ms.prod: publisher
-api_name: Publisher.MailMergeFilterCriterion.Index
+api_name:
+- Publisher.MailMergeFilterCriterion.Index
 ms.assetid: e66e5afd-db28-cd00-9692-3b1a6d557198
 ms.date: 06/08/2017
-ms.openlocfilehash: 6578f9c77f4e93a779fe973eaa7076b8ac0f9cfb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergefiltercriterionindex-property-publisher"></a>Свойство MailMergeFilterCriterion.Index (издатель)
-
-Возвращает значение типа **Long** , представляющее положение определенного элемента в указанном семействе сайтов. .
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeFilterCriterion.Index Property (Publisher)
 
- _выражение_. **Индекс**
-
- переменная _expression_A, представляет собой объект- **MailMergeFilterCriterion** .
+Returns a  **Long** that represents the position of a particular item in a specified collection. .
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере коллекции **MailMergeDataFields** и отображает **индекса** и **имя** свойства для каждого поля.
+ _expression_. **Index**
+
+ _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+
+
+## Example
+
+The following example loops through the  **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
 
 
 ```vb
@@ -44,7 +43,7 @@ With ActiveDocument.MailMerge.DataSource
 End With
 ```
 
-В следующем примере коллекции **формы** и отображает **индекса** и **имя** свойства для каждой формы.
+The following example loops through the  **Plates** collection and displays the **Index** and **Name** properties for each plate.
 
 
 

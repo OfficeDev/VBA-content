@@ -1,55 +1,57 @@
 ---
-title: "Метод CalloutFormat.PresetDrop (издатель)"
+title: CalloutFormat.PresetDrop Method (Publisher)
 keywords: vbapb10.chm2490387
-f1_keywords: vbapb10.chm2490387
+f1_keywords:
+- vbapb10.chm2490387
 ms.prod: publisher
-api_name: Publisher.CalloutFormat.PresetDrop
+api_name:
+- Publisher.CalloutFormat.PresetDrop
 ms.assetid: a709e54a-d08a-f83c-a0bf-bcdcfe6434cd
 ms.date: 06/08/2017
-ms.openlocfilehash: 3eee7a2c6c3a45c748691c669e516fc9120d16e5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="calloutformatpresetdrop-method-publisher"></a>Метод CalloutFormat.PresetDrop (издатель)
-
-Указывает ли линии выноски присоединяется к верхней, нижней или центр выноски текстового поля или его подключает на момент, который является определенное расстояние между верхней или нижней части текстового поля.
 
 
-## <a name="syntax"></a>Синтаксис
+# CalloutFormat.PresetDrop Method (Publisher)
 
- _выражение_. **PresetDrop** ( **_DropType_**)
-
- переменная _expression_A, представляет собой объект- **CalloutFormat** .
+Specifies whether the callout line attaches to the top, bottom, or center of the callout text box or whether it attaches at a point that is a specified distance from the top or bottom of the text box.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **PresetDrop**( **_DropType_**)
+
+ _expression_A variable that represents a  **CalloutFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|DropType|Обязательное свойство.| **MsoCalloutDropType**|Начальная позиция линии выноски по отношению к тексту, ограничивающий прямоугольник.|
+|DropType|Required| **MsoCalloutDropType**|The starting position of the callout line relative to the text bounding box.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр DropType может быть одной из констант **MsoCalloutDropType** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
+The DropType parameter can be one of the  **MsoCalloutDropType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-| **msoCalloutDropBottom**|| **msoCalloutDropCenter**|| **msoCalloutDropCustom**|| **msoCalloutDropTop**|
+| **msoCalloutDropBottom**|
+| **msoCalloutDropCenter**|
+| **msoCalloutDropCustom**|
+| **msoCalloutDropTop**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере указывается, что линии выноски с подключением в начало текста, ограничивающий прямоугольник для первой фигуры в активной публикации. Для обеспечения работы примера фигуры должен быть выноске.
+This example specifies that the callout line attach to the top of the text bounding box for the first shape in the active publication. For the example to work, the shape must be a callout.
 
 
 ```vb
 ActiveDocument.Pages(1).Shapes(1).Callout.PresetDrop DropType:=msoCalloutDropTop
 ```
 
-В этом примере для переключения между два предварительно падения для первой фигуры одно в активной публикации. Для обеспечения работы примера фигуры должен быть выноске.
+This example switches between two preset drops for the first shape one in the active publication. For the example to work, the shape must be a callout.
 
 
 

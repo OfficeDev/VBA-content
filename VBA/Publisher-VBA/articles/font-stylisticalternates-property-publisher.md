@@ -1,32 +1,31 @@
 ---
-title: "Свойство Font.StylisticAlternates (издатель)"
+title: Font.StylisticAlternates Property (Publisher)
 keywords: vbapb10.chm5374008
-f1_keywords: vbapb10.chm5374008
+f1_keywords:
+- vbapb10.chm5374008
 ms.prod: publisher
-api_name: Publisher.Font.StylisticAlternates
+api_name:
+- Publisher.Font.StylisticAlternates
 ms.assetid: cfb46152-4a54-27df-0a77-1e8b7fd3a711
 ms.date: 06/08/2017
-ms.openlocfilehash: 5299766424b8a8e02092636069ca7c823d4f1c04
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontstylisticalternates-property-publisher"></a>Свойство Font.StylisticAlternates (издатель)
-
-Возвращает или задает **Variant** , который представляет состояние свойства **StylisticAlternates** на символов в диапазон текста. Свойство **StylisticAlternates** позволяет выбрать альтернативного искать внешнего вида знаки, которые вы выбрали, если конструктор шрифта создал эти варианты. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.StylisticAlternates Property (Publisher)
 
- _выражение_. **StylisticAlternates**
-
- переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
+Returns or sets a  **Variant** that represents the state of the **StylisticAlternates** property on the characters in a text range. The **StylisticAlternates** property allows you to select an alternate look for the look of the characters you have selected, if the font designer has created these alternates. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
+
+ _expression_. **StylisticAlternates**
+
+ _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
 
 
- **Примечание**  Свойство **StylisticAlternates** имеет значение только для шрифтов OpenType, которые содержат стилистический альтернативы.
+## Remarks
+
+
+ **Note**  The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
 
 

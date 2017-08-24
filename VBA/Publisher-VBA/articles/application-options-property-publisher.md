@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.Options (издатель)"
+title: Application.Options Property (Publisher)
 keywords: vbapb10.chm131095
-f1_keywords: vbapb10.chm131095
+f1_keywords:
+- vbapb10.chm131095
 ms.prod: publisher
-api_name: Publisher.Application.Options
+api_name:
+- Publisher.Application.Options
 ms.assetid: 999f208a-02e6-49fb-c9a0-42aa97c5e37e
 ms.date: 06/08/2017
-ms.openlocfilehash: 56024bfb9f6aca77804694e37b78a107ab5992bd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationoptions-property-publisher"></a>Свойство Application.Options (издатель)
-
-Возвращает объект, представляющий параметры приложения, которые можно задать в Microsoft Publisher на **[Параметры](options-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.Options Property (Publisher)
 
- _выражение_. **Параметры**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns an  **[Options](options-object-publisher.md)** object that represents application settings you can set in Microsoft Publisher.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Параметры
+ _expression_. **Options**
+
+ _expression_A variable that represents an  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере показано отключение фоновое сохранение, а затем сохраняет active публикации.
+Options
+
+
+## Example
+
+This example disables background saves and then saves the active publication.
 
 
 ```vb
@@ -47,11 +46,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

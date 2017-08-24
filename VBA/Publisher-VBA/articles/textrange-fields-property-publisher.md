@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.Fields (издатель)"
+title: TextRange.Fields Property (Publisher)
 keywords: vbapb10.chm5308469
-f1_keywords: vbapb10.chm5308469
+f1_keywords:
+- vbapb10.chm5308469
 ms.prod: publisher
-api_name: Publisher.TextRange.Fields
+api_name:
+- Publisher.TextRange.Fields
 ms.assetid: 01efbcae-b65b-68d9-20b0-6bbee31fd762
 ms.date: 06/08/2017
-ms.openlocfilehash: 7001b266fb2b75e9b7100252b21f0bf0b71ff54f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangefields-property-publisher"></a>Свойство TextRange.Fields (издатель)
-
-Возвращает объект **поля** , представляющий все поля в диапазоне указанный текст.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Fields Property (Publisher)
 
- _выражение_. **Поля**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **Fields** object that represents all the fields in the specified text range.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Fields**
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Return Value
 
 Fields
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере полужирного первого поля в первой фигуры на первой странице active публикации.
+This example makes the first field in the first shape on the first page of the active publication bold.
 
 
 ```vb

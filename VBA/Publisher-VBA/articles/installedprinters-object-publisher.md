@@ -1,37 +1,36 @@
 ---
-title: "Объект InstalledPrinters (издатель)"
+title: InstalledPrinters Object (Publisher)
 keywords: vbapb10.chm8978431
-f1_keywords: vbapb10.chm8978431
+f1_keywords:
+- vbapb10.chm8978431
 ms.prod: publisher
-api_name: Publisher.InstalledPrinters
+api_name:
+- Publisher.InstalledPrinters
 ms.assetid: 8cf9b194-70bc-7963-6a08-d08401d4b6f3
 ms.date: 06/08/2017
-ms.openlocfilehash: b51e9db4a666838a7f21f30027fdab150661ee1d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="installedprinters-object-publisher"></a>Объект InstalledPrinters (издатель)
 
-Представляет коллекцию объектов все **принтера** , каждая из которых представляет один из принтеров, установленных на компьютере.
+
+# InstalledPrinters Object (Publisher)
+
+Represents the collection of all  **Printer** objects, each of which represents one of the printers installed on the computer.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Чтобы предоставить пользователю возможность выбора принтера для печати публикации, можно выполнять итерации по коллекции **InstalledPrinters** для получения списка имен всех принтеров, установленных на компьютере, как показано в следующем примере.
+To provide the user a choice of printers to print a publication, you can iterate through the  **InstalledPrinters** collection to get a list of the names of all the printers installed on the computer, as shown in the following example.
  
 
  
-Свойство по умолчанию коллекции **InstalledPrinters** — **элемента**.
+The default property of the  **InstalledPrinters** collection is **Item**.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как можно использовать свойства **[Имя_принтера](printer-printername-property-publisher.md)** и **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** объекта **принтера** для получения списка всех установленных принтеров на компьютере и определить, какой из них в настоящее время активного принтера.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **[PrinterName](printer-printername-property-publisher.md)** and **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** properties of the **Printer** object to get a list of all the installed printers on the computer and to determine which of them is currently the active printer.
  
 
  
@@ -58,14 +57,14 @@ End Sub
 ```
 
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](installedprinters-application-property-publisher.md)|
+|[Application](installedprinters-application-property-publisher.md)|
 |[Count](installedprinters-count-property-publisher.md)|
-|[Элемент](installedprinters-item-property-publisher.md)|
-|[Родительский раздел](installedprinters-parent-property-publisher.md)|
+|[Item](installedprinters-item-property-publisher.md)|
+|[Parent](installedprinters-parent-property-publisher.md)|
 

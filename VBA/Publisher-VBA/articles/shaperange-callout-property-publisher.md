@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.Callout (издатель)"
+title: ShapeRange.Callout Property (Publisher)
 keywords: vbapb10.chm2293811
-f1_keywords: vbapb10.chm2293811
+f1_keywords:
+- vbapb10.chm2293811
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Callout
+api_name:
+- Publisher.ShapeRange.Callout
 ms.assetid: 25b9b444-6cbf-085a-df7f-8899e8e55057
 ms.date: 06/08/2017
-ms.openlocfilehash: 297b13511e711a6535a3044f7f33afc177e0be3b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangecallout-property-publisher"></a>Свойство ShapeRange.Callout (издатель)
-
-Возвращает объект **[CalloutFormat](calloutformat-object-publisher.md)** , представляющий форматирование выноски строки.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Callout Property (Publisher)
 
- _выражение_. **Выноски**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns a  **[CalloutFormat](calloutformat-object-publisher.md)** object representing the formatting of a line callout.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляется овала active публикации и выноски, указывающий на овал. Текст выноски не будут иметь границу, но он будет иметь вертикальная черта, отделяющий текст из строки выноски.
+ _expression_. **Callout**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example adds an oval to the active publication and a callout that points to the oval. The callout text won't have a border, but it will have a vertical accent bar that separates the text from the callout line.
 
 
 ```vb

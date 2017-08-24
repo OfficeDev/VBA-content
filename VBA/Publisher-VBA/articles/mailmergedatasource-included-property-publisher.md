@@ -1,42 +1,41 @@
 ---
-title: "Свойство MailMergeDataSource.Included (издатель)"
+title: MailMergeDataSource.Included Property (Publisher)
 keywords: vbapb10.chm6291465
-f1_keywords: vbapb10.chm6291465
+f1_keywords:
+- vbapb10.chm6291465
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.Included
+api_name:
+- Publisher.MailMergeDataSource.Included
 ms.assetid: 1cdac925-5fd6-e1d0-4612-0641e6057a7e
 ms.date: 06/08/2017
-ms.openlocfilehash: 87e4171aea28c669d315c70b338ce8c11d0d18f8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourceincluded-property-publisher"></a>Свойство MailMergeDataSource.Included (издатель)
-
- **Значение true,** Если запись входит в слияния почты. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.Included Property (Publisher)
 
- _выражение_. **Включенные**
-
- переменная _expression_A, представляющий объект **вывода** .
+ **True** if a record is included in a mail merge. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **Included**
 
-
-## <a name="remarks"></a>Заметки
-
-Используйте метод **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-publisher.md)** для задания состояния включена для всех записей слияния почты.
+ _expression_A variable that represents an  **MailMergeDataSource** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере выполняется поиск записей, убедитесь, что длина поля PostalCode для каждой записи срок, по крайней мере пяти цифр. Если он не установлен, запись исключены из слияния почты и помечается как недопустимый.
+Boolean
+
+
+## Remarks
+
+Use the  **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-publisher.md)** method to set the included status for all mail merge records.
+
+
+## Example
+
+This example searches the records to verify that the length of the PostalCode field for each record is at least five digits long. If it is not, the record is excluded from the mail merge and flagged as invalid.
 
 
 ```vb

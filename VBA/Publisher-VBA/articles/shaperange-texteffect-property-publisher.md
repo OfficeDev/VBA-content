@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.TextEffect (издатель)"
+title: ShapeRange.TextEffect Property (Publisher)
 keywords: vbapb10.chm2293833
-f1_keywords: vbapb10.chm2293833
+f1_keywords:
+- vbapb10.chm2293833
 ms.prod: publisher
-api_name: Publisher.ShapeRange.TextEffect
+api_name:
+- Publisher.ShapeRange.TextEffect
 ms.assetid: 7bc822f2-4754-685d-fdd3-7479b5a3ac52
 ms.date: 06/08/2017
-ms.openlocfilehash: c50867c3f7a6f5737d5249f83fb77a0e9bd88a98
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangetexteffect-property-publisher"></a>Свойство ShapeRange.TextEffect (издатель)
-
-Возвращает объект **[TextEffectFormat](texteffectformat-object-publisher.md)** , который представляет свойства объекта WordArt форматирования текста.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.TextEffect Property (Publisher)
 
- _выражение_. **TextEffect**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns a  **[TextEffectFormat](texteffectformat-object-publisher.md)** object that represents the text formatting properties of a WordArt object.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляет объект WordArt active публикации и форматы и вставки дополнительных в нее.
+ _expression_. **TextEffect**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example adds a WordArt object to the active publication and formats and inserts additional into it.
 
 
 ```vb

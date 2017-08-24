@@ -1,26 +1,25 @@
 ---
-title: "Объект GroupShapes (издатель)"
+title: GroupShapes Object (Publisher)
 keywords: vbapb10.chm3407871
-f1_keywords: vbapb10.chm3407871
+f1_keywords:
+- vbapb10.chm3407871
 ms.prod: publisher
-api_name: Publisher.GroupShapes
+api_name:
+- Publisher.GroupShapes
 ms.assetid: dd723f99-25a9-81cc-1d16-eb7dcd651c5e
 ms.date: 06/08/2017
-ms.openlocfilehash: 03b98763a8adf545ca924a7dacc3c74153e93028
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="groupshapes-object-publisher"></a>Объект GroupShapes (издатель)
 
-Представляет отдельные фигуры в группы фигур. Каждая фигура представленным объектом **[фигуры](shape-object-publisher.md)** . С помощью метода **[Item](groupshapes-item-method-publisher.md)** с объектом, можно работать с одним фигур в группе без необходимости их разгруппировать.
+
+# GroupShapes Object (Publisher)
+
+Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](shape-object-publisher.md)** object. Using the **[Item](groupshapes-item-method-publisher.md)** method with this object, you can work with single shapes within a group without having to ungroup them.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **[GroupItems](shape-groupitems-property-publisher.md)** используется для возврата коллекции **GroupShapes** . Используйте **GroupItems** (индекс), где индекса — это число отдельные фигуры в группы фигур, чтобы получить одну из коллекции **GroupShapes** . Следующий пример добавляет три треугольники в активный документ, группирует их, задает цвет для всей группы и затем меняет свой цвет для третьего треугольник только.
+Use the  **[GroupItems](shape-groupitems-property-publisher.md)** property to return a **GroupShapes** collection. Use **GroupItems** (index), where index is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to the active document, groups them, sets a color for the entire group, and then changes the color for the third triangle only.
  
 
  
@@ -44,21 +43,21 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Элемент](groupshapes-item-method-publisher.md)|
+|[Item](groupshapes-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](groupshapes-application-property-publisher.md)|
+|[Application](groupshapes-application-property-publisher.md)|
 |[Count](groupshapes-count-property-publisher.md)|
-|[Родительский раздел](groupshapes-parent-property-publisher.md)|
+|[Parent](groupshapes-parent-property-publisher.md)|
 

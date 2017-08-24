@@ -1,37 +1,36 @@
 ---
-title: "Свойство LineFormat.ForeColor (издатель)"
+title: LineFormat.ForeColor Property (Publisher)
 keywords: vbapb10.chm3408136
-f1_keywords: vbapb10.chm3408136
+f1_keywords:
+- vbapb10.chm3408136
 ms.prod: publisher
-api_name: Publisher.LineFormat.ForeColor
+api_name:
+- Publisher.LineFormat.ForeColor
 ms.assetid: 192314ba-dbca-cce0-25c4-6e276a4f268b
 ms.date: 06/08/2017
-ms.openlocfilehash: d1d8400d613f8cb87167890380bf9ff3d0bf5e3a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatforecolor-property-publisher"></a>Свойство LineFormat.ForeColor (издатель)
-
-Возвращает или задает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет переднего плана для заливки, строки или тени. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.ForeColor Property (Publisher)
 
- _выражение_. **Цвет текста**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns or sets a  **[ColorFormat](colorformat-object-publisher.md)** object representing the foreground color for the fill, line, or shadow. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Свойство **BackColor** задайте цвет фона для заполнения или строку.
+ _expression_. **ForeColor**
+
+ _expression_A variable that represents a  **LineFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляет прямоугольник active публикации и затем задает цвет переднего плана, цвет фона и градиент для заливки прямоугольника.
+Use the  **BackColor** property to set the background color for a fill or line.
+
+
+## Example
+
+This example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -44,7 +43,7 @@ With ActiveDocument.Pages(1).Shapes.AddShape _
 End With
 ```
 
-В этом примере добавляется узорная линия active публикации.
+This example adds a patterned line to the active publication.
 
 
 

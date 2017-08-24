@@ -1,40 +1,38 @@
 ---
-title: "Метод Shapes.AddBuildingBlock (издатель)"
+title: Shapes.AddBuildingBlock Method (Publisher)
 keywords: vbapb10.chm2162768
-f1_keywords: vbapb10.chm2162768
+f1_keywords:
+- vbapb10.chm2162768
 ms.prod: publisher
 ms.assetid: d875e97e-3519-4a88-916d-ec1a32654581
 ms.date: 06/08/2017
-ms.openlocfilehash: 8e4ab903c0945740b30fd3dfa17f89c2e5a393f9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddbuildingblock-method-publisher"></a>Метод Shapes.AddBuildingBlock (издатель)
-
-Добавляет объект **[BuildingBlock](buildingblock-object-publisher.md)** и возвращает объект **[фигуры](shape-object-publisher.md)** на странице, который представляет стандартный блок.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddBuildingBlock Method (Publisher)
 
- _выражение_. **AddBuildingBlock** ( **_BBlockIn_**, **_слева_** **_сверху_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a  **[BuildingBlock](buildingblock-object-publisher.md)** object and returns a **[Shape](shape-object-publisher.md)** object on the page that represents the building block.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddBuildingBlock**( **_BBlockIn_**,  **_Left_**,  **_Top_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Тип|Обязательный| **BuildingBlock**|Стандартный блок для возврата как фигуры.|
-|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющий стандартный блок.|
-|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющий стандартный блок.|
+|Type|Required| **BuildingBlock**|The building block to return as a shape.|
+|Left|Required| **Variant**|The position of the left edge of the shape that represents the building block.|
+|Top|Required| **Variant**|The position of the top edge of the shape that represents the building block.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
- **Фигура**
+ **Shape**
 
 

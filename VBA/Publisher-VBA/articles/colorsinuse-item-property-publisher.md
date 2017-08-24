@@ -1,34 +1,33 @@
 ---
-title: "Свойство ColorsInUse.Item (издатель)"
+title: ColorsInUse.Item Property (Publisher)
 keywords: vbapb10.chm2949120
-f1_keywords: vbapb10.chm2949120
+f1_keywords:
+- vbapb10.chm2949120
 ms.prod: publisher
-api_name: Publisher.ColorsInUse.Item
+api_name:
+- Publisher.ColorsInUse.Item
 ms.assetid: aaeb4351-0896-812c-5f0d-6edd4f0eba93
 ms.date: 06/08/2017
-ms.openlocfilehash: db7daa30f9ec9cf8b154b910d61d64ddef9baf5a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorsinuseitem-property-publisher"></a>Свойство ColorsInUse.Item (издатель)
-
-Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorsInUse.Item Property (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **ColorsInUse** .
+Returns an individual object from a specified collection. Read-only.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **ColorsInUse** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
+|Index|Required| **Long**|The number of the object to return.|
 

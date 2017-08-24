@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextRange.Text (издатель)"
+title: TextRange.Text Property (Publisher)
 keywords: vbapb10.chm5308416
-f1_keywords: vbapb10.chm5308416
+f1_keywords:
+- vbapb10.chm5308416
 ms.prod: publisher
-api_name: Publisher.TextRange.Text
+api_name:
+- Publisher.TextRange.Text
 ms.assetid: 13584812-307a-c32b-ca8f-27869728b64e
 ms.date: 06/08/2017
-ms.openlocfilehash: 7ddc6512093072f2c9178aa607f4bbb83c643573
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangetext-property-publisher"></a>Свойство TextRange.Text (издатель)
-
-Возвращает или задает **строку** , представляющую текст в диапазон текста или WordArt фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Text Property (Publisher)
 
- _выражение_. **Текст**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере добавляет прямоугольник active публикации и добавляет текст.
+ _expression_. **Text**
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+## Example
+
+The following example adds a rectangle to the active publication and adds text to it.
 
 
 ```vb

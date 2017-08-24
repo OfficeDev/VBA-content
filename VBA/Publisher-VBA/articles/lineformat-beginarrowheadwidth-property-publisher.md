@@ -1,44 +1,43 @@
 ---
-title: "Свойство LineFormat.BeginArrowheadWidth (издатель)"
+title: LineFormat.BeginArrowheadWidth Property (Publisher)
 keywords: vbapb10.chm3408131
-f1_keywords: vbapb10.chm3408131
+f1_keywords:
+- vbapb10.chm3408131
 ms.prod: publisher
-api_name: Publisher.LineFormat.BeginArrowheadWidth
+api_name:
+- Publisher.LineFormat.BeginArrowheadWidth
 ms.assetid: a752c674-1b83-b8c8-d325-b61804f5fadc
 ms.date: 06/08/2017
-ms.openlocfilehash: 394afde9b84375ba33f7d06eb335eb69dfee91ee
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatbeginarrowheadwidth-property-publisher"></a>Свойство LineFormat.BeginArrowheadWidth (издатель)
-
-Возвращает или задает константой **MsoArrowheadWidth**, указывающее ширину стрелки в начале указанной строке. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.BeginArrowheadWidth Property (Publisher)
 
- _выражение_. **BeginArrowheadWidth**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns or sets an  **MsoArrowheadWidth**constant indicating the width of the arrowhead at the beginning of the specified line. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **BeginArrowheadWidth**
+
+ _expression_A variable that represents a  **LineFormat** object.
+
+
+### Return Value
 
 MsoArrowheadWidth
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **BeginArrowheadWidth** может иметь одно из ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **BeginArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Свойство **[EndArrowheadWidth](lineformat-endarrowheadwidth-property-publisher.md)** используется для возвращения или задания ширины стрелки в конце строки.
+Use the  **[EndArrowheadWidth](lineformat-endarrowheadwidth-property-publisher.md)** property to return or set the width of the arrowhead at the end of the line.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляет строку active публикации. Существует короткий, узкий овал на начальную точку строки и long, широкий треугольник в его конечной точки.
+This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
 ```vb

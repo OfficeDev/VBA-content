@@ -1,32 +1,31 @@
 ---
-title: "Свойство Shape.LinkFormat (издатель)"
+title: Shape.LinkFormat Property (Publisher)
 keywords: vbapb10.chm2228326
-f1_keywords: vbapb10.chm2228326
+f1_keywords:
+- vbapb10.chm2228326
 ms.prod: publisher
-api_name: Publisher.Shape.LinkFormat
+api_name:
+- Publisher.Shape.LinkFormat
 ms.assetid: 801c3a87-7cc6-8c7b-094a-55e8d8d7a004
 ms.date: 06/08/2017
-ms.openlocfilehash: 3db7e05d9f093086f23e2dbe1579f77219bf2961
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapelinkformat-property-publisher"></a>Свойство Shape.LinkFormat (издатель)
-
-Возвращает объект [LinkFormat](linkformat-object-publisher.md), который содержит свойства, которые являются уникальными для связанные объекты OLE. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.LinkFormat Property (Publisher)
 
- _выражение_. **LinkFormat**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  [LinkFormat](linkformat-object-publisher.md)object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере обновляется связи между любые объекты OLE по одному в активной публикации и исходные файлы.
+ _expression_. **LinkFormat**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Example
+
+This example updates the links between any OLE objects on page one in the active publication and their source files.
 
 
 ```vb

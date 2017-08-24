@@ -1,45 +1,44 @@
 ---
-title: "Метод TextRange.InsertAfter (издатель)"
+title: TextRange.InsertAfter Method (Publisher)
 keywords: vbapb10.chm5308448
-f1_keywords: vbapb10.chm5308448
+f1_keywords:
+- vbapb10.chm5308448
 ms.prod: publisher
-api_name: Publisher.TextRange.InsertAfter
+api_name:
+- Publisher.TextRange.InsertAfter
 ms.assetid: f647be29-68c7-b221-adf1-fa233583e74e
 ms.date: 06/08/2017
-ms.openlocfilehash: afe30fcfbd578199c97a1937dbfc03d416319ba2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeinsertafter-method-publisher"></a>Метод TextRange.InsertAfter (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий текст, добавляемый в конец диапазона текста.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.InsertAfter Method (Publisher)
 
- _выражение_. **InsertAfter** ( **_NewText_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that represents text appended to the end of a text range.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **InsertAfter**( **_NewText_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|NewText|Обязательное свойство.| **String**|Текст для вставки.|
+|NewText|Required| **String**|The text to be inserted.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 TextRange
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется номер сборки Microsoft Publisher в конец первую фигуру на первой странице active публикации. В этом примере предполагается, что указанные форму — фрагмент текста и не другого типа фигуры.
+This example adds the Microsoft Publisher build number to the end of the first shape on the first page of the active publication. This example assumes the specified shape is a text frame and not another type of shape.
 
 
 ```vb

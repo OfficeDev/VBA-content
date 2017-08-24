@@ -1,44 +1,43 @@
 ---
-title: "Метод Shape.MoveToPage (издатель)"
+title: Shape.MoveToPage Method (Publisher)
 keywords: vbapb10.chm2228376
-f1_keywords: vbapb10.chm2228376
+f1_keywords:
+- vbapb10.chm2228376
 ms.prod: publisher
-api_name: Publisher.Shape.MoveToPage
+api_name:
+- Publisher.Shape.MoveToPage
 ms.assetid: 1893035f-6739-7480-6ba0-2ca6a42355fa
 ms.date: 06/08/2017
-ms.openlocfilehash: 5cdb7940eb0ff9d4dd956e4d2b7f5f42f15a706c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapemovetopage-method-publisher"></a>Метод Shape.MoveToPage (издатель)
-
-Перемещение фигуры на указанную страницу.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.MoveToPage Method (Publisher)
 
- _выражение_. **MoveToPage** ( **_Страницы_** **_слева_** **_сверху_**)
-
- переменная _expression_A, представляющий объект **фигуры** .
+Moves a shape to the specified page.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MoveToPage**( **_Page_**,  **_Left_**,  **_Top_**)
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Page|Обязательное свойство.| **Длинный**|Страница, к которой необходимо переместить фигуру.|
-|Слева|Необязательный| **Variant**|Слева от фигуры на странице.|
-|Вверх|Необязательный| **Variant**|Верхнюю границу фигуры на странице.|
+|Page|Required| **Long**|Page to which the shape should be moved.|
+|Left|Optional| **Variant**|Left position of the shape on the page.|
+|Top|Optional| **Variant**|Top position of the shape on the page.|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **MoveToPage** для перемещения первой фигуры в коллекции **фигур** на первой странице публикации в ту же папку относительный на второй странице публикации.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **MoveToPage** method to move the first shape in the **Shapes** collection on the first page of a publication to the same relative location on the second page of the publication.
 
-В этом коде предполагается, что текущей публикации содержит по крайней мере две страницы, и имеется по крайней мере один фигуры на первой странице публикации.
+This code assumes that the current publication contains at least two pages, and that there is at least one shape on the first page of the publication.
 
 
 

@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebOptions.EnableIncrementalUpload (издатель)"
+title: WebOptions.EnableIncrementalUpload Property (Publisher)
 keywords: vbapb10.chm8257541
-f1_keywords: vbapb10.chm8257541
+f1_keywords:
+- vbapb10.chm8257541
 ms.prod: publisher
-api_name: Publisher.WebOptions.EnableIncrementalUpload
+api_name:
+- Publisher.WebOptions.EnableIncrementalUpload
 ms.assetid: 42d5e22e-7e39-848e-a7e7-5d2019f7e71c
 ms.date: 06/08/2017
-ms.openlocfilehash: 13867c84d700cd21de42182bf12d560ee29bae64
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weboptionsenableincrementalupload-property-publisher"></a>Свойство WebOptions.EnableIncrementalUpload (издатель)
-
-Возвращает или задает **логическое** значение, указывающее, могут быть загружены изменений, внесенных в веб-публикации на веб-сервере, вне зависимости от всей публикации. Если **значение True**, только изменения, внесенные в публикацию будет отправлен на веб-сервер при публикации. Если **значение False**, всей публикации будут отправлены в веб-сервере. Значение по умолчанию — **True**. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebOptions.EnableIncrementalUpload Property (Publisher)
 
- _выражение_. **EnableIncrementalUpload**
-
- переменная _expression_A, представляющий объект **WebOptions** .
+Returns or sets a  **Boolean** value that specifies whether changes made to a Web publication can be uploaded to a Web server independent of the entire publication. If **True**, only changes made to a publication will be uploaded to the Web server when published. If  **False**, the entire publication will be uploaded to the Web server. The default value is  **True**. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **EnableIncrementalUpload**
 
-
-## <a name="remarks"></a>Заметки
-
-Свойство **EnableIncrementalUpload** применяется только к веб-публикации, которые уже были опубликованы на веб-сервере. Если веб-публикации еще не был опубликован на веб-сервере, будет опубликована всей публикации на сервере во время первоначальной публикации, независимо от того, является ли свойство **EnableIncrementalUpload** имеет значение **True**. Если веб-публикации еще не были опубликованы в веб-сервера и свойство **EnableIncrementalUpload** затем задано значение **True**, только изменения, внесенные в веб-публикации, а не всю публикацию, после этого момента будет опубликована на сервере.
+ _expression_A variable that represents an  **WebOptions** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример проверяет, является ли веб-публикации задано значение Отправка только изменения, внесенные в публикации. В противном случае свойство **EnableIncrementalUpload** имеет значение **True** для указания, что только изменения публикации будут загружаться на веб-сервере.
+Boolean
+
+
+## Remarks
+
+The  **EnableIncrementalUpload** property applies only to Web publications that have already been published to a Web server. If a Web publication has not already been published to a Web server, the entire publication will be published to the server during the initial publishing process, regardless of whether the **EnableIncrementalUpload** property is set to **True**. If a Web publication has already been published to a Web server and the  **EnableIncrementalUpload** property is then set to **True**, only changes made to the Web publication, and not the entire publication, after this point will be published to the server.
+
+
+## Example
+
+The following example tests whether the Web publication is set to upload only changes made to the publication. If not, the  **EnableIncrementalUpload** property is set to **True** to specify that only changes to the publication be uploaded to the Web server.
 
 
 ```vb

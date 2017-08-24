@@ -1,42 +1,41 @@
 ---
-title: "Свойство FindReplace.Forward (издатель)"
+title: FindReplace.Forward Property (Publisher)
 keywords: vbapb10.chm8323078
-f1_keywords: vbapb10.chm8323078
+f1_keywords:
+- vbapb10.chm8323078
 ms.prod: publisher
-api_name: Publisher.FindReplace.Forward
+api_name:
+- Publisher.FindReplace.Forward
 ms.assetid: a1a0046c-81be-62d6-8739-5dc843d249bc
 ms.date: 06/08/2017
-ms.openlocfilehash: 544b76f291f8b02e5933b32a1f4ce04fce3e3816
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplaceforward-property-publisher"></a>Свойство FindReplace.Forward (издатель)
-
-Задает или получает **логическое** представляющее направление поиска текста. **Значение true,** Если операция поиска осуществляет поиск вперед в документе. **Значение false,** если оно выполняет поиск в документе. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.Forward Property (Publisher)
 
- _выражение_. **Вперед**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or retrieves a  **Boolean** representing the direction of the text search. **True** if the find operation searches forward through the document. **False** if it searches backward through the document. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **Forward**
 
-
-## <a name="remarks"></a>Заметки
-
-Прямого должно быть присвоено **значение True,** Если замена текста.
+ _expression_A variable that represents a  **FindReplace** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере заменяет все вхождения слова «» в выделении «,» в каждой открытой публикации.
+Boolean
+
+
+## Remarks
+
+Forward must be set to  **True** when replacing text.
+
+
+## Example
+
+This example replaces all occurrences of the word "This" in the selection with "That" in each open publication.
 
 
 ```vb

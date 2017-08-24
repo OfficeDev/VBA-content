@@ -1,46 +1,45 @@
 ---
-title: "Метод Tags.Add (издатель)"
+title: Tags.Add Method (Publisher)
 keywords: vbapb10.chm4653060
-f1_keywords: vbapb10.chm4653060
+f1_keywords:
+- vbapb10.chm4653060
 ms.prod: publisher
-api_name: Publisher.Tags.Add
+api_name:
+- Publisher.Tags.Add
 ms.assetid: 78602ccc-8198-1183-4775-fe626eb8b5af
 ms.date: 06/08/2017
-ms.openlocfilehash: 66d39411df5eb7d789d671f13a9580bb552daa65
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tagsadd-method-publisher"></a>Метод Tags.Add (издатель)
-
-Добавляет новый объект **тега** на указанный объект **теги** и возвращает новый объект **тега** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Tags.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_Имя_**, **_значение_**)
-
- переменная _expression_A, представляет собой объект- **теги** .
+Adds a new  **Tag** object to the specified **Tags** object and returns the new **Tag** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_Name_**,  **_Value_**)
+
+ _expression_A variable that represents a  **Tags** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя|Обязательное свойство.| **String**|Имя тега для добавления. Если тег с таким же именем уже существует, возникает ошибка.|
-|Значение|Обязательное свойство.| **Variant**|Значение, задаваемое в тег.|
+|Name|Required| **String**|The name of the tag to add. If a tag already exists with the same name, an error occurs.|
+|Value|Required| **Variant**|The value to assign to the tag.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Тег
+Tag
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется тег фигуру один на один из активных публикации страницы.
+The following example adds a tag to shape one on page one of the active publication.
 
 
 ```vb

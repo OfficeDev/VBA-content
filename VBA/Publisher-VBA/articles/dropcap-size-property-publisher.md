@@ -1,32 +1,31 @@
 ---
-title: "Свойство DropCap.Size (издатель)"
+title: DropCap.Size Property (Publisher)
 keywords: vbapb10.chm5505032
-f1_keywords: vbapb10.chm5505032
+f1_keywords:
+- vbapb10.chm5505032
 ms.prod: publisher
-api_name: Publisher.DropCap.Size
+api_name:
+- Publisher.DropCap.Size
 ms.assetid: c8111c4f-7b70-76ba-5c8e-acaeb4c90be7
 ms.date: 06/08/2017
-ms.openlocfilehash: 0d1e0b250f09bf3af18ec25c95309b79f22b33db
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="dropcapsize-property-publisher"></a>Свойство DropCap.Size (издатель)
-
-Возвращает или задает **Long** , представляющее номер строки высокой форматирование буквицы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# DropCap.Size Property (Publisher)
 
- _выражение_. **Размер**
-
- переменная _expression_A, представляет собой объект- **буквицу** .
+Returns or sets a  **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере форматов буквицы в диапазоне указанный текст, который является пять строк.
+ _expression_. **Size**
+
+ _expression_A variable that represents a  **DropCap** object.
+
+
+## Example
+
+This example formats a drop cap for the specified text range that is five lines high.
 
 
 ```vb

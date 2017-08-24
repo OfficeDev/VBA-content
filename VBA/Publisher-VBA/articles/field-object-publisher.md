@@ -1,33 +1,32 @@
 ---
-title: "Объект поля (издатель)"
+title: Field Object (Publisher)
 keywords: vbapb10.chm6160383
-f1_keywords: vbapb10.chm6160383
+f1_keywords:
+- vbapb10.chm6160383
 ms.prod: publisher
-api_name: Publisher.Field
+api_name:
+- Publisher.Field
 ms.assetid: 93da311a-b834-f990-60e9-786d4f6a16f1
 ms.date: 06/08/2017
-ms.openlocfilehash: 22ea875efca4dd9077bb1c1ba9cd278f9386a6b7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="field-object-publisher"></a>Объект поля (издатель)
 
-Представляет поле. Объект **поля** , является участником коллекции **[полей](fields-object-publisher.md)** . Коллекции **полей** представляет поля выбора, диапазон или публикации.
+
+# Field Object (Publisher)
+
+Represents a field. The  **Field** object is a member of the **[Fields](fields-object-publisher.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Константа **pbFieldPageNumber** , принадлежит к группе **PbFieldType** константы, который включает различные типы полей.
+The  **pbFieldPageNumber** constant is a member of the **PbFieldType** group of constants, which includes all the various field types.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Использование **[полей](textrange-fields-property-publisher.md)** (индекс), где индекс — номер индекса, для возврата объекта **поля** . Номер индекса представляет позицию поля выбора, диапазон или публикации. Следующие подсчитывает количество полей в активной публикации и отображает счетчик в сообщении.
+Use  **[Fields](textrange-fields-property-publisher.md)** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
  
 
  
@@ -56,26 +55,26 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Разорвать связь](field-unlink-method-publisher.md)|
+|[Unlink](field-unlink-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](field-application-property-publisher.md)|
-|[Код](field-code-property-publisher.md)|
-|[Далее](field-next-property-publisher.md)|
-|[Родительский раздел](field-parent-property-publisher.md)|
+|[Application](field-application-property-publisher.md)|
+|[Code](field-code-property-publisher.md)|
+|[Next](field-next-property-publisher.md)|
+|[Parent](field-parent-property-publisher.md)|
 |[PhoneticGuide](field-phoneticguide-property-publisher.md)|
-|[Результат](field-result-property-publisher.md)|
+|[Result](field-result-property-publisher.md)|
 |[TextRange](field-textrange-property-publisher.md)|
 |[Type](field-type-property-publisher.md)|
 

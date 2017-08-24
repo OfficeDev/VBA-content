@@ -1,37 +1,36 @@
 ---
-title: "Свойство Section.ShowHeaderFooterOnFirstPage (издатель)"
+title: Section.ShowHeaderFooterOnFirstPage Property (Publisher)
 keywords: vbapb10.chm7405574
-f1_keywords: vbapb10.chm7405574
+f1_keywords:
+- vbapb10.chm7405574
 ms.prod: publisher
-api_name: Publisher.Section.ShowHeaderFooterOnFirstPage
+api_name:
+- Publisher.Section.ShowHeaderFooterOnFirstPage
 ms.assetid: 6c814884-9bee-72ae-3a40-5118bebd6f02
 ms.date: 06/08/2017
-ms.openlocfilehash: bbbb4977545e5aafee6a7df784372246dd198edc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="sectionshowheaderfooteronfirstpage-property-publisher"></a>Свойство Section.ShowHeaderFooterOnFirstPage (издатель)
-
- **Значение true,** Если заголовок и нижний колонтитул из указанного раздела будут отображаться. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Section.ShowHeaderFooterOnFirstPage Property (Publisher)
 
- _выражение_. **ShowHeaderFooterOnFirstPage**
-
- переменная _expression_A, представляет собой объект **раздела** .
+ **True** if the header and footer of the specified section will be visible. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **ShowHeaderFooterOnFirstPage**
+
+ _expression_A variable that represents a  **Section** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере добавляется новый раздел, начиная на второй странице активного документа добавляется текст колонтитулов на главную страницу и затем задает для свойства **ShowHeaderFooterOnFirstPage** значение **True**.
+Boolean
+
+
+## Example
+
+The following example adds a new section starting on the second page of the active document, adds header and footer text to the master page, and then sets the  **ShowHeaderFooterOnFirstPage** property to **True**.
 
 
 ```vb

@@ -1,48 +1,47 @@
 ---
-title: "Свойство WebTextBox.EchoAsterisks (издатель)"
+title: WebTextBox.EchoAsterisks Property (Publisher)
 keywords: vbapb10.chm4194308
-f1_keywords: vbapb10.chm4194308
+f1_keywords:
+- vbapb10.chm4194308
 ms.prod: publisher
-api_name: Publisher.WebTextBox.EchoAsterisks
+api_name:
+- Publisher.WebTextBox.EchoAsterisks
 ms.assetid: eefab42f-9fe7-e77e-50cd-c4b1b35548f1
 ms.date: 06/08/2017
-ms.openlocfilehash: eb03e56249f9439713a31bc0a31aeb05466c7f7f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webtextboxechoasterisks-property-publisher"></a>Свойство WebTextBox.EchoAsterisks (издатель)
-
-Указывает, следует ли отображать звездочки вместо текст, введенный в элемент управления текстового поля Web. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebTextBox.EchoAsterisks Property (Publisher)
 
- _выражение_. **EchoAsterisks**
-
- переменная _expression_A, представляющий объект **WebTextBox** .
+Specifies whether asterisks should be displayed in place of text that is entered into a Web text box control. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **EchoAsterisks**
+
+ _expression_A variable that represents an  **WebTextBox** object.
+
+
+### Return Value
 
 MsoTrue
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **EchoAsterisks** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **EchoAsterisks** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**| Отображает текст, введенный в элемент управления текстового поля Web.|
-| **msoTrue**| Отображает звездочки вместо текст, введенный в элемент управления текстового поля Web.|
+| **msoFalse**| Displays the text entered into a Web text box control.|
+| **msoTrue**| Displays asterisks in place of text entered into a Web text box control.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается элемент управления текстового поля Web, устанавливает максимальное ограничение в качестве десяти символов, указывает, что запись является обязательным и маскирует запись с помощью звездочки, когда пользователь вводит в элементе управления.
+This example creates a Web text box control, sets the maximum limit as ten characters, specifies that entry is required, and masks the entry with asterisks when a user enters into the control.
 
 
 ```vb

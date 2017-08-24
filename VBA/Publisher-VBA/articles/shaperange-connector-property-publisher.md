@@ -1,44 +1,43 @@
 ---
-title: "Свойство ShapeRange.Connector (издатель)"
+title: ShapeRange.Connector Property (Publisher)
 keywords: vbapb10.chm2293813
-f1_keywords: vbapb10.chm2293813
+f1_keywords:
+- vbapb10.chm2293813
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Connector
+api_name:
+- Publisher.ShapeRange.Connector
 ms.assetid: ce05006f-38b0-c04e-4a0f-dded72dfbc10
 ms.date: 06/08/2017
-ms.openlocfilehash: 82deaffa82b65fc32254a8e41640d3b4e0ebbbeb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangeconnector-property-publisher"></a>Свойство ShapeRange.Connector (издатель)
-
-Возвращает значение, указывающее, является ли указанный фигуры соединитель **MsoTriState**. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Connector Property (Publisher)
 
- _выражение_. **Соединитель**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **соединителя** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+ _expression_. **Connector**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Remarks
+
+The  **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Фигура не является соединитель.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTrue**|Фигура — это соединитель.|
+| **msoFalse**|The shape is not a connector.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTrue**|The shape is a connector.|
 
-## <a name="example"></a>Пример
+## Example
 
-Этот пример удаляет все соединители по одному active публикации.
+This example deletes all connectors on page one of the active publication.
 
 
 ```vb

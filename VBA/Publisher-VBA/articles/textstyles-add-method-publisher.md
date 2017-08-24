@@ -1,48 +1,47 @@
 ---
-title: "Метод TextStyles.Add (издатель)"
+title: TextStyles.Add Method (Publisher)
 keywords: vbapb10.chm5898244
-f1_keywords: vbapb10.chm5898244
+f1_keywords:
+- vbapb10.chm5898244
 ms.prod: publisher
-api_name: Publisher.TextStyles.Add
+api_name:
+- Publisher.TextStyles.Add
 ms.assetid: 56bb84a2-5632-1baa-4b97-3c48d43367bf
 ms.date: 06/08/2017
-ms.openlocfilehash: 98e70bcfea9c115d20b9813b85f512d0245abf65
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textstylesadd-method-publisher"></a>Метод TextStyles.Add (издатель)
-
-Добавляет новый объект **стиля текста** на указанный объект **TextStyles** и возвращает новый объект **стиля текста** .
 
 
-## <a name="syntax"></a>Синтаксис
+# TextStyles.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_Шрифт_**, **_ParagraphFormat_** **_StyleName_**, **_BasedOn_**)
-
- переменная _expression_A, представляет собой объект- **TextStyles** .
+Adds a new  **TextStyle** object to the specified **TextStyles** object and returns the new **TextStyle** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_Font_**,  **_ParagraphFormat_**,  **_StyleName_**,  **_BasedOn_**)
+
+ _expression_A variable that represents a  **TextStyles** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|StyleName|Обязательное свойство.| **String**|Имя нового стиля текста. Если имя соответствует существующего стиля текста, будет перезаписан существующий стиль текста.|
-|BasedOn|Необязательный| **String**|Имя стиля текста, лежащие в основе нового стиля текста. Если имя не соответствует существующего стиля текста, возникает ошибка.|
-|Font|Необязательный| **Шрифт**|Параметры шрифта для применения нового стиля текста.|
-|ParagraphFormat|Необязательный| **ParagraphFormat**|Чтобы применить новый стиль текста форматирование абзаца.|
+|StyleName|Required| **String**|The name of the new text style. If the name matches an existing text style, the existing text style is overwritten.|
+|BasedOn|Optional| **String**|The name of the text style on which the new text style is based. If the name does not match an existing text style, an error occurs.|
+|Font|Optional| **Font**|The font settings to apply to the new text style.|
+|ParagraphFormat|Optional| **ParagraphFormat**|The paragraph formatting to apply to the new text style.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Стиля текста
+TextStyle
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется новый стиль текста для активной публикации на основании стиля Обычный текст.
+The following example adds a new text style to the active publication based on the Normal text style.
 
 
 ```vb

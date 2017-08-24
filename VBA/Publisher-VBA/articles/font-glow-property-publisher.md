@@ -1,38 +1,36 @@
 ---
-title: "Свойство Font.Glow (издатель)"
+title: Font.Glow Property (Publisher)
 keywords: vbapb10.chm5374020
-f1_keywords: vbapb10.chm5374020
+f1_keywords:
+- vbapb10.chm5374020
 ms.prod: publisher
 ms.assetid: 72fb3acb-e405-a03a-1e12-88b775551f7f
 ms.date: 06/08/2017
-ms.openlocfilehash: ce76e040c3a4463412714a2a5ebb598518ca76e1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontglow-property-publisher"></a>Свойство Font.Glow (издатель)
-
-Возвращает объект [GlowFormat](glowformat-object-publisher.md) , представляющий свечения, форматирование шрифта, используемого в указанный диапазон текста. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.Glow Property (Publisher)
 
- _выражение_. **Свечения**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns a  [GlowFormat](glowformat-object-publisher.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Glow**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+## Return value
 
  **GLOWFORMAT**
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект Font](font-object-publisher.md)
+ [Font Object](font-object-publisher.md)
 

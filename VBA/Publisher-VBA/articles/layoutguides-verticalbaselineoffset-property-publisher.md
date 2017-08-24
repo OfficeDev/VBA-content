@@ -1,42 +1,41 @@
 ---
-title: "Свойство LayoutGuides.VerticalBaseLineOffset (издатель)"
+title: LayoutGuides.VerticalBaseLineOffset Property (Publisher)
 keywords: vbapb10.chm1114133
-f1_keywords: vbapb10.chm1114133
+f1_keywords:
+- vbapb10.chm1114133
 ms.prod: publisher
-api_name: Publisher.LayoutGuides.VerticalBaseLineOffset
+api_name:
+- Publisher.LayoutGuides.VerticalBaseLineOffset
 ms.assetid: 9a2f031c-4469-ca26-3e79-dfa556762e05
 ms.date: 06/08/2017
-ms.openlocfilehash: c7e4a83723bf751b79068aedb259b328a2d12b6d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="layoutguidesverticalbaselineoffset-property-publisher"></a>Свойство LayoutGuides.VerticalBaseLineOffset (издатель)
-
-Возвращает значение типа **одного** , который представляет смещение вертикальной базового на указанный объект **LayoutGuides** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LayoutGuides.VerticalBaseLineOffset Property (Publisher)
 
- _выражение_. **VerticalBaseLineOffset**
-
- переменная _expression_A, представляет собой объект- **LayoutGuides** .
+Returns a  **Single** that represents the vertical baseline offset of the specified **LayoutGuides** object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **VerticalBaseLineOffset**
 
-
-## <a name="remarks"></a>Заметки
-
-Установка свойств объекта **страницы** макета руководство должны возвращаться из коллекции **макетом** .
+ _expression_A variable that represents a  **LayoutGuides** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере задает смещение вертикальной базового объекта руководства макет до 12 для второй главную страницу в активном документе.
+Single
+
+
+## Remarks
+
+When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+
+
+## Example
+
+This example sets the vertical baseline offset of the layout guides object to 12 for the second master page in the active document.
 
 
 ```vb

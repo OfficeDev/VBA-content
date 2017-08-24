@@ -1,38 +1,37 @@
 ---
-title: "Метод WebHiddenFields.Item (издатель)"
+title: WebHiddenFields.Item Method (Publisher)
 keywords: vbapb10.chm3997702
-f1_keywords: vbapb10.chm3997702
+f1_keywords:
+- vbapb10.chm3997702
 ms.prod: publisher
-api_name: Publisher.WebHiddenFields.Item
+api_name:
+- Publisher.WebHiddenFields.Item
 ms.assetid: fa060dc0-c8d3-066f-e2e9-d6f1fbf1fcce
 ms.date: 06/08/2017
-ms.openlocfilehash: c0e38be33cb0fd322bfa5d8524322baee609c313
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webhiddenfieldsitem-method-publisher"></a>Метод WebHiddenFields.Item (издатель)
-
-Возвращает **строку** , соответствующее значение скрытого поля в веб-форму или элемент списка в элемент управления списка веб.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebHiddenFields.Item Method (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **WebHiddenFields** .
+Returns a  **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **WebHiddenFields** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Variant**|Номер или имя поля или поля элемента списка, чтобы возвратить.|
+|Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 String
 

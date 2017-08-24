@@ -1,46 +1,45 @@
 ---
-title: "Свойство PictureFormat.OriginalResolution (издатель)"
+title: PictureFormat.OriginalResolution Property (Publisher)
 keywords: vbapb10.chm3604776
-f1_keywords: vbapb10.chm3604776
+f1_keywords:
+- vbapb10.chm3604776
 ms.prod: publisher
-api_name: Publisher.PictureFormat.OriginalResolution
+api_name:
+- Publisher.PictureFormat.OriginalResolution
 ms.assetid: 0cb7ee4e-3eb8-baee-6535-d936e3c5f05c
 ms.date: 06/08/2017
-ms.openlocfilehash: d054be6b2ac9f58fd19b349539735736c0c27f37
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatoriginalresolution-property-publisher"></a>Свойство PictureFormat.OriginalResolution (издатель)
-
-Возвращает значение типа **времени** , представляющий, точек на дюйм (т/д), решение, изначально сканируемые связанного рисунка. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.OriginalResolution Property (Publisher)
 
- _выражение_. **OriginalResolution**
-
- переменная _expression_A, представляющий объект **PictureFormat** .
+Returns a  **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **OriginalResolution**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство применяется только к связанных рисунков. Возвращает значение «Отказано в разрешении» для фигуры, представляющие внедренные или вставлять рисунки.
-
-Чтобы определить, является ли фигура представляет связанного рисунка, используйте свойство **[Type](shape-type-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** или свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** .
-
-Свойство **[EffectiveResolution](pictureformat-effectiveresolution-property-publisher.md)** используется для определения разрешения, в котором этот рисунок или объект OLE печатает в указанный документ.
+ _expression_A variable that represents an  **PictureFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере проверяется каждого изображения в активной публикации и возвращает свойства выбранного изображения для изображений, которые связаны.
+Long
+
+
+## Remarks
+
+This property only applies to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
+
+To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+
+Use the  **[EffectiveResolution](pictureformat-effectiveresolution-property-publisher.md)** property to determine the resolution at which the picture or OLE object prints in the specified document.
+
+
+## Example
+
+The following example tests each picture in the active publication, and returns selected image properties for pictures that are linked.
 
 
 ```vb

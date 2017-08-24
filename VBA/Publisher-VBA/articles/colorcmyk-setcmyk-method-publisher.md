@@ -1,43 +1,42 @@
 ---
-title: "Метод ColorCMYK.SetCMYK (издатель)"
+title: ColorCMYK.SetCMYK Method (Publisher)
 keywords: vbapb10.chm2621447
-f1_keywords: vbapb10.chm2621447
+f1_keywords:
+- vbapb10.chm2621447
 ms.prod: publisher
-api_name: Publisher.ColorCMYK.SetCMYK
+api_name:
+- Publisher.ColorCMYK.SetCMYK
 ms.assetid: 9c7ec18b-73e9-66bc-57f4-cd6d62817630
 ms.date: 06/08/2017
-ms.openlocfilehash: 07c070863acbcd192998979f6405a2cdce1828ae
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorcmyksetcmyk-method-publisher"></a>Метод ColorCMYK.SetCMYK (издатель)
-
-Задает значение голубой пурпурный желтый черный цвет (CMYK).
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorCMYK.SetCMYK Method (Publisher)
 
- _выражение_. **SetCMYK** ( **_Голубой_**, **_пурпурный_**, **_желтый_**, **_черный_**)
-
- переменная _expression_A, представляет собой объект- **ColorCMYK** .
+Sets a cyan-magenta-yellow-black (CMYK) color value.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetCMYK**( **_Cyan_**,  **_Magenta_**,  **_Yellow_**,  **_Black_**)
+
+ _expression_A variable that represents a  **ColorCMYK** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Голубой|Обязательное свойство.| **Длинный**|Число, представляющее голубой компонента цвета. Значение может быть любое число в диапазоне от 0 до 255.|
-|Пурпурный|Обязательное свойство.| **Длинный**|Число, представляющее пурпурный компонента цвета. Значение может быть любое число в диапазоне от 0 до 255.|
-|Желтый|Обязательное свойство.| **Длинный**|Число, представляющее компонент желтый цвет. Значение может быть любое число в диапазоне от 0 до 255.|
-|Черный|Обязательное свойство.| **Длинный**|Число, представляющее компонент черного цвета. Значение может быть любое число в диапазоне от 0 до 255.|
+|Cyan|Required| **Long**|A number that represents the cyan component of the color. Value can be any number between 0 and 255.|
+|Magenta|Required| **Long**|A number that represents the magenta component of the color. Value can be any number between 0 and 255.|
+|Yellow|Required| **Long**|A number that represents the yellow component of the color. Value can be any number between 0 and 255.|
+|Black|Required| **Long**|A number that represents the black component of the color. Value can be any number between 0 and 255.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается цвет CMYK для указанной фигуры.
+This example sets the CMYK color for the specified shape.
 
 
 ```vb

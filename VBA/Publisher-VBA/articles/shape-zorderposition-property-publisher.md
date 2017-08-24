@@ -1,41 +1,40 @@
 ---
-title: "Свойство Shape.ZOrderPosition (издатель)"
+title: Shape.ZOrderPosition Property (Publisher)
 keywords: vbapb10.chm2228312
-f1_keywords: vbapb10.chm2228312
+f1_keywords:
+- vbapb10.chm2228312
 ms.prod: publisher
-api_name: Publisher.Shape.ZOrderPosition
+api_name:
+- Publisher.Shape.ZOrderPosition
 ms.assetid: 46eb765b-578e-f6df-43b7-c14443cddbb2
 ms.date: 06/08/2017
-ms.openlocfilehash: 0bd9cde9245460e5c9d7b0276c64e592f2440141
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapezorderposition-property-publisher"></a>Свойство Shape.ZOrderPosition (издатель)
-
-Возвращает значение типа **Long** , указывающее положение указанные форму или диапазона фигуры в z порядке. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.ZOrderPosition Property (Publisher)
 
- _выражение_. **ZOrderPosition**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **Long** indicating the position of the specified shape or shape range in the z-order. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Номер индекса фигуры в коллекции **фигур** соответствует фигуры позицию в z порядке. Например, если существует четыре фигуры на странице выражение `ActiveDocument.Pages(1).Shapes(1)` возвращает фигуры на задней z порядка и выражение `ActiveDocument.Pages(1).Shapes(4)` возвращает форму в начале z порядке.
+ _expression_. **ZOrderPosition**
 
-При добавлении новой фигуры в семейство сайтов по умолчанию будет добавлена в начало z порядка.
-
-Чтобы задать положение фигуры в z порядке, используйте метод [ZOrder](shape-zorder-method-publisher.md) .
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляет овала active публикации и помещает Овал второй с обратной в z порядке при наличии по крайней мере один фигуры на странице.
+A shape's position in the z-order corresponds to the shape's index number in the  **Shapes** collection. For example, if there are four shapes on the page, the expression `ActiveDocument.Pages(1).Shapes(1)` returns the shape at the back of the z-order, and the expression `ActiveDocument.Pages(1).Shapes(4)` returns the shape at the front of the z-order.
+
+Whenever you add a new shape to a collection, it is added to the front of the z-order by default.
+
+To set the shape's position in the z-order, use the  [ZOrder](shape-zorder-method-publisher.md) method.
+
+
+## Example
+
+This example adds an oval to the active publication, and then places the oval second from the back in the z-order if there is at least one other shape on the page.
 
 
 ```vb

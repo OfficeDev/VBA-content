@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.Nodes (издатель)"
+title: ShapeRange.Nodes Property (Publisher)
 keywords: vbapb10.chm2293829
-f1_keywords: vbapb10.chm2293829
+f1_keywords:
+- vbapb10.chm2293829
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Nodes
+api_name:
+- Publisher.ShapeRange.Nodes
 ms.assetid: 513be66c-558c-f5f3-ed89-0ef4bc5a0101
 ms.date: 06/08/2017
-ms.openlocfilehash: 059beac475fc1633e67bd4ceb299b31b8d4a102f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangenodes-property-publisher"></a>Свойство ShapeRange.Nodes (издатель)
-
-Возвращает коллекцию **[ShapeNodes](shapenodes-object-publisher.md)** , представляющий геометрическое описание указанной фигуры. Применяется к **фигуры** или **ShapeRange** объектов, представляющих freeform документы.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Nodes Property (Publisher)
 
- _выражение_. **Узлы**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns a  **[ShapeNodes](shapenodes-object-publisher.md)** collection that represents the geometric description of the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent freeform drawings.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляется легко узел с сегмент после узла четырех в три фигуры на одну страницу. Фигура трех должен быть freeform документа по крайней мере четыре узлами.
+ _expression_. **Nodes**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example adds a smooth node with a curved segment after node four in shape three on page one. Shape three must be a freeform drawing with at least four nodes.
 
 
 ```vb

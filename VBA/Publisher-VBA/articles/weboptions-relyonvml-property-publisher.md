@@ -1,44 +1,43 @@
 ---
-title: "Свойство WebOptions.RelyOnVML (издатель)"
+title: WebOptions.RelyOnVML Property (Publisher)
 keywords: vbapb10.chm8257543
-f1_keywords: vbapb10.chm8257543
+f1_keywords:
+- vbapb10.chm8257543
 ms.prod: publisher
-api_name: Publisher.WebOptions.RelyOnVML
+api_name:
+- Publisher.WebOptions.RelyOnVML
 ms.assetid: 8cd29d64-48a6-d33e-cb9d-6b1ea094069a
 ms.date: 06/08/2017
-ms.openlocfilehash: 21c56e4c37148003ec5e973797920443a44375f5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weboptionsrelyonvml-property-publisher"></a>Свойство WebOptions.RelyOnVML (издатель)
-
-Возвращает или задает **логическое** значение, указывающее, создаются ли файлы изображений из графические объекты при сохранении веб-публикации. Если **значение True**, файлы еще не создан. Если **значение False**, изображения, созданные. Значение по умолчанию — **False**. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebOptions.RelyOnVML Property (Publisher)
 
- _выражение_. **RelyOnVML**
-
- переменная _expression_A, представляет собой объект- **WebOptions** .
+Returns or sets a  **Boolean** value that specifies whether image files are generated from drawing objects when a Web publication is saved. If **True**, image files are not generated. If  **False**, images are generated. The default value is  **False**. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **RelyOnVML**
 
-
-## <a name="remarks"></a>Заметки
-
-Можно уменьшить размеры файлов, не создавая изображения для графические объекты. Обратите внимание на то, что веб-браузер должен поддерживать VML Vector Markup Language () для отображения графических объектов. Microsoft Internet Explorer версии 5.0 и более поздних версий поддерживают VML, поэтому свойство **RelyOnVML** удалось установить значение **True** , если для этих браузеров. Для браузеров, не поддерживающих VML графический объект не появится при сохранении веб-публикации с помощью этого свойства включено.
-
-Если не уверены какие браузеры будет использоваться для просмотра веб-сайта, это свойство должно быть присвоено **значение False**.
+ _expression_A variable that represents a  **WebOptions** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере предполагается, что конечные пользователи Microsoft Internet Explorer версии 5.0 и поэтому указывает, что не следует создавать изображений из графические объекты при сохранении веб-публикации.
+Boolean
+
+
+## Remarks
+
+File sizes can be reduced by not generating images for drawing objects. Note that a Web browser must support Vector Markup Language (VML) to render drawing objects. Microsoft Internet Explorer versions 5.0 and later support VML, so the  **RelyOnVML** property could be set to **True** if targeting those browsers. For browsers that do not support VML, a drawing object will not appear when a Web publication is saved with this property enabled.
+
+If unsure about which browsers will be used to view the Web site, this property should be set to  **False**.
+
+
+## Example
+
+The following example assumes that end users have Microsoft Internet Explorer version 5.0, and therefore specifies that images should not be generated from drawing objects when the Web publication is saved.
 
 
 ```vb

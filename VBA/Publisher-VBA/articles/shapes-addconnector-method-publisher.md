@@ -1,61 +1,63 @@
 ---
-title: "Метод Shapes.AddConnector (издатель)"
+title: Shapes.AddConnector Method (Publisher)
 keywords: vbapb10.chm2162705
-f1_keywords: vbapb10.chm2162705
+f1_keywords:
+- vbapb10.chm2162705
 ms.prod: publisher
-api_name: Publisher.Shapes.AddConnector
+api_name:
+- Publisher.Shapes.AddConnector
 ms.assetid: fd1ef969-7960-2555-e355-9804c86f6c01
 ms.date: 06/08/2017
-ms.openlocfilehash: 66c90b627d54b7eb6f2a3e3e8ddc508317f4cefd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddconnector-method-publisher"></a>Метод Shapes.AddConnector (издатель)
-
-Добавляет новый объект **[фигуры](shape-object-publisher.md)** , представляющее соединитель для указанной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddConnector Method (Publisher)
 
- _выражение_. **AddConnector** ( **_Тип_**, **_НачалоX_**, **_BeginY_**, **_EndX_**, **_EndY_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a new  **[Shape](shape-object-publisher.md)** object representing a connector to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddConnector**( **_Type_**,  **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Тип|Обязательный| **MsoConnectorType**|Тип соединителя для добавления.|
-|BeginX|Обязательное свойство.| **Variant**|X координата начальную точку соединитель.|
-|BeginY|Обязательное свойство.| **Variant**|Начальную точку соединитель по оси y.|
-|EndX|Обязательное свойство.| **Variant**|Координата x конечной точки соединителя.|
-|EndY|Обязательное свойство.| **Variant**|Конечная точка соединителя по оси y.|
+|Type|Required| **MsoConnectorType**|The type of connector to add.|
+|BeginX|Required| **Variant**|The x-coordinate of the beginning point of the connector.|
+|BeginY|Required| **Variant**|The y-coordinate of the beginning point of the connector.|
+|EndX|Required| **Variant**|The x-coordinate of the ending point of the connector.|
+|EndY|Required| **Variant**|The y-coordinate of the ending point of the connector.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для BeginX, BeginY, EndX и EndY параметров числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+For the BeginX, BeginY, EndX, and EndY parameters, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Новый соединитель не связанные с какой другой фигурой; Используйте методы **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** и **[EndConnect](connectorformat-endconnect-method-publisher.md)** для подключения нового соединителя на другую фигуру.
+The new connector isn't connected to any other shape; use the  **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** and  **[EndConnect](connectorformat-endconnect-method-publisher.md)** methods to connect the new connector to another shape.
 
-Параметр типа может иметь одно из следующих констант **MsoConnectorType** .
+The Type parameter can be one of these  **MsoConnectorType** constants.
 
 
 
-| **msoConnectorCurve**| Добавляет искривленной формы. | | **msoConnectorElbow**| Добавляет соединителя форме локтя. | | **msoConnectorStraight**| Добавляет линейное соединитель. | | **msoConnectorTypeMixed**| Не используется с помощью этого метода. |
+| **msoConnectorCurve**|Adds a curved connector.|
+| **msoConnectorElbow**|Adds an elbow-shaped connector.|
+| **msoConnectorStraight**|Adds a straight-line connector.|
+| **msoConnectorTypeMixed**|Not used with this method.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется новый соединитель линейное для первой страницы active публикации.
+The following example adds a new straight-line connector to the first page of the active publication.
 
 
 ```vb

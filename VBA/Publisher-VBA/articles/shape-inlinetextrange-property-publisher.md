@@ -1,37 +1,36 @@
 ---
-title: "Свойство Shape.InlineTextRange (издатель)"
+title: Shape.InlineTextRange Property (Publisher)
 keywords: vbapb10.chm5308693
-f1_keywords: vbapb10.chm5308693
+f1_keywords:
+- vbapb10.chm5308693
 ms.prod: publisher
-api_name: Publisher.Shape.InlineTextRange
+api_name:
+- Publisher.Shape.InlineTextRange
 ms.assetid: 40b0ea73-499d-a930-da09-2f20066b7129
 ms.date: 06/08/2017
-ms.openlocfilehash: 5875eaa741ffd58533509688026e119d19b6daed
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeinlinetextrange-property-publisher"></a>Свойство Shape.InlineTextRange (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , показывающая положение фигуры встроенного в его содержащего диапазон текста. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.InlineTextRange Property (Publisher)
 
- _выражение_. **InlineTextRange**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that reflects the position of the inline shape in its containing text range. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Диапазон возвращаемый текст будет содержать один объект, представляющий встроенная фигура. Если фигура не является встроенной, возвращается ошибка автоматизации.
+ _expression_. **InlineTextRange**
+
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В следующем примере выполняется поиск первую фигуру (текстовое поле) на первой странице публикации и определяет, содержит ли диапазон текста в текстовом поле встроенных фигур. Если обнаружены встроенных фигур, свойство **InlineTextRange** используется для представления встроенная фигура после вставки блока текста.
+The returned text range will contain a single object representing the inline shape. An automation error is returned if the shape is not inline.
+
+
+## Example
+
+The following example finds the first shape (a text box) on the first page of the publication, and determines if the text range within the text box contains inline shapes. If inline shapes are found, the  **InlineTextRange** property is used to represent the inline shape after a block of text is inserted.
 
 
 ```vb

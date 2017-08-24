@@ -1,37 +1,36 @@
 ---
-title: "Свойство Document.TextStyles (издатель)"
+title: Document.TextStyles Property (Publisher)
 keywords: vbapb10.chm196662
-f1_keywords: vbapb10.chm196662
+f1_keywords:
+- vbapb10.chm196662
 ms.prod: publisher
-api_name: Publisher.Document.TextStyles
+api_name:
+- Publisher.Document.TextStyles
 ms.assetid: a628e5c1-aed7-dd70-81fa-d9fb54afb527
 ms.date: 06/08/2017
-ms.openlocfilehash: 5ec29c4b5d9ed87c8dc009412cae529a8bb70e95
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documenttextstyles-property-publisher"></a>Свойство Document.TextStyles (издатель)
-
-Возвращает коллекцию **[TextStyles](textstyles-object-publisher.md)** , содержащий стили текста публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.TextStyles Property (Publisher)
 
- _выражение_. **TextStyles**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[TextStyles](textstyles-object-publisher.md)** collection that contains a publication's text styles.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TextStyles**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
 
 TextStyles
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример отображает имя стиля и базового стиля первый стиль в коллекции **TextStyles** .
+The following example displays the style name and base style of the first style in the  **TextStyles** collection.
 
 
 ```vb

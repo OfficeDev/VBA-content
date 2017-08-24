@@ -1,47 +1,46 @@
 ---
-title: "Метод ShapeNodes.SetPosition (издатель)"
+title: ShapeNodes.SetPosition Method (Publisher)
 keywords: vbapb10.chm3473428
-f1_keywords: vbapb10.chm3473428
+f1_keywords:
+- vbapb10.chm3473428
 ms.prod: publisher
-api_name: Publisher.ShapeNodes.SetPosition
+api_name:
+- Publisher.ShapeNodes.SetPosition
 ms.assetid: f1a3bf8c-9778-b994-9c79-55987c6fa632
 ms.date: 06/08/2017
-ms.openlocfilehash: 0d9f29838e7511d93204463344e3863daf48f56c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapenodessetposition-method-publisher"></a>Метод ShapeNodes.SetPosition (издатель)
-
-Задает положение указанного узла. В зависимости от типа редактирования узла этот метод может повлиять на положение рядом с узлами.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeNodes.SetPosition Method (Publisher)
 
- _выражение_. **SetPosition** ( **_Индекса_**, **_X1_** **_Y1_**)
-
- переменная _expression_A, представляет собой объект- **ShapeNodes** .
+Sets the position of the specified node. Depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetPosition**( **_Index_**,  **_X1_**,  **_Y1_**)
+
+ _expression_A variable that represents a  **ShapeNodes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **[INT]**|Узел является позиция которого должно быть задано. Должно быть число от 1 до количества узлов в указанном фигуры; в противном случае возникает ошибка.|
-|X1|Обязательное свойство.| **Variant**|Горизонтальную позицию узла относительно левого верхнего угла страницы.|
-|Y1|Обязательное свойство.| **Variant**|Вертикальное положение узел относительно левого верхнего угла страницы.|
+|Index|Required| **[INT]**|The node whose position is to be set. Must be a number from 1 to the number of nodes in the specified shape; otherwise, an error occurs.|
+|X1|Required| **Variant**|The horizontal position of the node relative to the upper-left corner of the page.|
+|Y1|Required| **Variant**|The vertical position of the node relative to the upper-left corner of the page.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для X1 и аргументы Y1 числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+For the X1 and Y1 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере перемещает второй узел в третьей фигуры в активной публикации 200 точек вправо и 300 точек. Фигуры должен быть freeform документа.
+This example moves the second node in the third shape in the active publication 200 points to the right and 300 points down. The shape must be a freeform drawing.
 
 
 ```vb

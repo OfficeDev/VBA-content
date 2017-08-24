@@ -1,26 +1,25 @@
 ---
-title: "Объект буквицу (издатель)"
+title: DropCap Object (Publisher)
 keywords: vbapb10.chm5570559
-f1_keywords: vbapb10.chm5570559
+f1_keywords:
+- vbapb10.chm5570559
 ms.prod: publisher
-api_name: Publisher.DropCap
+api_name:
+- Publisher.DropCap
 ms.assetid: 7c6aeffe-cf25-a834-52de-5966df5e21d2
 ms.date: 06/08/2017
-ms.openlocfilehash: 4ef7547c5d5145cc49a9318b15f5630f35f00a1f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="dropcap-object-publisher"></a>Объект буквицу (издатель)
 
-Представляет буквицы в начале абзаца.
+
+# DropCap Object (Publisher)
+
+Represents a dropped capital letter at the beginning of a paragraph.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **[буквицу](textrange-dropcap-property-publisher.md)** используется для возврата объекта **буквицу** . В следующем примере задается буквицы для первую букву каждого абзаца в первую фигуру на первой странице active публикации. Предполагается, что указанные форму текстовое поле и не другого типа фигуры.
+Use the  **[DropCap](textrange-dropcap-property-publisher.md)** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter of each paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text box and not another type of shape.
  
 
  
@@ -33,28 +32,28 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
 |[ApplyCustomDropCap](dropcap-applycustomdropcap-method-publisher.md)|
-|[Очистить](dropcap-clear-method-publisher.md)|
+|[Clear](dropcap-clear-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](dropcap-application-property-publisher.md)|
+|[Application](dropcap-application-property-publisher.md)|
 |[FontBold](dropcap-fontbold-property-publisher.md)|
 |[FontColor](dropcap-fontcolor-property-publisher.md)|
 |[FontItalic](dropcap-fontitalic-property-publisher.md)|
 |[FontName](dropcap-fontname-property-publisher.md)|
 |[LinesUp](dropcap-linesup-property-publisher.md)|
-|[Родительский раздел](dropcap-parent-property-publisher.md)|
-|[Размер](dropcap-size-property-publisher.md)|
-|[Диапазон](dropcap-span-property-publisher.md)|
+|[Parent](dropcap-parent-property-publisher.md)|
+|[Size](dropcap-size-property-publisher.md)|
+|[Span](dropcap-span-property-publisher.md)|
 

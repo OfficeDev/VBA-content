@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.HasTable (издатель)"
+title: ShapeRange.HasTable Property (Publisher)
 keywords: vbapb10.chm2293857
-f1_keywords: vbapb10.chm2293857
+f1_keywords:
+- vbapb10.chm2293857
 ms.prod: publisher
-api_name: Publisher.ShapeRange.HasTable
+api_name:
+- Publisher.ShapeRange.HasTable
 ms.assetid: 71ce4980-f5b5-c94c-c29d-32b97cf771fd
 ms.date: 06/08/2017
-ms.openlocfilehash: 18420db0755bb08426769587c2295a2b08989fd0
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangehastable-property-publisher"></a>Свойство ShapeRange.HasTable (издатель)
-
-Возвращает **msoTrue** , если фигуры представляет объект **TableFrame** или **msoFalse** , если фигуры представляет любой другой тип объекта. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.HasTable Property (Publisher)
 
- _выражение_. **HasTable**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере проверяется выбранной фигуре ли таблица. Если он установлен, код задает ширину столбцов один к одному дюйма (72 точки).
+ _expression_. **HasTable**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example checks the currently selected shape to see if it is a table. If it is, the code sets the width of column one to one inch (72 points).
 
 
 ```vb

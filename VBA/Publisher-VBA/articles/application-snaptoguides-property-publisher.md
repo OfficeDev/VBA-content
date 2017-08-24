@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.SnapToGuides (издатель)"
+title: Application.SnapToGuides Property (Publisher)
 keywords: vbapb10.chm131110
-f1_keywords: vbapb10.chm131110
+f1_keywords:
+- vbapb10.chm131110
 ms.prod: publisher
-api_name: Publisher.Application.SnapToGuides
+api_name:
+- Publisher.Application.SnapToGuides
 ms.assetid: 09894c02-3193-cd14-ff55-45920e461af9
 ms.date: 06/08/2017
-ms.openlocfilehash: b0c8aeaae517cf2eb697178db767dfe0787ef4b5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationsnaptoguides-property-publisher"></a>Свойство Application.SnapToGuides (издатель)
-
- **Значение true** для Microsoft Publisher направляющие выравнивания объектов на странице в публикации. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.SnapToGuides Property (Publisher)
 
- _выражение_. **SnapToGuides**
-
- переменная _expression_A, представляющий объект **приложения** .
+ **True** for Microsoft Publisher to use the guides to align objects on a page in a publication. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **SnapToGuides**
+
+ _expression_A variable that represents a  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляется горизонтальных и вертикальных линейки руководства по каждой половины дюйма на первой странице и затем задает параметры для выравнивания объектов на странице, чтобы руководства по.
+Boolean
+
+
+## Example
+
+This example adds horizontal and vertical ruler guides every half inch on the first page and then sets the options to align objects on the page to the guides.
 
 
 ```vb
@@ -57,11 +56,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

@@ -1,48 +1,47 @@
 ---
-title: "Метод Pages.Add (издатель)"
+title: Pages.Add Method (Publisher)
 keywords: vbapb10.chm458757
-f1_keywords: vbapb10.chm458757
+f1_keywords:
+- vbapb10.chm458757
 ms.prod: publisher
-api_name: Publisher.Pages.Add
+api_name:
+- Publisher.Pages.Add
 ms.assetid: 3c22aa15-c1dc-94c8-62d6-a1bc9635cd89
 ms.date: 06/08/2017
-ms.openlocfilehash: 85ffcf034701c0c49bf0e42b5a55039042c96da4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagesadd-method-publisher"></a>Метод Pages.Add (издатель)
-
-Добавляет новый объект **страницы** на указанный объект **страниц** и возвращает новый объект **Page** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Pages.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_Count_**, **_после_**, **_DuplicateObjectsOnPage_**, **_AddHyperlinkToWebNavBar_**)
-
- переменная _expression_A, представляет собой объект- **страниц** .
+Adds a new  **Page** object to the specified **Pages** object and returns the new **Page** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
+
+ _expression_A variable that represents a  **Pages** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Count|Обязательное свойство.| **Длинный**|Число новых страниц для добавления.|
-|После|Обязательное свойство.| **Длинный**|Индекс страницы на странице, после которого следует добавить новые страницы. Ноль для этого аргумента добавляет новые страницы в начале публикации.|
-|DuplicateObjectsOnPage|Необязательный| **Длинный**|Индекс страницы, страницы, из которого необходимо копировать объекты в новые страницы. Если этот аргумент задан, новые страницы будет пустым. По умолчанию используется значение -1: не дублировать страниц.|
-|AddHyperlinkToWebNavBar|Необязательный| **Boolean**|Указывает, добавляются ли ссылки на новые страницы с панелями автоматического навигации существующих страниц. Если **значение True**, ссылки на новые страницы добавляются на панели автоматического навигации только существующих страниц. Если **значение False**, ссылки на новые страницы не добавляются на панели автоматического навигации существующих страниц или страниц добавлены в будущем. Значение по умолчанию — **False**.|
+|Count|Required| **Long**|The number of new pages to add.|
+|After|Required| **Long**|The page index of the page after which to add the new pages. A zero for this argument adds new pages at the beginning of the publication.|
+|DuplicateObjectsOnPage|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: do not duplicate pages.|
+|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether links to the new pages will be added to the automatic navigation bars of existing pages. If  **True**, links to the new pages will be added to the automatic navigation bars of existing pages only. If  **False**, links to the new pages will not be added to the automatic navigation bars of existing pages or new pages added in the future. Default is  **False**.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Page
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляет четыре новые страницы после первой страницы публикации и копирует все объекты из первой страницы для новых страниц.
+The following example adds four new pages after the first page in the publication and copies all the objects from the first page to the new pages.
 
 
 ```vb
@@ -52,9 +51,9 @@ Set pgNew = ActiveDocument.Pages _
  .Add(Count:=4, After:=1, DuplicateObjectsOnPage:=1)
 ```
 
-В следующем примере показано добавление двух новых страниц публикации и для параметра **AddHyperlinkToWebNavBar** **значение True** для этих двух страниц. Этот параметр указывает, позволяет использовать эти две новые страницы добавляется по панелей навигации автоматического существующих страниц и тех, которые добавлены в будущем.
+The following example demonstrates adding two new pages to the publication and setting the  **AddHyperlinkToWebNavBar** parameter to **True** for these two pages. This specifies that links to these two new pages be added to the automatic navigation bars of existing pages and those added in the future.
 
-Затем добавляется другой страницы публикации, а **AddHyperlinkToWebNavBar** задан. Это означает, что свойство **IncludePageOnNewWebNavigationBars** имеет **значение False** для только что добавленный страницы и ссылки на этой странице не будут включены в панели автоматического переходов существующих страниц.
+Another page is then added to the publication, and the  **AddHyperlinkToWebNavBar** is omitted. This means that the **IncludePageOnNewWebNavigationBars** property is **False** for the newly added page, and links to this page will not be included in the automatic navigation bars of existing pages.
 
 
 

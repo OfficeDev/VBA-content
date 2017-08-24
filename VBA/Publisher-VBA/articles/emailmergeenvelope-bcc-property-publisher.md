@@ -1,37 +1,36 @@
 ---
-title: "Свойство EmailMergeEnvelope.Bcc (издатель)"
+title: EmailMergeEnvelope.Bcc Property (Publisher)
 keywords: vbapb10.chm9043974
-f1_keywords: vbapb10.chm9043974
+f1_keywords:
+- vbapb10.chm9043974
 ms.prod: publisher
-api_name: Publisher.EmailMergeEnvelope.Bcc
+api_name:
+- Publisher.EmailMergeEnvelope.Bcc
 ms.assetid: 1d846fac-d93c-6a20-ce3b-090525dbbfe1
 ms.date: 06/08/2017
-ms.openlocfilehash: be48f830bdf9e887257076090766d232653e81d4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="emailmergeenvelopebcc-property-publisher"></a>Свойство EmailMergeEnvelope.Bcc (издатель)
-
-Получает или задает список адресов электронной почты, получающих скрытую копию (BCC) сообщения электронной почты, разделенных точкой с запятой. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# EmailMergeEnvelope.Bcc Property (Publisher)
 
- _выражение_. **Скрытой копии**
-
- переменная _expression_A, представляющий объект **EmailMergeEnvelope** .
+Gets or sets a semicolon-delimited list of e-mail addresses that receive a blind carbon copy (BCC) of the e-mail message. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Bcc**
+
+ _expression_A variable that represents an  **EmailMergeEnvelope** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Установите свойство **Bcc** в строке адреса электронной почты, разделенных точкой с запятой, как показано в следующем примере.
+Set the  **Bcc** property to a string of e-mail addresses separated by semicolons, as shown in the following example.
 
 
 ```vb

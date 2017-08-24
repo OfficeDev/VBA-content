@@ -1,37 +1,36 @@
 ---
-title: "Свойство ParagraphFormat.FirstLineIndent (издатель)"
+title: ParagraphFormat.FirstLineIndent Property (Publisher)
 keywords: vbapb10.chm5439493
-f1_keywords: vbapb10.chm5439493
+f1_keywords:
+- vbapb10.chm5439493
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.FirstLineIndent
+api_name:
+- Publisher.ParagraphFormat.FirstLineIndent
 ms.assetid: 4966b30e-7629-b66d-0870-ada91c3af4f3
 ms.date: 06/08/2017
-ms.openlocfilehash: 0462698f674a601b8c276d01ccd5c4df5a194d16
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatfirstlineindent-property-publisher"></a>Свойство ParagraphFormat.FirstLineIndent (издатель)
-
-Возвращает или задает **Variant** , который представляет дискового пространства (измеряется в точках) для отступа для первой строки в абзаце. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.FirstLineIndent Property (Publisher)
 
- _выражение_. **FirstLineIndent**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns or sets a  **Variant** that represents the amount of space (measured in points) to indent the first line in a paragraph. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **FirstLineIndent**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создает текстовое поле, заполняет его текстом и первой строки каждого абзаца, наполовину дюйма.
+This example creates a text box, fills it with text, and indents the first line of every paragraph a half inch.
 
 
 ```vb

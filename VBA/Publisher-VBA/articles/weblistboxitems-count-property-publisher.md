@@ -1,32 +1,31 @@
 ---
-title: "Свойство WebListBoxItems.Count (издатель)"
+title: WebListBoxItems.Count Property (Publisher)
 keywords: vbapb10.chm4128771
-f1_keywords: vbapb10.chm4128771
+f1_keywords:
+- vbapb10.chm4128771
 ms.prod: publisher
-api_name: Publisher.WebListBoxItems.Count
+api_name:
+- Publisher.WebListBoxItems.Count
 ms.assetid: a306e5d1-c0e4-86f3-745a-720f91bf1f25
 ms.date: 06/08/2017
-ms.openlocfilehash: 6a247e0a5392c06f295633c1bb2d0d2dd5b1bdea
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weblistboxitemscount-property-publisher"></a>Свойство WebListBoxItems.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebListBoxItems.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **WebListBoxItems** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **WebListBoxItems** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

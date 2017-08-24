@@ -1,45 +1,44 @@
 ---
-title: "Метод MailMergeMappedDataFields.Item (издатель)"
+title: MailMergeMappedDataFields.Item Method (Publisher)
 keywords: vbapb10.chm6488064
-f1_keywords: vbapb10.chm6488064
+f1_keywords:
+- vbapb10.chm6488064
 ms.prod: publisher
-api_name: Publisher.MailMergeMappedDataFields.Item
+api_name:
+- Publisher.MailMergeMappedDataFields.Item
 ms.assetid: c1c9acde-d1e5-25d3-1b59-3e848f3881b6
 ms.date: 06/08/2017
-ms.openlocfilehash: 320db070773a06b5381206e8082490b5f11649c5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergemappeddatafieldsitem-method-publisher"></a>Метод MailMergeMappedDataFields.Item (издатель)
-
-Возвращает объект отдельных в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeMappedDataFields.Item Method (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **MailMergeMappedDataFields** .
+Returns an individual object in a specified collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **MailMergeMappedDataFields** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Variant**|Номер или имя поля или поля элемента списка, чтобы возвратить.|
+|Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 MailMergeMappedDataField
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере возвращает поле «Город» из объекта поля сопоставленные данные.
+This example returns the "City" field from a mapped data fields object.
 
 
 ```vb

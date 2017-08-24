@@ -1,29 +1,26 @@
 ---
-title: "С помощью событий объекта (издатель)"
+title: Using Events with the Application Object (Publisher)
 ms.prod: publisher
 ms.assetid: 29b60d3c-3049-2ba9-8688-e46c4323e9ba
 ms.date: 06/08/2017
-ms.openlocfilehash: c1a1f69b72f0e04e5ac2cd21f5015f584db1f1a7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="using-events-with-the-application-object-publisher"></a>С помощью событий объекта (издатель)
-
-Чтобы создать обработчик событий для события объекта **Application** , необходимо выполнить следующие три действия:
 
 
-1.  [Объявите объектную переменную в модуле класса для ответа на события.](#declare)
+# Using Events with the Application Object (Publisher)
+
+To create an event handler for an event of the  **Application** object, you need to complete the following three steps:
+
+
+1.  [Declare an object variable in a class module to respond to the events.](#declare)
     
-2.  [Написание процедуры определенных событий.](#write)
+2.  [Write the specific event procedures.](#write)
     
-3.  [Инициализация объявленные объект из другого модуля.](#initialize)
+3.  [Initialize the declared object from another module.](#initialize)
     
 
-## <a name="declare-the-object-variable"></a>Объявите объектную переменную
+## Declare the Object Variable
 
-Перед внесением процедур для событий объекта **приложения** , необходимо создать новый модуль класса и объявите объект типа **приложения** с событиями. Например предположим, что новый модуль класса создается и вызывается EventClassModule. Новый модуль класса содержит следующий код.
+Before you can write procedures for the events of the  **Application** object, you must create a new class module and declare an object of type **Application** with events. For example, assume that a new class module is created and called EventClassModule. The new class module contains the following code.
 
 
 ```vb
@@ -31,9 +28,9 @@ Public WithEvents App As Publisher.Application
 ```
 
 
-## <a name="write-the-event-procedures"></a>Написание процедуры событий
+## Write the Event Procedures
 
-После объявления новый объект с событиями оно отображается в поле раскрывающегося списка **объектов** в модуле класса, и можно написать процедур обработки событий для этого нового объекта. (При выборе этого нового объекта в поле " **объект** " допустимый события для этого объекта, перечислены в раскрывающемся списке **процедуры** .) Выберите событие в раскрывающемся списке поле **процедуры** ; пустой процедуре добавляется в модуле класса.
+After the new object has been declared with events, it appears in the  **Object** drop-down list box in the class module, and you can write event procedures for the new object. (When you select the new object in the **Object** box, the valid events for that object are listed in the **Procedure** drop-down list box.) Select an event from the **Procedure** drop-down list box; an empty procedure is added to the class module.
 
 
 ```vb
@@ -43,9 +40,9 @@ End Sub
 ```
 
 
-## <a name="initialize-the-declared-object"></a>Инициализировать объект объявленные
+## Initialize the Declared Object
 
-Перед выполнением процедуры, необходимо подключить объект объявленного в модуле класса (приложение в этом примере) с помощью объекта **приложения** . Это можно сделать с помощью следующего кода из любого модуля.
+Before the procedure will run, you must connect the declared object in the class module (App in this example) with the  **Application** object. You can do this with the following code from any module.
 
 
 ```vb
@@ -55,9 +52,9 @@ Sub Register_Event_Handler()
 End Sub
 ```
 
-Выполните процедуру, Register_Event_Handler. После выполнения процедуры объект приложения в модуль класса указывает на объект Microsoft Publisher **приложения** и процедур обработки событий в модуле класса будут работать при возникновении событий.
+Run the Register_Event_Handler procedure. After the running procedure, the App object in the class module points to the Microsoft Publisher  **Application** object, and the event procedures in the class module will run when the events occur.
 
 
- **Примечание**  Сведения о создании процедур обработки событий для объекта **Document** содержатся в разделе [С помощью событий с помощью объекта Document](using-events-with-the-document-object-publisher.md).
+ **Note**  For information on creating event procedures for the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
 

@@ -1,42 +1,41 @@
 ---
-title: "Свойство CalloutFormat.Gap (издатель)"
+title: CalloutFormat.Gap Property (Publisher)
 keywords: vbapb10.chm2490631
-f1_keywords: vbapb10.chm2490631
+f1_keywords:
+- vbapb10.chm2490631
 ms.prod: publisher
-api_name: Publisher.CalloutFormat.Gap
+api_name:
+- Publisher.CalloutFormat.Gap
 ms.assetid: fd7cdac7-5f09-a574-e9ef-08feebd81cff
 ms.date: 06/08/2017
-ms.openlocfilehash: b93da27408e81f94ea98f10d2645f303147096de
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="calloutformatgap-property-publisher"></a>Свойство CalloutFormat.Gap (издатель)
-
-Возвращает или задает **Variant** , указывающее расстояние по горизонтали между в конец строки выноски и текст, ограничивающий прямоугольник. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# CalloutFormat.Gap Property (Publisher)
 
- _выражение_. **Разрывов**
-
- переменная _expression_A, представляет собой объект- **CalloutFormat** .
+Returns or sets a  **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Gap**
+
+ _expression_A variable that represents a  **CalloutFormat** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается расстояние между линии выноски и ограничивающий текстовое поле 3 пунктов для первой фигуры в активной публикации. Для обеспечения работы примера фигуры должен быть выноске.
+This example sets the distance between the callout line and the text bounding box to 3 points for the first shape in the active publication. For the example to work, the shape must be a callout.
 
 
 ```vb

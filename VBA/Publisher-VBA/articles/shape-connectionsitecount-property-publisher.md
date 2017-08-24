@@ -1,37 +1,36 @@
 ---
-title: "Свойство Shape.ConnectionSiteCount (издатель)"
+title: Shape.ConnectionSiteCount Property (Publisher)
 keywords: vbapb10.chm2228276
-f1_keywords: vbapb10.chm2228276
+f1_keywords:
+- vbapb10.chm2228276
 ms.prod: publisher
-api_name: Publisher.Shape.ConnectionSiteCount
+api_name:
+- Publisher.Shape.ConnectionSiteCount
 ms.assetid: 00c32910-96b6-6981-8359-de4a71852934
 ms.date: 06/08/2017
-ms.openlocfilehash: 35c0b0136de9007db65782b4a67bd08695680132
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeconnectionsitecount-property-publisher"></a>Свойство Shape.ConnectionSiteCount (издатель)
-
-Возвращает значение типа **Long** , показывающее общее число подключений к сайтам на текущий объект **фигуры** . Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.ConnectionSiteCount Property (Publisher)
 
- _выражение_. **ConnectionSiteCount**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Число сайтов подключения зависит от того, Геометрия фигуры. Прямоугольный объекты, включая таблицы и веб-элементы управления вероятнее всего будут иметь четыре узлами, один по центру на каждом пограничном фигуры.
+ _expression_. **ConnectionSiteCount**
+
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляется два прямоугольника active публикации и соединяет их с двумя разъемами. Основные компоненты оба соединители с подключением к сайту подключения одно на первый прямоугольник; заканчивается соединители с подключением к первого и последнего подключения к сайтам второго прямоугольника. Затем подсчитывает число подключений на первый прямоугольник.
+The number of connection sites varies depending on the shape geometry. Rectangular objects including tables and Web controls will most likely have four connection sites, one centered on each edge of the shape.
+
+
+## Example
+
+This example adds two rectangles to the active publication and joins them with two connectors. The beginnings of both connectors attach to connection site one on the first rectangle; the ends of the connectors attach to the first and last connection sites of the second rectangle. Then it counts the number of connections on the first rectangle.
 
 
 ```vb

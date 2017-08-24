@@ -1,32 +1,31 @@
 ---
-title: "Свойство Document.ActiveWindow (издатель)"
+title: Document.ActiveWindow Property (Publisher)
 keywords: vbapb10.chm196611
-f1_keywords: vbapb10.chm196611
+f1_keywords:
+- vbapb10.chm196611
 ms.prod: publisher
-api_name: Publisher.Document.ActiveWindow
+api_name:
+- Publisher.Document.ActiveWindow
 ms.assetid: 0d00a8fa-aef2-43df-3c54-0cca804b7eee
 ms.date: 06/08/2017
-ms.openlocfilehash: 6d4e33cafa90a9c2a9a9a234bbca05567e84678e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentactivewindow-property-publisher"></a>Свойство Document.ActiveWindow (издатель)
-
-Возвращает объект **[Window](window-object-publisher.md)** , представляющий окно, фокус. Так как Microsoft Publisher имеет только одного окна, существует только один объект **Window** для возврата.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ActiveWindow Property (Publisher)
 
- _выражение_. **ActiveWindow**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[Window](window-object-publisher.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается заголовка активного окна.
+ _expression_. **ActiveWindow**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+## Example
+
+This example displays the active window's caption.
 
 
 ```vb

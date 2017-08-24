@@ -1,41 +1,40 @@
 ---
-title: "Свойство BorderArt.Name (издатель)"
+title: BorderArt.Name Property (Publisher)
 keywords: vbapb10.chm7667715
-f1_keywords: vbapb10.chm7667715
+f1_keywords:
+- vbapb10.chm7667715
 ms.prod: publisher
-api_name: Publisher.BorderArt.Name
+api_name:
+- Publisher.BorderArt.Name
 ms.assetid: 71e68f08-6bf1-7f4d-5da2-9f4ce4f63021
 ms.date: 06/08/2017
-ms.openlocfilehash: 3fc3539d25e7415db250175d05388546c50f3e38
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="borderartname-property-publisher"></a>Свойство BorderArt.Name (издатель)
-
-Возвращает **строковое** значение, указывающее имя указанного объекта. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# BorderArt.Name Property (Publisher)
 
- _выражение_. **Имя**
-
- переменная _expression_A, представляет собой объект- **Узорные** .
+Returns a  **String** value indicating the name of the specified object. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Имя объекта можно использовать в сочетании с **элемента** метод или свойство **Item** возвращает ссылку на объект, если **элемент** метод или свойство для семейства сайтов, содержащее объект принимает аргумент **типа Variant** . Например, если значение свойства **Name** для фигуры — 2 прямоугольника, затем `.Shapes("Rectangle 2")` возвращает ссылку на фигуры.
+ _expression_. **Name**
 
-Свойство **Name** является свойством по умолчанию для объектов **Узорные**, **BorderArtFormat**и **метки** .
-
-
-## <a name="see-also"></a>См. также
+ _expression_A variable that represents a  **BorderArt** object.
 
 
-#### <a name="concepts"></a>Основные понятия
+## Remarks
+
+You can use an object's name in conjunction with the  **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, then `.Shapes("Rectangle 2")` will return a reference to that shape.
+
+The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
 
- [Узорные объектов](borderart-object-publisher.md)
+## See also
+
+
+#### Concepts
+
+
+ [BorderArt Object](borderart-object-publisher.md)
 

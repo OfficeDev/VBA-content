@@ -1,37 +1,36 @@
 ---
-title: "Метод MailMergeDataSource.Close (издатель)"
+title: MailMergeDataSource.Close Method (Publisher)
 keywords: vbapb10.chm6291493
-f1_keywords: vbapb10.chm6291493
+f1_keywords:
+- vbapb10.chm6291493
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.Close
+api_name:
+- Publisher.MailMergeDataSource.Close
 ms.assetid: c215743b-590a-6db9-e902-b9179b67bb8e
 ms.date: 06/08/2017
-ms.openlocfilehash: d7aeee15595d833dbe0381590ca662d64fa56298
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourceclose-method-publisher"></a>Метод MailMergeDataSource.Close (издатель)
-
-Закрывает указанного источника данных, отменяет слияния почты и преобразует все поля данных слияния почты в обычный текст.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.Close Method (Publisher)
 
- _выражение_. **Закрытие**
-
- переменная _expression_A, представляющий объект **вывода** .
+Closes the specified mail merge data source, cancels the mail merge, and converts all mail merge data fields to plain text.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Закрытие источника данных для слияния удаляет фигуры, представляющий область данных страницы публикации, связанный с источником данных.
+ _expression_. **Close**
+
+ _expression_A variable that represents a  **MailMergeDataSource** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В следующем примере закрывается источник данных для публикации active слияния.
+Closing a mail merge data source deletes the shape that represents the catalog merge area of the publication page associated with the data source.
+
+
+## Example
+
+The following example closes the data source for the active mail merge publication.
 
 
 ```vb

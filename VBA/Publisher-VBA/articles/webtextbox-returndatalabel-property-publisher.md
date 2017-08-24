@@ -1,32 +1,31 @@
 ---
-title: "Свойство WebTextBox.ReturnDataLabel (издатель)"
+title: WebTextBox.ReturnDataLabel Property (Publisher)
 keywords: vbapb10.chm4194311
-f1_keywords: vbapb10.chm4194311
+f1_keywords:
+- vbapb10.chm4194311
 ms.prod: publisher
-api_name: Publisher.WebTextBox.ReturnDataLabel
+api_name:
+- Publisher.WebTextBox.ReturnDataLabel
 ms.assetid: 83beba69-3d04-2010-0656-d6a27c08951c
 ms.date: 06/08/2017
-ms.openlocfilehash: 29b57ba230a4d121b7caee4a4b152c18a829f35e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webtextboxreturndatalabel-property-publisher"></a>Свойство WebTextBox.ReturnDataLabel (издатель)
-
-Возвращает или задает **строку** , представляющую текст, используемый с веб-страницы для подписи указанного веб-объект при отправке страницы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebTextBox.ReturnDataLabel Property (Publisher)
 
- _выражение_. **ReturnDataLabel**
-
- переменная _expression_A, представляет собой объект- **WebTextBox** .
+Returns or sets a  **String** that represents the text used by the Web page to label the specified Web object when the page is submitted. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере создается новое текстовое поле Web и определяет метку для текста в текстовом поле при отправке страницы.
+ _expression_. **ReturnDataLabel**
+
+ _expression_A variable that represents a  **WebTextBox** object.
+
+
+## Example
+
+This example creates a new Web text box and specifies the label for the text in the text box when the page is submitted.
 
 
 ```vb

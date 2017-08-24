@@ -1,49 +1,48 @@
 ---
-title: "Свойство ParagraphFormat.LockToBaseLine (издатель)"
+title: ParagraphFormat.LockToBaseLine Property (Publisher)
 keywords: vbapb10.chm5439540
-f1_keywords: vbapb10.chm5439540
+f1_keywords:
+- vbapb10.chm5439540
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.LockToBaseLine
+api_name:
+- Publisher.ParagraphFormat.LockToBaseLine
 ms.assetid: 4430bab6-a338-e61d-681c-6063d4a5c3b3
 ms.date: 06/08/2017
-ms.openlocfilehash: dc0b09dc1a681290b2e70c27a5e26078dd1d16fe
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatlocktobaseline-property-publisher"></a>Свойство ParagraphFormat.LockToBaseLine (издатель)
-
-Возвращает **MsoTristate** , представляющий текст будет расположена по направляющие или нет. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.LockToBaseLine Property (Publisher)
 
- _выражение_. **LockToBaseLine**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns an  **MsoTristate** that represents whether or not text will be positioned along baseline guides. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **LockToBaseLine**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 MsoTristate
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **LockToBaseLine** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **LockToBaseLine** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**| Текст не выравнивается по исходных значений.|
-| **msoTriStateMixed**|Указанный абзацы содержат текст, который выравнивается по исходных значений и текст, который не выравнивается по исходных значений.|
-| **msoTrue**|Текст выравнивается по исходных значений.|
+| **msoFalse**| The text is not aligned to baselines.|
+| **msoTriStateMixed**|The specified paragraphs contain both text that is aligned to baselines and text that is not aligned to baselines.|
+| **msoTrue**|The text is aligned to baselines.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается свойство **LockToBaseLine** значение **True**.
+The following example sets the  **LockToBaseLine** property to **True**.
 
 
 ```vb

@@ -1,38 +1,37 @@
 ---
-title: "Метод WebNavigationBarSets.Item (издатель)"
+title: WebNavigationBarSets.Item Method (Publisher)
 keywords: vbapb10.chm8454144
-f1_keywords: vbapb10.chm8454144
+f1_keywords:
+- vbapb10.chm8454144
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSets.Item
+api_name:
+- Publisher.WebNavigationBarSets.Item
 ms.assetid: c2be55e3-e5ef-afbe-608e-17f2325bfdb3
 ms.date: 06/08/2017
-ms.openlocfilehash: 7e02a3d4e882b2b9af1ace95cc5ae21a04f74228
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsetsitem-method-publisher"></a>Метод WebNavigationBarSets.Item (издатель)
-
-Возвращает объект отдельных в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSets.Item Method (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **WebNavigationBarSets** .
+Returns an individual object in a specified collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **WebNavigationBarSets** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Variant**|Номер или имя поля или поля элемента списка, чтобы возвратить.|
+|Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 WebNavigationBarSet
 

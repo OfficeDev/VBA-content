@@ -1,45 +1,44 @@
 ---
-title: "Событие Application.MailMergeAfterMerge (издатель)"
+title: Application.MailMergeAfterMerge Event (Publisher)
 keywords: vbapb10.chm268435465
-f1_keywords: vbapb10.chm268435465
+f1_keywords:
+- vbapb10.chm268435465
 ms.prod: publisher
-api_name: Publisher.Application.MailMergeAfterMerge
+api_name:
+- Publisher.Application.MailMergeAfterMerge
 ms.assetid: dd01d8f5-f95e-e833-bb8b-708ced54240c
 ms.date: 06/08/2017
-ms.openlocfilehash: 8f312b58be17c50a0ee727ea3d246e630f849f1f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationmailmergeaftermerge-event-publisher"></a>Событие Application.MailMergeAfterMerge (издатель)
-
-Происходит после успешного слияния всех записей в слияния почты.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.MailMergeAfterMerge Event (Publisher)
 
- _выражение_. **MailMergeAfterMerge** ( **_Doc_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs after all records in a mail merge have merged successfully.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MailMergeAfterMerge**( **_Doc_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
+|Doc|Required| **Document**|The mail merge main document.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере отображается сообщение о том, что будут завершены все записи в указанный документ объединения.
+This example displays a message stating that all records in the specified document are finished merging.
 
 
 ```vb
@@ -51,7 +50,7 @@ Private Sub MailMergeApp_MailMergeAfterMerge(ByVal Doc As Document)
 End Sub
 ```
 
-Чтобы произошло это событие необходимо поместить следующую строку кода в разделе Общие описаний модуля и выполнить следующую процедуру инициализации.
+For this event to occur, you must place the following line of code in the General Declarations section of your module and run the following initialization routine.
 
 
 
@@ -65,11 +64,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

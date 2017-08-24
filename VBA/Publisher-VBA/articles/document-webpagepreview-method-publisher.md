@@ -1,43 +1,42 @@
 ---
-title: "Метод Document.WebPagePreview (издатель)"
+title: Document.WebPagePreview Method (Publisher)
 keywords: vbapb10.chm196724
-f1_keywords: vbapb10.chm196724
+f1_keywords:
+- vbapb10.chm196724
 ms.prod: publisher
-api_name: Publisher.Document.WebPagePreview
+api_name:
+- Publisher.Document.WebPagePreview
 ms.assetid: 44083fae-d21d-9cd3-3553-a4d4346141f5
 ms.date: 06/08/2017
-ms.openlocfilehash: 96f2b074015addb1c4b9ae3422980234be718415
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentwebpagepreview-method-publisher"></a>Метод Document.WebPagePreview (издатель)
-
-Генерирует предварительный просмотр веб-страницы публикации, указанный в Internet Explorer.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.WebPagePreview Method (Publisher)
 
- _выражение_. **WebPagePreview**
-
- переменная _expression_A, представляющий объект **Document** .
+Generates a Web page preview of the specified publication in Internet Explorer.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Веб-Просмотр могут создаваться для печати публикаций. Тем не менее внешний вид веб-Просмотр может отличаться от печати публикации.
+ _expression_. **WebPagePreview**
 
-Веб-Просмотр открывает active страницу. Предварительный просмотр веб-страницы создаются для каждой страницы публикации. Тем не менее если публикация является публикацией печати или в противном случае — не имеет панели навигации, может быть способ перехода к этих страниц.
-
-Свойство **[PublicationType](document-publicationtype-property-publisher.md)** используется для определения, является ли публикации печати публикации или веб-публикации.
-
-Этот метод соответствует команду **Предварительный просмотр веб-страницы** в меню **файл** .
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В следующем примере задается активную страницу публикации и создает веб-Просмотр публикации.
+A Web preview can be generated for print publications. However, the appearance of the Web preview may differ from the printed publication.
+
+The Web preview opens with the active page displayed. Preview Web pages are generated for each page in the publication. However, if the publication is a print publication or otherwise lacks a navigation bar, there may be no way to navigate to those pages.
+
+Use the  **[PublicationType](document-publicationtype-property-publisher.md)** property to determine if a publication is a print publication or a Web publication.
+
+This method corresponds to the  **Web Page Preview** command on the **File** menu.
+
+
+## Example
+
+The following example sets the active page of the publication and generates a Web preview of the publication.
 
 
 ```vb

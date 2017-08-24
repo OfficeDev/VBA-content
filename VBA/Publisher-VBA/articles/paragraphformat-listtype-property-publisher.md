@@ -1,44 +1,43 @@
 ---
-title: "Свойство ParagraphFormat.ListType (издатель)"
+title: ParagraphFormat.ListType Property (Publisher)
 keywords: vbapb10.chm5439521
-f1_keywords: vbapb10.chm5439521
+f1_keywords:
+- vbapb10.chm5439521
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.ListType
+api_name:
+- Publisher.ParagraphFormat.ListType
 ms.assetid: 04ae7157-e864-4e95-74ff-59821eceb286
 ms.date: 06/08/2017
-ms.openlocfilehash: ad9667186a1fe8e273e56ca623cc3ea3bda05382
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatlisttype-property-publisher"></a>Свойство ParagraphFormat.ListType (издатель)
-
-Возвращает константу **PbListType** из указанного объекта **ParagraphFormat** . Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.ListType Property (Publisher)
 
- _выражение_. **ListType**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns a  **PbListType** constant from the specified **ParagraphFormat** object. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ListType**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 pbListType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Это свойство доступно только для чтения. Чтобы задать свойство **ListType** объекта **ParagraphFormat** , используйте метод **SetListType** .
+This property is read-only. To set the  **ListType** property of a **ParagraphFormat** object, use the **SetListType** method.
 
-Значение свойства **ListType** может иметь одно из **[PbListType](pblisttype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **ListType** property value can be one of the **[PbListType](pblisttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверяется, если тип списка — нумерованный список, а именно **pbListTypeArabic**. Если свойство **ListType** **pbListTypeArabic**, **pbListSeparatorParenthesis**присваивается значение свойства **ListNumberSeparator** .
+This example tests to see if the list type is a numbered list, specifically  **pbListTypeArabic**. If the  **ListType** property is set to **pbListTypeArabic**, the  **ListNumberSeparator** property value is set to **pbListSeparatorParenthesis**.
 
 
 ```vb

@@ -1,65 +1,64 @@
 ---
-title: "Метод Application.Open (издатель)"
+title: Application.Open Method (Publisher)
 keywords: vbapb10.chm131128
-f1_keywords: vbapb10.chm131128
+f1_keywords:
+- vbapb10.chm131128
 ms.prod: publisher
-api_name: Publisher.Application.Open
+api_name:
+- Publisher.Application.Open
 ms.assetid: 560ac406-f058-8fd8-4b6d-978ff369de9b
 ms.date: 06/08/2017
-ms.openlocfilehash: 592cb1e3f094d12074748f572f550a4ca2cbe4a5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationopen-method-publisher"></a>Метод Application.Open (издатель)
-
-Возвращает объект **[Document](document-object-publisher.md)** , представляющий открываемые публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.Open Method (Publisher)
 
- _выражение_. **Открыть** ( **_Имя файла_**, **_только для чтения_**, **_AddToRecentFiles_**, **_SaveChanges_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns a  **[Document](document-object-publisher.md)** object that represents the newly opened publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Open**( **_Filename_**,  **_ReadOnly_**,  **_AddToRecentFiles_**,  **_SaveChanges_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя файла|Обязательное свойство.| **String**|Имя публикации (допускаются пути).|
-|ReadOnly|Необязательный| **Boolean**| **Значение true,** чтобы открыть публикации с доступом только для чтения. Значение по умолчанию — **False**.|
-|AddToRecentFiles|Необязательный| **Boolean**| **Значение true** (по умолчанию) для добавления имени файла в список недавно использованных файлов в нижней части меню "файл".|
-|SaveChanges|Необязательный| **PbSaveOptions**|Указывает, что следует сделать Microsoft Publisher Если уже открытой публикации с несохраненными изменениями.|
-|OpenConflictDocument|Необязательный| **Boolean**| **Значение true,** для открытия публикации локального конфликта автономной конфликта. Значение по умолчанию — **False**.|
+|Filename|Required| **String**|The name of the publication (paths are accepted).|
+|ReadOnly|Optional| **Boolean**| **True** to open the publication as read-only. Default is **False**.|
+|AddToRecentFiles|Optional| **Boolean**| **True** (default) to add the file name to the list of recently used files at the bottom of the File menu.|
+|SaveChanges|Optional| **PbSaveOptions**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.|
+|OpenConflictDocument|Optional| **Boolean**| **True** to open the local conflict publication if there is an offline conflict. Default is **False**.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Документ
-
-
-## <a name="remarks"></a>Заметки
-
-Так как Publisher однодокументного интерфейса, метод **Откройте** работает только в том случае, когда откройте новый экземпляр объекта Publisher. В следующем примере показано, как создать новый видимым экземпляр Publisher. После завершения работы с второй экземпляр, свойство [Visible](window-visible-property-publisher.md)окна приложения можно задать значение **False**, но процесс продолжает работать в фоновом режиме, даже если он не отображается. Чтобы закрыть второй экземпляр, необходимо задать объект равна **Nothing**.
-
-Параметр SaveChanges может иметь одно из **PbSaveOption** константы объявляются в библиотеке типов издателя и показаны в следующей таблице.
+Document
 
 
+## Remarks
 
-|**Константы**|**Описание**|
+Because Publisher has a single document interface, the  **Open** method works only when you open a new instance of Publisher. The code sample below shows how to create a new, visible instance of Publisher. When finished with the second instance, you can set the application window's [Visible](window-visible-property-publisher.md)property to  **False**, but the process continues to run in the background, even though it is not visible. To close the second instance, you must set the object equal to  **Nothing**.
+
+The SaveChanges parameter can be one of the  **PbSaveOption** constants declared in the Publisher type library and shown in the following table.
+
+
+
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbDoNotSaveChanges**|Закройте открыть публикацию без сохранения изменений. |
-| **pbPromptToSaveChanges**|Запрашивать у пользователя, следует ли сохранить изменения в открытой публикации. По умолчанию.|
-| **pbSaveChanges**|Сохраните открыть публикацию перед закрытием.|
+| **pbDoNotSaveChanges**|Close the open publication without saving any changes. |
+| **pbPromptToSaveChanges**|Prompt the user whether to save changes in the open publication. The default.|
+| **pbSaveChanges**|Save the open publication before closing it.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается второй экземпляр издателя и открывает указанной публикации с доступом только для чтения. 
+This example creates a second instance of Publisher and opens the specified publication as read-only. 
 
-Для работы этого примера необходимо заменить _PathToFile_ путь к существующей публикации.
+For this example to work, you must replace  _PathToFile_ with the path to an existing publication.
 
 
 
@@ -75,11 +74,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

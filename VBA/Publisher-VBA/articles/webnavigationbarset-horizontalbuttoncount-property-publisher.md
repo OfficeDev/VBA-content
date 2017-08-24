@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebNavigationBarSet.HorizontalButtonCount (издатель)"
+title: WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
 keywords: vbapb10.chm8519687
-f1_keywords: vbapb10.chm8519687
+f1_keywords:
+- vbapb10.chm8519687
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSet.HorizontalButtonCount
+api_name:
+- Publisher.WebNavigationBarSet.HorizontalButtonCount
 ms.assetid: 2f6c5258-16c9-19fd-16c6-ea59c561e9de
 ms.date: 06/08/2017
-ms.openlocfilehash: 9488deefdb3c0f6784275cc1f055a1596ecc2a56
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsethorizontalbuttoncount-property-publisher"></a>Свойство WebNavigationBarSet.HorizontalButtonCount (издатель)
-
-Задает или возвращает значение типа **Long** представляет число кнопок в каждой строке кнопки для набора панели навигации веб. Чтение и запись. **Длинные**.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSet.HorizontalButtonCount Property (Publisher)
 
- _выражение_. **HorizontalButtonCount**
-
- переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
+Sets or returns a  **Long** representing the number of buttons in each row of buttons for a Web navigation bar set. Read/write. **Long**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **HorizontalButtonCount**
 
-
-## <a name="remarks"></a>Заметки
-
-Возвращает значение «Доступ запрещен», если **IsHorizontal** = **значение False** для указанного объекта **WebNavigationBarSet** . Чтобы установить ориентацию панель навигации, равной **горизонтальной** сначала перед установкой **HorizontalButtonCount** , используйте метод **ChangeOrientation** .
+ _expression_A variable that represents a  **WebNavigationBarSet** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере возвращается первый панель навигации с активного документа изменения ориентации на **горизонтальную** при необходимости задает для свойства **HorizontalButtonCount** значение **3**и свойству **HorizontalAlignment** **pbnbAlignLeft**.
+Long
+
+
+## Remarks
+
+Returns "Access denied" if  **IsHorizontal** = **False** for the specified **WebNavigationBarSet** object. Use the **ChangeOrientation** method to set the orientation of the Web navigation bar set to **horizontal** first before setting the **HorizontalButtonCount** property.
+
+
+## Example
+
+The following example returns the first Web navigation bar set from the active document, changes the orientation to  **horizontal** if necessary, sets the **HorizontalButtonCount** property to **3**, and then sets the  **HorizontalAlignment** property to **pbnbAlignLeft**.
 
 
 ```vb

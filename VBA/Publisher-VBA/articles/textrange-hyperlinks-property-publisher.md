@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.Hyperlinks (издатель)"
+title: TextRange.Hyperlinks Property (Publisher)
 keywords: vbapb10.chm5308485
-f1_keywords: vbapb10.chm5308485
+f1_keywords:
+- vbapb10.chm5308485
 ms.prod: publisher
-api_name: Publisher.TextRange.Hyperlinks
+api_name:
+- Publisher.TextRange.Hyperlinks
 ms.assetid: 0cf1f043-532c-3ffc-67cf-389adc5ac02f
 ms.date: 06/08/2017
-ms.openlocfilehash: 7bb0c98f9aefb768a3fb3d7bad7e8a4cfe83be20
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangehyperlinks-property-publisher"></a>Свойство TextRange.Hyperlinks (издатель)
-
-Возвращает коллекцию **[гиперссылки](hyperlinks-object-publisher.md)** , представляющую все гиперссылки в диапазоне указанный текст.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Hyperlinks Property (Publisher)
 
- _выражение_. **Гиперссылки**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[Hyperlinks](hyperlinks-object-publisher.md)** collection representing all the hyperlinks in the specified text range.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Гиперссылки
+ _expression_. **Hyperlinks**
+
+ _expression_A variable that represents a  **TextRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере выполняется поиск всех фигур на странице один из активных публикации, которые имеют текстовые рамки и сообщает, сколько гиперссылки каждой фигуры.
+Hyperlinks
+
+
+## Example
+
+The following example looks for all the shapes on page one of the active publication that have text frames and reports how many hyperlinks each shape has.
 
 
 ```vb

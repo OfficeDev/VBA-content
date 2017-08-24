@@ -1,45 +1,44 @@
 ---
-title: "Событие Application.MailMergeRecipientListClose (издатель)"
+title: Application.MailMergeRecipientListClose Event (Publisher)
 keywords: vbapb10.chm268435488
-f1_keywords: vbapb10.chm268435488
+f1_keywords:
+- vbapb10.chm268435488
 ms.prod: publisher
-api_name: Publisher.Application.MailMergeRecipientListClose
+api_name:
+- Publisher.Application.MailMergeRecipientListClose
 ms.assetid: 4fb77771-9897-8623-f4e7-61f631f04922
 ms.date: 06/08/2017
-ms.openlocfilehash: f9fce9fa5fbe63c25f617754a034117fbd9a0103
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationmailmergerecipientlistclose-event-publisher"></a>Событие Application.MailMergeRecipientListClose (издатель)
-
-Активируется, когда пользователь закрывает диалоговое окно **Получатели слияния** . (Из области задач **слияния почты** и **Объединение электронной почты** , нажмите кнопку **изменить получателя**). Также применяется, когда пользователь закрывает диалоговое окно **Списка продуктов объединение каталога** , которая открывается при нажатии кнопки на панели задач **Объединение в каталог** **Изменить список продуктов** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.MailMergeRecipientListClose Event (Publisher)
 
- _выражение_. **MailMergeRecipientListClose** ( **_Doc_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **E-mail Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MailMergeRecipientListClose**( **_Doc_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
+|Doc|Required| **Document**|The current publication.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **MailMergeRecipientListClose** . Будет выведено сообщение о том, что отображенные строки, описанных выше.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **MailMergeRecipientListClose** event. It displays a message notifying the user that the string described above was displayed.
 
 
 ```vb
@@ -48,7 +47,7 @@ Private Sub pubApplication_MailMergeRecipientListClose(ByVal Doc As Document)
 End Sub
 ```
 
-Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
+For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
 
 
 
@@ -57,7 +56,7 @@ End Sub
 Private WithEvents pubApplication As Application
 ```
 
-Затем выполните следующую процедуру инициализации.
+Then run the following initialization procedure.
 
 
 
@@ -69,11 +68,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

@@ -1,47 +1,46 @@
 ---
-title: "Свойство Attachments.Item (издатель)"
+title: Attachments.Item Property (Publisher)
 keywords: vbapb10.chm569344
-f1_keywords: vbapb10.chm569344
+f1_keywords:
+- vbapb10.chm569344
 ms.prod: publisher
-api_name: Publisher.Attachments.Item
+api_name:
+- Publisher.Attachments.Item
 ms.assetid: fa01c528-fc0d-9fbd-1dad-cab695a14682
 ms.date: 06/08/2017
-ms.openlocfilehash: e5697d5b0919be0cf76da288f17685a8e1c387ba
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="attachmentsitem-property-publisher"></a>Свойство Attachments.Item (издатель)
-
-Возвращает объект **[вложения](attachment-object-publisher.md)** по указанному индексу в коллекции **[вложений](attachments-object-publisher.md)** . Только для чтения. .
 
 
-## <a name="syntax"></a>Синтаксис
+# Attachments.Item Property (Publisher)
 
- _выражение_. **Элемент** ( **_Элемент_**)
-
- переменная _expression_A, представляющий коллекцию **вложений** .
+Returns the  **[Attachment](attachment-object-publisher.md)** object at the specified index position in the **[Attachments](attachments-object-publisher.md)** collection. Read-only. .
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Item_**)
+
+ _expression_A variable that represents an  **Attachments** collection.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Item|Обязательное свойство.| **Длинный**|Индекс вложения должно быть возвращено.|
+|Item|Required| **Long**|The index position of the attachment to be returned.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Attachment
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Коллекция вложений](attachments-object-publisher.md)
+ [Attachments Collection](attachments-object-publisher.md)
 

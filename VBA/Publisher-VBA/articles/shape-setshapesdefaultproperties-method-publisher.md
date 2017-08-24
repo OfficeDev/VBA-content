@@ -1,37 +1,36 @@
 ---
-title: "Метод Shape.SetShapesDefaultProperties (издатель)"
+title: Shape.SetShapesDefaultProperties Method (Publisher)
 keywords: vbapb10.chm2228264
-f1_keywords: vbapb10.chm2228264
+f1_keywords:
+- vbapb10.chm2228264
 ms.prod: publisher
-api_name: Publisher.Shape.SetShapesDefaultProperties
+api_name:
+- Publisher.Shape.SetShapesDefaultProperties
 ms.assetid: 3f7d7143-3a08-6ff4-c28e-86598212a876
 ms.date: 06/08/2017
-ms.openlocfilehash: 8dccad168c15ef9a7b5944c09d5969b0def944e9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesetshapesdefaultproperties-method-publisher"></a>Метод Shape.SetShapesDefaultProperties (издатель)
-
-Применяет форматирование для указанного фигуры или диапазона фигуры к фигуре по умолчанию. Фигуры, созданные после использования этого метода будут иметь это форматирование, примененных к ним по умолчанию.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.SetShapesDefaultProperties Method (Publisher)
 
- _выражение_. **SetShapesDefaultProperties**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Applies the formatting for the specified shape or shape range to the default shape. Shapes created after this method has been used will have this formatting applied to them by default.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Метод **SetShapesDefaultProperties** хранит два различных наборов свойств по умолчанию, другая — для объекта **Shape** ** [Свойство AutoShapeType](shape-autoshapetype-property-publisher.md)**, а другой объект **TextFrame** . Другими словами Если этот метод вызывается для автофигуры, форматирование по умолчанию этого объекта будет применяться только к новой автофигуры и не применяется для новых текстовых полей. Если этот метод вызывается для текстового поля, форматирование по умолчанию этого объекта будет применяться только к новой текстовых полей и не будет применяться к новой автофигуры.
+ _expression_. **SetShapesDefaultProperties**
+
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляет прямоугольник active публикации, форматов заливки прямоугольника, формат прямоугольника фигуру по умолчанию и затем в документ добавляется другой прямоугольник меньшего размера. Второй прямоугольник имеет же заливки как первый из них.
+The  **SetShapesDefaultProperties** method stores two different sets of default properties, one for a **Shape** object's ** [AutoShapeType Property](shape-autoshapetype-property-publisher.md)**, and another for a  **TextFrame** object. In other words, if this method is called on an AutoShape, the default formatting of that object will apply only to new AutoShapes, and will not apply to new text boxes. If this method is called on a text box, the default formatting of that object will apply only to new text boxes, and will not apply to new AutoShapes.
+
+
+## Example
+
+This example adds a rectangle to the active publication, formats the rectangle's fill, applies the rectangle's formatting to the default shape, and then adds another smaller rectangle to the document. The second rectangle has the same fill as the first one.
 
 
 ```vb

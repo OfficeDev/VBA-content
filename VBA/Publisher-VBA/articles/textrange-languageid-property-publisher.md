@@ -1,42 +1,41 @@
 ---
-title: "Свойство TextRange.LanguageID (издатель)"
+title: TextRange.LanguageID Property (Publisher)
 keywords: vbapb10.chm5308471
-f1_keywords: vbapb10.chm5308471
+f1_keywords:
+- vbapb10.chm5308471
 ms.prod: publisher
-api_name: Publisher.TextRange.LanguageID
+api_name:
+- Publisher.TextRange.LanguageID
 ms.assetid: 1007c821-cafd-0cb3-94f4-4ac25decad30
 ms.date: 06/08/2017
-ms.openlocfilehash: b7a5841aa468dd4af818708e93b508e7c0cb4cab
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangelanguageid-property-publisher"></a>Свойство TextRange.LanguageID (издатель)
-
-Возвращает или задает значение константы **MsoLanguageID** , представляющий язык для указанного объекта. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.LanguageID Property (Publisher)
 
- _выражение_. **LanguageID**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns or sets a  **MsoLanguageID** constant that represents the language for the specified object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **LanguageID**
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Return Value
 
 MsoLanguageID
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **LanguageID** может иметь одно из ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **LanguageID** property value can be one of the ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере форматов указанного выбора на французском языке. В этом примере предполагается, что курсор находится в текстовом поле.
+This example formats the specified selection as French. This example assumes that the cursor is in a text box.
 
 
 ```vb

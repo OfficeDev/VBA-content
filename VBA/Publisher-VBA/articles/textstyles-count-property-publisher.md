@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextStyles.Count (издатель)"
+title: TextStyles.Count Property (Publisher)
 keywords: vbapb10.chm5898243
-f1_keywords: vbapb10.chm5898243
+f1_keywords:
+- vbapb10.chm5898243
 ms.prod: publisher
-api_name: Publisher.TextStyles.Count
+api_name:
+- Publisher.TextStyles.Count
 ms.assetid: c8620d07-d5ad-68f6-67c6-0179da441a4c
 ms.date: 06/08/2017
-ms.openlocfilehash: 2c187fdb19b5575815f987de9e4848de012f34c0
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textstylescount-property-publisher"></a>Свойство TextStyles.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextStyles.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **TextStyles** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **TextStyles** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

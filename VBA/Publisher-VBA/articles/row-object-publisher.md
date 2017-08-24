@@ -1,26 +1,25 @@
 ---
-title: "Объект строки (издатель)"
+title: Row Object (Publisher)
 keywords: vbapb10.chm4915199
-f1_keywords: vbapb10.chm4915199
+f1_keywords:
+- vbapb10.chm4915199
 ms.prod: publisher
-api_name: Publisher.Row
+api_name:
+- Publisher.Row
 ms.assetid: 11f4688b-b94e-fa09-7c1b-4cbcca330936
 ms.date: 06/08/2017
-ms.openlocfilehash: 84ab4acc3e551d977a5a08480099db71482f7f5e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="row-object-publisher"></a>Объект строки (издатель)
 
-Представляет строку в таблице. Объект **строки** является членом коллекции **[строк](rows-object-publisher.md)** . Набор **строк** включает в себя все строки в указанной таблице.
+
+# Row Object (Publisher)
+
+Represents a row in a table. The  **Row** object is a member of the **[Rows](rows-object-publisher.md)** collection. The **Rows** collection includes all the rows in a specified table.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Использование **строк** (индекс), где индекс — число строк, для возврата объекта **строки** . Номер индекса представляет положение строки в коллекции **строк** (начиная с слева направо). В этом примере выделяет первую строку в первую фигуру на второй active публикации. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
+Use  **Rows** (index), where index is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -31,7 +30,7 @@ Sub SelectRow()
 End Sub
 ```
 
-Метод **[Item](rows-item-method-publisher.md)** коллекции **[строк](rows-object-publisher.md)** для возврата объекта **строки** . В этом примере задается заливки для всех четных строк и очищает заливки для всех нечетной нумерованный строк в указанной таблице. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
+Use the  **[Item](rows-item-method-publisher.md)** method of a **[Rows](rows-object-publisher.md)** collection to return a **Row** object. This example sets the fill for all even numbered rows and clears the fill for all odd numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -60,7 +59,7 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Используйте метод **[Add](rows-add-method-publisher.md)** для добавления строки в таблицу. В этом примере добавляет строку в указанную таблицу на второй странице active публикации и затем изменяет ширину, выполняется объединение ячеек и задает цвет заливки. В этом примере предполагается, что первой фигуры являются таблицы и не другого типа фигуры.
+Use the  **[Add](rows-add-method-publisher.md)** method to add a row to a table. This example adds a row to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
  
 
  
@@ -81,7 +80,7 @@ Sub NewRow()
 End Sub
 ```
 
-Используйте метод **[Delete](row-delete-method-publisher.md)** , чтобы удалить строку из таблицы. В этом примере удаляется добавленной в приведенном выше примере строки.
+Use the  **[Delete](row-delete-method-publisher.md)** method to delete a row from a table. This example deletes the row added in the above example.
  
 
  
@@ -95,7 +94,7 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -103,14 +102,14 @@ End Sub
 |:-----|
 |[Delete](row-delete-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](row-application-property-publisher.md)|
-|[Ячейки](row-cells-property-publisher.md)|
-|[Высота](row-height-property-publisher.md)|
-|[Родительский раздел](row-parent-property-publisher.md)|
+|[Application](row-application-property-publisher.md)|
+|[Cells](row-cells-property-publisher.md)|
+|[Height](row-height-property-publisher.md)|
+|[Parent](row-parent-property-publisher.md)|
 

@@ -1,39 +1,37 @@
 ---
-title: "Свойство GlowFormat.Transparency (издатель)"
+title: GlowFormat.Transparency Property (Publisher)
 keywords: vbapb10.chm9633795
-f1_keywords: vbapb10.chm9633795
+f1_keywords:
+- vbapb10.chm9633795
 ms.prod: publisher
 ms.assetid: 7c05f25a-5fc1-aa75-b960-19164621ccec
 ms.date: 06/08/2017
-ms.openlocfilehash: 18d4430800868d7c755ad6b0e0976db1e4d0ffec
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="glowformattransparency-property-publisher"></a>Свойство GlowFormat.Transparency (издатель)
-
-Возвращает или задает степень прозрачности эффект свечения значение между 0.0 (Непрозрачный) и 1.0 (Очистить). Чтение и запись **одного**.
 
 
-## <a name="syntax"></a>Синтаксис
+# GlowFormat.Transparency Property (Publisher)
 
- _выражение_. **Прозрачность**
-
- переменная _expression_A, представляет собой объект- **GlowFormat** .
+Returns or sets the degree of transparency for the glow effect as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single**.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
- **Один**
+ _expression_. **Transparency**
 
-
-## <a name="see-also"></a>См. также
-
-
-#### <a name="other-resources"></a>Другие ресурсы
+ _expression_A variable that represents a  **GlowFormat** object.
 
 
- [Объект GlowFormat](glowformat-object-publisher.md)
+## Return value
+
+ **Single**
+
+
+## See also
+
+
+#### Other resources
+
+
+ [GlowFormat Object](glowformat-object-publisher.md)
  
 

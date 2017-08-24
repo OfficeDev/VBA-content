@@ -1,42 +1,41 @@
 ---
-title: "Свойство ColorFormat.TintAndShade (издатель)"
+title: ColorFormat.TintAndShade Property (Publisher)
 keywords: vbapb10.chm2555912
-f1_keywords: vbapb10.chm2555912
+f1_keywords:
+- vbapb10.chm2555912
 ms.prod: publisher
-api_name: Publisher.ColorFormat.TintAndShade
+api_name:
+- Publisher.ColorFormat.TintAndShade
 ms.assetid: 1c4897e0-ac55-08a8-8c43-dbd25d097ecc
 ms.date: 06/08/2017
-ms.openlocfilehash: ab8c87eaeffcf81637d226e8760e7e0c55657f7e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorformattintandshade-property-publisher"></a>Свойство ColorFormat.TintAndShade (издатель)
-
-Возвращает или задает **единого** , представляющий добавляемого освещения или затемнения цвета указанного фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorFormat.TintAndShade Property (Publisher)
 
- _выражение_. **TintAndShade**
-
- переменная _expression_A, представляет собой объект- **ColorFormat** .
+Returns or sets a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **TintAndShade**
 
-
-## <a name="remarks"></a>Заметки
-
-От -1 (самый темный) можно ввести номер 1 (очень светлый) для свойства **TintAndShade** нуль (0), нейтральный.
+ _expression_A variable that represents a  **ColorFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере создается новая форма в активном документе, задает цвет заливки и осветляет цветом.
+Single
+
+
+## Remarks
+
+You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade** property, 0 (zero) being neutral.
+
+
+## Example
+
+This example creates a new shape in the active document, sets the fill color, and lightens the color shade.
 
 
 ```vb

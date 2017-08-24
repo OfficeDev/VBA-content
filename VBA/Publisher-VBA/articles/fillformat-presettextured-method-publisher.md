@@ -1,48 +1,70 @@
 ---
-title: "Метод FillFormat.PresetTextured (издатель)"
+title: FillFormat.PresetTextured Method (Publisher)
 keywords: vbapb10.chm2359316
-f1_keywords: vbapb10.chm2359316
+f1_keywords:
+- vbapb10.chm2359316
 ms.prod: publisher
-api_name: Publisher.FillFormat.PresetTextured
+api_name:
+- Publisher.FillFormat.PresetTextured
 ms.assetid: 971eac34-4e29-c898-93c8-9e71bd92238d
 ms.date: 06/08/2017
-ms.openlocfilehash: 1f837712b6d9cc31acbe7905c270c6bcdb6082a4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformatpresettextured-method-publisher"></a>Метод FillFormat.PresetTextured (издатель)
-
-Устанавливает указанный заливки предварительно текстуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.PresetTextured Method (Publisher)
 
- _выражение_. **PresetTextured** ( **_PresetTexture_**)
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Sets the specified fill to a preset texture.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **PresetTextured**( **_PresetTexture_**)
+
+ _expression_A variable that represents a  **FillFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PresetTexture|Обязательное свойство.| **MsoPresetTexture**|Предварительно текстуры.|
+|PresetTexture|Required| **MsoPresetTexture**|The preset texture.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр PresetTexture может иметь одно из следующих **MsoPresetTexture** константы, описанные в библиотеке типов, Microsoft Office.
+The PresetTexture parameter can be one of the following  **MsoPresetTexture** constants declared in the Microsoft Office type library.
 
 
 
-| **msoTextureBlueTissuePaper**|| **msoTextureBouquet**|| **msoTextureBrownMarble**|| **msoTextureCanvas**|| **msoTextureCork**|| **msoTextureDenim**|| **msoTextureFishFossil**|| **msoTextureGranite**|| **msoTextureGreenMarble**|| **msoTextureMediumWood**|| **msoTextureNewsprint**|| **msoTextureOak**|| **msoTexturePaperBag**|| **msoTexturePapyrus**|| **msoTextureParchment**|| **msoTexturePinkTissuePaper**|| **msoTexturePurpleMesh**|| **msoTextureRecycledPaper**|| **msoTextureSand**|| **msoTextureStationery**|| **msoTextureWalnut**|| **msoTextureWaterDroplets**|| **msoTextureWhiteMarble**|| **msoTextureWovenMat**|
+| **msoTextureBlueTissuePaper**|
+| **msoTextureBouquet**|
+| **msoTextureBrownMarble**|
+| **msoTextureCanvas**|
+| **msoTextureCork**|
+| **msoTextureDenim**|
+| **msoTextureFishFossil**|
+| **msoTextureGranite**|
+| **msoTextureGreenMarble**|
+| **msoTextureMediumWood**|
+| **msoTextureNewsprint**|
+| **msoTextureOak**|
+| **msoTexturePaperBag**|
+| **msoTexturePapyrus**|
+| **msoTextureParchment**|
+| **msoTexturePinkTissuePaper**|
+| **msoTexturePurpleMesh**|
+| **msoTextureRecycledPaper**|
+| **msoTextureSand**|
+| **msoTextureStationery**|
+| **msoTextureWalnut**|
+| **msoTextureWaterDroplets**|
+| **msoTextureWhiteMarble**|
+| **msoTextureWovenMat**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется прямоугольник с заливкой текстуры зеленый мрамор active публикацию.
+This example adds a rectangle with a green-marble textured fill to the active publication.
 
 
 ```vb

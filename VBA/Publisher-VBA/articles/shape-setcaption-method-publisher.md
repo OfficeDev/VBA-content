@@ -1,41 +1,38 @@
 ---
-title: "Метод Shape.SetCaption (издатель)"
+title: Shape.SetCaption Method (Publisher)
 ms.prod: publisher
 ms.assetid: dd3ca08b-06c7-4a12-b51c-5d76ce1601b5
 ms.date: 06/08/2017
-ms.openlocfilehash: 296548530b3acb8c86fa7e50d3f7fc25756aa53e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesetcaption-method-publisher"></a>Метод Shape.SetCaption (издатель)
-
-Задает заголовок Стиль фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.SetCaption Method (Publisher)
 
- _выражение_. **SetCaption** ( **_Стиль_**)
-
- переменная _expression_A, представляющий объект **фигуры** .
+Sets the caption style for the shape.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetCaption**( **_Style_**)
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Стиль|Обязательное свойство.| **CaptionStyle**|Задает стиль заголовка.|
+|Style|Required| **CaptionStyle**|Specifies the style of the caption.|
 
-## <a name="return-value"></a>Возвращаемое значение
+## Return Value
 
- **ФИГУРА**
+ **SHAPE**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Этот метод работает только в том случае, если `Shape.Type = pbPicture`.
+This method works only if  `Shape.Type = pbPicture`.
 
 

@@ -1,47 +1,46 @@
 ---
-title: "Свойство Font.ContextualAlternates (издатель)"
+title: Font.ContextualAlternates Property (Publisher)
 keywords: vbapb10.chm5374009
-f1_keywords: vbapb10.chm5374009
+f1_keywords:
+- vbapb10.chm5374009
 ms.prod: publisher
-api_name: Publisher.Font.ContextualAlternates
+api_name:
+- Publisher.Font.ContextualAlternates
 ms.assetid: 4737d43a-4ab8-0ae7-ce45-7be62f4aae6e
 ms.date: 06/08/2017
-ms.openlocfilehash: 42385e868aaf31076e1680ee7c1d180131db0ba9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontcontextualalternates-property-publisher"></a>Свойство Font.ContextualAlternates (издатель)
-
-Возвращает или задает константой **MsoTriState** , представляющий состояние свойство **ContextualAlternates** на символов в диапазон текста. Свойство **ContextualAlternates** включает различные фигуры варианты для некоторых символов в зависимости от контекста знаков и проектирования выбранного шрифта. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.ContextualAlternates Property (Publisher)
 
- _выражение_. **ContextualAlternates**
-
- переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
+Returns or sets an  **MsoTriState** constant that represents the state of the **ContextualAlternates** property on the characters in a text range. The **ContextualAlternates** property enables different shape choices for some characters depending on the context of the character and the design of the selected font. Read/write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ContextualAlternates**
+
+ _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+
+
+## Return Value
 
  **MsoTriState**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
 
- **Примечание**  Свойство **ContextualAlternates** имеет значение только для шрифтов OpenType, которые содержат контекстные варианты.
+ **Note**  The  **ContextualAlternates** property has an effect only for OpenType fonts that contain contextual alternates.
 
-Значение свойства **ContextualAlternates** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
+The  **ContextualAlternates** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Ни один из символов в диапазоне, отформатированный контекстные варианты.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, что диапазон содержит текст отформатирован контекстные варианты и текст не отформатирован контекстные варианты.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Все символы в диапазоне, отформатированный контекстные варианты.|
+| **msoFalse**|None of the characters in the range are formatted with contextual alternatives.|
+| **msoTriStateMixed**|Return value indicating that the range contains some text formatted with contextual alternatives and some text not formatted with contextual alternatives.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|All characters in the range are formatted with contextual alternatives.|
 

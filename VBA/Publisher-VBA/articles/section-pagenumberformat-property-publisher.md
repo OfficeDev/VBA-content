@@ -1,44 +1,43 @@
 ---
-title: "Свойство Section.PageNumberFormat (издатель)"
+title: Section.PageNumberFormat Property (Publisher)
 keywords: vbapb10.chm7405573
-f1_keywords: vbapb10.chm7405573
+f1_keywords:
+- vbapb10.chm7405573
 ms.prod: publisher
-api_name: Publisher.Section.PageNumberFormat
+api_name:
+- Publisher.Section.PageNumberFormat
 ms.assetid: 5b64a352-2fd8-9e19-3425-a7984dd67edd
 ms.date: 06/08/2017
-ms.openlocfilehash: e4e4f12df1bd86970a96963ea489adcf02888e31
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="sectionpagenumberformat-property-publisher"></a>Свойство Section.PageNumberFormat (издатель)
-
-Задает или возвращает константу **PbPageNumberFormat** , представляется форматирование нумерации страниц. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Section.PageNumberFormat Property (Publisher)
 
- _выражение_. **PageNumberFormat**
-
- переменная _expression_A, представляет собой объект **раздела** .
+Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatting of the page numbering. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PageNumberFormat**
+
+ _expression_A variable that represents a  **Section** object.
+
+
+### Return Value
 
 PbPageNumberFormat
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **PageNumberFormat** может иметь одно из **[PbPageNumberFormat](pbpagenumberformat-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **PageNumberFormat** property value can be one of the **[PbPageNumberFormat](pbpagenumberformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Доступны не все **PbPageNumberFormat** констант, в зависимости от языков, включенные или установлены.
+Not all of the  **PbPageNumberFormat** constants are available, depending on the languages that are enabled or installed.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется новый раздел в активный документ, задает формат номера страницы в нижний регистр roman и затем задается номер начальной страницы 1.
+This example adds a new section to the active document, sets the page number format to lowercase roman, and then sets the starting page number to 1.
 
 
 ```vb

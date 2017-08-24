@@ -1,45 +1,44 @@
 ---
-title: "Метод WizardProperties.FindPropertyById (издатель)"
+title: WizardProperties.FindPropertyById Method (Publisher)
 keywords: vbapb10.chm1507332
-f1_keywords: vbapb10.chm1507332
+f1_keywords:
+- vbapb10.chm1507332
 ms.prod: publisher
-api_name: Publisher.WizardProperties.FindPropertyById
+api_name:
+- Publisher.WizardProperties.FindPropertyById
 ms.assetid: 9d13ffa2-f251-0e7d-2f36-c747413143d0
 ms.date: 06/08/2017
-ms.openlocfilehash: a6a066c70d4f2f4aeff970a1842e2596d11a9434
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardpropertiesfindpropertybyid-method-publisher"></a>Метод WizardProperties.FindPropertyById (издатель)
-
-Возвращает объект **[WizardProperty](wizardproperty-object-publisher.md)** , основанный на указанным Идентификатором из коллекции мастер свойства, связанные с публикации проекта или мастер объектов макетов.
 
 
-## <a name="syntax"></a>Синтаксис
+# WizardProperties.FindPropertyById Method (Publisher)
 
- _выражение_. **FindPropertyById** ( **_Код_**)
-
- переменная _expression_A, представляет собой объект- **WizardProperties** .
+Returns a  **[WizardProperty](wizardproperty-object-publisher.md)** object, based on the specified ID, from the collection of wizard properties associated with a publication design or a Design Gallery object's wizard.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **FindPropertyById**( **_ID_**)
+
+ _expression_A variable that represents a  **WizardProperties** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ID|Обязательное свойство.| **Длинный**|Идентификатор мастера свойство для возвращения; соответствует свойству **[ID](wizardproperty-id-property-publisher.md)** объекта **WizardProperty** .|
+|ID|Required| **Long**|The ID of the the wizard property to return; corresponds to the  **[ID](wizardproperty-id-property-publisher.md)** property of the **WizardProperty** object.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 WizardProperty
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере изменяется параметры макете публикации (информационный бюллетень мастер), чтобы публикация имеет области, выделенной для адреса клиента (адреса клиента).
+The following example changes the settings of the current publication design (Newsletter Wizard) so that the publication has a region dedicated to the customer's address (Customer Address).
 
 
 ```vb

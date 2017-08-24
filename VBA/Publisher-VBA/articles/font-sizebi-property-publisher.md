@@ -1,37 +1,36 @@
 ---
-title: "Свойство Font.SizeBi (издатель)"
+title: Font.SizeBi Property (Publisher)
 keywords: vbapb10.chm5373958
-f1_keywords: vbapb10.chm5373958
+f1_keywords:
+- vbapb10.chm5373958
 ms.prod: publisher
-api_name: Publisher.Font.SizeBi
+api_name:
+- Publisher.Font.SizeBi
 ms.assetid: 1e9100e7-efa4-a7aa-69af-39c550a0b046
 ms.date: 06/08/2017
-ms.openlocfilehash: 5697b307740c6a44e1b554ec752eb6c3191159cc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontsizebi-property-publisher"></a>Свойство Font.SizeBi (издатель)
-
-Возвращает или задает значение **типа Variant** , представляющее размер в пунктах объекта **шрифта** для текста справа налево языке. Допустимые значения — от 0,5 указывает на 999,5 пунктов. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.SizeBi Property (Publisher)
 
- _выражение_. **SizeBi**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns or sets a  **Variant** value representing the size, in points, of the **Font** object for text in a right-to-left language. Valid range is 0.5 points to 999.5 points. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **SizeBi**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверяется текст во второй материал. Если справа налево языке, размер которых превышает 12 точек и курсив, полужирный — это набор текст.
+This example tests the text in the second story. If it is in a right-to-left language, larger than 12 point, and italic, the text is set to bold.
 
 
 ```vb

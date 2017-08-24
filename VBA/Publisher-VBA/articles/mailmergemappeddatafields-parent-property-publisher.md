@@ -1,32 +1,31 @@
 ---
-title: "Свойство MailMergeMappedDataFields.Parent (издатель)"
+title: MailMergeMappedDataFields.Parent Property (Publisher)
 keywords: vbapb10.chm6488066
-f1_keywords: vbapb10.chm6488066
+f1_keywords:
+- vbapb10.chm6488066
 ms.prod: publisher
-api_name: Publisher.MailMergeMappedDataFields.Parent
+api_name:
+- Publisher.MailMergeMappedDataFields.Parent
 ms.assetid: 555385db-2a8a-d5bc-5914-aaf080665d5d
 ms.date: 06/08/2017
-ms.openlocfilehash: eae0249a98142c37bef281871a6ab3edbfac6c12
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergemappeddatafieldsparent-property-publisher"></a>Свойство MailMergeMappedDataFields.Parent (издатель)
-
-Возвращает объект, представляющий родительский объект для указанного объекта. Например для объекта **[TextFrame](textframe-object-publisher.md)** возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий родительскую фигуру рамки. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeMappedDataFields.Parent Property (Publisher)
 
- _выражение_. **Родительский**
-
- переменная _expression_A, представляет собой объект- **MailMergeMappedDataFields** .
+Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере обращается к родительский объект выбранной фигуры и добавляет новую форму и задает заливки для новой фигуры.
+ _expression_. **Parent**
+
+ _expression_A variable that represents a  **MailMergeMappedDataFields** object.
+
+
+## Example
+
+This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
 
 ```vb
@@ -42,7 +41,7 @@ Sub ParentObject()
 End Sub
 ```
 
-В этом примере возвращает родительский объект frame текст является первой фигуры в активной публикации, а затем заполняет фигуры с шаблоном.
+This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
 
 
 

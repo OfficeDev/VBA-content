@@ -1,62 +1,65 @@
 ---
-title: "Метод FreeformBuilder.AddNodes (издатель)"
+title: FreeformBuilder.AddNodes Method (Publisher)
 keywords: vbapb10.chm3276816
-f1_keywords: vbapb10.chm3276816
+f1_keywords:
+- vbapb10.chm3276816
 ms.prod: publisher
-api_name: Publisher.FreeformBuilder.AddNodes
+api_name:
+- Publisher.FreeformBuilder.AddNodes
 ms.assetid: 29906bde-e6a6-f661-0f3f-085f39653e42
 ms.date: 06/08/2017
-ms.openlocfilehash: c0cccca2e9f9e85db8a71af294ee7bf89503c2a9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="freeformbuilderaddnodes-method-publisher"></a>Метод FreeformBuilder.AddNodes (издатель)
-
-Вставляет новый сегмент в конце фигуру, который создается и добавляет узлов, которые определяют сегмента. Этот метод можно использовать столько раз, сколько требуется добавить узлы freeform созданную. После добавления узлов, используйте метод **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** для создания freeform определенного ранее.
 
 
-## <a name="syntax"></a>Синтаксис
+# FreeformBuilder.AddNodes Method (Publisher)
 
- _выражение_. **AddNodes** ( **_SegmentType_**, **_EditingType_**, **_X1_**, **_Y1_**, **_X2_**, **_года 2_**, **_X3_**, **_года 3_**)
-
- переменная _expression_A, представляет собой объект- **FreeformBuilder** .
+Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the  **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the freeform you just defined.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddNodes**( **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
+
+ _expression_A variable that represents a  **FreeformBuilder** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SegmentType|Обязательное свойство.| **MsoSegmentType**|Тип сегмента будет добавлена.|
-|EditingType|Обязательное свойство.| **MsoEditingType**|Указывает тип редактирования новый узел. Если SegmentType **msoSegmentLine**, EditingType должен быть **msoEditingAuto**; в противном случае возникает ошибка.|
-|X1|Обязательное свойство.| **Variant**|Если EditingType новый сегмент **msoEditingAuto**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый узел **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы для первой контрольной точки для нового сегмента.|
-|Y1|Обязательное свойство.| **Variant**|Если EditingType новый сегмент **msoEditingAuto**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый узел **msoEditingCorner**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы для первой контрольной точки для нового сегмента.|
-|X2|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы для второй контрольной точки для нового сегмента. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
-|ГОДА 2|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы для второй контрольной точки для нового сегмента. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
-|X3|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingCorner**, этот аргумент задает расстояние по горизонтали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
-|ГОДА 3|Необязательный| **Variant**|Если EditingType новый сегмент **msoEditingAuto**, этот аргумент задает расстояние по вертикали в левом верхнем углу страницы в конечную точку новый сегмент. Если EditingType новый сегмент **msoEditingAuto**, не указать значение для этого аргумента.|
+|SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
+|EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node. If SegmentType is  **msoSegmentLine**, EditingType must be  **msoEditingAuto**; otherwise, an error occurs.|
+|X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
+|Y1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
+|X2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|Y2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|X3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|Y3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-SegmentType может иметь одно из следующих констант **MsoSegmentType** .
-
-
-
-| **msoSegmentCurve**|| **msoSegmentLine**| EditingType может иметь одно из следующих констант **MsoEditingType** .
+SegmentType can be one of these  **MsoSegmentType** constants.
 
 
 
-| **msoEditingAuto**| Добавляет тип узла, соответствующий в сегменты подключаемого. | | **msoEditingCorner**| Добавляет узел угла. | Для X1 Y1, X 2 года 2, X3 и аргументы года 3 числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+| **msoSegmentCurve**|
+| **msoSegmentLine**|
+EditingType can be one of these  **MsoEditingType** constants.
 
-Чтобы добавить узлы freeform после создания iit, используйте метод **[вставки](shapenodes-insert-method-publisher.md)** **[ShapeNodes](shapenodes-object-publisher.md)** семейства сайтов.
 
 
-## <a name="example"></a>Пример
+| **msoEditingAuto**|Adds a node type appropriate to the segments being connected.|
+| **msoEditingCorner**|Adds a corner node.|
+For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-В этом примере добавляется freeform с четырьмя вершинами для первой страницы в активной публикации.
+To add nodes to a freeform after iit is created, use the  **[Insert](shapenodes-insert-method-publisher.md)** method of the  **[ShapeNodes](shapenodes-object-publisher.md)** collection.
+
+
+## Example
+
+This example adds a freeform with four vertices to the first page in the active publication.
 
 
 ```vb

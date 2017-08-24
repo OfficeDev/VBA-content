@@ -1,37 +1,36 @@
 ---
-title: "Свойство Shape.GroupItems (издатель)"
+title: Shape.GroupItems Property (Publisher)
 keywords: vbapb10.chm2228280
-f1_keywords: vbapb10.chm2228280
+f1_keywords:
+- vbapb10.chm2228280
 ms.prod: publisher
-api_name: Publisher.Shape.GroupItems
+api_name:
+- Publisher.Shape.GroupItems
 ms.assetid: 9194f43b-bd8a-76a9-aa8c-17544d052d47
 ms.date: 06/08/2017
-ms.openlocfilehash: cb72d5d4d721c16756734095acfca6cad80c7b9d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapegroupitems-property-publisher"></a>Свойство Shape.GroupItems (издатель)
-
-Если указанные форму — это группа, возвращает коллекцию **[GroupShapes](groupshapes-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.GroupItems Property (Publisher)
 
- _выражение_. **GroupItems**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **[GroupShapes](groupshapes-object-publisher.md)** collection if the specified shape is a group.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Все объекты смарт-будет рассматриваться как группы фигур.
+ _expression_. **GroupItems**
+
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляется три треугольники на публикацию, группирует их, задает цвет для всей группы и затем меняет свой цвет для второй треугольник только.
+All smart objects will be treated as grouped shapes.
+
+
+## Example
+
+This example adds three triangles to a publication, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb

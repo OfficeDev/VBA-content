@@ -1,49 +1,48 @@
 ---
-title: "Метод ThreeDFormat.IncrementRotationX (издатель)"
+title: ThreeDFormat.IncrementRotationX Method (Publisher)
 keywords: vbapb10.chm3801104
-f1_keywords: vbapb10.chm3801104
+f1_keywords:
+- vbapb10.chm3801104
 ms.prod: publisher
-api_name: Publisher.ThreeDFormat.IncrementRotationX
+api_name:
+- Publisher.ThreeDFormat.IncrementRotationX
 ms.assetid: d64204d6-ff4e-aa25-7795-858006ba2cf2
 ms.date: 06/08/2017
-ms.openlocfilehash: f08dff5bfffa2492c457221291a513a49d467706
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformatincrementrotationx-method-publisher"></a>Метод ThreeDFormat.IncrementRotationX (издатель)
-
-Изменяет вращение указанного фигуры вокруг оси x (по горизонтали) указанное число градусов.
 
 
-## <a name="syntax"></a>Синтаксис
+# ThreeDFormat.IncrementRotationX Method (Publisher)
 
- _выражение_. **IncrementRotationX** ( **_Порядкового номера_**)
-
- переменная _expression_A, представляет собой объект- **ThreeDFormat** .
+Changes the rotation of the specified shape around the x-axis (horizontal) by the specified number of degrees.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **IncrementRotationX**( **_Increment_**)
+
+ _expression_A variable that represents a  **ThreeDFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Порядкового номера|Обязательное свойство.| **Один**|Указывает, сколько градусов Поворот фигуры относительно оси x. Может быть в диапазоне от - 90 до 90. Положительное значение tilts фигуры. отрицательное значение tilts его работу.|
+|Increment|Required| **Single**|Specifies by how many degrees to rotate the shape around the x-axis. Can be a value from - 90 through 90. A positive value tilts the shape up; a negative value tilts it down.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **[RotationX](threedformat-rotationx-property-publisher.md)** задать абсолютные вращения фигуры относительно оси x.
+Use the  **[RotationX](threedformat-rotationx-property-publisher.md)** property to set the absolute rotation of the shape around the x-axis.
 
-Нельзя изменять размеры поворот вокруг оси x указанного фигуры за границу верхней или нижней, для свойства **RotationX** (90 градусов - 90 градусов). К примеру Если свойство **RotationX** изначально установлено значение 80 и можно указать 40 для аргумента **_порядкового номера_** , итоговый вращение 90 (верхний предел для свойства **RotationX** ) вместо 120.
+You cannot adjust the rotation around the x-axis of the specified shape past the upper or lower limit for the  **RotationX** property (90 degrees to - 90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the **_Increment_** argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
 
-Чтобы изменить вращения фигуры относительно оси y (по вертикали), используйте метод **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** . Чтобы изменить вращения вокруг оси z (расширяет наружу плоскости публикации), используйте метод **[IncrementRotation](shape-incrementrotation-method-publisher.md)** .
+To change the rotation of a shape around the y-axis (vertical), use the  **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** method. To change the rotation around the z-axis (extends outward from the plane of the publication), use the  **[IncrementRotation](shape-incrementrotation-method-publisher.md)** method.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере tilts первую фигуру в активной публикации копирование 10 градусов. Фигуры должен быть вытянутый фигуру увидеть результат этого кода.
+This example tilts the first shape in the active publication up 10 degrees. The shape must be an extruded shape for you to see the effect of this code.
 
 
 ```vb

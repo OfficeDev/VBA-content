@@ -1,42 +1,41 @@
 ---
-title: "Свойство WizardProperty.CurrentValueId (издатель)"
+title: WizardProperty.CurrentValueId Property (Publisher)
 keywords: vbapb10.chm1572869
-f1_keywords: vbapb10.chm1572869
+f1_keywords:
+- vbapb10.chm1572869
 ms.prod: publisher
-api_name: Publisher.WizardProperty.CurrentValueId
+api_name:
+- Publisher.WizardProperty.CurrentValueId
 ms.assetid: d8a2eeb0-f6e7-2687-5952-cddd2cc3914b
 ms.date: 06/08/2017
-ms.openlocfilehash: 826e21c9823e3dfa4ebab7881f90a41ca340c8c3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardpropertycurrentvalueid-property-publisher"></a>Свойство WizardProperty.CurrentValueId (издатель)
-
-Возвращает или задает **Long** , указывающее значения параметра в указанной публикации проекта или мастер макетов объектов. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WizardProperty.CurrentValueId Property (Publisher)
 
- _выражение_. **CurrentValueId**
-
- переменная _expression_A, представляет собой объект- **WizardProperty** .
+Returns or sets a  **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **CurrentValueId**
 
-
-## <a name="remarks"></a>Заметки
-
-Доступ к этому свойству для параметра публикации проекта, для свойства **[Enabled](wizardproperty-enabled-property-publisher.md)** является **False** приводит к ошибке.
+ _expression_A variable that represents a  **WizardProperty** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере изменяется параметры макете публикации (информационный бюллетень мастер), чтобы публикация имеет области, выделенной для адреса клиента.
+Long
+
+
+## Remarks
+
+Accessing this property for a publication design setting whose  **[Enabled](wizardproperty-enabled-property-publisher.md)** property is **False** causes an error.
+
+
+## Example
+
+The following example changes the settings of the current publication design (Newsletter Wizard) so that the publication has a region dedicated to the customer's address.
 
 
 ```vb

@@ -1,51 +1,50 @@
 ---
-title: "Метод TextRange.InsertSymbol (издатель)"
+title: TextRange.InsertSymbol Method (Publisher)
 keywords: vbapb10.chm5308452
-f1_keywords: vbapb10.chm5308452
+f1_keywords:
+- vbapb10.chm5308452
 ms.prod: publisher
-api_name: Publisher.TextRange.InsertSymbol
+api_name:
+- Publisher.TextRange.InsertSymbol
 ms.assetid: 607d12da-5a2d-4e0e-b45e-92275ce97bab
 ms.date: 06/08/2017
-ms.openlocfilehash: fe91b046cb65c33b60209446398cf2e075ee1ca6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeinsertsymbol-method-publisher"></a>Метод TextRange.InsertSymbol (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий символ вставлен вместо заданного диапазона или выделения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.InsertSymbol Method (Publisher)
 
- _выражение_. **InsertSymbol** ( **_FontName_**, **_CharIndex_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a symbol inserted in place of the specified range or selection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **InsertSymbol**( **_FontName_**,  **_CharIndex_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FontName|Обязательное свойство.| **String**|Имя шрифта, которая содержит символ.|
-|CharIndex|Обязательное свойство.| **Длинный**|Символ Юникода для указанного символа.|
+|FontName|Required| **String**|The name of the font that contains the symbol.|
+|CharIndex|Required| **Long**|The Unicode character for the specified symbol.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 TextRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если вы не хотите заменить диапазон или выделить фрагмент, используйте [Метод TextRange.Collapse (издатель)](textrange-collapse-method-publisher.md) , прежде чем использовать этот метод.
+If you do not want to replace the range or selection, use the  [TextRange.Collapse Method (Publisher)](textrange-collapse-method-publisher.md) before you use this method.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере вставляет двунаправленной стрелки в текущей позиции.
+This example inserts a double-headed arrow at the cursor.
 
 
 ```vb

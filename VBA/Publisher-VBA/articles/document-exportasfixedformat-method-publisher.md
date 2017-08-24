@@ -1,83 +1,82 @@
 ---
-title: "Метод Document.ExportAsFixedFormat (издатель)"
+title: Document.ExportAsFixedFormat Method (Publisher)
 keywords: vbapb10.chm196758
-f1_keywords: vbapb10.chm196758
+f1_keywords:
+- vbapb10.chm196758
 ms.prod: publisher
-api_name: Publisher.Document.ExportAsFixedFormat
+api_name:
+- Publisher.Document.ExportAsFixedFormat
 ms.assetid: 8bb5b64f-57b2-cf87-344c-be1e2741a59c
 ms.date: 06/08/2017
-ms.openlocfilehash: e08a93ce17a2e5dce599e15c5ef7e1c98c51f24a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentexportasfixedformat-method-publisher"></a>Метод Document.ExportAsFixedFormat (издатель)
-
-Сохраняет публикации Microsoft Publisher в формате PDF или XPS. Преобразование readies документа отправку коммерческие нажатий для копирования бюро для печати, рабочий стол или для электронного распространения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ExportAsFixedFormat Method (Publisher)
 
- _выражение_. **ExportAsFixedFormat** ( **_Формат_**, **_имя файла_**, **_Назначение_**, **_IncludeDocumentProperties_**, **_ColorDownsampleTarget_**, **_ColorDownsampleThreshold_**, **_OneBitDownsampleTarget_**, **_OneBitDownsampleThreshold_**, **_из_**, **_для_**, **_копии_**, **_сортировки_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
-
- переменная _expression_A, представляющий объект **Document** .
+Saves a Microsoft Publisher publication in PDF or XPS format. The conversion readies the document to be sent to commercial presses, to copy shops, for desktop printing, or for electronic distribution.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ExportAsFixedFormat**( **_Format_**,  **_Filename_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Формат|Обязательное свойство.| **PbFixedFormatType**|Формат, в котором требуется экспортировать публикации. Возможные значения см.|
-|Имя файла|Обязательное свойство.| **String**|Имя файла экспортированного файла.|
-|Цель|Необязательный| **PbFixedFormatIntent**|Качество выходные данные из экспортированного файла. Возможные значения см.|
-|IncludeDocumentProperties|Необязательный| **Boolean**| **Значение true,** Если вы хотите сохранить свойства документа с PDF-файла.|
-|ColorDownsampleTarget|Необязательный| **Длинный**|В целевом объекте вниз выборки цветного изображения. Измеряется в точках на дюйм. Должно быть больше, чем 96 |
-|ColorDownsampleThreshold|Необязательный| **Длинный**|Пороговое значение в строке или над которой изображение уменьшается уровень конечного ColorDownsample.|
-|OneBitDownsampleTarget|Необязательный| **Длинный**|В целевом объекте вниз выборки один разрядный изображений.|
-|OneBitDownsampleThreshold|Необязательный| **Длинный**|Пороговое значение в строке или над которой изображение уменьшается уровень конечного OneBitDownsample.|
-|From|Необязательный| **Длинный**|Номер первой страницы для экспорта.|
-|Чтобы|Необязательный| **Длинный**|Номер последней страницы для экспорта.|
-|Копий|Необязательный| **Длинный**|Число копий.|
-|Сопоставление|Необязательный| **Boolean**|Следует ли копиям.|
-|PrintStyle|Необязательный| **PbPrintStyle**|Стиль печати экспортированного файла. Возможные значения см.|
-|DocStructureTags|Необязательный| **Boolean**|Следует ли включать теги структуры документа для улучшения читаемости документов. По умолчанию используется **значение True**.|
-|BitmapMissingFonts|Необязательный| **Boolean**|Следует ли включать растровое изображение текста. Передайте **значение True** для этого параметра при шрифта лицензий не разрешать шрифтов, внедренных в PDF-файл. Если передать **значение False**, ссылка на шрифт, а компьютера средство просмотра заменяет соответствующий шрифт, если авторских будет недоступен. Значение по умолчанию — **True**. |
-|UseISO19005_1|Необязательный| **Boolean**|Результирующий документ совместим с ISO 19005-1 (PDF/A). Значение по умолчанию — **False**.|
-|ExternalExporter|Необязательный| **Variant**|Указатель на надстройки, обеспечивающий вызовы альтернативного реализации кода. Можно добавить поддержку дополнительных форматов основных путем написания надстройки Microsoft Office, который реализует интерфейс COM **IMsoDocExporter** . Дополнительные сведения см. «Расширение функции экспорта в фиксированный формат Office (2007)» на сайте MSDN.|
+|Format|Required| **PbFixedFormatType**|The format in which you want to export the publication. See Remarks for possible values.|
+|Filename|Required| **String**|The file name for the exported file.|
+|Intent|Optional| **PbFixedFormatIntent**|The output quality of the exported file. See Remarks for possible values.|
+|IncludeDocumentProperties|Optional| **Boolean**| **True** if you want to save the document properties with the PDF file.|
+|ColorDownsampleTarget|Optional| **Long**|The target for down-sampling of colored images. Measured in dots per inch. Must be greater than 96 |
+|ColorDownsampleThreshold|Optional| **Long**|The threshold at or above which an image is down-sampled to the ColorDownsample target level.|
+|OneBitDownsampleTarget|Optional| **Long**|The target for down-sampling of one-bit images.|
+|OneBitDownsampleThreshold|Optional| **Long**|The threshold at or above which an image is down-sampled to the OneBitDownsample target level.|
+|From|Optional| **Long**|The page number of the first page to export.|
+|To|Optional| **Long**|The page number of the last page to export.|
+|Copies|Optional| **Long**|The number of copies.|
+|Collate|Optional| **Boolean**|Whether to collate the copies.|
+|PrintStyle|Optional| **PbPrintStyle**|The style in which to print the exported file. See Remarks for possible values.|
+|DocStructureTags|Optional| **Boolean**|Whether to include document structure tags to improve document accessibility. The default is  **True**.|
+|BitmapMissingFonts|Optional| **Boolean**|Whether to include a bitmap of the text. Pass  **True** for this parameter when font licenses do not permit a font to be embedded in the PDF file. If you pass **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available. Default value is  **True**. |
+|UseISO19005_1|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False**.|
+|ExternalExporter|Optional| **Variant**|A pointer to an add-in that allows calls to an alternate implementation of code. You can add support for additional fixed formats by writing a Microsoft Office add-in that implements the  **IMsoDocExporter** COM interface. For more information, see "Extending the Office (2007) Fixed-Format Export Feature" on MSDN.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Метод **ExportAsFixedFormat** эквивалентен команду **Опубликовать в формате PDF или XPS** в пользовательском интерфейсе Publisher в меню **файл** .
+The  **ExportAsFixedFormat** method is the equivalent of the **Publish As PDF or XPS** command on the **File** menu in the Publisher user interface.
 
-Возможные значения для параметра Format показаны в следующей таблице и объявляются в **PbFixedFormatType** в библиотеке типов, Publisher.
+Possible values for the Format parameter are shown in the following table and declared in  **PbFixedFormatType** in the Publisher type library.
 
 
 
-|**Константы**|**Значение**|**Описание**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbFixedFormatTypePDF**|2|Формат PDF|
-| **pbFixedFormatTypeXPS**|1|Формат XPS|
-Возможные значения для параметра намерения показаны в следующей таблице и объявляются в **PbFixedFormatIntent** в библиотеке типов, Publisher.
+| **pbFixedFormatTypePDF**|2|PDF format|
+| **pbFixedFormatTypeXPS**|1|XPS format|
+Possible values for the Intent parameter are shown in the following table and declared in  **PbFixedFormatIntent** in the Publisher type library.
 
 
 
-|**Константы**|**Значение**|**Описание**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbIntentMinimum**|1|Нажмите публикации до наименьшего размера файла. Это должна удовлетворять на экране просмотров сценарий, где отображаются публикации на экране.|
-| **pbIntentStandard**|2 |Распространение публикации по электронной почте или с веб-сайта. Обратите внимание на то, что пользователь не знает, как просматривать публикации: на экране или с помощью настольного принтера при выводе на печать. Рабочего стола сценарий печати и на экране Просмотр сценария должны быть выполнены с этой целью.|
-| **pbIntentPrinting**|3|Печать публикации на настольном принтере или в магазине копии.|
-| ** pbIntentCommercial **|4|Отправка публикации для профессиональной печати.|
-Возможные значения для параметра PrintStyle объявляются в перечислении **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** в библиотеке типов, Publisher. Значение по умолчанию зависит от значения параметра намерения.
+| **pbIntentMinimum**|1|Squeeze the publication to the smallest file size. This satisfies the on-screen viewing scenario where the publication is viewed on a computer monitor.|
+| **pbIntentStandard**|2 |Distribute the publication as an e-mail message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
+| **pbIntentPrinting**|3|Print the publication on a desktop printer or at a copy store.|
+| **pbIntentCommercial **|4|Submit the publication to a commercial press.|
+Possible values for the PrintStyle parameter are declared in the  **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** enumeration in the Publisher type library. The default value depends on the value of the Intent parameter.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ExportAsFixedFormat** для сохранения активных публикации в формате PDF.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportAsFixedFormat** method to save the the active publication as a .pdf file.
 
-Перед запуском этого кода замените _pathandfilename.pdf_ допустимое имя файла и путь к папке на компьютере, где у вас есть разрешение на сохранение файлов.
+Before running this code, replace  _pathandfilename.pdf_ with a valid file name and the path to a folder on your computer where you have permission to save files.
 
 
 

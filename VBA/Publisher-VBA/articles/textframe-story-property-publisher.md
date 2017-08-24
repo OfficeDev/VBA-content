@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextFrame.Story (издатель)"
+title: TextFrame.Story Property (Publisher)
 keywords: vbapb10.chm3866663
-f1_keywords: vbapb10.chm3866663
+f1_keywords:
+- vbapb10.chm3866663
 ms.prod: publisher
-api_name: Publisher.TextFrame.Story
+api_name:
+- Publisher.TextFrame.Story
 ms.assetid: 7bbe0967-83aa-745b-ad13-8a7dfe61811c
 ms.date: 06/08/2017
-ms.openlocfilehash: 52c2eaae2f54185d9f119eb08f5e800e14810a42
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframestory-property-publisher"></a>Свойство TextFrame.Story (издатель)
-
-Возвращает объект **материал** , который представляет свойства материала в диапазон текста.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.Story Property (Publisher)
 
- _выражение_. **Статья**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Returns a  **Story** object that represents the story properties in a text range.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере возвращает История в диапазоне выделенный текст и, если фрагмент текста Вставка текста в диапазон текста.
+ _expression_. **Story**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+## Example
+
+This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
 
 
 ```vb

@@ -1,39 +1,38 @@
 ---
-title: "Метод ConnectorFormat.EndDisconnect (издатель)"
+title: ConnectorFormat.EndDisconnect Method (Publisher)
 keywords: vbapb10.chm3211283
-f1_keywords: vbapb10.chm3211283
+f1_keywords:
+- vbapb10.chm3211283
 ms.prod: publisher
-api_name: Publisher.ConnectorFormat.EndDisconnect
+api_name:
+- Publisher.ConnectorFormat.EndDisconnect
 ms.assetid: cf46820e-99fc-cdd2-999a-f30117b5616f
 ms.date: 06/08/2017
-ms.openlocfilehash: 311f3b31562e3515456bd989fc275eff130b2150
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="connectorformatenddisconnect-method-publisher"></a>Метод ConnectorFormat.EndDisconnect (издатель)
-
-Отключает в конец указанный соединитель из формы, к которой он подключен.
 
 
-## <a name="syntax"></a>Синтаксис
+# ConnectorFormat.EndDisconnect Method (Publisher)
 
- _выражение_. **EndDisconnect**
-
- переменная _expression_A, представляет собой объект- **ConnectorFormat** .
+Detaches the end of the specified connector from the shape to which it is attached.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Этот метод не изменяет размер и положение соединителя; конец соединитель остается расположенных на сайте подключения, но больше не подключен.
+ _expression_. **EndDisconnect**
 
-Используйте метод **[BeginDisconnect](connectorformat-begindisconnect-method-publisher.md)** для отключения начала соединителя из фигуры.
+ _expression_A variable that represents a  **ConnectorFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляет два прямоугольника в первой страницы в активной публикации, связывает их с соединитель, автоматически перенаправляет соединителя Минимальная пути и затем отключает соединитель из прямоугольники.
+This method doesn't alter the size or position of the connector; the end of the connector remains positioned at a connection site but is no longer connected.
+
+Use the  **[BeginDisconnect](connectorformat-begindisconnect-method-publisher.md)** method to detach the beginning of the connector from a shape.
+
+
+## Example
+
+This example adds two rectangles to the first page in the active publication, attaches them with a connector, automatically reroutes the connector along the shortest path, and then detaches the connector from the rectangles.
 
 
 ```vb

@@ -1,46 +1,45 @@
 ---
-title: "Свойство WebNavigationBarSet.HorizontalAlignment (издатель)"
+title: WebNavigationBarSet.HorizontalAlignment Property (Publisher)
 keywords: vbapb10.chm8519688
-f1_keywords: vbapb10.chm8519688
+f1_keywords:
+- vbapb10.chm8519688
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSet.HorizontalAlignment
+api_name:
+- Publisher.WebNavigationBarSet.HorizontalAlignment
 ms.assetid: 7d615a5a-793c-fd78-3dca-a268740b67aa
 ms.date: 06/08/2017
-ms.openlocfilehash: b584e11daf5b684f6bc9d8036416938031afcecc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsethorizontalalignment-property-publisher"></a>Свойство WebNavigationBarSet.HorizontalAlignment (издатель)
-
-Задает или возвращает константу **PbWizardNavBarAlignment** , который представляет горизонтальное выравнивание кнопок в наборе панель навигации Web. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSet.HorizontalAlignment Property (Publisher)
 
- _выражение_. **HorizontalAlignment**
-
- переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
+Sets or returns a  **PbWizardNavBarAlignment** constant that represents the horizontal alignment of the buttons in a Web navigation bar set. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HorizontalAlignment**
+
+ _expression_A variable that represents a  **WebNavigationBarSet** object.
+
+
+### Return Value
 
 PbWizardNavBarAlignment
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Это свойство используется для задания способ отображения кнопок в наборе панель навигации горизонтальный Web. Например объект **WebNavigationBarSet** , содержащий 5 ссылок с помощью свойства **HorizontalButtonCount** значение 3, а свойство **HorizontalAlignment** , задайте значение **pbnbAlignRight** выравнивания кнопок в таблице 1 строкой и 3 столбцов. В первой строке будет сначала 3 кнопки и оставшиеся 2 кнопки будут добавлены в правые столбцы второй строке.
+This property is used to set the way that buttons are displayed in a horizontally oriented Web navigation bar set. For example, a  **WebNavigationBarSet** object containing 5 links with the **HorizontalButtonCount** property set to 3 and the **HorizontalAlignment** property set to **pbnbAlignRight** will align the buttons in a grid of 3 columns and 1 row. The first 3 buttons will be in the first row and the remaining 2 buttons will be in the rightmost columns of the second row.
 
-Возвращает значение «Доступ запрещен», если **IsHorizontal** = **значение False** для указанного объекта **WebNavigationBarSet** . Чтобы установить ориентацию панель навигации, равной горизонтальной первоначального перед установкой **HorizontalAlignment** , используйте метод **ChangeOrientation** .
+Returns "Access denied" if  **IsHorizontal** = **False** for the specified **WebNavigationBarSet** object. Use the **ChangeOrientation** method to set the orientation of the Web navigation bar set to horizontal first before setting the **HorizontalAlignment** property.
 
-Значение свойства **HorizontalAlignment** может быть присвоено любое из **[PbWizardNavBarAlignment](pbwizardnavbaralignment-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **HorizontalAlignment** property value can be set to any of the **[PbWizardNavBarAlignment](pbwizardnavbaralignment-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере возвращается первый панель навигации с активного документа изменения ориентации на горизонтальную при необходимости задает для свойства **HorizontalButtonCount** значение 3 и свойству **HorizontalAlignment** **pbnbAlignRight**.
+The following example returns the first Web navigation bar set from the active document, changes the orientation to horizontal if necessary, sets the  **HorizontalButtonCount** property to 3, and then sets the **HorizontalAlignment** property to **pbnbAlignRight**.
 
 
 ```vb

@@ -1,46 +1,45 @@
 ---
-title: "Событие Application.MailMergeWizardStateChange (издатель)"
+title: Application.MailMergeWizardStateChange Event (Publisher)
 keywords: vbapb10.chm268435479
-f1_keywords: vbapb10.chm268435479
+f1_keywords:
+- vbapb10.chm268435479
 ms.prod: publisher
-api_name: Publisher.Application.MailMergeWizardStateChange
+api_name:
+- Publisher.Application.MailMergeWizardStateChange
 ms.assetid: 3d3fcdaa-af51-0a28-ff25-f2b92deceaf6
 ms.date: 06/08/2017
-ms.openlocfilehash: 01e7efbb9eab048e35d289a646bcfea503c18905
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationmailmergewizardstatechange-event-publisher"></a>Событие Application.MailMergeWizardStateChange (издатель)
-
-Происходит при изменении пользователем из указанного действия в указанном этап в мастере слияния почты.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.MailMergeWizardStateChange Event (Publisher)
 
- _выражение_. **MailMergeWizardStateChange** ( **_Doc_**, **_FromState_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MailMergeWizardStateChange**( **_Doc_**,  **_FromState_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
-|FromState|Обязательное свойство.| **Integer**|Мастер слияния шаг, из которой перемещается пользователь.|
+|Doc|Required| **Document**|The mail merge main document.|
+|FromState|Required| **Integer**|The Mail Merge Wizard step from which a user is moving.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям.
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выводится сообщение при перемещении пользователей в шаге 3 мастера слияния в шаге 4. На основании ответов пользователя к сообщению, пользователь будет перейти на шаге 4 или вернуться к шагу 3.
+This example displays a message when a users moves from step three of the Mail Merge Wizard to step four. Based on the user's answer to the message, the user will either continue on to step four or return to step three.
 
 
 ```vb
@@ -62,11 +61,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

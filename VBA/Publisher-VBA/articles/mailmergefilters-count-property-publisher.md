@@ -1,32 +1,31 @@
 ---
-title: "Свойство MailMergeFilters.Count (издатель)"
+title: MailMergeFilters.Count Property (Publisher)
 keywords: vbapb10.chm6750209
-f1_keywords: vbapb10.chm6750209
+f1_keywords:
+- vbapb10.chm6750209
 ms.prod: publisher
-api_name: Publisher.MailMergeFilters.Count
+api_name:
+- Publisher.MailMergeFilters.Count
 ms.assetid: 6ed658be-d3d0-ae5c-548d-ea724c9a8434
 ms.date: 06/08/2017
-ms.openlocfilehash: 2e0c0be505d80b1ed647f4b37e0a64f716f0258e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergefilterscount-property-publisher"></a>Свойство MailMergeFilters.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeFilters.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **MailMergeFilters** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **MailMergeFilters** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

@@ -1,42 +1,41 @@
 ---
-title: "Свойство FillFormat.TextureName (издатель)"
+title: FillFormat.TextureName Property (Publisher)
 keywords: vbapb10.chm2359561
-f1_keywords: vbapb10.chm2359561
+f1_keywords:
+- vbapb10.chm2359561
 ms.prod: publisher
-api_name: Publisher.FillFormat.TextureName
+api_name:
+- Publisher.FillFormat.TextureName
 ms.assetid: 237a85ff-018d-f6b7-e94b-32e85fce65ab
 ms.date: 06/08/2017
-ms.openlocfilehash: 7ba95b1675a501b21dbea0e699906475baa58e86
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformattexturename-property-publisher"></a>Свойство FillFormat.TextureName (издатель)
-
-Возвращает **строку** , указывающую имя файла текстуры для указанного заполнения. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.TextureName Property (Publisher)
 
- _выражение_. **TextureName**
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Returns a  **String** indicating the name of the custom texture file for the specified fill. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TextureName**
+
+ _expression_A variable that represents a  **FillFormat** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[UserTextured](fillformat-usertextured-method-publisher.md)** для установки файлов текстуры для заполнения.
+Use the  **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture file for the fill.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется овала active публикацию. Если фигуры одно active публикацией заливки с помощью пользовательских текстуры, новые Овал будут иметь же заливки как фигуры один. Если фигуры один любой другой тип заливки, новые Овал будут иметь зеленый мрамора заливки.
+This example adds an oval to the active publication. If shape one on the active publication has a fill with a user-defined texture, the new oval will have the same fill as shape one. If shape one has any other type of fill, the new oval will have a green marble fill.
 
 
 ```vb

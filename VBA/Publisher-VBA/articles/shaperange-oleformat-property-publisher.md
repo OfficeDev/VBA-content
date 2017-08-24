@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.OLEFormat (издатель)"
+title: ShapeRange.OLEFormat Property (Publisher)
 keywords: vbapb10.chm2293863
-f1_keywords: vbapb10.chm2293863
+f1_keywords:
+- vbapb10.chm2293863
 ms.prod: publisher
-api_name: Publisher.ShapeRange.OLEFormat
+api_name:
+- Publisher.ShapeRange.OLEFormat
 ms.assetid: 237b51e8-dced-3e21-d257-410121107a63
 ms.date: 06/08/2017
-ms.openlocfilehash: 54d15ca195118b28446df0f6a68d1fccc5823802
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangeoleformat-property-publisher"></a>Свойство ShapeRange.OLEFormat (издатель)
-
-Возвращает объект **[OLEFormat](oleformat-object-publisher.md)** , который содержит параметры форматирования для указанного фигуры OLE. Применяется к **фигуры** или **ShapeRange** объектов, представляющих объекты OLE.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.OLEFormat Property (Publisher)
 
- _выражение_. **OLEFormat**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns an  **[OLEFormat](oleformat-object-publisher.md)** object that contains OLE formatting properties for the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent OLE objects.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере циклически просматривает все фигуры на первой странице активного документа и автоматически обновляет все связанные листы Excel.
+ _expression_. **OLEFormat**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example loops through all the shapes on the first page of the active document and automatically updates all linked Excel worksheets.
 
 
 ```vb

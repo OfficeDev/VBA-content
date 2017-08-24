@@ -1,26 +1,25 @@
 ---
-title: "Объект тега (издатель)"
+title: Tag Object (Publisher)
 keywords: vbapb10.chm4784127
-f1_keywords: vbapb10.chm4784127
+f1_keywords:
+- vbapb10.chm4784127
 ms.prod: publisher
-api_name: Publisher.Tag
+api_name:
+- Publisher.Tag
 ms.assetid: f485d2cc-8e39-5aa3-d407-8c14401ec8bd
 ms.date: 06/08/2017
-ms.openlocfilehash: ec8e46c0445815f2fd7f9d68bf293386b614b6c4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tag-object-publisher"></a>Объект тега (издатель)
 
-Представляет тег или настраиваемое свойство, которое можно создать для фигуры, диапазона фигуры, страницы или публикации. Каждый объект **тега** содержит имя настраиваемого свойства и значения для этого свойства. **Тег** объекты являются участниками семейства **[тегов](tags-object-publisher.md)** . Создайте тег, чтобы иметь возможность избирательно работать с определенными членами семейства сайтов, на основе атрибута, еще не представленные встроенных свойств.
+
+# Tag Object (Publisher)
+
+Represents a tag or a custom property that you can create for a shape, shape range, page, or publication. Each  **Tag** object contains the name of a custom property and a value for that property. **Tag** objects are members of the **[Tags](tags-object-publisher.md)** collection. Create a tag when you want to be able to selectively work with specific members of a collection, based on an attribute that isn't already represented by a built-in property.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Метод **[Item](tags-item-method-publisher.md)** коллекции **[теги](tags-object-publisher.md)** возвращает объект **тега** . В этом примере заполняет всех фигур на первой странице active публикации, если первый тег фигуры имеет значение овал.
+Use the  **[Item](tags-item-method-publisher.md)** method of the **[Tags](tags-object-publisher.md)** collection to return a **Tag** object. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
  
 
  
@@ -40,7 +39,7 @@ Sub FormatTaggedShapes()
 End Sub
 ```
 
-Используйте метод **[Add](tags-add-method-publisher.md)** для добавления объекта тега. В этом примере добавляется тег для всех фигур Овал в активной публикации.
+Use the  **[Add](tags-add-method-publisher.md)** method to add a Tag object. This example adds a tag to all oval shapes in the active publication.
  
 
  
@@ -61,7 +60,7 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -69,14 +68,14 @@ End Sub
 |:-----|
 |[Delete](tag-delete-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](tag-application-property-publisher.md)|
+|[Application](tag-application-property-publisher.md)|
 |[Name](tag-name-property-publisher.md)|
-|[Родительский раздел](tag-parent-property-publisher.md)|
-|[Значение](tag-value-property-publisher.md)|
+|[Parent](tag-parent-property-publisher.md)|
+|[Value](tag-value-property-publisher.md)|
 

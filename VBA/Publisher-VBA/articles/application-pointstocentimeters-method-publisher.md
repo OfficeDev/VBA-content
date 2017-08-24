@@ -1,50 +1,49 @@
 ---
-title: "Метод Application.PointsToCentimeters (издатель)"
+title: Application.PointsToCentimeters Method (Publisher)
 keywords: vbapb10.chm131155
-f1_keywords: vbapb10.chm131155
+f1_keywords:
+- vbapb10.chm131155
 ms.prod: publisher
-api_name: Publisher.Application.PointsToCentimeters
+api_name:
+- Publisher.Application.PointsToCentimeters
 ms.assetid: 9a734d3d-78d2-1e27-63b3-2ad1074e16c1
 ms.date: 06/08/2017
-ms.openlocfilehash: f1c4bd11408bb887a235bec200bbf2a653190032
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# Метод Application.PointsToCentimeters (издатель)
-
-Преобразует измерения из точки см (1 cm = 28.35 точек). Возвращает преобразованные измерения как **один**.
 
 
-## Синтаксис
+# Application.PointsToCentimeters Method (Publisher)
 
- _выражение_. **PointsToCentimeters** ( **_Значение_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
 
 
-### Параметры
+## Syntax
+
+ _expression_. **PointsToCentimeters**( **_Value_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Значение|Обязательное свойство.| **Один**|Значение точки для преобразования в см.|
+|Value|Required| **Single**|The point value to be converted to centimeters.|
 
-### Возвращаемое значение
+### Return Value
 
-Один
-
-
-## Заметки
-
-Используйте метод **[CentimetersToPoints](application-centimeterstopoints-method-publisher.md)** для преобразования измерений в см в пунктах.
+Single
 
 
-## Пример
+## Remarks
 
-В этом примере выполняется преобразование измерения в пунктах, введенный пользователем измерений в см.
+Use the  **[CentimetersToPoints](application-centimeterstopoints-method-publisher.md)** method to convert measurements in centimeters to points.
+
+
+## Example
+
+This example converts measurements in points entered by the user to measurements in centimeters.
 
 
 ```vb
@@ -71,11 +70,11 @@ Loop
 ```
 
 
-## См. также
+## See also
 
 
-#### Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

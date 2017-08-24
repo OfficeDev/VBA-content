@@ -1,53 +1,52 @@
 ---
-title: "Свойство PictureFormat.OriginalIsTrueColor (издатель)"
+title: PictureFormat.OriginalIsTrueColor Property (Publisher)
 keywords: vbapb10.chm3604775
-f1_keywords: vbapb10.chm3604775
+f1_keywords:
+- vbapb10.chm3604775
 ms.prod: publisher
-api_name: Publisher.PictureFormat.OriginalIsTrueColor
+api_name:
+- Publisher.PictureFormat.OriginalIsTrueColor
 ms.assetid: 837109d4-3479-2500-a1fa-b4c00e0f8672
 ms.date: 06/08/2017
-ms.openlocfilehash: 99c3808681bce1bc96e0daac855e8518067f7dd1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatoriginalistruecolor-property-publisher"></a>Свойство PictureFormat.OriginalIsTrueColor (издатель)
-
-Возвращает **MsoTriState** константа, указывающее, является ли указанный связанных рисунков или объекта OLE содержит данные цвета 24 бита на канал или более высокой версии. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.OriginalIsTrueColor Property (Publisher)
 
- _выражение_. **OriginalIsTrueColor**
-
- переменная _expression_A, представляющий объект **PictureFormat** .
+Returns an  **MsoTriState** constant indicating whether the specified linked picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **OriginalIsTrueColor**
+
+ _expression_A variable that represents an  **PictureFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Это свойство применяется только к связанные рисунки или объекты OLE. Возвращает «Отказано в разрешении» для фигуры, представляющие внедренных или вставленного изображения и объекты OLE.
+This property only applies to linked pictures or OLE objects. It returns "Permission Denied" for shapes representing embedded or pasted pictures and OLE objects.
 
-Чтобы определить, является ли фигура представляет связанного рисунка, используйте свойство **[Type](shape-type-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** или свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** .
+To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
-Значение свойства **OriginalIsTrueColor** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **OriginalIsTrueColor** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Указанный связанного рисунка не содержит данных цвета 24 бита на канал или более высокой версии.|
-| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTrue**|Указанный связанный рисунок содержит данные цвета 24 бита на канал или более высокой версии.|
+| **msoFalse**|The specified linked picture does not contain color data of 24 bits per channel or greater.|
+| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTrue**|The specified linked picture contains color data of 24 bits per channel or greater.|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример возвращает список изображений в активном документе, которые TrueColor. Если связанный рисунок и связанного рисунка является также TrueColor, эти сведения также возвращается.
+The following example returns a list of pictures in the active document that are TrueColor. If a picture is linked, and the linked picture is also TrueColor, that information is also returned.
 
 
 ```vb

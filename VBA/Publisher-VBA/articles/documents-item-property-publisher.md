@@ -1,34 +1,33 @@
 ---
-title: "Свойство Documents.Item (издатель)"
+title: Documents.Item Property (Publisher)
 keywords: vbapb10.chm8650752
-f1_keywords: vbapb10.chm8650752
+f1_keywords:
+- vbapb10.chm8650752
 ms.prod: publisher
-api_name: Publisher.Documents.Item
+api_name:
+- Publisher.Documents.Item
 ms.assetid: 61cf3002-26d4-a678-abcb-940e7c385287
 ms.date: 06/08/2017
-ms.openlocfilehash: 822025ad48beea8c6faa52d4e70d424939fbe19e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentsitem-property-publisher"></a>Свойство Documents.Item (издатель)
-
-Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Documents.Item Property (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **документы** .
+Returns an individual object from a specified collection. Read-only.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **Documents** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|varDocument|Обязательное свойство.| **Variant**| **Длинные**. Количество для возвращаемого объекта.|
+|varDocument|Required| **Variant**| **Long**. The number of the object to return.|
 

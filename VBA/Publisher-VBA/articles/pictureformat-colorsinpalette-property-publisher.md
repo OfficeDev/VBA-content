@@ -1,44 +1,43 @@
 ---
-title: "Свойство PictureFormat.ColorsInPalette (издатель)"
+title: PictureFormat.ColorsInPalette Property (Publisher)
 keywords: vbapb10.chm3604754
-f1_keywords: vbapb10.chm3604754
+f1_keywords:
+- vbapb10.chm3604754
 ms.prod: publisher
-api_name: Publisher.PictureFormat.ColorsInPalette
+api_name:
+- Publisher.PictureFormat.ColorsInPalette
 ms.assetid: 34e671b1-af0e-0dac-1429-246facae975b
 ms.date: 06/08/2017
-ms.openlocfilehash: 5c783a8582639ffede535cbe858ea4a8ee2f2614
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatcolorsinpalette-property-publisher"></a>Свойство PictureFormat.ColorsInPalette (издатель)
-
- Возвращает значение типа **Long** , представляющее номер цветов в палитре рисунков. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.ColorsInPalette Property (Publisher)
 
- _выражение_. **ColorsInPalette**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+ Returns a **Long** that represents the number of colors in the picture's palette. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **ColorsInPalette**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство применяется только к изображений, которые не являются TrueColor (изображения, содержащие данные цвет менее 24 бита на канал). Возвращает фигуры, представляющие изображения, TrueColor «Отказано в разрешении».
-
-Используйте свойство **[IsTrueColor](pictureformat-istruecolor-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** для определения того, содержит ли изображение данных цвета 24 бита на канал или более высокой версии.
+ _expression_A variable that represents a  **PictureFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере проверяется каждого изображения в активном документе и печатает ли изображен TrueColor. Если изображение не TrueColor, в примере выводится сколько цветов находятся в палитры рисунка.
+Long
+
+
+## Remarks
+
+This property applies only to pictures that are not TrueColor (that is, pictures that contain color data of less than 24 bits per channel). Returns "Permission Denied" for shapes representing pictures that are TrueColor.
+
+Use the  **[IsTrueColor](pictureformat-istruecolor-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine whether a picture contains color data of 24 bits per channel or greater.
+
+
+## Example
+
+The following example tests each picture in the active document and prints whether the picture is TrueColor. If the picture is not TrueColor, the example prints how many colors are in the picture's palette.
 
 
 ```vb

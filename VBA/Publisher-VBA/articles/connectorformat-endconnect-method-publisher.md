@@ -1,50 +1,49 @@
 ---
-title: "Метод ConnectorFormat.EndConnect (издатель)"
+title: ConnectorFormat.EndConnect Method (Publisher)
 keywords: vbapb10.chm3211282
-f1_keywords: vbapb10.chm3211282
+f1_keywords:
+- vbapb10.chm3211282
 ms.prod: publisher
-api_name: Publisher.ConnectorFormat.EndConnect
+api_name:
+- Publisher.ConnectorFormat.EndConnect
 ms.assetid: d37c1ab2-d73a-903b-7c5d-f38a29544728
 ms.date: 06/08/2017
-ms.openlocfilehash: 8329d0a4fc717e00d9808b0c3bd501c1e2625feb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="connectorformatendconnect-method-publisher"></a>Метод ConnectorFormat.EndConnect (издатель)
-
-Подключает в конец указанный соединитель указанного фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# ConnectorFormat.EndConnect Method (Publisher)
 
- _выражение_. **EndConnect** ( **_ConnectedShape_**, **_ConnectionSite_**)
-
- переменная _expression_A, представляет собой объект- **ConnectorFormat** .
+Attaches the end of the specified connector to a specified shape.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **EndConnect**( **_ConnectedShape_**,  **_ConnectionSite_**)
+
+ _expression_A variable that represents a  **ConnectorFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ConnectedShape|Обязательное свойство.| **Фигура**|Фигура, к которому Microsoft Publisher подключает окончании соединителя. Указанный объект **фигуры** должен быть в одном семействе **фигур** , как соединитель.|
-|ConnectionSite|Обязательное свойство.| **Длинный**|Подключение сайта на фигуры, указанного идентификатором ConnectedShape. Должно быть целое число от 1 до целое число, возвращаемое свойством **[ConnectionSiteCount](shape-connectionsitecount-property-publisher.md)** указанного фигуры. Подключение сайтов нумеруются, начиная с первого указанного фигуры и против часовой стрелки перемещения фигуры. Если требуется соединитель автоматически найти короткий путь между двумя фигурами, к которому подключен задания любое допустимое целое значение для этого аргумента, а затем используйте метод **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** после присоединения к фигурам с обоих концов соединитель.|
+|ConnectedShape|Required| **Shape**|The shape to which Microsoft Publisher attaches the end of the connector. The specified  **Shape** object must be in the same **Shapes** collection as the connector.|
+|ConnectionSite|Required| **Long**|A connection site on the shape specified by ConnectedShape. Must be an integer between 1 and the integer returned by the  **[ConnectionSiteCount](shape-connectionsitecount-property-publisher.md)** property of the specified shape. Connection sites are numbered starting from the top of the specified shape and moving counterclockwise around the shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** method after the connector is attached to shapes at both ends.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если уже соединение между окончании соединителя и другую фигуру, это подключение будет отключена. Конец соединитель уже не находится в указанной связи сайтов, этот метод перемещает конца соединительной линии связи сайтов и изменяет размер и положение соединителя.
+If there's already a connection between the end of the connector and another shape, that connection is broken. If the end of the connector isn't already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector.
 
-При присоединении соединитель на объект, размер и положение соединителя автоматически настраиваются при необходимости.
+When you attach a connector to an object, the size and position of the connector are automatically adjusted if necessary.
 
-Используйте метод **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** присоединение начала соединитель фигуры.
+Use the  **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** method to attach the beginning of the connector to a shape.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется два прямоугольника для первой страницы в активной публикации и связывает их с искривленной формы. Обратите внимание на то, что метод **RerouteConnections** переопределяет значения, которые вы задаете **_ConnectionSite_** аргументов, используемых с методами **BeginConnect** и **EndConnect** .
+This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect** and **EndConnect** methods.
 
 
 ```vb

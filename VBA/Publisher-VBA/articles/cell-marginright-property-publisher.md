@@ -1,32 +1,31 @@
 ---
-title: "Свойство Cell.MarginRight (издатель)"
+title: Cell.MarginRight Property (Publisher)
 keywords: vbapb10.chm5111828
-f1_keywords: vbapb10.chm5111828
+f1_keywords:
+- vbapb10.chm5111828
 ms.prod: publisher
-api_name: Publisher.Cell.MarginRight
+api_name:
+- Publisher.Cell.MarginRight
 ms.assetid: d297222e-7fc1-9225-e098-1a85d7734d77
 ms.date: 06/08/2017
-ms.openlocfilehash: 67508f3bb58408977ff64dc8d8309d90de053c69
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellmarginright-property-publisher"></a>Свойство Cell.MarginRight (издатель)
-
-Возвращает или задает **Variant** , который представляет дискового пространства (в точках) между текстом и правого края ячейки, текстового фрейма или страницы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.MarginRight Property (Publisher)
 
- _выражение_. **MarginRight**
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the right edge of a cell, text frame, or page. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере задается полей активной публикации для двух дюйма.
+ _expression_. **MarginRight**
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+## Example
+
+This example sets the margins of the active publication to two inches.
 
 
 ```vb

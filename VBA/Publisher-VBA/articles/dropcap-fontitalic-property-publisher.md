@@ -1,37 +1,36 @@
 ---
-title: "Свойство DropCap.FontItalic (издатель)"
+title: DropCap.FontItalic Property (Publisher)
 keywords: vbapb10.chm5505030
-f1_keywords: vbapb10.chm5505030
+f1_keywords:
+- vbapb10.chm5505030
 ms.prod: publisher
-api_name: Publisher.DropCap.FontItalic
+api_name:
+- Publisher.DropCap.FontItalic
 ms.assetid: 57996a71-94db-67b0-ee64-bd79144d01d1
 ms.date: 06/08/2017
-ms.openlocfilehash: 1c1e96ea17552e3250941aee2c4d8681021fabef
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="dropcapfontitalic-property-publisher"></a>Свойство DropCap.FontItalic (издатель)
-
-Задает или возвращает константу **MsoTriState**, которое указывает, находится ли курсивное начертание шрифта для буквицы или текст надписи WordArt. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# DropCap.FontItalic Property (Publisher)
 
- _выражение_. **FontItalic**
-
- переменная _expression_A, представляет собой объект- **буквицу** .
+Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is italic. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **FontItalic** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+ _expression_. **FontItalic**
+
+ _expression_A variable that represents a  **DropCap** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере вносятся буквицы в элементе frame указанного текста курсивом. В этом примере предполагается, что указанный текст frame отформатирован буквицы.
+The  **FontItalic** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example makes the dropped capital letter in the specified text frame italic. This example assumes that the specified text frame is formatted with a dropped capital letter.
 
 
 ```vb

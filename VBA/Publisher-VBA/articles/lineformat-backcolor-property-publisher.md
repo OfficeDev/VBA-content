@@ -1,37 +1,36 @@
 ---
-title: "Свойство LineFormat.BackColor (издатель)"
+title: LineFormat.BackColor Property (Publisher)
 keywords: vbapb10.chm3408128
-f1_keywords: vbapb10.chm3408128
+f1_keywords:
+- vbapb10.chm3408128
 ms.prod: publisher
-api_name: Publisher.LineFormat.BackColor
+api_name:
+- Publisher.LineFormat.BackColor
 ms.assetid: 45e18a2e-4354-65d7-9a80-53869c4914f0
 ms.date: 06/08/2017
-ms.openlocfilehash: a06b616e5e2f877d09c6c94be1ada501f100c838
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatbackcolor-property-publisher"></a>Свойство LineFormat.BackColor (издатель)
-
-Возвращает или задает объект **[ColorFormat](colorformat-object-publisher.md)** , представляющее цвет фона для указанного заливка или узорная линия. .
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.BackColor Property (Publisher)
 
- _выражение_. **Цвет фона**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns or sets a  **[ColorFormat](colorformat-object-publisher.md)** object representing the background color for the specified fill or patterned line. .
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Свойство **[ForeColor](fillformat-forecolor-property-publisher.md)** задать цвет переднего плана для заполнения или строки.
+ _expression_. **BackColor**
+
+ _expression_A variable that represents a  **LineFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере добавляет прямоугольник active публикации и затем задает цвет переднего плана, цвет фона и градиент для заливки прямоугольника.
+Use the  **[ForeColor](fillformat-forecolor-property-publisher.md)** property to set the foreground color for a fill or line.
+
+
+## Example
+
+This example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 
 ```vb
@@ -45,7 +44,7 @@ With ActiveDocument.Pages(1).Shapes.AddShape _
 End With
 ```
 
-В этом примере добавляется узорная линия active публикации.
+This example adds a patterned line to the active publication.
 
 
 

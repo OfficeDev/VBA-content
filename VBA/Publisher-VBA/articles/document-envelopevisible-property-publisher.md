@@ -1,37 +1,36 @@
 ---
-title: "Свойство Document.EnvelopeVisible (издатель)"
+title: Document.EnvelopeVisible Property (Publisher)
 keywords: vbapb10.chm196618
-f1_keywords: vbapb10.chm196618
+f1_keywords:
+- vbapb10.chm196618
 ms.prod: publisher
-api_name: Publisher.Document.EnvelopeVisible
+api_name:
+- Publisher.Document.EnvelopeVisible
 ms.assetid: 65423c1f-e61b-3c83-4bff-ddd278d97238
 ms.date: 06/08/2017
-ms.openlocfilehash: 5c9fdb54f320d41c4b236bbde60af9798c3d7a40
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentenvelopevisible-property-publisher"></a>Свойство Document.EnvelopeVisible (издатель)
-
-Возвращает или задает значение **Boolean** , указывающее, отображается ли заголовок сообщения электронной почты в окне публикации. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.EnvelopeVisible Property (Publisher)
 
- _выражение_. **EnvelopeVisible**
-
- переменная _expression_A, представляющий объект **документа** .
+Returns or sets a  **Boolean** indicating whether the e-mail message header is visible in the publication window. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **EnvelopeVisible**
+
+ _expression_A variable that represents an  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере отображаются заголовок сообщения электронной почты для активной публикации.
+Boolean
+
+
+## Example
+
+This example displays the e-mail message header for the active publication.
 
 
 ```vb

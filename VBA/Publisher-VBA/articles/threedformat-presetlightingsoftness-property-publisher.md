@@ -1,42 +1,41 @@
 ---
-title: "Свойство ThreeDFormat.PresetLightingSoftness (издатель)"
+title: ThreeDFormat.PresetLightingSoftness Property (Publisher)
 keywords: vbapb10.chm3801350
-f1_keywords: vbapb10.chm3801350
+f1_keywords:
+- vbapb10.chm3801350
 ms.prod: publisher
-api_name: Publisher.ThreeDFormat.PresetLightingSoftness
+api_name:
+- Publisher.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 8bad53c5-9d1c-367f-3f43-64691e193334
 ms.date: 06/08/2017
-ms.openlocfilehash: 8225dbcf423e11b16a0c4e0688bcd14250bc4a53
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformatpresetlightingsoftness-property-publisher"></a>Свойство ThreeDFormat.PresetLightingSoftness (издатель)
-
-Возвращает или задает значение константы **MsoPresetLightingSoftness** , представляющее интенсивность освещения придания объема. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ThreeDFormat.PresetLightingSoftness Property (Publisher)
 
- _выражение_. **PresetLightingSoftness**
-
- переменная _expression_A, представляет собой объект- **ThreeDFormat** .
+Returns or sets a  **MsoPresetLightingSoftness** constant that represents the intensity of the extrusion lighting. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PresetLightingSoftness**
+
+ _expression_A variable that represents a  **ThreeDFormat** object.
+
+
+### Return Value
 
 MsoPresetLightingSoftness
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **PresetLightingSoftness** может иметь одно из ** [MsoPresetLightingSoftness](http://msdn.microsoft.com/library/da5b4779-fca6-59cd-4cfe-599c3033c5d0%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](http://msdn.microsoft.com/library/da5b4779-fca6-59cd-4cfe-599c3033c5d0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается изменяется для первой фигуры на первой странице active публикации, чтобы быть выключены яркой слева. В данном примере для работы указанного фигуры должен быть объемной фигуры.
+This example sets the extrusion for the first shape on the first page of the active publication to be lit brightly from the left. For this example to work, the specified shape must be a 3-D shape.
 
 
 ```vb

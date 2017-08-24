@@ -1,54 +1,53 @@
 ---
-title: "Свойство LineFormat.InsetPen (издатель)"
+title: LineFormat.InsetPen Property (Publisher)
 keywords: vbapb10.chm3408148
-f1_keywords: vbapb10.chm3408148
+f1_keywords:
+- vbapb10.chm3408148
 ms.prod: publisher
-api_name: Publisher.LineFormat.InsetPen
+api_name:
+- Publisher.LineFormat.InsetPen
 ms.assetid: 955b152d-517f-b5fa-6e23-765ddeb41d46
 ms.date: 06/08/2017
-ms.openlocfilehash: f148a26d672ede3e795aad7bdd9d1b13d01f08b3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatinsetpen-property-publisher"></a>Свойство LineFormat.InsetPen (издатель)
-
-Возвращает или задает константой **MsoTriState** , указывающее, указанного фигуры отображаются ли линии внутри его границы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.InsetPen Property (Publisher)
 
- _выражение_. **InsetPen**
-
- переменная _expression_A, представляющий объект **LineFormat** .
+Returns or sets an  **MsoTriState** constant indicating whether a specified shape's lines are drawn inside its boundaries. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **InsetPen**
+
+ _expression_A variable that represents an  **LineFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Ошибка возникает при попытке этому свойству присвоено значение **msoTrue** для любого автофигуры Microsoft Office, которая не поддерживает задание направления рисования.
+An error occurs if you attempt to set this property to  **msoTrue** for any Microsoft Office AutoShape that does not support inset pen drawing.
 
-Значение свойства **InsetPen** для таблиц всегда является **msoTrue**; При попытке установить свойство любые другие значения приводит к ошибке.
+The value of the  **InsetPen** property for tables is always **msoTrue**; attempting to set the property to any other value results in an error.
 
-Значение свойства **InsetPen** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **InsetPen** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Линии непосредственно по границам указанного фигуры.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Линии внутри границы указанного фигуры.|
+| **msoFalse**|Lines are drawn directly on the specified shape's boundaries.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|Lines are drawn inside the specified shape's boundaries.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется два прямоугольника страницу один из активных публикации первый с его линий внутри его границ, а второй — с помощью его линий на его границы.
+The following example adds two rectangles to page one of the active publication, the first with its lines drawn inside its boundaries, and the second with its lines drawn on its boundaries.
 
 
 ```vb

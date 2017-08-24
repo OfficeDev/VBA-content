@@ -1,32 +1,31 @@
 ---
-title: "Свойство Shape.IsInline (издатель)"
+title: Shape.IsInline Property (Publisher)
 keywords: vbapb10.chm5308692
-f1_keywords: vbapb10.chm5308692
+f1_keywords:
+- vbapb10.chm5308692
 ms.prod: publisher
-api_name: Publisher.Shape.IsInline
+api_name:
+- Publisher.Shape.IsInline
 ms.assetid: 5c5c6181-070f-2a66-8d70-2d6372cb365e
 ms.date: 06/08/2017
-ms.openlocfilehash: b081e9ff9fdd307454bff7f2ef7e9326826e673e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeisinline-property-publisher"></a>Свойство Shape.IsInline (издатель)
-
-Возвращает константу **MsoTriState** , указывающее, является ли фигура встроенного (содержащиеся в прогона текста). Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.IsInline Property (Publisher)
 
- _выражение_. **IsInline**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns an  **MsoTriState** constant that specifies whether a shape is inline (contained in a text run). Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере проверяется первую фигуру (рамке) на первой странице публикации ли встроенного. Если он не установлен, поиск выполняется в рамках фигуры для поиска фигуры, встроенного в пределах рамки. Встроенные фигуры, найденные имеют свойство **ForeColor** , задается красный цвет.
+ _expression_. **IsInline**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Example
+
+This example tests the first shape (a text frame) on the first page of the publication to see if it is inline. If it is not, a search is done within that shape to find any inline shapes within the text frame. Any inline shapes that are found have the  **ForeColor** property set to red.
 
 
 ```vb

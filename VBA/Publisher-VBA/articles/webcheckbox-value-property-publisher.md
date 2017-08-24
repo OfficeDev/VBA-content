@@ -1,32 +1,31 @@
 ---
-title: "Свойство WebCheckBox.Value (издатель)"
+title: WebCheckBox.Value Property (Publisher)
 keywords: vbapb10.chm4325381
-f1_keywords: vbapb10.chm4325381
+f1_keywords:
+- vbapb10.chm4325381
 ms.prod: publisher
-api_name: Publisher.WebCheckBox.Value
+api_name:
+- Publisher.WebCheckBox.Value
 ms.assetid: 9fd50cd5-ecf3-30b7-c8a9-6b64b106eaec
 ms.date: 06/08/2017
-ms.openlocfilehash: a8b06b34fa4647725c04cec9757c98a242eebb6d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webcheckboxvalue-property-publisher"></a>Свойство WebCheckBox.Value (издатель)
-
-Возвращает или задает **строку** , представляющую значение Web флажок или переключатель. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebCheckBox.Value Property (Publisher)
 
- _выражение_. **Значение**
-
- переменная _expression_A, представляет собой объект- **WebCheckBox** .
+Returns or sets a  **String** that represents the value of a Web check box or option button. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере создается новый флажок веб-элемент управления и присваивает ему имя и значение указывает, что установлен флажок исходное состояние.
+ _expression_. **Value**
+
+ _expression_A variable that represents a  **WebCheckBox** object.
+
+
+## Example
+
+This example creates a new Web check box control, assigns a name and value to it, and indicates its initial state is checked.
 
 
 ```vb

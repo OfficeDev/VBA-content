@@ -1,36 +1,35 @@
 ---
-title: "Свойство EmailMergeEnvelope.Attachemts (издатель)"
+title: EmailMergeEnvelope.Attachemts Property (Publisher)
 keywords: vbapb10.chm9043975
-f1_keywords: vbapb10.chm9043975
+f1_keywords:
+- vbapb10.chm9043975
 ms.prod: publisher
-api_name: Publisher.EmailMergeEnvelope.Attachemts
+api_name:
+- Publisher.EmailMergeEnvelope.Attachemts
 ms.assetid: 53948bf7-2727-7b9c-a645-c9b954d5e023
 ms.date: 06/08/2017
-ms.openlocfilehash: 1ee4200046a43aaa093a2cb73e1af069022f9de9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="emailmergeenvelopeattachemts-property-publisher"></a>Свойство EmailMergeEnvelope.Attachemts (издатель)
-
-Получает список объединенной почты вложения сообщения. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# EmailMergeEnvelope.Attachemts Property (Publisher)
 
- _выражение_. **Attachemts**
-
- переменная _expression_A, представляющий объект **EmailMergeEnvelope** .
+Gets the list of a merged e-mail message's attachments. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Вложения
+ _expression_. **Attachemts**
+
+ _expression_A variable that represents an  **EmailMergeEnvelope** object.
 
 
-## <a name="remarks"></a>Заметки
+### Return Value
 
-Добавление вложения в сообщение электронной почты объединенных, используйте метод **[Add](attachments-add-method-publisher.md)** объекта **[вложения](attachment-object-publisher.md)** . Для удаления вложения, используйте ** [Attachment.Delete](attachment-delete-method-publisher.md)** метода. Чтобы удалить все вложения, используйте метод **[ClearAll](attachments-clearall-method-publisher.md)** коллекции **[вложения](attachments-object-publisher.md)** .
+Attachments
+
+
+## Remarks
+
+To add attachments to a merged e-mail message, use the  **[Add](attachments-add-method-publisher.md)** method of the **[Attachment](attachment-object-publisher.md)** object. To remove an attachment, use the ** [Attachment.Delete](attachment-delete-method-publisher.md)** method; to remove all attachments, use the **[ClearAll](attachments-clearall-method-publisher.md)** method of the **[Attachments](attachments-object-publisher.md)** collection.
 
 

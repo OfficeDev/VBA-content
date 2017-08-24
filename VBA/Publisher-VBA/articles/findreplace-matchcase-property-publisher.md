@@ -1,42 +1,41 @@
 ---
-title: "Свойство FindReplace.MatchCase (издатель)"
+title: FindReplace.MatchCase Property (Publisher)
 keywords: vbapb10.chm8323080
-f1_keywords: vbapb10.chm8323080
+f1_keywords:
+- vbapb10.chm8323080
 ms.prod: publisher
-api_name: Publisher.FindReplace.MatchCase
+api_name:
+- Publisher.FindReplace.MatchCase
 ms.assetid: 4fabf2f8-f1e4-bc70-e8e6-96dd09cd23d8
 ms.date: 06/08/2017
-ms.openlocfilehash: bb7f3459e281ce67468eddd03713cbebc2ab3d3e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacematchcase-property-publisher"></a>Свойство FindReplace.MatchCase (издатель)
-
-Задает или возвращает значение **типа Boolean** , представляющий регистра операции поиска. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.MatchCase Property (Publisher)
 
- _выражение_. **MatchCase**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or returns a  **Boolean** that represents the case sensitivity of the search operation. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **MatchCase**
 
-
-## <a name="remarks"></a>Заметки
-
-Значение по умолчанию для **MatchCase** присвоено **значение False**.
+ _expression_A variable that represents a  **FindReplace** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере будет выбран первое слово «фабрики» вне зависимости от случая.
+Boolean
+
+
+## Remarks
+
+The default value for  **MatchCase** is **False**.
+
+
+## Example
+
+This example will select the first occurrence of the word "factory" regardless of case.
 
 
 ```vb

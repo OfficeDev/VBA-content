@@ -1,32 +1,31 @@
 ---
-title: "Свойство WebPageOptions.Description (издатель)"
+title: WebPageOptions.Description Property (Publisher)
 keywords: vbapb10.chm544771
-f1_keywords: vbapb10.chm544771
+f1_keywords:
+- vbapb10.chm544771
 ms.prod: publisher
-api_name: Publisher.WebPageOptions.Description
+api_name:
+- Publisher.WebPageOptions.Description
 ms.assetid: dfd18427-c70d-7232-191e-a6332a89c3fe
 ms.date: 06/08/2017
-ms.openlocfilehash: 00ef25e1116f7f5c1cbbf46412aeb9cedb290874
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webpageoptionsdescription-property-publisher"></a>Свойство WebPageOptions.Description (издатель)
-
-Возвращает или задает **строку** , представляющую описание веб-страницы в веб-публикации. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebPageOptions.Description Property (Publisher)
 
- _выражение_. **Описание**
-
- переменная _expression_A, представляет собой объект- **WebPageOptions** .
+Returns or sets a  **String** that represents the description of a Web page within a Web publication. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере задается описание для страницы, два активных веб-публикации.
+ _expression_. **Description**
+
+ _expression_A variable that represents a  **WebPageOptions** object.
+
+
+## Example
+
+This example sets the description for page two of the active Web publication.
 
 
 ```vb

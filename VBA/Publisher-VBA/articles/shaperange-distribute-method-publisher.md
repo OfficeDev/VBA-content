@@ -1,64 +1,65 @@
 ---
-title: "Метод ShapeRange.Distribute (издатель)"
+title: ShapeRange.Distribute Method (Publisher)
 keywords: vbapb10.chm2294017
-f1_keywords: vbapb10.chm2294017
+f1_keywords:
+- vbapb10.chm2294017
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Distribute
+api_name:
+- Publisher.ShapeRange.Distribute
 ms.assetid: a145fb46-d7b6-bc3c-b7fd-cdb892fda179
 ms.date: 06/08/2017
-ms.openlocfilehash: 1201e46407f89ba4b0db8d9285b6f54f2468a2dc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangedistribute-method-publisher"></a>Метод ShapeRange.Distribute (издатель)
-
-Равномерно распределяет фигур в диапазон указанной фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Distribute Method (Publisher)
 
- _выражение_. **Распространение** ( **_DistributeCmd_**, **_RelativeTo_**)
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Evenly distributes the shapes in the specified shape range.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Distribute**( **_DistributeCmd_**,  **_RelativeTo_**)
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|DistributeCmd|Обязательное свойство.| **MsoDistributeCmd**|Указывает, будет ли фигур распределенных по горизонтали или по вертикали.|
-|RelativeTo|Обязательное свойство.| **MsoTriState**|Указывает, следует ли равномерное распределение фигур на все горизонтальный или вертикальный место на странице или в пределах горизонтального или вертикального пространства, который изначально занимает диапазона фигур.|
+|DistributeCmd|Required| **MsoDistributeCmd**|Specifies whether shapes are to be distributed horizontally or vertically.|
+|RelativeTo|Required| **MsoTriState**|Specifies whether to distribute the shapes evenly over the entire horizontal or vertical space on the page or within the horizontal or vertical space that the range of shapes originally occupies.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Таким образом, что равно объем пространства между одной фигуры и следующим распределяются фигур. Перекрытием при распределенные по доступное место больших фигур, их распределения, чтобы не равно объем перекрытие между одной фигуры и далее.
+Shapes are distributed so that there is an equal amount of space between one shape and the next. If the shapes are so large that they overlap when distributed over the available space, they are distributed so that there is an equal amount of overlap between one shape and the next.
 
-Параметр DistributeCmd может иметь одно из следующих **MsoDistributeCmd** константы, описанные в библиотеке типов, Microsoft Office.
-
-
-
-| **msoDistributeHorizontally**|| **msoDistributeVertically**| Параметр RelativeTo может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The DistributeCmd parameter can be one of the following  **MsoDistributeCmd** constants declared in the Microsoft Office type library.
 
 
 
-|**Константы**|**Описание**|
+| **msoDistributeHorizontally**|
+| **msoDistributeVertically**|
+The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+
+
+
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**| Распределить фигуры в пределах горизонтального или вертикального пространства, который изначально занимает диапазона фигур.|
-| **msoTrue**|Равномерное распределение фигур по всей горизонтальное или вертикальное пространство на странице.|
-При **msoTrue**RelativeTo фигур распределяются, чтобы расстояние между двумя фигурами внешнего и края страницы совпадает с расстояние между одной фигуры и далее. Если необходимо накладываются фигур, двумя фигурами внешнего перемещаются края страницы.
+| **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
+| **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|
+When RelativeTo is  **msoTrue**, shapes are distributed so that the distance between the two outer shapes and the edges of the page is the same as the distance between one shape and the next. If the shapes must overlap, the two outer shapes are moved to the edges of the page.
 
-Когда RelativeTo **msoFalse**два внешних фигур не перемещается; настраиваются только положения внутреннего фигур.
+When RelativeTo is  **msoFalse**, the two outer shapes are not moved; only the positions of the inner shapes are adjusted.
 
-Z порядка фигур влиянию этого метода.
+The z-order of shapes is unaffected by this method.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере определяется диапазона фигуры, который содержит все автофигуры на первой странице active публикации и по горизонтали распределяет фигур в этот диапазон.
+This example defines a shape range that contains all the AutoShapes on the first page of the active publication and then horizontally distributes the shapes in this range.
 
 
 ```vb

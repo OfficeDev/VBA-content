@@ -1,48 +1,47 @@
 ---
-title: "Метод WebPageOptions.SetBackgroundSoundRepeat (издатель)"
+title: WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
 keywords: vbapb10.chm544777
-f1_keywords: vbapb10.chm544777
+f1_keywords:
+- vbapb10.chm544777
 ms.prod: publisher
-api_name: Publisher.WebPageOptions.SetBackgroundSoundRepeat
+api_name:
+- Publisher.WebPageOptions.SetBackgroundSoundRepeat
 ms.assetid: a699fa92-a36a-6722-431d-a0ce8413cfcf
 ms.date: 06/08/2017
-ms.openlocfilehash: 2aff8b18d5ded2b24a941e2f1093f970cb743a44
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webpageoptionssetbackgroundsoundrepeat-method-publisher"></a>Метод WebPageOptions.SetBackgroundSoundRepeat (издатель)
-
-Указывает, необходимо будет воспроизводиться фоновый звук, подключенного к веб-страницы, бесконечно после того, как страница загружается в веб-браузере и противном случае, при необходимости указывает, сколько раз необходимо будет воспроизводиться фоновый звук.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebPageOptions.SetBackgroundSoundRepeat Method (Publisher)
 
- _выражение_. **SetBackgroundSoundRepeat** ( **_RepeatForever_**, **_RepeatTimes_**)
-
- переменная _expression_A, представляет собой объект- **WebPageOptions** .
+Specifies whether the background sound attached to a Web page should be played infinitely after the page is loaded in a Web browser, and if it should not, optionally specifies the number of times the background sound should be played.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetBackgroundSoundRepeat**( **_RepeatForever_**,  **_RepeatTimes_**)
+
+ _expression_A variable that represents a  **WebPageOptions** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|RepeatForever|Обязательное свойство.| **Boolean**|Указывает, следует ли фоновый звук будет воспроизводиться бесконечно. Значение этого параметра используется для заполнения значение ** [Свойство BackgroundSoundLoopForever](webpageoptions-backgroundsoundloopforever-property-publisher.md)** свойство.|
-|RepeatTimes|Необязательный| **Длинный**|Указывает, сколько раз необходимо будет воспроизводиться фоновый звук. Значение этого параметра используется для заполнения значение ** [Свойство BackgroundSoundLoopCount](webpageoptions-backgroundsoundloopcount-property-publisher.md)** свойство.|
+|RepeatForever|Required| **Boolean**|Specifies whether the background sound should be played infinitely. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopForever Property](webpageoptions-backgroundsoundloopforever-property-publisher.md)** property.|
+|RepeatTimes|Optional| **Long**|Specifies how many times the background sound should be played. The value of this parameter is used to populate the value of the  ** [BackgroundSoundLoopCount Property](webpageoptions-backgroundsoundloopcount-property-publisher.md)** property.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если параметр **_RepeatForever_** имеет значение **True**, нельзя указывать необязательный параметр **_RepeatTimes_** . Попытка задать **_RepeatTimes_** , если **_RepeatForever_** имеет **значение True,** приводит к ошибке времени выполнения.
+If the  **_RepeatForever_** parameter is set to **True**, the optional  **_RepeatTimes_** parameter cannot be specified. Attempting to specify **_RepeatTimes_** if **_RepeatForever_** is **True** results in a run-time error.
 
-Если параметр **_RepeatForever_** имеет значение **False**, должен быть указан необязательный параметр **_RepeatTimes_** . Пропуск **_RepeatTimes_** , если **_RepeatForever_** имеет **значение False,** приводит к ошибке времени выполнения.
+If the  **_RepeatForever_** parameter is set to **False**, the optional  **_RepeatTimes_** parameter must be specified. Omitting **_RepeatTimes_** if **_RepeatForever_** is **False** results in a run-time error.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается фон звука для страницы четыре active веб-публикации для WAV-файл на локальном компьютере. Если **BackgroundSoundLoopForever** имеет **значение False**, метод **SetBackgroundSoundRepeat** используется для указания, что звуковое сопровождение повторяться бесконечно (Обратите внимание, заменяют параметр **_RepeatTimes_** ). Если **BackgroundSoundLoopForever** имеет **значение True**, метод **SetBackgroundSoundRepeat** используется для указания, что звуковое сопровождение не повторяться бесконечно, однако, его необходимо выполнять два раза.
+The following example sets the background sound for page four of the active Web publication to a .wav file on the local computer. If  **BackgroundSoundLoopForever** is **False**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound be repeated infinitely (note the omission of the **_RepeatTimes_** parameter). If **BackgroundSoundLoopForever** is **True**, the  **SetBackgroundSoundRepeat** method is used to specify that the background sound not be repeated infinitely, but that it should be repeated twice.
 
 
 ```vb

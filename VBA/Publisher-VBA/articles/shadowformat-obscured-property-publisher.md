@@ -1,50 +1,49 @@
 ---
-title: "Свойство ShadowFormat.Obscured (издатель)"
+title: ShadowFormat.Obscured Property (Publisher)
 keywords: vbapb10.chm3670273
-f1_keywords: vbapb10.chm3670273
+f1_keywords:
+- vbapb10.chm3670273
 ms.prod: publisher
-api_name: Publisher.ShadowFormat.Obscured
+api_name:
+- Publisher.ShadowFormat.Obscured
 ms.assetid: 9bc7382e-50cf-0364-6b5a-8aa46a12d8fb
 ms.date: 06/08/2017
-ms.openlocfilehash: 9ad81d49fdc09cab4b4bb6cfe281b9566c8bd74c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shadowformatobscured-property-publisher"></a>Свойство ShadowFormat.Obscured (издатель)
-
-Возвращает или задает от **MsoTriState** значение, указывающее, отображается ли теневая указанные форму заполнения и замещается фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShadowFormat.Obscured Property (Publisher)
 
- _выражение_. **Закрыты**
-
- переменная _expression_A, представляющий объект **ShadowFormat** .
+Returns or sets an  **MsoTriState** value indicating whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Obscured**
+
+ _expression_A variable that represents an  **ShadowFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **Obscured** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **Obscured** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Теневая указанные форму не отображается заполняется в и не закрывается фигуры Если фигура имеет без заливки.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Теневая указанные форму не отображается заполняется в и не закрывается фигуры Если фигура имеет без заливки.|
+| **msoFalse**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается горизонтального и вертикального смещения тени для трех фигуры на странице один активный публикации. 5 точек справа от фигуры и 3 точки над текстом смещения тени. Если фигура не имеет тени, этот пример добавляет в него. Тени будет заполнено и скрыт фигуры, даже если фигуры без заливки.
+This example sets the horizontal and vertical offsets of the shadow for shape three on page one of the active publication. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape does not already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
 
 
 ```vb

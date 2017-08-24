@@ -1,46 +1,45 @@
 ---
-title: "Метод Document.ChangeDocument (издатель)"
+title: Document.ChangeDocument Method (Publisher)
 keywords: vbapb10.chm196756
-f1_keywords: vbapb10.chm196756
+f1_keywords:
+- vbapb10.chm196756
 ms.prod: publisher
-api_name: Publisher.Document.ChangeDocument
+api_name:
+- Publisher.Document.ChangeDocument
 ms.assetid: c6defa92-99fb-973b-6bb2-e3c2a1b0a4f3
 ms.date: 06/08/2017
-ms.openlocfilehash: a94393d0ee2bfb2f84689dca6c0147c73464f597
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentchangedocument-method-publisher"></a>Метод Document.ChangeDocument (издатель)
-
-Изменяет текущий публикации, с помощью мастера, а также разработки, указанной вами.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ChangeDocument Method (Publisher)
 
- _выражение_. **ChangeDocument** ( **_Мастер_** **_разработки_**)
-
- переменная _expression_A, представляющий объект **Document** .
+Changes the current publication to one that uses the wizard, and optionally the design, that you specify.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ChangeDocument**( **_Wizard_**,  **_Design_**)
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Мастер|Обязательное свойство.| **PbWizard**|Тип мастера. Возможные значения см.|
-|Разработка|Необязательный| **Длинный**|Тип проекта.|
+|Wizard|Required| **PbWizard**|The type of wizard. See Remarks for possible values.|
+|Design|Optional| **Long**|The design type.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Возможные значения для параметра мастера объявляются в перечислении **[PbWizard](pbwizard-enumeration-publisher.md)** в библиотеке типов, Publisher.
+Possible values for the Wizard parameter are declared in the  **[PbWizard](pbwizard-enumeration-publisher.md)** enumeration in the Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ChangeDocument** для изменения мастера, используемые текущей publicaton для брошюра.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ChangeDocument** method to change the wizard used by the current publicaton to a brochure.
 
 
 ```vb

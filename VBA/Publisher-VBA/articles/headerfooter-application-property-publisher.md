@@ -1,32 +1,31 @@
 ---
-title: "Свойство HeaderFooter.Application (издатель)"
+title: HeaderFooter.Application Property (Publisher)
 keywords: vbapb10.chm7471106
-f1_keywords: vbapb10.chm7471106
+f1_keywords:
+- vbapb10.chm7471106
 ms.prod: publisher
-api_name: Publisher.HeaderFooter.Application
+api_name:
+- Publisher.HeaderFooter.Application
 ms.assetid: a0da12ac-607f-4c14-41d0-1ab5b33af694
 ms.date: 06/08/2017
-ms.openlocfilehash: 0a1ec29c7cc70ee86d3707e2a25cce82fcb3f144
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="headerfooterapplication-property-publisher"></a>Свойство HeaderFooter.Application (издатель)
-
-При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-## <a name="syntax"></a>Синтаксис
+# HeaderFooter.Application Property (Publisher)
 
- _выражение_. **Приложения**
-
- переменная _expression_A, представляет собой объект- **HeaderFooter** .
+Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображаются сведения о версии и построения для Publisher.
+ _expression_. **Application**
+
+ _expression_A variable that represents a  **HeaderFooter** object.
+
+
+## Example
+
+This example displays the version and build information for Publisher.
 
 
 ```vb
@@ -36,7 +35,7 @@ With Application
 End With
 ```
 
-В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
+This example displays the name of the application that created each linked OLE object on page one of the active publication.
 
 
 

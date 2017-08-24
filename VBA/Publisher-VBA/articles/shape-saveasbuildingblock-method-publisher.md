@@ -1,33 +1,31 @@
 ---
-title: "Метод Shape.SaveAsBuildingBlock (издатель)"
+title: Shape.SaveAsBuildingBlock Method (Publisher)
 keywords: vbapb10.chm2228378
-f1_keywords: vbapb10.chm2228378
+f1_keywords:
+- vbapb10.chm2228378
 ms.prod: publisher
 ms.assetid: 5dd51d12-9bb2-4dd5-9b4c-20f755beef12
 ms.date: 06/08/2017
-ms.openlocfilehash: d1b7b09b8171205bb1347428e1989a19739b6c73
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaveasbuildingblock-method-publisher"></a>Метод Shape.SaveAsBuildingBlock (издатель)
-
-Сохраняет одну форму в виде стандартного блока. Возвращает итоговый объект **[BuildingBlock](buildingblock-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.SaveAsBuildingBlock Method (Publisher)
 
- _выражение_. **SaveAsBuildingBlock** ( **_Имя_**)
-
- переменная _expression_A, представляющий объект **фигуры** .
+Saves a single shape as a building block. Returns the resulting  **[BuildingBlock](buildingblock-object-publisher.md)** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SaveAsBuildingBlock**( **_Name_**)
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя|Обязательное свойство.| **String**|Имя нового стандартного блока, который требуется создать.|
+|Name|Required| **String**|The name of the new building block you want to create.|
 

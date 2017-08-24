@@ -1,42 +1,41 @@
 ---
-title: "Свойство Plate.InUse (издатель)"
+title: Plate.InUse Property (Publisher)
 keywords: vbapb10.chm2883602
-f1_keywords: vbapb10.chm2883602
+f1_keywords:
+- vbapb10.chm2883602
 ms.prod: publisher
-api_name: Publisher.Plate.InUse
+api_name:
+- Publisher.Plate.InUse
 ms.assetid: 6c98ada2-ff05-30c9-0043-afbe892dab3d
 ms.date: 06/08/2017
-ms.openlocfilehash: 65b9b30731f76a245e71663714ad3014a293ba2e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="plateinuse-property-publisher"></a>Свойство Plate.InUse (издатель)
-
-Возвращает **значение True** , если указанный рукописный ввод (представленное форму) используется в публикации. Только для чтения **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Plate.InUse Property (Publisher)
 
- _выражение_. **Может быть каталогом**
-
- переменная _expression_A, представляющий объект **формы** .
+Returns  **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **InUse**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство соответствует нотацию **Используется** или **Не используется** , перечисленные по каждой рукописного ввода на вкладке **рукописного ввода** диалогового окна **Печать цвета** .
+ _expression_A variable that represents an  **Plate** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере циклически просматривает коллекцию форм active публикации, определяет, какие формы представляют краски, которые не используются в публикации и их удаление.
+Boolean
+
+
+## Remarks
+
+This property corresponds to the  **In Use** or **Not In Use** notation listed by each ink on the **Ink** tab of the **Color Printing** dialog box.
+
+
+## Example
+
+The following example loops through the active publication's plates collection, determines which plates represent inks that are not used in the publication, and deletes them.
 
 
 ```vb

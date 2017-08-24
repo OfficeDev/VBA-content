@@ -1,42 +1,41 @@
 ---
-title: "Свойство ParagraphFormat.KashidaPercentage (издатель)"
+title: ParagraphFormat.KashidaPercentage Property (Publisher)
 keywords: vbapb10.chm5439513
-f1_keywords: vbapb10.chm5439513
+f1_keywords:
+- vbapb10.chm5439513
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.KashidaPercentage
+api_name:
+- Publisher.ParagraphFormat.KashidaPercentage
 ms.assetid: d62aa512-cce6-2e78-657f-51ff1b2cbcf8
 ms.date: 06/08/2017
-ms.openlocfilehash: 3abd4fa867e2cc2be1129909b9dc0cba3ddd7362
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatkashidapercentage-property-publisher"></a>Свойство ParagraphFormat.KashidaPercentage (издатель)
-
-Возвращает или задает типа **Long** , указывающее процент, с помощью которого кашиды должны быть в тексте для указанного абзацев. Допустимые значения: от 0 до 100. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.KashidaPercentage Property (Publisher)
 
- _выражение_. **KashidaPercentage**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns or sets a  **Long** indicating the percentage by which kashidas are to be lengthened for the specified paragraphs. Valid values are from 0 to 100. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **KashidaPercentage**
 
-
-## <a name="remarks"></a>Заметки
-
-Свойство **[Alignment](paragraphformat-alignment-property-publisher.md)** указанного абзацев должен иметь значение **pbParagraphAlignmentKashida** или **KashidaPercentage** свойство будет пропущено.
+ _expression_A variable that represents a  **ParagraphFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере задается абзацы в форму одно на странице один из активных публикации для выравнивания кашида и указывает, что кашиды должны быть в тексте на 20 процентов.
+Long
+
+
+## Remarks
+
+The  **[Alignment](paragraphformat-alignment-property-publisher.md)** property of the specified paragraphs must be set to **pbParagraphAlignmentKashida** or the **KashidaPercentage** property is ignored.
+
+
+## Example
+
+The following example sets the paragraphs in shape one on page one of the active publication to kashida alignment and specifies that kashidas are to be lengthened by 20 percent.
 
 
 ```vb

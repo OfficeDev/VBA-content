@@ -1,58 +1,57 @@
 ---
-title: "Метод ShapeRange.MoveIntoTextFlow (издатель)"
+title: ShapeRange.MoveIntoTextFlow Method (Publisher)
 keywords: vbapb10.chm2294025
-f1_keywords: vbapb10.chm2294025
+f1_keywords:
+- vbapb10.chm2294025
 ms.prod: publisher
-api_name: Publisher.ShapeRange.MoveIntoTextFlow
+api_name:
+- Publisher.ShapeRange.MoveIntoTextFlow
 ms.assetid: bf76c82c-09de-5238-2c48-6addc5a4f000
 ms.date: 06/08/2017
-ms.openlocfilehash: f3ea14f094441ff4d28df221a06cc8262fea6b7a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangemoveintotextflow-method-publisher"></a>Метод ShapeRange.MoveIntoTextFlow (издатель)
-
-Перемещает заданной фигуры в текстовый поток, определенные в ** [Объект TextRange](textrange-object-publisher.md)**. Фигура всегда будет вставленный встроенного в начале текста.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.MoveIntoTextFlow Method (Publisher)
 
- _выражение_. **MoveIntoTextFlow** ( **_Диапазон_**)
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Moves a given shape into the text flow defined by  ** [TextRange Object](textrange-object-publisher.md)**. The shape will always be inserted inline at the beginning of the text flow.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MoveIntoTextFlow**( **_Range_**)
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Обязательное свойство.| **TextRange**|Диапазон текста, перед которым будет вставлена заданной фигуры.|
+|Range|Required| **TextRange**|The range of text before which the given shape is inserted.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Метод **MoveIntoTextFlow** завершится ошибкой, если фигуры перемещаемых уже встроенные или не является допустимым встроенный тип фигуры. Недопустимый встроенных типов фигур включают:
+The  **MoveIntoTextFlow** method will fail if the shape to be moved is already inline or if it is not a valid inline shape type. Invalid inline shape types include:
 
 
-- Встроенных фигур
+- Inline shapes
     
-- Изменение группы фигур
+- Grouped shapes
     
-- Фрагменты HTML
+- HTML fragments
     
-- Смарт-объекты
+- Smart objects
     
-- Связанные текстовые поля
+- Chained text boxes
     
 
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере проверяется, если второй фигуры на второй странице публикации — inline и если это не так, вставляет его встроенного в начале текста диапазона заданный текст. 
+The following example checks if the second shape on the second page of the publication is inline, and if it is not, inserts it inline at the beginning of the text flow of the given text range. 
 
 
 ```vb

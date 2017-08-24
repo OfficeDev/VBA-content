@@ -1,42 +1,41 @@
 ---
-title: "Свойство ParagraphFormat.ListBulletFontName (издатель)"
+title: ParagraphFormat.ListBulletFontName Property (Publisher)
 keywords: vbapb10.chm5439525
-f1_keywords: vbapb10.chm5439525
+f1_keywords:
+- vbapb10.chm5439525
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.ListBulletFontName
+api_name:
+- Publisher.ParagraphFormat.ListBulletFontName
 ms.assetid: aa0269a1-c5a8-1705-551f-6b1b849701e9
 ms.date: 06/08/2017
-ms.openlocfilehash: 7ad6ac242d7c6ef342beb9a9e585f7e686bdad66
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatlistbulletfontname-property-publisher"></a>Свойство ParagraphFormat.ListBulletFontName (издатель)
-
-Задает или получает **строку** , представляющую имя шрифта маркера списка из указанного абзацев. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.ListBulletFontName Property (Publisher)
 
- _выражение_. **ListBulletFontName**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Sets or retrieves a  **String** representing the list bullet font name from the specified paragraphs. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ListBulletFontName**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Возвращает сообщение «Доступ запрещен», если список не маркированный список.
+Returns an "Access Denied" message if the list is not a bulleted list.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверяется, если тип списка — маркированный список. Если он установлен, **ListBulletFontName** задано значение «Verdana», **ListFontSize** задано значение 24.
+This example tests to see if the list type is a bulleted list. If it is, the  **ListBulletFontName** is set to "Verdana" and the **ListFontSize** is set to 24.
 
 
 ```vb

@@ -1,54 +1,53 @@
 ---
-title: "Метод MailMerge.OpenDataSource (издатель)"
+title: MailMerge.OpenDataSource Method (Publisher)
 keywords: vbapb10.chm6225937
-f1_keywords: vbapb10.chm6225937
+f1_keywords:
+- vbapb10.chm6225937
 ms.prod: publisher
-api_name: Publisher.MailMerge.OpenDataSource
+api_name:
+- Publisher.MailMerge.OpenDataSource
 ms.assetid: 4473e566-687f-595e-9fd6-a5483021cb48
 ms.date: 06/08/2017
-ms.openlocfilehash: 9e5bd11342f93b80e851f7528da2382be1661663
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergeopendatasource-method-publisher"></a>Метод MailMerge.OpenDataSource (издатель)
-
-Подключает указанный публикации, который становится основной публикации, если она еще не источника данных.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.OpenDataSource Method (Publisher)
 
- _выражение_. **OpenDataSource** ( **_bstrDataSource_**, **_bstrConnect_**, **_bstrTable_**, **_fOpenExclusive_**, **_fNeverPrompt_**)
-
- переменная _expression_A, представляет собой объект- **слияния** .
+Attaches a data source to the specified publication, which becomes a main publication if it is not one already.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **OpenDataSource**( **_bstrDataSource_**,  **_bstrConnect_**,  **_bstrTable_**,  **_fOpenExclusive_**,  **_fNeverPrompt_**)
+
+ _expression_A variable that represents a  **MailMerge** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|bstrDataSource|Необязательный| **String**|Данные источника путь и имя файла. Можно указать файл Microsoft Query (.qry) вместо определения источника данных, строка подключения и строка имя таблицы; значения в файле Microsoft Query переопределить значения для bstrConnect и bstrTable.|
-|bstrConnect|Необязательный| **String**|Строка подключения.|
-|bstrTable|Необязательный| **String**|Имя таблицы в источнике данных.|
-|fOpenExclusive|Необязательный| **Длинный**| **Значение true,** чтобы запретить другим пользователям доступ к базе данных. **Значение false** позволяет другим пользователям чтения/записи разрешений для базы данных. Значение по умолчанию — **False**.|
-|fNeverPrompt|Необязательный| **Длинный**| **Длинные**.  **Значение true,** никогда не выдает запрос при открытии источника данных. **Значение false,** отображается диалоговое окно Свойства связи с данными. Значение по умолчанию — **False**.|
+|bstrDataSource|Optional| **String**|The data source path and file name. You can specify a Microsoft Query (.qry) file instead of specifying a data source, a connection string, and a table name string; values in a Microsoft Query file override values for bstrConnect and bstrTable.|
+|bstrConnect|Optional| **String**|A connection string.|
+|bstrTable|Optional| **String**|The name of the table in the data source.|
+|fOpenExclusive|Optional| **Long**| **True** to deny others access to the database. **False** allows others read/write permission to the database. The default value is **False**.|
+|fNeverPrompt|Optional| **Long**| **Long**.  **True** never prompts when opening the data source. **False** displays the Data Link Properties dialog box. The default value is **False**.|
 
-## <a name="remarks"></a>Заметки
-
-
+## Remarks
 
 
- **Примечание**  При использовании источника данных для слияния почты необходимо добавить область объединения в каталог на странице публикации перед присоединением к источнику данных.
 
 
-## <a name="example"></a>Пример
+ **Note**  If you are using a data source for mail merge, you must add a catalog merge area to the publication page before you attach to the data source.
 
-В этом примере связывает таблицу из базы данных и не дает все еще доступ на запись в базу данных при открытии. 
 
-В этом примере для ведения необходимо заменить _PathToFile_ допустимый путь к файлу и _TableName_ с именем таблицы источника допустимых данных.
+## Example
+
+This example attaches a table from a database and denies everyone else write access to the database while it is opened. 
+
+For this example to run properly, you must replace  _PathToFile_ with a valid file path and _TableName_ with a valid data source table name.
 
 
 

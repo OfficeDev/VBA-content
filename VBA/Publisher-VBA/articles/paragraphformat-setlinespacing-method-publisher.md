@@ -1,56 +1,55 @@
 ---
-title: "Метод ParagraphFormat.SetLineSpacing (издатель)"
+title: ParagraphFormat.SetLineSpacing Method (Publisher)
 keywords: vbapb10.chm5439511
-f1_keywords: vbapb10.chm5439511
+f1_keywords:
+- vbapb10.chm5439511
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.SetLineSpacing
+api_name:
+- Publisher.ParagraphFormat.SetLineSpacing
 ms.assetid: 32e5b233-8415-2373-7423-18b66df3a5ea
 ms.date: 06/08/2017
-ms.openlocfilehash: fc41da03b89bb914ff8daadbc3278d6ba7e336f6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatsetlinespacing-method-publisher"></a>Метод ParagraphFormat.SetLineSpacing (издатель)
-
-Форматирует междустрочным интервалом указанного абзацев.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.SetLineSpacing Method (Publisher)
 
- _выражение_. **SetLineSpacing** ( **_Правило_**, **_интервал_**)
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Formats the line spacing of specified paragraphs.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetLineSpacing**( **_Rule_**,  **_Spacing_**)
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Rule|Обязательное свойство.| **PbLineSpacingRule**|Междустрочным интервалом для указанного абзацев.|
-|Интервал|Необязательный| **Variant**|Интервал (в пунктах) для указанного абзацев.|
+|Rule|Required| **PbLineSpacingRule**|The line spacing to use for the specified paragraphs.|
+|Spacing|Optional| **Variant**|The spacing (in points) for the specified paragraphs.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр правила может быть одной из констант **PbLineSpacingRule** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+The Rule parameter can be one of the  **PbLineSpacingRule** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbLineSpacing1pt5**|Задает интервал для указанного абзацев-и a две строки.|
-| **pbLineSpacingDouble**| Двойные пробелы содержатся указанного абзацев.|
-| **pbLineSpacingExactly**| Задает междустрочным интервалом точно значению, указанному в аргументе интервал даже в том случае, если размер шрифта используется внутри абзаца.|
-| **pbLineSpacingMixed**| Возвращаемое значение для свойства **[LineSpacing](paragraphformat-linespacing-property-publisher.md)** , которое указывает, что междустрочным интервалом — это сочетание значений для указанного абзацев.|
-| **pbLineSpacingMultiple**|Установка интервала строки значению, указанному в аргументе интервал.|
-| **pbLineSpacingSingle**|Один пробелы указанного абзацев.|
+| **pbLineSpacing1pt5**|Sets the spacing for specified paragraphs to one-and-a-half lines.|
+| **pbLineSpacingDouble**| Double-spaces the specified paragraphs.|
+| **pbLineSpacingExactly**| Sets the line spacing to exactly the value specified in the Spacing argument, even if a larger font is used within the paragraph.|
+| **pbLineSpacingMixed**| A return value for the **[LineSpacing](paragraphformat-linespacing-property-publisher.md)** property that indicates that line spacing is a combination of values for the specified paragraphs.|
+| **pbLineSpacingMultiple**|Sets the line spacing to the value specified in the Spacing argument.|
+| **pbLineSpacingSingle**|Single spaces the specified paragraphs.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается междустрочным интервалом в double.
+This example sets the line spacing to double.
 
 
 ```vb

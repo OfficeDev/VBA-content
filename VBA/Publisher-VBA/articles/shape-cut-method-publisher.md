@@ -1,39 +1,38 @@
 ---
-title: "Метод Shape.Cut (издатель)"
+title: Shape.Cut Method (Publisher)
 keywords: vbapb10.chm2228241
-f1_keywords: vbapb10.chm2228241
+f1_keywords:
+- vbapb10.chm2228241
 ms.prod: publisher
-api_name: Publisher.Shape.Cut
+api_name:
+- Publisher.Shape.Cut
 ms.assetid: d800c1e5-7655-9071-a373-7772fa1ca15f
 ms.date: 06/08/2017
-ms.openlocfilehash: f11b316467fffb3f3c8f8e8a824cb05a53f9f612
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapecut-method-publisher"></a>Метод Shape.Cut (издатель)
-
-Удаляет указанный объект и помещает его в буфер обмена.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.Cut Method (Publisher)
 
- _выражение_. **Вырезание**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Deletes the specified object and places it on the Clipboard.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Используйте метод **вставьте**Вставка содержимого буфера обмена.
+ _expression_. **Cut**
 
-Метод **Copy** можно использовать на **фигуры** , но не удается метод **Paste** .
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере удаляется фигуры одно и фигуры двух со страницы, один из активных публикации помещает их копии в буфер обмена и вставляет копии на второй страницы.
+Use the  **Paste**method to paste the contents of the Clipboard.
+
+The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+
+
+## Example
+
+This example deletes shape one and shape two from page one of the active publication, places copies of them on the Clipboard, and then pastes the copies onto page two.
 
 
 ```vb
@@ -43,7 +42,7 @@ With ActiveDocument
 End With
 ```
 
-В этом примере удаляется один фигуры на странице один активный публикации и помещает его копию в буфер обмена.
+This example deletes shape one on page one of the active publication and places a copy of it on the Clipboard.
 
 
 
@@ -59,7 +58,7 @@ ActiveDocument
 .Pages(1).Shapes(1).Cut
 ```
 
-В этом примере удаляет текст в фигуре одно на странице один активный публикации и помещает его копию в буфер обмена.
+This example deletes the text in shape one on page one of the active publication and places a copy of it on the Clipboard.
 
 
 

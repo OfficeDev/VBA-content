@@ -1,37 +1,36 @@
 ---
-title: "Свойство Window.Caption (издатель)"
+title: Window.Caption Property (Publisher)
 keywords: vbapb10.chm262146
-f1_keywords: vbapb10.chm262146
+f1_keywords:
+- vbapb10.chm262146
 ms.prod: publisher
-api_name: Publisher.Window.Caption
+api_name:
+- Publisher.Window.Caption
 ms.assetid: 1dbf66c9-e964-b17f-684f-70cbbaa5fbc7
 ms.date: 06/08/2017
-ms.openlocfilehash: 217508325c9d66d2f35475f103e6733e1acb307e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="windowcaption-property-publisher"></a>Свойство Window.Caption (издатель)
-
-Возвращает или задает **строку** , определяющую заголовок в верхней части окна приложения Microsoft Publisher. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Window.Caption Property (Publisher)
 
- _выражение_. **Заголовок**
-
- переменная _expression_A, представляющий объект **Window** .
+Returns or sets a  **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Caption**
+
+ _expression_A variable that represents a  **Window** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере показано, как подпрограмма может временно изменение заголовка окна Publisher, а затем восстановить его позже.
+The following example demonstrates how a subroutine could temporarily change the Publisher window caption and then restore it afterward.
 
 
 ```vb

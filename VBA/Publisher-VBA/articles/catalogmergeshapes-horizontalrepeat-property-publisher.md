@@ -1,46 +1,45 @@
 ---
-title: "Свойство CatalogMergeShapes.HorizontalRepeat (издатель)"
+title: CatalogMergeShapes.HorizontalRepeat Property (Publisher)
 keywords: vbapb10.chm8388613
-f1_keywords: vbapb10.chm8388613
+f1_keywords:
+- vbapb10.chm8388613
 ms.prod: publisher
-api_name: Publisher.CatalogMergeShapes.HorizontalRepeat
+api_name:
+- Publisher.CatalogMergeShapes.HorizontalRepeat
 ms.assetid: 1c3f1093-294f-e7b3-02ca-803ce7437d49
 ms.date: 06/08/2017
-ms.openlocfilehash: dc0a75900163e49be51d0e13a02c4e9ee7015c17
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="catalogmergeshapeshorizontalrepeat-property-publisher"></a>Свойство CatalogMergeShapes.HorizontalRepeat (издатель)
-
-Возвращает значение типа **Long** , представляющее количество раз, когда область данных будет повторите через конечной страницы публикации, при выполнении объединение в каталог. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# CatalogMergeShapes.HorizontalRepeat Property (Publisher)
 
- _выражение_. **HorizontalRepeat**
-
- переменная _expression_A, представляет собой объект- **CatalogMergeShapes** .
+Returns a  **Long** that represents the number of times the catalog merge area will repeat across the target publication page when the catalog merge is executed. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **HorizontalRepeat**
 
-
-## <a name="remarks"></a>Заметки
-
-Когда выполняется объединение в каталог, область данных повторяется один раз для каждого выбранного записи в указанный источник данных.
-
-Сколько раз повторяет области данных на странице, определяется ширины области. Свойство **[Width](shape-width-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** для возвращения или задания горизонтальной размера области данных.
-
-Свойство **[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)** объекта **[CatalogMergeShapes](catalogmergeshapes-object-publisher.md)** представляет число раз, когда область данных по вертикали повторяет вниз конечной страницы публикации.
+ _expression_A variable that represents a  **CatalogMergeShapes** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере возвращается количество раз, когда область данных будет повторяющиеся по горизонтали и по вертикали на конечной страницы публикации, когда выполняется объединение в каталог. В этом примере предполагается, что область данных является первой фигуры на первой странице указанной публикации.
+Long
+
+
+## Remarks
+
+When the catalog merge is executed, the catalog merge area repeats once for each selected record in the specified data source.
+
+The number of times the catalog merge area repeats across the page is determined by the width of the area. Use the  **[Width](shape-width-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object to return or set the horizontal size of the catalog merge area.
+
+The  **[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)** property of the **[CatalogMergeShapes](catalogmergeshapes-object-publisher.md)** object represents the number of times the catalog merge area repeats vertically down the target publication page.
+
+
+## Example
+
+The following example returns the number of times the catalog merge area will repeat horizontally and vertically on the target publication page when the catalog merge is performed. This example assumes the catalog merge area is the first shape on the first page of the specified publication.
 
 
 ```vb

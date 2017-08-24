@@ -1,42 +1,41 @@
 ---
-title: "Свойство MailMergeDataSource.InvalidComments (издатель)"
+title: MailMergeDataSource.InvalidComments Property (Publisher)
 keywords: vbapb10.chm6291473
-f1_keywords: vbapb10.chm6291473
+f1_keywords:
+- vbapb10.chm6291473
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.InvalidComments
+api_name:
+- Publisher.MailMergeDataSource.InvalidComments
 ms.assetid: ee08b03a-57e2-d79c-ee9f-a6f9231c8d6b
 ms.date: 06/08/2017
-ms.openlocfilehash: ee686b52d2a7fb3fa5772bac3b84fd5ef47995ce
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourceinvalidcomments-property-publisher"></a>Свойство MailMergeDataSource.InvalidComments (издатель)
-
-Если свойство **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** имеет **значение True**, данное свойство Возвращает или задает **строку** , которая описывает недопустимые данные в записи. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.InvalidComments Property (Publisher)
 
- _выражение_. **InvalidComments**
-
- переменная _expression_A, представляющий объект **вывода** .
+If the  **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** property is **True**, this property returns or sets a  **String** that describes invalid data in a mail merge record. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **InvalidComments**
+
+ _expression_A variable that represents an  **MailMergeDataSource** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** для задания свойств и **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** и **InvalidComments** для всех записей в источнике данных.
+Use the  **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and  **InvalidComments** properties for all records in a data source.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выполняется поиск записей, убедитесь, что длина поля PostalCode для каждой записи срок, по крайней мере пяти цифр. Если он не установлен, запись исключены из слияния почты и помечается как недопустимый.
+This example searches the records to verify that the length of the PostalCode field for each record is at least five digits long. If it is not, the record is excluded from the mail merge and flagged as invalid.
 
 
 ```vb

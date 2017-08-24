@@ -1,66 +1,65 @@
 ---
-title: "Метод ShapeRange.Align (издатель)"
+title: ShapeRange.Align Method (Publisher)
 keywords: vbapb10.chm2294016
-f1_keywords: vbapb10.chm2294016
+f1_keywords:
+- vbapb10.chm2294016
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Align
+api_name:
+- Publisher.ShapeRange.Align
 ms.assetid: ef522d47-3fc7-cfca-5b9a-44ff020f8b31
 ms.date: 06/08/2017
-ms.openlocfilehash: 23fd8068805fa12d078c0fceb8625705d3dc9ae4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangealign-method-publisher"></a>Метод ShapeRange.Align (издатель)
-
-Выравнивает всех фигур на указанный объект **ShapeRange** .
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Align Method (Publisher)
 
- _выражение_. **Выравнивание** ( **_AlignCmd_**, **_RelativeTo_**)
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Aligns all the shapes in the specified  **ShapeRange** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Align**( **_AlignCmd_**,  **_RelativeTo_**)
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|AlignCmd|Обязательное свойство.| **MsoAlignCmd**|Задает способ выравнивания фигур.|
-|RelativeTo|Обязательное свойство.| **MsoTriState**|Указывает, выполняется ли выравнивание фигур, относящиеся к странице или друг с другом.|
+|AlignCmd|Required| **MsoAlignCmd**|Specifies how the shapes are to be aligned.|
+|RelativeTo|Required| **MsoTriState**|Specifies whether shapes are aligned relative to the page or to one another.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если параметр RelativeTo является **msoFalse** и диапазона фигуры содержит только одну фигуру, возникает ошибка.
+If the RelativeTo parameter is  **msoFalse** and the shape range contains only one shape, an error occurs.
 
-Параметр AlignCmd может иметь одно из **MsoAlignCmd** константы в библиотеке типов, Microsoft Office.
+The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in the Microsoft Office type library.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoAlignBottoms**|Выравнивает фигур по нижнему краю. Если _RelativeTo_ **msoFalse**, нижних фигур определяет строку, с которым выровненные другие фигуры.|
-| **msoAlignCenters**|Выравнивает фигур на вертикальной линии через их центры. Если _RelativeTo_ **msoFalse**, в строке промежуточное слева - и правые фигуры выравнивания фигур.|
-| **msoAlignLefts**|Выравнивает фигур по левому краю. Если _RelativeTo_ **msoFalse**, самые левые фигуры определяет строку, с которым выровненные другие фигуры.|
-| **msoAlignMiddles**|Выравнивает фигур на горизонтальную линию через их центры. Если _RelativeTo_ **msoFalse**, в строке Промежуточное начало - и нижних фигур выравнивания фигур.|
-| **msoAlignRights**| **msoAlignRights** Выравнивает фигур по правому краю. Если _RelativeTo_ **msoFalse**, правые фигуры определяет строку, с которым выровненные другие фигуры.|
-| **msoAlignTops**| Выравнивает фигур по верхнему краю. Если _RelativeTo_ **msoFalse**, верхняя фигура определяет строку, с которым выровненные другие фигуры.|
-Параметр RelativeTo может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+| **msoAlignBottoms**|Aligns shapes along their bottom edges. If  _RelativeTo_ is **msoFalse**, the bottommost shape determines the line against which the other shapes are aligned.|
+| **msoAlignCenters**|Aligns shapes on a vertical line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the left- and rightmost shapes.|
+| **msoAlignLefts**|Aligns shapes along their left edges. If  _RelativeTo_ is **msoFalse**, the leftmost shape determines the line against which the other shapes are aligned.|
+| **msoAlignMiddles**|Aligns shapes on a horizontal line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the top- and bottommost shapes.|
+| **msoAlignRights**| **msoAlignRights** Aligns shapes along their right edges. If _RelativeTo_ is **msoFalse**, the rightmost shape determines the line against which the other shapes are aligned.|
+| **msoAlignTops**| Aligns shapes along their top edges. If _RelativeTo_ is **msoFalse**, the topmost shape determines the line against which the other shapes are aligned.|
+The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Выравнивает фигур относительно друг с другом.|
-| **msoTrue**|Выравнивает фигур, относящиеся к странице.|
+| **msoFalse**|Aligns shapes relative to one another.|
+| **msoTrue**|Aligns shapes relative to the page.|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример выравнивание всех фигур на первой странице active публикации на вертикальной линии через их центры.
+The following example aligns all the shapes on the first page of the active publication on a vertical line through their centers.
 
 
 ```vb

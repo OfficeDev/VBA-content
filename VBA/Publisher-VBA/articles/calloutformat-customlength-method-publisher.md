@@ -1,47 +1,46 @@
 ---
-title: "Метод CalloutFormat.CustomLength (издатель)"
+title: CalloutFormat.CustomLength Method (Publisher)
 keywords: vbapb10.chm2490386
-f1_keywords: vbapb10.chm2490386
+f1_keywords:
+- vbapb10.chm2490386
 ms.prod: publisher
-api_name: Publisher.CalloutFormat.CustomLength
+api_name:
+- Publisher.CalloutFormat.CustomLength
 ms.assetid: 855df4af-a02f-fff3-9b12-af886a9788bc
 ms.date: 06/08/2017
-ms.openlocfilehash: 6c85caee6dbd7e40efe022076a7336830f4c4152
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="calloutformatcustomlength-method-publisher"></a>Метод CalloutFormat.CustomLength (издатель)
-
-Указывает, что первый сегмент линии выноски (сегмент, подключенного к поле выноски) присваиваться фиксированной длины при каждом перемещении выноске.
 
 
-## <a name="syntax"></a>Синтаксис
+# CalloutFormat.CustomLength Method (Publisher)
 
- _выражение_. **CustomLength** ( **_Длина_**)
-
- переменная _expression_A, представляет собой объект- **CalloutFormat** .
+Specifies that the first segment of the callout line (the segment attached to the text callout box) retain a fixed length whenever the callout is moved.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **CustomLength**( **_Length_**)
+
+ _expression_A variable that represents a  **CalloutFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Length|Обязательное свойство.| **Variant**|Длина первого сегмента выноски. Числовые значения вычисляются в точках; строк может быть в любой единицы, поддерживаемый Microsoft Publisher (например, «2,5 дюйма»).|
+|Length|Required| **Variant**|The length of the first segment of the callout. Numeric values are evaluated in points; strings can be in any unit supported by Microsoft Publisher (for example, "2.5 in").|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Применение этого метода свойству **[AutoLength](calloutformat-autolength-property-publisher.md)** присваивается **значение False** и задает свойство **[Length](calloutformat-length-property-publisher.md)** значение, заданное для аргумента **_длины_** .
+Applying this method sets the  **[AutoLength](calloutformat-autolength-property-publisher.md)** property to  **False** and sets the **[Length](calloutformat-length-property-publisher.md)** property to the value specified for the  **_Length_** argument.
 
-Метод **[AutomaticLength](calloutformat-automaticlength-method-publisher.md)** используется для указания, что первый сегмент линии выноски масштабироваться автоматически при каждом перемещении выноске. Применяется только к выноски, чьи строки состоят из нескольких сегментов (типы **msoCalloutThree** и **msoCalloutFour**).
+Use the  **[AutomaticLength](calloutformat-automaticlength-method-publisher.md)** method to specify that the first segment of the callout line be scaled automatically whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**).
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере для переключения между первый сегмент на автоматическое масштабирование и с фиксированной длины строки выноски для первой фигуры в активной публикации. Для обеспечения работы примера этой фигуры должен быть выноске.
+This example switches between an automatically-scaling first segment and one with a fixed length for the callout line for the first shape in the active publication. For the example to work, this shape must be a callout.
 
 
 ```vb

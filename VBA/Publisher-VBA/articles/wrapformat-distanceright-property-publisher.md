@@ -1,32 +1,31 @@
 ---
-title: "Свойство WrapFormat.DistanceRight (издатель)"
+title: WrapFormat.DistanceRight Property (Publisher)
 keywords: vbapb10.chm786441
-f1_keywords: vbapb10.chm786441
+f1_keywords:
+- vbapb10.chm786441
 ms.prod: publisher
-api_name: Publisher.WrapFormat.DistanceRight
+api_name:
+- Publisher.WrapFormat.DistanceRight
 ms.assetid: f7d15011-c4a8-98ca-8303-690f88f564b1
 ms.date: 06/08/2017
-ms.openlocfilehash: 0ff5817c8f099ce375627f784f2a764d8fc34d73
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wrapformatdistanceright-property-publisher"></a>Свойство WrapFormat.DistanceRight (издатель)
-
-Если свойство **[Type](wrapformat-type-property-publisher.md)** объекта **[WrapFormat](wrapformat-object-publisher.md)** **pbWrapTypeSquare**, возвращает или задает **Variant** , представляющий расстояние (в точках) между текст документа и правого края указанного фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WrapFormat.DistanceRight Property (Publisher)
 
- _выражение_. **DistanceRight**
-
- переменная _expression_A, представляет собой объект- **WrapFormat** .
+When the  **[Type](wrapformat-type-property-publisher.md)** property of the **[WrapFormat](wrapformat-object-publisher.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the right edge of the specified shape. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляется овала в активный документ и указывает, что текст документа обтекания слева и справа квадрата, circumscribes овала. В этом примере поля 0,1 дюйма между текст документа и верхней, нижней, левой и правой части квадрата.
+ _expression_. **DistanceRight**
+
+ _expression_A variable that represents a  **WrapFormat** object.
+
+
+## Example
+
+This example adds an oval to the active document and specifies that the document text wrap around the left and right sides of the square that circumscribes the oval. The example sets a 0.1-inch margin between the document text and the top, bottom, left side, and right side of the square.
 
 
 ```vb

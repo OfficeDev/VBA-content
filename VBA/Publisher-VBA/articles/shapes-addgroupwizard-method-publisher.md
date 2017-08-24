@@ -1,55 +1,54 @@
 ---
-title: "Метод Shapes.AddGroupWizard (издатель)"
+title: Shapes.AddGroupWizard Method (Publisher)
 keywords: vbapb10.chm2162727
-f1_keywords: vbapb10.chm2162727
+f1_keywords:
+- vbapb10.chm2162727
 ms.prod: publisher
-api_name: Publisher.Shapes.AddGroupWizard
+api_name:
+- Publisher.Shapes.AddGroupWizard
 ms.assetid: 5a84f055-7f30-0757-f507-40ee34b214f4
 ms.date: 06/08/2017
-ms.openlocfilehash: 27d22ac1bd7211ef75ddd4f903700e1d7753d799
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddgroupwizard-method-publisher"></a>Метод Shapes.AddGroupWizard (издатель)
-
-Добавление объекта **Shape** , представляющий объект макетов публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddGroupWizard Method (Publisher)
 
- _выражение_. **AddGroupWizard** ( **_Мастер_**, **_слева_**, **_сверху_**, **_Ширина_**, **_Высота_**, **_разработки_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a  **Shape** object representing a Design Gallery object to the publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddGroupWizard**( **_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Мастер|Обязательное свойство.| **PbWizardGroup**|Тип объекта макетов, чтобы добавить к публикации.|
-|Слева|Обязательное свойство.| **Variant**|Позиция левого края макетов объектов относительно левого края страницы, заданная в пунктах.|
-|Вверх|Обязательное свойство.| **Variant**|Позиция верхнего края макетов объектов относительно верхнего края страницы, заданная в пунктах.|
-|Width|Необязательный| **Variant**|Ширина новый объект макетов.|
-|Height|Необязательный| **Variant**|Высота новый объект макетов.|
-|Разработка|Необязательный| **Длинный**|Разработка объекта будет добавлена.|
+|Wizard|Required| **PbWizardGroup**|The type of Design Gallery object to add to the publication.|
+|Left|Required| **Variant**|The position of the Design Gallery object's left edge relative to the left edge of the page, measured in points.|
+|Top|Required| **Variant**|The position of the Design Gallery object's top edge relative to the top edge of the page, measured in points.|
+|Width|Optional| **Variant**|The width of the new Design Gallery object.|
+|Height|Optional| **Variant**|The height of the new Design Gallery object.|
+|Design|Optional| **Long**|The design of the object to be added.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр мастера может иметь одно из **[PbWizardGroup](pbwizardgroup-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The Wizard parameter can be one of the  **[PbWizardGroup](pbwizardgroup-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется веб-оглавление active публикацию.
+This example adds a Web table of contents to the active publication.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство ObjectVerbs.Count (издатель)"
+title: ObjectVerbs.Count Property (Publisher)
 keywords: vbapb10.chm4521987
-f1_keywords: vbapb10.chm4521987
+f1_keywords:
+- vbapb10.chm4521987
 ms.prod: publisher
-api_name: Publisher.ObjectVerbs.Count
+api_name:
+- Publisher.ObjectVerbs.Count
 ms.assetid: 0d868be0-f46d-d8bb-2af1-47e2d1a3a388
 ms.date: 06/08/2017
-ms.openlocfilehash: 2dbcfbc336346cb82b31a86306d6d966aaf83037
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="objectverbscount-property-publisher"></a>Свойство ObjectVerbs.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# ObjectVerbs.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляющий объект **ObjectVerbs** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents an  **ObjectVerbs** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

@@ -1,42 +1,41 @@
 ---
-title: "Свойство Page.Footer (издатель)"
+title: Page.Footer Property (Publisher)
 keywords: vbapb10.chm393248
-f1_keywords: vbapb10.chm393248
+f1_keywords:
+- vbapb10.chm393248
 ms.prod: publisher
-api_name: Publisher.Page.Footer
+api_name:
+- Publisher.Page.Footer
 ms.assetid: 8ab5a59b-c8d5-6217-098c-c53336ee5311
 ms.date: 06/08/2017
-ms.openlocfilehash: 4182a0626790cd5f4f3130fef971e5784493bd4f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagefooter-property-publisher"></a>Свойство Page.Footer (издатель)
-
-Возвращает объект **HeaderFooter** , представляющий нижнего колонтитула на указанный объект **страницы** . Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.Footer Property (Publisher)
 
- _выражение_. **Нижний колонтитул**
-
- переменная _expression_A, представляющий объект **Page** .
+Returns a  **HeaderFooter** object representing the footer of the specified **Page** object. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Footer**
+
+ _expression_A variable that represents a  **Page** object.
+
+
+### Return Value
 
 HeaderFooter
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Это свойство используется только для главных страниц. «Эта возможность предназначена только для главной страницы» ошибка возвращается в том случае, если нижний колонтитул, свойство можно обратиться из объекта **Page** , возвращенный формы коллекции **Pages** . Новый объект **HeaderFooter** создается для указанного главной страницы, доступ к этому свойству.
+This property is only for master pages. A "This feature is only for master pages" error is returned if the Footer property is accessed from a  **Page** object that is returned form the **Pages** collection. A new **HeaderFooter** object is created for the specified master page by accessing this property.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере создается объект **HeaderFooter** и задает нижний колонтитул первой главной страницы.
+The following example creates a  **HeaderFooter** object and sets it to the footer of the first master page.
 
 
 ```vb
@@ -44,7 +43,7 @@ Dim objFooter As HeaderFooter
 Set objFooter = ActiveDocument.MasterPages(1).Footer
 ```
 
-**HeaderFooter** объект, возвращенный свойством **нижнего колонтитула** можно использовать для управления содержимым нижнего колонтитула. В следующем примере задается некоторые свойства объекта **HeaderFooter** первой главной страницы.
+The  **HeaderFooter** object returned by the **Footer** property can be used to manipulate the footer content. The following example sets some properties of the **HeaderFooter** object of the first master page.
 
 
 

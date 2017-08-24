@@ -1,55 +1,56 @@
 ---
-title: "Метод MailMerge.Execute (издатель)"
+title: MailMerge.Execute Method (Publisher)
 keywords: vbapb10.chm6225940
-f1_keywords: vbapb10.chm6225940
+f1_keywords:
+- vbapb10.chm6225940
 ms.prod: publisher
-api_name: Publisher.MailMerge.Execute
+api_name:
+- Publisher.MailMerge.Execute
 ms.assetid: edcabcc5-f2ce-53ce-d422-0d6fcb5f8a33
 ms.date: 06/08/2017
-ms.openlocfilehash: 62ead1dcfb8a70fbe4bb0edeb5f465ab3bde6ebe
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergeexecute-method-publisher"></a>Метод MailMerge.Execute (издатель)
-
-Выполняет указанной операции объединения слияния почты и каталогов. Возвращает объект **[Document](document-object-publisher.md)** , представляющий новой или существующей публикации, указан как назначения результаты объединения. Возвращает **значение Nothing** , если на принтере выполняется слияние.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.Execute Method (Publisher)
 
- _выражение_. **Выполнение** ( **_Приостановить_**, **_назначения_**, **_имя файла_**)
-
- переменная _expression_A, представляет собой объект- **слияния** .
+Performs the specified mail merge or catalog merge operation. Returns a  **[Document](document-object-publisher.md)** object that represents the new or existing publication specified as the destination of the merge results. Returns **Nothing** if the merge is executed to a printer.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Execute**( **_Pause_**,  **_Destination_**,  **_Filename_**)
+
+ _expression_A variable that represents a  **MailMerge** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Приостановка|Обязательное свойство.| **Boolean**| **Значение true,** приложение Microsoft Publisher Приостановка и отображения диалогового окна по устранению неполадок, если обнаружена ошибка объединения. **Значение false,** следует ли игнорировать ошибки во время слияния или объединения в каталог.|
-|Конечный объект|Необязательный| **PbMailMergeDestination**|Назначение результаты объединения слияния почты и каталогов. Указание **pbSendToPrinter** для результаты объединения каталога в ошибку времени выполнения.|
-|Имя файла|Необязательный| **String**|Имя файла публикации, к которому необходимо добавить результаты объединения каталога.|
+|Pause|Required| **Boolean**| **True** to have Microsoft Publisher pause and display a troubleshooting dialog box if a merge error is found. **False** to ignore errors during mail merge or catalog merge.|
+|Destination|Optional| **PbMailMergeDestination**|The destination of the mail merge or catalog merge results. Specifying  **pbSendToPrinter** for a catalog merge results in a run-time error.|
+|Filename|Optional| **String**|The file name of the publication to which you want to append the catalog merge results.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Документ
-
-
-## <a name="remarks"></a>Заметки
-
-Назначение может иметь одно из следующих констант **PbMailMergeDestination** . Значение по умолчанию — **pbSendToPrinter**.
+Document
 
 
+## Remarks
 
-| **pbSendToPrinter**|| **pbMergeToNewPublication**|| **pbMergeToExistingPublication**|
+Destination can be one of these  **PbMailMergeDestination** constants. The default is **pbSendToPrinter**.
 
-## <a name="example"></a>Пример
 
-В этом примере выполняется слияния почты, если активная публикация — это основной документ с источником данных.
+
+| **pbSendToPrinter**|
+| **pbMergeToNewPublication**|
+| **pbMergeToExistingPublication**|
+
+## Example
+
+This example executes a mail merge if the active publication is a main document with an attached data source.
 
 
 ```vb

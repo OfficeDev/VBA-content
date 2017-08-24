@@ -1,37 +1,36 @@
 ---
-title: "Свойство MailMergeDataSource.MappedDataFields (издатель)"
+title: MailMergeDataSource.MappedDataFields Property (Publisher)
 keywords: vbapb10.chm6291475
-f1_keywords: vbapb10.chm6291475
+f1_keywords:
+- vbapb10.chm6291475
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.MappedDataFields
+api_name:
+- Publisher.MailMergeDataSource.MappedDataFields
 ms.assetid: 9f2a15a7-41b0-6025-73d6-eb70a412b830
 ms.date: 06/08/2017
-ms.openlocfilehash: 1ed2ed7a6336c8ab070977785108c6e9c3777aba
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourcemappeddatafields-property-publisher"></a>Свойство MailMergeDataSource.MappedDataFields (издатель)
-
-Возвращает объект **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** , представляющий поля сопоставленные данные, доступные в Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.MappedDataFields Property (Publisher)
 
- _выражение_. **MappedDataFields**
-
- переменная _expression_A, представляющий объект **вывода** .
+Returns a  **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** object that represents the mapped data fields available in Microsoft Publisher.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **MappedDataFields**
+
+ _expression_A variable that represents a  **MailMergeDataSource** object.
+
+
+### Return Value
 
 MailMergeMappedDataFields
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается таблица на новой странице текущей публикации и перечисляет поля сопоставленные данные, доступные в Publisher и поля в источнике данных, к которой они сопоставлены. В этом примере предполагается, что текущей публикации является публикацией слияния почты и у соответствующих полей источника данных сопоставленные поля данных.
+This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
 
 
 ```vb

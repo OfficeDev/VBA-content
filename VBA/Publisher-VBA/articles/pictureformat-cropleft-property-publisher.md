@@ -1,50 +1,49 @@
 ---
-title: "Свойство PictureFormat.CropLeft (издатель)"
+title: PictureFormat.CropLeft Property (Publisher)
 keywords: vbapb10.chm3604740
-f1_keywords: vbapb10.chm3604740
+f1_keywords:
+- vbapb10.chm3604740
 ms.prod: publisher
-api_name: Publisher.PictureFormat.CropLeft
+api_name:
+- Publisher.PictureFormat.CropLeft
 ms.assetid: f9fd2031-83f7-ea81-84eb-4f1ac6d65082
 ms.date: 06/08/2017
-ms.openlocfilehash: 273b5f3210f9d219e6939808761fb7275df10c05
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatcropleft-property-publisher"></a>Свойство PictureFormat.CropLeft (издатель)
-
-Возвращает или задает **Variant** , показывающее, с помощью которого обрезается левого края рисунка или объекта OLE. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.CropLeft Property (Publisher)
 
- _выражение_. **CropLeft**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Returns or sets a  **Variant** indicating the amount by which the left edge of a picture or OLE object is cropped. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **CropLeft**
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Отрицательные значения обрезки нижнего края от центра фрейма и положительные значения Обрезать по правому краю фрейма.
+Negative values crop the bottom edge away from the center of the frame and positive values crop toward the right edge of the frame.
 
-Диапазон допустимых значений обрезки зависит от того, положение и размер кадра. Для исходное frame разрешенных низший отрицательное значение задается расстояние от левого края frame и левого края вспомогательной области. Наибольшее положительное значение разрешено является текущий ширина кадра.
+The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the left edge of frame and the left edge of the scratch area. The highest positive value allowed is the current frame width.
 
-Обрезка рассчитывается относительно исходного размера изображения. Например если вставить рисунок, который изначально — 100 точки широкий, размера, чтобы он был 200 точек широкий и свойства **CropLeft** 50 100 точек (не 50) будет обрезки off в левой части рисунка.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the  **CropLeft** property to 50, 100 points (not 50) will be cropped off the left of your picture.
 
-Использование свойств **[CropRight](pictureformat-cropright-property-publisher.md)**, **[CropTop](pictureformat-croptop-property-publisher.md)**и **[CropBottom](pictureformat-cropbottom-property-publisher.md)** обрезать других края рисунка или объекта OLE.
+Use the  **[CropRight](pictureformat-cropright-property-publisher.md)**,  **[CropTop](pictureformat-croptop-property-publisher.md)**, and  **[CropBottom](pictureformat-cropbottom-property-publisher.md)** properties to crop other edges of a picture or OLE object.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере Кадрирование 20 точек off слева от третьей фигуры в активной публикации. Для обеспечения работы примера фигуры должен быть изображения или объекта OLE.
+This example crops 20 points off the left of the third shape in the active publication. For the example to work, the shape must be either a picture or an OLE object.
 
 
 ```vb
@@ -52,7 +51,7 @@ ActiveDocument.Pages(1).Shapes(3).PictureFormat _
  .CropLeft = 20
 ```
 
-В этом примере обрезает процент, указанный пользователем off слева от выбранной фигуры, независимо от того, был ли увеличен фигуры. Для обеспечения работы примера выбранной фигуры должен быть изображения или объекта OLE.
+This example crops the percentage specified by the user off the left of the selected shape, regardless of whether the shape has been scaled. For the example to work, the selected shape must be either a picture or an OLE object.
 
 
 

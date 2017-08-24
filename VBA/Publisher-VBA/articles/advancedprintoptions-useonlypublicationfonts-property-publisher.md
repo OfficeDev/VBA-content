@@ -1,51 +1,50 @@
 ---
-title: "Свойство AdvancedPrintOptions.UseOnlyPublicationFonts (издатель)"
+title: AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
 keywords: vbapb10.chm7077894
-f1_keywords: vbapb10.chm7077894
+f1_keywords:
+- vbapb10.chm7077894
 ms.prod: publisher
-api_name: Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
+api_name:
+- Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
 ms.assetid: f5973b32-37f3-8f65-1437-a465aa488ef4
 ms.date: 06/08/2017
-ms.openlocfilehash: 81374e8660eba29bbcb7353942cfdc34236d650c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="advancedprintoptionsuseonlypublicationfonts-property-publisher"></a>Свойство AdvancedPrintOptions.UseOnlyPublicationFonts (издатель)
-
-Возвращает или задает **логическое** , представляющий, следует ли использовать только шрифты публикации для печати указанной публикации. **Значение true** для печати указанной публикации с помощью только шрифты загружаются со своего компьютера. Чтение и запись. По умолчанию используется **значение True**.
 
 
-## <a name="syntax"></a>Синтаксис
+# AdvancedPrintOptions.UseOnlyPublicationFonts Property (Publisher)
 
- _выражение_. **UseOnlyPublicationFonts**
-
- переменная _expression_A, представляющий объект **AdvancedPrintOptions** .
+Returns or sets a  **Boolean** that represents whether to only use publication fonts for printing the specified publication. **True** to print the specified publication using only fonts downloaded from your computer. Read/write. The default is **True**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **UseOnlyPublicationFonts**
 
-
-## <a name="remarks"></a>Заметки
-
-Шрифты публикации, шрифты, которые загружаются с компьютера, а не шрифты, хранящиеся в принтера или фотонаборного.
-
-Этому свойству присвоено значение **False** для включения принтер для печати указанной публикации с помощью встроенные шрифты (хранятся в ПЗУ, ОЗУ или на жестком диске), имеющие таким же именем, как шрифты, загруженные с вашего компьютера.
+ _expression_A variable that represents an  **AdvancedPrintOptions** object.
 
 
- **Примечание**  Это может привести к принтера, подставляя резидентной принтер, шрифты, загруженные с вашего компьютера. Это приводит к несколько быстрее время печати. Тем не менее если встроенные шрифты не полностью совпадают с вашего компьютера шрифты (даже если они имеют то же имя), это может привести к публикации выглядит отлично, чем предполагалось.
+### Return Value
 
-Установка для этого свойства **значения True** гарантирует, что шрифты, используемые для печати публикации будут использованы для его создания те же.
-
-Это свойство соответствует **шрифты** элементов управления на вкладке **графики и шрифты** диалоговое окно **Дополнительные параметры печати** .
+Boolean
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующий пример проверяет для определения, если активная публикация печатается с помощью только шрифты публикации. Если не работает, оно установлено для использования только шрифты публикации.
+Publication fonts are fonts that are downloaded from your computer, as opposed to fonts residing at the printer or imagesetter.
+
+Set this property to  **False** to enable the printer to print the specified publication using its resident fonts (stored in ROM, RAM, or on a hard disk drive) that have the same name as the fonts downloaded from your computer.
+
+
+ **Note**  This may result in the printer substituting resident printer for fonts downloaded from your computer. This results in a slightly faster print time. However, if the resident fonts are not exactly identical to your computer fonts (even if they have the same name), this may cause your printed publication to look different than expected.
+
+Setting this property to  **True** ensures that the fonts used to print the publication are the same ones used to create it.
+
+This property corresponds to the  **Fonts** controls on the **Graphics and Fonts** tab of the **Advanced Print Settings** dialog box.
+
+
+## Example
+
+The following example tests to determine if the active publication will be printed using only publication fonts. If it will not, it is set to use only publication fonts.
 
 
 ```vb
@@ -57,11 +56,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
+ [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
 

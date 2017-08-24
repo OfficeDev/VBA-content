@@ -1,59 +1,59 @@
 ---
-title: "Метод Shapes.BuildFreeform (издатель)"
+title: Shapes.BuildFreeform Method (Publisher)
 keywords: vbapb10.chm2162723
-f1_keywords: vbapb10.chm2162723
+f1_keywords:
+- vbapb10.chm2162723
 ms.prod: publisher
-api_name: Publisher.Shapes.BuildFreeform
+api_name:
+- Publisher.Shapes.BuildFreeform
 ms.assetid: ea24a9a2-e72c-beb3-b17d-161ea41fff1d
 ms.date: 06/08/2017
-ms.openlocfilehash: 74b5efff7969f8fce8ca39e729a1a77d1b42ad45
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesbuildfreeform-method-publisher"></a>Метод Shapes.BuildFreeform (издатель)
-
-Создает объект freeform. Возвращает [FreeformBuilder](freeformbuilder-object-publisher.md)объекта, что представляет произвольный как оно при построении.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.BuildFreeform Method (Publisher)
 
- _выражение_. **BuildFreeform** ( **_EditingType_**, **_X1_** **_Y1_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Builds a freeform object. Returns a  [FreeformBuilder](freeformbuilder-object-publisher.md)object that represents the freeform as it is being built.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **BuildFreeform**( **_EditingType_**,  **_X1_**,  **_Y1_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|EditingType|Обязательное свойство.| **MsoEditingType**|Указывает тип редактирования первого узла.|
-|X1|Обязательное свойство.| **Variant**|Горизонтальную позицию первый узел freeform документа относительно левого верхнего угла страницы.|
-|Y1|Обязательное свойство.| **Variant**|Вертикальное положение первого узла в произвольный документа относительно левого верхнего угла страницы.|
+|EditingType|Required| **MsoEditingType**|Specifies the editing type of the first node.|
+|X1|Required| **Variant**|The horizontal position of the first node in the freeform drawing relative to the upper-left corner of the page.|
+|Y1|Required| **Variant**|The vertical position of the first node in the freeform drawing relative to the upper-left corner of the page.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 FreeformBuilder
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр EditingType может иметь одно из следующих **MsoEditingType** константы, описанные в библиотеке типов, Microsoft Office.
-
-
-
-| **msoEditingAuto**| Добавляет тип узла, соответствующий в сегменты подключаемого. | | **msoEditingCorner**| Добавляет узел угла. |
-
-## <a name="example"></a>Пример
-
-Для X1 и аргументы Y1 числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+The EditingType parameter can be one of the following  **MsoEditingType** constants declared in the Microsoft Office type library.
 
 
 
-Чтобы добавить фигуру сегменты, используйте метод **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** . После добавления по крайней мере один сегмент фигуру, можно использовать метод [ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)для преобразования объекта **FreeformBuilder** в объект **фигуры** , имеющей геометрические описания, который был определен в объекте **FreeformBuilder** .
+| **msoEditingAuto**|Adds a node type appropriate to the segments being connected.|
+| **msoEditingCorner**|Adds a corner node.|
+
+## Example
+
+For the X1 and Y1 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+
+
+
+Use the  **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the  [ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)method to convert the  **FreeformBuilder** object into a **Shape** object that has the geometric description you've defined in the **FreeformBuilder** object.
 
 
 

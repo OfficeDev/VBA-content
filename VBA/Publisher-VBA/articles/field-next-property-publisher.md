@@ -1,37 +1,36 @@
 ---
-title: "Свойство Field.Next (издатель)"
+title: Field.Next Property (Publisher)
 keywords: vbapb10.chm6094854
-f1_keywords: vbapb10.chm6094854
+f1_keywords:
+- vbapb10.chm6094854
 ms.prod: publisher
-api_name: Publisher.Field.Next
+api_name:
+- Publisher.Field.Next
 ms.assetid: a8f0a246-c55e-715e-3f97-a2f08c383e87
 ms.date: 06/08/2017
-ms.openlocfilehash: 03e1a5410cd0528e203d86b50630a1b47df7e954
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fieldnext-property-publisher"></a>Свойство Field.Next (издатель)
-
-Возвращает объект **[поля](field-object-publisher.md)** , представляющий следующему полю в диапазон текста.
 
 
-## <a name="syntax"></a>Синтаксис
+# Field.Next Property (Publisher)
 
- _выражение_. **Далее**
-
- переменная _expression_A, представляющий объект **поля** .
+Returns a  **[Field](field-object-publisher.md)** object that represents the next field in a text range.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Поле
+ _expression_. **Next**
+
+ _expression_A variable that represents a  **Field** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере вносятся поле после первого поля в диапазоне указанный текст полужирным шрифтом. Предполагается, что существует по крайней мере два поля в диапазоне указанный текст.
+Field
+
+
+## Example
+
+This example makes the field next to the first field in the specified text range bold. This assumes that there are at least two fields in the specified text range.
 
 
 ```vb

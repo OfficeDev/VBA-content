@@ -1,45 +1,44 @@
 ---
-title: "Свойство ShadowFormat.Visible (издатель)"
+title: ShadowFormat.Visible Property (Publisher)
 keywords: vbapb10.chm3670278
-f1_keywords: vbapb10.chm3670278
+f1_keywords:
+- vbapb10.chm3670278
 ms.prod: publisher
-api_name: Publisher.ShadowFormat.Visible
+api_name:
+- Publisher.ShadowFormat.Visible
 ms.assetid: aac38753-320b-7c09-548c-318c8562e393
 ms.date: 06/08/2017
-ms.openlocfilehash: afd6a2380f2650bbb6f3da26d3b1eb860fd2cf5c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shadowformatvisible-property-publisher"></a>Свойство ShadowFormat.Visible (издатель)
-
-Возвращает или задает константой **MsoTriState** , указывающее, отображается ли указанный объект или форматирование, применяемое к указанным объектом. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShadowFormat.Visible Property (Publisher)
 
- _выражение_. **Visible**
-
- переменная _expression_A, представляет собой объект- **ShadowFormat** .
+Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **Visible** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+ _expression_. **Visible**
+
+ _expression_A variable that represents a  **ShadowFormat** object.
+
+
+## Remarks
+
+The  **Visible** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Указанный объект или форматирования не отображается.|
-| **msoTriStateMixed**|Только возвращаемое значение. Диапазон указанной фигуры содержит объекты с видимым форматирования и объектов с помощью невидимой форматирования.|
-| **msoTriStateToggle**| Задайте значение только. Переключает указанный объект между видимым и исчезло невидимое.|
-| **msoTrue**|Указанный объект или форматирование будет отображаться.|
+| **msoFalse**|The specified object or formatting is not visible.|
+| **msoTriStateMixed**|Return value only. The specified shape range contains both objects with visible formatting and objects with invisible formatting.|
+| **msoTriStateToggle**| Set value only. Switches the specified object between visible and invisble.|
+| **msoTrue**|The specified object or formatting is visible.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается горизонтального и вертикального смещения тени фигуры три на первой странице в активной публикации. 5 точек справа от фигуры и 3 точки над текстом смещения тени. Если фигура не имеет тени, этот пример добавляет в него.
+This example sets the horizontal and vertical offsets for the shadow of shape three on the first page in the active publication. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape does not already have a shadow, this example adds one to it.
 
 
 ```vb

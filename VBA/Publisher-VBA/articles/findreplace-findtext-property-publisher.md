@@ -1,44 +1,43 @@
 ---
-title: "Свойство FindReplace.FindText (издатель)"
+title: FindReplace.FindText Property (Publisher)
 keywords: vbapb10.chm8323076
-f1_keywords: vbapb10.chm8323076
+f1_keywords:
+- vbapb10.chm8323076
 ms.prod: publisher
-api_name: Publisher.FindReplace.FindText
+api_name:
+- Publisher.FindReplace.FindText
 ms.assetid: 5c8d2803-174e-a82f-d94c-3d96c4b4a2eb
 ms.date: 06/08/2017
-ms.openlocfilehash: 85234d4390051ac5cefc5066c429edd85798778f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacefindtext-property-publisher"></a>Свойство FindReplace.FindText (издатель)
-
-Задает или получает **строку** представляющий текст для поиска в указанном диапазоне или выбора. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.FindText Property (Publisher)
 
- _выражение_. **FindText**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or retrieves a  **String** representing the text to find in the specified range or selection. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **FindText**
+
+ _expression_A variable that represents a  **FindReplace** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **FindText** возвращает обычная, неформатированный текст текущего выбора. Если этому свойству присвоено, текст поиска указан. Можно выполнить поиск специальных символов, указав коды знаков. Например «^ p» соответствует знак абзаца и «^ t» соответствует символ табуляции.
+The  **FindText** property returns the plain, unformatted text of the selection. When you set this property, the search text is specified. You can search for special characters by specifying appropriate character codes. For example, "^p" corresponds to a paragraph mark and "^t" corresponds to a tab character.
 
-Значение по умолчанию для свойства **FindText** представляет собой пустую строку. Поддерживается поиск только текст, **FindText** необходимо явно задать во избежание ошибок времени выполнения.
+The default value for the  **FindText** property is an empty string. Because only text searching is supported, **FindText** must be explicitly set to avoid a runtime error.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере заменяет все вхождения слова «» в выделении «,» в каждой открытой публикации.
+This example replaces all occurrences of the word "This" in the selection with "That" in each open publication.
 
 
 ```vb

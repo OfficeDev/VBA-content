@@ -1,37 +1,36 @@
 ---
-title: "Свойство Field.Result (издатель)"
+title: Field.Result Property (Publisher)
 keywords: vbapb10.chm6094855
-f1_keywords: vbapb10.chm6094855
+f1_keywords:
+- vbapb10.chm6094855
 ms.prod: publisher
-api_name: Publisher.Field.Result
+api_name:
+- Publisher.Field.Result
 ms.assetid: 213e123e-90a7-32b8-1dcf-37da61a8a7e7
 ms.date: 06/08/2017
-ms.openlocfilehash: 4fb6fcc7c466c8f60a1f4a3e6705e20156ba30d8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fieldresult-property-publisher"></a>Свойство Field.Result (издатель)
-
-Возвращает **строку** , представляющую результаты указанного поля. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Field.Result Property (Publisher)
 
- _выражение_. **Результат**
-
- переменная _expression_A, представляющий объект **поля** .
+Returns a  **String** that represents the result of the specified field. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Result**
+
+ _expression_A variable that represents a  **Field** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере применяется полужирным шрифтом до первого поля в выделение. В этом примере предполагается, что выбран текст или фигуры с текстом в активной публикации.
+This example applies bold formatting to the first field in the selection. This example assumes that either text or a shape with text is selected in the active publication.
 
 
 ```vb

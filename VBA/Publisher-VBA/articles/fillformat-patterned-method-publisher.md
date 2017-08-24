@@ -1,49 +1,96 @@
 ---
-title: "Метод FillFormat.Patterned (издатель)"
+title: FillFormat.Patterned Method (Publisher)
 keywords: vbapb10.chm2359314
-f1_keywords: vbapb10.chm2359314
+f1_keywords:
+- vbapb10.chm2359314
 ms.prod: publisher
-api_name: Publisher.FillFormat.Patterned
+api_name:
+- Publisher.FillFormat.Patterned
 ms.assetid: 10e363b7-1160-55d3-5c97-733b7742b619
 ms.date: 06/08/2017
-ms.openlocfilehash: 7a9448bd8e7e5969cf8f34743c0e89dce4957865
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformatpatterned-method-publisher"></a>Метод FillFormat.Patterned (издатель)
-
-Устанавливает указанный заливки с шаблоном.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.Patterned Method (Publisher)
 
- _выражение_. **Узорные** ( **_Шаблон_**)
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Sets the specified fill to a pattern.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Patterned**( **_Pattern_**)
+
+ _expression_A variable that represents a  **FillFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Шаблон|Обязательное свойство.| **MsoPatternType**|Шаблон, используемый для указанного заливки.|
+|Pattern|Required| **MsoPatternType**|The pattern to be used for the specified fill.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр шаблон может иметь одно из **MsoPatternType** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
-
-
-
-| **msoPattern5Percent**|| **msoPattern10Percent**|| **msoPattern20Percent**|| **msoPattern25Percent**|| **msoPattern30Percent**|| **msoPattern40Percent**|| **msoPattern50Percent**|| **msoPattern60Percent**|| **msoPattern70Percent**|| **msoPattern75Percent**|| **msoPattern80Percent**|| **msoPattern90Percent**|| **msoPatternDarkDownwardDiagonal**|| **msoPatternDarkHorizontal**|| **msoPatternDarkUpwardDiagonal**|| **msoPatternDarkVertical**|| **msoPatternDashedDownwardDiagonal**|| **msoPatternDashedHorizontal**|| **msoPatternDashedUpwardDiagonal**|| **msoPatternDashedVertical**|| **msoPatternDiagonalBrick**|| **msoPatternDivot**|| **msoPatternDottedDiamond**|| **msoPatternDottedGrid**|| **msoPatternHorizontalBrick**|| **msoPatternLargeCheckerBoard**|| **msoPatternLargeConfetti**|| **msoPatternLargeGrid**|| **msoPatternLightDownwardDiagonal**|| **msoPatternLightHorizontal**|| **msoPatternLightUpwardDiagonal**|| **msoPatternLightVertical**|| **msoPatternNarrowHorizontal**|| **msoPatternNarrowVertical**|| **msoPatternOutlinedDiamond**|| **msoPatternPlaid**|| **msoPatternShingle**|| **msoPatternSmallCheckerBoard**|| **msoPatternSmallConfetti**|| **msoPatternSmallGrid**|| **msoPatternSolidDiamond**|| **msoPatternSphere**|| **msoPatternTrellis**|| **msoPatternWave**|| **msoPatternWeave**|| **msoPatternWideDownwardDiagonal**|| **msoPatternWideUpwardDiagonal**|| **msoPatternZigZag**| Используйте свойства [BackColor](fillformat-backcolor-property-publisher.md)и [ForeColor](fillformat-forecolor-property-publisher.md)Установка цвета, используемые в шаблоне.
+The Pattern parameter can be one of the  **MsoPatternType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
-## <a name="example"></a>Пример
 
-В этом примере добавляется Овал с Узорная заливка active публикацию.
+| **msoPattern5Percent**|
+| **msoPattern10Percent**|
+| **msoPattern20Percent**|
+| **msoPattern25Percent**|
+| **msoPattern30Percent**|
+| **msoPattern40Percent**|
+| **msoPattern50Percent**|
+| **msoPattern60Percent**|
+| **msoPattern70Percent**|
+| **msoPattern75Percent**|
+| **msoPattern80Percent**|
+| **msoPattern90Percent**|
+| **msoPatternDarkDownwardDiagonal**|
+| **msoPatternDarkHorizontal**|
+| **msoPatternDarkUpwardDiagonal**|
+| **msoPatternDarkVertical**|
+| **msoPatternDashedDownwardDiagonal**|
+| **msoPatternDashedHorizontal**|
+| **msoPatternDashedUpwardDiagonal**|
+| **msoPatternDashedVertical**|
+| **msoPatternDiagonalBrick**|
+| **msoPatternDivot**|
+| **msoPatternDottedDiamond**|
+| **msoPatternDottedGrid**|
+| **msoPatternHorizontalBrick**|
+| **msoPatternLargeCheckerBoard**|
+| **msoPatternLargeConfetti**|
+| **msoPatternLargeGrid**|
+| **msoPatternLightDownwardDiagonal**|
+| **msoPatternLightHorizontal**|
+| **msoPatternLightUpwardDiagonal**|
+| **msoPatternLightVertical**|
+| **msoPatternNarrowHorizontal**|
+| **msoPatternNarrowVertical**|
+| **msoPatternOutlinedDiamond**|
+| **msoPatternPlaid**|
+| **msoPatternShingle**|
+| **msoPatternSmallCheckerBoard**|
+| **msoPatternSmallConfetti**|
+| **msoPatternSmallGrid**|
+| **msoPatternSolidDiamond**|
+| **msoPatternSphere**|
+| **msoPatternTrellis**|
+| **msoPatternWave**|
+| **msoPatternWeave**|
+| **msoPatternWideDownwardDiagonal**|
+| **msoPatternWideUpwardDiagonal**|
+| **msoPatternZigZag**|
+Use the  [BackColor](fillformat-backcolor-property-publisher.md)and  [ForeColor](fillformat-forecolor-property-publisher.md)properties to set the colors used in the pattern.
+
+
+## Example
+
+This example adds an oval with a patterned fill to the active publication.
 
 
 ```vb

@@ -1,40 +1,39 @@
 ---
-title: "Свойство Plates.Item (издатель)"
+title: Plates.Item Property (Publisher)
 keywords: vbapb10.chm2818048
-f1_keywords: vbapb10.chm2818048
+f1_keywords:
+- vbapb10.chm2818048
 ms.prod: publisher
-api_name: Publisher.Plates.Item
+api_name:
+- Publisher.Plates.Item
 ms.assetid: 7563df76-56c3-d613-7314-846fe28a995d
 ms.date: 06/08/2017
-ms.openlocfilehash: ee000295416e1274d021be9d973df63e61082935
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="platesitem-property-publisher"></a>Свойство Plates.Item (издатель)
-
-Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Plates.Item Property (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляющий объект **формы** .
+Returns an individual object from a specified collection. Read-only.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **Plates** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
+|Index|Required| **Long**|The number of the object to return.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере имя первого цвет формы в active публикации.
+This example displays the name of the first color plate in the active publication.
 
 
 ```vb

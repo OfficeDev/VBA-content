@@ -1,26 +1,25 @@
 ---
-title: "Объект ShapeNodes (издатель)"
+title: ShapeNodes Object (Publisher)
 keywords: vbapb10.chm3538943
-f1_keywords: vbapb10.chm3538943
+f1_keywords:
+- vbapb10.chm3538943
 ms.prod: publisher
-api_name: Publisher.ShapeNodes
+api_name:
+- Publisher.ShapeNodes
 ms.assetid: f190a8a8-e03a-e8a2-482a-5e092ff3ed86
 ms.date: 06/08/2017
-ms.openlocfilehash: af3f5ab4310af0344eab03b20c36adfc34546463
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapenodes-object-publisher"></a>Объект ShapeNodes (издатель)
 
-Коллекция всех **[ShapeNode](shapenode-object-publisher.md)** объектов в указанном freeform. Каждый объект **ShapeNode** представляет узел между сегменты в произвольный или контрольной точки для сегмент произвольной формы. Можно создать freeform вручную или с помощью методов **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** и **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** .
+
+# ShapeNodes Object (Publisher)
+
+A collection of all the  **[ShapeNode](shapenode-object-publisher.md)** objects in the specified freeform. Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform. You can create a freeform manually or by using the **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** and **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** methods.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[узлов](shape-nodes-property-publisher.md)** для возврата коллекции **ShapeNodes** . В следующем примере удаляется узел четырех в трех фигуры на активном документе. В данном примере для работы фигуры три значения freeform по крайней мере четыре узлами.
+Use the  **[Nodes](shape-nodes-property-publisher.md)** property to return a **ShapeNodes** collection. The following example deletes node four in shape three on the active document. For this example to work, shape three must be a freeform with at least four nodes.
  
 
  
@@ -31,7 +30,7 @@ Sub DeleteShapeNode()
 End Sub
 ```
 
-Используйте метод **[Insert](shapenodes-insert-method-publisher.md)** для создания нового узла и добавления его в коллекцию **ShapeNodes** . Следующий пример добавляет легко узел с сегмент после узла четырех в трех фигуры на активном документе. В данном примере для работы фигуры три значения e freeform по крайней мере четыре узлами.
+Use the  **[Insert](shapenodes-insert-method-publisher.md)** method to create a new node and add it to the **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on the active document. For this example to work, shape three must e a freeform with at least four nodes.
  
 
  
@@ -46,7 +45,7 @@ Sub AddCurvedSmoothSegment()
 End Sub
 ```
 
-С помощью **узлов** (индекс), где индекс — номер индекса узла, для возврата объекта **ShapeNode** . Если один узел в трех фигуры на активном документе точку угла, следующий пример делает точку смягчения. В данном примере для работы фигуры три значения freeform.
+Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
  
 
  
@@ -64,26 +63,26 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
 |[Delete](shapenodes-delete-method-publisher.md)|
-|[Вставка](shapenodes-insert-method-publisher.md)|
-|[Элемент](shapenodes-item-method-publisher.md)|
+|[Insert](shapenodes-insert-method-publisher.md)|
+|[Item](shapenodes-item-method-publisher.md)|
 |[SetEditingType](shapenodes-seteditingtype-method-publisher.md)|
 |[SetPosition](shapenodes-setposition-method-publisher.md)|
 |[SetSegmentType](shapenodes-setsegmenttype-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](shapenodes-application-property-publisher.md)|
+|[Application](shapenodes-application-property-publisher.md)|
 |[Count](shapenodes-count-property-publisher.md)|
-|[Родительский раздел](shapenodes-parent-property-publisher.md)|
+|[Parent](shapenodes-parent-property-publisher.md)|
 

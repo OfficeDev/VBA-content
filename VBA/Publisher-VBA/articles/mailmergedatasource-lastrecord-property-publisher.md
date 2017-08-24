@@ -1,37 +1,36 @@
 ---
-title: "Свойство MailMergeDataSource.LastRecord (издатель)"
+title: MailMergeDataSource.LastRecord Property (Publisher)
 keywords: vbapb10.chm6291474
-f1_keywords: vbapb10.chm6291474
+f1_keywords:
+- vbapb10.chm6291474
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.LastRecord
+api_name:
+- Publisher.MailMergeDataSource.LastRecord
 ms.assetid: c1d11d3e-5f6f-2729-081b-5727c75fbc8d
 ms.date: 06/08/2017
-ms.openlocfilehash: 5ef59197caf7d1e39ea89bc5af1ec76e1e712181
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourcelastrecord-property-publisher"></a>Свойство MailMergeDataSource.LastRecord (издатель)
-
-Возвращает или задает типа **Long** , представляющее номер последней записи, объединенных в операции объединения слияния почты и каталогов. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.LastRecord Property (Publisher)
 
- _выражение_. **LastRecord**
-
- переменная _expression_A, представляющий объект **вывода** .
+Returns or sets a  **Long** that represents the number of the last record to be merged in a mail merge or catalog merge operation. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **LastRecord**
+
+ _expression_A variable that represents a  **MailMergeDataSource** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере показана активной записи как первой записи для объединения и затем последней записи как пересылать записей две записи в источнике данных. В этом примере предполагает, что активная публикация публикации слияния.
+Long
+
+
+## Example
+
+This example sets the active record as the first record to be merged and then sets the last record as the record two records forward in the data source. This example assumes that the active publication is a mail merge publication.
 
 
 ```vb

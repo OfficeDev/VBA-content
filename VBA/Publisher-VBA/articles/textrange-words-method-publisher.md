@@ -1,55 +1,54 @@
 ---
-title: "Метод TextRange.Words (издатель)"
+title: TextRange.Words Method (Publisher)
 keywords: vbapb10.chm5308456
-f1_keywords: vbapb10.chm5308456
+f1_keywords:
+- vbapb10.chm5308456
 ms.prod: publisher
-api_name: Publisher.TextRange.Words
+api_name:
+- Publisher.TextRange.Words
 ms.assetid: df812db2-98ca-848b-7922-6905cb71124c
 ms.date: 06/08/2017
-ms.openlocfilehash: a7616bd89fe8decd1f231acfeab9fd54cb380fc3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangewords-method-publisher"></a>Метод TextRange.Words (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий указанного подмножества слова.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Words Method (Publisher)
 
- _выражение_. **Слова** ( **_Запуск_**, **_Длина_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text words.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Words**( **_Start_**,  **_Length_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Начало|Обязательное свойство.| **Длинный**|Первое слово возвращаемого диапазона.|
-|Length|Необязательный| **Длинный**|Количество слов должно быть возвращено. Значение по умолчанию — 1.|
+|Start|Required| **Long**|The first word in the returned range.|
+|Length|Optional| **Long**|The number of words to be returned. Default is 1.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 TextRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если **_Длина_** опущен, возвращенный диапазон содержит одно слово.
+If  **_Length_** is omitted, the returned range contains one word.
 
-Если **_запустить_** больше, чем количество слов в указанный текст, возвращенный диапазон начинается с последнего слова в указанном диапазоне.
+If  **_Start_** is greater than the number of words in the specified text, the returned range starts with the last word in the specified range.
 
-Если **_Длина_** больше, чем количество слов из указанного начального word в конец текста, возвращенный диапазон содержит эти слова.
+If  **_Length_** is greater than the number of words from the specified starting word to the end of the text, the returned range contains all those words.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере форматов как полужирный шрифт секунды в-третьих, и четвертый слова, набранные фигуры два по одному active публикации.
+This example formats as bold the second, third, and fourth words in shape two on page one of the active publication.
 
 
 ```vb

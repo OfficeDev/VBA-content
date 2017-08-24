@@ -1,42 +1,41 @@
 ---
-title: "Свойство Plate.Luminance (издатель)"
+title: Plate.Luminance Property (Publisher)
 keywords: vbapb10.chm2883590
-f1_keywords: vbapb10.chm2883590
+f1_keywords:
+- vbapb10.chm2883590
 ms.prod: publisher
-api_name: Publisher.Plate.Luminance
+api_name:
+- Publisher.Plate.Luminance
 ms.assetid: 8d84fe74-8421-4ec2-bf6e-a156a0c0018b
 ms.date: 06/08/2017
-ms.openlocfilehash: 2c4b39277fc0078ff7979bd1347ccb78e5e5c353
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="plateluminance-property-publisher"></a>Свойство Plate.Luminance (издатель)
-
-Возвращает или задает **Long** , указывающее, вычисляемых освещенности значение для указанной формы; используется для перехват кусочков цвет. Допустимые значения: от 0 до 100. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Plate.Luminance Property (Publisher)
 
- _выражение_. **Яркости**
-
- переменная _expression_A, представляющий объект **формы** .
+Returns or sets a  **Long** indicating a calculated luminance value for the specified plate; used for spot-color trapping. Valid values are from 0 to 100. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **Luminance**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство является допустимым только для публикации с ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** значение свойства **pbColorModeSpot** или для формы смесевых цветов в публикации со значением свойства **ColorMode** **pbColorModeSpotAndProcess**.
+ _expression_A variable that represents a  **Plate** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере циклически просматривает все формы кусочков цветов в публикации и их значения яркости отчетов.
+Long
+
+
+## Remarks
+
+This property is valid only for publications with a  ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
+
+
+## Example
+
+The following example loops through all the spot-color plates in a publication and reports their luminance values.
 
 
 ```vb

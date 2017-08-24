@@ -1,42 +1,41 @@
 ---
-title: "Свойство Page.IsTwoPageMaster (издатель)"
+title: Page.IsTwoPageMaster Property (Publisher)
 keywords: vbapb10.chm131100
-f1_keywords: vbapb10.chm131100
+f1_keywords:
+- vbapb10.chm131100
 ms.prod: publisher
-api_name: Publisher.Page.IsTwoPageMaster
+api_name:
+- Publisher.Page.IsTwoPageMaster
 ms.assetid: dbfc3c21-0070-3f0a-c0b0-746d83c46765
 ms.date: 06/08/2017
-ms.openlocfilehash: 566044fadb59a74375058a48d2f2aee963774cda
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pageistwopagemaster-property-publisher"></a>Свойство Page.IsTwoPageMaster (издатель)
-
- **Значение true,** Если указанный объект **Page** является основным две страницы. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.IsTwoPageMaster Property (Publisher)
 
- _выражение_. **IsTwoPageMaster**
-
- переменная _expression_A, представляющий объект **страницы** .
+ **True** if the specified **Page** object is a two-page master. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **IsTwoPageMaster**
 
-
-## <a name="remarks"></a>Заметки
-
-Этот метод работает только главных страниц. Возвращает ошибку **Эта возможность предназначена только для главных страниц** при попытке доступа к этому свойству из объекта страницы публикации.
+ _expression_A variable that represents an  **Page** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере добавляется текст для каждого заголовка главной страницы две страницы, указание главной страницы PageNumber и его место в распространении: 1 или 2.
+Boolean
+
+
+## Remarks
+
+This method works for master pages only. Returns a  **This feature is only for master pages** error when attempting to access this property from a publication page object.
+
+
+## Example
+
+The following example adds text to each header of a two-page master page specifying the master page PageNumber and its place in the spread: 1 or 2.
 
 
 ```vb

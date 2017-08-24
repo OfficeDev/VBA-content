@@ -1,42 +1,41 @@
 ---
-title: "Свойство LayoutGuides.HorizontalBaseLineOffset (издатель)"
+title: LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
 keywords: vbapb10.chm1114131
-f1_keywords: vbapb10.chm1114131
+f1_keywords:
+- vbapb10.chm1114131
 ms.prod: publisher
-api_name: Publisher.LayoutGuides.HorizontalBaseLineOffset
+api_name:
+- Publisher.LayoutGuides.HorizontalBaseLineOffset
 ms.assetid: b80d2114-8132-db13-a50d-ce904dbe5919
 ms.date: 06/08/2017
-ms.openlocfilehash: 0200e5eb18914e1ddc7beafa5a67cd4039fe6587
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="layoutguideshorizontalbaselineoffset-property-publisher"></a>Свойство LayoutGuides.HorizontalBaseLineOffset (издатель)
-
-Возвращает значение типа **одного** , который представляет смещение горизонтальной базового на указанный объект **LayoutGuides** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
 
- _выражение_. **HorizontalBaseLineOffset**
-
- переменная _expression_A, представляет собой объект- **LayoutGuides** .
+Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **HorizontalBaseLineOffset**
 
-
-## <a name="remarks"></a>Заметки
-
-Установка свойств объекта **страницы** макета руководство должны возвращаться из коллекции **макетом** .
+ _expression_A variable that represents a  **LayoutGuides** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере задает смещение горизонтальной базового объекта руководства макет до 12 для второй главную страницу в активном документе.
+Single
+
+
+## Remarks
+
+When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+
+
+## Example
+
+This example sets the horizontal baseline offset of the layout guides object to 12 for the second master page in the active document.
 
 
 ```vb

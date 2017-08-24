@@ -1,31 +1,28 @@
 ---
-title: "Использование событий с помощью объекта Document (издатель)"
+title: Using Events with the Document Object (Publisher)
 ms.prod: publisher
 ms.assetid: 0f5cfe67-bfa1-0ec7-11c9-c4c1337ebe50
 ms.date: 06/08/2017
-ms.openlocfilehash: 1bd4dfc2cd847588f0dcd5b87b8e238fb950a2f5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="using-events-with-the-document-object-publisher"></a>Использование событий с помощью объекта Document (издатель)
-
-Объект **Document** поддерживает семь события: **[BeforeClose](document-beforeclose-event-publisher.md)**, **[Open](document-open-event-publisher.md)**, **[Повторить](document-redo-event-publisher.md)**, **[ShapesAdded](document-shapesadded-event-publisher.md)**, **[ShapesRemoved](document-shapesremoved-event-publisher.md)**, **[Отменить](document-undo-event-publisher.md)**и **[WizardAfterChange](document-wizardafterchange-event-publisher.md)**. Написание процедуры реагировать на эти события в модуле класса с именем «ThisDocument». Используйте следующие шаги для создания процедуры обработки событий.
 
 
-1. В разделе публикации проекта в окне **Обозреватель проектов** дважды щелкните **ThisDocument**. (В представлении **папки** **ThisDocument** расположен в папке **Объекты Microsoft Publisher** .)
+# Using Events with the Document Object (Publisher)
+
+The  **Document** object supports seven events: **[BeforeClose](document-beforeclose-event-publisher.md)**,  **[Open](document-open-event-publisher.md)**,  **[Redo](document-redo-event-publisher.md)**,  **[ShapesAdded](document-shapesadded-event-publisher.md)**,  **[ShapesRemoved](document-shapesremoved-event-publisher.md)**,  **[Undo](document-undo-event-publisher.md)**, and  **[WizardAfterChange](document-wizardafterchange-event-publisher.md)**. You write procedures to respond to these events in the class module named "ThisDocument". Use the following steps to create an event procedure.
+
+
+1. Under your publication project in the  **Project Explorer** window, double-click **ThisDocument**. (In  **Folder** view, **ThisDocument** is located in the **Microsoft Publisher Objects** folder.)
     
-2. Выберите **документ** из поля раскрывающегося списка **объектов** .
+2. Select  **Document** from the **Object** drop-down list box.
     
-3. Выберите событие в раскрывающемся списке **процедуры** . Пустой подпрограмму добавляется в модуле класса.
+3. Select an event from the  **Procedure** drop-down list box. An empty subroutine is added to the class module.
     
-4. Добавление команды Visual Basic, которые необходимо выполнить при возникновении события.
+4. Add the Visual Basic instructions you want to run when the event occurs.
     
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере показано **Открытие** процедуру события, которая отображает сообщение при открытии публикации.
+This example shows an  **Open** event procedure that displays a message when a publication is opened.
 
 
 ```vb
@@ -34,7 +31,7 @@ Private Sub Document_Open()
 End Sub
 ```
 
-В следующем примере показано процедуру события **BeforeClose** , запрашивает у Да или нет ответа пользователя перед закрытием документа.
+The following example shows a  **BeforeClose** event procedure that prompts the user for a yes or no response before closing a document.
 
 
 
@@ -51,6 +48,6 @@ End Sub
 ```
 
 
- **Примечание**  Сведения о создании процедур обработки событий для объекта **Application** содержатся в разделе [С помощью событий объекта](using-events-with-the-application-object-publisher.md) .
+ **Note**  For information on creating event procedures for the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md) .
 
 

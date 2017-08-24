@@ -1,40 +1,39 @@
 ---
-title: "Событие Application.DocumentOpen (издатель)"
+title: Application.DocumentOpen Event (Publisher)
 keywords: vbapb10.chm268435463
-f1_keywords: vbapb10.chm268435463
+f1_keywords:
+- vbapb10.chm268435463
 ms.prod: publisher
-api_name: Publisher.Application.DocumentOpen
+api_name:
+- Publisher.Application.DocumentOpen
 ms.assetid: 3bdd4b38-ec40-a08f-3742-f81a6ed333b3
 ms.date: 06/08/2017
-ms.openlocfilehash: f065ba80c37d2e88510fd00dcb9d16e8eefc7b73
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationdocumentopen-event-publisher"></a>Событие Application.DocumentOpen (издатель)
-
-Происходит при открытии документа.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.DocumentOpen Event (Publisher)
 
- _выражение_. **DocumentOpen** ( **_Doc_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs when opening a document.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **DocumentOpen**( **_Doc_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Документ, открыта.|
+|Doc|Required| **Document**|The document that's being opened.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выводится сообщение с именем документа при открытии документа.
+This example displays a message with the document's name when opening a document.
 
 
 ```vb
@@ -44,11 +43,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

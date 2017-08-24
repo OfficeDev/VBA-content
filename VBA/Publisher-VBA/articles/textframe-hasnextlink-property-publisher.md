@@ -1,48 +1,47 @@
 ---
-title: "Свойство TextFrame.HasNextLink (издатель)"
+title: TextFrame.HasNextLink Property (Publisher)
 keywords: vbapb10.chm3866640
-f1_keywords: vbapb10.chm3866640
+f1_keywords:
+- vbapb10.chm3866640
 ms.prod: publisher
-api_name: Publisher.TextFrame.HasNextLink
+api_name:
+- Publisher.TextFrame.HasNextLink
 ms.assetid: 907ec470-e283-906a-e25f-f5a8548a18a4
 ms.date: 06/08/2017
-ms.openlocfilehash: 850c99179b4b6f6ab770cd385c9db59c3c7fa8fc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframehasnextlink-property-publisher"></a>Свойство TextFrame.HasNextLink (издатель)
-
-Указывает, имеет ли frame указанный текст ссылки допустимый прямого текстовое поле. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.HasNextLink Property (Publisher)
 
- _выражение_. **HasNextLink**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Indicates whether the specified text frame has a valid forward text-box link. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HasNextLink**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **HasNextLink** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **HasNextLink** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Frame указанный текст не имеет ссылки вперед текстовое поле.|
-| **msoTrue**| Указанный текст frame имеет ссылки вперед текстовое поле.|
+| **msoFalse**|The specified text frame does not have a forward text-box link.|
+| **msoTrue**| The specified text frame has a forward text-box link.|
 
-## <a name="example"></a>Пример
+## Example
 
-Если существует ссылки в этом примере разрывов все ссылки в документе на первый кадр указанный текст. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
+This example breaks all links in the document to the first specified text frame if links exist. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 ```vb

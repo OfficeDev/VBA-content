@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.BoundLeft (издатель)"
+title: TextRange.BoundLeft Property (Publisher)
 keywords: vbapb10.chm5308435
-f1_keywords: vbapb10.chm5308435
+f1_keywords:
+- vbapb10.chm5308435
 ms.prod: publisher
-api_name: Publisher.TextRange.BoundLeft
+api_name:
+- Publisher.TextRange.BoundLeft
 ms.assetid: 1ad36906-3dbf-9158-173b-b9047910f6d2
 ms.date: 06/08/2017
-ms.openlocfilehash: 8391d1ca4bab4dd0e29ff0d37470182cb996cf2f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeboundleft-property-publisher"></a>Свойство TextRange.BoundLeft (издатель)
-
-Возвращает значение типа **одного** , указывающее, расстояние в пунктах от левого края самые левые страницы по левому краю прямоугольника в диапазоне указанный текст. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.BoundLeft Property (Publisher)
 
- _выражение_. **BoundLeft**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **Single** indicating the distance, in points, from the left edge of the leftmost page to the left edge of the bounding box for the specified text range. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **BoundLeft**
+
+ _expression_A variable that represents a  **TextRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример отображает позицию, ширину и высоту прямоугольника, окружающим текстом в первую фигуру на странице один из активных публикации.
+Single
+
+
+## Example
+
+The following example displays the position, width, and height of the bounding box surrounding the text in the first shape on page one of the active publication.
 
 
 ```vb

@@ -1,37 +1,36 @@
 ---
-title: "Метод Options.ResetTips (издатель)"
+title: Options.ResetTips Method (Publisher)
 keywords: vbapb10.chm1048616
-f1_keywords: vbapb10.chm1048616
+f1_keywords:
+- vbapb10.chm1048616
 ms.prod: publisher
-api_name: Publisher.Options.ResetTips
+api_name:
+- Publisher.Options.ResetTips
 ms.assetid: a119aacc-ba19-f430-e8af-6d84c438ec25
 ms.date: 06/08/2017
-ms.openlocfilehash: c88f434c76448cd1273023e581912e7ac3d634ce
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="optionsresettips-method-publisher"></a>Метод Options.ResetTips (издатель)
-
-Сброс страницы советов, чтобы пользователь может просматривать их при использовании функции, которые использовались перед.
 
 
-## <a name="syntax"></a>Синтаксис
+# Options.ResetTips Method (Publisher)
 
- _выражение_. **ResetTips**
-
- переменная _expression_A, представляющий объект **параметров** .
+Resets tippages so that a user can view them when using features that have been used before.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Метод **ResetTips** эквивалентно нажав кнопку **Сброс советы** на вкладке **Помощь пользователю** диалоговое окно " **Параметры** " (меню " **Сервис** ").
+ _expression_. **ResetTips**
+
+ _expression_A variable that represents an  **Options** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере восстанавливаются значения по умолчанию всплывающие подсказки.
+The  **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box ( **Tools** menu).
+
+
+## Example
+
+This example resets tip balloons.
 
 
 ```vb

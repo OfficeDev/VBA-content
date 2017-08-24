@@ -1,49 +1,48 @@
 ---
-title: "Свойство View.Zoom (издатель)"
+title: View.Zoom Property (Publisher)
 keywords: vbapb10.chm327684
-f1_keywords: vbapb10.chm327684
+f1_keywords:
+- vbapb10.chm327684
 ms.prod: publisher
-api_name: Publisher.View.Zoom
+api_name:
+- Publisher.View.Zoom
 ms.assetid: 31727291-740b-4e77-9c6b-9f19523488cb
 ms.date: 06/08/2017
-ms.openlocfilehash: 8f71b13ea33f17314e2b62cf728c48de60019d53
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="viewzoom-property-publisher"></a>Свойство View.Zoom (издатель)
-
-Возвращает или задает константа **PbZoom** или в диапазоне от 10 до 400, указывая значения масштабирования указанное представление. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# View.Zoom Property (Publisher)
 
- _выражение_. **Показать**
-
- переменная _expression_A, представляющий объект **View** .
+Returns or sets a  **PbZoom** constant or a value between 10 and 400 indicating the zoom setting of the specified view. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Zoom**
+
+ _expression_A variable that represents a  **View** object.
+
+
+### Return Value
 
 PbZoom
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-**Отобразить** значение свойства может быть одной из констант **PbZoom** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+The  **Zoom** property value can be one of the **PbZoom** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbZoomFitSelection**| Изменяет размер страницы представления на размер текущего выделенного фрагмента.|
-| **pbZoomPageWidth**|Изменяет размер страницы представления ширину публикации. |
-| **pbZoomWholePage**| Изменяет размер страницы представления на размер всей страницы.|
+| **pbZoomFitSelection**| Resizes the page view to the size of the current selection.|
+| **pbZoomPageWidth**|Resizes the page view to the width of the publication. |
+| **pbZoomWholePage**| Resizes the page view to the size of a whole page.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается масштаб для активной публикации, чтобы образом подходит для всей страницы на экране.
+The following example sets the zoom for the active publication so that the entire page fits on the screen.
 
 
 ```vb

@@ -1,45 +1,44 @@
 ---
-title: "Метод Shape.IncrementTop (издатель)"
+title: Shape.IncrementTop Method (Publisher)
 keywords: vbapb10.chm2228258
-f1_keywords: vbapb10.chm2228258
+f1_keywords:
+- vbapb10.chm2228258
 ms.prod: publisher
-api_name: Publisher.Shape.IncrementTop
+api_name:
+- Publisher.Shape.IncrementTop
 ms.assetid: c7a5bf47-7c5a-f6e8-b2b7-c95bea9dc081
 ms.date: 06/08/2017
-ms.openlocfilehash: 9e0dc0286041ba50d113784cb964cdbf46a3db84
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeincrementtop-method-publisher"></a>Метод Shape.IncrementTop (издатель)
-
-Перемещает указанные форму или диапазона фигуры на определенное расстояние по вертикали.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.IncrementTop Method (Publisher)
 
- _выражение_. **IncrementTop** ( **_Порядкового номера_**)
-
- переменная _expression_A, представляющий объект **фигуры** .
+Moves the specified shape or shape range vertically by the specified distance.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **IncrementTop**( **_Increment_**)
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Порядкового номера|Обязательное свойство.| **Variant**|Расстояние по вертикали для перемещения фигуры или диапазона фигуры. Положительное значение перемещает форму или диапазона фигуры вниз; отрицательное значение перемещает его вверх. Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).|
+|Increment|Required| **Variant**|The vertical distance to move the shape or shape range. A positive value moves the shape or shape range down; a negative value moves it up. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[IncrementLeft](shape-incrementleft-method-publisher.md)** для перемещения фигур или диапазоны фигуры по горизонтали.
+Use the  **[IncrementLeft](shape-incrementleft-method-publisher.md)** method to move shapes or shape ranges horizontally.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере дубликатов первую фигуру на активной публикации задает заливки для повторяющихся, перемещает 70 точек вправо и на 50 точек вверх и поворот его 30 градусов часовой.
+This example duplicates the first shape on the active publication, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
 ```vb

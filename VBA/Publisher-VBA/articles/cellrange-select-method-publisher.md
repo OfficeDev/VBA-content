@@ -1,32 +1,31 @@
 ---
-title: "Метод CellRange.Select (издатель)"
+title: CellRange.Select Method (Publisher)
 keywords: vbapb10.chm5177353
-f1_keywords: vbapb10.chm5177353
+f1_keywords:
+- vbapb10.chm5177353
 ms.prod: publisher
-api_name: Publisher.CellRange.Select
+api_name:
+- Publisher.CellRange.Select
 ms.assetid: 15b0fc0b-8cac-9ff9-bac3-cf15351c7645
 ms.date: 06/08/2017
-ms.openlocfilehash: 72c6b12a368560c0b4669573d930d04524d491b5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellrangeselect-method-publisher"></a>Метод CellRange.Select (издатель)
-
-Выбирает указанный объект.
 
 
-## <a name="syntax"></a>Синтаксис
+# CellRange.Select Method (Publisher)
 
- _выражение_. **Выберите**
-
- переменная _expression_A, представляет собой объект- **CellRange** .
+Selects the specified object.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере выбирает левый верхний угол из таблицы, который был добавлен к первой страницы в активной публикации.
+ _expression_. **Select**
+
+ _expression_A variable that represents a  **CellRange** object.
+
+
+## Example
+
+This example selects the upper-left cell from a table that has been added to the first page in the active publication.
 
 
 ```vb
@@ -41,7 +40,7 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-В этом примере выбирает первый столбец из таблицы, который был добавлен к первой страницы в активной публикации.
+This example selects the first column from a table that has been added to the first page in the active publication.
 
 
 
@@ -59,7 +58,7 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-В этом примере выбирает первые пять знаков в форму одно на странице один из активных публикации.
+This example selects the first five characters in shape one on page one of the active publication.
 
 
 

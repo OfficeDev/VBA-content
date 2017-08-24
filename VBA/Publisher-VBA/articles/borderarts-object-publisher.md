@@ -1,37 +1,36 @@
 ---
-title: "Объект BorderArts (издатель)"
+title: BorderArts Object (Publisher)
 keywords: vbapb10.chm7798783
-f1_keywords: vbapb10.chm7798783
+f1_keywords:
+- vbapb10.chm7798783
 ms.prod: publisher
-api_name: Publisher.BorderArts
+api_name:
+- Publisher.BorderArts
 ms.assetid: 0fc016f6-154e-3591-34b3-e094bbad9d16
 ms.date: 06/08/2017
-ms.openlocfilehash: 200a0615a89aabf3aeccf24868d32b0cf4c89b2b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="borderarts-object-publisher"></a>Объект BorderArts (издатель)
 
-Коллекция всех Узорные, доступных для использования в указанной публикации. Узорные — границы предварительно заданных рисунков, которые можно применять для текстовых полей, рамки рисунков или прямоугольники.
+
+# BorderArts Object (Publisher)
+
+A collection of all BorderArt available for use in the specified publication. BorderArt is predefined picture borders that can be applied to text boxes, picture frames, or rectangles.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Коллекция **BorderArts** включает все пользовательские типы Узорные, создаваемые пользователем для указанной публикации.
+The  **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[Item](borderarts-item-method-publisher.md)** коллекции **BorderArts** для получения определенного объекта **[Узорные](borderart-object-publisher.md)** . Аргумент Index свойство **Item** может быть номер или имя объекта Узорные.
+Use the  **[Item](borderarts-item-method-publisher.md)** property of a **BorderArts** collection to return a specific **[BorderArt](borderart-object-publisher.md)** object. The Index argument of the **Item** property can be the number or name of the BorderArt object.
  
 
  
-В этом примере возвращается Узорные «Apples» из активной публикации. 
+This example returns the BorderArt "Apples" from the active publication. 
  
 
  
@@ -44,7 +43,7 @@ Dim bdaTemp As BorderArt
 Set bdaTemp = ActiveDocument.BorderArts.Item (Index:="Apples") 
 ```
 
-Свойство **[Count](borderarts-count-property-publisher.md)** возвращает число Узорные типы, доступные в указанный документ. Следующий пример показывает число типов Узорные в активном документе.
+Use the  **[Count](borderarts-count-property-publisher.md)** property to return the number of BorderArt types available in the specified document. The following example displays the number of BorderArt types in the active document.
  
 
  
@@ -58,21 +57,21 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Элемент](borderarts-item-method-publisher.md)|
+|[Item](borderarts-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](borderarts-application-property-publisher.md)|
+|[Application](borderarts-application-property-publisher.md)|
 |[Count](borderarts-count-property-publisher.md)|
-|[Родительский раздел](borderarts-parent-property-publisher.md)|
+|[Parent](borderarts-parent-property-publisher.md)|
 

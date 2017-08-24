@@ -1,47 +1,46 @@
 ---
-title: "Метод PictureFormat.IncrementBrightness (издатель)"
+title: PictureFormat.IncrementBrightness Method (Publisher)
 keywords: vbapb10.chm3604496
-f1_keywords: vbapb10.chm3604496
+f1_keywords:
+- vbapb10.chm3604496
 ms.prod: publisher
-api_name: Publisher.PictureFormat.IncrementBrightness
+api_name:
+- Publisher.PictureFormat.IncrementBrightness
 ms.assetid: 912fd08e-bbb3-bf98-b0da-7128926f3409
 ms.date: 06/08/2017
-ms.openlocfilehash: 18575d73fb991936954e875061c4139eb2c80e80
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatincrementbrightness-method-publisher"></a>Метод PictureFormat.IncrementBrightness (издатель)
-
-Изменение яркости рисунка на указанную величину.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.IncrementBrightness Method (Publisher)
 
- _выражение_. **IncrementBrightness** ( **_Порядкового номера_**)
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Changes the brightness of the picture by the specified amount.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **IncrementBrightness**( **_Increment_**)
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Порядкового номера|Обязательное свойство.| **Один**|Определяет, насколько изменение значение свойства **[яркость](pictureformat-brightness-property-publisher.md)** рисунка. Положительное значение делает изображение более яркие; отрицательное значение делает изображение более темные. Допустимые значения: от - 1 до 1.|
+|Increment|Required| **Single**|Specifies how much to change the value of the  **[Brightness](pictureformat-brightness-property-publisher.md)** property for the picture. A positive value makes the picture brighter; a negative value makes the picture darker. Valid values are between - 1 and 1.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Не удается яркость изображения за границу верхней или нижней, для свойства **яркость** . К примеру Если свойство **яркость** изначально установлено значение 0,9 и можно указать 0,3 для аргумента **_порядкового номера_** , итоговый уровень яркости 1.0, являющийся верхний предел для свойства **яркость** , вместо 1.2.
+You cannot adjust the brightness of a picture past the upper or lower limit for the  **Brightness** property. For example, if the **Brightness** property is initially set to 0.9 and you specify 0.3 for the **_Increment_** argument, the resulting brightness level will be 1.0, which is the upper limit for the **Brightness** property, instead of 1.2.
 
-Свойство **яркость** задать абсолютные яркости рисунка.
+Use the  **Brightness** property to set the absolute brightness of the picture.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается дубликат первой фигуры в активной публикации и перемещает и затемняет дубликата. Для обеспечения работы примера фигуры значения рисунок или объект OLE, представляющий изображение.
+This example creates a duplicate of the first shape in the active publication and then moves and darkens the duplicate. For the example to work, the shape must be either a picture or an OLE object representing a picture.
 
 
 ```vb

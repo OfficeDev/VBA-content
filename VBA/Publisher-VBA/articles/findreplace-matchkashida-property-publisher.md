@@ -1,44 +1,43 @@
 ---
-title: "Свойство FindReplace.MatchKashida (издатель)"
+title: FindReplace.MatchKashida Property (Publisher)
 keywords: vbapb10.chm8323082
-f1_keywords: vbapb10.chm8323082
+f1_keywords:
+- vbapb10.chm8323082
 ms.prod: publisher
-api_name: Publisher.FindReplace.MatchKashida
+api_name:
+- Publisher.FindReplace.MatchKashida
 ms.assetid: ec2b5fa0-0549-b5c2-d8b9-666be1cbe193
 ms.date: 06/08/2017
-ms.openlocfilehash: 2522d2be2e5051f2ec35a71f12e98673b27643d0
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacematchkashida-property-publisher"></a>Свойство FindReplace.MatchKashida (издатель)
-
-Задает или возвращает значение **типа Boolean** представляющее ли операция поиска будет соответствовать кашиды. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.MatchKashida Property (Publisher)
 
- _выражение_. **MatchKashida**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or returns a  **Boolean** representing whether or not a search operation will match kashidas. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **MatchKashida**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство не может быть доступно в зависимости от языка, включен в операционной системе. Значение по умолчанию — **False**.
-
-Возвращает ** отказано в доступе ** Если арабский не включено.
+ _expression_A variable that represents a  **FindReplace** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере выполняется поиск первого появления слово «» арабского языка в документе в формате соответствия кашиды.
+Boolean
+
+
+## Remarks
+
+This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
+
+Returns ** Access denied** if Arabic is not enabled.
+
+
+## Example
+
+This example finds the first occurrence of the word "" in an Arabic document matching kashidas.
 
 
 ```vb
@@ -54,7 +53,7 @@ End With
 
 ```
 
-В этом примере исходя из предыдущей за исключением того, что кашиды не совпадать. Таким образом слова «» или «», оба доступны из-за кашиды будет игнорироваться.
+This example follows from the previous one except that kashidas will not be matched. Therefore the words "" or "" will both be found because kashidas will be ignored.
 
 
 

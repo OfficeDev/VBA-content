@@ -1,45 +1,44 @@
 ---
-title: "Метод Attachment.Delete (издатель)"
+title: Attachment.Delete Method (Publisher)
 keywords: vbapb10.chm573441
-f1_keywords: vbapb10.chm573441
+f1_keywords:
+- vbapb10.chm573441
 ms.prod: publisher
-api_name: Publisher.Attachment.Delete
+api_name:
+- Publisher.Attachment.Delete
 ms.assetid: 935fa9e7-9d40-b820-e386-1a1960845da1
 ms.date: 06/08/2017
-ms.openlocfilehash: 6be662c026bbd5e96c970ff2c2bffa41d2b51852
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="attachmentdelete-method-publisher"></a>Метод Attachment.Delete (издатель)
-
-Удаляет объект **вложения** из коллекции **вложения** сообщения электронной почты merge.
 
 
-## <a name="syntax"></a>Синтаксис
+# Attachment.Delete Method (Publisher)
 
- _выражение_. **Удаление**
-
- переменная _expression_A, представляющий объект **вложения** .
+Deletes an  **Attachment** object from the **Attachments** collection of an e-mail merge message.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Метод **Delete** выполняет операцию нельзя обратить на коллекцию **вложений** . Он вызывает **IUnknown.Release** на коллекцию ссылку на объект **вложения** . Если у вас есть другой ссылку на вложение, по-прежнему доступ к его свойствам и методам, но его можно снова никогда не связать с любой коллекции, так как метод **[Add](attachments-add-method-publisher.md)** всегда создает новый объект. Ключевое слово **задать** Установка ссылочной переменной значение **Nothing** или другой вложения.
+ _expression_. **Delete**
 
-Окончательной версии объект **вложения** выполняется при назначении ссылочной переменной значение **Nothing**или при вызове, **Удаление**, если у вас есть не Справочник по. На этом этапе объект удаляется из памяти. При попытке получить доступ к объекту выпущенная возвращает ошибку объектов данных совместной работы Microsoft **CdoE_INVALID_OBJECT**.
-
-При удалении элемент коллекции коллекции немедленно обновляется, что означает, что его свойство **Count** уменьшается на единицу и его члены являются переиндексации. Для доступа к элемент, который ранее, а затем удалить элемент в коллекции, необходимо использовать его нового значения индекса.
-
-Чтобы удалить все вложения в текущем merge сообщение электронной почты, используйте метод **[ClearAll](attachments-clearall-method-publisher.md)** коллекции **вложения** .
+ _expression_A variable that represents an  **Attachment** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как удалять вложения в сообщение электронной почты merge. Код удаляет вложения с первой позиции индекса в коллекции **вложений** и распечатывает имя удаленного вложения и номер текущего вложения в сообщение в окне **Интерпретация** .
+The  **Delete** method performs an irreversible operation on the **Attachments** collection. It calls **IUnknown.Release** on the collection's reference to the **Attachment** object. If you have another reference to the attachment, you can still access its properties and methods, but you can never again associate it with any collection, because the **[Add](attachments-add-method-publisher.md)** method always creates a new object. Use the **Set** keyword to set your reference variable either to **Nothing** or to another attachment.
 
-Перед запуском этого кода убедитесь, что имеется по крайней мере один вложений в текущем merge сообщение электронной почты.
+The final release of the  **Attachment** object takes place when you assign your reference variable to **Nothing**, or when you call  **Delete**, if you had no other reference. At this point the object is removed from memory. Attempting to gain access to a released object returns the Microsoft Collaboration Data Object error  **CdoE_INVALID_OBJECT**.
+
+When you delete a member of a collection, the collection is immediately refreshed, meaning that its  **Count** property is reduced by one and its members are reindexed. To access the member that previously followed the deleted member in the collection, you must use its new index value.
+
+To delete all attachments to the current e-mail merge message, use the  **[ClearAll](attachments-clearall-method-publisher.md)** method of the **Attachments** collection.
+
+
+## Example
+
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to delete an attachment to the message in an e-mail merge. The code deletes the attachment at the first index position in the  **Attachments** collection and then prints the name of the deleted attachment and the number of current attachments to the message in the **Immediate** window.
+
+Before running this code, ensure that there is at least one attachment to the current e-mail merge message.
 
 
 
@@ -67,11 +66,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект вложения](attachment-object-publisher.md)
+ [Attachment Object](attachment-object-publisher.md)
 

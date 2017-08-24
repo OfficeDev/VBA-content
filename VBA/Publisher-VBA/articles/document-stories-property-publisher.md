@@ -1,37 +1,36 @@
 ---
-title: "Свойство Document.Stories (издатель)"
+title: Document.Stories Property (Publisher)
 keywords: vbapb10.chm196659
-f1_keywords: vbapb10.chm196659
+f1_keywords:
+- vbapb10.chm196659
 ms.prod: publisher
-api_name: Publisher.Document.Stories
+api_name:
+- Publisher.Document.Stories
 ms.assetid: 4ffc7d20-eb11-942e-e28a-81c2caa19a50
 ms.date: 06/08/2017
-ms.openlocfilehash: fc546dec01d16c29cf35a5bbe7b5d76515cafd98
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentstories-property-publisher"></a>Свойство Document.Stories (издатель)
-
-Возвращает коллекцию **[истории (en)](stories-object-publisher.md)** , содержащую всех статьях публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.Stories Property (Publisher)
 
- _выражение_. **Истории (en)**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[Stories](stories-object-publisher.md)** collection containing all stories in the publication.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Истории (en)
+ _expression_. **Stories**
+
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере первая статья в коллекции **функциональности** присваивается переменной.
+Stories
+
+
+## Example
+
+This example assigns the first story in the  **Stories** collection to a variable.
 
 
 ```vb

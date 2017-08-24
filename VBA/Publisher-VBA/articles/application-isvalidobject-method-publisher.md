@@ -1,45 +1,44 @@
 ---
-title: "Метод Application.IsValidObject (издатель)"
+title: Application.IsValidObject Method (Publisher)
 keywords: vbapb10.chm131126
-f1_keywords: vbapb10.chm131126
+f1_keywords:
+- vbapb10.chm131126
 ms.prod: publisher
-api_name: Publisher.Application.IsValidObject
+api_name:
+- Publisher.Application.IsValidObject
 ms.assetid: 56b2bc3a-3e8e-058c-046a-146f0fbb294a
 ms.date: 06/08/2017
-ms.openlocfilehash: 2f047a175324908e2ce4fd8a87f22e74c7d56a63
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationisvalidobject-method-publisher"></a>Метод Application.IsValidObject (издатель)
-
-Определяет, является ли указанный объект переменной ссылается на допустимый объект и возвращает **логическое** значение: **True** указанной переменной, которая ссылается на объект является допустимым, если **значение False,** Если был удален объект ссылается переменная.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.IsValidObject Method (Publisher)
 
- _выражение_. **IsValidObject** ( **_Объект_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Determines whether the specified object variable references a valid object and returns a  **Boolean** value: **True** if the specified variable that references an object is valid, **False** if the object referenced by the variable has been deleted.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **IsValidObject**( **_Object_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Объект|Обязательное свойство.| **Object**|Переменная, которая ссылается на объект.|
+|Object|Required| **Object**|A variable that references an object.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Логический
+Boolean
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере форматирует строку допустимого объекта.
+This example formats the line of a valid object.
 
 
 ```vb
@@ -56,7 +55,7 @@ Sub ValidShape(shpObject As Shape)
 End Sub
 ```
 
-Используйте следующие процедуры для вызова подпрограмму выше.
+Use the following subroutine to call the above subroutine.
 
 
 
@@ -68,11 +67,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

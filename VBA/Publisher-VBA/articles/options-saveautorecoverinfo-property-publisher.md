@@ -1,42 +1,41 @@
 ---
-title: "Свойство Options.SaveAutoRecoverInfo (издатель)"
+title: Options.SaveAutoRecoverInfo Property (Publisher)
 keywords: vbapb10.chm1048599
-f1_keywords: vbapb10.chm1048599
+f1_keywords:
+- vbapb10.chm1048599
 ms.prod: publisher
-api_name: Publisher.Options.SaveAutoRecoverInfo
+api_name:
+- Publisher.Options.SaveAutoRecoverInfo
 ms.assetid: 1cbb7960-8995-37f4-5989-01b97152269f
 ms.date: 06/08/2017
-ms.openlocfilehash: c1ea2b01d23da1d906fbb58cffb02f1a0230c453
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="optionssaveautorecoverinfo-property-publisher"></a>Свойство Options.SaveAutoRecoverInfo (издатель)
-
- **Значение true,** Если Microsoft Publisher автоматически сохраняет публикации для восстановления, если приложение неожиданно завершить работу. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Options.SaveAutoRecoverInfo Property (Publisher)
 
- _выражение_. **SaveAutoRecoverInfo**
-
- переменная _expression_A, представляет собой объект- **Параметры** .
+ **True** if Microsoft Publisher automatically saves publications for recovery if the application is unexpectedly shut down. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **SaveAutoRecoverInfo**
 
-
-## <a name="remarks"></a>Заметки
-
-Свойство **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** определяет, как часто возникают сохраняет автоматическое восстановление.
+ _expression_A variable that represents a  **Options** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Этот пример включает параметр глобального автоматическое восстановление и задает сохранения интервал для каждые пять минут.
+Boolean
+
+
+## Remarks
+
+Use the  **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** property to specify how often auto recovery saves occur.
+
+
+## Example
+
+This example enables the global auto recovery option and sets the save interval to every five minutes.
 
 
 ```vb

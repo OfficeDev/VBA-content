@@ -1,50 +1,49 @@
 ---
-title: "Свойство Application.FileDialog (издатель)"
+title: Application.FileDialog Property (Publisher)
 keywords: vbapb10.chm131089
-f1_keywords: vbapb10.chm131089
+f1_keywords:
+- vbapb10.chm131089
 ms.prod: publisher
-api_name: Publisher.Application.FileDialog
+api_name:
+- Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
 ms.date: 06/08/2017
-ms.openlocfilehash: a814b13e66e5f2d493281f91f08a10af203c8ae3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationfiledialog-property-publisher"></a>Свойство Application.FileDialog (издатель)
-
-Возвращает объект **классов FileDialog** , представляющий один экземпляр диалогового окна файла.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.FileDialog Property (Publisher)
 
- _выражение_. **Классов FileDialog** ( **_Тип_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns a  **FileDialog** object that represents a single instance of a file dialog box.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **FileDialog**( **_Type_**)
+
+ _expression_A variable that represents a  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Тип|Обязательный| **MsoFileDialogType**| Тип диалогового окна.|
+|Type|Required| **MsoFileDialogType**| The type of dialog box.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Классов FileDialog
-
-
-## <a name="remarks"></a>Заметки
-
-Тип параметров может иметь одно из ** [MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+FileDialog
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере отображается диалоговое окно " **Сохранить как** " и сохраняет имя файла, указанного пользователем.
+The Type parmater can be one of the  ** [MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example displays the  **Save As** dialog box and stores the file name specified by the user.
 
 
 ```vb
@@ -60,11 +59,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

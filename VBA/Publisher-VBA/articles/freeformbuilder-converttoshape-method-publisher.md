@@ -1,42 +1,41 @@
 ---
-title: "Метод FreeformBuilder.ConvertToShape (издатель)"
+title: FreeformBuilder.ConvertToShape Method (Publisher)
 keywords: vbapb10.chm3276817
-f1_keywords: vbapb10.chm3276817
+f1_keywords:
+- vbapb10.chm3276817
 ms.prod: publisher
-api_name: Publisher.FreeformBuilder.ConvertToShape
+api_name:
+- Publisher.FreeformBuilder.ConvertToShape
 ms.assetid: 1cb490af-40be-b03f-2f8d-04b1015fbde3
 ms.date: 06/08/2017
-ms.openlocfilehash: a8b15e17187513aef24558f04c067024f719945f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="freeformbuilderconverttoshape-method-publisher"></a>Метод FreeformBuilder.ConvertToShape (издатель)
-
-Создает фигуры, геометрические характеристики на указанный объект **[FreeformBuilder](freeformbuilder-object-publisher.md)** . Возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий новую фигуру.
 
 
-## <a name="syntax"></a>Синтаксис
+# FreeformBuilder.ConvertToShape Method (Publisher)
 
- _выражение_. **ConvertToShape**
-
- переменная _expression_A, представляет собой объект- **FreeformBuilder** .
+Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](freeformbuilder-object-publisher.md)** object. Returns a **[Shape](shape-object-publisher.md)** object that represents the new shape.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ConvertToShape**
+
+ _expression_A variable that represents a  **FreeformBuilder** object.
+
+
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Необходимо применить метод **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** объекта **FreeformBuilder** по крайней мере один раз перед используйте метод **ConvertToShape** или возникает ошибка.
+You must apply the  **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to a  **FreeformBuilder** object at least once before you use the **ConvertToShape** method or an error occurs.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется freeform с четырьмя вершинами для первой страницы в активной публикации.
+This example adds a freeform with four vertices to the first page in the active publication.
 
 
 ```vb

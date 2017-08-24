@@ -1,55 +1,54 @@
 ---
-title: "Свойство AdvancedPrintOptions.Resolution (издатель)"
+title: AdvancedPrintOptions.Resolution Property (Publisher)
 keywords: vbapb10.chm7077910
-f1_keywords: vbapb10.chm7077910
+f1_keywords:
+- vbapb10.chm7077910
 ms.prod: publisher
-api_name: Publisher.AdvancedPrintOptions.Resolution
+api_name:
+- Publisher.AdvancedPrintOptions.Resolution
 ms.assetid: 6105287e-a0af-2fd6-e0de-5bedb2458010
 ms.date: 06/08/2017
-ms.openlocfilehash: 590b6f88c6f2360fff4c16b0cbdbcc2848b9fbc1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="advancedprintoptionsresolution-property-publisher"></a>Свойство AdvancedPrintOptions.Resolution (издатель)
-
-Возвращает или задает **строку** , представляющую решение точек на дюйм (т/д), в которой печати указанной публикации. По умолчанию, зависит от драйвер принтера, но обычно «(по умолчанию)». Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# AdvancedPrintOptions.Resolution Property (Publisher)
 
- _выражение_. **Resolution()**
-
- переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
+Returns or sets a  **String** that represents the resolution, in dots per inch (dpi), at which to print the specified publication. Default is dependent on the printer driver, but is usually "(default)". Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Resolution()**
+
+ _expression_A variable that represents a  **AdvancedPrintOptions** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Допустимые значения для свойства **разрешение** зависят от используется драйвер принтера. Принтеры имеют готовые решения, которые не могут быть настроены. Значения должен иметь формат следующим образом, включая отступы:
+Valid values for the  **Resolution** property depend on the printer driver being used. Printers have preset resolutions that cannot be customized. Values must be formatted in the following manner, including spacing:
 
 
 - " _HorizontalDotsPerInch_ x _VerticalDotsPerInch_" 
     
-HorizontalDotsPerInch и VerticalDotsPerInch являются числовых значений, разделенных точкой с одной строчная x и другой пространстве.
+HorizontalDotsPerInch and VerticalDotsPerInch are numeric values, separated by one space, a lowercase x, and another space.
 
-К примеру Чтобы задать разрешение принтера 600 точек на дюйм горизонтальной с 600 вертикальной точек на дюйм, допустимая строка будет чтение «600 x 600».
+For example, to set the resolution of a printer to 600 horizontal dpi by 600 vertical dpi, a valid string would read "600 x 600".
 
-Свойство **разрешение** также принимает строку «(по умолчанию)» для указания принтера разрешения по умолчанию. Если драйвер принтера представляет языка, отличного от английского, свойство **разрешение** также принимает строку, указывающую на этом языке по умолчанию.
+The  **Resolution** property also accepts the string "(default)" to specify the printer's default resolution setting. If the printer driver presents a language other than English, the **Resolution** property also accepts the string that denotes the default setting in that language.
 
-Если **решение** задано значение драйвер принтера по умолчанию, с помощью оператора **Get** возвращает английская строку «(по умолчанию),» вне зависимости от ли решение было задано значение по умолчанию с помощью строки не английский.
+If the  **Resolution** property is set to the default printer driver setting, using a **Get** statement returns the English string "(default)", regardless of whether the resolution was set to default using a non-English string.
 
-Это свойство соответствует **решение** управления на вкладке **Цветоделение** диалоговое окно **Дополнительные параметры печати** .
+This property corresponds to the  **Resolution** control on the **Separations** tab of the **Advanced Print Settings** dialog box.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается разрешение активная публикация 300 точек на дюйм по 300 точек на дюйм. В примере предполагается, что «300 x 300» — это допустимая строка для используется драйвер принтера.
+The following example sets the resolution of the active publication at 300 dpi by 300 dpi. The example assumes that "300 x 300" is a valid string for the printer driver used.
 
 
 ```vb
@@ -57,11 +56,11 @@ ActiveDocument.AdvancedPrintOptions.Resolution = "300 x 300"
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
+ [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
 

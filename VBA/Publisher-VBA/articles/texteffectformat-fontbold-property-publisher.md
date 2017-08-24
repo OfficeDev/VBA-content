@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextEffectFormat.FontBold (издатель)"
+title: TextEffectFormat.FontBold Property (Publisher)
 keywords: vbapb10.chm3735809
-f1_keywords: vbapb10.chm3735809
+f1_keywords:
+- vbapb10.chm3735809
 ms.prod: publisher
-api_name: Publisher.TextEffectFormat.FontBold
+api_name:
+- Publisher.TextEffectFormat.FontBold
 ms.assetid: ab582a4d-92b7-c2b0-e3c3-045e035f68bb
 ms.date: 06/08/2017
-ms.openlocfilehash: a290e92ffcc84909d5f42470d096d0684463f706
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="texteffectformatfontbold-property-publisher"></a>Свойство TextEffectFormat.FontBold (издатель)
-
-Задает или возвращает константу **MsoTriState**, которое указывает, находится ли шрифт для буквицы или влияние WordArt текст полужирным шрифтом. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextEffectFormat.FontBold Property (Publisher)
 
- _выражение_. **FontBold**
-
- переменная _expression_A, представляет собой объект- **TextEffectFormat** .
+Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **FontBold** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+ _expression_. **FontBold**
+
+ _expression_A variable that represents a  **TextEffectFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере применяет жирное форматирование для буквицы в элементе frame указанный текст. В этом примере предполагается, что указанный текст frame отформатирован буквицы.
+The  **FontBold** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example applies bold formatting to the dropped capital letter in the specified text frame. This example assumes that the specified text frame is formatted with a dropped capital letter.
 
 
 ```vb

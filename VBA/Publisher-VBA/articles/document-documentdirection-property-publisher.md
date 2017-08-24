@@ -1,46 +1,45 @@
 ---
-title: "Свойство Document.DocumentDirection (издатель)"
+title: Document.DocumentDirection Property (Publisher)
 keywords: vbapb10.chm196648
-f1_keywords: vbapb10.chm196648
+f1_keywords:
+- vbapb10.chm196648
 ms.prod: publisher
-api_name: Publisher.Document.DocumentDirection
+api_name:
+- Publisher.Document.DocumentDirection
 ms.assetid: b28961ad-7adc-3920-0e67-88bb53310d9b
 ms.date: 06/08/2017
-ms.openlocfilehash: 8c882f51979b6f7ee8d37c478245c338683504ed
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentdocumentdirection-property-publisher"></a>Свойство Document.DocumentDirection (издатель)
-
-Возвращает или задает значение константы **PbDirectionType** , которое указывает, доступна ли текст в документ для чтения слева направо или справа налево. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.DocumentDirection Property (Publisher)
 
- _выражение_. **DocumentDirection**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns or sets a  **PbDirectionType** constant that indicates whether text in the document is read from left to right or from right to left. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **DocumentDirection**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
 
 PbDirectionType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **DocumentDirection** может иметь одно из **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **DocumentDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Свойство **DocumentDirection** влияет на способ читать документ, но не направление текста в документе. Например если в документе есть пограничный привязки и печати на обеих сторонах страницы, переплета документа справа налево будет отличаться от переплета документа справа налево.
+The  **DocumentDirection** property affects the way the document is read but not the flow of text in the document. For example, if the document has a binding edge and is printed on both sides of the page, the binding edge for a left-to-right document would be different from the binding edge of a right-to-left document.
 
-Форматирование направление потока текста, используйте свойство **[DefaultTextFlowDirection](options-defaulttextflowdirection-property-publisher.md)** , чтобы указать направление текста по умолчанию для всего документа или используйте свойство **[Orientation](textframe-orientation-property-publisher.md)** для отдельных текстовой рамки для указания направление текста, используемый по умолчанию, указанный текст только для рамки.
+To format the direction of text flow, use the  **[DefaultTextFlowDirection](options-defaulttextflowdirection-property-publisher.md)** property to specify the default text flow for the entire document, or use the  **[Orientation](textframe-orientation-property-publisher.md)** property for an individual text frame to specify a text flow direction other than the default for the specified text frame only.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается active публикации для чтения слева направо.
+This example sets the active publication to read from left to right.
 
 
 ```vb

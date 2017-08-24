@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.WizardCatalogVisible (издатель)"
+title: Application.WizardCatalogVisible Property (Publisher)
 keywords: vbapb10.chm131173
-f1_keywords: vbapb10.chm131173
+f1_keywords:
+- vbapb10.chm131173
 ms.prod: publisher
-api_name: Publisher.Application.WizardCatalogVisible
+api_name:
+- Publisher.Application.WizardCatalogVisible
 ms.assetid: 99323335-aabd-6799-b6aa-c5d95b88064f
 ms.date: 06/08/2017
-ms.openlocfilehash: df1b9984b7ecd86ed1774e97ab3d0416b7099644
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationwizardcatalogvisible-property-publisher"></a>Свойство Application.WizardCatalogVisible (издатель)
-
-Возвращает или задает значение **Boolean** , указывающее, отображается ли мастер каталога. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.WizardCatalogVisible Property (Publisher)
 
- _выражение_. **WizardCatalogVisible**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns or sets a  **Boolean** indicating whether the Wizard Catalog is visible. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **WizardCatalogVisible**
+
+ _expression_A variable that represents a  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере сохраняется текущее состояние каталога мастера, чтобы его можно восстановить более поздней версии.
+Boolean
+
+
+## Example
+
+The following example stores the current state of the Wizard Catalog so that it can restore it later.
 
 
 ```vb
@@ -51,11 +50,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

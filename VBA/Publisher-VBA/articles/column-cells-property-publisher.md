@@ -1,32 +1,31 @@
 ---
-title: "Свойство Column.Cells (издатель)"
+title: Column.Cells Property (Publisher)
 keywords: vbapb10.chm4980738
-f1_keywords: vbapb10.chm4980738
+f1_keywords:
+- vbapb10.chm4980738
 ms.prod: publisher
-api_name: Publisher.Column.Cells
+api_name:
+- Publisher.Column.Cells
 ms.assetid: 6c8b33f9-61f0-086c-1ceb-996221aa3a02
 ms.date: 06/08/2017
-ms.openlocfilehash: 7559af63d7b4b2481f73828690ed18746fecb1a9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="columncells-property-publisher"></a>Свойство Column.Cells (издатель)
-
-Возвращает объект **[CellRange](cellrange-object-publisher.md)** , представляющий одну или несколько ячеек в столбце таблицы.
 
 
-## <a name="syntax"></a>Синтаксис
+# Column.Cells Property (Publisher)
 
- _выражение_. **Ячейки**
-
- переменная _expression_A, представляет собой объект- **столбец** .
+Returns a  **[CellRange](cellrange-object-publisher.md)** object that represents the cell or cells in a column of a table.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере выполняется объединение ячеек первой и второй в первый столбец указанную таблицу.
+ _expression_. **Cells**
+
+ _expression_A variable that represents a  **Column** object.
+
+
+## Example
+
+This example merges the first and second cells in the first column of the specified table.
 
 
 ```vb
@@ -37,7 +36,7 @@ Sub MergeCell()
 End Sub
 ```
 
-В этом примере применяется структуры толстой границей в первую ячейку в столбце второй указанную таблицу.
+This example applies a thick border outline to the first cell in the second column of the specified table.
 
 
 

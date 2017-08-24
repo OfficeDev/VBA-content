@@ -1,42 +1,41 @@
 ---
-title: "Свойство PictureFormat.ColorType (издатель)"
+title: PictureFormat.ColorType Property (Publisher)
 keywords: vbapb10.chm3604737
-f1_keywords: vbapb10.chm3604737
+f1_keywords:
+- vbapb10.chm3604737
 ms.prod: publisher
-api_name: Publisher.PictureFormat.ColorType
+api_name:
+- Publisher.PictureFormat.ColorType
 ms.assetid: 439f9eb9-2593-d719-4ef6-0f14d1c7d0f4
 ms.date: 06/08/2017
-ms.openlocfilehash: 08996affa9fd1c2bfb7e5599c9650c7591f1eb85
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatcolortype-property-publisher"></a>Свойство PictureFormat.ColorType (издатель)
-
-Возвращает или задает константой **MsoPictureColorType** , указывающее тип преобразования цветов, применяемые к указанной изображения или объекта OLE. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.ColorType Property (Publisher)
 
- _выражение_. **ColorType**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Returns or sets an  **MsoPictureColorType** constant indicating the type of color transformation applied to the specified picture or OLE object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ColorType**
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Return Value
 
 MsoPictureColorType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **ColorType** может иметь одно из ** [MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **ColorType** property value can be one of the ** [MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается преобразования цветовые оттенки серого для первой фигуры в активной публикации. Фигура должен быть изображения или объекта OLE.
+This example sets the color transformation to grayscale for the first shape in the active publication. The shape must be either a picture or an OLE object.
 
 
 ```vb

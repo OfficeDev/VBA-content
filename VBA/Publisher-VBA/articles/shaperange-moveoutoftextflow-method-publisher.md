@@ -1,44 +1,43 @@
 ---
-title: "Метод ShapeRange.MoveOutOfTextFlow (издатель)"
+title: ShapeRange.MoveOutOfTextFlow Method (Publisher)
 keywords: vbapb10.chm2294032
-f1_keywords: vbapb10.chm2294032
+f1_keywords:
+- vbapb10.chm2294032
 ms.prod: publisher
-api_name: Publisher.ShapeRange.MoveOutOfTextFlow
+api_name:
+- Publisher.ShapeRange.MoveOutOfTextFlow
 ms.assetid: 36d6b22d-f041-6dd8-ce2c-9514ac6af5ae
 ms.date: 06/08/2017
-ms.openlocfilehash: df05a4c9a7d604e2222b34e9091bcd065ae5ca9d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangemoveoutoftextflow-method-publisher"></a>Метод ShapeRange.MoveOutOfTextFlow (издатель)
-
-Перемещает указанный встроенный фигуры вне его содержащего диапазона текста, определенные в ** [Объект TextRange](textrange-object-publisher.md)** и делает фиксированной фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.MoveOutOfTextFlow Method (Publisher)
 
- _выражение_. **MoveOutOfTextFlow**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Moves a given inline shape out of its containing text range, defined by  ** [TextRange Object](textrange-object-publisher.md)**, and makes the shape fixed.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Значение Nothing
+ _expression_. **MoveOutOfTextFlow**
 
-
-## <a name="remarks"></a>Заметки
-
-Если фигуры перемещаемых еще не является встроенной, возвращается ошибка автоматизации.
-
-После вызова метода **MoveOutOfTextFlow** на встроенная фигура фигуры будет сохранять свое положение на странице, но оно больше не будет встроенного.
+ _expression_A variable that represents a  **ShapeRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере перемещается первую фигуру встроенные, содержащиеся в диапазоне заданный текст из текста.
+Nothing
+
+
+## Remarks
+
+An automation error is returned if the shape to be moved is not already inline.
+
+After the  **MoveOutOfTextFlow** method is called on an inline shape, the shape will maintain its position on the page, but it will no longer be inline.
+
+
+## Example
+
+The following example moves the first inline shape contained in a given text range out of the text flow.
 
 
 ```vb

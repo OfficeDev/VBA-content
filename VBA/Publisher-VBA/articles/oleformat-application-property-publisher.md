@@ -1,32 +1,31 @@
 ---
-title: "Свойство OLEFormat.Application (издатель)"
+title: OLEFormat.Application Property (Publisher)
 keywords: vbapb10.chm4456449
-f1_keywords: vbapb10.chm4456449
+f1_keywords:
+- vbapb10.chm4456449
 ms.prod: publisher
-api_name: Publisher.OLEFormat.Application
+api_name:
+- Publisher.OLEFormat.Application
 ms.assetid: 0ca29513-f96e-38f8-4c24-bd6fc347066e
 ms.date: 06/08/2017
-ms.openlocfilehash: 48941e82c3dc9eb30b63e281cb44dae3329379e2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="oleformatapplication-property-publisher"></a>Свойство OLEFormat.Application (издатель)
-
-При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-## <a name="syntax"></a>Синтаксис
+# OLEFormat.Application Property (Publisher)
 
- _выражение_. **Приложения**
-
- переменная _expression_A, представляющий объект **OLEFormat** .
+Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображаются сведения о версии и построения для Publisher.
+ _expression_. **Application**
+
+ _expression_A variable that represents an  **OLEFormat** object.
+
+
+## Example
+
+This example displays the version and build information for Publisher.
 
 
 ```vb
@@ -36,7 +35,7 @@ With Application
 End With
 ```
 
-В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
+This example displays the name of the application that created each linked OLE object on page one of the active publication.
 
 
 

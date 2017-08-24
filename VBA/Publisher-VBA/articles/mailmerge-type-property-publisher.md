@@ -1,44 +1,43 @@
 ---
-title: "Свойство MailMerge.Type (издатель)"
+title: MailMerge.Type Property (Publisher)
 keywords: vbapb10.chm6225945
-f1_keywords: vbapb10.chm6225945
+f1_keywords:
+- vbapb10.chm6225945
 ms.prod: publisher
-api_name: Publisher.MailMerge.Type
+api_name:
+- Publisher.MailMerge.Type
 ms.assetid: cd31c23f-4059-c6ae-851a-ec9b7f107724
 ms.date: 06/08/2017
-ms.openlocfilehash: 135db53eccdc8160d2e6d32ebbc73dc3dd589cc1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergetype-property-publisher"></a>Свойство MailMerge.Type (издатель)
-
-Получает или задает тип слияния почты, представленного объектом **подпапку** родительской. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.Type Property (Publisher)
 
- _выражение_. **Тип**
-
- _expression_An выражение, возвращающее объект **слияния** .
+Gets or sets the type of mail merge represented by the parent  **MailMerge** object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Type**
+
+ _expression_An expression that returns a  **MailMerge** object.
+
+
+### Return Value
 
  **PbMergeType**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Возможные значения для свойства **типа** объявлен в перечислении **PbMergeType** и показаны в следующей таблице.
+Possible values for the  **Type** property are declared in the **PbMergeType** enumeration and shown in the following table.
 
 
 
-|**Константы**|**Значение**|**Описание**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbCatalogMerge**|3|Объединение в каталог|
-| **pbEmailMerge**|4|Слияние почты|
-| **pbMailMerge**|2|Слияние почты|
-| **pbMergeDefault**|0|По умолчанию объединения|
+| **pbCatalogMerge**|3|Catalog merge|
+| **pbEmailMerge**|4|E-mail merge|
+| **pbMailMerge**|2|Mail merge|
+| **pbMergeDefault**|0|Default merge|
 

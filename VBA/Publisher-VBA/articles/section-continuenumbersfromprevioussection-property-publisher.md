@@ -1,37 +1,36 @@
 ---
-title: "Свойство Section.ContinueNumbersFromPreviousSection (издатель)"
+title: Section.ContinueNumbersFromPreviousSection Property (Publisher)
 keywords: vbapb10.chm7405575
-f1_keywords: vbapb10.chm7405575
+f1_keywords:
+- vbapb10.chm7405575
 ms.prod: publisher
-api_name: Publisher.Section.ContinueNumbersFromPreviousSection
+api_name:
+- Publisher.Section.ContinueNumbersFromPreviousSection
 ms.assetid: a3d64f14-dc65-4fb1-5079-0fdf2e3f8f38
 ms.date: 06/08/2017
-ms.openlocfilehash: 97ceee6e427ec51d15e895907e6a919bb1f3541b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="sectioncontinuenumbersfromprevioussection-property-publisher"></a>Свойство Section.ContinueNumbersFromPreviousSection (издатель)
-
- **Значение true,** Если указанный раздел по-прежнему производится нумерации из раздела prvious. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Section.ContinueNumbersFromPreviousSection Property (Publisher)
 
- _выражение_. **ContinueNumbersFromPreviousSection**
-
- переменная _expression_A, представляет собой объект **раздела** .
+ **True** if the specified section continues the numbering from the prvious section. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **ContinueNumbersFromPreviousSection**
+
+ _expression_A variable that represents a  **Section** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере добавляет три страницы публикации, добавляет новый раздел после первой страницы и затем задает **ContinueNumbersFromPreviousSection** значение **False** для нового раздела.
+Boolean
+
+
+## Example
+
+The following example adds three pages to the publication, adds a new section after the first page, and then sets the  **ContinueNumbersFromPreviousSection** to **False** for the new section.
 
 
 ```vb

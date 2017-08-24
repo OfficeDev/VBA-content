@@ -1,48 +1,47 @@
 ---
-title: "Свойство AdvancedPrintOptions.GraphicsResolution (издатель)"
+title: AdvancedPrintOptions.GraphicsResolution Property (Publisher)
 keywords: vbapb10.chm7077909
-f1_keywords: vbapb10.chm7077909
+f1_keywords:
+- vbapb10.chm7077909
 ms.prod: publisher
-api_name: Publisher.AdvancedPrintOptions.GraphicsResolution
+api_name:
+- Publisher.AdvancedPrintOptions.GraphicsResolution
 ms.assetid: 1e4e06aa-327b-5689-ff97-eea9f866260a
 ms.date: 06/08/2017
-ms.openlocfilehash: 78e6c0000d7c55bdff9f6a35a88e9a4fd97d40d2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="advancedprintoptionsgraphicsresolution-property-publisher"></a>Свойство AdvancedPrintOptions.GraphicsResolution (издатель)
-
-Возвращает или задает значение константы **PbPrintGraphics** , представляющее разрешения, на которой можно вставленные изображения на печать в указанной публикации. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# AdvancedPrintOptions.GraphicsResolution Property (Publisher)
 
- _выражение_. **GraphicsResolution**
-
- переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
+Returns or sets a  **PbPrintGraphics** constant representing the resolution at which the inserted graphics are to be printed in the specified publication. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **GraphicsResolution**
+
+ _expression_A variable that represents a  **AdvancedPrintOptions** object.
+
+
+### Return Value
 
 PbPrintGraphics
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Установка для этого свойства влияет только на вставленных изображений (ли связанных или внедренных) и Коллекция картинок. Картинка автофигуры и рамка всегда печатается.
+Setting this property only affects inserted pictures (whether linked or embedded), and clip art. Autoshapes and border art will always be printed.
 
-Печать полей вместо графики полезен при печати быстрого обоснования разметки, отображающего исключительно размещение рисунков.
+Printing boxes in place of graphics is useful when printing a quick proof of the layout that only shows the positioning of pictures.
 
-Это свойство соответствует **графики** элементов управления на вкладке **графики и шрифты** диалоговое окно **Дополнительные параметры печати** .
+This property corresponds to the  **Graphics** controls on the **Graphics and Fonts** tab of the **Advanced Print Settings** dialog box.
 
-Значение свойства **GraphicsResolution** может иметь одно из **[PbPrintGraphics](pbprintgraphics-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **GraphicsResolution** property value can be one of the **[PbPrintGraphics](pbprintgraphics-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается графики для печати в виде полях active публикации.
+The following example sets the graphics to print as boxes in the active publication.
 
 
 ```vb
@@ -56,11 +55,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
+ [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
 

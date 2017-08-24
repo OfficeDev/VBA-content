@@ -1,37 +1,36 @@
 ---
-title: "Свойство Table.Rows (издатель)"
+title: Table.Rows Property (Publisher)
 keywords: vbapb10.chm4784134
-f1_keywords: vbapb10.chm4784134
+f1_keywords:
+- vbapb10.chm4784134
 ms.prod: publisher
-api_name: Publisher.Table.Rows
+api_name:
+- Publisher.Table.Rows
 ms.assetid: 97a543b9-a1d7-c7f8-9f3c-e08256e0b364
 ms.date: 06/08/2017
-ms.openlocfilehash: 9b760c695b85a3720c29d91827052658f13004a2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tablerows-property-publisher"></a>Свойство Table.Rows (издатель)
-
-Возвращает набор **[строк](rows-object-publisher.md)** , который представляет все строки в таблице в диапазон, выделенный фрагмент или таблицу.
 
 
-## <a name="syntax"></a>Синтаксис
+# Table.Rows Property (Publisher)
 
- _выражение_. **Строк**
-
- переменная _expression_A, представляет собой объект- **таблицы** .
+Returns a  **[Rows](rows-object-publisher.md)** collection that represents all the table rows in a range, selection, or table.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Сведения о возврате один элемент коллекции видеть [возврата объекта из коллекции](returning-an-object-from-a-collection-publisher.md).
+ _expression_. **Rows**
+
+ _expression_A variable that represents a  **Table** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере вводит заливки для всех четных строк и очищает заливки для всех нечетных строк в указанной таблице. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
+For information about returning a single member of a collection, see  [Returning an Object from a Collection](returning-an-object-from-a-collection-publisher.md).
+
+
+## Example
+
+This example enters the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
 
 
 ```vb

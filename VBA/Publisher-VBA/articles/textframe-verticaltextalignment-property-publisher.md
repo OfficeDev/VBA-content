@@ -1,40 +1,41 @@
 ---
-title: "Свойство TextFrame.VerticalTextAlignment (издатель)"
+title: TextFrame.VerticalTextAlignment Property (Publisher)
 keywords: vbapb10.chm3866660
-f1_keywords: vbapb10.chm3866660
+f1_keywords:
+- vbapb10.chm3866660
 ms.prod: publisher
-api_name: Publisher.TextFrame.VerticalTextAlignment
+api_name:
+- Publisher.TextFrame.VerticalTextAlignment
 ms.assetid: cd809f00-b092-c483-fe99-2aa8043fb684
 ms.date: 06/08/2017
-ms.openlocfilehash: 08001f3df4002a87d09547b21e0bc342157f4f49
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframeverticaltextalignment-property-publisher"></a>Свойство TextFrame.VerticalTextAlignment (издатель)
-
-Возвращает или задает значение константы **PbVerticalTextAlignmentType**, представляющий вертикальное выравнивание текста в текстовом поле. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.VerticalTextAlignment Property (Publisher)
 
- _выражение_. **VerticalTextAlignment**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **VerticalTextAlignment** может иметь одно из следующих констант **PbVerticalTextAlignmentType** .
+ _expression_. **VerticalTextAlignment**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+## Remarks
+
+The  **VerticalTextAlignment** property value can be one of these **PbVerticalTextAlignmentType** constants.
 
 
 
-| **pbVerticalTextAlignmentBottom**|| **pbVerticalTextAlignmentCenter**|| **pbVerticalTextAlignmentTop**|
+| **pbVerticalTextAlignmentBottom**|
+| **pbVerticalTextAlignmentCenter**|
+| **pbVerticalTextAlignmentTop**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере по вертикали Центрирует текст в элементе frame указанный текст. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
+This example vertically centers the text in the specified text frame. This example assumes there is at least one shape on the first page of the active publication.
 
 
 ```vb

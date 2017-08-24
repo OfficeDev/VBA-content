@@ -1,37 +1,36 @@
 ---
-title: "Метод ShapeRange.Duplicate (издатель)"
+title: ShapeRange.Duplicate Method (Publisher)
 keywords: vbapb10.chm2293780
-f1_keywords: vbapb10.chm2293780
+f1_keywords:
+- vbapb10.chm2293780
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Duplicate
+api_name:
+- Publisher.ShapeRange.Duplicate
 ms.assetid: e940e551-4307-aa33-5713-80f77fade8af
 ms.date: 06/08/2017
-ms.openlocfilehash: 9c64b5059d415944a317369432f140996648733b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangeduplicate-method-publisher"></a>Метод ShapeRange.Duplicate (издатель)
-
-Создает копию на указанный объект **[ShapeRange](shaperange-object-publisher.md)** или **[фигуры](shape-object-publisher.md)** , добавляет новую фигуру или диапазона фигур в коллекцию **фигур** сразу же после фигуры или диапазона фигур указан изначально, а затем возвращает новый объект **ShapeRange** или **фигуры** .
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Duplicate Method (Publisher)
 
- _выражение_. **Дублирующиеся**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Creates a duplicate of the specified  **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** object, adds the new shape or range of shapes to the **Shapes** collection immediately after the shape or range of shapes specified originally, and then returns the new **Shape** or **ShapeRange** object.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Duplicate**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Return Value
 
 ShapeRange
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется новый пустой странице в конце active публикации, добавляется фигура ромб на новую страницу, дублирует ромб и затем задает свойства для повторяющихся. Первый ромб будут иметь цвет заливки по умолчанию для активной цветовая схема; второй ромб будет смещение от первого и будут иметь первого контрастный цвет для активных цветовая схема.
+This example adds a new, blank page at the end of the active publication, adds a diamond shape to the new page, duplicates the diamond, and then sets properties for the duplicate. The first diamond will have the default fill color for the active color scheme; the second diamond will be offset from the first one and will have the first accent color for the active color scheme.
 
 
 ```vb

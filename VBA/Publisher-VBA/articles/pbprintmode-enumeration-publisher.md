@@ -1,27 +1,26 @@
 ---
-title: "Перечисление PbPrintMode (издатель)"
+title: PbPrintMode Enumeration (Publisher)
 keywords: vbapb10.chm65581
-f1_keywords: vbapb10.chm65581
+f1_keywords:
+- vbapb10.chm65581
 ms.prod: publisher
-api_name: Publisher.PbPrintMode
+api_name:
+- Publisher.PbPrintMode
 ms.assetid: d2c83c21-4d2e-c7a1-f774-1c3754f3f20d
 ms.date: 06/08/2017
-ms.openlocfilehash: 11d15b9d7b92eec2170046491ef231d7d0e7ee49
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pbprintmode-enumeration-publisher"></a>Перечисление PbPrintMode (издатель)
-
-Представляет, является ли указанный публикация печатается как составной или цветоделение. 
 
 
+# PbPrintMode Enumeration (Publisher)
 
-|**Имя**|**Значение**|**Описание**|
+Represents whether the specified publication is printed as a composite or separations. 
+
+
+
+|**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbPrintModeCompositeCMYK**|3|Печать совмещенных цветов, определяемых цветовой моделью CMYK.|
-| **pbPrintModeCompositeGrayscale**|4|Печать совмещенных цветов, определяемых как оттенки серого цвета.|
-| **pbPrintModeCompositeRGB**|1|Печать совмещенных цветов, определяемых в модели цвета RGB.|
-| **pbPrintModeSeparations**|2|Печать отдельной формы для каждого рукописного ввода, используемых в публикации.|
+| **pbPrintModeCompositeCMYK**|3|Print a composite whose colors are defined by the CMYK color model.|
+| **pbPrintModeCompositeGrayscale**|4|Print a composite whose colors are defined as shades of gray.|
+| **pbPrintModeCompositeRGB**|1|Print a composite whose colors are defined by the RGB color model.|
+| **pbPrintModeSeparations**|2|Print a separate plate for each ink used in the publication.|
 

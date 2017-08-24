@@ -1,32 +1,31 @@
 ---
-title: "Свойство Tag.Value (издатель)"
+title: Tag.Value Property (Publisher)
 keywords: vbapb10.chm4718596
-f1_keywords: vbapb10.chm4718596
+f1_keywords:
+- vbapb10.chm4718596
 ms.prod: publisher
-api_name: Publisher.Tag.Value
+api_name:
+- Publisher.Tag.Value
 ms.assetid: dee3b69b-ae5b-df13-561e-84105057979a
 ms.date: 06/08/2017
-ms.openlocfilehash: f2b0b8bb38bbaae8ecf5d8788153be54533b07b6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tagvalue-property-publisher"></a>Свойство Tag.Value (издатель)
-
-Возвращает или задает **Variant** , который представляет значение тега фигуры, страницы или публикации. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Tag.Value Property (Publisher)
 
- _выражение_. **Значение**
-
- переменная _expression_A, представляет собой объект- **тег** .
+Returns or sets a  **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере создается новый тег для активной публикации и затем отображает значение тега.
+ _expression_. **Value**
+
+ _expression_A variable that represents a  **Tag** object.
+
+
+## Example
+
+This example creates a new tag for the active publication and then displays the value of the tag.
 
 
 ```vb

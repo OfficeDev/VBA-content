@@ -1,42 +1,41 @@
 ---
-title: "Свойство Font.Underline (издатель)"
+title: Font.Underline Property (Publisher)
 keywords: vbapb10.chm5373987
-f1_keywords: vbapb10.chm5373987
+f1_keywords:
+- vbapb10.chm5373987
 ms.prod: publisher
-api_name: Publisher.Font.Underline
+api_name:
+- Publisher.Font.Underline
 ms.assetid: a01a943e-274d-725e-3f78-aa76c51d5c46
 ms.date: 06/08/2017
-ms.openlocfilehash: fedc838954d8514c4d12a4e737fe40bb1c2f3432
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontunderline-property-publisher"></a>Свойство Font.Underline (издатель)
-
-Возвращает или задает константой **PbUnderlineType** , указывающую тип подчеркивание выбранного символы указанного шрифта в диапазон текста. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.Underline Property (Publisher)
 
- _выражение_. **Подчеркивание**
-
- переменная _expression_A, представляющий объект **шрифта** .
+Returns or sets an  **PbUnderlineType** constant that indicates the type of underline for the selected characters in the specified font in a text range. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Underline**
+
+ _expression_A variable that represents an  **Font** object.
+
+
+### Return Value
 
 PbUnderlineType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **Подчеркивание** может иметь одно из **[PbUnderlineType](pbunderlinetype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **Underline** property value can be one of the **[PbUnderlineType](pbunderlinetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере форматов символов первая статья пунктирной и толстые линией.
+This example formats the characters of the first story with a dashed and heavy underline.
 
 
 ```vb

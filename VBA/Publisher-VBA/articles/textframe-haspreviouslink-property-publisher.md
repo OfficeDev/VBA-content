@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextFrame.HasPreviousLink (издатель)"
+title: TextFrame.HasPreviousLink Property (Publisher)
 keywords: vbapb10.chm3866641
-f1_keywords: vbapb10.chm3866641
+f1_keywords:
+- vbapb10.chm3866641
 ms.prod: publisher
-api_name: Publisher.TextFrame.HasPreviousLink
+api_name:
+- Publisher.TextFrame.HasPreviousLink
 ms.assetid: 85e0b497-55c9-d49f-2b65-e199361c121a
 ms.date: 06/08/2017
-ms.openlocfilehash: 77b191b93e9f699cc931360a598dbdf99cf79451
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframehaspreviouslink-property-publisher"></a>Свойство TextFrame.HasPreviousLink (издатель)
-
-Возвращает **msoTrue** , если frame указанный текст имеет допустимый ссылка на обратной текстовое поле и **msoFalse** , если это не. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.HasPreviousLink Property (Publisher)
 
- _выражение_. **HasPreviousLink**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Returns  **msoTrue** if the specified text frame has a valid link to a backward text box and **msoFalse** if it does not. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HasPreviousLink**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="example"></a>Пример
+## Example
 
-Если существует ссылки в этом примере разрывов все ссылки в документе на первый кадр указанный текст. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
+This example breaks all links in the document to the first specified text frame if links exist. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 ```vb

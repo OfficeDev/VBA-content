@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.TemplateFolderPath (издатель)"
+title: Application.TemplateFolderPath Property (Publisher)
 keywords: vbapb10.chm131120
-f1_keywords: vbapb10.chm131120
+f1_keywords:
+- vbapb10.chm131120
 ms.prod: publisher
-api_name: Publisher.Application.TemplateFolderPath
+api_name:
+- Publisher.Application.TemplateFolderPath
 ms.assetid: e2256af9-9432-6205-864a-10bb7dec41c9
 ms.date: 06/08/2017
-ms.openlocfilehash: ed05f01a45ae7357876f96bafb0a8f4df48e7652
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationtemplatefolderpath-property-publisher"></a>Свойство Application.TemplateFolderPath (издатель)
-
-Возвращает **строку** , представляющую расположение, где хранятся шаблоны Microsoft Publisher. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.TemplateFolderPath Property (Publisher)
 
- _выражение_. **TemplateFolderPath**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns a  **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TemplateFolderPath**
+
+ _expression_A variable that represents a  **Application** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается новая публикация и изменение главной страницы, содержащие номер страницы в звезда в левом верхнем углу страницы; Затем он сохраняет новые публикации местоположение папки шаблона, чтобы его можно использовать в качестве шаблона.
+This example creates a new publication and edits the master page to contain a page number in a star in the upper-left corner of the page; then it saves the new publication to the template folder location so that it can be used as a template.
 
 
 ```vb
@@ -66,11 +65,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

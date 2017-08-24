@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebOptions.AlwaysSaveInDefaultEncoding (издатель)"
+title: WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
 keywords: vbapb10.chm8257539
-f1_keywords: vbapb10.chm8257539
+f1_keywords:
+- vbapb10.chm8257539
 ms.prod: publisher
-api_name: Publisher.WebOptions.AlwaysSaveInDefaultEncoding
+api_name:
+- Publisher.WebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: e37ff08f-5c09-0a71-27e1-e2a332147087
 ms.date: 06/08/2017
-ms.openlocfilehash: 905763a62b188749810631cb9477be7bbe0e99d8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weboptionsalwayssaveindefaultencoding-property-publisher"></a>Свойство WebOptions.AlwaysSaveInDefaultEncoding (издатель)
-
-Возвращает или задает **логическое** значение, указывающее, является ли веб-страницы в веб-публикации всегда сохраняйте с использованием кодировки по умолчанию. Если **значение True**, веб-страниц в пределах публикации всегда будут сохраняться с использованием кодировки по умолчанию на клиентском компьютере. Если **значение False**, веб-страницы не будут сохранены с использованием кодировки по умолчанию. Значение по умолчанию — **False**. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebOptions.AlwaysSaveInDefaultEncoding Property (Publisher)
 
- _выражение_. **AlwaysSaveInDefaultEncoding**
-
- переменная _expression_A, представляет собой объект- **WebOptions** .
+Returns or sets a  **Boolean** value that specifies whether Web pages within a Web publication should always be saved using default encoding. If **True**, Web pages within a publication will always be saved using the default encoding of the client computer. If  **False**, Web pages will not be saved using default encoding. The default value is  **False**. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **AlwaysSaveInDefaultEncoding**
 
-
-## <a name="remarks"></a>Заметки
-
-Если свойство **AlwaysSaveInDefaultEncoding** имеет значение **True** для того или иного объекта **WebOptions** , будут игнорироваться все последующие попытки присвойте свойству **[Кодировка](weboptions-encoding-property-publisher.md)** для этого объекта.
+ _expression_A variable that represents a  **WebOptions** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере проверяется ли веб-публикации в настоящее время задано значение быть сохранен в кодировке по умолчанию. Если так, свойство **AlwaysSaveInDefaultEncoding** имеет значение **False**, а свойство **Encoding** используется для задания кодировки Юникод (UTF-8).
+Boolean
+
+
+## Remarks
+
+If the  **AlwaysSaveInDefaultEncoding** property is set to **True** on a given **WebOptions** object, any subsequent attempts to set the **[Encoding](weboptions-encoding-property-publisher.md)** property on that object will be ignored.
+
+
+## Example
+
+The following example tests whether the Web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
 
 
 ```vb

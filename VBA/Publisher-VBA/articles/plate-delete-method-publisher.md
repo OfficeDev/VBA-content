@@ -1,58 +1,60 @@
 ---
-title: "Метод Plate.Delete (издатель)"
+title: Plate.Delete Method (Publisher)
 keywords: vbapb10.chm2883600
-f1_keywords: vbapb10.chm2883600
+f1_keywords:
+- vbapb10.chm2883600
 ms.prod: publisher
-api_name: Publisher.Plate.Delete
+api_name:
+- Publisher.Plate.Delete
 ms.assetid: fadaba7c-6636-f1e2-e360-3fcf8700ab36
 ms.date: 06/08/2017
-ms.openlocfilehash: 2b6a5063554ad9722ae82dd58109117982d50672
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="platedelete-method-publisher"></a>Метод Plate.Delete (издатель)
-
-Удаление указанной формы.
 
 
-## <a name="syntax"></a>Синтаксис
+# Plate.Delete Method (Publisher)
 
- _выражение_. **Удаление** ( **_PlateReplaceWith_**, **_ReplaceTint_**)
-
- переменная _expression_A, представляющий объект **формы** .
+Deletes the specified plate.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Delete**( **_PlateReplaceWith_**,  **_ReplaceTint_**)
+
+ _expression_A variable that represents a  **Plate** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PlateReplaceWith|Необязательный| **Variant**| **Формы**. Формы, с которыми следует заменить удаленные формы.|
-|ReplaceTint|Необязательный| **PbReplaceTint**|Как заменить оттенки.|
+|PlateReplaceWith|Optional| **Variant**| **Plate**. The plate with which to replace the deleted plate.|
+|ReplaceTint|Optional| **PbReplaceTint**|How to replace tints.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Возвращает «Отказано в доступе» при попытке удалить последний элемент в коллекции **формы** .
+Returns "Permission Denied" if you attempt to delete the last plate in the  **Plates** collection.
 
-Параметр ReplaceTint может иметь одно из следующих констант **pbReplaceTint** .
-
-
-
-| **pbReplaceTintKeepTints**| Ведение процентного tint рукописного ввода, представленное замены формы как и удаленные формы. Например, замените tint 100% желтый tint 100% синего. | | **pbReplaceTintMaintainLuminosity**| Ведение такое же значение яркости в рукописного ввода, представленное замены формы как и удаленные формы. Например, замените tint 100% желтого примерно 10% tint синий. | | **pbReplaceTintUseDefault**| Используйте имя по умолчанию. | Если указана константа **pbReplaceTintMaintainLuminosity** , процент которое рукописный текст в каждом цвет, рассчитывается на основании значения яркости печати, представленное удаленного и замену формы. Publisher выполняет следующие вычисления, где _уровня 1_ — яркость удаленных рукописного ввода, а _L2_ — яркость рукописного ввода замены: (100 - _уровня 1_) / (100 - _L2_).
-
-К примеру красный рукописного ввода имеет яркость 30 и черно имеет яркость 0. Предположим, что элемент красный рукописного ввода в публикации заменяется на форме черного. Если указано **pbReplaceTintKeepTints** Publisher выполняет следующие вычисления для определения процент черного рукописного ввода для каждого красный цвет: (100-30)/(100-0). Цвет, который был 100% красный будет 70% белым. цвет, который был 50% красного будет 35% черного и т. д.
-
-Если указана константа **pbReplaceTintKeepTints** , процент рукописный текст замены в каждой цветовой совпадает с удаленного цвет. Например красный рукописного ввода при замене черного канала, tint 100% красного заменяется на 100% tint черным, 50% красного с 50% черного и т. д.
-
-Нельзя указать константы **pbReplaceTintMaintainLuminosity** или **pbReplaceTintUseDefault** , если формы замены представляет рукописный фрагмент, который имеет больше яркость (является более светлый) чем формы «удаленные». Это так, как использовать облегченный рукописного ввода не в заданное более 100%, поэтому он не будет соответствовать яркость более темные рукописного ввода.
+The ReplaceTint parameter can be one of the following  **pbReplaceTint** constants.
 
 
-## <a name="example"></a>Пример
 
-В следующем примере циклически просматривает коллекцию форм active публикации, определяет, какие формы представляют красок в публикации не используется и их удаление. В этом примере предполагается, что по крайней мере один из формы уже используется (метод Delete возвращает «Отказано в доступе» при попытке удалить последний элемент в коллекции.)
+| **pbReplaceTintKeepTints**|Maintain the same tint percentage in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with a 100% tint of blue.|
+| **pbReplaceTintMaintainLuminosity**| Maintain the same lightness value in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with an approximately 10% tint of blue.|
+| **pbReplaceTintUseDefault**|Use the default. |
+If the  **pbReplaceTintMaintainLuminosity** constant is specified, the percentage of replacment ink in each color is calculated based on the luminosity values of the inks represented by the deleted and replacement plates. Publisher performs the following calculation, where _L1_ is the deleted ink luminosity, and _L2_ is the replacement ink luminosity: (100- _L1_)/(100- _L2_).
+
+For example, red ink has a luminosity of 30, and black has a luminosity of 0. Suppose you replaced the red ink plate in a publication with a black ink plate. If  **pbReplaceTintKeepTints** is specified, Publisher performs the following calculation to determine the percentage of black ink for each red color: (100-30)/(100-0). A color that was 100% red would now be 70% black; a color that was 50% red would now be 35% black, and so on.
+
+If the  **pbReplaceTintKeepTints** constant is specified, the percentage of the replacement ink in each color is the same as the deleted color. For example, if red ink is replaced with black ink, 100% tint of red is replaced by 100% tint of black, 50% red with 50% black, and so on.
+
+You cannot specify the  **pbReplaceTintMaintainLuminosity** or **pbReplaceTintUseDefault** constants if the replacement plate represents an ink that has a higher luminosity (that is, is lighter) than the deleted plate. This is because the lighter ink can not be printed at more than 100%, so it will not be able to match the luminosity of the darker ink.
+
+
+## Example
+
+The following example loops through the active publication's plates collection, determines which plates represent inks not used in the publication, and deletes them. This example assumes that at least one of the plates is in use (the Delete method returns "Permission Denied" if you attempt to delete the last plate in the collection.)
 
 
 ```vb

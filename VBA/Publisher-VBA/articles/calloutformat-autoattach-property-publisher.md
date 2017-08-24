@@ -1,46 +1,45 @@
 ---
-title: "Свойство CalloutFormat.AutoAttach (издатель)"
+title: CalloutFormat.AutoAttach Property (Publisher)
 keywords: vbapb10.chm2490626
-f1_keywords: vbapb10.chm2490626
+f1_keywords:
+- vbapb10.chm2490626
 ms.prod: publisher
-api_name: Publisher.CalloutFormat.AutoAttach
+api_name:
+- Publisher.CalloutFormat.AutoAttach
 ms.assetid: 893303d8-97fe-9eea-8d6e-d9110c75ee84
 ms.date: 06/08/2017
-ms.openlocfilehash: d9bb5a593152f67b04b82b505a2381d59a80d581
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="calloutformatautoattach-property-publisher"></a>Свойство CalloutFormat.AutoAttach (издатель)
-
-Возвращает или задает константой **MsoTriState**, указывающее, является ли место, где линии выноски подключает текстовое поле выноски изменяется в зависимости от того, является ли origin линии выноски (где выноски указывает) слева или справа от надписи выноски. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# CalloutFormat.AutoAttach Property (Publisher)
 
- _выражение_. **AutoAttach**
-
- переменная _expression_A, представляет собой объект- **CalloutFormat** .
+Returns or sets an  **MsoTriState**constant indicating whether the place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points) is to the left or right of the callout text box. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **AutoAttach**
+
+ _expression_A variable that represents a  **CalloutFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **AutoAttach** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **AutoAttach** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Если значение этого свойства **msoTrue**, текстовое поле справа от источника, и измеряется в нижней части текстового поля при текстовом поле слева от происхождения при значение перетаскивания (вертикальной расстояние от края текстовое поле выноски в то место, где подключает линии выноски) отсчитывается от верхней части текстового поля. Если значение этого свойства **msoFalse**, значение перетаскивания всегда отсчитывается от верхней части текстового поля, независимо от того, относительное расположение текстовое поле и источник. Метод [CustomDrop](calloutformat-customdrop-method-publisher.md)используется для установки значения раскрывающегося и используйте свойство [поместите](calloutformat-drop-property-publisher.md)для возврата значения размещения сообщений.
+When the value of this property is  **msoTrue**, the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it is measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is  **msoFalse**, the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the  [CustomDrop](calloutformat-customdrop-method-publisher.md)method to set the drop value, and use the  [Drop](calloutformat-drop-property-publisher.md)property to return the drop value.
 
-Установка для этого свойства влияет на выноске только в том случае, если он имеет явным образом установлен перетащите значение, то есть, если значение свойства [DropType](calloutformat-droptype-property-publisher.md) **msoCalloutDropCustom**. По умолчанию выноски задать размещения значения при создании.
+Setting this property affects a callout only if it has an explicitly set drop value—that is, if the value of the  [DropType](calloutformat-droptype-property-publisher.md)property is  **msoCalloutDropCustom**. By default, callouts have explicitly set drop values when they are created.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется два выноски для первой страницы. Один из выноски подключен автоматически, а другое — не. При изменении происхождение строки выноски для автоматически вложенные выноски справа от вложенные текстовое поле, изменяется положение текстовое поле. Выноска, не подключенного автоматически не отображает это поведение.
+This example adds two callouts to the first page. One of the callouts is automatically attached and the other is not. If you change the callout line origin for the automatically attached callout to the right of the attached text box, the position of the text box changes. The callout that is not automatically attached does not display this behavior.
 
 
 ```vb

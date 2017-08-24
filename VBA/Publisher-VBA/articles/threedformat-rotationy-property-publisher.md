@@ -1,42 +1,41 @@
 ---
-title: "Свойство ThreeDFormat.RotationY (издатель)"
+title: ThreeDFormat.RotationY Property (Publisher)
 keywords: vbapb10.chm3801360
-f1_keywords: vbapb10.chm3801360
+f1_keywords:
+- vbapb10.chm3801360
 ms.prod: publisher
-api_name: Publisher.ThreeDFormat.RotationY
+api_name:
+- Publisher.ThreeDFormat.RotationY
 ms.assetid: 571f090b-71a8-c92e-b4d8-4f21a4c383ed
 ms.date: 06/08/2017
-ms.openlocfilehash: b8f84c10d33508254cb56744e2cebe00c097e781
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformatrotationy-property-publisher"></a>Свойство ThreeDFormat.RotationY (издатель)
-
-Возвращает или задает поворот вытянутый фигуры относительно оси y в градусов. Может быть в диапазоне от - 90 до 90. Положительное значение указывает вращение слева; отрицательное значение указывает вращение справа. Чтение и запись **одного**.
 
 
-## <a name="syntax"></a>Синтаксис
+# ThreeDFormat.RotationY Property (Publisher)
 
- _выражение_. **RotationY**
-
- переменная _expression_A, представляет собой объект- **ThreeDFormat** .
+Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **RotationY**
 
-
-## <a name="remarks"></a>Заметки
-
-Чтобы задать поворот вытянутый фигуры относительно оси x, используйте свойство **[RotationX](threedformat-rotationx-property-publisher.md)** объекта **ThreeDFormat** . Чтобы задать поворот вытянутый фигуры относительно оси z, используйте свойство **[Вращение](shape-rotation-property-publisher.md)** объекта **[Shape](shape-object-publisher.md)** . Чтобы изменить направление придания объема конечный путь без вращающимся лицевой изменяется, используйте метод **[SetExtrusionDirection](threedformat-setextrusiondirection-method-publisher.md)** .
+ _expression_A variable that represents a  **ThreeDFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляется три идентичные вытянутый овалов в активный документ и устанавливает их поворот вокруг оси y - 30, 0 до 30 градусов, соответственно.
+Single
+
+
+## Remarks
+
+To set the rotation of the extruded shape around the x-axis, use the  **[RotationX](threedformat-rotationx-property-publisher.md)** property of the  **ThreeDFormat** object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the  **[SetExtrusionDirection](threedformat-setextrusiondirection-method-publisher.md)** method.
+
+
+## Example
+
+This example adds three identical extruded ovals to the active document and sets their rotation around the y-axis to - 30, 0, and 30 degrees, respectively.
 
 
 ```vb

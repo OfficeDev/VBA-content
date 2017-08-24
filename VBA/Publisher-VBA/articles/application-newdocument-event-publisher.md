@@ -1,40 +1,39 @@
 ---
-title: "Событие Application.NewDocument (издатель)"
+title: Application.NewDocument Event (Publisher)
 keywords: vbapb10.chm268435462
-f1_keywords: vbapb10.chm268435462
+f1_keywords:
+- vbapb10.chm268435462
 ms.prod: publisher
-api_name: Publisher.Application.NewDocument
+api_name:
+- Publisher.Application.NewDocument
 ms.assetid: 629cf55c-5134-4207-14df-143b517b9f36
 ms.date: 06/08/2017
-ms.openlocfilehash: b0643150d7d9bc2c8ab5466e310bb5df2d1cc7d1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationnewdocument-event-publisher"></a>Событие Application.NewDocument (издатель)
-
-Происходит при создании новой публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.NewDocument Event (Publisher)
 
- _выражение_. **NewDocument** ( **_Doc_**),
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs when a new publication is created.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **NewDocument**( **_Doc_**, )
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Новый документ.|
+|Doc|Required| **Document**|The new document.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выводится сообщение при создании новой публикации.
+This example displays a message when a new publication is created.
 
 
 ```vb
@@ -44,11 +43,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

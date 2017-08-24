@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextFrame.MarginBottom (издатель)"
+title: TextFrame.MarginBottom Property (Publisher)
 keywords: vbapb10.chm3866647
-f1_keywords: vbapb10.chm3866647
+f1_keywords:
+- vbapb10.chm3866647
 ms.prod: publisher
-api_name: Publisher.TextFrame.MarginBottom
+api_name:
+- Publisher.TextFrame.MarginBottom
 ms.assetid: 55858bba-1103-48ba-64d6-5cc5ab677867
 ms.date: 06/08/2017
-ms.openlocfilehash: aff67c5c91ea4b92b16df6c5362fd183e25ee4b7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textframemarginbottom-property-publisher"></a>Свойство TextFrame.MarginBottom (издатель)
-
-Возвращает или задает **Variant** , который представляет дискового пространства (в точках) между текстом и нижний край ячейки, текстового фрейма или страницы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextFrame.MarginBottom Property (Publisher)
 
- _выражение_. **MarginBottom**
-
- переменная _expression_A, представляет собой объект- **TextFrame** .
+Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the bottom edge of a cell, text frame, or page. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере задается полей активной публикации для двух дюйма.
+ _expression_. **MarginBottom**
+
+ _expression_A variable that represents a  **TextFrame** object.
+
+
+## Example
+
+This example sets the margins of the active publication to two inches.
 
 
 ```vb

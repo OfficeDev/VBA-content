@@ -1,44 +1,43 @@
 ---
-title: "Свойство TextRange.InlineShapes (издатель)"
+title: TextRange.InlineShapes Property (Publisher)
 keywords: vbapb10.chm5308498
-f1_keywords: vbapb10.chm5308498
+f1_keywords:
+- vbapb10.chm5308498
 ms.prod: publisher
-api_name: Publisher.TextRange.InlineShapes
+api_name:
+- Publisher.TextRange.InlineShapes
 ms.assetid: ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44
 ms.date: 06/08/2017
-ms.openlocfilehash: 07b43f3679ae1637702d7a22dfb159c867cd5644
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeinlineshapes-property-publisher"></a>Свойство TextRange.InlineShapes (издатель)
-
-Возвращает коллекцию **[InlineShapes](inlineshapes-object-publisher.md)** , который представляет встроенных фигур, содержащихся в диапазон текста. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.InlineShapes Property (Publisher)
 
- _выражение_. **InlineShapes**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns an  **[InlineShapes](inlineshapes-object-publisher.md)** collection, which represents the inline shapes contained within a text range. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **InlineShapes**
+
+ _expression_A variable that represents an  **TextRange** object.
+
+
+### Return Value
 
 InlineShapes
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-С помощью **TextFrame.Story.TextRange.InlineShapes** возвращает всех встроенных фигур в рамке, включая те, которые находятся в переполнения. С помощью **TextFrame.TextRange.InlineShapes** возвращает только видимые встроенных фигур в фрагмент текста, а не указанные в переполнения.
+Using  **TextFrame.Story.TextRange.InlineShapes** will return all inline shapes in a text frame, including those that are in overflow. Using **TextFrame.TextRange.InlineShapes** will return only visible inline shapes in a text frame, and not those that are in overflow.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример находит первую фигуру (текстовое поле) на странице один из активных публикации. Свойство **InlineShapes** затем используется для определения, существует ли фигуры, встроенного в текстовом поле. Если обнаружены какие-либо, каждой фигуры встроенного отражается по вертикали и установленное красный цвет переднего плана.
+The following example finds the first shape (a text box) on page one of the active publication. The  **InlineShapes** property is then used to determine whether any inline shapes exist in the text box. If any are found, each inline shape is flipped vertically, and its fore color is set to red.
 
-Обратите внимание на то, с помощью **TextFrame.Story.TextRange.InlineShapes**встроенного фигуры, которые находятся в переполнения также обнаружения.
+Note that by using  **TextFrame.Story.TextRange.InlineShapes**, any inline shapes that are in overflow will also be found.
 
 
 

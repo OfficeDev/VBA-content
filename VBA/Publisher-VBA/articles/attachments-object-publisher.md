@@ -1,57 +1,56 @@
 ---
-title: "Объект вложения (издатель)"
+title: Attachments Object (Publisher)
 keywords: vbapb10.chm9175039
-f1_keywords: vbapb10.chm9175039
+f1_keywords:
+- vbapb10.chm9175039
 ms.prod: publisher
-api_name: Publisher.Attachments
+api_name:
+- Publisher.Attachments
 ms.assetid: 61957961-8c75-992f-159c-51412ed309ea
 ms.date: 06/08/2017
-ms.openlocfilehash: c1fdc5fb765c63c59ed27912ee09b3685205b9e4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="attachments-object-publisher"></a>Объект вложения (издатель)
 
-Коллекция объектов **[вложения](attachment-object-publisher.md)** , представляющий все вложения в сообщение электронной почты объединенных.
+
+# Attachments Object (Publisher)
+
+The collection of  **[Attachment](attachment-object-publisher.md)** objects that represents all the attachments to a merged e-mail message.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Коллекции **вложения** соответствует списку вложения в окне " **вложения** " в диалоговом окне **Слияние по электронной почте** в интерфейсе пользователя Microsoft Publisher (в меню **файл** выберите команду **Отправить**сообщение, нажмите кнопку **Отправить слияния почты**и нажмите кнопку **Параметры**).
- 
-
- 
-Чтобы добавить объект **вложения** в коллекцию **вложений** и таким образом добавить вложения в списке вложений в объединенные сообщение электронной почты, который требуется отправить, используйте метод **Attachments.Add** .
+The  **Attachments** collection corresponds to the list of attachments in the **Attachments** box in the **Merge to E-mail** dialog box in the Microsoft Publisher user interface (on the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**).
  
 
  
-Чтобы удалить одного вложения из сообщения электронной почты объединения, используйте метод **Attachment.Delete** определенного объекта **вложения** , которое требуется удалить из коллекции **вложения** .
+To add an  **Attachment** object to the **Attachments** collection and thereby add an attachment to the list of attachments to the merged e-mail that you want to send, use the **Attachments.Add** method.
  
 
  
-Чтобы удалить все вложения в объединенном сообщение электронной почты и таким образом, пустая коллекция **вложения** , используйте метод **Attachments.ClearAll** .
+To remove a single attachment from an e-mail merge message, use the  **Attachment.Delete** method of the specific **Attachment** object that you want to remove from the **Attachments** collection.
  
 
  
-Свойство по умолчанию коллекции **вложения** — это свойство **Item** .
+To remove all the attachments to the merged e-mail and thereby empty the  **Attachments** collection, use the **Attachments.ClearAll** method.
+ 
+
+ 
+The default property of the  **Attachments** collection is the **Item** property.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **Add** для добавления вложения в сообщение электронной почты merge. Макрос добавляет объект **вложения** , представляющий растрового изображения в коллекцию **вложений** активных документов. Также итерацию по коллекции **вложений** и печатает имя каждого вложения в окне **Интерпретация** .
- 
-
- 
-Прежде чем запустить этот макрос, поместите файл с именем _image.bmp_ в корне диска C на вашем компьютере или измените имя и путь к файлу в макросе для указания на то, что необходимо присоединить.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Add** method to add an attachment to an e-mail merge message. The macro adds an **Attachment** object that represents a bitmap image to the **Attachments** collection of the active document. It also iterates through the **Attachments** collection and prints the name of each attachment in the **Immediate** window.
  
 
  
-Отправка сообщения электронной почты объединения, необходимо подключение к источнику данных, создание слияния почты и отправьте сообщение. Дополнительные сведения см в разделе объекта **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** .
+Before running this macro, place a file named  _image.bmp_ in the root of the C drive on your computer, or change the name and path of the file in the macro to specify the one you want to attach.
+ 
+
+ 
+To send an e-mail merge message, you must connect to a data source, create the e-mail merge, and then send the message. For more information, see the **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** object topic.
  
 
  
@@ -81,23 +80,23 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Добавление](attachments-add-method-publisher.md)|
+|[Add](attachments-add-method-publisher.md)|
 |[ClearAll](attachments-clearall-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](attachments-application-property-publisher.md)|
+|[Application](attachments-application-property-publisher.md)|
 |[Count](attachments-count-property-publisher.md)|
-|[Элемент](attachments-item-property-publisher.md)|
-|[Родительский раздел](attachments-parent-property-publisher.md)|
+|[Item](attachments-item-property-publisher.md)|
+|[Parent](attachments-parent-property-publisher.md)|
 

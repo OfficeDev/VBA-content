@@ -1,51 +1,50 @@
 ---
-title: "Свойство PictureFormat.HasAlphaChannel (издатель)"
+title: PictureFormat.HasAlphaChannel Property (Publisher)
 keywords: vbapb10.chm3604758
-f1_keywords: vbapb10.chm3604758
+f1_keywords:
+- vbapb10.chm3604758
 ms.prod: publisher
-api_name: Publisher.PictureFormat.HasAlphaChannel
+api_name:
+- Publisher.PictureFormat.HasAlphaChannel
 ms.assetid: 97739201-cd0d-cc78-a28e-935fb11da5b3
 ms.date: 06/08/2017
-ms.openlocfilehash: 67cfdf3743933d6f46eacf4ca940a0141bd19cdf
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformathasalphachannel-property-publisher"></a>Свойство PictureFormat.HasAlphaChannel (издатель)
-
-Возвращает константу **MsoTriState** , указывающее, содержит ли указанный рисунок альфа-канал. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.HasAlphaChannel Property (Publisher)
 
- _выражение_. **HasAlphaChannel**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Returns an  **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HasAlphaChannel**
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Альфа-канал — это специальные 8-разрядный канал, используемых обработки программного обеспечения изображения для хранения дополнительных данных, например маскирование или сведения о прозрачности.
+An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking or transparency information.
 
-Значение свойства **HasAlphaChannel** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **HasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Указанный рисунок не содержит альфа-канал.|
-| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTrue**|Указанный рисунок содержит альфа-канал.|
+| **msoFalse**|The specified picture does not contain an alpha channel.|
+| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTrue**|The specified picture contains an alpha channel.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере возвращается, содержит ли первую фигуру на первой странице активная публикация альфа-канал. Если связь изображения, а исходный рисунок содержит альфа-канал, также возвращаются. В этом примере предполагается, что фигурой является рисунок.
+The following example returns whether the first shape on the first page of the active publication contains an alpha channel. If the picture is linked, and the original picture contains an alpha channel, that is also returned. This example assumes the shape is a picture.
 
 
 ```vb

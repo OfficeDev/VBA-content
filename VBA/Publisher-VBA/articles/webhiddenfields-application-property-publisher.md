@@ -1,32 +1,31 @@
 ---
-title: "Свойство WebHiddenFields.Application (издатель)"
+title: WebHiddenFields.Application Property (Publisher)
 keywords: vbapb10.chm3997697
-f1_keywords: vbapb10.chm3997697
+f1_keywords:
+- vbapb10.chm3997697
 ms.prod: publisher
-api_name: Publisher.WebHiddenFields.Application
+api_name:
+- Publisher.WebHiddenFields.Application
 ms.assetid: b5b9d18f-cf96-8c26-acc0-c66df68426c0
 ms.date: 06/08/2017
-ms.openlocfilehash: 9ba4a6853fecc27d56cbca598dfea5a6abf3b14a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webhiddenfieldsapplication-property-publisher"></a>Свойство WebHiddenFields.Application (издатель)
-
-При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebHiddenFields.Application Property (Publisher)
 
- _выражение_. **Приложения**
-
- переменная _expression_A, представляет собой объект- **WebHiddenFields** .
+Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображаются сведения о версии и построения для Publisher.
+ _expression_. **Application**
+
+ _expression_A variable that represents a  **WebHiddenFields** object.
+
+
+## Example
+
+This example displays the version and build information for Publisher.
 
 
 ```vb
@@ -36,7 +35,7 @@ With Application
 End With
 ```
 
-В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
+This example displays the name of the application that created each linked OLE object on page one of the active publication.
 
 
 

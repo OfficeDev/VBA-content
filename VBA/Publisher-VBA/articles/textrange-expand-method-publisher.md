@@ -1,52 +1,51 @@
 ---
-title: "Метод TextRange.Expand (издатель)"
+title: TextRange.Expand Method (Publisher)
 keywords: vbapb10.chm5308421
-f1_keywords: vbapb10.chm5308421
+f1_keywords:
+- vbapb10.chm5308421
 ms.prod: publisher
-api_name: Publisher.TextRange.Expand
+api_name:
+- Publisher.TextRange.Expand
 ms.assetid: 66d8b1a3-5fc4-bed7-94d2-06be6203e1e9
 ms.date: 06/08/2017
-ms.openlocfilehash: 57ba322cea87c1fe0305b9740fdf948ab0d85b05
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeexpand-method-publisher"></a>Метод TextRange.Expand (издатель)
-
-При развертывании указанный диапазон или выделить фрагмент. Возвращает или задает типа **Long** , представляющее номер указанного единицы, добавляемого диапазон или выделить фрагмент.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Expand Method (Publisher)
 
- _выражение_. **Разверните узел** ( **_Единицы_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Expands the specified range or selection. Returns or sets a  **Long** that represents the number of specified units added to the range or selection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Expand**( **_Unit_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Подразделения|Обязательное свойство.| **PbTextUnit**|Единица, на которое нужно расширить диапазон.|
+|Unit|Required| **PbTextUnit**|The unit by which to expand the range.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Длинный
-
-
-## <a name="remarks"></a>Заметки
-
-Метод **развертывания** перемещает обе конечные точки диапазона, если это необходимо; Чтобы переместить только одну конечную точку диапазона, используйте метод **[методов MoveStart](textrange-movestart-method-publisher.md)** и **[MoveEnd](textrange-moveend-method-publisher.md)** .
-
-Параметр устройства может иметь одно из **[PbTextUnit](pbtextunit-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+Long
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере создается диапазон, который ссылается на первое слово в первую фигуру active публикации, шрифта, используемого для word, а затем его расширяет диапазон ссылок на всей первый абзац и форматирование шрифта для всей строки.
+The  **Expand** method moves both endpoints of a range if necessary; to move only one endpoint of a range, use the **[MoveStart](textrange-movestart-method-publisher.md)** or **[MoveEnd](textrange-moveend-method-publisher.md)** method.
+
+The Unit parameter can be one of the  **[PbTextUnit](pbtextunit-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+
+
+## Example
+
+This example creates a range that refers to the first word in the first shape of the active publication, formats the font for the word, and then it expands the range to reference the entire first paragraph and formats the font for the whole line.
 
 
 ```vb

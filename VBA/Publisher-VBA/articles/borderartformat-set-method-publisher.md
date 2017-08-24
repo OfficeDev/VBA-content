@@ -1,45 +1,44 @@
 ---
-title: "Метод BorderArtFormat.Set (издатель)"
+title: BorderArtFormat.Set Method (Publisher)
 keywords: vbapb10.chm7602185
-f1_keywords: vbapb10.chm7602185
+f1_keywords:
+- vbapb10.chm7602185
 ms.prod: publisher
-api_name: Publisher.BorderArtFormat.Set
+api_name:
+- Publisher.BorderArtFormat.Set
 ms.assetid: e068037b-56b6-a114-6b22-568ea20d6b25
 ms.date: 06/08/2017
-ms.openlocfilehash: 648da309ad7dcdc9a0fe8322619381fa12890ff5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="borderartformatset-method-publisher"></a>Метод BorderArtFormat.Set (издатель)
-
-Задает тип Узорные применена к указанной фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# BorderArtFormat.Set Method (Publisher)
 
- _выражение_. **Установка** ( **_BorderArtName_**)
-
- переменная _expression_A, представляет собой объект- **BorderArtFormat** .
+Sets the type of BorderArt applied to the specified shape.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Set**( **_BorderArtName_**)
+
+ _expression_A variable that represents a  **BorderArtFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|BorderArtName|Обязательное свойство.| **Variant**|Имя типа Узорные, применяемые к указанной фигуры.|
+|BorderArtName|Required| **Variant**|The name of the BorderArt type applied to the specified shape.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Также можно задать тип Узорные, применяемые к фигуре с помощью свойства **[Name](borderartformat-name-property-publisher.md)** .
+You can also set the type of BorderArt applied to a shape using the  **[Name](borderartformat-name-property-publisher.md)** property.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример проверяет наличие Узорные на каждой фигуры для каждой страницы активных документов. Все найденные Узорные присвоено значение того же типа.
+The following example tests for the existence of BorderArt on each shape for each page of the active document. Any BorderArt found is set to the same type.
 
 
 ```vb
@@ -63,11 +62,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект BorderArtFormat](borderartformat-object-publisher.md)
+ [BorderArtFormat Object](borderartformat-object-publisher.md)
 

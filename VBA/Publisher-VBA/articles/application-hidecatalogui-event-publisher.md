@@ -1,37 +1,36 @@
 ---
-title: "Событие Application.HideCatalogUI (издатель)"
+title: Application.HideCatalogUI Event (Publisher)
 keywords: vbapb10.chm268435494
-f1_keywords: vbapb10.chm268435494
+f1_keywords:
+- vbapb10.chm268435494
 ms.prod: publisher
-api_name: Publisher.Application.HideCatalogUI
+api_name:
+- Publisher.Application.HideCatalogUI
 ms.assetid: a7ac7594-18fe-355e-d270-d205c405862a
 ms.date: 06/08/2017
-ms.openlocfilehash: ab711cb964973a43df86aa869e89f49d7158fd61
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationhidecatalogui-event-publisher"></a>Событие Application.HideCatalogUI (издатель)
-
-Происходит, когда каталога мастера публикации скрыта в пользовательском интерфейсе Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.HideCatalogUI Event (Publisher)
 
- _выражение_. **HideCatalogUI**
-
- _expression_An выражение, возвращающее объект **приложения** .
+Occurs when the catalog of publication wizards is hidden in the Microsoft Publisher user interface.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+ _expression_. **HideCatalogUI**
+
+ _expression_An expression that returns a  **Application** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **HideCatalogUI** . Будет выведено сообщение о том, что скрыто каталога пользовательского интерфейса.
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+
+
+## Example
+
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **HideCatalogUI** event. It displays a message notifying the user that the catalog UI is hidden.
 
 
 ```vb
@@ -40,7 +39,7 @@ Private Sub pubApplication_HideCatalogUI()
 End Sub
 ```
 
-Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
+For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
 
 
 
@@ -49,7 +48,7 @@ End Sub
 Private WithEvents pubApplication As Application
 ```
 
-Затем выполните следующую процедуру инициализации.
+Then run the following initialization procedure.
 
 
 
@@ -61,11 +60,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

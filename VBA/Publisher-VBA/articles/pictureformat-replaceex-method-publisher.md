@@ -1,52 +1,53 @@
 ---
-title: "Метод PictureFormat.ReplaceEx (издатель)"
+title: PictureFormat.ReplaceEx Method (Publisher)
 keywords: vbapb10.chm3604808
-f1_keywords: vbapb10.chm3604808
+f1_keywords:
+- vbapb10.chm3604808
 ms.prod: publisher
-api_name: Publisher.PictureFormat.ReplaceEx
+api_name:
+- Publisher.PictureFormat.ReplaceEx
 ms.assetid: 0f1b9eaf-51b6-ae21-518f-55663184ab87
 ms.date: 06/08/2017
-ms.openlocfilehash: 081703ec3927e5d8564ae4b8bdd27b0ec542bd98
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatreplaceex-method-publisher"></a>Метод PictureFormat.ReplaceEx (издатель)
-
-Заменяет указанный рисунок, при необходимости Подгонка замещающего рисунка в элементе frame или заполнение фрейма. Возвращает значение nothing.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.ReplaceEx Method (Publisher)
 
- _выражение_. **ReplaceEx** ( _Pathname_, _InsertAs_ _под размер_)
-
- переменная _expression_A, представляет собой объект- [PictureFormat](pictureformat-object-publisher.md) .
+Replaces the specified picture, optionally fitting the replacement picture to the frame or filling the frame. Returns nothing.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ReplaceEx**( _Pathname_,  _InsertAs_,  _Fit_)
+
+ _expression_A variable that represents a  [PictureFormat](pictureformat-object-publisher.md) object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя пути|Обязательное свойство.| **String**|Имя и путь к файлу, с которым вы хотите заменить указанный рисунок.|
-|InsertAs|Необязательный| **[PbPictureInsertAs](pbpictureinsertas-enumeration-publisher.md)**|Так, в которой будет вставлено в документ файл рисунка: связанные или внедренные.|
-|Подобрать|Необязательный| **[pbPictureInsertFit](pbpictureinsertfit-enumeration-publisher.md)**|Является ли вставленное изображение Вписать в элементе frame или Заливка рамки.|
+|Pathname|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
+|InsertAs|Optional| **[PbPictureInsertAs](pbpictureinsertas-enumeration-publisher.md)**|The manner in which you want the picture file inserted into the document: linked or embedded.|
+|Fit|Optional| **[pbPictureInsertFit](pbpictureinsertfit-enumeration-publisher.md)**|Whether the inserted picture is fit to the frame, or fills the frame.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр _InsertAs_ может иметь одно из следующих **PbPictureInsertAs** константы, описанные в библиотеке типов, Microsoft Publisher. Значение по умолчанию — **pbPictureInsertAsOriginalState**.
+The  _InsertAs_ parameter can be one of the following **PbPictureInsertAs** constants declared in the Microsoft Publisher type library. The default value is **pbPictureInsertAsOriginalState**.
 
 
 
-| **pbPictureInsertAsEmbedded**|| **pbPictureInsertAsLinked**|| **pbPictureInsertAsOriginalState**|
+| **pbPictureInsertAsEmbedded**|
+| **pbPictureInsertAsLinked**|
+| **pbPictureInsertAsOriginalState**|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ReplaceEx** замена всех изображений в публикации на другой рисунок. В этом примере вписать замещающего рисунка в кадрах предыдущей изображения, но **pbFill** вместо **pbFit** можно использовать, если вместо этого заполняемых кадров. В этом примере также исключает изображения на главных страницах.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ReplaceEx** method to replace all the pictures in a publication with a different picture. In this example, the replacement picture is fit to the frames of the previous pictures, but you can use **pbFill** in place of **pbFit** if you want to fill the frames instead. This example also excludes pictures on master pages.
 
-Прежде чем запустить этот макрос, замените replacementPicturePath путь к изображению, которые вы хотите использовать в качестве замены.
+Before running this macro, replace replacementPicturePath with the path to the picture you want to use as the replacement.
 
 
 

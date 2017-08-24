@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebNavigationBarSet.IsHorizontal (издатель)"
+title: WebNavigationBarSet.IsHorizontal Property (Publisher)
 keywords: vbapb10.chm8519686
-f1_keywords: vbapb10.chm8519686
+f1_keywords:
+- vbapb10.chm8519686
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSet.IsHorizontal
+api_name:
+- Publisher.WebNavigationBarSet.IsHorizontal
 ms.assetid: d3bbb0b0-8d06-7d46-1ef7-fef0a3e846b7
 ms.date: 06/08/2017
-ms.openlocfilehash: fcf7d3f4ac8b1d62f61aeab460e4ff7caeb3d8ad
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsetishorizontal-property-publisher"></a>Свойство WebNavigationBarSet.IsHorizontal (издатель)
-
- **Значение true,** Если для указанного **WebNavigationBarSet** горизонтальное расположение. Только для чтения **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSet.IsHorizontal Property (Publisher)
 
- _выражение_. **IsHorizontal**
-
- переменная _expression_A, представляющий объект **WebNavigationBarSet** .
+ **True** if the specified **WebNavigationBarSet** has a horizontal orientation. Read-only **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **IsHorizontal**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство используется для определения ориентации установлено до установки некоторых свойств, которые предполагается горизонтальное расположение, такими как свойство **HorizontalAlignment** панели навигации.
+ _expression_A variable that represents an  **WebNavigationBarSet** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляет первой панели навигации в коллекции **WebNavigationBarSets** активного документа для каждой страницы и затем задает стиль кнопки для **малых**. Для определения, является ли набор панель навигации горизонтальной выполняется проверка. Если он не установлен, вызывается метод **ChangeOrientation** , ориентации задано значение **Горизонтальная**. После ориентирована на панели навигации по горизонтали, count горизонтальной кнопки задано значение **3** , горизонтальное выравнивание кнопок задано значение **слева**.
+Boolean
+
+
+## Remarks
+
+This property is used to determine the orientation of the navigation bar set prior to setting certain properties that assume a horizontal orientation such as the  **HorizontalAlignment** property.
+
+
+## Example
+
+This example adds the first navigation bar in the  **WebNavigationBarSets** collection of the active document to each page, and then sets the button style to **small**. A test is performed to determine whether the navigation bar set is horizontal or not. If it is not, the  **ChangeOrientation** method is called and the orientation is set to **horizontal**. After the navigation bar is oriented horizontally, the horizontal button count is set to  **3** and the horizontal alignment of the buttons is set to **left**.
 
 
 ```vb

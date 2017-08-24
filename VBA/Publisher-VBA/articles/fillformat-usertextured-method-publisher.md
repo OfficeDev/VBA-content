@@ -1,45 +1,44 @@
 ---
-title: "Метод FillFormat.UserTextured (издатель)"
+title: FillFormat.UserTextured Method (Publisher)
 keywords: vbapb10.chm2359320
-f1_keywords: vbapb10.chm2359320
+f1_keywords:
+- vbapb10.chm2359320
 ms.prod: publisher
-api_name: Publisher.FillFormat.UserTextured
+api_name:
+- Publisher.FillFormat.UserTextured
 ms.assetid: fe1a1e06-8bdc-8022-6d4b-6f320f587baf
 ms.date: 06/08/2017
-ms.openlocfilehash: 2df074109249847ff9add2b0bdfae0882c0805a8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformatusertextured-method-publisher"></a>Метод FillFormat.UserTextured (издатель)
-
-Заполняет указанный фигуры малых заголовков изображения.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.UserTextured Method (Publisher)
 
- _выражение_. **UserTextured** ( **_TextureFile_**)
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Fills the specified shape with small tiles of an image.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **UserTextured**( **_TextureFile_**)
+
+ _expression_A variable that represents a  **FillFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|TextureFile|Обязательное свойство.| **String**|Имя файла текстуры.|
+|TextureFile|Required| **String**|The name of the texture file.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Чтобы заполнить форму одно большое изображение, используйте метод **[UserPicture](fillformat-userpicture-method-publisher.md)** .
+To fill the shape with one large image, use the  **[UserPicture](fillformat-userpicture-method-publisher.md)** method.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется два прямоугольника active публикацию. Область в левой части заполняется одно большое изображение с; прямоугольник справа заполняется множество небольших заголовков и то же изображение. (Обратите внимание на то, что действительный путь к файлу для работы этого примера необходимо заменить PathToFile.)
+This example adds two rectangles to the active publication. The rectangle on the left is filled with one large image of a picture; the rectangle on the right is filled with many small tiles of the same picture. (Note that PathToFile must be replaced with a valid file path for this example to work.)
 
 
 ```vb

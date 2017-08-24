@@ -1,42 +1,41 @@
 ---
-title: "Свойство LayoutGuides.ColumnGutterWidth (издатель)"
+title: LayoutGuides.ColumnGutterWidth Property (Publisher)
 keywords: vbapb10.chm1114128
-f1_keywords: vbapb10.chm1114128
+f1_keywords:
+- vbapb10.chm1114128
 ms.prod: publisher
-api_name: Publisher.LayoutGuides.ColumnGutterWidth
+api_name:
+- Publisher.LayoutGuides.ColumnGutterWidth
 ms.assetid: 1c8fd297-1164-da50-cee8-390263cce5b0
 ms.date: 06/08/2017
-ms.openlocfilehash: 682cf3c15cd4ec11518a083e5ec157f21df5672a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="layoutguidescolumngutterwidth-property-publisher"></a>Свойство LayoutGuides.ColumnGutterWidth (издатель)
-
-Возвращает или задает ширину переплета столбцов, используемых объектом **LayoutGuides** для помощи в процессе с макетом элементы дизайна. Чтение и запись **одного**.
 
 
-## <a name="syntax"></a>Синтаксис
+# LayoutGuides.ColumnGutterWidth Property (Publisher)
 
- _выражение_. **ColumnGutterWidth**
-
- переменная _expression_A, представляет собой объект- **LayoutGuides** .
+Returns or sets the width of the column gutters that are used by the  **LayoutGuides** object to aid in the process of laying out design elements. Read/write **Single**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **ColumnGutterWidth**
 
-
-## <a name="remarks"></a>Заметки
-
-По умолчанию ширина столбца переплета — 0,4 дюйма.
+ _expression_A variable that represents a  **LayoutGuides** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере изменяется вторая главная страница active публикации, чтобы она имела четыре строки и четыре столбца, ширина переплета строки 0,75 дюйма, ширина столбца переплета 0,5 дюйма и центр строки в переплета. Новые страницы добавлены к публикации, используйте второй главную страницу как шаблон будет этих свойств.
+Single
+
+
+## Remarks
+
+The default width of column gutters is 0.4 inches.
+
+
+## Example
+
+The following example modifies the second master page of the active publication so that it has four rows and four columns, row gutter width of 0.75 inches, column gutter width of 0.5 inches, and center lines in the gutters. Any new pages added to the publication that use the second master page as a template will have these properties.
 
 
 ```vb

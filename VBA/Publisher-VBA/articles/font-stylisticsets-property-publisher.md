@@ -1,47 +1,46 @@
 ---
-title: "Свойство Font.StylisticSets (издатель)"
+title: Font.StylisticSets Property (Publisher)
 keywords: vbapb10.chm5374016
-f1_keywords: vbapb10.chm5374016
+f1_keywords:
+- vbapb10.chm5374016
 ms.prod: publisher
-api_name: Publisher.Font.StylisticSets
+api_name:
+- Publisher.Font.StylisticSets
 ms.assetid: 0d25fbf3-8d68-c10f-0d1b-526314700329
 ms.date: 06/08/2017
-ms.openlocfilehash: 7cad8f18fde0ba7470abcbf7285ebf16ab42e4fd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontstylisticsets-property-publisher"></a>Свойство Font.StylisticSets (издатель)
-
-Возвращает или задает **Variant** , который представляет состояние свойства **StylisticSets** на символов в диапазон текста. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.StylisticSets Property (Publisher)
 
- _выражение_. **StylisticSets**
-
- переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
+Returns or sets a  **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Свойство **StylisticSets** применяется от одного до 20 все более сложных наборов оформление стили для выбранного шрифта.
+ _expression_. **StylisticSets**
 
-В следующей таблице показаны возможные значения для свойства **StylisticSets** и как они связаны с идентификаторами для Стилистические наборы пользовательского интерфейса (UI). Значение нуль (0) указывает, что применяется не стилистический набор.
+ _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+
+
+## Remarks
+
+The  **StylisticSets** property applies from one to twenty increasingly complex sets of typography styles to the selected font.
+
+Possible values for the  **StylisticSets** property and how they correspond to identifiers for stylistic sets in the user interface (UI) are shown in the following table. A value of zero (0) indicates that no stylistic set is applied.
 
 
 
-|**Значение свойства StylisticSets**|**Стилистический набор идентификатор в пользовательском Интерфейсе**|
+|**StylisticSets property value**|**Stylistic set identifier in UI**|
 |:-----|:-----|
 |0|0|
 |1|1|
 |2|2|
 |4|3|
 |8|4|
-Номер стилистический наборов данных, доступных, может изменяться в зависимости от шрифта.
+The number of stylistic sets available varies, depending on the font.
 
 
- **Примечание**  Свойство **StylisticSets** имеет значение только для шрифтов OpenType, которые содержат Стилистические наборы.
+ **Note**  The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
 
 

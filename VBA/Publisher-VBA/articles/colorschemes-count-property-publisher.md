@@ -1,32 +1,31 @@
 ---
-title: "Свойство ColorSchemes.Count (издатель)"
+title: ColorSchemes.Count Property (Publisher)
 keywords: vbapb10.chm2752514
-f1_keywords: vbapb10.chm2752514
+f1_keywords:
+- vbapb10.chm2752514
 ms.prod: publisher
-api_name: Publisher.ColorSchemes.Count
+api_name:
+- Publisher.ColorSchemes.Count
 ms.assetid: cd3fe69f-df35-8dcd-1133-634983155592
 ms.date: 06/08/2017
-ms.openlocfilehash: 58a52442c722711cb2b7b9ccd3127b4b9f7f9f11
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorschemescount-property-publisher"></a>Свойство ColorSchemes.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorSchemes.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **ColorSchemes** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **ColorSchemes** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

@@ -1,45 +1,44 @@
 ---
-title: "Событие Application.MailMergeDataSourceLoad (издатель)"
+title: Application.MailMergeDataSourceLoad Event (Publisher)
 keywords: vbapb10.chm268435475
-f1_keywords: vbapb10.chm268435475
+f1_keywords:
+- vbapb10.chm268435475
 ms.prod: publisher
-api_name: Publisher.Application.MailMergeDataSourceLoad
+api_name:
+- Publisher.Application.MailMergeDataSourceLoad
 ms.assetid: afca3a05-d6a6-15f1-8cbf-593777066757
 ms.date: 06/08/2017
-ms.openlocfilehash: 988326d6d6fd292a4b2069817c8d083fc214abef
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationmailmergedatasourceload-event-publisher"></a>Событие Application.MailMergeDataSourceLoad (издатель)
-
-Происходит при загрузке источника данных для слияния почты.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.MailMergeDataSourceLoad Event (Publisher)
 
- _выражение_. **MailMergeDataSourceLoad** ( **_Doc_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs when the data source is loaded for a mail merge.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MailMergeDataSourceLoad**( **_Doc_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Основной документ слияния почты.|
+|Doc|Required| **Document**|The mail merge main document.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выводится сообщение с именем файла источника данных источника данных в начале загрузки.
+This example displays a message with the data source file name when the data source starts loading.
 
 
 ```vb
@@ -60,7 +59,7 @@ Private Sub MailMergeApp_MailMergeDataSourceLoad(ByVal Doc As Document)
 End Sub
 ```
 
-Чтобы произошло это событие необходимо поместить следующую строку кода в разделе Общие описаний модуля и выполнить следующую процедуру инициализации.
+For this event to occur, you must place the following line of code in the General Declarations section of your module and run the following initialization routine.
 
 
 
@@ -74,11 +73,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

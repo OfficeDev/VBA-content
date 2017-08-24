@@ -1,42 +1,41 @@
 ---
-title: "Свойство ParagraphFormat.ListNumberStart (издатель)"
+title: ParagraphFormat.ListNumberStart Property (Publisher)
 keywords: vbapb10.chm5439527
-f1_keywords: vbapb10.chm5439527
+f1_keywords:
+- vbapb10.chm5439527
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.ListNumberStart
+api_name:
+- Publisher.ParagraphFormat.ListNumberStart
 ms.assetid: 8e17fdaa-f53e-26c4-d92b-8ead65c28555
 ms.date: 06/08/2017
-ms.openlocfilehash: c9ce386df7b7456647c5b00b77f9ae4d1fd0080a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatlistnumberstart-property-publisher"></a>Свойство ParagraphFormat.ListNumberStart (издатель)
-
-Задает или получает **времени** , представляющий начальный номер списка. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.ListNumberStart Property (Publisher)
 
- _выражение_. **ListNumberStart**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Sets or retrieves a  **Long** that represents the starting number of a list. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **ListNumberStart**
 
-
-## <a name="remarks"></a>Заметки
-
-Возвращает сообщение «Доступ запрещен», если список не нумерованного списка.
+ _expression_A variable that represents a  **ParagraphFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере задается тип списка объекта **ParagraphFormat** **pbListTypeArabic** и устанавливает для свойства **ListNumber** значение 4.
+Long
+
+
+## Remarks
+
+Returns an "Access Denied" message if the list is not a numbered list.
+
+
+## Example
+
+This example sets the list type of a  **ParagraphFormat** object to **pbListTypeArabic** and sets the **ListNumber** property to 4.
 
 
 ```vb

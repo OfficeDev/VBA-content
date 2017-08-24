@@ -1,34 +1,33 @@
 ---
-title: "Метод WebHiddenFields.Delete (издатель)"
+title: WebHiddenFields.Delete Method (Publisher)
 keywords: vbapb10.chm3997701
-f1_keywords: vbapb10.chm3997701
+f1_keywords:
+- vbapb10.chm3997701
 ms.prod: publisher
-api_name: Publisher.WebHiddenFields.Delete
+api_name:
+- Publisher.WebHiddenFields.Delete
 ms.assetid: 7911f9fb-b578-ee20-b9fc-d1bca99b88e0
 ms.date: 06/08/2017
-ms.openlocfilehash: 60bd17667a5408442b88aff0202b2d65dea7f26d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webhiddenfieldsdelete-method-publisher"></a>Метод WebHiddenFields.Delete (издатель)
-
-Удаляет указанный скрытого поля Web или веб-объект элемента списка поля.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebHiddenFields.Delete Method (Publisher)
 
- _выражение_. **Удаление** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **WebHiddenFields** .
+Deletes the specified hidden Web field or Web list box item object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Delete**( **_Index_**)
+
+ _expression_A variable that represents a  **WebHiddenFields** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Длинный**|Число Web поля или поля элемента списка для удаления.|
+|Index|Required| **Long**|The number of the Web field or list box item to delete.|
 

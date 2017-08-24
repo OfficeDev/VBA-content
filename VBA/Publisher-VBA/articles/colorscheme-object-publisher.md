@@ -1,26 +1,25 @@
 ---
-title: "Объект ColorScheme (издатель)"
+title: ColorScheme Object (Publisher)
 keywords: vbapb10.chm2752511
-f1_keywords: vbapb10.chm2752511
+f1_keywords:
+- vbapb10.chm2752511
 ms.prod: publisher
-api_name: Publisher.ColorScheme
+api_name:
+- Publisher.ColorScheme
 ms.assetid: b4e554ef-f043-c963-e175-b7d5ba95c636
 ms.date: 06/08/2017
-ms.openlocfilehash: e7701a1630b2efe6b95dcb8830a6beae4773bb6c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorscheme-object-publisher"></a>Объект ColorScheme (издатель)
 
-Представляет цветовая схема, которая представляет собой набор из восьми цветов, используемые для различных элементов публикации. Каждый цвет соответствует **[ColorFormat](colorformat-object-publisher.md)** объект. Объект **ColorScheme** является элементом коллекции **[ColorSchemes](colorschemes-object-publisher.md)** . Коллекция **ColorSchemes** содержит все доступные для Microsoft Publisher цветовые схемы.
+
+# ColorScheme Object (Publisher)
+
+Represents a color scheme, which is a set of eight colors used for the different elements of a publication. Each color is represented by a  **[ColorFormat](colorformat-object-publisher.md)** object. The **ColorScheme** object is a member of the **[ColorSchemes](colorschemes-object-publisher.md)** collection. The **ColorSchemes** collection contains all the color schemes available to Microsoft Publisher.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **[ColorScheme](document-colorscheme-property-publisher.md)** объекта **[Document](document-object-publisher.md)** для возврата цветовая схема для текущей публикации. В следующем примере задается значение заполнения трех фигур на первой странице возвращаемое значение (в формате RGB) из трех **ColorScheme** цветов.
+Use the  **[ColorScheme](document-colorscheme-property-publisher.md)** property of a **[Document](document-object-publisher.md)** object to return the color scheme for the current publication. The following example sets the fill value of three shapes on the first page to the return value (in RGB format) of three of the eight **ColorScheme** colors.
  
 
  
@@ -47,7 +46,7 @@ Sub ReturnColorsAndApplyToShapes()
 End Sub
 ```
 
-Используйте свойство **[Name](colorscheme-name-property-publisher.md)** возвращает имя цветовой схемы. В текстовом поле в следующем примере перечисляются все доступные издателю цветовые схемы.
+Use the  **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
  
 
  
@@ -72,14 +71,14 @@ End Sub
 ```
 
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](colorscheme-application-property-publisher.md)|
-|[Цвета](colorscheme-colors-property-publisher.md)|
+|[Application](colorscheme-application-property-publisher.md)|
+|[Colors](colorscheme-colors-property-publisher.md)|
 |[Name](colorscheme-name-property-publisher.md)|
-|[Родительский раздел](colorscheme-parent-property-publisher.md)|
+|[Parent](colorscheme-parent-property-publisher.md)|
 

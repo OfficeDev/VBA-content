@@ -1,42 +1,41 @@
 ---
-title: "Свойство Application.Language (издатель)"
+title: Application.Language Property (Publisher)
 keywords: vbapb10.chm131091
-f1_keywords: vbapb10.chm131091
+f1_keywords:
+- vbapb10.chm131091
 ms.prod: publisher
-api_name: Publisher.Application.Language
+api_name:
+- Publisher.Application.Language
 ms.assetid: 2fcfbec9-0c84-43d5-8c53-5b73bca17e3d
 ms.date: 06/08/2017
-ms.openlocfilehash: 2ed5f2535a9ceeb5671c5ac3e49449ecb7f3d16b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationlanguage-property-publisher"></a>Свойство Application.Language (издатель)
-
-Возвращает значение типа **Long** , представляющее язык, выбранный для пользовательского интерфейса Microsoft Publisher. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.Language Property (Publisher)
 
- _выражение_. **Язык**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns a  **Long** that represents the language selected for the Microsoft Publisher user interface. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **Language**
 
-
-## <a name="remarks"></a>Заметки
-
-Значение свойства **LanguageID** может иметь одно из ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+ _expression_A variable that represents a  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере отображается сообщение о том, является ли язык, выбранный для пользовательского интерфейса Publisher английский (США).
+Long
+
+
+## Remarks
+
+The  **LanguageID** property value can be one of the ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example displays a message stating whether the language selected for the Publisher user interface is U.S. English.
 
 
 ```vb
@@ -50,11 +49,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

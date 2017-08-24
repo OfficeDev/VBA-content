@@ -1,48 +1,47 @@
 ---
-title: "Свойство WebListBox.MultiSelect (издатель)"
+title: WebListBox.MultiSelect Property (Publisher)
 keywords: vbapb10.chm4063236
-f1_keywords: vbapb10.chm4063236
+f1_keywords:
+- vbapb10.chm4063236
 ms.prod: publisher
-api_name: Publisher.WebListBox.MultiSelect
+api_name:
+- Publisher.WebListBox.MultiSelect
 ms.assetid: cc81682f-5212-0912-d979-16567c2dc42b
 ms.date: 06/08/2017
-ms.openlocfilehash: 9fb1da4483d6e9320bacecd00eb3cc2b0446a489
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weblistboxmultiselect-property-publisher"></a>Свойство WebListBox.MultiSelect (издатель)
-
-Указывает, может ли пользователь выбирать более одного элемента в элемент управления списка Web. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebListBox.MultiSelect Property (Publisher)
 
- _выражение_. **MultiSelect**
-
- переменная _expression_A, представляет собой объект- **WebListBox** .
+Specifies whether a user may select more than one item in a Web list box control. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **MultiSelect**
+
+ _expression_A variable that represents a  **WebListBox** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **MultiSelect** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **MultiSelect** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**| Указывает, что пользователь может выбрать только один элемент в элемент управления списка Web.|
-| **msoTrue**| Указывает, что пользователь может выбрать более одного элемента в элемент управления списка Web.|
+| **msoFalse**| Indicates a user may only select one item in a Web list box control.|
+| **msoTrue**| Indicates a user may select more than one item in a Web list box control.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавьте элемент управления списка Web active публикации, добавление элементов к нему и указывает, что пользователь может выбрать несколько элементов.
+This example add a Web list box control to the active publication, add items to it, and specifies that a user may select more than one item.
 
 
 ```vb

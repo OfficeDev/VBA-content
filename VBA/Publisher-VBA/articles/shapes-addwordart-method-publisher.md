@@ -1,69 +1,68 @@
 ---
-title: "Метод Shapes.AddWordArt (издатель)"
+title: Shapes.AddWordArt Method (Publisher)
 keywords: vbapb10.chm2162761
-f1_keywords: vbapb10.chm2162761
+f1_keywords:
+- vbapb10.chm2162761
 ms.prod: publisher
-api_name: Publisher.Shapes.AddWordArt
+api_name:
+- Publisher.Shapes.AddWordArt
 ms.assetid: 8ff83baa-5d88-5f80-3a69-5f712ba5e583
 ms.date: 06/08/2017
-ms.openlocfilehash: 1b6d2aaa8051cdb1881086e626cbc4281e3fad94
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddwordart-method-publisher"></a>Метод Shapes.AddWordArt (издатель)
-
-Возвращает объект **фигуры** , представляющий WordArt для добавления к публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddWordArt Method (Publisher)
 
- _выражение_. **AddWordArt** ( **_PresetWordArt_**, **_текст_**, **_FontName_**, **_FontSize_**, **_FontBold_**, **_FontItalic_**, **_слева_**, **_в начало_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Returns a  **Shape** object that represents the WordArt to be added to the publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddWordArt**( **_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PresetWordArt|Обязательное свойство.| **pbPresetWordArt**|Тип предварительно WordArt для добавления.|
-|Text|Обязательное свойство.| **String**|Текст WordArt.|
-|FontName|Обязательное свойство.| **String**|Имя шрифта для использования в объект WordArt.|
-|FontSize|Обязательное свойство.| **Variant**|Размер шрифта для использования в объект WordArt.|
-|FontBold|Обязательное свойство.| **[MSOTRISTATE]**|Текст WordArt должны ли полужирным шрифтом. Возможные значения см.|
-|FontItalic|Обязательное свойство.| **[MSOTRISTATE]**|Текст WordArt должны ли курсив. Возможные значения см.|
-|Слева|Обязательное свойство.| **Variant**|Горизонтальную позицию WordArt.|
-|Вверх|Обязательное свойство.| **Variant**|Вертикальное положение WordArt.|
+|PresetWordArt|Required| **pbPresetWordArt**|The type of preset WordArt to add.|
+|Text|Required| **String**|The text of the WordArt.|
+|FontName|Required| **String**|The name of the font to be used in the WordArt.|
+|FontSize|Required| **Variant**|The size of the font to be used in the WordArt.|
+|FontBold|Required| **[MSOTRISTATE]**|Whether the WordArt text should be bold. See Remarks for possible values.|
+|FontItalic|Required| **[MSOTRISTATE]**|Whether the WordArt text should be italic. See Remarks for possible values.|
+|Left|Required| **Variant**|The horizontal position of the WordArt.|
+|Top|Required| **Variant**|The vertical position of the WordArt.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
- **Фигура**
-
-
-### <a name="remarks"></a>Заметки
-
-Значение параметра **FontBold** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
+ **Shape**
 
 
+### Remarks
 
-|**Константы**|**Описание**|
+The  **FontBold** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+
+
+
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Ни один из символов в объект WordArt форматируются полужирным шрифтом.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, что объект WordArt содержит текст полужирным и не форматированный текст полужирным шрифтом.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Все символы в объект WordArt форматируются полужирным шрифтом.|
-Значение параметра **FontItalic** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
+| **msoFalse**|None of the characters in the WordArt are formatted as bold.|
+| **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as bold and some text not formatted as bold.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|All characters in the WordArt are formatted as bold.|
+The  **FontItalic** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Ни один из символов в объект WordArt форматируются как курсив.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, что объект WordArt содержит текст в формате курсив и текст не в формате курсив.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Все символы в объект WordArt форматируются как курсив.|
+| **msoFalse**|None of the characters in the WordArt are formatted as italic.|
+| **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as italic and some text not formatted as italic.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|All characters in the WordArt are formatted as italic.|
 

@@ -1,32 +1,31 @@
 ---
-title: "Свойство Field.TextRange (издатель)"
+title: Field.TextRange Property (Publisher)
 keywords: vbapb10.chm6094852
-f1_keywords: vbapb10.chm6094852
+f1_keywords:
+- vbapb10.chm6094852
 ms.prod: publisher
-api_name: Publisher.Field.TextRange
+api_name:
+- Publisher.Field.TextRange
 ms.assetid: 09279cc7-3911-3b8d-51f2-b26494220c68
 ms.date: 06/08/2017
-ms.openlocfilehash: 8e1ace36cec87e2c6c790f87637a000d2e95d3a5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fieldtextrange-property-publisher"></a>Свойство Field.TextRange (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий текст, который присоединен к фигуры и свойства и методы для работы с текстом.
 
 
-## <a name="syntax"></a>Синтаксис
+# Field.TextRange Property (Publisher)
 
- _выражение_. **TextRange**
-
- переменная _expression_A, представляющий объект **поля** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the text that is attached to a shape and properties and methods for manipulating the text.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере добавляется текст надписи фигуры один активный публикации и форматирует новый текст. В этом примере предполагается, что имеется по крайней мере один фигуры на первой странице active публикации.
+ _expression_. **TextRange**
+
+ _expression_A variable that represents a  **Field** object.
+
+
+## Example
+
+The following example adds text to the text frame of shape one in the active publication, and then formats the new text. This example assumes there is at least one shape on the first page of the active publication.
 
 
 ```vb
@@ -42,7 +41,7 @@ Sub AddTextToTextFrame()
 End Sub
 ```
 
-В следующем примере добавляет прямоугольник active публикации и добавляет текст.
+The following example adds a rectangle to the active publication and adds text to it.
 
 
 

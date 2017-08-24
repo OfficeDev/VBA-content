@@ -1,42 +1,41 @@
 ---
-title: "Свойство Document.DefaultTabStop (издатель)"
+title: Document.DefaultTabStop Property (Publisher)
 keywords: vbapb10.chm196616
-f1_keywords: vbapb10.chm196616
+f1_keywords:
+- vbapb10.chm196616
 ms.prod: publisher
-api_name: Publisher.Document.DefaultTabStop
+api_name:
+- Publisher.Document.DefaultTabStop
 ms.assetid: 245ff7a3-9828-5220-b692-2ce6effb9eb6
 ms.date: 06/08/2017
-ms.openlocfilehash: 6293670c1dd6cf4689c24d8d331b81974475a62a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentdefaulttabstop-property-publisher"></a>Свойство Document.DefaultTabStop (издатель)
-
-Возвращает или задает **Variant** соответствующий позиции табуляции по умолчанию для всего текста в активной публикации. Допустимые значения — от 1 для 1584 точек (0.014" для 22"). После установки числовых значений считаются в пунктах. **Строковые** значения может находиться в любой единицы, поддерживаемый Microsoft Publisher. Точка значения всегда возвращаются. Если значения вне допустимого диапазона, возвращается ошибка. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.DefaultTabStop Property (Publisher)
 
- _выражение_. **DefaultTabStop**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns or sets a  **Variant** corresponding to the default tab stop for all text in the active publication. Valid range is 1 to 1584 points (0.014" to 22"). Once set, numeric values are considered to be in points. **String** values may be in any unit supported by Microsoft Publisher. Point values are always returned. If values are outside the valid range, an error is returned. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **DefaultTabStop**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[InchesToPoints не была назначена](application-inchestopoints-method-publisher.md)** для преобразования дюймов в пунктах.
+Use the  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method to convert inches to points.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается свойство **DefaultTabStop** 72 точки для всего текста в активной публикации.
+This example sets the  **DefaultTabStop** property to 72 points for all text in the active publication.
 
 
 ```vb

@@ -1,37 +1,36 @@
 ---
-title: "Свойство Selection.TableCellRange (издатель)"
+title: Selection.TableCellRange Property (Publisher)
 keywords: vbapb10.chm851975
-f1_keywords: vbapb10.chm851975
+f1_keywords:
+- vbapb10.chm851975
 ms.prod: publisher
-api_name: Publisher.Selection.TableCellRange
+api_name:
+- Publisher.Selection.TableCellRange
 ms.assetid: d683e830-6bcd-4b53-844b-605fab184a4c
 ms.date: 06/08/2017
-ms.openlocfilehash: a45eff4600b8acd611e1161d4b935d1b54e2d53b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="selectiontablecellrange-property-publisher"></a>Свойство Selection.TableCellRange (издатель)
-
-Возвращает объект **CellRange** , представляющий ячеек в таблице выбора.
 
 
-## <a name="syntax"></a>Синтаксис
+# Selection.TableCellRange Property (Publisher)
 
- _выражение_. **TableCellRange**
-
- переменная _expression_A, представляющий объект **Selection** .
+Returns a  **CellRange** object that represents the cells in a table selection.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TableCellRange**
+
+ _expression_A variable that represents a  **Selection** object.
+
+
+### Return Value
 
 CellRange
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере заполняет ячейки таблицы в выделение.
+This example fills the table cells in a selection.
 
 
 ```vb

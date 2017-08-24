@@ -1,32 +1,31 @@
 ---
-title: "Метод Shapes.SelectAll (издатель)"
+title: Shapes.SelectAll Method (Publisher)
 keywords: vbapb10.chm2162726
-f1_keywords: vbapb10.chm2162726
+f1_keywords:
+- vbapb10.chm2162726
 ms.prod: publisher
-api_name: Publisher.Shapes.SelectAll
+api_name:
+- Publisher.Shapes.SelectAll
 ms.assetid: 67b88529-814d-c029-1bde-e5dade87636a
 ms.date: 06/08/2017
-ms.openlocfilehash: ff0620bd95a9bf8b296873f5a778d4ff52c67c1b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesselectall-method-publisher"></a>Метод Shapes.SelectAll (издатель)
-
-Выбирает все фигуры в определенной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.SelectAll Method (Publisher)
 
- _выражение_. **SelectAll**
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Selects all the shapes in the specified  **[Shapes](shapes-object-publisher.md)** collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере выбирает всех фигур на странице один из активных публикации.
+ _expression_. **SelectAll**
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+## Example
+
+This example selects all the shapes on page one of the active publication.
 
 
 ```vb

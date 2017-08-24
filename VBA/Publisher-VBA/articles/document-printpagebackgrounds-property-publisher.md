@@ -1,42 +1,41 @@
 ---
-title: "Свойство Document.PrintPageBackgrounds (издатель)"
+title: Document.PrintPageBackgrounds Property (Publisher)
 keywords: vbapb10.chm196743
-f1_keywords: vbapb10.chm196743
+f1_keywords:
+- vbapb10.chm196743
 ms.prod: publisher
-api_name: Publisher.Document.PrintPageBackgrounds
+api_name:
+- Publisher.Document.PrintPageBackgrounds
 ms.assetid: 6d1d6e6a-fd66-2afa-2172-4a6552d5cce4
 ms.date: 06/08/2017
-ms.openlocfilehash: 13abd401a423e24e7c2f15bf7a99d0d0d07f1405
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentprintpagebackgrounds-property-publisher"></a>Свойство Document.PrintPageBackgrounds (издатель)
-
-Возвращает или задает **значение True** для включения фона страницы при печати страниц с указанной публикации. Значение по умолчанию — **True**. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.PrintPageBackgrounds Property (Publisher)
 
- _выражение_. **PrintPageBackgrounds**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns or sets  **True** to include page backgrounds when printing pages from the specified publication. Default is **True**. Read/write  **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **PrintPageBackgrounds**
 
-
-## <a name="remarks"></a>Заметки
-
-Использование объекта **[PageBackground](pagebackground-object-publisher.md)** для создания, изменения или удаления фона указанной странице.
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере задается фона страницы для печати для активной публикации.
+Boolean
+
+
+## Remarks
+
+Use the  **[PageBackground](pagebackground-object-publisher.md)** object to create, alter, or delete the background of a specified page.
+
+
+## Example
+
+The following example sets page backgrounds to print for the active publication.
 
 
 ```vb

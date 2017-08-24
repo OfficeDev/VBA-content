@@ -1,59 +1,60 @@
 ---
-title: "Метод Shapes.AddLabel (издатель)"
+title: Shapes.AddLabel Method (Publisher)
 keywords: vbapb10.chm2162707
-f1_keywords: vbapb10.chm2162707
+f1_keywords:
+- vbapb10.chm2162707
 ms.prod: publisher
-api_name: Publisher.Shapes.AddLabel
+api_name:
+- Publisher.Shapes.AddLabel
 ms.assetid: 5a803aa2-d37f-6da1-7d8b-58ee2dcd8146
 ms.date: 06/08/2017
-ms.openlocfilehash: 3cf3fac4f868b594ded4581ddc2a3019298efe90
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddlabel-method-publisher"></a>Метод Shapes.AddLabel (издатель)
-
-Добавляет новый объект **[фигуры](shape-object-publisher.md)** , представляющее текстовой метки для указанной коллекции **[фигур](shapes-object-publisher.md)** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddLabel Method (Publisher)
 
- _выражение_. **AddLabel** ( **_Ориентация_**, **_слева_**, **_Top_**, **_Ширина_**, **_Высота_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a new  **[Shape](shape-object-publisher.md)** object representing a text label to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddLabel**( **_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Ориентация|Обязательное свойство.| **PbTextOrientation**|Ориентация метку.|
-|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей текстовой метки.|
-|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей текстовой метки.|
-|Width|Обязательное свойство.| **Variant**|Ширина формы, представляющее текстовой метки.|
-|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей текстовой метки.|
+|Orientation|Required| **PbTextOrientation**|The orientation of the label.|
+|Left|Required| **Variant**|The position of the left edge of the shape representing the text label.|
+|Top|Required| **Variant**|The position of the top edge of the shape representing the text label.|
+|Width|Required| **Variant**|The width of the shape representing the text label.|
+|Height|Required| **Variant**|The height of the shape representing the text label.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Аргументы слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Параметр ориентации может иметь одно из следующих констант **PbTextOrientation** .
+The Orientation parameter can be one of these  **PbTextOrientation** constants.
 
 
 
-| **pbTextOrientationHorizontal**| Горизонтальная текстовой метки для языков слева направо. | | **pbTextOrientationRightToLeft**| Горизонтальная текстовой метки для языков для письма справа налево. | | **pbTextOrientationVerticalEastAsia**| Вертикальная текстовой метки для языков Восточной Азии. |
+| **pbTextOrientationHorizontal**|A horizontal text label for left-to-right languages.|
+| **pbTextOrientationRightToLeft**| A horizontal text label for right-to-left languages.|
+| **pbTextOrientationVerticalEastAsia**|A vertical text label for East Asian languages.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется новой метки горизонтальный текст для первой страницы active публикации.
+The following example adds a new horizontal text label to the first page of the active publication.
 
 
 ```vb

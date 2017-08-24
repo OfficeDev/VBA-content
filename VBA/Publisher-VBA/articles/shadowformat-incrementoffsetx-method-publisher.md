@@ -1,47 +1,46 @@
 ---
-title: "Метод ShadowFormat.IncrementOffsetX (издатель)"
+title: ShadowFormat.IncrementOffsetX Method (Publisher)
 keywords: vbapb10.chm3670032
-f1_keywords: vbapb10.chm3670032
+f1_keywords:
+- vbapb10.chm3670032
 ms.prod: publisher
-api_name: Publisher.ShadowFormat.IncrementOffsetX
+api_name:
+- Publisher.ShadowFormat.IncrementOffsetX
 ms.assetid: 05c25f0f-beac-2b25-630b-57d4a3bdb0c9
 ms.date: 06/08/2017
-ms.openlocfilehash: fed9a8c966629b2f6111560194f81bb5ff6e3e0b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shadowformatincrementoffsetx-method-publisher"></a>Метод ShadowFormat.IncrementOffsetX (издатель)
-
-Постепенно меняет горизонтальное смещение тени на определенное расстояние.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShadowFormat.IncrementOffsetX Method (Publisher)
 
- _выражение_. **IncrementOffsetX** ( **_Порядкового номера_**)
-
- переменная _expression_A, представляет собой объект- **ShadowFormat** .
+Incrementally changes the horizontal offset of the shadow by the specified distance.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **IncrementOffsetX**( **_Increment_**)
+
+ _expression_A variable that represents a  **ShadowFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Порядкового номера|Обязательное свойство.| **Variant**|Указывает, насколько смещение тени перемещаемых по горизонтали. Положительное значение перемещает тени вправо; отрицательное значение перемещает его слева. Числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).|
+|Increment|Required| **Variant**|Specifies how far the shadow offset is to be moved horizontally. A positive value moves the shadow to the right; a negative value moves it to the left. Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **[OffsetX](shadowformat-offsetx-property-publisher.md)** задать смещение абсолютный горизонтальной тени.
+Use the  **[OffsetX](shadowformat-offsetx-property-publisher.md)** property to set the absolute horizontal shadow offset.
 
-Используйте метод **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** для изменения вертикальной смещение тени.
+Use the  **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method to change a shadow's vertical offset.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере Сдвиг тени для третьего фигуры в активной публикации слева 3 точки.
+This example moves the shadow for the third shape in the active publication to the left by 3 points.
 
 
 ```vb

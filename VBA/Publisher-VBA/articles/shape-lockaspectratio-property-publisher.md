@@ -1,45 +1,44 @@
 ---
-title: "Свойство Shape.LockAspectRatio (издатель)"
+title: Shape.LockAspectRatio Property (Publisher)
 keywords: vbapb10.chm2228291
-f1_keywords: vbapb10.chm2228291
+f1_keywords:
+- vbapb10.chm2228291
 ms.prod: publisher
-api_name: Publisher.Shape.LockAspectRatio
+api_name:
+- Publisher.Shape.LockAspectRatio
 ms.assetid: eeb87bb5-01d5-5d21-b268-045497ea3682
 ms.date: 06/08/2017
-ms.openlocfilehash: a542b2a455e081ca4bfbc6ed83f1e4291ba9abd5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapelockaspectratio-property-publisher"></a>Свойство Shape.LockAspectRatio (издатель)
-
-Возвращает или задает константой **MsoTriState**, указывающее, является ли указанный фигуры сохраняются исходные пропорции при изменении размера. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.LockAspectRatio Property (Publisher)
 
- _выражение_. **LockAspectRatio**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns or sets an  **MsoTriState**constant indicating whether the specified shape retains its original proportions when you resize it. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **LockAspectRatio** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+ _expression_. **LockAspectRatio**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Remarks
+
+The  **LockAspectRatio** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Высота и ширина формы изменения независимо друг от друга при изменении размера.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Указанный фигуры сохраняются исходные пропорции при изменении размера.|
+| **msoFalse**|The height and width of the shape change independently of one another when you resize it.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|The specified shape retains its original proportions when you resize it.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется куба active публикацию. Куб можно переместить и размера, но не reproportioned.
+This example adds a cube to the active publication. The cube can be moved and resized, but not reproportioned.
 
 
 ```vb

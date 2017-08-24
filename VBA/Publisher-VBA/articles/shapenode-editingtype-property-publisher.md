@@ -1,44 +1,43 @@
 ---
-title: "Свойство ShapeNode.EditingType (издатель)"
+title: ShapeNode.EditingType Property (Publisher)
 keywords: vbapb10.chm3539200
-f1_keywords: vbapb10.chm3539200
+f1_keywords:
+- vbapb10.chm3539200
 ms.prod: publisher
-api_name: Publisher.ShapeNode.EditingType
+api_name:
+- Publisher.ShapeNode.EditingType
 ms.assetid: f01db634-b35a-48cd-851d-418848674686
 ms.date: 06/08/2017
-ms.openlocfilehash: c6c1143f4261ce11cd8d300bb94af242e8f47e31
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapenodeeditingtype-property-publisher"></a>Свойство ShapeNode.EditingType (издатель)
-
-Если указанный узел является узел, данное свойство возвращает **MsoEditingType** константу, указывающее, влияние изменений, внесенных в узел на два сегмента, подключенных к узлу. Если узел является контрольной точки для сегмент, данное свойство возвращает типа редактирования рядом с вершины. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeNode.EditingType Property (Publisher)
 
- _выражение_. **EditingType**
-
- переменная _expression_A, представляющий объект **ShapeNode** .
+If the specified node is a vertex, this property returns an  **MsoEditingType** constant indicating how changes made to the node affect the two segments connected to the node. If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **EditingType**
+
+ _expression_A variable that represents an  **ShapeNode** object.
+
+
+### Return Value
 
 MsoEditingType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[SetEditingType](shapenodes-seteditingtype-method-publisher.md)** для задания значения этого свойства.
+Use the  **[SetEditingType](shapenodes-seteditingtype-method-publisher.md)** method to set the value of this property.
 
-Значение свойства **EditingType** может иметь одно из ** [MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **EditingType** property value can be one of the ** [MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере изменяется все узлы углу сгладить график узлов в третьей фигуры в активной публикации. Фигуры должен быть freeform документа.
+This example changes all corner nodes to smooth curve nodes in the third shape in the active publication. The shape must be a freeform drawing.
 
 
 ```vb

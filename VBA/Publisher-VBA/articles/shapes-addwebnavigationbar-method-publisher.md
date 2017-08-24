@@ -1,53 +1,52 @@
 ---
-title: "Метод Shapes.AddWebNavigationBar (издатель)"
+title: Shapes.AddWebNavigationBar Method (Publisher)
 keywords: vbapb10.chm2162736
-f1_keywords: vbapb10.chm2162736
+f1_keywords:
+- vbapb10.chm2162736
 ms.prod: publisher
-api_name: Publisher.Shapes.AddWebNavigationBar
+api_name:
+- Publisher.Shapes.AddWebNavigationBar
 ms.assetid: 26e9622c-ea28-b28b-9904-b3a3ccc9341b
 ms.date: 06/08/2017
-ms.openlocfilehash: 1d0c9ac6f09e6754a6afcec6fbdd1b65819ff51a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddwebnavigationbar-method-publisher"></a>Метод Shapes.AddWebNavigationBar (издатель)
-
-Добавляет объект **фигуры** типа **pbWebNavigationBar** текущей страницы публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddWebNavigationBar Method (Publisher)
 
- _выражение_. **AddWebNavigationBar** ( **_Имя_**, **_слева_** **_в начало_**, **_Ширина_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddWebNavigationBar**( **_Name_**,  **_Left_**,  **_Top_**,  **_Width_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя|Обязательное свойство.| **String**|Имя объекта **WebNavigationBarSet** для добавления указанного **фигуры**.|
-|Слева|Обязательное свойство.| **Variant**|Задайте положение левого края фигуры, представляющий панель навигации.|
-|Вверх|Обязательное свойство.| **Variant**|Задайте положение верхнего края фигуры, представляющий панель навигации.|
-|Width|Необязательный| **Variant**|Задать ширину фигуры, представляющий панель навигации.|
+|Name|Required| **String**|The name of the  **WebNavigationBarSet** object to add to the specified **Shape**.|
+|Left|Required| **Variant**|The position of the left edge of the shape that represents the Web navigation bar set.|
+|Top|Required| **Variant**|The position of the top edge of the shape that represents the Web navigation bar set.|
+|Width|Optional| **Variant**|The width of the shape that represents the Web navigation bar set.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Метод **AddWebNavigationBar** создает набор панель навигации Web. Добавление существующего набора из коллекции **WebNavigationBarSets** . Передайте имя Web панель навигации задайте в качестве имени параметра.
+The  **AddWebNavigationBar** method does not create a Web navigation bar set. It adds an existing set from the **WebNavigationBarSets** collection. Pass the name of the existing Web navigation bar set as the Name parameter.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **AddWebNavigationBar** для добавления объекта **WebNavigationBarSet** в активный документ.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddWebNavigationBar** method to add a **WebNavigationBarSet** object to the active document.
 
 
 ```vb

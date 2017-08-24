@@ -1,37 +1,36 @@
 ---
-title: "Свойство LinkFormat.SourceFullName (издатель)"
+title: LinkFormat.SourceFullName Property (Publisher)
 keywords: vbapb10.chm4390915
-f1_keywords: vbapb10.chm4390915
+f1_keywords:
+- vbapb10.chm4390915
 ms.prod: publisher
-api_name: Publisher.LinkFormat.SourceFullName
+api_name:
+- Publisher.LinkFormat.SourceFullName
 ms.assetid: a83aad48-ce27-6fe7-d26b-f00bec42e614
 ms.date: 06/08/2017
-ms.openlocfilehash: a9361e0763d7b8322b6cd7dc0913e36af6c08ddd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="linkformatsourcefullname-property-publisher"></a>Свойство LinkFormat.SourceFullName (издатель)
-
-Возвращает **строку** , представляющую путь и имя исходного файла для указанного связанного объекта, рисунков или поля. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# LinkFormat.SourceFullName Property (Publisher)
 
- _выражение_. **SourceFullName**
-
- переменная _expression_A, представляет собой объект- **LinkFormat** .
+Returns a  **String** that represents the path and name of the source file for the specified linked OLE object, picture, or field. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **SourceFullName**
+
+ _expression_A variable that represents a  **LinkFormat** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере отображается путь и имя исходного файла для всех внедренных OLE фигур на первой странице active публикации.
+This example displays the path and file name of the source file for all embedded OLE shapes on the first page of the active publication.
 
 
 ```vb

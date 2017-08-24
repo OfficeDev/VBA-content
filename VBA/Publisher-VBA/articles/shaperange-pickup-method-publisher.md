@@ -1,37 +1,36 @@
 ---
-title: "Метод ShapeRange.PickUp (издатель)"
+title: ShapeRange.PickUp Method (Publisher)
 keywords: vbapb10.chm2293795
-f1_keywords: vbapb10.chm2293795
+f1_keywords:
+- vbapb10.chm2293795
 ms.prod: publisher
-api_name: Publisher.ShapeRange.PickUp
+api_name:
+- Publisher.ShapeRange.PickUp
 ms.assetid: ebd62b6e-807a-821c-d8ea-ed9be289c433
 ms.date: 06/08/2017
-ms.openlocfilehash: 1f16e34ac20c6b7b99df552bd37ee72ba0bca024
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangepickup-method-publisher"></a>Метод ShapeRange.PickUp (издатель)
-
-Копирование форматирования фигуры или диапазона фигуры, чтобы его можно скопировать в другую фигуру или фигур с помощью метода **[Применить](shaperange-apply-method-publisher.md)** диапазона.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.PickUp Method (Publisher)
 
- _выражение_. **Раскладки**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](shaperange-apply-method-publisher.md)** method.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Необходимо использовать метод **раскладки** для копирования форматирования фигуры или диапазона фигуры перед использованием методу **Apply** ; в противном случае возникает ошибка.
+ _expression_. **PickUp**
+
+ _expression_A variable that represents a  **ShapeRange** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В следующем примере копируется форматирование из первой фигуры active публикации для второй фигуры active публикации.
+You must use the  **PickUp** method to copy the formatting from a shape or shape range before using the **Apply** method; otherwise, an error occurs.
+
+
+## Example
+
+The following example copies the formatting from the first shape of the active publication to the second shape of the active publication.
 
 
 ```vb

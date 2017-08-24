@@ -1,32 +1,31 @@
 ---
-title: "Свойство Columns.Count (издатель)"
+title: Columns.Count Property (Publisher)
 keywords: vbapb10.chm5046274
-f1_keywords: vbapb10.chm5046274
+f1_keywords:
+- vbapb10.chm5046274
 ms.prod: publisher
-api_name: Publisher.Columns.Count
+api_name:
+- Publisher.Columns.Count
 ms.assetid: 2f7fdb6a-6cd0-2ede-bd34-6954ef23c1a0
 ms.date: 06/08/2017
-ms.openlocfilehash: 337fca83be37404c4b668eec60b67779c09b176d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="columnscount-property-publisher"></a>Свойство Columns.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# Columns.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **столбцов** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **Columns** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

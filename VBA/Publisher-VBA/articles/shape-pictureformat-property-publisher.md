@@ -1,32 +1,31 @@
 ---
-title: "Свойство Shape.PictureFormat (издатель)"
+title: Shape.PictureFormat Property (Publisher)
 keywords: vbapb10.chm2228295
-f1_keywords: vbapb10.chm2228295
+f1_keywords:
+- vbapb10.chm2228295
 ms.prod: publisher
-api_name: Publisher.Shape.PictureFormat
+api_name:
+- Publisher.Shape.PictureFormat
 ms.assetid: 2a812ba3-18e4-fc42-6d07-535511a79650
 ms.date: 06/08/2017
-ms.openlocfilehash: a2b5dd9d4934209f1e99e6911616abef348bdf8e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapepictureformat-property-publisher"></a>Свойство Shape.PictureFormat (издатель)
-
-Возвращает объект **[PictureFormat](pictureformat-object-publisher.md)** , который содержит изображение свойства для указанного объекта форматирования. Применяется к **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** объектов, которые представляют изображения или объекты OLE. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.PictureFormat Property (Publisher)
 
- _выражение_. **PictureFormat**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **[PictureFormat](pictureformat-object-publisher.md)** object that contains picture formatting properties for the specified object. Applies to  **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects that represent pictures or OLE objects. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере задается яркости и контрастности для всех рисунков на первой странице active публикации.
+ _expression_. **PictureFormat**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Example
+
+This example sets the brightness and contrast for all pictures on the first page of the active publication.
 
 
 ```vb

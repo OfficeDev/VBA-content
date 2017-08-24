@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.End (издатель)"
+title: TextRange.End Property (Publisher)
 keywords: vbapb10.chm5308434
-f1_keywords: vbapb10.chm5308434
+f1_keywords:
+- vbapb10.chm5308434
 ms.prod: publisher
-api_name: Publisher.TextRange.End
+api_name:
+- Publisher.TextRange.End
 ms.assetid: 594cc4b8-d7fb-4b81-4be7-2d416ae513e2
 ms.date: 06/08/2017
-ms.openlocfilehash: 53008b70817138291dcd24f32365388dc5d0e723
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeend-property-publisher"></a>Свойство TextRange.End (издатель)
-
-Задает или возвращает значение типа **Long** , представляющее конечного символов выделения или диапазон текста. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.End Property (Publisher)
 
- _выражение_. **End**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Sets or returns a  **Long** that represents the ending character position of a selection or text range. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **End**
+
+ _expression_A variable that represents an  **TextRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере запускается выделение 50 знаков текущего фигуры текстовое поле и заканчивается на fiftieth сотен один символ, а затем текст полужирным шрифтом.
+Long
+
+
+## Example
+
+This example starts the selection on the fiftieth character of the current text box shape and ends on the one hundred fiftieth character, then makes the text bold.
 
 
 ```vb

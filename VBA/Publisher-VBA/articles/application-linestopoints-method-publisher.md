@@ -1,52 +1,51 @@
 ---
-title: "Метод Application.LinesToPoints (издатель)"
+title: Application.LinesToPoints Method (Publisher)
 keywords: vbapb10.chm131144
-f1_keywords: vbapb10.chm131144
+f1_keywords:
+- vbapb10.chm131144
 ms.prod: publisher
-api_name: Publisher.Application.LinesToPoints
+api_name:
+- Publisher.Application.LinesToPoints
 ms.assetid: 55c531aa-5619-6f7f-54e7-7721cb70640e
 ms.date: 06/08/2017
-ms.openlocfilehash: b70f54211926f65e9038b1037b96e884f17f47ae
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationlinestopoints-method-publisher"></a>Метод Application.LinesToPoints (издатель)
-
-Преобразует измерения из строки в пунктах (1 строка = 12 точек). Возвращает преобразованные измерения как **один**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.LinesToPoints Method (Publisher)
 
- _выражение_. **LinesToPoints** ( **_Значение_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single**.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **LinesToPoints**( **_Value_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Значение|Обязательное свойство.| **Один**|Значение строки, который следует преобразовать в пунктах.|
+|Value|Required| **Single**|The line value to be converted to points.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Один
-
-
-## <a name="remarks"></a>Заметки
-
-Этот метод предполагает измерений в строках 12 пунктов, фактический размер любого текста в публикации не оказывает влияния на коэффициент преобразования.
-
-Используйте метод **[PointsToLines](application-pointstolines-method-publisher.md)** для преобразования строки измерения в точках.
+Single
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере преобразует измерений в строках измерения в пунктах, демонстрирующие не влияет на коэффициент преобразования на наличие размер шрифта в текущем выборе. В активной публикации для работы этого примера необходимо выбрать какой-либо текст.
+This method assumes a measurement in 12-point lines — the actual size of any text in the publication has no effect on the conversion factor.
+
+Use the  **[PointsToLines](application-pointstolines-method-publisher.md)** method to convert measurements in points to lines.
+
+
+## Example
+
+This example converts measurements in lines to measurements in points, demonstrating that the font size in the current selection has no bearing on the conversion factor. Some text must be selected in the active publication for this example to work.
 
 
 ```vb
@@ -63,11 +62,11 @@ strOutput = "1 line = " _
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

@@ -1,37 +1,36 @@
 ---
-title: "Объект Узорные (издатель)"
+title: BorderArt Object (Publisher)
 keywords: vbapb10.chm7733247
-f1_keywords: vbapb10.chm7733247
+f1_keywords:
+- vbapb10.chm7733247
 ms.prod: publisher
-api_name: Publisher.BorderArt
+api_name:
+- Publisher.BorderArt
 ms.assetid: 464bec0f-7912-ab27-9593-7f1cb53da342
 ms.date: 06/08/2017
-ms.openlocfilehash: 47f8a6138300057ed6f480f5388c1dba33022b49
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="borderart-object-publisher"></a>Объект Узорные (издатель)
 
-Представляет тип доступные Узорные. Узорные — границы изображения, которые можно применять для текстовых полей, рамки рисунков или прямоугольники. **Узорные** объект является элементом коллекции **[BorderArts](borderarts-object-publisher.md)** . Коллекция **BorderArts** содержит все Узорные, доступных для использования в указанной публикации.
+
+# BorderArt Object (Publisher)
+
+Represents an available type of BorderArt. BorderArt is picture borders that can be applied to text boxes, picture frames, or rectangles. The  **BorderArt** object is a member of the **[BorderArts](borderarts-object-publisher.md)** collection. The **BorderArts** collection contains all BorderArt available for use in the specified publication.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Коллекция **BorderArts** включает все пользовательские типы Узорные, создаваемые пользователем для указанной публикации.
+The  **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[Item](borderarts-item-method-publisher.md)** коллекции **BorderArts** для получения определенного объекта Узорные. Аргумент Index свойство **Item** может быть номер или имя объекта Узорные.
+Use the  **[Item](borderarts-item-method-publisher.md)** property of a **BorderArts** collection to return a specific BorderArt object. The Index argument of the **Item** property can be the number or name of the BorderArt object.
  
 
  
-В этом примере возвращается Узорные «Apples» из активной публикации. 
+This example returns the BorderArt "Apples" from the active publication. 
  
 
  
@@ -44,7 +43,7 @@ Dim bdaTemp As BorderArt
 Set bdaTemp = ActiveDocument.BorderArts.Item (Index:="Apples") 
 ```
 
-Позволяет указать тип, который требуется Узорные применяется к изображению свойства **[Name](borderart-name-property-publisher.md)** . В следующем примере задается Узорные в документе для того же типа с помощью свойства **Name** .
+Use the  **[Name](borderart-name-property-publisher.md)** property to specify which type of BorderArt you want applied to a picture. The following example sets all the BorderArt in a document to the same type using the **Name** property.
  
 
  
@@ -77,17 +76,17 @@ End Sub
 
  
 
- **Примечание**  Так как **имя** является свойством по умолчанию объекта **Узорные** и объект **BorderArtFormat** , его состояния явным образом, при задании типа Узорные не требуется. Оператор `Shape.BorderArtFormat = Document.BorderArts(1)`соответствует`Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
+ **Note**  Because  **Name** is the default property of both the **BorderArt** object and the **BorderArtFormat** object, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)`is equivalent to `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
  
 
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](borderart-application-property-publisher.md)|
+|[Application](borderart-application-property-publisher.md)|
 |[Name](borderart-name-property-publisher.md)|
-|[Родительский раздел](borderart-parent-property-publisher.md)|
+|[Parent](borderart-parent-property-publisher.md)|
 

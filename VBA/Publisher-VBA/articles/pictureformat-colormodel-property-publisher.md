@@ -1,42 +1,41 @@
 ---
-title: "Свойство PictureFormat.ColorModel (издатель)"
+title: PictureFormat.ColorModel Property (Publisher)
 keywords: vbapb10.chm3604753
-f1_keywords: vbapb10.chm3604753
+f1_keywords:
+- vbapb10.chm3604753
 ms.prod: publisher
-api_name: Publisher.PictureFormat.ColorModel
+api_name:
+- Publisher.PictureFormat.ColorModel
 ms.assetid: 8e3e259c-943d-c1a9-f090-2ee0f0bb29f2
 ms.date: 06/08/2017
-ms.openlocfilehash: 2cf3e6a60bf47122183eb6143f06b0586e3c6a3e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatcolormodel-property-publisher"></a>Свойство PictureFormat.ColorModel (издатель)
-
-Возвращает константу **PbColorModel** , представляющий модель цвет рисунка. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.ColorModel Property (Publisher)
 
- _выражение_. **ColorModel**
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Returns a  **PbColorModel** constant that represents the color model of the picture. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ColorModel**
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Return Value
 
 PbColorModel
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **ColorModel** может иметь одно из **[PbColorModel](pbcolormodel-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **ColorModel** property value can be one of the **[PbColorModel](pbcolormodel-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример возвращает список изображений с режимом цвета RGB в активной публикации.
+The following example returns a list of the pictures with RGB color mode in the active publication.
 
 
 ```vb

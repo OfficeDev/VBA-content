@@ -1,50 +1,50 @@
 ---
-title: "Метод TextRange.Collapse (издатель)"
+title: TextRange.Collapse Method (Publisher)
 keywords: vbapb10.chm5308420
-f1_keywords: vbapb10.chm5308420
+f1_keywords:
+- vbapb10.chm5308420
 ms.prod: publisher
-api_name: Publisher.TextRange.Collapse
+api_name:
+- Publisher.TextRange.Collapse
 ms.assetid: ae177297-bf3b-ce0f-cf3a-29093b115996
 ms.date: 06/08/2017
-ms.openlocfilehash: 47541b426d2b1b0bafa9ba406c15b111b5eb6c28
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangecollapse-method-publisher"></a>Метод TextRange.Collapse (издатель)
-
-Сворачивает диапазон или выделить фрагмент положение начальной или конечной позиции. После свертывания диапазона или выделить фрагмент равны начальную и конечную точку.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Collapse Method (Publisher)
 
- _выражение_. **Свернуть** ( **_Направление_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Collapses a range or selection to the starting position or ending position. After a range or selection is collapsed, the starting point and the ending point are equal.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Collapse**( **_Direction_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Direction|Обязательное свойство.| **PbCollapseDirection**|Направление свернуть диапазон или выделить фрагмент.|
+|Direction|Required| **PbCollapseDirection**|The direction in which to collapse the range or selection.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если вы используете **pbCollapseEnd** сворачивание диапазона, на который ссылается абзаца, диапазон будут расположены после конца абзаца (начало следующий абзац). Тем не менее можно переместить назад один символ диапазона с помощью метода [MoveEnd](textrange-moveend-method-publisher.md)после свертывания диапазона.
+If you use  **pbCollapseEnd** to collapse a range that refers to an entire paragraph, the range will be located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the [MoveEnd](textrange-moveend-method-publisher.md)method after the range is collapsed.
 
-Направление параметра может иметь одно из следующих **PbCollapseDirection** константы, описанные в библиотеке типов, Microsoft Publisher.
+The Direction parameter can be one of the following  **PbCollapseDirection** constants declared in the Microsoft Publisher type library.
 
 
 
-| **pbCollapseEnd**|| **pbCollapseStart**|
+| **pbCollapseEnd**|
+| **pbCollapseStart**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере вставляет текст в начало второго абзаца в первую фигуру на первой странице active публикации. Предполагается, что указанные форму фрагмент текста и не другого типа фигуры.
+This example inserts text at the beginning of the second paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text frame and not another type of shape.
 
 
 ```vb
@@ -62,7 +62,7 @@ Sub CollapseRange()
 End Sub
 ```
 
-В этом примере помещает новый текст в конце в первый абзац первую фигуру на первой странице active публикации. Предполагается, что указанные форму фрагмент текста и не другого типа фигуры.
+This example places new text at the end of the first paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text frame and not another type of shape.
 
 
 

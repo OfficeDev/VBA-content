@@ -1,47 +1,46 @@
 ---
-title: "Метод Page.ExportEmailHTML (издатель)"
+title: Page.ExportEmailHTML Method (Publisher)
 keywords: vbapb10.chm393273
-f1_keywords: vbapb10.chm393273
+f1_keywords:
+- vbapb10.chm393273
 ms.prod: publisher
-api_name: Publisher.Page.ExportEmailHTML
+api_name:
+- Publisher.Page.ExportEmailHTML
 ms.assetid: 6257e9b5-26b5-73ae-7d40-50dd0a764488
 ms.date: 06/08/2017
-ms.openlocfilehash: 681938bac6cb5b6c800c8523db1f7d4084c30908
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pageexportemailhtml-method-publisher"></a>Метод Page.ExportEmailHTML (издатель)
-
-Экспортирует активную страницу публикации в виде HTML-файла.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.ExportEmailHTML Method (Publisher)
 
- _выражение_. **ExportEmailHTML** ( **_Имя файла_**)
-
- переменная _expression_A, представляющий объект **Page** .
+Exports the active page of the publication as an HTML file.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ExportEmailHTML**( **_Filename_**)
+
+ _expression_A variable that represents a  **Page** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя файла|Обязательное свойство.| **String**|Имя файла для экспорта HTML-код.|
+|Filename|Required| **String**|The name of the file to which to export the HTML.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если указано имя существующей HTML-файл, этот файл будет перезаписан.
+If the name of an existing HTML file is specified, that file is overwritten.
 
-Этот метод можно использовать только на активной странице публикации.
+This method can only be used on the active page of the publication.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере задается первой страницы в документ как активную страницу и экспортируется в файл этой страницы. (Обратите внимание на то, что действительный путь к файлу для работы этого примера необходимо заменить PathToFile.)
+The following example sets the first page in the document as the active page, and exports that page to a file. (Note that PathToFile must be replaced with a valid file path for this example to work.)
 
 
 ```vb

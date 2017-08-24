@@ -1,55 +1,54 @@
 ---
-title: "Метод Shapes.AddEmptyPictureFrame (издатель)"
+title: Shapes.AddEmptyPictureFrame Method (Publisher)
 keywords: vbapb10.chm2162757
-f1_keywords: vbapb10.chm2162757
+f1_keywords:
+- vbapb10.chm2162757
 ms.prod: publisher
-api_name: Publisher.Shapes.AddEmptyPictureFrame
+api_name:
+- Publisher.Shapes.AddEmptyPictureFrame
 ms.assetid: e473dea8-6d94-e9e4-ddb6-27c1fc8930e8
 ms.date: 06/08/2017
-ms.openlocfilehash: ed9e343608dfd9c80ee07daee04ad3f8d457b8b8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddemptypictureframe-method-publisher"></a>Метод Shapes.AddEmptyPictureFrame (издатель)
-
-Возвращает объект **фигуры** , представляющий пустой рамки вставлен по указанным координатам.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddEmptyPictureFrame Method (Publisher)
 
- _выражение_. **AddEmptyPictureFrame** ( **_Слева_**, **_сверху_**, **_Ширина_**, **_Высота_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Returns a  **Shape** object that represents an empty picture frame inserted at the specified coordinates.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddEmptyPictureFrame**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющее рисунок.|
-|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющее рисунок.|
-|Width|Необязательный| **Variant**|Ширина формы, представляющее рисунок. По умолчанию используется значение -1, что означает, что ширину фигуры автоматически устанавливается значение 72 точки, если не указан параметр.|
-|Height|Необязательный| **Variant**|Высота формы, представляющее рисунок. По умолчанию используется значение -1, что означает, что высоту фигуры автоматически устанавливается значение 54 точек, если не указан параметр.|
+|Left|Required| **Variant**|The position of the left edge of the shape representing the picture.|
+|Top|Required| **Variant**|The position of the top edge of the shape representing the picture.|
+|Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set to 72 points if the parameter is left blank.|
+|Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the height of the shape is automatically set to 54 points if the parameter is left blank.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-**Слева**, **в начало**, **ширину**и **высоту** аргументы числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «1,5 в»).
+For  **Left**,  **Top**,  **Width**, and  **Height** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "1.5 in").
 
-Пустая рамка имеет по умолчанию подсказка «Пустая рамка рисунка». Это изменяется на «Рисунок» при выборе изображения для **фигуры**.
+The blank picture frame has the default ToolTip "Empty Picture Frame". This is changed to "Picture" when an image is selected for the  **Shape**.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере помещает пустой рамки в центре первой страницы публикации и разворачивает его на 45 градусов. Свойство **AlternativeText** имеет значение «Рисунок 1» для веб-сайта.
+This example places an empty picture frame in the center of the first page of the publication and rotates it by 45 degrees. The  **AlternativeText** property is set to "Picture Placeholder 1" for the Web.
 
 
 ```vb

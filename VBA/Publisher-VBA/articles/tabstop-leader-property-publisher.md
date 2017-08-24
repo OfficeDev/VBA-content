@@ -1,42 +1,41 @@
 ---
-title: "Свойство TabStop.Leader (издатель)"
+title: TabStop.Leader Property (Publisher)
 keywords: vbapb10.chm5636101
-f1_keywords: vbapb10.chm5636101
+f1_keywords:
+- vbapb10.chm5636101
 ms.prod: publisher
-api_name: Publisher.TabStop.Leader
+api_name:
+- Publisher.TabStop.Leader
 ms.assetid: a788bdc8-8ab3-fcd3-931a-a5b83db93991
 ms.date: 06/08/2017
-ms.openlocfilehash: 910a2e2314d059fa64f99debcb2579dfd2c63fe3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tabstopleader-property-publisher"></a>Свойство TabStop.Leader (издатель)
-
-Задает или возвращает константу **PbTabLeaderType** , который представляет заполнитель для позиции табуляции. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TabStop.Leader Property (Publisher)
 
- _выражение_. **Ведущий сотрудник**
-
- переменная _expression_A, представляет собой объект- **TabStop** .
+Sets or returns a  **PbTabLeaderType** constant that represents the leader character for a tab stop. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Leader**
+
+ _expression_A variable that represents a  **TabStop** object.
+
+
+### Return Value
 
 PbTabLeaderType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **ведущий** может иметь одно из **[PbTabLeaderType](pbtableadertype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **Leader** property value can be one of the **[PbTabLeaderType](pbtableadertype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере изменяется символ табуляции ведущий выбранного абзацев тире. В этом примере предполагается, что выбранный абзац содержит по крайней мере один позиции табуляции.
+This example changes the leader tab character of the selected paragraphs to dashes. This example assumes that the selected paragraph contains at least one tab stop.
 
 
 ```vb
@@ -46,7 +45,7 @@ Sub SetLeaderTab()
 End Sub
 ```
 
-В этом примере изменяется символ табуляции ведущий первого абзаца в диапазоне указанный текст подчеркивание. В этом примере предполагается, что указанный абзац содержит по крайней мере один позиции табуляции.
+This example changes the leader tab character of the first paragraph in the specified text range to an underline. This example assumes that the specified paragraph contains at least one tab stop.
 
 
 

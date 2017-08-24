@@ -1,48 +1,47 @@
 ---
-title: "Метод PictureFormat.Recolor (издатель)"
+title: PictureFormat.Recolor Method (Publisher)
 keywords: vbapb10.chm3604793
-f1_keywords: vbapb10.chm3604793
+f1_keywords:
+- vbapb10.chm3604793
 ms.prod: publisher
-api_name: Publisher.PictureFormat.Recolor
+api_name:
+- Publisher.PictureFormat.Recolor
 ms.assetid: 42bc2280-b6d0-862a-7118-38ec1513b9c7
 ms.date: 06/08/2017
-ms.openlocfilehash: 7814f2afaf49174ff67f5c451bca81aa26e1f620
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatrecolor-method-publisher"></a>Метод PictureFormat.Recolor (издатель)
-
-Изменение цвета изображения в публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.Recolor Method (Publisher)
 
- _выражение_. **Изменение цвета** ( **_Цвет_**, **_LeaveBlackPartsBlack_**)
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Changes the color of a picture in a publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Recolor**( **_Color_**,  **_LeaveBlackPartsBlack_**)
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Цвет|Обязательное свойство.| **ColorFormat**|Цвет, используемый для Перекрашивание.|
-|LeaveBlackPartsBlack|Обязательное свойство.| **MsoTriState**| **Значение true,** Если все части исходного изображения были черный цвет следует оставить черные.|
+|Color|Required| **ColorFormat**|The color to be used for recoloring.|
+|LeaveBlackPartsBlack|Required| **MsoTriState**| **True** if all parts of the original picture that were black in color should be left black.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-**Изменение цвета** , соответствует параметры, доступные в диалоговом окне **Перекрашивание рисунков** . (В меню **Формат** выберите пункт **изображение**и нажмите кнопку **изменить цвет**)
+The  **Recolor** method corresponds to the options available in the **Recolor Picture** dialog box. (On the **Format** menu, click **Picture**, and then click  **Recolor**)
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **Перекрашивание** для изменения цвета изображения. Он recolors первой фигуры в коллекции **фигур** на первой странице публикации. После выполнения кода с помощью метода **[RestoreOriginalColors](pictureformat-restoreoriginalcolors-method-publisher.md)** можно восстановить исходные цвета.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Recolor** method to change the color of a picture. It recolors the first shape in the **Shapes** collection on the first page of the publication. After running the code, you can restore the original colors by using the **[RestoreOriginalColors](pictureformat-restoreoriginalcolors-method-publisher.md)** method.
 
-В данном примере для работы фигуры к перекрашиванию значения изображения или объекта, который представляет изображение.
+For this example to work, the shape to be recolored must be either a picture or an OLE object that represents a picture.
 
 
 

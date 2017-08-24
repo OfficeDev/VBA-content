@@ -1,54 +1,69 @@
 ---
-title: "Метод TextRange.Move (издатель)"
+title: TextRange.Move Method (Publisher)
 keywords: vbapb10.chm5308422
-f1_keywords: vbapb10.chm5308422
+f1_keywords:
+- vbapb10.chm5308422
 ms.prod: publisher
-api_name: Publisher.TextRange.Move
+api_name:
+- Publisher.TextRange.Move
 ms.assetid: a51b4153-2ac5-2293-d2a0-d4a3786268d7
 ms.date: 06/08/2017
-ms.openlocfilehash: aa5c5f5fba3601c92f671583d810cdd795e6691a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangemove-method-publisher"></a>Метод TextRange.Move (издатель)
-
-Сворачивает его начала или окончания позиции указанного диапазона, а затем перемещает свернутые объекта указанное число единиц измерения. Этот метод возвращает значение типа **Long** , представляющее количество единиц, на которое объект действительно был перемещен или возвращает нуль (0), если не удалось выполнить перемещение.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Move Method (Publisher)
 
- _выражение_. **Перемещение** ( **_Единицы_**, **_размер_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Collapses the specified range to its start position or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** that represents the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Move**( **_Unit_**,  **_Size_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Подразделения|Обязательное свойство.| **PbTextUnit**|Подразделения, с помощью которого является перемещены свернутые диапазон или выделить фрагмент.|
-|Размер|Обязательное свойство.| **Длинный**|Число единиц измерения, по которым указанный диапазон или выделить фрагмент не переместить. Если **размер** — это положительное число, объект свернуты в конец положение и переместить вперед в документе на указанное число единиц измерения. Если **размер** отрицательное значение, объект свернуты в положение начала и переместить назад указанное число единиц измерения. Направление свернуть также можно управлять с помощью метода **Свернуть** перед использованием метода **Move** .|
+|Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
+|Size|Required| **Long**|The number of units by which the specified range or selection is to be moved. If  **Size** is a positive number, the object is collapsed to its end position and moved forward in the document by the specified number of units. If **Size** is a negative number, the object is collapsed to its start position and moved backward by the specified number of units. You can also control the collapse direction by using the **Collapse** method before using the **Move** method.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Длинный
-
-
-## <a name="remarks"></a>Заметки
-
-Параметр устройства может быть одной из констант **PbTextUnit** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+Long
 
 
+## Remarks
 
-| **pbTextUnitCell**|| **pbTextUnitCharacter**|| **pbTextUnitCharFormat**|| **pbTextUnitCodePoint**|| **pbTextUnitColumn**|| **pbTextUnitLine**|| **pbTextUnitObject**|| **pbTextUnitParaFormat**|| **pbTextUnitParagraph**|| **pbTextUnitRow**|| **pbTextUnitScreen**|| **pbTextUnitSection**|| **pbTextUnitSentence**|| **pbTextUnitStory**|| **pbTextUnitTable**|| **pbTextUnitWindow**|| **pbTextUnitWord**|
+The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
 
-## <a name="example"></a>Пример
 
-В этом примере сворачивает указанного диапазона и вставка нового предложения в начало диапазона.
+
+| **pbTextUnitCell**|
+| **pbTextUnitCharacter**|
+| **pbTextUnitCharFormat**|
+| **pbTextUnitCodePoint**|
+| **pbTextUnitColumn**|
+| **pbTextUnitLine**|
+| **pbTextUnitObject**|
+| **pbTextUnitParaFormat**|
+| **pbTextUnitParagraph**|
+| **pbTextUnitRow**|
+| **pbTextUnitScreen**|
+| **pbTextUnitSection**|
+| **pbTextUnitSentence**|
+| **pbTextUnitStory**|
+| **pbTextUnitTable**|
+| **pbTextUnitWindow**|
+| **pbTextUnitWord**|
+
+## Example
+
+This example collapses the specified range and inserts a new sentence at the beginning of the range.
 
 
 ```vb

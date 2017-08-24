@@ -1,34 +1,33 @@
 ---
-title: "Метод WebListBoxItems.Delete (издатель)"
+title: WebListBoxItems.Delete Method (Publisher)
 keywords: vbapb10.chm4128773
-f1_keywords: vbapb10.chm4128773
+f1_keywords:
+- vbapb10.chm4128773
 ms.prod: publisher
-api_name: Publisher.WebListBoxItems.Delete
+api_name:
+- Publisher.WebListBoxItems.Delete
 ms.assetid: 1efd92e7-77a1-62cb-655a-aa6e600df018
 ms.date: 06/08/2017
-ms.openlocfilehash: f84ce565814984e3690728fb6c5c8e339cc3533a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weblistboxitemsdelete-method-publisher"></a>Метод WebListBoxItems.Delete (издатель)
-
-Удаляет указанный скрытого поля Web или веб-объект элемента списка поля.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebListBoxItems.Delete Method (Publisher)
 
- _выражение_. **Удаление** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **WebListBoxItems** .
+Deletes the specified hidden Web field or Web list box item object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Delete**( **_Index_**)
+
+ _expression_A variable that represents a  **WebListBoxItems** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Длинный**|Число Web поля или поля элемента списка для удаления.|
+|Index|Required| **Long**|The number of the Web field or list box item to delete.|
 

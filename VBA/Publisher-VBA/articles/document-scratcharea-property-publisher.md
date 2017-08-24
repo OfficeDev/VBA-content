@@ -1,42 +1,41 @@
 ---
-title: "Свойство Document.ScratchArea (издатель)"
+title: Document.ScratchArea Property (Publisher)
 keywords: vbapb10.chm196657
-f1_keywords: vbapb10.chm196657
+f1_keywords:
+- vbapb10.chm196657
 ms.prod: publisher
-api_name: Publisher.Document.ScratchArea
+api_name:
+- Publisher.Document.ScratchArea
 ms.assetid: 782d9b7f-b620-60f0-c21d-04f588c37cc6
 ms.date: 06/08/2017
-ms.openlocfilehash: 0af19ac3f646473c90e934fac077ff1199e95c80
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentscratcharea-property-publisher"></a>Свойство Document.ScratchArea (издатель)
-
-Возвращает объект **[ScratchArea](scratcharea-object-publisher.md)** для данного документа.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ScratchArea Property (Publisher)
 
- _выражение_. **ScratchArea**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[ScratchArea](scratcharea-object-publisher.md)** object for an a given document.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ScratchArea**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
 
 ScratchArea
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Объект **ScratchArea** представляет собой коллекцию объектов на странице "Рабочий". Объект **ScratchArea** является не в коллекции **страниц** , так как он не существенно страницы; его только сходство на страницу — это, что он может содержать объекты.
+The  **ScratchArea** object is a collection of objects on the scratch page. The **ScratchArea** object is not in the **Pages** collection because it is fundamentally not a page; its only similarity to a page is that it can contain objects.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задаются объект переменной как первую фигуру вспомогательной области активных документов.
+This example sets the variable object as the first shape on the scratch area of the active document.
 
 
 ```vb

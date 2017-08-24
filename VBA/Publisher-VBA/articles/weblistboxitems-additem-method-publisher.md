@@ -1,48 +1,47 @@
 ---
-title: "Метод WebListBoxItems.AddItem (издатель)"
+title: WebListBoxItems.AddItem Method (Publisher)
 keywords: vbapb10.chm4128772
-f1_keywords: vbapb10.chm4128772
+f1_keywords:
+- vbapb10.chm4128772
 ms.prod: publisher
-api_name: Publisher.WebListBoxItems.AddItem
+api_name:
+- Publisher.WebListBoxItems.AddItem
 ms.assetid: 1c3af4d1-ed0b-60c6-b607-17712612cec2
 ms.date: 06/08/2017
-ms.openlocfilehash: 5b1d7af4747241e8b351bdf75c10e8f97edf0b7b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weblistboxitemsadditem-method-publisher"></a>Метод WebListBoxItems.AddItem (издатель)
-
-Добавляет элемент управления списка Web элементов списка.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebListBoxItems.AddItem Method (Publisher)
 
- _выражение_. **AddItem** ( **_Элемент_**, **_индекса_**, **_SelectState_**, **_ItemValue_**)
-
- переменная _expression_A, представляет собой объект- **WebListBoxItems** .
+Adds list items to a Web list box control.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddItem**( **_Item_**,  **_Index_**,  **_SelectState_**,  **_ItemValue_**)
+
+ _expression_A variable that represents a  **WebListBoxItems** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Item|Обязательное свойство.| **String**|Имя элемента, как оно отображается в списке.|
-|Индекс|Необязательный| **Длинный**|Номер элемента списка. Если не указан индекс или находится вне диапазона индексов существующих элементов списка, новый элемент добавляется в конец списка. В противном случае — новый элемент вставляется в позиции, заданной параметром индекса и позицию индекса все элементы после увеличивается на один.|
-|SelectState|Необязательный| **Boolean**| **Значение true,** Если элемент выбран, когда сначала отображается поле со списком. Значение по умолчанию — **False**.|
-|ItemValue|Необязательный| **String**|Значение элемента списка. Если не указан, значение нового элемента будет совпадать с именем элемента.|
+|Item|Required| **String**|The name of the item as it appears in the list.|
+|Index|Optional| **Long**|The number of the list item. If Index is not specified or it is out of range of the indices of existing list box items, the new item will be added to the end of the list box. Otherwise the new item will be inserted at the position specified by Index and the index position of all items after it will be increased by one.|
+|SelectState|Optional| **Boolean**| **True** if the item is selected when the list box is initially displayed. Default value is **False**.|
+|ItemValue|Optional| **String**|The value of the list box item. If not specified, the new item's value will be the same as the item name.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-При создании нового списка Web программными средствами содержит три элемента. Используйте метод **[Delete](weblistboxitems-delete-method-publisher.md)** , чтобы удалить их из списка.
+When you programmatically create a new Web list box, it contains three items. Use the  **[Delete](weblistboxitems-delete-method-publisher.md)** method to remove them from the list.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается новый элемент управления полем списка в активной публикации, удаляет трех стандартных элементов списка и добавляет несколько элементов.
+This example creates a new list box control in the active publication, removes the three default list items, and then adds several items to it.
 
 
 ```vb

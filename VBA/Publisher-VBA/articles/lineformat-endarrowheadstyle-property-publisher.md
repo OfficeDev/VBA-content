@@ -1,44 +1,43 @@
 ---
-title: "Свойство LineFormat.EndArrowheadStyle (издатель)"
+title: LineFormat.EndArrowheadStyle Property (Publisher)
 keywords: vbapb10.chm3408134
-f1_keywords: vbapb10.chm3408134
+f1_keywords:
+- vbapb10.chm3408134
 ms.prod: publisher
-api_name: Publisher.LineFormat.EndArrowheadStyle
+api_name:
+- Publisher.LineFormat.EndArrowheadStyle
 ms.assetid: 991354c7-3f2c-a882-74d6-1c5cd3019494
 ms.date: 06/08/2017
-ms.openlocfilehash: 627a11da435d5255205cebd6f7980d737af657ff
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatendarrowheadstyle-property-publisher"></a>Свойство LineFormat.EndArrowheadStyle (издатель)
-
-Возвращает или задает константой **MsoArrowheadStyle** , указывающее, стиль стрелки в конце указанной строке. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.EndArrowheadStyle Property (Publisher)
 
- _выражение_. **EndArrowheadStyle**
-
- переменная _expression_A, представляющий объект **LineFormat** .
+Returns or sets an  **MsoArrowheadStyle** constant indicating the style of the arrowhead at the end of the specified line. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **EndArrowheadStyle**
+
+ _expression_A variable that represents an  **LineFormat** object.
+
+
+### Return Value
 
 MsoArrowheadStyle
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **[BeginArrowheadStyle](lineformat-beginarrowheadstyle-property-publisher.md)** используется для возвращения или задания стиля стрелки в начале строки.
+Use the  **[BeginArrowheadStyle](lineformat-beginarrowheadstyle-property-publisher.md)** property to return or set the style of the arrowhead at the beginning of the line.
 
-Значение свойства **EndArrowheadStyle** может иметь одно из ** [MsoArrowheadStyle](http://msdn.microsoft.com/library/e598631e-dad9-649b-767b-99e7e7ea83da%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **EndArrowheadStyle** property value can be one of the ** [MsoArrowheadStyle](http://msdn.microsoft.com/library/e598631e-dad9-649b-767b-99e7e7ea83da%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляет строку active публикации. Существует короткий, узкий овал на начальную точку строки и long, широкий треугольник в его конечной точки.
+This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
 ```vb

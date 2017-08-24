@@ -1,50 +1,49 @@
 ---
-title: "Свойство Font.Bold (издатель)"
+title: Font.Bold Property (Publisher)
 keywords: vbapb10.chm5373955
-f1_keywords: vbapb10.chm5373955
+f1_keywords:
+- vbapb10.chm5373955
 ms.prod: publisher
-api_name: Publisher.Font.Bold
+api_name:
+- Publisher.Font.Bold
 ms.assetid: 3b9ba2b0-c319-9d08-9a36-5b292046962e
 ms.date: 06/08/2017
-ms.openlocfilehash: cef00dc0647605ae053348888102ab92f7b03a23
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontbold-property-publisher"></a>Свойство Font.Bold (издатель)
-
-Возвращает или задает константой **MsoTriState**, представляющее состояние свойства **Bold** символов в диапазон текста. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.Bold Property (Publisher)
 
- _выражение_. **Полужирным шрифтом**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns or sets an  **MsoTriState**constant that represents the state of the  **Bold** property on the characters in a text range. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Bold**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **Bold** может иметь одно из следующих **MsoTriState** константы, описанные в библиотеке типов, Microsoft Office.
+The  **Bold** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Ни один из символов в диапазоне форматируются полужирным шрифтом.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, что диапазон содержит текст полужирным и не форматированный текст полужирным шрифтом.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**|Все символы в диапазоне форматируются полужирным шрифтом.|
+| **msoFalse**|None of the characters in the range are formatted as bold.|
+| **msoTriStateMixed**|Return value indicating that the range contains some text formatted as bold and some text not formatted as bold.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**|All characters in the range are formatted as bold.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверяется весь текст во второй материал active публикации и, если она содержит текст полужирным шрифтом и не полужирным шрифтом, задает весь текст выделяется полужирным шрифтом. Если текст все полужирным или не все полужирным шрифтом, отображается сообщение, предупреждающее, что нет не смешанных полужирное начертание. Для этого кода для выполнения должным образом должен быть более двух функциональности с текстом в активной публикации.
+This example tests all the text in the second story of the active publication and, if it contains both bold text and not bold text, it sets all the text to bold. If the text is all bold or all not bold, a message is displayed informing the user there is no mixed bolding. For this code to execute properly, there must be two or more stories with text in the active publication.
 
 
 ```vb

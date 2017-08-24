@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.Table (издатель)"
+title: ShapeRange.Table Property (Publisher)
 keywords: vbapb10.chm2293864
-f1_keywords: vbapb10.chm2293864
+f1_keywords:
+- vbapb10.chm2293864
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Table
+api_name:
+- Publisher.ShapeRange.Table
 ms.assetid: 68221d37-505a-4701-8c9d-b8e695c8eb8f
 ms.date: 06/08/2017
-ms.openlocfilehash: a50f6b7eecc67a8513ca18096f5216134821ac46
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangetable-property-publisher"></a>Свойство ShapeRange.Table (издатель)
-
-Возвращает объект **таблицы** , который представляет таблицу в Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Table Property (Publisher)
 
- _выражение_. **В таблице**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns a  **Table** object that represents a table in Microsoft Publisher.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере добавляется таблица 5 x 5 на первой странице active публикации и затем выбирает первый столбец новой таблицы.
+ _expression_. **Table**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
 
 
 ```vb
@@ -39,7 +38,7 @@ Sub NewTable()
 End Sub
 ```
 
-В следующем примере выбирается указанную таблицу в активной публикации. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
+The following example selects the specified table in the active publication. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 

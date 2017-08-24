@@ -1,45 +1,44 @@
 ---
-title: "Метод MailMergeDataSource.SetSortOrder (издатель)"
+title: MailMergeDataSource.SetSortOrder Method (Publisher)
 keywords: vbapb10.chm6291489
-f1_keywords: vbapb10.chm6291489
+f1_keywords:
+- vbapb10.chm6291489
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.SetSortOrder
+api_name:
+- Publisher.MailMergeDataSource.SetSortOrder
 ms.assetid: 0ecb5f77-2cd1-92c6-b7f2-bf709f015ba5
 ms.date: 06/08/2017
-ms.openlocfilehash: 279096245e4f3f352d549d2fe6f657b42bb51b64
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourcesetsortorder-method-publisher"></a>Метод MailMergeDataSource.SetSortOrder (издатель)
-
-Задает порядок сортировки для слияния данных.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.SetSortOrder Method (Publisher)
 
- _выражение_. **SetSortOrder** ( **_SortField1_**, **_SortAscending1_**, **_SortField2_**, **_SortAscending2_**, **_SortField3_**, **_SortAscending3_**)
-
- переменная _expression_A, представляющий объект **вывода** .
+Sets the sort order for mail merge data.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **SetSortOrder**( **_SortField1_**,  **_SortAscending1_**,  **_SortField2_**,  **_SortAscending2_**,  **_SortField3_**,  **_SortAscending3_**)
+
+ _expression_A variable that represents a  **MailMergeDataSource** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SortField1|Необязательный| **String**|Первое поле, по которому выполняется сортировка данных слияния почты. Значение по умолчанию — пустая строка.|
-|SortAscending1|Необязательный| **Boolean**| **Значение true** (по умолчанию) для выполнения сортировки по возрастанию на SortField1; **Значение false** для выполнения по убыванию сортировка.|
-|SortField2|Необязательный| **String**|Второе поле, по которому выполняется сортировка данных слияния почты. Значение по умолчанию — пустая строка.|
-|SortAscending2|Необязательный| **Boolean**| **Значение true** (по умолчанию) для выполнения сортировки по возрастанию на SortField2; **Значение false** для выполнения по убыванию сортировка.|
-|SortField3|Необязательный| **String**|Третий поле, по которому выполняется сортировка данных слияния почты. Значение по умолчанию — пустая строка.|
-|SortAscending3|Необязательный| **Boolean**| **Значение true** (по умолчанию) для выполнения сортировки по возрастанию на SortField3; **Значение false** для выполнения по убыванию сортировка.|
+|SortField1|Optional| **String**|The first field on which to sort the mail merge data. Default is an empty string.|
+|SortAscending1|Optional| **Boolean**| **True** (default) to perform an ascending sort on SortField1; **False** to perform a descending sort.|
+|SortField2|Optional| **String**|The second field on which to sort the mail merge data. Default is an empty string.|
+|SortAscending2|Optional| **Boolean**| **True** (default) to perform an ascending sort on SortField2; **False** to perform a descending sort.|
+|SortField3|Optional| **String**|The third field on which to sort the mail merge data. Default is an empty string.|
+|SortAscending3|Optional| **Boolean**| **True** (default) to perform an ascending sort on SortField3; **False** to perform a descending sort.|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример сначала сортировка данных слияния почты на почтовый индекс в убывающем порядке, затем на последний и имени в порядке возрастания.
+The following example sorts mail merge data first on postal code in descending order, then on last name and first name in ascending order.
 
 
 ```vb

@@ -1,33 +1,32 @@
 ---
-title: "Объект WebPageOptions (издатель)"
+title: WebPageOptions Object (Publisher)
 keywords: vbapb10.chm548863
-f1_keywords: vbapb10.chm548863
+f1_keywords:
+- vbapb10.chm548863
 ms.prod: publisher
-api_name: Publisher.WebPageOptions
+api_name:
+- Publisher.WebPageOptions
 ms.assetid: 694b56ce-1c2d-8202-25b7-19e55aadb0fd
 ms.date: 06/08/2017
-ms.openlocfilehash: cd6ed0327a90cdd4f6f3dd66dc1be9611715548d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webpageoptions-object-publisher"></a>Объект WebPageOptions (издатель)
 
-Представляет свойства одного веб-страницы в веб-публикации, включая варианты добавления заголовок и описание страницы, звуковое сопровождение, кроме работы с другими параметрами. Объект **WebPageOptions** , является участником объекта **[Page](page-object-publisher.md)** .
+
+# WebPageOptions Object (Publisher)
+
+Represents the properties of a single Web page within a Web publication, including options for adding the title and description of the page, background sounds, in addition to other options. The  **WebPageOptions** object is a member of the **[Page](page-object-publisher.md)** object.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Обратите внимание, что объект **WebPageOptions** доступна только при активной публикации веб-публикации. При попытке доступа к этому объекту из публикации в возвращается ошибка во время выполнения.
+Note that the  **WebPageOptions** object is only available when the active publication is a Web publication. A run-time error is returned if trying to access this object from a print publication.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[WebPageOptions](page-webpageoptions-property-publisher.md)** на объект **Page** для получения объекта **WebPageOptions** . Используйте свойство **[Description](webpageoptions-description-property-publisher.md)** описание для указанного веб-страницы. В следующем примере задается описание для второй страницы active веб-публикации.
+Use the  **[WebPageOptions](page-webpageoptions-property-publisher.md)** property on the **Page** object to return a **WebPageOptions** object. Use the **[Description](webpageoptions-description-property-publisher.md)** property to set the description of a specified Web page. The following example sets the description for the second page of the active Web publication.
  
 
  
@@ -43,7 +42,7 @@ End With
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -51,19 +50,19 @@ End With
 |:-----|
 |[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](webpageoptions-application-property-publisher.md)|
-|['' Фоновый звук ''](webpageoptions-backgroundsound-property-publisher.md)|
+|[Application](webpageoptions-application-property-publisher.md)|
+|[BackgroundSound](webpageoptions-backgroundsound-property-publisher.md)|
 |[BackgroundSoundLoopCount](webpageoptions-backgroundsoundloopcount-property-publisher.md)|
 |[BackgroundSoundLoopForever](webpageoptions-backgroundsoundloopforever-property-publisher.md)|
-|[Описание](webpageoptions-description-property-publisher.md)|
+|[Description](webpageoptions-description-property-publisher.md)|
 |[IncludePageOnNewWebNavigationBars](webpageoptions-includepageonnewwebnavigationbars-property-publisher.md)|
-|[Ключевые слова](webpageoptions-keywords-property-publisher.md)|
-|[Родительский раздел](webpageoptions-parent-property-publisher.md)|
+|[Keywords](webpageoptions-keywords-property-publisher.md)|
+|[Parent](webpageoptions-parent-property-publisher.md)|
 |[PublishFileName](webpageoptions-publishfilename-property-publisher.md)|
 

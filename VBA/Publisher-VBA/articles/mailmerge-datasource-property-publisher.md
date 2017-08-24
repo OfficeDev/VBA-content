@@ -1,37 +1,36 @@
 ---
-title: "Свойство MailMerge.DataSource (издатель)"
+title: MailMerge.DataSource Property (Publisher)
 keywords: vbapb10.chm6225923
-f1_keywords: vbapb10.chm6225923
+f1_keywords:
+- vbapb10.chm6225923
 ms.prod: publisher
-api_name: Publisher.MailMerge.DataSource
+api_name:
+- Publisher.MailMerge.DataSource
 ms.assetid: 19b32513-fd57-617a-38e2-6230e3e036b9
 ms.date: 06/08/2017
-ms.openlocfilehash: 4acee980021143fe25bd03981ff2fa7b903ecdc8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasource-property-publisher"></a>Свойство MailMerge.DataSource (издатель)
-
-Возвращает объект **[вывода](mailmergedatasource-object-publisher.md)** , который относится к источнику данных, подключенного к публикации главного слиянием слияния почты и каталогов.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.DataSource Property (Publisher)
 
- _выражение_. **Источник данных**
-
- переменная _expression_A, представляет собой объект- **слияния** .
+Returns a  **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Вывода
+ _expression_. **DataSource**
+
+ _expression_A variable that represents a  **MailMerge** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере отображается путь и имя источника данных, подключенного к active публикации.
+MailMergeDataSource
+
+
+## Example
+
+This example displays the path and file name of the data source attached to the active publication.
 
 
 ```vb

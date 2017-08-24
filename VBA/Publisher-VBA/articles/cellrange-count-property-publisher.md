@@ -1,32 +1,31 @@
 ---
-title: "Свойство CellRange.Count (издатель)"
+title: CellRange.Count Property (Publisher)
 keywords: vbapb10.chm5177347
-f1_keywords: vbapb10.chm5177347
+f1_keywords:
+- vbapb10.chm5177347
 ms.prod: publisher
-api_name: Publisher.CellRange.Count
+api_name:
+- Publisher.CellRange.Count
 ms.assetid: b21dfbc8-fa1d-aa25-c8a2-ed81629b5da1
 ms.date: 06/08/2017
-ms.openlocfilehash: 5f16b25d331e8c2f30a4aa76d447957eee2fab8f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellrangecount-property-publisher"></a>Свойство CellRange.Count (издатель)
-
-Возвращает значение типа **Long** , представляющее количество элементов в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# CellRange.Count Property (Publisher)
 
- _выражение_. **Count**
-
- переменная _expression_A, представляет собой объект- **CellRange** .
+Returns a  **Long** that represents the number of items in the specified collection.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображается число страниц в активный документ.
+ _expression_. **Count**
+
+ _expression_A variable that represents a  **CellRange** object.
+
+
+## Example
+
+This example displays the number of pages in the active document.
 
 
 ```vb
@@ -36,7 +35,7 @@ Sub CountNumberOfPages()
 End Sub
 ```
 
-В этом примере отображается количество фигур в активном документе.
+This example displays the number of shapes in the active document.
 
 
 

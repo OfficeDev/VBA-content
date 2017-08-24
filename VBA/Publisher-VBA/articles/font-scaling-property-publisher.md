@@ -1,42 +1,41 @@
 ---
-title: "Свойство Font.Scaling (издатель)"
+title: Font.Scaling Property (Publisher)
 keywords: vbapb10.chm5373977
-f1_keywords: vbapb10.chm5373977
+f1_keywords:
+- vbapb10.chm5373977
 ms.prod: publisher
-api_name: Publisher.Font.Scaling
+api_name:
+- Publisher.Font.Scaling
 ms.assetid: 4ff0c484-12f8-38e3-72fd-dfd34507aec1
 ms.date: 06/08/2017
-ms.openlocfilehash: a4ef27aceb97b3e4741103d7271361422c8158e9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontscaling-property-publisher"></a>Свойство Font.Scaling (издатель)
-
-Возвращает или задает значение **типа Variant** , используемый для масштабирования ширину знаков в диапазон текста в процентном соотношении от текущего размера. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.Scaling Property (Publisher)
 
- _выражение_. **Масштабирование**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns or sets a  **Variant** value used to scale the width of the characters in the text range as a percentage of the current font size. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Scaling**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Допустимые значения — 0,1 для 600.0, где число представляет процент от текущего размера шрифта. Неопределенное значения возвращаются в виде -2.
+Valid range is 0.1 to 600.0 where the number represents the percentage of current font size. Indeterminate values are returned as -2.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере увеличивает ширины текста в вторая статья в 200%. В данном примере для работы вторая статья с текстом должен существовать в активный документ.
+This example scales the width of the text in the second story by 200%. For this example to work, a second story with text must exist in the active document.
 
 
 ```vb

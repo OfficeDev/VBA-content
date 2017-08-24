@@ -1,40 +1,39 @@
 ---
-title: "Метод Cell.Merge (издатель)"
+title: Cell.Merge Method (Publisher)
 keywords: vbapb10.chm5111842
-f1_keywords: vbapb10.chm5111842
+f1_keywords:
+- vbapb10.chm5111842
 ms.prod: publisher
-api_name: Publisher.Cell.Merge
+api_name:
+- Publisher.Cell.Merge
 ms.assetid: 09ae6910-ba47-4b0e-5792-ac9eb1298d57
 ms.date: 06/08/2017
-ms.openlocfilehash: 91841f8342bf763bdb4ddab402d9645951e28394
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellmerge-method-publisher"></a>Метод Cell.Merge (издатель)
-
-Объединяет указанной ячейке таблицы с другой ячейки. Результатом является одну ячейку.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.Merge Method (Publisher)
 
- _выражение_. **Объединение** ( **_MergeTo_**)
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+Merges the specified table cell with another cell. The result is a single table cell.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Merge**( **_MergeTo_**)
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|MergeTo|Обязательное свойство.| **Ячейки**|Ячейки для объединения. должен быть рядом с указанной ячейке или ошибка возникает.|
+|MergeTo|Required| **Cell**|The cell to be merged with; must be adjacent to the specified cell or an error occurs.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выполняется объединение первых двух смежных ячеек первого столбца указанную таблицу.
+This example merges the first two cells of the first column of the specified table.
 
 
 ```vb

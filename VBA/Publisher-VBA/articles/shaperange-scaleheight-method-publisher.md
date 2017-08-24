@@ -1,61 +1,63 @@
 ---
-title: "Метод ShapeRange.ScaleHeight (издатель)"
+title: ShapeRange.ScaleHeight Method (Publisher)
 keywords: vbapb10.chm2293797
-f1_keywords: vbapb10.chm2293797
+f1_keywords:
+- vbapb10.chm2293797
 ms.prod: publisher
-api_name: Publisher.ShapeRange.ScaleHeight
+api_name:
+- Publisher.ShapeRange.ScaleHeight
 ms.assetid: 54058fe5-d922-0ea9-08e8-99fff89bde55
 ms.date: 06/08/2017
-ms.openlocfilehash: 04e02ab50ef7c08d08d2ad8db019c94bed2d4507
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangescaleheight-method-publisher"></a>Метод ShapeRange.ScaleHeight (издатель)
-
-Масштабирование высота формы с указанным коэффициентом. Для изображений и объекты OLE можно указать, следует ли масштабировать фигуры относительно исходного размера или относительно текущего размера.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.ScaleHeight Method (Publisher)
 
- _выражение_. **ScaleHeight** ( **_Коэффициент_** **_RelativeToOriginalSize_** **_fScale_**)
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Scales the height of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original size or relative to the current size.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ScaleHeight**( **_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Коэффициент|Обязательное свойство.| **Один**|Указывает отношение между высота формы при изменении размера и высота текущей или исходной. Например чтобы сделать прямоугольник более 50 процентов, укажите 1,5 для этого аргумента.|
-|RelativeToOriginalSize|Обязательное свойство.| **MsoTriState**|Указывает, следует ли масштабировать относительно размер исходного или текущего объекта.|
-|fScale|Необязательный| **MsoScaleFrom**|Часть фигуры, сохраняет его положение при масштабировании фигуры.|
+|Factor|Required| **Single**|Specifies the ratio between the height of the shape after you resize it and the current or original height. For example, to make a rectangle 50 percent larger, specify 1.5 for this argument.|
+|RelativeToOriginalSize|Required| **MsoTriState**|Specifies whether to scale relative to the object's original or current size.|
+|fScale|Optional| **MsoScaleFrom**|The part of the shape that retains its position when the shape is scaled.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр RelativeToOriginalSize может быть одной из констант **MsoTriState** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице.
+The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Масштабируется фигуры относительно его текущий размер.|
-| **msoTrue**|Масштабируется фигуры относительно исходного размера.|
-Параметр fScale может быть одной из констант **MsoScaleFrom** объявлена в библиотеке типов, Microsoft Office и показаны в следующей таблице. Значение по умолчанию — **msoScaleFromTopLeft**.
+| **msoFalse**|Scales the shape relative to its current size.|
+| **msoTrue**|Scales the shape relative to its original size.|
+The fScale parameter can be one of the  **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
 
 
 
-| **msoScaleFromBottomRight**|| **msoScaleFromMiddle**|| **msoScaleFromTopLeft**| Фигуры, отличный от изображения и объекты OLE всегда масштабируются их текущей высоте; значение RelativeToOriginalSize **msoTrue** для фигур, отличный от изображения или объекты OLE приводит к ошибке.
+| **msoScaleFromBottomRight**|
+| **msoScaleFromMiddle**|
+| **msoScaleFromTopLeft**|
+Shapes other than pictures and OLE objects are always scaled relative to their current height; specifying a RelativeToOriginalSize value of  **msoTrue** for shapes other than pictures or OLE objects causes an error.
 
-Используйте метод **[ScaleWidth](shape-scalewidth-method-publisher.md)** масштабирование ширины фигуры.
+Use the  **[ScaleWidth](shape-scalewidth-method-publisher.md)** method to scale the width of a shape.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере масштабирование все изображения и объекты OLE на первой странице active публикации до 175 процентов их исходной высоты и ширины и масштабов всех фигур 175% от их текущего высоту и ширину.
+This example scales all pictures and OLE objects on the first page of the active publication to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
 ```vb

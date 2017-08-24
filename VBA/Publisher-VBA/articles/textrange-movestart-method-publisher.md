@@ -1,54 +1,69 @@
 ---
-title: "Метод TextRange.MoveStart (издатель)"
+title: TextRange.MoveStart Method (Publisher)
 keywords: vbapb10.chm5308423
-f1_keywords: vbapb10.chm5308423
+f1_keywords:
+- vbapb10.chm5308423
 ms.prod: publisher
-api_name: Publisher.TextRange.MoveStart
+api_name:
+- Publisher.TextRange.MoveStart
 ms.assetid: 5a9c480b-3cb7-0fd8-59c0-e2f93a925164
 ms.date: 06/08/2017
-ms.openlocfilehash: 0f9f52dbe7ebe8d6e77a515ad896f2c04902662e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangemovestart-method-publisher"></a>Метод TextRange.MoveStart (издатель)
-
-Перемещает начальное положение указанного диапазона. Этот метод возвращает значение типа **Long** , указывающее количество единиц, на которое начальное положение или диапазон или выделить фрагмент фактически перемещен или возвращает нуль (0), если не удалось выполнить перемещение.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.MoveStart Method (Publisher)
 
- _выражение_. **Методов MoveStart** ( **_Единицы_**, **_размер_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Moves the start position of the specified range. This method returns a  **Long** that indicates the number of units by which the start position or the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MoveStart**( **_Unit_**,  **_Size_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Подразделения|Обязательное свойство.| **PbTextUnit**|Подразделения, с помощью которого является перемещены свернутые диапазон или выделить фрагмент.|
-|Размер|Обязательное свойство.| **Длинный**|Число единиц измерения для перемещения. Если этот номер является положительным, положение конечного знака перемещается вперед в документе. Если этот номер является отрицательным, конца перемещается назад. Если положение конечного положением начального знака, диапазон сворачивается, а оба символа положения перемещаются одновременно.|
+|Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
+|Size|Required| **Long**|The number of units to move. If this number is positive, the ending character position is moved forward in the document. If this number is negative, the end is moved backward. If the ending position overtakes the starting position, the range collapses and both character positions move together.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Длинный
-
-
-## <a name="remarks"></a>Заметки
-
-Параметр устройства может быть одной из констант **PbTextUnit** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+Long
 
 
+## Remarks
 
-| **pbTextUnitCell**|| **pbTextUnitCharacter**|| **pbTextUnitCharFormat**|| **pbTextUnitCodePoint**|| **pbTextUnitColumn**|| **pbTextUnitLine**|| **pbTextUnitObject**|| **pbTextUnitParaFormat**|| **pbTextUnitParagraph**|| **pbTextUnitRow**|| **pbTextUnitScreen**|| **pbTextUnitSection**|| **pbTextUnitSentence**|| **pbTextUnitStory**|| **pbTextUnitTable**|| **pbTextUnitWindow**|| **pbTextUnitWord**|
+The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
 
-## <a name="example"></a>Пример
 
-В этом примере задает диапазон текста, перемещает диапазон начальной и конечной позиций символов и форматирует шрифта для диапазона.
+
+| **pbTextUnitCell**|
+| **pbTextUnitCharacter**|
+| **pbTextUnitCharFormat**|
+| **pbTextUnitCodePoint**|
+| **pbTextUnitColumn**|
+| **pbTextUnitLine**|
+| **pbTextUnitObject**|
+| **pbTextUnitParaFormat**|
+| **pbTextUnitParagraph**|
+| **pbTextUnitRow**|
+| **pbTextUnitScreen**|
+| **pbTextUnitSection**|
+| **pbTextUnitSentence**|
+| **pbTextUnitStory**|
+| **pbTextUnitTable**|
+| **pbTextUnitWindow**|
+| **pbTextUnitWord**|
+
+## Example
+
+This example sets a text range, moves the range's starting and ending character positions, and then formats the font for the range.
 
 
 ```vb

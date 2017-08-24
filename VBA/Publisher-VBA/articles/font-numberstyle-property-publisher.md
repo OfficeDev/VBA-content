@@ -1,36 +1,34 @@
 ---
-title: "Свойство Font.NumberStyle (издатель)"
+title: Font.NumberStyle Property (Publisher)
 keywords: vbapb10.chm5374006
-f1_keywords: vbapb10.chm5374006
+f1_keywords:
+- vbapb10.chm5374006
 ms.prod: publisher
 ms.assetid: e4adedac-e3a5-4a85-8825-ba24c32dca60
 ms.date: 06/08/2017
-ms.openlocfilehash: ea5da85115f81e2407e2809e123d4f42abd08885
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontnumberstyle-property-publisher"></a>Свойство Font.NumberStyle (издатель)
-
-Возвращает или задает значение константы **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)** , представляющее состояние свойства **NumberStyles** числовых символов в диапазоне текста. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.NumberStyle Property (Publisher)
 
- _выражение_.  **NumberStyles**
-
- переменная _expression_A, представляющий объект **[Font](font-object-publisher.md)** .
+Returns or sets a  **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_.  **NumberStyles**
+
+ _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+
+
+## Return Value
 
  ** [pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
 
- **Примечание**  Свойство **NumberStyles** действует только для шрифтов OpenType, которые содержат числовые форматы.
+ **Note**  The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
 
 

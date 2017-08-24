@@ -1,26 +1,25 @@
 ---
-title: "Теги Object (издатель)"
+title: Tags Object (Publisher)
 keywords: vbapb10.chm4718591
-f1_keywords: vbapb10.chm4718591
+f1_keywords:
+- vbapb10.chm4718591
 ms.prod: publisher
-api_name: Publisher.Tags
+api_name:
+- Publisher.Tags
 ms.assetid: 76cccc1e-4623-af8b-f0f8-e6cc245b94fd
 ms.date: 06/08/2017
-ms.openlocfilehash: 9f875ffc7e4f5a8e419f47e823306ef875b1db21
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tags-object-publisher"></a>Теги Object (издатель)
 
-Коллекция объектов **тег** , представляющий теги или настраиваемых свойств, применяемых к фигуры, диапазона фигуры, страницы или публикации.
+
+# Tags Object (Publisher)
+
+A collection of  **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[теги](shape-tags-property-publisher.md)** для доступа к коллекции **тегов** . Используйте метод **[Add](tags-add-method-publisher.md)** коллекции **теги** добавьте объект **тег** фигуры, диапазона фигуры, страницы или публикации. В этом примере добавляется тег для каждой фигуры овала на первой странице active публикации.
+Use the  **[Tags](shape-tags-property-publisher.md)** property to access the **Tags** collection. Use the **[Add](tags-add-method-publisher.md)** method of the **Tags** collection to add a **Tag** object to a shape, shape range, page, or publication. This example adds a tag to each oval shape on the first page of the active publication.
  
 
  
@@ -38,7 +37,7 @@ Sub AddNewTag()
 End Sub
 ```
 
-Используйте свойство **[Count](tags-count-property-publisher.md)** для определения, если фигуры, диапазона фигуры, страницы или публикации содержит один или несколько объектов **тег** . В этом примере заполняет всех фигур на первой странице active публикации, если первый тег фигуры имеет значение овал.
+Use the  **[Count](tags-count-property-publisher.md)** property to determine if a shape, shape range, page, or publication contains one or more **Tag** objects. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
  
 
  
@@ -61,22 +60,22 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Добавление](tags-add-method-publisher.md)|
-|[Элемент](tags-item-method-publisher.md)|
+|[Add](tags-add-method-publisher.md)|
+|[Item](tags-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](tags-application-property-publisher.md)|
+|[Application](tags-application-property-publisher.md)|
 |[Count](tags-count-property-publisher.md)|
-|[Родительский раздел](tags-parent-property-publisher.md)|
+|[Parent](tags-parent-property-publisher.md)|
 

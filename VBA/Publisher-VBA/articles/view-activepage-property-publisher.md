@@ -1,37 +1,36 @@
 ---
-title: "Свойство View.ActivePage (издатель)"
+title: View.ActivePage Property (Publisher)
 keywords: vbapb10.chm327683
-f1_keywords: vbapb10.chm327683
+f1_keywords:
+- vbapb10.chm327683
 ms.prod: publisher
-api_name: Publisher.View.ActivePage
+api_name:
+- Publisher.View.ActivePage
 ms.assetid: 29289fb2-6692-4cb5-a9e2-b2edb9e9cd7e
 ms.date: 06/08/2017
-ms.openlocfilehash: a4850678eb5ba7f296ad9705cdf9111bcf7d1084
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="viewactivepage-property-publisher"></a>Свойство View.ActivePage (издатель)
-
-Возвращает объект **[Page](page-object-publisher.md)** , представляющего страницу, отображаемых в окне Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# View.ActivePage Property (Publisher)
 
- _выражение_. **ActivePage**
-
- переменная _expression_A, представляющий объект **View** .
+Returns a  **[Page](page-object-publisher.md)** object that represents the page currently displayed in the Microsoft Publisher window.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ActivePage**
+
+ _expression_A variable that represents a  **View** object.
+
+
+### Return Value
 
 Page
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере сохраняет активную страницу как изображения JPEG. (Обратите внимание на то, что действительный путь к файлу для работы этого примера необходимо заменить PathToFile.)
+This example saves the active page as a JPEG picture. (Note that PathToFile must be replaced with a valid file path for this example to work.)
 
 
 ```vb
@@ -41,7 +40,7 @@ Sub SavePageAsPicture()
 End Sub
 ```
 
-В этом примере добавляется горизонтальную и вертикальную на активную страницу, которая пересекаются в центре страницы.
+This example adds a horizontal ruler guide and a vertical ruler guide to the active page that intersect at the center point of the page.
 
 
 

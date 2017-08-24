@@ -1,37 +1,36 @@
 ---
-title: "Свойство Font.Tracking (издатель)"
+title: Font.Tracking Property (Publisher)
 keywords: vbapb10.chm5373984
-f1_keywords: vbapb10.chm5373984
+f1_keywords:
+- vbapb10.chm5373984
 ms.prod: publisher
-api_name: Publisher.Font.Tracking
+api_name:
+- Publisher.Font.Tracking
 ms.assetid: c703a5ec-e8d7-36ce-ac50-d41265ce92db
 ms.date: 06/08/2017
-ms.openlocfilehash: cf03d6f48bba4a9f2ff1c052ceae40dbec3b39f7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fonttracking-property-publisher"></a>Свойство Font.Tracking (издатель)
-
-Возвращает или задает **Variant** , указывающее, отслеживания значение, используемое для отображения пространство между символами в диапазоне указанный текст. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.Tracking Property (Publisher)
 
- _выражение_. **Отслеживание**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Допустимые значения — от 0.0 для 600.0 точек. Для свойства значение 0.0 отключает отслеживание. Неопределенное значения возвращаются в виде -2.
+ _expression_. **Tracking**
+
+ _expression_A variable that represents a  **Font** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере отключается отслеживание во второй материал, задав свойство **отслеживания** нулевое значение.
+Valid range is 0.0 to 600.0 points. Setting the property to 0.0 disables tracking. Indeterminate values are returned as -2.
+
+
+## Example
+
+This example disables tracking in the second story by setting the  **Tracking** property to zero.
 
 
 ```vb

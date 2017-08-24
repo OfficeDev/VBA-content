@@ -1,44 +1,43 @@
 ---
-title: "Свойство ParagraphFormat.CharBasedFirstLineIndent (издатель)"
+title: ParagraphFormat.CharBasedFirstLineIndent Property (Publisher)
 keywords: vbapb10.chm5439528
-f1_keywords: vbapb10.chm5439528
+f1_keywords:
+- vbapb10.chm5439528
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.CharBasedFirstLineIndent
+api_name:
+- Publisher.ParagraphFormat.CharBasedFirstLineIndent
 ms.assetid: d0432be6-2e6a-39fa-9e9a-0300a0437f35
 ms.date: 06/08/2017
-ms.openlocfilehash: 08186e2468bade5b281ea0a598f7c346a5de636e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatcharbasedfirstlineindent-property-publisher"></a>Свойство ParagraphFormat.CharBasedFirstLineIndent (издатель)
-
-Возвращает или задает значение отступ первой строки (в ширину знаков). Чтение и запись **времени**.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.CharBasedFirstLineIndent Property (Publisher)
 
- _выражение_. **CharBasedFirstLineIndent**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns or sets the value of the first line indent (in East Asian character width). Read/write  **Long**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **CharBasedFirstLineIndent**
 
-
-## <a name="remarks"></a>Заметки
-
-Значение **CharBasedFirstLineIndent** может возвращаются или задаются только после установки **[UseCharBasedFirstLineIndent](paragraphformat-usecharbasedfirstlineindent-property-publisher.md)** . Если **UseCharBasedFirstLineIndent** установлено сначала возвращается ошибку времени выполнения «отказано в разрешении». Обратите внимание, что **UseCharBasedFirstLineIndent** можно задать только в том случае, если на клиентском компьютере, (независимо от того, включен ли восточно-азиатских языков может быть возвращаемое значение) включены восточно-азиатских языков. Эффективно, это означает, что **CharBasedFirstLineIndent** не может использоваться, если на клиентском компьютере не разрешены восточно-азиатских языков.
-
-Значение **CharBasedFirstLineIndent** находится в диапазоне от 0 (ноль) до 80.
+ _expression_A variable that represents a  **ParagraphFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере создается текстовое поле на странице четвертый active публикации. После **UseCharBasedFirstLineIndent** задано значение **True**, ширина отступ первой строки задано 15 точек с помощью свойства **CharBasedFirstLineIndent** . Задайте свойства шрифта и вставки текста в абзац.
+Long
+
+
+## Remarks
+
+The value of  **CharBasedFirstLineIndent** can be returned or set only after the **[UseCharBasedFirstLineIndent](paragraphformat-usecharbasedfirstlineindent-property-publisher.md)** has been set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first. Note, however, that **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer (the value can be returned regardless of whether East Asian languages are enabled). This effectively means that **CharBasedFirstLineIndent** cannot be used unless East Asian languages are enabled on the client computer.
+
+The value of  **CharBasedFirstLineIndent** can range from 0 (zero) to 80.
+
+
+## Example
+
+The following example creates a text box on the fourth page of the active publication. After the  **UseCharBasedFirstLineIndent** property is set to **True**, the width of the first line indent is set to 15 points by using the  **CharBasedFirstLineIndent** property. Font properties are then set, and text is inserted into the paragraph.
 
 
 ```vb

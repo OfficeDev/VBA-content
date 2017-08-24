@@ -1,43 +1,42 @@
 ---
-title: "Свойство AdvancedPrintOptions.HorizontalFlip (издатель)"
+title: AdvancedPrintOptions.HorizontalFlip Property (Publisher)
 keywords: vbapb10.chm7077892
-f1_keywords: vbapb10.chm7077892
+f1_keywords:
+- vbapb10.chm7077892
 ms.prod: publisher
-api_name: Publisher.AdvancedPrintOptions.HorizontalFlip
+api_name:
+- Publisher.AdvancedPrintOptions.HorizontalFlip
 ms.assetid: afb61c80-4706-8602-e78a-be35e2966c8c
 ms.date: 06/08/2017
-ms.openlocfilehash: 31041cf08bebef4853bc32a814631a23e3328c93
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="advancedprintoptionshorizontalflip-property-publisher"></a>Свойство AdvancedPrintOptions.HorizontalFlip (издатель)
-
- **Значение true** для печати по горизонтали зеркальную указанной публикации. Значение по умолчанию — **False**. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# AdvancedPrintOptions.HorizontalFlip Property (Publisher)
 
- _выражение_. **HorizontalFlip**
-
- переменная _expression_A, представляющий объект **AdvancedPrintOptions** .
+ **True** to print a horizontally mirrored image of the specified publication. The default is **False**. Read/write  **Boolean**.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Это свойство доступно только в том случае, если active печати используется принтер PostScript. Возвращает ошибку времени выполнения, если указан другие принтера. Используйте свойство **[IsPostscriptPrinter](advancedprintoptions-ispostscriptprinter-property-publisher.md)** объекта **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** для определения, если указанный принтер PostScript принтера.
+ _expression_. **HorizontalFlip**
 
-Данное свойство применяется для будущего экземпляры Microsoft Publisher и сохраняются как параметр приложения.
-
-Это свойство соответствует управления **отражение по горизонтали** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
-
-Это свойство используется в основном при печати фильма фотонаборным, чтобы правильного считывания изображения, когда на лицевой стороне фильма не работает (как при записи на форме press).
+ _expression_A variable that represents an  **AdvancedPrintOptions** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующий пример определяет, является ли активного принтера PostScript принтера. Если он установлен, активных публикация предназначена для печати как по горизонтали зеркальное копирование и по вертикали зеркальное копирование, отрицательные изображение самого себя.
+This property is accessible only if the active printer is a PostScript printer. Returns a run-time error if a non-PostScript printer is specified. Use the  **[IsPostscriptPrinter](advancedprintoptions-ispostscriptprinter-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to determine if the specified printer is a PostScript printer.
+
+This property is saved as an application setting and applied to future instances of Microsoft Publisher.
+
+This property corresponds to the  **Flip horizontally** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+
+This property is mostly used when printing to film on an imagesetter so that the image reads correctly when the emulsion side of the film is down (as when burning a press plate).
+
+
+## Example
+
+The following example determines if the active printer is a PostScript printer. If it is, the active publication is set to print as a horizontally mirrored and vertically mirrored, negative image of itself.
 
 
 ```vb
@@ -55,11 +54,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
+ [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
 

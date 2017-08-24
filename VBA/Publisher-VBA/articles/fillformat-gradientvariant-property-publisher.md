@@ -1,42 +1,41 @@
 ---
-title: "Свойство FillFormat.GradientVariant (издатель)"
+title: FillFormat.GradientVariant Property (Publisher)
 keywords: vbapb10.chm2359557
-f1_keywords: vbapb10.chm2359557
+f1_keywords:
+- vbapb10.chm2359557
 ms.prod: publisher
-api_name: Publisher.FillFormat.GradientVariant
+api_name:
+- Publisher.FillFormat.GradientVariant
 ms.assetid: f57224dc-e9c6-e1aa-e950-97dfd5ed483f
 ms.date: 06/08/2017
-ms.openlocfilehash: 06b2b3aa326f32b31913aee7fad388b4a1d518c9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformatgradientvariant-property-publisher"></a>Свойство FillFormat.GradientVariant (издатель)
-
-Возвращает значение типа **Long** , указывающее, градиентный variant для указанного заполнения. Как правило значениями являются целые числа от 1 до 4 для большинства градиентные заливки. Если стиль градиента **msoGradientFromTitle** или **msoGradientFromCenter**, данное свойство возвращает 1 или 2. Значения для этого свойства соответствуют градиента вариантов (нумерованные слева направо и сверху вниз) на вкладке **градиента** в диалоговом окне **Заливки** . Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.GradientVariant Property (Publisher)
 
- _выражение_. **GradientVariant**
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Returns a  **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** tab in the **Fill Effects** dialog box. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **GradientVariant**
 
-
-## <a name="remarks"></a>Заметки
-
-Используйте метод **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)**, **[PresetGradient](fillformat-presetgradient-method-publisher.md)**или **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** установка градиента variant для заполнения.
+ _expression_A variable that represents a  **FillFormat** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляет прямоугольник active публикации и задает его тип variant градиентной заливки в соответствии с именем прямоуг1 фигуры. Для обеспечения работы примера прямоуг1 должна иметь градиентной заливки.
+Long
+
+
+## Remarks
+
+Use the  **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)**,  **[PresetGradient](fillformat-presetgradient-method-publisher.md)**, or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient variant for the fill.
+
+
+## Example
+
+This example adds a rectangle to the active publication and sets its fill gradient variant to match that of the shape named rect1. For the example to work, rect1 must have a gradient fill.
 
 
 ```vb

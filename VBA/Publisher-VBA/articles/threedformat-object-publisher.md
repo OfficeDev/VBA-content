@@ -1,33 +1,32 @@
 ---
-title: "Объект ThreeDFormat (издатель)"
+title: ThreeDFormat Object (Publisher)
 keywords: vbapb10.chm3866623
-f1_keywords: vbapb10.chm3866623
+f1_keywords:
+- vbapb10.chm3866623
 ms.prod: publisher
-api_name: Publisher.ThreeDFormat
+api_name:
+- Publisher.ThreeDFormat
 ms.assetid: 11d57330-c99e-5aa9-d47c-2c5d2846ed4d
 ms.date: 06/08/2017
-ms.openlocfilehash: afbab5d0a217f805150510ac0a7b7da62049a567
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="threedformat-object-publisher"></a>Объект ThreeDFormat (издатель)
 
-Представляет трехмерную форматирования фигуры.
+
+# ThreeDFormat Object (Publisher)
+
+Represents a shape's three-dimensional formatting.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Не удается применить трехмерную форматирование некоторые виды фигур, таких как среза фигур. Большая часть свойств и методов объекта **ThreeDFormat** для таких фигуры завершится с ошибкой.
+You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes. Most of the properties and methods of the  **ThreeDFormat** object for such a shape will fail.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **[ThreeD](shape-threed-property-publisher.md)** используется для возврата объекта **ThreeDFormat** . В этом примере задается число уровней, цвет объемной фигуры, направление придания объема и направление освещения для объемных эффектов, примененных к фигуры один активный публикации.
+Use the  **[ThreeD](shape-threed-property-publisher.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
  
 
  
@@ -51,7 +50,7 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -63,13 +62,13 @@ End Sub
 |[SetExtrusionDirection](threedformat-setextrusiondirection-method-publisher.md)|
 |[SetThreeDFormat](threedformat-setthreedformat-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](threedformat-application-property-publisher.md)|
+|[Application](threedformat-application-property-publisher.md)|
 |[BevelBottomDepth](threedformat-bevelbottomdepth-property-publisher.md)|
 |[BevelBottomInset](threedformat-bevelbottominset-property-publisher.md)|
 |[BevelBottomType](threedformat-bevelbottomtype-property-publisher.md)|
@@ -78,12 +77,12 @@ End Sub
 |[BevelTopType](threedformat-beveltoptype-property-publisher.md)|
 |[ContourColor](threedformat-contourcolor-property-publisher.md)|
 |[ContourWidth](threedformat-contourwidth-property-publisher.md)|
-|[Число уровней](threedformat-depth-property-publisher.md)|
+|[Depth](threedformat-depth-property-publisher.md)|
 |[ExtrusionColor](threedformat-extrusioncolor-property-publisher.md)|
 |[ExtrusionColorType](threedformat-extrusioncolortype-property-publisher.md)|
 |[FieldOfView](threedformat-fieldofview-property-publisher.md)|
-|[Родительский раздел](threedformat-parent-property-publisher.md)|
-|[Перспектива](threedformat-perspective-property-publisher.md)|
+|[Parent](threedformat-parent-property-publisher.md)|
+|[Perspective](threedformat-perspective-property-publisher.md)|
 |[PresetExtrusionDirection](threedformat-presetextrusiondirection-property-publisher.md)|
 |[PresetLightingDirection](threedformat-presetlightingdirection-property-publisher.md)|
 |[PresetLightingSoftness](threedformat-presetlightingsoftness-property-publisher.md)|

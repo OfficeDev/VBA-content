@@ -1,32 +1,31 @@
 ---
-title: "Свойство Cell.Column (издатель)"
+title: Cell.Column Property (Publisher)
 keywords: vbapb10.chm5111815
-f1_keywords: vbapb10.chm5111815
+f1_keywords:
+- vbapb10.chm5111815
 ms.prod: publisher
-api_name: Publisher.Cell.Column
+api_name:
+- Publisher.Cell.Column
 ms.assetid: 09e067a2-ee84-7a76-72b6-3b348238d020
 ms.date: 06/08/2017
-ms.openlocfilehash: 6c7354e209da38083b7aa0abe70202cbdade3a0e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellcolumn-property-publisher"></a>Свойство Cell.Column (издатель)
-
-Возвращает значение типа **Long** , который представляет столбец таблицы с указанной ячейке. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.Column Property (Publisher)
 
- _выражение_. **Столбец**
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+Returns a  **Long** that represents the table column containing the specified cell. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляет страницу в активной публикации, создается таблица на новой странице и диагонали разделяет всем ячейкам в четных столбцов.
+ _expression_. **Column**
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+## Example
+
+This example adds a page to the active publication, creates a table on that new page, and diagonally splits all cells in even-numbered columns.
 
 
 ```vb

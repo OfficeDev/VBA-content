@@ -1,45 +1,44 @@
 ---
-title: "Метод Shapes.Range (издатель)"
+title: Shapes.Range Method (Publisher)
 keywords: vbapb10.chm2162725
-f1_keywords: vbapb10.chm2162725
+f1_keywords:
+- vbapb10.chm2162725
 ms.prod: publisher
-api_name: Publisher.Shapes.Range
+api_name:
+- Publisher.Shapes.Range
 ms.assetid: f9ef5314-21f1-378f-1552-fcd4e46f841d
 ms.date: 06/08/2017
-ms.openlocfilehash: 2d82ab78433701c0c450646093e2518118437f0b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesrange-method-publisher"></a>Метод Shapes.Range (издатель)
-
-Возвращает объект **[ShapeRange](shaperange-object-publisher.md)** , который представляет собой подмножество фигуры в коллекции **фигур** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.Range Method (Publisher)
 
- _выражение_. **Диапазон** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Range**( **_Index_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Variant**|Отдельные фигуры, которые должны быть включены в диапазоне. Может быть целое число, указывающее индекс фигуры, string, указывающее имя фигуры или массив, содержащий целых значений или строк. Если индекс указан, метод **диапазона** возвращает все объекты в указанном семействе сайтов.|
+|Index|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the  **Range** method returns all the objects in the specified collection.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 ShapeRange
 
 
-## <a name="example"></a>Пример
+## Example
 
-Чтобы указать массив целых значений или строк для **_индекса_**, можно использовать функцию **массива** . Например следующие инструкции возвращает двумя фигурами, указанный в параметре name.
+To specify an array of integers or strings for  **_Index_**, you can use the  **Array** function. For example, the following instruction returns two shapes specified by name.
 
 
 ```vb
@@ -51,7 +50,7 @@ Set shpRange = ActiveDocument.Pages(1) _
  .Shapes.Range(arrShapes)
 ```
 
-В этом примере задается узор заливки для фигур одним и три active публикацией.
+This example sets the fill pattern for shapes one and three on the active publication.
 
 
 
@@ -68,7 +67,7 @@ ActiveDocument.Pages(1).Shapes.Range(Array(1, 3)).Fill _
 
 ```
 
-В этом примере задается узор заливки для фигуры, с именем «Овал 4» и «прямоугольник 5" на первой странице.
+This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on the first page.
 
 
 
@@ -84,7 +83,7 @@ Set shpRange = ActiveDocument.Pages(1).Shapes.Range(arrShapes)
 shpRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-В этом примере задается узор заливки для всех фигур на первой странице.
+This example sets the fill pattern for all shapes on the first page.
 
 
 
@@ -94,7 +93,7 @@ ActiveDocument.Pages(1).Shapes _
  .Range.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-В этом примере задается узор заливки для фигуры одно на первой странице.
+This example sets the fill pattern for shape one on the first page.
 
 
 
@@ -107,7 +106,7 @@ Set shpRange = ActiveDocument.Pages(1).Shapes.Range(1)
 shpRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
-В этом примере создается массив, содержащий все автофигуры на первой странице, этот массив используется для определения диапазона фигуры и затем распределяет всех фигур в этот диапазон по горизонтали.
+This example creates an array that contains all the AutoShapes on the first page, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 
 
 

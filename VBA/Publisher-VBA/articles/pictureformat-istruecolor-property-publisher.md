@@ -1,51 +1,50 @@
 ---
-title: "Свойство PictureFormat.IsTrueColor (издатель)"
+title: PictureFormat.IsTrueColor Property (Publisher)
 keywords: vbapb10.chm3604770
-f1_keywords: vbapb10.chm3604770
+f1_keywords:
+- vbapb10.chm3604770
 ms.prod: publisher
-api_name: Publisher.PictureFormat.IsTrueColor
+api_name:
+- Publisher.PictureFormat.IsTrueColor
 ms.assetid: 63708d40-996a-67ca-b4eb-dd53c83d1764
 ms.date: 06/08/2017
-ms.openlocfilehash: 2396596660768d645998afd57e0fbaf33c9ae36b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatistruecolor-property-publisher"></a>Свойство PictureFormat.IsTrueColor (издатель)
-
-Возвращает **MsoTriState** константа, указывающее, содержит ли указанный рисунок или объект OLE данные цвета 24 бита на канал или более высокой версии. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.IsTrueColor Property (Publisher)
 
- _выражение_. **IsTrueColor**
-
- переменная _expression_A, представляющий объект **PictureFormat** .
+Returns an  **MsoTriState** constant indicating whether the specified picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **IsTrueColor**
+
+ _expression_A variable that represents an  **PictureFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для изображений, которые не являются TrueColor используйте свойство **[ColorsInPalette](pictureformat-colorsinpalette-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** для определения количества цветов в палитре рисунков.
+For pictures that are not TrueColor, use the  **[ColorsInPalette](pictureformat-colorsinpalette-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine the number of colors in the picture's palette.
 
-Значение свойства **IsTrueColor** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **IsTrueColor** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Указанный рисунок не содержит данных цвета 24 бита на канал или более высокой версии.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTrue**| Указанный рисунок содержит данные цвета 24 бита на канал или более высокой версии.|
+| **msoFalse**|The specified picture does not contain color data of 24 bits per channel or greater.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTrue**| The specified picture contains color data of 24 bits per channel or greater.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере проверяется каждого изображения в активном документе и печатает ли изображен TrueColor. Если он не установлен TrueColor, в примере выводится сколько цветов находятся в палитры рисунка.
+The following example tests each picture in the active document and prints whether the picture is TrueColor. If it is not TrueColor, the example prints how many colors are in the picture's palette.
 
 
 ```vb

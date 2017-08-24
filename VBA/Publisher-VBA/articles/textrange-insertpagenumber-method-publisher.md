@@ -1,57 +1,56 @@
 ---
-title: "Метод TextRange.InsertPageNumber (издатель)"
+title: TextRange.InsertPageNumber Method (Publisher)
 keywords: vbapb10.chm5308486
-f1_keywords: vbapb10.chm5308486
+f1_keywords:
+- vbapb10.chm5308486
 ms.prod: publisher
-api_name: Publisher.TextRange.InsertPageNumber
+api_name:
+- Publisher.TextRange.InsertPageNumber
 ms.assetid: f71d3b40-0263-93fa-d7e3-d815b90f71f7
 ms.date: 06/08/2017
-ms.openlocfilehash: b3a9e2f07320a86b1cb77e20c3ec45ffd875279c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeinsertpagenumber-method-publisher"></a>Метод TextRange.InsertPageNumber (издатель)
-
-Возвращает объект **[TextRange](textrange-object-publisher.md)** , представляющий поля номера страницы в публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.InsertPageNumber Method (Publisher)
 
- _выражение_. **InsertPageNumber** ( **_Тип_**)
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a page number field in a publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **InsertPageNumber**( **_Type_**)
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Тип|Необязательный| **PbPageNumberType**|Задает, является ли номер страницы в текущий номер страницы или номер страницы следующий или предыдущий связанный текстового поля.|
+|Type|Optional| **PbPageNumberType**|Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 TextRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Тип может иметь одно из следующих констант **PbPageNumberType** .
+Type can be one of these  **PbPageNumberType** constants.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbPageNumberCurrent**|По умолчанию.|
-| **pbPageNumberNextInStory**|Вставляет номер следующей связанной надписи.|
-| **pbPageNumberPreviousInStory**|Вставляет номер предыдущей связанной надписи.|
+| **pbPageNumberCurrent**|The default.|
+| **pbPageNumberNextInStory**|Inserts the page number of the next linked text box.|
+| **pbPageNumberPreviousInStory**|Inserts the page number of the previous linked text box.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере Вставка поля номера страницы в фигуры на главной странице, чтобы текущий номер страницы отображается в верхней части каждой страницы.
+This example inserts a page number field in a shape on the master page so that the current page number appears at the top of each page.
 
 
 ```vb

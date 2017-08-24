@@ -1,43 +1,41 @@
 ---
-title: "Свойство FillFormat.TextureVerticalScale (издатель)"
+title: FillFormat.TextureVerticalScale Property (Publisher)
 keywords: vbapb10.chm2359577
-f1_keywords: vbapb10.chm2359577
+f1_keywords:
+- vbapb10.chm2359577
 ms.prod: publisher
 ms.assetid: 3de76d58-31c0-94ce-d6a0-268fde8f04d0
 ms.date: 06/08/2017
-ms.openlocfilehash: 7719836dba9ca793e1688f27c294766f6ac23442
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformattextureverticalscale-property-publisher"></a>Свойство FillFormat.TextureVerticalScale (издатель)
-
-Возвращает или задает **одного** , которое задает коэффициент вертикального масштабирования для заполнения текстуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.TextureVerticalScale Property (Publisher)
 
- _выражение_. **TextureVerticalScale**
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 
 
-## <a name="property-value"></a>Значение свойства
+## Syntax
 
- Позволяет явно задавать тип числовых значений.
+ _expression_. **TextureVerticalScale**
 
-
-## <a name="remarks"></a>Заметки
-
-Значение свойства **TextureVerticalScale** соответствует параметру поле **Масштаб Y** на вкладке **Заливка** в диалоговом окне **Формат фигуры** в пользовательском интерфейсе Publisher. (В разделе **Средства рисования**на вкладке **Формат** выберите **Заливки фигуры**, выберите пункт **текстуры**и нажмите кнопку **Дополнительно текстуры**.)
+ _expression_A variable that represents a  **FillFormat** object.
 
 
-## <a name="see-also"></a>См. также
+## Property value
+
+ **FLOAT**
 
 
-#### <a name="concepts"></a>Основные понятия
+## Remarks
+
+The setting of the  **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box on the **Fill** tab of the **Format Shape** dialog box in the Publisher user interface. (Under **Drawing Tools**, on the  **Format** tab, click **Shape Fill**, point to  **Texture**, and then click  **More Textures**.)
 
 
- [Объект FillFormat](fillformat-object-publisher.md)
+## See also
+
+
+#### Concepts
+
+
+ [FillFormat Object](fillformat-object-publisher.md)
 

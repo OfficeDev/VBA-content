@@ -1,52 +1,51 @@
 ---
-title: "Метод WebNavigationBarSet.AddToEveryPage (издатель)"
+title: WebNavigationBarSet.AddToEveryPage Method (Publisher)
 keywords: vbapb10.chm8519698
-f1_keywords: vbapb10.chm8519698
+f1_keywords:
+- vbapb10.chm8519698
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSet.AddToEveryPage
+api_name:
+- Publisher.WebNavigationBarSet.AddToEveryPage
 ms.assetid: d36a3281-a313-084c-0ae9-7a981a7d9713
 ms.date: 06/08/2017
-ms.openlocfilehash: 2220313d87581ba74a0a91be16b36209c1bc5626
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsetaddtoeverypage-method-publisher"></a>Метод WebNavigationBarSet.AddToEveryPage (издатель)
-
-Добавляет **ShapeRange** из типа **pbWebNavigationBar** для каждой страницы текущего документа.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSet.AddToEveryPage Method (Publisher)
 
- _выражение_. **AddToEveryPage** ( **_Слева_**, **_Top_**, **_Width_**)
-
- переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
+Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the current document.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddToEveryPage**( **_Left_**,  **_Top_**,  **_Width_**)
+
+ _expression_A variable that represents a  **WebNavigationBarSet** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Слева|Обязательное свойство.| **Variant**|Задайте положение левого края фигуры, представляющий панель навигации.|
-|Вверх|Обязательное свойство.| **Variant**|Задайте положение верхнего края фигуры, представляющий панель навигации.|
-|Width|Необязательный| **Variant**|Задать ширину фигуры, представляющий панель навигации.|
+|Left|Required| **Variant**|The position of the left edge of the shape representing the Web navigation bar set.|
+|Top|Required| **Variant**|The position of the top edge of the shape representing the Web navigation bar set.|
+|Width|Optional| **Variant**|The width of the shape representing the Web navigation bar set.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 ShapeRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Указанный набор панель навигации Web должен существовать до вызова этого метода. 
+The specified Web navigation bar set must exist before calling this method. 
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется набора именованные «WebNavBarSet1» панель навигации в верхней части каждой страницы в активный документ.
+The following example adds a Web navigation bar set named "WebNavBarSet1" to the top of every page in the active document.
 
 
 ```vb
@@ -55,7 +54,7 @@ ActiveDocument.WebNavigationBarSets("WebNavBarSet1") _
 
 ```
 
-В следующем примере добавляется новый панель навигации задайте в активный документ и добавляет его на все страницы публикации.
+The following example adds a new Web navigation bar set to the active document and adds it to every page of the publication.
 
 
 

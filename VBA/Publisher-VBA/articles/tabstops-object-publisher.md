@@ -1,26 +1,25 @@
 ---
-title: "Объект TabStops (издатель)"
+title: TabStops Object (Publisher)
 keywords: vbapb10.chm5636095
-f1_keywords: vbapb10.chm5636095
+f1_keywords:
+- vbapb10.chm5636095
 ms.prod: publisher
-api_name: Publisher.TabStops
+api_name:
+- Publisher.TabStops
 ms.assetid: fbaa194c-754a-3437-c3d5-fa70c951ca4f
 ms.date: 06/08/2017
-ms.openlocfilehash: 01f0e8a70e8ff28e6b9bef381c378fd8cf4c4887
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tabstops-object-publisher"></a>Объект TabStops (издатель)
 
-Коллекция объектов **[TabStop](tabstop-object-publisher.md)** , представляющие пользовательские и по умолчанию вкладки для абзаца или группы абзацев.
+
+# TabStops Object (Publisher)
+
+A collection of  **[TabStop](tabstop-object-publisher.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[вкладки](paragraphformat-tabs-property-publisher.md)** для возврата коллекции **TabStops** . В следующем примере удаляются все, что настраиваемые табуляции из первого абзаца в активной публикации.
+Use the  **[Tabs](paragraphformat-tabs-property-publisher.md)** property to return the **TabStops** collection. The following example clears all the custom tab stops from the first paragraph in the active publication.
  
 
  
@@ -32,7 +31,7 @@ Sub ClearAllTabStops()
 End Sub
 ```
 
-В следующем примере добавляет позиции табуляции, размещенный в 2,5 дюйма для выделенных абзацев и затем отображает положение каждого элемента в коллекции **TabStops** .
+The following example adds a tab stop positioned at 2.5 inches to the selected paragraphs and then displays the position of each item in the  **TabStops** collection.
  
 
  
@@ -55,7 +54,7 @@ Sub Tabs()
 End Sub
 ```
 
-Используйте метод **[Add](tabstops-add-method-publisher.md)** для добавления позиции табуляции. В следующем примере добавляется два табуляции для выделенных абзацев. Первый табуляции — это вкладка по левому краю с точками заполнитель, размещенный в 1 дюйм (72 точки). Второй позиции табуляции выравнивается по центру и размещенный в 2 дюйма.
+Use the  **[Add](tabstops-add-method-publisher.md)** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
  
 
  
@@ -73,7 +72,7 @@ Sub AddNewTabs()
 End Sub
 ```
 
-Используйте **[вкладки](paragraphformat-tabs-property-publisher.md)** (индекс), где индекс — это расположение табуляции (в пунктах) или номер индекса, чтобы возвратить объект **TabStop** . Табуляции, индексируются числовым слева направо на линейке. Следующий пример удаляет первый stop пользовательской вкладки в первый абзац в активной публикации.
+Use  **[Tabs](paragraphformat-tabs-property-publisher.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active publication.
  
 
  
@@ -87,7 +86,7 @@ Sub ClearTabStop()
 End Sub
 ```
 
-В следующем примере изменяется второй вкладки в выделении до табуляции по правому краю.
+The following example changes the second tab in the selection to a right-aligned tab stop.
  
 
  
@@ -102,23 +101,23 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Добавление](tabstops-add-method-publisher.md)|
+|[Add](tabstops-add-method-publisher.md)|
 |[ClearAll](tabstops-clearall-method-publisher.md)|
-|[Элемент](tabstops-item-method-publisher.md)|
+|[Item](tabstops-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](tabstops-application-property-publisher.md)|
+|[Application](tabstops-application-property-publisher.md)|
 |[Count](tabstops-count-property-publisher.md)|
-|[Родительский раздел](tabstops-parent-property-publisher.md)|
+|[Parent](tabstops-parent-property-publisher.md)|
 

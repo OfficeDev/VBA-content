@@ -1,26 +1,25 @@
 ---
-title: "Объект раздела (издатель)"
+title: Section Object (Publisher)
 keywords: vbapb10.chm7471103
-f1_keywords: vbapb10.chm7471103
+f1_keywords:
+- vbapb10.chm7471103
 ms.prod: publisher
-api_name: Publisher.Section
+api_name:
+- Publisher.Section
 ms.assetid: 7e92a8de-ed66-564b-2657-cef0fc2392b8
 ms.date: 06/08/2017
-ms.openlocfilehash: 8dab6b4feb9ccc1cb271eb366bd750d913d56166
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="section-object-publisher"></a>Объект раздела (издатель)
 
-Представляет раздел публикации или документа.
+
+# Section Object (Publisher)
+
+Represents a Section of a publication or document.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте **разделы**. Item(Index), где номер индекса, чтобы возвратить объект одного **раздела** индекса. В следующем примере задается объект **раздела** в первый раздел в коллекции **разделах** активных документов.
+Use  **Sections**.Item(index) where index is the index number, to return a single **Section** object. The following example sets a **Section** object to the first section in the **Sections** collection of the active document.
  
 
  
@@ -30,7 +29,7 @@ Dim objSection As Section
 Set objSection = ActiveDocument.Sections.Item(1)
 ```
 
-Используйте **разделы**. Add(StartPageIndex), где StartPageIndex — номер индекса страницы, чтобы получить новый раздел, добавлены в документ. Если страница уже содержит раздел head, будут возвращены ошибку «Отказано в разрешении.». Следующий пример добавляет объект раздела на вторую страницу активных документов.
+Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to return a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a Section object to the second page of the active document.
  
 
  
@@ -43,7 +42,7 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -51,17 +50,17 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 |:-----|
 |[Delete](section-delete-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](section-application-property-publisher.md)|
+|[Application](section-application-property-publisher.md)|
 |[ContinueNumbersFromPreviousSection](section-continuenumbersfromprevioussection-property-publisher.md)|
 |[PageNumberFormat](section-pagenumberformat-property-publisher.md)|
 |[PageNumberStart](section-pagenumberstart-property-publisher.md)|
-|[Родительский раздел](section-parent-property-publisher.md)|
+|[Parent](section-parent-property-publisher.md)|
 |[ShowHeaderFooterOnFirstPage](section-showheaderfooteronfirstpage-property-publisher.md)|
 |[StartPageIndex](section-startpageindex-property-publisher.md)|
 

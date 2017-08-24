@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextEffectFormat.FontItalic (издатель)"
+title: TextEffectFormat.FontItalic Property (Publisher)
 keywords: vbapb10.chm3735810
-f1_keywords: vbapb10.chm3735810
+f1_keywords:
+- vbapb10.chm3735810
 ms.prod: publisher
-api_name: Publisher.TextEffectFormat.FontItalic
+api_name:
+- Publisher.TextEffectFormat.FontItalic
 ms.assetid: 6594e6f7-e29e-a51d-55b8-d02f1fb9f26a
 ms.date: 06/08/2017
-ms.openlocfilehash: 953e734604b96c89c34b920ea8307c8e01992b65
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="texteffectformatfontitalic-property-publisher"></a>Свойство TextEffectFormat.FontItalic (издатель)
-
-Задает или возвращает константу **MsoTriState**, которое указывает, находится ли курсивное начертание шрифта для буквицы или текст надписи WordArt. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextEffectFormat.FontItalic Property (Publisher)
 
- _выражение_. **FontItalic**
-
- переменная _expression_A, представляет собой объект- **TextEffectFormat** .
+Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is italic. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **FontItalic** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+ _expression_. **FontItalic**
+
+ _expression_A variable that represents a  **TextEffectFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере вносятся буквицы в элементе frame указанного текста курсивом. В этом примере предполагается, что указанный текст frame отформатирован буквицы.
+The  **FontItalic** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example makes the dropped capital letter in the specified text frame italic. This example assumes that the specified text frame is formatted with a dropped capital letter.
 
 
 ```vb

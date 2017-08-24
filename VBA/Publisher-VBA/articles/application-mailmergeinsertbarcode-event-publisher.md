@@ -1,54 +1,53 @@
 ---
-title: "Событие Application.MailMergeInsertBarcode (издатель)"
+title: Application.MailMergeInsertBarcode Event (Publisher)
 keywords: vbapb10.chm268435481
-f1_keywords: vbapb10.chm268435481
+f1_keywords:
+- vbapb10.chm268435481
 ms.prod: publisher
-api_name: Publisher.Application.MailMergeInsertBarcode
+api_name:
+- Publisher.Application.MailMergeInsertBarcode
 ms.assetid: 6b901953-eaff-0189-1d33-678e935a2f7e
 ms.date: 06/08/2017
-ms.openlocfilehash: d87a00146a3a7ae752890e74b1e74a3918a5e911
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationmailmergeinsertbarcode-event-publisher"></a>Событие Application.MailMergeInsertBarcode (издатель)
-
-Происходит, когда пользователь выполняет команду для вставки почтовых штрих-кодов в публикацию слияния почты в Microsoft Publisher пользовательского интерфейса (UI), либо программными средствами.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.MailMergeInsertBarcode Event (Publisher)
 
- _выражение_. **MailMergeInsertBarcode** ( **_Doc_**, **_OkToInsert_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs when the user issues the command to insert postal barcodes into a mail-merge publication, either in the Microsoft Publisher user interface (UI), or programmatically.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **MailMergeInsertBarcode**( **_Doc_**,  **_OkToInsert_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Текущей публикации.|
-|OkToInsert|Обязательное свойство.| **Boolean**|Выходной параметр.  **Значение true,** Если это хорошо для вставки штрих-коды.|
+|Doc|Required| **Document**|The current publication.|
+|OkToInsert|Required| **Boolean**|Output parameter.  **True** if it is okay to insert barcodes.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Метод **[InsertBarcode](textrange-insertbarcode-method-publisher.md)** можно использовать для вставки штрих-кодов в публикации слияния.
+You can use the  **[InsertBarcode](textrange-insertbarcode-method-publisher.md)** method to insert barcodes into a mail merge publication.
 
-Надстройки сторонних производителей, которые проверяют адреса слияния почты событие **MailMergeInsertBarcode** можно использовать для прослушивания действия пользователя, запрашивающего вставить, штрих-коды. В этом случае при надстройки получает уведомление, событие **MailMergeInsertBarcode** , проверяет допустимость адреса в списке слияния почты и если адресах являются допустимыми, она пытается создать штрих-коды. Если попытка успешна, надстройки должен возвращать **значение True** для параметра OkToInsert. В случае сбоя установки надстройки должен возвращать **значение False**.
+Third-party add-ins that validate mail-merge addresses can use the  **MailMergeInsertBarcode** event to listen for user actions requesting that barcodes be inserted. In this situation, when the add-in receives notification that the **MailMergeInsertBarcode** event fired, it checks the validity of the addresses in the mail-merge list, and if the addreses are valid, it attempts to generate barcodes. If this attempt is successful, the add-in should return **True** for the OkToInsert parameter. If the attempt fails, the add-in should return **False**.
 
-Фактический штрих-код предоставляется издателю **[MailMergeGenerateBarcode](application-mailmergegeneratebarcode-event-publisher.md)** события.
+Actual barcode data is provided to Publisher by the  **[MailMergeGenerateBarcode](application-mailmergegeneratebarcode-event-publisher.md)** event.
 
-Событие **MailMergeInsertBarcode** также происходит, когда пользователь щелкает **Добавить почтовый штрих-код** в области задач для **слияния почты** и **Объединение в каталог** или **Добавить почтовых штрих-кодов** в области задач **Задачи Publisher** в пользовательском Интерфейсе Publisher. Перед пользователь может щелкнуть любой из этих команд пользовательского интерфейса, вам необходимо сначала сделать их доступными путем установки свойства **[InsertBarcodeVisible](application-insertbarcodevisible-property-publisher.md)** значение **True**. 
+The  **MailMergeInsertBarcode** event is also triggered when a user clicks **Add a postal barcode** in the **Mail Merge** or **Catalog Merge** task pane, or **Add postal bar codes** in the **Publisher Tasks** task pane in the Publisher UI. Before a user can click either of these UI commands, you must first make them available by setting the **[InsertBarcodeVisible](application-insertbarcodevisible-property-publisher.md)** property to **True**. 
 
-Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **MailMergeInsertBarcode** . Отображается сообщение с вопросом, следует ли продолжить Вставка штрих-коды.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **MailMergeInsertBarcode** event. It displays a message asking whether to proceed with inserting barcodes.
 
 
 ```vb
@@ -63,7 +62,7 @@ Private Sub pubApplication_MailMergeInsertBarcode(ByVal Doc As Document, OkToIns
 End Sub
 ```
 
-Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
+For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
 
 
 
@@ -72,7 +71,7 @@ End Sub
 Public WithEvents pubApplication As Application
 ```
 
-Затем выполните следующую процедуру инициализации.
+Then run the following initialization procedure.
 
 
 
@@ -84,11 +83,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebNavigationBarSet.Design (издатель)"
+title: WebNavigationBarSet.Design Property (Publisher)
 keywords: vbapb10.chm8519684
-f1_keywords: vbapb10.chm8519684
+f1_keywords:
+- vbapb10.chm8519684
 ms.prod: publisher
-api_name: Publisher.WebNavigationBarSet.Design
+api_name:
+- Publisher.WebNavigationBarSet.Design
 ms.assetid: 643d0b88-3b6d-65fd-7607-2f81c593a568
 ms.date: 06/08/2017
-ms.openlocfilehash: b9c3a2cf0f35dc0463fa22d7398318151db457a9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webnavigationbarsetdesign-property-publisher"></a>Свойство WebNavigationBarSet.Design (издатель)
-
-Задает или возвращает константу **PbWizardNavBarDesign** , представляющее разработки указанный набор панели навигации веб. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebNavigationBarSet.Design Property (Publisher)
 
- _выражение_. **Разработка**
-
- переменная _expression_A, представляет собой объект- **WebNavigationBarSet** .
+Sets or returns a  **PbWizardNavBarDesign** constant representing the design of the specified Web navigation bar set. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Design**
+
+ _expression_A variable that represents a  **WebNavigationBarSet** object.
+
+
+### Return Value
 
 PbWizardNavBarDesign
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **проекта** может иметь одно из **[PbWizardNavBarDesign](pbwizardnavbardesign-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **Design** property value can be one of the **[PbWizardNavBarDesign](pbwizardnavbardesign-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется новой панели навигации веб задать для каждой страницы в активный документ, задает стиль кнопки для крупных и свойства проекта **pbnbDesignCapsule**.
+This example adds a new Web navigation bar set to every page in the active document, sets the button style to large, and then sets the design property to  **pbnbDesignCapsule**.
 
 
 ```vb

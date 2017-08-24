@@ -1,50 +1,49 @@
 ---
-title: "Метод TextRange.InsertBarcode (издатель)"
+title: TextRange.InsertBarcode Method (Publisher)
 keywords: vbapb10.chm5308502
-f1_keywords: vbapb10.chm5308502
+f1_keywords:
+- vbapb10.chm5308502
 ms.prod: publisher
-api_name: Publisher.TextRange.InsertBarcode
+api_name:
+- Publisher.TextRange.InsertBarcode
 ms.assetid: ad613ca7-f056-55b0-1a96-51167555ce6f
 ms.date: 06/08/2017
-ms.openlocfilehash: 2ce5f4cdbf1e1ab057eaa4dd60c14bde6fc7a17b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangeinsertbarcode-method-publisher"></a>Метод TextRange.InsertBarcode (издатель)
-
-Вставка поля штрих-код в конец диапазона текста, представленного объектом **TextRange** родительского.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.InsertBarcode Method (Publisher)
 
- _выражение_. **InsertBarcode**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Inserts a bar code field at the end of the text range represented by the parent  **TextRange** object.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **InsertBarcode**
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Return Value
 
 TextRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-В идеальном случае следует создать надстройку для Microsoft Publisher для обработки событий, **[MailMergeGenerateBarcode](application-mailmergegeneratebarcode-event-publisher.md)** и **[MailMergeInsertBarcode](application-mailmergeinsertbarcode-event-publisher.md)** . Если вашей надстройки или код не содержит обработчики для этих событий, метод **InsertBarcode** возвращает ошибку.
+Ideally, you should create an add-in to Microsoft Publisher to handle the  **[MailMergeGenerateBarcode](application-mailmergegeneratebarcode-event-publisher.md)** and **[MailMergeInsertBarcode](application-mailmergeinsertbarcode-event-publisher.md)** events. If your add-in or code does not contain handlers for these events, the **InsertBarcode** method returns an error.
 
-В следующем примере показано, как обрабатывать следующие события с помощью Microsoft Visual Basic для приложений (VBA) в редакторе Visual Basic.
+The example that follows shows how to handle these events by using Microsoft Visual Basic for Applications (VBA) code in the Visual Basic Editor.
 
-Если вы хотите включить вставку штрих-кодов в публикации из пользовательского интерфейса, вашей надстройки или кода VBA следует также необходимо задать значение свойства **[InsertBarcodeVisible](application-insertbarcodevisible-property-publisher.md)** значение **True**.
+If you want to enable insertion of bar codes into the publication from the user interface, your add-in or VBA code should also set the  **[InsertBarcodeVisible](application-insertbarcodevisible-property-publisher.md)** property value to **True**.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующем примере показано, как использовать метод **InsertBarcode** для вставки поля штрих кода в текстовом поле в публикации. Вставьте следующий код в проекта VBA и выполнить процедуру, **AttachToEvents** перед выполнением процедуры **InsertBarcode_Example** .
+The following example shows how to use the  **InsertBarcode** method to insert a bar-code field into a text box in a publication. Insert this code into your VBA project, and run the **AttachToEvents** procedure before running the **InsertBarcode_Example** procedure.
 
-Прежде чем запускать код в следующем примере, используйте ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** метод для подключения к источнику данных. Источник данных должен содержать столбец штрих кода, в котором приведены штрих-кодов для всех получателей слияния почты. Замените _barcodeColumnIndex_ в обработчике событий **MailMergeGenerateBarcode** в коде индекс столбца источника данных, который содержит штрих-код.
+Before running the code in this example, use the  ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method to connect to a data source. The data source must contain a bar-code column that lists bar codes for all mail-merge recipients. Replace _barcodeColumnIndex_ in the **MailMergeGenerateBarcode** event handler in the code with the index number of the data-source column that contains bar-code information.
 
-Запустите следующий код в окне **Редактора Visual Basic** и не в диалоговом окне **макросов** . (В меню **Сервис** выберите пункт **макрос**и нажмите кнопку макросы.)
+Run the following code from the  **Visual Basic Editor** window, and not from the **Macros** dialog box. (On the **Tools** menu, point to **Macro**, and then click Macros.)
 
 
 

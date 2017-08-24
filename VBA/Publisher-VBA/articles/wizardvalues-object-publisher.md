@@ -1,26 +1,25 @@
 ---
-title: "Объект WizardValues (издатель)"
+title: WizardValues Object (Publisher)
 keywords: vbapb10.chm1703935
-f1_keywords: vbapb10.chm1703935
+f1_keywords:
+- vbapb10.chm1703935
 ms.prod: publisher
-api_name: Publisher.WizardValues
+api_name:
+- Publisher.WizardValues
 ms.assetid: 559659bb-6c9f-9325-c931-14044c059e18
 ms.date: 06/08/2017
-ms.openlocfilehash: 4938b56a8d994e96c7f399e4ce4e3f1f59bb8896
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardvalues-object-publisher"></a>Объект WizardValues (издатель)
 
-Представляет полный набор допустимых значений для свойства мастера.
+
+# WizardValues Object (Publisher)
+
+Represents the complete set of valid values for a wizard property.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[значения](wizardproperty-values-property-publisher.md)** объекта **WizardProperty** для возврата коллекции **WizardValues** . Следующий пример отображает текущее значение для первого свойства мастера в активной публикации и выводит список всех возможных значений.
+Use the  **[Values](wizardproperty-values-property-publisher.md)** property of the **WizardProperty** object to return a **WizardValues** collection. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
  
 
  
@@ -43,14 +42,14 @@ End With
 ```
 
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](wizardvalues-application-property-publisher.md)|
+|[Application](wizardvalues-application-property-publisher.md)|
 |[Count](wizardvalues-count-property-publisher.md)|
-|[Элемент](wizardvalues-item-property-publisher.md)|
-|[Родительский раздел](wizardvalues-parent-property-publisher.md)|
+|[Item](wizardvalues-item-property-publisher.md)|
+|[Parent](wizardvalues-parent-property-publisher.md)|
 

@@ -1,41 +1,40 @@
 ---
-title: "Событие Application.ShowCatalogUI (издатель)"
+title: Application.ShowCatalogUI Event (Publisher)
 keywords: vbapb10.chm268435493
-f1_keywords: vbapb10.chm268435493
+f1_keywords:
+- vbapb10.chm268435493
 ms.prod: publisher
-api_name: Publisher.Application.ShowCatalogUI
+api_name:
+- Publisher.Application.ShowCatalogUI
 ms.assetid: 8a5a3798-4b95-d77f-70f6-d69dd9dc8f99
 ms.date: 06/08/2017
-ms.openlocfilehash: 2d043e6a43509ddd2f63085f13a3bf4e37db4f97
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationshowcatalogui-event-publisher"></a>Событие Application.ShowCatalogUI (издатель)
-
-Активируется, когда каталога мастера публикации отображается в интерфейсе пользователя Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.ShowCatalogUI Event (Publisher)
 
- _выражение_. **ShowCatalogUI**
-
- _expression_An выражение, возвращающее объект **приложения** .
+Fires when the catalog of publication wizards is displayed in the Microsoft Publisher user interface.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Можно использовать ** [Application.ShowWizardCatalog](application-showwizardcatalog-method-publisher.md)** метод для отображения мастера каталога в пользовательском интерфейсе.
+ _expression_. **ShowCatalogUI**
 
-**ShowCatalogUI** события не возникают при публикации каталога отображается при первом запуске Publisher. Чтобы определить, если каталог отображается в это время, можно использовать свойство **[WizardCatalogVisible](application-wizardcatalogvisible-property-publisher.md)** .
-
-Дополнительные сведения об использовании событий с помощью объекта **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+ _expression_An expression that returns a  **Application** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как обрабатывать события **ShowCatalogUI** . Будет выведено сообщение уведомления об этом пользователя отображение пользовательского интерфейса каталога.
+You can use the  ** [Application.ShowWizardCatalog](application-showwizardcatalog-method-publisher.md)** method to display the wizard catalog in the user interface.
+
+The  **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](application-wizardcatalogvisible-property-publisher.md)** property.
+
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+
+
+## Example
+
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **ShowCatalogUI** event. It displays a message notifying the user that the catalog UI was displayed.
 
 
 ```vb
@@ -44,7 +43,7 @@ Private Sub pubApplication_ShowCatalogUI()
 End Sub
 ```
 
-Для чтобы произошло это событие необходимо включить следующую строку кода в разделе **Общие описаний** модуля.
+For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
 
 
 
@@ -53,7 +52,7 @@ End Sub
 Private WithEvents pubApplication As Application
 ```
 
-Затем выполните следующую процедуру инициализации.
+Then run the following initialization procedure.
 
 
 
@@ -65,11 +64,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

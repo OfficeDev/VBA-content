@@ -1,49 +1,49 @@
 ---
-title: "Метод RulerGuides.Add (издатель)"
+title: RulerGuides.Add Method (Publisher)
 keywords: vbapb10.chm720900
-f1_keywords: vbapb10.chm720900
+f1_keywords:
+- vbapb10.chm720900
 ms.prod: publisher
-api_name: Publisher.RulerGuides.Add
+api_name:
+- Publisher.RulerGuides.Add
 ms.assetid: 3986452a-73da-04c2-4e11-8369d61cd974
 ms.date: 06/08/2017
-ms.openlocfilehash: 5f30c860982f3bee9df853ffe75a886c26a6becb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="rulerguidesadd-method-publisher"></a>Метод RulerGuides.Add (издатель)
-
-Добавление направляющей линейки для указанной коллекции **RulerGuides** .
 
 
-## <a name="syntax"></a>Синтаксис
+# RulerGuides.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_Позицию_**, **_Тип_**)
-
- переменная _expression_A, представляет собой объект- **RulerGuides** .
+Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_Position_**,  **_Type_**)
+
+ _expression_A variable that represents a  **RulerGuides** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Position|Обязательное свойство.| **Variant**|Положение относительно левого края или верхнего края страницы, в которую будет добавлен новый направляющей линейки. Числовые значения вычисляются в точках; строки вычисляются в единицах, заданных и может быть в любой единицы измерения, поддерживаются в Microsoft Publisher (например, «2,5 дюйма»).|
-|Тип|Обязательный| **PbRulerGuideType**|Тип направляющей линейки для добавления.|
+|Position|Required| **Variant**|The position relative to the left edge or top edge of the page where the new ruler guide will be added. Numeric values are evaluated in points; strings are evaluated in the units specified and can be in any measurement unit supported by Microsoft Publisher (for example, "2.5 in").|
+|Type|Required| **PbRulerGuideType**|The type of ruler guide to add.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Тип может иметь одно из следующих констант **PbRulerGuideType** .
+Type can be one of these  **PbRulerGuideType** constants.
 
 
 
-| **pbRulerGuideTypeHorizontal**|| **pbRulerGuideTypeVertical**|
+| **pbRulerGuideTypeHorizontal**|
+| **pbRulerGuideTypeVertical**|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется направляющие на одну страницу, которые являются 0,5 дюйма от левого верхнего края страницы.
+The following example adds ruler guides to page one that are 0.5 inches from the left and top edges of the page.
 
 
 ```vb

@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.SnapToObjects (издатель)"
+title: Application.SnapToObjects Property (Publisher)
 keywords: vbapb10.chm131111
-f1_keywords: vbapb10.chm131111
+f1_keywords:
+- vbapb10.chm131111
 ms.prod: publisher
-api_name: Publisher.Application.SnapToObjects
+api_name:
+- Publisher.Application.SnapToObjects
 ms.assetid: 84fcb808-bf3b-49f7-666e-915ac6b04a96
 ms.date: 06/08/2017
-ms.openlocfilehash: 1f73119d4e3e0283e828d587aec1df3c643906b1
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationsnaptoobjects-property-publisher"></a>Свойство Application.SnapToObjects (издатель)
-
- **Значение true** для Microsoft Publisher объекты на странице выровнять другие объекты. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.SnapToObjects Property (Publisher)
 
- _выражение_. **SnapToObjects**
-
- переменная _expression_A, представляющий объект **приложения** .
+ **True** for Microsoft Publisher to use objects on a page to line up other objects. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **SnapToObjects**
+
+ _expression_A variable that represents a  **Application** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляется горизонтальных и вертикальных линейки руководства по каждой половины дюйма на первой странице и настраивает параметры для выравнивания объектов на странице, чтобы руководства по.
+Boolean
+
+
+## Example
+
+This example adds horizontal and vertical ruler guides every half inch on the first page and sets the options to align objects on the page to the guides.
 
 
 ```vb
@@ -57,11 +56,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

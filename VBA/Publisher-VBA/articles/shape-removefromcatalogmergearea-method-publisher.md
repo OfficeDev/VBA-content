@@ -1,44 +1,43 @@
 ---
-title: "Метод Shape.RemoveFromCatalogMergeArea (издатель)"
+title: Shape.RemoveFromCatalogMergeArea Method (Publisher)
 keywords: vbapb10.chm5308689
-f1_keywords: vbapb10.chm5308689
+f1_keywords:
+- vbapb10.chm5308689
 ms.prod: publisher
-api_name: Publisher.Shape.RemoveFromCatalogMergeArea
+api_name:
+- Publisher.Shape.RemoveFromCatalogMergeArea
 ms.assetid: 3b3630c3-6bf1-494b-151c-c930f32a2a77
 ms.date: 06/08/2017
-ms.openlocfilehash: 7369717a6ff5ad5b61ccebacb1464b8fd2fb92df
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperemovefromcatalogmergearea-method-publisher"></a>Метод Shape.RemoveFromCatalogMergeArea (издатель)
-
-Удаляет из указанной странице области фигуры. Удаленные фигур не удаляются, но вместо этого остаются на месте на странице, содержащей области данных.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.RemoveFromCatalogMergeArea Method (Publisher)
 
- _выражение_. **RemoveFromCatalogMergeArea**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Removes a shape from the specified page's catalog merge area. Removed shapes are not deleted, but instead remain in place on the page containing the catalog merge area.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Значение Nothing
+ _expression_. **RemoveFromCatalogMergeArea**
 
-
-## <a name="remarks"></a>Заметки
-
-Используйте метод **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** объектов **[фигуры](shape-object-publisher.md)** или **[ShapeRange](shaperange-object-publisher.md)** добавление фигур в области объединения в каталог.
-
-Метод **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** объекта **[Shape](shape-object-publisher.md)** для удаления области данных со страницы публикации, но оставьте фигуры, которые он содержит.
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример проверяет ли любую страницу указанной публикации содержит область объединения в каталог. В случае любую страницу удаляются из области данных и удаления всех фигур и затем область данных удаляется из публикации.
+Nothing
+
+
+## Remarks
+
+Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
+
+Use the  **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove the catalog merge area from a publication page, but leave the shapes it contains.
+
+
+## Example
+
+The following example tests whether any page of the specified publication contains a catalog merge area. If any page does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
 
 
 ```vb

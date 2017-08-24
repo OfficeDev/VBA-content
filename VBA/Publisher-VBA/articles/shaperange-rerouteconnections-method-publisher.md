@@ -1,42 +1,41 @@
 ---
-title: "Метод ShapeRange.RerouteConnections (издатель)"
+title: ShapeRange.RerouteConnections Method (Publisher)
 keywords: vbapb10.chm2293796
-f1_keywords: vbapb10.chm2293796
+f1_keywords:
+- vbapb10.chm2293796
 ms.prod: publisher
-api_name: Publisher.ShapeRange.RerouteConnections
+api_name:
+- Publisher.ShapeRange.RerouteConnections
 ms.assetid: ae2a64ea-1b7a-4ff6-304c-680dd96fd386
 ms.date: 06/08/2017
-ms.openlocfilehash: 82a010fb13ad2fad11f0c240ebf30abb3991e954
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangererouteconnections-method-publisher"></a>Метод ShapeRange.RerouteConnections (издатель)
-
-Изменение пути соединители, чтобы они вступили Минимальная возможные пути между фигурами, которые они подключаются. Для этого метода **RerouteConnections** может отсоединить концах соединитель и присоедините их различных связи сайтов на присоединенными фигурами.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.RerouteConnections Method (Publisher)
 
- _выражение_. **RerouteConnections**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Значение Nothing
+ _expression_. **RerouteConnections**
 
-
-## <a name="remarks"></a>Заметки
-
-Этот метод перенаправляет все соединители, подключенного к указанной фигуры; Если указанный фигуры соединитель, пересылаются его.
+ _expression_A variable that represents a  **ShapeRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере добавляется два прямоугольника для первой страницы в активной публикации и связывает их с искривленной формы. Обратите внимание на то, что метод **RerouteConnections** переопределяет значения, которые вы задаете **_ConnectionSite_** аргументов, используемых с методами **BeginConnect**и **EndConnect** .
+Nothing
+
+
+## Remarks
+
+This method reroutes all connectors attached to the specified shape; if the specified shape is a connector, it is rerouted.
+
+
+## Example
+
+This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect**and  **EndConnect** methods.
 
 
 ```vb

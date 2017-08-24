@@ -1,42 +1,41 @@
 ---
-title: "Свойство LayoutGuides.VerticalBaseLineSpacing (издатель)"
+title: LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
 keywords: vbapb10.chm1114134
-f1_keywords: vbapb10.chm1114134
+f1_keywords:
+- vbapb10.chm1114134
 ms.prod: publisher
-api_name: Publisher.LayoutGuides.VerticalBaseLineSpacing
+api_name:
+- Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
 ms.date: 06/08/2017
-ms.openlocfilehash: cf72093e97132c3fc0826f97ea413e4f6b485990
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="layoutguidesverticalbaselinespacing-property-publisher"></a>Свойство LayoutGuides.VerticalBaseLineSpacing (издатель)
-
-Возвращает значение типа **одного** , представляющий интервал по вертикали базового на указанный объект **LayoutGuides** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LayoutGuides.VerticalBaseLineSpacing Property (Publisher)
 
- _выражение_. **VerticalBaseLineSpacing**
-
- переменная _expression_A, представляет собой объект- **LayoutGuides** .
+Returns a  **Single** that represents the vertical baseline spacing of the specified **LayoutGuides** object. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Один
+ _expression_. **VerticalBaseLineSpacing**
 
-
-## <a name="remarks"></a>Заметки
-
-Установка свойств объекта **страницы** макета руководство должны возвращаться из коллекции **макетом** .
+ _expression_A variable that represents a  **LayoutGuides** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере задается интервал по вертикали базового объекта **LayoutGuides** 12 для второй главную страницу в активном документе.
+Single
+
+
+## Remarks
+
+When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+
+
+## Example
+
+This example sets the vertical baseline spacing of the  **LayoutGuides** object to 12 for the second master page in the active document.
 
 
 ```vb

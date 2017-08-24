@@ -1,33 +1,32 @@
 ---
-title: "Объект FindReplace (издатель)"
+title: FindReplace Object (Publisher)
 keywords: vbapb10.chm8388607
-f1_keywords: vbapb10.chm8388607
+f1_keywords:
+- vbapb10.chm8388607
 ms.prod: publisher
-api_name: Publisher.FindReplace
+api_name:
+- Publisher.FindReplace
 ms.assetid: 96dcf5fe-4f3e-07b7-c248-46edd370fc31
 ms.date: 06/08/2017
-ms.openlocfilehash: b160d2add764d67146495f6f9a7821f3bc531b1c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplace-object-publisher"></a>Объект FindReplace (издатель)
 
-Представляет условия для операции поиска. Свойства и методы объекта **FindReplace** соответствуют параметрам в диалоговом окне **Найти и заменить** .
+
+# FindReplace Object (Publisher)
+
+Represents the criteria for a find operation. The properties and methods of the  **FindReplace** object correspond to the options in the **Find and Replace** dialog box.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если свойство **ReplaceScope** **pbReplaceScopeOne** или **pbReplaceScopeAll**, свойство **ReplaceWithText** должен иметь значение избежать текст из, заменен проверкой значение по умолчанию пустую **строку** для этого свойства.
+When the  **ReplaceScope** property is set to **pbReplaceScopeOne** or **pbReplaceScopeAll**, the **ReplaceWithText** property must be set to avoid the text from being replaced with the default value of an empty **String** for that property.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **Поиск** возвращает объект **FindReplace** . Следующий пример выделяет следующее вхождение слово «фабрики».
+Use the  **Find** property to return a **FindReplace** object. The following example selects the next occurrence of the word "factory".
  
 
  
@@ -40,7 +39,7 @@ With ActiveDocument.Find
 End With
 ```
 
-Присвойте свойству **ReplaceScope** для определения степени поиска. В следующем примере заменяется первого появления имя «Visual Basic Scripting Edition» с «VBScript».
+Set the  **ReplaceScope** property to determine the extent of the search. The following example replaces the first occurrence of the name "Visual Basic Scripting Edition" with "VBScript".
  
 
  
@@ -57,7 +56,7 @@ With ActiveDocument.Find
 End With
 ```
 
-В следующем примере показано, как может осуществляться атрибуты шрифта FoundTextRange при **ReplaceScope** задано значение **pbReplaceScopeNone**.
+The following example illustrates how the font attributes of the FoundTextRange can be accessed when  **ReplaceScope** is set to **pbReplaceScopeNone**.
  
 
  
@@ -81,24 +80,24 @@ End With
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Очистить](findreplace-clear-method-publisher.md)|
-|[Выполнение](findreplace-execute-method-publisher.md)|
+|[Clear](findreplace-clear-method-publisher.md)|
+|[Execute](findreplace-execute-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](findreplace-application-property-publisher.md)|
+|[Application](findreplace-application-property-publisher.md)|
 |[FindText](findreplace-findtext-property-publisher.md)|
-|[Вперед](findreplace-forward-property-publisher.md)|
+|[Forward](findreplace-forward-property-publisher.md)|
 |[FoundTextRange](findreplace-foundtextrange-property-publisher.md)|
 |[MatchAlefHamza](findreplace-matchalefhamza-property-publisher.md)|
 |[MatchCase](findreplace-matchcase-property-publisher.md)|
@@ -106,7 +105,7 @@ End With
 |[MatchKashida](findreplace-matchkashida-property-publisher.md)|
 |[MatchWholeWord](findreplace-matchwholeword-property-publisher.md)|
 |[MatchWidth](findreplace-matchwidth-property-publisher.md)|
-|[Родительский раздел](findreplace-parent-property-publisher.md)|
+|[Parent](findreplace-parent-property-publisher.md)|
 |[ReplaceScope](findreplace-replacescope-property-publisher.md)|
 |[ReplaceWithText](findreplace-replacewithtext-property-publisher.md)|
 

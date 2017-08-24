@@ -1,46 +1,45 @@
 ---
-title: "Свойство AdvancedPrintOptions.PrintBleedMarks (издатель)"
+title: AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
 keywords: vbapb10.chm7077907
-f1_keywords: vbapb10.chm7077907
+f1_keywords:
+- vbapb10.chm7077907
 ms.prod: publisher
-api_name: Publisher.AdvancedPrintOptions.PrintBleedMarks
+api_name:
+- Publisher.AdvancedPrintOptions.PrintBleedMarks
 ms.assetid: f0c69d5f-4bfd-7a4c-3607-714859bcc86c
 ms.date: 06/08/2017
-ms.openlocfilehash: 15a219e2bca977b63e6e0309a7df5f892b538b9f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="advancedprintoptionsprintbleedmarks-property-publisher"></a>Свойство AdvancedPrintOptions.PrintBleedMarks (издатель)
-
- **Значение true** для печати в указанной публикации. Значение по умолчанию — **False**. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
 
- _выражение_. **PrintBleedMarks**
-
- переменная _expression_A, представляет собой объект- **AdvancedPrintOptions** .
+ **True** to print bleed marks in the specified publication. The default is **False**. Read/write  **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **PrintBleedMarks**
 
-
-## <a name="remarks"></a>Заметки
-
-Метки край степени край и печать восьмому дюйма за пределами метки обрезки.
-
-Это свойство доступно только в том случае, если край разрешены в указанной публикации. Используйте свойство **[AllowBleeds](advancedprintoptions-allowbleeds-property-publisher.md)** объекта **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** для указания край разрешены. Возвращает «Отказано в разрешении», если край не допускается в публикации.
-
-Это свойство соответствует управления **метки выхода за край** на вкладке **Параметры страницы** диалоговое окно **Дополнительные параметры печати** .
+ _expression_A variable that represents a  **AdvancedPrintOptions** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере задается публикации на разрешение край и печати.
+Boolean
+
+
+## Remarks
+
+Bleed marks show the extent of a bleed, and print an eighth inch outside the crop marks.
+
+This property is only accessible if bleeds are allowed in the specified publication. Use the  **[AllowBleeds](advancedprintoptions-allowbleeds-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to specify bleeds are allowed. Returns "Permission Denied" if bleeds are not allowed in the publication.
+
+This property corresponds to the  **Bleed marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+
+
+## Example
+
+The following example sets the publication to allow bleeds, and to print bleed marks.
 
 
 ```vb
@@ -53,11 +52,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект AdvancedPrintOptions](advancedprintoptions-object-publisher.md)
+ [AdvancedPrintOptions Object](advancedprintoptions-object-publisher.md)
 

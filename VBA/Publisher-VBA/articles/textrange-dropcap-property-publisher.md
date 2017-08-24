@@ -1,37 +1,36 @@
 ---
-title: "Свойство TextRange.DropCap (издатель)"
+title: TextRange.DropCap Property (Publisher)
 keywords: vbapb10.chm5308472
-f1_keywords: vbapb10.chm5308472
+f1_keywords:
+- vbapb10.chm5308472
 ms.prod: publisher
-api_name: Publisher.TextRange.DropCap
+api_name:
+- Publisher.TextRange.DropCap
 ms.assetid: a5c29dd4-62f4-39fb-4b76-390d62bd8e32
 ms.date: 06/08/2017
-ms.openlocfilehash: 4d4acfde3b91a1daf6515bf1c739b9526e4771bc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangedropcap-property-publisher"></a>Свойство TextRange.DropCap (издатель)
-
-Возвращает объект **[буквицу](dropcap-object-publisher.md)** , представляющий буквицы для абзацев в элементе frame указанный текст.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.DropCap Property (Publisher)
 
- _выражение_. **Буквицу**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **[DropCap](dropcap-object-publisher.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Буквицу
+ _expression_. **DropCap**
+
+ _expression_A variable that represents a  **TextRange** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере применяется настраиваемых добавленном капитала, три строки высокой и занимает первые три символа все абзацы в элементе frame указанный текст.
+DropCap
+
+
+## Example
+
+This example applies a custom dropped capital that is three lines high and spans the first three characters of each paragraph in the specified text frame.
 
 
 ```vb

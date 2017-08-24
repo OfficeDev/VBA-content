@@ -1,32 +1,31 @@
 ---
-title: "Свойство Shape.ConnectorFormat (издатель)"
+title: Shape.ConnectorFormat Property (Publisher)
 keywords: vbapb10.chm2228278
-f1_keywords: vbapb10.chm2228278
+f1_keywords:
+- vbapb10.chm2228278
 ms.prod: publisher
-api_name: Publisher.Shape.ConnectorFormat
+api_name:
+- Publisher.Shape.ConnectorFormat
 ms.assetid: 280c424c-530c-55ab-da4f-65b858ee3dd8
 ms.date: 06/08/2017
-ms.openlocfilehash: 86d38b9e40c251227e2d1a4199a916d298d012c6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeconnectorformat-property-publisher"></a>Свойство Shape.ConnectorFormat (издатель)
-
-Возвращает объект **[ConnectorFormat](connectorformat-object-publisher.md)** , который содержит соединитель свойства форматирования. Применяется к **фигуры** или **ShapeRange** объектов, представляющих соединители. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.ConnectorFormat Property (Publisher)
 
- _выражение_. **ConnectorFormat**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **[ConnectorFormat](connectorformat-object-publisher.md)** object that contains connector formatting properties. Applies to  **Shape** or **ShapeRange** objects that represent connectors. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляется два прямоугольника для первой страницы в активной публикации и связывает их с искривленной формы.
+ _expression_. **ConnectorFormat**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Example
+
+This example adds two rectangles to the first page in the active publication and connects them with a curved connector.
 
 
 ```vb

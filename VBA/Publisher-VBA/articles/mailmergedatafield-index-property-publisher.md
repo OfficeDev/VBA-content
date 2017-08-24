@@ -1,32 +1,31 @@
 ---
-title: "Свойство MailMergeDataField.Index (издатель)"
+title: MailMergeDataField.Index Property (Publisher)
 keywords: vbapb10.chm6422529
-f1_keywords: vbapb10.chm6422529
+f1_keywords:
+- vbapb10.chm6422529
 ms.prod: publisher
-api_name: Publisher.MailMergeDataField.Index
+api_name:
+- Publisher.MailMergeDataField.Index
 ms.assetid: f70d0266-0527-6871-632d-b45b617d75d4
 ms.date: 06/08/2017
-ms.openlocfilehash: edd828953d1034a7cfecc360e0a650e2e33dba81
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatafieldindex-property-publisher"></a>Свойство MailMergeDataField.Index (издатель)
-
-Возвращает значение типа **Long** , представляющее положение определенного элемента в указанном семействе сайтов. .
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataField.Index Property (Publisher)
 
- _выражение_. **Индекс**
-
- переменная _expression_A, представляет собой объект- **MailMergeDataField** .
+Returns a  **Long** that represents the position of a particular item in a specified collection. .
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере коллекции **MailMergeDataFields** и отображает **индекса** и **имя** свойства для каждого поля.
+ _expression_. **Index**
+
+ _expression_A variable that represents a  **MailMergeDataField** object.
+
+
+## Example
+
+The following example loops through the  **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
 
 
 ```vb
@@ -44,7 +43,7 @@ With ActiveDocument.MailMerge.DataSource
 End With
 ```
 
-В следующем примере коллекции **формы** и отображает **индекса** и **имя** свойства для каждой формы.
+The following example loops through the  **Plates** collection and displays the **Index** and **Name** properties for each plate.
 
 
 

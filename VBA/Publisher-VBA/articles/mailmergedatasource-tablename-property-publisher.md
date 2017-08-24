@@ -1,37 +1,36 @@
 ---
-title: "Свойство MailMergeDataSource.TableName (издатель)"
+title: MailMergeDataSource.TableName Property (Publisher)
 keywords: vbapb10.chm6291491
-f1_keywords: vbapb10.chm6291491
+f1_keywords:
+- vbapb10.chm6291491
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.TableName
+api_name:
+- Publisher.MailMergeDataSource.TableName
 ms.assetid: 0418bf66-550e-7dfc-671f-db2570a768d9
 ms.date: 06/08/2017
-ms.openlocfilehash: 49eb6bb5dbb71c687dbbd718cdcdfcb2515ffcde
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourcetablename-property-publisher"></a>Свойство MailMergeDataSource.TableName (издатель)
-
-Возвращает **строку** , представляющую имя таблицы в данных исходный файл, содержащий записи слияния почты. Возвращаемое значение может быть пустым, если имя таблицы неизвестна или не применим к текущему источнику данных. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.TableName Property (Publisher)
 
- _выражение_. **TableName**
-
- переменная _expression_A, представляющий объект **вывода** .
+Returns a  **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TableName**
+
+ _expression_A variable that represents a  **MailMergeDataSource** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выводится сообщение с именем имя таблицы источника данных слияния почты.
+This example displays a message with the name of the mail merge data source table name.
 
 
 ```vb

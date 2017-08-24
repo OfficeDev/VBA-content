@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeNodes.Parent (издатель)"
+title: ShapeNodes.Parent Property (Publisher)
 keywords: vbapb10.chm3473410
-f1_keywords: vbapb10.chm3473410
+f1_keywords:
+- vbapb10.chm3473410
 ms.prod: publisher
-api_name: Publisher.ShapeNodes.Parent
+api_name:
+- Publisher.ShapeNodes.Parent
 ms.assetid: 71aded28-238d-36bf-478f-8be48041d424
 ms.date: 06/08/2017
-ms.openlocfilehash: 75a1817cfd8c305fdd56820ec35f7c479ecbc245
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapenodesparent-property-publisher"></a>Свойство ShapeNodes.Parent (издатель)
-
-Возвращает объект, представляющий родительский объект для указанного объекта. Например для объекта **[TextFrame](textframe-object-publisher.md)** возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий родительскую фигуру рамки. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeNodes.Parent Property (Publisher)
 
- _выражение_. **Родительский**
-
- переменная _expression_A, представляет собой объект- **ShapeNodes** .
+Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере обращается к родительский объект выбранной фигуры и добавляет новую форму и задает заливки для новой фигуры.
+ _expression_. **Parent**
+
+ _expression_A variable that represents a  **ShapeNodes** object.
+
+
+## Example
+
+This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
 
 ```vb
@@ -42,7 +41,7 @@ Sub ParentObject()
 End Sub
 ```
 
-В этом примере возвращает родительский объект frame текст является первой фигуры в активной публикации, а затем заполняет фигуры с шаблоном.
+This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
 
 
 

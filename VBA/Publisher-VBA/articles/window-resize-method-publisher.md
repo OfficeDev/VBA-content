@@ -1,48 +1,47 @@
 ---
-title: "Метод Window.Resize (издатель)"
+title: Window.Resize Method (Publisher)
 keywords: vbapb10.chm262164
-f1_keywords: vbapb10.chm262164
+f1_keywords:
+- vbapb10.chm262164
 ms.prod: publisher
-api_name: Publisher.Window.Resize
+api_name:
+- Publisher.Window.Resize
 ms.assetid: 478e5f05-a2f9-c3b0-5dd0-3248272b2c37
 ms.date: 06/08/2017
-ms.openlocfilehash: 21d7dd6f40e6da63c1d067887450670de9561251
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="windowresize-method-publisher"></a>Метод Window.Resize (издатель)
-
-Изменение размеров окна приложения Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# Window.Resize Method (Publisher)
 
- _выражение_. **Чтобы изменить размер** ( **_Ширина_**, **_Высота_**)
-
- переменная _expression_A, представляющий объект **Window** .
+Sizes the Microsoft Publisher application window.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Resize**( **_Width_**,  **_Height_**)
+
+ _expression_A variable that represents a  **Window** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Width|Обязательное свойство.| **Длинный**|Ширина окна в точках.|
-|Height|Обязательное свойство.| **Длинный**|Высота окна в точках.|
+|Width|Required| **Long**|The width of the window, in points.|
+|Height|Required| **Long**|The height of the window, in points.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если окно свернуто или развернуто, возникает ошибка.
+If the window is maximized or minimized, an error occurs.
 
-Использование свойств **[ширины](window-width-property-publisher.md)** и **[высоты](window-height-property-publisher.md)** Установка высоты и ширины окна независимо друг от друга.
+Use the  **[Width](window-width-property-publisher.md)** and  **[Height](window-height-property-publisher.md)** properties to set the window width and height independently.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере изменяет размер окна приложения Publisher 7 дюймов широкий с высокой 6 дюймов.
+This example resizes the Publisher application window to 7 inches wide by 6 inches high.
 
 
 ```vb

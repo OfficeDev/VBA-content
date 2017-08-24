@@ -1,34 +1,36 @@
 ---
-title: "Свойство ColorFormat.Type (издатель)"
+title: ColorFormat.Type Property (Publisher)
 keywords: vbapb10.chm2555913
-f1_keywords: vbapb10.chm2555913
+f1_keywords:
+- vbapb10.chm2555913
 ms.prod: publisher
-api_name: Publisher.ColorFormat.Type
+api_name:
+- Publisher.ColorFormat.Type
 ms.assetid: 4b904871-b39f-8f78-2a0f-ca20ea1e4a04
 ms.date: 06/08/2017
-ms.openlocfilehash: 4380a34d3484762f56983632c2fd31dd49a443c4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorformattype-property-publisher"></a>Свойство ColorFormat.Type (издатель)
-
-Возвращает или задает значение константы **PbColorType** , представляющий тип цвет фигуры. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorFormat.Type Property (Publisher)
 
- _выражение_. **Тип**
-
- переменная _expression_A, представляет собой объект- **ColorFormat** .
+Returns or sets a  **PbColorType** constant that represents the shape color type. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **типа** может иметь одно из следующих констант **PbColorType** .
+ _expression_. **Type**
+
+ _expression_A variable that represents a  **ColorFormat** object.
+
+
+## Remarks
+
+The  **Type** property value can be one of these **PbColorType** constants.
 
 
 
-| **pbColorTypeCMYK**|| **pbColorTypeInk**|| **pbColorTypeRGB**|| **pbColorTypeScheme**|
+| **pbColorTypeCMYK**|
+| **pbColorTypeInk**|
+| **pbColorTypeRGB**|
+| **pbColorTypeScheme**|
 

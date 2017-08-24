@@ -1,37 +1,36 @@
 ---
-title: "Свойство Shape.WebListBox (издатель)"
+title: Shape.WebListBox Property (Publisher)
 keywords: vbapb10.chm2228341
-f1_keywords: vbapb10.chm2228341
+f1_keywords:
+- vbapb10.chm2228341
 ms.prod: publisher
-api_name: Publisher.Shape.WebListBox
+api_name:
+- Publisher.Shape.WebListBox
 ms.assetid: c100dfc7-6fbd-db48-4de9-4a9a49739a8f
 ms.date: 06/08/2017
-ms.openlocfilehash: 149ced2b126146d9dacbcf0d34e82bad4b270e41
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeweblistbox-property-publisher"></a>Свойство Shape.WebListBox (издатель)
-
-Возвращает объект **[WebListBox](weblistbox-object-publisher.md)** , связанный с указанным фигуры.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.WebListBox Property (Publisher)
 
- _выражение_. **WebListBox**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns the  **[WebListBox](weblistbox-object-publisher.md)** object associated with the specified shape.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **WebListBox**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Return Value
 
 WebListBox
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается новый список Web и добавляет несколько элементов. Обратите внимание, что при создании, элемент управления списка Web содержит три элемента по умолчанию. В этом примере включает в себя цикл, который удаляет поле элементов списка по умолчанию, прежде чем добавлять новые элементы.
+This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a loop that deletes the default list box items before adding new items.
 
 
 ```vb

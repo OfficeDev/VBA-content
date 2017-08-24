@@ -1,44 +1,43 @@
 ---
-title: "Свойство FindReplace.MatchAlefHamza (издатель)"
+title: FindReplace.MatchAlefHamza Property (Publisher)
 keywords: vbapb10.chm8323079
-f1_keywords: vbapb10.chm8323079
+f1_keywords:
+- vbapb10.chm8323079
 ms.prod: publisher
-api_name: Publisher.FindReplace.MatchAlefHamza
+api_name:
+- Publisher.FindReplace.MatchAlefHamza
 ms.assetid: a8bdfbc3-13b5-e6a1-d86c-95e8f58ec263
 ms.date: 06/08/2017
-ms.openlocfilehash: 043d840a5a6e7b7c36d84b462a45706468d9094c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacematchalefhamza-property-publisher"></a>Свойство FindReplace.MatchAlefHamza (издатель)
-
-Задает или возвращает **логическое значение** , указывающее операцию поиска будет соответствовать этого и гамза. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.MatchAlefHamza Property (Publisher)
 
- _выражение_. **MatchAlefHamza**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or returns a  **Boolean** representing whether or not a search operation will match alefs and hamzas. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **MatchAlefHamza**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство не может быть доступно в зависимости от языка, включен в операционной системе. Значение по умолчанию — **False**.
-
-Возвращает **Отказано в доступе** , если арабский не включено.
+ _expression_A variable that represents a  **FindReplace** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере выполняется поиск первого появления слово «» арабского языка в документе в формате сопоставления этого и гамза.
+Boolean
+
+
+## Remarks
+
+This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
+
+Returns  **Access denied** if Arabic is not enabled.
+
+
+## Example
+
+This example finds the first occurrence of the word "" in an Arabic document matching alefs and hamzas.
 
 
 ```vb
@@ -54,7 +53,7 @@ End With
 
 ```
 
-В этом примере исходя из предыдущего, за исключением того, что алиф гамза не совпадать. Таким образом слова «» или «», оба доступны из-за этого и гамза будет игнорироваться.
+This example follows from the previous one except that alef hamzas will not be matched. Therefore the words "" or "" will both be found because alefs and hamzas will be ignored.
 
 
 

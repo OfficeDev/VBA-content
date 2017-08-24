@@ -1,37 +1,36 @@
 ---
-title: "Свойство ShapeRange.AlternativeText (издатель)"
+title: ShapeRange.AlternativeText Property (Publisher)
 keywords: vbapb10.chm2293856
-f1_keywords: vbapb10.chm2293856
+f1_keywords:
+- vbapb10.chm2293856
 ms.prod: publisher
-api_name: Publisher.ShapeRange.AlternativeText
+api_name:
+- Publisher.ShapeRange.AlternativeText
 ms.assetid: 94cbb99b-3b35-76bb-e269-db8295b84f2f
 ms.date: 06/08/2017
-ms.openlocfilehash: 7f1fde8afc5f1a967780811f75bd2635460af0b3
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangealternativetext-property-publisher"></a>Свойство ShapeRange.AlternativeText (издатель)
-
-Возвращает или задает **строку** , представляющую текст, отображаемый в веб-браузере вместо объекта **Shape** , при загрузке объекта **Shape** или после отключения графики. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.AlternativeText Property (Publisher)
 
- _выражение_. **AlternativeText**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns or sets a  **String** representing the text displayed by a Web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Максимальная длина свойство **AlternativeText** — 254 символов. Microsoft Publisher возвращает ошибку, если длина текста превышает этот номер.
+ _expression_. **AlternativeText**
+
+ _expression_A variable that represents a  **ShapeRange** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере задается замещающий текст для выбранной фигуры в активный документ. В этом примере предполагается, что у вас есть публикации, что выбранные фигуры является изображение признакам.
+The maximum length of the  **AlternativeText** property is 254 characters. Microsoft Publisher returns an error if the text length exceeds this number.
+
+
+## Example
+
+This example sets the alternative text for the selected shape in the active document. This example assumes that you have a publication that the selected shape is a picture of a duck.
 
 
 ```vb

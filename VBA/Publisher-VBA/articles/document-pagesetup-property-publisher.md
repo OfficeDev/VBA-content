@@ -1,42 +1,41 @@
 ---
-title: "Свойство Document.PageSetup (издатель)"
+title: Document.PageSetup Property (Publisher)
 keywords: vbapb10.chm196632
-f1_keywords: vbapb10.chm196632
+f1_keywords:
+- vbapb10.chm196632
 ms.prod: publisher
-api_name: Publisher.Document.PageSetup
+api_name:
+- Publisher.Document.PageSetup
 ms.assetid: 1dac39f0-2507-a85b-8c71-cd1980022fb3
 ms.date: 06/08/2017
-ms.openlocfilehash: 2ea9e0543ec67f9c23ef60f692ea1b74e06c69ad
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentpagesetup-property-publisher"></a>Свойство Document.PageSetup (издатель)
-
-**[PageSetup](pagesetup-object-publisher.md)** возвращает объект, представляющий размер страницы публикации, макет страницы и параметры бумаги. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.PageSetup Property (Publisher)
 
- _выражение_. **PageSetup**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[PageSetup](pagesetup-object-publisher.md)** object representing a publication's page size, page layout and paper settings. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PageSetup**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+### Return Value
 
 PageSetup
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **PageSetup** можно использовать только при печати нескольких страниц на одном листе бумаги. Если размер страницы больше половины размер бумаги, будут отображены ошибки.
+You can only use the  **PageSetup** property when printing multiple pages on a single sheet of printer paper. If the page size is greater than half the paper size, Microsoft Publisher will display an error.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задает параметры страницы для публикации на нескольких страницах публикации на каждом листе бумаги при выводе на печать.
+This example specifies page setup options for a publication with multiple publication pages printed on each sheet of printer paper.
 
 
 ```vb

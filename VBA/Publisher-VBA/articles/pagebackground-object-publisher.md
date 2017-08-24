@@ -1,26 +1,25 @@
 ---
-title: "Объект PageBackground (издатель)"
+title: PageBackground Object (Publisher)
 keywords: vbapb10.chm8191999
-f1_keywords: vbapb10.chm8191999
+f1_keywords:
+- vbapb10.chm8191999
 ms.prod: publisher
-api_name: Publisher.PageBackground
+api_name:
+- Publisher.PageBackground
 ms.assetid: 647f5a84-0971-2f69-d281-c9ab402968a4
 ms.date: 06/08/2017
-ms.openlocfilehash: 9dabddae3222af0edf40e1f20cb70660ef342329
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagebackground-object-publisher"></a>Объект PageBackground (издатель)
 
-Представляет фона страницы.
+
+# PageBackground Object (Publisher)
+
+Represents the background of a page.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **фона** объекта **Page** для получения объекта **PageBackground** . В следующем примере создается объект **PageBackground** и задает фон первой страницы активных документов.
+Use the  **Background** property of a **Page** object to return a **PageBackground** object. The following example creates a **PageBackground** object and sets it to the background of the first page of the active document.
  
 
  
@@ -31,7 +30,7 @@ Set objPageBackground = ActiveDocument.Pages(1).Background
  
 ```
 
-Использование **PageBackground.Exists** для определения, существует ли фон для указанного объекта **страницы** . Следующий пример основан на предыдущем примере. Сначала **PageBackground** объект создается и задать фон для первой страницы активных документов. Тест, выполняется проверка, если фон для страницы уже существует. В противном случае выберите один создается путем вызова метода **создания** объекта **PageBackground** .
+Use  **PageBackground.Exists** to determine if a background already exists for the specified **Page** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object.
  
 
  
@@ -47,7 +46,7 @@ End If
  
 ```
 
-Используйте **PageBackground.Fill** для возврата объекта **FillFormat** . Следующий пример основан на предыдущем примере. Сначала **PageBackground** объект создается и задать фон для первой страницы активных документов. Тест, выполняется проверка, если фон для страницы уже существует. В противном случае выберите один создается путем вызова метода **создания** объекта **PageBackground** . С помощью свойства **заполнения** объекта **PageBackground** возвращается объект **FillFormat** . Установите несколько доступных свойств объекта **FillFormat** .
+Use  **PageBackground.Fill** to return a **FillFormat** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object. A **FillFormat** object is returned by using the **Fill** property of the **PageBackground** object. A few of the available properties of the **FillFormat** object are then set.
  
 
  
@@ -72,7 +71,7 @@ End With
  
 ```
 
-Удаление фона для указанного страницы с помощью **PageBackground.Delete** . В следующем примере удаляется фон для первой страницы в активном документе. (В следующем примере предполагается что указанной странице для существующего фона. Ошибка выполнения возникает, если страница не содержит фона.)
+Use  **PageBackground.Delete** to delete a background for the specified page. The following example deletes the background of the first page in the active document. (The following example assumes the specified page has an existing background. A run-time error occurs if the page does not contain a background.)
  
 
  
@@ -84,7 +83,7 @@ ActiveDocument.Pages(1).Background.Delete
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -93,14 +92,14 @@ ActiveDocument.Pages(1).Background.Delete
 |[Create](pagebackground-create-method-publisher.md)|
 |[Delete](pagebackground-delete-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](pagebackground-application-property-publisher.md)|
-|[Существует](pagebackground-exists-property-publisher.md)|
-|[Заполните поля](pagebackground-fill-property-publisher.md)|
-|[Родительский раздел](pagebackground-parent-property-publisher.md)|
+|[Application](pagebackground-application-property-publisher.md)|
+|[Exists](pagebackground-exists-property-publisher.md)|
+|[Fill](pagebackground-fill-property-publisher.md)|
+|[Parent](pagebackground-parent-property-publisher.md)|
 

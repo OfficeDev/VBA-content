@@ -1,34 +1,33 @@
 ---
-title: "Свойство WizardValues.Item (издатель)"
+title: WizardValues.Item Property (Publisher)
 keywords: vbapb10.chm1638400
-f1_keywords: vbapb10.chm1638400
+f1_keywords:
+- vbapb10.chm1638400
 ms.prod: publisher
-api_name: Publisher.WizardValues.Item
+api_name:
+- Publisher.WizardValues.Item
 ms.assetid: 7db71f03-8a7d-38ff-a42b-5d1e32430256
 ms.date: 06/08/2017
-ms.openlocfilehash: ff9ee718ba82bd5532ec34a437c9b3b51fd6f65b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardvaluesitem-property-publisher"></a>Свойство WizardValues.Item (издатель)
-
-Возвращает объект отдельных из указанного семейства сайтов. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# WizardValues.Item Property (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **WizardValues** .
+Returns an individual object from a specified collection. Read-only.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **WizardValues** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Item|Обязательное свойство.| **Длинный**|Количество для возвращаемого объекта.|
+|Item|Required| **Long**|The number of the object to return.|
 

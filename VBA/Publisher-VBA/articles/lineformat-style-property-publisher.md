@@ -1,45 +1,49 @@
 ---
-title: "Свойство LineFormat.Style (издатель)"
+title: LineFormat.Style Property (Publisher)
 keywords: vbapb10.chm3408144
-f1_keywords: vbapb10.chm3408144
+f1_keywords:
+- vbapb10.chm3408144
 ms.prod: publisher
-api_name: Publisher.LineFormat.Style
+api_name:
+- Publisher.LineFormat.Style
 ms.assetid: 3826eb43-b90e-e24b-31d5-8d9eddd3ed4e
 ms.date: 06/08/2017
-ms.openlocfilehash: 004ab0354fa754fdff7174b0563e5bb47db75b3c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatstyle-property-publisher"></a>Свойство LineFormat.Style (издатель)
-
-Возвращает или задает константой **MsoLineStyle** , представляющий стиль строку, чтобы применить к фигуры или границы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.Style Property (Publisher)
 
- _выражение_. **Стиль**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns or sets an  **MsoLineStyle** constant that represents the style of line to apply to a shape or border. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Style**
+
+ _expression_A variable that represents a  **LineFormat** object.
+
+
+### Return Value
 
 MsoLineStyle
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **Style** может иметь одно из **MsoLineStyle** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **Style** property value can be one of the **MsoLineStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-| **msoLineSingle**|| **msoLineStyleMixed**|| **msoLineThickBetweenThin**|| **msoLineThickThin**|| **msoLineThinThick**|| **msoLineThinThin**|
+| **msoLineSingle**|
+| **msoLineStyleMixed**|
+| **msoLineThickBetweenThin**|
+| **msoLineThickThin**|
+| **msoLineThinThick**|
+| **msoLineThinThin**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется новый фигура и устанавливаются свойства линии для фигуры.
+This example adds a new shape and sets the line properties for the shape.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство RulerGuide.Position (издатель)"
+title: RulerGuide.Position Property (Publisher)
 keywords: vbapb10.chm655364
-f1_keywords: vbapb10.chm655364
+f1_keywords:
+- vbapb10.chm655364
 ms.prod: publisher
-api_name: Publisher.RulerGuide.Position
+api_name:
+- Publisher.RulerGuide.Position
 ms.assetid: af169eaf-3cca-0310-c49b-369ba9b2193f
 ms.date: 06/08/2017
-ms.openlocfilehash: 6c8c58d80d55d3834caf4b441210c7cb357df56a
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="rulerguideposition-property-publisher"></a>Свойство RulerGuide.Position (издатель)
-
-Возвращает или задает **Variant** представляющее положение шрифта относительно базового плана текста в указанном диапазоне. Положительные значения переместить текст выше обычного базового, отрицательные значения переместить текст ниже базового плана. Неопределенное значения возвращаются в виде-9999.0. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# RulerGuide.Position Property (Publisher)
 
- _выражение_. **Положение**
-
- переменная _expression_A, представляет собой объект- **RulerGuide** .
+Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-Этот пример устанавливает текст во второй материал на 5 точек ниже базового плана.
+ _expression_. **Position**
+
+ _expression_A variable that represents a  **RulerGuide** object.
+
+
+## Example
+
+This example adjusts the text in the second story to 5 points below the baseline.
 
 
 ```vb

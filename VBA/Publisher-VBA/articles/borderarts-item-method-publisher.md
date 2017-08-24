@@ -1,47 +1,46 @@
 ---
-title: "Метод BorderArts.Item (издатель)"
+title: BorderArts.Item Method (Publisher)
 keywords: vbapb10.chm7733248
-f1_keywords: vbapb10.chm7733248
+f1_keywords:
+- vbapb10.chm7733248
 ms.prod: publisher
-api_name: Publisher.BorderArts.Item
+api_name:
+- Publisher.BorderArts.Item
 ms.assetid: 64c79cf8-dfbf-9979-27d9-367603f5bf9a
 ms.date: 06/08/2017
-ms.openlocfilehash: fbcc32a60ec4d1eac5c1f9317c9a1101baefa3b2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="borderartsitem-method-publisher"></a>Метод BorderArts.Item (издатель)
-
-Возвращает объект отдельных в указанном семействе сайтов.
 
 
-## <a name="syntax"></a>Синтаксис
+# BorderArts.Item Method (Publisher)
 
- _выражение_. **Элемент** ( **_Индекс_**)
-
- переменная _expression_A, представляет собой объект- **BorderArts** .
+Returns an individual object in a specified collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Item**( **_Index_**)
+
+ _expression_A variable that represents a  **BorderArts** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Индекс|Обязательное свойство.| **Variant**|Номер или имя поля или поля элемента списка, чтобы возвратить.|
+|Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Узорные
-
-
-## <a name="see-also"></a>См. также
+BorderArt
 
 
-#### <a name="concepts"></a>Основные понятия
+## See also
 
 
- [Объект BorderArts](borderarts-object-publisher.md)
+#### Concepts
+
+
+ [BorderArts Object](borderarts-object-publisher.md)
 

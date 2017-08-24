@@ -1,44 +1,43 @@
 ---
-title: "Свойство Shape.Connector (издатель)"
+title: Shape.Connector Property (Publisher)
 keywords: vbapb10.chm2228277
-f1_keywords: vbapb10.chm2228277
+f1_keywords:
+- vbapb10.chm2228277
 ms.prod: publisher
-api_name: Publisher.Shape.Connector
+api_name:
+- Publisher.Shape.Connector
 ms.assetid: 6cdff1e7-59b0-9905-96f8-99b79db1acd5
 ms.date: 06/08/2017
-ms.openlocfilehash: b6456302f9a1fcf1c017e1bf8a7c6eab097d52ee
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeconnector-property-publisher"></a>Свойство Shape.Connector (издатель)
-
-Возвращает значение, указывающее, является ли указанный фигуры соединитель **MsoTriState**. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.Connector Property (Publisher)
 
- _выражение_. **Соединитель**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **соединителя** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+ _expression_. **Connector**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Remarks
+
+The  **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Фигура не является соединитель.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для указанной фигуры.|
-| **msoTrue**|Фигура — это соединитель.|
+| **msoFalse**|The shape is not a connector.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape.|
+| **msoTrue**|The shape is a connector.|
 
-## <a name="example"></a>Пример
+## Example
 
-Этот пример удаляет все соединители по одному active публикации.
+This example deletes all connectors on page one of the active publication.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство Document.Selection (издатель)"
+title: Document.Selection Property (Publisher)
 keywords: vbapb10.chm196658
-f1_keywords: vbapb10.chm196658
+f1_keywords:
+- vbapb10.chm196658
 ms.prod: publisher
-api_name: Publisher.Document.Selection
+api_name:
+- Publisher.Document.Selection
 ms.assetid: b1098cdb-8fb7-0906-b193-6dc572ac2993
 ms.date: 06/08/2017
-ms.openlocfilehash: 2747400785cfd806562acb12ef967c91ebbe24d2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentselection-property-publisher"></a>Свойство Document.Selection (издатель)
-
-Возвращает объект **[Selection](selection-object-publisher.md)** , который представляет выбранный диапазон или курсор.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.Selection Property (Publisher)
 
- _выражение_. **Выбор**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[Selection](selection-object-publisher.md)** object that represents a selected range or the cursor.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере проверяется, является ли текущий выделенный фрагмент текста. Если это текст, выбранный текст отображается в окне сообщения.
+ _expression_. **Selection**
+
+ _expression_A variable that represents a  **Document** object.
+
+
+## Example
+
+This example tests whether the current selection is text. If it is text, the selected text is then displayed in a message box.
 
 
 ```vb

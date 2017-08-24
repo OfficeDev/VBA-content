@@ -1,37 +1,36 @@
 ---
-title: "Свойство Shape.ParentGroupShape (издатель)"
+title: Shape.ParentGroupShape Property (Publisher)
 keywords: vbapb10.chm2228338
-f1_keywords: vbapb10.chm2228338
+f1_keywords:
+- vbapb10.chm2228338
 ms.prod: publisher
-api_name: Publisher.Shape.ParentGroupShape
+api_name:
+- Publisher.Shape.ParentGroupShape
 ms.assetid: ced4c348-4ef5-c703-fdea-65c33d37b4c0
 ms.date: 06/08/2017
-ms.openlocfilehash: a322eae8794503f3e3d5d1fda64bf5c4c3faef17
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeparentgroupshape-property-publisher"></a>Свойство Shape.ParentGroupShape (издатель)
-
-Возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий распространенных родительскую фигуру фигуры дочерних или диапазона фигуры потомков.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.ParentGroupShape Property (Publisher)
 
- _выражение_. **ParentGroupShape**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns a  **[Shape](shape-object-publisher.md)** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ParentGroupShape**
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Return Value
 
 Shape
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается две фигуры в активный документ и групп этих фигур. Затем с помощью одной фигуры в группе, она получает доступ к родительской группы и всех фигур в родительской группы с той же схеме заливки. В этом примере предполагается, что активный документ в настоящий момент нет фигуры. В этом случае может возникнуть ошибка.
+This example creates two shapes in the active document and groups those shapes. Then using one shape in the group, it accesses the parent group and fills all shapes in the parent group with the same fill pattern. This example assumes that the active document does not currently contain any shapes. If it does, an error may occur.
 
 
 ```vb

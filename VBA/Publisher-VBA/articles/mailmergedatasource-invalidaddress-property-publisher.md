@@ -1,42 +1,41 @@
 ---
-title: "Свойство MailMergeDataSource.InvalidAddress (издатель)"
+title: MailMergeDataSource.InvalidAddress Property (Publisher)
 keywords: vbapb10.chm6291472
-f1_keywords: vbapb10.chm6291472
+f1_keywords:
+- vbapb10.chm6291472
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSource.InvalidAddress
+api_name:
+- Publisher.MailMergeDataSource.InvalidAddress
 ms.assetid: c1857edc-260b-c9c2-8624-d6628e0733c4
 ms.date: 06/08/2017
-ms.openlocfilehash: c67e8b1517bb18ab6c68ffb2cf77d393d1de2434
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourceinvalidaddress-property-publisher"></a>Свойство MailMergeDataSource.InvalidAddress (издатель)
-
- **Значение true,** чтобы отметить записи в источнике данных, если оно содержит недопустимые данные. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSource.InvalidAddress Property (Publisher)
 
- _выражение_. **InvalidAddress**
-
- переменная _expression_A, представляющий объект **вывода** .
+ **True** to mark a record in a mail merge data source if it contains invalid data. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **InvalidAddress**
 
-
-## <a name="remarks"></a>Заметки
-
-Используйте метод **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** для задания свойств и **InvalidAddress** и **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** для всех записей в источнике данных.
+ _expression_A variable that represents an  **MailMergeDataSource** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере выполняется поиск записей, убедитесь, что длина поля PostalCode для каждой записи срок, по крайней мере пяти цифр. Если он не установлен, запись исключены из слияния почты и помечается как недопустимый.
+Boolean
+
+
+## Remarks
+
+Use the  **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **InvalidAddress** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties for all records in a data source.
+
+
+## Example
+
+This example searches the records to verify that the length of the PostalCode field for each record is at least five digits long. If it is not, the record is excluded from the mail merge and flagged as invalid.
 
 
 ```vb

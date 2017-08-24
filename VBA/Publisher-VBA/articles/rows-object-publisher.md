@@ -1,26 +1,25 @@
 ---
-title: "Объект строк (издатель)"
+title: Rows Object (Publisher)
 keywords: vbapb10.chm4980735
-f1_keywords: vbapb10.chm4980735
+f1_keywords:
+- vbapb10.chm4980735
 ms.prod: publisher
-api_name: Publisher.Rows
+api_name:
+- Publisher.Rows
 ms.assetid: 31b04a41-9005-8f51-87ab-426af0e901ed
 ms.date: 06/08/2017
-ms.openlocfilehash: 542222825e358c9d261346f650d7061548aff9f2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="rows-object-publisher"></a>Объект строк (издатель)
 
-Коллекция объектов **[строк](row-object-publisher.md)** , представляющих строки в таблице.
+
+# Rows Object (Publisher)
+
+A collection of  **[Row](row-object-publisher.md)** objects that represent the rows in a table.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **[строки](table-rows-property-publisher.md)** **[в таблице](table-object-publisher.md)** объектов для возврата коллекции **строк** . Следующий пример показывает число объекты **[строк](row-object-publisher.md)** в коллекции **строк** для первой таблицы в активный документ.
+Use the  **[Rows](table-rows-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Rows** collection. The following example displays the number of **[Row](row-object-publisher.md)** objects in the **Rows** collection for the first table in the active document.
  
 
  
@@ -31,7 +30,7 @@ Sub CountRows()
 End Sub
 ```
 
-В этом примере задается заливки для всех четных строк и очищает заливки для всех нечетных строк в указанной таблице. В этом примере предполагается, что указанные форму — это таблица и не другого типа фигуры.
+This example sets the fill for all even-numbered rows and clears the fill for all odd-numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -60,7 +59,7 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Использование **строк** (индекс), где индекс — номер индекса, для возврата объекта **строки** . Номер индекса представляет положение строки в коллекции **строк** (начиная с слева направо). В следующем примере выбирается третьей строки в указанной таблице.
+Use  **Rows** (index), where index is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
  
 
  
@@ -74,22 +73,22 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Добавление](rows-add-method-publisher.md)|
-|[Элемент](rows-item-method-publisher.md)|
+|[Add](rows-add-method-publisher.md)|
+|[Item](rows-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](rows-application-property-publisher.md)|
+|[Application](rows-application-property-publisher.md)|
 |[Count](rows-count-property-publisher.md)|
-|[Родительский раздел](rows-parent-property-publisher.md)|
+|[Parent](rows-parent-property-publisher.md)|
 

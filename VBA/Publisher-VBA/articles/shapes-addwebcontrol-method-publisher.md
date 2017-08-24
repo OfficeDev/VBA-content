@@ -1,74 +1,73 @@
 ---
-title: "Метод Shapes.AddWebControl (издатель)"
+title: Shapes.AddWebControl Method (Publisher)
 keywords: vbapb10.chm2162722
-f1_keywords: vbapb10.chm2162722
+f1_keywords:
+- vbapb10.chm2162722
 ms.prod: publisher
-api_name: Publisher.Shapes.AddWebControl
+api_name:
+- Publisher.Shapes.AddWebControl
 ms.assetid: 94b54939-9627-6b38-4375-f1c87fc8c4f7
 ms.date: 06/08/2017
-ms.openlocfilehash: a967e1e1817c20ef0e97caa0ba86e54c0e46fb20
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapesaddwebcontrol-method-publisher"></a>Метод Shapes.AddWebControl (издатель)
-
-Добавляет новый объект **фигуры** , представляющее управления веб-формы для указанной коллекции **фигур** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Shapes.AddWebControl Method (Publisher)
 
- _выражение_. **AddWebControl** ( **_Тип_**, **_слева_**, **_в начало_**, **_Width_**, **_Height_**, **_LaunchPropertiesWindow_**)
-
- переменная _expression_A, представляет собой объект- **фигур** .
+Adds a new  **Shape** object representing a Web form control to the specified **Shapes** collection.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **AddWebControl**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
+
+ _expression_A variable that represents a  **Shapes** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Тип|Обязательный| **PbWebControlType**|Указывает тип элемента управления веб-формы для добавления. Если используется pbWebControlWebComponent, возникает ошибка.|
-|Слева|Обязательное свойство.| **Variant**|Положение левого края фигуры, представляющей управления веб-формы.|
-|Вверх|Обязательное свойство.| **Variant**|Положение верхнего края фигуры, представляющей управления веб-формы.|
-|Width|Обязательное свойство.| **Variant**|Ширина формы, представляющее управления веб-формы. Для кнопок этот параметр игнорируется.|
-|Height|Обязательное свойство.| **Variant**|Высота фигуры, представляющей управления веб-формы. Для кнопок этот параметр игнорируется.|
-|LaunchPropertiesWindow|Необязательный| **Boolean**|Не поддерживается. Значение по умолчанию — **False**; Если этот аргумент имеет значение **True**, возникает ошибка.|
+|Type|Required| **PbWebControlType**|Specifies the type of Web form control to add. An error occurs if pbWebControlWebComponent is used.|
+|Left|Required| **Variant**|The position of the left edge of the shape representing the Web form control.|
+|Top|Required| **Variant**|The position of the top edge of the shape representing the Web form control.|
+|Width|Required| **Variant**|The width of the shape representing the Web form control. For command buttons, this parameter is ignored.|
+|Height|Required| **Variant**|The height of the shape representing the Web form control. For command buttons, this parameter is ignored.|
+|LaunchPropertiesWindow|Optional| **Boolean**|Not supported. Default is  **False**; an error occurs if this argument is set to  **True**.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для параметров слева, Top, ширину и высоту числовые значения вычисляются в точках; строк может быть в любой устройств, поддерживаемых Microsoft Publisher (например, «2,5 дюйма»).
+For the Left, Top, Width, and Height parameters, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-При добавлении активной зоны в веб-элемент управления с помощью **pbWebControlHotSpot** константу, URL-адрес указан свойством **[гиперссылки](textrange-hyperlinks-property-publisher.md)** .
+When adding a hot spot to a Web control by using the  **pbWebControlHotSpot** constant, the URL is specified by the **[Hyperlink](textrange-hyperlinks-property-publisher.md)** property.
 
- Обратите внимание на то, что свойство **Shape.Fill** , которое возвращает объект **FillFormat** и свойство **Shape.Line** , которое возвращает объект **LineFormat** , не были доступны из активная область формы. Ошибка выполнения возвращается при попытке доступа к этим свойствам из активная область формы.
+ Note that the **Shape.Fill** property, which returns a **FillFormat** object, and the **Shape.Line** property, which returns a **LineFormat** object, cannot be accessed from a hot spot shape. A run-time error is returned if attempting to access these properties from a hot spot shape.
 
-Параметр типа может быть одной из констант **PbWebControlType** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+The Type parameter can be one of the  **PbWebControlType** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbWebControlCheckBox**|Добавление флажка.|
-| **pbWebControlCommandButton**|Добавление кнопки команды.|
-| **pbWebControlHotSpot**|Добавляет активной зоны. |
-| **pbWebControlHTMLFragment**|Добавляет фрагмент HTML-кода.|
-| **pbWebControlListBox**|Добавление поля со списком.|
-| **pbWebControlMultiLineTextBox**|Добавляет область несколько строк текста.|
-| **pbWebControlOptionButton**|Добавление переключателя.|
-| **pbWebControlSingleLineTextBox**|Добавление однострочного текстового поля.|
-| **pbWebControlWebComponent**|Этот метод не используется.|
+| **pbWebControlCheckBox**|Adds a check box.|
+| **pbWebControlCommandButton**|Adds a command button.|
+| **pbWebControlHotSpot**|Adds a hot spot. |
+| **pbWebControlHTMLFragment**|Adds an HTML fragment.|
+| **pbWebControlListBox**|Adds a list box.|
+| **pbWebControlMultiLineTextBox**|Adds a multiple-line text area.|
+| **pbWebControlOptionButton**|Adds an option button.|
+| **pbWebControlSingleLineTextBox**|Adds a single-line text box.|
+| **pbWebControlWebComponent**|Not used for this method.|
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример добавляет управления веб-формы флажок первой страницы публикации active.
+The following example adds a Web form check box control to the first page of the active publication.
 
 
 ```vb
@@ -81,7 +80,7 @@ Set shpCheckBox = ActiveDocument.Pages(1).Shapes.AddWebControl _
 
 ```
 
-Следующий пример добавляет активные области фигуры на странице 4 активных веб-публикации. Во-первых Четырехконечная звезда автофигуры добавляется на страницу. Рассмотрим процедуру активная область добавляется каждый arm звезда с помощью метода **AddWebControl** с типом **pbWebControlHotSpot**. И, наконец гиперссылки добавляется для каждой активной зоны с помощью свойства **гиперссылки** каждой фигуры активной зоны.
+The following example adds hot spots to a shape on page four of the active Web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the  **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the  **Hyperlink** property of each hot spot shape.
 
 
 

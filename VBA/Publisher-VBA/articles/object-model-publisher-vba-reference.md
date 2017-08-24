@@ -1,23 +1,20 @@
 ---
-title: "Объектная модель (Справочник по Publisher VBA)"
+title: Object model (Publisher VBA reference)
 ms.prod: publisher
 ms.assetid: 18165c2b-0a00-4809-9cd0-5098261e5a67
 ms.date: 06/08/2017
-ms.openlocfilehash: b47d37c1b7215018158cc3777b852fccdb11fe79
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="object-model-publisher-vba-reference"></a>Объектная модель (Справочник по Publisher VBA)
 
-В этом разделе Справочник по VBA Publisher задокументированы все объекты, свойства, методы и события, содержащиеся в объектной модели Publisher.
 
-**Примечание**  Заинтересованы в разработке решений, которые расширяют возможности Office на [нескольких платформах](https://dev.office.com/add-in-availability)? Изучите новую [Модель надстроек Office](http://dev.office.com/docs/add-ins/overview/office-add-ins).
+# Object model (Publisher VBA reference)
 
-##<a name="related-topics"></a>Похожие темы
+This section of the Publisher VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Publisher object model.
 
-[Начало работы с VBA в Office](../../Office-Shared-VBA/articles/getting-started-with-vba-in-office.md): предоставляет понять, как программирование на VBA может помочь для настройки решений для Office.
+**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
 
-[Новые возможности для VBA в Office 2016](../../Office-Shared-VBA/articles/what-s-new-for-vba-in-office-2016.md): приведены новые элементы языка VBA для Office 2016.
+##Related topics
+
+[Getting Started with VBA in Office](../../Office-Shared-VBA/articles/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+
+[What's New for VBA in Office 2016](../../Office-Shared-VBA/articles/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
 

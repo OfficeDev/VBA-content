@@ -1,47 +1,46 @@
 ---
-title: "Метод Shape.Select (издатель)"
+title: Shape.Select Method (Publisher)
 keywords: vbapb10.chm2228263
-f1_keywords: vbapb10.chm2228263
+f1_keywords:
+- vbapb10.chm2228263
 ms.prod: publisher
-api_name: Publisher.Shape.Select
+api_name:
+- Publisher.Shape.Select
 ms.assetid: d18914fd-7679-e922-090c-78affdb39d6a
 ms.date: 06/08/2017
-ms.openlocfilehash: e8dde0717e9861708425773a22fc3fa27b1270c6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapeselect-method-publisher"></a>Метод Shape.Select (издатель)
-
-Выбирает указанный объект.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.Select Method (Publisher)
 
- _выражение_. **Выберите** ( **_Заменить_**)
-
- переменная _expression_A, представляющий объект **фигуры** .
+Selects the specified object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Select**( **_Replace_**)
+
+ _expression_A variable that represents a  **Shape** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Замена|Необязательный| **Variant**|Указывает, будет ли выделение заменяет предыдущее выделение.  **Значение true** для замены предыдущее выделение с новой выбора; **Значение false** для добавления нового выделения в предыдущем выделение. Значение по умолчанию — **True**.|
+|Replace|Optional| **Variant**|Specifies whether the selection replaces any previous selection.  **True** to replace the previous selection with the new selection; **False** to add the new selection to the previous selection. Default is **True**.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выбирает фигур одним и три по одному в активной публикации.
+This example selects shapes one and three on page one in the active publication.
 
 
 ```vb
 ActiveDocument.Pages(1).Shapes.Range(Array(1, 3)).Select
 ```
 
-В этом примере добавляется фигур двух и четыре по одному в активной публикации в предыдущем выделение.
+This example adds shapes two and four on page one in the active publication to the previous selection.
 
 
 

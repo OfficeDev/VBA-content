@@ -1,37 +1,36 @@
 ---
-title: "Свойство WebCommandButton.HiddenFields (издатель)"
+title: WebCommandButton.HiddenFields Property (Publisher)
 keywords: vbapb10.chm3932177
-f1_keywords: vbapb10.chm3932177
+f1_keywords:
+- vbapb10.chm3932177
 ms.prod: publisher
-api_name: Publisher.WebCommandButton.HiddenFields
+api_name:
+- Publisher.WebCommandButton.HiddenFields
 ms.assetid: 187553fb-a4d3-a1fb-f583-49e1d76992ec
 ms.date: 06/08/2017
-ms.openlocfilehash: 9df1ecd58eea0ccf2e29fb59e1eee03aec462f1b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webcommandbuttonhiddenfields-property-publisher"></a>Свойство WebCommandButton.HiddenFields (издатель)
-
-Возвращает объект **WebHiddenFields** , представляющий скрытых полей Web, подключенного к кнопки Отправить.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebCommandButton.HiddenFields Property (Publisher)
 
- _выражение_. **Скрытые поля**
-
- переменная _expression_A, представляет собой объект- **WebCommandButton** .
+Returns a  **WebHiddenFields** object that represents hidden Web fields attached to a Submit command button.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **HiddenFields**
+
+ _expression_A variable that represents a  **WebCommandButton** object.
+
+
+### Return Value
 
 WebHiddenFields
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляет новый скрытого поля Web новой кнопки Отправить.
+This example adds a new hidden Web field to a new Submit command button.
 
 
 ```vb

@@ -1,32 +1,31 @@
 ---
-title: "Свойство ShapeRange.Tags (издатель)"
+title: ShapeRange.Tags Property (Publisher)
 keywords: vbapb10.chm2293865
-f1_keywords: vbapb10.chm2293865
+f1_keywords:
+- vbapb10.chm2293865
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Tags
+api_name:
+- Publisher.ShapeRange.Tags
 ms.assetid: 792e3505-2c40-26e7-53c6-d50d84df22bb
 ms.date: 06/08/2017
-ms.openlocfilehash: c0b88f196baa94b747e34e1d7225b818923bc314
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangetags-property-publisher"></a>Свойство ShapeRange.Tags (издатель)
-
-Возвращает коллекцию **[тегов](tags-object-publisher.md)** , представляющее теги или настраиваемых свойств, применяемых к фигуры, диапазона фигуры, страницы или публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Tags Property (Publisher)
 
- _выражение_. **Теги**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns a  **[Tags](tags-object-publisher.md)** collection representing tags or custom properties applied to a shape, shape range, page, or publication.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере добавляется тег для каждой фигуры овала на первой странице active публикации.
+ _expression_. **Tags**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Example
+
+This example adds a tag to each oval shape on the first page of the active publication.
 
 
 ```vb

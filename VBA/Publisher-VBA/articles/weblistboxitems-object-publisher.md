@@ -1,26 +1,25 @@
 ---
-title: "Объект WebListBoxItems (издатель)"
+title: WebListBoxItems Object (Publisher)
 keywords: vbapb10.chm4194303
-f1_keywords: vbapb10.chm4194303
+f1_keywords:
+- vbapb10.chm4194303
 ms.prod: publisher
-api_name: Publisher.WebListBoxItems
+api_name:
+- Publisher.WebListBoxItems
 ms.assetid: 6d1b6755-426b-b518-c95c-7b30f9acceba
 ms.date: 06/08/2017
-ms.openlocfilehash: 5aca9cc5d5d37539e8bd732671ed4abb398ba166
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weblistboxitems-object-publisher"></a>Объект WebListBoxItems (издатель)
 
-Представляет элементы в элемент управления списка Web.
+
+# WebListBoxItems Object (Publisher)
+
+Represents the items in a Web list box control.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[ListBoxItems](weblistbox-listboxitems-property-publisher.md)** для доступа к элементам в поле со списком Web. Использование метода **[AddItem](weblistboxitems-additem-method-publisher.md)** коллекции **WebListBoxItems** для добавления элементов в поле со списком Web. В этом примере создается новый список Web и добавляет несколько элементов. Обратите внимание, что при создании, элемент управления списка Web содержит три элемента по умолчанию. В этом примере включает в себя процедуры, в котором удаляются поля элементов списка по умолчанию, прежде чем добавлять новые элементы.
+Use the  **[ListBoxItems](weblistbox-listboxitems-property-publisher.md)** property to access the items in a Web list box. Use the **[AddItem](weblistboxitems-additem-method-publisher.md)** method of the **WebListBoxItems** collection to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
  
 
  

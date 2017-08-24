@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextEffectFormat.Application (издатель)"
+title: TextEffectFormat.Application Property (Publisher)
 keywords: vbapb10.chm3735553
-f1_keywords: vbapb10.chm3735553
+f1_keywords:
+- vbapb10.chm3735553
 ms.prod: publisher
-api_name: Publisher.TextEffectFormat.Application
+api_name:
+- Publisher.TextEffectFormat.Application
 ms.assetid: ecf4949b-ebf6-5a0e-6ba9-b0b3365ec77f
 ms.date: 06/08/2017
-ms.openlocfilehash: 129608ba7d5e898b2add1c1ee42f0455a60747f8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="texteffectformatapplication-property-publisher"></a>Свойство TextEffectFormat.Application (издатель)
-
-При использовании без квалификатор объекта, данное свойство возвращает объект **[приложения](application-object-publisher.md)** , который представляет текущего экземпляра Publisher. Используется квалификатор объекта, данное свойство возвращает объект **приложения** , представляющего создателя указанный объект. При использовании с помощью объекта OLE-автоматизации возвращает объект приложения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextEffectFormat.Application Property (Publisher)
 
- _выражение_. **Приложения**
-
- переменная _expression_A, представляет собой объект- **TextEffectFormat** .
+Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере отображаются сведения о версии и построения для Publisher.
+ _expression_. **Application**
+
+ _expression_A variable that represents a  **TextEffectFormat** object.
+
+
+## Example
+
+This example displays the version and build information for Publisher.
 
 
 ```vb
@@ -36,7 +35,7 @@ With Application
 End With
 ```
 
-В этом примере отображается имя приложения, создавшего каждого связанного объекта на странице один активный публикации.
+This example displays the name of the application that created each linked OLE object on page one of the active publication.
 
 
 

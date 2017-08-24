@@ -1,39 +1,38 @@
 ---
-title: "Метод Shape.RemoveCatalogMergeArea (издатель)"
+title: Shape.RemoveCatalogMergeArea Method (Publisher)
 keywords: vbapb10.chm5308691
-f1_keywords: vbapb10.chm5308691
+f1_keywords:
+- vbapb10.chm5308691
 ms.prod: publisher
-api_name: Publisher.Shape.RemoveCatalogMergeArea
+api_name:
+- Publisher.Shape.RemoveCatalogMergeArea
 ms.assetid: addff960-562e-b8e8-ec56-ddcf2b9ccaa7
 ms.date: 06/08/2017
-ms.openlocfilehash: c4077d31d0cfb6786e3f1edfb4decead517390c7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperemovecatalogmergearea-method-publisher"></a>Метод Shape.RemoveCatalogMergeArea (издатель)
-
-Удаление области данных из указанной публикации страницы. Все фигуры, содержащиеся в этой области остаются на месте на странице, но больше не подключены к каталогу источник данных.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.RemoveCatalogMergeArea Method (Publisher)
 
- _выражение_. **RemoveCatalogMergeArea**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Deletes the catalog merge area from the specified publication page. All shapes contained in the catalog merge area remain in place on the page, but are no longer connected to the catalog merge data source.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Удаление области объединения в каталог со страницы публикации не приводит к отключению источника данных из публикации. Используйте свойство **[IsDataSourceConnected](document-isdatasourceconnected-property-publisher.md)** объекта **[Document](document-object-publisher.md)** для определения, если источник данных подключается к публикации.
+ _expression_. **RemoveCatalogMergeArea**
 
-Метод **[AddCatalogMergeArea](shapes-addcatalogmergearea-method-publisher.md)** коллекцию **[фигур](shapes-object-publisher.md)** для добавления области объединения в каталог на публикацию. Страница публикации может содержать только одну область.
+ _expression_A variable that represents a  **Shape** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующий пример проверяет ли любую страницу в указанной публикации содержит область объединения в каталог. В случае любую страницу удаляются из области данных и удаления всех фигур и затем область данных удаляется из публикации.
+Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the  **[IsDataSourceConnected](document-isdatasourceconnected-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine if a data source is connected to a publication.
+
+Use the  **[AddCatalogMergeArea](shapes-addcatalogmergearea-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to add a catalog merge area to a publication. A publication page can contain only one catalog merge area.
+
+
+## Example
+
+The following example tests whether any page in the specified publication contains a catalog merge area. If any page does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
 
 
 ```vb

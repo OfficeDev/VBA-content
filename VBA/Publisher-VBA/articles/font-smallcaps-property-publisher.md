@@ -1,52 +1,51 @@
 ---
-title: "Свойство Font.SmallCaps (издатель)"
+title: Font.SmallCaps Property (Publisher)
 keywords: vbapb10.chm5373971
-f1_keywords: vbapb10.chm5373971
+f1_keywords:
+- vbapb10.chm5373971
 ms.prod: publisher
-api_name: Publisher.Font.SmallCaps
+api_name:
+- Publisher.Font.SmallCaps
 ms.assetid: ab50b850-f371-7d8e-0c19-00ad68e700f0
 ms.date: 06/08/2017
-ms.openlocfilehash: a81e63916ef42ac7b4c5002a0f83779d944658b6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fontsmallcaps-property-publisher"></a>Свойство Font.SmallCaps (издатель)
-
-Возвращает или задает константой **MsoTriState** , указывающее, указанный текст в формате малые прописные буквы. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Font.SmallCaps Property (Publisher)
 
- _выражение_. **SmallCaps**
-
- переменная _expression_A, представляющий объект **Font** .
+Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as small caps. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **SmallCaps**
+
+ _expression_A variable that represents a  **Font** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **SmallCaps** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+The  **SmallCaps** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Ни один из символов в диапазоне форматируются как малые прописные буквы.|
-| **msoTriStateMixed**|Возвращает значение, указывающее, сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTriStateToggle**|Задайте значение, могут переключаться между **msoTrue** и **msoFalse**.|
-| **msoTrue**| Все символы в диапазоне форматируются как малые прописные буквы.|
-Установка для свойства **SmallCaps** **msoTrue** удаляет все прописные диапазон текста.
+| **msoFalse**|None of the characters in the range are formatted as small caps.|
+| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTrue**| All of the characters in the range are formatted as small caps.|
+Setting the  **SmallCaps** property to **msoTrue** removes all caps formatting from the text range.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере проверяется текст во второй материал и, если он имеет смешанный форматирование, формат весь текст на малые прописные буквы.
+This example tests the text in the second story and, if it has mixed small caps formatting, it formats all the text as small caps.
 
 
 ```vb

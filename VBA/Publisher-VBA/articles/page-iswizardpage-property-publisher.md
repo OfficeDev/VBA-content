@@ -1,44 +1,43 @@
 ---
-title: "Свойство Page.IsWizardPage (издатель)"
+title: Page.IsWizardPage Property (Publisher)
 keywords: vbapb10.chm393271
-f1_keywords: vbapb10.chm393271
+f1_keywords:
+- vbapb10.chm393271
 ms.prod: publisher
-api_name: Publisher.Page.IsWizardPage
+api_name:
+- Publisher.Page.IsWizardPage
 ms.assetid: 09c1352d-6760-ad54-aa95-211727c968b3
 ms.date: 06/08/2017
-ms.openlocfilehash: 96d95e02c9b0e93d6f91f99f91a28b54a0ef1cd5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pageiswizardpage-property-publisher"></a>Свойство Page.IsWizardPage (издатель)
-
-Возвращает **значение True** , если это, страница мастера Microsoft Publisher. Только для чтения **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.IsWizardPage Property (Publisher)
 
- _выражение_. **IsWizardPage**
-
- переменная _expression_A, представляющий объект **страницы** .
+Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **IsWizardPage**
 
-
-## <a name="remarks"></a>Заметки
-
-Страницы мастера являются типы специальных страниц для определенных типов мастеров Publisher (например, бюллетени, каталоги и веб-мастера), которые можно вставить в публикации.
-
-Используйте свойство **[Мастер](page-wizard-property-publisher.md)** объекта **[Page](page-object-publisher.md)** для доступа к мастеру для указанной страницы.
+ _expression_A variable that represents an  **Page** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-Следующий пример проверяет, чтобы определить, является ли указанный страницы страница мастера. Если он установлен, будут возвращены определенных свойств мастера.
+Boolean
+
+
+## Remarks
+
+Wizard pages are special page types for certain types of Publisher wizards (such as Newsletters, Catalogs, and Web Wizards) that can be inserted into a publication.
+
+Use the  **[Wizard](page-wizard-property-publisher.md)** property of the **[Page](page-object-publisher.md)** object to access the wizard for the specified page.
+
+
+## Example
+
+The following example tests to determine whether the specified page is a wizard page. If it is, certain wizard properties are returned.
 
 
 ```vb

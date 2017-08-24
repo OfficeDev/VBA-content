@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.Version (издатель)"
+title: Application.Version Property (Publisher)
 keywords: vbapb10.chm131121
-f1_keywords: vbapb10.chm131121
+f1_keywords:
+- vbapb10.chm131121
 ms.prod: publisher
-api_name: Publisher.Application.Version
+api_name:
+- Publisher.Application.Version
 ms.assetid: ffec5bca-cd81-77c6-d80b-e629abfa6dec
 ms.date: 06/08/2017
-ms.openlocfilehash: 680f5603ea66f5b8d3cabfb10d643f5b8cf29683
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationversion-property-publisher"></a>Свойство Application.Version (издатель)
-
-Возвращает **строку** , указывающую номер версии установленного копию Microsoft Publisher. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.Version Property (Publisher)
 
- _выражение_. **Версия**
-
- переменная _expression_A, представляющий объект **приложения** .
+Returns a  **String** indicating the version number of the currently-installed copy of Microsoft Publisher. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Version**
+
+ _expression_A variable that represents a  **Application** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример номер версии и построения-установленные копии Publisher.
+The following example displays the version and build number of the currently-installed copy of Publisher.
 
 
 ```vb
@@ -42,11 +41,11 @@ MsgBox "You are currently running Microsoft Publisher, " _
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

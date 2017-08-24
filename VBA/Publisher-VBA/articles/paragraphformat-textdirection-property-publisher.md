@@ -1,51 +1,50 @@
 ---
-title: "Свойство ParagraphFormat.TextDirection (издатель)"
+title: ParagraphFormat.TextDirection Property (Publisher)
 keywords: vbapb10.chm5439507
-f1_keywords: vbapb10.chm5439507
+f1_keywords:
+- vbapb10.chm5439507
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.TextDirection
+api_name:
+- Publisher.ParagraphFormat.TextDirection
 ms.assetid: b96c634d-0e7e-dba8-2bf4-e5baf3afa3d1
 ms.date: 06/08/2017
-ms.openlocfilehash: 9bb79cb509ca854746457e653d9f93f4021c38f0
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformattextdirection-property-publisher"></a>Свойство ParagraphFormat.TextDirection (издатель)
-
-Возвращает или задает значение, указывающее направление, в какой текст располагается в указанном абзаце константы **PbTextDirection** . Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.TextDirection Property (Publisher)
 
- _выражение_. **TextDirection**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TextDirection**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 PbTextDirection
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Данное свойство предназначен для использования совместно с документами, содержащими текст на языках слева направо и справа налево. Установка для свойства значение, не соответствует направление текста, зависит от используемого языка может привести к непредсказуемым результатам.
+This property is meant to be used in conjunction with documents that have text in both left-to-right and right-to-left languages. Setting the property to a value that is not in accordance with the text direction dictated by the language in use may have unpredictable results.
 
-Значение свойства **TextDirection** может быть одной из констант **PbTextDirection** объявлена в библиотеке типов, Microsoft Publisher и показаны в следующей таблице.
+The  **TextDirection** property value can be one of the **PbTextDirection** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **pbTextDirectionLeftToRight**| Текст располагается слева направо.|
-| **pbTextDirectionMixed**|Возвращает значение, указывающее, диапазон, содержащий фрагменту текста слева направо и фрагменту текста справа налево.|
-| **pbTextDirectionRightToLeft**|Потоки текста справа налево.|
+| **pbTextDirectionLeftToRight**| Text flows from left to right.|
+| **pbTextDirectionMixed**|Return value indicating a range containing some left-to-right text and some right-to-left text.|
+| **pbTextDirectionRightToLeft**|Text flows from right to left.|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере изменяется направление текста первой фигуры на страницу, чтобы он потоков для письма справа налево.
+The following example changes the text direction of the first shape on page one so that it flows from right-to-left.
 
 
 ```vb

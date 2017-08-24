@@ -1,37 +1,36 @@
 ---
-title: "Свойство Hyperlink.TextToDisplay (издатель)"
+title: Hyperlink.TextToDisplay Property (Publisher)
 keywords: vbapb10.chm4587536
-f1_keywords: vbapb10.chm4587536
+f1_keywords:
+- vbapb10.chm4587536
 ms.prod: publisher
-api_name: Publisher.Hyperlink.TextToDisplay
+api_name:
+- Publisher.Hyperlink.TextToDisplay
 ms.assetid: 26b5857c-3f94-0d33-f65e-9c34f2a4cc2b
 ms.date: 06/08/2017
-ms.openlocfilehash: e2f0b2bc5c28c75adc927c5aeca19aa590895a56
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="hyperlinktexttodisplay-property-publisher"></a>Свойство Hyperlink.TextToDisplay (издатель)
-
-Возвращает или задает **строку** , которая представляет собой текст, отображаемый для гиперссылки. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Hyperlink.TextToDisplay Property (Publisher)
 
- _выражение_. **TextToDisplay**
-
- переменная _expression_A, представляющий объект **гиперссылки** .
+Returns or sets a  **String** that represents the text displayed for a hyperlink. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TextToDisplay**
+
+ _expression_A variable that represents a  **Hyperlink** object.
+
+
+### Return Value
 
 String
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается текст гиперссылки и адрес гиперссылки на первой странице. В этом примере предполагается, что первая страница активная публикация содержит по крайней мере один фигуры с по крайней мере один текст гиперссылки.
+This example sets the hyperlink display text and address of the first hyperlink on the first page. This example assumes the first page of the active publication contains at least one shape with at least one text hyperlink.
 
 
 ```vb

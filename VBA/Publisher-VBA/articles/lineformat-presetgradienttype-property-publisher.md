@@ -1,43 +1,41 @@
 ---
-title: "Свойство LineFormat.PresetGradientType (издатель)"
+title: LineFormat.PresetGradientType Property (Publisher)
 keywords: vbapb10.chm3408153
-f1_keywords: vbapb10.chm3408153
+f1_keywords:
+- vbapb10.chm3408153
 ms.prod: publisher
 ms.assetid: 09f5dd53-a77f-5104-2370-4eaefccba921
 ms.date: 06/08/2017
-ms.openlocfilehash: 0b63a3a68b3bfb5914c154357f885b1537dc08a5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatpresetgradienttype-property-publisher"></a>Свойство LineFormat.PresetGradientType (издатель)
-
-Возвращает тип предварительно градиента для указанной строки. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.PresetGradientType Property (Publisher)
 
- _выражение_. **PresetGradientType**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns the preset gradient type for the specified line. Read-only.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PresetGradientType**
+
+ _expression_A variable that represents a  **LineFormat** object.
+
+
+## Return value
 
  **MsoPresetGradientType**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **[PresetGradient](lineformat-presetgradient-method-publisher.md)** для задания стиля типа градиента для заполнения.
-
-
-## <a name="see-also"></a>См. также
+Use the  **[PresetGradient](lineformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
 
 
-#### <a name="concepts"></a>Основные понятия
+## See also
 
 
- [Объект LineFormat](lineformat-object-publisher.md)
+#### Concepts
+
+
+ [LineFormat Object](lineformat-object-publisher.md)
 

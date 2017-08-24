@@ -1,41 +1,40 @@
 ---
-title: "Событие Document.Redo (издатель)"
+title: Document.Redo Event (Publisher)
 keywords: vbapb10.chm285212679
-f1_keywords: vbapb10.chm285212679
+f1_keywords:
+- vbapb10.chm285212679
 ms.prod: publisher
-api_name: Publisher.Document.Redo
+api_name:
+- Publisher.Document.Redo
 ms.assetid: c00db13d-1c03-2536-8923-bd7d9393fee2
 ms.date: 06/08/2017
-ms.openlocfilehash: 21b8b4df75155aafa450c2410708533470c3347e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentredo-event-publisher"></a>Событие Document.Redo (издатель)
-
-Происходит, когда реверсировании последнее действие, которое было отменено.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.Redo Event (Publisher)
 
- _выражение_. **Повторное применение**
-
- переменная _expression_A, представляющий объект **Document** .
+Occurs when reversing the last action that was undone.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Событие **Повторить** происходит сразу же после применить действие.
+ _expression_. **Redo**
 
-Если повторно выполняется несколько действий, событие **Повторить** происходит только один раз, после завершения всех действий.
-
-Дополнительные сведения об использовании событий с помощью объекта **Document** содержатся в разделе [С помощью событий с помощью объекта Document](using-events-with-the-document-object-publisher.md).
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере выводится сообщение, когда пользователь нажимает кнопку **Отмена** на панели инструментов **Стандартная** или выбирает **Вернуть** в меню **Правка** . Для этой процедуры для работы с текущей публикации необходимо поместить его в модуле ThisDocument.
+The  **Redo** event occurs immediately after the action is redone.
+
+If multiple actions are redone, the  **Redo** event occurs only once, after all the actions are complete.
+
+For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+
+
+## Example
+
+This example displays a message when a user clicks  **Undo** on the **Standard** toolbar or selects **Redo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
 
 
 ```vb
@@ -44,7 +43,7 @@ Private Sub DocPub_Redo()
 End Sub
 ```
 
-Для перехвата это событие из Microsoft Publisher проекта, необходимо поместить следующий код в раздел общих объявлений модуля и запуска процедуры InitiatePubApp.
+To trap this event from a non-Microsoft Publisher project, you must place the following code in the General Declarations section of your module and run the InitiatePubApp routine.
 
 
 

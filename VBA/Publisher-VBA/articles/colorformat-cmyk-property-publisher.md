@@ -1,37 +1,36 @@
 ---
-title: "Свойство ColorFormat.CMYK (издатель)"
+title: ColorFormat.CMYK Property (Publisher)
 keywords: vbapb10.chm2555907
-f1_keywords: vbapb10.chm2555907
+f1_keywords:
+- vbapb10.chm2555907
 ms.prod: publisher
-api_name: Publisher.ColorFormat.CMYK
+api_name:
+- Publisher.ColorFormat.CMYK
 ms.assetid: 28d7ad65-c63c-3b11-3ecc-c77a1a586b84
 ms.date: 06/08/2017
-ms.openlocfilehash: c78ea82073600070dc45b6769ba26bbfa3f4980f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorformatcmyk-property-publisher"></a>Свойство ColorFormat.CMYK (издатель)
-
-Возвращает объект **ColorCMYK** , который представляет свойства цвета CMYK.
 
 
-## <a name="syntax"></a>Синтаксис
+# ColorFormat.CMYK Property (Publisher)
 
- _выражение_. **Формат CMYK**
-
- переменная _expression_A, представляет собой объект- **ColorFormat** .
+Returns a  **ColorCMYK** object that represents CMYK color properties.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **CMYK**
+
+ _expression_A variable that represents a  **ColorFormat** object.
+
+
+### Return Value
 
 ColorCMYK
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается два новых фигур и затем показана цвет заливки CMYK для одной формы и значения CMYK вторую фигуру на те же значения CMYK.
+This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
 
 
 ```vb

@@ -1,42 +1,41 @@
 ---
-title: "Свойство FindReplace.MatchWholeWord (издатель)"
+title: FindReplace.MatchWholeWord Property (Publisher)
 keywords: vbapb10.chm8323083
-f1_keywords: vbapb10.chm8323083
+f1_keywords:
+- vbapb10.chm8323083
 ms.prod: publisher
-api_name: Publisher.FindReplace.MatchWholeWord
+api_name:
+- Publisher.FindReplace.MatchWholeWord
 ms.assetid: 512d37bc-c900-ee17-8a8e-5875db0a2f85
 ms.date: 06/08/2017
-ms.openlocfilehash: 8fe8a6516d8cf29b09ecfc05c4609284954aebbf
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacematchwholeword-property-publisher"></a>Свойство FindReplace.MatchWholeWord (издатель)
-
-Задает или возвращает значение **типа Boolean** , указывающий ли слово целиком, будут сопоставлены в операции поиска. Чтение и запись. **Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.MatchWholeWord Property (Publisher)
 
- _выражение_. **MatchWholeWord**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Sets or returns a  **Boolean** that represents whether the whole word will be matched in the search operation. Read/write. **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **MatchWholeWord**
 
-
-## <a name="remarks"></a>Заметки
-
-Значение по умолчанию для **MatchWholeWord** имеет **значение False**.
+ _expression_A variable that represents a  **FindReplace** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере будет выберите все вхождения слова «фактов» и быстрого форматирования.
+Boolean
+
+
+## Remarks
+
+The default value for  **MatchWholeWord** is **False**.
+
+
+## Example
+
+This example will select each occurrence of the word "fact" and apply bold formatting.
 
 
 ```vb
@@ -52,7 +51,7 @@ End With
 
 ```
 
-В этом примере следует предыдущего примера, за исключением того, что целых слов не совпадать. Таким образом word «факт» в word «фабрики» или «factoid» будут иметь применяется полужирным шрифтом.
+This example follows the previous example except that whole words will not be matched. Therefore the word "fact" within the word "factory" or "factoid" will also have bold formatting applied.
 
 
 

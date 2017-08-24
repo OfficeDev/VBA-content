@@ -1,37 +1,36 @@
 ---
-title: "Свойство ParagraphFormat.Tabs (издатель)"
+title: ParagraphFormat.Tabs Property (Publisher)
 keywords: vbapb10.chm5439506
-f1_keywords: vbapb10.chm5439506
+f1_keywords:
+- vbapb10.chm5439506
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.Tabs
+api_name:
+- Publisher.ParagraphFormat.Tabs
 ms.assetid: c42ba898-b84f-7215-129d-8134670f75ac
 ms.date: 06/08/2017
-ms.openlocfilehash: ddc2249ee8e02a4859950b05f2ad119310840882
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformattabs-property-publisher"></a>Свойство ParagraphFormat.Tabs (издатель)
-
-Возвращает **[TabStops](tabstops-object-publisher.md)** объект, представляющий пользовательские и по умолчанию вкладки для абзаца или группы абзацев.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.Tabs Property (Publisher)
 
- _выражение_. **Вкладки**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns a  **[TabStops](tabstops-object-publisher.md)** object representing the custom and default tabs for a paragraph or group of paragraphs.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Tabs**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 TabStops
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется два табуляции для выделенных абзацев. Первый табуляции — это вкладка по левому краю с точками заполнитель, размещенный в 1 дюйм (72 точки). Второй позиции табуляции выравнивается по центру и размещенный в 2 дюйма.
+The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
 
 
 ```vb

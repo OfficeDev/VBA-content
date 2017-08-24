@@ -1,37 +1,36 @@
 ---
-title: "Свойство Options.TypeNReplace (издатель)"
+title: Options.TypeNReplace Property (Publisher)
 keywords: vbapb10.chm1048626
-f1_keywords: vbapb10.chm1048626
+f1_keywords:
+- vbapb10.chm1048626
 ms.prod: publisher
-api_name: Publisher.Options.TypeNReplace
+api_name:
+- Publisher.Options.TypeNReplace
 ms.assetid: 0eb378d2-3554-6a46-8b6b-4a990b4638db
 ms.date: 06/08/2017
-ms.openlocfilehash: d4a59b41a0b03f30dddd036fa9a5f76f95148324
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="optionstypenreplace-property-publisher"></a>Свойство Options.TypeNReplace (издатель)
-
- **Значение true** для Microsoft Publisher для замены кластеры не будут считываться азиатских символов из последовательности недопустимый клавиатуры. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Options.TypeNReplace Property (Publisher)
 
- _выражение_. **TypeNReplace**
-
- переменная _expression_A, представляет собой объект- **Параметры** .
+ **True** for Microsoft Publisher to replace unreadable Asian character clusters resulting from invalid keyboard sequences. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **TypeNReplace**
+
+ _expression_A variable that represents a  **Options** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере указывает, что Publisher для замены кластеры не будут считываться азиатских символов из последовательности недопустимый клавиатуры.
+Boolean
+
+
+## Example
+
+This example instructs Publisher to replace unreadable Asian character clusters resulting from invalid keyboard sequences.
 
 
 ```vb

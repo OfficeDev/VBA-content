@@ -1,37 +1,36 @@
 ---
-title: "Свойство Cell.BorderRight (издатель)"
+title: Cell.BorderRight Property (Publisher)
 keywords: vbapb10.chm5111813
-f1_keywords: vbapb10.chm5111813
+f1_keywords:
+- vbapb10.chm5111813
 ms.prod: publisher
-api_name: Publisher.Cell.BorderRight
+api_name:
+- Publisher.Cell.BorderRight
 ms.assetid: da741816-d61c-61db-cf33-5b181780b902
 ms.date: 06/08/2017
-ms.openlocfilehash: 91cda44f459872a8d17ffbfbde6af9bd51686aee
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellborderright-property-publisher"></a>Свойство Cell.BorderRight (издатель)
-
-Возвращает объект [CellBorder](cellborder-object-publisher.md), представляющий справа для указанной ячейке таблицы.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.BorderRight Property (Publisher)
 
- _выражение_. **BorderRight**
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+Returns a  [CellBorder](cellborder-object-publisher.md)object that represents the right border for a specified table cell.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **BorderRight**
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+### Return Value
 
 CellBorder
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается шашками, теперь разработки, с помощью границы и цвет заливки с помощью существующей таблицы. Предполагается первую фигуру на вторую страницу таблицы и не другого типа фигуры и таблицы на наличие нечетного числа столбцов.
+This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
 
 
 ```vb

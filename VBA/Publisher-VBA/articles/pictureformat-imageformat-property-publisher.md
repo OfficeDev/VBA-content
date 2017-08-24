@@ -1,55 +1,54 @@
 ---
-title: "Свойство PictureFormat.ImageFormat (издатель)"
+title: PictureFormat.ImageFormat Property (Publisher)
 keywords: vbapb10.chm3604761
-f1_keywords: vbapb10.chm3604761
+f1_keywords:
+- vbapb10.chm3604761
 ms.prod: publisher
-api_name: Publisher.PictureFormat.ImageFormat
+api_name:
+- Publisher.PictureFormat.ImageFormat
 ms.assetid: a5523a1e-4dbf-5cd7-ba73-2a5570865ee6
 ms.date: 06/08/2017
-ms.openlocfilehash: 6218778fb6f7338583be3c4378a70230cc5a04dc
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatimageformat-property-publisher"></a>Свойство PictureFormat.ImageFormat (издатель)
-
-Возвращает константу **PbImageFormat** , представляющий формат изображения, определяемой на интерфейс для графических устройств Microsoft Windows (GDI +). Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.ImageFormat Property (Publisher)
 
- _выражение_. **ImageFormat**
-
- переменная _expression_A, представляющий объект **PictureFormat** .
+Returns a  **PbImageFormat** constant that represents the image format of a picture as determined by Microsoft Windows Graphics Device Interface (GDI+). Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **ImageFormat**
+
+ _expression_A variable that represents an  **PictureFormat** object.
+
+
+### Return Value
 
 PbImageFormat
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Свойство **ImageFormat** применяется к исходного изображения, а не рисунок, если он существует.
+The  **ImageFormat** property applies to the original picture, rather than the placeholder picture, if there is one.
 
-Значение свойства **ImageFormat** может иметь одно из **[PbImageFormat](pbimageformat-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **ImageFormat** property value can be one of the **[PbImageFormat](pbimageformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Свойство **ImageFormat** указывает формат рисунков после импорта в среде Windows, а не его исходный формат файла. Если формат файла изображения изначально не поддерживается операционной системой Windows, изображение преобразуется в аналогичные формат, который поддерживается изначально. В результате константы **pbImageFormatCMYKJPEG**, **pbImageFormatDIB**, **pbImageFormatEMF**, **pbImageFormatGIF**и **pbImageFormatPICT** редко, если вообще возвращаются. Обратитесь в приведенной ниже таблице преобразования формата файла.
+The  **ImageFormat** property indicates the format of the picture after it has been imported into the Windows environment, rather than its original file format. If the picture's file format is not natively supported by the Windows operating system, the picture is converted to an analogous format that is natively supported. As a result, the **pbImageFormatCMYKJPEG**,  **pbImageFormatDIB**,  **pbImageFormatEMF**,  **pbImageFormatGIF**, and  **pbImageFormatPICT** constants will rarely, if ever, be returned. Consult the table below for specific file format conversions.
 
 
 
-|**Формат файла**|**Константы возвращаются**|
+|**File format**|**Constant returned**|
 |:-----|:-----|
 |.bmp, .dib, .gif, .pict|pbImageFormatPNG|
-|.EMF, получение, .epfs|pbImageFormatWMF|
-|Формат CMYK .jfif, .jpeg, .jpg|pbImageFormatJPEG|
-Windows GDI + — это часть операционной системы Microsoft Windows XP и операционной системы Microsoft Windows Server 2003, который предоставляет двухмерных векторной графики, рисунков и оформление.
+|.emf, .eps, .epfs|pbImageFormatWMF|
+|CMYK .jfif, .jpeg, .jpg|pbImageFormatJPEG|
+Windows GDI+ is the portion of the Microsoft Windows XP operating system and the Microsoft Windows Server 2003 operating system that provides two-dimensional vector graphics, imaging, and typography.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере выводится список JPG и JPEG изображения, используемые в активной публикации.
+The following example prints a list of the .jpg and .jpeg images present in the active publication.
 
 
 ```vb

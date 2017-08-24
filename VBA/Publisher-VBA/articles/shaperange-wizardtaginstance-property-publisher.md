@@ -1,37 +1,36 @@
 ---
-title: "Свойство ShapeRange.WizardTagInstance (издатель)"
+title: ShapeRange.WizardTagInstance Property (Publisher)
 keywords: vbapb10.chm2293873
-f1_keywords: vbapb10.chm2293873
+f1_keywords:
+- vbapb10.chm2293873
 ms.prod: publisher
-api_name: Publisher.ShapeRange.WizardTagInstance
+api_name:
+- Publisher.ShapeRange.WizardTagInstance
 ms.assetid: 07d1c4c8-8efb-b029-2dba-37fef435cc8b
 ms.date: 06/08/2017
-ms.openlocfilehash: ab88b5e157b85d87f7c4fa85142c54e3ecda01eb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangewizardtaginstance-property-publisher"></a>Свойство ShapeRange.WizardTagInstance (издатель)
-
-Возвращает или задает **Long** , указывающее, экземпляр указанного фигуры, по сравнению с другими фигурами того же тег мастера. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.WizardTagInstance Property (Publisher)
 
- _выражение_. **WizardTagInstance**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Returns or sets a  **Long** indicating the instance of the specified shape compared with other shapes having the same wizard tag. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Комбинация свойство **WizardTagInstance** и свойство **[WizardTag](shaperange-wizardtag-property-publisher.md)** однозначно определяет все фигуры в публикации.
+ _expression_. **WizardTagInstance**
+
+ _expression_A variable that represents a  **ShapeRange** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующий пример отображает сведения об экземпляре тег мастера для всех фигур и мастер тега на странице один из активных публикации.
+The combination of the  **WizardTagInstance** property and the **[WizardTag](shaperange-wizardtag-property-publisher.md)** property uniquely defines every shape in a publication.
+
+
+## Example
+
+The following example displays the wizard tag and wizard tag instance information for all the shapes on page one of the active publication.
 
 
 ```vb

@@ -1,44 +1,43 @@
 ---
-title: "Свойство CalloutFormat.AutoLength (издатель)"
+title: CalloutFormat.AutoLength Property (Publisher)
 keywords: vbapb10.chm2490627
-f1_keywords: vbapb10.chm2490627
+f1_keywords:
+- vbapb10.chm2490627
 ms.prod: publisher
-api_name: Publisher.CalloutFormat.AutoLength
+api_name:
+- Publisher.CalloutFormat.AutoLength
 ms.assetid: ed874ec4-d4ce-5e3f-771a-8b3158f40707
 ms.date: 06/08/2017
-ms.openlocfilehash: 939af381b8aa3d730e648a477e1af45f2e182d81
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="calloutformatautolength-property-publisher"></a>Свойство CalloutFormat.AutoLength (издатель)
-
-Возвращает константу **MsoTriState**, указывающее, масштабируется ли первый сегмент линии выноски при перемещении выноске. Применяется только к выноски, чьи строки состоят из нескольких сегментов (типы **msoCalloutThree** и **msoCalloutFour**). Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# CalloutFormat.AutoLength Property (Publisher)
 
- _выражение_. **AutoLength**
-
- переменная _expression_A, представляет собой объект- **CalloutFormat** .
+Returns an  **MsoTriState**constant indicating whether the first segment of the callout line is scaled when the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **AutoLength**
+
+ _expression_A variable that represents a  **CalloutFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **AutoLength** может иметь одно из ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+The  **AutoLength** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Используйте метод [AutomaticLength](calloutformat-automaticlength-method-publisher.md)к этому свойству присвоено значение **msoTrue**, а метод [CustomLength](calloutformat-customlength-method-publisher.md)к этому свойству присвоено значение **msoFalse**.
+Use the  [AutomaticLength](calloutformat-automaticlength-method-publisher.md)method to set this property to  **msoTrue**, and use the  [CustomLength](calloutformat-customlength-method-publisher.md)method to set this property to  **msoFalse**.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере для переключения между первый сегмент на автоматическое масштабирование и с фиксированной длины строки выноски для первой фигуры в публикации. Для обеспечения работы примера фигуры должен быть выноске.
+This example switches between an automatically-scaling first segment and one with a fixed length for the callout line for the first shape in the publication. For the example to work, the shape must be a callout.
 
 
 ```vb

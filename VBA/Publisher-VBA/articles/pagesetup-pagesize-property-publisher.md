@@ -1,42 +1,41 @@
 ---
-title: "Свойство PageSetup.PageSize (издатель)"
+title: PageSetup.PageSize Property (Publisher)
 keywords: vbapb10.chm6946850
-f1_keywords: vbapb10.chm6946850
+f1_keywords:
+- vbapb10.chm6946850
 ms.prod: publisher
-api_name: Publisher.PageSetup.PageSize
+api_name:
+- Publisher.PageSetup.PageSize
 ms.assetid: b0605215-5d91-e26e-d3c5-98254cf30044
 ms.date: 06/08/2017
-ms.openlocfilehash: c72b3fa2f5c2fd2a571d25da337cfb46fd339f88
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagesetuppagesize-property-publisher"></a>Свойство PageSetup.PageSize (издатель)
-
-Получает или задает размер пустая страница для текущей публикации. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# PageSetup.PageSize Property (Publisher)
 
- _выражение_. **PageSize**
-
- переменная _expression_A, представляет собой объект- **PageSetup** .
+Gets or sets the blank page size for the current publication. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **PageSize**
+
+ _expression_A variable that represents a  **PageSetup** object.
+
+
+### Return Value
 
 PageSize
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Размер пустая страница, представленного объектом **PageSize** возвращаются или задаются свойством **PageSize** соответствует одному значков, отображаемых в разделе **Пустая страница размеры** в диалоговом окне **Параметры страницы** в интерфейсе пользователя Microsoft Publisher.
+The blank page size represented by the  **PageSize** object returned or set by the **PageSize** property corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как задать размер пустая страница для текущей публикации. В примере задается размер пустая страница, чтобы «Индекс карты» — размер пустую страницу по номеру индекса 130 в коллекции **AvailablePageSizes** . В разделе **[AvailablePageSizes](pagesetup-availablepagesizes-property-publisher.md)** свойство пример того, как создать текстовый файл, в котором перечислены все размеры страницы, доступные в текущей публикации и их соответствующих значений индекса.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to set the blank page size for the current publication. The example sets the blank page size to "Index Card," which is the blank page size at index number 130 in the  **AvailablePageSizes** collection. See the **[AvailablePageSizes](pagesetup-availablepagesizes-property-publisher.md)** property topic for an example of how to create a text file that contains the list of all page sizes available in the current publication and their corresponding index numbers.
 
 
 ```vb

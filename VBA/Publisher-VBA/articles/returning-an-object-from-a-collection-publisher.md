@@ -1,17 +1,14 @@
 ---
-title: "Возвращение объекта из коллекции (издатель)"
+title: Returning an Object from a Collection (Publisher)
 ms.prod: publisher
 ms.assetid: 08b8c469-f4f1-8717-a767-ab57c792606b
 ms.date: 06/08/2017
-ms.openlocfilehash: 34b8ea5957dad93bcc7296e3777133a4fc0a152d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="returning-an-object-from-a-collection-publisher"></a>Возвращение объекта из коллекции (издатель)
 
-Метод **Item** возвращает объект из коллекции. В следующем примере задается переменная объекту **[страницы](page-object-publisher.md)** , который представляет первой страницы в коллекции **[страниц](pages-object-publisher.md)** .
+
+# Returning an Object from a Collection (Publisher)
+
+The  **Item** method returns a single object from a collection. The following example sets a variable to a **[Page](page-object-publisher.md)** object that represents the first page in the **[Pages](pages-object-publisher.md)** collection.
 
 
 ```vb
@@ -22,7 +19,7 @@ End Sub
 ```
 
 
-Метод **Item** — это метод по умолчанию для большинства семейств сайтов, так же инструкции можно написать более кратко, не указывайте ключевое слово **элемента** .
+The  **Item** method is the default method for most collections, so you can write the same statement more concisely by omitting the **Item** keyword.
 
 
 

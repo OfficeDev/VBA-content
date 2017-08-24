@@ -1,32 +1,31 @@
 ---
-title: "Свойство Cell.Fill (издатель)"
+title: Cell.Fill Property (Publisher)
 keywords: vbapb10.chm5111817
-f1_keywords: vbapb10.chm5111817
+f1_keywords:
+- vbapb10.chm5111817
 ms.prod: publisher
-api_name: Publisher.Cell.Fill
+api_name:
+- Publisher.Cell.Fill
 ms.assetid: 3ff3fda8-aca7-534e-6a56-99d6a3d9e9e2
 ms.date: 06/08/2017
-ms.openlocfilehash: 86b5ab20b325f635ba1cf0097e09ac555ec13e2c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellfill-property-publisher"></a>Свойство Cell.Fill (издатель)
-
- Возвращает объект **[FillFormat](fillformat-object-publisher.md)** , представляющий заливки для указанной ячейке фигуры или таблицу.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.Fill Property (Publisher)
 
- _выражение_. **Заполните поля**
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+ Returns a **[FillFormat](fillformat-object-publisher.md)** object representing the fill for the specified shape or table cell.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере создается новый объект **автофигуры** и заполняет фигуры с зеленой.
+ _expression_. **Fill**
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+## Example
+
+This example creates a new  **AutoShape** object and fills the shape with green.
 
 
 ```vb

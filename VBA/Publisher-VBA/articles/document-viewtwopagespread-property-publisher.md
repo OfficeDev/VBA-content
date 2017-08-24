@@ -1,37 +1,36 @@
 ---
-title: "Свойство Document.ViewTwoPageSpread (издатель)"
+title: Document.ViewTwoPageSpread Property (Publisher)
 keywords: vbapb10.chm196665
-f1_keywords: vbapb10.chm196665
+f1_keywords:
+- vbapb10.chm196665
 ms.prod: publisher
-api_name: Publisher.Document.ViewTwoPageSpread
+api_name:
+- Publisher.Document.ViewTwoPageSpread
 ms.assetid: b5e851ff-d5fc-a98d-02b3-7e14c1b957dc
 ms.date: 06/08/2017
-ms.openlocfilehash: beff1d85aa75606a3b2ffa700ea0bfcafab46625
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentviewtwopagespread-property-publisher"></a>Свойство Document.ViewTwoPageSpread (издатель)
-
-Возвращает **значение True** , если указанный публикации следует рассматривать как двух страницах. Чтение и запись **типа Boolean**.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ViewTwoPageSpread Property (Publisher)
 
- _выражение_. **ViewTwoPageSpread**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns  **True** if the specified publication should be viewed as a two-page spread. Read/write **Boolean**.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. **ViewTwoPageSpread**
+
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В этом примере открывается окно сообщения и отображает, если текущей публикации должны быть отображены на странице два включен режим.
+Boolean
+
+
+## Example
+
+This example opens a message box and displays if the current publication should be viewed in the in the two page spread mode.
 
 
 ```vb

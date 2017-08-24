@@ -1,44 +1,43 @@
 ---
-title: "Метод OLEFormat.Activate (издатель)"
+title: OLEFormat.Activate Method (Publisher)
 keywords: vbapb10.chm4456454
-f1_keywords: vbapb10.chm4456454
+f1_keywords:
+- vbapb10.chm4456454
 ms.prod: publisher
-api_name: Publisher.OLEFormat.Activate
+api_name:
+- Publisher.OLEFormat.Activate
 ms.assetid: 43c01633-f624-c5ef-ba2c-d1ff62e91ec5
 ms.date: 06/08/2017
-ms.openlocfilehash: 36e5bea1e6fa8840733dcf8d7057416c87b64340
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="oleformatactivate-method-publisher"></a>Метод OLEFormat.Activate (издатель)
-
-Активирует окно или объекта OLE.
 
 
-## <a name="syntax"></a>Синтаксис
+# OLEFormat.Activate Method (Publisher)
 
- _выражение_. **Активация**
-
- переменная _expression_A, представляющий объект **OLEFormat** .
+Activates a window or OLE object.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Microsoft Publisher выполняется в одном окне, с помощью метода **активировать** с помощью объекта **Window** , поэтому Publisher активное приложение.
+ _expression_. **Activate**
+
+ _expression_A variable that represents an  **OLEFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В следующем примере создается Publisher активное приложение.
+Because Microsoft Publisher runs in a single window, using the  **Activate** method with a **Window** object makes Publisher the active application.
+
+
+## Example
+
+The following example makes Publisher the active application.
 
 
 ```vb
 Application.ActiveWindow.Activate
 ```
 
-В следующем примере добавляет таблицы Excel в первой страницы публикации, активных и активирует электронной таблицы для редактирования.
+The following example adds an Excel spreadsheet to the first page of the active publication and activates the spreadsheet for editing.
 
 
 

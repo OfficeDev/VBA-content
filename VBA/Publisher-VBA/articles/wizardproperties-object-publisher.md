@@ -1,26 +1,25 @@
 ---
-title: "Объект WizardProperties (издатель)"
+title: WizardProperties Object (Publisher)
 keywords: vbapb10.chm1572863
-f1_keywords: vbapb10.chm1572863
+f1_keywords:
+- vbapb10.chm1572863
 ms.prod: publisher
-api_name: Publisher.WizardProperties
+api_name:
+- Publisher.WizardProperties
 ms.assetid: b3feecf2-ffbb-79de-8586-6a64df1b816a
 ms.date: 06/08/2017
-ms.openlocfilehash: b6c73e1993d361e9b935de9b93ec69a331df01dd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="wizardproperties-object-publisher"></a>Объект WizardProperties (издатель)
 
-Представляет параметры, доступные в публикации проекта или в мастере создания объекта макетов.
+
+# WizardProperties Object (Publisher)
+
+Represents the settings available in a publication design or in a Design Gallery object's wizard.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[Properties](wizard-properties-property-publisher.md)** с объектом **мастера** для возврата коллекции **WizardProperties** . Следующий пример отчетов по публикации проекта, связанного с активной публикации, отображение его имя и текущие настройки.
+Use the  **[Properties](wizard-properties-property-publisher.md)** property with a **Wizard** object to return a **WizardProperties** collection. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
  
 
  
@@ -46,11 +45,11 @@ End With
 ```
 
 
- **Примечание**  В зависимости от языковой версии Microsoft Publisher, используемая может появиться ошибка при использовании выше кода. В этом случае необходимо создать в обработчики ошибок для обхода ошибок. Для получения дополнительных сведений см **[Объект мастера](wizard-object-publisher.md)**.
+ **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](wizard-object-publisher.md)**.
  
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -58,14 +57,14 @@ End With
 |:-----|
 |[FindPropertyById](wizardproperties-findpropertybyid-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](wizardproperties-application-property-publisher.md)|
+|[Application](wizardproperties-application-property-publisher.md)|
 |[Count](wizardproperties-count-property-publisher.md)|
-|[Элемент](wizardproperties-item-property-publisher.md)|
-|[Родительский раздел](wizardproperties-parent-property-publisher.md)|
+|[Item](wizardproperties-item-property-publisher.md)|
+|[Parent](wizardproperties-parent-property-publisher.md)|
 

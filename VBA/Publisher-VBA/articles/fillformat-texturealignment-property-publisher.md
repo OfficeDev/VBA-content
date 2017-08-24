@@ -1,36 +1,34 @@
 ---
-title: "Свойство FillFormat.TextureAlignment (издатель)"
+title: FillFormat.TextureAlignment Property (Publisher)
 keywords: vbapb10.chm2359575
-f1_keywords: vbapb10.chm2359575
+f1_keywords:
+- vbapb10.chm2359575
 ms.prod: publisher
 ms.assetid: 39fed9f2-f624-f978-3297-6b89a2dc3789
 ms.date: 06/08/2017
-ms.openlocfilehash: 864d83786f3c923fb950f619c93dc85b1a854c3e
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="fillformattexturealignment-property-publisher"></a>Свойство FillFormat.TextureAlignment (издатель)
-
-Возвращает или задает выравнивание (начала координат сетки) для заполнения заливки текстуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# FillFormat.TextureAlignment Property (Publisher)
 
- _выражение_. **TextureAlignment**
-
- переменная _expression_A, представляет собой объект- **FillFormat** .
+Returns or sets the alignment (the origin of the coordinate grid) for the tiling of the texture fill. Read/write.
 
 
-## <a name="property-value"></a>Значение свойства
+## Syntax
+
+ _expression_. **TextureAlignment**
+
+ _expression_A variable that represents a  **FillFormat** object.
+
+
+## Property value
 
  **MSOTEXTUREALIGNMENT**
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение, возвращаемое свойством **TextureAlignment** может иметь одно из следующих констант **MsoTextureAlignment** :
+The value returned by the  **TextureAlignment** property can be one of the following **MsoTextureAlignment** constants:
 
 
 -  **msoTextureTopLeft**
@@ -51,14 +49,14 @@ ms.lasthandoff: 07/26/2017
     
 -  **msoTextureBottomRight**
     
-Значение свойства **TextureAlignment** соответствует **выравнивания на вкладке **Заливка** диалоговое окно **Формат фигуры** в пользовательском интерфейсе Publisher 2013** .
+The setting of the  **TextureAlignment** property corresponds to the **Alignment** setting on the **Fill** tab of the **Format Shape** dialog box in the Publisher 2013 user interface.
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект FillFormat](fillformat-object-publisher.md)
+ [FillFormat Object](fillformat-object-publisher.md)
 

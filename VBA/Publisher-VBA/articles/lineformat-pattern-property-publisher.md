@@ -1,37 +1,36 @@
 ---
-title: "Свойство LineFormat.Pattern (издатель)"
+title: LineFormat.Pattern Property (Publisher)
 keywords: vbapb10.chm3408137
-f1_keywords: vbapb10.chm3408137
+f1_keywords:
+- vbapb10.chm3408137
 ms.prod: publisher
-api_name: Publisher.LineFormat.Pattern
+api_name:
+- Publisher.LineFormat.Pattern
 ms.assetid: ba14b1d1-9c32-a58e-d842-52fc3dc985e8
 ms.date: 06/08/2017
-ms.openlocfilehash: e5d559ed617d7a75d8f644bb083939641301aa08
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="lineformatpattern-property-publisher"></a>Свойство LineFormat.Pattern (издатель)
-
-Возвращает или задает константой **MsoPatternType** , представляющее шаблон, применяемый к указанным заливки или строки.
 
 
-## <a name="syntax"></a>Синтаксис
+# LineFormat.Pattern Property (Publisher)
 
- _выражение_. **Шаблон**
-
- переменная _expression_A, представляет собой объект- **LineFormat** .
+Returns or sets an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **шаблон** может иметь одно из ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** объявленные константы в библиотеке типов, Microsoft Office.
+ _expression_. **Pattern**
+
+ _expression_A variable that represents a  **LineFormat** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере задает шаблон для указанного фигуры, если фигуры в настоящее время не задан параметр узор заливки. В этом примере предполагается, что по крайней мере один фигуры существует на первой странице active публикации.
+The  **Pattern** property value can be one of the ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+
+
+## Example
+
+This example sets the pattern for the specified shape if the shape currently doesn't have a fill pattern. This example assumes that at least one shape exists on the first page of the active publication.
 
 
 ```vb

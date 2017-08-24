@@ -1,42 +1,41 @@
 ---
-title: "Свойство WebCommandButton.DataRetrievalMethod (издатель)"
+title: WebCommandButton.DataRetrievalMethod Property (Publisher)
 keywords: vbapb10.chm3932166
-f1_keywords: vbapb10.chm3932166
+f1_keywords:
+- vbapb10.chm3932166
 ms.prod: publisher
-api_name: Publisher.WebCommandButton.DataRetrievalMethod
+api_name:
+- Publisher.WebCommandButton.DataRetrievalMethod
 ms.assetid: 81b89a3b-dcc5-c2b5-fbc4-6e02b587bc42
 ms.date: 06/08/2017
-ms.openlocfilehash: 8eaeaf12ac4af1d9cc7b162862dd4ad5ca1b76f7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="webcommandbuttondataretrievalmethod-property-publisher"></a>Свойство WebCommandButton.DataRetrievalMethod (издатель)
-
-Задает или возвращает обработки **PbSubmitDataRetrievalMethodType** , представляющий способ данные из веб-форму. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# WebCommandButton.DataRetrievalMethod Property (Publisher)
 
- _выражение_. **DataRetrievalMethod**
-
- переменная _expression_A, представляет собой объект- **WebCommandButton** .
+Sets or returns a  **PbSubmitDataRetrievalMethodType** that represents the way data from a Web form is processed. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **DataRetrievalMethod**
+
+ _expression_A variable that represents a  **WebCommandButton** object.
+
+
+### Return Value
 
 PbSubmitDataRetrievalMethodType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **DataRetrievalMethod** может иметь одно из **[PbSubmitDataRetrievalMethodType](pbsubmitdataretrievalmethodtype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **DataRetrievalMethod** property value can be one of the **[PbSubmitDataRetrievalMethodType](pbsubmitdataretrievalmethodtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере Microsoft Publisher для обработки данных на веб-форму в текущей публикации, отправив сообщение электронной почты на указанный адрес электронной почты.
+This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an e-mail message to a specified e-mail address.
 
 
 ```vb

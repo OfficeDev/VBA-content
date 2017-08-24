@@ -1,28 +1,26 @@
 ---
-title: "Свойство MailMergeDataSources.Application (издатель)"
+title: MailMergeDataSources.Application Property (Publisher)
 ms.prod: publisher
-api_name: Publisher.MailMergeDataSources.Application
+api_name:
+- Publisher.MailMergeDataSources.Application
 ms.assetid: 71ea1c44-beb8-c830-26b1-3209fcfb1cfd
 ms.date: 06/08/2017
-ms.openlocfilehash: befc82fcdc3022e575afe208fea3081bc34a58de
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatasourcesapplication-property-publisher"></a>Свойство MailMergeDataSources.Application (издатель)
-
-Возвращает объект **приложения** , представляющего создателя родительский набор **MailMergeDataSources** . Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataSources.Application Property (Publisher)
 
- _выражение_. **Приложения**
-
- переменная _expression_A, представляющий коллекцию **MailMergeDataSources** .
+Returns an  **Application** object that represents the creator of the parent **MailMergeDataSources** collection. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Application**
+
+ _expression_A variable that represents a  **MailMergeDataSources** collection.
+
+
+### Return Value
 
 Object
 

@@ -1,47 +1,46 @@
 ---
-title: "Метод MasterPages.Add (издатель)"
+title: MasterPages.Add Method (Publisher)
 keywords: vbapb10.chm589828
-f1_keywords: vbapb10.chm589828
+f1_keywords:
+- vbapb10.chm589828
 ms.prod: publisher
-api_name: Publisher.MasterPages.Add
+api_name:
+- Publisher.MasterPages.Add
 ms.assetid: af237acb-9e4c-f9d8-685c-c86d58e9ee01
 ms.date: 06/08/2017
-ms.openlocfilehash: 7bff45e66d10f1a6aa3f0607e17a9df1820dc460
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="masterpagesadd-method-publisher"></a>Метод MasterPages.Add (издатель)
-
-Добавляет новый объект **страницы** на указанный объект **макетом** и возвращает новый объект **Page** .
 
 
-## <a name="syntax"></a>Синтаксис
+# MasterPages.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_IsTwoPageMaster_**, **_аббревиатура_**, **_Описание_**)
-
- переменная _expression_A, представляет собой объект- **макетом** .
+Adds a new  **Page** object to the specified **MasterPages** object and returns the new **Page** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_IsTwoPageMaster_**,  **_Abbreviation_**,  **_Description_**, )
+
+ _expression_A variable that represents a  **MasterPages** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|IsTwoPageMaster|Необязательный| **Boolean**| **Значение true,** Если главная страница будет частью две страницы распространения.|
-|Сокращение|Необязательный| **String**|Сокращение или краткое имя для главной страницы. Если это не является уникальным, возникает ошибка.|
-|Описание|Необязательный| **String**|Описание для главной страницы.|
+|IsTwoPageMaster|Optional| **Boolean**| **True** if the master page will be part of a two page spread.|
+|Abbreviation|Optional| **String**|The abbreviation, or short name, for the master page. An error occurs if this is not unique.|
+|Description|Optional| **String**|The description for the master page.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Page
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример добавляет новую главную страницу в активный документ.
+The following example adds a new master page to the active document.
 
 
 ```vb

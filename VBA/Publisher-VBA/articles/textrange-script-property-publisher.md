@@ -1,42 +1,41 @@
 ---
-title: "Свойство TextRange.Script (издатель)"
+title: TextRange.Script Property (Publisher)
 keywords: vbapb10.chm5308484
-f1_keywords: vbapb10.chm5308484
+f1_keywords:
+- vbapb10.chm5308484
 ms.prod: publisher
-api_name: Publisher.TextRange.Script
+api_name:
+- Publisher.TextRange.Script
 ms.assetid: 54e5a19f-9cb0-0fbc-5ebe-cd4db6c0de8e
 ms.date: 06/08/2017
-ms.openlocfilehash: 5bb2f47b944529b67e7bc3dcfbfbb5acd30a5517
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="textrangescript-property-publisher"></a>Свойство TextRange.Script (издатель)
-
-Возвращает константу **PbFontScriptType** , представляющий начертания шрифта для диапазона текста. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextRange.Script Property (Publisher)
 
- _выражение_. **Сценарий**
-
- переменная _expression_A, представляющий объект **TextRange** .
+Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Script**
+
+ _expression_A variable that represents a  **TextRange** object.
+
+
+### Return Value
 
 PbFontScriptType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **скрипт** может иметь одно из **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The  **Script** property value can be one of the **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере отображается сообщение при ASCII Латинская сценария шрифта, используемого в диапазоне указанный текст. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
+This example displays a message if the font script used in the specified text range is ASCII Latin. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 ```vb

@@ -1,33 +1,32 @@
 ---
-title: "Свойство Shape.Name (издатель)"
+title: Shape.Name Property (Publisher)
 keywords: vbapb10.chm2228292
-f1_keywords: vbapb10.chm2228292
+f1_keywords:
+- vbapb10.chm2228292
 ms.prod: publisher
-api_name: Publisher.Shape.Name
+api_name:
+- Publisher.Shape.Name
 ms.assetid: 307c131b-f6ad-38e7-d214-420063d3e5ec
 ms.date: 06/08/2017
-ms.openlocfilehash: e2d9c3c6eca664f96403bd302b25094edd9bcbeb
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shapename-property-publisher"></a>Свойство Shape.Name (издатель)
-
-Возвращает или задает **строковое** значение, указывающее имя указанного объекта. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Shape.Name Property (Publisher)
 
- _выражение_. **Имя**
-
- переменная _expression_A, представляющий объект **фигуры** .
+Returns or sets a  **String** value indicating the name of the specified object. Read/write.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Имя объекта можно использовать в сочетании с **элемента** метод или свойство **Item** возвращает ссылку на объект, если **элемент** метод или свойство для семейства сайтов, содержащее объект принимает аргумент **типа Variant** . Например, если значение свойства **Name** для фигуры — 2 прямоугольника, затем `.Shapes("Rectangle 2")` возвращает ссылку на фигуры.
+ _expression_. **Name**
 
-Свойство **Name** является свойством по умолчанию для объектов **Узорные**, **BorderArtFormat**и **метки** .
+ _expression_A variable that represents a  **Shape** object.
+
+
+## Remarks
+
+You can use an object's name in conjunction with the  **Item** method or **Item** property to return a reference to the object if the **Item** method or property for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, then `.Shapes("Rectangle 2")` will return a reference to that shape.
+
+The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
 

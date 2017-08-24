@@ -1,26 +1,25 @@
 ---
-title: "Объект WebOptionButton (издатель)"
+title: WebOptionButton Object (Publisher)
 keywords: vbapb10.chm4325375
-f1_keywords: vbapb10.chm4325375
+f1_keywords:
+- vbapb10.chm4325375
 ms.prod: publisher
-api_name: Publisher.WebOptionButton
+api_name:
+- Publisher.WebOptionButton
 ms.assetid: acdbaebd-b333-02b1-bf4d-d7e92148a275
 ms.date: 06/08/2017
-ms.openlocfilehash: 0904d9154044208f3916a7bda2fb6ea1b65816e5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="weboptionbutton-object-publisher"></a>Объект WebOptionButton (издатель)
 
-Представляет элемент управления button параметр Web. Объект **WebOptionButton** является членом объекта **Shape** .
+
+# WebOptionButton Object (Publisher)
+
+Represents a Web option button control. The  **WebOptionButton** object is a member of the **Shape** object.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте метод **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** для создания новой кнопки параметр Web. Используйте свойство **[WebOptionButton](shape-weboptionbutton-property-publisher.md)** для доступа к кнопки управления Web параметр фигуры. В этом примере создается новая кнопка параметр Web и указывает, что выбран состояние по умолчанию; затем добавляется текстовое поле рядом с ним описать его.
+Use the  **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create new Web option button. Use the **[WebOptionButton](shape-weboptionbutton-property-publisher.md)** property to access a Web option button control shape. This example creates a new Web option button and specifies that its default state is selected; then it adds a text box next to it to describe it.
  
 
  
@@ -41,15 +40,15 @@ End Sub
 ```
 
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](weboptionbutton-application-property-publisher.md)|
-|[Родительский раздел](weboptionbutton-parent-property-publisher.md)|
+|[Application](weboptionbutton-application-property-publisher.md)|
+|[Parent](weboptionbutton-parent-property-publisher.md)|
 |[ReturnDataLabel](weboptionbutton-returndatalabel-property-publisher.md)|
-|[Выбранные](weboptionbutton-selected-property-publisher.md)|
-|[Значение](weboptionbutton-value-property-publisher.md)|
+|[Selected](weboptionbutton-selected-property-publisher.md)|
+|[Value](weboptionbutton-value-property-publisher.md)|
 

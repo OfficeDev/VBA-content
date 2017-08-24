@@ -1,46 +1,45 @@
 ---
-title: "Событие Application.DocumentBeforeClose (издатель)"
+title: Application.DocumentBeforeClose Event (Publisher)
 keywords: vbapb10.chm268435464
-f1_keywords: vbapb10.chm268435464
+f1_keywords:
+- vbapb10.chm268435464
 ms.prod: publisher
-api_name: Publisher.Application.DocumentBeforeClose
+api_name:
+- Publisher.Application.DocumentBeforeClose
 ms.assetid: d3ca4397-4df3-dc77-b758-d47e0bf13fe5
 ms.date: 06/08/2017
-ms.openlocfilehash: c8745654781149703040c703af26ab453be0c3a9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationdocumentbeforeclose-event-publisher"></a>Событие Application.DocumentBeforeClose (издатель)
-
-Происходит непосредственно перед закрытием любого открытого документа.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.DocumentBeforeClose Event (Publisher)
 
- _выражение_. **DocumentBeforeClose** ( **_Doc_**, **_Отменить_**)
-
- переменная _expression_A, представляющий объект **приложения** .
+Occurs immediately before any open document closes.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **DocumentBeforeClose**( **_Doc_**,  **_Cancel_**)
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Doc|Обязательное свойство.| **Документ**|Документ, который был закрыт.|
-|Cancel|Обязательное свойство.| **Boolean**| **Значение false,** при возникновении события. Если этот аргумент задает процедуру события значение **True**, документ не закрывается после завершения процедуры.|
+|Doc|Required| **Document**|The document that is being closed.|
+|Cancel|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the document does not close when the procedure is finished.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Для доступа к событий объекта **приложения** , объявите объектную переменную **приложения** в разделе Общие описаний модуля кода. Задайте переменную равно объект **приложения** , для которого требуется получить доступ к событиям. Сведения об использовании событий с помощью объекта Microsoft Publisher **приложения** [С помощью событий объекта](using-events-with-the-application-object-publisher.md)см.
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере пользователю Да или нет ответа перед закрытием документа. Этот код для просмотра в этом примере работы, должны находиться в модуле класса и экземпляр класса необходимо правильно инициализировать, с помощью следующего ниже процедуры **SetPubApp** пример.
+This example prompts the user for a yes or no response before closing a document. To see this example work, this code must be placed in a class module and an instance of the class must be correctly initialized, using an example similar to the  **SetPubApp** routine below.
 
 
 ```vb
@@ -63,11 +62,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

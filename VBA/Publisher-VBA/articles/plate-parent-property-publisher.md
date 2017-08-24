@@ -1,32 +1,31 @@
 ---
-title: "Свойство Plate.Parent (издатель)"
+title: Plate.Parent Property (Publisher)
 keywords: vbapb10.chm2883592
-f1_keywords: vbapb10.chm2883592
+f1_keywords:
+- vbapb10.chm2883592
 ms.prod: publisher
-api_name: Publisher.Plate.Parent
+api_name:
+- Publisher.Plate.Parent
 ms.assetid: d5f31725-826e-f636-93b7-253884a90927
 ms.date: 06/08/2017
-ms.openlocfilehash: f2d00bb3ac7b6c19e1518f102e6b3c6032c67ee9
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="plateparent-property-publisher"></a>Свойство Plate.Parent (издатель)
-
-Возвращает объект, представляющий родительский объект для указанного объекта. Например для объекта **[TextFrame](textframe-object-publisher.md)** возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий родительскую фигуру рамки. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Plate.Parent Property (Publisher)
 
- _выражение_. **Родительский**
-
- переменная _expression_A, представляющий объект **формы** .
+Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере обращается к родительский объект выбранной фигуры и добавляет новую форму и задает заливки для новой фигуры.
+ _expression_. **Parent**
+
+ _expression_A variable that represents a  **Plate** object.
+
+
+## Example
+
+This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
 
 ```vb
@@ -42,7 +41,7 @@ Sub ParentObject()
 End Sub
 ```
 
-В этом примере возвращает родительский объект frame текст является первой фигуры в активной публикации, а затем заполняет фигуры с шаблоном.
+This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
 
 
 

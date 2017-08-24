@@ -1,37 +1,36 @@
 ---
-title: "Объект OLEFormat (издатель)"
+title: OLEFormat Object (Publisher)
 keywords: vbapb10.chm4521983
-f1_keywords: vbapb10.chm4521983
+f1_keywords:
+- vbapb10.chm4521983
 ms.prod: publisher
-api_name: Publisher.OLEFormat
+api_name:
+- Publisher.OLEFormat
 ms.assetid: e5b72d6b-dff8-3882-549f-e376c1e4d372
 ms.date: 06/08/2017
-ms.openlocfilehash: 964324f58368f8d71115b5bbb5051887c8703cfd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="oleformat-object-publisher"></a>Объект OLEFormat (издатель)
 
-Представляет характеристики OLE, отличный от ссылки (виден **[LinkFormat](linkformat-object-publisher.md)** ), для OLE-объект, элемент управления ActiveX или поля.
+
+# OLEFormat Object (Publisher)
+
+Represents the OLE characteristics, other than linking (see the  **[LinkFormat](linkformat-object-publisher.md)** object), for an OLE object, ActiveX control, or field.
  
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Не все типы фигур и полей имеют возможности OLE. Используйте свойство **[Type](shape-type-property-publisher.md)** для объекта **[Shape](shape-object-publisher.md)** для определения, какая категория принадлежит указанный фигуры.
+Not all types of shapes and fields have OLE capabilities. Use the  **[Type](shape-type-property-publisher.md)** property for the **[Shape](shape-object-publisher.md)** object to determine into which category the specified shape falls.
  
 
  
-Используйте методы **[активировать](oleformat-activate-method-publisher.md)** и **[DoVerb](oleformat-doverb-method-publisher.md)** для автоматизации объекта OLE.
+Use the  **[Activate](oleformat-activate-method-publisher.md)** and **[DoVerb](oleformat-doverb-method-publisher.md)** methods to automate an OLE object.
  
 
  
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **[OLEFormat](shape-oleformat-property-publisher.md)** для поля или фигуры для возврата объекта **OLEFormat** . Следующий пример активирует все объекты OLE в активной публикации.
+Use the  **[OLEFormat](shape-oleformat-property-publisher.md)** property for a shape or field to return an **OLEFormat** object. The following example activates all OLE objects in the active publication.
  
 
  
@@ -49,24 +48,24 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Активация](oleformat-activate-method-publisher.md)|
+|[Activate](oleformat-activate-method-publisher.md)|
 |[DoVerb](oleformat-doverb-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](oleformat-application-property-publisher.md)|
+|[Application](oleformat-application-property-publisher.md)|
 |[Object](oleformat-object-property-publisher.md)|
 |[ObjectVerbs](oleformat-objectverbs-property-publisher.md)|
-|[Родительский раздел](oleformat-parent-property-publisher.md)|
+|[Parent](oleformat-parent-property-publisher.md)|
 |[ProgId](oleformat-progid-property-publisher.md)|
 

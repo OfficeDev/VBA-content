@@ -1,37 +1,36 @@
 ---
-title: "Свойство Cell.BorderTop (издатель)"
+title: Cell.BorderTop Property (Publisher)
 keywords: vbapb10.chm5111814
-f1_keywords: vbapb10.chm5111814
+f1_keywords:
+- vbapb10.chm5111814
 ms.prod: publisher
-api_name: Publisher.Cell.BorderTop
+api_name:
+- Publisher.Cell.BorderTop
 ms.assetid: 4119fcb7-7662-7ab5-ee56-4ef75aaa2766
 ms.date: 06/08/2017
-ms.openlocfilehash: ac62b621fe72f0fcf3d95c588c6e235d10e7eced
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="cellbordertop-property-publisher"></a>Свойство Cell.BorderTop (издатель)
-
-Возвращает объект [CellBorder](cellborder-object-publisher.md), который представляет верхнюю границу для указанной ячейке таблицы.
 
 
-## <a name="syntax"></a>Синтаксис
+# Cell.BorderTop Property (Publisher)
 
- _выражение_. **BorderTop**
-
- переменная _expression_A, представляет собой объект- **ячейки** .
+Returns a  [CellBorder](cellborder-object-publisher.md)object that represents the top border for a specified table cell.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **BorderTop**
+
+ _expression_A variable that represents a  **Cell** object.
+
+
+### Return Value
 
 CellBorder
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере создается шашками, теперь разработки, с помощью границы и цвет заливки с помощью существующей таблицы. Предполагается первую фигуру на вторую страницу таблицы и не другого типа фигуры и таблицы на наличие нечетного числа столбцов.
+This example creates a checkerboard design using borders and a fill color with an existing table. This assumes the first shape on page two is a table and not another type of shape and that the table has an uneven number of columns.
 
 
 ```vb

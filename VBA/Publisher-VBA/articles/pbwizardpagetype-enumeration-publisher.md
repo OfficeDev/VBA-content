@@ -1,80 +1,79 @@
 ---
-title: "Перечисление PbWizardPageType (издатель)"
+title: PbWizardPageType Enumeration (Publisher)
 keywords: vbapb10.chm65603
-f1_keywords: vbapb10.chm65603
+f1_keywords:
+- vbapb10.chm65603
 ms.prod: publisher
-api_name: Publisher.PbWizardPageType
+api_name:
+- Publisher.PbWizardPageType
 ms.assetid: 8b34efb9-0091-e30f-9bb9-02310edccbb6
 ms.date: 06/08/2017
-ms.openlocfilehash: 09d1fd4f62c5dfcf8e0c89011610c839ac65cf3c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pbwizardpagetype-enumeration-publisher"></a>Перечисление PbWizardPageType (издатель)
-
-Тип страницы мастера, чтобы добавить.
 
 
+# PbWizardPageType Enumeration (Publisher)
 
-|**Имя**|**Значение**|**Описание**|
+The type of wizard page to add.
+
+
+
+|**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **pbWizardPageTypeCatalogBlank**|35|CatalogBlank|
-| **pbWizardPageTypeCatalogCalendar**|22|Календарь|
+| **pbWizardPageTypeCatalogCalendar**|22|Calendar|
 | **pbWizardPageTypeCatalogEightItemsOneColumn**|33|CatalogEightItemsOneColumn|
 | **pbWizardPageTypeCatalogEightItemsTwoColumns**|34|CatalogEightItemsTwoColumns|
 | **pbWizardPageTypeCatalogFeaturedItem**|24|CatalogFeaturedItem|
-| **pbWizardPageTypeCatalogForm**|36|Форма каталога|
-| **pbWizardPageTypeCatalogFourItemsAlignedPictures**|30|Четыре элемента каталога выравнивания рисунков|
-| **pbWizardPageTypeCatalogFourItemsOffsetPictures**|31|Четыре элементов смещения изображения в каталог|
-| **pbWizardPageTypeCatalogFourItemsSquaredPictures**|32|Четыре элемента каталога квадрат рисунков|
-| **pbWizardPageTypeCatalogOneColumnText**|18|Один столбец текста в каталог|
-| **pbWizardPageTypeCatalogOneColumnTextPicture**|19|Каталог один столбец текста изображения|
-| **pbWizardPageTypeCatalogTableOfContents**|23|Каталог оглавлением|
-| **pbWizardPageTypeCatalogThreeItemsAlignedPictures**|27|Три элемента выравнивания рисунков|
-| **pbWizardPageTypeCatalogThreeItemsOffsetPictures**|28|Три элемента смещение изображения|
-| **pbWizardPageTypeCatalogThreeItemsStackedPictures**|29|Три элемента стека изображений|
-| **pbWizardPageTypeCatalogTwoColumnsText**|20|Каталог двумя столбцами текста|
-| **pbWizardPageTypeCatalogTwoColumnsTextPicture**|21|Изображение текста каталога двух столбцов|
-| **pbWizardPageTypeCatalogTwoItemsAlignedPictures**|25|Два элемента выравнивания рисунков|
-| **pbWizardPageTypeCatalogTwoItemsOffsetPictures**|26|Два элемента смещение изображения|
-| **pbWizardPageTypeNewsletter3Stories**|1|Newsletter3 истории (en)|
-| **pbWizardPageTypeNewsletterCalendar**|2|Информационный бюллетень календаря|
-| **pbWizardPageTypeNewsletterOrderForm**|15|Форма для размещения заказа информационный бюллетень|
-| **pbWizardPageTypeNewsletterResponseForm**|16|Формы ответа информационный бюллетень|
-| **pbWizardPageTypeNewsletterSignupForm**|17|Форма регистрации информационный бюллетень|
-| **pbWizardPageTypeNone**|-1|Нет|
-| **pbWizardPageTypeWebAboutUs**|501|Web о нас|
-| **pbWizardPageTypeWebArticle**|512|Веб-статья|
-| **pbWizardPageTypeWebBlank**|524|Веб-пустым|
-| **pbWizardPageTypeWebCalendarPage**|504|Веб-страница календаря|
-| **pbWizardPageTypeWebCalendarWithLinks**|800|Календарь Web со ссылками|
-| **pbWizardPageTypeWebContactUs**|505|Web свяжитесь с нами|
-| **pbWizardPageTypeWebEmployee**|507|Web сотрудников|
-| **pbWizardPageTypeWebEmployeeList**|506|Список сотрудников Web|
-| **pbWizardPageTypeWebEmployeesWithLinks**|802|Сотрудники Web со ссылками|
-| **pbWizardPageTypeWebFAQ**|508|Вопросы и ответы по Web|
-| **pbWizardPageTypeWebHome**|509|Домашней страницы|
-| **pbWizardPageTypeWebInformational**|502|Информационные Web|
-| **pbWizardPageTypeWebJobs**|510|Web заданий|
-| **pbWizardPageTypeWebLegal**|511|Веб-юридических|
-| **pbWizardPageTypeWebLinks**|518|Веб-ссылки|
-| **pbWizardPageTypeWebList**|503|Веб-из списка|
-| **pbWizardPageTypeWebOrderForm**|525|Веб-форму заказа|
-| **pbWizardPageTypeWebPhoto**|513|Web фотографий|
-| **pbWizardPageTypeWebPhotoGallery**|514|Фотоальбом Web|
-| **pbWizardPageTypeWebPhotosWithLinks**|805|Фотографии Web со ссылками|
-| **pbWizardPageTypeWebProduct**|515|Web продукта|
-| **pbWizardPageTypeWebProductList**|516|Веб-продукта из списка|
-| **pbWizardPageTypeWebProductsWithLinks**|801|Веб-продуктов со ссылками|
-| **pbWizardPageTypeWebProjectList**|517|Веб-проекта из списка|
-| **pbWizardPageTypeWebProjectsWithLinks**|804|Веб-проекты со ссылками|
-| **pbWizardPageTypeWebResponseForm**|526|Веб-формы ответа|
-| **pbWizardPageTypeWebSeminar**|519|Веб-семинар|
-| **pbWizardPageTypeWebService**|521|Веб-служба|
-| **pbWizardPageTypeWebServiceList**|520|Веб-службы из списка|
-| **pbWizardPageTypeWebServicesWithLinks**|803|Веб-службы со ссылками|
-| **pbWizardPageTypeWebSignupForm**|527|Веб-форма регистрации|
-| **pbWizardPageTypeWebSpecial**|522|Особая Web|
+| **pbWizardPageTypeCatalogForm**|36|Catalog Form|
+| **pbWizardPageTypeCatalogFourItemsAlignedPictures**|30|Catalog Four Items Aligned Pictures|
+| **pbWizardPageTypeCatalogFourItemsOffsetPictures**|31|Catalog Four Items Offset Pictures|
+| **pbWizardPageTypeCatalogFourItemsSquaredPictures**|32|Catalog Four Items Squared Pictures|
+| **pbWizardPageTypeCatalogOneColumnText**|18|Catalog One Column Text|
+| **pbWizardPageTypeCatalogOneColumnTextPicture**|19|Catalog One Column Text Picture|
+| **pbWizardPageTypeCatalogTableOfContents**|23|Catalog Table of Contents|
+| **pbWizardPageTypeCatalogThreeItemsAlignedPictures**|27|Three Items Aligned Pictures|
+| **pbWizardPageTypeCatalogThreeItemsOffsetPictures**|28|Three Items Offset Pictures|
+| **pbWizardPageTypeCatalogThreeItemsStackedPictures**|29|Three Items Stacked Pictures|
+| **pbWizardPageTypeCatalogTwoColumnsText**|20|Catalog Two Columns Text|
+| **pbWizardPageTypeCatalogTwoColumnsTextPicture**|21|Catalog Two Columns Text Picture|
+| **pbWizardPageTypeCatalogTwoItemsAlignedPictures**|25|Two Items Aligned Pictures|
+| **pbWizardPageTypeCatalogTwoItemsOffsetPictures**|26|Two Items Offset Pictures|
+| **pbWizardPageTypeNewsletter3Stories**|1|Newsletter3 Stories|
+| **pbWizardPageTypeNewsletterCalendar**|2|Newsletter Calendar|
+| **pbWizardPageTypeNewsletterOrderForm**|15|Newsletter OrderForm|
+| **pbWizardPageTypeNewsletterResponseForm**|16|Newsletter Response Form|
+| **pbWizardPageTypeNewsletterSignupForm**|17|Newsletter Signup Form|
+| **pbWizardPageTypeNone**|-1|None|
+| **pbWizardPageTypeWebAboutUs**|501|Web About Us|
+| **pbWizardPageTypeWebArticle**|512|Web Article|
+| **pbWizardPageTypeWebBlank**|524|Web Blank|
+| **pbWizardPageTypeWebCalendarPage**|504|Web Calendar Page|
+| **pbWizardPageTypeWebCalendarWithLinks**|800|Web Calendar With Links|
+| **pbWizardPageTypeWebContactUs**|505|Web Contact Us|
+| **pbWizardPageTypeWebEmployee**|507|Web Employee|
+| **pbWizardPageTypeWebEmployeeList**|506|Web Employee List|
+| **pbWizardPageTypeWebEmployeesWithLinks**|802|Web Employees With Links|
+| **pbWizardPageTypeWebFAQ**|508|Web FAQ|
+| **pbWizardPageTypeWebHome**|509|Web Home|
+| **pbWizardPageTypeWebInformational**|502|Web Informational|
+| **pbWizardPageTypeWebJobs**|510|Web Jobs|
+| **pbWizardPageTypeWebLegal**|511|Web Legal|
+| **pbWizardPageTypeWebLinks**|518|Web Links|
+| **pbWizardPageTypeWebList**|503|Web List|
+| **pbWizardPageTypeWebOrderForm**|525|Web Order Form|
+| **pbWizardPageTypeWebPhoto**|513|Web Photo|
+| **pbWizardPageTypeWebPhotoGallery**|514|Web Photo Gallery|
+| **pbWizardPageTypeWebPhotosWithLinks**|805|Web Photos With Links|
+| **pbWizardPageTypeWebProduct**|515|Web Product|
+| **pbWizardPageTypeWebProductList**|516|Web Product List|
+| **pbWizardPageTypeWebProductsWithLinks**|801|Web Products With Links|
+| **pbWizardPageTypeWebProjectList**|517|Web Project List|
+| **pbWizardPageTypeWebProjectsWithLinks**|804|Web Projects With Links|
+| **pbWizardPageTypeWebResponseForm**|526|Web Response Form|
+| **pbWizardPageTypeWebSeminar**|519|Web Seminar|
+| **pbWizardPageTypeWebService**|521|Web Service|
+| **pbWizardPageTypeWebServiceList**|520|Web Service List|
+| **pbWizardPageTypeWebServicesWithLinks**|803|Web Services With Links|
+| **pbWizardPageTypeWebSignupForm**|527|Web Signup Form|
+| **pbWizardPageTypeWebSpecial**|522|Web Special|
 

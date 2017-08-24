@@ -1,44 +1,43 @@
 ---
-title: "Свойство TextEffectFormat.RotatedChars (издатель)"
+title: TextEffectFormat.RotatedChars Property (Publisher)
 keywords: vbapb10.chm3735817
-f1_keywords: vbapb10.chm3735817
+f1_keywords:
+- vbapb10.chm3735817
 ms.prod: publisher
-api_name: Publisher.TextEffectFormat.RotatedChars
+api_name:
+- Publisher.TextEffectFormat.RotatedChars
 ms.assetid: 47566497-7b78-65dc-48d9-26b2e4245d31
 ms.date: 06/08/2017
-ms.openlocfilehash: 9772eb6c984df60680215d8f395b6d56459f57b7
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="texteffectformatrotatedchars-property-publisher"></a>Свойство TextEffectFormat.RotatedChars (издатель)
-
- **msoTrue** при символов в указанном WordArt вращение 90 градусов относительно WordArt ограничивающего фигуры. **msoFalse** , если символы в указанном WordArt сохранить исходная ориентация относительно ограничивающего фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextEffectFormat.RotatedChars Property (Publisher)
 
- _выражение_. **RotatedChars**
-
- переменная _expression_A, представляет собой объект- **TextEffectFormat** .
+ **msoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **msoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **RotatedChars**
+
+ _expression_A variable that represents a  **TextEffectFormat** object.
+
+
+### Return Value
 
 MsoTriState
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Если объект WordArt горизонтальный текст, для свойства **RotatedChars** значение **True,** поворот знаки 90 градусов против. Если объект WordArt вертикальной, для свойства **RotatedChars** значение **False** поворот знаки 90 градусов часовой. Используйте метод **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-publisher.md)** для переключения между горизонтальных и вертикальных текста.
+If the WordArt has horizontal text, setting the  **RotatedChars** property to **True** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **False** rotates the characters 90 degrees clockwise. Use the **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-publisher.md)** method to switch between horizontal and vertical text flow.
 
-Метод **[Отразить](shape-flip-method-publisher.md)** и **[Вращение](shape-rotation-property-publisher.md)** свойство объекта **[Shape](shape-object-publisher.md)** **RotatedChars** свойство и метод **ToggleVerticalText** объекта **[TextEffectFormat](texteffectformat-object-publisher.md)** все влияет на ориентация символов и направление потока текста в объект **фигуры** , представляющий WordArt. Может потребоваться проверить, узнайте, как объединить эффекты этих свойств и методов для получения результатов, который будет.
+The  **[Flip](shape-flip-method-publisher.md)** method and  **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object and the  **RotatedChars** property and **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере добавляется объект WordArt, который содержит текст «Test» для активной публикации и поворот знаки 90 градусов против.
+This example adds WordArt that contains the text "Test" to the active publication and rotates the characters 90 degrees counterclockwise.
 
 
 ```vb

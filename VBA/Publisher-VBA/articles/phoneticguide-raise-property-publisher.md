@@ -1,42 +1,41 @@
 ---
-title: "Свойство PhoneticGuide.Raise (издатель)"
+title: PhoneticGuide.Raise Property (Publisher)
 keywords: vbapb10.chm6160389
-f1_keywords: vbapb10.chm6160389
+f1_keywords:
+- vbapb10.chm6160389
 ms.prod: publisher
-api_name: Publisher.PhoneticGuide.Raise
+api_name:
+- Publisher.PhoneticGuide.Raise
 ms.assetid: 8c7bd7e9-1b63-ded0-5021-99995296ad08
 ms.date: 06/08/2017
-ms.openlocfilehash: f239814ee840b43c2290cc3eef9754efdeaa6a4c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="phoneticguideraise-property-publisher"></a>Свойство PhoneticGuide.Raise (издатель)
-
-Возвращает значение **типа Variant** , указывающее расстояние между верхней части основного текста и в нижней части текста руководство по. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PhoneticGuide.Raise Property (Publisher)
 
- _выражение_. **Вызывает**
-
- переменная _expression_A, представляет собой объект- **PhoneticGuide** .
+Returns a  **Variant** indicating the distance between the top of the base text and the bottom of the guide text. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **Raise**
+
+ _expression_A variable that represents a  **PhoneticGuide** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Числовой набор значений находятся в точках; строк может быть любой единицы измерения, поддерживаются в Microsoft Publisher. Возвращаемые значения всегда находятся в пунктах.
+Numeric set values are in points; strings can be any measurement unit supported by Microsoft Publisher. Return values are always in points.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример помещает фонетическое руководство для фигуры одно в пунктах пять активная публикация над основной текст.
+The following example places the phonetic guide for shape one in the active publication five points above the base text.
 
 
 ```vb

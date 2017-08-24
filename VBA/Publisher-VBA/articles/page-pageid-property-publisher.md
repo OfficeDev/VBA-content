@@ -1,37 +1,36 @@
 ---
-title: "Свойство Page.PageID (издатель)"
+title: Page.PageID Property (Publisher)
 keywords: vbapb10.chm393223
-f1_keywords: vbapb10.chm393223
+f1_keywords:
+- vbapb10.chm393223
 ms.prod: publisher
-api_name: Publisher.Page.PageID
+api_name:
+- Publisher.Page.PageID
 ms.assetid: 07a87780-fb97-93ff-6f7d-1f1b72d3cb6a
 ms.date: 06/08/2017
-ms.openlocfilehash: cf5dfa1f8ebcbfdca49fdb2e694c208b38ef8d69
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pagepageid-property-publisher"></a>Свойство Page.PageID (издатель)
-
-Возвращает значение типа **Long** , указывающее, уникальный идентификатор для страницы в публикации. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Page.PageID Property (Publisher)
 
- _выражение_. **PageID**
-
- переменная _expression_A, представляющий объект **Page** .
+Returns a  **Long** indicating the unique identifier for a page in a publication. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
- **PageID** значения — случайных чисел, назначенных на страницы после их добавления. При добавлении или удалении страниц этих уникальных значений не изменяется. Кроме того эти номера не начинаются с 1, они не являются непрерывными.
+ _expression_. **PageID**
+
+ _expression_A variable that represents a  **Page** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-Следующий пример отображает свойства **PageIndex**, **PageNumber**и **PageID** для всех страниц в активной публикации.
+ **PageID** values are random numbers assigned to pages when they are added. These unique numbers do not change when pages are added or deleted. Also, these numbers do not start with 1, nor are they contiguous.
+
+
+## Example
+
+The following example displays the  **PageIndex**,  **PageNumber**, and  **PageID** properties for all the pages in the active publication.
 
 
 ```vb

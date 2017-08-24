@@ -1,32 +1,31 @@
 ---
-title: "Свойство TextEffectFormat.Text (издатель)"
+title: TextEffectFormat.Text Property (Publisher)
 keywords: vbapb10.chm3735824
-f1_keywords: vbapb10.chm3735824
+f1_keywords:
+- vbapb10.chm3735824
 ms.prod: publisher
-api_name: Publisher.TextEffectFormat.Text
+api_name:
+- Publisher.TextEffectFormat.Text
 ms.assetid: eae1e95f-b0e6-559b-39a5-40291e758915
 ms.date: 06/08/2017
-ms.openlocfilehash: 513e652960c0dd2f0735a8c508767abb5cb4c605
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="texteffectformattext-property-publisher"></a>Свойство TextEffectFormat.Text (издатель)
-
-Возвращает или задает **строку** , представляющую текст в диапазон текста или WordArt фигуры. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# TextEffectFormat.Text Property (Publisher)
 
- _выражение_. **Текст**
-
- переменная _expression_A, представляет собой объект- **TextEffectFormat** .
+Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В следующем примере изменяется ее текст и задает имя шрифта и свойства форматирования для фигуры одно на первой странице active публикации. В данном примере для работы фигуры один должен быть объектом WordArt.
+ _expression_. **Text**
+
+ _expression_A variable that represents a  **TextEffectFormat** object.
+
+
+## Example
+
+The following example changes the text and sets the font name and formatting properties for shape one on the first page of the active publication. For this example to work, shape one must be a WordArt object.
 
 
 ```vb

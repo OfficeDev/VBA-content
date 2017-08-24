@@ -1,42 +1,41 @@
 ---
-title: "Свойство Document.ViewHorizontalBaseLineGuides (издатель)"
+title: Document.ViewHorizontalBaseLineGuides Property (Publisher)
 keywords: vbapb10.chm196728
-f1_keywords: vbapb10.chm196728
+f1_keywords:
+- vbapb10.chm196728
 ms.prod: publisher
-api_name: Publisher.Document.ViewHorizontalBaseLineGuides
+api_name:
+- Publisher.Document.ViewHorizontalBaseLineGuides
 ms.assetid: e5471313-38e0-9454-04af-4c85d976b312
 ms.date: 06/08/2017
-ms.openlocfilehash: fbe93d93ce9c183118ceea6fb6ff26994e657b24
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentviewhorizontalbaselineguides-property-publisher"></a>Свойство Document.ViewHorizontalBaseLineGuides (издатель)
-
-Задает или возвращает значение **типа Boolean** , представляет ли горизонтальные направляющие отображаются в указанном объекте **документа** . **Значение true,** если они будут отображаться. **Значение false,** Если эти атрибуты не видны. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ViewHorizontalBaseLineGuides Property (Publisher)
 
- _выражение_. ****
-
- переменная _expression_A, представляющий объект **Document** .
+Sets or returns a  **Boolean** that represents whether or not the horizontal baseline guides are visible in the specified **Document** object. **True** if they are visible. **False** if they are not visible. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Логический
+ _expression_. ****
 
-
-## <a name="remarks"></a>Заметки
-
-По умолчанию для этого свойства имеет **значение False**.
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере создается руководства по горизонтали базового видимы в активный документ.
+Boolean
+
+
+## Remarks
+
+The default setting for this property is  **False**.
+
+
+## Example
+
+The following example makes the horizontal baseline guides visible in the active document.
 
 
 ```vb

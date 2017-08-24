@@ -1,45 +1,45 @@
 ---
-title: "Свойство Table.TableDirection (издатель)"
+title: Table.TableDirection Property (Publisher)
 keywords: vbapb10.chm4784135
-f1_keywords: vbapb10.chm4784135
+f1_keywords:
+- vbapb10.chm4784135
 ms.prod: publisher
-api_name: Publisher.Table.TableDirection
+api_name:
+- Publisher.Table.TableDirection
 ms.assetid: ffd664a8-781f-8fdc-055c-1ea7309b3b38
 ms.date: 06/08/2017
-ms.openlocfilehash: abaccbb9b818b15ce78614206caf0209f9fcd2f6
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tabletabledirection-property-publisher"></a>Свойство Table.TableDirection (издатель)
-
-Возвращает или задает значение константы **PbTableDirectionType** , представляет ли текста в таблице считываются слева направо или справа налево. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# Table.TableDirection Property (Publisher)
 
- _выражение_. **TableDirection**
-
- переменная _expression_A, представляет собой объект- **таблицы** .
+Returns or sets a  **PbTableDirectionType** constant that represents whether text in a table is read from left to right or from right to left. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **TableDirection**
+
+ _expression_A variable that represents a  **Table** object.
+
+
+### Return Value
 
 PbTableDirectionType
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Значение свойства **TableDirection** может иметь одно из **PbTableDirectionType** константы в библиотеке типов, Microsoft Publisher.
+The  **TableDirection** property value can be one of the **PbTableDirectionType** constants declared in the Microsoft Publisher type library.
 
 
 
-| **pbTableDirectionLeftToRight**|| **pbTableDirectionRightToLeft**|
+| **pbTableDirectionLeftToRight**|
+| **pbTableDirectionRightToLeft**|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере вводит полужирный номер в каждой ячейки в указанной таблице и затем задает направление таблицы, чтобы ячейки, какой номер справа налево. В данном примере для работы указанного фигуры должен быть таблица.
+This example enters a bold number into each cell in the specified table, and then sets the direction of the table so that the cells number from right to left. For this example to work, the specified shape must be a table.
 
 
 ```vb

@@ -1,59 +1,58 @@
 ---
-title: "Метод MailMerge.ExportRecipientList (издатель)"
+title: MailMerge.ExportRecipientList Method (Publisher)
 keywords: vbapb10.chm6225941
-f1_keywords: vbapb10.chm6225941
+f1_keywords:
+- vbapb10.chm6225941
 ms.prod: publisher
-api_name: Publisher.MailMerge.ExportRecipientList
+api_name:
+- Publisher.MailMerge.ExportRecipientList
 ms.assetid: 230d0f66-7368-51b7-8233-3fd54cfd0fe4
 ms.date: 06/08/2017
-ms.openlocfilehash: ff0e685b2b16aa3926c65fd36640ee1db0a94f36
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergeexportrecipientlist-method-publisher"></a>Метод MailMerge.ExportRecipientList (издатель)
-
-Экспорт в список получателей слияния почты в файл Microsoft Office Access (MDB) или в файл с разделителями-запятыми (.csv).
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMerge.ExportRecipientList Method (Publisher)
 
- _выражение_. **ExportRecipientList** ( **_Имя файла_**, **_Тип файла_**, **_IncludedOnly_**)
-
- переменная _expression_A, представляет собой объект- **слияния** .
+Exports the list of mail-merge recipients to a Microsoft Office Access (.mdb) file or to a comma-delimited text (.csv) file.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ExportRecipientList**( **_Filename_**,  **_FileType_**,  **_IncludedOnly_**)
+
+ _expression_A variable that represents a  **MailMerge** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя файла|Обязательное свойство.| **String**|Имя файла, содержащего список получателей.|
-|FileType|Необязательный| **PbRecipientListFileType**|Тип файла для сохранения. Возможные значения см.|
-|IncludedOnly|Необязательный| **Boolean**|Следует ли ограничения записей в список получателей к определенным получателям.|
+|Filename|Required| **String**|The name of the file that will contain the list of recipients.|
+|FileType|Optional| **PbRecipientListFileType**|The type of file to save. See Remarks for possible values.|
+|IncludedOnly|Optional| **Boolean**|Whether to restrict entries in the recipient list to specific recipients.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Возможные значения для параметра FileType включают следующие константы из перечисления **PbRecipientListFileType** :
+Possible values for the FileType parameter include the following constants from the  **PbRecipientListFileType** enumeration:
 
 
 
-|**Константы**|**Значение**|**Описание**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbAsCsvFile**|1|Сохраните как CSV-файла с разделителями запятыми.|
-| **pbAsMdbFile**|0|Сохраните как Microsoft Office Access MDB-файлу.|
-Метод **ExportRecipientList** соответствует команду **Экспорт списка получателей в новый файл** в **Слияния почты** и **слияния почты** областями задач в интерфейсе пользователя Microsoft Publisher.
+| **pbAsCsvFile**|1|Save as comma-delimited CSV file.|
+| **pbAsMdbFile**|0|Save as Microsoft Office Access MDB file.|
+The  **ExportRecipientList** method corresponds to the **Export recipient list to new file** command in the **E-mail Merge** and **Mail Merge** task panes in the Microsoft Publisher user interface.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующие Microsoft Visual Basic для приложений (VBA) макроса показано, как использовать метод **ExportRecipientList** для экспорта в список получателей слияния почты в файле базы данных Access. Прежде чем запустить этот макрос, убедитесь, что активный документ подключен к источнику данных. Если активный документ не подключен к источнику данных, можно использовать ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** метод для подключения.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportRecipientList** method to export the list of mail-merge recipients to an Access database file. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method to make the connection.
 
-Кроме того перед выполнением кода замените _имя пользователя_ в путь к папке на сохраненный файл с именем допустимого пользователя на вашем компьютере или замените путь к папке и имя файла, в которое включен путь и имя файла.
+Also, before running the code, replace  _username_ in the folder path to the saved file with the name of a valid user on your computer, or replace the folder path and file name with a path and file name of your choice.
 
-Обратите внимание, что путь к папке, в этом примере типичные для путей к папкам в Microsoft Windows Vista. Необходимо иметь разрешение на сохранение файлов в папке.
+Note that the folder path used in this example is typical of folder paths in Microsoft Windows Vista. You must have permission to save files in the folder you designate.
 
 
 

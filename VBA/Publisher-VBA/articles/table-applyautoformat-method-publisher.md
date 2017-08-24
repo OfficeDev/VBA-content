@@ -1,49 +1,48 @@
 ---
-title: "Метод Table.ApplyAutoFormat (издатель)"
+title: Table.ApplyAutoFormat Method (Publisher)
 keywords: vbapb10.chm4784137
-f1_keywords: vbapb10.chm4784137
+f1_keywords:
+- vbapb10.chm4784137
 ms.prod: publisher
-api_name: Publisher.Table.ApplyAutoFormat
+api_name:
+- Publisher.Table.ApplyAutoFormat
 ms.assetid: f792a5f3-0d1c-06de-a030-7a588ca372d2
 ms.date: 06/08/2017
-ms.openlocfilehash: c3ed35e66edaef2e3709ec3de8abdc84cd39e068
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="tableapplyautoformat-method-publisher"></a>Метод Table.ApplyAutoFormat (издатель)
-
-Область применения автоматического форматирования к указанной таблице встроенных таблицы.
 
 
-## <a name="syntax"></a>Синтаксис
+# Table.ApplyAutoFormat Method (Publisher)
 
- _выражение_. **ApplyAutoFormat** ( **_Автоформат_**, **_TextFormatting_**, **_TextAlignment_**, **_заполните поля_**, **_границы_**)
-
- переменная _expression_A, представляет собой объект- **таблицы** .
+Applies automatic built-in table formatting to a specified table.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **ApplyAutoFormat**( **_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
+
+ _expression_A variable that represents a  **Table** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Автоформат|Обязательное свойство.| **PbTableAutoFormatType**|Тип автоматического форматирования для применения к указанной таблицы.|
-|TextFormatting|Необязательный| **Boolean**| **Значение true,** Чтобы применить форматирование текста в таблице шрифта. Значение по умолчанию — **True**.|
-|TextAlignment|Необязательный| **Boolean**| **Значение true,** Чтобы применить выравнивание текста в таблице. Значение по умолчанию — **True**.|
-|Заполните поля|Необязательный| **Boolean**| **Значение true,** Чтобы применить форматирование ячеек в таблице заливку. Значение по умолчанию — **True**.|
-|Границы|Необязательный| **Boolean**| **Значение true,** Чтобы использовать границы для ячеек в таблице. Значение по умолчанию — **True**.|
+|AutoFormat|Required| **PbTableAutoFormatType**|The type of automatic formatting to apply to the specified table.|
+|TextFormatting|Optional| **Boolean**| **True** to apply font formatting to the text in the table. Default value is **True**.|
+|TextAlignment|Optional| **Boolean**| **True** to apply text alignment to the text in the table. Default value is **True**.|
+|Fill|Optional| **Boolean**| **True** to apply fill formatting to cells in the table. Default value is **True**.|
+|Borders|Optional| **Boolean**| **True** to apply borders to cells in the table. Default value is **True**.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Параметр Автоформат может иметь одно из **[PbTableAutoFormatType](pbtableautoformattype-enumeration-publisher.md)** константы в библиотеке типов, Microsoft Publisher.
+The AutoFormat parameter can be one of the  **[PbTableAutoFormatType](pbtableautoformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере применяется фразу checkbook register автоматическое форматирование, заливки и границы для указанной таблицы.
+This example applies the checkbook register automatic formatting, with fill and borders, to the specified table.
 
 
 ```vb

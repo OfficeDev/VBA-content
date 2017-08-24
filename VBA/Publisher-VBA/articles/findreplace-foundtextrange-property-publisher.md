@@ -1,46 +1,48 @@
 ---
-title: "Свойство FindReplace.FoundTextRange (издатель)"
+title: FindReplace.FoundTextRange Property (Publisher)
 keywords: vbapb10.chm8323075
-f1_keywords: vbapb10.chm8323075
+f1_keywords:
+- vbapb10.chm8323075
 ms.prod: publisher
-api_name: Publisher.FindReplace.FoundTextRange
+api_name:
+- Publisher.FindReplace.FoundTextRange
 ms.assetid: 8d0d3177-2d32-7df6-8b88-b354ec0a3d7b
 ms.date: 06/08/2017
-ms.openlocfilehash: a5a9552f4bc53681f0468648c5f0524e56f59fe8
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="findreplacefoundtextrange-property-publisher"></a>Свойство FindReplace.FoundTextRange (издатель)
-
-Возвращает объект **TextRange** , который представляет найденный текст или замены текста операции поиска. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# FindReplace.FoundTextRange Property (Publisher)
 
- _выражение_. **FoundTextRange**
-
- переменная _expression_A, представляет собой объект- **FindReplace** .
+Returns a  **TextRange** object that represents the found text or replaced text of a find operation. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **FoundTextRange**
+
+ _expression_A variable that represents a  **FindReplace** object.
+
+
+### Return Value
 
 TextRange
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Фактический объект **TextRange** , возвращенный свойством **FoundTextRange** определяется значение свойства **ReplaceScope** . В следующей таблице перечислены соответствующие значения этих свойств.
-
-
-
-| для **ReplaceScope** = **pbReplaceScopeAll**| **FoundTextRange** = Empty | | для **ReplaceScope** = **pbReplaceScopeNone**| **FoundTextRange** = Find диапазон текста | | для **ReplaceScope** = **pbReplaceScopeOne**| **FoundTextRange** = диапазон текста заменить | Если **ReplaceScope** **pbReplaceScopeAll**, свойство **FoundTextRange** будет пустым. Любая попытка обратиться к ней возвращает «Отказано в доступе.» Способ работы с диапазон текста, поиск текста — задайте свойству **ReplaceScope** значение **pbReplaceScopeNone** или **pbReplaceScopeOne** и получать доступ к диапазон текста поиска или замененный текст для каждого повтора найден.
+The actual  **TextRange** object returned by the **FoundTextRange** property is determined by the value of the **ReplaceScope** property. The following table lists the corresponding values of these properties.
 
 
-## <a name="example"></a>Пример
 
-Если **ReplaceScope** **pbReplaceScopeNone**, **FoundTextRange** возвращает диапазон текста, поиск текста. В следующем примере показано, как может осуществляться атрибуты шрифта текстового диапазона поиска при **ReplaceScope** задано значение **pbReplaceScopeNone**.
+|for  **ReplaceScope** = **pbReplaceScopeAll**| **FoundTextRange** = Empty|
+|for  **ReplaceScope** = **pbReplaceScopeNone**| **FoundTextRange** = Find text range|
+|for  **ReplaceScope** = **pbReplaceScopeOne**| **FoundTextRange** = Replace text range|
+When  **ReplaceScope** is set to **pbReplaceScopeAll**, the  **FoundTextRange** property is empty. Any attempt to access it returns "Access Denied." The way to manipulate the text range of the searched text is to set the **ReplaceScope** property to **pbReplaceScopeNone** or **pbReplaceScopeOne** and access the text range of the searched or replaced text for each occurrence found.
+
+
+## Example
+
+When  **ReplaceScope** is set to **pbReplaceScopeNone**,  **FoundTextRange** returns the text range of the searched text. The following example illustrates how the font attributes of the find text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeNone**.
 
 
 ```vb
@@ -57,7 +59,7 @@ With TextRange.Find
 End With
 ```
 
-Если **ReplaceScope** **pbReplaceScopeOne**, диапазон текста, поиск текста будет заменен. Таким образом свойство **FoundTextRange** возвращает диапазон текста замещающий текст. В следующем примере показано, как может осуществляться атрибуты шрифта диапазона текст заменен при **ReplaceScope** задано значение **pbReplaceScopeOne**. 
+When  **ReplaceScope** is set to **pbReplaceScopeOne**, the text range of the searched text is replaced. Therefore, the  **FoundTextRange** property returns the text range of the replacement text. The following example demonstrates how the font attributes of the replaced text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeOne**. 
 
 
 
@@ -77,7 +79,7 @@ With Document.Find
 End With
 ```
 
-В этом примере заменяет каждый пример слово «довольно странно» со словом «разрешение» и применяет курсивом и полужирным шрифтом, замененный текст. 
+This example replaces each example of the word "bizarre" with the word "strange" and applies italic formatting and bold formatting to the replaced text. 
 
 
 
@@ -98,7 +100,7 @@ With objDocument.Find
 End With
 ```
 
-В этом примере находит все вхождения слова «важно» и курсивом его.
+This example finds all occurrences of the word "important" and applies italic formatting to it.
 
 
 

@@ -1,26 +1,25 @@
 ---
-title: "Объект ColorCMYK (издатель)"
+title: ColorCMYK Object (Publisher)
 keywords: vbapb10.chm2686975
-f1_keywords: vbapb10.chm2686975
+f1_keywords:
+- vbapb10.chm2686975
 ms.prod: publisher
-api_name: Publisher.ColorCMYK
+api_name:
+- Publisher.ColorCMYK
 ms.assetid: e1a39f6f-f440-e375-4f8c-e81093e5a451
 ms.date: 06/08/2017
-ms.openlocfilehash: 2f33c5bef8e24d4f5f987dcbb346590d2849de2b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="colorcmyk-object-publisher"></a>Объект ColorCMYK (издатель)
 
-Представляет значение голубой пурпурный желтый черный цвет (CMYK).
+
+# ColorCMYK Object (Publisher)
+
+Represents a cyan-magenta-yellow-black (CMYK) color value.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте свойство **CMYK** объекта **ColorFormat** возвращает объект **ColorCMYK** . Используйте **голубой**, **пурпурный**, **желтый**и **черный** свойства объекта **ColorCMYK** по отдельности установка каждого из четырех цветов в формат CMYK значение цвета. Используйте метод **SetCMYK** для объекта **ColorCMYK** для установки всех четырех цветов за один раз.
+Use the  **CMYK** property of a **ColorFormat** object to return a **ColorCMYK** object. Use the **Cyan**, **Magenta**, **Yellow**, and **Black** properties of the **ColorCMYK** object to individually set each of the four colors in the CMYK color value. Use the **SetCMYK** method on a **ColorCMYK** object to set all four colors at once.
  
 
  
@@ -28,7 +27,7 @@ ms.lasthandoff: 07/26/2017
  
 
  
-В следующем примере показано получение CMYK значение цвета заливки фигуры из них и изменяется на другую CMYK значение цвета.
+The following example retrieves the CMYK color value of shape one's fill and changes it to another CMYK color value.
  
 
  
@@ -40,7 +39,7 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -48,16 +47,16 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 |:-----|
 |[SetCMYK](colorcmyk-setcmyk-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](colorcmyk-application-property-publisher.md)|
-|[Черный](colorcmyk-black-property-publisher.md)|
-|[Голубой](colorcmyk-cyan-property-publisher.md)|
-|[Пурпурный](colorcmyk-magenta-property-publisher.md)|
-|[Родительский раздел](colorcmyk-parent-property-publisher.md)|
-|[Желтый](colorcmyk-yellow-property-publisher.md)|
+|[Application](colorcmyk-application-property-publisher.md)|
+|[Black](colorcmyk-black-property-publisher.md)|
+|[Cyan](colorcmyk-cyan-property-publisher.md)|
+|[Magenta](colorcmyk-magenta-property-publisher.md)|
+|[Parent](colorcmyk-parent-property-publisher.md)|
+|[Yellow](colorcmyk-yellow-property-publisher.md)|
 

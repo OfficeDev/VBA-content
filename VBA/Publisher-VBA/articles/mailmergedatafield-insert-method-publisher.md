@@ -1,53 +1,52 @@
 ---
-title: "Метод MailMergeDataField.Insert (издатель)"
+title: MailMergeDataField.Insert Method (Publisher)
 keywords: vbapb10.chm6422561
-f1_keywords: vbapb10.chm6422561
+f1_keywords:
+- vbapb10.chm6422561
 ms.prod: publisher
-api_name: Publisher.MailMergeDataField.Insert
+api_name:
+- Publisher.MailMergeDataField.Insert
 ms.assetid: 54482cda-d0d3-c799-7e7f-b25835a8bd6f
 ms.date: 06/08/2017
-ms.openlocfilehash: 1939c327ec170dca3586d26c6960b798f315de2f
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="mailmergedatafieldinsert-method-publisher"></a>Метод MailMergeDataField.Insert (издатель)
-
-Возвращает объект **[фигуры](shape-object-publisher.md)** , который представляет поле данных, вставленных в публикацию.
 
 
-## <a name="syntax"></a>Синтаксис
+# MailMergeDataField.Insert Method (Publisher)
 
- _выражение_. **Вставка** ( **_Диапазон_**)
-
- переменная _expression_A, представляет собой объект- **MailMergeDataField** .
+Returns a  **[Shape](shape-object-publisher.md)** object that represents a data field inserted into a publication.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Insert**( **_Range_**)
+
+ _expression_A variable that represents a  **MailMergeDataField** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Необязательный| **TextRange**|Диапазон текста для вставки.|
+|Range|Optional| **TextRange**|The text range to insert.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
 Shape
 
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-**Вставка** работает метод для обоих рисунок и строковые поля (текст).
-
-
- **Примечание**  Можно также использовать метод **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** объекта **[TextRange](textrange-object-publisher.md)** для добавления текстового поля данных в текстовом поле в области публикации.
+The  **Insert** method works for both picture and string (text) fields.
 
 
-## <a name="example"></a>Пример
+ **Note**  You can also use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
 
-В этом примере определяет поля данных как поле данных изображения, вставляется в область данных для указанной публикации и размеры и располагает полей данных рисунка. В этом примере предполагается публикации подключен к источнику данных, а область объединения в каталог был добавлен к публикации.
+
+## Example
+
+This example defines a data field as a picture data field, inserts it into the catalog merge area of the specified publication, and sizes and positions the picture data field. This example assumes the publication has been connected to a data source, and a catalog merge area has been added to the publication.
 
 
 ```vb

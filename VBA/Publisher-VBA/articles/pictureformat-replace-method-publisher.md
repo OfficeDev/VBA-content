@@ -1,51 +1,52 @@
 ---
-title: "Метод PictureFormat.Replace (издатель)"
+title: PictureFormat.Replace Method (Publisher)
 keywords: vbapb10.chm3604786
-f1_keywords: vbapb10.chm3604786
+f1_keywords:
+- vbapb10.chm3604786
 ms.prod: publisher
-api_name: Publisher.PictureFormat.Replace
+api_name:
+- Publisher.PictureFormat.Replace
 ms.assetid: b2bce79a-5c46-1473-601d-a4a25176edeb
 ms.date: 06/08/2017
-ms.openlocfilehash: 77e5cdf9a24657536db79ac711a87f517dac30d2
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatreplace-method-publisher"></a>Метод PictureFormat.Replace (издатель)
-
-Заменяет указанный рисунок. Возвращает **значение Nothing**.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.Replace Method (Publisher)
 
- _выражение_. **Замена** ( **_Pathname_**, **_InsertAs_**)
-
- переменная _expression_A, представляет собой объект- **PictureFormat** .
+Replaces the specified picture. Returns  **Nothing**.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Replace**( **_Pathname_**,  **_InsertAs_**)
+
+ _expression_A variable that represents a  **PictureFormat** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Имя пути|Обязательное свойство.| **String**|Имя и путь к файлу, с которым вы хотите заменить указанный рисунок.|
-|InsertAs|Необязательный| **PbPictureInsertAs**|Так, в которой будет вставлено в документ файл рисунка: связанные или внедренные.|
+|Pathname|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
+|InsertAs|Optional| **PbPictureInsertAs**|The manner in which you want the picture file inserted into the document: linked or embedded.|
 
-## <a name="remarks"></a>Заметки
+## Remarks
 
-Используйте метод **Replace** для обновления связанных рисунков файлы, которые были изменены с момента они были добавлены в документ. Используйте свойство **[LinkedFileStatus](pictureformat-linkedfilestatus-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)** для определения, были ли изменены связанного рисунка.
+Use the  **Replace** method to update linked picture files that have been modified since they were inserted into the document. Use the **[LinkedFileStatus](pictureformat-linkedfilestatus-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine if a linked picture has been modified.
 
-Параметр InsertAs может иметь одно из следующих **PbPictureInsertAs** константы, описанные в библиотеке типов, Microsoft Publisher. значение по умолчанию — **pbPictureInsertAsOriginalState**.
+The InsertAs parameter can be one of the following  **PbPictureInsertAs** constants declared in the Microsoft Publisher type library. the default value is **pbPictureInsertAsOriginalState**.
 
 
 
-| **pbPictureInsertAsEmbedded**|| **pbPictureInsertAsLinked**|| **pbPictureInsertAsOriginalState**|
+| **pbPictureInsertAsEmbedded**|
+| **pbPictureInsertAsLinked**|
+| **pbPictureInsertAsOriginalState**|
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере заменяется каждого вхождения определенного изображения в активной публикации на другой рисунок.
+The following example replaces every occurrence of a specific picture in the active publication with another picture.
 
 
 ```vb
@@ -78,7 +79,7 @@ Next pgLoop
 End Sub
 ```
 
-В этом примере проверяется каждого связанного рисунка, чтобы определить, если связанный файл был изменен с момента его был вставлен в публикацию. Если Да, изображение обновляется, заменив самого файла.
+This example tests each linked picture to determine if the linked file has been modified since it was inserted into the publication. If it has, the picture is updated by replacing the file with itself.
 
 
 

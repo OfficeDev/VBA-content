@@ -1,53 +1,52 @@
 ---
-title: "Свойство PictureFormat.OriginalColorsInPalette (издатель)"
+title: PictureFormat.OriginalColorsInPalette Property (Publisher)
 keywords: vbapb10.chm3604771
-f1_keywords: vbapb10.chm3604771
+f1_keywords:
+- vbapb10.chm3604771
 ms.prod: publisher
-api_name: Publisher.PictureFormat.OriginalColorsInPalette
+api_name:
+- Publisher.PictureFormat.OriginalColorsInPalette
 ms.assetid: 87c67430-1a5a-47f7-822f-6af8783f73b3
 ms.date: 06/08/2017
-ms.openlocfilehash: 7b3b5a82c58a6f10610a1b69dcd94276d14128c4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pictureformatoriginalcolorsinpalette-property-publisher"></a>Свойство PictureFormat.OriginalColorsInPalette (издатель)
-
-Возвращает значение типа **Long** , представляющее номер цветов в палитре указанного связанного рисунка. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# PictureFormat.OriginalColorsInPalette Property (Publisher)
 
- _выражение_. **OriginalColorsInPalette**
-
- переменная _expression_A, представляющий объект **PictureFormat** .
+Returns a  **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Длинный
+ _expression_. **OriginalColorsInPalette**
 
-
-## <a name="remarks"></a>Заметки
-
-Это свойство применяется только к связанных рисунков или объектов, которые не являются TrueColor OLE (то есть, они содержат данные цвета менее 24 бита на канал.) Возвращает фигуры, представляющие внедренных или вставленного изображения и объекты OLE или связанные рисунки, которые являются TrueColor «Отказано в разрешении».
-
-Используйте один из следующих свойств для определения, является ли фигура представляет связанного рисунка:
+ _expression_A variable that represents an  **PictureFormat** object.
 
 
--  Свойство **[Type](shape-type-property-publisher.md)** объекта **[фигуры](shape-object-publisher.md)**
+### Return Value
+
+Long
+
+
+## Remarks
+
+This property only applies to linked pictures or OLE objects that are not TrueColor (that is, they contain color data of less than 24 bits per channel.) Returns "Permission Denied" for shapes representing embedded or pasted pictures and OLE objects, or linked pictures that are TrueColor.
+
+Use either of the following properties to determine whether a shape represents a linked picture:
+
+
+-  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
     
-- Свойство **[IsLinked](pictureformat-islinked-property-publisher.md)** объекта **[PictureFormat](pictureformat-object-publisher.md)**
+- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
     
 
 
-Свойство **[OriginalIsTrueColor](pictureformat-originalistruecolor-property-publisher.md)** определяет, содержит ли связанного рисунка данные цвета 24 бита на канал или более высокой версии.
+Use the  **[OriginalIsTrueColor](pictureformat-originalistruecolor-property-publisher.md)** property to determine whether a linked picture contains color data of 24 bits per channel or greater.
 
 
-## <a name="example"></a>Пример
+## Example
 
-Следующий пример возвращает список всех картинок в активной публикации, которые не являются TrueColor. Возвращается количество цветов в палитре каждого изображения, и если связь изображения и связанных рисунков не TrueColor, также возвращается количество цветов в палитру его.
+The following example returns a list of all pictures in the active publication that are not TrueColor. The number of colors in each picture's palette is returned, and if the picture is linked and the linked picture is not TrueColor, the number of colors in its palette is also returned.
 
 
 ```vb

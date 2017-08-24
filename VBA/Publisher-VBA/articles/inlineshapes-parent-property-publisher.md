@@ -1,32 +1,31 @@
 ---
-title: "Свойство InlineShapes.Parent (издатель)"
+title: InlineShapes.Parent Property (Publisher)
 keywords: vbapb10.chm5767170
-f1_keywords: vbapb10.chm5767170
+f1_keywords:
+- vbapb10.chm5767170
 ms.prod: publisher
-api_name: Publisher.InlineShapes.Parent
+api_name:
+- Publisher.InlineShapes.Parent
 ms.assetid: e60b1f80-60f0-930d-2a81-90b2187d31ef
 ms.date: 06/08/2017
-ms.openlocfilehash: 6daba4e693a2ae9e2eccf809e169457c53e085fd
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="inlineshapesparent-property-publisher"></a>Свойство InlineShapes.Parent (издатель)
-
-Возвращает объект, представляющий родительский объект для указанного объекта. Например для объекта **[TextFrame](textframe-object-publisher.md)** возвращает объект **[фигуры](shape-object-publisher.md)** , представляющий родительскую фигуру рамки. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# InlineShapes.Parent Property (Publisher)
 
- _выражение_. **Родительский**
-
- переменная _expression_A, представляющий объект **InlineShapes** .
+Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
 
 
-## <a name="example"></a>Пример
+## Syntax
 
-В этом примере обращается к родительский объект выбранной фигуры и добавляет новую форму и задает заливки для новой фигуры.
+ _expression_. **Parent**
+
+ _expression_A variable that represents an  **InlineShapes** object.
+
+
+## Example
+
+This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
 
 ```vb
@@ -42,7 +41,7 @@ Sub ParentObject()
 End Sub
 ```
 
-В этом примере возвращает родительский объект frame текст является первой фигуры в активной публикации, а затем заполняет фигуры с шаблоном.
+This example returns the parent object of a text frame, which is the first shape in the active publication, and then fills the shape with a pattern.
 
 
 

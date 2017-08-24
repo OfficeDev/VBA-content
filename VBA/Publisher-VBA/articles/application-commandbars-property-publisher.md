@@ -1,37 +1,36 @@
 ---
-title: "Свойство Application.CommandBars (издатель)"
+title: Application.CommandBars Property (Publisher)
 keywords: vbapb10.chm131088
-f1_keywords: vbapb10.chm131088
+f1_keywords:
+- vbapb10.chm131088
 ms.prod: publisher
-api_name: Publisher.Application.CommandBars
+api_name:
+- Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2
 ms.date: 06/08/2017
-ms.openlocfilehash: 41374d7145cba18b97df3f2866d8c93fc9e81918
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="applicationcommandbars-property-publisher"></a>Свойство Application.CommandBars (издатель)
-
-Задает или возвращает коллекцию **CommandBars** , который представляет строки меню и панели инструментов в Microsoft Publisher.
 
 
-## <a name="syntax"></a>Синтаксис
+# Application.CommandBars Property (Publisher)
 
- _выражение_. **CommandBars**
-
- переменная _expression_A, представляющий объект **приложения** .
+Sets or returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **CommandBars**
+
+ _expression_A variable that represents a  **Application** object.
+
+
+### Return Value
 
 CommandBars
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере увеличивает все кнопки панели команд, позволяет всплывающие подсказки и отображает все элементы меню при отображении меню.
+This example enlarges all command bar buttons, enables ToolTips, and shows all menu items when displaying menus.
 
 
 ```vb
@@ -46,7 +45,7 @@ Sub CmdBars()
 End Sub
 ```
 
-В этом примере отображаются панели инструментов **объекты** в нижней части окна приложения.
+This example displays the  **Objects** toolbar at the bottom of the application window.
 
 
 
@@ -63,11 +62,11 @@ End Sub
 ```
 
 
-## <a name="see-also"></a>См. также
+## See also
 
 
-#### <a name="concepts"></a>Основные понятия
+#### Concepts
 
 
- [Объект приложения](application-object-publisher.md)
+ [Application Object](application-object-publisher.md)
 

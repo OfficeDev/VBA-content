@@ -1,38 +1,36 @@
 ---
-title: "Свойство ShadowFormat.Size (издатель)"
+title: ShadowFormat.Size Property (Publisher)
 keywords: vbapb10.chm3670281
-f1_keywords: vbapb10.chm3670281
+f1_keywords:
+- vbapb10.chm3670281
 ms.prod: publisher
 ms.assetid: 4c7f7302-efd1-02c3-0d95-f9e313e0ae5e
 ms.date: 06/08/2017
-ms.openlocfilehash: 9abff2e880eacfe8e64dddcb8565f65f6e5e226b
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shadowformatsize-property-publisher"></a>Свойство ShadowFormat.Size (издатель)
-
-Возвращает или задает **один** , который представляет ширину тени. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShadowFormat.Size Property (Publisher)
 
- _выражение_. **Размер**
-
- переменная _expression_A, представляет собой объект- **ShadowFormat** .
+Returns or sets a  **Single** that represents the width of the shadow. Read/write.
 
 
-## <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
- **Один**
+ _expression_. **Size**
 
-
-## <a name="see-also"></a>См. также
-
-
-#### <a name="concepts"></a>Основные понятия
+ _expression_A variable that represents a  **ShadowFormat** object.
 
 
- [Объект ShadowFormat](shadowformat-object-publisher.md)
+## Return value
+
+ **Single**
+
+
+## See also
+
+
+#### Concepts
+
+
+ [ShadowFormat Object](shadowformat-object-publisher.md)
 

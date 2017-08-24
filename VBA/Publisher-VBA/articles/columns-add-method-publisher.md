@@ -1,45 +1,44 @@
 ---
-title: "Метод метода Columns.Add (издатель)"
+title: Columns.Add Method (Publisher)
 keywords: vbapb10.chm5046276
-f1_keywords: vbapb10.chm5046276
+f1_keywords:
+- vbapb10.chm5046276
 ms.prod: publisher
-api_name: Publisher.Columns.Add
+api_name:
+- Publisher.Columns.Add
 ms.assetid: b3dfb892-6bda-d2c4-11f7-9bd29bf257aa
 ms.date: 06/08/2017
-ms.openlocfilehash: 5b939c7643c3d2403cca50ae10c3246129762b71
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="columnsadd-method-publisher"></a>Метод метода Columns.Add (издатель)
-
-Добавляет новый объект **столбца** для указанной коллекции **столбцов** и возвращает новый объект **столбца** .
 
 
-## <a name="syntax"></a>Синтаксис
+# Columns.Add Method (Publisher)
 
- _выражение_. **Добавление** ( **_BeforeColumn_**)
-
- переменная _expression_A, представляет собой объект- **столбцов** .
+Adds a new  **Column** object to the specified **Columns** collection and returns the new **Column** object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Add**( **_BeforeColumn_**)
+
+ _expression_A variable that represents a  **Columns** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|BeforeColumn|Необязательный| **Длинный**|Число столбцов, перед которым необходимо вставить новый столбец. Если этот аргумент указан, новый столбец добавляется после существующих столбцов. Если значение этого аргумента не соответствует существующего столбца в таблице, возникает ошибка.|
+|BeforeColumn|Optional| **Long**|The number of the column before which to insert the new column. If this argument is omitted, the new column is added after the existing columns. An error occurs if the value of this argument does not correspond to an existing column in the table.|
 
-### <a name="return-value"></a>Возвращаемое значение
+### Return Value
 
-Столбец
+Column
 
 
-## <a name="example"></a>Пример
+## Example
 
-В следующем примере добавляется столбец до трех столбцов в указанной таблице.
+The following example adds a column before column three in the specified table.
 
 
 ```vb

@@ -1,37 +1,36 @@
 ---
-title: "Свойство Document.ActiveView (издатель)"
+title: Document.ActiveView Property (Publisher)
 keywords: vbapb10.chm196707
-f1_keywords: vbapb10.chm196707
+f1_keywords:
+- vbapb10.chm196707
 ms.prod: publisher
-api_name: Publisher.Document.ActiveView
+api_name:
+- Publisher.Document.ActiveView
 ms.assetid: 1448c8c6-30e5-2e2a-f124-ebf544d8f297
 ms.date: 06/08/2017
-ms.openlocfilehash: 700e725086ee9b12effd85b1d8b595bcef50b7c4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentactiveview-property-publisher"></a>Свойство Document.ActiveView (издатель)
-
-Возвращает объект **[представления](view-object-publisher.md)** , представляющее атрибуты представления для указанного документа. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.ActiveView Property (Publisher)
 
- _выражение_. **ActiveView**
-
- переменная _expression_A, представляющий объект **Document** .
+Returns a  **[View](view-object-publisher.md)** object representing the view attributes for the specified document. Read-only.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
 
-Представление
+ _expression_. **ActiveView**
+
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+### Return Value
 
-В следующем примере задается zoom active публикации на экран.
+View
+
+
+## Example
+
+The following example sets the active publication zoom to fill the screen.
 
 
 ```vb

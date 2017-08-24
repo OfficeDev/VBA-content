@@ -1,26 +1,25 @@
 ---
-title: "Объект RulerGuide (издатель)"
+title: RulerGuide Object (Publisher)
 keywords: vbapb10.chm720895
-f1_keywords: vbapb10.chm720895
+f1_keywords:
+- vbapb10.chm720895
 ms.prod: publisher
-api_name: Publisher.RulerGuide
+api_name:
+- Publisher.RulerGuide
 ms.assetid: 6400c368-02e9-169c-c675-9416cd361384
 ms.date: 06/08/2017
-ms.openlocfilehash: 6d3d4bc0b03846f7e7634c90426b9d6ac348e639
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="rulerguide-object-publisher"></a>Объект RulerGuide (издатель)
 
-Представляет линий сетки, используется для выравнивания объектов на странице. Объект **RulerGuide** является элементом коллекции **[RulerGuides](rulerguides-object-publisher.md)** .
+
+# RulerGuide Object (Publisher)
+
+Represents a gridline used to align objects on a page. The  **RulerGuide** object is a member of the **[RulerGuides](rulerguides-object-publisher.md)** collection.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Используйте метод **[Add](rulerguides-add-method-publisher.md)** коллекции **RulerGuides** для создания новой линии сетки линейки. Используйте свойство **[Item](rulerguides-item-property-publisher.md)** для ссылки направляющей линейки. Используйте свойство **[положение](rulerguide-position-property-publisher.md)** изменение положения линии сетки и использование метода **[Delete](rulerguide-delete-method-publisher.md)** для удаления линий сетки. В этом примере создается новый направляющей линейки, переводит его, а затем удаляет его.
+Use the  **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to create a new ruler gridline. Use the **[Item](rulerguides-item-property-publisher.md)** property to reference a ruler guide. Use the **[Position](rulerguide-position-property-publisher.md)** property to change the position of a gridline, and use the **[Delete](rulerguide-delete-method-publisher.md)** method to remove a gridline. This example creates a new ruler guide, moves it, and then deletes it.
  
 
  
@@ -44,7 +43,7 @@ End Sub
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
@@ -52,14 +51,14 @@ End Sub
 |:-----|
 |[Delete](rulerguide-delete-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](rulerguide-application-property-publisher.md)|
-|[Родительский раздел](rulerguide-parent-property-publisher.md)|
+|[Application](rulerguide-application-property-publisher.md)|
+|[Parent](rulerguide-parent-property-publisher.md)|
 |[Position](rulerguide-position-property-publisher.md)|
 |[Type](rulerguide-type-property-publisher.md)|
 

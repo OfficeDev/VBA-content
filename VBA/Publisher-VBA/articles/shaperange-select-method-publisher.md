@@ -1,47 +1,46 @@
 ---
-title: "Метод ShapeRange.Select (издатель)"
+title: ShapeRange.Select Method (Publisher)
 keywords: vbapb10.chm2293799
-f1_keywords: vbapb10.chm2293799
+f1_keywords:
+- vbapb10.chm2293799
 ms.prod: publisher
-api_name: Publisher.ShapeRange.Select
+api_name:
+- Publisher.ShapeRange.Select
 ms.assetid: 3252ba74-d051-8c28-a9ed-c6f5ca711dec
 ms.date: 06/08/2017
-ms.openlocfilehash: 81b2c1156fa1a82fdd905f408b896599214a9ea4
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangeselect-method-publisher"></a>Метод ShapeRange.Select (издатель)
-
-Выбирает указанный объект.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.Select Method (Publisher)
 
- _выражение_. **Выберите** ( **_Заменить_**)
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Selects the specified object.
 
 
-### <a name="parameters"></a>Параметры
+## Syntax
+
+ _expression_. **Select**( **_Replace_**)
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+### Parameters
 
 
 
-|**Имя**|**Обязательный или необязательный**|**Тип данных**|**Описание**|
+|**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Замена|Необязательный| **Variant**|Указывает, будет ли выделение заменяет предыдущее выделение.  **Значение true** для замены предыдущее выделение с новой выбора; **Значение false** для добавления нового выделения в предыдущем выделение. Значение по умолчанию — **True**.|
+|Replace|Optional| **Variant**|Specifies whether the selection replaces any previous selection.  **True** to replace the previous selection with the new selection; **False** to add the new selection to the previous selection. Default is **True**.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере выбирает фигур одним и три по одному в активной публикации.
+This example selects shapes one and three on page one in the active publication.
 
 
 ```vb
 ActiveDocument.Pages(1).Shapes.Range(Array(1, 3)).Select
 ```
 
-В этом примере добавляется фигур двух и четыре по одному в активной публикации в предыдущем выделение.
+This example adds shapes two and four on page one in the active publication to the previous selection.
 
 
 

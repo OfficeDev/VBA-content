@@ -1,37 +1,36 @@
 ---
-title: "Свойство ParagraphFormat.RightIndent (издатель)"
+title: ParagraphFormat.RightIndent Property (Publisher)
 keywords: vbapb10.chm5439495
-f1_keywords: vbapb10.chm5439495
+f1_keywords:
+- vbapb10.chm5439495
 ms.prod: publisher
-api_name: Publisher.ParagraphFormat.RightIndent
+api_name:
+- Publisher.ParagraphFormat.RightIndent
 ms.assetid: bc3102d3-afc5-3f19-b98a-7f816e374d1a
 ms.date: 06/08/2017
-ms.openlocfilehash: 227daaea8dc3be420089b17ad3aea47635d7350c
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="paragraphformatrightindent-property-publisher"></a>Свойство ParagraphFormat.RightIndent (издатель)
-
-Возвращает или задает **Variant** , который представляет отступ справа (в пунктах) для указанного абзацев. Чтение и запись.
 
 
-## <a name="syntax"></a>Синтаксис
+# ParagraphFormat.RightIndent Property (Publisher)
 
- _выражение_. **RightIndent**
-
- переменная _expression_A, представляет собой объект- **ParagraphFormat** .
+Returns or sets a  **Variant** that represents the right indent (in points) for the specified paragraphs. Read/write.
 
 
-### <a name="return-value"></a>Возвращаемое значение
+## Syntax
+
+ _expression_. **RightIndent**
+
+ _expression_A variable that represents a  **ParagraphFormat** object.
+
+
+### Return Value
 
 Variant
 
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере задается из правого поля отступ справа для всех абзацев в активном документе 2,5. Метод **[InchesToPoints не была назначена](application-inchestopoints-method-publisher.md)** используется для преобразования дюймов в пунктах. В этом примере предполагает наличие по крайней мере один фигуры на первой странице active публикации.
+This example sets the right indent for all paragraphs in the active document to one inch from the right margin. The  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method is used to convert inches to points. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 ```vb

@@ -1,34 +1,25 @@
 ---
-title: "Объект материалы (издатель)"
+title: Stories Object (Publisher)
 keywords: vbapb10.chm5767167
-f1_keywords: vbapb10.chm5767167
+f1_keywords:
+- vbapb10.chm5767167
 ms.prod: publisher
-api_name: Publisher.Stories
+api_name:
+- Publisher.Stories
 ms.assetid: 694a0376-fa41-3097-180b-40b8a005ddf6
 ms.date: 06/08/2017
-ms.openlocfilehash: c35b0d46a1669c220d8d5c28547d6b4e251a5d94
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="stories-object-publisher"></a>Объект материалы (издатель)
 
-Представляет весь текст в публикации.
+
+# Stories Object (Publisher)
+
+Represents all the text in a publication.
  
 
 
-## <a name="example"></a>Пример
+## Example
 
-Свойство **функциональности** объекта **Document** для возврата коллекции **функциональности** . Метод **Item** коллекции **истории (en)** для доступа к отдельным объектам **сценариев** .
- 
-
- 
-
- 
-
- 
-Коллекция **функциональности** позволяет эффективного доступа к тексту в публикации. Простой цикл по коллекции **функциональности** для проверки всех текста в текстовых рамок или таблиц без необходимости выполнять поиск каждой фигуры на всех страницах публикации.
+Use the  **Stories** property of a **Document** object to return a **Stories** collection. Use the **Item** method of the **Stories** collection to access individual **Story** objects.
  
 
  
@@ -36,7 +27,7 @@ ms.lasthandoff: 07/26/2017
  
 
  
-Коллекция **функциональности** содержит один объект **статьи** для каждого несвязанные надпись, каждый цепочки связанных текстовых рамок и каждой таблицы в публикации. Текст в кадрах WordArt, объекты OLE и рисунков не включаются в коллекцию **функциональности** .
+The  **Stories** collection enables efficient access to text in a publication. A simple loop through the **Stories** collection can scan all text in text frames or tables without the need to search each shape on every page of a publication.
  
 
  
@@ -44,7 +35,15 @@ ms.lasthandoff: 07/26/2017
  
 
  
-В этом примере присваивает первая статья в активной публикации объектную переменную.
+The  **Stories** collection contains one **Story** object for each unlinked text frame, each chain of linked text frames, and each table in a publication. Text in WordArt frames, OLE objects, and pictures are not included in the **Stories** collection.
+ 
+
+ 
+
+ 
+
+ 
+This example assigns the first story in the active publication to an object variable.
  
 
  
@@ -58,21 +57,21 @@ stFirst = Application.ActiveDocument.Stories(1)
 ```
 
 
-## <a name="methods"></a>Методы
+## Methods
 
 
 
 |**Name**|
 |:-----|
-|[Элемент](stories-item-method-publisher.md)|
+|[Item](stories-item-method-publisher.md)|
 
-## <a name="properties"></a>Properties
+## Properties
 
 
 
 |**Name**|
 |:-----|
-|[Приложения](stories-application-property-publisher.md)|
+|[Application](stories-application-property-publisher.md)|
 |[Count](stories-count-property-publisher.md)|
-|[Родительский раздел](stories-parent-property-publisher.md)|
+|[Parent](stories-parent-property-publisher.md)|
 

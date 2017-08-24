@@ -1,39 +1,38 @@
 ---
-title: "Метод Document.Save (издатель)"
+title: Document.Save Method (Publisher)
 keywords: vbapb10.chm196695
-f1_keywords: vbapb10.chm196695
+f1_keywords:
+- vbapb10.chm196695
 ms.prod: publisher
-api_name: Publisher.Document.Save
+api_name:
+- Publisher.Document.Save
 ms.assetid: 89eae461-d1c2-b3ca-58b7-9528df8801d8
 ms.date: 06/08/2017
-ms.openlocfilehash: 69527684f9a46999d027a4d492920279774c2989
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="documentsave-method-publisher"></a>Метод Document.Save (издатель)
-
-Сохранение указанной публикации.
 
 
-## <a name="syntax"></a>Синтаксис
+# Document.Save Method (Publisher)
 
- _выражение_. **Сохранение**
-
- переменная _expression_A, представляющий объект **Document** .
+Saves the specified publication.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-При публикации ранее не была сохранена, вызвав метод **Save** эквивалентен вызову метода **[SaveAs](document-saveas-method-publisher.md)** в аргументе **_FileName_** , значение свойства **[Name](application-name-property-publisher.md)** публикации. Если ранее сохранить публикацию метод **Save** сохраняет текущую версию публикации в формате, в котором было открыто и в расположение, к которому последнего сохранения.
+ _expression_. **Save**
 
-При вызове метода **Save** всегда выполняется сохранение на переднем плане независимо от того, включен ли фоновое сохранение.
+ _expression_A variable that represents a  **Document** object.
 
 
-## <a name="example"></a>Пример
+## Remarks
 
-В этом примере сохраняет active публикации, если он был изменен с момента последнего сохранения.
+If the publication has not been previously saved, calling the  **Save** method is equivalent to calling the **[SaveAs](document-saveas-method-publisher.md)** method with the **_FileName_** argument set to the value of the publication's **[Name](application-name-property-publisher.md)** property. If the publication has been previously saved, the **Save** method saves the current version of the publication in the format in which it was opened and in the location to which it was last saved.
+
+Calling the  **Save** method always performs saves in the foreground regardless of whether background saves are enabled.
+
+
+## Example
+
+This example saves the active publication if it has changed since it was last saved.
 
 
 ```vb

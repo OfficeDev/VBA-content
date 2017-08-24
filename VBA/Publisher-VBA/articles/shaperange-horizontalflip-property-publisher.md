@@ -1,44 +1,43 @@
 ---
-title: "Свойство ShapeRange.HorizontalFlip (издатель)"
+title: ShapeRange.HorizontalFlip Property (Publisher)
 keywords: vbapb10.chm2293824
-f1_keywords: vbapb10.chm2293824
+f1_keywords:
+- vbapb10.chm2293824
 ms.prod: publisher
-api_name: Publisher.ShapeRange.HorizontalFlip
+api_name:
+- Publisher.ShapeRange.HorizontalFlip
 ms.assetid: c0dd2f4a-0baf-3720-113a-b929193f2b1d
 ms.date: 06/08/2017
-ms.openlocfilehash: 48745b9759c9759f5948b6b93abeb116415a41c5
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="shaperangehorizontalflip-property-publisher"></a>Свойство ShapeRange.HorizontalFlip (издатель)
-
-Указывает, является ли указанный фигуры отразилось относительно его горизонтальной оси. Только для чтения.
 
 
-## <a name="syntax"></a>Синтаксис
+# ShapeRange.HorizontalFlip Property (Publisher)
 
- _выражение_. **HorizontalFlip**
-
- переменная _expression_A, представляющий объект **ShapeRange** .
+Indicates whether the specified shape has been flipped around its horizontal axis. Read-only.
 
 
-## <a name="remarks"></a>Заметки
+## Syntax
 
-Значение свойства **HorizontalFlip** может иметь одно из **MsoTriState** константы объявляются в библиотеке типов Microsoft Office и показаны в следующей таблице.
+ _expression_. **HorizontalFlip**
+
+ _expression_A variable that represents a  **ShapeRange** object.
+
+
+## Remarks
+
+The  **HorizontalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
-|**Константы**|**Описание**|
+|**Constant**|**Description**|
 |:-----|:-----|
-| **msoFalse**|Фигура не отразилось относительно его горизонтальной оси.|
-| **msoTriStateMixed**|Указывает сочетание **msoTrue** и **msoFalse** для диапазона указанной фигуры.|
-| **msoTrue**|Фигура отразилось относительно его горизонтальной оси.|
+| **msoFalse**|The shape has not been flipped around its horizontal axis.|
+| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTrue**|The shape has been flipped around its horizontal axis.|
 
-## <a name="example"></a>Пример
+## Example
 
-В этом примере восстанавливает исходное состояние каждой фигуры на активной публикации, если его отразилось по горизонтали или по вертикали.
+This example restores each shape on the active publication to its original state if it has been flipped horizontally or vertically.
 
 
 ```vb

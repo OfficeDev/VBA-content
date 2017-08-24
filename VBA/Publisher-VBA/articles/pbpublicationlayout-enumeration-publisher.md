@@ -1,26 +1,24 @@
 ---
-title: "Перечисление PbPublicationLayout (издатель)"
+title: PbPublicationLayout Enumeration (Publisher)
 keywords: vbapb10.chm65617
-f1_keywords: vbapb10.chm65617
+f1_keywords:
+- vbapb10.chm65617
 ms.prod: publisher
 ms.assetid: 8f43c884-d4cb-b2e2-ec24-804281d99107
 ms.date: 06/08/2017
-ms.openlocfilehash: f6b74513c698f3d8559af22eb19c8b722bb7140d
-ms.sourcegitcommit: 1102fd44df64f18dc0561d0b3a7103ca81e74318
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2017
 ---
-# <a name="pbpublicationlayout-enumeration-publisher"></a>Перечисление PbPublicationLayout (издатель)
-
-Представляет тип макета для указанной публикации.
 
 
-## <a name="members"></a>Элементы
+# PbPublicationLayout Enumeration (Publisher)
+
+Represents the layout type of the specified publication.
+
+
+## Members
 
 
 
-|**Имя**|**Значение**|**Описание**|
+|**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 ||||
 | **pbLayout4x6BaePan**| **10**||
