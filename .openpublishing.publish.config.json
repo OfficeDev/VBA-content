@@ -9,6 +9,7 @@
       "build_output_subfolder": "vba",
       "locale": "en-us",
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -26,7 +27,7 @@
   "branches_to_filter": [
     ""
   ],
-  "git_repository_url_open_to_public_contributors": "https://github.com/OfficeDev/VBA-content", 
+  "git_repository_url_open_to_public_contributors": "https://github.com/OfficeDev/VBA-content",
   "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
   "dependent_repositories": [],
