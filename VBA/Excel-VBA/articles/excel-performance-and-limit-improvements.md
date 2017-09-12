@@ -16,7 +16,7 @@
 
 [Additional Resources](#office2007excelperf_AdditionalResources)
 
-**Provided by:** ![MVP Contributor](/images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](excel-improving-calcuation-performance.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](excel-improving-calcuation-performance.md#xlAboutAuthor)
 
 ## Excel 2010 Performance Improvements
 <a name="xl2010PerfImp"> </a>

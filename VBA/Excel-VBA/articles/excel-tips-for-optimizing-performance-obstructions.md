@@ -33,7 +33,7 @@
 
 [Additional Resources](#xlAdditionalRes)
 
-**Provided by:** ![MVP Contributor](/images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlAboutAuthor)
 
 ## References and Links
 <a name="xlRefsandLinks"> </a>

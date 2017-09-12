@@ -27,7 +27,7 @@
 
 [Additional Resources](#office2007excelperf_AdditionalResources)
 
-**Provided by:** ![MVP Contributor](/images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](5850692f-8a8c-43e8-944b-1a1b1e3056fe.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](5850692f-8a8c-43e8-944b-1a1b1e3056fe.md#xlAboutAuthor)
 
 ## Overview
 <a name="Office2007excelPerf_Overview"> </a>
