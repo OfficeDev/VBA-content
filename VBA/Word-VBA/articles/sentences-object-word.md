@@ -34,18 +34,13 @@ End With
 
 The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
-The  **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first paragraph in the active document.
+The  **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first sentence in the active document.
 
 
 
 
 ```
-With ActiveDocument 
- MsgBox .Sentences.Count &amp; " sentences" 
- .Paragraphs(1).Range.InsertParagraphAfter 
- .Paragraphs(2).Range.InsertBefore "The house is blue." 
- MsgBox .Sentences.Count &amp; " sentences" 
-End With
+ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 ```
 
 
