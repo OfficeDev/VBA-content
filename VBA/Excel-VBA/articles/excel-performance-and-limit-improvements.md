@@ -132,7 +132,7 @@ In addition, because 64-bit Excel enables larger data sets, both 32-bit and 64-b
   
     
     
-For more information about the "Big Grid," see  [The "Big Grid" and Increased Limits in Excel 2007](28d47a27-06c3-4ac0-ae9b-18de73624669.md#Office2007excelPerf_BigGridIncreasedLimitsExcel). For more information about the 64-bit version of Office 2010, see  [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx).
+For more information about the "Big Grid," see  [The "Big Grid" and Increased Limits in Excel 2007](#Office2007excelPerf_BigGridIncreasedLimitsExcel). For more information about the 64-bit version of Office 2010, see  [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx).
   
     
     
@@ -161,7 +161,7 @@ Excel 2010 introduces significant improvements in the performance of graphics in
 ### Calculation Improvements
 <a name="Shapes"> </a>
 
-Starting in Excel 2007, multithreaded calculation improved calculation performance. For more information, see  [Multithreaded Calculation](28d47a27-06c3-4ac0-ae9b-18de73624669.md#MultithreadedCalculation). Starting in Excel 2010, additional performance improvements were made to further increase calculation speed. Excel 2010 can call user-defined functions asynchronously. Calling functions asynchronously improves performance by allowing several calculations to run at the same time. When you run user-defined functions on a compute cluster, calling functions asynchronously enables several computers to be used to complete the calculations. For more information about asynchronous user-defined functions, see  [Asynchronous User-Defined Functions](http://msdn.microsoft.com/library/142eb27e-fb6f-4da3-bfb7-a88115bbb5d5%28Office.14%29.aspx).
+Starting in Excel 2007, multithreaded calculation improved calculation performance. For more information, see  [Multithreaded Calculation](#MultithreadedCalculation). Starting in Excel 2010, additional performance improvements were made to further increase calculation speed. Excel 2010 can call user-defined functions asynchronously. Calling functions asynchronously improves performance by allowing several calculations to run at the same time. When you run user-defined functions on a compute cluster, calling functions asynchronously enables several computers to be used to complete the calculations. For more information about asynchronous user-defined functions, see  [Asynchronous User-Defined Functions](http://msdn.microsoft.com/library/142eb27e-fb6f-4da3-bfb7-a88115bbb5d5%28Office.14%29.aspx).
   
     
     

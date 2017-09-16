@@ -33,7 +33,7 @@
 
 [Additional Resources](#xlAdditionalRes)
 
-**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ [About the Author](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ [About the Author](#xlAboutAuthor)
 
 ## References and Links
 <a name="xlRefsandLinks"> </a>
@@ -261,7 +261,7 @@ HLOOKUP(lookup value, table array, row index num, range-lookup)
 - **Range-lookup=FALSE** requests an exact match and assumes the data is not sorted.
     
   
-Avoid performing lookups on unsorted data where possible because it is slow. If your data is sorted, but you want an exact match, see  [Sorted Data with Missing Values](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlSortedDataMissingValues).
+Avoid performing lookups on unsorted data where possible because it is slow. If your data is sorted, but you want an exact match, see  [Sorted Data with Missing Values](#xlSortedDataMissingValues).
   
     
     
@@ -1094,7 +1094,7 @@ The following is a list of additional performance optimizations you can use in y
 - Declare variables with explicit types to avoid the overhead of determining the data type, possibly multiple times in a loop, during code execution.
     
   
-- For simple functions that you use frequently in your code, implement the functions yourself in VBA instead of using the **WorksheetFunction** object. For more information, see [Faster VBA User-Defined Functions](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlVBAUDF).
+- For simple functions that you use frequently in your code, implement the functions yourself in VBA instead of using the **WorksheetFunction** object. For more information, see [Faster VBA User-Defined Functions](#xlVBAUDF).
     
   
 - Use the **Range.SpecialCells** method to scope down the number of cells with which your code interacts.
@@ -1186,7 +1186,7 @@ A workbook that has its structure protected with a password (on the **Tools** me
 
 #### Used Range Problems
 
-Oversized used ranges can cause slow opening and increased file size, especially if they are caused by hidden rows or columns that have non-standard height or width. For more information about used range problems, see  [Minimizing the Used Range](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlMinUsedRange).
+Oversized used ranges can cause slow opening and increased file size, especially if they are caused by hidden rows or columns that have non-standard height or width. For more information about used range problems, see  [Minimizing the Used Range](#xlMinUsedRange).
   
     
     

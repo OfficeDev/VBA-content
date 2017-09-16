@@ -28,7 +28,7 @@
 [Additional Resources](#Excelperf_AdditionalResources)
 
 **Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) 
- [About the Author](5850692f-8a8c-43e8-944b-1a1b1e3056fe.md#xlAboutAuthor)
+ [About the Author](#xlAboutAuthor)
 
 ## Overview
 <a name="ExcelPerf_Overview"> </a>
