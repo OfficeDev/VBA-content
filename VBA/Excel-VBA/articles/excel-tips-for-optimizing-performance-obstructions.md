@@ -3,7 +3,7 @@
 
  **Summary:** This article discusses tips for optimizing many frequently occurring performance obstructions in Microsoft Excel. This article is one of three companion articles about techniques that you can use to improve performance in Excel as you design and create worksheets.For more information about how to improve performance in Excel, see  [Excel Performance: Improving Calculation Performance](excel-improving-calcuation-performance.md) and [Excel Performance: Performance and Limit Improvements](excel-performance-and-limit-improvements.md).
 
-**Applies to:** Excel | Excel 2010 | Office 2010 | SharePoint Server 2010 | VBA
+**Applies to:** Excel | Excel 2013 | Office 2016 | VBA
 
 **In this article**
 
@@ -33,7 +33,7 @@
 
 [Additional Resources](#xlAdditionalRes)
 
-**Provided by:** ![MVP Contributor](images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ [About the Author](4fa7b661-b205-4df1-bd6e-a7c9f26c4fd1.md#xlAboutAuthor)
 
 ## References and Links
 <a name="xlRefsandLinks"> </a>
@@ -52,7 +52,7 @@ To increase clarity and avoid errors, design your formulas so that they do not r
 
 ### Circular References with Iteration
 
-Calculating circular references with iterations is slow because multiple calculations are needed. Frequently you can "unroll" the circular references so that iterative calculation is no longer needed. For example, in cash flow and interest calculations, try to calculate the cash flow before interest, then calculate the interest, and then calculate the cash flow including the interest.
+Calculating circular references with iterations is slow because multiple calculations are needed and these calculations are single-threaded. Frequently you can "unroll" the circular references using algebra so that iterative calculation is no longer needed. For example, in cash flow and interest calculations, try to calculate the cash flow before interest, then calculate the interest, and then calculate the cash flow including the interest.
   
     
     
@@ -96,17 +96,12 @@ If you cannot avoid using linked workbooks, try to have them all open instead of
 
 Using many worksheets can make your workbook easier to use, but generally it is slower to calculate references to other worksheets than references within worksheets.
   
-    
-    
-In Excel 97 and Excel 2000, worksheets and workbooks are calculated in alphabetical name sequence with individual calculation chains. With these versions, it is important to name the worksheets in a sequence that matches the flow of calculations between worksheets.
-  
-    
-    
+       
 
 ## Minimizing the Used Range
 <a name="xlMinUsedRange"> </a>
 
-To save memory and reduce file size, Excel tries to store information about the area only on a worksheet that was used. This is called the used range. Sometimes various editing and formatting operations extend the used range significantly beyond the range that you would currently consider used. This can cause performance obstructions and file-size obstructions.
+To save memory and reduce file size, Excel tries to store information only about the area on a worksheet that was used. This is called the used range. Sometimes various editing and formatting operations extend the used range significantly beyond the range that you would currently consider used. This can cause performance obstructions and file-size obstructions.
   
     
     
@@ -164,39 +159,36 @@ This solution has both advantages and disadvantages:
 - It is difficult to use whole column references when you have multiple tables of data on a single worksheet.
     
   
-- Array formulas in versions before Excel 2007 cannot handle whole-column references. In Excel 2007, array formulas can handle whole-column references, but this forces calculation for all the cells in the column, including empty cells. This can be slow to calculate, especially for 1 million rows.
+- In Excel 2007 and later versions, array formulas can handle whole-column references, but this forces calculation for all the cells in the column, including empty cells. This can be slow to calculate, especially for 1 million rows.
     
   
 
 ### Dynamic Ranges
 
-By using the **OFFSET** and **COUNTA** functions in the definition of a named range, you can make the area that the named range refers to dynamically expand and contract. For example, create a defined name as follows:
+By using the **OFFSET** or **INDEX** and **COUNTA** functions in the definition of a named range, you can make the area that the named range refers to dynamically expand and contract. For example, create a defined name using one of the following formulas:
   
-    
-    
 
 ```
-
 =OFFSET(Sheet1!$A$1,0,0,COUNTA(Sheet1!$A:$A),1)
+=Sheet1!$A$1:INDEX(Sheet1!$A:$A,COUNTA(Sheet1!$A:$A)+ROW(Sheet1!$A$1) - 1,1)
 ```
 
 When you use the dynamic range name in a formula, it automatically expands to include new entries.
   
     
-    
-There is a performance decrease because **OFFSET** is a volatile function and, therefore, is always recalculated, and because the **COUNTA** function inside the **OFFSET** must examine many rows. You can minimize this performance decrease by storing the **COUNTA** part of the formula in a separate cell, and then referring to the cell in the dynamic range:
+Using the **INDEX** formula for a dynamic range is generally preferable to the **OFFSET** formula because **OFFSET** has the disadvantage of being a volatile function which will be calculated at every recalculation.
+There is a performance decrease because the **COUNTA** function inside the dynamic range formula must examine many rows. You can minimize this performance decrease by storing the **COUNTA** part of the formula in a separate cell or defined name, and then referring to the cell or name in the dynamic range:
   
     
-    
-
-
 
 ```
 Counts!z1=COUNTA(Sheet1!$A:$A)
-DynamicRange=OFFSET(Sheet1!$A$1,0,0,Counts!$Z$1,1)
+OffsetDynamicRange=OFFSET(Sheet1!$A$1,0,0,Counts!$Z$1,1)
+IndexDynamicRange=Sheet1!$A$1:INDEX(Sheet1!$A:$A,Counts!$Z$1+ROW(Sheet1!$A$1) - 1,1)
 ```
 
-You can also use functions such as **INDIRECT** to construct dynamic ranges. Dynamic ranges have the following advantages and disadvantages:
+You can also use functions such as **INDIRECT** to construct dynamic ranges, but **INDIRECT** is volatile and always calculates single-threaded. 
+Dynamic ranges have the following advantages and disadvantages:
   
     
     
@@ -204,7 +196,7 @@ You can also use functions such as **INDIRECT** to construct dynamic ranges. Dyn
 - Dynamic ranges work well to limit the number of calculations performed by array formulas.
     
   
-- Using multiple dynamic ranges with a single column requires special-purpose counting functions.
+- Using multiple dynamic ranges within a single column requires special-purpose counting functions.
     
   
 - Using many dynamic ranges can decrease performance.
@@ -225,7 +217,7 @@ Lookup time using the approximate match options of **VLOOKUP**, **HLOOKUP**, and
 
 ### Lookup Options
 
-Ensure that you understand the matchtype and range-lookup options in **MATCH**, **VLOOKUP**, and **HLOOKUP**.
+Ensure that you understand the match-type and range-lookup options in **MATCH**, **VLOOKUP**, and **HLOOKUP**.
   
     
     
@@ -237,12 +229,11 @@ The following code example shows the syntax for the **MATCH** function. For more
 
 
 ```
-
 MATCH(lookup value, lookup array, matchtype)
 ```
 
 
-- **Matchtype=1** returns the largest match less than or equal to the lookup value if the lookup array is sorted ascending (approximate match). This is the default option.
+- **Matchtype=1** returns the largest match less than or equal to the lookup value when the lookup array is sorted ascending (approximate match). If the lookup array is not sorted ascending MATCH will return an incorrect answer. Approximate match sorted ascending is the default option.
     
   
 - **Matchtype=0** requests an exact match and assumes that the data is not sorted.
@@ -293,7 +284,6 @@ It is easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two 
 
 
 ```
-
 VLOOKUP(A1, Data!$A$2:$F$1000,3,False)
 
 INDEX(Data!$A$2:$F$1000,MATCH(A1,$A$1:$A$1000,0),3)
@@ -313,65 +303,46 @@ Because exact match lookups can be slow, consider the following options for impr
 - When you can, **SORT** the data first ( **SORT** is fast), and use approximate match.
     
   
-- When you must use an exact match lookup, restrict the range of cells to be scanned to a minimum. Use dynamic range names rather than referring to a large number of rows or columns. Sometimes you can pre-calculate a lower-range limit and upper-range limit for the lookup.
+- When you must use an exact match lookup, restrict the range of cells to be scanned to a minimum. Use tables and structured references or dynamic range names rather than referring to a large number of rows or columns. Sometimes you can pre-calculate a lower-range limit and upper-range limit for the lookup.
     
   
 
-### Sorted Data with Missing Values
+### Sorted Data with Missing Values - two lookups are faster than one!
 <a name="xlSortedDataMissingValues"> </a>
 
-Two approximate matches are significantly faster than one exact match for a lookup over more than a few rows. (The breakeven point is about 10-20 rows.)
+*Two approximate matches are significantly faster than one exact match for a lookup over more than a few rows.* (The breakeven point is about 10-20 rows.)
   
     
     
 If you can sort your data but still cannot use approximate match because you cannot be sure that the value you are looking up exists in the lookup range, you can use this formula.
-  
-    
-    
-
-
 
 ```
-
 IF(VLOOKUP(lookup_val ,lookup_array,1,True)=lookup_val, _
     VLOOKUP(lookup_val, lookup_array, column, True), "notexist")
 ```
 
 The first part of the formula works by doing an approximate lookup on the lookup column itself.
   
-    
-    
-
-
 
 ```
-
 VLOOKUP(lookup_val ,lookup_array,1,True)
 ```
 
-If the answer from the lookup column is the same as the lookup value, use the following formula.
-  
-    
-    
-
+You can check if the answer from the lookup column is the same as the lookup value (in which case you have an exact match) using the following formula.
 
 
 ```
 IF(VLOOKUP(lookup_val ,lookup_array,1,True)=lookup_val,
 ```
 
-You have found an exact match, so you can do the approximate lookup again, but this time, return the answer from the column you want.
+If this formula returns True you have found an exact match, so you can do the approximate lookup again, but this time, return the answer from the column you want.
   
-    
-    
-
-
 
 ```
 VLOOKUP(lookup_val, lookup_array, column, True)
 ```
 
-If the answer from the lookup column did not match the lookup value, it is a missing value, and it returns "notexist".
+If the answer from the lookup column did not match the lookup value, you have a missing value, and the formula returns "notexist".
   
     
     
@@ -383,7 +354,7 @@ Be aware that if you look up a value smaller than the smallest value in the list
 ### Unsorted Data with Missing Values
 <a name="xlSortedDataMissingValues"> </a>
 
-If you have to use exact match lookup on unsorted data, and you cannot be sure whether the lookup value exists, you often have to handle the #N/A that is returned if no match is found. In Excel 2007, you can use the **IFERROR** function, which is both simple and fast.
+If you have to use exact match lookup on unsorted data, and you cannot be sure whether the lookup value exists, you often have to handle the #N/A that is returned if no match is found. Beginning with Excel 2007, you can use the **IFERROR** function, which is both simple and fast.
   
     
     
@@ -394,10 +365,6 @@ IF IFERROR(VLOOKUP(lookupval, table, 2 FALSE),0)
 
 In earlier versions, a simple but slow way is to use an **IF** function that contains two lookups.
   
-    
-    
-
-
 
 ```
 IF(ISNA(VLOOKUP(lookupval,table,2,FALSE)),0,_
@@ -406,26 +373,16 @@ IF(ISNA(VLOOKUP(lookupval,table,2,FALSE)),0,_
 
 You can avoid the double exact lookup if you use exact **MATCH** once, store the result in a cell, and then test the result before doing an **INDEX**.
   
-    
-    
-
-
 
 ```
-
 In A1 =MATCH(lookupvalue,lookuparray,0)
 In B1 =IF(ISNA(A1),0,INDEX(tablearray,A1,column))
 ```
 
 If you cannot use two cells, use **COUNTIF**. It is generally faster than an exact match lookup.
   
-    
-    
-
-
 
 ```
-
 IF (COUNTIF(lookuparray,lookupvalue)=0, 0, _
     VLOOKUP(lookupval, table, 2 FALSE))
 ```
@@ -440,21 +397,14 @@ You can often reuse a stored exact **MATCH** many times. For example, if you are
     
 Add an extra column for the **MATCH** to store the result (stored_row), and for each result column use the following.
   
-    
-    
-
-
 
 ```
-
 INDEX(Lookup_Range,stored_row,column_number)
 ```
 
 Alternatively, you can use **VLOOKUP** in an array formula.
+(Array formulas must be entered using **Control-Shift-Enter**. Excel will add the { and } to show you that this is an array formula).
   
-    
-    
-
 
 
 ```
@@ -509,7 +459,7 @@ In large worksheets, you may frequently need to look up using multiple indexes, 
 - The lookup will cover a large range.
     
   
-It is often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that range).
+It is often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that subset range).
   
     
     
@@ -527,10 +477,6 @@ If each table you want to look up (the third dimension) is stored as a set of na
     
 Using **CHOOSE** and range names can be an efficient method. **CHOOSE** is not volatile, but it is best-suited to a relatively small number of tables.
   
-    
-    
-
-
 
 ```
 INDEX(CHOOSE(TableLookup_Value,TableName1,TableName2,TableName3), _
@@ -540,16 +486,12 @@ MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
 The previous example dynamically uses **TableLookup_Value** to choose which range name (TableName1, TableName2, ...) to use for the lookup table.
   
     
-    
-
-
 
 ```
-
 INDEX(INDIRECT("Sheet" &amp; TableLookup_Value &amp; "!$B$2:$Z$1000"), _ MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
 ```
 
-This example uses the **INDIRECT** function and **TableLookup_Value** to dynamically create the sheet name to use for the lookup table. This method has the advantage of being simple and able to handle a large number of tables. Because **INDIRECT** is a volatile function, the lookup is calculated at every calculation even if no data has changed.
+This example uses the **INDIRECT** function and **TableLookup_Value** to dynamically create the sheet name to use for the lookup table. This method has the advantage of being simple and able to handle a large number of tables. Because **INDIRECT** is a volatile single-threaded function, the lookup is single-thread calculated at every calculation even if no data has changed. Using this method is slow.
   
     
     
@@ -572,7 +514,7 @@ Another technique is to aggregate all your tables into one giant table that has 
 ### Wildcard Lookup
 <a name="xlSortedDataMissingValues"> </a>
 
-The **MATCH**, **VLOOKUP**, and **HLOOKUP** functions allow you to use the wildcard characters **?** (any single character) and ***** (no character or any number of characters) on alphabetical exact matches. Sometimes you can use this method to avoid multiple matches.
+The **MATCH**, **VLOOKUP**, and **HLOOKUP** functions allow you to use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) on alphabetical exact matches. Sometimes you can use this method to avoid multiple matches.
   
     
     
@@ -614,8 +556,9 @@ To optimize the calculation speed of array formulas:
 
 ### Array Formulas SUM with Multiple Conditions
 
-Starting in Excel 2007, you should always use the **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions instead of array formulas where you can because they are much faster to calculate.
-  
+You should always use the **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions instead of array formulas where you can because they are much faster to calculate.
+
+Excel 2016 also introduced new fast **MAXIFS** and **MINIFS** functions.  
     
     
 In versions before Excel 2007, array formulas are often used to calculate a sum with multiple conditions. This is relatively easy to do, especially if you use the **Conditional Sum Wizard** in Excel, but it is often slow. Usually there are much faster ways of getting the same result. If you have only a few multiple-condition SUMs, you may be able to use the **DSUM** function, which is much faster than the equivalent array formula.
@@ -638,11 +581,13 @@ If you must use array formulas, some good methods of speeding them up are as fol
   
 - If the data can be sorted, a good technique is to count groups of rows and limit the array formulas to looking at the subset groups.
     
+### Faster multiple condition SUMIFS, COUNTIFS and other IFS family functions
   
+All of these functions evaluate each of the conditions from left to right in turn. So it is more efficient to put the most restrictive condition first, so that subsequent conditions only need to look at the smallest number of rows.
 
 ### Using SUMPRODUCT for Multiple-Condition Array Formulas
 
-Starting in Excel 2007, you should always use the **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions instead of **SUMPRODUCT** formulas where possible.
+Starting in Excel 2007, you should always use the **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions, and in Excel 2016 **MAXIFS** and **MINIFS**, instead of **SUMPRODUCT** formulas where possible.
   
     
     
@@ -660,10 +605,7 @@ In earlier versions, there are a few advantages to using **SUMPRODUCT** instead 
 You can use **SUMPRODUCT** for multiple-condition array formulas as follows.
   
     
-    
-
-
-
+  
 ```
 SUMPRODUCT(--(Condition1),--(Condition2),RangetoSum)
 ```
@@ -740,7 +682,26 @@ If you find a calculation obstruction that involves array formulas and range fun
 Functions significantly extend the power of Excel, but the manner in which you use them can often affect calculation time.
   
     
-    
+### Avoid Single-Threaded functions
+Most native Excel functions work well with multi-threaded calculation. But where possible avoid using these single-threaded functions:
+
+- VBA and Automation user-defined functions (UDFs) (but XLL based UDFs can be multi-threaded)
+- PHONETIC
+- CELL when either the "format" or "address" argument is used
+- INDIRECT
+- GETPIVOTDATA
+- CUBEMEMBER
+- CUBEVALUE
+- CUBEMEMBERPROPERTY
+- CUBESET
+- CUBERANKEDMEMBER
+- CUBEKPIMEMBER
+- CUBESETCOUNT
+- ADDRESS where the fifth parameter (the sheet_name) is given
+- Any database function (DSUM, DAVERAGE, and so on) that refers to a pivot table
+- ERROR.TYPE
+- HYPERLINK
+
 
 ### Functions That Handle Ranges
 
@@ -765,8 +726,7 @@ You can often reduce the number of volatile functions by using **INDEX** instead
 User-defined functions that are programmed in C or C++ and that use the C API (XLL add-in functions) generally perform faster than user-defined functions that are developed using VBA or Automation (XLA or Automation add-ins). For more information, see  [Developing Excel 2010 XLLs](http://msdn.microsoft.com/library/dd27ae4d-ef97-47db-885c-ddd955816900%28Office.14%29.aspx).
   
     
-    
-XLM functions can also be fast, because they use the same tightly coupled API as C XLL add-in functions. The performance of VBA user-defined functions is sensitive to how you program and call them.
+The performance of VBA user-defined functions is sensitive to how you program and call them.
   
     
     
@@ -789,9 +749,6 @@ If you must have a large number of formulas that use user-defined functions, ens
 You can trap F9 and redirect it to a VBA calculation subroutine as follows. Add this subroutine to the Thisworkbook module.
   
     
-    
-
-
 
 ```
 
@@ -802,11 +759,7 @@ End Sub
 
 Add this subroutine to a standard module.
   
-    
-    
-
-
-
+   
 ```
 
 Sub Recalc()
@@ -890,10 +843,10 @@ The Excel **SUM** and **SUMIF** functions are frequently used over a large numbe
     
     
 
-### Wildcard SUMIF and COUNTIF
+### Wildcard SUMIF, COUNTIF, SUMIFS, COUNTIFS, and other IFS functions
 <a name="xlVBAUDF"> </a>
 
-You can use the wildcard characters **?** (any single character) and ***** (no character or any number of characters) as part of the **SUMIF** and **COUNTIF** criteria on alphabetical ranges.
+You can use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) in the criteria for alphabetical ranges as part of the **SUMIF**, **COUNTIF**, **SUMIFS**, **COUNTIFS** and other **IFS** functions.
   
     
     
@@ -939,7 +892,6 @@ When you have multiple sorted indexes to a table (for example, Site within Area)
   
 
 ### Subtotals
-<a name="xlVBAUDF"> </a>
 
 Use the **SUBTOTAL** function to **SUM** filtered lists. The **SUBTOTAL** function is useful because, unlike **SUM**, it ignores the following:
   
@@ -951,10 +903,11 @@ Use the **SUBTOTAL** function to **SUM** filtered lists. The **SUBTOTAL** functi
   
 - Other **SUBTOTAL** functions.
     
-  
+### AGGREGATE Function
+
+The AGGREGATE function is a powerful and efficient way of calculating 19 different methods of aggregating data (such as **SUM**, **MEDIAN**, **PERCENTILE** and **LARGE**). **AGGREGATE** has options for ignoring hidden or filtered rows, error values,  nested **SUBTOTAL** and **AGGREGATE** functions.
 
 ### DFunctions
-<a name="xlVBAUDF"> </a>
 
 The DFunctions **DSUM**, **DCOUNT**, **DAVERAGE**, and so on are significantly faster than equivalent array formulas. The disadvantage of the DFunctions is that the criteria must be in a separate range, which makes them impractical to use and maintain in many circumstances. Starting in Excel 2007, you should use **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions instead of the DFunctions.
   
@@ -1005,10 +958,7 @@ The following functionality can usually be turned off while your VBA macro execu
 The following example shows the functionality that you can turn off while your VBA macro executes.
   
     
-    
-
-
-
+ 
 ```
 ' Save the current state of Excel settings.
 screenUpdateState = Application.ScreenUpdating
@@ -1047,9 +997,6 @@ Optimize your code by explicitly reducing the number of times data is transferre
     
 The following code example shows non-optimized code that loops through cells one at a time to get and set the values of cells A1:C10000. These cells do not contain formulas.
   
-    
-    
-
 
 
 ```
@@ -1076,10 +1023,6 @@ Next Irow
 
 The following code example shows optimized code that uses an array to get and set the values of cells A1:C10000 all at the same time. These cells do not contain formulas.
   
-    
-    
-
-
 
 ```
 
@@ -1088,7 +1031,7 @@ Dim Irow As Long
 Dim Icol As Integer 
 Dim MyVar As Double 
 ' Read all the values at once from the Excel grid and put them into an array.
-DataRange = Range("A1:C10000").Value 
+DataRange = Range("A1:C10000").Value2 
 
 For Irow = 1 To 10000 
     For Icol = 1 To 3 
@@ -1101,9 +1044,13 @@ For Irow = 1 To 10000
     Next Icol 
 Next Irow 
 ' Write all the values back into the range at once.
-Range("A1:C10000").Value = DataRange 
+Range("A1:C10000").Value2 = DataRange 
 ```
+### Use .Value2 rather than .Value or .Text when reading data from an Excel Range
 
+- **.Text** returns the formatted value of a cell. This is slow, can return ### if the user zooms and can lose precision.
+- **.Value** returns a VBA Currency or VBA Date variable if the ranges was formatted as Date or Currency. This is slow, can lose precision and cause errors when calling worksheet functions.
+- **.Value2** is fast and does not alter the data being retrieved from Excel.
 
 ### Avoid Selecting and Activating Objects
 
@@ -1114,12 +1061,7 @@ Selecting and activating objects is more processing intensive than referencing o
 The following code example shows non-optimized code that selects each Shape on the active sheet and changes the text to "Hello".
   
     
-    
-
-
-
 ```
-
 For i = 0 To ActiveSheet.Shapes.Count
     ActiveSheet.Shapes(i).Select
     Selection.Text = "Hello"
@@ -1130,12 +1072,8 @@ Next i
 The following code example shows optimized code that references each shape directly and changes the text to "Hello".
   
     
-    
-
-
 
 ```
-
 For i = 0 To ActiveSheet.Shapes.Count
     ActiveSheet.Shapes(i).TextEffect.Text = "Hello"
 Next i
@@ -1372,30 +1310,22 @@ This article covered ways to optimize Excel functionality such as Links, Lookups
     
     
 
-## About the Authors
+## About the Author
 <a name="xlAboutAuthor"> </a>
 
-Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. Charles is the author of FastExcel, the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models Web site](http://www.decisionmodels.com/). 
+Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. 
+Charles is the author of [FastExcel](http://www.decisionmodels.com/fastexcel.htm "FastExcel"), the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. 
+For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models](http://www.decisionmodels.com/) website and the [FastExcel Blog](https://fastexcel.wordpress.com/ "FastExcel Blog").
   
     
-    
-This technical article was produced in partnership with  [A23 Consulting](http://www.a23consulting.com/).
-  
-    
-    
-Allison Bokone, Microsoft Corporation, is a programming writer in the Office team.
-  
-    
-    
-Chad Rothschiller, Microsoft Corporation, is a program manager in the Office team.
-  
+ 
     
     
 
 ## Additional Resources
 <a name="xlAdditionalRes"> </a>
 
-To learn more about Excel 2010, see the following resources:
+To learn more about Excel , see the following resources:
   
     
     
@@ -1409,6 +1339,5 @@ To learn more about Excel 2010, see the following resources:
 -  [Excel Developer Portal](http://msdn.microsoft.com/en-us/office/aa905411.aspx)
     
   
--  [Blog: Microsoft Excel 2010](http://blogs.msdn.com/excel/default.aspx)
     
   
