@@ -1,34 +1,111 @@
 
 # Excel Performance: Performance and Limit Improvements
- **Summary:** This article discusses performance improvements in Microsoft Excel 2010 and Microsoft Office Excel 2007. This article is one of three companion articles about techniques that you can use to improve performance in Excel as you design and create worksheets.For more information about how to improve performance in Excel, see  [Excel Performance: Improving Calculation Performance](excel-improving-calcuation-performance.md) and [Excel Performance: Tips for Optimizing Performance Obstructions](excel-tips-for-optimizing-performance-obstructions.md).
+ **Summary:** This article discusses performance improvements in Microsoft Excel 2016 and Microsoft Excel 2010. This article is one of three companion articles about techniques that you can use to improve performance in Excel as you design and create worksheets.For more information about how to improve performance in Excel, see  [Excel Performance: Improving Calculation Performance](excel-improving-calcuation-performance.md) and [Excel Performance: Tips for Optimizing Performance Obstructions](excel-tips-for-optimizing-performance-obstructions.md).
 
-**Applies to:** Excel | Excel 2010 | Office 2010 | SharePoint Server 2010 | VBA
+**Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
 **In this article**
 
-[Excel Performance Improvements](#xl2010PerfImp)
+[Excel 2016 Performance Improvements](#xl2016PerfImp)
 
-[Excel 2007 Performance Improvements](#office2007excelperf_ExcelPerformanceImprovements)
+[Excel 2010 Performance Improvements](#xl2010PerfImp)
 
-[Conclusion](#office2007excelperf_Conclusion)
+[Conclusion](#office2016excelperf_Conclusion)
 
-[About the Authors](#xlAboutAuthors)
+[About the Author](#xlAboutAuthors)
 
 [Additional Resources](#office2007excelperf_AdditionalResources)
 
-**Provided by:** ![MVP Contributor](images/mvp.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) │ Allison Bokone, Microsoft Corporation │ Chad Rothschiller, Microsoft Corporation │ [About the Authors](excel-improving-calcuation-performance.md#xlAboutAuthor)
+**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) | [About the Author](excel-improving-calcuation-performance.md#xlAboutAuthor)
+
+
+## Excel 2016 Performance Improvements
+<a name="xl2016PerfImp"> </a>
+Microsoft Office has fundamentally changed its development and release methodology with Office 16 and Office 365. Updates and new features are released on a regular cycle, so it becomes important to note the build number that improvements were released, and to check which build number you are using.The timescale that updates become available to you depends on which update option you are using:
+- Insider
+- Monthly Channel
+- Semi-annual Channel
+
+For more details on the Office 2016 release cadence names see [Slow - Fast Level Names](https://support.office.com/en-US/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52).
+
+The following sections discuss some of the features that have been introduced in Excel 2016 that you can use to improve performance with large or complex workbooks.
+
+### Large Address Aware (LAA) Memory improvement for 32-bit Excel
+Although 64-bit Excel has extremely large virtual memory limits, 32-bit Excel has been limited to 2 Gigabytes (GB). And many Excel customers have found it difficult to migrate to 64-bit Excel because they use third-party addins and controls that are not available in 64-bit versions.
+LAA has now been enabled for 32-bit versions of Excel 2013 and Excel 2016, and will minimize out of memory error messages.
+LAA doubles available virtual memory from 2GB to 4GB when using 64-bit Windows, and increases available virtual memory from 2GB to 3GB under 32-bit Windows.
+
+For more details see [LAA Capability Change for Excel](https://support.microsoft.com/en-ca/help/3160741/large-address-aware-capability-change-for-excel "LAA Capability Change for Excel") 
+To download a tool that shows how much virtual memory is available and how much is being used see [Excel Memory Checking Tool](https://fastexcel.wordpress.com/2016/11/27/excel-memory-checking-tool-using-laa-to-increase-useable-excel-memory/)
+
+### Full Column References
+Previously, workbooks using large numbers of full column references and multiple worksheets, for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`, might use large amounts of CPU and memory when opened, or rows were deleted. 
+An improvement in Excel 2016 build 16.0.8212.1000 substantially reduces the memory and CPU used in these circumstances.
+ 
+*My test on a workbook with 6 million formulas using full column references failed with an Out of Memory message at 4 GB of virtual memory with Excel 2013 LAA but only used 2 GB virtual memory with Excel 2016*.
+
+### Structured References
+In some circumstances editing Excel Tables where formulas in the workbook use Structured References to the Table could be slow with Excel 2013 and previous versions. This led to the perception that Tables should not be used with large numbers of rows.
+Excel 2016 has now fixed this problem. 
+
+*My test showed an editing operation that took 1.9 seconds in Excel 2013 took about 2 milliseconds in Excel 2016.*
+
+For more details see [Why Structured References are Slow in Excel 2013 but fast in Excel 2016](https://fastexcel.wordpress.com/2017/02/19/why-structured-references-are-slow-in-excel-2013-but-fast-in-excel-2016/).
+
+### Filtering, Sorting Copy/Pasting
+The Excel 2016 team studied a number of large workbooks that show slow response when using Filtering, Sorting and Copy/Pasting, and a number of improvements have been made:
+
+In Excel 2013 after Filtering or Sorting or Copy/Pasting many rows Excel could be slow responding or would hang. Performance was highly dependent on the count of all rows between the top visible row and the bottom visible row. An improvement made to the internal calculation of vertical user interface positions in build 16.0.8431.2058 has made these operations much faster. 
+
+Opening a workbook with many filtered or hidden rows, merged cells or outlines could cause high CPU load. 
+A fix in this area was introduced in build 16.0.8229.1000
+
+In the past you could see very slow response after pasting a copied column of cells from a Table with filtered rows where the filter resulted in a large number of separate blocks of rows. 
+This area has been substantially improved in build 16.0.8327.1000
+
+*My test on copy pasting 22000 rows filtered from 44000 rows showed a dramatic improvement:*
+- For a Table the time went from 39 seconds in Excel 2013 to 2 seconds in Excel 2016
+- For a Range the time went from 30 seconds in Excel 2013 to virtually instantaneous in Excel 2016
+
+### Copying Conditional Formats
+In Excel 2013 copy/pasting cells containing conditional formats could be slow.
+This has been significantly improved in Excel 2016 build 16.0.8229.0
+
+*My test on copying 44000 cells with a total of 386000 conditional format rules showed a substantial improvement:*
+- Excel 2013: 68 seconds
+- Excel 2016: 7 seconds
+
+### Adding and deleting Worksheets
+My test on Excel 2016 build 16.0.8431.2058 shows a 15-20% speed improvement compared to Excel 2013 when adding and deleting large numbers of worksheets.
+
+
+### New Functions
+
+Excel 2016 build 16.0.7920.1000 introduced sevearl very useful new worksheet functions:
+
+**MAXIFS** and **MINIFS** extend the **COUNTIFS/SUMIFS** family of functions. These functions have good performance characteristics and should be used to replace equivalent array formulas.
+**SWITCH** and **IFS** provide ways of simplifying complex IF statements.
+**TEXTJOIN** and **CONCAT**  let you easily combine text strings from ranges of cells.
+
+### Integrated Power Pivot and Power Query (Get & Transform)
+In Excel 2016 Power Pivot and Power Query (Get and Transform) are fully integrated to Excel rather than being Addins, resulting in improved performance and control.
+
+### Other Updates to Excel 2016 for Windows
+You can find more details of all the other month-by-month improvements that have been made to Excel 2016 at
+[What's new in Excel 2016 for Windows](https://support.office.com/en-gb/article/What-s-new-in-Excel-2016-for-Windows-5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73).
+
 
 ## Excel 2010 Performance Improvements
 <a name="xl2010PerfImp"> </a>
 
-The following sections discuss some features that are introduced in Excel 2010 that you can use to improve performance.
+The following sections discuss some features that were introduced in Excel 2010 that you can use to improve performance.
   
     
     
 
 ### Feature Improvements
 
-Based on user feedback about Excel 2007, Excel 2010 introduces improvements to several features.
+Based on user feedback about Excel 2007, Excel 2010 introduced improvements to several features.
   
     
     
@@ -55,7 +132,7 @@ In addition, because 64-bit Excel enables larger data sets, both 32-bit and 64-b
   
     
     
-For more information about the "Big Grid," see  [The "Big Grid" and Increased Limits in Excel 2007](28d47a27-06c3-4ac0-ae9b-18de73624669.md#Office2007excelPerf_BigGridIncreasedLimitsExcel). For more information about the 64-bit version of Office 2010, see  [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx).
+For more information about the "Big Grid," see  [The "Big Grid" and Increased Limits in Excel 2007](#Office2007excelPerf_BigGridIncreasedLimitsExcel). For more information about the 64-bit version of Office 2010, see  [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx).
   
     
     
@@ -84,7 +161,7 @@ Excel 2010 introduces significant improvements in the performance of graphics in
 ### Calculation Improvements
 <a name="Shapes"> </a>
 
-Starting in Excel 2007, multithreaded calculation improved calculation performance. For more information, see  [Multithreaded Calculation](28d47a27-06c3-4ac0-ae9b-18de73624669.md#MultithreadedCalculation). Starting in Excel 2010, additional performance improvements were made to further increase calculation speed. Excel 2010 can call user-defined functions asynchronously. Calling functions asynchronously improves performance by allowing several calculations to run at the same time. When you run user-defined functions on a compute cluster, calling functions asynchronously enables several computers to be used to complete the calculations. For more information about asynchronous user-defined functions, see  [Asynchronous User-Defined Functions](http://msdn.microsoft.com/library/142eb27e-fb6f-4da3-bfb7-a88115bbb5d5%28Office.14%29.aspx).
+Starting in Excel 2007, multithreaded calculation improved calculation performance. For more information, see  [Multithreaded Calculation](#MultithreadedCalculation). Starting in Excel 2010, additional performance improvements were made to further increase calculation speed. Excel 2010 can call user-defined functions asynchronously. Calling functions asynchronously improves performance by allowing several calculations to run at the same time. When you run user-defined functions on a compute cluster, calling functions asynchronously enables several computers to be used to complete the calculations. For more information about asynchronous user-defined functions, see  [Asynchronous User-Defined Functions](http://msdn.microsoft.com/library/142eb27e-fb6f-4da3-bfb7-a88115bbb5d5%28Office.14%29.aspx).
   
     
     
@@ -127,320 +204,24 @@ With a wealth of statistical analysis functions, support for constructing comple
 One solution is to use Windows HPC Server 2008 to scale out Excel calculations across multiple nodes in a Windows high-performance computing (HPC) cluster in parallel. There are three methods for running Excel 2010 calculations in a Windows HPC Server 2008 based cluster: running Excel workbooks in a cluster, running Excel user-defined functions (UDFs) in a cluster, and using Excel as a cluster service-oriented architecture (SOA) client. For more information about HPC Services for Excel 2010, see  [Accelerating Excel 2010 with Windows HPC Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=a48ac6fe-7ea0-4314-97c7-d6875bc895c5)
   
     
-    
-
-## Excel 2007 Performance Improvements
-<a name="office2007excelperf_ExcelPerformanceImprovements"> </a>
-
-The following sections discuss some features that were introduced in Excel 2007 that you can use to improve performance.
-  
-    
-    
-
-### The "Big Grid" and Increased Limits in Excel 2007
-<a name="Office2007excelPerf_BigGridIncreasedLimitsExcel"> </a>
-
-Starting in Excel 2007, the "Big Grid" increases the maximum number of rows per worksheet from 65,536 to over 1 million, and the number of columns from 256 (IV) to 16,384 (XFD). 
-  
-    
-    
-If you work with large workbooks, you probably have found that the increased memory capacity of recent versions of Excel has meant that you hit some other Excel specification limits more frequently. Starting with Excel 2007, Excel includes many changes to these limits to accompany the large increase in row and column capacity (some of these limit increases can also significantly affect calculation speed). The following is a list of limit changes in Excel 2007:
-  
-    
-    
-
-
-|**Feature**|**Improvement**|
-|:-----|:-----|
-|**Memory** <br/> |Usable memory for formulas and pivot caches is increased to 2 GB from 1 GB in Microsoft Office Excel 2003, 128 MB in Microsoft Excel 2002, and 64 MB in Microsoft Excel 2000.  <br/> |
-|**Smart recalculation limits** <br/> |The dependency limits that enable smart recalculation instead of full calculation are now limited only by available memory instead of 8,000 cells dependent on a single area and 64,000 areas having dependencies.  <br/> |
-|**Array formulas** <br/> |Full column references are now allowed, and the limit on array formulas referring to another worksheet is increased from 65,000 to available memory.  <br/> |
-|**PivotTables** <br/> |Maximum rows displayed in a PivotTable report is 1 million. Maximum columns displayed in a PivotTable report is 16,000. Maximum number of unique items in a single Pivot field is 1 million. Maximum number of fields visible in the Fields list is 16,000.  <br/> |
-|**Sorting** <br/> |Levels increased from 3 to 64.  <br/> |
-|**AutoFilter** <br/> |Drop-down list length changed from 1,000 items to 10,000 items.  <br/> |
-|**Maximum formula length** <br/> |Increased from 1,000 to 8,000.  <br/> |
-|**Formula nesting levels** <br/> |Increased from 7 to 64.  <br/> |
-|**Arguments in a function** <br/> |Increased from 30 to 255.  <br/> |
-|**Conditional formats per cell** <br/> |Increased from 3 to available memory.  <br/> |
-|**Unique cell styles in a workbook** <br/> |Increased from 4,000 to 64,000.  <br/> |
-|**Unique colors per workbook** <br/> |Increased from 56 to 4.3 billion.  <br/> |
-|**Characters in a cell that can be displayed and printed** <br/> |Increased to 32,000.  <br/> |
-   
-
-  
-    
-    
-
-### Multithreaded Calculation
-<a name="MultithreadedCalculation"> </a>
-
-Starting in Excel 2007, Excel can now split calculation across multiple processors or cores. When Excel loads a workbook, it determines from the operating system how many processors are available and then creates a separate calculation thread for each processor. These threads can then run in parallel. The beauty of this system is that it scales with the number of processors.
-  
-    
-    
-Most workbooks show a significant improvement in calculation speed on a system with multiple cores. The degree of improvement depends on how many independent calculation trees the workbook contains. If you make a workbook that contains one continuous chain of formulas, it will not show any multithreaded calculation (MTC) performance gain, whereas a workbook that contains several independent chains of formulas will show gains close to the number of processors available.
-  
-    
-    
-A test on a range of workbooks with between 840K and 23K formulas using Excel on a dual-core system showed improvement factors from using MTC ranging from 1.9 to no improvement, with the larger workbooks tending to show the most improvement. 
-  
-    
-    
-In collaboration with Intel Corporation, Microsoft conducted testing on a suite of user-created spreadsheets. Comparisons were done between Excel 2007 and Excel 2003. (A prerelease version of Excel 2007 was used, but little to no difference is expected with the final release version.)
-  
-    
-    
-Results showed calculation times ranging from no improvement to better than theoretical (2x/4x) improvement on both the dual-core and quad-core systems. Typical (median) improvement for a system with an Intel dual-core Pentium 4 at 3.0 GHz with 1 GB of RAM compared to the same file calculating in Excel 2003 was 48 percent, or a 1.92x speedup. Typical (median) speedup for a system with an Intel quad-core Xeon at 3.0 GHz with 4 GB of RAM was 76 percent, or a 4.17x speedup. Similar speed improvements were observed on other processors and platforms. Improvements beyond theoretical speedup (because of multithreading) are attributed to other performance improvements starting in Excel 2007, such as improvements to the speed of function execution.
-  
-    
-    
-Some Excel features do not use multithreaded calculation. For example:
-  
-    
-    
-
-- Data table calculation (however, structured references to tables do use MTC).
-    
-  
-- User-defined functions (however, XLL functions can be multithread-enabled).
-    
-  
-- XLM functions.
-    
-  
-- INDIRECT, CELL functions that use either the **format2** or **address** options.
-    
-  
-- GETPIVOTDATA and other functions referring to PivotTables or cubes.
-    
-  
-- **Range.Calculate** and **Range.CalculateRowMajorOrder**.
-    
-  
-- Cells in circular reference loops.
-    
-  
-The first time that Excel calculates a workbook on a computer that has multiple processors, you incur some overhead while Excel examines dependencies. Therefore, you can see the maximum performance increase on the second and successive calculations (although there is still usually improvement on the first calculation versus running the same task on the same speed of computer that has a single processor).
-  
-    
-    
-You also incur this overhead the first time that you calculate a workbook on a multiple-processor computer that has a larger number of processors than the computer on which you last saved the workbook. If you turn off MTC, or run Excel on a system that has a single processor, there is no performance gain or loss from the MTC feature. You can use MTC in Excel, even in compatibility mode, and the information that is stored by the calculation can be reused even after the workbook is calculated and saved by using an earlier version of Excel.
-  
-    
-    
-
-**Figure 1. Controlling the number of calculation threads in Excel**
-
-  
-    
-    
-
-  
-    
-    
-![Formula options in Backstage view](images/ocd_xl2010_ta_improvingcalculationperf_fig08.jpg)
-  
-    
-    
-You can manually specify the number of threads to run at the same time. This number can be more than the number of processors on the computer. This is useful if, for example, you have XLL user-defined functions dependent on long-running external calls to a database server. If the database server can process multiple requests in parallel, you can effectively use multithreading even on a single-processor system.
-  
-    
-    
-To control multithreaded calculation options, click the **File** tab, and then click **Options**. In the **Excel Options** dialog box, click **Advanced**. Under the **Formulas** section set the multithreaded calculation options.
-  
-    
-    
-
-### Increased Memory Capacity and Limits
-<a name="MultithreadedCalculation"> </a>
-
-Earlier versions of Excel had several limits on the number of dependencies that were tracked for the smart recalculation feature. When you exceeded these limits, Excel always did a full calculation, and the status bar displayed **Calculate**.
-  
-    
-    
-Starting in Excel 2007, these limits were removed. Subject to the overall 2-GB Windows memory limit, large Excel workbooks can always use smart recalculation, which usually calculates significantly faster than a full calculation.
-  
-    
-    
-
-### Workbook.ForceFullCalculation
-<a name="MultithreadedCalculation"> </a>
-
-You can set the new workbook property, **Workbook.ForceFullCalculation**, programmatically by using the Excel object model. When this property is set to **True**, dependencies are not loaded at open, and every calculation of the workbook is a full calculation.
-  
-    
-    
-If you have a workbook that has so many complex dependencies that loading the dependencies at workbook open takes a long time or recalculation takes longer than full calculation, you can use this property to force Excel to skip loading the dependencies and always use full calculation.
-  
-    
-    
-
-### SUMIFS, COUNTIFS, and AVERAGEIFS
-<a name="MultithreadedCalculation"> </a>
-
-Starting in Excel 2007, Excel has three new functions that you can use to **SUM**, **COUNT**, or **AVERAGE** using multiple criteria. In earlier versions of Excel, you had to use slow-calculating, hard-to-understand array formulas or **SUMPRODUCT** to use multiple criteria. The new functions are designed to be easy to use and fast to calculate.
-  
-    
-    
-
-```
-
-SUMIFS(sum_range, criteria_range1, criteria1 [,criteria_range2, _
-    criteria2...])
-COUNTIFS(criteria_range1, criteria1 [,criteria_range2, criteria2...])
-AVERAGEIFS(average_range, criteria_range1, criteria1 _
-    [,criteria_range2, criteria2...])
-```
-
-These functions handle full column references ($A:$A) efficiently by using special handling for the empty cells. The criteria that evaluates text cells can use the wildcard characters (*) (any set of characters) and (?) (any single character). Because these functions are so much faster to calculate than equivalent array formulas, use them to replace your array formulas when possible.
-  
-    
-    
-
-### IFERROR
-<a name="MultithreadedCalculation"> </a>
-
-The following **IFERROR** function simplifies and speeds up error checking.
-  
-    
-    
-
-```
-
-IFERROR(Formula, value_if_error)
-```
-
-In earlier versions of Excel, it was common to see formulas that trapped errors by duplicating the formulas.
-  
-    
-    
-
-
-
-```
-=IF(ISERROR(VLOOKUP("Charles",$A$1:$C$10000,3,False),"NotFound", _ VLOOKUP("Charles",$A$1:$C$10000,3,False))
-```
-
-Using this formula, if no error occurs in the **VLOOKUP**, Excel executes it two times. Starting in Excel 2007, you can avoid this duplication of calculation time by using **IFERROR**.
-  
-    
-    
-
-
-
-```
-=IFERROR(VLOOKUP("Charles",$A$1:$C$10000,3,False),"NotFound")
-```
-
-
-### Named Tables and Structured Referencing
-<a name="MultithreadedCalculation"> </a>
-
-Excel 2007 introduced named tables to define a block of formulas and data. You can more easily reference named tables and their columns in formulas by using structured references like **Sales[2004]** to refer to the 2004 column in the Sales table, instead of ordinary Excel references such as **C2:C50**.
-  
-    
-    
-A major advantage of using this technique is that references to the table automatically adjust as you add data to the rows and columns of the table. Using structured referencing is more efficient than using dynamic ranges because it does not involve volatile functions like **OFFSET** together with counting functions like **COUNTA**. Another advantage is that you can have more than one named table on a worksheet and use AutoFilter on each named table.
-  
-    
-    
-If you currently use array formulas, try to use structured references wherever possible to reduce the number of cells that are calculated in the array formula.
-  
-    
-    
-
-### User-Defined Functions
-<a name="MultithreadedCalculation"> </a>
-
-Starting in Excel 2007, all user-defined functions, regardless of the language and add-in method that was used to develop them, can now support the increased limits introduced in Excel 2007. This includes the number of function arguments and the "Big Grid." Fully supporting the "Big Grid" may require changes to your user-defined functions wherever your code assumes a maximum of 256 columns or 65,536 rows, plus changes to XLLs may be required to support the new Excel C API.
-  
-    
-    
-The only kind of user-defined functions that are able to take advantage of multithreaded calculations are XLLs. By updating your XLL functions for multithreaded recalculation, you can enable your XLL to be run at the same time on different threads. All other user-defined functions (VBA, Automation add-ins, XLM functions, and XLLs not updated to work on multiple threads) are always run on the main thread, and so execute only one at a time regardless of how many processors or threads are used.
-  
-    
-    
-Starting in Excel 2007, Excel has an updated C API to provide support for the following features:
-  
-    
-    
-
-- The "Big Grid."
-    
-  
-- Multithreaded calculation.
-    
-  
-- More function arguments.
-    
-  
-To use these new features, you must update your XLL functions. For more information, see  [Developing Excel 2010 XLLs](http://msdn.microsoft.com/library/dd27ae4d-ef97-47db-885c-ddd955816900%28Office.14%29.aspx). If you do not update your add-in functions, they will continue to work, but they will be unable to use the new features introduced in Excel 2007.
-  
-    
-    
-
-### Range Calculate
-<a name="MultithreadedCalculation"> </a>
-
-Starting in Excel 2007, Excel has two **Range** calculation methods. There is no standard user interface for running these calculation methods; you must call them by using VBA or some other programming language. These methods are useful when you want to calculate only a small block of cells while leaving all other formulas unchanged.
-  
-    
-    
-
-#### Range.Calculate
-
- **Range.Calculate** calculates the range one row at a time, left to right and top to bottom, and then resolves all dependencies within the range. This is the same method that Excel 2002 and Excel 2003 use, except that it was improved to handle iterative calculations in manual mode.
-  
-    
-    
-
-#### Range.CalculateRowMajorOrder
-
- **Range.CalculateRowMajorOrder** calculates the range one row at a time, left to right and top to bottom, but it completely ignores all dependencies. This is the same method that Microsoft Excel 97 and Excel 2000 use. Because **CalculateRowMajorOrder** does not try to resolve dependencies, it is usually significantly faster than **Range.Calculate**.
-  
-    
-    
-If you can ensure that any dependencies throughout a block of formulas always refer backward to cells to the left or above, the **Range.CalculateRowMajorOrder** can be the fastest calculation method in Excel on a single processor system.
-  
-    
-    
- **Range.CalculateRowMajorOrder** is one of the most useful tools in Excel for performance optimization because you can use it to time and compare the calculation speed of different formulas while ignoring dependency effects.
-  
-    
-    
-
-### Excel Services
-<a name="MultithreadedCalculation"> </a>
-
-Starting in Excel 2007, Excel Services is a new server technology that is included in SharePoint Server. You can use Excel Services to offload a time-consuming calculation from a desktop to a more powerful (and expensive) server. By using multithreaded calculation on an eight-core server could produce major performance gains. For more information about Excel Services, see  [Excel Services in SharePoint Server 2010](http://msdn.microsoft.com/library/11433629-68f9-4ac6-8905-debad1766ed4%28Office.14%29.aspx).
-  
-    
-    
+ 
 
 ## Conclusion
-<a name="office2007excelperf_Conclusion"> </a>
+<a name="office2016excelperf_Conclusion"> </a>
 
-Excel 2010 and Excel 2007 introduce performance and limitation improvements in several areas, from individual feature and object model improvements to the introduction of multithreaded calculation and multi-core processing. Starting in Excel 2010, the 64-bit version of Excel enables users to work with even larger data sets. PowerPivot provides a robust data analysis tool within Excel 2010, and HPC Services for Excel 2010 gives users the ability to offload workbooks or UDFs to a Windows high-performance computing cluster. All of these improvements allow Excel to scale along with hardware, improving performance as the CPU and RAM capacity of computers expand.
+Excel 2016 introduces performance and limitation improvements focussed on increasing Excel's ability to efficiently handle large and complex workbooks. All of these improvements allow Excel to scale along with hardware, improving performance as the CPU and RAM capacity of computers expand.
   
     
     
 
-## About the Authors
-<a name="xlAboutAuthors"> </a>
 
-Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. Charles is the author of FastExcel, the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models](http://www.decisionmodels.com/) website.
+## About the Author
+<a name="xlAboutAuthor"> </a>
+
+Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. 
+Charles is the author of [FastExcel](http://www.decisionmodels.com/fastexcel.htm "FastExcel"), the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. 
+For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models](http://www.decisionmodels.com/) website and the [FastExcel Blog](https://fastexcel.wordpress.com/ "FastExcel Blog").
   
-    
-    
-This technical article was produced in partnership with  [A23 Consulting](http://www.a23consulting.com/).
-  
-    
-    
-Allison Bokone, Microsoft Corporation, is a programming writer in the Office team.
-  
-    
-    
-Chad Rothschiller, Microsoft Corporation, is a program manager in the Office team.
   
     
     
@@ -448,7 +229,7 @@ Chad Rothschiller, Microsoft Corporation, is a program manager in the Office tea
 ## Additional Resources
 <a name="office2007excelperf_AdditionalResources"> </a>
 
-For more information about Excel 2010, see the following resources:
+For more information about Excel, see the following resources:
   
     
     
@@ -461,7 +242,6 @@ For more information about Excel 2010, see the following resources:
   
 -  [Excel Developer Portal](http://msdn.microsoft.com/en-us/office/aa905411.aspx)
     
-  
--  [Blog: Microsoft Excel 2010](http://blogs.msdn.com/excel/default.aspx)
+
     
   
