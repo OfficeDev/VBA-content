@@ -8,10 +8,11 @@ In addition to the online reference content for VBA, we also have offline copies
 
 The VBA references available include:
 
-+ Access - [Download ACVBACon.chm](VBA/Offline-Docs/ACVBACon.chm)
-+ Excel - [Download XLVBACon.chm](VBA/Offline-Docs/XLVBACon.chm)
-+ PowerPoint - [Download PPVBACon.chm](VBA/Offline-Docs/PPVBACon.chm)
-+ Word - [Download WDVBACon.chm](VBA/Offline-Docs/WDVBACon.chm)
+
++ Access - [Download ACVBACon.chm](../offline-docs/VBA/Offline-Docs/ACVBACon.chm)
++ Excel - [Download XLVBACon.chm](../offline-docs/VBA/Offline-Docs/XLVBACon.chm)
++ PowerPoint - [Download PPVBACon.chm](../offline-docs/VBA/Offline-Docs/PPVBACon.chm)
++ Word - [Download WDVBACon.chm](../offline-docs/VBA/Offline-Docs/WDVBACon.chm)
 
 To open the CHM file, double-click the file in Windows Explorer at the disk location where you last saved it.
 
