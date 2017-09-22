@@ -10,8 +10,8 @@ The VBA references available include:
 
                                               VBA-content/tree/offline-docs/VBA/Offline-Docs
 https://github.com/OfficeDev/VBA-content/blob/VBA-content/tree/offline-docs/VBA/Offline-Docs/ACVBACon.chm
-
-+ Access - [Download ACVBACon.chm](../../VBA-content/tree/offline-docs/VBA/Offline-Docs/ACVBACon.chm)
+https://github.com/OfficeDev/VBA-content/VBA-content/tree/offline-docs/VBA/Offline-Docs/ACVBACon.chm
++ Access - [Download ACVBACon.chm](../offline-docs/VBA/Offline-Docs/ACVBACon.chm)
 + Excel - [Download XLVBACon.chm](VBA/Offline-Docs/XLVBACon.chm)
 + PowerPoint - [Download PPVBACon.chm](VBA/Offline-Docs/PPVBACon.chm)
 + Word - [Download WDVBACon.chm](VBA/Offline-Docs/WDVBACon.chm)
