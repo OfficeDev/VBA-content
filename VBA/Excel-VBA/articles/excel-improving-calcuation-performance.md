@@ -917,7 +917,7 @@ Now how many cell references are added up in total? Each formula, except the fir
   
     
     
- **RangeTimer** indicates that the 2000 formulas in column C calculate in 3.7 milliseconds compared to the 80 milliseconds for column B. This change has a performance improvement factor of only80/3.7=22 instead of 500 because there is a small overhead per formula.
+ **RangeTimer** indicates that the 2000 formulas in column C calculate in 3.7 milliseconds compared to the 80 milliseconds for column B. This change has a performance improvement factor of only 80/3.7=22 instead of 500 because there is a small overhead per formula.
   
     
     
