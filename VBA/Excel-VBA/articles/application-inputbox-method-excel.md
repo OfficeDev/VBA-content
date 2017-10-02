@@ -60,7 +60,7 @@ The following table lists the values that can be passed in the Type argument. Ca
 |64|An array of values|
 Use  **InputBox** to display a simple dialog box so that you can enter information to be used in a macro. The dialog box has an **OK** button and a **Cancel** button. If you choose the **OK** button, **InputBox** returns the value entered in the dialog box. If you click the **Cancel** button, **InputBox** returns **False** .
 
-If  _Type_ is 0, **InputBox** returns the formula in the form of text ? for example, "=2*PI()/360". If there are any references in the formula, they are returned as A1-style references. (Use **[ConvertFormula](application-convertformula-method-excel.md)** to convert between reference styles.)
+If  _Type_ is 0, **InputBox** returns the formula in the form of text, for example, "=2*PI()/360". If there are any references in the formula, they are returned as A1-style references. (Use **[ConvertFormula](application-convertformula-method-excel.md)** to convert between reference styles.)
 
 If  _Type_ is 8, **InputBox** returns a **Range** object. You must use the **Set** statement to assign the result to a **Range** object, as shown in the following example.
 
@@ -98,9 +98,9 @@ Set myCell = Application.InputBox( _
     prompt:="Select a cell", Type:=8)
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
-This example uses an InputBox for the user to select a range to pass to the user-defined function ?MyFunction?, which multiplies three values in a range together and returns the result.
+This example uses an InputBox for the user to select a range to pass to the user-defined function 'MyFunction', which multiplies three values in a range together and returns the result.
 
 
 
