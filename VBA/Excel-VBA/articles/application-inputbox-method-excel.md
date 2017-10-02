@@ -75,7 +75,7 @@ If you do not use the  **Set** statement, the variable is set to the value in th
 
 If you use the  **InputBox** method to ask the user for a formula, you must use the **[FormulaLocal](range-formulalocal-property-excel.md)** property to assign the formula to a **Range** object. The input formula will be in the user's language.
 
-The  **InputBox** method differs from the **InputBox** function in that it allows selective validation of the user?s input, and it can be used with Microsoft Excel objects, error values, and formulas. Notice that `Application.InputBox` calls the **InputBox** method; `InputBox` with no object qualifier calls the **InputBox** function.
+The  **InputBox** method differs from the **InputBox** function in that it allows selective validation of the user's input, and it can be used with Microsoft Excel objects, error values, and formulas. Notice that `Application.InputBox` calls the **InputBox** method; `InputBox` with no object qualifier calls the **InputBox** function.
 
 
 ## Example
