@@ -246,6 +246,7 @@ The  **Application** object contains:
 |[DisplayScrollBars](http://msdn.microsoft.com/library/a81d2111-38eb-f156-28d7-a4abedf4839c%28Office.15%29.aspx)|
 |[DisplayStatusBar](http://msdn.microsoft.com/library/bf70a679-bd50-cce7-0dc0-0dc57835038c%28Office.15%29.aspx)|
 |[EditDirectlyInCell](http://msdn.microsoft.com/library/e867a786-5a34-2e12-e7c6-0637650611c0%28Office.15%29.aspx)|
+|[EnableAnimations](http://msdn.microsoft.com/library/fb49fb3c-a842-73ab-1819-054f7403c85e%28Office.15%29.aspx)|
 |[EnableAutoComplete](http://msdn.microsoft.com/library/eb5ccf8e-3e2d-2438-4dcf-d113cfdc3971%28Office.15%29.aspx)|
 |[EnableCancelKey](http://msdn.microsoft.com/library/7c9c17b3-dd04-c914-4ed5-a6ef81ccf0c3%28Office.15%29.aspx)|
 |[EnableCheckFileExtensions](http://msdn.microsoft.com/library/e518aec5-a261-47ba-a3fd-1da480c82612%28Office.15%29.aspx)|
@@ -378,7 +379,7 @@ The  **Application** object contains:
 |[Workbooks](http://msdn.microsoft.com/library/5291a324-87d7-3916-ffee-34c3389cea13%28Office.15%29.aspx)|
 |[WorksheetFunction](http://msdn.microsoft.com/library/fd1333bf-8739-303d-30b4-85a99fb344b3%28Office.15%29.aspx)|
 |[Worksheets](http://msdn.microsoft.com/library/ee9350d3-f24e-ed40-b267-8101d3267b4d%28Office.15%29.aspx)|
-|[EnableAnimations](http://msdn.microsoft.com/library/fb49fb3c-a842-73ab-1819-054f7403c85e%28Office.15%29.aspx)|
+
 
 <br/>
 
