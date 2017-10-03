@@ -10,7 +10,6 @@ ms.assetid: 19b73597-5cf9-4f56-8227-b5211f657f6f
 ms.date: 06/08/2017
 ---
 
-
 # Application Object (Excel)
 
 Represents the entire Microsoft Excel application.
@@ -18,36 +17,30 @@ Represents the entire Microsoft Excel application.
 
 ## Example
 
-Use the  **Application** property to return the **Application** object. The following example applies the **Windows** property to the **Application** object.
-
+Use the **Application** property to return the **Application** object. The following example applies the **Windows** property to the **Application** object.
 
 ```
 Application.Windows("book1.xls").Activate
 ```
 
-The following example creates a Microsoft Excel workbook object in another application and then opens a workbook in Microsoft Excel.
+<br/>
 
-
-
+The following example creates an Excel workbook object in another application and then opens a workbook in Excel.
 
 ```
 Set xl = CreateObject("Excel.Sheet") 
 xl.Application.Workbooks.Open "newbook.xls"
 ```
 
-Many of the properties and methods that return the most common user-interface objects, such as the active cell ( **ActiveCell** property), can be used without the **Application** object qualifier. For example, instead of writing
+<br/>
 
-
-
+Many of the properties and methods that return the most common user-interface objects, such as the active cell (**ActiveCell** property), can be used without the **Application** object qualifier. For example, instead of writing:
 
 ```
 Application.ActiveCell.Font.Bold = True
 ```
 
-You can write 
-
-
-
+You can write: 
 
 ```
 ActiveCell.Font.Bold = True
@@ -58,17 +51,11 @@ ActiveCell.Font.Bold = True
 
 The  **Application** object contains:
 
-
 - Application-wide settings and options.
     
-- Methods that return top-level objects, such as  **[ActiveCell](http://msdn.microsoft.com/library/7ebfbec8-dc4e-36c5-188a-347d42649e76%28Office.15%29.aspx)**, **[ActiveSheet](http://msdn.microsoft.com/library/6ed42d87-2ad5-eecc-ad5b-4c92617a04bc%28Office.15%29.aspx)**, and so on.
+- Methods that return top-level objects, such as **[ActiveCell](http://msdn.microsoft.com/library/7ebfbec8-dc4e-36c5-188a-347d42649e76%28Office.15%29.aspx)**, **[ActiveSheet](http://msdn.microsoft.com/library/6ed42d87-2ad5-eecc-ad5b-4c92617a04bc%28Office.15%29.aspx)**, and so on.
     
-
-
-
 ## Events
-
-
 
 |**Name**|
 |:-----|
@@ -120,9 +107,9 @@ The  **Application** object contains:
 |[WorkbookRowsetComplete](http://msdn.microsoft.com/library/cc472400-5622-5b4f-60a2-d3347ded266f%28Office.15%29.aspx)|
 |[WorkbookSync](http://msdn.microsoft.com/library/ca23985c-e5ea-d2cb-bce3-2b52c5dff3a1%28Office.15%29.aspx)|
 
+<br/>
+
 ## Methods
-
-
 
 |**Name**|
 |:-----|
@@ -161,25 +148,25 @@ The  **Application** object contains:
 |[MailLogoff](http://msdn.microsoft.com/library/5265e9c1-6c04-3591-7133-5274e5b56347%28Office.15%29.aspx)|
 |[MailLogon](http://msdn.microsoft.com/library/0a6c8752-739d-b996-1426-4d3021ea5323%28Office.15%29.aspx)|
 |[NextLetter](http://msdn.microsoft.com/library/002ace38-48f1-cac2-6bbb-428b119c8ed0%28Office.15%29.aspx)|
-|[OnKey](http://msdn.microsoft.com/library/43662d8b-19e2-2b4a-4c3a-c64be4007643%28Office.15%29.aspx)||
-|[OnRepeat](http://msdn.microsoft.com/library/7d535e14-c779-af87-60eb-68ec8e651459%28Office.15%29.aspx)||
-|[OnTime](http://msdn.microsoft.com/library/31268da0-8ec7-7169-a1d0-8db34b3385cd%28Office.15%29.aspx)||
-|[OnUndo](http://msdn.microsoft.com/library/12e59bbb-e134-3728-7c8d-629dcda0e908%28Office.15%29.aspx)||
-|[Quit](http://msdn.microsoft.com/library/d01de494-95c7-6e3e-3049-f89b31aa9d0c%28Office.15%29.aspx)||
-|[RecordMacro](http://msdn.microsoft.com/library/8b6c9757-b589-04e6-5650-edfc4104e517%28Office.15%29.aspx)||
-|[RegisterXLL](http://msdn.microsoft.com/library/b0d97511-bb81-7c6a-7bbb-3f87c4364e95%28Office.15%29.aspx)||
-|[Repeat](http://msdn.microsoft.com/library/ce8f6340-174e-b6cf-0f99-f39be2cde5c2%28Office.15%29.aspx)||
-|[Run](http://msdn.microsoft.com/library/3e0167ab-b101-018f-0f89-ada116b8bb72%28Office.15%29.aspx)||
-|[SendKeys](http://msdn.microsoft.com/library/585666b9-adbc-5d04-c480-58e55ea7fb9d%28Office.15%29.aspx)||
-|[SharePointVersion](http://msdn.microsoft.com/library/9d561b10-dba9-8af5-6e64-66e41714e894%28Office.15%29.aspx)||
-|[Undo](http://msdn.microsoft.com/library/b56bb8a0-2cd1-356a-03ba-47eb6f56f455%28Office.15%29.aspx)||
-|[Union](http://msdn.microsoft.com/library/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e%28Office.15%29.aspx)||
-|[Volatile](http://msdn.microsoft.com/library/27047561-9d76-b37d-100d-1c58e6edf494%28Office.15%29.aspx)||
-|[Wait](http://msdn.microsoft.com/library/71425d1c-6b37-a510-d8b5-072136e98f04%28Office.15%29.aspx)||
+|[OnKey](http://msdn.microsoft.com/library/43662d8b-19e2-2b4a-4c3a-c64be4007643%28Office.15%29.aspx)|
+|[OnRepeat](http://msdn.microsoft.com/library/7d535e14-c779-af87-60eb-68ec8e651459%28Office.15%29.aspx)|
+|[OnTime](http://msdn.microsoft.com/library/31268da0-8ec7-7169-a1d0-8db34b3385cd%28Office.15%29.aspx)|
+|[OnUndo](http://msdn.microsoft.com/library/12e59bbb-e134-3728-7c8d-629dcda0e908%28Office.15%29.aspx)|
+|[Quit](http://msdn.microsoft.com/library/d01de494-95c7-6e3e-3049-f89b31aa9d0c%28Office.15%29.aspx)|
+|[RecordMacro](http://msdn.microsoft.com/library/8b6c9757-b589-04e6-5650-edfc4104e517%28Office.15%29.aspx)|
+|[RegisterXLL](http://msdn.microsoft.com/library/b0d97511-bb81-7c6a-7bbb-3f87c4364e95%28Office.15%29.aspx)|
+|[Repeat](http://msdn.microsoft.com/library/ce8f6340-174e-b6cf-0f99-f39be2cde5c2%28Office.15%29.aspx)|
+|[Run](http://msdn.microsoft.com/library/3e0167ab-b101-018f-0f89-ada116b8bb72%28Office.15%29.aspx)|
+|[SendKeys](http://msdn.microsoft.com/library/585666b9-adbc-5d04-c480-58e55ea7fb9d%28Office.15%29.aspx)|
+|[SharePointVersion](http://msdn.microsoft.com/library/9d561b10-dba9-8af5-6e64-66e41714e894%28Office.15%29.aspx)|
+|[Undo](http://msdn.microsoft.com/library/b56bb8a0-2cd1-356a-03ba-47eb6f56f455%28Office.15%29.aspx)|
+|[Union](http://msdn.microsoft.com/library/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e%28Office.15%29.aspx)|
+|[Volatile](http://msdn.microsoft.com/library/27047561-9d76-b37d-100d-1c58e6edf494%28Office.15%29.aspx)|
+|[Wait](http://msdn.microsoft.com/library/71425d1c-6b37-a510-d8b5-072136e98f04%28Office.15%29.aspx)|
+
+<br/>
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -393,10 +380,8 @@ The  **Application** object contains:
 |[Worksheets](http://msdn.microsoft.com/library/ee9350d3-f24e-ed40-b267-8101d3267b4d%28Office.15%29.aspx)|
 |[EnableAnimations](http://msdn.microsoft.com/library/fb49fb3c-a842-73ab-1819-054f7403c85e%28Office.15%29.aspx)|
 
+<br/>
+
 ## See also
 
-
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+- [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
