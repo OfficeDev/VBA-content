@@ -8,7 +8,8 @@ ms.date: 06/08/2017
 
 # Creating a Property
 
-Outlook provides several ways to add custom properties:
+Outlook provides several ways to add custom properties.
+
 
 
 | _ObjectProperty_|[UserProperties.Add](userproperties-add-method-outlook.md)|[ItemProperties.Add](itemproperties-add-method-outlook.md)|[PropertyAccessor.SetProperty](propertyaccessor-setproperty-method-outlook.md)|[PropertyAccessor.SetProperties](propertyaccessor-setproperties-method-outlook.md)|
