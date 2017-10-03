@@ -45,8 +45,11 @@ ms.date: 06/08/2017
 |29||61|=|93|]|125|}|
 |30||62|>|94|^|126|~|
 |31||63|?|95|_|127||
-These characters aren't supported by Microsoft Windows.
 
-* *Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
+<br/>
+
+These characters aren't supported by Windows.
+
+Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
 
 
