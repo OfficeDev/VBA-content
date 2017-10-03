@@ -72,21 +72,21 @@ The postal code consists of 3 address items: Prefecture, City/Ward/County, Stree
 
 |**Property settings**|**Address input in field/textbox**|
 |:-----|:-----|
-|Address1|Address2\|Address3|
+|Address1|Address2 \| Address3|
 |Address1|Prefecture+City/Ward/County+Street/Town/Village|
 |Address1;|Prefecture|
 |;Address1|City/Ward/County+Street/Town/Village|
 |;Address1;|City/Ward/County|
 |;;Address1|Street/Town/Village|
-|Address1;Address2|Prefecture\|City/Ward/County+Street/Town/Village|
+|Address1;Address2|Prefecture \| City/Ward/County+Street/Town/Village|
 |Address1;Address1|Prefecture+City/Ward/County+Street/Town/Village|
-|Address1;Address2;|Prefecture\|City/Ward/County|
+|Address1;Address2;|Prefecture \| City/Ward/County|
 |Address1;Address1;|Prefecture+City/Ward/County|
-|;Address1;Address2|City/Ward/County\|Street/Town/Village|
+|;Address1;Address2|City/Ward/County \| Street/Town/Village|
 |;Address1;Address1|City/Ward/County+Street/Town/Village|
-|Address1;Address2;Address3|Prefecture\|City/Ward/County\|Street/Town/Village|
-|Address1;Address2;Address2|Prefecture\|City/Ward/County+Street/Town/Village|
-|Address1;Address1;Address2|Prefecture+City/Ward/County\|Street/Town/Village|
+|Address1;Address2;Address3|Prefecture \| City/Ward/County \| Street/Town/Village|
+|Address1;Address2;Address2|Prefecture \| City/Ward/County+Street/Town/Village|
+|Address1;Address1;Address2|Prefecture+City/Ward/County \| Street/Town/Village|
 |Address1;Address1;Address1|Prefecture+City/Ward/County+Street/Town/Village|
 
 
