@@ -25,25 +25,21 @@ Creates a new custom document property. You can add a new document property only
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The string of the [Name](http://msdn.microsoft.com/library/b609c38e-71ca-e019-9852-fc7811dc798f.md%28Office.15%29.aspx) of the property.|
 | _LinkToContent_|Required|**Boolean**|Specifies whether the [LinkToContent](http://msdn.microsoft.com/library/062df6df-cdee-81fc-3244-e229dacaa64e.md%28Office.15%29.aspx) property is linked to the contents of the container document. If this argument is **True**, the _LinkSource_ argument is required; if it's **False**, the value argument is required.|
-| _Type_|Optional|**Variant**|The data type of the of the [Type](documentproperty-type-property-office.md) property. Can be one of the following **MsoDocProperties** constants: **msoPropertyTypeBoolean**, **msoPropertyTypeDate**, **msoPropertyTypeFloat**, **msoPropertyTypeNumber**, or **msoPropertyTypeString**.|
+| _Type_|Optional|**Variant**|The data type of the [Type](documentproperty-type-property-office.md) property. Can be one of the following **MsoDocProperties** constants: **msoPropertyTypeBoolean**, **msoPropertyTypeDate**, **msoPropertyTypeFloat**, **msoPropertyTypeNumber**, or **msoPropertyTypeString**.|
 | _Value_|Optional|**Variant**|The data value of the [Value](documentproperty-value-property-office.md) property, if it's not linked to the contents of the container document. The value is converted to match the data type specified by the _Type_ argument, and if it can't be converted, an error occurs. If _LinkToContent_ is **True**, the argument is ignored and the new document property is assigned a default value until the linked property values are updated by the container application (usually when the document is saved).|
-| _LinkSource_|Optional|**Variant**|Ignored if  _LinkToContent_ is **False**. The source of the[LinkSource](http://msdn.microsoft.com/library/3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3.md%28Office.15%29.aspx) property. The container application determines what types of source linking you can use. For example, DDE links use the "Server\|Document!Item" syntax.|
+| _LinkSource_|Optional|**Variant**|Ignored if  _LinkToContent_ is **False**. The source of the [LinkSource](http://msdn.microsoft.com/library/3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3.md%28Office.15%29.aspx) property. The container application determines what types of source linking you can use. For example, DDE links use the "Server\|Document!Item" syntax.|
 
 ## Remarks
 
-If you add a custom document property to the  **DocumentProperties** collection that's linked to a given value in a Microsoft Office document, you must save the document to see the change to the **DocumentProperty** object.
-
+If you add a custom document property to the **DocumentProperties** collection that's linked to a given value in an Office document, you must save the document to see the change to the **DocumentProperty** object.
 
 ## Example
 
-This example, which is designed to run in Microsoft Word, adds three custom document properties to the  **DocumentProperties** collection.
-
+This example, which is designed to run in Word, adds three custom document properties to the **DocumentProperties** collection.
 
 ```
 With ActiveDocument.CustomDocumentProperties 
@@ -69,13 +65,11 @@ End With
 
 ## See also
 
-
 #### Concepts
 
+- [DocumentProperties Object](documentproperties-object-office.md)
 
-[DocumentProperties Object](documentproperties-object-office.md)
 #### Other resources
 
-
-[DocumentProperties Object Members](documentproperties-members-office.md)
+- [DocumentProperties Object Members](documentproperties-members-office.md)
 
