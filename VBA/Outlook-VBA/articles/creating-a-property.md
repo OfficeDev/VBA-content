@@ -10,9 +10,7 @@ ms.date: 06/08/2017
 
 Outlook provides several ways to add custom properties.
 
-
-
-| _ObjectProperty_|[UserProperties.Add](userproperties-add-method-outlook.md)|[ItemProperties.Add](itemproperties-add-method-outlook.md)|[PropertyAccessor.SetProperty](propertyaccessor-setproperty-method-outlook.md)|[PropertyAccessor.SetProperties](propertyaccessor-setproperties-method-outlook.md)|
+|ObjectProperty|[UserProperties.Add](userproperties-add-method-outlook.md)|[ItemProperties.Add](itemproperties-add-method-outlook.md)|[PropertyAccessor.SetProperty](propertyaccessor-setproperty-method-outlook.md)|[PropertyAccessor.SetProperties](propertyaccessor-setproperties-method-outlook.md)|
 |:-----|:-----|:-----|:-----|:-----|
 |**Action**|Adds a custom property specified by _Name_ and _Type_. If a property of the same name and type already exists, it will be overwritten by a new property. The default value for _AddToFolderFields_ allows adding the property to the item and as a view field to the folder.|Adds a custom property specified by _Name_ and _Type_ even if a property of the same name and type already exists. The default value for _AddToFolderFields_ allows adding the property to the item and as a view field to the folder.|Adds a custom property specified by _SchemaName_ if the provider and the parent object support property creation, the property does not already exist, and a valid schema name is specified for the property.|For each property in _SchemaNames_, **[PropertyAccessor.SetProperties](propertyaccessor-setproperties-method-outlook.md)** adds it as a custom property if the provider and the parent object support property creation, the property does not already exist, and a valid schema name is specified for the property.|
 |**Applicable objects**|All [Outlook item objects](outlook-item-objects.md) except Office document items (**[DocumentItem](documentitem-object-outlook.md)** objects).|All Outlook item objects except Office document items (**DocumentItem** objects).|All Outlook item objects including **DocumentItem** objects.|All Outlook item objects including **DocumentItem** objects.|
