@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PostItem.BeforeAttachmentRead Event (Outlook)
 
-Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](attachment-object-outlook.md)** object.
+Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an **[Attachment](attachment-object-outlook.md)** object.
 
 
 ## Syntax
@@ -22,18 +22,14 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 ### Parameters
 
-
-
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
+|Name|Required/Optional|Data Type|Description|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **Attachment**|The  **Attachment** to be read.|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.||
+|_Attachment_|Required|**Attachment**|The **Attachment** to be read.|
+|_Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.|
 
 ## See also
 
-
 #### Concepts
 
-
-[PostItem Object](postitem-object-outlook.md)
+- [PostItem Object](postitem-object-outlook.md)
 
