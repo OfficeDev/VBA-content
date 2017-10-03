@@ -22,17 +22,13 @@ Occurs before the item is automatically saved by Outlook.
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](distlistitem-object-outlook.md)** to be saved.||
+| _Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](distlistitem-object-outlook.md)** to be saved.|
 
 ## See also
 
-
 #### Concepts
 
-
-[DistListItem Object](distlistitem-object-outlook.md)
+- [DistListItem Object](distlistitem-object-outlook.md)
 
