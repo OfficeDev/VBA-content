@@ -25,17 +25,13 @@ Occurs just after the focus passes from this control to another control on the s
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the exit operation is not completed and the focus remains in this control.||
+|_Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the exit operation is not completed and the focus remains in this control.|
 
 ## See also
 
-
 #### Concepts
 
-
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+- [OlkDateControl Object](olkdatecontrol-object-outlook.md)
 
