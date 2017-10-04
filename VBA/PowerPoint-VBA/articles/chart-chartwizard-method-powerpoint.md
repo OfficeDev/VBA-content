@@ -17,9 +17,9 @@ Modifies the properties of the given chart. You can use this method to quickly f
 
 ## Syntax
 
- _expression_. **ChartWizard**( **_Source_**, **_Gallery_**, **_Format_**, **_PlotBy_**, **_CategoryLabels_**, **_SeriesLabels_**, **_HasLegend_**, **_Title_**, **_CategoryTitle_**, **_ValueTitle_**, **_ExtraTitle_** )
+_expression_. **ChartWizard** (**_Source_**, **_Gallery_**, **_Format_**, **_PlotBy_**, **_CategoryLabels_**, **_SeriesLabels_**, **_HasLegend_**, **_Title_**, **_CategoryTitle_**, **_ValueTitle_**, **_ExtraTitle_**)
 
- _expression_ A variable that represents a **[Chart](chart-object-powerpoint.md)** object.
+_expression_ A variable that represents a **[Chart](chart-object-powerpoint.md)** object.
 
 
 ### Parameters
@@ -37,6 +37,8 @@ Modifies the properties of the given chart. You can use this method to quickly f
 | _CategoryTitle_|Optional|**Variant**|The category axis title text.|
 | _ValueTitle_|Optional|**Variant**|The value axis title text.|
 | _ExtraTitle_|Optional|**Variant**| The series axis title for 3-D charts or the second value axis title for 2-D charts.|
+
+<br/>
 
 ## Remarks
 
