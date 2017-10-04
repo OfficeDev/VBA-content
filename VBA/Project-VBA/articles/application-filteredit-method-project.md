@@ -40,6 +40,8 @@ _expression_ A variable that represents an **Application** object.
 | _ShowInMenu_|Optional|**Boolean**|**True** if the filter is displayed in the **Filter** drop-down list. The default value is **False**. **Note** To display the list of filters, on the Ribbon, on the **View** tab, click the **Filter** drop-down list.|
 | _ShowSummaryTasks_|Optional|**Boolean**|**True** if the summary tasks of the filtered tasks are displayed. The default value is **False**.|
 
+<br/>
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
