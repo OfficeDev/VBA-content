@@ -15,7 +15,7 @@ Specifies the raster export resolution settings.
 
 ## Syntax
 
-_expression_. **SetRasterExportResolution** (**_resolution_**, **_[Width]_**, **_[Height]_**, **_[resolutionUnits]_**)
+_expression_. **SetRasterExportResolution** (**_resolution_**, **_Width_**, **_Height_**, **_resolutionUnits_**)
 
 _expression_ An expression that returns an **[ApplicationSettings](applicationsettings-object-visio.md)** object.
 
