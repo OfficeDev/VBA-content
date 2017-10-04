@@ -18,7 +18,7 @@ Searches for an unfiltered value; returns  **True** if the value is found.
 
 ## Syntax
 
-_expression_. **Find** (** _Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
+_expression_. **Find** (**_Field_**, **_Test_**, **_Value_**, **_Next_**, **_MatchCase_**, **_FieldID_**, **_TestID_**)
 
 _expression_ A variable that represents an **Application** object.
 
