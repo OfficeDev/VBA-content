@@ -69,7 +69,7 @@ _expression_ An expression that returns an **Application** object.
 |&;[Subject]|Prints the subject.|
 |&;[Author]|Prints the author.|
 |&;[Keyword]|Prints the keyword(s).|
-|&;[ _Field_Name_ ]|Prints the value of the field specified with _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. For example, &;[Actual Cost].|
+|&;[Field_Name]|Prints the value of the field specified with _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. For example, &;[Actual Cost].|
 
 ### Return value
 
