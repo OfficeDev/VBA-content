@@ -18,9 +18,9 @@ Occurs when the data in the control is changed through the user interface and is
 
 ## Syntax
 
- _expression_ . **BeforeUpdate**( **_Cancel_** )
+_expression_. **BeforeUpdate** (**_Cancel_**)
 
- _expression_ A variable that represents an **OlkCheckBox** object.
+_expression_ A variable that represents an **OlkCheckBox** object.
 
 
 ### Parameters
@@ -28,6 +28,8 @@ Occurs when the data in the control is changed through the user interface and is
 |Name|Required/Optional|Data Type|Description|
 |:-----|:-----|:-----|:-----|
 |_Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the operation will not be completed and the property bound to the control will not be updated.|
+
+<br/>
 
 ## Remarks
 
