@@ -18,7 +18,7 @@ Opens a project or imports data.
 
 ## Syntax
 
-_expression_. **FileOpenEx**( **_Name_**, **_ReadOnly_**, **_Merge_**, **_TaskInformation_**, **_Table_**, **_Sheet_**, **_NoAuto_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_openPool_**, **_Password_**, **_WriteResPassword_**, **_IgnoreReadOnlyRecommended_**, **_XMLName_**, **_DoNotLoadFromEnterprise_** )
+_expression_. **FileOpenEx** (**_Name_**, **_ReadOnly_**, **_Merge_**, **_TaskInformation_**, **_Table_**, **_Sheet_**, **_NoAuto_**, **_UserID_**, **_DatabasePassWord_**, **_FormatID_**, **_Map_**, **_openPool_**, **_Password_**, **_WriteResPassword_**, **_IgnoreReadOnlyRecommended_**, **_XMLName_**, **_DoNotLoadFromEnterprise_**)
 
 _expression_ A variable that represents an **Application** object.
 
