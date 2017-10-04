@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **CheckField**( ** _Field_**, ** _Value_**, ** _Test_**, ** _Op_**, ** _Field2_**, ** _Value2_**, ** _Test2_** )
+ _expression_. **CheckField** (**_Field_**, **_Value_**, **_Test_**, **_Op_**, **_Field2_**, **_Value2_**, **_Test2_**)
 
  _expression_ A variable that represents an **Application** object.
 
@@ -53,6 +53,7 @@ ms.date: 06/08/2017
 |"does not contain"|**Field** does not contain **Value**.|
 |"contains exactly"|**Field** exactly contains **Value**.|
 
+<br/>
 
 ### Return value
 
