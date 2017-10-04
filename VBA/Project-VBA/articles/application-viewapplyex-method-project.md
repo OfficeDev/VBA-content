@@ -17,7 +17,7 @@ Applies a view to the active window, where the change can be one of the built-in
 
 ## Syntax
 
-_expression_. **ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**)
+_expression_. **ViewApplyEx** (**_Name_**, **_SinglePane_**, **_Toggle_**, **_ApplyTo_**, **_BuiltInView_**)
 
 _expression_ An expression that returns an **Application** object.
 
