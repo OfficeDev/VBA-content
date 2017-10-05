@@ -42,13 +42,13 @@ To download a tool that shows how much virtual memory is available and how much 
 Previously, workbooks using large numbers of full column references and multiple worksheets, for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`, might use large amounts of CPU and memory when opened, or rows were deleted. 
 An improvement in Excel 2016 build 16.0.8212.1000 substantially reduces the memory and CPU used in these circumstances.
  
-*My test on a workbook with 6 million formulas using full column references failed with an Out of Memory message at 4 GB of virtual memory with Excel 2013 LAA but only used 2 GB virtual memory with Excel 2016*.
+*My test on a workbook with 6 million formulas using full column references failed with an Out of Memory message at 4 GB of virtual memory with Excel 2013 LAA and with Excel 2010 but only used 2 GB virtual memory with Excel 2016*.
 
 ### Structured References
 In some circumstances editing Excel Tables where formulas in the workbook use Structured References to the Table could be slow with Excel 2013 and previous versions. This led to the perception that Tables should not be used with large numbers of rows.
 Excel 2016 has now fixed this problem. 
 
-*My test showed an editing operation that took 1.9 seconds in Excel 2013 took about 2 milliseconds in Excel 2016.*
+*My test showed an editing operation that took 1.9 seconds in Excel 2013 and Excel 2010 took about 2 milliseconds in Excel 2016.*
 
 For more details see [Why Structured References are Slow in Excel 2013 but fast in Excel 2016](https://fastexcel.wordpress.com/2017/02/19/why-structured-references-are-slow-in-excel-2013-but-fast-in-excel-2016/).
 
@@ -64,31 +64,29 @@ In the past you could see very slow response after pasting a copied column of ce
 This area has been substantially improved in build 16.0.8327.1000
 
 *My test on copy pasting 22000 rows filtered from 44000 rows showed a dramatic improvement:*
-- For a Table the time went from 39 seconds in Excel 2013 to 2 seconds in Excel 2016
-- For a Range the time went from 30 seconds in Excel 2013 to virtually instantaneous in Excel 2016
+- For a Table the time went from 39 seconds in Excel 2013 and 18 seconds in Excel 2010 to 2 seconds in Excel 2016
+- For a Range the time went from 30 seconds in Excel 2013 and 13 seconds in Excel 2010 to virtually instantaneous in Excel 2016
 
 ### Copying Conditional Formats
 In Excel 2013 copy/pasting cells containing conditional formats could be slow.
 This has been significantly improved in Excel 2016 build 16.0.8229.0
 
 *My test on copying 44000 cells with a total of 386000 conditional format rules showed a substantial improvement:*
+- Excel 2010: 70 seconds
 - Excel 2013: 68 seconds
 - Excel 2016: 7 seconds
 
 ### Adding and deleting Worksheets
-My test on Excel 2016 build 16.0.8431.2058 shows a 15-20% speed improvement compared to Excel 2013 when adding and deleting large numbers of worksheets.
+My test on Excel 2016 build 16.0.8431.2058 shows a 15-20% speed improvement compared to Excel 2013 when adding and deleting large numbers of worksheets. However Excel 2016 was 5-10% slower than Excel 2010 on this test.
 
 
 ### New Functions
 
-Excel 2016 build 16.0.7920.1000 introduced sevearl very useful new worksheet functions:
+Excel 2016 build 16.0.7920.1000 introduced several very useful new worksheet functions:
 
 **MAXIFS** and **MINIFS** extend the **COUNTIFS/SUMIFS** family of functions. These functions have good performance characteristics and should be used to replace equivalent array formulas.
-**SWITCH** and **IFS** provide ways of simplifying complex IF statements.
-**TEXTJOIN** and **CONCAT**  let you easily combine text strings from ranges of cells.
 
-### Integrated Power Pivot and Power Query (Get & Transform)
-In Excel 2016 Power Pivot and Power Query (Get and Transform) are fully integrated to Excel rather than being Addins, resulting in improved performance and control.
+**TEXTJOIN** and **CONCAT**  let you easily combine text strings from ranges of cells. These functions can replace the slow VBA UDFs typically used in previous versions.
 
 ### Other Updates to Excel 2016 for Windows
 You can find more details of all the other month-by-month improvements that have been made to Excel 2016 at
