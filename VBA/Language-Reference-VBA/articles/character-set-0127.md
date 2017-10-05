@@ -41,12 +41,15 @@ ms.date: 06/08/2017
 |25||57|9|89|Y|121|y|
 |26||58|:|90|Z|122|z|
 |27||59|;|91|[|123|{|
-|28||60|<|92|\|124|||
+|28||60|<|92|\ |124|\||
 |29||61|=|93|]|125|}|
 |30||62|>|94|^|126|~|
 |31||63|?|95|_|127||
-These characters aren't supported by Microsoft Windows.
 
-* *Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
+<br/>
+
+These characters aren't supported by Windows.
+
+Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
 
 
