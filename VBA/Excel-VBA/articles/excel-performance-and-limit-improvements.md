@@ -12,11 +12,8 @@
 
 [Conclusion](#office2016excelperf_Conclusion)
 
-[About the Author](#xlAboutAuthors)
-
 [Additional Resources](#office2007excelperf_AdditionalResources)
 
-**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) | [About the Author](excel-improving-calcuation-performance.md#xlAboutAuthor)
 
 
 ## Excel 2016 Performance Improvements
@@ -209,19 +206,6 @@ One solution is to use Windows HPC Server 2008 to scale out Excel calculations a
 
 Excel 2016 introduces performance and limitation improvements focussed on increasing Excel's ability to efficiently handle large and complex workbooks. All of these improvements allow Excel to scale along with hardware, improving performance as the CPU and RAM capacity of computers expand.
   
-    
-    
-
-
-## About the Author
-<a name="xlAboutAuthor"> </a>
-
-Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. 
-Charles is the author of [FastExcel](http://www.decisionmodels.com/fastexcel.htm "FastExcel"), the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. 
-For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models](http://www.decisionmodels.com/) website and the [FastExcel Blog](https://fastexcel.wordpress.com/ "FastExcel Blog").
-  
-  
-    
     
 
 ## Additional Resources

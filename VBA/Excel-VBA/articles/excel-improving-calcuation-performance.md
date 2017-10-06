@@ -23,12 +23,9 @@
 
 [Conclusion](#Excelperf_Conclusion)
 
-[About the Author](#xlAboutAuthor)
 
 [Additional Resources](#Excelperf_AdditionalResources)
 
-**Provided by:** ![MVP Contributor](images/mvp_avatar.jpg) Charles Williams,  [Decision Models Limited](http://www.decisionmodels.com/) 
- [About the Author](#xlAboutAuthor)
 
 ## Overview
 <a name="ExcelPerf_Overview"> </a>
@@ -1049,28 +1046,13 @@ Excel enables you to effectively manage much larger worksheets, and it provides 
     
     
 By using a straightforward set of techniques, you can speed up most slow-calculating worksheets by a factor of 10 or 100. You can also apply these techniques as you design and create worksheets to ensure that they calculate quickly.
-  
-    
-    
-
-## About the Author
-<a name="xlAboutAuthor"> </a>
-
-Charles Williams founded Decision Models in 1996 to provide advanced consultancy, decision support solutions, and tools that are based on Microsoft Excel and relational databases. 
-Charles is the author of [FastExcel](http://www.decisionmodels.com/fastexcel.htm "FastExcel"), the widely used Excel performance profiler and performance tool set, and co-author of Name Manager, the popular utility for managing defined names. 
-For more information about Excel calculation performance and methods, memory usage, and VBA user-defined functions, visit the  [Decision Models](http://www.decisionmodels.com/) website and the [FastExcel Blog](https://fastexcel.wordpress.com/ "FastExcel Blog").
-  
- 
-    
-    
+   
 
 ## Additional Resources
 <a name="Excelperf_AdditionalResources"> </a>
 
 For more information about Excel Performance, see the following resources:
   
-    
-    
 
 -  [Excel Performance: Performance and Limit Improvements](excel-performance-and-limit-improvements.md)
     
