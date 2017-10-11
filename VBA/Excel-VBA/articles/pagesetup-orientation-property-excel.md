@@ -27,9 +27,28 @@ Returns or sets a  **[XlPageOrientation](xlpageorientation-enumeration-excel.md)
 
 This example sets Sheet1 to be printed in landscape orientation.
 
-
 ```vb
 Worksheets("Sheet1").PageSetup.Orientation = xlLandscape
+```
+This example sets the currently active sheet to be printed in portrait orientation.
+
+```vb
+ActiveSheet.PageSetup.Orientation = xlPortrait
+```
+
+This procedure switches the orientation to the opposite option.
+
+```vb
+Sub SwitchOrientation()
+    Dim ps As PageSetup
+    Set ps = ActiveSheet.PageSetup
+
+    If ps.Orientation = xlLandscape Then
+        ps.Orientation = xlPortrait
+    Else
+        ps.Orientation = xlLandscape
+    End If
+End Sub
 ```
 
 
