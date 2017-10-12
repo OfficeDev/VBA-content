@@ -32,7 +32,7 @@ Excel will not automatically update the value of `myVariable`, meaning that `myV
 
 ## Situations where you may need to adapt your solution to a coauthoring environment
 
-Because existing add-ins and macros can rely on Excel to seamlessly transmit the changes they make to the workbook to the coauthors, you can usually use your code in this new environment without making any changes or updates. However, in two particular cases, you may need to adapt your code if you want it to work smoothly in a coauthoring setting:
+Because existing add-ins and macros can rely on Excel to seamlessly transmit the changes they make to the workbook to the coauthors, you can usually use your code in this new environment without making any changes or updates. However, in two cases, you may need to adapt your code if you want it to work smoothly in a coauthoring setting:
 
 - [Add-ins that have an internal, in-memory state outside of the workbook content](#StateOfAddins)
 - [Add-ins that leverage events](#UseEvents)
@@ -112,7 +112,7 @@ End Sub
 
 #### Sample scenario: Data consistency
 
-A change event is triggered and your add-in code synchronizes the data in the workbook with data in another part of the workbook or in an external system. If a remote user receives the change that causes the add-in code to synchronize the same data, this can lead to decreased performance for the remote user or data duplication in the external system.
+A change event is triggered, and your add-in code synchronizes the data in the workbook with data in another part of the workbook or in an external system. If a remote user receives the change that causes the add-in code to synchronize the same data, this can lead to decreased performance for the remote user or data duplication in the external system.
 
 ### Potential issues with change events
 
@@ -120,7 +120,7 @@ Although normally you would not want your event handler code to run in response 
 
 #### Sample scenario: Data visualization
 
-Your add-in plots data points on a map based on location data found in a particular range in the workbook. If a user edits any of the location data, all the remote users should receive this change so that each user's map can be updated.
+Your add-in plots data points on a map based on location data found in a range in the workbook. If a user edits any of the location data, all the remote users should receive this change so that each user's map can be updated.
 
 #### Example
 
