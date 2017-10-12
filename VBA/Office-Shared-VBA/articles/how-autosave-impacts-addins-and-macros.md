@@ -84,7 +84,7 @@ If you want validation code to trigger only on the first save from a new documen
 
 ### <a name="Issue3"></a>Issue 3: Code in save events clears the undo stack (Excel only)
 
-In general, if you run certain VBA statements in Excel, the undo stack will be cleared. For example, if you change the value of a cell by running `ActiveCell.Value = "myValue"`, the undo stack is cleared. If such code is present in the **BeforeSave** or **AfterSave** event for a particular macro or add-in, and AutoSave is on, a user of that macro or add-in will frequently not be able to undo normal user actions as expected.
+In general, if you run certain VBA statements in Excel, the undo stack will be cleared. For example, if you change the value of a cell by running `ActiveCell.Value = "myValue"`, the undo stack is cleared. If such code is present in the **BeforeSave** or **AfterSave** event for a macro or add-in, and AutoSave is on, a user of that macro or add-in will frequently not be able to undo normal user actions as expected.
 
 #### Example scenario
 
