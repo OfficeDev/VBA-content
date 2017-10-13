@@ -52,7 +52,8 @@ _expression_ An expression that returns an **Application** object.
 
 ## Remarks
 
-> **Note:** In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking **Details** on the **View** tab on the ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
+> [!NOTE]
+> In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking **Details** on the **View** tab on the ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
 
 The Gantt Chart view cannot be combined with the Team Planner view. Some views, such as the Calendar view, cannot be displayed in a details pane. The **ViewApply** method shows an error message, and then shows error 1004, "An unexpected error occurred with the method."
 
