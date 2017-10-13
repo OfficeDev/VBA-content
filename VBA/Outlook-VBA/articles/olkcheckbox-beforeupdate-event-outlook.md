@@ -27,7 +27,7 @@ _expression_ A variable that represents an **OlkCheckBox** object.
 
 |Name|Required/Optional|Data Type|Description|
 |:-----|:-----|:-----|:-----|
-|_Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the operation will not be completed and the property bound to the control will not be updated.|
+|_Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the operation will not be completed, and the property bound to the control will not be updated.|
 
 <br/>
 
@@ -43,9 +43,9 @@ Canceling this property will revert the control to the current value of the prop
     
 3. Control data is updated.
     
-4.  ** AfterUpdate**
+4.  **AfterUpdate**
     
-5.  **Exit** : User moves focus away from control.
+5.  **Exit**: User moves focus away from control.
     
     
 ## See also
