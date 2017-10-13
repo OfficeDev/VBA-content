@@ -26,8 +26,8 @@ _expression_ A variable that represents an **Application** object.
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**|The task whose field is being changed.|
 | _Field_|Required|**PjField**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the **[PjField constants](#pjfield-constants)**.|
-| _NewVal_|Required|**Variant**|The new value for the field specified with Field.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with Field is not changed.|
+| _NewVal_|Required|**Variant**|The new value for the field specified with _Field_.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with _Field_ is not changed.|
 
 <br/>
 
