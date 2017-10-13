@@ -48,7 +48,9 @@ ms.date: 06/08/2017
 
 <br/>
 
-These characters aren't supported by Windows.
+The values with blanks are characters that aren't supported by Windows.
+
+<!--These characters aren't supported by Windows.-->
 
 Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
 
