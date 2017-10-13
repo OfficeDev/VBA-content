@@ -45,7 +45,7 @@ The Outlook object model provides several approaches to access Outlook propertie
   -  **[Store](store-object-outlook.md)**
     
 
-**Note** Although **ItemProperties** and **UserProperties** support enumerating explicit built-in properties, and **[UserProperties.Find](userproperties-find-method-outlook.md)** supports searching for explicit built-in properties, use these objects primarily for custom properties of item objects. Use the **PropertyAccessor** object to access properties of non-item objects, or item-level properties that are not explicitly exposed in the Outlook object model.
+> **Note:** Although **ItemProperties** and **UserProperties** support enumerating explicit built-in properties, and **[UserProperties.Find](userproperties-find-method-outlook.md)** supports searching for explicit built-in properties, use these objects primarily for custom properties of item objects. Use the **PropertyAccessor** object to access properties of non-item objects, or item-level properties that are not explicitly exposed in the Outlook object model.
 
 The following table shows when to use which entry points.
 
