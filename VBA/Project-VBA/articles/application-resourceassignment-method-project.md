@@ -58,7 +58,7 @@ Sub RequestAssignment()
 End Sub
 ```
 
-**Note** When using the _Resources_ parameter in this way, **D** specifies "Demand," **R** specifies "Request," and **N** specifies "None." In addition, spaces are not allowed between the units value and the Request/Demand value. For example, `Resources:="100%,R"` works, but `Resources:="100%, R"` does not.
+> **Note:** When using the _Resources_ parameter in this way, **D** specifies "Demand," **R** specifies "Request," and **N** specifies "None." In addition, spaces are not allowed between the units value and the Request/Demand value. For example, `Resources:="100%,R"` works, but `Resources:="100%, R"` does not.
 
 The Resource Substitution Wizard cannot substitute material resources. Therefore, you cannot request or demand a material resource for a particular assignment by using the _Resources_ parameter.
 
