@@ -60,7 +60,7 @@ _expression_ An expression that returns an **Application** object.
 
 To turn the AutoFilter feature on or off, see the **[AutoFilter](application-autofilter-method-project.md)** method.
 
-**Note**  A column name in a sheet view can have a different title than the name of the field it shows.
+> **Note:**  A column name in a sheet view can have a different title than the name of the field it shows.
 
 
 ## Example
