@@ -36,7 +36,7 @@ _expression_ A variable that represents an **Application** object.
 | _Table_|Optional|**Variant**|The name of the table containing resource or task information for a project saved in a non-Project file format. The _Map_ argument should be used in place of _Table_, which is included for backward compatibility. If _Map_ is specified, or _Name_ specifies a project file format, _Table_ is ignored. The default value is the name of the active table.|
 | _UserID_|Optional|**String**|Not used. Project can open a project file that an earlier version of Project saved to an ODBC database, but cannot save to a database.|
 | _DatabasePassWord_|Optional|**String**|Not used. Project cannot save to an ODBC database.|
-| _FormatID_|Optional|**String**|Specifies the file format to use. If Project recognizes the format of the file specified by _Name_,  _FormatID_ is ignored. _FormatID_ can be one of the [following values](#format-strings) for saving files.|
+| _FormatID_|Optional|**String**|Specifies the file format to use. If Project recognizes the format of the file specified by _Name_,  _FormatID_ is ignored. _FormatID_ can be one of the [following format string values](#format-strings) for saving files.|
 | _Map_|Optional|**String**|The name of the import/export map to use when exporting data.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If _Password_ is incorrect or omitted and a file requires a password, the user is prompted for the password.|
 | _WriteResPassword_|Optional|**String**|A password to use when writing to a write-reserved project file. If _WriteResPassword_ is omitted and the file requires a password, the user is prompted for the password.|
@@ -75,6 +75,6 @@ _expression_ A variable that represents an **Application** object.
 
 Using the value "MSProject.mpp.9" for the _FormatID_ parameter causes Project to show the **Saving to Previous Version - Compatibility Checker** dialog box. For example, manually scheduled tasks will be converted to automatically scheduled tasks in previous Project versions. You can choose to keep the format or cancel the save operation. You can also select **Don't tell me about this again**.
 
-**Note** Several _FormatID_ strings are obsolete; if you try to use them, they result in run-time error 1004. _FormatID_ values such as "MSProject.odbc" can be used in Project 2003 and earlier versions but are removed in Project 2007 and later versions.
+> **Note:** Several _FormatID_ strings are obsolete; if you try to use them, they result in run-time error 1004. _FormatID_ values such as "MSProject.odbc" can be used in Project 2003 and earlier versions but are removed in Project 2007 and later versions.
 
 
