@@ -75,6 +75,7 @@ _expression_ A variable that represents an **Application** object.
 
 Using the value "MSProject.mpp.9" for the _FormatID_ parameter causes Project to show the **Saving to Previous Version - Compatibility Checker** dialog box. For example, manually scheduled tasks will be converted to automatically scheduled tasks in previous Project versions. You can choose to keep the format or cancel the save operation. You can also select **Don't tell me about this again**.
 
-> **Note:** Several _FormatID_ strings are obsolete; if you try to use them, they result in run-time error 1004. _FormatID_ values such as "MSProject.odbc" can be used in Project 2003 and earlier versions but are removed in Project 2007 and later versions.
+> [!NOTE]
+> Several _FormatID_ strings are obsolete; if you try to use them, they result in run-time error 1004. _FormatID_ values such as "MSProject.odbc" can be used in Project 2003 and earlier versions but are removed in Project 2007 and later versions.
 
 
