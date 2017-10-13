@@ -234,8 +234,6 @@ The 32-bit versions of Excel 2013 and Excel 2016 that use the Large Address Awar
 
 A rough guideline for efficient calculation is to have enough RAM to hold the largest set of workbooks that you need to have open at the same time, plus 1 to 2 GB for Excel and the operating system, plus additional RAM for any other running applications. 
 
-For more information, see the "Large data sets, LAA, and 64-bit Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
-
 ### Measuring calculation time
 
 To make workbooks calculate faster, you must be able to accurately measure calculation time. You need a timer that is faster and more accurate than the VBA **Time** function. The **MICROTIMER()** function shown in the following code example uses Windows API calls to the system high-resolution timer. It can measure time intervals down to small numbers of microseconds. Be aware that because Windows is a multitasking operating system, and because the second time that you calculate something, it may be faster than the first time, the times that you get usually do not repeat exactly. To achieve the best accuracy, measure time calculation tasks several times and average the results.
