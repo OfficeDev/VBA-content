@@ -1,0 +1,37 @@
+- name: Office VBA Reference
+  tocHref: /VBA/
+  topicHref: /VBA/Office-VBA-Reference
+  items:
+    - name: Access VBA
+      tocHref: /VBA/Access-VBA/articles/
+      topicHref: /VBA/VBA-access
+    - name: Excel VBA
+      tocHref: /VBA/Excel-VBA/articles/
+      topicHref: /VBA/VBA-Excel
+    - name: Language Reference VBA
+      tocHref: /VBA/Language-Reference-VBA/articles/
+      topicHref: /VBA/VBA-Language-Reference
+    - name: Office for Mac VBA
+      tocHref: /VBA/Office-Mac-VBA/
+      topicHref: /VBA/VBA-Office-Mac
+    - name: Office VBA Object Library reference
+      tocHref: /VBA/Office-Shared-VBA/articles/
+      topicHref: /VBA/VBA-Library-Reference
+    - name: Outlook VBA
+      tocHref: /VBA/Outlook-VBA/articles/
+      topicHref: /VBA/VBA-Outlook
+    - name: PowerPoint VBA
+      tocHref: /VBA/PowerPoint-VBA/articles/
+      topicHref: /VBA/VBA-PowerPoint
+    - name: Project VBA
+      tocHref: /VBA/Project-VBA/articles/
+      topicHref: /VBA/VBA-Project
+    - name: Publisher VBA
+      tocHref: /VBA/Publisher-VBA/articles/
+      topicHref: /VBA/VBA-Publisher
+    - name: Visio VBA
+      tocHref: /VBA/Visio-VBA/articles/
+      topicHref: /VBA/VBA-Visio
+    - name: Word VBA
+      tocHref: /VBA/Word-VBA/articles/
+      topicHref: /VBA/VBA-Word
