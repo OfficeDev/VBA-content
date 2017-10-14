@@ -33,11 +33,11 @@ String
 
 ## Remarks
 
-The command string of a data recordset specifies the database table or Microsoft Excel worksheet and the columns within the table or worksheet that contain the data you want to query. The command string is also passed to the  **[DataRecordset.Refresh](datarecordset-refresh-method-visio.md)** method when the data in the data recordset is refreshed.
+The command string of a data recordset specifies the database table or Microsoft Excel worksheet and the columns within the table or worksheet that contain the data you want to query. The command string is also passed to the **[DataRecordset.Refresh](datarecordset-refresh-method-visio.md)** method when the data in the data recordset is refreshed.
 
-Setting the  **CommandString** property to a new value has no effect on data already in the data recordset. To update the data in a data recordset using a new **CommandString** setting, call the **Refresh** method.
+Setting the **CommandString** property to a new value has no effect on data already in the data recordset. To update the data in a data recordset using a new **CommandString** setting, call the **Refresh** method.
 
-The  **CommandString** property does not apply to data recordsets created by using the **[AddFromXML](datarecordsets-addfromxml-method-visio.md)** method.
+The **CommandString** property does not apply to data recordsets created by using the **[AddFromXML](datarecordsets-addfromxml-method-visio.md)** method.
 
 The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1:  `"SELECT * FROM [Sheet1$]"`.
 

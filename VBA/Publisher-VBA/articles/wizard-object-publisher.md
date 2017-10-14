@@ -19,7 +19,7 @@ Represents the publication design associated with a publication or the wizard as
 
 ## Example
 
-Use the  **[Wizard](document-wizard-property-publisher.md)** property of a **Document**, **Page**, **Shape** or **ShapeRange** object to return a **Wizard** object. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
+Use the **[Wizard](document-wizard-property-publisher.md)** property of a **Document**, **Page**, **Shape** or **ShapeRange** object to return a **Wizard** object. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
  
 
  

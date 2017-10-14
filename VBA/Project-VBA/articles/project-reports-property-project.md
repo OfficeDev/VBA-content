@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Project.Reports Property (Project)
-Gets the collection of custom reports in the project. Read-only  **Reports**.
+Gets the collection of custom reports in the project. Read-only **Reports**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the collection of custom reports in the project. Read-only  **Reports**.
 
 ## Example
 
-The  **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**,  **Critical Tasks**, or  **Milestone Report**. Use the  **Project.Reports** property to get the **Reports** collection object, as in the following example:
+The **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**, **Critical Tasks**, or **Milestone Report**. Use the **Project.Reports** property to get the **Reports** collection object, as in the following example:
 
 
 ```vb

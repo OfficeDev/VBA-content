@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Axes.Item Method (Word)
 
-Returns a single  **[Axis](axis-object-word.md)** object from an **Axes** collection.
+Returns a single **[Axis](axis-object-word.md)** object from an **Axes** collection.
 
 
 ## Syntax

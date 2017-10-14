@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the **[Store](store-object-outlook.md)** object. Read-only.
+Returns a **String** representing the display name of the **[Store](store-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

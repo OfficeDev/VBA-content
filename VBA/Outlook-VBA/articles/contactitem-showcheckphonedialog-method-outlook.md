@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ShowCheckPhoneDialog Method (Outlook)
 
-Displays the  **Check Phone Number** dialog box for a specified telephone number contained by a **[ContactItem](contactitem-object-outlook.md)** object.
+Displays the **Check Phone Number** dialog box for a specified telephone number contained by a **[ContactItem](contactitem-object-outlook.md)** object.
 
 
 ## Syntax

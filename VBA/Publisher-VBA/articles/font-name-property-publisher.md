@@ -20,7 +20,7 @@ Indicates the name of the specified font. Read/write.
 
  _expression_. **Name**
 
- _expression_An expression that returns a  **Font** object.
+ _expression_An expression that returns a **Font** object.
 
 
 ### Return Value

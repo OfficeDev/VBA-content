@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the shortcut (right-click) menu is e
 
  _expression_. **ContextMenuEnabled**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -29,7 +29,7 @@ Gets or sets a value that indicates whether the shortcut (right-click) menu is e
 
 The default is for the shortcut menu to be enabled ( **True**).
 
-If the  **ContextMenuEnabled** property is set to **False**, there is no way for the user to access that menu. However, all of the commands on the menu are available on the toolbar.
+If the **ContextMenuEnabled** property is set to **False**, there is no way for the user to access that menu. However, all of the commands on the menu are available on the toolbar.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.StatusManagerName Property (Project)
 
-Gets or sets the GUID of the enterprise resource responsible for accepting or rejecting assignment progress updates for the task. Read/write  **String**.
+Gets or sets the GUID of the enterprise resource responsible for accepting or rejecting assignment progress updates for the task. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the GUID of the enterprise resource responsible for accepting or re
 
 ## Remarks
 
-The  **StatusManagerName** property is available only in Project Professional. **StatusManagerName** is an empty string for tasks in local projects.
+The **StatusManagerName** property is available only in Project Professional. **StatusManagerName** is an empty string for tasks in local projects.
 
 

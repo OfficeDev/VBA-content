@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Projects.Add Method (Project)
 
-Adds a  **Project** object to a **Projects** collection.
+Adds a **Project** object to a **Projects** collection.
 
 
 ## Syntax

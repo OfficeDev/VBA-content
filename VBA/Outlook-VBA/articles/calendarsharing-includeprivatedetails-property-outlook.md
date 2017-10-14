@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.IncludePrivateDetails Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether private details for calendar items should be included in the iCalendar (.ics) file created by the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** or **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** methods of the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether private details for calendar items should be included in the iCalendar (.ics) file created by the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** or **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** methods of the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns or sets a  **Boolean** value that indicates whether private details for 
 
 ## Remarks
 
-This property must be set to  **false** if the **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** .
+This property must be set to **false** if the **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** .
 
 
 ## See also

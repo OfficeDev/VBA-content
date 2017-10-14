@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Selection Property (Word)
 
-Returns the  **[Selection](selection-object-word.md)** object that represents a selected range or the insertion point. Read-only.
+Returns the **[Selection](selection-object-word.md)** object that represents a selected range or the insertion point. Read-only.
 
 
 ## Syntax

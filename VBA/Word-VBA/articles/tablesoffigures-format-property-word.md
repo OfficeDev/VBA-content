@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfFigures.Format Property (Word)
 
-Returns or sets the formatting for the tables of figures in the specified document. Read/write  **WdTofFormat** .
+Returns or sets the formatting for the tables of figures in the specified document. Read/write **WdTofFormat** .
 
 
 ## Syntax

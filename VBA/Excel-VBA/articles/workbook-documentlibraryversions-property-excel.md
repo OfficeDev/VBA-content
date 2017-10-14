@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DocumentLibraryVersions Property (Excel)
 
-Returns a  **[DocumentLibraryVersions](http://msdn.microsoft.com/library/075c0315-fade-6d45-9ab9-6c798f6f09ac%28Office.15%29.aspx)** collection that represents the collection of versions of a shared workbook that has versioning enabled and that is stored in a document library on a server.
+Returns a **[DocumentLibraryVersions](http://msdn.microsoft.com/library/075c0315-fade-6d45-9ab9-6c798f6f09ac%28Office.15%29.aspx)** collection that represents the collection of versions of a shared workbook that has versioning enabled and that is stored in a document library on a server.
 
 
 ## Syntax

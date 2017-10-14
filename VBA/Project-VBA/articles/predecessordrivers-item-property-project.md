@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PredecessorDrivers.Item Property (Project)
 
-Gets a single  **TaskDependency** object from a **PredecessorDrivers** collection. Read-only **TaskDependency**.
+Gets a single **TaskDependency** object from a **PredecessorDrivers** collection. Read-only **TaskDependency**.
 
 
 ## Syntax

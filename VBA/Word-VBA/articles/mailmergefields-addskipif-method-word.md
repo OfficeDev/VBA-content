@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeFields.AddSkipIf Method (Word)
 
-Adds a SKIPIF field to a mail merge main document. Returns a  **MailMergeField** object. .
+Adds a SKIPIF field to a mail merge main document. Returns a **MailMergeField** object. .
 
 
 ## Syntax

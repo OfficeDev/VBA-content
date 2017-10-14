@@ -30,9 +30,9 @@ MsoSegmentType
 
 ## Remarks
 
-This property is read-only. Use the  **[SetSegmentType](shapenodes-setsegmenttype-method-powerpoint.md)** method to set the value of this property.
+This property is read-only. Use the **[SetSegmentType](shapenodes-setsegmenttype-method-powerpoint.md)** method to set the value of this property.
 
-The value returned by the  **SegmentType** property can be one of these **MsoSegmentType** constants. The **SegmentType** property returns **msoSegmentCurve** if the specified node is a control point for a curved segment.
+The value returned by the **SegmentType** property can be one of these **MsoSegmentType** constants. The **SegmentType** property returns **msoSegmentCurve** if the specified node is a control point for a curved segment.
 
 
 ||

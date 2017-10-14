@@ -30,7 +30,7 @@ PpWindowState
 
 ## Remarks
 
-The value of the  **WindowState** property can be one of these **PpWindowState** constants.
+The value of the **WindowState** property can be one of these **PpWindowState** constants.
 
 
 ||
@@ -38,12 +38,12 @@ The value of the  **WindowState** property can be one of these **PpWindowState**
 |**ppWindowMaximized**|
 |**ppWindowMinimized**|
 |**ppWindowNormal**|
-When the state of the window is  **ppWindowNormal**, the window is neither maximized nor minimized.
+When the state of the window is **ppWindowNormal**, the window is neither maximized nor minimized.
 
 
 ## Example
 
-This example maximizes the first member of the  **DocumentWindows** collection.
+This example maximizes the first member of the **DocumentWindows** collection.
 
 
 ```

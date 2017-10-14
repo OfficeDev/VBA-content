@@ -18,9 +18,9 @@ Builds a freeform object. Returns a  [FreeformBuilder](freeformbuilder-object-pu
 
 ## Syntax
 
- _expression_. **BuildFreeform**( **_EditingType_**,  **_X1_**,  **_Y1_**)
+ _expression_. **BuildFreeform**( **_EditingType_**, **_X1_**, **_Y1_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -40,7 +40,7 @@ FreeformBuilder
 
 ## Remarks
 
-The EditingType parameter can be one of the following  **MsoEditingType** constants declared in the Microsoft Office type library.
+The EditingType parameter can be one of the following **MsoEditingType** constants declared in the Microsoft Office type library.
 
 
 
@@ -53,7 +53,7 @@ For the X1 and Y1 arguments, numeric values are evaluated in points; strings can
 
 
 
-Use the  **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the  [ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)method to convert the  **FreeformBuilder** object into a **Shape** object that has the geometric description you've defined in the **FreeformBuilder** object.
+Use the **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the  [ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)method to convert the **FreeformBuilder** object into a **Shape** object that has the geometric description you've defined in the **FreeformBuilder** object.
 
 
 

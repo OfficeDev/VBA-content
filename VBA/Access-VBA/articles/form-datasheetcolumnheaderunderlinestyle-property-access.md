@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetColumnHeaderUnderlineStyle Property (Access)
 
-Returns or sets a  **Byte** indicating the line style to use for the bottom edge of the column headers on the specified datasheet. Read/write.
+Returns or sets a **Byte** indicating the line style to use for the bottom edge of the column headers on the specified datasheet. Read/write.
 
 
 ## Syntax

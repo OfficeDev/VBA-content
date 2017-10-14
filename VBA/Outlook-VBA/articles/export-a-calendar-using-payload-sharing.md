@@ -8,30 +8,30 @@ ms.date: 06/08/2017
 
 # Export a Calendar using Payload Sharing
 
-Microsoft Outlook includes the ability to share calendar information with other users by using an iCalendar (.ics) file attached to a  **[MailItem](mailitem-object-outlook.md)**. The  **[CalendarSharing](calendarsharing-object-outlook.md)** object is used to both generate the iCalendar file from a folder containing calendar items and to generate the **MailItem** to which the iCalendar file is attached.
+Microsoft Outlook includes the ability to share calendar information with other users by using an iCalendar (.ics) file attached to a **[MailItem](mailitem-object-outlook.md)**. The **[CalendarSharing](calendarsharing-object-outlook.md)** object is used to both generate the iCalendar file from a folder containing calendar items and to generate the **MailItem** to which the iCalendar file is attached.
 
-This sample uses the  **CalendarSharing** item to share free/busy information for the next seven days with a single recipient:
+This sample uses the **CalendarSharing** item to share free/busy information for the next seven days with a single recipient:
 
-1. The sample obtains a  **[Folder](folder-object-outlook.md)** object reference for the **Calendar** default folder for the current user, by using the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object.
+1. The sample obtains a **[Folder](folder-object-outlook.md)** object reference for the **Calendar** default folder for the current user, by using the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object.
     
-2. It uses the  **[GetCalendarExporter](folder-getcalendarexporter-method-outlook.md)** method of the **Folder** object to create a **CalendarSharing** object reference for the folder.
+2. It uses the **[GetCalendarExporter](folder-getcalendarexporter-method-outlook.md)** method of the **Folder** object to create a **CalendarSharing** object reference for the folder.
     
-3. It then sets the following properties on the  **CalendarSharing** object to restrict the range and level of information exported by the object:
+3. It then sets the following properties on the **CalendarSharing** object to restrict the range and level of information exported by the object:
     
 4. 
-      - The  **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)** property is set to limit the information for each calendar item to free/busy information only.
+      - The **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)** property is set to limit the information for each calendar item to free/busy information only.
     
-  - The  **[StartDate](calendarsharing-startdate-property-outlook.md)** and **[EndDate](calendarsharing-enddate-property-outlook.md)** properties are set to restrict the calendar items included in the file to the next seven days.
+  - The **[StartDate](calendarsharing-startdate-property-outlook.md)** and **[EndDate](calendarsharing-enddate-property-outlook.md)** properties are set to restrict the calendar items included in the file to the next seven days.
     
-  - The  **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)** property is set to restrict the calendar items to those that fall within working hours.
+  - The **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)** property is set to restrict the calendar items to those that fall within working hours.
     
-  - The  **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)** property is set to exclude any attachments for calendar items exported by the object.
+  - The **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)** property is set to exclude any attachments for calendar items exported by the object.
     
-  - The  **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)** property is set to exclude the details of any private calendar items exported by the object.
+  - The **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)** property is set to exclude the details of any private calendar items exported by the object.
     
-5. It then calles the  **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method of the **CalendarSharing** object to export the calendar items to an iCalendar file and create a **MailItem** object with the iCalendar file as an attachment. The **olCalendarMailFormatDailySchedule** constant of the **[olCalendarMailFormat](olcalendarmailformat-enumeration-outlook.md)** enumeration is used with the **ForwardAsICal** method to indicate that the body of the **MailItem** should contain, in HTML format, free/busy information for the next seven days.
+5. It then calles the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method of the **CalendarSharing** object to export the calendar items to an iCalendar file and create a **MailItem** object with the iCalendar file as an attachment. The **olCalendarMailFormatDailySchedule** constant of the **[olCalendarMailFormat](olcalendarmailformat-enumeration-outlook.md)** enumeration is used with the **ForwardAsICal** method to indicate that the body of the **MailItem** should contain, in HTML format, free/busy information for the next seven days.
     
-6. Finally, the  **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **MailItem** object is called to add the specified recipient and the **[Send](mailitem-send-method-outlook.md)** method is used to send the **MailItem**.
+6. Finally, the **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **MailItem** object is called to add the specified recipient and the **[Send](mailitem-send-method-outlook.md)** method is used to send the **MailItem**.
     
 
 

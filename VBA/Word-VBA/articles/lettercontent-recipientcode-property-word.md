@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientCode Property (Word)
 
-Returns or sets the recipient code. Read/write  **String** .
+Returns or sets the recipient code. Read/write **String** .
 
 
 ## Syntax

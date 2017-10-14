@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HTMLDivisions.Add Method (Word)
 
-Returns an  **HTMLDivision** object that represents a new HTML division added to a Web document.
+Returns an **HTMLDivision** object that represents a new HTML division added to a Web document.
 
 
 ## Syntax

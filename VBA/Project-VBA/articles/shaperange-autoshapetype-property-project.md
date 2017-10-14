@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.AutoShapeType Property (Project)
-Gets or sets the shape type for the  **ShapeRange** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **MsoAutoShapeType**.
+Gets or sets the shape type for the **ShapeRange** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **MsoAutoShapeType**.
 
 ## Syntax
 

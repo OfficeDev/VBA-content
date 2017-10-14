@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.ActualOvertimeCost Property (Project)
 
-Gets the actual overtime cost for a resource. Read-only  **Variant**.
+Gets the actual overtime cost for a resource. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the actual overtime cost for a resource. Read-only  **Variant**.
 
 ## Remarks
 
-The  **ActualOvertimeCost** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **ActualOvertimeCost** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
 

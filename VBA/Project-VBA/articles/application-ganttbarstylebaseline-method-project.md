@@ -30,7 +30,7 @@ Shows or hides the specified baseline on Gantt bars of the active view.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Baseline_|Required|**Integer**|Specifies the baseline number. Valid values are 0 through 10.|
-| _Show_|Required|**Boolean**|If  **True**, show the baseline. If **False**, hide the baseline.|
+| _Show_|Required|**Boolean**|If **True**, show the baseline. If **False**, hide the baseline.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Shows or hides the specified baseline on Gantt bars of the active view.
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleBaseline** method corresponds to the **Baseline** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleBaseline** method corresponds to the **Baseline** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 
 ## Example

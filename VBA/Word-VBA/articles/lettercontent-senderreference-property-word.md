@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SenderReference Property (Word)
 
-Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
+Not used in the U.S. English version of Microsoft Word. Read/write **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CustomViews Property (Excel)
 
-Returns a  **[CustomViews](customviews-object-excel.md)** collection that represents all the custom views for the workbook.
+Returns a **[CustomViews](customviews-object-excel.md)** collection that represents all the custom views for the workbook.
 
 
 ## Syntax

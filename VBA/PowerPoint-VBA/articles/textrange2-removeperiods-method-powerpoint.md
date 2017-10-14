@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.RemovePeriods Method (PowerPoint)
 
-Removes all period (.) punctuation from the text in the  **TextRange2** object.
+Removes all period (.) punctuation from the text in the **TextRange2** object.
 
 
 ## Syntax

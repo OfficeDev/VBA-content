@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DFirst Method (Access)
 
-You can use the  **DFirst** function to return a random record from a particular field in a table or query when you simply need any value from that field.
+You can use the **DFirst** function to return a random record from a particular field in a table or query when you simply need any value from that field.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ You can use the  **DFirst** function to return a random record from a particular
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a [calculation on data in that field](calculate-fields-in-domain-aggregate-functions.md). In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain.|
-| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DFirst** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DFirst** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the  **DFirst** function returns a **Null**.|
+| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the **DFirst** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DFirst** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the **DFirst** function returns a **Null**.|
 
 ### Return Value
 
@@ -50,7 +50,7 @@ Variant
 
 
 
-The following examples show how to use various types of criteria with the  **DFirst** function.
+The following examples show how to use various types of criteria with the **DFirst** function.
 
  **Sample code provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.BeforeSize Event (Outlook)
 
-Occurs when the user sizes the current  **[Explorer](explorer-object-outlook.md)** .
+Occurs when the user sizes the current **[Explorer](explorer-object-outlook.md)** .
 
 
 ## Syntax
@@ -38,7 +38,7 @@ This event can be cancelled after it has started. If the event is cancelled, the
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before the Inspector is sized. If the user clicks  **Yes**, the inspector can be sized. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before the Inspector is sized. If the user clicks **Yes**, the inspector can be sized. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

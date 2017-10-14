@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConditionalStyle.ParagraphFormat Property (Word)
 
-Returns or sets a  **[ParagraphFormat](paragraphformat-object-word.md)** object that represents the paragraph settings for the specified conditional style. Read/write.
+Returns or sets a **[ParagraphFormat](paragraphformat-object-word.md)** object that represents the paragraph settings for the specified conditional style. Read/write.
 
 
 ## Syntax

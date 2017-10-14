@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecification.Description Property (Access)
 
-Gets or sets a  **String** that describes the specified **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write.
+Gets or sets a **String** that describes the specified **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets a  **String** that describes the specified **[ImportExportSpecifica
 
 ## Remarks
 
-The maximum number of characters that can be used for the  **Description** property is 255.
+The maximum number of characters that can be used for the **Description** property is 255.
 
 
 ## See also

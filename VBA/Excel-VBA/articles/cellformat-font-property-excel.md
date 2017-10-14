@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.Font Property (Excel)
 
-Returns a  **[Font](font-object-excel.md)** object, allowing the user to set or return the search criteria based on the cell's font format.
+Returns a **[Font](font-object-excel.md)** object, allowing the user to set or return the search criteria based on the cell's font format.
 
 
 ## Syntax

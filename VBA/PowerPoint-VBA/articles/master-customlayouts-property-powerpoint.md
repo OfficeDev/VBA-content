@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.CustomLayouts Property (PowerPoint)
 
-Returns a  **[CustomLayouts](customlayouts-object-powerpoint.md)** object that represents the custom layouts associated with the presentation design of the specified **[Master](master-object-powerpoint.md)** object. Read-only.
+Returns a **[CustomLayouts](customlayouts-object-powerpoint.md)** object that represents the custom layouts associated with the presentation design of the specified **[Master](master-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax

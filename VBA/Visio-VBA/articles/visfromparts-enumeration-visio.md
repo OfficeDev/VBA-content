@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # VisFromParts Enumeration (Visio)
 
-Codes returned by the  **Connect.FromPart** property.
+Codes returned by the **Connect.FromPart** property.
 
 
- **Note**  The  **visControlPoint** value is actually 100 plus the zero-based row index. For example, if the control point is in row 0, **visControlPoint** equals 100; if the control point is in row 1, **visControlPoint** equals 101.
+ **Note**  The **visControlPoint** value is actually 100 plus the zero-based row index. For example, if the control point is in row 0, **visControlPoint** equals 100; if the control point is in row 1, **visControlPoint** equals 101.
 
 
 ## Remarks
 
-The  **VisFromParts** return codes indicate the part of a shape from which a connection originates.
+The **VisFromParts** return codes indicate the part of a shape from which a connection originates.
 
 
 

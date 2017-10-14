@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.Position Property (Excel)
 
-Returns or sets a  **[XlDataLabelPosition](xldatalabelposition-enumeration-excel.md)** value that represents the position of the data label.
+Returns or sets a **[XlDataLabelPosition](xldatalabelposition-enumeration-excel.md)** value that represents the position of the data label.
 
 
 ## Syntax

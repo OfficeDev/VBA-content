@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObjects.Item Method (Outlook)
 
-Returns a  **[SyncObject](syncobject-object-outlook.md)** object from the collection.
+Returns a **[SyncObject](syncobject-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **[SyncObject](syncobject-object-outlook.md)** object from the collec
 
 ### Return Value
 
-A  **SyncObject** object that represents the specified object.
+A **SyncObject** object that represents the specified object.
 
 
 ## See also

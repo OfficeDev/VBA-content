@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.SharedWorkspace Property (Project)
 
-Gets a  **SharedWorkspace** object that represents the document workspace for the project. Read-only **SharedWorkspace**.
+Gets a **SharedWorkspace** object that represents the document workspace for the project. Read-only **SharedWorkspace**.
 
 
 ## Syntax

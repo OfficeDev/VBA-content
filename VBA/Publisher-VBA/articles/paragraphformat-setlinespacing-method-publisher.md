@@ -18,9 +18,9 @@ Formats the line spacing of specified paragraphs.
 
 ## Syntax
 
- _expression_. **SetLineSpacing**( **_Rule_**,  **_Spacing_**)
+ _expression_. **SetLineSpacing**( **_Rule_**, **_Spacing_**)
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Formats the line spacing of specified paragraphs.
 
 ## Remarks
 
-The Rule parameter can be one of the  **PbLineSpacingRule** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Rule parameter can be one of the **PbLineSpacingRule** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

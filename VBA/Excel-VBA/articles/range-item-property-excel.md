@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Item Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents a range at an offset to the specified range.
+Returns a **[Range](range-object-excel.md)** object that represents a range at an offset to the specified range.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents a range at 
 
 ## Remarks
 
-Syntax 1 uses a row number and a column number or letter as index arguments. For more information about this syntax, see the  **[Range](range-object-excel.md)** object. The **RowIndex** and **ColumnIndex** arguments are relative offsets. In other words, specifying a **RowIndex** of 1 returns cells in the first row of the range, not the first row of the worksheet. For example, if the selection is cell C3, `Selection.Cells(2, 2)` returns cell D4 (you can use the **Item** property to index outside the original range).
+Syntax 1 uses a row number and a column number or letter as index arguments. For more information about this syntax, see the **[Range](range-object-excel.md)** object. The **RowIndex** and **ColumnIndex** arguments are relative offsets. In other words, specifying a **RowIndex** of 1 returns cells in the first row of the range, not the first row of the worksheet. For example, if the selection is cell C3, `Selection.Cells(2, 2)` returns cell D4 (you can use the **Item** property to index outside the original range).
 
 
 ## Example

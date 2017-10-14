@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToOrFromRuleCondition Object (Outlook)
 
-Represents a rule condition that the sender or the recipeints of the message, as specified by  **[ToOrFromRuleCondition.ConditionType](toorfromrulecondition-conditiontype-property-outlook.md)**, is in the recipients list specified in **[ToOrFromRuleCondition.Recipients](toorfromrulecondition-recipients-property-outlook.md)**.
+Represents a rule condition that the sender or the recipeints of the message, as specified by **[ToOrFromRuleCondition.ConditionType](toorfromrulecondition-conditiontype-property-outlook.md)**, is in the recipients list specified in **[ToOrFromRuleCondition.Recipients](toorfromrulecondition-recipients-property-outlook.md)**.
 
 
 ## Remarks

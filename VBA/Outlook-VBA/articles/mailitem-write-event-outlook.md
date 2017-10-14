@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MailItem.Write Event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](mailitem-save-method-outlook.md)** or **[SaveAs](mailitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the **[Save](mailitem-save-method-outlook.md)** or **[SaveAs](mailitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the save operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False** , the save operation is not completed.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Write** event and warns the user that the item is about to be saved and will overwrite any existing item and, depending on the user's response, either allows the operation to continue or stops it. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine must be called before the event procedure can be called by Outlook.
+This Visual Basic for Applications (VBA) example uses the **Write** event and warns the user that the item is about to be saved and will overwrite any existing item and, depending on the user's response, either allows the operation to continue or stops it. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine must be called before the event procedure can be called by Outlook.
 
 
 ```vb

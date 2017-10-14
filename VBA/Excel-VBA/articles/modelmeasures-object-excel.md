@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasures Object (Excel)
 
-Represents: a collection of  **ModelMeasure** objects.
+Represents: a collection of **ModelMeasure** objects.
 
 
 ## Remarks

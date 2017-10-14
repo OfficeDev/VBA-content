@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConditionalStyle.Shading Property (Word)
 
-Returns a  **Shading** object that represents the shading formatting for the style formatting of a table.
+Returns a **Shading** object that represents the shading formatting for the style formatting of a table.
 
 
 ## Syntax

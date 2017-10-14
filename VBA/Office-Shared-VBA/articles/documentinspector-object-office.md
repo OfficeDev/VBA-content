@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspector Object (Office)
 
-Represents a Document Inspector module in a  **[DocumentInspectors](documentinspectors-object-office.md)** collection.
+Represents a Document Inspector module in a **[DocumentInspectors](documentinspectors-object-office.md)** collection.
 
 
 ## Remarks

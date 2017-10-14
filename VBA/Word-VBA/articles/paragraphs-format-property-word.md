@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.Format Property (Word)
 
-Returns or sets a  **[ParagraphFormat](paragraphformat-object-word.md)** object that represents the formatting of the specified paragraph or paragraphs.
+Returns or sets a **[ParagraphFormat](paragraphformat-object-word.md)** object that represents the formatting of the specified paragraph or paragraphs.
 
 
 ## Syntax

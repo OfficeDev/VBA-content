@@ -18,7 +18,7 @@ Represents the placement of fields in a PivotChart report.
 
 ## Example
 
-Use the  **[PivotLayout](chart-pivotlayout-property-excel.md)** property to return a **PivotLayout** object. The following example creates a list of PivotTable field names used in the first PivotChart report.
+Use the **[PivotLayout](chart-pivotlayout-property-excel.md)** property to return a **PivotLayout** object. The following example creates a list of PivotTable field names used in the first PivotChart report.
 
 
 ```vb

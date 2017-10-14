@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SizeRepresents Property (PowerPoint)
 
-Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long**.
+Returns or sets what the bubble size represents on a bubble chart. Read/write **Long**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write  *
 
 ## Remarks
 
-This property can be either of the following  **[XlSizeRepresents](xlsizerepresents-enumeration-powerpoint.md)** constants:
+This property can be either of the following **[XlSizeRepresents](xlsizerepresents-enumeration-powerpoint.md)** constants:
 
 
--  **xlSizeIsArea**
+- **xlSizeIsArea**
     
--  **xlSizeIsWidth**
+- **xlSizeIsWidth**
     
 
 

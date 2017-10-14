@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Code Window Keyboard Shortcuts
 
-You can use the following shortcut keys to access commands in the  **Code** window.
+You can use the following shortcut keys to access commands in the **Code** window.
 
 
 
 |**Description**|**Shortcut Keys**|
 |:-----|:-----|
-|View  **Code** window|F7|
+|View **Code** window|F7|
 |View [Object Browser](vbe-glossary.md)|F2|
 |Find|CTRL+F|
 |Replace|CTRL+H|

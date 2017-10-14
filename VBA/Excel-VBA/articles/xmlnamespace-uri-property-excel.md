@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlNamespace.Uri Property (Excel)
 
-Returns a  **String** that represents the Uniform Resource Identifier (URI) for the specified XML namespace. Read-only.
+Returns a **String** that represents the Uniform Resource Identifier (URI) for the specified XML namespace. Read-only.
 
 
 ## Syntax

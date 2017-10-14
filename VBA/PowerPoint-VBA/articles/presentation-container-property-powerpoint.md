@@ -35,7 +35,7 @@ If the container doesn't support OLE Automation, or if the specified presentatio
 
 ## Example
 
-This example hides the second section of the Microsoft Binder file that contains the embedded active presentation. The  **Container** property of the presentation returns a **Section** object, and the **Parent** property of the **Section** object returns a **Binder** object.
+This example hides the second section of the Microsoft Binder file that contains the embedded active presentation. The **Container** property of the presentation returns a **Section** object, and the **Parent** property of the **Section** object returns a **Binder** object.
 
 
 ```vb

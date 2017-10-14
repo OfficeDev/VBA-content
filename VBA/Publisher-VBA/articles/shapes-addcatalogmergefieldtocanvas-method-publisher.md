@@ -18,9 +18,9 @@ Adds a catalog merge field of the specified type to the canvas. Returns nothing.
 
 ## Syntax
 
- _expression_. **AddCatalogMergeFieldToCanvas**( **_CanvasId_**,  **_CatalogMergeFieldType_**,  **_DbCol_**)
+ _expression_. **AddCatalogMergeFieldToCanvas**( **_CanvasId_**, **_CatalogMergeFieldType_**, **_DbCol_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters

@@ -25,7 +25,7 @@ Applies the current settings of a Microsoft Word dialog box.
 
 ## Example
 
-The following example enables the  **Keep with next** check box on the **Line and Page Breaks** tab in the **Paragraph** dialog box.
+The following example enables the **Keep with next** check box on the **Line and Page Breaks** tab in the **Paragraph** dialog box.
 
 
 ```vb

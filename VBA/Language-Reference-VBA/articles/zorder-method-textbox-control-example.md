@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # ZOrder Method, TextBox Control Example
 
-The following example sets the z-order of a  **TextBox**, so the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
+The following example sets the z-order of a **TextBox**, so the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Three  **TextBox** controls named TextBox1 through TextBox3.
+- Three **TextBox** controls named TextBox1 through TextBox3.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

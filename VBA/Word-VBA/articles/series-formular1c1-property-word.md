@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.FormulaR1C1 Property (Word)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write **String** .
 
 
 ## Syntax

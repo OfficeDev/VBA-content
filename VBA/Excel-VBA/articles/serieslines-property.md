@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SeriesLines Property
 
-Returns a  **[SeriesLines](serieslines-object.md)** object that represents the series lines for the specified stacked bar chart or stacked column chart. Applies only to stacked bar and stacked column charts. Read-only.
+Returns a **[SeriesLines](serieslines-object.md)** object that represents the series lines for the specified stacked bar chart or stacked column chart. Applies only to stacked bar and stacked column charts. Read-only.
 
 
 ## Example

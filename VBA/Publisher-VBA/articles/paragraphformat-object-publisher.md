@@ -18,7 +18,7 @@ Represents all the formatting for a paragraph.
 
 ## Example
 
-Use the  **[ParagraphFormat](http://msdn.microsoft.com/library/5ab0a2ec-d7a9-f3af-29e7-5421427ee783%28Office.15%29.aspx)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
+Use the **[ParagraphFormat](http://msdn.microsoft.com/library/5ab0a2ec-d7a9-f3af-29e7-5421427ee783%28Office.15%29.aspx)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
 
 
 ```
@@ -28,7 +28,7 @@ Sub CenterParagraph()
 End Sub
 ```
 
-Use the  **[Duplicate](http://msdn.microsoft.com/library/545dbfdb-4cd5-99b1-1ba3-b723e8d7b827%28Office.15%29.aspx)** property to copy an existing **ParagraphFormat** object. The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
+Use the **[Duplicate](http://msdn.microsoft.com/library/545dbfdb-4cd5-99b1-1ba3-b723e8d7b827%28Office.15%29.aspx)** property to copy an existing **ParagraphFormat** object. The following example duplicates the paragraph formatting of the first paragraph in the active publication and stores the formatting in a variable. This example duplicates an existing **ParagraphFormat** object and then changes the left indent to one inch, creates a new textbox, inserts text into it, and applies the paragraph formatting of the duplicated paragraph format to the text.
 
 
 

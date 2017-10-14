@@ -30,10 +30,10 @@ Boolean
 
 ## Remarks
 
-The setting of the  **DeleteConnectorsEnabled** property also determines whether two connectors reconnect when a shape to which they are both connected is deleted.
+The setting of the **DeleteConnectorsEnabled** property also determines whether two connectors reconnect when a shape to which they are both connected is deleted.
 
-Connectors that contain text are not deleted when shapes to which they are connected are deleted, even if  **DeleteConnectorsEnabled** is **True** .
+Connectors that contain text are not deleted when shapes to which they are connected are deleted, even if **DeleteConnectorsEnabled** is **True** .
 
-The setting of the  **DeleteConnectorsEnabled** property corresponds to the setting of the **Delete connectors when deleting shapes** check box under **Editing options** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click  **Advanced**.
+The setting of the **DeleteConnectorsEnabled** property corresponds to the setting of the **Delete connectors when deleting shapes** check box under **Editing options** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click **Advanced**.
 
 

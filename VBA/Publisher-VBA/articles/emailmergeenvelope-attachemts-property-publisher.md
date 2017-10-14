@@ -20,7 +20,7 @@ Gets the list of a merged e-mail message's attachments. Read-only.
 
  _expression_. **Attachemts**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_A variable that represents an **EmailMergeEnvelope** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ Attachments
 
 ## Remarks
 
-To add attachments to a merged e-mail message, use the  **[Add](attachments-add-method-publisher.md)** method of the **[Attachment](attachment-object-publisher.md)** object. To remove an attachment, use the ** [Attachment.Delete](attachment-delete-method-publisher.md)** method; to remove all attachments, use the **[ClearAll](attachments-clearall-method-publisher.md)** method of the **[Attachments](attachments-object-publisher.md)** collection.
+To add attachments to a merged e-mail message, use the **[Add](attachments-add-method-publisher.md)** method of the **[Attachment](attachment-object-publisher.md)** object. To remove an attachment, use the ** [Attachment.Delete](attachment-delete-method-publisher.md)** method; to remove all attachments, use the **[ClearAll](attachments-clearall-method-publisher.md)** method of the **[Attachments](attachments-object-publisher.md)** collection.
 
 

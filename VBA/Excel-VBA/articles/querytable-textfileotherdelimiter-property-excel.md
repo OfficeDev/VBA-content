@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileOtherDelimiter Property (Excel)
 
-Returns or sets the character used as the delimiter when you import a text file into a query table. The default value is  **null** . Read/write **String** .
+Returns or sets the character used as the delimiter when you import a text file into a query table. The default value is **null** . Read/write **String** .
 
 
 ## Syntax
@@ -25,15 +25,15 @@ Returns or sets the character used as the delimiter when you import a text file 
 
 ## Remarks
 
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ), and only if the value of the **[TextFileParseType](querytable-textfileparsetype-property-excel.md)** property is **xlDelimited** .
+Use this property only when your query table is based on data from a text file (with the **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ), and only if the value of the **[TextFileParseType](querytable-textfileparsetype-property-excel.md)** property is **xlDelimited** .
 
 If you specify more than one character in the string, only the first character is used.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **TextFileOtherDelimiter** property applies only to **QueryTable** objects.
+The **TextFileOtherDelimiter** property applies only to **QueryTable** objects.
 
 
 ## Example

@@ -33,7 +33,7 @@ Nothing
 
 ## Example
 
-This example shows you where you can place code that runs after merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object.md).
+This example shows you where you can place code that runs after merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object.md).
 
 ```vb
 Private Sub App_WorkbookAfterRemoteChange(ByVal Wb As Workbook)

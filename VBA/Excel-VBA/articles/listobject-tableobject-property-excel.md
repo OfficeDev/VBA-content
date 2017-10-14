@@ -23,7 +23,7 @@ Returns a [TableObject Object (Excel)](tableobject-object-excel.md) object. Read
 
 ## Remarks
 
-The  **TableObject** object is a worksheet table built from data returned from a PowerPivot model.
+The **TableObject** object is a worksheet table built from data returned from a PowerPivot model.
 
 
 ## Property value

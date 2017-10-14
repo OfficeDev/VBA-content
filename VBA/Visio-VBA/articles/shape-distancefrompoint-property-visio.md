@@ -54,11 +54,11 @@ The  _pvPathIndex_,  _pvCurveIndex_, and  _pvt_ arguments optionally return valu
 ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&;xOnThis ,&;yOnthis)
 ```
 
-You can use the  **PointAndDerivatives** method instead of the **Point** method if you want to find the first and second derivatives at position _t_ along the curve.
+You can use the **PointAndDerivatives** method instead of the **Point** method if you want to find the first and second derivatives at position _t_ along the curve.
 
 If  _pvPathIndex_ or _pvCurveIndex_ is not **Null** , an **Integer** (type VT_I4) is returned. If _pvt_ isn't **Null** , **DistanceFromPoint** returns a **Double** (type VT_R8).
 
-The  **DistanceFromPoint** property considers guides to have extent and considers a shape's filled areas and paths.
+The **DistanceFromPoint** property considers guides to have extent and considers a shape's filled areas and paths.
 
 The  _Flags_ argument can be any combination of the values of the constants defined in the following table. These constants are also defined in **VisSpatialRelationFlags** in the Microsoft Visio type library.
 
@@ -73,6 +73,6 @@ Use the NoShow cell to determine whether a Geometry section is hidden or visible
 
 If the parent object has no geometry, or if  _Flags_ excludes consideration of all geometry, the **DistanceFromPoint** property returns a large number (1E+30) which should be interpreted as infinite.
 
-The  **DistanceFromPoint** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when computing its result.
+The **DistanceFromPoint** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when computing its result.
 
 

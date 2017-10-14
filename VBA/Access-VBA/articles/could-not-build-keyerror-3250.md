@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 When building a primary index, the Microsoft Access database engine could not build a primary key. Make sure the key fields are named properly and that there are no duplicate records based on this key.
 
-This error can occur when you use the  **Seek** method and pass it a value for a field that is not part of the index. For example, suppose you want to use the **Seek** method on a **Recordset** whose current index uses the LastName field of the underlying table, and you write it this way:
+This error can occur when you use the **Seek** method and pass it a value for a field that is not part of the index. For example, suppose you want to use the **Seek** method on a **Recordset** whose current index uses the LastName field of the underlying table, and you write it this way:
 
 
 

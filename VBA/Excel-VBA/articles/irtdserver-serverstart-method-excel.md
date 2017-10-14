@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRtdServer.ServerStart Method (Excel)
 
-The  **ServerStart** method is called immediately after a real-time data server is instantiated. Returns a **Long** ; negative value or zero indicates failure to start the server; positive value indicates success.
+The **ServerStart** method is called immediately after a real-time data server is instantiated. Returns a **Long** ; negative value or zero indicates failure to start the server; positive value indicates success.
 
 
 ## Syntax

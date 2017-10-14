@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EndnoteOptions.Location Property (Word)
 
-Returns or sets the position of all endnotes. Read/write  **WdEndnoteLocation** .
+Returns or sets the position of all endnotes. Read/write **WdEndnoteLocation** .
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](smartartcolor-application-property-office.md)|Gets an  **Application** object that represents the container application for the **SmartArtColor** object. Read-only|
+|[Application](smartartcolor-application-property-office.md)|Gets an **Application** object that represents the container application for the **SmartArtColor** object. Read-only|
 |[Category](smartartcolor-category-property-office.md)|Retrieves the primary category name associated with the SmartArt color style. Read-only|
 |[Creator](smartartcolor-creator-property-office.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only|
 |[Description](smartartcolor-description-property-office.md)|Retrieves the description of the SmartArt color style. Read-only|

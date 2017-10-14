@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NamedSlideShow.Delete Method (PowerPoint)
 
-Deletes the specified  **NamedSlideShow** object.
+Deletes the specified **NamedSlideShow** object.
 
 
 ## Syntax

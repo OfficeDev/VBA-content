@@ -30,7 +30,7 @@ Returns an object that represents the picture or texture fill for the specified 
 
 ## Remarks
 
-A picture or texture fill can be specified in the formatting for various elements (shapes) in a chart. For example, you can use the  **Format Data Series** dialog box to format the columns in a **Column** chart to a picture or texture fill. In this case, the **PictureEffects** property returns a **PictureEffects** collection that corresponds to the settings associated with the **Picture or texture fill** option in the **Fill** category of the **Format Data Series** dialog box.
+A picture or texture fill can be specified in the formatting for various elements (shapes) in a chart. For example, you can use the **Format Data Series** dialog box to format the columns in a **Column** chart to a picture or texture fill. In this case, the **PictureEffects** property returns a **PictureEffects** collection that corresponds to the settings associated with the **Picture or texture fill** option in the **Fill** category of the **Format Data Series** dialog box.
 
 
 ## See also

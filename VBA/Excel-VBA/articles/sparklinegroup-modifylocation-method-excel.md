@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroup.ModifyLocation Method (Excel)
 
-Sets the associated  **[Range](http://msdn.microsoft.com/library/8bc4841b-72f7-34b5-a299-3357bf8f457b%28Office.15%29.aspx)** object to modify the location of the sparkline group.
+Sets the associated **[Range](http://msdn.microsoft.com/library/8bc4841b-72f7-34b5-a299-3357bf8f457b%28Office.15%29.aspx)** object to modify the location of the sparkline group.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Sets the associated  **[Range](http://msdn.microsoft.com/library/8bc4841b-72f7-3
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **Range**|The  **Range** that represents the location of the sparkline group.|
+| _Location_|Required| **Range**|The **Range** that represents the location of the sparkline group.|
 
 ### Return Value
 

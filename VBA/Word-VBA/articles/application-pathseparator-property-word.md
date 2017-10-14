@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator Property (Word)
 
-Returns the character used to separate folder names. This property returns a backslash (\). Read-only  **String** .
+Returns the character used to separate folder names. This property returns a backslash (\). Read-only **String** .
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns the character used to separate folder names. This property returns a bac
 
 ## Remarks
 
-You can use  **PathSeparator** property to build Web addresses even though they contain forward slashes (/).
+You can use **PathSeparator** property to build Web addresses even though they contain forward slashes (/).
 
 
- **Note**  The  **[FullName](document-fullname-property-word.md)** property returns the path and file name, including the path separator, as a single string.
+ **Note**  The **[FullName](document-fullname-property-word.md)** property returns the path and file name, including the path separator, as a single string.
 
 
 ## Example

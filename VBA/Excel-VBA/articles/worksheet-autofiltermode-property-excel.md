@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property returns  **True** if the drop-down arrows are currently displayed. You can set this property to **False** to remove the arrows, but you cannot set it to **True** . Use the **[AutoFilter](worksheet-autofilter-property-excel.md)** method to filter a list and display the drop-down arrows.
+This property returns **True** if the drop-down arrows are currently displayed. You can set this property to **False** to remove the arrows, but you cannot set it to **True** . Use the **[AutoFilter](worksheet-autofilter-property-excel.md)** method to filter a list and display the drop-down arrows.
 
 
 ## Example
 
-This example displays the current status of the  **AutoFilterMode** property on Sheet1.
+This example displays the current status of the **AutoFilterMode** property on Sheet1.
 
 
 ```vb

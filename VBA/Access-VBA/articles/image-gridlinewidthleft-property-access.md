@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Image.GridlineWidthLeft Property (Access)
 
-Gets or sets the width of the left gridline for the specified image control. Read/write  **Byte**.
+Gets or sets the width of the left gridline for the specified image control. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the left gridline for the specified image control. Rea
 
 ## Remarks
 
-The  **LeftGridlineWidth** property uses the following settings.
+The **LeftGridlineWidth** property uses the following settings.
 
 
 

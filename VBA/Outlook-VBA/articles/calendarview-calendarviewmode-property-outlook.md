@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.CalendarViewMode Property (Outlook)
 
-Returns or sets an  **[OlCalendarViewMode](olcalendarviewmode-enumeration-outlook.md)** that determines the current view mode of the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlCalendarViewMode](olcalendarviewmode-enumeration-outlook.md)** that determines the current view mode of the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlCalendarViewMode](olcalendarviewmode-enumeration-outloo
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **CalendarView** object to show a single day, using an 8-point Verdana font to display items and a 16-point Verdana font to display time values and the Tasks header within the view.
+The following Visual Basic for Applications (VBA) example configures the current **CalendarView** object to show a single day, using an 8-point Verdana font to display items and a 16-point Verdana font to display time values and the Tasks header within the view.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Description Property (Excel)
 
-Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String** .
+Returns or sets a brief description for a **WorkbookConnection** object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a brief description for a  **WorkbookConnection** object. Read/w
 
 ## Remarks
 
-In the  **Connection Properties** dialog box, the user may edit the name of the connection and/or the description. Changing the name and description in this dialog box changes those fields only within the Excel connection object.
+In the **Connection Properties** dialog box, the user may edit the name of the connection and/or the description. Changing the name and description in this dialog box changes those fields only within the Excel connection object.
 
 The maximum size of a description is 255 characters. If the user specifies a description within a connection file that is longer than 255 characters, the description is truncate to fit the 255 character limit.
 

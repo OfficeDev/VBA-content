@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.FontName Property (Project)
 
-Gets or sets the name of the font for a field used as a criterion in a group definition. Read/write  **String**.
+Gets or sets the name of the font for a field used as a criterion in a group definition. Read/write **String**.
 
 
 ## Syntax

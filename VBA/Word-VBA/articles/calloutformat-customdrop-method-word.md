@@ -33,9 +33,9 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
 
 ## Remarks
 
-This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
+This distance is measured from the top of the text box unless the **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
 
-If the  **PresetDrop** method was previously used to set the drop for the specified callout, use the following statement before using the **CustomDrop** method so that the custom drop setting takes effect.
+If the **PresetDrop** method was previously used to set the drop for the specified callout, use the following statement before using the **CustomDrop** method so that the custom drop setting takes effect.
 
 
 

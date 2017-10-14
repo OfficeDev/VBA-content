@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Sections.Add Method (Publisher)
 
-Adds a new  **Section** object to the specified **Sections** collection and returns the new **Section** object.
+Adds a new **Section** object to the specified **Sections** collection and returns the new **Section** object.
 
 
 ## Syntax
 
  _expression_. **Add**( **_StartPageIndex_**)
 
- _expression_A variable that represents a  **Sections** object.
+ _expression_A variable that represents a **Sections** object.
 
 
 ### Parameters

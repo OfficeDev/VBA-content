@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **FollowMasterBackground** property can be one of these **MsoTriState** constants.
+The value of the **FollowMasterBackground** property can be one of these **MsoTriState** constants.
 
 
 
@@ -38,9 +38,9 @@ The value of the  **FollowMasterBackground** property can be one of these **MsoT
 |:-----|:-----|
 |**msoFalse**|The specified slide or range of slides has a custom background.|
 |**msoTrue**| The specified slide or range of slides follows the slide master background.|
-When you create a new slide, the default value for this property is  **True**. If you copy a slide from another presentation, it retains the setting it had in the original presentation. That is, if the slide followed the slide master background in the original presentation, it will automatically follow the slide master background in the new presentation; or, if the slide had a custom background, it will retain that custom background.
+When you create a new slide, the default value for this property is **True**. If you copy a slide from another presentation, it retains the setting it had in the original presentation. That is, if the slide followed the slide master background in the original presentation, it will automatically follow the slide master background in the new presentation; or, if the slide had a custom background, it will retain that custom background.
 
-Note that the look of the slide's background is determined by the color scheme and background objects and by the background itself. If setting the  **FollowMasterBackground** property alone doesn't give you the results you want, try setting the **ColorScheme** and **DisplayMasterShapes** properties as well.
+Note that the look of the slide's background is determined by the color scheme and background objects and by the background itself. If setting the **FollowMasterBackground** property alone doesn't give you the results you want, try setting the **ColorScheme** and **DisplayMasterShapes** properties as well.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.SuccessorTasks Property (Project)
 
-Gets a  **[Tasks](task-object-project.md)** collection representing the successors of the task. Read-only **Tasks**.
+Gets a **[Tasks](task-object-project.md)** collection representing the successors of the task. Read-only **Tasks**.
 
 
 ## Syntax

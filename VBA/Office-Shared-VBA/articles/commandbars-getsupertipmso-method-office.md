@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetSupertipMso Method (Office)
 
-Returns the supertip of the control identified by the  **idMso** parameter as a String.
+Returns the supertip of the control identified by the **idMso** parameter as a String.
 
 
 ## 

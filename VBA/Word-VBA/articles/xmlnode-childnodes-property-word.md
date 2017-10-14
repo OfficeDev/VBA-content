@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.ChildNodes Property (Word)
 
-Returns an  **XMLNodes** collection that represents the child elements of a specified element.
+Returns an **XMLNodes** collection that represents the child elements of a specified element.
 
 
 ## Syntax

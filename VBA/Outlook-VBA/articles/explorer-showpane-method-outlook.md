@@ -37,12 +37,12 @@ Displays or hides a specific pane in the explorer.
 
 
 
- **Note**  You can also use the  **[Visible](outlookbarpane-visible-property-outlook.md)** property of the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to display or hide the Outlook Bar.
+ **Note**  You can also use the **[Visible](outlookbarpane-visible-property-outlook.md)** property of the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to display or hide the Outlook Bar.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example uses the  **ShowPane** and **[IsPaneVisible](explorer-ispanevisible-method-outlook.md)** methods to hide the preview pane if it is visible or to display it if it is hidden.
+This Microsoft Visual Basic for Applications (VBA) example uses the **ShowPane** and **[IsPaneVisible](explorer-ispanevisible-method-outlook.md)** methods to hide the preview pane if it is visible or to display it if it is hidden.
 
 
 ```vb

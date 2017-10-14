@@ -30,18 +30,18 @@ Gets or sets special rule-set properties. Read/write.
 
 ## Remarks
 
-The  **RuleSetFlags** property value must be one of the following **VisRuleSetFlags** constants.
+The **RuleSetFlags** property value must be one of the following **VisRuleSetFlags** constants.
 
 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visRuleSetDefault**|0|The default set of rule-set properties. The rule set appears in the the  **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
-| **visRuleSetHidden**|1|The rule set does not appear in the  **Rules to Check** list.|
+| **visRuleSetDefault**|0|The default set of rule-set properties. The rule set appears in the the **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
+| **visRuleSetHidden**|1|The rule set does not appear in the **Rules to Check** list.|
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **RuleSetFlags** property to set the properties for a validation rule set named "Connectivity" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **RuleSetFlags** property to set the properties for a validation rule set named "Connectivity" in the active document.
 
 
 ```vb

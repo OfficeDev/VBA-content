@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OptionButton.GridlineWidthRight Property (Access)
 
-Gets or sets the width of the right gridline for the specified option button. Read/write  **Byte**.
+Gets or sets the width of the right gridline for the specified option button. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the right gridline for the specified option button. Re
 
 ## Remarks
 
-The  **RightGridlineWidth** property uses the following settings.
+The **RightGridlineWidth** property uses the following settings.
 
 
 

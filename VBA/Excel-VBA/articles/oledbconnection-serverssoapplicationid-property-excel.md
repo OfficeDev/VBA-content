@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.ServerSSOApplicationID Property (Excel)
 
-Returns or sets a single sign-on application (SSO) identifier that is used to perform a lookup in the SSO database for credentials. Read/write  **String** .
+Returns or sets a single sign-on application (SSO) identifier that is used to perform a lookup in the SSO database for credentials. Read/write **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Type Property (Excel)
 
-Returns the action type. Read-only  **[XlActionType](xlactiontype-enumeration-excel.md)** .
+Returns the action type. Read-only **[XlActionType](xlactiontype-enumeration-excel.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.IsOpen Property (Excel)
 
-Returns  **True** if the add-in is currently open. **Boolean** Read-only
+Returns **True** if the add-in is currently open. **Boolean** Read-only
 
 
 ## Syntax

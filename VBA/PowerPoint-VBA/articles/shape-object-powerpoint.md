@@ -19,7 +19,7 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
 ## Remarks
 
 
- **Note**  There are three objects that represent shapes: the  **Shapes** collection, which represents all the shapes on a document; the **[ShapeRange](http://msdn.microsoft.com/library/0a194183-380e-ffb6-9336-b5bd311e917d%28Office.15%29.aspx)** collection, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); the **Shape** object, which represents a single shape on a document. If you want to work with several shape at the same time or with shapes within the selection, use a **ShapeRange** collection. For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](http://msdn.microsoft.com/library/3ffaaaea-6406-262b-2bc7-788699175266%28Office.15%29.aspx).
+ **Note**  There are three objects that represent shapes: the **Shapes** collection, which represents all the shapes on a document; the **[ShapeRange](http://msdn.microsoft.com/library/0a194183-380e-ffb6-9336-b5bd311e917d%28Office.15%29.aspx)** collection, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); the **Shape** object, which represents a single shape on a document. If you want to work with several shape at the same time or with shapes within the selection, use a **ShapeRange** collection. For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](http://msdn.microsoft.com/library/3ffaaaea-6406-262b-2bc7-788699175266%28Office.15%29.aspx).
 
 The following examples describe how to:
 
@@ -45,7 +45,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Shapes** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape on a slide. The following example horizontally flips shape one and the shape named Rectangle 1 on myDocument.
+Use **Shapes** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape on a slide. The following example horizontally flips shape one and the shape named Rectangle 1 on myDocument.
 
 
 ```
@@ -56,7 +56,7 @@ myDocument.Shapes(1).Flip msoFlipHorizontal
 myDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 
-Each shape is assigned a default name when you add it to the  **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
+Each shape is assigned a default name when you add it to the **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
 
 
 
@@ -77,9 +77,9 @@ With myDocument.Shapes.AddShape(Type:=msoShapeRectangle, _
 End With
 ```
 
-To add a shape to a slide and return a  **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](http://msdn.microsoft.com/library/e4b468d7-793a-09ae-fcfc-6a73db93c90e%28Office.15%29.aspx), [AddComment](http://msdn.microsoft.com/library/11347ca1-cef3-0923-2544-cb80e7fc5768%28Office.15%29.aspx), [AddConnector](http://msdn.microsoft.com/library/407eee86-11c1-7bee-ed25-aba71a930a1c%28Office.15%29.aspx), [AddCurve](http://msdn.microsoft.com/library/47f90182-a71b-a028-c43f-a85d59d2a56b%28Office.15%29.aspx), [AddLabel](http://msdn.microsoft.com/library/b744daf1-5b99-9649-8b97-d3f2193373c1%28Office.15%29.aspx), [AddLine](http://msdn.microsoft.com/library/9dbe640b-5ba4-a620-d3c6-4a2d0cc2bc27%28Office.15%29.aspx), [AddMediaObject](http://msdn.microsoft.com/library/7e2ab704-7fd4-86d7-3f61-8d69c13b5685%28Office.15%29.aspx), [AddOLEObject](http://msdn.microsoft.com/library/88a5aa63-0531-b9d8-43d2-5a995b91b189%28Office.15%29.aspx), [AddPicture](http://msdn.microsoft.com/library/af432432-b09b-3ca6-d392-132bd78251c7%28Office.15%29.aspx), [AddPlaceholder](http://msdn.microsoft.com/library/10927d59-1810-2f91-eb52-c42113570ccc%28Office.15%29.aspx), [AddPolyline](http://msdn.microsoft.com/library/e42c4f7a-de68-88bf-d250-28e642b56232%28Office.15%29.aspx), [AddShape](http://msdn.microsoft.com/library/2bc6cce5-3461-61ff-083d-bd36ee71cb59%28Office.15%29.aspx), [AddTable](http://msdn.microsoft.com/library/77ce193e-10f7-25f4-a6f8-99d7d2b781ad%28Office.15%29.aspx), [AddTextbox](http://msdn.microsoft.com/library/0c7c6093-48f6-e1f1-1837-e69d6ef13e57%28Office.15%29.aspx), [AddTextEffect](http://msdn.microsoft.com/library/4428ac57-c704-475a-1640-78a556e9ac3d%28Office.15%29.aspx), [AddTitle](http://msdn.microsoft.com/library/1fe13529-526a-1b29-7589-c155f9e46379%28Office.15%29.aspx).
+To add a shape to a slide and return a **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection:[AddCallout](http://msdn.microsoft.com/library/e4b468d7-793a-09ae-fcfc-6a73db93c90e%28Office.15%29.aspx), [AddComment](http://msdn.microsoft.com/library/11347ca1-cef3-0923-2544-cb80e7fc5768%28Office.15%29.aspx), [AddConnector](http://msdn.microsoft.com/library/407eee86-11c1-7bee-ed25-aba71a930a1c%28Office.15%29.aspx), [AddCurve](http://msdn.microsoft.com/library/47f90182-a71b-a028-c43f-a85d59d2a56b%28Office.15%29.aspx), [AddLabel](http://msdn.microsoft.com/library/b744daf1-5b99-9649-8b97-d3f2193373c1%28Office.15%29.aspx), [AddLine](http://msdn.microsoft.com/library/9dbe640b-5ba4-a620-d3c6-4a2d0cc2bc27%28Office.15%29.aspx), [AddMediaObject](http://msdn.microsoft.com/library/7e2ab704-7fd4-86d7-3f61-8d69c13b5685%28Office.15%29.aspx), [AddOLEObject](http://msdn.microsoft.com/library/88a5aa63-0531-b9d8-43d2-5a995b91b189%28Office.15%29.aspx), [AddPicture](http://msdn.microsoft.com/library/af432432-b09b-3ca6-d392-132bd78251c7%28Office.15%29.aspx), [AddPlaceholder](http://msdn.microsoft.com/library/10927d59-1810-2f91-eb52-c42113570ccc%28Office.15%29.aspx), [AddPolyline](http://msdn.microsoft.com/library/e42c4f7a-de68-88bf-d250-28e642b56232%28Office.15%29.aspx), [AddShape](http://msdn.microsoft.com/library/2bc6cce5-3461-61ff-083d-bd36ee71cb59%28Office.15%29.aspx), [AddTable](http://msdn.microsoft.com/library/77ce193e-10f7-25f4-a6f8-99d7d2b781ad%28Office.15%29.aspx), [AddTextbox](http://msdn.microsoft.com/library/0c7c6093-48f6-e1f1-1837-e69d6ef13e57%28Office.15%29.aspx), [AddTextEffect](http://msdn.microsoft.com/library/4428ac57-c704-475a-1640-78a556e9ac3d%28Office.15%29.aspx), [AddTitle](http://msdn.microsoft.com/library/1fe13529-526a-1b29-7589-c155f9e46379%28Office.15%29.aspx).
 
-Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
+Use **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape within the selection. The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
 
 
 
@@ -90,7 +90,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill _
     .ForeColor.RGB = RGB(255, 0, 0)
 ```
 
-Use  **Shapes.Title** to return a **Shape** object that represents an existing slide title. Use **Shapes.AddTitle** to add a title to a slide that doesn't already have one and return a **Shape** object that represents the newly created title. Use **Shapes.Placeholders** (index), where index is the placeholder's index number, to return a **Shape** object that represents a placeholder. If you have not changed the layering order of the shapes on a slide, the following three statements are equivalent, assuming that slide one has a title.
+Use **Shapes.Title** to return a **Shape** object that represents an existing slide title. Use **Shapes.AddTitle** to add a title to a slide that doesn't already have one and return a **Shape** object that represents the newly created title. Use **Shapes.Placeholders** (index), where index is the placeholder's index number, to return a **Shape** object that represents a placeholder. If you have not changed the layering order of the shapes on a slide, the following three statements are equivalent, assuming that slide one has a title.
 
 
 
@@ -109,19 +109,19 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
     .TextRange.Font.Italic = True
 ```
 
-To return a  **Shape** object that represents one of the shapes attached by a connector, use the[BeginConnectedShape](http://msdn.microsoft.com/library/7456899e-3f1c-3af8-e942-a6de1abeeca3%28Office.15%29.aspx)or [EndConnectedShape](http://msdn.microsoft.com/library/1d18fd9a-fc43-b50e-5c1a-dc6b5332b37e%28Office.15%29.aspx)property.
+To return a **Shape** object that represents one of the shapes attached by a connector, use the[BeginConnectedShape](http://msdn.microsoft.com/library/7456899e-3f1c-3af8-e942-a6de1abeeca3%28Office.15%29.aspx)or [EndConnectedShape](http://msdn.microsoft.com/library/1d18fd9a-fc43-b50e-5c1a-dc6b5332b37e%28Office.15%29.aspx)property.
 
 
 
-To return a  **Shape** object that represents the default shape for a presentation, use the[DefaultShape](http://msdn.microsoft.com/library/318ec04a-8b30-29b3-c8a6-732564efd7a8%28Office.15%29.aspx)property.
+To return a **Shape** object that represents the default shape for a presentation, use the[DefaultShape](http://msdn.microsoft.com/library/318ec04a-8b30-29b3-c8a6-732564efd7a8%28Office.15%29.aspx)property.
 
 
 
-Use the [BuildFreeform](http://msdn.microsoft.com/library/330ea348-9f8c-c418-d67f-e4fd6c105c59%28Office.15%29.aspx)and [AddNodes](http://msdn.microsoft.com/library/4022d4cd-796b-8917-7265-d97bff5282ef%28Office.15%29.aspx)methods to define the geometry of a new freeform, and use the [ConvertToShape](http://msdn.microsoft.com/library/bc3d209e-6735-3011-9334-46049d269355%28Office.15%29.aspx)method to create the freeform and return the  **Shape** object that represents it.
+Use the [BuildFreeform](http://msdn.microsoft.com/library/330ea348-9f8c-c418-d67f-e4fd6c105c59%28Office.15%29.aspx)and [AddNodes](http://msdn.microsoft.com/library/4022d4cd-796b-8917-7265-d97bff5282ef%28Office.15%29.aspx)methods to define the geometry of a new freeform, and use the [ConvertToShape](http://msdn.microsoft.com/library/bc3d209e-6735-3011-9334-46049d269355%28Office.15%29.aspx)method to create the freeform and return the **Shape** object that represents it.
 
-Use  **GroupItems** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
+Use **GroupItems** (index), where index is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
 
-Use the [Group](http://msdn.microsoft.com/library/f70f3986-3a39-78f9-476e-b72ef000c469%28Office.15%29.aspx)or [Regroup](http://msdn.microsoft.com/library/3da4a44d-4b0c-e335-b376-4d76fe5ed561%28Office.15%29.aspx)method to group a range of shapes and return a single  **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
+Use the [Group](http://msdn.microsoft.com/library/f70f3986-3a39-78f9-476e-b72ef000c469%28Office.15%29.aspx)or [Regroup](http://msdn.microsoft.com/library/3da4a44d-4b0c-e335-b376-4d76fe5ed561%28Office.15%29.aspx)method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
 
 
 ## Methods

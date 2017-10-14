@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.NestingLevel Property (Word)
 
-Returns the nesting level of the specified table. Read-only  **Long** .
+Returns the nesting level of the specified table. Read-only **Long** .
 
 
 ## Syntax

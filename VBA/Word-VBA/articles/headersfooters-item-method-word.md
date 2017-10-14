@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeadersFooters.Item Method (Word)
 
-Returns a  **HeaderFooter** object that represents a header or footer in a range or section.
+Returns a **HeaderFooter** object that represents a header or footer in a range or section.
 
 
 ## Syntax

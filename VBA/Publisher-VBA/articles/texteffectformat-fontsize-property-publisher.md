@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontSize Property (Publisher)
 
-Returns or sets a  **Variant** that represents the font size for the specified WordArt, in points. Read/write.
+Returns or sets a **Variant** that represents the font size for the specified WordArt, in points. Read/write.
 
 
 ## Syntax
 
  _expression_. **FontSize**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 

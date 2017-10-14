@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.NormalTemplate Property (Word)
 
-Returns a  **Template** object that represents the Normal template.
+Returns a **Template** object that represents the Normal template.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Template** object that represents the Normal template.
 
 ## Example
 
-This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the  **AutoTextEntries** collection.
+This example inserts the AutoText entry named "Test" from the Normal template, if this entry is contained in the **AutoTextEntries** collection.
 
 
 ```vb

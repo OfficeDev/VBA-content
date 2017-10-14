@@ -17,7 +17,7 @@ Deletes text only when a module is active.
 
  **Delete**
 
-At other times, changes to the  **Delete** command that deletes the currently selected control, text, or[watch expression](vbe-glossary.md). You can undo the  **Delete** command in the **Code** window or in the form if you deleted the control from the form.
+At other times, changes to the **Delete** command that deletes the currently selected control, text, or[watch expression](vbe-glossary.md). You can undo the **Delete** command in the **Code** window or in the form if you deleted the control from the form.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_del_ZA01201696.gif). Keyboard shortcut: DELETE.
 Not available at [run time](vbe-glossary.md).

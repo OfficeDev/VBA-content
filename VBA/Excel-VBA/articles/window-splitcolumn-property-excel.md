@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SplitColumn Property (Excel)
 
-Returns or sets the column number where the window is split into panes (the number of columns to the left of the split line). Read/write  **Long** .
+Returns or sets the column number where the window is split into panes (the number of columns to the left of the split line). Read/write **Long** .
 
 
 ## Syntax

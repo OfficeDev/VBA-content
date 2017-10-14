@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.SlideShowSettings Property (PowerPoint)
 
-Returns a  **[SlideShowSettings](slideshowsettings-object-powerpoint.md)** object that represents the slide show settings for the specified presentation. Read-only.
+Returns a **[SlideShowSettings](slideshowsettings-object-powerpoint.md)** object that represents the slide show settings for the specified presentation. Read-only.
 
 
 ## Syntax

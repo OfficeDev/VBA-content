@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # Watches Object (Excel)
 
-A collection of all the  **[Watch](watches-object-excel.md)** objects in a specified application.
+A collection of all the **[Watch](watches-object-excel.md)** objects in a specified application.
 
 
 ## Example
 
-Use the  **[Watches](application-watches-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **Watches** collection.
+Use the **[Watches](application-watches-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **Watches** collection.
 
 
 
-In the following example, Microsoft Excel creates a new  **Watch** object using the **[Add](watches-add-method-excel.md)** method. This example creates a summation formula in cell A3, and then adds this cell to the watch facility.
+In the following example, Microsoft Excel creates a new **Watch** object using the **[Add](watches-add-method-excel.md)** method. This example creates a summation formula in cell A3, and then adds this cell to the watch facility.
 
 
 
@@ -41,7 +41,7 @@ Sub AddWatch()
 End Sub
 ```
 
-You can specify to remove individual cells from the watch facility by using the  **[Delete](watches-delete-method-excel.md)** method of the **Watches** collection. This example deletes cell A3 on worksheet 1 of book 1 from the Watch Window. This example assumes you have added the cell A3 on sheet 1 of book 1 (using the previous example to add a **Watch** object).
+You can specify to remove individual cells from the watch facility by using the **[Delete](watches-delete-method-excel.md)** method of the **Watches** collection. This example deletes cell A3 on worksheet 1 of book 1 from the Watch Window. This example assumes you have added the cell A3 on sheet 1 of book 1 (using the previous example to add a **Watch** object).
 
 
 
@@ -54,7 +54,7 @@ Sub DeleteAWatch()
 End Sub
 ```
 
-You can also specify to remove all cells from the Watch Window, by using the  **Delete** method of the **Watches** collection. This example deletes all cells from the Watch Window.
+You can also specify to remove all cells from the Watch Window, by using the **Delete** method of the **Watches** collection. This example deletes all cells from the Watch Window.
 
 
 

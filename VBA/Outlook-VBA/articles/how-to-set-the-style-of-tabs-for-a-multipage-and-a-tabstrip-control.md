@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # How to: Set the Style of Tabs for a MultiPage and a TabStrip Control
 
-The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](multipage-object-outlook-forms-script.md)** and **[TabStrip](tabstrip-object-outlook-forms-script.md)**. This example also demonstrates using a  **[Label](label-object-outlook-forms-script.md)**. The user chooses a style by selecting an  **[OptionButton](optionbutton-object-outlook-forms-script.md)**.
+The following example uses the **Style** property to specify the appearance of the tabs in **[MultiPage](multipage-object-outlook-forms-script.md)** and **[TabStrip](tabstrip-object-outlook-forms-script.md)**. This example also demonstrates using a **[Label](label-object-outlook-forms-script.md)**. The user chooses a style by selecting an **[OptionButton](optionbutton-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- Any control inside the  **TabStrip**.
+- Any control inside the **TabStrip**.
     
-- Any control in each page of the  **MultiPage**.
+- Any control in each page of the **MultiPage**.
     
 
 

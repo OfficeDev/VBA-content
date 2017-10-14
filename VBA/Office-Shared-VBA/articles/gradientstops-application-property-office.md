@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GradientStops.Application Property (Office)
 
-When used without an object qualifier, this property returns an  **Application** object that represents the Microsoft Office application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
+When used without an object qualifier, this property returns an **Application** object that represents the Microsoft Office application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 
 
 ## Syntax

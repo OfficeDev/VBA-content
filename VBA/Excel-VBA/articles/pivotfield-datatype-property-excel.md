@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DataType Property (Excel)
 
-Returns a  **[XlPivotFieldDataType](xlpivotfielddatatype-enumeration-excel.md)** value that represents the type of data in the PivotTable field.
+Returns a **[XlPivotFieldDataType](xlpivotfielddatatype-enumeration-excel.md)** value that represents the type of data in the PivotTable field.
 
 
 ## Syntax

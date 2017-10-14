@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataTable Property
 
-Returns a  **[DataTable](datatable-object.md)** object that represents the chart data table. Read-only.
+Returns a **[DataTable](datatable-object.md)** object that represents the chart data table. Read-only.
 
 
 ## Example

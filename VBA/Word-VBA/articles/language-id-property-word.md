@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.ID Property (Word)
 
-Returns a number that identifies the specified language. Read-only  **WdLanguageID** .
+Returns a number that identifies the specified language. Read-only **WdLanguageID** .
 
 
 ## Syntax

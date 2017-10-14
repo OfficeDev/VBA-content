@@ -63,13 +63,13 @@ Sets options for the spelling checker.
 
 ## Remarks
 
-If an argument is omitted, the default value is specified by the setting on the  **Proofing** tab of the **Project Options** dialog box.
+If an argument is omitted, the default value is specified by the setting on the **Proofing** tab of the **Project Options** dialog box.
 
 
- **Note**  The list of fields to check for spelling on the  **Proofing** tab includes fields up to **Text30** for task, resource, and assignment custom fields.
+ **Note**  The list of fields to check for spelling on the **Proofing** tab includes fields up to **Text30** for task, resource, and assignment custom fields.
 
-Using the  **OptionsSpelling** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsSpelling** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
-You can also use the  **[SpellCheckField](application-spellcheckfield-method-project.md)** method to change the state of a spell check field.
+You can also use the **[SpellCheckField](application-spellcheckfield-method-project.md)** method to change the state of a spell check field.
 
 

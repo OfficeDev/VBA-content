@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.FixedCost Property (Project)
 
-Gets or sets a fixed cost for a task. Read/write  **Variant**.
+Gets or sets a fixed cost for a task. Read/write **Variant**.
 
 
 ## Syntax

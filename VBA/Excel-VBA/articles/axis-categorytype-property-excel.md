@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryType Property (Excel)
 
-Returns or sets the category axis type. Read/write  **[XlCategoryType](xlcategorytype-enumeration-excel.md)** .
+Returns or sets the category axis type. Read/write **[XlCategoryType](xlcategorytype-enumeration-excel.md)** .
 
 
 ## Syntax

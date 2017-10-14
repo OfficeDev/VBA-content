@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ReaderSpread.Pages Property (Publisher)
 
-Returns a  **[Page](page-object-publisher.md)** object representing one of the pages that compose the specified reader spread.
+Returns a **[Page](page-object-publisher.md)** object representing one of the pages that compose the specified reader spread.
 
 
 ## Syntax
 
  _expression_. **Pages**( **_Index_**)
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_A variable that represents a **ReaderSpread** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Returns a  **[Page](page-object-publisher.md)** object representing one of the p
 
 ## Remarks
 
-A reader spread will consist of only one or two pages, which is why the valid values for the  **Index** argument are 1 or 2.
+A reader spread will consist of only one or two pages, which is why the valid values for the **Index** argument are 1 or 2.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.FillFrame Method (Publisher)
 
-Fills the frame of a picture with the image represented by the  **PictureFormat** object. Returns nothing.
+Fills the frame of a picture with the image represented by the **PictureFormat** object. Returns nothing.
 
 
 ## Syntax

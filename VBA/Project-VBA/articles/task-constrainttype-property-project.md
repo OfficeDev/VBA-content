@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.ConstraintType Property (Project)
 
-Gets or sets a constraint type for a task. Read/write  **Variant**.
+Gets or sets a constraint type for a task. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Gets or sets a constraint type for a task. Read/write  **Variant**.
 
 ## Remarks
 
-The  **ConstraintType** property can be one of the **[PjConstraint](pjconstraint-enumeration-project.md)** constants.
+The **ConstraintType** property can be one of the **[PjConstraint](pjconstraint-enumeration-project.md)** constants.
 
-If you set the  **ConstraintType** property to **pjFNET**, **pjFNLT**, **pjMFO**, **pjMSO**, **pjSNET**, or **pjSNLT**, Project uses the constraint date for the task. To set the constraint date, use the **[ConstraintDate](task-constraintdate-property-project.md)** property.
+If you set the **ConstraintType** property to **pjFNET**, **pjFNLT**, **pjMFO**, **pjMSO**, **pjSNET**, or **pjSNLT**, Project uses the constraint date for the task. To set the constraint date, use the **[ConstraintDate](task-constraintdate-property-project.md)** property.
 
 
 ## Example

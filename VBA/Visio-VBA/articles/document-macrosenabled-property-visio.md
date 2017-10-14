@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-If your document contains macros that are necessary to your solution's execution, you can use the  **MacrosEnabled** property to verify whether macros are enabled in the document. If they are disabled, you can display a message indicating that your solution may not work as expected because document settings prohibit macros from being executed.
+If your document contains macros that are necessary to your solution's execution, you can use the **MacrosEnabled** property to verify whether macros are enabled in the document. If they are disabled, you can display a message indicating that your solution may not work as expected because document settings prohibit macros from being executed.
 
-The value of the  **MacrosEnabled** property depends on a combination of the macro setting and the project's signature status (whether it is digitally signed by a trusted source or in a trusted location). The following table describes these combinations.
+The value of the **MacrosEnabled** property depends on a combination of the macro setting and the project's signature status (whether it is digitally signed by a trusted source or in a trusted location). The following table describes these combinations.
 
 
 
@@ -48,11 +48,11 @@ The value of the  **MacrosEnabled** property depends on a combination of the mac
 | **Enable all macros**|N/A|N/A|True|
 By default, macros are disabled in a Visio document not from a trusted publisher, or that is not digitally signed, or that is not in a trusted location.
 
-However, you can change default settings in the  **Macro Settings** category of the Visio **Trust Center** (click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**). If  **Disable all macros except digitally signed macros** is selected, macros in Visio documents not in a trusted location are enabled only if the documents are digitally signed. If you select **Disable all macros without notification** or **Disable all macros with notification**, macros in documents not in a trusted location are disabled. If you select  **Enable all macros**, all macros are always enabled, but this option presents a security risk and is not recommended.
+However, you can change default settings in the **Macro Settings** category of the Visio **Trust Center** (click the **File** tab, click **Options**, click **Trust Center**, and then click **Trust Center Settings**). If **Disable all macros except digitally signed macros** is selected, macros in Visio documents not in a trusted location are enabled only if the documents are digitally signed. If you select **Disable all macros without notification** or **Disable all macros with notification**, macros in documents not in a trusted location are disabled. If you select **Enable all macros**, all macros are always enabled, but this option presents a security risk and is not recommended.
 
-Trusted sources are listed in the  **Trusted Publishers** category in the **Trust Center**, and trusted locations are listed in the  **Trusted Locations** category.
+Trusted sources are listed in the **Trusted Publishers** category in the **Trust Center**, and trusted locations are listed in the **Trusted Locations** category.
 
-To open a document in a disabled state (macros are not enabled), you can use the  **OpenEx** method of the **Document** object. For example:
+To open a document in a disabled state (macros are not enabled), you can use the **OpenEx** method of the **Document** object. For example:
 
 
 
@@ -64,7 +64,7 @@ Documents.OpenEx(fileName , visOpenMacrosDisabled)
 
 ## Example
 
-The following example shows how use to open a document from an add-on and use the  **MacrosEnabled** property to determine whether macros are enabled. If macros are disabled, a message box appears warning the user of limited functionality. Before running this example, supply a valid document file name for the variable _filename_ .
+The following example shows how use to open a document from an add-on and use the **MacrosEnabled** property to determine whether macros are enabled. If macros are disabled, a message box appears warning the user of limited functionality. Before running this example, supply a valid document file name for the variable _filename_ .
 
 
 ```vb

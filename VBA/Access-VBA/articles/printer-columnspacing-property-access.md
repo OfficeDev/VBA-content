@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.ColumnSpacing Property (Access)
 
-Returns or sets a  **Long** representing the vertical space between detail sections in twips. Read/write.
+Returns or sets a **Long** representing the vertical space between detail sections in twips. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Nodes Property (Word)
 
-Returns a  **ShapeNodes** collection that represents the geometric description of the specified shape.
+Returns a **ShapeNodes** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax

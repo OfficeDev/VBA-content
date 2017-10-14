@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-This method returns  **True** if TargetTextFrame is a valid target and returns **False** if TargetTextFrame already contains text, is already linked, or if the shape doesn't support attached text.
+This method returns **True** if TargetTextFrame is a valid target and returns **False** if TargetTextFrame already contains text, is already linked, or if the shape doesn't support attached text.
 
 
 ## Example

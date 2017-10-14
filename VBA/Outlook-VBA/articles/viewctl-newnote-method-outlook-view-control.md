@@ -15,11 +15,11 @@ Creates and displays a new note item.
 
  _expression_. **NewNote**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-When the new note is saved, it is saved to the  **Notes**folder, if any, that is displayed in the control. If there is no  **Notes** folder displayed in the control, the note is saved to the user's default **Notes** folder.
+When the new note is saved, it is saved to the **Notes**folder, if any, that is displayed in the control. If there is no **Notes** folder displayed in the control, the note is saved to the user's default **Notes** folder.
 
 

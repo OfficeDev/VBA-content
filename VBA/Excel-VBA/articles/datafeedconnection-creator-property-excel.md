@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created.  **Long** Read-only
+Returns a 32-bit integer that indicates the application in which the specified object was created. **Long** Read-only
 
 
 ## Syntax

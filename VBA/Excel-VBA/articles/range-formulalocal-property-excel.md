@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FormulaLocal Property (Excel)
 
-Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **Variant** .
+Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write **Variant** .
 
 
 ## Syntax

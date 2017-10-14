@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSelectionType Enumeration (PowerPoint)
 
-Constants that specify the type of selection, returned by the  **Type** property of the **Selection** object.
+Constants that specify the type of selection, returned by the **Type** property of the **Selection** object.
 
 
 

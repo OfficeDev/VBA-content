@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.FoundTextRange Property (Publisher)
 
-Returns a  **TextRange** object that represents the found text or replaced text of a find operation. Read-only.
+Returns a **TextRange** object that represents the found text or replaced text of a find operation. Read-only.
 
 
 ## Syntax
 
  _expression_. **FoundTextRange**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,19 +30,19 @@ TextRange
 
 ## Remarks
 
-The actual  **TextRange** object returned by the **FoundTextRange** property is determined by the value of the **ReplaceScope** property. The following table lists the corresponding values of these properties.
+The actual **TextRange** object returned by the **FoundTextRange** property is determined by the value of the **ReplaceScope** property. The following table lists the corresponding values of these properties.
 
 
 
-|for  **ReplaceScope** = **pbReplaceScopeAll**| **FoundTextRange** = Empty|
-|for  **ReplaceScope** = **pbReplaceScopeNone**| **FoundTextRange** = Find text range|
-|for  **ReplaceScope** = **pbReplaceScopeOne**| **FoundTextRange** = Replace text range|
-When  **ReplaceScope** is set to **pbReplaceScopeAll**, the  **FoundTextRange** property is empty. Any attempt to access it returns "Access Denied." The way to manipulate the text range of the searched text is to set the **ReplaceScope** property to **pbReplaceScopeNone** or **pbReplaceScopeOne** and access the text range of the searched or replaced text for each occurrence found.
+|for **ReplaceScope** = **pbReplaceScopeAll**| **FoundTextRange** = Empty|
+|for **ReplaceScope** = **pbReplaceScopeNone**| **FoundTextRange** = Find text range|
+|for **ReplaceScope** = **pbReplaceScopeOne**| **FoundTextRange** = Replace text range|
+When **ReplaceScope** is set to **pbReplaceScopeAll**, the **FoundTextRange** property is empty. Any attempt to access it returns "Access Denied." The way to manipulate the text range of the searched text is to set the **ReplaceScope** property to **pbReplaceScopeNone** or **pbReplaceScopeOne** and access the text range of the searched or replaced text for each occurrence found.
 
 
 ## Example
 
-When  **ReplaceScope** is set to **pbReplaceScopeNone**,  **FoundTextRange** returns the text range of the searched text. The following example illustrates how the font attributes of the find text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeNone**.
+When **ReplaceScope** is set to **pbReplaceScopeNone**, **FoundTextRange** returns the text range of the searched text. The following example illustrates how the font attributes of the find text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeNone**.
 
 
 ```vb
@@ -59,7 +59,7 @@ With TextRange.Find
 End With
 ```
 
-When  **ReplaceScope** is set to **pbReplaceScopeOne**, the text range of the searched text is replaced. Therefore, the  **FoundTextRange** property returns the text range of the replacement text. The following example demonstrates how the font attributes of the replaced text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeOne**. 
+When **ReplaceScope** is set to **pbReplaceScopeOne**, the text range of the searched text is replaced. Therefore, the **FoundTextRange** property returns the text range of the replacement text. The following example demonstrates how the font attributes of the replaced text range can be accessed when **ReplaceScope** is set to **pbReplaceScopeOne**. 
 
 
 

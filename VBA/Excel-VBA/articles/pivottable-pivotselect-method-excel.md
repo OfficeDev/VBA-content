@@ -35,7 +35,7 @@ Selects part of a PivotTable report.
 
 ## Remarks
 
-You can use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using  **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
+You can use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.ListNumberStart Property (Publisher)
 
-Sets or retrieves a  **Long** that represents the starting number of a list. Read/write.
+Sets or retrieves a **Long** that represents the starting number of a list. Read/write.
 
 
 ## Syntax
 
  _expression_. **ListNumberStart**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -35,7 +35,7 @@ Returns an "Access Denied" message if the list is not a numbered list.
 
 ## Example
 
-This example sets the list type of a  **ParagraphFormat** object to **pbListTypeArabic** and sets the **ListNumber** property to 4.
+This example sets the list type of a **ParagraphFormat** object to **pbListTypeArabic** and sets the **ListNumber** property to 4.
 
 
 ```vb

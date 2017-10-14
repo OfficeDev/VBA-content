@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Protection Property (Office)
 
-Gets or sets a  **MsoBarProtection** constant representing the way a command bar is protected from user customization. Read/write.
+Gets or sets a **MsoBarProtection** constant representing the way a command bar is protected from user customization. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Gets or sets a  **MsoBarProtection** constant representing the way a command bar
 
 ## Remarks
 
-Using the constant  **msoBarNoCustomize** prevents users from accessing the **Add or Remove Buttons** menu (this menu enables users to customize a toolbar).
+Using the constant **msoBarNoCustomize** prevents users from accessing the **Add or Remove Buttons** menu (this menu enables users to customize a toolbar).
 
 
 ## Example

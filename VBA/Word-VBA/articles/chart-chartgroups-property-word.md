@@ -26,7 +26,7 @@ Returns an object that represents either a single chart group or a collection of
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|The chart group number. If specified, a single  **[ChartGroup](chartgroup-object-word.md)** object is returned. If omitted, a **[ChartGroups](chartgroups-object-word.md)** object, which contains a collection of every **ChartGroup** object for that chart, is returned.|
+| _Index_|Optional| **Variant**|The chart group number. If specified, a single **[ChartGroup](chartgroup-object-word.md)** object is returned. If omitted, a **[ChartGroups](chartgroups-object-word.md)** object, which contains a collection of every **ChartGroup** object for that chart, is returned.|
 
 ## Example
 

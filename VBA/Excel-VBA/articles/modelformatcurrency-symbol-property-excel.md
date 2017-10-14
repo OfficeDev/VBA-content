@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelFormatCurrency.Symbol Property (Excel)
 
-Specifies the symbol to use to represent the currency. Read/write  **String**.
+Specifies the symbol to use to represent the currency. Read/write **String**.
 
 
 ## Syntax

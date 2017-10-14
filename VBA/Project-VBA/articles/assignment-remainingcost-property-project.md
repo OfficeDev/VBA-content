@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.RemainingCost Property (Project)
 
-Gets the remaining cost for the assignment. Read-only  **Variant**.
+Gets the remaining cost for the assignment. Read-only **Variant**.
 
 
 ## Syntax

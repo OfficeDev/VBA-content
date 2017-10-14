@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.ShowBasicColors Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether Microsoft Publisher shows basic colors in the color palette; **True** to show basic colors in the palette. Read/write.
+Returns or sets a **Boolean** indicating whether Microsoft Publisher shows basic colors in the color palette; **True** to show basic colors in the palette. Read/write.
 
 
 ## Syntax
 
  _expression_. **ShowBasicColors**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value

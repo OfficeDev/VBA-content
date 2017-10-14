@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TextEncoding Property (Word)
 
-Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding** .
+Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write **MsoEncoding** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the code page, or character set, that Microsoft Word uses for a 
 
 ## Remarks
 
-The  **TextEncoding** property sets text encoding separately from HTML encoding, which you can set using the **Encoding** property. To set text encoding for all documents saved as text files, use the **DefaultTextEncoding** property.
+The **TextEncoding** property sets text encoding separately from HTML encoding, which you can set using the **Encoding** property. To set text encoding for all documents saved as text files, use the **DefaultTextEncoding** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.LineSlant Property (Access)
 
-You use the  **LineSlant** property to specify whether a[line control](line-control.md)slants from upper left to lower right or from upper right to lower left. Read/write  **Boolean**.
+You use the **LineSlant** property to specify whether a[line control](line-control.md)slants from upper left to lower right or from upper right to lower left. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You use the  **LineSlant** property to specify whether a[line control](line-cont
 
 ## Remarks
 
-The  **LineSlant** property uses the following settings.
+The **LineSlant** property uses the following settings.
 
 
 
@@ -33,7 +33,7 @@ The  **LineSlant** property uses the following settings.
 |:-----|:-----|:-----|
 |**\**|**False**|(Default) Upper left to lower right|
 |**/**|**True**|Upper right to lower left|
-Use the  **LineSlant** property to change a line's direction. To position and size the line on your form or report, use the mouse.
+Use the **LineSlant** property to change a line's direction. To position and size the line on your form or report, use the mouse.
 
 
 ## Example

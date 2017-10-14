@@ -18,7 +18,7 @@ Occurs when all references to an instance of an object are removed from memory b
  **Private Sub**_object_**_Terminate( )**
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-The Terminate event occurs after the object is unloaded. The Terminate event isn't triggered if the instances of the  **UserForm** or[class](vbe-glossary.md) are removed from memory because the application terminated abnormally. For example, if your application invokes the **End** statement before removing all existing instances of the class or **UserForm** from memory, the Terminate event isn't triggered for that class or **UserForm**.
+The Terminate event occurs after the object is unloaded. The Terminate event isn't triggered if the instances of the **UserForm** or[class](vbe-glossary.md) are removed from memory because the application terminated abnormally. For example, if your application invokes the **End** statement before removing all existing instances of the class or **UserForm** from memory, the Terminate event isn't triggered for that class or **UserForm**.
 
 
 
@@ -42,6 +42,6 @@ End Sub
 
 ## Example
 
-The following event procedures cause a  **UserForm** to beep for a few seconds after the user clicks the client area to dismiss the form.
+The following event procedures cause a **UserForm** to beep for a few seconds after the user clicks the client area to dismiss the form.
 
 

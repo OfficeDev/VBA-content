@@ -30,7 +30,7 @@ Saves a Visual Reports database to the default directory or to a specified direc
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the database file (.mbd).|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. Default is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. Default is **pjLevelAutomatic**.|
 
 ### Return Value
 
@@ -39,12 +39,12 @@ Saves a Visual Reports database to the default directory or to a specified direc
 
 ## Remarks
 
-The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
+The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
 
 ## Example
 
-Following is an example of using The  **VisualReportsSaveDatabase** method.
+Following is an example of using The **VisualReportsSaveDatabase** method.
 
 
 ```vb

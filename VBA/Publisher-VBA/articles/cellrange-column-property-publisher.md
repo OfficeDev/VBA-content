@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CellRange.Column Property (Publisher)
 
-Returns a  **Long** that represents the table column containing the specified cell. Read-only.
+Returns a **Long** that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax
 
  _expression_. **Column**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_A variable that represents a **CellRange** object.
 
 
 ## Example

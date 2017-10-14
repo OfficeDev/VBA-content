@@ -33,9 +33,9 @@ Sets the specified fill to a pattern.
 
 ## Remarks
 
-Use the [BackColor](fillformat-backcolor-property-powerpoint.md)and  **[ForeColor](fillformat-forecolor-property-powerpoint.md)** properties to set the colors used in the pattern.
+Use the [BackColor](fillformat-backcolor-property-powerpoint.md)and **[ForeColor](fillformat-forecolor-property-powerpoint.md)** properties to set the colors used in the pattern.
 
-The value of the Pattern parameter can be one of these  **MsoPatternType** constants.
+The value of the Pattern parameter can be one of these **MsoPatternType** constants.
 
 
 ||

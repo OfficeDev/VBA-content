@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.Views Property (Project)
 
-Gets a  **[Views](view-object-project.md)** collection representing the views of the project. Read-only **Views**.
+Gets a **[Views](view-object-project.md)** collection representing the views of the project. Read-only **Views**.
 
 
 ## Syntax

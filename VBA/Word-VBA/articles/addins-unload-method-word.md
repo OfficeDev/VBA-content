@@ -33,12 +33,12 @@ Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ 
 
 ## Remarks
 
-To unload a single template or WLL, set the  **[Installed](addin-installed-property-word.md)** property of the **AddIn** object to **False** . To remove a single template or WLL from the **AddIns** collection, apply the **[Delete](addin-delete-method-word.md)** method to the **AddIn** object.
+To unload a single template or WLL, set the **[Installed](addin-installed-property-word.md)** property of the **AddIn** object to **False** . To remove a single template or WLL from the **AddIns** collection, apply the **[Delete](addin-delete-method-word.md)** method to the **AddIn** object.
 
 
 ## Example
 
-This example unloads all the add-ins listed in the  **Templates and Add-ins** dialog box. The add-in names remain in the **AddIns** collection.
+This example unloads all the add-ins listed in the **Templates and Add-ins** dialog box. The add-in names remain in the **AddIns** collection.
 
 
 ```vb

@@ -30,11 +30,11 @@ Drags a page break out of the print area.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[XlDirection](xldirection-enumeration-excel.md)**|The direction in which the page break is dragged.|
-| _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there?s only one print region. If the print area is discontiguous, there?s more than one print region.|
+| _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there's only one print region. If the print area is discontiguous, there's more than one print region.|
 
 ## Remarks
 
-This method exists primarily for the macro recorder. You can use the  **[Delete](hpagebreak-delete-method-excel.md)** method to delete a page break in Visual Basic.
+This method exists primarily for the macro recorder. You can use the **[Delete](hpagebreak-delete-method-excel.md)** method to delete a page break in Visual Basic.
 
 
 ## Example

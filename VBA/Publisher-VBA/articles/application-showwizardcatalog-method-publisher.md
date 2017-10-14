@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ShowWizardCatalog Method (Publisher)
 
-Displays the  **Publication Types** catalog for the wizard of the specified type.
+Displays the **Publication Types** catalog for the wizard of the specified type.
 
 
 ## Syntax
 
  _expression_. **ShowWizardCatalog**( **_Wizard_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Displays the  **Publication Types** catalog for the wizard of the specified type
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShowWizardCatalog** method to show the wizard catalog for brochures.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ShowWizardCatalog** method to show the wizard catalog for brochures.
 
 
 ```vb

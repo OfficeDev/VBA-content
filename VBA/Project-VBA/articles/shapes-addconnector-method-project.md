@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddConnector Method (Project)
-Creates a connector and returns a  **Shape** object the represents the new connector.
+Creates a connector and returns a **Shape** object the represents the new connector.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**MsoConnectorType**|The type of connector. Can be one of the following constants:  **msoConnectorElbow**,  **msoConnectorTypeMixed**,  **msoConnectorCurve**, or  **msoConnectorStraight**.|
+| _Type_|Required|**MsoConnectorType**|The type of connector. Can be one of the following constants: **msoConnectorElbow**, **msoConnectorTypeMixed**, **msoConnectorCurve**, or **msoConnectorStraight**.|
 | _BeginX_|Required|**Single**|The horizontal position (in points) of the connector's starting point, relative to the upper-left corner of the document.|
 | _BeginY_|Required|**Single**|The vertical position (in points) of the connector's starting point.|
 | _EndX_|Required|**Single**|The horizontal position (in points) of the connector's end point.|
@@ -42,7 +42,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
 ## Remarks
 
 
- **Note**  In Project, the methods to attach the beginning and end of a connector to other shapes in the report ( **ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the  **AddConnector** parameters to position the connector. For more information, see the[ConnectorFormat](shape-connectorformat-property-project.md) property.
+ **Note**  In Project, the methods to attach the beginning and end of a connector to other shapes in the report ( **ConnectorFormat.BeginConnect** and **ConnectorFormat.EndConnect**) do not work. You can use only the **AddConnector** parameters to position the connector. For more information, see the[ConnectorFormat](shape-connectorformat-property-project.md) property.
 
 
 ## Example

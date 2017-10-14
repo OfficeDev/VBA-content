@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ShowSourceDocuments Property (Word)
 
-Returns or sets a  **[WdShowSourceDocuments](wdshowsourcedocuments-enumeration-word.md)** constant that represents how Microsoft Word displays source documents after a compare and merge process. Read/write.
+Returns or sets a **[WdShowSourceDocuments](wdshowsourcedocuments-enumeration-word.md)** constant that represents how Microsoft Word displays source documents after a compare and merge process. Read/write.
 
 
 ## Syntax

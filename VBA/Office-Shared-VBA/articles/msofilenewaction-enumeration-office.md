@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoFileNewAction Enumeration (Office)
 
-Specifies action to take when a user clicks an item in the task pane. Used with the  **Add** method of the **NewFile** object.
+Specifies action to take when a user clicks an item in the task pane. Used with the **Add** method of the **NewFile** object.
 
 
 

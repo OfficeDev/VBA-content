@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Cut Text from One Text Box and Paste it on Another
 
-The following example uses the  **[Cut](textbox-cut-method-outlook-forms-script.md)** and **[Paste](textbox-paste-method-outlook-forms-script.md)** methods to cut text from one **[TextBox](textbox-object-outlook-forms-script.md)** and paste it on another **TextBox**.
+The following example uses the **[Cut](textbox-cut-method-outlook-forms-script.md)** and **[Paste](textbox-paste-method-outlook-forms-script.md)** methods to cut text from one **[TextBox](textbox-object-outlook-forms-script.md)** and paste it on another **TextBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
     
 
 

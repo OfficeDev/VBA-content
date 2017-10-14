@@ -18,9 +18,9 @@ Represents objects that have been allocated in a workbook.
 
 ## Example
 
-Use the  **[UsedObjects](application-usedobjects-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **UsedObjects** collection.
+Use the **[UsedObjects](application-usedobjects-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **UsedObjects** collection.
 
-Once a  **UsedObjects** collection is returned, you can determine the quantity of used objects in a Microsoft Excel application using the **[Count](usedobjects-count-property-excel.md)** property.
+Once a **UsedObjects** collection is returned, you can determine the quantity of used objects in a Microsoft Excel application using the **[Count](usedobjects-count-property-excel.md)** property.
 
 
 

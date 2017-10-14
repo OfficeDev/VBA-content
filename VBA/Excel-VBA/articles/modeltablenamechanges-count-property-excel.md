@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChanges.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of a[ModelTableNameChange Object (Excel)](modeltablenamechange-object-excel.md) objects in a[ModelTableNameChanges Object (Excel)](modeltablenamechanges-object-excel.md) collection. Read-only.
+Returns a **Long** value that represents the number of a[ModelTableNameChange Object (Excel)](modeltablenamechange-object-excel.md) objects in a[ModelTableNameChanges Object (Excel)](modeltablenamechanges-object-excel.md) collection. Read-only.
 
 
 ## Syntax

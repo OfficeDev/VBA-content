@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # MultiPage.TabFixedWidth Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that represents the width in points of the tabs on a **[MultiPage](multipage-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a **Single** that represents the width in points of the tabs on a **[MultiPage](multipage-object-outlook-forms-script.md)**. Read/write.
 
 
 ## Syntax
 
  _expression_. **TabFixedWidth**
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_A variable that represents a **MultiPage** object.
 
 
 ## Remarks

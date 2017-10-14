@@ -26,7 +26,7 @@ Deletes the report.
 
 ## Example
 
-The following example determines whether a report named  **Report 1** exists, and if so, deletes the report. If the report is active, change to another view before you delete it; otherwise, Project shows run-time error 1004: **The table "Report 1" is in use and cannot be copied or deleted.**
+The following example determines whether a report named **Report 1** exists, and if so, deletes the report. If the report is active, change to another view before you delete it; otherwise, Project shows run-time error 1004: **The table "Report 1" is in use and cannot be copied or deleted.**
 
 
 ```vb

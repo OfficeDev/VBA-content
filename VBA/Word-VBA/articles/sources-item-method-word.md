@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sources.Item Method (Word)
 
-Returns a  **Source** object that represents the specified item in the collection.
+Returns a **Source** object that represents the specified item in the collection.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.prod: excel
 
 # Workbook.CreateForecastSheet Method (Excel)
 
-If you have historical time-based data, you can use  **CreateForecastSheet** to create a forecast. When you create a forecast, a new worksheet is created that contains a table of the historical and predicted values and a chart showing this. A forecast can help you predict things like future sales, inventory requirements, or consumer trends.
+If you have historical time-based data, you can use **CreateForecastSheet** to create a forecast. When you create a forecast, a new worksheet is created that contains a table of the historical and predicted values and a chart showing this. A forecast can help you predict things like future sales, inventory requirements, or consumer trends.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ If you have historical time-based data, you can use  **CreateForecastSheet** to 
 
 
 |||||
-| _Timeline_|Required|RANGE|The independent array or range of numeric data. The dates in the timeline must have a consistent step between them and can?t be zero. The timeline isn't required to be sorted, as the forecast mechanism will sort it implicitly for calculations. If a constant step can't be identified in the provided timeline, then Invalid procedure call or argument (Error 5) will be returned.|
+| _Timeline_|Required|RANGE|The independent array or range of numeric data. The dates in the timeline must have a consistent step between them and can't be zero. The timeline isn't required to be sorted, as the forecast mechanism will sort it implicitly for calculations. If a constant step can't be identified in the provided timeline, then Invalid procedure call or argument (Error 5) will be returned.|
 | _Values_|Required|RANGE| Values are the historical values, for which you want to forecast the next points.|
 | _ForecastStart_|Optional|VARIANT|The point from which the generated forecast will begin.|
 | _ForecastEnd_|Optional|VARIANT|The point in which the generated forecast will end.|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Delete Method (PowerPoint)
 
-Deletes the specified  **Shape** object.
+Deletes the specified **Shape** object.
 
 
 ## Syntax

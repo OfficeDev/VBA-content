@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LayoutInCell Property (Word)
 
-Returns a  **Long** that represents whether a shape in a table is displayed inside or outside the table.
+Returns a **Long** that represents whether a shape in a table is displayed inside or outside the table.
 
 
 ## Syntax
@@ -27,15 +27,15 @@ Returns a  **Long** that represents whether a shape in a table is displayed insi
 
  **True** indicates that a specified picture is displayed inside the table. **False** indicates that a specified picture is displayed outside the table.
 
-The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
+The **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting.
 
 
- **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
+ **Note**  Setting the **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
 
 
 ## Example
 
-The following example disables the  **Layout in table cell** option for the first shape in the active document. This example assumes that the specified shape is within a table and is not an inline shape.
+The following example disables the **Layout in table cell** option for the first shape in the active document. This example assumes that the specified shape is within a table and is not an inline shape.
 
 
 ```vb

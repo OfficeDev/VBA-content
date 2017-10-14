@@ -18,12 +18,12 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you do not want to format all the text in an  **[AxisTitle](axistitle-object-word.md)** , **[ChartTitle](charttitle-object-word.md)** , **[DataLabel](datalabel-object-word.md)** , or **[DisplayUnitLabel](displayunitlabel-object-word.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](chartcharacters-object-word.md)** object. Then use the **[Font](chartcharacters-font-property-word.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
+If you do not want to format all the text in an **[AxisTitle](axistitle-object-word.md)** , **[ChartTitle](charttitle-object-word.md)** , **[DataLabel](datalabel-object-word.md)** , or **[DisplayUnitLabel](displayunitlabel-object-word.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](chartcharacters-object-word.md)** object. Then use the **[Font](chartcharacters-font-property-word.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
 
 
 ## Example
 
-The following example formats the title of the first chart as bold. Use the  **Font** property to return the **ChartFont** object.
+The following example formats the title of the first chart as bold. Use the **Font** property to return the **ChartFont** object.
 
 
 ```vb

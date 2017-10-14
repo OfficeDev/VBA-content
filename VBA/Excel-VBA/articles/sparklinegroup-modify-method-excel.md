@@ -29,7 +29,7 @@ Sets the location and the source data for the sparkline group.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **Range**|The  **[Range](range-object-excel.md)** object that represents the location of the sparkline group.|
+| _Location_|Required| **Range**|The **[Range](range-object-excel.md)** object that represents the location of the sparkline group.|
 | _SourceData_|Required| **String**|The range that represents the source data for the sparkline group.|
 
 ### Return Value

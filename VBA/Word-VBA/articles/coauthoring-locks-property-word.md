@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.Locks Property (Word)
 
-Returns a  **[CoAuthLocks](coauthlocks-object-word.md)** collection that represents the locks in the document. Read-only.
+Returns a **[CoAuthLocks](coauthlocks-object-word.md)** collection that represents the locks in the document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant that indicates the class of the object. Read-only.
+Returns an **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant that indicates the class of the object. Read-only.
 
 
 ## Syntax

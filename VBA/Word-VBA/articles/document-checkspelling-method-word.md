@@ -34,7 +34,7 @@ Begins a spelling check for the specified document or range. .
 
 ## Remarks
 
-If the document or range contains errors, this method displays the  **Spelling and Grammar** dialog box ( **Tools** menu), with the **Check grammar** check box cleared. For a document, this method checks all available stories (such as headers, footers, and text boxes).
+If the document or range contains errors, this method displays the **Spelling and Grammar** dialog box ( **Tools** menu), with the **Check grammar** check box cleared. For a document, this method checks all available stories (such as headers, footers, and text boxes).
 
 
 ## Example

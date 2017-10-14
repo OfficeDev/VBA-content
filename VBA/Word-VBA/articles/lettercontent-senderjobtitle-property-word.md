@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SenderJobTitle Property (Word)
 
-Returns or sets the job title of the person creating a letter with the Letter Wizard. Read/write  **String** .
+Returns or sets the job title of the person creating a letter with the Letter Wizard. Read/write **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarControls Object (Office)
 
-A collection of  **CommandBarControl** objects that represent the command bar controls on a command bar.
+A collection of **CommandBarControl** objects that represent the command bar controls on a command bar.
 
 
 ## 
@@ -24,7 +24,7 @@ A collection of  **CommandBarControl** objects that represent the command bar co
 
 ## Example
 
-Use the  **Controls** property to return the **CommandBarControls** collection. The following example changes the caption of every control on the toolbar named "Standard" to the current value of the **Id** property for that control.
+Use the **Controls** property to return the **CommandBarControls** collection. The following example changes the caption of every control on the toolbar named "Standard" to the current value of the **Id** property for that control.
 
 
 ```
@@ -33,7 +33,7 @@ For Each ctl In CommandBars("Standard").Controls
 Next ctl
 ```
 
-Use the  **Add** method to add a new command bar control to the **CommandBarControls** collection. This example adds a new, blank button to the command bar named "Custom."
+Use the **Add** method to add a new command bar control to the **CommandBarControls** collection. This example adds a new, blank button to the command bar named "Custom."
 
 
 

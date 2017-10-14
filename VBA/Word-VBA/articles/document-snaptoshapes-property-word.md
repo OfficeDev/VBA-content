@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property creates additional invisible gridlines for each AutoShape.  **SnapToShapes** works independently of the **[SnapToGrid](document-snaptogrid-property-word.md)** property.
+This property creates additional invisible gridlines for each AutoShape. **SnapToShapes** works independently of the **[SnapToGrid](document-snaptogrid-property-word.md)** property.
 
 
 ## Example

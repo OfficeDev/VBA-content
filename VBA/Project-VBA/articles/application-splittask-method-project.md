@@ -38,6 +38,6 @@ Enters the interactive task split mode, enabling the user to manually create tas
 
 ## Remarks
 
-The  **SplitTask** method requires user interaction before additional code can be executed. The **SplitTask** method is only available in Gantt views; it corresponds to the **Split Task** icon on the **Task** tab of the Ribbon.
+The **SplitTask** method requires user interaction before additional code can be executed. The **SplitTask** method is only available in Gantt views; it corresponds to the **Split Task** icon on the **Task** tab of the Ribbon.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Watches Property (Excel)
 
-Returns a  **[Watches](watches-object-excel.md)** object representing a range which is tracked when the worksheet is recalculated.
+Returns a **[Watches](watches-object-excel.md)** object representing a range which is tracked when the worksheet is recalculated.
 
 
 ## Syntax

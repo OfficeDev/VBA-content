@@ -41,7 +41,7 @@ Variant
 
 ## Remarks
 
-If you don?t specify one of  _Top_,  _Left_,  _Bottom_, or  _Right_, Microsoft Excel guesses the location of the text labels, based on the shape of the specified range.
+If you don't specify one of  _Top_,  _Left_,  _Bottom_, or  _Right_, Microsoft Excel guesses the location of the text labels, based on the shape of the specified range.
 
 
 ## Example

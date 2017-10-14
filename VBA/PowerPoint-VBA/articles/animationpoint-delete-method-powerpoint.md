@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationPoint.Delete Method (PowerPoint)
 
-Deletes the specified  **AnimationPoint** object.
+Deletes the specified **AnimationPoint** object.
 
 
 ## Syntax

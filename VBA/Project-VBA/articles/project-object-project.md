@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project Object (Project)
 
-Represents one project in the set of open projects. The  **Project** object is a member of the **[Projects](projects-object-project.md)** collection.
+Represents one project in the set of open projects. The **Project** object is a member of the **[Projects](projects-object-project.md)** collection.
 
 
 ## Events

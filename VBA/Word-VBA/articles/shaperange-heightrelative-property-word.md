@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.HeightRelative Property (Word)
 
-Returns or sets a  **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
+Returns or sets a **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that represents the percentage of the target shape
 
 ## Remarks
 
-Use this property with the  **[RelativeVerticalSize](shaperange-relativeverticalsize-property-word.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](wdshapesizerelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The height is solely determined by the **[Height](shaperange-height-property-word.md)** property.
+Use this property with the **[RelativeVerticalSize](shaperange-relativeverticalsize-property-word.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](wdshapesizerelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The height is solely determined by the **[Height](shaperange-height-property-word.md)** property.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.RegularWork Property (Project)
 
-Gets the amount of regular work for the resource. Read-only  **Variant**.
+Gets the amount of regular work for the resource. Read-only **Variant**.
 
 
 ## Syntax

@@ -12,13 +12,13 @@ Building blocks and content controls are extremely flexible. You can create buil
 
 The objects used in this sample are:
 
--  **[Template](template-object-word.md)**
+- **[Template](template-object-word.md)**
     
--  **[BuildingBlock](buildingblock-object-word.md)**
+- **[BuildingBlock](buildingblock-object-word.md)**
     
--  **[Range](range-object-word.md)**
+- **[Range](range-object-word.md)**
     
--  **[ContentControl](contentcontrol-object-word.md)**
+- **[ContentControl](contentcontrol-object-word.md)**
     
 The following code inserts a content control into the active document, and then adds the content control to the collection of building blocks in the template attached to the active document.
 

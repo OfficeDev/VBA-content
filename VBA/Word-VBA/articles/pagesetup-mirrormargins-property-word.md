@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **MirrorMargins** property can be **True** , **False** , or **wdUndefined** . If the **MirrorMargins** property is set to **True** , the **[LeftMargin](pagesetup-leftmargin-property-word.md)** property controls the setting for inside margins and the **[RightMargin](pagesetup-rightmargin-property-word.md)** property controls the setting for outside margins.
+The **MirrorMargins** property can be **True** , **False** , or **wdUndefined** . If the **MirrorMargins** property is set to **True** , the **[LeftMargin](pagesetup-leftmargin-property-word.md)** property controls the setting for inside margins and the **[RightMargin](pagesetup-rightmargin-property-word.md)** property controls the setting for outside margins.
 
 
 ## Example
 
-This example sets the inside margins of the active document to 1 inch (72 points) and the outside margins to 0.5 inch. The  **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
+This example sets the inside margins of the active document to 1 inch (72 points) and the outside margins to 0.5 inch. The **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
 
 
 ```vb

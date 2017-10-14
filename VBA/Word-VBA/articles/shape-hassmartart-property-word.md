@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.HasSmartArt Property (Word)
 
-Returns  **True** if there is a SmartArt diagram present on the shape. Read-only.
+Returns **True** if there is a SmartArt diagram present on the shape. Read-only.
 
 
 ## Syntax

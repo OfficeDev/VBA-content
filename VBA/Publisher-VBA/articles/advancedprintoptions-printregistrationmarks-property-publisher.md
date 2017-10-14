@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdvancedPrintOptions.PrintRegistrationMarks Property (Publisher)
 
- **True** to print registration marks for the specified publication. The default is **True**. Read/write  **Boolean**.
+ **True** to print registration marks for the specified publication. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **PrintRegistrationMarks**
 
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ _expression_A variable that represents a **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Boolean
 
 Returns "Permission Denied" if any print mode other than separations is selected for the specified publication.
 
-This property corresponds to the  **Registration marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+This property corresponds to the **Registration marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
 
 Registration marks are used to align (register) the printing of two or more press plates on a single page.
 

@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # TaskRequestUpdateItem Object (Outlook)
 
-Represents a response to a  **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
+Represents a response to a **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
 
 
 ## Remarks
 
-If the delegated user updates the task by changing properties such as the  **[DueDate](taskitem-duedate-property-outlook.md)** or the **[Status](taskitem-status-property-outlook.md)**, and then sends it, the associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
+If the delegated user updates the task by changing properties such as the **[DueDate](taskitem-duedate-property-outlook.md)** or the **[Status](taskitem-status-property-outlook.md)**, and then sends it, the associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
+Use the **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
 
 
 ## Events

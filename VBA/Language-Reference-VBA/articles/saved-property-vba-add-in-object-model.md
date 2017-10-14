@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Boolean](vbe-glossary.md) value indicating whether or not the object was edited since the last time it was saved. Read/write.
  **Return Values**
-The  **Saved** property returns these values:
+The **Saved** property returns these values:
 
 
 |**Value**|**Description**|
@@ -23,8 +23,8 @@ The  **Saved** property returns these values:
 |**True**|The object has not been edited since the last time it was saved.|
 |**False**|The object has been edited since the last time it was saved.|
  **Remarks**
-The  **SaveAs** method sets the **Saved** property to **True**.
+The **SaveAs** method sets the **Saved** property to **True**.
 
- **Note**  If you set the  **Saved** property to **False** in code, it returns **False**, and the object is marked as if it were edited since the last time it was saved.
+ **Note**  If you set the **Saved** property to **False** in code, it returns **False**, and the object is marked as if it were edited since the last time it was saved.
 
 

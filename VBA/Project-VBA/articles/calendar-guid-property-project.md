@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.Guid Property (Project)
 
-Gets the GUID of the calendar. Read-only  **String**.
+Gets the GUID of the calendar. Read-only **String**.
 
 
 ## Syntax

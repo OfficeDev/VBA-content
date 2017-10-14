@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.DeliveryStore Property (Outlook)
 
-Returns a  **[Store](store-object-outlook.md)** object that represents the default delivery store for the account. Read-only.
+Returns a **[Store](store-object-outlook.md)** object that represents the default delivery store for the account. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Store](store-object-outlook.md)** object that represents the defau
 
 ## Remarks
 
-Returns  **Null** ( **Nothing** in Visual Basic) if the account does not have a default delivery store.
+Returns **Null** ( **Nothing** in Visual Basic) if the account does not have a default delivery store.
 
 
 ## See also

@@ -18,7 +18,7 @@ Provides access to the Office Art formatting for chart elements.
 
 ## Remarks
 
-Using a property or method that does not apply to the type of object the  **ChartFormat** object is attached to will result in a run-time error.
+Using a property or method that does not apply to the type of object the **ChartFormat** object is attached to will result in a run-time error.
 
 
 ## Properties

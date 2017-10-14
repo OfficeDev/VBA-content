@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.PivotFields Property (Excel)
 
-Returns the  **[PivotFields](pivotfields-object-excel.md)** collection. This collection contains all PivotTable fields, including those that aren't currently visible on-screen. Read-only **PivotFields** object.
+Returns the **[PivotFields](pivotfields-object-excel.md)** collection. This collection contains all PivotTable fields, including those that aren't currently visible on-screen. Read-only **PivotFields** object.
 
 
 ## Syntax

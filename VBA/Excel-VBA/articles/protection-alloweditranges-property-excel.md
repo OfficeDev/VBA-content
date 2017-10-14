@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowEditRanges Property (Excel)
 
-Returns an  **[AllowEditRanges](alloweditranges-object-excel.md)** object.
+Returns an **[AllowEditRanges](alloweditranges-object-excel.md)** object.
 
 
 ## Syntax

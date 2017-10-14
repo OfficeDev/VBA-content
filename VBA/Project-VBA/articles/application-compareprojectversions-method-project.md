@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CompareProjectVersions Method (Project)
 
-Displays the  **Compare Project Versions** dialog box to compare two versions of a project.
+Displays the **Compare Project Versions** dialog box to compare two versions of a project.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Displays the  **Compare Project Versions** dialog box to compare two versions of
 
 ## Remarks
 
-The  **CompareProjectVersions** method is equivalent to the **Compare Projects** command in the **Reports** group of the **Project** tab on the Ribbon. If you want programmatic control of the project comparison feature (such as whether difference columns are displayed), use the **[CreateComparisonReport](application-createcomparisonreport-method-project.md)** method.
+The **CompareProjectVersions** method is equivalent to the **Compare Projects** command in the **Reports** group of the **Project** tab on the Ribbon. If you want programmatic control of the project comparison feature (such as whether difference columns are displayed), use the **[CreateComparisonReport](application-createcomparisonreport-method-project.md)** method.
 
 
 ## Example
 
-The following example checks whether a project is open before calling the  **CompareProjectVersions** method. If a project is open, the code checks whether there are either tasks or resources in the project before calling the method.
+The following example checks whether a project is open before calling the **CompareProjectVersions** method. If a project is open, the code checks whether there are either tasks or resources in the project before calling the method.
 
 
 ```vb

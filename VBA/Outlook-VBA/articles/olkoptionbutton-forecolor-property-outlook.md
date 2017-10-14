@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.ForeColor Property (Outlook)
 
-Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.
+Returns or sets a **Long** that indicates the foreground color of the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
 ## Remarks
 
-This property is of the type  **OLE_COLOR** which is a **Long** value. The default value for this property is 0x80000008, "Window Text."
+This property is of the type **OLE_COLOR** which is a **Long** value. The default value for this property is 0x80000008, "Window Text."
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Index Property (Office)
 
-Gets a  **Long** representing the index number for an **CommandBarButton** object in the collection. Read-only.
+Gets a **Long** representing the index number for an **CommandBarButton** object in the collection. Read-only.
 
 
 ## 
@@ -33,7 +33,7 @@ Integer
 
 ## Remarks
 
-The position of the first command bar control is 1. Separators are not counted in the  **CommandBarControls** collection.
+The position of the first command bar control is 1. Separators are not counted in the **CommandBarControls** collection.
 
 
 ## Example

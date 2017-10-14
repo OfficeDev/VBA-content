@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.Width Property (Word)
 
-Returns or sets the width, in points, of a line. Read/write  **Long** .
+Returns or sets the width, in points, of a line. Read/write **Long** .
 
 
 ## Syntax

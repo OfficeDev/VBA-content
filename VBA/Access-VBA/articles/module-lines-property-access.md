@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.Lines Property (Access)
 
-The  **Lines** property returns a string containing the contents of a specified line or lines in a standard module or a class module. Read-only **String**.
+The **Lines** property returns a string containing the contents of a specified line or lines in a standard module or a class module. Read-only **String**.
 
 
 ## Syntax
@@ -34,9 +34,9 @@ The  **Lines** property returns a string containing the contents of a specified 
 
 ## Remarks
 
-Lines in a module are numbered beginning with 1. For example, if you read the  **Lines** property with a value of 1 for the _line_ argument and 1 for the _numlines_ argument, the **Lines** property returns a string containing the text of the first line in the module.
+Lines in a module are numbered beginning with 1. For example, if you read the **Lines** property with a value of 1 for the _line_ argument and 1 for the _numlines_ argument, the **Lines** property returns a string containing the text of the first line in the module.
 
-To insert a line of text into a module, use the  **[InsertLines](module-insertlines-method-access.md)** method.
+To insert a line of text into a module, use the **[InsertLines](module-insertlines-method-access.md)** method.
 
 
 ## Example

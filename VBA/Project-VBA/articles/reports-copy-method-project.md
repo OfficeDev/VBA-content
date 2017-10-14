@@ -22,7 +22,7 @@ Copies a custom report and creates a new report with the same content.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Source_|Required|**Variant**|Name or  **Report** object of the report to copy.|
+| _Source_|Required|**Variant**|Name or **Report** object of the report to copy.|
 | _NewName_|Required|**String**|Name of the new report.|
 | _Source_|Required|VARIANT||
 | _NewName_|Required|STRING||
@@ -36,7 +36,7 @@ The new report.
 
 ## Example
 
-The  **CopyAReport** macro checks whether the specified report to copy exists, and checks whether the new report already exists. The macro then uses one of the variants of the _Source_ parameter to create a copy of the report, and then displays the new report.
+The **CopyAReport** macro checks whether the specified report to copy exists, and checks whether the new report already exists. The macro then uses one of the variants of the _Source_ parameter to create a copy of the report, and then displays the new report.
 
 
 ```vb

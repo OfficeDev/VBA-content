@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Resume Property (Project)
 
-Gets or sets the date that the remaining portion of the task is scheduled to resume after you enter any progress. Read/write  **Variant**.
+Gets or sets the date that the remaining portion of the task is scheduled to resume after you enter any progress. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the date that the remaining portion of the task is scheduled to res
 
 ## Remarks
 
-If no progress is entered on the task, the  **Resume** property is "NA".
+If no progress is entered on the task, the **Resume** property is "NA".
 
 

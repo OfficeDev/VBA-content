@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Group Method (PowerPoint)
 
-Groups the shapes in the specified range. Returns the grouped shapes as a single  **[Shape](shape-object-powerpoint.md)** object.
+Groups the shapes in the specified range. Returns the grouped shapes as a single **[Shape](shape-object-powerpoint.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-powerpoint.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **[Shapes](shapes-object-powerpoint.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

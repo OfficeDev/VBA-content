@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelItems Object (Visio)
 
-Includes an  **AccelItem** object for each accelerator in a Microsoft Visio window context.
+Includes an **AccelItem** object for each accelerator in a Microsoft Visio window context.
 
 
 ## Remarks
@@ -21,10 +21,10 @@ Includes an  **AccelItem** object for each accelerator in a Microsoft Visio wind
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-To retrieve an  **AccelItems** collection, use the **AccelItems** property of an **AccelTable** object.
+To retrieve an **AccelItems** collection, use the **AccelItems** property of an **AccelTable** object.
 
-The default property for an  **AccelItems** collection is **Item** .
+The default property for an **AccelItems** collection is **Item** .
 
-Unlike other Visio collections, the  **AccelItems** collection is indexed starting with zero (0) rather than 1.
+Unlike other Visio collections, the **AccelItems** collection is indexed starting with zero (0) rather than 1.
 
 

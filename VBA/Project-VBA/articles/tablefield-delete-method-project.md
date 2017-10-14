@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableField.Delete Method (Project)
 
-Deletes the  **TableField** object from a **TableFields** collection.
+Deletes the **TableField** object from a **TableFields** collection.
 
 
 ## Syntax

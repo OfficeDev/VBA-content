@@ -24,25 +24,25 @@ This feature is turned on when you first start, but you can turn it off if you p
  **To enable syntax checking**
 
 
-1. On the  **Tools** menu, click **Options**.
+1. On the **Tools** menu, click **Options**.
     
-2. Select the  **Editor** tab.
+2. Select the **Editor** tab.
     
-3. Select the  **Auto Syntax Check** check box.
+3. Select the **Auto Syntax Check** check box.
     
-4. Click  **OK**.
+4. Click **OK**.
     
 
  **To disable syntax checking**
 
 
-1. Click  **Options** on the **Tools** menu.
+1. Click **Options** on the **Tools** menu.
     
-2. Select the  **Editor** tab.
+2. Select the **Editor** tab.
     
-3. Clear the  **Auto Syntax Check** check box.
+3. Clear the **Auto Syntax Check** check box.
     
-4. Click  **OK**.
+4. Click **OK**.
     
 
 

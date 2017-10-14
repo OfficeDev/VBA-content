@@ -36,12 +36,12 @@ Sets the starting and ending character positions for an existing range.
 
 Character position values start at the beginning of the story, with the first value being 0 (zero). All characters are counted, including nonprinting characters. Hidden characters are counted even if they're not displayed.
 
-The  **SetRange** method redefines the starting and ending positions of an existing **Range** object. This method differs from the **Range** method, which is used to create a range, given a starting and ending position.
+The **SetRange** method redefines the starting and ending positions of an existing **Range** object. This method differs from the **Range** method, which is used to create a range, given a starting and ending position.
 
 
 ## Example
 
-This example uses  **SetRange** to redefine _myRange_ to refer to the first three paragraphs in the active document.
+This example uses **SetRange** to redefine _myRange_ to refer to the first three paragraphs in the active document.
 
 
 ```vb
@@ -50,7 +50,7 @@ myRange.SetRange Start:=myRange.Start, _
  End:=ActiveDocument.Paragraphs(3).Range.End
 ```
 
-This example uses  **SetRange** to redefine _myRange_ to refer to the area starting at the beginning of the document and ending at the end of the current selection.
+This example uses **SetRange** to redefine _myRange_ to refer to the area starting at the beginning of the document and ending at the end of the current selection.
 
 
 

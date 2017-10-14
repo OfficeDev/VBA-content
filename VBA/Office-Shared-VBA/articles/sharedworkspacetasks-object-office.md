@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceTasks Object (Office)
 
-A collection of the  **[SharedWorkspaceTask](sharedworkspacetask-object-office.md)** objects in the current shared workspace site.
+A collection of the **[SharedWorkspaceTask](sharedworkspacetask-object-office.md)** objects in the current shared workspace site.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,7 +21,7 @@ A collection of the  **[SharedWorkspaceTask](sharedworkspacetask-object-office.m
 
 ## Example
 
-Use the  **[Tasks](sharedworkspace-tasks-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceTasks** collection.
+Use the **[Tasks](sharedworkspace-tasks-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceTasks** collection.
 
 
 ```

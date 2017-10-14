@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.WindowState Property (Excel)
 
-Returns or sets the state of the specified  **Protected View** window. Read/write
+Returns or sets the state of the specified **Protected View** window. Read/write
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns or sets the state of the specified  **Protected View** window. Read/writ
 
 ## Example
 
-The following code example maximizes the active  **Protected View** window.
+The following code example maximizes the active **Protected View** window.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OfficeTheme.ThemeFontScheme Property (Office)
 
-Gets a  **ThemeFontScheme** object that represents the font scheme of a Microsoft Office theme. Read-only.
+Gets a **ThemeFontScheme** object that represents the font scheme of a Microsoft Office theme. Read-only.
 
 
 ## Syntax

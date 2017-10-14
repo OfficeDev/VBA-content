@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroups.Item Property (Excel)
 
-Returns a  **[SparklineGroup](sparklinegroup-object-excel.md)** object from a collection. Read-only.
+Returns a **[SparklineGroup](sparklinegroup-object-excel.md)** object from a collection. Read-only.
 
 
 ## Syntax

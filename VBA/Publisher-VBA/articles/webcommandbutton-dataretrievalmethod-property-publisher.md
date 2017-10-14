@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.DataRetrievalMethod Property (Publisher)
 
-Sets or returns a  **PbSubmitDataRetrievalMethodType** that represents the way data from a Web form is processed. Read/write.
+Sets or returns a **PbSubmitDataRetrievalMethodType** that represents the way data from a Web form is processed. Read/write.
 
 
 ## Syntax
 
  _expression_. **DataRetrievalMethod**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbSubmitDataRetrievalMethodType
 
 ## Remarks
 
-The  **DataRetrievalMethod** property value can be one of the **[PbSubmitDataRetrievalMethodType](pbsubmitdataretrievalmethodtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **DataRetrievalMethod** property value can be one of the **[PbSubmitDataRetrievalMethodType](pbsubmitdataretrievalmethodtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

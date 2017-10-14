@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **InsetPen** property to match up the edges of shapes of equal width but whose line widths vary.
+Use the **InsetPen** property to match up the edges of shapes of equal width but whose line widths vary.
 
 
 ## Example

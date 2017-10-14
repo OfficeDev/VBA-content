@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PropertyEffect Object (PowerPoint)
 
-Represents a property effect for an  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
+Represents a property effect for an **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
 
 
 ## Example
 
-Use the [PropertyEffect](animationbehavior-propertyeffect-property-powerpoint.md)property of the  **AnimationBehavior** object to return a **PropertyEffect** object. The following example refers to the property effect for a specified animation behavior.
+Use the [PropertyEffect](animationbehavior-propertyeffect-property-powerpoint.md)property of the **AnimationBehavior** object to return a **PropertyEffect** object. The following example refers to the property effect for a specified animation behavior.
 
 
 ```vb
@@ -26,7 +26,7 @@ ActivePresentation.Slides(1).TimeLine.MainSequence.Item(1) _
    .Behaviors(1).PropertyEffect
 ```
 
-Use the  **[Points](propertyeffect-points-property-powerpoint.md)** property to access the animation points of a particular animation behavior. If you want to change only two states of an animation behavior, use the[From](propertyeffect-from-property-powerpoint.md)and [To](propertyeffect-to-property-powerpoint.md)properties. This example adds a new shape to the and sets the property effect to animate the fill color from blue to red.
+Use the **[Points](propertyeffect-points-property-powerpoint.md)** property to access the animation points of a particular animation behavior. If you want to change only two states of an animation behavior, use the[From](propertyeffect-from-property-powerpoint.md)and [To](propertyeffect-to-property-powerpoint.md)properties. This example adds a new shape to the and sets the property effect to animate the fill color from blue to red.
 
 
 

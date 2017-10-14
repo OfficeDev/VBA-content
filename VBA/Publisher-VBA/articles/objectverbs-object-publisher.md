@@ -19,7 +19,7 @@ Represents the collection of OLE verbs for the specified OLE object. OLE verbs a
 
 ## Example
 
-Use the  **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to return an **ObjectVerbs** object. The following example displays all the available verbs for the OLE object contained in the first shape on first page in the active publication. For this example to work, the specified shape must contain an OLE object.
+Use the **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to return an **ObjectVerbs** object. The following example displays all the available verbs for the OLE object contained in the first shape on first page in the active publication. For this example to work, the specified shape must contain an OLE object.
  
 
  

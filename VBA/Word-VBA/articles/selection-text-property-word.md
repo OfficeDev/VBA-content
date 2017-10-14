@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Text Property (Word)
 
-Returns or sets the text in the specified selection. Read/write  **String** .
+Returns or sets the text in the specified selection. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text in the specified selection. Read/write  **String** .
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text of the selection. When you set this property, the text of the range or selection is replaced.
+The **Text** property returns the plain, unformatted text of the selection. When you set this property, the text of the range or selection is replaced.
 
 
 ## Example

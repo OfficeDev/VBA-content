@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.AutoResolvedWinner Property (Outlook)
 
-Returns a  **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
+Returns a **Boolean** that determines if the item is a winner of an automatic conflict resolution. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
 ## Remarks
 
-A value of  **False** does not necessarily indicate that the item is a loser of an automatic conflict resolution. The item could be in conflict with another item.
+A value of **False** does not necessarily indicate that the item is a loser of an automatic conflict resolution. The item could be in conflict with another item.
 
-If an item has  **[Conflicts.Count](conflicts-count-property-outlook.md)** of its **[TaskItem.Conflicts](taskitem-conflicts-property-outlook.md)** property greater than zero and if its **AutoResolvedWinner** property is **True** , it is a winner of an automatic conflict resolution. On the other hand, if the item is in conflict and has its **AutoResolvedWinner** property as **False** , it is a loser in an automatic conflict resolution.
+If an item has **[Conflicts.Count](conflicts-count-property-outlook.md)** of its **[TaskItem.Conflicts](taskitem-conflicts-property-outlook.md)** property greater than zero and if its **AutoResolvedWinner** property is **True** , it is a winner of an automatic conflict resolution. On the other hand, if the item is in conflict and has its **AutoResolvedWinner** property as **False** , it is a loser in an automatic conflict resolution.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SheetViews.Item Property (Excel)
 
-Returns a  **SheetView** object that represents views in a workbook. Read-only.
+Returns a **SheetView** object that represents views in a workbook. Read-only.
 
 
 ## Syntax

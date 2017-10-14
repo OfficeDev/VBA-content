@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.OvertimeWork Property (Project)
 
-Gets or sets the overtime work for an assignment. Read/write  **Variant**.
+Gets or sets the overtime work for an assignment. Read/write **Variant**.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LinkFormat.SourceFullName Property (Publisher)
 
-Returns a  **String** that represents the path and name of the source file for the specified linked OLE object, picture, or field. Read-only.
+Returns a **String** that represents the path and name of the source file for the specified linked OLE object, picture, or field. Read-only.
 
 
 ## Syntax
 
  _expression_. **SourceFullName**
 
- _expression_A variable that represents a  **LinkFormat** object.
+ _expression_A variable that represents a **LinkFormat** object.
 
 
 ### Return Value

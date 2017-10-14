@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.NextLinkedTextFrame Property (Publisher)
 
-Returns or sets a  **[TextFrame](textframe-object-publisher.md)** object representing the text frame to which text flows from the specified text frame. Read/write.
+Returns or sets a **[TextFrame](textframe-object-publisher.md)** object representing the text frame to which text flows from the specified text frame. Read/write.
 
 
 ## Syntax
 
  _expression_. **NextLinkedTextFrame**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value

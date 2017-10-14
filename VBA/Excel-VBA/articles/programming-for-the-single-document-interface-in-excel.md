@@ -47,9 +47,9 @@ To see SDI and MDI in action, if you have both Excel 2010 and Excel 2013 availab
     
 2. Start a second occurrence of Excel. Verify that the two Excel windows are displayed.
     
-3. On the Windows Task Bar, choose and then select  **Start Task Manager**.
+3. On the Windows Task Bar, choose and then select **Start Task Manager**.
     
-4. Choose the  **Processes** tab and then scroll down until you see the two **Excel.exe** entries. This tells you that, by default, Excel opens a new instance each time it is called (two Excel instances).
+4. Choose the **Processes** tab and then scroll down until you see the two **Excel.exe** entries. This tells you that, by default, Excel opens a new instance each time it is called (two Excel instances).
     
 5. Close the two instances of Excel.
    
@@ -59,7 +59,7 @@ To see SDI and MDI in action, if you have both Excel 2010 and Excel 2013 availab
     
 8. Start the Task Manager again.
     
-9. On the  **Processes** tab scroll down until you see **Excel.exe**. Be aware that although you opened two occurrences of Excel, the two workbooks are contained in the same single instance of Excel.
+9. On the **Processes** tab scroll down until you see **Excel.exe**. Be aware that although you opened two occurrences of Excel, the two workbooks are contained in the same single instance of Excel.
     
 To see how SDI and MDI work inside of an instance of Excel, perform the following steps.
 
@@ -68,26 +68,26 @@ To see how SDI and MDI work inside of an instance of Excel, perform the followin
 
 1. On the Windows Start menu, choose Excel 2010.
     
-2. Choose the Excel window to make it active and verify that  **Book1** is the current workbook.
+2. Choose the Excel window to make it active and verify that **Book1** is the current workbook.
     
-3. Press CTRL + N to open another workbook. Verify that  **Book2** is now the current workbook.
+3. Press CTRL + N to open another workbook. Verify that **Book2** is now the current workbook.
     
-4. Minimize  **Book2** and then see Book1. Both workbooks are contained in the same instance of Excel.
+4. Minimize **Book2** and then see Book1. Both workbooks are contained in the same instance of Excel.
     
 5. Close Excel.
 
 6. On the Windows Start menu, choose Excel 2013.
     
-7. Choose the Excel window to make it active and verify that  **Book1** is the current workbook.
+7. Choose the Excel window to make it active and verify that **Book1** is the current workbook.
     
-8. Press CTRL + N to open another workbook. Verify that  **Book2** is opened in a separate window (but still in the same instance of Excel).
+8. Press CTRL + N to open another workbook. Verify that **Book2** is opened in a separate window (but still in the same instance of Excel).
     
 9. Close Excel.
     
 
 |**Note**|
 |:-----|  
-|You can open multiple instances of Excel by using the following command line switch:  **excel.exe /x**. This switch starts Excel in a new process.|  
+|You can open multiple instances of Excel by using the following command line switch: **excel.exe /x**. This switch starts Excel in a new process.|  
 
 
 In this article, we will discuss the implementation of the SDI in the Excel UI and how it impacts programmability in Excel.
@@ -170,16 +170,16 @@ Special cases are listed in the following table.
 
 |**Function**|**Description**|**SDI Implications**|
 |:-----|:-----|:-----|
-| `Application.Visible`|Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.|If all windows are hidden:<ul><li><p><span class="code">Application.Visible</span> becomes <span class="keyword">False</span></p></li><li><p>Setting <span class="code">Application.Visible</span> to <span class="keyword">True</span> displays all hidden windows</p></li><li><p>Opening a document via the shell only shows that window and <span class="code">Application.Visible</span> is now <span class="keyword">True</span></p></li></ul>Additionally:<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><span class="code">Application.Visible = False</span> hides everything and <span class="code">Application.Visible = True</span> displays everything, ignoring any document-level settings</p></li><li><p>If all of the windows are hidden via the window-level setting then the application-level setting toggles as well</p></li><li><p>Having at least one window displayed means that the application-level setting is <span class="keyword">True</span></p></li></ul>|
-| `Application.ShowWindowsInTaskbar`| **True** if there's a separate Windows taskbar button for each open workbook. The default value is **True**. Read/write  **Boolean**.|This setting is deprecated in Excel.|
-| `Application.Caption`|Returns or sets a  **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.|Updates all windows for that instance of Excel.|
-| `Application.Hwnd`|Returns a  **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.|Will return the active window's handle.|
-| `Application.FormulaBarHeight`|Enables the user to specify the height of the formula bar in lines. Read/write  **Long**.|Operates on the currently active workbook window; not all of the windows for this instance of Excel.|
+| `Application.Visible`|Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.|If all windows are hidden:<ul><li><p><span class="code">Application.Visible</span> becomes <span class="keyword">False</span></p></li><li><p>Setting <span class="code">Application.Visible</span> to <span class="keyword">True</span> displays all hidden windows</p></li><li><p>Opening a document via the shell only shows that window and <span class="code">Application.Visible</span> is now <span class="keyword">True</span></p></li></ul>Additionally:<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><span class="code">Application.Visible = False</span> hides everything and <span class="code">Application.Visible = True</span> displays everything, ignoring any document-level settings</p></li><li><p>If all of the windows are hidden via the window-level setting then the application-level setting toggles as well</p></li><li><p>Having at least one window displayed means that the application-level setting is <span class="keyword">True</span></p></li></ul>|
+| `Application.ShowWindowsInTaskbar`| **True** if there's a separate Windows taskbar button for each open workbook. The default value is **True**. Read/write **Boolean**.|This setting is deprecated in Excel.|
+| `Application.Caption`|Returns or sets a **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.|Updates all windows for that instance of Excel.|
+| `Application.Hwnd`|Returns a **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.|Will return the active window's handle.|
+| `Application.FormulaBarHeight`|Enables the user to specify the height of the formula bar in lines. Read/write **Long**.|Operates on the currently active workbook window; not all of the windows for this instance of Excel.|
 | `Application.DisplayFormulaBar`| **True** if the formula bar is displayed. Read/write **Boolean**.|Operates on all windows for this instance of Excel.|
-| `Workbook.Windows`|Returns a Windows collection that represents all the windows in the specified workbook. Read-only Windows  **Object**.|No change in behavior. Returns the collection of windows for this book such as task panes, additional views.|
+| `Workbook.Windows`|Returns a Windows collection that represents all the windows in the specified workbook. Read-only Windows **Object**.|No change in behavior. Returns the collection of windows for this book such as task panes, additional views.|
 | `Workbook.WindowResize`|Occurs when any workbook window is resized.|No change in behavior. Is triggered when a workbook window (the top-level) is resized.|
-| `Window.Caption`|Returns or sets a  **Variant** value that represents the name that appears in the title bar of the document window.|No change in behavior.|
-| `Workbook.Protect(Password, Structure, Windows)`|Protects a workbook so that it cannot be modified.|Regardless of the value for the  _Windows_ parameter ( **True** or **False**), the window structure protection will NOT be enabled. No runtime error is displayed if  **True** is specified, but that portion of the procedure call will return a **NO-OP**.|
+| `Window.Caption`|Returns or sets a **Variant** value that represents the name that appears in the title bar of the document window.|No change in behavior.|
+| `Workbook.Protect(Password, Structure, Windows)`|Protects a workbook so that it cannot be modified.|Regardless of the value for the  _Windows_ parameter ( **True** or **False**), the window structure protection will NOT be enabled. No runtime error is displayed if **True** is specified, but that portion of the procedure call will return a **NO-OP**.|
  
 |**Note**|
 |:-----|  
@@ -199,7 +199,7 @@ In SDI, each workbook has its own top-level window that you can restore, minimiz
 |**Action**|**Behavior**|
 |:-----|:-----|
 |Open a workbook created in an earlier version of Excel, with Window Protection enabled|Excel will recognize the window location and size attributes, but will not prevent the user from arranging or closing these windows.|
-|View the  **Protect Structure and Windows** dialog box|Excel will display the dialog box but with the  **Windows** option disabled.|
+|View the **Protect Structure and Windows** dialog box|Excel will display the dialog box but with the **Windows** option disabled.|
 
 ## Solutions for SDI Issues
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Solutions"> </a>
@@ -207,7 +207,7 @@ In SDI, each workbook has its own top-level window that you can restore, minimiz
 The following section provides workarounds for issues you may encounter when using the SDI.
 
 
-- A workbook cannot be closed by clicking the red "X"  **Close** button when that workbook is programmatically opened via a modal user form. To work around this issue, it is suggested that you add the following code to the user form **Layout** event procedure and then open the user form as modeless.
+- A workbook cannot be closed by clicking the red "X" **Close** button when that workbook is programmatically opened via a modal user form. To work around this issue, it is suggested that you add the following code to the user form **Layout** event procedure and then open the user form as modeless.
     
 ```vb
   Private Sub UserForm_Layout()
@@ -221,9 +221,9 @@ End Sub
 ```
 
 
-   Another option is to open the workbook window, activate any other window, and then reactivate the workbook window. You should now be able to close the workbook using the  **Close** button.
+   Another option is to open the workbook window, activate any other window, and then reactivate the workbook window. You should now be able to close the workbook using the **Close** button.
     
-- Assume that your VBA code opens multiple workbooks and uses the  **DataEntryMode** property to control data entry and workbook closure. In the Excel SDI model, because each workbook is contained in its own process, the **DataEntryMode** property used in one workbook does not recognize the existence of other workbook and therefore has little to no effect on their interaction. To work around this issue, there are a couple of options. You can hide the extra workbooks or worksheets by using `Window.Visible = False` or `Sheet.Visible = False`, respectively. You can also detect and cancel any closing events by using  `Workbook.BeforeClose(Cancel) = True`.
+- Assume that your VBA code opens multiple workbooks and uses the **DataEntryMode** property to control data entry and workbook closure. In the Excel SDI model, because each workbook is contained in its own process, the **DataEntryMode** property used in one workbook does not recognize the existence of other workbook and therefore has little to no effect on their interaction. To work around this issue, there are a couple of options. You can hide the extra workbooks or worksheets by using `Window.Visible = False` or `Sheet.Visible = False`, respectively. You can also detect and cancel any closing events by using  `Workbook.BeforeClose(Cancel) = True`.
     
 - Toolbars added to Excel workbooks via command bar code and XLA files will not be displayed until after you close and reopen the workbook. Using command bars to customize the UI was deprecated starting in Excel 2007. The optimal solution is to customize the ribbon UI by using XML files as described in detail in the article  [Customizing the 2007 Office Fluent Ribbon for Developers](http://msdn.microsoft.com/library/a4fd6d18-d4a8-4e64-bd89-f437208573d3.aspx)
     

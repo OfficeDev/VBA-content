@@ -25,7 +25,7 @@ Returns or sets whether the values row is displayed. Read/write
 
 ## Remarks
 
-This property corresponds to the setting of the  **Show the Values** row check box on the **Display** tab of the **PivotTable Options** dialog box.
+This property corresponds to the setting of the **Show the Values** row check box on the **Display** tab of the **PivotTable Options** dialog box.
 
 
 ## See also

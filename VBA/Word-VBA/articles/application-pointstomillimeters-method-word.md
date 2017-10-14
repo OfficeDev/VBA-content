@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PointsToMillimeters Method (Word)
 
-Converts a measurement from points to millimeters (1 millimeter = 2.835 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from points to millimeters (1 millimeter = 2.835 points). Returns the converted measurement as a **Single** .
 
 
 ## Syntax

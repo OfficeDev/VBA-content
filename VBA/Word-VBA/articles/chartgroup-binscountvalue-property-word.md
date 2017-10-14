@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BinsCountValue Property (Word)
 
-Specifies the number of bins in the histogram chart. Read/write  **Long**.
+Specifies the number of bins in the histogram chart. Read/write **Long**.
 
 
 ## Syntax

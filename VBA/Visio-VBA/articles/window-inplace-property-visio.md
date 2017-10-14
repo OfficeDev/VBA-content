@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-When the value of the  **InPlace** property is **True** for a **Window** object, it means that the window is an in-place active window. It contains a document that is being edited in an OLE container application.
+When the value of the **InPlace** property is **True** for a **Window** object, it means that the window is an in-place active window. It contains a document that is being edited in an OLE container application.
 
 

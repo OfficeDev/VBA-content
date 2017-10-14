@@ -24,12 +24,12 @@ Represents a combo box control on a command bar.
 
 ## Remarks
 
-Use  **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarComboBox** object. Note that the **Type** property of the control must be **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, **msoControlButtonDropdown**, **msoControlSplitDropdown**, **msoControlOCXDropdown**, **msoControlGraphicCombo**, or **msoControlGraphicDropdown**.
+Use **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarComboBox** object. Note that the **Type** property of the control must be **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, **msoControlButtonDropdown**, **msoControlSplitDropdown**, **msoControlOCXDropdown**, **msoControlGraphicCombo**, or **msoControlGraphicDropdown**.
 
 
 ## Example
 
-The following example adds two items to the second control on the command bar named  **Custom**, and then it adjusts the size of the control.
+The following example adds two items to the second control on the command bar named **Custom**, and then it adjusts the size of the control.
 
 
 ```
@@ -43,7 +43,7 @@ With combo
 End With
 ```
 
-You can also use the  **FindControl** method to return a **CommandBarComboBox** object. The following example searches all command bars for a visible **CommandBarComboBox** object whose tag is "sheet assignments."
+You can also use the **FindControl** method to return a **CommandBarComboBox** object. The following example searches all command bars for a visible **CommandBarComboBox** object whose tag is "sheet assignments."
 
 
 

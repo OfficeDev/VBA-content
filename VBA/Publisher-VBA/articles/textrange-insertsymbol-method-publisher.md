@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.InsertSymbol Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a symbol inserted in place of the specified range or selection.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents a symbol inserted in place of the specified range or selection.
 
 
 ## Syntax
 
- _expression_. **InsertSymbol**( **_FontName_**,  **_CharIndex_**)
+ _expression_. **InsertSymbol**( **_FontName_**, **_CharIndex_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **KeepLocal** property is set to "T" for objects in a database that you do not want replicated. You cannot set this property for the entire database.
+The **KeepLocal** property is set to "T" for objects in a database that you do not want replicated. You cannot set this property for the entire database.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

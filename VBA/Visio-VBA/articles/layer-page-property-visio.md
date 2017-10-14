@@ -30,12 +30,12 @@ Page
 
 ## Remarks
 
-If the  **Layer** object is in a master rather than in a page, the **Page** property returns **Nothing** . You cannot set the **Page** property of a **Layer** object.
+If the **Layer** object is in a master rather than in a page, the **Page** property returns **Nothing** . You cannot set the **Page** property of a **Layer** object.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Page** property to return a **Page** object from various other objects.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Page** property to return a **Page** object from various other objects.
 
 
 ```vb

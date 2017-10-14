@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.IsMemberPropertyFilter Property (Excel)
 
-Specifies whether the label filter is based on the PivotItem captions of a member property of the field or on the PivotItem captions of the PivotField itself. Read-only  **Boolean** .
+Specifies whether the label filter is based on the PivotItem captions of a member property of the field or on the PivotItem captions of the PivotField itself. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Specifies whether the label filter is based on the PivotItem captions of a membe
 
 ## Remarks
 
-The default value of this property is  **False** .
+The default value of this property is **False** .
 
-Returns  **True** if the label filter is based on PivotItem captions of a member property of the PivotField; or returns **False** if the filter is based on the PivotItem captions of the PivotField. This property is valid only for Label filters and only for OLAP PivotFields that have at least one member property.
+Returns **True** if the label filter is based on PivotItem captions of a member property of the PivotField; or returns **False** if the filter is based on the PivotItem captions of the PivotField. This property is valid only for Label filters and only for OLAP PivotFields that have at least one member property.
 
 
 ## See also

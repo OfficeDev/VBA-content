@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Fields.AddHorizontalInVertical Method (Publisher)
 
-Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a  **Field** object.
+Inserts horizontal text into a stream of vertical text and returns the new horizontal text as a **Field** object.
 
 
 ## Syntax
 
- _expression_. **AddHorizontalInVertical**( **_Range_**,  **_Text_**)
+ _expression_. **AddHorizontalInVertical**( **_Range_**, **_Text_**)
 
- _expression_A variable that represents a  **Fields** object.
+ _expression_A variable that represents a **Fields** object.
 
 
 ### Parameters

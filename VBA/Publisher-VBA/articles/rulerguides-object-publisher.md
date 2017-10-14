@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # RulerGuides Object (Publisher)
 
-A collection of  **[RulerGuide](rulerguide-object-publisher.md)** objects that represents a gridline used to align objects on a page.
+A collection of **[RulerGuide](rulerguide-object-publisher.md)** objects that represents a gridline used to align objects on a page.
  
 
 
 ## Example
 
-Use the  **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to add ruler gridlines to the **RulerGuides** collection. This example creates horizontal ruler guides and vertical ruler guides every half inch on the first page of the active publication.
+Use the **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to add ruler gridlines to the **RulerGuides** collection. This example creates horizontal ruler guides and vertical ruler guides every half inch on the first page of the active publication.
  
 
  
@@ -42,7 +42,7 @@ Sub SetRulerGuides()
 End Sub
 ```
 
-Use the  **[Count](rulerguides-count-property-publisher.md)** property to return the total number of ruler guides, horizontal and vertical, in the collection. The following example uses the **Count** property to create a loop that deletes each of the ruler guides in the collection.
+Use the **[Count](rulerguides-count-property-publisher.md)** property to return the total number of ruler guides, horizontal and vertical, in the collection. The following example uses the **Count** property to create a loop that deletes each of the ruler guides in the collection.
  
 
  

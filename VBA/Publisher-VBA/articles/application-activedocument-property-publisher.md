@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ActiveDocument Property (Publisher)
 
-Returns a  **[Document](document-object-publisher.md)** object that represents the active publication. If there are no documents open, an error occurs.
+Returns a **[Document](document-object-publisher.md)** object that represents the active publication. If there are no documents open, an error occurs.
 
 
 ## Syntax
 
  _expression_. **ActiveDocument**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Return Value

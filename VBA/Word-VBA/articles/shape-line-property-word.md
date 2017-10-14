@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Line Property (Word)
 
-Returns a  **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
+Returns a **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.
 
 
 ## Example

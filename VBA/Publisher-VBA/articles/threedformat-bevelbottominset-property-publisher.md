@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelBottomInset Property (Publisher)
 
-Returns or sets a  **Single** that represents the inset size for the bottom bevel. Read/write.
+Returns or sets a **Single** that represents the inset size for the bottom bevel. Read/write.
 
 
 ## Syntax
 
  _expression_. **BevelBottomInset**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ## Return value

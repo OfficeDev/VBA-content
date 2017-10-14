@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **IsDataSourceConnected**
 
- _expression_A variable that represents an  **Document** object.
+ _expression_A variable that represents an **Document** object.
 
 
 ## Remarks

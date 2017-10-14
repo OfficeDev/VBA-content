@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataColumns.Count Property (Visio)
 
-Returns the number of  **DataColumn** objects in the **DataColumns** collection. Read-only.
+Returns the number of **DataColumn** objects in the **DataColumns** collection. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

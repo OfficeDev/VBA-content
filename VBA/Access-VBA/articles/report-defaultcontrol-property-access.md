@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.DefaultControl Property (Access)
 
-The  **DefaultControl** property returns a **[Control](control-object-access.md)** object with which you can set the default properties for a particular type of control on a particular report. Read-only.
+The **DefaultControl** property returns a **[Control](control-object-access.md)** object with which you can set the default properties for a particular type of control on a particular report. Read-only.
 
 
 ## Syntax
@@ -29,26 +29,26 @@ The  **DefaultControl** property returns a **[Control](control-object-access.md)
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ControlType_|Required|**Long**|An  **[AcControlType](accontroltype-enumeration-access.md)** constant that indicates the type of control for which default property settings are to be set.|
+| _ControlType_|Required|**Long**|An **[AcControlType](accontroltype-enumeration-access.md)** constant that indicates the type of control for which default property settings are to be set.|
 
 ## Remarks
 
-The  **DefaultControl** property enables you to set a control's default properties from code. Once you have set the default properties for a particular type of control, each subsequently created control of that type will have the same default values.
+The **DefaultControl** property enables you to set a control's default properties from code. Once you have set the default properties for a particular type of control, each subsequently created control of that type will have the same default values.
 
-For example, if you set the  **FontSize** property of the default command button to 12, each new command button will have a font size of 12 points.
+For example, if you set the **FontSize** property of the default command button to 12, each new command button will have a font size of 12 points.
 
 Not all of a control's properties are available as default properties. The default properties available for a control depend on the type of control.
 
-The  **DefaultControl** property returns a **Control** object of the type specified by the _controltype_ argument. This **Control** object doesn't represent an actual control on a form, but rather a default control that is a template for all subsequently created controls of that type. You set the default control properties for the **Control** object returned by the **DefaultControl** property in the same manner that you would set properties for an individual control on a form.
+The **DefaultControl** property returns a **Control** object of the type specified by the _controltype_ argument. This **Control** object doesn't represent an actual control on a form, but rather a default control that is a template for all subsequently created controls of that type. You set the default control properties for the **Control** object returned by the **DefaultControl** property in the same manner that you would set properties for an individual control on a form.
 
-The  **DefaultControl** property can be used only in form Design view or report Design view. If you try to apply this property to a form or report that is not in Design view, a run-time error will result.
+The **DefaultControl** property can be used only in form Design view or report Design view. If you try to apply this property to a form or report that is not in Design view, a run-time error will result.
 
-If you try to set a property that can't be set as a default property with the  **DefaultControl** property, a run-time error will result. To determine which properties can be default properties, list the **Properties** collection of the **Control** object returned by the **DefaultControl** property.
+If you try to set a property that can't be set as a default property with the **DefaultControl** property, a run-time error will result. To determine which properties can be default properties, list the **Properties** collection of the **Control** object returned by the **DefaultControl** property.
 
 
 ## Example
 
-The following example creates a new form and uses the  **DefaultControl** property to return a **Control** object representing the default command button. The procedure sets some of the default properties for the command button, then creates a new command button on the form.
+The following example creates a new form and uses the **DefaultControl** property to return a **Control** object representing the default command button. The procedure sets some of the default properties for the command button, then creates a new command button on the form.
 
 
 ```vb

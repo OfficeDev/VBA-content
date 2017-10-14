@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Length Property (Excel)
 
-Returns a  **Single** value that represents the length (in points) of the first segment of the callout line (the segment attached to the text callout box.)
+Returns a **Single** value that represents the length (in points) of the first segment of the callout line (the segment attached to the text callout box.)
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Single** value that represents the length (in points) of the first 
 
 ## Remarks
 
-This property is read-only and applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour** ), and for which the **[AutoLength](calloutformat-autolength-property-excel.md)** property is set to **False** . Use the **[CustomLength](calloutformat-customlength-method-excel.md)** method to set the value of this property for a **[CalloutFormat](calloutformat-object-excel.md)** object.
+This property is read-only and applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ), and for which the **[AutoLength](calloutformat-autolength-property-excel.md)** property is set to **False** . Use the **[CustomLength](calloutformat-customlength-method-excel.md)** method to set the value of this property for a **[CalloutFormat](calloutformat-object-excel.md)** object.
 
 
 ## Example

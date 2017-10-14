@@ -8,20 +8,20 @@ ms.date: 06/08/2017
 
 # Run in Developer Mode in Outlook
 
-If you can see the  **Developer** tab, you are running in developer mode. Otherwise, follow these steps to run in developer mode:
+If you can see the **Developer** tab, you are running in developer mode. Otherwise, follow these steps to run in developer mode:
 
 
-1. Click the  **File** tab.
+1. Click the **File** tab.
     
-2. Click  **Options**.
+2. Click **Options**.
     
-3. Click  **Customize Ribbon**.
+3. Click **Customize Ribbon**.
     
-4. Select the  **Developer** check box.
+4. Select the **Developer** check box.
     
-5. Click  **OK**.
+5. Click **OK**.
     
 
-You should now be able to see the  **Developer** tab in the Office Fluent ribbon.
+You should now be able to see the **Developer** tab in the Office Fluent ribbon.
 
 

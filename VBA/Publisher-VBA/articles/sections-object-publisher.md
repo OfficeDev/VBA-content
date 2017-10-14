@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Sections Object (Publisher)
 
-A collection of all the  **Section** objects in the document.
+A collection of all the **Section** objects in the document.
  
 
 
 ## Example
 
-Use  **Sections**.Item(index) where index is the index number, to return a single **Section** object. The following example sets the number format and the starting number for the first section of the active document.
+Use **Sections**.Item(index) where index is the index number, to return a single **Section** object. The following example sets the number format and the starting number for the first section of the active document.
  
 
  
@@ -31,7 +31,7 @@ With ActiveDocument.Sections.Item(1)
 End With
 ```
 
-Using  **Sections** (index) where index is the index number, will also return a single **Section** object. The following example sets continues the numbering from the previous section for the second section in the active document.
+Using **Sections** (index) where index is the index number, will also return a single **Section** object. The following example sets continues the numbering from the previous section for the second section in the active document.
  
 
  
@@ -42,7 +42,7 @@ Using  **Sections** (index) where index is the index number, will also return a 
 ActiveDocument.Sections(2).ContinueNumbersFromPreviousSection=True
 ```
 
-Use  **Sections**.Count to return the number of sections in the publication. The following example display the number of sections in the first open document.
+Use **Sections**.Count to return the number of sections in the publication. The following example display the number of sections in the first open document.
  
 
  
@@ -53,7 +53,7 @@ Use  **Sections**.Count to return the number of sections in the publication. The
 MsgBox Documents(1).Sections.Count
 ```
 
-Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to reutrn a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
+Use **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to reutrn a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
  
 
  
@@ -65,12 +65,12 @@ Dim objSection As Section
 Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 ```
 
-Use  **Sections** (index).Delete where index is the index number, to delete the specified section from the document. A "Permission denied" error will be returned if an attempt is made to delete the first section. The following example deletes all of the sections of the active document except the first one.
+Use **Sections** (index).Delete where index is the index number, to delete the specified section from the document. A "Permission denied" error will be returned if an attempt is made to delete the first section. The following example deletes all of the sections of the active document except the first one.
  
 
  
 
- **Note**  The iteration is from the last to the first to avoid a "Subscript out of range." error when accessing a deleted section in the  **Sections** collection.
+ **Note**  The iteration is from the last to the first to avoid a "Subscript out of range." error when accessing a deleted section in the **Sections** collection.
  
 
 

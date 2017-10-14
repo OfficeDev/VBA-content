@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.MailFormat Property (Word)
 
-Returns a  **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an e-mail message. Read/write.
+Returns a **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an e-mail message. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **WdMailMergeMailFormat** constant that represents the format to use 
 
 ## Remarks
 
-The  **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True** . Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
+The **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True** . Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
 
 
 ## Example

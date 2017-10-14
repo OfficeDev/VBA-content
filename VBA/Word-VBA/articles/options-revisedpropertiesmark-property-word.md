@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.RevisedPropertiesMark Property (Word)
 
-Returns or sets the mark used to show formatting changes while change tracking is enabled. Read/write  **WdRevisedPropertiesMark** .
+Returns or sets the mark used to show formatting changes while change tracking is enabled. Read/write **WdRevisedPropertiesMark** .
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Options.RevisedPropertiesMark = _
  wdRevisedPropertiesMarkDoubleUnderline
 ```
 
-This example returns the option selected in the  **Formatting** box under **Track Changes** options on the **Track Changes** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the option selected in the **Formatting** box under **Track Changes** options on the **Track Changes** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

@@ -38,9 +38,9 @@ Sets the passwords that allow someone to view the project properties.
 
 
 
-- Password — Sets the password for the project. If you do not check the Lock Project for Viewing option but set a password, you will be required to enter a password to open the  **Property** window the next time you open the project.
+- Password — Sets the password for the project. If you do not check the Lock Project for Viewing option but set a password, you will be required to enter a password to open the **Property** window the next time you open the project.
     
-- Confirm password — Confirms the password typed in the Password box. The contents of the  **Confirm** Password box and the Password box must match when you press OK or you get an error.
+- Confirm password — Confirms the password typed in the Password box. The contents of the **Confirm** Password box and the Password box must match when you press OK or you get an error.
     
 
 

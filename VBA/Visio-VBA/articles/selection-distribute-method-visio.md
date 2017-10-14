@@ -30,7 +30,7 @@ Distributes three or more selected shapes at regular intervals on the drawing pa
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Distribute_|Required| **VisDistributeTypes**|Specifies how the shapes are distributed. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates guides and glues selected shapes to them. If **False** , does not. Default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If **True** , creates guides and glues selected shapes to them. If **False** , does not. Default is **False** .|
 
 ### Return Value
 
@@ -53,16 +53,16 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 | **visDistVertMiddle**|6|Distributes shapes vertically so that their centers are uniformly spaced.|
 | **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
 | **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced.|
-Calling the  **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**). 
+Calling the **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to **Space Shapes**, and then click **More Distribute Options**). 
 
-Passing  **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
+Passing **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
 
-When you pass  **True** for _GlueToGuide_, Visio creates guides to retain the distribution of the shapes. You can select and move the outermost guides to move the shapes without changing their distribution.
+When you pass **True** for _GlueToGuide_, Visio creates guides to retain the distribution of the shapes. You can select and move the outermost guides to move the shapes without changing their distribution.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Distribute** method to distribute three shapes vertically so that their right edges are uniformally spaced and glued to guides.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Distribute** method to distribute three shapes vertically so that their right edges are uniformally spaced and glued to guides.
 
 
 ```vb

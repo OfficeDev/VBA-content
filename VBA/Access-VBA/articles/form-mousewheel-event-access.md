@@ -34,7 +34,7 @@ Occurs when the user rolls the mouse wheel in Form View, Split Form View, Datash
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **MouseWheel** event.
+The following example demonstrates the syntax for a subroutine that traps the **MouseWheel** event.
 
 
 ```vb

@@ -38,12 +38,12 @@ Variant
 
 ## Remarks
 
-The  **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is used to query the add-in for three pieces of information:
+The **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is used to query the add-in for three pieces of information:
 
 
 - What hash algorithm does the add-in support?
     
-- Is the add-in only a user interface (UI) or does it support hashing and verification? If  **TRUE** is returned, Microsoft Office does not call the add-in to hash or verify, only to display the UI.
+- Is the add-in only a user interface (UI) or does it support hashing and verification? If **TRUE** is returned, Microsoft Office does not call the add-in to hash or verify, only to display the UI.
     
 - What URL should the add-in provide for users if they are missing the signature add-in?
     
@@ -52,7 +52,7 @@ The  **SignatureProvider** object is used exclusively in custom signature provid
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **GetProviderDetail** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **GetProviderDetail** method in a custom signature provider project.
 
 
 ```

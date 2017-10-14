@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Broadcast.SessionID Property (PowerPoint)
 
-If a broadcast is in progress, returns a  **String** that specifies the ID of the session. Read-only.
+If a broadcast is in progress, returns a **String** that specifies the ID of the session. Read-only.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ If a broadcast is in progress, returns a  **String** that specifies the ID of th
 
 ## Remarks
 
-If a broadcast is not in progress,  **SessionID** returns an empty string.
+If a broadcast is not in progress, **SessionID** returns an empty string.
 
 
 ## Property value

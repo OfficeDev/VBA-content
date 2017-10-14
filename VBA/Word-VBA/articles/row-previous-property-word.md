@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Previous Property (Word)
 
-Returns a  **Row** object that represents the table row that is previous to the specified row. Read-only.
+Returns a **Row** object that represents the table row that is previous to the specified row. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OMaths Property (Word)
 
-Returns an  **[OMaths](omaths-object-word.md)** collection that represents the **[OMath](omath-object-word.md)** objects within the specified range. Read-only.
+Returns an **[OMaths](omaths-object-word.md)** collection that represents the **[OMath](omath-object-word.md)** objects within the specified range. Read-only.
 
 
 ## Syntax

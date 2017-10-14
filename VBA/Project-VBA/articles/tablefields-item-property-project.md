@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TableFields.Item Property (Project)
 
-Gets a single  **TableField** object from the **TableFields** collection. Read-only **TableField**.
+Gets a single **TableField** object from the **TableFields** collection. Read-only **TableField**.
 
 
 ## Syntax

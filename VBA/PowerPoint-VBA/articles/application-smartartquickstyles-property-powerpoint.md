@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SmartArtQuickStyles Property (PowerPoint)
 
-Returns the quick styles of the SmartArt diagram in the current  **Application** object. Read-only.
+Returns the quick styles of the SmartArt diagram in the current **Application** object. Read-only.
 
 
 ## Syntax

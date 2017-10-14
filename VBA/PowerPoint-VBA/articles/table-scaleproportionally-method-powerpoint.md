@@ -33,7 +33,7 @@ Scales all cell heights and widths, font sizes, and internal margins in the tabl
 
 ## Remarks
 
-Use the  **ScaleProportionally** method to resize a table and maintain the text layout as close as possible to the original layout.
+Use the **ScaleProportionally** method to resize a table and maintain the text layout as close as possible to the original layout.
 
 
 ## See also

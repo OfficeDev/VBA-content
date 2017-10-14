@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Rules Object (Outlook)
 
-Represents a set of  **[Rule](rule-object-outlook.md)** objects that are the rules available in the current session.
+Represents a set of **[Rule](rule-object-outlook.md)** objects that are the rules available in the current session.
 
 
 ## Remarks
 
-The Rules object model consists primarily of these objects:  **Rules**, **Rule**, **[RuleActions](http://msdn.microsoft.com/library/82ba76cd-86a4-3372-cb51-2df1d58c8b71%28Office.15%29.aspx)**, **[RuleConditions](ruleconditions-object-outlook.md)**, **[RuleAction](http://msdn.microsoft.com/library/6451788f-e5ed-239c-a34d-b564b52d8955%28Office.15%29.aspx)**, **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)**, and the derived objects for certain rule actions and rule conditions. It provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. Although it does not support creation of every single rule that you can possibly create using the Wizard, it supports the most commonly used rule actions and conditions.
+The Rules object model consists primarily of these objects: **Rules**, **Rule**, **[RuleActions](http://msdn.microsoft.com/library/82ba76cd-86a4-3372-cb51-2df1d58c8b71%28Office.15%29.aspx)**, **[RuleConditions](ruleconditions-object-outlook.md)**, **[RuleAction](http://msdn.microsoft.com/library/6451788f-e5ed-239c-a34d-b564b52d8955%28Office.15%29.aspx)**, **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)**, and the derived objects for certain rule actions and rule conditions. It provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. Although it does not support creation of every single rule that you can possibly create using the Wizard, it supports the most commonly used rule actions and conditions.
 
 For more information on how to programmatically create, edit, and delete rules, see [Managing Rules in the Outlook Object Model](http://msdn.microsoft.com/library/05ddd643-e9bd-a37d-b680-b8519960a5f6%28Office.15%29.aspx) and[How to: Create a Rule to Move Specific E-mails to a Folder](http://msdn.microsoft.com/library/e72fa307-8224-c2d2-1318-a18cd8e9f22f%28Office.15%29.aspx).
 

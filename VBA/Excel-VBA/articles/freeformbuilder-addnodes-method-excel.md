@@ -52,7 +52,7 @@ Adds a point in the current shape and then draws a line from the current node to
 | **MsoEditingType** can be one of these **MsoEditingType** constants.|
 | **msoEditingAuto**|
 | **msoEditingCorner**|
-|Cannot be  **msoEditingSmooth** or **msoEditingSymmetric** If _SegmentType_ is **msoSegmentLine** , _EditingType_ must be **msoEditingAuto** .|
+|Cannot be **msoEditingSmooth** or **msoEditingSymmetric** If _SegmentType_ is **msoSegmentLine** , _EditingType_ must be **msoEditingAuto** .|
 
 ## Example
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.IMEHold Property (Access)
 
-[Language-specific information](learn-about-language-specific-information-access.md)You can use the  **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
+[Language-specific information](learn-about-language-specific-information-access.md)You can use the **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **IMEHold/Hold KanjiConversionMode** property uses the following settings.
+The **IMEHold/Hold KanjiConversionMode** property uses the following settings.
 
 
 
@@ -33,10 +33,10 @@ The  **IMEHold/Hold KanjiConversionMode** property uses the following settings.
 |:-----|:-----|
 |True|Maintains the Kanji Conversion Mode set in the last control.|
 |False|Does not maintain the Kanji Conversion Mode set in the last control (default).|
-By setting the  **IMEMode/KanjiConversionMode** property, you can designate whether or not the Kanji Conversion Mode is maintained when the control loses the focus. If this property is set to Yes, the Kanji Conversion Mode setting is maintained when the control loses the focus and once that control regains the focus, the Kanji Conversion Mode setting for that control is restored. If this property is set to No (default setting), the Kanji Conversion Mode will be set by the **IMEMode/KanjiConversionMode** property for that control.
+By setting the **IMEMode/KanjiConversionMode** property, you can designate whether or not the Kanji Conversion Mode is maintained when the control loses the focus. If this property is set to Yes, the Kanji Conversion Mode setting is maintained when the control loses the focus and once that control regains the focus, the Kanji Conversion Mode setting for that control is restored. If this property is set to No (default setting), the Kanji Conversion Mode will be set by the **IMEMode/KanjiConversionMode** property for that control.
 
 
- **Note**  To set the Kanji Conversion Mode when the focus shifts to the control, set the  **IMEMode/KanjiConversionMode** property.
+ **Note**  To set the Kanji Conversion Mode when the focus shifts to the control, set the **IMEMode/KanjiConversionMode** property.
 
 
 ## See also

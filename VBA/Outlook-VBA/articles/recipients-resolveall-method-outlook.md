@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipients.ResolveAll Method (Outlook)
 
-Attempts to resolve all the  **[Recipient](recipient-object-outlook.md)** objects in the **[Recipients](recipients-object-outlook.md)** collection against the Address Book.
+Attempts to resolve all the **[Recipient](recipient-object-outlook.md)** objects in the **[Recipients](recipients-object-outlook.md)** collection against the Address Book.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Attempts to resolve all the  **[Recipient](recipient-object-outlook.md)** object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[ResolveAll](recipients-resolveall-method-outlook.md)** method to attempt to resolve all recipients and, if unsuccessful, displays a message box for each unresolved recipient.
+This Visual Basic for Applications (VBA) example uses the **[ResolveAll](recipients-resolveall-method-outlook.md)** method to attempt to resolve all recipients and, if unsuccessful, displays a message box for each unresolved recipient.
 
 
 ```vb

@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](customxmlparts-application-property-office.md)|Gets an  **Application** object that represents the container application for the **CustomXMLParts** object. Read-only.|
-|[Count](customxmlparts-count-property-office.md)|Gets a  **Long** indicating the number of items in the **CustomXMLParts** collection. Read-only.|
-|[Creator](customxmlparts-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLParts** object was created. Read-only.|
-|[Item](customxmlparts-item-property-office.md)|Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-only.|
-|[Parent](customxmlparts-parent-property-office.md)|Gets the  **Parent** object for the **CustomXMLParts** object. Read-only.|
+|[Application](customxmlparts-application-property-office.md)|Gets an **Application** object that represents the container application for the **CustomXMLParts** object. Read-only.|
+|[Count](customxmlparts-count-property-office.md)|Gets a **Long** indicating the number of items in the **CustomXMLParts** collection. Read-only.|
+|[Creator](customxmlparts-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLParts** object was created. Read-only.|
+|[Item](customxmlparts-item-property-office.md)|Gets a **CustomXMLPart** object from the **CustomXMLParts** collection. Read-only.|
+|[Parent](customxmlparts-parent-property-office.md)|Gets the **Parent** object for the **CustomXMLParts** object. Read-only.|
 

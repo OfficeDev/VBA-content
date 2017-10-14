@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.AutoShapeType Property (PowerPoint)
 
-Returns or sets the shape type for the specified  **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
+Returns or sets the shape type for the specified **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns or sets the shape type for the specified  **Shape** object, which must r
 
 ## Remarks
 
-Use the  **Type** property of the **[ConnectorFormat](connectorformat-object-powerpoint.md)** object to set or return the connector type.
+Use the **Type** property of the **[ConnectorFormat](connectorformat-object-powerpoint.md)** object to set or return the connector type.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Shift.Finish Property (Project)
 
-Gets or sets the finish date of a  **Shift**. Read/write **Variant**.
+Gets or sets the finish date of a **Shift**. Read/write **Variant**.
 
 
 ## Syntax

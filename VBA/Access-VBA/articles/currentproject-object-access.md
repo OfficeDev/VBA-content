@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CurrentProject Object (Access)
 
-The  **CurrentProject** object refers to the project for the current Microsoft Access project (.adp) or Access database.
+The **CurrentProject** object refers to the project for the current Microsoft Access project (.adp) or Access database.
 
 
 ## Remarks
 
-The  **CurrentProject** object has several collections that contain specific **[AccessObject](accessobject-object-access.md)** objects within the current database. The following table lists the name of each collection and the types of objects it contains.
+The **CurrentProject** object has several collections that contain specific **[AccessObject](accessobject-object-access.md)** objects within the current database. The following table lists the name of each collection and the types of objects it contains.
 
 
 
@@ -31,7 +31,7 @@ The  **CurrentProject** object has several collections that contain specific **[
 
  **Note**  The collections in the preceding table contain all of the respective objects in the database regardless if they are opened or closed.
 
-For example, an  **AccessObject** object representing a form is a member of the **AllForms** collection, which is a collection of **AccessObject** objects within the current database. Within the **AllForms** collection, individual members of the collection are indexed beginning with zero. You can refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to it by name because a item's collection index may change. If the object name includes a space, the name must be surrounded by brackets ([ ]).
+For example, an **AccessObject** object representing a form is a member of the **AllForms** collection, which is a collection of **AccessObject** objects within the current database. Within the **AllForms** collection, individual members of the collection are indexed beginning with zero. You can refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to it by name because a item's collection index may change. If the object name includes a space, the name must be surrounded by brackets ([ ]).
 
 
 
@@ -44,7 +44,7 @@ For example, an  **AccessObject** object representing a form is a member of the 
 
 ## Example
 
-The following example prints some current property settings of the  **CurrentProject** object and then sets an option to display hidden objects within the application:
+The following example prints some current property settings of the **CurrentProject** object and then sets an option to display hidden objects within the application:
 
 
 ```
@@ -58,9 +58,9 @@ Sub ApplicationInformation()
 End Sub
 ```
 
-The next example shows how to use the CurrentProject object using Automation from another Microsoft Office application. First, from the other application, create a reference to Microsoft Access by clicking  **References** on the **Tools** menu in the Module window. Select the check box next to **Microsoft Access Object Library**. Then enter the following code in a Visual Basic module within that application and call the GetAccessData procedure.
+The next example shows how to use the CurrentProject object using Automation from another Microsoft Office application. First, from the other application, create a reference to Microsoft Access by clicking **References** on the **Tools** menu in the Module window. Select the check box next to **Microsoft Access Object Library**. Then enter the following code in a Visual Basic module within that application and call the GetAccessData procedure.
 
-The example passes a database name and report name to a procedure that creates a new instance of the  **Application** class, opens the database, and verifies that the specified report exists using the **CurrentProject** object and **AllReports** collection.
+The example passes a database name and report name to a procedure that creates a new instance of the **Application** class, opens the database, and verifies that the specified report exists using the **CurrentProject** object and **AllReports** collection.
 
 
 

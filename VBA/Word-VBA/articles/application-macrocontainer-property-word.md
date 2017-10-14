@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MacroContainer Property (Word)
 
-Returns a  **[Template](template-object-word.md)** or **[Document](document-object-word.md)** object that represents the template or document in which the module that contains the running procedure is stored.
+Returns a **[Template](template-object-word.md)** or **[Document](document-object-word.md)** object that represents the template or document in which the module that contains the running procedure is stored.
 
 
 ## Syntax

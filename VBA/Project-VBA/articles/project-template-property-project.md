@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.Template Property (Project)
 
-Gets the name of the template associated with a project. Read-only  **String**.
+Gets the name of the template associated with a project. Read-only **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the name of the template associated with a project. Read-only  **String**.
 
 ## Remarks
 
-If the project was not created from a template, the  **Template** property returns an empty string ("").
+If the project was not created from a template, the **Template** property returns an empty string ("").
 
 
 ## Example

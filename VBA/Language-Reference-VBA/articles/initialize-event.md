@@ -20,11 +20,11 @@ Occurs after an object is loaded, but before it's shown.
  **Private Sub**_object_**_Initialize()**
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-The Initialize event is typically used to prepare an application or  **UserForm** for use.[Variables](vbe-glossary.md) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
+The Initialize event is typically used to prepare an application or **UserForm** for use.[Variables](vbe-glossary.md) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
 
 ## Example
 
-The following example assumes two  **UserForms** in a program. In UserForm1's Initialize event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
+The following example assumes two **UserForms** in a program. In UserForm1's Initialize event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
 
 
 ```vb

@@ -20,12 +20,12 @@ Specifies how text wraps around the specified shape. Read/write.
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **WrapFormat** object.
+ _expression_A variable that represents a **WrapFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbWrapType](pbwraptype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbWrapType](pbwraptype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Toolbar.Top Property (Visio)
 
-Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Toolbar** object and the top of the screen. Read/write.
+Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a **Toolbar** object and the top of the screen. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Integer
 
 ## Example
 
-This example shows how to use the  **Top** property to set the position of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
+This example shows how to use the **Top** property to set the position of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
 
-To restore Visio's built-in toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore Visio's built-in toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

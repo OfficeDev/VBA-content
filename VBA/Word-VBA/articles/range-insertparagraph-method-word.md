@@ -27,7 +27,7 @@ Replaces the specified range with a new paragraph.
 
 After this method has been used, the range is the new paragraph.
 
-If you don't want to replace the range, use the  **Collapse** method before using this method. The **InsertParagraphAfter** method inserts a new paragraph following a **Range** object.
+If you don't want to replace the range, use the **Collapse** method before using this method. The **InsertParagraphAfter** method inserts a new paragraph following a **Range** object.
 
 
 ## Example

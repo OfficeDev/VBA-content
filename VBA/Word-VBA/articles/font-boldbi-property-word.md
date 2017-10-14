@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property returns  **True** , **False** or **wdUndefined** (for a mixture of bold and non-bold text). Can be set to **True** , **False** , or **wdToggle** .
+This property returns **True** , **False** or **wdUndefined** (for a mixture of bold and non-bold text). Can be set to **True** , **False** , or **wdToggle** .
 
-The  **BoldBi** property applies to text in a right-to-left language.
+The **BoldBi** property applies to text in a right-to-left language.
 
 
 ## Example

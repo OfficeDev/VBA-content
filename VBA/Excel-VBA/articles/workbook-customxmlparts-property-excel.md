@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CustomXMLParts Property (Excel)
 
-Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** collection that represents the custom XML in the XML data store. Read-only.
+Returns a **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** collection that represents the custom XML in the XML data store. Read-only.
 
 
 ## Syntax

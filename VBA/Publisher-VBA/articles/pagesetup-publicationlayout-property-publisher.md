@@ -18,7 +18,7 @@ Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](pbpublicationla
 
  _expression_. **PublicationLayout**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ## Return value
@@ -28,12 +28,12 @@ Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](pbpublicationla
 
 ## Remarks
 
-Using the  **PublicationLayout** property to set the layout of a publication is equivalent to setting the layout from the list box in the **Page Setup** dialog box.
+Using the **PublicationLayout** property to set the layout of a publication is equivalent to setting the layout from the list box in the **Page Setup** dialog box.
 
 
 ## Example
 
-The following example sets the layout of the active publication to  **pbLayoutBusinessCardUS**, which, by default, specifies a page width of 3.5 inches and a page height of 2 inches.
+The following example sets the layout of the active publication to **pbLayoutBusinessCardUS**, which, by default, specifies a page width of 3.5 inches and a page height of 2 inches.
 
 
 ```vb

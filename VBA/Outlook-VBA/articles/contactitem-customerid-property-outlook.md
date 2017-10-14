@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.CustomerID Property (Outlook)
 
-Returns or sets a  **String** representing the customer ID for the contact. Read/write.
+Returns or sets a **String** representing the customer ID for the contact. Read/write.
 
 
 ## Syntax

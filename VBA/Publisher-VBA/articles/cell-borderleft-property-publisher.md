@@ -20,7 +20,7 @@ Returns a  [CellBorder](cellborder-object-publisher.md)object that represents th
 
  _expression_. **BorderLeft**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ### Return Value

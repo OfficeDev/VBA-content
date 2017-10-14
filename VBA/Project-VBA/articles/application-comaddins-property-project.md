@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.COMAddIns Property (Project)
 
-Gets the  **COMAddIns** collection for Project, which represents the currently installed COM add-ins. Read-only **COMAddIns**.
+Gets the **COMAddIns** collection for Project, which represents the currently installed COM add-ins. Read-only **COMAddIns**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the  **COMAddIns** collection for Project, which represents the currently i
 
 ## Remarks
 
-For more information, see the  **COMAddIns** collection object in the Microsoft Office Visual Basic Reference.
+For more information, see the **COMAddIns** collection object in the Microsoft Office Visual Basic Reference.
 
 

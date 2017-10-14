@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Help Command (Shortcut Menu)
 
-Displays the Help topic related to the item selected when the  **Help** command is chosen.
+Displays the Help topic related to the item selected when the **Help** command is chosen.
 
 

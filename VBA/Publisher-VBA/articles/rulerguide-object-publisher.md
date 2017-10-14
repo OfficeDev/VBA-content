@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # RulerGuide Object (Publisher)
 
-Represents a gridline used to align objects on a page. The  **RulerGuide** object is a member of the **[RulerGuides](rulerguides-object-publisher.md)** collection.
+Represents a gridline used to align objects on a page. The **RulerGuide** object is a member of the **[RulerGuides](rulerguides-object-publisher.md)** collection.
  
 
 
 ## Example
 
-Use the  **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to create a new ruler gridline. Use the **[Item](rulerguides-item-property-publisher.md)** property to reference a ruler guide. Use the **[Position](rulerguide-position-property-publisher.md)** property to change the position of a gridline, and use the **[Delete](rulerguide-delete-method-publisher.md)** method to remove a gridline. This example creates a new ruler guide, moves it, and then deletes it.
+Use the **[Add](rulerguides-add-method-publisher.md)** method of the **RulerGuides** collection to create a new ruler gridline. Use the **[Item](rulerguides-item-property-publisher.md)** property to reference a ruler guide. Use the **[Position](rulerguide-position-property-publisher.md)** property to change the position of a gridline, and use the **[Delete](rulerguide-delete-method-publisher.md)** method to remove a gridline. This example creates a new ruler guide, moves it, and then deletes it.
  
 
  

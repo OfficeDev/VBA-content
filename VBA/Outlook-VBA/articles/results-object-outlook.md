@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Results Object (Outlook)
 
-Contains data and results returned by the  **[Search](search-object-outlook.md)** object and the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
+Contains data and results returned by the **[Search](search-object-outlook.md)** object and the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
 
 
 ## Remarks
 
-The  **Results** object contains properties and methods that allow you to view and manipulate data. For example the **[GetNext](results-getnext-method-outlook.md)**, **[GetPrevious](results-getprevious-method-outlook.md)**, **[GetFirst](results-getfirst-method-outlook.md)**, and **[GetLast](results-getlast-method-outlook.md)** methods allow you to search through the results and view the data by field. The **[Sort](results-sort-method-outlook.md)** method allows you to sort the data.
+The **Results** object contains properties and methods that allow you to view and manipulate data. For example the **[GetNext](results-getnext-method-outlook.md)**, **[GetPrevious](results-getprevious-method-outlook.md)**, **[GetFirst](results-getfirst-method-outlook.md)**, and **[GetLast](results-getlast-method-outlook.md)** methods allow you to search through the results and view the data by field. The **[Sort](results-sort-method-outlook.md)** method allows you to sort the data.
 
-Use the  **SearchObject.Results** property to return a **Results** object.
+Use the **SearchObject.Results** property to return a **Results** object.
 
 
 ## Example

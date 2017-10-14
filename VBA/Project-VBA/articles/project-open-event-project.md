@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.Open Event (Project)
 
-Occurs when the project opens, but before the  **Activate** event.
+Occurs when the project opens, but before the **Activate** event.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ Project events do not occur when the project is embedded in another document or 
 
 ## Example
 
-This example adds the user's email alias and the current date to the project  **Comments** field whenever the project is opened. Placing this example in the **Open** event of a project provides a simple access history for the file.
+This example adds the user's email alias and the current date to the project **Comments** field whenever the project is opened. Placing this example in the **Open** event of a project provides a simple access history for the file.
 
 
 ```vb

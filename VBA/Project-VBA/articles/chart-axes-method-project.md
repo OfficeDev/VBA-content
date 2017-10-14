@@ -22,8 +22,8 @@ Returns an object that represents either a single axis or a collection of the ax
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Variant**|Specifies the axis to return. Can be one of the following  **Office.XlAxisType** constants: **xlValue**,  **xlCategory**, or  **xlSeriesAxis** ( **xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is  **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+| _Type_|Optional|**Variant**|Specifies the axis to return. Can be one of the following **Office.XlAxisType** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** ( **xlSeriesAxis** is valid only for 3-D charts).|
+| _AxisGroup_|Optional|**Office.XlAxisGroup**|Specifies the axis group. The default value is **xlPrimary**; that is, if the  _AxisGroup_ argument is omitted, the primary group is used. 3-D charts have only one axis group.|
 | _Type_|Optional|VARIANT||
 | _AxisGroup_|Optional|XLAXISGROUP||
 
@@ -34,7 +34,7 @@ Returns an object that represents either a single axis or a collection of the ax
 
 ## Examples
 
-The  **SetAxisTitle** macro adds an axis label to the category axis in the chart.
+The **SetAxisTitle** macro adds an axis label to the category axis in the chart.
 
 
 ```vb
@@ -53,7 +53,7 @@ Sub SetAxisTitle()
 End Sub
 ```
 
-The  **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
+The **AddCategoryGridlines** macro adds gridlines to the category axis in the chart.
 
 
 

@@ -25,7 +25,7 @@ Resets the position of two worksheet windows that are being compared side by sid
 
 ## Remarks
 
-Use the  **ResetPositionsSideBySide** method to reset the position of two worksheets that are being compared side by side. For example, if a user minimizes or maximizes one of the two worksheet windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
+Use the **ResetPositionsSideBySide** method to reset the position of two worksheets that are being compared side by side. For example, if a user minimizes or maximizes one of the two worksheet windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
 
 
 ## See also

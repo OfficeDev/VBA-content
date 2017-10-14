@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.RecipientNamefromLeft Property (Word)
 
-Returns or sets a  **Single** that represents the position, measured in points, of the recipient's name from the left edge of the envelope. Read/write.
+Returns or sets a **Single** that represents the position, measured in points, of the recipient's name from the left edge of the envelope. Read/write.
 
 
 ## Syntax

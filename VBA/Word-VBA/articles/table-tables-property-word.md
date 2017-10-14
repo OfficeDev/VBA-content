@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Tables Property (Word)
 
-Returns a  **[Tables](tables-object-word.md)** collection that represents all the tables nested within the specified table. Read-only.
+Returns a **[Tables](tables-object-word.md)** collection that represents all the tables nested within the specified table. Read-only.
 
 
 ## Syntax

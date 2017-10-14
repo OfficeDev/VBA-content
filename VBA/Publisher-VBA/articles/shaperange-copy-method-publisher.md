@@ -20,7 +20,7 @@ Copies the specified object to the Clipboard.
 
  _expression_. **Copy**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Nothing
 
 ## Remarks
 
-Use the  **Paste**method to paste the contents of the Clipboard.
+Use the **Paste**method to paste the contents of the Clipboard.
 
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 
 
 ## Example

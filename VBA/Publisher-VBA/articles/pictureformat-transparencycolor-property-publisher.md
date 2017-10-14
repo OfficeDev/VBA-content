@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.TransparencyColor Property (Publisher)
 
-Returns or sets an  **MsoRGBType** constant that represents the transparency color. Read/write.
+Returns or sets an **MsoRGBType** constant that represents the transparency color. Read/write.
 
 
 ## Syntax
 
  _expression_. **TransparencyColor**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value

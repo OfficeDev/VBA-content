@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.Beep Method (Access)
 
-The  **Beep** method carries out the Beep action in Visual Basic.
+The **Beep** method carries out the Beep action in Visual Basic.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ This method has no arguments and can called directly using the syntax  `DoCmd.Be
 
 You can also use the VBA command  `Interaction.Beep` to accomplish the same result.
 
-You can also use the Visual Basic  **Beep** statement to cause your computer to sound a tone through its speaker.
+You can also use the Visual Basic **Beep** statement to cause your computer to sound a tone through its speaker.
 
 
 ## See also

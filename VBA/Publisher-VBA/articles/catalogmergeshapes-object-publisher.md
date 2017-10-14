@@ -34,7 +34,7 @@ The catalog merge area can contain picture and text data fields you have inserte
 
 ## Example
 
-Use the  **[CatalogMergeItems](shape-catalogmergeitems-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to return the contents of the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, it returns a list of the shapes it contains.
+Use the **[CatalogMergeItems](shape-catalogmergeitems-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to return the contents of the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, it returns a list of the shapes it contains.
  
 
  
@@ -69,7 +69,7 @@ End Sub
 
 ```
 
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area. The following example adds a rectangle to the catalog merge area in the specified publication. This example assumes a catalog merge area has been added to the first page of the publication.
+Use the **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area. The following example adds a rectangle to the catalog merge area in the specified publication. This example assumes a catalog merge area has been added to the first page of the publication.
  
 
  
@@ -80,7 +80,7 @@ Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
-Use  **CatalogMergeItems** (index), where index is index number, to return a single catalog merge area shape. The following example removes the first shape from the catalog merge area.
+Use **CatalogMergeItems** (index), where index is index number, to return a single catalog merge area shape. The following example removes the first shape from the catalog merge area.
  
 
  
@@ -91,7 +91,7 @@ Use  **CatalogMergeItems** (index), where index is index number, to return a sin
 ThisDocument.Pages(1).Shapes(1).CatalogMergeItems(1).RemoveFromCatalogMergeArea
 ```
 
-Use the  **[RemoveFromCatalogMergeArea](shape-removefromcatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to remove shapes from a catalog merge area. Removed shapes are not deleted, but are instead placed on the publication page containing the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
+Use the **[RemoveFromCatalogMergeArea](shape-removefromcatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to remove shapes from a catalog merge area. Removed shapes are not deleted, but are instead placed on the publication page containing the catalog merge area. The following example tests whether the specified publication contains a catalog merge area. If it does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Index Property (Project)
 
-Gets the index of a  **Filter** object in the containing **Filters** collection. Read-only **Long**.
+Gets the index of a **Filter** object in the containing **Filters** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the index of a  **Filter** object in the containing **Filters** collection.
 
 ## Remarks
 
-The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
+The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
 
 

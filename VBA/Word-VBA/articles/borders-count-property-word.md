@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Count Property (Word)
 
-Returns the number of items in the  **Borders** collection. Read-only **Long** .
+Returns the number of items in the **Borders** collection. Read-only **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Style Property (Excel)
 
-Returns or sets a  **Variant** value, containing a **[Style](style-object-excel.md)** object, that represents the style of the specified range.
+Returns or sets a **Variant** value, containing a **[Style](style-object-excel.md)** object, that represents the style of the specified range.
 
 
 ## Syntax

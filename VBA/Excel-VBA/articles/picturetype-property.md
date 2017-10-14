@@ -20,7 +20,7 @@ Returns or sets the way pictures are displayed on a column or bar picture chart 
 |XlChartPictureType can be one of these XlChartPictureType constants.|
 | **xlStack**. Stacks the pictures to reach the necessary value.|
 | **xlStretch**. Stretches the picture to reach the necessary value.|
-| **xlStackScale**. Stacks the pictures; use the  **[PictureUnit](pictureunit-property.md)** property to determine what unit each picture represents.|
+| **xlStackScale**. Stacks the pictures; use the **[PictureUnit](pictureunit-property.md)** property to determine what unit each picture represents.|
 
  _expression_. **PictureType**
 

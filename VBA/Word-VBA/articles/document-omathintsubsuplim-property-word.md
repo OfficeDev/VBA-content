@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OMathIntSubSupLim Property (Word)
 
-Returns or sets a  **Boolean** that represents the default location of limits for integrals. Read/write.
+Returns or sets a **Boolean** that represents the default location of limits for integrals. Read/write.
 
 
 ## Syntax

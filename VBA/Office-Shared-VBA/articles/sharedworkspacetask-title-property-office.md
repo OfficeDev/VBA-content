@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceTask.Title Property (Office)
 
-Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
+Sets or gets the title of a **SharedWorkspaceTask** object. Read/write.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -33,7 +33,7 @@ String
 
 ## Remarks
 
-The  **Title** property is the single required property of a shared workspace task. Use the optional **Description** property to provide or return additional information about the task.
+The **Title** property is the single required property of a shared workspace task. Use the optional **Description** property to provide or return additional information about the task.
 
 
 ## Example

@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 This property applies only to 3-D line, column, and bar charts. 
 
-If this property is set to  **True** , the **[Perspective](chart-perspective-property-word.md)** property is ignored.
+If this property is set to **True** , the **[Perspective](chart-perspective-property-word.md)** property is ignored.
 
 
 ## Example

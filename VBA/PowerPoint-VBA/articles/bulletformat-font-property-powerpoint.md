@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BulletFormat.Font Property (PowerPoint)
 
-Returns a  **[Font](font-object-powerpoint.md)** object that represents character formatting. Read-only.
+Returns a **[Font](font-object-powerpoint.md)** object that represents character formatting. Read-only.
 
 
 ## Syntax

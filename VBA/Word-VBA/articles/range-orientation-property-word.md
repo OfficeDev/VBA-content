@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Orientation Property (Word)
 
-Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write  **WdTextOrientation** .
+Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write **WdTextOrientation** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the orientation of text in a range when the Text Direction featu
 
 ## Remarks
 
-Some of the  **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Some of the **WdTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-You can set the orientation for a text frame or for a range that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the  **TextFrame** object.
+You can set the orientation for a text frame or for a range that happens to occur inside a text frame. For information about the difference between a text frame and a text box, see the **TextFrame** object.
 
 
 ## See also

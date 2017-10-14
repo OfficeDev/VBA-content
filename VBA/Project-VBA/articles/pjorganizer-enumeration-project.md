@@ -31,7 +31,7 @@ Contains constants that specify the type of items in the Organizer.
 
 ## Remarks
 
-Several methods use the  **PjOrganizer** enumeration. See the following:
+Several methods use the **PjOrganizer** enumeration. See the following:
 
 
 - [Application.Organizer](application-organizer-method-project.md) method

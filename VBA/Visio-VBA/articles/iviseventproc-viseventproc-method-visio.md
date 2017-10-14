@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IVisEventProc.VisEventProc Method (Visio)
 
-Private member function of  **IVisEventProc** that handles event notifications passed to it by the **EventList.AddAdvise** method.
+Private member function of **IVisEventProc** that handles event notifications passed to it by the **EventList.AddAdvise** method.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Private member function of  **IVisEventProc** that handles event notifications p
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _nEventCode_|Required| **Integer**|The event or events that occurred. |
-| _pSourceObj_|Required| **Object**|The object whose  **EventList** collection contains the **Event** object that sent the notification.|
-| _nEventID_|Required| **Long**|The unique identifier of the  **Event** object within the **EventList** collection.|
+| _pSourceObj_|Required| **Object**|The object whose **EventList** collection contains the **Event** object that sent the notification.|
+| _nEventID_|Required| **Long**|The unique identifier of the **Event** object within the **EventList** collection.|
 | _nEventSeqNum_|Required| **Long**|The ordinal position of the event with respect to the sequence of events that have occurred in the calling instance of the application. |
 | _pSubjectObj_|Required| **Object**|The subject of the event, which is the object to which the event occurred. See Remarks for examples.|
 | _vMoreInfo_|Required| **Variant**|Additional information about the subject of the event. See Remarks for more information.|
@@ -43,13 +43,13 @@ Variant
 
 ## Remarks
 
-To handle event notifications, create a class module that implements the  **IVisEventProc** interface and then create an instance of this class to pass as an argument to the **AddAdvise** method of the **EventList** collection. Use the **AddAdvise** method to create **Event** objects that send the notifications.
+To handle event notifications, create a class module that implements the **IVisEventProc** interface and then create an instance of this class to pass as an argument to the **AddAdvise** method of the **EventList** collection. Use the **AddAdvise** method to create **Event** objects that send the notifications.
 
-The  _nEventCode_ parameter identifes the specific event or events that occurred. The _EventCode_ argument of the **AddAdvise** method is passed to **VisEventProc** as _nEventCode_. Within your procedure, you can use any branching technique you want to determine which event occurred and handle it. The example that accompanies this topic uses a  **Select Case** decision structure.
+The  _nEventCode_ parameter identifes the specific event or events that occurred. The _EventCode_ argument of the **AddAdvise** method is passed to **VisEventProc** as _nEventCode_. Within your procedure, you can use any branching technique you want to determine which event occurred and handle it. The example that accompanies this topic uses a **Select Case** decision structure.
 
-Unlike the  **Index** property of the **EventList** collection, _nEventID_ does not change as **Event** objects are added or deleted from the collection.
+Unlike the **Index** property of the **EventList** collection, _nEventID_ does not change as **Event** objects are added or deleted from the collection.
 
-From within  **VisEventProc** , you can use the following code to get the **Event** object that sent the notification:
+From within **VisEventProc** , you can use the following code to get the **Event** object that sent the notification:
 
 
 
@@ -61,9 +61,9 @@ pSourceObj. EventList.ItemFromID(nEventID )
 The connection between the source object  _pSourceObj_ and the **Event** object exists until one of the following occurs:
 
 
-- The program deletes the  **Event** object.
+- The program deletes the **Event** object.
     
-- The program releases the last reference to the source object. (The  **EventList** collection and **Event** objects hold a reference to their source object.)
+- The program releases the last reference to the source object. (The **EventList** collection and **Event** objects hold a reference to their source object.)
     
 - The Microsoft Visio application instance terminates.
     
@@ -80,9 +80,9 @@ If  _nEventCode_ identifies a query event (events prefixed with **Query** ), ret
 
 ## Example
 
-This example shows how to create a class module that implements  **IVisEventProc** to handle events fired by a source object in Visio, for example, the **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case ( **Case Else** ). Each **Case** block constructs a string ( _strMessage_) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+This example shows how to create a class module that implements **IVisEventProc** to handle events fired by a source object in Visio, for example, the **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved** , **PageAdded** , and **ShapesDeleted** . Other events fall under the default case ( **Case Else** ). Each **Case** block constructs a string ( _strMessage_) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
-Copy this sample code into a new class module in VBA or Visual Basic, naming the module  **clsEventSink** . You can then use an event-sink module to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sink module, see the example for the **AddAdvise** method.
+Copy this sample code into a new class module in VBA or Visual Basic, naming the module **clsEventSink** . You can then use an event-sink module to create an instance of the **clsEventSink** class and **Event** objects that send notifications of event firings to the class instance. To see how to create an event-sink module, see the example for the **AddAdvise** method.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.Minimize Method (Access)
 
-The  **Minimize** method carries out the Minimize action in Visual Basic.
+The **Minimize** method carries out the Minimize action in Visual Basic.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ The  **Minimize** method carries out the Minimize action in Visual Basic.
 
 ## Remarks
 
-You can use this method to remove a window from the screen while leaving the object open. You can also use this method to open an object without displaying its window. To display the object, use the  **SelectObject** method with either the **Maximize** or **Restore** method. The **Restore** method restores a minimized window to its previous size.
+You can use this method to remove a window from the screen while leaving the object open. You can also use this method to open an object without displaying its window. To display the object, use the **SelectObject** method with either the **Maximize** or **Restore** method. The **Restore** method restores a minimized window to its previous size.
 
-This method cannot be applied to module windows in the Visual Basic Editor (VBE). For information about how to affect module windows see the  **WindowState** property topic.
+This method cannot be applied to module windows in the Visual Basic Editor (VBE). For information about how to affect module windows see the **WindowState** property topic.
 
 
 ## See also

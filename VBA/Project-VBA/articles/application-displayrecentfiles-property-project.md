@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting  **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
+Setting **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
 
 

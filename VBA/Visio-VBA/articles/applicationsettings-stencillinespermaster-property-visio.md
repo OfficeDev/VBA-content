@@ -30,16 +30,16 @@ For shapes on stencils in Microsoft Visio, determines how many lines of text of 
 
 ## Remarks
 
-Setting the  **StencilLinesPerMaster** property is equivalent to setting the **Lines per master** option under **Stencil spacing** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **StencilLinesPerMaster** property is equivalent to setting the **Lines per master** option under **Stencil spacing** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-The minimum value for  **StencilLinesPerMaster** is 1 line per master and the maximum is 4. By default, Visio displays 2 lines per master.
+The minimum value for **StencilLinesPerMaster** is 1 line per master and the maximum is 4. By default, Visio displays 2 lines per master.
 
 This property affects the overall spacing of shapes on a stencil, which affects how many shapes users can see without scrolling.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **StencilCharactersPerLine** property to print the current number of stencil lines per master in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **StencilCharactersPerLine** property to print the current number of stencil lines per master in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

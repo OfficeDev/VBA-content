@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Floor.Thickness Property (Excel)
 
-Returns or sets a  **Long** , specifying the thickness of the floor. Read/write.
+Returns or sets a **Long** , specifying the thickness of the floor. Read/write.
 
 
 ## Syntax

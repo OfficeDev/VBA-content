@@ -18,7 +18,7 @@ Fires an event declared at [module level](vbe-glossary.md) within a[class](vbe-g
  **RaiseEvent**_eventname_ [ **(**_argumentlis_ t **)** ]
 
 The required  _eventname_ is the name of an event declared within the[module](vbe-glossary.md) and follows Basic variable naming conventions.
-The  **RaiseEvent** statement syntax has these parts:
+The **RaiseEvent** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -40,12 +40,12 @@ Sub
 End Sub
 ```
 
-If the event has no arguments, including empty parentheses, in the  **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the[form module](vbe-glossary.md), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the  **RaiseEvent** statement.
-Event firing is done in the order that the connections are established. Since events can have  **ByRef** parameters, a process that connects late may receive parameters that have been changed by an earlier event handler.
+If the event has no arguments, including empty parentheses, in the **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the[form module](vbe-glossary.md), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the **RaiseEvent** statement.
+Event firing is done in the order that the connections are established. Since events can have **ByRef** parameters, a process that connects late may receive parameters that have been changed by an earlier event handler.
 
 ## Example
 
-The following example uses events to count off seconds during a demonstration of the fastest 100 meter race. The code illustrates all of the event-related methods, properties, and statements, including the  **RaiseEvent** statement.
+The following example uses events to count off seconds during a demonstration of the fastest 100 meter race. The code illustrates all of the event-related methods, properties, and statements, including the **RaiseEvent** statement.
 
 The class that raises an event is the event source, and the classes that implement the event are the sinks. An event source can have multiple sinks for the events it generates. When the class raises the event, that event is fired on every class that has elected to sink events for that instance of the object.
 
@@ -88,7 +88,7 @@ Private Sub mText_UpdateTime(ByVal dblJump As Double)
 End Sub
 ```
 
-The remaining code is in a class module named TimerState. Included among the commands in this module are the  **Raise Event** statements.
+The remaining code is in a class module named TimerState. Included among the commands in this module are the **Raise Event** statements.
 
 
 

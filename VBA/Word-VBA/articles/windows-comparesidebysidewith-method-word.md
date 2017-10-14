@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-You cannot use the  **CompareSideBySideWith** method with the **Application** object or the **ActiveDocument** property.
+You cannot use the **CompareSideBySideWith** method with the **Application** object or the **ActiveDocument** property.
 
 
 ## Example

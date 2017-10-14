@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationErrors.Add Method (Office)
 
-Adds a  **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.
+Adds a **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 | _Node_|Required|**CustomXMLNode**|Represents the node where the error occurred.|
 | _ErrorName_|Required|**String**|Contains the name of the error.|
 | _ErrorText_|Optional|**String**|Contains the descriptive error text.|
-| _ClearedOnUpdate_|Optional|**Boolean**|Specifies whether the error is to be cleared from the  **CustomXMLValidationErrors** collection when the XML is corrected and updated.|
+| _ClearedOnUpdate_|Optional|**Boolean**|Specifies whether the error is to be cleared from the **CustomXMLValidationErrors** collection when the XML is corrected and updated.|
 
 ## Example
 

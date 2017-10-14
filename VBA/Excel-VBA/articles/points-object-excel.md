@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # Points Object (Excel)
 
-A collection of all the  **[Point](point-object-excel.md)** objects in the specified series in a chart.
+A collection of all the **[Point](point-object-excel.md)** objects in the specified series in a chart.
 
 
 ## Remarks
 
-Use  **[Points](series-points-method-excel.md)** ( _index_ ), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
+Use **[Points](series-points-method-excel.md)** ( _index_ ), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
 
 
 ## Example
 
-Use the  **Points** method to return the **[Points](points-object-excel.md)** collection. The following example adds a data label to the last point on series one in embedded chart one on worksheet one.
+Use the **Points** method to return the **[Points](points-object-excel.md)** collection. The following example adds a data label to the last point on series one in embedded chart one on worksheet one.
 
 
 ```

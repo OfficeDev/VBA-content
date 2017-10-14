@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-When set to  **True**, this property simulates the look of a single-document interface (SDI), which makes it easier to navigate between open presentations. However, if you work with multiple presentations while other applications are open, you may want to set this property to **False** to avoid filling your taskbar with unnecessary buttons.
+When set to **True**, this property simulates the look of a single-document interface (SDI), which makes it easier to navigate between open presentations. However, if you work with multiple presentations while other applications are open, you may want to set this property to **False** to avoid filling your taskbar with unnecessary buttons.
 
-The value of the  **ShowWindowsInTaskbar** property can be one of these **MsoTriState** constants.
+The value of the **ShowWindowsInTaskbar** property can be one of these **MsoTriState** constants.
 
 
 

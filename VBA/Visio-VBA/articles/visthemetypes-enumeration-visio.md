@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisThemeTypes Enumeration (Visio)
 
-Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
+Theme types passed to the **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
 
 
 

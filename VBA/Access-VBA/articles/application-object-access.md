@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application Object (Access)
 
-The  **Application** object refers to the active Microsoft Access application.
+The **Application** object refers to the active Microsoft Access application.
 
 
 ## Remarks
 
-The  **Application** object contains all Access objects and collections.
+The **Application** object contains all Access objects and collections.
 
-You can use the  **Application** object to apply methods or property settings to the entire Access application. For example, you can use the **[SetOption](http://msdn.microsoft.com/library/6cb1f036-01c2-16bf-f62a-e5235dfb3c65%28Office.15%29.aspx)** method of the **Application** object to set database options from Visual Basic. The following example shows how you can set the **Display Status Bar** check box on the **Current Database** tab of the **Access Options** dialog box.
+You can use the **Application** object to apply methods or property settings to the entire Access application. For example, you can use the **[SetOption](http://msdn.microsoft.com/library/6cb1f036-01c2-16bf-f62a-e5235dfb3c65%28Office.15%29.aspx)** method of the **Application** object to set database options from Visual Basic. The following example shows how you can set the **Display Status Bar** check box on the **Current Database** tab of the **Access Options** dialog box.
 
 
 
@@ -29,9 +29,9 @@ You can use the  **Application** object to apply methods or property settings to
 Application.SetOption "Show Status Bar", True
 ```
 
-Access is a COM component that supports Automation, formerly called OLE Automation. You can manipulate Access objects from another application that also supports Automation. To do this, you use the  **Application** object.
+Access is a COM component that supports Automation, formerly called OLE Automation. You can manipulate Access objects from another application that also supports Automation. To do this, you use the **Application** object.
 
-For example, Microsoft Visual Basic is a COM component. You can open anAccess database from Visual Basic and work with its objects. From Visual Basic, first create a reference to the Access object library. Then create a new instance of the  **Application** class and point an object variable to it, as in the following example:
+For example, Microsoft Visual Basic is a COM component. You can open anAccess database from Visual Basic and work with its objects. From Visual Basic, first create a reference to the Access object library. Then create a new instance of the **Application** class and point an object variable to it, as in the following example:
 
 
 
@@ -40,7 +40,7 @@ For example, Microsoft Visual Basic is a COM component. You can open anAccess da
 Dim appAccess As New Access.Application
 ```
 
-From applications that do not support the  **New** keyword, you can create a new instance of the **Application** class by using the **CreateObject** function:
+From applications that do not support the **New** keyword, you can create a new instance of the **Application** class by using the **CreateObject** function:
 
 
 
@@ -50,9 +50,9 @@ Dim appAccess As Object
 Set appAccess = CreateObject("Access.Application")
 ```
 
-After you create a new instance of the  **Application** class, you can open a database or create a new database, by using either the **[OpenCurrentDatabase](http://msdn.microsoft.com/library/fd214849-02ac-eaa6-7525-9aee42b92f3d%28Office.15%29.aspx)** method or the **[NewCurrentDatabase](http://msdn.microsoft.com/library/6934a77e-5fa0-7e43-e159-2ffc2a944dca%28Office.15%29.aspx)** method. You can then set the properties of the **Application** object and call its methods. When you return a reference to the **CommandBars** object by using the **CommandBars** property of the **Application** object, you can access all Microsoft Office command bar objects and collections by using this reference.
+After you create a new instance of the **Application** class, you can open a database or create a new database, by using either the **[OpenCurrentDatabase](http://msdn.microsoft.com/library/fd214849-02ac-eaa6-7525-9aee42b92f3d%28Office.15%29.aspx)** method or the **[NewCurrentDatabase](http://msdn.microsoft.com/library/6934a77e-5fa0-7e43-e159-2ffc2a944dca%28Office.15%29.aspx)** method. You can then set the properties of the **Application** object and call its methods. When you return a reference to the **CommandBars** object by using the **CommandBars** property of the **Application** object, you can access all Microsoft Office command bar objects and collections by using this reference.
 
-You can also manipulate other Access objects through the  **Application** object. For example, by using the **[OpenForm](http://msdn.microsoft.com/library/a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0%28Office.15%29.aspx)** method of the Access **[DoCmd](docmd-object-access.md)** object, you can open an Access form from Microsoft Office Excel:
+You can also manipulate other Access objects through the **Application** object. For example, by using the **[OpenForm](http://msdn.microsoft.com/library/a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0%28Office.15%29.aspx)** method of the Access **[DoCmd](docmd-object-access.md)** object, you can open an Access form from Microsoft Office Excel:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableCancelKey Property (Project)
 
-Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write  **PjEnableCancelKey**.
+Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write **PjEnableCancelKey**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Gets or sets a value that controls how the CTRL + BREAK key combination is handl
 
 ## Remarks
 
-The  **EnableCancelKey** property can be one of the following **[PjEnableCancelKey](pjenablecancelkey-enumeration-project.md)** constants: **pjDisabled**, **pjErrorHandler**, or **pjInterrupt**.
+The **EnableCancelKey** property can be one of the following **[PjEnableCancelKey](pjenablecancelkey-enumeration-project.md)** constants: **pjDisabled**, **pjErrorHandler**, or **pjInterrupt**.
 
 
 ## Example
 
-The following example shows how you can use the  **EnableCancelKey** property to create a custom cancellation error handler.
+The following example shows how you can use the **EnableCancelKey** property to create a custom cancellation error handler.
 
 
 ```vb

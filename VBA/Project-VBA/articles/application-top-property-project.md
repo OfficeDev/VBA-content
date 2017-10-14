@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Top Property (Project)
 
-Gets or sets the distance of the Project application window from the top edge of the screen in points. Read/write  **Long**.
+Gets or sets the distance of the Project application window from the top edge of the screen in points. Read/write **Long**.
 
 
 ## Syntax
@@ -24,6 +24,6 @@ Gets or sets the distance of the Project application window from the top edge of
 
 The position of the Project application window is measured from the top of the main screen.
 
-For the distance of the active window from the top of the window display area within the Project application window, see the  **[Top](window-top-property-project.md)** property of the **Window** object.
+For the distance of the active window from the top of the window display area within the Project application window, see the **[Top](window-top-property-project.md)** property of the **Window** object.
 
 

@@ -18,11 +18,11 @@ Returns an [Integer](vbe-glossary.md) representing the next[file number](vbe-glo
  **FreeFile** [ **(**_rangenumber_**)** ]
 The optional  _rangenumber_ argument is a[Variant](vbe-glossary.md) that specifies the range from which the next free file number is to be returned. Specify a 0 (default) to return a file number in the range 1 - 255, inclusive. Specify a 1 to return a file number in the range 256 - 511.
  **Remarks**
-Use  **FreeFile** to supply a file number that is not already in use.
+Use **FreeFile** to supply a file number that is not already in use.
 
 ## Example
 
-This example uses the  **FreeFile** function to return the next available file number. Five files are opened for output within the loop, and some sample data is written to each.
+This example uses the **FreeFile** function to return the next available file number. Five files are opened for output within the loop, and some sample data is written to each.
 
 
 ```vb

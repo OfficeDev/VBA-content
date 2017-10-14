@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.DisplayUnitLabel Property (Word)
 
-Returns the  **[DisplayUnitLabel](displayunitlabel-object-word.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](axis-hasdisplayunitlabel-property-word.md)** property is set to **False** . Read-only.
+Returns the **[DisplayUnitLabel](displayunitlabel-object-word.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](axis-hasdisplayunitlabel-property-word.md)** property is set to **False** . Read-only.
 
 
 ## Syntax

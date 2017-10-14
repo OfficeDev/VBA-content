@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroup.ViewType Property (Outlook)
 
-Returns or sets an  **[OlOutlookBarViewType](oloutlookbarviewtype-enumeration-outlook.md)** constant representing the view type of an **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlOutlookBarViewType](oloutlookbarviewtype-enumeration-outlook.md)** constant representing the view type of an **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlOutlookBarViewType](oloutlookbarviewtype-enumeration-ou
 
 ## Remarks
 
-This property does not have any effect on the icons displayed in the  **Shortcuts** pane. Large icons have been removed and if this property is set to **olLargeIcon** , it will not have any effect. In previous versions of Microsoft Outlook, it returns or sets the icon view displayed by the specified **Outlook Bar** group.
+This property does not have any effect on the icons displayed in the **Shortcuts** pane. Large icons have been removed and if this property is set to **olLargeIcon** , it will not have any effect. In previous versions of Microsoft Outlook, it returns or sets the icon view displayed by the specified **Outlook Bar** group.
 
 
 ## See also

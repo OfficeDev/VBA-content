@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.ODBCConnection Property (Excel)
 
-Retuns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection** .
+Retuns the ODBC Connection details for the specified **WorkbookConnection** object. Read-only **ODBCConnection** .
 
 
 ## Syntax

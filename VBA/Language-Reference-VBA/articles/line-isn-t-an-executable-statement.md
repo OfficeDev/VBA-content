@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 
 
-- You chose the  **Step To Cursor** command, but the cursor was not on a line containing an executable statement. Place the cursor on an executable statement near the current line.
+- You chose the **Step To Cursor** command, but the cursor was not on a line containing an executable statement. Place the cursor on an executable statement near the current line.
     
 
-For additional information, choose the  **Step To Cursor** command on the **Run** menu and press F1 (in Windows) or HELP (on the Macintosh).
+For additional information, choose the **Step To Cursor** command on the **Run** menu and press F1 (in Windows) or HELP (on the Macintosh).
 

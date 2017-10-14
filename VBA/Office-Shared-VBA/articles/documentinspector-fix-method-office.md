@@ -36,12 +36,12 @@ Performs an action on specific information items or document properties dependin
 
  **MsoDocInspectorStatus** members
 
-There are two Document Inspector modules that are included with Microsoft Office. These are the  **Comments/Revisions** module and the **Document Properties** method. These are the first two options that show up in the **Document Inspector** dialog box but are not available in the **DocumentInspectors** collection.
+There are two Document Inspector modules that are included with Microsoft Office. These are the **Comments/Revisions** module and the **Document Properties** method. These are the first two options that show up in the **Document Inspector** dialog box but are not available in the **DocumentInspectors** collection.
 
 
 ## Example
 
-The following example demonstrates implementing the  **Fix** method of the **DocumentInspector** object. You specify which Document Inspector module to execute with the index value specified in the **DocumentInspectors** collection. Before executing this method, you would likely run the **Inspect** method to determine if there are any hidden worksheets in the workbook.
+The following example demonstrates implementing the **Fix** method of the **DocumentInspector** object. You specify which Document Inspector module to execute with the index value specified in the **DocumentInspectors** collection. Before executing this method, you would likely run the **Inspect** method to determine if there are any hidden worksheets in the workbook.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.RowItems Property (Excel)
 
-Returns a  **[PivotItemList](pivotitemlist-object-excel.md)** collection that corresponds to the items on the category axis that represent the selected cell.
+Returns a **[PivotItemList](pivotitemlist-object-excel.md)** collection that corresponds to the items on the category axis that represent the selected cell.
 
 
 ## Syntax

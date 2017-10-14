@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSelectionTypes Enumeration (Visio)
 
-Selection types to be passed to the  **CreateSelection** method of the **Master** , **Page** , and **Shape** objects.
+Selection types to be passed to the **CreateSelection** method of the **Master** , **Page** , and **Shape** objects.
 
 
 

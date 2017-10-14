@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.GetContact Method (Outlook)
 
-Returns a  **[ContactItem](contactitem-object-outlook.md)** object that represents the **[AddressEntry](addressentry-object-outlook.md)** , if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
+Returns a **[ContactItem](contactitem-object-outlook.md)** object that represents the **[AddressEntry](addressentry-object-outlook.md)** , if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ContactItem](contactitem-object-outlook.md)** object that represen
 
 ### Return Value
 
-A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **Null** ( **Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
+A **ContactItem** object that corresponds to the **AddressEntry** . Returns **Null** ( **Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## See also

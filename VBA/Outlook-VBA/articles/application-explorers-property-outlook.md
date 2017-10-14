@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Explorers Property (Outlook)
 
-Returns an  **[Explorers](explorers-object-outlook.md)** collection object that contains the **[Explorer](explorer-object-outlook.md)** objects representing all open explorers. Read-only.
+Returns an **[Explorers](explorers-object-outlook.md)** collection object that contains the **[Explorer](explorer-object-outlook.md)** objects representing all open explorers. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Private Sub CountExplorers()
 End Sub
 ```
 
-The following VBA example uses the  **[Count](selection-count-property-outlook.md)** property and **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the explorer that displays the **Inbox**. To run this example, you need to have at least one mail item selected in the explorer displaying the Inbox. You might receive an error if you select items other than a mail item such as task request as the  **SenderName** property does not exist for a **[TaskRequestItem](taskrequestitem-object-outlook.md)** object.
+The following VBA example uses the **[Count](selection-count-property-outlook.md)** property and **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the explorer that displays the **Inbox**. To run this example, you need to have at least one mail item selected in the explorer displaying the Inbox. You might receive an error if you select items other than a mail item such as task request as the **SenderName** property does not exist for a **[TaskRequestItem](taskrequestitem-object-outlook.md)** object.
 
 
 

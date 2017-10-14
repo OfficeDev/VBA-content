@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ReflectionFormat.Blur Property (Publisher)
 
-Returns or sets a  **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
+Returns or sets a **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
 
 
 ## Syntax
 
  _expression_. **Blur**
 
- _expression_A variable that represents a  **ReflectionFormat** object.
+ _expression_A variable that represents a **ReflectionFormat** object.
 
 
 ## Return value

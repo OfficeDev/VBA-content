@@ -18,6 +18,6 @@ Represents a Microsoft Windows accelerator table.
 
 ## Remarks
 
-You can create one  **AccelTable** object for each Microsoft Visio window context (drawing window, stencil window, ShapeSheet window, and so on).
+You can create one **AccelTable** object for each Microsoft Visio window context (drawing window, stencil window, ShapeSheet window, and so on).
 
 

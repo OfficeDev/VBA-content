@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-The  **ContainsWorkspaceEx** property setting corresponds to the setting of the **Save workspace** check box on the **Summary** tab of the **Document Properties** dialog box in the Microsoft Visio user interface.
+The **ContainsWorkspaceEx** property setting corresponds to the setting of the **Save workspace** check box on the **Summary** tab of the **Document Properties** dialog box in the Microsoft Visio user interface.
 
-The  **ContainsWorkspaceEx** property replaces the read-only **ContainsWorkspace** property that existed in previous versions of Visio. Note that although the **ContainsWorkspace** property is now deprecated, it still returns a value.
+The **ContainsWorkspaceEx** property replaces the read-only **ContainsWorkspace** property that existed in previous versions of Visio. Note that although the **ContainsWorkspace** property is now deprecated, it still returns a value.
 
-Note also that in previous versions of Visio, to save a document along with workspace information, you used the  **[Document.SaveAs](document-saveas-method-visio.md)** method, passing it the **visSaveAsWS** constant.
+Note also that in previous versions of Visio, to save a document along with workspace information, you used the **[Document.SaveAs](document-saveas-method-visio.md)** method, passing it the **visSaveAsWS** constant.
 
-Starting with Visio 2007, by default, workspace information is saved with all documents except stencils. To specify that workspace information not be saved with a document, set  **ContainsWorkspaceEx** to **False** .
+Starting with Visio 2007, by default, workspace information is saved with all documents except stencils. To specify that workspace information not be saved with a document, set **ContainsWorkspaceEx** to **False** .
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.Add Method (Word)
 
-Returns a  **Row** object that represents a row added to a table.
+Returns a **Row** object that represents a row added to a table.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Row** object that represents a row added to a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _BeforeRow_|Optional| **Variant**|A  **Row** object that represents the row that will appear immediately below the new row.|
+| _BeforeRow_|Optional| **Variant**|A **Row** object that represents the row that will appear immediately below the new row.|
 
 ### Return Value
 

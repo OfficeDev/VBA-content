@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.Pattern Property (Word)
 
-Returns or sets a  **Variant** value, containing an **[XlPattern](xlpattern-enumeration-word.md)** constant, that represents the interior pattern.
+Returns or sets a **Variant** value, containing an **[XlPattern](xlpattern-enumeration-word.md)** constant, that represents the interior pattern.
 
 
 ## Syntax

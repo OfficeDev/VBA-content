@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.Story Property (Publisher)
 
-Returns a  **Story** object that represents the story properties in a text range.
+Returns a **Story** object that represents the story properties in a text range.
 
 
 ## Syntax
 
  _expression_. **Story**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ## Example

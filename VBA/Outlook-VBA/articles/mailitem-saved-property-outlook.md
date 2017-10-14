@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Saved Property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
+Returns a **Boolean** value that is **True** if the Outlook item has not been modified since the last save. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example tests for the  **[Close](mailitem-close-event-outlook.md)** event and if the item has not been **[Saved](mailitem-saved-property-outlook.md)** , it uses the **[Save](mailitem-save-method-outlook.md)** method to save the item without prompting the user.
+This Microsoft Visual Basic for Applications (VBA) example tests for the **[Close](mailitem-close-event-outlook.md)** event and if the item has not been **[Saved](mailitem-saved-property-outlook.md)** , it uses the **[Save](mailitem-save-method-outlook.md)** method to save the item without prompting the user.
 
 
 ```vb

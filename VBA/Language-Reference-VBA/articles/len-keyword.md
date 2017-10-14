@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Len <keyword>
 
-The  **Len** keyword is used in these contexts:
+The **Len** keyword is used in these contexts:
 
 [Len Function](len-function.md)
 

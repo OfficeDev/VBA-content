@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline6Start Property (Project)
 
-Gets or sets the baseline start date of a  **Task**. Read/write **Variant**.
+Gets or sets the baseline start date of a **Task**. Read/write **Variant**.
 
 
 ## Syntax

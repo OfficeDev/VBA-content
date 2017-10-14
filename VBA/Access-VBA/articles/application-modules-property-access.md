@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Modules Property (Access)
 
-You can use the  **Modules** property to access the **[Modules](modules-object-access.md)** collection and its related properties. Read-only **Modules** object.
+You can use the **Modules** property to access the **[Modules](modules-object-access.md)** collection and its related properties. Read-only **Modules** object.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ You can use the  **Modules** property to access the **[Modules](modules-object-a
 
 ## Remarks
 
-Use the properties of the  **Modules** collection in Visual Basic to refer to all open standard modules and class modules.
+Use the properties of the **Modules** collection in Visual Basic to refer to all open standard modules and class modules.
 
 
 ## Example
 
-The following example uses the  **Module** property to insert the **Beep** method in a form's Open event.
+The following example uses the **Module** property to insert the **Beep** method in a form's Open event.
 
 
 ```vb

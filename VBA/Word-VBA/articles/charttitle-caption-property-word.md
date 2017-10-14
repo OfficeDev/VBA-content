@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.Caption Property (Word)
 
-Returns or sets the chart title text. Read/write  **String** .
+Returns or sets the chart title text. Read/write **String** .
 
 
 ## Syntax

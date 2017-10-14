@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline10StartText Property (Project)
 
-Gets or sets a string representation of the baseline start date of a task. Read/write  **String**.
+Gets or sets a string representation of the baseline start date of a task. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets a string representation of the baseline start date of a task. Read/
 
 ## Remarks
 
-The  **Baseline10StartText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline10StartText** has any value, you should convert the value to a date for the **Baseline10Start** property.
+The **Baseline10StartText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline10StartText** has any value, you should convert the value to a date for the **Baseline10Start** property.
 
 

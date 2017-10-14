@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.SourceName Property (Excel)
 
-Returns the name of the source file that is open in the specified  **Protected View** window. Read-only
+Returns the name of the source file that is open in the specified **Protected View** window. Read-only
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Returns the name of the source file that is open in the specified  **Protected V
 
 ## Remarks
 
-This property does not return the path for the source file. To return the path, use the  **[SourcePath](protectedviewwindow-sourcepath-property-excel.md)** property of the **ProtectedViewWindow** object.
+This property does not return the path for the source file. To return the path, use the **[SourcePath](protectedviewwindow-sourcepath-property-excel.md)** property of the **ProtectedViewWindow** object.
 
 
 ## Example
 
-The following example returns the path and name of the workbook associated with the specified  **Protected View** window.
+The following example returns the path and name of the workbook associated with the specified **Protected View** window.
 
 
 ```vb

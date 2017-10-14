@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Email Property (Word)
 
-Returns an  **[Email](email-object-word.md)** object that contains all the e-mail-related properties of the current document. Read-only.
+Returns an **[Email](email-object-word.md)** object that contains all the e-mail-related properties of the current document. Read-only.
 
 
 ## Syntax

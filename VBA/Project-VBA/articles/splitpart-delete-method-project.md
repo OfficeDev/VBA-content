@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SplitPart.Delete Method (Project)
 
-Deletes the  **SplitPart** object from a **SplitParts** collection.
+Deletes the **SplitPart** object from a **SplitParts** collection.
 
 
 ## Syntax

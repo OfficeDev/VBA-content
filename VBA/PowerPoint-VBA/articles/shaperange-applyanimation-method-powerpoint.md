@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ApplyAnimation Method (PowerPoint)
 
-Applies animation to a  **ShapeRange** object.
+Applies animation to a **ShapeRange** object.
 
 
 ## Syntax

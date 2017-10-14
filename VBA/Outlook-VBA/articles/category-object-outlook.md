@@ -18,16 +18,16 @@ Represents a user-defined category by which Outlook items can be grouped.
 
 ## Remarks
 
-Microsoft Outlook provides a categorization system with which Outlook items can be easily identified and grouped into user-defined categories. The  **Category** object represents a user-defined category.
+Microsoft Outlook provides a categorization system with which Outlook items can be easily identified and grouped into user-defined categories. The **Category** object represents a user-defined category.
 
-Use the  **[Add](categories-add-method-outlook.md)** method of the **[Categories](namespace-categories-property-outlook.md)** property for the **[NameSpace](namespace-object-outlook.md)** object to create a new **Category** object, adding the category to the Master Category List for that namespace.
+Use the **[Add](categories-add-method-outlook.md)** method of the **[Categories](namespace-categories-property-outlook.md)** property for the **[NameSpace](namespace-object-outlook.md)** object to create a new **Category** object, adding the category to the Master Category List for that namespace.
 
-Use the  **[Name](category-name-property-outlook.md)** property to specify the name of the category, the **[Color](category-color-property-outlook.md)** property to specify the color displayed for that category, and the **[ShortcutKey](category-shortcutkey-property-outlook.md)** property to specify the shortcut key used to assign that category to an Outlook item in the Outlook user interface. Use the **[CategoryID](category-categoryid-property-outlook.md)** property to retrieve the unique identifer for a category.
+Use the **[Name](category-name-property-outlook.md)** property to specify the name of the category, the **[Color](category-color-property-outlook.md)** property to specify the color displayed for that category, and the **[ShortcutKey](category-shortcutkey-property-outlook.md)** property to specify the shortcut key used to assign that category to an Outlook item in the Outlook user interface. Use the **[CategoryID](category-categoryid-property-outlook.md)** property to retrieve the unique identifer for a category.
 
 
 ### Assigning Categories to Items
 
-Categories can be assigned to Outlook items by specifying the names of the appropriate  **Category** objects in a comma-delimited string in the **Categories** property of the following objects:
+Categories can be assigned to Outlook items by specifying the names of the appropriate **Category** objects in a comma-delimited string in the **Categories** property of the following objects:
 
 
 |||
@@ -44,7 +44,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ```

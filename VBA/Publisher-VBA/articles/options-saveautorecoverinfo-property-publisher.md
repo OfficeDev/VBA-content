@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **SaveAutoRecoverInfo**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** property to specify how often auto recovery saves occur.
+Use the **[SaveAutoRecoverInfoInterval](options-saveautorecoverinfointerval-property-publisher.md)** property to specify how often auto recovery saves occur.
 
 
 ## Example

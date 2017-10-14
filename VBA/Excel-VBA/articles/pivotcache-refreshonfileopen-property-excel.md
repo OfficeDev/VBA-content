@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Query tables and PivotTable reports are not automatically refreshed when you open the workbook by using the  **[Open](workbooks-open-method-excel.md)** method in Visual Basic. Use the **[Refresh](pivotcache-refresh-method-excel.md)** method to refresh the data after the workbook is open.
+Query tables and PivotTable reports are not automatically refreshed when you open the workbook by using the **[Open](workbooks-open-method-excel.md)** method in Visual Basic. Use the **[Refresh](pivotcache-refresh-method-excel.md)** method to refresh the data after the workbook is open.
 
 
 ## Example

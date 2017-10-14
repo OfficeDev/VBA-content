@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryType Property (PowerPoint)
 
-Returns or sets the category axis type. Read/write  **[XlCategoryType](xlcategorytype-enumeration-powerpoint.md)**.
+Returns or sets the category axis type. Read/write **[XlCategoryType](xlcategorytype-enumeration-powerpoint.md)**.
 
 
 ## Syntax

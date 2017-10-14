@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathPhantom.Show Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the contents of a phantom object are visible. Read/write.
+Returns or sets a **Boolean** that represents whether the contents of a phantom object are visible. Read/write.
 
 
 ## Syntax

@@ -30,11 +30,11 @@ Moves the start position of the specified selection while any of the specified c
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified selection is to be moved. Can be a number or either the **wdForward** or **wdBackward** constant. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward** .|
 
 ## Remarks
 
-While any character in Cset is found, the start position of the selection is moved. This method returns the number of characters that the start position of the selection moved as a  **Long** value. If not Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a position beyond the original end position, the end position is set to the new start position.
+While any character in Cset is found, the start position of the selection is moved. This method returns the number of characters that the start position of the selection moved as a **Long** value. If not Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a position beyond the original end position, the end position is set to the new start position.
 
 
 ## Example

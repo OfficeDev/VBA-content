@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Filter a Report Using a Form's Filter
 
-The following example illustrates how to open a report based on the filtered contents of a form. To do this, specify the form's  **[Filter](form-filter-property-access.md)** property as the value of the **[OpenReport](docmd-openreport-method-access.md)** method's _WhereCondition_ argument.
+The following example illustrates how to open a report based on the filtered contents of a form. To do this, specify the form's **[Filter](form-filter-property-access.md)** property as the value of the **[OpenReport](docmd-openreport-method-access.md)** method's _WhereCondition_ argument.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FindFile Method (Project)
 
-Displays the  **File Open** dialog box, which allows the user to search for a file.
+Displays the **File Open** dialog box, which allows the user to search for a file.
 
 
 ## Syntax

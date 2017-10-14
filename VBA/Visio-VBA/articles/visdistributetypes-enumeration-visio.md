@@ -16,7 +16,7 @@ Shape distribution types.
 
 ## Remarks
 
-These constants correspond to the options available in the  **Distribute Shapes** dialog box. (Select three or more shapes, and on the **Home** tab, in the **Arrange** group, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**.)
+These constants correspond to the options available in the **Distribute Shapes** dialog box. (Select three or more shapes, and on the **Home** tab, in the **Arrange** group, click **Position**, point to **Space Shapes**, and then click **More Distribute Options**.)
 
 
 

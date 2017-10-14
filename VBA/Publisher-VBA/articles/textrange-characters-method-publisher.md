@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Characters Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text characters.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text characters.
 
 
 ## Syntax
 
- _expression_. **Characters**( **_Start_**,  **_Length_**)
+ _expression_. **Characters**( **_Start_**, **_Length_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,9 +39,9 @@ TextRange
 
 ## Remarks
 
-If  **_Start_** is greater than the number of characters in the specified text, the returned range starts with the last character in the specified range.
+If **_Start_** is greater than the number of characters in the specified text, the returned range starts with the last character in the specified range.
 
-If  **_Length_** is greater than the number of characters from the specified starting character to the end of the text, the returned range contains all those characters.
+If **_Length_** is greater than the number of characters from the specified starting character to the end of the text, the returned range contains all those characters.
 
 
 ## Example

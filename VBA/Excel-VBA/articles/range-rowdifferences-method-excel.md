@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.RowDifferences Method (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents all the cells whose contents are different from those of the comparison cell in each row.
+Returns a **[Range](range-object-excel.md)** object that represents all the cells whose contents are different from those of the comparison cell in each row.
 
 
 ## Syntax

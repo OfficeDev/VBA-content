@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EuroConvert Method (Access)
 
-You can use the  **EuroConvert** function to convert a number to euro or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
+You can use the **EuroConvert** function to convert a number to euro or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
 
 
 ## Syntax
@@ -32,8 +32,8 @@ You can use the  **EuroConvert** function to convert a number to euro or from eu
 | _Number_|Required|**Double**|The number you want to convert, or a reference to a field containing the number.|
 | _SourceCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the International Standards Organization (ISO) acronym for the currency you want to convert. Can be one of the ISO codes listed in the Remarks section.|
 | _TargetCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the ISO code of the currency to which you want to convert the number. For a list of ISO codes, see the Remarks section.|
-| _FullPrecision_|Optional|**Variant**|A  **Boolean** value where **True** (1) ignores the currency-specific rounding rules (called display precision in _sourcecurrency_ argument description) and uses the 6-significant-digit conversion factor with no follow-up rounding. **False** (0) uses the currency-specific rounding rules to display the result. If the parameter is omitted, the default value is **False**.|
-| _TriangulationPrecision_|Optional|**Variant**|An  **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national currencies.|
+| _FullPrecision_|Optional|**Variant**|A **Boolean** value where **True** (1) ignores the currency-specific rounding rules (called display precision in _sourcecurrency_ argument description) and uses the 6-significant-digit conversion factor with no follow-up rounding. **False** (0) uses the currency-specific rounding rules to display the result. If the parameter is omitted, the default value is **False**.|
+| _TriangulationPrecision_|Optional|**Variant**|An **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national currencies.|
 
 ### Return Value
 
@@ -62,7 +62,7 @@ The following table contains the ISO codes that can be used with the  _SourceCur
 |euro|EUR|2|2|
 In the preceding table, the calculation precision determines what currency unit to round the result to based on the conversion currency. For example, when converting to Deutsche marks, the calculation precision is 2, and the result is rounded to the nearest pfennig, 100 pfennigs to a mark. The display precision determines how many decimal places appear in the field containing the result.
 
-Later versions of the  **EuroConvert** function may support additional currencies. For information about new participating currencies and updates to the **EuroConvert** function, see the Microsoft Office Euro Currency Web site.
+Later versions of the **EuroConvert** function may support additional currencies. For information about new participating currencies and updates to the **EuroConvert** function, see the Microsoft Office Euro Currency Web site.
 
 
 
@@ -78,7 +78,7 @@ If the source ISO code is the same as the target ISO code, the original value of
 
 This function does not apply a format.
 
-The  **EuroConvert** function uses the current rates established by the European Union. If the rates change, Microsoft will update the function. To get full information about the rules and the rates currently in effect, see the European Commission publications about the euro. For information about obtaining these publications, see the Microsoft Office Euro Currency Web site.
+The **EuroConvert** function uses the current rates established by the European Union. If the rates change, Microsoft will update the function. To get full information about the rules and the rates currently in effect, see the European Commission publications about the euro. For information about obtaining these publications, see the Microsoft Office Euro Currency Web site.
 
 
 ## Example

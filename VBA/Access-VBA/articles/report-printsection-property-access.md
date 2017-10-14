@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.PrintSection Property (Access)
 
-The  **PrintSection** property specifies whether a section should be printed. Read/write **Boolean**.
+The **PrintSection** property specifies whether a section should be printed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **PrintSection** property specifies whether a section should be printed. Re
 
 ## Remarks
 
-The  **PrintSection** property uses the following settings.
+The **PrintSection** property uses the following settings.
 
 
 
@@ -34,9 +34,9 @@ The  **PrintSection** property uses the following settings.
 |**True**|(Default) The section is printed.|
 |**False**|The section isn't printed.|
 
- **Note**  To set this property, specify a macro or event procedure for a section's  **[OnFormat](section-onformat-property-access.md)** property.
+ **Note**  To set this property, specify a macro or event procedure for a section's **[OnFormat](section-onformat-property-access.md)** property.
 
-Microsoft Access sets this property to  **True** before each section's **Format** event.
+Microsoft Access sets this property to **True** before each section's **Format** event.
 
 
 ## Example

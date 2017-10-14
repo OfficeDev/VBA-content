@@ -38,11 +38,11 @@ Addon
 
 ## Remarks
 
-You can retrieve an object in an  **Addons** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
+You can retrieve an object in an **Addons** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
 
-If you retrieve a  **Shape** object by name, the **ItemU** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **ItemU** property can be a shape that is not in the **Shapes** collection.
+If you retrieve a **Shape** object by name, the **ItemU** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **ItemU** property can be a shape that is not in the **Shapes** collection.
 
-You can also pass the unique ID string of a  **Master** or **Shape** object to the **ItemU** property. For example:
+You can also pass the unique ID string of a **Master** or **Shape** object to the **ItemU** property. For example:
 
 
 
@@ -51,7 +51,7 @@ You can also pass the unique ID string of a  **Master** or **Shape** object to t
 objRet = vsoShapes.ItemU("{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 ```
 
-If such a string is passed to the  **ItemU** property of a **Shapes** collection, all the shapes contained in the collection are searched. Shapes within the group shapes in the containing shape are not searched.
+If such a string is passed to the **ItemU** property of a **Shapes** collection, all the shapes contained in the collection are searched. Shapes within the group shapes in the containing shape are not searched.
 
 To search all shapes in the collection, plus the shapes inside groups and the containing shape of the collection, prefix the unique ID string with an asterisk (*). For example:
 
@@ -68,7 +68,7 @@ objRet = vsoShapes.ItemU("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 
 ## Example
 
-This Microsoft Visual Basic macro shows how to use the  **ItemU** property of the **Pages** collection to get the **Shapes** collection. Then it uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
+This Microsoft Visual Basic macro shows how to use the **ItemU** property of the **Pages** collection to get the **Shapes** collection. Then it uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
 
 To run this macro, make sure the active document has shapes on Page-1.
 

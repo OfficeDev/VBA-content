@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Close a Report Automatically If It Does Not Contain Any Records
 
-The following example shows how to use the  **[NoData](report-nodata-event-access.md)** event to cancel opening or printing a report when it has no data. A message box notifying the user that the report has no data is also displayed.
+The following example shows how to use the **[NoData](report-nodata-event-access.md)** event to cancel opening or printing a report when it has no data. A message box notifying the user that the report has no data is also displayed.
 
 
 ```vb

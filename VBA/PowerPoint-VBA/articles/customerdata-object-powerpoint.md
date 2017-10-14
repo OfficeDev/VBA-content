@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomerData Object (PowerPoint)
 
-Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** objects associated with a Microsoft PowerPoint object.
+Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** objects associated with a Microsoft PowerPoint object.
 
 
 ## Remarks
 
-You can store customer data in  **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, and **[Slide](slide-object-powerpoint.md)** objects. You can associate one or more **CustomXMLPart** objects with the same object.
+You can store customer data in **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, and **[Slide](slide-object-powerpoint.md)** objects. You can associate one or more **CustomXMLPart** objects with the same object.
 
 
 
@@ -29,22 +29,22 @@ You can store customer data in  **[CustomLayout](customlayout-object-powerpoint.
     
 
 
-Use the  **[Add](customerdata-add-method-powerpoint.md)** method to add a new **CustomXMLPart** object to the **CustomerData** collection.
+Use the **[Add](customerdata-add-method-powerpoint.md)** method to add a new **CustomXMLPart** object to the **CustomerData** collection.
 
-Use the  **[Delete](customerdata-delete-method-powerpoint.md)** method to delete a **CustomXMLPart** object from the **CustomerData** collection.
+Use the **[Delete](customerdata-delete-method-powerpoint.md)** method to delete a **CustomXMLPart** object from the **CustomerData** collection.
 
-Use the  **[Item](customerdata-item-method-powerpoint.md)** method to get a specific **CustomXMLPart** object from the collection. Individual items in the collection are represented by GUIDs (globally unique identifiers).
+Use the **[Item](customerdata-item-method-powerpoint.md)** method to get a specific **CustomXMLPart** object from the collection. Individual items in the collection are represented by GUIDs (globally unique identifiers).
 
-You can use customer data in the same way that you used  **[Tags](tags-object-powerpoint.md)** objects in versions of PowerPoint previous to Microsoft Office PowerPoint 2007--that is, to associate data with objects. Customer data is more powerful than tags, however, because you can store the data as XML instead of as a simple string.
+You can use customer data in the same way that you used **[Tags](tags-object-powerpoint.md)** objects in versions of PowerPoint previous to Microsoft Office PowerPoint 2007--that is, to associate data with objects. Customer data is more powerful than tags, however, because you can store the data as XML instead of as a simple string.
 
 You can associate customer data in PowerPoint with external data by storing the IDs of custom XML parts in a spreadsheet or database along with the external data.
 
-When you copy an object that contains customer data, the customer data is copied to the new object. PowerPoint creates a new  **CustomXMLPart** object to hold the copied data, because two **CustomLayout**, **Master**, **Presentation**, **Shape**, or **Slide** objects can never be associated with the same **CustomXMLPart** object.
+When you copy an object that contains customer data, the customer data is copied to the new object. PowerPoint creates a new **CustomXMLPart** object to hold the copied data, because two **CustomLayout**, **Master**, **Presentation**, **Shape**, or **Slide** objects can never be associated with the same **CustomXMLPart** object.
 
 
 ## Example
 
-The following example shows how to add a  **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
+The following example shows how to add a **CustomXMLPart** object to the **CustomerData** collection of the first shape on the first slide of the active presentation, and how to load an XML string into the custom XML part. It prints the ID of the custom XML part and the XML string in the Immediate window.
 
 
 ```vb

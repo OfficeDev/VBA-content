@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Image.TopPadding Property (Access)
 
-Gets or sets the amount of space (in inches) between the image control and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the image control and its top gridline. Read/write **Integer**.
 
 
 ## Syntax

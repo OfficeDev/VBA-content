@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Replacement Property (Word)
 
-Returns a  **[Replacement](replacement-object-word.md)** object that contains the criteria for a replace operation.
+Returns a **[Replacement](replacement-object-word.md)** object that contains the criteria for a replace operation.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Replacement](replacement-object-word.md)** object that contains th
 
 ## Example
 
-This example removes bold formatting from the active document. The  **Bold** property of the **Font** object is **True** for the **Find** object and **False** for the **Replacement** object.
+This example removes bold formatting from the active document. The **Bold** property of the **Font** object is **True** for the **Find** object and **False** for the **Replacement** object.
 
 
 ```vb

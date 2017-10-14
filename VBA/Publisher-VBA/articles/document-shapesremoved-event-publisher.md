@@ -20,12 +20,12 @@ Occurs when a shape is deleted from a publication.
 
  _expression_. **ShapesRemoved**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Example
 
-This example displays a message whenever a shape is removed from the active publication. For this example to work, you must place this code into the  **ThisDocument** module.
+This example displays a message whenever a shape is removed from the active publication. For this example to work, you must place this code into the **ThisDocument** module.
 
 
 ```vb

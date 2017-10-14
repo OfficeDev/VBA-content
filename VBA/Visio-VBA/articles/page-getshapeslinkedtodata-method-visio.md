@@ -33,7 +33,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document.|
-| _ShapeIDs()_|Required| **Long**|Out parameter. An array of type  **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data recordset specified in DataRecordsetID.|
+| _ShapeIDs()_|Required| **Long**|Out parameter. An array of type **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data recordset specified in DataRecordsetID.|
 
 ### Return Value
 
@@ -42,16 +42,16 @@ Nothing
 
 ## Remarks
 
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . If there are no linked shapes on the page, **GetShapesLinkedToData** will return an empty array.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type **Long** . If there are no linked shapes on the page, **GetShapesLinkedToData** will return an empty array.
 
-To determine the specific data row in the data recordset shapes are linked to, use the  **[Page.GetShapesLinkedToDataRow ](page-getshapeslinkedtodatarow-method-visio.md)** method.
+To determine the specific data row in the data recordset shapes are linked to, use the **[Page.GetShapesLinkedToDataRow ](page-getshapeslinkedtodatarow-method-visio.md)** method.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetShapesLinkedToData** method to determine the shape IDs of the shapes on the page linked to data in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetShapesLinkedToData** method to determine the shape IDs of the shapes on the page linked to data in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the **Immediate** window.
 
-Before running this macro, use the  **[DataRecordsets.Add](datarecordsets-add-method-visio.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure there is at least one shape on the active page linked to data in the data recordset.
+Before running this macro, use the **[DataRecordsets.Add](datarecordsets-add-method-visio.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure there is at least one shape on the active page linked to data in the data recordset.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoPresetThreeDFormat Enumeration (Office)
 
-Specifies an extrusion (three-dimensional) format.The  **msoPresetThreeDFormat** constants are numbered according to the order (left to right, top to bottom) in which they are shown in the **3-D Style** button on the **Formatting** toolbar.
+Specifies an extrusion (three-dimensional) format.The **msoPresetThreeDFormat** constants are numbered according to the order (left to right, top to bottom) in which they are shown in the **3-D Style** button on the **Formatting** toolbar.
 
 
 

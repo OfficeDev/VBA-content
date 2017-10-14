@@ -23,15 +23,15 @@ ms.date: 06/08/2017
 [Example](#sectionSection2)
 
 
-You can use the  **UniqueValues** property when you want to omit records that contain duplicate data in the fields displayed in Datasheet view. For example, if a query's output includes more than one field, the combination of values from all fields must be unique for a given record to be included in the results.
+You can use the **UniqueValues** property when you want to omit records that contain duplicate data in the fields displayed in Datasheet view. For example, if a query's output includes more than one field, the combination of values from all fields must be unique for a given record to be included in the results.
 
- **Note**  The  **UniqueValues** property applies only to append and make-table action queries and select queries.
+ **Note**  The **UniqueValues** property applies only to append and make-table action queries and select queries.
 
 
 ## Setting
 <a name="sectionSection0"> </a>
 
-The  **UniqueValues** property uses the following settings.
+The **UniqueValues** property uses the following settings.
 
 
 
@@ -39,18 +39,18 @@ The  **UniqueValues** property uses the following settings.
 |:-----|:-----|
 |Yes|Displays only the records in which the values of all fields displayed in Datasheet view are unique.|
 |No|(Default) Displays all records.|
-You can set the  **UniqueValues** property in the query's property sheet or in SQL view of the Query window.
+You can set the **UniqueValues** property in the query's property sheet or in SQL view of the Query window.
 
 
- **Note**  You can set this property when you create a new query by using an SQL statement. The DISTINCT predicate corresponds to the  **UniqueValues** property setting. The DISTINCTROW predicate corresponds to the **UniqueValues** property setting.
+ **Note**  You can set this property when you create a new query by using an SQL statement. The DISTINCT predicate corresponds to the **UniqueValues** property setting. The DISTINCTROW predicate corresponds to the **UniqueValues** property setting.
 
 
 ## Remarks
 <a name="sectionSection1"> </a>
 
-When you set the  **UniqueValues** property to Yes, the results of the query aren't updatable and won't reflect subsequent changes made by other users.
+When you set the **UniqueValues** property to Yes, the results of the query aren't updatable and won't reflect subsequent changes made by other users.
 
-The  **UniqueValues** and **UniqueRecords** properties are related in that only one of them can be set to Yes at a time. When you set the **UniqueValues** property to Yes, for example, Microsoft Access automatically sets the **UniqueRecords** property to No. You can, however, set both of them to No. When both properties are set to No, all records are returned.
+The **UniqueValues** and **UniqueRecords** properties are related in that only one of them can be set to Yes at a time. When you set the **UniqueValues** property to Yes, for example, Microsoft Access automatically sets the **UniqueRecords** property to No. You can, however, set both of them to No. When both properties are set to No, all records are returned.
 
 If you want to count the number of instances of a value in a field, create a totals query.
 

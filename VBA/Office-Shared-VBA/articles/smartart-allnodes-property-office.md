@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArt.AllNodes Property (Office)
 
-Retrieves a  **SmartArtNodes** object containing all of the nodes within the SmartArt diagram. Read-only
+Retrieves a **SmartArtNodes** object containing all of the nodes within the SmartArt diagram. Read-only
 
 
 ## Syntax

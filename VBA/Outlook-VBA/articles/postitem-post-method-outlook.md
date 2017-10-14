@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.Post Method (Outlook)
 
-Sends (posts) the  **[PostItem](postitem-object-outlook.md)** object.
+Sends (posts) the **[PostItem](postitem-object-outlook.md)** object.
 
 
 ## Syntax

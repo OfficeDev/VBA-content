@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Script Property (Word)
 
-Returns a  **Script** object, which represents a block of script or code associated with an image on the specified Web page.
+Returns a **Script** object, which represents a block of script or code associated with an image on the specified Web page.
 
 
 ## Syntax

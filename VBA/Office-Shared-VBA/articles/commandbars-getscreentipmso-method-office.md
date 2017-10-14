@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetScreentipMso Method (Office)
 
-Returns the screentip of the control identified by the  **idMso** parameter as a String.
+Returns the screentip of the control identified by the **idMso** parameter as a String.
 
 
 ## 

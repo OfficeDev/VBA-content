@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.TimeLine Property (PowerPoint)
 
-Returns a  **[TimeLine](timeline-object-powerpoint.md)** object that represents the animation timeline for the slide. Read-only.
+Returns a **[TimeLine](timeline-object-powerpoint.md)** object that represents the animation timeline for the slide. Read-only.
 
 
 ## Syntax

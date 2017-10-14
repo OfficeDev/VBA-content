@@ -20,13 +20,13 @@ Represents a defined name for a range of cells. Names can be either built-in nam
 
  **Application, Workbook, and Worksheet Objects**
 
-The  **Name** object is a member of the **[Names](names-object-excel.md)** collection for the **[Application](application-object-excel.md)**, **[Workbook](workbook-object-excel.md)**, and **[Worksheet](worksheet-object-excel.md)** objects. Use **[Names](workbook-names-property-excel.md)** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object.
+The **Name** object is a member of the **[Names](names-object-excel.md)** collection for the **[Application](application-object-excel.md)**, **[Workbook](workbook-object-excel.md)**, and **[Worksheet](worksheet-object-excel.md)** objects. Use **[Names](workbook-names-property-excel.md)** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object.
 
 The index number indicates the position of the name within the collection. Names are placed in alphabetic order, from a to z, and are not case-sensitive.
 
  **Range Objects**
 
-Although a  **[Range](range-object-excel.md)** object can have more than one name, there's no **Names** collection for the **Range** object. Use **[Name](range-name-property-excel.md)** with a **Range** object to return the first name from the list of names (sorted alphabetically) assigned to the range. The following example sets the **[Visible](worksheet-visible-property-excel.md)** property for the first name assigned to cells A1:B1 on worksheet one.
+Although a **[Range](range-object-excel.md)** object can have more than one name, there's no **Names** collection for the **Range** object. Use **[Name](range-name-property-excel.md)** with a **Range** object to return the first name from the list of names (sorted alphabetically) assigned to the range. The following example sets the **[Visible](worksheet-visible-property-excel.md)** property for the first name assigned to cells A1:B1 on worksheet one.
 
 
 ## Example
@@ -47,7 +47,7 @@ The following example deletes the name "mySortRange" from the active workbook.
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
-Use the  **Name** property to return or set the text of the name itself. The following example changes the name of the first **Name** object in the active workbook.
+Use the **Name** property to return or set the text of the name itself. The following example changes the name of the first **Name** object in the active workbook.
 
 
 
@@ -56,7 +56,7 @@ Use the  **Name** property to return or set the text of the name itself. The fol
 Names(1).Name = "stock_values"
 ```
 
-The following example sets the  **Visible** property for the first name assigned to cells A1:B1 on worksheet one.
+The following example sets the **Visible** property for the first name assigned to cells A1:B1 on worksheet one.
 
 
 

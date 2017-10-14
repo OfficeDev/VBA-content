@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ControlFormat Property (Excel)
 
-Returns a  **[ControlFormat](controlformat-object-excel.md)** object that contains Microsoft Excel control properties. Read-only.
+Returns a **[ControlFormat](controlformat-object-excel.md)** object that contains Microsoft Excel control properties. Read-only.
 
 
 ## Syntax

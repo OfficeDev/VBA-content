@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeControl.EnterFieldBehavior Property (Outlook)
 
-Returns or sets an  **[olEnterFieldBehavior](olenterfieldbehavior-enumeration-outlook.md)** constant that specifies the selection behavior when entering the control. Read/write.
+Returns or sets an **[olEnterFieldBehavior](olenterfieldbehavior-enumeration-outlook.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[olEnterFieldBehavior](olenterfieldbehavior-enumeration-ou
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll** .
+The default value is **olEnterFieldBehaviorSelectAll** .
 
 
 ## See also

@@ -41,8 +41,8 @@ ToolbarSet
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the  **AddAtID** method returns an error.
+The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the **AddAtID** method returns an error.
 
-Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** . Not all collections include an object for every possible ID.
+Valid IDs are declared by the Visio type library in member **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** . Not all collections include an object for every possible ID.
 
 

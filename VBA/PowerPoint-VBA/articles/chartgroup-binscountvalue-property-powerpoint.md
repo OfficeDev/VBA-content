@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartGroup.BinsCountValue Property (PowerPoint)
 
-Specifies the number of bins in the histogram chart. Read/write  **Long**.
+Specifies the number of bins in the histogram chart. Read/write **Long**.
 
 
 ## Syntax

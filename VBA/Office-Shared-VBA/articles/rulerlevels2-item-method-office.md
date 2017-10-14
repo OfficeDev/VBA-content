@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # RulerLevels2.Item Method (Office)
 
-Gets a member of the  **RulerLevels2** collection.
+Gets a member of the **RulerLevels2** collection.
 
 
 ## Syntax

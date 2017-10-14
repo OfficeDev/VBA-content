@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Data1 Property (Visio)
 
-Gets or sets the value of the  **Data1** field for a **Shape** object. Read/write.
+Gets or sets the value of the **Data1** field for a **Shape** object. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-Use the  **Data1** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data1** property is equivalent to entering information in the **Data 1** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the [Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
+Use the **Data1** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data1** property is equivalent to entering information in the **Data 1** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the [Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to set a shape's  **Data1** , **Data2** , and **Data3** properties. It prints the values of these properties in the **Immediate** window. You can also verify that these values have been set by opening the **Special** dialog box.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to set a shape's **Data1** , **Data2** , and **Data3** properties. It prints the values of these properties in the **Immediate** window. You can also verify that these values have been set by opening the **Special** dialog box.
 
 
 ```vb

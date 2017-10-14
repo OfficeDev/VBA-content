@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.PageIndex Property (Access)
 
-You can use the  **PageIndex** property to specify or determine the position of a **[Page](page-object-access.md)** object within a **[Pages](pages-object-access.md)** collection. The **PageIndex** property specifies the order in which the pages on a tab control appear. Read/write **Integer**.
+You can use the **PageIndex** property to specify or determine the position of a **[Page](page-object-access.md)** object within a **[Pages](pages-object-access.md)** collection. The **PageIndex** property specifies the order in which the pages on a tab control appear. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **PageIndex** property to specify or determine the position of 
 
 ## Remarks
 
-The  **PageIndex** property setting is an **Integer** value between 0 and the **Pages** collection **Count** property setting minus 1.
+The **PageIndex** property setting is an **Integer** value between 0 and the **Pages** collection **Count** property setting minus 1.
 
-The  **PageIndex** property can be set in any view.
+The **PageIndex** property can be set in any view.
 
-Changing the value of the  **PageIndex** property changes the location of a **Page** object in the **Pages** collection and visually changes the order of pages on a tab control.
+Changing the value of the **PageIndex** property changes the location of a **Page** object in the **Pages** collection and visually changes the order of pages on a tab control.
 
 
 ## Example

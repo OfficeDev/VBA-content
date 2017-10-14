@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebOptions.Encoding Property (Publisher)
 
-Returns an  **MsoEncoding** constant that specifies the encoding of the Web publication. Read/write.
+Returns an **MsoEncoding** constant that specifies the encoding of the Web publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **Encoding**
 
- _expression_A variable that represents an  **WebOptions** object.
+ _expression_A variable that represents an **WebOptions** object.
 
 
 ### Return Value
@@ -30,16 +30,16 @@ MsoEncoding
 
 ## Remarks
 
-If the  **[AlwaysSaveInDefaultEncoding](weboptions-alwayssaveindefaultencoding-property-publisher.md)** property is set to **True** on a given **WebOptions** object, any subsequent attempts to set the **Encoding** property on that object will be ignored.
+If the **[AlwaysSaveInDefaultEncoding](weboptions-alwayssaveindefaultencoding-property-publisher.md)** property is set to **True** on a given **WebOptions** object, any subsequent attempts to set the **Encoding** property on that object will be ignored.
 
-Attempting to set the  **Encoding** property to an **MsoEncoding** constant that is not available on the client computer results in a run-time error.
+Attempting to set the **Encoding** property to an **MsoEncoding** constant that is not available on the client computer results in a run-time error.
 
-The  **Encoding** property value can be one of the ** [MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **Encoding** property value can be one of the ** [MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-The following example tests whether the Web publication is currently set to be saved using default encoding. If so, the  **AlwaysSaveInDefaultEncoding** property is set to **False**, and the  **Encoding** property is used to set the encoding to Unicode (UTF-8).
+The following example tests whether the Web publication is currently set to be saved using default encoding. If so, the **AlwaysSaveInDefaultEncoding** property is set to **False**, and the **Encoding** property is used to set the encoding to Unicode (UTF-8).
 
 
 ```vb

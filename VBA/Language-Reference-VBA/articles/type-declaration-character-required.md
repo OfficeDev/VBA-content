@@ -34,7 +34,7 @@ MyStr = "Because it was explicitly declared, the $ is optional."
 
     Either make the declaration explicit, or add the type-declaration character to later references.
     
-     **Note**  If an explicit variable declaration contains a type-declaration character, inclusion of the character is optional in later references. For example:
+    **Note**  If an explicit variable declaration contains a type-declaration character, inclusion of the character is optional in later references. For example:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

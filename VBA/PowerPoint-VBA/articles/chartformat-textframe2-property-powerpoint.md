@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.TextFrame2 Property (PowerPoint)
 
-Returns the text formatting for the specified chart element. Read-only  **[TextFrame2](textframe2-object-powerpoint.md)**.
+Returns the text formatting for the specified chart element. Read-only **[TextFrame2](textframe2-object-powerpoint.md)**.
 
 
 ## Syntax

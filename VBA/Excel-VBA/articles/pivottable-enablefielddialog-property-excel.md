@@ -30,7 +30,7 @@ Setting this property for a PivotTable report sets it for all fields in that rep
 
 ## Example
 
-This example disables the  **PivotTable Field** dialog box for the **Year** field.
+This example disables the **PivotTable Field** dialog box for the **Year** field.
 
 
 ```vb

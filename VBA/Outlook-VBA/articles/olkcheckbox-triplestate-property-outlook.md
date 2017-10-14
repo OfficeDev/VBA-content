@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkCheckBox.TripleState Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a user can specify in the user interface the **Null** state for the control. Read/write.
+Returns or sets a **Boolean** that specifies whether a user can specify in the user interface the **Null** state for the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a user can specify in the 
 
 ## Remarks
 
-If this property is  **True** , the check box clicks through the three states. If this property is **False** , the check box supports only the **True** and **False** states. The default value is **False** .
+If this property is **True** , the check box clicks through the three states. If this property is **False** , the check box supports only the **True** and **False** states. The default value is **False** .
 
 
 ## See also

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Tag Object (Publisher)
 
-Represents a tag or a custom property that you can create for a shape, shape range, page, or publication. Each  **Tag** object contains the name of a custom property and a value for that property. **Tag** objects are members of the **[Tags](tags-object-publisher.md)** collection. Create a tag when you want to be able to selectively work with specific members of a collection, based on an attribute that isn't already represented by a built-in property.
+Represents a tag or a custom property that you can create for a shape, shape range, page, or publication. Each **Tag** object contains the name of a custom property and a value for that property. **Tag** objects are members of the **[Tags](tags-object-publisher.md)** collection. Create a tag when you want to be able to selectively work with specific members of a collection, based on an attribute that isn't already represented by a built-in property.
  
 
 
 ## Example
 
-Use the  **[Item](tags-item-method-publisher.md)** method of the **[Tags](tags-object-publisher.md)** collection to return a **Tag** object. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
+Use the **[Item](tags-item-method-publisher.md)** method of the **[Tags](tags-object-publisher.md)** collection to return a **Tag** object. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
  
 
  
@@ -39,7 +39,7 @@ Sub FormatTaggedShapes()
 End Sub
 ```
 
-Use the  **[Add](tags-add-method-publisher.md)** method to add a Tag object. This example adds a tag to all oval shapes in the active publication.
+Use the **[Add](tags-add-method-publisher.md)** method to add a Tag object. This example adds a tag to all oval shapes in the active publication.
  
 
  

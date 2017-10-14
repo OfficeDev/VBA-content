@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OfficeTheme.ThemeEffectScheme Property (Office)
 
-Gets a  **ThemeEffectScheme** object that represents the effects scheme of a Microsoft Office theme. Read-only.
+Gets a **ThemeEffectScheme** object that represents the effects scheme of a Microsoft Office theme. Read-only.
 
 
 ## Syntax

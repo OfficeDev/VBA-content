@@ -15,29 +15,29 @@ The Microsoft Script Editor allows you to add Microsoft Visual Basic Scripting E
 
  **To run in developer mode**
 
-If you can see the  **Developer** tab, you are running in developer mode. Otherwise, see [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md) to run in developer mode.
+If you can see the **Developer** tab, you are running in developer mode. Otherwise, see [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md) to run in developer mode.
 
  **To open the Script Editor**
 
 1. Open an item of the type to which you want to add code.
     
-2. On the  **Developer** tab, in the **Form** group, click **Design This Form**.
+2. On the **Developer** tab, in the **Form** group, click **Design This Form**.
     
-3. In the  **Form** group, click **View Code**.
+3. In the **Form** group, click **View Code**.
     
 The Script Editor makes it easy to insert the template for an item event handler.
  **To insert a blank item event handler**
 
-1. On the  **Script** menu, click **Event Handler**.
+1. On the **Script** menu, click **Event Handler**.
     
-2. Select the event you want to respond to, and then click  **Add**.
+2. Select the event you want to respond to, and then click **Add**.
     
 The Script Editor can move the insertion point to a specific line of code. This makes it easy to debug the script when Microsoft Outlook reports an error at a specific location.
  **To move to a specific line**
 
-1. On the  **Edit** menu, click **Go To**.
+1. On the **Edit** menu, click **Go To**.
     
-2. In the  **Line Number** box, type in the number of the line of code to which you want to go. Click **OK**.
+2. In the **Line Number** box, type in the number of the line of code to which you want to go. Click **OK**.
     
 Learn about  [the Outlook object browser](about-the-outlook-object-browser.md).
 

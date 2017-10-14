@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Type Property (Word)
 
-Returns the style type. Read-only  **[WdStyleType](wdstyletype-enumeration-word.md)** .
+Returns the style type. Read-only **[WdStyleType](wdstyletype-enumeration-word.md)** .
 
 
 ## Syntax

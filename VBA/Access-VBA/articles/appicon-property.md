@@ -23,24 +23,24 @@ ms.date: 06/08/2017
 [Example](#sectionSection2)
 
 
-You can use the  **AppIcon** property to specify the name of the bitmap (.bmp) or icon (.ico) file that contains the application's icon. For example, you can use the **AppIcon** property to specify a .bmp file that contains a picture of an automobile to represent an automotive parts application.
+You can use the **AppIcon** property to specify the name of the bitmap (.bmp) or icon (.ico) file that contains the application's icon. For example, you can use the **AppIcon** property to specify a .bmp file that contains a picture of an automobile to represent an automotive parts application.
 
 ## Setting
 <a name="sectionSection0"> </a>
 
-The  **AppIcon** property is a string expression that's a valid bitmap or icon file name (/including the path).
+The **AppIcon** property is a string expression that's a valid bitmap or icon file name (/including the path).
 
-The easiest way to set this property is by using the  **Application Icon** option in the **Access Options** dialog box, available by clicking the click the **Microsoft Office Button**
+The easiest way to set this property is by using the **Application Icon** option in the **Access Options** dialog box, available by clicking the click the **Microsoft Office Button**
 ![File menu button](/images/O12FileMenuButton_ZA10077102.gif) and then clicking the **Current Database** category. You can also set this property by using a macro or Visual Basic .
 
-To set the  **AppIcon** property by using a macro or Visual Basic, you must first either set the property in the **Access Options** dialog box once or create the property in the following ways:
+To set the **AppIcon** property by using a macro or Visual Basic, you must first either set the property in the **Access Options** dialog box once or create the property in the following ways:
 
 
-- In a Microsoft Access database , you can add it by using the  **CreateProperty** method and append it to the **Properties** collection of the **Database** object.
+- In a Microsoft Access database , you can add it by using the **CreateProperty** method and append it to the **Properties** collection of the **Database** object.
     
-- In a Microsoft Access project (.adp), you can add it to the  **AccessObjectProperties** collection of the **CurrentProject** object by using the **Add** method.
+- In a Microsoft Access project (.adp), you can add it to the **AccessObjectProperties** collection of the **CurrentProject** object by using the **Add** method.
     
-You must also use the  **RefreshTitleBar** method to make any changes visible immediately.
+You must also use the **RefreshTitleBar** method to make any changes visible immediately.
 
 
 ## Remarks
@@ -48,15 +48,15 @@ You must also use the  **RefreshTitleBar** method to make any changes visible im
 
 If you are distributing your application, it's recommended that the .bmp or .ico file containing the icon reside in the same directory as your Microsoft Access application.
 
-If the  **AppIcon** property isn't set or is invalid, the Microsoft Access icon is displayed.
+If the **AppIcon** property isn't set or is invalid, the Microsoft Access icon is displayed.
 
-This property setting takes effect immediately after it's set in code (as long as the code includes the  **RefreshTitleBar** method) or the **Access Options** dialog box is closed.
+This property setting takes effect immediately after it's set in code (as long as the code includes the **RefreshTitleBar** method) or the **Access Options** dialog box is closed.
 
 
 ## Example
 <a name="sectionSection2"> </a>
 
-The following example shows how to change the  **AppIcon** and **AppTitle** properties in a Microsoft Access database. If the properties haven't already been set or created, you must create them and append them to the **Properties** collection by using the **CreateProperty** method.
+The following example shows how to change the **AppIcon** and **AppTitle** properties in a Microsoft Access database. If the properties haven't already been set or created, you must create them and append them to the **Properties** collection by using the **CreateProperty** method.
 
 
 ```vb

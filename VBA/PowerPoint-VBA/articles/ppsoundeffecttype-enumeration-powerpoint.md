@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSoundEffectType Enumeration (PowerPoint)
 
-Constants that specify the type of sound effect, passed to and returned by the  **Type** property of the **SoundEffect** object.
+Constants that specify the type of sound effect, passed to and returned by the **Type** property of the **SoundEffect** object.
 
 
 

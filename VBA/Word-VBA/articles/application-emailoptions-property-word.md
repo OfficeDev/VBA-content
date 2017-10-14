@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EmailOptions Property (Word)
 
-Returns an  **[EmailOptions](emailoptions-object-word.md)** object that represents the global preferences for e-mail authoring. Read-only.
+Returns an **[EmailOptions](emailoptions-object-word.md)** object that represents the global preferences for e-mail authoring. Read-only.
 
 
 ## Syntax

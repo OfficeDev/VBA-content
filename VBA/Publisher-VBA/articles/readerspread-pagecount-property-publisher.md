@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ReaderSpread.PageCount Property (Publisher)
 
-Returns a  **Long** indicating the number of pages in the specified reader spread. Read-only.
+Returns a **Long** indicating the number of pages in the specified reader spread. Read-only.
 
 
 ## Syntax
 
  _expression_. **PageCount**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_A variable that represents a **ReaderSpread** object.
 
 
 ### Return Value

@@ -30,7 +30,7 @@ Returns the vertical or horizontal position of a point on a chart item, in point
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _loc_|Required| **[XlPieSliceLocation](xlpieslicelocation-enumeration-word.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional| **[XlPieSliceIndex](xlpiesliceindex-enumeration-word.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint** .|
+| _Index_|Optional| **[XlPieSliceIndex](xlpiesliceindex-enumeration-word.md)**|Specifies which pie slice position coordinate to return. The default value is **xlOuterCenterPoint** .|
 
 ### Return Value
 

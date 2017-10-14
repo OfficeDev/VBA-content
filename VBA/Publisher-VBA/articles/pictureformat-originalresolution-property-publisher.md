@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.OriginalResolution Property (Publisher)
 
-Returns a  **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
+Returns a **Long** that represents, in dots per inch (dpi), the resolution at which the linked picture was originally scanned. Read-only.
 
 
 ## Syntax
 
  _expression_. **OriginalResolution**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -32,9 +32,9 @@ Long
 
 This property only applies to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+To determine whether a shape represents a linked picture, use either the **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
-Use the  **[EffectiveResolution](pictureformat-effectiveresolution-property-publisher.md)** property to determine the resolution at which the picture or OLE object prints in the specified document.
+Use the **[EffectiveResolution](pictureformat-effectiveresolution-property-publisher.md)** property to determine the resolution at which the picture or OLE object prints in the specified document.
 
 
 ## Example

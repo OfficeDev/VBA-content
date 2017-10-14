@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # TextColumn Property Example
 
-The following example uses the  **TextColumn** property to identify the column of data in a **ListBox** that supplies data for its **Text** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the **TextColumn** will be displayed in the **Label**.
+The following example uses the **TextColumn** property to identify the column of data in a **ListBox** that supplies data for its **Text** property. This example sets the third column of the **ListBox** as the text column. As you select an entry from the **ListBox**, the value from the **TextColumn** will be displayed in the **Label**.
 
-This example also demonstrates how to load a multicolumn  **ListBox** using the **AddItem** method and the **List** property.
+This example also demonstrates how to load a multicolumn **ListBox** using the **AddItem** method and the **List** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
 
 

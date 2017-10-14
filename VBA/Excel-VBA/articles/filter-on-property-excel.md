@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
+The following example sets a variable to the value of the **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```vb

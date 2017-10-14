@@ -17,7 +17,7 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
  _expression_. **PageColor**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,11 +27,11 @@ Gets or sets the color of the page in the current drawing that is open in Micros
 
 ## Remarks
 
-This property returns a value of data type  **OLE_COLOR** that represents the color of the page in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
+This property returns a value of data type **OLE_COLOR** that represents the color of the page in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
 
-Valid hexadecimal values for an  **OLE_COLOR** data type in Visio Viewer are of the form _&;Hbbggrr_, where  _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
+Valid hexadecimal values for an **OLE_COLOR** data type in Visio Viewer are of the form _&;Hbbggrr_, where  _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
 
-The default value of the  **PageColor** property is white (16777215).
+The default value of the **PageColor** property is white (16777215).
 
 
 ## Example

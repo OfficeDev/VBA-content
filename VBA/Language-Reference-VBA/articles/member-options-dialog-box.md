@@ -26,11 +26,11 @@ Displays the name of the item selected in the Classes or the Members of list.
 
  **Description**
 
-Allows you to specify a string that shows up in the Details pane of the  **Object** **Browser**.
+Allows you to specify a string that shows up in the Details pane of the **Object** **Browser**.
 
  **Help File**
 
-Displays the Help file associated with the item listed in the Member Name box. This is set in the Help File Name box in the  **General** tab of the **Project** **Properties** dialog box.
+Displays the Help file associated with the item listed in the Member Name box. This is set in the Help File Name box in the **General** tab of the **Project** **Properties** dialog box.
 
  **Help Context ID**
 

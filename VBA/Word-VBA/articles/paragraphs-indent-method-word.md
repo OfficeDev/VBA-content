@@ -25,7 +25,7 @@ Indents one or more paragraphs by one level.
 
 ## Remarks
 
-This method is equivalent to clicking the  **Increase Indent** button on the **Formatting** toolbar.
+This method is equivalent to clicking the **Increase Indent** button on the **Formatting** toolbar.
 
 
 ## Example

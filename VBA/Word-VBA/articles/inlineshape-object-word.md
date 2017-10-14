@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InlineShape Object (Word)
 
-Represents an object in the text layer of a document. An inline shape can only be a picture, an OLE object, or an ActiveX control. The  **InlineShape** object is a member of the **[InlineShapes](inlineshapes-object-word.md)** collection. The **InlineShapes** collection contains all the shapes that appear inline in a document, range, or selection.
+Represents an object in the text layer of a document. An inline shape can only be a picture, an OLE object, or an ActiveX control. The **InlineShape** object is a member of the **[InlineShapes](inlineshapes-object-word.md)** collection. The **InlineShapes** collection contains all the shapes that appear inline in a document, range, or selection.
 
 
 ## Remarks
 
  **InlineShape** objects are treated like characters and are positioned as characters within a line of text.
 
-Use  **InlineShapes** (Index), where Index is the index number, to return a single **InlineShape** object. Inline shapes don't have names. The following example activates the first inline shape in the active document.
+Use **InlineShapes** (Index), where Index is the index number, to return a single **InlineShape** object. Inline shapes don't have names. The following example activates the first inline shape in the active document.
 
 
 

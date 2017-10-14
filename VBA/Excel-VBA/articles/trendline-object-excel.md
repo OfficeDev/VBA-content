@@ -18,12 +18,12 @@ Represents a trendline in a chart.
 
 ## Remarks
 
-A trendline shows the trend, or direction, of data in a series. The  **Trendline** object is a member of the **[Trendlines](trendlines-object-excel.md)** collection. The **Trendlines** collection contains all the **Trendline** objects for a single series.
+A trendline shows the trend, or direction, of data in a series. The **Trendline** object is a member of the **[Trendlines](trendlines-object-excel.md)** collection. The **Trendlines** collection contains all the **Trendline** objects for a single series.
 
 
 ## Example
 
-Use  **Trendlines** ( _index_), where  _index_ is the trendline index number, to return a single **Trendline** object.
+Use **Trendlines** ( _index_), where  _index_ is the trendline index number, to return a single **Trendline** object.
 
 The index number denotes the order in which the trendlines were added to the series.  `Trendlines(1)` is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
 

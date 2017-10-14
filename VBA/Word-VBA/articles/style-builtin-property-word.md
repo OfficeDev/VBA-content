@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can specify built-in styles across all languages by using the  **WdBuiltinStyle** constants or within a language by using the style name for the language version of Word. For example, if you specify U.S. English in your Microsoft Office language settings, the following statements are equivalent:
+You can specify built-in styles across all languages by using the **WdBuiltinStyle** constants or within a language by using the style name for the language version of Word. For example, if you specify U.S. English in your Microsoft Office language settings, the following statements are equivalent:
 
 
 ```vb

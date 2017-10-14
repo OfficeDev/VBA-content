@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.ShowWeekNumbers Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether week number labels are displayed in the timeline scale for the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether week number labels are displayed in the timeline scale for the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether week number labels a
 
 ## Remarks
 
-If this property is set to  **True** , the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](timelineview-timelineviewmode-property-outlook.md)** property.
+If this property is set to **True** , the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](timelineview-timelineviewmode-property-outlook.md)** property.
 
 
 
@@ -36,7 +36,7 @@ If this property is set to  **True** , the location in which week number labels 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssue.ID Property (Visio)
 
-Gets the identifier of the  **[ValidationIssue](validationissue-object-visio.md)** object assigned by Microsoft Visio. Read-only.
+Gets the identifier of the **[ValidationIssue](validationissue-object-visio.md)** object assigned by Microsoft Visio. Read-only.
 
 
 ## Syntax

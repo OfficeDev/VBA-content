@@ -19,6 +19,6 @@ The reference couldn't be added. This error has the following cause and solution
     
     Try registering both Visual Basic for Applications and the [host application](vbe-glossary.md) for the given language. The object library then becomes available in the **References** dialog box.
     
-     **Note**  When Visual Basic is the host application, it isn't possible to change a project's language setting. Any object libraries used must be compatible with the English/U.S. setting.
+    **Note**  When Visual Basic is the host application, it isn't possible to change a project's language setting. Any object libraries used must be compatible with the English/U.S. setting.
 
 

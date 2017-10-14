@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendKey.MarkerBackgroundColor Property (PowerPoint)
 
-Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
+Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write **Long**.
 
 
 ## Syntax

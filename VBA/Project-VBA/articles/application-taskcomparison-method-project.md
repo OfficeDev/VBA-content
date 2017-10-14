@@ -30,12 +30,12 @@ In a project comparison report, shows the Gantt Chart view in all three project 
 
 ## Remarks
 
-Use the  **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
+Use the **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
 
 
 
-After you run a  **Compare Projects** command, Project displays the **COMPARE PROJECTS** ribbon. The **TaskComparison** method is equivalent to the **Task Comparison** command on the **COMPARE PROJECTS** ribbon.
+After you run a **Compare Projects** command, Project displays the **COMPARE PROJECTS** ribbon. The **TaskComparison** method is equivalent to the **Task Comparison** command on the **COMPARE PROJECTS** ribbon.
 
-To compare resources in a comparison report, use the  **[ResourceComparison](application-resourcecomparison-method-project.md)** method.
+To compare resources in a comparison report, use the **[ResourceComparison](application-resourcecomparison-method-project.md)** method.
 
 

@@ -25,31 +25,31 @@ Returns the full path to the attached file that is in a temporary files folder. 
 
 ### Return Value
 
-Returns a  **String** that represents the full path to the temporary attachment file.
+Returns a **String** that represents the full path to the temporary attachment file.
 
 
 ## Remarks
 
-The  **GetTemporaryFilePath** method is only valid for those attachments whose **[Type](attachment-type-property-outlook.md)** property is **OlAttachmentType.olByValue** . That means that the attachment is a copy and that the copy can be accessed even if the original file is removed. For other attachment types, the **GetTemporaryFilePath** method returns an error.
+The **GetTemporaryFilePath** method is only valid for those attachments whose **[Type](attachment-type-property-outlook.md)** property is **OlAttachmentType.olByValue** . That means that the attachment is a copy and that the copy can be accessed even if the original file is removed. For other attachment types, the **GetTemporaryFilePath** method returns an error.
 
  **GetTemporaryFilePath** also returns an error when accessing an **[Attachment](attachment-object-outlook.md)** object in an **[Attachments](attachments-object-outlook.md)** collection or in the **[AttachmentSelection](attachmentselection-object-outlook.md)** object. Use **GetTemporaryFilePath** only in attachment event callbacks listed below for various Microsoft Outlook items:
 
 
--  **AttachmentAdd**
+- **AttachmentAdd**
     
--  **AttachmentRead**
+- **AttachmentRead**
     
--  **AttachmentRemove**
+- **AttachmentRemove**
     
--  **BeforeAttachmentAdd**
+- **BeforeAttachmentAdd**
     
--  **BeforeAttachmentPreview**
+- **BeforeAttachmentPreview**
     
--  **BeforeAttachmentRead**
+- **BeforeAttachmentRead**
     
--  **BeforeAttachmentSave**
+- **BeforeAttachmentSave**
     
--  **BeforeAttachmentWriteToTempFile**
+- **BeforeAttachmentWriteToTempFile**
     
 
 

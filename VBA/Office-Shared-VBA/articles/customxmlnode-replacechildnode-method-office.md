@@ -31,8 +31,8 @@ Removes the specified child node (and its subtree) from the main tree, and repla
 |:-----|:-----|:-----|:-----|
 | _OldNode_|Required|**CustomXMLNode**|Represents the child node to be replaced.|
 | _Name_|Optional|**String**|Represents the base name of the element to be added.|
-| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
-| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of node to add. If the parameter is not specified, it is assumed to be of type  **msoCustomXMLNodeElement**.|
+| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
+| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of node to add. If the parameter is not specified, it is assumed to be of type **msoCustomXMLNodeElement**.|
 | _NodeValue_|Optional|**String**|Used to set the value of the node to be added for those nodes that allow text. If the node doesn't allow text, the parameter is ignored.|
 
 ## Remarks

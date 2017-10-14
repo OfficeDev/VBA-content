@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Parameter Property (Office)
 
-Gets or sets a string that an application can use to execute a command from a  **CommandBarComboBox** control. Read/write.
+Gets or sets a string that an application can use to execute a command from a **CommandBarComboBox** control. Read/write.
 
 
 ## 

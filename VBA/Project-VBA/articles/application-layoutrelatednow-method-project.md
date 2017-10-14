@@ -30,6 +30,6 @@ Positions all task boxes in the active Network Diagram that are successors or su
 
 ## Remarks
 
-The  **LayoutRelatedNow** method is only available when a Network Diagram view is active.
+The **LayoutRelatedNow** method is only available when a Network Diagram view is active.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reminders.Item Method (Outlook)
 
-Returns a  **[Reminder](reminder-object-outlook.md)** object from the collection.
+Returns a **[Reminder](reminder-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **[Reminder](reminder-object-outlook.md)** object from the collection
 
 ### Return Value
 
-A  **Reminder** object that represents the specified object.
+A **Reminder** object that represents the specified object.
 
 
 ## See also

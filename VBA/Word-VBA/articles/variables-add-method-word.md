@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variables.Add Method (Word)
 
-Returns a  **Variable** object that represents a variable added to a document.
+Returns a **Variable** object that represents a variable added to a document.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Variable
 
 ## Remarks
 
-Document variables are invisible to the user unless a DOCVARIABLE field is inserted with the appropriate variable name. If you try to add a variable with a name that already exists in the  **Variables** collection, an error occurs. To avoid this error, you can enumerate the collection before adding a new variable to it.
+Document variables are invisible to the user unless a DOCVARIABLE field is inserted with the appropriate variable name. If you try to add a variable with a name that already exists in the **Variables** collection, an error occurs. To avoid this error, you can enumerate the collection before adding a new variable to it.
 
 
 ## Example
@@ -72,7 +72,7 @@ Else
 End If
 ```
 
-This example stores the user name (from the  **Options** dialog box) in the template attached to the active document.
+This example stores the user name (from the **Options** dialog box) in the template attached to the active document.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.TabPosition Property (Word)
 
-Returns or sets the tab position for the specified  **ListLevel** object. Read/write **Single** .
+Returns or sets the tab position for the specified **ListLevel** object. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the tab position for the specified  **ListLevel** object. Read/w
 
 ## Remarks
 
-Because the  **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined** , unless you set the property to a value.
+Because the **ListLevel** object does not have a default tab setting, the **TabPosition** property always returns a value of 999999 or **wdUndefined** , unless you set the property to a value.
 
 
 ## Example

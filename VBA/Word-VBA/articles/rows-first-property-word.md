@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.First Property (Word)
 
-Returns a  **[Row](row-object-word.md)** object that represents the first item in the **Rows** collection.
+Returns a **[Row](row-object-word.md)** object that represents the first item in the **Rows** collection.
 
 
 ## Syntax

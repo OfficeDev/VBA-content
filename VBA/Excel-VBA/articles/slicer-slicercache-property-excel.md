@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.SlicerCache Property (Excel)
 
-Returns the  **[SlicerCache](slicercache-object-excel.md)** object associated with the slicer. Read-only.
+Returns the **[SlicerCache](slicercache-object-excel.md)** object associated with the slicer. Read-only.
 
 
 ## Syntax

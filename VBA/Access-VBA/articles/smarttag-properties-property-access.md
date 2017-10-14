@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTag.Properties Property (Access)
 
-Returns a  **SmartTagProperties** collection that represents the collection of properties for a particular smart tag. Read-only.
+Returns a **SmartTagProperties** collection that represents the collection of properties for a particular smart tag. Read-only.
 
 
 ## Syntax

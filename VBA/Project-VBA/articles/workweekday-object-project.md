@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # WorkWeekDay Object (Project)
 
-Represents a single calendar day in a work week. The  **WorkWeekDay** object is a member of the **[WorkWeekDays](workweekdays-object-project.md)** collection.
+Represents a single calendar day in a work week. The **WorkWeekDay** object is a member of the **[WorkWeekDays](workweekdays-object-project.md)** collection.
  
 
 
 ## Remarks
 
-Use the  **[Item](workweekdays-item-property-project.md)** property of the **WorkWeekDays** collection to return a single **WorkWeekDay** object.
+Use the **[Item](workweekdays-item-property-project.md)** property of the **WorkWeekDays** collection to return a single **WorkWeekDay** object.
  
 
  

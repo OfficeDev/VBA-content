@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileThousandsSeparator Property (Excel)
 
-Returns or sets the thousands separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system thousands separator character. Read/Write  **String**
+Returns or sets the thousands separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system thousands separator character. Read/Write **String**
 
 
 ## Syntax

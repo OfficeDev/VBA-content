@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.Type Property (Office)
 
-Gets the type of error generated from the  **CustomXMLValidationError** object. Read-only.
+Gets the type of error generated from the **CustomXMLValidationError** object. Read-only.
 
 
 ## Syntax

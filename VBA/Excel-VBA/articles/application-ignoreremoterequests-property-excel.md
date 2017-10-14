@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets the  **IgnoreRemoteRequests** property to **True** so that remote DDE requests are ignored.
+This example sets the **IgnoreRemoteRequests** property to **True** so that remote DDE requests are ignored.
 
 
 ```vb

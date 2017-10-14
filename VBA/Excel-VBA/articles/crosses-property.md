@@ -18,7 +18,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 
 |XlAxisCrosses can be one of these XlAxisCrosses constants.|
-| **xlAxisCrossesCustom**. The  **[CrossesAt](crossesat-property.md)** property specifies the axis crossing point.|
+| **xlAxisCrossesCustom**. The **[CrossesAt](crossesat-property.md)** property specifies the axis crossing point.|
 | **xlAxisCrossesMinimum**. The axis crosses at the minimum value.|
 | **xlAxisCrossesAutomatic**. Microsoft Graph sets the axis crossing point.|
 | **xlAxisCrossesMaximum**. The axis crosses at the maximum value.|
@@ -31,9 +31,9 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 This property isn't available for radar charts. For 3-D charts, this property indicates where the plane defined by the category axis crosses the value axis.
 
-This property can be used for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
+This property can be used for both category and value axes. On the category axis, **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
 
-Note that  **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
+Note that **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
 
 
 ## Example

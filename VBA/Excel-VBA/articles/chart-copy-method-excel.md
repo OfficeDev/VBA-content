@@ -36,7 +36,7 @@ Copies the sheet to another location in the workbook.
 
 If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new workbook that contains the copied sheet.
 
-The  **Copy** method is not supported for chart objects.
+The **Copy** method is not supported for chart objects.
 
 
 ## Example

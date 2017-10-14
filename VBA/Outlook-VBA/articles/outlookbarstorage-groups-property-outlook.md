@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarStorage.Groups Property (Outlook)
 
-Returns an  **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object representing the set of groups in the **Shortcuts** pane. Read-only.
+Returns an **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object representing the set of groups in the **Shortcuts** pane. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object re
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the number of groups in the  **Shortcuts** pane.
+The following Microsoft Visual Basic for Applications (VBA) example displays the number of groups in the **Shortcuts** pane.
 
 
 ```vb

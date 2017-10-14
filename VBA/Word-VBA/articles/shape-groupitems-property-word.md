@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.GroupItems Property (Word)
 
-Returns a  **[GroupShapes](groupshapes-object-word.md)** object that represents the individual shapes in the specified group. Read-only.
+Returns a **[GroupShapes](groupshapes-object-word.md)** object that represents the individual shapes in the specified group. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[GroupShapes](groupshapes-object-word.md)** object that represents 
 
 ## Remarks
 
-This property applies to  **Shape** object that represent grouped shapes. Use the **Item** method of the **[GroupShapes](groupshapes-object-word.md)** object to return a single shape from the group.
+This property applies to **Shape** object that represent grouped shapes. Use the **Item** method of the **[GroupShapes](groupshapes-object-word.md)** object to return a single shape from the group.
 
 
 ## Example

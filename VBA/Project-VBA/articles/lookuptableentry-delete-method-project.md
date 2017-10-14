@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.Delete Method (Project)
 
-Deletes the  **LookupTableEntry** object from a **LookupTable** collection.
+Deletes the **LookupTableEntry** object from a **LookupTable** collection.
 
 
 ## Syntax

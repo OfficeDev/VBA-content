@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.OpenModule Method (Access)
 
-The  **OpenModule** method carries out the OpenModule action in Visual Basic.
+The **OpenModule** method carries out the OpenModule action in Visual Basic.
 
 
 ## Syntax
@@ -34,14 +34,14 @@ The  **OpenModule** method carries out the OpenModule action in Visual Basic.
 
 ## Remarks
 
-You can use the  **OpenModule** method to open a specified Visual Basic module at a specified procedure. This can be a Sub procedure, a Function procedure, or an event procedure.
+You can use the **OpenModule** method to open a specified Visual Basic module at a specified procedure. This can be a Sub procedure, a Function procedure, or an event procedure.
 
 You must include at least one of the two OpenModule action arguments. If you enter a value for both arguments, Microsoft Access opens the specified module at the specified procedure.
 
 
 ## Example
 
-The following example opens the Utility Functions module to the IsLoaded( )  **Function** procedure:
+The following example opens the Utility Functions module to the IsLoaded( ) **Function** procedure:
 
 
 ```vb

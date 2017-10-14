@@ -32,7 +32,7 @@ Applies data labels to a series.
 | _Type_|Optional|**[XlDataLabelsType](xldatalabelstype-enumeration-powerpoint.md)**|The type of data label to apply.|
 | _LegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default is **False**.|
 | _AutoText_|Optional|**Variant**|**True** if the object automatically generates appropriate text based on content.|
-| _HasLeaderLines_|Optional|**Variant**|For the  **[Chart](chart-object-powerpoint.md)** and **[Series](series-object-powerpoint.md)** objects, **True** if the series has leader lines.|
+| _HasLeaderLines_|Optional|**Variant**|For the **[Chart](chart-object-powerpoint.md)** and **[Series](series-object-powerpoint.md)** objects, **True** if the series has leader lines.|
 | _ShowSeriesName_|Optional|**Variant**|**True** to enable the series name for the data label; otherwise, **False**.|
 | _ShowCategoryName_|Optional|**Variant**|**True** to enable the category name for the data label; otherwise, **False**.|
 | _ShowValue_|Optional|**Variant**|**True** to enable the value for the data label; otherwise, **False**.|
@@ -42,20 +42,20 @@ Applies data labels to a series.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following **XlDataLabelsType** constants:
 
 
--  **xlDataLabelsShowBubbleSizes** ?The bubble size for the data label.
+- **xlDataLabelsShowBubbleSizes** ?The bubble size for the data label.
     
--  **xlDataLabelsShowLabelAndPercent** ?The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.
+- **xlDataLabelsShowLabelAndPercent** ?The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.
     
--  **xlDataLabelsShowPercent** ?The percentage of the total. Available only for pie charts and doughnut charts.
+- **xlDataLabelsShowPercent** ?The percentage of the total. Available only for pie charts and doughnut charts.
     
--  **xlDataLabelsShowLabel** ?The category for the point.
+- **xlDataLabelsShowLabel** ?The category for the point.
     
--  **xlDataLabelsShowNone** ?No data labels.
+- **xlDataLabelsShowNone** ?No data labels.
     
--  **xlDataLabelsShowValue** ?(Default) The value for the point (assumed if this argument is not specified).
+- **xlDataLabelsShowValue** ?(Default) The value for the point (assumed if this argument is not specified).
     
 - 
     

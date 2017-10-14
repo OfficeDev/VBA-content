@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.StopIfTrue Property (Excel)
 
-Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
+Returns or sets a **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
 ## Remarks
 
-To support backward compatibility, the default value for this property is  **True** , which is the opposite behavior of a formatting rule created in the user interface.
+To support backward compatibility, the default value for this property is **True** , which is the opposite behavior of a formatting rule created in the user interface.
 
 
 ## See also

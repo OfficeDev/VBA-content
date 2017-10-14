@@ -31,7 +31,7 @@ Updates progress information and reschedules work for tasks in a project.
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project are updated. **False** if only the selected tasks are updated. The default value is **True**.|
 | _UpdateDate_|Optional|**Variant**|The update date to use for the specified action. |
-| _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following  **[PjProjectUpdate](pjprojectupdate-enumeration-project.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
+| _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following **[PjProjectUpdate](pjprojectupdate-enumeration-project.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
 
 ### Return Value
 
@@ -40,9 +40,9 @@ Updates progress information and reschedules work for tasks in a project.
 
 ## Remarks
 
-Running the  **UpdateProject** method with no arguments displays the **Update Project** dialog box.
+Running the **UpdateProject** method with no arguments displays the **Update Project** dialog box.
 
-The  **UpdateProject** method corresponds to the **Update Project** command on the **PROJECT** tab of the ribbon.
+The **UpdateProject** method corresponds to the **Update Project** command on the **PROJECT** tab of the ribbon.
 
 
 ## Example

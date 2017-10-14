@@ -25,7 +25,7 @@ When Visual Basic is launched from the command line, any portion of the command 
 VB /cmd cmdlineargs
 ```
 
-For applications developed with Visual Basic and compiled to an .exe file,  **Command** returns any arguments that appear after the name of the application on the command line. For example:
+For applications developed with Visual Basic and compiled to an .exe file, **Command** returns any arguments that appear after the name of the application on the command line. For example:
 
 
 
@@ -37,7 +37,7 @@ To find how command line arguments can be changed in the user interface of the a
 
 ## Example
 
-This example uses the  **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
+This example uses the **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
 
 
 ```vb

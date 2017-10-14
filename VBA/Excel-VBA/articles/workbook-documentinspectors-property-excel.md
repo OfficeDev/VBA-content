@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DocumentInspectors Property (Excel)
 
-Returns a  **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e016-bb99-d27f-749ca10352f1%28Office.15%29.aspx)** collection that represents the Document Inspector modules for the specified workbook. Read-only.
+Returns a **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e016-bb99-d27f-749ca10352f1%28Office.15%29.aspx)** collection that represents the Document Inspector modules for the specified workbook. Read-only.
 
 
 ## Syntax

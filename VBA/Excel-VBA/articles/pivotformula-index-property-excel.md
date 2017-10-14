@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFormula.Index Property (Excel)
 
-Returns or sets a  **Long** value that represents the index number of the **[PivotFormula](pivotformula-object-excel.md)** object within the **[PivotFormulas](pivotformulas-object-excel.md)** collection.
+Returns or sets a **Long** value that represents the index number of the **[PivotFormula](pivotformula-object-excel.md)** object within the **[PivotFormulas](pivotformulas-object-excel.md)** collection.
 
 
 ## Syntax

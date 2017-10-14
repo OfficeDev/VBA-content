@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FirstLetterException.Delete Method (Word)
 
-Deletes the  **FirstLetterException** object.
+Deletes the **FirstLetterException** object.
 
 
 ## Syntax

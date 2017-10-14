@@ -30,7 +30,7 @@ Sets up headers for printing.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up headers for printing.|
-| _Alignment_|Optional|**Long**|The alignment of the text in the header. Can be one of the following  **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
+| _Alignment_|Optional|**Long**|The alignment of the text in the header. Can be one of the following **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
 | _Text_|Optional|**String**|The text to display in the header. The following special format codes may be included as part of the header:
 
 |**Format Code**|**Description**|
@@ -70,7 +70,7 @@ Sets up headers for printing.
 
 ## Remarks
 
-Using the  **FilePageSetupHeader** method without specifying any arguments displays the **Page Setup** dialog box with the **Header** tab selected.
+Using the **FilePageSetupHeader** method without specifying any arguments displays the **Page Setup** dialog box with the **Header** tab selected.
 
 
 ## Example

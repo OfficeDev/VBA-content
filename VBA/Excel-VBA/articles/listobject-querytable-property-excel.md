@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.QueryTable Property (Excel)
 
-Returns the  **[QueryTable](querytable-object-excel.md)** object that provides a link for the **[ListObject](listobject-object-excel.md)** object to the list server. Read-only.
+Returns the **[QueryTable](querytable-object-excel.md)** object that provides a link for the **[ListObject](listobject-object-excel.md)** object to the list server. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[QueryTable](querytable-object-excel.md)** object that provides a
 
 ## Example
 
-The following example creates a connection to a SharePoint site and publishes the  **ListObject** object named `List1` to the server. A reference to the **QueryTable** object for the list object is created and the **MaintainConnection** property of the **QueryTable** object is set to **True** so that the connection to the SharePoint site is maintained between trips to the server.
+The following example creates a connection to a SharePoint site and publishes the **ListObject** object named `List1` to the server. A reference to the **QueryTable** object for the list object is created and the **MaintainConnection** property of the **QueryTable** object is set to **True** so that the connection to the SharePoint site is maintained between trips to the server.
 
 
 ```vb

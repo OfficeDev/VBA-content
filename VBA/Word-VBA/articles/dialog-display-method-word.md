@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.Display Method (Word)
 
-Displays the specified built-in Word dialog box until either the user closes it or the specified amount of time has passed. Returns a  **Long** that indicates which button was clicked to close the dialog box.
+Displays the specified built-in Word dialog box until either the user closes it or the specified amount of time has passed. Returns a **Long** that indicates which button was clicked to close the dialog box.
 
 
 ## Syntax
@@ -38,20 +38,20 @@ Long
 
 ## Remarks
 
-The  **Display** method returns the following possible values.
+The **Display** method returns the following possible values.
 
 
 
 |**Return value**|**Description**|
 |:-----|:-----|
-|-2|The  **Close** button.|
-|-1|The  **OK** button.|
-|0 (zero)|The  **Cancel** button.|
+|-2|The **Close** button.|
+|-1|The **OK** button.|
+|0 (zero)|The **Cancel** button.|
 |> 0 (zero)|A command button: 1 is the first button, 2 is the second button, and so on.|
 
 ## Example
 
-This example displays the  **About** dialog box for approximately ten seconds.
+This example displays the **About** dialog box for approximately ten seconds.
 
 
 ```vb
@@ -61,7 +61,7 @@ Set dlgAbout = Dialogs(wdDialogHelpAbout)
 dlgAbout.Display TimeOut:=10000
 ```
 
-This example displays the  **Customize** dialog box.
+This example displays the **Customize** dialog box.
 
 
 

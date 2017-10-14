@@ -33,6 +33,6 @@ String()
 
 ## Remarks
 
-The columns returned by this property have already been deleted. As a result, you can no longer use Visio Automation properties or methods to retrieve the  **DataColumn** objects that represented the columns, nor any information about data formerly in these columns.
+The columns returned by this property have already been deleted. As a result, you can no longer use Visio Automation properties or methods to retrieve the **DataColumn** objects that represented the columns, nor any information about data formerly in these columns.
 
 

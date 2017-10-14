@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # COMAddIns Object (Office)
 
-A collection of  **COMAddIn** objects that provide information about a COM add-in registered in the Windows registry.
+A collection of **COMAddIn** objects that provide information about a COM add-in registered in the Windows registry.
 
 
 ## Example
 
-Use the  **COMAddIns** property of the **Application** object to return the **COMAddIns** collection for a Microsoft Office host application. This collection contains all of the COM add-ins that are available to a given Office host application, and the **Count** property of the **COMAddins** collection returns the number of available COM add-ins, as in the following example.
+Use the **COMAddIns** property of the **Application** object to return the **COMAddIns** collection for a Microsoft Office host application. This collection contains all of the COM add-ins that are available to a given Office host application, and the **Count** property of the **COMAddins** collection returns the number of available COM add-ins, as in the following example.
 
 
 ```
 MsgBox Application.COMAddIns.Count
 ```
 
-Use the  **Update** method of the **COMAddins** collection to refresh the list of COM add-ins from the Windows registry, as in the following example.
+Use the **Update** method of the **COMAddins** collection to refresh the list of COM add-ins from the Windows registry, as in the following example.
 
 
 
@@ -34,7 +34,7 @@ Use the  **Update** method of the **COMAddins** collection to refresh the list o
 Application.COMAddIns.Update
 ```
 
-Use  **COMAddIns.Item(index)**, where _index_ is either an ordinal value that returns the COM add-in at that position in the **COMAddIns** collection, or a **String** value that represents the ProgID of the specified COM add-in. The following example displays a COM add-in's description text and ProgID (" **msodraa9.ShapeSelect** ") in a message box.
+Use **COMAddIns.Item(index)**, where _index_ is either an ordinal value that returns the COM add-in at that position in the **COMAddIns** collection, or a **String** value that represents the ProgID of the specified COM add-in. The following example displays a COM add-in's description text and ProgID (" **msodraa9.ShapeSelect** ") in a message box.
 
 
 

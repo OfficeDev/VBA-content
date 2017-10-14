@@ -23,7 +23,7 @@ Represents a filter for a single column.
 
 ## Example
 
-Use  **[Filters](autofilter-filters-property-excel.md)** ( _index_ ), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **[On](filter-on-property-excel.md)** property of the filter for the first column in the filtered range on the Crew worksheet.
+Use **[Filters](autofilter-filters-property-excel.md)** ( _index_ ), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **[On](filter-on-property-excel.md)** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```
@@ -33,7 +33,7 @@ If w.AutoFilterMode Then
 End If
 ```
 
-Note that all the properties of the  **Filter** object are read-only. To set these properties, apply autofiltering manually or using the **[AutoFilter](range-autofilter-method-excel.md)** method of the **[Range](range-object-excel.md)** object, as shown in the following example.
+Note that all the properties of the **Filter** object are read-only. To set these properties, apply autofiltering manually or using the **[AutoFilter](range-autofilter-method-excel.md)** method of the **[Range](range-object-excel.md)** object, as shown in the following example.
 
 
 

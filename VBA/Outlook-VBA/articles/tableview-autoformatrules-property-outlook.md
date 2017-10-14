@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.AutoFormatRules Property (Outlook)
 
-Returns an  **[AutoFormatRules](autoformatrules-object-outlook.md)** object that represents the set of formatting rules applicable to the **[TableView](tableview-object-outlook.md)** object. Read-only.
+Returns an **[AutoFormatRules](autoformatrules-object-outlook.md)** object that represents the set of formatting rules applicable to the **[TableView](tableview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

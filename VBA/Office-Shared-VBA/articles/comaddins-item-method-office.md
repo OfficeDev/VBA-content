@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIns.Item Method (Office)
 
-Gets a member of the specified  **COMAddIns** collection.
+Gets a member of the specified **COMAddIns** collection.
 
 
 ## Syntax

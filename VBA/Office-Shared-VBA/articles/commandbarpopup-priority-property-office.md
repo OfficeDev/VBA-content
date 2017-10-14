@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Priority Property (Office)
 
-Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
+Gets or sets the priority of a **CommandBarPopup** control. Read/write.
 
 
 ## 

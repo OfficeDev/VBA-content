@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Address Property (Word)
 
-Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write  **String** .
+Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the address (for example, a file name or URL) of the specified h
 
 ## Remarks
 
-If there is no hyperlink associated with an object, setting the  **Address** property returns an error occurs. In this case, use the **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink. The following example shows how to do this.
+If there is no hyperlink associated with an object, setting the **Address** property returns an error occurs. In this case, use the **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink. The following example shows how to do this.
 
 
 ```vb

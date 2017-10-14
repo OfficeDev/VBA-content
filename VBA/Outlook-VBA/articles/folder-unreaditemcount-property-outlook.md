@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.UnReadItemCount Property (Outlook)
 
-Returns a  **Long** indicating the number of unread items in the folder. Read-only.
+Returns a **Long** indicating the number of unread items in the folder. Read-only.
 
 
 ## Syntax

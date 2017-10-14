@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Ungroup Method (PowerPoint)
 
-Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes. Returns the ungrouped shapes as a single  **[ShapeRange](shaperange-object-powerpoint.md)** object.
+Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes. Returns the ungrouped shapes as a single **[ShapeRange](shaperange-object-powerpoint.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ ShapeRange
 
 ## Remarks
 
-Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

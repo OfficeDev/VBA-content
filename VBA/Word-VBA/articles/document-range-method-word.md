@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Range Method (Word)
 
-Returns a  **Range** object by using the specified starting and ending character positions.
+Returns a **Range** object by using the specified starting and ending character positions.
 
 
 ## Syntax

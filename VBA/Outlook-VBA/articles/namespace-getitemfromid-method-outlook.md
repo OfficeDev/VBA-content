@@ -30,18 +30,18 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _EntryIDItem_|Required| **String**| The **[EntryID](folder-entryid-property-outlook.md)** of the item.|
-| _EntryIDStore_|Optional| **Variant**|The  **[StoreID](folder-storeid-property-outlook.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|
+| _EntryIDStore_|Optional| **Variant**|The **[StoreID](folder-storeid-property-outlook.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|
 
 ### Return Value
 
-An  **Object** value that represents the specified Outlook item.
+An **Object** value that represents the specified Outlook item.
 
 
 ## Remarks
 
 This method is used for ease of transition between MAPI and OLE/Messaging applications and Outlook.
 
-For more information about Entry IDs, see the  **[EntryID](folder-entryid-property-outlook.md)** property.
+For more information about Entry IDs, see the **[EntryID](folder-entryid-property-outlook.md)** property.
 
 
 ## See also

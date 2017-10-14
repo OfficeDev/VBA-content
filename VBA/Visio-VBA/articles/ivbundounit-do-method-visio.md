@@ -29,7 +29,7 @@ Called by the Undo Manager to tell an undo unit to perform its action.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _pMgr_|Required| **[IVBUNDOMANAGER]**|A pointer to an  **IVBUndoManager** interface.|
+| _pMgr_|Required| **[IVBUNDOMANAGER]**|A pointer to an **IVBUndoManager** interface.|
 
 ### Return Value
 
@@ -38,12 +38,12 @@ Nothing
 
 ## Remarks
 
-If you are creating an undo unit for your solution, the  **Do** method is one of the procedures that you must implement. It provides the actions that are required to undo and redo actions.
+If you are creating an undo unit for your solution, the **Do** method is one of the procedures that you must implement. It provides the actions that are required to undo and redo actions.
 
  If you are creating a single object for both undoing and redoing, the **Do** method maintains the undo/redo state and adds an undo unit to the opposite stack.
 
-If the  **Do** method is passed a **Nothing** pointer, the unit should carry out the undo action but should not place anything on the undo or redo stack.
+If the **Do** method is passed a **Nothing** pointer, the unit should carry out the undo action but should not place anything on the undo or redo stack.
 
-For more information about the  **Do** method and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN.
+For more information about the **Do** method and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN.
 
 

@@ -40,7 +40,7 @@ Variant
 
 You cannot use named arguments with this method. Arguments must be passed by position.
 
-The  **Run** method returns whatever the called macro returns. Objects passed as arguments to the macro are converted to values (by applying the **Value** property to the object). This means that you cannot pass objects to macros by using the **Run** method.
+The **Run** method returns whatever the called macro returns. Objects passed as arguments to the macro are converted to values (by applying the **Value** property to the object). This means that you cannot pass objects to macros by using the **Run** method.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspectors.Item Method (Outlook)
 
-Returns an  **[Inspector](inspector-object-outlook.md)** object from the collection.
+Returns an **[Inspector](inspector-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[Inspector](inspector-object-outlook.md)** object from the collect
 
 ### Return Value
 
-An  **Inspector** object that represents the specified object.
+An **Inspector** object that represents the specified object.
 
 
 ## See also

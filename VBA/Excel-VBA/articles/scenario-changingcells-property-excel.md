@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenario.ChangingCells Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the changing cells for a scenario. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the changing cells for a scenario. Read-only.
 
 
 ## Syntax

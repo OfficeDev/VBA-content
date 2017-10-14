@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # FillFormat.Type Property (Publisher)
 
-Returns an  **MsoFillType** constant that represents the fill format type of a shape. Read-only.
+Returns an **MsoFillType** constant that represents the fill format type of a shape. Read-only.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **MsoFillType** constants.
+The **Type** property value can be one of these **MsoFillType** constants.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.HelpContextId Property (Office)
 
-Gets or sets the Help context Id number for the Help topic attached to the  **CommandBarButton** control. Read/write.
+Gets or sets the Help context Id number for the Help topic attached to the **CommandBarButton** control. Read/write.
 
 
 ## 

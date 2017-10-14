@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example
 
-The following example sets the dimensions of an  **Image** to the size of a **TabStrip's** client area when the user clicks a **CommandButton**. This code sample uses the following properties: **Height**, **Left**, **Top**, **Width**, **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth**.
+The following example sets the dimensions of an **Image** to the size of a **TabStrip's** client area when the user clicks a **CommandButton**. This code sample uses the following properties: **Height**, **Left**, **Top**, **Width**, **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- An  **Image** named Image1.
+- An **Image** named Image1.
     
 
 

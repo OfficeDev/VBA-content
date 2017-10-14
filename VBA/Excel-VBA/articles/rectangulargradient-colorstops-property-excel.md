@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RectangularGradient.ColorStops Property (Excel)
 
-Returns the  **[ColorStops](colorstops-object-excel.md)** collection for the **RectangularGradient** object. Read-only
+Returns the **[ColorStops](colorstops-object-excel.md)** collection for the **RectangularGradient** object. Read-only
 
 
 ## Syntax

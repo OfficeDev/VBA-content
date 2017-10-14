@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.ExitMacro Property (Word)
 
-Returns or sets an exit macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write  **String** .
+Returns or sets an exit macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write **String** .
 
 
 ## Syntax

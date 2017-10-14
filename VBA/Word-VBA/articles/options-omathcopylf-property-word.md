@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.OMathCopyLF Property (Word)
 
-Returns or sets a  **Boolean** that represents how equations are represented in plain text. **True** indicates equations are represented in Linear Format. **False** indicates equations are represented in MathML. Read/write.
+Returns or sets a **Boolean** that represents how equations are represented in plain text. **True** indicates equations are represented in Linear Format. **False** indicates equations are represented in MathML. Read/write.
 
 
 ## Syntax

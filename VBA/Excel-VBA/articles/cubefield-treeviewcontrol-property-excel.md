@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.TreeviewControl Property (Excel)
 
-Returns the  **[TreeviewControl](treeviewcontrol-object-excel.md)** object of the **[CubeField](cubefield-object-excel.md)** object, representing the cube manipulation control of an OLAP-based PivotTable report. Read-only.
+Returns the **[TreeviewControl](treeviewcontrol-object-excel.md)** object of the **[CubeField](cubefield-object-excel.md)** object, representing the cube manipulation control of an OLAP-based PivotTable report. Read-only.
 
 
 ## Syntax

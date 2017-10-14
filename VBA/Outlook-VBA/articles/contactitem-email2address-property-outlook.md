@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email2Address Property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the second e-mail entry for the contact. Read/write.
+Returns or sets a **String** representing the e-mail address of the second e-mail entry for the contact. Read/write.
 
 
 ## Syntax

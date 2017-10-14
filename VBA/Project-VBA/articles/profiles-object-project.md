@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # Profiles Object (Project)
 
-Contains a collection of  **[Profile](profile-object-project.md)** objects, which are local or Project Server accounts that are defined in Project Professional.
+Contains a collection of **[Profile](profile-object-project.md)** objects, which are local or Project Server accounts that are defined in Project Professional.
  
 
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
  
 
  

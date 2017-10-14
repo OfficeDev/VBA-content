@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Vertices Property (Word)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. Read-only  **Variant** .
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 ## Remarks
 
-You can use the array returned by this property as an argument for the  **AddCurve** or **AddPolyLine** method.
+You can use the array returned by this property as an argument for the **AddCurve** or **AddPolyLine** method.
 
-The following table shows how the  **Vertices** property associates values in the array _vertArray()_ with the coordinates of a triangle's vertices.
+The following table shows how the **Vertices** property associates values in the array _vertArray()_ with the coordinates of a triangle's vertices.
 
 
 
@@ -54,7 +54,7 @@ With ActiveDocument.Shapes(1)
 End With
 ```
 
-This example creates a curve that has the same geometric description as shape one in the active document. This example assumes that the first shape is a B?zier curve containing 3n+1 vertices, where n is the number of curve segments.
+This example creates a curve that has the same geometric description as shape one in the active document. This example assumes that the first shape is a Bézier curve containing 3n+1 vertices, where n is the number of curve segments.
 
 
 

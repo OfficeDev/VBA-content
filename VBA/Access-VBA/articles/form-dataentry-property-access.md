@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DataEntry Property (Access)
 
-You can use the  **DataEntry** property to specify whether a bound form opens to allow data entry only. The **Data Entry** property doesn't determine whether records can be added; it only determines whether existing records are displayed. Read/write **Boolean**.
+You can use the **DataEntry** property to specify whether a bound form opens to allow data entry only. The **Data Entry** property doesn't determine whether records can be added; it only determines whether existing records are displayed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ You can use the  **DataEntry** property to specify whether a bound form opens to
 
 This property can be set in any view.
 
-The  **DataEntry** property has an effect only when the **AllowAdditions** property is set to Yes.
+The **DataEntry** property has an effect only when the **AllowAdditions** property is set to Yes.
 
-Setting the  **DataEntry** property to Yes by using Visual Basic has the same effect as clicking **Data Entry** on the **Records** menu. Setting it to No by using Visual Basic is equivalent to clicking **Remove Filter/Sort** on the **Records** menu.
+Setting the **DataEntry** property to Yes by using Visual Basic has the same effect as clicking **Data Entry** on the **Records** menu. Setting it to No by using Visual Basic is equivalent to clicking **Remove Filter/Sort** on the **Records** menu.
 
 
 ## See also

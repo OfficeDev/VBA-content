@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.VerticalAnchor Property (Word)
 
-Returns or sets an  **MsoVerticalAnchor** constant that represents the vertical alignment of the text within a shape. Read/write.
+Returns or sets an **MsoVerticalAnchor** constant that represents the vertical alignment of the text within a shape. Read/write.
 
 
 ## Syntax

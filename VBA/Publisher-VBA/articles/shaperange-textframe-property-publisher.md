@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextFrame Property (Publisher)
 
-Returns a  **[TextFrame](textframe-object-publisher.md)** object that represents the text in a shape and the properties that control the margins and orientation of the text.
+Returns a **[TextFrame](textframe-object-publisher.md)** object that represents the text in a shape and the properties that control the margins and orientation of the text.
 
 
 ## Syntax
 
  _expression_. **TextFrame**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

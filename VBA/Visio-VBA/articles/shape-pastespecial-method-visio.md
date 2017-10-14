@@ -40,20 +40,20 @@ Nothing
 
 ## Remarks
 
-To simply paste the contents of the Clipboard into an object, use the  **Paste** method.
+To simply paste the contents of the Clipboard into an object, use the **Paste** method.
 
-The  **PasteSpecial** method of a **Shape** object works only with **Shape** objects that are group shapes. Use the **Type** property of a shape to determine whether it is a group.
+The **PasteSpecial** method of a **Shape** object works only with **Shape** objects that are group shapes. Use the **Type** property of a shape to determine whether it is a group.
 
 The value of the  _Format_ argument can be any of the following:
 
 
 
 
-- A value from  **VisPasteSpecialCodes** (see the following table).
+- A value from **VisPasteSpecialCodes** (see the following table).
     
 - Any of the standard Clipboard formats, for example, CF_TEXT. For more information, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network Web site.
     
-- Any value returned from a call to the  **RegisterClipboardFormat** function. For details, see the Microsoft Platform SDK on MSDN.
+- Any value returned from a call to the **RegisterClipboardFormat** function. For details, see the Microsoft Platform SDK on MSDN.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbDriverType Enumeration (Publisher)
 
-Driver-type constants returned by the  ** [Printer.DriverType](printer-drivertype-property-publisher.md)** property.
+Driver-type constants returned by the ** [Printer.DriverType](printer-drivertype-property-publisher.md)** property.
 
 
 

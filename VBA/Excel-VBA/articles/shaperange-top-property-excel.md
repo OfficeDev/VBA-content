@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Top Property (Excel)
 
-Returns or sets a  **Single** value that represents the distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
+Returns or sets a **Single** value that represents the distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
 
 
 ## Syntax

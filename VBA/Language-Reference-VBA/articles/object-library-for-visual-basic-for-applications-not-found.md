@@ -15,7 +15,7 @@ Under unusual circumstances a previous version of the object library (vaxxx.olb 
     
 
 If the missing library is a language version that is installed by the host application, it may be easiest to simply rerun the setup program. If a project requires a different language object library than the one that accompanies your host application (for example, if someone sends you a project written on a machine set up for a different language), make sure the correct language version of the Visual Basic object library is included with the project and it is installed in the expected location.
-Applications may support different language versions of their object libraries. To find out which language version is required, display the  **References** dialog box, and see which language is indicated at the bottom of the dialog box.
+Applications may support different language versions of their object libraries. To find out which language version is required, display the **References** dialog box, and see which language is indicated at the bottom of the dialog box.
 Object libraries exist in different versions for each platform. Therefore, when projects are moved across platforms, for example, from Macintosh to Microsoft Windows, the correct language version of the referenced library for that platform must be available in the location specified in your host application documentation. Note that some language codes are two characters while others are three characters.
 The Visual Basic object library file name is constructed as follows:
 

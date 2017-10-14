@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerResult.Type Property (Office)
 
-Represents the type of a  **PickerResult** object. Read/write
+Represents the type of a **PickerResult** object. Read/write
 
 
 ## Syntax

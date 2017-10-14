@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandButton.Top Property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax

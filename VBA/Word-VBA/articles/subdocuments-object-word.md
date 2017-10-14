@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # Subdocuments Object (Word)
 
-A collection of  **[Subdocument](subdocument-object-word.md)** objects that represent the subdocuments in a range or document.
+A collection of **[Subdocument](subdocument-object-word.md)** objects that represent the subdocuments in a range or document.
 
 
 ## Remarks
 
-Use the  **Subdocuments** property to return the **Subdocuments** collection. The following example expands all the subdocuments in the active document.
+Use the **Subdocuments** property to return the **Subdocuments** collection. The following example expands all the subdocuments in the active document.
 
 
 ```vb
 ActiveDocument.Subdocuments.Expanded = True
 ```
 
-Use the  **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
+Use the **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
 
 
 
@@ -48,7 +48,7 @@ With ActiveDocument.Subdocuments
 End With
 ```
 
-Use  **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
+Use **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
 
 
 

@@ -11,7 +11,7 @@ ms.prod: excel
 
 # WorkbookQuery.Name Property (Excel)
 
-The name of the query. Read/write  **String**.
+The name of the query. Read/write **String**.
 
 
 ## Syntax

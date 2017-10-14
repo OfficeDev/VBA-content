@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkPoints.Lastpoint Property (Excel)
 
-Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the last point of data on a sparkline. Read-only
+Returns a **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the last point of data on a sparkline. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents t
 
 ## Remarks
 
-The  **Lastpoint** property corresponds to the setting of the **Last Point**, check box in the  **Show** section, and of the **Last Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The **Lastpoint** property corresponds to the setting of the **Last Point**, check box in the **Show** section, and of the **Last Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also

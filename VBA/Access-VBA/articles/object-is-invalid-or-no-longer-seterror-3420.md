@@ -28,7 +28,7 @@ Possible causes:
     
 - The object library is not registered in the Microsoft Windows Registry.
     
-- You are trying to reference a method or property of the collection, but you have not assigned it to a variable first. For example, to reference the  **Name** property, use the following:
+- You are trying to reference a method or property of the collection, but you have not assigned it to a variable first. For example, to reference the **Name** property, use the following:
     
 ```vb
   Dim dbsPublish As Database 

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ShapeRange.Rotation Property (Publisher)
 
-Returns or sets a  **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
+Returns or sets a **Single** that represents the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write.
 
 
 ## Syntax
 
  _expression_. **Rotation**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the  **[RotationX](threedformat-rotationx-property-publisher.md)** property or the  **[RotationY](threedformat-rotationy-property-publisher.md)** property of the  **[ThreeDFormat](threedformat-object-publisher.md)** object.
+To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the **[RotationX](threedformat-rotationx-property-publisher.md)** property or the **[RotationY](threedformat-rotationy-property-publisher.md)** property of the **[ThreeDFormat](threedformat-object-publisher.md)** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MediaFormat.VideoCompressionType Property (PowerPoint)
 
-Returns a  **String** that represents the video compression format of the media. Read-only.
+Returns a **String** that represents the video compression format of the media. Read-only.
 
 
 ## Syntax

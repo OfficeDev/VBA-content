@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FindPrevious Method (Project)
 
-Repeats the last search and returns  **True** if the search value is found.
+Repeats the last search and returns **True** if the search value is found.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Repeats the last search and returns  **True** if the search value is found.
 
 ## Remarks
 
-The  **FindPrevious** method is functionally identical to the[FindNext method](application-findnext-method-project.md). It is retained for compatibility with previous versions of Project.
+The **FindPrevious** method is functionally identical to the[FindNext method](application-findnext-method-project.md). It is retained for compatibility with previous versions of Project.
 
 

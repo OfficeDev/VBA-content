@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.ShowBarOnly Property (Access)
 
-Gets or sets whether the data bar or the data bar and its value are displayed. Set to  **True** to display only the data bar. Read/write ** Boolean**.
+Gets or sets whether the data bar or the data bar and its value are displayed. Set to **True** to display only the data bar. Read/write ** Boolean**.
 
 
 ## Syntax

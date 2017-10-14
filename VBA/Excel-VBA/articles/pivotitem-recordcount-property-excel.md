@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.RecordCount Property (Excel)
 
-Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long** .
+Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only **Long** .
 
 
 ## Syntax

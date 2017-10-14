@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # ContactItem.ShowCheckFullNameDialog Method (Outlook)
-Displays the  **Check Full Name** dialog box to verify name details of the contact.
+Displays the **Check Full Name** dialog box to verify name details of the contact.
 
 ## Version information
 

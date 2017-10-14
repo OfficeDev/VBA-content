@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehaviors Object (PowerPoint)
 
-Represents a collection of  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** objects.
+Represents a collection of **[AnimationBehavior](animationbehavior-object-powerpoint.md)** objects.
 
 
 ## Example

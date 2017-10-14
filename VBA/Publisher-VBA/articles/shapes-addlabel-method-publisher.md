@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddLabel Method (Publisher)
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing a text label to the specified **[Shapes](shapes-object-publisher.md)** collection.
+Adds a new **[Shape](shape-object-publisher.md)** object representing a text label to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddLabel**( **_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_. **AddLabel**( **_Orientation_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -44,7 +44,7 @@ Shape
 
 For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-The Orientation parameter can be one of these  **PbTextOrientation** constants.
+The Orientation parameter can be one of these **PbTextOrientation** constants.
 
 
 

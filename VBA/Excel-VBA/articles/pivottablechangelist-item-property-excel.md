@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTableChangeList.Item Property (Excel)
 
-Returns a single  **[ValueChange](valuechange-object-excel.md)** object from the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
+Returns a single **[ValueChange](valuechange-object-excel.md)** object from the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
 
 
 ## Syntax

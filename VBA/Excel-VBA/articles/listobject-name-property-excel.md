@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Name Property (Excel)
 
-Returns or sets a  **String** value that represents the name of the **[ListObject](listobject-object-excel.md)** object.
+Returns or sets a **String** value that represents the name of the **[ListObject](listobject-object-excel.md)** object.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ String
 
 ## Remarks
 
-This name is used solely as a unique identifier for the  **[Item](listobjects-item-property-excel.md)** property of the **[ListObjects](listobjects-object-excel.md)** collection objects. This property can only be set through the object model.
+This name is used solely as a unique identifier for the **[Item](listobjects-item-property-excel.md)** property of the **[ListObjects](listobjects-object-excel.md)** collection objects. This property can only be set through the object model.
 
-By default, each  **ListObject** object name begins with the word "List", followed by a number (no spaces). If an attempt is made to set the **Name** property to a name already used by another **ListObject** object, a run-time error is thrown.
+By default, each **ListObject** object name begins with the word "List", followed by a number (no spaces). If an attempt is made to set the **Name** property to a name already used by another **ListObject** object, a run-time error is thrown.
 
 
 ## Example

@@ -38,7 +38,7 @@ CustomXMLPart
 
 ## Remarks
 
-If a custom XML part with this ID does not exist, the method returns  **Nothing**.
+If a custom XML part with this ID does not exist, the method returns **Nothing**.
 
 
 ## Example

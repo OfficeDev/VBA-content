@@ -25,7 +25,7 @@ Sets or gets the fixed-width font setting in the host application. Read/write.
 
 ## Remarks
 
-When you set the  **FixedWidthFont** property, the host application does not check the value for validity.
+When you set the **FixedWidthFont** property, the host application does not check the value for validity.
 
 
 ## Example

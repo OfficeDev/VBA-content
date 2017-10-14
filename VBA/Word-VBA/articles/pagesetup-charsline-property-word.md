@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.CharsLine Property (Word)
 
-Returns or sets the number of characters per line in the document grid. Read/write  **Single** .
+Returns or sets the number of characters per line in the document grid. Read/write **Single** .
 
 
 ## Syntax

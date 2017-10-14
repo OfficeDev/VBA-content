@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ComAddInsDialog Method (Project)
 
-Displays the  **COM Add-Ins** dialog box, which lists any COM add-ins available for installation.
+Displays the **COM Add-Ins** dialog box, which lists any COM add-ins available for installation.
 
 
 ## Syntax

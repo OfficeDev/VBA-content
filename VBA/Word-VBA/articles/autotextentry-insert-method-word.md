@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntry.Insert Method (Word)
 
-Inserts the AutoText entry in place of the specified range. Returns a  **Range** object that represents the AutoText entry.
+Inserts the AutoText entry in place of the specified range. Returns a **Range** object that represents the AutoText entry.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Range
 
 ## Remarks
 
-If you don't want to replace the range, use the  **Collapse** method before using this method.
+If you don't want to replace the range, use the **Collapse** method before using this method.
 
 
 ## Example

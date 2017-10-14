@@ -18,9 +18,9 @@ Represents the search criteria for the cell format.
 
 ## Remarks
 
-Use the  **[FindFormat](application-findformat-property-excel.md)** or **[ReplaceFormat](application-replaceformat-property-excel.md)** properties of the **[Application](application-object-excel.md)** object to return a **CellFormat** object.
+Use the **[FindFormat](application-findformat-property-excel.md)** or **[ReplaceFormat](application-replaceformat-property-excel.md)** properties of the **[Application](application-object-excel.md)** object to return a **CellFormat** object.
 
-With a  **CellFormat** object, you can use the **[Borders](cellformat-borders-property-excel.md)**, **[Font](cellformat-font-property-excel.md)**, or **[Interior](cellformat-interior-property-excel.md)** properties of the **CellFormat** object, to define the search criteria for the cell format.
+With a **CellFormat** object, you can use the **[Borders](cellformat-borders-property-excel.md)**, **[Font](cellformat-font-property-excel.md)**, or **[Interior](cellformat-interior-property-excel.md)** properties of the **CellFormat** object, to define the search criteria for the cell format.
 
 
 ## Example

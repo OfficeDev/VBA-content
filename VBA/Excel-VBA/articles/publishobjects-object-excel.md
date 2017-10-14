@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObjects Object (Excel)
 
-A collection of all  **[PublishObject](publishobject-object-excel.md)** objects in the workbook.
+A collection of all **[PublishObject](publishobject-object-excel.md)** objects in the workbook.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all  **[PublishObject](publishobject-object-excel.md)** objects 
 
 ## Example
 
-Use the  **[PublishObjects](workbook-publishobjects-property-excel.md)** property to return the **[PublishObjects](publishobjects-object-excel.md)** collection. The following example saves all static **PublishObject** objects in the active workbook to the Web page.
+Use the **[PublishObjects](workbook-publishobjects-property-excel.md)** property to return the **[PublishObjects](publishobjects-object-excel.md)** collection. The following example saves all static **PublishObject** objects in the active workbook to the Web page.
 
 
 ```vb
@@ -35,7 +35,7 @@ For Each objPO in objPObjs
 Next objPO
 ```
 
-Use  **PublishObjects** ( _index_ ), where _index_ is the index number of the specified item in the workbook, to return a single **PublishObject** object. The following example sets the location where the first item in workbook three is saved.
+Use **PublishObjects** ( _index_ ), where _index_ is the index number of the specified item in the workbook, to return a single **PublishObject** object. The following example sets the location where the first item in workbook three is saved.
 
 
 

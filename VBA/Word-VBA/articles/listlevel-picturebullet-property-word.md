@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.PictureBullet Property (Word)
 
-Returns an  **[InlineShape](inlineshape-object-word.md)** object that represents a picture bullet.
+Returns an **[InlineShape](inlineshape-object-word.md)** object that represents a picture bullet.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[InlineShape](inlineshape-object-word.md)** object that represents
 
 ## Example
 
-This example returns the picture bullet for the first list in the active document and sets the picture bullet's width to 0.25 inch. To see this example, first run the code example for the  **[ApplyPictureBullet](listlevel-applypicturebullet-method-word.md)** method.
+This example returns the picture bullet for the first list in the active document and sets the picture bullet's width to 0.25 inch. To see this example, first run the code example for the **[ApplyPictureBullet](listlevel-applypicturebullet-method-word.md)** method.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Shadow Property (Excel)
 
-Returns a  **[ShadowFormat](shadowformat-object-excel.md)** object that contains shadow formatting properties for the chart element. Read-only.
+Returns a **[ShadowFormat](shadowformat-object-excel.md)** object that contains shadow formatting properties for the chart element. Read-only.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ Represents the data label on a chart point or trendline.
 
 ## Example
 
-Use  **[DataLabels](series-datalabels-method-word.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
+Use **[DataLabels](series-datalabels-method-word.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
 
 
 ```vb
@@ -35,7 +35,7 @@ End With
 
 ```
 
-Use the  **[Point.DataLabel](point-datalabel-property-word.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in the first series of the first chart in the active document and sets the data label text to "Saturday."
+Use the **[Point.DataLabel](point-datalabel-property-word.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in the first series of the first chart in the active document and sets the data label text to "Saturday."
 
 
 
@@ -52,7 +52,7 @@ End With
 
 ```
 
-On a trendline, the  **[Trendline.DataLabel](trendline-datalabel-property-word.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
+On a trendline, the **[Trendline.DataLabel](trendline-datalabel-property-word.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
 
 
 

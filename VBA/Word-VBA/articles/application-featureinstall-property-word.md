@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FeatureInstall Property (Word)
 
-Returns or sets how Microsoft Word handles calls to methods and properties that require features not yet installed. Read/write  **MsoFeatureInstall** .
+Returns or sets how Microsoft Word handles calls to methods and properties that require features not yet installed. Read/write **MsoFeatureInstall** .
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets how Microsoft Word handles calls to methods and properties that 
 
 ## Remarks
 
-You can use the  **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
+You can use the **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
 
-If you have the  **DisplayAlerts** property set to **False** , users will not be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** . If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** .
+If you have the **DisplayAlerts** property set to **False** , users will not be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** . If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** .
 
 
 ## Example
 
-This example activates a new instance of Microsoft Excel and checks the value of the  **FeatureInstall** property. If the property is set to **msoFeatureInstallNone** , the code displays a message box that asks the user whether they want to change the property setting. If the user responds "Yes," the property is set to **msoFeatureInstallOnDemand** .
+This example activates a new instance of Microsoft Excel and checks the value of the **FeatureInstall** property. If the property is set to **msoFeatureInstallNone** , the code displays a message box that asks the user whether they want to change the property setting. If the user responds "Yes," the property is set to **msoFeatureInstallOnDemand** .
 
 
  **Note**  For this example to function properly, you must add a reference to Microsoft Excel Object Library.

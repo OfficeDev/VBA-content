@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.EndArrowheadLength Property (Excel)
 
-Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** .
+Returns or sets the length of the arrowhead at the end of the specified line. Read/write **[MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** .
 
 
 ## Syntax

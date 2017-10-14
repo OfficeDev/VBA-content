@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.AreaIU Property (Visio)
 
-Returns the area of a  **Shape** object in internal units (square inches). Read-only.
+Returns the area of a **Shape** object in internal units (square inches). Read-only.
 
 
 ## Syntax

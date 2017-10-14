@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeMaskLevel.Level Property (Project)
 
-Gets the level number of the code mask, as it appears in the left column of the grid in the  **Code Mask Definition** dialog box. Read-only **Long**.
+Gets the level number of the code mask, as it appears in the left column of the grid in the **Code Mask Definition** dialog box. Read-only **Long**.
 
 
 ## Syntax

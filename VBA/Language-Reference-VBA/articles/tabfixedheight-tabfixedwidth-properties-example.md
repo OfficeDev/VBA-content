@@ -11,28 +11,28 @@ ms.date: 06/08/2017
 
 # TabFixedHeight, TabFixedWidth Properties Example
 
-The following example uses the  **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **MultiPage** and **TabStrip**. The user clicks the **SpinButton** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
+The following example uses the **TabFixedHeight** and **TabFixedWidth** properties to set the size of the tabs used in **MultiPage** and **TabStrip**. The user clicks the **SpinButton** controls to adjust the height and width of the tabs within the **MultiPage** and **TabStrip**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- A  **Label** named Label1 for the width control.
+- A **Label** named Label1 for the width control.
     
-- A  **SpinButton** named SpinButton1 for the width control.
+- A **SpinButton** named SpinButton1 for the width control.
     
-- A  **TextBox** named TextBox1 for the width control.
+- A **TextBox** named TextBox1 for the width control.
     
-- A  **Label** named Label2 for the height control.
+- A **Label** named Label2 for the height control.
     
-- A  **SpinButton** named SpinButton2 for the height control.
+- A **SpinButton** named SpinButton2 for the height control.
     
-- A  **TextBox** named TextBox2 for the height control.
+- A **TextBox** named TextBox2 for the height control.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.ItemLayout Property (Access)
 
-Returns or sets an  **[AcPrintItemLayout](acprintitemlayout-enumeration-access.md)** constant indicating whether the printer lays columns across, then down, or down, then across. Read/write.
+Returns or sets an **[AcPrintItemLayout](acprintitemlayout-enumeration-access.md)** constant indicating whether the printer lays columns across, then down, or down, then across. Read/write.
 
 
 ## Syntax

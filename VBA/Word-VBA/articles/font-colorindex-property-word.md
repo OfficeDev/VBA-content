@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ColorIndex Property (Word)
 
-Returns or sets a  **WdColorIndex** constant that represents the color for the specified font. Read/write .
+Returns or sets a **WdColorIndex** constant that represents the color for the specified font. Read/write .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdColorIndex** constant that represents the color for the s
 
 ## Remarks
 
-The  **wdByAuthor** constant is not a valid color for fonts.
+The **wdByAuthor** constant is not a valid color for fonts.
 
 
 ## Example

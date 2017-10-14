@@ -28,46 +28,46 @@ Gets the status of the synchronization of the local copy of the active document 
 
 ## Remarks
 
-Use the  **Status** property to determine whether the local copy of the active document is synchronized with the shared server copy. Use the **GetUpdate** method to refresh the status. Use the following methods and properties when appropriate to respond to various status conditions:
+Use the **Status** property to determine whether the local copy of the active document is synchronized with the shared server copy. Use the **GetUpdate** method to refresh the status. Use the following methods and properties when appropriate to respond to various status conditions:
 
 
 
 
--  ** msoSyncStatusConflict** - **True** when both the local and the server copies have changes. Use the **ResolveConflict** method to resolve the differences.
+- ** msoSyncStatusConflict** - **True** when both the local and the server copies have changes. Use the **ResolveConflict** method to resolve the differences.
     
--  **msoSyncStatusError** - Check the **ErrorType** property.
+- **msoSyncStatusError** - Check the **ErrorType** property.
     
--  ** msoSyncStatusLocalChanges** - **True** when only the local copy has changes. Use the **PutUpdate** method to save local changes to the server copy.
+- ** msoSyncStatusLocalChanges** - **True** when only the local copy has changes. Use the **PutUpdate** method to save local changes to the server copy.
     
--  ** msoSyncStatusNewerAvailable** - **True** when only the server copy has changes. Close and re-open the document to work with the latest copy from the server.
+- ** msoSyncStatusNewerAvailable** - **True** when only the server copy has changes. Close and re-open the document to work with the latest copy from the server.
     
--  ** msoSyncStatusSuspended** - Use the **Unsuspend** method to resume synchronization.
+- ** msoSyncStatusSuspended** - Use the **Unsuspend** method to resume synchronization.
     
 
 
-The  **Status** property returns a single constant from the list in the following order of precedence:
+The **Status** property returns a single constant from the list in the following order of precedence:
 
 
-1.  **msoSyncStatusNoSharedWorkspace**
+1. **msoSyncStatusNoSharedWorkspace**
     
-2.  **msoSyncStatusError**
+2. **msoSyncStatusError**
     
-3.  **msoSyncStatusSuspended**
+3. **msoSyncStatusSuspended**
     
-4.  **msoSyncStatusConflict**
+4. **msoSyncStatusConflict**
     
-5.  **msoSyncStatusNewerAvailable**
+5. **msoSyncStatusNewerAvailable**
     
-6.  **msoSyncStatusLocalChanges**
+6. **msoSyncStatusLocalChanges**
     
-7.  **msoSyncStatusLatest**
+7. **msoSyncStatusLatest**
     
 
 
 
 ## Example
 
-The following example examines the  **Status** property and takes an appropriate action to synchronize the local and server copies of the document if necessary.
+The following example examines the **Status** property and takes an appropriate action to synchronize the local and server copies of the document if necessary.
 
 
 ```

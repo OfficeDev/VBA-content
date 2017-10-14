@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.Add Method (Word)
 
-Returns a  **TextColumn** object that represents a new text column added to a section or document.
+Returns a **TextColumn** object that represents a new text column added to a section or document.
 
 
 ## Syntax

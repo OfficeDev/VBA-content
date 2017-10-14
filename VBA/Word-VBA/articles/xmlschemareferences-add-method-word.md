@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLSchemaReferences.Add Method (Word)
 
-Returns an  **XMLSchemaReference** that represents a schema applied to a document.
+Returns an **XMLSchemaReference** that represents a schema applied to a document.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns an  **XMLSchemaReference** that represents a schema applied to a documen
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Optional| **String**|The name of the schema as defined in the schema. The Namespace parameter is case-sensitive and must be spelled exactly as it appears in the schema. If the specified namespace cannot be found in any of the schemas attached to the document, an error is displayed.|
-| _Alias_|Optional| **String**|The name of the schema as it appears on the  **Schemas** tab in the **Templates and Add-ins** dialog box.|
+| _Alias_|Optional| **String**|The name of the schema as it appears on the **Schemas** tab in the **Templates and Add-ins** dialog box.|
 | _FileName_|Optional| **String**|The path and file name of the schema. This may be a local file path, a network path, or an Internet address.|
 | _InstallForAllUsers_|Optional| **Boolean**| **True** if all users that log on to a computer can access and use the new schema. The default is **False** .|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.SourceDataFile Property (Excel)
 
-Returns or sets a  **String** value that indicates the source data file for a query table.
+Returns or sets a **String** value that indicates the source data file for a query table.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Returns or sets a  **String** value that indicates the source data file for a qu
 
 ## Remarks
 
-For file-based data sources (e.g. Access), the  **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (e.g. SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](querytable-connection-property-excel.md)** property is changed programmatically.
+For file-based data sources (e.g. Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (e.g. SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](querytable-connection-property-excel.md)** property is changed programmatically.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceDataFile** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceDataFile** property.
 
 
 ## See also

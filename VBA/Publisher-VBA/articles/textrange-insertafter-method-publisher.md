@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.InsertAfter Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents text appended to the end of a text range.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents text appended to the end of a text range.
 
 
 ## Syntax
 
  _expression_. **InsertAfter**( **_NewText_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters

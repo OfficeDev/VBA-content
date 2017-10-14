@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.LateStart Property (Project)
 
-Gets the latest date on which a task can start. Read-only  **Variant**.
+Gets the latest date on which a task can start. Read-only **Variant**.
 
 
 ## Syntax

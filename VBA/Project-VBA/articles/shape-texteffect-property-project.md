@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.TextEffect Property (Project)
-Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](http://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)**.
+Gets text formatting properties for the shape. Read-only **[TextEffectFormat](http://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](h
 
 ## Example
 
-The following example sets the foreground color of text in a text frame to red, the foreground color of the text box shape to a yellowish tan, and then uses the  **TextEffect** property to set font properties.
+The following example sets the foreground color of text in a text frame to red, the foreground color of the text box shape to a yellowish tan, and then uses the **TextEffect** property to set font properties.
 
 
 ```vb

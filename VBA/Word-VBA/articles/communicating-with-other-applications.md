@@ -18,7 +18,7 @@ In addition to working with Word data, you may want your application to exchange
 
 Automation allows you to return, edit, and export data by referencing another application's objects, properties, and methods. Application objects that can be referenced by another application are called Automation objects.
 
-The first step toward making Word available to another application for Automation is to make a reference to the Word  **[Application](application-object-word.md)** object. In Visual Basic, you use the Visual Basic **CreateObject** or **GetObject** function to return a reference to the Word **Application** object. For example, in a Excel procedure, you could use the following instruction.
+The first step toward making Word available to another application for Automation is to make a reference to the Word **[Application](application-object-word.md)** object. In Visual Basic, you use the Visual Basic **CreateObject** or **GetObject** function to return a reference to the Word **Application** object. For example, in a Excel procedure, you could use the following instruction.
 
 
 
@@ -27,7 +27,7 @@ The first step toward making Word available to another application for Automatio
 Set wrd = CreateObject("Word.Application")
 ```
 
-This instruction makes the  **Application** object in Word available for Automation. Using the objects, properties, and methods of the Word **Application** object, you can control Word. For example, the following instruction creates a new Word document.
+This instruction makes the **Application** object in Word available for Automation. Using the objects, properties, and methods of the Word **Application** object, you can control Word. For example, the following instruction creates a new Word document.
 
 
 
@@ -36,7 +36,7 @@ This instruction makes the  **Application** object in Word available for Automat
 wrd.Documents.Add
 ```
 
-Use the  **Visible** property to make the new document visible after creating it.
+Use the **Visible** property to make the new document visible after creating it.
 
 
 
@@ -45,7 +45,7 @@ Use the  **Visible** property to make the new document visible after creating it
 wrd.Visible = True
 ```
 
-The  **CreateObject** function starts a Word session that Automation will not close when the object variable that references the **Application** object expires. Setting the object reference to the Visual Basic **Nothing** keyword will not close Word. Instead, use the **[Quit](application-quit-method-word.md)** method to close the Word application. The following Excel example displays the Word startup path. The **Quit** method is used to close the new instance of Word after the startup path is displayed.
+The **CreateObject** function starts a Word session that Automation will not close when the object variable that references the **Application** object expires. Setting the object reference to the Visual Basic **Nothing** keyword will not close Word. Instead, use the **[Quit](application-quit-method-word.md)** method to close the Word application. The following Excel example displays the Word startup path. The **Quit** method is used to close the new instance of Word after the startup path is displayed.
 
 
 
@@ -59,7 +59,7 @@ wrd.Quit
 
 ## Automating another application from Word
 
-To exchange data with another application using Automation from Word, you first obtain a reference to the application using the  **CreateObject** or **GetObject** function. Then, using the objects, properties, and methods of the other application, you add, change, or delete information. When you finish making your changes, close the application. The following Word example displays the Excel startup path. You can use the Visual Basic **Set** statement with the **Nothing** keyword to clear an object variable, which has the same effect as closing the application.
+To exchange data with another application using Automation from Word, you first obtain a reference to the application using the **CreateObject** or **GetObject** function. Then, using the objects, properties, and methods of the other application, you add, change, or delete information. When you finish making your changes, close the application. The following Word example displays the Excel startup path. You can use the Visual Basic **Set** statement with the **Nothing** keyword to clear an object variable, which has the same effect as closing the application.
 
 
 ```vb

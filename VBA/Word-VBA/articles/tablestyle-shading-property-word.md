@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.Shading Property (Word)
 
-Returns a  **[Shading](shading-object-word.md)** object that refers to the shading formatting for the specified table style.
+Returns a **[Shading](shading-object-word.md)** object that refers to the shading formatting for the specified table style.
 
 
 ## Syntax

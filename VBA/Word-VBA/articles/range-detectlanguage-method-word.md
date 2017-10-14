@@ -25,15 +25,15 @@ Analyzes the specified text to determine the language that it is written in.
 
 ## Remarks
 
-The results of the  **DetectLanguage** method are stored in the **LanguageID** property on a character-by-character basis. To read the **[LanguageID](language-id-property-word.md)** property, you must first specify a selection or range of text.
+The results of the **DetectLanguage** method are stored in the **LanguageID** property on a character-by-character basis. To read the **[LanguageID](language-id-property-word.md)** property, you must first specify a selection or range of text.
 
 
 
-When applied to a  **Document** object, the **DetectLanguage** method checks all available text in the document (headers, footers, text boxes, and so forth). If the specified text contains a partial sentence, the selection or range is extended to the end of the sentence.
+When applied to a **Document** object, the **DetectLanguage** method checks all available text in the document (headers, footers, text boxes, and so forth). If the specified text contains a partial sentence, the selection or range is extended to the end of the sentence.
 
 
 
-If the  **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True** . To reevaulate the language of the specified text, you must first set the **[LanguageDetected](document-languagedetected-property-word.md)** property to **False** .
+If the **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True** . To reevaulate the language of the specified text, you must first set the **[LanguageDetected](document-languagedetected-property-word.md)** property to **False** .
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.ScrSub Property (Word)
 
-Represents an  **[OMathScrSub](omathscrsub-object-word.md)** object that represents the mathematical subscript function. Read-only.
+Represents an **[OMathScrSub](omathscrsub-object-word.md)** object that represents the mathematical subscript function. Read-only.
 
 
 ## Syntax

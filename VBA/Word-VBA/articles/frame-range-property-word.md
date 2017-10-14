@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.Range Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the portion of a document that's contained within the frame.
+Returns a **[Range](range-object-word.md)** object that represents the portion of a document that's contained within the frame.
 
 
 ## Syntax

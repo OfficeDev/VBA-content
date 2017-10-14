@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.HasText Property (Publisher)
 
-Returns an  **MsoTriState** constant indicating whether the specified shape has text associated with it. Read-only.
+Returns an **MsoTriState** constant indicating whether the specified shape has text associated with it. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasText**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ## Example

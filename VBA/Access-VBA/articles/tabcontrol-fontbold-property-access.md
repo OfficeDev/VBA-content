@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TabControl.FontBold Property (Access)
 
-You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
+You can use the **FontBold** property to specify whether a font appears in a bold style in the following situations:
 
 
 - When displaying or printing controls on forms and reports.
     
-- When using the  **Print** method on a report.
+- When using the **Print** method on a report.
     
 
  Read/write **Boolean**.
@@ -33,7 +33,7 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
 ## Remarks
 
-The  **FontBold** property uses the following settings.
+The **FontBold** property uses the following settings.
 
 
 
@@ -41,11 +41,11 @@ The  **FontBold** property uses the following settings.
 |:-----|:-----|
 |**True**|The text is bold.|
 |**False**|(Default) The text isn't bold.|
-To use the  **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
+To use the **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer.
 
-The  **FontWeight** property, which is available in the property sheet for controls, can also be used to set the line width for a control's text. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
+The **FontWeight** property, which is available in the property sheet for controls, can also be used to set the line width for a control's text. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
 
 
 
@@ -58,7 +58,7 @@ The  **FontWeight** property, which is available in the property sheet for contr
 
 ## Example
 
-The following Print event procedure prints a report title and the current date in a bold style on a report at the coordinates specified by the  **CurrentX** and **CurrentY** property settings.
+The following Print event procedure prints a report title and the current date in a bold style on a report at the coordinates specified by the **CurrentX** and **CurrentY** property settings.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Width Property (Word)
 
-Returns or sets the width, in points, of the specified shape. Read/write  **Long** .
+Returns or sets the width, in points, of the specified shape. Read/write **Long** .
 
 
 ## Syntax

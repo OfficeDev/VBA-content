@@ -32,7 +32,7 @@ MsoTriState
 
 An error occurs if this property attempts to set an inset pen drawing on any Microsoft Office AutoShape that does not support inset pen drawing.
 
-The value of the  **InsetPen** property can be one of these **MsoTriState** constants.
+The value of the **InsetPen** property can be one of these **MsoTriState** constants.
 
 
 

@@ -39,15 +39,15 @@ Double
 ## Remarks
 
 
-- If lower_limit is nonnumeric,  **Erf_Precise** generates an error.
+- If lower_limit is nonnumeric, **Erf_Precise** generates an error.
     
-- If lower_limit is negative,  **Erf_Precise** generates an error.
+- If lower_limit is negative, **Erf_Precise** generates an error.
 ![Formula](images/awferf1_ZA06051136.gif)
 
 
     
 
- **Note**  If you previously used the  **[Erf](worksheetfunction-erf-method-excel.md)** method, which provides an optional upper_limit parameter, using the **Erf_Precise** method is equivalent to calling Erf(lower_limit) or Erf(0, upper_limit)
+ **Note**  If you previously used the **[Erf](worksheetfunction-erf-method-excel.md)** method, which provides an optional upper_limit parameter, using the **Erf_Precise** method is equivalent to calling Erf(lower_limit) or Erf(0, upper_limit)
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentProperties.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **DocumentProperties** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **DocumentProperties** object was created. Read-only.
 
 
 ## Syntax

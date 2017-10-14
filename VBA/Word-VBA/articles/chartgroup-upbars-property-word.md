@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.UpBars Property (Word)
 
-Returns the up bars on a line chart. Read-only  **[UpBars](upbars-object-word.md)** .
+Returns the up bars on a line chart. Read-only **[UpBars](upbars-object-word.md)** .
 
 
 ## Syntax

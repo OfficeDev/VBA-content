@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # ThemeVariants.Item Method (PowerPoint)
 
-Returns a single  **[ThemeVariant](themevariant-object-powerpoint.md)** object from the collection.
+Returns a single **[ThemeVariant](themevariant-object-powerpoint.md)** object from the collection.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Returns a single  **[ThemeVariant](themevariant-object-powerpoint.md)** object f
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ThemeVariant** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ThemeVariant** object in the collection to be returned.|
 | _Index_|Required|INT||
 
 ### Return value

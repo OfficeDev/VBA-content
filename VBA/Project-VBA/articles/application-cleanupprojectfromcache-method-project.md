@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-You can use the  **CleanupProjectFromCache** method if you suspect the project in the local cache is corrupted. If _FileName_ is omitted, **CleanupProjectFromCache** does nothing.
+You can use the **CleanupProjectFromCache** method if you suspect the project in the local cache is corrupted. If _FileName_ is omitted, **CleanupProjectFromCache** does nothing.
 
 
 ## Example

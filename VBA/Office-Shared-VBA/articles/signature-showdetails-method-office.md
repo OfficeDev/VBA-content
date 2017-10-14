@@ -25,7 +25,7 @@ Displays details related to a signature packet.
 
 ## Example
 
-The following example calls the  **ShowDetails** method to show details of the **Signature** object.
+The following example calls the **ShowDetails** method to show details of the **Signature** object.
 
 
 ```

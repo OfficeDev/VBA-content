@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTasks.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **WorkflowTasks** collection. Read-only.
+Gets a **Long** indicating the number of items in the **WorkflowTasks** collection. Read-only.
 
 
 ## Syntax

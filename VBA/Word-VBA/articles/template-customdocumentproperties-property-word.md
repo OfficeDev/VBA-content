@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.CustomDocumentProperties Property (Word)
 
-Returns a  **DocumentProperties** collection that represents all the custom document properties for the specified document.
+Returns a **DocumentProperties** collection that represents all the custom document properties for the specified document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **DocumentProperties** collection that represents all the custom docu
 
 ## Remarks
 
-Use the  **BuiltInDocumentProperties** property to return the collection of built-in document properties. Properties of type **msoPropertyTypeString** cannot exceed 255 characters in length.
+Use the **BuiltInDocumentProperties** property to return the collection of built-in document properties. Properties of type **msoPropertyTypeString** cannot exceed 255 characters in length.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 

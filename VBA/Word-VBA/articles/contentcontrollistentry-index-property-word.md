@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControlListEntry.Index Property (Word)
 
-Returns or sets a  **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
+Returns or sets a **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** that represents the ordinal position of a content co
 
 ## Remarks
 
-You can set the  **Index** property to any numeric value to change the ordinal position of an item in a list. For example, if you change the **Index** property for the fifth item in a list to "2", the fifth item becomes the second item. The original second item, and all items that follow, move down one position.
+You can set the **Index** property to any numeric value to change the ordinal position of an item in a list. For example, if you change the **Index** property for the fifth item in a list to "2", the fifth item becomes the second item. The original second item, and all items that follow, move down one position.
 
 
 ## See also

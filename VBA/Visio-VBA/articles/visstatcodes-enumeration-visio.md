@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisStatCodes Enumeration (Visio)
 
-Status information codes returned by the  **Stat** property of various objects.
+Status information codes returned by the **Stat** property of various objects.
 
 
 

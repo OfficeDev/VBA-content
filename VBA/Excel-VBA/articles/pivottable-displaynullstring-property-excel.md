@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[NullString](pivottable-displaynullstring-property-excel.md)** property to set the custom null string.
+Use the **[NullString](pivottable-displaynullstring-property-excel.md)** property to set the custom null string.
 
 
 ## Example

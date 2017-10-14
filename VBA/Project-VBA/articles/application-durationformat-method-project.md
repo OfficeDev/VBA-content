@@ -30,7 +30,7 @@ Returns a duration in the specified units.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Duration_|Required|**Variant**|The duration to be expressed.|
-| _Units_|Optional|**Long**|The units used to express the duration. Can be one of the  **[PjFormatUnit](pjformatunit-enumeration-project.md)** constants.|
+| _Units_|Optional|**Long**|The units used to express the duration. Can be one of the **[PjFormatUnit](pjformatunit-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Returns a duration in the specified units.
 
 ## Remarks
 
-The time label that appears next to the duration uses the format specified by the  ** _timescale_ as:** setting on the **Edit** tab of the **Options** dialog box, where ** _timescale_** is "Minutes", "Hours", "Days", "Weeks", "Months", or "Years".
+The time label that appears next to the duration uses the format specified by the ** _timescale_ as:** setting on the **Edit** tab of the **Options** dialog box, where ** _timescale_** is "Minutes", "Hours", "Days", "Weeks", "Months", or "Years".
 
  For example, if _Duration_ is "2w", _Units_ is **pjDays**, and the **Days as:** setting is "day", the **DurationFormat** method returns "10 days".
 

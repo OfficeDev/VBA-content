@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.AutoDiscoverConnectionMode Property (Outlook)
 
-Returns an  **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumeration-outlook.md)** constant that specifies the type of connection to use for the auto-discovery service of the Microsoft Exchange server that hosts the account mailbox. Read-only.
+Returns an **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumeration-outlook.md)** constant that specifies the type of connection to use for the auto-discovery service of the Microsoft Exchange server that hosts the account mailbox. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumer
 
 ## Remarks
 
-This property is similar to the  **[AutoDiscoverConnectionMode](namespace-autodiscoverconnectionmode-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
+This property is similar to the **[AutoDiscoverConnectionMode](namespace-autodiscoverconnectionmode-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
 
 
 ## See also

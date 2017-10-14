@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.SizeBi Property (Publisher)
 
-Returns or sets a  **Variant** value representing the size, in points, of the **Font** object for text in a right-to-left language. Valid range is 0.5 points to 999.5 points. Read/write.
+Returns or sets a **Variant** value representing the size, in points, of the **Font** object for text in a right-to-left language. Valid range is 0.5 points to 999.5 points. Read/write.
 
 
 ## Syntax
 
  _expression_. **SizeBi**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value

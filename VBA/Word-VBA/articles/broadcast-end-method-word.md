@@ -28,7 +28,7 @@ Ends the specified broadcast session.
 
 ## Remarks
 
-Calling the  **End** method terminates the broadcast session without displaying a confirmation prompt to the user. It also sets the value of the[Broadcast.AttendeeURL](broadcast-attendeeurl-property-word.md) property to an empty string.
+Calling the **End** method terminates the broadcast session without displaying a confirmation prompt to the user. It also sets the value of the[Broadcast.AttendeeURL](broadcast-attendeeurl-property-word.md) property to an empty string.
 
 If the document is not being broadcast, the method returns runtime error 4702.
 

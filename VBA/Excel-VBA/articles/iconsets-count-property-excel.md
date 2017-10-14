@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSets.Count Property (Excel)
 
-Returns a  **Long** value that specifies the number of icon sets available in the workbook. Read-only.
+Returns a **Long** value that specifies the number of icon sets available in the workbook. Read-only.
 
 
 ## Syntax

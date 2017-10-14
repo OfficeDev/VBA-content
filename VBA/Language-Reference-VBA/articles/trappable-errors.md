@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Trappable Errors
 
-Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](vbe-glossary.md). You can test and respond to trappable errors using the  **On Error** statement and the **Err** object. Unused[error numbers](vbe-glossary.md) in the range 1 - 1000 are reserved for future use by Visual Basic.
+Trappable errors can occur while an application is running. Some trappable errors can also occur during development or [compile time](vbe-glossary.md). You can test and respond to trappable errors using the **On Error** statement and the **Err** object. Unused[error numbers](vbe-glossary.md) in the range 1 - 1000 are reserved for future use by Visual Basic.
 
 
 

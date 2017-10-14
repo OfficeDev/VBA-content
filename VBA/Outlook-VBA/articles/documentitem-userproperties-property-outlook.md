@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.UserProperties Property (Outlook)
 
-Returns the  **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the Outlook item. Read-only.
+Returns the **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[UserProperties](userproperties-object-outlook.md)** collection t
 
 ## Remarks
 
-Even though  **olWordDocumentItem** is a valid constant in the **[OlItemType](olitemtype-enumeration-outlook.md)** enumeration, user-defined fields cannot to be added to a **[DocumentItem](documentitem-object-outlook.md)** object and you will receive an error when you try to programmatically add a user-defined field to a **DocumentItem** object.
+Even though **olWordDocumentItem** is a valid constant in the **[OlItemType](olitemtype-enumeration-outlook.md)** enumeration, user-defined fields cannot to be added to a **[DocumentItem](documentitem-object-outlook.md)** object and you will receive an error when you try to programmatically add a user-defined field to a **DocumentItem** object.
 
 
 ## See also

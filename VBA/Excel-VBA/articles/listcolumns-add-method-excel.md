@@ -33,7 +33,7 @@ Adds a new column to the list object.
 
 ### Return Value
 
-A  **[ListColumn](listcolumn-object-excel.md)** object that represents the new column.
+A **[ListColumn](listcolumn-object-excel.md)** object that represents the new column.
 
 
 ## Remarks
@@ -43,7 +43,7 @@ If  _Position_ is not specified, a new rightmost column is added. A name for the
 
 ## Example
 
-The following example adds a new column to the default  **[ListObject](listobject-object-excel.md)** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
+The following example adds a new column to the default **[ListObject](listobject-object-excel.md)** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
 
 
 ```vb

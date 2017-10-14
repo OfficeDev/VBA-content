@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Windows Property (PowerPoint)
 
-Returns a  **[DocumentWindows](documentwindows-object-powerpoint.md)** collection that represents all open document windows. Read-only.
+Returns a **[DocumentWindows](documentwindows-object-powerpoint.md)** collection that represents all open document windows. Read-only.
 
 
 ## Syntax

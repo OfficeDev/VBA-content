@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.OLEUsage Property (Office)
 
-Gets or sets the OLE client and OLE server roles in which a  **CommandBarButton** control will be used when two Microsoft Office applications are merged. Read/write.
+Gets or sets the OLE client and OLE server roles in which a **CommandBarButton** control will be used when two Microsoft Office applications are merged. Read/write.
 
 
 ## 
@@ -35,12 +35,12 @@ MsoControlOLEUsage
 
 This property is intended to allow you to specify how individual add-in applications' command bar controls will be represented in one Office application when it is merged with another Office application. If both the client and server implement command bars, the command bar controls are embedded in the client control by control. Custom controls marked as client-only (or neither client nor server) are dropped from the server, and controls marked as server-only (or neither server nor client) are dropped from the client. The remaining controls are merged.
 
-If one of the merging applications isn't an Office application, normal OLE menu merging is used, which is controlled by the  **OLEMenuGroup** property.
+If one of the merging applications isn't an Office application, normal OLE menu merging is used, which is controlled by the **OLEMenuGroup** property.
 
 
 ## Example
 
-This example adds a new button to the command bar named "Tools", and sets its  **OLEUsage** property.
+This example adds a new button to the command bar named "Tools", and sets its **OLEUsage** property.
 
 
 ```

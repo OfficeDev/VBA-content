@@ -25,15 +25,15 @@ Toolbars box
 Displays the toolbars built into Visual Basic and any toolbars you create. When you show a toolbar, a check mark appears to the left of it.
 
 
- **Note**  The  **Menu** bar cannot be hidden. It can only be reset.
+ **Note**  The **Menu** bar cannot be hidden. It can only be reset.
 
  **New**
 
-Opens the  **New** **Toolbar** dialog box where you type the name for your new toolbar in the Toolbar Name box.
+Opens the **New** **Toolbar** dialog box where you type the name for your new toolbar in the Toolbar Name box.
 
  **Rename**
 
-Opens the  **Rename Toolbar** dialog box where you type the new name for your toolbar. Only available if you select a user-defined toolbar.
+Opens the **Rename Toolbar** dialog box where you type the new name for your toolbar. Only available if you select a user-defined toolbar.
 
  **Delete**
 

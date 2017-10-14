@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IDocumentInspector Object (Office)
 
-Represents the interface through which the methods of a  **IDocumentInspector** object are accessed.
+Represents the interface through which the methods of a **IDocumentInspector** object are accessed.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Represents the interface through which the methods of a  **IDocumentInspector** 
  **IDocumentInspector** provides access to the **GetInfo**, **Inspect**, and **Fix** methods. The **IDocumentInspector** object is used with custom Document Inspector modules. This is in contrast to modules that are shipped with Microsoft Office.
 
 
- **Note**  The  **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Microsoft Visual Basic for Applications (VBA).
+ **Note**  The **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Microsoft Visual Basic for Applications (VBA).
 
 
 ## Methods

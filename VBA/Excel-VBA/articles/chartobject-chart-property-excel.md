@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.Chart Property (Excel)
 
-Returns a  **[Chart](chart-object-excel.md)** object that represents the chart contained in the object. Read-only.
+Returns a **[Chart](chart-object-excel.md)** object that represents the chart contained in the object. Read-only.
 
 
 ## Syntax

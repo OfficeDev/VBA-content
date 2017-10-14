@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code demonstrates how to set the  **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
+The following code demonstrates how to set the **URL** property on the client side to specify an .asp file that in turn handles the submission of changes to the data source.
 
 
 
@@ -96,7 +96,7 @@ End Sub
 <!-- EndURLClientVBS -->
 ```
 
-The server-side code that exists in  **URLServerVBS.asp** submits the updated **Recordset** to the data source.
+The server-side code that exists in **URLServerVBS.asp** submits the updated **Recordset** to the data source.
 
 
 

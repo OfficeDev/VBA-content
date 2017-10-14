@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Permission Property (Excel)
 
-Returns a  **Permission** object that represents the permission settings in the specified workbook.
+Returns a **Permission** object that represents the permission settings in the specified workbook.
 
 
 ## Syntax

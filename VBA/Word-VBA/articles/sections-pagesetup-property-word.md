@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sections.PageSetup Property (Word)
 
-Returns a  **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
+Returns a **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
 
 
 ## Syntax

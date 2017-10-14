@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Days.Item Property (Project)
 
-Gets a single  **Day** object from the **Days** collection. Read-only **Day**.
+Gets a single **Day** object from the **Days** collection. Read-only **Day**.
 
 
 ## Syntax

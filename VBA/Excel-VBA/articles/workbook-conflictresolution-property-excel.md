@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ConflictResolution Property (Excel)
 
-Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[XlSaveConflictResolution](xlsaveconflictresolution-enumeration-excel.md)** .
+Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write **[XlSaveConflictResolution](xlsaveconflictresolution-enumeration-excel.md)** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LeftIndent Property (Publisher)
 
-Returns or sets a  **Variant** that represents the left indent value (in points) for the specified paragraphs. Read/write.
+Returns or sets a **Variant** that represents the left indent value (in points) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **LeftIndent**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

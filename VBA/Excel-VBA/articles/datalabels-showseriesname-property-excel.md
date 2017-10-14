@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ShowSeriesName Property (Excel)
 
-Returns or sets a  **Boolean** to indicate the series name display behavior for the data labels on a chart. **True** to show the series name. **False** to hide. Read/write.
+Returns or sets a **Boolean** to indicate the series name display behavior for the data labels on a chart. **True** to show the series name. **False** to hide. Read/write.
 
 
 ## Syntax

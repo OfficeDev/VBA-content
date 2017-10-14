@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbReplaceTint Enumeration (Publisher)
 
-Constants passed to the  **Plate.Delete** method specifying how to replace the colors in a deleted plate.
+Constants passed to the **Plate.Delete** method specifying how to replace the colors in a deleted plate.
 
 
 

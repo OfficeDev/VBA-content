@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.NameLocal Property (Excel)
 
-Returns or sets the name of the object, in the language of the user. Read/write  **String** .
+Returns or sets the name of the object, in the language of the user. Read/write **String** .
 
 
 ## Syntax

@@ -17,6 +17,6 @@ A string that represents the name of the caption style. Read-only.
 
  _expression_. **Name**
 
- _expression_A variable that represents a  **CaptionStyle** object.
+ _expression_A variable that represents a **CaptionStyle** object.
 
 

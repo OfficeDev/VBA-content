@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application.EnableMacroAnimations Property (Excel)
 
-Controls whether macro animations are enabled.  **True** if user interface animations or chart animations are enabled. Is set to **False** (no animation) by default. If it is set to **True** during the running of a macro, it will enable animation and then will reset to **False** after the macro runs. Read/write **Boolean** .
+Controls whether macro animations are enabled. **True** if user interface animations or chart animations are enabled. Is set to **False** (no animation) by default. If it is set to **True** during the running of a macro, it will enable animation and then will reset to **False** after the macro runs. Read/write **Boolean** .
 
 
 ## Syntax

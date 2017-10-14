@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shading.ForegroundPatternColor Property (Word)
 
-Returns or sets the 24-bit color that's applied to the foreground of the  **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write.
+Returns or sets the 24-bit color that's applied to the foreground of the **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the 24-bit color that's applied to the foreground of the  **Shad
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example

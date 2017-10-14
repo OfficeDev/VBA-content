@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PickerResults.Application Property (Office)
 
-Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only
+Gets an **Application** object that represents the container application for the **PickerResults** object. Read-only
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Search.IsSynchronous Property (Outlook)
 
-Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
+Returns a **Boolean** indicating whether the search is synchronous. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
 
 ## Remarks
 
-A search can be synchronous or asynchronous. If the search is synchronous, code execution will pause until the search has completed. Conversely, if the search is asynchronous, code execution will continue even though the search has not completed. In this case, use the  **[Search](search-object-outlook.md)** object's **[Stop](search-stop-method-outlook.md)** method to halt the search. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](application-advancedsearchcomplete-event-outlook.md)** event to notify you when the search has finished.
+A search can be synchronous or asynchronous. If the search is synchronous, code execution will pause until the search has completed. Conversely, if the search is asynchronous, code execution will continue even though the search has not completed. In this case, use the **[Search](search-object-outlook.md)** object's **[Stop](search-stop-method-outlook.md)** method to halt the search. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](application-advancedsearchcomplete-event-outlook.md)** event to notify you when the search has finished.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.PortraitFontNames Property (Word)
 
-Returns a  **FontNames** object that includes the names of all the available portrait fonts.
+Returns a **FontNames** object that includes the names of all the available portrait fonts.
 
 
 ## Syntax

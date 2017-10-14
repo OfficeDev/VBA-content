@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.InlineShapes Property (Word)
 
-Returns an  **InlineShapes** collection that represents all the **InlineShape** objects in a range. Read-only.
+Returns an **InlineShapes** collection that represents all the **InlineShape** objects in a range. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Time <keyword>
 
-The  **Time** keyword is used in these contexts:
+The **Time** keyword is used in these contexts:
 
 [Time Function](time-function.md)
 

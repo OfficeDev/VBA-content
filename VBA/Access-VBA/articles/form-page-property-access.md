@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Page Property (Access)
 
-The  **Page** property specifies the current page number when a form is being printed. Read/write **Long**.
+The **Page** property specifies the current page number when a form is being printed. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **Page** property specifies the current page number when a form is being pr
 
 ## Remarks
 
-Although you can set the  **Page** property to a value, you most often use this property to return information about page numbers.
+Although you can set the **Page** property to a value, you most often use this property to return information about page numbers.
 
 This property is only available in Print Preview or when printing.
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.RecordCount Property (Publisher)
 
-Returns a  **Long** that represents the number of records in the data source. Read-only.
+Returns a **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax
 
  _expression_. **RecordCount**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.ConvertToShape Method (Word)
 
-Converts an inline shape to a free-floating shape. Returns a  **[Shape](shape-object-word.md)** object that represents the new shape.
+Converts an inline shape to a free-floating shape. Returns a **[Shape](shape-object-word.md)** object that represents the new shape.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Converts an inline shape to a free-floating shape. Returns a  **[Shape](shape-ob
 
 ## Remarks
 
-You must apply the  **AddNodes** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
+You must apply the **AddNodes** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
 
 
 ## Example

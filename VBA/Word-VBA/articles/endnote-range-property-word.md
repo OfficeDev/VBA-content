@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnote.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
+Returns a **Range** object that represents the portion of a document that is contained in the specified object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 ## Remarks
 
-For information about returning a range from a document or returning a shape range from a collection of shapes, see the  **Range** method.
+For information about returning a range from a document or returning a shape range from a collection of shapes, see the **Range** method.
 
 
 ## Example

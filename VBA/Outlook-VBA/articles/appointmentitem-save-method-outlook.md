@@ -25,7 +25,7 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates an appointment item and sets the  **[AppointmentItem.ReminderSet](appointmentitem-reminderset-property-outlook.md)** property before saving it.
+This Microsoft Visual Basic for Applications (VBA) example creates an appointment item and sets the **[AppointmentItem.ReminderSet](appointmentitem-reminderset-property-outlook.md)** property before saving it.
 
 
 ```vb

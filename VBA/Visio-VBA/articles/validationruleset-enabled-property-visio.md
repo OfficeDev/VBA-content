@@ -30,14 +30,14 @@ Determines whether the rules in the specified validation rule set are checked wh
 
 ## Remarks
 
-If the value of the  **Enabled** property is **True** , the rules in the validation rule set are checked when validation is triggered for the current document. Validation is triggered when the user clicks **Check Diagram** on the **Process** tab or when the **[Validate](validation-validate-method-visio.md)** method is run on the current document.
+If the value of the **Enabled** property is **True** , the rules in the validation rule set are checked when validation is triggered for the current document. Validation is triggered when the user clicks **Check Diagram** on the **Process** tab or when the **[Validate](validation-validate-method-visio.md)** method is run on the current document.
 
-Rule sets for which the value of  **Enabled** is **False** are purged from the current document when the **[RemoveHiddenInformation](document-removehiddeninformation-method-visio.md)** method is run with the **visRHIValidationRules** flag set, or when the equivalent command is issued in the user interface.
+Rule sets for which the value of **Enabled** is **False** are purged from the current document when the **[RemoveHiddenInformation](document-removehiddeninformation-method-visio.md)** method is run with the **visRHIValidationRules** flag set, or when the equivalent command is issued in the user interface.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Enabled** property to enable a validation rule set named "Connectivity" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Enabled** property to enable a validation rule set named "Connectivity" in the active document.
 
 
 ```vb

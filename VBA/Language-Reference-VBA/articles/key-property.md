@@ -19,12 +19,12 @@ ms.date: 06/08/2017
 Sets a  _key_ in a **Dictionary** object.
  **Syntax**
  _object_. **Key(**_key_**)** = _newkey_
-The  **Key** property has the following parts:
+The **Key** property has the following parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
+| _object_|Required. Always the name of a **Dictionary** object.|
 | _key_|Required.  _Key_ value being changed.|
 | _newkey_|Required. New value that replaces the specified  _key_.|
  **Remarks**

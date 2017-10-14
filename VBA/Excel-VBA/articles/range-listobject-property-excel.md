@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListObject Property (Excel)
 
-Returns a  **[ListObject](listobject-object-excel.md)** object for the **[Range](range-object-excel.md)** object. Read-only **ListObject** object.
+Returns a **[ListObject](listobject-object-excel.md)** object for the **[Range](range-object-excel.md)** object. Read-only **ListObject** object.
 
 
 ## Syntax

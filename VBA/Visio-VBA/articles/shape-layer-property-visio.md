@@ -38,14 +38,14 @@ Layer
 
 ## Remarks
 
-If a shape is assigned to three layers, the valid indexes that can be passed to its  **Layer** property are 1 through 3.
+If a shape is assigned to three layers, the valid indexes that can be passed to its **Layer** property are 1 through 3.
 
-To get the number of layers to which a shape is assigned, use the  **LayerCount** property.
+To get the number of layers to which a shape is assigned, use the **LayerCount** property.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Layer** property to get a reference to a particular layer. It also uses the **LayerCount** property to determine the number of layers to which a shape is assigned and the **Name** property to get the name of the current layer.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Layer** property to get a reference to a particular layer. It also uses the **LayerCount** property to determine the number of layers to which a shape is assigned and the **Name** property to get the name of the current layer.
 
 
 ```vb

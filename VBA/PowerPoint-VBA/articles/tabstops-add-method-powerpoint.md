@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStops.Add Method (PowerPoint)
 
-Creates a tab stop and adds it to the  **TabStops** collection.
+Creates a tab stop and adds it to the **TabStops** collection.
 
 
 ## Syntax

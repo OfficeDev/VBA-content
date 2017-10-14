@@ -16,6 +16,6 @@ Specifies whether to use the same border and fill color as postive data bars.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **xlDataBarColor**|0|Use the color specified in the  **Negative Value and Axis Setting** dialog box or by using the **[ColorType](negativebarformat-colortype-property-excel.md)** and **[BorderColorType](negativebarformat-bordercolortype-property-excel.md)** properties of the **[NegativeBarFormat](negativebarformat-object-excel.md)** object.|
+| **xlDataBarColor**|0|Use the color specified in the **Negative Value and Axis Setting** dialog box or by using the **[ColorType](negativebarformat-colortype-property-excel.md)** and **[BorderColorType](negativebarformat-bordercolortype-property-excel.md)** properties of the **[NegativeBarFormat](negativebarformat-object-excel.md)** object.|
 | **xlDataBarSameAsPositive**|1|Use the same color as positive data bars.|
 

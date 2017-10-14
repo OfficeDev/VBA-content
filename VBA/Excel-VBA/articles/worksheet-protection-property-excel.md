@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Protection Property (Excel)
 
-Returns a  **[Protection](protection-object-excel.md)** object that represents the protection options of the worksheet.
+Returns a **[Protection](protection-object-excel.md)** object that represents the protection options of the worksheet.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.IsTrueColor Property (Publisher)
 
-Returns an  **MsoTriState** constant indicating whether the specified picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
+Returns an **MsoTriState** constant indicating whether the specified picture or OLE object contains color data of 24 bits per channel or greater. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsTrueColor**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -30,16 +30,16 @@ MsoTriState
 
 ## Remarks
 
-For pictures that are not TrueColor, use the  **[ColorsInPalette](pictureformat-colorsinpalette-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine the number of colors in the picture's palette.
+For pictures that are not TrueColor, use the **[ColorsInPalette](pictureformat-colorsinpalette-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine the number of colors in the picture's palette.
 
-The  **IsTrueColor** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **IsTrueColor** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain color data of 24 bits per channel or greater.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**| The specified picture contains color data of 24 bits per channel or greater.|
 
 ## Example

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Top Property (Project)
-Gets or sets the vertical distance, in points, from the top of the report pane to the top edge of the shape range. Read-write  **Single**.
+Gets or sets the vertical distance, in points, from the top of the report pane to the top edge of the shape range. Read-write **Single**.
 
 ## Syntax
 

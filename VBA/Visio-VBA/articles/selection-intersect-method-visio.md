@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Intersect** method is equivalent to clicking **Intersect** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape.
+Calling the **Intersect** method is equivalent to clicking **Intersect** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape.
 
 The original shapes are deleted and no shapes are selected when the operation is complete.
 

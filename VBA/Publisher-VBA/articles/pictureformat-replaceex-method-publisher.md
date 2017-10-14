@@ -45,7 +45,7 @@ The  _InsertAs_ parameter can be one of the following **PbPictureInsertAs** cons
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ReplaceEx** method to replace all the pictures in a publication with a different picture. In this example, the replacement picture is fit to the frames of the previous pictures, but you can use **pbFill** in place of **pbFit** if you want to fill the frames instead. This example also excludes pictures on master pages.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ReplaceEx** method to replace all the pictures in a publication with a different picture. In this example, the replacement picture is fit to the frames of the previous pictures, but you can use **pbFill** in place of **pbFit** if you want to fill the frames instead. This example also excludes pictures on master pages.
 
 Before running this macro, replace replacementPicturePath with the path to the picture you want to use as the replacement.
 

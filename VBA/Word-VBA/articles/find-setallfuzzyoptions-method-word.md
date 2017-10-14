@@ -25,7 +25,7 @@ Activates all nonspecific search options associated with Japanese text.
 
 ## Remarks
 
-This method sets the following properties to  **True** :
+This method sets the following properties to **True** :
 
 
 

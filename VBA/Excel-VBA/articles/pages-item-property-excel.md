@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Item Property (Excel)
 
-Returns a  **Page** object that represents a collection of pages in a workbook. Read-only.
+Returns a **Page** object that represents a collection of pages in a workbook. Read-only.
 
 
 ## Syntax

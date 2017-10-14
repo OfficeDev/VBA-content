@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordset.DataColumns Property (Visio)
 
-Returns the  **[DataColumns](datacolumns-object-visio.md)** collection associated with the **DataRecordset** object. Read-only.
+Returns the **[DataColumns](datacolumns-object-visio.md)** collection associated with the **DataRecordset** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,8 +33,8 @@ DataColumns
 
 ## Remarks
 
-Every  **DataRecordset** object contains a **DataColumns** collection of all the **[DataColumn](datacolumn-object-visio.md)** objects associated with the **DataRecordset** object. These objects allow you to map data columns to cells in the Shape Data (formerly Custom Properties) section of the Visio ShapeSheet spreadsheet.
+Every **DataRecordset** object contains a **DataColumns** collection of all the **[DataColumn](datacolumn-object-visio.md)** objects associated with the **DataRecordset** object. These objects allow you to map data columns to cells in the Shape Data (formerly Custom Properties) section of the Visio ShapeSheet spreadsheet.
 
-Once you get the  **DataColumns** collection, you can use its **[SetColumnProperties](datacolumns-setcolumnproperties-method-visio.md)** method to set the properties of multiple data columns, or you can get and set the properties of individual data columns by using the **[DataColumn.GetProperty](datacolumn-getproperty-method-visio.md)** and **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** properties respectively.
+Once you get the **DataColumns** collection, you can use its **[SetColumnProperties](datacolumns-setcolumnproperties-method-visio.md)** method to set the properties of multiple data columns, or you can get and set the properties of individual data columns by using the **[DataColumn.GetProperty](datacolumn-getproperty-method-visio.md)** and **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** properties respectively.
 
 

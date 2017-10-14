@@ -18,9 +18,9 @@ Represents the current table style.
 
 ## Remarks
 
-Use the  **[Name](tablestyle-name-property-powerpoint.md)** property to return the name of the table style.
+Use the **[Name](tablestyle-name-property-powerpoint.md)** property to return the name of the table style.
 
-Use the  **[Id](tablestyle-id-property-powerpoint.md)** property to return the numeric identifier of the table style.
+Use the **[Id](tablestyle-id-property-powerpoint.md)** property to return the numeric identifier of the table style.
 
 
 ## See also

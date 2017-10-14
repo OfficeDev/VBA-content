@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Write Event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](appointmentitem-save-method-outlook.md)** or **[SaveAs](appointmentitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the **[Save](appointmentitem-save-method-outlook.md)** or **[SaveAs](appointmentitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the save operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False** , the save operation is not completed.
 
 
 ## See also

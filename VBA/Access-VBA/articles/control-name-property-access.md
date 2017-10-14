@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.Name Property (Access)
 
-You can use the Name property to determine the string expression that identifies the name of an object. Read-only  **String**.
+You can use the Name property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ You can use the Name property to determine the string expression that identifies
 
 A valid name must conform to the standard naming conventions for Microsoft Access. For controls, the name may be as long as 255 characters.
 
-For an unbound control, the default name is the type of control plus a unique integer. For example, if the first control you add to a form is a text box, its  **Name** property setting is Text1
+For an unbound control, the default name is the type of control plus a unique integer. For example, if the first control you add to a form is a text box, its **Name** property setting is Text1
 
-For a bound control, the default name is the name of the field in the underlying source of data. If you create a control by dragging a field from the field list, the field's  **FieldName** property setting is copied to the control's **Name** property box.
+For a bound control, the default name is the name of the field in the underlying source of data. If you create a control by dragging a field from the field list, the field's **FieldName** property setting is copied to the control's **Name** property box.
 
 You can't use "Form" or "Report" to name a control or section.
 

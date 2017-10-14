@@ -15,11 +15,11 @@ Transfers the contents of the Clipboard to an object.
 
  _expression_. **Paste**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_A variable that represents a **TextBox** object.
 
 
 ## Remarks
 
-Data pasted into a  **[TextBox](textbox-object-outlook-forms-script.md)** is treated as text.
+Data pasted into a **[TextBox](textbox-object-outlook-forms-script.md)** is treated as text.
 
 

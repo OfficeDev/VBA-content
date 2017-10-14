@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.GetMember Method (Outlook)
 
-Returns a  **[Recipient](recipient-object-outlook.md)** object representing a member in a distribution list.
+Returns a **[Recipient](recipient-object-outlook.md)** object representing a member in a distribution list.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns a  **[Recipient](recipient-object-outlook.md)** object representing a me
 
 ### Return Value
 
-A  **Recipient** object representing the specified member.
+A **Recipient** object representing the specified member.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example locates every distribution list in the default  **Contacts** folder and determines whether the list contains the current user.
+This Microsoft Visual Basic for Applications (VBA) example locates every distribution list in the default **Contacts** folder and determines whether the list contains the current user.
 
 
 ```vb

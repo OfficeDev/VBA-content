@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationPoint.Formula Property (PowerPoint)
 
-Returns or sets a  **String** that represents a formula to use for calculating an animation. Read/write.
+Returns or sets a **String** that represents a formula to use for calculating an animation. Read/write.
 
 
 ## Syntax

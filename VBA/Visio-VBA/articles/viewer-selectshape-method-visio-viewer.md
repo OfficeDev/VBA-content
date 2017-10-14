@@ -17,7 +17,7 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
 
  _expression_. **SelectShape**( **_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -37,7 +37,7 @@ Nothing
 
 The collection of shapes is one-based, so the first shape in the collection has index number 1.
 
-Passing 0 to the  **SelectShape** method deselects the currently selected shape.
+Passing 0 to the **SelectShape** method deselects the currently selected shape.
 
 
 ## Example

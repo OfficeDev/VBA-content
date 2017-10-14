@@ -29,11 +29,11 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](http://msdn.microsoft.com/library/9d362115-1979-d079-d7e5-2e7788da614b%28Office.15%29.aspx)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](http://msdn.microsoft.com/library/9d362115-1979-d079-d7e5-2e7788da614b%28Office.15%29.aspx)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the **3-D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
-This method sets the  **[PresetThreeDFormat](threedformat-presetthreedformat-property-excel.md)** property to the format specified by the _PresetThreeDFormat_ argument.
+This method sets the **[PresetThreeDFormat](threedformat-presetthreedformat-property-excel.md)** property to the format specified by the _PresetThreeDFormat_ argument.
 
 
 ## Example

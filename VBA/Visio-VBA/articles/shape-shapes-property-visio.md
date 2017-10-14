@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Shapes Property (Visio)
 
-Returns the  **Shapes** collection for a page, master, or group. Read-only.
+Returns the **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax

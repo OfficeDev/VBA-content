@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.KashidaPercentage Property (Publisher)
 
-Returns or sets a  **Long** indicating the percentage by which kashidas are to be lengthened for the specified paragraphs. Valid values are from 0 to 100. Read/write.
+Returns or sets a **Long** indicating the percentage by which kashidas are to be lengthened for the specified paragraphs. Valid values are from 0 to 100. Read/write.
 
 
 ## Syntax
 
  _expression_. **KashidaPercentage**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **[Alignment](paragraphformat-alignment-property-publisher.md)** property of the specified paragraphs must be set to **pbParagraphAlignmentKashida** or the **KashidaPercentage** property is ignored.
+The **[Alignment](paragraphformat-alignment-property-publisher.md)** property of the specified paragraphs must be set to **pbParagraphAlignmentKashida** or the **KashidaPercentage** property is ignored.
 
 
 ## Example

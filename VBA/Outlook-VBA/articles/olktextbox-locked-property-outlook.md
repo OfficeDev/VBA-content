@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.Locked Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
+Returns or sets a **Boolean** that specifies whether or not the control is locked from being changed. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether or not the control is lock
 
 ## Remarks
 
-The default value is  **False** .
+The default value is **False** .
 
 When the control is locked, the control does not have a "disabled" appearance, but the user cannot edit the contents of the control. 
 

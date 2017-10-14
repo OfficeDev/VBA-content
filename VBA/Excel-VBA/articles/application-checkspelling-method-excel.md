@@ -40,9 +40,9 @@ Checks the spelling of a single word.
 
 ## Remarks
 
-To check headers, footers, and objects on a worksheet, use this method on a  **[Worksheet](worksheet-object-excel.md)** object.
+To check headers, footers, and objects on a worksheet, use this method on a **[Worksheet](worksheet-object-excel.md)** object.
 
-To check only cells and notes, use this method with the object returned by the  **[Cells](application-cells-property-excel.md)** property.
+To check only cells and notes, use this method with the object returned by the **[Cells](application-cells-property-excel.md)** property.
 
 
 ## See also

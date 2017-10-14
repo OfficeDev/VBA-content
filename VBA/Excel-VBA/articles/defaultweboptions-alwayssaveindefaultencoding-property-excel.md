@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[Encoding](defaultweboptions-encoding-property-excel.md)** property can be used to set the default encoding.
+The **[Encoding](defaultweboptions-encoding-property-excel.md)** property can be used to set the default encoding.
 
 
 ## Example

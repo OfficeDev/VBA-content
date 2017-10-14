@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.UserName Property (Visio)
 
-Gets or sets the user name of an  **Application** object. Read/write.
+Gets or sets the user name of an **Application** object. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Setting the  **UserName** property is equivalent to entering a name in the **Name** box on the **General** tab in the **Visio Options** dialog box (click the **BackstageButton** tab, and then click **Options**).
+Setting the **UserName** property is equivalent to entering a name in the **Name** box on the **General** tab in the **Visio Options** dialog box (click the **BackstageButton** tab, and then click **Options**).
 
 

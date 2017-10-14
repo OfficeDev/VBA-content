@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Location Property (Excel)
 
-Gets or sets a  **String** that represents the top-left cell in the body of the specified **[PivotTable](pivottable-object-excel.md)** . Read/write.
+Gets or sets a **String** that represents the top-left cell in the body of the specified **[PivotTable](pivottable-object-excel.md)** . Read/write.
 
 
 ## Syntax

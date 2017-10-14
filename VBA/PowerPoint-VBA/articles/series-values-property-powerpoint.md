@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Values Property (PowerPoint)
 
-Returns or sets a collection of all the values in the series. Read/write  **Variant**.
+Returns or sets a collection of all the values in the series. Read/write **Variant**.
 
 
 ## Syntax

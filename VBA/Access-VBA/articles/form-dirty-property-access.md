@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Dirty Property (Access)
 
-You can use the  **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
+You can use the **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ You can use the  **Dirty** property to determine whether the current record has 
 
 For example, you may want to ask the user whether changes to a record were intended and, if not, allow the user to move to the next record without saving the changes. 
 
-When a record is saved, Microsoft Access sets the  **Dirty** property to **False**. When a user makes changes to a record, the property is set to **True**.
+When a record is saved, Microsoft Access sets the **Dirty** property to **False**. When a user makes changes to a record, the property is set to **True**.
 
 
 ## Example

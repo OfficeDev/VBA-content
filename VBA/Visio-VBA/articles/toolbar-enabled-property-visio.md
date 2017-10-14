@@ -30,9 +30,9 @@ Boolean
 
 ## Example
 
-This example shows how to use the  **Enabled** property to enable hiding or showing a toolbar. The example adds a custom toolbar to the **Toolbars** collection. This toolbar appears in the Visio user interface and is available while the document is active.
+This example shows how to use the **Enabled** property to enable hiding or showing a toolbar. The example adds a custom toolbar to the **Toolbars** collection. This toolbar appears in the Visio user interface and is available while the document is active.
 
-To restore the built-in Visio toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in Visio toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

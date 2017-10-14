@@ -36,7 +36,7 @@ The following examples describe how to:
 
 ## Example
 
-Use the [TextRange](http://msdn.microsoft.com/library/4a565e39-8bfa-7370-3ed6-57c442796144%28Office.15%29.aspx)property of the  **[TextFrame](textframe-object-powerpoint.md)** object to return a **TextRange** object for any shape you specify. Use the[Text](http://msdn.microsoft.com/library/c80c8b19-73e2-0820-abd6-c44f4b2644b2%28Office.15%29.aspx)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
+Use the [TextRange](http://msdn.microsoft.com/library/4a565e39-8bfa-7370-3ed6-57c442796144%28Office.15%29.aspx)property of the **[TextFrame](textframe-object-powerpoint.md)** object to return a **TextRange** object for any shape you specify. Use the[Text](http://msdn.microsoft.com/library/c80c8b19-73e2-0820-abd6-c44f4b2644b2%28Office.15%29.aspx)property to return the string of text in the **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
 
 
 ```
@@ -47,7 +47,7 @@ myDocument.Shapes.AddShape(msoShapeRectangle, 0, 0, 250, 140) _
     .TextFrame.TextRange.Text = "Here is some test text"
 ```
 
-Because the  **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
+Because the **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
 
 
 
@@ -64,7 +64,7 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
 Use the [HasTextFrame](http://msdn.microsoft.com/library/ea1a53e4-32d8-e51f-9e60-9ef719c0d973%28Office.15%29.aspx)property to determine whether a shape has a text frame, and use the [HasText](http://msdn.microsoft.com/library/7bce3bae-38e7-d9d4-b67c-9454fafc620f%28Office.15%29.aspx)property to determine whether the text frame contains text.
 
-Use the  **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
+Use the **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
 
 
 
@@ -73,11 +73,11 @@ Use the  **TextRange** property of the **Selection** object to return the curren
 ActiveWindow.Selection.TextRange.Copy
 ```
 
-Use one of the following methods to return a portion of the text of a  **TextRange** object: **[Characters](http://msdn.microsoft.com/library/019c15d3-349d-ab10-7448-70bf81176150%28Office.15%29.aspx)**, **[Lines](http://msdn.microsoft.com/library/8e9f344b-2e74-5a9d-06e8-3e6ff9ca6bd0%28Office.15%29.aspx)**, **[Paragraphs](http://msdn.microsoft.com/library/5062eccf-4db2-692f-501e-b7d214181171%28Office.15%29.aspx)**, **[Runs](http://msdn.microsoft.com/library/0bf2724a-0735-bd79-31e5-894d1320b9b2%28Office.15%29.aspx)**, **[Sentences](http://msdn.microsoft.com/library/c3640cb8-f78a-2934-bbe0-506cb8d2534c%28Office.15%29.aspx)**, or **[Words](http://msdn.microsoft.com/library/b8cd8dca-bf10-1041-dd9e-adc04b2df42d%28Office.15%29.aspx)**.
+Use one of the following methods to return a portion of the text of a **TextRange** object: **[Characters](http://msdn.microsoft.com/library/019c15d3-349d-ab10-7448-70bf81176150%28Office.15%29.aspx)**, **[Lines](http://msdn.microsoft.com/library/8e9f344b-2e74-5a9d-06e8-3e6ff9ca6bd0%28Office.15%29.aspx)**, **[Paragraphs](http://msdn.microsoft.com/library/5062eccf-4db2-692f-501e-b7d214181171%28Office.15%29.aspx)**, **[Runs](http://msdn.microsoft.com/library/0bf2724a-0735-bd79-31e5-894d1320b9b2%28Office.15%29.aspx)**, **[Sentences](http://msdn.microsoft.com/library/c3640cb8-f78a-2934-bbe0-506cb8d2534c%28Office.15%29.aspx)**, or **[Words](http://msdn.microsoft.com/library/b8cd8dca-bf10-1041-dd9e-adc04b2df42d%28Office.15%29.aspx)**.
 
 Use the [Find](http://msdn.microsoft.com/library/24186821-3a0a-efd5-c35a-8b553e00f92b%28Office.15%29.aspx)and [Replace](http://msdn.microsoft.com/library/046d1c3d-fd3e-7871-e31e-6529b77fcd60%28Office.15%29.aspx)methods to find and replace text in a text range.
 
-Use one of the following methods to insert characters into a  **TextRange** object:[InsertAfter](http://msdn.microsoft.com/library/2af4e134-c205-fbe6-a006-3fc1ca8d6a50%28Office.15%29.aspx), [InsertBefore](http://msdn.microsoft.com/library/fbadcecd-a31b-8c8d-3281-63d70286bcff%28Office.15%29.aspx), [InsertDateTime](http://msdn.microsoft.com/library/b1f6c2db-2524-f76e-eee2-8f177b08dcde%28Office.15%29.aspx), [InsertSlideNumber](http://msdn.microsoft.com/library/07489db8-9db1-9721-845a-7895ad316aca%28Office.15%29.aspx), or [InsertSymbol](http://msdn.microsoft.com/library/a424e011-1bfe-f690-cbc0-604f89718831%28Office.15%29.aspx).
+Use one of the following methods to insert characters into a **TextRange** object:[InsertAfter](http://msdn.microsoft.com/library/2af4e134-c205-fbe6-a006-3fc1ca8d6a50%28Office.15%29.aspx), [InsertBefore](http://msdn.microsoft.com/library/fbadcecd-a31b-8c8d-3281-63d70286bcff%28Office.15%29.aspx), [InsertDateTime](http://msdn.microsoft.com/library/b1f6c2db-2524-f76e-eee2-8f177b08dcde%28Office.15%29.aspx), [InsertSlideNumber](http://msdn.microsoft.com/library/07489db8-9db1-9721-845a-7895ad316aca%28Office.15%29.aspx), or [InsertSymbol](http://msdn.microsoft.com/library/a424e011-1bfe-f690-cbc0-604f89718831%28Office.15%29.aspx).
 
 
 ## Methods

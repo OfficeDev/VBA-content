@@ -33,7 +33,7 @@ String
 
 ## Remarks
 
-For shared workspace objects, the  **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object. The **SharedWorkspaceMember** object does not have a **ModifiedBy** property.
+For shared workspace objects, the **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object. The **SharedWorkspaceMember** object does not have a **ModifiedBy** property.
 
 
 ## See also

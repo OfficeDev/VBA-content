@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlCmdType Enumeration (Excel)
 
-Specifies the value of the  **CommandText** property.
+Specifies the value of the **CommandText** property.
 
 
 

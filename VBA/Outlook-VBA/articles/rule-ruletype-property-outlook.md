@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rule.RuleType Property (Outlook)
 
-Returns a constant from the  **[OlRuleType](olruletype-enumeration-outlook.md)** enumeration that indicates if the rule applies to messages that are being sent or received. Read-only.
+Returns a constant from the **[OlRuleType](olruletype-enumeration-outlook.md)** enumeration that indicates if the rule applies to messages that are being sent or received. Read-only.
 
 
 ## Syntax

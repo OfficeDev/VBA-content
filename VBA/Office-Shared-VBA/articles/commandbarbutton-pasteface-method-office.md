@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.PasteFace Method (Office)
 
-Pastes the contents of the Clipboard onto a  **CommandBarButton**.
+Pastes the contents of the Clipboard onto a **CommandBarButton**.
 
 
 ## 
@@ -31,7 +31,7 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
 ## Example
 
-This example finds the built-in  **FileOpen** button and pastes the face from the **Spelling** and **Grammar** button onto it from the Clipboard.
+This example finds the built-in **FileOpen** button and pastes the face from the **Spelling** and **Grammar** button onto it from the Clipboard.
 
 
 ```

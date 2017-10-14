@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureInfo.IsCertificateUntrusted Property (Office)
 
-Gets a  **Boolean** value indicating whether the digital certificate used to digitally sign a document comes from a trusted source. Read-only.
+Gets a **Boolean** value indicating whether the digital certificate used to digitally sign a document comes from a trusted source. Read-only.
 
 
 ## Syntax

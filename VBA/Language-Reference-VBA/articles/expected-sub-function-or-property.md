@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Expected Sub, Function, or Property
 
-The syntax of your statement indicates a  **Sub**, **Function**, or **Property** procedure invocation. This error has the following cause and solution:
+The syntax of your statement indicates a **Sub**, **Function**, or **Property** procedure invocation. This error has the following cause and solution:
 
 
 
-- The specified name isn't that of a  **Sub**, **Function**, or **Property** procedure in[scope](vbe-glossary.md) in this part of your program.
+- The specified name isn't that of a **Sub**, **Function**, or **Property** procedure in[scope](vbe-glossary.md) in this part of your program.
     
     Check the spelling of the name. Note that if the [procedure](vbe-glossary.md) is defined as **Private**, it can only be called from within its[module](vbe-glossary.md).
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintQuality Enumeration (Access)
 
-Used with the  **PrintOut** method to specify the print quality of a particular print job.
+Used with the **PrintOut** method to specify the print quality of a particular print job.
 
 
 

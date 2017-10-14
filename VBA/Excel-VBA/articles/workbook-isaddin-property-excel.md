@@ -25,16 +25,16 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When you set this property to  **True** , the workbook has the following characteristics:
+When you set this property to **True** , the workbook has the following characteristics:
 
 
 - You won't be prompted to save the workbook if changes are made while the workbook is open.
     
 - The workbook window won't be visible.
     
-- Any macros in the workbook won't be visible in the  **Macro** dialog box (displayed by pointing to **Macro** on the **Tools** menu and clicking **Macros** ).
+- Any macros in the workbook won't be visible in the **Macro** dialog box (displayed by pointing to **Macro** on the **Tools** menu and clicking **Macros** ).
     
-- Macros in the workbook can still be run from the  **Macro** dialog box even though they're not visible. In addition, macro names don't need to be qualified with the workbook name.
+- Macros in the workbook can still be run from the **Macro** dialog box even though they're not visible. In addition, macro names don't need to be qualified with the workbook name.
     
 - Holding down the SHIFT key when you open the workbook has no effect.
     

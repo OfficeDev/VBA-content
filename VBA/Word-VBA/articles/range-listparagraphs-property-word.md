@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListParagraphs Property (Word)
 
-Returns a  **ListParagraphs** collection that represents all the numbered paragraphs in the range. Read-only.
+Returns a **ListParagraphs** collection that represents all the numbered paragraphs in the range. Read-only.
 
 
 ## Syntax

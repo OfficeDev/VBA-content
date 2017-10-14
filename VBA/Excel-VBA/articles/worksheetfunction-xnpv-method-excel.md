@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.Xnpv Method (Excel)
 
-Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double** .
+Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write **Double** .
 
 
 ## Syntax
@@ -39,10 +39,10 @@ Double
 
 ## Remarks
 
-To calculate the net present value for a series of cash flows that is periodic, use the  **[Npv](worksheetfunction-npv-method-excel.md)** method.
+To calculate the net present value for a series of cash flows that is periodic, use the **[Npv](worksheetfunction-npv-method-excel.md)** method.
 
 
- **Important**  The  **Xnpv** method does not provide a parameter that corresponds to the _rate_ argument required by the corresponding **XNPV** function (=XNPV( **_rate_** , _values_ , _dates_ )). To work around this limitation in VBA code, instead of using the **Xpnv** method, call the **XNPV** function by using the **[Evaluate](application-evaluate-method-excel.md)** method as shown in the following example.
+ **Important**  The **Xnpv** method does not provide a parameter that corresponds to the _rate_ argument required by the corresponding **XNPV** function (=XNPV( **_rate_** , _values_ , _dates_ )). To work around this limitation in VBA code, instead of using the **Xpnv** method, call the **XNPV** function by using the **[Evaluate](application-evaluate-method-excel.md)** method as shown in the following example.
 
 
 ## Example

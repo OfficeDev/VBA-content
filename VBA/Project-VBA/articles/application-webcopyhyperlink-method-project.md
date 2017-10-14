@@ -30,6 +30,6 @@ Copies the hyperlink of the selected item to the Clipboard.
 
 ## Remarks
 
-The  **WebCopyHyperlink** method is unavailable if the selected item does not contain a hyperlink.
+The **WebCopyHyperlink** method is unavailable if the selected item does not contain a hyperlink.
 
 

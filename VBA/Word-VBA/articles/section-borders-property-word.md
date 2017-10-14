@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.Borders Property (Word)
 
-Returns a  **[Borders](borders-object-word.md)** collection that represents all the borders in the section.
+Returns a **[Borders](borders-object-word.md)** collection that represents all the borders in the section.
 
 
 ## Syntax

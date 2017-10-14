@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.ListBulletFontSize Property (Publisher)
 
-Sets or retrieves a  **Single** that represents the list bullet font size from the specified paragraphs. Read/write.
+Sets or retrieves a **Single** that represents the list bullet font size from the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **ListBulletFontSize**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -35,7 +35,7 @@ Returns an "Access Denied" message if the list is not a bulleted list.
 
 ## Example
 
-This example tests to see if the list type is a bulleted list. If it is, the  **ListFontSize** is set to 24 and the **ListBulletFontName** is set to "Verdana".
+This example tests to see if the list type is a bulleted list. If it is, the **ListFontSize** is set to 24 and the **ListBulletFontName** is set to "Verdana".
 
 
 ```vb

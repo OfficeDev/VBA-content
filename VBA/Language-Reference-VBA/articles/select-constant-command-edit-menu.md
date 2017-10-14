@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Select Constant Command (Edit Menu)
 
-Opens a dropdown list box in the  **Code** window that contains the valid constants for a property that you typed, and that preceded the equal sign (=). The **List** **Constants** command also works for functions with arguments that are constants. To have the list box automatically open as you type your code, select Auto List Members on the **Editor** tab in the **Options** dialog box.
+Opens a dropdown list box in the **Code** window that contains the valid constants for a property that you typed, and that preceded the equal sign (=). The **List** **Constants** command also works for functions with arguments that are constants. To have the list box automatically open as you type your code, select Auto List Members on the **Editor** tab in the **Options** dialog box.
 
 You can find the constant you want by:
 

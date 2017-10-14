@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (Excel)
 
-Returns a  **[FileDialog](http://msdn.microsoft.com/library/71a030f2-3b02-21e1-c156-0514ff5eddb7%28Office.15%29.aspx)** object representing an instance of the file dialog.
+Returns a **[FileDialog](http://msdn.microsoft.com/library/71a030f2-3b02-21e1-c156-0514ff5eddb7%28Office.15%29.aspx)** object representing an instance of the file dialog.
 
 
 ## Syntax

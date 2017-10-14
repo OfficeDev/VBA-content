@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScaleCriterion.Type Property (Excel)
 
-Returns one of the constants of the  **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)** enumeration, which specifies how the threshold values for a data bar or color scale conditional format are determined. Read-only.
+Returns one of the constants of the **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)** enumeration, which specifies how the threshold values for a data bar or color scale conditional format are determined. Read-only.
 
 
 ## Syntax

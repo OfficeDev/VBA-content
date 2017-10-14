@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.IsMaster Property (Publisher)
 
-Indicates whether the parent  **MailMergeDataSource** object is a master data source (a combination of all data sources connected to the current publication). Read-only.
+Indicates whether the parent **MailMergeDataSource** object is a master data source (a combination of all data sources connected to the current publication). Read-only.
 
 
 ## Syntax
 
  _expression_. **IsMaster**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

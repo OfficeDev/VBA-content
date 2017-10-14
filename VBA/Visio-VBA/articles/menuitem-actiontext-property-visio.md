@@ -33,18 +33,18 @@ String
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Action text is a string that describes the action on the  **Undo**,  **Redo**, and  **Repeat** menu items on the **Quick Access** toolbar.
+Action text is a string that describes the action on the **Undo**, **Redo**, and **Repeat** menu items on the **Quick Access** toolbar.
 
-If the  **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
+If the **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to set a menu item's  **ActionText** property. It also shows how to add a menu and menu item to the drawing window menu set. This example assumes that you already have a macro in the current Visual Basic project. Before running this macro, replace _macroname_ with the name of your macro.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to set a menu item's **ActionText** property. It also shows how to add a menu and menu item to the drawing window menu set. This example assumes that you already have a macro in the current Visual Basic project. Before running this macro, replace _macroname_ with the name of your macro.
 
  Beginning with Microsoft Visio 2002, the **AddOnName** property used in this example cannot execute a string that contains arbitrary Microsoft Visual Basic code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move it to a procedure in a document's Visual Basic project that is called from the **AddOnName** property, as shown in this example.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

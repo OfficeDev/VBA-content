@@ -30,12 +30,12 @@ Changes the validation error text displayed to a user for a specified node and f
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required| **WdXMLValidationStatus**|Specifies whether to set the validation status error text ( **wdXMLValidationStatusCustom** ) or to clear the validation status error text ( **wdXMLValidationStatusOK** ).|
-| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to  **wdXMLValidationStatusOK** .|
+| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to **wdXMLValidationStatusOK** .|
 | _ClearedAutomatically_|Optional| **Boolean**| **True** automatically clears the error message as soon as the next validation event occurs on the specified node. **False** requires running the **SetValidationError** method with a Status parameter of **wdXMLValidationStatusOK** to clear the custom error text.|
 
 ## Remarks
 
-To set custom error text, use the  **wdXMLValidationStatusCustom** constant.
+To set custom error text, use the **wdXMLValidationStatusCustom** constant.
 
 
 ## Example

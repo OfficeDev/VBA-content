@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideLeft Property (Excel)
 
-Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write  **Double** .
+Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the distance from the chart edge to the inside left edge of the plot are
 
 ## Remarks
 
-The plot area used for this measurement doesn't include the axis labels. The  **Left** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement doesn't include the axis labels. The **Left** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 
 ## Example

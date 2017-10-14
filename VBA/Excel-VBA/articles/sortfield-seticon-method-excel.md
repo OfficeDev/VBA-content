@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.SetIcon Method (Excel)
 
-Sets an icon for a  **SortField** object.
+Sets an icon for a **SortField** object.
 
 
 ## Syntax

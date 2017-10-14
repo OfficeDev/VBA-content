@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Build Property (Project)
 
-Gets the version and build number of Microsoft Project. Read-only  **String**.
+Gets the version and build number of Microsoft Project. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the version and build number of Microsoft Project. Read-only  **String**.
 
 ## Remarks
 
-For example, a  **Build** value of 15.0.4027 is for , where the major version is 15, the minor version is 0, and the build number is 4027.
+For example, a **Build** value of 15.0.4027 is for , where the major version is 15, the minor version is 0, and the build number is 4027.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.LayoutID Property (Access)
 
-Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified text box. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the unique identifier for the layout that contains the specified text bo
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
 ## See also

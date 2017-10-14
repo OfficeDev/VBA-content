@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.EnvelopeHide Event (Office)
 
-Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.
+Occurs when the user interface (UI) that corresponds to the **MsoEnvelope** object is hidden.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** obj
 
 ## Remarks
 
-The  **MsoEnvelope** object provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
+The **MsoEnvelope** object provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
 
 
 ## Example
 
-The following example sets up event-handling routines for the  **MsoEnvelope** object.
+The following example sets up event-handling routines for the **MsoEnvelope** object.
 
 
 ```

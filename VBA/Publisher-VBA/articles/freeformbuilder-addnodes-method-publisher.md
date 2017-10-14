@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FreeformBuilder.AddNodes Method (Publisher)
 
-Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the  **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the freeform you just defined.
+Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the freeform you just defined.
 
 
 ## Syntax
 
- _expression_. **AddNodes**( **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
+ _expression_. **AddNodes**( **_SegmentType_**, **_EditingType_**, **_X1_**, **_Y1_**, **_X2_**, **_Y2_**, **_X3_**, **_Y3_**)
 
- _expression_A variable that represents a  **FreeformBuilder** object.
+ _expression_A variable that represents a **FreeformBuilder** object.
 
 
 ### Parameters
@@ -30,23 +30,23 @@ Inserts a new segment at the end of the freeform that is being created, and adds
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |SegmentType|Required| **MsoSegmentType**|The type of segment to be added.|
-|EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node. If SegmentType is  **msoSegmentLine**, EditingType must be  **msoEditingAuto**; otherwise, an error occurs.|
-|X1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
-|Y1|Required| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
-|X2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y2|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|X3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
-|Y3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
+|EditingType|Required| **MsoEditingType**|Specifies the editing type of the new node. If SegmentType is **msoSegmentLine**, EditingType must be **msoEditingAuto**; otherwise, an error occurs.|
+|X1|Required| **Variant**|If the EditingType of the new segment is **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
+|Y1|Required| **Variant**|If the EditingType of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new node is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
+|X2|Optional| **Variant**|If the EditingType of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|Y2|Optional| **Variant**|If the EditingType of the new segment is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment. If the EditingType of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|X3|Optional| **Variant**|If the EditingType of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|Y3|Optional| **Variant**|If the EditingType of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
 
 ## Remarks
 
-SegmentType can be one of these  **MsoSegmentType** constants.
+SegmentType can be one of these **MsoSegmentType** constants.
 
 
 
 | **msoSegmentCurve**|
 | **msoSegmentLine**|
-EditingType can be one of these  **MsoEditingType** constants.
+EditingType can be one of these **MsoEditingType** constants.
 
 
 
@@ -54,7 +54,7 @@ EditingType can be one of these  **MsoEditingType** constants.
 | **msoEditingCorner**|Adds a corner node.|
 For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-To add nodes to a freeform after iit is created, use the  **[Insert](shapenodes-insert-method-publisher.md)** method of the  **[ShapeNodes](shapenodes-object-publisher.md)** collection.
+To add nodes to a freeform after iit is created, use the **[Insert](shapenodes-insert-method-publisher.md)** method of the **[ShapeNodes](shapenodes-object-publisher.md)** collection.
 
 
 ## Example

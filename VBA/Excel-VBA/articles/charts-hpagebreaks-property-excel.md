@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Charts.HPageBreaks Property (Excel)
 
-Returns an  **[HPageBreaks](hpagebreaks-object-excel.md)** collection that represents the horizontal page breaks on the chart. Read-only.
+Returns an **[HPageBreaks](hpagebreaks-object-excel.md)** collection that represents the horizontal page breaks on the chart. Read-only.
 
 
 ## Syntax

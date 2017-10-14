@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Colors Property (Visio)
 
-Returns the  **Colors** collection of a **Document** object. Read-only.
+Returns the **Colors** collection of a **Document** object. Read-only.
 
 
 ## Syntax

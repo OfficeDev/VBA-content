@@ -15,7 +15,7 @@ Occurs when a View Control becomes the active element on the page, either as a r
 
  _expression_. **Activate**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

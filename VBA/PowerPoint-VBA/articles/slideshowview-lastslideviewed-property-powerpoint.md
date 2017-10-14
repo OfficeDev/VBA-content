@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowView.LastSlideViewed Property (PowerPoint)
 
-Returns a  **[Slide](slide-object-powerpoint.md)** object that represents the slide viewed immediately before the current slide in the specified slide show view.
+Returns a **[Slide](slide-object-powerpoint.md)** object that represents the slide viewed immediately before the current slide in the specified slide show view.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveTheme Property (Word)
 
-Returns the name of the active theme plus the theme formatting options for the specified document. Read-only  **String** .
+Returns the name of the active theme plus the theme formatting options for the specified document. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the name of the active theme plus the theme formatting options for the s
 
 ## Remarks
 
-The  **ActiveTheme** property returns "none" if the document doesn't have an active theme. For an explanation of the value returned by this property, see the Name argument of the **[ApplyTheme](document-applytheme-method-word.md)** method. The value returned by this property may not correspond to the theme's display name. To return a theme's display name, use the **[ActiveThemeDisplayName](document-activethemedisplayname-property-word.md)** property.
+The **ActiveTheme** property returns "none" if the document doesn't have an active theme. For an explanation of the value returned by this property, see the Name argument of the **[ApplyTheme](document-applytheme-method-word.md)** method. The value returned by this property may not correspond to the theme's display name. To return a theme's display name, use the **[ActiveThemeDisplayName](document-activethemedisplayname-property-word.md)** property.
 
 
 ## Example

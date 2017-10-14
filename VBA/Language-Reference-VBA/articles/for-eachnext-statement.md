@@ -21,7 +21,7 @@ Repeats a group of [statements](vbe-glossary.md) for each element in an[array](v
  [ _statements_ ]
 
  **Next** [ _element_ ]
-The  **For...Each...Next** statement syntax has these parts:
+The **For...Each...Next** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -30,17 +30,17 @@ The  **For...Each...Next** statement syntax has these parts:
 | _group_|Required. Name of an object collection or array (except an array of [user-defined types](vbe-glossary.md)).|
 | _statements_|Optional. One or more statements that are executed on each item in  _group_.|
  **Remarks**
-The  **For…Each** block is entered if there is at least one element in _group_. Once the loop has been entered, all the statements in the loop are executed for the first element in _group_. If there are more elements in _group_, the statements in the loop continue to execute for each element. When there are no more elements in _group_, the loop is exited and execution continues with the statement following the **Next** statement.
-Any number of  **Exit For** statements may be placed anywhere in the loop as an alternative way to exit. **Exit For** is often used after evaluating some condition, for example **If…Then**, and transfers control to the statement immediately following **Next**.
-You can nest  **For...Each...Next** loops by placing one **For…Each…Next** loop within another. However, each loop _element_ must be unique.
+The **For…Each** block is entered if there is at least one element in _group_. Once the loop has been entered, all the statements in the loop are executed for the first element in _group_. If there are more elements in _group_, the statements in the loop continue to execute for each element. When there are no more elements in _group_, the loop is exited and execution continues with the statement following the **Next** statement.
+Any number of **Exit For** statements may be placed anywhere in the loop as an alternative way to exit. **Exit For** is often used after evaluating some condition, for example **If…Then**, and transfers control to the statement immediately following **Next**.
+You can nest **For...Each...Next** loops by placing one **For…Each…Next** loop within another. However, each loop _element_ must be unique.
 
  **Note**  If you omit  _element_ in a **Next** statement, execution continues as if _element_ is included. If a **Next** statement is encountered before its corresponding **For** statement, an error occurs.
 
-You can't use the  **For...Each...Next** statement with an array of user-defined types because a **Variant** can't contain a user-defined type.
+You can't use the **For...Each...Next** statement with an array of user-defined types because a **Variant** can't contain a user-defined type.
 
 ## Example
 
-This example uses the  **For Each...Next** statement to search the **Text** property of all elements in a collection for the existence of the string "Hello". In the example, `MyObject` is a text-related object and is an element of the collection `MyCollection`. Both are generic names used for illustration purposes only.
+This example uses the **For Each...Next** statement to search the **Text** property of all elements in a collection for the existence of the string "Hello". In the example, `MyObject` is a text-related object and is an element of the collection `MyCollection`. Both are generic names used for illustration purposes only.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Visible Property (Excel)
 
-Returns or sets an  **[XlSheetVisibility](xlsheetvisibility-enumeration-excel.md)** value that determines whether the object is visible.
+Returns or sets an **[XlSheetVisibility](xlsheetvisibility-enumeration-excel.md)** value that determines whether the object is visible.
 
 
 ## Syntax

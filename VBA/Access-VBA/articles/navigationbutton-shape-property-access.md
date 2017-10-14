@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.Shape Property (Access)
 
-Returns or sets the shape of the specifiednavigation button. Read/write  **Long**.
+Returns or sets the shape of the specifiednavigation button. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the shape of the specifiednavigation button. Read/write  **Long*
 
 ## Remarks
 
-The  **Shape** property uses the following settings.
+The **Shape** property uses the following settings.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.Undo Method (Access)
 
-You can use the  **Undo** method to reset a control or form when its value has been changed.
+You can use the **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ You can use the  **Undo** method to reset a control or form when its value has b
 
 ## Remarks
 
-For example, you can use the  **Undo** method to clear a change to a record that contains an invalid entry.
+For example, you can use the **Undo** method to clear a change to a record that contains an invalid entry.
 
-If the  **Undo** method is applied to a form, all changes to the current record are lost. If the **Undo** method is applied to a control, only the control itself is affected.
+If the **Undo** method is applied to a form, all changes to the current record are lost. If the **Undo** method is applied to a control, only the control itself is affected.
 
-This method must be applied before the form or control is updated. You may want to include this method in a form's  **BeforeUpdate** event or in a control's **Change** event.
+This method must be applied before the form or control is updated. You may want to include this method in a form's **BeforeUpdate** event or in a control's **Change** event.
 
-The  **Undo** method offers an alternative to using the **SendKeys** statement to send the value of the ESC key in an event procedure.
+The **Undo** method offers an alternative to using the **SendKeys** statement to send the value of the ESC key in an event procedure.
 
 
 ## Example
 
-The following example shows how you can use the  **Undo** method within a control's **Change** event procedure to force a field named LastName to reset to its original value, if it changed.
+The following example shows how you can use the **Undo** method within a control's **Change** event procedure to force a field named LastName to reset to its original value, if it changed.
 
 
 ```vb
@@ -45,7 +45,7 @@ Private Sub LastName_Change()
 End Sub
 ```
 
-The next example uses the  **Undo** method to reset all changes to a form before the form is updated.
+The next example uses the **Undo** method to reset all changes to a form before the form is updated.
 
 
 

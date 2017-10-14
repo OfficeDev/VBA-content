@@ -42,7 +42,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 | **msoSendBackward**|
 | **msoSendBehindText** . Used only in Microsoft Word.|
 | **msoSendToBack**|
-Use the  **[ZOrderPosition](shaperange-zorderposition-property-excel.md)** property to determine a shape's current position in the z-order.
+Use the **[ZOrderPosition](shaperange-zorderposition-property-excel.md)** property to determine a shape's current position in the z-order.
 
 
 ## Example

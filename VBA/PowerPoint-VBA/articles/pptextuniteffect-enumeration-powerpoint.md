@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpTextUnitEffect Enumeration (PowerPoint)
 
-Constants that specify how text-unit effects are animated, passed to and returned by the  **TextUnitEffect** property of the **AnimationSettings** object.
+Constants that specify how text-unit effects are animated, passed to and returned by the **TextUnitEffect** property of the **AnimationSettings** object.
 
 
 

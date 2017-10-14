@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UndoRecord.CustomRecordLevel Property (Word)
 
-Returns a  **Long** that specifies the number of custom undo action calls that are currently active. Read-only.
+Returns a **Long** that specifies the number of custom undo action calls that are currently active. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InlineShapes.Item Method (Publisher)
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents an inline shape contained in a text range. This method is the default member of the **InlineShapes** collection.
+Returns a **[Shape](shape-object-publisher.md)** object that represents an inline shape contained in a text range. This method is the default member of the **InlineShapes** collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents an  **InlineShapes** object.
+ _expression_A variable that represents an **InlineShapes** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[Shape](shape-object-publisher.md)** object that represents an inli
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|var|Required| **Variant**|The index position or name of the object to return. If  **Index** is an integer, the index into the collection is 1-based. If **Index** is a string, the name of the shape is used as the index. An automation error is returned if the index or name does not represent a shape in the collection.|
+|var|Required| **Variant**|The index position or name of the object to return. If **Index** is an integer, the index into the collection is 1-based. If **Index** is a string, the name of the shape is used as the index. An automation error is returned if the index or name does not represent a shape in the collection.|
 
 ### Return Value
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskGroups2.Copy Method (Project)
 
-Makes a copy of a group definition for the  **TaskGroups2** collection and returns a reference to the **[Group2](group2-object-project.md)** object.
+Makes a copy of a group definition for the **TaskGroups2** collection and returns a reference to the **[Group2](group2-object-project.md)** object.
 
 
 ## Syntax

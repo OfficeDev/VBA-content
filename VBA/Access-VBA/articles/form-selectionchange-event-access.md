@@ -35,7 +35,7 @@ The user cannot cancel this event.
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **SelectionChange** event.
+The following example demonstrates the syntax for a subroutine that traps the **SelectionChange** event.
 
 
 ```vb

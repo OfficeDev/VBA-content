@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.CopyTo Method (Outlook)
 
-Copies the  **[AppointmentItem](appointmentitem-object-outlook.md)** to the folder that is specified by the _DestinationFolder_ parameter and returns an object that represents the item created in the destination folder by the copy operation.
+Copies the **[AppointmentItem](appointmentitem-object-outlook.md)** to the folder that is specified by the _DestinationFolder_ parameter and returns an object that represents the item created in the destination folder by the copy operation.
 
 
 ## Syntax
@@ -29,12 +29,12 @@ Copies the  **[AppointmentItem](appointmentitem-object-outlook.md)** to the fold
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **[Folder](folder-object-outlook.md)**|Specifies the folder to which the  **AppointmentItem** object is copied.|
+| _DestinationFolder_|Required| **[Folder](folder-object-outlook.md)**|Specifies the folder to which the **AppointmentItem** object is copied.|
 | _CopyOptions_|Required| **[OlAppointmentCopyOptions](olappointmentcopyoptions-enumeration-outlook.md)**|Specifies the user experience of the copy operation.|
 
 ### Return Value
 
-Returns an  **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
+Returns an **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
 
 
 ## Remarks

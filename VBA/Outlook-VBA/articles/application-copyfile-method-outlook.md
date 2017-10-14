@@ -34,12 +34,12 @@ Copies a file from a specified location into a Microsoft Outlook store.
 
 ### Return Value
 
-An  **Object** value that represents the copied file.
+An **Object** value that represents the copied file.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a Microsoft Excel worksheet called 'MyExcelDoc.xlsx' and then copies it from the user's hard drive to the user's  **Inbox**. 
+The following Visual Basic for Applications (VBA) example creates a Microsoft Excel worksheet called 'MyExcelDoc.xlsx' and then copies it from the user's hard drive to the user's **Inbox**. 
 
 
 ```vb

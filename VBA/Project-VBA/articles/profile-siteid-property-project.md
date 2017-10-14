@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Profile.SiteId Property (Project)
-Gets the GUID of the Project Web App instance for the active profile. Read-only  **String**.
+Gets the GUID of the Project Web App instance for the active profile. Read-only **String**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the GUID of the Project Web App instance for the active profile. Read-only 
 
 ## Remarks
 
-If the active profile is for the local computer, the  **SiteId** property is an empty string.
+If the active profile is for the local computer, the **SiteId** property is an empty string.
 
 
 ## Example

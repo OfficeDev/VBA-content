@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.CCList Property (Word)
 
-Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example displays the CC list text for the active document.
 MsgBox ActiveDocument.GetLetterContent.CCList
 ```
 
-This example creates a new  **LetterContent** object, sets the courtesy copies by setting the CClist property, and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
+This example creates a new **LetterContent** object, sets the courtesy copies by setting the CClist property, and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
 
 
 

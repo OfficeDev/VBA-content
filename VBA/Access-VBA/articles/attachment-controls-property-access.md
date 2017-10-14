@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Controls Property (Access)
 
-Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
+Returns the **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PageRangeCells Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents only the cells in the specified PivotTable report that contain the page fields and item drop-down lists.
+Returns a **[Range](range-object-excel.md)** object that represents only the cells in the specified PivotTable report that contain the page fields and item drop-down lists.
 
 
 ## Syntax

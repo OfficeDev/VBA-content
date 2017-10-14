@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # MappedDataFields Object (Word)
 
-A collection of  **MappedDataField** objects that represents all the mapped data fields available in Microsoft Word.
+A collection of **MappedDataField** objects that represents all the mapped data fields available in Microsoft Word.
 
 
 ## Remarks
 
-Use the  **MappedDataFields** property of the **MailMergeDataSource** object to return the **MappedDataFields** collection. This example creates a tabbed list of the mapped data fields available in Word and the fields in the data source to which they are mapped. This example assumes that the current document is a mail merge document and that the data source fields have corresponding mapped data fields.
+Use the **MappedDataFields** property of the **MailMergeDataSource** object to return the **MappedDataFields** collection. This example creates a tabbed list of the mapped data fields available in Word and the fields in the data source to which they are mapped. This example assumes that the current document is a mail merge document and that the data source fields have corresponding mapped data fields.
 
 
 ```vb

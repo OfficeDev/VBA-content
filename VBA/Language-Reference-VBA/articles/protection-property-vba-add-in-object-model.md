@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a value indicating the state of protection of a [project](vbe-glossary.md). Read-only.
  **Return Values**
-The  **Protection** property return values are:
+The **Protection** property return values are:
 
 
 |**Constant**|**Description**|

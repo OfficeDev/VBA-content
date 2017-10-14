@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Value Property (Project)
-Gets an individual  **Shape** object in the **ShapeRange** collection. Read-only **Shape**.
+Gets an individual **Shape** object in the **ShapeRange** collection. Read-only **Shape**.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ Gets an individual  **Shape** object in the **ShapeRange** collection. Read-only
 
 ## Example
 
-The following example creates a report named "Test Report", creates two shapes, and then adds the shapes to a  **ShapeRange** object. The statement that begins with `sRange.Value(1)` gets the first shape in the shape range. The statement that begins with `sRange(2)` invokes the default **Value** property and gets the second shape in the shape range.
+The following example creates a report named "Test Report", creates two shapes, and then adds the shapes to a **ShapeRange** object. The statement that begins with `sRange.Value(1)` gets the first shape in the shape range. The statement that begins with `sRange(2)` invokes the default **Value** property and gets the second shape in the shape range.
 
 
 ```vb

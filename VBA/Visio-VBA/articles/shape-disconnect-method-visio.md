@@ -50,10 +50,10 @@ Unglues the specified connector end points and offsets them the specified amount
 | **visConnectorBeginPoint**|0|The begin point of the connector.|
 | **visConnectorEndPoint**|1|The end point of the connector.|
 | **visConnectorBothEnds**|2|Both the begin and the end point of the connector.|
-When you call  **Disconnect** on a connector shape (a 1-D routable shape), one or both endpoints of the connector are unglued from their target shapes, based on the specified _ConnectorEnd_ parameter value. If a specified endpoint is not glued, Microsoft Visio takes no action.
+When you call **Disconnect** on a connector shape (a 1-D routable shape), one or both endpoints of the connector are unglued from their target shapes, based on the specified _ConnectorEnd_ parameter value. If a specified endpoint is not glued, Microsoft Visio takes no action.
 
 Visio offsets the endpoint(s) from their current position by the amount specified by  _OffsetX_ , _OffsetY_ , and _Units_ . Offset values of 0 mean that the endpoints do not move.
 
-The  **Disconnect** method does not apply to non-connector shapes. If you call **Disconnect** on a non-connector shape or on a shape in a master, Visio returns an Invalid Source error.
+The **Disconnect** method does not apply to non-connector shapes. If you call **Disconnect** on a non-connector shape or on a shape in a master, Visio returns an Invalid Source error.
 
 

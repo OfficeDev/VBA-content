@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ReadingLayoutSizeY Property (Word)
 
-Sets or returns a  **Long** that represents the height of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
+Sets or returns a **Long** that represents the height of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **Long** that represents the height of pages in a document wh
 
 ## Remarks
 
-After setting the  **[ReadingLayoutSizeX](document-readinglayoutsizex-property-word.md)** and **ReadingLayoutSizeY** properties, use the **[ReadingModeLayoutFrozen](document-readingmodelayoutfrozen-property-word.md)** property to display the page using the specified height and width. Use the **[ReadingLayout](view-readinglayout-property-word.md)** property to display a document in reading layout view.
+After setting the **[ReadingLayoutSizeX](document-readinglayoutsizex-property-word.md)** and **ReadingLayoutSizeY** properties, use the **[ReadingModeLayoutFrozen](document-readingmodelayoutfrozen-property-word.md)** property to display the page using the specified height and width. Use the **[ReadingLayout](view-readinglayout-property-word.md)** property to display a document in reading layout view.
 
 
 ## Example

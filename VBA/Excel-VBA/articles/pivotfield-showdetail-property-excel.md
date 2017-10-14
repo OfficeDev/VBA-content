@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ShowDetail Property (Excel)
 
-Gets or sets whether the specified  **[PivotField](pivotfield-object-excel.md)** is showing detail. Read/write **Boolean** .
+Gets or sets whether the specified **[PivotField](pivotfield-object-excel.md)** is showing detail. Read/write **Boolean** .
 
 
 ## Syntax

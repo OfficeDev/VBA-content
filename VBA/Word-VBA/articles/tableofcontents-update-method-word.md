@@ -25,7 +25,7 @@ Updates the entries shown in a table of contents.
 
 ## Remarks
 
-Use the  **UpdatePageNumbers** method to update the page numbers of items in a table of contents.
+Use the **UpdatePageNumbers** method to update the page numbers of items in a table of contents.
 
 
 ## See also

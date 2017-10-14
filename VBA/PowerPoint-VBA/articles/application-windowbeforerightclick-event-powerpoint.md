@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WindowBeforeRightClick Event (PowerPoint)
 
-Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the  **MouseUp** event.
+Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the **MouseUp** event.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Occurs when you right-click a shape, a slide, a notes page, or some text. This e
 
 ## Example
 
-This example creates a duplicate of the selected shape. If the shape has a text frame, it adds the text "Duplicate Shape" to the new shape. Setting the Cancel argument to  **True** then prevents the default context menu from appearing.
+This example creates a duplicate of the selected shape. If the shape has a text frame, it adds the text "Duplicate Shape" to the new shape. Setting the Cancel argument to **True** then prevents the default context menu from appearing.
 
 
 ```vb

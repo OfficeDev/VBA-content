@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStops2.Item Method (Office)
 
-Gets an individual object from the  **TabStops2** collection.
+Gets an individual object from the **TabStops2** collection.
 
 
 ## Syntax

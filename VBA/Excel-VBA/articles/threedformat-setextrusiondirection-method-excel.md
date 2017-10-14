@@ -46,7 +46,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 | **msoExtrusionTopLeft**|
 | **msoExtrusionTopRight**|
 | **msoPresetExtrusionDirectionMixed**|
-This method sets the  **[PresetExtrusionDirection](threedformat-presetextrusiondirection-property-excel.md)** property to the direction specified by the _PresetExtrusionDirection_ argument.
+This method sets the **[PresetExtrusionDirection](threedformat-presetextrusiondirection-property-excel.md)** property to the direction specified by the _PresetExtrusionDirection_ argument.
 
 
 ## Example

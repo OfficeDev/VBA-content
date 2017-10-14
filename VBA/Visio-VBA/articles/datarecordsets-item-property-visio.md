@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordsets.Item Property (Visio)
 
-Returns the  **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
+Returns the **DataRecordset** object at the specified index position in the **DataRecordsets** collection. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -43,7 +43,7 @@ DataRecordset
 
  **Item** is the default property of the **DataRecordsets** collection.
 
-When you retrieve objects from a collection, you can omit  **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
+When you retrieve objects from a collection, you can omit **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
 
 
 

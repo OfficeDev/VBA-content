@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Import or Export a Control Toolbox Page
 
-1. If the  **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
+1. If the **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
 ![](./images/0548_ZA06045100.gif) **Control Toolbox**. 
     
-2. To import a page, right-click the label of any page in the  **Control Toolbox**, and then click  **Import Page**. To export a page, right-click the label of the page, and then click  **Export Page**.
+2. To import a page, right-click the label of any page in the **Control Toolbox**, and then click **Import Page**. To export a page, right-click the label of the page, and then click **Export Page**.
     
-3. In the  **File name** box, type the name of the page that you want to import, or type the name of the file to which you want to export the page.
+3. In the **File name** box, type the name of the page that you want to import, or type the name of the file to which you want to export the page.
     
 
- **Note**  Exporting a page does not remove it from the  **Control Toolbox**.
+ **Note**  Exporting a page does not remove it from the **Control Toolbox**.
 
 

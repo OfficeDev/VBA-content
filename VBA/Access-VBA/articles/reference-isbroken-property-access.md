@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reference.IsBroken Property (Access)
 
-The  **IsBroken** property returns a **Boolean** value indicating whether a **[Reference](reference-object-access.md)** object points to a valid reference in the Windows Registry. Read-only **Boolean**.
+The **IsBroken** property returns a **Boolean** value indicating whether a **[Reference](reference-object-access.md)** object points to a valid reference in the Windows Registry. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ The  **IsBroken** property returns a **Boolean** value indicating whether a **[R
 
 ## Remarks
 
-The default value of the  **IsBroken** property is **False**. The **IsBroken** property returns **True** only if the **Reference** object no longer points to a valid reference in the Registry.
+The default value of the **IsBroken** property is **False**. The **IsBroken** property returns **True** only if the **Reference** object no longer points to a valid reference in the Registry.
 
-By evaluating the  **IsBroken** property, you can determine whether or not the file associated with a particular **Reference** object has been moved to a different directory or deleted.
+By evaluating the **IsBroken** property, you can determine whether or not the file associated with a particular **Reference** object has been moved to a different directory or deleted.
 
-If the  **IsBroken** property is **True**, Microsoft Access generates an error when you try to read the **Name** or **FullPath** properties.
+If the **IsBroken** property is **True**, Microsoft Access generates an error when you try to read the **Name** or **FullPath** properties.
 
 
 ## Example
 
-The following example prints the value of the  **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
+The following example prints the value of the **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
 
 
 ```vb

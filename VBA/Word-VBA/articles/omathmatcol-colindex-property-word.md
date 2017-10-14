@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCol.ColIndex Property (Word)
 
-Returns a  **Long** that represents the ordinal position of a column within the collection of columns in a matrix. Read-only.
+Returns a **Long** that represents the ordinal position of a column within the collection of columns in a matrix. Read-only.
 
 
 ## Syntax

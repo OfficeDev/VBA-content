@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.DisplayName Property (Outlook)
 
-Returns or sets a  **String** representing the name, which does not need to be the actual file name, displayed below the icon representing the embedded attachment. Read/write.
+Returns or sets a **String** representing the name, which does not need to be the actual file name, displayed below the icon representing the embedded attachment. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** representing the name, which does not need to be t
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayName** .
+This property corresponds to the MAPI property **PidTagDisplayName** .
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Attachment.SaveAsFile](attachment-saveasfile-method-outlook.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
+This Visual Basic for Applications (VBA) example uses the **[Attachment.SaveAsFile](attachment-saveasfile-method-outlook.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
 
 
 ```vb

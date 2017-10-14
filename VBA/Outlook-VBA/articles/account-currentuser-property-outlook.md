@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.CurrentUser Property (Outlook)
 
-Returns a  **[Recipient](recipient-object-outlook.md)** object that represents the current user identity for the account. Read-only.
+Returns a **[Recipient](recipient-object-outlook.md)** object that represents the current user identity for the account. Read-only.
 
 
 ## Syntax

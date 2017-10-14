@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.Delete Method (Project)
 
-Deletes the  **OutlineCode** object from an **OutlineCodes** collection.
+Deletes the **OutlineCode** object from an **OutlineCodes** collection.
 
 
 ## Syntax

@@ -19,14 +19,14 @@ Represents the advanced print settings for a publication.
 
 ## Remarks
 
-The properties of the  **AdvancedPrintOptions** object correspond to the options available on the tabs of the **Advanced Print Settings** dialog box.
+The properties of the **AdvancedPrintOptions** object correspond to the options available on the tabs of the **Advanced Print Settings** dialog box.
  
 
  
 
 ## Example
 
-Use the  **AdvancedPrintOptions** property of the **Document** object to return an **AdvancedPrintOptions** object. The following example tests to determine if the active publication has been set to print as separations. If it has, it is set to print only plates for the inks actually used in the publication, and to not print plates for any pages where a color is not used.
+Use the **AdvancedPrintOptions** property of the **Document** object to return an **AdvancedPrintOptions** object. The following example tests to determine if the active publication has been set to print as separations. If it has, it is set to print only plates for the inks actually used in the publication, and to not print plates for any pages where a color is not used.
  
 
  

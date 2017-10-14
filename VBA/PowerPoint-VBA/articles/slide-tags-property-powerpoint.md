@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.Tags Property (PowerPoint)
 
-Returns a  **[Tags](tags-object-powerpoint.md)** object that represents the tags for the specified object. Read-only.
+Returns a **[Tags](tags-object-powerpoint.md)** object that represents the tags for the specified object. Read-only.
 
 
 ## Syntax

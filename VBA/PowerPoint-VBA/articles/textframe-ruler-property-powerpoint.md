@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Ruler Property (PowerPoint)
 
-Returns a  **[Ruler](ruler-object-powerpoint.md)** object that represents the ruler for the specified text. Read-only.
+Returns a **[Ruler](ruler-object-powerpoint.md)** object that represents the ruler for the specified text. Read-only.
 
 
 ## Syntax

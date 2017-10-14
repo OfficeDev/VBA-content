@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProgressLines Method (Project)
 
-Displays the  **Progress Lines** dialog box.
+Displays the **Progress Lines** dialog box.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Displays the  **Progress Lines** dialog box.
 
 ## Remarks
 
-The  **ProgressLines** method has no effect if the active view is not a Gantt view.
+The **ProgressLines** method has no effect if the active view is not a Gantt view.
 
-The  **ProgressLines** method is equivalent to the **Progress Lines** command in the **Gridlines** drop-down list, which is in the **Format** group on the **Gantt Chart Tools** tab of the Ribbon.
+The **ProgressLines** method is equivalent to the **Progress Lines** command in the **Gridlines** drop-down list, which is in the **Format** group on the **Gantt Chart Tools** tab of the Ribbon.
 
 

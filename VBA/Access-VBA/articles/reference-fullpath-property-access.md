@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reference.FullPath Property (Access)
 
-The  **FullPath** property returns a string containing the path and file name of the referenced type library.
+The **FullPath** property returns a string containing the path and file name of the referenced type library.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ The  **FullPath** property returns a string containing the path and file name of
 
 ## Remarks
 
-If the  **[IsBroken](reference-isbroken-property-access.md)** property setting of a **Reference** object is **True**, reading the **FullPath** property generates an error.
+If the **[IsBroken](reference-isbroken-property-access.md)** property setting of a **Reference** object is **True**, reading the **FullPath** property generates an error.
 
 
 ## Example
 
-The following example prints the value of the  **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
+The following example prints the value of the **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Chart Property (PowerPoint)
 
-Returns a  **Chart** object of the current **Shape** object. Read-only.
+Returns a **Chart** object of the current **Shape** object. Read-only.
 
 
 ## Syntax

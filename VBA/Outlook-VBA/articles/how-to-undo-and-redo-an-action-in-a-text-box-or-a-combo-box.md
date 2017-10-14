@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Undo and Redo an Action in a Text Box or a Combo Box
 
-The following example demonstrates how to undo or redo text editing within a  **[TextBox](textbox-object-outlook-forms-script.md)** or within the text area of a **[ComboBox](combobox-object-outlook-forms-script.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the  **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
+The following example demonstrates how to undo or redo text editing within a **[TextBox](textbox-object-outlook-forms-script.md)** or within the text area of a **[ComboBox](combobox-object-outlook-forms-script.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- Two  **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 and CommandButton2.
+- Two **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 and CommandButton2.
     
 
 

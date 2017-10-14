@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.CanCheckOut Method (PowerPoint)
 
-Returns  **True** if Microsoft PowerPoint can check out a specified presentation from a server.
+Returns **True** if Microsoft PowerPoint can check out a specified presentation from a server.
 
 
 ## Syntax

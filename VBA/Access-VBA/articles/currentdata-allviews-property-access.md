@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentData.AllViews Property (Access)
 
-You can use the  **AllViews** property to reference the **[AllViews](allviews-object-access.md)** collection and its related properties. Read-only **AllViews** object.
+You can use the **AllViews** property to reference the **[AllViews](allviews-object-access.md)** collection and its related properties. Read-only **AllViews** object.
 
 
 ## Syntax

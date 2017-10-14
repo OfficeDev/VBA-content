@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextFrame2 Property (Word)
 
-Returns a  **TextFrame2** object that contains the text for the specified shape. Read-only.
+Returns a **TextFrame2** object that contains the text for the specified shape. Read-only.
 
 
 ## Syntax

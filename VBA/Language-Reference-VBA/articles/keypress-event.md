@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Occurs when the user presses an ANSI key.
  **Syntax**
  **Private Sub**_object_ _**KeyPress( ByVal**_KeyANSI_**As MSForms.ReturnInteger)**
-The  **KeyPress** event syntax has these parts:
+The **KeyPress** event syntax has these parts:
 
 
 |**Part**|**Description**|

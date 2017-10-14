@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Category Property (Word)
 
-Returns a  **[Category](category-object-word.md)** object that represents the category for a building block. Read-only.
+Returns a **[Category](category-object-word.md)** object that represents the category for a building block. Read-only.
 
 
 ## Syntax

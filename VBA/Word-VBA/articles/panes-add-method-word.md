@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Panes.Add Method (Word)
 
-Returns a  **Pane** object that represents a new pane to a window.
+Returns a **Pane** object that represents a new pane to a window.
 
 
 ## Syntax

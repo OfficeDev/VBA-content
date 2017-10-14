@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Type Property (Word)
 
-Returns or sets the trendline type. Read/write  **[XlTrendlineType](xltrendlinetype-enumeration-word.md)** .
+Returns or sets the trendline type. Read/write **[XlTrendlineType](xltrendlinetype-enumeration-word.md)** .
 
 
 ## Syntax

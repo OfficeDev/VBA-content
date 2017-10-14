@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Left Property (Excel)
 
-Returns or sets a value that represents the distance, in points, from the left edge of the client area to the left edge of the  **Protected View** window. Read/write
+Returns or sets a value that represents the distance, in points, from the left edge of the client area to the left edge of the **Protected View** window. Read/write
 
 
 ## Syntax

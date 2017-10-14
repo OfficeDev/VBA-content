@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeFieldNames.Item Method (Word)
 
-Returns an individual  **MailMergeFieldNames** object in a collection.
+Returns an individual **MailMergeFieldNames** object in a collection.
 
 
 ## Syntax

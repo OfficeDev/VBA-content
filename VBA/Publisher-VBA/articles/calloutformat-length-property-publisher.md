@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Length Property (Publisher)
 
-Returns a  **Variant** indicating the length (in points) of the first segment of the callout line (the segment attached to the text callout box) if the **[AutoLength](calloutformat-autolength-property-publisher.md)** property of the specified callout is set to **False**. Otherwise, an error occurs. Read-only.
+Returns a **Variant** indicating the length (in points) of the first segment of the callout line (the segment attached to the text callout box) if the **[AutoLength](calloutformat-autolength-property-publisher.md)** property of the specified callout is set to **False**. Otherwise, an error occurs. Read-only.
 
 
 ## Syntax
 
  _expression_. **Length**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ## Remarks
 
-This property applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**).
+This property applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
-Use the  **[CustomLength](calloutformat-customlength-method-publisher.md)** method to set the value of this property.
+Use the **[CustomLength](calloutformat-customlength-method-publisher.md)** method to set the value of this property.
 
 
 ## Example

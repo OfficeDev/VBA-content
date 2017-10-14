@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.ColorSchemes Property (PowerPoint)
 
-Returns a  **[ColorSchemes](colorschemes-object-powerpoint.md)** collection that represents the color schemes in the specified presentation. Read-only.
+Returns a **[ColorSchemes](colorschemes-object-powerpoint.md)** collection that represents the color schemes in the specified presentation. Read-only.
 
 
 ## Syntax

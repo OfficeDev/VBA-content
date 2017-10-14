@@ -18,16 +18,16 @@ Contains information about individual searches performed against Outlook items.
 
 ## Remarks
 
-The  **Search** object contains properties that define the type of search and the parameters of the search itself.
+The **Search** object contains properties that define the type of search and the parameters of the search itself.
 
-Use the  **[Application](http://msdn.microsoft.com/library/797003e7-ecd1-eccb-eaaf-32d6ddde8348%28Office.15%29.aspx)** object's **[AdvancedSearch](http://msdn.microsoft.com/library/7b433d8b-08b9-dff1-b854-287d76b47a90%28Office.15%29.aspx)** method to return a **Search** object.
+Use the **[Application](http://msdn.microsoft.com/library/797003e7-ecd1-eccb-eaaf-32d6ddde8348%28Office.15%29.aspx)** object's **[AdvancedSearch](http://msdn.microsoft.com/library/7b433d8b-08b9-dff1-b854-287d76b47a90%28Office.15%29.aspx)** method to return a **Search** object.
 
-Use the  **[AdvancedSearchComplete](http://msdn.microsoft.com/library/4f33ad44-20a3-62cd-aa1b-db74581ebb3c%28Office.15%29.aspx)** event to determine when a given search has completed.
+Use the **[AdvancedSearchComplete](http://msdn.microsoft.com/library/4f33ad44-20a3-62cd-aa1b-db74581ebb3c%28Office.15%29.aspx)** event to determine when a given search has completed.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns a search object named "SubjectSearch" and displays the object's  **[Tag](http://msdn.microsoft.com/library/f0341885-ea75-2277-e55b-827f62165ab2%28Office.15%29.aspx)** and **[Filter](http://msdn.microsoft.com/library/f6040465-da73-56f6-edb7-06d93bb8b531%28Office.15%29.aspx)** property values. The **Tag** property is used to identify a specific search once it has completed.
+The following Microsoft Visual Basic for Applications (VBA) example returns a search object named "SubjectSearch" and displays the object's **[Tag](http://msdn.microsoft.com/library/f0341885-ea75-2277-e55b-827f62165ab2%28Office.15%29.aspx)** and **[Filter](http://msdn.microsoft.com/library/f6040465-da73-56f6-edb7-06d93bb8b531%28Office.15%29.aspx)** property values. The **Tag** property is used to identify a specific search once it has completed.
 
 
 ```

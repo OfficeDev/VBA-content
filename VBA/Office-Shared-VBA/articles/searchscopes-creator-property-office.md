@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SearchScopes.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **SearchScopes** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **SearchScopes** object was created. Read-only.
 
 
 ## Syntax

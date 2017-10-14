@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Parent Property (Project)
 
-Gets the parent of the  **Task** object. Read-only **Object**.
+Gets the parent of the **Task** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the parent of the  **Task** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Task** object can be a **Project** or a **Selection** object.
+The parent of a **Task** object can be a **Project** or a **Selection** object.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

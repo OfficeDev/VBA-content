@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.DocumentInspectors Property (PowerPoint)
 
-Returns the Microsoft Office  **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e016-bb99-d27f-749ca10352f1%28Office.15%29.aspx)** collection. Read-only.
+Returns the Microsoft Office **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e016-bb99-d27f-749ca10352f1%28Office.15%29.aspx)** collection. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ DocumentInspectors
 
 ## Remarks
 
-The Document Inspector is a feature that helps you to examine and remove sensitive information in a document. The  **DocumentInspector** object makes it possible to create custom modules. For more information about working with the Document Inspector, see[Using the Document Inspector](http://msdn.microsoft.com/en-us/library/ff862071.aspx%28Office.15%29.aspx).
+The Document Inspector is a feature that helps you to examine and remove sensitive information in a document. The **DocumentInspector** object makes it possible to create custom modules. For more information about working with the Document Inspector, see[Using the Document Inspector](http://msdn.microsoft.com/en-us/library/ff862071.aspx%28Office.15%29.aspx).
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFrac.Num Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the numerator for a fraction. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the numerator for a fraction. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.Width Property (Word)
 
-Returns a  **Long** that represents the width, in points, of the paper defined in the **Page Setup** dialog box. Read-only **Long** .
+Returns a **Long** that represents the width, in points, of the paper defined in the **Page Setup** dialog box. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** that represents the width, in points, of the paper defined i
 
 ## Remarks
 
-The  **Top** and **Left** properties of the **Page** object always return 0 (zero) indicating the upper left corner of the page. The **Height** and **Width** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the Page Setup dialog or through the **PageSetup** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
+The **Top** and **Left** properties of the **Page** object always return 0 (zero) indicating the upper left corner of the page. The **Height** and **Width** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the Page Setup dialog or through the **PageSetup** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
 
 
 ## See also

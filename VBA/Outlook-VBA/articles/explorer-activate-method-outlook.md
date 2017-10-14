@@ -25,7 +25,7 @@ Activates an explorer window by bringing it to the foreground and setting keyboa
 
 ## Example
 
-This Microsoft Visual Basic for Applications example responds to the  **[NewMail](application-newmail-event-outlook.md)** event by activating the explorer window. The sample code must be placed in a class module, and the `Initialize_handlers` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications example responds to the **[NewMail](application-newmail-event-outlook.md)** event by activating the explorer window. The sample code must be placed in a class module, and the `Initialize_handlers` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

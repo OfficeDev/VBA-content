@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.OutlookVersion Property (Outlook)
 
-Returns a  **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
+Returns a **String** indicating the major and minor version number of the Outlook application for an Outlook item. Read-only.
 
 
 ## Syntax

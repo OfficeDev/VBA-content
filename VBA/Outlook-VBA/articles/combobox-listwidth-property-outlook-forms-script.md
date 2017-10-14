@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # ComboBox.ListWidth Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the width of the list in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a **Variant** that specifies the width of the list in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
 
 
 ## Syntax
 
  _expression_. **ListWidth**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-A value of zero makes the list as wide as the  **ComboBox**. The default value is to make the list as wide as the text portion of the control.
+A value of zero makes the list as wide as the **ComboBox**. The default value is to make the list as wide as the text portion of the control.
 
 If you want to display a multicolumn list, enter a value that will make the list box wide enough to fit all the columns.
 

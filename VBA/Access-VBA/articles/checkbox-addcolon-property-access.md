@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CheckBox.AddColon Property (Access)
 
-Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
+Specifies whether a colon follows the text in labels for new controls. Read/write **Boolean**.
 
 
 ## Syntax

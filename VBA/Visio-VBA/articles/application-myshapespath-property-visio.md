@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MyShapesPath Property (Visio)
 
-Gets or sets where Microsoft Visio looks for the  **My Shapes** folder on the user's hard disk. Read/write.
+Gets or sets where Microsoft Visio looks for the **My Shapes** folder on the user's hard disk. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The setting of the  **MyShapesPath** property corresponds to the value of the **My Shapes** text box in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click  **File Locations**.)
+The setting of the **MyShapesPath** property corresponds to the value of the **My Shapes** text box in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, click **File Locations**.)
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Delete Method (PowerPoint)
 
-Deletes the specified  **Selection** object.
+Deletes the specified **Selection** object.
 
 
 ## Syntax

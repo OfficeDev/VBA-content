@@ -27,7 +27,7 @@ Enables retrieving the filtered out series specified by the Index argument.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|VARIANT|The indexed number of the filtered out  **Series** object.|
+| _Index_|Optional|VARIANT|The indexed number of the filtered out **Series** object.|
 
 ### Return value
 

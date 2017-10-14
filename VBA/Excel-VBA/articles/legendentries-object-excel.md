@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntries Object (Excel)
 
-A collection of all the  **[LegendEntry](legendentry-object-excel.md)** objects in the specified chart legend.
+A collection of all the **[LegendEntry](legendentry-object-excel.md)** objects in the specified chart legend.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[LegendEntry](legendentry-object-excel.md)** objects 
 
 ## Example
 
-Use the  **[LegendEntries](legend-legendentries-method-excel.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries in embedded chart one and changes their font color.
+Use the **[LegendEntries](legend-legendentries-method-excel.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries in embedded chart one and changes their font color.
 
 
 ```
@@ -34,7 +34,7 @@ With Worksheets("sheet1").ChartObjects(1).Chart.Legend
 End With
 ```
 
-Use  **[LegendEntries](legend-legendentries-method-excel.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use **[LegendEntries](legend-legendentries-method-excel.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 
 

@@ -39,7 +39,7 @@ Sets the value of the active cell.
 
 ## Remarks
 
-The  **SetActiveCell** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
+The **SetActiveCell** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
 
 ## Example

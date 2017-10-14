@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Size Property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-only.
+Returns a **Long** indicating the size (in bytes) of the Outlook item. Read-only.
 
 
 ## Syntax

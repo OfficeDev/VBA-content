@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.EvaluateToError Property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain formulas evaluating to an error. **False** disables error checking for cells that evaluate to an error value. Read/write **Boolean** .
+When set to **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain formulas evaluating to an error. **False** disables error checking for cells that evaluate to an error value. Read/write **Boolean** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HiLoLines Property
 
-Returns a  **[HiLoLines](hilolines-object.md)** object that represents the high-low lines for the specified series on a line chart. Applies only to line charts. Read-only.
+Returns a **[HiLoLines](hilolines-object.md)** object that represents the high-low lines for the specified series on a line chart. Applies only to line charts. Read-only.
 
 
 ## Example

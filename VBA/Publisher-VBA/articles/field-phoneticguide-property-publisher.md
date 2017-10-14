@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Field.PhoneticGuide Property (Publisher)
 
-Returns a  **PhoneticGuide** object that represents the properties of phonetic text applied to a text range.
+Returns a **PhoneticGuide** object that represents the properties of phonetic text applied to a text range.
 
 
 ## Syntax
 
  _expression_. **PhoneticGuide**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ### Return Value

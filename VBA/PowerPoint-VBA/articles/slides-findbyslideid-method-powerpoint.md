@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slides.FindBySlideID Method (PowerPoint)
 
-Returns a  **[Slide](slide-object-powerpoint.md)** object that represents the slide with the specified slide ID number. Each slide is automatically assigned a unique slide ID number when it is created. Use the **SlideID** property to return a slide's ID number.
+Returns a **[Slide](slide-object-powerpoint.md)** object that represents the slide with the specified slide ID number. Each slide is automatically assigned a unique slide ID number when it is created. Use the **SlideID** property to return a slide's ID number.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Slide
 
 ## Remarks
 
-Unlike the  **SlideIndex** property, the **SlideID** property of a **Slide** object won't change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **FindBySlideID** method with the slide ID number can be a more reliable way to return a specific **Slide** object from a **[Slides](slides-object-powerpoint.md)** collection than using the **Item** method with the slide's index number.
+Unlike the **SlideIndex** property, the **SlideID** property of a **Slide** object won't change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **FindBySlideID** method with the slide ID number can be a more reliable way to return a specific **Slide** object from a **[Slides](slides-object-powerpoint.md)** collection than using the **Item** method with the slide's index number.
 
 
 ## Example
 
-This example demonstrates how to retrieve the unique ID number for a  **Slide** object and then use this number to return that **Slide** object from the **Slides** collection.
+This example demonstrates how to retrieve the unique ID number for a **Slide** object and then use this number to return that **Slide** object from the **Slides** collection.
 
 
 ```vb

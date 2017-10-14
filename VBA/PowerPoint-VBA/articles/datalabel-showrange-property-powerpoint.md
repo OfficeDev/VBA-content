@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # DataLabel.ShowRange Property (PowerPoint)
 
-Set to  **True** to display the **Value From Cells** range field for the specified chart data label. Set to **False** to hide that field. Read/write **Boolean**.
+Set to **True** to display the **Value From Cells** range field for the specified chart data label. Set to **False** to hide that field. Read/write **Boolean**.
 
 
 ## Syntax

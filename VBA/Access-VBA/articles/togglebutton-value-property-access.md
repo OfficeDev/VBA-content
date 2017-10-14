@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToggleButton.Value Property (Access)
 
-Determines or specifies whether or not the specified toggle button control is selected. Read/write  **Variant**.
+Determines or specifies whether or not the specified toggle button control is selected. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Determines or specifies whether or not the specified toggle button control is se
 
 ## Remarks
 
-When the  **Value** proprty is set to **True**, the toggle button is pressed in.
+When the **Value** proprty is set to **True**, the toggle button is pressed in.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
 
  **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.

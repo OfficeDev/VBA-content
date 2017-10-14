@@ -18,7 +18,7 @@ Represents the border of an object.
 
 ## Remarks
 
-Most bordered objects (all except for the  **[Range](range-object-excel.md)** and **[Style](style-object-excel.md)** objects) have a border that's treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. Use the **[Border](trendline-border-property-excel.md)** property, such as from a **[TrendLine](trendline-object-excel.md)** object, to return the **Border** object for this kind of object.
+Most bordered objects (all except for the **[Range](range-object-excel.md)** and **[Style](style-object-excel.md)** objects) have a border that's treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. Use the **[Border](trendline-border-property-excel.md)** property, such as from a **[TrendLine](trendline-object-excel.md)** object, to return the **Border** object for this kind of object.
 
 
 ## Example
@@ -42,7 +42,7 @@ End With
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
-Use  **Borders** ( _index_ ), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
+Use **Borders** ( _index_ ), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
 
 
 

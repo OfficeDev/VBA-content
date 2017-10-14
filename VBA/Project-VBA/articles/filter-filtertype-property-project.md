@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.FilterType Property (Project)
 
-Gets the type of the filter. Read-only  **PjItemType**.
+Gets the type of the filter. Read-only **PjItemType**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the type of the filter. Read-only  **PjItemType**.
 
 ## Remarks
 
-The  **FilterType** property can be one of the following **[PjItemType](pjitemtype-enumeration-project.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
+The **FilterType** property can be one of the following **[PjItemType](pjitemtype-enumeration-project.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
 
 

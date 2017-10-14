@@ -30,7 +30,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Trendline](trendline-object-powerpoint.md)** object that the collection contains.
+A **[Trendline](trendline-object-powerpoint.md)** object that the collection contains.
 
 
 ## Example

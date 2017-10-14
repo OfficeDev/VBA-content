@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ClickAndTypeParagraphStyle Property (Word)
 
-Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant** .
+Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the default paragraph style applied to text by the Click and Typ
 
 ## Remarks
 
-To set the  **ClickAndTypeParagraphStyle** property, specify either the local name of the style, an integer, or a **WdBuiltinStyle** constant, or an object that represents the style. For a list of the **WdBuiltinStyle** constants, consult the Microsoft Visual Basic Object Browser.
+To set the **ClickAndTypeParagraphStyle** property, specify either the local name of the style, an integer, or a **WdBuiltinStyle** constant, or an object that represents the style. For a list of the **WdBuiltinStyle** constants, consult the Microsoft Visual Basic Object Browser.
 
-If the  **[InUse](style-inuse-property-word.md)** property for the specified style is set to **False** , an error occurs.
+If the **[InUse](style-inuse-property-word.md)** property for the specified style is set to **False** , an error occurs.
 
 
 ## Example

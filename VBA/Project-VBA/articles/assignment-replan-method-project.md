@@ -29,7 +29,7 @@ Replans the assignment by decreasing work or increasing duration.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _action_|Required|**PjAssignmentReplanAction**|Can be one of the following constants in  **[PjAssignmentReplanAction](pjassignmentreplanaction-enumeration-project.md)**: **pjConstrainToMaxUnitsByDecreasingWork** or **pjConstrainToMaxUnitsByIncreasingDuration**.|
+| _action_|Required|**PjAssignmentReplanAction**|Can be one of the following constants in **[PjAssignmentReplanAction](pjassignmentreplanaction-enumeration-project.md)**: **pjConstrainToMaxUnitsByDecreasingWork** or **pjConstrainToMaxUnitsByIncreasingDuration**.|
 
 ### Return Value
 

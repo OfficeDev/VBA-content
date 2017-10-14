@@ -30,9 +30,9 @@ Performs a writeback operation on the specified cell in a PivotTable report base
 
 ## Remarks
 
-This method executes an  **UPDATE CUBE** statement to add just the change in this particular cell, but also includes any previous changes applied. After the **UPDATE CUBE** statement is executed, a PivotTable update is run, and then a **ROLLBACK TRANSACTION** statement is executed.
+This method executes an **UPDATE CUBE** statement to add just the change in this particular cell, but also includes any previous changes applied. After the **UPDATE CUBE** statement is executed, a PivotTable update is run, and then a **ROLLBACK TRANSACTION** statement is executed.
 
-Running the  **AllocateChange** method for a cell in a PivotTable report based on a non-OLAP data source generates a run-time error.
+Running the **AllocateChange** method for a cell in a PivotTable report based on a non-OLAP data source generates a run-time error.
 
 
 ## See also

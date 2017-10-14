@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableField.Field Property (Project)
 
-Gets or sets the type of a table field. Read/write  **PjField**.
+Gets or sets the type of a table field. Read/write **PjField**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the type of a table field. Read/write  **PjField**.
 
 ## Remarks
 
-The  **Field** property can be one of the **[PjField](pjfield-enumeration-project.md)** constants.
+The **Field** property can be one of the **[PjField](pjfield-enumeration-project.md)** constants.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Screen.MousePointer Property (Access)
 
-You can use the  **MousePointer** property together with the **[Screen](screen-object-access.md)** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
+You can use the **MousePointer** property together with the **[Screen](screen-object-access.md)** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **MousePointer** property together with the **[Screen](screen-o
 
 ## Remarks
 
-The setting for the  **MousePointer** property is an **Integer** value representing one of the following pointers.
+The setting for the **MousePointer** property is an **Integer** value representing one of the following pointers.
 
 
 
@@ -38,13 +38,13 @@ The setting for the  **MousePointer** property is an **Integer** value represent
 |9|Horizontal Resize (Size E, W)|
 |11|Busy (Hourglass)|
 
- **Note**  Setting the  **MousePointer** property to an integer other than one that appears in the preceding table will cause the property to be set to 0.
+ **Note**  Setting the **MousePointer** property to an integer other than one that appears in the preceding table will cause the property to be set to 0.
 
-The  **MousePointer** property affects the appearance of the mouse pointer over the entire screen. Some custom controls have a **MousePointer** property that, if set, will specify how the mouse pointer is displayed when it's positioned over the control.
+The **MousePointer** property affects the appearance of the mouse pointer over the entire screen. Some custom controls have a **MousePointer** property that, if set, will specify how the mouse pointer is displayed when it's positioned over the control.
 
-You could use the  **MousePointer** property to indicate that your application is busy by setting the property to 11 to display an hourglass icon. You can also read the **MousePointer** property to determine what's being displayed. This could be useful if you wanted to prevent a user from clicking a command button while the mouse pointer is displaying an hourglass icon.
+You could use the **MousePointer** property to indicate that your application is busy by setting the property to 11 to display an hourglass icon. You can also read the **MousePointer** property to determine what's being displayed. This could be useful if you wanted to prevent a user from clicking a command button while the mouse pointer is displaying an hourglass icon.
 
-Setting the  **MousePointer** property to 11 is the same as passing the **True** (?1) argument to the **[Hourglass](docmd-hourglass-method-access.md)** method of the **[DoCmd](docmd-object-access.md)** object. Conversely, passing the **True** argument to the **Hourglass** method also sets the **MousePointer** property to 11.
+Setting the **MousePointer** property to 11 is the same as passing the **True** (?1) argument to the **[Hourglass](docmd-hourglass-method-access.md)** method of the **[DoCmd](docmd-object-access.md)** object. Conversely, passing the **True** argument to the **Hourglass** method also sets the **MousePointer** property to 11.
 
 
 ## Example

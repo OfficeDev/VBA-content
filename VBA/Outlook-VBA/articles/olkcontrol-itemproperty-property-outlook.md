@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.ItemProperty Property (Outlook)
 
-Returns or sets a  **String** that specifies the name of the property in the Outlook object model that the control is bound to. Read/write.
+Returns or sets a **String** that specifies the name of the property in the Outlook object model that the control is bound to. Read/write.
 
 
 ## Syntax

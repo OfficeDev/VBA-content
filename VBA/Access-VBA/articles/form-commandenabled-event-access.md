@@ -30,7 +30,7 @@ Occurs when the specified Microsoft Office Web Component determines whether the 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Command_|Required|**Variant**| The command that has been verified as being enabled.|
-| _Enabled_|Required|**Object**|Set the  **Value** property of this object to **False** to disable the command.|
+| _Enabled_|Required|**Object**|Set the **Value** property of this object to **False** to disable the command.|
 
 ### Return Value
 
@@ -39,12 +39,12 @@ nothing
 
 ## Remarks
 
-The  **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office Web Components.
+The **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office Web Components.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **CommandEnabled** event.
+The following example demonstrates the syntax for a subroutine that traps the **CommandEnabled** event.
 
 
 ```vb

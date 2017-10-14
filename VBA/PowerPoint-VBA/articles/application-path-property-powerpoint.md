@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Path Property (PowerPoint)
 
-Returns a  **String** that represents the path to the specified **[Application](application-object-powerpoint.md)** object. Read-only.
+Returns a **String** that represents the path to the specified **[Application](application-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The path doesn't include the final backslash (\) or the name of the specified object. Use the  **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
+The path doesn't include the final backslash (\) or the name of the specified object. Use the **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
 
 
 ## Example

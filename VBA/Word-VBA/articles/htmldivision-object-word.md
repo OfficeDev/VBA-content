@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # HTMLDivision Object (Word)
 
-Represents a single HTML DIV element within a Web document. The  **HTMLDivision** object is a member of the **HTMLDivisions** collection.
+Represents a single HTML DIV element within a Web document. The **HTMLDivision** object is a member of the **HTMLDivisions** collection.
 
 
 ## Remarks
 
-Use  **HTMLDivisions** (Index), where Index refers to the HTML division in the document, to return a single **HTMLDivision** object. Use the **Borders** property to format border properties for an HTML division. This example formats three nested divisions in the active document. This example assumes that the active document is an HTML document with at least three divisions.
+Use **HTMLDivisions** (Index), where Index refers to the HTML division in the document, to return a single **HTMLDivision** object. Use the **Borders** property to format border properties for an HTML division. This example formats three nested divisions in the active document. This example assumes that the active document is an HTML document with at least three divisions.
 
 
 ```vb
@@ -62,7 +62,7 @@ Sub FormatHTMLDivisions()
 End Sub
 ```
 
-HTML divisions can be nested within multiple HTML divisions. Use the  **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
+HTML divisions can be nested within multiple HTML divisions. Use the **HTMLDivisionParent** method to access a parent HTML division of the current HTML division. This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
 
 
 

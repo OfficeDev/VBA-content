@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Regroup Method (Excel)
 
-Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single  **[Shape](shape-object-excel.md)** object.
+Regroups the group that the specified shape range belonged to previously. Returns the regrouped shapes as a single **[Shape](shape-object-excel.md)** object.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Shape
 
 ## Remarks
 
-The  **Regroup** method only restores the group for the first previously grouped shape it finds in the specified **[ShapeRange](shaperange-object-excel.md)** collection. Therefore, if the specified shape range contains shapes that previously belonged to different groups, only one of the groups will be restored.
+The **Regroup** method only restores the group for the first previously grouped shape it finds in the specified **[ShapeRange](shaperange-object-excel.md)** collection. Therefore, if the specified shape range contains shapes that previously belonged to different groups, only one of the groups will be restored.
 
-Note that because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-excel.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Note that because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **[Shapes](shapes-object-excel.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

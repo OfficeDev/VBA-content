@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.Progress Property (Access)
 
-Specifies the amount of total progress of a download operation. Read-only  **Long**.
+Specifies the amount of total progress of a download operation. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Specifies the amount of total progress of a download operation. Read-only  **Lon
 
 ## Remarks
 
-The  **Progress** property contains -1 when the download operation is complete.
+The **Progress** property contains -1 when the download operation is complete.
 
 
 ## See also

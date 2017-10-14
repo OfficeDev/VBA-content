@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.CalendarGuid Property (Project)
 
-Gets the GUID of the calendar for the task. Read-only  **String**.
+Gets the GUID of the calendar for the task. Read-only **String**.
 
 
 ## Syntax

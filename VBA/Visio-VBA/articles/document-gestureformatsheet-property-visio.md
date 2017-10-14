@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-By default, a new shape inherits all its formatting from the document's default styles. However, if the Gesture Format sheet contains local formatting, that formatting is applied to the new shape. Use the  **FillStyle** , **LineStyle** , and **TextStyle** properties to apply local formatting to the Gesture Format **Shape** object.
+By default, a new shape inherits all its formatting from the document's default styles. However, if the Gesture Format sheet contains local formatting, that formatting is applied to the new shape. Use the **FillStyle** , **LineStyle** , and **TextStyle** properties to apply local formatting to the Gesture Format **Shape** object.
 
 Gesture Format sheet formatting does not apply to instances of masters, connectors, pasted objects, or embedded objects.
 

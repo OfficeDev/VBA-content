@@ -18,11 +18,11 @@ There are a few things to consider when you select the standard Outlook form for
     
 - Built-in fields on the standard form
     
-    Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an e-mail message, click  **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](using-the-field-chooser.md).
+    Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an e-mail message, click **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](using-the-field-chooser.md).
     
 - Extent of customization
     
-    When you select a standard form, consider the extent to which you want to customize the form. Most standard forms have more than one page on the form, but only the pages on the mail and post forms, and the  **General** page on the contact form are customizable. To change many of the existing standard form pages, you can:
+    When you select a standard form, consider the extent to which you want to customize the form. Most standard forms have more than one page on the form, but only the pages on the mail and post forms, and the **General** page on the contact form are customizable. To change many of the existing standard form pages, you can:
     
       - Hide the existing page on the form, create a new page, and add fields or controls to that page. 
     
@@ -35,7 +35,7 @@ There are a few things to consider when you select the standard Outlook form for
 ## To design an Outlook form
 
 
-1. On the  **Developer** tab, in the **Custom Forms** group, click **Design a Form**, and then select the standard form on which to base your custom form. 
+1. On the **Developer** tab, in the **Custom Forms** group, click **Design a Form**, and then select the standard form on which to base your custom form. 
     
 2. Add the fields, controls, and code that you want to your new form. For more information, see  [Using Fields with Controls](using-fields-with-controls.md),  [Using Visual Basic with Outlook](using-visual-basic-with-outlook.md), and  [How to: Create a Form Region](create-a-form-region.md).
     

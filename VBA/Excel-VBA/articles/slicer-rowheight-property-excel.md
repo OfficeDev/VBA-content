@@ -30,6 +30,6 @@ Double
 
 ## Remarks
 
-This property does not affect the height of the slicer. Use the  **[Height](slicer-height-property-excel.md)** property of the **[Slicer](slicer-object-excel.md)** object to return or set the height of the slicer.
+This property does not affect the height of the slicer. Use the **[Height](slicer-height-property-excel.md)** property of the **[Slicer](slicer-object-excel.md)** object to return or set the height of the slicer.
 
 

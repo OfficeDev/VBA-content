@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.CreateAutoTextEntry Method (Word)
 
-Adds a new  **[AutoTextEntry](autotextentry-object-word.md)** object to the **[AutoTextEntries](autotextentries-object-word.md)** collection, based on the current selection.
+Adds a new **[AutoTextEntry](autotextentry-object-word.md)** object to the **[AutoTextEntries](autotextentries-object-word.md)** collection, based on the current selection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Adds a new  **[AutoTextEntry](autotextentry-object-word.md)** object to the **[A
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The text the user must type to call the new AutoText entry.|
-| _StyleName_|Required| **String**|The category in which the new AutoText entry will be listed on the  **AutoText** menu.|
+| _StyleName_|Required| **String**|The category in which the new AutoText entry will be listed on the **AutoText** menu.|
 
 ## Example
 

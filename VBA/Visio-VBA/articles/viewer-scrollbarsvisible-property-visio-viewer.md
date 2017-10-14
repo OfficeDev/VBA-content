@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the scroll bars are visible in Micro
 
  _expression_. **ScrollbarsVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value

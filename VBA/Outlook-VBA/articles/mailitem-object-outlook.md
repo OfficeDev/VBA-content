@@ -18,9 +18,9 @@ Represents a mail message.
 
 ## Remarks
 
-Use the  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create a **MailItem** object that represents a new mail message.
+Use the **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create a **MailItem** object that represents a new mail message.
 
-Use the  **[Folder.Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to obtain an **[Items](http://msdn.microsoft.com/library/3a99730b-e62a-5ca6-f6ec-911c95173242%28Office.15%29.aspx)** collection representing the mail items in a folder, and the **[Items.Item](http://msdn.microsoft.com/library/89a031e0-c0a3-fc22-f485-189df8db45f4%28Office.15%29.aspx)** (_index_) method, where _index_ is the index number of a mail message or a value used to match the default property of a message, to return a single **MailItem** object from the specified folder.
+Use the **[Folder.Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to obtain an **[Items](http://msdn.microsoft.com/library/3a99730b-e62a-5ca6-f6ec-911c95173242%28Office.15%29.aspx)** collection representing the mail items in a folder, and the **[Items.Item](http://msdn.microsoft.com/library/89a031e0-c0a3-fc22-f485-189df8db45f4%28Office.15%29.aspx)** (_index_) method, where _index_ is the index number of a mail message or a value used to match the default property of a message, to return a single **MailItem** object from the specified folder.
 
 
 ## Example

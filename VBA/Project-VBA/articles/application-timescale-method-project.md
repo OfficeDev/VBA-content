@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Timescale Method (Project)
 
-Displays the  **Timescale** dialog box, which prompts the user to set timescale options.
+Displays the **Timescale** dialog box, which prompts the user to set timescale options.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Timescale** dialog box, which prompts the user to set timescale 
 
 ## Remarks
 
-The  **Timescale** method is only available when the active view is the Gantt Chart, Resource Graph, Resource Usage, or Task Usage view. The **Timescale** method has the same effect as the **Timescale** command on the **Timescale** drop-down menu on the **View** tab of the Ribbon. The **Timescale** command is also on the option menu of the timescale.
+The **Timescale** method is only available when the active view is the Gantt Chart, Resource Graph, Resource Usage, or Task Usage view. The **Timescale** method has the same effect as the **Timescale** command on the **Timescale** drop-down menu on the **View** tab of the Ribbon. The **Timescale** command is also on the option menu of the timescale.
 
 

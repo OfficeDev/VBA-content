@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Position Property (PowerPoint)
 
-Returns or sets the position of the data label. Read/write  **[XlDataLabelPosition](xldatalabelposition-enumeration-powerpoint.md)**.
+Returns or sets the position of the data label. Read/write **[XlDataLabelPosition](xldatalabelposition-enumeration-powerpoint.md)**.
 
 
 ## Syntax

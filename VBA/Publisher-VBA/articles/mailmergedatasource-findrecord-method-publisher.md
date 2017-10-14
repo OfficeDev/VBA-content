@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.FindRecord Method (Publisher)
 
-Searches the contents of the specified mail merge data source for text in a particular field. Returns a  **Boolean** indicating whether the search text is found; **True** if the search text is found.
+Searches the contents of the specified mail merge data source for text in a particular field. Returns a **Boolean** indicating whether the search text is found; **True** if the search text is found.
 
 
 ## Syntax
 
- _expression_. **FindRecord**( **_FindText_**,  **_Field_**)
+ _expression_. **FindRecord**( **_FindText_**, **_Field_**)
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Parameters

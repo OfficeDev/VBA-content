@@ -33,12 +33,12 @@ Nothing
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Calling the  **ClearCustomToolbars** method on an object without custom toolbars has no effect.
+Calling the **ClearCustomToolbars** method on an object without custom toolbars has no effect.
 
 
 ## Example
 
-This example shows how to clear custom toolbars for the  **ThisDocument** and **Application** objects and restore the built-in Microsoft Visio toolbars.
+This example shows how to clear custom toolbars for the **ThisDocument** and **Application** objects and restore the built-in Microsoft Visio toolbars.
 
 
 ```vb

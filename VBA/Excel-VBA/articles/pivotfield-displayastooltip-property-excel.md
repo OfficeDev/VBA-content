@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DisplayAsTooltip Property (Excel)
 
-This property is used to specify whether or not a specific member property PivotField is displayed in tooltips. Read/write  **Boolean** .
+This property is used to specify whether or not a specific member property PivotField is displayed in tooltips. Read/write **Boolean** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ This property is used to specify whether or not a specific member property Pivot
 
 Trying to get or set these properties for PivotFields that are not member properties will return a run-time error.
 
-A given member property is displayed in tooltips when the  **DisplayAsTooltip** property is set to **True** , and not displayed in tooltips when it is set to **False** . The default value is **True** .
+A given member property is displayed in tooltips when the **DisplayAsTooltip** property is set to **True** , and not displayed in tooltips when it is set to **False** . The default value is **True** .
 
 
 ## See also

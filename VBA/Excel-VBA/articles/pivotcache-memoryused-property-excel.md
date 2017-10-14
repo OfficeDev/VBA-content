@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.MemoryUsed Property (Excel)
 
-Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long** .
+Returns the amount of memory currently being used by the object, in bytes. Read-only **Long** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the amount of memory currently being used by the object, in bytes. Read-
 
 ## Remarks
 
-For  **PivotCache** objects, this property reflects the transient state of the cache at the time that it's queried.
+For **PivotCache** objects, this property reflects the transient state of the cache at the time that it's queried.
 
-If the  **PivotCache** object has no PivotTable report attached to it, this property returns 0 (zero).
+If the **PivotCache** object has no PivotTable report attached to it, this property returns 0 (zero).
 
 
 ## Example

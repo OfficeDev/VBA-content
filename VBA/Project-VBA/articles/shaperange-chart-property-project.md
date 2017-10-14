@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Chart Property (Project)
-Gets a  **Chart** object that represents the chart contained in the shape range. Read-only **Chart**.
+Gets a **Chart** object that represents the chart contained in the shape range. Read-only **Chart**.
 
 ## Syntax
 

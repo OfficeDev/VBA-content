@@ -30,7 +30,7 @@ Adds phonetic text to the specified cell.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Long**|The position that represents the first character in the specified cell.|
-| _Length_|Required| **Long**|The number of characters from the  **Start** position to the end of the text in the cell.|
+| _Length_|Required| **Long**|The number of characters from the **Start** position to the end of the text in the cell.|
 | _Text_|Required| **String**|Collectively, the characters that represent the phonetic text in the cell.|
 
 ## Example

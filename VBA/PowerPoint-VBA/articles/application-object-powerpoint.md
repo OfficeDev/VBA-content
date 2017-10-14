@@ -18,23 +18,23 @@ Represents the entire Microsoft PowerPoint application.
 
 ## Remarks
 
-The  **Application** object contains:
+The **Application** object contains:
 
 
 - Application-wide settings and options (the name of the active printer, for example).
     
-- Properties that return top-level objects, such as  **ActivePresentation**, and **Windows**.
+- Properties that return top-level objects, such as **ActivePresentation**, and **Windows**.
     
 
 
-When you are writing code that will run from PowerPoint, you can use the following properties of the  **Application** object without the object qualifier: **ActivePresentation**, **ActiveWindow**, **AddIns**, **Presentations**, **SlideShowWindows**, **Windows**.
+When you are writing code that will run from PowerPoint, you can use the following properties of the **Application** object without the object qualifier: **ActivePresentation**, **ActiveWindow**, **AddIns**, **Presentations**, **SlideShowWindows**, **Windows**.
 
 For example, instead of writing  `Application.ActiveWindow.Height = 200`, you can write  `ActiveWindow.Height = 200`.
 
 
 ## Example
 
-Use the  **Application** property to return the **Application** object. The following example returns the path to the program file.
+Use the **Application** property to return the **Application** object. The following example returns the path to the program file.
 
 
 ```
@@ -43,7 +43,7 @@ Dim MyPath As String
 MyPath = Application.Path
 ```
 
-The following example creates a PowerPoint  **Application** object in another application, starts PowerPoint (if it is not already running), and opens an existing presentation named "Ex_a2a.ppt".
+The following example creates a PowerPoint **Application** object in another application, starts PowerPoint (if it is not already running), and opens an existing presentation named "Ex_a2a.ppt".
 
 
 

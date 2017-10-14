@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Specifies when to show the drop-down button for a  **ComboBox** or **TextBox**.
+Specifies when to show the drop-down button for a **ComboBox** or **TextBox**.
  **Syntax**
  _object_. **ShowDropButtonWhen** [= _fmShowDropButtonWhen_ ]
-The  **ShowDropButtonWhen** property syntax has these parts:
+The **ShowDropButtonWhen** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,5 +34,5 @@ The settings for  _fmShowDropButtonWhen_ are:
 | _fmShowDropButtonWhenNever_|0|Do not show the drop-down button under any circumstances.|
 | _fmShowDropButtonWhenFocus_|1|Show the drop-down button when the control has the focus.|
 | _fmShowDropButtonWhenAlways_|2|Always show the drop-down button.|
-For a  **ComboBox**, the default value is _fmShowDropButtonWhenAlways_; for a **TextBox**, the default value is _fmShowDropButtonWhenNever_.
+For a **ComboBox**, the default value is _fmShowDropButtonWhenAlways_; for a **TextBox**, the default value is _fmShowDropButtonWhenNever_.
 

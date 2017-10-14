@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variable.Value Property (Word)
 
-Returns or sets the value of a document variable. Read/write  **String** .
+Returns or sets the value of a document variable. Read/write **String** .
 
 
 ## Syntax
@@ -34,7 +34,7 @@ MsgBox ActiveDocument.Variables("Temp2").Value
 ```
 
 
- **Caution**  The value of a  **[Variable](variable-object-word.md)** object cannot be set to a zero-length string. Setting a **[Variable](variable-object-word.md)** object to a zero-length string results in a run time error.
+ **Caution**  The value of a **[Variable](variable-object-word.md)** object cannot be set to a zero-length string. Setting a **[Variable](variable-object-word.md)** object to a zero-length string results in a run time error.
 
 
 ## See also

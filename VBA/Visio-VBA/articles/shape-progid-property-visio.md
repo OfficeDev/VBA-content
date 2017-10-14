@@ -30,11 +30,11 @@ String
 
 ## Remarks
 
-The  **ProgID** property raises an exception if the shape doesn't represent an ActiveX control or OLE 2.0 embedded or linked object. A shape represents an ActiveX control, embedded object, or linked object if the **ForeignType** property returns **visTypeIsOLE2** in the value.
+The **ProgID** property raises an exception if the shape doesn't represent an ActiveX control or OLE 2.0 embedded or linked object. A shape represents an ActiveX control, embedded object, or linked object if the **ForeignType** property returns **visTypeIsOLE2** in the value.
 
-Use the  **ProgID** property of a **Shape** object or **OLEObject** to obtain the programmatic identifier of the object. Every OLE object class stores a programmatic identifier for itself in the registry. Typically this occurs when the program that services the object installs itself. Client programs use this identifier to identify the object. You are using the Microsoft Visio identifier when you execute a statement such as **GetObject** (,"Visio.Application") from a Microsoft Visual Basic program.
+Use the **ProgID** property of a **Shape** object or **OLEObject** to obtain the programmatic identifier of the object. Every OLE object class stores a programmatic identifier for itself in the registry. Typically this occurs when the program that services the object installs itself. Client programs use this identifier to identify the object. You are using the Microsoft Visio identifier when you execute a statement such as **GetObject** (,"Visio.Application") from a Microsoft Visual Basic program.
 
-These are strings that the  **ProgID** property might return:
+These are strings that the **ProgID** property might return:
 
 
 
@@ -47,12 +47,12 @@ Forms.CommandButton.1
 
 ```
 
-After using a shape's  **Object** property to obtain an **IDispatch** interface on the object the shape represents, you can obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by that interface.
+After using a shape's **Object** property to obtain an **IDispatch** interface on the object the shape represents, you can obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by that interface.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to get the  **OLEObjects** collection of an active page and print the **ProgID** for each **OLEObject** object in the Immediate window. This example assumes that the active page has at least one OLE 2.0 embedded or linked object or an ActiveX control.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to get the **OLEObjects** collection of an active page and print the **ProgID** for each **OLEObject** object in the Immediate window. This example assumes that the active page has at least one OLE 2.0 embedded or linked object or an ActiveX control.
 
 
 ```vb

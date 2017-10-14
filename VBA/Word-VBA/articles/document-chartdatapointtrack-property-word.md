@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Document.ChartDataPointTrack Property (Word)
 
-Returns or sets a  **Boolean** that specifies whether charts in the active document use cell-reference data-point tracking. Read-write.
+Returns or sets a **Boolean** that specifies whether charts in the active document use cell-reference data-point tracking. Read-write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that specifies whether charts in the active docum
 
 ## Remarks
 
-In cell-reference data-point tracking, data labels track the cell reference that contains the value of the data point, rather than the index number of the data point. Doing so helps to preserve custom formatting applied by the user, even when a chart is sorted or filtered. Setting  **ChartDataPointTrack** to **True** specifies that charts in the active document use cell-reference data-point tracking.
+In cell-reference data-point tracking, data labels track the cell reference that contains the value of the data point, rather than the index number of the data point. Doing so helps to preserve custom formatting applied by the user, even when a chart is sorted or filtered. Setting **ChartDataPointTrack** to **True** specifies that charts in the active document use cell-reference data-point tracking.
 
 
 ## Property value

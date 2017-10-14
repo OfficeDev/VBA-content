@@ -25,7 +25,7 @@ Converts all endnotes in a document to footnotes and vice versa.
 
 ## Remarks
 
-To convert a range of endnotes to footnotes, use the  **[Convert](endnotes-convert-method-word.md)** method.
+To convert a range of endnotes to footnotes, use the **[Convert](endnotes-convert-method-word.md)** method.
 
 
 ## Example

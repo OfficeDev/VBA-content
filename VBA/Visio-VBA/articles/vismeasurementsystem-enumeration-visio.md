@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisMeasurementSystem Enumeration (Visio)
 
-Measurement system types to be passed to the  **Documents.AddEx** method.
+Measurement system types to be passed to the **Documents.AddEx** method.
 
 
 

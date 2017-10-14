@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Options Property (Word)
 
-Returns an  **Options** object that represents application settings in Microsoft Word.
+Returns an **Options** object that represents application settings in Microsoft Word.
 
 
 ## Syntax

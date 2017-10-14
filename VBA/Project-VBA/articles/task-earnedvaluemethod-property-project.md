@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.EarnedValueMethod Property (Project)
 
-Gets or sets the method for calculating earned value for a task. Read/write  **PjEarnedValueMethod**.
+Gets or sets the method for calculating earned value for a task. Read/write **PjEarnedValueMethod**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the method for calculating earned value for a task. Read/write  **P
 
 ## Remarks
 
-The  **EarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.
+The **EarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.
 
 

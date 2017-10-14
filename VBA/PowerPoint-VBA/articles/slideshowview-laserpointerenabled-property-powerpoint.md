@@ -11,9 +11,9 @@ ms.prod: powerpoint
 
 # SlideShowView.LaserPointerEnabled Property (PowerPoint)
 
-Returns  **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write.
+Returns **true** if the current slide show pointer is a laser pointer. This property is applicable only while the slide show is running. Read/write.
 
-This property allows a user to programmatically query and set the state of the pointer shown during slide show. The property will return false for all other pointer types. Users can also change the state of the current pointer by setting this property to  **true** to turn on the laser pointer or **false** to turn off the laser pointer.
+This property allows a user to programmatically query and set the state of the pointer shown during slide show. The property will return false for all other pointer types. Users can also change the state of the current pointer by setting this property to **true** to turn on the laser pointer or **false** to turn off the laser pointer.
 
 ## Syntax
 

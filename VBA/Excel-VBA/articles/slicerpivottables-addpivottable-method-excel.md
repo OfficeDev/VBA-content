@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerPivotTables.AddPivotTable Method (Excel)
 
-Adds a reference to a PivotTable to the  **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection.
+Adds a reference to a PivotTable to the **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](slicerpivottables
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PivotTable_|Required| **PivotTable**|A  **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable to add.|
+| _PivotTable_|Required| **PivotTable**|A **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable to add.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-When a PivotTable is added to the  **SlicerPivotTables** collection, it can be filtered by its parent **[SlicerCache](slicercache-object-excel.md)** and the slicers associated with it.
+When a PivotTable is added to the **SlicerPivotTables** collection, it can be filtered by its parent **[SlicerCache](slicercache-object-excel.md)** and the slicers associated with it.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ConvertToFormulas Method (Excel)
 
-The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean** .
+The **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean** .
 
 
 ## Syntax
@@ -29,16 +29,16 @@ The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is u
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ConvertFilters_|Required| **Boolean**|Contains  **True** or **False** to indicate the state of the **ReportFilter** area.|
+| _ConvertFilters_|Required| **Boolean**|Contains **True** or **False** to indicate the state of the **ReportFilter** area.|
 
 ## Remarks
 
-The argument controls whether or not to convert the  **ReportFilter** area of the PivotTable.
+The argument controls whether or not to convert the **ReportFilter** area of the PivotTable.
 
 
 ## Example
 
-In the following example the  **ReportFilter** area is not converted.
+In the following example the **ReportFilter** area is not converted.
 
 
 ```vb

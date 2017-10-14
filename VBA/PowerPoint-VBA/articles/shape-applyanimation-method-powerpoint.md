@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ApplyAnimation Method (PowerPoint)
 
-Applies the last picked up animation to the  **Shape** object.
+Applies the last picked up animation to the **Shape** object.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group2.Index Property (Project)
 
-Gets the index of a  **Group2** object in a **ResourceGroups2** collection or **TaskGroups2** collection. Read-only **Long**.
+Gets the index of a **Group2** object in a **ResourceGroups2** collection or **TaskGroups2** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the index of a  **Group2** object in a **ResourceGroups2** collection or **
 
 ## Example
 
-The following example displays the name of each  **Group2** object in the **TaskGroups2** collection in the **Immediate** window.
+The following example displays the name of each **Group2** object in the **TaskGroups2** collection in the **Immediate** window.
 
 
 ```vb

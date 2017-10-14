@@ -26,7 +26,7 @@ Changes the toolbar icons to a larger size.
 
  **Show ScreenTips on toolbars**
 
-Turns  **ScreenTips** off and on.
+Turns **ScreenTips** off and on.
 
  **Show shortcut keys in ScreenTips**
 

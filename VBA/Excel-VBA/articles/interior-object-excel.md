@@ -18,7 +18,7 @@ Represents the interior of an object.
 
 ## Example
 
-Use the  **[Interior](range-interior-property-excel.md)** property to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
+Use the **[Interior](range-interior-property-excel.md)** property to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
 
 
 ```
@@ -27,7 +27,7 @@ Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 
  **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
-This example gets the value of the color of a cell in column A using the  **ColorIndex** property, and then uses that value to sort the range by color.
+This example gets the value of the color of a cell in column A using the **ColorIndex** property, and then uses that value to sort the range by color.
 
 
 

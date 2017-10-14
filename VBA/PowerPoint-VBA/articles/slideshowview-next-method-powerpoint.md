@@ -25,7 +25,7 @@ Displays the slide immediately following the slide that's currently displayed.
 
 ## Remarks
 
-If the last slide is displayed, the  **Next** method closes the slide show in speaker mode and returns to the first slide in kiosk mode.
+If the last slide is displayed, the **Next** method closes the slide show in speaker mode and returns to the first slide in kiosk mode.
 
  Use the **[View](slideshowwindow-view-property-powerpoint.md)** property of the **SlideShowWindow** object to return the **SlideShowView** object.
 

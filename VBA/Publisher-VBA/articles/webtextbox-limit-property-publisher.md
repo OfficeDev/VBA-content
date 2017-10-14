@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebTextBox.Limit Property (Publisher)
 
-Returns or sets a  **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
+Returns or sets a **Long** that represents the maximum number of characters that can be entered into a Web text box control. Read/write.
 
 
 ## Syntax
 
  _expression_. **Limit**
 
- _expression_A variable that represents a  **WebTextBox** object.
+ _expression_A variable that represents a **WebTextBox** object.
 
 
 ### Return Value

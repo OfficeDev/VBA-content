@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Close Method (Outlook)
 
-Closes and optionally saves changes to the  **[SharingItem](sharingitem-object-outlook.md)** .
+Closes and optionally saves changes to the **[SharingItem](sharingitem-object-outlook.md)** .
 
 
 ## Syntax

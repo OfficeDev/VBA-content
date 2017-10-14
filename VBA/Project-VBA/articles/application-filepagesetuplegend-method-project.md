@@ -98,7 +98,7 @@ _expression_ A variable that represents an **Application** object.
 
 Using the **FilePageSetupLegend** method without specifying any arguments displays the **Page Setup** dialog box with the **Legend** tab selected.
 
-**Note**   **FilePageSetupLegend** works only with views of task data.
+**Note**  **FilePageSetupLegend** works only with views of task data.
 
 To edit a legend where the _LabelFontColor_ can be a hexadecimal RGB value, use the **[FilePageSetupLegendEx](application-filepagesetuplegendex-method-project.md)** method.
 

@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # Reset Statement
 
-Closes all disk files opened using the  **Open** statement.
+Closes all disk files opened using the **Open** statement.
 
  **Syntax**
 
  **Reset**
 
  **Remarks**
-The  **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
+The **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
 
 ## Example
 
-This example uses the  **Reset** statement to close all open files and write the contents of all file buffers to disk. Note the use of the **Variant** variable as both a string and a number.
+This example uses the **Reset** statement to close all open files and write the contents of all file buffers to disk. Note the use of the **Variant** variable as both a string and a number.
 
 
 ```vb

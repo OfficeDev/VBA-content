@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ComboBox Control, AddItem Method, Picture, PicturePosition Properties Example
 
-The following example uses a  **ComboBox** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **CommandButton**. This code sample also uses the **AddItem** method to populate the **ComboBox** choices.
+The following example uses a **ComboBox** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **CommandButton**. This code sample also uses the **AddItem** method to populate the **ComboBox** choices.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

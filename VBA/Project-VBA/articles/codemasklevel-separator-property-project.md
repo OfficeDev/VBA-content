@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CodeMaskLevel.Separator Property (Project)
 
-Gets or sets the character that separates the levels of a code mask Read/write  **String**.
+Gets or sets the character that separates the levels of a code mask Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the character that separates the levels of a code mask Read/write  
 
 ## Remarks
 
-The  **Separator** property can be one of the following characters: ".", "-", "+", or "/".
+The **Separator** property can be one of the following characters: ".", "-", "+", or "/".
 
 

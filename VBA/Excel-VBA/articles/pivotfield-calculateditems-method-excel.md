@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.CalculatedItems Method (Excel)
 
-Returns a  **[CalculatedItems](calculateditems-object-excel.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
+Returns a **[CalculatedItems](calculateditems-object-excel.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
 
 
 ## Syntax

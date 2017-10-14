@@ -25,6 +25,6 @@ Specifies the number of pixels set aside for off-screen memory in rendering a fr
 | _object_|Required. A valid object name.|
 | _value_|An integer from 16,000 through 1,048,576 equal to the maximum number of pixels the object can render off-screen.|
  **Remarks**
-The  **DrawBuffer** property specifies the maximum number of pixels that can be drawn at one time as the display repaints. The actual memory used by the object depends upon the screen resolution of the display. If you set a large value for **DrawBuffer**, performance will be slower. A large buffer only helps when several large images overlap.
-Use the  **Properties** window to specify the value of **DrawBuffer**.
+The **DrawBuffer** property specifies the maximum number of pixels that can be drawn at one time as the display repaints. The actual memory used by the object depends upon the screen resolution of the display. If you set a large value for **DrawBuffer**, performance will be slower. A large buffer only helps when several large images overlap.
+Use the **Properties** window to specify the value of **DrawBuffer**.
 

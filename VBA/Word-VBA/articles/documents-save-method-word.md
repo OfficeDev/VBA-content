@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.Save Method (Word)
 
-Saves all the documents in the  **Documents** collection.
+Saves all the documents in the **Documents** collection.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ Saves all the documents in the  **Documents** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _NoPrompt_|Optional| **Variant**| **True** to have Word automatically save all documents. **False** to have Word prompt the user to save each document that has changed since it was last saved.|
-| _OriginalFormat_|Optional| **Variant**|Specifies the way the documents are saved. Can be one of the  **WdOriginalFormat** constants.|
+| _OriginalFormat_|Optional| **Variant**|Specifies the way the documents are saved. Can be one of the **WdOriginalFormat** constants.|
 
 ## Remarks
 
-If a document has not been saved before, the  **Save As** dialog box prompts the user for a file name.
+If a document has not been saved before, the **Save As** dialog box prompts the user for a file name.
 
 
 ## See also

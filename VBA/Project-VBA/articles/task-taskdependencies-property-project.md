@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.TaskDependencies Property (Project)
 
-Gets a  **[TaskDependencies](taskdependency-object-project.md)** collection of dependent (predecessor and successor) tasks. Read-only **TaskDependencies**.
+Gets a **[TaskDependencies](taskdependency-object-project.md)** collection of dependent (predecessor and successor) tasks. Read-only **TaskDependencies**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **[TaskDependencies](taskdependency-object-project.md)** collection of d
 
 ## Remarks
 
-Each  **TaskDependency** object in the **TaskDependencies** collection includes the link type and link lag information between the tasks.
+Each **TaskDependency** object in the **TaskDependencies** collection includes the link type and link lag information between the tasks.
 
 
 ## Example

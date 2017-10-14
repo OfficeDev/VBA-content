@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.Forward Property (Publisher)
 
-Sets or retrieves a  **Boolean** representing the direction of the text search. **True** if the find operation searches forward through the document. **False** if it searches backward through the document. Read/write.
+Sets or retrieves a **Boolean** representing the direction of the text search. **True** if the find operation searches forward through the document. **False** if it searches backward through the document. Read/write.
 
 
 ## Syntax
 
  _expression_. **Forward**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Forward must be set to  **True** when replacing text.
+Forward must be set to **True** when replacing text.
 
 
 ## Example

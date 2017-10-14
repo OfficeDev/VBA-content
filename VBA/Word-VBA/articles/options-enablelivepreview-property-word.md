@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.EnableLivePreview Property (Word)
 
-Sets or returns a  **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. **True** shows a preview in your document before applying the command. Read/write.
+Sets or returns a **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. **True** shows a preview in your document before applying the command. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **Boolean** that represents whether to show or hide gallery p
 
 ## Remarks
 
-This property corresponds to the  **Enable Live Preview** check box in the **Word Options** dialog box.
+This property corresponds to the **Enable Live Preview** check box in the **Word Options** dialog box.
 
 
 ## See also

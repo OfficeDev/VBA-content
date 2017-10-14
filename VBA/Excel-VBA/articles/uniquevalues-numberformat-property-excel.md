@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.NumberFormat Property (Excel)
 
-Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True** . Read/write **Variant** .
+Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to **True** . Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number format applied to a cell if the conditional formattin
 
 ## Remarks
 
-The number format is specified using the same format codes displayed on the  **Number** tab of the **Format Cells** dialog box. You can use a built-in number format, for example `"General"`, or [create a custom number format](http://office.microsoft.com/en-us/excel-help/create-or-delete-a-custom-number-format-HP010342372.aspx).
+The number format is specified using the same format codes displayed on the **Number** tab of the **Format Cells** dialog box. You can use a built-in number format, for example `"General"`, or [create a custom number format](http://office.microsoft.com/en-us/excel-help/create-or-delete-a-custom-number-format-HP010342372.aspx).
 
 
 ## See also

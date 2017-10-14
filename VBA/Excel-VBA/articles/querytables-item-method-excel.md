@@ -33,12 +33,12 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[QueryTable](querytable-object-excel.md)** object contained by the collection.
+A **[QueryTable](querytable-object-excel.md)** object contained by the collection.
 
 
 ## Example
 
-This example sets a query table so that formulas to the right of the query table are automatically updated whenever it?s refreshed.
+This example sets a query table so that formulas to the right of the query table are automatically updated whenever it's refreshed.
 
 
 ```vb

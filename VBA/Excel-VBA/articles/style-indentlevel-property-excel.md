@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.IndentLevel Property (Excel)
 
-Returns or sets a  **Long** value that represents the indent level for the style.
+Returns or sets a **Long** value that represents the indent level for the style.
 
 
 ## Syntax

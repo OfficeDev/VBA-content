@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewFileTaskPane Property (Access)
 
-Returns a  **NewFile** object that represents a document listed on the **New File** task pane. Read-only **NewFile** object.
+Returns a **NewFile** object that represents a document listed on the **New File** task pane. Read-only **NewFile** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **NewFile** object that represents a document listed on the **New Fil
 
 ## Example
 
-This example creates a file list item on the  **New File** task pane in the **New from existing file** section.
+This example creates a file list item on the **New File** task pane in the **New from existing file** section.
 
 
 ```vb

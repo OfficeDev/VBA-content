@@ -29,16 +29,16 @@ Sorts a range of values.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (String) or  **Range** object; determines the values to be sorted.|
+| _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (String) or **Range** object; determines the values to be sorted.|
 | _Order1_|Optional| **XlSortOrder**|Determines the sort order for the values specified in Key1.|
 | _Key2_|Optional| **Variant**|Second sort field; cannot be used when sorting a pivot table.|
 | _Type_|Optional| **Variant**|Specified which elements are to be sorted.|
 | _Order2_|Optional| **XlSortOrder**|Determines the sort order for the values specified in Key2.|
 | _Key3_|Optional| **Variant**|Third sort field; cannot be used when sorting a pivot table.|
 | _Order3_|Optional| **XlSortOrder**|Determines the sort order for the values specified in Key3.|
-| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information.  **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
+| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 | _OrderCustom_|Optional| **Variant**|Specifies a one-based integer offset into the list of custom sort orders.|
-| _MatchCase_|Optional| **Variant**|Set to  **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with pivot tables.|
+| _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with pivot tables.|
 | _Orientation_|Optional| **XlSortOrientation**|Specifies if the sort should be in acending or decending order.|
 | _SortMethod_|Optional| **XlSortMethod**|Specifies the sort method.|
 | _DataOption1_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in Key1; does not apply to pivot table sorting.|
@@ -52,9 +52,9 @@ Variant
 
 ## Example
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
-This example gets the value of the color of a cell in column A using the  **ColorIndex** property, and then uses that value to sort the range by color.
+This example gets the value of the color of a cell in column A using the **ColorIndex** property, and then uses that value to sort the range by color.
 
 
 

@@ -18,11 +18,11 @@ Represents the general properties of an Outlook form.
 
 ## Remarks
 
-The properties of an Outlook form are displayed on the  **Properties** page of a form in design time.
+The properties of an Outlook form are displayed on the **Properties** page of a form in design time.
 
-To see the  **Properties** page in design time, open the Outlook item, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Design This Form**, and then click the  **Properties** tab in the item's window.
+To see the **Properties** page in design time, open the Outlook item, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Design This Form**, and then click the **Properties** tab in the item's window.
 
-Use the  **[FormDescription](mailitem-formdescription-property-outlook.md)** property to return the **FormDescription** object associated with an Outlook item.
+Use the **[FormDescription](mailitem-formdescription-property-outlook.md)** property to return the **FormDescription** object associated with an Outlook item.
 
 
 ## Methods

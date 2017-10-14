@@ -39,6 +39,6 @@ Selects cells to the left of the current selection.
 
 ## Remarks
 
-The  **SelectCellLeft** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
+The **SelectCellLeft** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
 

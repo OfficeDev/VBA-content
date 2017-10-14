@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ReadabilityStatistics Property (Word)
 
-Returns a  **ReadabilityStatistics** collection that represents the readability statistics for the specified document or range. Read-only.
+Returns a **ReadabilityStatistics** collection that represents the readability statistics for the specified document or range. Read-only.
 
 
 ## Syntax

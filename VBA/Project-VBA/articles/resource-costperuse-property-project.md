@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.CostPerUse Property (Project)
 
-Gets or sets the cost per use of a resource. Read/write  **Variant**.
+Gets or sets the cost per use of a resource. Read/write **Variant**.
 
 
 ## Syntax

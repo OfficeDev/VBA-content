@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntry.Name Property (Word)
 
-Returns or sets the name of the specified object.Read/write  **String** .
+Returns or sets the name of the specified object.Read/write **String** .
 
 
 ## Syntax

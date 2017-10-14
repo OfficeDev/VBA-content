@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModules.Item Method (Outlook)
 
-Returns a  **[NavigationModule](navigationmodule-object-outlook.md)** object from the collection.
+Returns a **[NavigationModule](navigationmodule-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns a  **[NavigationModule](navigationmodule-object-outlook.md)** object fro
 
 ### Return Value
 
-A  **NavigationModule** object that represents the specified object.
+A **NavigationModule** object that represents the specified object.
 
 
 ## Remarks
 
-The  **[Name](navigationmodule-name-property-outlook.md)** property is the default property of the **NavigationModule** object.
+The **[Name](navigationmodule-name-property-outlook.md)** property is the default property of the **NavigationModule** object.
 
 
 ## See also

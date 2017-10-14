@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group2.GroupCriteria Property (Project)
 
-Gets or sets the  **[GroupCriteria2](groupcriteria2-object-project.md)** collection representing the fields in a group definition. Read/write **GroupCriteria2**.
+Gets or sets the **[GroupCriteria2](groupcriteria2-object-project.md)** collection representing the fields in a group definition. Read/write **GroupCriteria2**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the  **[GroupCriteria2](groupcriteria2-object-project.md)** collect
 
 ## Example
 
-The following example lists all of the group criteria in the second  **Group2** object of the **TaskGroups2** collection.
+The following example lists all of the group criteria in the second **Group2** object of the **TaskGroups2** collection.
 
 
 ```vb

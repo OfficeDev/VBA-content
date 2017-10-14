@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-In this example, Microsoft Excel notifies the user the status of displaying the  **Insert Options** button.
+In this example, Microsoft Excel notifies the user the status of displaying the **Insert Options** button.
 
 
 ```vb

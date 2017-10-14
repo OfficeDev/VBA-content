@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Visible Property (Access)
 
-Returns or sets whether a Microsoft Access application is minimized. Read/write  **Boolean**.
+Returns or sets whether a Microsoft Access application is minimized. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets whether a Microsoft Access application is minimized. Read/write 
 
 ## Remarks
 
-When an application is launched by the user, the  **Visible** and **[UserControl](application-usercontrol-property-access.md)** properties of the **Application** object are both set to **True**. When the **UserControl** property is set to **True**, it isn't possible to set the **Visible** property of the object to **False**.
+When an application is launched by the user, the **Visible** and **[UserControl](application-usercontrol-property-access.md)** properties of the **Application** object are both set to **True**. When the **UserControl** property is set to **True**, it isn't possible to set the **Visible** property of the object to **False**.
 
-When an  **Application** object is created by using Automation, the **Visible** and **UserControl** properties of the object are both set to **False**.
+When an **Application** object is created by using Automation, the **Visible** and **UserControl** properties of the object are both set to **False**.
 
 
 ## See also

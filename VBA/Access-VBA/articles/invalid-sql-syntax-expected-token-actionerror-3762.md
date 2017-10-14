@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 This error occurs when defining referential integrity constraints through the CREATE TABLE syntax or the ALTER TABLE ALTER COLUMN syntax. It occurs when the keyword NO is not followed by the keyword ACTION. For example, by omitting the BOLD ON keyword, the following would generate the error:
 
-CREATE TABLE OrderDetail (OrderId LONG CONSTRAINT fkOrdersOrderId REFERENCES Orders (OrderId) ON UPDATE CASCADE ON DELETE  **NO** ACTION, LineItem LONG, ProductID LONG CONSTRAINT fkProductsProductId REFERENCES Products (ProductId), Quantity LONG);
+CREATE TABLE OrderDetail (OrderId LONG CONSTRAINT fkOrdersOrderId REFERENCES Orders (OrderId) ON UPDATE CASCADE ON DELETE **NO** ACTION, LineItem LONG, ProductID LONG CONSTRAINT fkProductsProductId REFERENCES Products (ProductId), Quantity LONG);
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

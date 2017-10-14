@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The document's default fill style is applied to new shapes created with the Microsoft Visio drawing tools or with the  **Draw** methods by Automation.
+The document's default fill style is applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
 
 

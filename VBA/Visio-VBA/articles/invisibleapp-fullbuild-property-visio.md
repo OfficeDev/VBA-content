@@ -41,14 +41,14 @@ The format of the build number is described in the following table.
 |21 - 25|Minor version number|
 |26 - 30|Major version number (Visio = 15)|
 |31|Reserved|
-In addition, for Visio, to obtain the correct full build number, it is necessary to add 1000 to the internal revision number part of the full build number returned by the  **FullBuild** property, as shown in the following macro.
+In addition, for Visio, to obtain the correct full build number, it is necessary to add 1000 to the internal revision number part of the full build number returned by the **FullBuild** property, as shown in the following macro.
 
-The build number of the running instance is written to the  **FullBuildNumberCreated** property when a new document is created, and to the **FullBuildNumberEdited** property when a document is edited.
+The build number of the running instance is written to the **FullBuildNumberCreated** property when a new document is created, and to the **FullBuildNumberEdited** property when a document is edited.
 
 
 ## Example
 
-The following Microsoft Visual Basic procedures show how to use the  **FullBuild** property to get the full build number of the current instance of Visio. Once the full build number has been obtained, the **ParseFullBuildProperty** procedure parses the number and prints the results in the **Immediate** window.
+The following Microsoft Visual Basic procedures show how to use the **FullBuild** property to get the full build number of the current instance of Visio. Once the full build number has been obtained, the **ParseFullBuildProperty** procedure parses the number and prints the results in the **Immediate** window.
 
 
 ```vb

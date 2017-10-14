@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GradientStops.Item Property (Office)
 
-Gets a  **GradientStop** object from a **GradientStops** collection. Read-only.
+Gets a **GradientStop** object from a **GradientStops** collection. Read-only.
 
 
 ## Syntax

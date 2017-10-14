@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.CurrentDate Property (Project)
 
-Gets or sets the current date for a project. Read/write  **Variant**.
+Gets or sets the current date for a project. Read/write **Variant**.
 
 
 ## Syntax

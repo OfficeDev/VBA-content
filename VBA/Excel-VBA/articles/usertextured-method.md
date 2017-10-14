@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserTextured Method
 
-Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the  **UserPicture** method.
+Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the **UserPicture** method.
 
  _expression_. **UserTextured**( **_TextureFile_**)
 

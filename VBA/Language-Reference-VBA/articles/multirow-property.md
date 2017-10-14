@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies whether the control has more than one row of tabs.
  **Syntax**
  _object_. **MultiRow** [= _Boolean_ ]
-The  **MultiRow** property syntax has these parts:
+The **MultiRow** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,6 +34,6 @@ The settings for  _Boolean_ are:
 |**True**|Allows more than one row of tabs.|
 |**False**|Restricts tabs to a single row (default).|
  **Remarks**
-The width and number of tabs determines the number of rows. Changing the control's size also changes the number of rows. This allows the developer to resize the control and ensure that tabs wrap to fit the control. If the  **MultiRow** property is **False**, then truncation occurs if the width of the tabs exceeds the width of the control.
-If  **MultiRow** is **False** and tabs are truncated, there will be a small scroll bar on the **TabStrip** to allow scrolling to the other tabs or pages.
+The width and number of tabs determines the number of rows. Changing the control's size also changes the number of rows. This allows the developer to resize the control and ensure that tabs wrap to fit the control. If the **MultiRow** property is **False**, then truncation occurs if the width of the tabs exceeds the width of the control.
+If **MultiRow** is **False** and tabs are truncated, there will be a small scroll bar on the **TabStrip** to allow scrolling to the other tabs or pages.
 

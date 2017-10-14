@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Enable Property (Word)
 
-Returns or sets border formatting for the specified object. Read/write  **Long** .
+Returns or sets border formatting for the specified object. Read/write **Long** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns or sets border formatting for the specified object. Read/write  **Long**
 
 ## Remarks
 
-The  **Enable** property returns **True** or **wdUndefined** if border formatting is applied to all or part of the specified object. Can be set to **True** , **False** , or a **WdLineStyle** constant.
+The **Enable** property returns **True** or **wdUndefined** if border formatting is applied to all or part of the specified object. Can be set to **True** , **False** , or a **WdLineStyle** constant.
 
-The  **Enable** property applies to all borders for the specified object. **True** sets the line style to the default line style and sets the line width to the default line width. The default line style and line width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
+The **Enable** property applies to all borders for the specified object. **True** sets the line style to the default line style and sets the line width to the default line width. The default line style and line width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
 
-To remove all the borders from an object, set the  **Enable** property to **False** , as shown in the following example.
+To remove all the borders from an object, set the **Enable** property to **False** , as shown in the following example.
 
 
 
@@ -38,7 +38,7 @@ To remove all the borders from an object, set the  **Enable** property to **Fals
 ActiveDocument.Tables(1).Borders.Enable = False
 ```
 
-To remove or apply a single border, use  **Borders** ( _index_ ), where **index** is a **WdBorderType** constant, to return a single border, and then set the **LineStyle** property. The following example removes the bottom border from `rngTemp`.
+To remove or apply a single border, use **Borders** ( _index_ ), where **index** is a **WdBorderType** constant, to return a single border, and then set the **LineStyle** property. The following example removes the bottom border from `rngTemp`.
 
 
 

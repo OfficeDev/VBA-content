@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The  **PivotTableChangeEvent** occurs during most changes to a PivotTable, so that you can write code to respond to user actions, such as clearing, grouping, or refreshing items in the PivotTable.
+The **PivotTableChangeEvent** occurs during most changes to a PivotTable, so that you can write code to respond to user actions, such as clearing, grouping, or refreshing items in the PivotTable.
 
 
 ## Example

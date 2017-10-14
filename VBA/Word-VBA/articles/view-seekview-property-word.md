@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.SeekView Property (Word)
 
-Returns or sets the document element displayed in print layout view. Read/write  **WdSeekView** .
+Returns or sets the document element displayed in print layout view. Read/write **WdSeekView** .
 
 
 ## Syntax

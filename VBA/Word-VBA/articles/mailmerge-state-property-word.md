@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.State Property (Word)
 
-Returns the current state of a mail merge operation. Read-only  **WdMailMergeState** .
+Returns the current state of a mail merge operation. Read-only **WdMailMergeState** .
 
 
 ## Syntax

@@ -20,11 +20,11 @@ ms.date: 06/08/2017
     
     
     
-      - To display the shortcut menu of an individual  **Tab**, select the appropriate tab.
+      - To display the shortcut menu of an individual **Tab**, select the appropriate tab.
     
   - When the tab is selected, a dotted rectangle appears around its caption. Right-click the selected caption.
     
-  - To display the shortcut menu of the  **TabStrip**, right-click anywhere in the control, but not on the caption of any **Tab** in the control.
+  - To display the shortcut menu of the **TabStrip**, right-click anywhere in the control, but not on the caption of any **Tab** in the control.
     
 
     

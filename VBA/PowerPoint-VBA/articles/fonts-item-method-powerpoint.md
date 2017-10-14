@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fonts.Item Method (PowerPoint)
 
-Returns a single  **Font** object from the specified **Fonts** collection.
+Returns a single **Font** object from the specified **Fonts** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Font** object from the specified **Fonts** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Font** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Font** object in the collection to be returned.|
 
 ### Return Value
 

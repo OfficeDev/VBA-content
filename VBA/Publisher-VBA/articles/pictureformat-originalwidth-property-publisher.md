@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.OriginalWidth Property (Publisher)
 
-Returns a  **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
+Returns a **Variant** that represents, in points, the width of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
  _expression_. **OriginalWidth**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Variant
 
 This property applies only to linked pictures. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+To determine whether a shape represents a linked picture, use either the **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
 
 ## Example

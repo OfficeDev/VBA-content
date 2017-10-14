@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.sectionIndex Property (PowerPoint)
 
-Returns the index of the selected section in the  **SlideRange**. Read-only.
+Returns the index of the selected section in the **SlideRange**. Read-only.
 
 
 ## Syntax

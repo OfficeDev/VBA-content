@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Notes Property (Project)
 
-Gets or sets the notes for a resource. Read/write  **String**.
+Gets or sets the notes for a resource. Read/write **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the notes for a resource. Read/write  **String**.
 
 ## Remarks
 
-The  **Notes** property does not accept characters with an ASCII value less than 32, except for the carriage return (ASCII 13) and linefeed (ASCII 10) characters.
+The **Notes** property does not accept characters with an ASCII value less than 32, except for the carriage return (ASCII 13) and linefeed (ASCII 10) characters.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListPictureBullet Property (Word)
 
-Returns the  **[InlineShape](inlineshape-object-word.md)** object that represents the picture used as a bullet in a picture bulleted list.
+Returns the **[InlineShape](inlineshape-object-word.md)** object that represents the picture used as a bullet in a picture bulleted list.
 
 
 ## Syntax

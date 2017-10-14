@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # ViewCtl.SendAndReceive Method (Outlook View Control)
 
-Sends all messages that are in the  **Outbox** folder and checks for new messages.
+Sends all messages that are in the **Outbox** folder and checks for new messages.
 
 
 ## Syntax
 
  _expression_. **SendAndReceive**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.ColorModel Property (Publisher)
 
-Returns a  **PbColorModel** constant that represents the color model of the picture. Read-only.
+Returns a **PbColorModel** constant that represents the color model of the picture. Read-only.
 
 
 ## Syntax
 
  _expression_. **ColorModel**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbColorModel
 
 ## Remarks
 
-The  **ColorModel** property value can be one of the **[PbColorModel](pbcolormodel-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **ColorModel** property value can be one of the **[PbColorModel](pbcolormodel-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  **Split**
 
-Toggles splitting the  **Code** window in half horizontally. Only available when the **Code** window is active.
+Toggles splitting the **Code** window in half horizontally. Only available when the **Code** window is active.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_splt_ZA01201747.gif).

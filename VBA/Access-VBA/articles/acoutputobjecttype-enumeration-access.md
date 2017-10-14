@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcOutputObjectType Enumeration (Access)
 
-Specifies the type of object to output when using the  **OutputTo** method.
+Specifies the type of object to output when using the **OutputTo** method.
 
 
 

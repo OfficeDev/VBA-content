@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisRoleSelectionTypes Enumeration (Visio)
 
-Specifies selections that contain all shapes of a given role; passed to the  **[Master.CreateSelection](master-createselection-method-visio.md)** , **[Page.CreateSelection](page-createselection-method-visio.md)** , and **[Shape.CreateSelection](shape-createselection-method-visio.md)** methods.
+Specifies selections that contain all shapes of a given role; passed to the **[Master.CreateSelection](master-createselection-method-visio.md)** , **[Page.CreateSelection](page-createselection-method-visio.md)** , and **[Shape.CreateSelection](shape-createselection-method-visio.md)** methods.
 
 
 

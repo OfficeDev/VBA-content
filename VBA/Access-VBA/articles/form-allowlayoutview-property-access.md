@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.AllowLayoutView Property (Access)
 
-Gets or sets whether the specified form can be used in Layout View. Read/write  **Boolean**.
+Gets or sets whether the specified form can be used in Layout View. Read/write **Boolean**.
 
 
 ## Syntax

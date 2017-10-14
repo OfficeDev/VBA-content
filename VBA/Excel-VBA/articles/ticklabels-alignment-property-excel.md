@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Alignment Property (Excel)
 
-Returns or sets a  **Long** value that represents the alignment for the specified phonetic text or tick label.
+Returns or sets a **Long** value that represents the alignment for the specified phonetic text or tick label.
 
 
 ## Syntax

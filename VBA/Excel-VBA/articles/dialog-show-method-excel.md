@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.Show Method (Excel)
 
-Displays the built-in dialog box, waits for the user to input data and returns a  **Boolean** value that represents the user's response.
+Displays the built-in dialog box, waits for the user to input data and returns a **Boolean** value that represents the user's response.
 
 
 ## Syntax
@@ -33,21 +33,21 @@ Displays the built-in dialog box, waits for the user to input data and returns a
 
 ### Return Value
 
-A Boolean value that, for built-in dialog boxes, returns  **True** if the user clicks OK, or it returns **False** if the user clicks Cancel.
+A Boolean value that, for built-in dialog boxes, returns **True** if the user clicks OK, or it returns **False** if the user clicks Cancel.
 
 
 ## Remarks
 
-For built in dialog boxes, this method returns  **True** if the user clicks **OK**, or it returns  **False** if the user clicks **Cancel**.
+For built in dialog boxes, this method returns **True** if the user clicks **OK**, or it returns **False** if the user clicks **Cancel**.
 
-You can use a single dialog box to change many properties at the same time. For example, you can use the Format Cells dialog box to change all the properties of the  **[Font](font-object-excel.md)** object.
+You can use a single dialog box to change many properties at the same time. For example, you can use the Format Cells dialog box to change all the properties of the **[Font](font-object-excel.md)** object.
 
-For some built-in dialog boxes (the  **Open** dialog box, for example), you can set initial values using _arg1_,  _arg2_, ...,  _arg30_. To find the arguments to set, locate the corresponding dialog box constant in  **Built-In Dialog Box Argument Lists** . For example, search for the **xlDialogOpen** constant to find the arguments for the **Open** dialog box. For more information about built-in dialog boxes, see the **Dialogs** collection.
+For some built-in dialog boxes (the **Open** dialog box, for example), you can set initial values using _arg1_,  _arg2_, ...,  _arg30_. To find the arguments to set, locate the corresponding dialog box constant in **Built-In Dialog Box Argument Lists** . For example, search for the **xlDialogOpen** constant to find the arguments for the **Open** dialog box. For more information about built-in dialog boxes, see the **Dialogs** collection.
 
 
 ## Example
 
-This example displays the  **Open** dialog box.
+This example displays the **Open** dialog box.
 
 
 ```vb

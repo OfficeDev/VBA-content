@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-A master that is hidden still appears in the  **Drawing Explorer** window.
+A master that is hidden still appears in the **Drawing Explorer** window.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.CustomerData Property (PowerPoint)
 
-Returns a  **[CustomerData](customerdata-object-powerpoint.md)** object.
+Returns a **[CustomerData](customerdata-object-powerpoint.md)** object.
 
 
 ## Syntax

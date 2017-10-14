@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ClearConversationIndex Method (Outlook)
 
-Clears the index of the conversation thread for the  **[SharingItem](sharingitem-object-outlook.md)** .
+Clears the index of the conversation thread for the **[SharingItem](sharingitem-object-outlook.md)** .
 
 
 ## Syntax

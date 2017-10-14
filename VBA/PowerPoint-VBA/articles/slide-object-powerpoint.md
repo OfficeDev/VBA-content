@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Slide Object (PowerPoint)
 
-Represents a slide. The  **[Slides](http://msdn.microsoft.com/library/ba7f514c-8f6d-d5ef-333f-c1da0f2ab767%28Office.15%29.aspx)** collection contains all the **Slide** objects in a presentation.
+Represents a slide. The **[Slides](http://msdn.microsoft.com/library/ba7f514c-8f6d-d5ef-333f-c1da0f2ab767%28Office.15%29.aspx)** collection contains all the **Slide** objects in a presentation.
 
 
 ## Remarks
 
 
- **Note**  Don't be confused if you're trying to return a reference to a single slide but you end up with a  **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object. A single slide can be represented either by a **Slide** object or by a[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the  **[Add](http://msdn.microsoft.com/library/9a09ad9b-c52d-9fd6-20ef-68b694596ed2%28Office.15%29.aspx)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](http://msdn.microsoft.com/library/a098ddc4-9838-35f2-86c1-8d9e4ff40209%28Office.15%29.aspx)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
+ **Note**  Don't be confused if you're trying to return a reference to a single slide but you end up with a **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object. A single slide can be represented either by a **Slide** object or by a[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)collection that contains only one slide, depending on how you return a reference to the slide. For example, if you create and return a reference to a slide by using the **[Add](http://msdn.microsoft.com/library/9a09ad9b-c52d-9fd6-20ef-68b694596ed2%28Office.15%29.aspx)** method, the slide is represented by a **Slide** object. However, if you create and return a reference to a slide by using the **[Duplicate](http://msdn.microsoft.com/library/a098ddc4-9838-35f2-86c1-8d9e4ff40209%28Office.15%29.aspx)** method, the slide is represented by a **SlideRange** collection that contains a single slide. Because all the properties and methods that apply to a **Slide** object also apply to a **SlideRange** collection that contains a single slide, you can work with the returned slide in the same way, regardless of whether it is represented by a **Slide** object or a **SlideRange** collection.
 
 The following examples describe how to:
 
@@ -35,7 +35,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Slides** (index), where index is the slide name or index number, or use **Slides.FindBySlideID** (index), where index is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
+Use **Slides** (index), where index is the slide name or index number, or use **Slides.FindBySlideID** (index), where index is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 
 ```
@@ -51,7 +51,7 @@ The following example sets the layout for the slide with the ID number 265.
 ActivePresentation.Slides.FindBySlideID(265).Layout = ppLayoutTitle
 ```
 
-Use  **Selection.SlideRange** (index), where index is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
+Use **Selection.SlideRange** (index), where index is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
 
 
 
@@ -60,7 +60,7 @@ Use  **Selection.SlideRange** (index), where index is the slide name or index nu
 ActiveWindow.Selection.SlideRange(1).Layout = ppLayoutTitle
 ```
 
-If there's only one slide selected, you can use  **Selection.SlideRange** to return a **SlideRange** collection that contains the selected slide. The following example sets the layout for slide one in the current selection in the active window, assuming that there's exactly one slide selected.
+If there's only one slide selected, you can use **Selection.SlideRange** to return a **SlideRange** collection that contains the selected slide. The following example sets the layout for slide one in the current selection in the active window, assuming that there's exactly one slide selected.
 
 
 
@@ -69,7 +69,7 @@ If there's only one slide selected, you can use  **Selection.SlideRange** to ret
 ActiveWindow.Selection.SlideRange.Layout = ppLayoutTitle
 ```
 
-Use the  **Slide** property to return the slide that's currently displayed in the specified document window or slide show window view. The following example copies the slide that's currently displayed in document window two to the Clipboard.
+Use the **Slide** property to return the slide that's currently displayed in the specified document window or slide show window view. The following example copies the slide that's currently displayed in document window two to the Clipboard.
 
 
 
@@ -78,7 +78,7 @@ Use the  **Slide** property to return the slide that's currently displayed in th
 Windows(2).View.Slide.Copy
 ```
 
-Use the  **Add** method to create a new slide and add it to the presentation. The following example adds a title slide to the beginning of the active presentation.
+Use the **Add** method to create a new slide and add it to the presentation. The following example adds a title slide to the beginning of the active presentation.
 
 
 

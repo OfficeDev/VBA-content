@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormNameRuleCondition.FormName Property (Outlook)
 
-Returns or sets an  **Object** that represents an array of form identifiers to be evaluated by the rule condition. Read/write.
+Returns or sets an **Object** that represents an array of form identifiers to be evaluated by the rule condition. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets an  **Object** that represents an array of form identifiers to b
 
 ## Remarks
 
-Even though the Rules and Alerts Wizard uses the display name of a form as an identifier, programmatically,  **FormName** uses the message class of the form as an identifier.
+Even though the Rules and Alerts Wizard uses the display name of a form as an identifier, programmatically, **FormName** uses the message class of the form as an identifier.
 
-You can assign an array with one string or an array of multiple strings to the  **FormName** property. Multiple form identifiers assigned in an array are evaluated using the logical OR operation.
+You can assign an array with one string or an array of multiple strings to the **FormName** property. Multiple form identifiers assigned in an array are evaluated using the logical OR operation.
 
  **FormName** returns an error if it contains one or more empty strings.
 

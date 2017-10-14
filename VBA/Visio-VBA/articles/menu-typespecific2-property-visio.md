@@ -33,14 +33,14 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of an object's  **TypeSpecific2** property depends on the value of its **CntrlType** property.
+The value of an object's **TypeSpecific2** property depends on the value of its **CntrlType** property.
 
 
 
 |** CntrlType value**|** TypeSpecific1 value**|
 |:-----|:-----|
-| **visCtrlTypeBUTTON**|The  **TypeSpecific2** property is not used.|
+| **visCtrlTypeBUTTON**|The **TypeSpecific2** property is not used.|
 | **visCtrlTypeCOMBOBOX**|The current width of the control expressed in pixels.|
 | **visCtrlTypeEDITBOX**|The current width of the control expressed in pixels.|
-| **visCtrlTypeLABEL**|The  **TypeSpecific2** property is not used.|
+| **visCtrlTypeLABEL**|The **TypeSpecific2** property is not used.|
 

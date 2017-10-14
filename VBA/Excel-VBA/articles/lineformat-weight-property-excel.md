@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Weight Property (Excel)
 
-Returns or sets a  **Single** value that represents the weight of the line.
+Returns or sets a **Single** value that represents the weight of the line.
 
 
 ## Syntax

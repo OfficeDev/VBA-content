@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SeriesCollection.NewSeries Method (Excel)
 
-Creates a new series. Returns a  **[Series](series-object-excel.md)** object that represents the new series.
+Creates a new series. Returns a **[Series](series-object-excel.md)** object that represents the new series.
 
 
 ## Syntax

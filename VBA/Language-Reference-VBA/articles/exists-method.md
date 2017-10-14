@@ -16,14 +16,14 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns  **True** if a specified key exists in the **Dictionary** object; **False** if it does not.
+Returns **True** if a specified key exists in the **Dictionary** object; **False** if it does not.
  **Syntax**
  _object_. **Exists(**_key_**)**
-The  **Exists** method syntax has these parts:
+The **Exists** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
+| _object_|Required. Always the name of a **Dictionary** object.|
 | _key_|Required.  _Key_ value being searched for in the **Dictionary** object.|
 

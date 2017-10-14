@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.Percent Property (Excel)
 
-Returns or sets a  **Boolean** value, specifying if the rank is determined by a percentage value.
+Returns or sets a **Boolean** value, specifying if the rank is determined by a percentage value.
 
 
 ## Syntax

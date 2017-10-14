@@ -30,11 +30,11 @@ Moves the specified range while any of the specified characters are found in the
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the  **wdForward** or **wdBackward** constant. If Count is a positive number, the specified range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward** .|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the specified range is to be moved. Can be a number or either the **wdForward** or **wdBackward** constant. If Count is a positive number, the specified range is moved forward in the document, beginning at the end position. If it is a negative number, the range is moved backward, beginning at the start position. The default value is **wdForward** .|
 
 ## Remarks
 
-While any character in Cset is found, the specified range is moved. The resulting  **Range** object is positioned as an insertion point after whatever Cset characters were found. This method returns the number of characters by which the specified range was moved, as a **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero).
+While any character in Cset is found, the specified range is moved. The resulting **Range** object is positioned as an insertion point after whatever Cset characters were found. This method returns the number of characters by which the specified range was moved, as a **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero).
 
 
 ## Example

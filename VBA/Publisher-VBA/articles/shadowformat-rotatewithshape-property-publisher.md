@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ShadowFormat.RotateWithShape Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant that represents whether to rotate the shadow when rotating the shape. Read/write.
+Returns or sets an **MsoTriState** constant that represents whether to rotate the shadow when rotating the shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **RotateWithShape**
 
- _expression_A variable that represents a  **ShadowFormat** object.
+ _expression_A variable that represents a **ShadowFormat** object.
 
 
 ## Return value

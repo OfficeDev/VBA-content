@@ -14,10 +14,10 @@ ms.date: 06/08/2017
 
 |**If  _expression_ is**|**CStr returns**|
 |:-----|:-----|
-|**Boolean**|A string containing  **True** or **False**|
+|**Boolean**|A string containing **True** or **False**|
 |**Date**|A string containing a date in the short date format of your system|
 |[Null](vbe-glossary.md)|A [run-time error](vbe-glossary.md)|
 |[Empty](vbe-glossary.md)|A zero-length string ("")|
-|**Error**|A string containing the word  **Error** followed by the[error number](vbe-glossary.md)|
+|**Error**|A string containing the word **Error** followed by the[error number](vbe-glossary.md)|
 |Other numeric|A string containing the number|
 

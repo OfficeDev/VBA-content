@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.ExportIcon Method (Visio)
 
-Exports the icon for a  **Master** object to a named file or the Clipboard.
+Exports the icon for a **Master** object to a named file or the Clipboard.
 
 
 ## Syntax

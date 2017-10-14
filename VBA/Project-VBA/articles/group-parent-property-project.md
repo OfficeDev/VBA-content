@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group.Parent Property (Project)
 
-Returns the parent of the  **Group** object. Read-only **Project**.
+Returns the parent of the **Group** object. Read-only **Project**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Returns the parent of the  **Group** object. Read-only **Project**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

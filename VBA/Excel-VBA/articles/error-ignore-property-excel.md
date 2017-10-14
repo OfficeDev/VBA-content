@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Error.Ignore Property (Excel)
 
-Allows the user to set or return the state of an error checking option for a range.  **False** enables an error checking option for a range. **True** disables an error checking option for a range. Read/write **Boolean** .
+Allows the user to set or return the state of an error checking option for a range. **False** enables an error checking option for a range. **True** disables an error checking option for a range. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Allows the user to set or return the state of an error checking option for a ran
 
 ## Remarks
 
-Reference the  **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object to view a list of index values associated with error checking options.
+Reference the **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object to view a list of index values associated with error checking options.
 
 
 ## Example

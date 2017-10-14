@@ -25,7 +25,7 @@ Fills the specified shape with small tiles of an image.
 
 ## Remarks
 
-If you want to fill the shape with one large image, use the  **[UserPicture](fillformat-userpicture-method-word.md)** method.
+If you want to fill the shape with one large image, use the **[UserPicture](fillformat-userpicture-method-word.md)** method.
 
 
 ## Example

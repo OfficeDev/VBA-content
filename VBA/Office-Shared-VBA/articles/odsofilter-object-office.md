@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ODSOFilter Object (Office)
 
-Represents a filter to be applied to an attached mail merge data source. The  **ODSOFilter** object is a member of the **ODSOFilters** object.
+Represents a filter to be applied to an attached mail merge data source. The **ODSOFilter** object is a member of the **ODSOFilters** object.
 
 
 ## Remarks
 
-Each filter is a line in a query string. Use the  **Column**, **Comparison**, **CompareTo**, and **Conjunction** properties to return or set the data source query criterion.
+Each filter is a line in a query string. Use the **Column**, **Comparison**, **CompareTo**, and **Conjunction** properties to return or set the data source query criterion.
 
 
 ## Example
@@ -49,7 +49,7 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-Use the  **Add** method of the **ODSOFilters** object to add a new filter criterion to the query. This example adds a new line to the query string and then applies the combined filter to the data source.
+Use the **Add** method of the **ODSOFilters** object to add a new filter criterion to the query. This example adds a new line to the query string and then applies the combined filter to the data source.
 
 
 

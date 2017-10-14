@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Sort Property (Excel)
 
-Returns a  **[Sort](sort-object-excel.md)** object. Read-only.
+Returns a **[Sort](sort-object-excel.md)** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.QueryTables Property (Excel)
 
-Returns the  **[QueryTables](querytables-object-excel.md)** collection that represents all the query tables on the specified worksheet. Read-only.
+Returns the **[QueryTables](querytables-object-excel.md)** collection that represents all the query tables on the specified worksheet. Read-only.
 
 
 ## Syntax

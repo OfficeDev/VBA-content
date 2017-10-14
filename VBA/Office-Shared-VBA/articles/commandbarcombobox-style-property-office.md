@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Style Property (Office)
 
-Gets or sets the way a  **CommandBarComboBox** control is displayed. Can be either of the following **MsoComboStyle** constants: **msoComboLabel** or **msoComboNormal**. Read/write.
+Gets or sets the way a **CommandBarComboBox** control is displayed. Can be either of the following **MsoComboStyle** constants: **msoComboLabel** or **msoComboNormal**. Read/write.
 
 
 ## 

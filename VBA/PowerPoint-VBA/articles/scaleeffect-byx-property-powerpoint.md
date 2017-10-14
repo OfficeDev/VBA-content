@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ScaleEffect.ByX Property (PowerPoint)
 
-Sets or returns a  **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a **[ScaleEffect](scaleeffect-object-powerpoint.md)** or **[MotionEffect](motioneffect-object-powerpoint.md)** object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
+Sets or returns a **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a **[ScaleEffect](scaleeffect-object-powerpoint.md)** or **[MotionEffect](motioneffect-object-powerpoint.md)** object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
 
 
 ## Syntax
@@ -32,11 +32,11 @@ Single
 
 Negative numbers move the object horizontally to the left. Floating point numbers (for example, 55.5) are allowed.
 
-To scale or move an object vertically, use the  **ByY** property.
+To scale or move an object vertically, use the **ByY** property.
 
-If both the  **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
+If both the **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
 
-Do not confuse this property with the  **By** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **By** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## Example

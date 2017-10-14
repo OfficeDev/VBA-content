@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PivotCaches Method (Excel)
 
-Returns a  **[PivotCaches](pivotcaches-object-excel.md)** collection that represents all the PivotTable caches in the specified workbook. Read-only.
+Returns a **[PivotCaches](pivotcaches-object-excel.md)** collection that represents all the PivotTable caches in the specified workbook. Read-only.
 
 
 ## Syntax

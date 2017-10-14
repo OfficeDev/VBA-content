@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Addon.Enabled Property (Visio)
 
-Determines whether or not an  **Addon** object is currently enabled. Read/write.
+Determines whether or not an **Addon** object is currently enabled. Read/write.
 
 
 ## Syntax

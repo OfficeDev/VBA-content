@@ -60,7 +60,7 @@ Double
     
 - A one-tailed t-value can be returned by replacing probability with 2*probability. For a probability of 0.05 and degrees of freedom of 10, the two-tailed value is calculated with TINV(0.05,10), which returns 2.228139. The one-tailed value for the same probability and degrees of freedom can be calculated with TINV(2*0.05,10), which returns 1.812462. Given a value for probability, TINV seeks that value x such that TDIST(x, degrees_freedom, 2) = probability. Thus, precision of TINV depends on precision of TDIST. 
     
-     **Note**   In some tables, probability is described as (1-p).
+    **Note**   In some tables, probability is described as (1-p).
 
 ## See also
 

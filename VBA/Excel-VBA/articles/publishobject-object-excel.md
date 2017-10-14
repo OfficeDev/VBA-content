@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject Object (Excel)
 
-Represents an item in a workbook that has been saved to a Web page and can be refreshed according to values specified by the properties and methods of the  **PublishObject** object.
+Represents an item in a workbook that has been saved to a Web page and can be refreshed according to values specified by the properties and methods of the **PublishObject** object.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Represents an item in a workbook that has been saved to a Web page and can be re
 
 ## Example
 
-Use  **[PublishObjects](workbook-publishobjects-property-excel.md)** ( _index_ ), where _index_ is the index number of the specified item in the workbook, to return a single **PublishObject** object. The following example sets the location where the first item in workbook three is saved.
+Use **[PublishObjects](workbook-publishobjects-property-excel.md)** ( _index_ ), where _index_ is the index number of the specified item in the workbook, to return a single **PublishObject** object. The following example sets the location where the first item in workbook three is saved.
 
 
 ```vb

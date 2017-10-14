@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroup.Axes Property (Excel)
 
-Returns the associated  **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only.
+Returns the associated **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTag.SmartTagActions Property (Access)
 
-Returns a  **[SmartTagActions](smarttagactions-object-access.md)** collection that represents the actions available for a specific smart tag. Read-only.
+Returns a **[SmartTagActions](smarttagactions-object-access.md)** collection that represents the actions available for a specific smart tag. Read-only.
 
 
 ## Syntax

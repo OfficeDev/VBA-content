@@ -18,7 +18,7 @@ Provides dialog user interface functionality of for picking people or picking da
 
 ## Remarks
 
-Get the  **PickerDialog** object through the **PickerDialog** property in **Application** object.
+Get the **PickerDialog** object through the **PickerDialog** property in **Application** object.
 
 
 ## Example

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **CancelUpdateVBS.asp**. ASP script will identify your internet server. You will need to edit the name of the server to reflect your own setup. Simply change the value in the connect string from MyServer to the name of your SQL Server installation.
+To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **CancelUpdateVBS.asp**. ASP script will identify your internet server. You will need to edit the name of the server to reflect your own setup. Simply change the value in the connect string from MyServer to the name of your SQL Server installation.
 
 
 

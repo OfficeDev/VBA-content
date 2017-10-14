@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.Width Property (Publisher)
 
-Returns or sets a  **Long** that represents the width (in points) of the window. Read/write.
+Returns or sets a **Long** that represents the width (in points) of the window. Read/write.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.PageNumberSeparator Property (Word)
 
-Returns of sets the characters (up to five) that separate individual page references in a table of authorities. Read/write  **String** .
+Returns of sets the characters (up to five) that separate individual page references in a table of authorities. Read/write **String** .
 
 
 ## Syntax

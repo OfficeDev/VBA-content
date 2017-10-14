@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspectors.Count Property (Office)
 
-Gets the number of items in the  **DocumentInspectors** object. Read-only.
+Gets the number of items in the **DocumentInspectors** object. Read-only.
 
 
 ## Syntax

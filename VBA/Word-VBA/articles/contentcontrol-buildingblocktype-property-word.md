@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.BuildingBlockType Property (Word)
 
-Returns or sets a  **WdBuildingBlockTypes** constant that represents they type of building block for a building block content control. Read/write.
+Returns or sets a **WdBuildingBlockTypes** constant that represents they type of building block for a building block content control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdBuildingBlockTypes** constant that represents they type o
 
 ## Remarks
 
-This property applies only to building block content controls and corresponds with the  **Gallery** option in the **Content Control Properties** dialog box. You can set this property only for the following building block types:
+This property applies only to building block content controls and corresponds with the **Gallery** option in the **Content Control Properties** dialog box. You can set this property only for the following building block types:
 
 
 - Custom 1 through Custom 5

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.VBProject Property (Word)
 
-Returns the  **VBProject** object for the specified template.
+Returns the **VBProject** object for the specified template.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns the  **VBProject** object for the specified template.
 
 Use this property to gain access to code modules and user forms.
 
-To view the  **VBProject** object in the object browser, you must select the **Microsoft Visual Basic for Applications Extensibility** check box in the **References** dialog box ( **Tools** menu) in the Visual Basic Editor.
+To view the **VBProject** object in the object browser, you must select the **Microsoft Visual Basic for Applications Extensibility** check box in the **References** dialog box ( **Tools** menu) in the Visual Basic Editor.
 
 
 ## Example

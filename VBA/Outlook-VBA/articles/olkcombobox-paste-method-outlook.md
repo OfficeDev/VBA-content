@@ -27,7 +27,7 @@ Pastes the contents of the clipboard in the control.
 
 The contents of the clipboard are pasted in unformatted text.
 
-This method does not paste anything when the control's  **[Style](olkcombobox-style-property-outlook.md)** is **olComboBoxStyleListBox** .
+This method does not paste anything when the control's **[Style](olkcombobox-style-property-outlook.md)** is **olComboBoxStyleListBox** .
 
 
 ## See also

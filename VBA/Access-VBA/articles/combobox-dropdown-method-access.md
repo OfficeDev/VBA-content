@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.Dropdown Method (Access)
 
-You can use the  **Dropdown** method to force the list in the specified combo box to drop down.
+You can use the **Dropdown** method to force the list in the specified combo box to drop down.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ If the specified combo box control doesn't have the focus, an error occurs. The 
 
 ## Example
 
-The following example shows how you can use the  **Dropdown** method within the **GotFocus** event procedure to force a combo box named SupplierID to drop down when it receives the focus.
+The following example shows how you can use the **Dropdown** method within the **GotFocus** event procedure to force a combo box named SupplierID to drop down when it receives the focus.
 
 
 ```vb

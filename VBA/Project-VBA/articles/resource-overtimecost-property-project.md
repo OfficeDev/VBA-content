@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.OvertimeCost Property (Project)
 
-Gets the overtime cost for a resource. Read-only  **Variant**.
+Gets the overtime cost for a resource. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the overtime cost for a resource. Read-only  **Variant**.
 
 ## Remarks
 
-The  **OvertimeCost** property does not return any meaningful information for material resources.
+The **OvertimeCost** property does not return any meaningful information for material resources.
 
 

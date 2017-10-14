@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Reviewers Object (Word)
 
-A collection of  **[Reviewer](reviewer-object-word.md)** objects that represents the reviewers of one or more documents. The **Reviewers** collection contains the names of all reviewers who have reviewed documents opened or edited on a computer.
+A collection of **[Reviewer](reviewer-object-word.md)** objects that represents the reviewers of one or more documents. The **Reviewers** collection contains the names of all reviewers who have reviewed documents opened or edited on a computer.
 
 
 ## Remarks
 
-Use  **Reviewers** (Index), where Index is the name or index number of the reviewer, to return a single reviewer in the **Reviewers** collection. This example hides revisions made by the first reviewer in the **Reviewers** collection.
+Use **Reviewers** (Index), where Index is the name or index number of the reviewer, to return a single reviewer in the **Reviewers** collection. This example hides revisions made by the first reviewer in the **Reviewers** collection.
 
 
 ```vb

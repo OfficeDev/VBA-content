@@ -28,9 +28,9 @@ Sets column order from left to right, for a selected table in a report.
 
 ## Remarks
 
-The  **SetLTRTable** method can be used to change the table columns from right-to-left order for languages such as Arabic, to left-to-right for languages such as English, German, and French.
+The **SetLTRTable** method can be used to change the table columns from right-to-left order for languages such as Arabic, to left-to-right for languages such as English, German, and French.
 
-If a report is not active, the  **SetLTRTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation."
+If a report is not active, the **SetLTRTable** method displays a dialog box with run-time error 1100, "The method is not available in this situation."
 
 
 ## See also

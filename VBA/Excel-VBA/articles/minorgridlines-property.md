@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MinorGridlines Property
 
-Returns a  **[Gridlines](gridlines-object.md)** object that represents the minor gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
+Returns a **[Gridlines](gridlines-object.md)** object that represents the minor gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
 
 
 ## Example

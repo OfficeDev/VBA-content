@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.HasMemberProperties Property (Excel)
 
-Returns  **True** when there are member properties specified to be displayed for the cube field. Read-only **Boolean** .
+Returns **True** when there are member properties specified to be displayed for the cube field. Read-only **Boolean** .
 
 
 ## Syntax

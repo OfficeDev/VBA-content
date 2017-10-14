@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.BuiltInDocumentProperties Property (Word)
 
-Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified document.
+Returns a **DocumentProperties** collection that represents all the built-in document properties for the specified document.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns a  **DocumentProperties** collection that represents all the built-in do
 
 ## Remarks
 
-To return a single  **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
+To return a single **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
 
  For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
-Use the  **CustomDocumentProperties** property to return the collection of custom document properties.
+Use the **CustomDocumentProperties** property to return the collection of custom document properties.
 
 
 ## Example

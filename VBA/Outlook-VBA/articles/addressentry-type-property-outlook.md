@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Type Property (Outlook)
 
-Returns or sets a  **String** representing the type of entry for this address such as an Internet Address, MacMail Address, or Microsoft Mail Address. Read/write.
+Returns or sets a **String** representing the type of entry for this address such as an Internet Address, MacMail Address, or Microsoft Mail Address. Read/write.
 
 
 ## Syntax

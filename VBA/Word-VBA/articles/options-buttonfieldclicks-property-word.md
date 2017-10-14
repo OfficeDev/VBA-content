@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ButtonFieldClicks Property (Word)
 
-Returns or sets the number of clicks (either one or two) required to run a GOTOBUTTON or MACROBUTTON field. Read/write  **Long** .
+Returns or sets the number of clicks (either one or two) required to run a GOTOBUTTON or MACROBUTTON field. Read/write **Long** .
 
 
 ## Syntax

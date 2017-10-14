@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.Value Property (Excel)
 
-Returns or sets a  **String** value that represents the name of the specified item in the PivotTable field.
+Returns or sets a **String** value that represents the name of the specified item in the PivotTable field.
 
 
 ## Syntax

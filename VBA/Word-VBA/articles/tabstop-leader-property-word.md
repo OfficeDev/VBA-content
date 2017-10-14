@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.Leader Property (Word)
 
-Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader** .
+Returns or sets the leader for the specified **TabStop** object. Read/write **WdTabLeader** .
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. Instead of using the **InvertColorIndex** property, you can use the **[InvertColor](series-invertcolor-property-word.md)** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
+The **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. Instead of using the **InvertColorIndex** property, you can use the **[InvertColor](series-invertcolor-property-word.md)** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
 
 
 ## See also

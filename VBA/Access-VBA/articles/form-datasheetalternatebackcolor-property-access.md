@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetAlternateBackColor Property (Access)
 
-Gets or sets the color displayed on alternate rows of a form's datasheet. Read/write  **Long**.
+Gets or sets the color displayed on alternate rows of a form's datasheet. Read/write **Long**.
 
 
 ## Syntax

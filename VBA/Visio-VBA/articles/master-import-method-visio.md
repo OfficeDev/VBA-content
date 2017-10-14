@@ -38,14 +38,14 @@ Shape
 
 ## Remarks
 
-The  **Import** method imports the file specified by _FileName_ onto a page, or into a master or group.
+The **Import** method imports the file specified by _FileName_ onto a page, or into a master or group.
 
-The file name extension indicates which import filter to use. If the filter is not installed, the  **Import** method returns an error. The **Import** method uses the default preference settings for the specified filter and does not prompt the user for non-default arguments.
+The file name extension indicates which import filter to use. If the filter is not installed, the **Import** method returns an error. The **Import** method uses the default preference settings for the specified filter and does not prompt the user for non-default arguments.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Import** method to import a bitmap image onto the drawing page. This example assumes that there is a file with the name _sampleImage.bmp_ on drive C of your computer.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Import** method to import a bitmap image onto the drawing page. This example assumes that there is a file with the name _sampleImage.bmp_ on drive C of your computer.
 
 
 ```vb

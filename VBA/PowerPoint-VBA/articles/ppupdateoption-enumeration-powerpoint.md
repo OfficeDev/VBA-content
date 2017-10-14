@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpUpdateOption Enumeration (PowerPoint)
 
-Constants that specify how hyperlinks in presentaitons should be updated, passed to and returned by the  **AutoUpdate** property of the **LinkFormat** object.
+Constants that specify how hyperlinks in presentaitons should be updated, passed to and returned by the **AutoUpdate** property of the **LinkFormat** object.
 
 
 

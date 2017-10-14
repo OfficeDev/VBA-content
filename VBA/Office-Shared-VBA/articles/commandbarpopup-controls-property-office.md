@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Controls Property (Office)
 
-Gets a  **CommandBarControls** object that represents all the controls on a pop-up control. Read-only.
+Gets a **CommandBarControls** object that represents all the controls on a pop-up control. Read-only.
 
 
 ## 

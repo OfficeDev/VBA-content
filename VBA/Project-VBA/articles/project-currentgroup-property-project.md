@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.CurrentGroup Property (Project)
 
-Gets the name of the active group for the active project. Read-only  **String**.
+Gets the name of the active group for the active project. Read-only **String**.
 
 
 ## Syntax

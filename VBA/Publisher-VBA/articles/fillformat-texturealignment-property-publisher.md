@@ -18,7 +18,7 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
 
  _expression_. **TextureAlignment**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Property value
@@ -28,28 +28,28 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
 
 ## Remarks
 
-The value returned by the  **TextureAlignment** property can be one of the following **MsoTextureAlignment** constants:
+The value returned by the **TextureAlignment** property can be one of the following **MsoTextureAlignment** constants:
 
 
--  **msoTextureTopLeft**
+- **msoTextureTopLeft**
     
--  **msoTextureTop**
+- **msoTextureTop**
     
--  **msoTextureTopRight**
+- **msoTextureTopRight**
     
--  **msoTextureLeft**
+- **msoTextureLeft**
     
--  **msoTextureCenter**
+- **msoTextureCenter**
     
--  **msoTextureRight**
+- **msoTextureRight**
     
--  **msoTextureBottomLeft**
+- **msoTextureBottomLeft**
     
--  **msoTextureBottom**
+- **msoTextureBottom**
     
--  **msoTextureBottomRight**
+- **msoTextureBottomRight**
     
-The setting of the  **TextureAlignment** property corresponds to the **Alignment** setting on the **Fill** tab of the **Format Shape** dialog box in the Publisher 2013 user interface.
+The setting of the **TextureAlignment** property corresponds to the **Alignment** setting on the **Fill** tab of the **Format Shape** dialog box in the Publisher 2013 user interface.
 
 
 ## See also

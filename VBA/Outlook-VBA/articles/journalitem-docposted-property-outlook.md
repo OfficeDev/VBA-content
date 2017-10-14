@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.DocPosted Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the journalized item was posted as part of the journalized session. Read/write.
+Returns a **Boolean** value that indicates whether the journalized item was posted as part of the journalized session. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was pos
 
 ## Remarks
 
-If this property returns  **True** , then the journalized item was posted as part of the journalized session.
+If this property returns **True** , then the journalized item was posted as part of the journalized session.
 
 
 ## See also

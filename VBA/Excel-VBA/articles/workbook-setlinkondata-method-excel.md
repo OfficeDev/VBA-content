@@ -29,7 +29,7 @@ Sets the name of a procedure that runs whenever a DDE link is updated.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the DDE/OLE link, as returned from the  **[LinkSources](workbook-linksources-method-excel.md)** method.|
+| _Name_|Required| **String**|The name of the DDE/OLE link, as returned from the **[LinkSources](workbook-linksources-method-excel.md)** method.|
 | _Procedure_|Optional| **Variant**|The name of the procedure to be run when the link is updated. This can be either a Microsoft Excel 4.0 macro or a Visual Basic procedure. Set this argument to an empty string ("") to indicate that no procedure should run when the link is updated.|
 
 ## Example

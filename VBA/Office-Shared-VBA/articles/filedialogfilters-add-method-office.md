@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogFilters.Add Method (Office)
 
-Adds a new file filter to the list of filters in the  **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.
+Adds a new file filter to the list of filters in the **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Adds a new file filter to the list of filters in the  **Files of type** drop-dow
 
 ## Remarks
 
-Each filter in a list is made up of two parts: the file name extension (that is, .txt) and the text description of the file name extension (that is, Text Files). Together, the file filter would appear in the  **Files of type** drop down list box as: Text Files (*.txt). Note that when a filter is added to the list, the default filters are not removed. Filters are only displayed when the **Windows** option is checked. If _Position_ is invalid, an out of range runtime error is displayed. If the _Description_ and _Extensions_ value are invalid, a runtime error (parse) is displayed.
+Each filter in a list is made up of two parts: the file name extension (that is, .txt) and the text description of the file name extension (that is, Text Files). Together, the file filter would appear in the **Files of type** drop down list box as: Text Files (*.txt). Note that when a filter is added to the list, the default filters are not removed. Filters are only displayed when the **Windows** option is checked. If _Position_ is invalid, an out of range runtime error is displayed. If the _Description_ and _Extensions_ value are invalid, a runtime error (parse) is displayed.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Window.Width Property (Project)
 
-Gets or sets the width in points of the window. Read/write  **Long**.
+Gets or sets the width in points of the window. Read/write **Long**.
 
 
 ## Syntax

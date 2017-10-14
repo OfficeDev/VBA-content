@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.SentOnBehalfOfName Property (Outlook)
 
-Returns a  **String** indicating the display name for the intended sender of the mail message. Read/write.
+Returns a **String** indicating the display name for the intended sender of the mail message. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** indicating the display name for the intended sender of the
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSentRepresentingName** .
+This property corresponds to the MAPI property **PidTagSentRepresentingName** .
 
 
 ## See also

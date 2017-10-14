@@ -15,6 +15,6 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[EnvelopeHide](msoenvelope-envelopehide-event-office.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.|
-|[EnvelopeShow](msoenvelope-envelopeshow-event-office.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is displayed.|
+|[EnvelopeHide](msoenvelope-envelopehide-event-office.md)|Occurs when the user interface (UI) that corresponds to the **MsoEnvelope** object is hidden.|
+|[EnvelopeShow](msoenvelope-envelopeshow-event-office.md)|Occurs when the user interface (UI) that corresponds to the **MsoEnvelope** object is displayed.|
 

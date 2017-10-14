@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Options.RTFInClipboard Property (Word)
 
-You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **RTFInClipboard** property for the **Options** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
+You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the **RTFInClipboard** property for the **Options** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
 
 ## Property value

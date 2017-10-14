@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ItemProperties.Add Method (Outlook)
 
-Adds an  **ItemProperty** object to the **ItemProperties** collection.
+Adds an **ItemProperty** object to the **ItemProperties** collection.
 
 
 ## Syntax
@@ -30,13 +30,13 @@ Adds an  **ItemProperty** object to the **ItemProperties** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new item property object.|
-| _Type_|Required| **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)**|The type of the new  **ItemProperty** .|
+| _Type_|Required| **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)**|The type of the new **ItemProperty** .|
 | _AddToFolderFields_|Optional| **Variant**|Determines if the item property will be added to the folder fields.|
 | _DisplayFormat_|Optional| **Variant**|Defines the format of the field as it appears in a given folder.|
 
 ## Remarks
 
-You can create a property of a type that is defined by the  **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**,  **olOutlookInternal**, and  **olSmartFrom**.
+You can create a property of a type that is defined by the **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**, **olOutlookInternal**, and **olSmartFrom**.
 
 
 ## See also

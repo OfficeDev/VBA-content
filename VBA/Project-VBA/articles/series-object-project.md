@@ -12,7 +12,7 @@ Represents a collection of related data that makes a row or a column in a chart.
 
 ## Remarks
 
-A  **Series** object is a member of the **[SeriesCollection](seriescollection-object-project.md)** collection, which includes all of the data series in the chart. The name of the series is often displayed in the chart legend.
+A **Series** object is a member of the **[SeriesCollection](seriescollection-object-project.md)** collection, which includes all of the data series in the chart. The name of the series is often displayed in the chart legend.
  
 
  

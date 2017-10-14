@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSetup.PageHeight Property (Publisher)
 
-Returns or sets a  **Variant** that represents the height of the pages in a publication. Read/write.
+Returns or sets a **Variant** that represents the height of the pages in a publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **PageHeight**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ### Return Value

@@ -25,15 +25,15 @@ Returns or sets a value that specifies if the text on a shape is rotated if the 
 Returns or sets MsoTriState enumerations with the following values: 
 
 
--  **msoCTrue**
+- **msoCTrue**
     
--  **msoFalse**
+- **msoFalse**
     
--  **msoTriStateMixed**
+- **msoTriStateMixed**
     
--  **msoTriStateToggle**
+- **msoTriStateToggle**
     
--  **msoTrue**
+- **msoTrue**
     
 
 ## Example

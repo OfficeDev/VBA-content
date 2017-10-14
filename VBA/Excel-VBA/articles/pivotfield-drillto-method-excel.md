@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DrillTo Method (Excel)
 
-The  **DrillTo** method supports drilling to a specified PivotField from another PivotField.
+The **DrillTo** method supports drilling to a specified PivotField from another PivotField.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ The  **DrillTo** method supports drilling to a specified PivotField from another
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PivotFieldName_|Required| **String**|The name of the  **PivotField** to drill to.|
+| _PivotFieldName_|Required| **String**|The name of the **PivotField** to drill to.|
 
 ## Remarks
 

@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # Item Method, OptionButton Control Example
 
-The following example uses the  **Item** method to access individual members of the **Controls** and **Pages** collections. The user chooses an option button for either the **Controls** collection or the **MultiPage**, and then clicks the **CommandButton**. The name of the appropriate control is returned in the **Label**.
+The following example uses the **Item** method to access individual members of the **Controls** and **Pages** collections. The user chooses an option button for either the **Controls** collection or the **MultiPage**, and then clicks the **CommandButton**. The name of the appropriate control is returned in the **Label**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
 
 

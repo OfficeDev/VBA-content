@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.HeightRule Property (Word)
 
-Returns or sets the rule for determining the height of the specified cells or rows. Read/write  **WdRowHeightRule** .
+Returns or sets the rule for determining the height of the specified cells or rows. Read/write **WdRowHeightRule** .
 
 
 ## Syntax

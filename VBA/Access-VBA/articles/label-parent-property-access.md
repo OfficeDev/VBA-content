@@ -25,7 +25,7 @@ Returns the parent object for the specified object. Read-only.
 
 ## Remarks
 
-The  **Parent** property of a label control is the control the label is linked to.
+The **Parent** property of a label control is the control the label is linked to.
 
 
 ## See also

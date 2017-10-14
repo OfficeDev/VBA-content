@@ -25,7 +25,7 @@ Updates the specified linked OLE object.
 
 ## Remarks
 
-To update all the links in a presentation at once, use the  **[UpdateLinks](presentation-updatelinks-method-powerpoint.md)** method.
+To update all the links in a presentation at once, use the **[UpdateLinks](presentation-updatelinks-method-powerpoint.md)** method.
 
 
 ## Example

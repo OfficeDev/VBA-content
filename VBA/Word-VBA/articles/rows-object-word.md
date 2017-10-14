@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # Rows Object (Word)
 
-A collection of  **[Row](row-object-word.md)** objects that represent the table rows in the specified selection, range, or table.
+A collection of **[Row](row-object-word.md)** objects that represent the table rows in the specified selection, range, or table.
 
 
 ## Remarks
 
-Use the  **Rows** property to return the **Rows** collection. The following example centers rows in the first table in the active document between the left and right margins.
+Use the **Rows** property to return the **Rows** collection. The following example centers rows in the first table in the active document between the left and right margins.
 
 
 ```
 ActiveDocument.Tables(1).Rows.Alignment = wdAlignRowCenter
 ```
 
-Use the  **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
+Use the **Add** method to add a row to a table. The following example inserts a row before the first row in the selection.
 
 
 
@@ -31,7 +31,7 @@ If Selection.Information(wdWithInTable) = True Then
 End If
 ```
 
-Use  **Rows** (Index), where Index is the index number, to return a single **Row** object. The index number represents the position of the row in the selection, range, or table. The following example deletes the first row in the first table in the active document.
+Use **Rows** (Index), where Index is the index number, to return a single **Row** object. The index number represents the position of the row in the selection, range, or table. The following example deletes the first row in the first table in the active document.
 
 
 

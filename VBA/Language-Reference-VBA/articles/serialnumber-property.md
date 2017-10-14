@@ -21,8 +21,8 @@ Returns the decimal serial number used to uniquely identify a disk volume.
  _object_. **SerialNumber**
 The  _object_ is always a **Drive** object.
  **Remarks**
-You can use the  **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
-The following code illustrates the use of the  **SerialNumber** property:
+You can use the **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
+The following code illustrates the use of the **SerialNumber** property:
 
 
 

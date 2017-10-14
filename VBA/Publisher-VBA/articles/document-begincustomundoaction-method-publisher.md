@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.BeginCustomUndoAction Method (Publisher)
 
-Specifies the starting point and label (textual description) of a group of actions that are wrapped to create a single undo action. The  **[EndCustomUndoAction](document-endcustomundoaction-method-publisher.md)** method is used to specify the endpoint of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
+Specifies the starting point and label (textual description) of a group of actions that are wrapped to create a single undo action. The **[EndCustomUndoAction](document-endcustomundoaction-method-publisher.md)** method is used to specify the endpoint of the actions used to create the single undo action. The wrapped group of actions can be undone with a single undo.
 
 
 ## Syntax
 
  _expression_. **BeginCustomUndoAction**( **_ActionName_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -33,39 +33,39 @@ Specifies the starting point and label (textual description) of a group of actio
 
 ## Remarks
 
-The following methods of the  **Document** object are unavailable within a custom undo action. A run-time error is returned if any of these methods are called within a custom undo action:
+The following methods of the **Document** object are unavailable within a custom undo action. A run-time error is returned if any of these methods are called within a custom undo action:
 
 
--  **Document.Close**
+- **Document.Close**
     
--  **Document.MailMerge.DataSource.Close**
+- **Document.MailMerge.DataSource.Close**
     
--  **Document.PrintOut**
+- **Document.PrintOut**
     
--  **Document.Redo**
+- **Document.Redo**
     
--  **Document.Save**
+- **Document.Save**
     
--  **Document.SaveAs**
+- **Document.SaveAs**
     
--  **Document.Undo**
+- **Document.Undo**
     
--  **Document.UndoClear**
+- **Document.UndoClear**
     
--  **Document.UpdateOLEObjects**
+- **Document.UpdateOLEObjects**
     
 
 
-The  **BeginCustomUndoAction** method must be called before the **EndCustomUndoAction** method is called. A run-time error is returned if **EndCustomUndoAction** is called before **BeginCustomUndoAction**.
+The **BeginCustomUndoAction** method must be called before the **EndCustomUndoAction** method is called. A run-time error is returned if **EndCustomUndoAction** is called before **BeginCustomUndoAction**.
 
 Nesting a custom undo action within another custom undo action is allowed, but the nested custom undo action has no effect. Only the outermost custom undo action is active.
 
 
 ## Example
 
-The following example contains two custom undo actions. The first one is created on the first page of the active publication. The  **BeginCustomUndoAction** method is used to specify the point at which the custom undo action should begin. Six individual actions are performed, and then they are wrapped into one action with the call to **EndCustomUndoAction**. 
+The following example contains two custom undo actions. The first one is created on the first page of the active publication. The **BeginCustomUndoAction** method is used to specify the point at which the custom undo action should begin. Six individual actions are performed, and then they are wrapped into one action with the call to **EndCustomUndoAction**. 
 
-The text in the text frame that was created within the first custom undo action is then tested to determine whether the font is Verdana. If not, the  **Undo** method is called with **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** passed as a parameter. In this case there is only one undo action available. So, the call to ** [Undo Method](document-undo-method-publisher.md)** will undo only one action, but this one action has wrapped six actions into one.
+The text in the text frame that was created within the first custom undo action is then tested to determine whether the font is Verdana. If not, the **Undo** method is called with **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** passed as a parameter. In this case there is only one undo action available. So, the call to ** [Undo Method](document-undo-method-publisher.md)** will undo only one action, but this one action has wrapped six actions into one.
 
 A second undo action is then created, and it could also be undone later with a single undo operation.
 

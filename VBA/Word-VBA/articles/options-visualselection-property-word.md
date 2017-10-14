@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.VisualSelection Property (Word)
 
-Returns or sets the selection behavior based on visual cursor movement in a right-to-left language document. Read/write  **WdVisualSelection** .
+Returns or sets the selection behavior based on visual cursor movement in a right-to-left language document. Read/write **WdVisualSelection** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the selection behavior based on visual cursor movement in a righ
 
 ## Remarks
 
-The  **CursorMovement** property must be set to **wdCursorMovementVisual** to use this property.
+The **CursorMovement** property must be set to **wdCursorMovementVisual** to use this property.
 
 
 ## Example

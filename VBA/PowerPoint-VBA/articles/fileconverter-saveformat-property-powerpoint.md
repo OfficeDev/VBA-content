@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.SaveFormat Property (PowerPoint)
 
-Returns the file format of the specified document or file converter. Read-only  **Long**.
+Returns the file format of the specified document or file converter. Read-only **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmarks.Add Method (Word)
 
-Returns a  **Bookmark** object that represents a bookmark added to a range.
+Returns a **Bookmark** object that represents a bookmark added to a range.
 
 
 ## Syntax

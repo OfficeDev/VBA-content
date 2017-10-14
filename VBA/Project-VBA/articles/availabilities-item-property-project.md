@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Availabilities.Item Property (Project)
 
-Gets a single  **Availability** object from the **Availabilities** collection. Read-only **Availability**.
+Gets a single **Availability** object from the **Availabilities** collection. Read-only **Availability**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextInput.Format Property (Word)
 
-Returns the text formatting for the specified text box. Read-only  **String** .
+Returns the text formatting for the specified text box. Read-only **String** .
 
 
 ## Syntax

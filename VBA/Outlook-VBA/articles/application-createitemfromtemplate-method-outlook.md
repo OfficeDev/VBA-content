@@ -34,7 +34,7 @@ Creates a new Microsoft Outlook item from an Outlook template (.oft) and returns
 
 ### Return Value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks
@@ -44,7 +44,7 @@ New items will always open in compose mode, as opposed to read mode, regardless 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **CreateItemFromTemplate** to create a new item from an Outlook template and then displays it. The `CreateTemplate` macro shows you how to create the template that is used in the first example. To avoid errors, replace 'Dan Wilson' with a valid name in your address book.
+This Visual Basic for Applications (VBA) example uses **CreateItemFromTemplate** to create a new item from an Outlook template and then displays it. The `CreateTemplate` macro shows you how to create the template that is used in the first example. To avoid errors, replace 'Dan Wilson' with a valid name in your address book.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IMsoContactCard.CardType Property (Office)
 
-A  **MsoContactCardType** value that represents the type of a Contact card. Read-only
+A **MsoContactCardType** value that represents the type of a Contact card. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ A  **MsoContactCardType** value that represents the type of a Contact card. Read
 
 ## Remarks
 
-The  **MsoContactCardType** enumeration consists of the following members:
+The **MsoContactCardType** enumeration consists of the following members:
 
 
 

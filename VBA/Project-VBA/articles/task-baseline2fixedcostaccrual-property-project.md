@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline2FixedCostAccrual Property (Project)
 
-Gets or sets when the  **Task** baseline2 accrues fixed costs. Read/write **Long**. Can be one of the **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants.
+Gets or sets when the **Task** baseline2 accrues fixed costs. Read/write **Long**. Can be one of the **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants.
 
 
 ## Syntax

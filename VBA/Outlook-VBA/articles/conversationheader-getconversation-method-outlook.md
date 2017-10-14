@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.GetConversation Method (Outlook)
 
-Obtains a  **[Conversation](conversation-object-outlook.md)** object that represents the conversation to which this conversation header belongs.
+Obtains a **[Conversation](conversation-object-outlook.md)** object that represents the conversation to which this conversation header belongs.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Obtains a  **[Conversation](conversation-object-outlook.md)** object that repres
 
 ### Return Value
 
-A  **Conversation** object that represents the conversation to which this conversation header belongs.
+A **Conversation** object that represents the conversation to which this conversation header belongs.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ A  **Conversation** object that represents the conversation to which this conver
     
 - Conversations are disabled through the Windows registry.
     
-- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange that is earlier than Microsoft Exchange Server 2010). Use the  **[IsConversationEnabled](store-isconversationenabled-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object to determine whether the store supports Conversation view.
+- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange that is earlier than Microsoft Exchange Server 2010). Use the **[IsConversationEnabled](store-isconversationenabled-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object to determine whether the store supports Conversation view.
     
 
 

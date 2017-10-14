@@ -18,7 +18,7 @@ Represents the drop lines in the specified chart group. Drop lines connect the p
 
 ## Using the DropLines Object
 
-Use the  **DropLines** property to return the **DropLines** object. The following example turns on drop lines for chart group one in the chart and then sets the drop-line color to red.
+Use the **DropLines** property to return the **DropLines** object. The following example turns on drop lines for chart group one in the chart and then sets the drop-line color to red.
 
 
 ```vb
@@ -29,6 +29,6 @@ myChart.ChartGroups(1).DropLines.Border.ColorIndex = 3
 
 ## Remarks
 
-If the  **[HasDropLines](hasdroplines-property.md)** property is  **False**, most properties of the  **DropLines** object are disabled.
+If the **[HasDropLines](hasdroplines-property.md)** property is **False**, most properties of the **DropLines** object are disabled.
 
 

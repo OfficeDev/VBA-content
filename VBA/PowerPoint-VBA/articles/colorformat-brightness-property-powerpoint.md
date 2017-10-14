@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.Brightness Property (PowerPoint)
 
-Returns or sets the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write  **Single**.
+Returns or sets the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write **Single**.
 
 
 ## Syntax

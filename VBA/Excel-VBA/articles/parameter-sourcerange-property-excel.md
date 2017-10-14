@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.SourceRange Property (Excel)
 
-Returns a  **Range** object that represents the cell that contains the value of the specified query parameter. Read-only.
+Returns a **Range** object that represents the cell that contains the value of the specified query parameter. Read-only.
 
 
 ## Syntax

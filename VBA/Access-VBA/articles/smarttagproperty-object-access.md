@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SmartTagProperty Object (Access)
 
-Represents a single instance of a custom property for a smart tag. The  **SmartTagProperty** object is a member of the **[SmartTagProperties](smarttagproperties-object-access.md)** collection.
+Represents a single instance of a custom property for a smart tag. The **SmartTagProperty** object is a member of the **[SmartTagProperties](smarttagproperties-object-access.md)** collection.
 
 
 ## Remarks
 
-To return a  **SmartTagProperty** object, use the **Item** method of the **SmartTagProperties** collection, or use **SmartTagProperties** ( _Index_), where  _Index_ is the number of the property. To return the information related to a custom property for a smart tag, use the **Name** and **Value** properties of the **SmartTagProperty** object.
+To return a **SmartTagProperty** object, use the **Item** method of the **SmartTagProperties** collection, or use **SmartTagProperties** ( _Index_), where  _Index_ is the number of the property. To return the information related to a custom property for a smart tag, use the **Name** and **Value** properties of the **SmartTagProperty** object.
 
 
 ## Methods

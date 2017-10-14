@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ServerIdentification Property (Project)
 
-Gets or sets the way Project Professional users are identified to Project Server. Read/write  **PjAuthentication**.
+Gets or sets the way Project Professional users are identified to Project Server. Read/write **PjAuthentication**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the way Project Professional users are identified to Project Server
 
 ## Remarks
 
-The  **ServerIdentification** property can be one of the following **[PjAuthentication](pjauthentication-enumeration-project.md)** constants: **pjWindowsUserAccount** or **pjUserName**.
+The **ServerIdentification** property can be one of the following **[PjAuthentication](pjauthentication-enumeration-project.md)** constants: **pjWindowsUserAccount** or **pjUserName**.
 
 

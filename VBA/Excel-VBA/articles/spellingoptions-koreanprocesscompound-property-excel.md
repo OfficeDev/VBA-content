@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.KoreanProcessCompound Property (Excel)
 
-When set to  **True** , this enables Microsoft Excel to process Korean compound nouns when using the spelling checker. Read/write **Boolean** .
+When set to **True** , this enables Microsoft Excel to process Korean compound nouns when using the spelling checker. Read/write **Boolean** .
 
 
 ## Syntax

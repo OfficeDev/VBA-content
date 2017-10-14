@@ -29,7 +29,7 @@ Sets the Windows registry value that determines the default application used to 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ClassType_|Required| **String**|The name of the application in which an OLE object is opened. To see a list of object types that the OLE object can be activated as, click the object and then open the  **Convert** dialog box. You can find the ClassType string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."|
+| _ClassType_|Required| **String**|The name of the application in which an OLE object is opened. To see a list of object types that the OLE object can be activated as, click the object and then open the **Convert** dialog box. You can find the ClassType string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."|
 
 ## Example
 

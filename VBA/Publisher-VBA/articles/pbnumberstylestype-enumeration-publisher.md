@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # PbNumberStylesType Enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Font.NumberStyle](font-numberstyle-property-publisher.md)** property, specifying the state of the **NumberStyle** property on the numerical characters in a text range.
+Constants passed to and returned by the ** [Font.NumberStyle](font-numberstyle-property-publisher.md)** property, specifying the state of the **NumberStyle** property on the numerical characters in a text range.
 
 
 

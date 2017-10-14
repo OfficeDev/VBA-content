@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.MailEnvelope Property (Word)
 
-Returns an  **MsoEnvelope** object that represents an e-mail header for a document.
+Returns an **MsoEnvelope** object that represents an e-mail header for a document.
 
 
 ## Syntax

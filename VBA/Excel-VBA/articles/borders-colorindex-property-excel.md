@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.ColorIndex Property (Excel)
 
-Returns or sets a  **Variant** value that represents the color of all four borders.
+Returns or sets a **Variant** value that represents the color of all four borders.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets a  **Variant** value that represents the color of all four borde
 
 ## Remarks
 
-This property returns  **Null** if all four borders aren't the same color.
+This property returns **Null** if all four borders aren't the same color.
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
 
 
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**
     
--  **xlColorIndexNone**
+- **xlColorIndexNone**
     
 
 ## See also

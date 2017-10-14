@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SaveSentMessageFolder Property (Outlook)
 
-Returns or sets a  **[Folder](folder-object-outlook.md)** object that represents the folder in which a copy of the **[SharingItem](sharingitem-object-outlook.md)** will be saved after being sent. Read/write.
+Returns or sets a **[Folder](folder-object-outlook.md)** object that represents the folder in which a copy of the **[SharingItem](sharingitem-object-outlook.md)** will be saved after being sent. Read/write.
 
 
 ## Syntax

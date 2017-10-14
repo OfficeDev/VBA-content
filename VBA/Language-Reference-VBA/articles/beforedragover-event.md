@@ -21,16 +21,16 @@ For Frame **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms
 For MultiPage **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For TabStrip **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
 For other controls **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
-The  **BeforeDragOver** event syntax has these parts:
+The **BeforeDragOver** event syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the  **Page** in a **MultiPage** that the drag-and-drop operation will affect.|
-| _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
+| _index_|Required. The index of the **Page** in a **MultiPage** that the drag-and-drop operation will affect.|
+| _Cancel_|Required. Event status. **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 | _ctrl_|Required. The control being dragged over.|
-| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a  **DataObject**.|
+| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a **DataObject**.|
 | _X, Y_|Required. The horizontal and vertical coordinates of the control's position. Both coordinates are measured in points.  _X_ is measured from the left edge of the control; _Y_ is measured from the top of the control..|
 | _DragState_|Required. Transition state of the data being dragged.|
 | _Effect_|Required. Operations supported by the [drop source](glossary-vba.md).|

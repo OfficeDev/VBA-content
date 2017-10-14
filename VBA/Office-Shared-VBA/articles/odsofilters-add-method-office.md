@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilters.Add Method (Office)
 
-Adds a new filter to the  **ODSOFilters** collection.
+Adds a new filter to the **ODSOFilters** collection.
 
 
 ## Syntax
@@ -31,9 +31,9 @@ Adds a new filter to the  **ODSOFilters** collection.
 |:-----|:-----|:-----|:-----|
 | _Column_|Required|**String**|The name of the table in the data source.|
 | _Comparison_|Required|**MsoFilterComparison**|How the data in the table is filtered.|
-| _Conjunction_|Required|**MsoFilterConjunction**|Determines how this filter relates to other filters in the  **ODSOFilters** object.|
+| _Conjunction_|Required|**MsoFilterConjunction**|Determines how this filter relates to other filters in the **ODSOFilters** object.|
 | _bstrCompareTo_|Optional|**String**|If the  _Comparison_ argument is something other than **msoFilterComparisonIsBlank** or **msoFilterComparisonIsNotBlank**, a string to which the data in the table is compared.|
-| _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is  **False**.|
+| _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is **False**.|
 
 ## See also
 

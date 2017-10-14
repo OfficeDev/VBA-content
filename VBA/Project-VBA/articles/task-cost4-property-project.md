@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Cost4 Property (Project)
 
-Gets or sets the value of the  **Cost4** custom field for the task. Read/write **Variant**.
+Gets or sets the value of the **Cost4** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax

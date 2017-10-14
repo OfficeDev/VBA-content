@@ -19,12 +19,12 @@ In this approach, you take a standard Microsoft Outlook item, such as a contact,
 
 1. Open the item on which you want to base the form. For example, if you want your form to organize and collect information about a person or organization, open a contact. 
     
-2. In the item, on the  **Developer** tab, in the **Form** group, click **Design This Form** to open the item in design mode.
+2. In the item, on the **Developer** tab, in the **Form** group, click **Design This Form** to open the item in design mode.
     
-     **Note**  If you do not see the  **Developer** tab in the open contact, see the topic [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md).
-3. Set attributes for the form. In design mode, you add attributes such as a caption, password, or description on the  **Properties** page. The **Actions** page lists default Reply forms. You can add your own custom Reply forms to the **Actions** page, and you can change several aspects of how the default Reply forms work.
+    **Note**  If you do not see the **Developer** tab in the open contact, see the topic [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md).
+3. Set attributes for the form. In design mode, you add attributes such as a caption, password, or description on the **Properties** page. The **Actions** page lists default Reply forms. You can add your own custom Reply forms to the **Actions** page, and you can change several aspects of how the default Reply forms work.
     
-4. Design the form by moving, removing, and adding fields and pages in the form. All the fields in the form and all the fields you add from the  **Field Chooser** retain their built-in properties and functionality.
+4. Design the form by moving, removing, and adding fields and pages in the form. All the fields in the form and all the fields you add from the **Field Chooser** retain their built-in properties and functionality.
     
 5.  [Test and publish](testing-and-publishing-your-forms.md) your form. You can see how your form looks right away; open your new form in run mode by clicking **Run This Form** in the **Form** group on the form. You can publish your form to your Personal Forms Library or to a folder to test it, and then publish the form to a public folder or to the Organization Forms Library so that others can use it.
     

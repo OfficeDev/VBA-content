@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.CommitRenderingTransaction Method (Office)
 
-Commits the rendering transaction. Returns  **Nothing**.
+Commits the rendering transaction. Returns **Nothing**.
 
 
 ## Syntax

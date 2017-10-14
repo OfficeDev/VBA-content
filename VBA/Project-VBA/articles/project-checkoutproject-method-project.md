@@ -26,7 +26,7 @@ Checks out an open project that is currently in read-only mode.
 
 ## Remarks
 
-If the active project in Project Professional is in read-only mode, the  **CheckoutProject**.method checks out the project so that it is in read/write mode for editing. If the active project is already checked out, Project shows a dialog box with the message, "This project is already checked out to you on a different computer or Project Web App session."
+If the active project in Project Professional is in read-only mode, the **CheckoutProject**.method checks out the project so that it is in read/write mode for editing. If the active project is already checked out, Project shows a dialog box with the message, "This project is already checked out to you on a different computer or Project Web App session."
 
 
 ## Example

@@ -33,12 +33,12 @@ Opens a page in design mode in the inspector for the specified form region.
 
 ### Return Value
 
-An  **Object** that represents the page displaying the form region in the inspector.
+An **Object** that represents the page displaying the form region in the inspector.
 
 
 ## Remarks
 
-If the inspector is not already in design mode,  **OpenFormRegion** will put it in design mode.
+If the inspector is not already in design mode, **OpenFormRegion** will put it in design mode.
 
 
 ## See also

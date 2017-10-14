@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconCriterion.Operator Property (Excel)
 
-Returns or sets one of the constants of the  **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** enumeration, which specifes if the threshold is "greater than" or "greater than or equal to" the threshold value.
+Returns or sets one of the constants of the **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** enumeration, which specifes if the threshold is "greater than" or "greater than or equal to" the threshold value.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets one of the constants of the  **[XlFormatConditionOperator](xlfor
 
 ## Remarks
 
-For an icon set conditional formatting rule, this property can be set to only one of the following two constants:  **xlGreater** or **xlGreaterEqual** .
+For an icon set conditional formatting rule, this property can be set to only one of the following two constants: **xlGreater** or **xlGreaterEqual** .
 
 
 ## See also

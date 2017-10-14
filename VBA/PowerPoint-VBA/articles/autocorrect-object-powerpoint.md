@@ -18,7 +18,7 @@ Represents the AutoCorrect functionality in Microsoft PowerPoint.
 
 ## Example
 
-Use the [AutoCorrect](application-autocorrect-property-powerpoint.md)property to return an  **AutoCorrect** object. The following example disables displaying the AutoCorrect options buttons.
+Use the [AutoCorrect](application-autocorrect-property-powerpoint.md)property to return an **AutoCorrect** object. The following example disables displaying the AutoCorrect options buttons.
 
 
 ```vb

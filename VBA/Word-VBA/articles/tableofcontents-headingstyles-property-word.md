@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.HeadingStyles Property (Word)
 
-Returns a  **[HeadingStyles](headingstyles-object-word.md)** object that represents additional styles used to compile a table of contents or table of figures (styles other than the Heading 1 - Heading 9 styles). Read-only.
+Returns a **[HeadingStyles](headingstyles-object-word.md)** object that represents additional styles used to compile a table of contents or table of figures (styles other than the Heading 1 - Heading 9 styles). Read-only.
 
 
 ## Syntax

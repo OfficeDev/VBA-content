@@ -18,5 +18,5 @@ Moves the [focus](vbe-glossary.md) to the specified window.
  _object_**.SetFocus**
 The  _object_ placeholder is an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-Use the  **SetFocus** method on windows that are already visible.
+Use the **SetFocus** method on windows that are already visible.
 

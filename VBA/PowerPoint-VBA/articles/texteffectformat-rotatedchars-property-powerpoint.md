@@ -30,11 +30,11 @@ MsoTriState
 
 ## Remarks
 
-If the WordArt has horizontal text, setting the  **RotatedChars** property to **msoTrue** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **msoFalse** rotates the characters 90 degrees clockwise. Use the **ToggleVerticalText** method to switch between horizontal and vertical text flow.
+If the WordArt has horizontal text, setting the **RotatedChars** property to **msoTrue** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **msoFalse** rotates the characters 90 degrees clockwise. Use the **ToggleVerticalText** method to switch between horizontal and vertical text flow.
 
-The  **[Flip](shape-flip-method-powerpoint.md)** method and **[Rotation](shape-rotation-property-powerpoint.md)** property of the **[Shape](shape-object-powerpoint.md)** object and the **RotatedChars** property and **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-powerpoint.md)** method of the **TextEffectFormat** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](shape-flip-method-powerpoint.md)** method and **[Rotation](shape-rotation-property-powerpoint.md)** property of the **[Shape](shape-object-powerpoint.md)** object and the **RotatedChars** property and **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-powerpoint.md)** method of the **TextEffectFormat** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
-The value of the  **RotatedChars** property can be one of these **MsoTriState** constants.
+The value of the **RotatedChars** property can be one of these **MsoTriState** constants.
 
 
 

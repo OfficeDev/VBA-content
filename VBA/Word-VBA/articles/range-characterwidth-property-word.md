@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CharacterWidth Property (Word)
 
-Returns or sets the character width of the specified range. Read/write  **WdCharacterWidth** .
+Returns or sets the character width of the specified range. Read/write **WdCharacterWidth** .
 
 
 ## Syntax

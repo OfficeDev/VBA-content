@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HorizontalLineFormat.WidthType Property (Word)
 
-Returns or sets the width type for the specified  **HorizontalLineFormat** object. Read/write **WdHorizontalLineWidthType** .
+Returns or sets the width type for the specified **HorizontalLineFormat** object. Read/write **WdHorizontalLineWidthType** .
 
 
 ## Syntax

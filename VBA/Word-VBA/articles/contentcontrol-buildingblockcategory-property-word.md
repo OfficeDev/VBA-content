@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.BuildingBlockCategory Property (Word)
 
-Returns or sets a  **String** that represents the category for a building block content control. Read/write.
+Returns or sets a **String** that represents the category for a building block content control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the category for a building block 
 
 ## Remarks
 
-This property applies only to building block content controls and corresponds with the  **Category** option in the **Content Control Properties** dialog box. You can set this property to any string; however, if you set it to a string for which there is no corresponding category, the value of the **Category** option is set to "(All Categories)".
+This property applies only to building block content controls and corresponds with the **Category** option in the **Content Control Properties** dialog box. You can set this property to any string; however, if you set it to a string for which there is no corresponding category, the value of the **Category** option is set to "(All Categories)".
 
 
 ## Example

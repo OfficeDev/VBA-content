@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.HebrewModes Property (Excel)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](xlhebrewmodes-enumeration-excel.md)** .
+Returns or sets the mode for the Hebrew spelling checker. Read/write **[XlHebrewModes](xlhebrewmodes-enumeration-excel.md)** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Documents Property (Publisher)
 
-Returns a  **[Documents](documents-object-publisher.md)** collection that represents all open publications. Read-only.
+Returns a **[Documents](documents-object-publisher.md)** collection that represents all open publications. Read-only.
 
 
 ## Syntax
 
  _expression_. **Documents**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

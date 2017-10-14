@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.Selection Property (PowerPoint)
 
-Returns a  **[Selection](selection-object-powerpoint.md)** object that represents the selection in the specified document window. Read-only.
+Returns a **[Selection](selection-object-powerpoint.md)** object that represents the selection in the specified document window. Read-only.
 
 
 ## Syntax

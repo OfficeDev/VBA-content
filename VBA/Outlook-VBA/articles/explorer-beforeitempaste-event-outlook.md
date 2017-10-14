@@ -40,7 +40,7 @@ This event can be cancelled after it has started.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user before pasting the contents of the Clipboard to the specified target. If the user clicks  **Yes**, the current content in the Clipboard is copied to the specified target destination. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user before pasting the contents of the Clipboard to the specified target. If the user clicks **Yes**, the current content in the Clipboard is copied to the specified target destination. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
 
 
 ```vb

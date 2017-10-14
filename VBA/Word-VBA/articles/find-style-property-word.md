@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Style Property (Word)
 
-Returns or sets the style for the specified object. Read/write  **Variant** .
+Returns or sets the style for the specified object. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style for the specified object. Read/write  **Variant** .
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style.
+To set this property, specify the local name of the style, an integer, a **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style.
 
 
 ## See also

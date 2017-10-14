@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.SourceConnectionFile Property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
 
 
 ## Syntax

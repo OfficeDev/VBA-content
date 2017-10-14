@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.KeyCategory Property (Word)
 
-Returns the type of item assigned to the specified key binding. Read-only  **WdKeyCategory** .
+Returns the type of item assigned to the specified key binding. Read-only **WdKeyCategory** .
 
 
 ## Syntax

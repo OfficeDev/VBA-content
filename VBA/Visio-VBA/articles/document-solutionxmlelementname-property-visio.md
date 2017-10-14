@@ -38,6 +38,6 @@ String
 
 ## Remarks
 
-The only way to retrieve SolutionXML data is by name. You can use the  **SolutionXMLElementName** property to get the element name to pass to the **SolutionXMLElement** property.
+The only way to retrieve SolutionXML data is by name. You can use the **SolutionXMLElementName** property to get the element name to pass to the **SolutionXMLElement** property.
 
 

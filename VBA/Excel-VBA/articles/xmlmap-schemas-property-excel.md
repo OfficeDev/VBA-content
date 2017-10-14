@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The first item in the returned  **XmlSchemas** collection is the schema that is used as the root element of the specified XML schema map.
+The first item in the returned **XmlSchemas** collection is the schema that is used as the root element of the specified XML schema map.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.AuthorIndex Property (PowerPoint)
 
-Returns a  **Long** representing the index number of a comment for a given author. The first comment for a given author has an index number of 1, their second comment has an index number of 2. Read-only.
+Returns a **Long** representing the index number of a comment for a given author. The first comment for a given author has an index number of 1, their second comment has an index number of 2. Read-only.
 
 
 ## Syntax

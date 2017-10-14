@@ -28,6 +28,6 @@ When expressions contain operators from more than one category, arithmetic opera
 |String concatenation ( **&;** )|**LikeIs**||
 When multiplication and division occur together in an expression, each operation is evaluated as it occurs from left to right. When addition and subtraction occur together in an expression, each operation is evaluated in order of appearance from left to right. Parentheses can be used to override the order of precedence and force some parts of an expression to be evaluated before others. Operations within parentheses are always performed before those outside. Within parentheses, however, operator precedence is maintained.
 The string concatenation operator ( **&;** ) is not an arithmetic operator, but in precedence, it does follow all arithmetic operators and precede all comparison operators.
-The  **Like** operator is equal in precedence to all comparison operators, but is actually a pattern-matching operator.
-The  **Is** operator is an object reference comparison operator. It does not compare objects or their values; it checks only to determine if two object references refer to the same object.
+The **Like** operator is equal in precedence to all comparison operators, but is actually a pattern-matching operator.
+The **Is** operator is an object reference comparison operator. It does not compare objects or their values; it checks only to determine if two object references refer to the same object.
 

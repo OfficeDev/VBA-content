@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  **Set Form, Report, and Control Properties**
+- **Set Form, Report, and Control Properties**
     
 - [Set Options from Visual Basic](set-options-from-visual-basic.md)
     

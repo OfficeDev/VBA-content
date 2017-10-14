@@ -29,14 +29,14 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TopLeft_|Optional|**Long**|The format for dates in the upper-left corner of each date box. Can be one of the  **[PjCalendarDateLabel](pjcalendardatelabel-enumeration-project.md)** constants.|
-| _TopRight_|Optional|**Long**|The format for dates in the upper-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _BottomLeft_|Optional|**Long**|The format for dates in the lower-left corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _BottomRight_|Optional|**Long**|The format for dates in the lower-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
-| _BottomColor_|Optional|**Long**|The color of the bottom band in each date box. Can be one of the  **PjColor** constants.|
-| _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the  **PjFillPattern** constants.|
+| _TopLeft_|Optional|**Long**|The format for dates in the upper-left corner of each date box. Can be one of the **[PjCalendarDateLabel](pjcalendardatelabel-enumeration-project.md)** constants.|
+| _TopRight_|Optional|**Long**|The format for dates in the upper-right corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _BottomLeft_|Optional|**Long**|The format for dates in the lower-left corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _BottomRight_|Optional|**Long**|The format for dates in the lower-right corner of each date box. Can be one of the **PjCalendarDateLabel** constants.|
+| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _BottomColor_|Optional|**Long**|The color of the bottom band in each date box. Can be one of the **PjColor** constants.|
+| _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the **PjFillPattern** constants.|
 
 ### Return Value
 
@@ -45,9 +45,9 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 
 ## Remarks
 
-Using the  **CalendarDateBoxes** method with no arguments displays the **Timescale** dialog box with the **Date Boxes** tab selected.
+Using the **CalendarDateBoxes** method with no arguments displays the **Timescale** dialog box with the **Date Boxes** tab selected.
 
-To edit calendar date boxes where the colors can be RGB values, use the  **[CalendarDateBoxesEx](application-calendardateboxesex-method-project.md)** method.
+To edit calendar date boxes where the colors can be RGB values, use the **[CalendarDateBoxesEx](application-calendardateboxesex-method-project.md)** method.
 
 
 ## Example

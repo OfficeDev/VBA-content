@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PredecessorDrivers.TotalDetectedCount Property (Project)
 
-Gets the total number of predecessor tasks that affect the start date of a task. Read-only  **Long**.
+Gets the total number of predecessor tasks that affect the start date of a task. Read-only **Long**.
 
 
 ## Syntax

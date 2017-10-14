@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.RemovePersonalInformation Property (Publisher)
 
-Returns or sets a  **Boolean** that represents whether to save personal information when the file is saved. Read/write.
+Returns or sets a **Boolean** that represents whether to save personal information when the file is saved. Read/write.
 
 
 ## Syntax
 
  _expression_. **RemovePersonalInformation**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Boolean
 
 The information removed from the document is the Author, Manager, Company, and the GUID of the computer on which the document was created.
 
-The default setting for this property is  **False**.
+The default setting for this property is **False**.
 
 
 ## Example

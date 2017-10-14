@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns the indexed member of a [collection](vbe-glossary.md).
  **Syntax**
  _object_**.Item(**_index_**)**
-The  **Item** method syntax has these parts:
+The **Item** method syntax has these parts:
 
 
 |**Part**|**Description**|

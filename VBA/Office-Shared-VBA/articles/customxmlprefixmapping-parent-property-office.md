@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPrefixMapping.Parent Property (Office)
 
-Gets the  **Parent** object of the **CustomXMLPrefixMapping** object. Read-only.
+Gets the **Parent** object of the **CustomXMLPrefixMapping** object. Read-only.
 
 
 ## Syntax

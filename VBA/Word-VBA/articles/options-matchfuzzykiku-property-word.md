@@ -16,7 +16,7 @@ ms.date: 06/08/2017
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](images/fe107_ZA06051631.gif)" and "
 ![Symbol](images/fe112_ZA06051635.gif)" before 
-![](images/fe290_ZA06051769.gif)-row characters during a search. Read/write  **Boolean** .
+![](images/fe290_ZA06051769.gif)-row characters during a search. Read/write **Boolean** .
 
 
 ## Syntax

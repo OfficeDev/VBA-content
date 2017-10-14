@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.BookingType Property (Project)
 
-Gets the booking type for an assignment. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
+Gets the booking type for an assignment. Can be one of the following **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 
 
 ## Syntax

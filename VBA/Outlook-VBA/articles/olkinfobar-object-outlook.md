@@ -18,7 +18,7 @@ A control that provides an area to display specific information on a custom form
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook InfoBar Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook InfoBar Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor.
 
 The following is an example of this control at runtime. This control supports Microsoft Windows themes.
 

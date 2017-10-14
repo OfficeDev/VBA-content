@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When a new workbook is created, the default value for the  **UpdateRemoteReferences** property is **True** and dynamic data exchange (DDE) links and OLE links update automatically. If the value is **False** , DDE links and OLE links do not update automatically or during recalculation.
+When a new workbook is created, the default value for the **UpdateRemoteReferences** property is **True** and dynamic data exchange (DDE) links and OLE links update automatically. If the value is **False** , DDE links and OLE links do not update automatically or during recalculation.
 
 
 ## Example

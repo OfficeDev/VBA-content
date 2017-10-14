@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) indicating the sign of a number.
+Returns a **Variant** ( **Integer** ) indicating the sign of a number.
  **Syntax**
  **Sgn(**_number_**)**
 The required  _number_[argument](vbe-glossary.md) can be any valid[numeric expression](vbe-glossary.md).
@@ -30,7 +30,7 @@ The sign of the  _number_ argument determines the return value of the **Sgn** fu
 
 ## Example
 
-This example uses the  **Sgn** function to determine the sign of a number.
+This example uses the **Sgn** function to determine the sign of a number.
 
 
 ```vb

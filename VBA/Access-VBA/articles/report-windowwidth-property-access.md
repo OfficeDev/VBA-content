@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.WindowWidth Property (Access)
 
-Returns the width of a report in twips. Read-only  **Integer**.
+Returns the width of a report in twips. Read-only **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the width of a report in twips. Read-only  **Integer**.
 
 ## Remarks
 
-The  **WindowWidth** property is measured from the upper-left corner of the report to its upper-right corner.
+The **WindowWidth** property is measured from the upper-left corner of the report to its upper-right corner.
 
 
 ## See also

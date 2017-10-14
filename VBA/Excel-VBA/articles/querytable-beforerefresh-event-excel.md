@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.BeforeRefresh Event (Excel)
 
-Occurs before any refreshes of the query table. This includes refreshes resulting from calling the  **Refresh** method, from the user's actions in the product, and from opening the workbook containing the query table.
+Occurs before any refreshes of the query table. This includes refreshes resulting from calling the **Refresh** method, from the user's actions in the product, and from opening the workbook containing the query table.
 
 
 ## Syntax

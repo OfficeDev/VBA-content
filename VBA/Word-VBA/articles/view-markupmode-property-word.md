@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.MarkupMode Property (Word)
 
-Returns or sets a  **[WdRevisionsMode](wdrevisionsmode-enumeration-word.md)** constant that represents the display mode for tracked changes. Read/write.
+Returns or sets a **[WdRevisionsMode](wdrevisionsmode-enumeration-word.md)** constant that represents the display mode for tracked changes. Read/write.
 
 
 ## Syntax

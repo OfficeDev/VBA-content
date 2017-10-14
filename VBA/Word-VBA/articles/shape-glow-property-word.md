@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Glow Property (Word)
 
-Returns a  **[GlowFormat](glowformat-object-word.md)** object that represents the glow formatting for a shape. Read-only.
+Returns a **[GlowFormat](glowformat-object-word.md)** object that represents the glow formatting for a shape. Read-only.
 
 
 ## Syntax

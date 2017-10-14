@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShowChartTipValues Property
 
- **True** if charts show chart tip values. The default value is **True**. Read/write  **Boolean**.
+ **True** if charts show chart tip values. The default value is **True**. Read/write **Boolean**.
 
 
 ## Example

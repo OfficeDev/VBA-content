@@ -26,11 +26,11 @@ MyArray(8) = 234 ' Causes Error 9.
   ```
 
 
-    Visual Basic doesn't implicitly dimension unspecified array ranges as 0 - 10. Instead, you must use  **Dim** or **ReDim** to specify explicitly the number of elements in an array.
+    Visual Basic doesn't implicitly dimension unspecified array ranges as 0 - 10. Instead, you must use **Dim** or **ReDim** to specify explicitly the number of elements in an array.
     
-- You referenced a nonexistent collection member. Try using the  **For Each...Next** construct instead of specifying index elements.
+- You referenced a nonexistent collection member. Try using the **For Each...Next** construct instead of specifying index elements.
     
-- You used a shorthand form of subscript that implicitly specified an invalid element. For example, when you use the  **!** operator with a collection, the **!** implicitly specifies a key. For example, _object_**!**_keyname_**.** value is equivalent to _object_**.** item **(**_keyname_**).** value. In this case, an error is generated if _keyname_ represents an invalid key in the collection. To fix the error, use a valid key name or index for the collection.
+- You used a shorthand form of subscript that implicitly specified an invalid element. For example, when you use the **!** operator with a collection, the **!** implicitly specifies a key. For example, _object_**!**_keyname_**.** value is equivalent to _object_**.** item **(**_keyname_**).** value. In this case, an error is generated if _keyname_ represents an invalid key in the collection. To fix the error, use a valid key name or index for the collection.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

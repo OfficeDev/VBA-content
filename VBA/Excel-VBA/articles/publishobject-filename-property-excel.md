@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.Filename Property (Excel)
 
-Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write  **String** .
+Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the URL (on the intranet or the Web) or path (local or network) 
 
 ## Remarks
 
-The  **FileName** property generates an error if a folder in the specified path doesn't exist.
+The **FileName** property generates an error if a folder in the specified path doesn't exist.
 
 
 ## Example

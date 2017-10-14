@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variable.Name Property (Word)
 
-Returns the name of the specified object. Read-only  **String** .
+Returns the name of the specified object. Read-only **String** .
 
 
 ## Syntax

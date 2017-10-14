@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DependencyInfo.Dependants Property (Access)
 
-Returns a  **[DependencyObjects](dependencyobjects-object-access.md)** collection that represents the objects that depend upon the specified **[AccessObject](accessobject-object-access.md)** object. Read-only.
+Returns a **[DependencyObjects](dependencyobjects-object-access.md)** collection that represents the objects that depend upon the specified **[AccessObject](accessobject-object-access.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[DependencyObjects](dependencyobjects-object-access.md)** collectio
 
 ## Remarks
 
-To return the collection of objects that an  **AccessObject** object depends upon, use the **[Dependencies](dependencyinfo-dependencies-property-access.md)** property of the **DependencyInfo** object.
+To return the collection of objects that an **AccessObject** object depends upon, use the **[Dependencies](dependencyinfo-dependencies-property-access.md)** property of the **DependencyInfo** object.
 
 
 ## See also

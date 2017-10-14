@@ -40,7 +40,7 @@ Shape
 
 ## Remarks
 
-The  **DrawSpline** method creates a new shape whose path falls within the given tolerance of the given array of points. To fit the given points exactly, specify a tolerance of zero (0). Typically, the **DrawSpline** method fits spline segments through the points, but it sometimes produces line or circular arc segments in the new shape.
+The **DrawSpline** method creates a new shape whose path falls within the given tolerance of the given array of points. To fit the given points exactly, specify a tolerance of zero (0). Typically, the **DrawSpline** method fits spline segments through the points, but it sometimes produces line or circular arc segments in the new shape.
 
 The control points and tolerance are in internal drawing units (inches) with respect to the coordinate space of the page, master, or group in which the new shape is being created. The passed array should be a SAFEARRAY of 8-byte floating point values passed by reference (VT_R8|VT_ARRAY|VT_BYREF). This is how Microsoft Visual Basic passes arrays to Automation objects.
 
@@ -63,7 +63,7 @@ If  _Flags_ includes **visSplinePeriodic** and the following conditions are met,
 
 - The last point must be a repetition of the first one.
     
-- If the flag  **visSplineAbrupt** is included as well, the entire closed path outlined by the points must be free of abrupt changes of direction and curvature.
+- If the flag **visSplineAbrupt** is included as well, the entire closed path outlined by the points must be free of abrupt changes of direction and curvature.
     
 
 

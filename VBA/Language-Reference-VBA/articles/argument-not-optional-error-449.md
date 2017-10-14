@@ -15,7 +15,7 @@ The number and types of [arguments](vbe-glossary.md) must match those expected. 
 
 
 
-- Incorrect number of arguments. Supply all necessary arguments. For example, the  **Left** function requires two arguments; the first representing the character string being operated on, and the second representing the number of characters to return from the left side of the string. Because neither argument is optional, both must be supplied.
+- Incorrect number of arguments. Supply all necessary arguments. For example, the **Left** function requires two arguments; the first representing the character string being operated on, and the second representing the number of characters to return from the left side of the string. Because neither argument is optional, both must be supplied.
     
 - Omitted argument isn't optional. An argument can only be omitted from a call to a user-defined [procedure](vbe-glossary.md) if it was declared **Optional** in the procedure declaration. Either supply the argument in the call or declare the[parameter ](vbe-glossary.md) **Optional** in the definition.
     

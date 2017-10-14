@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PageFields Property (Excel)
 
-Returns an object that represents either a single PivotTable field (a  **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently showing as page fields. Read-only.
+Returns an object that represents either a single PivotTable field (a **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently showing as page fields. Read-only.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 A hierarchy can contain only one page field.
 
-For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that?s returned reflects what?s currently in the cache.
+For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that's returned reflects what's currently in the cache.
 
 
 ## Example

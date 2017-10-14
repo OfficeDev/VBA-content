@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Speech.Direction Property (Excel)
 
-Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an **[XlSpeakDirection](xlspeakdirection-enumeration-excel.md)** constant. Read/write.
+Returns or sets the order in which the cells will be spoken. The value of the **Direction** property is an **[XlSpeakDirection](xlspeakdirection-enumeration-excel.md)** constant. Read/write.
 
 
 ## Syntax

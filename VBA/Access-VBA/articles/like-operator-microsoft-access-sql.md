@@ -28,7 +28,7 @@ Compares a string expression to a pattern in an SQL expression.
 
  _expression_ **Like** " _pattern_ "
 
-The  **Like** operator syntax has these parts:
+The **Like** operator syntax has these parts:
 
 
 
@@ -40,9 +40,9 @@ The  **Like** operator syntax has these parts:
 ## Remarks
 <a name="sectionSection1"> </a>
 
-You can use the  **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use wildcard characters to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example,  `Like "Sm*")`.
+You can use the **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use wildcard characters to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example,  `Like "Sm*")`.
 
-In an expression, you can use the  **Like** operator to compare a field value to a string expression. For example, if you enter `Like "C*"` in an SQL query, the query returns all field values beginning with the letter C. In a parameter query, you can prompt the user for a pattern to search for.
+In an expression, you can use the **Like** operator to compare a field value to a string expression. For example, if you enter `Like "C*"` in an SQL query, the query returns all field values beginning with the letter C. In a parameter query, you can prompt the user for a pattern to search for.
 
 The following example returns data that begins with the letter P followed by any letter between A and F and three digits:
 
@@ -53,7 +53,7 @@ The following example returns data that begins with the letter P followed by any
 Like "P[A-F]###"
 ```
 
-The following table shows how you can use  **Like** to test expressions for different patterns.
+The following table shows how you can use **Like** to test expressions for different patterns.
 
 
 

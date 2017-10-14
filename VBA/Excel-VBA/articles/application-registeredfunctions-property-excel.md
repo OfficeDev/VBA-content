@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RegisteredFunctions Property (Excel)
 
-Returns information about functions in either dynamic-link libraries (DLLs) or code resources that were registered with the REGISTER or REGISTER.ID macro functions. Read-only  **Variant** .
+Returns information about functions in either dynamic-link libraries (DLLs) or code resources that were registered with the REGISTER or REGISTER.ID macro functions. Read-only **Variant** .
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns information about functions in either dynamic-link libraries (DLLs) or c
 
 ## Remarks
 
-If you don?t specify the index arguments, this property returns an array that contains a list of all registered functions. Each row in the array contains information about a single function, as shown in the following table.
+If you don't specify the index arguments, this property returns an array that contains a list of all registered functions. Each row in the array contains information about a single function, as shown in the following table.
 
 
 
@@ -43,7 +43,7 @@ If you don?t specify the index arguments, this property returns an array that co
 |1|The name of the DLL or code resource|
 |2|The name of the procedure in the DLL or code resource|
 |3|Strings specifying the data types of the return values, and the number and data types of the arguments|
-If there are no registered functions, this property returns  **null** .
+If there are no registered functions, this property returns **null** .
 
 
 ## Example

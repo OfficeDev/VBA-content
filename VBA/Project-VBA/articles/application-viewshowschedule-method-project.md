@@ -30,6 +30,6 @@ Displays the schedule fields in a resource or task form.
 
 ## Remarks
 
-The  **ViewShowSchedule** method has no effect unless the active view contains a resource or task form.
+The **ViewShowSchedule** method has no effect unless the active view contains a resource or task form.
 
 

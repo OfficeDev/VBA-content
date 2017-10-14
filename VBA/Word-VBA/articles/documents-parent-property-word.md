@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Documents** object.
+Returns an **Object** that represents the parent object of the specified **Documents** object.
 
 
 ## Syntax

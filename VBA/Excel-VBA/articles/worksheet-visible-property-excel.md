@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Visible Property (Excel)
 
-Returns or sets an  **[XlSheetVisibility](xlsheetvisibility-enumeration-excel.md)** value that determines whether the object is visible.
+Returns or sets an **[XlSheetVisibility](xlsheetvisibility-enumeration-excel.md)** value that determines whether the object is visible.
 
 
 ## Syntax
@@ -52,7 +52,7 @@ For Each sh In Sheets
 Next sh
 ```
 
-This example creates a new worksheet and then sets its  **Visible** property to **xlVeryHidden** . To refer to the sheet, use its object variable, `newSheet`, as shown in the last line of the example. To use the  `newSheet` object variable in another procedure, you must declare it as a public variable ( `Public newSheet As Object`) in the first line of the module preceding any  **Sub** or **Function** procedure.
+This example creates a new worksheet and then sets its **Visible** property to **xlVeryHidden** . To refer to the sheet, use its object variable, `newSheet`, as shown in the last line of the example. To use the  `newSheet` object variable in another procedure, you must declare it as a public variable ( `Public newSheet As Object`) in the first line of the module preceding any **Sub** or **Function** procedure.
 
 
 

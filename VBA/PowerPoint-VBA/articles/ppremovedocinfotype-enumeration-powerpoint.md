@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpRemoveDocInfoType Enumeration (PowerPoint)
 
-Constants that specify the type of document information, passed to the  **RemoveDocumentInformation** method of the **Presentation** object.
+Constants that specify the type of document information, passed to the **RemoveDocumentInformation** method of the **Presentation** object.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AboveAverage.CalcFor Property (Excel)
 
-Returns or sets one of the constants of the  **[XlCalcFor](xlcalcfor-enumeration-excel.md)** enumeration, which specifies the scope of data to be evaluated for the conditional format in a PivotTable report.
+Returns or sets one of the constants of the **[XlCalcFor](xlcalcfor-enumeration-excel.md)** enumeration, which specifies the scope of data to be evaluated for the conditional format in a PivotTable report.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets one of the constants of the  **[XlCalcFor](xlcalcfor-enumeration
 
 This property is applicable only when the conditional format is being applied to data in a PivotTable report.
 
-This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroups** only if the **[AboveAverage.ScopeType](aboveaverage-scopetype-property-excel.md)** property is set to **xlFieldsScope** .
+This property can be set to **xlAllValues** , **xlColGroups** , or **xlRowGroups** only if the **[AboveAverage.ScopeType](aboveaverage-scopetype-property-excel.md)** property is set to **xlFieldsScope** .
 
 
 ## See also

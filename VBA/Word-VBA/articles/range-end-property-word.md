@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.End Property (Word)
 
-Returns or sets the ending character position of a range. Read/write  **Long** .
+Returns or sets the ending character position of a range. Read/write **Long** .
 
 
 ## Syntax

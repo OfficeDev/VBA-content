@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlAlign Enumeration (Outlook)
 
-Specifies the alignment for the  **[Label](columnformat-label-property-outlook.md)** property of the **[ColumnFormat](columnformat-object-outlook.md)** object.
+Specifies the alignment for the **[Label](columnformat-label-property-outlook.md)** property of the **[ColumnFormat](columnformat-object-outlook.md)** object.
 
 
 

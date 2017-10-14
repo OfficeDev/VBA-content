@@ -15,7 +15,7 @@ Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
  _expression_. **Zoom**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -25,7 +25,7 @@ Gets or sets the percentage of zoom for Microsoft Visio Viewer. Read/write.
 
 ## Remarks
 
-Possible values for the  **Zoom** property range from 1% through 400%, and also include "Page", Width", and "Last".
+Possible values for the **Zoom** property range from 1% through 400%, and also include "Page", Width", and "Last".
 
 
 ## Example

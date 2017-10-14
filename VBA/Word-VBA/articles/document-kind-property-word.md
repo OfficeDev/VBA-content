@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Kind Property (Word)
 
-Returns or sets the format type that Microsoft Word uses when automatically formatting the specified document. Read/write  **[WdDocumentKind](wddocumentkind-enumeration-word.md)** .
+Returns or sets the format type that Microsoft Word uses when automatically formatting the specified document. Read/write **[WdDocumentKind](wddocumentkind-enumeration-word.md)** .
 
 
 ## Syntax

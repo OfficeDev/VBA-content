@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.Width Property (PowerPoint)
 
-Returns the width, in points, of the object. Read-only  **Double**.
+Returns the width, in points, of the object. Read-only **Double**.
 
 
 ## Syntax

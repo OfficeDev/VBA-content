@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.IsHyperlink Property (Access)
 
-You can use the  **IsHyperlink** property to specify or determine if the data contained in a combo box is a hyperlink. Read/write **Boolean**.
+You can use the **IsHyperlink** property to specify or determine if the data contained in a combo box is a hyperlink. Read/write **Boolean**.
 
 
 ## Syntax

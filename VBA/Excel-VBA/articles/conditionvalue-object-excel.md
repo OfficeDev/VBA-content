@@ -18,14 +18,14 @@ Represents how the shortest bar or longest bar is evaluated for a data bar condi
 
 ## Remarks
 
-The  **ConditionValue** object is returned using either the **[MaxPoint](databar-maxpoint-property-excel.md)** or **[MinPoint](databar-minpoint-property-excel.md)** property of the **[Databar](databar-object-excel.md)** object.
+The **ConditionValue** object is returned using either the **[MaxPoint](databar-maxpoint-property-excel.md)** or **[MinPoint](databar-minpoint-property-excel.md)** property of the **[Databar](databar-object-excel.md)** object.
 
-You can change the type of evaluation from the default setting (lowest value for the shortest bar and highest value for the longest bar) by using the  **[Modify](conditionvalue-modify-method-excel.md)** method.
+You can change the type of evaluation from the default setting (lowest value for the shortest bar and highest value for the longest bar) by using the **[Modify](conditionvalue-modify-method-excel.md)** method.
 
 
 ## Example
 
-The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similiar length. To disambiguate the middle values, the sample code uses the  **ConditionValue** object to change how the thresholds are evaluated to percentiles.
+The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similiar length. To disambiguate the middle values, the sample code uses the **ConditionValue** object to change how the thresholds are evaluated to percentiles.
 
 
 ```vb

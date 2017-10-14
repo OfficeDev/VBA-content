@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Tables Property (Word)
 
-Returns a  **Tables** collection that represents all the tables in the specified range. Read-only.
+Returns a **Tables** collection that represents all the tables in the specified range. Read-only.
 
 
 ## Syntax

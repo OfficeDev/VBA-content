@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.PointsToMillimeters Method (Publisher)
 
-Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **PointsToMillimeters**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[MillimetersToPoints](application-millimeterstopoints-method-publisher.md)** method to convert measurements in millimeters to points.
+Use the **[MillimetersToPoints](application-millimeterstopoints-method-publisher.md)** method to convert measurements in millimeters to points.
 
 
 ## Example

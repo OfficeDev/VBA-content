@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Fields Property (Word)
 
-Returns a  **[Fields](fields-object-word.md)** collection that represents all the fields in the range. Read-only.
+Returns a **[Fields](fields-object-word.md)** collection that represents all the fields in the range. Read-only.
 
 
 ## Syntax

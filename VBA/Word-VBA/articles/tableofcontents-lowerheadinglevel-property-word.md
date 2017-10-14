@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.LowerHeadingLevel Property (Word)
 
-Returns or sets the ending heading level for a table of contents or table of figures. Read/write  **Long** .
+Returns or sets the ending heading level for a table of contents or table of figures. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the ending heading level for a table of contents or table of fig
 
 ## Remarks
 
-This property corresponds to the ending value used with the \o switch for a Table of Contents (TOC) field. Use the  **[UpperHeadingLevel](tableofcontents-upperheadinglevel-property-word.md)** property to set the starting heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
+This property corresponds to the ending value used with the \o switch for a Table of Contents (TOC) field. Use the **[UpperHeadingLevel](tableofcontents-upperheadinglevel-property-word.md)** property to set the starting heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
 
 
 ## Example

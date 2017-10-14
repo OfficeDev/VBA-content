@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MotionEffect.ToX Property (PowerPoint)
 
-Sets or returns a  **Single** that represents the horizontal position of a **[MotionEffect](motioneffect-object-powerpoint.md)** object, specified as a percent of the screen width. Read/write.
+Sets or returns a **Single** that represents the horizontal position of a **[MotionEffect](motioneffect-object-powerpoint.md)** object, specified as a percent of the screen width. Read/write.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ Single
 
 ## Remarks
 
-The default value of this property is  **Empty**, in which case the current position of the object is used.
+The default value of this property is **Empty**, in which case the current position of the object is used.
 
-Use this property in conjunction with the  **FromX** property to resize or jump from one position to another.
+Use this property in conjunction with the **FromX** property to resize or jump from one position to another.
 
-Do not confuse this property with the  **To** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **To** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## Example

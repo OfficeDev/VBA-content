@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-This property is used when a slicer item has a localized version and its  **SourceNameStandard** property value differs from the **[SourceName](sliceritem-sourcename-property-excel.md)** property value, such as with date formatting.
+This property is used when a slicer item has a localized version and its **SourceNameStandard** property value differs from the **[SourceName](sliceritem-sourcename-property-excel.md)** property value, such as with date formatting.
 
 

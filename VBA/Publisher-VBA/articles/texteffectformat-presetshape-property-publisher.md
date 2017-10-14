@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetShape Property (Publisher)
 
-Returns or sets an  **MsoPresetTextEffectShape** constant that represents the shape of the specified WordArt. Read/write.
+Returns or sets an **MsoPresetTextEffectShape** constant that represents the shape of the specified WordArt. Read/write.
 
 
 ## Syntax
 
  _expression_. **PresetShape**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoPresetTextEffectShape
 
 ## Remarks
 
-The  **PresetShape** property value can be one of the ** [MsoPresetTextEffectShape](http://msdn.microsoft.com/library/d8b21a00-54af-b2cf-6a1d-4bbaef2aac78%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **PresetShape** property value can be one of the ** [MsoPresetTextEffectShape](http://msdn.microsoft.com/library/d8b21a00-54af-b2cf-6a1d-4bbaef2aac78%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

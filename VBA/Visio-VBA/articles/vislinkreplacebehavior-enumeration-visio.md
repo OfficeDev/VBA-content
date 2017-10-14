@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisLinkReplaceBehavior Enumeration (Visio)
 
-Link replacement behavior constants passed to and returned by the  **[DataRecordset.LinkReplaceBehavior](datarecordset-linkreplacebehavior-property-visio.md)** property.
+Link replacement behavior constants passed to and returned by the **[DataRecordset.LinkReplaceBehavior](datarecordset-linkreplacebehavior-property-visio.md)** property.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

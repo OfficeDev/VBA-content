@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comments.ShowBy Property (Word)
 
-Returns or sets the name of the reviewer whose comments are shown in the comments pane. Read/write  **String** .
+Returns or sets the name of the reviewer whose comments are shown in the comments pane. Read/write **String** .
 
 
 ## Syntax

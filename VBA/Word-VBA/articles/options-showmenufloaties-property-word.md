@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowMenuFloaties Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to display mini toolbars when the user right-clicks in the document window. Read/write.
+Returns or sets a **Boolean** that represents whether to display mini toolbars when the user right-clicks in the document window. Read/write.
 
 
 ## Syntax

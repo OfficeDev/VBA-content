@@ -30,7 +30,7 @@ Opens the default or a specified Visual Reports template for editing.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _strVisualReportTemplateFile_|Optional|**String**|Full path and the name of template file.|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Data level for the template. Can be one of the  **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. The default is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Data level for the template. Can be one of the **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. The default is **pjLevelAutomatic**.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Opens the default or a specified Visual Reports template for editing.
 
 ## Remarks
 
-The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
+The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
 
 ## Example

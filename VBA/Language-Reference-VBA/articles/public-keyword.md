@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Public <keyword>
 
-The  **Public** keyword is used in these contexts:
+The **Public** keyword is used in these contexts:
 
 [Const Statement](const-statement.md)
 

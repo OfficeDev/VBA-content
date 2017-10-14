@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.InchesToPoints Method (Word)
 
-Converts a measurement from inches to points (1 inch = 72 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from inches to points (1 inch = 72 points). Returns the converted measurement as a **Single** .
 
 
 ## Syntax

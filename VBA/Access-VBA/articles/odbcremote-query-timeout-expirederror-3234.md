@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The ODBC server may not be properly installed, or a required network connection is not active. Try increasing the value of the  **QueryTimeout** property.
+The ODBC server may not be properly installed, or a required network connection is not active. Try increasing the value of the **QueryTimeout** property.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

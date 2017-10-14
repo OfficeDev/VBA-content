@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Scope Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the range of text marked by the specified comment.
+Returns a **[Range](range-object-word.md)** object that represents the range of text marked by the specified comment.
 
 
 ## Syntax

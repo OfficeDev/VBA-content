@@ -18,9 +18,9 @@ Prints all or part of the specified publication.
 
 ## Syntax
 
- _expression_. **PrintOut**( **_From_**,  **_To_**,  **_PrintToFile_**,  **_Copies_**,  **_Collate_**,  **_PrintStyle_**)
+ _expression_. **PrintOut**( **_From_**, **_To_**, **_PrintToFile_**, **_Copies_**, **_Collate_**, **_PrintStyle_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -33,14 +33,14 @@ Prints all or part of the specified publication.
 |To|Optional| **Long**|The ending page number.|
 |PrintToFile|Optional| **String**|The path and file name of a document to be printed to a file.|
 |Copies|Optional| **Long**|The number of copies to be printed.|
-|Collate|Optional| **Boolean**|When printing multiple copies of a document,  **True** to print all pages of the document before printing the next copy.|
+|Collate|Optional| **Boolean**|When printing multiple copies of a document, **True** to print all pages of the document before printing the next copy.|
 |PrintStyle|Optional| **PbPrintStyle**|The print style to use. See Remarks for possible values.|
 
 ## Remarks
 
-The PrintStyle parameter can be one of the  **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The PrintStyle parameter can be one of the **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-If PrintStyle is  **pbPrintStyleMultipleCopiesPerSheet** or **pbPrintStyleMultiplePagesPerSheet**, Publisher ignores any value you pass for the Collate parameter.
+If PrintStyle is **pbPrintStyleMultipleCopiesPerSheet** or **pbPrintStyleMultiplePagesPerSheet**, Publisher ignores any value you pass for the Collate parameter.
 
 
 ## Example

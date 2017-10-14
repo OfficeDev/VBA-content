@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SplitHorizontal Property (Excel)
 
-Returns or sets the location of the horizontal window split, in points. Read/write  **Double** .
+Returns or sets the location of the horizontal window split, in points. Read/write **Double** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Caption Property (Word)
 
-Returns or sets the text displayed in the Title bar of the application window. Read/write  **String** .
+Returns or sets the text displayed in the Title bar of the application window. Read/write **String** .
 
 
 ## Syntax

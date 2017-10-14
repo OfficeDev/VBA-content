@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.StartField Property (Outlook)
 
-Returns or sets a  **String** value that represents the name of the property that starts the time duration for Outlook items displayed in the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets a **String** value that represents the name of the property that starts the time duration for Outlook items displayed in the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the name of the property tha
 
 ## Remarks
 
-The values of the  **StartField** and **[EndField](calendarview-endfield-property-outlook.md)** properties indicate which Outlook item properties are used by the **CalendarView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
+The values of the **StartField** and **[EndField](calendarview-endfield-property-outlook.md)** properties indicate which Outlook item properties are used by the **CalendarView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reminder.OriginalReminderDate Property (Outlook)
 
-Returns a  **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
+Returns a **Date** that specifies the original date and time that the specified reminder is set to occur. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **Date** that specifies the original date and time that the specified
 
 ## Remarks
 
-This value corresponds to the original date and time value before the  **[Snooze](reminder-snooze-method-outlook.md)** method is executed or the user clicks the **Snooze** button.
+This value corresponds to the original date and time value before the **[Snooze](reminder-snooze-method-outlook.md)** method is executed or the user clicks the **Snooze** button.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a report of all reminders in the  **[Reminders](reminders-object-outlook.md)** collection and the dates at which they are scheduled to occur. The subroutine concatenates the **[Caption](reminder-caption-property-outlook.md)** and **OriginalReminderDate** properties of all **[Reminder](reminder-object-outlook.md)** objects in the collection into a string and displays the string in a dialog box.
+The following Microsoft Visual Basic for Applications (VBA) example creates a report of all reminders in the **[Reminders](reminders-object-outlook.md)** collection and the dates at which they are scheduled to occur. The subroutine concatenates the **[Caption](reminder-caption-property-outlook.md)** and **OriginalReminderDate** properties of all **[Reminder](reminder-object-outlook.md)** objects in the collection into a string and displays the string in a dialog box.
 
 
 ```vb

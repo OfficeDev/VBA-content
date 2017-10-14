@@ -38,6 +38,6 @@ Activates the next window in the order in which windows were opened.
 
 ## Remarks
 
-The window order is the order in which windows are opened. The drop-down window list in the  **Window** group of the **View** tab in the Ribbon contains the alphabetically sorted list of open windows.
+The window order is the order in which windows are opened. The drop-down window list in the **Window** group of the **View** tab in the Ribbon contains the alphabetically sorted list of open windows.
 
 

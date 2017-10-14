@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScale.PTCondition Property (Excel)
 
-Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
+Returns a **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 
 
 ## Syntax

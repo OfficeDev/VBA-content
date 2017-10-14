@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Vertices Property (Project)
-Gets the coordinates of the vertices (and control points for a B?zier curve) as a series of coordinate pairs, for a shape that is a drawing. Read-only  **Variant**.
+Gets the coordinates of the vertices (and control points for a Bézier curve) as a series of coordinate pairs, for a shape that is a drawing. Read-only **Variant**.
 
 ## Syntax
 
@@ -18,9 +18,9 @@ Gets the coordinates of the vertices (and control points for a B?zier curve) as 
 
 ## Remarks
 
-You can use the array returned by the  **Vertices** property as an argument for the[AddCurve](shapes-addcurve-method-project.md) method or the[AddPolyLine](shapes-addpolyline-method-project.md) method.
+You can use the array returned by the **Vertices** property as an argument for the[AddCurve](shapes-addcurve-method-project.md) method or the[AddPolyLine](shapes-addpolyline-method-project.md) method.
 
-For an array of vertices named  `vertArray`, the following table shows how the  **Vertices** property associates values in the array with the coordinates of vertices in a triangle.
+For an array of vertices named  `vertArray`, the following table shows how the **Vertices** property associates values in the array with the coordinates of vertices in a triangle.
 
 
 

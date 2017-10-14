@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # How to: Access a Page in a MultiPage Control
 
-The following example accesses an individual page of a  **[MultiPage](multipage-object-outlook-forms-script.md)** in several ways:
+The following example accesses an individual page of a **[MultiPage](multipage-object-outlook-forms-script.md)** in several ways:
 
 
-- Using the  **[Pages](pages-object-outlook-forms-script.md)** collection with a numeric index.
+- Using the **[Pages](pages-object-outlook-forms-script.md)** collection with a numeric index.
     
-- Using the name of the individual page in the  **MultiPage**.
+- Using the name of the individual page in the **MultiPage**.
     
-- Using the  **[SelectedItem](multipage-selecteditem-property-outlook-forms-script.md)** property.
+- Using the **[SelectedItem](multipage-selecteditem-property-outlook-forms-script.md)** property.
     
 
-To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a  **MultiPage** named MultiPage1 and a **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a **MultiPage** named MultiPage1 and a **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
 
 
 

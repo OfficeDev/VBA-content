@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileFixedColumnWidths Property (Excel)
 
-Returns or sets an array of integers that correspond to the widths of the columns (in characters) in the text file that you're importing into a query table. Valid widths are from 1 through 32767 characters. Read/Write  **Variant** .
+Returns or sets an array of integers that correspond to the widths of the columns (in characters) in the text file that you're importing into a query table. Valid widths are from 1 through 32767 characters. Read/Write **Variant** .
 
 
 ## Syntax

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Seek Statement
 
-Sets the position for the next read/write operation within a file opened using the  **Open** statement.
+Sets the position for the next read/write operation within a file opened using the **Open** statement.
 
  **Syntax**
 
  **Seek** [ **#** ] _filenumber_, _position_
 
-The  **Seek** statement syntax has these parts:
+The **Seek** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,12 +25,12 @@ The  **Seek** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
  **Remarks**
-Record numbers specified in  **Get** and **Put** statements override file positioning performed by **Seek**.
-Performing a file-write operation after a  **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
+Record numbers specified in **Get** and **Put** statements override file positioning performed by **Seek**.
+Performing a file-write operation after a **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
 
 ## Example
 
-This example uses the  **Seek** statement to set the position for the next read or write within a file. This example assumes `TESTFILE` is a file containing records of the user-defined type is a file containing records of the user-defined type `Record`.
+This example uses the **Seek** statement to set the position for the next read or write within a file. This example assumes `TESTFILE` is a file containing records of the user-defined type is a file containing records of the user-defined type `Record`.
 
 
 ```vb
@@ -41,7 +41,7 @@ End Type
 
 ```
 
-For files opened in Random mode,  **Seek** sets the next record.
+For files opened in Random mode, **Seek** sets the next record.
 
 
 
@@ -60,7 +60,7 @@ Close #1 ' Close file.
 
 ```
 
-For files opened in modes other than Random mode,  **Seek** sets the byte position at which the next operation takes place. Assume is a file containing a few lines of text.
+For files opened in modes other than Random mode, **Seek** sets the byte position at which the next operation takes place. Assume is a file containing a few lines of text.
 
 
 

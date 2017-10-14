@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.BrowseWidth Property (Word)
 
-Returns the width (in points) of the area in which text wraps in the specified pane. Read-only  **Long** .
+Returns the width (in points) of the area in which text wraps in the specified pane. Read-only **Long** .
 
 
 ## Syntax

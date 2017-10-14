@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisMouseMoveDragStates Enumeration (Visio)
 
-Constants returned by the  **MouseEvent.DragState** property.
+Constants returned by the **MouseEvent.DragState** property.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.Duplex Property (Access)
 
-Returns or sets an  **[AcPrintDuplex](acprintduplex-enumeration-access.md)** constant indicating how the specified printer handles duplex printing. Read/write.
+Returns or sets an **[AcPrintDuplex](acprintduplex-enumeration-access.md)** constant indicating how the specified printer handles duplex printing. Read/write.
 
 
 ## Syntax

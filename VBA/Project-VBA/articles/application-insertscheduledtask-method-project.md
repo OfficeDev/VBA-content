@@ -30,6 +30,6 @@ Inserts a new automatically scheduled task above the selected task row or cell i
 
 ## Remarks
 
-By comparison, the  **[InsertTask](application-inserttask-method-project.md)** method creates a task of the default mode and **[InsertManualTask](application-insertmanualtask-method-project.md)** creates a manually scheduled task.
+By comparison, the **[InsertTask](application-inserttask-method-project.md)** method creates a task of the default mode and **[InsertManualTask](application-insertmanualtask-method-project.md)** creates a manually scheduled task.
 
 

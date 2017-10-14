@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.NavigationFolderRemove Event (Outlook)
 
-Occurs after a navigation folder has been removed from the  **[NavigationGroups](navigationgroups-object-outlook.md)** collection.
+Occurs after a navigation folder has been removed from the **[NavigationGroups](navigationgroups-object-outlook.md)** collection.
 
 
 ## Syntax

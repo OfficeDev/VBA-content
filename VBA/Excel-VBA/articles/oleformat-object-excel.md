@@ -18,12 +18,12 @@ Contains OLE object properties.
 
 ## Remarks
 
-If the  **[Shape](shape-object-excel.md)** object doesn't represent a linked or embedded object, the **[OLEFormat](shape-oleformat-property-excel.md)** property fails.
+If the **[Shape](shape-object-excel.md)** object doesn't represent a linked or embedded object, the **[OLEFormat](shape-oleformat-property-excel.md)** property fails.
 
 
 ## Example
 
-Use the  **OLEFormat** property to return the **OLEFormat** object. The following example activates an OLE object in the **[Shapes](shapes-object-excel.md)** collection.
+Use the **OLEFormat** property to return the **OLEFormat** object. The following example activates an OLE object in the **[Shapes](shapes-object-excel.md)** collection.
 
 
 ```vb

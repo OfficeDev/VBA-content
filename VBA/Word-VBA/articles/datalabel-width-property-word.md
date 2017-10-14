@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Width Property (Word)
 
-Gets or sets the width, in points, of the object. Read/write  **Double**.
+Gets or sets the width, in points, of the object. Read/write **Double**.
 
 
 ## Syntax

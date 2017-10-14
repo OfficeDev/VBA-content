@@ -20,16 +20,16 @@ The required  _InterfaceName_ or _Class_ is the name of an interface or [class](
 **Remarks**
 An interface is a collection of prototypes representing the members (methods and properties) the interface encapsulates; that is, it contains only the declarations for the member procedures. A class provides an implementation of all of the methods and properties of one or more interfaces. Classes provide the code used when each function is called by a controller of the class. All classes implement at least one interface, which is considered the default interface of the class. In Visual Basic, any member that isn't explicitly a member of an implemented interface is implicitly a member of the default interface.
 
-When a Visual Basic class implements an interface, the Visual Basic class provides its own versions of all the  **Public** [procedures](vbe-glossary.md) specified in the type library of the Interface. In addition to providing a mapping between the interface prototypes and your procedures, the **Implements** statement causes the class to accept COM QueryInterface calls for the specified interface ID.
+When a Visual Basic class implements an interface, the Visual Basic class provides its own versions of all the **Public** [procedures](vbe-glossary.md) specified in the type library of the Interface. In addition to providing a mapping between the interface prototypes and your procedures, the **Implements** statement causes the class to accept COM QueryInterface calls for the specified interface ID.
 
  **Note**  Visual Basic does not implement derived classes or interfaces.
 
-When you implement an interface or class, you must include all the  **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error ( **Const** E_NOTIMPL = &;H80004001) so a user of the implementation understands that a member is not implemented.
-The  **Implements** statement can't appear in a [standard module](vbe-glossary.md).
+When you implement an interface or class, you must include all the **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error ( **Const** E_NOTIMPL = &;H80004001) so a user of the implementation understands that a member is not implemented.
+The **Implements** statement can't appear in a [standard module](vbe-glossary.md).
 
 ## Example
 
-The following example shows how to use the  **Implements** statement to make a set of declarations available to multiple classes. By sharing the declarations through the **Implements** statement, neither class has to make any declarations itself. The example also shows how use of an interface allows abstraction: a strongly-type variable can be declared using the interface type. It can then be assigned objects of different class types that implement the interface.
+The following example shows how to use the **Implements** statement to make a set of declarations available to multiple classes. By sharing the declarations through the **Implements** statement, neither class has to make any declarations itself. The example also shows how use of an interface allows abstraction: a strongly-type variable can be declared using the interface type. It can then be assigned objects of different class types that implement the interface.
 
 Assume there are two forms, SelectorForm and DataEntryForm. The selector form has two buttons, "Customer Data" and "Supplier Data". To enter name and address information for a customer or a supplier, the user clicks the customer button or the supplier button on the selector form, and then enters the name and address using the data entry form. The data entry form has two text fields, Name and Address.
 

@@ -23,7 +23,7 @@ Clears the formatting of the chart elements and sets formatting to automatic.
 
 ## Remarks
 
-Use the  **ClearToMatchSyle** method to reset the formatting of all chart elements to automatic. If you use this method on a chart, any formatting overrides are reset to the default values.
+Use the **ClearToMatchSyle** method to reset the formatting of all chart elements to automatic. If you use this method on a chart, any formatting overrides are reset to the default values.
 
 
 ## See also

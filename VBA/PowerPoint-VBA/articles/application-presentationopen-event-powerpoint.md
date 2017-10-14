@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PresentationOpen Event (PowerPoint)
 
-Occurs after an existing presentation is opened, as it is added to the  **[Presentations](presentations-object-powerpoint.md)** collection.
+Occurs after an existing presentation is opened, as it is added to the **[Presentations](presentations-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -33,14 +33,14 @@ Occurs after an existing presentation is opened, as it is added to the  **[Prese
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.EApplication_PresentationOpenEventHandler** (the **PresentationOpen** delegate.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_PresentationOpenEventHandler** (the **PresentationOpen** delegate.)
     
--  **Microsoft.Office.Interop.PowerPoint.EApplication_Event.PresentationOpen** (the **PresentationOpen** event.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_Event.PresentationOpen** (the **PresentationOpen** event.)
     
 
 ## Example

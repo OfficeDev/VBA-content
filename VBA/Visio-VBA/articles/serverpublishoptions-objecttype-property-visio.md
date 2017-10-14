@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerPublishOptions.ObjectType Property (Visio)
 
-Returns  **visObjTypeServerPublishOptions** , the type of this object. Read-only.
+Returns **visObjTypeServerPublishOptions** , the type of this object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,6 +33,6 @@ Returns  **visObjTypeServerPublishOptions** , the type of this object. Read-only
 
 ## Remarks
 
-Constants that represent object types are prefixed with  **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** enumeration.
+Constants that represent object types are prefixed with **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** enumeration.
 
 

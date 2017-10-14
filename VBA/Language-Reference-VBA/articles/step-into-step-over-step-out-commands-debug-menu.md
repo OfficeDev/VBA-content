@@ -15,14 +15,14 @@ ms.date: 06/08/2017
 
 Executes code one statement at a time.
 
-When not in design mode,  **Step Into** enters[break mode](vbe-glossary.md) at the current line of execution. If the statement is a call to a procedure, the next statement displayed is the first statement in the procedure.
+When not in design mode, **Step Into** enters[break mode](vbe-glossary.md) at the current line of execution. If the statement is a call to a procedure, the next statement displayed is the first statement in the procedure.
 
 At [design time](vbe-glossary.md), this menu item begins execution and enters break mode before the first line of code is executed.
-If there is no current execution point, the  **Step Into** command may appear to do nothing until you do something that triggers code, for example click on a document.
+If there is no current execution point, the **Step Into** command may appear to do nothing until you do something that triggers code, for example click on a document.
 Toolbar button: 
 ![Toolbar button](images/tbr_stpi_ZA01201749.gif). Keyboard shortcut: F8.
  **Step Over**
-Similar to  **Step Into**. The difference in use occurs when the current statement contains a call to a procedure.
+Similar to **Step Into**. The difference in use occurs when the current statement contains a call to a procedure.
  **Step Over** executes the procedure as a unit, and then steps to the next statement in the current procedure. Therefore, the next statement displayed is the next statement in the current procedure regardless of whether the current statement is a call to another procedure. Available in break mode only.
 Toolbar button: 
 ![Toolbar button](images/tbr_stpo_ZA01201750.gif). Keyboard shortcut: SHIFT+F8.

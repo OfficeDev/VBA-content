@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **True** makes printing faster (at the expense of not printing graphics).
+Setting this property to **True** makes printing faster (at the expense of not printing graphics).
 
 
 ## Example

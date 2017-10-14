@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Shading Property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified font.
+Returns a **Shading** object that refers to the shading formatting for the specified font.
 
 
 ## Syntax

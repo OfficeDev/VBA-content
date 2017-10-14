@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Type Property (Excel)
 
-Returns an  **[XlAxisType](xlaxistype-enumeration-excel.md)** value that represents the Axis type.
+Returns an **[XlAxisType](xlaxistype-enumeration-excel.md)** value that represents the Axis type.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[XlAxisType](xlaxistype-enumeration-excel.md)** value that represe
 
 ## Remarks
 
-When using this property for the horizontal axis of scatter charts,  **xlCategory** will be returned as the Axis type.
+When using this property for the horizontal axis of scatter charts, **xlCategory** will be returned as the Axis type.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.UniqueID Property (Project)
 
-Gets the unique identification number of the task. Read-only  **Long**.
+Gets the unique identification number of the task. Read-only **Long**.
 
 
 ## Syntax

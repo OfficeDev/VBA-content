@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerPivotTables.Parent Property (Excel)
 
-Returns the  **[SlicerCache](slicercache-object-excel.md)** object that is the parent of the specified **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection. Read-only.
+Returns the **[SlicerCache](slicercache-object-excel.md)** object that is the parent of the specified **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection. Read-only.
 
 
 ## Syntax

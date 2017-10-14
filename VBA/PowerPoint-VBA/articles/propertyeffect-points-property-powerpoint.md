@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyEffect.Points Property (PowerPoint)
 
-Returns an  **AnimationPoints** object that represents a point in an animation.
+Returns an **AnimationPoints** object that represents a point in an animation.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **AnimationPoints** object that represents a point in an animation.
 
 ## Remarks
 
-Use the  **[From](propertyeffect-from-property-powerpoint.md)** and **[To](propertyeffect-to-property-powerpoint.md)** properties to set the value of this property.
+Use the **[From](propertyeffect-from-property-powerpoint.md)** and **[To](propertyeffect-to-property-powerpoint.md)** properties to set the value of this property.
 
 
 ## See also

@@ -29,7 +29,7 @@ Sets the security identifier for Microsoft Windows authentication for the select
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of a resource for whom a security identifier is to be obtained. If an exact match is not found, the mail system will bring up the  **Check Names** dialog box for manual selection. If Name is not specified, security identifier(s) will be obtained for the selected resource(s).|
+| _Name_|Optional|**String**|The name of a resource for whom a security identifier is to be obtained. If an exact match is not found, the mail system will bring up the **Check Names** dialog box for manual selection. If Name is not specified, security identifier(s) will be obtained for the selected resource(s).|
 | _ShowDialog_|Optional|**Boolean**|**True** if the user is prompted to confirm adding the security identifier to the **Windows User Account** field for each resource specified with Name. The default value is **True**.|
 
 ### Return Value
@@ -39,6 +39,6 @@ Sets the security identifier for Microsoft Windows authentication for the select
 
 ## Remarks
 
-The  **ResourceWindowsAccount** method is only available in resource views. If the optional Security Identifier field in the Address Book is blank, the **ResourceWindowsAccount** method has no effect.
+The **ResourceWindowsAccount** method is only available in resource views. If the optional Security Identifier field in the Address Book is blank, the **ResourceWindowsAccount** method has no effect.
 
 

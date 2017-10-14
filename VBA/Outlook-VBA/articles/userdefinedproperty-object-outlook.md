@@ -13,23 +13,23 @@ ms.date: 06/08/2017
 
 # UserDefinedProperty Object (Outlook)
 
-Represents the definition of a user-defined property for a  **[Folder](folder-object-outlook.md)** object.
+Represents the definition of a user-defined property for a **[Folder](folder-object-outlook.md)** object.
 
 
 ## Remarks
 
-Use  **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** ( _index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
+Use **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** ( _index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
 
-Use the  **[Add](userdefinedproperties-add-method-outlook.md)** method of the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for a **Folder** object to define a user-defined property for that folder.
+Use the **[Add](userdefinedproperties-add-method-outlook.md)** method of the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for a **Folder** object to define a user-defined property for that folder.
 
-Use the  **[Type](userdefinedproperty-type-property-outlook.md)** property to return the user-defined property type and the **[DisplayFormat](userdefinedproperty-displayformat-property-outlook.md)** property to return the display format for the user-defined property. If the **Type** property is set to **olCombination** or **olFormula**, use the **[Formula](userdefinedproperty-formula-property-outlook.md)** property to return the formula used to generate values for the user-defined property.
+Use the **[Type](userdefinedproperty-type-property-outlook.md)** property to return the user-defined property type and the **[DisplayFormat](userdefinedproperty-displayformat-property-outlook.md)** property to return the display format for the user-defined property. If the **Type** property is set to **olCombination** or **olFormula**, use the **[Formula](userdefinedproperty-formula-property-outlook.md)** property to return the formula used to generate values for the user-defined property.
 
-The  **UserDefinedProperty** object represents only the definition of a user-defined property, which is applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](mailitem-userproperties-property-outlook.md)** property of the Outlook item, such as a **[MailItem](mailitem-object-outlook.md)** object, to retrieve the **[UserProperties](userproperties-object-outlook.md)** collection for that item. You can then use the **[UserProperty](userproperty-object-outlook.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
+The **UserDefinedProperty** object represents only the definition of a user-defined property, which is applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](mailitem-userproperties-property-outlook.md)** property of the Outlook item, such as a **[MailItem](mailitem-object-outlook.md)** object, to retrieve the **[UserProperties](userproperties-object-outlook.md)** collection for that item. You can then use the **[UserProperty](userproperty-object-outlook.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays the name of a specified  **Folder** object, as well as the name and type of every **UserDefinedProperty** object contained in the **UserDefinedProperties** collection of the specified **Folder** object, to the **Immediate** window.
+The following Visual Basic for Applications (VBA) example displays the name of a specified **Folder** object, as well as the name and type of every **UserDefinedProperty** object contained in the **UserDefinedProperties** collection of the specified **Folder** object, to the **Immediate** window.
 
 
 ```

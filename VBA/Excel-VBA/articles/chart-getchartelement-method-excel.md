@@ -31,7 +31,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Long**|The X coordinate of the chart element.|
 | _y_|Required| **Long**|The Y coordinate of the chart element.|
-| _ElementID_|Required| **Long**|When the method returns, this argument contains the  **[XLChartItem](xlchartitem-enumeration-excel.md)** value of the chart element at the specified coordinates. For more information, see the ?Remarks? section.|
+| _ElementID_|Required| **Long**|When the method returns, this argument contains the **[XLChartItem](xlchartitem-enumeration-excel.md)** value of the chart element at the specified coordinates. For more information, see the ?Remarks? section.|
 | _Arg1_|Required| **Long**|When the method returns, this argument contains information related to the chart element. For more information, see the ?Remarks? section.|
 | _Arg2_|Required| **Long**|When the method returns, this argument contains information related to the chart element. For more information, see the ?Remarks? section.|
 
@@ -81,15 +81,15 @@ The following table describes the meaning of  _Arg1_ and _Arg2_ after the method
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary** .|
-|AxisType|Specifies the axis type. Can be one of the following  **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[XlPivotFieldOrientation](xlpivotfieldorientation-enumeration-excel.md)** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
-|GroupIndex|Specifies the offset within the  **[ChartGroups](chartgroups-object-excel.md)** collection for a specific chart group.|
-|PivotFieldIndex|Specifies the offset within the  **[PivotFields](pivotfields-object-excel.md)** collection for a specific column (series), data, page, or row (category) field. -1 if the drop zone type is **xlDataField** .|
-|PointIndex|Specifies the offset within the  **[Points](points-object-excel.md)** collection for a specific point within a series. A value of ? 1 indicates that all data points are selected.|
-|SeriesIndex|Specifies the offset within the  **[Series](series-object-excel.md)** collection for a specific series.|
-|ShapeIndex|Specifies the offset within the  **[Shapes](shapes-object-excel.md)** collection for a specific shape.|
-|TrendlineIndex|Specifies the offset within the  **[Trendlines](trendlines-object-excel.md)** collection for a specific trendline within a series.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary** .|
+|AxisType|Specifies the axis type. Can be one of the following **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following **[XlPivotFieldOrientation](xlpivotfieldorientation-enumeration-excel.md)** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
+|GroupIndex|Specifies the offset within the **[ChartGroups](chartgroups-object-excel.md)** collection for a specific chart group.|
+|PivotFieldIndex|Specifies the offset within the **[PivotFields](pivotfields-object-excel.md)** collection for a specific column (series), data, page, or row (category) field. -1 if the drop zone type is **xlDataField** .|
+|PointIndex|Specifies the offset within the **[Points](points-object-excel.md)** collection for a specific point within a series. A value of ? 1 indicates that all data points are selected.|
+|SeriesIndex|Specifies the offset within the **[Series](series-object-excel.md)** collection for a specific series.|
+|ShapeIndex|Specifies the offset within the **[Shapes](shapes-object-excel.md)** collection for a specific shape.|
+|TrendlineIndex|Specifies the offset within the **[Trendlines](trendlines-object-excel.md)** collection for a specific trendline within a series.|
 
 ## Example
 

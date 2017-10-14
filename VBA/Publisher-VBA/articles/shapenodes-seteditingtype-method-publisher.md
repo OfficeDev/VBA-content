@@ -18,9 +18,9 @@ Sets the editing type of the specified node. If the node is a control point for 
 
 ## Syntax
 
- _expression_. **SetEditingType**( **_Index_**,  **_EditingType_**)
+ _expression_. **SetEditingType**( **_Index_**, **_EditingType_**)
 
- _expression_A variable that represents a  **ShapeNodes** object.
+ _expression_A variable that represents a **ShapeNodes** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Sets the editing type of the specified node. If the node is a control point for 
 
 ## Remarks
 
-The EditingType parameter can be one of the  **MsoEditingType** constants declared in the Microsoft Office type library and shown in the following table.
+The EditingType parameter can be one of the **MsoEditingType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Path/File access error (Error 75)
 
-During a file-access or disk-access operation, for example,  **Open**, **MkDir**, **ChDir**, or **RmDir**, the operating system couldn't make a connection between the path and the file name. This error has the following causes and solutions:
+During a file-access or disk-access operation, for example, **Open**, **MkDir**, **ChDir**, or **RmDir**, the operating system couldn't make a connection between the path and the file name. This error has the following causes and solutions:
 
 
 
@@ -19,7 +19,7 @@ During a file-access or disk-access operation, for example,  **Open**, **MkDir**
     
 - You attempted to save a file that would replace an existing read-only file. Change the read-only attribute of the target file or save the file with a different file name.
     
-- You attempted to open a read-only file in sequential  **Output** or **Append** mode. Open the file in **Input** mode or change the read-only attribute of the file.
+- You attempted to open a read-only file in sequential **Output** or **Append** mode. Open the file in **Input** mode or change the read-only attribute of the file.
     
 - You attempted to change a Visual Basic project within a database or document. You can't make design changes to the project.
     

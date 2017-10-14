@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.ValidationErrorText Property (Word)
 
-Returns a  **String** that represents the description for a validation error on an **XMLNode** object.
+Returns a **String** that represents the description for a validation error on an **XMLNode** object.
 
 
 ## Syntax

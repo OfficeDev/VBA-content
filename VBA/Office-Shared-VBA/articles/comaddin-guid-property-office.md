@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIn.Guid Property (Office)
 
-Gets the class identifier (CLSID) for the specified  **COMAddIn** object. Read-only.
+Gets the class identifier (CLSID) for the specified **COMAddIn** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the class identifier (CLSID) for the specified  **COMAddIn** object. Read-o
 
 ## Example
 
-The following example displays the ProgID and CLSID for the first COM add-in in the  **COMAddIns** collection in a message box.
+The following example displays the ProgID and CLSID for the first COM add-in in the **COMAddIns** collection in a message box.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.NameAscii Property (Word)
 
-Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write  **String** .
+Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the font used for Latin text (characters with character codes fr
 
 ## Remarks
 
-In the U.S. English version of Microsoft Word, the default value of this property is Times New Roman. Use the  **[Name](font-name-property-word.md)** property to change the font that's applied to all text and that appears in the **Font** box on the **Formatting** toolbar.
+In the U.S. English version of Microsoft Word, the default value of this property is Times New Roman. Use the **[Name](font-name-property-word.md)** property to change the font that's applied to all text and that appears in the **Font** box on the **Formatting** toolbar.
 
 
 ## Example

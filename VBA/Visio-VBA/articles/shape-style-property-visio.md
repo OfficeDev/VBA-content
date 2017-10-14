@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Style Property (Visio)
 
-Gets or sets the style for a  **Shape** object. Read/write.
+Gets or sets the style for a **Shape** object. Read/write.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ String
 
 ## Remarks
 
-If a style consists of different text, line, and fill styles, the  **Style** property returns the fill style. If you set the **Style** property to a nonexistent style, your program generates an error.
+If a style consists of different text, line, and fill styles, the **Style** property returns the fill style. If you set the **Style** property to a nonexistent style, your program generates an error.
 
-To preserve local formatting, use the  **StyleKeepFmt** property.
+To preserve local formatting, use the **StyleKeepFmt** property.
 
-Beginning with Visio 2002, setting  **Style** to an empty string ("") will cause the master's style to be reapplied to the shape. (Earlier versions generate a "no such style" exception.) If the shape has no master, its style remains unchanged.
+Beginning with Visio 2002, setting **Style** to an empty string ("") will cause the master's style to be reapplied to the shape. (Earlier versions generate a "no such style" exception.) If the shape has no master, its style remains unchanged.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.IsWeb Property (Access)
 
-Gets whether the specified object is a Web object. Read-only  **Boolean**.
+Gets whether the specified object is a Web object. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets whether the specified object is a Web object. Read-only  **Boolean**.
 
 ## Remarks
 
-The  **IsWeb** property contains **True** if the object is a Web object.
+The **IsWeb** property contains **True** if the object is a Web object.
 
 
 ## See also

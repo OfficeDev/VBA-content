@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenario.Comment Property (Excel)
 
-Returns or sets a  **String** value that represents the comment associated with the scenario.
+Returns or sets a **String** value that represents the comment associated with the scenario.
 
 
 ## Syntax

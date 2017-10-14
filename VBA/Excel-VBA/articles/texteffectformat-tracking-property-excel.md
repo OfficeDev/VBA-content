@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Tracking Property (Excel)
 
-Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt to the width of the character. Can be a value from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.) Read/write  **Single** .
+Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt to the width of the character. Can be a value from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.) Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the ratio of the horizontal space allotted to each character in 
 
 ## Remarks
 
-The following table gives the values of the  **Tracking** property that correspond to the settings available in the user interface.
+The following table gives the values of the **Tracking** property that correspond to the settings available in the user interface.
 
 
 

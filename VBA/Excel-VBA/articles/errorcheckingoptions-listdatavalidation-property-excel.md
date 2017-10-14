@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.ListDataValidation Property (Excel)
 
-A  **Boolean** value that is **True** if data validation is enabled in a list. Read/write **Boolean** .
+A **Boolean** value that is **True** if data validation is enabled in a list. Read/write **Boolean** .
 
 
 ## Syntax

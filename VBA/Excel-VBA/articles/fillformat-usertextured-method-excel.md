@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.UserTextured Method (Excel)
 
-Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the  **[UserPicture](fillformat-userpicture-method-excel.md)** method.
+Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the **[UserPicture](fillformat-userpicture-method-excel.md)** method.
 
 
 ## Syntax

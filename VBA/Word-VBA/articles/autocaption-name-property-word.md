@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCaption.Name Property (Word)
 
-Returns or sets the name of the specified object. Read-only  **String** .
+Returns or sets the name of the specified object. Read-only **String** .
 
 
 ## Syntax

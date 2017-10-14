@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OMathWrap Property (Word)
 
-Returns or sets a  **Single** that represents the placement of the second line of an equation that wraps to a new line. Read/write.
+Returns or sets a **Single** that represents the placement of the second line of an equation that wraps to a new line. Read/write.
 
 
 ## Syntax

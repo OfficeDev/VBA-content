@@ -18,12 +18,12 @@ Represents a shape's three-dimensional formatting.
 
 ## Remarks
 
-You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes or multiple-disjoint paths. Most of the properties and methods of the  **ThreeDFormat** object for such a shape will fail.
+You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes or multiple-disjoint paths. Most of the properties and methods of the **ThreeDFormat** object for such a shape will fail.
 
 
 ## Example
 
-Use the  **[ThreeD](shape-threed-property-excel.md)** property to return a **ThreeDFormat** object. The following example adds an oval to _myDocument_ and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
+Use the **[ThreeD](shape-threed-property-excel.md)** property to return a **ThreeDFormat** object. The following example adds an oval to _myDocument_ and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
 
 ```vb

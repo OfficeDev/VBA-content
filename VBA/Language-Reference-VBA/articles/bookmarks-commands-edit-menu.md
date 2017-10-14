@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Bookmarks Commands (Edit Menu)
 
-Displays a menu that you can use to create or remove placeholders in the  **Code** window, move to the next or preceding bookmark, or clear all of the bookmarks. Bookmarks mark lines of code so that you can easily return to them at a later time.
+Displays a menu that you can use to create or remove placeholders in the **Code** window, move to the next or preceding bookmark, or clear all of the bookmarks. Bookmarks mark lines of code so that you can easily return to them at a later time.
 
 When you add a bookmark, a 
 ![Bookmark](images/wbkmark_ZA01201807.gif) appears next to the line of code where the bookmark is inserted.

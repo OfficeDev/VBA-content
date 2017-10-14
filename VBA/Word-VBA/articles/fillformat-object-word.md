@@ -18,7 +18,7 @@ Represents fill formatting for a shape. A shape can have a solid, gradient, text
 
 ## Remarks
 
-Use the  **Fill** property to return a **FillFormat** object. The following example adds a rectangle to the active document and then sets the gradient and color for the rectangle's fill.
+Use the **Fill** property to return a **FillFormat** object. The following example adds a rectangle to the active document and then sets the gradient and color for the rectangle's fill.
 
 
 ```
@@ -29,7 +29,7 @@ With ActiveDocument.Shapes _
 End With
 ```
 
-Many of the properties of the  **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
+Many of the properties of the **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
 
 
 ## Methods

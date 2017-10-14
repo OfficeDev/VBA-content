@@ -29,7 +29,7 @@ This topic includes Visual Basic examples related to the following tasks:
 
 ## Applying formatting to the selection
 
-The following example uses the  **[Selection](application-selection-property-word.md)** property to apply character and paragraph formatting to the selected text. Use the  **[Font](selection-font-property-word.md)** property to access character formatting properties and methods and the  **[ParagraphFormat](selection-paragraphformat-property-word.md)** property to access paragraph formatting properties and methods.
+The following example uses the **[Selection](application-selection-property-word.md)** property to apply character and paragraph formatting to the selected text. Use the **[Font](selection-font-property-word.md)** property to access character formatting properties and methods and the **[ParagraphFormat](selection-paragraphformat-property-word.md)** property to access paragraph formatting properties and methods.
 
 
 ```vb
@@ -49,7 +49,7 @@ End Sub
 
 ## Applying formatting to a range
 
-The following example defines a  **[Range](range-object-word.md)** object that refers to the first three paragraphs in the active document. The  **Range** is formatted by applying properties of the **[Font](font-object-word.md)** object and the  **[ParagraphFormat](paragraphformat-object-word.md)** object.
+The following example defines a **[Range](range-object-word.md)** object that refers to the first three paragraphs in the active document. The **Range** is formatted by applying properties of the **[Font](font-object-word.md)** object and the **[ParagraphFormat](paragraphformat-object-word.md)** object.
 
 
 ```vb
@@ -94,7 +94,7 @@ End Sub
 
 ## Switching the space before a paragraph between 12 points and none
 
-The following example toggles the space-before formatting of the first paragraph in the selection. The macro retrieves the current space before value, and if the value is 12 points, the space-before formatting is removed (the  **[SpaceBefore](paragraph-spacebefore-property-word.md)** property is set to zero). If the space-before value is anything other than 12, the  **SpaceBefore** property is set to 12 points.
+The following example toggles the space-before formatting of the first paragraph in the selection. The macro retrieves the current space before value, and if the value is 12 points, the space-before formatting is removed (the **[SpaceBefore](paragraph-spacebefore-property-word.md)** property is set to zero). If the space-before value is anything other than 12, the **SpaceBefore** property is set to 12 points.
 
 
 ```vb
@@ -124,7 +124,7 @@ End Sub
 
 ## Increasing the left margin by 0.5 inch
 
-The following example increases the left and right margins by 0.5 inch. The  **[PageSetup](pagesetup-object-word.md)** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The **[LeftMargin](pagesetup-leftmargin-property-word.md)** property is used to return and set the left margin setting. The  **[RightMargin](pagesetup-rightmargin-property-word.md)** property is used to return and set the right margin setting.
+The following example increases the left and right margins by 0.5 inch. The **[PageSetup](pagesetup-object-word.md)** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The **[LeftMargin](pagesetup-leftmargin-property-word.md)** property is used to return and set the left margin setting. The **[RightMargin](pagesetup-rightmargin-property-word.md)** property is used to return and set the right margin setting.
 
 
 ```vb

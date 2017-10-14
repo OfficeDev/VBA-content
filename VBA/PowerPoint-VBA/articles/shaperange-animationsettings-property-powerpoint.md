@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.AnimationSettings Property (PowerPoint)
 
-Returns an  **[AnimationSettings](animationsettings-object-powerpoint.md)** object that represents all the special effects you can apply to the animation of the specified shape. Read-only.
+Returns an **[AnimationSettings](animationsettings-object-powerpoint.md)** object that represents all the special effects you can apply to the animation of the specified shape. Read-only.
 
 
 ## Syntax

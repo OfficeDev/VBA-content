@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Container Property (Word)
 
-Returns the object that represents the container application for the specified document. Read-only  **Object** .
+Returns the object that represents the container application for the specified document. Read-only **Object** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the object that represents the container application for the specified d
 
 ## Remarks
 
-The  **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document — for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
+The **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document — for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
 
 
 ## Example

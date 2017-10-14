@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Args Property (Word)
 
-Returns an  **[OMathArgs](omathargs-object-word.md)** object that represents the arguments for an equation. Read-only.
+Returns an **[OMathArgs](omathargs-object-word.md)** object that represents the arguments for an equation. Read-only.
 
 
 ## Syntax

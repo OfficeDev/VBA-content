@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TableOfContents** object.
+Returns an **Object** that represents the parent object of the specified **TableOfContents** object.
 
 
 ## Syntax

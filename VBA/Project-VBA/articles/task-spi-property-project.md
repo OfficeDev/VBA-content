@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.SPI Property (Project)
 
-Gets the value of the schedule performance index (SPI) calculation for the task. Read-only  **Double**.
+Gets the value of the schedule performance index (SPI) calculation for the task. Read-only **Double**.
 
 
 ## Syntax

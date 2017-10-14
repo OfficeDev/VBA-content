@@ -16,14 +16,14 @@ ms.date: 06/08/2017
 Returns a [Long](vbe-glossary.md) whole number representing an RGB color value.
  **Syntax**
  **RGB( _red_, _green_, _blue_ )**
-The  **RGB** function syntax has these[named arguments](vbe-glossary.md):
+The **RGB** function syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_red_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the red component of the color.|
-|**_green_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the green component of the color.|
-|**_blue_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the blue component of the color.|
+|**_red_**|Required; **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the red component of the color.|
+|**_green_**|Required; **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the green component of the color.|
+|**_blue_**|Required; **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the blue component of the color.|
  **Remarks**
 Application [methods](vbe-glossary.md) and[properties](vbe-glossary.md) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
 The value for any [argument](vbe-glossary.md) to **RGB** that exceeds 255 is assumed to be 255.
@@ -44,7 +44,7 @@ The RGB color values returned by this function are incompatible with those used 
 
 ## Example
 
-This example shows how the  **RGB** function is used to return a whole number representing an **RGB** color value. It is used for those application methods and properties that accept a color specification. The object `MyObject` and its property are used for illustration purposes only. If `MyObject` does not exist, or if it does not have a **Color** property, an error occurs.
+This example shows how the **RGB** function is used to return a whole number representing an **RGB** color value. It is used for those application methods and properties that accept a color specification. The object `MyObject` and its property are used for illustration purposes only. If `MyObject` does not exist, or if it does not have a **Color** property, an error occurs.
 
 
 ```vb

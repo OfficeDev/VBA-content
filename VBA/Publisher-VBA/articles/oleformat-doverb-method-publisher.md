@@ -20,7 +20,7 @@ Requests that an OLE object perform one of its verbs.
 
  _expression_. **DoVerb**( **_iVerb_**)
 
- _expression_A variable that represents an  **OLEFormat** object.
+ _expression_A variable that represents an **OLEFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Requests that an OLE object perform one of its verbs.
 
 ## Remarks
 
-Use the  **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to determine the available verbs for an OLE object.
+Use the **[ObjectVerbs](oleformat-objectverbs-property-publisher.md)** property to determine the available verbs for an OLE object.
 
 
 ## Example

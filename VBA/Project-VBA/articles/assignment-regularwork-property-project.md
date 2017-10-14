@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.RegularWork Property (Project)
 
-Gets the amount of regular work for the assignment. Read/write  **Variant**.
+Gets the amount of regular work for the assignment. Read/write **Variant**.
 
 
 ## Syntax

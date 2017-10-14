@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ActiveSlicer Property (Excel)
 
-Returns an object that represents the active slicer in the active workbook or in the specified workbook. Returns  **Nothing** if no slicer is active. Read-only.
+Returns an object that represents the active slicer in the active workbook or in the specified workbook. Returns **Nothing** if no slicer is active. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Slicer
 
 ## Remarks
 
-If you do not specify a  **Workbook** object, this property returns the active slicer in the active workbook.
+If you do not specify a **Workbook** object, this property returns the active slicer in the active workbook.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextEffect Property (PowerPoint)
 
-Returns a  **[TextEffectFormat](texteffectformat-object-powerpoint.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **[TextEffectFormat](texteffectformat-object-powerpoint.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ TextEffectFormat
 
 ## Remarks
 
-Applies to  **[ShapeRange](shaperange-object-powerpoint.md)** objects that represent WordArt.
+Applies to **[ShapeRange](shaperange-object-powerpoint.md)** objects that represent WordArt.
 
 
 ## Example

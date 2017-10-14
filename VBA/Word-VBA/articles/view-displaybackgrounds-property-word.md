@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.DisplayBackgrounds Property (Word)
 
-Returns or sets a  **Boolean** that represents whether background colors and images are shown when a document is displayed in print layout view. .
+Returns or sets a **Boolean** that represents whether background colors and images are shown when a document is displayed in print layout view. .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether background colors and ima
 
 ## Remarks
 
-Corresponds to the  **Background colors and images (Print view only)** option located on the **View** tab of the **Options** dialog box.
+Corresponds to the **Background colors and images (Print view only)** option located on the **View** tab of the **Options** dialog box.
 
 
 ## Example

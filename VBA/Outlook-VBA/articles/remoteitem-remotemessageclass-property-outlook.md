@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.RemoteMessageClass Property (Outlook)
 
-Returns a  **String** indicating the message class for the remote item. Read-only.
+Returns a **String** indicating the message class for the remote item. Read-only.
 
 
 ## Syntax

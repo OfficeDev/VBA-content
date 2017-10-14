@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.PixelsToPoints Method (Publisher)
 
-Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **PixelsToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToPixels](application-pointstopixels-method-publisher.md)** method to convert measurements in points to pixels.
+Use the **[PointsToPixels](application-pointstopixels-method-publisher.md)** method to convert measurements in points to pixels.
 
 
 ## Example

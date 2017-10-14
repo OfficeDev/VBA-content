@@ -20,19 +20,19 @@ Indicates whether the specified shape has been flipped around its horizontal axi
 
  _expression_. **HorizontalFlip**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-The  **HorizontalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **HorizontalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its horizontal axis.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape.|
 | **msoTrue**|The shape has been flipped around its horizontal axis.|
 
 ## Example

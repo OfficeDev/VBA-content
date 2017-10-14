@@ -30,16 +30,16 @@ String
 
 ## Remarks
 
-Setting a style to a nonexistent style generates an error. Setting one kind of style to an existing style of another kind (for example, setting the  **LineStyle** property to a fill style) does nothing. Setting one kind of style to an existing style that has more than one set of attributes changes only the attributes for that component. For example, setting the **LineStyle** property to a style that has line, text, and fill attributes changes only the line attributes.
+Setting a style to a nonexistent style generates an error. Setting one kind of style to an existing style of another kind (for example, setting the **LineStyle** property to a fill style) does nothing. Setting one kind of style to an existing style that has more than one set of attributes changes only the attributes for that component. For example, setting the **LineStyle** property to a style that has line, text, and fill attributes changes only the line attributes.
 
-To preserve a shape's local formatting, use the  **LineStyleKeepFmt** property.
+To preserve a shape's local formatting, use the **LineStyleKeepFmt** property.
 
-Beginning with Microsoft Visio 2002, setting  **LineStyle** to a zero-length string ("") will cause the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
+Beginning with Microsoft Visio 2002, setting **LineStyle** to a zero-length string ("") will cause the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **LineStyle** property to set the line style for a particular shape.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **LineStyle** property to set the line style for a particular shape.
 
 
 ```vb

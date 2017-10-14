@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Excel4IntlMacroSheets Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the Microsoft Excel 4.0 international macro sheets in the specified workbook. Read-only.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the Microsoft Excel 4.0 international macro sheets in the specified workbook. Read-only.
 
 
 ## Syntax

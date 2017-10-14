@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowView.PointerColor Property (PowerPoint)
 
-Returns a  **ColorFormat** object that represents the pointer color for the specified presentation during one slide show. Read-only.
+Returns a **ColorFormat** object that represents the pointer color for the specified presentation during one slide show. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ ColorFormat
 
 As soon as the slide show is finished, the color reverts to the default color for the presentation. 
 
-To change the pointer to a pen, set the  **[PointerType](slideshowview-pointertype-property-powerpoint.md)** property to **ppSlideShowPointerPen**.
+To change the pointer to a pen, set the **[PointerType](slideshowview-pointertype-property-powerpoint.md)** property to **ppSlideShowPointerPen**.
 
 
 ## See also

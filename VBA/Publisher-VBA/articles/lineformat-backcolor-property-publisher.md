@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # LineFormat.BackColor Property (Publisher)
 
-Returns or sets a  **[ColorFormat](colorformat-object-publisher.md)** object representing the background color for the specified fill or patterned line. .
+Returns or sets a **[ColorFormat](colorformat-object-publisher.md)** object representing the background color for the specified fill or patterned line. .
 
 
 ## Syntax
 
  _expression_. **BackColor**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Remarks
 
-Use the  **[ForeColor](fillformat-forecolor-property-publisher.md)** property to set the foreground color for a fill or line.
+Use the **[ForeColor](fillformat-forecolor-property-publisher.md)** property to set the foreground color for a fill or line.
 
 
 ## Example

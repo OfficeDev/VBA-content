@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.NoData Event (Access)
 
-The  **NoData** event occurs after Microsoft Access formats a report for printing that has no data (the report is bound to an empty recordset), but before the report is printed. You can use this event to cancel printing of a blank report.
+The **NoData** event occurs after Microsoft Access formats a report for printing that has no data (the report is bound to an empty recordset), but before the report is printed. You can use this event to cancel printing of a blank report.
 
 
 ## Syntax
@@ -33,15 +33,15 @@ The  **NoData** event occurs after Microsoft Access formats a report for printin
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **[OnNoData](report-onnodata-property-access.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[OnNoData](report-onnodata-property-access.md)** property to the name of the macro or to [Event Procedure].
 
-If the report isn't bound to a table or query (by using the report's  **[RecordSource](report-recordsource-property-access.md)** property), the **NoData** event doesn't occur.
+If the report isn't bound to a table or query (by using the report's **[RecordSource](report-recordsource-property-access.md)** property), the **NoData** event doesn't occur.
 
-This event occurs after the  **Format** events for the report, but before the first **Print** event.
+This event occurs after the **Format** events for the report, but before the first **Print** event.
 
-This event doesn't occur for subreports. If you want to hide controls on a subreport when the subreport has no data, so that the controls don't print in this case, you can use the  **HasData** property in a macro or event procedure that runs when the **Format** or **Print** event occurs.
+This event doesn't occur for subreports. If you want to hide controls on a subreport when the subreport has no data, so that the controls don't print in this case, you can use the **HasData** property in a macro or event procedure that runs when the **Format** or **Print** event occurs.
 
-The  **NoData** event occurs before the first **Page** event for the report.
+The **NoData** event occurs before the first **Page** event for the report.
 
 
 ## Example
@@ -66,9 +66,9 @@ Private Sub Report_NoData(Cancel As Integer)
 End Sub 
 ```
 
-The following example shows how to use the  **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
+The following example shows how to use the **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.PlaceholderText Property (Word)
 
-Sets or returns a  **String** that represents the text displayed for an element that contains no text.
+Sets or returns a **String** that represents the text displayed for an element that contains no text.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **String** that represents the text displayed for an element 
 
 ## Remarks
 
-Placeholder text is displayed in Microsoft Word only when the  **Show XML tags in the document** check box in the **XML Structure** task pane is cleared. The **Show XML tags in the document** check box corresponds to the **[ShowXMLMarkup](view-showxmlmarkup-property-word.md)** property.
+Placeholder text is displayed in Microsoft Word only when the **Show XML tags in the document** check box in the **XML Structure** task pane is cleared. The **Show XML tags in the document** check box corresponds to the **[ShowXMLMarkup](view-showxmlmarkup-property-word.md)** property.
 
 
 ## Example

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Page Object (Publisher)
 
-Represents a page in a publication. The  **[Pages](http://msdn.microsoft.com/library/d6b7262c-015c-dcf3-bff4-0091dd32b78f%28Office.15%29.aspx)** collection contains all the **Page** objects in a publication.
+Represents a page in a publication. The **[Pages](http://msdn.microsoft.com/library/d6b7262c-015c-dcf3-bff4-0091dd32b78f%28Office.15%29.aspx)** collection contains all the **Page** objects in a publication.
 
 
 ## Example
 
-Use  **Pages** (index) to return a single **Page** object. The following example adds new text to the first shape on the first page in the active publication.
+Use **Pages** (index) to return a single **Page** object. The following example adds new text to the first shape on the first page in the active publication.
 
 
 ```
@@ -30,7 +30,7 @@ Sub AddPageNumberField()
 End Sub
 ```
 
-Use the  **[FindBypageID](http://msdn.microsoft.com/library/23ff5e69-33b1-e394-9d09-7199eae19fe9%28Office.15%29.aspx)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](http://msdn.microsoft.com/library/3c22aa15-c1dc-94c8-62d6-a1bc9635cd89%28Office.15%29.aspx)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
+Use the **[FindBypageID](http://msdn.microsoft.com/library/23ff5e69-33b1-e394-9d09-7199eae19fe9%28Office.15%29.aspx)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](http://msdn.microsoft.com/library/3c22aa15-c1dc-94c8-62d6-a1bc9635cd89%28Office.15%29.aspx)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
 
 
 

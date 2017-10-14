@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 
 Represents the set of references in the [project](vbe-glossary.md).
  **Remarks**
-Use the  **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **References** dialog box.
+Use the **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **References** dialog box.
 

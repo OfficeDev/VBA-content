@@ -20,7 +20,7 @@ Deletes the specified shape node object.
 
  _expression_. **Delete**( **_Index_**)
 
- _expression_A variable that represents a  **ShapeNodes** object.
+ _expression_A variable that represents a **ShapeNodes** object.
 
 
 ### Parameters

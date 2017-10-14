@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChange.TableNameOld Property (Excel)
 
-Returns the previous name of the table.  **String** Read-only
+Returns the previous name of the table. **String** Read-only
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.Font Property (Excel)
 
-Returns a  **[Font](font-object-excel.md)** object that specifies the font formatting if the conditional formatting rule evaluates to **True** . Read-only.
+Returns a **[Font](font-object-excel.md)** object that specifies the font formatting if the conditional formatting rule evaluates to **True** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Font](font-object-excel.md)** object that specifies the font forma
 
 ## Remarks
 
-Not all properties of the  **Font** object are supported for a conditional formatting object. You can set the font style, underline, color, and strikethrough attributes.
+Not all properties of the **Font** object are supported for a conditional formatting object. You can set the font style, underline, color, and strikethrough attributes.
 
 
 ## See also

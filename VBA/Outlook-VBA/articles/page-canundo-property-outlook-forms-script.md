@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Page.CanUndo Property (Outlook Forms Script)
 
-Returns a  **Boolean** that specifies whether the last user action can be undone. Read-only.
+Returns a **Boolean** that specifies whether the last user action can be undone. Read-only.
 
 
 ## Syntax
 
  _expression_. **CanUndo**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ## Remarks
@@ -24,6 +24,6 @@ Returns a  **Boolean** that specifies whether the last user action can be undone
 
  **CanUndo** is read-only.
 
-Many user actions can be undone with the  **Undo** command. The **CanUndo** property indicates whether the most recent action can be undone.
+Many user actions can be undone with the **Undo** command. The **CanUndo** property indicates whether the most recent action can be undone.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Underline Property (PowerPoint)
 
-Determines whether the specified text (for the  **Font** object) or the font style (for the **FontInfo** object) is underlined. Read/write.
+Determines whether the specified text (for the **Font** object) or the font style (for the **FontInfo** object) is underlined. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **Underline** property can be one of these **MsoTriState** constants.
+The value of the **Underline** property can be one of these **MsoTriState** constants.
 
 
 

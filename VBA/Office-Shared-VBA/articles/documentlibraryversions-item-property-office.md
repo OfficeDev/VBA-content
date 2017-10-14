@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersions.Item Property (Office)
 
-Gets a  **DocumentLibraryVersion** object from the **DocumentLibraryVersions** collection. Read-only.
+Gets a **DocumentLibraryVersion** object from the **DocumentLibraryVersions** collection. Read-only.
 
 
 ## Syntax

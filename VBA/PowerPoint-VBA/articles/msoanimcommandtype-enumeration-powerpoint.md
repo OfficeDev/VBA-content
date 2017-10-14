@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoAnimCommandType Enumeration (PowerPoint)
 
-Constants that specify the type of the animation command, passed to and returned by the  **Type** property of the **CommandEffect** object.
+Constants that specify the type of the animation command, passed to and returned by the **Type** property of the **CommandEffect** object.
 
 
 

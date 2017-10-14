@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # RotationEffect Object (PowerPoint)
 
-Represents a rotation effect for an  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
+Represents a rotation effect for an **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
 
 
 ## Example
 
-Use the [RotationEffect](animationbehavior-rotationeffect-property-powerpoint.md)property of the  **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
+Use the [RotationEffect](animationbehavior-rotationeffect-property-powerpoint.md)property of the **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
 
 
 ```vb
 ActivePresentation.Slides(1).TimeLine.MainSequence.Item.Behaviors(1).RotationEffect
 ```
 
-Use the [By](rotationeffect-by-property-powerpoint.md), [From](rotationeffect-from-property-powerpoint.md), and [To](rotationeffect-to-property-powerpoint.md)properties of the  **RotationEffect** object to affect an object's animation rotation. The following example adds a new shape to the first slide and sets the rotation animation behavior.
+Use the [By](rotationeffect-by-property-powerpoint.md), [From](rotationeffect-from-property-powerpoint.md), and [To](rotationeffect-to-property-powerpoint.md)properties of the **RotationEffect** object to affect an object's animation rotation. The following example adds a new shape to the first slide and sets the rotation animation behavior.
 
 
 

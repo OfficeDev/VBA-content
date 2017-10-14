@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # View Object (Project)
 
-Represents a view in Project. The  **View** object is a member of the **[Views](views-object-project.md)** collection.
+Represents a view in Project. The **View** object is a member of the **[Views](views-object-project.md)** collection.
 
 
 ## Remarks
 
-The  **[Pane.View](http://msdn.microsoft.com/library/a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2%28Office.15%29.aspx)** method returns the **View** object.
+The **[Pane.View](http://msdn.microsoft.com/library/a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2%28Office.15%29.aspx)** method returns the **View** object.
 
 
 ## Methods

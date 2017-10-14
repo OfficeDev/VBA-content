@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRuleSet.Delete Method (Visio)
 
-Deletes the  **[ValidationRuleSet](validationruleset-object-visio.md)** object from the document.
+Deletes the **[ValidationRuleSet](validationruleset-object-visio.md)** object from the document.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Deletes the  **[ValidationRuleSet](validationruleset-object-visio.md)** object f
 
 ## Remarks
 
-Calling the  **Delete** method also deletes all **[ValidationRule](validationrule-object-visio.md)** objects that are associated with the validation rule set.
+Calling the **Delete** method also deletes all **[ValidationRule](validationrule-object-visio.md)** objects that are associated with the validation rule set.
 
 
 ## Example
 
 The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Delete** method to delete a validation rule set named "Fault Tree Analysis" from the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Delete** method to delete a validation rule set named "Fault Tree Analysis" from the active document.
 
 
 

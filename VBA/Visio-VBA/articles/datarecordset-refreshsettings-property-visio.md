@@ -33,17 +33,17 @@ Long
 
 ## Remarks
 
-Constants for how a data recordset is refreshed are declared in the  **VisRefreshSettings** enumeration in the Visio type library:
+Constants for how a data recordset is refreshed are declared in the **VisRefreshSettings** enumeration in the Visio type library:
 
 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visRefreshNoReconciliationUI**|2|Disables the  **Refresh Conflicts** task pane in the Visio user interface (UI) after a refresh operation.|
+| **visRefreshNoReconciliationUI**|2|Disables the **Refresh Conflicts** task pane in the Visio user interface (UI) after a refresh operation.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made in the shape data of shapes linked to data in this recordset since the previous refresh operation. See note.|
-The default is for neither of the  **VisRefreshSettings** flags to be turned on. ( **RefreshSettings** = 0).
+The default is for neither of the **VisRefreshSettings** flags to be turned on. ( **RefreshSettings** = 0).
 
-When  **visRefreshNoReconciliationUI** is set, support for reconciling refresh conflicts in the Visio UI is disabled. As a developer, you should reconcile refresh conflicts programmatically by using the **[GetAllRefreshConflicts](datarecordset-getallrefreshconflicts-method-visio.md)** , **[GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** , and **[RemoveRefreshConflict](datarecordset-removerefreshconflict-method-visio.md)** methods.
+When **visRefreshNoReconciliationUI** is set, support for reconciling refresh conflicts in the Visio UI is disabled. As a developer, you should reconcile refresh conflicts programmatically by using the **[GetAllRefreshConflicts](datarecordset-getallrefreshconflicts-method-visio.md)** , **[GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** , and **[RemoveRefreshConflict](datarecordset-removerefreshconflict-method-visio.md)** methods.
 
 
  **Note**  In some previous versions of Visio, shape data was called custom properties.

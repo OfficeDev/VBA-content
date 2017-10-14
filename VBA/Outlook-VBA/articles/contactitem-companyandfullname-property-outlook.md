@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.CompanyAndFullName Property (Outlook)
 
-Returns a  **String** representing the concatenated company name and full name for the contact. Read-only.
+Returns a **String** representing the concatenated company name and full name for the contact. Read-only.
 
 
 ## Syntax

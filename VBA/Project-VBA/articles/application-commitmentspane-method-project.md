@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CommitmentsPane Method (Project)
 
-Opens the  **Deliverables** pane. Available only in Project Professional.
+Opens the **Deliverables** pane. Available only in Project Professional.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Opens the  **Deliverables** pane. Available only in Project Professional.
 
 ## Remarks
 
-Project Professional must be connected with Project Server to manage deliverables. The  **Manage Deliverables** item on the **Deliverable** drop-down menu on the task tab of the Ribbon also opens the **Deliverables** pane.
+Project Professional must be connected with Project Server to manage deliverables. The **Manage Deliverables** item on the **Deliverable** drop-down menu on the task tab of the Ribbon also opens the **Deliverables** pane.
 
 

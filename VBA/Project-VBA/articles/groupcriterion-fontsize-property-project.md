@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion.FontSize Property (Project)
 
-Gets or sets the size of the font for a field used as a criterion in a group definition, in points. Read/write  **Long**.
+Gets or sets the size of the font for a field used as a criterion in a group definition, in points. Read/write **Long**.
 
 
 ## Syntax

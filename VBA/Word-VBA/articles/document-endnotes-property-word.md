@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Endnotes Property (Word)
 
-Returns an  **[Endnotes](endnotes-object-word.md)** collection that represents all the endnotes in a document. Read-only.
+Returns an **[Endnotes](endnotes-object-word.md)** collection that represents all the endnotes in a document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailingLabel.LabelOptions Method (Word)
 
-Displays the  **Label Options** dialog box.
+Displays the **Label Options** dialog box.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays the  **Label Options** dialog box.
 
 ## Remarks
 
-The  **LabelOptions** method works only if the document is the main document of a mailing labels mail merge.
+The **LabelOptions** method works only if the document is the main document of a mailing labels mail merge.
 
 
 ## Example

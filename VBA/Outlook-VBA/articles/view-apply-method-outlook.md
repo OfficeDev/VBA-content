@@ -25,7 +25,7 @@ Applies the view to the Microsoft Outlook user interface.
 
 ## Remarks
 
-To properly reset the current view, you must do a  **[View.Reset](view-reset-method-outlook.md)** and then a **View.Apply** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a **[View.Reset](view-reset-method-outlook.md)** and then a **View.Apply** . The code sample below illustrates the order of the calls:
 
 
 ```vb
@@ -49,7 +49,7 @@ End Sub
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new view called  **New Table** and applies it.
+The following Visual Basic for Applications (VBA) example creates a new view called **New Table** and applies it.
 
 
 ```vb

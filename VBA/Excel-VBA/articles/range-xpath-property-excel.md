@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.XPath Property (Excel)
 
-Returns an  **[XPath](xpath-object-excel.md)** object that represents the Xpath of the element mapped to the specified **[Range](range-object-excel.md)** object. The context of the range determines whether or not the action succeeds or returns an empty object. Read-only.
+Returns an **[XPath](xpath-object-excel.md)** object that represents the Xpath of the element mapped to the specified **[Range](range-object-excel.md)** object. The context of the range determines whether or not the action succeeds or returns an empty object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[XPath](xpath-object-excel.md)** object that represents the Xpath 
 
 ## Remarks
 
-The  **XPath** property is valid when the range it contains meets the following conditions:
+The **XPath** property is valid when the range it contains meets the following conditions:
 
 
 - The range is a single cell.
@@ -38,10 +38,10 @@ The  **XPath** property is valid when the range it contains meets the following 
     
 - The range does not contain discontinuous areas.
     
-     **Note**  The header and totals row of a table are considered to contain XPath information.
+    **Note**  The header and totals row of a table are considered to contain XPath information.
 Any ranges that don't meet the above conditions returns a runtime error.
 
-If the range selection is valid, but none of the cells are mapped, Excel returns an  **XPath** object so that you can access the **SetValue** method to create a mapping.
+If the range selection is valid, but none of the cells are mapped, Excel returns an **XPath** object so that you can access the **SetValue** method to create a mapping.
 
 
 ## See also

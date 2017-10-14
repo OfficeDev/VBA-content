@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelItem.Control Property (Visio)
 
-Determines whether the CTRL key modifies the accelerator key in an  **AccelItem** object. Read/write.
+Determines whether the CTRL key modifies the accelerator key in an **AccelItem** object. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-Set the  **Control** property to **True** to use the CTRL key as a modifier for an accelerator, for example, CTRL+BACKSPACE.
+Set the **Control** property to **True** to use the CTRL key as a modifier for an accelerator, for example, CTRL+BACKSPACE.
 
 

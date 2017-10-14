@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Edit Method (Excel)
 
-Opens the workbook that is open in the specified  **Protected View** window for editing.
+Opens the workbook that is open in the specified **Protected View** window for editing.
 
 
 ## Syntax
@@ -52,7 +52,7 @@ You can specify one of the values, listed in the following table, in the  _Updat
 
 ## Example
 
-The following code example opens the workbook that is open in the active  **Protected View** window for editing.
+The following code example opens the workbook that is open in the active **Protected View** window for editing.
 
 
 ```vb

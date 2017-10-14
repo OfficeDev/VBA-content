@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Move a Text Box in Front of or Behind Another Control
 
-The following example sets the z-order of a  **[TextBox](textbox-object-outlook-forms-script.md)**, so the user can display the entire  **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
+The following example sets the z-order of a **[TextBox](textbox-object-outlook-forms-script.md)**, so the user can display the entire **TextBox** (by bringing it to the front of the z-order) or can place the **TextBox** behind other controls (by sending it to the back of the z-order).
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Three  **TextBox** controls named TextBox1 through TextBox3.
+- Three **TextBox** controls named TextBox1 through TextBox3.
     
-- A  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** named ToggleButton1.
+- A **[ToggleButton](togglebutton-object-outlook-forms-script.md)** named ToggleButton1.
     
 
 

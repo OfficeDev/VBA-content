@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Activate Method (Excel)
 
-Brings the  **Protected View** window to the front of the z-order.
+Brings the **Protected View** window to the front of the z-order.
 
 
 ## Syntax

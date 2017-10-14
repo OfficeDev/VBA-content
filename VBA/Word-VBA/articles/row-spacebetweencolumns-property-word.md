@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.SpaceBetweenColumns Property (Word)
 
-Returns or sets the distance (in points) between text in adjacent columns of the specified row or rows. Read/write  **Single** .
+Returns or sets the distance (in points) between text in adjacent columns of the specified row or rows. Read/write **Single** .
 
 
 ## Syntax

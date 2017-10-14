@@ -26,19 +26,19 @@ Create an undo transaction set for a series of operations.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Label_|Required|**String**|Name that appears in the drop-down list for the  **Undo Transaction** command.|
+| _Label_|Required|**String**|Name that appears in the drop-down list for the **Undo Transaction** command.|
 | _guid_|Optional|**Variant**|GUID that uniquely identifies Label.|
 
 ## Remarks
 
-The  **OpenUndoTransaction** method is used in conjunction with **[CloseUndoTransaction](application-closeundotransaction-method-project.md)** method. You can use **OpenUndoTransaction** and **CloseUndoTransaction** on a single command or on a group of commands.
+The **OpenUndoTransaction** method is used in conjunction with **[CloseUndoTransaction](application-closeundotransaction-method-project.md)** method. You can use **OpenUndoTransaction** and **CloseUndoTransaction** on a single command or on a group of commands.
 
 You cannot nest one undo transaction within another.
 
 
 ## Example
 
-The following example demonstrates using the  **OpenUndoTransaction** method to create an undo transaction set. After you run the macro, the task named **Task outside transaction** shows as the item **Insert Task** in the **Undo** drop-down list on the **Quick Access Toolbar**. The six tasks named  **UndoMe 1** to **UndoMe 6** show as **Create 6 tasks** in the **Undo** list.
+The following example demonstrates using the **OpenUndoTransaction** method to create an undo transaction set. After you run the macro, the task named **Task outside transaction** shows as the item **Insert Task** in the **Undo** drop-down list on the **Quick Access Toolbar**. The six tasks named **UndoMe 1** to **UndoMe 6** show as **Create 6 tasks** in the **Undo** list.
 
 
 ```vb

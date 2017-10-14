@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentData.AllDatabaseDiagrams Property (Access)
 
-You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](alldatabasediagrams-object-access.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
+You can use the **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](alldatabasediagrams-object-access.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
 
 
 ## Syntax

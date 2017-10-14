@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GetOpenFilename Method (Excel)
 
-Displays the standard  **Open** dialog box and gets a file name from the user without actually opening any files.
+Displays the standard **Open** dialog box and gets a file name from the user without actually opening any files.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Variant
 
 ## Remarks
 
-This string passed in the  _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters?text and addin: "Text Files (*.txt),*.txt,Add-In Files (*.xla),*.xla".
+This string passed in the  _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters, text and addin: "Text Files (*.txt),*.txt,Add-In Files (*.xla),*.xla".
 
 To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example, "Visual Basic Files (*.bas; *.txt),*.bas;*.txt".
 
@@ -55,7 +55,7 @@ This method may change the current drive or folder.
 
 ## Example
 
-This example displays the  **Open** dialog box, with the file filter set to text files. If the user chooses a file name, the code displays that file name in a message box.
+This example displays the **Open** dialog box, with the file filter set to text files. If the user chooses a file name, the code displays that file name in a message box.
 
 
 ```vb

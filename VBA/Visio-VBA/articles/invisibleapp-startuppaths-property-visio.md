@@ -30,13 +30,13 @@ String
 
 ## Remarks
 
-The  **StartupPaths** property is set to an empty string ("") by default.
+The **StartupPaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **StartupPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath** subkey.
+The string passed to and received from the **StartupPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, click ** File Locations**.) This string is stored in the **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath** subkey.
 
-When the application looks for third-party and user startup add-on files, it looks in all paths named in the  **StartupPaths** property, as well as at the paths of any startup add-ons installed at setup, and all the subfolders of those paths. If you pass the **StartupPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
+When the application looks for third-party and user startup add-on files, it looks in all paths named in the **StartupPaths** property, as well as at the paths of any startup add-ons installed at setup, and all the subfolders of those paths. If you pass the **StartupPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
-Setting the  **StartupPaths** property replaces existing values for **StartupPaths** in the **File Locations** dialog box. To retain existing values, get the existing string and then append the new file path to that string, as shown in the following code:
+Setting the **StartupPaths** property replaces existing values for **StartupPaths** in the **File Locations** dialog box. To retain existing values, get the existing string and then append the new file path to that string, as shown in the following code:
 
 
 
@@ -51,7 +51,7 @@ Application.StartupPaths = Application.StartupPaths &; ";" &; "newpath ".
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **StartupPaths** property to add a path to the **Start-up** paths list.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **StartupPaths** property to add a path to the **Start-up** paths list.
 
 
 ```vb

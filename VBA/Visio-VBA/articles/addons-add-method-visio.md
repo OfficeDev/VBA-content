@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Addons.Add Method (Visio)
 
-Adds a new  **Addon** object to an **Addons** collection.
+Adds a new **Addon** object to an **Addons** collection.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Addon
 
 ## Remarks
 
-The  **Add** method adds an EXE or VSL file to the collection and returns an **Addon** object if the string expression specifies an EXE file, or **Nothing** if the string expression specifies a VSL file.
+The **Add** method adds an EXE or VSL file to the collection and returns an **Addon** object if the string expression specifies an EXE file, or **Nothing** if the string expression specifies a VSL file.
 
 
 ## Example
 
-The following macro shows how to add an  **Addon** object to the **Addons** collection.
+The following macro shows how to add an **Addon** object to the **Addons** collection.
 
 Before running this macro, replace  _path_ \ _filename_ with a valid path and file name for an add-on in your Visio project.
 

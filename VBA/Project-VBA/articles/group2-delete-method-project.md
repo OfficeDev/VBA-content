@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group2.Delete Method (Project)
 
-Deletes the  **Group2** object from a **Groups2** collection.
+Deletes the **Group2** object from a **Groups2** collection.
 
 
 ## Syntax

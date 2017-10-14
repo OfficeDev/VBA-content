@@ -33,7 +33,7 @@ Requests that an OLE object perform one of its verbs.
 
 ## Remarks
 
-Use the  **[ObjectVerbs](oleformat-objectverbs-property-powerpoint.md)** property to determine the available verbs for an OLE object.
+Use the **[ObjectVerbs](oleformat-objectverbs-property-powerpoint.md)** property to determine the available verbs for an OLE object.
 
 
 ## Example

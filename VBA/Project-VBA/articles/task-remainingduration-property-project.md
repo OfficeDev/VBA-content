@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RemainingDuration Property (Project)
 
-Gets or sets the remaining duration (in minutes) of the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the remaining duration (in minutes) of the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

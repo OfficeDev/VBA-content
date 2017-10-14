@@ -25,7 +25,7 @@ Clears circles from invalid entries on the worksheet.
 
 ## Remarks
 
-Use the  **[CircleInvalid](worksheet-circleinvalid-method-excel.md)** method to circle cells that contain invalid data.
+Use the **[CircleInvalid](worksheet-circleinvalid-method-excel.md)** method to circle cells that contain invalid data.
 
 
 ## Example

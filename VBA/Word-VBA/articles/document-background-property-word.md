@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Background Property (Word)
 
-Returns a  **Shape** object that represents the background image for the specified document. Read-only.
+Returns a **Shape** object that represents the background image for the specified document. Read-only.
 
 
 ## Syntax

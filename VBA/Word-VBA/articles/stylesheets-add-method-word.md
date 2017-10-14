@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheets.Add Method (Word)
 
-Returns a  **StyleSheet** object that represents a new style sheet added to a Web document.
+Returns a **StyleSheet** object that represents a new style sheet added to a Web document.
 
 
 ## Syntax

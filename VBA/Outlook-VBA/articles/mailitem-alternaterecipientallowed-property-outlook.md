@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.AlternateRecipientAllowed Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the mail message can be forwarded. Read/write.
+Returns a **Boolean** value that indicates whether the mail message can be forwarded. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the mail message can be forw
 
 ## Remarks
 
-If this property returns  **True** , then the mail message can be forwarded.
+If this property returns **True** , then the mail message can be forwarded.
 
 
 ## See also

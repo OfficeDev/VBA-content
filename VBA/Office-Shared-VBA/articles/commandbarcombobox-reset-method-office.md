@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Reset Method (Office)
 
-Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarComboBox** control to its original function and face.
+Resets a built-in command bar to its default configuration, or resets a built-in **CommandBarComboBox** control to its original function and face.
 
 
 ## 

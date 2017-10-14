@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetTexture Property (Publisher)
 
-Returns an  **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
+Returns an **MsoPresetTexture** constant that represents the preset texture for the specified fill. Read-only.
 
 
 ## Syntax
 
  _expression_. **PresetTexture**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoPresetTexture
 
 ## Remarks
 
-The  **PresetTexture** property value can be one of the ** [MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **PresetTexture** property value can be one of the ** [MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Use the  **[PresetTextured](fillformat-presettextured-method-publisher.md)** method to specify the preset texture for the fill.
+Use the **[PresetTextured](fillformat-presettextured-method-publisher.md)** method to specify the preset texture for the fill.
 
 
 ## Example

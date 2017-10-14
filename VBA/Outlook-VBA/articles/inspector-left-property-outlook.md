@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.Left Property (Outlook)
 
-Returns or sets a  **Long** specifying the position (in pixels) of the left vertical edge of an inspector window from the edge of the screen. Read/write.
+Returns or sets a **Long** specifying the position (in pixels) of the left vertical edge of an inspector window from the edge of the screen. Read/write.
 
 
 ## Syntax

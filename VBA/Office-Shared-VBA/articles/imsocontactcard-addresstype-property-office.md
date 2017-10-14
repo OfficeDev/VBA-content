@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IMsoContactCard.AddressType Property (Office)
 
-A  **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only
+A **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ A  **MsoContactCardAddressType** value that represents the address type for the 
 
 ## Remarks
 
-The  **MsoContactCardAddressType** enumeration consists of the following members:
+The **MsoContactCardAddressType** enumeration consists of the following members:
 
 
 

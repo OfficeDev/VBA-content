@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.AllowMultiSelect Property (Office)
 
-Is  **True** if the user is allowed to select multiple files from a file dialog box. Read/write.
+Is **True** if the user is allowed to select multiple files from a file dialog box. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Is  **True** if the user is allowed to select multiple files from a file dialog 
 
 ## Remarks
 
-This property has no effect on  **Folder Picker** dialog boxes or **SaveAs** dialog boxes because users should never be able to select multiple files in these types of file dialog boxes.
+This property has no effect on **Folder Picker** dialog boxes or **SaveAs** dialog boxes because users should never be able to select multiple files in these types of file dialog boxes.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
 
 
 ```

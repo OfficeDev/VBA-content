@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.BusinessCardLayoutXml Property (Outlook)
 
-Returns or sets a  **String** that represents the XML markup for the layout of the Electronic Business Card. Read/write.
+Returns or sets a **String** that represents the XML markup for the layout of the Electronic Business Card. Read/write.
 
 
 ## Syntax

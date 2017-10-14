@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Selection Object (PowerPoint)
 
-Represents the selection in the specified document window. The  **Selection** object is deleted whenever you change slides in an active slide view (the **Type** property will return **ppSelectionNone** ).
+Represents the selection in the specified document window. The **Selection** object is deleted whenever you change slides in an active slide view (the **Type** property will return **ppSelectionNone** ).
 
 
 ## Example
 
-Use the [Selection](http://msdn.microsoft.com/library/3773ff08-043d-2b57-25ea-ba44cc30c77a%28Office.15%29.aspx)property to return the  **Selection** object. The following example places a copy of the selection in the active window on the Clipboard.
+Use the [Selection](http://msdn.microsoft.com/library/3773ff08-043d-2b57-25ea-ba44cc30c77a%28Office.15%29.aspx)property to return the **Selection** object. The following example places a copy of the selection in the active window on the Clipboard.
 
 
 ```
@@ -77,7 +77,7 @@ The following example duplicates all the slides in the selection (if you're in s
 ActiveWindow.Selection.SlideRange.Duplicate
 ```
 
-If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the  **ShapeRange** property when there are no shapes selected), an error occurs. Use the[Type](http://msdn.microsoft.com/library/1c39388f-2ca4-211c-393e-1f0af0723898%28Office.15%29.aspx)property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
+If you don't have an object of the appropriate type selected when you use one of these properties (for instance, if you use the **ShapeRange** property when there are no shapes selected), an error occurs. Use the[Type](http://msdn.microsoft.com/library/1c39388f-2ca4-211c-393e-1f0af0723898%28Office.15%29.aspx)property to determine what kind of object or objects are selected. The following example checks to see whether the selection contains slides. If the selection does contain slides, the example sets the background for the first slide in the selection.
 
 
 

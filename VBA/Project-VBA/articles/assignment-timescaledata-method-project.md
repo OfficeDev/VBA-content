@@ -26,10 +26,10 @@ Sets options for displaying timephased data.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _StartDate_|Required|**Variant**|The start date for the timephased data. If the start date falls within an interval, it is "rounded" to the start of the interval. For example, if TimeScaleUnit is  **pjTimescaleWeeks** and StartDate specifies a Wednesday, the start date is rounded to the preceding Monday (assuming that the work week starts on a Monday).|
+| _StartDate_|Required|**Variant**|The start date for the timephased data. If the start date falls within an interval, it is "rounded" to the start of the interval. For example, if TimeScaleUnit is **pjTimescaleWeeks** and StartDate specifies a Wednesday, the start date is rounded to the preceding Monday (assuming that the work week starts on a Monday).|
 | _EndDate_|Required|**Variant**|The end date for the timephased data. If the end date falls within an interval, it is "rounded" to the end of the interval.|
-| _Type_|Optional|**Long**|The type of timephased data. Can be one of the  **[PjAssignmentTimescaledData ](pjassignmenttimescaleddata-enumeration-project.md)** constants. The default value is **pjAssignmentTimescaledWork**.|
-| _TimeScaleUnit_|Optional|**Long**|Can be one of the  **[PjTimescaleUnit](pjtimescaleunit-enumeration-project.md)** constants. The default value is **pjTimescaleWeeks**.|
+| _Type_|Optional|**Long**|The type of timephased data. Can be one of the **[PjAssignmentTimescaledData ](pjassignmenttimescaleddata-enumeration-project.md)** constants. The default value is **pjAssignmentTimescaledWork**.|
+| _TimeScaleUnit_|Optional|**Long**|Can be one of the **[PjTimescaleUnit](pjtimescaleunit-enumeration-project.md)** constants. The default value is **pjTimescaleWeeks**.|
 | _Count_|Optional|**Long**|The number of timescale units to group together. The default value is 1. |
 
 ### Return Value

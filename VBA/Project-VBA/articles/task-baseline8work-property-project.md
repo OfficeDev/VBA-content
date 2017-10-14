@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline8Work Property (Project)
 
-Gets or sets the baseline work (in minutes) for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline work (in minutes) for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

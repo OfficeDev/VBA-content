@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FontNames.Item Method (Word)
 
-Returns a  **String** that represents the name of a font.
+Returns a **String** that represents the name of a font.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **String** that represents the name of a font.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a **Long** indicating the ordinal position of the individual object.|
 
 ### Return Value
 

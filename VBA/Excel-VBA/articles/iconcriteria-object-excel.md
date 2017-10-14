@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # IconCriteria Object (Excel)
 
-Represents the collection of  **[IconCriterion](iconcriterion-object-excel.md)** objects. Each **IconCriterion** represents the values and threshold type for each icon in an icon set conditional formatting rule.
+Represents the collection of **[IconCriterion](iconcriterion-object-excel.md)** objects. Each **IconCriterion** represents the values and threshold type for each icon in an icon set conditional formatting rule.
 
 
 ## Remarks
 
-The  **IconCriteria** collection is returned from the **[IconCriteria](iconsetcondition-iconcriteria-property-excel.md)** property of the **[IconSetCondition](iconsetcondition-object-excel.md)** object. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
+The **IconCriteria** collection is returned from the **[IconCriteria](iconsetcondition-iconcriteria-property-excel.md)** property of the **[IconSetCondition](iconsetcondition-object-excel.md)** object. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
 
 
 ## Example

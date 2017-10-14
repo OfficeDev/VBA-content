@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Source.Tag Property (Word)
 
-Returns a  **String** that represents an internal identifying label for a source. Read-only.
+Returns a **String** that represents an internal identifying label for a source. Read-only.
 
 
 ## Syntax

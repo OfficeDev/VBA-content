@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.AuthorInitials Property (Visio)
 
-Returns the initials of the author of the specified comment. Read-only  **String**.
+Returns the initials of the author of the specified comment. Read-only **String**.
 
 
 ## Syntax

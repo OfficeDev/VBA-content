@@ -56,7 +56,7 @@ Categories are user-defined strings that you can use to categorize shapes and th
 
 Connection points with dual directionality (both inward and outward) are identified as incoming or outgoing based on the way that they are used in a particular connection.
 
-The  **GluedShapes** method fails if the source object is a part of a master or a guide. Guides are excluded from any list of shapes returned.
+The **GluedShapes** method fails if the source object is a part of a master or a guide. Guides are excluded from any list of shapes returned.
 
 If you specify an invalid shape for  _pOtherConnectedShape_ , Microsoft Visio returns an Invalid Parameter error.
 

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Rows Object (Publisher)
 
-A collection of  **[Row](row-object-publisher.md)** objects that represent the rows in a table.
+A collection of **[Row](row-object-publisher.md)** objects that represent the rows in a table.
  
 
 
 ## Example
 
-Use the  **[Rows](table-rows-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Rows** collection. The following example displays the number of **[Row](row-object-publisher.md)** objects in the **Rows** collection for the first table in the active document.
+Use the **[Rows](table-rows-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Rows** collection. The following example displays the number of **[Row](row-object-publisher.md)** objects in the **Rows** collection for the first table in the active document.
  
 
  
@@ -59,7 +59,7 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Use  **Rows** (index), where index is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
+Use **Rows** (index), where index is the index number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). The following example selects the third row in the specified table.
  
 
  

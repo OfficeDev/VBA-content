@@ -25,7 +25,7 @@ Refreshes all external data ranges and PivotTable reports in the specified workb
 
 ## Remarks
 
-Objects that have the  **[BackgroundQuery](pivotcache-backgroundquery-property-excel.md)** property set to **True** are refreshed in the background.
+Objects that have the **[BackgroundQuery](pivotcache-backgroundquery-property-excel.md)** property set to **True** are refreshed in the background.
 
 
 ## Example

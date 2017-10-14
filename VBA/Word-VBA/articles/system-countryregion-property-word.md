@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.CountryRegion Property (Word)
 
-Returns the country/region designation of the system. Read-only  **WdCountry** .
+Returns the country/region designation of the system. Read-only **WdCountry** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the country/region designation of the system. Read-only  **WdCountry** .
 
 ## Example
 
-If the  **CountryRegion** property returns **wdUS** , this example converts the top margin value from points to inches.
+If the **CountryRegion** property returns **wdUS** , this example converts the top margin value from points to inches.
 
 
 ```vb

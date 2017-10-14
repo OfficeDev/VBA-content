@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.OpenFormat Property (PowerPoint)
 
-Returns the file format of the specified file converter. Read-only  **Long**.
+Returns the file format of the specified file converter. Read-only **Long**.
 
 
 ## Syntax

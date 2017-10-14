@@ -18,7 +18,7 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
 
  _expression_. **GradientAngle**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
 
 ## Remarks
 
-A gradient fill can be specified in the formatting for various elements. The valid range of values for the  **GradientAngle** property is from 0 to 359.9.
+A gradient fill can be specified in the formatting for various elements. The valid range of values for the **GradientAngle** property is from 0 to 359.9.
 
 
 ## See also

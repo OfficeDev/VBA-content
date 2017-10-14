@@ -18,7 +18,7 @@ Enables you to access and manipulate a section of a shape. A section of a shape 
 
 ## Remarks
 
-The default property of a  **Section** object is **Row**.
+The default property of a **Section** object is **Row**.
 
 
 ## Events

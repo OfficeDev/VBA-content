@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObjects.CopyPicture Method (Excel)
 
-Copies the selected object to the Clipboard as a picture.  **Variant** .
+Copies the selected object to the Clipboard as a picture. **Variant** .
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Copies the selected object to the Clipboard as a picture.  **Variant** .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](xlpictureappearance-enumeration-excel.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen** .|
-| _Format_|Optional| **[XlCopyPictureFormat](xlcopypictureformat-enumeration-excel.md)**|. The format of the picture. The default value is  **xlPicture** .|
+| _Appearance_|Optional| **[XlPictureAppearance](xlpictureappearance-enumeration-excel.md)**|. Specifies how the picture should be copied. The default value is **xlScreen** .|
+| _Format_|Optional| **[XlCopyPictureFormat](xlcopypictureformat-enumeration-excel.md)**|. The format of the picture. The default value is **xlPicture** .|
 
 ### Return Value
 

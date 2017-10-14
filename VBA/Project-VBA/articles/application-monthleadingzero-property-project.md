@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Project sets the  **MonthLeadingZero** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
+Project sets the **MonthLeadingZero** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
 
 

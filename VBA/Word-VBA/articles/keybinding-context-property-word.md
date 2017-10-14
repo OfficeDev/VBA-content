@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.Context Property (Word)
 
-Returns an  **Object** that represents the storage location of the specified key binding. Read-only.
+Returns an **Object** that represents the storage location of the specified key binding. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **Object** that represents the storage location of the specified key
 
 ## Remarks
 
-This property can return a  **Document** , **Template** , or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic** ) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
+This property can return a **Document** , **Template** , or **Application** object. Built-in key assignments (for example, CTRL+I for **Italic** ) return the **Application** object as the context. Any key bindings you add will return a **Document** or **Template** object, depending on the customization context in effect when the **KeyBinding** object was added.
 
 
 ## Example

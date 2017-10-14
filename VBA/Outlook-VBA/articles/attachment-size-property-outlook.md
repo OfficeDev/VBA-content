@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Size Property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the attachment. Read-only.
+Returns a **Long** indicating the size (in bytes) of the attachment. Read-only.
 
 
 ## Syntax

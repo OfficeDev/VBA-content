@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Resource Property (Project)
 
-Gets the  **[Resource](resource-object-project.md)** object associated with the **[Assignment](assignment-object-project.md)**. Read-only **Resource**.
+Gets the **[Resource](resource-object-project.md)** object associated with the **[Assignment](assignment-object-project.md)**. Read-only **Resource**.
 
 
 ## Syntax

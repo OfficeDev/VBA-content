@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.ObjectVerbsCount Property (Access)
 
-You can use the  **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
+You can use the **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **ObjectVerbsCount** property in Visual Basic to determine the 
 
 ## Remarks
 
-The  **ObjectVerbsCount** property setting is a value that specifies the number of elements in the **ObjectVerbs** property array.
+The **ObjectVerbsCount** property setting is a value that specifies the number of elements in the **ObjectVerbs** property array.
 
 This property setting isn't available in Design view.
 

@@ -30,8 +30,8 @@ Enters interactive progress line mode, enabling the user to manually draw progre
 
 ## Remarks
 
-The  **AddProgressLine** method has no effect unless the active view is a Gantt view.
+The **AddProgressLine** method has no effect unless the active view is a Gantt view.
 
-The  **AddProgressLine** method requires user interaction before additional code can be executed.
+The **AddProgressLine** method requires user interaction before additional code can be executed.
 
 

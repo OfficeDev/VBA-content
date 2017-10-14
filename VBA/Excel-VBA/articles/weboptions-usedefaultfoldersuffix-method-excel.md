@@ -25,9 +25,9 @@ Sets the folder suffix for the specified document to the default suffix for the 
 
 ## Remarks
 
-Microsoft Excel uses the folder suffix when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](weboptions-uselongfilenames-property-excel.md)** and **[OrganizeInFolder](weboptions-organizeinfolder-property-excel.md)** properties are set to **True** ).
+Microsoft Excel uses the folder suffix when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the **[UseLongFileNames](weboptions-uselongfilenames-property-excel.md)** and **[OrganizeInFolder](weboptions-organizeinfolder-property-excel.md)** properties are set to **True** ).
 
-The suffix appears in the folder name after the document name. For example, if the document is called "Book1" and the language is English, the folder name is Book1_files. The available folder suffixes are listed in the  **[FolderSuffix](weboptions-foldersuffix-property-excel.md)** property topic.
+The suffix appears in the folder name after the document name. For example, if the document is called "Book1" and the language is English, the folder name is Book1_files. The available folder suffixes are listed in the **[FolderSuffix](weboptions-foldersuffix-property-excel.md)** property topic.
 
 
 ## Example

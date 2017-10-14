@@ -36,11 +36,11 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The  **VarP** function evaluates a population, and the **Var** function evaluates a population sample.
+The **VarP** function evaluates a population, and the **Var** function evaluates a population sample.
 
-If the underlying query contains fewer than two records, the  **Var** and **VarP** functions return a **Null** value, which indicates that a variance cannot be calculated.
+If the underlying query contains fewer than two records, the **Var** and **VarP** functions return a **Null** value, which indicates that a variance cannot be calculated.
 
-You can use the  **Var** and **VarP** functions in a query expression or in an SQL statement.
+You can use the **Var** and **VarP** functions in a query expression or in an SQL statement.
 
 
 ## Example

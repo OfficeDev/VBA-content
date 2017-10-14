@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PasswordEncryptionKeyLength Property (Word)
 
-Returns a  **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
+Returns a **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** indicating the key length of the algorithm Microsoft Word us
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the key length Word uses when encrypting documents with passwords.
+Use the **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the key length Word uses when encrypting documents with passwords.
 
 
 ## Example

@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Plate.InkName Property (Publisher)
 
-Returns a  **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
+Returns a **PbInkName** constant that represents the name of the ink to be printed using this plate. Read-only.
 
 
 ## Syntax
 
  _expression_. **InkName**
 
- _expression_A variable that represents a  **Plate** object.
+ _expression_A variable that represents a **Plate** object.
 
 
 ## Remarks
 
-The  **InkName** property value can be one of the ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** constants declared in the Microsoft Publisher type library.
+The **InkName** property value can be one of the ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** constants declared in the Microsoft Publisher type library.
 
-Use the  **FindPlateByInkName** method of the **[PrintablePlates](printableplates-object-publisher.md)** collection to return a specific plate by referencing its ink name.
+Use the **FindPlateByInkName** method of the **[PrintablePlates](printableplates-object-publisher.md)** collection to return a specific plate by referencing its ink name.
 
 
 ## Example

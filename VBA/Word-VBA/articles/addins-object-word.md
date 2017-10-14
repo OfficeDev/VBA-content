@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # AddIns Object (Word)
 
-A collection of  **AddIn** objects that represents all the add-ins available to Word, regardless of whether or not they are currently loaded. The **AddIns** collection includes global templates or Word add-in libraries (WLLs) displayed in the **Templates and Add-ins** dialog box.
+A collection of **AddIn** objects that represents all the add-ins available to Word, regardless of whether or not they are currently loaded. The **AddIns** collection includes global templates or Word add-in libraries (WLLs) displayed in the **Templates and Add-ins** dialog box.
 
 
 ## Remarks
 
-Use the  **AddIns** property to return the **AddIns** collection. The following example displays the name and the installed state of each available add-in.
+Use the **AddIns** property to return the **AddIns** collection. The following example displays the name and the installed state of each available add-in.
 
 
 ```vb
@@ -26,7 +26,7 @@ For Each ad In AddIns
 Next ad
 ```
 
-Use the  **Add** method to add an add-in to the list of available add-ins and (optionally) install it using the Install argument.
+Use the **Add** method to add an add-in to the list of available add-ins and (optionally) install it using the Install argument.
 
 
 
@@ -35,7 +35,7 @@ Use the  **Add** method to add an add-in to the list of available add-ins and (o
 AddIns.Add FileName:="C:\Templates\Other\Letter.dot", Install:=True
 ```
 
-To install an add-in shown in the list of available add-ins, use the  **Installed** property.
+To install an add-in shown in the list of available add-ins, use the **Installed** property.
 
 
 
@@ -44,7 +44,7 @@ To install an add-in shown in the list of available add-ins, use the  **Installe
 AddIns("Letter.dot").Installed = True
 ```
 
-Use  **AddIns** (index), where index is the add-in name or index number, to return a single **[AddIn](addin-object-word.md)** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-ins** dialog box. To install an add-in shown in the list of available add-ins, use the **Installed** property. The following example loads the Letter.dot template as a global template.
+Use **AddIns** (index), where index is the add-in name or index number, to return a single **[AddIn](addin-object-word.md)** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-ins** dialog box. To install an add-in shown in the list of available add-ins, use the **Installed** property. The following example loads the Letter.dot template as a global template.
 
 
 
@@ -56,7 +56,7 @@ AddIns("Letter.dot").Installed = True
 
  **Note**  If the add-in is not located in the User Templates, Workgroup Templates, or Startup folder, you must specify the full path and file name when indexing an add-in by name.
 
-Use the  **Compiled** property to determine whether an **AddIn** object is a template or a WLL.
+Use the **Compiled** property to determine whether an **AddIn** object is a template or a WLL.
 
 
 ## See also

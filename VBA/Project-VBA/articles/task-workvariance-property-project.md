@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.WorkVariance Property (Project)
 
-Gets the variance between the baseline work and the work for the task. Read-only  **Variant**.
+Gets the variance between the baseline work and the work for the task. Read-only **Variant**.
 
 
 ## Syntax

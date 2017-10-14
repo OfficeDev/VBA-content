@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.DataTable Property (Project)
-Gets an  **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
+Gets an **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets an  **Office.IMsoDataTable** object that represents the chart data table. R
 
 ## Remarks
 
-To see the  **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
+To see the **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
 
 
 ## Example

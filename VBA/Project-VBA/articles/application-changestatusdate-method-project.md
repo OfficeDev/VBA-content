@@ -38,7 +38,7 @@ Changes the project status date.
 
 ## Remarks
 
-The project status date enables Project to show progress lines in tasks on the Gantt chart. The status date is also used in earned value calculations. Using  **ChangeStatusDate** with no parameter shows the **Status Date** dialog box. If the user cancels the dialog box, **ChangeStatusDate** returns **False**.
+The project status date enables Project to show progress lines in tasks on the Gantt chart. The status date is also used in earned value calculations. Using **ChangeStatusDate** with no parameter shows the **Status Date** dialog box. If the user cancels the dialog box, **ChangeStatusDate** returns **False**.
 
 
 ## Example

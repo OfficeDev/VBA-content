@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **LineRuleWithin** property can be one of these **MsoTriState** constants.
+The value of the **LineRuleWithin** property can be one of these **MsoTriState** constants.
 
 
 

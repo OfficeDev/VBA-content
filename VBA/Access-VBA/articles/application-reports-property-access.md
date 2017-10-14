@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Reports Property (Access)
 
-You can use the  **Reports** property to access the read-only **[Reports](reports-object-access.md)** collection and its related properties.
+You can use the **Reports** property to access the read-only **[Reports](reports-object-access.md)** collection and its related properties.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Reports** property to access the read-only **[Reports](report
 
 ## Remarks
 
-The  **Reports** collection contains all of the currently open reports in a Microsoft Access database or Microsoft Access project (.adp).
+The **Reports** collection contains all of the currently open reports in a Microsoft Access database or Microsoft Access project (.adp).
 
 
 ## See also

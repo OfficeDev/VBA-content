@@ -15,6 +15,6 @@ A ToolTip is a short description, usually just a few words, that appears when th
 
 The default value for a new control that is copied from a form to the Toolbox is "New" followed by the control type. For example, the default ToolTip for a customized CommandButton (such as OK) is "New CommandButton". If a control has no associated ToolTip, "Unknown" is the default value.
 
- **Note**  The ToolTip is information provided by Microsoft Forms to forms developers in design mode. Each control has a property,  **ControlTipText**, that allows forms developers to give a "ToolTip" to end users while the application is running.
+ **Note**  The ToolTip is information provided by Microsoft Forms to forms developers in design mode. Each control has a property, **ControlTipText**, that allows forms developers to give a "ToolTip" to end users while the application is running.
 
 

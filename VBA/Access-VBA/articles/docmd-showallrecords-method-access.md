@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.ShowAllRecords Method (Access)
 
-The  **ShowAllRecords** method carries out the ShowAllRecords action in Visual Basic.
+The **ShowAllRecords** method carries out the ShowAllRecords action in Visual Basic.
 
 
 ## Syntax

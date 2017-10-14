@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TabStops Object (Publisher)
 
-A collection of  **[TabStop](tabstop-object-publisher.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
+A collection of **[TabStop](tabstop-object-publisher.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
  
 
 
 ## Example
 
-Use the  **[Tabs](paragraphformat-tabs-property-publisher.md)** property to return the **TabStops** collection. The following example clears all the custom tab stops from the first paragraph in the active publication.
+Use the **[Tabs](paragraphformat-tabs-property-publisher.md)** property to return the **TabStops** collection. The following example clears all the custom tab stops from the first paragraph in the active publication.
  
 
  
@@ -31,7 +31,7 @@ Sub ClearAllTabStops()
 End Sub
 ```
 
-The following example adds a tab stop positioned at 2.5 inches to the selected paragraphs and then displays the position of each item in the  **TabStops** collection.
+The following example adds a tab stop positioned at 2.5 inches to the selected paragraphs and then displays the position of each item in the **TabStops** collection.
  
 
  
@@ -54,7 +54,7 @@ Sub Tabs()
 End Sub
 ```
 
-Use the  **[Add](tabstops-add-method-publisher.md)** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
+Use the **[Add](tabstops-add-method-publisher.md)** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
  
 
  
@@ -72,7 +72,7 @@ Sub AddNewTabs()
 End Sub
 ```
 
-Use  **[Tabs](paragraphformat-tabs-property-publisher.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active publication.
+Use **[Tabs](paragraphformat-tabs-property-publisher.md)** (index), where index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active publication.
  
 
  

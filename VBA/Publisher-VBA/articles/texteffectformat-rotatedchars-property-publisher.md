@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **RotatedChars**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-If the WordArt has horizontal text, setting the  **RotatedChars** property to **True** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **False** rotates the characters 90 degrees clockwise. Use the **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-publisher.md)** method to switch between horizontal and vertical text flow.
+If the WordArt has horizontal text, setting the **RotatedChars** property to **True** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **False** rotates the characters 90 degrees clockwise. Use the **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-publisher.md)** method to switch between horizontal and vertical text flow.
 
-The  **[Flip](shape-flip-method-publisher.md)** method and  **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object and the  **RotatedChars** property and **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](shape-flip-method-publisher.md)** method and **[Rotation](shape-rotation-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object and the **RotatedChars** property and **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example

@@ -19,7 +19,7 @@ Specifies the attachment type.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olByReference**|4|This value is no longer supported since Microsoft Outlook 2007. Use  **olByValue** to attach a copy of a file in the file system.|
+| **olByReference**|4|This value is no longer supported since Microsoft Outlook 2007. Use **olByValue** to attach a copy of a file in the file system.|
 | **olByValue**|1|The attachment is a copy of the original file and can be accessed even if the original file is removed.|
 | **olEmbeddeditem**|5|The attachment is an Outlook message format file (.msg) and is a copy of the original message.|
 | **olOLE**|6|The attachment is an OLE document.|

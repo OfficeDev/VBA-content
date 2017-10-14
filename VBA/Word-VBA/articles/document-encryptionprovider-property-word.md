@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EncryptionProvider Property (Word)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents. Read/write.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents. Read/write.
 
 
 ## Syntax

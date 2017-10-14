@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.ListHeaderCount Property (Office)
 
-Gets or sets the number of list items in a  **CommandBarComboBox** control that appears above the separator line. Read/write.
+Gets or sets the number of list items in a **CommandBarComboBox** control that appears above the separator line. Read/write.
 
 
 ## 
@@ -34,12 +34,12 @@ Gets or sets the number of list items in a  **CommandBarComboBox** control that 
 
  **Note**  This property is read-only for built-in combo box controls.
 
-A  **ListHeaderCount** property value of - 1 indicates that there's no separator line in the combo box control.
+A **ListHeaderCount** property value of - 1 indicates that there's no separator line in the combo box control.
 
 
 ## Example
 
-This example adds a combo box control to the command bar named "Custom" and then adds two items to the combo box. The example uses the  **ListHeaderCount** property to display a separator line between First Item and Second Item in the combo box. The example also sets the number of line items, the width of the combo box, and an empty default for the combo box.
+This example adds a combo box control to the command bar named "Custom" and then adds two items to the combo box. The example uses the **ListHeaderCount** property to display a separator line between First Item and Second Item in the combo box. The example also sets the number of line items, the width of the combo box, and an empty default for the combo box.
 
 
 ```

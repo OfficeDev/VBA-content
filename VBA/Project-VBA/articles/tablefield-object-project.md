@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-Represents a field of a table in Project. The  **TableField** object is a member of the **[TableFields](http://msdn.microsoft.com/library/1698bb53-f618-cd1a-a191-702f174ff279%28Office.15%29.aspx)** collection.
+Represents a field of a table in Project. The **TableField** object is a member of the **[TableFields](http://msdn.microsoft.com/library/1698bb53-f618-cd1a-a191-702f174ff279%28Office.15%29.aspx)** collection.
 
 ## Methods
 

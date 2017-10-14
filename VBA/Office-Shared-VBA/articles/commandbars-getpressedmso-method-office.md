@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetPressedMso Method (Office)
 
-Returns a value indicating whether the toggleButton control identified by the  **idMso** parameter is pressed.
+Returns a value indicating whether the toggleButton control identified by the **idMso** parameter is pressed.
 
 
 ## 
@@ -44,7 +44,7 @@ Boolean
 
 ## Example
 
-The following sample returns True when the  **Bold** button is pressed.
+The following sample returns True when the **Bold** button is pressed.
 
 
 ```

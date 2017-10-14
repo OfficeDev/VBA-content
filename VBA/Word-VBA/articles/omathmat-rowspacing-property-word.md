@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMat.RowSpacing Property (Word)
 
-Returns or sets a  **Long** that represents the spacing for rows in a matrix. Read/write.
+Returns or sets a **Long** that represents the spacing for rows in a matrix. Read/write.
 
 
 ## Syntax

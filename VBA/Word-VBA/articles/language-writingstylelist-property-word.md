@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.WritingStyleList Property (Word)
 
-Returns a string array that contains the names of all writing styles available for the specified language. Read-only  **Variant** .
+Returns a string array that contains the names of all writing styles available for the specified language. Read-only **Variant** .
 
 
 ## Syntax

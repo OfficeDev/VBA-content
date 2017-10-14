@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.InRange Method (Word)
 
-Returns  **True** if the range to which the method is applied is contained in the range specified by the Range argument.
+Returns **True** if the range to which the method is applied is contained in the range specified by the Range argument.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns  **True** if the range to which the method is applied is contained in th
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified  **Range** object.|
+| _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified **Range** object.|
 
 ### Return Value
 

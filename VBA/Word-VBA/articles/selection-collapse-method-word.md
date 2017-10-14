@@ -29,7 +29,7 @@ Collapses a selection to the starting or ending position. After a selection is c
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following  **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart** . The default value is **wdCollapseStart** .|
+| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart** . The default value is **wdCollapseStart** .|
 
 ## Example
 

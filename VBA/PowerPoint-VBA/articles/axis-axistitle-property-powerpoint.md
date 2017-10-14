@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.AxisTitle Property (PowerPoint)
 
-Returns the title of the specified axis. Read-only  **[AxisTitle](axistitle-object-powerpoint.md)**.
+Returns the title of the specified axis. Read-only **[AxisTitle](axistitle-object-powerpoint.md)**.
 
 
 ## Syntax

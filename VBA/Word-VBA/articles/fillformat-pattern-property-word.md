@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.Pattern Property (Word)
 
-Returns or sets a  **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
+Returns or sets a **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **MsoPatternType** constant that represents the pattern appli
 
 ## Example
 
-This example adds a rectangle to myDocument and sets its fill pattern to match that of the shape named "rect1." The new rectangle has the same pattern as "rect1" but not necessarily the same colors. The colors used in the pattern are set with the  **BackColor** and **ForeColor** properties.
+This example adds a rectangle to myDocument and sets its fill pattern to match that of the shape named "rect1." The new rectangle has the same pattern as "rect1" but not necessarily the same colors. The colors used in the pattern are set with the **BackColor** and **ForeColor** properties.
 
 
 ```vb

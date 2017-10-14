@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.MDX Property (Excel)
 
-Returns a  **String** indicating the Multidimensional Expression (MDX) that would be sent to the provider to populate the current PivotTable view. Read-only.
+Returns a **String** indicating the Multidimensional Expression (MDX) that would be sent to the provider to populate the current PivotTable view. Read-only.
 
 
 ## Syntax

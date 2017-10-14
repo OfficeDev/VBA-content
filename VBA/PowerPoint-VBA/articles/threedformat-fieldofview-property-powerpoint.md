@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.FieldOfView Property (PowerPoint)
 
-Returns or sets the camera field of view for the specified  **ThreeDFormat** object, in degrees. Read/write.
+Returns or sets the camera field of view for the specified **ThreeDFormat** object, in degrees. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-The  **FieldOfView** property controls the amount of perspective that is applied to a scene, between 0 and 180 degrees.
+The **FieldOfView** property controls the amount of perspective that is applied to a scene, between 0 and 180 degrees.
 
 
 ## See also

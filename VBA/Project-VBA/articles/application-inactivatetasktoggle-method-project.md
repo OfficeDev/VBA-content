@@ -29,7 +29,7 @@ Toggles the state of a task between inactive and active.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MakeActive_|Optional|**Variant**|Specifies whether to make the task active. If the task is active,  **True** has no effect. If the task is inactive, **True** makes the task active.|
+| _MakeActive_|Optional|**Variant**|Specifies whether to make the task active. If the task is active, **True** has no effect. If the task is inactive, **True** makes the task active.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Toggles the state of a task between inactive and active.
 
 ## Remarks
 
-The  **InactivateTaskToggle** method corresponds to the **Inactivate** command in the **Tasks** group of the **Task** tab on the Ribbon.
+The **InactivateTaskToggle** method corresponds to the **Inactivate** command in the **Tasks** group of the **Task** tab on the Ribbon.
 
 

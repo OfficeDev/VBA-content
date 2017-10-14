@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VerticalAlignment Property (Graph)
 
-Returns or sets the vertical alignment of the specified object. Required  **XlVAlign**.
+Returns or sets the vertical alignment of the specified object. Required **XlVAlign**.
 
 
 

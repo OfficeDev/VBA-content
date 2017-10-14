@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # Page.Visible Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[Page](page-object-outlook-forms-script.md)** is visible or hidden. Read/write.
+Returns or sets a **Boolean** that specifies whether a **[Page](page-object-outlook-forms-script.md)** is visible or hidden. Read/write.
 
 
 ## Syntax
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ## Remarks
 
  **True** to specify the page is visible (default), **False** to specify the page is hidden.
 
-Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
+Use the **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
 
 All pages are visible at design time.
 

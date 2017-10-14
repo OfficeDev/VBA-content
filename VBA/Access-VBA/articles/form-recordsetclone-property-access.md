@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.RecordsetClone Property (Access)
 
-You can use the  **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](form-recordsource-property-access.md)** property. Read-only.
+You can use the **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](form-recordsource-property-access.md)** property. Read-only.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **RecordsetClone** property to refer to a form's **Recordset** 
 
 ## Remarks
 
-The  **RecordsetClone** property setting is a copy of the underlying query or table specified by the form's **RecordSource** property. If a form is based on a query, for example, referring to the **RecordsetClone** property is the equivalent of cloning a **Recordset** object by using the same query. If you then apply a filter to the form, the **Recordset** object reflects the filtering.
+The **RecordsetClone** property setting is a copy of the underlying query or table specified by the form's **RecordSource** property. If a form is based on a query, for example, referring to the **RecordsetClone** property is the equivalent of cloning a **Recordset** object by using the same query. If you then apply a filter to the form, the **Recordset** object reflects the filtering.
 
 This property is available only by using [Visual Basic](set-properties-by-using-visual-basic.md) and is read-only in all views.
 
-You use the  **RecordsetClone** property to navigate or operate on a form's records independent of the form itself. For example, you can use the **RecordsetClone** property when you want to use a method, such as the DAO **Find** methods, that can't be used with forms.
+You use the **RecordsetClone** property to navigate or operate on a form's records independent of the form itself. For example, you can use the **RecordsetClone** property when you want to use a method, such as the DAO **Find** methods, that can't be used with forms.
 
-When a new  **Recordset** object is opened, its first record is the current record. If you one of the **Find** method or one of the **Move** methods to make any other record in the **Recordset** object current, you must synchronize the current record in the **Recordset** object with the form's current record by assigning the value of the DAO **Bookmark** property to the form's **[Bookmark](form-bookmark-property-access.md)** property.
+When a new **Recordset** object is opened, its first record is the current record. If you one of the **Find** method or one of the **Move** methods to make any other record in the **Recordset** object current, you must synchronize the current record in the **Recordset** object with the form's current record by assigning the value of the DAO **Bookmark** property to the form's **[Bookmark](form-bookmark-property-access.md)** property.
 
  **Link provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
@@ -42,7 +42,7 @@ When a new  **Recordset** object is opened, its first record is the current reco
 
 ## Example
 
-The following example uses the  **RecordsetClone** property to create a new clone of the **Recordset** object from the Orders form and then prints the names of the fields in the Immediate window.
+The following example uses the **RecordsetClone** property to create a new clone of the **Recordset** object from the Orders form and then prints the names of the fields in the Immediate window.
 
 
 ```vb
@@ -58,7 +58,7 @@ Sub Print_Field_Names()
 End Sub
 ```
 
-The next example uses the  **RecordsetClone** property and the **Recordset** object to synchronize a recordset's record with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company and the **Recordset** object's DAO **Bookmark** property is assigned to the form's **Bookmark** property, causing the form to display the found record.
+The next example uses the **RecordsetClone** property and the **Recordset** object to synchronize a recordset's record with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company and the **Recordset** object's DAO **Bookmark** property is assigned to the form's **Bookmark** property, causing the form to display the found record.
 
 
 
@@ -80,7 +80,7 @@ Sub SupplierID_AfterUpdate()
 End Sub
 ```
 
-You can use the  **RecordCount** property to count the number of records in a **Recordset** object. The following example shows how you can combine the **RecordCount** property and the **RecordsetClone** property to count the records in a form:
+You can use the **RecordCount** property to count the number of records in a **Recordset** object. The following example shows how you can combine the **RecordCount** property and the **RecordsetClone** property to count the records in a form:
 
 
 

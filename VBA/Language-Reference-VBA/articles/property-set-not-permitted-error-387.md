@@ -15,7 +15,7 @@ Not all [properties](vbe-glossary.md) support returning a reference. This error 
 
 
 
-- You tried to get a reference to a property that doesn't return a reference. Restrict your access to this property to  **Property Let** and **Property Get**.
+- You tried to get a reference to a property that doesn't return a reference. Restrict your access to this property to **Property Let** and **Property Get**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

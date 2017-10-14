@@ -20,7 +20,7 @@ Sets the type of BorderArt applied to the specified shape.
 
  _expression_. **Set**( **_BorderArtName_**)
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the type of BorderArt applied to the specified shape.
 
 ## Remarks
 
-You can also set the type of BorderArt applied to a shape using the  **[Name](borderartformat-name-property-publisher.md)** property.
+You can also set the type of BorderArt applied to a shape using the **[Name](borderartformat-name-property-publisher.md)** property.
 
 
 ## Example

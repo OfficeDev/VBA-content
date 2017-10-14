@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.OldValue Property (Access)
 
-You can use the  **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
+You can use the **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **OldValue** property to determine the unedited value of a boun
 
 ## Remarks
 
-The  **OldValue** property contains the unedited data from a bound control and is read-only in all views.
+The **OldValue** property contains the unedited data from a bound control and is read-only in all views.
 
-Microsoft Access uses the  **OldValue** property to store the original value of a bound control. When you edit a bound control on a form, your changes aren't saved until you move to another record. The **OldValue** property contains the unedited version of the underlying data.
+Microsoft Access uses the **OldValue** property to store the original value of a bound control. When you edit a bound control on a form, your changes aren't saved until you move to another record. The **OldValue** property contains the unedited version of the underlying data.
 
-You can provide your own undo capability by assigning the  **OldValue** property setting to a control. The following example shows how you can undo any changes to text box controls on a form:
+You can provide your own undo capability by assigning the **OldValue** property setting to a control. The following example shows how you can undo any changes to text box controls on a form:
 
 
 
@@ -48,14 +48,14 @@ Private Sub btnUndo_Click()
 End Sub
 ```
 
-If the control hasn't been edited, this code has no effect. When you move to another record, the record source is updated, so the current value and the  **OldValue** property will be the same.
+If the control hasn't been edited, this code has no effect. When you move to another record, the record source is updated, so the current value and the **OldValue** property will be the same.
 
-The  **OldValue** property setting has the same data type as the field to which the control is bound.
+The **OldValue** property setting has the same data type as the field to which the control is bound.
 
 
 ## Example
 
-The following example checks to determine if new data entered in a field is within 10 percent of the value of the original data. If the change is greater than 10 percent, the  **OldValue** property is used to restore the original value. This procedure could be called from the BeforeUpdate event of the control that contains data you want to validate.
+The following example checks to determine if new data entered in a field is within 10 percent of the value of the original data. If the change is greater than 10 percent, the **OldValue** property is used to restore the original value. This procedure could be called from the BeforeUpdate event of the control that contains data you want to validate.
 
 
 ```vb

@@ -32,9 +32,9 @@ Long
 
  `Shapes(1)` returns the shape at the back of the z-order, and `Shapes(Shapes.Count)` returns the shape at the front of the z-order.
 
-To set the shape's position in the z-order, use the  **ZOrder** method.
+To set the shape's position in the z-order, use the **ZOrder** method.
 
-A shape's position in the z-order corresponds to the shape's index number in the  **Shapes** collection. For example, if there are four shapes on the slide, the expression `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
+A shape's position in the z-order corresponds to the shape's index number in the **Shapes** collection. For example, if there are four shapes on the slide, the expression `myDocument.Shapes(1)` returns the shape at the back of the z-order, and the expression `myDocument.Shapes(4)` returns the shape at the front of the z-order.
 
 Whenever you add a new shape to a collection, it is added to the front of the z-order by default.
 

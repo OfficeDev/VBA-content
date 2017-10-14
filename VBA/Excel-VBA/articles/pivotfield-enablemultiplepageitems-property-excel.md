@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.EnableMultiplePageItems Property (Excel)
 
-Used for specifying whether or not check boxes are present in the filter drop-down list for fields in the page area. Read/write  **Boolean** .
+Used for specifying whether or not check boxes are present in the filter drop-down list for fields in the page area. Read/write **Boolean** .
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Used for specifying whether or not check boxes are present in the filter drop-do
 The existing property value is retained for OLAP.
 
 
- **Note**  In Excel 2007 or later, if you create pre-Excel 2007 OLAP PivotTables (PivotTable.Version < 3) with the  **SubtotalHiddenPageItems** property of the **PivotTable** object and the **EnableMultiplePageItems** property of the **PivotField** object set to **True** , changing the state of the check boxes in the filter drop-down menu of the page area will have no effect. In this case, the filter will always be set to **All** , including the unchecked (hidden) items.
+ **Note**  In Excel 2007 or later, if you create pre-Excel 2007 OLAP PivotTables (PivotTable.Version < 3) with the **SubtotalHiddenPageItems** property of the **PivotTable** object and the **EnableMultiplePageItems** property of the **PivotField** object set to **True** , changing the state of the check boxes in the filter drop-down menu of the page area will have no effect. In this case, the filter will always be set to **All** , including the unchecked (hidden) items.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Image.ImageHeight Property (Access)
 
-You can use the  **ImageHeight** property to determine the height in twips of the picture in an image control. Read/write **Long**.
+You can use the **ImageHeight** property to determine the height in twips of the picture in an image control. Read/write **Long**.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ You can use the  **ImageHeight** property to determine the height in twips of th
 
 This property is read-only in all views.
 
-You can use the  **ImageHeight** property together with the **[ImageWidth](image-imagewidth-property-access.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
+You can use the **ImageHeight** property together with the **[ImageWidth](image-imagewidth-property-access.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
 
 
 ## Example
 
-The following example prompts the user to enter the name of a bitmap and then assigns that bitmap to the  **Picture** property of the Image1 image control. The **ImageHeight** and **ImageWidth** properties are used to resize the image control to fit the size of the bitmap.
+The following example prompts the user to enter the name of a bitmap and then assigns that bitmap to the **Picture** property of the Image1 image control. The **ImageHeight** and **ImageWidth** properties are used to resize the image control to fit the size of the bitmap.
 
 
 ```vb

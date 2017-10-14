@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **Perspective**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value

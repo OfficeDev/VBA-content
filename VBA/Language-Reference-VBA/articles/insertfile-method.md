@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 Inserts code from a file into a code module.
  _object_**.InsertFile(**_filename_**) As String**
-The  **InsertFile** syntax has these parts:
+The **InsertFile** syntax has these parts:
 
 
 |**Part**|**Description**|

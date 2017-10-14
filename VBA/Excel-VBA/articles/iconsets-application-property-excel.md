@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSets.Application Property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](application-object-excel.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
+When used without an object qualifier, this property returns an **[Application](application-object-excel.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 
 
 ## Syntax

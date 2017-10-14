@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.PageRangeSeparator Property (Word)
 
-Returns or sets the characters (up to five) that separate a range of pages in a table of authorities. Read/write  **String** .
+Returns or sets the characters (up to five) that separate a range of pages in a table of authorities. Read/write **String** .
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure.Name Property (Excel)
 
-The name of the model measure. Read/write  **String**.
+The name of the model measure. Read/write **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.ScrollBars Property (Access)
 
-You can use the  **ScrollBars** property to specify whether scroll bars appear on a form. Read/write **Byte**.
+You can use the **ScrollBars** property to specify whether scroll bars appear on a form. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **ScrollBars** property to specify whether scroll bars appear o
 
 ## Remarks
 
-The  **ScrollBars** property uses the following settings.
+The **ScrollBars** property uses the following settings.
 
 
 
@@ -35,9 +35,9 @@ The  **ScrollBars** property uses the following settings.
 |Horizontal Only|1|Horizontal scroll bar appears on the form. |
 |Vertical Only|2|Vertical scroll bar appears on the form.|
 |Both|3|(Default) Vertical and horizontal scroll bars appear on the form. |
-If your form is larger than the available display window, you can use the  **ScrollBars** property to allow the user to view the entire form.
+If your form is larger than the available display window, you can use the **ScrollBars** property to allow the user to view the entire form.
 
-You can use the  **NavigationButtons** property to control record navigation.
+You can use the **NavigationButtons** property to control record navigation.
 
 
 ## See also

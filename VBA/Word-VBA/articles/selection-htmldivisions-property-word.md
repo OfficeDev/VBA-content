@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.HTMLDivisions Property (Word)
 
-Returns an  **[HTMLDivisions](htmldivisions-object-word.md)** object that represents an HTML division in a Web document.
+Returns an **[HTMLDivisions](htmldivisions-object-word.md)** object that represents an HTML division in a Web document.
 
 
 ## Syntax

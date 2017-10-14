@@ -30,8 +30,8 @@ String
 
 ## Remarks
 
-Setting a style to a nonexistent style generates an error. Setting one type of style to another type (for example, setting the  **FillStyleKeepFmt** property to a line style) does nothing. Setting one type of style to another type that has more than one set of attributes changes only the appropriate attributes (for example, setting the **FillStyleKeepFmt** property to a style that has line, text, and fill attributes changes only the fill attributes).
+Setting a style to a nonexistent style generates an error. Setting one type of style to another type (for example, setting the **FillStyleKeepFmt** property to a line style) does nothing. Setting one type of style to another type that has more than one set of attributes changes only the appropriate attributes (for example, setting the **FillStyleKeepFmt** property to a style that has line, text, and fill attributes changes only the fill attributes).
 
-Beginning with Microsoft Visio 2002, setting  **FillStyleKeepFmt** to an empty string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
+Beginning with Microsoft Visio 2002, setting **FillStyleKeepFmt** to an empty string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
 

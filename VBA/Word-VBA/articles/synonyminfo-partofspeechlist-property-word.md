@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SynonymInfo.PartOfSpeechList Property (Word)
 
-Returns a list of the parts of speech corresponding to the meanings found for the word or phrase looked up in the thesaurus. The list is returned as an array of integers. Read-only  **Variant** .
+Returns a list of the parts of speech corresponding to the meanings found for the word or phrase looked up in the thesaurus. The list is returned as an array of integers. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a list of the parts of speech corresponding to the meanings found for th
 
 ## Remarks
 
-The list of the parts of speech is returned as an array consisting of the following  **WdPartOfSpeech** constants: **wdAdjective** , **wdAdverb** , **wdConjunction** , **wdIdiom** , **wdInterjection** , **wdNoun** , **wdOther** , **wdPreposition** , **wdPronoun** , and **wdVerb** . The array elements are ordered to correspond to the elements returned by the **[MeaningList](synonyminfo-meaninglist-property-word.md)** property.
+The list of the parts of speech is returned as an array consisting of the following **WdPartOfSpeech** constants: **wdAdjective** , **wdAdverb** , **wdConjunction** , **wdIdiom** , **wdInterjection** , **wdNoun** , **wdOther** , **wdPreposition** , **wdPronoun** , and **wdVerb** . The array elements are ordered to correspond to the elements returned by the **[MeaningList](synonyminfo-meaninglist-property-word.md)** property.
 
 
 ## Example

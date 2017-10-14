@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **DrawingAids** property to **True** is equivalent to selecting **Drawing aids**on the  **General** tab of the **Snap &; Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
+Setting the **DrawingAids** property to **True** is equivalent to selecting **Drawing aids**on the **General** tab of the **Snap &; Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
 

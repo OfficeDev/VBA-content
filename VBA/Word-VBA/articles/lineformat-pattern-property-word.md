@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Pattern Property (Word)
 
-Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType** .
+Returns or sets a value that represents the pattern applied to the specified line. Read/write **MsoPatternType** .
 
 
 ## Syntax

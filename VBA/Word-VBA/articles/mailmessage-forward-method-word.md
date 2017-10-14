@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.Forward Method (Word)
 
-Opens a new e-mail message with an empty  **To** line for forwarding the active message.
+Opens a new e-mail message with an empty **To** line for forwarding the active message.
 
 
 ## Syntax

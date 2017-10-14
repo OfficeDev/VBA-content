@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.Alignment Property (Outlook)
 
-Returns or sets an  **[olAlignment](olalignment-enumeration-outlook.md)** constant that indicates the position of a control relative to its caption. Read/write.
+Returns or sets an **[olAlignment](olalignment-enumeration-outlook.md)** constant that indicates the position of a control relative to its caption. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[olAlignment](olalignment-enumeration-outlook.md)** consta
 
 ## Remarks
 
-The default value is  **olAlignmentLeft** .
+The default value is **olAlignmentLeft** .
 
 
 ## See also

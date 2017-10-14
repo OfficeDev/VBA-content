@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartCategory.IsFiltered Property (Excel)
 
-Returns  **TRUE** when the user filters out a series. **Boolean** Read-only
+Returns **TRUE** when the user filters out a series. **Boolean** Read-only
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns  **TRUE** when the user filters out a series. **Boolean** Read-only
 
 ## Remarks
 
-When a series is transferred out of its parent  **SeriesCollection** , that series still remains in its parent **FullSeriesCollection** . When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection** .
+When a series is transferred out of its parent **SeriesCollection** , that series still remains in its parent **FullSeriesCollection** . When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection** .
 
 
 ## Property value

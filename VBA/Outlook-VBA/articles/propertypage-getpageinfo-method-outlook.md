@@ -34,7 +34,7 @@ Returns Help information about a custom property page.
 
 ### Return Value
 
-An  **HRESULT** value that represents the result of the method.
+An **HRESULT** value that represents the result of the method.
 
 
 ## Example

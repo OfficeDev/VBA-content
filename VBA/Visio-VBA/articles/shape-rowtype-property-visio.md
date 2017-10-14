@@ -41,7 +41,7 @@ Integer
 
 After you change a row's type, the new row type may or may not have the same cells. Your program must provide the appropriate formulas for the new or changed cells.
 
-You can specify the type of row you want by setting  **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](visrowtags-enumeration-visio.md)** .
+You can specify the type of row you want by setting **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](visrowtags-enumeration-visio.md)** .
 
 
 
@@ -68,16 +68,16 @@ You can specify the type of row you want by setting  **RowType** equal to any of
 | **visTagCtlPtTip**|170|
 If an inappropriate row tag is passed or the row does not exist, no changes occur and an error is returned.
 
-Use the  **RowName** property to transition from unnamed to named Connection Points rows.
+Use the **RowName** property to transition from unnamed to named Connection Points rows.
 
-See  **[VisRowIndices](visrowindices-enumeration-visio.md)** for a list of valid row constants and **[VisRowTags](visrowtags-enumeration-visio.md)** for a list of valid row tag constants.
+See **[VisRowIndices](visrowindices-enumeration-visio.md)** for a list of valid row constants and **[VisRowTags](visrowtags-enumeration-visio.md)** for a list of valid row tag constants.
 
-See  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** for a list of valid section constants.
+See **[VisSectionIndices](vissectionindices-enumeration-visio.md)** for a list of valid section constants.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RowType** property to change the type of a ShapeSheet row. It draws a rectangle on a page and bows, or curves, the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **RowType** property to change the type of a ShapeSheet row. It draws a rectangle on a page and bows, or curves, the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
 
 
 ```vb

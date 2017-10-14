@@ -18,7 +18,7 @@ Represents the walls of the specified 3-D chart. This object isn't a collection.
 
 ## Using the Walls Object
 
-Use the  **Walls** property to return the **Walls** object. The following example sets the pattern on the walls for the chart. If the chart isn't a 3-D chart, this example will fail.
+Use the **Walls** property to return the **Walls** object. The following example sets the pattern on the walls for the chart. If the chart isn't a 3-D chart, this example will fail.
 
 
 ```

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property does not affect whether a chart is in autolayout mode or not. If the user adds a title using the  **Above Chart** command, the chart will resize smaller. If the user then removes the title or selects one of the overlay title options, the chart will resize larger, as if the title were not on the chart.
+This property does not affect whether a chart is in autolayout mode or not. If the user adds a title using the **Above Chart** command, the chart will resize smaller. If the user then removes the title or selects one of the overlay title options, the chart will resize larger, as if the title were not on the chart.
 
 
 ## See also

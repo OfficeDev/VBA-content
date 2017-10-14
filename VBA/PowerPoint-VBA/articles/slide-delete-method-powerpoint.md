@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.Delete Method (PowerPoint)
 
-Deletes the specified  **Slide** object.
+Deletes the specified **Slide** object.
 
 
 ## Syntax

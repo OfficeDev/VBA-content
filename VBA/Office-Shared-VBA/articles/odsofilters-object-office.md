@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ODSOFilters Object (Office)
 
-Represents all the filters to apply to the data source attached to the mail merge publication. The  **ODSOFilters** object is composed of **ODSOFilter** objects.
+Represents all the filters to apply to the data source attached to the mail merge publication. The **ODSOFilters** object is composed of **ODSOFilter** objects.
 
 
 ## Remarks
 
-Use the  **Add** method of the **ODSOFilters** object to add a new filter criterion to the query.
+Use the **Add** method of the **ODSOFilters** object to add a new filter criterion to the query.
 
 
 ## Example
@@ -43,7 +43,7 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-Use the  **Item** method to access an individual filter criterion. This example loops through all the filter criterion and if it finds one with a value of "Region", changes it to remove from the mail merge all records that are not equal to "WA".
+Use the **Item** method to access an individual filter criterion. This example loops through all the filter criterion and if it finds one with a value of "Region", changes it to remove from the mail merge all records that are not equal to "WA".
 
 
 

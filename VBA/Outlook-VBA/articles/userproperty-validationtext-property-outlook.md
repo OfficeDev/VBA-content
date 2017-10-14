@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperty.ValidationText Property (Outlook)
 
-Returns or sets a  **String** specifying the validation text for the specified user property. Read/write.
+Returns or sets a **String** specifying the validation text for the specified user property. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** specifying the validation text for the specified u
 
 ## Remarks
 
-The validation text is the error message that a user receives when the  **[Value](userproperty-value-property-outlook.md)** does not meet the criteria specified in **[ValidationFormula](userproperty-validationformula-property-outlook.md)** .
+The validation text is the error message that a user receives when the **[Value](userproperty-value-property-outlook.md)** does not meet the criteria specified in **[ValidationFormula](userproperty-validationformula-property-outlook.md)** .
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example demonstrates the use of  **ValidationText** and **ValidationFormula** properties.
+The following Visual Basic for Applications (VBA) example demonstrates the use of **ValidationText** and **ValidationFormula** properties.
 
 
 ```vb

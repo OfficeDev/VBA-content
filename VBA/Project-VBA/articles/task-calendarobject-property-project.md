@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.CalendarObject Property (Project)
 
-Gets the Calendar object to be used when scheduling the task. Read-only  **Calendar**.
+Gets the Calendar object to be used when scheduling the task. Read-only **Calendar**.
 
 
 ## Syntax

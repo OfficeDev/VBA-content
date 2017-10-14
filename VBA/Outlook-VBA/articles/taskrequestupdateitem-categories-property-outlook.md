@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestUpdateItem.Categories Property (Outlook)
 
-Returns or sets a  **String** representing the categories assigned to the Outlook item. Read/write.
+Returns or sets a **String** representing the categories assigned to the Outlook item. Read/write.
 
 
 ## Syntax

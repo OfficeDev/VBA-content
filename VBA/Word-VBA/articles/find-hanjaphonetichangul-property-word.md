@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.HanjaPhoneticHangul Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to locate phonetic Hangul and hanja characters in a Korean langauge find operation. Read/write.
+Returns or sets a **Boolean** that represents whether to locate phonetic Hangul and hanja characters in a Korean langauge find operation. Read/write.
 
 
 ## Syntax

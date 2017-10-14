@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CustomProperty Object (Word)
 
-Represents a single instance of a custom property for a smart tag. The  **CustomProperty** object is a member of the **[CustomProperties](customproperties-object-word.md)** collection.
+Represents a single instance of a custom property for a smart tag. The **CustomProperty** object is a member of the **[CustomProperties](customproperties-object-word.md)** collection.
 
 
 ## Remarks
 
-Use the  **[Item](customproperties-item-method-word.md)** method—or **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** (Index), where Index is the number of the property—of the **CustomProperties** collection to return a **CustomProperty** object.
+Use the **[Item](customproperties-item-method-word.md)** method—or **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** (Index), where Index is the number of the property—of the **CustomProperties** collection to return a **CustomProperty** object.
 
-Use the  **[Name](customproperty-name-property-word.md)** and **[Value](customproperty-value-property-word.md)** properties to return the information related to a custom property for a smart tag. This example displays a message containing the name and value of the first custom property of the first smart tag in the current document. This example assumes that the current document contains at least one smart tag and that the first smart tag has at least one custom property.
+Use the **[Name](customproperty-name-property-word.md)** and **[Value](customproperty-value-property-word.md)** properties to return the information related to a custom property for a smart tag. This example displays a message containing the name and value of the first custom property of the first smart tag in the current document. This example assumes that the current document contains at least one smart tag and that the first smart tag has at least one custom property.
 
 
 

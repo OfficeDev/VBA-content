@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisArcSweepFlags Enumeration (Visio)
 
-Sweep flag constants used in conjunction with the  **DrawQuarterArc** method.
+Sweep flag constants used in conjunction with the **DrawQuarterArc** method.
 
 
 

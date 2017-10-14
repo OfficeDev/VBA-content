@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.SenderEmailType Property (Outlook)
 
-Returns a  **String** that represents the type of entry for the e-mail address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
+Returns a **String** that represents the type of entry for the e-mail address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
 
 
 ## Syntax

@@ -17,7 +17,7 @@ Reads data from an open sequential file and assigns the data to [variables](vbe-
 
  **Input** **#**_filenumber, varlist_
 
-The  **Input #** statement syntax has these parts:
+The **Input #** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,7 +25,7 @@ The  **Input #** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _varlist_|Required. Comma-delimited list of variables that are assigned values read from the file — can't be an [array](vbe-glossary.md) or[object variable](vbe-glossary.md). However, variables that describe an element of an array or [user-defined type](vbe-glossary.md) may be used.|
  **Remarks**
-Data read with  **Input #** is usually written to a file with **Write #**. Use this[statement](vbe-glossary.md) only with files opened in **Input** or **Binary** mode.
+Data read with **Input #** is usually written to a file with **Write #**. Use this[statement](vbe-glossary.md) only with files opened in **Input** or **Binary** mode.
 When read, standard string or numeric data is assigned to variables without modification. The following table illustrates how other input data is treated:
 
 
@@ -43,12 +43,12 @@ Double quotation marks () within input data are ignored.
 Data items in a file must appear in the same order as the variables in  _varlist_ and match variables of the same[data type](vbe-glossary.md). If a variable is numeric and the data is not numeric, a value of zero is assigned to the variable.
 If you reach the end of the file while you are inputting a data item, the input is terminated and an error occurs.
 
- **Note**  To be able to correctly read data from a file into variables using  **Input #**, use the **Write #** statement instead of the **Print #** statement to write the data to the files. Using **Write #** ensures each separate data field is properly delimited.
+ **Note**  To be able to correctly read data from a file into variables using **Input #**, use the **Write #** statement instead of the **Print #** statement to write the data to the files. Using **Write #** ensures each separate data field is properly delimited.
 
 
 ## Example
 
-This example uses the  **Input #** statement to read data from a file into two variables. This example assumes that is a file with a few lines of data written to it using the **Write #** statement; that is, each line contains a string in quotations and a number separated by a comma, for example, ("Hello", 234).
+This example uses the **Input #** statement to read data from a file into two variables. This example assumes that is a file with a few lines of data written to it using the **Write #** statement; that is, each line contains a string in quotations and a number separated by a comma, for example, ("Hello", 234).
 
 
 ```vb

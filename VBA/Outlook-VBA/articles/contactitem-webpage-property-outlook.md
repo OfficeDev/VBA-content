@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.WebPage Property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the Web page for the contact. Read/write.
+Returns or sets a **String** indicating the URL of the Web page for the contact. Read/write.
 
 
 ## Syntax

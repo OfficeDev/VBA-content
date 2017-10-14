@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OptionsSecurityTab Method (Project)
 
-Displays a specific tab of the  **Trust Center** dialog box in Project.
+Displays a specific tab of the **Trust Center** dialog box in Project.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Displays a specific tab of the  **Trust Center** dialog box in Project.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DefaultTab_|Optional|**PjOptionsSecurityTab**|Specifies the tab to open in the  **Trust Center** dialog box. Can be one of the **[PjOptionsSecurityTab](pjoptionssecuritytab-enumeration-project.md)** constants. The default is **pjOptionsSecurityTabPublishers** for the **Trusted Publishers** tab.|
+| _DefaultTab_|Optional|**PjOptionsSecurityTab**|Specifies the tab to open in the **Trust Center** dialog box. Can be one of the **[PjOptionsSecurityTab](pjoptionssecuritytab-enumeration-project.md)** constants. The default is **pjOptionsSecurityTabPublishers** for the **Trusted Publishers** tab.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileParseType Property (Excel)
 
-Returns or sets the column format for the data in the text file that you're importing into a query table. Read/write  **[XlTextParsingType](xltextparsingtype-enumeration-excel.md)** .
+Returns or sets the column format for the data in the text file that you're importing into a query table. Read/write **[XlTextParsingType](xltextparsingtype-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -30,13 +30,13 @@ Returns or sets the column format for the data in the text file that you're impo
 | **XlTextParsingType** can be one of these **XlTextParsingType** constants.|
 | **xlFixedWidth** . Indicates that the data in the file is arranged in columns of fixed widths.|
 | **xlDelimited**_default_ . Iindicates the file is delimited by delimiter characters|
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **TextFileParseType** property applies only to **QueryTable** objects.
+The **TextFileParseType** property applies only to **QueryTable** objects.
 
 
 ## Example

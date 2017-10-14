@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **createObject** method of the **DataSpace** class specifies both a business object to process client application requests ( _progid_ ) and the communications protocol and server ( _connection_ ). **createObject** returns an[ObjectProxy](objectproxy-ado-wfc-syntax.md) object that represents the server.
+The **createObject** method of the **DataSpace** class specifies both a business object to process client application requests ( _progid_ ) and the communications protocol and server ( _connection_ ). **createObject** returns an[ObjectProxy](objectproxy-ado-wfc-syntax.md) object that represents the server.
 
  **package com.ms.wfc.data**
  **Constructor**

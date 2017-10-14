@@ -30,7 +30,7 @@ You can represent hexadecimal numbers directly by preceding numbers in the prope
 
 ## Example
 
-This example uses the  **Hex** function to return the hexadecimal value of a number.
+This example uses the **Hex** function to return the hexadecimal value of a number.
 
 
 ```vb

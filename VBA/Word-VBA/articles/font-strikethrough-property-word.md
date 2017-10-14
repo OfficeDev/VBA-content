@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **StrikeThrough** property returns **True** , **False** or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** .
+The **StrikeThrough** property returns **True** , **False** or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** .
 
-To set or return double strikethrough formatting, use the  **[DoubleStrikeThrough](font-doublestrikethrough-property-word.md)** property.
+To set or return double strikethrough formatting, use the **[DoubleStrikeThrough](font-doublestrikethrough-property-word.md)** property.
 
 
 ## Example

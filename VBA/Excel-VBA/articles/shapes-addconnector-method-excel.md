@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddConnector Method (Excel)
 
-Creates a connector. Returns a  **[Shape](shape-object-excel.md)** object that represents the new connector. When a connector is added, it's not connected to anything. Use the **[BeginConnect](connectorformat-beginconnect-method-excel.md)** and **[EndConnect](connectorformat-endconnect-method-excel.md)** methods to attach the beginning and end of a connector to other shapes in the document.
+Creates a connector. Returns a **[Shape](shape-object-excel.md)** object that represents the new connector. When a connector is added, it's not connected to anything. Use the **[BeginConnect](connectorformat-beginconnect-method-excel.md)** and **[EndConnect](connectorformat-endconnect-method-excel.md)** methods to attach the beginning and end of a connector to other shapes in the document.
 
 
 ## Syntax
@@ -49,7 +49,7 @@ Shape
 | **msoConnectorTypeMixed**|
 | **msoConnectorCurve**|
 | **msoConnectorStraight**|
-When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you?re going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
+When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you're going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
 
 
 ## Example

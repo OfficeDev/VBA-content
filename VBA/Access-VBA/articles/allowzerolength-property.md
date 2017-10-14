@@ -17,15 +17,15 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **AllowZeroLength** property to specify whether a zero-length string(" ") is a valid entry in a table field.
+You can use the **AllowZeroLength** property to specify whether a zero-length string(" ") is a valid entry in a table field.
 
 
- **Note**  The  **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
+ **Note**  The **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
 
 
 ## Setting
 
-The  **AllowZeroLength** property uses the following settings.
+The **AllowZeroLength** property uses the following settings.
 
 
 
@@ -34,14 +34,14 @@ The  **AllowZeroLength** property uses the following settings.
 |Yes|**True**|A zero-length string is a valid entry. This is the default value when creating a field in the Access user interface.|
 |No|**False**|A zero-length string is an invalid entry. This is the default value when creating a field programmatically.|
 
- **Note**  To access a field's  **AllowZeroLength** property by using Visual Basic, use the DAO **AllowZeroLength** property or the ADO **Column.Properties** ("Set OLEDB:Allow Zero Length") property.
+ **Note**  To access a field's **AllowZeroLength** property by using Visual Basic, use the DAO **AllowZeroLength** property or the ADO **Column.Properties** ("Set OLEDB:Allow Zero Length") property.
 
 
 ## Remarks
 
-If you want Microsoft Access to store a zero-length string instead of a Null value when you leave a field blank, set both the  **AllowZeroLength** and **Required** properties to Yes.
+If you want Microsoft Access to store a zero-length string instead of a Null value when you leave a field blank, set both the **AllowZeroLength** and **Required** properties to Yes.
 
-The following table shows the results of combining the settings of the  **AllowZeroLength** and **Required** properties.
+The following table shows the results of combining the settings of the **AllowZeroLength** and **Required** properties.
 
 
 
@@ -52,9 +52,9 @@ The following table shows the results of combining the settings of the  **AllowZ
 |No|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)(not allowed)(not allowed)|
 |Yes|Yes|Presses ENTERPresses SPACEBAREnters a zero-length string|(not allowed)Zero-length stringZero-length string|
 
- **Note**  You can use the  **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
+ **Note**  You can use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
 
-The  **AllowZeroLength** property works independently of the **Required** property. The **Required** property determines only whether a **Null** value is valid for the field. If the **AllowZeroLength** property is set to Yes, a zero-length string will be a valid value for the field regardless of the setting of the **Required** property.
+The **AllowZeroLength** property works independently of the **Required** property. The **Required** property determines only whether a **Null** value is valid for the field. If the **AllowZeroLength** property is set to Yes, a zero-length string will be a valid value for the field regardless of the setting of the **Required** property.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

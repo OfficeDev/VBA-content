@@ -30,18 +30,18 @@ Appends a single node as the last child under the context element node in the tr
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Represents the base name of the element to be appended.|
-| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be appended. This parameter is required to append nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
-| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of node to append. If the parameter is not specified, it is assumed to be of type  **msoCustomXMLNodeElement**.|
+| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be appended. This parameter is required to append nodes of type **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
+| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of node to append. If the parameter is not specified, it is assumed to be of type **msoCustomXMLNodeElement**.|
 | _NodeValue_|Optional|**String**|Used to set the value of the appended node for those nodes that allow text. If the node doesn't allow text, the parameter is ignored.|
 
 ## Remarks
 
-If the context node is any type other than  **msoXMLNodeElement**, or if the operation would result in an invalid tree structure, the append is not performed and an error message is displayed.
+If the context node is any type other than **msoXMLNodeElement**, or if the operation would result in an invalid tree structure, the append is not performed and an error message is displayed.
 
 
 ## Example
 
-The following example demonstrates appending a  **CustomXMLNode** object to another node.
+The following example demonstrates appending a **CustomXMLNode** object to another node.
 
 
 ```

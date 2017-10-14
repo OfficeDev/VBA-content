@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperties.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **MetaProperties** collection. Read-only.
+Gets a **Long** indicating the number of items in the **MetaProperties** collection. Read-only.
 
 
 ## Syntax

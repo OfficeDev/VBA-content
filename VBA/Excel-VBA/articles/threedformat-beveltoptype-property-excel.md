@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelTopType Property (Excel)
 
-Returns or sets the top Bevel type for a  **ThreeDFormat** object. Read/write **[MsoBevelType](http://msdn.microsoft.com/library/2404d6cf-0c64-fca5-59bc-098847018f99%28Office.15%29.aspx)** .
+Returns or sets the top Bevel type for a **ThreeDFormat** object. Read/write **[MsoBevelType](http://msdn.microsoft.com/library/2404d6cf-0c64-fca5-59bc-098847018f99%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Returns or sets the top Bevel type for a  **ThreeDFormat** object. Read/write **
 
 
 
-|MsoBevelType can be one of these  **MsoBevelType** constants.|
+|MsoBevelType can be one of these **MsoBevelType** constants.|
 | ** msoBevelAngle**|
 | **msoBevelArtDeco**|
 | **msoBevelCircle**|

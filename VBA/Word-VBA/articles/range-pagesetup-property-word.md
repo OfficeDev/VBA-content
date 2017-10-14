@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PageSetup Property (Word)
 
-Returns a  **PageSetup** object that's associated with the specified range.
+Returns a **PageSetup** object that's associated with the specified range.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.ActionControl Property (Office)
 
-Gets the  **CommandBarControl** object whose **OnAction** property is set to the running procedure. Read-only.
+Gets the **CommandBarControl** object whose **OnAction** property is set to the running procedure. Read-only.
 
 
 ## 
@@ -31,7 +31,7 @@ Gets the  **CommandBarControl** object whose **OnAction** property is set to the
 
 ## Example
 
-This example creates a command bar named "Custom", adds three buttons to it, and then uses the  **ActionControl** property and the **Tag** property to determine which command bar button was last clicked.
+This example creates a command bar named "Custom", adds three buttons to it, and then uses the **ActionControl** property and the **Tag** property to determine which command bar button was last clicked.
 
 
 ```
@@ -59,7 +59,7 @@ End With
 myBar.Visible = True
 ```
 
-The following subroutine responds to the  **OnAction** method and determines which command bar button was last clicked.
+The following subroutine responds to the **OnAction** method and determines which command bar button was last clicked.
 
 
 

@@ -29,7 +29,7 @@ Labels on a form or report display descriptive text such as titles, captions, or
 
 A label can be attached to another control. When you create a text box, for example, it has an attached label that displays a caption for that text box. This label appears as a column heading in the Datasheet view of a form.
 
-When you create a label by using the  **Label** tool, the label stands on its own — it isn't attached to any other control. You use stand-alone labels for information such as the title of a form or report, or for other descriptive text. Stand-alone labels don't appear in Datasheet view.
+When you create a label by using the **Label** tool, the label stands on its own — it isn't attached to any other control. You use stand-alone labels for information such as the title of a form or report, or for other descriptive text. Stand-alone labels don't appear in Datasheet view.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

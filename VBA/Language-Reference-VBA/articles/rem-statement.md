@@ -21,12 +21,12 @@ You can also use the following syntax:
  **'**_comment_
 The optional  _comment_[argument](vbe-glossary.md) is the text of any[comment](vbe-glossary.md) you want to include. A space is required between the **Rem**[keyword](vbe-glossary.md) and _comment_.
  **Remarks**
-If you use [line numbers](vbe-glossary.md) or[line labels](vbe-glossary.md), you can branch from a  **GoTo** or **GoSub**[statement](vbe-glossary.md) to a line containing a **Rem** statement. Execution continues with the first executable statement following the **Rem** statement. If the **Rem** keyword follows other statements on a line, it must be separated from the statements by a colon ( **:** ).
+If you use [line numbers](vbe-glossary.md) or[line labels](vbe-glossary.md), you can branch from a **GoTo** or **GoSub**[statement](vbe-glossary.md) to a line containing a **Rem** statement. Execution continues with the first executable statement following the **Rem** statement. If the **Rem** keyword follows other statements on a line, it must be separated from the statements by a colon ( **:** ).
 You can use an apostrophe ( **'** ) instead of the **Rem** keyword. When you use an apostrophe, the colon is not required after other statements.
 
 ## Example
 
-This example illustrates the various forms of the  **Rem** statement, which is used to include explanatory remarks in a program.
+This example illustrates the various forms of the **Rem** statement, which is used to include explanatory remarks in a program.
 
 
 ```vb

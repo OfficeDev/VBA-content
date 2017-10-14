@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Specifies the location of the tabs on a  **MultiPage** or **TabStrip**.
+Specifies the location of the tabs on a **MultiPage** or **TabStrip**.
  **Syntax**
  _object_. **TabOrientation** [= _fmTabOrientation_ ]
-The  **TabOrientation** property syntax has these parts:
+The **TabOrientation** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -36,5 +36,5 @@ The settings for  _fmTabOrientation_ are:
 | _fmTabOrientationLeft_|2|The tabs appear at the left side of the control.|
 | _fmTabOrientationRight_|3|The tabs appear at the right side of the control.|
  **Remarks**
-If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
+If you use TrueType fonts, the text rotates when the **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
 

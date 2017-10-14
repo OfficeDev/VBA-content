@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Search.SearchSubFolders Property (Outlook)
 
-Returns a  **Boolean** indicating whether the scope of the specified search included the subfolders of any folders searched. Read-only.
+Returns a **Boolean** indicating whether the scope of the specified search included the subfolders of any folders searched. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is determined by the  _SearchSubfolders_ argument of the **[Advanc
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search and the **SearchSubFolders** property is set to **True** . The event subroutine fires when the search has completed and displays the **Tag** and **Scope** properties for the new object as well as the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a **Search** object. The user's **Inbox** is specified as the scope of the search and the **SearchSubFolders** property is set to **True** . The event subroutine fires when the search has completed and displays the **Tag** and **Scope** properties for the new object as well as the results of the search.
 
 
 ```vb

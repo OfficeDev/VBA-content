@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScheme.Delete Method (PowerPoint)
 
-Deletes the specified  **ColorScheme** object.
+Deletes the specified **ColorScheme** object.
 
 
 ## Syntax

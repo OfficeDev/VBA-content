@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # ComboBox.SpecialEffect Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the visual appearance of an object. Read/write.
+Returns or sets an **Integer** that specifies the visual appearance of an object. Read/write.
 
 
 ## Syntax
 
  _expression_. **SpecialEffect**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The settings for  **SpecialEffect** are:
+The settings for **SpecialEffect** are:
 
 
 
@@ -31,7 +31,7 @@ The settings for  **SpecialEffect** are:
 |2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them.|
 |3|Border appears to be carved around the edge of the control.|
 |6|Object has a ridge on the bottom and right and appears flat on the top and left.|
-You can use either the  **SpecialEffect** or the **[BorderStyle](combobox-borderstyle-property-outlook-forms-script.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
+You can use either the **SpecialEffect** or the **[BorderStyle](combobox-borderstyle-property-outlook-forms-script.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
 
  **SpecialEffect** uses the system colors to define its borders.
 

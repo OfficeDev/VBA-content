@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When a section is protected for forms, you can select and modify text only in form fields. To protect an entire document, use the  **[Protect](http://msdn.microsoft.com/library/8269051e-7952-7dc0-c7d8-cbf5ff711e38%28Office.15%29.aspx)** method of the **[Document](document-object-word.md)** object.
+When a section is protected for forms, you can select and modify text only in form fields. To protect an entire document, use the **[Protect](http://msdn.microsoft.com/library/8269051e-7952-7dc0-c7d8-cbf5ff711e38%28Office.15%29.aspx)** method of the **[Document](document-object-word.md)** object.
 
 
 ## Example

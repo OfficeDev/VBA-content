@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeData.AllFunctions Property (Access)
 
-You can use the  **AllFunctions** property to reference the **[AllFunctions](allfunctions-object-access.md)** collection and its related properties. Read-only **AllFunctions** object.
+You can use the **AllFunctions** property to reference the **[AllFunctions](allfunctions-object-access.md)** collection and its related properties. Read-only **AllFunctions** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.LayoutRowDefault Property (Excel)
 
-This property specifies the layout settings for PivotFields when they are added to the PivotTable for the first time. Read/write  **xlLayoutRowType** .
+This property specifies the layout settings for PivotFields when they are added to the PivotTable for the first time. Read/write **xlLayoutRowType** .
 
 
 ## Syntax

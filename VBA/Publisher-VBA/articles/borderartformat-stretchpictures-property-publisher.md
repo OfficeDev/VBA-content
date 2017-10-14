@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **StretchPictures**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Boolean
 
 Returns "Permission Denied" if BorderArt has not been applied to the specified object.
 
-Corresponds to the  **Don't stretch pictures** and **Stretch pictures to fit** controls on the **BorderArt** dialog box.
+Corresponds to the **Don't stretch pictures** and **Stretch pictures to fit** controls on the **BorderArt** dialog box.
 
 
 ## Example

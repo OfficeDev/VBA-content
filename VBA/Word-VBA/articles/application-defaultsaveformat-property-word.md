@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultSaveFormat Property (Word)
 
-Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String** .
+Returns or sets the default format that will appear in the **Save as type** box in the **Save As** dialog box. Read/write **String** .
 
 
 ## Syntax
@@ -39,7 +39,7 @@ The string used with this property is the file converter class name. The class n
 |MS-DOS Text with Line Breaks|"8CRText"|
 |Rich Text Format|"Rtf"|
 |Unicode Text|"Unicode"|
-Use the  **[ClassName](fileconverter-classname-property-word.md)** property of the **[FileConverter](fileconverter-object-word.md)** object to determine the class name of an external file converter.
+Use the **[ClassName](fileconverter-classname-property-word.md)** property of the **[FileConverter](fileconverter-object-word.md)** object to determine the class name of an external file converter.
 
 
 ## Example

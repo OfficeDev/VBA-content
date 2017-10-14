@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.ColorScheme Property (PowerPoint)
 
-Returns or sets the  **[ColorScheme](colorscheme-object-powerpoint.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
+Returns or sets the **[ColorScheme](colorscheme-object-powerpoint.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
 
 
 ## Syntax

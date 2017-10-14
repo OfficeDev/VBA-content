@@ -25,7 +25,7 @@ Fills the specified shape with small tiles of an image.
 
 ## Remarks
 
-If you want to fill the shape with one large image, use the  **UserPicture** method.
+If you want to fill the shape with one large image, use the **UserPicture** method.
 
 
 ## Example

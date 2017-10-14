@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ServiceOptionsDialog Method (Project)
 
-Opens the  **Service Options** dialog box.
+Opens the **Service Options** dialog box.
 
 
 ## Syntax

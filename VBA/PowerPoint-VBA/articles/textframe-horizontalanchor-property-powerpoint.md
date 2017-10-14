@@ -30,7 +30,7 @@ MsoHorizontalAnchor
 
 ## Remarks
 
-The value returned by the  **HorizontalAnchor** property can be one of these **MsoHorizontalAnchor** constants.
+The value returned by the **HorizontalAnchor** property can be one of these **MsoHorizontalAnchor** constants.
 
 
 ||

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Paragraphs Property (Word)
 
-Returns a  **[Paragraphs](paragraphs-object-word.md)** collection that represents all the paragraphs in the specified selection. Read-only.
+Returns a **[Paragraphs](paragraphs-object-word.md)** collection that represents all the paragraphs in the specified selection. Read-only.
 
 
 ## Syntax

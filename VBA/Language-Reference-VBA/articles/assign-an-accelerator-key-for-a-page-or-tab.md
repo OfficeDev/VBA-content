@@ -14,13 +14,13 @@ ms.date: 06/08/2017
 
 
 
-1. In design mode, select an individual  **Page** or **Tab**. Be sure to select the **Page** or **Tab**, not the associated **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around the caption of the **Page** or **Tab**.
+1. In design mode, select an individual **Page** or **Tab**. Be sure to select the **Page** or **Tab**, not the associated **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around the caption of the **Page** or **Tab**.
     
-2. Right-click the selected  **Page** or **Tab**.
+2. Right-click the selected **Page** or **Tab**.
     
-3. From the shortcut menu, choose  **Rename**.
+3. From the shortcut menu, choose **Rename**.
     
-4. In the  **Rename** dialog box, enter a single character in the **Accelerator Key** field.
+4. In the **Rename** dialog box, enter a single character in the **Accelerator Key** field.
     
 
 

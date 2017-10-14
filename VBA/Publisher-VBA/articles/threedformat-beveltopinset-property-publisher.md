@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelTopInset Property (Publisher)
 
-Returns or sets a  **Single** that represents the depth of the top bevel. Read/write.
+Returns or sets a **Single** that represents the depth of the top bevel. Read/write.
 
 
 ## Syntax
 
  _expression_. **BevelTopInset**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ## Return value

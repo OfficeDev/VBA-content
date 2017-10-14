@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.QuickStyle Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the style corresponds to an available quick style. Read/write.
+Returns or sets a **Boolean** that represents whether the style corresponds to an available quick style. Read/write.
 
 
 ## Syntax

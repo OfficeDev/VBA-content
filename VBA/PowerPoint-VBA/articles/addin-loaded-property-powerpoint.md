@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **Loaded** property can be one of these **MsoTriState** constants.
+The value of the **Loaded** property can be one of these **MsoTriState** constants.
 
 
 
@@ -41,7 +41,7 @@ The value of the  **Loaded** property can be one of these **MsoTriState** consta
 
 ## Example
 
-This example adds MyTools.ppa to the list in the  **Add-Ins** tab and then loads it.
+This example adds MyTools.ppa to the list in the **Add-Ins** tab and then loads it.
 
 
 ```

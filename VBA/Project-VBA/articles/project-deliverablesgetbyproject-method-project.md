@@ -35,14 +35,14 @@ Gets a list of all deliverables for the specified enterprise project in the XML 
 
 ## Remarks
 
-Using VBA to process the  **XML** member of the **DeliverablesGetByProject** result object requires complex and non-intuitive code. We recommend that you use the Office and SharePoint Development Tools in Visual Studio 2012 to create an add-in for Project when you use Project Server and SharePoint features. The easiest approach to processing XML is to use the LINQ to XML methods in the .NET Framework 4.
+Using VBA to process the **XML** member of the **DeliverablesGetByProject** result object requires complex and non-intuitive code. We recommend that you use the Office and SharePoint Development Tools in Visual Studio 2012 to create an add-in for Project when you use Project Server and SharePoint features. The easiest approach to processing XML is to use the LINQ to XML methods in the .NET Framework 4.
 
 
 ## Example
 
-In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `http://ServerName/PWA/Simple`. The  **TestDeliverables** macro shows a message box that contains part of the XML result.
+In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `http://ServerName/PWA/Simple`. The **TestDeliverables** macro shows a message box that contains part of the XML result.
 
-The  **projectGuid** value returned by the **GetServerProjectGuid** method includes braces around the GUID, for example, "{1b14e65c-5601-4565-acb9-3822078a17fb}". You can use a GUID value either with or without the braces.
+The **projectGuid** value returned by the **GetServerProjectGuid** method includes braces around the GUID, for example, "{1b14e65c-5601-4565-acb9-3822078a17fb}". You can use a GUID value either with or without the braces.
 
 
 
@@ -68,11 +68,11 @@ End Sub
 ```
 
 
- **Note**  To find members of a variable of type  **Object**, such as the **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
+ **Note**  To find members of a variable of type **Object**, such as the **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
 
-The message box shows only the first 1024 characters of the total 17,295 characters of the XML result (in this example). In the following XML result, attributes are broken into separate lines. The actual XML result is all on one line, which you can see if you print the result to the  **Immediate** pane in the VBE. The example does not show the XML schema, which makes up most of the content.
+The message box shows only the first 1024 characters of the total 17,295 characters of the XML result (in this example). In the following XML result, attributes are broken into separate lines. The actual XML result is all on one line, which you can see if you print the result to the **Immediate** pane in the VBE. The example does not show the XML schema, which makes up most of the content.
 
-The  **ows_** fields are defined in the SharePoint list. Some fields that you may want to extract include **deliverableUid**, **workspaceUri**, **linkedTaskUid** (GUID of the task in Project Server), **ows_LinkTitle** (the name of the task that has the deliverable), **ows_Created**, **ows_Modified**, **ows_Author**, **ows_CommitmentStart**, and **ows_CommitmentFinish**.
+The **ows_** fields are defined in the SharePoint list. Some fields that you may want to extract include **deliverableUid**, **workspaceUri**, **linkedTaskUid** (GUID of the task in Project Server), **ows_LinkTitle** (the name of the task that has the deliverable), **ows_Created**, **ows_Modified**, **ows_Author**, **ows_CommitmentStart**, and **ows_CommitmentFinish**.
 
 
 

@@ -20,12 +20,12 @@ Specifies the type of story. Read-only.
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Story** object.
+ _expression_A variable that represents a **Story** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbStoryType** constants
+The **Type** property value can be one of these **PbStoryType** constants
 
 
 

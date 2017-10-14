@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Left Property (Excel)
 
-Returns a  **Variant** value that represents the distance, in points, from the left edge of column A to the left edge of the range.
+Returns a **Variant** value that represents the distance, in points, from the left edge of column A to the left edge of the range.
 
 
 ## Syntax

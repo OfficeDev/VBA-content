@@ -25,16 +25,16 @@ Determines the string expression specified by the  _OpenArgs_ argument of the **
 
 ## Remarks
 
-This property is available only by using a macro or by using Visual Basic with the  **OpenForm** method of the **DoCmd** object. This property setting is read-only in all views.
+This property is available only by using a macro or by using Visual Basic with the **OpenForm** method of the **DoCmd** object. This property setting is read-only in all views.
 
-To use the  **OpenArgs** property, open a form by using the **OpenForm** method of the **DoCmd** object and set the _OpenArgs_ argument to the desired string expression. The **OpenArgs** property setting can then be used in code for the form, such as in an **Open** event procedure. You can also refer to the property setting in a macro, such as an **Open** macro, or an expression, such as an expression that sets the **ControlSource** property for a control on the form.
+To use the **OpenArgs** property, open a form by using the **OpenForm** method of the **DoCmd** object and set the _OpenArgs_ argument to the desired string expression. The **OpenArgs** property setting can then be used in code for the form, such as in an **Open** event procedure. You can also refer to the property setting in a macro, such as an **Open** macro, or an expression, such as an expression that sets the **ControlSource** property for a control on the form.
 
-For example, suppose that the form you open is a continuous-form list of clients. If you want the focus to move to a specific client record when the form opens, you can set the  **OpenArgs** property to the client's name, and then use the **FindRecord** action in an Open macro to move the focus to the record for the client with the specified name.
+For example, suppose that the form you open is a continuous-form list of clients. If you want the focus to move to a specific client record when the form opens, you can set the **OpenArgs** property to the client's name, and then use the **FindRecord** action in an Open macro to move the focus to the record for the client with the specified name.
 
 
 ## Example
 
-The following example uses the  **OpenArgs** property to open the Employees form to a specific employee record and demonstrates how the **OpenForm** method sets the **OpenArgs** property. You can run this procedure as appropriate — for example, when the **AfterUpdate** event occurs for a custom dialog box used to enter new information about an employee.
+The following example uses the **OpenArgs** property to open the Employees form to a specific employee record and demonstrates how the **OpenForm** method sets the **OpenArgs** property. You can run this procedure as appropriate — for example, when the **AfterUpdate** event occurs for a custom dialog box used to enter new information about an employee.
 
 
 ```vb
@@ -57,7 +57,7 @@ Sub Form_Open(Cancel As Integer)
 End Sub
 ```
 
-The following example shows how to use the  **OpenArgs** property to prevent a form from being opened from the Navigation Pane.
+The following example shows how to use the **OpenArgs** property to prevent a form from being opened from the Navigation Pane.
 
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 

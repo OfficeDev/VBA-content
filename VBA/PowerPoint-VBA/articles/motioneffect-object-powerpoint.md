@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # MotionEffect Object (PowerPoint)
 
-Represents a motion effect for an  **AnimationBehavior** object.
+Represents a motion effect for an **AnimationBehavior** object.
 
 
 ## Example
 
-Use the [MotionEffect](animationbehavior-motioneffect-property-powerpoint.md)propety of the  **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
+Use the [MotionEffect](animationbehavior-motioneffect-property-powerpoint.md)propety of the **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
 
 
 ```vb
 ActivePresentation.Slides(1).TimeLine.MainSequence.Item.Behaviors(1).MotionEffect
 ```
 
-Use the [ByX](motioneffect-byx-property-powerpoint.md), [ByY](motioneffect-byy-property-powerpoint.md), [FromX](motioneffect-fromx-property-powerpoint.md), [FromY](motioneffect-fromy-property-powerpoint.md), [ToX](motioneffect-tox-property-powerpoint.md), and [ToY](motioneffect-toy-property-powerpoint.md)properties of the  **MotionEffect** object to construct a motion path. The **ToY** and **ToX** properties are in percentage, where **ToX** = 1.0 means 100% of slide width and **ToY** = 1.0 means 100% of slide height. The following example adds a shape to the first slide and creates a motion path.
+Use the [ByX](motioneffect-byx-property-powerpoint.md), [ByY](motioneffect-byy-property-powerpoint.md), [FromX](motioneffect-fromx-property-powerpoint.md), [FromY](motioneffect-fromy-property-powerpoint.md), [ToX](motioneffect-tox-property-powerpoint.md), and [ToY](motioneffect-toy-property-powerpoint.md)properties of the **MotionEffect** object to construct a motion path. The **ToY** and **ToX** properties are in percentage, where **ToX** = 1.0 means 100% of slide width and **ToY** = 1.0 means 100% of slide height. The following example adds a shape to the first slide and creates a motion path.
 
 
 

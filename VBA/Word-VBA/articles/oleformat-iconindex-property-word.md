@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.IconIndex Property (Word)
 
-Returns or sets the icon that is used when the  **[DisplayAsIcon](oleformat-displayasicon-property-word.md)** property is **True** . Read/write **Long** .
+Returns or sets the icon that is used when the **[DisplayAsIcon](oleformat-displayasicon-property-word.md)** property is **True** . Read/write **Long** .
 
 
 ## Syntax

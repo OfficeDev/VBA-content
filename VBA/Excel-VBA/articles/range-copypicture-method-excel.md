@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CopyPicture Method (Excel)
 
-Copies the selected object to the Clipboard as a picture.  **Variant** .
+Copies the selected object to the Clipboard as a picture. **Variant** .
 
 
 ## Syntax

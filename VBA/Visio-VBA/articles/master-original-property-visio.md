@@ -30,6 +30,6 @@ Master
 
 ## Remarks
 
-If this  **Master** object is not an open copy of another **Master** object, the **Original** property returns **Nothing** .
+If this **Master** object is not an open copy of another **Master** object, the **Original** property returns **Nothing** .
 
 

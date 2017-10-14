@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequences.Item Method (PowerPoint)
 
-Returns a single  **Sequence** object from the specified **Sequences** collection.
+Returns a single **Sequence** object from the specified **Sequences** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Sequence** object from the specified **Sequences** collectio
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Sequence** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Sequence** object in the collection to be returned.|
 
 ### Return Value
 

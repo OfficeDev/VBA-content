@@ -30,16 +30,16 @@ Gets or sets the logical expression that determines whether the target object sa
 
 ## Remarks
 
-When you validate a diagram by calling the  **[Validate](validation-validate-method-visio.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the test expression that you set as the **TestExpression** property value to determine whether the target object satisfies the validation rule. If the test expression evaluates to **False** , Visio generates a validation issue. If the test expression evaluates to **True** , no validation issue is generated.
+When you validate a diagram by calling the **[Validate](validation-validate-method-visio.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the test expression that you set as the **TestExpression** property value to determine whether the target object satisfies the validation rule. If the test expression evaluates to **False** , Visio generates a validation issue. If the test expression evaluates to **True** , no validation issue is generated.
 
-Visio evaluates the test expression for target objects only when the value of the  **[FilterExpression](validationrule-filterexpression-property-visio.md)** property of the **ValidationRule** object evaluates to **True** .
+Visio evaluates the test expression for target objects only when the value of the **[FilterExpression](validationrule-filterexpression-property-visio.md)** property of the **ValidationRule** object evaluates to **True** .
 
-The syntax for the  **TestExpression** property value is the same as that for a ShapeSheet expression. When you set the **TestExpression** property value, Visio does not check the syntax of the test expression. If the test expression is not syntactically correct, the evaluation of the expression fails during validation and Visio generates a validation issue at that time.
+The syntax for the **TestExpression** property value is the same as that for a ShapeSheet expression. When you set the **TestExpression** property value, Visio does not check the syntax of the test expression. If the test expression is not syntactically correct, the evaluation of the expression fails during validation and Visio generates a validation issue at that time.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **TestExpression** property to determine whether a particular shape target satisfies a validation rule.
+The following Visual Basic for Applications (VBA) example shows how to use the **TestExpression** property to determine whether a particular shape target satisfies a validation rule.
 
 
 ```vb

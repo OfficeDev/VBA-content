@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SelectedSheets Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the selected sheets in the specified window. Read-only.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the selected sheets in the specified window. Read-only.
 
 
 ## Syntax

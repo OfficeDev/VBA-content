@@ -30,9 +30,9 @@ Single
 
 ## Remarks
 
-The  **Tracking** property value can be from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.)
+The **Tracking** property value can be from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.)
 
-The following table gives the values of the  **Tracking** property that correspond to the settings available in the user interface.
+The following table gives the values of the **Tracking** property that correspond to the settings available in the user interface.
 
 
 

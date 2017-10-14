@@ -8,10 +8,10 @@ ms.date: 06/08/2017
 
 # Delete a Page in the Control Toolbox
 
-1. If the  **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
+1. If the **Control Toolbox** is not visible, on the **Developer** tab, in the **Tools** group, click
 ![](./images/0548_ZA06045100.gif) **Control Toolbox**.
     
-2. Right-click the label of the page that you want to delete in the  **Control Toolbox**, and then click  **Delete Page**.
+2. Right-click the label of the page that you want to delete in the **Control Toolbox**, and then click **Delete Page**.
     
 
  **Note**  All controls on a page are deleted when the page is deleted. 

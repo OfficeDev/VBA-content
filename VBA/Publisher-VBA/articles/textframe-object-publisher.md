@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TextFrame Object (Publisher)
 
-Represents the text frame in a  **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** object. Contains the text in the text frame and the properties that control the margins and orientation of the text frame.
+Represents the text frame in a **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** object. Contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 
 
 ## Example
 
-Use the  **[TextFrame](http://msdn.microsoft.com/library/fc654905-d56b-9a6c-28fa-4b54bf2a8686%28Office.15%29.aspx)** property to return the **TextFrame** object for a shape. The **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property returns a **[TextRange](textrange-object-publisher.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active publication, and then formats the new text.
+Use the **[TextFrame](http://msdn.microsoft.com/library/fc654905-d56b-9a6c-28fa-4b54bf2a8686%28Office.15%29.aspx)** property to return the **TextFrame** object for a shape. The **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property returns a **[TextRange](textrange-object-publisher.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active publication, and then formats the new text.
 
 
 ```
@@ -37,7 +37,7 @@ End Sub
 
  **Note**  Some shapes do not support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
 
-Use the  **[HasTextFrame](http://msdn.microsoft.com/library/faf9514a-438b-ad12-a830-ed34cea8ba03%28Office.15%29.aspx)** property to determine whether the shape has a text frame and use the **[HasText](http://msdn.microsoft.com/library/f8d1c660-c3f1-e835-adc3-114e6611de98%28Office.15%29.aspx)** property to determine whether the text frame contains text, as shown in the following example.
+Use the **[HasTextFrame](http://msdn.microsoft.com/library/faf9514a-438b-ad12-a830-ed34cea8ba03%28Office.15%29.aspx)** property to determine whether the shape has a text frame and use the **[HasText](http://msdn.microsoft.com/library/f8d1c660-c3f1-e835-adc3-114e6611de98%28Office.15%29.aspx)** property to determine whether the text frame contains text, as shown in the following example.
 
 
 
@@ -56,7 +56,7 @@ Sub GetTextFromTextFrame()
 End Sub
 ```
 
-Text frames can be linked together so that the text flows from the text frame of one shape into the text frame of another shape. Use the  **[NextLinkedTextFrame](http://msdn.microsoft.com/library/5ba08ab5-8515-4efe-59a3-79a11f6a7c4e%28Office.15%29.aspx)** and **[PreviousLinkedTextFrame](http://msdn.microsoft.com/library/00947ec3-fcff-4451-491b-5b7748ccb74e%28Office.15%29.aspx)** properties to link text frames. The following example creates a text box (a rectangle with a text frame) and adds some text to it. It then creates another text box and links the two text frames together so that the text flows from the first text frame into the second one.
+Text frames can be linked together so that the text flows from the text frame of one shape into the text frame of another shape. Use the **[NextLinkedTextFrame](http://msdn.microsoft.com/library/5ba08ab5-8515-4efe-59a3-79a11f6a7c4e%28Office.15%29.aspx)** and **[PreviousLinkedTextFrame](http://msdn.microsoft.com/library/00947ec3-fcff-4451-491b-5b7748ccb74e%28Office.15%29.aspx)** properties to link text frames. The following example creates a text box (a rectangle with a text frame) and adds some text to it. It then creates another text box and links the two text frames together so that the text flows from the first text frame into the second one.
 
 
 

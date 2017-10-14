@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.BuildFreeform Method (Word)
 
-Builds a freeform object. Returns a  **[FreeformBuilder](freeformbuilder-object-word.md)** object that represents the freeform as it is being built. .
+Builds a freeform object. Returns a **[FreeformBuilder](freeformbuilder-object-word.md)** object that represents the freeform as it is being built. .
 
 
 ## Syntax
@@ -29,13 +29,13 @@ Builds a freeform object. Returns a  **[FreeformBuilder](freeformbuilder-object-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either  **msoEditingAuto** or **msoEditingCorner** ; cannot be **msoEditingSmooth** or **msoEditingSymmetric** .|
+| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either **msoEditingAuto** or **msoEditingCorner** ; cannot be **msoEditingSmooth** or **msoEditingSymmetric** .|
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the left edge of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the top of the document.|
 
 ## Remarks
 
-Use the  **[AddNodes](freeformbuilder-addnodes-method-word.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](freeformbuilder-object-word.md)** object into a **[Shape](shape-object-word.md)** object that has the geometric description you've defined in the **[FreeformBuilder](freeformbuilder-object-word.md)** object.
+Use the **[AddNodes](freeformbuilder-addnodes-method-word.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](freeformbuilder-object-word.md)** object into a **[Shape](shape-object-word.md)** object that has the geometric description you've defined in the **[FreeformBuilder](freeformbuilder-object-word.md)** object.
 
 
 ## Example

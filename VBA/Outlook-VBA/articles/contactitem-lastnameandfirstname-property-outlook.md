@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.LastNameAndFirstName Property (Outlook)
 
-Returns a  **String** representing the concatenated last name and first name for the contact. Read-only.
+Returns a **String** representing the concatenated last name and first name for the contact. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the concatenated last name and first name for
 
 ## Remarks
 
-This property is parsed from the  **[FirstName](contactitem-firstname-property-outlook.md)** and **[LastName](contactitem-lastname-property-outlook.md)** properties for the contact, which are themselves parsed from the **[FullName](contactitem-fullname-property-outlook.md)** property.
+This property is parsed from the **[FirstName](contactitem-firstname-property-outlook.md)** and **[LastName](contactitem-lastname-property-outlook.md)** properties for the contact, which are themselves parsed from the **[FullName](contactitem-fullname-property-outlook.md)** property.
 
 
 ## See also

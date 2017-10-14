@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # OutlookBarGroups Object (Outlook)
 
-Contains a set of  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** objects representing all groups in the Outlook Bar.
+Contains a set of **[OutlookBarGroup](outlookbargroup-object-outlook.md)** objects representing all groups in the Outlook Bar.
 
 
 ## Remarks
 
-Use the  **[Groups](outlookbarstorage-groups-property-outlook.md)** property to return the **OutlookBarGroups** object from the **[OutlookBarStorage](outlookbarstorage-object-outlook.md)** object.
+Use the **[Groups](outlookbarstorage-groups-property-outlook.md)** property to return the **OutlookBarGroups** object from the **[OutlookBarStorage](outlookbarstorage-object-outlook.md)** object.
 
-Use  **Groups** ( _index_ ), where _index_ is the name of an available group, to return a single **OutlookBarGroup** object.
+Use **Groups** ( _index_ ), where _index_ is the name of an available group, to return a single **OutlookBarGroup** object.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example retrieves the  **OutlookBarGroups** collection from an **OutlookBarStorage** object.
+The following Visual Basic for Applications (VBA) example retrieves the **OutlookBarGroups** collection from an **OutlookBarStorage** object.
 
 
 ```

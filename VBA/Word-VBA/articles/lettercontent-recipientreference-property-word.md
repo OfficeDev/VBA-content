@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientReference Property (Word)
 
-Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the reference line (for example, "In reply to:") for a letter cr
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties (including the reference line), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the reference line), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
 
 
 ```vb

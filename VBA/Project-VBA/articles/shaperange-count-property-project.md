@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Count Property (Project)
-Gets the number of shapes in the shape range. Read-only  **Long**.
+Gets the number of shapes in the shape range. Read-only **Long**.
 
 ## Syntax
 

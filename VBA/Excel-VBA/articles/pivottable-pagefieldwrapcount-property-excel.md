@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PageFieldWrapCount Property (Excel)
 
-Returns or sets the number of page fields in each column or row in the PivotTable report. Read/write  **Long** .
+Returns or sets the number of page fields in each column or row in the PivotTable report. Read/write **Long** .
 
 
 ## Syntax

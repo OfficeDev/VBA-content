@@ -15,13 +15,13 @@ ms.date: 06/08/2017
     
 2. On the  [Developer](run-visio-in-developer-mode.md) tab, click **Show ShapeSheet**.
     
-3. Click in an Action cell in an Actions section. If you don't see an Actions section, insert one by clicking  **Insert** in the **Sections** group on the **ShapeSheet Tools** tab and then selecting the **Actions** check box in the **Insert Section** dialog box.
+3. Click in an Action cell in an Actions section. If you don't see an Actions section, insert one by clicking **Insert** in the **Sections** group on the **ShapeSheet Tools** tab and then selecting the **Actions** check box in the **Insert Section** dialog box.
     
-4. In the  **Editing** group, click **Shape Actions**.
+4. In the **Editing** group, click **Shape Actions**.
     
-5. In the  **Action** dialog box, in the **Menu** box, enter the custom command you want to add to the shape's shortcut menu.
+5. In the **Action** dialog box, in the **Menu** box, enter the custom command you want to add to the shape's shortcut menu.
     
-6. Click  **Run macro**, and then select the program you want to run from the  **Run macro** list. Click **OK**.
+6. Click **Run macro**, and then select the program you want to run from the **Run macro** list. Click **OK**.
     
 7. On the drawing page, right-click the shape, and then click the custom menu command on the shortcut menu to run the program.
     

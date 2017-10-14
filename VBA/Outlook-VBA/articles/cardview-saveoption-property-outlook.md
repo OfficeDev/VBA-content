@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.SaveOption Property (Outlook)
 
-Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
+Returns an **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** cons
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[CardView](cardview-object-outlook.md)** object is created by using the **[Add](views-add-method-outlook.md)** method of the **[Views](views-object-outlook.md)** collection.
+The value of the **SaveOption** property is set when the **[CardView](cardview-object-outlook.md)** object is created by using the **[Add](views-add-method-outlook.md)** method of the **[Views](views-object-outlook.md)** collection.
 
 
 ## Example

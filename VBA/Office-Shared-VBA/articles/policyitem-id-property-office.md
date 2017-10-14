@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PolicyItem.Id Property (Office)
 
-Gets the ID of a policy item.  **PolicyItem** objects are contained in **ServerPolicy** objects. Read-only.
+Gets the ID of a policy item. **PolicyItem** objects are contained in **ServerPolicy** objects. Read-only.
 
 
 ## Syntax

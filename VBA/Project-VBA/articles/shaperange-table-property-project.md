@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Table Property (Project)
-Gets the  **ReportTable** object in the shape range. Read-only[ReportTable](reporttable-object-project.md).
+Gets the **ReportTable** object in the shape range. Read-only[ReportTable](reporttable-object-project.md).
 
 ## Syntax
 

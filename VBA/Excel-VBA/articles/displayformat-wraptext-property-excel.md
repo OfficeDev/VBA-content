@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.WrapText Property (Excel)
 
-Returns a value that indicates if Microsoft Excel wraps the text of the associated  **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if Microsoft Excel wraps the text of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if text is wrapped in all cells within the range.
+Returns **True** if text is wrapped in all cells within the range.
 
 
 ## See also

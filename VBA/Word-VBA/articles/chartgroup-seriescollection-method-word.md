@@ -25,7 +25,7 @@ Returns all the series in the chart group.
 
 ### Return Value
 
-A  **[SeriesCollection](seriescollection-object-word.md)** object that represents all the series in the chart group.
+A **[SeriesCollection](seriescollection-object-word.md)** object that represents all the series in the chart group.
 
 
 ## Example

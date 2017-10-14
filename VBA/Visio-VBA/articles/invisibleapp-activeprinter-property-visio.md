@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The  **ActivePrinter** property is initially set to the default printer.
+The **ActivePrinter** property is initially set to the default printer.
 
 

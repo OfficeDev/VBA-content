@@ -30,7 +30,7 @@ Modifies an existing conditional format.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormatConditionType](xlformatconditiontype-enumeration-excel.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
-| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression** .|
+| _Operator_|Optional| **Variant**|An **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression** .|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula..|
 

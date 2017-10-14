@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PhoneticGuide.Raise Property (Publisher)
 
-Returns a  **Variant** indicating the distance between the top of the base text and the bottom of the guide text. Read-only.
+Returns a **Variant** indicating the distance between the top of the base text and the bottom of the guide text. Read-only.
 
 
 ## Syntax
 
  _expression_. **Raise**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_A variable that represents a **PhoneticGuide** object.
 
 
 ### Return Value

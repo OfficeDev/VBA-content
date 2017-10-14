@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When a header or footer is linked, its contents are the same as in the previous header or footer. Because the  **LinkToPrevious** property is set to **True** by default, you can add headers, footers, and page numbers to your entire document by working with the headers, footers, and page numbers in the first section. For instance, the following example adds page numbers to the header on all pages in all sections of the active document.
+When a header or footer is linked, its contents are the same as in the previous header or footer. Because the **LinkToPrevious** property is set to **True** by default, you can add headers, footers, and page numbers to your entire document by working with the headers, footers, and page numbers in the first section. For instance, the following example adds page numbers to the header on all pages in all sections of the active document.
 
 
 ```vb
@@ -33,7 +33,7 @@ ActiveDocument.Sections(1) _
  .Headers(wdHeaderFooterPrimary).PageNumbers.Add
 ```
 
-The  **LinkToPrevious** property applies to each header or footer individually. For example, the **LinkToPrevious** property could be set to **True** for the even-numbered-page header but **False** for the even-numbered-page footer.
+The **LinkToPrevious** property applies to each header or footer individually. For example, the **LinkToPrevious** property could be set to **True** for the even-numbered-page header but **False** for the even-numbered-page footer.
 
 
 ## Example

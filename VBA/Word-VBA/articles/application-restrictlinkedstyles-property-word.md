@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RestrictLinkedStyles Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word allows linked styles. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word allows linked styles. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word allows lin
 
 ## Remarks
 
-Linked styles are styles that can be applied either as character styles or as paragraph styles. This property corresponds to the  **Disable Linked Styles** check box in the **Styles** dialog box.
+Linked styles are styles that can be applied either as character styles or as paragraph styles. This property corresponds to the **Disable Linked Styles** check box in the **Styles** dialog box.
 
 
 ## See also

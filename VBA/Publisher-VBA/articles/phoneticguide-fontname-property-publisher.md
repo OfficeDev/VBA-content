@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # PhoneticGuide.FontName Property (Publisher)
 
-Returns a  **String** that represents the name of the font applied to phonetic information displayed above Japanese text. Read-only.
+Returns a **String** that represents the name of the font applied to phonetic information displayed above Japanese text. Read-only.
 
 
 ## Syntax
 
  _expression_. **FontName**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_A variable that represents a **PhoneticGuide** object.
 
 

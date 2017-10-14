@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Fill Property (Word)
 
-Returns a  **[FillFormat](fillformat-object-word.md)** object that contains fill formatting properties for the specified shape. Read-only.
+Returns a **[FillFormat](fillformat-object-word.md)** object that contains fill formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

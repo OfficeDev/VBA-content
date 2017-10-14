@@ -25,7 +25,7 @@ Indicates if the PivotField is currently visible in the PivotTable or not. Read-
 
 ## Remarks
 
-The property returns  **True** if the PivotField is currently visible and returns **False** if the PivotField is currently not visible. The visibility of the PivotField is determined by whether or not the PivotField caption is visible in the PivotTable in tabular (non-compact) form.
+The property returns **True** if the PivotField is currently visible and returns **False** if the PivotField is currently not visible. The visibility of the PivotField is determined by whether or not the PivotField caption is visible in the PivotTable in tabular (non-compact) form.
 
 
 ## See also

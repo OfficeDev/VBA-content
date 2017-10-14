@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.DataField Property (Excel)
 
-Returns a  **[PivotField](pivotfield-object-excel.md)** object that corresponds to the selected data field.
+Returns a **[PivotField](pivotfield-object-excel.md)** object that corresponds to the selected data field.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[PivotField](pivotfield-object-excel.md)** object that corresponds 
 
 ## Remarks
 
-This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[XlPivotCellType](xlpivotcelltype-enumeration-excel.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal** .
+This property will return an error if the **PivotCell** object is not one of the allowed constants of **[XlPivotCellType](xlpivotcelltype-enumeration-excel.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal** .
 
 
 ## Example

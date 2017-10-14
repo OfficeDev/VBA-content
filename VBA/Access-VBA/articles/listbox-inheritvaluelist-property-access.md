@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListBox.InheritValueList Property (Access)
 
-Gets or sets whether a list box's value list is inherited from its field. Read/write  **Boolean**.
+Gets or sets whether a list box's value list is inherited from its field. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether a list box's value list is inherited from its field. Read/w
 
 ## Remarks
 
-The  **InheritValueList** property is effective only when the list box is bound to a Lookup field and the **RowSourceType** property is set to Value List.
+The **InheritValueList** property is effective only when the list box is bound to a Lookup field and the **RowSourceType** property is set to Value List.
 
 
 ## See also

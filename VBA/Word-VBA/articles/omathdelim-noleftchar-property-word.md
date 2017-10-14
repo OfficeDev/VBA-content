@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathDelim.NoLeftChar Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the opening delimiter in a delimiter object. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the opening delimiter in a delimiter object. Read/write.
 
 
 ## Syntax

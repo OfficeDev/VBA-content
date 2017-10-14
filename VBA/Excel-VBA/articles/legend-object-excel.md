@@ -20,12 +20,12 @@ Represents the legend in a chart. Each chart can have only one legend.
 
  The **Legend** object contains one or more **[LegendEntry](legendentry-object-excel.md)** objects; each **LegendEntry** object contains a **[LegendKey](legendkey-object-excel.md)** object.
 
-The chart legend isn't visible unless the  **[HasLegend](chart-haslegend-property-excel.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
+The chart legend isn't visible unless the **[HasLegend](chart-haslegend-property-excel.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
 
 
 ## Example
 
-Use the  **[Legend](chart-legend-property-excel.md)** property to return the **Legend** object. The following example sets the font style for the legend in embedded chart one on worksheet one to bold.
+Use the **[Legend](chart-legend-property-excel.md)** property to return the **Legend** object. The following example sets the font style for the legend in embedded chart one on worksheet one to bold.
 
 
 ```

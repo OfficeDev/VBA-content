@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewsCombination.Add Method (Project)
 
-Adds a  **ViewCombination** object to a **ViewsCombination** collection.
+Adds a **ViewCombination** object to a **ViewsCombination** collection.
 
 
 ## Syntax

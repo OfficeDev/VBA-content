@@ -25,7 +25,7 @@ Cancels all refresh operations in progress for the specified OLE DB connection.
 
 ## Remarks
 
-Use the  **[Refreshing](oledbconnection-refreshing-property-excel.md)** property to determine whether a refresh operation is currently in progress.
+Use the **[Refreshing](oledbconnection-refreshing-property-excel.md)** property to determine whether a refresh operation is currently in progress.
 
 
 ## See also

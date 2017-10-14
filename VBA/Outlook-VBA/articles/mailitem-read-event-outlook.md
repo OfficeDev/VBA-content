@@ -22,12 +22,12 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 ## Remarks
 
-The  **Read** event differs from the **[Open](mailitem-open-event-outlook.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](inspector-object-outlook.md)** .
+The **Read** event differs from the **[Open](mailitem-open-event-outlook.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](inspector-object-outlook.md)** .
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Read** event to increment a counter that tracks how often an item is read.
+This Visual Basic for Applications (VBA) example uses the **Read** event to increment a counter that tracks how often an item is read.
 
 
 ```vb

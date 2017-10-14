@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddConnector Method (PowerPoint)
 
-Creates a connector. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new connector. When a connector is added, it is not connected to anything. Use the **[BeginConnect](connectorformat-beginconnect-method-powerpoint.md)** and **[EndConnect](connectorformat-endconnect-method-powerpoint.md)** methods to attach the beginning and end of a connector to other shapes in the document.
+Creates a connector. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new connector. When a connector is added, it is not connected to anything. Use the **[BeginConnect](connectorformat-beginconnect-method-powerpoint.md)** and **[EndConnect](connectorformat-endconnect-method-powerpoint.md)** methods to attach the beginning and end of a connector to other shapes in the document.
 
 
 ## Syntax

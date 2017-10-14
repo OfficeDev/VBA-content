@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.SoftEdge Property (Project)
-Gets soft edge formatting properties for the shape. Read-only  **[SoftEdgeFormat](http://msdn.microsoft.com/en-us/library/office/ff863361%28v=office.15%29)**.
+Gets soft edge formatting properties for the shape. Read-only **[SoftEdgeFormat](http://msdn.microsoft.com/en-us/library/office/ff863361%28v=office.15%29)**.
 
 ## Syntax
 

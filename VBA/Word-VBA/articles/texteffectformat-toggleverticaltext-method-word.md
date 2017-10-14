@@ -25,14 +25,14 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **[Shape](shape-object-word.md)** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **[Shape](shape-object-word.md)** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
 
-The  **Flip** method and **Rotation** property of the **Shape** object and the **RotatedChars** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **[Shape](shape-object-word.md)** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **Flip** method and **Rotation** property of the **Shape** object and the **RotatedChars** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **[Shape](shape-object-word.md)** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to the active document and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1** ) to vertical text flow.
+This example adds WordArt that contains the text "Test" to the active document and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1** ) to vertical text flow.
 
 
 ```vb

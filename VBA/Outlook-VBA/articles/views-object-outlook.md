@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Views Object (Outlook)
 
-Contains a collection of all  **[View](view-object-outlook.md)** objects in the current folder.
+Contains a collection of all **[View](view-object-outlook.md)** objects in the current folder.
 
 
 ## Remarks
 
-Use the  **Views** property of the **[Folder](folder-object-outlook.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
+Use the **Views** property of the **[Folder](folder-object-outlook.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
 
-Use the  **[Add](views-add-method-outlook.md)** method of the views collection to add a new view to the collection.
+Use the **[Add](views-add-method-outlook.md)** method of the views collection to add a new view to the collection.
 
-Use the  **[Remove](views-remove-method-outlook.md)** method to remove a view from the collection.
+Use the **[Remove](views-remove-method-outlook.md)** method to remove a view from the collection.
 
 
 ## Example
 
-The following example returns a  **View** object of type **olTableView** called Table View. Before running this example, make sure a view by the name 'Table View' exists.
+The following example returns a **View** object of type **olTableView** called Table View. Before running this example, make sure a view by the name 'Table View' exists.
 
 
 ```
@@ -54,10 +54,10 @@ Sub GetView()
 End Sub
 ```
 
-The following example adds a new view of type  **olIconView** in the user's Notes folder.
+The following example adds a new view of type **olIconView** in the user's Notes folder.
 
 
- **Note**  The  **Add** method will fail if a view with the same name already exists.
+ **Note**  The **Add** method will fail if a view with the same name already exists.
 
 
 

@@ -23,7 +23,7 @@ Represents the collection of hyperlinks for a worksheet or range.
 
 ## Example
 
-Use the  **[Hyperlinks](worksheet-hyperlinks-property-excel.md)** property to return the **Hyperlinks** collection. The following example checks the hyperlinks on worksheet one for a link that contains the word Microsoft.
+Use the **[Hyperlinks](worksheet-hyperlinks-property-excel.md)** property to return the **Hyperlinks** collection. The following example checks the hyperlinks on worksheet one for a link that contains the word Microsoft.
 
 
 ```
@@ -32,7 +32,7 @@ For Each h in Worksheets(1).Hyperlinks
 Next
 ```
 
-Use the  **[Add](hyperlinks-add-method-excel.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink for cell E5.
+Use the **[Add](hyperlinks-add-method-excel.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink for cell E5.
 
 
 

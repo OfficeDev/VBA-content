@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # Columns Object (Word)
 
-A collection of  **[Column](column-object-word.md)** objects that represent the columns in a table.
+A collection of **[Column](column-object-word.md)** objects that represent the columns in a table.
 
 
 ## Remarks
 
-Use the  **Columns** property of a **[Range](range-object-word.md)**, **[Selection](selection-object-word.md)**, or **[Table](table-object-word.md)** object to return a **Columns** collection. The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
+Use the **Columns** property of a **[Range](range-object-word.md)**, **[Selection](selection-object-word.md)**, or **[Table](table-object-word.md)** object to return a **Columns** collection. The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
 
 
 ```
@@ -34,7 +34,7 @@ For Each col In myTable.Columns
 Next col
 ```
 
-Use the  **[Add](columns-add-method-word.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
+Use the **[Add](columns-add-method-word.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
 
 
 
@@ -47,7 +47,7 @@ If ActiveDocument.Tables.Count >= 1 Then
 End If
 ```
 
-Use  **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the first column in the first table.
+Use **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the first column in the first table.
 
 
 

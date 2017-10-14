@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.Display Method (Outlook)
 
-Displays a new  **[Explorer](explorer-object-outlook.md)** object for the folder.
+Displays a new **[Explorer](explorer-object-outlook.md)** object for the folder.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Displays a new  **[Explorer](explorer-object-outlook.md)** object for the folder
 
 ## Remarks
 
-The  **Display** method is supported for explorer and inspector windows for the sake of backward compatibility. To activate an explorer or inspector window, use the **[Activate](inspector-activate-method-outlook.md)** method.
+The **Display** method is supported for explorer and inspector windows for the sake of backward compatibility. To activate an explorer or inspector window, use the **[Activate](inspector-activate-method-outlook.md)** method.
 
-If you attempt to open an "unsafe" file system object (or "freedoc" file) by using the Microsoft Outlook object model, you receive the  **E_FAIL** return code in the C or C++ programming languages. In Outlook 2000 and earlier, you could open an "unsafe" file system object by using the **Display** method.
+If you attempt to open an "unsafe" file system object (or "freedoc" file) by using the Microsoft Outlook object model, you receive the **E_FAIL** return code in the C or C++ programming languages. In Outlook 2000 and earlier, you could open an "unsafe" file system object by using the **Display** method.
 
 
 ## See also

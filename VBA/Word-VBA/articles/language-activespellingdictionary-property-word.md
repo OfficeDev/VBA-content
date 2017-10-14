@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.ActiveSpellingDictionary Property (Word)
 
-Returns a  **[Dictionary](dictionary-object-word.md)** object that represents the active spelling dictionary for the specified language.
+Returns a **[Dictionary](dictionary-object-word.md)** object that represents the active spelling dictionary for the specified language.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Dictionary](dictionary-object-word.md)** object that represents th
 
 ## Remarks
 
-If there is no spelling dictionary installed for the specified language, this property returns  **Nothing** .
+If there is no spelling dictionary installed for the specified language, this property returns **Nothing** .
 
 
 ## Example

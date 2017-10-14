@@ -29,7 +29,7 @@ Occurs when a new sheet is created in the workbook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sh_|Required| **Object**|The new sheet. Can be a  **[Worksheet](worksheet-object-excel.md)** or **[Chart](chart-object-excel.md)** object.|
+| _Sh_|Required| **Object**|The new sheet. Can be a **[Worksheet](worksheet-object-excel.md)** or **[Chart](chart-object-excel.md)** object.|
 
 ### Return Value
 

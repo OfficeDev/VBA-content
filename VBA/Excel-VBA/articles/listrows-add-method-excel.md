@@ -44,7 +44,7 @@ If  _Position_ is not specified, a new bottom row is added. If _AlwaysInsert_ is
 
 ## Example
 
-The following example adds a new row to the default  **ListObject** object in the first worksheet of the workbook. Because no position is specified, the new row is added to the bottom of the list.
+The following example adds a new row to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, the new row is added to the bottom of the list.
 
 
 ```vb

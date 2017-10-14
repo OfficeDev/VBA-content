@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Border Object (Word)
 
-Represents a border of an object. The  **Border** object is a member of the **[Borders](borders-object-word.md)** collection.
+Represents a border of an object. The **Border** object is a member of the **[Borders](borders-object-word.md)** collection.
 
 
 ## Remarks
 
-Use  **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](wdbordertype-enumeration-word.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Use **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](wdbordertype-enumeration-word.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-Use the  **[LineStyle](border-linestyle-property-word.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
+Use the **[LineStyle](border-linestyle-property-word.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
 
 
 

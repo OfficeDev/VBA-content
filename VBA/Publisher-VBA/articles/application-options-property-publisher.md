@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Options Property (Publisher)
 
-Returns an  **[Options](options-object-publisher.md)** object that represents application settings you can set in Microsoft Publisher.
+Returns an **[Options](options-object-publisher.md)** object that represents application settings you can set in Microsoft Publisher.
 
 
 ## Syntax
 
  _expression_. **Options**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Return Value

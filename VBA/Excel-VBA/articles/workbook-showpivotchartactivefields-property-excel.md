@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ShowPivotChartActiveFields Property (Excel)
 
-This property controls the visibility of the PivotChart Filter Pane. Read/write  **Boolean** .
+This property controls the visibility of the PivotChart Filter Pane. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ This property controls the visibility of the PivotChart Filter Pane. Read/write 
 
 ## Remarks
 
-This property controls the visibility of the PivotChart Filter Pane (toggles it on/off). In order for it to be visible, a  **PivotChart** object must be selected.
+This property controls the visibility of the PivotChart Filter Pane (toggles it on/off). In order for it to be visible, a **PivotChart** object must be selected.
 
 
 ## See also

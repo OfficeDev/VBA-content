@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.Subtotals Property (Excel)
 
-Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write  **Variant** .
+Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write **Variant** .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns or sets subtotals displayed with the specified field. Valid only for non
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|A subtotal index, as shown in the following table. If this argument is omitted, the  **Subtotals** method returns an array that contains a Boolean value for each subtotal.|
+| _Index_|Optional| **Variant**|A subtotal index, as shown in the following table. If this argument is omitted, the **Subtotals** method returns an array that contains a Boolean value for each subtotal.|
 
 ## Remarks
 
-If an index is  **True** , the field shows that subtotal. If index 1 (Automatic) is **True** , all other values are set to **False** .
+If an index is **True** , the field shows that subtotal. If index 1 (Automatic) is **True** , all other values are set to **False** .
 
 
 

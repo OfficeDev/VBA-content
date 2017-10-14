@@ -17,7 +17,7 @@ Saves or creates an application entry in the application's entry in the Windows 
 
  **SaveSetting  _appname_,** **_section,_**_key, setting_
 
-The  **SaveSetting** statement syntax has these[named arguments](vbe-glossary.md):
+The **SaveSetting** statement syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
@@ -31,7 +31,7 @@ An error occurs if the key setting can't be saved for any reason.
 
 ## Example
 
-The following example first uses the  **SaveSetting** statement to make entries in the Windows registry (or .ini file on 16-bit Windows platforms) for the application, and then uses the **DeleteSetting** statement to remove them.
+The following example first uses the **SaveSetting** statement to make entries in the Windows registry (or .ini file on 16-bit Windows platforms) for the application, and then uses the **DeleteSetting** statement to remove them.
 
 
 ```vb

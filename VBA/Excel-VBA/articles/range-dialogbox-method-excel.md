@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DialogBox Method (Excel)
 
-Displays a dialog box defined by a dialog box definition table on a Microsoft Excel 4.0 macro sheet. Returns the number of the chosen control, or returns  **False** if the user clicks the **Cancel** button.
+Displays a dialog box defined by a dialog box definition table on a Microsoft Excel 4.0 macro sheet. Returns the number of the chosen control, or returns **False** if the user clicks the **Cancel** button.
 
 
 ## Syntax

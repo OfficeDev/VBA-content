@@ -30,7 +30,7 @@ PpSlideSizeType
 
 ## Remarks
 
-The value of the  **SlideSize** property can be one of these **PpSlideSizeType** constants.
+The value of the **SlideSize** property can be one of these **PpSlideSizeType** constants.
 
 
 ||

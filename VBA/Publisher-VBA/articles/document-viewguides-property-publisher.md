@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ViewGuides Property (Publisher)
 
-Returns  **True** if guides are visible in the specified publication. Read/write **Boolean**.
+Returns **True** if guides are visible in the specified publication. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **ViewGuides**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

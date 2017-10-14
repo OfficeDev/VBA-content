@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Text Property (PowerPoint)
 
-Gets or sets a  **String** value that represents the text in a text range. Read/write.
+Gets or sets a **String** value that represents the text in a text range. Read/write.
 
 
 ## Syntax

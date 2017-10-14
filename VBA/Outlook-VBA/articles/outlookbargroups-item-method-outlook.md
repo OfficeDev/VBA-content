@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroups.Item Method (Outlook)
 
-Returns an  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object from the collection.
+Returns an **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object from
 
 ### Return Value
 
-An  **OutlookBarGroup** object that represents the specified object.
+An **OutlookBarGroup** object that represents the specified object.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OverAllocatedAssignments.Parent Property (Project)
 
-Gets the parent of the  **OverAllocatedAssignments** object. Read-only **Task**.
+Gets the parent of the **OverAllocatedAssignments** object. Read-only **Task**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent of the  **OverAllocatedAssignments** object. Read-only **Task**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

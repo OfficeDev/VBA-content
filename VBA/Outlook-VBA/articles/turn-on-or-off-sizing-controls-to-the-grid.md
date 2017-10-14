@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Turn On or Off Sizing Controls to the Grid
 
-- In Forms Designer, on the  **Developer** tab, in the **Arrange** group, click **Align**, and then click  **Snap to Grid**.
+- In Forms Designer, on the **Developer** tab, in the **Arrange** group, click **Align**, and then click **Snap to Grid**.
     
-     **Note**  When  **Snap to Grid** is selected, the sizing controls to the grid turns on.
+    **Note**  When **Snap to Grid** is selected, the sizing controls to the grid turns on.
 

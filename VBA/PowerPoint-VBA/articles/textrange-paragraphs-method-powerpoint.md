@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Paragraphs Method (PowerPoint)
 
-Returns a  **TextRange** object that represents the specified subset of text paragraphs.
+Returns a **TextRange** object that represents the specified subset of text paragraphs.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ TextRange
 
 ## Remarks
 
-For information about counting or looping through the paragraphs in a text range, see the  **[TextRange](textrange-object-powerpoint.md)** object.
+For information about counting or looping through the paragraphs in a text range, see the **[TextRange](textrange-object-powerpoint.md)** object.
 
 If both Start and Length are omitted, the returned range starts with the first paragraph and ends with the last paragraph in the specified range.
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.DataFileFormat Property (Publisher)
 
-Sets or returns a  **PbSubmitDataFormatType** constant that represents the format to use when saving Web form data to a file. Read/write.
+Sets or returns a **PbSubmitDataFormatType** constant that represents the format to use when saving Web form data to a file. Read/write.
 
 
 ## Syntax
 
  _expression_. **DataFileFormat**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbSubmitDataFormatType
 
 ## Remarks
 
-The  **DataFileFormat** property value can be one of the **[PbSubmitDataFormatType](pbsubmitdataformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **DataFileFormat** property value can be one of the **[PbSubmitDataFormatType](pbsubmitdataformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

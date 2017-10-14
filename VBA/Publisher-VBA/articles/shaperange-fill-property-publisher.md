@@ -20,12 +20,12 @@ ms.date: 06/08/2017
 
  _expression_. **Fill**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example
 
-This example creates a new  **AutoShape** object and fills the shape with green.
+This example creates a new **AutoShape** object and fills the shape with green.
 
 
 ```vb

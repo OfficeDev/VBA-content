@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropLines.Border Property (Word)
 
-Returns the border of the object. Read-only  **[ChartBorder](chartborder-object-word.md)** .
+Returns the border of the object. Read-only **[ChartBorder](chartborder-object-word.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues Object (Excel)
 
-The  **UniqueValues** object uses the **DupeUnique** property to returns or sets an enum that determines whether the rule should look for duplicate or unique values in the range.
+The **UniqueValues** object uses the **DupeUnique** property to returns or sets an enum that determines whether the rule should look for duplicate or unique values in the range.
 
 
 ## See also

@@ -30,8 +30,8 @@ Integer
 
 ## Remarks
 
-The  **CmdNum** property should never be zero for an **AccelItem** object.
+The **CmdNum** property should never be zero for an **AccelItem** object.
 
-Valid command IDs are declared by the Visio type library in  **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
+Valid command IDs are declared by the Visio type library in **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
 
 

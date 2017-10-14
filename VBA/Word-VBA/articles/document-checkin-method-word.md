@@ -30,7 +30,7 @@ Returns a document from a local computer to a server, and sets the local documen
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Boolean**| **True** saves the document to the server location. The default is **True** .|
-| _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (only applies if SaveChanges equals  **True** ).|
+| _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (only applies if SaveChanges equals **True** ).|
 |||||
 | _MakePublic_|Optional| **Boolean**| **True** allows the user to perform a publish on the document after being checked in. This submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (only applies if _SaveChanges_ equals **True** ). The default is **False** .|
 |||||

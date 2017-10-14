@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Remove Method (Access)
 
-The  **Remove** method removes a **[Page](page-object-access.md)** object from the **[Pages](pages-object-access.md)** collection of a tab control.
+The **Remove** method removes a **[Page](page-object-access.md)** object from the **[Pages](pages-object-access.md)** collection of a tab control.
 
 
 ## Syntax
@@ -29,13 +29,13 @@ The  **Remove** method removes a **[Page](page-object-access.md)** object from t
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Variant**|An integer that specifies the index of the  **Page** object to be removed. The index of the **Page** object corresponds to the value of the **PageIndex** property for that **Page** object. If you omit this argument, the last **Page** object in the collection is removed.|
+| _Item_|Optional|**Variant**|An integer that specifies the index of the **Page** object to be removed. The index of the **Page** object corresponds to the value of the **PageIndex** property for that **Page** object. If you omit this argument, the last **Page** object in the collection is removed.|
 
 ## Remarks
 
-The  **Pages** collection is indexed beginning with zero. The leftmost page in the tab control has an index of 0, the page immediately to the right of the leftmost page has an index of 1, and so on.
+The **Pages** collection is indexed beginning with zero. The leftmost page in the tab control has an index of 0, the page immediately to the right of the leftmost page has an index of 1, and so on.
 
-You can remove a  **Page** object from the **Pages** collection of a tab control only when the form is in Design view.
+You can remove a **Page** object from the **Pages** collection of a tab control only when the form is in Design view.
 
 
 ## Example

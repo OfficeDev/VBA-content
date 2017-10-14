@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.Count Property (Outlook)
 
-Returns a  **Long** indicating the count of objects in the specified collection. Read-only.
+Returns a **Long** indicating the count of objects in the specified collection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Remarks
 
-You can enumerate the  **[RuleActions](ruleactions-object-outlook.md)** collection from 1 through **RuleActions.Count** to determine all the rule actions for an existing rule. Although the Rules OM supports creating rules with only the most commonly used rule actions and not all rule actions supported by the Rules and Alerts Wizard, the **RuleActions** collection includes all rule actions of a rule. Hence you can always enumerate the **RuleActions** collection object to determine which rule actions are enabled for an existing rule.
+You can enumerate the **[RuleActions](ruleactions-object-outlook.md)** collection from 1 through **RuleActions.Count** to determine all the rule actions for an existing rule. Although the Rules OM supports creating rules with only the most commonly used rule actions and not all rule actions supported by the Rules and Alerts Wizard, the **RuleActions** collection includes all rule actions of a rule. Hence you can always enumerate the **RuleActions** collection object to determine which rule actions are enabled for an existing rule.
 
 
 ## See also

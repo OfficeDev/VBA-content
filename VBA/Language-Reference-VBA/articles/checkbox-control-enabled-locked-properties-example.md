@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CheckBox Control, Enabled, Locked Properties Example
 
-The following example demonstrates the  **Enabled** and **Locked** properties and how they complement each other. This example exposes each property independently with a **CheckBox**, so you observe the settings individually and combined. This example also includes a second **TextBox** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
+The following example demonstrates the **Enabled** and **Locked** properties and how they complement each other. This example exposes each property independently with a **CheckBox**, so you observe the settings individually and combined. This example also includes a second **TextBox** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
 
 
  **Note**  You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.
@@ -21,11 +21,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Two  **CheckBox** controls named CheckBox1 and CheckBox2.
+- Two **CheckBox** controls named CheckBox1 and CheckBox2.
     
-- A second  **TextBox** named TextBox2.
+- A second **TextBox** named TextBox2.
     
 
 

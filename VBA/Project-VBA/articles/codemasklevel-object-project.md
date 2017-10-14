@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CodeMaskLevel Object (Project)
 
-Represents a level in the code mask of an outline code definition. The  **CodeMaskLevel** object is a member of the **[CodeMask](codemask-object-project.md)** collection.
+Represents a level in the code mask of an outline code definition. The **CodeMaskLevel** object is a member of the **[CodeMask](codemask-object-project.md)** collection.
  
 
 

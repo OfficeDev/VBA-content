@@ -35,7 +35,7 @@ Exports the chart in a graphic format.
 
 ### Return Value
 
-A  **Boolean** value that indicates whether the export was successful.
+A **Boolean** value that indicates whether the export was successful.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MotionEffect.ByY Property (PowerPoint)
 
-Sets or returns a  **Single** that represents scaling or moving an object VERTICALLY by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](scaleeffect-object-powerpoint.md)** or **[MotionEffect](motioneffect-object-powerpoint.md)** object, respectively. Read/write.
+Sets or returns a **Single** that represents scaling or moving an object VERTICALLY by a specified percentage of the screen width, depending on whether it is used in conjunction with a **[ScaleEffect](scaleeffect-object-powerpoint.md)** or **[MotionEffect](motioneffect-object-powerpoint.md)** object, respectively. Read/write.
 
 
 ## Syntax
@@ -32,11 +32,11 @@ Single
 
 Negative numbers move the object horizontally to the left. Floating point numbers (for example, 55.5) are allowed.
 
-To scale or move an object horizontally, use the  **ByX** property.
+To scale or move an object horizontally, use the **ByX** property.
 
-If both the  **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
+If both the **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
 
-Do not confuse this property with the  **By** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **By** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## Example

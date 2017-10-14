@@ -12,12 +12,12 @@ ms.date: 06/08/2017
 
 When you're designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
 
-In earlier versions of  **Access**, you could use the  **Customize** dialog box to create custom shortcut menus. In Access 2013, you must use Visual Basic for Applications (VBA) code to create a shortcut menu. This article describes you how to create a shortcut menu using VBA.
+In earlier versions of **Access**, you could use the **Customize** dialog box to create custom shortcut menus. In Access 2013, you must use Visual Basic for Applications (VBA) code to create a shortcut menu. This article describes you how to create a shortcut menu using VBA.
 
-To create an shortcut menu, you first have to create a  **[CommandBar](http://msdn.microsoft.com/library/78603954-40aa-64cb-c407-2e0820d65231%28Office.15%29.aspx)** object. The **CommandBar** object represents the shortcut menu. Then, you use the **[Add](http://msdn.microsoft.com/library/53e2b0b9-b11a-bf52-a1a3-523aae2c35d8%28Office.15%29.aspx)** method to create **[CommandBarControl](http://msdn.microsoft.com/library/b104ec00-beeb-a927-4b7b-108f4e3164f5%28Office.15%29.aspx)** objects. Each time that you create a CommandBarControl object, a command is added to the shortcut menu.
-The following example creates a shortcut menu named  **SimpleShortcutMenu** that contains two commands, **Remove Filter/Sort** and **Filter by Selection**.
+To create an shortcut menu, you first have to create a **[CommandBar](http://msdn.microsoft.com/library/78603954-40aa-64cb-c407-2e0820d65231%28Office.15%29.aspx)** object. The **CommandBar** object represents the shortcut menu. Then, you use the **[Add](http://msdn.microsoft.com/library/53e2b0b9-b11a-bf52-a1a3-523aae2c35d8%28Office.15%29.aspx)** method to create **[CommandBarControl](http://msdn.microsoft.com/library/b104ec00-beeb-a927-4b7b-108f4e3164f5%28Office.15%29.aspx)** objects. Each time that you create a CommandBarControl object, a command is added to the shortcut menu.
+The following example creates a shortcut menu named **SimpleShortcutMenu** that contains two commands, **Remove Filter/Sort** and **Filter by Selection**.
 
- **Note**  To use the following examples, you must set a reference to the  **Microsoft Office 15.0 Object Library**. See[Set References to Type Libraries](set-references-to-type-libraries.md) for more information about how to set references.
+ **Note**  To use the following examples, you must set a reference to the **Microsoft Office 15.0 Object Library**. See[Set References to Type Libraries](set-references-to-type-libraries.md) for more information about how to set references.
 
 
 
@@ -41,8 +41,8 @@ End Sub
 ```
 
 Once you've run the code, the shortcut menu is saved as part of the database. You don't have to run the same code to re-create the shortcut menu every time that you open the database.
-To assign the shortcut menu to a form, form control, or report, set the  **Shortcut Menu** property of the object to **Yes** and set the **Shortcut Menu Bar** property of the object to the name of the shortcut menu. For this example, set the **Shortcut Menu Bar** property to **SimpleShortcutMenu**.
-The following example creates a shortcut menu named  **cmdFormFiltering** that contains commands that are useful to use with Continuous forms. In this example, the **BeginGroup** property is used on several controls to group controls visually.
+To assign the shortcut menu to a form, form control, or report, set the **Shortcut Menu** property of the object to **Yes** and set the **Shortcut Menu Bar** property of the object to the name of the shortcut menu. For this example, set the **Shortcut Menu Bar** property to **SimpleShortcutMenu**.
+The following example creates a shortcut menu named **cmdFormFiltering** that contains commands that are useful to use with Continuous forms. In this example, the **BeginGroup** property is used on several controls to group controls visually.
 
 
 
@@ -80,7 +80,7 @@ Set cmbRightClick = Nothing
 End Sub
 ```
 
-The following example creates a shortcut menu named  **cmdReportRightClick** that contains commands that are useful to use with a report. This example shows how to change the **Caption** property of each control as they're added to the shortcut menu.
+The following example creates a shortcut menu named **cmdReportRightClick** that contains commands that are useful to use with a report. This example shows how to change the **Caption** property of each control as they're added to the shortcut menu.
 
 
 

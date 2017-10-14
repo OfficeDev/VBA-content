@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisPublishPages Enumeration (Visio)
 
-Specifies constants that define which pages to publish; passed to the  **[ServerPublishOptions.SetPagesToPublish](serverpublishoptions-setpagestopublish-method-visio.md)** method and returned by the **[ServerPublishOptions.GetPagesToPublish](serverpublishoptions-getpagestopublish-method-visio.md)** method.
+Specifies constants that define which pages to publish; passed to the **[ServerPublishOptions.SetPagesToPublish](serverpublishoptions-setpagestopublish-method-visio.md)** method and returned by the **[ServerPublishOptions.GetPagesToPublish](serverpublishoptions-getpagestopublish-method-visio.md)** method.
 
 
 

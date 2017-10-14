@@ -18,7 +18,7 @@ Represents the title of an axis in a chart.
 
 ## Using the AxisTitle Object
 
-Use the  **AxisTitle** property to return an **AxisTitle** object. The following example sets the text of the value axis title and sets the font to 10-point Bookman.
+Use the **AxisTitle** property to return an **AxisTitle** object. The following example sets the text of the value axis title and sets the font to 10-point Bookman.
 
 
 ```vb
@@ -35,6 +35,6 @@ End With
 
 ## Remarks
 
-The  **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](hastitle-property.md)** property for the specified axis is  **True**.
+The **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](hastitle-property.md)** property for the specified axis is **True**.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.Last Property (Word)
 
-Returns the last item in the  **Rows** collection as a **Row** object.
+Returns the last item in the **Rows** collection as a **Row** object.
 
 
 ## Syntax

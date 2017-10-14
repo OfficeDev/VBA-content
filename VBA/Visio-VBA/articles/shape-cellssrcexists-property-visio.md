@@ -41,7 +41,7 @@ Integer
 
 ## Remarks
 
-Constants for section, row, and column indices are declared by the Visio type library as members of  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** , **[VisRowIndices](visrowindices-enumeration-visio.md)** , and **[VisCellIndices](viscellindices-enumeration-visio.md)** , respectively.
+Constants for section, row, and column indices are declared by the Visio type library as members of **[VisSectionIndices](vissectionindices-enumeration-visio.md)** , **[VisRowIndices](visrowindices-enumeration-visio.md)** , and **[VisCellIndices](viscellindices-enumeration-visio.md)** , respectively.
 
 The  _fExistsLocally_ argument specifies the scope of the search:
 
@@ -54,6 +54,6 @@ The  _fExistsLocally_ argument specifies the scope of the search:
     
 
 
-To search for a cell by name, use the  **CellExists** or **CellExistsU** property.
+To search for a cell by name, use the **CellExists** or **CellExistsU** property.
 
 

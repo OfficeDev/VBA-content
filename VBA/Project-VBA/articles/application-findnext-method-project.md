@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FindNext Method (Project)
 
-Repeats the last search and returns  **True** if the search value is found.
+Repeats the last search and returns **True** if the search value is found.
 
 
 ## Syntax

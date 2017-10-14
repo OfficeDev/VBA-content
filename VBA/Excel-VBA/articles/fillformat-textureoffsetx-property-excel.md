@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureOffsetX Property (Excel)
 
-Returns the offset X value for the specified fill. Read/write  **Single** .
+Returns the offset X value for the specified fill. Read/write **Single** .
 
 
 ## Syntax

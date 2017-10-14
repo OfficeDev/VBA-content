@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.FarEastLineBreakLevel Property (Word)
 
-Returns or sets the line break control level for the specified document. Read/write  **WdFarEastLineBreakLevel** .
+Returns or sets the line break control level for the specified document. Read/write **WdFarEastLineBreakLevel** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the line break control level for the specified document. Read/wr
 
 ## Remarks
 
-This property is ignored if the  **FarEastLineBreakControl** property is set to **False** .
+This property is ignored if the **FarEastLineBreakControl** property is set to **False** .
 
 
 ## Example

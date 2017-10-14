@@ -30,7 +30,7 @@ Saves row and column information for a selected sheet view.
 
 ## Example
 
-The following example demonstrates how  **SaveSheetSelection** and **RestoreSheetSelection** work.
+The following example demonstrates how **SaveSheetSelection** and **RestoreSheetSelection** work.
 
 
 ```vb

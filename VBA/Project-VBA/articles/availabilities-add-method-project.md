@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Availabilities.Add Method (Project)
 
-Adds an  **Availability** object to an **Availabilities** collection.
+Adds an **Availability** object to an **Availabilities** collection.
 
 
 ## Syntax

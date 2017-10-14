@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIn.Description Property (Office)
 
-Gets or sets a descriptive  **String** value for the specified **COMAddin** object. Read/write.
+Gets or sets a descriptive **String** value for the specified **COMAddin** object. Read/write.
 
 
 ## Syntax

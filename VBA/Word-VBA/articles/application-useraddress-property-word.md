@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserAddress Property (Word)
 
-Returns or sets the user's mailing address. Read/write  **String** .
+Returns or sets the user's mailing address. Read/write **String** .
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Application.UserAddress = "4200 Third Street NE" &; Chr(10) _
  &; "Anytown, WA 98999"
 ```
 
-This example returns the address found in the  **Mailing address** box on the **User Information** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the address found in the **Mailing address** box on the **User Information** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

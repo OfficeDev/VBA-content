@@ -20,7 +20,7 @@ Merges the specified table cells with one another. The result is a single table 
 
  _expression_. **Merge**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_A variable that represents a **CellRange** object.
 
 
 ## Example

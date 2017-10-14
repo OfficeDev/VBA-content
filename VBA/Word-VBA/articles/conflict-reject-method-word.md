@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-The  **Reject** method rejects the user version of a conflict and accepts the version that is currently on the server.
+The **Reject** method rejects the user version of a conflict and accepts the version that is currently on the server.
 
 
 ## Example

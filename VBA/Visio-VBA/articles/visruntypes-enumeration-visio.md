@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisRunTypes Enumeration (Visio)
 
-Run-type constants to be passed to the  **Characters.RunBegin** and **Characters.RunEnd** properties.
+Run-type constants to be passed to the **Characters.RunBegin** and **Characters.RunEnd** properties.
 
 
 

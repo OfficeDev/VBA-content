@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SenderInAddressListRuleCondition Object (Outlook)
 
-Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](addressrulecondition-address-property-outlook.md)**.
+Represents a rule condition that the sender's address is in the address list specified in **[AddressRuleCondition.Address](addressrulecondition-address-property-outlook.md)**.
 
 
 ## Remarks

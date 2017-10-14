@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Gutter Property (Word)
 
-Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write  **Single** .
+Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the amount (in points) of extra margin space added to each page 
 
 ## Remarks
 
-If the  **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
+If the **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
 
 
 ## Example

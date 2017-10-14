@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.DateModified Property (Access)
 
-Returns a  **Date** indicating the date and time when the design of the specified object was last modified. Read-only.
+Returns a **Date** indicating the date and time when the design of the specified object was last modified. Read-only.
 
 
 ## Syntax

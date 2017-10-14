@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextFrame2 Property (PowerPoint)
 
-Returns the  **[TextFrame2](textframe2-object-powerpoint.md)** object associated with the specified **[ShapeRange](shaperange-object-powerpoint.md)** object that contains the alignment and anchoring properties for the specified shape range. Read-only.
+Returns the **[TextFrame2](textframe2-object-powerpoint.md)** object associated with the specified **[ShapeRange](shaperange-object-powerpoint.md)** object that contains the alignment and anchoring properties for the specified shape range. Read-only.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ TextFrame2
 
 ## Remarks
 
-Use the  **[TextRange](textframe2-textrange-property-powerpoint.md)** property of the **TextFrame2** object to return the text in the text frame.
+Use the **[TextRange](textframe2-textrange-property-powerpoint.md)** property of the **TextFrame2** object to return the text in the text frame.
 
-Use the  **[HasTextFrame](shaperange-hastextframe-property-powerpoint.md)** property to determine whether a shape range contains a text frame before you attempt to get the **TextFrame2** property value.
+Use the **[HasTextFrame](shaperange-hastextframe-property-powerpoint.md)** property to determine whether a shape range contains a text frame before you attempt to get the **TextFrame2** property value.
 
 
 ## See also

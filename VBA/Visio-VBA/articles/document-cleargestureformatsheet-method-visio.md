@@ -34,6 +34,6 @@ Any shapes drawn after the Gesture Format sheet is cleared inherit their line, f
 
 A document's Gesture Format sheet also gets cleared automatically when the document is opened.
 
-For details about the Gesture Format sheet, see the  **GestureFormatSheet** property.
+For details about the Gesture Format sheet, see the **GestureFormatSheet** property.
 
 

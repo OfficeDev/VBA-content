@@ -15,7 +15,7 @@ Not all [object libraries](vbe-glossary.md) or[type libraries](vbe-glossary.md) 
 
 
 
-- You tried to use the  **Add References** dialog box to add a reference to a type library or object library that can't be used by Visual Basic. Check the documentation for the object represented by the library to see if it's available in some other form that Visual Basic can use.
+- You tried to use the **Add References** dialog box to add a reference to a type library or object library that can't be used by Visual Basic. Check the documentation for the object represented by the library to see if it's available in some other form that Visual Basic can use.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Calendar.WorkWeeks Property (Project)
 
-Gets a  **[WorkWeeks](year-object-project.md)** collection representing the work weeks defined in the calendar. Read-only **WorkWeeks**.
+Gets a **[WorkWeeks](year-object-project.md)** collection representing the work weeks defined in the calendar. Read-only **WorkWeeks**.
 
 
 ## Syntax

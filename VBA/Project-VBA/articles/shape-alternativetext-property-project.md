@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.AlternativeText Property (Project)
-Gets or sets the descriptive (alternative) text string for a  **Shape** object when the object is saved to a web page. Read/write **String**.
+Gets or sets the descriptive (alternative) text string for a **Shape** object when the object is saved to a web page. Read/write **String**.
 
 ## Syntax
 

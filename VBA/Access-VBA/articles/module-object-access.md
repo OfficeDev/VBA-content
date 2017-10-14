@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # Module Object (Access)
 
-A  **Module** object refers to a standard module or a class module.
+A **Module** object refers to a standard module or a class module.
 
 
 ## Remarks
 
 Microsoft Access includes class modules that are not associated with any object, and form modules and report modules, which are associated with a form or report.
 
-To determine whether a  **Module** object represents a standard module or a class module from code, check the **Module** object's **Type** property.
+To determine whether a **Module** object represents a standard module or a class module from code, check the **Module** object's **Type** property.
 
-The  **[Modules](http://msdn.microsoft.com/library/f60a9929-4b79-cfed-8fb3-a4869a3afe9f%28Office.15%29.aspx)** collection contains all open **Module** objects, regardless of their type. Modules in the **Modules** collection can be compiled or uncompiled.
+The **[Modules](http://msdn.microsoft.com/library/f60a9929-4b79-cfed-8fb3-a4869a3afe9f%28Office.15%29.aspx)** collection contains all open **Module** objects, regardless of their type. Modules in the **Modules** collection can be compiled or uncompiled.
 
-To return a reference to a particular standard or class  **Module** object in the **Modules** collection, use any of the following syntax forms.
+To return a reference to a particular standard or class **Module** object in the **Modules** collection, use any of the following syntax forms.
 
 
 
@@ -33,7 +33,7 @@ To return a reference to a particular standard or class  **Module** object in th
 |**Modules** !modulename|The  _modulename_ argument is the name of the **Module** object.|
 |**Modules** (" _modulename_")|The  _modulename_ argument is the name of the **Module** object.|
 |**Modules** ( _index_)|The  _index_ argument is the numeric position of the object within the collection.|
-The following example returns a reference to a standard  **Module** object and assigns it to an object variable:
+The following example returns a reference to a standard **Module** object and assigns it to an object variable:
 
 
 
@@ -43,9 +43,9 @@ Dim mdl As Module
 Set mdl = Modules![Utility Functions]
 ```
 
-Note that the brackets enclosing the name of the  **Module** object are necessary only if the name of the **Module** includes spaces.
+Note that the brackets enclosing the name of the **Module** object are necessary only if the name of the **Module** includes spaces.
 
-The next example returns a reference to a form  **Module** object and assigns it to an object variable:
+The next example returns a reference to a form **Module** object and assigns it to an object variable:
 
 
 
@@ -55,7 +55,7 @@ Dim mdl As Module
 Set mdl = Modules!Form_Employees
 ```
 
-To refer to a specific form or report module, you can also use the  **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)** or **[Report](report-object-access.md)** object's **Module** property:
+To refer to a specific form or report module, you can also use the **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)** or **[Report](report-object-access.md)** object's **Module** property:
 
 
 
@@ -64,7 +64,7 @@ To refer to a specific form or report module, you can also use the  **[Form](htt
 Forms!formname .Module
 ```
 
-The following example also returns a reference to the  **Module** object associated with an Employees form and assigns it to an object variable:
+The following example also returns a reference to the **Module** object associated with an Employees form and assigns it to an object variable:
 
 
 
@@ -74,7 +74,7 @@ Dim mdl As Module
 Set mdl = Forms!Employees.Module
 ```
 
-Once you've returned a reference to a  **Module** object, you can set or read its properties and apply its methods.
+Once you've returned a reference to a **Module** object, you can set or read its properties and apply its methods.
 
 
 ## Methods

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressRuleCondition Object (Outlook)
 
-Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in  **[AddressRuleCondition.Address](addressrulecondition-address-property-outlook.md)**.
+Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in **[AddressRuleCondition.Address](addressrulecondition-address-property-outlook.md)**.
 
 
 ## Remarks

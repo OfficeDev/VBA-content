@@ -20,12 +20,12 @@ Specifies the shape type. Read-only.
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbShapeType](pbshapetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbShapeType](pbshapetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

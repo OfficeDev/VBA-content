@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.InstalledPrinters Property (Publisher)
 
-Returns an  **[InstalledPrinters](installedprinters-object-publisher.md)** collection that represents the names of all the printers installed on the computer and to which Microsoft Publisher can print the publication. Read-only.
+Returns an **[InstalledPrinters](installedprinters-object-publisher.md)** collection that represents the names of all the printers installed on the computer and to which Microsoft Publisher can print the publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **InstalledPrinters**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Return Value

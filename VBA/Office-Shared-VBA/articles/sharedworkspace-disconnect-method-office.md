@@ -28,7 +28,7 @@ Disconnects the local copy of the active document from the shared workspace site
 
 ## Remarks
 
-Use the  **Disconnect** method to detach the local copy of the active document from the shared workspace site. This method leaves the shared document on the server; however, the local copy will no longer be synchronized with the shared copy and will no longer benefit from the other collaboration features of the shared workspace. Use the **RemoveDocument** method to remove the shared document from the server.
+Use the **Disconnect** method to detach the local copy of the active document from the shared workspace site. This method leaves the shared document on the server; however, the local copy will no longer be synchronized with the shared copy and will no longer benefit from the other collaboration features of the shared workspace. Use the **RemoveDocument** method to remove the shared document from the server.
 
 
 ## Example

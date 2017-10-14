@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSources.Count Property (Publisher)
 
-Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSources** collection of the active document. Read-only.
+Returns the number of **MailMergeDataSource** objects in the **MailMergeDataSources** collection of the active document. Read-only.
 
 
 ## Syntax
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **MailMergeDataSources** collection.
+ _expression_A variable that represents a **MailMergeDataSources** collection.
 
 
 ### Return Value

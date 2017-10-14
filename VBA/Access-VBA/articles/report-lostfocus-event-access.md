@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.LostFocus Event (Access)
 
-The  **LostFocus** event occurs when the specified object loses the focus.
+The **LostFocus** event occurs when the specified object loses the focus.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ The  **LostFocus** event occurs when the specified object loses the focus.
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the  **OnLostFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnLostFocus** property to the name of the macro or to [Event Procedure].
 
-This event occurs when the focus moves in response to a user action, such as pressing the TAB key or clicking the object, or when you use the  **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
+This event occurs when the focus moves in response to a user action, such as pressing the TAB key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 
 
 ## See also

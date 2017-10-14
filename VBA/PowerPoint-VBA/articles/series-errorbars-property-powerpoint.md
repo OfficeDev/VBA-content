@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ErrorBars Property (PowerPoint)
 
-Returns the error bars for the series. Read-only  **[ErrorBars](errorbars-object-powerpoint.md)**.
+Returns the error bars for the series. Read-only **[ErrorBars](errorbars-object-powerpoint.md)**.
 
 
 ## Syntax

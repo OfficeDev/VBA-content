@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ThousandsSeparator Property (Excel)
 
-Sets or returns the character used for the thousands separator as a  **String** . Read/write.
+Sets or returns the character used for the thousands separator as a **String** . Read/write.
 
 
 ## Syntax

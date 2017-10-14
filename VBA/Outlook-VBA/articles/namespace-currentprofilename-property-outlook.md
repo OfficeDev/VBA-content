@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CurrentProfileName Property (Outlook)
 
-Returns a  **String** representing the name of the current profile. Read-only.
+Returns a **String** representing the name of the current profile. Read-only.
 
 
 ## Syntax

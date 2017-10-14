@@ -30,9 +30,9 @@ PpChartUnitEffect
 
 ## Remarks
 
-If your graph doesn't become animated, make sure that the  **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **True**
+If your graph doesn't become animated, make sure that the **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **True**
 
-The value of the  **ChartUnitEffect** property can be one of these **PpChartUnitEffect** constants.
+The value of the **ChartUnitEffect** property can be one of these **PpChartUnitEffect** constants.
 
 
 ||

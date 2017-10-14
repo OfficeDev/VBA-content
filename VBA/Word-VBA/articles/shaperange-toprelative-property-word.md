@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TopRelative Property (Word)
 
-Returns or sets a  **Single** that represents the relative top position of a range of shapes. Read/write.
+Returns or sets a **Single** that represents the relative top position of a range of shapes. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that represents the relative top position of a ran
 
 ## Remarks
 
-Use this property with the  **[RelativeVerticalPosition](shaperange-relativeverticalposition-property-word.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](wdshapepositionrelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The vertical position is solely determined by the **[Top](shaperange-top-property-word.md)** property.
+Use this property with the **[RelativeVerticalPosition](shaperange-relativeverticalposition-property-word.md)** property. When set to **wdShapePositionRelativeNone** (-999999) (see the **[WdShapePositionRelative](wdshapepositionrelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent positioning. The vertical position is solely determined by the **[Top](shaperange-top-property-word.md)** property.
 
 
 ## See also

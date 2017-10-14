@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Styles Object (Visio)
 
-Includes a  **Style** object for each style defined in a document.
+Includes a **Style** object for each style defined in a document.
 
 
 ## Remarks
 
-To retrieve a  **Styles** collection, use the **Styles** property of a **Document** object.
+To retrieve a **Styles** collection, use the **Styles** property of a **Document** object.
 
-The default property of a  **Styles** collection is **Item** .
+The default property of a **Styles** collection is **Item** .
 
 

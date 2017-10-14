@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.HasPicture Property (Outlook)
 
-Returns a  **Boolean** value that is **True** if a **Contacts** item has a picture associated with it. Read-only
+Returns a **Boolean** value that is **True** if a **Contacts** item has a picture associated with it. Read-only
 
 
 ## Syntax

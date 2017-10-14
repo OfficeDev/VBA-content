@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ViewFields Property (Outlook)
 
-Returns a  **[ViewFields](viewfields-object-outlook.md)** object that represents the set of fields with which Outlook items are displayed in the **[TableView](tableview-object-outlook.md)** object. Read-only.
+Returns a **[ViewFields](viewfields-object-outlook.md)** object that represents the set of fields with which Outlook items are displayed in the **[TableView](tableview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

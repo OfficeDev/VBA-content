@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Categories Property (Outlook)
 
-Returns or sets a  **[Categories](categories-object-outlook.md)** object that represents the set of **[Category](category-object-outlook.md)** objects that are available to the namespace. Read/write.
+Returns or sets a **[Categories](categories-object-outlook.md)** object that represents the set of **[Category](category-object-outlook.md)** objects that are available to the namespace. Read/write.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets a  **[Categories](categories-object-outlook.md)** object that re
 
 ## Remarks
 
-This property represents the Master Category List, which is the set of  **Category** objects that can be applied to Outlook items contained by the **NameSpace** object, and applies to all users of that namespace.
+This property represents the Master Category List, which is the set of **Category** objects that can be applied to Outlook items contained by the **NameSpace** object, and applies to all users of that namespace.
 
-This property is similar to the  **[Categories](store-categories-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object. If there are multiple accounts defined in the current profile, use the **Categories** property of the store that is associated with the specific account.
+This property is similar to the **[Categories](store-categories-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object. If there are multiple accounts defined in the current profile, use the **Categories** property of the store that is associated with the specific account.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box that contains the names and identifiers for each  **Category** object that is contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box that contains the names and identifiers for each **Category** object that is contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ```vb

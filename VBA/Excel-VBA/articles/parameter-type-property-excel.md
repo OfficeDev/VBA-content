@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.Type Property (Excel)
 
-Returns a  **[XlParameterType](xlparametertype-enumeration-excel.md)** value that represents the parameter type.
+Returns a **[XlParameterType](xlparametertype-enumeration-excel.md)** value that represents the parameter type.
 
 
 ## Syntax

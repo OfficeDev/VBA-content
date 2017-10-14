@@ -16,17 +16,17 @@ ms.date: 06/08/2017
 
 
  **Description**
-Opens a specified file and returns a  **TextStream** object that can be used to read from, write to, or append to the file.
+Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
  **Syntax**
  _object_. **OpenAsTextStream(** [ _iomode_, [ _format_ ]] **)**
-The  **OpenAsTextStream** method syntax has these parts:
+The **OpenAsTextStream** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** object.|
-| _iomode_|Optional. Indicates input/output mode. Can be one of three constants:  **ForReading**, **ForWriting**, or **ForAppending**.|
-| _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
+| _object_|Required. Always the name of a **File** object.|
+| _iomode_|Optional. Indicates input/output mode. Can be one of three constants: **ForReading**, **ForWriting**, or **ForAppending**.|
+| _format_|Optional. One of three **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
  **Settings**
 The  _iomode_ argument can have any of the following settings:
 
@@ -45,8 +45,8 @@ The  _format_ argument can have any of the following settings:
 |**TristateTrue**|-1|Opens the file as Unicode.|
 |**TristateFalse**| 0|Opens the file as ASCII.|
  **Remarks**
-The  **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
-The following code illustrates the use of the  **OpenAsTextStream** method:
+The **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
+The following code illustrates the use of the **OpenAsTextStream** method:
 
 
 

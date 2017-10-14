@@ -25,7 +25,7 @@ Gets the maximum width available for a project window in points. Read-only Doubl
 
 ## Remarks
 
-The  **UsableWidth** property equals the total amount of horizontal space inside the main window minus the space taken up by scroll bars.
+The **UsableWidth** property equals the total amount of horizontal space inside the main window minus the space taken up by scroll bars.
 
 
 ## Example

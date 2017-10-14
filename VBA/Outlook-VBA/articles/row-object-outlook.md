@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Row Object (Outlook)
 
-Represents a row of data in the  **[Table](table-object-outlook.md)** object.
+Represents a row of data in the **[Table](table-object-outlook.md)** object.
 
 
 ## Remarks
 
-A  **Table** is composed of rows and columns. It represents a read-only dynamic rowset of data in a **[Folder](folder-object-outlook.md)** or **[Search](search-object-outlook.md)** object. You can regard each row of a **Table** as an item in the folder, and each column as a property of the item. By default, the **Table** contains only a subset of properties for items in the folder. This makes the **Table** an in-memory lightweight rowset that supports fast enumeration and filtering of items in the folder.
+A **Table** is composed of rows and columns. It represents a read-only dynamic rowset of data in a **[Folder](folder-object-outlook.md)** or **[Search](search-object-outlook.md)** object. You can regard each row of a **Table** as an item in the folder, and each column as a property of the item. By default, the **Table** contains only a subset of properties for items in the folder. This makes the **Table** an in-memory lightweight rowset that supports fast enumeration and filtering of items in the folder.
 
  If the **Table** object is obtained from **[Folder.GetTable](folder-gettable-method-outlook.md)**, you can further specify a filter (in **[Table.Restrict](table-restrict-method-outlook.md)** ) to obtain a more restricted set of rows in the **Table**.
 
@@ -33,7 +33,7 @@ A  **Table** is composed of rows and columns. It represents a read-only dynamic 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to customize columns in the **Table**, and how to enumerate and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to customize columns in the **Table**, and how to enumerate and print the values of the corresponding properties of these items.
 
 
 ```

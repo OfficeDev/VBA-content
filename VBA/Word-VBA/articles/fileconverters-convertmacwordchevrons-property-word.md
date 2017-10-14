@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverters.ConvertMacWordChevrons Property (Word)
 
-Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write  **Long** . .
+Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write **Long** . .
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Controls whether text enclosed in chevron characters (« ») is converted to mer
 
 ## Remarks
 
-The  **ConvertMacWordChevrons** property can be any **WdChevronConvertRule** constants.
+The **ConvertMacWordChevrons** property can be any **WdChevronConvertRule** constants.
 
 Word for the Macintosh version 4.0 and 5.x documents use chevron characters to denote mail merge fields.
 
 
 ## Example
 
-This example sets the  **ConvertMacWordChevrons** property to convert the text enclosed in chevrons to mail merge fields, and then it opens the document named "Mac Word Document."
+This example sets the **ConvertMacWordChevrons** property to convert the text enclosed in chevrons to mail merge fields, and then it opens the document named "Mac Word Document."
 
 
 ```

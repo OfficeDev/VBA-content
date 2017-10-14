@@ -34,7 +34,7 @@ Adds a user access list.
 
 ### Return Value
 
-A  **[UserAccess](useraccess-object-excel.md)** object that represents the new user access list.
+A **[UserAccess](useraccess-object-excel.md)** object that represents the new user access list.
 
 
 ## See also

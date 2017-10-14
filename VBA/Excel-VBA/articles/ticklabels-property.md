@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels Property
 
-Returns a  **[TickLabels](ticklabels-object.md)** collection that represents the tick-mark labels for the specified axis. Read-only.
+Returns a **[TickLabels](ticklabels-object.md)** collection that represents the tick-mark labels for the specified axis. Read-only.
 
 
 ## Example

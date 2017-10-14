@@ -24,14 +24,14 @@ Represents a pop-up control on a command bar.
 
 ## Remarks
 
-Every pop-up control contains a  **CommandBar** object. To return the command bar from a pop-up control, apply the **CommandBar** property to the **CommandBarPopup** object.
+Every pop-up control contains a **CommandBar** object. To return the command bar from a pop-up control, apply the **CommandBar** property to the **CommandBarPopup** object.
 
  Use Controls(index), where _index_ is the number of the control, to return a **CommandBarPopup** object. Note that the **Type** property of the control must be **msoControlPopup**, **msoControlGraphicPopup**, **msoControlButtonPopup**, **msoControlSplitButtonPopup**, or **msoControlSplitButtonMRUPopup**.
 
 
 ## Example
 
-You can also use the  **FindControl** method to return a **CommandBarPopup** object. The following example searches all command bars for a **CommandBarPopup** object whose tag is "Graphics."
+You can also use the **FindControl** method to return a **CommandBarPopup** object. The following example searches all command bars for a **CommandBarPopup** object whose tag is "Graphics."
 
 
 ```

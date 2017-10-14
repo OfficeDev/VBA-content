@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.SourcePath Property (Word)
 
-Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only  **String** .
+Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the path of the source file for the specified linked OLE object, picture
 
 ## Remarks
 
-The path doesn't include a trailing character (for example, "C:\MSOffice"). Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](linkformat-sourcename-property-word.md)** property to return the file name without the path and use the **[SourceFullName](linkformat-sourcefullname-property-word.md)** property to return the path and file name together.
+The path doesn't include a trailing character (for example, "C:\MSOffice"). Use the **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](linkformat-sourcename-property-word.md)** property to return the file name without the path and use the **[SourceFullName](linkformat-sourcefullname-property-word.md)** property to return the path and file name together.
 
 
 ## Example

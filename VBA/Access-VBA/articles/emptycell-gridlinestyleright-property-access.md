@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmptyCell.GridlineStyleRight Property (Access)
 
-Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
+Gets or sets the right gridline style of the specified text box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the right gridline style of the specified text box. Read/write  **B
 
 ## Remarks
 
-The  **RightGridlineStyle** property uses the following settings.
+The **RightGridlineStyle** property uses the following settings.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Previous Property (Word)
 
-Returns a  **Pane** object that represents the previous document pane in the collection. Read-only.
+Returns a **Pane** object that represents the previous document pane in the collection. Read-only.
 
 
 ## Syntax

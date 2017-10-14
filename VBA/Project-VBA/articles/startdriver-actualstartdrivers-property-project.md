@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.ActualStartDrivers Property (Project)
 
-Gets the  **[ActualStartDrivers](actualstartdrivers-object-project.md)** collection for the task start driver. Read-only **ActualStartDrivers**.
+Gets the **[ActualStartDrivers](actualstartdrivers-object-project.md)** collection for the task start driver. Read-only **ActualStartDrivers**.
 
 
 ## Syntax

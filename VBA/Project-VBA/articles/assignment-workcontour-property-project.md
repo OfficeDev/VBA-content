@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Assignment.WorkContour Property (Project)
 
-Gets or sets the type of work contour for the assignment. Read/write  **PjWorkContourType**.
+Gets or sets the type of work contour for the assignment. Read/write **PjWorkContourType**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the type of work contour for the assignment. Read/write  **PjWorkCo
 
 ## Remarks
 
-The  **WorkContour** property can be one of the following **[PjWorkContourType](pjworkcontourtype-enumeration-project.md)** constants: **pjBackLoaded**, **pjBell**, **pjContour**, **pjDoublePeak**, **pjEarlyPeak**, **pjFlat**, **pjFrontLoaded**, **pjLatePeak**, or **pjTurtle**. The default value is **pjFlat**.
+The **WorkContour** property can be one of the following **[PjWorkContourType](pjworkcontourtype-enumeration-project.md)** constants: **pjBackLoaded**, **pjBell**, **pjContour**, **pjDoublePeak**, **pjEarlyPeak**, **pjFlat**, **pjFrontLoaded**, **pjLatePeak**, or **pjTurtle**. The default value is **pjFlat**.
 
 

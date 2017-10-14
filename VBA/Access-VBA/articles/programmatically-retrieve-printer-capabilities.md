@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Programmatically Retrieve Printer Capabilities
 
-The  **[Printers](printers-object-access.md)** collection and **[Printer](printer-object-access.md)** object allow you only to set or retrieve settings for a printer. To determine a printer's capabilities, such as the kinds of paper or paper bins it supports, you must use calls to the Windows Application Programming Interface (API) **DeviceCapabilities** function. It is beyond the scope of this topic to cover this in detail, but the following code sample from the modPrinters module of the PrinterDemo.mdb sample download demonstrates how to retrieve the names and IDs of the supported paper size and paper bins for a printer.
+The **[Printers](printers-object-access.md)** collection and **[Printer](printer-object-access.md)** object allow you only to set or retrieve settings for a printer. To determine a printer's capabilities, such as the kinds of paper or paper bins it supports, you must use calls to the Windows Application Programming Interface (API) **DeviceCapabilities** function. It is beyond the scope of this topic to cover this in detail, but the following code sample from the modPrinters module of the PrinterDemo.mdb sample download demonstrates how to retrieve the names and IDs of the supported paper size and paper bins for a printer.
 
 The following code should be pasted into the general declarations section of a module.
 
@@ -30,7 +30,7 @@ Private Const DEFAULT_VALUES = 0
 
 ```
 
-The following procedure uses the  **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper sizes it supports.
+The following procedure uses the **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper sizes it supports.
 
 
 
@@ -110,7 +110,7 @@ GetPaperList_Err:
 End Sub
 ```
 
-The following procedure uses the  **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper bins it supports.
+The following procedure uses the **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper bins it supports.
 
 
 

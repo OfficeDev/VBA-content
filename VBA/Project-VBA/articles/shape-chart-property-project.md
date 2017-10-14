@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Chart Property (Project)
-Gets a  **Chart** object that represents the chart contained in the shape. Read-only **Chart**.
+Gets a **Chart** object that represents the chart contained in the shape. Read-only **Chart**.
 
 ## Syntax
 

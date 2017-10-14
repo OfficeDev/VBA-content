@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScheme.Colors Method (PowerPoint)
 
-Returns an  **[RGBColor](rgbcolor-object-powerpoint.md)** object that represents a single color in a color scheme.
+Returns an **[RGBColor](rgbcolor-object-powerpoint.md)** object that represents a single color in a color scheme.
 
 
 ## Syntax

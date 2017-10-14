@@ -30,7 +30,7 @@ Gradients are a smooth transition from one color state to another. The endpoints
 
 ## Example
 
-The following code example shows how to add a gradient stop at the 50% position to the  **GradientStops** collection of the fill format of the first shape in the active document. For this code example to work, the shape must already have a gradient fill applied.
+The following code example shows how to add a gradient stop at the 50% position to the **GradientStops** collection of the fill format of the first shape in the active document. For this code example to work, the shape must already have a gradient fill applied.
 
 
 ```vb

@@ -29,7 +29,7 @@ Arranges the windows on the screen.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ArrangeStyle_|Optional| **[XlArrangeStyle](xlarrangestyle-enumeration-excel.md)**|One of the constants of  **XlArrangeStyle** specifying how the windows are arranged.|
+| _ArrangeStyle_|Optional| **[XlArrangeStyle](xlarrangestyle-enumeration-excel.md)**|One of the constants of **XlArrangeStyle** specifying how the windows are arranged.|
 | _ActiveWorkbook_|Optional| **Variant**| **True** to arrange only the visible windows of the active workbook. **False** to arrange all windows. The default value is **False** .|
 | _SyncHorizontal_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling horizontally. **False** to not synchronize the windows. The default value is **False** .|
 | _SyncVertical_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling vertically. **False** to not synchronize the windows. The default value is **False** .|

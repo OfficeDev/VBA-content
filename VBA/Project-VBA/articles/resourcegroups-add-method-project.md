@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ResourceGroups.Add Method (Project)
 
-Adds a  **Group** object to a **ResourceGroups** collection.
+Adds a **Group** object to a **ResourceGroups** collection.
 
 
 ## Syntax

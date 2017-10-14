@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.SynonymInfo Property (Word)
 
-Returns a  **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the contents of a range.
+Returns a **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the contents of a range.
 
 
 ## Syntax

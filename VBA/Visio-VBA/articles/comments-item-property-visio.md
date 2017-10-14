@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comments.Item Property (Visio)
 
-Returns an object from a collection. The  **Item** property is the default property for all collections. Read-only[Comment](comment-object-visio.md).
+Returns an object from a collection. The **Item** property is the default property for all collections. Read-only[Comment](comment-object-visio.md).
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an object from a collection. The  **Item** property is the default prope
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
+When retrieving objects from a collection, you can omit **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
 
 
 ```

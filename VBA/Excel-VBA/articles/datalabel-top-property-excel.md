@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Top Property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
+Returns or sets a **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 
 
 ## Syntax

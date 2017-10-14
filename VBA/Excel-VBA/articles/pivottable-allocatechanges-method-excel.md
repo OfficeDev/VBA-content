@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the values area of the PivotTable since the last apply changes operation was committed, or since the PivotTable was created if commiting apply changes has never been performed. This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
+The **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the values area of the PivotTable since the last apply changes operation was committed, or since the PivotTable was created if commiting apply changes has never been performed. This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
 
 
 ## See also

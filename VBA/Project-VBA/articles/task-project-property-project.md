@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Project Property (Project)
 
-Gets the name of the project containing the  **Task**. Read-only **String**.
+Gets the name of the project containing the **Task**. Read-only **String**.
 
 
 ## Syntax

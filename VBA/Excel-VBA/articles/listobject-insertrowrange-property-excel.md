@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the Insert row is not visible because the list is inactive, the  **Nothing** object will be returned.
+If the Insert row is not visible because the list is inactive, the **Nothing** object will be returned.
 
 
 ## Example
 
-The following example activates the range specified by the  **InsertRowRange** in the default **ListObject** object in the first worksheet of the active workbook.
+The following example activates the range specified by the **InsertRowRange** in the default **ListObject** object in the first worksheet of the active workbook.
 
 
 ```vb

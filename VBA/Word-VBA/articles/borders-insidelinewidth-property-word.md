@@ -25,7 +25,7 @@ Returns or sets the line width of the inside border of an object. .
 
 ## Remarks
 
-This property returns  **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True** , **False** , or one of the following **WdLineWidth** constants.
+This property returns **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True** , **False** , or one of the following **WdLineWidth** constants.
 
 
 ## Example

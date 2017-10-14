@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.Alignment Property (Word)
 
-Returns or sets a  **WdListLevelAlignment** constant that represents the alignment for the list level of the list template. Read/write.
+Returns or sets a **WdListLevelAlignment** constant that represents the alignment for the list level of the list template. Read/write.
 
 
 ## Syntax

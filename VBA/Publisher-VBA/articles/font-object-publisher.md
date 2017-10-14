@@ -18,7 +18,7 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 
 ## Example
 
-Use the  **[Font](http://msdn.microsoft.com/library/80d7177a-fef9-c3fd-f559-94644a2ba0f7%28Office.15%29.aspx)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
+Use the **[Font](http://msdn.microsoft.com/library/80d7177a-fef9-c3fd-f559-94644a2ba0f7%28Office.15%29.aspx)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
 ```
@@ -59,7 +59,7 @@ Sub FormatStyle()
 End Sub
 ```
 
-You can also duplicate a  **Font** object by using the **[Duplicate](http://msdn.microsoft.com/library/545dbfdb-4cd5-99b1-1ba3-b723e8d7b827%28Office.15%29.aspx)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
+You can also duplicate a **Font** object by using the **[Duplicate](http://msdn.microsoft.com/library/545dbfdb-4cd5-99b1-1ba3-b723e8d7b827%28Office.15%29.aspx)** property. The following example creates a new character style with the character formatting from the selection in addition to italic formatting. The formatting of the selection is not changed.
 
 
 

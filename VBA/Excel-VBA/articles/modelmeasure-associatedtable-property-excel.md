@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure.AssociatedTable Property (Excel)
 
-Specifies the table that contains the model measure, as displayed in the  **Field List** task pane. Read/write[ModelTable](modeltable-object-excel.md).
+Specifies the table that contains the model measure, as displayed in the **Field List** task pane. Read/write[ModelTable](modeltable-object-excel.md).
 
 
 ## Syntax

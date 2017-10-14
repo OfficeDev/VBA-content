@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.CurrentX Property (Access)
 
-You can use the  **CurrentX** property (along with the **CurrentY** property) to specify the horizontal and vertical coordinates for the starting position of the next printing and drawing method on a report. Read/write **Single**.
+You can use the **CurrentX** property (along with the **CurrentY** property) to specify the horizontal and vertical coordinates for the starting position of the next printing and drawing method on a report. Read/write **Single**.
 
 
 ## Syntax
@@ -27,13 +27,13 @@ You can use the  **CurrentX** property (along with the **CurrentY** property) to
 
 For example, you can use these properties to determine where the center point of a circle is drawn on a report section.
 
-The coordinates are measured from the upper-left corner of the report section that contains the reference to the  **CurrentX** or **CurrentY** property. The **CurrentX** property setting is 0 at the section's left edge, and the **CurrentY** property setting is 0 at its top edge.
+The coordinates are measured from the upper-left corner of the report section that contains the reference to the **CurrentX** or **CurrentY** property. The **CurrentX** property setting is 0 at the section's left edge, and the **CurrentY** property setting is 0 at its top edge.
 
-You can set the  **CurrentX** and **CurrentY** properties in an event procedure specified by the **[OnPrint](section-onprint-property-access.md)** property setting of a report section.
+You can set the **CurrentX** and **CurrentY** properties in an event procedure specified by the **[OnPrint](section-onprint-property-access.md)** property setting of a report section.
 
-Use the  **[ScaleMode](report-scalemode-property-access.md)** property to define the unit of measure, such as points, pixels, characters, inches, millimeters, or centimeters, that the coordinates will be based on.
+Use the **[ScaleMode](report-scalemode-property-access.md)** property to define the unit of measure, such as points, pixels, characters, inches, millimeters, or centimeters, that the coordinates will be based on.
 
-When you use the following graphics methods, the  **CurrentX** and **CurrentY** property settings are changed as indicated.
+When you use the following graphics methods, the **CurrentX** and **CurrentY** property settings are changed as indicated.
 
 
 
@@ -45,7 +45,7 @@ When you use the following graphics methods, the  **CurrentX** and **CurrentY** 
 
 ## Example
 
-The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
+The following example uses the **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
 ```vb

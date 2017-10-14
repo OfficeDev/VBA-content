@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Color.Blue Property (Visio)
 
-Gets or sets the intensity of the blue component of a  **Color** object. Read/write.
+Gets or sets the intensity of the blue component of a **Color** object. Read/write.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Integer
 
 ## Remarks
 
-The  **Blue** property can be a value from 0 to 255.
+The **Blue** property can be a value from 0 to 255.
 
-A color is represented by red, green, and blue components. It also has a flag that indicates how the color is to be used. These correspond to members of the Microsoft Windows  **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
+A color is represented by red, green, and blue components. It also has a flag that indicates how the color is to be used. These correspond to members of the Microsoft Windows **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
 

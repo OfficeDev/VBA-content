@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.MonthPosition Property (Project)
 
-Gets or sets the position of the exception in the month, for a monthly or yearly calendar exception. Read/write  **PjExceptionPosition**.
+Gets or sets the position of the exception in the month, for a monthly or yearly calendar exception. Read/write **PjExceptionPosition**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the position of the exception in the month, for a monthly or yearly
 
 ## Remarks
 
-The  **MonthPosition** property can be one of the following **[PjExceptionPosition](pjexceptionposition-enumeration-project.md)** constants: **pjFirst**, **pjSecond**, **pjThird**, **pjFourth**, **pjLast**. For example, if a monthly calendar exception is set for the second Wednesday every month, the value of **MonthPosition** is **pjSecond**.
+The **MonthPosition** property can be one of the following **[PjExceptionPosition](pjexceptionposition-enumeration-project.md)** constants: **pjFirst**, **pjSecond**, **pjThird**, **pjFourth**, **pjLast**. For example, if a monthly calendar exception is set for the second Wednesday every month, the value of **MonthPosition** is **pjSecond**.
 
 
 ## See also

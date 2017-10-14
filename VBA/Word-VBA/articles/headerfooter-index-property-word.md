@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.Index Property (Word)
 
-Returns a  **WdHeaderFooterIndex** that represents the specified header or footer in a document or section. Read-only.
+Returns a **WdHeaderFooterIndex** that represents the specified header or footer in a document or section. Read-only.
 
 
 ## Syntax

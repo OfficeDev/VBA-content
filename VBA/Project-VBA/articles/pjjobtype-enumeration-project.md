@@ -24,7 +24,7 @@ Contains constants that specify the type of job (save, publish, or check in) tha
 
 ## Remarks
 
-In the  **[Application.GetCacheStatusForProject](application-getcachestatusforproject-property-project.md)** property, the _ProjectJobType_ parameter can be one of the **PjJobType** constants.
+In the **[Application.GetCacheStatusForProject](application-getcachestatusforproject-property-project.md)** property, the _ProjectJobType_ parameter can be one of the **PjJobType** constants.
 
 
 ## See also

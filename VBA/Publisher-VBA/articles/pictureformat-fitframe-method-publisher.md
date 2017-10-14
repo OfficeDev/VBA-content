@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.FitFrame Method (Publisher)
 
-Fits the image represented by the  **PictureFormat** object to the frame of the picture. Returns nothing.
+Fits the image represented by the **PictureFormat** object to the frame of the picture. Returns nothing.
 
 
 ## Syntax

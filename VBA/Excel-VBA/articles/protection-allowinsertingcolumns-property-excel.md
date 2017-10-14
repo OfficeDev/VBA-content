@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowInsertingColumns Property (Excel)
 
-Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns  **True** if the insertion of columns is allowed on a protected workshee
 
 An inserted column inherits its formatting (by default) from the column to its left, which means that it may have locked cells. In other words, users may not be able to delete columns that they have inserted.
 
-The  **AllowInsertingColumns** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowInsertingColumns** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 
 ## Example

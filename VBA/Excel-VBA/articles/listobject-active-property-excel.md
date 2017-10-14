@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Because there is no  **Activate** method for the **ListObject** object, you can activate a **ListObject** object only by activating a cell range within the list.
+Because there is no **Activate** method for the **ListObject** object, you can activate a **ListObject** object only by activating a cell range within the list.
 
 
 ## Example
 
-The following example activates the list in the default  **ListObject** object in the first worksheet of the active workbook. Invoking the **Activate** method of the **[Range](range-object-excel.md)** object without cell parameters activates the entire range for the list.
+The following example activates the list in the default **ListObject** object in the first worksheet of the active workbook. Invoking the **Activate** method of the **[Range](range-object-excel.md)** object without cell parameters activates the entire range for the list.
 
 
 ```vb

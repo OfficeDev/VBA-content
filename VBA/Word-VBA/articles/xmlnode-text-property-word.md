@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.Text Property (Word)
 
-Returns or sets the text contained within the XML element. Read/write  **String** .
+Returns or sets the text contained within the XML element. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text contained within the XML element. Read/write  **String*
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text that is contained within the XML element. Setting this property, replaces the existing text.
+The **Text** property returns the plain, unformatted text that is contained within the XML element. Setting this property, replaces the existing text.
 
 
 ## See also

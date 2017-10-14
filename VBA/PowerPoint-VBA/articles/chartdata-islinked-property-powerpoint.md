@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Using the  **[BreakLink](chartdata-breaklink-method-powerpoint.md)** method to remove the link to an Excel workbook sets this property to **False**.
+Using the **[BreakLink](chartdata-breaklink-method-powerpoint.md)** method to remove the link to an Excel workbook sets this property to **False**.
 
 
 ## Example
@@ -35,7 +35,7 @@ Using the  **[BreakLink](chartdata-breaklink-method-powerpoint.md)** method to r
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the  **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](chartdata-activate-method-powerpoint.md)** method to display the embedded data for the chart.
+The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](chartdata-activate-method-powerpoint.md)** method to display the embedded data for the chart.
 
 
 

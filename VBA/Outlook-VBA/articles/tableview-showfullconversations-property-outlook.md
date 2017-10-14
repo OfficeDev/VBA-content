@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ShowFullConversations Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
+Returns or sets a **Boolean** value that indicates whether to display conversation items from other folders, such as the Sent Items folder, as part of the conversation in the table view. Read/write.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns or sets a  **Boolean** value that indicates whether to display conversat
 
 ## Remarks
 
-The  **ShowFullConversations** property takes effect only if the current table view displays items by date and conversation.
+The **ShowFullConversations** property takes effect only if the current table view displays items by date and conversation.
 
  **True** indicates that items of the same conversation are displayed by default as part of the conversation in the table view. **False** indicates that only conversation items in the current folder are displayed in the table view.
 
-The  **ShowFullConversations** property is analogous to selecting **Show Messages from Other Folders** in the **Conversations** menu of the **Arrangement** group on the **View** tab of the ribbon.
+The **ShowFullConversations** property is analogous to selecting **Show Messages from Other Folders** in the **Conversations** menu of the **Arrangement** group on the **View** tab of the ribbon.
 
 
 ## See also

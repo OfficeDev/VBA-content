@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Year.Shift1 Property (Project)
 
-Gets a  **[Shift](shift-object-project.md)** object representing the first work shift throughout a year. Read-only **Shift**.
+Gets a **[Shift](shift-object-project.md)** object representing the first work shift throughout a year. Read-only **Shift**.
 
 
 ## Syntax

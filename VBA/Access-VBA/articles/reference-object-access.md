@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Reference Object (Access)
 
-The  **Reference** object refers to a reference set to another application's or project's type library.
+The **Reference** object refers to a reference set to another application's or project's type library.
 
 
 ## Remarks
 
-When you create a  **Reference** object, you set a reference dynamically from Visual Basic.
+When you create a **Reference** object, you set a reference dynamically from Visual Basic.
 
-The  **Reference** object is a member of the **References** collection. To refer to a particular **Reference** object in the **References** collection, use any of the following syntax forms.
+The **Reference** object is a member of the **References** collection. To refer to a particular **Reference** object in the **References** collection, use any of the following syntax forms.
 
 
 
@@ -30,7 +30,7 @@ The  **Reference** object is a member of the **References** collection. To refer
 |**References** (" _referencename_")|The  _referencename_ argument is the name of the **Reference** object.|
 |**References** ( _index_)|The  _index_ argument is the object's numerical position within the collection.|
 
- **Note**  The following example refers to the  **Reference** object that represents the reference to the Microsoft Access type library:
+ **Note**  The following example refers to the **Reference** object that represents the reference to the Microsoft Access type library:
 
 
 

@@ -18,15 +18,15 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To retrieve a  **Documents** collection, use the **Documents** property of an **Application** object.
+To retrieve a **Documents** collection, use the **Documents** property of an **Application** object.
 
-The default property of a  **Documents** collection is **Item** .
+The default property of a **Documents** collection is **Item** .
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocuments.GetEnumerator()** (to enumerate the **Document** objects.)
+- **Microsoft.Office.Interop.Visio.IVDocuments.GetEnumerator()** (to enumerate the **Document** objects.)
     
--  **Microsoft.Office.Interop.Visio.IVDocuments** (to access the collection.)
+- **Microsoft.Office.Interop.Visio.IVDocuments** (to access the collection.)
     
 

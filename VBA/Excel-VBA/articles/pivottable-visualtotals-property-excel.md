@@ -25,14 +25,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect only the items that remain visible in the PivotTable. In an OLAP PivotTable, the total is computed on the server and is therefore unaffected by whether any items are hidden in the PivotTable view. However, if the  **VisualTotals** property is set to **False** for an OLAP PivotTable, then the results of the OLAP PivotTable will match those of the non-OLAP PivotTable.
+In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect only the items that remain visible in the PivotTable. In an OLAP PivotTable, the total is computed on the server and is therefore unaffected by whether any items are hidden in the PivotTable view. However, if the **VisualTotals** property is set to **False** for an OLAP PivotTable, then the results of the OLAP PivotTable will match those of the non-OLAP PivotTable.
 
-For OLAP PivotTables, a  **VisualTotals** property setting of **True** (default) works the same way as described for non-OLAP PivotTables.
+For OLAP PivotTables, a **VisualTotals** property setting of **True** (default) works the same way as described for non-OLAP PivotTables.
 
-The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False** .
+The **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False** .
 
 
- **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True** .
+ **Note**  All previously created PivotTables will have the **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True** .
 
 
 ## Example

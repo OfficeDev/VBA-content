@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.GetSpellingSuggestions Method (Word)
 
-Returns a  **[SpellingSuggestions](spellingsuggestions-object-word.md)** collection that represents the words suggested as spelling replacements for a given word.
+Returns a **[SpellingSuggestions](spellingsuggestions-object-word.md)** collection that represents the words suggested as spelling replacements for a given word.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Returns a  **[SpellingSuggestions](spellingsuggestions-object-word.md)** collect
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The word whose spelling is to be checked.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** to ignore words in all uppercase letters. If this argument is omitted, the current value of the **[IgnoreUppercase](options-ignoreuppercase-property-word.md)** property is used.|
-| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **[WdSpellingWordType](wdspellingwordtype-enumeration-word.md)** constants: **wdAnagram** , **wdSpellword** , or **wdWildcard** . The default value is **WdSpellword** .|
+| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following **[WdSpellingWordType](wdspellingwordtype-enumeration-word.md)** constants: **wdAnagram** , **wdSpellword** , or **wdWildcard** . The default value is **WdSpellword** .|
 
 ## Remarks
 
-If the word is spelled correctly, the  **Count** property of the **[SpellingSuggestions](spellingsuggestions-object-word.md)** object returns 0 (zero).
+If the word is spelled correctly, the **Count** property of the **[SpellingSuggestions](spellingsuggestions-object-word.md)** object returns 0 (zero).
 
 
 ## Example

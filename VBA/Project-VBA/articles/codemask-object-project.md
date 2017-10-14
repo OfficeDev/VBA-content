@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # CodeMask Object (Project)
 
-The  **CodeMask** object is a collection of **[CodeMaskLevel](codemasklevel-object-project.md)** objects that define the code mask for an outline code in Project.
+The **CodeMask** object is a collection of **[CodeMaskLevel](codemasklevel-object-project.md)** objects that define the code mask for an outline code in Project.
  
 
 

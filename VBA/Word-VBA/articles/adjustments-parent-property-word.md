@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Adjustments.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified object. This is usually a **Shape** or **ShapeRange** object.
+Returns an **Object** that represents the parent object of the specified object. This is usually a **Shape** or **ShapeRange** object.
 
 
 ## Syntax

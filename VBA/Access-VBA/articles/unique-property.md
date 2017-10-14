@@ -23,7 +23,7 @@ You can use the Unique property to specify that an index enforces uniqueness of 
 
 ## Setting
 
-The  **Unique** property uses the following settings.
+The **Unique** property uses the following settings.
 
 
 
@@ -34,14 +34,14 @@ The  **Unique** property uses the following settings.
 You can set this property in the Indexes window of table Design view or by using Visual Basic.
 
 
- **Note**  To access the  **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
+ **Note**  To access the **Unique** property of an index by using Visual Basic, use the ADO **Unique** property.
 
 
 ## Remarks
 
 A key index optimizes finding records. It consists of one or more fields that uniquely arrange all records in a table in a predefined order. If the index consists of one field, values in that field must be unique. If the index consists of more than one field, duplicate values can occur in each field, but each combination of values from all the indexed fields must be unique. A non-key index has fields with values that are not necessarily unique. 
 
-An index is the primary index for a table if its  **Primary** property is set to Yes. Each table can have only one primary index.
+An index is the primary index for a table if its **Primary** property is set to Yes. Each table can have only one primary index.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

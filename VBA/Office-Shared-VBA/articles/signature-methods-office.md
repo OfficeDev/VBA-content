@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](signature-delete-method-office.md)|Deletes the  **Signature** object from the collection.|
+|[Delete](signature-delete-method-office.md)|Deletes the **Signature** object from the collection.|
 |[ShowDetails](signature-showdetails-method-office.md)|Displays details related to a signature packet.|
 |[Sign](signature-sign-method-office.md)|Creates a signature packet.|
 

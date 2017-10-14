@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Styles Property (Excel)
 
-Returns a  **[Styles](styles-object-excel.md)** collection that represents all the styles in the specified workbook. Read-only.
+Returns a **[Styles](styles-object-excel.md)** collection that represents all the styles in the specified workbook. Read-only.
 
 
 ## Syntax

@@ -42,7 +42,7 @@ Shape
 
 You can add a guide only to a group shape.
 
-To view guides that you add to a group shape by using the  **AddGuide** method, use the **OpenDrawWindow** method to open the **Group Editing** window.
+To view guides that you add to a group shape by using the **AddGuide** method, use the **OpenDrawWindow** method to open the **Group Editing** window.
 
 The following constants declared by the Visio type library are valid values for guide types.
 

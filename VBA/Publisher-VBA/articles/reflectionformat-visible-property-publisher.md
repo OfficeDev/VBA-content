@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **ReflectionFormat** object.
+ _expression_A variable that represents a **ReflectionFormat** object.
 
 
 ## Return value

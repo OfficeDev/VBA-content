@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCErrors Object (Excel)
 
-A collection of  **[ODBCError](odbcerror-object-excel.md)** objects.
+A collection of **[ODBCError](odbcerror-object-excel.md)** objects.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of  **[ODBCError](odbcerror-object-excel.md)** objects.
 
 ## Example
 
-Use the  **[ODBCErrors](application-odbcerrors-property-excel.md)** property to return the **ODBCErrors** collection. The following example refreshes query table one and displays any ODBC errors that occur.
+Use the **[ODBCErrors](application-odbcerrors-property-excel.md)** property to return the **ODBCErrors** collection. The following example refreshes query table one and displays any ODBC errors that occur.
 
 
 ```vb

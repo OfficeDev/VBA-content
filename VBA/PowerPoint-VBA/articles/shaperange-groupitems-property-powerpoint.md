@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.GroupItems Property (PowerPoint)
 
-Returns a  **[GroupShapes](groupshapes-object-powerpoint.md)** object that represents the individual shapes in the specified group. Use the **Item** method of the **GroupShapes** object to return a single shape from the group. Read-only.
+Returns a **[GroupShapes](groupshapes-object-powerpoint.md)** object that represents the individual shapes in the specified group. Use the **Item** method of the **GroupShapes** object to return a single shape from the group. Read-only.
 
 
 ## Syntax

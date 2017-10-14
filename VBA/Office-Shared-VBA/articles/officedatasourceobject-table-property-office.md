@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.Table Property (Office)
 
-Gets a  **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
+Gets a **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.
 
 
 ## Syntax

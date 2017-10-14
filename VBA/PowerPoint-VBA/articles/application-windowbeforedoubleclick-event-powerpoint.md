@@ -34,7 +34,7 @@ Occurs when you double-click the items in the views listed in the following tabl
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 
 
@@ -43,12 +43,12 @@ For information about using events with the  **Application** object, see[How to:
 |Normal or slide view|Shape|
 |Slide sorter view|Slide|
 |Notes page view|Slide image|
-The default double-click action occurs after this event unless the Cancel argument is set to  **True**.
+The default double-click action occurs after this event unless the Cancel argument is set to **True**.
 
 
 ## Example
 
-In slide sorter view, the default double-click event for any slide is to change to slide view. In this example, if the active presentation is displayed in slide sorter view, the default action is preempted by the  **WindowBeforeDoubleClick** event. The event procedure changes the view to normal view and then cancels the change to slide view by setting the Cancel argument to **True**.
+In slide sorter view, the default double-click event for any slide is to change to slide view. In this example, if the active presentation is displayed in slide sorter view, the default action is preempted by the **WindowBeforeDoubleClick** event. The event procedure changes the view to normal view and then cancels the change to slide view by setting the Cancel argument to **True**.
 
 
 ```vb

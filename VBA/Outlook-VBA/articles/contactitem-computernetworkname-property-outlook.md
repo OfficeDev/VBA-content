@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ComputerNetworkName Property (Outlook)
 
-Returns or sets a  **String** representing the name of the computer network for the contact. Read/write.
+Returns or sets a **String** representing the name of the computer network for the contact. Read/write.
 
 
 ## Syntax

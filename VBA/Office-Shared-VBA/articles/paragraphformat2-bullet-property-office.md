@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat2.Bullet Property (Office)
 
-Gets a  **BulletFormat2** object for the paragraph. Read-only.
+Gets a **BulletFormat2** object for the paragraph. Read-only.
 
 
 ## Syntax

@@ -33,11 +33,11 @@ Cancels the selection of the specified Microsoft Outlook item in the active expl
 
 ## Remarks
 
-The selection in the active explore is represented by the  **[Selection](selection-object-outlook.md)** object returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property.
+The selection in the active explore is represented by the **[Selection](selection-object-outlook.md)** object returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property.
 
 To be removed from a selection, an item must be selectable in the current view of the active explorer. However, the item does not have to be visible in the view.
 
-Outlook will return an error when you call the  **RemoveFromSelection** method under the following conditions:
+Outlook will return an error when you call the **RemoveFromSelection** method under the following conditions:
 
 
 - The specified item is not in the current view of the active explorer.
@@ -48,7 +48,7 @@ Outlook will return an error when you call the  **RemoveFromSelection** method u
     
 - The specified item has not been saved.
     
-- The specified item represents a  **[StorageItem](storageitem-object-outlook.md)** .
+- The specified item represents a **[StorageItem](storageitem-object-outlook.md)** .
     
 - The current view is a conversation view.
     
@@ -56,11 +56,11 @@ Outlook will return an error when you call the  **RemoveFromSelection** method u
     
 
 
-If the specified item is selected, calling  **RemoveFromSelection** will cause the **[SelectionChange](explorer-selectionchange-event-outlook.md)** event to fire. If the item is not selected, calling **RemoveFromSelection** will not cause the **SelectionChange** event to fire.
+If the specified item is selected, calling **RemoveFromSelection** will cause the **[SelectionChange](explorer-selectionchange-event-outlook.md)** event to fire. If the item is not selected, calling **RemoveFromSelection** will not cause the **SelectionChange** event to fire.
 
-Calling  **RemoveFromSelection** does not scroll the view to make the specified item visible in the view and does not expand or collapse groups in the view.
+Calling **RemoveFromSelection** does not scroll the view to make the specified item visible in the view and does not expand or collapse groups in the view.
 
-The following table illustrates the results of calling  **RemoveFromSelection** , taking into consideration any current selection (the **[Selection.Count](selection-count-property-outlook.md)** property), whether the Reading Pane is displayed, and whether the specified item is displayed in the Reading Pane.
+The following table illustrates the results of calling **RemoveFromSelection** , taking into consideration any current selection (the **[Selection.Count](selection-count-property-outlook.md)** property), whether the Reading Pane is displayed, and whether the specified item is displayed in the Reading Pane.
 
 
 
@@ -73,9 +73,9 @@ The following table illustrates the results of calling  **RemoveFromSelection** 
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the next item or adjacent item in the selection.</p></li></ul>|
 |>=1|No|N/A|
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
-If the specified item exists in the current view but is not selected in that view, calling  **RemoveFromSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
+If the specified item exists in the current view but is not selected in that view, calling **RemoveFromSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
 
-When you specify an item in a recurring appointment or task as an argument to the  **RemoveFromSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences, using the **[IncludeRecurrences](items-includerecurrences-property-outlook.md)** property and the **[Items](items-object-outlook.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **RemoveFromSelection** method would be operating on the series instead of the occurrence.
+When you specify an item in a recurring appointment or task as an argument to the **RemoveFromSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences, using the **[IncludeRecurrences](items-includerecurrences-property-outlook.md)** property and the **[Items](items-object-outlook.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **RemoveFromSelection** method would be operating on the series instead of the occurrence.
 
 
 ## See also

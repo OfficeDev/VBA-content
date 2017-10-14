@@ -38,7 +38,7 @@ Options.PrintProperties = True
 ActiveDocument.PrintOut
 ```
 
-This example returns the current status of the  **Document properties** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the **Document properties** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

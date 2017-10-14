@@ -30,7 +30,7 @@ Returns or sets the type of border for data bars specified by a conditional form
 
 ## Example
 
-The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the  **[BarBorder](databar-barborder-property-excel.md)** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar color, tint, and type.
+The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the **[BarBorder](databar-barborder-property-excel.md)** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar color, tint, and type.
 
 
 ```vb

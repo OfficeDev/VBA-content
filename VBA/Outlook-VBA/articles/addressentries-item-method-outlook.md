@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntries.Item Method (Outlook)
 
-Returns an  **[AddressEntry](addressentry-object-outlook.md)** object from the collection.
+Returns an **[AddressEntry](addressentry-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[AddressEntry](addressentry-object-outlook.md)** object from the c
 
 ### Return Value
 
-An  **AddressEntry** object that represents the specified object.
+An **AddressEntry** object that represents the specified object.
 
 
 ## See also

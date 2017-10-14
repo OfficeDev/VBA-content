@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.FollowedHyperlinkColorEx Property (Project)
 
-Gets or sets the color used to denote followed hyperlinks. Read/write  **Long**.
+Gets or sets the color used to denote followed hyperlinks. Read/write **Long**.
 
 
 ## Syntax

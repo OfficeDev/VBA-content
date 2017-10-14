@@ -42,7 +42,7 @@ You can use the same properties and methods of the [MailItem](mailitem-object-ou
     
 - [MailItem.Send](mailitem-send-method-outlook.md) method
     
-This property returns  **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane.
+This property returns **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane.
 
 
 ## See also

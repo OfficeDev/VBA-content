@@ -8,15 +8,15 @@ ms.date: 06/08/2017
 
 # Send a Sharing Invitation for an RSS Feed
 
-Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the  **[SharingItem](sharingitem-object-outlook.md)** object. The **[CreateSharingItem](namespace-createsharingitem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests. Sharing responses are automatically created by Outlook when the **[Reply](sharingitem-reply-method-outlook.md)** or **[ReplyAll](sharingitem-replyall-method-outlook.md)** methods of a **SharingItem** that represents a sharing invitation or sharing request are called.
+Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the **[SharingItem](sharingitem-object-outlook.md)** object. The **[CreateSharingItem](namespace-createsharingitem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests. Sharing responses are automatically created by Outlook when the **[Reply](sharingitem-reply-method-outlook.md)** or **[ReplyAll](sharingitem-replyall-method-outlook.md)** methods of a **SharingItem** that represents a sharing invitation or sharing request are called.
 
-This sample uses the  **OpenSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](namespace-opensharedfolder-method-outlook.md)** method of the **NameSpace** object or the **[OpenSharedFolder](sharingitem-opensharedfolder-method-outlook.md)** method of the **SharingItem** object to open the RSS feed.
+This sample uses the **OpenSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](namespace-opensharedfolder-method-outlook.md)** method of the **NameSpace** object or the **[OpenSharedFolder](sharingitem-opensharedfolder-method-outlook.md)** method of the **SharingItem** object to open the RSS feed.
 
-1. The sample first creates a  **NameSpace** object reference to the MAPI namespace.
+1. The sample first creates a **NameSpace** object reference to the MAPI namespace.
     
-2. It then uses the  **CreateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
+2. It then uses the **CreateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
     
-3. Finally, the  **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](sharingitem-send-method-outlook.md)** method is used to send the **SharingItem**.
+3. Finally, the **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](sharingitem-send-method-outlook.md)** method is used to send the **SharingItem**.
     
 
 

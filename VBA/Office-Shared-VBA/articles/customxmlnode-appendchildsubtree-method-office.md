@@ -33,7 +33,7 @@ Adds a subtree as the last child under the context element node in the tree.
 
 ## Remarks
 
-If the context node is any type other than  **msoXMLNodeElement**, the append operation is not performed and an error message is displayed. If the CustomXMLNode is being validated against a schema and if the operation would result in an invalid tree structure, the append operation is not performed and an error message is displayed.
+If the context node is any type other than **msoXMLNodeElement**, the append operation is not performed and an error message is displayed. If the CustomXMLNode is being validated against a schema and if the operation would result in an invalid tree structure, the append operation is not performed and an error message is displayed.
 
 
 ## Example

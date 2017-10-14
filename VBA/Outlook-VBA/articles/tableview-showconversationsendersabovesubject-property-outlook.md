@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ShowConversationSendersAboveSubject Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the table view displays the participating senders above the subject line in the conversation header, or below it. Read/write.
+Returns or sets a **Boolean** value that indicates whether the table view displays the participating senders above the subject line in the conversation header, or below it. Read/write.
 
 
 ## Syntax

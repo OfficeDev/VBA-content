@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.OverAllocatedAssignments Property (Project)
 
-Gets overallocated assignments for a task start driver. Read-only  **OverAllocatedAssignments**.
+Gets overallocated assignments for a task start driver. Read-only **OverAllocatedAssignments**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Gets overallocated assignments for a task start driver. Read-only  **OverAllocat
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _overallocationType_|Required|**PjOverallocationType**|Can be one of the  **[PjOverallocationType](pjoverallocationtype-enumeration-project.md)** constants, which determines the type of overallocation.|
+| _overallocationType_|Required|**PjOverallocationType**|Can be one of the **[PjOverallocationType](pjoverallocationtype-enumeration-project.md)** constants, which determines the type of overallocation.|
 
 ## Remarks
 

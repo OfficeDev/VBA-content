@@ -29,8 +29,8 @@ Establishes automatic field-sorting rules for PivotTable reports.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Order_|Required| **Long**|One of the constants of  **[XlSortOrder](xlsortorder-enumeration-excel.md)** specifying the sort order.|
-| _Field_|Required| **String**|The name of the sort key field. You must specify the unique name (as returned from the  **[SourceName](pivotfield-sourcename-property-excel.md)** property), and not the displayed name.|
+| _Order_|Required| **Long**|One of the constants of **[XlSortOrder](xlsortorder-enumeration-excel.md)** specifying the sort order.|
+| _Field_|Required| **String**|The name of the sort key field. You must specify the unique name (as returned from the **[SourceName](pivotfield-sourcename-property-excel.md)** property), and not the displayed name.|
 | _PivotLine_|Optional| **Variant**|A line on a column or row in a PivotTable report.|
 | _CustomSubtotal_|Optional| **Variant**|The custom subtotal field.|
 

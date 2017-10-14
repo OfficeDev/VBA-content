@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.IsConnected Property (Excel)
 
-Returns  **True** if the **MaintainConnection** property is **True** and the PivotTable cache is currently connected to its source. Returns **False** if it is not currently connected to its source. Read-only **Boolean** .
+Returns **True** if the **MaintainConnection** property is **True** and the PivotTable cache is currently connected to its source. Returns **False** if it is not currently connected to its source. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the **MaintainConnection** property is **True** and the Piv
 
 ## Remarks
 
-The  **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True** , sending commands to the provider could result in an error if the connection is no longer valid.
+The **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True** , sending commands to the provider could result in an error if the connection is no longer valid.
 
 Requires that the cache source type is external and that it is an OLE DB data source.
 

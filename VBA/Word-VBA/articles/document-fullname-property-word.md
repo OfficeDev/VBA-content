@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FullName Property (Word)
 
-Returns a  **String** that represents the name of a document, including the path. Read-only.
+Returns a **String** that represents the name of a document, including the path. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the name of a document, including the path
 
 ## Remarks
 
-Using this property is equivalent to using the  **Path** , **PathSeparator** , and **Name** properties in sequence.
+Using this property is equivalent to using the **Path** , **PathSeparator** , and **Name** properties in sequence.
 
 
 ## Example

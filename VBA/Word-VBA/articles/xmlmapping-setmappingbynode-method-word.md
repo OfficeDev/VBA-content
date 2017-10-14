@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.SetMappingByNode Method (Word)
 
-Allows creating or changing the XML data mapping on a content control. Returns  **True** if Microsoft Word maps the content control to a custom XML node in the document?s custom XML data store.
+Allows creating or changing the XML data mapping on a content control. Returns **True** if Microsoft Word maps the content control to a custom XML node in the document's custom XML data store.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-If the XML mapping already exists, then Word replaces the existing XML mapping, and the contents of the new mapped XML node replaces the text of the content control. See also the  **[SetMapping](xmlmapping-setmapping-method-word.md)** method.
+If the XML mapping already exists, then Word replaces the existing XML mapping, and the contents of the new mapped XML node replaces the text of the content control. See also the **[SetMapping](xmlmapping-setmapping-method-word.md)** method.
 
 
  **Note**  Creating a mapping for a rich-text content control causes a run-time error.

@@ -32,8 +32,8 @@ Applies error bars to the series.
 | _Direction_|Required| **[XlErrorBarDirection](xlerrorbardirection-enumeration-word.md)**|One of the enumeration values that specifies the error bar direction.|
 | _Include_|Required| **[XlErrorBarInclude](xlerrorbarinclude-enumeration-word.md)**|One of the enumeration values that specifies the error bar parts to include.|
 | _Type_|Required| **[XlErrorBarType](xlerrorbartype-enumeration-word.md)**|One of the enumeration values that specifies the error bar type.|
-| _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when Type is  **xlErrorBarTypeCustom** .|
-| _MinusValues_|Optional| **Variant**|The negative error amount when Type is  **xlErrorBarTypeCustom** .|
+| _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when Type is **xlErrorBarTypeCustom** .|
+| _MinusValues_|Optional| **Variant**|The negative error amount when Type is **xlErrorBarTypeCustom** .|
 
 ## Example
 

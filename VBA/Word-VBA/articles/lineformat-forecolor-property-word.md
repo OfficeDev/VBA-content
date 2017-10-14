@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.ForeColor Property (Word)
 
-Returns or sets a  **[ColorFormat](colorformat-object-word.md)** object that represents the foreground color for the line. Read/write.
+Returns or sets a **[ColorFormat](colorformat-object-word.md)** object that represents the foreground color for the line. Read/write.
 
 
 ## Syntax

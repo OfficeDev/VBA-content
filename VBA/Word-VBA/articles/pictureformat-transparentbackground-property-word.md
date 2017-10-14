@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **Visible** property of the picture's **FillFormat** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the **Visible** property of the picture's **FillFormat** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
 
 
 ## Example
 
-This example sets the color returned by the  **RGB** function as the transparent color for shape one in the active document. For the example to work, shape one must be a bitmap.
+This example sets the color returned by the **RGB** function as the transparent color for shape one in the active document. For the example to work, shape one must be a bitmap.
 
 
 ```vb

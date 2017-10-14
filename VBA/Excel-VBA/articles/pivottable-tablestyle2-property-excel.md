@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.TableStyle2 Property (Excel)
 
-The  **TableStyle2** property specifies the PivotTable style currently applied to the PivotTable. Read/write.
+The **TableStyle2** property specifies the PivotTable style currently applied to the PivotTable. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **TableStyle2** property specifies the PivotTable style currently applied t
 
 ## Remarks
 
-The property is called TableStyle2 because there is an exisiting property named  **TableStyle** .
+The property is called TableStyle2 because there is an exisiting property named **TableStyle** .
 
 
 ## Example

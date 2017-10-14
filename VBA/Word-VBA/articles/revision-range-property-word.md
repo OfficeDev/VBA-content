@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained within a revision mark.
+Returns a **Range** object that represents the portion of a document that's contained within a revision mark.
 
 
 ## Syntax

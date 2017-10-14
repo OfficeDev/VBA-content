@@ -45,7 +45,7 @@ Application.Run "'My Document.doc'!ThisModule.ThisProcedure"
 
 If you specify the document name, your code can only run macros in documents related to the current context ? not just any macro in any document.
 
-Although Visual Basic code can call a macro directly (without using the  **Run** method), this method is useful when the macro name is stored in a variable. (For more information, see the example for this topic). The following three statements are functionally equivalent. The first two statements require a reference to Normal.dot, the project in which the called macro resides; the third statement, which uses the **Run** method, does not require a reference to the Normal.dot project.
+Although Visual Basic code can call a macro directly (without using the **Run** method), this method is useful when the macro name is stored in a variable. (For more information, see the example for this topic). The following three statements are functionally equivalent. The first two statements require a reference to Normal.dot, the project in which the called macro resides; the third statement, which uses the **Run** method, does not require a reference to the Normal.dot project.
 
 
 

@@ -33,7 +33,7 @@ Options.AutoFormatReplaceSymbols = True
 Selection.Range.AutoFormat
 ```
 
-This example returns the status of the Symbol characters (--) with symbols (—) option on the  **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the Symbol characters (--) with symbols (—) option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

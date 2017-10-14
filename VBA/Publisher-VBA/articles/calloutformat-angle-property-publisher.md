@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Angle Property (Publisher)
 
-Returns or sets an  **MsoCalloutAngleType** constant that represents the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write.
+Returns or sets an **MsoCalloutAngleType** constant that represents the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write.
 
 
 ## Syntax
 
  _expression_. **Angle**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ## Remarks
 
-If you set the value of this property to anything other than  **msoCalloutAngleAutomatic**, the callout line maintains a fixed angle as you drag the callout.
+If you set the value of this property to anything other than **msoCalloutAngleAutomatic**, the callout line maintains a fixed angle as you drag the callout.
 
 
 

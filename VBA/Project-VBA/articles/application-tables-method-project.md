@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Tables Method (Project)
 
-Displays the  **More Tables** dialog box, which prompts the user to manage tables.
+Displays the **More Tables** dialog box, which prompts the user to manage tables.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **More Tables** dialog box, which prompts the user to manage table
 
 ## Remarks
 
-The  **Tables** method has the same effect as the **More Tables** command on the **Tables** drop-down menu on the **View** tab of the Ribbon.
+The **Tables** method has the same effect as the **More Tables** command on the **Tables** drop-down menu on the **View** tab of the Ribbon.
 
 

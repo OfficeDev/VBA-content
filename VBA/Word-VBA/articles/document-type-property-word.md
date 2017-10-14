@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Type Property (Word)
 
-Returns the document type (template or document). Read-only  **[WdDocumentType](wddocumenttype-enumeration-word.md)** .
+Returns the document type (template or document). Read-only **[WdDocumentType](wddocumenttype-enumeration-word.md)** .
 
 
 ## Syntax

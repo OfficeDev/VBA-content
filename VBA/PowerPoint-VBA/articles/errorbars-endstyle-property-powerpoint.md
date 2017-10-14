@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.EndStyle Property (PowerPoint)
 
-Returns or sets the end style for the error bars. Read/write  **Long**.
+Returns or sets the end style for the error bars. Read/write **Long**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the end style for the error bars. Read/write  **Long**.
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlEndStyleCap](xlendstylecap-enumeration-powerpoint.md)** constants:
+The value of this property can be one of the following **[XlEndStyleCap](xlendstylecap-enumeration-powerpoint.md)** constants:
 
 
--  **xlCap**
+- **xlCap**
     
--  **xlNoCap**
+- **xlNoCap**
     
 
 

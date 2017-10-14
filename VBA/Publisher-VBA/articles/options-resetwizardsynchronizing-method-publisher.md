@@ -20,7 +20,7 @@ Resets the data that Microsoft Publisher uses to automatically change similar ob
 
  _expression_. **ResetWizardSynchronizing**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_A variable that represents an **Options** object.
 
 
 ## Remarks

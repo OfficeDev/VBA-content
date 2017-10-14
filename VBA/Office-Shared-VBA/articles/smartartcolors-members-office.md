@@ -18,7 +18,7 @@ A collection of SmartArt color styles.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](smartartcolors-item-method-office.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
+|[Item](smartartcolors-item-method-office.md)|Retrieves a **SmartArtColor** object at the specified index or with the specified unique Id.|
 
 ## Properties
 
@@ -26,8 +26,8 @@ A collection of SmartArt color styles.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](smartartcolors-application-property-office.md)|Gets an  **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
-|[Count](smartartcolors-count-property-office.md)|Retrieves the count of the number of  **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|
-|[Creator](smartartcolors-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtColors** object was created. Read-only|
+|[Application](smartartcolors-application-property-office.md)|Gets an **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
+|[Count](smartartcolors-count-property-office.md)|Retrieves the count of the number of **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|
+|[Creator](smartartcolors-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtColors** object was created. Read-only|
 |[Parent](smartartcolors-parent-property-office.md)|Returns the calling object. Read-only|
 

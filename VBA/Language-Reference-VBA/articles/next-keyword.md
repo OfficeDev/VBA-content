@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Next <keyword>
 
-The  **Next** keyword is used in these contexts:
+The **Next** keyword is used in these contexts:
 
 [For...Next Statement](fornext-statement.md)
 

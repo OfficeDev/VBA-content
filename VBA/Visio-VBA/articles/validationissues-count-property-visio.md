@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssues.Count Property (Visio)
 
-Returns the number of  **[ValidationIssue](validationissue-object-visio.md)** objects in the collection. Read-only.
+Returns the number of **[ValidationIssue](validationissue-object-visio.md)** objects in the collection. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns the number of  **[ValidationIssue](validationissue-object-visio.md)** ob
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Count** method to determine how many validation issues exist in the collection of validation issues in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Count** method to determine how many validation issues exist in the collection of validation issues in the active document.
 
 
 ```vb

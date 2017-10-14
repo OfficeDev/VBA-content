@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LinksBetweenProjects Method (Project)
 
-Specifies whether the  **Links between Projects** dialog box appears when opening a project containing cross-project links.
+Specifies whether the **Links between Projects** dialog box appears when opening a project containing cross-project links.
 
 
 ## Syntax

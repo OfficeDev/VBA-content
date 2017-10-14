@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Sections Property (Word)
 
-Returns a  **[Section](section-object-word.md)** collection that represents the sections in the specified document. Read-only.
+Returns a **[Section](section-object-word.md)** collection that represents the sections in the specified document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Delete Method (PowerPoint)
 
-Deletes the specified  **Row** object.
+Deletes the specified **Row** object.
 
 
 ## Syntax

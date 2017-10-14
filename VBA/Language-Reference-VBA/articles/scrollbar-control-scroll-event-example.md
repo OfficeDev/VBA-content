@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # ScrollBar Control, Scroll Event Example
 
-The following example demonstrates the stand-alone  **ScrollBar** and reports the change in its value as the user moves the scroll box. The user can move the scroll box by clicking on either arrow at the ends of the control, by clicking in the region between scroll box and either arrow, or by dragging the scroll box. When the user drags the scroll box, the Scroll event displays a message indicating that the user scrolled to obtain the new value.
+The following example demonstrates the stand-alone **ScrollBar** and reports the change in its value as the user moves the scroll box. The user can move the scroll box by clicking on either arrow at the ends of the control, by clicking in the region between scroll box and either arrow, or by dragging the scroll box. When the user drags the scroll box, the Scroll event displays a message indicating that the user scrolled to obtain the new value.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ScrollBar** named ScrollBar1.
+- A **ScrollBar** named ScrollBar1.
     
-- Two  **Label** controls named Label1 and Label2. Label1 contains scaling information for the user. Label2 reports the delta value.
+- Two **Label** controls named Label1 and Label2. Label1 contains scaling information for the user. Label2 reports the delta value.
     
 
 

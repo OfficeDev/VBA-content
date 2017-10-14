@@ -19,12 +19,12 @@ ms.date: 06/08/2017
 Moves one or more folders from one location to another.
  **Syntax**
  _object_. **MoveFolder**_source_, _destination_
-The  **MoveFolder** method syntax has these parts:
+The **MoveFolder** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
+| _object_|Required. Always the name of a **FileSystemObject**.|
 | _source_|Required. The path to the folder or folders to be moved. The  _source_ argument string can contain wildcard characters in the last path component only.|
 | _destination_|Required. The path where the folder or folders are to be moved. The  _destination_ argument can't contain wildcard characters.|
  **Remarks**

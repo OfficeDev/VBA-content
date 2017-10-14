@@ -32,7 +32,7 @@ This example sets Word to automatically create styles as you type.
 Options.AutoFormatAsYouTypeDefineStyles = True
 ```
 
-This example returns the status of the  **Define styles based on your formatting** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Define styles based on your formatting** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Version Property (Word)
 
-Returns the Microsoft Word version number. Read-only  **String** .
+Returns the Microsoft Word version number. Read-only **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.HorizontalDistanceFromText Property (Word)
 
-Returns or sets the horizontal distance between a frame and the surrounding text, in points. Read/write  **Single** .
+Returns or sets the horizontal distance between a frame and the surrounding text, in points. Read/write **Single** .
 
 
 ## Syntax

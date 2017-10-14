@@ -30,11 +30,11 @@ Occurs when a user presses a key.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|The numerical value of the key pressed.|
-| _Shift_|Required| **Integer**|A bitwise-OR mask of constants in the  **[OlShiftState](olshiftstate-enumeration-outlook.md)** enumeration that specifies whether the **SHIFT**,  **CTRL**, or  **ALT** keys have been pressed.|
+| _Shift_|Required| **Integer**|A bitwise-OR mask of constants in the **[OlShiftState](olshiftstate-enumeration-outlook.md)** enumeration that specifies whether the **SHIFT**, **CTRL**, or **ALT** keys have been pressed.|
 
 ## Remarks
 
-The state of the modifier keys ( **SHIFT**,  **CTRL**, or  **ALT**) that are pressed during the  **KeyDown** event is accessible through the _Shift_ parameter.
+The state of the modifier keys ( **SHIFT**, **CTRL**, or **ALT**) that are pressed during the **KeyDown** event is accessible through the _Shift_ parameter.
 
 
 ## See also

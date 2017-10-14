@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 Visual Basic for Applications defines [constants](vbe-glossary.md) for exclusive use with the **#If...Then...#Else** directive. These constants are functionally equivalent to constants defined with the **#If...Then...#Else** directive except that they are global in[scope](vbe-glossary.md); that is, they apply everywhere in a [project](vbe-glossary.md).
 
 
- **Note**  Because  **Win32** returns true in both 32-bit and 64-bit development platforms it is important that the order within the **#If...Then...#Else** directive returns the desired results in your code. For example, because **Win32** returns True in 64-bit ( **Win32** is compatible in **Win64** environments) checking for **Win32** before **Win64** results in the **Win64** condition never running because **Win32** returns True. The following order returns predictable results:
+ **Note**  Because **Win32** returns true in both 32-bit and 64-bit development platforms it is important that the order within the **#If...Then...#Else** directive returns the desired results in your code. For example, because **Win32** returns True in 64-bit ( **Win32** is compatible in **Win64** environments) checking for **Win32** before **Win64** results in the **Win64** condition never running because **Win32** returns True. The following order returns predictable results:
 
 
 ```vb

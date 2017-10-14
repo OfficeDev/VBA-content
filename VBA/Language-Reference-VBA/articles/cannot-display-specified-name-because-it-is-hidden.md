@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 Some names exist in a type library, but are marked as hidden. This error has the following causes and solutions:
 
 
-- You specified a name that is in the type library, but it is marked as hidden. You cannot normally view hidden type library members. Choose  **Show** **Hidden** **Members** on the object browser context menu to make hidden members visible. You can then view the member information.
+- You specified a name that is in the type library, but it is marked as hidden. You cannot normally view hidden type library members. Choose **Show** **Hidden** **Members** on the object browser context menu to make hidden members visible. You can then view the member information.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MonthNames Property (Word)
 
-Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMonthNames** .
+Returns or sets the direction for conversion between Hangul and Hanja. Read/write **WdMonthNames** .
 
 
 ## Syntax

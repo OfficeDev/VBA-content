@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.FullNameURLEncoded Property (Excel)
 
-Returns a  **String** indicating the name of the object, including its path on disk, as a string. Read-only.
+Returns a **String** indicating the name of the object, including its path on disk, as a string. Read-only.
 
 
 ## Syntax

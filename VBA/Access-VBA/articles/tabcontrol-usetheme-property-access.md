@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.UseTheme Property (Access)
 
-Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write  **Boolean**.
+Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether the specified object will utilize formatting styles defined
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
 ## See also

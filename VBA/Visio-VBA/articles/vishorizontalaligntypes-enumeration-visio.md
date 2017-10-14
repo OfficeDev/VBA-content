@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisHorizontalAlignTypes Enumeration (Visio)
 
-Specifies horizontal alignment type values to pass to the  **[Selection.Align](selection-align-method-visio.md)** method.
+Specifies horizontal alignment type values to pass to the **[Selection.Align](selection-align-method-visio.md)** method.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 When working with records you will often need to restrict your data to a specific set of records. Some procedures take a  _criteria_ argument that enables you to specify what data should be returned. For example, you specify the _criteria_ argument to restrict which records are returned when you use domain aggregate functions . You may also specify criteria when you use the Find method of a **Recordset** object, set the **Filter** or **ServerFilter** property of a form, or construct a[SQL Statement](build-sql-statements-that-include-variables-and-controls.md). Although each of these operations involves a different syntax, you construct the criteria expression in a similar manner for each.
 
-For example, you can use the  **DSum** function, a domain aggregate function, to find the sum total of all freight costs in the Orders table. You could create a calculated control by entering the following expression in the **ControlSource** property:
+For example, you can use the **DSum** function, a domain aggregate function, to find the sum total of all freight costs in the Orders table. You could create a calculated control by entering the following expression in the **ControlSource** property:
 
 
 

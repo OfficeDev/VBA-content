@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.BaseName Property (Word)
 
-Returns a  **String** that represents the name of the element without any prefix.
+Returns a **String** that represents the name of the element without any prefix.
 
 
 ## Syntax

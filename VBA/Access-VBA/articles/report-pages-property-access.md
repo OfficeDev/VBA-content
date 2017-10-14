@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Pages Property (Access)
 
-You can use the  **Pages** property to return information needed to print page numbers in a report. Read/write **Integer**.
+You can use the **Pages** property to return information needed to print page numbers in a report. Read/write **Integer**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ You can use the  **Pages** property to return information needed to print page n
 
 This property is only available in Print Preview or when printing.
 
-To refer to the  **Pages** property in a macro or Visual Basic, the form or report must include a text box whose **ControlSource** property is set to an expression that uses **Pages**. For example, you can use the following expressions as the **ControlSource** property setting for a text box in a page footer.
+To refer to the **Pages** property in a macro or Visual Basic, the form or report must include a text box whose **ControlSource** property is set to an expression that uses **Pages**. For example, you can use the following expressions as the **ControlSource** property setting for a text box in a page footer.
 
 
 
@@ -39,7 +39,7 @@ To refer to the  **Pages** property in a macro or Visual Basic, the form or repo
 
 ## Example
 
-The following example displays a message that tells how many pages the report contains. For this example to work, the report must include a text box for which the  **ControlSource** property is set to the expression `=Pages`. To test this example, paste the following code into the Page Event for the Alphabetical List of Products form.
+The following example displays a message that tells how many pages the report contains. For this example to work, the report must include a text box for which the **ControlSource** property is set to the expression `=Pages`. To test this example, paste the following code into the Page Event for the Alphabetical List of Products form.
 
 
 ```vb

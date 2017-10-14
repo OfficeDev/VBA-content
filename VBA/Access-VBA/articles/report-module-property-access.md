@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Module Property (Access)
 
-You can use the  **Module** property to specify a report module. Read-only **Module** object.
+You can use the **Module** property to specify a report module. Read-only **Module** object.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ You can use the  **Module** property to specify a report module. Read-only **Mod
 
 ## Remarks
 
-The  **Module** property also returns a reference to a specified **Module** object.
+The **Module** property also returns a reference to a specified **Module** object.
 
-Use the  **Module** property to access the properties and methods of a **Module** object associated with a **Form** or **Report** object.
+Use the **Module** property to access the properties and methods of a **Module** object associated with a **Form** or **Report** object.
 
-The setting of the  **HasModule** property of a form or report determines whether it has an associated module. If the **HasModule** property is **False**, the form or report does not have an associated module. When you refer to the **Module** property of that form or report while in design view, Microsoft Access creates the associated module and sets the **HasModule** property to **True**. If you refer to the **Module** property of a form or report at run-time and the object has its **HasModule** property set to **False**, an error will occur.
+The setting of the **HasModule** property of a form or report determines whether it has an associated module. If the **HasModule** property is **False**, the form or report does not have an associated module. When you refer to the **Module** property of that form or report while in design view, Microsoft Access creates the associated module and sets the **HasModule** property to **True**. If you refer to the **Module** property of a form or report at run-time and the object has its **HasModule** property set to **False**, an error will occur.
 
 You could use this property with any of the properties and methods of the module object.
 
 
 ## Example
 
-The following example uses the  **Module** property to insert the **Beep** method in a form's Open event.
+The following example uses the **Module** property to insert the **Beep** method in a form's Open event.
 
 
 ```vb

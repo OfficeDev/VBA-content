@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveFormat Property (Word)
 
-Returns the file format of the specified document or file converter. Read-only  **Long** .
+Returns the file format of the specified document or file converter. Read-only **Long** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the file format of the specified document or file converter. Read-only  
 
 ## Remarks
 
-The  **SaveFormat** property will be a unique number that specifies an external file converter or a **WdSaveFormat** constant.
+The **SaveFormat** property will be a unique number that specifies an external file converter or a **WdSaveFormat** constant.
 
-Use the value of the  **SaveFormat** property for the _FileFormat_ argument of the **[SaveAs2](document-saveas2-method-word.md)** method to save a document in a file format for which there isn't a corresponding **WdSaveFormat** constant.
+Use the value of the **SaveFormat** property for the _FileFormat_ argument of the **[SaveAs2](document-saveas2-method-word.md)** method to save a document in a file format for which there isn't a corresponding **WdSaveFormat** constant.
 
 
 ## Example

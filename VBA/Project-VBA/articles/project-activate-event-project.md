@@ -30,7 +30,7 @@ Occurs when switching to the project from another project, including when the pr
 
 ## Remarks
 
-When you switch between two windows showing the same project, the  **Activate** event for the project doesn't occur.
+When you switch between two windows showing the same project, the **Activate** event for the project doesn't occur.
 
 This event doesn't occur when you create a new window. 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comments.Add Method (Word)
 
-Returns a  **Comment** object that represents a comment added to a range.
+Returns a **Comment** object that represents a comment added to a range.
 
 
 ## Syntax

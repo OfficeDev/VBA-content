@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientName Property (Word)
 
-Returns or sets the name of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the name of the person who'll be receiving the letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax

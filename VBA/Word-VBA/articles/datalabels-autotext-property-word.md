@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the value of this property sets the  **[AutoText](datalabel-autotext-property-word.md)** property of all **[DataLabel](datalabel-object-word.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True** ; otherwise, this property returns **False** .
+Setting the value of this property sets the **[AutoText](datalabel-autotext-property-word.md)** property of all **[DataLabel](datalabel-object-word.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True** ; otherwise, this property returns **False** .
 
 
 ## Example

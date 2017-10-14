@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DoCmd Property (Access)
 
-You can use the  **DoCmd** property to access the read-only **[DoCmd](docmd-object-access.md)** object and its related methods. Read-only **DoCmd**.
+You can use the **DoCmd** property to access the read-only **[DoCmd](docmd-object-access.md)** object and its related methods. Read-only **DoCmd**.
 
 
 ## Syntax

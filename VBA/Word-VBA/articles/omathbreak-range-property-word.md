@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreak.Range Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
+Returns a **[Range](range-object-word.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
 
 
 ## Syntax

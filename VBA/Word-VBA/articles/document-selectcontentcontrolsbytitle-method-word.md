@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SelectContentControlsByTitle Method (Word)
 
-Returns a  **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document with the title specified in the Title parameter. Read-only.
+Returns a **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document with the title specified in the Title parameter. Read-only.
 
 
 ## Syntax

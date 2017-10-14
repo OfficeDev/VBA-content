@@ -10,17 +10,17 @@ ms.date: 06/08/2017
 
 # RulerLevels2 Object (Office)
 
-A collection of all the  **RulerLevel2** objects on the specified ruler.
+A collection of all the **RulerLevel2** objects on the specified ruler.
 
 
 ## Remarks
 
-Each  **RulerLevel2** object represents the first-line and left indent for text at a particular outline level. This collection always contains five members — one for each of the available outline levels.
+Each **RulerLevel2** object represents the first-line and left indent for text at a particular outline level. This collection always contains five members — one for each of the available outline levels.
 
 
 ## Example
 
-Use the  **Levels** property to return the RulerLevels2 collection. The following example sets the margins for the five outline levels in body text in the active presentation.
+Use the **Levels** property to return the RulerLevels2 collection. The following example sets the margins for the five outline levels in body text in the active presentation.
 
 
 ```

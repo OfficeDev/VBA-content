@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.ShowOnlyRowSourceValues Property (Access)
 
-Gets or sets whether the combo box can display values that aren't specified by the  **RowSource** property. Read/write **Boolean**.
+Gets or sets whether the combo box can display values that aren't specified by the **RowSource** property. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ColumnDifferences Method (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents all the cells whose contents are different from the comparison cell in each column.
+Returns a **[Range](range-object-excel.md)** object that represents all the cells whose contents are different from the comparison cell in each column.
 
 
 ## Syntax

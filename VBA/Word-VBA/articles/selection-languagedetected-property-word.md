@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.LanguageDetected Property (Word)
 
-Returns or sets a  **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
+Returns or sets a **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Boolean** that specifies whether Microsoft Word has detecte
 
 ## Remarks
 
-Check the  **LanguageID** property for the results of any previous language detection.
+Check the **LanguageID** property for the results of any previous language detection.
 
-The  **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False** .
+The **LanguageDetected** property is set to **True** when the **DetectLanguage** method is called. To reevaluate the language of the specified text, you must first set the **LanguageDetected** property to **False** .
 
 
 ## Example

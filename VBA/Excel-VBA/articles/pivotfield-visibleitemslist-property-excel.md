@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.VisibleItemsList Property (Excel)
 
-Returns or sets a  **Variant** specifying an array of strings that represent included items in a manual filter applied to a PivotField. Read/write.
+Returns or sets a **Variant** specifying an array of strings that represent included items in a manual filter applied to a PivotField. Read/write.
 
 
 ## Syntax

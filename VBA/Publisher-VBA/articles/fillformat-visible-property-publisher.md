@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # FillFormat.Visible Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
+Returns or sets an **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 
 ## Syntax
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Remarks
 
-The  **Visible** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **Visible** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

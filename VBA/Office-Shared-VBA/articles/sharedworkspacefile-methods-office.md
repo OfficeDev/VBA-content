@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](sharedworkspacefile-delete-method-office.md)|Deletes the current  **SharedWorkspaceFile** object.|
+|[Delete](sharedworkspacefile-delete-method-office.md)|Deletes the current **SharedWorkspaceFile** object.|
 

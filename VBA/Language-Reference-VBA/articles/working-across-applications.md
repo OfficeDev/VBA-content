@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Visual Basic can create new [objects](vbe-glossary.md) and retrieve existing objects from many Microsoft applications. Other applications may also provide objects that you can create using Visual Basic. See the application's documentation for more information.
 
-To create an new object or get an existing object from another application, use the  **CreateObject** function or **GetObject** function:
+To create an new object or get an existing object from another application, use the **CreateObject** function or **GetObject** function:
 
 
 
@@ -29,8 +29,8 @@ Set WordBasic = CreateObject("Word.Basic")
 
 ```
 
-Most applications provide an  **Exit** or **Quit** method that closes the application whether or not it is visible. For more information on the objects, methods, and properties an application provides, see the application's documentation.
-Some applications allow you to use the  **New**[keyword](vbe-glossary.md) to create an object of any class that exists in its[type library](vbe-glossary.md). For example:
+Most applications provide an **Exit** or **Quit** method that closes the application whether or not it is visible. For more information on the objects, methods, and properties an application provides, see the application's documentation.
+Some applications allow you to use the **New**[keyword](vbe-glossary.md) to create an object of any class that exists in its[type library](vbe-glossary.md). For example:
 
 
 

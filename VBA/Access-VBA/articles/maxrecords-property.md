@@ -27,18 +27,18 @@ Specifies the maximum number of records that will be returned by:
 
 ## Setting
 
-The  **MaxRecords** property setting is a Long Integer value representing the number of records that will be returned.
+The **MaxRecords** property setting is a Long Integer value representing the number of records that will be returned.
 
 In a Microsoft Access database, you can set this property by using the query's property sheet or Visual Basic .
 
 
 ## Remarks
 
-When you set this property in Visual Basic you use the ADO  **MaxRecords** property.
+When you set this property in Visual Basic you use the ADO **MaxRecords** property.
 
 Records are returned in the order specified by the query's ORDER BY clause.
 
-You can use the  **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
+You can use the **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

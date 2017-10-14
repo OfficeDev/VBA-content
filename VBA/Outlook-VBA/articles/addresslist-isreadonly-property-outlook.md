@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.IsReadOnly Property (Outlook)
 
-Returns a  **Boolean** value that indicates that the **[AddressList](addresslist-object-outlook.md)** object cannot be modified. Read-only.
+Returns a **Boolean** value that indicates that the **[AddressList](addresslist-object-outlook.md)** object cannot be modified. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates that the **[AddressList](addresslist
 
 ## Remarks
 
-The  **IsReadOnly** property refers to adding and deleting the entries in the address book container represented by the **AddressList** object. The property is **True** if no entries can be added or deleted. The property is **False** if the container can be modified, that is, if address entries can be added to and deleted from the container. It refers to the address book entries in the context of the address book container. It does not indicate whether the contents of the individual entries themselves can be modified.
+The **IsReadOnly** property refers to adding and deleting the entries in the address book container represented by the **AddressList** object. The property is **True** if no entries can be added or deleted. The property is **False** if the container can be modified, that is, if address entries can be added to and deleted from the container. It refers to the address book entries in the context of the address book container. It does not indicate whether the contents of the individual entries themselves can be modified.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.PageNumbers Property (Word)
 
-Returns a  **[PageNumbers](pagenumbers-object-word.md)** collection that represents all the page number fields included in the specified header or footer.
+Returns a **[PageNumbers](pagenumbers-object-word.md)** collection that represents all the page number fields included in the specified header or footer.
 
 
 ## Syntax

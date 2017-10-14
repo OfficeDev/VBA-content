@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create a Deployment Package Programmatically
 
-The  **CreateInstallPackage** method enables you to create a deployment package programmatically.
+The **CreateInstallPackage** method enables you to create a deployment package programmatically.
 
 
 ## Syntax
@@ -17,19 +17,19 @@ The  **CreateInstallPackage** method enables you to create a deployment package 
 
  _expression_ A variable that represents an **AccessDeveloperExtensions** object.
 
-The following table describes the arguments of the  **CreateInstallPackage** method.
+The following table describes the arguments of the **CreateInstallPackage** method.
 
 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _WizardSettingsFile_|Required|**String**|The path and file name of the wizard template file that contains the settings to use when creating the deployment package. To create a wizard template (.adepsws), click  **Save Wizard Settings** on any Package Solution Wizard page.|
+| _WizardSettingsFile_|Required|**String**|The path and file name of the wizard template file that contains the settings to use when creating the deployment package. To create a wizard template (.adepsws), click **Save Wizard Settings** on any Package Solution Wizard page.|
 
 ## Usage
 
-You must instantiate the  **AccessDeveloperExtensions** object before you call the **CreateInstallPackage** method. Instantiating the **AccessDeveloperExtensions** object requires a different technique from instantiating the built-in objects in Access. To instantiate the **AccessDeveloperExtensions** object, you can use the **COMAddins** collection or the **CreateObject** method.
+You must instantiate the **AccessDeveloperExtensions** object before you call the **CreateInstallPackage** method. Instantiating the **AccessDeveloperExtensions** object requires a different technique from instantiating the built-in objects in Access. To instantiate the **AccessDeveloperExtensions** object, you can use the **COMAddins** collection or the **CreateObject** method.
 
-The following code illustrates how to instantiate the  **AccessDeveloperExtensions** object through the **COMAddins** collection.
+The following code illustrates how to instantiate the **AccessDeveloperExtensions** object through the **COMAddins** collection.
 
 
 
@@ -39,7 +39,7 @@ Set objADE = Application.COMAddIns("AccessAddIn.ADE").Object
 
 ```
 
-The following code illustrates how to instantiate the  **AccessDeveloperExtensions** object by using the **CreateObject** method.
+The following code illustrates how to instantiate the **AccessDeveloperExtensions** object by using the **CreateObject** method.
 
 
 
@@ -49,7 +49,7 @@ Set objADE = CreateObject("AccessAddIn.ADE")
 
 ```
 
-The following example wraps the steps necessary to call the  **CreateInstallPackage** method in a subroutine named **CreatePackage**. To use this example, pass the path and file name of the wizard template file to the subroutine. A deployment package will be created.
+The following example wraps the steps necessary to call the **CreateInstallPackage** method in a subroutine named **CreatePackage**. To use this example, pass the path and file name of the wizard template file to the subroutine. A deployment package will be created.
 
 
 
@@ -72,8 +72,8 @@ End Sub
 To use this example, you must set a reference to the Access Developer Extensions type library. To do this, follow these steps:
 
 
-1. On the  **Tools** menu, click **References**.
+1. On the **Tools** menu, click **References**.
     
-2. Select the  **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
+2. Select the **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
     
 

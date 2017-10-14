@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RadarAxisLabels Property
 
-Returns a  **[TickLabels](ticklabels-object.md)** object that represents the radar axis labels for the specified chart group. Read-only.
+Returns a **[TickLabels](ticklabels-object.md)** object that represents the radar axis labels for the specified chart group. Read-only.
 
 
 ## Example

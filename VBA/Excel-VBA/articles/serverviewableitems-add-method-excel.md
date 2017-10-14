@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerViewableItems.Add Method (Excel)
 
-Adds a reference to the  **[ServerViewableItems](serverviewableitems-object-excel.md)** collection.
+Adds a reference to the **[ServerViewableItems](serverviewableitems-object-excel.md)** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Object
 
 ## Remarks
 
-If you try to add a mix of both sheets and named items to the  **[ServerViewableItems](serverviewableitems-object-excel.md)** collection, an error is returned. The **[ServerViewableItems](serverviewableitems-object-excel.md)** collection can contain references only to sheets, or references only to named items, but not both in the same call.
+If you try to add a mix of both sheets and named items to the **[ServerViewableItems](serverviewableitems-object-excel.md)** collection, an error is returned. The **[ServerViewableItems](serverviewableitems-object-excel.md)** collection can contain references only to sheets, or references only to named items, but not both in the same call.
 
 
 ## See also

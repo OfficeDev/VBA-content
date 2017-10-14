@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.BuiltinDocumentProperties Property (Project)
 
-Gets a  **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.
+Gets a **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.
 
 
 ## Syntax
@@ -22,10 +22,10 @@ Gets a  **DocumentProperties** collection representing the built-in properties o
 
 ## Remarks
 
-For more information, see the  **DocumentProperties** collection object in the Microsoft Office Visual Basic Reference.
+For more information, see the **DocumentProperties** collection object in the Microsoft Office Visual Basic Reference.
 
-To use the  **DocumentProperties** collection object, set a reference to the Microsoft Office 14.0 Object Library by using the **References** command on the **Tools** menu in the Visual Basic Editor. The object library contains definitions for the Visual Basic objects, properties, methods, and constants used to manipulate document properties.
+To use the **DocumentProperties** collection object, set a reference to the Microsoft Office 14.0 Object Library by using the **References** command on the **Tools** menu in the Visual Basic Editor. The object library contains definitions for the Visual Basic objects, properties, methods, and constants used to manipulate document properties.
 
-Use the  **[CustomDocumentProperties](project-customdocumentproperties-property-project.md)** property to return the collection of custom document properties.
+Use the **[CustomDocumentProperties](project-customdocumentproperties-property-project.md)** property to return the collection of custom document properties.
 
 

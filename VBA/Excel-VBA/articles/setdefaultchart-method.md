@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 Specifies the name of the chart template that Microsoft Graph will use when creating new charts.
 
- _expression_. **SetDefaultChart**( **_FormatName_**,  **_Gallery_**)
+ _expression_. **SetDefaultChart**( **_FormatName_**, **_Gallery_**)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
- _FormatName_ Optional **Variant**. The name of the specified custom autoformat. This name can be a string that denotes the custom autoformat, or it can be the special constant  **xlBuiltIn** to specify the built-in chart template.
- **Gallery**Optional  **Variant**.
+ _FormatName_ Optional **Variant**. The name of the specified custom autoformat. This name can be a string that denotes the custom autoformat, or it can be the special constant **xlBuiltIn** to specify the built-in chart template.
+ **Gallery**Optional **Variant**.
 
 ## Example
 

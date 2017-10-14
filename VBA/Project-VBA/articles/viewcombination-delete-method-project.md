@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewCombination.Delete Method (Project)
 
-Deletes the  **ViewCombination** object from a **ViewsCombination** collection.
+Deletes the **ViewCombination** object from a **ViewsCombination** collection.
 
 
 ## Syntax

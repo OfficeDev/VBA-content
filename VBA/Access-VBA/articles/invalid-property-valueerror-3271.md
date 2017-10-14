@@ -16,11 +16,11 @@ Possible causes:
 
 
 
-- The setting for the  **Value** property of the **Parameter** object is too long or is otherwise incorrect.
+- The setting for the **Value** property of the **Parameter** object is too long or is otherwise incorrect.
     
-- The  **Index** object name is a zero-length string (" "). You must enter a name for the **Index** object when appending the object to the **Indexes** collection.
+- The **Index** object name is a zero-length string (" "). You must enter a name for the **Index** object when appending the object to the **Indexes** collection.
     
-- The  **Workspace** object name is a zero-length string. You must enter a name for the **Workspace** object when appending the object to a **Workspaces** collection.
+- The **Workspace** object name is a zero-length string. You must enter a name for the **Workspace** object when appending the object to a **Workspaces** collection.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

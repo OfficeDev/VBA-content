@@ -7,12 +7,12 @@ ms.date: 06/08/2017
 
 
 # Reports Object (Project)
-Contains a collection of  **[Report](report-object-project.md)** objects, where each report is a custom report.
+Contains a collection of **[Report](report-object-project.md)** objects, where each report is a custom report.
  
 
 ## Example
 
-The  **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**,  **Critical Tasks**, or  **Milestone Report**. Use the  **Project.Reports** property to get the **Reports** collection object, as in the following example:
+The **Reports** object is the collection of custom reports in a project. It does not include the built-in reports, such as **Project Overview**, **Critical Tasks**, or **Milestone Report**. Use the **Project.Reports** property to get the **Reports** collection object, as in the following example:
  
 
  

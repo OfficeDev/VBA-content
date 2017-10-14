@@ -40,7 +40,7 @@ Shape
 
 ## Remarks
 
-To view guides you add to a master by using the  **AddGuide** method, use the **OpenDrawWindow** method to open the **Master Editing** window.
+To view guides you add to a master by using the **AddGuide** method, use the **OpenDrawWindow** method to open the **Master Editing** window.
 
 The following constants declared by the Visio type library are valid values for guide types.
 

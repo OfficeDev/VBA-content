@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.PageSetup Property (PowerPoint)
 
-Returns a  **[PageSetup](pagesetup-object-powerpoint.md)** object whose properties control slide setup attributes for the specified presentation. Read-only.
+Returns a **[PageSetup](pagesetup-object-powerpoint.md)** object whose properties control slide setup attributes for the specified presentation. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentProperties.Parent Property (Office)
 
-Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
+Gets the **Parent** object for the **DocumentProperties** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Object
 
 ## Example
 
-This example displays the name of the parent object for a document property. You must pass a valid  **DocumentProperty** object to the procedure.
+This example displays the name of the parent object for a document property. You must pass a valid **DocumentProperty** object to the procedure.
 
 
 ```

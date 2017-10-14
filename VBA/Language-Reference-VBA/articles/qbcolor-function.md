@@ -36,7 +36,7 @@ The  _color_ argument represents color values used by earlier versions of Basic 
 
 ## Example
 
-This example uses the  **QBColor** function to change the **BackColor** property of the form passed in as `MyForm` to the color indicated by `ColorCode`.  **QBColor** accepts integer values between 0 and 15.
+This example uses the **QBColor** function to change the **BackColor** property of the form passed in as `MyForm` to the color indicated by `ColorCode`. **QBColor** accepts integer values between 0 and 15.
 
 
 ```vb

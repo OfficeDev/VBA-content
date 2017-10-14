@@ -34,9 +34,9 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The  **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
+The **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
 
-The  **Sum** function ignores records that contain **Null** fields. The following example shows how you can calculate the sum of the products of UnitPrice and Quantity fields:
+The **Sum** function ignores records that contain **Null** fields. The following example shows how you can calculate the sum of the products of UnitPrice and Quantity fields:
 
 
 
@@ -47,7 +47,7 @@ Sum(UnitPrice * Quantity)
 AS [Total Revenue] FROM [Order Details];
 ```
 
-You can use the  **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
+You can use the **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
 
 
 ## Example

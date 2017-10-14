@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TextFrame.Columns Property (Publisher)
 
-Returns or sets a  **Long** that represents the number of guide columns on a page or the number of columns in a text frame. Read/write.
+Returns or sets a **Long** that represents the number of guide columns on a page or the number of columns in a text frame. Read/write.
 
 
 ## Syntax
 
  _expression_. **Columns**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.DisplayType Property (Outlook)
 
-Returns  **olDistList** which is a constant from the **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration representing the nature of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
+Returns **olDistList** which is a constant from the **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration representing the nature of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns  **olDistList** which is a constant from the **[OlDisplayType](oldisplay
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayType** .
+This property corresponds to the MAPI property **PidTagDisplayType** .
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , **DisplayType** should always return **olDistList** .
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , **DisplayType** should always return **olDistList** .
 
 
 ## See also

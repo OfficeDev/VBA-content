@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.DeleteLines Method (Access)
 
-The  **DeleteLines** method deletes lines from a standard module or a class module.
+The **DeleteLines** method deletes lines from a standard module or a class module.
 
 
 ## Syntax
@@ -39,9 +39,9 @@ Nothing
 
 ## Remarks
 
-Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the  **[CountOfLines](module-countoflines-property-access.md)** property.
+Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the **[CountOfLines](module-countoflines-property-access.md)** property.
 
-To replace one line with another line, use the  **[ReplaceLine](module-replaceline-method-access.md)** method.
+To replace one line with another line, use the **[ReplaceLine](module-replaceline-method-access.md)** method.
 
 
 ## Example

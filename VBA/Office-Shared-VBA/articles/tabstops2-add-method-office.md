@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStops2.Add Method (Office)
 
-Adds a new tab stop to the specified  **TabStops2** object.
+Adds a new tab stop to the specified **TabStops2** object.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ TabStop2
 
 ## Remarks
 
-Examples of  **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStopLeft**, and **msoTabStopRight**.
+Examples of **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStopLeft**, and **msoTabStopRight**.
 
 
 ## See also

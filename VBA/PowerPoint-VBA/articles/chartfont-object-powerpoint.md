@@ -18,7 +18,7 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you do not want to format all the text in an  **[AxisTitle](axistitle-object-powerpoint.md)**, **[ChartTitle](charttitle-object-powerpoint.md)**, **[DataLabel](datalabel-object-powerpoint.md)**, or **[DisplayUnitLabel](displayunitlabel-object-powerpoint.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](chartcharacters-object-powerpoint.md)** object. Then use the **[Font](chartcharacters-font-property-powerpoint.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
+If you do not want to format all the text in an **[AxisTitle](axistitle-object-powerpoint.md)**, **[ChartTitle](charttitle-object-powerpoint.md)**, **[DataLabel](datalabel-object-powerpoint.md)**, or **[DisplayUnitLabel](displayunitlabel-object-powerpoint.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](chartcharacters-object-powerpoint.md)** object. Then use the **[Font](chartcharacters-font-property-powerpoint.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
 
 
 ## Example
@@ -28,7 +28,7 @@ If you do not want to format all the text in an  **[AxisTitle](axistitle-object-
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example formats the title of the first chart as bold. Use the  **Font** property to return the **ChartFont** object.
+The following example formats the title of the first chart as bold. Use the **Font** property to return the **ChartFont** object.
 
 
 

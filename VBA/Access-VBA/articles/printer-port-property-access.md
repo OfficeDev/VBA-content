@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.Port Property (Access)
 
-Returns a  **String** indicating the port name of the specified printer. Read-only.
+Returns a **String** indicating the port name of the specified printer. Read-only.
 
 
 ## Syntax

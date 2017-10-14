@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 
 # SolverReset Function
 
-Resets all cell selections and constraints in the  **Solver Parameters** dialog box and restores all the settings in the **Solver Options** dialog box to their defaults. Equivalent to clicking **Reset All** in the **Solver Parameters** dialog box. The **SolverReset** function is called automatically when you call the **[SolverLoad](solverload-function.md)** function, if the **_Merge_** argument is **False** or omitted.
+Resets all cell selections and constraints in the **Solver Parameters** dialog box and restores all the settings in the **Solver Options** dialog box to their defaults. Equivalent to clicking **Reset All** in the **Solver Parameters** dialog box. The **SolverReset** function is called automatically when you call the **[SolverLoad](solverload-function.md)** function, if the **_Merge_** argument is **False** or omitted.
 
 
- **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
+ **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click **References** on the **Tools** menu, and then select **Solver** under **Available References**. If **Solver** does not appear under **Available References**, click **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
 
 
  **SolverReset**( )

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CursorMovement Property (Excel)
 
-Returns or sets a value that indicates whether a visual cursor or a logical cursor is used. Can be one of the following constants:  **xlVisualCursor** or **xlLogicalCursor** . Read/write **Long** .
+Returns or sets a value that indicates whether a visual cursor or a logical cursor is used. Can be one of the following constants: **xlVisualCursor** or **xlLogicalCursor** . Read/write **Long** .
 
 
 ## Syntax

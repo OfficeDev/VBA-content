@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ComputeStatistics Method (Word)
 
-Returns a statistic based on the contents of the specified document.  **Long** .
+Returns a statistic based on the contents of the specified document. **Long** .
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns a statistic based on the contents of the specified document.  **Long** .
 
 ## Remarks
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

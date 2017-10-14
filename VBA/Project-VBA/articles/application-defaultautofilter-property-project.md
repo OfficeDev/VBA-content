@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DefaultAutoFilter** property corresponds to the **Set AutoFilter on for new projects** setting on the **Advanced** tab of the **Project Options** dialog box.
+The **DefaultAutoFilter** property corresponds to the **Set AutoFilter on for new projects** setting on the **Advanced** tab of the **Project Options** dialog box.
 
 

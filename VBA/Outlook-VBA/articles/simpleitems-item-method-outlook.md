@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SimpleItems.Item Method (Outlook)
 
-Returns an item in the  **[SimpleItems](simpleitems-object-outlook.md)** collection.
+Returns an item in the **[SimpleItems](simpleitems-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns an item in the  **[SimpleItems](simpleitems-object-outlook.md)** collect
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The zero-based index number of the object in the  **SimpleItems** collection.|
+| _Index_|Required| **Variant**|The zero-based index number of the object in the **SimpleItems** collection.|
 
 ### Return Value
 
-An  **Object** that represents an Outlook item in the **SimpleItems** collection.
+An **Object** that represents an Outlook item in the **SimpleItems** collection.
 
 
 ## Remarks

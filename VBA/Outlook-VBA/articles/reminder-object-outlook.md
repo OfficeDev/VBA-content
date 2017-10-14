@@ -20,11 +20,11 @@ Represents an Outlook reminder.
 
 Reminders allow users to keep track of upcoming appointments by scheduling a pop-up dialog box to appear at a given time. In addition to appointments, reminders can occur for tasks, contacts and e-mail messages.
 
-Use  **[Reminders](http://msdn.microsoft.com/library/1f5428f0-6362-a691-2fad-c80e48dce3f5%28Office.15%29.aspx)** ( _index_ ), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
+Use **[Reminders](http://msdn.microsoft.com/library/1f5428f0-6362-a691-2fad-c80e48dce3f5%28Office.15%29.aspx)** ( _index_ ), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
 
-Reminders are created programmatically when a new Microsoft Outlook item, such as an  **[AppointmentItem](appointmentitem-object-outlook.md)** object, is created and the item 's **[ReminderSet](http://msdn.microsoft.com/library/575d5fb2-1672-ddae-832c-7dcc7d1da2d6%28Office.15%29.aspx)** property is set to **True**.
+Reminders are created programmatically when a new Microsoft Outlook item, such as an **[AppointmentItem](appointmentitem-object-outlook.md)** object, is created and the item 's **[ReminderSet](http://msdn.microsoft.com/library/575d5fb2-1672-ddae-832c-7dcc7d1da2d6%28Office.15%29.aspx)** property is set to **True**.
 
-Use the  **Reminders** collection's **[Remove](http://msdn.microsoft.com/library/c7a25177-8869-39c2-4109-5c2e2a4bd193%28Office.15%29.aspx)** method to remove a **Reminder** object from the collection. Once a reminder is removed from its associated item, the **AppointmentItem** object's **ReminderSet** property is set to **False**.
+Use the **Reminders** collection's **[Remove](http://msdn.microsoft.com/library/c7a25177-8869-39c2-4109-5c2e2a4bd193%28Office.15%29.aspx)** method to remove a **Reminder** object from the collection. Once a reminder is removed from its associated item, the **AppointmentItem** object's **ReminderSet** property is set to **False**.
 
 
 ## Example
@@ -70,7 +70,7 @@ Sub ViewReminderInfo()
 End Sub
 ```
 
-The following example creates a new appointment item and sets the  **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
+The following example creates a new appointment item and sets the **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Reset Method (Word)
 
-Removes manual character formatting (formatting not applied using a style). For example, if you manually format a word as bold and the underlying style is plain text (not bold), the  **Reset** method removes the bold format.
+Removes manual character formatting (formatting not applied using a style). For example, if you manually format a word as bold and the underlying style is plain text (not bold), the **Reset** method removes the bold format.
 
 
 ## Syntax

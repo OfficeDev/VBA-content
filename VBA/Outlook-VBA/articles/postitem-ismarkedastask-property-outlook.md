@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.IsMarkedAsTask Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[PostItem](postitem-object-outlook.md)** is marked as a task. Read-only.
+Returns a **Boolean** value that indicates whether the **[PostItem](postitem-object-outlook.md)** is marked as a task. Read-only.
 
 
 ## Syntax

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # Slicers Object (Excel)
 
-A collection of  **[Slicer](slicer-object-excel.md)** objects.
+A collection of **[Slicer](slicer-object-excel.md)** objects.
 
 
 ## Remarks
 
-Each  **Slicer** object represents a slicer in a workbook. Slicers are used to filter data.
+Each **Slicer** object represents a slicer in a workbook. Slicers are used to filter data.
 
 
 ## Example
 
-Use the  **[Slicers](slicercache-slicers-property-excel.md)** property to return the **Slicers** collection. The following code example displays the number of slicers in the first slicer cache in the workbook.
+Use the **[Slicers](slicercache-slicers-property-excel.md)** property to return the **Slicers** collection. The following code example displays the number of slicers in the first slicer cache in the workbook.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CheckCompatibility Property (Excel)
 
-Controls whether or not the compatibility checker is run automatically when the workbook is saved. Read/write  **Boolean** .
+Controls whether or not the compatibility checker is run automatically when the workbook is saved. Read/write **Boolean** .
 
 
 ## Syntax

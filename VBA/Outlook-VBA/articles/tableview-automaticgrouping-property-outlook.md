@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.AutomaticGrouping Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the automatic grouping is active in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether the automatic grouping is active in the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether the automatic groupi
 
 ## Remarks
 
-If this property is set to  **True** , items are automatically grouped in the view according to the arrangement specified in the Outlook user interface. If this property is set to **False** , items are grouped in the view according to the contents of the **[GroupByFields](tableview-groupbyfields-property-outlook.md)** property.
+If this property is set to **True** , items are automatically grouped in the view according to the arrangement specified in the Outlook user interface. If this property is set to **False** , items are grouped in the view according to the contents of the **[GroupByFields](tableview-groupbyfields-property-outlook.md)** property.
 
 
 ## See also

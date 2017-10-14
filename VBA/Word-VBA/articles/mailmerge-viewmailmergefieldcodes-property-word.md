@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the  **[ShowFieldCodes](view-showfieldcodes-property-word.md)** property to **False** .
+If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the **[ShowFieldCodes](view-showfieldcodes-property-word.md)** property to **False** .
 
 
 ## Example

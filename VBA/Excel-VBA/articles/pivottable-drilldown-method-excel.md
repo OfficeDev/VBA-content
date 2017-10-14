@@ -37,7 +37,7 @@ Enables you to drill down into the data within an OLAP or PowerPivot based cube 
 
 ## Example
 
-The following sample code demonstrates the  **DrillDown** method as used on a PivotTable.
+The following sample code demonstrates the **DrillDown** method as used on a PivotTable.
 
 
 ```vb
@@ -47,7 +47,7 @@ ActiveSheet.PivotTables("PivotTable1").DrillDown ActiveSheet.PivotTables( _
       ActiveSheet.PivotTables("PivotTable1").PivotRowAxis.PivotLines(1)
 ```
 
-The following sample code demonstrates the  **DrillDown** method as used on a PivotChart.
+The following sample code demonstrates the **DrillDown** method as used on a PivotChart.
 
 
 

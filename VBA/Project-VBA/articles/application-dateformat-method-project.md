@@ -30,7 +30,7 @@ Returns a date in the specified format.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Date_|Required|**Variant**|The date to format.|
-| _Format_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](pjdateformat-enumeration-project.md)** constants. The default value is **pjDateDefault**.|
+| _Format_|Optional|**Long**|The date format. Can be one of the **[PjDateFormat](pjdateformat-enumeration-project.md)** constants. The default value is **pjDateDefault**.|
 
 ### Return Value
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.CurrencyCode Property (Project)
 
-Project property for the three-character ISO standard currency code of the project. Read/write  **String**.
+Project property for the three-character ISO standard currency code of the project. Read/write **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Project property for the three-character ISO standard currency code of the proje
 
 ## Example
 
-The follwoing example sets  **CurrencyCode** to the three-character ISO currency code "JPY".
+The follwoing example sets **CurrencyCode** to the three-character ISO currency code "JPY".
 
 
 ```vb

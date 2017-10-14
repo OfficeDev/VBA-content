@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.Text Property (Office)
 
-Gets the text in the  **CustomXMLValidationError** object. Read-only.
+Gets the text in the **CustomXMLValidationError** object. Read-only.
 
 
 ## Syntax

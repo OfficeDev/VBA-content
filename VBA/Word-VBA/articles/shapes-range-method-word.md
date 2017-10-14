@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.Range Method (Word)
 
-Returns a  **ShapeRange** object that represents the shapes within a range.
+Returns a **ShapeRange** object that represents the shapes within a range.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **ShapeRange** object that represents the shapes within a range.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Specifies which shapes are to be included in the specified range. Can be an integer that specifies the index number of a shape within the  **Shapes** collection, a string that specifies the name of a shape, or a array that contains integers or strings.|
+| _Index_|Required| **Variant**|Specifies which shapes are to be included in the specified range. Can be an integer that specifies the index number of a shape within the **Shapes** collection, a string that specifies the name of a shape, or a array that contains integers or strings.|
 
 ### Return Value
 
@@ -38,10 +38,10 @@ ShapeRange
 
 ## Remarks
 
-A  **Shape** object always appears on the same page as the range it is anchored to.
+A **Shape** object always appears on the same page as the range it is anchored to.
 
 
- **Note**  Most operations that you can do with a  **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
+ **Note**  Most operations that you can do with a **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.FieldName Property (Project)
 
-Gets or sets the name of the field being grouped by. Read/write  **String**.
+Gets or sets the name of the field being grouped by. Read/write **String**.
 
 
 ## Syntax

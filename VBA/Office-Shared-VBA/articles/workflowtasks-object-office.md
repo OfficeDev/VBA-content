@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # WorkflowTasks Object (Office)
 
-Represents a collection of  **WorkflowTask** objects.
+Represents a collection of **WorkflowTask** objects.
 
 
 ## Example
 
-The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the  **GetWorkflowTasks** method involves a round-trip to the server.
+The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the **GetWorkflowTasks** method involves a round-trip to the server.
 
 
 ```

@@ -19,7 +19,7 @@ Represents all the text in a publication.
 
 ## Example
 
-Use the  **Stories** property of a **Document** object to return a **Stories** collection. Use the **Item** method of the **Stories** collection to access individual **Story** objects.
+Use the **Stories** property of a **Document** object to return a **Stories** collection. Use the **Item** method of the **Stories** collection to access individual **Story** objects.
  
 
  
@@ -27,7 +27,7 @@ Use the  **Stories** property of a **Document** object to return a **Stories** c
  
 
  
-The  **Stories** collection enables efficient access to text in a publication. A simple loop through the **Stories** collection can scan all text in text frames or tables without the need to search each shape on every page of a publication.
+The **Stories** collection enables efficient access to text in a publication. A simple loop through the **Stories** collection can scan all text in text frames or tables without the need to search each shape on every page of a publication.
  
 
  
@@ -35,7 +35,7 @@ The  **Stories** collection enables efficient access to text in a publication. A
  
 
  
-The  **Stories** collection contains one **Story** object for each unlinked text frame, each chain of linked text frames, and each table in a publication. Text in WordArt frames, OLE objects, and pictures are not included in the **Stories** collection.
+The **Stories** collection contains one **Story** object for each unlinked text frame, each chain of linked text frames, and each table in a publication. Text in WordArt frames, OLE objects, and pictures are not included in the **Stories** collection.
  
 
  

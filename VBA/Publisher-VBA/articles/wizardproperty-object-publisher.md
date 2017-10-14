@@ -19,7 +19,7 @@ Represents a setting that is part of a specific publication design or a Design G
 
 ## Example
 
-Use the  **[Item](wizardproperties-item-property-publisher.md)** property or the **[FindByPropertyID](wizardproperties-findpropertybyid-method-publisher.md)** method with the **WizardProperties** collection to return a single **WizardProperty** object. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
+Use the **[Item](wizardproperties-item-property-publisher.md)** property or the **[FindByPropertyID](wizardproperties-findpropertybyid-method-publisher.md)** method with the **WizardProperties** collection to return a single **WizardProperty** object. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
  
 
  
@@ -46,7 +46,7 @@ End With
 ```
 
 
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](wizard-object-publisher.md)**.
+ **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see **[Wizard Object](wizard-object-publisher.md)**.
  
 
 

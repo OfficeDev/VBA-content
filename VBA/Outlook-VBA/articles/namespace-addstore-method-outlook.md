@@ -33,12 +33,12 @@ Adds a Personal Folders (.pst) file to the current profile.
 
 ## Remarks
 
-Use the  **RemoveStore** method to remove a .pst that is already added to a profile.
+Use the **RemoveStore** method to remove a .pst that is already added to a profile.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file to the user?s profile.
+This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file to the user's profile.
 
 
 ```vb

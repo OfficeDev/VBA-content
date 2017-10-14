@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Keywords Property (Visio)
 
-Gets or sets the value of the  **Keywords** box in a document's **Properties** dialog box. Read/write.
+Gets or sets the value of the **Keywords** box in a document's **Properties** dialog box. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Setting the  **Keywords** property is equivalent to entering information in the **Keywords** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
+Setting the **Keywords** property is equivalent to entering information in the **Keywords** box in the **Properties** dialog box (click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**).
 
 
  **Security Note**  
@@ -40,9 +40,9 @@ Setting the  **Keywords** property is equivalent to entering information in the 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Keywords** property to document the keywords that help locate a drawing. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Keywords** property as well as other document properties.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Keywords** property to document the keywords that help locate a drawing. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Keywords** property as well as other document properties.
 
-Before running this macro, substitute your own values for the items in italic in the following code. To verify that these properties have been set, open the  **Properties** dialog box.
+Before running this macro, substitute your own values for the items in italic in the following code. To verify that these properties have been set, open the **Properties** dialog box.
 
 
 

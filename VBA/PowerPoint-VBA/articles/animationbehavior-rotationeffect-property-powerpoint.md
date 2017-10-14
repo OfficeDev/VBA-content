@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.RotationEffect Property (PowerPoint)
 
-Returns a  **[RotationEffect](rotationeffect-object-powerpoint.md)** object for an animation behavior. Read-only.
+Returns a **[RotationEffect](rotationeffect-object-powerpoint.md)** object for an animation behavior. Read-only.
 
 
 ## Syntax

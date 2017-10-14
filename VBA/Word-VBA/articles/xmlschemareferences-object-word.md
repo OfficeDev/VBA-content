@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # XMLSchemaReferences Object (Word)
 
-A collection of  **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
+A collection of **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
 
 
 ## Remarks
 
-Use the  **XMLSchemaReferences** property to return a collection of schemas attached to a document. The following example loops through the schemas attached to a document. If it finds the specified schema, it reloads it; if it doesn't find the specified schema, it attaches the schema to the document.
+Use the **XMLSchemaReferences** property to return a collection of schemas attached to a document. The following example loops through the schemas attached to a document. If it finds the specified schema, it reloads it; if it doesn't find the specified schema, it attaches the schema to the document.
 
 
 ```vb

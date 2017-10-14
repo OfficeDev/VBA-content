@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.HyperlinkAddress Property (Project)
 
-Gets or sets the URL or UNC path of a document. Read/write  **String**.
+Gets or sets the URL or UNC path of a document. Read/write **String**.
 
 
 ## Syntax

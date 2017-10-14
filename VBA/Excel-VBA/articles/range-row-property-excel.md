@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Row Property (Excel)
 
-Returns the number of the first row of the first area in the range. Read-only  **Long** .
+Returns the number of the first row of the first area in the range. Read-only **Long** .
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Next rw
 
  **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1) |[About the Contributors](range-row-property-excel.md#AboutContributor)
 
-This example uses the  **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row using the **Target** keyword.
+This example uses the **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row using the **Target** keyword.
 
 
 

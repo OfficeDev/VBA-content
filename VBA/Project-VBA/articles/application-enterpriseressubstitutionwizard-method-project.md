@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnterpriseResSubstitutionWizard Method (Project)
 
-Runs the  **Resource Substitution Wizard**. Available in Project Professional only.
+Runs the **Resource Substitution Wizard**. Available in Project Professional only.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ProjectList_|Optional|**String**|A comma-separated list of portfolio projects in the database.|
-| _PoolOption_|Optional|**Long**|Specifies the resource pool option. Can be one of the following  **PjResSubstitutionPoolOption** constants: **pjResSubstitutionResInList**, **pjResSubstitutionResInProject**, or **pjResSubstitutionResInRBS**. The default value is **pjResSubstitutionResInProject**.|
-| _RBSorResourceList_|Optional|**String**|The name of the RBS (resource breakdown structure) level to use if  **pjResSubstitutionResInRBS** was specified in the PoolOption argument. If **pjResSubstitutionResInList** was specified in the PoolOption argument, the **RBSorResourceList** argument specifies a comma-separated list of resource names to use.|
+| _PoolOption_|Optional|**Long**|Specifies the resource pool option. Can be one of the following **PjResSubstitutionPoolOption** constants: **pjResSubstitutionResInList**, **pjResSubstitutionResInProject**, or **pjResSubstitutionResInRBS**. The default value is **pjResSubstitutionResInProject**.|
+| _RBSorResourceList_|Optional|**String**|The name of the RBS (resource breakdown structure) level to use if **pjResSubstitutionResInRBS** was specified in the PoolOption argument. If **pjResSubstitutionResInList** was specified in the PoolOption argument, the **RBSorResourceList** argument specifies a comma-separated list of resource names to use.|
 | _FreezeHorizonDate_|Optional|**String**|The date of the resource freeze horizon.|
 | _UpdateProjects_|Optional|**Boolean**|**True** if the **Resource Substitution Wizard** updates projects with the new resource information. The default value is **True**.|
 | _SaveReport_|Optional|**Boolean**|**True** if the **Resource Substitution Wizard** saves a report. The default value is **False**.|
@@ -46,8 +46,8 @@ Runs the  **Resource Substitution Wizard**. Available in Project Professional on
 
 ## Remarks
 
-No events are fired when using the  **EnterpriseResSubstitutionWizard** method.
+No events are fired when using the **EnterpriseResSubstitutionWizard** method.
 
-The  **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
+The **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
 
 

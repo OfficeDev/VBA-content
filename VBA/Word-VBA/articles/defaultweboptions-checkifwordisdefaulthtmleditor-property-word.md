@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **CheckIfWordIsDefaultHTMLEditor** property returns **False** if Word does not perform this check. The default value is **True** .
+The **CheckIfWordIsDefaultHTMLEditor** property returns **False** if Word does not perform this check. The default value is **True** .
 
-This property is used only if the Web browser you are using supports HTML editing and HTML editors. To use a different HTML editor, you must set this property to  **False** and then register the editor as the default system HTML editor.
+This property is used only if the Web browser you are using supports HTML editing and HTML editors. To use a different HTML editor, you must set this property to **False** and then register the editor as the default system HTML editor.
 
 
 ## Example

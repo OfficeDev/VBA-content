@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Footnotes.ContinuationSeparator Property (Word)
 
-Returns a  **Range** object that represents the footnote continuation separator. Read-only.
+Returns a **Range** object that represents the footnote continuation separator. Read-only.
 
 
 ## Syntax

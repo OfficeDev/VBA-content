@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Reset Method (Office)
 
-Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarControl** to its original function and face.
+Resets a built-in command bar to its default configuration, or resets a built-in **CommandBarControl** to its original function and face.
 
 
 ## 

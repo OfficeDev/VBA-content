@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebPageOptions.Description Property (Publisher)
 
-Returns or sets a  **String** that represents the description of a Web page within a Web publication. Read/write.
+Returns or sets a **String** that represents the description of a Web page within a Web publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **Description**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_A variable that represents a **WebPageOptions** object.
 
 
 ## Example

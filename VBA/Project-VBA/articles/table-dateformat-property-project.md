@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.DateFormat Property (Project)
 
-Gets or sets the date format of the table. Read/write  **PjDateFormat**.
+Gets or sets the date format of the table. Read/write **PjDateFormat**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Gets or sets the date format of the table. Read/write  **PjDateFormat**.
 
 ## Remarks
 
-The  **DateFormat** property can be one of the following **[PjDateFormat](pjdateformat-enumeration-project.md)** constants.
+The **DateFormat** property can be one of the following **[PjDateFormat](pjdateformat-enumeration-project.md)** constants.
 
 
 
 |**Constant**|**Date format applied to 9/30/02 (12:33 PM)**|
 |:-----|:-----|
-|**pjDateDefault**|The default format, as specified on the  **General** tab of the **Project Options** dialog box.|
+|**pjDateDefault**|The default format, as specified on the **General** tab of the **Project Options** dialog box.|
 |**pjDate_mm_dd_yy_hh_mmAM**|9/30/02 12:33 PM|
 |**pjDate_mm_dd_yy**|9/30/02|
 |**pjDate_mm_dd_yyyy**|9/30/2002|

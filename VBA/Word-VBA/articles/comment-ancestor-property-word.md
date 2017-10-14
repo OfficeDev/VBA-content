@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Comment.Ancestor Property (Word)
 
-For comments that are replies to existing comments, returns the parent  **Comment** object; for new (top-level) comments, returns null. Read-only.
+For comments that are replies to existing comments, returns the parent **Comment** object; for new (top-level) comments, returns null. Read-only.
 
 
 ## Syntax

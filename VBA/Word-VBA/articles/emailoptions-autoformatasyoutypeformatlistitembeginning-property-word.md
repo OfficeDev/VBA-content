@@ -32,7 +32,7 @@ This example sets Word to automatically repeat character formatting at the begin
 Options.AutoFormatAsYouTypeFormatListItemBeginning = True
 ```
 
-This example returns the status of the  **Format beginning of list item like the one before it** option in the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Options** menu).
+This example returns the status of the **Format beginning of list item like the one before it** option in the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Options** menu).
 
 
 

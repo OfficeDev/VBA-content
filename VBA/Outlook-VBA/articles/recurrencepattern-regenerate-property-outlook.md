@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.Regenerate Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
+Returns a **Boolean** that indicates **True** if the task should be regenerated following this pass through the recurrence pattern. Read/write.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ Returns a  **Boolean** that indicates **True** if the task should be regenerated
 
 This property is used to control the regeneration of the task as each occurrence of a recurring task is completed. It is only valid for tasks. It is not valid for appointments.
 
-To create a recurrence pattern, you must first set the  **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True** , do not set it to **False** . If you subsequently set **Regenerate** to **False** , then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](recurrencepattern-object-outlook.md)** object.
+To create a recurrence pattern, you must first set the **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True** , do not set it to **False** . If you subsequently set **Regenerate** to **False** , then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](recurrencepattern-object-outlook.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a task called "Oil Change" that recurs every three months and uses the  **Regenerate** property to set it to regenerate after each recurrence.
+This Visual Basic for Applications (VBA) example creates a task called "Oil Change" that recurs every three months and uses the **Regenerate** property to set it to regenerate after each recurrence.
 
 
 ```vb

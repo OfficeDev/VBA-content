@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.Fields Property (Word)
 
-Returns a read-only  **MailMergeFields** collection that represents all the mail merge fields in the specified document.
+Returns a read-only **MailMergeFields** collection that represents all the mail merge fields in the specified document.
 
 
 ## Syntax

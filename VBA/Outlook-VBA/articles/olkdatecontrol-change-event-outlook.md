@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkDateControl.Change Event (Outlook)
 
-Occurs when the  **[Value](olkdatecontrol-value-property-outlook.md)** property changes.
+Occurs when the **[Value](olkdatecontrol-value-property-outlook.md)** property changes.
 
 
 ## Syntax

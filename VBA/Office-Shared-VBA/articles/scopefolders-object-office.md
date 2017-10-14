@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # ScopeFolders Object (Office)
 
-A collection of  **ScopeFolder** objects.
+A collection of **ScopeFolder** objects.
 
 
 ## Remarks
 
-Only  **ScopeFolder** objects contain **ScopeFolders** collections. Each **ScopeFolders** collection contains the **ScopeFolder** objects that correspond to the subfolders of the parent **ScopeFolder** object.
+Only **ScopeFolder** objects contain **ScopeFolders** collections. Each **ScopeFolders** collection contains the **ScopeFolder** objects that correspond to the subfolders of the parent **ScopeFolder** object.
 
-Use the  **ScopeFolders** property of the **ScopeFolder** object to return a **ScopeFolders** collection.
+Use the **ScopeFolders** property of the **ScopeFolder** object to return a **ScopeFolders** collection.
 
-You can't add or remove  **ScopeFolder** objects from a **ScopeFolders** collection.
+You can't add or remove **ScopeFolder** objects from a **ScopeFolders** collection.
 
 
 ## Properties

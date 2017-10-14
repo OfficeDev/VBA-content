@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
  **Note**  You can include Microsoft Visual Basic for Applications (VBA) code or run COM Add-ins only in a macro-enabled document, worksheet, or presentation. You can create a macro-enabled file by saving the documents with a .docm or .dotm extension in Microsoft Word; .xlsm, xltm, or xlam extension in Microsoft Excel; or pptm, potm, ppam, or ppsm extension in Microsoft PowerPoint.
 
-To install and run an unsigned COM add-in, the  **Require Application Add-ins to be signed by Trusted Publisher** and the **Disable all Application Add-ins** options must be cleared in the **Add-ins** tab in the Trust Center. To open the **Add-ins** tab, click the **File** tab, and then click **Options**,  **Trust Center**,  **Trust Center Settings**, and  **Add-ins**. 
+To install and run an unsigned COM add-in, the **Require Application Add-ins to be signed by Trusted Publisher** and the **Disable all Application Add-ins** options must be cleared in the **Add-ins** tab in the Trust Center. To open the **Add-ins** tab, click the **File** tab, and then click **Options**, **Trust Center**, **Trust Center Settings**, and **Add-ins**. 
 
-To run all VBA macros, including those that have not been digitally signed, the  **Enable all macros** option must be selected in the Trust Center. To view the **Macro Settings** options, click the **File** tab, and then click **Options**,  **Trust Center**,  **Trust Center Settings**, and  **Macros Settings**. For security reasons, it is strongly recommended that you do this only in a testing environment. After you complete your testing, set the options back to their original state.
+To run all VBA macros, including those that have not been digitally signed, the **Enable all macros** option must be selected in the Trust Center. To view the **Macro Settings** options, click the **File** tab, and then click **Options**, **Trust Center**, **Trust Center Settings**, and **Macros Settings**. For security reasons, it is strongly recommended that you do this only in a testing environment. After you complete your testing, set the options back to their original state.
 
-On the  **Macro Settings** tab of the Trust Center, you can also set options to **Disable all macros without notification**,  **Disable all macros with notification**, or  **Disable all macro except digitally signed macros**. You can also disable macros by saving the Word document, Excel worksheet, or PowerPoint presentation as macro-disabled files (.docm, xlsm, or pptm, respectively). You can also set or disable access to the VBA project object model from the  **Macro Settings** tab by selecting or clearing the **Trust access to the VBA project object model** option.
+On the **Macro Settings** tab of the Trust Center, you can also set options to **Disable all macros without notification**, **Disable all macros with notification**, or **Disable all macro except digitally signed macros**. You can also disable macros by saving the Word document, Excel worksheet, or PowerPoint presentation as macro-disabled files (.docm, xlsm, or pptm, respectively). You can also set or disable access to the VBA project object model from the **Macro Settings** tab by selecting or clearing the **Trust access to the VBA project object model** option.
 
 
- **Note**  On the Office Fluent user interface ribbon, when COM and application-specific add-ins are enabled and loaded, their controls are displayed on an  **Add-ins** tab.
+ **Note**  On the Office Fluent user interface ribbon, when COM and application-specific add-ins are enabled and loaded, their controls are displayed on an **Add-ins** tab.
 
-You can see a list of available add-ins on the  **Add-ins** tab in the Trust Center. On the same tab, you can enable, disable, add, or remove COM or Word add-ins by selecting the type of add-in in the drop-down box by the **Manage** label and then clicking the **Go** button.
+You can see a list of available add-ins on the **Add-ins** tab in the Trust Center. On the same tab, you can enable, disable, add, or remove COM or Word add-ins by selecting the type of add-in in the drop-down box by the **Manage** label and then clicking the **Go** button.
 
 
 ## Modifying the Microsoft Windows Registry
@@ -58,7 +58,7 @@ Basically, the steps to digitally sign a document include:
     
 6. The recipient, using digital signing software, hashes the document into a message digest and compares this hash to the hash from the sender. If they match, this verifies that the contents of the document have not changed since the document was sent by the originator.
     
-Digital signatures have been available to customers since Office XP. However, Office 2007 added features that make it easier for users to digitally sign documents, sign their documents to make them read-only, and add inline-document signature lines to a document. Office users can perform these tasks from the Office user interface that is available from the  **File** tab.
+Digital signatures have been available to customers since Office XP. However, Office 2007 added features that make it easier for users to digitally sign documents, sign their documents to make them read-only, and add inline-document signature lines to a document. Office users can perform these tasks from the Office user interface that is available from the **File** tab.
 
 Office 2007 also introduced members that make it easier to work with in-line signatures and digital signatures programmatically. For more information, search the MSDN Library for "Office signatures."
 
@@ -70,7 +70,7 @@ To comply with Office security, managed COM add-ins (COM add-ins targeting the c
 
 ## Automating the Visual Basic Editor
 
-In Office, when calling the features of the Microsoft Visual Basic for Applications Extensibility object model, you might receive an error message that programmatic access to the Visual Basic project is not trusted. To prevent this message from appearing, click the  **File** tab, click **Options**, click the  **Trust Center** tab, and then click **Trust Center Settings**. Next, click the  **Macro Settings** tab and then select the **Trust access to the VBA project object model** box. By checking this box, you make it possible for macros in any macro-enabled documents that you open to access the core Microsoft Visual Basic objects, methods, and properties. Setting the option represents a possible security hazard. The recommended behavior is to check the **Trust access to the VBA project object model** box only for the duration of a macro that accesses the Visual Basic object model. Make sure that you clear the **Trust access to the VBA project object model** box after the macro has finished running.
+In Office, when calling the features of the Microsoft Visual Basic for Applications Extensibility object model, you might receive an error message that programmatic access to the Visual Basic project is not trusted. To prevent this message from appearing, click the **File** tab, click **Options**, click the **Trust Center** tab, and then click **Trust Center Settings**. Next, click the **Macro Settings** tab and then select the **Trust access to the VBA project object model** box. By checking this box, you make it possible for macros in any macro-enabled documents that you open to access the core Microsoft Visual Basic objects, methods, and properties. Setting the option represents a possible security hazard. The recommended behavior is to check the **Trust access to the VBA project object model** box only for the duration of a macro that accesses the Visual Basic object model. Make sure that you clear the **Trust access to the VBA project object model** box after the macro has finished running.
 
 
 ## Passwords

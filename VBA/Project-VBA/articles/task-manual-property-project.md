@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Manual Property (Project)
 
- **True** if task recalculation is set to **Manually Scheduled**;  **False** if task recalculation is set to **Auto Schedule**. Read/write  **Variant**.
+ **True** if task recalculation is set to **Manually Scheduled**; **False** if task recalculation is set to **Auto Schedule**. Read/write **Variant**.
 
 
 ## Syntax

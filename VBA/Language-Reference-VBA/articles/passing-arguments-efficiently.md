@@ -37,6 +37,6 @@ Print S ' Displays 5.
 
 ```
 
-Without including  **ByVal** in the function declaration, the preceding **Print** statements would display 1 and 0. This is because `MyVar` would then refer to variable would then refer to variable `S`, which is reduced by 1 until it equals 0.
-Because  **ByVal** makes a copy of the argument, it allows you to pass a variant to the **Factorial** function above. You can't pass a variant by reference if the procedure that declares the argument is another data type.
+Without including **ByVal** in the function declaration, the preceding **Print** statements would display 1 and 0. This is because `MyVar` would then refer to variable would then refer to variable `S`, which is reduced by 1 until it equals 0.
+Because **ByVal** makes a copy of the argument, it allows you to pass a variant to the **Factorial** function above. You can't pass a variant by reference if the procedure that declares the argument is another data type.
 

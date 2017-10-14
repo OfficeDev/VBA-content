@@ -32,7 +32,7 @@ Verifies a signature based on the signed state of the document and the legitimac
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the verification operation.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies configuration information about a signature line.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information captured from the signing ceremony.|
-| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an  **XMLDSIG** object.|
+| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an **XMLDSIG** object.|
 | _pcontverres_|Required|**ContentVerificationResults**|Specifies the status of the signature verification action.|
 | _pcertverres_|Required|**CertificateVerificationResults**|Specifies the status of the signing certificate verification.|
 
@@ -43,7 +43,7 @@ XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **VerifyXmlDsig** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **VerifyXmlDsig** method in a custom signature provider project.
 
 
 ```

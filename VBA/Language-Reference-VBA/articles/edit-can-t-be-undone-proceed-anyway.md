@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Edit can't be undone--proceed anyway?
 
-You won't be able to choose the  **Undo** command to restore the current state after you perform this edit. This error has the following cause and solution:
+You won't be able to choose the **Undo** command to restore the current state after you perform this edit. This error has the following cause and solution:
 
 
 

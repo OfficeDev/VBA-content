@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.TextRange Property (PowerPoint)
 
-Returns a  **[TextRange](textrange-object-powerpoint.md)** object that represents the selected text. Read-only.
+Returns a **[TextRange](textrange-object-powerpoint.md)** object that represents the selected text. Read-only.
 
 
 ## Syntax

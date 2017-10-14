@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Tasks Property (Word)
 
-Returns a  **[Tasks](tasks-object-word.md)** collection that represents all the applications that are running.
+Returns a **[Tasks](tasks-object-word.md)** collection that represents all the applications that are running.
 
 
 ## Syntax

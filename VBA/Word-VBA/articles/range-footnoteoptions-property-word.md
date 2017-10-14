@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FootnoteOptions Property (Word)
 
-Returns  **FootnoteOptions** object that represents the footnotes in a selection or range.
+Returns **FootnoteOptions** object that represents the footnotes in a selection or range.
 
 
 ## Syntax

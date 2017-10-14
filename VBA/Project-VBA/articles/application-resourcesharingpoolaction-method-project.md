@@ -29,7 +29,7 @@ Performs the specified action on a local resource pool.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _action_|Required|**Long**|The actions to perform on the resource pool. Can be one of the  **[PjPoolAction](pjpoolaction-enumeration-project.md)** constants.|
+| _action_|Required|**Long**|The actions to perform on the resource pool. Can be one of the **[PjPoolAction](pjpoolaction-enumeration-project.md)** constants.|
 | _Filename_|Optional|**String**|The file name of the resource pool on which to perform the action.|
 | _ReadOnly_|Optional|**Boolean**|**True** if the files specified with **FileName** are opened read-only.|
 

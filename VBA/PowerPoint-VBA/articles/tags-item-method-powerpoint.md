@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tags.Item Method (PowerPoint)
 
-Returns a single tag from the specified  **[Tags](tags-object-powerpoint.md)** collection.
+Returns a single tag from the specified **[Tags](tags-object-powerpoint.md)** collection.
 
 
 ## Syntax

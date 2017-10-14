@@ -15,11 +15,11 @@ Prints the items that are currently selected in the control.
 
  _expression_. **PrintItem**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-Selecting a group automatically selects and prints all items in the group. The  **Print** dialog box is displayed so that the user can specify how to print the items.
+Selecting a group automatically selects and prints all items in the group. The **Print** dialog box is displayed so that the user can specify how to print the items.
 
 

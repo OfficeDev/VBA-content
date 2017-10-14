@@ -15,11 +15,11 @@ Returns a  [Selection](selection-object-outlook.md) object that consists of one 
 
  _expression_. **Selection**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-If the current folder is a file system folder, or if Outlook  **Today** or any folder with a current Web view is currently displayed, this property returns an empty collection.
+If the current folder is a file system folder, or if Outlook **Today** or any folder with a current Web view is currently displayed, this property returns an empty collection.
 
 

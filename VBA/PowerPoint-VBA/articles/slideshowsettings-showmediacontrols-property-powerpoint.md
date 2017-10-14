@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowSettings.ShowMediaControls Property (PowerPoint)
 
-Allows access to the media controls in the  **SlideShowSettings** object. Read/write.
+Allows access to the media controls in the **SlideShowSettings** object. Read/write.
 
 
 ## Syntax

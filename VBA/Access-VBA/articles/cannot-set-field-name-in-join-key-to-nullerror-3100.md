@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You have a join, and you tried to set a field on either side of the join to a  **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
+You have a join, and you tried to set a field on either side of the join to a **Null** value. Either select different fields or enter data in the fields, and then try the operation again.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

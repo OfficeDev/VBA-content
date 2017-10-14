@@ -25,9 +25,9 @@ Returns or sets a value that indicates whether the specified shape animation adv
 
 ## Remarks
 
-If your shape doesn't become animated, make sure that the  **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property is set to a value other than **ppAnimateLevelNone** and that the **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **True**.
+If your shape doesn't become animated, make sure that the **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property is set to a value other than **ppAnimateLevelNone** and that the **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **True**.
 
-The value of the  **AdvanceMode** property can be one of these **PpAdvanceMode** constants.
+The value of the **AdvanceMode** property can be one of these **PpAdvanceMode** constants.
 
 
 ||

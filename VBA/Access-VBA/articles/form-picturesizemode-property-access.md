@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.PictureSizeMode Property (Access)
 
-You can use the  **PictureSizeMode** property to specify how a picture for a form or report is sized. Read/write **Byte**.
+You can use the **PictureSizeMode** property to specify how a picture for a form or report is sized. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PictureSizeMode** property to specify how a picture for a for
 
 ## Remarks
 
-The  **PictureSizeMode** property uses the following settings.
+The **PictureSizeMode** property uses the following settings.
 
 
 
@@ -36,7 +36,7 @@ The  **PictureSizeMode** property uses the following settings.
 |Zoom|3|The picture is enlarged to the maximum extent possible while keeping its original ratio of height to width.|
 |Stretch Horizontal|4|The picture is stretched horizontally to fit the width of the form.|
 |Stretch Vertical|5|The picture is stretched vertically to fit the height of the form.|
-When a small picture is used for the  **Picture** property of a form or report, setting the **PictureSizeMode** property to Stretch or Zoom can cause substantial distortion of its resolution. Smaller pictures can be tiled across the entire form or report by using the **PictureTiling** property.
+When a small picture is used for the **Picture** property of a form or report, setting the **PictureSizeMode** property to Stretch or Zoom can cause substantial distortion of its resolution. Smaller pictures can be tiled across the entire form or report by using the **PictureTiling** property.
 
 
 ## Example

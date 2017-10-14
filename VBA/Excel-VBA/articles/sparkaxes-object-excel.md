@@ -18,7 +18,7 @@ Represents the settings for the horizontal and vertical axes of a group of spark
 
 ## Remarks
 
-Use the  **[Axes](sparklinegroup-axes-property-excel.md)** property of a **[SparklineGroup](sparklinegroup-object-excel.md)** object to return the **SparkAxes** object for that group of sparklines.
+Use the **[Axes](sparklinegroup-axes-property-excel.md)** property of a **[SparklineGroup](sparklinegroup-object-excel.md)** object to return the **SparkAxes** object for that group of sparklines.
 
 
 ## See also

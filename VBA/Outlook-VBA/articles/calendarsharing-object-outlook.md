@@ -18,17 +18,17 @@ Represents a set of utilities for sharing calendar information.
 
 ## Remarks
 
-You can use the  **[GetCalendarExporter](folder-getcalendarexporter-method-outlook.md)** method of a **[Folder](folder-object-outlook.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
+You can use the **[GetCalendarExporter](folder-getcalendarexporter-method-outlook.md)** method of a **[Folder](folder-object-outlook.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
 
-You can use the  **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method to create a **[MailItem](mailitem-object-outlook.md)** for sharing a calendar as a payload.
+You can use the **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method to create a **[MailItem](mailitem-object-outlook.md)** for sharing a calendar as a payload.
 
 
- **Note**  The  **CalendarSharing** object only supports exporting the iCalendar format.
+ **Note**  The **CalendarSharing** object only supports exporting the iCalendar format.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a  **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
+The following Visual Basic for Applications (VBA) example creates a **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
 
 
 ```

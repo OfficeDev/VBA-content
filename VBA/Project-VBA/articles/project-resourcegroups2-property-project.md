@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceGroups2 Property (Project)
 
-Gets a  **[ResourceGroups2](resourcegroups2-object-project.md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.
+Gets a **[ResourceGroups2](resourcegroups2-object-project.md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.
 
 
 ## Syntax

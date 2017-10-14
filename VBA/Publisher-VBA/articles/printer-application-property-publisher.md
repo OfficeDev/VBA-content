@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.Application Property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **Printer** object. Read-only.
+Returns an **Application** object that represents the creator of the parent **Printer** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # CellRange Object (Publisher)
 
-A collection of  **[Cell](cell-object-publisher.md)** objects in a table column or row. The **CellRange** collection represents all the cells in the specified column or row.
+A collection of **[Cell](cell-object-publisher.md)** objects in a table column or row. The **CellRange** collection represents all the cells in the specified column or row.
  
 
 
 ## Remarks
 
-Although the collection object is named  **CellRange** and is shown in the Object Browser, this keyword is not used in programming the Microsoft Publisher object model. The keyword **Cells** is used instead.
+Although the collection object is named **CellRange** and is shown in the Object Browser, this keyword is not used in programming the Microsoft Publisher object model. The keyword **Cells** is used instead.
  
 
  
-You cannot programmatically add to or delete individual cells from a Publisher table. Use the  **[AddTable](shapes-addtable-method-publisher.md)** method with the **[Shapes](shapes-object-publisher.md)** collection to add a new table to a publication. Use the **[Add](columns-add-method-publisher.md)** method of the **[Columns](columns-object-publisher.md)** or **[Rows](rows-object-publisher.md)** collections to add a column or row to a table. Use the **[Delete](column-delete-method-publisher.md)** method of the **Columns** or **Rows** collections to delete a column or row from a table.
+You cannot programmatically add to or delete individual cells from a Publisher table. Use the **[AddTable](shapes-addtable-method-publisher.md)** method with the **[Shapes](shapes-object-publisher.md)** collection to add a new table to a publication. Use the **[Add](columns-add-method-publisher.md)** method of the **[Columns](columns-object-publisher.md)** or **[Rows](rows-object-publisher.md)** collections to add a column or row to a table. Use the **[Delete](column-delete-method-publisher.md)** method of the **Columns** or **Rows** collections to delete a column or row from a table.
  
 
  
 
 ## Example
 
-Use the  **[Cells](column-cells-property-publisher.md)** property to return the **CellRange** collection. This example merges the cells in first column of the table.
+Use the **[Cells](column-cells-property-publisher.md)** property to return the **CellRange** collection. This example merges the cells in first column of the table.
  
 
  
@@ -45,7 +45,7 @@ Sub MergeCellsInFirstColumn()
 End Sub
 ```
 
-Use the  **[Count](cellrange-count-property-publisher.md)** property to return the number of cells in a row, column, table or selection. This example displays a message with the number of cells the specified table.
+Use the **[Count](cellrange-count-property-publisher.md)** property to return the number of cells in a row, column, table or selection. This example displays a message with the number of cells the specified table.
  
 
  

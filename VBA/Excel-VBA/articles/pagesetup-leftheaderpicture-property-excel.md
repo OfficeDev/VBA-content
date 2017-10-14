@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LeftHeaderPicture Property (Excel)
 
-Returns a  **[Graphic](graphic-object-excel.md)** object that represents the picture for the left section of the header. Used to set attributes about the picture.
+Returns a **[Graphic](graphic-object-excel.md)** object that represents the picture for the left section of the header. Used to set attributes about the picture.
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 ## Remarks
 
-The  **LeftHeaderPicture** property is read-only, but not all of its properties are read-only.
+The **LeftHeaderPicture** property is read-only, but not all of its properties are read-only.
 
 
- **Note**  It is required that "&;G" be a part of the  **LeftHeader** property string in order for the image to show up in the left header.
+ **Note**  It is required that "&;G" be a part of the **LeftHeader** property string in order for the image to show up in the left header.
 
 
 ## Example

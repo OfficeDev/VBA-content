@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureInfo.IsCertificateExpired Property (Office)
 
-Gets a  **Boolean** value indicating whether the digital certificate is expired. Read-only.
+Gets a **Boolean** value indicating whether the digital certificate is expired. Read-only.
 
 
 ## Syntax

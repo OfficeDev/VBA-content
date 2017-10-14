@@ -18,9 +18,9 @@ Sets the specified fill to a one-color gradient.
 
 ## Syntax
 
- _expression_. **OneColorGradient**( **_Style_**,  **_Variant_**,  **_Degree_**)
+ _expression_. **OneColorGradient**( **_Style_**, **_Variant_**, **_Degree_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -30,12 +30,12 @@ Sets the specified fill to a one-color gradient.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 |Degree|Required| **Single**|The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light).|
 
 ## Remarks
 
-The Style parameter can be one of the  **MsoGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
+The Style parameter can be one of the **MsoGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

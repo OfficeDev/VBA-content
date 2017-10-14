@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ItemProperties.Item Method (Outlook)
 
-Returns an  **[ItemProperty](itemproperty-object-outlook.md)** object from the collection.
+Returns an **[ItemProperty](itemproperty-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[ItemProperty](itemproperty-object-outlook.md)** object from the c
 
 ### Return Value
 
-An  **ItemProperty** object that represents the specified object.
+An **ItemProperty** object that represents the specified object.
 
 
 ## Example

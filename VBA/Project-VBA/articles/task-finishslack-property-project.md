@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.FinishSlack Property (Project)
 
-Gets or sets the finish slack of a task in minutes. Read-only  **Variant**.
+Gets or sets the finish slack of a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.SVPercent Property (Project)
 
-Gets the earned value scheduled variance (SV) percent of the task. Read-only  **Variant**.
+Gets the earned value scheduled variance (SV) percent of the task. Read-only **Variant**.
 
 
 ## Syntax

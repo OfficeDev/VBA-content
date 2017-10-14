@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-The setting of the  **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the  **Format Tab**, in the  **Shape Styles** group, click **Format Shape**.)
+The setting of the **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the **Format Tab**, in the **Shape Styles** group, click **Format Shape**.)
 
 
 ## See also

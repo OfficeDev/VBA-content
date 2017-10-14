@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Attachments.Item Property (Publisher)
 
-Returns the  **[Attachment](attachment-object-publisher.md)** object at the specified index position in the **[Attachments](attachments-object-publisher.md)** collection. Read-only. .
+Returns the **[Attachment](attachment-object-publisher.md)** object at the specified index position in the **[Attachments](attachments-object-publisher.md)** collection. Read-only. .
 
 
 ## Syntax
 
  _expression_. **Item**( **_Item_**)
 
- _expression_A variable that represents an  **Attachments** collection.
+ _expression_A variable that represents an **Attachments** collection.
 
 
 ### Parameters

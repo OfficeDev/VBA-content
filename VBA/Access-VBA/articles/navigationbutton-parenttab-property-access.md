@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.ParentTab Property (Access)
 
-Gets the top-level navigation button associated with the specified navigation button. Read-only  **NavigationButton**.
+Gets the top-level navigation button associated with the specified navigation button. Read-only **NavigationButton**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the top-level navigation button associated with the specified navigation bu
 
 ## Remarks
 
-The  **ParentTab** propety will return a run-time error if the specified navigation button is a top-level navigation button.
+The **ParentTab** propety will return a run-time error if the specified navigation button is a top-level navigation button.
 
 
 ## See also

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetLightingSoftness Property (Publisher)
 
-Returns or sets a  **MsoPresetLightingSoftness** constant that represents the intensity of the extrusion lighting. Read/write.
+Returns or sets a **MsoPresetLightingSoftness** constant that represents the intensity of the extrusion lighting. Read/write.
 
 
 ## Syntax
 
  _expression_. **PresetLightingSoftness**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoPresetLightingSoftness
 
 ## Remarks
 
-The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](http://msdn.microsoft.com/library/da5b4779-fca6-59cd-4cfe-599c3033c5d0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](http://msdn.microsoft.com/library/da5b4779-fca6-59cd-4cfe-599c3033c5d0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

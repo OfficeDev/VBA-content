@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Information Property (Word)
 
-Returns information about the specified range. Read-only  **Variant** .
+Returns information about the specified range. Read-only **Variant** .
 
 
 ## Syntax

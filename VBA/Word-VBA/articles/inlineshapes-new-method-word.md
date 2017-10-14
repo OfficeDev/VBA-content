@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShapes.New Method (Word)
 
-Inserts an empty, 1-inch-square Word picture object surrounded by a border. This method returns the new graphic as an  **InlineShape** object.
+Inserts an empty, 1-inch-square Word picture object surrounded by a border. This method returns the new graphic as an **InlineShape** object.
 
 
 ## Syntax

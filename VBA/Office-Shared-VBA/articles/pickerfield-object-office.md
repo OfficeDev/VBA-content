@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerField Object (Office)
 
-Represents the field definitions of sub-items in a  **PickerResult** object. Each **PickerField** object represents a column definition of a Picker dialog.
+Represents the field definitions of sub-items in a **PickerResult** object. Each **PickerField** object represents a column definition of a Picker dialog.
 
 
 ## Properties

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Databar.ShowValue Property (Excel)
 
-Returns or sets a  **Boolean** value that specifies if the value in the cell is displayed if the data bar conditional format is applied to the range.
+Returns or sets a **Boolean** value that specifies if the value in the cell is displayed if the data bar conditional format is applied to the range.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Indicates whether the specified text frame has a valid forward text-box link. Re
 
  _expression_. **HasNextLink**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **HasNextLink** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **HasNextLink** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

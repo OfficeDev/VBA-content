@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Visible Property (Graph)
 
-Visible property as it applies to the  **Application** object.
+Visible property as it applies to the **Application** object.
 
 Determines whether the object is visible. Read/write Boolean.
 
  _expression_. **Visible**
 
  _expression_ Required. An expression that returns an **Application** object.
-Visible property as it applies to the  **ChartFillFormat** object.
+Visible property as it applies to the **ChartFillFormat** object.
 Determines whether the application is visible. Read/write MsoTriState .
 
 
@@ -33,7 +33,7 @@ Determines whether the application is visible. Read/write MsoTriState .
 
 ## Example
 
-As it applies to the  **ChartFillFormat** object.
+As it applies to the **ChartFillFormat** object.
 
 This example formats the chart's fill with a preset gradient and then makes the fill visible.
 

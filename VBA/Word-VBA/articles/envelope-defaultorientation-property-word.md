@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultOrientation Property (Word)
 
-Returns or sets the default orientation for feeding envelopes. Read/write  **WdEnvelopeOrientation** .
+Returns or sets the default orientation for feeding envelopes. Read/write **WdEnvelopeOrientation** .
 
 
 ## Syntax

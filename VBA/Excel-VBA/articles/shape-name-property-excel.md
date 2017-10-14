@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Name Property (Excel)
 
-Returns or sets a  **String** value representing the name of the object.
+Returns or sets a **String** value representing the name of the object.
 
 
 ## Syntax

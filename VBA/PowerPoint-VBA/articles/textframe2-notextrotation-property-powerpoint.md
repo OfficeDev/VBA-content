@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.NoTextRotation Property (PowerPoint)
 
-Indicates whether to rotate text with the  **TextFrame2** rotation. One of the **MsoTriState** constants. Read/write.
+Indicates whether to rotate text with the **TextFrame2** rotation. One of the **MsoTriState** constants. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Indicates whether to rotate text with the  **TextFrame2** rotation. One of the *
 
 ## Remarks
 
-If  **MsoTriState** is set to msoTrue, the text remains horizontal.
+If **MsoTriState** is set to msoTrue, the text remains horizontal.
 
 
 ## See also

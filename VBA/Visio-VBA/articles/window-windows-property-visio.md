@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Windows Property (Visio)
 
-Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
+Returns the **Windows** collection for a Microsoft Visio instance or window. Read-only.
 
 
 ## Syntax
@@ -30,15 +30,15 @@ Windows
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Windows**
+- **Microsoft.Office.Interop.Visio.IVWindow.Windows**
     
 
 ## Example
 
-This Microsoft Visual Basic macro gets the  **Windows** collection of the **Application** object and prints the ID of each window in the collection in the Immediate window.
+This Microsoft Visual Basic macro gets the **Windows** collection of the **Application** object and prints the ID of each window in the collection in the Immediate window.
 
 
 ```vb

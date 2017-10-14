@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Frameset** object.
+Returns an **Object** that represents the parent object of the specified **Frameset** object.
 
 
 ## Syntax

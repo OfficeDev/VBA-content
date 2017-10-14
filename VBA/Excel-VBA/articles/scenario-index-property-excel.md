@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenario.Index Property (Excel)
 
-Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
+Returns a **Long** value that represents the index number of the object within the collection of similar objects.
 
 
 ## Syntax

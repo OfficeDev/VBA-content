@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ThreeD Property (Word)
 
-Returns a  **ThreeDFormat** object that contains 3-D formatting properties for the specified shape. Read-only.
+Returns a **ThreeDFormat** object that contains 3-D formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

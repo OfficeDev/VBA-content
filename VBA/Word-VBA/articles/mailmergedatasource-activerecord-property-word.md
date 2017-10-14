@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.ActiveRecord Property (Word)
 
-Returns or sets the active mail merge record. Can be either a valid record number in the query result or one of the  **WdMailMergeActiveRecord** constants.
+Returns or sets the active mail merge record. Can be either a valid record number in the query result or one of the **WdMailMergeActiveRecord** constants.
 
 
 ## Syntax

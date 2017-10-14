@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CustomerData Property (PowerPoint)
 
-Returns a  **CustomerData** object. Read-only.
+Returns a **CustomerData** object. Read-only.
 
 
 ## Syntax

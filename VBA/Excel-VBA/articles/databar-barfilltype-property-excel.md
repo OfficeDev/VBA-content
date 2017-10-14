@@ -30,7 +30,7 @@ Returns or sets how a data bar is filled with color. Read/write
 
 ## Remarks
 
-The default value of the  **BarFillType** property is **xlDataBarFillGradient** .
+The default value of the **BarFillType** property is **xlDataBarFillGradient** .
 
 
 ## Example

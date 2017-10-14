@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPasteSpecialCodes Enumeration (Visio)
 
-Format codes passed to the  **PasteSpecial** method.
+Format codes passed to the **PasteSpecial** method.
 
 
 

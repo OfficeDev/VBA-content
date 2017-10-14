@@ -25,7 +25,7 @@ Creates a Web presentation (HTML format) from any loaded presentation. You can v
 
 ## Remarks
 
-You can specify the content and attributes of the published presentation by setting various properties of the  **[PublishObject](publishobject-object-powerpoint.md)** object. For example, the **[SourceType](publishobject-sourcetype-property-powerpoint.md)** property defines the portion of a loaded presentation to be published. The **[RangeStart](publishobject-rangestart-property-powerpoint.md)** property and the **[RangeEnd](publishobject-rangeend-property-powerpoint.md)** property specify the range of slides to publish, and the **[SpeakerNotes](publishobject-speakernotes-property-powerpoint.md)** property designates whether or not to publish the speaker's notes.
+You can specify the content and attributes of the published presentation by setting various properties of the **[PublishObject](publishobject-object-powerpoint.md)** object. For example, the **[SourceType](publishobject-sourcetype-property-powerpoint.md)** property defines the portion of a loaded presentation to be published. The **[RangeStart](publishobject-rangestart-property-powerpoint.md)** property and the **[RangeEnd](publishobject-rangeend-property-powerpoint.md)** property specify the range of slides to publish, and the **[SpeakerNotes](publishobject-speakernotes-property-powerpoint.md)** property designates whether or not to publish the speaker's notes.
 
 
 ## Example

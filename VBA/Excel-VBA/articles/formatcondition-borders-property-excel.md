@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Borders Property (Excel)
 
-Returns a  **[Borders](borders-object-excel.md)** collection that represents the borders of a style or a range of cells (including a range defined as part of a conditional format).
+Returns a **[Borders](borders-object-excel.md)** collection that represents the borders of a style or a range of cells (including a range defined as part of a conditional format).
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Move Method (Office)
 
-Moves the specified  **CommandBarControl** to an existing command bar.
+Moves the specified **CommandBarControl** to an existing command bar.
 
 
 ## 
@@ -32,7 +32,7 @@ Moves the specified  **CommandBarControl** to an existing command bar.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Bar_|Optional|**Variant**|A  **Command** object that represents the destination command bar for the control. If this argument is omitted, the control is moved to the end of the command bar where the control currently resides.|
+| _Bar_|Optional|**Variant**|A **Command** object that represents the destination command bar for the control. If this argument is omitted, the control is moved to the end of the command bar where the control currently resides.|
 | _Before_|Optional|**Variant**|A number that indicates the position for the control. The control is inserted before the control currently occupying this position. If this argument is omitted, the control is inserted on the same command bar.|
 
 ## Example

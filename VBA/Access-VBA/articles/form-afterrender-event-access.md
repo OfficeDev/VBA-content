@@ -29,8 +29,8 @@ Occurs after the object represented by the  _chartObject_ argument has been rend
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
-| _chartObject_|Required|**Object**|The object that has just been rendered. Use the  **TypeName** function to determine what type of object has just been rendered.|
+| _drawObject_|Required|**Object**|A **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
+| _chartObject_|Required|**Object**|The object that has just been rendered. Use the **TypeName** function to determine what type of object has just been rendered.|
 
 ### Return Value
 

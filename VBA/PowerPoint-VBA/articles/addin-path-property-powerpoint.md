@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Path Property (PowerPoint)
 
-Returns a  **String** that represents the path to the specified **[AddIn](addin-object-powerpoint.md)** object. Read-only.
+Returns a **String** that represents the path to the specified **[AddIn](addin-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax

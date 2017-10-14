@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CalculationVersion Property (Excel)
 
-Returns a number whose rightmost four digits are the minor calculation engine version number, and whose other digits (on the left) are the major version of Microsoft Excel. Read-only  **Long** .
+Returns a number whose rightmost four digits are the minor calculation engine version number, and whose other digits (on the left) are the major version of Microsoft Excel. Read-only **Long** .
 
 
 ## Syntax

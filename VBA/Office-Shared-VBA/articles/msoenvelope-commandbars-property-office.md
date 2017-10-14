@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.CommandBars Property (Office)
 
-Gets a  **CommandBars** collection. Read-only.
+Gets a **CommandBars** collection. Read-only.
 
 
 ## 
@@ -31,7 +31,7 @@ Gets a  **CommandBars** collection. Read-only.
 
 ## Example
 
-The following example return the  **CommandBars** collection from the **MsoEnvelope** object in Microsoft Word.
+The following example return the **CommandBars** collection from the **MsoEnvelope** object in Microsoft Word.
 
 
 ```

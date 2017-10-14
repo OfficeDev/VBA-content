@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the **Solutions** module is displayed in the Navigation Pane. Read/write.
+Returns or sets a **Boolean** value that indicates whether the **Solutions** module is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether the **Solutions** mo
 
 ## Remarks
 
-If there are no solutions under the  **Solutions** module, setting or getting the **Visible** property raises an error.
+If there are no solutions under the **Solutions** module, setting or getting the **Visible** property raises an error.
 
 
 ## See also

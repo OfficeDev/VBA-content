@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandButton.GridlineWidthTop Property (Access)
 
-Gets or sets the width of the top gridline for the specified button. Read/write  **Byte**.
+Gets or sets the width of the top gridline for the specified button. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the top gridline for the specified button. Read/write 
 
 ## Remarks
 
-The  **TopGridlineWidth** property uses the following settings.
+The **TopGridlineWidth** property uses the following settings.
 
 
 

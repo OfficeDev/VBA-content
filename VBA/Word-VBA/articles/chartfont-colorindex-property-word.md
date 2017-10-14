@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.ColorIndex Property (Word)
 
-Returns or sets the color of the font. Read/write  **Variant** .
+Returns or sets the color of the font. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the color of the font. Read/write  **Variant** .
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-word.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](xlcolorindex-enumeration-word.md)** constants:
 
 
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**
     
--  **xlColorIndexNone**
+- **xlColorIndexNone**
     
 
 ## Example

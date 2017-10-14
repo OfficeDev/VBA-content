@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.SelLength Property (Access)
 
-The  **SelLength** property specifies or determines the number of characters selected in the text box portion of a combo box. Read/write **Integer**.
+The **SelLength** property specifies or determines the number of characters selected in the text box portion of a combo box. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ The  **SelLength** property specifies or determines the number of characters sel
 
 ## Remarks
 
-The  **SelLength** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
+The **SelLength** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
 
-To set or return this property for a control, the control must have the focus. To move the focus to a control, use the  **SetFocus** method.
+To set or return this property for a control, the control must have the focus. To move the focus to a control, use the **SetFocus** method.
 
-Setting the  **SelLength** property to a number less than 0 produces a run-time error.
+Setting the **SelLength** property to a number less than 0 produces a run-time error.
 
 
 ## Example

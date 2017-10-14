@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.OutsideColorIndex Property (Word)
 
-Returns or sets the color of the outside borders. Read/write  **WdColorIndex** .
+Returns or sets the color of the outside borders. Read/write **WdColorIndex** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the color of the outside borders. Read/write  **WdColorIndex** .
 
 ## Remarks
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
 
 
 ## Example

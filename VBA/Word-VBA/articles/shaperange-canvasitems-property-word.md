@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.CanvasItems Property (Word)
 
-Returns a  **[CanvasShapes](canvasshapes-object-word.md)** object that represents a collection of shapes in a drawing canvas.
+Returns a **[CanvasShapes](canvasshapes-object-word.md)** object that represents a collection of shapes in a drawing canvas.
 
 
 ## Syntax

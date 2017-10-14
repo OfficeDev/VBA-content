@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variables.Count Property (Word)
 
-Returns a  **Long** that represents the number of variables in the collection.
+Returns a **Long** that represents the number of variables in the collection.
 
 
 ## Syntax

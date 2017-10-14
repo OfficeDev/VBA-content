@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.View Property (Word)
 
-Returns a  **View** object that represents the view for the specified pane.
+Returns a **View** object that represents the view for the specified pane.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **View** object that represents the view for the specified pane.
 
 ## Example
 
-This example shows all nonprinting characters for panes associated with the first window in the  **Windows** collection.
+This example shows all nonprinting characters for panes associated with the first window in the **Windows** collection.
 
 
 ```vb

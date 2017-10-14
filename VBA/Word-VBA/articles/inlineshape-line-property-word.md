@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Line Property (Word)
 
-Returns a  **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
+Returns a **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 ## Remarks
 
-For an inline shape with a border, the  **LineFormat** object represents the border.
+For an inline shape with a border, the **LineFormat** object represents the border.
 
 
 ## See also

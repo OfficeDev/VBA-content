@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.LongestBarLimit Property (Access)
 
-Gets or sets how the longest data bar is evaluated for the specified  **[FormatCondition](formatcondition-object-access.md)**. Read/write **[AcFormatBarLimits](acformatbarlimits-enumeration-access.md)**.
+Gets or sets how the longest data bar is evaluated for the specified **[FormatCondition](formatcondition-object-access.md)**. Read/write **[AcFormatBarLimits](acformatbarlimits-enumeration-access.md)**.
 
 
 ## Syntax

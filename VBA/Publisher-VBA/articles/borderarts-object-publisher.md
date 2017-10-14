@@ -19,14 +19,14 @@ A collection of all BorderArt available for use in the specified publication. Bo
 
 ## Remarks
 
-The  **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
+The **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
  
 
  
 
 ## Example
 
-Use the  **[Item](borderarts-item-method-publisher.md)** property of a **BorderArts** collection to return a specific **[BorderArt](borderart-object-publisher.md)** object. The Index argument of the **Item** property can be the number or name of the BorderArt object.
+Use the **[Item](borderarts-item-method-publisher.md)** property of a **BorderArts** collection to return a specific **[BorderArt](borderart-object-publisher.md)** object. The Index argument of the **Item** property can be the number or name of the BorderArt object.
  
 
  
@@ -43,7 +43,7 @@ Dim bdaTemp As BorderArt
 Set bdaTemp = ActiveDocument.BorderArts.Item (Index:="Apples") 
 ```
 
-Use the  **[Count](borderarts-count-property-publisher.md)** property to return the number of BorderArt types available in the specified document. The following example displays the number of BorderArt types in the active document.
+Use the **[Count](borderarts-count-property-publisher.md)** property to return the number of BorderArt types available in the specified document. The following example displays the number of BorderArt types in the active document.
  
 
  

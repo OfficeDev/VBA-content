@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.Type Property (Access)
 
-Indicates whether a module is a standard module or a class module. Read-only  **[AcModuleType](acmoduletype-enumeration-access.md)**.
+Indicates whether a module is a standard module or a class module. Read-only **[AcModuleType](acmoduletype-enumeration-access.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Indicates whether a module is a standard module or a class module. Read-only  **
 
 ## Example
 
-The following example determines whether a  **Module** object represents a standard module or a class module:
+The following example determines whether a **Module** object represents a standard module or a class module:
 
 
 ```vb

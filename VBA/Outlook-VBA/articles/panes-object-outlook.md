@@ -13,28 +13,28 @@ ms.date: 06/08/2017
 
 # Panes Object (Outlook)
 
-Contains the panes displayed by the specified  **[Explorer](explorer-object-outlook.md)**.
+Contains the panes displayed by the specified **[Explorer](explorer-object-outlook.md)**.
 
 
 ## Remarks
 
-Use the  **[Panes](explorer-panes-property-outlook.md)** property to return the **Panes** collection object from an **Explorer** object.
+Use the **[Panes](explorer-panes-property-outlook.md)** property to return the **Panes** collection object from an **Explorer** object.
 
-Use the  **[Item](panes-item-method-outlook.md)** method to retrieve a specific pane.
+Use the **[Item](panes-item-method-outlook.md)** method to retrieve a specific pane.
 
-For Microsoft Outlook 2000 and later, the  **Shortcuts** pane is the only pane that you can access through the **Panes** object.
+For Microsoft Outlook 2000 and later, the **Shortcuts** pane is the only pane that you can access through the **Panes** object.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example retrieves the  **Panes** object from an **Explorer** object.
+The following Visual Basic for Applications (VBA) example retrieves the **Panes** object from an **Explorer** object.
 
 
 ```
 Set myPanes = myExplorer.Panes
 ```
 
-The following example retrieves the  **[OutlookBarPane](outlookbarpane-object-outlook.md)** object representing the **Shortcuts** pane.
+The following example retrieves the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object representing the **Shortcuts** pane.
 
 
 

@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Click Event, CommandButton Control, Accelerator, Caption Properties Example
 
-This example changes the  **Accelerator** and **Caption** properties of a **CommandButton** each time the user clicks the button by using the mouse or the accelerator key. The Click event contains the code to change the **Accelerator** and **Caption** properties.
+This example changes the **Accelerator** and **Caption** properties of a **CommandButton** each time the user clicks the button by using the mouse or the accelerator key. The Click event contains the code to change the **Accelerator** and **Caption** properties.
 
-To try this example, paste the code into the Declarations section of a form containing a  **CommandButton** named CommandButton1.
+To try this example, paste the code into the Declarations section of a form containing a **CommandButton** named CommandButton1.
 
 
 

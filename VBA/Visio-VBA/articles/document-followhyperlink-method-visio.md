@@ -33,7 +33,7 @@ Navigates to an arbitrary hyperlink.
 | _SubAddress_|Required| **String**|The secondary address to which you want to navigate; if you don't need this information, pass an empty string. If  _Address_ is the full path of a Visio document that contains multiple pages, for example, you can use _SubAddress_ to specify the page.|
 | _ExtraInfo_|Optional| **Variant**|Extra URL request information to use in resolving the URL.|
 | _Frame_|Optional| **Variant**|The HTML frame to which to navigate.|
-| _NewWindow_|Optional| **Variant**|Specifies if a new window is to be opened. Passing any non-zero number or  **True** opens the linked page in a new window.|
+| _NewWindow_|Optional| **Variant**|Specifies if a new window is to be opened. Passing any non-zero number or **True** opens the linked page in a new window.|
 | _res1_|Optional| **Variant**|Unused.|
 | _res2_|Optional| **Variant**|Unused.|
 | _res3_|Optional| **Variant**|Unused.|
@@ -47,7 +47,7 @@ Nothing
 
 If you don't need to pass any information for one or more optional arguments, from Microsoft Visual Basic or Visual Basic for Applications, do not pass a value. From C or C++, pass an empty variant.
 
-Visio 4.5 provided an undocumented  **Hyperlink** method for a **Document** object that had the following signature:
+Visio 4.5 provided an undocumented **Hyperlink** method for a **Document** object that had the following signature:
 
 
 
@@ -56,7 +56,7 @@ Visio 4.5 provided an undocumented  **Hyperlink** method for a **Document** obje
 HRESULT FollowHyperlink[in] (BSTR Target, [in] BSTR Location);
 ```
 
-Visio 5.0 and later still support this method but it has been renamed  **FollowHyperlink45** :
+Visio 5.0 and later still support this method but it has been renamed **FollowHyperlink45** :
 
 
 
@@ -65,12 +65,12 @@ Visio 5.0 and later still support this method but it has been renamed  **FollowH
 HRESULT FollowHyperlink45[in] (BSTR Target, [in] BSTR Location);
 ```
 
-Use of  **FollowHyperlink45** is discouraged, however?unless you are using version 4.5, use **FollowHyperlink** instead.
+Use of **FollowHyperlink45** is discouraged, however - unless you are using version 4.5, use **FollowHyperlink** instead.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **FollowHyperlink** method to navigate to a site on the Internet and view the resulting Web page in a new browser window. It also shows how to navigate to the second page of the current document and to the first page of another document on your computer. Before running the macro, substitute the path and file name of a valid Visio document on your computer for _&lt;path\filename&gt;_. 
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **FollowHyperlink** method to navigate to a site on the Internet and view the resulting Web page in a new browser window. It also shows how to navigate to the second page of the current document and to the first page of another document on your computer. Before running the macro, substitute the path and file name of a valid Visio document on your computer for _&lt;path\filename&gt;_. 
 
 
 ```vb

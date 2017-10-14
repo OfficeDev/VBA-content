@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # Shape.InlineAlignment Property (Publisher)
 
-Returns or sets a  **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
+Returns or sets a **PbInlineAlignment** constant that indicates whether an inline shape has left, right, or in-text alignment. Read/write.
 
 
 ## Syntax
 
  _expression_. **InlineAlignment**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-The  **InlineAlignment** property value can be one of the **[PbInlineAlignment](pbinlinealignment-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **InlineAlignment** property value can be one of the **[PbInlineAlignment](pbinlinealignment-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 An automation error is returned if the shape is not already inline.
 
 
 ## Example
 
-The following example moves the second shape on the second page of the publication into the text flow by using the  **[MoveIntoTextFlow](shape-moveintotextflow-method-publisher.md)** method. The **InlineAlignment** property is then used to align the shape to the right.
+The following example moves the second shape on the second page of the publication into the text flow by using the **[MoveIntoTextFlow](shape-moveintotextflow-method-publisher.md)** method. The **InlineAlignment** property is then used to align the shape to the right.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.SetSidepaneStateButton Method (Project)
 
-Sets the state of the  **Toggle** button in the Project Guide. Deprecated in Project.
+Sets the state of the **Toggle** button in the Project Guide. Deprecated in Project.
 
 
 ## Syntax

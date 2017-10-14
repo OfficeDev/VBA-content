@@ -25,7 +25,7 @@ This object applies only to pie charts.
 
 ## Example
 
-Use the  **[LeaderLines](series-leaderlines-property-word.md)** property to return the **LeaderLines** object. The following example adds data labels and blue leader lines to series one on the first chart in the active document. If no leader lines are visible, this example code will fail. In this situation, you can manually drag one of the data labels away from the pie chart to make a leader line show up.
+Use the **[LeaderLines](series-leaderlines-property-word.md)** property to return the **LeaderLines** object. The following example adds data labels and blue leader lines to series one on the first chart in the active document. If no leader lines are visible, this example code will fail. In this situation, you can manually drag one of the data labels away from the pie chart to make a leader line show up.
 
 
 ```vb

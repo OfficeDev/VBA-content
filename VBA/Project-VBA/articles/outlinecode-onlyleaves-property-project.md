@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If there are no values in the outline code lookup table, then  **OnlyLeaves** is **False** and non-writeable. For enterprise text fields with a lookup table, **OnlyLeaves** is always **False** and non-writeable.
+If there are no values in the outline code lookup table, then **OnlyLeaves** is **False** and non-writeable. For enterprise text fields with a lookup table, **OnlyLeaves** is always **False** and non-writeable.
 
 

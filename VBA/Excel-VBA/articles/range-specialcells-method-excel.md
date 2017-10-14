@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.SpecialCells Method (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents all the cells that match the specified type and value.
+Returns a **[Range](range-object-excel.md)** object that represents all the cells that match the specified type and value.
 
 
 ## Syntax

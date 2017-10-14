@@ -28,6 +28,6 @@ Pauses the specified broadcast.
 
 ## Remarks
 
-If the specified broadcast is not in progress,  **Pause** returns runtime error 4702.
+If the specified broadcast is not in progress, **Pause** returns runtime error 4702.
 
 

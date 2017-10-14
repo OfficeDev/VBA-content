@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.IMAddress Property (Outlook)
 
-Returns or sets a  **String** that represents a contact's Microsoft Instant Messenger address. Read/write.
+Returns or sets a **String** that represents a contact's Microsoft Instant Messenger address. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents a contact's Microsoft Instant Mess
 
 ## Remarks
 
-Unlike the  **[Recipients](mailitem-recipients-property-outlook.md)** or **[To](mailitem-to-property-outlook.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
+Unlike the **[Recipients](mailitem-recipients-property-outlook.md)** or **[To](mailitem-to-property-outlook.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
 
 
 ## Example

@@ -29,7 +29,7 @@ Displays the selected or default digital certificate.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window that contains the  **Certificate** dialog box.|
+| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window that contains the **Certificate** dialog box.|
 
 ## Example
 

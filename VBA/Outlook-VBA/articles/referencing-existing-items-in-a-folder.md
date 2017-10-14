@@ -16,16 +16,16 @@ There are a number of ways you can reference existing items in a folder using Mi
 
 - Using a  `For … Next` or `For Each … Next` loop
     
-- Using the  **[Items](items-object-outlook.md)** collection
+- Using the **[Items](items-object-outlook.md)** collection
     
-- Using the  **[Find](items-find-method-outlook.md)** method
+- Using the **[Find](items-find-method-outlook.md)** method
     
-- Using the  **[Restrict](items-restrict-method-outlook.md)** method
+- Using the **[Restrict](items-restrict-method-outlook.md)** method
     
 
 ## Using a For…Next or For Each...Next Loop
 
-Typically these statements are used to loop through all of the items in a folder. The  **Items** collection contains all the items in a particular folder, and you can specify which item to reference by using an index with the **Items** collection. This is typically used with the `For i = 1 to n` programming construct.
+Typically these statements are used to loop through all of the items in a folder. The **Items** collection contains all the items in a particular folder, and you can specify which item to reference by using an index with the **Items** collection. This is typically used with the `For i = 1 to n` programming construct.
 
 You can use  `For Each...Next` to loop through the items in the collection without specifying an index. Both approaches achieve the same result.
 
@@ -103,7 +103,7 @@ Next
 
 ## Using the Items Collection
 
-You can also use the  **Items** collection and specify a text string that matches the Subject field of an item. The following examples display an item in the Inbox whose subject contains "Please help on Friday!"
+You can also use the **Items** collection and specify a text string that matches the Subject field of an item. The following examples display an item in the Inbox whose subject contains "Please help on Friday!"
 
 
 ```vb
@@ -129,7 +129,7 @@ MyItem.Display
 
 ## Using the Find Method
 
-Use the  **Find** method to search for an item in a folder based on the value of one of its fields. If the search is successful, you can then use the **[FindNext](items-findnext-method-outlook.md)** method to check for additional items that meet the same search criteria.
+Use the **Find** method to search for an item in a folder based on the value of one of its fields. If the search is successful, you can then use the **[FindNext](items-findnext-method-outlook.md)** method to check for additional items that meet the same search criteria.
 
 The following examples search to see if you have any high priority tasks.
 
@@ -170,7 +170,7 @@ End If
 
 ## Using the Restrict Method
 
-The  **Restrict** method is similar to the **Find** method, but instead of returning a single item, it returns a collection of items that meet the search criteria. For example, you could use this method to find all contacts that work at the same company.
+The **Restrict** method is similar to the **Find** method, but instead of returning a single item, it returns a collection of items that meet the search criteria. For example, you could use this method to find all contacts that work at the same company.
 
 The following examples display all of the contacts that work at ProseWare Corporation:
 

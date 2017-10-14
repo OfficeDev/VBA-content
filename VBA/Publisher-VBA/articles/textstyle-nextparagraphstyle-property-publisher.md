@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextStyle.NextParagraphStyle Property (Publisher)
 
-Returns or sets a  **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
+Returns or sets a **String** that represents the paragraph style that follows the specified text style when a user presses ENTER. Read/write.
 
 
 ## Syntax
 
  _expression_. **NextParagraphStyle**
 
- _expression_A variable that represents a  **TextStyle** object.
+ _expression_A variable that represents a **TextStyle** object.
 
 
 ### Return Value

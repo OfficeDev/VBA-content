@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.RevisedDocumentTitle Property (Word)
 
-Returns a  **String** that represents the document title for a revised document after running a legal-blackline document compare function. Read-only.
+Returns a **String** that represents the document title for a revised document after running a legal-blackline document compare function. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the document title for a revised document 
 
 ## Remarks
 
-To perform a legal-blackline document compare, use the  **[CompareDocuments](application-comparedocuments-method-word.md)** method.
+To perform a legal-blackline document compare, use the **[CompareDocuments](application-comparedocuments-method-word.md)** method.
 
 
 ## See also

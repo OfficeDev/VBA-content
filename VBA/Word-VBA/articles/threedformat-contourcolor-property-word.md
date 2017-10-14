@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ContourColor Property (Word)
 
-Returns or sets a  **ColorFormat** object that represents color of the contour of a shape. Read/write.
+Returns or sets a **ColorFormat** object that represents color of the contour of a shape. Read/write.
 
 
 ## Syntax

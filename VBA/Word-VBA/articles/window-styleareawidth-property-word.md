@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.StyleAreaWidth Property (Word)
 
-Returns or sets the width of the style area in points. Read/write  **Single** .
+Returns or sets the width of the style area in points. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the width of the style area in points. Read/write  **Single** .
 
 ## Remarks
 
-When the  **StyleAreaWidth** property is greater than 0 (zero), style names are displayed to the left of the text. The style area isn't visible in print layout or Web layout view.
+When the **StyleAreaWidth** property is greater than 0 (zero), style names are displayed to the left of the text. The style area isn't visible in print layout or Web layout view.
 
 
 ## Example

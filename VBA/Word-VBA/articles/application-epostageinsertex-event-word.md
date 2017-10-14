@@ -30,14 +30,14 @@ Occurs when a user inserts electronic postage into a document.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required| **Document**|The document to which electronic postage is being added.|
-| _cpDeliveryAddrStart_|Required| **Long**|The starting position in the document for the delivery address. Positioning corresponds to the value of the  **Start** property for a **Range** object.|
-| _cpDeliveryAddrEnd_|Required| **Long**|The ending position in the document for the delivery address. Positioning corresponds to the value of the  **End** property for a **Range** object.|
-| _cpReturnAddrStart_|Required| **Long**|The starting position in the document for the return address. Positioning corresponds to the value of the  **Start** property for a **Range** object.|
-| _cpReturnAddrEnd_|Required| **Long**|The ending position in the document for the return address. Positioning corresponds to the value of the  **End** property for a **Range** object.|
+| _cpDeliveryAddrStart_|Required| **Long**|The starting position in the document for the delivery address. Positioning corresponds to the value of the **Start** property for a **Range** object.|
+| _cpDeliveryAddrEnd_|Required| **Long**|The ending position in the document for the delivery address. Positioning corresponds to the value of the **End** property for a **Range** object.|
+| _cpReturnAddrStart_|Required| **Long**|The starting position in the document for the return address. Positioning corresponds to the value of the **Start** property for a **Range** object.|
+| _cpReturnAddrEnd_|Required| **Long**|The ending position in the document for the return address. Positioning corresponds to the value of the **End** property for a **Range** object.|
 | _xaWidth_|Required| **Long**|The width of the envelope in 1/1440-inch units.|
 | _yaHeight_|Required| **Long**|The height of the envelope in 1/1440-inch units.|
-| _bstrPrinterName_|Required| **String**|The name of the printer as specified on the  **Printing Options** tab of the **Envelope Options** dialog box.|
-| _bstrPaperFeed_|Required| **String**|The feed method as specified on the  **Printing Options** tab of the **Envelope Options** dialog box.|
+| _bstrPrinterName_|Required| **String**|The name of the printer as specified on the **Printing Options** tab of the **Envelope Options** dialog box.|
+| _bstrPaperFeed_|Required| **String**|The feed method as specified on the **Printing Options** tab of the **Envelope Options** dialog box.|
 | _fPrint_|Required| **Boolean**| **True** if the user has specified to print the envelope. **False** if the user has specified to insert the envelope into the document.|
 | _fCancel_|Required| **Boolean**| **True** cancels inserting the postage.|
 

@@ -18,10 +18,10 @@ You can restart execution from [break mode](vbe-glossary.md). Restarting returns
 
 
 
-1. On the  **Run** menu, click **Reset <projectname&gt;**, or use the toolbar shortcut:
+1. On the **Run** menu, click **Reset <projectname&gt;**, or use the toolbar shortcut:
 ![Toolbar button](images/tbr_end_ZA01201701.gif).
     
-2. On the  **Run** menu, click **Run Sub/UserForm** (F5), or use the toolbar shortcut:
+2. On the **Run** menu, click **Run Sub/UserForm** (F5), or use the toolbar shortcut:
 ![Toolbar button](images/tbr_strt_ZA01201751.gif).
     
 

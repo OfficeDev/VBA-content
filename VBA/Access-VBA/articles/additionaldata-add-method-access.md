@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AdditionalData.Add Method (Access)
 
-Adds an add table or query that will be included when the  **ExportXML** method is called.
+Adds an add table or query that will be included when the **ExportXML** method is called.
 
 
 ## Syntax

@@ -33,11 +33,11 @@ Stops the action of always moving conversation items in the specified store to t
 
 ## Remarks
 
-If the always-delete action has not been turned on,  **StopAlwaysDelete** does not carry out any action.
+If the always-delete action has not been turned on, **StopAlwaysDelete** does not carry out any action.
 
 If the always-delete action has been turned on (by calling the [SetAlwaysDelete](conversation-setalwaysdelete-method-outlook.md) method, **StopAlwaysDelete** moves existing conversation items in the Deleted Items folder to the Inbox.
 
-After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](conversation-getalwaysdelete-method-outlook.md)** method on that conversation and store returns the constant **olDoNotDelete** .
+After calling the **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](conversation-getalwaysdelete-method-outlook.md)** method on that conversation and store returns the constant **olDoNotDelete** .
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the stop-always-delete action is applied to conversation items in the default delivery store.
 

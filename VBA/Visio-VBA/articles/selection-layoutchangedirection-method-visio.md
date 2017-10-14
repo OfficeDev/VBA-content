@@ -51,7 +51,7 @@ The  _Direction_ parameter must be one of the following **VisLayoutDirection** c
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **LayoutChangeDirection** method to flip a selection of connected shapes vertically, without flipping the individual shapes.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **LayoutChangeDirection** method to flip a selection of connected shapes vertically, without flipping the individual shapes.
 
 
 ```vb

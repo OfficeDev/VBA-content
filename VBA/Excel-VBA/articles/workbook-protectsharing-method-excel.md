@@ -31,7 +31,7 @@ Saves the workbook and protects it for sharing.
 |:-----|:-----|:-----|:-----|
 | _Filename_|Optional| **Variant**|A string indicating the name of the saved file. You can include a full path; if you don?t, Microsoft Excel saves the file in the current folder.|
 | _Password_|Optional| **Variant**|A case-sensitive string indicating the protection password to be given to the file. Should be no longer than 15 characters.|
-| _WriteResPassword_|Optional| **Variant**|A string indicating the write-reservation password for this file. If a file is saved with the password and the password isn?t supplied when the file is opened, the file is opened read-only.|
+| _WriteResPassword_|Optional| **Variant**|A string indicating the write-reservation password for this file. If a file is saved with the password and the password isn't supplied when the file is opened, the file is opened read-only.|
 | _ReadOnlyRecommended_|Optional| **Variant**| **True** to display a message when the file is opened, recommending that the file be opened read-only.|
 | _CreateBackup_|Optional| **Variant**| **True** to create a backup file.|
 | _SharingPassword_|Optional| **Variant**|A string indicating the password to be used to protect the file for sharing.|

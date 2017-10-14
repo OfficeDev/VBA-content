@@ -29,7 +29,7 @@ Exits Microsoft Project.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional|**Long**|Specifies whether Project saves changes before quitting. Can be one of the following  **[PjSaveType](pjsavetype-enumeration-project.md)** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default is **pjPromptSave** for new project files and projects that have changed since the last save.|
+| _SaveChanges_|Optional|**Long**|Specifies whether Project saves changes before quitting. Can be one of the following **[PjSaveType](pjsavetype-enumeration-project.md)** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default is **pjPromptSave** for new project files and projects that have changed since the last save.|
 
 ## Example
 

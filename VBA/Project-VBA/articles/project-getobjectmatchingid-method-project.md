@@ -29,7 +29,7 @@ Returns the matching identification name of an object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**Long**|The type of object. Can be one of the  **[PjOrganizer](pjorganizer-enumeration-project.md)** constants.|
+| _ObjectType_|Required|**Long**|The type of object. Can be one of the **[PjOrganizer](pjorganizer-enumeration-project.md)** constants.|
 | _ObjectName_|Required|**String**|Display name of the object.|
 
 ### Return Value
@@ -39,7 +39,7 @@ Returns the matching identification name of an object.
 
 ## Remarks
 
-You can use the  **GetObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](application-useomids-property-project.md)** property.
+You can use the **GetObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](application-useomids-property-project.md)** property.
 
 
 ## Example

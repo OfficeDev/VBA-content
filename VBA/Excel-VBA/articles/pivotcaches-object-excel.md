@@ -23,7 +23,7 @@ Represents the collection of memory caches from the PivotTable reports in a work
 
 ## Example
 
-Use the  **[PivotCaches](workbook-pivotcaches-method-excel.md)** method to return the **[PivotCaches](pivotcaches-object-excel.md)** collection. The following example sets the **[RefreshOnFileOpen](pivotcache-refreshonfileopen-property-excel.md)** property for all memory caches in the active workbook.
+Use the **[PivotCaches](workbook-pivotcaches-method-excel.md)** method to return the **[PivotCaches](pivotcaches-object-excel.md)** collection. The following example sets the **[RefreshOnFileOpen](pivotcache-refreshonfileopen-property-excel.md)** property for all memory caches in the active workbook.
 
 
 ```

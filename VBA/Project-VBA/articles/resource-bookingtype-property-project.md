@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.BookingType Property (Project)
 
-Gets or sets the booking type for a resource. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
+Gets or sets the booking type for a resource. Can be one of the following **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 
 
 ## Syntax

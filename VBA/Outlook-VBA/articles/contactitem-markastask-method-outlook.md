@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.MarkAsTask Method (Outlook)
 
-Marks a  **[ContactItem](contactitem-object-outlook.md)** object as a task and assigns a task interval for the object.
+Marks a **[ContactItem](contactitem-object-outlook.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Marks a  **[ContactItem](contactitem-object-outlook.md)** object as a task and a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the  **ContactItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the **ContactItem** .|
 
 ## Remarks
 

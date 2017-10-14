@@ -19,7 +19,7 @@ Possible causes:
 
 - You tried to save a query being used by someone else. To save your query, wait for the other user to finish or enter a different name, and then try the operation again.
     
-- You tried to use the  **Edit** method on a data page containing a record that is already open or locked.
+- You tried to use the **Edit** method on a data page containing a record that is already open or locked.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.HangulAndAlphabetExceptions Property (Word)
 
-Returns a  **[HangulAndAlphabetExceptions](hangulandalphabetexceptions-object-word.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
+Returns a **[HangulAndAlphabetExceptions](hangulandalphabetexceptions-object-word.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[HangulAndAlphabetExceptions](hangulandalphabetexceptions-object-wo
 
 ## Remarks
 
-This list corresponds to the list of Hangul and alphabet AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+This list corresponds to the list of Hangul and alphabet AutoCorrect exceptions on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 

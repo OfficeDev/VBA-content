@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.PreleveledFinish Property (Project)
 
-Gets the finish date of a task before leveling occurred. Read-only  **Variant**.
+Gets the finish date of a task before leveling occurred. Read-only **Variant**.
 
 
 ## Syntax

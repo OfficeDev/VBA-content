@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTables Object (Excel)
 
-A collection of all the  **[PivotTable](pivottable-object-excel.md)** objects in the specified workbook.
+A collection of all the **[PivotTable](pivottable-object-excel.md)** objects in the specified workbook.
 
 
 ## Remarks
@@ -26,14 +26,14 @@ Because PivotTable report programming can be complex, it's generally easiest to 
 
 ## Example
 
-Use the  **[PivotTables](worksheet-pivottables-method-excel.md)** method to return the **PivotTables** collection. The following example displays the number of PivotTable reports on Sheet3.
+Use the **[PivotTables](worksheet-pivottables-method-excel.md)** method to return the **PivotTables** collection. The following example displays the number of PivotTable reports on Sheet3.
 
 
 ```
 MsgBox Worksheets("sheet3").PivotTables.Count
 ```
 
-Use the  **[PivotTableWizard](worksheet-pivottablewizard-method-excel.md)** method to create a new PivotTable report and add it to the collection. The following example creates a new PivotTable report from a Microsoft Excel database (contained in the range A1:C100).
+Use the **[PivotTableWizard](worksheet-pivottablewizard-method-excel.md)** method to create a new PivotTable report and add it to the collection. The following example creates a new PivotTable report from a Microsoft Excel database (contained in the range A1:C100).
 
 
 
@@ -42,7 +42,7 @@ Use the  **[PivotTableWizard](worksheet-pivottablewizard-method-excel.md)** meth
 ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ```
 
-Use  **PivotTables** ( _index_ ), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
+Use **PivotTables** ( _index_ ), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 
 

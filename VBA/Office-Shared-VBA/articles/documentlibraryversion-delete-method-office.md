@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion.Delete Method (Office)
 
-Removes a document library version from the  **DocumentLibraryVersions** collection.
+Removes a document library version from the **DocumentLibraryVersions** collection.
 
 
 ## Syntax

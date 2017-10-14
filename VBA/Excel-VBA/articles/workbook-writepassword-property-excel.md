@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.WritePassword Property (Excel)
 
-Returns or sets a  **String** for the write password of a workbook. Read/write.
+Returns or sets a **String** for the write password of a workbook. Read/write.
 
 
 ## Syntax

@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **Use3DLook** property has no effect in Project. The default value is **False**, and cannot be set to **True**.
+The **Use3DLook** property has no effect in Project. The default value is **False**, and cannot be set to **True**.
 
 

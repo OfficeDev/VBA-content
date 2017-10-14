@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.ID Property (Project)
 
-Gets the identification number of a resource. Read-only  **Long**.
+Gets the identification number of a resource. Read-only **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the identification number of a resource. Read-only  **Long**.
 
 ## Remarks
 
-The  **ID** property changes when a resource moves to a new location in a view such as the **Resource Sheet**. Use the  **UniqueID** property if you want a constant reference to a resource.
+The **ID** property changes when a resource moves to a new location in a view such as the **Resource Sheet**. Use the **UniqueID** property if you want a constant reference to a resource.
 
 

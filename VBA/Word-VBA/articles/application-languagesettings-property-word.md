@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LanguageSettings Property (Word)
 
-Returns a  **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
+Returns a **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
 
 
 ## Syntax

@@ -38,7 +38,7 @@ Nothing
 
 ## Example
 
-This example displays a message stating that the PivotTable report has been updated. This example assumes you have declared an object of type  **Worksheet** with events in a class module.
+This example displays a message stating that the PivotTable report has been updated. This example assumes you have declared an object of type **Worksheet** with events in a class module.
 
 
 ```vb

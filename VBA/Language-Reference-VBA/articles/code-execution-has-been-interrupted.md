@@ -15,7 +15,7 @@ Code execution can be suspended when necessary. This condition has the following
 
 
 
-- A CTRL+BREAK (Microsoft Windows), ESC (Microsoft Excel) or COMMAND+PERIOD (Macintosh) key combination has been encountered. In the error dialog box, click  **Debug** to enter[break mode](vbe-glossary.md),  **Continue** to resume, or **End** to stop execution.
+- A CTRL+BREAK (Microsoft Windows), ESC (Microsoft Excel) or COMMAND+PERIOD (Macintosh) key combination has been encountered. In the error dialog box, click **Debug** to enter[break mode](vbe-glossary.md), **Continue** to resume, or **End** to stop execution.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

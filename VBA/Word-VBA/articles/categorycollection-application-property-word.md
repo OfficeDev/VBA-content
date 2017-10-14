@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CategoryCollection.Application Property (Word)
 
-Returns an  **[Application](application-object-word.md)** object that represents the Microsoft Word application.
+Returns an **[Application](application-object-word.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax

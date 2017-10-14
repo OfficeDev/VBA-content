@@ -29,7 +29,7 @@ Merges one table cell with another. The result is a single table cell.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MergeTo_|Required|**Cell**|The  **Cell** object to be merged with.|
+| _MergeTo_|Required|**Cell**|The **Cell** object to be merged with.|
 
 ## Remarks
 

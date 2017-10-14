@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.ID Property (Outlook)
 
-Returns a  **String** representing the unique identifier for the object. Read-only.
+Returns a **String** representing the unique identifier for the object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the unique identifier for the object. Read-on
 
 ## Remarks
 
-The transport provider assigns a permanent, unique string  **ID** property when an individual member object is created. These identifiers do not change from one session to another.
+The transport provider assigns a permanent, unique string **ID** property when an individual member object is created. These identifiers do not change from one session to another.
 
 
 ## See also

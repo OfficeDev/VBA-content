@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Enabled Property (Outlook)
 
-Returns or sets a  **Boolean** that is **True** if the action is enabled in the application. Read/write.
+Returns or sets a **Boolean** that is **True** if the action is enabled in the application. Read/write.
 
 
 ## Syntax

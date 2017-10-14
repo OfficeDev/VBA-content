@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkDateControl.ShowNoneButton Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether to display the **None** button in the date control. Read/write.
+Returns or sets a **Boolean** that specifies whether to display the **None** button in the date control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether to display the **None** bu
 
 ## Remarks
 
-The default value is  **True** .
+The default value is **True** .
 
 
 ## See also

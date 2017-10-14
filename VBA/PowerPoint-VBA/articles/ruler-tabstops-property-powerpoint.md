@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Ruler.TabStops Property (PowerPoint)
 
-Returns a  **[TabStops](tabstops-object-powerpoint.md)** collection that represents the tab stops for the specified text. Read-only.
+Returns a **[TabStops](tabstops-object-powerpoint.md)** collection that represents the tab stops for the specified text. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StatusBar Property (Excel)
 
-Returns or sets the text in the status bar. Read/write  **String** .
+Returns or sets the text in the status bar. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text in the status bar. Read/write  **String** .
 
 ## Remarks
 
-This property returns  **False** if Microsoft Excel has control of the status bar. To restore the default status bar text, set the property to **False** ; this works even if the status bar is hidden.
+This property returns **False** if Microsoft Excel has control of the status bar. To restore the default status bar text, set the property to **False** ; this works even if the status bar is hidden.
 
 
 ## Example

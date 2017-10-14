@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- There isn't enough room on the disk for the completion of a  **Print #**, **Write #**, or **Close** operation. Move some files to another disk or delete some files.
+- There isn't enough room on the disk for the completion of a **Print #**, **Write #**, or **Close** operation. Move some files to another disk or delete some files.
     
 - There isn't enough room on the disk to create required files. Move some files to another disk or delete some files.
     

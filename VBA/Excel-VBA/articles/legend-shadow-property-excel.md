@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.Shadow Property (Excel)
 
-Returns or sets a  **Boolean** value that determines if the object has a shadow.
+Returns or sets a **Boolean** value that determines if the object has a shadow.
 
 
 ## Syntax

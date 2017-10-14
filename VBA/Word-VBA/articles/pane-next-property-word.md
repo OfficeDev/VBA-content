@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Next Property (Word)
 
-Returns a  **Pane** object that represents the next document pane in the collection. Read-only.
+Returns a **Pane** object that represents the next document pane in the collection. Read-only.
 
 
 ## Syntax

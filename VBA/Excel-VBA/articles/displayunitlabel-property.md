@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitLabel Property
 
-Returns the  **[DisplayUnitLabel](displayunitlabel-object.md)** object for the value axis in the specified chart. Returns  **Null** if the **[HasDisplayUnitLabel](hasdisplayunitlabel-property.md)** property is  **False**. Read-only.
+Returns the **[DisplayUnitLabel](displayunitlabel-object.md)** object for the value axis in the specified chart. Returns **Null** if the **[HasDisplayUnitLabel](hasdisplayunitlabel-property.md)** property is **False**. Read-only.
 
 
 ## Example

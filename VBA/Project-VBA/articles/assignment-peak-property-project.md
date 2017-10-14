@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Peak Property (Project)
 
-Gets the largest number of resource units for the assignment. Read-only  **Variant**.
+Gets the largest number of resource units for the assignment. Read-only **Variant**.
 
 
 ## Syntax

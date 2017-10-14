@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MarkAsTaskRuleAction.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent object is the  **[RuleAction](ruleaction-object-outlook.md)** object.
+The parent object is the **[RuleAction](ruleaction-object-outlook.md)** object.
 
 
 ## See also

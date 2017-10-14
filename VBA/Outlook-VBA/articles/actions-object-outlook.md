@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Actions Object (Outlook)
 
-Contains a collection of  **[Action](action-object-outlook.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
+Contains a collection of **[Action](action-object-outlook.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
 
 
 ## Remarks
 
-Use the  **Actions** property of any Outlook item, such as **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)**, to return the **Actions** object.
+Use the **Actions** property of any Outlook item, such as **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)**, to return the **Actions** object.
 
-Use  **Actions** ( _index_ ), where _index_ is the name of an available action, to return a single **Action** object.
+Use **Actions** ( _index_ ), where _index_ is the name of an available action, to return a single **Action** object.
 
 
 ## Example

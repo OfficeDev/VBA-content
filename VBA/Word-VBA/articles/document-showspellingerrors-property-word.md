@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](options-checkspellingasyoutype-property-word.md)** property to **True** .
+To view spelling errors in a document, you must set the **[CheckSpellingAsYouType](options-checkspellingasyoutype-property-word.md)** property to **True** .
 
 
 ## Example

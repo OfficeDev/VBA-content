@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Application Property (PowerPoint)
 
-Used without an object qualifier, this property returns an  **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE Automation object, it returns the object's application. Read-only.
+Used without an object qualifier, this property returns an **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE Automation object, it returns the object's application. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # FullSeriesCollection.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[FullSeriesCollection](fullseriescollection-object-excel.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified[FullSeriesCollection](fullseriescollection-object-excel.md) object. Read-only.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns an  **Object** that represents the parent object of the specified[FullSe
 
 ## Remarks
 
-Typically the chart to which this  **FullSeriesCollection** object belongs is returned as the parent.
+Typically the chart to which this **FullSeriesCollection** object belongs is returned as the parent.
 
 
 ## Property value

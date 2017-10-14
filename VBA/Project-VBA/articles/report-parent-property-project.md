@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Report.Parent Property (Project)
-Gets the parent of the  **Report** object. Read-only **Project**.
+Gets the parent of the **Report** object. Read-only **Project**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the parent of the  **Report** object. Read-only **Project**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties and methods of the parent project.
+Use the **Parent** property to access the properties and methods of the parent project.
 
 
 ## Property value

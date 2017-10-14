@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Delete Duplicate Entries in a Range
 
-The following example shows how to take a range of data in column A and delete duplicate entries. This example uses the  **[AdvancedFilter](range-advancedfilter-method-excel.md)** method of the **[Range](range-object-excel.md)** object with theUnique parameter equal to **True** to get the unique list of data. TheAction parameter equals **xlFilterInPlace**, specifying that the data is filtered in place. If you want to retain your original data, set the Action parameter equal to **xlFilterCopy** and specify the location where you want the filtered data copied in theCopyToRange parameter. Once the unique values are filtered, this example uses the **[SpecialCells](range-specialcells-method-excel.md)** method of the **Range** object to find any remaining blank rows and deletes them.
+The following example shows how to take a range of data in column A and delete duplicate entries. This example uses the **[AdvancedFilter](range-advancedfilter-method-excel.md)** method of the **[Range](range-object-excel.md)** object with theUnique parameter equal to **True** to get the unique list of data. TheAction parameter equals **xlFilterInPlace**, specifying that the data is filtered in place. If you want to retain your original data, set the Action parameter equal to **xlFilterCopy** and specify the location where you want the filtered data copied in theCopyToRange parameter. Once the unique values are filtered, this example uses the **[SpecialCells](range-specialcells-method-excel.md)** method of the **Range** object to find any remaining blank rows and deletes them.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
 

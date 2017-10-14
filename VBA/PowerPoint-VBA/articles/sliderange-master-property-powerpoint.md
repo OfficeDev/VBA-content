@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Master Property (PowerPoint)
 
-Returns a  **[Master](master-object-powerpoint.md)** object that represents the slide master. Read-only.
+Returns a **[Master](master-object-powerpoint.md)** object that represents the slide master. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.Cursor Property (Word)
 
-Returns or sets the state (shape) of the pointer. Can be one of the following  **WdCursorType** constants: **wdCursorIBeam** , **wdCursorNormal** , **wdCursorNorthwestArrow** , or **wdCursorWait** . Read/write **Long** .
+Returns or sets the state (shape) of the pointer. Can be one of the following **WdCursorType** constants: **wdCursorIBeam** , **wdCursorNormal** , **wdCursorNorthwestArrow** , or **wdCursorWait** . Read/write **Long** .
 
 
 ## Syntax

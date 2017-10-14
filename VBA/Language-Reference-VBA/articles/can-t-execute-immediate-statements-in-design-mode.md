@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 
 
-- You tried to execute a statement in the  **Immediate** window, but your code isn't in a running mode. Start your code running, and then suspend program execution. You can then execute code in the **Immediate** window.
+- You tried to execute a statement in the **Immediate** window, but your code isn't in a running mode. Start your code running, and then suspend program execution. You can then execute code in the **Immediate** window.
     
 
-For additional information, place the cursor in the  **Immediate** window and press F1 (in Windows) or HELP (on the Macintosh).
+For additional information, place the cursor in the **Immediate** window and press F1 (in Windows) or HELP (on the Macintosh).
 

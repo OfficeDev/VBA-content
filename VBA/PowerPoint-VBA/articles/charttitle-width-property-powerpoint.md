@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.Width Property (PowerPoint)
 
-Returns or sets a  **Double** value that represents the width, in points, of the object. Read-only.
+Returns or sets a **Double** value that represents the width, in points, of the object. Read-only.
 
 
 ## Syntax

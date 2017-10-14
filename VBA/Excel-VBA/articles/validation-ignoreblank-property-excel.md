@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the  **IgnoreBlank** property is **True** , cell data is considered valid if the cell is blank, or if a cell referenced by either the **MinVal** or **MaxVal** property is blank.
+If the **IgnoreBlank** property is **True** , cell data is considered valid if the cell is blank, or if a cell referenced by either the **MinVal** or **MaxVal** property is blank.
 
 
 ## Example

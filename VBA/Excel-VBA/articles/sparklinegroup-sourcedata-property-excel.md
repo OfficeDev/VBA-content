@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The number of rows or columns in the source data range must equal the number of cells in the  **[Location](sparklinegroup-location-property-excel.md)** property range.
+The number of rows or columns in the source data range must equal the number of cells in the **[Location](sparklinegroup-location-property-excel.md)** property range.
 
 The data source range for a single sparkline in the sparkline group must be continuous.
 

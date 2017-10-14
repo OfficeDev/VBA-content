@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PresentationCloseFinal Event (PowerPoint)
 
-Represents closing the final  **Presentation** object.
+Represents closing the final **Presentation** object.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Represents closing the final  **Presentation** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pres_|Required|**Presentation**|The  **Presentation** object.|
+| _Pres_|Required|**Presentation**|The **Presentation** object.|
 
 ### Return Value
 

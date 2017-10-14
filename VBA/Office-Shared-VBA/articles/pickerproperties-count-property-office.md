@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerProperties.Count Property (Office)
 
-Retrieves the count of the number of  **PickerProperty** objects contained within the **PickerProperties** collection. Read-only
+Retrieves the count of the number of **PickerProperty** objects contained within the **PickerProperties** collection. Read-only
 
 
 ## Syntax

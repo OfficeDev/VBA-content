@@ -15,11 +15,11 @@ Not all [methods](vbe-glossary.md) can be performed by all objects. This error h
 
 
 
-- You called a method without specifying an object, and the method isn't valid for the implicit object. For example, you can't use the  **Line** method in a[standard module](vbe-glossary.md) without a valid object qualifier because a standard module can't display the output of the **Line** method.
+- You called a method without specifying an object, and the method isn't valid for the implicit object. For example, you can't use the **Line** method in a[standard module](vbe-glossary.md) without a valid object qualifier because a standard module can't display the output of the **Line** method.
     
-    Explicitly qualify the method call with an object that can accept the method. For example, you can specify a form or picture box with the  **Line** method.
+    Explicitly qualify the method call with an object that can accept the method. For example, you can specify a form or picture box with the **Line** method.
     
-     **Note**  Other methods that need an explicit object qualifier when used in a standard module include  **Circle**, **Print**, and **PSet**.
+    **Note**  Other methods that need an explicit object qualifier when used in a standard module include **Circle**, **Print**, and **PSet**.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

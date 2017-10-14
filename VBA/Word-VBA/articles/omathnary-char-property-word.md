@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathNary.Char Property (Word)
 
-Returns or sets an  **Integer** that represents a character used as the n-ary operator. Read/write.
+Returns or sets an **Integer** that represents a character used as the n-ary operator. Read/write.
 
 
 ## Syntax

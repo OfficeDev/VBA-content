@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextInput.Width Property (Word)
 
-Returns or sets the width, in points, of the specified text input field. Read/write  **Long** .
+Returns or sets the width, in points, of the specified text input field. Read/write **Long** .
 
 
 ## Syntax

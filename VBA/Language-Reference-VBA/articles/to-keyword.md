@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # To <keyword>
 
-The  **To** keyword is used in these contexts:
+The **To** keyword is used in these contexts:
 
 [Dim Statement](dim-statement.md)
 

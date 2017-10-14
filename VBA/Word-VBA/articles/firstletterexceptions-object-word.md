@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # FirstLetterExceptions Object (Word)
 
-A collection of  **FirstLetterException** objects that represent the abbreviations excluded from automatic correction.
+A collection of **FirstLetterException** objects that represent the abbreviations excluded from automatic correction.
 
 
 ## Remarks
 
-The first character following a period is automatically capitalized when the  **CorrectSentenceCaps** property is set to **True** . The **FirstLetterExceptions** collection includes exceptions to this behavior (for example, abbreviations such as "addr." and "apt.").
+The first character following a period is automatically capitalized when the **CorrectSentenceCaps** property is set to **True** . The **FirstLetterExceptions** collection includes exceptions to this behavior (for example, abbreviations such as "addr." and "apt.").
 
-Use the  **FirstLetterExceptions** property to return the **FirstLetterExceptions** collection. The following example deletes the abbreviation "addr." if it is included in the **FirstLetterExceptions** collection.
+Use the **FirstLetterExceptions** property to return the **FirstLetterExceptions** collection. The following example deletes the abbreviation "addr." if it is included in the **FirstLetterExceptions** collection.
 
 
 
@@ -42,7 +42,7 @@ For Each aExcept In AutoCorrect.FirstLetterExceptions
 Next aExcept
 ```
 
-Use the  **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
+Use the **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
 
 
 
@@ -51,7 +51,7 @@ Use the  **Add** method to add an abbreviation to the list of first-letter excep
 AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 ```
 
-Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **[FirstLetterException](firstletterexception-object-word.md)** object. The following example deletes the abbreviation "appt." from the **FirstLetterExceptions** collection.
+Use **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **[FirstLetterException](firstletterexception-object-word.md)** object. The following example deletes the abbreviation "appt." from the **FirstLetterExceptions** collection.
 
 
 
@@ -60,7 +60,7 @@ Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the i
 AutoCorrect.FirstLetterExceptions("appt.").Delete
 ```
 
-The following example displays the name of the first item in the  **FirstLetterExceptions** collection.
+The following example displays the name of the first item in the **FirstLetterExceptions** collection.
 
 
 

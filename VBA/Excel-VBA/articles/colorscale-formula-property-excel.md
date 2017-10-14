@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScale.Formula Property (Excel)
 
-Returns or sets a  **String** representing a formula that determines the values to which the icon set will be applied.
+Returns or sets a **String** representing a formula that determines the values to which the icon set will be applied.
 
 
 ## Syntax

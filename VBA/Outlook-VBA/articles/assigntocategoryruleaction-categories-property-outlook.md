@@ -25,9 +25,9 @@ Returns or sets an array of strings representing the categories assigned to the 
 
 ## Remarks
 
-You can assign an array with one element for a single category or an array of strings for multiple categories. Outlook does not check to determine if the  **Categories** property contains category names that are in the master category list.
+You can assign an array with one element for a single category or an array of strings for multiple categories. Outlook does not check to determine if the **Categories** property contains category names that are in the master category list.
 
-This property uses the character specified in the value name,  **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories.
+This property uses the character specified in the value name, **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories.
 
 
 ## See also

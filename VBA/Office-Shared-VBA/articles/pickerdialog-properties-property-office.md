@@ -25,7 +25,7 @@ Returns the ** PickerProperties** object to specify custom properties for data h
 
 ## Remarks
 
-The properties of the  **PickerProperties** object will be passed to the data handler.
+The properties of the **PickerProperties** object will be passed to the data handler.
 
 
 ## Example

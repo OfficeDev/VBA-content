@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # PrintableRect.Left Property (Publisher)
 
-Returns a  **Single** indicating the distance (in points) from the left edge of the printer sheet to the left edge of the printable rectangle. Read-only.
+Returns a **Single** indicating the distance (in points) from the left edge of the printer sheet to the left edge of the printable rectangle. Read-only.
 
 
 ## Syntax
 
  _expression_. **Left**
 
- _expression_A variable that represents a  **PrintableRect** object.
+ _expression_A variable that represents a **PrintableRect** object.
 
 

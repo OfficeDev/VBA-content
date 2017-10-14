@@ -18,7 +18,7 @@ Contains a collection of **[Project](project-object-project.md)** objects.
 
  **Using the Project Object**
 
-Use  **Projects** (Index), where Index is the project index number or project name, to return a single **Project** object. The following example switches among all the open projects, memorizes the full name of each, and then displays the results.
+Use **Projects** (Index), where Index is the project index number or project name, to return a single **Project** object. The following example switches among all the open projects, memorizes the full name of each, and then displays the results.
 
 
 
@@ -43,7 +43,7 @@ MsgBox Names
 
  **Using the Projects Collection**
 
-Use the  **[Projects](http://msdn.microsoft.com/library/792b7334-a424-abe1-287e-285d3ab362c7%28Office.15%29.aspx)** property to return a **Projects** collection. The following example counts the number of open projects.
+Use the **[Projects](http://msdn.microsoft.com/library/792b7334-a424-abe1-287e-285d3ab362c7%28Office.15%29.aspx)** property to return a **Projects** collection. The following example counts the number of open projects.
 
 
 
@@ -52,7 +52,7 @@ Use the  **[Projects](http://msdn.microsoft.com/library/792b7334-a424-abe1-287e-
 Application.Projects.Count
 ```
 
-Because the  **Projects** collection is a top-level object, the following example is functionally identical to the preceding one.
+Because the **Projects** collection is a top-level object, the following example is functionally identical to the preceding one.
 
 
 
@@ -61,7 +61,7 @@ Because the  **Projects** collection is a top-level object, the following exampl
 Projects.Count
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/51629c33-1521-bfee-edf7-bed792d393c1%28Office.15%29.aspx)** method to add a **Project** object to the **Projects** collection. The following example creates a new project without prompting for project information.
+Use the **[Add](http://msdn.microsoft.com/library/51629c33-1521-bfee-edf7-bed792d393c1%28Office.15%29.aspx)** method to add a **Project** object to the **Projects** collection. The following example creates a new project without prompting for project information.
 
 
 

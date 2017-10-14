@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.ExecuteMso Method (Office)
 
-Executes the control identified by the  **idMso** parameter.
+Executes the control identified by the **idMso** parameter.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Executes the control identified by the  **idMso** parameter.
 
 ## Remarks
 
-This method is useful in cases where there is no object model for a particular command. Works on controls that are built-in buttons, toggleButtons and splitButtons. On failure it returns E_InvalidArg for an invalid  **IdMso**, and E_Fail for controls that are not enabled or not visible.
+This method is useful in cases where there is no object model for a particular command. Works on controls that are built-in buttons, toggleButtons and splitButtons. On failure it returns E_InvalidArg for an invalid **IdMso**, and E_Fail for controls that are not enabled or not visible.
 
 
 ## Example
 
-The following sample executes the  **Copy** button.
+The following sample executes the **Copy** button.
 
 
 ```

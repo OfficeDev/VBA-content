@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.ConnectionSiteCount Property (Project)
-Gets the number of connection sites on the shape. Read-only  **Long**.
+Gets the number of connection sites on the shape. Read-only **Long**.
 
 ## Syntax
 

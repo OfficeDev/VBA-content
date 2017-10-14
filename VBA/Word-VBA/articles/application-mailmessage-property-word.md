@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailMessage Property (Word)
 
-Returns a  **[MailMessage](mailmessage-object-word.md)** object that represents the active e-mail message.
+Returns a **[MailMessage](mailmessage-object-word.md)** object that represents the active e-mail message.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[MailMessage](mailmessage-object-word.md)** object that represents 
 
 ## Example
 
-This example displays the  **Select Names** dialog box for the active e-mail message.
+This example displays the **Select Names** dialog box for the active e-mail message.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotCache Method (Excel)
 
-Returns a  **[PivotCache](pivotcache-object-excel.md)** object that represents the cache for the specified PivotTable report. Read-only.
+Returns a **[PivotCache](pivotcache-object-excel.md)** object that represents the cache for the specified PivotTable report. Read-only.
 
 
 ## Syntax

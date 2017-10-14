@@ -30,6 +30,6 @@ Cell
 
 ## Remarks
 
-If the value in this cell is a local value, the  **InheritedValueSource** property returns itself.
+If the value in this cell is a local value, the **InheritedValueSource** property returns itself.
 
 

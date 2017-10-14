@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow Object (Excel)
 
-Represents a  **Protected View** window.
+Represents a **Protected View** window.
 
 
 ## Remarks
 
-A  **Protected View** window is used to display a workbook from a potentially unsafe location. Unsafe locations are defined as the following:
+A **Protected View** window is used to display a workbook from a potentially unsafe location. Unsafe locations are defined as the following:
 
 
 - Files opened from the Internet.
@@ -29,15 +29,15 @@ A  **Protected View** window is used to display a workbook from a potentially un
     
 - Files that fail Office File Validation.
     
-- Files explicitly opened in  **Protected View** by using the **Open in Protected View** command of the **Open** button in the **Open** dialog box.
+- Files explicitly opened in **Protected View** by using the **Open in Protected View** command of the **Open** button in the **Open** dialog box.
     
 
 
-Workbooks displayed in a  **Protected View** window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections. For more information about **Protected View** windows, see[What is Protected View?](http://office.microsoft.com/en-us/excel-help/what-is-protected-view-HA010355931.aspx?CTT=1)
+Workbooks displayed in a **Protected View** window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections. For more information about **Protected View** windows, see[What is Protected View?](http://office.microsoft.com/en-us/excel-help/what-is-protected-view-HA010355931.aspx?CTT=1)
 
  To return a single **ProtectedViewWindow** object from the **[ProtectedViewWindows](protectedviewwindows-object-excel.md)** collection, use `ProtectedViewWindows(Index)`, where  _Index_ is the index number of the window you want to open. You can also access the **ProtectedViewWindow** object that represents the active **Protected View** window by using the **[ActiveProtectedViewWindow](application-activeprotectedviewwindow-property-excel.md)** property of the **[Application](application-object-excel.md)** object.
 
-After you access a  **ProtectedViewWindow** object, use the **[Workbook](protectedviewwindow-workbook-property-excel.md)** property to access the **[Workbook](workbook-object-excel.md)** object that represents the workbook file that is open in the **Protected View** window. Because a **Protected View** window is designed to protect the user from potentially malicious code, the operations you can perform by using a **Workbook** object returned by a **ProtectedViewWindow** object will be limited. Operations that are not allowed will return an error.
+After you access a **ProtectedViewWindow** object, use the **[Workbook](protectedviewwindow-workbook-property-excel.md)** property to access the **[Workbook](workbook-object-excel.md)** object that represents the workbook file that is open in the **Protected View** window. Because a **Protected View** window is designed to protect the user from potentially malicious code, the operations you can perform by using a **Workbook** object returned by a **ProtectedViewWindow** object will be limited. Operations that are not allowed will return an error.
 
 
 ## Example

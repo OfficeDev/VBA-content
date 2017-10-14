@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies whether a vertical scroll bar appears on the right or left side of a form or page.
  **Syntax**
  _object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
-The  **VerticalScrollbarSide** property syntax has these parts:
+The **VerticalScrollbarSide** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,5 +34,5 @@ The settings for  _fmVerticalScrollbarSide_ are:
 | _fmVerticalScrollbarSideRight_|0|Puts the scroll bar on the right side (default).|
 | _fmVerticalScrollBarSideLeft_|1|Puts the scroll bar on the left side.|
  **Remarks**
-The  **VerticalScrollBarSide** property is is particularly useful if the form will be used in an environment where reading occurs from right to left.
+The **VerticalScrollBarSide** property is is particularly useful if the form will be used in an environment where reading occurs from right to left.
 

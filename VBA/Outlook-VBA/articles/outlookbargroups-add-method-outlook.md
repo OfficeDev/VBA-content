@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroups.Add Method (Outlook)
 
-Adds a new, empty group to the  **Shortcuts** pane.
+Adds a new, empty group to the **Shortcuts** pane.
 
 
 ## Syntax
@@ -30,16 +30,16 @@ Adds a new, empty group to the  **Shortcuts** pane.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the group being created.|
-| _Index_|Optional| **Long**|The position at which the new group will be inserted in the  **Shortcuts** pane. Position one is at the top of the bar.|
+| _Index_|Optional| **Long**|The position at which the new group will be inserted in the **Shortcuts** pane. Position one is at the top of the bar.|
 
 ### Return Value
 
-An  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object that represents the new group.
+An **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object that represents the new group.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a group named Marketing as the last group in the  **Shortcuts** pane.
+This Microsoft Visual Basic for Applications (VBA) example adds a group named Marketing as the last group in the **Shortcuts** pane.
 
 
 ```vb

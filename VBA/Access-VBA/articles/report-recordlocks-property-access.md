@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.RecordLocks Property (Access)
 
-You can use the  **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.
+You can use the **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **RecordLocks** property to determine how records are locked an
 
 ## Remarks
 
-When you edit a record, Microsoft Access can automatically lock that record to prevent other users from changing it before you are finished. For reports, the  **RecordLocks** property specifies whether records in the underlying table or query are locked while a report is previewed or printed.
+When you edit a record, Microsoft Access can automatically lock that record to prevent other users from changing it before you are finished. For reports, the **RecordLocks** property specifies whether records in the underlying table or query are locked while a report is previewed or printed.
 
-The  **RecordLocks** property only applies to forms, reports, or queries in a Microsoft Access database.
+The **RecordLocks** property only applies to forms, reports, or queries in a Microsoft Access database.
 
-The  **RecordLocks** property uses the following settings.
+The **RecordLocks** property uses the following settings.
 
 
 
@@ -39,7 +39,7 @@ The  **RecordLocks** property uses the following settings.
 |All Records|1|All records in the underlying table or query are locked while the report is previewed or printed, or while the query is run. Although users can read the records, the report has finished printing, or the query has finished running.|
 |Edited Record|2|(Forms and queries only) |
 
- **Note**  Changing the  **RecordLocks** property of an open form or report causes an automatic recreation of the recordset.
+ **Note**  Changing the **RecordLocks** property of an open form or report causes an automatic recreation of the recordset.
 
 You can use the No Locks setting for forms if only one person uses the underlying tables or queries or makes all the changes to the data.
 

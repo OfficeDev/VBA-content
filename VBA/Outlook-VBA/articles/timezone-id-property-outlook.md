@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZone.ID Property (Outlook)
 
-Returns a  **String** that uniquely identifies the time zone. Read-only.
+Returns a **String** that uniquely identifies the time zone. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that uniquely identifies the time zone. Read-only.
 
 ## Remarks
 
-The  **ID** of a time zone is globally the same for that time zone. It is the name of the Windows registry key that contains the time zone information. Unlike the **[Name](timezone-name-property-outlook.md)** property, the value of **ID** is not localized.
+The **ID** of a time zone is globally the same for that time zone. It is the name of the Windows registry key that contains the time zone information. Unlike the **[Name](timezone-name-property-outlook.md)** property, the value of **ID** is not localized.
 
 
 ## See also

@@ -25,13 +25,13 @@ Occurs when the focus moves to a record, making it the current record, or when t
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **OnCurrent** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnCurrent** property to the name of the macro or to [Event Procedure].
 
-This event occurs both when a report is opened and whenever the focus leaves one record and moves to another. Microsoft Access runs the  **Current** macro or event procedure before the first or next record is displayed.
+This event occurs both when a report is opened and whenever the focus leaves one record and moves to another. Microsoft Access runs the **Current** macro or event procedure before the first or next record is displayed.
 
-By running a macro or event procedure when a form's  **Current** event occurs, you can display a message or perform an operation related to the current record.
+By running a macro or event procedure when a form's **Current** event occurs, you can display a message or perform an operation related to the current record.
 
-The  **Current** event also occurs when you refresh a report or requery the report's underlying table or query— for example, when you use the Requery action in a macro or the **Requery** method in Visual Basic code.
+The **Current** event also occurs when you refresh a report or requery the report's underlying table or query— for example, when you use the Requery action in a macro or the **Requery** method in Visual Basic code.
 
 When you first open a report, the following events occur in this order:
 

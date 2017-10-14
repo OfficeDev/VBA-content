@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Layout Property (PowerPoint)
 
-Returns or sets a  **PpSlideLayout** constant that represents the slide layout. Read/write.
+Returns or sets a **PpSlideLayout** constant that represents the slide layout. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **PpSlideLayout** constant that represents the slide layout. 
 
 ## Remarks
 
-The value of the  **Layout** property can be one of these **PpSlideLayout** constants.
+The value of the **Layout** property can be one of these **PpSlideLayout** constants.
 
 
 ||

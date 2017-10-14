@@ -30,7 +30,7 @@ PpSlideShowPointerType
 
 ## Remarks
 
-The value of the  **PointerType** property can be one of these **PpSlideShowPointerType** constants.
+The value of the **PointerType** property can be one of these **PpSlideShowPointerType** constants.
 
 
 ||

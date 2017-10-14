@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.CatalogMergeItems Property (Publisher)
 
-Returns a  **CatalogMergeShapes** collection that represents the shapes included in the catalog merge area. Read-only.
+Returns a **CatalogMergeShapes** collection that represents the shapes included in the catalog merge area. Read-only.
 
 
 ## Syntax
 
  _expression_. **CatalogMergeItems**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value

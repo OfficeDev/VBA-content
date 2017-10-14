@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 In a host application such as Microsoft PowerPoint, saves a chart in the specified older file format.
 
- _expression_. **SaveAsOldFileFormat( _MajorVersion_**,  **_MinorVersion)_**
+ _expression_. **SaveAsOldFileFormat( _MajorVersion_**, **_MinorVersion)_**
 
  _expression_ Required. An expression that returns an **Application** object.
 

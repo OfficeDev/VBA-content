@@ -23,7 +23,7 @@ You are attempting to establish or maintain an enforced relationship between a r
     
 - Two local tables that you are making replicable.
     
-- Two tables with different  **KeepLocal** property settings.
+- Two tables with different **KeepLocal** property settings.
     
 
 Delete the relationship between the two tables before proceeding.

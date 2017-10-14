@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCol.Args Property (Word)
 
-Returns an  **[OMathArgs](omathargs-object-word.md)** object that represents the arguments in a matrix column. Read-only.
+Returns an **[OMathArgs](omathargs-object-word.md)** object that represents the arguments in a matrix column. Read-only.
 
 
 ## Syntax

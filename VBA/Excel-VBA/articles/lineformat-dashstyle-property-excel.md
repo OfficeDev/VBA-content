@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.DashStyle Property (Excel)
 
-Returns or sets the dash style for the specified line. Can be one of the  **[MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** contants. Read/write **Long** .
+Returns or sets the dash style for the specified line. Can be one of the **[MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** contants. Read/write **Long** .
 
 
 ## Syntax

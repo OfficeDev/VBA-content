@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.FullName Property (Publisher)
 
-Returns a  **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
+Returns a **String** representing the full file name of the saved active publication, including its path and file name. Read-only.
 
 
 ## Syntax
 
  _expression_. **FullName**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-The  **FullName** property can be used to return both path and file name as returned by the **[Path](document-path-property-publisher.md)** and **[Name](document-name-property-publisher.md)** properties.
+The **FullName** property can be used to return both path and file name as returned by the **[Path](document-path-property-publisher.md)** and **[Name](document-name-property-publisher.md)** properties.
 
 
 ## Example
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
+The following example demonstrates the differences between the **Path**, **Name**, and **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.LineStyle Property (Excel)
 
-Returns or sets the line style for the border. Read/write  **[XlLineStyle](xllinestyle-enumeration-excel.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
+Returns or sets the line style for the border. Read/write **[XlLineStyle](xllinestyle-enumeration-excel.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
 
 
 ## Syntax

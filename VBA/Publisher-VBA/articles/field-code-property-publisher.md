@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Field.Code Property (Publisher)
 
-Returns a  **String** that represents the text displayed when the page view is set to show field codes. Read-only.
+Returns a **String** that represents the text displayed when the page view is set to show field codes. Read-only.
 
 
 ## Syntax
 
  _expression_. **Code**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ### Return Value

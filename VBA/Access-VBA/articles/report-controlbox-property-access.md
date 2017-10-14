@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.ControlBox Property (Access)
 
-Specifies whether a report has a  **Control** menu in Report view. Read/write **Boolean**.
+Specifies whether a report has a **Control** menu in Report view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Specifies whether a report has a  **Control** menu in Report view. Read/write **
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
-Setting the  **ControlBox** property to **False** also removes the **Minimize**, **Maximize**, and **Close** buttons on a form.
+Setting the **ControlBox** property to **False** also removes the **Minimize**, **Maximize**, and **Close** buttons on a form.
 
 It can only be set in form Design view.
 

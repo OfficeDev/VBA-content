@@ -25,7 +25,7 @@ Returns a [SmartArtQuickStyles](http://msdn.microsoft.com/library/d488ac12-160b-
 
 ## Remarks
 
-The set of styles represented by the  **SmartArtQuickStyles** property correspond to the available styles in the **Styles** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
+The set of styles represented by the **SmartArtQuickStyles** property correspond to the available styles in the **Styles** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
 
 
 ## Example

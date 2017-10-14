@@ -33,8 +33,8 @@ String
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Action text is a string that describes the action on the  **Undo**,  **Redo**, and  **Repeat** menu items on the **Edit** menu.
+Action text is a string that describes the action on the **Undo**, **Redo**, and **Repeat** menu items on the **Edit** menu.
 
-If the  **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
+If the **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
 
 

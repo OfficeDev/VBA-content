@@ -18,12 +18,12 @@ The interface through which the Ribbon user interface (UI) communicates with a C
 
 ## Remarks
 
-The  **IRibbonExtensibility** interface has a single method, **GetCustomUI**.
+The **IRibbonExtensibility** interface has a single method, **GetCustomUI**.
 
 
 ## Example
 
-In the following example, written in C#, the  **IRibbonExtensibility** interface is specified in the class definition. The procedure then implements the interfaces's only method, **GetCustomUI**. This method creates an instance of a **SteamReader** object that reads in the customized markup stored in an external XML file.
+In the following example, written in C#, the **IRibbonExtensibility** interface is specified in the class definition. The procedure then implements the interfaces's only method, **GetCustomUI**. This method creates an instance of a **SteamReader** object that reads in the customized markup stored in an external XML file.
 
 
 ```

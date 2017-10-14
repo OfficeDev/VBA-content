@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 
 Returns or sets the value of an object returned by a [property](vbe-glossary.md). Read/write.
  **Remarks**
-If a property returns an object, you must use the  **Object** property to return or set the value of that object.
+If a property returns an object, you must use the **Object** property to return or set the value of that object.
 

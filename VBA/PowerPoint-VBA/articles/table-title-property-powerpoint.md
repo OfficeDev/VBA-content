@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Title Property (PowerPoint)
 
-Returns or sets the title of the  **Table** object. Read/write.
+Returns or sets the title of the **Table** object. Read/write.
 
 
 ## Syntax

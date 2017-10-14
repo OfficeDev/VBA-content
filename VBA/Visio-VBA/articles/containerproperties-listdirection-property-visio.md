@@ -30,7 +30,7 @@ Determines the primary list direction of the container shapes. Read/write.
 
 ## Remarks
 
-The value of the  **ListDirection** property can be one of the following **VisListDirection** constants.
+The value of the **ListDirection** property can be one of the following **VisListDirection** constants.
 
 
 
@@ -40,6 +40,6 @@ The value of the  **ListDirection** property can be one of the following **VisLi
 | **visListDirRightToLeft**|1|Shapes are arranged horizontally, from right to left.|
 | **visListDirTopToBottom**|2|Shapes are arranged vertically, from top to bottom.|
 | **visListDirBottomToTop**|3|Shapes are arranged vertically, from bottom to top.|
-If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
+If the container is not a list, Microsoft Visio returns an **Invalid Source** error.
 
 

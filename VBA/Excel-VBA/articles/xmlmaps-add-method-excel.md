@@ -34,7 +34,7 @@ Adds an XML map to the specified workbook.
 
 ### Return Value
 
-An  **[XmlMap](xmlmap-object-excel.md)** object that represents the new XML map.
+An **[XmlMap](xmlmap-object-excel.md)** object that represents the new XML map.
 
 
 ## See also

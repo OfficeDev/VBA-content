@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ResampleMediaTasks.Item Method (PowerPoint)
 
-Returns a single  **ResampleMediaTask** object from the specified **ResampleMediaTasks** collection.
+Returns a single **ResampleMediaTask** object from the specified **ResampleMediaTasks** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **ResampleMediaTask** object from the specified **ResampleMedi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ResampleMediaTask** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ResampleMediaTask** object in the collection to be returned.|
 
 ### Return Value
 

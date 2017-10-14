@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Calculate Event (Excel)
 
-Occurs after the worksheet is recalculated, for the  **Worksheet** object.
+Occurs after the worksheet is recalculated, for the **Worksheet** object.
 
 
 ## Syntax

@@ -38,12 +38,12 @@ Variant
 
 ## Remarks
 
-Setting this property clears any range specified by the  **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
+Setting this property clears any range specified by the **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
 
 
 ## Example
 
-This example sets the entries in a list box on worksheet one. If  `Shapes(2)` doesn?t represent a list box, this example fails.
+This example sets the entries in a list box on worksheet one. If  `Shapes(2)` doesn't represent a list box, this example fails.
 
 
 ```vb

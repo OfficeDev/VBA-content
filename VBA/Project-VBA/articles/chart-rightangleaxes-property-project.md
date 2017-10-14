@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the  **RightAngleAxes** property is **True**, the  **[Perspective](chart-perspective-property-project.md)** property is ignored.
+If the **RightAngleAxes** property is **True**, the **[Perspective](chart-perspective-property-project.md)** property is ignored.
 
 
 ## Example

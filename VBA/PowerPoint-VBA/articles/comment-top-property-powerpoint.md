@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Top Property (PowerPoint)
 
-Returns a  **Single** that represents the distance in points from the left edge of the comment to the left edge of the slide. Read-only.
+Returns a **Single** that represents the distance in points from the left edge of the comment to the left edge of the slide. Read-only.
 
 
 ## Syntax

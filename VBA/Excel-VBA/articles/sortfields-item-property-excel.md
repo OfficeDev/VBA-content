@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortFields.Item Property (Excel)
 
-Returns a  **SortField** object that represents a collection of items that can be sorted in a workbook. Read-only.
+Returns a **SortField** object that represents a collection of items that can be sorted in a workbook. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetVisibleMso Method (Office)
 
-Returns True if the control identified by the  **idMso** parameter is visible.
+Returns True if the control identified by the **idMso** parameter is visible.
 
 
 ## 
@@ -44,7 +44,7 @@ Boolean
 
 ## Example
 
-The following sample returns True if the  **Bold** button is visible.
+The following sample returns True if the **Bold** button is visible.
 
 
 ```

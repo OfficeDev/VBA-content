@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.Font Property (Word)
 
-Returns the font of the specified object. Read-only  **[ChartFont](chartfont-object-word.md)** .
+Returns the font of the specified object. Read-only **[ChartFont](chartfont-object-word.md)** .
 
 
 ## Syntax

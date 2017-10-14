@@ -18,15 +18,15 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To retrieve a  **Windows** collection, use the **Windows** property of an **Application** object or a **Window** object.
+To retrieve a **Windows** collection, use the **Windows** property of an **Application** object or a **Window** object.
 
-The default property of a  **Windows** collection is **Item** .
+The default property of a **Windows** collection is **Item** .
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindows.GetEnumerator()** (to enumerate the **Window** objects.)
+- **Microsoft.Office.Interop.Visio.IVWindows.GetEnumerator()** (to enumerate the **Window** objects.)
     
--  **Microsoft.Office.Interop.Visio.IVWindows**
+- **Microsoft.Office.Interop.Visio.IVWindows**
     
 

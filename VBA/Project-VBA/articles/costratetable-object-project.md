@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
  
 
-Represents a collection of pay rates for a resource. The  **CostRateTable** object is a member of the **[CostRateTables](costratetables-object-project.md)** collection.
+Represents a collection of pay rates for a resource. The **CostRateTable** object is a member of the **[CostRateTables](costratetables-object-project.md)** collection.
  
-Use  **CostRateTables(***Index* **)**, where*Index* is the index number or name of the cost rate table, to return a single **CostRateTable** object.
+Use **CostRateTables(***Index* **)**, where*Index* is the index number or name of the cost rate table, to return a single **CostRateTable** object.
  
  **Using the CostRateTable Object**
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListRow.Index Property (Excel)
 
-Returns a  **Long** value that represents the index number of the **[ListRow](listrow-object-excel.md)** object within the **[ListRows](listrows-object-excel.md)** collection.
+Returns a **Long** value that represents the index number of the **[ListRow](listrow-object-excel.md)** object within the **[ListRows](listrows-object-excel.md)** collection.
 
 
 ## Syntax

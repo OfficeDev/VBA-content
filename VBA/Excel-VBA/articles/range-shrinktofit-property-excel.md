@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ShrinkToFit Property (Excel)
 
-Returns or sets a  **Variant** value that indicates if text automatically shrinks to fit in the available column width.
+Returns or sets a **Variant** value that indicates if text automatically shrinks to fit in the available column width.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that indicates if text automatically shrink
 
 ## Remarks
 
-This property returns  **True** if text automatically shrinks to fit in the available column width, or **Null** if this property isn't set to the same value for all cells in the specified range.
+This property returns **True** if text automatically shrinks to fit in the available column width, or **Null** if this property isn't set to the same value for all cells in the specified range.
 
 
 ## Example

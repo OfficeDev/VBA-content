@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conversation.GetChildren Method (Outlook)
 
-Returns a  **[SimpleItems](simpleitems-object-outlook.md)** collection that contains all items under the specified conversation node.
+Returns a **[SimpleItems](simpleitems-object-outlook.md)** collection that contains all items under the specified conversation node.
 
 
 ## Syntax
@@ -33,14 +33,14 @@ Returns a  **[SimpleItems](simpleitems-object-outlook.md)** collection that cont
 
 ### Return Value
 
-A  **SimpleItems** collection that represents the set of child items in the conversation under the node specified by the _Item_ parameter.
+A **SimpleItems** collection that represents the set of child items in the conversation under the node specified by the _Item_ parameter.
 
 
 ## Remarks
 
-The returned  **SimpleItems** collection contains immediate child items of the conversation node specified by the _Item_ parameter. If the specified node does not exist in the conversation, the **GetChildren** method returns an error.
+The returned **SimpleItems** collection contains immediate child items of the conversation node specified by the _Item_ parameter. If the specified node does not exist in the conversation, the **GetChildren** method returns an error.
 
-If no child items exist under that node, the  **GetChildren** method returns a **SimpleItems** collection with zero objects, in which case the **[Count](simpleitems-count-property-outlook.md)** property of the **SimpleItems** collection returns 0.
+If no child items exist under that node, the **GetChildren** method returns a **SimpleItems** collection with zero objects, in which case the **[Count](simpleitems-count-property-outlook.md)** property of the **SimpleItems** collection returns 0.
 
 
 ## See also

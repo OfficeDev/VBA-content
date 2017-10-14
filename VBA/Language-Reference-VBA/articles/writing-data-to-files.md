@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Writing Data to Files
 
-When working with large amounts of data, it is often convenient to write data to or read data from a file. The  **Open** statement lets you create and access files directly. **Open** provides three types of file access:
+When working with large amounts of data, it is often convenient to write data to or read data from a file. The **Open** statement lets you create and access files directly. **Open** provides three types of file access:
 
 
 
@@ -21,7 +21,7 @@ When working with large amounts of data, it is often convenient to write data to
     
 - Binary access ( **Binary** mode) is used to read or write to any byte position in a file, such as storing or displaying a bitmap image.
     
-     **Note**  The  **Open** statement should not be used to open an application's own file types. For example, don't use **Open** to open a Word document, a Microsoft Excel spreadsheet, or a Microsoft Access database. Doing so will cause loss of file integrity and file corruption.
+    **Note**  The **Open** statement should not be used to open an application's own file types. For example, don't use **Open** to open a Word document, a Microsoft Excel spreadsheet, or a Microsoft Access database. Doing so will cause loss of file integrity and file corruption.
 
 The following table shows the statements typically used when writing data to and reading data from files.
 

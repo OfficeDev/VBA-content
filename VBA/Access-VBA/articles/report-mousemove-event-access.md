@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.MouseMove Event (Access)
 
-The  **MouseMove** event occurs when the user moves the mouse.
+The **MouseMove** event occurs when the user moves the mouse.
 
 
 ## Syntax
@@ -50,16 +50,16 @@ nothing
 
  This event does not apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Pressing and releasing a mouse button in an attached label has the same effect as pressing and releasing the button in the associated control. The normal events for the control occur; no separate events occur for the attached label.
 
-To run a macro or event procedure when these events occur, set the  **OnMouseMove** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnMouseMove** property to the name of the macro or to [Event Procedure].
 
-The  **MouseMove** event is generated continually as the mouse pointer moves over objects. Unless another object generates a mouse event, an object recognizes a **MouseMove** event whenever the mouse pointer is positioned within its borders.
+The **MouseMove** event is generated continually as the mouse pointer moves over objects. Unless another object generates a mouse event, an object recognizes a **MouseMove** event whenever the mouse pointer is positioned within its borders.
 
-To cause a  **MouseMove** event for a report to occur, press the mouse button in a blank area on the report. To cause a **MouseMove** event for a report section to occur, press the mouse button in a blank area of the report section.
+To cause a **MouseMove** event for a report to occur, press the mouse button in a blank area on the report. To cause a **MouseMove** event for a report section to occur, press the mouse button in a blank area of the report section.
 
 
  **Note**  
 
-To run a macro or event procedure in response to pressing and releasing the mouse buttons, you use the  **MouseDown** and **MouseUp** events.
+To run a macro or event procedure in response to pressing and releasing the mouse buttons, you use the **MouseDown** and **MouseUp** events.
 
 
 ## See also

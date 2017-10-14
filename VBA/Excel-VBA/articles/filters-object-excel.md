@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Filters Object (Excel)
 
-A collection of  **[Filter](filter-object-excel.md)** objects that represents all the filters in an autofiltered range.
+A collection of **[Filter](filter-object-excel.md)** objects that represents all the filters in an autofiltered range.
 
 
 ## Example
 
-Use the  **[Filters](autofilter-filters-property-excel.md)** property to return the **Filters** collection. The following example creates a list that contains the criteria and operators for the filters in the autofiltered range on the Crew worksheet.
+Use the **[Filters](autofilter-filters-property-excel.md)** property to return the **Filters** collection. The following example creates a list that contains the criteria and operators for the filters in the autofiltered range on the Crew worksheet.
 
 
 ```
@@ -51,7 +51,7 @@ For Each f In w.AutoFilter.Filters
 Next
 ```
 
-Use  **Filters** ( _index_ ), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **On** property of the filter for the first column in the filtered range on the Crew worksheet.
+Use **Filters** ( _index_ ), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **On** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 

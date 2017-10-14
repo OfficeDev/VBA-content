@@ -32,7 +32,7 @@ MsoTriState
 
 This property is only used in conjunction with motion paths.
 
-The value of the  **Relative** property can be one of these **MsoTriState** constants.
+The value of the **Relative** property can be one of these **MsoTriState** constants.
 
 
 

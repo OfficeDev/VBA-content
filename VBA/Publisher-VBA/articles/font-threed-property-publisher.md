@@ -18,7 +18,7 @@ Returns a  [ThreeDFormat](threedformat-object-publisher.md) object that contains
 
  _expression_. **ThreeD**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.NavigationWhereClause Property (Access)
 
-Gets or sets the filter criteria applied when opening the form or report associated with the specified navigation button. Read/write  **String**.
+Gets or sets the filter criteria applied when opening the form or report associated with the specified navigation button. Read/write **String**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Gets or sets the filter criteria applied when opening the form or report associa
 
 ## Remarks
 
-Use the  **NavigationWhereClaue** property to specify a subset of records to be displayed whent he user clicks the navigation button.
+Use the **NavigationWhereClaue** property to specify a subset of records to be displayed whent he user clicks the navigation button.
 
-The  **NavigationWhereClaue** property is a string expression consisting of a WHERE clause without the **WHERE** keyword.
+The **NavigationWhereClaue** property is a string expression consisting of a WHERE clause without the **WHERE** keyword.
 
 
 ## See also

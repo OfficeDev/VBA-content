@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.TableID Property (Word)
 
-Returns or sets a one-letter identifier that is used to build a table of figures from TOC fields. Read/write  **String** .
+Returns or sets a one-letter identifier that is used to build a table of figures from TOC fields. Read/write **String** .
 
 
 ## Syntax

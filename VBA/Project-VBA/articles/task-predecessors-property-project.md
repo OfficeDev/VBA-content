@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Predecessors Property (Project)
 
-Gets or sets a list of the identification numbers of a task's predecessors. Read/write  **String**.
+Gets or sets a list of the identification numbers of a task's predecessors. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets a list of the identification numbers of a task's predecessors. Read
 
 ## Remarks
 
-If the predecessors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the  **Predecessors** property returns "2,10".
+If the predecessors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the **Predecessors** property returns "2,10".
 
 

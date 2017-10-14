@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can specify extra information by using the ExtraInfo argument with the  **[Follow](hyperlink-follow-method-word.md)** or **[FollowHyperlink](document-followhyperlink-method-word.md)** method. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name.
+You can specify extra information by using the ExtraInfo argument with the **[Follow](hyperlink-follow-method-word.md)** or **[FollowHyperlink](document-followhyperlink-method-word.md)** method. For example, you can use ExtraInfo to specify the coordinates of an image map, the contents of a form, or a FAT file name.
 
 
 ## Example

@@ -30,7 +30,7 @@ Deletes the section break that sets off the specified section, and optionally de
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section to delete.|
-| _deleteSlides_|Required|**Boolean**|Whether to delete all the slides in the section.  **True**, to delete all the slides within the section; **False** not to delete them.|
+| _deleteSlides_|Required|**Boolean**|Whether to delete all the slides in the section. **True**, to delete all the slides within the section; **False** not to delete them.|
 
 ## Remarks
 

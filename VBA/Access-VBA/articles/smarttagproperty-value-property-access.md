@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTagProperty.Value Property (Access)
 
-Gets or sets the value of the specified object. Read/write  **Variant**.
+Gets or sets the value of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the value of the specified object. Read/write  **Variant**.
 
 ## Remarks
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
 
 ## See also

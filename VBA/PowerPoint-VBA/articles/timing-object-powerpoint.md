@@ -18,7 +18,7 @@ Represents timing properties for an animation effect.
 
 ## Remarks
 
-Use the following read/write properties of the  **Timing** object to manipulate animation timing effects.
+Use the following read/write properties of the **Timing** object to manipulate animation timing effects.
 
 
 
@@ -40,7 +40,7 @@ Use the following read/write properties of the  **Timing** object to manipulate 
 
 ## Example
 
-To return a  **Timing** object, use the[Timing](animationbehavior-timing-property-powerpoint.md)property of the  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** or **[Effect](effect-object-powerpoint.md)** object. The following example sets timing duration information for the main animation.
+To return a **Timing** object, use the[Timing](animationbehavior-timing-property-powerpoint.md)property of the **[AnimationBehavior](animationbehavior-object-powerpoint.md)** or **[Effect](effect-object-powerpoint.md)** object. The following example sets timing duration information for the main animation.
 
 
 ```vb

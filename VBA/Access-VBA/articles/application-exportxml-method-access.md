@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ExportXML Method (Access)
 
-The  **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
+The **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
 
 
 ## Syntax
@@ -35,8 +35,8 @@ The  **ExportXML** method allows developers to export XML data, schemas, and pre
 | _SchemaTarget_|Optional|**String**|The file name and path for the exported schema information. If this argument is omitted, schema information is not exported to a separate XML file.|
 | _PresentationTarget_|Optional|**String**|The file name and path for the exported presentation information. If this argument is omitted, presentation information is not exported.|
 | _ImageTarget_|Optional|**String**|The path for exported images. If this argument is omitted, images are not exported.|
-| _Encoding_|Optional|**AcExportXMLEncoding**|A  **[AcExportXMLEncoding](acexportxmlencoding-enumeration-access.md)** constant that specifies the text encoding to use for the exported XML. The default value is **acUTF8**.|
-| _OtherFlags_|Optional|**AcExportXMLOtherFlags**|A bit mask that specifies other behaviors associated with exporting to XML. Can be a combination of  **[AcExportXMLOtherFlags](acexportxmlotherflags-enumeration-access.md)** constants.|
+| _Encoding_|Optional|**AcExportXMLEncoding**|A **[AcExportXMLEncoding](acexportxmlencoding-enumeration-access.md)** constant that specifies the text encoding to use for the exported XML. The default value is **acUTF8**.|
+| _OtherFlags_|Optional|**AcExportXMLOtherFlags**|A bit mask that specifies other behaviors associated with exporting to XML. Can be a combination of **[AcExportXMLOtherFlags](acexportxmlotherflags-enumeration-access.md)** constants.|
 | _WhereCondition_|Optional|**String**|Specifies a subset of records to be exported.|
 | _AdditionalData_|Optional|**Variant**|Specifies additional tables to export. This argument is ignored if the  _OtherFlags_ argument is set to **acLiveReportSource**.|
 

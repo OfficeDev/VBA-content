@@ -33,19 +33,19 @@ Returns a Microsoft Outlook item or conversation header from the selection.
 
 ### Return Value
 
-An  **Object** that represents the specified item or conversation header.
+An **Object** that represents the specified item or conversation header.
 
 
 ## Remarks
 
-Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](conversationheader-object-outlook.md)** object. For example, the **Item** method can return an **[AppointmentItem](appointmentitem-object-outlook.md)** , **[MailItem](mailitem-object-outlook.md)** , **[MeetingItem](meetingitem-object-outlook.md)** , or **[TaskItem](taskitem-object-outlook.md)** in the Inbox folder, depending on the value of the **[Selection.Location](selection-location-property-outlook.md)** property.
+Do not make any assumptions about the **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](conversationheader-object-outlook.md)** object. For example, the **Item** method can return an **[AppointmentItem](appointmentitem-object-outlook.md)** , **[MailItem](mailitem-object-outlook.md)** , **[MeetingItem](meetingitem-object-outlook.md)** , or **[TaskItem](taskitem-object-outlook.md)** in the Inbox folder, depending on the value of the **[Selection.Location](selection-location-property-outlook.md)** property.
 
-The  **[Selection](selection-object-outlook.md)** collection contains **ConversationHeader** objects only if you specify **olConversationHeaders** in the **[GetSelection](selection-getselection-method-outlook.md)** method of the **Selection** object.
+The **[Selection](selection-object-outlook.md)** collection contains **ConversationHeader** objects only if you specify **olConversationHeaders** in the **[GetSelection](selection-getselection-method-outlook.md)** method of the **Selection** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **[Count](selection-count-property-outlook.md)** property and **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** object, returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, to display the senders of all messages that are selected in the active explorer.
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the **[Count](selection-count-property-outlook.md)** property and **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** object, returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, to display the senders of all messages that are selected in the active explorer.
 
 
 ```vb

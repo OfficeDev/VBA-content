@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Phonetics.Length Property (Excel)
 
-Returns a  **Long** value that represents the number of characters of phonetic text from the position you've specified with the **[Start](phonetics-start-property-excel.md)** property.
+Returns a **Long** value that represents the number of characters of phonetic text from the position you've specified with the **[Start](phonetics-start-property-excel.md)** property.
 
 
 ## Syntax

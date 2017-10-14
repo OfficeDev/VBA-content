@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropLines Property
 
-Returns a  **[DropLines](droplines-object.md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
+Returns a **[DropLines](droplines-object.md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
 
 
 ## Example

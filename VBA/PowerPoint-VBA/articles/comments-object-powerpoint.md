@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Comments Object (PowerPoint)
 
-Represents a collection of  **[Comment](comment-object-powerpoint.md)** objects.
+Represents a collection of **[Comment](comment-object-powerpoint.md)** objects.
 
 
 ## Example
 
-Use the [Comments](slide-comments-property-powerpoint.md)property to refer to the  **Comments** collection. The following example displays the number of comments on the current slide.
+Use the [Comments](slide-comments-property-powerpoint.md)property to refer to the **Comments** collection. The following example displays the number of comments on the current slide.
 
 
 ```vb

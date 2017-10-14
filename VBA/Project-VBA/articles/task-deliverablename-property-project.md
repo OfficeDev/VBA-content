@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.DeliverableName Property (Project)
 
-Gets or sets the name of the deliverable. Read/write  **String**.
+Gets or sets the name of the deliverable. Read/write **String**.
 
 
 ## Syntax

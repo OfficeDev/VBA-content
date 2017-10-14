@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnNames.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of a[ModelColumnName Object (Excel)](modelcolumnname-object-excel.md) objects in a[ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) collection. Read-only.
+Returns a **Long** value that represents the number of a[ModelColumnName Object (Excel)](modelcolumnname-object-excel.md) objects in a[ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) collection. Read-only.
 
 
 ## Syntax

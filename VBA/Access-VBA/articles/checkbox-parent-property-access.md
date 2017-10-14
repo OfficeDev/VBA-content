@@ -25,7 +25,7 @@ Returns the parent object for the specified object. Read-only.
 
 ## Remarks
 
-The  **Parent** property of a label control is the control the label is linked to. The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. The **Parent** property of an option group control is the name of the form.
+The **Parent** property of a label control is the control the label is linked to. The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. The **Parent** property of an option group control is the name of the form.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMat.PlcHoldHidden Property (Word)
 
-Returns or sets a  **Boolean** that represents whether placeholders in a matrix are hidden from display. **True** hides placeholder text. Read/write.
+Returns or sets a **Boolean** that represents whether placeholders in a matrix are hidden from display. **True** hides placeholder text. Read/write.
 
 
 ## Syntax

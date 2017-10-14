@@ -29,11 +29,11 @@ Collapses a range or selection to the starting or ending position. After a range
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following  **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart** . The default value is **wdCollapseStart** .|
+| _Direction_|Optional| **Variant**|The direction in which to collapse the range or selection. Can be either of the following **WdCollapseDirection** constants: **wdCollapseEnd** or **wdCollapseStart** . The default value is **wdCollapseStart** .|
 
 ## Remarks
 
-If you use  **wdCollapseEnd** to collapse a range that refers to an entire paragraph, the range is located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the **MoveEnd** method after the range is collapsed, as shown in the following example.
+If you use **wdCollapseEnd** to collapse a range that refers to an entire paragraph, the range is located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the **MoveEnd** method after the range is collapsed, as shown in the following example.
 
 
 ```vb

@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Beginning with Microsoft Visio 2002, setting  **StyleKeepFmt** to an empty string ("") will cause the master's style to be reapplied to the shape. (Earlier versions generate a "no such style" exception.) If the shape has no master, its style remains unchanged.
+Beginning with Microsoft Visio 2002, setting **StyleKeepFmt** to an empty string ("") will cause the master's style to be reapplied to the shape. (Earlier versions generate a "no such style" exception.) If the shape has no master, its style remains unchanged.
 
 

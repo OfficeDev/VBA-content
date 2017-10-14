@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # CheckBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies whether the check box is selected. Read/write.
+Returns or sets a **Variant** that specifies whether the check box is selected. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_A variable that represents a **CheckBox** object.
 
 
 ## Remarks
 
-The settings for  **Value** are:
+The settings for **Value** are:
 
 
 

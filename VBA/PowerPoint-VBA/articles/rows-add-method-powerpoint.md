@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.Add Method (PowerPoint)
 
-Returns a  **[Row](row-object-powerpoint.md)** object that represents a row being added to a table.
+Returns a **[Row](row-object-powerpoint.md)** object that represents a row being added to a table.
 
 
 ## Syntax

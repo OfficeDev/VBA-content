@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reference.Guid Property (Access)
 
-The  **GUID** property of a **[Reference](reference-object-access.md)** object returns a GUID that identifies a type library in the Windows Registry. Read-only **String**.
+The **GUID** property of a **[Reference](reference-object-access.md)** object returns a GUID that identifies a type library in the Windows Registry. Read-only **String**.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ The  **GUID** property of a **[Reference](reference-object-access.md)** object r
 
 Every type library has an associated GUID which is stored in the Registry. When you set a reference to a type library, Microsoft Access uses the type library's GUID to identify the type library.
 
-You can use the  **[AddFromGUID](references-addfromguid-method-access.md)** method to create a **Reference** object from a type library's GUID.
+You can use the **[AddFromGUID](references-addfromguid-method-access.md)** method to create a **Reference** object from a type library's GUID.
 
 
 ## Example
 
-The following example prints the value of the  **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
+The following example prints the value of the **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
 
 
 ```vb

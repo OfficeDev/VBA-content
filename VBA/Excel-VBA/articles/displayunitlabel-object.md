@@ -18,7 +18,7 @@ Represents a unit label on the value axis in the specified chart. Unit labels ar
 
 ## Using the DisplayUnitLabel Object
 
-Use the  **[DisplayUnitLabel](displayunitlabel-property.md)** property to return the  **DisplayUnitLabel** object. The following example sets the caption for the value axis in myChart to "Millions" and turns off automatic font scaling.
+Use the **[DisplayUnitLabel](displayunitlabel-property.md)** property to return the **DisplayUnitLabel** object. The following example sets the caption for the value axis in myChart to "Millions" and turns off automatic font scaling.
 
 
 ```vb

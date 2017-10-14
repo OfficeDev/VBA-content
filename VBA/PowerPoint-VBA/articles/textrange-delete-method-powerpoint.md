@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Delete Method (PowerPoint)
 
-Deletes the specified  **TextRange** object.
+Deletes the specified **TextRange** object.
 
 
 ## Syntax

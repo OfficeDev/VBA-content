@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerPivotTables.Item Property (Excel)
 
-Returns a single  **[PivotTable](pivottable-object-excel.md)** object from the collection.
+Returns a single **[PivotTable](pivottable-object-excel.md)** object from the collection.
 
 
 ## Syntax

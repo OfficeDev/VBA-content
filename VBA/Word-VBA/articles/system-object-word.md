@@ -18,7 +18,7 @@ Contains information about the computer system.
 
 ## Remarks
 
-Use the  **System** property to return the **System** object. If the operating system is Windows, the following example makes a network connection to \\Project\Info.
+Use the **System** property to return the **System** object. If the operating system is Windows, the following example makes a network connection to \\Project\Info.
 
 
 ```vb

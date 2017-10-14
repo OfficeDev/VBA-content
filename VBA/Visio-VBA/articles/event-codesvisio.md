@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Event Codes (Visio)
 
-When you are working with the  **[Add](eventlist-add-method-visio.md)** or **[AddAdvise](eventlist-addadvise-method-visio.md)** method, use the following table to find the event code for the event you want to create. This table lists each Visio event and its corresponding event code and numeric code.
+When you are working with the **[Add](eventlist-add-method-visio.md)** or **[AddAdvise](eventlist-addadvise-method-visio.md)** method, use the following table to find the event code for the event you want to create. This table lists each Visio event and its corresponding event code and numeric code.
 
 
  **Note**   If you are using Visual Basic or Visual Basic for Applications (VBA), you don't need to create your own events. See the event topic in this reference that corresponds to the event you want to use.

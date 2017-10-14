@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.Activate Method (Word)
 
-Activates the specified  **OLEFormat** object.
+Activates the specified **OLEFormat** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsSearchSynchronous Method (Outlook)
 
-Returns a  **Boolean** indicating if a search will be synchronous or asynchronous.
+Returns a **Boolean** indicating if a search will be synchronous or asynchronous.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
 
 ## Remarks
 
-If the search is synchronous, the  **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method will not return until the search has completed. Conversely, if the search is asynchronous, the **AdvancedSearch** method will immediately return. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](application-advancedsearchcomplete-event-outlook.md)** event to notify you when the search has finished.
+If the search is synchronous, the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method will not return until the search has completed. Conversely, if the search is asynchronous, the **AdvancedSearch** method will immediately return. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](application-advancedsearchcomplete-event-outlook.md)** event to notify you when the search has finished.
 
 
 ## Example

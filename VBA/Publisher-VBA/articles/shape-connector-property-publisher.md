@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # Shape.Connector Property (Publisher)
 
-Returns an  **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
+Returns an **MsoTriState**value indicating whether the specified shape is a connector. Read-only.
 
 
 ## Syntax
 
  _expression_. **Connector**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-The  **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **Connector** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The shape is not a connector.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape.|
 | **msoTrue**|The shape is a connector.|
 
 ## Example

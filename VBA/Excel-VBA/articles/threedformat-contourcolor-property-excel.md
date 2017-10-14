@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ContourColor Property (Excel)
 
-Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorFormat** .
+Returns the contour color for a **ThreeDFormat** object. Read-only **ColorFormat** .
 
 
 ## Syntax

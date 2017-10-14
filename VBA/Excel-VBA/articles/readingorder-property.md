@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReadingOrder Property
 
-Returns or sets the reading order for the specified object. Can be one of the following  **constants**. Read/write  **Long**.
+Returns or sets the reading order for the specified object. Can be one of the following **constants**. Read/write **Long**.
 
 
 

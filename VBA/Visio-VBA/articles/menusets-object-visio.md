@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MenuSets Object (Visio)
 
-Includes a  **MenuSet** object for each Microsoft Visio window context that has menus.
+Includes a **MenuSet** object for each Microsoft Visio window context that has menus.
 
 
 ## Remarks
@@ -21,12 +21,12 @@ Includes a  **MenuSet** object for each Microsoft Visio window context that has 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-To retrieve a  **MenuSets** collection, use the **MenuSets** property of a **UIObject** object.
+To retrieve a **MenuSets** collection, use the **MenuSets** property of a **UIObject** object.
 
-The default property of a  **MenuSets** collection is **Item** .
+The default property of a **MenuSets** collection is **Item** .
 
-Unlike other Visio collections, the  **MenuSets** collection is indexed starting with zero (0) rather than 1.
+Unlike other Visio collections, the **MenuSets** collection is indexed starting with zero (0) rather than 1.
 
-A  **MenuSet** object is identified in the **MenuSets** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values for **MenuSet** objects, see the **SetID** property.
+A **MenuSet** object is identified in the **MenuSets** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values for **MenuSet** objects, see the **SetID** property.
 
 

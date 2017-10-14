@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Speech.SpeakCellOnEnter Property (Excel)
 
-Microsoft Excel supports a mode where the active cell will be spoken when the ENTER key is pressed or when the active cell is finished being edited. Setting the  **SpeakCellOnEnter** property to **True** will turn this mode on. **False** turns this mode off. Read/write **Boolean** .
+Microsoft Excel supports a mode where the active cell will be spoken when the ENTER key is pressed or when the active cell is finished being edited. Setting the **SpeakCellOnEnter** property to **True** will turn this mode on. **False** turns this mode off. Read/write **Boolean** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.BottomRightCell Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the cell that lies under the lower-right corner of the object. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the cell that lies under the lower-right corner of the object. Read-only.
 
 
 ## Syntax

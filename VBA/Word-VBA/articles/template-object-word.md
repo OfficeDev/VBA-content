@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Template Object (Word)
 
-Represents a document template. The  **Template** object is a member of the **[Templates](templates-object-word.md)** collection. The **Templates** collection includes all the available **Template** objects.
+Represents a document template. The **Template** object is a member of the **[Templates](templates-object-word.md)** collection. The **Templates** collection includes all the available **Template** objects.
 
 
 ## Remarks
 
-Use  **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Memo2.dot template if it is in the **Templates** collection.
+Use **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Memo2.dot template if it is in the **Templates** collection.
 
 
 ```
@@ -27,7 +27,7 @@ For Each aTemp In Templates
 Next aTemp
 ```
 
-The index number represents the position of the template in the  **Templates** collection. The following example opens the first template in the **Templates** collection.
+The index number represents the position of the template in the **Templates** collection. The following example opens the first template in the **Templates** collection.
 
 
 
@@ -36,20 +36,20 @@ The index number represents the position of the template in the  **Templates** c
 Templates(1).OpenAsDocument
 ```
 
-The  **Add** method is not available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
+The **Add** method is not available for the **Templates** collection. Instead, you can add a template to the **Templates** collection by doing any of the following:
 
 
-- Using the  **Open** method with the **Documents** collection to open a document based on a template or a template
+- Using the **Open** method with the **Documents** collection to open a document based on a template or a template
     
-- Using the  **Add** method with the **Documents** collection to open a new document based on a template
+- Using the **Add** method with the **Documents** collection to open a new document based on a template
     
-- Using the  **Add** method with the **Addins** collection to load a global template
+- Using the **Add** method with the **Addins** collection to load a global template
     
-- Using the  **AttachedTemplate** property with the **Document** object to attach a template to a document
+- Using the **AttachedTemplate** property with the **Document** object to attach a template to a document
     
-Use the  **NormalTemplate** property to return a template object that refers to the Normal template. Use the **AttachedTemplate** property to return the template attached to the specified document.
+Use the **NormalTemplate** property to return a template object that refers to the Normal template. Use the **AttachedTemplate** property to return the template attached to the specified document.
 
-Use the  **DefaultFilePath** property to return or set the location of user or workgroup templates (that is, the folder where you want to store these templates). The following example displays the user template folder from the **File Locations** tab in the **Options** dialog box ( **Tools** menu).
+Use the **DefaultFilePath** property to return or set the location of user or workgroup templates (that is, the folder where you want to store these templates). The following example displays the user template folder from the **File Locations** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

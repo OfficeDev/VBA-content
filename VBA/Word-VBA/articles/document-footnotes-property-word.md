@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Footnotes Property (Word)
 
-Returns a  **[Footnotes](footnotes-object-word.md)** collection that represents all the footnotes in a document. Read-only.
+Returns a **[Footnotes](footnotes-object-word.md)** collection that represents all the footnotes in a document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCacheLevel.SlicerItems Property (Excel)
 
-Returns a  **[SlicerItems](sliceritems-object-excel.md)** collection that contains the collection of all slicer items for the specified level. Read-only
+Returns a **[SlicerItems](sliceritems-object-excel.md)** collection that contains the collection of all slicer items for the specified level. Read-only
 
 
 ## Syntax

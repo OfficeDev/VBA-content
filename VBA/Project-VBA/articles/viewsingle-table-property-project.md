@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewSingle.Table Property (Project)
 
-Gets or sets a  **[Table](table-object-project.md)** object representing the table of the single view. Read/write **Table**.
+Gets or sets a **[Table](table-object-project.md)** object representing the table of the single view. Read/write **Table**.
 
 
 ## Syntax

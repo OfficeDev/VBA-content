@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ColorFormat Object (Publisher)
 
-Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the  **[RGB](colorformat-rgb-property-publisher.md)** property.
+Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the **[RGB](colorformat-rgb-property-publisher.md)** property.
  
 
 
 ## Remarks
 
-Use one of the properties listed in the following table to return a  **ColorFormat** object.
+Use one of the properties listed in the following table to return a **ColorFormat** object.
  
 
  
@@ -36,7 +36,7 @@ Use one of the properties listed in the following table to return a  **ColorForm
 
 ## Example
 
-Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
+Use the **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active publication and then sets the foreground color, background color, and gradient for the rectangle's fill.
  
 
  

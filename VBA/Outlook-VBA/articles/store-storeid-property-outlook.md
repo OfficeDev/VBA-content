@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.StoreID Property (Outlook)
 
-Returns a  **String** identifying the **[Store](store-object-outlook.md)** . Read-only.
+Returns a **String** identifying the **[Store](store-object-outlook.md)** . Read-only.
 
 
 ## Syntax

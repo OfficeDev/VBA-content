@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFormula.StandardFormula Property (Excel)
 
-Returns or sets a  **String** specifying formulas with standard English (United States) formatting. Read/write.
+Returns or sets a **String** specifying formulas with standard English (United States) formatting. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** specifying formulas with standard English (United 
 
 ## Remarks
 
-The  **StandardFormula** property primarily affects item names with date or number formatting. It provides a way to specify or query a formula for a given calculated item.
+The **StandardFormula** property primarily affects item names with date or number formatting. It provides a way to specify or query a formula for a given calculated item.
 
-The  **[StandardFormula](pivotformula-standardformula-property-excel.md)** property is "international-friendly" whereas the **[Formula](pivotformula-formula-property-excel.md)** property is not.
+The **[StandardFormula](pivotformula-standardformula-property-excel.md)** property is "international-friendly" whereas the **[Formula](pivotformula-formula-property-excel.md)** property is not.
 
 
 ## Example

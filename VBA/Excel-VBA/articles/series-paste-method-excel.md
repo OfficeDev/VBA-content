@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-This method can be used on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](series-markerstyle-property-excel.md)** property to **xlMarkerStylePicture** .
+This method can be used on column, bar, line, or radar charts, and it sets the **[MarkerStyle](series-markerstyle-property-excel.md)** property to **xlMarkerStylePicture** .
 
 
 ## Example

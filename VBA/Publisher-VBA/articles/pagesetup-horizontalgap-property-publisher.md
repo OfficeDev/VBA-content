@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSetup.HorizontalGap Property (Publisher)
 
-Returns a  **Variant** that represents the distance between the right edge of one publication page and left edge of the next publication page in the same row when multiple pages are printed on one sheet of printer paper. Read-only.
+Returns a **Variant** that represents the distance between the right edge of one publication page and left edge of the next publication page in the same row when multiple pages are printed on one sheet of printer paper. Read-only.
 
 
 ## Syntax
 
  _expression_. **HorizontalGap**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ### Return Value

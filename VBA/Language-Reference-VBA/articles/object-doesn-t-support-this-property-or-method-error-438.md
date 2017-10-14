@@ -19,7 +19,7 @@ Not all objects support all [properties](vbe-glossary.md) and[methods](vbe-gloss
     
     See the object's documentation for more information on the object and check the spellings of properties and methods.
     
-- You specified a  **Friend** procedure to be called late bound. The name of a **Friend** procedure must be known at[compile time](vbe-glossary.md). It can't appear in a late-bound call.
+- You specified a **Friend** procedure to be called late bound. The name of a **Friend** procedure must be known at[compile time](vbe-glossary.md). It can't appear in a late-bound call.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

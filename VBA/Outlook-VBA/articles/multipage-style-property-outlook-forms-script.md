@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # MultiPage.Style Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that identifies the style of the tabs on the control. Read/write.
+Returns or sets an **Integer** that identifies the style of the tabs on the control. Read/write.
 
 
 ## Syntax
 
  _expression_. **Style**
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_A variable that represents a **MultiPage** object.
 
 
 ## Remarks
 
-The settings of the  **Style** property are:
+The settings of the **Style** property are:
 
 
 

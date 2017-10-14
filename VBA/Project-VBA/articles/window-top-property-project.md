@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Window.Top Property (Project)
 
-Gets or sets the distance in points of the window below the top edge of the window display area. Read/write  **Long**.
+Gets or sets the distance in points of the window below the top edge of the window display area. Read/write **Long**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets or sets the distance in points of the window below the top edge of the wind
 
 ## Remarks
 
-The window display area is below the ribbon in Project and Project. The default value of  **Top** is -19, which means the active window is 19 points above the window display area. If you set the value to less than -19, part of the active window is hidden below the ribbon.
+The window display area is below the ribbon in Project and Project. The default value of **Top** is -19, which means the active window is 19 points above the window display area. If you set the value to less than -19, part of the active window is hidden below the ribbon.
 
-For the distance of the main window from the top of the screen, see the  **[Top](application-top-property-project.md)** property of the **Application** object.
+For the distance of the main window from the top of the screen, see the **[Top](application-top-property-project.md)** property of the **Application** object.
 
 

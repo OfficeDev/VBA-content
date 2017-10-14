@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.TableType Property (Project)
 
-Gets the table type for the specified table. Read-only  **PjItemType**.
+Gets the table type for the specified table. Read-only **PjItemType**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the table type for the specified table. Read-only  **PjItemType**.
 
 ## Remarks
 
-The  **TableType** property can be one of the following **[PjItemType](pjitemtype-enumeration-project.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
+The **TableType** property can be one of the following **[PjItemType](pjitemtype-enumeration-project.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
 
 

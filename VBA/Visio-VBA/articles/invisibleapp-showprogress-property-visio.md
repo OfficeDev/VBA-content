@@ -30,14 +30,14 @@ Integer
 
 ## Remarks
 
-If you want to perform an operation, such as printing, that typically displays a progress indicator but you don't want the progress indicator to appear, set the  **ShowProgress** property to **False** (0). By default, the **ShowProgress** property is **True** (non-zero).
+If you want to perform an operation, such as printing, that typically displays a progress indicator but you don't want the progress indicator to appear, set the **ShowProgress** property to **False** (0). By default, the **ShowProgress** property is **True** (non-zero).
 
 In most cases you should restore the setting to its prior value when you've completed the operation.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShowProgress** property of the **Application** object. It switches the display of the progress indicator on and off and displays the state of the property in the Immediate window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ShowProgress** property of the **Application** object. It switches the display of the progress indicator on and off and displays the state of the property in the Immediate window.
 
 
 ```vb

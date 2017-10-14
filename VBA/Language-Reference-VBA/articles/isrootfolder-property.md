@@ -16,12 +16,12 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns  **True** if the specified folder is the root folder; **False** if it is not.
+Returns **True** if the specified folder is the root folder; **False** if it is not.
  **Syntax**
  _object_. **IsRootFolder**
 The  _object_ is always a **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **IsRootFolder** property:
+The following code illustrates the use of the **IsRootFolder** property:
 
 
 

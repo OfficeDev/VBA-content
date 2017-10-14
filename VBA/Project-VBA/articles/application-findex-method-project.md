@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FindEx Method (Project)
 
-Searches for an unfiltered value in a specified field or in all available fields; returns  **True** if the value is found.
+Searches for an unfiltered value in a specified field or in all available fields; returns **True** if the value is found.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Characters Property (Excel)
 
-Returns a  **[Characters](characters-object-excel.md)** object that represents a range of characters within the text of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a **[Characters](characters-object-excel.md)** object that represents a range of characters within the text of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Characters
 
 ## Remarks
 
-The  **Characters** object is not a collection.
+The **Characters** object is not a collection.
 
 
 ## See also

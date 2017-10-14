@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ShapeRange.PickUp Method (Publisher)
 
-Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the  **[Apply](shaperange-apply-method-publisher.md)** method.
+Copies formatting from a shape or shape range so that it can be copied to another shape or shape range using the **[Apply](shaperange-apply-method-publisher.md)** method.
 
 
 ## Syntax
 
  _expression_. **PickUp**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-You must use the  **PickUp** method to copy the formatting from a shape or shape range before using the **Apply** method; otherwise, an error occurs.
+You must use the **PickUp** method to copy the formatting from a shape or shape range before using the **Apply** method; otherwise, an error occurs.
 
 
 ## Example

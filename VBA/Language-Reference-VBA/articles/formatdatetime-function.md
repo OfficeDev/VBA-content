@@ -17,13 +17,13 @@ ms.date: 06/08/2017
 Returns an expression formatted as a date or time.
  **Syntax**
  **FormatDateTime(**_Date_ [ **,**_NamedFormat_ ] **)**
-The  **FormatDateTime** function syntax has these parts:
+The **FormatDateTime** function syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _Date_|Required. Date expression to be formatted.|
-| _NamedFormat_|Optional. Numeric value that indicates the date/time format used. If omitted,  **vbGeneralDate** is used.|
+| _NamedFormat_|Optional. Numeric value that indicates the date/time format used. If omitted, **vbGeneralDate** is used.|
  **Settings**
 The  _NamedFormat_ argument has the following settings:
 

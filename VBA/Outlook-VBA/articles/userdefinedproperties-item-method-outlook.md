@@ -29,11 +29,11 @@ Returns an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a  **Long** value that represents the 1-based index number of an object in the collection, or a **String** value that represents the **[Name](userdefinedproperty-name-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either a **Long** value that represents the 1-based index number of an object in the collection, or a **String** value that represents the **[Name](userdefinedproperty-name-property-outlook.md)** property value of an object in the collection.|
 
 ### Return Value
 
-A  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object that represents the specified object.
+A **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object that represents the specified object.
 
 
 ## See also

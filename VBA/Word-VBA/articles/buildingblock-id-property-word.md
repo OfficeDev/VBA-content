@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.ID Property (Word)
 
-Returns a  **String** that represents the internal identification number for a building block. Read-only.
+Returns a **String** that represents the internal identification number for a building block. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the internal identification number for a b
 
 ## Remarks
 
-The  **ID** property returns an identification string that is in the form of a GUID.
+The **ID** property returns an identification string that is in the form of a GUID.
 
 
 ## See also

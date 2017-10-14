@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.PreserveColumnFilter Property (Excel)
 
-Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write  **Boolean** .
+Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write **Boolean** .
 
 
 ## Syntax

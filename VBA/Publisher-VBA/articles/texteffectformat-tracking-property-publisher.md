@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Tracking Property (Publisher)
 
-Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
+Returns or sets a **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **Tracking**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ## Remarks
 
-Valid range is a  **float** value between 0.0 and 5.0 points. Setting the property to 0.0 disables tracking. Indeterminate values are returned as -2.
+Valid range is a **float** value between 0.0 and 5.0 points. Setting the property to 0.0 disables tracking. Indeterminate values are returned as -2.
 
 
 ## Example
 
-This example disables tracking in the second story by setting the  **Tracking** property to zero.
+This example disables tracking in the second story by setting the **Tracking** property to zero.
 
 
 ```vb

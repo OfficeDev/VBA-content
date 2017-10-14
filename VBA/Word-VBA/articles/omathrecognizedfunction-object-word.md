@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathRecognizedFunction Object (Word)
 
-Represents a recognized function. The  **OMathRecognizedFunction** object is a member of the **OMathRecognizedFunctions** collection.
+Represents a recognized function. The **OMathRecognizedFunction** object is a member of the **OMathRecognizedFunctions** collection.
 
 
 ## See also

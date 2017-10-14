@@ -30,16 +30,16 @@ Determines the number of consecutive actions the user can undo in Microsoft Visi
 
 ## Remarks
 
-Setting the  **UndoLevels** property is equivalent to setting the **Undo levels** option on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **UndoLevels** property is equivalent to setting the **Undo levels** option on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-The minimum possible value for  **UndoLevels** is 0 (zero); the maximum is 99. The default value is 20.
+The minimum possible value for **UndoLevels** is 0 (zero); the maximum is 99. The default value is 20.
 
-The higher the value of  **UndoLevels** , the more memory is required to store the actions.
+The higher the value of **UndoLevels** , the more memory is required to store the actions.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UndoLevels** property to print the current number of undo levels in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **UndoLevels** property to print the current number of undo levels in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

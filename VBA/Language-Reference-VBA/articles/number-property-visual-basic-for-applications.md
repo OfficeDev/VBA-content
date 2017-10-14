@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a numeric value specifying an error.  **Number** is the **Err** object's default property. Read/write.
+Returns or sets a numeric value specifying an error. **Number** is the **Err** object's default property. Read/write.
  **Remarks**
-When returning a user-defined error from an object, set  **Err.Number** by adding the number you selected as an error code to the **vbObjectError**[constant](vbe-glossary.md). For example, you use the following code to return the number 1051 as an error code:
+When returning a user-defined error from an object, set **Err.Number** by adding the number you selected as an error code to the **vbObjectError**[constant](vbe-glossary.md). For example, you use the following code to return the number 1051 as an error code:
 
 
 
@@ -28,7 +28,7 @@ Err.Raise Number := vbObjectError + 1051, Source:= "SomeClass"
 
 ## Example
 
-The first example illustrates a typical use of the  **Number** property in an error-handling routine. The second example examines the **Number** property of the **Err** object to determine whether an error returned by an Automation object was defined by the object, or whether it was mapped to an error defined by Visual Basic. Note that the constant **vbObjectError** is a very large negative number that an object adds to its own error code to indicate that the error is defined by the server. Therefore, subtracting it from **Err.Number** strips it out of the result. If the error is object-defined, the base number is left in `MyError`, which is displayed in a message box along with the original source of the error. If  **Err.Number** represents a Visual Basic error, then the Visual Basic error number is displayed in the message box.
+The first example illustrates a typical use of the **Number** property in an error-handling routine. The second example examines the **Number** property of the **Err** object to determine whether an error returned by an Automation object was defined by the object, or whether it was mapped to an error defined by Visual Basic. Note that the constant **vbObjectError** is a very large negative number that an object adds to its own error code to indicate that the error is defined by the server. Therefore, subtracting it from **Err.Number** strips it out of the result. If the error is object-defined, the base number is left in `MyError`, which is displayed in a message box along with the original source of the error. If **Err.Number** represents a Visual Basic error, then the Visual Basic error number is displayed in the message box.
 
 
 ```vb

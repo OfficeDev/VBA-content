@@ -21,7 +21,7 @@ At design time:
 At run time:
 
 
-- Set the form's  **Height** and **Width** properties to the appropriate values.
+- Set the form's **Height** and **Width** properties to the appropriate values.
     
 
 

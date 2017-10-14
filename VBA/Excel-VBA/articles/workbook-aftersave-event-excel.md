@@ -29,7 +29,7 @@ Occurs after the workbook is saved.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Success_|Required| **Boolean**|Returns  **True** if the save operation was successful; otherwise **False** .|
+| _Success_|Required| **Boolean**|Returns **True** if the save operation was successful; otherwise **False** .|
 
 ### Return Value
 

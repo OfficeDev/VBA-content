@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.VerticalResolution Property (Word)
 
-Returns the vertical screen resolution in pixels. Read-only  **Long** .
+Returns the vertical screen resolution in pixels. Read-only **Long** .
 
 
 ## Syntax

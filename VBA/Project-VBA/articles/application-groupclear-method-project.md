@@ -30,6 +30,6 @@ Removes the current group from the view.
 
 ## Remarks
 
-The  **GroupClear** method corresponds to the following command on the ribbon: On the **VIEW** tab, select the **Group by** drop-down list in the **Data** group, and then choose **Clear Group**.
+The **GroupClear** method corresponds to the following command on the ribbon: On the **VIEW** tab, select the **Group by** drop-down list in the **Data** group, and then choose **Clear Group**.
 
 

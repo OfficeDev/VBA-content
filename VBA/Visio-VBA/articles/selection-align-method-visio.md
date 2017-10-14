@@ -31,7 +31,7 @@ Aligns two or more selected shapes.
 |:-----|:-----|:-----|:-----|
 | _AlignHorizontal_|Required| **VisHorizontalAlignTypes**|Aligns selected shapes along a horizontal axis. See Remarks for possible values.|
 | _AlignVertical_|Required| **VisVerticalAlignTypes**|Aligns selected shapes along a vertical axis. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates a guide and glues selected shapes to it; if **False** , it does not. The default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If **True** , creates a guide and glues selected shapes to it; if **False** , it does not. The default is **False** .|
 
 ### Return Value
 
@@ -62,12 +62,12 @@ The following possible values for  _AlignVertical_ are declared in **VisVertical
 | **visVertAlignTop**|1|Aligns to top of primary selected shape.|
 If you pass non-zero values for both  _AlignHorizontal_ and _AlignVertical_, the selected shapes appear superimposed. The most recently created shape appears at the front of the z-order.
 
-Calling the  **Align** method is equivalent to clicking **Position** on the **Home** tab and then setting options under **Align Shapes**. 
+Calling the **Align** method is equivalent to clicking **Position** on the **Home** tab and then setting options under **Align Shapes**. 
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Align** method to align three shapes vertically.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Align** method to align three shapes vertically.
 
 
 ```vb

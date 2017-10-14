@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Curve.End Property (Visio)
 
-Returns the endpoint of a  **Curve** object. Read-only.
+Returns the endpoint of a **Curve** object. Read-only.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Double
 
 ## Remarks
 
-The  **End** property of a **Curve** object returns the endpoint of a curve. A **Curve** object describes itself in terms of its parameter domain, which is the range [Start(),End()] where End() produces the curve's endpoint.
+The **End** property of a **Curve** object returns the endpoint of a curve. A **Curve** object describes itself in terms of its parameter domain, which is the range [Start(),End()] where End() produces the curve's endpoint.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **End** property to determine the endpoint of a curve.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **End** property to determine the endpoint of a curve.
 
 
 ```vb

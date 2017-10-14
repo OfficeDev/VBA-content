@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Empty Enum type not allowed
 
-An  **Enum** type specifies the name and members for an enumeration. This error has the following cause and solution:
+An **Enum** type specifies the name and members for an enumeration. This error has the following cause and solution:
 
 
 
-- You named an enumeration in an  **Enum…End Enum** block, but failed to specify any members. Add at least one member to the **Enum…End Enum** block.
+- You named an enumeration in an **Enum…End Enum** block, but failed to specify any members. Add at least one member to the **Enum…End Enum** block.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

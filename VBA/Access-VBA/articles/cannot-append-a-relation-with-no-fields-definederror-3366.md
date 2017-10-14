@@ -15,18 +15,18 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to append a  **Relation** object to a **Relations** collection, but the **Relation** object has no fields.
+You are trying to append a **Relation** object to a **Relations** collection, but the **Relation** object has no fields.
 
  To correctly append a Relation
 
 
-1. Use the  **CreateRelation** method to create the **Relation** object. Set the **Table**, **ForeignTable**, and **Attributes** properties of the **Relation** object, if you did not specify them as arguments to the **CreateRelation** method. Use the **CreateField** method to create a new **Field** object for each field in the primary and foreign keys of the relationship.
+1. Use the **CreateRelation** method to create the **Relation** object. Set the **Table**, **ForeignTable**, and **Attributes** properties of the **Relation** object, if you did not specify them as arguments to the **CreateRelation** method. Use the **CreateField** method to create a new **Field** object for each field in the primary and foreign keys of the relationship.
     
-2. Set the  **Name** (if you did not specify it as an argument to the **CreateField** method) and **ForeignName** properties of the **Field** object or objects to the corresponding **Name** property settings of the primary key and the foreign key **Field** objects of each field in the relationship.
+2. Set the **Name** (if you did not specify it as an argument to the **CreateField** method) and **ForeignName** properties of the **Field** object or objects to the corresponding **Name** property settings of the primary key and the foreign key **Field** objects of each field in the relationship.
     
-3. Use the  **Append** method to save the **Field** object or objects in the **Fields** collection of the **Relation** object.
+3. Use the **Append** method to save the **Field** object or objects in the **Fields** collection of the **Relation** object.
     
-4. Use the  **Append** method to save the **Relation** object in the **Relations** collection of the database.
+4. Use the **Append** method to save the **Relation** object in the **Relations** collection of the database.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

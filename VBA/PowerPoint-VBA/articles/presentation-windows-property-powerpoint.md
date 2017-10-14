@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Windows Property (PowerPoint)
 
-Returns a  **[DocumentWindows](documentwindows-object-powerpoint.md)** collection that represents all document windows associated with the specified presentation. Read-only.
+Returns a **[DocumentWindows](documentwindows-object-powerpoint.md)** collection that represents all document windows associated with the specified presentation. Read-only.
 
 
 ## Syntax
@@ -32,10 +32,10 @@ DocumentWindows
 
 This property doesn't return any slide show windows associated with the presentation.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
+- **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
     
 
 ## See also

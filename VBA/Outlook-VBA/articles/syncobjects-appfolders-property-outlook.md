@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObjects.AppFolders Property (Outlook)
 
-This property returns the  **SyncObject** object for application folders. Read-only.
+This property returns the **SyncObject** object for application folders. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ This property returns the  **SyncObject** object for application folders. Read-o
 
 ## Remarks
 
-The  **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True** . The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
+The **SyncObject** is where folders are automatically added when the **InAppFolderSyncObject** property of the **Folder** object is set to **True** . The **SyncObject** allows users to synchronize Microsoft Outlook folders, address books, and folder home pages for offline use.
 
 
 ## Example
 
-The following example sets the  **SyncObject** for the application folders and synchronizes the user's Inbox.
+The following example sets the **SyncObject** for the application folders and synchronizes the user's Inbox.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Stop Property (Project)
 
-Gets or sets the date on which a task stops. Read/write  **Variant**.
+Gets or sets the date on which a task stops. Read/write **Variant**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Number13 Property (Project)
 
-Gets or sets a Number local custom field for a resource. Read/write  **Double**.
+Gets or sets a Number local custom field for a resource. Read/write **Double**.
 
 
 ## Syntax

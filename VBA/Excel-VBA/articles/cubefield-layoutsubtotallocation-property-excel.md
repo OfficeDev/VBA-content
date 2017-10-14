@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.LayoutSubtotalLocation Property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](xlsubtototallocationtype-enumeration-excel.md)** .
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write **[XlSubtototalLocationType](xlsubtototallocationtype-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the position of the PivotTable field subtotals in relation to (e
 
 You can set this property for any PivotTable field in outline format; however, the formatting appears only if the specified field is a row field other than the innermost (lowest level) row field. For non- OLAP data sources, the value of this property doesn't change when the field is rearranged or when it is added to or from removed from the report.
 
-The  **[LayoutForm](cubefield-layoutform-property-excel.md)** property determines whether the report appears in table format or in outline format.
+The **[LayoutForm](cubefield-layoutform-property-excel.md)** property determines whether the report appears in table format or in outline format.
 
 
 ## Example

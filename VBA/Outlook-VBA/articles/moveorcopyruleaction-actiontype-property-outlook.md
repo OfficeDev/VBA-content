@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MoveOrCopyRuleAction.ActionType Property (Outlook)
 
-Returns a constant,  **olRuleActionMoveToFolder** , from the **[OlRuleActionType](olruleactiontype-enumeration-outlook.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant, **olRuleActionMoveToFolder** , from the **[OlRuleActionType](olruleactiontype-enumeration-outlook.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

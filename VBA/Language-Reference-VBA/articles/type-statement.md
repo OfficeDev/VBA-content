@@ -21,7 +21,7 @@ Used at [module level](vbe-glossary.md) to define a user-defined[data type](vbe-
  **. . .**  
 
  **End Type**  
-The  **Type** statement syntax has these parts:
+The **Type** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -36,7 +36,7 @@ The  **Type** statement syntax has these parts:
 **Remarks**
 
 The **Type** statement can be used only at module level. Once you have declared a user-defined type using the **Type** statement, you can declare a variable of that type anywhere within the[scope](vbe-glossary.md) of the declaration. Use **Dim**, **Private**, **Public**, **ReDim**, or **Static** to declare a variable of a user-defined type.
-In [standard modules](vbe-glossary.md) and[class modules](vbe-glossary.md), user-defined types are public by default. This visibility can be changed using the  **Private** keyword.
+In [standard modules](vbe-glossary.md) and[class modules](vbe-glossary.md), user-defined types are public by default. This visibility can be changed using the **Private** keyword.
 [Line numbers](vbe-glossary.md) and[line labels](vbe-glossary.md) aren't allowed in **Type...End Type** blocks.
 User-defined types are often used with data records, which frequently consist of a number of related elements of different data types.
 The following example shows the use of fixed-size arrays in a user-defined type:
@@ -58,7 +58,7 @@ When you declare a fixed-size array within a user-defined type, its dimensions m
 
 ## Example
 
-This example uses the  **Type** statement to define a user-defined data type. The **Type** statement is used at the module level only. If it appears in a class module, a **Type** statement must be preceded by the keyword **Private**.
+This example uses the **Type** statement to define a user-defined data type. The **Type** statement is used at the module level only. If it appears in a class module, a **Type** statement must be preceded by the keyword **Private**.
 
 
 ```vb

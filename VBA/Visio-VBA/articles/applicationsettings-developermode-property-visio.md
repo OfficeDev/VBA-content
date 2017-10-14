@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **DeveloperMode** property to **True** is equivalent to selecting the **Run in developer mode** check box under **General** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **DeveloperMode** property to **True** is equivalent to selecting the **Run in developer mode** check box under **General** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 

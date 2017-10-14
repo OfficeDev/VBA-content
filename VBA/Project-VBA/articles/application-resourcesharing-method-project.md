@@ -40,7 +40,7 @@ Controls resource sharing, for local resources and projects.
 
 ## Remarks
 
-Using the  **ResourceSharing** method without specifying any arguments displays the **ShareResources** dialog box.
+Using the **ResourceSharing** method without specifying any arguments displays the **ShareResources** dialog box.
 
 
  **Note**  Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.

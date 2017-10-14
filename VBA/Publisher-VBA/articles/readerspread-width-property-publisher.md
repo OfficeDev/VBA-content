@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ReaderSpread.Width Property (Publisher)
 
-Returns a  **Single** that represents the width, in points, of the page. Read-only.
+Returns a **Single** that represents the width, in points, of the page. Read-only.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_A variable that represents a **ReaderSpread** object.
 
 

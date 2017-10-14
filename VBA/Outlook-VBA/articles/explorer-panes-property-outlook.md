@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.Panes Property (Outlook)
 
-Returns a  **[Panes](panes-object-outlook.md)** collection object representing the panes displayed by the specified explorer.
+Returns a **[Panes](panes-object-outlook.md)** collection object representing the panes displayed by the specified explorer.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Panes](panes-object-outlook.md)** collection object representing t
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a group named "Marketing" as the second group in the  **Shortcuts** pane.
+This Microsoft Visual Basic for Applications (VBA) example adds a group named "Marketing" as the second group in the **Shortcuts** pane.
 
 
 ```vb

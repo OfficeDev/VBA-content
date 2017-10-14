@@ -21,5 +21,5 @@ Returns a randomly generated temporary file or folder name that is useful for pe
  _object_. **GetTempName**
 The optional  _object_ is always the name of a **FileSystemObject**.
  **Remarks**
-The  **GetTempName** method does not create a file. It provides only a temporary file name that can be used with **CreateTextFile** to create a file.
+The **GetTempName** method does not create a file. It provides only a temporary file name that can be used with **CreateTextFile** to create a file.
 

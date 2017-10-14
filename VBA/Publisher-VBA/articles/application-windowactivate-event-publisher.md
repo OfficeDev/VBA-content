@@ -20,7 +20,7 @@ Occurs when the application window is activated.
 
  _expression_. **WindowActivate**( **_Wn_**, )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters

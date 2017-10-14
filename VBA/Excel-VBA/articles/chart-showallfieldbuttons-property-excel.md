@@ -30,9 +30,9 @@ Returns or sets whether to display all field buttons on a PivotChart. Read/write
 
 ## Remarks
 
-Set the  **ShowAllFieldButtons** property to **True** to display all field buttons on the specified PivotChart. Set the property to **False** to hide all field buttons.
+Set the **ShowAllFieldButtons** property to **True** to display all field buttons on the specified PivotChart. Set the property to **False** to hide all field buttons.
 
-The  **ShowAllFieldButtons** property corresponds to the **Hide All** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
+The **ShowAllFieldButtons** property corresponds to the **Hide All** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
 
 
 ## Example

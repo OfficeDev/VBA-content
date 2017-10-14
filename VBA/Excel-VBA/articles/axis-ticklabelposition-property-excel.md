@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickLabelPosition Property (Excel)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](xlticklabelposition-enumeration-excel.md)** .
+Describes the position of tick-mark labels on the specified axis. Read/write **[XlTickLabelPosition](xlticklabelposition-enumeration-excel.md)** .
 
 
 ## Syntax

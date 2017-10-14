@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EffectInformation.AfterEffect Property (PowerPoint)
 
-Returns an  **PpAfterEffect** constant that indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. Read-only.
+Returns an **PpAfterEffect** constant that indicates whether an after effect appears dimmed, hidden, or unchanged after it runs. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **PpAfterEffect** constant that indicates whether an after effect ap
 
 ## Remarks
 
-The value returned by the  **AfterEffect** property can be one of these **PpAfterEffect** constants.
+The value returned by the **AfterEffect** property can be one of these **PpAfterEffect** constants.
 
 
 ||

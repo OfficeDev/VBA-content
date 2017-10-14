@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlNamespaces.Value Property (Excel)
 
-Returns a  **String** value that represents the XML namespaces that have been added to the workbook.
+Returns a **String** value that represents the XML namespaces that have been added to the workbook.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the XML namespaces that have been ad
 
 ## Remarks
 
-If the workbook contains more than one namespace, then the namespaces are seperated by a blank space in the string returned by the  **Value** property.
+If the workbook contains more than one namespace, then the namespaces are seperated by a blank space in the string returned by the **Value** property.
 
 
 ## See also

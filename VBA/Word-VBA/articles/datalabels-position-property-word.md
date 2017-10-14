@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.Position Property (Word)
 
-Returns or sets the position of the data labels. Read/write  **[XlDataLabelPosition](xldatalabelposition-enumeration-word.md)** .
+Returns or sets the position of the data labels. Read/write **[XlDataLabelPosition](xldatalabelposition-enumeration-word.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordsets.ItemFromID Property (Visio)
 
-Returns a  **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
+Returns a **DataRecordset** object from the **DataRecordsets** collection by using the unique ID of the object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -32,7 +32,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ID_|Required| **Long**|The unique ID of the  **DataRecordset** object to retrieve.|
+| _ID_|Required| **Long**|The unique ID of the **DataRecordset** object to retrieve.|
 
 ### Return Value
 
@@ -41,6 +41,6 @@ DataRecordset
 
 ## Remarks
 
-The ID of a  **DataRecordset** object is never recycled for a particular document. You can get the ID of a **DataRecordset** object by getting the value of the **DataRecordset.ID** property.
+The ID of a **DataRecordset** object is never recycled for a particular document. You can get the ID of a **DataRecordset** object by getting the value of the **DataRecordset.ID** property.
 
 

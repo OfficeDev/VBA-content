@@ -18,9 +18,9 @@ Represents the cells that can be edited on a protected worksheet.
 
 ## Remarks
 
-Use the  **[Add](alloweditranges-add-method-excel.md)** method or the **[Item](alloweditranges-item-property-excel.md)** property of the **[AllowEditRanges](alloweditranges-object-excel.md)** collection to return an **AllowEditRange** object.
+Use the **[Add](alloweditranges-add-method-excel.md)** method or the **[Item](alloweditranges-item-property-excel.md)** property of the **[AllowEditRanges](alloweditranges-object-excel.md)** collection to return an **AllowEditRange** object.
 
-Once an  **AllowEditRange** object has been returned, you can use the **[ChangePassword](alloweditrange-changepassword-method-excel.md)** method to change the password to access a range that can be edited on a protected worksheet.
+Once an **AllowEditRange** object has been returned, you can use the **[ChangePassword](alloweditrange-changepassword-method-excel.md)** method to change the password to access a range that can be edited on a protected worksheet.
 
 
 ## Example

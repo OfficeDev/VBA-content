@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Reminders Object (Outlook)
 
-Contains a collection of all the  **[Reminder](reminder-object-outlook.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
+Contains a collection of all the **[Reminder](reminder-object-outlook.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 
 
 ## Remarks
 
-Use the  **[Application](application-object-outlook.md)** object's **[Reminders](application-reminders-property-outlook.md)** property to return the **Reminders** collection. Use **Reminders** ( _index_ ), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](reminder-object-outlook.md)** object.
+Use the **[Application](application-object-outlook.md)** object's **[Reminders](application-reminders-property-outlook.md)** property to return the **Reminders** collection. Use **Reminders** ( _index_ ), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](reminder-object-outlook.md)** object.
 
-Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an  **[AppointmentItem](appointmentitem-object-outlook.md)** object is created and the **AppointmentItem** object's **[ReminderSet](appointmentitem-reminderset-property-outlook.md)** property is set to **True**.
+Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an **[AppointmentItem](appointmentitem-object-outlook.md)** object is created and the **AppointmentItem** object's **[ReminderSet](appointmentitem-reminderset-property-outlook.md)** property is set to **True**.
 
 
 ## Example
@@ -57,7 +57,7 @@ Sub ViewReminderInfo()
 End Sub
 ```
 
-The following example creates a new appointment item and sets the  **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
+The following example creates a new appointment item and sets the **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
 
 
 

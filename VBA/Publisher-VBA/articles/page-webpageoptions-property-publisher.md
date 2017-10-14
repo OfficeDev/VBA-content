@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.WebPageOptions Property (Publisher)
 
-Returns a  **[WebPageOptions](webpageoptions-object-publisher.md)** object, which represents the properties of a single Web page within a Web publication. Read-only.
+Returns a **[WebPageOptions](webpageoptions-object-publisher.md)** object, which represents the properties of a single Web page within a Web publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **WebPageOptions**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value

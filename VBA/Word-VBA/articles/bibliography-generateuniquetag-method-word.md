@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bibliography.GenerateUniqueTag Method (Word)
 
-Generates a unique identification tag for a bibliography source and returns a  **String** that represents the tag.
+Generates a unique identification tag for a bibliography source and returns a **String** that represents the tag.
 
 
 ## Syntax

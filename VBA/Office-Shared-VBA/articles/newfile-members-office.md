@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 
 # NewFile Members (Office)
-Represents items listed on the  **New**_Item_ task pane available in several Microsoft Office applications.
+Represents items listed on the **New**_Item_ task pane available in several Microsoft Office applications.
 
-Represents items listed on the  **New**_Item_ task pane available in several Microsoft Office applications.
+Represents items listed on the **New**_Item_ task pane available in several Microsoft Office applications.
 
 
 ## Methods
@@ -18,8 +18,8 @@ Represents items listed on the  **New**_Item_ task pane available in several Mic
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](newfile-add-method-office.md)|Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
-|[Remove](newfile-remove-method-office.md)|Removes an item from the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
+|[Add](newfile-add-method-office.md)|Adds a new item to the **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
+|[Remove](newfile-remove-method-office.md)|Removes an item from the **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
 
 ## Properties
 
@@ -27,6 +27,6 @@ Represents items listed on the  **New**_Item_ task pane available in several Mic
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](newfile-application-property-office.md)|Gets an  **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
-|[Creator](newfile-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **NewFile** object was created. Read-only.|
+|[Application](newfile-application-property-office.md)|Gets an **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
+|[Creator](newfile-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **NewFile** object was created. Read-only.|
 

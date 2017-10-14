@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.MergeCells Property (Excel)
 
-Returns a value that indicates if the associated  **[Range](range-object-excel.md)** object contains merged cells as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the associated **[Range](range-object-excel.md)** object contains merged cells as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if the range contains merged cells.
+Returns **True** if the range contains merged cells.
 
 
 ## See also

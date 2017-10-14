@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # AutoTextEntries Object (Word)
 
-A collection of  **[AutoCorrectEntry](autocorrectentry-object-word.md)** objects that represent the AutoText entries in a template. The **AutoTextEntries** collection includes all the entries listed on the **AutoText** tab in the **AutoCorrect** dialog box.
+A collection of **[AutoCorrectEntry](autocorrectentry-object-word.md)** objects that represent the AutoText entries in a template. The **AutoTextEntries** collection includes all the entries listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
 
 ## Remarks
 
-Use the  **AutoTextEntries** property to return the **AutoTextEntries** collection. The following example determines whether an **[AutoTextEntry](autotextentry-object-word.md)** object named "test" is in the **AutoTextEntries** collection.
+Use the **AutoTextEntries** property to return the **AutoTextEntries** collection. The following example determines whether an **[AutoTextEntry](autotextentry-object-word.md)** object named "test" is in the **AutoTextEntries** collection.
 
 
 ```vb
@@ -22,7 +22,7 @@ For Each i In NormalTemplate.AutoTextEntries
 Next i
 ```
 
-Use the  **[Add](autotextentries-add-method-word.md)** method to add an AutoText entry to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
+Use the **[Add](autotextentries-add-method-word.md)** method to add an AutoText entry to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
 
 
 
@@ -32,7 +32,7 @@ NormalTemplate.AutoTextEntries.Add Name:="Blue", _
  Range:=Selection.Range
 ```
 
-Use  **AutoTextEntries** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
+Use **AutoTextEntries** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
 
 
 

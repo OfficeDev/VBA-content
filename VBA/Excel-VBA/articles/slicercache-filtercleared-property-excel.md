@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.FilterCleared Property (Excel)
 
-Returns whether the slicer or timeline filter state is cleared.  **Boolean** . Read-only
+Returns whether the slicer or timeline filter state is cleared. **Boolean** . Read-only
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Phonetics Property (Project)
 
-Gets or sets the phonetic representation of a resource name. Read/write  **String**.
+Gets or sets the phonetic representation of a resource name. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the phonetic representation of a resource name. Read/write  **Strin
 
 ## Remarks
 
-The  **Phonetics** property only produces tangible results if the Japanese version of Project is used.
+The **Phonetics** property only produces tangible results if the Japanese version of Project is used.
 
 

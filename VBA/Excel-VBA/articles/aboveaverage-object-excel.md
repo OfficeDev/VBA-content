@@ -18,7 +18,7 @@ Represents an above average visual of a conditional formatting rule. Applying a 
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create an above average formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddAboveAverage](formatconditions-addaboveaverage-method-excel.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create an above average formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddAboveAverage](formatconditions-addaboveaverage-method-excel.md)** method of the **FormatConditions** collection.
 
 
 ## Example

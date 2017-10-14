@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example
 
-The following example demonstrates the  **HideSelection** property in the context of either a single form or more than one form. The user can select text in a **TextBox** and TAB to other controls on a form, as well as transfer the focus to a second form. This code sample also uses the **SetFocus** method, and the **EnterFieldBehavior**, **MultiLine**, and **Value** properties.
+The following example demonstrates the **HideSelection** property in the context of either a single form or more than one form. The user can select text in a **TextBox** and TAB to other controls on a form, as well as transfer the focus to a second form. This code sample also uses the **SetFocus** method, and the **EnterFieldBehavior**, **MultiLine**, and **Value** properties.
 
 To use this example, follow these steps:
 
@@ -20,13 +20,13 @@ To use this example, follow these steps:
 
 1. Copy this sample code (except for the last event subroutine) to the Declarations portion of a form.
     
-2. Add a large  **TextBox** named TextBox1, a **ToggleButton** named ToggleButton1, and a **CommandButton** named CommandButton1.
+2. Add a large **TextBox** named TextBox1, a **ToggleButton** named ToggleButton1, and a **CommandButton** named CommandButton1.
     
 3. Insert a second form into this project named UserForm2.
     
 4. Paste the last event subroutine of this listing into the Declarations section of UserForm2.
     
-5. In this form, add a  **CommandButton** named CommandButton1.
+5. In this form, add a **CommandButton** named CommandButton1.
     
 6. Run UserForm1.
     

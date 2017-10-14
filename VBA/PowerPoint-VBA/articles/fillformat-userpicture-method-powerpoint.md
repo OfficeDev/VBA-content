@@ -33,7 +33,7 @@ Fills the specified shape with one large image.
 
 ## Remarks
 
-If you want to fill the shape with small tiles of an image, use the  **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method.
+If you want to fill the shape with small tiles of an image, use the **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method.
 
 
 ## Example

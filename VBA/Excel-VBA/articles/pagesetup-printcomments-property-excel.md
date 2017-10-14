@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintComments Property (Excel)
 
-Returns or sets the way comments are printed with the sheet. Read/write  **[XlPrintLocation](xlprintlocation-enumeration-excel.md)** .
+Returns or sets the way comments are printed with the sheet. Read/write **[XlPrintLocation](xlprintlocation-enumeration-excel.md)** .
 
 
 ## Syntax

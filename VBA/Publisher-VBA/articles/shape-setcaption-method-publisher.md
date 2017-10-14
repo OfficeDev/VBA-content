@@ -15,7 +15,7 @@ Sets the caption style for the shape.
 
  _expression_. **SetCaption**( **_Style_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters

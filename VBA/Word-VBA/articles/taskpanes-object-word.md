@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # TaskPanes Object (Word)
 
-A collection of  **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
+A collection of **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
 
 
 ## Remarks
 
-Use the  **TaskPanes** property to return the **TaskPanes** collection. Use the **Item** method with a **[WdTaskPanes](wdtaskpanes-enumeration-word.md)** constant to refer to a specific task pane. The example below displays the formatting task pane.
+Use the **TaskPanes** property to return the **TaskPanes** collection. Use the **Item** method with a **[WdTaskPanes](wdtaskpanes-enumeration-word.md)** constant to refer to a specific task pane. The example below displays the formatting task pane.
 
 
 ```vb

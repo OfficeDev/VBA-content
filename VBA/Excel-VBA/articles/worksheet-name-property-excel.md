@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Name Property (Excel)
 
-Returns or sets a  **String** value that represents the object name.
+Returns or sets a **String** value that represents the object name.
 
 
 ## Syntax

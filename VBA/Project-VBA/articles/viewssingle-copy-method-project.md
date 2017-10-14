@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewsSingle.Copy Method (Project)
 
-Makes a copy of a group definition for the  **ViewsSingle** collection and returns a reference to the **[View](viewsingle-object-project.md)** object.
+Makes a copy of a group definition for the **ViewsSingle** collection and returns a reference to the **[View](viewsingle-object-project.md)** object.
 
 
 ## Syntax

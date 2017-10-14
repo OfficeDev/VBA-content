@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeMappedDataField.DataFieldName Property (Publisher)
 
-Returns or sets a  **String** which represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
+Returns or sets a **String** which represents the name of the field in the mail merge data source to which a mapped data field maps. An empty string is returned if the specified data field is not mapped to a mapped data field. Read/write.
 
 
 ## Syntax
 
  _expression_. **DataFieldName**
 
- _expression_A variable that represents a  **MailMergeMappedDataField** object.
+ _expression_A variable that represents a **MailMergeMappedDataField** object.
 
 
 ### Return Value

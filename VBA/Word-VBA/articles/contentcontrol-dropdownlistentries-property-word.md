@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.DropdownListEntries Property (Word)
 
-Returns a  **[ContentControlListEntries](contentcontrollistentries-object-word.md)** collection that represents the items in a drop-down list content control or in a combo box content control. Read-only.
+Returns a **[ContentControlListEntries](contentcontrollistentries-object-word.md)** collection that represents the items in a drop-down list content control or in a combo box content control. Read-only.
 
 For Office 2016, returns dropdown entries for accessing individual list items within a collection, with the exception of SharePoint lookups.
 

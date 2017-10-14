@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.LineStyle Property (Word)
 
-Returns or sets the border line style for the specified object. Read/write  **WdLineStyle** .
+Returns or sets the border line style for the specified object. Read/write **WdLineStyle** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns or sets the border line style for the specified object. Read/write  **Wd
 
 ## Remarks
 
-Setting the  **LineStyle** property for a range that refers to individual characters or words applies a character border.
+Setting the **LineStyle** property for a range that refers to individual characters or words applies a character border.
 
-Setting the  **LineStyle** property for a paragraph or range of paragraphs applies a paragraph border. Use the **InsideLineStyle** property to apply a border between consecutive paragraphs.
+Setting the **LineStyle** property for a paragraph or range of paragraphs applies a paragraph border. Use the **InsideLineStyle** property to apply a border between consecutive paragraphs.
 
-Setting the  **LineStyle** property for a section applies a page border around the pages in the section.
+Setting the **LineStyle** property for a section applies a page border around the pages in the section.
 
 
 ## Example

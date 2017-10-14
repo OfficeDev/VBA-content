@@ -18,7 +18,7 @@ Represents the border of an object.
 
 ## Remarks
 
-Most bordered objects have a border that is treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. To return a  **Border** object, use the **Border** property for the particular bordered object (for example, the **[Border](trendline-border-property-word.md)** property of a **[TrendLine](trendline-object-word.md)** object).
+Most bordered objects have a border that is treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. To return a **Border** object, use the **Border** property for the particular bordered object (for example, the **[Border](trendline-border-property-word.md)** property of a **[TrendLine](trendline-object-word.md)** object).
 
 
 ## Example

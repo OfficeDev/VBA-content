@@ -25,7 +25,7 @@ Switches the view to print preview.
 
 ## Remarks
 
-In addition to using the  **PrintPreview** method, you can set the **[PrintPreview](application-printpreview-property-word.md)** property to **True** or **False** to switch to or from print preview, respectively. You can also change the view by setting the **[Type](document-type-property-word.md)** property for the **View** object to **wdPrintPreview** .
+In addition to using the **PrintPreview** method, you can set the **[PrintPreview](application-printpreview-property-word.md)** property to **True** or **False** to switch to or from print preview, respectively. You can also change the view by setting the **[Type](document-type-property-word.md)** property for the **View** object to **wdPrintPreview** .
 
 
 ## Example

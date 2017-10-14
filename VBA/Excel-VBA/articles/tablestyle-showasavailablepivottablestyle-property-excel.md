@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.ShowAsAvailablePivotTableStyle Property (Excel)
 
-Sets or returns if a style is shown in the gallery for PivotTable styles or not. Read/write  **Boolean** .
+Sets or returns if a style is shown in the gallery for PivotTable styles or not. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Sets or returns if a style is shown in the gallery for PivotTable styles or not.
 
 ## Remarks
 
-The property returns  **True** , if the style is shown in the gallery for PivotTable styles.
+The property returns **True** , if the style is shown in the gallery for PivotTable styles.
 
 
- **Note**  Users can set the  **ShowAsAvailableTableStyle** or **ShowAsAvailablePivotTableStyle** properties to **False** even when the style is already applied to a table or PivotTable. In this case, the gallery will not show the style and no style is shown as selected when the active cell is in the table or the PivotTable.
+ **Note**  Users can set the **ShowAsAvailableTableStyle** or **ShowAsAvailablePivotTableStyle** properties to **False** even when the style is already applied to a table or PivotTable. In this case, the gallery will not show the style and no style is shown as selected when the active cell is in the table or the PivotTable.
 
 
 ## See also

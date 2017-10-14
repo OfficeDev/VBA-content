@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeZoneControl.Value Property (Outlook)
 
-Returns or sets a  **Variant** that represents the content of the control. Read/write.
+Returns or sets a **Variant** that represents the content of the control. Read/write.
 
 
 ## Syntax

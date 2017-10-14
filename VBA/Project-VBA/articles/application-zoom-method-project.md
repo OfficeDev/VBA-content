@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Zoom Method (Project)
 
-Displays the  **Zoom** dialog box, which prompts the user to change the timescale range of the active view.
+Displays the **Zoom** dialog box, which prompts the user to change the timescale range of the active view.
 
 
 ## Syntax

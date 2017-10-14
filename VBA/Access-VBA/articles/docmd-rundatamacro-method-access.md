@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.RunDataMacro Method (Access)
 
-Use the  **RunDataMacro** method to run a named data macro from Visual Basic.
+Use the **RunDataMacro** method to run a named data macro from Visual Basic.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ Use the  **RunDataMacro** method to run a named data macro from Visual Basic.
 
 ## Remarks
 
-Use the  **RunDataMacro** method to reuse a named data macro in Visual Basic code.
+Use the **RunDataMacro** method to reuse a named data macro in Visual Basic code.
 
-If the data macro requires parameters, you must first create them using the  **[SetParameter](docmd-setparameter-method-access.md)** method prior to calling the **RunDataMacro** method. Each call to **SetParameter** creates a single named parameter.
+If the data macro requires parameters, you must first create them using the **[SetParameter](docmd-setparameter-method-access.md)** method prior to calling the **RunDataMacro** method. Each call to **SetParameter** creates a single named parameter.
 
 
 ## Example

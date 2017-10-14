@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to append a new  **Property** object to a collection that contains a property of the same name. Check to see whether you have misspelled the new **Property** object's **Name** property, or refer to the Help topic for the existing property of the same name to see whether you need to create a new **Property** object.
+You tried to append a new **Property** object to a collection that contains a property of the same name. Check to see whether you have misspelled the new **Property** object's **Name** property, or refer to the Help topic for the existing property of the same name to see whether you need to create a new **Property** object.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

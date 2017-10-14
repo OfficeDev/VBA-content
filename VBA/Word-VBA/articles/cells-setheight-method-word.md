@@ -34,7 +34,7 @@ Sets the height of table cells.
 
 ## Remarks
 
-Setting the  **SetHeight** property of a **Cells** object automatically sets the property for the entire row.
+Setting the **SetHeight** property of a **Cells** object automatically sets the property for the entire row.
 
 
 ## Example

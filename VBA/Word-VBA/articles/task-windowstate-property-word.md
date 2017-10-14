@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.WindowState Property (Word)
 
-Returns or sets the state of the specified document window or task window. Read/write  **[WdWindowState](wdwindowstate-enumeration-word.md)** .
+Returns or sets the state of the specified document window or task window. Read/write **[WdWindowState](wdwindowstate-enumeration-word.md)** .
 
 
 ## Syntax

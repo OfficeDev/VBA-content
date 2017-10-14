@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationPane.IsCollapsed Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the Navigation Pane is collapsed. Read/write.
+Returns or sets a **Boolean** value that determines whether the Navigation Pane is collapsed. Read/write.
 
 
 ## Syntax

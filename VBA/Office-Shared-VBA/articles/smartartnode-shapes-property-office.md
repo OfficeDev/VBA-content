@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Shapes Property (Office)
 
-Returns the shape range associated with this  **SmartArtNode** object. Read-only
+Returns the shape range associated with this **SmartArtNode** object. Read-only
 
 
 ## Syntax

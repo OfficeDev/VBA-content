@@ -35,9 +35,9 @@ Returns or sets whether Excel allows user-defined functions in XLL add-ins to be
 
 
 
- **Note**  To enable the  **UseClusterConnector** property you must install a High Performance Computing (HPC) Cluster Connector. A Cluster Connector enables you to run cluster-safe XLL functions remotely on an HPC cluster for increased performance.
+ **Note**  To enable the **UseClusterConnector** property you must install a High Performance Computing (HPC) Cluster Connector. A Cluster Connector enables you to run cluster-safe XLL functions remotely on an HPC cluster for increased performance.
 
-After setting the  **UseClusterConnector** property, use the **[ClusterConnector](application-clusterconnector-property-excel.md)** property to specify the HPC Cluster Connector to use.
+After setting the **UseClusterConnector** property, use the **[ClusterConnector](application-clusterconnector-property-excel.md)** property to specify the HPC Cluster Connector to use.
 
 
 ## See also

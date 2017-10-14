@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Language Property (Outlook)
 
-Returns or sets a  **String** that represents the language in which the contact writes messages. Read/write.
+Returns or sets a **String** that represents the language in which the contact writes messages. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the language in which the contact 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLanguage** .
+This property corresponds to the MAPI property **PidTagLanguage** .
 
 
 ## See also

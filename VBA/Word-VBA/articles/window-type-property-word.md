@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Type Property (Word)
 
-Returns the window type. Read-only  **[WdWindowType](wdwindowtype-enumeration-word.md)** .
+Returns the window type. Read-only **[WdWindowType](wdwindowtype-enumeration-word.md)** .
 
 
 ## Syntax

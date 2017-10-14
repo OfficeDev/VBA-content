@@ -11,7 +11,7 @@ ms.prod: excel
 
 # WorkbookQuery.Description Property (Excel)
 
-The description of the query. Read/write  **String**.
+The description of the query. Read/write **String**.
 
 
 ## Syntax

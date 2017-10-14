@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandButton.PictureCaptionArrangement Property (Access)
 
-Gets or sets how the specified button's caption is arranged in relation to its picture. Read/write  **[AcPictureCaptionArrangement](acpicturecaptionarrangement-enumeration-access.md)**.
+Gets or sets how the specified button's caption is arranged in relation to its picture. Read/write **[AcPictureCaptionArrangement](acpicturecaptionarrangement-enumeration-access.md)**.
 
 
 ## Syntax

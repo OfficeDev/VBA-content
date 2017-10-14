@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.PropertyParentField Property (Excel)
 
-Returns a  **PivotField** object representing the field to which the properties in this field pertain.
+Returns a **PivotField** object representing the field to which the properties in this field pertain.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **PivotField** object representing the field to which the properties 
 
 Valid only for fields that are member property fields.
 
-If the  **[IsMemberProperty](pivotfield-ismemberproperty-property-excel.md)** property is **False** , using the **PropertyParentField** property will return a run-time error.
+If the **[IsMemberProperty](pivotfield-ismemberproperty-property-excel.md)** property is **False** , using the **PropertyParentField** property will return a run-time error.
 
 
 ## Example

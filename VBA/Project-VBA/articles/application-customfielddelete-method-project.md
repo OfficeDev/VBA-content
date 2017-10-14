@@ -29,7 +29,7 @@ Deletes the specified custom field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Field_|Required|**Long**|A value representing a  **[PjField](pjfield-enumeration-project.md)** constant.|
+| _Field_|Required|**Long**|A value representing a **[PjField](pjfield-enumeration-project.md)** constant.|
 
 ### Return Value
 

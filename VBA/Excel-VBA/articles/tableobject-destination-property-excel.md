@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.Destination Property (Excel)
 
-Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **TableObject** object. **Range** . Read-only
+Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the **TableObject** object. **Range** . Read-only
 
 
 ## Syntax

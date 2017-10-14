@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.EmailSubject Property (Excel)
 
-Returns or sets the text string of the specified hyperlink's e-mail subject line. The subject line is appended to the hyperlink's address. Read/write  **String** .
+Returns or sets the text string of the specified hyperlink's e-mail subject line. The subject line is appended to the hyperlink's address. Read/write **String** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the text string of the specified hyperlink's e-mail subject line
 
 This property is usually used with e-mail hyperlinks.
 
-The value of this property takes precedence over any e-mail subject line you have specified by using the  **[Address](hyperlink-address-property-excel.md)** property of the same **Hyperlink** object.
+The value of this property takes precedence over any e-mail subject line you have specified by using the **[Address](hyperlink-address-property-excel.md)** property of the same **Hyperlink** object.
 
 
 ## Example

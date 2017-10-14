@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.AttentionLine Property (Word)
 
-Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax
@@ -34,7 +34,7 @@ If ActiveDocument.GetLetterContent.AttentionLine <> "" Then
 End If
 ```
 
-This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the  **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the document to reflect the changes.
 
 
 

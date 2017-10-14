@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatRow Object (Word)
 
-Represents a matrix row. The  **OMathMatRow** is a member of the **OMathMatRows** collection.
+Represents a matrix row. The **OMathMatRow** is a member of the **OMathMatRows** collection.
 
 
 ## See also

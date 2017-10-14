@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.WriteReservedBy Property (Excel)
 
-Returns the name of the user who currently has write permission for the workbook. Read-only  **String** .
+Returns the name of the user who currently has write permission for the workbook. Read-only **String** .
 
 
 ## Syntax

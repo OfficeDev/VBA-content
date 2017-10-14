@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.DisplayName Property (Outlook)
 
-Returns or sets a  **String** representing the name of the form, which is displayed in the **Choose Forms** dialog box. Read/write.
+Returns or sets a **String** representing the name of the form, which is displayed in the **Choose Forms** dialog box. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the name of the form, which is displa
 
 ## Remarks
 
-If both the  **[FormDescription.Name](formdescription-name-property-outlook.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
+If both the **[FormDescription.Name](formdescription-name-property-outlook.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
 
 
 ## See also

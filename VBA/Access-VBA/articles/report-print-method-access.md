@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Print Method (Access)
 
-The  **Print** method prints text on a **[Report](report-object-access.md)** object using the current color and font.
+The **Print** method prints text on a **[Report](report-object-access.md)** object using the current color and font.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ The  **Print** method prints text on a **[Report](report-object-access.md)** obj
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Expr_|Required|**String**|The string expressions to print. If this argument is omitted, the  **Print** method prints a blank line. Multiple expressions can be separated with a space, a semicolon (;), or a comma. A space has the same effect as a semicolon.|
+| _Expr_|Required|**String**|The string expressions to print. If this argument is omitted, the **Print** method prints a blank line. Multiple expressions can be separated with a space, a semicolon (;), or a comma. A space has the same effect as a semicolon.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-You can use this method only in a event procedure or macro specified by a section's  **OnPrint** event property setting.
+You can use this method only in a event procedure or macro specified by a section's **OnPrint** event property setting.
 
 The expressions specified by the  _Expr_ argument are printed on the object starting at the position indicated by the **[CurrentX](report-currentx-property-access.md)** and **[CurrentY](report-currenty-property-access.md)** property settings.
 
@@ -50,12 +50,12 @@ When a comma follows the  _Expr_ argument, the **CurrentX** and **CurrentY** pro
 
 When the  _Expr_ argument is printed on a **Report** object, lines that can't fit in the specified position don't scroll. The text is clipped to fit the object.
 
-Because the  **Print** method usually prints with proportionally spaced characters, it's important to remember that there's no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter (such as W) occupies more than one fixed-width column, whereas a narrow letter (such as I) occupies less. You should make sure that your tabular columns are positioned far enough apart to accommodate the text you wish to print. Alternately, you can print with a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
+Because the **Print** method usually prints with proportionally spaced characters, it's important to remember that there's no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter (such as W) occupies more than one fixed-width column, whereas a narrow letter (such as I) occupies less. You should make sure that your tabular columns are positioned far enough apart to accommodate the text you wish to print. Alternately, you can print with a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
 
 
 ## Example
 
-The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
+The following example uses the **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
 ```vb

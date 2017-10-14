@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Series.Parent Property (Project)
-Gets the parent object of the  **Series** object. Read-only **Object**.
+Gets the parent object of the **Series** object. Read-only **Object**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the parent object of the  **Series** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Series** object is a **SeriesCollection** object.
+The parent of a **Series** object is a **SeriesCollection** object.
 
 
 ## See also

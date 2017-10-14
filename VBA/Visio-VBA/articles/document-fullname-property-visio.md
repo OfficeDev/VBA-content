@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Use the  **FullName** property to obtain a document's drive, folder path, and file name as one string. The returned value can include UNC drive names (for example, \\ _drive\folder_ ).
+Use the **FullName** property to obtain a document's drive, folder path, and file name as one string. The returned value can include UNC drive names (for example, \\ _drive\folder_ ).
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.BrowserLevel Property (Word)
 
-Returns or sets a  **WdBrowserLevel** constant that represents the level of the Web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
+Returns or sets a **WdBrowserLevel** constant that represents the level of the Web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdBrowserLevel** constant that represents the level of the 
 
 ## Remarks
 
-After you set the  **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
+After you set the **BrowserLevel** property on the **DefaultWebOptions** object, the **BrowserLevel** property of any new Web pages you create in Word will be the same as the global setting.
 
 
 ## Example

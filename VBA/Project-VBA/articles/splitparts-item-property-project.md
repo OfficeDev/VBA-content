@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SplitParts.Item Property (Project)
 
-Gets a single  **SplitPart** object from the **SplitParts** collection. Read-only **SplitPart**.
+Gets a single **SplitPart** object from the **SplitParts** collection. Read-only **SplitPart**.
 
 
 ## Syntax

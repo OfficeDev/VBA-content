@@ -15,7 +15,7 @@ Visual Basic is unable to analyze this statement. This error has the following c
 
 
 
-- Your statement can't be parsed due to its complexity. Try breaking the statement into several smaller components or replace complex conditional clauses with a combination of logical operators and  **If...Then...Else** statements.
+- Your statement can't be parsed due to its complexity. Try breaking the statement into several smaller components or replace complex conditional clauses with a combination of logical operators and **If...Then...Else** statements.
     
 - Your statement or function uses too many nested function calls. Make function calls earlier and assign the results to specific [variables](vbe-glossary.md); then use the variables in the statement that is causing the complexity error.
     

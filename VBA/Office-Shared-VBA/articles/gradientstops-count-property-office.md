@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GradientStops.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **GradientStops** collection. Read-only.
+Gets a **Long** indicating the number of items in the **GradientStops** collection. Read-only.
 
 
 ## Syntax

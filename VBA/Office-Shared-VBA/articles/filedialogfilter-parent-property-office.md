@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogFilter.Parent Property (Office)
 
-Gets the  **Parent** object for the **FileDialogFilter** object. Read-only.
+Gets the **Parent** object for the **FileDialogFilter** object. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSoundFormatType Enumeration (PowerPoint)
 
-Constants that specify the format of a sound file. In previous versions of Microsoft PowerPoint, these constants were passed to the  **Export** method of the **SoundFormat** object and returned by the **Type** property of that object. In Microsoft Office PowerPoint 2007, the **SoundFormat** object was deprecated.
+Constants that specify the format of a sound file. In previous versions of Microsoft PowerPoint, these constants were passed to the **Export** method of the **SoundFormat** object and returned by the **Type** property of that object. In Microsoft Office PowerPoint 2007, the **SoundFormat** object was deprecated.
 
 
 

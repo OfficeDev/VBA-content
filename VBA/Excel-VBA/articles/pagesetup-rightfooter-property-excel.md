@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightFooter Property (Excel)
 
-Returns or sets the distance (in points) between the right edge of the page and the right boundary of the footer. Read/write  **String** .
+Returns or sets the distance (in points) between the right edge of the page and the right boundary of the footer. Read/write **String** .
 
 
 ## Syntax

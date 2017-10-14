@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.EditingType Property (Excel)
 
-If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **[MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)** .
+If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only **[MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ If the specified node is a vertex, this property returns a value that indicates 
 
 ## Remarks
 
-This property is read-only. Use the  **[SetEditingType](shapenodes-seteditingtype-method-excel.md)** method to set the value of this property.
+This property is read-only. Use the **[SetEditingType](shapenodes-seteditingtype-method-excel.md)** method to set the value of this property.
 
 
 ## Example

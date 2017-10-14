@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NextParagraphStyle Property (Word)
 
-Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant** .
+Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style to be applied automatically to a new paragraph that is
 
 ## Remarks
 
-You can set the  **NextParagraphStyle** property by using the local name of the style, an integer or a **WdBuiltinStyle** constant, or an object that represents the next style. For a list of the **WdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
+You can set the **NextParagraphStyle** property by using the local name of the style, an integer or a **WdBuiltinStyle** constant, or an object that represents the next style. For a list of the **WdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
 
 
 ## Example

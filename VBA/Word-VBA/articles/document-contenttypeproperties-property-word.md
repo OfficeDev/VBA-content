@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ContentTypeProperties Property (Word)
 
-Returns a  **MetaProperties** collection that represents the metadata stored in a document, such as author name, subject, and company. Read-only.
+Returns a **MetaProperties** collection that represents the metadata stored in a document, such as author name, subject, and company. Read-only.
 
 
 ## Syntax

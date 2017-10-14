@@ -20,7 +20,7 @@ Occurs when the user exits Microsoft Publisher.
 
  _expression_. **Quit**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ## Remarks

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Align Method (Publisher)
 
-Aligns all the shapes in the specified  **ShapeRange** object.
+Aligns all the shapes in the specified **ShapeRange** object.
 
 
 ## Syntax
 
- _expression_. **Align**( **_AlignCmd_**,  **_RelativeTo_**)
+ _expression_. **Align**( **_AlignCmd_**, **_RelativeTo_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -34,9 +34,9 @@ Aligns all the shapes in the specified  **ShapeRange** object.
 
 ## Remarks
 
-If the RelativeTo parameter is  **msoFalse** and the shape range contains only one shape, an error occurs.
+If the RelativeTo parameter is **msoFalse** and the shape range contains only one shape, an error occurs.
 
-The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in the Microsoft Office type library.
+The AlignCmd parameter can be one of the **MsoAlignCmd** constants declared in the Microsoft Office type library.
 
 
 
@@ -48,7 +48,7 @@ The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in 
 | **msoAlignMiddles**|Aligns shapes on a horizontal line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the top- and bottommost shapes.|
 | **msoAlignRights**| **msoAlignRights** Aligns shapes along their right edges. If _RelativeTo_ is **msoFalse**, the rightmost shape determines the line against which the other shapes are aligned.|
 | **msoAlignTops**| Aligns shapes along their top edges. If _RelativeTo_ is **msoFalse**, the topmost shape determines the line against which the other shapes are aligned.|
-The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The RelativeTo parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

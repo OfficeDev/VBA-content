@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # XmlSchema Object (Excel)
 
-Represents an XML schema contained by an  **[XmlMap](xmlmap-object-excel.md)** object.
+Represents an XML schema contained by an **[XmlMap](xmlmap-object-excel.md)** object.
 
 
 ## Remarks
 
-Use the  **[Item](xmlschemas-item-property-excel.md)** method to return an **XmlSchema** object from the **[XmlSchemas](xmlschemas-object-excel.md)** collection.
+Use the **[Item](xmlschemas-item-property-excel.md)** method to return an **XmlSchema** object from the **[XmlSchemas](xmlschemas-object-excel.md)** collection.
 
-Use the  **[Namespace](xmlschema-namespace-property-excel.md)** property to return the target namespace for a schema.
+Use the **[Namespace](xmlschema-namespace-property-excel.md)** property to return the target namespace for a schema.
 
-Use the  **[XML](xmlschema-xml-property-excel.md)** property to return the XML contents of a schema.
+Use the **[XML](xmlschema-xml-property-excel.md)** property to return the XML contents of a schema.
 
 
 ## See also

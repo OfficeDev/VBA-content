@@ -18,7 +18,7 @@ Represents a publication.
 
 ## Example
 
-Use the  **[ActiveDocument](http://msdn.microsoft.com/library/c6293fa6-291c-d8ce-be54-f8a997b95d2e%28Office.15%29.aspx)** property to refer to the current publication. This example adds a table to the first page of the active publication.
+Use the **[ActiveDocument](http://msdn.microsoft.com/library/c6293fa6-291c-d8ce-be54-f8a997b95d2e%28Office.15%29.aspx)** property to refer to the current publication. This example adds a table to the first page of the active publication.
 
 
 ```
@@ -35,7 +35,7 @@ Sub NewTable()
 End Sub
 ```
 
-You can also write the above routine by using a reference to the  **ThisDocument** module. This example uses a **ThisDocument** reference instead of **ActiveDocument**.
+You can also write the above routine by using a reference to the **ThisDocument** module. This example uses a **ThisDocument** reference instead of **ActiveDocument**.
 
 
 

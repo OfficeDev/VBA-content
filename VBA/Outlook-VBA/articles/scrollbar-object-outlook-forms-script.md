@@ -16,12 +16,12 @@ Returns or sets the value of another control based on the position of the scroll
 
 ## Remarks
 
-A  **ScrollBar** is a stand-alone control you can place on a form. It is visually like the scroll bar you see in certain objects such as a **[ListBox](listbox-object-outlook-forms-script.md)** or the drop-down portion of a **[ComboBox](combobox-object-outlook-forms-script.md)**. However, unlike the scroll bars in these controls, the stand-alone  **ScrollBar** is not an integral part of any other control.
+A **ScrollBar** is a stand-alone control you can place on a form. It is visually like the scroll bar you see in certain objects such as a **[ListBox](listbox-object-outlook-forms-script.md)** or the drop-down portion of a **[ComboBox](combobox-object-outlook-forms-script.md)**. However, unlike the scroll bars in these controls, the stand-alone **ScrollBar** is not an integral part of any other control.
 
-To use the  **ScrollBar** to set or read the value of another control, you must write code that uses the **ScrollBar** control's **[Value](scrollbar-value-property-outlook-forms-script.md)** property. For example, to use the **ScrollBar** to update the value of a **[TextBox](textbox-object-outlook-forms-script.md)**, you can write code that reads the  **Value** property of the **ScrollBar** and then sets the **[Value](scrollbar-value-property-outlook-forms-script.md)** property of the **TextBox**.
+To use the **ScrollBar** to set or read the value of another control, you must write code that uses the **ScrollBar** control's **[Value](scrollbar-value-property-outlook-forms-script.md)** property. For example, to use the **ScrollBar** to update the value of a **[TextBox](textbox-object-outlook-forms-script.md)**, you can write code that reads the **Value** property of the **ScrollBar** and then sets the **[Value](scrollbar-value-property-outlook-forms-script.md)** property of the **TextBox**.
 
-The default property for a  **ScrollBar** is the **Value** property.
+The default property for a **ScrollBar** is the **Value** property.
 
-To create a horizontal or vertical  **ScrollBar**, drag the sizing handles of the  **ScrollBar** horizontally or vertically on the form.
+To create a horizontal or vertical **ScrollBar**, drag the sizing handles of the **ScrollBar** horizontally or vertically on the form.
 
 

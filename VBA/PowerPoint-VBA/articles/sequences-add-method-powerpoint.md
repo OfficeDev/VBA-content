@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequences.Add Method (PowerPoint)
 
-Returns a  **[Sequence](sequence-object-powerpoint.md)** object that represents a new sequence.
+Returns a **[Sequence](sequence-object-powerpoint.md)** object that represents a new sequence.
 
 
 ## Syntax

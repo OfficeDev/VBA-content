@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # VisRegionalUIOptions Enumeration (Visio)
 
-Text display options returned by the  **ApplicationSettings.AsianTextUI** , **ApplicationSettings.BIDITextUI** , **ApplicationSettings.ComplexTextUI** , **ApplicationSettings.KashidaTextUI** , and **ApplicationSettings.SATextUI** properties.
+Text display options returned by the **ApplicationSettings.AsianTextUI** , **ApplicationSettings.BIDITextUI** , **ApplicationSettings.ComplexTextUI** , **ApplicationSettings.KashidaTextUI** , and **ApplicationSettings.SATextUI** properties.
 
 
 ## Remarks
 
-You can set regional user interface (UI) options on the  **Set the Office Language Preferences** tab of the **Visio Options** dialog box. (Click the **File** tab, click **Options**, and then click  **Language**).
+You can set regional user interface (UI) options on the **Set the Office Language Preferences** tab of the **Visio Options** dialog box. (Click the **File** tab, click **Options**, and then click **Language**).
 
 
 

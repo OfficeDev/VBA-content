@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.KeepLinesTogether Property (Publisher)
 
-Sets or returns an  **MsoTriState** that indicates whether all lines in the specified paragraph will remain in the same text box. Read/write.
+Sets or returns an **MsoTriState** that indicates whether all lines in the specified paragraph will remain in the same text box. Read/write.
 
 
 ## Syntax
 
  _expression_. **KeepLinesTogether**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -32,12 +32,12 @@ msoTriState
 
 This option ensures that there is not a text frame or column break between the lines of the specified paragraph. If the paragraphs are too large for the text frame or column, the first line will start at the top of the next text frame or column.
 
-The default setting for this property is  **msoFalse**.
+The default setting for this property is **msoFalse**.
 
 
 ## Example
 
-This example sets the  **KeepLinesTogether** property to **msoTrue** for the specified **ParagraphFormat** object.
+This example sets the **KeepLinesTogether** property to **msoTrue** for the specified **ParagraphFormat** object.
 
 
 ```vb

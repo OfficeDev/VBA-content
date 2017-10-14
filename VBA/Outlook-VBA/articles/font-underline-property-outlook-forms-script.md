@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Font.Underline Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether text is underlined. Read/write.
+Returns or sets a **Boolean** that specifies whether text is underlined. Read/write.
 
 
 ## Syntax
 
  _expression_. **Underline**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Collapses a range or selection to the starting position or ending position. Afte
 
  _expression_. **Collapse**( **_Direction_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -33,9 +33,9 @@ Collapses a range or selection to the starting position or ending position. Afte
 
 ## Remarks
 
-If you use  **pbCollapseEnd** to collapse a range that refers to an entire paragraph, the range will be located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the [MoveEnd](textrange-moveend-method-publisher.md)method after the range is collapsed.
+If you use **pbCollapseEnd** to collapse a range that refers to an entire paragraph, the range will be located after the ending paragraph mark (the beginning of the next paragraph). However, you can move the range back one character by using the [MoveEnd](textrange-moveend-method-publisher.md)method after the range is collapsed.
 
-The Direction parameter can be one of the following  **PbCollapseDirection** constants declared in the Microsoft Publisher type library.
+The Direction parameter can be one of the following **PbCollapseDirection** constants declared in the Microsoft Publisher type library.
 
 
 

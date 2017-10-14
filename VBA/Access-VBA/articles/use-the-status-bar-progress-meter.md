@@ -8,17 +8,17 @@ ms.date: 06/08/2017
 
 # Use the Status Bar Progress Meter
 
-This topic shows how to use the  **[SysCmd](application-syscmd-method-access.md)** method to create a progress meter on the status bar that gives a visual representation of the progress of an operation that has a known duration or number of steps.
+This topic shows how to use the **[SysCmd](application-syscmd-method-access.md)** method to create a progress meter on the status bar that gives a visual representation of the progress of an operation that has a known duration or number of steps.
 
-There are three intrinsic constants that can be used with the  **SysCmd** method's _action_ argument to manipulate the progress meter on the status bar. The following table describes them.
+There are three intrinsic constants that can be used with the **SysCmd** method's _action_ argument to manipulate the progress meter on the status bar. The following table describes them.
 
 
 |**Intrinsic constant**|**Description**|
 |:-----|:-----|
-|**acSysCmdInitMeter**|Initialize the progress meter. The maximum value that the process will attain is specifed in the  **SysCmd** method's _value_ argument.|
-|**acSysCmdUpdateMeter**|Update the progress meter. A numeric expression that represents the current progress toward completion is specified in the  **SysCmd** method's _value_ argument.|
+|**acSysCmdInitMeter**|Initialize the progress meter. The maximum value that the process will attain is specifed in the **SysCmd** method's _value_ argument.|
+|**acSysCmdUpdateMeter**|Update the progress meter. A numeric expression that represents the current progress toward completion is specified in the **SysCmd** method's _value_ argument.|
 |**acSysCmdRemoveMeter**|Remove progress meter.|
-The following procedure uses the  **SysCmd** method to update the progress meter as data from the Customers table is printed in the Immediate window.
+The following procedure uses the **SysCmd** method to update the progress meter as data from the Customers table is printed in the Immediate window.
 
 
 

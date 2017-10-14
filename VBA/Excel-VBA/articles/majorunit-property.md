@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MajorUnit Property
 
-Returns or sets the major units for the axis. Read/write  **Double**.
+Returns or sets the major units for the axis. Read/write **Double**.
 
 
 ## Remarks
 
-Setting this property sets the  **[MajorUnitIsAuto](majorunitisauto-property.md)** property to  **False**.
+Setting this property sets the **[MajorUnitIsAuto](majorunitisauto-property.md)** property to **False**.
 
-Use the  **[TickMarkSpacing](tickmarkspacing-property.md)** property to set tick-mark spacing on the category axis.
+Use the **[TickMarkSpacing](tickmarkspacing-property.md)** property to set tick-mark spacing on the category axis.
 
 
 ## Example

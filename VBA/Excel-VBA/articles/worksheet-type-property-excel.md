@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Type Property (Excel)
 
-Returns an  **[XlSheetType](xlsheettype-enumeration-excel.md)** value that represents the worksheet type.
+Returns an **[XlSheetType](xlsheettype-enumeration-excel.md)** value that represents the worksheet type.
 
 
 ## Syntax

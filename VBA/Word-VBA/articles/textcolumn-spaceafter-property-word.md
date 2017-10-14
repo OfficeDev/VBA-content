@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn.SpaceAfter Property (Word)
 
-Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single** .
+Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write **Single** .
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets the amount of spacing (in points) after the specified paragraph 
 
 ## Example
 
-This example sets the active document to three columns with a 0.5-inch space after the first column. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the active document to three columns with a 0.5-inch space after the first column. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

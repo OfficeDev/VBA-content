@@ -20,19 +20,19 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
  _expression_. **ToggleVerticalText**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **[Left](shape-left-property-publisher.md)** and **[Top](shape-top-property-publisher.md)** properties of the **[Shape](shape-object-publisher.md)** object that represents the WordArt and leaves the  **[Width](shape-width-property-publisher.md)** and **[Height](shape-height-property-publisher.md)** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **[Left](shape-left-property-publisher.md)** and **[Top](shape-top-property-publisher.md)** properties of the **[Shape](shape-object-publisher.md)** object that represents the WordArt and leaves the **[Width](shape-width-property-publisher.md)** and **[Height](shape-height-property-publisher.md)** properties unchanged.
 
-The  **[Flip](shape-flip-method-publisher.md)** method and  **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object and the  **[RotatedChars](texteffectformat-rotatedchars-property-publisher.md)** property and  **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](shape-flip-method-publisher.md)** method and **[Rotation](shape-rotation-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object and the **[RotatedChars](texteffectformat-rotatedchars-property-publisher.md)** property and **ToggleVerticalText** method of the **[TextEffectFormat](texteffectformat-object-publisher.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to the active publication, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
+This example adds WordArt that contains the text "Test" to the active publication, and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
 
 
 ```vb

@@ -15,11 +15,11 @@ The [parameter](vbe-glossary.md) defined as **ParamArray** is used incorrectly i
 
 
 
-- You attempted to pass  **ParamArray** as an[argument](vbe-glossary.md) to another procedure that expects an[array](vbe-glossary.md) or a **ByRef Variant**.
+- You attempted to pass **ParamArray** as an[argument](vbe-glossary.md) to another procedure that expects an[array](vbe-glossary.md) or a **ByRef Variant**.
     
-    Assign the  **ParamArray** parameter to a **Variant**, and then pass the variant.
+    Assign the **ParamArray** parameter to a **Variant**, and then pass the variant.
     
-- You attempted to use an  **Erase** or **ReDim** statement with a **ParamArray** parameter within its procedure. Remove the **Erase** or **ReDim**. These operations can't be performed on the **ParamArray** parameter.
+- You attempted to use an **Erase** or **ReDim** statement with a **ParamArray** parameter within its procedure. Remove the **Erase** or **ReDim**. These operations can't be performed on the **ParamArray** parameter.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

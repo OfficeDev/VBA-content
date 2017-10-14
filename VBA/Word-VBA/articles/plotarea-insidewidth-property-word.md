@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideWidth Property (Word)
 
-Returns or sets the inside width, in points, of the plot area. Read/write  **Double** .
+Returns or sets the inside width, in points, of the plot area. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the inside width, in points, of the plot area. Read/write  **Dou
 
 ## Remarks
 
-The plot area used for this measurement does not include the axis labels. The  **[Width](plotarea-width-property-word.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement does not include the axis labels. The **[Width](plotarea-width-property-word.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 
 ## Example

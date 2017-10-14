@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ContentControls.Item Method (Word)
 
-Returns a  **[ContentControl](contentcontrol-object-word.md)** object that represents the specified content control within the collection of content controls in a document.
+Returns a **[ContentControl](contentcontrol-object-word.md)** object that represents the specified content control within the collection of content controls in a document.
 
 
 ## Syntax

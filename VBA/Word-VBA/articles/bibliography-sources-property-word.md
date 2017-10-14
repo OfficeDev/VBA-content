@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bibliography.Sources Property (Word)
 
-Returns a  **[Sources](sources-object-word.md)** collection that represents all the sources contained in a bibliography. Read-only.
+Returns a **[Sources](sources-object-word.md)** collection that represents all the sources contained in a bibliography. Read-only.
 
 
 ## Syntax

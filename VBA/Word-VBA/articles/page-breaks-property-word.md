@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.Breaks Property (Word)
 
-Returns a  **Breaks** collection that represents the breaks on a page. .
+Returns a **Breaks** collection that represents the breaks on a page. .
 
 
 ## Syntax

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example displays the address of the active cell on Sheet1 in A1 style if  **RecordRelative** is **False** ; otherwise, it displays the address in R1C1 style.
+This example displays the address of the active cell on Sheet1 in A1 style if **RecordRelative** is **False** ; otherwise, it displays the address in R1C1 style.
 
 
 ```vb

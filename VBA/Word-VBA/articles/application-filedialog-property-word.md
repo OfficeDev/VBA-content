@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (Word)
 
-Returns a  **FileDialog** object which represents a single instance of a file dialog box.
+Returns a **FileDialog** object which represents a single instance of a file dialog box.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
 ## Example
 
-This example displays the  **Save As** dialog box.
+This example displays the **Save As** dialog box.
 
 
 ```vb
@@ -45,7 +45,7 @@ Sub ShowSaveAsDialog()
 End Sub
 ```
 
-This example displays the  **Open** dialog box and allows a user to select multiple files to open.
+This example displays the **Open** dialog box and allows a user to select multiple files to open.
 
 
 

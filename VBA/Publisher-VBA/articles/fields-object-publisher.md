@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # Fields Object (Publisher)
 
-A collection of  **[Field](field-object-publisher.md)** objects that represent all the fields in a text range.
+A collection of **[Field](field-object-publisher.md)** objects that represent all the fields in a text range.
  
 
 
 ## Remarks
 
-The  **[Count](fields-count-property-publisher.md)** property for this collection in a publication returns the number of items in a specified shape or selection.
+The **[Count](fields-count-property-publisher.md)** property for this collection in a publication returns the number of items in a specified shape or selection.
  
 
  
 
 ## Example
 
-Use the  **[Fields](textrange-fields-property-publisher.md)** property to return the **Fields** collection. Use **Fields** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following example displays the field code and the result of the first field in each text box in the active publication.
+Use the **[Fields](textrange-fields-property-publisher.md)** property to return the **Fields** collection. Use **Fields** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following example displays the field code and the result of the first field in each text box in the active publication.
  
 
  

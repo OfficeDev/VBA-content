@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tasks.Count Property (Word)
 
-Returns a  **Long** that represents the number of tasks in the collection. Read-only.
+Returns a **Long** that represents the number of tasks in the collection. Read-only.
 
 
 ## Syntax

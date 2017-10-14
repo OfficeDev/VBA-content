@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.InsertPageNumber Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a page number field in a publication.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents a page number field in a publication.
 
 
 ## Syntax
 
  _expression_. **InsertPageNumber**( **_Type_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ TextRange
 
 ## Remarks
 
-Type can be one of these  **PbPageNumberType** constants.
+Type can be one of these **PbPageNumberType** constants.
 
 
 

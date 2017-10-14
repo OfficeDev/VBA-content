@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Inserting Text in a Document
 
-Use the  **InsertBefore**method or the  **InsertAfter**method of the  **[Selection](selection-object-word.md)** object or the  **[Range](range-object-word.md)** object to insert text before or after a selection or range of text. The following example inserts text at the end of the active document.
+Use the **InsertBefore**method or the **InsertAfter**method of the **[Selection](selection-object-word.md)** object or the **[Range](range-object-word.md)** object to insert text before or after a selection or range of text. The following example inserts text at the end of the active document.
 
 
 ```vb
@@ -32,5 +32,5 @@ Sub AddTextBeforeSelection()
 End Sub
 ```
 
-After using the  **InsertBefore** method or the **InsertAfter** method, the **Range** or **Selection** expands to include the new text. Use the **Collapse**method to collapse a  **Selection** or **Range** to the beginning or ending point.
+After using the **InsertBefore** method or the **InsertAfter** method, the **Range** or **Selection** expands to include the new text. Use the **Collapse**method to collapse a **Selection** or **Range** to the beginning or ending point.
 

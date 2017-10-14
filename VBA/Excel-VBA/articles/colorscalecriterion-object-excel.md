@@ -18,14 +18,14 @@ Represents the criteria for the minimum, midpoint, or maximum thresholds for a c
 
 ## Remarks
 
-Each  **ColorScaleCriterion** is part of the **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** collection. Use **ColorScaleCriteria** ( _index_ ), to return an individual criterion.
+Each **ColorScaleCriterion** is part of the **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** collection. Use **ColorScaleCriteria** ( _index_ ), to return an individual criterion.
 
-You can set the  **[Type](colorscalecriterion-type-property-excel.md)** , **[Value](colorscalecriterion-value-property-excel.md)** , and **[FormatColor](colorscalecriterion-formatcolor-property-excel.md)** of each threshold for the color scale.
+You can set the **[Type](colorscalecriterion-type-property-excel.md)** , **[Value](colorscalecriterion-value-property-excel.md)** , and **[FormatColor](colorscalecriterion-formatcolor-property-excel.md)** of each threshold for the color scale.
 
 
 ## Example
 
-The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the  **ColorScaleCriteria** collection to set individual criteria.
+The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the **ColorScaleCriteria** collection to set individual criteria.
 
 
 ```vb

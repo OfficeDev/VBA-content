@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Name Property (Project)
 
-Gets the name of the  **Application** object. Read-only **String**.
+Gets the name of the **Application** object. Read-only **String**.
 
 
 ## Syntax

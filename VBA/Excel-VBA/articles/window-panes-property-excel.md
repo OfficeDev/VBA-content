@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Panes Property (Excel)
 
-Returns a  **[Panes](panes-object-excel.md)** collection that represents all the panes in the specified window. Read-only.
+Returns a **[Panes](panes-object-excel.md)** collection that represents all the panes in the specified window. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Panes](panes-object-excel.md)** collection that represents all the
 
 ## Remarks
 
-This property is available for a window only if the window's  **Split** property can be set to **True** .
+This property is available for a window only if the window's **Split** property can be set to **True** .
 
 
 ## Example

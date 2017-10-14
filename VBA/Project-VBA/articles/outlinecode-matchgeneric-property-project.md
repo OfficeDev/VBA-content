@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If there are no values in the enterprise lookup table, then the  **MatchGeneric** property is **False** and non-writeable. For local outline codes, **MatchGeneric** is always **False** and non-writeable.
+If there are no values in the enterprise lookup table, then the **MatchGeneric** property is **False** and non-writeable. For local outline codes, **MatchGeneric** is always **False** and non-writeable.
 
 

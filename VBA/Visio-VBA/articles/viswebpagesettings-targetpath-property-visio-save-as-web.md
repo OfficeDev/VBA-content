@@ -17,7 +17,7 @@ Specifies the path where the Web page and its supporting files are placed. Read/
 
  _expression_. **TargetPath**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ Specifies the path where the Web page and its supporting files are placed. Read/
 
 ## Remarks
 
-When you save a drawing as a Web page, you must use the  **TargetPath** property to supply the full target path. The **TargetPath** property is reset to a null value after each export: each time you save a drawing as a Web page you must explicitly supply the target path. In addition, the **TargetPath** value is not persisted between sessions of Visio.
+When you save a drawing as a Web page, you must use the **TargetPath** property to supply the full target path. The **TargetPath** property is reset to a null value after each export: each time you save a drawing as a Web page you must explicitly supply the target path. In addition, the **TargetPath** value is not persisted between sessions of Visio.
 
 The value of the **TargetPath** property corresponds to the folder name and file name selected in the **Save As** dialog box (click the **BackstageButton** tab, and then click **Save As**).
 

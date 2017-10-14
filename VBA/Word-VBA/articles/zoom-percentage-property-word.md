@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Zoom.Percentage Property (Word)
 
-Returns or sets the magnification for a window as a percentage. Read/write  **Long** .
+Returns or sets the magnification for a window as a percentage. Read/write **Long** .
 
 
 ## Syntax

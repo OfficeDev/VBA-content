@@ -29,8 +29,8 @@ Moves or extends the ending character position of a range to the end of the near
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to move the ending character position. Can be any  **WdUnits** , except **wdLine** . The default value is **wdWord** .|
-| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is  **wdMove** , both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which to move the ending character position. Can be any **WdUnits** , except **wdLine** . The default value is **wdWord** .|
+| _Extend_|Required| ** WdMovementType**|Specifies whether to move or extend the end of the range. If the value is **wdMove** , both ends of the range or selection object are moved to the end of the specified unit. If **wdExtend** is used, the end of the range or selection is extended to the end of the specified unit. The default value is **wdMove** .|
 
 ## Remarks
 

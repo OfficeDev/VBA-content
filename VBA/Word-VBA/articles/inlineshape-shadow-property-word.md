@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Shadow Property (Word)
 
-Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape. Read-only.
+Returns a **ShadowFormat** object that represents the shadow formatting for the specified shape. Read-only.
 
 
 ## Syntax

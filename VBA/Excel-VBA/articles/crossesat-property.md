@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CrossesAt Property
 
-Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
+Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write **Double**.
 
 
 ## Remarks
 
-Setting this property causes the  **[Crosses](crosses-property.md)** property to change to  **xlAxisCrossesCustom**.
+Setting this property causes the **[Crosses](crosses-property.md)** property to change to **xlAxisCrossesCustom**.
 
 This property cannot be used on 3-D charts or radar charts.
 

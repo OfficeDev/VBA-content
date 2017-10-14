@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.FlagItem Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Flag for Follow Up** dialog box for the selected item.
+Displays the Microsoft Outlook **Flag for Follow Up** dialog box for the selected item.
 
 
 ## Syntax
 
  _expression_. **FlagItem**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

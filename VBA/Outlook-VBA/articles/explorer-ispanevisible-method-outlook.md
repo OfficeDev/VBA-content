@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.IsPaneVisible Method (Outlook)
 
-Returns a  **Boolean** indicating whether a specific explorer pane is visible.
+Returns a **Boolean** indicating whether a specific explorer pane is visible.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 ## Remarks
 
-You can also use the  **[Visible](outlookbarpane-visible-property-outlook.md)** property of the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to determine whether the **Shortcuts** pane is visible.
+You can also use the **[Visible](outlookbarpane-visible-property-outlook.md)** property of the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to determine whether the **Shortcuts** pane is visible.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](explorer-showpane-method-outlook.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the Navigation Pane.
+This Microsoft Visual Basic for Applications (VBA) sample uses the **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](explorer-showpane-method-outlook.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the Navigation Pane.
 
 
 ```vb

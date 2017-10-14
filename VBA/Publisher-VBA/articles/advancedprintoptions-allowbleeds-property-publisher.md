@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdvancedPrintOptions.AllowBleeds Property (Publisher)
 
- **True** to allow bleeds to print for the specified publication. The default is **True**. Read/write  **Boolean**.
+ **True** to allow bleeds to print for the specified publication. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **AllowBleeds**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_A variable that represents an **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -32,9 +32,9 @@ Boolean
 
 When bleeds are allowed, objects that are partially off the page print to one eighth inch outside the defined page size.
 
-If you allow bleeds in a document, you can specify whether bleed marks are printed by using the  **[PrintBleedMarks](advancedprintoptions-printbleedmarks-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object.
+If you allow bleeds in a document, you can specify whether bleed marks are printed by using the **[PrintBleedMarks](advancedprintoptions-printbleedmarks-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object.
 
-This property corresponds to the  **Allow bleeds** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+This property corresponds to the **Allow bleeds** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.TooltipText Property (Office)
 
-Gets or sets the text displayed in a  **CommandBarPopup's** **ScreenTip**. Read/write.
+Gets or sets the text displayed in a **CommandBarPopup's** **ScreenTip**. Read/write.
 
 
 ## 
@@ -33,7 +33,7 @@ String
 
 ## Remarks
 
-By default, the value of the  **Caption** property is used as the **ScreenTip**.
+By default, the value of the **Caption** property is used as the **ScreenTip**.
 
 
 ## See also

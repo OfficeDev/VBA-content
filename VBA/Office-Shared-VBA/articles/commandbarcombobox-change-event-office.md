@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Change Event (Office)
 
-Occurs when the end user changes the selection in a  **CommandBar** combo box.
+Occurs when the end user changes the selection in a **CommandBar** combo box.
 
 
 ## 
@@ -35,16 +35,16 @@ Occurs when the end user changes the selection in a  **CommandBar** combo box.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Ctrl_|Required|**CommandBarComboBox**|Represents a  **CommandBar** combo box.|
+| _Ctrl_|Required|**CommandBarComboBox**|Represents a **CommandBar** combo box.|
 
 ## Remarks
 
-The  **Change** event is recognized by the **CommandBarComboBox** object. To return the **Change** event for a particular **CommandBarComboBox** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the **CommandBarComboBox** control. When the **Change** event is triggered, it executes the macro or code that you specified with the **OnAction** property of the control.
+The **Change** event is recognized by the **CommandBarComboBox** object. To return the **Change** event for a particular **CommandBarComboBox** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the **CommandBarComboBox** control. When the **Change** event is triggered, it executes the macro or code that you specified with the **OnAction** property of the control.
 
 
 ## Example
 
-The following example creates a command bar with a  **CommandBarComboBox** control containing four selections. The combo box responds to user interaction through the **CommandBarComboBox_Change** event.
+The following example creates a command bar with a **CommandBarComboBox** control containing four selections. The combo box responds to user interaction through the **CommandBarComboBox_Change** event.
 
 
 ```

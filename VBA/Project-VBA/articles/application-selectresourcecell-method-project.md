@@ -29,7 +29,7 @@ Selects a cell containing resource information.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Row_|Optional|**Long**|The row number (RowRelative is  **False** ) or the relative row position (RowRelative is **True** ) of the cell to select.|
+| _Row_|Optional|**Long**|The row number (RowRelative is **False** ) or the relative row position (RowRelative is **True** ) of the cell to select.|
 | _Column_|Optional|**String**|The field name of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 
@@ -40,12 +40,12 @@ Selects a cell containing resource information.
 
 ## Remarks
 
-Using the  **SelectResourceCell** method without specifying any arguments retains the current cell as the active cell. The **SelectResourceCell** method is only available when the Resource Sheet or Resource Usage view is the active view.
+Using the **SelectResourceCell** method without specifying any arguments retains the current cell as the active cell. The **SelectResourceCell** method is only available when the Resource Sheet or Resource Usage view is the active view.
 
 
 ## Example
 
-The following example selects the third row in the  **Name** column of the Resource Sheet.
+The following example selects the third row in the **Name** column of the Resource Sheet.
 
 
 ```vb

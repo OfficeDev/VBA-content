@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Invalid inside procedure
 
-The statement can't occur in a  **Sub** or **Function** procedure. This error has the following cause and solution:
+The statement can't occur in a **Sub** or **Function** procedure. This error has the following cause and solution:
 
 
 
-- One of the following statements appears in a [procedure](vbe-glossary.md):  **Declare**, **Def**_type_, **Private**, **Public**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Enum** and **Type**.
+- One of the following statements appears in a [procedure](vbe-glossary.md): **Declare**, **Def**_type_, **Private**, **Public**, **Option Base**, **Option Compare**, **Option Explicit**, **Option Private**, **Enum** and **Type**.
     
     Remove the statement from the procedure. The statements can be placed at [module level](vbe-glossary.md).
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.SchemeColor Property (Excel)
 
-Returns or sets an  **Integer** value that represents the color of a **Color** object, as an index in the current color.
+Returns or sets an **Integer** value that represents the color of a **Color** object, as an index in the current color.
 
 
 ## Syntax

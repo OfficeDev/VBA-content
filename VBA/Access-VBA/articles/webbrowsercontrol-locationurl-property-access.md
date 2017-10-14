@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.LocationURL Property (Access)
 
-Gets the Uniform Resource Locator (URL) of the current document. Read-only  **String**.
+Gets the Uniform Resource Locator (URL) of the current document. Read-only **String**.
 
 
 ## Syntax

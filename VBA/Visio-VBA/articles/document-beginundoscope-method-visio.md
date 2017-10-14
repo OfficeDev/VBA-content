@@ -38,11 +38,11 @@ Long
 
 ## Remarks
 
-If you need to know whether events you receive are the result of a particular operation that you initiated, use the  **BeginUndoScope** and **EndUndoScope** methods to wrap your operation. In your event handlers, use the **IsInScope** property to test whether the scope ID returned by the **BeginUndoScope** method is part of the current context. Make sure you clear the scope ID you stored from the **BeginUndoScope** property when you receive the **ExitScope** event with that ID.
+If you need to know whether events you receive are the result of a particular operation that you initiated, use the **BeginUndoScope** and **EndUndoScope** methods to wrap your operation. In your event handlers, use the **IsInScope** property to test whether the scope ID returned by the **BeginUndoScope** method is part of the current context. Make sure you clear the scope ID you stored from the **BeginUndoScope** property when you receive the **ExitScope** event with that ID.
 
-You must balance calls to the  **BeginUndoScope** method with calls to the **EndUndoScope** method. If you call the **BeginUndoScope** method, you should call the **EndUndoScope** method as soon as you are finished with the actions that constitute your scope. Also, while actions to multiple documents should be robust within a single scope, closing a document may have the side effect of clearing the undo information for the currently open scope as well as clearing the undo and redo stacks. If that happens, passing _bCommit_ = **False** to **EndUndoScope** does not restore the undo information.
+You must balance calls to the **BeginUndoScope** method with calls to the **EndUndoScope** method. If you call the **BeginUndoScope** method, you should call the **EndUndoScope** method as soon as you are finished with the actions that constitute your scope. Also, while actions to multiple documents should be robust within a single scope, closing a document may have the side effect of clearing the undo information for the currently open scope as well as clearing the undo and redo stacks. If that happens, passing _bCommit_ = **False** to **EndUndoScope** does not restore the undo information.
 
-You can also use the  **BeginUndoScope** and **EndUndoScope** methods to add an action defined by an add-on to the Visio undo stream. This is useful when you are operating from modeless scenarios where the initiating agent is part of an add-on's user interface or a modeless programmatic action.
+You can also use the **BeginUndoScope** and **EndUndoScope** methods to add an action defined by an add-on to the Visio undo stream. This is useful when you are operating from modeless scenarios where the initiating agent is part of an add-on's user interface or a modeless programmatic action.
 
 
  **Note**  Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application do not need to call this method.
@@ -50,7 +50,7 @@ You can also use the  **BeginUndoScope** and **EndUndoScope** methods to add an 
 
 ## Example
 
-This example shows how to use the  **BeginUndoScope** method to start a transaction that has a unique scope ID for an instance of Visio.
+This example shows how to use the **BeginUndoScope** method to start a transaction that has a unique scope ID for an instance of Visio.
 
 
 ```vb

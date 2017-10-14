@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.Value Property (Outlook)
 
-Returns or sets a  **Variant** that represents the content of the control. Read/write.
+Returns or sets a **Variant** that represents the content of the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 
 ## Remarks
 
-The value is the same as the value of  **[Text](olktextbox-text-property-outlook.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
+The value is the same as the value of **[Text](olktextbox-text-property-outlook.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
 
 
 ## See also

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AccessObject Object (Access)
 
-An  **AccessObject** object refers to a particular Access object.
+An **AccessObject** object refers to a particular Access object.
 
 
 ## Remarks
 
-An  **AccessObject** object includes information about one instance of an object. The following table list the types of objects each **AccessObject** describes, the name of its collection, and what type of information **AccessObject** contains.
+An **AccessObject** object includes information about one instance of an object. The following table list the types of objects each **AccessObject** describes, the name of its collection, and what type of information **AccessObject** contains.
 
 
 
@@ -34,7 +34,7 @@ An  **AccessObject** object includes information about one instance of an object
 |**Stored procedure**|**AllStoredProcedures**|Saved stored procedures|
 |**Table**|**AllTables**|Saved tables|
 |**View**|**AllViews**|Saved views|
-Because an  **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
+Because an **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
 
 
 |Syntax|

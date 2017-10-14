@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.IMEMode Property (Excel)
 
-Returns or sets the description of the Japanese input rules. Can be one of the  **[XlIMEMode](xlimemode-enumeration-excel.md)** constants listed in the following table. Read/write **Long** .
+Returns or sets the description of the Japanese input rules. Can be one of the **[XlIMEMode](xlimemode-enumeration-excel.md)** constants listed in the following table. Read/write **Long** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebNavigationBarSet.Links Property (Publisher)
 
-Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified Web navigation bar set. Read/write.
+Returns a **WebNavigationBarHyperlinks** collection containing all of the hyperlinks in the specified Web navigation bar set. Read/write.
 
 
 ## Syntax
 
  _expression_. **Links**
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_A variable that represents a **WebNavigationBarSet** object.
 
 
 ### Return Value
@@ -30,14 +30,14 @@ WebNavigationBarHyperlinks
 
 ## Example
 
-Use the  **Links** property to return a **WebNavigationBarHyperlinks** property. This example returns the Web navigation bar hyperlinks of the first Web navigation bar set of the active document.
+Use the **Links** property to return a **WebNavigationBarHyperlinks** property. This example returns the Web navigation bar hyperlinks of the first Web navigation bar set of the active document.
 
 
 ```vb
 ActiveDocument.WebNavigationBarSets(1).Links
 ```
 
-The following example adds a new Web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the  **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
+The following example adds a new Web navigation bar set to the active document, adds a hyperlink to the navigation bar, and then adds the navigation bar to every page of the publication that has the **AddHyperlinkToWebNavbar** property set to **True** or the **Page.WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True**.
 
 
 

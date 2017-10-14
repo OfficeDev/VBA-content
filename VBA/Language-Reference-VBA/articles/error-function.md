@@ -22,7 +22,7 @@ Examine the [property](vbe-glossary.md) settings of the **Err** object to identi
 
 ## Example
 
-This example uses the  **Error** function to print error messages that correspond to the specified error numbers.
+This example uses the **Error** function to print error messages that correspond to the specified error numbers.
 
 
 ```vb

@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # ListBox Control, BoundColumn, ControlSource, RowSource Properties Example
 
-The following example uses a range of worksheet cells in a  **ListBox** and, when the user selects a row from the list, displays the row index in another worksheet cell. This code sample uses the **RowSource**, **BoundColumn**, and **ControlSource** properties.
+The following example uses a range of worksheet cells in a **ListBox** and, when the user selects a row from the list, displays the row index in another worksheet cell. This code sample uses the **RowSource**, **BoundColumn**, and **ControlSource** properties.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **ListBox** named ListBox1. In the worksheet, enter data in cells A1:E4. You also need to make sure cell A6 contains no data.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **ListBox** named ListBox1. In the worksheet, enter data in cells A1:E4. You also need to make sure cell A6 contains no data.
 
 
 

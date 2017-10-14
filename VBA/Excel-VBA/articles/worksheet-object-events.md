@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Worksheet Object Events
 
-Events on sheets are enabled by default. To view the event procedures for a sheet, right-click the sheet tab and click  **View Code** on the shortcut menu. Select one of the following events from the **Procedure** drop-down list box.
+Events on sheets are enabled by default. To view the event procedures for a sheet, right-click the sheet tab and click **View Code** on the shortcut menu. Select one of the following events from the **Procedure** drop-down list box.
 
 
 

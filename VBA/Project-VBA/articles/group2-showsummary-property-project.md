@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-The following example displays the name of the second  **Group2** object in the **TaskGroups2** collection, and then displays the setting for the **ShowSummary** property in the **Immediate** window.
+The following example displays the name of the second **Group2** object in the **TaskGroups2** collection, and then displays the setting for the **ShowSummary** property in the **Immediate** window.
 
 
 ```vb

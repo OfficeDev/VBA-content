@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Comments Property (Word)
 
-Returns a  **[Comments](comments-object-word.md)** collection that represents all the comments in the specified. Read-only.
+Returns a **[Comments](comments-object-word.md)** collection that represents all the comments in the specified. Read-only.
 
 
 ## Syntax

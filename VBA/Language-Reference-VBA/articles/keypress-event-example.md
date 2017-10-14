@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # KeyPress Event Example
 
-The following example uses the  **KeyPress** event to copy keystrokes from one **TextBox** to a second **TextBox**. The user types into the appropriately marked **TextBox**.
+The following example uses the **KeyPress** event to copy keystrokes from one **TextBox** to a second **TextBox**. The user types into the appropriately marked **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
 
 

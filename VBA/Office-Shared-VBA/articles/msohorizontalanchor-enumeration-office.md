@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoHorizontalAnchor Enumeration (Office)
 
-Specifies the horizontal alignment of text in a text frame. Used with the  **HorizontalAnchor** property of the **TextFrame** object.
+Specifies the horizontal alignment of text in a text frame. Used with the **HorizontalAnchor** property of the **TextFrame** object.
 
 
 

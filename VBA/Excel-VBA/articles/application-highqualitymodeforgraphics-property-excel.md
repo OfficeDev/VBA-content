@@ -25,7 +25,7 @@ Returns or sets whether Excel uses high quality mode to print graphics. Read/wri
 
 ## Remarks
 
-This property corresponds to the setting of the  **High quality mode for graphics** check box in the **Print** section of the **Advanced** category of the **Excel Options** dialog box.
+This property corresponds to the setting of the **High quality mode for graphics** check box in the **Print** section of the **Advanced** category of the **Excel Options** dialog box.
 
 
 ## See also

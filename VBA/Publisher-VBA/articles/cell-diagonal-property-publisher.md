@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.Diagonal Property (Publisher)
 
-Sets or returns a  **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
+Sets or returns a **PbCellDiagonalType** constant that represents a cell that is diagonally split. Read/write.
 
 
 ## Syntax
 
  _expression_. **Diagonal**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbCellDiagonalType
 
 ## Remarks
 
-The  **Diagonal** property value can be one of the **[PbCellDiagonalType](pbcelldiagonaltype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Diagonal** property value can be one of the **[PbCellDiagonalType](pbcelldiagonaltype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

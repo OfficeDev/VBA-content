@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowMarkupAreaHighlight Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the markup area that shows revision and comment balloons is shaded. Read/write.
+Returns or sets a **Boolean** that represents whether the markup area that shows revision and comment balloons is shaded. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether the markup area that show
 
 ## Remarks
 
-This property corresponds to the  **Markup Area Highlight** option in the **Show Markup** menu on the **Review** ribbon.
+This property corresponds to the **Markup Area Highlight** option in the **Show Markup** menu on the **Review** ribbon.
 
 
 ## See also

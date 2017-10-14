@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Panes Property (Word)
 
-Returns a  **[Panes](panes-object-word.md)** collection that represents all the window panes for the specified window.
+Returns a **[Panes](panes-object-word.md)** collection that represents all the window panes for the specified window.
 
 
 ## Syntax

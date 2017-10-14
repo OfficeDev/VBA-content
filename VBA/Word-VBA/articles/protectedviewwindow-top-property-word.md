@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Top Property (Word)
 
-Returns or sets the vertical position, in points, of the specified protected view window. Read/write  **Long**
+Returns or sets the vertical position, in points, of the specified protected view window. Read/write **Long**
 
 
 ## Syntax

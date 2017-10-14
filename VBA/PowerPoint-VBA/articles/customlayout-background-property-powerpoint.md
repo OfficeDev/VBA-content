@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Background Property (PowerPoint)
 
-Returns a  **[ShapeRange](shaperange-object-powerpoint.md)** object that represents the slide background. Read-only.
+Returns a **[ShapeRange](shaperange-object-powerpoint.md)** object that represents the slide background. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Transparency Property (Excel)
 
-Returns or sets the degree of transparency of the specified fill as a value from 0.0 (opaque) through 1.0 (clear). Read/write  **Double** .
+Returns or sets the degree of transparency of the specified fill as a value from 0.0 (opaque) through 1.0 (clear). Read/write **Double** .
 
 
 ## Syntax

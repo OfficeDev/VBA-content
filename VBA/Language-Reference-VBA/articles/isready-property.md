@@ -16,13 +16,13 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns  **True** if the specified drive is ready; **False** if it is not.
+Returns **True** if the specified drive is ready; **False** if it is not.
  **Syntax**
 object. **IsReady**
-The object is always a  **Drive** object.
+The object is always a **Drive** object.
  **Remarks**
-For removable-media drives and CD-ROM drives,  **IsReady** returns **True** only when the appropriate media is inserted and ready for access.
-The following code illustrates the use of the  **IsReady** property:
+For removable-media drives and CD-ROM drives, **IsReady** returns **True** only when the appropriate media is inserted and ready for access.
+The following code illustrates the use of the **IsReady** property:
 
 
 

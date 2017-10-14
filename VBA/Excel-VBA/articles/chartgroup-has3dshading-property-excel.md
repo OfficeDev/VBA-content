@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.Has3DShading Property (Excel)
 
-Returns or sets the 3D Shading property of a  **ChartGroup** object. Read/write **Boolean** .
+Returns or sets the 3D Shading property of a **ChartGroup** object. Read/write **Boolean** .
 
 
 ## Syntax

@@ -29,7 +29,7 @@ Specifies the name of the chart template that Microsoft Excel uses when creating
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **Variant**|Specifies the name of the default chart template that will be used when creating new charts. This name can be a string naming a chart in the gallery for a user-defined template or it can be a special constant  **xlBuiltIn** to specify a built-in chart template.|
+| _Name_|Required| **Variant**|Specifies the name of the default chart template that will be used when creating new charts. This name can be a string naming a chart in the gallery for a user-defined template or it can be a special constant **xlBuiltIn** to specify a built-in chart template.|
 
 ## Example
 

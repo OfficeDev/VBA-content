@@ -25,7 +25,7 @@ Removes the specified key combination if it is currently assigned to a command. 
 
 ## Remarks
 
-Using this method is the equivalent to clicking the  **Remove** button in the **Customize Keyboard** dialog box. Use the **Clear** method with a **KeyBinding** object to reset a built-in command to its default key assignment. You don't need to remove or rebind a **KeyBinding** object before adding it elsewhere.
+Using this method is the equivalent to clicking the **Remove** button in the **Customize Keyboard** dialog box. Use the **Clear** method with a **KeyBinding** object to reset a built-in command to its default key assignment. You don't need to remove or rebind a **KeyBinding** object before adding it elsewhere.
 
 
 ## Example
@@ -38,7 +38,7 @@ CustomizationContext = NormalTemplate
 FindKey(BuildKeyCode(wdKeyControl, wdKeyShift, wdKeyB)).Disable
 ```
 
-This example assigns the CTRL+SHIFT+O key combination to the  **Organizer** command. The example then uses the Disable method to remove the CTRL+SHIFT+O key combination and displays a message.
+This example assigns the CTRL+SHIFT+O key combination to the **Organizer** command. The example then uses the Disable method to remove the CTRL+SHIFT+O key combination and displays a message.
 
 
 

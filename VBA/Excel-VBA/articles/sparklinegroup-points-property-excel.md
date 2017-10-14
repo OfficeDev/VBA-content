@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SparklineGroup.Points Property (Excel)
 
-Returns the associated  **[SparkPoints](sparkpoints-object-excel.md)** object for the sparkline group. Read-only.
+Returns the associated **[SparkPoints](sparkpoints-object-excel.md)** object for the sparkline group. Read-only.
 
 
 ## Syntax

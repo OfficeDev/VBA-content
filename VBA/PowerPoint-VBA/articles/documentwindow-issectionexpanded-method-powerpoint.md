@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.IsSectionExpanded Method (PowerPoint)
 
-Indicates whether the selected section is expanded in the  **DocumentWindow**.
+Indicates whether the selected section is expanded in the **DocumentWindow**.
 
 
 ## Syntax

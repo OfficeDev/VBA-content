@@ -36,7 +36,7 @@ A program controls Visio by accessing its objects and then using their propertie
 
 - Create VBA programs by inserting modules, class modules, and user forms into your VBA project and by writing code.
     
-- View VBA project items by choosing the project of an open Visio document in the  **Project Explorer**. To view the  **Code** window for individual items, open the appropriate folder in the **Project Explorer** and double-click the project item, or right-click the item and click **View Code** on the shortcut menu.
+- View VBA project items by choosing the project of an open Visio document in the **Project Explorer**. To view the **Code** window for individual items, open the appropriate folder in the **Project Explorer** and double-click the project item, or right-click the item and click **View Code** on the shortcut menu.
     
 - Debug VBA programs by adding breakpoints, including watch expressions, and stepping through code as it runs.
     

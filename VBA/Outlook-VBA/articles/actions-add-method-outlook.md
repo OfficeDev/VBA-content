@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Actions.Add Method (Outlook)
 
-Creates a new action in the  **[Actions](actions-object-outlook.md)** collection.
+Creates a new action in the **[Actions](actions-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Creates a new action in the  **[Actions](actions-object-outlook.md)** collection
 
 ### Return Value
 
-An  **[Action](action-object-outlook.md)** object that represents the new action.
+An **[Action](action-object-outlook.md)** object that represents the new action.
 
 
 ## Example
 
-This VBA example creates a new mail message and uses the  **Add** method to add an **[Action](action-object-outlook.md)** to it. To run this example without any errors, replace 'Dan Wilson' with a valid recipient name.
+This VBA example creates a new mail message and uses the **Add** method to add an **[Action](action-object-outlook.md)** to it. To run this example without any errors, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

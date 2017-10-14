@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EffectParameters Object (Office)
 
-Represents a collection of  **EffectParameter** objects.
+Represents a collection of **EffectParameter** objects.
 
 
 ## Remarks

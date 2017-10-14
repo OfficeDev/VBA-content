@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTask.Show Method (Office)
 
-Displays a workflow task edit user interface for the specified  **WorkflowTask** object.
+Displays a workflow task edit user interface for the specified **WorkflowTask** object.
 
 
 ## Syntax

@@ -15,7 +15,7 @@ There is a limit to the number of [watch expressions](vbe-glossary.md) the **Wat
 
 
 
-- You added the maximum number of watch expressions to the  **Watch** window. Remove one watch expression for each new one you want to add, or display the value you want to know about in the **Immediate** window.
+- You added the maximum number of watch expressions to the **Watch** window. Remove one watch expression for each new one you want to add, or display the value you want to know about in the **Immediate** window.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

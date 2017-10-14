@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.ShowInFieldList Property (Excel)
 
-When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean** .
+When set to **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ When set to  **True** (default), a **CubeField** object will be shown in the fie
 
 ## Example
 
-In this example, Microsoft Excel determines if a  **CubeField** object can be shown in the Field list and notifies the user. This example assumes a PivotTable report exists on the active worksheet and a **CubeField** object exists.
+In this example, Microsoft Excel determines if a **CubeField** object can be shown in the Field list and notifies the user. This example assumes a PivotTable report exists on the active worksheet and a **CubeField** object exists.
 
 
 ```vb

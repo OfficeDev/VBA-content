@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailAuthor.Style Property (Word)
 
-Returns a  **Style** object that represents the style associated with the current e-mail author for unsent replies, forwards, or new e-mail messages.
+Returns a **Style** object that represents the style associated with the current e-mail author for unsent replies, forwards, or new e-mail messages.
 
 
 ## Syntax

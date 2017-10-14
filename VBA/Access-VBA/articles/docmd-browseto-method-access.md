@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.BrowseTo Method (Access)
 
-The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
+The **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 ## Remarks
 
-Use the  **BrowseTo** method to navigate between objects in place. You can also change the source object of a subform control by specifying the PathToSubFormControl argument. You can use **BrowseTo** to navigate from form1 to form2 without opening up a new window.
+Use the **BrowseTo** method to navigate between objects in place. You can also change the source object of a subform control by specifying the PathToSubFormControl argument. You can use **BrowseTo** to navigate from form1 to form2 without opening up a new window.
 
 The PathToSubFormControl argument must be specified using the syntax in the following example:
 

@@ -33,8 +33,8 @@ Applies a theme to an open document.
 
 |**String**|**Description**|
 |:-----|:-----|
-|theme|The name of the folder that contains the data for the requested theme. (The default location for theme data folders is C:\Program Files\Common Files\Microsoft Shared\Themes.) You must use the folder name for the theme rather than the display name that appears in the  **Theme** dialog box.|
-|nnn|A three-digit string that indicates which theme formatting options to activate (1 to activate, 0 to deactivate). The digits correspond to the  **Vivid Colors**,  **Active Graphics**, and  **Background Image** check boxes in the **Theme** dialog box. If this string is omitted, the default value for nnn is "011" (Active Graphics and Background Image are activated).|
+|theme|The name of the folder that contains the data for the requested theme. (The default location for theme data folders is C:\Program Files\Common Files\Microsoft Shared\Themes.) You must use the folder name for the theme rather than the display name that appears in the **Theme** dialog box.|
+|nnn|A three-digit string that indicates which theme formatting options to activate (1 to activate, 0 to deactivate). The digits correspond to the **Vivid Colors**, **Active Graphics**, and **Background Image** check boxes in the **Theme** dialog box. If this string is omitted, the default value for nnn is "011" (Active Graphics and Background Image are activated).|
 |
 
 ## Example

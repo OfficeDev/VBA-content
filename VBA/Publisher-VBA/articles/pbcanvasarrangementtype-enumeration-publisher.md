@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # pbCanvasArrangementType Enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Shapes.CanvasArrangementType](shapes-canvasarrangementtype-property-publisher.md)** property, specifying the arrangement type of the canvas.
+Constants passed to and returned by the ** [Shapes.CanvasArrangementType](shapes-canvasarrangementtype-property-publisher.md)** property, specifying the arrangement type of the canvas.
 
 
 

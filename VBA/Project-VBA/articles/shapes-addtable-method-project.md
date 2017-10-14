@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddTable Method (Project)
-Adds a table to the report, and returns a  **Shape** object that represents the table.
+Adds a table to the report, and returns a **Shape** object that represents the table.
 
 ## Syntax
 
@@ -43,7 +43,7 @@ Adds a table to the report, and returns a  **Shape** object that represents the 
 
 ## Remarks
 
-Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates a table. When a table is created, it has one row and one column, which contains the text **Use the Table Data taskpane to build a table** (see Figure 1). When you select the table, Project shows the table data task pane named **Field List**, with  **TASKS** selected by default. Using the **Field List** task pane, you can manually add fields to the report.
+Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates a table. When a table is created, it has one row and one column, which contains the text **Use the Table Data taskpane to build a table** (see Figure 1). When you select the table, Project shows the table data task pane named **Field List**, with **TASKS** selected by default. Using the **Field List** task pane, you can manually add fields to the report.
 
 
 **Figure 1. The AddTable method creates a table with one row and one column**
@@ -53,7 +53,7 @@ Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates
 
 ## Example
 
-The  **TestReportTable** macro creates the table shown in Figure 1, and then selects the table to display the **Table Data** task pane.
+The **TestReportTable** macro creates the table shown in Figure 1, and then selects the table to display the **Table Data** task pane.
 
 
 ```vb
@@ -99,7 +99,7 @@ Sub TestReportTable()
 End Sub
 ```
 
-To specify fields for the table, use the  **UpdateTableData** method. Add the following code after the `Set theReportTable = tableShape.Table` line in the previous macro. The _OutlineLevel_ parameter specifies level 1 tasks, and filters out the project summary task.
+To specify fields for the table, use the **UpdateTableData** method. Add the following code after the `Set theReportTable = tableShape.Table` line in the previous macro. The _OutlineLevel_ parameter specifies level 1 tasks, and filters out the project summary task.
 
 
 
@@ -118,7 +118,7 @@ To specify fields for the table, use the  **UpdateTableData** method. Add the fo
     theReportTable.UpdateTableData Task:=True, OutlineLevel:=1, SafeArrayOfPjField:=fieldArray
 ```
 
-Run the modified  **TestReportTable** macro on a project that has four tasks with various values for percent complete and resource costs. Figure 2 is an example of the table results.
+Run the modified **TestReportTable** macro on a project that has four tasks with various values for percent complete and resource costs. Figure 2 is an example of the table results.
 
 
 **Figure 2. The UpdateTableData method can add fields to a table**

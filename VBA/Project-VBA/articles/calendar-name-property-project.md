@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.Name Property (Project)
 
-Gets the name of a  **Calendar** object. Read-only **String**.
+Gets the name of a **Calendar** object. Read-only **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the name of a  **Calendar** object. Read-only **String**.
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see **[Name](task-name-property-project.md)**.
+For a code example that uses the **Task** object, see **[Name](task-name-property-project.md)**.
 
 
 ## Example

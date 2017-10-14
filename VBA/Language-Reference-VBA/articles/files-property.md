@@ -16,12 +16,12 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns a  **Files** collection consisting of all **File** objects contained in the specified folder, including those with hidden and system file attributes set.
+Returns a **Files** collection consisting of all **File** objects contained in the specified folder, including those with hidden and system file attributes set.
  **Syntax**
  _object_. **Files**
 The  _object_ is always a **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **Files** property:
+The following code illustrates the use of the **Files** property:
 
 
 

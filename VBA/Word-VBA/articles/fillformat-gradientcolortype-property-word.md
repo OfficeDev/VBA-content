@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientColorType Property (Word)
 
-Returns the gradient color type for the specified fill. Read-only  **MsoGradientColorType** .
+Returns the gradient color type for the specified fill. Read-only **MsoGradientColorType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the gradient color type for the specified fill. Read-only  **MsoGradient
 
 ## Remarks
 
-This property is read-only. Use the  **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** , **[PresetGradient](fillformat-presetgradient-method-word.md)** , or **[TwoColorGradient](fillformat-twocolorgradient-method-word.md)** method to set the gradient type for the fill.
+This property is read-only. Use the **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** , **[PresetGradient](fillformat-presetgradient-method-word.md)** , or **[TwoColorGradient](fillformat-twocolorgradient-method-word.md)** method to set the gradient type for the fill.
 
 
 ## Example

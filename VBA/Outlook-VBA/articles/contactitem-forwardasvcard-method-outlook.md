@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ForwardAsVcard Method (Outlook)
 
-Creates a  **[MailItem](mailitem-object-outlook.md)** and attaches the contact information in vCard format.
+Creates a **[MailItem](mailitem-object-outlook.md)** and attaches the contact information in vCard format.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Creates a  **[MailItem](mailitem-object-outlook.md)** and attaches the contact i
 
 ### Return Value
 
-A  **MailItem** object that represents the new mail item to which the contact information is attached.
+A **MailItem** object that represents the new mail item to which the contact information is attached.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.LogBase Property (PowerPoint)
 
-Returns or sets the base of the logarithm when you are using log scales. Read/write  **Double**.
+Returns or sets the base of the logarithm when you are using log scales. Read/write **Double**.
 
 
 ## Syntax

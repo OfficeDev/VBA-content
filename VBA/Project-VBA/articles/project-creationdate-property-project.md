@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.CreationDate Property (Project)
 
-Gets the date a project was created. Read-only  **Variant**.
+Gets the date a project was created. Read-only **Variant**.
 
 
 ## Syntax

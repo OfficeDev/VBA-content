@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Shapes Property (Excel)
 
-Returns a  **[Shapes](shapes-object-excel.md)** collection that represents all the shapes on the worksheet. Read-only.
+Returns a **[Shapes](shapes-object-excel.md)** collection that represents all the shapes on the worksheet. Read-only.
 
 
 ## Syntax

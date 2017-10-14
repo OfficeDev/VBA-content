@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.PictureType Property (Excel)
 
-Returns or sets a  **[XlChartPictureType](xlchartpicturetype-enumeration-excel.md)** value that represents the way pictures are displayed on a column or bar picture chart.
+Returns or sets a **[XlChartPictureType](xlchartpicturetype-enumeration-excel.md)** value that represents the way pictures are displayed on a column or bar picture chart.
 
 
 ## Syntax

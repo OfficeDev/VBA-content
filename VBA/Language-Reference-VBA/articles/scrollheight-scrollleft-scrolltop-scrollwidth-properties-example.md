@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth Properties Example
 
-The following example uses a page of a  **MultiPage** as a scrolling region. The user can use the scroll bars on Page2 of the **MultiPage** to gain access to parts of the page that are not initially displayed.
+The following example uses a page of a **MultiPage** as a scrolling region. The user can use the scroll bars on Page2 of the **MultiPage** to gain access to parts of the page that are not initially displayed.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **MultiPage** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **MultiPage** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
 
- **Note**  Each page of a  **MultiPage** is unique. Page1 has no scroll bars. Page2 has horizontal and vertical scroll bars.
+ **Note**  Each page of a **MultiPage** is unique. Page1 has no scroll bars. Page2 has horizontal and vertical scroll bars.
 
 
 

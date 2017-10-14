@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Box Property (Word)
 
-Returns an  **[OMathBox](omathbox-object-word.md)** object that represents an invisible box around an equation or part of an equation to which you can apply properties that affect the mathematical or formatting properties, such as line breaks. Read-only.
+Returns an **[OMathBox](omathbox-object-word.md)** object that represents an invisible box around an equation or part of an equation to which you can apply properties that affect the mathematical or formatting properties, such as line breaks. Read-only.
 
 
 ## Syntax

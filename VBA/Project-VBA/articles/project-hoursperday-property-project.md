@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.HoursPerDay Property (Project)
 
-Gets or sets the number of hours per day for tasks in a project. Read/write  **Double**.
+Gets or sets the number of hours per day for tasks in a project. Read/write **Double**.
 
 
 ## Syntax

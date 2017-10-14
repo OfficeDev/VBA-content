@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # RulerLevels Object (PowerPoint)
 
-A collection of all the  **[RulerLevel](rulerlevel-object-powerpoint.md)** objects on the specified ruler.
+A collection of all the **[RulerLevel](rulerlevel-object-powerpoint.md)** objects on the specified ruler.
 
 
 ## Remarks
 
-Each  **RulerLevel** object represents the first-line and left indent for text at a particular outline level. This collection always contains five members — one for each of the available outline levels.
+Each **RulerLevel** object represents the first-line and left indent for text at a particular outline level. This collection always contains five members — one for each of the available outline levels.
 
 
 ## Example
 
-Use the [Levels](ruler-levels-property-powerpoint.md)property to return the  **RulerLevels** collection. The following example sets the margins for the five outline levels in body text in the active presentation.
+Use the [Levels](ruler-levels-property-powerpoint.md)property to return the **RulerLevels** collection. The following example sets the margins for the five outline levels in body text in the active presentation.
 
 
 ```vb

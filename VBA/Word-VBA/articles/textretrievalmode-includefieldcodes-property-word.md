@@ -25,14 +25,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value is the same as the setting of the  **Field codes** option on the **View** tab in the **Options** dialog box ( **Tools** menu) until this property has been set.
+The default value is the same as the setting of the **Field codes** option on the **View** tab in the **Options** dialog box ( **Tools** menu) until this property has been set.
 
-Use the  **[Text](find-text-property-word.md)** property with a **[Range](range-object-word.md)** object to retrieve text from the specified range.
+Use the **[Text](find-text-property-word.md)** property with a **[Range](range-object-word.md)** object to retrieve text from the specified range.
 
 
 ## Example
 
-This example displays the text of the first paragraph in the active document in a message box. The example uses the  **IncludeFieldCodes** property to exclude field codes.
+This example displays the text of the first paragraph in the active document in a message box. The example uses the **IncludeFieldCodes** property to exclude field codes.
 
 
 ```vb

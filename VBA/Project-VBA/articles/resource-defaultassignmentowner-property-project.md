@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.DefaultAssignmentOwner Property (Project)
 
-Sets or gets the user name responsible for providing progress updates for assignments made to the resource. Read/write  **String**.
+Sets or gets the user name responsible for providing progress updates for assignments made to the resource. Read/write **String**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Sets or gets the user name responsible for providing progress updates for assign
 
 ## Remarks
 
-The  **DefaultAssignmentOwner** property affects all assignments for the resource. The property must be set to a valid Project Server user or **null**.
+The **DefaultAssignmentOwner** property affects all assignments for the resource. The property must be set to a valid Project Server user or **null**.
 
-The  **DefaultAssignmentOwner** property is available only in Project Professional.
+The **DefaultAssignmentOwner** property is available only in Project Professional.
 
 

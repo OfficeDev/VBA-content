@@ -21,7 +21,7 @@ The  [GetFormRegionStorage](formregionstartup-getformregionstorage-method-outloo
 
 1. In the Forms Designer, click the page that you want to hide or show. 
     
-2. On the  **Developer** tab, in the **Form** group, click **Page**, and then click  **Display This Page**.
+2. On the **Developer** tab, in the **Form** group, click **Page**, and then click **Display This Page**.
     
 
  **Note**  

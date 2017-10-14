@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdSmartTagControlType Enumeration (Word)
 
-Specifies the type of control associated with a  **SmartTagAction** object.
+Specifies the type of control associated with a **SmartTagAction** object.
 
 
 

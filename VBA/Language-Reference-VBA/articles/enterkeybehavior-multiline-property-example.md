@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # EnterKeyBehavior, MultiLine Property Example
 
-The following example uses the  **EnterKeyBehavior** property to control the effect of ENTER in a **TextBox**. In this example, the user can specify either a single-line or multiline **TextBox**.
+The following example uses the **EnterKeyBehavior** property to control the effect of ENTER in a **TextBox**. In this example, the user can specify either a single-line or multiline **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2.
+- Two **ToggleButton** controls named ToggleButton1 and ToggleButton2.
     
 
 

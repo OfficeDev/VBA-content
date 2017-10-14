@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Ruler.Levels Property (PowerPoint)
 
-Returns a  **[RulerLevels](rulerlevels-object-powerpoint.md)** object that represents outline indent formatting. Read-only.
+Returns a **[RulerLevels](rulerlevels-object-powerpoint.md)** object that represents outline indent formatting. Read-only.
 
 
 ## Syntax

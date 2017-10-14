@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.OLEObjects Method (Excel)
 
-Returns an object that represents either a single OLE object (an  **[OLEObject](oleobject-object-excel.md)** ) or a collection of all OLE objects (an **[OLEObjects](oleobjects-object-excel.md)** collection) on the chart or sheet. Read-only.
+Returns an object that represents either a single OLE object (an **[OLEObject](oleobject-object-excel.md)** ) or a collection of all OLE objects (an **[OLEObjects](oleobjects-object-excel.md)** collection) on the chart or sheet. Read-only.
 
 
 ## Syntax

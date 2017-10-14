@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextInput.Default Property (Word)
 
-Returns or sets the text that represents the default text box contents. Read/write  **String** .
+Returns or sets the text that represents the default text box contents. Read/write **String** .
 
 
 ## Syntax

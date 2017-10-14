@@ -27,7 +27,7 @@ Copies the contents of the control to the clipboard.
 
 The data is copied in unformatted text format, replacing the existing contents of the clipboard.
 
-If the control style is  **olComboBoxStyleListBox** , then this method copies the current selection in the drop-down list to the clipboard.
+If the control style is **olComboBoxStyleListBox** , then this method copies the current selection in the drop-down list to the clipboard.
 
 
 ## See also

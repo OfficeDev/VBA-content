@@ -30,7 +30,7 @@ Starts an application.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Window_|Optional|**String**|The caption of the application to activate.|
-| _Command_|Optional|**String**|The command to start the application. Required if  **Window** is omitted. If the application is running, **Command** is ignored.|
+| _Command_|Optional|**String**|The command to start the application. Required if **Window** is omitted. If the application is running, **Command** is ignored.|
 | _Minimize_|Optional|**Boolean**|**True** if the main window is minimized. The default value is **False**.|
 | _Activate_|Optional|**Boolean**|**True** if the application is activated. The default value is **True**.|
 

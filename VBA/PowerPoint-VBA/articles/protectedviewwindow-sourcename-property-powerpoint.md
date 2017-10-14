@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.SourceName Property (PowerPoint)
 
-Returns the source name of the current  **ProtectedViewWindow** object. Read-only.
+Returns the source name of the current **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax

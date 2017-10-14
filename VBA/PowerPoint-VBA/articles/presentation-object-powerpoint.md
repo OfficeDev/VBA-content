@@ -18,7 +18,7 @@ Represents a Microsoft PowerPoint presentation.
 
 ## Remarks
 
-The  **Presentation** object is a member of the **[Presentations](presentations-object-powerpoint.md)** collection. The **Presentations** collection contains all the **Presentation** objects that represent open presentations in PowerPoint.
+The **Presentation** object is a member of the **[Presentations](presentations-object-powerpoint.md)** collection. The **Presentations** collection contains all the **Presentation** objects that represent open presentations in PowerPoint.
 
 The following examples describe how to:
 
@@ -32,7 +32,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The name of the presentation is the file name, with or without the file name extension, and without the path. The following example adds a slide to the beginning of Sample Presentation.
+Use **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The name of the presentation is the file name, with or without the file name extension, and without the path. The following example adds a slide to the beginning of Sample Presentation.
 
 
 ```

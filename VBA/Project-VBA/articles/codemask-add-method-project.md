@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeMask.Add Method (Project)
 
-Returns a  **[CodeMaskLevel ](codemasklevel-object-project.md)** object.
+Returns a **[CodeMaskLevel ](codemasklevel-object-project.md)** object.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[CodeMaskLevel ](codemasklevel-object-project.md)** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sequence_|Optional|**Long**|Specifies the type of sequence in the code mask. Can be one of the  **[PjCustomOutlineCodeSequence](pjcustomoutlinecodesequence-enumeration-project.md)** constants. The default value is **pjCustomOutlineCodeNumbers**.|
+| _Sequence_|Optional|**Long**|Specifies the type of sequence in the code mask. Can be one of the **[PjCustomOutlineCodeSequence](pjcustomoutlinecodesequence-enumeration-project.md)** constants. The default value is **pjCustomOutlineCodeNumbers**.|
 | _Length_|Optional|**Variant**|Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. |
 | _Separator_|Optional|**String**|The character that separates the level of a code mask from the next code mask. Can be one of the following characters: ".", "-", "+", or "/". |
 

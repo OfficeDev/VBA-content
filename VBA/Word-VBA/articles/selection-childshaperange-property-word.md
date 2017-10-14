@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.ChildShapeRange Property (Word)
 
-Returns a  **[ShapeRange](shaperange-object-word.md)** collection representing the child shapes contained within a selection.
+Returns a **[ShapeRange](shaperange-object-word.md)** collection representing the child shapes contained within a selection.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlocks Object (Publisher)
 
-Represents a collection of one or more  **[BuildingBlock](buildingblock-object-publisher.md)** objects.
+Represents a collection of one or more **[BuildingBlock](buildingblock-object-publisher.md)** objects.
  
 
 

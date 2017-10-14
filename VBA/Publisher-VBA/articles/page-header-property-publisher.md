@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.Header Property (Publisher)
 
-Returns a  **HeaderFooter** object representing the header of the specified **Page** object. Read-only.
+Returns a **HeaderFooter** object representing the header of the specified **Page** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Header**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value
@@ -30,12 +30,12 @@ HeaderFooter
 
 ## Remarks
 
-This property is only for master pages. A "This feature is only for master pages" error is returned if the header property is accessed from a  **Page** object that is returned form the **Pages** collection. A new **HeaderFooter** object is created for the specified master page by accessing this property.
+This property is only for master pages. A "This feature is only for master pages" error is returned if the header property is accessed from a **Page** object that is returned form the **Pages** collection. A new **HeaderFooter** object is created for the specified master page by accessing this property.
 
 
 ## Example
 
-The following example creates a  **HeaderFooter** object and sets it to the header of the first master page.
+The following example creates a **HeaderFooter** object and sets it to the header of the first master page.
 
 
 ```vb
@@ -43,7 +43,7 @@ Dim objHeader As HeaderFooter
 Set objHeader = ActiveDocument.MasterPages(1).Header
 ```
 
-The  **HeaderFooter** object returned by the **Header** property can be used to manipulate the header content. The following example sets some properties of the **HeaderFooter** object of the first master page.
+The **HeaderFooter** object returned by the **Header** property can be used to manipulate the header content. The following example sets some properties of the **HeaderFooter** object of the first master page.
 
 
 

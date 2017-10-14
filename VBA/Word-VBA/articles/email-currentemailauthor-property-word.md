@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Email.CurrentEmailAuthor Property (Word)
 
-Returns an  **[EmailAuthor](emailauthor-object-word.md)** object that represents the author of the current e-mail message. Read-only.
+Returns an **[EmailAuthor](emailauthor-object-word.md)** object that represents the author of the current e-mail message. Read-only.
 
 
 ## Syntax

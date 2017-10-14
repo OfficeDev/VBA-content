@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Executing code when setting properties
 
-You can create  **Property Let**, **Property Set**, and **Property Get** procedures that share the same name. By doing this, you can create a group of related [procedures](vbe-glossary.md) that work together. Once a name is used for a **Property** procedure, that name can't be used to name a **Sub** or **Function** procedure, a [variable](vbe-glossary.md), or a [user-defined type](vbe-glossary.md).
+You can create **Property Let**, **Property Set**, and **Property Get** procedures that share the same name. By doing this, you can create a group of related [procedures](vbe-glossary.md) that work together. Once a name is used for a **Property** procedure, that name can't be used to name a **Sub** or **Function** procedure, a [variable](vbe-glossary.md), or a [user-defined type](vbe-glossary.md).
 
-The  **Property Let** statement allows you to create a procedure that sets the value of the [property](vbe-glossary.md). One example might be a  **Property** procedure that creates an inverted property for a bitmap on a form. This is the syntax used to call the **Property Let** procedure:
+The **Property Let** statement allows you to create a procedure that sets the value of the [property](vbe-glossary.md). One example might be a **Property** procedure that creates an inverted property for a bitmap on a form. This is the syntax used to call the **Property Let** procedure:
 
 
 
@@ -22,7 +22,7 @@ Form1.Inverted = True
 
 ```
 
-The actual work of inverting a bitmap on the form is done within the  **Property Let** procedure:
+The actual work of inverting a bitmap on the form is done within the **Property Let** procedure:
 
 
 
@@ -41,8 +41,8 @@ End Property
 
 ```
 
-The form-level variable stores the setting of your property. By declaring it  **Private**, the user can only change it only using your **Property Let** procedure. Use a name that makes it easy to recognize that the variable is used for the property.
-This  **Property Get** procedure is used to return the current state of the property:
+The form-level variable stores the setting of your property. By declaring it **Private**, the user can only change it only using your **Property Let** procedure. Use a name that makes it easy to recognize that the variable is used for the property.
+This **Property Get** procedure is used to return the current state of the property:
 
 
 

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Display the List Portion of a Combo Box
 
-The following example uses the  **[DropDown](combobox-dropdown-method-outlook-forms-script.md)** method to display the list in a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user can display the list of a  **ComboBox** by clicking the **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
+The following example uses the **[DropDown](combobox-dropdown-method-outlook-forms-script.md)** method to display the list in a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user can display the list of a **ComboBox** by clicking the **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 

@@ -15,6 +15,6 @@ Occurs when Microsoft Outlook changes the view that is applied to the folder dis
 
  _expression_. **ViewSwitch**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

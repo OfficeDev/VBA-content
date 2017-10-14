@@ -25,7 +25,7 @@ Gets the description of the permissions policy applied to the active document. R
 
 ## Remarks
 
-Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The  **PolicyDescription** property returns the description of the policy applied to the active document, or a default value if a policy was not used.
+Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The **PolicyDescription** property returns the description of the policy applied to the active document, or a default value if a policy was not used.
 
 
 ## Example

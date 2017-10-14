@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application.ShowQuickAnalysis Property (Excel)
 
-Controls whether the Quick Analysis contextual user interface is displayed on selection.  **TRUE** means the Quick Analysis button will show. Corresponds to the **Show Quick Analysis options on selection** checkbox located in the **File** menu, **Options**,  **Excel Options**, and then  **General** tab. Read/Write. **Boolean** .
+Controls whether the Quick Analysis contextual user interface is displayed on selection. **TRUE** means the Quick Analysis button will show. Corresponds to the **Show Quick Analysis options on selection** checkbox located in the **File** menu, **Options**, **Excel Options**, and then **General** tab. Read/Write. **Boolean** .
 
 
 ## Syntax

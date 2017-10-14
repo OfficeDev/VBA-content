@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoShowField Property (Excel)
 
-Returns the name of the data field used to determine the top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **String** .
+Returns the name of the data field used to determine the top or bottom items that are automatically shown in the specified PivotTable field. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the name of the data field used to determine the top or bottom items tha
 
 ## Example
 
-This example displays a message box showing the  **AutoShow** parameters for the Salesman field.
+This example displays a message box showing the **AutoShow** parameters for the Salesman field.
 
 
 ```vb

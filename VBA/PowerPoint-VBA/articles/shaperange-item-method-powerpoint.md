@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Item Method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **ShapeRange** collection.
+Returns a single **Shape** object from the specified **ShapeRange** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Shape** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Shape** object in the collection to be returned.|
 
 ### Return Value
 

@@ -33,6 +33,6 @@ Master
 
 ## Remarks
 
-If the shape has no data graphic master associated with it, the  **DataGraphic** property returns **Nothing** .
+If the shape has no data graphic master associated with it, the **DataGraphic** property returns **Nothing** .
 
 

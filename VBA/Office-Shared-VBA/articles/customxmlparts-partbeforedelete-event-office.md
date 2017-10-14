@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLParts.PartBeforeDelete Event (Office)
 
-Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.
+Occurs just before a **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLPa
 
 ## Example
 
-The following example confirms that the user wants to delete the customXML part and then deletes the part if the user clicks  **Yes** in the dialog box.
+The following example confirms that the user wants to delete the customXML part and then deletes the part if the user clicks **Yes** in the dialog box.
 
 
 ```

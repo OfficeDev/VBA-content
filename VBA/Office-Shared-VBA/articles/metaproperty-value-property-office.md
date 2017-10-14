@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Value Property (Office)
 
-Gets or sets the value of the  **MetaProperty** object. Read/write.
+Gets or sets the value of the **MetaProperty** object. Read/write.
 
 
 ## Syntax

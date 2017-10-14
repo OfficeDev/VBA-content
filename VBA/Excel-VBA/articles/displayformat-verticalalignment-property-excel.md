@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.VerticalAlignment Property (Excel)
 
-Returns a value that represents the vertical alignment of the associated  **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that represents the vertical alignment of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

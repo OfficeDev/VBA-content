@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AnimationPoint Object (PowerPoint)
 
-Represents an individual animation point for an animation behavior. The  **AnimationPoint** object is a member of the **[AnimationPoints](animationpoints-object-powerpoint.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
+Represents an individual animation point for an animation behavior. The **AnimationPoint** object is a member of the **[AnimationPoints](animationpoints-object-powerpoint.md)** collection. The **AnimationPoints** collection contains all the animation points for an animation behavior.
 
 
 ## Example
 
-To add or reference an  **AnimationPoint** object, use the[Add](animationpoints-add-method-powerpoint.md)or [Item](animationpoints-item-method-powerpoint.md)method, respectively. Use the [Time](animationpoint-time-property-powerpoint.md)property of an  **AnimationPoint** object to set timing between animation points. Use the **[Value](animationpoint-value-property-powerpoint.md)** property to set other animation point properties, such as color. The following example adds three animation points to the first behavior in the active presentation's main animation sequence, and then it changes colors at each animation point.
+To add or reference an **AnimationPoint** object, use the[Add](animationpoints-add-method-powerpoint.md)or [Item](animationpoints-item-method-powerpoint.md)method, respectively. Use the [Time](animationpoint-time-property-powerpoint.md)property of an **AnimationPoint** object to set timing between animation points. Use the **[Value](animationpoint-value-property-powerpoint.md)** property to set other animation point properties, such as color. The following example adds three animation points to the first behavior in the active presentation's main animation sequence, and then it changes colors at each animation point.
 
 
 ```vb

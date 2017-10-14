@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # SlicerCache Object (Excel)
 
-Represents the current filter state for a slicer and information about which  **[PivotCache](pivotcache-object-excel.md)** or **[WorkbookConnection](workbookconnection-object-excel.md)** the slicer is connected to.
+Represents the current filter state for a slicer and information about which **[PivotCache](pivotcache-object-excel.md)** or **[WorkbookConnection](workbookconnection-object-excel.md)** the slicer is connected to.
 
 
 ## Remarks
 
-Use the  **[SlicerCaches](workbook-slicercaches-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object to access the collection of **SlicerCache** objects in a workbook.
+Use the **[SlicerCaches](workbook-slicercaches-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object to access the collection of **SlicerCache** objects in a workbook.
 
-Each slicer has a base  **SlicerCache** object which represents the items displayed in the slicer and the current user interface state of the tiles displayed with their corresponding item captions. Each slicer control that the user sees in Excel is represented by a **[Slicer](slicer-object-excel.md)** object that has a **SlicerCache** object associated with it.
+Each slicer has a base **SlicerCache** object which represents the items displayed in the slicer and the current user interface state of the tiles displayed with their corresponding item captions. Each slicer control that the user sees in Excel is represented by a **[Slicer](slicer-object-excel.md)** object that has a **SlicerCache** object associated with it.
 
 
 ## Example
 
-The following code example creates a  **SlicerCache** object based on the Customer Geography OLAP hierarchy from the connection to the AdventureWorks database, and then creates a slicer on the Country level of that hierarchy in Sheet2 of the workbook.
+The following code example creates a **SlicerCache** object based on the Customer Geography OLAP hierarchy from the connection to the AdventureWorks database, and then creates a slicer on the Country level of that hierarchy in Sheet2 of the workbook.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.DocumentElement Property (Office)
 
-Gets the root element of a bound region of data in a document. If the region is empty, the property returns  **Nothing**. Read-only.
+Gets the root element of a bound region of data in a document. If the region is empty, the property returns **Nothing**. Read-only.
 
 
 ## Syntax

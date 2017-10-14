@@ -17,7 +17,7 @@ Gets the minor version number of Microsoft Visio Viewer. Read-only.
 
  _expression_. **MinorVersionNumber**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ The minor version number represents the digit or digits that follow the major ve
 
 ## Example
 
-The following code displays the minor version number of Visio Viewer in the  **Immediate** window.
+The following code displays the minor version number of Visio Viewer in the **Immediate** window.
 
 
 ```vb

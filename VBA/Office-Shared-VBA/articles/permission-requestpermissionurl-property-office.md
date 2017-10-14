@@ -37,7 +37,7 @@ The ** RequestPermissionURL** setting corresponds to the **Users can request add
 
 ## Example
 
-The following example displays information about the permissions settings of the active document, including the  **RequestPermissionURL** setting.
+The following example displays information about the permissions settings of the active document, including the **RequestPermissionURL** setting.
 
 
 ```

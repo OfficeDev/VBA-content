@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AddIns Property (PowerPoint)
 
-Returns the program-specific  **AddIns** collection that represents all the add-ins listed in the **Add-Ins** dialog box (click the **Office** button, click **PowerPoint Options**, click  **Add-Ins**, click  **PowerPoint Add-Ins** on the **Manage** list). Read-only.
+Returns the program-specific **AddIns** collection that represents all the add-ins listed in the **Add-Ins** dialog box (click the **Office** button, click **PowerPoint Options**, click **Add-Ins**, click **PowerPoint Add-Ins** on the **Manage** list). Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example adds the add-in named "Myaddin.ppa" to the list in the  **Add-Ins** dialog box and loads the add-in automatically.
+This example adds the add-in named "Myaddin.ppa" to the list in the **Add-Ins** dialog box and loads the add-in automatically.
 
 
 ```vb

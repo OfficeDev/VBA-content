@@ -30,12 +30,12 @@ Nothing
 
 ## Remarks
 
-Microsoft Visio can have more than one window open at a time; however, only one window is active. Activating a window can change the objects returned by the  **ActiveWindow** , **ActivePage** , and **ActiveDocument** properties.
+Microsoft Visio can have more than one window open at a time; however, only one window is active. Activating a window can change the objects returned by the **ActiveWindow** , **ActivePage** , and **ActiveDocument** properties.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Activate()**
+- **Microsoft.Office.Interop.Visio.IVWindow.Activate()**
     
 
 ## Example

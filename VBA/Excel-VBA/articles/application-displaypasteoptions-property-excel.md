@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This is a Microsoft Office-wide setting. This setting affects all other Microsoft Office applications. Setting the  **DisplayPasteOptions** property to **True** turns off the **Auto Fill Options** button in Microsoft Excel. The **Auto Fill Options** button is only in Excel, but the **Paste Options** button is in all the other Microsoft Office applications.
+This is a Microsoft Office-wide setting. This setting affects all other Microsoft Office applications. Setting the **DisplayPasteOptions** property to **True** turns off the **Auto Fill Options** button in Microsoft Excel. The **Auto Fill Options** button is only in Excel, but the **Paste Options** button is in all the other Microsoft Office applications.
 
 
 ## Example
 
-In this example, Microsoft Excel notifies the user the status of displaying the  **Paste Options** button.
+In this example, Microsoft Excel notifies the user the status of displaying the **Paste Options** button.
 
 
 ```vb

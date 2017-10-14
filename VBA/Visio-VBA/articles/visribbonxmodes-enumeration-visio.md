@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisRibbonXModes Enumeration (Visio)
 
-Specifies constants that identify the various modes in which to display the custom UI; constant passed to the  **RegisterRibbonX** method.
+Specifies constants that identify the various modes in which to display the custom UI; constant passed to the **RegisterRibbonX** method.
 
 
 

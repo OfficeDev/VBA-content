@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # DisplayFormat Object (Excel)
 
-Represents the display settings for an associated  **[Range](range-object-excel.md)** object. Read only.
+Represents the display settings for an associated **[Range](range-object-excel.md)** object. Read only.
 
 
 ## Remarks
 
-Actions such as changing the conditional formatting or table style of a range can cause what is displayed in the current user interface to be inconsistent with the values in the corresponding properties of the  **Range** object. Use the properties of the **DisplayFormat** object to return the values as they are displayed in the current user interface.
+Actions such as changing the conditional formatting or table style of a range can cause what is displayed in the current user interface to be inconsistent with the values in the corresponding properties of the **Range** object. Use the properties of the **DisplayFormat** object to return the values as they are displayed in the current user interface.
 
 
 ## Properties

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntries.AppendToSpike Method (Word)
 
-Deletes the specified range and adds the contents of the range to the Spike (a built-in AutoText entry). This method returns the Spike as an  **AutoTextEntry** object.
+Deletes the specified range and adds the contents of the range to the Spike (a built-in AutoText entry). This method returns the Spike as an **AutoTextEntry** object.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ AutoTextEntry
 
 ## Remarks
 
-The  **AppendToSpike** method is only valid for the **AutoTextEntries** collection in the Normal template.
+The **AppendToSpike** method is only valid for the **AutoTextEntries** collection in the Normal template.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ListRows Property (Excel)
 
-Returns a  **[ListRows](listrows-object-excel.md)** object that represents all the rows of data in the **[ListObject](listobject-object-excel.md)** object. Read-only.
+Returns a **[ListRows](listrows-object-excel.md)** object that represents all the rows of data in the **[ListObject](listobject-object-excel.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **[ListRows](listrows-object-excel.md)** object that represents all t
 
 ## Remarks
 
-The  **ListRows** object returned does not include the header, total, or Insert rows.
+The **ListRows** object returned does not include the header, total, or Insert rows.
 
 
 ## Example
 
-The following example deletes a row specified by number in the  **ListRows** collection that is created by a call to the **ListRows** property.
+The following example deletes a row specified by number in the **ListRows** collection that is created by a call to the **ListRows** property.
 
 
 ```vb

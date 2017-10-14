@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlDataBinding.Refresh Method (Excel)
 
-Retrieves XML data using the current connection settings of the specified  **[XmlDataBinding](xmldatabinding-object-excel.md)** object.
+Retrieves XML data using the current connection settings of the specified **[XmlDataBinding](xmldatabinding-object-excel.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
 
 ### Return Value
 
-An  **[XlXmlImportResult](xlxmlimportresult-enumeration-excel.md)** value that indicates the result of the method.
+An **[XlXmlImportResult](xlxmlimportresult-enumeration-excel.md)** value that indicates the result of the method.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.EnsureAllMediaUpgraded Method (PowerPoint)
 
-Ensures that all media is up to date in a  **Presentation** object.
+Ensures that all media is up to date in a **Presentation** object.
 
 
 ## Syntax

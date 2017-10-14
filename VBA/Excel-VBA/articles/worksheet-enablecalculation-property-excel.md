@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When the value of this property is  **False** , you cannot request a recalculation. When you change the value from **False** to **True** , Excel recalculates the worksheet.
+When the value of this property is **False** , you cannot request a recalculation. When you change the value from **False** to **True** , Excel recalculates the worksheet.
 
 
 ## Example

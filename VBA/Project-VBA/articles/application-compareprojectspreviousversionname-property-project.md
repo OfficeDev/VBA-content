@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.CompareProjectsPreviousVersionName Property (Project)
 
-Gets or sets the name of the previous version of a project for a comparison of project versions. Read/write  **String**.
+Gets or sets the name of the previous version of a project for a comparison of project versions. Read/write **String**.
 
 
 ## Syntax

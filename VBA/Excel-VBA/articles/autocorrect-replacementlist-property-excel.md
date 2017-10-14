@@ -41,7 +41,7 @@ If  _Index_ is not specified, this method returns a two-dimensional array. Each 
 |:-----|:-----|
 |1|The text to be replaced|
 |2|The replacement text|
-Use the  **[AddReplacement](autocorrect-addreplacement-method-excel.md)** method to add an entry to the replacement list.
+Use the **[AddReplacement](autocorrect-addreplacement-method-excel.md)** method to add an entry to the replacement list.
 
 
 ## Example

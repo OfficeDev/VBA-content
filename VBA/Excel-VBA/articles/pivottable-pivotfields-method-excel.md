@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotFields Method (Excel)
 
-Returns an object that represents either a single PivotTable field (a  **[PivotField](pivotfield-object-excel.md)** object) or a collection of both the visible and hidden fields (a **[PivotFields](pivotfields-object-excel.md)** object) in the PivotTable report. Read-only.
+Returns an object that represents either a single PivotTable field (a **[PivotField](pivotfield-object-excel.md)** object) or a collection of both the visible and hidden fields (a **[PivotFields](pivotfields-object-excel.md)** object) in the PivotTable report. Read-only.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Object
 
 ## Remarks
 
-For OLAP data sources, there are no hidden fields, and the object or collection that?s returned reflects what?s currently visible.
+For OLAP data sources, there are no hidden fields, and the object or collection that's returned reflects what's currently visible.
 
 
 ## Example
 
-This example adds the PivotTable report?s field names to a list on a new worksheet.
+This example adds the PivotTable report's field names to a list on a new worksheet.
 
 
 ```vb

@@ -25,9 +25,9 @@ Returns or sets the number form setting for an OpenType font. Read/write [WdNumb
 
 ## Remarks
 
-Numbers in OpenType fonts can be displayed either with consistent heights along the baseline of the text (called "lining"), or with varying heights (called "hanging" or "old style") where numbers are displayed above or below the baseline of the text. Use the  **NumberForm** property to specify whether numbers are displayed using lining or old-style.
+Numbers in OpenType fonts can be displayed either with consistent heights along the baseline of the text (called "lining"), or with varying heights (called "hanging" or "old style") where numbers are displayed above or below the baseline of the text. Use the **NumberForm** property to specify whether numbers are displayed using lining or old-style.
 
-Setting this property has the same effect as selecting an item in the dropdown box next to  **Number forms:** ( **OpenType features** group, **Advanced** tab in the **Font** dialog in Word).
+Setting this property has the same effect as selecting an item in the dropdown box next to **Number forms:** ( **OpenType features** group, **Advanced** tab in the **Font** dialog in Word).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.ContainingRange Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the entire story in a series of shapes with linked text frames that the specified text frame belongs to. Read-only.
+Returns a **[Range](range-object-word.md)** object that represents the entire story in a series of shapes with linked text frames that the specified text frame belongs to. Read-only.
 
 
 ## Syntax

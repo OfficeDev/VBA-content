@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.CreateEventProc Method (Access)
 
-The  **CreateEventProc** method creates an event procedure in a class module.
+The **CreateEventProc** method creates an event procedure in a class module.
 
 
 ## Syntax
@@ -39,11 +39,11 @@ Long
 
 ## Remarks
 
-The value returned by the  **CreateEventProc** method indicates the line number of the first line of the event procedure.
+The value returned by the **CreateEventProc** method indicates the line number of the first line of the event procedure.
 
-The  **CreateEventProc** method creates a code stub for an event procedure for the specified object. For example, you can use this method to create a Click event procedure for a command button on a form. Microsoft Access creates the Click event procedure in the module associated with the form that contains the command button.
+The **CreateEventProc** method creates a code stub for an event procedure for the specified object. For example, you can use this method to create a Click event procedure for a command button on a form. Microsoft Access creates the Click event procedure in the module associated with the form that contains the command button.
 
-Once you've created the event procedure code stub by using the  **CreateEventProc** method, you can add lines of code to the procedure by using other methods of the **Module** object. For example, you can use the **[InsertLines](module-insertlines-method-access.md)** method to insert a line of code.
+Once you've created the event procedure code stub by using the **CreateEventProc** method, you can add lines of code to the procedure by using other methods of the **Module** object. For example, you can use the **[InsertLines](module-insertlines-method-access.md)** method to insert a line of code.
 
 
 ## Example

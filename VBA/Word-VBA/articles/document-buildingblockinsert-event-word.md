@@ -37,7 +37,7 @@ Private Sub  _expression_ _**BuildingBlockInsert**( **_Range_** , **_Name_** , *
 
 ## Remarks
 
-For information about using events with a  **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
+For information about using events with a **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.Z Property (Word)
 
-Returns or sets a  **Single** that represents the z-axis for the shape. Read/write.
+Returns or sets a **Single** that represents the z-axis for the shape. Read/write.
 
 
 ## Syntax

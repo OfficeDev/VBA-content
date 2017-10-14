@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Icon.Index Property (Excel)
 
-Returns a  **Long** value specifying the index number of the **Icon** object within the **[IconSet](iconset-object-excel.md)** object. Read-only.
+Returns a **Long** value specifying the index number of the **Icon** object within the **[IconSet](iconset-object-excel.md)** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FixedDecimal Property (Excel)
 
-All data entered after this property is set to  **True** will be formatted with the number of fixed decimal places set by the **[FixedDecimalPlaces](application-fixeddecimalplaces-property-excel.md)** property. Read/write **Boolean** .
+All data entered after this property is set to **True** will be formatted with the number of fixed decimal places set by the **[FixedDecimalPlaces](application-fixeddecimalplaces-property-excel.md)** property. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ All data entered after this property is set to  **True** will be formatted with 
 
 ## Example
 
-This example sets the  **FixedDecimal** property to **True** and then sets the **FixedDecimalPlaces** property to 4. Entering "30000" after running this example produces "3" on the worksheet, and entering "12500" produces "1.25."
+This example sets the **FixedDecimal** property to **True** and then sets the **FixedDecimalPlaces** property to 4. Entering "30000" after running this example produces "3" on the worksheet, and entering "12500" produces "1.25."
 
 
 ```vb

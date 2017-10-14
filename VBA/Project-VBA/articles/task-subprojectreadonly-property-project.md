@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the task is not a subproject, the  **SubProjectReadOnly** property is **False**.
+If the task is not a subproject, the **SubProjectReadOnly** property is **False**.
 
 

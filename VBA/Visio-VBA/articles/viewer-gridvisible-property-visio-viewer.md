@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the page grid is visible in Microsof
 
  _expression_. **GridVisible**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the page grid is visible in Microsof
 
 ## Remarks
 
-You can display the grid only when the page is visible (that is, when the  **PageVisible** property is set to **True**, its default setting).
+You can display the grid only when the page is visible (that is, when the **PageVisible** property is set to **True**, its default setting).
 
 
 ## Example

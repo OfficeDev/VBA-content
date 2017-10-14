@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFormula.Value Property (Excel)
 
-Returns or sets a  **String** value that represents the name of the specified formula in the PivotTable formula.
+Returns or sets a **String** value that represents the name of the specified formula in the PivotTable formula.
 
 
 ## Syntax

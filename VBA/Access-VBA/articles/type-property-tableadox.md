@@ -18,7 +18,7 @@ Indicates the type of a table.
 
 ## Return Values
 
-Returns a  **String** value that specifies the type of table; for example, "TABLE", "SYSTEM TABLE", or "GLOBAL TEMPORARY".
+Returns a **String** value that specifies the type of table; for example, "TABLE", "SYSTEM TABLE", or "GLOBAL TEMPORARY".
 
 
 ## Remarks

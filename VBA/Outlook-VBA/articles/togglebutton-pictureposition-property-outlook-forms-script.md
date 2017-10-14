@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # ToggleButton.PicturePosition Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the picture relative to its caption. Read/write.
+Returns or sets an **Integer** that specifies the location of the picture relative to its caption. Read/write.
 
 
 ## Syntax
 
  _expression_. **PicturePosition**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_A variable that represents a **ToggleButton** object.
 
 
 ## Remarks
 
-The settings for  **PicturePosition** are:
+The settings for **PicturePosition** are:
 
 
 
@@ -41,6 +41,6 @@ The settings for  **PicturePosition** are:
 |12|The picture appears in the center of the control. The caption is centered horizontally and vertically on top of the picture.|
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
 
-This property is ignored if the  **[Picture](togglebutton-picture-property-outlook-forms-script.md)** property does not specify a picture.
+This property is ignored if the **[Picture](togglebutton-picture-property-outlook-forms-script.md)** property does not specify a picture.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.MailMerge Property (Word)
 
-Returns a  **[MailMerge](mailmerge-object-word.md)** object that represents the mail merge functionality for the specified document. Read-only.
+Returns a **[MailMerge](mailmerge-object-word.md)** object that represents the mail merge functionality for the specified document. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[MailMerge](mailmerge-object-word.md)** object that represents the 
 
 ## Remarks
 
-The  **MailMerge** object is available regardless of whether the specified document is a mail merge main document. Use the **State** property to determine the current state of the mail merge operation.
+The **MailMerge** object is available regardless of whether the specified document is a mail merge main document. Use the **State** property to determine the current state of the mail merge operation.
 
 
 ## Example

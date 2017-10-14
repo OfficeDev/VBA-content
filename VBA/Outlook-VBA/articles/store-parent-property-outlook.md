@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[Store](store-object-outlook.md)** object is the **[NameSpace](namespace-object-outlook.md)** object.
+The parent of the **[Store](store-object-outlook.md)** object is the **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ## See also

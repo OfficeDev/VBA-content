@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Height Property (Project)
 
-Gets or sets the height of the main window in points. Read/write  **Long**.
+Gets or sets the height of the main window in points. Read/write **Long**.
 
 
 ## Syntax

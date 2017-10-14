@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.CV Property (Project)
 
-Gets the cost variance for an  **Assignment**. Read-only **Variant**.
+Gets the cost variance for an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

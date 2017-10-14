@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NameLocal Property (Word)
 
-Returns the name of a built-in style in the language of the user. Read/write  **String** .
+Returns the name of a built-in style in the language of the user. Read/write **String** .
 
 
 ## Syntax

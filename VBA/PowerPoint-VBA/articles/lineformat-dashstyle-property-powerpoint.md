@@ -30,7 +30,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The value of the  **DashStyle** property can be one of these **MsoLineDashStyle** constants.
+The value of the **DashStyle** property can be one of these **MsoLineDashStyle** constants.
 
 
 ||

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.UpperScaleFont Property (Outlook)
 
-Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the font used to display the upper portion of the timeline scale for a **[TimelineView](timelineview-object-outlook.md)** object. Read-only.
+Returns a **[ViewFont](viewfont-object-outlook.md)** object that represents the font used to display the upper portion of the timeline scale for a **[TimelineView](timelineview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

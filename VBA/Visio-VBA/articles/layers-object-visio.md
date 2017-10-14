@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Layers Object (Visio)
 
-Includes a  **Layer** object for each layer defined for a page or master.
+Includes a **Layer** object for each layer defined for a page or master.
 
 
 ## Remarks
 
-To retrieve a  **Layers** collection, use the **Layers** property of a **Page** object or a **Master** object.
+To retrieve a **Layers** collection, use the **Layers** property of a **Page** object or a **Master** object.
 
-The default property of a  **Layers** collection is **Item** .
+The default property of a **Layers** collection is **Item** .
 
 

@@ -30,12 +30,12 @@ Window
 
 ## Remarks
 
-For the  **DrawingControl** object, the **Window** property returns the window that the control is displaying. The value is valid only when the control is in place and active.
+For the **DrawingControl** object, the **Window** property returns the window that the control is displaying. The value is valid only when the control is in place and active.
 
 
 ## Example
 
-The following macro shows how to use the  **Window** property to print the caption of the window associated with the current instance of Visio in the Immediate window.
+The following macro shows how to use the **Window** property to print the caption of the window associated with the current instance of Visio in the Immediate window.
 
 
 ```vb

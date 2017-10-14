@@ -25,7 +25,7 @@ Returns a [PickerDialog](http://msdn.microsoft.com/library/279b1a6a-f09d-a0e7-89
 
 ## Remarks
 
-The  **PickerDialog** object is available in the Microsoft Office type library. For more information, see the following objects and their members:
+The **PickerDialog** object is available in the Microsoft Office type library. For more information, see the following objects and their members:
 
 
 - [PickerDialog](http://msdn.microsoft.com/library/279b1a6a-f09d-a0e7-89c9-aac6c581439f%28Office.15%29.aspx)

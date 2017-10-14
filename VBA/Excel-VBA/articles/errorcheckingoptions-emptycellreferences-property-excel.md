@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.EmptyCellReferences Property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells containing formulas that refer to empty cells. **False** disables empty cell reference checking. Read/write **Boolean** .
+When set to **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells containing formulas that refer to empty cells. **False** disables empty cell reference checking. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorre
 
 ## Example
 
-In the following example, the  **AutoCorrect Options** button appears for cell A1 which contains a formula that references empty cells.
+In the following example, the **AutoCorrect Options** button appears for cell A1 which contains a formula that references empty cells.
 
 
 ```vb

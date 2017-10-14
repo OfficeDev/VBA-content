@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.MarginBottom Property (Publisher)
 
-Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the bottom edge of a cell, text frame, or page. Read/write.
+Returns or sets a **Variant** that represents the amount of space (in points) between the text and the bottom edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
  _expression_. **MarginBottom**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ## Example

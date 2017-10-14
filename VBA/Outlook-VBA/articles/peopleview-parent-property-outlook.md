@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.Parent Property (Outlook)
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 ## Syntax
 

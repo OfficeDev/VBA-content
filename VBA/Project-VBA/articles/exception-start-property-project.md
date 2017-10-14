@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.Start Property (Project)
 
-Gets or sets the start date of the calendar exception. Read/write  **Variant**.
+Gets or sets the start date of the calendar exception. Read/write **Variant**.
 
 
 ## Syntax

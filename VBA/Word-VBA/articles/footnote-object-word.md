@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Footnote Object (Word)
 
-Represents a footnote positioned at the bottom of the page or beneath text. The  **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](footnotes-object-word.md)** collection represents the footnotes in a selection, range, or document.
+Represents a footnote positioned at the bottom of the page or beneath text. The **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](footnotes-object-word.md)** collection represents the footnotes in a selection, range, or document.
 
 
 ## Remarks
 
-Use  **Footnotes** (Index), where Index is the index number, to return a single **Footnote** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
+Use **Footnotes** (Index), where Index is the index number, to return a single **Footnote** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
 
 
 ```
@@ -27,7 +27,7 @@ If Selection.Footnotes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add a footnote to the **[Footnotes](footnotes-object-word.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
+Use the **Add** method to add a footnote to the **[Footnotes](footnotes-object-word.md)** collection. The following example inserts an automatically numbered footnote immediately after the selection.
 
 
 
@@ -39,7 +39,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
 ```
 
 
- **Note**  Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](endnotes-object-word.md)** collection.
+ **Note**  Footnotes positioned at the end of a document or section are considered endnotes and are included in the **[Endnotes](endnotes-object-word.md)** collection.
 
 
 ## Methods

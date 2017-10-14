@@ -21,7 +21,7 @@ Returns the date and time that the specified file or folder was last accessed. R
  _object_. **DateLastAccessed**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **DateLastAccessed** property with a file:
+The following code illustrates the use of the **DateLastAccessed** property with a file:
 
 
 

@@ -25,17 +25,17 @@ Returns or sets the path type for the specified text frame. Read/write
 The value of the PathFormat property can be one of these MsoPathType constants. The value msoPathTypeMixed cannot be set. Setting the value msoPathTypeNone removes any existing path.
 
 
--  **msoPathType1**
+- **msoPathType1**
     
--  **msoPathType2**
+- **msoPathType2**
     
--  **msoPathType3**
+- **msoPathType3**
     
--  **msoPathType4**
+- **msoPathType4**
     
--  **msoPathTypeMixed**
+- **msoPathTypeMixed**
     
--  **msoPathTypeNone**
+- **msoPathTypeNone**
     
 
 ## See also

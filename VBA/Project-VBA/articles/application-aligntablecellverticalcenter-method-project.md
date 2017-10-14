@@ -26,7 +26,7 @@ Aligns text at the vertical center of the cell, for selected cells in a report t
 
 ## Example
 
-In the following example, the  **AlignTableCells** macro aligns the text for all tables in the specified report.
+In the following example, the **AlignTableCells** macro aligns the text for all tables in the specified report.
 
 
 ```vb

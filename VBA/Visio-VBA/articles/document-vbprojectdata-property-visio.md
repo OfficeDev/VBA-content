@@ -32,7 +32,7 @@ Byte()
 
 
 
-You can use the  **VBProjectData** property to determine whether a document has a project. The following macro shows how to get a reference to a document in Microsoft Visio to determine whether the document has a project. The code runs from a program outside the Visio document.
+You can use the **VBProjectData** property to determine whether a document has a project. The following macro shows how to get a reference to a document in Microsoft Visio to determine whether the document has a project. The code runs from a program outside the Visio document.
 
 
 

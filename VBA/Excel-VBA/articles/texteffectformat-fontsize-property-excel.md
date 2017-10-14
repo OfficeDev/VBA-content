@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontSize Property (Excel)
 
-Returns or sets the font size for the specified WordArt, in points. Read/write  **Single** .
+Returns or sets the font size for the specified WordArt, in points. Read/write **Single** .
 
 
 ## Syntax

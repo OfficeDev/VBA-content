@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PictureWrapType Property (Word)
 
-Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
+Sets or returns a **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
 
 
 ## Syntax

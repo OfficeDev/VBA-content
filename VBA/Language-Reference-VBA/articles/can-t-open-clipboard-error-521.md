@@ -15,7 +15,7 @@ The Clipboard has already been opened by another application. This error has the
 
 
 
-- Another application is using the Clipboard and won't release it to your application. Set an error trap for this situation in your code and provide a message box with  **Retry** and **Cancel** buttons to allow the user to try again after a short pause.
+- Another application is using the Clipboard and won't release it to your application. Set an error trap for this situation in your code and provide a message box with **Retry** and **Cancel** buttons to allow the user to try again after a short pause.
     
 
 

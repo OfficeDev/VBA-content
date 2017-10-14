@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Columns Property (Word)
 
-Returns a  **[Columns](columns-object-word.md)** collection that represents all the table columns in the range. Read-only.
+Returns a **[Columns](columns-object-word.md)** collection that represents all the table columns in the range. Read-only.
 
 
 ## Syntax

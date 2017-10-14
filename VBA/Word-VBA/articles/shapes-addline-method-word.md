@@ -41,7 +41,7 @@ Adds a line to a drawing canvas.
 
 ## Remarks
 
-To create an arrow, use the  **Line** property to format a line.
+To create an arrow, use the **Line** property to format a line.
 
 
 ## Example

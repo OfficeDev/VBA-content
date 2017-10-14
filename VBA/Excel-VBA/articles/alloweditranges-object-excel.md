@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AllowEditRanges Object (Excel)
 
-A collection of all the  **[AllowEditRange](alloweditrange-object-excel.md)** objects that represent the cells that can be edited on a protected worksheet.
+A collection of all the **[AllowEditRange](alloweditrange-object-excel.md)** objects that represent the cells that can be edited on a protected worksheet.
 
 
 ## Remarks
 
-Use the  **[AllowEditRanges](protection-alloweditranges-property-excel.md)** property of the **[Protection](protection-object-excel.md)** object to return an **AllowEditRanges** collection.
+Use the **[AllowEditRanges](protection-alloweditranges-property-excel.md)** property of the **[Protection](protection-object-excel.md)** object to return an **AllowEditRanges** collection.
 
-Once an  **AllowEditRanges** collection has been returned, you can use the **[Add](alloweditranges-add-method-excel.md)** method to add a range that can be edited on a protected worksheet.
+Once an **AllowEditRanges** collection has been returned, you can use the **[Add](alloweditranges-add-method-excel.md)** method to add a range that can be edited on a protected worksheet.
 
 
 ## Example

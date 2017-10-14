@@ -20,7 +20,7 @@ Sets the specified fill to a preset texture.
 
  _expression_. **PresetTextured**( **_PresetTexture_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the specified fill to a preset texture.
 
 ## Remarks
 
-The PresetTexture parameter can be one of the following  **MsoPresetTexture** constants declared in the Microsoft Office type library.
+The PresetTexture parameter can be one of the following **MsoPresetTexture** constants declared in the Microsoft Office type library.
 
 
 

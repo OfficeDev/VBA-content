@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientDegree Property (Publisher)
 
-Returns a  **Single** indicating how dark or light a one-color gradient fill is. A value of 0 (zero) means that black is mixed in with the shape's foreground color to form the gradient; a value of 1 means that white is mixed in; and values between 0 and 1 mean that a darker or lighter shade of the foreground color is mixed in. Read-only.
+Returns a **Single** indicating how dark or light a one-color gradient fill is. A value of 0 (zero) means that black is mixed in with the shape's foreground color to form the gradient; a value of 1 means that white is mixed in; and values between 0 and 1 mean that a darker or lighter shade of the foreground color is mixed in. Read-only.
 
 
 ## Syntax
 
  _expression_. **GradientDegree**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-Use the  **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)** method to set the gradient degree for the fill.
+Use the **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)** method to set the gradient degree for the fill.
 
 
 ## Example

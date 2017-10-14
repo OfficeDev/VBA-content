@@ -39,7 +39,7 @@ Creates a base calendar.
 
 ## Remarks
 
-To create a local calendar when Project Professional is logged on to Project Server, you must check  **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web Access. Restart Project Professional after changing the setting in Project Web Access.
+To create a local calendar when Project Professional is logged on to Project Server, you must check **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web Access. Restart Project Professional after changing the setting in Project Web Access.
 
 
 ## Example

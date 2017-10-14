@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # XlParentDataLabelOptions Enumeration (PowerPoint)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 
 

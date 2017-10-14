@@ -18,14 +18,14 @@ ms.date: 06/08/2017
     
 2. View the control's properties.
     
-3. Set the  **BackStyle** property to **Transparent**.
+3. Set the **BackStyle** property to **Transparent**.
     
-4. If the control supports the  **BorderStyle** property, set it to **None**.
+4. If the control supports the **BorderStyle** property, set it to **None**.
     
 
 
 
 
- **Note**  When you make a control transparent, the background color does not display, so the  **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
+ **Note**  When you make a control transparent, the background color does not display, so the **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
 
 

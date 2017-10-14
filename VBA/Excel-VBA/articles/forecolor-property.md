@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ForeColor Property
 
-Returns a  **ChartColorFormat** object that represents the foreground fill color.
+Returns a **ChartColorFormat** object that represents the foreground fill color.
 
 
 ## Example

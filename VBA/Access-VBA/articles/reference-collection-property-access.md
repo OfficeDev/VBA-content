@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reference.Collection Property (Access)
 
-The  **Collection** property returns a reference to the collection that contains an object. Read-only **References** object.
+The **Collection** property returns a reference to the collection that contains an object. Read-only **References** object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ The  **Collection** property returns a reference to the collection that contains
 
 ## Remarks
 
-You can use the  **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **[Reference](reference-object-access.md)** object returns an object reference to the **[References](references-object-access.md)** collection.
+You can use the **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **[Reference](reference-object-access.md)** object returns an object reference to the **[References](references-object-access.md)** collection.
 
-The  **Collection** property is similar to the **Parent** property.
+The **Collection** property is similar to the **Parent** property.
 
 
 ## See also

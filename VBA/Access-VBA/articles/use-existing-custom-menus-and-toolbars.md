@@ -19,7 +19,7 @@ In addition, you can hide the ribbon when you open legacy files (.mdb, .mde, and
 
  In addition, you can turn off the ribbon for a legacy database by setting options for that database in Access 2003, or by setting global program options in . A procedure, later in this topic, explains how to perform both tasks.
 
-When you open a legacy database and you choose to display the ribbon, any custom toolbars appear as groups on the  **Add-Ins** tab. Each group in the tab corresponds to a custom toolbar, and each group uses the name assigned to the original toolbar. However, the toolbars must be visible in the legacy database or they do not appear on the tab.
+When you open a legacy database and you choose to display the ribbon, any custom toolbars appear as groups on the **Add-Ins** tab. Each group in the tab corresponds to a custom toolbar, and each group uses the name assigned to the original toolbar. However, the toolbars must be visible in the legacy database or they do not appear on the tab.
 
  **Reminder** To bypass custom startup behaviors, press and hold SHIFT while you open the database.
 
@@ -29,16 +29,16 @@ The following procedure describes how to open and use a database that contains o
 ## Opening and using an earlier version database that contains custom toolbars
 
 
-1. Click the  **File** tab, and then click **Open**.
+1. Click the **File** tab, and then click **Open**.
     
-    The  **Open** dialog box appears.
+    The **Open** dialog box appears.
     
-2. Use the  **Look in** list to locate your legacy database (a .mdb or .mde file), and then click **Open**. Access 2010 opens the earlier version database. The database objects — the tables, forms, reports, and so on — appear in the Navigation Pane. If you set a form, switchboard, or other object to appear on startup, that object also appears in the Navigation Pane. Also, if you created custom toolbars or menu bars, they appear in the  **Add-Ins** tab as one or more groups. Each group uses the name originally assigned to the custom toolbar or menu bar.
+2. Use the **Look in** list to locate your legacy database (a .mdb or .mde file), and then click **Open**. Access 2010 opens the earlier version database. The database objects — the tables, forms, reports, and so on — appear in the Navigation Pane. If you set a form, switchboard, or other object to appear on startup, that object also appears in the Navigation Pane. Also, if you created custom toolbars or menu bars, they appear in the **Add-Ins** tab as one or more groups. Each group uses the name originally assigned to the custom toolbar or menu bar.
     
-3. Click the  **Add-Ins** tab. Your custom toolbars appear as one or more groups, and you can use them when doing so is logical. For example, suppose that one of your custom toolbars contains the **Print Relationships** command. Access does not enable that command until you display the relationships for the open database.
+3. Click the **Add-Ins** tab. Your custom toolbars appear as one or more groups, and you can use them when doing so is logical. For example, suppose that one of your custom toolbars contains the **Print Relationships** command. Access does not enable that command until you display the relationships for the open database.
     
 
- **Note**  If your database does not contain a custom toolbar, the  **Add-Ins** tab remains hidden.
+ **Note**  If your database does not contain a custom toolbar, the **Add-Ins** tab remains hidden.
 
 
 ## Opening and using an earlier version database with custom startup behavior
@@ -49,9 +49,9 @@ The following procedure describes how to open and use a database that contains o
  **Open a database**
 
 
-1. Click the  **File** tab, and then click **Open**. The  **Open** dialog box appears.
+1. Click the **File** tab, and then click **Open**. The **Open** dialog box appears.
     
-2. Use the  **Look in** list to locate and open the earlier version database. opens the database and runs any startup settings. For example, if the earlier version database was set to run a parameter query before opening any data-entry forms, the dialog boxes for that query appear in Access 2010.
+2. Use the **Look in** list to locate and open the earlier version database. opens the database and runs any startup settings. For example, if the earlier version database was set to run a parameter query before opening any data-entry forms, the dialog boxes for that query appear in Access 2010.
     
 
  **Note**  If the database uses Visual Basic for Applications (VBA) code, Access blocks the code by default.
@@ -66,24 +66,24 @@ The following procedure describes how to hide the ribbon by changing settings in
 
 1. Using Access 2003, open your legacy database.
     
-2. On the  **Tools** menu, click **Startup**. The  **Startup** dialog box appears.
+2. On the **Tools** menu, click **Startup**. The **Startup** dialog box appears.
     
-3. From the  **Menu Bar** list, select your custom menu bar.
+3. From the **Menu Bar** list, select your custom menu bar.
     
-     **Note**  You must select a menu bar. You cannot select a toolbar.
-4. Clear the  **Allow Built-in Toolbars** check box, click **OK**, and then close the database. When you open the database in Access 2010, Access shows the Message Bar (if necessary), the custom menu bar set for the database, and any other startup settings, such as a form and any custom toolbars.
+    **Note**  You must select a menu bar. You cannot select a toolbar.
+4. Clear the **Allow Built-in Toolbars** check box, click **OK**, and then close the database. When you open the database in Access 2010, Access shows the Message Bar (if necessary), the custom menu bar set for the database, and any other startup settings, such as a form and any custom toolbars.
     
  **Set Access 2010 to use custom menu bars**
 
 
 1. Open your legacy database in Access 2010.
     
-2. Click the  **File** tab, and then click **Options**.
+2. Click the **File** tab, and then click **Options**.
     
-3. In the  **Access Options** dialog box, click **Current Database**.
+3. In the **Access Options** dialog box, click **Current Database**.
     
-4. Under  **Ribbon and Toolbar Options**, clear the  **Allow Full Menus** and **Allow Built-in Toolbars** check boxes.
+4. Under **Ribbon and Toolbar Options**, clear the **Allow Full Menus** and **Allow Built-in Toolbars** check boxes.
     
-5. Click  **OK**.
+5. Click **OK**.
     
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisGraphicField Enumeration (Visio)
 
-Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpression](graphicitem-setexpression-method-visio.md)** method and returned by the **[GraphicItem.GetExpression](graphicitem-getexpression-method-visio.md)** method.
+Graphic item primary-data-field constants passed to the **[GraphicItem.SetExpression](graphicitem-setexpression-method-visio.md)** method and returned by the **[GraphicItem.GetExpression](graphicitem-getexpression-method-visio.md)** method.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

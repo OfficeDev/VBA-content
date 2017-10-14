@@ -29,7 +29,7 @@ Executes the specfied import or export specification.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OverwritePrompt_|Optional|**Variant**|Specifies whether to notify the user when an export operation would overwrite an existing file. The default value is  **True**.|
+| _OverwritePrompt_|Optional|**Variant**|Specifies whether to notify the user when an export operation would overwrite an existing file. The default value is **True**.|
 
 ## See also
 

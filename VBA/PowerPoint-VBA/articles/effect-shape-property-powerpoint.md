@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.Shape Property (PowerPoint)
 
-Returns a  **[Shape](shape-object-powerpoint.md)** object that represents an animated shape.
+Returns a **[Shape](shape-object-powerpoint.md)** object that represents an animated shape.
 
 
 ## Syntax

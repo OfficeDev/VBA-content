@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ComputeStatistics Method (Word)
 
-Returns a  **Long** that represents a statistic based on the contents of the specified range.
+Returns a **Long** that represents a statistic based on the contents of the specified range.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **Long** that represents a statistic based on the contents of the spe
 
 ## Remarks
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

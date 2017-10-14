@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.Parent Property (Project)
 
-Gets the parent of the  **LookupTableEntry** object. Read-only **OutlineCode**.
+Gets the parent of the **LookupTableEntry** object. Read-only **OutlineCode**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **LookupTableEntry** object. Read-only **OutlineCode**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

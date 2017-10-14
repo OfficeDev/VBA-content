@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # Parameters Object (Excel)
 
-A collection of  **[Parameter](parameter-object-excel.md)** objects for the specified query table.
+A collection of **[Parameter](parameter-object-excel.md)** objects for the specified query table.
 
 
 ## Remarks
 
  Each **Parameter** object represents a single query parameter. Every query table contains a **Parameters** collection, but the collection is empty unless the query table is using a parameter query.
 
-You cannot use the  **[Add](parameters-add-method-excel.md)** method on a URL connection query table. For URL connection query tables, Microsoft Excel creates the parameters based on the **[Connection](querytable-connection-property-excel.md)** and **[PostText](querytable-posttext-property-excel.md)** properties.
+You cannot use the **[Add](parameters-add-method-excel.md)** method on a URL connection query table. For URL connection query tables, Microsoft Excel creates the parameters based on the **[Connection](querytable-connection-property-excel.md)** and **[PostText](querytable-posttext-property-excel.md)** properties.
 
 
 ## Example
 
-Use the  **Parameters** property to return the **Parameters** collection. The following example displays the number of parameters in query table one.
+Use the **Parameters** property to return the **Parameters** collection. The following example displays the number of parameters in query table one.
 
 
 ```vb
 MsgBox Workbooks(1).ActiveSheet.QueryTables(1).Parameters.Count
 ```
 
-Use the  **Add** method to create a new parameter for a query table. The following example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant "Oakland."
+Use the **Add** method to create a new parameter for a query table. The following example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant "Oakland."
 
 
 

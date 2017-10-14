@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-If successful, the  **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
+If successful, the **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
 
 
 ## Example

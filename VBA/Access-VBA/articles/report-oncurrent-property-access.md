@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.OnCurrent Property (Access)
 
-Sets or returns the value of the  **On Current** property on the Report. Read/write **String**.
+Sets or returns the value of the **On Current** property on the Report. Read/write **String**.
 
 
 ## Syntax
@@ -25,23 +25,23 @@ Sets or returns the value of the  **On Current** property on the Report. Read/wr
 
 ## Remarks
 
-If you want a procedure to run automatically every time you open a particular report, you set the form's  **On Current** property to _"[Event Procedure]"_ and Access automatically stubs-out a procedure for you called _Private Sub Report_Current()_. The **OnCurrent** property allows you to programmatically determine the value of the form's **On Current** property, or to programmatically set the form's **On Current** property.
+If you want a procedure to run automatically every time you open a particular report, you set the form's **On Current** property to _"[Event Procedure]"_ and Access automatically stubs-out a procedure for you called _Private Sub Report_Current()_. The **OnCurrent** property allows you to programmatically determine the value of the form's **On Current** property, or to programmatically set the form's **On Current** property.
 
- _Note that the  **Current** event fires when you run (open) a report._
+ _Note that the **Current** event fires when you run (open) a report._
 
-If you set the form's  **On Current** property in the UI, it gets it value based on your selection in the **Choose Builder** window, which appears when you click the **...** button next to **On Current** in the Report's **Properties** window.
+If you set the form's **On Current** property in the UI, it gets it value based on your selection in the **Choose Builder** window, which appears when you click the **...** button next to **On Current** in the Report's **Properties** window.
 
 
-- If you select  **Code Builder**, then the value will be  _[Event Procedure]_.
+- If you select **Code Builder**, then the value will be  _[Event Procedure]_.
     
-- If you select  **Expression Builder**, then the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
+- If you select **Expression Builder**, then the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
     
-- If you select  **Macro Builder**, then the value will be the name of the macro.
+- If you select **Macro Builder**, then the value will be the name of the macro.
     
 
 ## Example
 
-The following code example demonstrates how to set a Report's  **OnCurrent** property.
+The following code example demonstrates how to set a Report's **OnCurrent** property.
 
 
 ```vb
@@ -54,7 +54,7 @@ End Sub
 		
 ```
 
-The event procedure  **Report_Current()** is automatically called when the **Current** event is fired. This procedure simply collects the values of two of the Report's text boxes and sends them to another procedure for processing.
+The event procedure **Report_Current()** is automatically called when the **Current** event is fired. This procedure simply collects the values of two of the Report's text boxes and sends them to another procedure for processing.
 
 
 

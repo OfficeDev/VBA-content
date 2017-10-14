@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Access)
 
-Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)** object that represents the Microsoft Office Help Viewer. Read-only.
+Returns an **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)** object that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c
 
 ## Remarks
 
-The  **IAssistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
+The **IAssistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
 
 
 ## See also

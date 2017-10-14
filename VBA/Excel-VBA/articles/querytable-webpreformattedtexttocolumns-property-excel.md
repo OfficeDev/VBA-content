@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.WebPreFormattedTextToColumns Property (Excel)
 
-Returns or sets whether data contained within HTML <PRE> tags in the Web page is parsed into columns when you import the page into a query table. The default is  **True** . Read/write **Boolean** .
+Returns or sets whether data contained within HTML <PRE> tags in the Web page is parsed into columns when you import the page into a query table. The default is **True** . Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Returns or sets whether data contained within HTML <PRE> tags in the Web page is
 
 ## Remarks
 
-This property is used only when the  **[QueryType](querytable-querytype-property-excel.md)** property of the query table is **xlWebQuery** and the query returns a HTML document.
+This property is used only when the **[QueryType](querytable-querytype-property-excel.md)** property of the query table is **xlWebQuery** and the query returns a HTML document.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **WebPreFormattedTextToColumns** property applies only to **QueryTable** objects.
+The **WebPreFormattedTextToColumns** property applies only to **QueryTable** objects.
 
 
 ## Example

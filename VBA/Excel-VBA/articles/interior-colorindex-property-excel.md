@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.ColorIndex Property (Excel)
 
-Returns or sets a  **Variant** value that represents the color of the interior.
+Returns or sets a **Variant** value that represents the color of the interior.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **Variant** value that represents the color of the interior.
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
 
 
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**
     
--  **xlColorIndexNone**
+- **xlColorIndexNone**
     
 
 ## See also

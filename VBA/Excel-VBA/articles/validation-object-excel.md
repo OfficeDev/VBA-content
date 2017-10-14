@@ -18,7 +18,7 @@ Represents data validation for a worksheet range.
 
 ## Example
 
-Use the  **[Validation](range-validation-property-excel.md)** property to return the **Validation** object. The following example changes the data validation for cell E5.
+Use the **[Validation](range-validation-property-excel.md)** property to return the **Validation** object. The following example changes the data validation for cell E5.
 
 
 ```
@@ -26,7 +26,7 @@ Range("e5").Validation _
  .Modify xlValidateList, xlValidAlertStop, "=$A$1:$A$10"
 ```
 
-Use the  **[Add](validation-add-method-excel.md)** method to add data validation to a range and create a new **Validation** object. The following example adds data validation to cell E5.
+Use the **[Add](validation-add-method-excel.md)** method to add data validation to a range and create a new **Validation** object. The following example adds data validation to cell E5.
 
 
 

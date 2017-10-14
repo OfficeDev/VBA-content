@@ -33,7 +33,7 @@ Occurs at different times depending on the current view.
 
 ## Remarks
 
-To access the  **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+To access the **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 The following table describes when the event occurs in each of the views. 
 
@@ -48,7 +48,7 @@ The following table describes when the event occurs in each of the views.
 
 ## Example
 
-This example displays a message every time a user selects a different slide. This example assumes that an  **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
+This example displays a message every time a user selects a different slide. This example assumes that an **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
 
 
 ```vb

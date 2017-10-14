@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.CommandBars Property (Publisher)
 
-Sets or returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
+Sets or returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Publisher.
 
 
 ## Syntax
 
  _expression_. **CommandBars**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value
@@ -45,7 +45,7 @@ Sub CmdBars()
 End Sub
 ```
 
-This example displays the  **Objects** toolbar at the bottom of the application window.
+This example displays the **Objects** toolbar at the bottom of the application window.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Item Method (PowerPoint)
 
-Returns a single  **Slide** object from the specified **SlideRange** collection.
+Returns a single **Slide** object from the specified **SlideRange** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Slide** object from the specified **SlideRange** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Slide** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Slide** object in the collection to be returned.|
 
 ### Return Value
 
@@ -38,10 +38,10 @@ Slide
 
 ### Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.SlideRange._Index**
+- **Microsoft.Office.Interop.PowerPoint.SlideRange._Index**
     
 
 ## See also

@@ -25,7 +25,7 @@ Selects all the shapes in a collection of shapes.
 
 ## Remarks
 
-This method does not select  **InlineShape** objects. You cannot use this method to select more than one canvas.
+This method does not select **InlineShape** objects. You cannot use this method to select more than one canvas.
 
 
 ## Example

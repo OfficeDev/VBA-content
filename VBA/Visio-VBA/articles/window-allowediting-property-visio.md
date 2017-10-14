@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.AllowEditing Property (Visio)
 
-Determines whether the  **Edit Stencil** command is enabled or disabled in a stencil window. Read/write.
+Determines whether the **Edit Stencil** command is enabled or disabled in a stencil window. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Use the  **AllowEditing** property to prevent unintentional editing in stencils. Setting the value of this property for stencils that are already open for editing has no effect. This property has no effect on Visio stencils (stencils that are shipped on the Microsoft Visio CD) or on other stencils that have been published to Visio by using an .msi file.
+Use the **AllowEditing** property to prevent unintentional editing in stencils. Setting the value of this property for stencils that are already open for editing has no effect. This property has no effect on Visio stencils (stencils that are shipped on the Microsoft Visio CD) or on other stencils that have been published to Visio by using an .msi file.
 
 
 

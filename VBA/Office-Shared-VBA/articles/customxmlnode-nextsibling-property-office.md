@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.NextSibling Property (Office)
 
-Gets the next sibling node (element, comment, or processing instruction) of the current node. If the node is the last sibling at its level, the property returns  **Nothing**. Read-only.
+Gets the next sibling node (element, comment, or processing instruction) of the current node. If the node is the last sibling at its level, the property returns **Nothing**. Read-only.
 
 
 ## Syntax

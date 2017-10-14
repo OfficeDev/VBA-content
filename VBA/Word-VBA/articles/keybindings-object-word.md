@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # KeyBindings Object (Word)
 
-A collection of  **[KeyBinding](keybinding-object-word.md)** objects that represent the custom key assignments in the current context. Custom key assignments are made in the **Customize Keyboard** dialog box.
+A collection of **[KeyBinding](keybinding-object-word.md)** objects that represent the custom key assignments in the current context. Custom key assignments are made in the **Customize Keyboard** dialog box.
 
 
 ## Remarks
 
-Use the  **[KeyBindings](application-keybindings-property-word.md)** property to return the **KeyBindings** collection. The following example inserts after the selection the command name and key combination for each item in the **KeyBindings** collection.
+Use the **[KeyBindings](application-keybindings-property-word.md)** property to return the **KeyBindings** collection. The following example inserts after the selection the command name and key combination for each item in the **KeyBindings** collection.
 
 
 ```vb
@@ -25,7 +25,7 @@ For Each aKey In KeyBindings
 Next aKey
 ```
 
-Use the  **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
+Use the **Add** method to add a **KeyBinding** object to the **KeyBindings** collection. The following example adds the CTRL+ALT+H key combination to the Heading 1 style in the active document.
 
 
 
@@ -37,7 +37,7 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryStyle, _
  KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, wdKeyH)
 ```
 
-Use  **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **KeyBindings** collection.
+Use **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **KeyBindings** collection.
 
 
 

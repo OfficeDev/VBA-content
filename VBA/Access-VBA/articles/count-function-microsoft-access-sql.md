@@ -34,11 +34,11 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-You can use  **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
+You can use **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
 
 Although  _expr_ can perform a calculation on a field, **Count** simply tallies the number of records. It does not matter what values are stored in the records.
 
-The  **Count** function does not count records that have **Null** fields unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, **Count** calculates the total number of records, including those that contain **Null** fields. **Count(** * **)** is considerably faster than **Count(** [ _Column Name_ ] **)**. Do not enclose the asterisk in quotation marks (' '). The following example calculates the number of records in the Orders table:
+The **Count** function does not count records that have **Null** fields unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, **Count** calculates the total number of records, including those that contain **Null** fields. **Count(** * **)** is considerably faster than **Count(** [ _Column Name_ ] **)**. Do not enclose the asterisk in quotation marks (' '). The following example calculates the number of records in the Orders table:
 
 
 
@@ -59,7 +59,7 @@ Count('ShippedDate &; Freight')
 AS [Not Null] FROM Orders;
 ```
 
-You can use  **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
+You can use **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
 
 ## Example

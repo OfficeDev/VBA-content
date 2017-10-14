@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.AutoDiscoverConnectionMode Property (Outlook)
 
-Returns an  **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumeration-outlook.md)** constant that specifies the type of connection for auto-discovery of the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
+Returns an **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumeration-outlook.md)** constant that specifies the type of connection for auto-discovery of the Microsoft Exchange server that hosts the primary Exchange account. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlAutoDiscoverConnectionMode](olautodiscoverconnectionmode-enumer
 
 ## Remarks
 
-This property is similar to the  **[AutoDiscoverConnectionMode](account-autodiscoverconnectionmode-property-outlook.md)** property of the **[Account](account-object-outlook.md)** object. If there are multiple Exchange accounts defined in the current profile, use the **AutoDiscoverConnectionMode** property for the specific account.
+This property is similar to the **[AutoDiscoverConnectionMode](account-autodiscoverconnectionmode-property-outlook.md)** property of the **[Account](account-object-outlook.md)** object. If there are multiple Exchange accounts defined in the current profile, use the **AutoDiscoverConnectionMode** property for the specific account.
 
 
 ## Example
@@ -33,9 +33,9 @@ This property is similar to the  **[AutoDiscoverConnectionMode](account-autodisc
  **NameSpace.AutoDiscoverXml** is an XML string that is returned from the auto-discovery service of the Exchange server. The following code sample uses the **AutoDiscoverConnectionMode** property to show when this XML string is available during a normal Outlook session.
 
 
-- When the  **[Application.Startup](application-startup-event-outlook.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the **[Application.Startup](application-startup-event-outlook.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
     
-- When the  **[NameSpace.AutoDiscoverComplete](namespace-autodiscovercomplete-event-outlook.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the **[NameSpace.AutoDiscoverComplete](namespace-autodiscovercomplete-event-outlook.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
     
 
 

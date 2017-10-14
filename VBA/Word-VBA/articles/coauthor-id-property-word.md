@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthor.ID Property (Word)
 
-Returns a  **String** that specifies a unique identifier for the specified author. Read-only.
+Returns a **String** that specifies a unique identifier for the specified author. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that specifies a unique identifier for the specified autho
 
 ## Remarks
 
-The unique identifier returned by the  **ID** property should not be assumed to have a particular length or format.
+The unique identifier returned by the **ID** property should not be assumed to have a particular length or format.
 
 
 ## Example

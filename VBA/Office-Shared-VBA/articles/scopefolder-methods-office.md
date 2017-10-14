@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[AddToSearchFolders](scopefolder-addtosearchfolders-method-office.md)|Adds a  **ScopeFolder** object to the **SearchFolders** collection.|
+|[AddToSearchFolders](scopefolder-addtosearchfolders-method-office.md)|Adds a **ScopeFolder** object to the **SearchFolders** collection.|
 

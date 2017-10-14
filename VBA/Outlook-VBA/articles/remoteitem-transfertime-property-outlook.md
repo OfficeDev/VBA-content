@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.TransferTime Property (Outlook)
 
-Returns a  **Long** indicating the transfer time (in seconds) for the remote item. Read-only.
+Returns a **Long** indicating the transfer time (in seconds) for the remote item. Read-only.
 
 
 ## Syntax

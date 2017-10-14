@@ -35,7 +35,7 @@ All properties of the new object are initialized to zero, so you need to set onl
 
 ## Example
 
-The following macro shows how to add  **Master** objects to the **Masters** collection and **Page** objects to the **Pages** collection. It also shows how to add documents, layers, styles, events, and add-ons to their corresponding collections.
+The following macro shows how to add **Master** objects to the **Masters** collection and **Page** objects to the **Pages** collection. It also shows how to add documents, layers, styles, events, and add-ons to their corresponding collections.
 
 Before running this macro, replace  _Myfile.vsd_ with a valid .vsd file and references to _path_ \ _filename_ and _filename_ with a valid path and/or file name to an execuatable add-on (EXE) in your Visio project. The add-on should take no arguments.
 

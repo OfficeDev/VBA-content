@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Ungroup Method (Project)
-The  **Ungroup** method is not implemented in Project.
+The **Ungroup** method is not implemented in Project.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **Ungroup** method is not implemented in Project.
 
 ## Remarks
 
-In general for applications that implement Office Art, the  **Ungroup** method ungroups any group of shapes where the group contains the shape, and returns a **ShapeRange** object that represent the ungrouped shapes. Project does not support grouping of shapes in a report.
+In general for applications that implement Office Art, the **Ungroup** method ungroups any group of shapes where the group contains the shape, and returns a **ShapeRange** object that represent the ungrouped shapes. Project does not support grouping of shapes in a report.
 
 
 ## See also

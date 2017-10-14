@@ -19,7 +19,7 @@ Represents all the properties for wrapping text around a shape or shape range.
 
 ## Example
 
-Use the  **[TextWrap](shape-textwrap-property-publisher.md)** property to return a **WrapFormat** object. The following example adds an oval to the active publication and specifies that publication text wrap around the left and right sides of the square that circumscribes the oval. There will be a 0.1-inch margin between the publication text and the top, bottom, left side, and right side of the square.
+Use the **[TextWrap](shape-textwrap-property-publisher.md)** property to return a **WrapFormat** object. The following example adds an oval to the active publication and specifies that publication text wrap around the left and right sides of the square that circumscribes the oval. There will be a 0.1-inch margin between the publication text and the top, bottom, left side, and right side of the square.
  
 
  

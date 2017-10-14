@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.CostVariance Property (Project)
 
-Gets the variance between the baseline cost and the cost of an  **Assignment**. Read-only **Variant**.
+Gets the variance between the baseline cost and the cost of an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

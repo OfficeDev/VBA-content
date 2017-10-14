@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Use the  **Version** property of the **Application** object to verify the version of a particular Visio instance. This information is helpful if your program requires a particular version. Both the major and minor version numbers are returned. The string returned by Visio is 15.0.
+Use the **Version** property of the **Application** object to verify the version of a particular Visio instance. This information is helpful if your program requires a particular version. Both the major and minor version numbers are returned. The string returned by Visio is 15.0.
 
 
 ## Example

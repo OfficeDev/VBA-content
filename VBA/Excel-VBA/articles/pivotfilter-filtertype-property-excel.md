@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.FilterType Property (Excel)
 
-Specifies the type of filter to be applied. Read-only  **xlPivotFilterType** .
+Specifies the type of filter to be applied. Read-only **xlPivotFilterType** .
 
 
 ## Syntax

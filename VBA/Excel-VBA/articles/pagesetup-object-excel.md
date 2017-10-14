@@ -23,7 +23,7 @@ Represents the page setup description.
 
 ## Example
 
-Use the  **[PageSetup](worksheet-pagesetup-property-excel.md)** property to return a **PageSetup** object. The following example sets the orientation to landscape mode and then prints the worksheet.
+Use the **[PageSetup](worksheet-pagesetup-property-excel.md)** property to return a **PageSetup** object. The following example sets the orientation to landscape mode and then prints the worksheet.
 
 
 ```
@@ -33,7 +33,7 @@ With Worksheets("Sheet1")
 End With
 ```
 
-The  **With** statement makes it easier and faster to set several properties at the same time. The following example sets all the margins for worksheet one.
+The **With** statement makes it easier and faster to set several properties at the same time. The following example sets all the margins for worksheet one.
 
 
 

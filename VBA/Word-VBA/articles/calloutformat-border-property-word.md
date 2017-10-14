@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Border Property (Word)
 
-Returns or sets whether the text in the specified callout is surrounded by a border. Read/write  **MsoTriState** .
+Returns or sets whether the text in the specified callout is surrounded by a border. Read/write **MsoTriState** .
 
 
 ## Syntax

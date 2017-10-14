@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WSParameter.Type Property (Access)
 
-Get the data type of the specified parameter.  **Read-only** Integer.
+Get the data type of the specified parameter. **Read-only** Integer.
 
 
 ## Syntax

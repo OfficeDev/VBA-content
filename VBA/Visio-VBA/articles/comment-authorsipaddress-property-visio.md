@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.AuthorSipAddress Property (Visio)
 
-Returns the SIP (Session Initiation Protocol) address of the author of the comment. Read-only  **String**.
+Returns the SIP (Session Initiation Protocol) address of the author of the comment. Read-only **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindows.Open Method (Excel)
 
-Opens the specified workbook in a new  **Protected View** window.
+Opens the specified workbook in a new **Protected View** window.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Example
 
-The following code example opens a workbook in a new  **Protected View** window.
+The following code example opens a workbook in a new **Protected View** window.
 
 
 ```vb

@@ -15,7 +15,7 @@ Represents a collection of major and minor fonts in the font scheme of a Microso
 
 ## Example
 
-The following example sets a  **ThemeFonts** object to a minor theme font.
+The following example sets a **ThemeFonts** object to a minor theme font.
 
 
 ```

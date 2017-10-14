@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Label.GridlineStyleBottom Property (Access)
 
-Gets or sets the bottom gridline style of the specified label. Read/write  **Byte**.
+Gets or sets the bottom gridline style of the specified label. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the bottom gridline style of the specified label. Read/write  **Byt
 
 ## Remarks
 
-The  **BottomGridlineStyle** property uses the following settings.
+The **BottomGridlineStyle** property uses the following settings.
 
 
 

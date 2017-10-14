@@ -33,7 +33,7 @@ Options.AutoFormatReplaceOrdinals = True
 Selection.Range.AutoFormat
 ```
 
-This example returns the status of the Ordinals (1st) with superscript option on the  **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the Ordinals (1st) with superscript option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

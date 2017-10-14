@@ -12,18 +12,18 @@ The custom user interface XML markup that you return in the  [IRibbonExtensibili
 
 You must add each callback in your XML markup to the add-in class that implements [IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7576-b6f5-031e-e307-78ef5f8507e0%28Office.15%29.aspx). In addition, you must declare the callbacks as public procedures. If for some reason you omit a callback or use an incorrect callback signature, your UI customization will fail silently unless you turn on error reporting when you debug your solution.
 
-Note that if any portion of the XML markup specified by an add-in and returned by  **GetCustomUI** does not adhere to the Office Fluent UI XML schema, none of the UI customization specified by that add-in is applied. For example, if you have a problem with one control that you have added to the ribbon, your customizations for that ribbon are not displayed.
+Note that if any portion of the XML markup specified by an add-in and returned by **GetCustomUI** does not adhere to the Office Fluent UI XML schema, none of the UI customization specified by that add-in is applied. For example, if you have a problem with one control that you have added to the ribbon, your customizations for that ribbon are not displayed.
 
 To view any errors that your XML markup generates when it is loaded, follow these steps:
 
 
-1. Click the  **File** tab, and then click **Options**.
+1. Click the **File** tab, and then click **Options**.
     
-2. Click  **Advanced**.
+2. Click **Advanced**.
     
-3. Under  **Developers**, select  **Show add-in user interface errors**.
+3. Under **Developers**, select **Show add-in user interface errors**.
     
-4. Click  **OK** to save your changes.
+4. Click **OK** to save your changes.
     
 
 ## See also

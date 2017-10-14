@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Event.Action Property (Visio)
 
-Gets or sets the action code of an  **Event** object. Read/write.
+Gets or sets the action code of an **Event** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-An  **Event** object consists of an event-action pair; an event triggers an action. An action code is the numeric constant for the action that the event triggers.
+An **Event** object consists of an event-action pair; an event triggers an action. An action code is the numeric constant for the action that the event triggers.
 
 Microsoft Visio supports the following action codes.
 

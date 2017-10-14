@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Baseline9Work Property (Project)
 
-Gets or sets the baseline work (in minutes) for an  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline work (in minutes) for an **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

@@ -46,9 +46,9 @@ Breaking the link between an shape and a data row does not remove shape data (ca
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **BreakLinkToData** method to break the link between a shape and a data row in a data recordset.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **BreakLinkToData** method to break the link between a shape and a data row in a data recordset.
 
-Before running this macro, place a shape on the page, add at least one data recordset to the  **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document, and use any linking method to link the shape to a data row in the data recordset you most recently added to the collection. Alternatively, you could link the shape to a data row by dragging the row from the **External Data** window onto the shape in the Visio user interface. Then select the linked shape.
+Before running this macro, place a shape on the page, add at least one data recordset to the **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document, and use any linking method to link the shape to a data row in the data recordset you most recently added to the collection. Alternatively, you could link the shape to a data row by dragging the row from the **External Data** window onto the shape in the Visio user interface. Then select the linked shape.
 
 
 

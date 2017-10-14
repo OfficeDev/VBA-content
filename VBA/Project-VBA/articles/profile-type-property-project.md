@@ -22,14 +22,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The Type property can be one of the following  **[PjProfileType](pjprofiletype-enumeration-project.md)** constants: **pjLocalProfile** or **pjServerProfile**.
+The Type property can be one of the following **[PjProfileType](pjprofiletype-enumeration-project.md)** constants: **pjLocalProfile** or **pjServerProfile**.
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles defined in Project Professional.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles defined in Project Professional.
 
 
 ## Example
 
-If the second account profile is a Project Server account, the following statement returns 1, which is the value of the  **pjServerProfile** constant.
+If the second account profile is a Project Server account, the following statement returns 1, which is the value of the **pjServerProfile** constant.
 
 
 ```vb

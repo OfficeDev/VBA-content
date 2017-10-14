@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CodeContextObject Property (Access)
 
-You can use the  **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
+You can use the **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ You can use the  **CodeContextObject** property to determine the object in which
 
 ## Remarks
 
-The  **CodeContextObject** property is set by Microsoft Access and is read-only in all views.
+The **CodeContextObject** property is set by Microsoft Access and is read-only in all views.
 
-The  **[ActiveControl](screen-activecontrol-property-access.md)**, **[ActiveDatasheet](screen-activedatasheet-property-access.md)**, **[ActiveForm](screen-activeform-property-access.md)**, and **[ActiveReport](screen-activereport-property-access.md)** properties of the **[Screen](screen-object-access.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](form-timer-event-access.md)** event on a hidden form.
+The **[ActiveControl](screen-activecontrol-property-access.md)**, **[ActiveDatasheet](screen-activedatasheet-property-access.md)**, **[ActiveForm](screen-activeform-property-access.md)**, and **[ActiveReport](screen-activereport-property-access.md)** properties of the **[Screen](screen-object-access.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](form-timer-event-access.md)** event on a hidden form.
 
 
 ## Example
 
-In the following example the  **CodeContextObject** property is used in a function to identify the name of the object in which an error occurred. The object name is then used in the message box title as well as in the body of the error message. The **Error** statement is used in the command button's click event to generate the error for this example.
+In the following example the **CodeContextObject** property is used in a function to identify the name of the object in which an error occurred. The object name is then used in the message box title as well as in the body of the error message. The **Error** statement is used in the command button's click event to generate the error for this example.
 
 
 ```vb

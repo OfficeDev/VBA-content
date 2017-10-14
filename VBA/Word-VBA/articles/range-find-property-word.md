@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Find Property (Word)
 
-Returns a  **[Find](find-object-word.md)** object that contains the criteria for a find operation. Read-only.
+Returns a **[Find](find-object-word.md)** object that contains the criteria for a find operation. Read-only.
 
 
 ## Syntax

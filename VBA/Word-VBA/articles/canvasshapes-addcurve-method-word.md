@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddCurve Method (Word)
 
-Returns a  **[Shape](shape-object-word.md)** object that represents a B?zier curve in a drawing canvas.
+Returns a **[Shape](shape-object-word.md)** object that represents a Bézier curve in a drawing canvas.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns a  **[Shape](shape-object-word.md)** object that represents a B?zier cur
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SafeArrayOfPoints_|Required| **Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first B?zier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
+| _SafeArrayOfPoints_|Required| **Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first Bézier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
 
 ## Example
 
-This example adds a B?zier curve to a new drawing canvas.
+This example adds a Bézier curve to a new drawing canvas.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.Filters Property (Excel)
 
-Returns a  **[Filters](filters-object-excel.md)** collection that represents all the filters in an autofiltered range. Read-only.
+Returns a **[Filters](filters-object-excel.md)** collection that represents all the filters in an autofiltered range. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Filters](filters-object-excel.md)** collection that represents all
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
+The following example sets a variable to the value of the **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```vb

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ResampleMediaTasks Object (PowerPoint)
 
-A collection of  **ResampleMediaTask** objects.
+A collection of **ResampleMediaTask** objects.
 
 
 ## Remarks
 
-Use  **ResampleMediaTasks** ( _Index_ ) to return a **ResampleMediaTask** object, where _Index_ is the position of the **ResampleMediaTask** object to return.
+Use **ResampleMediaTasks** ( _Index_ ) to return a **ResampleMediaTask** object, where _Index_ is the position of the **ResampleMediaTask** object to return.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Permission.PermissionFromPolicy Property (Office)
 
-Gets a  **Boolean** value that indicates whether a permission policy has been applied to the active document. Read-only.
+Gets a **Boolean** value that indicates whether a permission policy has been applied to the active document. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Gets a  **Boolean** value that indicates whether a permission policy has been ap
 
 ## Remarks
 
-Information Rights Management in Microsoft Office supports the use of administrative permission policies which list users and groups and their document permissions. The  **PermissionFromPolicy** property returns a **Boolean** value that indicates whether a permission policy was applied to the active document the last time permissions were enabled on the document.
+Information Rights Management in Microsoft Office supports the use of administrative permission policies which list users and groups and their document permissions. The **PermissionFromPolicy** property returns a **Boolean** value that indicates whether a permission policy was applied to the active document the last time permissions were enabled on the document.
 
-The  **PermissionFromPolicy** property always returns **False** when checked by a non-owner of the document, even when the user has object model permissions.
+The **PermissionFromPolicy** property always returns **False** when checked by a non-owner of the document, even when the user has object model permissions.
 
 
 ## Example

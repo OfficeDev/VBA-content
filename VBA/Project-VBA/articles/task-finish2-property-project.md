@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Finish2 Property (Project)
 
-Gets or sets the local Finish custom field of the task. Read/write  **Variant**.
+Gets or sets the local Finish custom field of the task. Read/write **Variant**.
 
 
 ## Syntax

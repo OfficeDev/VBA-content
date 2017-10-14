@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Editor.Delete Method (Word)
 
-Deletes the specified  **Editor** object.
+Deletes the specified **Editor** object.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.IsOffline Method (Project)
 
-Returns  **False** if Project Professional is connected with Project Server.
+Returns **False** if Project Professional is connected with Project Server.
 
 
 ## Syntax

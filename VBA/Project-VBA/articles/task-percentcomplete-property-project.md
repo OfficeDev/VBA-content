@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.PercentComplete Property (Project)
 
-Gets or sets the percent complete of a task. Read/write  **Variant**.
+Gets or sets the percent complete of a task. Read/write **Variant**.
 
 
 ## Syntax

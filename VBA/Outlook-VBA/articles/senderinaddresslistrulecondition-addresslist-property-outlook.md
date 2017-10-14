@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SenderInAddressListRuleCondition.AddressList Property (Outlook)
 
-Returns or sets an  **[AddressList](addresslist-object-outlook.md)** object that represents the address list used to evaluate the rule condition. Read/write.
+Returns or sets an **[AddressList](addresslist-object-outlook.md)** object that represents the address list used to evaluate the rule condition. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[AddressList](addresslist-object-outlook.md)** object that
 
 ## Remarks
 
-Returns an error if the  **AddressList** object does not represent an initialized **AddressList** object.
+Returns an error if the **AddressList** object does not represent an initialized **AddressList** object.
 
 
 ## See also

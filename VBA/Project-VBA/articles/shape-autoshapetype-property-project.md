@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.AutoShapeType Property (Project)
-Gets or sets the shape type for the  **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **MsoAutoShapeType**.
+Gets or sets the shape type for the **Shape** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **MsoAutoShapeType**.
 
 ## Syntax
 

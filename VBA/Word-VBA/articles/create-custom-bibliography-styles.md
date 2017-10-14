@@ -78,7 +78,7 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 </xsl:when>
 ```
 
-This section contains the locale name of your style. In the case of our example file, we want our custom bibliography style name, "Simple Book Style," to appear in the  **Style** drop-down list on the **References** tab. To do so, add the following XML code to specify that the style name be in the English locale (Lcid determines the language).
+This section contains the locale name of your style. In the case of our example file, we want our custom bibliography style name, "Simple Book Style," to appear in the **Style** drop-down list on the **References** tab. To do so, add the following XML code to specify that the style name be in the English locale (Lcid determines the language).
 
 
 
@@ -93,9 +93,9 @@ This section contains the locale name of your style. In the case of our example 
 </xsl:when>
 ```
 
-Your style will now appear under its own name in the  **Bibliography Style** dropdown list-box in the application.
+Your style will now appear under its own name in the **Bibliography Style** dropdown list-box in the application.
 
-Now, examine the style details. Each source type in Word (for example, book, film, article in a periodical, and so forth) has a built-in list of fields that you can use for the bibliography. To see all the fields available for a given source type, on the  **References** tab, choose **Manage Sources**, and then in the  **Source Manager** dialog box, choose **New** to open the **Create Source** dialog box. Then select **Show All Bibliography Fields**.
+Now, examine the style details. Each source type in Word (for example, book, film, article in a periodical, and so forth) has a built-in list of fields that you can use for the bibliography. To see all the fields available for a given source type, on the **References** tab, choose **Manage Sources**, and then in the **Source Manager** dialog box, choose **New** to open the **Create Source** dialog box. Then select **Show All Bibliography Fields**.
 
 A book source type has the following fields available:
 
@@ -132,7 +132,7 @@ A book source type has the following fields available:
     
 - Comments
     
-In the code, you can specify the fields that are important for your bibliography style. Even when  **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
+In the code, you can specify the fields that are important for your bibliography style. Even when **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
 
 
 

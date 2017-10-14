@@ -20,9 +20,9 @@ Represents a journal entry in a Journal folder.
 
 A journal entry represents a record of all Outlook-moderated transactions for any given period.
 
-Use the  **[CreateItem](application-createitem-method-outlook.md)** method to create a **JournalItem** object that represents a new journal entry.
+Use the **[CreateItem](application-createitem-method-outlook.md)** method to create a **JournalItem** object that represents a new journal entry.
 
-Use  **[Items](folder-items-property-outlook.md)** ( _index_ ), where _index_ is the index number of a journal entry or a value used to match the default property of a journal entry, to return a single **JournalItem** object from a Journal folder.
+Use **[Items](folder-items-property-outlook.md)** ( _index_ ), where _index_ is the index number of a journal entry or a value used to match the default property of a journal entry, to return a single **JournalItem** object from a Journal folder.
 
 
 ## Example

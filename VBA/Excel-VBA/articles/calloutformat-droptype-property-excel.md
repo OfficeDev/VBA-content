@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.DropType Property (Excel)
 
-Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** .
+Returns a value that indicates where the callout line attaches to the callout text box. Read-only **[MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -33,9 +33,9 @@ Returns a value that indicates where the callout line attaches to the callout te
 | **msoCalloutDropBottom**|
 | **msoCalloutDropCustom**|
 | **msoCalloutDropTop**|
-If the callout drop type is  **msoCalloutDropCustom** , the values of the **[Drop](calloutformat-drop-property-excel.md)** and **[AutoAttach](calloutformat-autoattach-property-excel.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
+If the callout drop type is **msoCalloutDropCustom** , the values of the **[Drop](calloutformat-drop-property-excel.md)** and **[AutoAttach](calloutformat-autoattach-property-excel.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
 
-This property is read-only. Use the  **[PresetDrop](calloutformat-presetdrop-method-excel.md)** method to set the value of this property.
+This property is read-only. Use the **[PresetDrop](calloutformat-presetdrop-method-excel.md)** method to set the value of this property.
 
 
 ## Example

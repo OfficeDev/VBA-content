@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # OlSharingProvider Enumeration (Outlook)
 
-Indicates the sharing provider associated with a  **[SharingItem](sharingitem-object-outlook.md)** object.
+Indicates the sharing provider associated with a **[SharingItem](sharingitem-object-outlook.md)** object.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **olProviderExchange**|1|Represents the Exchange sharing provider.|
-| **olProviderFederate**|7|Represents a federated sharing provider. A  **SharingItem** object with this type of provider is used for sharing relationships across organizational boundares (for example, between two organizations using Microsoft Exchange Server 2010).|
+| **olProviderFederate**|7|Represents a federated sharing provider. A **SharingItem** object with this type of provider is used for sharing relationships across organizational boundares (for example, between two organizations using Microsoft Exchange Server 2010).|
 | **olProviderICal**|4|Represents the iCalendar sharing provider.|
 | **olProviderPubCal**|3|Represents the PubCal sharing provider.|
 | **olProviderRSS**|6|Represents the Really Simple Syndication (RSS) sharing provider.|

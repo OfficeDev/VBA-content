@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.GetRecurrencePattern Method (Outlook)
 
-Returns a  **[RecurrencePattern](recurrencepattern-object-outlook.md)** object that represents the recurrence attributes of a task. If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
+Returns a **[RecurrencePattern](recurrencepattern-object-outlook.md)** object that represents the recurrence attributes of a task. If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[RecurrencePattern](recurrencepattern-object-outlook.md)** object t
 
 ### Return Value
 
-A  **RecurrencePattern** that represents the recurrence attributes of the task.
+A **RecurrencePattern** that represents the recurrence attributes of the task.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Chart.PlotBy Property (Project)
-Gets or sets the way columns or rows are used as data series on the chart. Can be one of the following  **Office.XlRowCol** constants: **xlColumns** or **xlRows**. Read/write  **Long**.
+Gets or sets the way columns or rows are used as data series on the chart. Can be one of the following **Office.XlRowCol** constants: **xlColumns** or **xlRows**. Read/write **Long**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ Gets or sets the way columns or rows are used as data series on the chart. Can b
 
 ## Remarks
 
-For PivotChart reports, The  **PlotBy** property is read-only and always returns **xlColumns**.
+For PivotChart reports, The **PlotBy** property is read-only and always returns **xlColumns**.
 
 
 ## Property value

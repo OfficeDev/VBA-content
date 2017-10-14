@@ -29,7 +29,7 @@ Shows or hides the late tasks style on the active Gantt chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|If  **False**, hides the late tasks style. If **True**, shows the late tasks style.|
+| _Show_|Optional|**Boolean**|If **False**, hides the late tasks style. If **True**, shows the late tasks style.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Shows or hides the late tasks style on the active Gantt chart.
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleLate** method corresponds to the **Late Tasks** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleLate** method corresponds to the **Late Tasks** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 

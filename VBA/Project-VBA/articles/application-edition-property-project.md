@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Edition Property (Project)
 
-Gets the edition of the Project application, either Project Standard or Project Professional. Read-only  **PjEditionType**.
+Gets the edition of the Project application, either Project Standard or Project Professional. Read-only **PjEditionType**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the edition of the Project application, either Project Standard or Project 
 
 ## Remarks
 
-The  **Edition** property can be one of the following **[PjEditionType](pjeditiontype-enumeration-project.md)** constants: **pjEditionProfessional** or **pjEditionStandard**.
+The **Edition** property can be one of the following **[PjEditionType](pjeditiontype-enumeration-project.md)** constants: **pjEditionProfessional** or **pjEditionStandard**.
 
 

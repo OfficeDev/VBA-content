@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.CenterFooter Property (Excel)
 
-Center aligns the footer information in the  **PageSetup** object. Read/write **String** .
+Center aligns the footer information in the **PageSetup** object. Read/write **String** .
 
 
 ## Syntax

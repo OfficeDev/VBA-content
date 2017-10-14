@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Value Property (Access)
 
-Determines or specifies the selected  **[Page](page-object-access.md)** object. Read/write **Variant**.
+Determines or specifies the selected **[Page](page-object-access.md)** object. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Determines or specifies the selected  **[Page](page-object-access.md)** object. 
 
 ## Remarks
 
-The  **Value** property of a tab control contains the index number of the current **Page** object. There is one **Page** object for each tab in a tab control. The first **Page** object always has an index number of 0, the second has an index number of 1, and so on.
+The **Value** property of a tab control contains the index number of the current **Page** object. There is one **Page** object for each tab in a tab control. The first **Page** object always has an index number of 0, the second has an index number of 1, and so on.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
 
  **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.

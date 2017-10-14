@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.Timing Property (PowerPoint)
 
-Returns a  **[Timing](timing-object-powerpoint.md)** object that represents the timing properties for an animation sequence.
+Returns a **[Timing](timing-object-powerpoint.md)** object that represents the timing properties for an animation sequence.
 
 
 ## Syntax

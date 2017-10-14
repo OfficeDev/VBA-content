@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilters.Delete Method (Office)
 
-Deletes a filter object from the  **ODSOFilters** collection.
+Deletes a filter object from the **ODSOFilters** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Deletes a filter object from the  **ODSOFilters** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The number of the filter to delete.|
-| _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is  **False**.|
+| _DeferUpdate_|Optional|**Boolean**|Specifies whether to delay updating the filter. Default is **False**.|
 
 ## See also
 

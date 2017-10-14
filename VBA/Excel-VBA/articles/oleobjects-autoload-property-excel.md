@@ -27,12 +27,12 @@ ms.date: 06/08/2017
 
 This property is ignored by ActiveX controls. ActiveX controls are always loaded when a workbook is opened.
 
-For most OLE object types, this property shouldn't be set to  **True** . By default, the **AutoLoad** property is set to **False** for new OLE objects; this saves time and memory when Microsoft Excel is loading workbooks. The benefit of automatically loading OLE objects is that, for objects that represent volatile data, links to source data can be reestablished immediately and the objects can be rendered again, if necessary.
+For most OLE object types, this property shouldn't be set to **True** . By default, the **AutoLoad** property is set to **False** for new OLE objects; this saves time and memory when Microsoft Excel is loading workbooks. The benefit of automatically loading OLE objects is that, for objects that represent volatile data, links to source data can be reestablished immediately and the objects can be rendered again, if necessary.
 
 
 ## Example
 
-This example sets the  **AutoLoad** property for OLE object one on the active sheet.
+This example sets the **AutoLoad** property for OLE object one on the active sheet.
 
 
 ```vb

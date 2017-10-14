@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.Formula1 Property (Excel)
 
-Returns the value or expression associated with the conditional format or data validation. Can be a constant value, a string value, a cell reference, or a formula. Read-only  **String** .
+Returns the value or expression associated with the conditional format or data validation. Can be a constant value, a string value, a cell reference, or a formula. Read-only **String** .
 
 
 ## Syntax

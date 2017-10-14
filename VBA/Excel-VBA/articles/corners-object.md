@@ -18,13 +18,13 @@ Represents the corners of the specified 3-D chart. This object isn't a collectio
 
 ## Using the Corners Object
 
-Use the  **[Corners](corners-property.md)** property to return the  **Corners** object. The following example selects the corners of the chart.
+Use the **[Corners](corners-property.md)** property to return the **Corners** object. The following example selects the corners of the chart.
 
 
 ```
 myChart.Corners.Select
 ```
 
-If the chart isn't a 3-D chart, the  **Corners** property fails.
+If the chart isn't a 3-D chart, the **Corners** property fails.
 
 

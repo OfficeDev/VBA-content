@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Gradient Property (Access)
 
-Gets or sets the gradient fill applied to the specified object. Read/write  **Long**.
+Gets or sets the gradient fill applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the gradient fill applied to the specified object. Read/write  **Lo
 
 ## Remarks
 
-The  **Gradient** property contains a numeric expression that represents the gradient fill applied to the specified object. The default value of the **Gradient** property is 0, which does not apply a gradient. The values are listed in the following table.
+The **Gradient** property contains a numeric expression that represents the gradient fill applied to the specified object. The default value of the **Gradient** property is 0, which does not apply a gradient. The values are listed in the following table.
 
 
 
@@ -58,7 +58,7 @@ The  **Gradient** property contains a numeric expression that represents the gra
 |24|Linear Diagonal - Bottom Left to Top Right, Dark|
 |25|Linear Up, Dark|
 |26|Linear Diagonal - Bottom Right to Top Left, Light|
-To see the available gradient fills and apply a gradient through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a gradient fill. Next, on the  **Format** tab, in the **Control Formatting** group, click **Shape Fill**, then click  **Gradient** and choose a gradient fill. You can hover over a gradient fill to see a description.
+To see the available gradient fills and apply a gradient through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a gradient fill. Next, on the **Format** tab, in the **Control Formatting** group, click **Shape Fill**, then click **Gradient** and choose a gradient fill. You can hover over a gradient fill to see a description.
 
 This property is not surfaced in the property sheet.
 

@@ -15,10 +15,10 @@ Imports and exports pages.
 
  **Import Page**
 
-Opens the  **Import** **Page** dialog box so that you can find and select the page you want to add to the **Toolbox**.
+Opens the **Import** **Page** dialog box so that you can find and select the page you want to add to the **Toolbox**.
 
-The  **Import** **Page** dialog box is the Windows **Open** common dialog box.
+The **Import** **Page** dialog box is the Windows **Open** common dialog box.
  **Export Page**
-Opens the  **Export** **Page** dialog box so that you can select a location and name for the selected page that you want to export from the **Toolbox**.
-The  **Export** **Page** dialog box is the same as the Windows **Save** common dialog box.
+Opens the **Export** **Page** dialog box so that you can select a location and name for the selected page that you want to export from the **Toolbox**.
+The **Export** **Page** dialog box is the same as the Windows **Save** common dialog box.
 

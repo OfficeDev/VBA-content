@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # Worksheets Object (Excel)
 
-A collection of all the  **[Worksheet](worksheet-object-excel.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
+A collection of all the **[Worksheet](worksheet-object-excel.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
 
 
 ## Remarks
 
-The  **Worksheet** object is also a member of the[Sheets](sheets-object-excel.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
+The **Worksheet** object is also a member of the[Sheets](sheets-object-excel.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
 
 
 ## Example
 
-Use the  **[Worksheets](workbook-worksheets-property-excel.md)** property to return the **Worksheets** collection.The following example moves all the worksheets to the end of the workbook.
+Use the **[Worksheets](workbook-worksheets-property-excel.md)** property to return the **Worksheets** collection.The following example moves all the worksheets to the end of the workbook.
 
 
 
@@ -34,7 +34,7 @@ Use the  **[Worksheets](workbook-worksheets-property-excel.md)** property to ret
 Worksheets.Move After:=Sheets(Sheets.Count)
 ```
 
-Use the  **[Add](worksheets-add-method-excel.md)** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
+Use the **[Add](worksheets-add-method-excel.md)** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
 
 
 
@@ -43,7 +43,7 @@ Use the  **[Add](worksheets-add-method-excel.md)** method to create a new worksh
 Worksheets.Add Count:=2, Before:=Sheets(1)
 ```
 
-Use  **Worksheets** ( _index_ ), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
+Use **Worksheets** ( _index_ ), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 
 

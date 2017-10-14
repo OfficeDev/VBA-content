@@ -30,13 +30,13 @@ Cell
 
 ## Remarks
 
-A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The  **FromCell** property returns the **Cell** object for the cell from which the connection originates.
+A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The **FromCell** property returns the **Cell** object for the cell from which the connection originates.
 
-Following is a list of possible connections and the values of their related  **FromCell** properties.
+Following is a list of possible connections and the values of their related **FromCell** properties.
 
-A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The  **FromCell** property returns the **Cell** object for the cell from which the connection originates.
+A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The **FromCell** property returns the **Cell** object for the cell from which the connection originates.
 
-Following is a list of possible connections and the values of their related  **FromCell** properties.
+Following is a list of possible connections and the values of their related **FromCell** properties.
 
 
 ### From the begin or end cell of a 1-D shape to...
@@ -44,22 +44,22 @@ Following is a list of possible connections and the values of their related  **F
 
 
 
--  **A connection point cell:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+- **A connection point cell:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and one from the endpoint's Y cell to the guide's Angle cell. The **FromCell** property of one **Connect** object returns the BeginX or EndX cell and, the **FromCell** property of the other **Connect** object returns the BeginY or EndY cell, depending on which endpoint is glued.
+- **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and one from the endpoint's Y cell to the guide's Angle cell. The **FromCell** property of one **Connect** object returns the BeginX or EndX cell and, the **FromCell** property of the other **Connect** object returns the BeginY or EndY cell, depending on which endpoint is glued.
     
--  **The pin of a 2-D shape (creates dynamic glue):** The shape from which the glue originates must be routable or have a dynamic glue type. The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+- **The pin of a 2-D shape (creates dynamic glue):** The shape from which the glue originates must be routable or have a dynamic glue type. The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+- **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **The begin or end cell of a 1-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+- **The begin or end cell of a 1-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
+- **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns either the BeginX or EndX cell, depending on which endpoint was glued.
     
 
 ### From the edge (a cell in the Alignment section) of a 2-D shape to a cell of a guide or guide point:
 
-The  **FromCell** property returns the Alignment cell that is glued to the guide.
+The **FromCell** property returns the Alignment cell that is glued to the guide.
 
 
 ### From an outward or inward/outward connection point cell of a 1-D shape to an inward or inward/outward connection point cell that is not a cell of a guide or guide point:
@@ -77,15 +77,15 @@ The  **FromCell** property returns the Alignment cell that is glued to the guide
 
 
 
--  **A connection point cell:** The **FromCell** property returns the Controls.X _i_ cell.
+- **A connection point cell:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created. The **FromCell** property of one **Connect** object returns Controls.X _i_ and the second **Connect** object returns Controls.Y _i_ .
+- **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created. The **FromCell** property of one **Connect** object returns Controls.X _i_ and the second **Connect** object returns Controls.Y _i_ .
     
--  **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns the Controls.X _i_ cell.
+- **Any cell of a vertex row in a Geometry section:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **The begin or end cell of a 1-D shape that isn't a guide or guide point:** The **FromCell** property returns the Controls.X _i_ cell.
+- **The begin or end cell of a 1-D shape that isn't a guide or guide point:** The **FromCell** property returns the Controls.X _i_ cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns the Controls.X _i_ cell.
+- **The edge (a cell in the Alignment section) of a 2-D shape:** The **FromCell** property returns the Controls.X _i_ cell.
     
 
 ## Example

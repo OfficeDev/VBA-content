@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReturnVars.Count Property (Access)
 
-Gets the number of  **[ReturnVar](returnvar-object-access.md)** objects in the **[ReturnVars](returnvars-object-access.md)** collection. Read-only **Long**.
+Gets the number of **[ReturnVar](returnvar-object-access.md)** objects in the **[ReturnVars](returnvars-object-access.md)** collection. Read-only **Long**.
 
 
 ## Syntax

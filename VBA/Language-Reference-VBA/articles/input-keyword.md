@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Input <keyword>
 
-The  **Input** keyword is used in these contexts:
+The **Input** keyword is used in these contexts:
 
 [Input Function](input-function.md)
 

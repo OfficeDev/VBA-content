@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # FullSeriesCollection.Count Property (PowerPoint)
 
-Returns a  **Long** that represents the number of full series in the collection. Read-only.
+Returns a **Long** that represents the number of full series in the collection. Read-only.
 
 
 ## Syntax

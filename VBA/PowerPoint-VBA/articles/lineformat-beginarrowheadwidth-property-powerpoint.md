@@ -30,7 +30,7 @@ MsoArrowheadWidth
 
 ## Remarks
 
-The value of the  **BeginArrowheadWidth** property can be one of these **MsoArrowheadWidth** constants
+The value of the **BeginArrowheadWidth** property can be one of these **MsoArrowheadWidth** constants
 
 
 ||

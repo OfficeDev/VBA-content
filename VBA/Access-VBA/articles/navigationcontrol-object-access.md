@@ -18,11 +18,11 @@ This object represents a navigation control on a form.
 
 ## Remarks
 
-The  **[NavigationControl](navigationcontrol-object-access.md)** contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](http://msdn.microsoft.com/library/ac6ba9b4-45aa-0d92-d01d-fd8e8b9cede6%28Office.15%29.aspx)** objects. When a user clicks a navigation button, the assocated form or report is displayed in the control specified by the **[SubForm](http://msdn.microsoft.com/library/e99cec35-3186-98ec-3318-0bcfb47e97ba%28Office.15%29.aspx)** property.
+The **[NavigationControl](navigationcontrol-object-access.md)** contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](http://msdn.microsoft.com/library/ac6ba9b4-45aa-0d92-d01d-fd8e8b9cede6%28Office.15%29.aspx)** objects. When a user clicks a navigation button, the assocated form or report is displayed in the control specified by the **[SubForm](http://msdn.microsoft.com/library/e99cec35-3186-98ec-3318-0bcfb47e97ba%28Office.15%29.aspx)** property.
 
-Use the  **[Tabs](http://msdn.microsoft.com/library/a8b2546c-9b1f-a8ff-1a6f-8e607415ffec%28Office.15%29.aspx)** property to return the collection of navigation buttons for the navigation control.
+Use the **[Tabs](http://msdn.microsoft.com/library/a8b2546c-9b1f-a8ff-1a6f-8e607415ffec%28Office.15%29.aspx)** property to return the collection of navigation buttons for the navigation control.
 
-Use  **[SelectedTab](http://msdn.microsoft.com/library/8e6da4b2-eada-51db-b198-da8213c647ac%28Office.15%29.aspx)** property to return the navigation button that is currently selected.
+Use **[SelectedTab](http://msdn.microsoft.com/library/8e6da4b2-eada-51db-b198-da8213c647ac%28Office.15%29.aspx)** property to return the navigation button that is currently selected.
 
 
 ## Events

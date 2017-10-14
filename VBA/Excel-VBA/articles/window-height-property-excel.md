@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Height Property (Excel)
 
-Returns or sets a  **Double** value that represents the height, in points, of the window.
+Returns or sets a **Double** value that represents the height, in points, of the window.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Double** value that represents the height, in points, of th
 
 ## Remarks
 
-Use the  **[UsableHeight](window-usableheight-property-excel.md)** property to determine the maximum size for the window. You cannot set this property if the window is maximized or minimized. Use the **[WindowState](window-windowstate-property-excel.md)** property to determine the window state.
+Use the **[UsableHeight](window-usableheight-property-excel.md)** property to determine the maximum size for the window. You cannot set this property if the window is maximized or minimized. Use the **[WindowState](window-windowstate-property-excel.md)** property to determine the window state.
 
 
 ## See also

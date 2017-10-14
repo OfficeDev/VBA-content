@@ -25,7 +25,7 @@ Sets the "drilled" (expanded, or visible) status of the cube field members in th
 
 ## Remarks
 
-The  **Drilled** property accepts an array. Each element of the array corresponds to a level of the cube field that has been expanded. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are visible (expanded) at the corresponding level of the control. See the **[TreeviewControl](treeviewcontrol-object-excel.md)** object's **[Hidden](treeviewcontrol-hidden-property-excel.md)** property to determine when members are explicitly hidden in an expanded view.
+The **Drilled** property accepts an array. Each element of the array corresponds to a level of the cube field that has been expanded. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are visible (expanded) at the corresponding level of the control. See the **[TreeviewControl](treeviewcontrol-object-excel.md)** object's **[Hidden](treeviewcontrol-hidden-property-excel.md)** property to determine when members are explicitly hidden in an expanded view.
 
 
 

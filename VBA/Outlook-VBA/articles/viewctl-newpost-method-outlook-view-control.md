@@ -15,7 +15,7 @@ Creates and displays a new post item.
 
  _expression_. **NewPost**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

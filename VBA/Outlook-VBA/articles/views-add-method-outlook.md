@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Views.Add Method (Outlook)
 
-Creates a new view in the  **[Views](views-object-outlook.md)** collection.
+Creates a new view in the **[Views](views-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -36,12 +36,12 @@ Creates a new view in the  **[Views](views-object-outlook.md)** collection.
 
 ### Return Value
 
-A  **[View](view-object-outlook.md)** object that represents the new view.
+A **[View](view-object-outlook.md)** object that represents the new view.
 
 
 ## Remarks
 
-If you add a  **View** to a **Views** collection of a folder that is not the current folder, you must first save a copy of the **Views** collection object and then add the **View** to this collection object, as shown in the code sample below. This is a work-around for an existing problem which will otherwise cause a call to **[View.Apply](view-apply-method-outlook.md)** for the added **View** to fail.
+If you add a **View** to a **Views** collection of a folder that is not the current folder, you must first save a copy of the **Views** collection object and then add the **View** to this collection object, as shown in the code sample below. This is a work-around for an existing problem which will otherwise cause a call to **[View.Apply](view-apply-method-outlook.md)** for the added **View** to fail.
 
 
 ```vb

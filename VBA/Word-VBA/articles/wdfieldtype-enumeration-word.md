@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # WdFieldType Enumeration (Word)
 
-Specifies a Microsoft Word field. Unless otherwise specified, the field types described in this enumeration can be added interactively to a Word document by using the  **Field** dialog box. See the Word Help for more information about specific field codes.
+Specifies a Microsoft Word field. Unless otherwise specified, the field types described in this enumeration can be added interactively to a Word document by using the **Field** dialog box. See the Word Help for more information about specific field codes.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **wdFieldAddin**|81|Add-in field. Not available through the  **Field** dialog box. Used to store data that is hidden from the user interface.|
+| **wdFieldAddin**|81|Add-in field. Not available through the **Field** dialog box. Used to store data that is hidden from the user interface.|
 | **wdFieldAddressBlock**|93|AddressBlock field.|
 | **wdFieldAdvance**|84|Advance field.|
 | **wdFieldAsk**|38|Ask field.|
@@ -34,8 +34,8 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldData**|40|Data field.|
 | **wdFieldDatabase**|78|Database field.|
 | **wdFieldDate**|31|Date field.|
-| **wdFieldDDE**|45|DDE field. No longer available through the  **Field** dialog box, but supported for documents created in earlier versions of Word.|
-| **wdFieldDDEAuto**|46|DDEAuto field. No longer available through the  **Field** dialog box, but supported for documents created in earlier versions of Word.|
+| **wdFieldDDE**|45|DDE field. No longer available through the **Field** dialog box, but supported for documents created in earlier versions of Word.|
+| **wdFieldDDEAuto**|46|DDEAuto field. No longer available through the **Field** dialog box, but supported for documents created in earlier versions of Word.|
 | **wdFieldDisplayBarcode**|99|DisplayBarcode field.|
 | **wdFieldDocProperty**|85|DocProperty field.|
 | **wdFieldDocVariable**|64|DocVariable field.|
@@ -46,7 +46,7 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldFileName**|29|FileName field.|
 | **wdFieldFileSize**|69|FileSize field.|
 | **wdFieldFillIn**|39|Fill-In field.|
-| **wdFieldFootnoteRef**|5|FootnoteRef field. Not available through the  **Field** dialog box. Inserted programmatically or interactively.|
+| **wdFieldFootnoteRef**|5|FootnoteRef field. Not available through the **Field** dialog box. Inserted programmatically or interactively.|
 | **wdFieldFormCheckBox**|71|FormCheckBox field. |
 | **wdFieldFormDropDown**|83|FormDropDown field. |
 | **wdFieldFormTextInput**|70|FormText field. |
@@ -57,8 +57,8 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldHTMLActiveX**|91|HTMLActiveX field. Not currently supported.|
 | **wdFieldHyperlink**|88|Hyperlink field.|
 | **wdFieldIf**|7|If field.|
-| **wdFieldImport**|55|Import field. Cannot be added through the  **Field** dialog box, but can be added interactively or through code.|
-| **wdFieldInclude**|36|Include field. Cannot be added through the  **Field** dialog box, but can be added interactively or through code.|
+| **wdFieldImport**|55|Import field. Cannot be added through the **Field** dialog box, but can be added interactively or through code.|
+| **wdFieldInclude**|36|Include field. Cannot be added through the **Field** dialog box, but can be added interactively or through code.|
 | **wdFieldIncludePicture**|67|IncludePicture field.|
 | **wdFieldIncludeText**|68|IncludeText field.|
 | **wdFieldIndex**|8|Index field.|
@@ -79,7 +79,7 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldNumChars**|28|NumChars field.|
 | **wdFieldNumPages**|26|NumPages field.|
 | **wdFieldNumWords**|27|NumWords field.|
-| **wdFieldOCX**|87|OCX field. Cannot be added through the  **Field** dialog box, but can be added through code by using the **AddOLEControl** method of the **[Shapes](shapes-object-word.md)** collection or of the **[InlineShapes](inlineshapes-object-word.md)** collection.|
+| **wdFieldOCX**|87|OCX field. Cannot be added through the **Field** dialog box, but can be added through code by using the **AddOLEControl** method of the **[Shapes](shapes-object-word.md)** collection or of the **[InlineShapes](inlineshapes-object-word.md)** collection.|
 | **wdFieldPage**|33|Page field.|
 | **wdFieldPageRef**|37|PageRef field.|
 | **wdFieldPrint**|48|Print field.|

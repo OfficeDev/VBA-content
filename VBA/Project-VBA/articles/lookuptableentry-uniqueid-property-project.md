@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.UniqueID Property (Project)
 
-Gets the unique identification number of the  **[LookupTableEntry](lookuptableentry-object-project.md)** object. Read-only **Long**.
+Gets the unique identification number of the **[LookupTableEntry](lookuptableentry-object-project.md)** object. Read-only **Long**.
 
 
 ## Syntax

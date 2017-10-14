@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.AllowEdit Property (Excel)
 
-Returns a  **Boolean** value that indicates if the range can be edited on a protected worksheet.
+Returns a **Boolean** value that indicates if the range can be edited on a protected worksheet.
 
 
 ## Syntax

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # FileDialogFilter Object (Office)
 
-Represents a file filter in a file dialog box displayed through the  **FileDialog** object. Each file filter determines which files are displayed in the file dialog box.
+Represents a file filter in a file dialog box displayed through the **FileDialog** object. Each file filter determines which files are displayed in the file dialog box.
 
 
 ## Remarks
 
-Use the  **Item** method with the **FileDialogFilters** collection to return a **FileDialogFilter** object. Use the **Add** method to add a **FileDialogFilter** object to the **FileDialogFilters** collection. You can return the extensions that a **FileDialogFilter** object uses to filter files with the **Extensions** property and you can return the description of the filter with the **Description** property; however, both of these properties are read-only. If you want to set the extension or description you must use the **Add** method.
+Use the **Item** method with the **FileDialogFilters** collection to return a **FileDialogFilter** object. Use the **Add** method to add a **FileDialogFilter** object to the **FileDialogFilters** collection. You can return the extensions that a **FileDialogFilter** object uses to filter files with the **Extensions** property and you can return the description of the filter with the **Description** property; however, both of these properties are read-only. If you want to set the extension or description you must use the **Add** method.
 
 
 ## Example
 
-The following example iterates through the default filters of the  **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
+The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
 
 
 ```

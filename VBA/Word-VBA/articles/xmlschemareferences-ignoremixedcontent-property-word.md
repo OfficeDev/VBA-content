@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLSchemaReferences.IgnoreMixedContent Property (Word)
 
-Returns a  **Boolean** that represents whether Microsoft Word preforms validation on text nodes that have element siblings and specifies whether these text nodes are saved in XML when the **[XMLSaveDataOnly](http://msdn.microsoft.com/library/f670eb62-fa5a-a3ba-4db8-d4064014e936%28Office.15%29.aspx)** property is **True** . Read/write.
+Returns a **Boolean** that represents whether Microsoft Word preforms validation on text nodes that have element siblings and specifies whether these text nodes are saved in XML when the **[XMLSaveDataOnly](http://msdn.microsoft.com/library/f670eb62-fa5a-a3ba-4db8-d4064014e936%28Office.15%29.aspx)** property is **True** . Read/write.
 
 
 ## Syntax

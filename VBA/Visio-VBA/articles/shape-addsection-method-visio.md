@@ -38,15 +38,15 @@ Integer
 
 ## Remarks
 
-The  **AddSection** method is frequently used to add one or more Geometry sections to a shape. You can also use **AddSection** to add other sections to a shape such as Scratch, Controls, Connection Points, Actions, User-Defined Cells and ShapeData. The **AddSection** method returns the logical index of the added section.
+The **AddSection** method is frequently used to add one or more Geometry sections to a shape. You can also use **AddSection** to add other sections to a shape such as Scratch, Controls, Connection Points, Actions, User-Defined Cells and ShapeData. The **AddSection** method returns the logical index of the added section.
 
-The sections that you can add to a shape correspond to the choices shown by the  **Insert Section** dialog box when the shape is displayed in a ShapeSheet window.
+The sections that you can add to a shape correspond to the choices shown by the **Insert Section** dialog box when the shape is displayed in a ShapeSheet window.
 
-If you try to add a non-Geometry section to a shape that already has that section, the  **AddSection** method raises an exception. Use the **SectionExists** property to determine if a shape already has a section with a given logical index.
+If you try to add a non-Geometry section to a shape that already has that section, the **AddSection** method raises an exception. Use the **SectionExists** property to determine if a shape already has a section with a given logical index.
 
-A new section has no rows. Use the  **AddRow** method to add rows to the new section.
+A new section has no rows. Use the **AddRow** method to add rows to the new section.
 
-The  **GeometryCount** property returns the number of Geometry sections included in a shape. Use the following code to add a Geometry section to a shape:
+The **GeometryCount** property returns the number of Geometry sections included in a shape. Use the following code to add a Geometry section to a shape:
 
 
 
@@ -59,9 +59,9 @@ Shape.AddSection(visSectionFirstComponent + i)
  where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent** .
 
 
-- When 0 <= i <  **Shape.GeometryCount** , the new section precedes the present i'th Geometry section.
+- When 0 <= i < **Shape.GeometryCount** , the new section precedes the present i'th Geometry section.
     
-- When  **Shape.GeometryCount** <= i < **visSectionLastComponent** - **visSectionFirstComponent** , the new section is the last section.
+- When **Shape.GeometryCount** <= i < **visSectionLastComponent** - **visSectionFirstComponent** , the new section is the last section.
     
 
 

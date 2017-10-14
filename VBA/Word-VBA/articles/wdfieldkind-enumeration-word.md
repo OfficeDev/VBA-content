@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdFieldKind Enumeration (Word)
 
-Specifies the type of field for a  **Field** object.
+Specifies the type of field for a **Field** object.
 
 
 

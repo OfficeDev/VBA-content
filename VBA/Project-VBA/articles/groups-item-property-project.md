@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Groups.Item Property (Project)
 
-Gets a single  **Group** object from the **Groups** collection. Read-only **Group**.
+Gets a single **Group** object from the **Groups** collection. Read-only **Group**.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Gets or sets whether the printed page is rotated 180 degrees. Read/write.
 
  _expression_. **PageRotated**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_A variable that represents an **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-The  **PageRotated** property setting corresponds to the value of the **Paper sheet rotation** box on the **Printer Setup Wizard** tab of the **Advanced Printer Setup** dialog box in the Microsoft Publisher user interface.
+The **PageRotated** property setting corresponds to the value of the **Paper sheet rotation** box on the **Printer Setup Wizard** tab of the **Advanced Printer Setup** dialog box in the Microsoft Publisher user interface.
 
 
 ## See also

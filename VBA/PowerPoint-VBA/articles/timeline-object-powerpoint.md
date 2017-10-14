@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TimeLine Object (PowerPoint)
 
-Stores animation information for a  **Master**, **Slide**, or **SlideRange** object.
+Stores animation information for a **Master**, **Slide**, or **SlideRange** object.
 
 
 ## Example
 
-Use the [TimeLine](http://msdn.microsoft.com/library/f57756b5-9b13-336b-0d5c-00161590ba03%28Office.15%29.aspx)property of the  **[Master](master-object-powerpoint.md)**, **[Slide](slide-object-powerpoint.md)**, or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object to return a **TimeLine** object.
+Use the [TimeLine](http://msdn.microsoft.com/library/f57756b5-9b13-336b-0d5c-00161590ba03%28Office.15%29.aspx)property of the **[Master](master-object-powerpoint.md)**, **[Slide](slide-object-powerpoint.md)**, or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object to return a **TimeLine** object.
 
-The  **TimeLine** object's **[MainSequence](http://msdn.microsoft.com/library/b71f83ad-6d92-cc10-9692-a7567ca0a077%28Office.15%29.aspx)** property gains access to the main animation sequence, while the **[InteractiveSequences](http://msdn.microsoft.com/library/6dbd6b26-6715-e66c-747f-12f1a16416c8%28Office.15%29.aspx)** property gains access to the collection of interactive animation sequences of a slide or slide range.
+The **TimeLine** object's **[MainSequence](http://msdn.microsoft.com/library/b71f83ad-6d92-cc10-9692-a7567ca0a077%28Office.15%29.aspx)** property gains access to the main animation sequence, while the **[InteractiveSequences](http://msdn.microsoft.com/library/6dbd6b26-6715-e66c-747f-12f1a16416c8%28Office.15%29.aspx)** property gains access to the collection of interactive animation sequences of a slide or slide range.
 
 To reference a timeline object, use syntax similar to these code examples:
 

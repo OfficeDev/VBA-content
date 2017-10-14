@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Shape.Width Property (Publisher)
 
-Returns or sets a  **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
+Returns or sets a **Variant** that represents the width (in points) of a specified table column or shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 

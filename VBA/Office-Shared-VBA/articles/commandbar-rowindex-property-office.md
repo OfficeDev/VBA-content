@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.RowIndex Property (Office)
 
-Gets or sets the docking order of a command bar in relation to other command bars in the same docking area. Can be an integer greater than zero, or either of the following  **MsoBarRow** constants: **msoBarRowFirst** or **msoBarRowLast**. Read/write.
+Gets or sets the docking order of a command bar in relation to other command bars in the same docking area. Can be an integer greater than zero, or either of the following **MsoBarRow** constants: **msoBarRowFirst** or **msoBarRowLast**. Read/write.
 
 
 ## 
@@ -36,7 +36,7 @@ Several command bars can share the same row index, and command bars with lower n
 
 ## Example
 
-This example adjusts the position of the command bar named "Custom" by moving it to the left 110 pixels more than the default, and it makes this command bar the first to be docked by changing its row index to  **msoBarRowFirst**.
+This example adjusts the position of the command bar named "Custom" by moving it to the left 110 pixels more than the default, and it makes this command bar the first to be docked by changing its row index to **msoBarRowFirst**.
 
 
 ```

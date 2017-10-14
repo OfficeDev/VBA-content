@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReceivedTime Property (Outlook)
 
-Returns a  **Date** indicating the date and time at which the **[SharingItem](sharingitem-object-outlook.md)** was received. Read-only.
+Returns a **Date** indicating the date and time at which the **[SharingItem](sharingitem-object-outlook.md)** was received. Read-only.
 
 
 ## Syntax

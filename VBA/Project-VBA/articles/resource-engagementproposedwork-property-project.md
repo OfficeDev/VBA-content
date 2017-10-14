@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementProposedWork Property (Project)
 
-Returns the proposed work for the engagement. Read-only  **Double**. Introduced in Office 2016.
+Returns the proposed work for the engagement. Read-only **Double**. Introduced in Office 2016.
 
 
 ## Syntax

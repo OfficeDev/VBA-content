@@ -29,10 +29,10 @@ Sets the format of nonworking times.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following  **[PjNonWorkingPlacement](pjnonworkingplacement-enumeration-project.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
+| _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following **[PjNonWorkingPlacement](pjnonworkingplacement-enumeration-project.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
 | _Calendar_|Optional|**String**|The name of the calendar to format.|
-| _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
-| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -41,9 +41,9 @@ Sets the format of nonworking times.
 
 ## Remarks
 
-Using the  **TimescaleNonWorking** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
+Using the **TimescaleNonWorking** method without specifying any arguments displays the **Timescale** dialog box with the **Non-working Time** tab selected.
 
-To set nonworking time format by using a hexadecimal RGB value for color, see  **[TimescaleNonWorkingEx](application-timescalenonworkingex-method-project.md)**.
+To set nonworking time format by using a hexadecimal RGB value for color, see **[TimescaleNonWorkingEx](application-timescalenonworkingex-method-project.md)**.
 
 
 ## Example

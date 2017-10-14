@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.Resource Property (Project)
 
-Gets a  **[Resource](resource-object-project.md)** object representing the resource in the active cell. Read-only **Resource**.
+Gets a **[Resource](resource-object-project.md)** object representing the resource in the active cell. Read-only **Resource**.
 
 
 ## Syntax

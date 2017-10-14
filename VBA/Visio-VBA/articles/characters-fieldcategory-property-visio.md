@@ -30,13 +30,13 @@ Integer
 
 ## Remarks
 
-If the  **Characters** object does not contain a field or contains non-field characters, the **FieldCategory** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldCategory** property.
+If the **Characters** object does not contain a field or contains non-field characters, the **FieldCategory** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldCategory** property.
 
-Field categories correspond to those in the  **Category** list in the **Field** dialog box (click **Field** on the **Insert** tab).
+Field categories correspond to those in the **Category** list in the **Field** dialog box (click **Field** on the **Insert** tab).
 
-To add a custom field, use the  **AddCustomField** method.
+To add a custom field, use the **AddCustomField** method.
 
-The following constants for field categories are declared by the Visio type library in  **VisFieldCategories** .
+The following constants for field categories are declared by the Visio type library in **VisFieldCategories** .
 
 
 

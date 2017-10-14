@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Slicer.SlicerCacheType Property (Excel)
 
-Returns the type of the slicer cache - slicer or timeline.  **XlSlicerCacheType** Read-only
+Returns the type of the slicer cache - slicer or timeline. **XlSlicerCacheType** Read-only
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.NumberFormat Property (Word)
 
-Returns or sets the format code for the object. Read/write  **String** .
+Returns or sets the format code for the object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the format code for the object. Read/write  **String** .
 
 ## Remarks
 
-The format code is the same string as the  **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](datalabel-numberformatlocal-property-word.md)** properties.
+The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](datalabel-numberformatlocal-property-word.md)** properties.
 
 
 ## See also

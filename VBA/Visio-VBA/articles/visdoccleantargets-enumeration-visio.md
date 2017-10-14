@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDocCleanTargets Enumeration (Visio)
 
-Flags passed to the  **Document.Clean** method to indicate which objects to examine.
+Flags passed to the **Document.Clean** method to indicate which objects to examine.
 
 
 

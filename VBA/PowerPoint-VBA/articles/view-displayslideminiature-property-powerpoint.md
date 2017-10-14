@@ -30,11 +30,11 @@ MsoTriState
 
 ## Remarks
 
-This property is not available in slide show view and slide sorter view. The slide miniature window isn't a member of either the  **Windows** collection or the **SlideShowWindows** collection.
+This property is not available in slide show view and slide sorter view. The slide miniature window isn't a member of either the **Windows** collection or the **SlideShowWindows** collection.
 
-The fit percentage is determined by a combination of the size of the slide pane and the size of the presentation window. To determine the fit percentage, set the  **[ZoomToFit](view-zoomtofit-property-powerpoint.md)** property to **True** and then return the value of the **[Zoom](slideshowview-zoom-property-powerpoint.md)** property.
+The fit percentage is determined by a combination of the size of the slide pane and the size of the presentation window. To determine the fit percentage, set the **[ZoomToFit](view-zoomtofit-property-powerpoint.md)** property to **True** and then return the value of the **[Zoom](slideshowview-zoom-property-powerpoint.md)** property.
 
-The value of the  **DisplaySlideMiniature** property can be one of these **MsoTriState** constants.
+The value of the **DisplaySlideMiniature** property can be one of these **MsoTriState** constants.
 
 
 

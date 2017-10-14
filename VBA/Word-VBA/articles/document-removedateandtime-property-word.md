@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.RemoveDateAndTime Property (Word)
 
-Sets or returns a  **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
+Sets or returns a **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriteria2.Item Property (Project)
 
-Gets a single item from a collection. Read-only  **GroupCriterion2**.
+Gets a single item from a collection. Read-only **GroupCriterion2**.
 
 
 ## Syntax

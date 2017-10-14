@@ -28,7 +28,7 @@ Occurs when the selection handle is changed within a window in Project.
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the selection occurs.|
 | _sel_|Required|**Selection**|The selection.|
-| _selType_|Required|**Long**|The type of data included in the selection. Can be one of the following  **PjItemType** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.|
+| _selType_|Required|**Long**|The type of data included in the selection. Can be one of the following **PjItemType** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.|
 
 ### Return Value
 
@@ -37,6 +37,6 @@ nothing
 
 ## Remarks
 
-The  **WindowSelectionChange** event does not occur when changing the selection on the right pane of a **Task Usage** or **Resource Usage** view, or when changing the selection within a node in the ** Network Diagram** view.
+The **WindowSelectionChange** event does not occur when changing the selection on the right pane of a **Task Usage** or **Resource Usage** view, or when changing the selection within a node in the ** Network Diagram** view.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailSystem Property (Excel)
 
-Returns the mail system that's installed on the host machine. Read-only  **[XlMailSystem](xlmailsystem-enumeration-excel.md)** .
+Returns the mail system that's installed on the host machine. Read-only **[XlMailSystem](xlmailsystem-enumeration-excel.md)** .
 
 
 ## Syntax

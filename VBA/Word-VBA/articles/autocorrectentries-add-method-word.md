@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrectEntries.Add Method (Word)
 
-Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect entry added to the list of available AutoCorrect entries.
+Returns an **AutoCorrectEntry** object that represents a plain-text AutoCorrect entry added to the list of available AutoCorrect entries.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect
 
 ## Remarks
 
-Use the  **AddRichText** method to create a formatted AutoCorrect entry.
+Use the **AddRichText** method to create a formatted AutoCorrect entry.
 
 
 ## Example

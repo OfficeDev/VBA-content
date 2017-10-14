@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MultiThreadedCalculation.ThreadMode Property (Excel)
 
-Returns or sets the thread mode for the specified  **MultiThreadedCalculation** object. Read/write **XlThreadMode** .
+Returns or sets the thread mode for the specified **MultiThreadedCalculation** object. Read/write **XlThreadMode** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the thread mode for the specified  **MultiThreadedCalculation** 
 
 ## Remarks
 
-You can set the thread mode to either  **XlThreadModeAutomatic** or **XlThreadModeManual** .
+You can set the thread mode to either **XlThreadModeAutomatic** or **XlThreadModeManual** .
 
 
 ## See also

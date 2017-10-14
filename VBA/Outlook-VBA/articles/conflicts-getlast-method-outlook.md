@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflicts.GetLast Method (Outlook)
 
-Returns the last object in the  **[Conflicts](conflicts-object-outlook.md)** collection.
+Returns the last object in the **[Conflicts](conflicts-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the last object in the  **[Conflicts](conflicts-object-outlook.md)** col
 
 ### Return Value
 
-A  **[Conflict](conflict-object-outlook.md)** object that represents the last object contained by the collection.
+A **[Conflict](conflict-object-outlook.md)** object that represents the last object contained by the collection.
 
 
 ## Remarks

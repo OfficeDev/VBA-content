@@ -29,7 +29,7 @@ Parses a column of cells that contain text into several columns.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Destination_|Optional| **Variant**|A  **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
+| _Destination_|Optional| **Variant**|A **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
 | _DataType_|Optional| **[XlTextParsingType](xltextparsingtype-enumeration-excel.md)**|The format of the text to be split into columns.|
 | _TextQualifier_|Optional| **[XlTextQualifier](xltextqualifier-enumeration-excel.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
 | _ConsecutiveDelimiter_|Optional| **Variant**| **True** to have Microsoft Excel consider consecutive delimiters as one delimiter. The default value is **False** .|
@@ -75,9 +75,9 @@ The following table shows the results of importing text into Excel for various i
 | **xlYDMFormat** . YDM Date|
 | **xlEMDFormat** . EMD Date|
 | **xlSkipColumn** . Skip Column|
-You can use  **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
+You can use **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
 
-The column specifiers can be in any order. If a given column specifier is not present for a particular column in the input data, the column is parsed with the  **xlGeneralFormat** setting. This example causes the third column to be skipped, the first column to be parsed as text, and the remaining columns in the source data to be parsed with the **xlGeneralFormat** setting.
+The column specifiers can be in any order. If a given column specifier is not present for a particular column in the input data, the column is parsed with the **xlGeneralFormat** setting. This example causes the third column to be skipped, the first column to be parsed as text, and the remaining columns in the source data to be parsed with the **xlGeneralFormat** setting.
 
  `Array(Array(3, 9), Array(1, 2))`
 

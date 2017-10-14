@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **ShowScrollBars** property value can be any combination of the following **VisScrollbarStates** constants, which are declared in the Visio type library. The default value is **visScrollBarBoth** , which shows both horizontal and vertical scroll bars.
+The **ShowScrollBars** property value can be any combination of the following **VisScrollbarStates** constants, which are declared in the Visio type library. The default value is **visScrollBarBoth** , which shows both horizontal and vertical scroll bars.
 
 
 

@@ -17,9 +17,9 @@ ms.date: 06/08/2017
 
 - The sum of the memory requirements for all module-level variables in this [module](vbe-glossary.md) exceeds 64K.
     
-    This is the storage limit for this module. If appropriate, you can declare some of your variables as  **Public** in another module, or if some module-level variables are used only in one procedure, you can declare them within that procedure. If you declared variables at module level because you want them to retain their value between procedure invocations, you can instead declare them as **Static** within the procedure in which they are referenced.
+    This is the storage limit for this module. If appropriate, you can declare some of your variables as **Public** in another module, or if some module-level variables are used only in one procedure, you can declare them within that procedure. If you declared variables at module level because you want them to retain their value between procedure invocations, you can instead declare them as **Static** within the procedure in which they are referenced.
     
-     **Note**  Available space can vary among operating systems.
+    **Note**  Available space can vary among operating systems.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

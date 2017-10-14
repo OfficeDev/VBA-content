@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetLighting Property (PowerPoint)
 
-Returns or sets the effects lighting used by the specified  **ThreeDFormat** object. Read/write.
+Returns or sets the effects lighting used by the specified **ThreeDFormat** object. Read/write.
 
 
 ## Syntax

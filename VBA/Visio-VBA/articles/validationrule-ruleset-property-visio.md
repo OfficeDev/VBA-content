@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRule.RuleSet Property (Visio)
 
-Returns the  **[ValidationRuleSet](validationruleset-object-visio.md)** object that contains the specified validation rule. Read-only.
+Returns the **[ValidationRuleSet](validationruleset-object-visio.md)** object that contains the specified validation rule. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns the  **[ValidationRuleSet](validationruleset-object-visio.md)** object t
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **RuleSet** property to selectively delete validation issues that belong to a particular rule set.
+The following Visual Basic for Applications (VBA) example shows how to use the **RuleSet** property to selectively delete validation issues that belong to a particular rule set.
 
 
 ```vb

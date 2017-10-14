@@ -23,7 +23,7 @@ Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/383160db-9f27-b
 
 ## Remarks
 
-The  **State** property can return one of the following three states:
+The **State** property can return one of the following three states:
 
 
 - No broadcast (0)

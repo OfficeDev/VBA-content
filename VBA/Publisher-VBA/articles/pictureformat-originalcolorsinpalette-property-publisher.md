@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.OriginalColorsInPalette Property (Publisher)
 
-Returns a  **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
+Returns a **Long** that represents the number of colors in the specified linked picture's palette. Read-only.
 
 
 ## Syntax
 
  _expression_. **OriginalColorsInPalette**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -37,11 +37,11 @@ Use either of the following properties to determine whether a shape represents a
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
     
-- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
+- The **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
     
 
 
-Use the  **[OriginalIsTrueColor](pictureformat-originalistruecolor-property-publisher.md)** property to determine whether a linked picture contains color data of 24 bits per channel or greater.
+Use the **[OriginalIsTrueColor](pictureformat-originalistruecolor-property-publisher.md)** property to determine whether a linked picture contains color data of 24 bits per channel or greater.
 
 
 ## Example

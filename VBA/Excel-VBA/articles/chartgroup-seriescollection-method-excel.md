@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SeriesCollection Method (Excel)
 
-Returns an object that represents either a single series (a  **[Series](series-object-excel.md)** object) or a collection of all the series (a **[SeriesCollection](seriescollection-object-excel.md)** collection) in the chart or chart group.
+Returns an object that represents either a single series (a **[Series](series-object-excel.md)** object) or a collection of all the series (a **[SeriesCollection](seriescollection-object-excel.md)** collection) in the chart or chart group.
 
 
 ## Syntax

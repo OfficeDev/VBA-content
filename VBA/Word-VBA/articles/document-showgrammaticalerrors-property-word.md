@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To view grammatical errors in your document, you must set the  **[CheckGrammarAsYouType](options-checkgrammarasyoutype-property-word.md)** property to **True** .
+To view grammatical errors in your document, you must set the **[CheckGrammarAsYouType](options-checkgrammarasyoutype-property-word.md)** property to **True** .
 
 
 ## Example

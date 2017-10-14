@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.WordOpenXML Property (Word)
 
-Returns a  **String** that represents the XML contained within the selection in the Microsoft Word Open XML format. Read-only.
+Returns a **String** that represents the XML contained within the selection in the Microsoft Word Open XML format. Read-only.
 
 
 ## Syntax

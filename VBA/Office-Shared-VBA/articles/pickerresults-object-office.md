@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PickerResults Object (Office)
 
-A collection of  **PickerResult** objects.
+A collection of **PickerResult** objects.
 
 
 ## Remarks
 
-Each  **PickerResult** object represents a resolved or selected item data.
+Each **PickerResult** object represents a resolved or selected item data.
 
 
 ## Example

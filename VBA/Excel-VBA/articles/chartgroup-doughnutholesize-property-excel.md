@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.DoughnutHoleSize Property (Excel)
 
-Returns or sets the size of the hole in a doughnut chart group. The hole size is expressed as a percentage of the chart size, between 10 and 90 percent. Read/write  **Long** .
+Returns or sets the size of the hole in a doughnut chart group. The hole size is expressed as a percentage of the chart size, between 10 and 90 percent. Read/write **Long** .
 
 
 ## Syntax

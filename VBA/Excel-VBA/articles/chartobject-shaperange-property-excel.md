@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.ShapeRange Property (Excel)
 
-Returns a  **[ShapeRange](shaperange-object-excel.md)** object that represents the specified object or objects. Read-only.
+Returns a **[ShapeRange](shaperange-object-excel.md)** object that represents the specified object or objects. Read-only.
 
 
 ## Syntax

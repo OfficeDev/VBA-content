@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.BreakSideBySide Method (Excel)
 
-Ends side-by-side mode if two windows are in side-by-side mode. Returns a  **Boolean** value that represents whether the method was successful.
+Ends side-by-side mode if two windows are in side-by-side mode. Returns a **Boolean** value that represents whether the method was successful.
 
 
 ## Syntax

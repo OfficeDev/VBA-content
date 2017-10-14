@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.PageSetup Property (Publisher)
 
-Returns a  **[PageSetup](pagesetup-object-publisher.md)** object representing a publication's page size, page layout and paper settings. Read-only.
+Returns a **[PageSetup](pagesetup-object-publisher.md)** object representing a publication's page size, page layout and paper settings. Read-only.
 
 
 ## Syntax
 
  _expression_. **PageSetup**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PageSetup
 
 ## Remarks
 
-You can only use the  **PageSetup** property when printing multiple pages on a single sheet of printer paper. If the page size is greater than half the paper size, Microsoft Publisher will display an error.
+You can only use the **PageSetup** property when printing multiple pages on a single sheet of printer paper. If the page size is greater than half the paper size, Microsoft Publisher will display an error.
 
 
 ## Example

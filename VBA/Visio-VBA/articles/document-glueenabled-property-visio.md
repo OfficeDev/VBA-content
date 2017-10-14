@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The value of the  **GlueEnabled** property corresponds to the setting of the **Glue** check box on the **General** tab in the **Snap &; Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
+The value of the **GlueEnabled** property corresponds to the setting of the **Glue** check box on the **General** tab in the **Snap &; Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
 
 

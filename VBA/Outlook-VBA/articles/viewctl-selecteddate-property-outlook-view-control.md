@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # ViewCtl.SelectedDate Property (Outlook View Control)
 
-Returns or sets a  **Date** value that represents the selected date. Read-only.
+Returns or sets a **Date** value that represents the selected date. Read-only.
 
 
 ## Syntax
 
  _expression_. **SelectedDate**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

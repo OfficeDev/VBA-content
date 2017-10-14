@@ -26,9 +26,9 @@ Updates rows and columns in the report table to show the specified task or resou
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Task_|Required|**Boolean**|**True** to update task data in the **Field List** task pane; **False** to update resource data.|
-| _GroupName_|Optional|**String**|Name of the group in the  **Group By** drop-down list.|
-| _FilterName_|Optional|**String**|Name of the filter in the  **Filter** drop-down list.|
-| _OutlineLevel_|Optional|**Long**|The task outline level. The default value is -1, which the equivalent of  **Show All**. Not used for resource fields (when  _Task_ is **False**).|
+| _GroupName_|Optional|**String**|Name of the group in the **Group By** drop-down list.|
+| _FilterName_|Optional|**String**|Name of the filter in the **Filter** drop-down list.|
+| _OutlineLevel_|Optional|**Long**|The task outline level. The default value is -1, which the equivalent of **Show All**. Not used for resource fields (when  _Task_ is **False**).|
 | _SafeArrayOfPjField_|Optional|**Variant**|Specifies an array of fields for the update, where each item in the array can be a [PjField](pjfield-enumeration-project.md) constant.|
 | _Task_|Required|BOOL||
 | _GroupName_|Optional|STRING||

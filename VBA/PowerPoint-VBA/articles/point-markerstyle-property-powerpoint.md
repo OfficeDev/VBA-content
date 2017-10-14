@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Point.MarkerStyle Property (PowerPoint)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](xlmarkerstyle-enumeration-powerpoint.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write **[XlMarkerStyle](xlmarkerstyle-enumeration-powerpoint.md)**.
 
 
 ## Syntax
@@ -25,29 +25,29 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
  **MarkerStyle** can be one of the following **XlMarkerStyle** constants:
 
 
--  **xlMarkerStyleAutomatic** —Automatic markers.
+- **xlMarkerStyleAutomatic** —Automatic markers.
     
--  **xlMarkerStyleCircle** —Circular markers.
+- **xlMarkerStyleCircle** —Circular markers.
     
--  **xlMarkerStyleDash** —Long bar markers.
+- **xlMarkerStyleDash** —Long bar markers.
     
--  **xlMarkerStyleDiamond** —Diamond-shaped markers.
+- **xlMarkerStyleDiamond** —Diamond-shaped markers.
     
--  **xlMarkerStyleDot** —Short bar markers.
+- **xlMarkerStyleDot** —Short bar markers.
     
--  **xlMarkerStyleNone** —No markers.
+- **xlMarkerStyleNone** —No markers.
     
--  **xlMarkerStylePicture** —Picture markers.
+- **xlMarkerStylePicture** —Picture markers.
     
--  **xlMarkerStylePlus** —Square markers with a plus sign.
+- **xlMarkerStylePlus** —Square markers with a plus sign.
     
--  **xlMarkerStyleSquare** —Square markers.
+- **xlMarkerStyleSquare** —Square markers.
     
--  **xlMarkerStyleStar** —Square markers with an asterisk.
+- **xlMarkerStyleStar** —Square markers with an asterisk.
     
--  **xlMarkerStyleTriangle** —Triangular markers.
+- **xlMarkerStyleTriangle** —Triangular markers.
     
--  **xlMarkerStyleX** —Square markers with an X.
+- **xlMarkerStyleX** —Square markers with an X.
     
 
 

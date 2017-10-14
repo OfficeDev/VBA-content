@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can set this property to  **True** only if you use parameters of type **xlRange** and if the referenced parameter value is in a single cell. The refresh occurs when you change the value of the cell.
+You can set this property to **True** only if you use parameters of type **xlRange** and if the referenced parameter value is in a single cell. The refresh occurs when you change the value of the cell.
 
 
 ## Example

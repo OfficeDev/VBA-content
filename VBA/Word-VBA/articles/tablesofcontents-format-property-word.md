@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfContents.Format Property (Word)
 
-Returns or sets the formatting for the tables of contents in the specified document. Read/write  **WdTocFormat** .
+Returns or sets the formatting for the tables of contents in the specified document. Read/write **WdTocFormat** .
 
 
 ## Syntax

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To use this property, you must have the  **[CheckLanguage](application-checklanguage-property-word.md)** property set to **True** .
+To use this property, you must have the **[CheckLanguage](application-checklanguage-property-word.md)** property set to **True** .
 
 
 ## Example

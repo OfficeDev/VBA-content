@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileHeaderRow Property (Excel)
 
-Returns or sets value that specifies whether or not the first row (from the starting row) should be treated as a header row.  **Boolean** Read/Write
+Returns or sets value that specifies whether or not the first row (from the starting row) should be treated as a header row. **Boolean** Read/Write
 
 
 ## Syntax

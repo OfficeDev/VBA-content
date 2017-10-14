@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Field.Next Property (Publisher)
 
-Returns a  **[Field](field-object-publisher.md)** object that represents the next field in a text range.
+Returns a **[Field](field-object-publisher.md)** object that represents the next field in a text range.
 
 
 ## Syntax
 
  _expression_. **Next**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ### Return Value

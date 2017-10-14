@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.Range Method (PowerPoint)
 
-Returns a  **[ShapeRange](shaperange-object-powerpoint.md)** object that represents a subset of the shapes in a **[Shapes](shapes-object-powerpoint.md)** collection.
+Returns a **[ShapeRange](shaperange-object-powerpoint.md)** object that represents a subset of the shapes in a **[Shapes](shapes-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[ShapeRange](shaperange-object-powerpoint.md)** object that represe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Variant**|The individual shapes that are to be included in the range. Can be an  **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
+| _Index_|Optional|**Variant**|The individual shapes that are to be included in the range. Can be an **Integer** that specifies the index number of the shape, a **String** that specifies the name of the shape, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ### Return Value
 
@@ -38,9 +38,9 @@ ShapeRange
 
 ## Remarks
 
-Although you can use the  **Range** method to return any number of shapes or slides, it is simpler to use the **Item** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`, and  `Slides(2)` is simpler than `Slides.Range(2)`.
+Although you can use the **Range** method to return any number of shapes or slides, it is simpler to use the **Item** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`, and  `Slides(2)` is simpler than `Slides.Range(2)`.
 
-To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
  `Dim myArray() As Variant, myRange As Object myArray = Array("Oval 4", "Rectangle 5") Set myRange = ActivePresentation.Slides(1).Shapes.Range(myArray)`
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.ClassType Property (Word)
 
-Returns or sets the class type for the specified OLE object, picture, or field. Read/write  **String** .
+Returns or sets the class type for the specified OLE object, picture, or field. Read/write **String** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the class type for the specified OLE object, picture, or field. 
 
 This property is read-only for linked objects other than DDE links.
 
-You can see a list of the available applications in the  **Object** type box on the **Create New** tab in the **Object** dialog box ( **Insert** menu). You can find the **ClassType** string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."
+You can see a list of the available applications in the **Object** type box on the **Create New** tab in the **Object** dialog box ( **Insert** menu). You can find the **ClassType** string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."
 
 
 ## Example

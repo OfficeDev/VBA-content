@@ -21,7 +21,7 @@ Possible causes:
 
 - You tried to delete the only user account in the group Admins. The group Admins must have at least one user account. If you want to delete this account, create a new account and add it to the group Admins, or add an existing account to the group Admins, and then delete the account.
     
-- You tried to put a user in a group to which the user already belongs, by appending either a  **Group** object to a **User** object's **Groups** collection that already has a **Group** object of the same name or a **User** object to a **Group** object's **Users** collection that already has a **User** object of the same name.
+- You tried to put a user in a group to which the user already belongs, by appending either a **Group** object to a **User** object's **Groups** collection that already has a **Group** object of the same name or a **User** object to a **Group** object's **Users** collection that already has a **User** object of the same name.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

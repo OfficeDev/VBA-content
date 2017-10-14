@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.BuiltInFace Property (Office)
 
-Is  **True** if the face of a command bar button control is its original built-in face. Read/write.
+Is **True** if the face of a command bar button control is its original built-in face. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Is  **True** if the face of a command bar button control is its original built-i
 
 ## Remarks
 
-This property can only be set to  **True**, which will reset the face to the built-in face. Read/write **Boolean**.
+This property can only be set to **True**, which will reset the face to the built-in face. Read/write **Boolean**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.CommandEffect Property (PowerPoint)
 
-Returns a  **CommandEffect** object for the specified animation behavior. Read-only.
+Returns a **CommandEffect** object for the specified animation behavior. Read-only.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ Returns the date and time that follows another date by a specified duration, for
 
 ## Remarks
 
-To to add a duration to a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateAdd](startdriver-effectivedateadd-property-project.md)** property.
+To to add a duration to a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateAdd](startdriver-effectivedateadd-property-project.md)** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email1Address Property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the first e-mail entry for the contact. Read/write.
+Returns or sets a **String** representing the e-mail address of the first e-mail entry for the contact. Read/write.
 
 
 ## Syntax

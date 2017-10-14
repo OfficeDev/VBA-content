@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # How to: Specify Possible Values for a List Box
 
-The following example fills a  **[ListBox](listbox-object-outlook-forms-script.md)** control with the values "Test1", "Test2", and "Test3" when you open the form.
+The following example fills a **[ListBox](listbox-object-outlook-forms-script.md)** control with the values "Test1", "Test2", and "Test3" when you open the form.
 
 
 ```vb

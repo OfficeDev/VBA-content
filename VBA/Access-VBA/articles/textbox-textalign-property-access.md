@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.TextAlign Property (Access)
 
-The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
+The **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **TextAlign** property specifies the text alignment in new controls. Read/w
 
 ## Remarks
 
-The  **TextAlign** property uses the following settings.
+The **TextAlign** property uses the following settings.
 
 
 
@@ -36,7 +36,7 @@ The  **TextAlign** property uses the following settings.
 |Center|2|The text, numbers, and dates are centered.|
 |Right|3|The text, numbers, and dates align to the right.|
 |Distribute|4|The text, numbers, and dates are evenly distributed.|
-You can set the default for the  **TextAlign** property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can set the default for the **TextAlign** property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
 
 ## Example

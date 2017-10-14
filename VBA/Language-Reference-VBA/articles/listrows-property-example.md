@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ListRows Property Example
 
-The following example uses a  **SpinButton** to control the number of rows in the drop-down list of a **ComboBox**. The user changes the value of the **SpinButton**, then clicks on the drop-down arrow of the **ComboBox** to display the list.
+The following example uses a **SpinButton** to control the number of rows in the drop-down list of a **ComboBox**. The user changes the value of the **SpinButton**, then clicks on the drop-down arrow of the **ComboBox** to display the list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **SpinButton** named SpinButton1.
+- A **SpinButton** named SpinButton1.
     
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
 
 

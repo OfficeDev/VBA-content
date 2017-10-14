@@ -19,7 +19,7 @@ Represents the items in a Web list box control.
 
 ## Example
 
-Use the  **[ListBoxItems](weblistbox-listboxitems-property-publisher.md)** property to access the items in a Web list box. Use the **[AddItem](weblistboxitems-additem-method-publisher.md)** method of the **WebListBoxItems** collection to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
+Use the **[ListBoxItems](weblistbox-listboxitems-property-publisher.md)** property to access the items in a Web list box. Use the **[AddItem](weblistboxitems-additem-method-publisher.md)** method of the **WebListBoxItems** collection to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
  
 
  

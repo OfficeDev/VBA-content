@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SharingProvider Property (Outlook)
 
-Returns an  **[OlSharingProvider](olsharingprovider-enumeration-outlook.md)** constant that indicates the sharing provider used by the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns an **[OlSharingProvider](olsharingprovider-enumeration-outlook.md)** constant that indicates the sharing provider used by the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

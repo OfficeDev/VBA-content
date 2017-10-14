@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Application Property (PowerPoint)
 
-Returns an  **[Application](application-object-powerpoint.md)** object that represents the creator of the specified **CustomerData** object. Read-only.
+Returns an **[Application](application-object-powerpoint.md)** object that represents the creator of the specified **CustomerData** object. Read-only.
 
 
 ## Syntax

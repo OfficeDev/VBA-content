@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.UsableHeight Property (Word)
 
-Returns the height (in points) of the active working area in the specified document window. Read-only  **Long** . .
+Returns the height (in points) of the active working area in the specified document window. Read-only **Long** . .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the height (in points) of the active working area in the specified docum
 
 ## Remarks
 
-If none of the working area is visible in the document window,  **UsableHeight** returns 1. To determine the actual available height, subtract 1 from the **UsableHeight** value.
+If none of the working area is visible in the document window, **UsableHeight** returns 1. To determine the actual available height, subtract 1 from the **UsableHeight** value.
 
 
 ## Example

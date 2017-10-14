@@ -38,8 +38,8 @@ Nothing
 
 ## Remarks
 
-Use the  **PrintTile** method to print a single tile of a drawing that spans multiple physical printer pages.
+Use the **PrintTile** method to print a single tile of a drawing that spans multiple physical printer pages.
 
-Using this method is the equivalent of clicking  **Print** when you are previewing a single tile in **Print Preview** mode.
+Using this method is the equivalent of clicking **Print** when you are previewing a single tile in **Print Preview** mode.
 
 

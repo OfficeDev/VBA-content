@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CurrentUser Property (Outlook)
 
-Returns the display name of the currently logged-on user as a  **[Recipient](recipient-object-outlook.md)** object. Read-only.
+Returns the display name of the currently logged-on user as a **[Recipient](recipient-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the display name of the currently logged-on user as a  **[Recipient](rec
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CurrentUser** property to obtain the name of the currently logged-on user and then displays a message box containing the name.
+This Visual Basic for Applications (VBA) example uses the **CurrentUser** property to obtain the name of the currently logged-on user and then displays a message box containing the name.
 
 
 ```vb

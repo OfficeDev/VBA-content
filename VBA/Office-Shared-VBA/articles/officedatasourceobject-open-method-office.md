@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.Open Method (Office)
 
-Opens a table in a  **OfficeDataSourceObject** object.
+Opens a table in a **OfficeDataSourceObject** object.
 
 
 ## Syntax

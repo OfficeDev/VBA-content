@@ -37,12 +37,12 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 ## Remarks
 
-For example, if you pass in the  **VISWEB_DISP_RES** enumerated screen-resolution value **res1024x768** for eRes, the values 1024 and 768 are returned in pnWidth and pnHeight.
+For example, if you pass in the **VISWEB_DISP_RES** enumerated screen-resolution value **res1024x768** for eRes, the values 1024 and 768 are returned in pnWidth and pnHeight.
 
 
 ## Example
 
-The following example shows how to use the  **GetPhysicalDimensions** method to determine the screen width and height that correspond to the screen resolution passed to the method as the first parameter.
+The following example shows how to use the **GetPhysicalDimensions** method to determine the screen width and height that correspond to the screen resolution passed to the method as the first parameter.
 
 
 ```vb

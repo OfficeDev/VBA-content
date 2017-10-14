@@ -18,7 +18,7 @@ Represents the geometry of a freeform while it is being built.
 
 ## Remarks
 
-Use the  **BuildFreeform** method of the **[Shapes](shapes-object-word.md)** or **[CanvasShapes](canvasshapes-object-word.md)** object to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-word.md)** method to add nodes to the freeform. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-word.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
+Use the **BuildFreeform** method of the **[Shapes](shapes-object-word.md)** or **[CanvasShapes](canvasshapes-object-word.md)** object to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-word.md)** method to add nodes to the freeform. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-word.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
 
 
 ```vb

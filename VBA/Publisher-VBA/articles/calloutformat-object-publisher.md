@@ -19,7 +19,7 @@ Contains properties and methods that apply to line callouts.
 
 ## Example
 
-Use the  **[Callout](shape-callout-property-publisher.md)** property to return a **CalloutFormat** object. The following example adds a callout to the active publication, adds text to the callout, then specifies the following attributes for the callout:
+Use the **[Callout](shape-callout-property-publisher.md)** property to return a **CalloutFormat** object. The following example adds a callout to the active publication, adds text to the callout, then specifies the following attributes for the callout:
  
 
  

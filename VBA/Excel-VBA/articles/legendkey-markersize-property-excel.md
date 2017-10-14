@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.MarkerSize Property (Excel)
 
-Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long** .
+Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write **Long** .
 
 
 ## Syntax

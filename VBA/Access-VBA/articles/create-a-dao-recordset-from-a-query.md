@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create a DAO Recordset From a Query
 
-You can create a  **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** object based on a stored select query. In the following code example, Current Product List is an existing select query stored in the current database.
+You can create a **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** object based on a stored select query. In the following code example, Current Product List is an existing select query stored in the current database.
 
 
 ```vb
@@ -21,7 +21,7 @@ Set rstProducts = dbsNorthwind.OpenRecordset("Current Product List")
 ```
 
 
-If a stored select query does not already exist, the  **[OpenRecordset](http://msdn.microsoft.com/library/7D5CA4D5-5A0B-C0C8-D8E8-2C4E6C5F361F%28Office.15%29.aspx)** method also accepts an SQL string instead of the name of a query. The previous example can be rewritten as follows.
+If a stored select query does not already exist, the **[OpenRecordset](http://msdn.microsoft.com/library/7D5CA4D5-5A0B-C0C8-D8E8-2C4E6C5F361F%28Office.15%29.aspx)** method also accepts an SQL string instead of the name of a query. The previous example can be rewritten as follows.
 
 
 

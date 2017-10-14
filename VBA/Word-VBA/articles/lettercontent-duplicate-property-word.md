@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.Duplicate Property (Word)
 
-Returns a read-only  **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
+Returns a read-only **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a read-only  **LetterContent** object that represents the contents of a 
 
 ## Remarks
 
-You can use the  **Duplicate** property to pick up the settings of all the properties of a duplicated **LetterContent** object. You can assign the object returned by the **Duplicate** property to another **LetterContent** object to apply those settings all at once. Before assigning the duplicate object to another object, you can change any of the properties of the duplicate object without affecting the original.
+You can use the **Duplicate** property to pick up the settings of all the properties of a duplicated **LetterContent** object. You can assign the object returned by the **Duplicate** property to another **LetterContent** object to apply those settings all at once. Before assigning the duplicate object to another object, you can change any of the properties of the duplicate object without affecting the original.
 
 
 ## See also

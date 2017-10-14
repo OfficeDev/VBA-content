@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.OvertimeCost Property (Project)
 
-Gets the overtime cost for a task. Read-only  **Variant**.
+Gets the overtime cost for a task. Read-only **Variant**.
 
 
 ## Syntax

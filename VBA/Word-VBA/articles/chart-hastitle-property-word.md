@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-A chart title is represented by a  **[ChartTitle](charttitle-object-word.md)** object.
+A chart title is represented by a **[ChartTitle](charttitle-object-word.md)** object.
 
 
 ## See also

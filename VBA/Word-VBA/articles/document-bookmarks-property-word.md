@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Bookmarks Property (Word)
 
-Returns a  **[Bookmarks](bookmarks-object-word.md)** collection that represents all the bookmarks in a document. Read-only.
+Returns a **[Bookmarks](bookmarks-object-word.md)** collection that represents all the bookmarks in a document. Read-only.
 
 
 ## Syntax

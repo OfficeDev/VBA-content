@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.To Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object that is the successor in the task dependency. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object that is the successor in the task dependency. Read-only **Task**.
 
 
 ## Syntax

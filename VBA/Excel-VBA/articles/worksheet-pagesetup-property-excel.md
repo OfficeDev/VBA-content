@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.PageSetup Property (Excel)
 
-Returns a  **[PageSetup](pagesetup-object-excel.md)** object that contains all the page setup settings for the specified object. Read-only.
+Returns a **[PageSetup](pagesetup-object-excel.md)** object that contains all the page setup settings for the specified object. Read-only.
 
 
 ## Syntax

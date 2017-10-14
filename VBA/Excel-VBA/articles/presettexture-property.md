@@ -47,7 +47,7 @@ Returns the preset texture for the specified fill. Read-only MsoPresetTexture .
  _expression_. **PresetTexture**
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
-This property is read-only. Use the  **PresetTextured** method to set the preset texture for the fill.
+This property is read-only. Use the **PresetTextured** method to set the preset texture for the fill.
 
 ## Example
 

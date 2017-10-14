@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.InputMask Property (Access)
 
-You can use the  **InputMask** property to make data entry easier and to control the values users can enter in a combo box control. Read/write **String**.
+You can use the **InputMask** property to make data entry easier and to control the values users can enter in a combo box control. Read/write **String**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ You can use the  **InputMask** property to make data entry easier and to control
 
 Input masks are helpful for data-entry operations such as an input mask for a Phone Number field that shows you exactly how to enter a new number: (___) ___-____. It is often easier to use the Input Mask Wizard to set the property for you.
 
-The  **InputMask** property can contain up to three sections separated by semicolons (;).
+The **InputMask** property can contain up to three sections separated by semicolons (;).
 
 
 
@@ -62,7 +62,7 @@ You can define an input mask by using the following characters.
 |a|Letter or digit (entry optional).|
 |&;|Any character or a space (entry required).|
 |C|Any character or a space (entry optional).|
-|. , : ; - /|Decimal placeholder and thousand, date, and time separators. (The actual character used depends on the settings in the  **Regional Settings Properties** dialog box in Windows Control Panel).|
+|. , : ; - /|Decimal placeholder and thousand, date, and time separators. (The actual character used depends on the settings in the **Regional Settings Properties** dialog box in Windows Control Panel).|
 |<|Causes all characters to be converted to lowercase.|
 |>|Causes all characters to be converted to uppercase.|
 |!|Causes the input mask to display from right to left, rather than from left to right. Characters typed into the mask always fill it from left to right. You can include the exclamation point anywhere in the input mask.|
@@ -75,9 +75,9 @@ When you type data in a field for which you've defined an input mask, the data i
 If you move text from a field for which you've defined an input mask onto the Clipboard, the literal display characters are copied, even if you have specified that they not be saved with data.
 
 
- **Note**  Only characters that you type directly in a control or combo box are affected by the input mask. Microsoft Access ignores any input masks when you import data, run an action query, or enter characters in a control by setting the control's  **Text** property in Visual Basic or by using the SetValue action in a macro.
+ **Note**  Only characters that you type directly in a control or combo box are affected by the input mask. Microsoft Access ignores any input masks when you import data, run an action query, or enter characters in a control by setting the control's **Text** property in Visual Basic or by using the SetValue action in a macro.
 
-When you've defined an input mask and set the  **Format** property for the same field, the **Format** property takes precedence when the data is displayed. This means that even if you've saved an input mask, the input mask is ignored when data is formatted and displayed. The data in the underlying table itself isn't changed; the **Format** property affects only how the data is displayed.
+When you've defined an input mask and set the **Format** property for the same field, the **Format** property takes precedence when the data is displayed. This means that even if you've saved an input mask, the input mask is ignored when data is formatted and displayed. The data in the underlying table itself isn't changed; the **Format** property affects only how the data is displayed.
 
 The following table shows some useful input masks and the type of values you can enter in them.
 

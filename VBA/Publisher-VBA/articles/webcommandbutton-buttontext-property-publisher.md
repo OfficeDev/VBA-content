@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.ButtonText Property (Publisher)
 
-Returns or sets a  **String** that represents the text that appears on the face of a Web command button. Read/write.
+Returns or sets a **String** that represents the text that appears on the face of a Web command button. Read/write.
 
 
 ## Syntax
 
  _expression_. **ButtonText**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value

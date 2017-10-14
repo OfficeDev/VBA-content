@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressRuleCondition.Address Property (Outlook)
 
-Returns or sets an array of  **String** elements to evaluate the address rule condition. Read/write.
+Returns or sets an array of **String** elements to evaluate the address rule condition. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets an array of  **String** elements to evaluate the address rule co
 
 You can assign an array with one element to evaluate a single address or an array of multiple strings to evaluate multiple addresses. Multiple address strings assigned in an array are evaluated using the logical OR operation.
 
-If a string specified by  **Address** is contained in the recipient or sender address, the condition evaluates to **True** .
+If a string specified by **Address** is contained in the recipient or sender address, the condition evaluates to **True** .
 
 
 ## See also

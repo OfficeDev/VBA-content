@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetTextEffect Property (Word)
 
-Returns or sets the style of the specified WordArt. The values for this property correspond to the formats in the  **WordArt Gallery** dialog box ( **Insert** menu), numbered from left to right, top to bottom. Read/write **MsoPresetTextEffect** .
+Returns or sets the style of the specified WordArt. The values for this property correspond to the formats in the **WordArt Gallery** dialog box ( **Insert** menu), numbered from left to right, top to bottom. Read/write **MsoPresetTextEffect** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style of the specified WordArt. The values for this property
 
 ## Remarks
 
-Setting the  **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
+Setting the **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
 
 
 ## Example

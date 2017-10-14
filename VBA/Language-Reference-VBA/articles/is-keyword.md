@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Is <keyword>
 
-The  **Is** keyword is used in these contexts:
+The **Is** keyword is used in these contexts:
 
 [If...Then...Else Statement](ifthenelse-statement.md)
 

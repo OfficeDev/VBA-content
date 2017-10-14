@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.SmartDocument Property (Excel)
 
-Returns a  **SmartDocument** object that represents the settings for a smart document solution. Read-only.
+Returns a **SmartDocument** object that represents the settings for a smart document solution. Read-only.
 
 
 ## Syntax

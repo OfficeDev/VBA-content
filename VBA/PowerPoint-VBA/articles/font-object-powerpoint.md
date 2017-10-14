@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font Object (PowerPoint)
 
-Represents character formatting for text or a bullet. The  **Font** object is a member of the **[Fonts](http://msdn.microsoft.com/library/1a8f44ea-515f-5eb9-eab5-6204d9b1d5bc%28Office.15%29.aspx)** collection. The **Fonts** collection contains all the fonts used in a presentation.
+Represents character formatting for text or a bullet. The **Font** object is a member of the **[Fonts](http://msdn.microsoft.com/library/1a8f44ea-515f-5eb9-eab5-6204d9b1d5bc%28Office.15%29.aspx)** collection. The **Fonts** collection contains all the fonts used in a presentation.
 
 
 ## Example
@@ -21,11 +21,11 @@ Represents character formatting for text or a bullet. The  **Font** object is a 
 The following examples describes how to do the following:
 
 
-- Return the  **Font** object that represents the font attributes of a specified bullet, a specified range of text, or all text at a specified outline level
+- Return the **Font** object that represents the font attributes of a specified bullet, a specified range of text, or all text at a specified outline level
     
-- Return a  **Font** object from the collection of all the fonts used in the presentation
+- Return a **Font** object from the collection of all the fonts used in the presentation
     
-Use the [Font](http://msdn.microsoft.com/library/234c8843-3c0d-a425-0173-02c3910ba400%28Office.15%29.aspx)property to return the  **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
+Use the [Font](http://msdn.microsoft.com/library/234c8843-3c0d-a425-0173-02c3910ba400%28Office.15%29.aspx)property to return the **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
 
 
 
@@ -50,7 +50,7 @@ With ActivePresentation.Slides(1).Shapes.Title _
 End With
 ```
 
-Use  **Fonts** (index), where index is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
+Use **Fonts** (index), where index is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
 
 
 

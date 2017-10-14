@@ -29,12 +29,12 @@ The required  _arraylist_[argument](vbe-glossary.md) is one or more comma-delimi
 |Fixed string array (fixed length)|Sets each element to zero.|
 |Fixed [Variant](vbe-glossary.md) array|Sets each element to [Empty](vbe-glossary.md).|
 |Array of [user-defined types](vbe-glossary.md)|Sets each element as if it were a separate variable.|
-|Array of objects|Sets each element to the special value  **Nothing**.|
+|Array of objects|Sets each element to the special value **Nothing**.|
  **Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions using a **ReDim** statement.
 
 ## Example
 
-This example uses the  **Erase** statement to reinitialize the elements of fixed-size arrays and deallocate dynamic-array storage space.
+This example uses the **Erase** statement to reinitialize the elements of fixed-size arrays and deallocate dynamic-array storage space.
 
 
 ```vb

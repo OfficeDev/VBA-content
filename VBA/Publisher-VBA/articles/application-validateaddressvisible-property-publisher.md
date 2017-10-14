@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ValidateAddressVisible Property (Publisher)
 
-Determines whether  **Validate addresses** is available under **Refine recipients** in the **Mail Merge Recipients** dialog box in the Microsoft Publisher user interface (UI); and whether **Validate addresses** is available under **Prepare for Mailing** on the **Publisher Tasks** task pane in the Publisher UI. Read/write.
+Determines whether **Validate addresses** is available under **Refine recipients** in the **Mail Merge Recipients** dialog box in the Microsoft Publisher user interface (UI); and whether **Validate addresses** is available under **Prepare for Mailing** on the **Publisher Tasks** task pane in the Publisher UI. Read/write.
 
 
 ## Syntax
 
  _expression_. **ValidateAddressVisible**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Return Value

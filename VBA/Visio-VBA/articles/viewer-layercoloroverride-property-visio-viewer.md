@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
  _expression_. **LayerColorOverride**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the  **LayerColorOverride** property returns **False**. The default value is  **True**.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the **LayerColorOverride** property returns **False**. The default value is **True**.
 
 
 ## Example

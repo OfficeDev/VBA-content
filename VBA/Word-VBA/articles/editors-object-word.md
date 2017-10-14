@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Editors Object (Word)
 
-A collection of  **Editor** objects that represents a collection of users or groups of users who have been given specific permissions to edit portions of a document.
+A collection of **Editor** objects that represents a collection of users or groups of users who have been given specific permissions to edit portions of a document.
 
 
 ## Remarks
 
-Use the  **Add** method to give a specified user or group permission to modify a range or selection within a document. The following example gives the current user editing permission to modify the active selection.
+Use the **Add** method to give a specified user or group permission to modify a range or selection within a document. The following example gives the current user editing permission to modify the active selection.
 
 
 ```vb

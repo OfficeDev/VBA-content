@@ -18,9 +18,9 @@ Represents the chart area of a chart.
 
 ## Remarks
 
-The chart area includes everything, including the plot area. However, the  **[PlotArea](plotarea-object-powerpoint.md)** object has its own formatting, so formatting the plot area does not format the chart area.
+The chart area includes everything, including the plot area. However, the **[PlotArea](plotarea-object-powerpoint.md)** object has its own formatting, so formatting the plot area does not format the chart area.
 
-Use the  **[ChartArea](chart-chartarea-property-powerpoint.md)** property to return the **ChartArea** object.
+Use the **[ChartArea](chart-chartarea-property-powerpoint.md)** property to return the **ChartArea** object.
 
 
 ## Example

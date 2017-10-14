@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceGroupList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing the resource groups in the active project. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing the resource groups in the active project. Read-only **List**.
 
 
 ## Syntax

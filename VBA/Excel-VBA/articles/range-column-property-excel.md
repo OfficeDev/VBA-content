@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Column Property (Excel)
 
-Returns the number of the first column in the first area in the specified range. Read-only  **Long** .
+Returns the number of the first column in the first area in the specified range. Read-only **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorEffect.From Property (PowerPoint)
 
-Sets or returns a  **ColorFormat** object that represents the starting RGB color value of an animation behavior.
+Sets or returns a **ColorFormat** object that represents the starting RGB color value of an animation behavior.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Sets or returns a  **ColorFormat** object that represents the starting RGB color
 
 ## Remarks
 
-Use this property in conjunction with the  **[To](coloreffect-to-property-powerpoint.md)** property to transition from one color to another.
+Use this property in conjunction with the **[To](coloreffect-to-property-powerpoint.md)** property to transition from one color to another.
 
-Do not confuse this property with the  **FromX** or **FromY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **FromX** or **FromY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

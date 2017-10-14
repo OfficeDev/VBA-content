@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CalendarTimescale Method (Project)
 
-Displays the  **Timescale** dialog box, which allows the user to customize the Calendar view.
+Displays the **Timescale** dialog box, which allows the user to customize the Calendar view.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Timescale** dialog box, which allows the user to customize the C
 
 ## Remarks
 
-The  **CalendarTimescale** method has the same effect as the **Timescale** command on the **Format** menu.
+The **CalendarTimescale** method has the same effect as the **Timescale** command on the **Format** menu.
 
 

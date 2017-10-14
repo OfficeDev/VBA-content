@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyAccessor.Application Property (Outlook)
 
-Returns the  **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object. Read-only.
+Returns the **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

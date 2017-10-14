@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.FirstChild Property (Word)
 
-Returns a  **DiagramNode** object that represents the first child node of a parent node. Read-only.
+Returns a **DiagramNode** object that represents the first child node of a parent node. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **DiagramNode** object that represents the first child node of a pare
 
 ## Remarks
 
-Use the  **LastChild** property to access the last child node. Use the **Root** property to access the parent node in a diagram.
+Use the **LastChild** property to access the last child node. Use the **Root** property to access the parent node in a diagram.
 
 
 

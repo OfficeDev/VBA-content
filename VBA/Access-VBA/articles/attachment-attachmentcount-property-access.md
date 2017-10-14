@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.AttachmentCount Property (Access)
 
-Gets the number of documents attached to the specified  **Attachment** control. Read-only **Long**.
+Gets the number of documents attached to the specified **Attachment** control. Read-only **Long**.
 
 
 ## Syntax

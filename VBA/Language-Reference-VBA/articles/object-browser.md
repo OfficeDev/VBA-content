@@ -18,18 +18,18 @@ ms.date: 06/08/2017
 
 Displays the [classes](vbe-glossary.md), properties, methods, events, and constants available from [object libraries](vbe-glossary.md) and the[procedures](vbe-glossary.md) in your project. You can use it to find and use objects you create, as well as objects from other applications.
 
-You can get Help for the  **Object** **Browser** by searching for Object Browser in Help.
+You can get Help for the **Object** **Browser** by searching for Object Browser in Help.
 
 
 ## Window Elements Project/Library Box
 
-Displays the currently referenced libraries for the active project. You can add libraries in the  **References** dialog box. <All Libraries> allows all of the libraries to be displayed at one time.
+Displays the currently referenced libraries for the active project. You can add libraries in the **References** dialog box. <All Libraries> allows all of the libraries to be displayed at one time.
 
  **Search Text Box**
 
 Contains the string that you want to use in your search. You can type or choose the string you want. The Search Text box contains the last 4 search strings that you entered until you close the project. You can use the standard Visual Basic wildcards when typing a string.
 
-If you want to search for a whole word, you can use the  **Find** **Whole** **Word** **Only** command from the shortcut menu.
+If you want to search for a whole word, you can use the **Find** **Whole** **Word** **Only** command from the shortcut menu.
 
 
 ![Go back button](images/goback_ZA01201613.gif) **Go Back Button**
@@ -49,7 +49,7 @@ Copies the current selection in the Members of list or the Details pane text to 
 
 ![View definition button](images/viewdef_ZA01201805.gif) **View Definition Button**
 
-Moves the cursor to the place in the  **Code** window where the selection in the Members of list or the Classes list is defined.
+Moves the cursor to the place in the **Code** window where the selection in the Members of list or the Classes list is defined.
 
 
 ![Help button](images/but_help_ZA01201583.gif) **Help Button**
@@ -59,16 +59,16 @@ Displays the online Help topic for the item selected in the Classes or the Membe
 
 ![Search button](images/search_ZA01201651.gif) **Search Button**
 
-Initiates a search of the libraries for the class or property, method, event or constant that matches the string you typed in the Search Text box, and opens the  **Search** **Results** pane with the appropriate list of information.
+Initiates a search of the libraries for the class or property, method, event or constant that matches the string you typed in the Search Text box, and opens the **Search** **Results** pane with the appropriate list of information.
 
 
 ![Search results button](images/showsear_ZA01201652.gif) **Show/Hide Search Results Button**
 
-Opens or hides the  **Search** **Results** pane. The **Search** **Results** pane changes to show the search results from the project or library chosen in the Project/Library list. Search results are listed alphabetically from A to Z.
+Opens or hides the **Search** **Results** pane. The **Search** **Results** pane changes to show the search results from the project or library chosen in the Project/Library list. Search results are listed alphabetically from A to Z.
 
  **Search Results List**
 
-Displays the library, class, and member that corresponds to the items that contain your search string. The  **Search** **Results** pane changes when you change the selection in the Project/Library box.
+Displays the library, class, and member that corresponds to the items that contain your search string. The **Search** **Results** pane changes when you change the selection in the Project/Library box.
 
  **Classes List**
 
@@ -78,13 +78,13 @@ If you select a Class and do not specify a member, you will get the default memb
 
  **Members of List**
 
-Displays the elements of the class selected in the  **Classes** pane by group and then alphabetically within each group. Methods, properties, events, or constants that have code written for them appear bold. You can change the order of this list with the **Group** **Members** command on the **Object** **Browser** shortcut menu.
+Displays the elements of the class selected in the **Classes** pane by group and then alphabetically within each group. Methods, properties, events, or constants that have code written for them appear bold. You can change the order of this list with the **Group** **Members** command on the **Object** **Browser** shortcut menu.
 
  **Details Pane**
 
-Shows the definition of the member. The  **Details** pane contains a jump to the class or library to which the element belongs. Some members have jumps to their parent class. For example, if the text in the **Details** pane states that Command1 is declared as a command button type, clicking on command button takes you to the Command Button class.
+Shows the definition of the member. The **Details** pane contains a jump to the class or library to which the element belongs. Some members have jumps to their parent class. For example, if the text in the **Details** pane states that Command1 is declared as a command button type, clicking on command button takes you to the Command Button class.
 
-You can copy or drag text from the  **Details** pane to the **Code** window.
+You can copy or drag text from the **Details** pane to the **Code** window.
 
  **Split Bar**
 
@@ -97,7 +97,7 @@ Splits the panes so that you can adjust their size. There are splits between the
     
 - Search Results list and the Classes and Members of boxes.
     
-- Classes and Members of boxes and the  **Details** pane.
+- Classes and Members of boxes and the **Details** pane.
     
 
 

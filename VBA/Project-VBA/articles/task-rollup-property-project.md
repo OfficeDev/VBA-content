@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **Rollup** property must be **True** on the summary task as well as the subtasks for the rollup to occur.
+The **Rollup** property must be **True** on the summary task as well as the subtasks for the rollup to occur.
 
 
 ## Example
 
-The following example sets the  **Rollup** property to **True** for milestone tasks, and to **False** for other tasks in the active project.
+The following example sets the **Rollup** property to **True** for milestone tasks, and to **False** for other tasks in the active project.
 
 
 ```vb

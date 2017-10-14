@@ -30,7 +30,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[LegendEntry](legendentry-object-powerpoint.md)** object that the collection contains.
+A **[LegendEntry](legendentry-object-powerpoint.md)** object that the collection contains.
 
 
 ## Example

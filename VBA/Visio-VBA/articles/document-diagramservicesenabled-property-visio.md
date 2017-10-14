@@ -32,9 +32,9 @@ Determines which, if any, diagram services are enabled for the document. Read/wr
 
 Visio has several diagram behaviors, including structured-diagram behaviors and AutoSize behaviors. Structured-diagram behaviors define when container-membership relationships and callout associations are created. AutoSize behaviors define when Visio automatically resizes the drawing page to adjust to changes in its contents.
 
-In your solution, you can take advantage of these new diagram behaviors by using the  **DiagramServicesEnabled** property to enable the services that aggregate these behaviors. When your solution modifies the diagram, Visio invokes the diagram behaviors associated with any of the services that are currently enabled.
+In your solution, you can take advantage of these new diagram behaviors by using the **DiagramServicesEnabled** property to enable the services that aggregate these behaviors. When your solution modifies the diagram, Visio invokes the diagram behaviors associated with any of the services that are currently enabled.
 
-The value of the  **DiagramServicesEnabled** property setting must be one or a bitwise combination of the following constants from the **[VisDiagramServices](visdiagramservices-enumeration-visio.md)** enumeration.
+The value of the **DiagramServicesEnabled** property setting must be one or a bitwise combination of the following constants from the **[VisDiagramServices](visdiagramservices-enumeration-visio.md)** enumeration.
 
 
 

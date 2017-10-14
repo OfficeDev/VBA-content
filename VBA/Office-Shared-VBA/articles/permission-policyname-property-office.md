@@ -25,7 +25,7 @@ Gets the name of the permissions policy applied to the active document. Read-onl
 
 ## Remarks
 
-Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The  **PolicyName** property returns the name of the policy applied to the active document, or a default value if a policy was not used.
+Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The **PolicyName** property returns the name of the policy applied to the active document, or a default value if a policy was not used.
 
 
 ## Example

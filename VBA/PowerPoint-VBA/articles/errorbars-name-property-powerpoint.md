@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.Name Property (PowerPoint)
 
-Returns the name of the object. Read-only  **String**.
+Returns the name of the object. Read-only **String**.
 
 
 ## Syntax

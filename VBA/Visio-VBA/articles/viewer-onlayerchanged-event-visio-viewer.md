@@ -15,9 +15,9 @@ Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnLayerChanged**( **_LayerIndex_**,  **_Visible_**,  **_ColorOverride_**,  **_Color_**,  **_ColorTrans_**)
+ _expression_. **OnLayerChanged**( **_LayerIndex_**, **_Visible_**, **_ColorOverride_**, **_Color_**, **_ColorTrans_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -34,12 +34,12 @@ Occurs when a layer is changed in the document open in Microsoft Visio Viewer.
 
 ## Remarks
 
-You can change a layer either in the  **Layer Properties** dialog box, or programmatically by using the **[LayerColor](viewer-layercolor-property-visio-viewer.md)**,  **[LayerColorOverride](viewer-layercoloroverride-property-visio-viewer.md)**,  **[LayerColorTrans](viewer-layercolortrans-property-visio-viewer.md)**, and  **[LayerVisible](viewer-layervisible-property-visio-viewer.md)** properties.
+You can change a layer either in the **Layer Properties** dialog box, or programmatically by using the **[LayerColor](viewer-layercolor-property-visio-viewer.md)**, **[LayerColorOverride](viewer-layercoloroverride-property-visio-viewer.md)**, **[LayerColorTrans](viewer-layercolortrans-property-visio-viewer.md)**, and **[LayerVisible](viewer-layervisible-property-visio-viewer.md)** properties.
 
 
 ## Example
 
-The following code shows how to use the  **OnLayerChanged** event to display the new transparency percentage of the changed layer in the **Immediate** window.
+The following code shows how to use the **OnLayerChanged** event to display the new transparency percentage of the changed layer in the **Immediate** window.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.Z Property (Excel)
 
-Returns the Z order of the specified  **ThreeDFormat** object. Read/write **Single** .
+Returns the Z order of the specified **ThreeDFormat** object. Read/write **Single** .
 
 
 ## Syntax

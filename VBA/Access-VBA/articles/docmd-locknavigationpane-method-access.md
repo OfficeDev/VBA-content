@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.LockNavigationPane Method (Access)
 
-You can use the  **LockNavigationPane** action to prevent users from deleting database objects that are displayed in the Navigation Pane.
+You can use the **LockNavigationPane** action to prevent users from deleting database objects that are displayed in the Navigation Pane.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ You can use the  **LockNavigationPane** action to prevent users from deleting da
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Lock_|Required|**Variant**|Set to  **True** to lock the Navigation Pane.|
+| _Lock_|Required|**Variant**|Set to **True** to lock the Navigation Pane.|
 
 ## Remarks
 

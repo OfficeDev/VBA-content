@@ -47,7 +47,7 @@ The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
 |**msoGradientHorizontal**|
 |**msoGradientMixed**|
 |**msoGradientVertical**|
-The Variant parameter value can be from 1 to 4, corresponding to the four variants on the  **Gradient** sub-tab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.
+The Variant parameter value can be from 1 to 4, corresponding to the four variants on the **Gradient** sub-tab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.
 
 
 ## Example

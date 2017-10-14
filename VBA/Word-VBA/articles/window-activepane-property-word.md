@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ActivePane Property (Word)
 
-Returns a  **[Pane](pane-object-word.md)** object that represents the active pane for the specified window. Read-only.
+Returns a **[Pane](pane-object-word.md)** object that represents the active pane for the specified window. Read-only.
 
 
 ## Syntax

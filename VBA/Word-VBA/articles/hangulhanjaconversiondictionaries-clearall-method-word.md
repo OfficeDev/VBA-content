@@ -25,7 +25,7 @@ Unloads all of the custom or conversion dictionaries.
 
 ## Remarks
 
-The  **ClearAll** method does not delete the conversion dictionary files. After using this method, the number of conversion dictionaries in the collection is 0 (zero).
+The **ClearAll** method does not delete the conversion dictionary files. After using this method, the number of conversion dictionaries in the collection is 0 (zero).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Hyperlinks Property (PowerPoint)
 
-Returns a  **[Hyperlinks](hyperlinks-object-powerpoint.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
+Returns a **[Hyperlinks](hyperlinks-object-powerpoint.md)** collection that represents all the hyperlinks on the specified slide. Read-only.
 
 
 ## Syntax

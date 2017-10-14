@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.Delete Method (Project)
 
-Deletes the  **Exception** object from an **Exceptions** collection.
+Deletes the **Exception** object from an **Exceptions** collection.
 
 
 ## Syntax

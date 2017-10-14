@@ -14,12 +14,12 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](bulletformat2-application-property-office.md)|Gets an object that represents the  **BulletFormat2** object. Read-only.|
+|[Application](bulletformat2-application-property-office.md)|Gets an object that represents the **BulletFormat2** object. Read-only.|
 |[Character](bulletformat2-character-property-office.md)|Gets or sets the Unicode character value that is used for bullets in the specified text. Read/write.|
-|[Creator](bulletformat2-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **BulletFormat2** object was created. Read-only.|
-|[Font](bulletformat2-font-property-office.md)|Gets a  **Font2** object that represents character formatting for a **BulletFormat2** object. Read-only.|
+|[Creator](bulletformat2-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **BulletFormat2** object was created. Read-only.|
+|[Font](bulletformat2-font-property-office.md)|Gets a **Font2** object that represents character formatting for a **BulletFormat2** object. Read-only.|
 |[Number](bulletformat2-number-property-office.md)|Gets the bullet number of a paragraph. Read-only.|
-|[Parent](bulletformat2-parent-property-office.md)|Gets the parent of the  **BulletFormat2** object. Read-only.|
+|[Parent](bulletformat2-parent-property-office.md)|Gets the parent of the **BulletFormat2** object. Read-only.|
 |[RelativeSize](bulletformat2-relativesize-property-office.md)|Returns or sets the bullet size relative to the size of the first text character in the paragraph. Read/write.|
 |[StartValue](bulletformat2-startvalue-property-office.md)|Gets or sets the beginning value of a bulleted list. Read/write.|
 |[Style](bulletformat2-style-property-office.md)|Returns or sets a constant that represents the style of a bullet. Read/write.|

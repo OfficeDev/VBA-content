@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HelpAnswerWizard Method (Project)
 
-Displays the  **Project Help** window, with the **Help** Toolbar, **Assistance**,  **Connection Status**, and  **See Also** panes visible.
+Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**, **Connection Status**, and **See Also** panes visible.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Project Help** window, with the **Help** Toolbar, **Assistance**
 
 ## Remarks
 
-The  **HelpContents** method has the same effect as **[HelpLaunch](application-helplaunch-method-project.md)** method when it is used with no parameters.
+The **HelpContents** method has the same effect as **[HelpLaunch](application-helplaunch-method-project.md)** method when it is used with no parameters.
 
 

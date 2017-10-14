@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Start Property (Word)
 
-Returns or sets the starting character position of a range. Read/write  **Long** .
+Returns or sets the starting character position of a range. Read/write **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.Last Property (Word)
 
-Returns a  **Paragraph** object that represents the last item in the collection of paragraphs.
+Returns a **Paragraph** object that represents the last item in the collection of paragraphs.
 
 
 ## Syntax

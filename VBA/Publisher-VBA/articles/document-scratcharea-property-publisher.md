@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ScratchArea Property (Publisher)
 
-Returns a  **[ScratchArea](scratcharea-object-publisher.md)** object for an a given document.
+Returns a **[ScratchArea](scratcharea-object-publisher.md)** object for an a given document.
 
 
 ## Syntax
 
  _expression_. **ScratchArea**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ ScratchArea
 
 ## Remarks
 
-The  **ScratchArea** object is a collection of objects on the scratch page. The **ScratchArea** object is not in the **Pages** collection because it is fundamentally not a page; its only similarity to a page is that it can contain objects.
+The **ScratchArea** object is a collection of objects on the scratch page. The **ScratchArea** object is not in the **Pages** collection because it is fundamentally not a page; its only similarity to a page is that it can contain objects.
 
 
 ## Example

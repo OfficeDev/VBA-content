@@ -17,19 +17,19 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **ODBCTimeout** property to specify the number of seconds Microsoft Access waits before a time-out error occurs when a query is run on an Open Database Connectivity (ODBC) database.
+You can use the **ODBCTimeout** property to specify the number of seconds Microsoft Access waits before a time-out error occurs when a query is run on an Open Database Connectivity (ODBC) database.
 
 
 ## Setting
 
-The  **ODBCTimeout** property is an Integer value representing the number of seconds Microsoft Access waits. The default is 60 seconds. When this property is set to 0, no time-out error occurs.
+The **ODBCTimeout** property is an Integer value representing the number of seconds Microsoft Access waits. The default is 60 seconds. When this property is set to 0, no time-out error occurs.
 
 You can set this property by using the query's property sheet or Data Access Objects (DAO) in Visual Basic code.
 
 
 ## Remarks
 
-When you're using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The  **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
+When you're using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

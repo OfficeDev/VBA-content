@@ -31,11 +31,11 @@ Changes the command assigned to the specified key binding.
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The key category of the specified key binding.|
 | _Command_|Required| **String**|The name of the specified command.|
-| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For information about values for this argument, see the  **[Add](keybindings-add-method-word.md)** method.|
+| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For information about values for this argument, see the **[Add](keybindings-add-method-word.md)** method.|
 
 ## Example
 
-This example reassigns the CTRL+SHIFT+S key binding to the  **FileSaveAs** command.
+This example reassigns the CTRL+SHIFT+S key binding to the **FileSaveAs** command.
 
 
 ```vb

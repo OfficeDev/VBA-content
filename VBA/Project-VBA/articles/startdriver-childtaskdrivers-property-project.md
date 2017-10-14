@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.ChildTaskDrivers Property (Project)
 
-Gets the  **[ChildDrivers](childdrivers-object-project.md)** object for the task **StartDriver** object. Read-only **ChildDrivers**.
+Gets the **[ChildDrivers](childdrivers-object-project.md)** object for the task **StartDriver** object. Read-only **ChildDrivers**.
 
 
 ## Syntax

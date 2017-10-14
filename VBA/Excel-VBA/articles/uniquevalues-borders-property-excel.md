@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.Borders Property (Excel)
 
-Returns a  **[Borders](borders-object-excel.md)** collection that specifies the formatting of cell borders if the conditional formatting rule evaluates to **True** . Read-only.
+Returns a **[Borders](borders-object-excel.md)** collection that specifies the formatting of cell borders if the conditional formatting rule evaluates to **True** . Read-only.
 
 
 ## Syntax

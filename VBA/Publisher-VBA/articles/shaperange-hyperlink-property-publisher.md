@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Hyperlink Property (Publisher)
 
-Returns a  **[Hyperlink](hyperlink-object-publisher.md)** object representing the hyperlink associated with the specified shape.
+Returns a **[Hyperlink](hyperlink-object-publisher.md)** object representing the hyperlink associated with the specified shape.
 
 
 ## Syntax
 
  _expression_. **Hyperlink**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

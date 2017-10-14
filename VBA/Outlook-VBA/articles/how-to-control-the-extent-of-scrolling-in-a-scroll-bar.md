@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # How to: Control the Extent of Scrolling in a Scroll Bar
 
-The following example demonstrates the  **[LargeChange](scrollbar-largechange-property-outlook-forms-script.md)** and **[SmallChange](scrollbar-smallchange-property-outlook-forms-script.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. The user can set the  **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the ** [TextBox.MaxLength](textbox-maxlength-property-outlook-forms-script.md)** property to restrict the number of characters entered in the **[TextBox](textbox-object-outlook-forms-script.md)** controls for the **LargeChange** and **SmallChange** values.
+The following example demonstrates the **[LargeChange](scrollbar-largechange-property-outlook-forms-script.md)** and **[SmallChange](scrollbar-smallchange-property-outlook-forms-script.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. The user can set the **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the ** [TextBox.MaxLength](textbox-maxlength-property-outlook-forms-script.md)** property to restrict the number of characters entered in the **[TextBox](textbox-object-outlook-forms-script.md)** controls for the **LargeChange** and **SmallChange** values.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1
+- A **[Label](label-object-outlook-forms-script.md)** named Label1
     
-- A  **TextBox** named TextBox1 that is bound to the custom number field named ScrollBarSmallChange
+- A **TextBox** named TextBox1 that is bound to the custom number field named ScrollBarSmallChange
     
-- A  **Label** named Label2
+- A **Label** named Label2
     
-- A  **TextBox** named TextBox2 that is bound to the custom number field named ScrollBarLargeChange.
+- A **TextBox** named TextBox2 that is bound to the custom number field named ScrollBarLargeChange.
     
-- A  **ScrollBar** named ScrollBar1 that is bound to the custom number field named ScrollBarValue.
+- A **ScrollBar** named ScrollBar1 that is bound to the custom number field named ScrollBarValue.
     
-- A  **Label** named Label3.
+- A **Label** named Label3.
     
 
 

@@ -25,9 +25,9 @@ Returns or sets a Variant value that represents the hidden status of the cube fi
 
 ## Remarks
 
-Don't confuse this property with the  **[FormulaHidden](range-formulahidden-property-excel.md)** property.
+Don't confuse this property with the **[FormulaHidden](range-formulahidden-property-excel.md)** property.
 
-The  **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](pivotitem-drilleddown-property-excel.md)** property of the **[PivotItem](pivotitem-object-excel.md)** object to determine when members are visible (expanded) in the control.
+The **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](pivotitem-drilleddown-property-excel.md)** property of the **[PivotItem](pivotitem-object-excel.md)** object to determine when members are visible (expanded) in the control.
 
 
 ## Example

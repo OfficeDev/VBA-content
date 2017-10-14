@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Glow Property (Word)
 
-Returns a  **[GlowFormat](glowformat-object-word.md)** object that represents the formatting properties for a glow effect. Read-only.
+Returns a **[GlowFormat](glowformat-object-word.md)** object that represents the formatting properties for a glow effect. Read-only.
 
 
 ## Syntax

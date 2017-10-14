@@ -19,7 +19,7 @@ You can also enter [procedure-level](vbe-glossary.md) declarations. For whatever
 
 
 
-1. In the  **Project** window, select the form, standard, or class module you want to open and click the **View Code** button. - Or - Right-click and choose **View Code** from the context menu.
+1. In the **Project** window, select the form, standard, or class module you want to open and click the **View Code** button. - Or - Right-click and choose **View Code** from the context menu.
     
 2. [Object box](vbe-glossary.md)
     

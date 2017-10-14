@@ -30,7 +30,7 @@ MsoPresetTextEffect
 
 ## Remarks
 
-The value of the  **WordArtFormat** property can be one of these **[MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants.
+The value of the **WordArtFormat** property can be one of these **[MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthLocks.Item Method (Word)
 
-Returns an individual  **[CoAuthLock](coauthlock-object-word.md)** object in a collection.
+Returns an individual **[CoAuthLock](coauthlock-object-word.md)** object in a collection.
 
 
 ## Syntax

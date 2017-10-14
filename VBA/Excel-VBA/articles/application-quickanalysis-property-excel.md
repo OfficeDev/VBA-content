@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application.QuickAnalysis Property (Excel)
 
-Returns a  **[QuickAnalysis](quickanalysis-object-excel.md)** object that represents the Quick Analysis options of the application.
+Returns a **[QuickAnalysis](quickanalysis-object-excel.md)** object that represents the Quick Analysis options of the application.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns a  **[QuickAnalysis](quickanalysis-object-excel.md)** object that repres
 
 ## Example
 
-The following example displays the Quick Analysis contextual UI with the  **Sparklines** option highlighted.
+The following example displays the Quick Analysis contextual UI with the **Sparklines** option highlighted.
 
 
 ```vb

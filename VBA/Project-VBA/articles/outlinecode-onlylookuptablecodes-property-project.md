@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For enterprise text fields with lookup tables,  **OnlyLookUpTableCodes** is always true and non-writeable.
+For enterprise text fields with lookup tables, **OnlyLookUpTableCodes** is always true and non-writeable.
 
 
 ## Example
@@ -30,7 +30,7 @@ For enterprise text fields with lookup tables,  **OnlyLookUpTableCodes** is alwa
 The following example adds a custom outline code to store the location of resources and configures the outline code such that only values specified in the lookup table can be associated with a resource.
 
 
- **Note**  The  **OnlyLookUpTableCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyLookUpTableCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
+ **Note**  The **OnlyLookUpTableCodes** property can be set only after the lookup table contains entries. If you try to set **OnlyLookUpTableCodes** before creating lookup table entries, the result is run-time error 7, "Out of memory."
 
 
 ```vb

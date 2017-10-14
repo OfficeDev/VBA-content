@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickMarkSpacing Property (Excel)
 
-Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Can be a value from 1 through 31999. Read/write  **Long** .
+Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Can be a value from 1 through 31999. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of categories or series between tick marks. Applies o
 
 ## Remarks
 
-Use the  **[MajorUnit](axis-majorunit-property-excel.md)** and **[MinorUnit](axis-minorunit-property-excel.md)** properties to set tick-mark spacing on the value axis.
+Use the **[MajorUnit](axis-majorunit-property-excel.md)** and **[MinorUnit](axis-minorunit-property-excel.md)** properties to set tick-mark spacing on the value axis.
 
 
 ## Example

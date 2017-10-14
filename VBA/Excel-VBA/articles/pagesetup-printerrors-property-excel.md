@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintErrors Property (Excel)
 
-Sets or returns an  **[XlPrintErrors](xlprinterrors-enumeration-excel.md)** contstant specifying the type of print error displayed. This feature allows users to suppress the display of error values when printing a worksheet. Read/write .
+Sets or returns an **[XlPrintErrors](xlprinterrors-enumeration-excel.md)** contstant specifying the type of print error displayed. This feature allows users to suppress the display of error values when printing a worksheet. Read/write .
 
 
 ## Syntax
@@ -37,7 +37,7 @@ Sets or returns an  **[XlPrintErrors](xlprinterrors-enumeration-excel.md)** cont
 
 ## Example
 
-In this example, Microsoft Excel uses a formula that returns an error in the active worksheet. The  **PrintErrors** property is set to display dashes. A Print Preview window displays the dashes for the print error. This example assumes a printer driver has been installed.
+In this example, Microsoft Excel uses a formula that returns an error in the active worksheet. The **PrintErrors** property is set to display dashes. A Print Preview window displays the dashes for the print error. This example assumes a printer driver has been installed.
 
 
 ```vb

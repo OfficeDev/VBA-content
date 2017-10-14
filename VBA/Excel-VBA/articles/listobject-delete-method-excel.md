@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Delete Method (Excel)
 
-Deletes the  **[ListObject](listobject-object-excel.md)** object and clears the cell data from the worksheet.
+Deletes the **[ListObject](listobject-object-excel.md)** object and clears the cell data from the worksheet.
 
 
 ## Syntax

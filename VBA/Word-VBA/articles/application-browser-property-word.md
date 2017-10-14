@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Browser Property (Word)
 
-Returns a  **[Browser](browser-object-word.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
+Returns a **[Browser](browser-object-word.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
 
 
 ## Syntax

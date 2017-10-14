@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Error <keyword>
 
-The  **Error** keyword is used in these contexts:
+The **Error** keyword is used in these contexts:
 
 [Error Function](error-function.md)
 

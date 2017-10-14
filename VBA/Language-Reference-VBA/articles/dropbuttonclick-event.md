@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Occurs whenever the drop-down list appears or disappears.
  **Syntax**
  **Private Sub**_object_ _**DropButtonClick( )**
-The  **DropButtonClick** event syntax has these parts:
+The **DropButtonClick** event syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -26,7 +26,7 @@ The  **DropButtonClick** event syntax has these parts:
 | _object_|Required. A valid object.|
  **Remarks**
 You can initiate the DropButtonClick event through code or by taking certain actions in the user interface.
-In code, calling the  **DropDown** method initiates the DropButtonClick event.
+In code, calling the **DropDown** method initiates the DropButtonClick event.
 In the user interface, any of the following actions initiates the event:
 
 

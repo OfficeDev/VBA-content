@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.HorizontalResolution Property (Word)
 
-Returns the horizontal display resolution, in pixels. Read-only  **Long** .
+Returns the horizontal display resolution, in pixels. Read-only **Long** .
 
 
 ## Syntax

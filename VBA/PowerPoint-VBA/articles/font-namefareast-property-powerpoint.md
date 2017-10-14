@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Use the  **[Replace](fonts-replace-method-powerpoint.md)** method to change the font that's applied to all text and that appears in the **Font** box on the **Font** tab.
+Use the **[Replace](fonts-replace-method-powerpoint.md)** method to change the font that's applied to all text and that appears in the **Font** box on the **Font** tab.
 
 
 ## Example

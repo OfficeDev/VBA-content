@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.AutoFillFormulasInLists Property (Excel)
 
-Affects the creation of calculated columns created by automatic fill-down lists. Read/write  **Boolean** .
+Affects the creation of calculated columns created by automatic fill-down lists. Read/write **Boolean** .
 
 
 ## Syntax

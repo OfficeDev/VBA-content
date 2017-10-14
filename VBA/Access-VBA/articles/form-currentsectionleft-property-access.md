@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.CurrentSectionLeft Property (Access)
 
-You can use this property to determine the distance in twips from the left side of the current section to the left side of the form. Read/write  **Integer**.
+You can use this property to determine the distance in twips from the left side of the current section to the left side of the form. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ You can use this property to determine the distance in twips from the left side 
 
 ## Remarks
 
-The  **CurrentSectionLeft** property setting changes whenever a user scrolls through a form.
+The **CurrentSectionLeft** property setting changes whenever a user scrolls through a form.
 
-For forms whose  **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form, if the user scrolls to the right of the left edge of the form, the property setting is a negative value.
+For forms whose **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form, if the user scrolls to the right of the left edge of the form, the property setting is a negative value.
 
-The  **CurrentSectionLeft** property is useful for finding the positions of detail sections displayed in Form view as continuous forms or in Datasheet view.
+The **CurrentSectionLeft** property is useful for finding the positions of detail sections displayed in Form view as continuous forms or in Datasheet view.
 
 
 ## Example
 
-The following example displays the  **CurrentSectionLeft** and **CurrentSectionTop** property settings for a control on a continuous form. Whenever the user moves to a new record, the property settings for the current section are displayed in the `lblStatus` label in the form's header.
+The following example displays the **CurrentSectionLeft** and **CurrentSectionTop** property settings for a control on a continuous form. Whenever the user moves to a new record, the property settings for the current section are displayed in the `lblStatus` label in the form's header.
 
 
 ```vb

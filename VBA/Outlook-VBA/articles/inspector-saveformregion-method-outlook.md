@@ -34,7 +34,7 @@ Saves the specified page in design mode in the inspector to the specified file.
 
 ## Remarks
 
-In order for  **SaveFormRegion** to save the form region, the form region must have been loaded in design mode in the inspector.
+In order for **SaveFormRegion** to save the form region, the form region must have been loaded in design mode in the inspector.
 
 
 ## See also

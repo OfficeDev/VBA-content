@@ -33,8 +33,8 @@ String
 
 ## Remarks
 
-The string returned by  **DataAsXML** contains all the rows in the data recordset with Microsoft Visio row IDs pre-pended to them.
+The string returned by **DataAsXML** contains all the rows in the data recordset with Microsoft Visio row IDs pre-pended to them.
 
-The string returned by  **DataAsXML** contains all the valid rows and columns in the data recordset that was imported as well as an additional column, named _Visio_RowID_, inserted as the first column, that assigns a unique row ID to each row in the data recordset.
+The string returned by **DataAsXML** contains all the valid rows and columns in the data recordset that was imported as well as an additional column, named _Visio_RowID_, inserted as the first column, that assigns a unique row ID to each row in the data recordset.
 
 

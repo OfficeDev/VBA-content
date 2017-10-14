@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # pbPresetWordArt Enumeration (Publisher)
 
-Constants that specify the type of preset WordArt, passed to the  ** [Shapes.AddWordArt](shapes-addwordart-method-publisher.md)** method and passed to and returned by the ** [TextEffectFormat.PresetWordArt](texteffectformat-presetwordart-property-publisher.md)** property.
+Constants that specify the type of preset WordArt, passed to the ** [Shapes.AddWordArt](shapes-addwordart-method-publisher.md)** method and passed to and returned by the ** [TextEffectFormat.PresetWordArt](texteffectformat-presetwordart-property-publisher.md)** property.
 
 
 

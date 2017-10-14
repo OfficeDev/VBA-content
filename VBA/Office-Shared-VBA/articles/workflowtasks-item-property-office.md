@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTasks.Item Property (Office)
 
-Gets a  **WorkflowTask** object from the **WorkflowTasks** collection. Read-only.
+Gets a **WorkflowTask** object from the **WorkflowTasks** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **WorkflowTask** object from the **WorkflowTasks** collection. Read-only
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **WorkflowTask** object to be returned.|
+| _Index_|Required|**Long**|The index number of the **WorkflowTask** object to be returned.|
 
 ### Return Value
 

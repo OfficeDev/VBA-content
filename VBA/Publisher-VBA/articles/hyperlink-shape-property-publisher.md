@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Hyperlink.Shape Property (Publisher)
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents the shape associated with a hyperlink.
+Returns a **[Shape](shape-object-publisher.md)** object that represents the shape associated with a hyperlink.
 
 
 ## Syntax
 
  _expression_. **Shape**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.Account Property (Outlook)
 
-Returns a  **[AccountRuleCondition](accountrulecondition-object-outlook.md)** object with an **[AccountRuleCondition.ConditionType](accountrulecondition-conditiontype-property-outlook.md)** of **olConditionAccount** . Read-only.
+Returns a **[AccountRuleCondition](accountrulecondition-object-outlook.md)** object with an **[AccountRuleCondition.ConditionType](accountrulecondition-conditiontype-property-outlook.md)** of **olConditionAccount** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[AccountRuleCondition](accountrulecondition-object-outlook.md)** ob
 
 ## Remarks
 
-Use the returned  **AccountRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that a message is sent or received through the specified account.
+Use the returned **AccountRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that a message is sent or received through the specified account.
 
-This property of the  **[RuleConditions](ruleconditions-object-outlook.md)** collection always returns an **AccountRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[AccountRuleCondition.Enabled](accountrulecondition-enabled-property-outlook.md)** will be **True** .
+This property of the **[RuleConditions](ruleconditions-object-outlook.md)** collection always returns an **AccountRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[AccountRuleCondition.Enabled](accountrulecondition-enabled-property-outlook.md)** will be **True** .
 
 
 ## See also

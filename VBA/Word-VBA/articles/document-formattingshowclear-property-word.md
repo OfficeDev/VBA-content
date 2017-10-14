@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example disables display of the  **Clear Formatting** button in the list of styles.
+This example disables display of the **Clear Formatting** button in the list of styles.
 
 
 ```vb

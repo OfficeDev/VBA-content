@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-An index is a Microsoft Access feature that speeds up searching and sorting in a table. You can create an index for a field in the Indexes window of table Design view, or by setting the field's  **Indexed** property to Yes.
+An index is a Microsoft Access feature that speeds up searching and sorting in a table. You can create an index for a field in the Indexes window of table Design view, or by setting the field's **Indexed** property to Yes.
 
 
  **Note**  The primary key of a table is automatically indexed, and fields for which the data type is Memo or OLE Object can't be indexed.

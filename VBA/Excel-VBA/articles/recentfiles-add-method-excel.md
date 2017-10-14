@@ -33,7 +33,7 @@ Adds a file to the list of recently used files.
 
 ### Return Value
 
-A  **[RecentFile](recentfile-object-excel.md)** object contained by the collection.
+A **[RecentFile](recentfile-object-excel.md)** object contained by the collection.
 
 
 ## Example

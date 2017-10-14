@@ -23,7 +23,7 @@ You can use the Primary property to specify the primary key field for a table. A
 
 ## Setting
 
-The  **Primary** property uses the following settings.
+The **Primary** property uses the following settings.
 
 
 
@@ -31,16 +31,16 @@ The  **Primary** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The selected index is the primary key.|
 |No|**False**|The selected index isn't the primary key.|
-You can set the  **Primary** property in three ways:
+You can set the **Primary** property in three ways:
 
 
 
 
-- In table Design view, select the field or fields in the order you want for the primary key and then click  **Primary Key** on the toolbar.
+- In table Design view, select the field or fields in the order you want for the primary key and then click **Primary Key** on the toolbar.
     
-- In the Indexes window, select or enter the name of an index in the  **Index Name** column and set the **Primary** property to Yes in the Index Properties section.
+- In the Indexes window, select or enter the name of an index in the **Index Name** column and set the **Primary** property to Yes in the Index Properties section.
     
-- In Visual Basic, to access the  **Primary** property of an index, use the DAO **PrimaryKey** property.
+- In Visual Basic, to access the **Primary** property of an index, use the DAO **PrimaryKey** property.
     
 
 
@@ -49,7 +49,7 @@ You can set the  **Primary** property in three ways:
 
 Microsoft Access automatically creates an index on the primary key field of a table and uses it to find records and to create joins between tables. The primary key index requires an entry in each primary key field and allows no duplicates. The order of the fields in a multiple-field primary key determines the default sort order for the table. 
 
-If there is no primary key when you save a table's design, Microsoft Access will display a dialog box asking whether you want a primary key to be created. If you click  **Yes**, an AutoNumber data type field will be added to the table (with its **NewValues** property set to Increment) and set as the primary key. If you click **No**, no primary key will be created.
+If there is no primary key when you save a table's design, Microsoft Access will display a dialog box asking whether you want a primary key to be created. If you click **Yes**, an AutoNumber data type field will be added to the table (with its **NewValues** property set to Increment) and set as the primary key. If you click **No**, no primary key will be created.
 
 A table with no primary key can't be used in a relationship and can be slower to sort and search. 
 

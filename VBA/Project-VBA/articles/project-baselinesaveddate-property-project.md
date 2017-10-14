@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.BaselineSavedDate Property (Project)
 
-Gets date the specified baseline was last saved. Read-only  **Variant**.
+Gets date the specified baseline was last saved. Read-only **Variant**.
 
 
 ## Syntax
@@ -26,10 +26,10 @@ Gets date the specified baseline was last saved. Read-only  **Variant**.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Baseline_|Required|**Long**|Can be one of the  **[PjBaselines](pjbaselines-enumeration-project.md)** constants.|
+| _Baseline_|Required|**Long**|Can be one of the **[PjBaselines](pjbaselines-enumeration-project.md)** constants.|
 
 ## Remarks
 
-If the specified baseline has not been saved,  **BaselineSavedDate** returns "NA".
+If the specified baseline has not been saved, **BaselineSavedDate** returns "NA".
 
 

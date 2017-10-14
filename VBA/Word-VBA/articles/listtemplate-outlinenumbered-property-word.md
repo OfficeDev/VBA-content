@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **False** converts the list template to a single-level list that uses the formatting of the first level.
+Setting this property to **False** converts the list template to a single-level list that uses the formatting of the first level.
 
-You cannot set this property for a  **ListTemplate** object returned from a **[ListGallery](listgallery-object-word.md)** object.
+You cannot set this property for a **ListTemplate** object returned from a **[ListGallery](listgallery-object-word.md)** object.
 
 
 ## Example

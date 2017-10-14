@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Documents Property (Word)
 
-Returns a  **[Documents](documents-object-word.md)** collection that represents all the open documents. Read-only.
+Returns a **[Documents](documents-object-word.md)** collection that represents all the open documents. Read-only.
 
 
 ## Syntax
@@ -28,12 +28,12 @@ Returns a  **[Documents](documents-object-word.md)** collection that represents 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
- **Note**  A document displayed in a protected view window is not a member of the  **[Documents](application-documents-property-word.md)** collection. Instead, use the[Document](document-object-word.md) property of the[ProtectedViewWindow](protectedviewwindow-object-word.md) object to access a document that is displayed in a protected view window.
+ **Note**  A document displayed in a protected view window is not a member of the **[Documents](application-documents-property-word.md)** collection. Instead, use the[Document](document-object-word.md) property of the[ProtectedViewWindow](protectedviewwindow-object-word.md) object to access a document that is displayed in a protected view window.
 
 
 ## Example
 
-This example creates a new document based on the Normal template and then displays the  **Save As** dialog box.
+This example creates a new document based on the Normal template and then displays the **Save As** dialog box.
 
 
 ```

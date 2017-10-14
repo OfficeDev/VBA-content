@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.Floor Property (Project)
-Gets an  **Office.IMsoFloor** object that represents the floor of a 3-D chart. Read-only **IMsoFloor**.
+Gets an **Office.IMsoFloor** object that represents the floor of a 3-D chart. Read-only **IMsoFloor**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets an  **Office.IMsoFloor** object that represents the floor of a 3-D chart. R
 
 ## Remarks
 
-The  **Floor** property fails on 2-D charts.
+The **Floor** property fails on 2-D charts.
 
 
 ## Example

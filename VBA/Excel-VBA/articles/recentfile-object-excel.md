@@ -23,7 +23,7 @@ Represents a file in the list of recently used files.
 
 ## Example
 
-Use  **[RecentFiles](application-recentfiles-property-excel.md)** ( _index_ ), where _index_ is the file number, to return a **RecentFile** object. The following example opens file two in the list of recently used files.
+Use **[RecentFiles](application-recentfiles-property-excel.md)** ( _index_ ), where _index_ is the file number, to return a **RecentFile** object. The following example opens file two in the list of recently used files.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CacheSettings Method (Project)
 
-Displays the  **Cache Settings** dialog box. Available in Project Professional only.
+Displays the **Cache Settings** dialog box. Available in Project Professional only.
 
 
 ## Syntax

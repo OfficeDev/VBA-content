@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRules.Add Method (Outlook)
 
-Creates a new  **[AutoFormatRule](autoformatrule-object-outlook.md)** object and appends it to the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection.
+Creates a new **[AutoFormatRule](autoformatrule-object-outlook.md)** object and appends it to the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Creates a new  **[AutoFormatRule](autoformatrule-object-outlook.md)** object and
 
 ### Return Value
 
-An  **AutoFormatRule** object that represents the new formatting rule.
+An **AutoFormatRule** object that represents the new formatting rule.
 
 
 ## Remarks
 
-Duplicate names for  **AutoFormatRule** objects are allowed in the **AutoFormatRules** collection. A maximum of 25 custom formatting rules can be added to the collection. Built-in formatting rules are not counted against that limit.
+Duplicate names for **AutoFormatRule** objects are allowed in the **AutoFormatRules** collection. A maximum of 25 custom formatting rules can be added to the collection. Built-in formatting rules are not counted against that limit.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.OutlineChildren Property (Project)
 
-Gets a  **[Tasks](task-object-project.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.
+Gets a **[Tasks](task-object-project.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.
 
 
 ## Syntax

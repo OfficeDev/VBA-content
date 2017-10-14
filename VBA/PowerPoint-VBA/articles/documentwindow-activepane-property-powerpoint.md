@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.ActivePane Property (PowerPoint)
 
-Returns a  **[Pane](pane-object-powerpoint.md)** object that represents the active pane in the document window. Read-only.
+Returns a **[Pane](pane-object-powerpoint.md)** object that represents the active pane in the document window. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Pane
 
 ## Example
 
-If the active pane is the slide pane, this example makes the notes pane the active pane. The notes pane is the third member of the  **Panes** collection.
+If the active pane is the slide pane, this example makes the notes pane the active pane. The notes pane is the third member of the **Panes** collection.
 
 
 ```vb

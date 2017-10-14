@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Content Property (Excel)
 
-Returns the content associated to the  **Action** object. Read-only **String** .
+Returns the content associated to the **Action** object. Read-only **String** .
 
 
 ## Syntax

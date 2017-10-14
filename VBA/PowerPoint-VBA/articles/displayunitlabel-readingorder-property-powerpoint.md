@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitLabel.ReadingOrder Property (PowerPoint)
 
-Returns or sets an  **[XlReadingOrder](xlreadingorder-enumeration-powerpoint.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an **[XlReadingOrder](xlreadingorder-enumeration-powerpoint.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

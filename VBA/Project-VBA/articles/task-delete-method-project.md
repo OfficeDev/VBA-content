@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Delete Method (Project)
 
-Deletes the  **Task** object from a **Tasks** collection.
+Deletes the **Task** object from a **Tasks** collection.
 
 
 ## Syntax

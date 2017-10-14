@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.IsPercent Property (Excel)
 
-Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](listcolumn-object-excel.md)** object will be shown in percentage formatting. Read-only **Boolean** . Read-only.
+Returns a **Boolean** value. Returns **True** only if the number data for the **[ListColumn](listcolumn-object-excel.md)** object will be shown in percentage formatting. Read-only **Boolean** . Read-only.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ Returns a  **Boolean** value. Returns **True** only if the number data for the *
 
 This property is used only for lists that are linked to a Microsoft SharePoint Foundation site.
 
-In Excel, you cannot set any of the properties associated with the  **ListDataFormat** object. You can set these properties, however, by modifying the list on the SharePoint site.
+In Excel, you cannot set any of the properties associated with the **ListDataFormat** object. You can set these properties, however, by modifying the list on the SharePoint site.
 
 
 ## Example
 
-The following example returns the setting of the  **IsPercent** property for the third column of the list in Sheet1 of the active workbook.
+The following example returns the setting of the **IsPercent** property for the third column of the list in Sheet1 of the active workbook.
 
 
 ```vb

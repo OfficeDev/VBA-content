@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.Errors Property (Office)
 
-Gets a  **CustomXMLValidationErrors** object that provides access to any XML validation errors, if any exists. If no validation errors exist, this property returns **Nothing**. Read-only.
+Gets a **CustomXMLValidationErrors** object that provides access to any XML validation errors, if any exists. If no validation errors exist, this property returns **Nothing**. Read-only.
 
 
 ## Syntax

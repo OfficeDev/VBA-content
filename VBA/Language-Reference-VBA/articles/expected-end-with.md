@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Expected End With
 
-A  **With** block must be terminated. This error has the following cause and solution:
+A **With** block must be terminated. This error has the following cause and solution:
 
 
 
-- You did not properly terminate a  **With** block. Place an **End With** statement at the end of the block.
+- You did not properly terminate a **With** block. Place an **End With** statement at the end of the block.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

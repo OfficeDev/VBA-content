@@ -18,10 +18,10 @@ Contains Microsoft Excel control properties.
 
 ## Example
 
-Use the  **[ControlFormat](shape-controlformat-property-excel.md)** property to return a **ControlFormat** object. The following example sets the fill range for a list box control on worksheet one.
+Use the **[ControlFormat](shape-controlformat-property-excel.md)** property to return a **ControlFormat** object. The following example sets the fill range for a list box control on worksheet one.
 
 
- **Note**  If the shape isn't a control, the  **ControlFormat** property fails; and if the control isn't a list box, the **ListFillRange** property fails.
+ **Note**  If the shape isn't a control, the **ControlFormat** property fails; and if the control isn't a list box, the **ListFillRange** property fails.
 
 
 ```vb

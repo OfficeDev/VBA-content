@@ -20,7 +20,7 @@ Represents major or minor gridlines on a chart axis.
 
  Gridlines extend the tick marks on a chart axis to make it easier to see the values associated with the data markers. This object is not a collection. There is no object that represents a single gridline; you either enable all gridlines for an axis or disable all of them.
 
-Use the  **[MajorGridlines](axis-majorgridlines-property-word.md)** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **[MinorGridlines](axis-minorgridlines-property-word.md)** property to return the **GridLines** object that represents the minor gridlines. It is possible to return both major and minor gridlines at the same time.
+Use the **[MajorGridlines](axis-majorgridlines-property-word.md)** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **[MinorGridlines](axis-minorgridlines-property-word.md)** property to return the **GridLines** object that represents the minor gridlines. It is possible to return both major and minor gridlines at the same time.
 
 
 ## Example

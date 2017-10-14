@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SolutionsModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the **[SolutionsModule](solutionsmodule-object-outlook.md)** object. Read-only.
+Returns an **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the **[SolutionsModule](solutionsmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-For the  **SolutionsModule** object, this property returns the value **olModuleSolutions** .
+For the **SolutionsModule** object, this property returns the value **olModuleSolutions** .
 
 
 ## See also

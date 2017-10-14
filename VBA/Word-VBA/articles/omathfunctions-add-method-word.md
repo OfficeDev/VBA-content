@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunctions.Add Method (Word)
 
-Inserts a new structure, such as a fraction, into an equation at the specified position and returns an  **OMathFunction** object that represents the structure.
+Inserts a new structure, such as a fraction, into an equation at the specified position and returns an **OMathFunction** object that represents the structure.
 
 
 ## Syntax

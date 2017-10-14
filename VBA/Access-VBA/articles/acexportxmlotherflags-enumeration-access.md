@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcExportXMLOtherFlags Enumeration (Access)
 
-Use with the  **ExportXML** method to specify other behaviors associated with exporting to XML.
+Use with the **ExportXML** method to specify other behaviors associated with exporting to XML.
 
 
 

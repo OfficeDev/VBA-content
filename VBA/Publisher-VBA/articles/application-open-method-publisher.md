@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Open Method (Publisher)
 
-Returns a  **[Document](document-object-publisher.md)** object that represents the newly opened publication.
+Returns a **[Document](document-object-publisher.md)** object that represents the newly opened publication.
 
 
 ## Syntax
 
- _expression_. **Open**( **_Filename_**,  **_ReadOnly_**,  **_AddToRecentFiles_**,  **_SaveChanges_**)
+ _expression_. **Open**( **_Filename_**, **_ReadOnly_**, **_AddToRecentFiles_**, **_SaveChanges_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -42,9 +42,9 @@ Document
 
 ## Remarks
 
-Because Publisher has a single document interface, the  **Open** method works only when you open a new instance of Publisher. The code sample below shows how to create a new, visible instance of Publisher. When finished with the second instance, you can set the application window's [Visible](window-visible-property-publisher.md)property to  **False**, but the process continues to run in the background, even though it is not visible. To close the second instance, you must set the object equal to  **Nothing**.
+Because Publisher has a single document interface, the **Open** method works only when you open a new instance of Publisher. The code sample below shows how to create a new, visible instance of Publisher. When finished with the second instance, you can set the application window's [Visible](window-visible-property-publisher.md)property to **False**, but the process continues to run in the background, even though it is not visible. To close the second instance, you must set the object equal to **Nothing**.
 
-The SaveChanges parameter can be one of the  **PbSaveOption** constants declared in the Publisher type library and shown in the following table.
+The SaveChanges parameter can be one of the **PbSaveOption** constants declared in the Publisher type library and shown in the following table.
 
 
 

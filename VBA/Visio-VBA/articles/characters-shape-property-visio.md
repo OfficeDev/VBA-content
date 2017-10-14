@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.Shape Property (Visio)
 
-Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
+Returns the **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Shape
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Shape** property to get the **Shape** objects that own a **Cell** and a **Characters** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Shape** property to get the **Shape** objects that own a **Cell** and a **Characters** object.
 
 
 ```vb

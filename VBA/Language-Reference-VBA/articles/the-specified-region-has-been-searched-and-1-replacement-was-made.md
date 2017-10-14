@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The specified region has been searched and 1 replacement was made
 
-When you click the  **Replace All** button in the **Replace** dialog box, this message specifies the total number of replacements. This condition has the following cause and effect:
+When you click the **Replace All** button in the **Replace** dialog box, this message specifies the total number of replacements. This condition has the following cause and effect:
 
 
 

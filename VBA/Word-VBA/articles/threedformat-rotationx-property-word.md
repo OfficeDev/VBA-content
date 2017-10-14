@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.RotationX Property (Word)
 
-Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write  **Single** .
+Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write **Single** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the rotation of the extruded shape around the x-axis in degrees.
 
 ## Remarks
 
-The  **RotationX** property can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation.
+The **RotationX** property can be a value from - 90 through 90. A positive value indicates upward rotation; a negative value indicates downward rotation.
 
-To set the rotation of the extruded shape around the y-axis, use the  **[RotationY](threedformat-rotationy-property-word.md)** property of the ThreeDFormat object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](shape-rotation-property-word.md)** property of the **[Shape](shape-object-word.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](threedformat-setextrusiondirection-method-word.md)** method.
+To set the rotation of the extruded shape around the y-axis, use the **[RotationY](threedformat-rotationy-property-word.md)** property of the ThreeDFormat object. To set the rotation of the extruded shape around the z-axis, use the **[Rotation](shape-rotation-property-word.md)** property of the **[Shape](shape-object-word.md)** object. To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](threedformat-setextrusiondirection-method-word.md)** method.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddTextEffect Method (Word)
 
-Adds a WordArt shape to a drawing canvas. Returns a  **[Shape](shape-object-word.md)** object that represents the WordArt.
+Adds a WordArt shape to a drawing canvas. Returns a **[Shape](shape-object-word.md)** object that represents the WordArt.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds a WordArt shape to a drawing canvas. Returns a  **[Shape](shape-object-word
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetTextEffect_|Required| **Mso**|A preset text effect. The values of the  **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
+| _PresetTextEffect_|Required| **Mso**|A preset text effect. The values of the **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).|
 | _Text_|Required| **String**|The text in the WordArt.|
 | _FontName_|Required| **String**|The name of the font used in the WordArt.|
 | _FontSize_|Required| **Single**|The size (in points) of the font used in the WordArt.|

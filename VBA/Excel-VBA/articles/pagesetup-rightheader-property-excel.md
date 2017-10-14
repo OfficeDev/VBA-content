@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightHeader Property (Excel)
 
-Returns or sets the right part of the header. Read/write  **String** .
+Returns or sets the right part of the header. Read/write **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetRecipientFromID Method (Outlook)
 
-Returns the  **[Recipient](recipient-object-outlook.md)** object that is identified by the specified entry ID (if valid).
+Returns the **[Recipient](recipient-object-outlook.md)** object that is identified by the specified entry ID (if valid).
 
 
 ## Syntax
@@ -29,23 +29,23 @@ Returns the  **[Recipient](recipient-object-outlook.md)** object that is identif
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EntryID_|Required| **String**|The  **[EntryID](recipient-entryid-property-outlook.md)** of the recipient.|
+| _EntryID_|Required| **String**|The **[EntryID](recipient-entryid-property-outlook.md)** of the recipient.|
 
 ### Return Value
 
-A  **Recipient** object that represents the specified recipient.
+A **Recipient** object that represents the specified recipient.
 
 
 ## Remarks
 
 This method is used to ease the transition between MAPI and OLE/Messaging applications and Microsoft Outlook.
 
-This method is similar to the  **[GetRecipientFromID](account-getrecipientfromid-method-outlook.md)** method of the **[Account](account-object-outlook.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
+This method is similar to the **[GetRecipientFromID](account-getrecipientfromid-method-outlook.md)** method of the **[Account](account-object-outlook.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example gets the entry ID of the first recipient for the first item in the  **[Items](items-object-outlook.md)** collection for the **Inbox** folder, uses **GetRecipientFromID** to obtain the recipient from the entry ID, and displays the recipient name.
+This Visual Basic for Applications (VBA) example gets the entry ID of the first recipient for the first item in the **[Items](items-object-outlook.md)** collection for the **Inbox** folder, uses **GetRecipientFromID** to obtain the recipient from the entry ID, and displays the recipient name.
 
 
 ```vb

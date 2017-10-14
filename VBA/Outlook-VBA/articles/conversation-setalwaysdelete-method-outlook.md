@@ -34,11 +34,11 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
 ## Remarks
 
-The  **SetAlwaysDelete** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the store specified by the _Store_ parameter represents a non-delivery store such as an archive .pst store, the action is applied to conversation items in the default delivery store.
+The **SetAlwaysDelete** method operates on conversation items in the delivery store specified by the _Store_ parameter. If the store specified by the _Store_ parameter represents a non-delivery store such as an archive .pst store, the action is applied to conversation items in the default delivery store.
 
 If the  _AlwaysDelete_ parameter is **olAlwaysDelete** , conversation items are moved to the Deleted Items folder for the specfied store. In this case, the items are not permanently deleted, unless the user has specified a separate option to permanently delete items when Microsoft Outlook shuts down.
 
-If  **SetAlwaysDelete** returns **olDoNotDelete** , existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
+If **SetAlwaysDelete** returns **olDoNotDelete** , existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
 
 
 ## Example

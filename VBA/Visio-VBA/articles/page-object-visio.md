@@ -18,11 +18,11 @@ Represents a drawing page, which can be either a foreground page or a background
 
 ## Remarks
 
-The default property of a  **Page** object is **Name**.
+The default property of a **Page** object is **Name**.
 
-To retrieve the active page in an instance, use the  **ActivePage** property of an **Application** object.
+To retrieve the active page in an instance, use the **ActivePage** property of an **Application** object.
 
-The members of a  **Document** object's **Pages** collection represent the pages in that document. To retrieve a page's shapes, use the **Shapes** property of a **Page** object.
+The members of a **Document** object's **Pages** collection represent the pages in that document. To retrieve a page's shapes, use the **Shapes** property of a **Page** object.
 
 
 ## Events

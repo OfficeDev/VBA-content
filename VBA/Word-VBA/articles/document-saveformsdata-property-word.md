@@ -32,7 +32,7 @@ This example sets Word to save only the data entered in a form
 ActiveDocument.SaveFormsData = True
 ```
 
-This example returns the current status of the  **Save data only for forms** check box in the **Save** options area on the **Save** tab in the **Options** dialog box.
+This example returns the current status of the **Save data only for forms** check box in the **Save** options area on the **Save** tab in the **Options** dialog box.
 
 
 

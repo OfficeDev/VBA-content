@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetExtrusionDirection Property (Publisher)
 
-Returns an  **MsoPresetExtrusionDirection** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
+Returns an **MsoPresetExtrusionDirection** constant that represents the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read-only.
 
 
 ## Syntax
 
  _expression_. **PresetExtrusionDirection**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoPresetExtrusionDirection
 
 ## Remarks
 
-The  **PresetExtrusionDirection** property value can be one of the **MsoPresetExtrusionDirection** constants declared in the Microsoft Office type library and shown in the following table.
+The **PresetExtrusionDirection** property value can be one of the **MsoPresetExtrusionDirection** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
@@ -44,7 +44,7 @@ The  **PresetExtrusionDirection** property value can be one of the **MsoPresetEx
 | **msoExtrusionTopLeft**|
 | **msoExtrusionTopRight**|
 | **msoPresetExtrusionDirectionMixed**|
-This property is read-only. To set the value of this property, use the  **[SetExtrusionDirection](threedformat-setextrusiondirection-method-publisher.md)** method.
+This property is read-only. To set the value of this property, use the **[SetExtrusionDirection](threedformat-setextrusiondirection-method-publisher.md)** method.
 
 
 ## Example

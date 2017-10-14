@@ -21,7 +21,7 @@ Displays the standard Visual Basic controls plus any ActiveX controls and insert
 
 
 
-- You can customize the  **Toolbox** by adding pages to it or by adding controls using the **Additional** **Controls** command from the **Tools** menu. When you add a page, a **Select** **Objects** tool is always available on the page.
+- You can customize the **Toolbox** by adding pages to it or by adding controls using the **Additional** **Controls** command from the **Tools** menu. When you add a page, a **Select** **Objects** tool is always available on the page.
     
 
 
@@ -30,7 +30,7 @@ Displays the standard Visual Basic controls plus any ActiveX controls and insert
 
 ![Standard toolbox controls](images/tb_pntr_ZA01201663.gif) **Select Objects**
 
-Select Objects is the only item in the  **Toolbox** that doesn't draw a control. When you select it, you can only resize or move a control that has already been drawn on a form.
+Select Objects is the only item in the **Toolbox** that doesn't draw a control. When you select it, you can only resize or move a control that has already been drawn on a form.
 
 
 ![Label](images/tb_label_ZA01201660.gif) **Label**

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Menu Shortcut Keys Available in the Code Window
 
-Use these key combinations for menu shortcuts in the  **Code** window:
+Use these key combinations for menu shortcuts in the **Code** window:
 
 
 

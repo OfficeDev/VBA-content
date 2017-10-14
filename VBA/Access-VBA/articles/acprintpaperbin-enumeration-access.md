@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintPaperBin Enumeration (Access)
 
-Used with the  **PaperBin** property to indicate which paper bin the specified printer should use.
+Used with the **PaperBin** property to indicate which paper bin the specified printer should use.
 
 
 

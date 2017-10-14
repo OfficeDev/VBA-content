@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ThisCell Property (Excel)
 
-Returns the cell in which the user-defined function is being called from as a  **[Range](range-object-excel.md)** object.
+Returns the cell in which the user-defined function is being called from as a **[Range](range-object-excel.md)** object.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the cell in which the user-defined function is being called from as a  *
 
 ## Remarks
 
-Users should not access properties or methods on the  **Range** object when inside the user-defined function. Users can cache the **Range** object for later use and perform additional actions when the recalculation is finished.
+Users should not access properties or methods on the **Range** object when inside the user-defined function. Users can cache the **Range** object for later use and perform additional actions when the recalculation is finished.
 
 
 ## Example
 
-In this example, a function called "UseThisCell" contains the  **ThisCell** property to notify the user of the cell address.
+In this example, a function called "UseThisCell" contains the **ThisCell** property to notify the user of the cell address.
 
 
 ```vb

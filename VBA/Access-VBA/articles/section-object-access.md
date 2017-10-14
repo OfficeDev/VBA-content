@@ -18,7 +18,7 @@ A form section is part of a form such as a header, footer, or detail section.
 
 ## Remarks
 
-You can set section properties which are attributes of a form that affect the appearance or behavior of that section. For example, you can set the  **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in form Design view.
+You can set section properties which are attributes of a form that affect the appearance or behavior of that section. For example, you can set the **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in form Design view.
 
 
 ## Events

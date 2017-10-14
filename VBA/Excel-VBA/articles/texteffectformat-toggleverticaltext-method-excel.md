@@ -25,9 +25,9 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **[Width](shape-width-property-excel.md)** and **[Height](shape-height-property-excel.md)** properties of the **[Shape](shape-object-excel.md)** object that represents the WordArt and leaves the **[Left](shape-left-property-excel.md)** and **[Top](shape-top-property-excel.md)** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **[Width](shape-width-property-excel.md)** and **[Height](shape-height-property-excel.md)** properties of the **[Shape](shape-object-excel.md)** object that represents the WordArt and leaves the **[Left](shape-left-property-excel.md)** and **[Top](shape-top-property-excel.md)** properties unchanged.
 
-The  **[Flip](shape-flip-method-excel.md)** method and **[Rotation](shape-rotation-property-excel.md)** property of the **Shape** object and the **[RotatedChars](texteffectformat-rotatedchars-property-excel.md)** property and **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-excel.md)** method of the **[TextEffectFormat](texteffectformat-object-excel.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](shape-flip-method-excel.md)** method and **[Rotation](shape-rotation-property-excel.md)** property of the **Shape** object and the **[RotatedChars](texteffectformat-rotatedchars-property-excel.md)** property and **[ToggleVerticalText](texteffectformat-toggleverticaltext-method-excel.md)** method of the **[TextEffectFormat](texteffectformat-object-excel.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example

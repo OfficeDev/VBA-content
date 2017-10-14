@@ -26,8 +26,8 @@ Specifies the type of rectangle and the information it contains.
 | **wdTextRectangle**|0|Represents a space occupied by text.|
 | **wdDocumentControlRectangle**|13|Represents space occupied by a content control, equation, or document building block in-document control.|
 | **wdMailNavArea**|12|Represents space occupied by the e-mail message navigation buttons when reading e-mail in Microsoft Office Outlook.|
-| **wdMarkupRectangleArea**|8|Represents space occupied for the presentation of revision balloons on the page. This space is only printed if you print using "Document Showing Markup" in the  **Print** dialog box.|
-| **wdMarkupRectangleMoveMatch**|10|Represents space occupied by the  **Go** button used to find matching pairs of tracked moves in a document.|
+| **wdMarkupRectangleArea**|8|Represents space occupied for the presentation of revision balloons on the page. This space is only printed if you print using "Document Showing Markup" in the **Print** dialog box.|
+| **wdMarkupRectangleMoveMatch**|10|Represents space occupied by the **Go** button used to find matching pairs of tracked moves in a document.|
 | **wdReadingModeNavigation**|9|Represents space occupied by the page navigation buttons when reading a document in full page reading view.|
 | **wdReadingModePanningArea**|11|Represents space occupied for page turning when reading a document in full page reading view.|
 

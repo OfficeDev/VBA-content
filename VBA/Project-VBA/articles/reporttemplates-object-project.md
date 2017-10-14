@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[Item](reporttemplates-item-property-project.md)** property to return a single **ReportTemplate** object.
+Use the **[Item](reporttemplates-item-property-project.md)** property to return a single **ReportTemplate** object.
  
 
  

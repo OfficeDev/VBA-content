@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.DisplayKeysInTooltips Property (Office)
 
-Is  **True** if shortcut keys are displayed in the **ToolTips** for each command bar control. Read/write.
+Is **True** if shortcut keys are displayed in the **ToolTips** for each command bar control. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Is  **True** if shortcut keys are displayed in the **ToolTips** for each command
 
 ## Remarks
 
-To display shortcut keys in  **ToolTips**, you must also set the  **DisplayTooltips** property to **True**.
+To display shortcut keys in **ToolTips**, you must also set the **DisplayTooltips** property to **True**.
 
 
 ## Example

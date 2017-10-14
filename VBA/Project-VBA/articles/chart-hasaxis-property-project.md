@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.HasAxis Property (Project)
-Gets or sets which axes exist on a chart. Read/write  **Variant**.
+Gets or sets which axes exist on a chart. Read/write **Variant**.
 
 ## Syntax
 
@@ -22,8 +22,8 @@ Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **Office.XlAxisType** constants.|
-| _AxisGroup_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **Office.XlAxisGroup** constants.|
+| _axisType_|Required|**Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the **Office.XlAxisType** constants.|
+| _AxisGroup_|Optional|**Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the **Office.XlAxisGroup** constants.|
 
 ### Return Value
 
@@ -32,9 +32,9 @@ Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 ## Remarks
 
-You must enter a value for at least one of the parameters when setting the  **HasAxis** property.
+You must enter a value for at least one of the parameters when setting the **HasAxis** property.
 
-Project may create or delete axes if you change the chart type or the  **IMsoAxis.AxisGroup**,  **IMsoChartGroup.AxisGroup**, or  **IMsoSeries.AxisGroup** properties.
+Project may create or delete axes if you change the chart type or the **IMsoAxis.AxisGroup**, **IMsoChartGroup.AxisGroup**, or **IMsoSeries.AxisGroup** properties.
 
 
 ## Example

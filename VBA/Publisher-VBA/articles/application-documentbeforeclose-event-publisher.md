@@ -18,9 +18,9 @@ Occurs immediately before any open document closes.
 
 ## Syntax
 
- _expression_. **DocumentBeforeClose**( **_Doc_**,  **_Cancel_**)
+ _expression_. **DocumentBeforeClose**( **_Doc_**, **_Cancel_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -34,12 +34,12 @@ Occurs immediately before any open document closes.
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-This example prompts the user for a yes or no response before closing a document. To see this example work, this code must be placed in a class module and an instance of the class must be correctly initialized, using an example similar to the  **SetPubApp** routine below.
+This example prompts the user for a yes or no response before closing a document. To see this example work, this code must be placed in a class module and an instance of the class must be correctly initialized, using an example similar to the **SetPubApp** routine below.
 
 
 ```vb

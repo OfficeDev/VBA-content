@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.RevisionsBalloonWidthType Property (Word)
 
-Sets or returns a  **WdRevisionsBalloonWidthType** constant representing the global setting that specifies how Microsoft Word measures the width of revision balloons. Read/write.
+Sets or returns a **WdRevisionsBalloonWidthType** constant representing the global setting that specifies how Microsoft Word measures the width of revision balloons. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **WdRevisionsBalloonWidthType** constant representing the glo
 
 ## Remarks
 
-The  **RevisionsBalloonWidthType** property sets the measurement unit to use when setting the **RevisionsBalloonWidth** property.
+The **RevisionsBalloonWidthType** property sets the measurement unit to use when setting the **RevisionsBalloonWidth** property.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnNames.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified[ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) object. Read-only.
 
 
 ## Syntax

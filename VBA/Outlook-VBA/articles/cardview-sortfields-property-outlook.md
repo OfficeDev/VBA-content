@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.SortFields Property (Outlook)
 
-Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represents the set of fields by which the items displayed in the **[CardView](cardview-object-outlook.md)** object are ordered. Read-only.
+Returns an **[OrderFields](orderfields-object-outlook.md)** object that represents the set of fields by which the items displayed in the **[CardView](cardview-object-outlook.md)** object are ordered. Read-only.
 
 
 ## Syntax

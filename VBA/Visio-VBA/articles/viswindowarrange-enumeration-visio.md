@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisWindowArrange Enumeration (Visio)
 
-Values to pass to the  **Windows.Arrange** method.
+Values to pass to the **Windows.Arrange** method.
 
 
 

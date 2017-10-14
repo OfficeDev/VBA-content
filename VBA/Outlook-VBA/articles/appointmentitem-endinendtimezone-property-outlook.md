@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.EndInEndTimeZone Property (Outlook)
 
-Returns or sets a  **Date** value that represents the end date and time of the appointment expressed in the **[AppointmentItem.EndTimeZone](appointmentitem-endtimezone-property-outlook.md)** . Read/write.
+Returns or sets a **Date** value that represents the end date and time of the appointment expressed in the **[AppointmentItem.EndTimeZone](appointmentitem-endtimezone-property-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the end date and time of the a
 
 ## Remarks
 
-This is the value displayed as  **End time** in the appointment inspector user interface.
+This is the value displayed as **End time** in the appointment inspector user interface.
 
 
 ## See also

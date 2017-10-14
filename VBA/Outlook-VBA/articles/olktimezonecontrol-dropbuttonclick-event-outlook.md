@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeZoneControl.DropButtonClick Event (Outlook)
 
-Occurs when the user clicks the drop button to expand the drop-down list in the time zone control, or when the  **[DropDown](olktimezonecontrol-dropdown-method-outlook.md)** method is called programmatically.
+Occurs when the user clicks the drop button to expand the drop-down list in the time zone control, or when the **[DropDown](olktimezonecontrol-dropdown-method-outlook.md)** method is called programmatically.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListColumn.Index Property (Excel)
 
-Returns a  **Long** value that represents the index number of the **[ListColumn](listcolumn-object-excel.md)** object within the **[ListColumns](listcolumn-object-excel.md)** collection.
+Returns a **Long** value that represents the index number of the **[ListColumn](listcolumn-object-excel.md)** object within the **[ListColumns](listcolumn-object-excel.md)** collection.
 
 
 ## Syntax

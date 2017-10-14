@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.MoveIntoTextFlow Method (Publisher)
 
-Moves a given shape into the text flow defined by  ** [TextRange Object](textrange-object-publisher.md)**. The shape will always be inserted inline at the beginning of the text flow.
+Moves a given shape into the text flow defined by ** [TextRange Object](textrange-object-publisher.md)**. The shape will always be inserted inline at the beginning of the text flow.
 
 
 ## Syntax
 
  _expression_. **MoveIntoTextFlow**( **_Range_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Moves a given shape into the text flow defined by  ** [TextRange Object](textran
 
 ## Remarks
 
-The  **MoveIntoTextFlow** method will fail if the shape to be moved is already inline or if it is not a valid inline shape type. Invalid inline shape types include:
+The **MoveIntoTextFlow** method will fail if the shape to be moved is already inline or if it is not a valid inline shape type. Invalid inline shape types include:
 
 
 - Inline shapes

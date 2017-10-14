@@ -29,14 +29,14 @@ B = A(2)
 
 ```
 
-The lower bound of an array created using the  **Array** function is determined by the lower bound specified with the **Option Base** statement, unless **Array** is qualified with the name of the type library (for example **VBA.Array** ). If qualified with the type-library name, **Array** is unaffected by **Option Base**.
+The lower bound of an array created using the **Array** function is determined by the lower bound specified with the **Option Base** statement, unless **Array** is qualified with the name of the type library (for example **VBA.Array** ). If qualified with the type-library name, **Array** is unaffected by **Option Base**.
 
- **Note**  A  **Variant** that is not declared as an array can still contain an array. A **Variant** variable can contain an array of any type, except fixed-length strings and[user-defined types](vbe-glossary.md). Although a  **Variant** containing an array is conceptually different from an array whose elements are of type **Variant**, the array elements are accessed in the same way.
+ **Note**  A **Variant** that is not declared as an array can still contain an array. A **Variant** variable can contain an array of any type, except fixed-length strings and[user-defined types](vbe-glossary.md). Although a **Variant** containing an array is conceptually different from an array whose elements are of type **Variant**, the array elements are accessed in the same way.
 
 
 ## Example
 
-This example uses the  **Array** function to return a **Variant** containing an array.
+This example uses the **Array** function to return a **Variant** containing an array.
 
 
 ```vb

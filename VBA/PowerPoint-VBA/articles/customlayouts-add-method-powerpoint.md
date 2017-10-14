@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayouts.Add Method (PowerPoint)
 
-Returns a  **CustomLayout** object that represents a new custom layout.
+Returns a **CustomLayout** object that represents a new custom layout.
 
 
 ## Syntax

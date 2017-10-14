@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You have referenced an undefined query name. Check the queries listed in the  **QueryDefs** collection to make sure you referenced a valid query name.
+You have referenced an undefined query name. Check the queries listed in the **QueryDefs** collection to make sure you referenced a valid query name.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

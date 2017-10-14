@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.NameLocal Property (Word)
 
-Returns the name of a proofing tool language in the language of the user. Read-only  **String** .
+Returns the name of a proofing tool language in the language of the user. Read-only **String** .
 
 
 ## Syntax

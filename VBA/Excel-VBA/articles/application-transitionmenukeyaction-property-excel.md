@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TransitionMenuKeyAction Property (Excel)
 
-Returns or sets the action taken when the Microsoft Excel menu key is pressed. Can be either  **xlExcelMenus** or **xlLotusHelp** . Read/write **Long** .
+Returns or sets the action taken when the Microsoft Excel menu key is pressed. Can be either **xlExcelMenus** or **xlLotusHelp** . Read/write **Long** .
 
 
 ## Syntax

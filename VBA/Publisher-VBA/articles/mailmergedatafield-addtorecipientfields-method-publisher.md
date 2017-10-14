@@ -13,28 +13,28 @@ ms.date: 06/08/2017
 
 # MailMergeDataField.AddToRecipientFields Method (Publisher)
 
-Adds the parent  **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
+Adds the parent **MailMergeDataField** object from a particular data source to the master data source (collection of data fields) for a mail-merge publication.
 
 
 ## Syntax
 
  _expression_. **AddToRecipientFields**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_A variable that represents a **MailMergeDataField** object.
 
 
 ## Remarks
 
-This method works only if the parent  **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
+This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddToRecipientFields** method to add a data field (column) in a particular data source to the master data source (combined recipient list) for the publication.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AddToRecipientFields** method to add a data field (column) in a particular data source to the master data source (combined recipient list) for the publication.
 
 Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, and replace _fieldname_ with the name of the field in the data source that you want to add to the combined list of recipient fields.
 
-See the  **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
+See the **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
 
 
 

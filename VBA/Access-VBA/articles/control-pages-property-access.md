@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.Pages Property (Access)
 
-Returns a  **[Pages](pages-object-access.md)** collection that represents the pages in the specified control that supports tabbed pages (for example, a **TabControl** object). Read-only.
+Returns a **[Pages](pages-object-access.md)** collection that represents the pages in the specified control that supports tabbed pages (for example, a **TabControl** object). Read-only.
 
 
 ## Syntax

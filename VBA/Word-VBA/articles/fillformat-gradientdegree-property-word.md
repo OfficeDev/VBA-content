@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientDegree Property (Word)
 
-Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single** .
+Returns a value that indicates how dark or light a one-color gradient fill is. Read-only **Single** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a value that indicates how dark or light a one-color gradient fill is. R
 
 A value of 0 (zero) means that black is mixed in with the shape's foreground color to form the gradient; a value of 1 means that white is mixed in; and values between 0 and 1 mean that a darker or lighter shade of the foreground color is mixed in. 
 
-Use the  **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** method to set the gradient degree for the fill.
+Use the **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** method to set the gradient degree for the fill.
 
 
 ## Example

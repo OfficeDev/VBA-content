@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.SegmentType Property (Word)
 
-Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only  **MsoSegmentType** .
+Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only **MsoSegmentType** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a value that indicates whether the segment associated with the specified
 
 ## Remarks
 
-If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve** .
+If the specified node is a control point for a curved segment, this property returns **msoSegmentCurve** .
 
-Use the  **SetSegmentType** method to set the value of this property.
+Use the **SetSegmentType** method to set the value of this property.
 
 
 ## Example

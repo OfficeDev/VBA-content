@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Referencing Properties by Namespace
 
-This topic lists the namespaces that are supported by the  **PropertyAccessor**,  **Table**,  **View**, and their children objects,and discusses referencing named properties.
+This topic lists the namespaces that are supported by the **PropertyAccessor**, **Table**, **View**, and their children objects,and discusses referencing named properties.
 
 
 ## Namespaces Used by Outlook Objects
@@ -19,7 +19,7 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 | **Namespaces**| **Supported Outlook Objects**|
 |:-----|:-----|
-|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](outlook-item-objects.md),  **[AddressEntry](addressentry-object-outlook.md)**,  **[AddressList](addresslist-object-outlook.md)**,  **[Attachment](attachment-object-outlook.md)**,  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**,  **[ExchangeUser](exchangeuser-object-outlook.md)**,  **[Folder](folder-object-outlook.md)**,  **[Recipient](recipient-object-outlook.md)**, and  **[Store](store-object-outlook.md)** objects.|
+|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](outlook-item-objects.md), **[AddressEntry](addressentry-object-outlook.md)**, **[AddressList](addresslist-object-outlook.md)**, **[Attachment](attachment-object-outlook.md)**, **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**, **[ExchangeUser](exchangeuser-object-outlook.md)**, **[Folder](folder-object-outlook.md)**, **[Recipient](recipient-object-outlook.md)**, and **[Store](store-object-outlook.md)** objects.|
 |http://schemas.microsoft.com/mapi/id| (Same as above)|
 |http://schemas.microsoft.com/mapi/string|(Same as above)|
 |http://schemas.microsoft.com/exchange|(Same as above)|
@@ -35,16 +35,16 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 ## Messaging Application Programming Interface (MAPI) Namespaces
 
-Many properties that Outlook supports are MAPI properties. The  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object supports three subnamespaces of the MAPI namespace: proptag, id, and string. Each of the following sections contains a description for the subnamespace, a description for the format to reference a property in that subnamespace, and a definition of the syntax as expressed in Augmented Backus-Naur Form (ABNF), that is specified in [[RFC4234]](http://ietfreport.isoc.org/idref/rfc4234/).
+Many properties that Outlook supports are MAPI properties. The **[PropertyAccessor](propertyaccessor-object-outlook.md)** object supports three subnamespaces of the MAPI namespace: proptag, id, and string. Each of the following sections contains a description for the subnamespace, a description for the format to reference a property in that subnamespace, and a definition of the syntax as expressed in Augmented Backus-Naur Form (ABNF), that is specified in [[RFC4234]](http://ietfreport.isoc.org/idref/rfc4234/).
 
 
--  **proptag** namespace
+- **proptag** namespace
     
     This namespace is used to access properties in the MAPI namespace using the property tag of a property. It supports only properties in the MAPI property range (that is, properties with a property identifier below 0x8000). The following is the format to reference a property in this namespace:
     
-     **http://schemas.microsoft.com/mapi/proptag/0xHHHHHHHH**
+    **http://schemas.microsoft.com/mapi/proptag/0xHHHHHHHH**
     
-     **HHHHHHHH** represents a hexadecimal property tag value, with a unique property identifier in the higher-order 16 bits, and a property type in the lower-order 16 bits. Every MAPI property must have a property tag, regardless of whether the property is defined by MAPI, Outlook, or a service provider. The hexadecimal value must follow the prefix "0x". Formally, references of properties in this namespace can be defined in ABNF as follows:
+    **HHHHHHHH** represents a hexadecimal property tag value, with a unique property identifier in the higher-order 16 bits, and a property type in the lower-order 16 bits. Every MAPI property must have a property tag, regardless of whether the property is defined by MAPI, Outlook, or a service provider. The hexadecimal value must follow the prefix "0x". Formally, references of properties in this namespace can be defined in ABNF as follows:
     
 
 
@@ -55,17 +55,17 @@ property-type = 4HEXDIG
 ```
 
 
-    For example, the following represents the MAPI property  **PidTagSubject** that Outlook exposes in its object model as **Subject**: 
+    For example, the following represents the MAPI property **PidTagSubject** that Outlook exposes in its object model as **Subject**: 
     
-     **http://schemas.microsoft.com/mapi/proptag/0x0037001E**
+    **http://schemas.microsoft.com/mapi/proptag/0x0037001E**
     
--  **id** namespace
+- **id** namespace
     
     This namespace is used to access properties in a namespace identified by the globally unique identifier (GUID) of the namespace, using the identifier of the property. The following is the format to reference a property in this namespace:
     
-     **http://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH**
+    **http://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH**
     
-     **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **HHHHHHHH** represents the property tag.
+    **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **HHHHHHHH** represents the property tag.
     
     Formally, references of properties in this namespace can be defined in ABNF as follows:
     
@@ -78,17 +78,17 @@ property-long-id = 8HEXDIG
 ```
 
 
-    For example, the following represents the Outlook  **NoAging** property:
+    For example, the following represents the Outlook **NoAging** property:
     
-     **http://schemas.microsoft.com/mapi/id/{00062008-0000-0000-C000-000000000046}/850E000B**
+    **http://schemas.microsoft.com/mapi/id/{00062008-0000-0000-C000-000000000046}/850E000B**
     
--  **string** namespace
+- **string** namespace
     
     This namespace is used to access string-named properties in an identified namespace. The following is the format to reference a property in this namespace:
     
-     **http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ _name_**
+    **http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ _name_**
     
-     **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **_name_** is the local property name defined as a string.
+    **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **_name_** is the local property name defined as a string.
     
     Formally, references of properties in this namespace can be defined in ABNF as follows:
     
@@ -103,9 +103,9 @@ property-name = 1*CHAR
 
     The following is an example that uses this namespace:
     
-     **http://schemas.microsoft.com/mapi/string/{00020386-0000-0000-C000-000000000046}/content-class**
+    **http://schemas.microsoft.com/mapi/string/{00020386-0000-0000-C000-000000000046}/content-class**
     
-    Escaping rules apply to referencing named properties in the  **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.
+    Escaping rules apply to referencing named properties in the **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.
     
 
 | **Character in Property Reference**| **Escape String**|
@@ -114,7 +114,7 @@ property-name = 1*CHAR
 |Single quote|%27|
 |Percent character|%25|
 
-    The following is an example of how you specify and get the value of a named property,  **Mom's "Gift"**, defined in the MAPI string namespace, by using the  ** [PropertyAccessor.GetProperty](propertyaccessor-getproperty-method-outlook.md)** method:
+    The following is an example of how you specify and get the value of a named property, **Mom's "Gift"**, defined in the MAPI string namespace, by using the ** [PropertyAccessor.GetProperty](propertyaccessor-getproperty-method-outlook.md)** method:
     
 
 
@@ -138,61 +138,61 @@ The following is an example of a property referenced by this namespace:
 
 ## Office Namespaces
 
-The  **PropertyAccessor** object supports two Office subnamespaces:
+The **PropertyAccessor** object supports two Office subnamespaces:
 
 
 - Office namespace 
     
-    This namespace is used to access properties of the  **[DocumentItem](documentitem-object-outlook.md)** object. The following is the format to reference a property in this namespace:
+    This namespace is used to access properties of the **[DocumentItem](documentitem-object-outlook.md)** object. The following is the format to reference a property in this namespace:
     
-     **urn:schemas-microsoft-com:office:office# _name_**
+    **urn:schemas-microsoft-com:office:office# _name_**
     
-     **_name_** is the local property name defined as a string.
+    **_name_** is the local property name defined as a string.
     
-    The following are some examples of referencing  **DocumentItem** properties using the Office namespace:
+    The following are some examples of referencing **DocumentItem** properties using the Office namespace:
     
-      -  **urn:schemas-microsoft-com:office:office#Subject**
+      - **urn:schemas-microsoft-com:office:office#Subject**
     
-  -  **urn:schemas-microsoft-com:office:office#Template**
+  - **urn:schemas-microsoft-com:office:office#Template**
     
 - Outlook namespace
     
     This namespace is used to access Outlook item-level properties. Similar to other namespaces that support property referencing, use this namespace to access Outlook properties that are not explicitly exposed in the object model. The following is the format to reference a property in this namespace: 
     
-     **urn:schemas-microsoft-com:office:outlook# _name_**
+    **urn:schemas-microsoft-com:office:outlook# _name_**
     
-     **_name_** is the local property name defined as a string.
+    **_name_** is the local property name defined as a string.
     
     The following is an example of referencing an Outlook item-level property by using the Outlook namespace: 
     
-     **urn:schemas-microsoft-com:office:outlook#remotemessagesize**
+    **urn:schemas-microsoft-com:office:outlook#remotemessagesize**
     
 
 ## Distributed Authoring and Versioning (DAV) Namespaces
 
 DAV namespaces are used to access Outlook item-level properties. A property in a DAV namespace is scoped using a Uniform Resource Identifier (URI) namespace reference. The format is a concatenation of the namespace URI prefix and the local property name expressed in a string, with the namespace URI being either a Uniform Resource Name (URN) or Uniform Resource Locator (URL).
 
-The following are the DAV namespaces that the  **PropertyAccessor** object supports:
+The following are the DAV namespaces that the **PropertyAccessor** object supports:
 
 
--  **DAV:**
+- **DAV:**
     
--  **urn:schemas:calendar**
+- **urn:schemas:calendar**
     
--  **urn:schemas:contacts**
+- **urn:schemas:contacts**
     
--  **urn:schemas:httpmail**
+- **urn:schemas:httpmail**
     
--  **urn:schemas:mailheader**
+- **urn:schemas:mailheader**
     
 These are some examples of properties being referenced by different DAV namespaces:
 
 
--  **DAV:checkintime**
+- **DAV:checkintime**
     
--  **urn:schemas:httpmail:subject**
+- **urn:schemas:httpmail:subject**
     
--  **urn:schemas:mailheader:subject**
+- **urn:schemas:mailheader:subject**
     
 
 ## See also

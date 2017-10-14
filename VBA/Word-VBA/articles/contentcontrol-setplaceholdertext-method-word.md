@@ -29,8 +29,8 @@ Sets the placeholder text that displays in the content control until a user ente
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _BuildingBlock_|Optional| **BuildingBlock**|Specifies a  **BuildingBlock** object that contains the contents of the placeholder text.|
-| _Range_|Optional| **Range**|Specifies a  **Range** object that contains the contents of the placeholder text.|
+| _BuildingBlock_|Optional| **BuildingBlock**|Specifies a **BuildingBlock** object that contains the contents of the placeholder text.|
+| _Range_|Optional| **Range**|Specifies a **Range** object that contains the contents of the placeholder text.|
 | _Text_|Optional| **String**|Specifies the contents of the placeholder text.|
 
 ## Remarks

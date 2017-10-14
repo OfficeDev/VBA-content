@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.Text Property (Excel)
 
-Returns or sets the text for the specified object. Read/write  **String** .
+Returns or sets the text for the specified object. Read/write **String** .
 
 
 ## Syntax

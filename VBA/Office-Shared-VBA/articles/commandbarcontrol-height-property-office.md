@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Height Property (Office)
 
-Gets or sets the height of a  **CommandBarControl** control. Read/write.
+Gets or sets the height of a **CommandBarControl** control. Read/write.
 
 
 ## 

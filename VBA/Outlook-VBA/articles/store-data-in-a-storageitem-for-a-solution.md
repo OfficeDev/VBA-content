@@ -13,14 +13,14 @@ This topic describes how to store private application data in solution storage p
 
 1. Determine the folder where you would like to store your application data. 
     
-     **Note**  Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
-2. Use  **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to obtain either an existing **[StorageItem](storageitem-object-outlook.md)** object or a new **StorageItem** object if one does not already exist.
+    **Note**  Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
+2. Use **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to obtain either an existing **[StorageItem](storageitem-object-outlook.md)** object or a new **StorageItem** object if one does not already exist.
     
-3. Use  **[StorageItem.Size](storageitem-size-property-outlook.md)** to determine if the **StorageItem** is new. If it is, then use the **[Add](userproperties-add-method-outlook.md)** method of **[StorageItem.UserProperties](storageitem-userproperties-property-outlook.md)** to create a custom property **Order Number**.
+3. Use **[StorageItem.Size](storageitem-size-property-outlook.md)** to determine if the **StorageItem** is new. If it is, then use the **[Add](userproperties-add-method-outlook.md)** method of **[StorageItem.UserProperties](storageitem-userproperties-property-outlook.md)** to create a custom property **Order Number**.
     
-4. Set the  **Order Number** property. This assumes that an existing **StorageItem** already has the custom property **Order Number** defined.
+4. Set the **Order Number** property. This assumes that an existing **StorageItem** already has the custom property **Order Number** defined.
     
-5. Use  **[StorageItem.Save](storageitem-save-method-outlook.md)** to save the **StorageItem** object as a hidden item in the folder.
+5. Use **[StorageItem.Save](storageitem-save-method-outlook.md)** to save the **StorageItem** object as a hidden item in the folder.
     
 
 ```vb

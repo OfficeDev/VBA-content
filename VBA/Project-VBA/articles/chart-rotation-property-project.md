@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.Rotation Property (Project)
-Gets or sets the rotation of the 3-D chart view (the rotation of the plot area around the z-axis), in degrees. Read/write  **Variant**.
+Gets or sets the rotation of the 3-D chart view (the rotation of the plot area around the z-axis), in degrees. Read/write **Variant**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets or sets the rotation of the 3-D chart view (the rotation of the plot area a
 
 ## Remarks
 
-The value of the  **Rotation** property must be from 0 to 360, except for 3-D bar charts, where the value must be from 0 to 44. The default value is 20.
+The value of the **Rotation** property must be from 0 to 360, except for 3-D bar charts, where the value must be from 0 to 44. The default value is 20.
 
 Rotations are rounded to the nearest integer.
 

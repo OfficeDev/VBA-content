@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ComboBox.ColumnHeads Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a single row of column headings are displayed. Read/write.
+Returns or sets a **Boolean** that specifies whether a single row of column headings are displayed. Read/write.
 
 
 ## Syntax
 
  _expression_. **ColumnHeads**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -27,6 +27,6 @@ Returns or sets a  **Boolean** that specifies whether a single row of column hea
 
 Headings in combo boxes appear only when the list drops down.
 
-Setting this property to  **True** displays a blank row as column headings. However, currently there is no way to specify the text for column headings.
+Setting this property to **True** displays a blank row as column headings. However, currently there is no way to specify the text for column headings.
 
 

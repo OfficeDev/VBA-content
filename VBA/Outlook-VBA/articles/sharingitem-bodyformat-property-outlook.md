@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.BodyFormat Property (Outlook)
 
-Returns or sets an  **[OlBodyFormat](olbodyformat-enumeration-outlook.md)** constant indicating the format of the body text. Read/write.
+Returns or sets an **[OlBodyFormat](olbodyformat-enumeration-outlook.md)** constant indicating the format of the body text. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets an  **[OlBodyFormat](olbodyformat-enumeration-outlook.md)** cons
 
 The body text format determines the standard used to display the text of the message. Microsoft Outlook provides three body text format options: Plain Text, Rich Text (RTF), and HTML.
 
-All text formatting will be lost when the  **BodyFormat** property is switched from RTF to HTML and vice-versa.
+All text formatting will be lost when the **BodyFormat** property is switched from RTF to HTML and vice-versa.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.SubtotalName Property (Excel)
 
-Returns or sets the text string label displayed in the subtotal column or row heading in the specified PivotTable report. The default value is the string "Subtotal". Read/write  **String** .
+Returns or sets the text string label displayed in the subtotal column or row heading in the specified PivotTable report. The default value is the string "Subtotal". Read/write **String** .
 
 
 ## Syntax

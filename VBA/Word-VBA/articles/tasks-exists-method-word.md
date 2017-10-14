@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tasks.Exists Method (Word)
 
-Determines whether the specified task exists. Returns  **True** if the task exists.
+Determines whether the specified task exists. Returns **True** if the task exists.
 
 
 ## Syntax

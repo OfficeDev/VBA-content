@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.Delete Method (PowerPoint)
 
-Deletes the specified  **Master** object.
+Deletes the specified **Master** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Forms Property (Access)
 
-You can use the  **Forms** property to return a read-only reference to the **[Forms](forms-object-access.md)** collection and its related properties.
+You can use the **Forms** property to return a read-only reference to the **[Forms](forms-object-access.md)** collection and its related properties.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Forms** property to return a read-only reference to the **[Fo
 
 ## Remarks
 
-The properties of the  **Forms** collection in Visual Basic refer to forms that are currently open.
+The properties of the **Forms** collection in Visual Basic refer to forms that are currently open.
 
 
 ## See also

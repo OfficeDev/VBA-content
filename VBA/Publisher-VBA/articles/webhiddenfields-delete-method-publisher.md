@@ -20,7 +20,7 @@ Deletes the specified hidden Web field or Web list box item object.
 
  _expression_. **Delete**( **_Index_**)
 
- _expression_A variable that represents a  **WebHiddenFields** object.
+ _expression_A variable that represents a **WebHiddenFields** object.
 
 
 ### Parameters

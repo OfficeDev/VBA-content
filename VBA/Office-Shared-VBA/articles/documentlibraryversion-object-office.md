@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion Object (Office)
 
-The  **DocumentLibraryVersion** object represents a single saved version of a shared document which has versioning enabled and which is stored in a document library on the server. Each **DocumentLibraryVersion** object is a member of the active document's **DocumentLibraryVersions** collection.
+The **DocumentLibraryVersion** object represents a single saved version of a shared document which has versioning enabled and which is stored in a document library on the server. Each **DocumentLibraryVersion** object is a member of the active document's **DocumentLibraryVersions** collection.
 
 
 ## Remarks
@@ -31,9 +31,9 @@ The  **DocumentLibraryVersion** object represents a single saved version of a sh
     
 
 
-Use the  **Modified**, **ModifiedBy**, and **Comments** properties to return information about a saved version of a shared document.
+Use the **Modified**, **ModifiedBy**, and **Comments** properties to return information about a saved version of a shared document.
 
-Use the  **Open** method to open a previous version, or the **Restore** method to restore a previous version in place of the current version. Use the **Delete** method to delete a version.
+Use the **Open** method to open a previous version, or the **Restore** method to restore a previous version in place of the current version. Use the **Delete** method to delete a version.
 
 
 ## Example

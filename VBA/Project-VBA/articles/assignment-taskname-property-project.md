@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Assignment.TaskName Property (Project)
 
-Gets or sets the name of the task in the assignment. Read/write  **String**.
+Gets or sets the name of the task in the assignment. Read/write **String**.
 
 
 ## Syntax

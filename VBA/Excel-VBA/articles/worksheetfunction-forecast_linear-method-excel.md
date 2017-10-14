@@ -40,13 +40,13 @@ Double
 ## Remarks
 
 
-- If x is nonnumeric,  **Forecast_Linear** returns the #VALUE! error value.
+- If x is nonnumeric, **Forecast_Linear** returns the #VALUE! error value.
     
 - If  _known_y_ and _known_x_ parameters are empty or contain a different number of data points, **Forecast_Linear** returns the #N/A error value.
     
-- If the variance of  **known_x** parameters equals zero, **Forecast_Linear** returns the #DIV/0! error value.
+- If the variance of **known_x** parameters equals zero, **Forecast_Linear** returns the #DIV/0! error value.
     
-- The equation for  **Forecast_Linear** is a+bx, where:
+- The equation for **Forecast_Linear** is a+bx, where:
 ![Formula](images/awfintc1_ZA06051174.gif)and: 
 ![Formula](images/awfintc2_ZA06051175.gif)and where x and y are the sample means AVERAGE (all  _known_x_ ) and AVERAGE(all _known_y_ ).
     

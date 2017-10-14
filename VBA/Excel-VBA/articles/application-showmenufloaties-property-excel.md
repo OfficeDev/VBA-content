@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowMenuFloaties Property (Excel)
 
-Returns or sets a  **Boolean** that represents whether to display **Mini toolbars** when the user right-clicks in the workbook window. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
+Returns or sets a **Boolean** that represents whether to display **Mini toolbars** when the user right-clicks in the workbook window. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
 
 
 ## Syntax

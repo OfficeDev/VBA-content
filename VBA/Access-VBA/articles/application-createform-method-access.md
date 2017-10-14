@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateForm Method (Access)
 
-The  **CreateForm** method creates a form and returns a **[Form](form-object-access.md)** object.
+The **CreateForm** method creates a form and returns a **[Form](form-object-access.md)** object.
 
 
 ## Syntax
@@ -39,16 +39,16 @@ Form
 
 ## Remarks
 
-You can use the  **CreateForm** method when designing a wizard that creates a new form.
+You can use the **CreateForm** method when designing a wizard that creates a new form.
 
-The  **CreateForm** method opens a new, minimized form in form Design view.
+The **CreateForm** method opens a new, minimized form in form Design view.
 
 If the name you use for the  _formtemplate_ argument isn't valid, Visual Basic uses the form template specified by the **Form Template** setting on the **Forms/Reports** tab of the **Options** dialog box.
 
 
 ## Example
 
-This example creates a new form in the Northwind sample database based on the Customers form, and sets its  **RecordSource** property to the Customers table. Run this code from the Northwind sample database.
+This example creates a new form in the Northwind sample database based on the Customers form, and sets its **RecordSource** property to the Customers table. Run this code from the Northwind sample database.
 
 
 ```vb

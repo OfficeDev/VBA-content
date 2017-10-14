@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyAccessor.GetProperty Method (Outlook)
 
-Returns an  **Object** that represents the value of the property specified by _SchemaName_ .
+Returns an **Object** that represents the value of the property specified by _SchemaName_ .
 
 
 ## Syntax
@@ -33,19 +33,19 @@ Returns an  **Object** that represents the value of the property specified by _S
 
 ### Return Value
 
-A  **Variant** value that represents the value of the requested property as specified by _SchemaName_ .
+A **Variant** value that represents the value of the requested property as specified by _SchemaName_ .
 
 
 ## Remarks
 
-The type of the return value will be the same as the type of the underlying property. Certain raw property types such as  **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods[PropertyAccessor.BinaryToString](propertyaccessor-binarytostring-method-outlook.md) and[PropertyAccessor.UTCToLocalTime](propertyaccessor-utctolocaltime-method-outlook.md). 
+The type of the return value will be the same as the type of the underlying property. Certain raw property types such as **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods[PropertyAccessor.BinaryToString](propertyaccessor-binarytostring-method-outlook.md) and[PropertyAccessor.UTCToLocalTime](propertyaccessor-utctolocaltime-method-outlook.md). 
 
-For more information on getting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on getting properties using the **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
 
 
 ## Example
 
-The following code sample demonstrates how to use the  **GetProperty** method to read a MAPI property that belongs to a **[MailItem](mailitem-object-outlook.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS** .
+The following code sample demonstrates how to use the **GetProperty** method to read a MAPI property that belongs to a **[MailItem](mailitem-object-outlook.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS** .
 
 
 ```vb

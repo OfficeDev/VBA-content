@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # Footnotes Object (Word)
 
-A collection of  **Footnote** objects that represent all the footnotes in a selection, range, or document.
+A collection of **Footnote** objects that represent all the footnotes in a selection, range, or document.
 
 
 ## Remarks
 
-Use the  **Footnotes** property to return the **Footnotes** collection. The following example changes all of the footnotes in the active document to endnotes.
+Use the **Footnotes** property to return the **Footnotes** collection. The following example changes all of the footnotes in the active document to endnotes.
 
 
 ```
 ActiveDocument.Footnotes.SwapWithEndnotes
 ```
 
-Use the  **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
+Use the **Add** method to add a footnote to the **Footnotes** collection. The following example adds a footnote immediately after the selection.
 
 
 
@@ -31,7 +31,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
  Text:="The Willow Tree, (Lone Creek Press, 1996)."
 ```
 
-Use  **Footnotes** (index), where index is the index number, to return a single **[Footnote](footnote-object-word.md)** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
+Use **Footnotes** (index), where index is the index number, to return a single **[Footnote](footnote-object-word.md)** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
 
 
 
@@ -43,7 +43,7 @@ End If
 ```
 
 
- **Note**  Footnotes positioned at the end of a document or section are considered endnotes and are included in the  **[Endnotes](endnotes-object-word.md)** collection.
+ **Note**  Footnotes positioned at the end of a document or section are considered endnotes and are included in the **[Endnotes](endnotes-object-word.md)** collection.
 
 
 ## Methods

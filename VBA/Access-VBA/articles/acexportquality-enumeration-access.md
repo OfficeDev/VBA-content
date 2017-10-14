@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcExportQuality Enumeration (Access)
 
-Use with the  **OutputTo** method to specify the type of output device to optimize for when exporting an object.
+Use with the **OutputTo** method to specify the type of output device to optimize for when exporting an object.
 
 
 

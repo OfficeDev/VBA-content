@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.QueryType Property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[XlQueryType](xlquerytype-enumeration-excel.md)** .
+Indicates the type of query used by Microsoft Excel to populate the query table. Read-only **[XlQueryType](xlquerytype-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -34,13 +34,13 @@ Indicates the type of query used by Microsoft Excel to populate the query table.
 | **xlADORecordset** . Based on an ADO recordset query|
 | **xlDAORecordSet** . Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery** . Based on an ODBC data source|
-You specify the data source in the prefix for the  **[Connection](querytable-connection-property-excel.md)** property's value.
+You specify the data source in the prefix for the **[Connection](querytable-connection-property-excel.md)** property's value.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **QueryType** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **QueryType** property.
 
 
 ## Example

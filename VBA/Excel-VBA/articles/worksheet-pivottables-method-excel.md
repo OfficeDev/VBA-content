@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.PivotTables Method (Excel)
 
-Returns an object that represents either a single PivotTable report (a  **[PivotTable](pivottable-object-excel.md)** object) or a collection of all the PivotTable reports (a **[PivotTables](pivottables-object-excel.md)** object) on a worksheet. Read-only.
+Returns an object that represents either a single PivotTable report (a **[PivotTable](pivottable-object-excel.md)** object) or a collection of all the PivotTable reports (a **[PivotTables](pivottables-object-excel.md)** object) on a worksheet. Read-only.
 
 
 ## Syntax

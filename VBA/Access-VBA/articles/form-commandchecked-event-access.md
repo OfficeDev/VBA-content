@@ -39,12 +39,12 @@ nothing
 
 ## Remarks
 
-The  **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office Web Components.
+The **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office Web Components.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **CommandChecked** event.
+The following example demonstrates the syntax for a subroutine that traps the **CommandChecked** event.
 
 
 ```vb

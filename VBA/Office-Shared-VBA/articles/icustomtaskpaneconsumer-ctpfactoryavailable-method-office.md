@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ICustomTaskPaneConsumer.CTPFactoryAvailable Method (Office)
 
-Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.
+Passes an **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then use
 
 ## Example
 
-The following example, written in C#, creates an instance of a  **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also refers to an ActiveX control, SampleActiveX.myControl, that was created in a separate project.
+The following example, written in C#, creates an instance of a **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also refers to an ActiveX control, SampleActiveX.myControl, that was created in a separate project.
 
 
 ```

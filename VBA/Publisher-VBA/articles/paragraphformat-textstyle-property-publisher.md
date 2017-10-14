@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.TextStyle Property (Publisher)
 
-Returns or sets a  **Variant** that represents the text style applied to a paragraph. Read/write.
+Returns or sets a **Variant** that represents the text style applied to a paragraph. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextStyle**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

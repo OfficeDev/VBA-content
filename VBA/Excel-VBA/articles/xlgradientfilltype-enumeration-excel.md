@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlGradientFillType Enumeration (Excel)
 
-Specifies the type of  **gradient fill** .
+Specifies the type of **gradient fill** .
 
 
 

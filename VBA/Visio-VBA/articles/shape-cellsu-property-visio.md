@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.CellsU Property (Visio)
 
-Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
+Returns a **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Cell
 
  **CellsU** ("somestring") raises an "Unexpected end of file" exception if "somestring" does not name an actual cell. You can use the **CellExistsU** property to determine if a cell with the universal name "somestring" exists.
 
-The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. You can use the  **CellsU** property to access cells in named rows.
+The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. You can use the **CellsU** property to access cells in named rows.
 
 For example, if "Row_1" is the name of a row in a shape's User-Defined Cells section, you can use this statement to access the first cell in this row (the cell in column zero, which holds the name of the row): 
 
@@ -85,12 +85,12 @@ where  _xxx_ is one of these cells: Label, Prompt, SortKey, Type, Format, Invisi
 
  **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
 
-As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Cells** property to get a **Cell** object by using the cell's local name. Use the **CellsU** property to get a **Cell** object by using the cell's universal name.
+As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Cells** property to get a **Cell** object by using the cell's local name. Use the **CellsU** property to get a **Cell** object by using the cell's universal name.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CellsU** property to get a particular ShapeSheet cell by its universal name. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **CellsU** property to get a particular ShapeSheet cell by its universal name. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
 
 
 ```vb

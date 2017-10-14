@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 
 
-- You tried to use the  **RSet** statement on a[variable](vbe-glossary.md) that isn't a string.
+- You tried to use the **RSet** statement on a[variable](vbe-glossary.md) that isn't a string.
     
-    If appropriate, try converting the variable to a string. Otherwise, don't use  **RSet**.
+    If appropriate, try converting the variable to a string. Otherwise, don't use **RSet**.
     
-     **Note**  Although the  **LSet** statement can be used to assign the elements of one[user-defined type](vbe-glossary.md) variable to the elements of a different, but compatible, user-defined type, such assignments are discouraged because they can't be guaranteed to be portable.
+    **Note**  Although the **LSet** statement can be used to assign the elements of one[user-defined type](vbe-glossary.md) variable to the elements of a different, but compatible, user-defined type, such assignments are discouraged because they can't be guaranteed to be portable.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

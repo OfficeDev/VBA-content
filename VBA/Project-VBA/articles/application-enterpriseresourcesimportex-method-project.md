@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnterpriseResourcesImportEx Method (Project)
 
-Imports local resources to the enterprise resource pool, or starts the  **Resource Import Wizard**.
+Imports local resources to the enterprise resource pool, or starts the **Resource Import Wizard**.
 
 
 ## Syntax
@@ -39,11 +39,11 @@ Imports local resources to the enterprise resource pool, or starts the  **Resour
 
 ## Remarks
 
-Using the  **EnterpriseResourcesImportEx** method with no arguments starts the **Resource Import Wizard**. Used that way, the method corresponds to the  **Import Resources to Enterprise** command in the **Add Resources** drop-down menu of the **Resource** tab in the Ribbon.
+Using the **EnterpriseResourcesImportEx** method with no arguments starts the **Resource Import Wizard**. Used that way, the method corresponds to the **Import Resources to Enterprise** command in the **Add Resources** drop-down menu of the **Resource** tab in the Ribbon.
 
 
- **Note**  The  **EnterpriseResourcesImportEx** method starts the file **Open** dialog box, with a list of enterprise projects. You can open an enterprise project that contains local resources or a local project. Alternately, you can use the **[ResourceMappingDialog](application-resourcemappingdialog-method-project.md)** method instead of **EnterpriseResourcesImportEx** to avoid the extra step of opening a project.
+ **Note**  The **EnterpriseResourcesImportEx** method starts the file **Open** dialog box, with a list of enterprise projects. You can open an enterprise project that contains local resources or a local project. Alternately, you can use the **[ResourceMappingDialog](application-resourcemappingdialog-method-project.md)** method instead of **EnterpriseResourcesImportEx** to avoid the extra step of opening a project.
 
-The  **EnterpriseResourcesImportEx** method is available in Project Professional only and requires a connection with Project Server.
+The **EnterpriseResourcesImportEx** method is available in Project Professional only and requires a connection with Project Server.
 
 

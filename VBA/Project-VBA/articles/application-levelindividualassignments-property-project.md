@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can also set the  **LevelIndividualAssignments** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can adjust individual assignments on a task**.
+You can also set the **LevelIndividualAssignments** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can adjust individual assignments on a task**.
 
 

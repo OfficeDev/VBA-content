@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UsableWidth Property (Word)
 
-Returns the maximum width (in points) to which you can set the width of a Microsoft Word document window. Read-only  **Long** .
+Returns the maximum width (in points) to which you can set the width of a Microsoft Word document window. Read-only **Long** .
 
 
 ## Syntax

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Adds a custom chart autoformat to the list of available chart autoformats.
 
- _expression_. **AddChartAutoFormat( _Name_**,  **_Description_)**
+ _expression_. **AddChartAutoFormat( _Name_**, **_Description_)**
 
  _expression_ Required. An expression that returns an **Application** object.
 

@@ -29,16 +29,16 @@ Returns the **[Recipient](recipient-object-outlook.md)** object that is identifi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EntryID_|Required| **String**|The  **[EntryID](recipient-entryid-property-outlook.md)** of the recipient.|
+| _EntryID_|Required| **String**|The **[EntryID](recipient-entryid-property-outlook.md)** of the recipient.|
 
 ### Return Value
 
-A  **Recipient** object that represents the recipient associated with the specified entry ID.
+A **Recipient** object that represents the recipient associated with the specified entry ID.
 
 
 ## Remarks
 
-This method is similar to the  **[GetRecipientFromID](namespace-getrecipientfromid-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
+This method is similar to the **[GetRecipientFromID](namespace-getrecipientfromid-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
 
 
 ## See also

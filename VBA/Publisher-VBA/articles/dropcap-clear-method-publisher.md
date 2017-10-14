@@ -20,7 +20,7 @@ Removes the dropped capital letter formatting.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_A variable that represents a **DropCap** object.
 
 
 ## Example

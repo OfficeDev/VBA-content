@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.AddressEntry Property (Outlook)
 
-Returns the  **[AddressEntry](addressentry-object-outlook.md)** object corresponding to the resolved recipient. Read/write.
+Returns the **[AddressEntry](addressentry-object-outlook.md)** object corresponding to the resolved recipient. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[AddressEntry](addressentry-object-outlook.md)** object correspon
 
 ## Remarks
 
-Accessing the  **AddressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](recipient-resolved-property-outlook.md)** property is **True** .
+Accessing the **AddressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](recipient-resolved-property-outlook.md)** property is **True** .
 
 
 ## See also

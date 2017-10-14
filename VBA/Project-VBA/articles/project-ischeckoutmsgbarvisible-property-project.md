@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Project.IsCheckoutMsgBarVisible Property (Project)
-Gets whether the checkout message bar is visible. Read-only  **Boolean**.
+Gets whether the checkout message bar is visible. Read-only **Boolean**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets whether the checkout message bar is visible. Read-only  **Boolean**.
 
 ## Remarks
 
-The checkout message bar is the yellow information bar near the top of the Project window that shows  **READ-ONLY This project was opened in read-only mode**, and contains a  **Check Out** button. The **IsCheckoutMsgBarVisible** property is **True** if the checkout message bar is visible; otherwise, **False**.
+The checkout message bar is the yellow information bar near the top of the Project window that shows **READ-ONLY This project was opened in read-only mode**, and contains a **Check Out** button. The **IsCheckoutMsgBarVisible** property is **True** if the checkout message bar is visible; otherwise, **False**.
 
 
 ## Example

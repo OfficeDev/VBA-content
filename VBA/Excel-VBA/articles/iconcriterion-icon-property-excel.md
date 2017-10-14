@@ -25,12 +25,12 @@ Returns or specifies the icon for a criterion in an icon set conditional formatt
 
 ## Remarks
 
-After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](iconsetcondition-iconset-property-excel.md)** property is changed to **xlCustomSet** .
+After you set the **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](iconsetcondition-iconset-property-excel.md)** property is changed to **xlCustomSet** .
 
 
 ## Example
 
-The following code example creates an icon set conditional formatting rule that displays four icons split across the specified percentages. The icon set is initially set to use the  **4 Arrows (Colored)** icon set, but the **Icon** property is used to override which icons are used for the first and third criteria. After running the code, the icon for the first criterion is the **Red Cross** icon, the icon for the second criterion is the second arrow from the **4 Arrows (Colored)** icon set, the icon for the third criterion is the **Yellow Traffic Light** icon, and the icon for the fourth criterion is the fourth arrow from **4 Arrows (Colored)** icon set.
+The following code example creates an icon set conditional formatting rule that displays four icons split across the specified percentages. The icon set is initially set to use the **4 Arrows (Colored)** icon set, but the **Icon** property is used to override which icons are used for the first and third criteria. After running the code, the icon for the first criterion is the **Red Cross** icon, the icon for the second criterion is the second arrow from the **4 Arrows (Colored)** icon set, the icon for the third criterion is the **Yellow Traffic Light** icon, and the icon for the fourth criterion is the fourth arrow from **4 Arrows (Colored)** icon set.
 
 
 ```vb

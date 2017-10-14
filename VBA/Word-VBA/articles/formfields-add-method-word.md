@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormFields.Add Method (Word)
 
-Returns a  **FormField** object that represents a new form field added at a range.
+Returns a **FormField** object that represents a new form field added at a range.
 
 
 ## Syntax

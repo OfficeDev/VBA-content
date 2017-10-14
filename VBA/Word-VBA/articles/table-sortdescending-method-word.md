@@ -25,9 +25,9 @@ Sorts table rows in descending alphanumeric order.
 
 ## Remarks
 
-The first table row is considered a header record and isn't included in the sort. Use the  **Sort** method to include the header record in a sort.
+The first table row is considered a header record and isn't included in the sort. Use the **Sort** method to include the header record in a sort.
 
-This method offers a simplified form of sorting intended for mail-merge data sources that contain columns of data. For most sorting tasks, use the  **Sort** method.
+This method offers a simplified form of sorting intended for mail-merge data sources that contain columns of data. For most sorting tasks, use the **Sort** method.
 
 
 ## Example

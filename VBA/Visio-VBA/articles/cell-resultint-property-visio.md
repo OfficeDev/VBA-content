@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-Getting the  **ResultInt** property is similar to a getting a cell's **Result** property. The difference is that the **ResultInt** property returns an integer for the value of the cell, whereas the **Result** property returns a floating point number.
+Getting the **ResultInt** property is similar to a getting a cell's **Result** property. The difference is that the **ResultInt** property returns an integer for the value of the cell, whereas the **Result** property returns a floating point number.
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
@@ -51,7 +51,7 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. If the strin
 
 For a complete list of valid unit strings along with their corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes ](visunitcodes-enumeration-visio.md)** .
+Automation constants for representing units are declared by the Visio type library in member **[VisUnitCodes ](visunitcodes-enumeration-visio.md)** .
 
 The following constants for  _fRound_ are declared in the Visio type library in member **VisRoundFlags** .
 

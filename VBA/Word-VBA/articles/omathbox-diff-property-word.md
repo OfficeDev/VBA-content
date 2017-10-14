@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBox.Diff Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the box acts as the mathematical differential, in which case the box receives the appropriate horizontal spacing for a differential. Read/write.
+Returns or sets a **Boolean** that represents whether the box acts as the mathematical differential, in which case the box receives the appropriate horizontal spacing for a differential. Read/write.
 
 
 ## Syntax

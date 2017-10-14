@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Select Method (PowerPoint)
 
-Selects the  **TextRange2** object.
+Selects the **TextRange2** object.
 
 
 ## Syntax

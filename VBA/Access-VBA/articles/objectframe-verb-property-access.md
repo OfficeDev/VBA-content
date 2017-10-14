@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.Verb Property (Access)
 
-You can use the  **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate**. Read/write **Long**.
+You can use the **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate**. Read/write **Long**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **Verb** property to specify the operation to perform when an O
 
 ## Remarks
 
-You can set the  **Verb** property by specifying an **Integer** data type value indicating the position of a verb in the list of verbs returned by the **ObjectVerbs** property. You can set the **Verb** property to 1 to specify the first verb in the list, you can set it to 2 to specify the second verb in the list, and so on.
+You can set the **Verb** property by specifying an **Integer** data type value indicating the position of a verb in the list of verbs returned by the **ObjectVerbs** property. You can set the **Verb** property to 1 to specify the first verb in the list, you can set it to 2 to specify the second verb in the list, and so on.
 
-If you don't use the  **ObjectVerbs** property to identify a specific verb, you can set the **Verb** property to one of the following values to indicate the operation to perform. These values specify the standard verbs supported by all objects.
+If you don't use the **ObjectVerbs** property to identify a specific verb, you can set the **Verb** property to one of the following values to indicate the operation to perform. These values specify the standard verbs supported by all objects.
 
 
 
@@ -45,9 +45,9 @@ With some applications' objects, you can use these additional values.
 |:-----|:-----|
 |**acOLEVerbInPlaceUIActivate**|Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container.|
 |**acOLEVerbInPlaceActivate**|Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.|
-Each object supports its own set of verbs. For example, many objects support the verbs Edit and Play. You can use the  **ObjectVerbs** and **ObjectVerbsCount** properties to find out which verbs are supported by an object.
+Each object supports its own set of verbs. For example, many objects support the verbs Edit and Play. You can use the **ObjectVerbs** and **ObjectVerbsCount** properties to find out which verbs are supported by an object.
 
-Microsoft Access automatically uses an object's default verb if the user double-clicks an object for which the  **AutoActivate** property is set to Double-Click.
+Microsoft Access automatically uses an object's default verb if the user double-clicks an object for which the **AutoActivate** property is set to Double-Click.
 
 
 ## Example

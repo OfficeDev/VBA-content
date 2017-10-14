@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableSelection Property (Excel)
 
-Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](xlenableselection-enumeration-excel.md)** .
+Returns or sets what can be selected on the sheet. Read/write **[XlEnableSelection](xlenableselection-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelect
 
 ## Remarks
 
-This property takes effect only when the worksheet is protected:  **xlNoSelection** prevents any selection on the sheet, **xlUnlockedCells** allows only those cells whose **Locked** property is **False** to be selected, and **xlNoRestrictions** allows any cell to be selected.
+This property takes effect only when the worksheet is protected: **xlNoSelection** prevents any selection on the sheet, **xlUnlockedCells** allows only those cells whose **Locked** property is **False** to be selected, and **xlNoRestrictions** allows any cell to be selected.
 
 
 ## Example

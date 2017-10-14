@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnterpriseListSeparator Property (Project)
 
-Gets or sets the separator character for enterprise lists. Read/write  **String**.
+Gets or sets the separator character for enterprise lists. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the separator character for enterprise lists. Read/write  **String*
 
 ## Remarks
 
-The  **EnterpriseListSeparator** property is available only in Project Professional.
+The **EnterpriseListSeparator** property is available only in Project Professional.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.DataFileName Property (Publisher)
 
-Returns or sets a  **String** that represents the name of the file in which to save data from a Web form. Read/write.
+Returns or sets a **String** that represents the name of the file in which to save data from a Web form. Read/write.
 
 
 ## Syntax
 
  _expression_. **DataFileName**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value

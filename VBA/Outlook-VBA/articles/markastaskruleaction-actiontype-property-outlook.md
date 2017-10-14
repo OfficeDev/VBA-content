@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MarkAsTaskRuleAction.ActionType Property (Outlook)
 
-Returns a constant,  **olRuleActionMarkAsTask** , from the **[OlRuleActionType](olruleactiontype-enumeration-outlook.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant, **olRuleActionMarkAsTask** , from the **[OlRuleActionType](olruleactiontype-enumeration-outlook.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PaperSize Property (Word)
 
-Returns or sets the paper size. Read/write  **WdPaperSize** .
+Returns or sets the paper size. Read/write **WdPaperSize** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the paper size. Read/write  **WdPaperSize** .
 
 ## Remarks
 
-Setting the  **PageHeight** or **PageWidth** property changes the **PaperSize** property to **wdPaperCustom** .
+Setting the **PageHeight** or **PageWidth** property changes the **PaperSize** property to **wdPaperCustom** .
 
 
 ## Example

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Right-click the tab of the Toolbox page you want to delete.
     
-2. Choose  **Delete Page**. All controls on the page are deleted at the same time.
+2. Choose **Delete Page**. All controls on the page are deleted at the same time.
     
 
 

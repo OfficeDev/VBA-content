@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Close Event (Outlook)
 
-Represents the closing of the frame for a form region, which occurs just before the  **[Close](inspector-close-event-outlook.md)** event of the Inspector associated with the Outlook item.
+Represents the closing of the frame for a form region, which occurs just before the **[Close](inspector-close-event-outlook.md)** event of the Inspector associated with the Outlook item.
 
 
 ## Syntax

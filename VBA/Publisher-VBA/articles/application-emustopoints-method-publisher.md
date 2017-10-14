@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.EmusToPoints Method (Publisher)
 
-Converts a measurement from emus to points (12700 emus = 1 point). Returns the converted measurement as a  **Single**.
+Converts a measurement from emus to points (12700 emus = 1 point). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **EmusToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToEmus](application-pointstoemus-method-publisher.md)** method to convert measurements in points to emus.
+Use the **[PointsToEmus](application-pointstoemus-method-publisher.md)** method to convert measurements in points to emus.
 
 
 ## Example

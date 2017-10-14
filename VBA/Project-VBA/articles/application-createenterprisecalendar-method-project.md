@@ -30,6 +30,6 @@ Creates an enterprise calendar. Available in Project Professional only.
 
 ## Remarks
 
-If Project Professional is connected with Project Server, the  **CreateEnterpriseCalendar** method shows the **Change Working Time** dialog box where you can type a name for the base calendar to create.
+If Project Professional is connected with Project Server, the **CreateEnterpriseCalendar** method shows the **Change Working Time** dialog box where you can type a name for the base calendar to create.
 
 

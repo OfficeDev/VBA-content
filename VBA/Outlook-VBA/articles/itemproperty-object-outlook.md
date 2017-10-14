@@ -20,12 +20,12 @@ Represents information about a given item property for a Microsoft Outlook item 
 
  Each item property defines a certain attribute of the item, such as the name, type, or value of the item. The **ItemProperty** object is a member of the **[ItemProperties](itemproperties-object-outlook.md)** collection.
 
-Use  **ItemProperties.Item** ( _index_ ), where _index_ is the object's numeric position within the collection or it's name to return a single **ItemProperty** object.
+Use **ItemProperties.Item** ( _index_ ), where _index_ is the object's numeric position within the collection or it's name to return a single **ItemProperty** object.
 
 
 ## Example
 
-The following example creates a reference to the first  **ItemProperty** object in the **ItemProperties** collection.
+The following example creates a reference to the first **ItemProperty** object in the **ItemProperties** collection.
 
 
 ```

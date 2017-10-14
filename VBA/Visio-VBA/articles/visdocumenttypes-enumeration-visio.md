@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDocumentTypes Enumeration (Visio)
 
-Type codes returned by the  **Document.Type** property.
+Type codes returned by the **Document.Type** property.
 
 
 

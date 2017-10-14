@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The value of the  **AcceptNewExternalData** property can only be changed when the **ShowCrossProjectLinksInfo** property is **False**.
+The value of the **AcceptNewExternalData** property can only be changed when the **ShowCrossProjectLinksInfo** property is **False**.
 
 

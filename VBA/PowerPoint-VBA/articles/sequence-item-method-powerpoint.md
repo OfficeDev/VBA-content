@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.Item Method (PowerPoint)
 
-Returns a single  **Effect** object from the specified **Sequence** collection.
+Returns a single **Effect** object from the specified **Sequence** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Effect** object from the specified **Sequence** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Effect** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Effect** object in the collection to be returned.|
 
 ### Return Value
 

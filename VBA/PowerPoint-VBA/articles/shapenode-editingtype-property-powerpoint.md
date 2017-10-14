@@ -30,9 +30,9 @@ MsoEditingType
 
 ## Remarks
 
-This property is read-only. Use the  **[SetEditingType](shapenodes-seteditingtype-method-powerpoint.md)** method to set the value of this property.
+This property is read-only. Use the **[SetEditingType](shapenodes-seteditingtype-method-powerpoint.md)** method to set the value of this property.
 
-The value of the  **EditingType** property can be one of these **MsoEditingType** constants.
+The value of the **EditingType** property can be one of these **MsoEditingType** constants.
 
 
 ||

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.AllMacros Property (Access)
 
-You can use the  **AllMacros** property to reference the **[AllMacros](allmacros-object-access.md)** collection and its related properties. Read-only **AllMacros** object.
+You can use the **AllMacros** property to reference the **[AllMacros](allmacros-object-access.md)** collection and its related properties. Read-only **AllMacros** object.
 
 
 ## Syntax

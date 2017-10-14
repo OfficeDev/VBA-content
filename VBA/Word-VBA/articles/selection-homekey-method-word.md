@@ -29,8 +29,8 @@ Moves or extends the selection to the beginning of the specified unit. This meth
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. The default value is  **wdLine** .|
-| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be one of the  **WdMovementType** constants. If the value of this argument is **wdMove** , the selection is collapsed to an insertion point and moved to the beginning of the specified unit. If it is **wdExtend** , the beginning of the selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. The default value is **wdLine** .|
+| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be one of the **WdMovementType** constants. If the value of this argument is **wdMove** , the selection is collapsed to an insertion point and moved to the beginning of the specified unit. If it is **wdExtend** , the beginning of the selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
 
 ## Example
 

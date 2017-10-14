@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Sources Object (Word)
 
-Represents a collection of  **Source** objects.
+Represents a collection of **Source** objects.
 
 
 ## Remarks

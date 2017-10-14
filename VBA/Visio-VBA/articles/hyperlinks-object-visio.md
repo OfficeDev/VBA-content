@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Hyperlinks Object (Visio)
 
-Includes  **Hyperlink** objects. A **Hyperlinks** collection enables you to access and manipulate a shape's Hyperlinks section.
+Includes **Hyperlink** objects. A **Hyperlinks** collection enables you to access and manipulate a shape's Hyperlinks section.
 
 
 ## Remarks
 
-To retrieve a  **Hyperlinks** collection, use the **Hyperlinks** property of a **Shape** object.
+To retrieve a **Hyperlinks** collection, use the **Hyperlinks** property of a **Shape** object.
 
-The default property of a  **Hyperlinks** collection is **Item** .
+The default property of a **Hyperlinks** collection is **Item** .
 
 

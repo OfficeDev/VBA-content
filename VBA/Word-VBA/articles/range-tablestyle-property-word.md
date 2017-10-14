@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.TableStyle Property (Word)
 
-Returns a  **Variant** that represents the style used to format a table. Read-only.
+Returns a **Variant** that represents the style used to format a table. Read-only.
 
 
 ## Syntax

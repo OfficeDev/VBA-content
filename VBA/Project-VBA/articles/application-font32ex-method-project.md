@@ -37,7 +37,7 @@ Sets the font for the text in the active cells, where the text color can be a he
 | _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H0000FF is red.|
 | _Reset_|Optional|**Boolean**|**True** if the font is reset to its default characteristics. All other arguments are ignored. The default value is **False**.|
 | _CellColor_|Optional|**Variant**|The color of the cell. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFFFF99 is cyan.|
-| _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough format.|
 
 ### Return Value
@@ -62,6 +62,6 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** constants for the Color or CellColor parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **Fon32Ex** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[FontEx](application-fontex-method-project.md)** method.
+ **Note**  If you use any of the **PjColor** constants for the Color or CellColor parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **Fon32Ex** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[FontEx](application-fontex-method-project.md)** method.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.IsInScope Property (Visio)
 
-Determines whether a call to an event handler is between an  **EnterScope** event and an **ExitScope** event for a scope. Read-only.
+Determines whether a call to an event handler is between an **EnterScope** event and an **ExitScope** event for a scope. Read-only.
 
 
 ## Syntax
@@ -38,14 +38,14 @@ Boolean
 
 ## Remarks
 
-Constants representing scope IDs are prefixed with  **visCmd** and are declared by the Visio type library. You can also use an ID returned by the **BeginUndoScope** method.
+Constants representing scope IDs are prefixed with **visCmd** and are declared by the Visio type library. You can also use an ID returned by the **BeginUndoScope** method.
 
-You could use this property in a  **CellChanged** event handler to determine whether a cell change was the result of a particular operation.
+You could use this property in a **CellChanged** event handler to determine whether a cell change was the result of a particular operation.
 
 
 ## Example
 
-This example shows how to use the  **IsInScope** property to determine whether a call to a procedure that handles the **CellChanged** event is in a particular scope?that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
+This example shows how to use the **IsInScope** property to determine whether a call to a procedure that handles the **CellChanged** event is in a particular scope - that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
 
 
 ```vb

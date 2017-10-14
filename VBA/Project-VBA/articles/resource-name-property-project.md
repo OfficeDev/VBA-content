@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Name Property (Project)
 
-Gets the name of a  **Resource** object. Read/write **String**.
+Gets the name of a **Resource** object. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the name of a  **Resource** object. Read/write **String**.
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see **[Name](task-name-property-project.md)**.
+For a code example that uses the **Task** object, see **[Name](task-name-property-project.md)**.
 
 

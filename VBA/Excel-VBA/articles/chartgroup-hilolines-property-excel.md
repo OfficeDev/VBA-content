@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HiLoLines Property (Excel)
 
-Returns a  **[HiLoLines](hilolines-object-excel.md)** object that represents the high-low lines for a series on a line chart. Applies only to line charts. Read-only.
+Returns a **[HiLoLines](hilolines-object-excel.md)** object that represents the high-low lines for a series on a line chart. Applies only to line charts. Read-only.
 
 
 ## Syntax

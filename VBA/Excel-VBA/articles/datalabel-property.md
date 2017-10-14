@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel Property
 
-Returns a  **[DataLabel](datalabel-object.md)** object that represents the data label associated with the specified point or trendline. Read-only.
+Returns a **[DataLabel](datalabel-object.md)** object that represents the data label associated with the specified point or trendline. Read-only.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sort.Header Property (Excel)
 
-Specifies whether the first row contains header information. Read/write  **[XlYesNoGuess](xlyesnoguess-enumeration-excel.md)** .
+Specifies whether the first row contains header information. Read/write **[XlYesNoGuess](xlyesnoguess-enumeration-excel.md)** .
 
 
 ## Syntax

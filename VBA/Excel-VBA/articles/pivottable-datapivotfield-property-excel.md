@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DataPivotField Property (Excel)
 
-Returns a  **[PivotField](pivotfield-object-excel.md)** object that represents all the data fields in a PivotTable. Read-only.
+Returns a **[PivotField](pivotfield-object-excel.md)** object that represents all the data fields in a PivotTable. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[PivotField](pivotfield-object-excel.md)** object that represents a
 
 ## Example
 
-This example moves the second  **PivotItem** object to the first position. It assumes a PivotTable exists on the active worksheet and that the PivotTable contains data fields.
+This example moves the second **PivotItem** object to the first position. It assumes a PivotTable exists on the active worksheet and that the PivotTable contains data fields.
 
 
 ```vb

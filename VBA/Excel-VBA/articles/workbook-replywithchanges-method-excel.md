@@ -33,7 +33,7 @@ Sends an e-mail message to the author of a workbook that has been sent out for r
 
 ## Remarks
 
-Use the  **[SendForReview](workbook-sendforreview-method-excel.md)** method to start a collaborative review of a workbook. If the **ReplyWithChanges** method is executed on a workbook that is not part of a collaborative review cycle, the user will receive an error.
+Use the **[SendForReview](workbook-sendforreview-method-excel.md)** method to start a collaborative review of a workbook. If the **ReplyWithChanges** method is executed on a workbook that is not part of a collaborative review cycle, the user will receive an error.
 
 
 ## Example

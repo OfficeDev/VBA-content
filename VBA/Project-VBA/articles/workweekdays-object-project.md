@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[Item](workweekdays-item-property-project.md)** property return a single **WorkWeekDay** object.
+Use the **[Item](workweekdays-item-property-project.md)** property return a single **WorkWeekDay** object.
  
 
  

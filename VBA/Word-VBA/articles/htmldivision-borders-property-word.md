@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HTMLDivision.Borders Property (Word)
 
-Returns a  **[Borders](borders-object-word.md)** collection that represents all the borders for the specified object.
+Returns a **[Borders](borders-object-word.md)** collection that represents all the borders for the specified object.
 
 
 ## Syntax

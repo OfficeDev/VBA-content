@@ -19,7 +19,7 @@ Represents a window. Many publication characteristics, such as scroll bars and r
 
 ## Example
 
-Use the  **[ActiveWindow](application-activewindow-property-publisher.md)** property to return a **Window** object. The following example maximizes the active window.
+Use the **[ActiveWindow](application-activewindow-property-publisher.md)** property to return a **Window** object. The following example maximizes the active window.
  
 
  
@@ -30,7 +30,7 @@ Sub MaximizeWindow
 End Sub
 ```
 
-Use the  **[Caption](window-caption-property-publisher.md)** property to return the file and application names of the active window. The following example displays a message with the file name and Microsoft Publisher application name.
+Use the **[Caption](window-caption-property-publisher.md)** property to return the file and application names of the active window. The following example displays a message with the file name and Microsoft Publisher application name.
  
 
  

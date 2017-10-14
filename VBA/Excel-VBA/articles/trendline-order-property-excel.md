@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Order Property (Excel)
 
-Returns or sets a  **Long** value that represents the trendline order (an integer greater than 1) when the trendline type is **xlPolynomial** .
+Returns or sets a **Long** value that represents the trendline order (an integer greater than 1) when the trendline type is **xlPolynomial** .
 
 
 ## Syntax

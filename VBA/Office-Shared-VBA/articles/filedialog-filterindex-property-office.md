@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.FilterIndex Property (Office)
 
-Gets or sets a  **Long** indicating the default file filter of a file dialog box. The default filter determines which types of files are displayed when the file dialog box is first opened. Read/write.
+Gets or sets a **Long** indicating the default file filter of a file dialog box. The default filter determines which types of files are displayed when the file dialog box is first opened. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If you try to set this property to a number greater than the number of filters, 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box. This example also demonstrates how to add a new file filter and how to make it the default filter.
+The following example displays a **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box. This example also demonstrates how to add a new file filter and how to make it the default filter.
 
 
 ```

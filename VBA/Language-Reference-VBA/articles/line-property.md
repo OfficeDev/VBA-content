@@ -16,10 +16,10 @@ ms.date: 06/08/2017
 
 
  **Description**
-Read-only property that returns the current line number in a  **TextStream** file.
+Read-only property that returns the current line number in a **TextStream** file.
  **Syntax**
  _object_. **Line**
 The  _object_ is always the name of a **TextStream** object.
  **Remarks**
-After a file is initially opened and before anything is written,  **Line** is equal to 1.
+After a file is initially opened and before anything is written, **Line** is equal to 1.
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Column Object (Word)
 
-Represents a single table column. The  **Column** object is a member of the **[Columns](columns-object-word.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
+Represents a single table column. The **Column** object is a member of the **[Columns](columns-object-word.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
 
 
 ## Remarks
 
-Use  **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **[Columns](columns-object-word.md)** collection (counting from left to right).
+Use **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **[Columns](columns-object-word.md)** collection (counting from left to right).
 
 The following example selects column one in table one in the active document.
 
@@ -29,7 +29,7 @@ The following example selects column one in table one in the active document.
 ActiveDocument.Tables(1).Columns(1).Select
 ```
 
-Use the  **[Column](cell-column-property-word.md)** property with a **[Cell](cell-object-word.md)** object to return a **Column** object. The following example deletes the text in cell one, inserts new text, and then sorts the entire column.
+Use the **[Column](cell-column-property-word.md)** property with a **[Cell](cell-object-word.md)** object to return a **Column** object. The following example deletes the text in cell one, inserts new text, and then sorts the entire column.
 
 
 
@@ -42,7 +42,7 @@ With ActiveDocument.Tables(1).Cell(1, 1)
 End With
 ```
 
-Use the  **[Add](columns-add-method-word.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
+Use the **[Add](columns-add-method-word.md)** method to add a column to a table. The following example adds a column to the first table in the active document, and then it makes the column widths equal.
 
 
 
@@ -57,7 +57,7 @@ End If
 
 Remarks
 
-Use the  **[Information](selection-information-property-word.md)** property with a **[Selection](selection-object-word.md)** object to return the current column number. The following example selects the current column and then displays the column number in a message box.
+Use the **[Information](selection-information-property-word.md)** property with a **[Selection](selection-object-word.md)** object to return the current column number. The following example selects the current column and then displays the column number in a message box.
 
 
 

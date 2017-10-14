@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- The indicated component cannot be added because it is not used by any items in the project. Clear the "Remove information about unused ActiveX Controls" in the  **Project Options** dialog box under the **Project** menu.
+- The indicated component cannot be added because it is not used by any items in the project. Clear the "Remove information about unused ActiveX Controls" in the **Project Options** dialog box under the **Project** menu.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

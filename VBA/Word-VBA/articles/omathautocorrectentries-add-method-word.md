@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrectEntries.Add Method (Word)
 
-Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** object.
+Creates an equation auto correct entry and returns an **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** object.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry]
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the  **[Name](omathautocorrectentry-name-property-word.md)** property of the **OMathAutoCorrectEntry** object.|
-| _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the  **[Value](omathautocorrectentry-value-property-word.md)** property of the **OMathAutoCorrectEntry** object.|
+| _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the **[Name](omathautocorrectentry-name-property-word.md)** property of the **OMathAutoCorrectEntry** object.|
+| _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the **[Value](omathautocorrectentry-value-property-word.md)** property of the **OMathAutoCorrectEntry** object.|
 
 ### Return Value
 

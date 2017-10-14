@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OnRepeat Method (Excel)
 
-Sets the  **Repeat** item and the name of the procedure that will run if you choose the **Repeat** command after running the procedure that sets this property.
+Sets the **Repeat** item and the name of the procedure that will run if you choose the **Repeat** command after running the procedure that sets this property.
 
 
 ## Syntax
@@ -29,14 +29,14 @@ Sets the  **Repeat** item and the name of the procedure that will run if you cho
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Text_|Required| **String**|The text that appears with the  **Repeat** command.|
-| _Procedure_|Required| **String**|The name of the procedure that will be run when you choose the  **Repeat** command.|
+| _Text_|Required| **String**|The text that appears with the **Repeat** command.|
+| _Procedure_|Required| **String**|The name of the procedure that will be run when you choose the **Repeat** command.|
 
 ## Remarks
 
-If a procedure doesn?t use the  **OnRepeat** method, the **Repeat** command repeats procedure that was run most recently.
+If a procedure doesn't use the **OnRepeat** method, the **Repeat** command repeats procedure that was run most recently.
 
-The procedure must use the  **OnRepeat** and **OnUndo** methods last, to prevent the repeat and undo procedures from being overwritten by subsequent actions in the procedure.
+The procedure must use the **OnRepeat** and **OnUndo** methods last, to prevent the repeat and undo procedures from being overwritten by subsequent actions in the procedure.
 
 
 ## Example

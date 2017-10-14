@@ -18,9 +18,9 @@ Represents the criteria for a find operation.
 
 ## Remarks
 
-The properties and methods of the  **Find** object correspond to the options in the **Find and Replace** dialog box.
+The properties and methods of the **Find** object correspond to the options in the **Find and Replace** dialog box.
 
-Use the  **Find** property to return a **Find** object. The following example finds and selects the next occurrence of the word "hi."
+Use the **Find** property to return a **Find** object. The following example finds and selects the next occurrence of the word "hi."
 
 
 
@@ -46,7 +46,7 @@ myRange.Find.Execute FindText:="hi", ReplaceWith:="hello", _
 
 Remarks
 
-If you've gotten to the  **Find** object from the **Selection** object, the selection is changed when text matching the find criteria is found. The following example selects the next occurrence of the word "blue."
+If you've gotten to the **Find** object from the **Selection** object, the selection is changed when text matching the find criteria is found. The following example selects the next occurrence of the word "blue."
 
 
 
@@ -55,7 +55,7 @@ If you've gotten to the  **Find** object from the **Selection** object, the sele
 Selection.Find.Execute FindText:="blue", Forward:=True
 ```
 
-If you've gotten to the  **Find** object from the **Range** object, the selection isn't changed when text matching the find criteria is found, but the **Range** object is redefined. The following example locates the first occurrence of the word "blue" in the active document. If "blue" is found in the document, _myRange_ is redefined and bold formatting is applied to "blue."
+If you've gotten to the **Find** object from the **Range** object, the selection isn't changed when text matching the find criteria is found, but the **Range** object is redefined. The following example locates the first occurrence of the word "blue" in the active document. If "blue" is found in the document, _myRange_ is redefined and bold formatting is applied to "blue."
 
 
 

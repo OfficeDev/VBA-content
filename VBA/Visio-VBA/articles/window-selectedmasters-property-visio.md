@@ -30,12 +30,12 @@ Object()
 
 ## Remarks
 
-The  **SelectedMasters** property applies only to stencil windows. If you try to access the **SelectedMasters** property for other types of window, Visio might return an error.
+The **SelectedMasters** property applies only to stencil windows. If you try to access the **SelectedMasters** property for other types of window, Visio might return an error.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro uses the  **SelectedMasters** property to get the number of masters and master shortcuts selected in a stencil window and then prints the name of the stencil and the selected masters and master shortcuts in the **Immediate** window.
+This Microsoft Visual Basic for Applications (VBA) macro uses the **SelectedMasters** property to get the number of masters and master shortcuts selected in a stencil window and then prints the name of the stencil and the selected masters and master shortcuts in the **Immediate** window.
 
 Before running this macro, make sure that at least one master or master shortcut is selected in a docked stencil in the active Visio window.
 

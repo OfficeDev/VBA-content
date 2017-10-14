@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ODSOColumn Object (Office)
 
-Represents a field in a data source. The  **ODSOColumn** object is a member of the **ODSOColumns** collection.
+Represents a field in a data source. The **ODSOColumn** object is a member of the **ODSOColumns** collection.
 
 
 ## Remarks
 
-The  **ODSOColumns** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
+The **ODSOColumns** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
 
-You cannot add fields to the  **ODSOColumns** collection. All data fields in a data source are automatically included in the **ODSOColumns** collection.
+You cannot add fields to the **ODSOColumns** collection. All data fields in a data source are automatically included in the **ODSOColumns** collection.
 
 Use [Columns](officedatasourceobject-columns-property-office.md)( _index_ ), where _index_ is the data field name or index number, to return a single **ODSOColumn** object. The index number represents the position of the data field in the mail merge data source.
 

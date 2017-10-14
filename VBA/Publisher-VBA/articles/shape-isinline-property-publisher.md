@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Shape.IsInline Property (Publisher)
 
-Returns an  **MsoTriState** constant that specifies whether a shape is inline (contained in a text run). Read-only.
+Returns an **MsoTriState** constant that specifies whether a shape is inline (contained in a text run). Read-only.
 
 
 ## Syntax
 
  _expression_. **IsInline**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example
 
-This example tests the first shape (a text frame) on the first page of the publication to see if it is inline. If it is not, a search is done within that shape to find any inline shapes within the text frame. Any inline shapes that are found have the  **ForeColor** property set to red.
+This example tests the first shape (a text frame) on the first page of the publication to see if it is inline. If it is not, a search is done within that shape to find any inline shapes within the text frame. Any inline shapes that are found have the **ForeColor** property set to red.
 
 
 ```vb

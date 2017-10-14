@@ -37,7 +37,7 @@ This example sets Microsoft Word to add the result of typing or pasting before t
 Options.ReplaceSelection = False
 ```
 
-This example returns the status of the  **Typing replaces selection** option on the **Edit** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the **Typing replaces selection** option on the **Edit** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

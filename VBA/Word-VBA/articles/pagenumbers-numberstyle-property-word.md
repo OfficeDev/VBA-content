@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumbers.NumberStyle Property (Word)
 
-Returns or sets a  **[WdPageNumberStyle](wdpagenumberstyle-enumeration-word.md)** constant that represents the number style. Read/write.
+Returns or sets a **[WdPageNumberStyle](wdpagenumberstyle-enumeration-word.md)** constant that represents the number style. Read/write.
 
 
 ## Syntax

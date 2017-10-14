@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbMergeType Enumeration (Publisher)
 
-Constants that specify the type of mail merge, passed to and returned by the  ** [MailMergeDataSource.Type](mailmergedatasource-type-property-publisher.md)** property.
+Constants that specify the type of mail merge, passed to and returned by the ** [MailMergeDataSource.Type](mailmergedatasource-type-property-publisher.md)** property.
 
 
 

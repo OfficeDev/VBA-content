@@ -38,9 +38,9 @@ String
 
 ## Remarks
 
-In Microsoft Excel for Windows, you can change the Baht format to a different style by using  **Regional Settings** or **Regional Option**s in  **Control Panel**.
+In Microsoft Excel for Windows, you can change the Baht format to a different style by using **Regional Settings** or **Regional Option**s in **Control Panel**.
 
-In Excel for the Macintosh, you can change the Baht number format to a different style by using  **Control Panel for Numbers**.
+In Excel for the Macintosh, you can change the Baht number format to a different style by using **Control Panel for Numbers**.
 
 
 ## See also

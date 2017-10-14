@@ -30,7 +30,7 @@ Imports a document fragment into the document at the specified range.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|Specifies the path and file name where the document fragment is stored.|
-| _MatchDestination_|Optional| **Boolean**|Specifies whether to match the destination formatting. If  **False** , the imported document fragment retains the formatting in the original document. Default value is **False** .|
+| _MatchDestination_|Optional| **Boolean**|Specifies whether to match the destination formatting. If **False** , the imported document fragment retains the formatting in the original document. Default value is **False** .|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-This method replaces the contents of a range. To stop this from occurring, use the  **[Collapse](range-collapse-method-word.md)** method before using this method.
+This method replaces the contents of a range. To stop this from occurring, use the **[Collapse](range-collapse-method-word.md)** method before using this method.
 
 
 ## See also

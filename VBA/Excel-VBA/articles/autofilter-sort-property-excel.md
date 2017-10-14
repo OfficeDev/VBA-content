@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.Sort Property (Excel)
 
-Gets the sort column or columns, and sort order for the  **AutoFilter** collection.
+Gets the sort column or columns, and sort order for the **AutoFilter** collection.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Returns an individual object in a specified collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents an  **ObjectVerbs** object.
+ _expression_A variable that represents an **ObjectVerbs** object.
 
 
 ### Parameters

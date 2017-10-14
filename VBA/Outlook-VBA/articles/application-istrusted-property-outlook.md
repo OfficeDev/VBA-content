@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsTrusted Property (Outlook)
 
-Returns a  **Boolean** to indicate if an add-in or external caller is considered trusted by Outlook. Read-only
+Returns a **Boolean** to indicate if an add-in or external caller is considered trusted by Outlook. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** to indicate if an add-in or external caller is considered
 
 ## Remarks
 
-For out-of-process callers that have instantiated the  **[Application](application-object-outlook.md)** object, **IsTrusted** always returns **False** . For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
+For out-of-process callers that have instantiated the **[Application](application-object-outlook.md)** object, **IsTrusted** always returns **False** . For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
 
 
 ## See also

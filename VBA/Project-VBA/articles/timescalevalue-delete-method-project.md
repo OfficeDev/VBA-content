@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TimeScaleValue.Delete Method (Project)
 
-Deletes the  **TimeScaleValue** object from a **TimeScaleValues** collection.
+Deletes the **TimeScaleValue** object from a **TimeScaleValues** collection.
 
 
 ## Syntax

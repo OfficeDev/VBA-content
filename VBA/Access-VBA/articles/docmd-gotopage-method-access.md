@@ -44,7 +44,7 @@ The units for the  _right_ and _down_ arguments are expressed in twips.
 
 If you specify the  _right_ and _down_ arguments and leave the _pagenumber_ argument blank, you must include the _pagenumber_ argument's comma. If you don't specify the _right_ and _down_ arguments, don't use a comma following the _pagenumber_ argument.
 
-The  **GoToPage** method of the **DoCmd** object was added to provide backwards compatibility for running the GoToPage action in Visual Basic code in Microsoft Access 95. It's recommended that you use the existing **GoToPage** method of the **Form** object instead.
+The **GoToPage** method of the **DoCmd** object was added to provide backwards compatibility for running the GoToPage action in Visual Basic code in Microsoft Access 95. It's recommended that you use the existing **GoToPage** method of the **Form** object instead.
 
 
 ## See also

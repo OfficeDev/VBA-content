@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolders.Item Method (Outlook)
 
-Returns a  **[NavigationFolder](navigationfolder-object-outlook.md)** object from the collection.
+Returns a **[NavigationFolder](navigationfolder-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns a  **[NavigationFolder](navigationfolder-object-outlook.md)** object fro
 
 ### Return Value
 
-A  **NavigationFolder** object that represents the specified object.
+A **NavigationFolder** object that represents the specified object.
 
 
 ## Remarks
 
-The index value of a  **NavigationFolder** in the collection represents the ordinal position of the folder in the navigation group when displayed in the Navigation Pane. Changing the position of navigation folders within the navigation group also changes the index values of folders contained within the **[NavigationFolders](navigationfolders-object-outlook.md)** collection for that **[NavigationGroup](navigationgroup-object-outlook.md)** object.
+The index value of a **NavigationFolder** in the collection represents the ordinal position of the folder in the navigation group when displayed in the Navigation Pane. Changing the position of navigation folders within the navigation group also changes the index values of folders contained within the **[NavigationFolders](navigationfolders-object-outlook.md)** collection for that **[NavigationGroup](navigationgroup-object-outlook.md)** object.
 
 
 ## See also

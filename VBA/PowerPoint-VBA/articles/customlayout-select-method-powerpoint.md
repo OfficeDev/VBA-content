@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Select Method (PowerPoint)
 
-Selects the specified  **[CustomLayout](customlayout-object-powerpoint.md)** object.
+Selects the specified **[CustomLayout](customlayout-object-powerpoint.md)** object.
 
 
 ## Syntax

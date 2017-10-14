@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Underline Property (Publisher)
 
-Returns or sets an  **PbUnderlineType** constant that indicates the type of underline for the selected characters in the specified font in a text range. Read/write.
+Returns or sets an **PbUnderlineType** constant that indicates the type of underline for the selected characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **Underline**
 
- _expression_A variable that represents an  **Font** object.
+ _expression_A variable that represents an **Font** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbUnderlineType
 
 ## Remarks
 
-The  **Underline** property value can be one of the **[PbUnderlineType](pbunderlinetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Underline** property value can be one of the **[PbUnderlineType](pbunderlinetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

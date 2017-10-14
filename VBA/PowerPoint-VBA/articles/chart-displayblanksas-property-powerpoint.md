@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.DisplayBlanksAs Property (PowerPoint)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](xldisplayblanksas-enumeration-powerpoint.md)** constants. Read/write **Long**.
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the **[XlDisplayBlanksAs](xldisplayblanksas-enumeration-powerpoint.md)** constants. Read/write **Long**.
 
 
 ## Syntax

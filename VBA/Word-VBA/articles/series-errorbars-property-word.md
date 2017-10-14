@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ErrorBars Property (Word)
 
-Returns the error bars for the series. Read-only  **[ErrorBars](errorbars-object-word.md)** .
+Returns the error bars for the series. Read-only **[ErrorBars](errorbars-object-word.md)** .
 
 
 ## Syntax

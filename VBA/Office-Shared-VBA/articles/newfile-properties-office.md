@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](newfile-application-property-office.md)|Gets an  **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
-|[Creator](newfile-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **NewFile** object was created. Read-only.|
+|[Application](newfile-application-property-office.md)|Gets an **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
+|[Creator](newfile-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **NewFile** object was created. Read-only.|
 

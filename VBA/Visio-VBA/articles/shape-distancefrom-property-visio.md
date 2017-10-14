@@ -29,7 +29,7 @@ Returns the distance from one shape to another, measured between the closest poi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
+| _OtherShape_|Required| **[IVSHAPE]**|The other **Shape** object involved in the comparison.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 
 ### Return Value
@@ -39,7 +39,7 @@ Double
 
 ## Remarks
 
-The  **DistanceFrom** property returns:
+The **DistanceFrom** property returns:
 
 
 
@@ -65,6 +65,6 @@ Use the NoShow cell to determine whether a Geometry section is hidden or visible
 
 If the parent shape or  _OtherShape_ has no geometry, or if _Flags_ excludes consideration of all geometry of either shape, the **DistanceFrom** property returns a large number (1E+30) that should be construed as infinite.
 
-The  **DistanceFrom** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when comparing two shapes.
+The **DistanceFrom** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when comparing two shapes.
 
 

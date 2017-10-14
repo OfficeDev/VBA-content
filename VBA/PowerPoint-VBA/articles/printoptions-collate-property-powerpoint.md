@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-Specifying a value for the  **Collate** argument of the **[PrintOut](presentation-printout-method-powerpoint.md)** method sets the value of this property.
+Specifying a value for the **Collate** argument of the **[PrintOut](presentation-printout-method-powerpoint.md)** method sets the value of this property.
 
-The value of the  **Collate** property can be one of these **MsoTriState** constants.
+The value of the **Collate** property can be one of these **MsoTriState** constants.
 
 
 

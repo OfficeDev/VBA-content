@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ListBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](listbox-boundcolumn-property-outlook-forms-script.md)** of the currently selected rows. Read/write.
+Returns or sets a **Variant** that specifies the value in the **[BoundColumn](listbox-boundcolumn-property-outlook-forms-script.md)** of the currently selected rows. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_A variable that represents a **ListBox** object.
 
 
 ## Remarks

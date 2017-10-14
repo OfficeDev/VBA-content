@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EndReview Method (Word)
 
-Terminates a review of a file that has been sent for review using the  **[SendForReview](document-sendforreview-method-word.md)** method or that has been automatically placed in a review cycle by sending a document to another user in an e-mail message.
+Terminates a review of a file that has been sent for review using the **[SendForReview](document-sendforreview-method-word.md)** method or that has been automatically placed in a review cycle by sending a document to another user in an e-mail message.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Terminates a review of a file that has been sent for review using the  **[SendFo
 
 ## Remarks
 
-When executed, the  **EndReview** method displays a message asking the user whether to end the review.
+When executed, the **EndReview** method displays a message asking the user whether to end the review.
 
 
 ## Example

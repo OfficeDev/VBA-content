@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ExchangeUser Object (Outlook)
 
-Provides detailed information about an  **[AddressEntry](addressentry-object-outlook.md)** that represents a Microsoft Exchange mailbox user.
+Provides detailed information about an **[AddressEntry](addressentry-object-outlook.md)** that represents a Microsoft Exchange mailbox user.
 
 
 ## Remarks
 
  **ExchangeUser** is derived from the **AddressEntry** object, and is returned instead of an **AddressEntry** when the caller performs a query interface on the **AddressEntry** object.
 
-This object provides first-class access to properties applicable to Exchange users such as  **[FirstName](http://msdn.microsoft.com/library/6a72812a-31fd-aa6a-be08-f765018208ab%28Office.15%29.aspx)**, **[JobTitle](http://msdn.microsoft.com/library/2cfa5301-3164-c472-3f8e-831c1eebc810%28Office.15%29.aspx)**, **[LastName](http://msdn.microsoft.com/library/1f9f9675-3e72-da56-d654-a1473f4f71a7%28Office.15%29.aspx)**, and **[OfficeLocation](http://msdn.microsoft.com/library/b37d5622-27ba-b2c4-cfd3-6aa1e9e9296b%28Office.15%29.aspx)**. You can also access other properties specific to the Exchange user that are not exposed in the object model through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object. Note that some of the explicit built-in properties are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](http://msdn.microsoft.com/library/a2672fbf-f32a-f120-227c-24ee5c361f35%28Office.15%29.aspx)** method will result in a "permission denied" error.
+This object provides first-class access to properties applicable to Exchange users such as **[FirstName](http://msdn.microsoft.com/library/6a72812a-31fd-aa6a-be08-f765018208ab%28Office.15%29.aspx)**, **[JobTitle](http://msdn.microsoft.com/library/2cfa5301-3164-c472-3f8e-831c1eebc810%28Office.15%29.aspx)**, **[LastName](http://msdn.microsoft.com/library/1f9f9675-3e72-da56-d654-a1473f4f71a7%28Office.15%29.aspx)**, and **[OfficeLocation](http://msdn.microsoft.com/library/b37d5622-27ba-b2c4-cfd3-6aa1e9e9296b%28Office.15%29.aspx)**. You can also access other properties specific to the Exchange user that are not exposed in the object model through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object. Note that some of the explicit built-in properties are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](http://msdn.microsoft.com/library/a2672fbf-f32a-f120-227c-24ee5c361f35%28Office.15%29.aspx)** method will result in a "permission denied" error.
 
 
 ## Example

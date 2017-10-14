@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.Caption Property (Excel)
 
-Returns a  **String** value that represents the label text for the cube field.
+Returns a **String** value that represents the label text for the cube field.
 
 
 ## Syntax

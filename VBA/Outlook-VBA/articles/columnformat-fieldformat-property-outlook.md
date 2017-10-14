@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColumnFormat.FieldFormat Property (Outlook)
 
-Returns or sets a  **Long** value that represents the display format of the property to which the **[ColumnFormat](columnformat-object-outlook.md)** object is associated. Read/write.
+Returns or sets a **Long** value that represents the display format of the property to which the **[ColumnFormat](columnformat-object-outlook.md)** object is associated. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the display format of the prop
 
 ## Remarks
 
-The value of this property is a constant from an enumeration, where the enumeration is dependent on the value of the  **[FieldType](columnformat-fieldtype-property-outlook.md)** property for the **ColumnFormat** object:
+The value of this property is a constant from an enumeration, where the enumeration is dependent on the value of the **[FieldType](columnformat-fieldtype-property-outlook.md)** property for the **ColumnFormat** object:
 
 
 

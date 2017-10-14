@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.StatusBar Property (Project)
 
-Gets or sets text in the status bar. Read/write  **Variant**.
+Gets or sets text in the status bar. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets text in the status bar. Read/write  **Variant**.
 
 ## Remarks
 
-The  **StatusBar** property returns **False** if the status bar is displaying the default text. Setting **StatusBar** to the Boolean value **False** restores the default text.
+The **StatusBar** property returns **False** if the status bar is displaying the default text. Setting **StatusBar** to the Boolean value **False** restores the default text.
 
 
 ## Example

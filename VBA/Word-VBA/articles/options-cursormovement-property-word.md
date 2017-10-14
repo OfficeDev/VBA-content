@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CursorMovement Property (Word)
 
-Returns or sets how the insertion point progresses within bidirectional text. Read/write  **WdCursorMovement** .
+Returns or sets how the insertion point progresses within bidirectional text. Read/write **WdCursorMovement** .
 
 
 ## Syntax

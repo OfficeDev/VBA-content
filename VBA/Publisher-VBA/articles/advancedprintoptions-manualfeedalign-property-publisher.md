@@ -20,7 +20,7 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
 
  _expression_. **ManualFeedAlign**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_A variable that represents an **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Gets or sets the alignment (left, right, or center) of where envelopes are fed t
 
 ## Remarks
 
-The  **ManualFeedAlign** property setting, in conjunction with the ** [AdvancedPrintOptions.ManualFeedDirection](advancedprintoptions-manualfeeddirection-property-publisher.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
+The **ManualFeedAlign** property setting, in conjunction with the ** [AdvancedPrintOptions.ManualFeedDirection](advancedprintoptions-manualfeeddirection-property-publisher.md)** property setting, corresponds to the **Envelope feed method** setting in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the **Printer Details** tab, click **Advanced Printer Setup**. On the **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
 
-Possible values for  **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlacementLeft** (1), and **pbPlacementRight** (2).
+Possible values for **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlacementLeft** (1), and **pbPlacementRight** (2).
 
 
 ## See also

@@ -202,19 +202,19 @@ Excel also allows for the calculation of a range of cells using the Visual Basic
 
 - **Excel 2000**
     
-    **Range.Calculate** calculates left to right and top to bottom, ignoring all dependencies.
+   **Range.Calculate** calculates left to right and top to bottom, ignoring all dependencies.
     
   
 - **Excel 2002 and Excel 2003**
     
-    **Range.Calculate** resolves the dependencies within the range being calculated.
+   **Range.Calculate** resolves the dependencies within the range being calculated.
     
   
 - **Excel 2007 and Excel 2010**
     
     These versions have both **Range Calculate** methods. **Range.Calculate** works as it did in Excel 2002 and Excel 2003, but **Range.CalculateRowMajorOrder** works in the same manner as it did in Excel 2000. Because **CalculateRowMajorOrder** does not resolve any dependencies within the range that is being calculated, it is usually significantly faster. However, it should be used with care because it may not give the same results as **Range.Calculate**. For more information, see  [Excel Performance: Performance and Limit Improvements](excel-performance-and-limit-improvements.md).
     
-    **Range.Calculate** is one of the most useful tools in Excel for performance optimization because you can use it to time and compare the calculation speed of different formulas.
+   **Range.Calculate** is one of the most useful tools in Excel for performance optimization because you can use it to time and compare the calculation speed of different formulas.
     
   
 

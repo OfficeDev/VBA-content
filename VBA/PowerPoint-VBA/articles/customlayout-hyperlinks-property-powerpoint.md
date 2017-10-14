@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Hyperlinks Property (PowerPoint)
 
-Returns a  **[Hyperlinks](hyperlinks-object-powerpoint.md)** collection that represents all hyperlinks on the slide associated with the specified custom layout. Read-only.
+Returns a **[Hyperlinks](hyperlinks-object-powerpoint.md)** collection that represents all hyperlinks on the slide associated with the specified custom layout. Read-only.
 
 
 ## Syntax

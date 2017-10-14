@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.Range Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range to which the specified AutoFilter applies.
+Returns a **[Range](range-object-excel.md)** object that represents the range to which the specified AutoFilter applies.
 
 
 ## Syntax

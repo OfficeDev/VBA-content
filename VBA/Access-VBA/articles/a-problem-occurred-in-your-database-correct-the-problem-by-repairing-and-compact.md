@@ -22,9 +22,9 @@ To correct the problem
 
 1. Close the database.
     
-2. Repair the database with the  **RepairDatabase** method.
+2. Repair the database with the **RepairDatabase** method.
     
-3. Compact the database with the  **CompactDatabase** method.
+3. Compact the database with the **CompactDatabase** method.
     
 
 

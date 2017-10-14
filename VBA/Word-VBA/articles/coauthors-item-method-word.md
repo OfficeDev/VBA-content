@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthors.Item Method (Word)
 
-Returns an individual  **CoAuthor** object in a collection.
+Returns an individual **CoAuthor** object in a collection.
 
 
 ## Syntax

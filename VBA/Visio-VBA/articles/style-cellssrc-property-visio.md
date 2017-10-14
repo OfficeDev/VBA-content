@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.CellsSRC Property (Visio)
 
-Returns a  **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
+Returns a **Cell** object that represents a ShapeSheet cell identified by section, row, and column indices. Read-only.
 
 
 ## Syntax
@@ -40,11 +40,11 @@ Cell
 
 ## Remarks
 
-To access any shape formula by its section, row, and column indices, use the  **CellsSRC** property. Constants for section, row, and column indices are declared by the Visio type library as members of **[VisSectionIndices](vissectionindices-enumeration-visio.md)** , **[VisRowIndices](visrowindices-enumeration-visio.md)** , and **[VisCellIndices](viscellindices-enumeration-visio.md)** , respectively.
+To access any shape formula by its section, row, and column indices, use the **CellsSRC** property. Constants for section, row, and column indices are declared by the Visio type library as members of **[VisSectionIndices](vissectionindices-enumeration-visio.md)** , **[VisRowIndices](visrowindices-enumeration-visio.md)** , and **[VisCellIndices](viscellindices-enumeration-visio.md)** , respectively.
 
-The  **CellsSRC** property might raise an exception if index values for section, row, and column do not identify an actual cell, depending on the section. However, even if no exception is raised, subsequent methods invoked on the returned object fail. You can determine if a cell with particular index values exists by using the **CellsSRCExists** property.
+The **CellsSRC** property might raise an exception if index values for section, row, and column do not identify an actual cell, depending on the section. However, even if no exception is raised, subsequent methods invoked on the returned object fail. You can determine if a cell with particular index values exists by using the **CellsSRCExists** property.
 
-The  **CellsSRC** property is typically used to iterate through the cells in a section or row. To retrieve a single cell, use the **Cells** property and specify a cell name. For example:
+The **CellsSRC** property is typically used to iterate through the cells in a section or row. To retrieve a single cell, use the **Cells** property and specify a cell name. For example:
 
 
 
@@ -56,7 +56,7 @@ Set vsoCell = Cells("PinX")
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CellsSRC** property to set a particular ShapeSheet cell by its section, row, and column indices. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. The macro then draws an inner rectangle within the bowed lines of the first rectangle.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **CellsSRC** property to set a particular ShapeSheet cell by its section, row, and column indices. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. The macro then draws an inner rectangle within the bowed lines of the first rectangle.
 
 
 ```vb

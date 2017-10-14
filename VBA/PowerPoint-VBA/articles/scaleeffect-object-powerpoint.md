@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ScaleEffect Object (PowerPoint)
 
-Represents a scaling effect for an  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
+Represents a scaling effect for an **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object.
 
 
 ## Example
 
-Use the [ScaleEffect](animationbehavior-scaleeffect-property-powerpoint.md)property of the  **AnimationBehavior** object to return a **ScaleEffect** object. The following example refers to the scale effect for a given animation behavior.
+Use the [ScaleEffect](animationbehavior-scaleeffect-property-powerpoint.md)property of the **AnimationBehavior** object to return a **ScaleEffect** object. The following example refers to the scale effect for a given animation behavior.
 
 
 ```vb
 ActivePresentation.Slides(1).TimeLine.MainSequence.Item.Behaviors(1).ScaleEffect
 ```
 
-Use the [ByX](scaleeffect-byx-property-powerpoint.md), [ByY](scaleeffect-byy-property-powerpoint.md), [FromX](scaleeffect-fromx-property-powerpoint.md), [FromY](scaleeffect-fromy-property-powerpoint.md), [ToX](scaleeffect-tox-property-powerpoint.md), and [ToY](scaleeffect-toy-property-powerpoint.md)properties of the  **ScaleEffect** object to manipulate an object's scale. This example scales the first shape on the first slide starting at zero increasing in size until it reaches 100 percent of its original size. This example assumes that there is a shape on the first slide.
+Use the [ByX](scaleeffect-byx-property-powerpoint.md), [ByY](scaleeffect-byy-property-powerpoint.md), [FromX](scaleeffect-fromx-property-powerpoint.md), [FromY](scaleeffect-fromy-property-powerpoint.md), [ToX](scaleeffect-tox-property-powerpoint.md), and [ToY](scaleeffect-toy-property-powerpoint.md)properties of the **ScaleEffect** object to manipulate an object's scale. This example scales the first shape on the first slide starting at zero increasing in size until it reaches 100 percent of its original size. This example assumes that there is a shape on the first slide.
 
 
 

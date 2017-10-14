@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CodeProject Property (Access)
 
-You can use the  **CodeProject** property to access the **[CodeProject](codeproject-object-access.md)** object and its related collections, properties, and methods. Read-only **CodeProject** object.
+You can use the **CodeProject** property to access the **[CodeProject](codeproject-object-access.md)** object and its related collections, properties, and methods. Read-only **CodeProject** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **CodeProject** property to access the **[CodeProject](codeproj
 
 ## Remarks
 
-Use the  **CodeProject** property to refer to one of the following code database collections together with one of its properties or methods.
+Use the **CodeProject** property to refer to one of the following code database collections together with one of its properties or methods.
 
 
 ||

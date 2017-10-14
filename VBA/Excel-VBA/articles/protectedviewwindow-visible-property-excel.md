@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Visible Property (Excel)
 
-Returns or sets a value that determines whether the specified  **Protected View** window is visible. Read/write
+Returns or sets a value that determines whether the specified **Protected View** window is visible. Read/write
 
 
 ## Syntax

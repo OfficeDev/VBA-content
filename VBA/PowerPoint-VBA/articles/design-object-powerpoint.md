@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Design Object (PowerPoint)
 
-Represents an individual slide design template. The  **Design** object is a member of the **[Designs](designs-object-powerpoint.md)** and **[SlideRange](sliderange-object-powerpoint.md)** collections and the **[Master](master-object-powerpoint.md)** and **[Slide](slide-object-powerpoint.md)** objects.
+Represents an individual slide design template. The **Design** object is a member of the **[Designs](designs-object-powerpoint.md)** and **[SlideRange](sliderange-object-powerpoint.md)** collections and the **[Master](master-object-powerpoint.md)** and **[Slide](slide-object-powerpoint.md)** objects.
 
 
 ## Remarks
 
-Use the  **Design** property of the **Master**, **Slide**, or **SlideRange** objects to access a **Design** object, for example:
+Use the **Design** property of the **Master**, **Slide**, or **SlideRange** objects to access a **Design** object, for example:
 
 
 -  `ActivePresentation.SlideMaster.Design`
@@ -27,12 +27,12 @@ Use the  **Design** property of the **Master**, **Slide**, or **SlideRange** obj
     
 -  `ActivePresentation.Slides.Range.Design`
     
-Use the [Add](designs-add-method-powerpoint.md), [Item](designs-item-method-powerpoint.md), [Clone](designs-clone-method-powerpoint.md), or [Load](designs-load-method-powerpoint.md)methods of the  **Designs** collection to add, refer to, clone, or load a **Design** object, respectively. For example, to add a design template, use `ActivePresentation.Designs.Add designName:="MyDesign"`
+Use the [Add](designs-add-method-powerpoint.md), [Item](designs-item-method-powerpoint.md), [Clone](designs-clone-method-powerpoint.md), or [Load](designs-load-method-powerpoint.md)methods of the **Designs** collection to add, refer to, clone, or load a **Design** object, respectively. For example, to add a design template, use `ActivePresentation.Designs.Add designName:="MyDesign"`
 
 
 ## Example
 
-The  **Design** object's[AddTitleMaster](presentation-addtitlemaster-method-powerpoint.md)method and [HasTitleMaster](presentation-hastitlemaster-property-powerpoint.md)property can be used to add and / or query the status of a title slide master. For example:
+The **Design** object's[AddTitleMaster](presentation-addtitlemaster-method-powerpoint.md)method and [HasTitleMaster](presentation-hastitlemaster-property-powerpoint.md)property can be used to add and / or query the status of a title slide master. For example:
 
 
 ```vb

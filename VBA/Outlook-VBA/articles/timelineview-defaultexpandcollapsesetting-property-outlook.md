@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.DefaultExpandCollapseSetting Property (Outlook)
 
-Returns or sets an  **[OlDefaultExpandCollapseSetting](oldefaultexpandcollapsesetting-enumeration-outlook.md)** constant that determines the default expansion setting for groups in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlDefaultExpandCollapseSetting](oldefaultexpandcollapsesetting-enumeration-outlook.md)** constant that determines the default expansion setting for groups in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ClearValueFilters Method (Excel)
 
-Calling this method deletes all value filters in the  **PivotFilters** collection of the PivotField.
+Calling this method deletes all value filters in the **PivotFilters** collection of the PivotField.
 
 
 ## Syntax

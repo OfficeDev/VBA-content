@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To change the value of the  **ReadOnlyRecommended** property, use the **[FileSaveAs](application-filesaveas-method-project.md)** method with the ReadOnly argument set to **True**.
+To change the value of the **ReadOnlyRecommended** property, use the **[FileSaveAs](application-filesaveas-method-project.md)** method with the ReadOnly argument set to **True**.
 
 
 ## Example

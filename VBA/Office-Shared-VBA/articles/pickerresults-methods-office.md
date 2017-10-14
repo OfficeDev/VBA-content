@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](pickerresults-add-method-office.md)|Adds a  **PickerResult** object to the **PickerResults** collection.|
+|[Add](pickerresults-add-method-office.md)|Adds a **PickerResult** object to the **PickerResults** collection.|
 

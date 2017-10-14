@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowSettings.ShowPresenterView Property (PowerPoint)
 
-Returns the presenter view of the  **SlideShowSettings** object. Read/write.
+Returns the presenter view of the **SlideShowSettings** object. Read/write.
 
 
 ## Syntax

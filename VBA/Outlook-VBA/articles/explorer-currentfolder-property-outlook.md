@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.CurrentFolder Property (Outlook)
 
-Returns or sets a  **[Folder](folder-object-outlook.md)** object that represents the current folder displayed in the explorer. Read/write.
+Returns or sets a **[Folder](folder-object-outlook.md)** object that represents the current folder displayed in the explorer. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Use this property to change the folder the user is viewing.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property to change the displayed folder to the user's **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property to change the displayed folder to the user's **Calendar** folder.
 
 
 ```vb

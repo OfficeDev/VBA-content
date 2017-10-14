@@ -30,6 +30,6 @@ Gets or sets the Ribbon XML string that is passed to the document to customize t
 
 ## Remarks
 
-When you set the  **CustomUI** property value, Microsoft Visio does not perform validation on the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document loads.
+When you set the **CustomUI** property value, Microsoft Visio does not perform validation on the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document loads.
 
 

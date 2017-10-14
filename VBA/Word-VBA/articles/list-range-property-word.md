@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # List.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
+Returns a **Range** object that represents the portion of a document that is contained in the specified object.
 
 
 ## Syntax

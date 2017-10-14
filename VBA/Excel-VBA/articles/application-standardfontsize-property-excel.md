@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StandardFontSize Property (Excel)
 
-Returns or sets the standard font size, in points. Read/write  **Long** .
+Returns or sets the standard font size, in points. Read/write **Long** .
 
 
 ## Syntax

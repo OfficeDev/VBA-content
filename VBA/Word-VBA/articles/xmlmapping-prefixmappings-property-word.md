@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.PrefixMappings Property (Word)
 
-Returns a  **String** that represents the prefix mappings used to evaluate the XPath for the current XML mapping. Read-only.
+Returns a **String** that represents the prefix mappings used to evaluate the XPath for the current XML mapping. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the prefix mappings used to evaluate the X
 
 ## Remarks
 
-To set mapping for a content control, use the  **[SetMapping](xmlmapping-setmapping-method-word.md)** method or the **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method.
+To set mapping for a content control, use the **[SetMapping](xmlmapping-setmapping-method-word.md)** method or the **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method.
 
 
 ## See also

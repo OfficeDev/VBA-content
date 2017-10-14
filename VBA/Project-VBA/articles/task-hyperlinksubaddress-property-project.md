@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.HyperlinkSubAddress Property (Project)
 
-Gets or sets the address of a location within the target document. Read/write  **String**.
+Gets or sets the address of a location within the target document. Read/write **String**.
 
 
 ## Syntax

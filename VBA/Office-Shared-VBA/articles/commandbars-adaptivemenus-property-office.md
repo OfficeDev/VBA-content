@@ -31,7 +31,7 @@ This property checks or unchecks the check box control for the option to show me
 
 ## Remarks
 
-Is  **True** if adaptive menus are enabled for all applications in Microsoft Office. Read/write **Boolean**.
+Is **True** if adaptive menus are enabled for all applications in Microsoft Office. Read/write **Boolean**.
 
 This control is set in any application by doing the following:
 

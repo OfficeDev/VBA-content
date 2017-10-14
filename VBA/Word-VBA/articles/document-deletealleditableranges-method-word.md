@@ -29,11 +29,11 @@ Deletes permissions in all ranges for which the specified user or group of users
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users. If omitted, no permissions are deleted from a document.|
+| _EditorID_|Optional| **Variant**|Can be either a **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users. If omitted, no permissions are deleted from a document.|
 
 ## Remarks
 
-You can also use the  **[DeleteAll](editor-deleteall-method-word.md)** method to delete permissions in all ranges for which a specified user or group of users has permission to modify.
+You can also use the **[DeleteAll](editor-deleteall-method-word.md)** method to delete permissions in all ranges for which a specified user or group of users has permission to modify.
 
 
 ## Example

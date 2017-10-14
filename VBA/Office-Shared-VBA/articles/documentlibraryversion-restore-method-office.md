@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion.Restore Method (Office)
 
-Restores a previous saved version of a shared document from the  **DocumentLibraryVersions** collection.
+Restores a previous saved version of a shared document from the **DocumentLibraryVersions** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Object
 
 ## Remarks
 
-Use the  **Restore** method to return to an earlier saved version of the active document. The **Restore** method does several things:
+Use the **Restore** method to return to an earlier saved version of the active document. The **Restore** method does several things:
 
 
 1. It changes the open version of the shared document to read-only mode but leaves it open.
@@ -41,7 +41,7 @@ Use the  **Restore** method to return to an earlier saved version of the active 
     
 
 
-The  **Restore** method raises a run-time error if the active document has changes that have not been saved.
+The **Restore** method raises a run-time error if the active document has changes that have not been saved.
 
 
 ## Example

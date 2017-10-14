@@ -25,7 +25,7 @@ Applies the specified report template to the active report.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TemplateId_|Optional|**[PjReportLayoutTemplateId](pjreportlayouttemplateid-enumeration-project.md)**|Specifies the kind of report; can be one of the following constants:  **pjReportLayoutComparison**,  **pjReportLayoutTitleAndChart**,  **pjReportLayoutTitleAndTable**, or  **pjReportLayoutTitleOnly**.|
+| _TemplateId_|Optional|**[PjReportLayoutTemplateId](pjreportlayouttemplateid-enumeration-project.md)**|Specifies the kind of report; can be one of the following constants: **pjReportLayoutComparison**, **pjReportLayoutTitleAndChart**, **pjReportLayoutTitleAndTable**, or **pjReportLayoutTitleOnly**.|
 | _TemplateId_|Optional|PJREPORTLAYOUTTEMPLATEID||
 
 ### Return value
@@ -35,7 +35,7 @@ Applies the specified report template to the active report.
 
 ## Remarks
 
-For an existing report, the  **ApplyReportLayoutTemplate** method adds the specified report elements on top of other shapes in the report. For example, if the built-in Task Cost Overview report is active, the `ApplyReportLayoutTemplate pjReportLayoutTitleAndChart` statement adds a new text box with the report title and a new default chart to the report.
+For an existing report, the **ApplyReportLayoutTemplate** method adds the specified report elements on top of other shapes in the report. For example, if the built-in Task Cost Overview report is active, the `ApplyReportLayoutTemplate pjReportLayoutTitleAndChart` statement adds a new text box with the report title and a new default chart to the report.
 
 
 ## Example

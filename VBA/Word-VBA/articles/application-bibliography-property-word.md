@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Bibliography Property (Word)
 
-Returns a  **[Bibliography](bibliography-object-word.md)** object that represents the bibliography references sources stored in Microsoft Word. Read-only.
+Returns a **[Bibliography](bibliography-object-word.md)** object that represents the bibliography references sources stored in Microsoft Word. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RemainingOvertimeCost Property (Project)
 
-Gets the remaining overtime cost for the task. Read-only  **Variant**.
+Gets the remaining overtime cost for the task. Read-only **Variant**.
 
 
 ## Syntax

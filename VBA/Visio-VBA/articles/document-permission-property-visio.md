@@ -7,7 +7,7 @@ ms.prod: visio
 
 
 # Document.Permission Property (Visio)
-Returns the  **Permission** object of the document.
+Returns the **Permission** object of the document.
 
  Introduced in Office 2016.
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlErrorChecks Enumeration (Excel)
 
-Specifies the type of error object to be retrieved from the  **Errors** collection.
+Specifies the type of error object to be retrieved from the **Errors** collection.
 
 
 

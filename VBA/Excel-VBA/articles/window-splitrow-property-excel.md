@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SplitRow Property (Excel)
 
-Returns or sets the row number where the window is split into panes (the number of rows above the split). Read/write  **Long** .
+Returns or sets the row number where the window is split into panes (the number of rows above the split). Read/write **Long** .
 
 
 ## Syntax

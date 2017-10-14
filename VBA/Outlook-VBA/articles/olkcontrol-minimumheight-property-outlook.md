@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.MinimumHeight Property (Outlook)
 
-Returns or sets a  **Long** that specifies the minimum height the control can be automatically sized down to. Read/write.
+Returns or sets a **Long** that specifies the minimum height the control can be automatically sized down to. Read/write.
 
 
 ## Syntax

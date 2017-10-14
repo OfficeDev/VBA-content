@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.Id Property (Office)
 
-Gets a  **String** containing the GUID assigned to the current **CustomXMLPart** object. Read-only.
+Gets a **String** containing the GUID assigned to the current **CustomXMLPart** object. Read-only.
 
 
 ## Syntax

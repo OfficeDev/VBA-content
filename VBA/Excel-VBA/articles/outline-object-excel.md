@@ -18,7 +18,7 @@ Represents an outline on a worksheet.
 
 ## Example
 
-Use the  **[Outline](worksheet-outline-property-excel.md)** property to return an **Outline** object. The following example sets the outline on Sheet4 so that only the first outline level is shown.
+Use the **[Outline](worksheet-outline-property-excel.md)** property to return an **Outline** object. The following example sets the outline on Sheet4 so that only the first outline level is shown.
 
 
 ```

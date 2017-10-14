@@ -20,7 +20,7 @@ Fills the specified shape with small tiles of an image.
 
  _expression_. **UserTextured**( **_TextureFile_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Fills the specified shape with small tiles of an image.
 
 ## Remarks
 
-To fill the shape with one large image, use the  **[UserPicture](fillformat-userpicture-method-publisher.md)** method.
+To fill the shape with one large image, use the **[UserPicture](fillformat-userpicture-method-publisher.md)** method.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.GetWorkflowTemplates Method (PowerPoint)
 
-Returns the Microsoft Office  **WorkflowTemplates** collection.
+Returns the Microsoft Office **WorkflowTemplates** collection.
 
 
 ## Syntax

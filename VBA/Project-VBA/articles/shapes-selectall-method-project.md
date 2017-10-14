@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.SelectAll Method (Project)
-Selects all shapes in the  **Shapes** collection.
+Selects all shapes in the **Shapes** collection.
 
 ## Syntax
 

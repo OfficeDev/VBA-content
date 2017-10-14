@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # PictureFormat.Width Property (Publisher)
 
-Returns a  **Variant** that represents the width, in points, of the specified picture. Read-only.
+Returns a **Variant** that represents the width, in points, of the specified picture. Read-only.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 

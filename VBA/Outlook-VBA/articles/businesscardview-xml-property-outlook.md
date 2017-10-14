@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.XML Property (Outlook)
 
-Returns or sets a  **String** value that specifies the XML definition of the current view. Read/write.
+Returns or sets a **String** value that specifies the XML definition of the current view. Read/write.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ Returns or sets a  **String** value that specifies the XML definition of the cur
 
 The XML definition describes the view type by using a series of tags and keywords corresponding to various properties of the view itself. When the view is created, the XML definition is parsed to render the settings for the new view.
 
-To determine how the XML should be structured when creating views, create a view by using the Outlook user interface and then retrieve the  **XML** property for that view.
+To determine how the XML should be structured when creating views, create a view by using the Outlook user interface and then retrieve the **XML** property for that view.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[Views](views-object-outlook.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](businesscardview-object-outlook.md)** object named "Card View".
+The following Visual Basic for Applications (VBA) example enumerates the **[Views](views-object-outlook.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](businesscardview-object-outlook.md)** object named "Card View".
 
 
 ```vb

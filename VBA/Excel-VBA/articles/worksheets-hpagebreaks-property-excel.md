@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheets.HPageBreaks Property (Excel)
 
-Returns an  **[HPageBreaks](hpagebreaks-object-excel.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
+Returns an **[HPageBreaks](hpagebreaks-object-excel.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
 
 
 ## Syntax

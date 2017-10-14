@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ValidationRules.ObjectType Property (Visio)
 
-Returns  **visObjTypeValidationRules** , the type of this object. Read-only.
+Returns **visObjTypeValidationRules** , the type of this object. Read-only.
 
 
 ## Syntax
@@ -27,6 +27,6 @@ Returns  **visObjTypeValidationRules** , the type of this object. Read-only.
 
 ## Remarks
 
-Constants that represent object types are prefixed with  **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** enumeration.
+Constants that represent object types are prefixed with **visObjType** and are declared by the Visio type library in the **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** enumeration.
 
 

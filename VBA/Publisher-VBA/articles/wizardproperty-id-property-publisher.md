@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WizardProperty.ID Property (Publisher)
 
-Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
+Returns a **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
 
 
 ## Syntax
 
  _expression_. **ID**
 
- _expression_A variable that represents a  **WizardProperty** object.
+ _expression_A variable that represents a **WizardProperty** object.
 
 
 ## Example

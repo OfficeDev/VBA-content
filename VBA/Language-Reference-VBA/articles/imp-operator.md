@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to perform a logical implication on two [expressions](vbe-glossary.md).
  **Syntax**
  _result_**=**_expression1_ **Imp** _expression2_.
-The  **Imp** operator syntax has these parts:
+The **Imp** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -39,7 +39,7 @@ The following table illustrates how  _result_ is determined:
 |**Null**|**True**|**True**|
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
-The  **Imp** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The **Imp** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|
@@ -51,7 +51,7 @@ The  **Imp** operator performs a [bitwise comparison](vbe-glossary.md) of identi
 
 ## Example
 
-This example uses the  **Imp** operator to perform logical implication on two expressions.
+This example uses the **Imp** operator to perform logical implication on two expressions.
 
 
 ```vb

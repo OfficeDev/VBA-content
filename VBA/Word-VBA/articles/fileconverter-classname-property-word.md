@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.ClassName Property (Word)
 
-Returns a unique name that identifies the file converter. Read-only  **String** .
+Returns a unique name that identifies the file converter. Read-only **String** .
 
 
 ## Syntax

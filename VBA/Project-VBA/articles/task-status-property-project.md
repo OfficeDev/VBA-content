@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Status Property (Project)
 
-Gets the status of a specified task. Read-only  **PjStatusType**.
+Gets the status of a specified task. Read-only **PjStatusType**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the status of a specified task. Read-only  **PjStatusType**.
 
 ## Remarks
 
-The Status property can be one of the following  **[PjStatusType](pjstatustype-enumeration-project.md)** constants: **pjComplete**, **pjFutureTask**, **pjLate**, **pjNoData**, or **pjOnSchedule**.
+The Status property can be one of the following **[PjStatusType](pjstatustype-enumeration-project.md)** constants: **pjComplete**, **pjFutureTask**, **pjLate**, **pjNoData**, or **pjOnSchedule**.
 
 

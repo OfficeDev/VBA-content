@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.ActiveControl Property (Access)
 
-You can use the  **ActiveControl** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
+You can use the **ActiveControl** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **ActiveControl** property together with the **[Screen](screen-
 
 ## Remarks
 
-This property setting contains a reference to the  **Control** object that has the focus at run time.
+This property setting contains a reference to the **Control** object that has the focus at run time.
 
-You can use the  **ActiveControl** property to refer to the control that has the focus at run time together with one of its properties or methods. The following example assigns the name of the control with the focus to the `strControlName` variable.
+You can use the **ActiveControl** property to refer to the control that has the focus at run time together with one of its properties or methods. The following example assigns the name of the control with the focus to the `strControlName` variable.
 
 
 
@@ -39,7 +39,7 @@ Set ctlCurrentControl = Screen.ActiveControl
 strControlName = ctlCurrentControl.Name
 ```
 
-If no control has the focus when you use the  **ActiveControl** property, or if all of the active form's controls are hidden or disabled, an error occurs.
+If no control has the focus when you use the **ActiveControl** property, or if all of the active form's controls are hidden or disabled, an error occurs.
 
 
 ## Example

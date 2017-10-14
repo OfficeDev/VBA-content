@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.CategorySub Property (Outlook)
 
-Returns or sets a  **String** representing the subcategory assigned to the form description. Read/write.
+Returns or sets a **String** representing the subcategory assigned to the form description. Read/write.
 
 
 ## Syntax

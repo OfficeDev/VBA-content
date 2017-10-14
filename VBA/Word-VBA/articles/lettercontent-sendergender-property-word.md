@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SenderGender Property (Word)
 
-Returns or sets the gender used with the salutation. Not used in the U.S. English version of Microsoft Word. Read/write  **WdSalutationGender** .
+Returns or sets the gender used with the salutation. Not used in the U.S. English version of Microsoft Word. Read/write **WdSalutationGender** .
 
 
 ## Syntax

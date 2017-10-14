@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.WrapFormat Property (Word)
 
-Returns a  **WrapFormat** object that contains the properties for wrapping text around the specified range of shapes. Read-only.
+Returns a **WrapFormat** object that contains the properties for wrapping text around the specified range of shapes. Read-only.
 
 
 ## Syntax

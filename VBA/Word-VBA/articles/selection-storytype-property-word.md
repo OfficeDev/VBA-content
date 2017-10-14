@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.StoryType Property (Word)
 
-Returns the story type for the specified selection. Read-only  **WdStoryType** .
+Returns the story type for the specified selection. Read-only **WdStoryType** .
 
 
 ## Syntax

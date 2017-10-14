@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DatabaseSort Property (Excel)
 
-When set to  **True** , manual repositioning of items in a PivotTable field is allowed. Returns **True** , if the field has no manually positioned items. Read/write **Boolean** .
+When set to **True** , manual repositioning of items in a PivotTable field is allowed. Returns **True** , if the field has no manually positioned items. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,17 +25,17 @@ When set to  **True** , manual repositioning of items in a PivotTable field is a
 
 ## Remarks
 
-The  **DatabaseSort** property returns **False** if the data source is not an Online Analytical Processing (OLAP) data source.
+The **DatabaseSort** property returns **False** if the data source is not an Online Analytical Processing (OLAP) data source.
 
-This property returns  **True** if the data source is OLAP and neither custom ordering nor automatic sorting has been applied to the field.
+This property returns **True** if the data source is OLAP and neither custom ordering nor automatic sorting has been applied to the field.
 
-Setting the  **DatabaseSort** property to **True** , for an OLAP PivotTable, will remove any custom ordering or automatic sort applied to the field (in other words, the PivotTable reverts to the default behavior when the connection was made).
+Setting the **DatabaseSort** property to **True** , for an OLAP PivotTable, will remove any custom ordering or automatic sort applied to the field (in other words, the PivotTable reverts to the default behavior when the connection was made).
 
-Setting the  **DatabaseSort** property to **False** will cause the sort order to be the current order of the items, if no automatic sort is applied.
+Setting the **DatabaseSort** property to **False** will cause the sort order to be the current order of the items, if no automatic sort is applied.
 
-Setting the  **DatabaseSort** property to either **True** or **False** causes an Update.
+Setting the **DatabaseSort** property to either **True** or **False** causes an Update.
 
-Setting the  **DatabaseSort** property to **True** for a non-OLAP source or an OLAP data field causes a run-time error.
+Setting the **DatabaseSort** property to **True** for a non-OLAP source or an OLAP data field causes a run-time error.
 
 
 ## Example

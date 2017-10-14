@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerViewableItems.Delete Method (Excel)
 
-Deletes a reference to an object in the  **[ServerViewableItems](serverviewableitems-object-excel.md)** collection in the workbook.
+Deletes a reference to an object in the **[ServerViewableItems](serverviewableitems-object-excel.md)** collection in the workbook.
 
 
 ## Syntax

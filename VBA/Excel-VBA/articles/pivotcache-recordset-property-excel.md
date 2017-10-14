@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.Recordset Property (Excel)
 
-Returns or sets a  **Recordset** object that's used as the data source for the specified PivotTable cache. Read/write.
+Returns or sets a **Recordset** object that's used as the data source for the specified PivotTable cache. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Recordset** object that's used as the data source for the s
 
 ## Remarks
 
-If this property is used to overwrite an existing recordset, the change takes effect when the  **[Refresh](pivotcache-refresh-method-excel.md)** method is run.
+If this property is used to overwrite an existing recordset, the change takes effect when the **[Refresh](pivotcache-refresh-method-excel.md)** method is run.
 
 
 ## Example

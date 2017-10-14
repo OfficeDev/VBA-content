@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ActivePane Property (Excel)
 
-Returns a  **[Pane](pane-object-excel.md)** object that represents the active pane in the window. Read-only.
+Returns a **[Pane](pane-object-excel.md)** object that represents the active pane in the window. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[Pane](pane-object-excel.md)** object that represents the active pa
 
 This property can be used only on worksheets and macro sheets.
 
-This property returns a  **Pane** object. You must use the **[Index](pane-index-property-excel.md)** property to obtain the index of the active pane.
+This property returns a **Pane** object. You must use the **[Index](pane-index-property-excel.md)** property to obtain the index of the active pane.
 
 
 ## Example

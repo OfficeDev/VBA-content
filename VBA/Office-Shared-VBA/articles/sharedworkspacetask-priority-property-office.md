@@ -28,14 +28,14 @@ Gets or sets the status of the specified shared workspace task. Read/write.
 
 ## Remarks
 
-The shared workspace task schema on the server can be customized. Customization of the schema may affect the task priority enumeration when the  **Add** or **Save** method is called. **Priority** property values are mapped as follows:
+The shared workspace task schema on the server can be customized. Customization of the schema may affect the task priority enumeration when the **Add** or **Save** method is called. **Priority** property values are mapped as follows:
 
 
 
 
-- Downloaded value 1 is mapped to  **msoSharedWorkspaceTaskPriority** 1 ( **msoSharedWorkspaceTaskPriorityHigh** ). Downloaded values 2 through N-1 are mapped to **msoSharedWorkspaceTaskPriority** 2 ( **msoSharedWorkspaceTaskPriorityNormal** ). Downloaded value N is mapped to **msoSharedWorkspaceTaskPriority** 3 ( **msoSharedWorkspaceTaskPriorityLow** ).
+- Downloaded value 1 is mapped to **msoSharedWorkspaceTaskPriority** 1 ( **msoSharedWorkspaceTaskPriorityHigh** ). Downloaded values 2 through N-1 are mapped to **msoSharedWorkspaceTaskPriority** 2 ( **msoSharedWorkspaceTaskPriorityNormal** ). Downloaded value N is mapped to **msoSharedWorkspaceTaskPriority** 3 ( **msoSharedWorkspaceTaskPriorityLow** ).
     
-- Uploaded enumeration values 1 through 3 are mapped to schema values 1 through 3. If a user-specified value does not map to any value defined in the schema, the user-specified value is silently ignored and the  **Status** property is not updated on the server.
+- Uploaded enumeration values 1 through 3 are mapped to schema values 1 through 3. If a user-specified value does not map to any value defined in the schema, the user-specified value is silently ignored and the **Status** property is not updated on the server.
     
 
 

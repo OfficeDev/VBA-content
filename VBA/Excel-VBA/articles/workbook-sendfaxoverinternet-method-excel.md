@@ -29,13 +29,13 @@ Sends a worksheet as a fax to the specfied recipients.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom the fax will be sent. Separate multiple recipients with a semicolon.|
-| _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
+| _Recipients_|Optional| **Variant**|A **String** that represents the fax numbers and e-mail addresses of the people to whom the fax will be sent. Separate multiple recipients with a semicolon.|
+| _Subject_|Optional| **Variant**|A **String** that represents the subject line for the faxed document.|
 | _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
 ## Remarks
 
-Using the  **SendFaxOverInternet** method requires that the fax service is enabled on a user's computer.
+Using the **SendFaxOverInternet** method requires that the fax service is enabled on a user's computer.
 
 The format used for specifying fax numbers in the  _Recipients_ parameter is either "<recipientsfaxnumber>@<usersfaxprovider>" or "<recipientsname>@<recipientsfaxnumber>". You can access the user's fax provider information using the following registry path: `HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Common\Services\Fax`
 

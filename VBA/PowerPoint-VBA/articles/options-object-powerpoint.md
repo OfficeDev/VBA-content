@@ -18,7 +18,7 @@ Represents application options in Microsoft PowerPoint.
 
 ## Example
 
-Use the  **[Options](application-options-property-powerpoint.md)** property to return an **Options** object. The following example sets three application options for PowerPoint.
+Use the **[Options](application-options-property-powerpoint.md)** property to return an **Options** object. The following example sets three application options for PowerPoint.
 
 
 ```vb

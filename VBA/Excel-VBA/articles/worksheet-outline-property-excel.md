@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Outline Property (Excel)
 
-Returns an  **[Outline](outline-object-excel.md)** object that represents the outline for the specified worksheet. Read-only.
+Returns an **[Outline](outline-object-excel.md)** object that represents the outline for the specified worksheet. Read-only.
 
 
 ## Syntax

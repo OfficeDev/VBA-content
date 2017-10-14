@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Author Property (PowerPoint)
 
-Returns a  **String** that represents the author as for a specified **[Comment](comment-object-powerpoint.md)** object. Read-only.
+Returns a **String** that represents the author as for a specified **[Comment](comment-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-This property returns only the author's name. To return the author's initials, use the  **[AuthorInitials](comment-authorinitials-property-powerpoint.md)** property. Specify the author of a comment when you add a new comment to the presentation.
+This property returns only the author's name. To return the author's initials, use the **[AuthorInitials](comment-authorinitials-property-powerpoint.md)** property. Specify the author of a comment when you add a new comment to the presentation.
 
 
 ## Example

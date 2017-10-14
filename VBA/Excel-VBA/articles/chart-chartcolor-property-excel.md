@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartColor Property (Excel)
 
-Returns or sets an  **Integer** that represents the color scheme for the chart. Read-write.
+Returns or sets an **Integer** that represents the color scheme for the chart. Read-write.
 
 
 ## Syntax

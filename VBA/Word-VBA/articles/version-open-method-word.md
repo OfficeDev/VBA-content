@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Version.Open Method (Word)
 
-Opens the specified version of a document. Returns a  **Document** object representing the opened document.
+Opens the specified version of a document. Returns a **Document** object representing the opened document.
 
 
 ## Syntax

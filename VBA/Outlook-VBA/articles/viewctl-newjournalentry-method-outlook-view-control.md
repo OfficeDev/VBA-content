@@ -15,6 +15,6 @@ Creates and displays a new journal entry.
 
  _expression_. **NewJournalEntry**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

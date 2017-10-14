@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeFields.AddAsk Method (Word)
 
-Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds an ASK field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

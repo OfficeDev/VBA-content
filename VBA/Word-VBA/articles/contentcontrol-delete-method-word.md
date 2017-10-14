@@ -29,7 +29,7 @@ Deletes the specified content control and the contents of the content control.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DeleteContents_|Optional| **Boolean**|Specifies whether to delete the contents of the content control.  **True** removes both the content control and its contents. **False** removes the control but leaves the contents of the content control in the active document. The default value is **False** .|
+| _DeleteContents_|Optional| **Boolean**|Specifies whether to delete the contents of the content control. **True** removes both the content control and its contents. **False** removes the control but leaves the contents of the content control in the active document. The default value is **False** .|
 
 ## Example
 

@@ -29,7 +29,7 @@ Sets the date format for text around bars on the Gantt Chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following  **[PjDateFormat](pjdateformat-enumeration-project.md)** constants.|
+| _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following **[PjDateFormat](pjdateformat-enumeration-project.md)** constants.|
 
 ### Return Value
 

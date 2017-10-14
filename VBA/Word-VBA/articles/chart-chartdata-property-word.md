@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartData Property (Word)
 
-Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](chartdata-object-word.md)** .
+Returns information about the linked or embedded data associated with a chart. Read-only **[ChartData](chartdata-object-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns information about the linked or embedded data associated with a chart. R
 
 ## Example
 
-The following example uses the  **[Activate](chartdata-activate-method-word.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](chartdata-activate-method-word.md)** method to display the data associated with the first chart in the active document.
 
 
 ```vb

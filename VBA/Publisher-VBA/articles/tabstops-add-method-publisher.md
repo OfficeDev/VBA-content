@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TabStops.Add Method (Publisher)
 
-Adds a new tab stop to the specified  **TabStops** collection.
+Adds a new tab stop to the specified **TabStops** collection.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Position_**,  **_Alignment_**,  **_Leader_**)
+ _expression_. **Add**( **_Position_**, **_Alignment_**, **_Leader_**)
 
- _expression_A variable that represents a  **TabStops** object.
+ _expression_A variable that represents a **TabStops** object.
 
 
 ### Parameters
@@ -43,7 +43,7 @@ Alignment can be one of these PbTabAlignmentType constants.
 | **pbTabAlignmentDecimal**|
 | **pbTabAlignmentLeading**|
 | **pbTabAlignmentTrailing**|
-Leader can be one of these  **PbTabLeaderType** constants.
+Leader can be one of these **PbTabLeaderType** constants.
 
 
 

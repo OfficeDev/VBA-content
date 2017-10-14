@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.FolderAdd Event (Outlook)
 
-Occurs when a folder is added to the specified  **[Folders](folders-object-outlook.md)** collection.
+Occurs when a folder is added to the specified **[Folders](folders-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when a folder is added to the specified  **[Folders](folders-object-outlo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Folder_|Required| **[Folder](folder-object-outlook.md)**|The  **Folder** that is added.|
+| _Folder_|Required| **[Folder](folder-object-outlook.md)**|The **Folder** that is added.|
 
 ## Remarks
 
@@ -38,7 +38,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays a new folder created in the user?s  **Inbox** folder.
+The following Microsoft Visual Basic for Applications (VBA) example displays a new folder created in the user's **Inbox** folder.
 
 
 ```vb

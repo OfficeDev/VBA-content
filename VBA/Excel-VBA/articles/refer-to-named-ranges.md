@@ -58,7 +58,7 @@ Sub FormatSales()
 End Sub
 ```
 
-To select a named range, use the  **GoTo** method, which activates the workbook and the worksheet and then selects the range.
+To select a named range, use the **GoTo** method, which activates the workbook and the worksheet and then selects the range.
 
 ```vba
 Sub ClearRange() 
@@ -128,7 +128,7 @@ End Sub
 
 ## Looping Through Cells in a Named Range
 
-The following example loops through each cell in a named range by using a  **For Each...Next** loop. If the value of any cell in the range exceeds the value of `Limit`, the cell color is changed to yellow.
+The following example loops through each cell in a named range by using a **For Each...Next** loop. If the value of any cell in the range exceeds the value of `Limit`, the cell color is changed to yellow.
 
 ```vba
 Sub ApplyColor() 

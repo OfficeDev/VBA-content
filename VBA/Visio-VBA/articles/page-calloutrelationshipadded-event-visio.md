@@ -33,10 +33,10 @@ Private Sub  _expression_ _**CalloutRelationshipAdded**( **_By Val ShapePair As 
 
 ## Remarks
 
-The  **RelatedShapePairEvent** object returned by this event contains two shapes: the callout, represented by the **[FromShapeID](relatedshapepairevent-fromshapeid-property-visio.md)** property of the **RelatedShapePairEvent** object; and the target shape, represented by the **[ToShapeID](relatedshapepairevent-toshapeid-property-visio.md)** property.
+The **RelatedShapePairEvent** object returned by this event contains two shapes: the callout, represented by the **[FromShapeID](relatedshapepairevent-fromshapeid-property-visio.md)** property of the **RelatedShapePairEvent** object; and the target shape, represented by the **[ToShapeID](relatedshapepairevent-toshapeid-property-visio.md)** property.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **[Event](event-object-visio.md)** objects, use the **[EventList.Add](eventlist-add-method-visio.md)** or **[EventList.AddAdvise](eventlist-addadvise-method-visio.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event you want to create, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+If you want to create your own **[Event](event-object-visio.md)** objects, use the **[EventList.Add](eventlist-add-method-visio.md)** or **[EventList.AddAdvise](eventlist-addadvise-method-visio.md)** method. To create an **Event** object that runs an add-on, use the **EventList.Add** method. To create an **Event** object that receives notification, use the **EventList.AddAdvise** method. To find an event code for the event you want to create, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
 

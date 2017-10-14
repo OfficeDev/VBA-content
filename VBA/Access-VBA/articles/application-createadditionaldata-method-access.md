@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateAdditionalData Method (Access)
 
-Creates an  **[AdditionalData](additionaldata-object-access.md)** object that can be used to add additional tables and queries to the parent table that is being exported by the **[ExportXML](application-exportxml-method-access.md)** method.
+Creates an **[AdditionalData](additionaldata-object-access.md)** object that can be used to add additional tables and queries to the parent table that is being exported by the **[ExportXML](application-exportxml-method-access.md)** method.
 
 
 ## Syntax

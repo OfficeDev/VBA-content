@@ -30,7 +30,7 @@ Shape
 
 ## Example
 
-The following example shows how to group  **Shape** objects.
+The following example shows how to group **Shape** objects.
 
 
 ```vb

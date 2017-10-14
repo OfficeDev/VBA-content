@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Next Method (Word)
 
-Returns a  **Range** object that represents the specified unit relative to the specified range.
+Returns a **Range** object that represents the specified unit relative to the specified range.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Range** object that represents the specified unit relative to the s
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **WdUnits** constant.|
+| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any **WdUnits** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
 ### Return Value

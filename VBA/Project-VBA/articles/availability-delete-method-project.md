@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Availability.Delete Method (Project)
 
-Deletes the  **Availability** object from an **Availabilities** collection.
+Deletes the **Availability** object from an **Availabilities** collection.
 
 
 ## Syntax

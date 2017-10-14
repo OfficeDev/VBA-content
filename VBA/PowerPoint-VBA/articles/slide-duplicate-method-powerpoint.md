@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.Duplicate Method (PowerPoint)
 
-Creates a duplicate of the specified  **Slide** object, adds the new slide to the **Slides** collection immediately after the slide specified originally, and then returns a **Slide** object that represents the duplicate slide.
+Creates a duplicate of the specified **Slide** object, adds the new slide to the **Slides** collection immediately after the slide specified originally, and then returns a **Slide** object that represents the duplicate slide.
 
 
 ## Syntax

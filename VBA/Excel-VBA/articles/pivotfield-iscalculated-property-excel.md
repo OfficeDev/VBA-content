@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, this property always returns  **False** .
+For OLAP data sources, this property always returns **False** .
 
 
 ## Example
 
-This example disables the  **PivotTable Field** dialog box if the specified PivotTable report contains any calculated fields.
+This example disables the **PivotTable Field** dialog box if the specified PivotTable report contains any calculated fields.
 
 
 ```vb

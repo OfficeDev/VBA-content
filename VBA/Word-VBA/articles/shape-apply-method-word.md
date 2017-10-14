@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Apply Method (Word)
 
-Applies to the specified shape formatting that has been copied using the  **PickUp** method.
+Applies to the specified shape formatting that has been copied using the **PickUp** method.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Applies to the specified shape formatting that has been copied using the  **Pick
 
 ## Remarks
 
-If formatting for the  **Shape** object has not previously been copied using the **PickUp** method, using the **Apply** method generates an error.
+If formatting for the **Shape** object has not previously been copied using the **PickUp** method, using the **Apply** method generates an error.
 
 
 ## Example

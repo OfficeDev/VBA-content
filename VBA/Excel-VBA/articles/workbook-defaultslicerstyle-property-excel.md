@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DefaultSlicerStyle Property (Excel)
 
-Specifies the style from the  **[TableStyles](tablestyles-object-excel.md)** object that is used as the default style for slicers. Read/write.
+Specifies the style from the **[TableStyles](tablestyles-object-excel.md)** object that is used as the default style for slicers. Read/write.
 
 
 ## Syntax

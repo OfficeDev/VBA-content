@@ -21,12 +21,12 @@ Represents the current editing view in the specified document window.
 
 
 
- **Note**  The  **View** object can represent any of the document window views: normal view, slide view, outline view, slide sorter view, notes page view, slide master view, handout master view, or notes master view. Some properties and methods of the **View** object work only in certain views. If you try to use a property or method that's inappropriate for a **View** object, an error occurs.
+ **Note**  The **View** object can represent any of the document window views: normal view, slide view, outline view, slide sorter view, notes page view, slide master view, handout master view, or notes master view. Some properties and methods of the **View** object work only in certain views. If you try to use a property or method that's inappropriate for a **View** object, an error occurs.
 
 
 ## Example
 
-Use the [View](documentwindow-view-property-powerpoint.md)property of the  **[DocumentWindow](documentwindow-object-powerpoint.md)** object to return the **View** object. The following example sets the size of window one and then sets the zoom to fit the new window size.
+Use the [View](documentwindow-view-property-powerpoint.md)property of the **[DocumentWindow](documentwindow-object-powerpoint.md)** object to return the **View** object. The following example sets the size of window one and then sets the zoom to fit the new window size.
 
 
 ```vb

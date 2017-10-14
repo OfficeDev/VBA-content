@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.TextboxTightWrap Property (Word)
 
-Returns or sets a  **[WdTextboxTightWrap](wdtextboxtightwrap-enumeration-word.md)** constant that represents how tightly text wraps around shapes or text boxes. Read/write.
+Returns or sets a **[WdTextboxTightWrap](wdtextboxtightwrap-enumeration-word.md)** constant that represents how tightly text wraps around shapes or text boxes. Read/write.
 
 
 ## Syntax

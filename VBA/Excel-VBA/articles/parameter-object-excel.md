@@ -23,7 +23,7 @@ Represents a single parameter used in a parameter query.
 
 ## Example
 
-Use  **[Parameters](querytable-parameters-property-excel.md)** ( _index_ ), where _index_ is the index number of the parameter, to return a single **Parameter** object. The following example modifies the prompt string for parameter one.
+Use **[Parameters](querytable-parameters-property-excel.md)** ( _index_ ), where _index_ is the index number of the parameter, to return a single **Parameter** object. The following example modifies the prompt string for parameter one.
 
 
 ```vb

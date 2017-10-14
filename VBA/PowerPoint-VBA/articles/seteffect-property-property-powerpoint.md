@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SetEffect.Property Property (PowerPoint)
 
-Sets or returns an  **[MsoAnimProperty](msoanimproperty-enumeration-powerpoint.md)** constant that represents an animation property. Read/write.
+Sets or returns an **[MsoAnimProperty](msoanimproperty-enumeration-powerpoint.md)** constant that represents an animation property. Read/write.
 
 
 ## Syntax

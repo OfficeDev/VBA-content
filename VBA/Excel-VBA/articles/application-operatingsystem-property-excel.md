@@ -19,7 +19,7 @@ Return e.g. "Windows (32-bit) NT 6.02" with Win8.1 (=6.02, **64bit**) and Excel 
 
 E.g. "Windows (64-bit) NT :.00" with Win10 (64bit) and Excel 2016 (16.0.6326.1010, 64bit)
 
-Read-only  **String** .
+Read-only **String** .
 
 
 ## Syntax

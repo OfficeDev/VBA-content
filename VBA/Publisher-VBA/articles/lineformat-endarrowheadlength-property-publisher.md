@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.EndArrowheadLength Property (Publisher)
 
-Returns or sets an  **MsoArrowheadLength** constant indicating the length of the arrowhead at the end of the specified line. Read/write.
+Returns or sets an **MsoArrowheadLength** constant indicating the length of the arrowhead at the end of the specified line. Read/write.
 
 
 ## Syntax
 
  _expression_. **EndArrowheadLength**
 
- _expression_A variable that represents an  **LineFormat** object.
+ _expression_A variable that represents an **LineFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoArrowheadLength
 
 ## Remarks
 
-Use the  **[BeginArrowheadLength](lineformat-beginarrowheadlength-property-publisher.md)** property to return or set the length of the arrowhead at the beginning of the line.
+Use the **[BeginArrowheadLength](lineformat-beginarrowheadlength-property-publisher.md)** property to return or set the length of the arrowhead at the beginning of the line.
 
-The  **EndArrowheadLenght** property value can be one of the ** [MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **EndArrowheadLenght** property value can be one of the ** [MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

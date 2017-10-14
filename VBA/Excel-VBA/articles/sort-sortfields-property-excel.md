@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sort.SortFields Property (Excel)
 
-Returns the  **SortFields** object that represents the collection of sort fields associated with the **Sort** object. Read-only.
+Returns the **SortFields** object that represents the collection of sort fields associated with the **Sort** object. Read-only.
 
 
 ## Syntax

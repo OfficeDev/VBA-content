@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.DrawStyle Property (Access)
 
-You can use the  **DrawStyle** property to specify the line style when using the **[Line](report-line-method-access.md)** and **[Circle](report-circle-method-access.md)** methods to print lines on reports. Read/write **Integer**.
+You can use the **DrawStyle** property to specify the line style when using the **[Line](report-line-method-access.md)** and **[Circle](report-circle-method-access.md)** methods to print lines on reports. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **DrawStyle** property to specify the line style when using the
 
 ## Remarks
 
-The  **DrawStyle** property uses the following settings.
+The **DrawStyle** property uses the following settings.
 
 
 
@@ -41,7 +41,7 @@ The  **DrawStyle** property uses the following settings.
 
  **Note**  You can set this property in an event procedure specified by a section's **OnPrint** property setting.
 
-The  **DrawStyle** property produces the results described in the preceding table if the **[DrawWidth](report-drawwidth-property-access.md)** property is set to 1. If the **DrawWidth** property setting is greater than 3, the **DrawStyle** property settings 1 through 4 produce a solid line (the **DrawStyle** property value isn't changed).
+The **DrawStyle** property produces the results described in the preceding table if the **[DrawWidth](report-drawwidth-property-access.md)** property is set to 1. If the **DrawWidth** property setting is greater than 3, the **DrawStyle** property settings 1 through 4 produce a solid line (the **DrawStyle** property value isn't changed).
 
 
 ## See also

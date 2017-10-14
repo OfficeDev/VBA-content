@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](sharedworkspacelink-delete-method-office.md)|Deletes the current  **SharedWorkspaceLink** object.|
+|[Delete](sharedworkspacelink-delete-method-office.md)|Deletes the current **SharedWorkspaceLink** object.|
 |[Save](sharedworkspacelink-save-method-office.md)|Uploads changes made programmatically to a shared server.|
 

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets the  **Iteration** property to **True** so that circular references will be resolved by iteration.
+This example sets the **Iteration** property to **True** so that circular references will be resolved by iteration.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RotationEffect.From Property (PowerPoint)
 
-Sets or returns a  **Single** that represents the starting angle in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
+Sets or returns a **Single** that represents the starting angle in degrees, specified relative to the screen (for example, 90 degrees is completely horizontal). Read/write.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Sets or returns a  **Single** that represents the starting angle in degrees, spe
 
 ## Remarks
 
-Use this property in conjunction with the  **[To](rotationeffect-to-property-powerpoint.md)** property to transition from one rotation angle to another.
+Use this property in conjunction with the **[To](rotationeffect-to-property-powerpoint.md)** property to transition from one rotation angle to another.
 
-The default value is  **Empty** in which case the current position of the object is used.
+The default value is **Empty** in which case the current position of the object is used.
 
-Do not confuse this property with the  **FromX** or **FromY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **FromX** or **FromY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

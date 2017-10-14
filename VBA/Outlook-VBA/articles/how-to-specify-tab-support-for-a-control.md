@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Specify Tab Support for a Control
 
-The following example uses the  **TabStop** property to control whether a user can press TAB to move the focus to a particular control. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that supports tabbing. The user presses TAB to move the focus among the controls on the form, and then clicks the **[ToggleButton](togglebutton-object-outlook-forms-script.md)** to change **TabStop** for CommandButton1. When **TabStop** is **False**, CommandButton1 will not receive the focus by using TAB.
+The following example uses the **TabStop** property to control whether a user can press TAB to move the focus to a particular control. The **TabIndex** property is a Microsoft Forms 2.0 property that applies to every control that supports tabbing. The user presses TAB to move the focus among the controls on the form, and then clicks the **[ToggleButton](togglebutton-object-outlook-forms-script.md)** to change **TabStop** for CommandButton1. When **TabStop** is **False**, CommandButton1 will not receive the focus by using TAB.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
-- One or two other controls, such as an  **[OptionButton](optionbutton-object-outlook-forms-script.md)** or **[ListBox](listbox-object-outlook-forms-script.md)**.
+- One or two other controls, such as an **[OptionButton](optionbutton-object-outlook-forms-script.md)** or **[ListBox](listbox-object-outlook-forms-script.md)**.
     
 
 

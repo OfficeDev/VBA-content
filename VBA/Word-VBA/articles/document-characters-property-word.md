@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Characters Property (Word)
 
-Returns a  **[Characters](characters-object-word.md)** collection that represents the characters in a document. Read-only.
+Returns a **[Characters](characters-object-word.md)** collection that represents the characters in a document. Read-only.
 
 
 ## Syntax

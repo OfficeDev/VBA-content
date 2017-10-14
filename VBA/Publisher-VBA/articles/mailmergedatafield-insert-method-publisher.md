@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataField.Insert Method (Publisher)
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents a data field inserted into a publication.
+Returns a **[Shape](shape-object-publisher.md)** object that represents a data field inserted into a publication.
 
 
 ## Syntax
 
  _expression_. **Insert**( **_Range_**)
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_A variable that represents a **MailMergeDataField** object.
 
 
 ### Parameters
@@ -38,10 +38,10 @@ Shape
 
 ## Remarks
 
-The  **Insert** method works for both picture and string (text) fields.
+The **Insert** method works for both picture and string (text) fields.
 
 
- **Note**  You can also use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
+ **Note**  You can also use the **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
 
 
 ## Example

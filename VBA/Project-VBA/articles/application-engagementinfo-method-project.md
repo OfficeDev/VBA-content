@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Application.EngagementInfo Method (Project)
 
-Displays the engagement information dialog box user interface for the  **Resource Plan** view. Introduced in Office 2016.
+Displays the engagement information dialog box user interface for the **Resource Plan** view. Introduced in Office 2016.
 
 
 ## Syntax

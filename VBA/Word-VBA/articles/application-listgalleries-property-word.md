@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ListGalleries Property (Word)
 
-Returns a  **[ListGalleries](listgalleries-object-word.md)** collection that represents the three list template galleries. .
+Returns a **[ListGalleries](listgalleries-object-word.md)** collection that represents the three list template galleries. .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **[ListGalleries](listgalleries-object-word.md)** collection that rep
 
 ## Remarks
 
-Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the  **Bullets and Numbering** dialog box ( **Format** menu). For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+Each template gallery (Bulleted, Numbered, and Outline Numbered) corresponds to a tab in the **Bullets and Numbering** dialog box ( **Format** menu). For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example
 
-This example sets the variable mylsttmp to the second list template on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box. The example then applies that template to the first list in the active document.
+This example sets the variable mylsttmp to the second list template on the **Outline Numbered** tab in the **Bullets and Numbering** dialog box. The example then applies that template to the first list in the active document.
 
 
 ```vb
@@ -39,7 +39,7 @@ Set mylsttmp = _
 ActiveDocument.Lists(1).ApplyListTemplate ListTemplate:=mylsttmp
 ```
 
-This example cycles through the  **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
+This example cycles through the **ListGalleries** collection and changes the templates in each list template gallery back to the built-in template.
 
 
 

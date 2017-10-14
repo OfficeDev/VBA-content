@@ -18,7 +18,7 @@ Returns a  [FillFormat](fillformat-object-publisher.md) object that contains fil
 
  _expression_. **Fill**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Return value

@@ -33,7 +33,7 @@ String
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Assuming that the name of the add-on in the  **Addons** collection is _string_ , if the project of the currently active document (or another project if it is referenced) does not have a procedure named _string_ , or if the arguments passed in _string_ do not match those specified in the procedure, Microsoft Visio runs the add-on named _string_ . If no add-on named _string_ can be found, Visio does nothing and reports no error. (You can use the **TraceFlags** property to monitor the procedures and add-ons that Visio attempts to run.)
+Assuming that the name of the add-on in the **Addons** collection is _string_ , if the project of the currently active document (or another project if it is referenced) does not have a procedure named _string_ , or if the arguments passed in _string_ do not match those specified in the procedure, Microsoft Visio runs the add-on named _string_ . If no add-on named _string_ can be found, Visio does nothing and reports no error. (You can use the **TraceFlags** property to monitor the procedures and add-ons that Visio attempts to run.)
 
 If  _string_ is an add-on, use the **AddOnArgs** property to specify arguments to send to the add-on when it is run.
 
@@ -43,19 +43,19 @@ When calling a procedure in a standard module it is recommended that you prefix 
 
 To call a procedure in a project other than the project of the active document, use the syntax  _projName.modName.procName_ (you must have explicitly set a reference to _projName_ in your Visual Basic project).
 
-If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** property.
+If the **AddOnName** property is set, Visio ignores the object's **CmdNum** property.
 
 
- **Note**  Beginning with Visio 2002, the  **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
+ **Note**  Beginning with Visio 2002, the **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
 
 
 ## Example
 
-This VBA macro shows how to set the  **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption** , **AddOnArgs** , and **ActionText** .
+This VBA macro shows how to set the **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption** , **AddOnArgs** , and **ActionText** .
 
 This example assumes that you already have a macro named  _macroname_ in the project of the active document, and that the macro takes an argument called "Arg1." Before running this example, replace _macroname_ with the name of your macro.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

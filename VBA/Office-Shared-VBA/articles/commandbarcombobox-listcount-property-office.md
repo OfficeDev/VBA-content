@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.ListCount Property (Office)
 
-Gets the number of list items in a  **CommandBarComboBox** control. Read-only.
+Gets the number of list items in a **CommandBarComboBox** control. Read-only.
 
 
 ## 

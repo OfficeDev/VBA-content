@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InstalledPrinters.Application Property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **InstalledPrinters** object. Read-only.
+Returns an **Application** object that represents the creator of the parent **InstalledPrinters** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents an  **InstalledPrinters** object.
+ _expression_A variable that represents an **InstalledPrinters** object.
 
 
 ### Return Value

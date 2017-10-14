@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LinesPage Property (Word)
 
-Returns or sets the number of lines per page in the document grid. Read/write  **Single** .
+Returns or sets the number of lines per page in the document grid. Read/write **Single** .
 
 
 ## Syntax

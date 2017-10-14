@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Permission.StoreLicenses Property (Office)
 
-Gets or sets a  **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
+Gets or sets a **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Gets or sets a  **Boolean** value that indicates whether the user's license to v
 
 ## Remarks
 
-The  **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
+The **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
 
 
 ## Example
 
-The following example displays information about the permissions settings of the active document, including the  **StoreLicenses** setting.
+The following example displays information about the permissions settings of the active document, including the **StoreLicenses** setting.
 
 
 ```

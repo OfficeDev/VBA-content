@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSaveAsFileType Enumeration (PowerPoint)
 
-Constants that specify type of file to save as, passed to the  **SaveAs** method of the **Presentation** object.
+Constants that specify type of file to save as, passed to the **SaveAs** method of the **Presentation** object.
 
 
 |||

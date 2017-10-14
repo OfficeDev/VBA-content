@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Phonetic.Text Property (Excel)
 
-Returns or sets the text for the specified object. Read/write  **String** .
+Returns or sets the text for the specified object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text for the specified object. Read/write  **String** .
 
 ## Remarks
 
-For the  **[Phonetic](phonetic-object-excel.md)** object, this property returns or sets its phonetic text. You cannot set this property to **Null** .
+For the **[Phonetic](phonetic-object-excel.md)** object, this property returns or sets its phonetic text. You cannot set this property to **Null** .
 
 
 ## See also

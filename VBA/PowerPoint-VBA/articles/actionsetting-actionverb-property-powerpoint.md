@@ -25,7 +25,7 @@ Returns or sets a string that contains the OLE verb that will be run when the us
 
 ## Remarks
 
-The  **[Action](actionsetting-action-property-powerpoint.md)** property must be set to **ppActionOLEVerb** first for this property to affect the slide show action.
+The **[Action](actionsetting-action-property-powerpoint.md)** property must be set to **ppActionOLEVerb** first for this property to affect the slide show action.
 
 
 ## Example

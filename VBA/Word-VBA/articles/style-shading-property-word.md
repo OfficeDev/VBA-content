@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Shading Property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified object.
+Returns a **Shading** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax

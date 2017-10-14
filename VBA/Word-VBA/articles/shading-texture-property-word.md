@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shading.Texture Property (Word)
 
-Returns or sets the shading texture for the specified object. Read/write  **WdTextureIndex** .
+Returns or sets the shading texture for the specified object. Read/write **WdTextureIndex** .
 
 
 ## Syntax

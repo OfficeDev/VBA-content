@@ -33,7 +33,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 ## Remarks
 
-This method sets the  **PresetExtrusionDirection** property to the direction specified by the PresetExtrusionDirection argument.
+This method sets the **PresetExtrusionDirection** property to the direction specified by the PresetExtrusionDirection argument.
 
 
 ## Example

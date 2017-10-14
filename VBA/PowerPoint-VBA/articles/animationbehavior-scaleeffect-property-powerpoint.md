@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.ScaleEffect Property (PowerPoint)
 
-Returns a  **[ScaleEffect](scaleeffect-object-powerpoint.md)** object for a given animation behavior. Read-only.
+Returns a **[ScaleEffect](scaleeffect-object-powerpoint.md)** object for a given animation behavior. Read-only.
 
 
 ## Syntax

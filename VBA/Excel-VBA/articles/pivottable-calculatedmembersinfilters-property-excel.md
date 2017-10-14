@@ -32,7 +32,7 @@ Returns or sets whether to evaluate calculated members from OLAP servers in filt
 
  **True** if calculated members are evaluated in filters; otherwise **False** .
 
-The value of this property corresponds to the setting of the  **Evaluate calculated members from OLAP servers in filters** check box on the **Totals &; Filters** tab of the **PivotTable Options** dialog box for a PivotTable report based on an OLAP data source.
+The value of this property corresponds to the setting of the **Evaluate calculated members from OLAP servers in filters** check box on the **Totals &; Filters** tab of the **PivotTable Options** dialog box for a PivotTable report based on an OLAP data source.
 
 
 ## See also

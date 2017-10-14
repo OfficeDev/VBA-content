@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.AttachmentCurrent Event (Access)
 
-Occurs when the focus moves to or from a file contained in the specified  **Attachment** control, making it the current attachment, or when the form is refreshed or requeried.
+Occurs when the focus moves to or from a file contained in the specified **Attachment** control, making it the current attachment, or when the form is refreshed or requeried.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Occurs when the focus moves to or from a file contained in the specified  **Atta
 
 ## Remarks
 
-By running a macro or event procedure when the  **AttachmentCurrent** event occurs, you can display a message or synchronize controls in the form related to the current attachment.
+By running a macro or event procedure when the **AttachmentCurrent** event occurs, you can display a message or synchronize controls in the form related to the current attachment.
 
 
 ## See also

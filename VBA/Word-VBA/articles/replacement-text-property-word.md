@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Replacement.Text Property (Word)
 
-Returns or sets the text to replace. Read/write  **String** .
+Returns or sets the text to replace. Read/write **String** .
 
 
 ## Syntax

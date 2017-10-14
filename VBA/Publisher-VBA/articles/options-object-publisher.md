@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Options Object (Publisher)
 
-Represents application and publication options in Microsoft Publisher. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box ( **Tools** menu).
+Represents application and publication options in Microsoft Publisher. Many of the properties for the **Options** object correspond to items in the **Options** dialog box ( **Tools** menu).
 
 
 ## Example
 
-Use the  **[Options](http://msdn.microsoft.com/library/999f208a-02e6-49fb-c9a0-42aa97c5e37e%28Office.15%29.aspx)** property to return the **Options** object. The following example sets four application options for Publisher.
+Use the **[Options](http://msdn.microsoft.com/library/999f208a-02e6-49fb-c9a0-42aa97c5e37e%28Office.15%29.aspx)** property to return the **Options** object. The following example sets four application options for Publisher.
 
 
 ```

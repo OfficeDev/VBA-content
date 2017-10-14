@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Tab Property (Excel)
 
-Returns a  **[Tab](tab-object-excel.md)** object for a chart.
+Returns a **[Tab](tab-object-excel.md)** object for a chart.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Report.Shape Property (Access)
 
-Returns a  **String** representing the shape command corresponding to the sorting and grouping of the specified report. Read-only.
+Returns a **String** representing the shape command corresponding to the sorting and grouping of the specified report. Read-only.
 
 
 ## Syntax

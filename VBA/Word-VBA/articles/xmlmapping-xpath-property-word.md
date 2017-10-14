@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.XPath Property (Word)
 
-Returns a  **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
+Returns a **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the XPath for the XML mapping, which evalu
 
 ## Remarks
 
-To set mapping for a content control, use the  **[SetMapping](xmlmapping-setmapping-method-word.md)** method or the **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method. If the mapping is not active, using this property returns an error.
+To set mapping for a content control, use the **[SetMapping](xmlmapping-setmapping-method-word.md)** method or the **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method. If the mapping is not active, using this property returns an error.
 
 
 ## Example

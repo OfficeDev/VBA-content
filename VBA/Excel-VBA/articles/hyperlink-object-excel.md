@@ -23,14 +23,14 @@ Represents a hyperlink.
 
 ## Example
 
-Use the  **[Hyperlink](shape-hyperlink-property-excel.md)** property to return the hyperlink for a shape (a shape can have only one hyperlink). The following example activates the hyperlink for shape one.
+Use the **[Hyperlink](shape-hyperlink-property-excel.md)** property to return the hyperlink for a shape (a shape can have only one hyperlink). The following example activates the hyperlink for shape one.
 
 
 ```
 Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ```
 
-A range or worksheet can have more than one hyperlink. Use  **[Hyperlinks](worksheet-hyperlinks-property-excel.md)** ( _index_ ), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The folllowing example activates hyperlink two in the range A1:B2.
+A range or worksheet can have more than one hyperlink. Use **[Hyperlinks](worksheet-hyperlinks-property-excel.md)** ( _index_ ), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The folllowing example activates hyperlink two in the range A1:B2.
 
 
 

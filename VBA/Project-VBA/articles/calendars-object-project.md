@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Calendars Object (Project)
 
-Contains a collection of  **[Calendar](calendar-object-project.md)** objects.
+Contains a collection of **[Calendar](calendar-object-project.md)** objects.
 
 
 ## Example
 
  **Using the Calendar Object**
 
-Use  **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index number or calendar name, to return a single **Calendar** object.
+Use **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index number or calendar name, to return a single **Calendar** object.
 
 
 
@@ -26,7 +26,7 @@ MsgBox ActiveProject.BaseCalendars(1).Name
 
  **Using the Calendars Collection**
 
-Use the  **[BaseCalendars](http://msdn.microsoft.com/library/fb7f55f6-6618-fb82-dae1-320953bcf79d%28Office.15%29.aspx)** property to return a **Calendars** collection. The following example resets the properties of each base calendar in the active project to their default values.
+Use the **[BaseCalendars](http://msdn.microsoft.com/library/fb7f55f6-6618-fb82-dae1-320953bcf79d%28Office.15%29.aspx)** property to return a **Calendars** collection. The following example resets the properties of each base calendar in the active project to their default values.
 
 
 
@@ -43,7 +43,7 @@ For Each C In ActiveProject.BaseCalendars
 Next C
 ```
 
-Use the  **[BaseCalendarCreate](http://msdn.microsoft.com/library/c9c92dff-255a-041b-c18d-49d6d75884e3%28Office.15%29.aspx)** method to add a **Calendar** object to the **Calendars** collection. The following example creates a new base calendar.
+Use the **[BaseCalendarCreate](http://msdn.microsoft.com/library/c9c92dff-255a-041b-c18d-49d6d75884e3%28Office.15%29.aspx)** method to add a **Calendar** object to the **Calendars** collection. The following example creates a new base calendar.
 
 
 

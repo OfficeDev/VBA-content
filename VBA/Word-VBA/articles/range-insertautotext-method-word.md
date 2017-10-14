@@ -25,9 +25,9 @@ Attempts to match the text in the specified range or the text surrounding the ra
 
 ## Remarks
 
-If Word finds a match,  **InsertAutoText** inserts the AutoText entry to replace that text. If Word cannot find a match, an error occurs.
+If Word finds a match, **InsertAutoText** inserts the AutoText entry to replace that text. If Word cannot find a match, an error occurs.
 
-You can use the  **Insert** method with an **AutoTextEntry** object to insert a specific AutoText entry.
+You can use the **Insert** method with an **AutoTextEntry** object to insert a specific AutoText entry.
 
 
 ## Example

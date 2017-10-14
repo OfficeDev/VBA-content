@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slides.AddSlide Method (PowerPoint)
 
-Creates a new slide, adds it to the  **[Slides](slides-object-powerpoint.md)** collection, and returns the slide.
+Creates a new slide, adds it to the **[Slides](slides-object-powerpoint.md)** collection, and returns the slide.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Slide
 
 ## Example
 
-The following example shows how to use the  **Add** method to add a new slide to the **Slides** collection. It adds a new slide in index position 2 that has the same layout as the first slide in the active presentation.
+The following example shows how to use the **Add** method to add a new slide to the **Slides** collection. It adds a new slide in index position 2 that has the same layout as the first slide in the active presentation.
 
 
 ```vb
@@ -57,12 +57,12 @@ End Sub
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
+- **Microsoft.Office.Interop.PowerPoint.Slides.Add(int, Microsoft.Office.Interop.PowerPoint.PpSlideLayout)**
     
--  **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
+- **Microsoft.Office.Interop.PowerPoint.Slides.AddSlide(int, Microsoft.Office.Interop.PowerPoint.CustomLayout)**
     
 
 ## See also

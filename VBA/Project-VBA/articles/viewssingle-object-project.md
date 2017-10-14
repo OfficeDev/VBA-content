@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewsSingle Object (Project)
 
-Contains a collection of  **[ViewSingle](viewsingle-object-project.md)** objects.
+Contains a collection of **[ViewSingle](viewsingle-object-project.md)** objects.
  
 
 

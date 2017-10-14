@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Comment.UserID Property (PowerPoint)
 
-Returns a  **String** that represents user ID of the contact. Read-only.
+Returns a **String** that represents user ID of the contact. Read-only.
 
 
 ## Syntax

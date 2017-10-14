@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Inspectors Property (Outlook)
 
-Returns an  **[Inspectors](inspectors-object-outlook.md)** collection object that contains the **[Inspector](inspector-object-outlook.md)** objects representing all open inspectors. Read-only.
+Returns an **[Inspectors](inspectors-object-outlook.md)** collection object that contains the **[Inspector](inspector-object-outlook.md)** objects representing all open inspectors. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Inspectors](inspectors-object-outlook.md)** collection object tha
 
 ## Example
 
-This Microsoft Visual Basic example uses the  **[Inspectors](application-inspectors-property-outlook.md)** property and the **[Count](inspectors-count-property-outlook.md)** property and **[Item](inspectors-item-method-outlook.md)** method of the **[Inspectors](inspectors-object-outlook.md)** object to display the captions of all inspector windows.
+This Microsoft Visual Basic example uses the **[Inspectors](application-inspectors-property-outlook.md)** property and the **[Count](inspectors-count-property-outlook.md)** property and **[Item](inspectors-item-method-outlook.md)** method of the **[Inspectors](inspectors-object-outlook.md)** object to display the captions of all inspector windows.
 
 
 ```vb

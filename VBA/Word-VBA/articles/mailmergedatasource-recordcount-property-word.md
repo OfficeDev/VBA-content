@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.RecordCount Property (Word)
 
-Returns a  **Long** that represents the number of records in the data source. Read-only.
+Returns a **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** that represents the number of records in the data source. Re
 
 ## Remarks
 
-If Microsoft Word cannot determine the number of records in a data source, the  **RecordCount** property will return a value of -1.
+If Microsoft Word cannot determine the number of records in a data source, the **RecordCount** property will return a value of -1.
 
 
 ## Example

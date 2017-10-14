@@ -17,7 +17,7 @@ Occurs when the shape selection is changed in Microsoft Visio Viewer.
 
  _expression_. **OnSelectionChanged**( **_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -37,12 +37,12 @@ Nothing
 
 The collection of shapes in the Viewer is one-based, so the first shape in the collection has index 1.
 
-You can change the selected shape in Visio Viewer programmatically by using the  **[SelectShape](viewer-selectshape-method-visio-viewer.md)** method.
+You can change the selected shape in Visio Viewer programmatically by using the **[SelectShape](viewer-selectshape-method-visio-viewer.md)** method.
 
 
 ## Example
 
-The following code shows how to use the  **OnSelectionChanged** event to print the ID of the newly selected shape in Visio Viewer in the **Immediate** window.
+The following code shows how to use the **OnSelectionChanged** event to print the ID of the newly selected shape in Visio Viewer in the **Immediate** window.
 
 
 ```vb

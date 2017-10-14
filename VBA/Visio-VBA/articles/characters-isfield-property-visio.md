@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.IsField Property (Visio)
 
-Determines whether a  **Characters** object represents the expanded text of a single field with no additional non-field characters. Read-only.
+Determines whether a **Characters** object represents the expanded text of a single field with no additional non-field characters. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-To change the range of text represented by a  **Characters** object, set its **Begin** and **End** properties.
+To change the range of text represented by a **Characters** object, set its **Begin** and **End** properties.
 
 

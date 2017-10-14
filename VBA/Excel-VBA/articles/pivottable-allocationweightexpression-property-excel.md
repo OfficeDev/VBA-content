@@ -25,7 +25,7 @@ Returns or sets the MDX weight expression to use when performing what-if analysi
 
 ## Remarks
 
-The  **AllocationWeightExpression** property corresponds to the **Weight Expression** setting in the **What-If Analysis Settings** dialog box. Before the **AllocationWeightExpression** property can be set, you must set the **[AllocationMethod](pivottable-allocationmethod-property-excel.md)** property to **xlWeightedAllocation** .
+The **AllocationWeightExpression** property corresponds to the **Weight Expression** setting in the **What-If Analysis Settings** dialog box. Before the **AllocationWeightExpression** property can be set, you must set the **[AllocationMethod](pivottable-allocationmethod-property-excel.md)** property to **xlWeightedAllocation** .
 
 
 ## See also

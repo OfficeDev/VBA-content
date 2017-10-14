@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Height Property (Office)
 
-Gets or sets the height of a  **CommandBarComboBox** control. Read/write.
+Gets or sets the height of a **CommandBarComboBox** control. Read/write.
 
 
 ## 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cells.Height Property (Word)
 
-Returns or sets the height of the specified table cells. Read/write  **Single** .
+Returns or sets the height of the specified table cells. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the height of the specified table cells. Read/write  **Single** 
 
 ## Remarks
 
-If the  **HeightRule** property of the specified row is **wdRowHeightAuto** , **Height** returns **wdUndefined** ; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast** .
+If the **HeightRule** property of the specified row is **wdRowHeightAuto** , **Height** returns **wdUndefined** ; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast** .
 
 
 ## See also

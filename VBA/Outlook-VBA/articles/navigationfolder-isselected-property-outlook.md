@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.IsSelected Property (Outlook)
 
-Returns or sets a  **Boolean** variable that indicates whether the **[NavigationFolder](navigationfolder-object-outlook.md)** object is selected for display. Read/write.
+Returns or sets a **Boolean** variable that indicates whether the **[NavigationFolder](navigationfolder-object-outlook.md)** object is selected for display. Read/write.
 
 
 ## Syntax
@@ -25,15 +25,15 @@ Returns or sets a  **Boolean** variable that indicates whether the **[Navigation
 
 ## Remarks
 
-Navigation folders contained in a  **Calendar** navigation module are treated differently than navigation folders in other navigation modules.
+Navigation folders contained in a **Calendar** navigation module are treated differently than navigation folders in other navigation modules.
 
-If the active explorer uses the  **Day/Week/Month** or **Day/Week/Month View with AutoPreview** view to display navigation folders in the **Calendar** navigation module, this property returns **True** if the navigation folder is checked in the Navigation Pane (and is therefore displayed either in side-by-side or overlay mode in the active explorer.) Setting this property to **False** removes a calendar from display in the active explorer. An error occurs if this property is set to **True** for more than 30 navigation folders.
+If the active explorer uses the **Day/Week/Month** or **Day/Week/Month View with AutoPreview** view to display navigation folders in the **Calendar** navigation module, this property returns **True** if the navigation folder is checked in the Navigation Pane (and is therefore displayed either in side-by-side or overlay mode in the active explorer.) Setting this property to **False** removes a calendar from display in the active explorer. An error occurs if this property is set to **True** for more than 30 navigation folders.
 
-If the active explorer uses another view, such as the  **All Appointments** view, to display navigation folders in the **Calendar** navigation module, or in navigation modules other than the **Calendar** navigation module, this property returns **True** if the navigation folder is selected and currently displayed in the active explorer; otherwise, the property returns **False**. 
+If the active explorer uses another view, such as the **All Appointments** view, to display navigation folders in the **Calendar** navigation module, or in navigation modules other than the **Calendar** navigation module, this property returns **True** if the navigation folder is selected and currently displayed in the active explorer; otherwise, the property returns **False**. 
 
-In either case, an error occurs if the value of this property is set to  **False** for all **NavigationFolder** objects in the parent **[NavigationFolders](navigationfolders-object-outlook.md)** collection, or if the **NavigationFolder** object is contained by a navigation module other than the navigation module currently displayed in the Navigation Pane.
+In either case, an error occurs if the value of this property is set to **False** for all **NavigationFolder** objects in the parent **[NavigationFolders](navigationfolders-object-outlook.md)** collection, or if the **NavigationFolder** object is contained by a navigation module other than the navigation module currently displayed in the Navigation Pane.
 
-The  **[SelectedChange](navigationgroups-selectedchange-event-outlook.md)** event for the parent **NavigationFolders** collection is raised if the value of this property is changed for a **NavigationFolder** object in a **Calendar** navigation module, regardless of the current view.
+The **[SelectedChange](navigationgroups-selectedchange-event-outlook.md)** event for the parent **NavigationFolders** collection is raised if the value of this property is changed for a **NavigationFolder** object in a **Calendar** navigation module, regardless of the current view.
 
 
 ## See also

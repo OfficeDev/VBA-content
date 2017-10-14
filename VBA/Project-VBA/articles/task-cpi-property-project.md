@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.CPI Property (Project)
 
-Gets the cost performance index of a specified task. Read-only  **Double**.
+Gets the cost performance index of a specified task. Read-only **Double**.
 
 
 ## Syntax

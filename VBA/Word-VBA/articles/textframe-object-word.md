@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TextFrame Object (Word)
 
-Represents the text frame in a  **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
+Represents the text frame in a **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 
 
 ## Remarks
 
-Use the  **TextFrame** property to return the **TextFrame** object for a shape. The **TextRange** property returns a **[Range](range-object-word.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active document.
+Use the **TextFrame** property to return the **TextFrame** object for a shape. The **TextRange** property returns a **[Range](range-object-word.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active document.
 
 
 ```
@@ -28,7 +28,7 @@ ActiveDocument.Shapes(1).TextFrame.TextRange.Text = "My Text"
 
  **Note**  Some shapes do not support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
 
-Use the  **HasText** property to determine whether the text frame contains text, as shown in the following example.
+Use the **HasText** property to determine whether the text frame contains text, as shown in the following example.
 
 
 
@@ -41,7 +41,7 @@ For Each s In ActiveDocument.Shapes
 Next
 ```
 
-Text frames can be linked together so that the text flows from the text frame of one shape into the text frame of another shape. Use the  **Next** and **Previous** properties to link text frames. The following example creates a text box (a rectangle with a text frame) and adds some text to it. It then creates another text box and links the two text frames together so that the text flows from the first text frame into the second one.
+Text frames can be linked together so that the text flows from the text frame of one shape into the text frame of another shape. Use the **Next** and **Previous** properties to link text frames. The following example creates a text box (a rectangle with a text frame) and adds some text to it. It then creates another text box and links the two text frames together so that the text flows from the first text frame into the second one.
 
 
 
@@ -56,7 +56,7 @@ Set myTB2 = ActiveDocument.Shapes.AddTextbox _
 myTB1.TextFrame.Next = myTB2.TextFrame
 ```
 
-Use the  **ContainingRange** property to return a **Range** object that represents the entire story that flows between linked text frames. The following example checks the spelling of the text in TextBox 3 and of any other text that is linked to TextBox 3.
+Use the **ContainingRange** property to return a **Range** object that represents the entire story that flows between linked text frames. The following example checks the spelling of the text in TextBox 3 and of any other text that is linked to TextBox 3.
 
 
 

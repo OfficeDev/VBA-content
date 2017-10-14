@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Task Property (Project)
 
-Gets the  **[Task](task-object-project.md)** object associated with the **[Assignment](assignment-object-project.md)**. Read-only **Task**.
+Gets the **[Task](task-object-project.md)** object associated with the **[Assignment](assignment-object-project.md)**. Read-only **Task**.
 
 
 ## Syntax

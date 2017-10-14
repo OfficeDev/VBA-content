@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.InsertBefore Method (Office)
 
-Inserts text to the left of the existing text in the  **TextRange2** object.
+Inserts text to the left of the existing text in the **TextRange2** object.
 
 
 ## Syntax

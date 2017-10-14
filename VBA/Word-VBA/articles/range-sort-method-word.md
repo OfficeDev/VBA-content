@@ -31,23 +31,23 @@ Sorts the paragraphs in the specified range.
 |:-----|:-----|:-----|:-----|
 | _ExcludeHeader_|Optional| **Variant**| **True** to exclude the first row or paragraph header from the sort operation. The default value is **False** .|
 | _FieldNumber_|Optional| **Variant**|The fields by which to sort. Microsoft Word sorts by FieldNumber, then by FieldNumber2, and then by FieldNumber3.|
-| _SortFieldType_|Optional| **Variant**|The respective sort types for FieldNumber. Can be one of the  **WdSortFieldType** constants. The default value is **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
-| _SortOrder_|Optional| **Variant**|The sorting order to use when sorting FieldNumber. Can be any  **WdSortOrder** constant.|
+| _SortFieldType_|Optional| **Variant**|The respective sort types for FieldNumber. Can be one of the **WdSortFieldType** constants. The default value is **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SortOrder_|Optional| **Variant**|The sorting order to use when sorting FieldNumber. Can be any **WdSortOrder** constant.|
 | _FieldNumber2_|Optional| **Variant**|The fields by which to sort.|
-| _SortFieldType2_|Optional| **Variant**|The respective sort types for FieldNumber2. Can be one of the  **WdSortFieldType** constants. The default value is **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
-| _SortOrder2_|Optional| **Variant**|The sorting order to use when sorting FieldNumber2. Can be any  **WdSortOrder** constant.|
+| _SortFieldType2_|Optional| **Variant**|The respective sort types for FieldNumber2. Can be one of the **WdSortFieldType** constants. The default value is **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SortOrder2_|Optional| **Variant**|The sorting order to use when sorting FieldNumber2. Can be any **WdSortOrder** constant.|
 | _FieldNumber3_|Optional| **Variant**|The fields by which to sort.|
-| _SortFieldType3_|Required||Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed. The default value is  **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
-| _SortOrder3_|Optional| **Variant**|The sorting order to use when sorting FieldNumber3. Can be any  **WdSortOrder** constant.|
+| _SortFieldType3_|Required||Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed. The default value is **wdSortFieldAlphanumeric** . Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _SortOrder3_|Optional| **Variant**|The sorting order to use when sorting FieldNumber3. Can be any **WdSortOrder** constant.|
 | _SortColumn_|Optional| **Variant**| **True** to sort only the column specified by the **Range** object.|
-| _Separator_|Optional| **Variant**|The type of field separator. Can be one of the  **WdSortSeparator** constants.|
+| _Separator_|Optional| **Variant**|The type of field separator. Can be one of the **WdSortSeparator** constants.|
 | _CaseSensitive_|Optional| **Variant**| **True** to sort with case sensitivity. The default value is **False** .|
-| _BidiSort_|Optional| **Variant**| **True** to sort based on right-to-left language rules. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreThe_|Optional| **Variant**| **True** to ignore the Arabic character alef lam when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreKashida_|Optional| **Variant**| **True** to ignore kashidas when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreDiacritics_|Optional| **Variant**| **True** to ignore bidirectional control characters when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreHe_|Optional| **Variant**| **True** to ignore the Hebrew character he when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _LanguageID_|Optional| **Variant**|Specifies the sorting language. Can be one of the  **WdLanguageID** constants. Refer to the Object Browser for a list of the **WdLanguageID** constants.|
+| _BidiSort_|Optional| **Variant**| **True** to sort based on right-to-left language rules. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreThe_|Optional| **Variant**| **True** to ignore the Arabic character alef lam when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreKashida_|Optional| **Variant**| **True** to ignore kashidas when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreDiacritics_|Optional| **Variant**| **True** to ignore bidirectional control characters when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreHe_|Optional| **Variant**| **True** to ignore the Hebrew character he when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _LanguageID_|Optional| **Variant**|Specifies the sorting language. Can be one of the **WdLanguageID** constants. Refer to the Object Browser for a list of the **WdLanguageID** constants.|
 
 ## Example
 

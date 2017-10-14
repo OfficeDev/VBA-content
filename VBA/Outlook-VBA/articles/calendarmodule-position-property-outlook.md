@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarModule.Position Property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[CalendarModule](calendarmodule-object-outlook.md)** object when it is displayed in the Navigation Pane. Read/write.
+Returns or sets a **Long** value that represents the ordinal position of the **[CalendarModule](calendarmodule-object-outlook.md)** object when it is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -27,17 +27,17 @@ Returns or sets a  **Long** value that represents the ordinal position of the **
 
 This property can only be set to a value between 1 and 9. An error occurs if you attempt to set it to a value outside of that range.
 
-Changing the value of this property for a given  **CalendarModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](navigationmodules-object-outlook.md)** collection, depending on the relative change between the new value and the original value.
+Changing the value of this property for a given **CalendarModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](navigationmodules-object-outlook.md)** collection, depending on the relative change between the new value and the original value.
 
 
-- If the new value is less than the original value, the specified  **CalendarModule** object moves up to the new position and the other navigation modules that are already at or below that new position move down.
+- If the new value is less than the original value, the specified **CalendarModule** object moves up to the new position and the other navigation modules that are already at or below that new position move down.
     
-- If the new value is greater than the original value, the specified  **CalendarModule** object moves down to the new position and the other navigation modules that are between the old position and the new position move up, filling the old position.
+- If the new value is greater than the original value, the specified **CalendarModule** object moves down to the new position and the other navigation modules that are between the old position and the new position move up, filling the old position.
     
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample code attempts to retrieve the  **Calendar** navigation module from the Navigation Pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the Navigation Pane. Finally, the code sets the **[CurrentModule](navigationpane-currentmodule-property-outlook.md)** property of the **[NavigationPane](navigationpane-object-outlook.md)** object to the retrieved **Calendar** module, which selects it in the Navigation Pane.
+The following Visual Basic for Applications (VBA) sample code attempts to retrieve the **Calendar** navigation module from the Navigation Pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the Navigation Pane. Finally, the code sets the **[CurrentModule](navigationpane-currentmodule-property-outlook.md)** property of the **[NavigationPane](navigationpane-object-outlook.md)** object to the retrieved **Calendar** module, which selects it in the Navigation Pane.
 
 
 ```vb

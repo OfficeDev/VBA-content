@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](customxmlschema-delete-method-office.md)|Deletes the specified schema from the  **CustomXMLSchema** collection.|
+|[Delete](customxmlschema-delete-method-office.md)|Deletes the specified schema from the **CustomXMLSchema** collection.|
 |[Reload](customxmlschema-reload-method-office.md)|Reloads a schema from a file.|
 

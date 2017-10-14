@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.TextInput Property (Word)
 
-Returns a  **[TextInput](textinput-object-word.md)** object that represents a text form field.
+Returns a **[TextInput](textinput-object-word.md)** object that represents a text form field.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[TextInput](textinput-object-word.md)** object that represents a te
 
 ## Remarks
 
-If the  **TextInput** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
+If the **TextInput** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
 
-Use the  **Result** property with the **FormField** object to return or set the contents of a **TextInput** object, as follows:
+Use the **Result** property with the **FormField** object to return or set the contents of a **TextInput** object, as follows:
 
 
 ## Example

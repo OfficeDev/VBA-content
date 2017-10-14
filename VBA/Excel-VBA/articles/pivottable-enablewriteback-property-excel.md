@@ -30,13 +30,13 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, setting to the  **EnableWriteback** property to **True** to enables writeback and disables the alert for when the user overwrites values in the data area of the PivotTable. For non-OLAP data sources, setting the **EnableWriteback** property to **True** enables write-back in code, and also allows the user to change data values that previously could not be changed.
+For OLAP data sources, setting to the **EnableWriteback** property to **True** to enables writeback and disables the alert for when the user overwrites values in the data area of the PivotTable. For non-OLAP data sources, setting the **EnableWriteback** property to **True** enables write-back in code, and also allows the user to change data values that previously could not be changed.
 
-The  **EnableWriteback** and **[EnableDataValueEditing](pivottable-enabledatavalueediting-property-excel.md)** properties of the **[PivotTable](pivottable-object-excel.md)** object cannot be set to **True** at the same time.
+The **EnableWriteback** and **[EnableDataValueEditing](pivottable-enabledatavalueediting-property-excel.md)** properties of the **[PivotTable](pivottable-object-excel.md)** object cannot be set to **True** at the same time.
 
-If the  **EnableDataValueEditing** property is set to **True** and then the **EnableWriteback** property is set to **True** , the **EnableDataValueEditing** property is set to **False** automatically, the PivotTable is refreshed, and any editing performed on data values is lost.
+If the **EnableDataValueEditing** property is set to **True** and then the **EnableWriteback** property is set to **True** , the **EnableDataValueEditing** property is set to **False** automatically, the PivotTable is refreshed, and any editing performed on data values is lost.
 
-If the  **EnableWriteback** property is set to **True** and then the **EnableDataValueEditing** property is set to **True** , the **EnableWriteback** property is set to **False** automatically, the PivotTable is not refreshed, and the data source values are restored.
+If the **EnableWriteback** property is set to **True** and then the **EnableDataValueEditing** property is set to **True** , the **EnableWriteback** property is set to **False** automatically, the PivotTable is not refreshed, and the data source values are restored.
 
 For non-OLAP data sources, setting this property generates a run-time error.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SmartArtLayouts Property (PowerPoint)
 
-Returns the SmartArt layout of the current  **Application** object. Read-only.
+Returns the SmartArt layout of the current **Application** object. Read-only.
 
 
 ## Syntax

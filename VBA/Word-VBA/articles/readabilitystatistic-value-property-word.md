@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReadabilityStatistic.Value Property (Word)
 
-Returns the value of the grammar statistic. Read-only  **Long** .
+Returns the value of the grammar statistic. Read-only **Long** .
 
 
 ## Syntax

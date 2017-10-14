@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Delete Method (Office)
 
-Deletes the  **CommandBarButton** object from its collection.
+Deletes the **CommandBarButton** object from its collection.
 
 
 ## 

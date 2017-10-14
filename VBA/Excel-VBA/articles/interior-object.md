@@ -18,7 +18,7 @@ Represents the interior of the specified object.
 
 ## Using the Interior Object
 
-Use the  **Interior** property to return the **Interior** object. The following example sets the chart area color to gray and the plot area color to green.
+Use the **Interior** property to return the **Interior** object. The following example sets the chart area color to gray and the plot area color to green.
 
 
 ```vb

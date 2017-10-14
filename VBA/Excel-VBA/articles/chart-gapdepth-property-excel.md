@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.GapDepth Property (Excel)
 
-Returns or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. The value of this property must be between 0 and 500. Read/write  **Long** .
+Returns or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. The value of this property must be between 0 and 500. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance between the data series in a 3-D chart, as a percen
 
 ## Example
 
-This example sets the distance between the data series in Chart1 to 200 percent of the marker width. The example should be run on a 3-D chart (the  **GapDepth** property fails on 2-D charts).
+This example sets the distance between the data series in Chart1 to 200 percent of the marker width. The example should be run on a 3-D chart (the **GapDepth** property fails on 2-D charts).
 
 
 ```vb

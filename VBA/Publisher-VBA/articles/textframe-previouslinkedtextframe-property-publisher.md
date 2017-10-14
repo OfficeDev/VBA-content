@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.PreviousLinkedTextFrame Property (Publisher)
 
-Returns a  **[TextFrame](textframe-object-publisher.md)** object representing the text frame from which text flows to the specified text frame.
+Returns a **[TextFrame](textframe-object-publisher.md)** object representing the text frame from which text flows to the specified text frame.
 
 
 ## Syntax
 
  _expression_. **PreviousLinkedTextFrame**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value

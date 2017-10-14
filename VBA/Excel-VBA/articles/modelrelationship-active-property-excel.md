@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelRelationship.Active Property (Excel)
 
-When  **True** , the relationship is active. When **False** , this relationship is inactive. **Boolean** . Read/Write
+When **True** , the relationship is active. When **False** , this relationship is inactive. **Boolean** . Read/Write
 
 
 ## Syntax

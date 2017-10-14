@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-When a slide contains animations, the  **GetClickCount** method returns the number of mouse clicks required before a user advances to the next slide.
+When a slide contains animations, the **GetClickCount** method returns the number of mouse clicks required before a user advances to the next slide.
 
 
 ## See also

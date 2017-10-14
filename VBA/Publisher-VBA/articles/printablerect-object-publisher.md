@@ -26,7 +26,7 @@ In cases in which the printer sheet and the publication page size are identical,
 
 ## Example
 
-Use the  **[PrintableRect](printer-printablerect-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to return a **PrintableRect** object. The following example returns printable rectangle boundaries for the printer sheet of the active publication.
+Use the **[PrintableRect](printer-printablerect-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to return a **PrintableRect** object. The following example returns printable rectangle boundaries for the printer sheet of the active publication.
  
 
  

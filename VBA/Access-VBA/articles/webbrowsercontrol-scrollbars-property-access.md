@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.ScrollBars Property (Access)
 
-You can use the  **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
+You can use the **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **ScrollBars** property to specify whether scroll bars appear o
 
 ## Remarks
 
-The  **ScrollBars** property uses the following settings.
+The **ScrollBars** property uses the following settings.
 
 
 

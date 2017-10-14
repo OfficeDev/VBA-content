@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintFitOnPages** property corresponds to the **Fit to** settings in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). If this property is **True** , Microsoft Visio prints the document's drawings on the number of sheets specified by the **PrintPagesAcross** and **PrintPagesDown** properties.
+The **PrintFitOnPages** property corresponds to the **Fit to** settings in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group). If this property is **True** , Microsoft Visio prints the document's drawings on the number of sheets specified by the **PrintPagesAcross** and **PrintPagesDown** properties.
 
 

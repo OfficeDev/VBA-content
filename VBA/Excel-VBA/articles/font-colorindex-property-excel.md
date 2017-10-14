@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ColorIndex Property (Excel)
 
-Returns or sets a  **Variant** value that represents the color of the font.
+Returns or sets a **Variant** value that represents the color of the font.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **Variant** value that represents the color of the font.
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](xlcolorindex-enumeration-excel.md)** constants:
 
 
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**
     
--  **xlColorIndexNone**
+- **xlColorIndexNone**
     
 
 ## Example

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDataColumnProperties Enumeration (Visio)
 
-Data-column-property constants passed to the  **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** and **[DataColumns.SetColumnProperties](datacolumns-setcolumnproperties-method-visio.md)** methods and returned by the **[DataColumn.GetProperty](datacolumn-getproperty-method-visio.md)** method.
+Data-column-property constants passed to the **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** and **[DataColumns.SetColumnProperties](datacolumns-setcolumnproperties-method-visio.md)** methods and returned by the **[DataColumn.GetProperty](datacolumn-getproperty-method-visio.md)** method.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

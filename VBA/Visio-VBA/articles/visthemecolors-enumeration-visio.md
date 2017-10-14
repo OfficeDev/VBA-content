@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisThemeColors Enumeration (Visio)
 
-Specifies theme color constants that are passed to and returned by the  **[Page.ThemeColors](page-themecolors-property-visio.md)** property.
+Specifies theme color constants that are passed to and returned by the **[Page.ThemeColors](page-themecolors-property-visio.md)** property.
 
 
 

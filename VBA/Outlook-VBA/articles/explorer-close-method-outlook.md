@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.Close Method (Outlook)
 
-Closes the  **[Explorer](explorer-object-outlook.md)** object.
+Closes the **[Explorer](explorer-object-outlook.md)** object.
 
 
 ## Syntax

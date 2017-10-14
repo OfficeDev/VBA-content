@@ -17,7 +17,7 @@ Occurs when the user customizes the Microsoft Visio Viewer toolbar by adding or 
 
  _expression_. **OnToolbarCustomized**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,14 +27,14 @@ Nothing
 
 ## Remarks
 
-You can customize the toolbar in Visio Viewer by adding or removing buttons. To do so in the user interface, right-click in the toolbar area, and then click  **Customize**. 
+You can customize the toolbar in Visio Viewer by adding or removing buttons. To do so in the user interface, right-click in the toolbar area, and then click **Customize**. 
 
-You can customize the toolbar programmatically by using the  **[ToolbarButtons](viewer-toolbarbuttons-property-visio-viewer.md)** property. For the toolbar to be customizable, the **[ToolbarCustomizable](viewer-toolbarcustomizable-property-visio-viewer.md)** property must be set to its default value, **True**.
+You can customize the toolbar programmatically by using the **[ToolbarButtons](viewer-toolbarbuttons-property-visio-viewer.md)** property. For the toolbar to be customizable, the **[ToolbarCustomizable](viewer-toolbarcustomizable-property-visio-viewer.md)** property must be set to its default value, **True**.
 
 
 ## Example
 
-The following code shows how to use the  **OnToolbarCustomized** event to display a message in the **Immediate** window when the user customizes the toolbar in Visio Viewer.
+The following code shows how to use the **OnToolbarCustomized** event to display a message in the **Immediate** window when the user customizes the toolbar in Visio Viewer.
 
 
 ```vb

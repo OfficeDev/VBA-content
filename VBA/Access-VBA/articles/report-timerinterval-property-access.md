@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.TimerInterval Property (Access)
 
-You can use the  **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](report-timer-event-access.md)** events on a report. Read/write **Long**.
+You can use the **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](report-timer-event-access.md)** events on a report. Read/write **Long**.
 
 
 ## Syntax
@@ -25,19 +25,19 @@ You can use the  **TimerInterval** property to specify the interval, in millisec
 
 ## Remarks
 
-The  **TimerInterval** property setting is a Long Integer value between 0 and 2,147,483,647.
+The **TimerInterval** property setting is a Long Integer value between 0 and 2,147,483,647.
 
 You can set this property by using the report's property sheet, a macro, or Visual Basic.
 
 
- **Note**  When using Visual Basic, you set the  **TimerInterval** property in the report's **Load** event.
+ **Note**  When using Visual Basic, you set the **TimerInterval** property in the report's **Load** event.
 
-To run Visual Basic code at intervals specified by the  **TimerInterval** property, put the code in the report's **Timer** event procedure. For example, to requery records every 30 seconds, put the code to requery the records in the report's **Timer** event procedure, and then set the **TimerInterval** property to 30000.
+To run Visual Basic code at intervals specified by the **TimerInterval** property, put the code in the report's **Timer** event procedure. For example, to requery records every 30 seconds, put the code to requery the records in the report's **Timer** event procedure, and then set the **TimerInterval** property to 30000.
 
 
 ## Example
 
-The following example shows how to create a flashing button on a form by displaying and hiding an icon on the button. The report's  **Load** event procedure sets the report's **TimerInterval** property to 1000 so the icon display is toggled once every second.
+The following example shows how to create a flashing button on a form by displaying and hiding an icon on the button. The report's **Load** event procedure sets the report's **TimerInterval** property to 1000 so the icon display is toggled once every second.
 
 
 ```vb

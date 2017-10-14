@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-Setting a value of  **msoTrue** for the **Reveal** property when the filter effect type is **msoAnimFilterEffectTypeWipe** will make the shape appear. Setting a value of **msoFalse** will make the object disappear. In other words, if your filter is set to wipe and **Reveal** is true, you will get a wipe-in effect, and when **Reveal** is false, you will get a wipe-out effect.
+Setting a value of **msoTrue** for the **Reveal** property when the filter effect type is **msoAnimFilterEffectTypeWipe** will make the shape appear. Setting a value of **msoFalse** will make the object disappear. In other words, if your filter is set to wipe and **Reveal** is true, you will get a wipe-in effect, and when **Reveal** is false, you will get a wipe-out effect.
 
-The value of the  **Reveal** property can be one of these **MsoTriState** constants.
+The value of the **Reveal** property can be one of these **MsoTriState** constants.
 
 
 ||

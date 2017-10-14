@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Groups2 Object (Project)
 
-Represents a collection of  **[Group2](group2-object-project.md)** objects, which can maintain group hierarchy.
+Represents a collection of **[Group2](group2-object-project.md)** objects, which can maintain group hierarchy.
  
 
 

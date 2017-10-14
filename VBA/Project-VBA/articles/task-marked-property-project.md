@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For example, you can set the  **Marked** property to "Yes", add the **Marked** column to a task view, and filter, format, or edit only those tasks that are marked "Yes". Setting **Marked** to 1 or **True** results in a value of "Yes" for the task in the **Marked** column.
+For example, you can set the **Marked** property to "Yes", add the **Marked** column to a task view, and filter, format, or edit only those tasks that are marked "Yes". Setting **Marked** to 1 or **True** results in a value of "Yes" for the task in the **Marked** column.
 
 

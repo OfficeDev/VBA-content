@@ -25,6 +25,6 @@ Returns the time and date the document was last validated. Read-only.
 
 ## Remarks
 
-If the document has never been validated, the  **LastValidatedDate** property returns zero (0).
+If the document has never been validated, the **LastValidatedDate** property returns zero (0).
 
 

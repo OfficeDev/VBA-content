@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathPhantom.ZeroDesc Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the descent of the phantom contents is ignored in the spacing of the layout. Read/write.
+Returns or sets a **Boolean** that represents whether the descent of the phantom contents is ignored in the spacing of the layout. Read/write.
 
 
 ## Syntax

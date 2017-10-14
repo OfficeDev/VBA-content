@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Index Property (Office)
 
-Gets a  **Long** representing the index number for a **CommandBar** object in the collection. Read-only.
+Gets a **Long** representing the index number for a **CommandBar** object in the collection. Read-only.
 
 
 ## 

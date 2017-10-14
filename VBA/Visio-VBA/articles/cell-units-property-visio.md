@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Units Property (Visio)
 
-Indicates the unit of measure associated with a  **Cell** object. Read-only.
+Indicates the unit of measure associated with a **Cell** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **Units** property can be used to determine the unit of measure currently associated with a cell's value. The various unit codes are declared by the Visio type library in member **[VisUnitCodes ](visunitcodes-enumeration-visio.md)** . For example, a cell's width might be expressed in inches ( **visInches** ) or in centimeters ( **visCentimeters** ). In some cases, a program might behave differently depending on whether a cell's value is in metric or in imperial units.
+The **Units** property can be used to determine the unit of measure currently associated with a cell's value. The various unit codes are declared by the Visio type library in member **[VisUnitCodes ](visunitcodes-enumeration-visio.md)** . For example, a cell's width might be expressed in inches ( **visInches** ) or in centimeters ( **visCentimeters** ). In some cases, a program might behave differently depending on whether a cell's value is in metric or in imperial units.
 
 For a list of valid unit codes, see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 

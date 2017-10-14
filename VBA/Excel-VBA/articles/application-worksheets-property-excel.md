@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Worksheets Property (Excel)
 
-For an  **Application** object, returns a **[Sheets](sheets-object-excel.md)** collection that represents all the worksheets in the active workbook. For a **Workbook** object, returns a **[Sheets](sheets-object-excel.md)** collection that represents all the worksheets in the specified workbook. Read-only **Sheets** object.
+For an **Application** object, returns a **[Sheets](sheets-object-excel.md)** collection that represents all the worksheets in the active workbook. For a **Workbook** object, returns a **[Sheets](sheets-object-excel.md)** collection that represents all the worksheets in the specified workbook. Read-only **Sheets** object.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ For an  **Application** object, returns a **[Sheets](sheets-object-excel.md)** c
 
 Using this property without an object qualifier returns all the worksheets in the active workbook.
 
-This property doesn't return macro sheets; use the  **[Excel4MacroSheets](application-excel4macrosheets-property-excel.md)** property or the **[Excel4IntlMacroSheets](application-excel4intlmacrosheets-property-excel.md)** property to return those sheets.
+This property doesn't return macro sheets; use the **[Excel4MacroSheets](application-excel4macrosheets-property-excel.md)** property or the **[Excel4IntlMacroSheets](application-excel4intlmacrosheets-property-excel.md)** property to return those sheets.
 
 
 ## Example

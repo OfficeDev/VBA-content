@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.DataFeedConnection Property (Excel)
 
-Returns a  **DataFeedConnection** object that contains the data and functionality needed to connect to data feeds. Read-only
+Returns a **DataFeedConnection** object that contains the data and functionality needed to connect to data feeds. Read-only
 
 
 ## Syntax

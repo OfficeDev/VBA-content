@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.TaskErrorCount Property (Project)
 
-Gets or sets the number of task errors associated with a project. Read/write  **Long**.
+Gets or sets the number of task errors associated with a project. Read/write **Long**.
 
 
 ## Syntax

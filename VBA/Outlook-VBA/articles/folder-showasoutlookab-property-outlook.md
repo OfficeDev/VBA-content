@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.ShowAsOutlookAB Property (Outlook)
 
-Returns or sets a  **Boolean** variable that specifies whether the contact items folder will be displayed as an address list in the Outlook Address Book. Read/write.
+Returns or sets a **Boolean** variable that specifies whether the contact items folder will be displayed as an address list in the Outlook Address Book. Read/write.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets a  **Boolean** variable that specifies whether the contact items
 
 ## Remarks
 
-If you set the  **ShowAsOutlookAB** property of a contact items folder to **False** , it will not be available in the drop-down list under **Address Book** in the **Address Book** dialog box.
+If you set the **ShowAsOutlookAB** property of a contact items folder to **False** , it will not be available in the drop-down list under **Address Book** in the **Address Book** dialog box.
 
  **ShowAsOutlookAB** does not support folders on another Exchange user's mailbox, for example, a Contacts folder that is shared by another user. Getting or setting this property on a such a folder will not produce any desired results.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a reference to the default Contacts folder and modifies its  **ShowAsOutlookAB** property to be displayed as an Address Book.
+The following Visual Basic for Applications (VBA) example creates a reference to the default Contacts folder and modifies its **ShowAsOutlookAB** property to be displayed as an Address Book.
 
 
 ```vb

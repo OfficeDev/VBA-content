@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ContextualAlternates Property (Word)
 
-Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long** .
+Specifies whether or not contextual alternates are enabled for the specified font. Read/write **Long** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Specifies whether or not contextual alternates are enabled for the specified fon
 
 Contextual alternates are ligatures that are applied to individual characters based on the letters around them (their context). Contextual alternates can also be applied to entire words in certain contexts, for example, words frequently used in titles (such as "of" and "the"). When contextual alternates are enabled for a font, they are used instead of the standard ligatures in those contexts defined by the font designer.
 
-Setting this property has the same effect as selecting the check box next to  **Use Contextual Alternates** (in the **OpenType Features** group, **Advanced** tab, on the **Font** dialog in Word).
+Setting this property has the same effect as selecting the check box next to **Use Contextual Alternates** (in the **OpenType Features** group, **Advanced** tab, on the **Font** dialog in Word).
 
 
 ## Example

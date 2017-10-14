@@ -23,7 +23,7 @@ The data read from a file wasn't in the expected format. This error has the foll
     
     Load the source code instead.
     
-- You may have used the  **References** dialog box and[Object Browser](vbe-glossary.md) to add a reference to a file that isn't a valid object library or contains a Basic project in a format not supported by the[host application](vbe-glossary.md). For example, on the Windows platform, Microsoft Excel can't understand .bas or .frm files, or Microsoft Project files containing Basic code.
+- You may have used the **References** dialog box and[Object Browser](vbe-glossary.md) to add a reference to a file that isn't a valid object library or contains a Basic project in a format not supported by the[host application](vbe-glossary.md). For example, on the Windows platform, Microsoft Excel can't understand .bas or .frm files, or Microsoft Project files containing Basic code.
     
     Load the questionable file into the application in which it was created, and then save it in a compatible format. For example, object library source code can be processed through MkTypLib; and QuickBasic, and Visual Basic code can be saved in text format, and so on.
     

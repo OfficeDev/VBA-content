@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Details Method (Outlook)
 
-Displays a modal dialog box that provides detailed information about an  **[ExchangeUser](exchangeuser-object-outlook.md)** object.
+Displays a modal dialog box that provides detailed information about an **[ExchangeUser](exchangeuser-object-outlook.md)** object.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ Displays a modal dialog box that provides detailed information about an  **[Exch
 
 ## Remarks
 
-The  **Details** method fails if the **[ExchangeUser.Name](exchangeuser-name-property-outlook.md)** property is empty. You must use error handling to handle run-time errors, and when the user clicks **Cancel** in the dialog box.
+The **Details** method fails if the **[ExchangeUser.Name](exchangeuser-name-property-outlook.md)** property is empty. You must use error handling to handle run-time errors, and when the user clicks **Cancel** in the dialog box.
 
-The  **Details** method actually stops the code from running while the dialog box is displayed.
+The **Details** method actually stops the code from running while the dialog box is displayed.
 
 
 ## See also

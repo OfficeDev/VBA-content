@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # LineFormat.Transparency Property (Publisher)
 
-Returns or sets the degree of transparency of lines. Read/write  **Single**.
+Returns or sets the degree of transparency of lines. Read/write **Single**.
 
 
 ## Syntax
 
  _expression_. **Transparency**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value

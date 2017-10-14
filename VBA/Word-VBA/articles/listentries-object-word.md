@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # ListEntries Object (Word)
 
-A collection of  **[ListEntry](listentry-object-word.md)** objects that represent all the items in a drop-down form field.
+A collection of **[ListEntry](listentry-object-word.md)** objects that represent all the items in a drop-down form field.
 
 
 ## Remarks
 
-Use the  **ListEntries** property to return the **ListEntries** collection. The following example displays the items that appear in the form field named "Drop1."
+Use the **ListEntries** property to return the **ListEntries** collection. The following example displays the items that appear in the form field named "Drop1."
 
 
 ```vb
@@ -23,7 +23,7 @@ For Each le In _
 Next le
 ```
 
-Use the  **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
+Use the **Add** method to add an item to a drop-down form field. The following example inserts a drop-down form field and then adds "red," "blue," and "green" to the form field.
 
 
 
@@ -39,7 +39,7 @@ With myField.DropDown.ListEntries
 End With
 ```
 
-Use  **ListEntries** (Index), where Index is the list entry name or the index number, to return a single **ListEntry** object. The index number represents the position of the entry in the drop-down form field (the first item is index number 1). The following example deletes the "Blue" entry from the drop-down form field named "Color."
+Use **ListEntries** (Index), where Index is the list entry name or the index number, to return a single **ListEntry** object. The index number represents the position of the entry in the drop-down form field (the first item is index number 1). The following example deletes the "Blue" entry from the drop-down form field named "Color."
 
 
 

@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To see whether a team member has responded to an Update Progress request, add the  **TeamStatusPending** field to the task view.
+To see whether a team member has responded to an Update Progress request, add the **TeamStatusPending** field to the task view.
 
 

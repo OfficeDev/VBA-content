@@ -30,7 +30,7 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The  **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle** constants.
+The **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle** constants.
 
 
 ||

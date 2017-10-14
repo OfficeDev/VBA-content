@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.OfficeDataSourceObject Property (Publisher)
 
-Returns an  **OfficeDataSourceObject** object representing the data source in a mail merge or catalog merge operation. Read-only.
+Returns an **OfficeDataSourceObject** object representing the data source in a mail merge or catalog merge operation. Read-only.
 
 
 ## Syntax
 
  _expression_. **OfficeDataSourceObject**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Return Value

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Then <keyword>
 
-The  **Then** keyword is used in these contexts:
+The **Then** keyword is used in these contexts:
 
 [#If...Then...#Else Directive](ifthenelse-directive.md)
 

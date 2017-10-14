@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profiles.DefaultProfile Property (Project)
 
-Gets or sets a  **[Profile](profile-object-project.md)** object that represents the default profile. Read/write **Profile**.
+Gets or sets a **[Profile](profile-object-project.md)** object that represents the default profile. Read/write **Profile**.
 
 
 ## Syntax

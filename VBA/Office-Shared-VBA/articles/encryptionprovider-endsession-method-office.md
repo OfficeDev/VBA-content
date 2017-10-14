@@ -33,7 +33,7 @@ Ends the current encryption session.
 
 ## Remarks
 
-During a save operation, the  **CloneSession** method is called by your COM add-in to create a second, working copy of the **EncryptionProvider** object's encryption session for the file that is about to be saved. Next the **Save** method is called to get whatever custom information you would like to persist about your encryption settings. This information is available when this document is reopened later. Then the **EncryptStream** method is called which gives the provider the entire contents of the document. And finally, to complete the process, the **EndSession** method for the cloned session handle.
+During a save operation, the **CloneSession** method is called by your COM add-in to create a second, working copy of the **EncryptionProvider** object's encryption session for the file that is about to be saved. Next the **Save** method is called to get whatever custom information you would like to persist about your encryption settings. This information is available when this document is reopened later. Then the **EncryptStream** method is called which gives the provider the entire contents of the document. And finally, to complete the process, the **EndSession** method for the cloned session handle.
 
 
 ## See also

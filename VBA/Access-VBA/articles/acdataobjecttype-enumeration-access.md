@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcDataObjectType Enumeration (Access)
 
-Used with the  **GoToRecord** method to specify the type of object that contains the record to make current.
+Used with the **GoToRecord** method to specify the type of object that contains the record to make current.
 
 
 

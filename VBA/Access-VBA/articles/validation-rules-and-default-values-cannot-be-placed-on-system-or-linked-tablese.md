@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to set the  **DefaultValue**, **ValidationRule**, **ValidationText**, or **Required** property on a table, field, or other object that is prohibited by your application. For example, you are setting a property on a system object.
+You are trying to set the **DefaultValue**, **ValidationRule**, **ValidationText**, or **Required** property on a table, field, or other object that is prohibited by your application. For example, you are setting a property on a system object.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

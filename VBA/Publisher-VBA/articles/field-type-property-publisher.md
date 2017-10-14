@@ -18,12 +18,12 @@ Specifies the field type. Read-only.
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of the **[PbFieldType](pbfieldtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Type** property value can be one of the **[PbFieldType](pbfieldtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Property value

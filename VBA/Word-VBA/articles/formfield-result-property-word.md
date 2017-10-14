@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.Result Property (Word)
 
-Returns a  **String** that represents the result of the specified form field. Read/write.
+Returns a **String** that represents the result of the specified form field. Read/write.
 
 
 ## Syntax

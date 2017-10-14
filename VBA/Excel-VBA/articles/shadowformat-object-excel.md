@@ -18,7 +18,7 @@ Represents shadow formatting for a shape.
 
 ## Remarks
 
-Use the  **[Shadow](shape-shadow-property-excel.md)** property to return a **ShadowFormat** object.
+Use the **[Shadow](shape-shadow-property-excel.md)** property to return a **ShadowFormat** object.
 
 
 ## Example

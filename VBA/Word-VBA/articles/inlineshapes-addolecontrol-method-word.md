@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShapes.AddOLEControl Method (Word)
 
-Creates an ActiveX control (formerly known as an OLE control). Returns the  **[InlineShape](inlineshape-object-word.md)** object that represents the new ActiveX control.
+Creates an ActiveX control (formerly known as an OLE control). Returns the **[InlineShape](inlineshape-object-word.md)** object that represents the new ActiveX control.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Creates an ActiveX control (formerly known as an OLE control). Returns the  **[I
 
 ## Remarks
 
-ActiveX controls are represented as either  **Shape** objects or **[InlineShape](inlineshape-object-word.md)** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
+ActiveX controls are represented as either **Shape** objects or **[InlineShape](inlineshape-object-word.md)** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
 
 
 

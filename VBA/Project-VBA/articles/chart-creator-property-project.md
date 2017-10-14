@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Chart.Creator Property (Project)
-Gets a 32-bit integer that indicates the application in which the chart was created. Read-only  **Long**.
+Gets a 32-bit integer that indicates the application in which the chart was created. Read-only **Long**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ Gets a 32-bit integer that indicates the application in which the chart was crea
 
 ## Remarks
 
-If the chart was created in Microsoft Project, the  **Creator** property returns the decimal number 1347571530, which is hexadecimal 0x50524F4A, which is equivalent to the string **PROJ**. For example, run the following command in the  **Immediate** window of the VBE, with the name of the active report.
+If the chart was created in Microsoft Project, the **Creator** property returns the decimal number 1347571530, which is hexadecimal 0x50524F4A, which is equivalent to the string **PROJ**. For example, run the following command in the **Immediate** window of the VBE, with the name of the active report.
 
 
 ```

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Type Property (Publisher)
 
-A  ** [PbBuildingBlockType Enumeration (Publisher)](pbbuildingblocktype-enumeration-publisher.md)** value that represents the type of the building block. Read-only.
+A ** [PbBuildingBlockType Enumeration (Publisher)](pbbuildingblocktype-enumeration-publisher.md)** value that represents the type of the building block. Read-only.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

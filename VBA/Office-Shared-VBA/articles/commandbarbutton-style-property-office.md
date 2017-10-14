@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Style Property (Office)
 
-Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
+Gets or sets the way a **CommandBarButton** control is displayed. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
 
 ## Remarks
 
-The value of the  **Style** property is available as a value in the **[MsoButtonStyle](msobuttonstyle-enumeration-office.md)** enumeration.
+The value of the **Style** property is available as a value in the **[MsoButtonStyle](msobuttonstyle-enumeration-office.md)** enumeration.
 
 
 ## See also

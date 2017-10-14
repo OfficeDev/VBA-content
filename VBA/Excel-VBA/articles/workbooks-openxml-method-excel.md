@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbooks.OpenXML Method (Excel)
 
-Opens an XML data file. Returns a  **[Workbook](workbook-object-excel.md)** object.
+Opens an XML data file. Returns a **[Workbook](workbook-object-excel.md)** object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Opens an XML data file. Returns a  **[Workbook](workbook-object-excel.md)** obje
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to open.|
 | _Stylesheets_|Optional| **Variant**|Either a single value or an array of values that specify which XSL Transformation (XSLT) stylesheet processing instructions to apply.|
-| _LoadOption_|Optional| **Variant**|Specifies how Excel opens the XML data file. Can be one of the  **[XlXmlLoadOption](xlxmlloadoption-enumeration-excel.md)** constants.|
+| _LoadOption_|Optional| **Variant**|Specifies how Excel opens the XML data file. Can be one of the **[XlXmlLoadOption](xlxmlloadoption-enumeration-excel.md)** constants.|
 
 ### Return Value
 

@@ -19,7 +19,7 @@ Represents the measurement grid that appears superimposed on publication pages a
 
 ## Example
 
-Use the  **[LayoutGuides](document-layoutguides-property-publisher.md)** property of the **Document** object to return a **LayoutGuides** object. Use the **LayoutGuide** object's margin properties and **Rows** and **Columns** properties to set how many rows and columns are displayed in the layout guides and where they appear on a page.
+Use the **[LayoutGuides](document-layoutguides-property-publisher.md)** property of the **Document** object to return a **LayoutGuides** object. Use the **LayoutGuide** object's margin properties and **Rows** and **Columns** properties to set how many rows and columns are displayed in the layout guides and where they appear on a page.
  
 
  

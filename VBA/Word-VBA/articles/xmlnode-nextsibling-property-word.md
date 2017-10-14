@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.NextSibling Property (Word)
 
-Returns an  **XMLNode** object that represents the next element in the document that is at the same level as the specified element.
+Returns an **XMLNode** object that represents the next element in the document that is at the same level as the specified element.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **XMLNode** object that represents the next element in the document 
 
 ## Remarks
 
-If the specified element is the last element in the  **XMLNodes** collection, this property returns **Nothing** .
+If the specified element is the last element in the **XMLNodes** collection, this property returns **Nothing** .
 
 
 ## Example

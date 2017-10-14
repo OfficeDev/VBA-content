@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.DateStorageFormat Property (Word)
 
-Returns or sets a  **[WdContentControlDateStorageFormat](wdcontentcontroldatestorageformat-enumeration-word.md)** that represents the format for storage and retrieval of dates when a date content control is bound to the XML data store of the active document. Read/write.
+Returns or sets a **[WdContentControlDateStorageFormat](wdcontentcontroldatestorageformat-enumeration-word.md)** that represents the format for storage and retrieval of dates when a date content control is bound to the XML data store of the active document. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[WdContentControlDateStorageFormat](wdcontentcontroldatesto
 
 ## Remarks
 
-The  **DateStorageFormat** property allows you to store dates in date format, date/time format, or text format.
+The **DateStorageFormat** property allows you to store dates in date format, date/time format, or text format.
 
 
 ## Example

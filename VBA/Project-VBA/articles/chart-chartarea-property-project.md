@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.ChartArea Property (Project)
-Gets an  **Office.IMsoChartArea** object that represents the complete chart area for the chart. Read-only **IMsoChartArea**.
+Gets an **Office.IMsoChartArea** object that represents the complete chart area for the chart. Read-only **IMsoChartArea**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets an  **Office.IMsoChartArea** object that represents the complete chart area
 
 ## Remarks
 
-To see the  **IMsoChartArea** object in the Object Browser, show the hidden members in the **Office** library.
+To see the **IMsoChartArea** object in the Object Browser, show the hidden members in the **Office** library.
 
 
 ## Example

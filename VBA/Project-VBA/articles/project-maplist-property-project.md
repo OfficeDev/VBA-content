@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.MapList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing the list of data maps in the project. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing the list of data maps in the project. Read-only **List**.
 
 
 ## Syntax

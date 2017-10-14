@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.SetMapping Method (Word)
 
-Allows creating or changing the XML mapping on a content control. Returns  **True** if Microsoft Word maps the content control to a custom XML node in the document?s custom XML data store.
+Allows creating or changing the XML mapping on a content control. Returns **True** if Microsoft Word maps the content control to a custom XML node in the document's custom XML data store.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Allows creating or changing the XML mapping on a content control. Returns  **Tru
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required| **String**|Specifies an XPath string that represents the XML node to which to map the content control. An invalid XPath string causes a run-time error.|
 | _PrefixMapping_|Optional| **String**|Specifies the prefix mappings to use when querying the expression provided in the XPath parameter. If omitted, Word uses the set of prefix mappings for the specified custom XML part in the current document.|
-| _Source_|Optional| **CustomXMLPart**|Specifies the desired custom XML data to which to map the content control. If this parameter is omitted, the XPath is evaluated against all custom XML in the current document, and the mapping is established with the first  **CustomXMLPart** in which the XPath resolves to an XML node.|
+| _Source_|Optional| **CustomXMLPart**|Specifies the desired custom XML data to which to map the content control. If this parameter is omitted, the XPath is evaluated against all custom XML in the current document, and the mapping is established with the first **CustomXMLPart** in which the XPath resolves to an XML node.|
 
 ### Return Value
 
@@ -42,7 +42,7 @@ Boolean
 
 If the XML mapping already exists, Word replaces the existing XML mapping and the contents of the new mapped XML node replaces the text of the content control. If the specified XPath does not evaluate to an XML node in the specified custom XML part or parts, you can still specify the mapping, and one will be created. This mapping automatically links when the specified XPath would evaluate to an XML node in the specified custom XML parts.
 
-See also the  **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method.
+See also the **[SetMappingByNode](xmlmapping-setmappingbynode-method-word.md)** method.
 
 
  **Note**  Creating a mapping for a rich-text content control causes a run-time error.

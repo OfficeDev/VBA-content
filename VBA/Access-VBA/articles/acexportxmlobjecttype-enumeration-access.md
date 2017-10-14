@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcExportXMLObjectType Enumeration (Access)
 
-Use with the  **ExportXML** method to specify the type of object to export.
+Use with the **ExportXML** method to specify the type of object to export.
 
 
 

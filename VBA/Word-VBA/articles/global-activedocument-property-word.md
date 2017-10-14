@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.ActiveDocument Property (Word)
 
-Returns a  **[Document](document-object-word.md)** object that represents the active document (the document with the focus). Read-only.
+Returns a **[Document](document-object-word.md)** object that represents the active document (the document with the focus). Read-only.
 
 
 ## Syntax

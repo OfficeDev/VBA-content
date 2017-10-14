@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.PointsToScreenPixelsY Method (Excel)
 
-Converts a vertical measurement from points (document coordinates) to screen pixels (screen coordinates). Returns the converted measurement as a  **Long** value.
+Converts a vertical measurement from points (document coordinates) to screen pixels (screen coordinates). Returns the converted measurement as a **Long** value.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.NumberStyle Property (Word)
 
-Returns or sets the number style for the  **ListLevel** object. Read/write **WdListNumberStyle** .
+Returns or sets the number style for the **ListLevel** object. Read/write **WdListNumberStyle** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number style for the  **ListLevel** object. Read/write **WdL
 
 ## Remarks
 
-Some of the  **WdListNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdListNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

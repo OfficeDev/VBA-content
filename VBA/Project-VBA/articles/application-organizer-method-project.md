@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Organizer Method (Project)
 
-Displays the  **Organizer** dialog box, which enables the user to manage views, reports, modules, tables, filters, calendars, maps, fields, and groups.
+Displays the **Organizer** dialog box, which enables the user to manage views, reports, modules, tables, filters, calendars, maps, fields, and groups.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Displays the  **Organizer** dialog box, which enables the user to manage views, 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Long**|The type of item to manage. Can be one of the  **[PjOrganizer](pjorganizer-enumeration-project.md)** constants. The default value is **pjViews**.|
+| _Type_|Optional|**Long**|The type of item to manage. Can be one of the **[PjOrganizer](pjorganizer-enumeration-project.md)** constants. The default value is **pjViews**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
 ### Return Value

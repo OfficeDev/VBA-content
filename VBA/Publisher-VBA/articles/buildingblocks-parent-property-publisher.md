@@ -17,6 +17,6 @@ Returns an object that represents the parent object of the specified object. Rea
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **BuildingBlocks** object.
+ _expression_A variable that represents a **BuildingBlocks** object.
 
 

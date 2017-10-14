@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Cost Property (Project)
 
-Gets the total cost of the resource in a project. Read/write  **Variant**.
+Gets the total cost of the resource in a project. Read/write **Variant**.
 
 
 ## Syntax

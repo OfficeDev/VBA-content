@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.Setup Property (Office)
 
-Gets a  **SignatureSetup** object that provides access to various properties of a signature packet. Read-only.
+Gets a **SignatureSetup** object that provides access to various properties of a signature packet. Read-only.
 
 
 ## Syntax

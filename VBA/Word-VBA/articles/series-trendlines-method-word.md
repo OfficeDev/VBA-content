@@ -25,7 +25,7 @@ Returns a collection of all the trendlines for the series.
 
 ### Return Value
 
-A  **[Trendlines](trendlines-object-word.md)** object that represents all the treadlines for the series.
+A **[Trendlines](trendlines-object-word.md)** object that represents all the treadlines for the series.
 
 
 ## Example

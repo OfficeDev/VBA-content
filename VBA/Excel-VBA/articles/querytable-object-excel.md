@@ -23,7 +23,7 @@ Represents a worksheet table built from data returned from an external data sour
 
 ## Example
 
-Use  **[QueryTables](worksheet-querytables-property-excel.md)** ( _index_ ), where _index_ is the index number of the query table, to return a single **QueryTable** object. The following example sets query table one so that formulas to the right of it are automatically updated whenever it's refreshed.
+Use **[QueryTables](worksheet-querytables-property-excel.md)** ( _index_ ), where _index_ is the index number of the query table, to return a single **QueryTable** object. The following example sets query table one so that formulas to the right of it are automatically updated whenever it's refreshed.
 
 
 ```

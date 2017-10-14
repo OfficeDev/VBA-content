@@ -43,6 +43,6 @@ Customizes headings in the Calendar.
 
 ## Remarks
 
-Using the  **CalendarWeekHeadingsEx** method without specifying any arguments displays the **Timescale** dialog box with the **Week Headings** tab selected.
+Using the **CalendarWeekHeadingsEx** method without specifying any arguments displays the **Timescale** dialog box with the **Week Headings** tab selected.
 
 

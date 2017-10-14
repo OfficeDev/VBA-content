@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CheckBox.Size Property (Word)
 
-Returns or sets the size of a check box, in points. Read/write  **Single** .
+Returns or sets the size of a check box, in points. Read/write **Single** .
 
 
 ## Syntax

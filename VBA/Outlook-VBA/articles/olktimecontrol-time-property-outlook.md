@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeControl.Time Property (Outlook)
 
-Returns or sets a  **Date** that represents the time value currently selected in the control. Read/write.
+Returns or sets a **Date** that represents the time value currently selected in the control. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Date** that represents the time value currently selected in
 
 The default value is Dec 30, 1899 12:00 AM.
 
-When using the time control to indicate a duration (that is, the  **[Style](olktimecontrol-style-property-outlook.md)** is **olTimeStyleDuration** ), if the duration is longer than 24 hours, the **Time** property will indicate the duration from Dec 30, 1899 12:00 AM. For example, a duration spanning 24 hours will return a **Date** value of Dec 31 1899 12:00 AM. If this is a duration value for an appointment and you would like to determine an end time for the appointment, you can add this value to the **[ReferenceTime](olktimecontrol-referencetime-property-outlook.md)** property value.
+When using the time control to indicate a duration (that is, the **[Style](olktimecontrol-style-property-outlook.md)** is **olTimeStyleDuration** ), if the duration is longer than 24 hours, the **Time** property will indicate the duration from Dec 30, 1899 12:00 AM. For example, a duration spanning 24 hours will return a **Date** value of Dec 31 1899 12:00 AM. If this is a duration value for an appointment and you would like to determine an end time for the appointment, you can add this value to the **[ReferenceTime](olktimecontrol-referencetime-property-outlook.md)** property value.
 
 
 ## See also

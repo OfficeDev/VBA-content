@@ -30,9 +30,9 @@ OLE_COLOR
 
 ## Remarks
 
-The  **StencilBackgroundColorGradient** property setting does not persist from one session of Visio to the next.
+The **StencilBackgroundColorGradient** property setting does not persist from one session of Visio to the next.
 
-Valid values for an  **OLE_COLOR** property within Visio can be one of the following:
+Valid values for an **OLE_COLOR** property within Visio can be one of the following:
 
 
 
@@ -43,11 +43,11 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
     
 
 
-For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
+For details about the **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for **OLE_COLOR** .
 
 
 
@@ -61,7 +61,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbMagenta**|0xFF00FF |Magenta|
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
-You can set the background color for an individual stencil window by using the  **ActiveWindow.Windows(**_n_**).BackgroundColor** property, where _n_ represents the index number of the stencil window in the **Windows** collection. When a stencil window is opened as a floating window, it can be an active window, and you can set its background color by using the **ActiveWindow.BackgroundColor** property. If you have opened a stencil window in this manner, setting the **BackgroundColor** property of this stencil window to a value other than the default (-1) overrides the **StencilBackgroundColor** setting for that window. To reset the background color of the same active stencil window by setting the **StencilBackgroundColor** property, you must reset **BackgroundColor** to its default value, -1. If multiple stencil windows of this type are open, setting **BackgroundColor** for one window has no effect on the setting for other open windows.
+You can set the background color for an individual stencil window by using the **ActiveWindow.Windows(**_n_**).BackgroundColor** property, where _n_ represents the index number of the stencil window in the **Windows** collection. When a stencil window is opened as a floating window, it can be an active window, and you can set its background color by using the **ActiveWindow.BackgroundColor** property. If you have opened a stencil window in this manner, setting the **BackgroundColor** property of this stencil window to a value other than the default (-1) overrides the **StencilBackgroundColor** setting for that window. To reset the background color of the same active stencil window by setting the **StencilBackgroundColor** property, you must reset **BackgroundColor** to its default value, -1. If multiple stencil windows of this type are open, setting **BackgroundColor** for one window has no effect on the setting for other open windows.
 
 
 

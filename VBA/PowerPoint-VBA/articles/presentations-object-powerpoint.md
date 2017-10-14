@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # Presentations Object (PowerPoint)
 
-A collection of all the  **[Presentation](presentation-object-powerpoint.md)** objects in Microsoft PowerPoint. Each **Presentation** object represents a presentation that's currently open in PowerPoint.
+A collection of all the **[Presentation](presentation-object-powerpoint.md)** objects in Microsoft PowerPoint. Each **Presentation** object represents a presentation that's currently open in PowerPoint.
 
 
 ## Remarks
 
-The  **Presentations** collection doesn't include open add-ins, which are a special kind of hidden presentation. You can, however, return a single open add-in if you know its file name. For example `Presentations("oscar.ppa")` will return the open add-in named "Oscar.ppa" as a **Presentation** object. However, it is recommended that the **AddIns** collection be used to return open add-ins.
+The **Presentations** collection doesn't include open add-ins, which are a special kind of hidden presentation. You can, however, return a single open add-in if you know its file name. For example `Presentations("oscar.ppa")` will return the open add-in named "Oscar.ppa" as a **Presentation** object. However, it is recommended that the **AddIns** collection be used to return open add-ins.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.Presentations.GetEnumerator** (to enumerate the **Presentation** objects.)
+- **Microsoft.Office.Interop.PowerPoint.Presentations.GetEnumerator** (to enumerate the **Presentation** objects.)
     
 
 ## Example
@@ -37,7 +37,7 @@ newPres.Slides.Add 1, 1
 newPres.SaveAs "Sample"
 ```
 
-Use  **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The following example prints presentation one.
+Use **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The following example prints presentation one.
 
 
 

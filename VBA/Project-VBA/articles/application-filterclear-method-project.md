@@ -30,6 +30,6 @@ Removes any filter that is set on the current view.
 
 ## Remarks
 
-The  **FilterClear** method corresponds to the following command on the Ribbon: on the **View** tab, click the **Filter** drop-down listbox in the **Data** section, and then click **Clear Filter**.
+The **FilterClear** method corresponds to the following command on the Ribbon: on the **View** tab, click the **Filter** drop-down listbox in the **Data** section, and then click **Clear Filter**.
 
 

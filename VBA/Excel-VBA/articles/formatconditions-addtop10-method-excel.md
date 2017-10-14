@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.AddTop10 Method (Excel)
 
-Returns a  **[Top10](top10-object-excel.md)** object representing a conditional formatting rule for the specified range.
+Returns a **[Top10](top10-object-excel.md)** object representing a conditional formatting rule for the specified range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[Top10](top10-object-excel.md)** object representing a conditional 
 
 ## Remarks
 
-Using the  **Top10** object, you can find the highest and lowest values in a range of cells based on a cutoff value that you specify. For example, you can find the top five selling products in a regional report, the bottom 15 percent of products in a customer survey, or the top 25 salaries in a department personnel analysis.
+Using the **Top10** object, you can find the highest and lowest values in a range of cells based on a cutoff value that you specify. For example, you can find the top five selling products in a regional report, the bottom 15 percent of products in a customer survey, or the top 25 salaries in a department personnel analysis.
 
 
 ## See also

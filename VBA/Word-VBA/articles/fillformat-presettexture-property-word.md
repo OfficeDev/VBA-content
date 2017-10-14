@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetTexture Property (Word)
 
-Returns the preset texture for the specified fill. Read-only  **MsoPresetTexture** .
+Returns the preset texture for the specified fill. Read-only **MsoPresetTexture** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the preset texture for the specified fill. Read-only  **MsoPresetTexture
 
 ## Remarks
 
-Use the  **[PresetTextured](fillformat-presettextured-method-word.md)** method to specify the preset texture for the fill.
+Use the **[PresetTextured](fillformat-presettextured-method-word.md)** method to specify the preset texture for the fill.
 
 
 ## Example

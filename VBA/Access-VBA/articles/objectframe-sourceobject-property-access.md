@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.SourceObject Property (Access)
 
-You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only  **String**.
+You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only **String**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use this property for linked unbound object frames to determine the comp
 
 ## Remarks
 
-For unbound object frames, the  **SourceObject** property is set automatically when you use the **SourceObject** command on the **Insert** menu to insert a linked OLE object.
+For unbound object frames, the **SourceObject** property is set automatically when you use the **SourceObject** command on the **Insert** menu to insert a linked OLE object.
 
-For linked unbound object frames, the  **SourceObject** property can't be set in any view.
+For linked unbound object frames, the **SourceObject** property can't be set in any view.
 
 
 ## See also

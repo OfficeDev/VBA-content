@@ -16,7 +16,7 @@ Specifies information specific to the current country/region and international s
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **wd24HourClock**|21|Returns  **True** if you are using 24-hour time; returns **False** if you are using 12-hour time.|
+| **wd24HourClock**|21|Returns **True** if you are using 24-hour time; returns **False** if you are using 12-hour time.|
 | **wdCurrencyCode**|20|Returns the currency symbol ($ in U.S. English).|
 | **wdDateSeparator**|25|Returns the date separator (/ in U.S. English).|
 | **wdDecimalSeparator**|18|Returns the decimal separator (. in U.S. English).|

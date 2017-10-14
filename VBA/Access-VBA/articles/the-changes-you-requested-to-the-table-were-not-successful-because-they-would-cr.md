@@ -62,21 +62,21 @@ When you remove the primary key, the field or fields that previously served as p
 2. 
       - If the tables that participate in the table relationship are open, close them. You cannot delete a table relationship between open tables.
     
-  - On the  **Database Tools** tab, in the **Show/Hide** group, click **Relationships**.
+  - On the **Database Tools** tab, in the **Show/Hide** group, click **Relationships**.
 ![Show Hide Database Tool](/images/Ac_DatabaseTool_Show_Hide_ZA10153748.gif)
 
 
     
-  - If the tables that participate in the table relationship are not visible, on the  **Design** tab, in the **Relationships** group, click **Show Table**. Then select the tables to add in the  **Show Table** dialog box, click **Add**, and then click  **Close**.
+  - If the tables that participate in the table relationship are not visible, on the **Design** tab, in the **Relationships** group, click **Show Table**. Then select the tables to add in the **Show Table** dialog box, click **Add**, and then click **Close**.
     
   - Click the table relationship line for the table relationship that you want to delete (the line becomes bold when it is selected), and then press the DELETE key.
     
-  - On the  **Design** tab, in the **Relationships** group, click **Close**.
+  - On the **Design** tab, in the **Relationships** group, click **Close**.
 ![Design tab](/images/DesignTabRelationshipsGroup_ZA10178790.gif)
 
 
     
-3. In the Navigation Pane, right click the table in which you want to remove the primary key and then click  **Design View**.
+3. In the Navigation Pane, right click the table in which you want to remove the primary key and then click **Design View**.
     
 4. Click the row selector for the current primary key.
     
@@ -85,7 +85,7 @@ When you remove the primary key, the field or fields that previously served as p
     
   - If the primary key consists of multiple fields, click the row selector for any field in the primary key.
     
-6. On the  **Design** tab, in the **Tools** group, click **Primary Key**.
+6. On the **Design** tab, in the **Tools** group, click **Primary Key**.
 ![Design tab](/images/DesignTabToolsGroup_ZA10178781.gif)The key indicator is removed from the field or fields that you previously specified as the primary key.
     
  **ACCESS SUPPORT RESOURCES**<br>

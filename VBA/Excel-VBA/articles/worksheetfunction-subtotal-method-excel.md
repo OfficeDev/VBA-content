@@ -30,8 +30,8 @@ Creates subtotals.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A number indicating the aggregation function to be used by the method.|
-| _Arg2_|Required| **Range**|The first  **[Range](range-object-excel.md)** object for which a subtotal is to be calculated.|
-| _Arg3-Arg30_|Optional| **Variant**|Subsequent  **[Range](range-object-excel.md)** objects for which a subtotal is to be calculated.|
+| _Arg2_|Required| **Range**|The first **[Range](range-object-excel.md)** object for which a subtotal is to be calculated.|
+| _Arg3-Arg30_|Optional| **Variant**|Subsequent **[Range](range-object-excel.md)** objects for which a subtotal is to be calculated.|
 
 ### Return Value
 

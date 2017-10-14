@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.TextDirection Property (Publisher)
 
-Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
+Returns or sets a **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextDirection**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ PbTextDirection
 
 This property is meant to be used in conjunction with documents that have text in both left-to-right and right-to-left languages. Setting the property to a value that is not in accordance with the text direction dictated by the language in use may have unpredictable results.
 
-The  **TextDirection** property value can be one of the **PbTextDirection** constants declared in the Microsoft Publisher type library and shown in the following table.
+The **TextDirection** property value can be one of the **PbTextDirection** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

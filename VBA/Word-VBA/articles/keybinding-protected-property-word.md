@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can access the  **Customize Keyboard** dialog box from the **Tools** menu; click **Customize**, and then click the  **Keyboard** button.
+You can access the **Customize Keyboard** dialog box from the **Tools** menu; click **Customize**, and then click the **Keyboard** button.
 
-Use the  **[Add](keybindings-add-method-word.md)** method of the **[KeyBindings](keybindings-object-word.md)** object to add a key binding regardless of the protected status.
+Use the **[Add](keybindings-add-method-word.md)** method of the **[KeyBindings](keybindings-object-word.md)** object to add a key binding regardless of the protected status.
 
 
 ## Example

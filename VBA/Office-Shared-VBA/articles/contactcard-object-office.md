@@ -18,7 +18,7 @@ Represents a Microsoft Office contact card.
 
 ## Remarks
 
-You can create a new instance of a  **ContactCard** object by calling the Microsoft Outlook **NameSpace.CreateContactCard** method. Before you attempt to do so, you must log into a Microsoft Outlook session.
+You can create a new instance of a **ContactCard** object by calling the Microsoft Outlook **NameSpace.CreateContactCard** method. Before you attempt to do so, you must log into a Microsoft Outlook session.
 
 
 ## Methods

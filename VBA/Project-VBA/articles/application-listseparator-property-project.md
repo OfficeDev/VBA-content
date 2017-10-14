@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ListSeparator Property (Project)
 
-Gets or sets the character that separates items in lists. Read/write  **String**.
+Gets or sets the character that separates items in lists. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the character that separates items in lists. Read/write  **String**
 
 ## Remarks
 
-Project sets the  **ListSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. The **ListSeparator** property can only be set through the Control Panel.
+Project sets the **ListSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. The **ListSeparator** property can only be set through the Control Panel.
 
 

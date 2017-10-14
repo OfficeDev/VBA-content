@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Filtering Items Using an Integer Comparison
 
-You can compare an integer property with an integer value in a filter string using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. You can specify the integer value with or without quotation marks as delimiters. The following three filter strings filter on the condition that the  **Importance** value is high:
+You can compare an integer property with an integer value in a filter string using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. You can specify the integer value with or without quotation marks as delimiters. The following three filter strings filter on the condition that the **Importance** value is high:
 
 
 ```

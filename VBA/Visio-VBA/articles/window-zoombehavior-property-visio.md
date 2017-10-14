@@ -30,9 +30,9 @@ VisZoomBehavior
 
 ## Remarks
 
-To set the zoom behavior for all new documents and windows, use the  **DefaultZoomBehavior** property.
+To set the zoom behavior for all new documents and windows, use the **DefaultZoomBehavior** property.
 
-The following constants declared by the Visio type library in  **VisZoomBehavior** are valid values for **ZoomBehavior** .
+The following constants declared by the Visio type library in **VisZoomBehavior** are valid values for **ZoomBehavior** .
 
 
 
@@ -42,11 +42,11 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 | **visZoomInPlaceContainer**|1|The container performs the zoom.|
 | **visZoomVisio**|2|Visio performs the zoom. |
 | **visZoomVisioExact**|4|Visio zooms when open in place; Visio does not adjust the zoom level|
-If  **ZoomBehavior** is set to **visZoomVisio** , Visio adjusts the zoom level to certain discrete values, for example 50% or 100%, to optimize the appearance of the page rulers and grid, and of snap behavior.
+If **ZoomBehavior** is set to **visZoomVisio** , Visio adjusts the zoom level to certain discrete values, for example 50% or 100%, to optimize the appearance of the page rulers and grid, and of snap behavior.
 
-If  **ZoomBehavior** is set to **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
+If **ZoomBehavior** is set to **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
 
-If  **ZoomBehavior** is set to **visZoomVisioExact** , you can set the zoom to any value, either by using the **Window.Zoom** property or by using the **Zoom** slider in the Visio user interface.
+If **ZoomBehavior** is set to **visZoomVisioExact** , you can set the zoom to any value, either by using the **Window.Zoom** property or by using the **Zoom** slider in the Visio user interface.
 
 
 
@@ -56,7 +56,7 @@ If  **ZoomBehavior** is set to **visZoomVisioExact** , you can set the zoom to a
 
 ## Example
 
-The following procedure shows how to set the  **Document.ZoomBehavior** property to the value that replicates Visio 2000 behavior.
+The following procedure shows how to set the **Document.ZoomBehavior** property to the value that replicates Visio 2000 behavior.
 
 
 ```vb

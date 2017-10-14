@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfFigures.MarkEntry Method (Word)
 
-Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a  **Field** object representing the TC field.
+Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a **Field** object representing the TC field.
 
 
 ## Syntax

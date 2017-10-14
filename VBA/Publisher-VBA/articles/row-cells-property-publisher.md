@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Row.Cells Property (Publisher)
 
-Returns a  **[CellRange](cellrange-object-publisher.md)** object that represents the cell or cells in row of a table.
+Returns a **[CellRange](cellrange-object-publisher.md)** object that represents the cell or cells in row of a table.
 
 
 ## Syntax
 
  _expression_. **Cells**
 
- _expression_A variable that represents a  **Row** object.
+ _expression_A variable that represents a **Row** object.
 
 
 ## Example

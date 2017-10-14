@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Hwnd Property (Excel)
 
-Returns a  **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.
+Returns a **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.
 
 
 ## Syntax

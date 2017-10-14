@@ -18,14 +18,14 @@ Represents a cell in a PivotTable report.
 
 ## Remarks
 
-Use the  **[PivotCell](range-pivotcell-property-excel.md)** property of the **[Range](range-object-excel.md)** collection to return a **PivotCell** object.
+Use the **[PivotCell](range-pivotcell-property-excel.md)** property of the **[Range](range-object-excel.md)** collection to return a **PivotCell** object.
 
-Once a  **PivotCell** object is returned, you can use the **[ColumnItems](pivotcell-columnitems-property-excel.md)** or **[RowItems](pivotcell-rowitems-property-excel.md)** property to determine the **[PivotItems](pivotitems-object-excel.md)** collection that corresponds to the items on the column or row axis that represents the selected number. The following example uses the **ColumnItems** property of the **PivotCell** object to return a **[PivotItemList](pivotitemlist-object-excel.md)** collection.
+Once a **PivotCell** object is returned, you can use the **[ColumnItems](pivotcell-columnitems-property-excel.md)** or **[RowItems](pivotcell-rowitems-property-excel.md)** property to determine the **[PivotItems](pivotitems-object-excel.md)** collection that corresponds to the items on the column or row axis that represents the selected number. The following example uses the **ColumnItems** property of the **PivotCell** object to return a **[PivotItemList](pivotitemlist-object-excel.md)** collection.
 
 
 ## Example
 
-Once a  **PivotCell** object is returned, you can use the **[PivotCellType](pivotcell-pivotcelltype-property-excel.md)** property to determine what type of cell a particular range is. The following example determines if cell A5 in the PivotTable is a data item and notifies the user. This example assumes that a PivotTable exists on the active worksheet and that cell A5 is contained in the PivotTable. If cell A5 is not in the PivotTable, the example handles the run-time error.
+Once a **PivotCell** object is returned, you can use the **[PivotCellType](pivotcell-pivotcelltype-property-excel.md)** property to determine what type of cell a particular range is. The following example determines if cell A5 in the PivotTable is a data item and notifies the user. This example assumes that a PivotTable exists on the active worksheet and that cell A5 is contained in the PivotTable. If cell A5 is not in the PivotTable, the example handles the run-time error.
 
 
 ```vb

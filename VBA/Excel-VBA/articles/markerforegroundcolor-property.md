@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MarkerForegroundColor Property
 
-Returns or sets the foreground color of the marker as an RGB value. Applies only to line, scatter, and radar charts. Read/write  **Long**.
+Returns or sets the foreground color of the marker as an RGB value. Applies only to line, scatter, and radar charts. Read/write **Long**.
 
 
 ## Example

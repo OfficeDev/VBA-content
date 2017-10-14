@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRule.Category Property (Visio)
 
-Represents the text displayed in the  **Category** column of the **Issues** window. Read/write.
+Represents the text displayed in the **Category** column of the **Issues** window. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Represents the text displayed in the  **Category** column of the **Issues** wind
 
 ## Remarks
 
-The length of the string assigned to the  **Category** property cannot exceed 255 characters.
+The length of the string assigned to the **Category** property cannot exceed 255 characters.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Category** property to set the text of the **Category** column of the **Issues** window for a validation rule named "Unglued2DShape".
+The following Visual Basic for Applications (VBA) example shows how to use the **Category** property to set the text of the **Category** column of the **Issues** window for a validation rule named "Unglued2DShape".
 
 
 ```vb

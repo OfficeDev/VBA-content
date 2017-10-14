@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.DisplayAs Property (Access)
 
-Gets or sets an  **[AcDisplayAs](acdisplayas-enumeration-access.md)** constant that specifies how a file should be displayed in the **Attachment** control. Read/write.
+Gets or sets an **[AcDisplayAs](acdisplayas-enumeration-access.md)** constant that specifies how a file should be displayed in the **Attachment** control. Read/write.
 
 
 ## Syntax

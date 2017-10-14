@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **GrowToFitText**
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ### Return Value

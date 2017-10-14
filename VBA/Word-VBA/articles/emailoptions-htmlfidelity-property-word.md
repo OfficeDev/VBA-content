@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.HTMLFidelity Property (Word)
 
-Strips HTML tags used for opening HTML files in Word but not required for display. Read/write  **WdEmailHTMLFidelity** .
+Strips HTML tags used for opening HTML files in Word but not required for display. Read/write **WdEmailHTMLFidelity** .
 
 
 ## Syntax

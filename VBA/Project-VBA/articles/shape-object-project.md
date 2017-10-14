@@ -12,15 +12,15 @@ Represents an object in a Project report, such as a chart, report table, text bo
 
 ## Remarks
 
-The  **Shape** object is a member of the **[Shapes](shapes-object-project.md)** collection, which includes all of the shapes in the report.
+The **Shape** object is a member of the **[Shapes](shapes-object-project.md)** collection, which includes all of the shapes in the report.
  
 
  
 
- **Note**  Macro recording for the  **Shape** object is not implemented. That is, when you record a macro in Project and manually add a shape or edit shape elements, the steps for adding and manipulating the shape are not recorded.
+ **Note**  Macro recording for the **Shape** object is not implemented. That is, when you record a macro in Project and manually add a shape or edit shape elements, the steps for adding and manipulating the shape are not recorded.
  
 
-There are three objects that represent shapes: the  **Shapes** collection, which represents all the shapes on a document; the **ShapeRange** object, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); and the **Shape** object, which represents a single shape on a document. If you want to work with several shapes at the same time or with shapes within the selection, use a **ShapeRange** collection.
+There are three objects that represent shapes: the **Shapes** collection, which represents all the shapes on a document; the **ShapeRange** object, which represents a specified subset of the shapes on a document (for example, a **ShapeRange** object could represent shapes one and four on the document, or it could represent all the selected shapes on the document); and the **Shape** object, which represents a single shape on a document. If you want to work with several shapes at the same time or with shapes within the selection, use a **ShapeRange** collection.
  
 
  
@@ -31,7 +31,7 @@ Use  `Shapes(Index)`, where  _Index_ is the shape name or the index number, to r
 
 ## Example
 
-In the following example, the  **TestTextShape** macro creates a textbox shape, adds some text, and changes the shape style, fill, line, shadow, and reflection properties. The **FlipShape** macro flips the shape from top to bottom.
+In the following example, the **TestTextShape** macro creates a textbox shape, adds some text, and changes the shape style, fill, line, shadow, and reflection properties. The **FlipShape** macro flips the shape from top to bottom.
  
 
  
@@ -99,7 +99,7 @@ Sub FlipShape()
 End Sub
 ```
 
-Figure 1 shows the result, where the shape is selected to make the ribbon  **FORMAT** tab under **DRAWING TOOLS** available, although the active tab is **DESIGN** under **REPORT TOOLS**. If the shape were not selected,  **DRAWING TOOLS** and the **FORMAT** tab would not be visible.
+Figure 1 shows the result, where the shape is selected to make the ribbon **FORMAT** tab under **DRAWING TOOLS** available, although the active tab is **DESIGN** under **REPORT TOOLS**. If the shape were not selected, **DRAWING TOOLS** and the **FORMAT** tab would not be visible.
  
 
  

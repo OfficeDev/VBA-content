@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.LinkedStyle Property (Word)
 
-Returns or sets the name of the style that's linked to the specified  **ListLevel** object. Read/write **String** .
+Returns or sets the name of the style that's linked to the specified **ListLevel** object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the name of the style that's linked to the specified  **ListLeve
 
 ## Example
 
-This example sets the variable myListTemp to the first list template (excluding None) on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). Each level in the list has a matching heading style linked to it.
+This example sets the variable myListTemp to the first list template (excluding None) on the **Outline Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). Each level in the list has a matching heading style linked to it.
 
 
 ```vb

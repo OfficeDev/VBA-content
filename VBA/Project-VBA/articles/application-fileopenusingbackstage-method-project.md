@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Application.FileOpenUsingBackstage Method (Project)
-Displays the  **Open** tab in the Backstage view.
+Displays the **Open** tab in the Backstage view.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ Displays the  **Open** tab in the Backstage view.
 
  **Boolean**
 
-The return value is  **True** if Project displays the **Open** tab in the Backstage view; otherwise, **False** if there is an error.
+The return value is **True** if Project displays the **Open** tab in the Backstage view; otherwise, **False** if there is an error.
 
 
 ## Example

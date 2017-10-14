@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Apply Method (PowerPoint)
 
-Applies to the specified shape formatting that's been copied by using the  **PickUp** method.
+Applies to the specified shape formatting that's been copied by using the **PickUp** method.
 
 
 ## Syntax

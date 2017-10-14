@@ -19,7 +19,7 @@ Represents a possible value for the specified wizard property.
 
 ## Example
 
-Use the  **[Item](wizardvalues-item-property-publisher.md)** property of the **WizardValues** collection to return a **WizardValue** object. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
+Use the **[Item](wizardvalues-item-property-publisher.md)** property of the **WizardValues** collection to return a **WizardValue** object. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
  
 
  

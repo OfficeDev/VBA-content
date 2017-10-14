@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsSandboxed Property (Excel)
 
-Returns  **True** if the specified workbook is open in a **Protected View** window. Read-only
+Returns **True** if the specified workbook is open in a **Protected View** window. Read-only
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Returns  **True** if the specified workbook is open in a **Protected View** wind
 
 ## Remarks
 
-Use the  **IsSandboxed** property to determine if a workbook is open in a **Protected View** window.
+Use the **IsSandboxed** property to determine if a workbook is open in a **Protected View** window.
 
 
 ## Example
 
-The following code example displays whether the specified workbook is open in a  **Protected View** window.
+The following code example displays whether the specified workbook is open in a **Protected View** window.
 
 
 ```vb

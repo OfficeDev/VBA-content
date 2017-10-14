@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # SetFocus Method, LineCount, TextLength Properties Example
 
-The following example counts the characters and the number of lines of text in a  **TextBox** by using the **LineCount** and **TextLength** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the **LineCount** and **TextLength** properties.
+The following example counts the characters and the number of lines of text in a **TextBox** by using the **LineCount** and **TextLength** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the **LineCount** and **TextLength** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- Two  **Label** controls named Label1 and Label2.
+- Two **Label** controls named Label1 and Label2.
     
 
 

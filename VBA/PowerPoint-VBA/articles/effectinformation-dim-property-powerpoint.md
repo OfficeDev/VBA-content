@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EffectInformation.Dim Property (PowerPoint)
 
-Returns a  **[ColorFormat](colorformat-object-powerpoint.md)** object that represents the color to dim to after an animation is finished.
+Returns a **[ColorFormat](colorformat-object-powerpoint.md)** object that represents the color to dim to after an animation is finished.
 
 
 ## Syntax

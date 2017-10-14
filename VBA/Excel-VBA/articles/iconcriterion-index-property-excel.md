@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconCriterion.Index Property (Excel)
 
-Returns a  **Long** value indicating which threshold the criteria represents. Read-only.
+Returns a **Long** value indicating which threshold the criteria represents. Read-only.
 
 
 ## Syntax

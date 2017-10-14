@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-The  **CurrentWebUser** method returns **Null** if the database has not been published, or information about the current user cannot be retrieved.
+The **CurrentWebUser** method returns **Null** if the database has not been published, or information about the current user cannot be retrieved.
 
 
 ## See also

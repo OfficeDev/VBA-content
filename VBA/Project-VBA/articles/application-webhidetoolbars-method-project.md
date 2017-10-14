@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WebHideToolbars Method (Project)
 
-Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete in Project.
+Shows or hides all toolbars except the **Menu** and **Web** toolbars. Obsolete in Project.
 
 
 ## Syntax

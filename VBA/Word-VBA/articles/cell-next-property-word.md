@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Next Property (Word)
 
-Returns a  **Cell** object that represents the next table cell in the **Cells** collection. Read-only.
+Returns a **Cell** object that represents the next table cell in the **Cells** collection. Read-only.
 
 
 ## Syntax

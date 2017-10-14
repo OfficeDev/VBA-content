@@ -33,18 +33,18 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-You can use any of the constants prefixed with  **visIconIX** that are declared by the Visio type library in **[VisUIIconIDs](visuiiconids-enumeration-visio.md)** .
+You can use any of the constants prefixed with **visIconIX** that are declared by the Visio type library in **[VisUIIconIDs](visuiiconids-enumeration-visio.md)** .
 
-The  **FaceID** property determines a button's icon, but not its function. Use the **CmdNum** property of a **ToolbarItem** object to set a button's function.
+The **FaceID** property determines a button's icon, but not its function. Use the **CmdNum** property of a **ToolbarItem** object to set a button's function.
 
-The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON** , which is declared in the Visio type library in **[VisUICtrlTypes](visuictrltypes-enumeration-visio.md)** .
+The **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON** , which is declared in the Visio type library in **[VisUICtrlTypes](visuictrltypes-enumeration-visio.md)** .
 
 
 ## Example
 
-This example adds a custom toolbar to the  **Toolbars** collection and then adds a button to the toolbar. The example shows how to use the **FaceID** property to assign the icon for the button. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
+This example adds a custom toolbar to the **Toolbars** collection and then adds a button to the toolbar. The example shows how to use the **FaceID** property to assign the icon for the button. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
 
-To restore the built-in toolbars in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in toolbars in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

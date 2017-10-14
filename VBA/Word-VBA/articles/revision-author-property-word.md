@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Author Property (Word)
 
-Returns the name of the user who made the specified tracked change. Read-only  **String** .
+Returns the name of the user who made the specified tracked change. Read-only **String** .
 
 
 ## Syntax

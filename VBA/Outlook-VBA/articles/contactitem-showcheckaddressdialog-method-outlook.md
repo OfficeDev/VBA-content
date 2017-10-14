@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # ContactItem.ShowCheckAddressDialog Method (Outlook)
-Displays the  **Check Address** dialog box to verify address details of the contact.
+Displays the **Check Address** dialog box to verify address details of the contact.
 
 ## Version information
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Panning Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
 
 
 ## Syntax

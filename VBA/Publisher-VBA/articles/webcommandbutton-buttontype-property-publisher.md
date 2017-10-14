@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.ButtonType Property (Publisher)
 
-Returns or sets a  **PbCommandButtonType** constant that indicates whether a Web command button will clear or submit form data. Read/write.
+Returns or sets a **PbCommandButtonType** constant that indicates whether a Web command button will clear or submit form data. Read/write.
 
 
 ## Syntax
 
  _expression_. **ButtonType**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbCommandButtonType
 
 ## Remarks
 
-The  **ButtonType** property value can be one of the **[PbCommandButtonType](pbcommandbuttontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **ButtonType** property value can be one of the **[PbCommandButtonType](pbcommandbuttontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

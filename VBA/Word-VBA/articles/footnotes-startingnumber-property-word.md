@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Footnotes.StartingNumber Property (Word)
 
-Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
+Returns or sets the starting note number, line number, or page number. Read/write **Long** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the starting note number, line number, or page number. Read/writ
 
 You must be in print layout view to see line numbering.
 
-When applied to page numbers, this property returns or sets the beginning page number for the specified  **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False** , will override the **StartingNumber** property so that page numbering can continue from the previous section.
+When applied to page numbers, this property returns or sets the beginning page number for the specified **HeaderFooter** object. This number may or may not be visible on the first page, depending on the setting of the **ShowFirstPageNumber** property. The **RestartNumberingAtSection** property, if set to **False** , will override the **StartingNumber** property so that page numbering can continue from the previous section.
 
 
 ## Example

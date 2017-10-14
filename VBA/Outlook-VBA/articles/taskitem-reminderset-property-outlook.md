@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.ReminderSet Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
+Returns or sets a **Boolean** value that is **True** if a reminder has been set for this item. Read/write.
 
 
 ## Syntax

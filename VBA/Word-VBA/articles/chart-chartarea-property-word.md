@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartArea Property (Word)
 
-Returns the complete chart area for the chart. Read-only  **[ChartArea](chartarea-object-word.md)** .
+Returns the complete chart area for the chart. Read-only **[ChartArea](chartarea-object-word.md)** .
 
 
 ## Syntax

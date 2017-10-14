@@ -25,7 +25,7 @@ Selects all the shapes in a document that were inserted or edited by a single us
 
 ## Remarks
 
-This method doesn't select  **InlineShape** objects.
+This method doesn't select **InlineShape** objects.
 
 
 ## See also

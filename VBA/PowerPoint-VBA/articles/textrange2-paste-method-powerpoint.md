@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Paste Method (PowerPoint)
 
-Pastes the contents of the Clipboard into the  **TextRange2** object.
+Pastes the contents of the Clipboard into the **TextRange2** object.
 
 
 ## Syntax

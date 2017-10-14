@@ -25,7 +25,7 @@ Initiates manual hyphenation of a document, one line at a time.
 
 ## Remarks
 
-When you use the  **ManualHyphenation** method, Word prompts he user to accept or decline suggested hyphenations.
+When you use the **ManualHyphenation** method, Word prompts he user to accept or decline suggested hyphenations.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObjectProperties.Remove Method (Access)
 
-You can use the  **Remove** method to remove an **AccessObjectProperty** object from the **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection of an **[AccessObject](accessobject-object-access.md)** object.
+You can use the **Remove** method to remove an **AccessObjectProperty** object from the **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection of an **[AccessObject](accessobject-object-access.md)** object.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ You can use the  **Remove** method to remove an **AccessObjectProperty** object 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the object argument. If a numeric expression, the index argument must be a number from 0 to the value of the collection's  **Count** property minus 1. If a string expression, the index argument must be the name of a member of the collection.|
+| _Item_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the object argument. If a numeric expression, the index argument must be a number from 0 to the value of the collection's **Count** property minus 1. If a string expression, the index argument must be the name of a member of the collection.|
 
 ## See also
 

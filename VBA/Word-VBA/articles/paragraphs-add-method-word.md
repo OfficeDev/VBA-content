@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.Add Method (Word)
 
-Returns a  **Paragraph** object that represents a new, blank paragraph added to a document.
+Returns a **Paragraph** object that represents a new, blank paragraph added to a document.
 
 
 ## Syntax

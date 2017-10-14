@@ -15,6 +15,6 @@ ms.date: 06/08/2017
 
 Contains the active [code panes](vbe-glossary.md) in the **VBE** object.
  **Remarks**
-Use the  **CodePanes** collection to access the open code panes in a[project](vbe-glossary.md).
-You can use the  **Count** property to return the number of active code panes in a[collection](vbe-glossary.md).
+Use the **CodePanes** collection to access the open code panes in a[project](vbe-glossary.md).
+You can use the **Count** property to return the number of active code panes in a[collection](vbe-glossary.md).
 

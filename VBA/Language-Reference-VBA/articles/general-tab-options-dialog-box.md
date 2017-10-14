@@ -45,7 +45,7 @@ Displays ToolTips for the toolbar buttons.
 
  **Collapse Proj. Hides Windows**
 
-Determines whether the project,  **UserForm**, object, or module windows are closed automatically when a project is collapsed in the **Project** **Explorer**.
+Determines whether the project, **UserForm**, object, or module windows are closed automatically when a project is collapsed in the **Project** **Explorer**.
 
  **Edit and Continue**
 

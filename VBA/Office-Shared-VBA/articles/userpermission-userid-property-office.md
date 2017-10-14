@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserPermission.UserId Property (Office)
 
-Gets the e-mail name of the user whose permissions on the active document are determined by the specified  **[UserPermission](userpermission-object-office.md)** object. Read-only.
+Gets the e-mail name of the user whose permissions on the active document are determined by the specified **[UserPermission](userpermission-object-office.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the e-mail name of the user whose permissions on the active document are de
 
 ## Remarks
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **UserID** property returns the name in e-mail form of the user whose permissions are determined by the specified **UserPermission** object.
+The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **UserID** property returns the name in e-mail form of the user whose permissions are determined by the specified **UserPermission** object.
 
 
 ## Example

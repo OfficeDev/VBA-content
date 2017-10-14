@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintQuality Property (Excel)
 
-Returns or sets the print quality. Read/write  **Variant** .
+Returns or sets the print quality. Read/write **Variant** .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns or sets the print quality. Read/write  **Variant** .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|Horizontal print quality (1) or vertical print quality (2). Some printers may not support vertical print quality. If you don?t specify this argument, the  **PrintQuality** property returns (or can be set to) a two-element array that contains both horizontal and vertical print quality.|
+| _Index_|Optional| **Variant**|Horizontal print quality (1) or vertical print quality (2). Some printers may not support vertical print quality. If you don't specify this argument, the **PrintQuality** property returns (or can be set to) a two-element array that contains both horizontal and vertical print quality.|
 
 ## Example
 
-This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you?re using.
+This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you're using.
 
 
 ```vb

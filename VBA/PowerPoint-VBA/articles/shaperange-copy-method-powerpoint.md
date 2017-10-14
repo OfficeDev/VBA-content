@@ -25,7 +25,7 @@ Copies the specified object to the Clipboard.
 
 ## Remarks
 
-Use the  **Paste** method to paste the contents of the Clipboard.
+Use the **Paste** method to paste the contents of the Clipboard.
 
 
 ## Example

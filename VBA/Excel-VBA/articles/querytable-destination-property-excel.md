@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.Destination Property (Excel)
 
-Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **QueryTable** object. Read-only **[Range](range-object-excel.md)** .
+Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the **QueryTable** object. Read-only **[Range](range-object-excel.md)** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns the cell in the upper-left corner of the query table destination range (
 
 ## Remarks
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **Destination** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **Destination** property.
 
 
 ## Example

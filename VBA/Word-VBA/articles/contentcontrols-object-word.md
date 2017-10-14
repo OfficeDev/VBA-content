@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # ContentControls Object (Word)
 
-A collection of  **[ContentControl](contentcontrol-object-word.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
+A collection of **[ContentControl](contentcontrol-object-word.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
 
 
 ## Remarks
 
-Use the  **[Add](contentcontrols-add-method-word.md)** method to create a new content control and insert it into a document. The following example creates a new drop-down list content control and adds several items to the list.
+Use the **[Add](contentcontrols-add-method-word.md)** method to create a new content control and insert it into a document. The following example creates a new drop-down list content control and adds several items to the list.
 
 
 ```
@@ -36,7 +36,7 @@ objcc.DropdownListEntries.Add "Snake"
 objcc.DropdownListEntries.Add "Other"
 ```
 
-Use the  **[Item](contentcontrols-item-method-word.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document and, if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
+Use the **[Item](contentcontrols-item-method-word.md)** method to access a specific content control in the collection. The following example accesses the third content control in the active document and, if the control is a drop-down list or a combo box, moves the first item to the bottom of the list and the last item to the top of the list.
 
 
 
@@ -69,7 +69,7 @@ If objcc.Type = wdContentControlComboBox Or _
 End If
 ```
 
-Use the  **ContentControl** object to work with individual content controls. For more information, see[Working with Content Controls](http://msdn.microsoft.com/library/b4092c71-a383-f1db-8d68-de69e8d8a86b%28Office.15%29.aspx).
+Use the **ContentControl** object to work with individual content controls. For more information, see[Working with Content Controls](http://msdn.microsoft.com/library/b4092c71-a383-f1db-8d68-de69e8d8a86b%28Office.15%29.aspx).
 
 
 ## Methods

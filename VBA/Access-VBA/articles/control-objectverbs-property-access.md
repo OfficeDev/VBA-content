@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.ObjectVerbs Property (Access)
 
-You can use the  **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
+You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
 
 
 ## Syntax
@@ -35,11 +35,11 @@ You can use the  **ObjectVerbs** property in Visual Basic to determine the list 
 
 This property setting isn't available in Design view.
 
-You can use the  **ObjectVerbs** property with the **ObjectVerbsCount** property to display a list of the verbs supported by an OLE object. The **ObjectVerbs** property uses this list of verbs to determine which operation to perform when an OLE object is activated (when the **Action** property is set to **acOLEActivate** ).
+You can use the **ObjectVerbs** property with the **ObjectVerbsCount** property to display a list of the verbs supported by an OLE object. The **ObjectVerbs** property uses this list of verbs to determine which operation to perform when an OLE object is activated (when the **Action** property is set to **acOLEActivate** ).
 
-The  **Verb** property setting is the position of a particular verb in the list of verbs returned by the **ObjectVerbs** property. For example, 1 specifies the first verb in the list (the Visual Basic command `ObjectVerbs(0)`, or the first verb in the  **ObjectVerbs** property array), 2 specifies the second verb in the list (the Visual Basic command `ObjectVerbs(1)`, or the second verb in the  **ObjectVerbs** property array), and so on.
+The **Verb** property setting is the position of a particular verb in the list of verbs returned by the **ObjectVerbs** property. For example, 1 specifies the first verb in the list (the Visual Basic command `ObjectVerbs(0)`, or the first verb in the **ObjectVerbs** property array), 2 specifies the second verb in the list (the Visual Basic command `ObjectVerbs(1)`, or the second verb in the **ObjectVerbs** property array), and so on.
 
-The first verb in the  **ObjectVerbs** property array, called by the Visual Basic command `ObjectVerbs(0)`, is the default verb. If the  **Verb** property hasn't been set, this verb specifies the operation performed when the OLE object is activated.
+The first verb in the **ObjectVerbs** property array, called by the Visual Basic command `ObjectVerbs(0)`, is the default verb. If the **Verb** property hasn't been set, this verb specifies the operation performed when the OLE object is activated.
 
 The list of verbs an object supports varies, depending on the state of the object. To update the list of verbs an object supports, set the control's **Action** property to **acOLEFetchVerbs**. Be sure to update the list of verbs before presenting it to the user.
 

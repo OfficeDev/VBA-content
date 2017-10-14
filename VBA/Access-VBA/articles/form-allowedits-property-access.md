@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.AllowEdits Property (Access)
 
-You can use the  **AllowEdits** property to specify whether a user can edit saved records when using a form. Read/write **Boolean**.
+You can use the **AllowEdits** property to specify whether a user can edit saved records when using a form. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **AllowEdits** property to specify whether a user can edit save
 
 ## Remarks
 
-You can use the  **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
+You can use the **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](form-allowadditions-property-access.md)**, **[AllowDeletions](form-allowdeletions-property-access.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the **[AllowAdditions](form-allowadditions-property-access.md)**, **[AllowDeletions](form-allowdeletions-property-access.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)** property to Snapshot.
 
-When the  **AllowEdits** property is set to No, the **Delete Record** and **Data Entry** menu commands aren't available for existing records. (They may still be available for new records if the **AllowAdditions** property is set to Yes.)
+When the **AllowEdits** property is set to No, the **Delete Record** and **Data Entry** menu commands aren't available for existing records. (They may still be available for new records if the **AllowAdditions** property is set to Yes.)
 
-Changing a field value programmatically causes the current record to be editable, regardless of the  **AllowEdits** property setting. If you want to prevent the user from making changes to a record ( **AllowEdits** is No) that you need to edit programmatically, save the record after any programmatic changes; the **AllowEdits** property setting will be honored once again after any unsaved changes to the current record are saved.
+Changing a field value programmatically causes the current record to be editable, regardless of the **AllowEdits** property setting. If you want to prevent the user from making changes to a record ( **AllowEdits** is No) that you need to edit programmatically, save the record after any programmatic changes; the **AllowEdits** property setting will be honored once again after any unsaved changes to the current record are saved.
 
 
 
@@ -39,20 +39,20 @@ Changing a field value programmatically causes the current record to be editable
  **Note**  When the Data Mode argument of the OpenForm action is set, Microsoft Access will override a number of form property settings. If the Data Mode argument of the OpenForm action is set to Edit, Microsoft Access will open the form with the following property settings:
 
 
--  **AllowEdits** — Yes
+- **AllowEdits** — Yes
     
--  **AllowDeletions** — Yes
+- **AllowDeletions** — Yes
     
--  **AllowAdditions** — Yes
+- **AllowAdditions** — Yes
     
--  **DataEntry** — No
+- **DataEntry** — No
     
 To prevent the OpenForm action from overriding any of these existing property settings, omit the Data Mode argument setting so that Microsoft Access will use the property settings defined by the form.
 
 
 ## Example
 
-The following example examines the  **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed and the text box controls' **SpecialEffect** property is set to Normal and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
+The following example examines the **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed and the text box controls' **SpecialEffect** property is set to Normal and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
 
 
 ```vb

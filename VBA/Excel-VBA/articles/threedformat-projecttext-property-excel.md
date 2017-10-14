@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 
 
 
-|MsoTriState can be one of these  **MsoTriState** constants.|
+|MsoTriState can be one of these **MsoTriState** constants.|
 | **msoCTrue**|
 | **msoFalse**|
 | **msoTriStateMixed**|

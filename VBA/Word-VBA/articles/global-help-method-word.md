@@ -29,11 +29,11 @@ Displays on-line Help information.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these  **[WdHelpType](wdhelptype-enumeration-word.md)** constants.|
+| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these **[WdHelpType](wdhelptype-enumeration-word.md)** constants.|
 
 ## Remarks
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

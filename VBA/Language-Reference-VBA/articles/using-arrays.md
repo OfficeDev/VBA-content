@@ -39,7 +39,7 @@ End Sub
 
 ## Changing the Lower Bound
 
-You can use the  **Option Base** statement at the top of a [module](vbe-glossary.md) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **Dim** statement declares the array variable with 365 elements.
+You can use the **Option Base** statement at the top of a [module](vbe-glossary.md) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **Dim** statement declares the array variable with 365 elements.
 
 
 ```vb
@@ -48,7 +48,7 @@ Dim curExpense(365) As Currency
 
 ```
 
-You can also explicitly set the lower bound of an array by using a  **To** clause, as shown in the following example.
+You can also explicitly set the lower bound of an array by using a **To** clause, as shown in the following example.
 
 
 
@@ -62,7 +62,7 @@ Dim strWeekday(7 To 13) As String
 
 ## Storing Variant Values in Arrays
 
-There are two ways to create arrays of  **Variant** values. One way is to declare an array of [Variant data type](vbe-glossary.md), as shown in the following example:
+There are two ways to create arrays of **Variant** values. One way is to declare an array of [Variant data type](vbe-glossary.md), as shown in the following example:
 
 
 ```vb
@@ -74,7 +74,7 @@ varData(3) = Format("06-09-1952", "General Date")
 
 ```
 
-The other way is to assign the array returned by the  **Array** function to a **Variant** variable, as shown in the following example.
+The other way is to assign the array returned by the **Array** function to a **Variant** variable, as shown in the following example.
 
 
 
@@ -86,7 +86,7 @@ Format("06-09-1952", "General Date"))
 
 ```
 
-You identify the elements in an array of  **Variant** values by index, no matter which technique you use to create the array. For example, the following statement can be added to either of the preceding examples.
+You identify the elements in an array of **Variant** values by index, no matter which technique you use to create the array. For example, the following statement can be added to either of the preceding examples.
 
 
 
@@ -109,7 +109,7 @@ Dim sngMulti(1 To 5, 1 To 10) As Single
 
 If you think of the array as a matrix, the first argument represents the rows and the second argument represents the columns.
 
-Use nested  **For...Next** statements to process multidimensional arrays. The following procedure fills a two-dimensional array with **Single** values.
+Use nested **For...Next** statements to process multidimensional arrays. The following procedure fills a two-dimensional array with **Single** values.
 
 
 

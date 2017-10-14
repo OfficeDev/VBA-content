@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.ChartTitle Property (Project)
-Gets an  **Office.IMsoChartTitle** object that represents the title of the specified chart. Read-only **IMsoChartTitle**.
+Gets an **Office.IMsoChartTitle** object that represents the title of the specified chart. Read-only **IMsoChartTitle**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets an  **Office.IMsoChartTitle** object that represents the title of the speci
 
 ## Remarks
 
-To manually edit the text of a chart title, click in the title area. To change the title format, select the chart, and then, on the ribbon under  **CHART TOOLS**, choose the  **FORMAT** tab.
+To manually edit the text of a chart title, click in the title area. To change the title format, select the chart, and then, on the ribbon under **CHART TOOLS**, choose the **FORMAT** tab.
 
 
 ## Example

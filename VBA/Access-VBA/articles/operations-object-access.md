@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Operations Object (Access)
 
-Represents the collection of operations defined for an  **[Entity](entity-object-access.md)**.
+Represents the collection of operations defined for an **[Entity](entity-object-access.md)**.
 
 
 ## Remarks
 
-Use the  **[Operations](entity-operations-property-access.md)** property of the **[Entity](entity-object-access.md)** object to return the collection of operations for an entity.
+Use the **[Operations](entity-operations-property-access.md)** property of the **[Entity](entity-object-access.md)** object to return the collection of operations for an entity.
 
 
 ## Properties

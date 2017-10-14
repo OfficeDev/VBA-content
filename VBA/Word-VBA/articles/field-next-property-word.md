@@ -25,7 +25,7 @@ Returns the next object in the collection. Read-only.
 
 ## Example
 
-This example updates the fields in the first section in the active document as long as the  **Next** method returns a **Field** object and the field isn't a FILLIN field.
+This example updates the fields in the first section in the active document as long as the **Next** method returns a **Field** object and the field isn't a FILLIN field.
 
 
 ```vb

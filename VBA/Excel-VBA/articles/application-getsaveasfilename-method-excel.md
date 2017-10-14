@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GetSaveAsFilename Method (Excel)
 
-Displays the standard  **Save As** dialog box and gets a file name from the user without actually saving any files.
+Displays the standard **Save As** dialog box and gets a file name from the user without actually saving any files.
 
 
 ## Syntax
@@ -46,14 +46,14 @@ This string passed in the  _FileFilter_ argument consists of pairs of file filte
 
 To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example, "Visual Basic Files (*.bas; *.txt),*.bas;*.txt".
 
-This method returns the selected file name or the name entered by the user. The returned name may include a path specification. Returns  **False** if the user cancels the dialog box.
+This method returns the selected file name or the name entered by the user. The returned name may include a path specification. Returns **False** if the user cancels the dialog box.
 
 This method may change the current drive or folder.
 
 
 ## Example
 
-This example displays the  **Save As** dialog box, with the file filter set to text files. If the user chooses a file name, the example displays that file name in a message box.
+This example displays the **Save As** dialog box, with the file filter set to text files. If the user chooses a file name, the example displays that file name in a message box.
 
 
 ```vb

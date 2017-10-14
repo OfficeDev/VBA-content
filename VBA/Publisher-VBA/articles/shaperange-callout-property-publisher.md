@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Callout Property (Publisher)
 
-Returns a  **[CalloutFormat](calloutformat-object-publisher.md)** object representing the formatting of a line callout.
+Returns a **[CalloutFormat](calloutformat-object-publisher.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
 
  _expression_. **Callout**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

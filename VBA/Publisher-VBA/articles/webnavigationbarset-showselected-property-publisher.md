@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **ShowSelected**
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_A variable that represents a **WebNavigationBarSet** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Example
 
-The following example adds a new Web navigation bar to the active document, adds it to every page, and then sets the  **ShowSelected** property to **False** so that the selected button will not be highlighted in the navigation bar.
+The following example adds a new Web navigation bar to the active document, adds it to every page, and then sets the **ShowSelected** property to **False** so that the selected button will not be highlighted in the navigation bar.
 
 
 ```vb

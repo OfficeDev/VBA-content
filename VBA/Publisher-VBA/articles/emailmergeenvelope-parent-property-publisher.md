@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Parent Property (Publisher)
 
-Returns the parent of the  **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** object. Read-only.
+Returns the parent of the **[EmailMergeEnvelope](emailmergeenvelope-object-publisher.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_A variable that represents an **EmailMergeEnvelope** object.
 
 
 ### Return Value

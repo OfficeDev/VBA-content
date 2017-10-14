@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ICustomTaskPaneConsumer Object (Office)
 
-An interface that provides access to the  **CTPFactoryAvailable** method that is used to create an instance of a custom task pane.
+An interface that provides access to the **CTPFactoryAvailable** method that is used to create an instance of a custom task pane.
 
 
 ## Example
 
-The following example, written in C#, creates an instance of a  **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create task panes by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also references a Microsoft ActiveX® control, SampleActiveX.myControl, that is created in a separate project.
+The following example, written in C#, creates an instance of a **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create task panes by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also references a Microsoft ActiveX® control, SampleActiveX.myControl, that is created in a separate project.
 
 
 ```

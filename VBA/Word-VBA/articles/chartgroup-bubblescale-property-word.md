@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BubbleScale Property (Word)
 
-Returns or sets the scale factor for bubbles in the specified chart group. Read/write  **Long** .
+Returns or sets the scale factor for bubbles in the specified chart group. Read/write **Long** .
 
 
 ## Syntax

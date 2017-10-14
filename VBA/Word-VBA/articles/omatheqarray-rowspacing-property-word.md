@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathEqArray.RowSpacing Property (Word)
 
-Returns or sets a  **Long** that represents the spacing between the rows in an equation array. Read/write.
+Returns or sets a **Long** that represents the spacing between the rows in an equation array. Read/write.
 
 
 ## Syntax

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # TextStyles Object (PowerPoint)
 
-A collection of three text styles - title text, body text, and default text - each of which is represented by a  **[TextStyle](textstyle-object-powerpoint.md)** object.
+A collection of three text styles - title text, body text, and default text - each of which is represented by a **[TextStyle](textstyle-object-powerpoint.md)** object.
 
 
 ## Remarks
 
-Each text style contains a  **[TextFrame](textframe-object-powerpoint.md)** object that describes how text is placed within the text bounding box, a **[Ruler](ruler-object-powerpoint.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](textstylelevels-object-powerpoint.md)** collection that contains outline text formatting information.
+Each text style contains a **[TextFrame](textframe-object-powerpoint.md)** object that describes how text is placed within the text bounding box, a **[Ruler](ruler-object-powerpoint.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](textstylelevels-object-powerpoint.md)** collection that contains outline text formatting information.
 
 
 ## Example
 
-Use  **TextStyles** (index), where index is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. This example sets the margins for the notes body area on all the notes pages in the active presentation.
+Use **TextStyles** (index), where index is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. This example sets the margins for the notes body area on all the notes pages in the active presentation.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathGroupChar.AlignTop Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the grouping character is aligned vertically with the surrounding text or whether the base text that is either above or below the grouping character is aligned vertically with the surrounding text. Read/write.
+Returns or sets a **Boolean** that represents whether the grouping character is aligned vertically with the surrounding text or whether the base text that is either above or below the grouping character is aligned vertically with the surrounding text. Read/write.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.PropertyChange Event (Outlook)
 
-Occurs when an explicit built-in property (for example,  **[Subject](appointmentitem-subject-property-outlook.md)** ) of an instance of the parent object is changed.
+Occurs when an explicit built-in property (for example, **[Subject](appointmentitem-subject-property-outlook.md)** ) of an instance of the parent object is changed.
 
 
 ## Syntax

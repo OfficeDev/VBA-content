@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.Name Property (Excel)
 
-Returns a  **String** value representing the name of the object.
+Returns a **String** value representing the name of the object.
 
 
 ## Syntax

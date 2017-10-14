@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultHeight Property (Word)
 
-Returns or sets the default envelope height, in points. Read/write  **Single** .
+Returns or sets the default envelope height, in points. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the default envelope height, in points. Read/write  **Single** .
 
 ## Remarks
 
-If you set either the  **DefaultHeight** or **[DefaultWidth](envelope-defaultwidth-property-word.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box ( **Tools** menu). Use the **[DefaultSize](envelope-defaultsize-property-word.md)** property to set the default size to a predefined size.
+If you set either the **DefaultHeight** or **[DefaultWidth](envelope-defaultwidth-property-word.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box ( **Tools** menu). Use the **[DefaultSize](envelope-defaultsize-property-word.md)** property to set the default size to a predefined size.
 
 
 ## Example

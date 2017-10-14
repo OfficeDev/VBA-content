@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelTables.ItemAtID Property (Visio)
 
-Returns the  **AccelTable** object for an ID within a collection. Read-only.
+Returns the **AccelTable** object for an ID within a collection. Read-only.
 
 
 ## Syntax

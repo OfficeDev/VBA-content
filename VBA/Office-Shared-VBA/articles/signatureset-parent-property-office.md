@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.Parent Property (Office)
 
-Gets the  **Parent** object for the **SignatureSet** object. Read-only.
+Gets the **Parent** object for the **SignatureSet** object. Read-only.
 
 
 ## Syntax

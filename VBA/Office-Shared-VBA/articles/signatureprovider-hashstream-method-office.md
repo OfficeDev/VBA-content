@@ -39,7 +39,7 @@ Byte
 
 ## Remarks
 
-The  **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is called once per signature data stream in a document. The return value is an array of bytes representing the hash value computed using the hash algorithm.
+The **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is called once per signature data stream in a document. The return value is an array of bytes representing the hash value computed using the hash algorithm.
 
 
 ## Example

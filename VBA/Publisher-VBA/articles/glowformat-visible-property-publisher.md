@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **GlowFormat** object.
+ _expression_A variable that represents a **GlowFormat** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For any object, some methods and properties may be unavailable if the  **Visible** property is **False**.
+For any object, some methods and properties may be unavailable if the **Visible** property is **False**.
 
 
 ## See also

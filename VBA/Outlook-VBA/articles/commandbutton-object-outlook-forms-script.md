@@ -16,8 +16,8 @@ Starts, ends, or interrupts an action or series of actions.
 
 ## Remarks
 
-The macro or event procedure assigned to the  **CommandButton** control's **[Click](commandbutton-click-event-outlook-forms-script.md)** event determines what the **CommandButton** does. For example, you can create a **CommandButton** that opens another form. You can also display text, a picture, or both on a **CommandButton**.
+The macro or event procedure assigned to the **CommandButton** control's **[Click](commandbutton-click-event-outlook-forms-script.md)** event determines what the **CommandButton** does. For example, you can create a **CommandButton** that opens another form. You can also display text, a picture, or both on a **CommandButton**.
 
-The only event for a  **CommandButton** is the **Click** event.
+The only event for a **CommandButton** is the **Click** event.
 
 

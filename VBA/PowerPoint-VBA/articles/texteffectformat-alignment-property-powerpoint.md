@@ -25,7 +25,7 @@ Returns or sets the alignment for the specified WordArt. Read/write.
 
 ## Remarks
 
-The value of the  **Alignment** property can be one of these **MsoTextEffectAlignment** constants.
+The value of the **Alignment** property can be one of these **MsoTextEffectAlignment** constants.
 
 
 ||

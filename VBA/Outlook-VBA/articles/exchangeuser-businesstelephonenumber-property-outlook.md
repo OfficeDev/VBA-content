@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.BusinessTelephoneNumber Property (Outlook)
 
-Returns a  **String** representing the business telephone number for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a **String** representing the business telephone number for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the business telephone number for the **[Exch
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagBusinessTelephoneNumber** .
+This property corresponds to the MAPI property, **PidTagBusinessTelephoneNumber** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

@@ -29,7 +29,7 @@ Returns an individual object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The individual add-in to be returned. Index can be an  **Long** indicating the ordinal position of the add-in in the collection or a **String** representing the name of the individual add-in.|
+| _Index_|Required| **Variant**|The individual add-in to be returned. Index can be an **Long** indicating the ordinal position of the add-in in the collection or a **String** representing the name of the individual add-in.|
 
 ## See also
 

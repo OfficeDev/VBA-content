@@ -23,9 +23,9 @@ Possible causes:
 
 - You tried to add a new record but did not enter a value in the field that contains the primary key.
     
-- You tried to add a  **Null** value to a primary key field.
+- You tried to add a **Null** value to a primary key field.
     
-- You executed a query that tried to put a  **Null** value in a primary key field.
+- You executed a query that tried to put a **Null** value in a primary key field.
     
 
 
@@ -44,7 +44,7 @@ Access ensures that every record has a value in the primary key field, and that 
 ## What Is a Null?
 <a name="sectionSection1"> </a>
 
-A  **Null** is a value you can enter in a field or use in expressions or queries to indicate missing or unknown data. In Microsoft Visual Basic, the **Null** keyword indicates a **Null** value. Some fields, such as primary key fields, cannot contain **Null**.
+A **Null** is a value you can enter in a field or use in expressions or queries to indicate missing or unknown data. In Microsoft Visual Basic, the **Null** keyword indicates a **Null** value. Some fields, such as primary key fields, cannot contain **Null**.
 
 
 ## Solution

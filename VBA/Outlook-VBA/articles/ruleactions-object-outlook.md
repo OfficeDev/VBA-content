@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # RuleActions Object (Outlook)
 
-The  **RuleActions** object contains a set of **[RuleAction](ruleaction-object-outlook.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](rule-object-outlook.md)** object.
+The **RuleActions** object contains a set of **[RuleAction](ruleaction-object-outlook.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](rule-object-outlook.md)** object.
 
 
 ## Remarks
 
-The  **RuleActions** object is a fixed collection. **RuleAction** objects or types that derive from the **RuleAction** object cannot be added to or removed from the **RuleActions** object.
+The **RuleActions** object is a fixed collection. **RuleAction** objects or types that derive from the **RuleAction** object cannot be added to or removed from the **RuleActions** object.
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with any rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 

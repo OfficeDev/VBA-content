@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ShowRange Property (Word)
 
-Set to  **True** to display the **Value From Cells** range field in all the chart data labels for a specified chart. Set to **False** to hide that field. Read/write **Boolean**.
+Set to **True** to display the **Value From Cells** range field in all the chart data labels for a specified chart. Set to **False** to hide that field. Read/write **Boolean**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Set to  **True** to display the **Value From Cells** range field in all the char
 
 ## Example
 
-The following example displays the  **Value From Cells** range field for all the data labels of the first series in the first chart.
+The following example displays the **Value From Cells** range field for all the data labels of the first series in the first chart.
 
 
 ```vb

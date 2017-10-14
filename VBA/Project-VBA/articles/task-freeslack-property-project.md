@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.FreeSlack Property (Project)
 
-Gets the free slack for a task in minutes. Read-only  **Variant**.
+Gets the free slack for a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

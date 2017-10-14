@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Parent Property (Office)
 
-Gets the  **Parent** object for the **MetaProperty** object. Read-only.
+Gets the **Parent** object for the **MetaProperty** object. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Clears the formatting of the chart colors and sets color formatting to automatic
 
 ## Remarks
 
-Use the  **ClearToMatchColorSyle** method to reset the formatting of chart colors to automatic. If you use this method on a chart, any color formatting overrides are reset to the default values.
+Use the **ClearToMatchColorSyle** method to reset the formatting of chart colors to automatic. If you use this method on a chart, any color formatting overrides are reset to the default values.
 
 
 ## See also

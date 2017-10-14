@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 
 
-Appears whenever you select Setup from the  **Print** dialog box.
+Appears whenever you select Setup from the **Print** dialog box.
 
-Use the  **Print** **Setup** dialog box to select the printer, page orientation, and paper size.
+Use the **Print** **Setup** dialog box to select the printer, page orientation, and paper size.
 
 
 ## Dialog box options
@@ -40,7 +40,7 @@ Allows you to specify the printer. If you don't select a printer, Visual Basic w
     
 - Comment — Displays the physical location of the printer and additional information.
     
-- Properties — Opens the  **Properties** dialog box specific to the printer where you can choose additional options such as paper and the way graphics are printed.
+- Properties — Opens the **Properties** dialog box specific to the printer where you can choose additional options such as paper and the way graphics are printed.
     
 
 

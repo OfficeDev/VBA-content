@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HyperlinkPart Method (Access)
 
-The  **HyperlinkPart** method returns information about data stored as a Hyperlink data type. .
+The **HyperlinkPart** method returns information about data stored as a Hyperlink data type. .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The  **HyperlinkPart** method returns information about data stored as a Hyperli
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Hyperlink_|Required|**Variant**|The data stored in a Hyperlink field.|
-| _Part_|Optional|**AcHyperlinkPart**|A  **[AcHyperlinkPart](achyperlinkpart-enumeration-access.md)** constant representing the information you want returned by the **HyperlinkPart** method.|
+| _Part_|Optional|**AcHyperlinkPart**|A **[AcHyperlinkPart](achyperlinkpart-enumeration-access.md)** constant representing the information you want returned by the **HyperlinkPart** method.|
 
 ### Return Value
 
@@ -39,14 +39,14 @@ String
 
 ## Remarks
 
-You use the  **HyperlinkPart** method to return one of three values from a Hyperlink field or the displayed value. The value returned depends on the setting of the _part_ argument. The _part_ argument is optional. If it's not used, the function returns the value Microsoft Access displays for the hyperlink (which corresponds to the **acDisplayedValue** setting for the _part_ argument). The returned values can be one of the four parts of the Hyperlink field ( _displaytext_,  _address_,  _subaddress_, or  _screentip_), the full address,  _address_# _subaddress_, or the value Microsoft Access displays for the hyperlink.
+You use the **HyperlinkPart** method to return one of three values from a Hyperlink field or the displayed value. The value returned depends on the setting of the _part_ argument. The _part_ argument is optional. If it's not used, the function returns the value Microsoft Access displays for the hyperlink (which corresponds to the **acDisplayedValue** setting for the _part_ argument). The returned values can be one of the four parts of the Hyperlink field ( _displaytext_,  _address_,  _subaddress_, or  _screentip_), the full address,  _address_# _subaddress_, or the value Microsoft Access displays for the hyperlink.
 
 
- **Note**  If you use the  **HyperlinkPart** method in a query, the _part_ argument is required and you can't use the constants listed above but must use the actual value instead.
+ **Note**  If you use the **HyperlinkPart** method in a query, the _part_ argument is required and you can't use the constants listed above but must use the actual value instead.
 
 When a value is provided in the  _displaytext_ part of a Hyperlink field, the value displayed by Microsoft Access will be the same as the _displaytext_ setting. When there's no value in the _displaytext_ part of a Hyperlink field, the value displayed will be the _address_ or _subaddress_ part of the Hyperlink field, depending on which value is first present in the field.
 
-The following table shows the values returned by the  **HyperlinkPart** method for data stored in a Hyperlink field.
+The following table shows the values returned by the **HyperlinkPart** method for data stored in a Hyperlink field.
 
 
 
@@ -104,7 +104,7 @@ Public Sub DisplayHyperlinkParts(ByVal strTable As String, _
 End Sub
 ```
 
-When you use the  **HyperlinkPart** method in a query, the _part_ argument is required. For example, the following SQL statement uses the **HyperlinkPart** method to return information about data stored as a Hyperlink data type in the URL field of the Links table:
+When you use the **HyperlinkPart** method in a query, the _part_ argument is required. For example, the following SQL statement uses the **HyperlinkPart** method to return information about data stored as a Hyperlink data type in the URL field of the Links table:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Height Property (Word)
 
-Returns or sets the height (in points) of the specified shape. Read/write  **Single** .
+Returns or sets the height (in points) of the specified shape. Read/write **Single** .
 
 
 ## Syntax 

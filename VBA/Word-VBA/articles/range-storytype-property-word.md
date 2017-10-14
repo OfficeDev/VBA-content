@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.StoryType Property (Word)
 
-Returns the story type for the specified range, selection, or bookmark. Read-only  **[WdStoryType](wdstorytype-enumeration-word.md)** .
+Returns the story type for the specified range, selection, or bookmark. Read-only **[WdStoryType](wdstorytype-enumeration-word.md)** .
 
 
 ## Syntax

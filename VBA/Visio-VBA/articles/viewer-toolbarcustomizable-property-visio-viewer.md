@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether it is possible to customize the tool
 
  _expression_. **ToolbarCustomizable**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether it is possible to customize the tool
 
 ## Remarks
 
-The default is for the toolbar to be customizable ( **True**). When the toolbar is customizable, right-clicking the toolbar and clicking  **Customize** opens the **Customize Toolbar** dialog box.
+The default is for the toolbar to be customizable ( **True**). When the toolbar is customizable, right-clicking the toolbar and clicking **Customize** opens the **Customize Toolbar** dialog box.
 
 
 ## Example

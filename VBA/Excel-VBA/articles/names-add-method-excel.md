@@ -31,7 +31,7 @@ Defines a new name for a range of cells.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|Specifies the text, in English, to use as the name if the NameLocal parameter is not specified. Names cannot include spaces and cannot be formatted as cell references.|
 | _RefersTo_|Optional| **Variant**|Describes what the name refers to, in English, using A1-style notation, if the RefersToLocal, RefersToR1C1, and RefersToR1C1Local parameters are not specified.<table><tr><th>**Note**</th></tr><tr><td>**Nothing** is returned if the reference does not exist.</td></tr></table>|
-| _Visible_|Optional| **Variant**| **True** specifies that the name is defined as visible. **False** specifies that the name is defined as hidden. A hidden name does not appear in the **Define Name**,  **Paste Name**, or  **Goto** dialog box. The default value is **True** .|
+| _Visible_|Optional| **Variant**| **True** specifies that the name is defined as visible. **False** specifies that the name is defined as hidden. A hidden name does not appear in the **Define Name**, **Paste Name**, or **Goto** dialog box. The default value is **True** .|
 | _MacroType_|Optional| **Variant**|The macro type, determined by one of the following values:<ul><li><p>1 - User-defined function (<b>Function</b>  procedure)</p></li><li><p>2 - Macro (<b>Sub</b>  procedure)</p></li><li><p>3 or omitted - None (the name does not  refer to a user-defined function or macro)</p></li></ul>|
 | _ShortcutKey_|Optional| **Variant**|Specifies the macro shortcut key. Must be a single letter, such as "z" or "Z". Applies only for command macros.|
 | _Category_|Optional| **Variant**|The category of the macro or function if the MacroType argument equals 1 or 2. The category is used in the Function Wizard. Existing categories can be referred to either by number, starting at 1, or by name, in English. Microsoft Office Excel 2007 creates a new category if the specified category does not exist.|
@@ -43,7 +43,7 @@ Defines a new name for a range of cells.
 
 ### Return Value
 
-A  **[Name](name-object-excel.md)** object that represents the new name.
+A **[Name](name-object-excel.md)** object that represents the new name.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ViewTwoPageSpread Property (Publisher)
 
-Returns  **True** if the specified publication should be viewed as a two-page spread. Read/write **Boolean**.
+Returns **True** if the specified publication should be viewed as a two-page spread. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **ViewTwoPageSpread**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

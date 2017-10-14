@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreak Object (Word)
 
-Represents individual line breaks in an equation. Each  **OMathBreak** object is a member of the **[OMathBreaks](omathbreaks-object-word.md)** collection.
+Represents individual line breaks in an equation. Each **OMathBreak** object is a member of the **[OMathBreaks](omathbreaks-object-word.md)** collection.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.RetentionPolicyName Property (Outlook)
 
-Returns a  **String** that specifies the name of the retention policy. Read-only.
+Returns a **String** that specifies the name of the retention policy. Read-only.
 
 
 ## Syntax

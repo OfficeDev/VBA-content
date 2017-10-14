@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.DriverName Property (Access)
 
-Returns a  **String** indicating the name of the driver used by the specified printer. Read-only.
+Returns a **String** indicating the name of the driver used by the specified printer. Read-only.
 
 
 ## Syntax

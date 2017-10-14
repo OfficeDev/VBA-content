@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListBox.GridlineStyleTop Property (Access)
 
-Gets or sets the top gridline style of the specified list box. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified list box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the top gridline style of the specified list box. Read/write  **Byt
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **TopGridlineStyle** property uses the following settings.
 
 
 

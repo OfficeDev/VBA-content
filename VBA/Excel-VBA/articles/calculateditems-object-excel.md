@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # CalculatedItems Object (Excel)
 
-A collection of  **[PivotItem](pivotitem-object-excel.md)** objects that represent all the calculated items in the specified PivotTable report.
+A collection of **[PivotItem](pivotitem-object-excel.md)** objects that represent all the calculated items in the specified PivotTable report.
 
 
 ## Remarks
 
 A PivotTable report that contains January, February, and March items could have a calculated item named "FirstQuarter" defined as the sum of the amounts in January, February, and March.
 
-Use the  **[CalculatedItems](pivotfield-calculateditems-method-excel.md)** method to return the **CalculatedItems** collection.
+Use the **[CalculatedItems](pivotfield-calculateditems-method-excel.md)** method to return the **CalculatedItems** collection.
 
-Use  **CalculatedFields** ( _index_ ), where _index_ is the name or index number of the field, to return a single **[PivotField](pivotfield-object-excel.md)** object from the **[CalculatedFields](calculatedfields-object-excel.md)** collection.
+Use **CalculatedFields** ( _index_ ), where _index_ is the name or index number of the field, to return a single **[PivotField](pivotfield-object-excel.md)** object from the **[CalculatedFields](calculatedfields-object-excel.md)** collection.
 
 
 ## Example

@@ -28,9 +28,9 @@ Versions of Outlook prior to Outlook 2007 have relied on the Object Model Guard 
 
  **In-Process Add-ins**
 
-In-process Outlook add-ins run in the process of the host Outlook program. In-process COM add-ins in Outlook are trusted by default. These COM add-ins are registered on the list of trusted applications by the client computer's administrator, and must use the  **[Application](application-object-outlook.md)** object that is passed to the **OnConnection** event of the add-in. Note that if you create a new **Application** object by using the **[CreateObject](application-createobject-method-outlook.md)** method, that object and any of its subordinate objects, properties, and methods are not trusted.
+In-process Outlook add-ins run in the process of the host Outlook program. In-process COM add-ins in Outlook are trusted by default. These COM add-ins are registered on the list of trusted applications by the client computer's administrator, and must use the **[Application](application-object-outlook.md)** object that is passed to the **OnConnection** event of the add-in. Note that if you create a new **Application** object by using the **[CreateObject](application-createobject-method-outlook.md)** method, that object and any of its subordinate objects, properties, and methods are not trusted.
 
-For more information about the  **OnConnection** event, see the [IDTExtensibility2](http://msdn.microsoft.com/library/frlrfExtensibilityIDTExtensibility2ClassTopic.aspx) documentation on MSDN.
+For more information about the **OnConnection** event, see the [IDTExtensibility2](http://msdn.microsoft.com/library/frlrfExtensibilityIDTExtensibility2ClassTopic.aspx) documentation on MSDN.
 
  **Cross-Process Add-ins**
 
@@ -56,16 +56,16 @@ By default, Outlook relies on the existence and the status of an appropriate ant
 
  **Windows Group Policy**
 
-Administrators can use the Trust Center in Outlook to change the default behavior. To access the Trust Center, select  **Tools** and then **Trust Center**. In the Trust Center, click  **Programmatic Access**. The  **Programmatic Access Security** dialog provides options other than the default behavior.
+Administrators can use the Trust Center in Outlook to change the default behavior. To access the Trust Center, select **Tools** and then **Trust Center**. In the Trust Center, click **Programmatic Access**. The **Programmatic Access Security** dialog provides options other than the default behavior.
 
-The three settings in the  **Programmatic Access Security** dialog are:
+The three settings in the **Programmatic Access Security** dialog are:
 
 
--  **Warn me about suspicious activity when my antivirus software is inactive or out-of-date (recommended)** This setting is the default, and implements the behavior described above. This is the recommended setting for all users.
+- **Warn me about suspicious activity when my antivirus software is inactive or out-of-date (recommended)** This setting is the default, and implements the behavior described above. This is the recommended setting for all users.
     
--  **Always warn me about suspicious activity** This setting will revert Outlook to behave like Outlook 2003, where cross-process COM callers and untrusted add-ins will invoke security warnings.
+- **Always warn me about suspicious activity** This setting will revert Outlook to behave like Outlook 2003, where cross-process COM callers and untrusted add-ins will invoke security warnings.
     
--  **Never warn me about suspicious activity (not recommended)**This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
+- **Never warn me about suspicious activity (not recommended)**This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
     
 These settings are only available if the current user is an administrator on the computer. Non-administrator users can see the current setting but will not be able to change it. Programmatic Access settings can also be controlled through Group Policy. For more information on configuring Outlook settings with Group Policy, see the Office Resource Kit Web site.
 

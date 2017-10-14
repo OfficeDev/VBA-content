@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSetup.VerticalGap Property (Publisher)
 
-Returns a  **Variant** that represents the distance (in points) between the bottom edge of one publication page and top edge of the publication page below it when more than one publication page is printed on a single printer page. Read-only.
+Returns a **Variant** that represents the distance (in points) between the bottom edge of one publication page and top edge of the publication page below it when more than one publication page is printed on a single printer page. Read-only.
 
 
 ## Syntax
 
  _expression_. **VerticalGap**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ Variant
 
 ## Remarks
 
-You can use the  **VerticalGap** property when you want to print multiple pages on a single sheet of printer paper. If the page size, including the values for the **VerticalGap** and **HorizontalGap** properties, is greater than half the paper size, Microsoft Publisher displays an error.
+You can use the **VerticalGap** property when you want to print multiple pages on a single sheet of printer paper. If the page size, including the values for the **VerticalGap** and **HorizontalGap** properties, is greater than half the paper size, Microsoft Publisher displays an error.
 
 

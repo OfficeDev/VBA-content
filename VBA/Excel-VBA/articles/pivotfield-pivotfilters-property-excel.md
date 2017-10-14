@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.PivotFilters Property (Excel)
 
-Returns or sets the PivotFilters for the specified  **PivotField** object. Read-only.
+Returns or sets the PivotFilters for the specified **PivotField** object. Read-only.
 
 
 ## Syntax

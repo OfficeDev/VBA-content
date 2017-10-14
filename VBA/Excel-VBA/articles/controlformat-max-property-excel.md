@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.Max Property (Excel)
 
-Returns or sets the maximum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values greater than this maximum value. Read/write  **Long** .
+Returns or sets the maximum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values greater than this maximum value. Read/write **Long** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The value of the  **Max** property must be greater than the value of the **[Min](controlformat-min-property-excel.md)** property.
+The value of the **Max** property must be greater than the value of the **[Min](controlformat-min-property-excel.md)** property.
 
 
 ## Example

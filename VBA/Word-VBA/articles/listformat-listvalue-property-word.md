@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListValue Property (Word)
 
-Returns the numeric value of the first paragraph in the range for the specified  **ListFormat** object. Read-only **Long** .
+Returns the numeric value of the first paragraph in the range for the specified **ListFormat** object. Read-only **Long** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns the numeric value of the first paragraph in the range for the specified 
 
 ## Remarks
 
-Use the  **ListString** property to return a string that represents the list value.
+Use the **ListString** property to return a string that represents the list value.
 
-If the  **ListFormat** object applies to a bulleted list, the **ListValue** property returns 1.
+If the **ListFormat** object applies to a bulleted list, the **ListValue** property returns 1.
 
-If the  **ListFormat** object applies to an outline-numbered list, the **ListValue** property returns the numeric value of the first paragraph as it occurs in the sequence of paragraphs at the same level. For example, if the first paragraph for a specified ListFormat object were numbered "A.2," the **ListValue** property would return 2.
+If the **ListFormat** object applies to an outline-numbered list, the **ListValue** property returns the numeric value of the first paragraph as it occurs in the sequence of paragraphs at the same level. For example, if the first paragraph for a specified ListFormat object were numbered "A.2," the **ListValue** property would return 2.
 
 This property will not return the value for a LISTNUM field.
 

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # CellRange.Width Property (Publisher)
 
-Returns a  **Long** that represent the width (in cells) of a table, range of cells, or page. Read-only.
+Returns a **Long** that represent the width (in cells) of a table, range of cells, or page. Read-only.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_A variable that represents a **CellRange** object.
 
 

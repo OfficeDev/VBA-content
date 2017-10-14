@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # ToggleButton.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies whether the toggle button is selected. Read/write.
+Returns or sets a **Variant** that specifies whether the toggle button is selected. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_A variable that represents a **ToggleButton** object.
 
 
 ## Remarks
 
-The settings for  **Value** are:
+The settings for **Value** are:
 
 
 

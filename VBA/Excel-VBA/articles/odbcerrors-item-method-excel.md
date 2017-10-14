@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-An  **[ODBCError](odbcerror-object-excel.md)** object contained by the collection.
+An **[ODBCError](odbcerror-object-excel.md)** object contained by the collection.
 
 
 ## Example

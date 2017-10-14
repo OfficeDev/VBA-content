@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-If the indicated window is the only window open for a document and the document contains unsaved changes, an alert appears asking if you want to save the document. You can use the  **AlertResponse** property to prevent the alert from appearing.
+If the indicated window is the only window open for a document and the document contains unsaved changes, an alert appears asking if you want to save the document. You can use the **AlertResponse** property to prevent the alert from appearing.
 
 If you close a docked stencil window, only that window is closed. However, if you close a drawing window that contains docked stencils, the docked stencil window is also closed.
 

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 Returns or sets a value specifying the type of calendar to use with your [project](vbe-glossary.md).
-You can use one of two settings for  **Calendar**:
+You can use one of two settings for **Calendar**:
 
 
 |**Setting**|**Value**|**Description**|
@@ -24,7 +24,7 @@ You can use one of two settings for  **Calendar**:
 |**vbCalGreg**|0|Use Gregorian calendar (default).|
 |**vbCalHijri**|1|Use Hijri calendar.|
  **Remarks**
-You can only set the  **Calendar** property programmatically. For example, to use the Hijri calendar, use:
+You can only set the **Calendar** property programmatically. For example, to use the Hijri calendar, use:
 
 
 

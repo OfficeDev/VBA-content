@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When the  **UserControl** property is **False** for an object, that object is released when the last programmatic reference to the object is released. If this property is **False** , Microsoft Excel quits when the last object in the session is released.
+When the **UserControl** property is **False** for an object, that object is released when the last programmatic reference to the object is released. If this property is **False** , Microsoft Excel quits when the last object in the session is released.
 
 
 ## Example
 
-This example displays the status of the  **UserControl** property.
+This example displays the status of the **UserControl** property.
 
 
 ```vb

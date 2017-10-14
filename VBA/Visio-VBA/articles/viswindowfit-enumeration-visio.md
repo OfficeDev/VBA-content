@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisWindowFit Enumeration (Visio)
 
-Values returned by the  **Window.ViewFit** property.
+Values returned by the **Window.ViewFit** property.
 
 
 

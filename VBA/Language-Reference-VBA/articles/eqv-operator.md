@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to perform a logical equivalence on two [expressions](vbe-glossary.md).
  **Syntax**
  _result_**=**_expression1_ **Eqv** _expression2_
-The  **Eqv** operator syntax has these parts:
+The **Eqv** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,7 +34,7 @@ If either expression is [Null](vbe-glossary.md),  _result_ is also **Null**. Whe
 |**True**|**False**|**False**|
 |**False**|**True**|**False**|
 |**False**|**False**|**True**|
-The  **Eqv** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The **Eqv** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|
@@ -46,7 +46,7 @@ The  **Eqv** operator performs a [bitwise comparison](vbe-glossary.md) of identi
 
 ## Example
 
-This example uses the  **Eqv** operator to perform logical equivalence on two expressions.
+This example uses the **Eqv** operator to perform logical equivalence on two expressions.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.KeysBoundTo Property (Word)
 
-Returns a  **[KeysBoundTo](keysboundto-object-word.md)** object that represents all the key combinations assigned to the specified item.
+Returns a **[KeysBoundTo](keysboundto-object-word.md)** object that represents all the key combinations assigned to the specified item.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Returns a  **[KeysBoundTo](keysboundto-object-word.md)** object that represents 
 |:-----|:-----|:-----|:-----|
 | _KeyCategory_|Required| **WdKeyCategory**|The category of the key combination.|
 | _Command_|Required| **String**|The name of the command.|
-| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For more information, see the "Remarks" section in the  **Add** method for the **KeyBindings** object.|
+| _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For more information, see the "Remarks" section in the **Add** method for the **KeyBindings** object.|
 
 ## Example
 

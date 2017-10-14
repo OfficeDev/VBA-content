@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalResourceTables Property (Project)
 
-Gets or sets a  **[Tables](table-object-project.md)** collection representing the resource tables of the Global.mpt file. Read/write **Tables**.
+Gets or sets a **[Tables](table-object-project.md)** collection representing the resource tables of the Global.mpt file. Read/write **Tables**.
 
 
 ## Syntax

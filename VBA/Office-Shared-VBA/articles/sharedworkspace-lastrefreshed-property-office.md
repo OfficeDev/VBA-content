@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspace.LastRefreshed Property (Office)
 
-Gets the date and time when the  **Refresh** method was most recently called. Read-only.
+Gets the date and time when the **Refresh** method was most recently called. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -28,7 +28,7 @@ Gets the date and time when the  **Refresh** method was most recently called. Re
 
 ## Remarks
 
-The  **LastRefreshed** property raises an error if the **[Refresh](sharedworkspace-refresh-method-office.md)** method has never been called.
+The **LastRefreshed** property raises an error if the **[Refresh](sharedworkspace-refresh-method-office.md)** method has never been called.
 
 
 ## Example

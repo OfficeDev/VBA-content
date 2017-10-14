@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.AddField Method (Visio)
 
-Replaces the text represented by a  **Characters** object with a new field of the category, code, and format you specify.
+Replaces the text represented by a **Characters** object with a new field of the category, code, and format you specify.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Nothing
 
 ## Remarks
 
-Using the  **AddField** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields in the text:
+Using the **AddField** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields in the text:
 
 
 - Date/Time
@@ -55,9 +55,9 @@ Using the  **AddField** method is similar to clicking **Field** on the **Insert*
     
 
 
-To add a custom formula field, use the  **AddCustomField** method.
+To add a custom formula field, use the **AddCustomField** method.
 
-To specify language and calendary versions for Date/Time fields, use the  **AddFieldEx** method.
+To specify language and calendary versions for Date/Time fields, use the **AddFieldEx** method.
 
 Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](visfieldcategories-enumeration-visio.md)** , **[VisFieldCodes](visfieldcodes-enumeration-visio.md)** , and **[VisFieldFormats](visfieldformats-enumeration-visio.md)** respectively.
 

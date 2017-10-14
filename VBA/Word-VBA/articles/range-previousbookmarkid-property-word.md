@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PreviousBookmarkID Property (Word)
 
-Returns the number of the last bookmark that starts before or at the same place as the specified range. Read-only  **Long** .
+Returns the number of the last bookmark that starts before or at the same place as the specified range. Read-only **Long** .
 
 
 ## Syntax

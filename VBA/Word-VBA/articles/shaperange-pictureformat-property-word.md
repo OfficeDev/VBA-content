@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.PictureFormat Property (Word)
 
-Returns a  **PictureFormat** object that contains picture formatting properties for the specified range of shapes. Read-only.
+Returns a **PictureFormat** object that contains picture formatting properties for the specified range of shapes. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
 ## Remarks
 
-Applies to  **ShapeRange** objects that represent pictures or OLE objects.
+Applies to **ShapeRange** objects that represent pictures or OLE objects.
 
 
 ## See also

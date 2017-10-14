@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **IMESentenceMode** property uses the following settings.
+The **IMESentenceMode** property uses the following settings.
 
 
 
@@ -35,7 +35,7 @@ The  **IMESentenceMode** property uses the following settings.
 |Normal|(Default) Set IME Sentence Mode to ?Normal? mode.|0|
 |Plural|Set IME Sentence Mode to ?Plural? mode.|1|
 |Speaking|Set IME Sentence Mode to ?Speaking? mode.|2|
-|No Conversion|Doesn?t set IME Sentence Mode.|3|
+|No Conversion|Doesn't set IME Sentence Mode.|3|
  **Normal mode**
 
 Use this mode when creating a literary Japanese document.

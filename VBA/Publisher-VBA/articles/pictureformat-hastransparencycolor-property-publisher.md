@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.HasTransparencyColor Property (Publisher)
 
-Returns a  **Boolean** that indicates whether a transparency color has been applied to the specified picture. Read-only.
+Returns a **Boolean** that indicates whether a transparency color has been applied to the specified picture. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasTransparencyColor**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value

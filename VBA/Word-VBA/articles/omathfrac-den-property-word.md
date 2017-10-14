@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFrac.Den Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the denominator for an equation that contains a fraction. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the denominator for an equation that contains a fraction. Read-only.
 
 
 ## Syntax

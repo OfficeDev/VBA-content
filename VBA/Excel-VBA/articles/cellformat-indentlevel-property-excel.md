@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.IndentLevel Property (Excel)
 
-Returns or sets a  **Variant** value that represents the indent level for the cell or range. Can be an integer from 0 to 15.
+Returns or sets a **Variant** value that represents the indent level for the cell or range. Can be an integer from 0 to 15.
 
 
 ## Syntax

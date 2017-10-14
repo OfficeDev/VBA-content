@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Sequences Object (PowerPoint)
 
-Represents a collection of  **[Sequence](sequence-object-powerpoint.md)** objects. Use a **Sequence** object to add, find, modify, and clone animation effects.
+Represents a collection of **[Sequence](sequence-object-powerpoint.md)** objects. Use a **Sequence** object to add, find, modify, and clone animation effects.
 
 
 ## Example
 
-Use the [InteractiveSequences](timeline-interactivesequences-property-powerpoint.md)property of the  **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequences** collection. Use the[Add](sequences-add-method-powerpoint.md)method to add an interactive animation sequence. The following example adds two shapes on the first slide of the active presentation and sets interactive effect for the star shape so that when you click the bevel shape, the star shape is be animated.
+Use the [InteractiveSequences](timeline-interactivesequences-property-powerpoint.md)property of the **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequences** collection. Use the[Add](sequences-add-method-powerpoint.md)method to add an interactive animation sequence. The following example adds two shapes on the first slide of the active presentation and sets interactive effect for the star shape so that when you click the bevel shape, the star shape is be animated.
 
 
 ```vb

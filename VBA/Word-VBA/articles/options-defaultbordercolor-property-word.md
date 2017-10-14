@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultBorderColor Property (Word)
 
-Returns or sets the default 24-bit color to use for new  **[Border](border-object-word.md)** objects. Read/write.
+Returns or sets the default 24-bit color to use for new **[Border](border-object-word.md)** objects. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the default 24-bit color to use for new  **[Border](border-objec
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.SubdatasheetHeight Property (Access)
 
-You can use the  **SubdatasheetHeight** property to specify or determine the default display height of a subdatasheet when expanded. Read/write **Integer**.
+You can use the **SubdatasheetHeight** property to specify or determine the default display height of a subdatasheet when expanded. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,15 +25,15 @@ You can use the  **SubdatasheetHeight** property to specify or determine the def
 
 ## Remarks
 
-the  **SubdatasheetHeight** property's value is expressed in twips.
+the **SubdatasheetHeight** property's value is expressed in twips.
 
-To set the  **SubdatasheetHeight** property by using Visual Basic, you must first create the property by using the DAO **CreateProperty** method.
+To set the **SubdatasheetHeight** property by using Visual Basic, you must first create the property by using the DAO **CreateProperty** method.
 
 If the subdatasheet includes more records than the height setting can accommodate, a vertical scrollbar is displayed.
 
-The  **SubdatasheetHeight** property setting includes the New Record row if adding new records is supported. It does not include the column header row or scrollbar region.
+The **SubdatasheetHeight** property setting includes the New Record row if adding new records is supported. It does not include the column header row or scrollbar region.
 
-The  **SubdatasheetHeight** and **SubdatasheetExpanded** properties take effect on the subform control when the form is in datasheet view.
+The **SubdatasheetHeight** and **SubdatasheetExpanded** properties take effect on the subform control when the form is in datasheet view.
 
 
 ## Example

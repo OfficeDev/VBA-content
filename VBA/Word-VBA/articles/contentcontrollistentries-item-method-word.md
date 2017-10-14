@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControlListEntries.Item Method (Word)
 
-Returns a  **ContentControlListEntry** object that represents the specified item in the collection.
+Returns a **ContentControlListEntry** object that represents the specified item in the collection.
 
 
 ## Syntax

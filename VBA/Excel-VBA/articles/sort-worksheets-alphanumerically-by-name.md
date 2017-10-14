@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Sort Worksheets Alphanumerically by Name
 
-The following example shows how to sort the worksheets in a workbook alphanumerically based on the name of the sheet by using the  **[Name](worksheet-name-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object.
+The following example shows how to sort the worksheets in a workbook alphanumerically based on the name of the sheet by using the **[Name](worksheet-name-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
 

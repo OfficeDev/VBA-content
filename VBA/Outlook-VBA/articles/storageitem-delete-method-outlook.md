@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Delete Method (Outlook)
 
-Permanently removes the  **[StorageItem](storageitem-object-outlook.md)** object from the parent folder.
+Permanently removes the **[StorageItem](storageitem-object-outlook.md)** object from the parent folder.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Permanently removes the  **[StorageItem](storageitem-object-outlook.md)** object
 
 ## Remarks
 
-This call allows a solution to clean up or reset the storage for its private data. Attempting to delete a  **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
+This call allows a solution to clean up or reset the storage for its private data. Attempting to delete a **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
 
-For more information on deleting solution data stored in a  **StorageItem** object, see[Updating and Deleting Solution Storage](http://msdn.microsoft.com/library/ac1b1e9f-25d2-4157-c237-318e2e7c5f6b%28Office.15%29.aspx).
+For more information on deleting solution data stored in a **StorageItem** object, see[Updating and Deleting Solution Storage](http://msdn.microsoft.com/library/ac1b1e9f-25d2-4157-c237-318e2e7c5f6b%28Office.15%29.aspx).
 
 
 ## Example
 
-The following code sample in Visual Basic for Applications shows how to clean up any existing  **StorageItem** object that has the specified subject, create a new instance with the same subject, assign a value to a custom property, and save the new instance.
+The following code sample in Visual Basic for Applications shows how to clean up any existing **StorageItem** object that has the specified subject, create a new instance with the same subject, assign a value to a custom property, and save the new instance.
 
 
 ```vb

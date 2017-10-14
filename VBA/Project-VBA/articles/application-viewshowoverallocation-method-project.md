@@ -30,6 +30,6 @@ Displays overallocation information in the active Resource Graph view.
 
 ## Remarks
 
-The  **ViewShowOverallocation** method has no effect unless the active window contains the Resource Graph view.
+The **ViewShowOverallocation** method has no effect unless the active window contains the Resource Graph view.
 
 

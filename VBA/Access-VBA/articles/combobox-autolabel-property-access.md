@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.AutoLabel Property (Access)
 
-Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
+Specifies whether labels are automatically created and attached to new controls. Read/write **Boolean**.
 
 
 ## Syntax

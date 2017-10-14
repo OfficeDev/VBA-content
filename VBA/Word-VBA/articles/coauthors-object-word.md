@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # CoAuthors Object (Word)
 
-A collection of all the  **[CoAuthor](coauthor-object-word.md)** objects in the document.
+A collection of all the **[CoAuthor](coauthor-object-word.md)** objects in the document.
 
 
 ## Remarks
 
-The  **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
+The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
 ## Example

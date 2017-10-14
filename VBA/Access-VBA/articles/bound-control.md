@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-A bound control is a control on a form or report that gets its contents from a field in the underlying table, query, or SQL statement. (The control's  **ControlSource** property is set to a field name in the table, query, or SQL statement.) For example, a text box that displays an employee's last name is bound to the LastName field in the Employees table.
+A bound control is a control on a form or report that gets its contents from a field in the underlying table, query, or SQL statement. (The control's **ControlSource** property is set to a field name in the table, query, or SQL statement.) For example, a text box that displays an employee's last name is bound to the LastName field in the Employees table.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

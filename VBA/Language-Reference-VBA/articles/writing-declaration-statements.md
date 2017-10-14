@@ -25,9 +25,9 @@ Sub ApplyFormat()
 End Sub
 ```
 
-The  **Sub** statement (with matching **End Sub** statement) declares a procedure named `ApplyFormat`. All the statements enclosed by the  **Sub** and **End Sub** statements are executed whenever the `ApplyFormat` procedure is called or run.
-The  **Const** statement declares the constant `limit` specifying the **Integer** data type and a value of 33.
-The  **Dim** statement declares the `myCell` variable. The data type is an object, in this case, a Microsoft Excel **Range** object. You can declare a variable to be any object that is exposed in the application you are using. **Dim** statements are one type of statement used to declare variables. Other keywords used in declarations are **ReDim**, **Static**, **Public**, **Private**, and **Const**.
+The **Sub** statement (with matching **End Sub** statement) declares a procedure named `ApplyFormat`. All the statements enclosed by the **Sub** and **End Sub** statements are executed whenever the `ApplyFormat` procedure is called or run.
+The **Const** statement declares the constant `limit` specifying the **Integer** data type and a value of 33.
+The **Dim** statement declares the `myCell` variable. The data type is an object, in this case, a Microsoft Excel **Range** object. You can declare a variable to be any object that is exposed in the application you are using. **Dim** statements are one type of statement used to declare variables. Other keywords used in declarations are **ReDim**, **Static**, **Public**, **Private**, and **Const**.
 
 ## See also
 

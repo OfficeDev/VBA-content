@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.CanAddSignatureLine Property (Office)
 
-Gets a  **Boolean** value indicating whether you can add a signature line to a document. Read-only.
+Gets a **Boolean** value indicating whether you can add a signature line to a document. Read-only.
 
 
 ## Syntax

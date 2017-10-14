@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ContainingShape Property (Visio)
 
-Returns the  **Shape** object that contains an object or collection. Read-only.
+Returns the **Shape** object that contains an object or collection. Read-only.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ Shape
 
 ## Remarks
 
-If the  **Shape** object is the member of a group, the **ContainingShape** property returns that group.
+If the **Shape** object is the member of a group, the **ContainingShape** property returns that group.
 
-If the  **Shape** object is a top-level shape in its **Page** or **Master** object (it is not a member of a group), the **ContainingShape** property returns the page sheet of its page or master.
+If the **Shape** object is a top-level shape in its **Page** or **Master** object (it is not a member of a group), the **ContainingShape** property returns the page sheet of its page or master.
 
-If the  **Shape** object is the page sheet of a page or master, the **ContainingShape** property returns **Nothing** .
+If the **Shape** object is the page sheet of a page or master, the **ContainingShape** property returns **Nothing** .
 
 

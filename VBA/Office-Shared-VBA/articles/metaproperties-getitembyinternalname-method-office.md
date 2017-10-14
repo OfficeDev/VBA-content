@@ -43,7 +43,7 @@ Metadata is information about a document that can be used to identify particular
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then retrieves the value of one of its properties and assigns it to a **MetaProperty** object. Finally, the property is validated and the results are returned.
+In the following example, a **MetaProperties** object is passed to a validation function. The function then retrieves the value of one of its properties and assigns it to a **MetaProperty** object. Finally, the property is validated and the results are returned.
 
 
 ```

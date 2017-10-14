@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Glow Property (Project)
-Gets a  **GlowFormat** object for the shape range, if the shape range contains glow formatting properties. Read-only **[GlowFormat](http://msdn.microsoft.com/en-us/library/office/ff864010%28v=office.15%29)**.
+Gets a **GlowFormat** object for the shape range, if the shape range contains glow formatting properties. Read-only **[GlowFormat](http://msdn.microsoft.com/en-us/library/office/ff864010%28v=office.15%29)**.
 
 ## Syntax
 

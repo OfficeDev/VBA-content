@@ -38,18 +38,18 @@ Nothing
 
 ## Remarks
 
-The file name extension indicates which export filter to use. If the filter is not installed, the  **Export** method returns a compiler error in your Visual Basic or VBA project. The **Export** method uses the default preference settings for the specified filter and does not prompt the user for non-default arguments.
+The file name extension indicates which export filter to use. If the filter is not installed, the **Export** method returns a compiler error in your Visual Basic or VBA project. The **Export** method uses the default preference settings for the specified filter and does not prompt the user for non-default arguments.
 
-The  **Export** method of a **Page** object supports saving to HTML file format using the extension .htm or .html. When pages are exported, Visio uses the settings that were last selected in the **Save As** dialog box.
+The **Export** method of a **Page** object supports saving to HTML file format using the extension .htm or .html. When pages are exported, Visio uses the settings that were last selected in the **Save As** dialog box.
 
 If the specified file already exists, Visio replaces it without prompting the user.
 
-Starting with Visio, you can use various properties and methods of the  **[ApplicationSettings](applicationsettings-object-visio.md)** object that relate to raster images to configure settings for export to .bmp, .gif, .jpg, .png, and .tif file types.
+Starting with Visio, you can use various properties and methods of the **[ApplicationSettings](applicationsettings-object-visio.md)** object that relate to raster images to configure settings for export to .bmp, .gif, .jpg, .png, and .tif file types.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVPage.Export(string)**
+- **Microsoft.Office.Interop.Visio.IVPage.Export(string)**
     
 
 ## Example

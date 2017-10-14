@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.FileName Property (Access)
 
-Returns the full file name of the specified attachment. Read-only  **String**.
+Returns the full file name of the specified attachment. Read-only **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlCalendarMailFormat Enumeration (Outlook)
 
-Determines the format of the calendar information in the body of the  **[MailItem](mailitem-object-outlook.md)** created by the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method.
+Determines the format of the calendar information in the body of the **[MailItem](mailitem-object-outlook.md)** created by the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method.
 
 
 

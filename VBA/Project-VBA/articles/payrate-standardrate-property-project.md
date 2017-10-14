@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRate.StandardRate Property (Project)
 
-Gets or sets the standard rate of the pay rate. Read/write  **Variant**.
+Gets or sets the standard rate of the pay rate. Read/write **Variant**.
 
 
 ## Syntax

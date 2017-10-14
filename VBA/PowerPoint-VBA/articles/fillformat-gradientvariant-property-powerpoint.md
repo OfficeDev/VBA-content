@@ -32,9 +32,9 @@ Long
 
  If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2.
 
-The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** subtab in the **Shape Fill** tab. **Long**.
+The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** subtab in the **Shape Fill** tab. **Long**.
 
-This property is read-only. Use the [OneColorGradient](fillformat-onecolorgradient-method-powerpoint.md), [PresetGradient](fillformat-presetgradient-method-powerpoint.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-powerpoint.md)** method to set the gradient variant for the fill.
+This property is read-only. Use the [OneColorGradient](fillformat-onecolorgradient-method-powerpoint.md), [PresetGradient](fillformat-presetgradient-method-powerpoint.md), or **[TwoColorGradient](fillformat-twocolorgradient-method-powerpoint.md)** method to set the gradient variant for the fill.
 
 
 ## Example

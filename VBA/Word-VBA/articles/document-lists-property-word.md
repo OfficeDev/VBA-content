@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Lists Property (Word)
 
-Returns a  **[Lists](lists-object-word.md)** collection that contains all the formatted lists in the specified document. Read-only.
+Returns a **[Lists](lists-object-word.md)** collection that contains all the formatted lists in the specified document. Read-only.
 
 
 ## Syntax

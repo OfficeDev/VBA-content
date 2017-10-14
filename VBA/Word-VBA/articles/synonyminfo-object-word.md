@@ -18,14 +18,14 @@ Represents the information about synonyms, antonyms, related words, or related e
 
 ## Remarks
 
-Use the  **SynonymInfo** property to return a **SynonymInfo** object. The **SynonymInfo** object can be returned either from a range or from Microsoft Office Word. If it is returned from Word, you specify the lookup word or phrase and a proofing language ID. If it is returned from a range, Word uses the specified range as the lookup word. The following example returns a **SynonymInfo** object from Word.
+Use the **SynonymInfo** property to return a **SynonymInfo** object. The **SynonymInfo** object can be returned either from a range or from Microsoft Office Word. If it is returned from Word, you specify the lookup word or phrase and a proofing language ID. If it is returned from a range, Word uses the specified range as the lookup word. The following example returns a **SynonymInfo** object from Word.
 
 
 ```
 temp = SynonymInfo(Word:="meant", LanguageID:=wdEnglishUS).Found
 ```
 
-The following example returns a  **SynonymInfo** object from a range.
+The following example returns a **SynonymInfo** object from a range.
 
 
 
@@ -34,9 +34,9 @@ The following example returns a  **SynonymInfo** object from a range.
 temp = Selection.Range.SynonymInfo.Found
 ```
 
-The  **Found** property, used in the preceding examples, returns **True** if any information is found in the thesaurus for the specified range or for Word. Note, however, that this property returns **True** not only if synonyms are found but also if related words, related expressions, or antonyms are found.
+The **Found** property, used in the preceding examples, returns **True** if any information is found in the thesaurus for the specified range or for Word. Note, however, that this property returns **True** not only if synonyms are found but also if related words, related expressions, or antonyms are found.
 
-Many of the properties of the  **SynonymInfo** object return a **Variant** that contains an array of strings. When working with these properties, you can assign the returned array to a variable and then index the variable to see the elements in the array. In the following example, _Slist_ is assigned the synonym list for the first meaning of the selected word or phrase. The **UBound** function finds the upper bound of the array, and then each element is displayed in a message box.
+Many of the properties of the **SynonymInfo** object return a **Variant** that contains an array of strings. When working with these properties, you can assign the returned array to a variable and then index the variable to see the elements in the array. In the following example, _Slist_ is assigned the synonym list for the first meaning of the selected word or phrase. The **UBound** function finds the upper bound of the array, and then each element is displayed in a message box.
 
 
 
@@ -48,7 +48,7 @@ For i = 1 To UBound(Slist)
 Next i
 ```
 
-You can check the value of the  **MeaningCount** property to prevent potential errors in your code. The following example returns a list of synonyms for the second meaning for the word or phrase in the selection and displays these synonyms in the **Immediate** pane.
+You can check the value of the **MeaningCount** property to prevent potential errors in your code. The following example returns a list of synonyms for the second meaning for the word or phrase in the selection and displays these synonyms in the **Immediate** pane.
 
 
 

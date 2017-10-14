@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MenuItem.MenuItems Property (Visio)
 
-Returns the  **MenuItems** collection of a **MenuItem** object. Read-only.
+Returns the **MenuItems** collection of a **MenuItem** object. Read-only.
 
 
 ## Syntax
@@ -33,14 +33,14 @@ MenuItems
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If a  **Menu** object represents a hierarchical menu, its **MenuItems** collection contains submenu items. Otherwise, its **MenuItems** collection is empty.
+If a **Menu** object represents a hierarchical menu, its **MenuItems** collection contains submenu items. Otherwise, its **MenuItems** collection is empty.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Menus** property to get the **Menus** collection of a **MenuSet** object. It adds a menu and menu item to the user interface and sets the **Caption** property of the menu and menu item.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Menus** property to get the **Menus** collection of a **MenuSet** object. It adds a menu and menu item to the user interface and sets the **Caption** property of the menu and menu item.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

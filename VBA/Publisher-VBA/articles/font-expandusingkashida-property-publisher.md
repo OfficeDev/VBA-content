@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.ExpandUsingKashida Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether to apply kashida rules while applying tracking to Arabic text. Read/write.
+Returns or sets an **MsoTriState** constant indicating whether to apply kashida rules while applying tracking to Arabic text. Read/write.
 
 
 ## Syntax
 
  _expression_. **ExpandUsingKashida**
 
- _expression_A variable that represents an  **Font** object.
+ _expression_A variable that represents an **Font** object.
 
 
 ### Return Value
@@ -30,15 +30,15 @@ MsoTriState
 
 ## Remarks
 
-The  **ExpandUsingKashida** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **ExpandUsingKashida** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**| Microsoft Publisher does not apply kashida rules while applying tracking to Arabic text.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified text range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified text range.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| Publisher does apply kashida rules while applying tracking to Arabic text.|
 
 ## Example

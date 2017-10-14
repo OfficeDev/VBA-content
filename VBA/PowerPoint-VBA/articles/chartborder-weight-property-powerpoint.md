@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartBorder.Weight Property (PowerPoint)
 
-Returns or sets the weight of the border. Read/write  **[XlBorderWeight](xlborderweight-enumeration-powerpoint.md)**.
+Returns or sets the weight of the border. Read/write **[XlBorderWeight](xlborderweight-enumeration-powerpoint.md)**.
 
 
 ## Syntax

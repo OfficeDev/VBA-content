@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.PaperBin Property (Access)
 
-Returns or sets an  **[AcPrintPaperBin](acprintpaperbin-enumeration-access.md)** constant indicating which paper bin the specified printer should use. Read/write.
+Returns or sets an **[AcPrintPaperBin](acprintpaperbin-enumeration-access.md)** constant indicating which paper bin the specified printer should use. Read/write.
 
 
 ## Syntax

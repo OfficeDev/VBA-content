@@ -38,12 +38,12 @@ Deletes a Gantt bar style from the active Gantt Chart.
 
 ## Remarks
 
-To manually show the  **Bar Styles** dialog box, click the **Format** tab under the **Gantt Chart Tools** tab. In the **Bar Styles** group, click **Bar Styles** in the **Format** drop-down list. The **Bar Styles** dialog box can contain up to 200 style entries.
+To manually show the **Bar Styles** dialog box, click the **Format** tab under the **Gantt Chart Tools** tab. In the **Bar Styles** group, click **Bar Styles** in the **Format** drop-down list. The **Bar Styles** dialog box can contain up to 200 style entries.
 
 
 ## Example
 
-The following command deletes style number 41 in the  **Bar Styles** dialog box.
+The following command deletes style number 41 in the **Bar Styles** dialog box.
 
 
 ```

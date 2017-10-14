@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.HomeAddress Property (Outlook)
 
-Returns or sets a  **String** representing the full, unparsed text of the home address for the contact. Read/write.
+Returns or sets a **String** representing the full, unparsed text of the home address for the contact. Read/write.
 
 
 ## Syntax

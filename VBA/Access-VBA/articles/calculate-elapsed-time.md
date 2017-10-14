@@ -32,7 +32,7 @@ Valid time values range from .0 (00:00:00) to .99999 (23:59:59). The numeric val
 
 Because a time value is stored as a fraction of a 24-hour day, you may receive incorrect formatting results when you calculate time intervals greater than 24 hours. To work around this behavior, you can create a user-defined function to ensure that time intervals are formatted correctly. 
 
-The following procedure illustrates how to use the  **Format** function to format time intervals. The procedure accepts two time values and prints their the interval between them to the Immediate window in several different formats.
+The following procedure illustrates how to use the **Format** function to format time intervals. The procedure accepts two time values and prints their the interval between them to the Immediate window in several different formats.
 
 
 
@@ -71,18 +71,18 @@ End Function
 
 ## Comparing Date Data
 
-Because dates and times are stored together as double-precision numbers, you may receive unexpected results when you compare Date/Time data. For example, if you type the following expression in the Immediate window , you receive a  **False** (0) result even if today's date is 7/11/2006:
+Because dates and times are stored together as double-precision numbers, you may receive unexpected results when you compare Date/Time data. For example, if you type the following expression in the Immediate window , you receive a **False** (0) result even if today's date is 7/11/2006:
 
 
 ```vb
 ? Now()=DateValue("7/11/2006")
 ```
 
-The  **[Now](http://msdn.microsoft.com/library/8F324994-2518-0C83-76C7-22CD67033B36%28Office.15%29.aspx)** function returns a double-precision number representing the current date and time. However, the **[DateValue](http://msdn.microsoft.com/library/8C9BD3D6-1614-EEB0-0714-4730EEEB1B95%28Office.15%29.aspx)** function returns an integer number representing the date but not a fractional time value. As a result, **Now** equals **DateValue** only when **Now** returns a time of 00:00:00 (12:00:00 A.M.).
+The **[Now](http://msdn.microsoft.com/library/8F324994-2518-0C83-76C7-22CD67033B36%28Office.15%29.aspx)** function returns a double-precision number representing the current date and time. However, the **[DateValue](http://msdn.microsoft.com/library/8C9BD3D6-1614-EEB0-0714-4730EEEB1B95%28Office.15%29.aspx)** function returns an integer number representing the date but not a fractional time value. As a result, **Now** equals **DateValue** only when **Now** returns a time of 00:00:00 (12:00:00 A.M.).
 
 To receive accurate results when you compare date values, use one of the following functions. To test each function, type it in the Immediate window, substitute the current date for 7/11/2006, and then press ENTER: 
 
-To return an integer value, use the  **[Date](http://msdn.microsoft.com/library/8AFD02C8-C5B5-F8F3-FF8E-9A2AC0EA94B9%28Office.15%29.aspx)** function:
+To return an integer value, use the **[Date](http://msdn.microsoft.com/library/8AFD02C8-C5B5-F8F3-FF8E-9A2AC0EA94B9%28Office.15%29.aspx)** function:
 
 
 
@@ -91,7 +91,7 @@ To return an integer value, use the  **[Date](http://msdn.microsoft.com/library/
 ?Date()=DateValue("7/11/2006")
 ```
 
-To remove the fractional portion of the  **Now** function, use the **[Int](http://msdn.microsoft.com/library/32CE40AC-FDF8-BD6D-E7F9-154C480A9602%28Office.15%29.aspx)** function:
+To remove the fractional portion of the **Now** function, use the **[Int](http://msdn.microsoft.com/library/32CE40AC-FDF8-BD6D-E7F9-154C480A9602%28Office.15%29.aspx)** function:
 
 
 
@@ -103,7 +103,7 @@ To remove the fractional portion of the  **Now** function, use the **[Int](http:
 
 ## Comparing Time Data
 
-When you compare time values, you may receive inconsistent results because a time value is stored as the fractional portion of a double-precision, floating-point number. For example, if you type the following expression in the Immediate window, you receive a  **False** (0) result even though the two time values look the same:
+When you compare time values, you may receive inconsistent results because a time value is stored as the fractional portion of a double-precision, floating-point number. For example, if you type the following expression in the Immediate window, you receive a **False** (0) result even though the two time values look the same:
 
 
 ```
@@ -112,7 +112,7 @@ var2 = DateAdd("n", 10, var1)
 ? var2 = #2:11:00 PM# 
 ```
 
-When Access converts a time value to a fraction, the calculated result may not be the exact equivalent of the time value. The small difference caused by the calculation is enough to produce a  **False** (0) result when you compare a stored value to a constant value.
+When Access converts a time value to a fraction, the calculated result may not be the exact equivalent of the time value. The small difference caused by the calculation is enough to produce a **False** (0) result when you compare a stored value to a constant value.
 
 To receive accurate results when you compare time values, use one of the following methods. To test each method, type it in the Immediate window, and then press ENTER: 
 
@@ -127,7 +127,7 @@ var2 = DateAdd("n", 10, var1)
 ? var2 = #7/11/2006 2:10:00 PM#
 ```
 
-Convert the time values to  **String** data types before you compare them:
+Convert the time values to **String** data types before you compare them:
 
 
 
@@ -138,7 +138,7 @@ var2 = DateAdd("n", 10, var1)
 ? CStr(var2) = CStr(#2:10:00 PM#)
 ```
 
-Use the  **[DateDiff](http://msdn.microsoft.com/library/15C9DF5F-1403-B6A5-71B9-611E9820D804%28Office.15%29.aspx)** function to compare precise units such as seconds:
+Use the **[DateDiff](http://msdn.microsoft.com/library/15C9DF5F-1403-B6A5-71B9-611E9820D804%28Office.15%29.aspx)** function to compare precise units such as seconds:
 
 
 

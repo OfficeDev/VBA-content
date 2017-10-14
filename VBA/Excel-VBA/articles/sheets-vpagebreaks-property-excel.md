@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sheets.VPageBreaks Property (Excel)
 
-Returns a  **[VPageBreaks](sheets-vpagebreaks-property-excel.md)** collection that represents the vertical page breaks on the sheet. Read-only.
+Returns a **[VPageBreaks](sheets-vpagebreaks-property-excel.md)** collection that represents the vertical page breaks on the sheet. Read-only.
 
 
 ## Syntax

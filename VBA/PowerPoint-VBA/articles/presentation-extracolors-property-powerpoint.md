@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.ExtraColors Property (PowerPoint)
 
-Returns an  **[ExtraColors](extracolors-object-powerpoint.md)** object that represents the extra colors available in the specified presentation. Read-only.
+Returns an **[ExtraColors](extracolors-object-powerpoint.md)** object that represents the extra colors available in the specified presentation. Read-only.
 
 
 ## Syntax

@@ -18,9 +18,9 @@ This object represents a navigation button in a navigation control on a form.
 
 ## Remarks
 
-When you click a navigation button, the form or report specified in the  **[NavigationTargetName](navigationbutton-navigationtargetname-property-access.md)** is displayed. You can use the **[NavigationWhereClause](navigationbutton-navigationwhereclause-property-access.md)** to filter the records displayed on the form.
+When you click a navigation button, the form or report specified in the **[NavigationTargetName](navigationbutton-navigationtargetname-property-access.md)** is displayed. You can use the **[NavigationWhereClause](navigationbutton-navigationwhereclause-property-access.md)** to filter the records displayed on the form.
 
-Use the  **[Tabs](navigationcontrol-tabs-property-access.md)** property of the **[NavigationControl](navigationcontrol-object-access.md)** object to return the collection of navigation buttons for a navigation control. Use **[SelectedTab](navigationcontrol-selectedtab-property-access.md)** property of the **[NavigationControl](navigationcontrol-object-access.md)** object to return the navigation button that is currently selected.
+Use the **[Tabs](navigationcontrol-tabs-property-access.md)** property of the **[NavigationControl](navigationcontrol-object-access.md)** object to return the collection of navigation buttons for a navigation control. Use **[SelectedTab](navigationcontrol-selectedtab-property-access.md)** property of the **[NavigationControl](navigationcontrol-object-access.md)** object to return the navigation button that is currently selected.
 
 
 ## Events

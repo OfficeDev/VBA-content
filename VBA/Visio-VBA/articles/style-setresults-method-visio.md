@@ -32,7 +32,7 @@ Sets the results or formulas of one or more cells.
 | _SID_SRCStream()_|Required| **Integer**|An array identifying cells to be modified.|
 | _UnitsNamesOrCodes()_|Required| **Variant**|An array of measurement units to be attributed to entries in the results array.|
 | _resultArray()_|Required| **Variant**|Results or formulas to be assigned to identified cells.|
-| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetResults** .|
+| _Flags_|Required| **Integer**|Flags that influence the behavior of **SetResults** .|
 
 ### Return Value
 
@@ -41,11 +41,11 @@ Integer
 
 ## Remarks
 
-The  **SetResults** method is like the **Result** method of a **Cell** object, except that it can be used to set the results (values) of many cells at once, rather than one cell at a time.
+The **SetResults** method is like the **Result** method of a **Cell** object, except that it can be used to set the results (values) of many cells at once, rather than one cell at a time.
 
-For  **Style** objects, you can use the **SetResults** method to set results of any set of cells. You tell the **SetResults** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
+For **Style** objects, you can use the **SetResults** method to set results of any set of cells. You tell the **SetResults** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
 
-For  **Style** objects, _SID_SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for _n_ >= 1. The **SetResults** method interprets the stream as:
+For **Style** objects, _SID_SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for _n_ >= 1. The **SetResults** method interprets the stream as:
 
 
 
@@ -72,14 +72,14 @@ The  _Flags_ parameter should be a bitmask of the following values.
 | **visSetBlastGuards**|&;H2|Override present cell values even if they're guarded.|
 | **visSetTestCircular**|&;H4|Test for establishment of circular cell references.|
 | **visSetUniversalSyntax**|&;H8|Formulas are in universal syntax|
-The value returned by the  **SetResults** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i < n_ entries are processed correctly, but an error occurs on the _i_ + 1st entry, the **SetResults** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
+The value returned by the **SetResults** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i < n_ entries are processed correctly, but an error occurs on the _i_ + 1st entry, the **SetResults** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
 
 
 ## Example
 
-The following example shows how to use the  **SetResults** method. This example assumes there is an active page that has at least 3 shapes on it. It uses the **GetResults** method to get the width of shape 1, the height of shape 2, and the angle of shape 3. It then uses **SetResults** to set the width of shape 1 to the height of shape 2 and the height of shape 2 to the width of shape 1.The angle of shape 3 is left unaltered.
+The following example shows how to use the **SetResults** method. This example assumes there is an active page that has at least 3 shapes on it. It uses the **GetResults** method to get the width of shape 1, the height of shape 2, and the angle of shape 3. It then uses **SetResults** to set the width of shape 1 to the height of shape 2 and the height of shape 2 to the width of shape 1.The angle of shape 3 is left unaltered.
 
-This example uses the  **GetResults** method of the **Page** object to get 3 cell formulas and the **SetResults** method of the same object to set the formulas. The input array has 4 slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only 3 slots are needed for each cell (section, row, and cell).
+This example uses the **GetResults** method of the **Page** object to get 3 cell formulas and the **SetResults** method of the same object to set the formulas. The input array has 4 slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only 3 slots are needed for each cell (section, row, and cell).
 
 
 

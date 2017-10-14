@@ -29,9 +29,9 @@ Occurs when a chart element is selected.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ElementID_|Required| **Long**|The selected chart element. For more information about these arguments, see the  **[BeforeDoubleClick](chart-beforedoubleclick-event-excel.md)** event.|
-| _Arg1_|Required| **Long**|The selected chart element. For more information about these arguments, see the  **BeforeDoubleClick** event.|
-| _Arg2_|Required| **Long**|The selected chart element. For more information about these arguments, see the  **BeforeDoubleClick** event.|
+| _ElementID_|Required| **Long**|The selected chart element. For more information about these arguments, see the **[BeforeDoubleClick](chart-beforedoubleclick-event-excel.md)** event.|
+| _Arg1_|Required| **Long**|The selected chart element. For more information about these arguments, see the **BeforeDoubleClick** event.|
+| _Arg2_|Required| **Long**|The selected chart element. For more information about these arguments, see the **BeforeDoubleClick** event.|
 
 ## Example
 

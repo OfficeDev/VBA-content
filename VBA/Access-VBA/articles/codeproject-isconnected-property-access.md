@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.IsConnected Property (Access)
 
-You can use the  **IsConnected** property to determine if the **[CodeProject](codeproject-object-access.md)** object is currently connected. Read-only **Boolean**.
+You can use the **IsConnected** property to determine if the **[CodeProject](codeproject-object-access.md)** object is currently connected. Read-only **Boolean**.
 
 
 ## Syntax

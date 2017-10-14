@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Resource.EnterpriseCheckedOutBy Property (Project)
 
-Gets the name of the user who has the enterprise resource checked out. Read-only  **String**.
+Gets the name of the user who has the enterprise resource checked out. Read-only **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the name of the user who has the enterprise resource checked out. Read-only
 
 ## Remarks
 
-The  **EnterpriseCheckedOutBy** property is available only in Project Professional.
+The **EnterpriseCheckedOutBy** property is available only in Project Professional.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.ShrinkToFit Property (Excel)
 
-Returns a value that indicates if Microsoft Excel automatically shrinks text to fit in the available column width of the associated  **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if Microsoft Excel automatically shrinks text to fit in the available column width of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if text automatically shrinks to fit in the available column width.
+Returns **True** if text automatically shrinks to fit in the available column width.
 
 
 ## See also

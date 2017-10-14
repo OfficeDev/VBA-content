@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.PrimarySmtpAddress Property (Outlook)
 
-Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
+Returns a **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the primary Simple Mail Transfer Protocol (SM
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagEmailAddress** .
+This property corresponds to the MAPI property, **PidTagEmailAddress** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

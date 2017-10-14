@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.Move Method (Office)
 
-Moves a record in a return set from a  **OfficeDataSourceObject** object from one position to another.
+Moves a record in a return set from a **OfficeDataSourceObject** object from one position to another.
 
 
 ## Syntax

@@ -29,8 +29,8 @@ Copies the selected object to the Clipboard as a picture.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](xlpictureappearance-enumeration-excel.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen** .|
-| _Format_|Optional| **[XlCopyPictureFormat](xlcopypictureformat-enumeration-excel.md)**|. The format of the picture. The default value is  **xlPicture** .|
+| _Appearance_|Optional| **[XlPictureAppearance](xlpictureappearance-enumeration-excel.md)**|. Specifies how the picture should be copied. The default value is **xlScreen** .|
+| _Format_|Optional| **[XlCopyPictureFormat](xlcopypictureformat-enumeration-excel.md)**|. The format of the picture. The default value is **xlPicture** .|
 
 ### Return Value
 

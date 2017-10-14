@@ -12,18 +12,18 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Specify the following settings to use a custom  **DataFactory** handler.
+Specify the following settings to use a custom **DataFactory** handler.
 
 
-- Specify "Provider=MS Remote" in the  **Connection** object **Provider** property or the **Connection** object connection string " **Provider=** " keyword.
+- Specify "Provider=MS Remote" in the **Connection** object **Provider** property or the **Connection** object connection string " **Provider=** " keyword.
     
-- Set the  **CursorLocation** property to **adUseClient**.
+- Set the **CursorLocation** property to **adUseClient**.
     
-- Specify the name of the handler to use in the RDS.DataControl object's  **Handler** property, or the **Recordset** object's connection string " **Handler=** " keyword. (You cannot set the handler in the **Connection** object connect string.)
+- Specify the name of the handler to use in the RDS.DataControl object's **Handler** property, or the **Recordset** object's connection string " **Handler=** " keyword. (You cannot set the handler in the **Connection** object connect string.)
     
-RDS provides a default handler on the server named  **MSDFMAP.Handler**. (The default customization file is named **MSDFMAP.INI**.)
+RDS provides a default handler on the server named **MSDFMAP.Handler**. (The default customization file is named **MSDFMAP.INI**.)
  **Example**
-Assume that the following sections in  **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
+Assume that the following sections in **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
 
 
 
@@ -63,7 +63,7 @@ Dim rs as New ADODB.Recordset
 rs.CursorLocation = adUseClient
 ```
 
-Specify either the  **Handler** property or keyword; the **Provider** property or keyword; and the _CustomerById_ and _CustomerDatabase_ identifiers. Then open the **Recordset** object.
+Specify either the **Handler** property or keyword; the **Provider** property or keyword; and the _CustomerById_ and _CustomerDatabase_ identifiers. Then open the **Recordset** object.
 
 
 ```

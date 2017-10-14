@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Sequence Object (PowerPoint)
 
-Represents a collection of  **[Effect](effect-object-powerpoint.md)** objects for a slide's interactive animation sequences. The **Sequence** collection is a member of the **[Sequences](sequences-object-powerpoint.md)** collection.
+Represents a collection of **[Effect](effect-object-powerpoint.md)** objects for a slide's interactive animation sequences. The **Sequence** collection is a member of the **[Sequences](sequences-object-powerpoint.md)** collection.
 
 
 ## Example
 
-Use the [MainSequence](timeline-mainsequence-property-powerpoint.md)property of the  **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequence** object.
+Use the [MainSequence](timeline-mainsequence-property-powerpoint.md)property of the **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequence** object.
 
-Use the [AddEffect](sequence-addeffect-method-powerpoint.md)method to add a new  **Sequence** object. This example adds a shape and an animation sequence to the first shape on the first slide in the active presentation.
+Use the [AddEffect](sequence-addeffect-method-powerpoint.md)method to add a new **Sequence** object. This example adds a shape and an animation sequence to the first shape on the first slide in the active presentation.
 
 
 

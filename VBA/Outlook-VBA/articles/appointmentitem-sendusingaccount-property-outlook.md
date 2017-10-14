@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.SendUsingAccount Property (Outlook)
 
-Returns or sets an  **[Account](account-object-outlook.md)** object that represents the account under which the **[AppointmentItem](appointmentitem-object-outlook.md)** is to be sent. Read/write.
+Returns or sets an **[Account](account-object-outlook.md)** object that represents the account under which the **[AppointmentItem](appointmentitem-object-outlook.md)** is to be sent. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[Account](account-object-outlook.md)** object that represe
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **AppointmentItem** when the **[Send](taskitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the account specified for the **AppointmentItem** no longer exists.
+The **SendUsingAccount** property can be used to specify the account that should be used to send the **AppointmentItem** when the **[Send](taskitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the account specified for the **AppointmentItem** no longer exists.
 
 
 ## See also

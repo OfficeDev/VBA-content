@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.EffectType Property (PowerPoint)
 
-Sets or returns an  **MsoAnimEffect** constant that represents an animation effect type. Read/write.
+Sets or returns an **MsoAnimEffect** constant that represents an animation effect type. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ MsoAnimEffect
 
 ## Remarks
 
-The value of the  **EffectType** property can be one of these **MsoAnimEffect** constants.
+The value of the **EffectType** property can be one of these **MsoAnimEffect** constants.
 
 
 ||

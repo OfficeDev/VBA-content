@@ -30,7 +30,7 @@ MsoOrientation
 
 ## Remarks
 
-The value returned by the  **NotesOrientation** property can be one of these **MsoOrientation** constants.
+The value returned by the **NotesOrientation** property can be one of these **MsoOrientation** constants.
 
 
 ||

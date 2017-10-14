@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.OvertimeRate Property (Project)
 
-Gets or sets the overtime rate of a resource. Read/write  **Variant**.
+Gets or sets the overtime rate of a resource. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the overtime rate of a resource. Read/write  **Variant**.
 
 ## Remarks
 
-The  **OvertimeRate** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **OvertimeRate** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Hyperlink.PageID Property (Publisher)
 
-Returns or sets a  **Long** indicating the page in the publication that is the destination for the specified hyperlink. Read/write.
+Returns or sets a **Long** indicating the page in the publication that is the destination for the specified hyperlink. Read/write.
 
 
 ## Syntax
 
  _expression_. **PageID**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ## Example

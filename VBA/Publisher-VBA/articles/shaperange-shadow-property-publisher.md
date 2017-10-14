@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Shadow Property (Publisher)
 
-Returns a  **[ShadowFormat](shadowformat-object-publisher.md)** object that represents the shadow formatting for the specified shape.
+Returns a **[ShadowFormat](shadowformat-object-publisher.md)** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax
 
  _expression_. **Shadow**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StringFromGUID Method (Access)
 
-The  **StringFromGUID** function converts a GUID, which is an array of type **Byte**, to a string.
+The **StringFromGUID** function converts a GUID, which is an array of type **Byte**, to a string.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ The  **StringFromGUID** function converts a GUID, which is an array of type **By
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Guid_|Required|**Variant**|An array of  **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
+| _Guid_|Required|**Variant**|An array of **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
 
 ### Return Value
 
@@ -38,9 +38,9 @@ Variant
 
 ## Remarks
 
-The Microsoft Access database engine stores GUIDs as arrays of type  **Byte**. However, Microsoft Access can't return **Byte** data from a control on a form or report. In order to return the value of a GUID from a control, you must convert it to a string. To convert a GUID to a string, use the **StringFromGUID** function. To convert a string back to a GUID, use the **GUIDFromString** function.
+The Microsoft Access database engine stores GUIDs as arrays of type **Byte**. However, Microsoft Access can't return **Byte** data from a control on a form or report. In order to return the value of a GUID from a control, you must convert it to a string. To convert a GUID to a string, use the **StringFromGUID** function. To convert a string back to a GUID, use the **GUIDFromString** function.
 
-For example, you may need to refer to a field that contains a GUID when using database replication. To return the value of a control on a form bound to a field that contains a GUID, use the  **StringFromGUID** function to convert the GUID to a string.
+For example, you may need to refer to a field that contains a GUID when using database replication. To return the value of a control on a form bound to a field that contains a GUID, use the **StringFromGUID** function to convert the GUID to a string.
 
 
 ## Example

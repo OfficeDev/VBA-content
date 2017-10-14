@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.IncrementRotationX Method (Excel)
 
-Changes the rotation of the specified shape around the x-axis by the specified number of degrees. Use the  **[RotationX](threedformat-rotationx-property-excel.md)** property to set the absolute rotation of the shape around the x-axis.
+Changes the rotation of the specified shape around the x-axis by the specified number of degrees. Use the **[RotationX](threedformat-rotationx-property-excel.md)** property to set the absolute rotation of the shape around the x-axis.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Remarks
 
-You cannot adjust the specified shape's rotation around the x-axis past the upper or lower limit for the  **RotationX** property (90 degrees to ? 90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the _Increment_ argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
+You cannot adjust the specified shape's rotation around the x-axis past the upper or lower limit for the **RotationX** property (90 degrees to ? 90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the _Increment_ argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
 
-To change the rotation of a shape around the y-axis, use the  **[IncrementRotationY](threedformat-incrementrotationy-method-excel.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](threedformat-incrementrotationz-method-excel.md)** method.
+To change the rotation of a shape around the y-axis, use the **[IncrementRotationY](threedformat-incrementrotationy-method-excel.md)** method. To change the rotation around the z-axis, use the **[IncrementRotationZ](threedformat-incrementrotationz-method-excel.md)** method.
 
 
 ## Example

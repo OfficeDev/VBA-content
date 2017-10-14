@@ -30,16 +30,16 @@ Long
 
 ## Remarks
 
-Returns  **visScopeIDInvalid** (-1) if a scope isn't open. The scope ID could be an internal Microsoft Visio scope ID that corresponds to a Visio command or an external scope ID passed to an Automation client by the **BeginUndoScope** method.
+Returns **visScopeIDInvalid** (-1) if a scope isn't open. The scope ID could be an internal Microsoft Visio scope ID that corresponds to a Visio command or an external scope ID passed to an Automation client by the **BeginUndoScope** method.
 
-The recipients of an event consider a scope open if the  **EnterScope** event has fired but the **ExitScope** event has not fired.
+The recipients of an event consider a scope open if the **EnterScope** event has fired but the **ExitScope** event has not fired.
 
-To determine if the event queue firing is related to a particular scope internal to the application or one opened and closed by an Automation client, use the  **IsInScope** property.
+To determine if the event queue firing is related to a particular scope internal to the application or one opened and closed by an Automation client, use the **IsInScope** property.
 
 
 ## Example
 
-This example shows how to use the  **CurrentScope** property to determine the ID of the current scope.
+This example shows how to use the **CurrentScope** property to determine the ID of the current scope.
 
 
 ```vb

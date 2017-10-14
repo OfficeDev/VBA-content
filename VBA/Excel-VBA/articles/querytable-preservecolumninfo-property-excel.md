@@ -27,13 +27,13 @@ ms.date: 06/08/2017
 
 This property has an effect only when the query table is using a database connection.
 
-You can set this property to  **False** for compatibility with earlier versions of Microsoft Excel.
+You can set this property to **False** for compatibility with earlier versions of Microsoft Excel.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **PreserveColumnInfo** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **PreserveColumnInfo** property.
 
 
 ## Example

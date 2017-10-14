@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Duplicate Property (Word)
 
-Returns a read-only  **Range** object that represents all the properties of the specified range.
+Returns a read-only **Range** object that represents all the properties of the specified range.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a read-only  **Range** object that represents all the properties of the 
 
 ## Remarks
 
-By duplicating a  **Range** object, you can change the starting or ending character position of the duplicate range without changing the original range.
+By duplicating a **Range** object, you can change the starting or ending character position of the duplicate range without changing the original range.
 
 
 ## See also

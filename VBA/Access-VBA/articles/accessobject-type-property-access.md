@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.Type Property (Access)
 
-Returns the value of an  **[AccessObject](accessobject-object-access.md)** object type. Read-only **[AcObjectType](acobjecttype-enumeration-access.md)**.
+Returns the value of an **[AccessObject](accessobject-object-access.md)** object type. Read-only **[AcObjectType](acobjecttype-enumeration-access.md)**.
 
 
 ## Syntax

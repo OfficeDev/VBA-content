@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You were attempting to execute a method or assign a value to a property that is usually valid for the object, but is not supported in this specific instance. For example, the  **Edit** method is generally valid for **Recordset** objects, but not for a snapshot-type **Recordset**. This error could also occur in cases where the operation is not permitted due to the type or status of the object — as when trying to use the **MovePrevious** method on a forward-only-type **Recordset**. Some operations are also not supported, depending on if you are accessing a Microsoft Access database engine or an ODBC data source.
+You were attempting to execute a method or assign a value to a property that is usually valid for the object, but is not supported in this specific instance. For example, the **Edit** method is generally valid for **Recordset** objects, but not for a snapshot-type **Recordset**. This error could also occur in cases where the operation is not permitted due to the type or status of the object — as when trying to use the **MovePrevious** method on a forward-only-type **Recordset**. Some operations are also not supported, depending on if you are accessing a Microsoft Access database engine or an ODBC data source.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

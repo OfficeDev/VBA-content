@@ -39,6 +39,6 @@ Using a query as a filter to set the criteria has advantages similar to using th
 
 ## Directly Referring to Dialog Box Controls in the Underlying Query of a Form or Report
 
-You can also refer to the dialog box controls directly in the underlying query of a form or report instead of through the arguments of the  **OpenForm** or **OpenReport** method. Using this approach, the **OpenForm** or **OpenReport** method or action requires no _wherecondition_ or _filtername_ argument. Instead, each time you open a form or report, its underlying query looks for the dialog box to get its criteria. However, if a user opens the form or report in the Database window rather than through your dialog box, Access displays a parameter box that prompts the user for the dialog box value.
+You can also refer to the dialog box controls directly in the underlying query of a form or report instead of through the arguments of the **OpenForm** or **OpenReport** method. Using this approach, the **OpenForm** or **OpenReport** method or action requires no _wherecondition_ or _filtername_ argument. Instead, each time you open a form or report, its underlying query looks for the dialog box to get its criteria. However, if a user opens the form or report in the Database window rather than through your dialog box, Access displays a parameter box that prompts the user for the dialog box value.
 
 

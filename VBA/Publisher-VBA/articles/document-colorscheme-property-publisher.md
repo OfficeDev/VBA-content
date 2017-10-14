@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ColorScheme Property (Publisher)
 
-Returns or sets the  **[ColorScheme](colorscheme-object-publisher.md)** object that represents the scheme colors for the specified publication. Read/write.
+Returns or sets the **[ColorScheme](colorscheme-object-publisher.md)** object that represents the scheme colors for the specified publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **ColorScheme**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

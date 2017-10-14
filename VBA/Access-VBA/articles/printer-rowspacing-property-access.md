@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.RowSpacing Property (Access)
 
-Returns or sets a  **Long** indicating the horizontal space between detail sections in twips. Read/write.
+Returns or sets a **Long** indicating the horizontal space between detail sections in twips. Read/write.
 
 
 ## Syntax

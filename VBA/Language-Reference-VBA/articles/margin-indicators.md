@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 Visual Basic contains [margin indicators](vbe-glossary.md) that provide visual cues to certain actions during the editing of your code. If more than one action occurs on a line, the appropriate indicators also appear.
 
-The margin indicators appear in the Margin Indicator bar on left side of the  **Code** window.
+The margin indicators appear in the Margin Indicator bar on left side of the **Code** window.
 
-You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** tab of the **Options** dialog box.
+You can turn the Margin Indicator Bar on and off in the **Editor** **Format** tab of the **Options** dialog box.
 
 
 
@@ -24,7 +24,7 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 |
 ![Breakpoint](images/wbrkpnt_ZA01201808.gif)
 
-|Breakpoint|Indicates that you have set a breakpoint using the  **Toggle** **Breakpoint** command on the **Debug** menu. You can toggle the breakpoint by placing your mouse pointer in the margin indicator region and clicking.|
+|Breakpoint|Indicates that you have set a breakpoint using the **Toggle** **Breakpoint** command on the **Debug** menu. You can toggle the breakpoint by placing your mouse pointer in the margin indicator region and clicking.|
 |
 ![Current line of execution](images/wcurline_ZA01201810.gif)
 
@@ -32,7 +32,7 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 |
 ![Bookmark](images/wbkmark_ZA01201807.gif)
 
-|Bookmark|Indicates the location of a bookmark set using the  **Toggle** **Bookmark** command on the **Edit** menu.|
+|Bookmark|Indicates the location of a bookmark set using the **Toggle** **Bookmark** command on the **Edit** menu.|
 |
 ![Call stack marker](images/wcallst_ZA01201809.gif)
 

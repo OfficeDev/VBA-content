@@ -30,6 +30,6 @@ Window
 
 ## Remarks
 
-The  **OpenDrawWindow** method opens a new drawing window, even if the page is already displayed in a drawing window.
+The **OpenDrawWindow** method opens a new drawing window, even if the page is already displayed in a drawing window.
 
 

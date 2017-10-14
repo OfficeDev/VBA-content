@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.OtherTelephoneNumber Property (Outlook)
 
-Returns or sets a  **String** representing the other telephone number for the contact. Read/write.
+Returns or sets a **String** representing the other telephone number for the contact. Read/write.
 
 
 ## Syntax

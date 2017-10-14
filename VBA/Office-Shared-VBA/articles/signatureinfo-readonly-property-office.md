@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureInfo.ReadOnly Property (Office)
 
-Gets a  **Boolean** value indicating whether the **SignatureInfo** object is read-only. Read-only.
+Gets a **Boolean** value indicating whether the **SignatureInfo** object is read-only. Read-only.
 
 
 ## Syntax

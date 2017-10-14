@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Represents a lookup table collection in Project. The  **[LookupTableEntry](http://msdn.microsoft.com/library/5be081fa-6f4e-9571-e1e2-c4652871b756%28Office.15%29.aspx)** object is a member of the **LookupTable** collection.
+Represents a lookup table collection in Project. The **[LookupTableEntry](http://msdn.microsoft.com/library/5be081fa-6f4e-9571-e1e2-c4652871b756%28Office.15%29.aspx)** object is a member of the **LookupTable** collection.
  **Using the LookupTable Object**
 The following example adds three level entries to a lookup table, where the third level entry is set with three values.
 

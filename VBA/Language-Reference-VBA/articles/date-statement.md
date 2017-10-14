@@ -21,7 +21,7 @@ For systems running Microsoft Windows 95, the required  _date_ specification mus
 
 ## Example
 
-This example uses the  **Date** statement to set the computer system date. In the development environment, the date literal is displayed in short date format using the locale settings of your code.
+This example uses the **Date** statement to set the computer system date. In the development environment, the date literal is displayed in short date format using the locale settings of your code.
 
 
 ```vb

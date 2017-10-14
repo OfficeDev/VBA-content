@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerPolicy.Name Property (Office)
 
-Gets the name of the  **ServerPolicy** object. Read-only.
+Gets the name of the **ServerPolicy** object. Read-only.
 
 
 ## Syntax

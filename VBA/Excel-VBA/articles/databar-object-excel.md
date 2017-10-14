@@ -18,16 +18,16 @@ Represents a data bar conditional formating rule. Applying a data bar to a range
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create a data bar formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddDatabar](formatconditions-adddatabar-method-excel.md)** methods of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create a data bar formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddDatabar](formatconditions-adddatabar-method-excel.md)** methods of the **FormatConditions** collection.
 
-You use the  **[MinPoint](databar-minpoint-property-excel.md)** and **[MaxPoint](databar-maxpoint-property-excel.md)** properties of the **Databar** object to set the values of the shortest bar and longest bar of a range of data. These properites return a **[ConditionValue](conditionvalue-object-excel.md)** object, with which you can specify how the thresholds are evaluated.
+You use the **[MinPoint](databar-minpoint-property-excel.md)** and **[MaxPoint](databar-maxpoint-property-excel.md)** properties of the **Databar** object to set the values of the shortest bar and longest bar of a range of data. These properites return a **[ConditionValue](conditionvalue-object-excel.md)** object, with which you can specify how the thresholds are evaluated.
 
-The  **Databar** object also provides properties that enable you to specify an axis line that is displayed when negative values are present, and to specify the color and formatting of data bars.
+The **Databar** object also provides properties that enable you to specify an axis line that is displayed when negative values are present, and to specify the color and formatting of data bars.
 
 
 ## Example
 
-The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similiar length. To disambiguate the middle values, the sample code uses the  **ConditionValue** object to change how the thresholds are evaluated to percentiles.
+The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similiar length. To disambiguate the middle values, the sample code uses the **ConditionValue** object to change how the thresholds are evaluated to percentiles.
 
 
 ```vb

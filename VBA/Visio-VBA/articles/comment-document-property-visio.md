@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.Document Property (Visio)
 
-Returns the document that contains the comment. Read-only  ** **[Document](document-object-visio.md)**** .
+Returns the document that contains the comment. Read-only ** **[Document](document-object-visio.md)**** .
 
 
 ## Syntax

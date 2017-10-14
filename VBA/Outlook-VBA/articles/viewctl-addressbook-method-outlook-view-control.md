@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # ViewCtl.AddressBook Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Address Book** dialog box.
+Displays the Microsoft Outlook **Address Book** dialog box.
 
 
 ## Syntax
 
  _expression_. **AddressBook**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

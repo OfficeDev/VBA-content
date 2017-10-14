@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.MovedRange Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents a range of text that was moved from one place to another in a document with tracked changes. Read-only.
+Returns a **[Range](range-object-word.md)** object that represents a range of text that was moved from one place to another in a document with tracked changes. Read-only.
 
 
 ## Syntax

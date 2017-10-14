@@ -18,7 +18,7 @@ Represents the list of changes a user has made to value cells in a PivotTable re
 
 ## Remarks
 
-The  **PivotTableChangeList** collection contains **[ValueChange](valuechange-object-excel.md)** objects that represent the changes a user has made to value cells in a PivotTable report. To return the **PivotTableChangeList** collection for a PivotTable, use the **[ChangeList](pivottable-changelist-property-excel.md)** property of the **[PivotTable](pivottable-object-excel.md)** object.
+The **PivotTableChangeList** collection contains **[ValueChange](valuechange-object-excel.md)** objects that represent the changes a user has made to value cells in a PivotTable report. To return the **PivotTableChangeList** collection for a PivotTable, use the **[ChangeList](pivottable-changelist-property-excel.md)** property of the **[PivotTable](pivottable-object-excel.md)** object.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GlowFormat.Color Property (Word)
 
-Returns a  **[ColorFormat](colorformat-object-word.md)** object that represents the color for a glow effect. Read-only.
+Returns a **[ColorFormat](colorformat-object-word.md)** object that represents the color for a glow effect. Read-only.
 
 
 ## Syntax

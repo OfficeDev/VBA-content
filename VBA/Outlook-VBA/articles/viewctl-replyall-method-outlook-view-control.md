@@ -15,6 +15,6 @@ Executes the ReplyAll action for the item or items that are selected in the cont
 
  _expression_. **ReplyAll**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

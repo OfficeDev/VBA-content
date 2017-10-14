@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnotes.ContinuationNotice Property (Word)
 
-Returns a  **Range** object that represents the endnote continuation notice. Read-only.
+Returns a **Range** object that represents the endnote continuation notice. Read-only.
 
 
 ## Syntax

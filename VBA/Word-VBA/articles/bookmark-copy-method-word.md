@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.Copy Method (Word)
 
-Copies a bookmark to the new bookmark specified in the Name argument, and returns a  **Bookmark** object.
+Copies a bookmark to the new bookmark specified in the Name argument, and returns a **Bookmark** object.
 
 
 ## Syntax

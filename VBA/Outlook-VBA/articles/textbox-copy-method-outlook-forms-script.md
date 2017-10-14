@@ -15,13 +15,13 @@ Copies the contents of an object to the Clipboard.
 
  _expression_. **Copy**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_A variable that represents a **TextBox** object.
 
 
 ## Remarks
 
 The original content remains on the object.
 
-The actual content that is copied depends on the object. For example, on a  **[TextBox](textbox-object-outlook-forms-script.md)** or **[ComboBox](combobox-object-outlook-forms-script.md)**, it copies the currently selected text.
+The actual content that is copied depends on the object. For example, on a **[TextBox](textbox-object-outlook-forms-script.md)** or **[ComboBox](combobox-object-outlook-forms-script.md)**, it copies the currently selected text.
 
 

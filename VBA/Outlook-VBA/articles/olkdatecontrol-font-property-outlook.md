@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkDateControl.Font Property (Outlook)
 
-Returns a  **StdFont** that represents the font used to render the text inside the control. Read-only.
+Returns a **StdFont** that represents the font used to render the text inside the control. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
 ## Remarks
 
-The font is expressed as the Microsoft Windows type  **StdFont** .
+The font is expressed as the Microsoft Windows type **StdFont** .
 
 
 ## See also

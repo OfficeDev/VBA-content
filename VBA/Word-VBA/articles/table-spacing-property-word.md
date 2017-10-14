@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Spacing Property (Word)
 
-Returns or sets the spacing (in points) between the cells in a table. Read/write  **Single** .
+Returns or sets the spacing (in points) between the cells in a table. Read/write **Single** .
 
 
 ## Syntax

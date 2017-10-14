@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.Parent Property (Project)
 
-Gets the parent of the  **Cell** object. Read-only **Object**.
+Gets the parent of the **Cell** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the parent of the  **Cell** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Cell** object can be the **Application** or a **Project**. For example, the statement `Application.ActiveCell.Parent` gets the name of the active project.
+The parent of a **Cell** object can be the **Application** or a **Project**. For example, the statement `Application.ActiveCell.Parent` gets the name of the active project.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

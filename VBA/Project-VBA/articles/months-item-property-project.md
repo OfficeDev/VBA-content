@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Months.Item Property (Project)
 
-Gets a single  **Month** object from the **Months** collection. Read-only **Month**.
+Gets a single **Month** object from the **Months** collection. Read-only **Month**.
 
 
 ## Syntax

@@ -27,7 +27,7 @@ Removes the contents of the control and copies the contents to the clipboard.
 
 The data is copied to the clipboard in unformatted text format, replacing the existing contents of the clipboard.
 
-If the control style is  **olComboBoxStyleListBox** , then this method will not cut anything.
+If the control style is **olComboBoxStyleListBox** , then this method will not cut anything.
 
 
 ## See also

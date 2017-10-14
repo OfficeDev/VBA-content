@@ -28,7 +28,7 @@ Collapses all the headings in the document.
 
 ## Remarks
 
-This method corresponds to the  **Collapse All Headings** command on the **Expand/Collapse** submenu of the context menu that appears when you right-click a heading.
+This method corresponds to the **Collapse All Headings** command on the **Expand/Collapse** submenu of the context menu that appears when you right-click a heading.
 
 
 ## See also

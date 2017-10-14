@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TabStop.Leader Property (Publisher)
 
-Sets or returns a  **PbTabLeaderType** constant that represents the leader character for a tab stop. Read/write.
+Sets or returns a **PbTabLeaderType** constant that represents the leader character for a tab stop. Read/write.
 
 
 ## Syntax
 
  _expression_. **Leader**
 
- _expression_A variable that represents a  **TabStop** object.
+ _expression_A variable that represents a **TabStop** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbTabLeaderType
 
 ## Remarks
 
-The  **Leader** property value can be one of the **[PbTabLeaderType](pbtableadertype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Leader** property value can be one of the **[PbTabLeaderType](pbtableadertype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

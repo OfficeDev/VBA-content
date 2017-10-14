@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddChart2 Method (Excel)
 
-Adds a chart to the document. Returns a  **Shape** object that represents a chart and adds it to the specified collection.
+Adds a chart to the document. Returns a **Shape** object that represents a chart and adds it to the specified collection.
 
 
 ## Syntax
@@ -27,13 +27,13 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in  **XlChartType**. |
+| _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in **XlChartType**. |
 | _XlChartType_|Optional|VARIANT|The type of chart.|
 | _Left_|Optional|VARIANT|The position, in points, of the left edge of the chart, relative to the anchor.|
 | _Top_|Optional|VARIANT|The position, in points, of the top edge of the chart, relative to the anchor.|
 | _Width_|Optional|VARIANT|The width, in points, of the chart.|
 | _Height_|Optional|VARIANT|The height, in points, of the chart.|
-| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True** , the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _NewLayout_|Optional|VARIANT|If **NewLayout** is **True** , the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 
 ### Return value
 

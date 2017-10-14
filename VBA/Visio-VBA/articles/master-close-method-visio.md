@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Use the  **Close** method for a **Master** object after opening a master for editing using the **Open** method. The **Close** method pushes any changes made to the master while it was open to instances of the master.
+Use the **Close** method for a **Master** object after opening a master for editing using the **Open** method. The **Close** method pushes any changes made to the master while it was open to instances of the master.
 
 
 ## Example

@@ -19,7 +19,7 @@ Contains the view attributes (show all, field shading, table gridlines, and so o
 
 ## Example
 
-Use the  **[ActiveView](document-activeview-property-publisher.md)** property to return the **View** object. The following example specifies the zoom setting.
+Use the **[ActiveView](document-activeview-property-publisher.md)** property to return the **View** object. The following example specifies the zoom setting.
  
 
  

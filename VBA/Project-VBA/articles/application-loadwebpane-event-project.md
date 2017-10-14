@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.LoadWebPane Event (Project)
 
-Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the  **Project/Resource Import Wizard**.
+Occurs when Project loads a Web pane for **Task Drivers**, **Deliverables**, or the **Project/Resource Import Wizard**.
 
 
 ## Syntax
@@ -26,8 +26,8 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Window_|Required|**Window**|The window from where the  **LoadWebBrowserControl** method was called.|
-| _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|
+| _Window_|Required|**Window**|The window from where the **LoadWebBrowserControl** method was called.|
+| _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the **LoadWebBrowserControl** method.|
 
 ### Return Value
 

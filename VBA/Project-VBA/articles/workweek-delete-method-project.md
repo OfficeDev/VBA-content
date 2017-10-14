@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeek.Delete Method (Project)
 
-Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
+Deletes the **WorkWeek** object from a **WorkWeeks** collection.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignments.UniqueID Property (Project)
 
-Gets an  **[Assignment](assignment-object-project.md)** object from its containing collection. Read-only **Assignment**.
+Gets an **[Assignment](assignment-object-project.md)** object from its containing collection. Read-only **Assignment**.
 
 
 ## Syntax

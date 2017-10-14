@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PivotCell Property (Excel)
 
-Returns a  **[PivotCell](pivotcell-object-excel.md)** object that represents a cell in a PivotTable report.
+Returns a **[PivotCell](pivotcell-object-excel.md)** object that represents a cell in a PivotTable report.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[PivotCell](pivotcell-object-excel.md)** object that represents a c
 
 ## Example
 
-This example determines the name of the PivotTable the  **PivotCell** object is located in and notifies the user. The example assumes that a PivotTable exists on the active worksheet and that cell A3 is located in the PivotTable.
+This example determines the name of the PivotTable the **PivotCell** object is located in and notifies the user. The example assumes that a PivotTable exists on the active worksheet and that cell A3 is located in the PivotTable.
 
 
 ```vb

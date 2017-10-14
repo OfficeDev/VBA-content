@@ -42,12 +42,12 @@ Sets the cell layout and size properties for a data template in the Network Diag
 
 ## Remarks
 
-Using the  **BoxCellLayout** method with only the _Name_ argument specified has no effect.
+Using the **BoxCellLayout** method with only the _Name_ argument specified has no effect.
 
 
 ## Example
 
-The following example modifies a copy of the  **Critical** data template named **Test Critical**. The macro removes the fourth row of cells and sets the fourth cell in the third row to show the  **Actual Cost** field and label in a purple-blue color.
+The following example modifies a copy of the **Critical** data template named **Test Critical**. The macro removes the fourth row of cells and sets the fourth cell in the third row to show the **Actual Cost** field and label in a purple-blue color.
 
 
 ```vb

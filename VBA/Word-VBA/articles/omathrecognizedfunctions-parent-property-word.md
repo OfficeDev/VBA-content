@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathRecognizedFunctions.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathRecognizedFunctions** object.
+Returns an **Object** that represents the parent object of the specified **OMathRecognizedFunctions** object.
 
 
 ## Syntax

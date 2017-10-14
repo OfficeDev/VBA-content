@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.Delete Method (Excel)
 
-Deletes the  **TableObject** object.
+Deletes the **TableObject** object.
 
 
 ## Syntax

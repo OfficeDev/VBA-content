@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.OriginalHeight Property (Publisher)
 
-Returns a  **Variant** representing the height, in points, of the specified linked picture or OLE object. Read-only.
+Returns a **Variant** representing the height, in points, of the specified linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
  _expression_. **OriginalHeight**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Variant
 
 This property applies only to linked pictures or OLE objects. Returns "Permission Denied" for shapes representing embedded or pasted pictures.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+To determine whether a shape represents a linked picture, use either the **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
 
 ## Example

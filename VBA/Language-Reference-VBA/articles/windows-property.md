@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the  **Window** object, which represents a window in the Visual Basic IDE.
+Returns the **Window** object, which represents a window in the Visual Basic IDE.
  **Syntax**
  _object_. **Window**
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.

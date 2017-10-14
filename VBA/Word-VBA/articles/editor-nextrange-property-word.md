@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Editor.NextRange Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the next range for which a user has permissions to modify.
+Returns a **[Range](range-object-word.md)** object that represents the next range for which a user has permissions to modify.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-word.md)** object that represents the next ran
 
 ## Remarks
 
-You can also use the  **[GoToEditableRange](range-gotoeditablerange-method-word.md)** method of the **Range** object to return the next range for which a user has permission to modify.
+You can also use the **[GoToEditableRange](range-gotoeditablerange-method-word.md)** method of the **Range** object to return the next range for which a user has permission to modify.
 
 
 ## Example

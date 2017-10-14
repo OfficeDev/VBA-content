@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProductCode Method (Word)
 
-Returns the Microsoft Word globally unique identifier (GUID) as a  **String** .
+Returns the Microsoft Word globally unique identifier (GUID) as a **String** .
 
 
 ## Syntax

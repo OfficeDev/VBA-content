@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.Index Property (Outlook)
 
-Returns a  **Long** indicating the position of the object within the collection. Read-only.
+Returns a **Long** indicating the position of the object within the collection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** indicating the position of the object within the collection.
 
 ## Remarks
 
-The  **Index** property is only valid during the current session and can change as objects are added to and deleted from the collection. The first object in the collection has an **Index** value of 1.
+The **Index** property is only valid during the current session and can change as objects are added to and deleted from the collection. The first object in the collection has an **Index** value of 1.
 
 
 ## See also

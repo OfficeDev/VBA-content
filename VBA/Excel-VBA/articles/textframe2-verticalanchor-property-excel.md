@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.VerticalAnchor Property (Excel)
 
-Returns or sets the vertical anchor type for the specified text. Read/write  **[MsoVerticalAnchor](http://msdn.microsoft.com/library/eb79204e-6c76-6d63-9609-dcbf34073eb5%28Office.15%29.aspx)** .
+Returns or sets the vertical anchor type for the specified text. Read/write **[MsoVerticalAnchor](http://msdn.microsoft.com/library/eb79204e-6c76-6d63-9609-dcbf34073eb5%28Office.15%29.aspx)** .
 
 
 ## Syntax

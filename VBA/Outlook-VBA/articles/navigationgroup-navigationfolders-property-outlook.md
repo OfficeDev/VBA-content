@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroup.NavigationFolders Property (Outlook)
 
-Returns a  **[NavigationFolders](navigationfolders-object-outlook.md)** object that contains the set of navigation folders associated with the **[NavigationGroup](navigationgroup-object-outlook.md)** object. Read-only.
+Returns a **[NavigationFolders](navigationfolders-object-outlook.md)** object that contains the set of navigation folders associated with the **[NavigationGroup](navigationgroup-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

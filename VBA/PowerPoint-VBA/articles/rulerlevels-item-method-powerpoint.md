@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RulerLevels.Item Method (PowerPoint)
 
-Returns a single  **RulerLevel** object from the specified **RulerLevels** collection.
+Returns a single **RulerLevel** object from the specified **RulerLevels** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **RulerLevel** object from the specified **RulerLevels** colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **RulerLevel** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **RulerLevel** object in the collection to be returned.|
 
 ### Return Value
 

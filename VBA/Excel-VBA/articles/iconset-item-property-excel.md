@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSet.Item Property (Excel)
 
-Returns an  **[Icon](icon-object-excel.md)** object that represents a single icon from an icon set. Read-only.
+Returns an **[Icon](icon-object-excel.md)** object that represents a single icon from an icon set. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an  **[Icon](icon-object-excel.md)** object that represents a single ico
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The index number of the  **Icon** object.|
+| _Index_|Required| **Variant**|The index number of the **Icon** object.|
 
 ## Remarks
 

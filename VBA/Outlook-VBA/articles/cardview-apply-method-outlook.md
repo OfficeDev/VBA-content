@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.Apply Method (Outlook)
 
-Applies the  **[CardView](cardview-object-outlook.md)** object to the current view.
+Applies the **[CardView](cardview-object-outlook.md)** object to the current view.
 
 
 ## Syntax

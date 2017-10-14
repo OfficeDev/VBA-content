@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Table.Cells Property (Publisher)
 
-Returns a  **CellRange** object that represents a range of cells in a table.
+Returns a **CellRange** object that represents a range of cells in a table.
 
 
 ## Syntax
 
- _expression_. **Cells**( **_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
+ _expression_. **Cells**( **_StartRow_**, **_StartColumn_**, **_EndRow_**, **_EndColumn_**)
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ### Parameters
@@ -31,8 +31,8 @@ Returns a  **CellRange** object that represents a range of cells in a table.
 |:-----|:-----|:-----|:-----|
 |StartRow|Optional| **Long**|The row in which the starting cell exists. If this argument is omitted, all the table rows are included in the range.|
 |StartColumn|Optional| **Long**|The column in which the starting cell exists. If this argument is omitted, all the table columns are included in the range.|
-|EndRow|Optional| **Long**|The row in which the ending cell exists. If this argument is omitted, only the row specified by  **StartRow** is included in the range. If this argument is specified but **StartRow** is omitted, an error occurs.|
-|EndColumn|Optional| **Long**|The column in which the ending cell exists. If this argument is omitted, only the column specified by  **StartColumn** is included in the range. If this argument is specified but **StartColumn** is omitted, an error occurs.|
+|EndRow|Optional| **Long**|The row in which the ending cell exists. If this argument is omitted, only the row specified by **StartRow** is included in the range. If this argument is specified but **StartRow** is omitted, an error occurs.|
+|EndColumn|Optional| **Long**|The column in which the ending cell exists. If this argument is omitted, only the column specified by **StartColumn** is included in the range. If this argument is specified but **StartColumn** is omitted, an error occurs.|
 
 ## Remarks
 

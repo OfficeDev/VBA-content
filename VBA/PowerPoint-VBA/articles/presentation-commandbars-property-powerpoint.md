@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CommandBars Property (PowerPoint)
 
-Returns a  **CommandBars** collection that represents the merged command bar set from the host container application and Microsoft PowerPoint. This property returns a valid object only when the container is a DocObject server, like Microsoft Binder, and PowerPoint is acting as an OLE server. Read-only.
+Returns a **CommandBars** collection that represents the merged command bar set from the host container application and Microsoft PowerPoint. This property returns a valid object only when the container is a DocObject server, like Microsoft Binder, and PowerPoint is acting as an OLE server. Read-only.
 
 
 ## Syntax

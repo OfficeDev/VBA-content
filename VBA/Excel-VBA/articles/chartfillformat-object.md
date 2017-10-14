@@ -18,7 +18,7 @@ Represents fill formatting.
 
 ## Using the ChartFillFormat Object
 
-Use the  **[Fill](fill-property.md)** property to return the **ChartFillFormat** object. The following example sets the foreground color, background color, and gradient for the chart area fill in `myChart`.
+Use the **[Fill](fill-property.md)** property to return the **ChartFillFormat** object. The following example sets the foreground color, background color, and gradient for the chart area fill in `myChart`.
 
 
 ```vb

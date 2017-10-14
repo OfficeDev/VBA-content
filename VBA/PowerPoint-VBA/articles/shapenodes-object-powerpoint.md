@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNodes Object (PowerPoint)
 
-A collection of all the  **[ShapeNode](shapenode-object-powerpoint.md)** objects in the specified freeform.
+A collection of all the **[ShapeNode](shapenode-object-powerpoint.md)** objects in the specified freeform.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[ShapeNode](shapenode-object-powerpoint.md)** objects
 
 ## Example
 
-Use the  **Nodes** property to return the **ShapeNodes** collection. The following example deletes node four in shape three on `myDocument`. For this example to work, shape three must be a freeform with at least four nodes.
+Use the **Nodes** property to return the **ShapeNodes** collection. The following example deletes node four in shape three on `myDocument`. For this example to work, shape three must be a freeform with at least four nodes.
 
 
 ```vb
@@ -32,7 +32,7 @@ Set myDocument = ActivePresentation.Slides(1)
 myDocument.Shapes(3).Nodes.Delete 4
 ```
 
-Use the [Insert](shapenodes-insert-method-powerpoint.md)method to create a new node and add it to the  **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on `myDocument`. For this example to work, shape three must be a freeform with at least four nodes.
+Use the [Insert](shapenodes-insert-method-powerpoint.md)method to create a new node and add it to the **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on `myDocument`. For this example to work, shape three must be a freeform with at least four nodes.
 
 
 
@@ -47,7 +47,7 @@ With myDocument.Shapes(3).Nodes
 End With
 ```
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on `myDocument` is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on `myDocument` is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 
 
 

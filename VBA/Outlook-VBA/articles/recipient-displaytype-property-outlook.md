@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.DisplayType Property (Outlook)
 
-Returns a constant belonging to the  **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration that describes the nature of the **[Recipient](recipient-object-outlook.md)** . Read-only.
+Returns a constant belonging to the **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration that describes the nature of the **[Recipient](recipient-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a constant belonging to the  **[OlDisplayType](oldisplaytype-enumeration
 
 ## Remarks
 
-You can use the  **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType** .
+You can use the **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.FootnoteOptions Property (Word)
 
-Returns  **[FootnoteOptions](footnoteoptions-object-word.md)** object that represents the footnotes in a selection.
+Returns **[FootnoteOptions](footnoteoptions-object-word.md)** object that represents the footnotes in a selection.
 
 
 ## Syntax

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Reference the Parent Object of a Control
 
-The following example uses the Microsoft Forms 2.0  **Parent** property to refer to the control, form, or other object that contains a specific control or object.
+The following example uses the Microsoft Forms 2.0 **Parent** property to refer to the control, form, or other object that contains a specific control or object.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
+- Two **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
     
 - One or more additional controls of your choice.
     

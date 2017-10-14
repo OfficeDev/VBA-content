@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.SelStart Property (Access)
 
-The  **SelStart** property specifies or determines the starting point of the selected text or the position of the insertion point if no text is selected. Read/write **Integer**.
+The **SelStart** property specifies or determines the starting point of the selected text or the position of the insertion point if no text is selected. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ The  **SelStart** property specifies or determines the starting point of the sel
 
 ## Remarks
 
-The  **SelStart** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
+The **SelStart** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
 
-To set or return this property for a control, the control must have the focus. To move the focus to a control, use the  **SetFocus** method.
+To set or return this property for a control, the control must have the focus. To move the focus to a control, use the **SetFocus** method.
 
-Changing the  **SelStart** property cancels the selection, places an insertion point in the text, and sets the **SelLength** property to 0.
+Changing the **SelStart** property cancels the selection, places an insertion point in the text, and sets the **SelLength** property to 0.
 
 
 ## Example

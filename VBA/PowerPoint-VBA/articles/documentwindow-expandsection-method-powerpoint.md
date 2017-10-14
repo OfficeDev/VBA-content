@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.ExpandSection Method (PowerPoint)
 
-Expands the section in the current  **DocumentWindow**.
+Expands the section in the current **DocumentWindow**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.InlineShapes Property (Word)
 
-Returns an  **[InlineShapes](document-inlineshapes-property-word.md)** collection that represents all the **[InlineShape](inlineshape-object-word.md)** objects in a document. Read-only.
+Returns an **[InlineShapes](document-inlineshapes-property-word.md)** collection that represents all the **[InlineShape](inlineshape-object-word.md)** objects in a document. Read-only.
 
 
 ## Syntax

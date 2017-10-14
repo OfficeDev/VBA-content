@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Acc Property (Word)
 
-Returns an  **[OMathAcc](omathacc-object-word.md)** object that represents a base character with a combining accent mark. Read-only.
+Returns an **[OMathAcc](omathacc-object-word.md)** object that represents a base character with a combining accent mark. Read-only.
 
 
 ## Syntax

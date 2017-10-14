@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Accounts Object (Outlook)
 
-The  **Accounts** collection object contains a set of **[Account](account-object-outlook.md)** objects representing the accounts available for the current profile.
+The **Accounts** collection object contains a set of **[Account](account-object-outlook.md)** objects representing the accounts available for the current profile.
 
 
 ## Remarks
 
-The purpose of the  **Accounts** collection object and the **Account** object is to allow the enumeration of **Account** objects in a given profile, the identification of the type of an **Account**, and the use of a specific **Account** object to send mail.
+The purpose of the **Accounts** collection object and the **Account** object is to allow the enumeration of **Account** objects in a given profile, the identification of the type of an **Account**, and the use of a specific **Account** object to send mail.
 
 
 ## Events

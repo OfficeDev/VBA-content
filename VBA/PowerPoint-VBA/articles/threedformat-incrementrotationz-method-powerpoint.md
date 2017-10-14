@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.IncrementRotationZ Method (PowerPoint)
 
-Rotates the  **ThreeDFormat** object around the ground plane by the specified number of degrees.
+Rotates the **ThreeDFormat** object around the ground plane by the specified number of degrees.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Rotates the  **ThreeDFormat** object around the ground plane by the specified nu
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Increment_|Required|**Single**|The number of degrees to rotate the  **ThreeDFormat** object, between -180 and 180 degrees.|
+| _Increment_|Required|**Single**|The number of degrees to rotate the **ThreeDFormat** object, between -180 and 180 degrees.|
 
 ## See also
 

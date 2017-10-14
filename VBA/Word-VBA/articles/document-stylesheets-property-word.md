@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.StyleSheets Property (Word)
 
-Returns a  **[StyleSheets](stylesheets-object-word.md)** collection that represents the Web style sheets attached to a document.
+Returns a **[StyleSheets](stylesheets-object-word.md)** collection that represents the Web style sheets attached to a document.
 
 
 ## Syntax

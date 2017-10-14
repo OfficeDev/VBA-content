@@ -18,12 +18,12 @@ Represents the border of the data bars specified by a conditional formatting rul
 
 ## Remarks
 
-Use the  **DataBarBorder** object to get or set the color and border type for data bars. To access the **DataBarBorder** object associated with a data bar conditional formatting rule, use the **[BarBorder](databar-barborder-property-excel.md)** property. After retrieving the **DataBarBorder** object, use its **[Color](databarborder-color-property-excel.md)** property to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to set the color of the data bars.
+Use the **DataBarBorder** object to get or set the color and border type for data bars. To access the **DataBarBorder** object associated with a data bar conditional formatting rule, use the **[BarBorder](databar-barborder-property-excel.md)** property. After retrieving the **DataBarBorder** object, use its **[Color](databarborder-color-property-excel.md)** property to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to set the color of the data bars.
 
 
 ## Example
 
-The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the  **BarBorder** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar's color, tint, and type.
+The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the **BarBorder** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar's color, tint, and type.
 
 
 ```vb

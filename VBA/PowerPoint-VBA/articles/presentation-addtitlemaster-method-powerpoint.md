@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.AddTitleMaster Method (PowerPoint)
 
-Adds a title master to the specified presentation and returns a  **[Master](master-object-powerpoint.md)** object that represents the title master.
+Adds a title master to the specified presentation and returns a **[Master](master-object-powerpoint.md)** object that represents the title master.
 
 
 ## Syntax

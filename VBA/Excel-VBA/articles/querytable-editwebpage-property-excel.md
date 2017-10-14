@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.EditWebPage Property (Excel)
 
-Returns or sets the web page Uniform Resource Locator (URL) for a web query. Read/write  **Variant** .
+Returns or sets the web page Uniform Resource Locator (URL) for a web query. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,20 +25,20 @@ Returns or sets the web page Uniform Resource Locator (URL) for a web query. Rea
 
 ## Remarks
 
-The  **EditWebPage** property returns **null** if not set. The **EditWebPage** property is only meaningful if the query type is Web or OLE.
+The **EditWebPage** property returns **null** if not set. The **EditWebPage** property is only meaningful if the query type is Web or OLE.
 
-If the  **EditWebPage** is not null then ignore the **[WebTables](querytable-webtables-property-excel.md)** property for refreshing. As a result an XML query and the **[WebTable](querytable-webtables-property-excel.md)** property refers to the table in the original Web page and should only be used in the edit case to pre-populate the **Web Query** dialog box.
+If the **EditWebPage** is not null then ignore the **[WebTables](querytable-webtables-property-excel.md)** property for refreshing. As a result an XML query and the **[WebTable](querytable-webtables-property-excel.md)** property refers to the table in the original Web page and should only be used in the edit case to pre-populate the **Web Query** dialog box.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **EditWebPage** property applies only to **QueryTable** objects.
+The **EditWebPage** property applies only to **QueryTable** objects.
 
 
 ## Example
 
-In this example, Microsoft Excel displays to the user a Web page URL. This example assumes a  **QueryTable** object in cell A1 exists in the active worksheet and that a file called "MyHomepage.htm" exists on the C: drive.
+In this example, Microsoft Excel displays to the user a Web page URL. This example assumes a **QueryTable** object in cell A1 exists in the active worksheet and that a file called "MyHomepage.htm" exists on the C: drive.
 
 
 ```vb

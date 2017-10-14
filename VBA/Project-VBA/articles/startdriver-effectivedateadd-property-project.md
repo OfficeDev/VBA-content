@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.EffectiveDateAdd Property (Project)
 
-Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only  **Variant**.
+Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only **Variant**.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Gets the date and time that follows another date by a specified duration, using 
 
 ## Remarks
 
-The  **EffectiveDateAdd** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
+The **EffectiveDateAdd** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
 
-You can use the  **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)**, **EffectiveDateAdd**, and **[EffectiveDateDifference](startdriver-effectivedatedifference-property-project.md)** properties to calculate start and finish dates for manually scheduled tasks.
+You can use the **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)**, **EffectiveDateAdd**, and **[EffectiveDateDifference](startdriver-effectivedatedifference-property-project.md)** properties to calculate start and finish dates for manually scheduled tasks.
 
-To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the  **[DateAdd](application-dateadd-method-project.md)** method.
+To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the **[DateAdd](application-dateadd-method-project.md)** method.
 
 
 ## Example

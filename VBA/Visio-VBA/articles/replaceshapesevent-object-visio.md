@@ -13,7 +13,7 @@ Represents a shape-replacement operation initiated by the [Selection.ReplaceShap
 
 ## Remarks
 
-Properties of the  **ReplaceShapesEvent** object return information about various aspects of the shape replacement, including the shape or shapes replaced; the properties of the original shape or shapes inherited by the replacement shape; and the type of the replacement shape.
+Properties of the **ReplaceShapesEvent** object return information about various aspects of the shape replacement, including the shape or shapes replaced; the properties of the original shape or shapes inherited by the replacement shape; and the type of the replacement shape.
 
 
 ## See also

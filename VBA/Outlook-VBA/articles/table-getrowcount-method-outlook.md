@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.GetRowCount Method (Outlook)
 
-Obtains the number of rows in the  **[Table](table-object-outlook.md)** .
+Obtains the number of rows in the **[Table](table-object-outlook.md)** .
 
 
 ## Syntax

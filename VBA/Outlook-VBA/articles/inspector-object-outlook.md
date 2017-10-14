@@ -21,11 +21,11 @@ Represents the window in which an Outlook item is displayed.
 
 
 
-- Use the  **[ActiveInspector](http://msdn.microsoft.com/library/3f2b6491-7b4b-8165-327e-b319711d5656%28Office.15%29.aspx)** method to return the object representing the currently active inspector (if there is one).
+- Use the **[ActiveInspector](http://msdn.microsoft.com/library/3f2b6491-7b4b-8165-327e-b319711d5656%28Office.15%29.aspx)** method to return the object representing the currently active inspector (if there is one).
     
-- Use the  **[GetInspector](http://msdn.microsoft.com/library/9ba8bdbf-1dd5-eaff-3889-33433e3cb3fa%28Office.15%29.aspx)** property to return the **Inspector** object associated with an item.
+- Use the **[GetInspector](http://msdn.microsoft.com/library/9ba8bdbf-1dd5-eaff-3889-33433e3cb3fa%28Office.15%29.aspx)** property to return the **Inspector** object associated with an item.
     
-- Use the  **[Display](http://msdn.microsoft.com/library/19ead642-b7bd-579f-e43b-ef5c5d0cfecb%28Office.15%29.aspx)** method to display an item in its associated inspector.
+- Use the **[Display](http://msdn.microsoft.com/library/19ead642-b7bd-579f-e43b-ef5c5d0cfecb%28Office.15%29.aspx)** method to display an item in its associated inspector.
     
 
 ## Events

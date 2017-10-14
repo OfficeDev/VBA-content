@@ -30,7 +30,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you set the  **ColorType** property to **xlDataBarColor** , use the **[Color](negativebarformat-color-property-excel.md)** property of the **NegativeBarFormat** object to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to specify the fill color.
+If you set the **ColorType** property to **xlDataBarColor** , use the **[Color](negativebarformat-color-property-excel.md)** property of the **NegativeBarFormat** object to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to specify the fill color.
 
 
 ## See also

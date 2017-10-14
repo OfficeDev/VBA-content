@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultView Property (Project)
 
-Gets or sets the name of the view that appears when you start Project. Read/write  **String**.
+Gets or sets the name of the view that appears when you start Project. Read/write **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the name of the view that appears when you start Project. Read/writ
 
 ## Remarks
 
-The  **DefaultView** property can be the name of a custom view or one of the following built-in views:
+The **DefaultView** property can be the name of a custom view or one of the following built-in views:
 
 
 |||

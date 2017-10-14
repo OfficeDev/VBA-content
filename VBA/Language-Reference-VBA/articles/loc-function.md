@@ -24,12 +24,12 @@ The following describes the return value for each file access mode:
 |**Mode**|**Return Value**|
 |:-----|:-----|
 |**Random**|Number of the last record read from or written to the file.|
-|**Sequential**|Current byte position in the file divided by 128. However, information returned by  **Loc** for sequential files is neither used nor required.|
+|**Sequential**|Current byte position in the file divided by 128. However, information returned by **Loc** for sequential files is neither used nor required.|
 |**Binary**|Position of the last byte read or written.|
 
 ## Example
 
-This example uses the  **Loc** function to return the current read/write position within an open file. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
+This example uses the **Loc** function to return the current read/write position within an open file. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
 
 
 ```vb

@@ -39,11 +39,11 @@ This property returns information about how Visual Basic was called, as shown in
 
 |**Caller**|**Return value**|
 |:-----|:-----|
-|A custom function entered in a single cell|A  **Range** object specifying that cell|
-|A custom function that is part of an array formula in a range of cells|A  **Range** object specifying that range of cells|
+|A custom function entered in a single cell|A **Range** object specifying that cell|
+|A custom function that is part of an array formula in a range of cells|A **Range** object specifying that range of cells|
 |An Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro|The name of the document as text|
-|A macro set by either the  **OnDoubleClick** or **OnEntry** property|The name of the chart object identifier or cell reference (if applicable) to which the macro applies|
-|The  **Macro** dialog box ( **Tools** menu), or any caller not described above|The #REF! error value|
+|A macro set by either the **OnDoubleClick** or **OnEntry** property|The name of the chart object identifier or cell reference (if applicable) to which the macro applies|
+|The **Macro** dialog box ( **Tools** menu), or any caller not described above|The #REF! error value|
 
 ## Example
 

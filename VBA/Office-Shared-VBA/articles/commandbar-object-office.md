@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar Object (Office)
 
-Represents a command bar in the container application. The  **CommandBar** object is a member of the **CommandBars** collection.
+Represents a command bar in the container application. The **CommandBar** object is a member of the **CommandBars** collection.
 
 
 ## 
@@ -24,7 +24,7 @@ Represents a command bar in the container application. The  **CommandBar** objec
 
 ## Example
 
-Use  **CommandBars** ( _index_ ), where _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example steps through the collection of command bars to find the command bar named "Forms." If it finds this command bar, the example makes it visible and protects its docking state. In this example, the variable **cb** represents a **CommandBar** object.
+Use **CommandBars** ( _index_ ), where _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example steps through the collection of command bars to find the command bar named "Forms." If it finds this command bar, the example makes it visible and protects its docking state. In this example, the variable **cb** represents a **CommandBar** object.
 
 
 ```
@@ -41,7 +41,7 @@ If Not foundFlag Then
 End If
 ```
 
-You can use a name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use a name to specify a menu, shortcut menu, or submenu (all of which are represented by  **CommandBar** objects). This example adds a new menu item to the bottom of the **Tools** menu. When clicked, the new menu item runs the procedure named "qtrReport."
+You can use a name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use a name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). This example adds a new menu item to the bottom of the **Tools** menu. When clicked, the new menu item runs the procedure named "qtrReport."
 
 
 
@@ -56,7 +56,7 @@ With newItem
 End With
 ```
 
-If two or more custom menus or submenus have the same name,  **CommandBars(index)** returns the first one. To ensure that you return the correct menu or submenu, locate the pop-up control that displays that menu. Then apply the **CommandBar** property to the pop-up control to return the command bar that represents that menu. Assuming that the third control on the toolbar named "Custom Tools" is a pop-up control, this example adds the **Save** command to the bottom of that menu.
+If two or more custom menus or submenus have the same name, **CommandBars(index)** returns the first one. To ensure that you return the correct menu or submenu, locate the pop-up control that displays that menu. Then apply the **CommandBar** property to the pop-up control to return the command bar that represents that menu. Assuming that the third control on the toolbar named "Custom Tools" is a pop-up control, this example adds the **Save** command to the bottom of that menu.
 
 
 

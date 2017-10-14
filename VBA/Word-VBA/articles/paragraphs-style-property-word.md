@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.Style Property (Word)
 
-Returns or sets the style for the specified paragraphs. Read/write  **Variant** .
+Returns or sets the style for the specified paragraphs. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style for the specified paragraphs. Read/write  **Variant** 
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style.
+To set this property, specify the local name of the style, an integer, a **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style.
 
 When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
 

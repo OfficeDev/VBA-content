@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.FitToScreen Property (Access)
 
-Gets or sets whether the width of the form is reduced to fit the width of the screen. Read/write  **Boolean**.
+Gets or sets whether the width of the form is reduced to fit the width of the screen. Read/write **Boolean**.
 
 
 ## Syntax

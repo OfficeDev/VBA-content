@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbPrintStyle Enumeration (Publisher)
 
-Constants specifying the print style and passed to the  **PrintOutEx** and **ExportAsFixedFormat** methods.
+Constants specifying the print style and passed to the **PrintOutEx** and **ExportAsFixedFormat** methods.
 
 
 

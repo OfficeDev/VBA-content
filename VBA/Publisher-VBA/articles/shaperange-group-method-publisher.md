@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Group Method (Publisher)
 
-Groups the shapes in the specified shape range. Returns the grouped shapes as a single  **[Shape](shape-object-publisher.md)** object.
+Groups the shapes in the specified shape range. Returns the grouped shapes as a single **[Shape](shape-object-publisher.md)** object.
 
 
 ## Syntax
 
  _expression_. **Group**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Shape
 
 The specified range must contain more than one shape, or an error occurs.
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-publisher.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **[Shapes](shapes-object-publisher.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

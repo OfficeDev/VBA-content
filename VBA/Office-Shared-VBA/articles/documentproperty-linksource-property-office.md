@@ -37,12 +37,12 @@ This property applies only to custom document properties; you cannot use it with
 
 The source of the specified link is defined by the container application.
 
-Setting the  **LinkSource** property sets the **LinkToContent** property to **True**.
+Setting the **LinkSource** property sets the **LinkToContent** property to **True**.
 
 
 ## Example
 
-This example displays the linked status of a custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
+This example displays the linked status of a custom document property. For the example to work, **dp** must be a valid **DocumentProperty** object.
 
 
 ```

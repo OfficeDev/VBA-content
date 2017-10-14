@@ -32,7 +32,7 @@ Object
 
 This property allows you to access the properties and methods of the application in which an OLE object was created.
 
-Use the  **TypeName** function to determine the type of object this property returns for a specific OLE object.
+Use the **TypeName** function to determine the type of object this property returns for a specific OLE object.
 
 
 ## Example

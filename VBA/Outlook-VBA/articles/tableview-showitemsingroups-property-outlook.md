@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ShowItemsInGroups Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether Outlook items are shown in groups within the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether Outlook items are shown in groups within the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

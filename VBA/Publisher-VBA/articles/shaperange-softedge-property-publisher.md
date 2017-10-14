@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.SoftEdge Property (Publisher)
 
-Returns a  **[SoftEdgeFormat](softedgeformat-object-publisher.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
+Returns a **[SoftEdgeFormat](softedgeformat-object-publisher.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
 
 
 ## Syntax
 
  _expression_. **SoftEdge**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Return value

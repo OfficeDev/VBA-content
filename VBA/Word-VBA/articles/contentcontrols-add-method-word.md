@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControls.Add Method (Word)
 
-Adds a new content control, of the type specified, into the active document and returns a  **[ContentControl](contentcontrol-object-word.md)** object that represents the new content control.
+Adds a new content control, of the type specified, into the active document and returns a **[ContentControl](contentcontrol-object-word.md)** object that represents the new content control.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Gets or sets whether envelopes fed to the printer's manual feed should be insert
 
  _expression_. **BackSideInsertFaceUp**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_A variable that represents an **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-The  **BackSideInsertFaceUp** property setting corresponds to whether the **Face up** or **Face down** option is selected when **Clockwise rotation** is selected under **Envelope feed method** in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the  **Printer Details** tab, click **Advanced Printer Setup**. On the  **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
+The **BackSideInsertFaceUp** property setting corresponds to whether the **Face up** or **Face down** option is selected when **Clockwise rotation** is selected under **Envelope feed method** in the **Envelope Setup** dialog box in the Microsoft Publisher user interface. (On the **File** menu, click **Print Setup**. On the **Printer Details** tab, click **Advanced Printer Setup**. On the **Printer Setup Wizard** tab, click **Envelope Setup Dialog**).
 
 
 ## See also

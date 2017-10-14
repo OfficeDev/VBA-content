@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.DrawRectangle Method (Visio)
 
-Adds a rectangle to the  **Shapes** collection of a page, master, or group.
+Adds a rectangle to the **Shapes** collection of a page, master, or group.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ Shape
 
 ## Remarks
 
-Using the  **DrawRectangle** method is equivalent to using the **Rectangle** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the rectangle is being placed.
+Using the **DrawRectangle** method is equivalent to using the **Rectangle** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the rectangle is being placed.
 
 
 ## Example

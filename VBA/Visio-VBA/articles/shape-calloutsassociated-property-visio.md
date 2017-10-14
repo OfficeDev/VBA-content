@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.CalloutsAssociated Property (Visio)
 
-Returns an array of  **Long** values that represent the collection of identifiers for all of the callout shapes that are associated with the target shape by a callout relationship. Read-only.
+Returns an array of **Long** values that represent the collection of identifiers for all of the callout shapes that are associated with the target shape by a callout relationship. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Returns an array of  **Long** values that represent the collection of identifier
 
 ## Remarks
 
-If there are no callouts associated with the target shape, the  **CalloutsAssociated** property returns an empty array.
+If there are no callouts associated with the target shape, the **CalloutsAssociated** property returns an empty array.
 
 

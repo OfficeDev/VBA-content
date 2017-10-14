@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Suppressed endnotes are printed before the endnotes in that section. This property takes effect only if the  **[Location](endnotes-location-property-word.md)** property is set to **wdEndOfSection** .
+Suppressed endnotes are printed before the endnotes in that section. This property takes effect only if the **[Location](endnotes-location-property-word.md)** property is set to **wdEndOfSection** .
 
 
 ## Example

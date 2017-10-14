@@ -30,7 +30,7 @@ Returns whether the cell (tuple) is currently visible in the PivotTable report. 
 
 ## Remarks
 
-Return  **True** if the cell (tuple) is currently visible in the PivotTable report; otherwise **False** .
+Return **True** if the cell (tuple) is currently visible in the PivotTable report; otherwise **False** .
 
 
 ## See also

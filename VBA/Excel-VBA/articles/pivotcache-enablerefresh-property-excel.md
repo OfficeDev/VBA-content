@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](pivotcache-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** .
+The **[RefreshOnFileOpen](pivotcache-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** .
 
-For OLAP data sources, setting this property to  **False** disables updates.
+For OLAP data sources, setting this property to **False** disables updates.
 
 
 ## Example

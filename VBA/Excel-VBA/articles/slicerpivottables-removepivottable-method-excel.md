@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerPivotTables.RemovePivotTable Method (Excel)
 
-Removes a reference to a PivotTable from the  **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection.
+Removes a reference to a PivotTable from the **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](slicerpivott
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PivotTable_|Required| **Variant**|A  **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable to remove, or the name or index of the PivotTable in the collection.|
+| _PivotTable_|Required| **Variant**|A **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable to remove, or the name or index of the PivotTable in the collection.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-When a PivotTable is removed from the  **SlicerPivotTables** collection, is no longer filtered by its parent **[SlicerCache](slicercache-object-excel.md)** and the slicers associated with it.
+When a PivotTable is removed from the **SlicerPivotTables** collection, is no longer filtered by its parent **[SlicerCache](slicercache-object-excel.md)** and the slicers associated with it.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FormattingShowNextLevel Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word shows the next heading level when the previous heading level is used. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word shows the next heading level when the previous heading level is used. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows the 
 
 ## Remarks
 
-This property corresponds to the  **Show next heading when previous level is used** check box in the **Styles Gallery Options** dialog box.
+This property corresponds to the **Show next heading when previous level is used** check box in the **Styles Gallery Options** dialog box.
 
 
 ## See also

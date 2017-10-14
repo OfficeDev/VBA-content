@@ -53,7 +53,7 @@ Determines how Visual Basic responds to the watch expression.
 
 
 
-- Watch Expression — Displays the watch expression and its value in the  **Watch** window. When you enter break mode, the value of the watch expression is automatically updated.
+- Watch Expression — Displays the watch expression and its value in the **Watch** window. When you enter break mode, the value of the watch expression is automatically updated.
     
 - Break When Value Is True — Execution automatically enters break mode when the expression evaluates to true or is any nonzero value (not valid for string expressions).
     

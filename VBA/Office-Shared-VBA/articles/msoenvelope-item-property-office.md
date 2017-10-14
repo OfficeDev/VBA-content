@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.Item Property (Office)
 
-Gets a  **MailItem** object that can be used to send the document as an e-mail. Read-only.
+Gets a **MailItem** object that can be used to send the document as an e-mail. Read-only.
 
 
 ## Syntax

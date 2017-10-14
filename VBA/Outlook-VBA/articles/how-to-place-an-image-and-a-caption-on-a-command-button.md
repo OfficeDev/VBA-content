@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Place an Image and a Caption on a Command Button
 
-The following example uses a  **[ComboBox](combobox-object-outlook-forms-script.md)** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **[CommandButton](commandbutton-object-outlook-forms-script.md)**. This code sample also uses the  **[AddItem](combobox-additem-method-outlook-forms-script.md)** method to populate the **ComboBox** choices.
+The following example uses a **[ComboBox](combobox-object-outlook-forms-script.md)** to show the picture placement options for a control. Each time the user clicks a list choice, the picture and caption are updated on the **[CommandButton](commandbutton-object-outlook-forms-script.md)**. This code sample also uses the **[AddItem](combobox-additem-method-outlook-forms-script.md)** method to populate the **ComboBox** choices.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
-- A  **CommandButton** named CommandButton1 with the **[Picture](commandbutton-picture-property-outlook-forms-script.md)** property set to use an image on your computer.
+- A **CommandButton** named CommandButton1 with the **[Picture](commandbutton-picture-property-outlook-forms-script.md)** property set to use an image on your computer.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

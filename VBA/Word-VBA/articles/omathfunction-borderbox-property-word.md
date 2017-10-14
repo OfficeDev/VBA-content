@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.BorderBox Property (Word)
 
-Returns an  **[OMathBorderBox](omathborderbox-object-word.md)** object that represents a border drawn around an equation or part of an equation. The BorderBox object can also be used to draw horizontal, vertical, and diagonal strikethrough lines through the BorerBox arguments. Read-only.
+Returns an **[OMathBorderBox](omathborderbox-object-word.md)** object that represents a border drawn around an equation or part of an equation. The BorderBox object can also be used to draw horizontal, vertical, and diagonal strikethrough lines through the BorerBox arguments. Read-only.
 
 
 ## Syntax

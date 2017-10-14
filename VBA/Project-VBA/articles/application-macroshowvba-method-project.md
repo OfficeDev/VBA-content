@@ -30,6 +30,6 @@ Starts the Visual Basic Editor.
 
 ## Remarks
 
-The  **MacroShowVba** method has the same effect as pressing the **Alt** and **F11** keys.
+The **MacroShowVba** method has the same effect as pressing the **Alt** and **F11** keys.
 
 

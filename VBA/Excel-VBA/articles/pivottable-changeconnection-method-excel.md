@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ChangeConnection Method (Excel)
 
-Changes the connection of the specified  **[PivotTable](pivottable-object-excel.md)** .
+Changes the connection of the specified **[PivotTable](pivottable-object-excel.md)** .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Changes the connection of the specified  **[PivotTable](pivottable-object-excel.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](workbookconnection-object-excel.md)** object that repesents the new conneciton for the PivotTable.|
+| _conn_|Required| **WorkbookConnection**|A **[WorkbookConnection](workbookconnection-object-excel.md)** object that repesents the new conneciton for the PivotTable.|
 
 ## Remarks
 
-The  **ChangeConnection** method can only be used with a **PivotTable** that is connected to an external data source. A run-time error will occur if the **ChangeConnection** method is used with a **PivotTable** that uses data stored on a worksheet as its data source.
+The **ChangeConnection** method can only be used with a **PivotTable** that is connected to an external data source. A run-time error will occur if the **ChangeConnection** method is used with a **PivotTable** that uses data stored on a worksheet as its data source.
 
 
 ## See also

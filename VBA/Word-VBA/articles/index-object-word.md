@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Index Object (Word)
 
-Represents a single index. The  **Index** object is a member of the **Indexes** collection. The **[Indexes](indexes-object-word.md)** collection includes all the indexes in the specified document.
+Represents a single index. The **Index** object is a member of the **Indexes** collection. The **[Indexes](indexes-object-word.md)** collection includes all the indexes in the specified document.
 
 
 ## Remarks
 
-Use  **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
+Use **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
 
 
 ```vb
@@ -27,7 +27,7 @@ If ActiveDocument.Indexes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
+Use the **Add** method to create an index and add it to the **Indexes** collection. The following example creates an index at the end of the active document.
 
 
 

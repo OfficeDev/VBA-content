@@ -43,7 +43,7 @@ Double
 
 ## Remarks
 
-If this function is not available, and returns the #NAME? error, you need to install and load the  **Analysis ToolPak** add-in.
+If this function is not available, and returns the #NAME? error, you need to install and load the **Analysis ToolPak** add-in.
 
 If the parameter is nonnumeric, ERFC returns the #VALUE! error value.
 

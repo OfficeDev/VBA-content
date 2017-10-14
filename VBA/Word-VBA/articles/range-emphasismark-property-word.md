@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.EmphasisMark Property (Word)
 
-Returns or sets the emphasis mark for a character or designated character string. Read/write  **WdEmphasisMark** .
+Returns or sets the emphasis mark for a character or designated character string. Read/write **WdEmphasisMark** .
 
 
 ## Syntax

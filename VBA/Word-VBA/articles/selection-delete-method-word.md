@@ -29,7 +29,7 @@ Deletes the specified number of characters or words.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which the collapsed selection is to be deleted. Can be one of the  **WdUnits** constants.|
+| _Unit_|Optional| **Variant**|The unit by which the collapsed selection is to be deleted. Can be one of the **WdUnits** constants.|
 | _Count_|Optional| **Variant**|The number of units to be deleted. To delete units after the selection, collapse the selection and use a positive number. To delete units before the selection, collapse the selection and use a negative number.|
 
 ### Return Value
@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-This method returns a  **Long** value that indicates the number of items deleted, or it returns 0 (zero) if the deletion was unsuccessful.
+This method returns a **Long** value that indicates the number of items deleted, or it returns 0 (zero) if the deletion was unsuccessful.
 
 
 ## Example

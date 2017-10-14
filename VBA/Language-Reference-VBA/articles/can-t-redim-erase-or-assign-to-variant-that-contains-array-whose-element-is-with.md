@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- You've attempted to  **ReDim**, **Erase**, or assign to a **Variant** a variable whose element is a With object. For example, the following code produces this error:
+- You've attempted to **ReDim**, **Erase**, or assign to a **Variant** a variable whose element is a With object. For example, the following code produces this error:
     
 ```vb
 Type Test

@@ -41,7 +41,7 @@ Nothing
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The  **IconFileName** method loads the file that contains the icon, saves the bits, and discards the file name.
+The **IconFileName** method loads the file that contains the icon, saves the bits, and discards the file name.
 
 If the icon contains multiple images, Microsoft Visio chooses the best icon, based on both icon size and color depth.
 
@@ -50,11 +50,11 @@ Unless  _IconFileName_ is a fully qualified path, the application searches for t
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how use the  **IconFileName** method to set the icon for a toolbar button. It retrieves a copy of the built-in Visio toolbars, adds a toolbar button, and sets the button icon.
+This Microsoft Visual Basic for Applications (VBA) macro shows how use the **IconFileName** method to set the icon for a toolbar button. It retrieves a copy of the built-in Visio toolbars, adds a toolbar button, and sets the button icon.
 
 Before running this code, replace  _path_ \ _filename_ with the full path to and name of a valid icon (.ico file) on your computer.
 
-To restore the built-in Visio user interface after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in Visio user interface after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

@@ -20,12 +20,12 @@ Gets the  _x-_ and _y-_ coordinates of the shape node. Read-only.
 
  _expression_. **Points**
 
- _expression_A variable that represents a  **ShapeNode** object.
+ _expression_A variable that represents a **ShapeNode** object.
 
 
 ## Remarks
 
-This property is read-only. Use the  **[SetPosition](shapenodes-setposition-method-publisher.md)** method to set the location of the node.
+This property is read-only. Use the **[SetPosition](shapenodes-setposition-method-publisher.md)** method to set the location of the node.
 
 
 ## Example

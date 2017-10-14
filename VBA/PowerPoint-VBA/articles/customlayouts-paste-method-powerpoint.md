@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayouts.Paste Method (PowerPoint)
 
-Pastes the slides on the Clipboard into a custom layout and adds the custom layout to the  **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
+Pastes the slides on the Clipboard into a custom layout and adds the custom layout to the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Long**|The index number of the custom layout before which the new custom layout is pasted. If this argument is omitted, the new custom layout is pasted at the end of the  **CustomLayouts** collection.|
+| _Index_|Optional|**Long**|The index number of the custom layout before which the new custom layout is pasted. If this argument is omitted, the new custom layout is pasted at the end of the **CustomLayouts** collection.|
 
 ### Return Value
 

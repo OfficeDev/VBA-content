@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetForeColor Property (Access)
 
-You can use the  **DatasheetForeColor** property in Visual Basic to specify or determine the color of all text in a table, query, or form in Datasheet view within an Access database. Read/write **Long**.
+You can use the **DatasheetForeColor** property in Visual Basic to specify or determine the color of all text in a table, query, or form in Datasheet view within an Access database. Read/write **Long**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **DatasheetForeColor** property in Visual Basic to specify or d
 
 ## Remarks
 
-Setting the  **DatasheetForeColor** property for a table or query won't affect this property setting for a form that uses the table or query as its source of data.
+Setting the **DatasheetForeColor** property for a table or query won't affect this property setting for a form that uses the table or query as its source of data.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
 |||
@@ -43,7 +43,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 
 ## Example
 
-The following example uses the SetTableProperty procedure to set a table's font color to dark blue and its background color to light gray. If a "Property not found" error occurs when the property is set, the  **CreateProperty** method is used to add the property to the object's **Properties** collection.
+The following example uses the SetTableProperty procedure to set a table's font color to dark blue and its background color to light gray. If a "Property not found" error occurs when the property is set, the **CreateProperty** method is used to add the property to the object's **Properties** collection.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RecalcFlags Property (Project)
 
-Gets a bit mask, flagging one or more conditions that are driving the task. Read-only  **Long**.
+Gets a bit mask, flagging one or more conditions that are driving the task. Read-only **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets a bit mask, flagging one or more conditions that are driving the task. Read
 
 ## Remarks
 
-Use the  **[PjRecalcDriverType](pjrecalcdrivertype-enumeration-project.md)** constants with the return value from the **RecalcFlags** property to determine which specific conditions are driving the task.
+Use the **[PjRecalcDriverType](pjrecalcdrivertype-enumeration-project.md)** constants with the return value from the **RecalcFlags** property to determine which specific conditions are driving the task.
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Print Command (File Menu)
 
-Prints forms and code to the printer specified in the Microsoft Windows  **Control** **Panel**.
+Prints forms and code to the printer specified in the Microsoft Windows **Control** **Panel**.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_prnt_ZA01201725.gif). Keyboard shortcut: CTRL+P.
@@ -56,7 +56,7 @@ Determines whether you print high, medium, low, or draft output quality.
 
  **Print to File**
 
-If selected, print is sent to the file specified in the  **Print** **To** **File** dialog box. This dialog box appears after you choose OK in the **Print** dialog box.
+If selected, print is sent to the file specified in the **Print** **To** **File** dialog box. This dialog box appears after you choose OK in the **Print** dialog box.
 
  **OK**
 
@@ -68,6 +68,6 @@ Closes the dialog box without printing.
 
  **Setup**
 
-Displays the standard  **Print** **Setup** dialog box.
+Displays the standard **Print** **Setup** dialog box.
 
 

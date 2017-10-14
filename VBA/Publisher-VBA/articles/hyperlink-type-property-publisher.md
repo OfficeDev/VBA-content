@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Hyperlink.Type Property (Publisher)
 
-Returns an  **MsoHyperlinkType** constant that represents the hyperlink type. Read-only.
+Returns an **MsoHyperlinkType** constant that represents the hyperlink type. Read-only.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **MsoHyperlinkType** constants.
+The **Type** property value can be one of these **MsoHyperlinkType** constants.
 
 
 

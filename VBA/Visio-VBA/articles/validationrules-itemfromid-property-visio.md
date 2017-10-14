@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRules.ItemFromID Property (Visio)
 
-Returns the  **[ValidationRule](validationrule-object-visio.md)** object that matches the specified ID. Read-only.
+Returns the **[ValidationRule](validationrule-object-visio.md)** object that matches the specified ID. Read-only.
 
 
 ## Syntax

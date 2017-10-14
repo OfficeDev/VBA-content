@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Password Property (Excel)
 
-Returns or sets the password that must be supplied to open the specified workbook. Read/write  **String** .
+Returns or sets the password that must be supplied to open the specified workbook. Read/write **String** .
 
 
 ## Syntax

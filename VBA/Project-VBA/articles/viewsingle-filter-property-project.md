@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewSingle.Filter Property (Project)
 
-Gets or sets a  **[Filter](filter-object-project.md)** object representing the filter used in a single view. Read/write **Filter**.
+Gets or sets a **[Filter](filter-object-project.md)** object representing the filter used in a single view. Read/write **Filter**.
 
 
 ## Syntax

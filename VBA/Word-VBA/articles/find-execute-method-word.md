@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Execute Method (Word)
 
-Runs the specified find operation. Returns  **True** if the find operation is successful. **Boolean** .
+Runs the specified find operation. Returns **True** if the find operation is successful. **Boolean** .
 
 
 ## Syntax
@@ -36,10 +36,10 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 | _MatchSoundsLike_|Optional| **Variant**| **True** to have the find operation locate words that sound similar to the find text. Corresponds to the **Sounds like** check box in the **Find and Replace** dialog box.|
 | _MatchAllWordForms_|Optional| **Variant**| **True** to have the find operation locate all forms of the find text (for example, "sit" locates "sitting" and "sat"). Corresponds to the **Find all word forms** check box in the **Find and Replace** dialog box.|
 | _Forward_|Optional| **Variant**| **True** to search forward (toward the end of the document).|
-| _Wrap_|Optional| **Variant**|Controls what happens if the search begins at a point other than the beginning of the document and the end of the document is reached (or vice versa if Forward is set to  **False** ). This argument also controls what happens if there is a selection or range and the search text is not found in the selection or range. Can be one of the **WdFindWrap** constants.|
+| _Wrap_|Optional| **Variant**|Controls what happens if the search begins at a point other than the beginning of the document and the end of the document is reached (or vice versa if Forward is set to **False** ). This argument also controls what happens if there is a selection or range and the search text is not found in the selection or range. Can be one of the **WdFindWrap** constants.|
 | _Format_|Optional| **Variant**| **True** to have the find operation locate formatting in addition to, or instead of, the find text.|
 | _ReplaceWith_|Optional| **Variant**|The replacement text. To delete the text specified by the Find argument, use an empty string (""). You specify special characters and advanced search criteria just as you do for the Find argument. To specify a graphic object or other nontext item as the replacement, move the item to the Clipboard and specify "^c" for ReplaceWith.|
-| _Replace_|Optional| **Variant**|Specifies how many replacements are to be made: one, all, or none. Can be any  **[WdReplace](http://msdn.microsoft.com/library/e7e8b8c3-e862-5fe6-ee56-b054263a4402.md.aspx)** constant.|
+| _Replace_|Optional| **Variant**|Specifies how many replacements are to be made: one, all, or none. Can be any **[WdReplace](http://msdn.microsoft.com/library/e7e8b8c3-e862-5fe6-ee56-b054263a4402.md.aspx)** constant.|
 | _MatchKashida_|Optional| **Variant**| **True** if find operations match text with matching kashidas in an Arabic-language document. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _MatchDiacritics_|Optional| **Variant**| **True** if find operations match text with matching diacritics in a right-to-left language document. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _MatchAlefHamza_|Optional| **Variant**| **True** if find operations match text with matching alef hamzas in an Arabic-language document. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
@@ -57,13 +57,13 @@ Boolean
 
 ## Remarks
 
-If  **MatchWildcards** is **True** , you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
+If **MatchWildcards** is **True** , you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
 
 To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (?).
 
 Unless otherwise specified, replacement text inherits the formatting of the text it replaces in the document. For example, if you replace the string "abc" with "xyz", occurrences of "abc" with bold formatting are replaced with the string "xyz" with bold formatting.
 
-Also, if  **MatchCase** is **False** , occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
+Also, if **MatchCase** is **False** , occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
 
 
 ## Example

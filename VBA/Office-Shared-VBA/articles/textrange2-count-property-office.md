@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **TextRange2** collection. Read-only.
+Gets a **Long** indicating the number of items in the **TextRange2** collection. Read-only.
 
 
 ## Syntax

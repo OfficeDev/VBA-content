@@ -20,7 +20,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
  _expression_. **PresetDrop**( **_DropType_**)
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 ## Remarks
 
-The DropType parameter can be one of the  **MsoCalloutDropType** constants declared in the Microsoft Office type library and shown in the following table.
+The DropType parameter can be one of the **MsoCalloutDropType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

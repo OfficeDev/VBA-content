@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.ParagraphFormat Property (Office)
 
-Returns a  **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.
+Returns a **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.
 
 
 ## Syntax

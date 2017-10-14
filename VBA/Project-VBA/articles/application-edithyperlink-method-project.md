@@ -41,7 +41,7 @@ Edits the hyperlink of the selected assignment, resource, or task.
 
 ## Remarks
 
-Using the  **EditHyperlink** method without specifying any arguments displays the **Edit Hyperlink** dialog box.
+Using the **EditHyperlink** method without specifying any arguments displays the **Edit Hyperlink** dialog box.
 
 
 ## Example

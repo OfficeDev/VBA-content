@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Find Method (Project)
 
-Searches for an unfiltered value; returns  **True** if the value is found.
+Searches for an unfiltered value; returns **True** if the value is found.
 
 
 ## Syntax

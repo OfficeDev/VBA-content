@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.WorkbookParameter Property (Excel)
 
-Returns or sets the specified  **Name** object as a workbook parameter. Read/write
+Returns or sets the specified **Name** object as a workbook parameter. Read/write
 
 
 ## Syntax

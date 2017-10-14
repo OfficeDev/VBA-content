@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.EndConnectedShape Property (Publisher)
 
-Returns a  **[Shape](shape-object-publisher.md)** object that represents the shape to which the end of the specified connector is attached.
+Returns a **[Shape](shape-object-publisher.md)** object that represents the shape to which the end of the specified connector is attached.
 
 
 ## Syntax
 
  _expression_. **EndConnectedShape**
 
- _expression_A variable that represents an  **ConnectorFormat** object.
+ _expression_A variable that represents an **ConnectorFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Shape
 
 If the end of the specified connector isn't attached to a shape, an error occurs.
 
-Use the  **[BeginConnectedShape](connectorformat-beginconnectedshape-property-publisher.md)** property to return the shape attached to the beginning of a connector.
+Use the **[BeginConnectedShape](connectorformat-beginconnectedshape-property-publisher.md)** property to return the shape attached to the beginning of a connector.
 
 
 ## Example

@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **ShowStatusBar** property persists each time you run the application. The **ShowToolbar** property is valid for a Microsoft Visio instance only.
+The **ShowStatusBar** property persists each time you run the application. The **ShowToolbar** property is valid for a Microsoft Visio instance only.
 
 
 ## Example

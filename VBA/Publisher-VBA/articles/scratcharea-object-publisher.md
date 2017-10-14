@@ -19,7 +19,7 @@ Represents the area outside the boundaries of publication pages where layout ele
 
 ## Example
 
-Use the  **[ScratchArea](document-scratcharea-property-publisher.md)** property of the **Document** object to return a scratch area. Use the **Shapes** property of the **ScratchArea** object to return the collection of shapes that are currently on a scratch area.
+Use the **[ScratchArea](document-scratcharea-property-publisher.md)** property of the **Document** object to return a scratch area. Use the **Shapes** property of the **ScratchArea** object to return the collection of shapes that are currently on a scratch area.
  
 
  

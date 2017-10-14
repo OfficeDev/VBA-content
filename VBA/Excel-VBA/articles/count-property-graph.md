@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Count Property (Graph)
 
-Returns the number of objects in the specified collection. Read-only  **Long**.
+Returns the number of objects in the specified collection. Read-only **Long**.
 
 
 ## Example

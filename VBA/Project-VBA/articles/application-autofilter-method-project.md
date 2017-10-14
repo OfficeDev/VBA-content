@@ -30,8 +30,8 @@ Activates or deactivates the AutoFilter feature for the active project.
 
 ## Remarks
 
-The  **AutoFilter** method toggles the AutoFilter feature on and off. It has the same effect as the **AutoFilter** command on the filter drop-down menu on the **View** tab for **Gantt Chart Tools** in the Ribbon. If column headings show the AutoFilter drop-down menu, executing the AutoFilter method hides the AutoFilter menus for columns in all sheet views in the active project.
+The **AutoFilter** method toggles the AutoFilter feature on and off. It has the same effect as the **AutoFilter** command on the filter drop-down menu on the **View** tab for **Gantt Chart Tools** in the Ribbon. If column headings show the AutoFilter drop-down menu, executing the AutoFilter method hides the AutoFilter menus for columns in all sheet views in the active project.
 
-To set an AutoFilter, see the  **[SetAutoFilter](application-setautofilter-method-project.md)** method.
+To set an AutoFilter, see the **[SetAutoFilter](application-setautofilter-method-project.md)** method.
 
 

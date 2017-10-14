@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SeriesCollection Object (Excel)
 
-A collection of all the  **[Series](series-object-excel.md)** objects in the specified chart or chart group.
+A collection of all the **[Series](series-object-excel.md)** objects in the specified chart or chart group.
 
 
 ## Remarks
 
-Use the  **[SeriesCollection](chart-seriescollection-method-excel.md)** method to return the **SeriesCollection** collection.
+Use the **[SeriesCollection](chart-seriescollection-method-excel.md)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -31,7 +31,7 @@ Worksheets(1).ChartObjects(1).Chart. _
  SeriesCollection.Extend Worksheets(1).Range("c1:c10")
 ```
 
-Use the  **[Add](seriescollection-add-method-excel.md)** method to create a new series and add it to the chart. The following example adds the data from cells A1:A19 as a new series on the chart sheet named "Chart1."
+Use the **[Add](seriescollection-add-method-excel.md)** method to create a new series and add it to the chart. The following example adds the data from cells A1:A19 as a new series on the chart sheet named "Chart1."
 
 
 
@@ -41,7 +41,7 @@ Charts("chart1").SeriesCollection.Add _
  source:=Worksheets("sheet1").Range("a1:a19")
 ```
 
-Use  **SeriesCollection** ( _index_ ), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
+Use **SeriesCollection** ( _index_ ), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
 
 
 

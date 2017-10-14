@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Width Property (Office)
 
-Gets or sets the width (in pixels) of the specified  **CommandBarPopup** control. Read/write.
+Gets or sets the width (in pixels) of the specified **CommandBarPopup** control. Read/write.
 
 
 ## 

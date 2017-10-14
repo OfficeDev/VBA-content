@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.Value Property (Access)
 
-Determines or specifies the text in the text box. Read/write  **Variant**.
+Determines or specifies the text in the text box. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Determines or specifies the text in the text box. Read/write  **Variant**.
 
 ## Remarks
 
-The  **Text** property returns the formatted string. The **Text** property may be different than the **Value** property for a text box control. The **Text** property is the current contents of the control. The **Value** property is the saved value of the text box control. The **Text** property is always current while the control has the focus.
+The **Text** property returns the formatted string. The **Text** property may be different than the **Value** property for a text box control. The **Text** property is the current contents of the control. The **Value** property is the saved value of the text box control. The **Text** property is always current while the control has the focus.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
 
  **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.

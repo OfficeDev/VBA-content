@@ -39,9 +39,9 @@ String
 
 ## Remarks
 
-The  **USDollar** method converts a number to text using currency format, with the decimals rounded to the specified place. The format used is $#,##0.00_);($#,##0.00).
+The **USDollar** method converts a number to text using currency format, with the decimals rounded to the specified place. The format used is $#,##0.00_);($#,##0.00).
 
-The major difference between formatting a cell that contains a number with the  **Format Cells** command and formatting a number directly with the **DOLLAR** method is that DOLLAR converts its result to text. A number formatted with the **Format Cells** command is still a number. You can continue to use numbers formatted with **DOLLAR** in formulas, because Excel converts numbers entered as text values to numbers when it calculates.
+The major difference between formatting a cell that contains a number with the **Format Cells** command and formatting a number directly with the **DOLLAR** method is that DOLLAR converts its result to text. A number formatted with the **Format Cells** command is still a number. You can continue to use numbers formatted with **DOLLAR** in formulas, because Excel converts numbers entered as text values to numbers when it calculates.
 
 
 ## Example

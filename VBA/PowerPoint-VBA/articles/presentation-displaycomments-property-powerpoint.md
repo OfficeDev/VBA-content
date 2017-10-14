@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value returned by the  **DisplayComments** property can be one of these **MsoTriState** constants.
+The value returned by the **DisplayComments** property can be one of these **MsoTriState** constants.
 
 
 

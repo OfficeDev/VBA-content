@@ -21,9 +21,9 @@ You can specify custom actions for a form region. To create an action that suits
 In the Forms Designer, do the following:
 
 
-1. Click the  **(Actions)** page.
+1. Click the **(Actions)** page.
     
-2. Click  **New**. 
+2. Click **New**. 
     
 3. Select the options that you want.
     

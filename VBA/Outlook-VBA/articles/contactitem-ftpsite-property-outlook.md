@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.FTPSite Property (Outlook)
 
-Returns or sets a  **String** representing the FTP site entry for the contact. Read/write.
+Returns or sets a **String** representing the FTP site entry for the contact. Read/write.
 
 
 ## Syntax

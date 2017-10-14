@@ -29,15 +29,15 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the  **[PjTaskTimescaledData](pjtasktimescaleddata-enumeration-project.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](pjresourcetimescaleddata-enumeration-project.md)** constants.|
+| _Item_|Optional|**Long**|The timescaled data field to format. If the active view is the Task Usage view, the value can be one of the **[PjTaskTimescaledData](pjtasktimescaleddata-enumeration-project.md)** constants. If the active view is the Resource Usage view, the value can be one of the **[PjResourceTimescaledData](pjresourcetimescaleddata-enumeration-project.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points.|
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the font. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
-| _CellColor_|Optional|**Long**|The color of the cell background. Can be one of the  **PjColor** constants.|
-| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Color_|Optional|**Long**|The color of the font. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _CellColor_|Optional|**Long**|The color of the cell background. Can be one of the **PjColor** constants.|
+| _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 
 ### Return Value
@@ -47,9 +47,9 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 
 ## Remarks
 
-Using the  **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
+Using the **DetailStylesFormat** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Details** tab selected.
 
-To edit the timescale data where the text and cell color can be a hexadecimal RGB value, and the font can include the strikethrough style, use the  **[DetailStylesFormatEx](application-detailstylesformatex-method-project.md)** method.
+To edit the timescale data where the text and cell color can be a hexadecimal RGB value, and the font can include the strikethrough style, use the **[DetailStylesFormatEx](application-detailstylesformatex-method-project.md)** method.
 
 
 ## Example

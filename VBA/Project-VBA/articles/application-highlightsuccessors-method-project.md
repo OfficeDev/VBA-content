@@ -36,12 +36,12 @@ Sets or clears task successor highlighting for the task path feature.
 
 ## Remarks
 
-The  **HighlightSuccessors** method corresponds to the **Successors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
+The **HighlightSuccessors** method corresponds to the **Successors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
 
 
 ## Example
 
-Create a project where task 4 is a successor of task 3, and then run the following statements in the  **Immediate** window of the VBE. The **PathSuccessor** statement prints **True**.
+Create a project where task 4 is a successor of task 3, and then run the following statements in the **Immediate** window of the VBE. The **PathSuccessor** statement prints **True**.
 
 
 ```vb

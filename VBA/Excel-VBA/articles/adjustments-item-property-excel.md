@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Adjustments.Item Property (Excel)
 
-Returns or sets the adjustment value specified by the  **Index** argument. Read/write **Single** .
+Returns or sets the adjustment value specified by the **Index** argument. Read/write **Single** .
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns or sets the adjustment value specified by the  **Index** argument. Read/
 
 AutoShapes, connectors, and WordArt objects can have up to eight adjustments.
 
-For linear adjustments, an adjustment value of 0.0 generally corresponds to the left or top edge of the shape, and a value of 1.0 generally corresponds to the right or bottom edge of the shape. However, adjustments can pass beyond shape boundaries for some shapes. For radial adjustments, an adjustment value of 1.0 corresponds to the width of the shape. For angular adjustments, the adjustment value is specified in degrees. The  **Item** property applies only to shapes that have adjustments.
+For linear adjustments, an adjustment value of 0.0 generally corresponds to the left or top edge of the shape, and a value of 1.0 generally corresponds to the right or bottom edge of the shape. However, adjustments can pass beyond shape boundaries for some shapes. For radial adjustments, an adjustment value of 1.0 corresponds to the width of the shape. For angular adjustments, the adjustment value is specified in degrees. The **Item** property applies only to shapes that have adjustments.
 
 
 ## See also

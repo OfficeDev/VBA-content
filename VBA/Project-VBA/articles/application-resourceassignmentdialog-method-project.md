@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ResourceAssignmentDialog Method (Project)
 
-Displays the  **Assign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
+Displays the **Assign Resources** dialog box, expands or collapses the **Resource list options**, and specifies fields and filters.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ShowResourceListOptions_|Optional|**Boolean**|**True** if Project expands the **Resource list options**. The default value is  **False**.|
-| _ResourceListFields_|Optional|**Long**|The fields listing data from the active project. Can be one of the following  **PjAssignResourcesListFields** constants: **pjAllColumns** or **pjBasic**. The default value is **pjAllColumns**.|
+| _ShowResourceListOptions_|Optional|**Boolean**|**True** if Project expands the **Resource list options**. The default value is **False**.|
+| _ResourceListFields_|Optional|**Long**|The fields listing data from the active project. Can be one of the following **PjAssignResourcesListFields** constants: **pjAllColumns** or **pjBasic**. The default value is **pjAllColumns**.|
 | _UseNamedFilter_|Optional|**Boolean**|**True** if Project filters resource lists by the filter specified in the FilterName argument.|
 | _FilterName_|Optional|**String**|A string representing the name of the resource filter to be applied to the resource list.|
 | _UseAvailableToWorkFilter_|Optional|**Boolean**|**True** if Project filters the resource list by a resource's availability to work.|

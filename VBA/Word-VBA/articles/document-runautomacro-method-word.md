@@ -33,7 +33,7 @@ Runs an auto macro that's stored in the specified document. If the specified aut
 
 ## Remarks
 
-Use the  **Run** method to run any macro.
+Use the **Run** method to run any macro.
 
 
 ## Example

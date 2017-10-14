@@ -33,12 +33,12 @@ Hides a form page or a form region in the inspector.
 
 ## Remarks
 
-You can use  **HideFormRegion** to hide a form region by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can hide the form region.
+You can use **HideFormRegion** to hide a form region by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can hide the form region.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **HideFormPage** to hide the "General" page of a newly-created **[ContactItem](contactitem-object-outlook.md)** and displays the item.
+This Visual Basic for Applications (VBA) example uses **HideFormPage** to hide the "General" page of a newly-created **[ContactItem](contactitem-object-outlook.md)** and displays the item.
 
 
 ```vb

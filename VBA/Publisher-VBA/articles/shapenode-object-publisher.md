@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ShapeNode Object (Publisher)
 
-Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The  **ShapeNode** object is a member of the **[ShapeNodes](shapenodes-object-publisher.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
+Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform. Nodes include the vertices between the segments of the freeform and the control points for curved segments. The **ShapeNode** object is a member of the **[ShapeNodes](shapenodes-object-publisher.md)** collection. The **ShapeNodes** collection contains all the nodes in a freeform.
  
 
 
 ## Example
 
-Use  **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
+Use **Nodes** (index), where index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape one must be a freeform.
  
 
  

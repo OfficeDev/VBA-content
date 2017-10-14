@@ -18,11 +18,11 @@ Represents a saved import or export operation.
 
 ## Remarks
 
-A  **ImportExportSpecification** object contains all the information Access needs to repeat an import or export operation without your having to provide any input. For example, an import specification that imports data from a Microsoft Office Excel 2007 workbook stores the name of the source Excel file, the name of the destination database, and other details, such as whether you appended to or created a new table, primary key information, field names, and so on.
+A **ImportExportSpecification** object contains all the information Access needs to repeat an import or export operation without your having to provide any input. For example, an import specification that imports data from a Microsoft Office Excel 2007 workbook stores the name of the source Excel file, the name of the destination database, and other details, such as whether you appended to or created a new table, primary key information, field names, and so on.
 
-Use the  **[Add](http://msdn.microsoft.com/library/c048c45f-15e9-6347-b953-c9a5702d2bc5%28Office.15%29.aspx)** method of the **[ImportExportSpecifications](http://msdn.microsoft.com/library/9ddb9b30-36f3-5efb-8b15-69762c660338%28Office.15%29.aspx)** collection to create a new **ImportExportSpecification** object.
+Use the **[Add](http://msdn.microsoft.com/library/c048c45f-15e9-6347-b953-c9a5702d2bc5%28Office.15%29.aspx)** method of the **[ImportExportSpecifications](http://msdn.microsoft.com/library/9ddb9b30-36f3-5efb-8b15-69762c660338%28Office.15%29.aspx)** collection to create a new **ImportExportSpecification** object.
 
-Use the  **[Execute](http://msdn.microsoft.com/library/fcb7cfd3-0c66-f441-9b58-1c6982125f98%28Office.15%29.aspx)** method to run saved import or export operation.
+Use the **[Execute](http://msdn.microsoft.com/library/fcb7cfd3-0c66-f441-9b58-1c6982125f98%28Office.15%29.aspx)** method to run saved import or export operation.
 
 
 ## Methods

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.FileFormat Property (Excel)
 
-Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](xlfileformat-enumeration-excel.md)** .
+Returns the file format and/or type of the workbook. Read-only **[XlFileFormat](xlfileformat-enumeration-excel.md)** .
 
 
 ## Syntax

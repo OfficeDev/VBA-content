@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GlowFormat.Radius Property (Office)
 
-Gets or sets the radius value of the glow effect for the  **GlowFormat** object. Read/write.
+Gets or sets the radius value of the glow effect for the **GlowFormat** object. Read/write.
 
 
 ## Syntax

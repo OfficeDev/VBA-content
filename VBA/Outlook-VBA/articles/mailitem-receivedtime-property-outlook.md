@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ReceivedTime Property (Outlook)
 
-Returns a  **Date** indicating the date and time at which the item was received. Read-only.
+Returns a **Date** indicating the date and time at which the item was received. Read-only.
 
 
 ## Syntax

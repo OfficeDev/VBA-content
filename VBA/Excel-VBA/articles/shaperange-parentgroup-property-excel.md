@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ParentGroup Property (Excel)
 
-Returns a  **[Shape](shape-object-excel.md)** object that represents the common parent shape of a child shape or a range of child shapes.
+Returns a **[Shape](shape-object-excel.md)** object that represents the common parent shape of a child shape or a range of child shapes.
 
 
 ## Syntax

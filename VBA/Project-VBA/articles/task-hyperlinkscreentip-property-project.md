@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.HyperlinkScreenTip Property (Project)
 
-Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
+Gets or sets a ScreenTip for the hyperlink. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
 
 ## Remarks
 
-The  **HyperlinkScreenTip** property is limited to 255 characters.
+The **HyperlinkScreenTip** property is limited to 255 characters.
 
 

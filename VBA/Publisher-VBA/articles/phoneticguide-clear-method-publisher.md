@@ -20,6 +20,6 @@ Removes the phonetic information from Japanese text.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_A variable that represents a **PhoneticGuide** object.
 
 

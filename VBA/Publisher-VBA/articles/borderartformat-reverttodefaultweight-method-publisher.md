@@ -20,14 +20,14 @@ Sets the BorderArt on the specified shape back to its default thickness.
 
  _expression_. **RevertToDefaultWeight**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ## Remarks
 
-The  **RevertToDefaultWeight** method has the same effect as the **Always apply at default size** control on the **BorderArt** dialog box.
+The **RevertToDefaultWeight** method has the same effect as the **Always apply at default size** control on the **BorderArt** dialog box.
 
-Use the  **[Weight](borderartformat-weight-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the specified BorderArt to a thickness other than the default.
+Use the **[Weight](borderartformat-weight-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the specified BorderArt to a thickness other than the default.
 
 
 ## Example

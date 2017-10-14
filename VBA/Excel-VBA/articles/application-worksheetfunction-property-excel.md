@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WorksheetFunction Property (Excel)
 
-Returns the  **[WorksheetFunction](worksheetfunction-object-excel.md)** object. Read-only.
+Returns the **[WorksheetFunction](worksheetfunction-object-excel.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[WorksheetFunction](worksheetfunction-object-excel.md)** object. 
 
 ## Example
 
-This example displays the result of applying the  **Min** worksheet function to the range A1:A10.
+This example displays the result of applying the **Min** worksheet function to the range A1:A10.
 
 
 ```vb

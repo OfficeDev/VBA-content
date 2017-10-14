@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.BuiltIn Property (Office)
 
-Gets a value that indicates whether the  **CustomXMLPart** is built-in. Read-only
+Gets a value that indicates whether the **CustomXMLPart** is built-in. Read-only
 
 
 ## Syntax

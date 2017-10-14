@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # SyncObject Object (Outlook)
 
-Represents a  **Send\Receive** group for a user.
+Represents a **Send\Receive** group for a user.
 
 
 ## Remarks
 
-A  **Send\Receive** group lets users configure different synchronization scenarios, selecting which folders and which filters apply.
+A **Send\Receive** group lets users configure different synchronization scenarios, selecting which folders and which filters apply.
 
-Use the  **[Item](syncobjects-item-method-outlook.md)** method to retrieve the **SyncObject** object from a **[SyncObjects](syncobjects-object-outlook.md)** object. Because the **[Name](syncobject-name-property-outlook.md)** property is the default property of the **SyncObject** object, you can identify the group by name.
+Use the **[Item](syncobjects-item-method-outlook.md)** method to retrieve the **SyncObject** object from a **[SyncObjects](syncobjects-object-outlook.md)** object. Because the **[Name](syncobject-name-property-outlook.md)** property is the default property of the **SyncObject** object, you can identify the group by name.
 
-The  **SyncObject** object is read-only; you cannot change its properties or create new ones. However, note that you can add one **Send/Receive** group using the **[SyncObjects.AppFolders](syncobjects-appfolders-property-outlook.md)** property which will create a **Send/Receive** group called **Application Folders**.
+The **SyncObject** object is read-only; you cannot change its properties or create new ones. However, note that you can add one **Send/Receive** group using the **[SyncObjects.AppFolders](syncobjects-appfolders-property-outlook.md)** property which will create a **Send/Receive** group called **Application Folders**.
 
 
 ## Example
 
-The following example retrieves a  **SyncObject** object by name.
+The following example retrieves a **SyncObject** object by name.
 
 
 ```

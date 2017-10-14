@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.RefersTo Property (Excel)
 
-Returns or sets the formula that the name is defined to refer to, in the language of the macro and in A1-style notation, beginning with an equal sign. Read/write  **String** .
+Returns or sets the formula that the name is defined to refer to, in the language of the macro and in A1-style notation, beginning with an equal sign. Read/write **String** .
 
 
 ## Syntax

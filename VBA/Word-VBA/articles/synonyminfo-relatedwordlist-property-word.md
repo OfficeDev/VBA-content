@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SynonymInfo.RelatedWordList Property (Word)
 
-Returns a list of words related to the specified word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
+Returns a list of words related to the specified word or phrase. The list is returned as an array of strings. Read-only **Variant** .
 
 
 ## Syntax

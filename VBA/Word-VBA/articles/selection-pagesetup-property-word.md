@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.PageSetup Property (Word)
 
-Returns a  **[PageSetup](pagesetup-object-word.md)** object that's associated with the specified selection.
+Returns a **[PageSetup](pagesetup-object-word.md)** object that's associated with the specified selection.
 
 
 ## Syntax

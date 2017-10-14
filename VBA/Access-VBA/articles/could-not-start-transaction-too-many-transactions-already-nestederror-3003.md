@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to nest a transaction more than five levels deep. Use the  **CommitTrans** or **Rollback** method to save or roll back the current before you begin another one.
+You tried to nest a transaction more than five levels deep. Use the **CommitTrans** or **Rollback** method to save or roll back the current before you begin another one.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

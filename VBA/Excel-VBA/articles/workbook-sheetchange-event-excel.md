@@ -29,7 +29,7 @@ Occurs when cells in any worksheet are changed by the user or by an external lin
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sh_|Required| **Object**|A  **[Worksheet](worksheet-object-excel.md)** object that represents the sheet.|
+| _Sh_|Required| **Object**|A **[Worksheet](worksheet-object-excel.md)** object that represents the sheet.|
 | _Target_|Required| **Range**|The changed range.|
 
 ## Remarks

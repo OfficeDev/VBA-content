@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ConvertToInlineShape Method (Word)
 
-Converts the specified shape in the drawing layer of a document to an inline shape in the text layer. You can convert only shapes that represent pictures, OLE objects, or ActiveX controls. This method returns an  **[InlineShape](inlineshape-object-word.md)** object that represents the picture or OLE object.
+Converts the specified shape in the drawing layer of a document to an inline shape in the text layer. You can convert only shapes that represent pictures, OLE objects, or ActiveX controls. This method returns an **[InlineShape](inlineshape-object-word.md)** object that represents the picture or OLE object.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Converts the specified shape in the drawing layer of a document to an inline sha
 
 ## Remarks
 
-Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the  **ConvertToFrame** method.
+Shapes that support attached text cannot be converted to inline shapes. For these shapes, use the **ConvertToFrame** method.
 
 
 
-If you use this method on a  **ShapeRange** object that contains more than one shape, an error occurs.
+If you use this method on a **ShapeRange** object that contains more than one shape, an error occurs.
 
 
 

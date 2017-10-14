@@ -40,7 +40,7 @@ This page links to help on widely used user-interface tasks. For more informatio
     
 - [How to: Display and Use the File Dialog Box](display-and-use-the-file-dialog-box.md)
     
-      - Describes how to use the  **FileDialog** object to display the file dialog box used by Microsoft Access and to determine what files were selected by the user.
+      - Describes how to use the **FileDialog** object to display the file dialog box used by Microsoft Access and to determine what files were selected by the user.
     
 - [How to: Use Existing Custom Menus and Toolbars](use-existing-custom-menus-and-toolbars.md)
     
@@ -48,7 +48,7 @@ This page links to help on widely used user-interface tasks. For more informatio
     
 - [How to: Use the Status Bar Progress Meter](use-the-status-bar-progress-meter.md)
     
-      - Describes how to use the  **SysCmd** method to create a progress meter on the status bar.
+      - Describes how to use the **SysCmd** method to create a progress meter on the status bar.
     
 
 - [How Do I... in Access](how-do-i-access-vba-reference.md)

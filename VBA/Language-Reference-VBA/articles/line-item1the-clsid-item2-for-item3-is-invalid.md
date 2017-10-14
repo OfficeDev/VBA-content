@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Line 'item1': The CLSID 'item2' for 'item3' is invalid.
 
-An object could not be loaded while loading a Form, User Control, User Document, or Property Page from a text file. The CLSID specified in the file is not valid. Applies only to objects that are properties, such as the  **Font** object. This message is written to the error log file.
+An object could not be loaded while loading a Form, User Control, User Document, or Property Page from a text file. The CLSID specified in the file is not valid. Applies only to objects that are properties, such as the **Font** object. This message is written to the error log file.
 
 

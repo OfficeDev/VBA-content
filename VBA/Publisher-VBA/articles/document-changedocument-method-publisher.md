@@ -18,9 +18,9 @@ Changes the current publication to one that uses the wizard, and optionally the 
 
 ## Syntax
 
- _expression_. **ChangeDocument**( **_Wizard_**,  **_Design_**)
+ _expression_. **ChangeDocument**( **_Wizard_**, **_Design_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -34,12 +34,12 @@ Changes the current publication to one that uses the wizard, and optionally the 
 
 ## Remarks
 
-Possible values for the Wizard parameter are declared in the  **[PbWizard](pbwizard-enumeration-publisher.md)** enumeration in the Publisher type library.
+Possible values for the Wizard parameter are declared in the **[PbWizard](pbwizard-enumeration-publisher.md)** enumeration in the Publisher type library.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ChangeDocument** method to change the wizard used by the current publicaton to a brochure.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ChangeDocument** method to change the wizard used by the current publicaton to a brochure.
 
 
 ```vb

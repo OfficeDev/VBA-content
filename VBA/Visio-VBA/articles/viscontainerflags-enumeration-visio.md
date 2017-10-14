@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisContainerFlags Enumeration (Visio)
 
-Specifies which container member shape IDs to return; constants passed to the  **[ContainerProperties.GetMemberShapes](containerproperties-getmembershapes-method-visio.md)** method.
+Specifies which container member shape IDs to return; constants passed to the **[ContainerProperties.GetMemberShapes](containerproperties-getmembershapes-method-visio.md)** method.
 
 
 

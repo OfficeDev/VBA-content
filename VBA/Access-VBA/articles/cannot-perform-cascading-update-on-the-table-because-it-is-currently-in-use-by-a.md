@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 You are trying to save a value into a primary key field that is included in a relationship.
 
-In Microsoft Access, the  **Cascade Update Related Fields** option is selected for the relationship, or in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Your application is attempting to update the matching field in the related table.
+In Microsoft Access, the **Cascade Update Related Fields** option is selected for the relationship, or in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Your application is attempting to update the matching field in the related table.
 The matching field cannot be updated because of a locking conflict with another user. To save the record, you must wait until the related table is no longer in use.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

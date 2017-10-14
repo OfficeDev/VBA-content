@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.AllowPivotTableView Property (Access)
 
-Returns or sets a  **Boolean** indicating whether the specified form may be viewed in PivotTable View. **True** if PivotTable View is allowed. Read/write.
+Returns or sets a **Boolean** indicating whether the specified form may be viewed in PivotTable View. **True** if PivotTable View is allowed. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating whether the specified form may be view
 
 ## Remarks
 
-Use the  **[AllowDatasheetView](form-allowdatasheetview-property-access.md)**, **[AllowFormView](form-allowformview-property-access.md)**, **AllowPivotChartView**, or **AllowPivotTableView** properties to control which views are allowed for a form.
+Use the **[AllowDatasheetView](form-allowdatasheetview-property-access.md)**, **[AllowFormView](form-allowformview-property-access.md)**, **AllowPivotChartView**, or **AllowPivotTableView** properties to control which views are allowed for a form.
 
 
 ## Example

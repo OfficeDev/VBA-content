@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.EndnoteOptions Property (Word)
 
-Returns an  **[EndnoteOptions](endnoteoptions-object-word.md)** object that represents the endnotes in a selection.
+Returns an **[EndnoteOptions](endnoteoptions-object-word.md)** object that represents the endnotes in a selection.
 
 
 ## Syntax

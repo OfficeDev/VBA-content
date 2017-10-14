@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CloseUndoTransaction Method (Project)
 
-Closes an undo set for a series of operations previously created by  **[OpenUndoTransaction](application-openundotransaction-method-project.md)** method.
+Closes an undo set for a series of operations previously created by **[OpenUndoTransaction](application-openundotransaction-method-project.md)** method.
 
 
 ## Syntax

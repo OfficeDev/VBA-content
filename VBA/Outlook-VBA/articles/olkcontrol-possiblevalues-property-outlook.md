@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.PossibleValues Property (Outlook)
 
-Returns or sets a  **String** that represents a list of possible values for the drop-down list for the control, seperated by semicolons. Read/write.
+Returns or sets a **String** that represents a list of possible values for the drop-down list for the control, seperated by semicolons. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents a list of possible values for the 
 
 ## Remarks
 
-For controls that do not support a drop-down list, the value of this property is  **Null** ( **Nothing** for Visual Basic).
+For controls that do not support a drop-down list, the value of this property is **Null** ( **Nothing** for Visual Basic).
 
 
 ## See also

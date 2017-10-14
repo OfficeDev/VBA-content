@@ -29,8 +29,8 @@ Moves or extends the selection to the end of the specified unit.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. Can be a  **WdUnits** constant. The default value is **wdLine** .|
-| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be any  **WdMovementType** constant. If the value of this argument is **wdMove** , the selection is collapsed to an insertion point and moved to the end of the specified unit. If it is **wdExtend** , the end of the selection is extended to the end of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **Variant**|The unit by which the selection is to be moved or extended. Can be a **WdUnits** constant. The default value is **wdLine** .|
+| _Extend_|Optional| **Variant**|Specifies the way the selection is moved. Can be any **WdMovementType** constant. If the value of this argument is **wdMove** , the selection is collapsed to an insertion point and moved to the end of the specified unit. If it is **wdExtend** , the end of the selection is extended to the end of the specified unit. The default value is **wdMove** .|
 
 ## Remarks
 

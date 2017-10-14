@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.SortOrder Property (Project)
 
-Gets or sets the order by which the outline code items are sorted. Read/write  **[PjListOrder](pjlistorder-enumeration-project.md)**.
+Gets or sets the order by which the outline code items are sorted. Read/write **[PjListOrder](pjlistorder-enumeration-project.md)**.
 
 
 ## Syntax

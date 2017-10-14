@@ -38,6 +38,6 @@ Selects the last cell in the active table that contains a resource or task.
 
 ## Remarks
 
-In the Resource Graph,  **SelectEnd** selects the resource with the highest identification number. In the Network Diagram, **SelectEnd** selects the box closest to the lower-right corner of the view. The **SelectEnd** method is not available when the Calendar view is active.
+In the Resource Graph, **SelectEnd** selects the resource with the highest identification number. In the Network Diagram, **SelectEnd** selects the box closest to the lower-right corner of the view. The **SelectEnd** method is not available when the Calendar view is active.
 
 

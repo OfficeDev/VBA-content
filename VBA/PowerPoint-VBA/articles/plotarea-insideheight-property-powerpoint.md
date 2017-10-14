@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideHeight Property (PowerPoint)
 
-Returns or sets the inside height, in points, of the plot area. Read/write  **Double**.
+Returns or sets the inside height, in points, of the plot area. Read/write **Double**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the inside height, in points, of the plot area. Read/write  **Do
 
 ## Remarks
 
-The plot area used for this measurement does not include the axis labels. The  **[Height](plotarea-height-property-powerpoint.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement does not include the axis labels. The **[Height](plotarea-height-property-powerpoint.md)** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 
 ## Example

@@ -20,7 +20,7 @@ Sets the specified fill to a uniform color. Use this method to convert a gradien
 
  _expression_. **Solid**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Example

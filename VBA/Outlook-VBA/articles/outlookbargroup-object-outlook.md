@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # OutlookBarGroup Object (Outlook)
 
-Represents a group of shortcuts in the  **Shortcuts** pane of an explorer window.
+Represents a group of shortcuts in the **Shortcuts** pane of an explorer window.
 
 
 ## Remarks
 
-Use the  **[Item](outlookbargroups-item-method-outlook.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object. Because the **[Name](outlookbargroup-name-property-outlook.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
+Use the **[Item](outlookbargroups-item-method-outlook.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object. Because the **[Name](outlookbargroup-name-property-outlook.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
 
 
 ## Example
 
-The following example retrieves an  **OutlookBarGroup** object by name.
+The following example retrieves an **OutlookBarGroup** object by name.
 
 
 ```

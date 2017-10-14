@@ -20,7 +20,7 @@ Returns a [Document](document-object-visio.md) object that represents a merged d
 
 ## Remarks
 
-Changes to the merged document returned by the  **WorkingDocument** property are what fire the[Document.AfterDocumentMerge](document-afterdocumentmerge-event-visio.md) or[Documents.AfterDcoumentMerge](documents-afterdocumentmerge-event-visio.md) event represented by the specified **CoauthMergeEvent** object.
+Changes to the merged document returned by the **WorkingDocument** property are what fire the[Document.AfterDocumentMerge](document-afterdocumentmerge-event-visio.md) or[Documents.AfterDcoumentMerge](documents-afterdocumentmerge-event-visio.md) event represented by the specified **CoauthMergeEvent** object.
 
 
 ## Property value

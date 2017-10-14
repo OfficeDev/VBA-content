@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Axes.Item Method (PowerPoint)
 
-Returns a single  **[Axis](axis-object-powerpoint.md)** object from an **Axes** collection.
+Returns a single **[Axis](axis-object-powerpoint.md)** object from an **Axes** collection.
 
 
 ## Syntax

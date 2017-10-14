@@ -15,15 +15,15 @@ ms.date: 06/08/2017
 
 
 
-Copies data from the Clipboard to a  **DataObject**.
+Copies data from the Clipboard to a **DataObject**.
  **Syntax**
  _String = object_. **GetFromClipboard( )**
-The  **GetFromClipboard** method syntax has these parts:
+The **GetFromClipboard** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
  **Remarks**
-The  **DataObject** can contain multiple data items, but each item must be in a different format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
+The **DataObject** can contain multiple data items, but each item must be in a different format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
 

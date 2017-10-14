@@ -15,6 +15,6 @@ ms.date: 06/08/2017
 
 Represents a component, such as a [class module](vbe-glossary.md) or[standard module](vbe-glossary.md), contained in a [project](vbe-glossary.md).
  **Remarks**
-Use the  **VBComponent** object to access the[code module](vbe-glossary.md) associated with a component or to change a component's property settings.
-You can use the  **Type** property to find out what type of component the **VBComponent** object refers to. Use the **Collection** property to find out what[collection](vbe-glossary.md) the component is in.
+Use the **VBComponent** object to access the[code module](vbe-glossary.md) associated with a component or to change a component's property settings.
+You can use the **Type** property to find out what type of component the **VBComponent** object refers to. Use the **Collection** property to find out what[collection](vbe-glossary.md) the component is in.
 

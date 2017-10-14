@@ -32,9 +32,9 @@ Returns or sets whether item labels are repeated in the PivotTable for the speci
 
  **True** if item labels are repeated for the specified PivotField; otherwise **False** .
 
-The setting of the  **RepeatLabels** property corresponds to the **Repeat item labels** check box on the ** Layout &; Print** tab of the **Field Settings** dialog box for a field in a PivotTable.
+The setting of the **RepeatLabels** property corresponds to the **Repeat item labels** check box on the ** Layout &; Print** tab of the **Field Settings** dialog box for a field in a PivotTable.
 
-To specify whether to repeat item labels for all PivotFields in a PivotTable in a single operation, use the  **[RepeatAllLabels](pivottable-repeatalllabels-method-excel.md)** method.
+To specify whether to repeat item labels for all PivotFields in a PivotTable in a single operation, use the **[RepeatAllLabels](pivottable-repeatalllabels-method-excel.md)** method.
 
 
 ## See also

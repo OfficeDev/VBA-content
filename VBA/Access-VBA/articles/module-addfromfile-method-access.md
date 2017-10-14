@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.AddFromFile Method (Access)
 
-The  **AddFromFile** method adds the contents of a text file to a **Module** object. The **Module** object may represent a standard module or a class module.
+The **AddFromFile** method adds the contents of a text file to a **Module** object. The **Module** object may represent a standard module or a class module.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ The  **AddFromFile** method adds the contents of a text file to a **Module** obj
 
 ## Remarks
 
-The  **AddFromFile** method places the contents of the specified text file immediately after the Declarations section and before the first procedure in the module if it contains other procedures.
+The **AddFromFile** method places the contents of the specified text file immediately after the Declarations section and before the first procedure in the module if it contains other procedures.
 
-The  **AddFromFile** method enables you to import code or comments stored in a text file.
+The **AddFromFile** method enables you to import code or comments stored in a text file.
 
 In order to add the contents of a file to a form or report module, the form or report must be open in form Design view or report Design view. In order to add the contents of a file to a standard module or class module, the module must be open.
 

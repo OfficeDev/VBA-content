@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-If the  **Saved** property of a modified presentation is set to **msoTrue**, the user won't be prompted to save changes when closing the presentation, and all changes made to it since it was last saved will be lost.
+If the **Saved** property of a modified presentation is set to **msoTrue**, the user won't be prompted to save changes when closing the presentation, and all changes made to it since it was last saved will be lost.
 
-The value of the  **Saved** property can be one of these **MsoTriState** constants.
+The value of the **Saved** property can be one of these **MsoTriState** constants.
 
 
 

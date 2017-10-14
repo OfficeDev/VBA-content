@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNodes.Item Method (PowerPoint)
 
-Returns a single  **ShapeNode** object from the specified **ShapeNodes** collection.
+Returns a single **ShapeNode** object from the specified **ShapeNodes** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **ShapeNode** object from the specified **ShapeNodes** collect
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **ShapeNode** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **ShapeNode** object in the collection to be returned.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Type Property (Visio)
 
-Returns the type of the  **Document** object. Read-only.
+Returns the type of the **Document** object. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ VisDocumentTypes
 
 ## Remarks
 
-Type value constants for  **Document** objects (the possible values that the **Type** property of a **Document** object returns) are declared by the Visio type library in **[VisDocumentTypes](visdocumenttypes-enumeration-visio.md)** .
+Type value constants for **Document** objects (the possible values that the **Type** property of a **Document** object returns) are declared by the Visio type library in **[VisDocumentTypes](visdocumenttypes-enumeration-visio.md)** .
 
 

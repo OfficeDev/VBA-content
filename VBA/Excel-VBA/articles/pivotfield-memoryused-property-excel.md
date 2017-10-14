@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.MemoryUsed Property (Excel)
 
-Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long** .
+Returns the amount of memory currently being used by the object, in bytes. Read-only **Long** .
 
 
 ## Syntax

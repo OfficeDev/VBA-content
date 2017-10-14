@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.EndnoteOptions Property (Word)
 
-Returns an  **EndnoteOptions** object that represents the endnotes in a range.
+Returns an **EndnoteOptions** object that represents the endnotes in a range.
 
 
 ## Syntax

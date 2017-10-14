@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisRefreshSettings Enumeration (Visio)
 
-Data recordset refresh constants passed to and returned by the  **[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)** property.
+Data recordset refresh constants passed to and returned by the **[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)** property.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -20,6 +20,6 @@ Data recordset refresh constants passed to and returned by the  **[DataRecordset
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visRefreshNoReconcilationUI**|2|Disables display of the  **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
+| **visRefreshNoReconcilationUI**|2|Disables display of the **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made since the previous refresh operation.|
 

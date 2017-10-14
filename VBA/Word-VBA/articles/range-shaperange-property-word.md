@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ShapeRange Property (Word)
 
-Returns a  **[ShapeRange](shaperange-object-word.md)** collection that represents all the **Shape** objects in the specified range. Read-only.
+Returns a **[ShapeRange](shaperange-object-word.md)** collection that represents all the **Shape** objects in the specified range. Read-only.
 
 
 ## Syntax

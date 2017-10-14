@@ -25,7 +25,7 @@ Use [ProtectedViewWindows](protectedviewwindows-object-word.md)( _Index_ ), wher
 
 ## Example
 
-The index number represents the position of the protected view window in the  **ProtectedViewWindows** collection.. The following code example returns the first protected view window.
+The index number represents the position of the protected view window in the **ProtectedViewWindows** collection.. The following code example returns the first protected view window.
 
 
 ```vb

@@ -20,14 +20,14 @@ Detaches the end of the specified connector from the shape to which it is attach
 
  _expression_. **EndDisconnect**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_A variable that represents a **ConnectorFormat** object.
 
 
 ## Remarks
 
 This method doesn't alter the size or position of the connector; the end of the connector remains positioned at a connection site but is no longer connected.
 
-Use the  **[BeginDisconnect](connectorformat-begindisconnect-method-publisher.md)** method to detach the beginning of the connector from a shape.
+Use the **[BeginDisconnect](connectorformat-begindisconnect-method-publisher.md)** method to detach the beginning of the connector from a shape.
 
 
 ## Example

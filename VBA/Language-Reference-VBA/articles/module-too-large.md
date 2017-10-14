@@ -19,7 +19,7 @@ A [module](vbe-glossary.md) contains code within the[project](vbe-glossary.md). 
     
     Create a new module and move some of the [procedures](vbe-glossary.md) from this module to the new one. If the current module contains[module-level](vbe-glossary.md) declarations of data that must be visible to the procedures in the new module, declare that data as **Public**.
     
-     **Note**  [Comments](vbe-glossary.md) aren't counted as lines of code. Therefore, deleting comments doesn't prevent this error.
+    **Note**  [Comments](vbe-glossary.md) aren't counted as lines of code. Therefore, deleting comments doesn't prevent this error.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

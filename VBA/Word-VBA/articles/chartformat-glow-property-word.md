@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Glow Property (Word)
 
-Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](glowformat-object-word.md)** .
+Returns the glow formatting properties for the chart element. Read-only **[GlowFormat](glowformat-object-word.md)** .
 
 
 ## Syntax

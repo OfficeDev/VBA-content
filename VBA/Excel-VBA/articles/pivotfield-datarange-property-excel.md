@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DataRange Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object as shown in the following table. Read-only.
+Returns a **[Range](range-object-excel.md)** object as shown in the following table. Read-only.
 
 
 ## Syntax

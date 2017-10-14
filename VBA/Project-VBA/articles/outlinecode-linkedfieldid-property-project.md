@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.LinkedFieldID Property (Project)
 
-Gets or sets the outline code field ID for a linked lookup table. Obsolete in Project. Read/write  **Long**.
+Gets or sets the outline code field ID for a linked lookup table. Obsolete in Project. Read/write **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the outline code field ID for a linked lookup table. Obsolete in Pr
 
 ## Remarks
 
-A local outline code can import a lookup table from another outline code, but cannot link to it or share it with another outline code or an enterprise text custom field. the  **LinkedFieldID** property always returns -1.
+A local outline code can import a lookup table from another outline code, but cannot link to it or share it with another outline code or an enterprise text custom field. the **LinkedFieldID** property always returns -1.
 
 

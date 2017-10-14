@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.DefaultRectangleDataObject Property (Visio)
 
-Returns an  **IDataObject** interface that represents the **Rectangle** tool used in the Microsoft Visio user interface. Read-only.
+Returns an **IDataObject** interface that represents the **Rectangle** tool used in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ IDataObject
 
 ## Remarks
 
-By using the  **DefaultRectangleDataObject** property to get an **IDataObject** interface, you can create a new rectangle shape linked to data—a result similar to that you would get by dragging a data recordset row onto the page. This property is useful in situations where no master is selected in a docked stencil.
+By using the **DefaultRectangleDataObject** property to get an **IDataObject** interface, you can create a new rectangle shape linked to data—a result similar to that you would get by dragging a data recordset row onto the page. This property is useful in situations where no master is selected in a docked stencil.
 
 

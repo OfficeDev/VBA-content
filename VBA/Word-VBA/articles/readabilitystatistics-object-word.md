@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # ReadabilityStatistics Object (Word)
 
-A collection of  **[ReadabilityStatistic](readabilitystatistic-object-word.md)** objects for a document or range.
+A collection of **[ReadabilityStatistic](readabilitystatistic-object-word.md)** objects for a document or range.
 
 
 ## Remarks
 
-Use the  **ReadabilityStatistics** property to return the **ReadabilityStatistics** collection. The following example enumerates the readability statistics for the selection and displays each one in a message box.
+Use the **ReadabilityStatistics** property to return the **ReadabilityStatistics** collection. The following example enumerates the readability statistics for the selection and displays each one in a message box.
 
 
 ```vb
@@ -22,7 +22,7 @@ For Each rs in Selection.Range.ReadabilityStatistics
 Next rs
 ```
 
-Use  **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
+Use **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
 
 
 

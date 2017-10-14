@@ -32,7 +32,7 @@ Boolean
 
  **True** if the slicer item contains data that matches the current manual filter state; otherwise **False** .
 
-This property is only supported when cross filtering is turned on, and will generate a run-time error otherwise. To determine if cross filtering is turned on for a slicer associated with a PivotTable report, check the value of the  **[CrossFilterType](slicercache-crossfiltertype-property-excel.md)** property of the specified **SlicerItem** object's parent **[SlicerCache](slicercache-object-excel.md)** object. To determine if cross filtering is turned on for a slicer associated with an OLAP data source, check the value of the **[CrossFilterType](slicercachelevel-crossfiltertype-property-excel.md)** property of the **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object that corresponds to the OLAP hierarchy being filtered.
+This property is only supported when cross filtering is turned on, and will generate a run-time error otherwise. To determine if cross filtering is turned on for a slicer associated with a PivotTable report, check the value of the **[CrossFilterType](slicercache-crossfiltertype-property-excel.md)** property of the specified **SlicerItem** object's parent **[SlicerCache](slicercache-object-excel.md)** object. To determine if cross filtering is turned on for a slicer associated with an OLAP data source, check the value of the **[CrossFilterType](slicercachelevel-crossfiltertype-property-excel.md)** property of the **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object that corresponds to the OLAP hierarchy being filtered.
 
 
 ## See also

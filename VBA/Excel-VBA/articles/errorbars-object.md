@@ -19,7 +19,7 @@ This object isn't a collection. There's no object that represents a single error
 
 ## Using the ErrorBars Object
 
-Use the  **ErrorBars** property to return the **ErrorBars** object. The following example turns on error bars for series one in `myChart` and then sets the end style for the error bars.
+Use the **ErrorBars** property to return the **ErrorBars** object. The following example turns on error bars for series one in `myChart` and then sets the end style for the error bars.
 
 
 ```vb
@@ -30,6 +30,6 @@ myChart.SeriesCollection(1).ErrorBars.EndStyle = xlNoCap
 
 ## Remarks
 
-The  **[ErrorBar](errorbar-method.md)** method changes the format and type of error bars.
+The **[ErrorBar](errorbar-method.md)** method changes the format and type of error bars.
 
 

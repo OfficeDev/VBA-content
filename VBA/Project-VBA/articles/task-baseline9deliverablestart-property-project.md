@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline9DeliverableStart Property (Project)
 
-Gets or sets the task baseline9 deliverables start date. Read/write  **Variant**.
+Gets or sets the task baseline9 deliverables start date. Read/write **Variant**.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ Represents the floor of a 3-D chart.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Floor](chart-floor-property-powerpoint.md)** property to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart is not a 3-D chart.
+Use the **[Floor](chart-floor-property-powerpoint.md)** property to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart is not a 3-D chart.
 
 
 

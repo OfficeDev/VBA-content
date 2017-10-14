@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tags.Add Method (PowerPoint)
 
-Adds a tag to the  **[Tags](tags-object-powerpoint.md)** collection of an object.
+Adds a tag to the **[Tags](tags-object-powerpoint.md)** collection of an object.
 
 
 ## Syntax

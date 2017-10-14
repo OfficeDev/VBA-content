@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # NavigationFolders Object (Outlook)
 
-Contains a set of  **[NavigationFolder](navigationfolder-object-outlook.md)** objects that represent the navigation folders associated with a navigation group.
+Contains a set of **[NavigationFolder](navigationfolder-object-outlook.md)** objects that represent the navigation folders associated with a navigation group.
 
 
 ## Remarks
 
-Use the  **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** property of the **[NavigationGroup](navigationgroup-object-outlook.md)** object to return a **NavigationFolders** object.
+Use the **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** property of the **[NavigationGroup](navigationgroup-object-outlook.md)** object to return a **NavigationFolders** object.
 
-Use the  **[Add](navigationfolders-add-method-outlook.md)** method to create a new **NavigationFolder** object based on an existing **[Folder](folder-object-outlook.md)** object and add it to the collection. Use the **[Item](navigationfolders-item-method-outlook.md)** method to return an existing **NavigationFolder** object contained by the **NavigationFolders** collection. Use the **[Remove](navigationfolders-remove-method-outlook.md)** method from the **[NavigationFolders](navigationfolders-object-outlook.md)** collection of the parent **[NavigationGroup](navigationgroup-object-outlook.md)** object.
+Use the **[Add](navigationfolders-add-method-outlook.md)** method to create a new **NavigationFolder** object based on an existing **[Folder](folder-object-outlook.md)** object and add it to the collection. Use the **[Item](navigationfolders-item-method-outlook.md)** method to return an existing **NavigationFolder** object contained by the **NavigationFolders** collection. Use the **[Remove](navigationfolders-remove-method-outlook.md)** method from the **[NavigationFolders](navigationfolders-object-outlook.md)** collection of the parent **[NavigationGroup](navigationgroup-object-outlook.md)** object.
 
-Use the  **[NavigationFolderAdd](navigationgroups-navigationfolderadd-event-outlook.md)** and **[NavigationFolderRemove](navigationgroups-navigationfolderremove-event-outlook.md)** events to detect when a navigation folder is added or removed, respectively, from the **NavigationFolders** object. Use the **[SelectedChange](navigationgroups-selectedchange-event-outlook.md)** event to detect changes in selection state for navigation folders contained in the **NavigationFolders** object that are based on calendar folders.
+Use the **[NavigationFolderAdd](navigationgroups-navigationfolderadd-event-outlook.md)** and **[NavigationFolderRemove](navigationgroups-navigationfolderremove-event-outlook.md)** events to detect when a navigation folder is added or removed, respectively, from the **NavigationFolders** object. Use the **[SelectedChange](navigationgroups-selectedchange-event-outlook.md)** event to detect changes in selection state for navigation folders contained in the **NavigationFolders** object that are based on calendar folders.
 
-Note that if you delete a  **Folder** using **[Folder.Delete](folder-delete-method-outlook.md)**, the deletion will be reflected automatically in the Navigation Pane and in the **NavigationFolders** collection, but because the synchronization between the actual folders and the Navigation Pane happens asynchronously, this will take a few milliseconds to complete.
+Note that if you delete a **Folder** using **[Folder.Delete](folder-delete-method-outlook.md)**, the deletion will be reflected automatically in the Navigation Pane and in the **NavigationFolders** collection, but because the synchronization between the actual folders and the Navigation Pane happens asynchronously, this will take a few milliseconds to complete.
 
 
 ## Methods

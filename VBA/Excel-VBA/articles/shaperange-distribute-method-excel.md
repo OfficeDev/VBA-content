@@ -30,7 +30,7 @@ Horizontally or vertically distributes the shapes in the specified range of shap
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _DistributeCmd_|Required| **[MsoDistributeCmd](http://msdn.microsoft.com/library/be0cb580-1d82-1443-0f03-3461ddb9c33d%28Office.15%29.aspx)**|Specifies whether shapes in the range are to be distributed horizontally or vertically.|
-| _RelativeTo_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Not used in Microsoft Excel. Must be  **False** .|
+| _RelativeTo_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Not used in Microsoft Excel. Must be **False** .|
 
 ## Example
 

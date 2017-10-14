@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) specifying a whole number between 1 and 31, inclusive, representing the day of the month.
+Returns a **Variant** ( **Integer** ) specifying a whole number between 1 and 31, inclusive, representing the day of the month.
  **Syntax**
  **Day(**_date_**)**
-The required  _date_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a date. If  _date_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _date_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a date. If  _date_ contains[Null](vbe-glossary.md), **Null** is returned.
 
- **Note**  If the  **Calendar** property setting is Gregorian, the returned integer represents the Gregorian day of the month for the date argument. If the calendar is Hijri, the returned integer represents the Hijri day of the month for the date argument.
+ **Note**  If the **Calendar** property setting is Gregorian, the returned integer represents the Gregorian day of the month for the date argument. If the calendar is Hijri, the returned integer represents the Hijri day of the month for the date argument.
 
 
 ## Example
 
-This example uses the  **Day** function to obtain the day of the month from a specified date. In the development environment, the date literal is displayed in short format using the locale settings of your code.
+This example uses the **Day** function to obtain the day of the month from a specified date. In the development environment, the date literal is displayed in short format using the locale settings of your code.
 
 
 ```vb

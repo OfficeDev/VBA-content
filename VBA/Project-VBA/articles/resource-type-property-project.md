@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Type Property (Project)
 
-Gets or sets the type of the resource (work, material, or cost). Read/write  **PjResourceTypes**.
+Gets or sets the type of the resource (work, material, or cost). Read/write **PjResourceTypes**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the type of the resource (work, material, or cost). Read/write  **P
 
 ## Remarks
 
-The  **Type** property can be one of the following **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants: **pjResourceTypeWork**, **pjResourceTypeMaterial**, or **pjResourceTypeCost**.
+The **Type** property can be one of the following **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants: **pjResourceTypeWork**, **pjResourceTypeMaterial**, or **pjResourceTypeCost**.
 
 

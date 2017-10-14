@@ -25,7 +25,7 @@ True if text in the text frame should not rotate when the shape is rotated. Read
 
 ## Remarks
 
-Only the  **MsoTriState** constants **msoFalse** and **msoTrue** can be used to set this property.
+Only the **MsoTriState** constants **msoFalse** and **msoTrue** can be used to set this property.
 
 
 ## See also

@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Blur Property (Publisher)
 
-Returns or sets a  **Single** that represents the blur level for a shadow format. Read/write.
+Returns or sets a **Single** that represents the blur level for a shadow format. Read/write.
 
 
 ## Syntax
 
  _expression_. **Blur**
 
- _expression_A variable that represents a  **ShadowFormat** object.
+ _expression_A variable that represents a **ShadowFormat** object.
 
 
 ## Return value

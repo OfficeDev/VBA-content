@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ObjectLinks Method (Project)
 
-Displays the  **Links** dialog box, which prompts the user to edit OLE links in the active project.
+Displays the **Links** dialog box, which prompts the user to edit OLE links in the active project.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Displays the  **Links** dialog box, which prompts the user to edit OLE links in 
 
 ## Remarks
 
-The  **ObjectLinks** method is equivalent to the **Links** command.
+The **ObjectLinks** method is equivalent to the **Links** command.
 
-To create an OLE link, use the  **[EditPasteSpecial](application-editpastespecial-method-project.md)** method.
+To create an OLE link, use the **[EditPasteSpecial](application-editpastespecial-method-project.md)** method.
 
 

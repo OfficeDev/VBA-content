@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Version Property
 
-Returns the Microsoft Graph version number. Read-only  **String**.
+Returns the Microsoft Graph version number. Read-only **String**.
 
 
 ## Example

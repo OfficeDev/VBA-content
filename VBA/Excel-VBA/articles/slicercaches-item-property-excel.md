@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCaches.Item Property (Excel)
 
-Returns a single  **[SlicerCache](slicercache-object-excel.md)** object from the collection.
+Returns a single **[SlicerCache](slicercache-object-excel.md)** object from the collection.
 
 
 ## Syntax

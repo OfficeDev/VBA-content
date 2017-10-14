@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MSGWrap.pty Property (Visio)
 
-Gets or sets the  **pt.y** member of the **MSG** structure being wrapped. Read/write.
+Gets or sets the **pt.y** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **pty** property corresponds to the **pt.y** member in the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
+The **pty** property corresponds to the **pt.y** member in the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 

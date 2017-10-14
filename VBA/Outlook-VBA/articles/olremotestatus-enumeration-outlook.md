@@ -27,6 +27,6 @@ Indicates the status of an item after it is received by a remote user.
 
 ## Remarks
 
-See  **MarkForDownLoad** property.
+See **MarkForDownLoad** property.
 
 

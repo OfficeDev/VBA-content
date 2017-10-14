@@ -19,7 +19,7 @@ Represents a dropped capital letter at the beginning of a paragraph.
 
 ## Example
 
-Use the  **[DropCap](textrange-dropcap-property-publisher.md)** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter of each paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text box and not another type of shape.
+Use the **[DropCap](textrange-dropcap-property-publisher.md)** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter of each paragraph in the first shape on the first page of the active publication. This example assumes that the specified shape is a text box and not another type of shape.
  
 
  

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Double** specifying _e_ (the base of natural logarithms) raised to a power.
+Returns a **Double** specifying _e_ (the base of natural logarithms) raised to a power.
  **Syntax**
  **Exp(**_number_**)**
 The required  _number_[argument](vbe-glossary.md) is a[Double](vbe-glossary.md) or any valid[numeric expression](vbe-glossary.md).
  **Remarks**
 If the value of  _number_ exceeds 709.782712893, an error occurs. The[constant ](vbe-glossary.md) _e_ is approximately 2.718282.
 
- **Note**  The  **Exp** function complements the action of the **Log** function and is sometimes referred to as the antilogarithm.
+ **Note**  The **Exp** function complements the action of the **Log** function and is sometimes referred to as the antilogarithm.
 
 
 ## Example
 
-This example uses the  **Exp** function to return _e_ raised to a power.
+This example uses the **Exp** function to return _e_ raised to a power.
 
 
 ```vb

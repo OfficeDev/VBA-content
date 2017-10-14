@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.GridLineStyle Property (Outlook)
 
-Returns or sets an  **[OlGridLineStyle](olgridlinestyle-enumeration-outlook.md)** constant that represents the line style used for grid lines in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlGridLineStyle](olgridlinestyle-enumeration-outlook.md)** constant that represents the line style used for grid lines in the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlGridLineStyle](olgridlinestyle-enumeration-outlook.md)*
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example sets the  **GridLineStyle** property of the current **TableView** object to display the grid with small dotted lines.
+The following Visual Basic for Applications (VBA) example sets the **GridLineStyle** property of the current **TableView** object to display the grid with small dotted lines.
 
 
 ```vb

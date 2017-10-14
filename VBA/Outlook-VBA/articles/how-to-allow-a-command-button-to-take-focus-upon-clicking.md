@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Allow a Command Button to Take Focus Upon Clicking
 
-The following example uses the  **[TakeFocusOnClick](commandbutton-takefocusonclick-property-outlook-forms-script.md)** property to control whether a **[CommandButton](commandbutton-object-outlook-forms-script.md)** receives the focus when the user clicks on it. The user clicks a control other than CommandButton1 and then clicks CommandButton1. If **TakeFocusOnClick** is **True**, CommandButton1 receives the focus after it is clicked. The user can change the value of  **TakeFocusOnClick** by clicking the **[ToggleButton](togglebutton-object-outlook-forms-script.md)**.
+The following example uses the **[TakeFocusOnClick](commandbutton-takefocusonclick-property-outlook-forms-script.md)** property to control whether a **[CommandButton](commandbutton-object-outlook-forms-script.md)** receives the focus when the user clicks on it. The user clicks a control other than CommandButton1 and then clicks CommandButton1. If **TakeFocusOnClick** is **True**, CommandButton1 receives the focus after it is clicked. The user can change the value of **TakeFocusOnClick** by clicking the **[ToggleButton](togglebutton-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
-- One or two other controls, such as an  **[OptionButton](optionbutton-object-outlook-forms-script.md)** or **[ListBox](listbox-object-outlook-forms-script.md)**.
+- One or two other controls, such as an **[OptionButton](optionbutton-object-outlook-forms-script.md)** or **[ListBox](listbox-object-outlook-forms-script.md)**.
     
 
 

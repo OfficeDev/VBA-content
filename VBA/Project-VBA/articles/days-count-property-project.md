@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Days.Count Property (Project)
 
-Gets the number of items in the  **Days** collection. Read-only **Integer**.
+Gets the number of items in the **Days** collection. Read-only **Integer**.
 
 
 ## Syntax
@@ -22,12 +22,12 @@ Gets the number of items in the  **Days** collection. Read-only **Integer**.
 
 ## Remarks
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
 
 
 ## Example
 
-The following example shows there are seven days in the  **WeekDays** collection for a resource calendar.
+The following example shows there are seven days in the **WeekDays** collection for a resource calendar.
 
 
 ```vb

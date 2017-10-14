@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HangulHanjaConversionDictionaries.Maximum Property (Word)
 
-Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long** .
+Returns the maximum number of custom or conversion dictionaries allowed. Read-only **Long** .
 
 
 ## Syntax

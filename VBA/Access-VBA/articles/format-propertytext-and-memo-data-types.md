@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use special symbols in the setting for the  **Format** property to create custom formats for Text and Memo fields.
+You can use special symbols in the setting for the **Format** property to create custom formats for Text and Memo fields.
 
 
 ## Setting
@@ -37,11 +37,11 @@ Custom formats for Text and Memo fields can have up to two sections. Each sectio
 |**Section**|**Description**|
 |:-----|:-----|
 |First|Format for fields with text.|
-|Second|Format for fields with zero-length strings and  **Null** values.|
-For example, if you have a text box control in which you want the word "None" to appear when there is no string in the field, you could type the custom format  **@;"None"** as the control's **Format** property setting. The @ symbol causes the text from the field to be displayed; the second section causes the word "None" to appear when there is a zero-length string or Null value in the field.
+|Second|Format for fields with zero-length strings and **Null** values.|
+For example, if you have a text box control in which you want the word "None" to appear when there is no string in the field, you could type the custom format **@;"None"** as the control's **Format** property setting. The @ symbol causes the text from the field to be displayed; the second section causes the word "None" to appear when there is a zero-length string or Null value in the field.
 
 
- **Note**  You can use the  **Format** function to return one value for a zero-length string and another for a **Null** value, and you can similarly use the **Format** property to automatically format fields in table Datasheet view or controls on a form or report.
+ **Note**  You can use the **Format** function to return one value for a zero-length string and another for a **Null** value, and you can similarly use the **Format** property to automatically format fields in table Datasheet view or controls on a form or report.
 
 
 ## Example

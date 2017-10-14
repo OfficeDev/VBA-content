@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Start Property (PowerPoint)
 
-Gets a  **Long** value indicating the starting point of the specified text range. Read-only.
+Gets a **Long** value indicating the starting point of the specified text range. Read-only.
 
 
 ## Syntax

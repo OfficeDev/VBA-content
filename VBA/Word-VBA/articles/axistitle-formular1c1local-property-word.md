@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.FormulaR1C1Local Property (Word)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write **String** .
 
 
 ## Syntax

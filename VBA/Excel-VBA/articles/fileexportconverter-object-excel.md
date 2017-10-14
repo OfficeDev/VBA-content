@@ -18,19 +18,19 @@ Represents a file converter that is used to save files.
 
 ## Remarks
 
-You cannot create a new file converter or add one to the  **[FileExportConverters](fileexportconverters-object-excel.md)** collection. **FileExportConverter** objects are added during installation of Microsoft Office or by installing supplemental file converters.
+You cannot create a new file converter or add one to the **[FileExportConverters](fileexportconverters-object-excel.md)** collection. **FileExportConverter** objects are added during installation of Microsoft Office or by installing supplemental file converters.
 
 
 ## Example
 
-Use  **FileExportConverters** ( _Index_ ), where _Index_ is an integer, to return a single **FileExportConverter** object. The following example displays the extensions associated with the second Microsoft Excel worksheet converter in the collection.
+Use **FileExportConverters** ( _Index_ ), where _Index_ is an integer, to return a single **FileExportConverter** object. The following example displays the extensions associated with the second Microsoft Excel worksheet converter in the collection.
 
 
 ```vb
 MsgBox FileExportConverters(2).Extensions
 ```
 
-The index number represents the position of the file converter in the  **FileExportConverters** collection. The following example displays the description for the first file converter in the collection.
+The index number represents the position of the file converter in the **FileExportConverters** collection. The following example displays the description for the first file converter in the collection.
 
 
 

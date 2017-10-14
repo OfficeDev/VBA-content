@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.GapWidth Property (Word)
 
-For bar and column charts, returns or sets the space, as a percentage of the bar or column width, between bar or column clusters. For pie-of-pie and bar-of-pie charts, returns or sets the space between the primary and secondary sections of the chart. Read/write  **Long** .
+For bar and column charts, returns or sets the space, as a percentage of the bar or column width, between bar or column clusters. For pie-of-pie and bar-of-pie charts, returns or sets the space between the primary and secondary sections of the chart. Read/write **Long** .
 
 
 ## Syntax

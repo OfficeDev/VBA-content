@@ -31,7 +31,7 @@ For information about, and examples of, other editing tasks, see the following t
 
 ## Determining whether text is selected
 
-The  **[Type](selection-type-property-word.md)** property of the  **[Selection](selection-object-word.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
+The **[Type](selection-type-property-word.md)** property of the **[Selection](selection-object-word.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
 
 
 ```vb
@@ -43,7 +43,7 @@ End Sub
 
 ## Collapsing a selection or range
 
-Use the  **Collapse**method to collapse a  **Selection** object or a **[Range](range-object-word.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
+Use the **Collapse**method to collapse a **Selection** object or a **[Range](range-object-word.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 
 ```vb
@@ -72,7 +72,7 @@ End Sub
 
 ## Extending a selection or range
 
-The following example uses the  **[MoveEnd](selection-moveend-method-word.md)** method of the  **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](selection-moveleft-method-word.md)**,  **[MoveRight](selection-moveright-method-word.md)**,  **[MoveUp](selection-moveup-method-word.md)**, and  **[MoveDown](selection-movedown-method-word.md)** methods can also be used to extend a  **Selection** object.
+The following example uses the **[MoveEnd](selection-moveend-method-word.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](selection-moveleft-method-word.md)**, **[MoveRight](selection-moveright-method-word.md)**, **[MoveUp](selection-moveup-method-word.md)**, and **[MoveDown](selection-movedown-method-word.md)** methods can also be used to extend a **Selection** object.
 
 
 ```vb
@@ -81,7 +81,7 @@ Sub ExtendSelection()
 End Sub
 ```
 
-The following example uses the  **[MoveEnd](range-moveend-method-word.md)** method of the **[Range](range-object-word.md)** object to extend the range to include the first three paragraphs in the active document.
+The following example uses the **[MoveEnd](range-moveend-method-word.md)** method of the **[Range](range-object-word.md)** object to extend the range to include the first three paragraphs in the active document.
 
 
 
@@ -98,12 +98,12 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](working-with-the-selection-object.md) or [Working with Range objects](working-with-range-objects.md).
+Use the **SetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](working-with-the-selection-object.md) or [Working with Range objects](working-with-range-objects.md).
 
 
 ## Changing text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the  **[Text](range-text-property-word.md)** property of a  **Range** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **[Text](range-text-property-word.md)** property of a **Range** object to "The ".
 
 
 ```vb
@@ -112,7 +112,7 @@ Sub ChangeText()
 End Sub
 ```
 
-You can also use the  **Delete**method or the  **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the  **InsertBefore**method. The following example deletes the first paragraph in the active document and inserts new text.
+You can also use the **Delete**method or the **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the **InsertBefore**method. The following example deletes the first paragraph in the active document and inserts new text.
 
 
 

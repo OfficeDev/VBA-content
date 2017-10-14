@@ -30,6 +30,6 @@ VisPageTypes
 
 ## Remarks
 
-Type value constants for  **Page** objects (the possible values that the **Type** property of a **Page** object returns) are declared by the Visio type library in **[VisPageTypes](vispagetypes-enumeration-visio.md)** .
+Type value constants for **Page** objects (the possible values that the **Type** property of a **Page** object returns) are declared by the Visio type library in **[VisPageTypes](vispagetypes-enumeration-visio.md)** .
 
 

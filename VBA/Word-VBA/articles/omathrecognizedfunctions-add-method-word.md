@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathRecognizedFunctions.Add Method (Word)
 
-Creates a new recognized function and returns an  **OMathRecognizedFunction** object.
+Creates a new recognized function and returns an **OMathRecognizedFunction** object.
 
 
 ## Syntax

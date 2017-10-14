@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceFolders Object (Office)
 
-A collection of the  **SharedWorkspaceFolder** objects in the current shared workspace.
+A collection of the **SharedWorkspaceFolder** objects in the current shared workspace.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,7 +21,7 @@ A collection of the  **SharedWorkspaceFolder** objects in the current shared wor
 
 ## Example
 
-Use the  **Folders** property of the **SharedWorkspace** object to return a **SharedWorkspaceFolders** collection.
+Use the **Folders** property of the **SharedWorkspace** object to return a **SharedWorkspaceFolders** collection.
 
 
 ```

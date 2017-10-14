@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Windows Property (Excel)
 
-Returns a  **[Windows](windows-object-excel.md)** collection that represents all the windows in the specified workbook. Read-only **Windows** object.
+Returns a **[Windows](windows-object-excel.md)** collection that represents all the windows in the specified workbook. Read-only **Windows** object.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This property returns a collection of both visible and hidden windows.
 
 ## Example
 
-This example names window one in the active workbook "Consolidated Balance Sheet." This name is then used as the index to the  **Windows** collection.
+This example names window one in the active workbook "Consolidated Balance Sheet." This name is then used as the index to the **Windows** collection.
 
 
 ```vb

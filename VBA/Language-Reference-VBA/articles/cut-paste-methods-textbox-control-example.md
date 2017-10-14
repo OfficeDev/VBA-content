@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Cut, Paste Methods, TextBox Control Example
 
-The following example uses the  **Cut** and **Paste** methods to cut text from one **TextBox** and paste it into another **TextBox**.
+The following example uses the **Cut** and **Paste** methods to cut text from one **TextBox** and paste it into another **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 

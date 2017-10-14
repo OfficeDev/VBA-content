@@ -18,7 +18,7 @@ Returns the preset gradient type for the specified line. Read-only.
 
  _expression_. **PresetGradientType**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ Returns the preset gradient type for the specified line. Read-only.
 
 ## Remarks
 
-Use the  **[PresetGradient](lineformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](lineformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
 
 
 ## See also

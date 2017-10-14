@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddLine Method (PowerPoint)
 
-Creates a line. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new line.
+Creates a line. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new line.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ID Property (Project)
 
-Gets the identification number of a project. Read-only  **Long**.
+Gets the identification number of a project. Read-only **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the identification number of a project. Read-only  **Long**.
 
 ## Remarks
 
-The  **ID** property of a project can change when the project is closed and then opened again after other projects are opened. Use the **UniqueID** property if you want a constant reference to a project.
+The **ID** property of a project can change when the project is closed and then opened again after other projects are opened. Use the **UniqueID** property if you want a constant reference to a project.
 
 

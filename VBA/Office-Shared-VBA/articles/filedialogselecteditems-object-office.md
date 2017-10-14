@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # FileDialogSelectedItems Object (Office)
 
-A collection of  **String** values that correspond to the paths of the files or folders that a user has selected from a file dialog box displayed through the **FileDialog** object.
+A collection of **String** values that correspond to the paths of the files or folders that a user has selected from a file dialog box displayed through the **FileDialog** object.
 
 
 ## Example
 
-Use the  **SelectedItems** property with the **FileDialog** object to return a **FileDialogSelectedItems** collection. The following example displays a **File Picker** dialog box and displays each selected file in a message box.
+Use the **SelectedItems** property with the **FileDialog** object to return a **FileDialogSelectedItems** collection. The following example displays a **File Picker** dialog box and displays each selected file in a message box.
 
 
 ```

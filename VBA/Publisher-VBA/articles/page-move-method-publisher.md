@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.Move Method (Publisher)
 
-Moves the specified page to the specified index in the  **Pages** collection.
+Moves the specified page to the specified index in the **Pages** collection.
 
 
 ## Syntax
 
- _expression_. **Move**( **_Page_**,  **_After_**)
+ _expression_. **Move**( **_Page_**, **_After_**)
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Moves the specified page to the specified index in the  **Pages** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Page|Required| **Long**|The index number of the  **Pages** collection where the specified page will be moved.|
+|Page|Required| **Long**|The index number of the **Pages** collection where the specified page will be moved.|
 |After|Optional| **Boolean**| **True** if the page will be inserted after the specified index number of the Pages collection specified by the Page parameter. Deafult is **True**.|
 
 ## Example

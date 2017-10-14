@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.Width Property (Word)
 
-Returns or sets the width of a custom mailing label, in points. Read/write  **Long** .
+Returns or sets the width of a custom mailing label, in points. Read/write **Long** .
 
 
 ## Syntax

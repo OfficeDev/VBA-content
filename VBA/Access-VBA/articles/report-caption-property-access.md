@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Caption Property (Access)
 
-Gets or sets the title of the report in Print Preview. Read/write  **String**.
+Gets or sets the title of the report in Print Preview. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the title of the report in Print Preview. Read/write  **String**.
 
 ## Remarks
 
-The  **Caption** property is a string expression that can contain up to 2,048 characters. Captions for forms and reports that are too long to display in the title bar are truncated.
+The **Caption** property is a string expression that can contain up to 2,048 characters. Captions for forms and reports that are too long to display in the title bar are truncated.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Nodes Property (Project)
-Gets the geometric description of nodes or control points in the shape. Read-only  **[ShapeNodes](http://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)**.
+Gets the geometric description of nodes or control points in the shape. Read-only **[ShapeNodes](http://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)**.
 
 ## Syntax
 

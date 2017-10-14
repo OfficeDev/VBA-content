@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkLabel.Accelerator Property (Outlook)
 
-Returns or sets a  **String** value that represents the accelerator or hot key for the control. Read/write.
+Returns or sets a **String** value that represents the accelerator or hot key for the control. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.WillContinue Property (Access)
 
-Determines if the current section will continue on the following page. Read/write  **Boolean**.
+Determines if the current section will continue on the following page. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Determines if the current section will continue on the following page. Read/writ
 
 ## Remarks
 
-You can use this property to determine whether to show or hide certain controls, depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued on next page". If the value of the  **WillContinue** property is **True**, you can make the hidden label visible.
+You can use this property to determine whether to show or hide certain controls, depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued on next page". If the value of the **WillContinue** property is **True**, you can make the hidden label visible.
 
 
 ## Example

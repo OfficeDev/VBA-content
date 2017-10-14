@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.PictureFormat Property (Excel)
 
-Returns a  **[PictureFormat](pictureformat-object-excel.md)** object that contains picture formatting properties for the specified shape. Applies to a **[ShapeRange](shaperange-object-excel.md)** object that represent pictures or OLE objects. Read-only.
+Returns a **[PictureFormat](pictureformat-object-excel.md)** object that contains picture formatting properties for the specified shape. Applies to a **[ShapeRange](shaperange-object-excel.md)** object that represent pictures or OLE objects. Read-only.
 
 
 ## Syntax

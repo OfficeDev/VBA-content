@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.RowHeight Property (Access)
 
-You can use the  **RowHeight** property to specify the height of all rows in Datasheet view. Read/write **Integer**.
+You can use the **RowHeight** property to specify the height of all rows in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **RowHeight** property to specify the height of all rows in Dat
 
 ## Remarks
 
-The  **RowHeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+The **RowHeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-The  **RowHeight** property setting represents the datasheet row height in twips. To specify the default height for the current font, you can set the **RowHeight** property to **True**.
+The **RowHeight** property setting represents the datasheet row height in twips. To specify the default height for the current font, you can set the **RowHeight** property to **True**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Recipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents all the recipients for the Outlook item. Read-only.
+Returns a **[Recipients](recipients-object-outlook.md)** collection that represents all the recipients for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ A recipient can be specified by a string representing the recipient's display na
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](recipients-add-method-outlook.md)** method to add "Dan Wilson" as a **[To](mailitem-to-property-outlook.md)** recipient, and displays the message.
+This Visual Basic for Applications (VBA) example creates a new e-mail message, uses the **[Add](recipients-add-method-outlook.md)** method to add "Dan Wilson" as a **[To](mailitem-to-property-outlook.md)** recipient, and displays the message.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddLine Method (Word)
 
-Adds a line to a drawing canvas. Returns a  **[Shape](shape-object-word.md)** object that represents the line and adds it to the **CanvasShapes** collection.
+Adds a line to a drawing canvas. Returns a **[Shape](shape-object-word.md)** object that represents the line and adds it to the **CanvasShapes** collection.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Adds a line to a drawing canvas. Returns a  **[Shape](shape-object-word.md)** ob
 
 ## Remarks
 
-To create an arrow, use the  **Line** property to format a line.
+To create an arrow, use the **Line** property to format a line.
 
 
 ## Example

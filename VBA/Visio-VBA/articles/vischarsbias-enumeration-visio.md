@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisCharsBias Enumeration (Visio)
 
-Bias constants to be passed to the  **Characters.CharPropsRow** property and similar properties.
+Bias constants to be passed to the **Characters.CharPropsRow** property and similar properties.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Editors Property (Word)
 
-Returns an  **Editors** object that represents all the users authorized to modify a selection or range within a document.
+Returns an **Editors** object that represents all the users authorized to modify a selection or range within a document.
 
 
 ## Syntax

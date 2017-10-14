@@ -25,9 +25,9 @@ While you use an add-in to extend form regions in a custom form, you can extend 
 
 Because VBScript code is associated with a particular item, code that responds to events in specific items (such as when a particular item is opened or a value in a field is changed) is easiest to write using VBScript. If, on the other hand, you want your program to respond to events that occur in the application, in Windows Explorer, in folders, or in all items, then you should write your program using Visual Basic or Visual Basic for Applications.
 
-Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the  **Variant** data type.
+Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the **Variant** data type.
 Learn about  [constants and variables in VBScript](constants-and-variables-in-vbscript.md).
-In Outlook Visual Basic for Applications and VBScript, you do not need to call  **[CreateObject](application-createobject-method-outlook.md)** or **GetObject** to obtain an **[Application](application-object-outlook.md)** object. For example, the following code displays the Tasks folder:
+In Outlook Visual Basic for Applications and VBScript, you do not need to call **[CreateObject](application-createobject-method-outlook.md)** or **GetObject** to obtain an **[Application](application-object-outlook.md)** object. For example, the following code displays the Tasks folder:
 
 
 
@@ -36,7 +36,7 @@ Set olMAPI = Application.GetNameSpace("MAPI")
 olMAPI.GetDefaultFolder(13).Display
 ```
 
-In Visual Basic or Visual Basic for Applications in other applications, you must either explicitly create the  **Application** object, as shown in the following code:
+In Visual Basic or Visual Basic for Applications in other applications, you must either explicitly create the **Application** object, as shown in the following code:
 
 
 
@@ -46,8 +46,8 @@ Set olMAPI = myOlApp.GetNameSpace("MAPI")
 olMAPI.GetDefaultFolder(olFolderTasks).Display
 ```
 
-or use the  **Application** object that is passed to the **OnConnection** event of the add-in.
+or use the **Application** object that is passed to the **OnConnection** event of the add-in.
 
- **Note**  The  **Application** object returned from calling the **[CreateObject](application-createobject-method-outlook.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md).
+ **Note**  The **Application** object returned from calling the **[CreateObject](application-createobject-method-outlook.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md).
 
 

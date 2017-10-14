@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.HiddenItems Property (Excel)
 
-Returns an object that represents either a single hidden PivotTable item (a  **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the hidden items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
+Returns an object that represents either a single hidden PivotTable item (a **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the hidden items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
 
 
 ## Syntax

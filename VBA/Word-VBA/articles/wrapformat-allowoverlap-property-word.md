@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WrapFormat.AllowOverlap Property (Word)
 
-Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write  **Long** .
+Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a value that specifies whether a given shape can overlap other s
 
 ## Remarks
 
-This property can be set to either  **True** or **False** . Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in Web layout view.
+This property can be set to either **True** or **False** . Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in Web layout view.
 
 
 ## Example

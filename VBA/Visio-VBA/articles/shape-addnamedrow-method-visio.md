@@ -44,7 +44,7 @@ You can add named rows to the Actions ( **visSectionAction** ), Controls ( **vis
 
 An empty row name string ("") creates a row with a default name.
 
-Passing a value of  **visTagDefault** (0) in the _RowTag_ argument generates the default row type for the section. Explicit tags are useful when adding rows to a Connection Points section. See the **RowType** property for descriptions of valid row types for each section. Passing an invalid row type generates an error.
+Passing a value of **visTagDefault** (0) in the _RowTag_ argument generates the default row type for the section. Explicit tags are useful when adding rows to a Connection Points section. See the **RowType** property for descriptions of valid row types for each section. Passing an invalid row type generates an error.
 
 Adding a named row to a Connection Points section automatically converts any existing unnamed rows in the section into named rows, assigning them default names (Row_1, Row_2, and so on).
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.ScaleWithDocHeaderFooter Property (Excel)
 
-Returns or sets if the header and footer should be scaled with the document when the size of the document changes. Read/write  **Boolean** .
+Returns or sets if the header and footer should be scaled with the document when the size of the document changes. Read/write **Boolean** .
 
 
 ## Syntax

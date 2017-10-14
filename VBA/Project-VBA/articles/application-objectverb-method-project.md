@@ -38,9 +38,9 @@ Instructs the active object to perform an action.
 
 ## Remarks
 
-For a list of the actions an object can perform, select the object, and then run the  **Object** command.
+For a list of the actions an object can perform, select the object, and then run the **Object** command.
 
-To determine the number associated with a particular action, run regedit.exe by clicking the Windows  **Start** button and then clicking **Run**. The RegEdit.exe file is in the `%windir%` folder.
+To determine the number associated with a particular action, run regedit.exe by clicking the Windows **Start** button and then clicking **Run**. The RegEdit.exe file is in the `%windir%` folder.
 
 Negotiate the registry tree to HKEY_CLASSES_ROOT\  _AppName_. _DocumentName_ \protocol\StdFileEditing\Verb\ _number_, where _AppName_ is the name of the application, _DocumentName_ is the name of the document, and _number_ is the key for an action. For Microsoft Office PowerPoint 2007 , for example, HKEY_CLASSES_ROOT\PowerPoint.Show.12\protocol\StdFileEditing\Verb\0 is the key for the **Show** command.
 

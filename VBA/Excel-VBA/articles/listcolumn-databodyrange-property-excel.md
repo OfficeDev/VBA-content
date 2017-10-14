@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListColumn.DataBodyRange Property (Excel)
 
-Returns a  **Range** object that is the size of the data portion of a column. Read-only.
+Returns a **Range** object that is the size of the data portion of a column. Read-only.
 
 
 ## Syntax

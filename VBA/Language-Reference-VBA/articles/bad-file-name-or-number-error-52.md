@@ -19,7 +19,7 @@ An error occurred trying to access the specified file. This error has the follow
     
     
     
-      - Not specified in the  **Open** statement or was specified in an **Open** statement, but has since been closed. Specify the file name in an **Open** statement. Note that if you invoked the **Close** statement without[arguments](vbe-glossary.md), you may have inadvertently closed all currently open files, invalidating all file numbers.
+      - Not specified in the **Open** statement or was specified in an **Open** statement, but has since been closed. Specify the file name in an **Open** statement. Note that if you invoked the **Close** statement without[arguments](vbe-glossary.md), you may have inadvertently closed all currently open files, invalidating all file numbers.
     
   - Out of the range of file numbers (1 - 511). If your code is generating file numbers algorithmically, make sure the numbers are valid.
     
@@ -50,7 +50,7 @@ Second Try.Rpt
     
   - The name can contain spaces.
     
-  - The following names are reserved and can't be used for files or directories: CON, AUX, COM1, COM2, COM3, COM4, LPT1, LPT2, LPT3, PRN, and NUL. For example, if you try to name a file PRN in an  **Open** statement, the default printer will simply become the destination for **Print #** and **Write #** statements directed to the file number specified in the **Open** statement.
+  - The following names are reserved and can't be used for files or directories: CON, AUX, COM1, COM2, COM3, COM4, LPT1, LPT2, LPT3, PRN, and NUL. For example, if you try to name a file PRN in an **Open** statement, the default printer will simply become the destination for **Print #** and **Write #** statements directed to the file number specified in the **Open** statement.
     
   - The following are examples of valid Microsoft Windows file names:
     

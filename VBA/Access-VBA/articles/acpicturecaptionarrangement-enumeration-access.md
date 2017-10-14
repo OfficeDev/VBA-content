@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPictureCaptionArrangement Enumeration (Access)
 
-Used with the  **[PictureCaptionArrangement](commandbutton-picturecaptionarrangement-property-access.md)** property to determine how a button's caption is arranged in relation to its picture.
+Used with the **[PictureCaptionArrangement](commandbutton-picturecaptionarrangement-property-access.md)** property to determine how a button's caption is arranged in relation to its picture.
 
 
 

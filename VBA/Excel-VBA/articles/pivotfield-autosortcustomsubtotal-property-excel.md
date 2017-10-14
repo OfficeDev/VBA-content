@@ -25,7 +25,7 @@ Returns the name of the custom subtotal used to sort the specified PivotTable fi
 
 ## Remarks
 
-The default value is 1 (Automatic). When the  **AutoSortCustomSubtotal** property is set to 1 (Automatic), the data is sorted by the regular subtotals. The **AutoSortCustomSubtotal** property can have one of the index values listed in the following table.
+The default value is 1 (Automatic). When the **AutoSortCustomSubtotal** property is set to 1 (Automatic), the data is sorted by the regular subtotals. The **AutoSortCustomSubtotal** property can have one of the index values listed in the following table.
 
 
 
@@ -41,9 +41,9 @@ The default value is 1 (Automatic). When the  **AutoSortCustomSubtotal** propert
 |10|StdDevp|
 |11|Var|
 |12|Varp|
-Sorting is supported only by custom subtotals that are actually displayed in the PivotTable, so trying to set  **AutoSortCustomSubtotal** to a value representing a custom subtotal not in the PivotTable view will return a run-time error.
+Sorting is supported only by custom subtotals that are actually displayed in the PivotTable, so trying to set **AutoSortCustomSubtotal** to a value representing a custom subtotal not in the PivotTable view will return a run-time error.
 
-If sorting is applied based on a custom subtotal, and that subtotal is removed from the PivotTable, the  **AutoSortCustomSubtotal** property will automatically be set to the default value (1).
+If sorting is applied based on a custom subtotal, and that subtotal is removed from the PivotTable, the **AutoSortCustomSubtotal** property will automatically be set to the default value (1).
 
 
 ## See also

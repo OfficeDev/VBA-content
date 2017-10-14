@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.StandardHeight Property (Excel)
 
-Returns the standard (default) height of all the rows in the worksheet, in points. Read-only  **Double** .
+Returns the standard (default) height of all the rows in the worksheet, in points. Read-only **Double** .
 
 
 ## Syntax

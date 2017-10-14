@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.CurrentTable Property (Project)
 
-Gets the name of the active table for a project. Read-only  **String**.
+Gets the name of the active table for a project. Read-only **String**.
 
 
 ## Syntax

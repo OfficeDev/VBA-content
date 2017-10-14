@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayFormulaAutoComplete Property (Excel)
 
-Gets or sets whether to show a list of relevant functions and defined names when building cell formulas. Read/write  **Boolean** .
+Gets or sets whether to show a list of relevant functions and defined names when building cell formulas. Read/write **Boolean** .
 
 
 ## Syntax

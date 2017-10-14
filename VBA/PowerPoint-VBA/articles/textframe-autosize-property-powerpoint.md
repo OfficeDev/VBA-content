@@ -30,7 +30,7 @@ PpAutoSize
 
 ## Remarks
 
-The value of the  **AutoSize** property can be one of these **PpAutoSize** constants.
+The value of the **AutoSize** property can be one of these **PpAutoSize** constants.
 
 
 ||

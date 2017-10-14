@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListHeaderRows Property (Excel)
 
-Returns the number of header rows for the specified range. Read-only  **Long** .
+Returns the number of header rows for the specified range. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the number of header rows for the specified range. Read-only  **Long** .
 
 ## Remarks
 
-Before you use this property, use the  **[CurrentRegion](range-currentregion-property-excel.md)** property to find the boundaries of the range.
+Before you use this property, use the **[CurrentRegion](range-currentregion-property-excel.md)** property to find the boundaries of the range.
 
 
 ## Example

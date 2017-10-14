@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignments.Item Property (Project)
 
-Gets a single  **Assignment** object from the **Assignments** collection. Read-only **Assignment**.
+Gets a single **Assignment** object from the **Assignments** collection. Read-only **Assignment**.
 
 
 ## Syntax

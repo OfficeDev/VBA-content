@@ -30,7 +30,7 @@ MsoShapeType
 
 ## Remarks
 
-The value returned by the  **ContainedType** property can be one of the **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9885-5837-02db-65e60b91322b%28Office.15%29.aspx)** constants.
+The value returned by the **ContainedType** property can be one of the **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9885-5837-02db-65e60b91322b%28Office.15%29.aspx)** constants.
 
 
 ## See also

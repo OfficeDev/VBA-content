@@ -18,9 +18,9 @@ Saves the specified publication with a new name or format.
 
 ## Syntax
 
- _expression_. **SaveAs**( **_Filename_**,  **_Format_**,  **_AddToRecentFiles_**)
+ _expression_. **SaveAs**( **_Filename_**, **_Format_**, **_AddToRecentFiles_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Saves the specified publication with a new name or format.
 
 ## Remarks
 
-The Format parameter can be one of the  **PbFileFormat** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbFilePublication**.
+The Format parameter can be one of the **PbFileFormat** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbFilePublication**.
 
 
 
@@ -48,7 +48,7 @@ The Format parameter can be one of the  **PbFileFormat** constants declared in t
 | **pbFileWebArchive**|
 If there is insufficient memory or disk space to save the file, an error occurs.
 
-Calling the  **SaveAs** method always performs saves in the foreground regardless of whether background saves are enabled.
+Calling the **SaveAs** method always performs saves in the foreground regardless of whether background saves are enabled.
 
 
 ## Example
@@ -69,7 +69,7 @@ This example saves the active publication as Test.rtf in Rich Text Format (RTF).
 ActiveDocument.SaveAs FileName:="Test.rtf", Format:=pbFileRTF
 ```
 
-This example saves the active Web publication as a set of filtered HTML pages and supporting files. Note that the .htm extension is automatically added to the value of the Filename parameter if the value of the Format parameter is  **pbFileHTMLFiltered**.
+This example saves the active Web publication as a set of filtered HTML pages and supporting files. Note that the .htm extension is automatically added to the value of the Filename parameter if the value of the Format parameter is **pbFileHTMLFiltered**.
 
 
 

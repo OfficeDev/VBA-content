@@ -18,7 +18,7 @@ Returns a  [LineFormat](lineformat-object-publisher.md) object that specifies th
 
  _expression_. **Line**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Return value

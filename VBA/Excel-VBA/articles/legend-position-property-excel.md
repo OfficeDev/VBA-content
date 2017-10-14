@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.Position Property (Excel)
 
-Returns or sets a  **[XlLegendPosition](xllegendposition-enumeration-excel.md)** value that represents the position of the legend on the chart.
+Returns or sets a **[XlLegendPosition](xllegendposition-enumeration-excel.md)** value that represents the position of the legend on the chart.
 
 
 ## Syntax

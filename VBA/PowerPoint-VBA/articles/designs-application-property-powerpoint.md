@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Designs.Application Property (PowerPoint)
 
-Returns an  **[Application](application-object-powerpoint.md)** object that represents the creator of the specified object.
+Returns an **[Application](application-object-powerpoint.md)** object that represents the creator of the specified object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Application
 
 ## Example
 
-In this example, a  **[Presentation](presentation-object-powerpoint.md)** object is passed to the procedure. The procedure adds a slide to the presentation and then saves the presentation in the folder where Microsoft PowerPoint is running.
+In this example, a **[Presentation](presentation-object-powerpoint.md)** object is passed to the procedure. The procedure adds a slide to the presentation and then saves the presentation in the folder where Microsoft PowerPoint is running.
 
 
 ```vb

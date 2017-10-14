@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Last Property (Word)
 
-Returns a  **Column** object that represents the last column in a table.
+Returns a **Column** object that represents the last column in a table.
 
 
 ## Syntax

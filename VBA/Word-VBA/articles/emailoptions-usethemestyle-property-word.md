@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If no default e-mail message theme has been specified, the  **UseThemeStyle** property has no effect.
+If no default e-mail message theme has been specified, the **UseThemeStyle** property has no effect.
 
 
 ## Example

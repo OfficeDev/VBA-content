@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # ColorScaleCriteria Object (Excel)
 
-A collection of  **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects that represents all of the criteria for a color scale conditional format. Each criterion specifies the minimum, midpoint, or maximum threshold for the color scale.
+A collection of **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects that represents all of the criteria for a color scale conditional format. Each criterion specifies the minimum, midpoint, or maximum threshold for the color scale.
 
 
 ## Remarks
 
-To return the  **ColorScaleCriteria** collection, use the **[ColorScaleCriteria](colorscale-colorscalecriteria-property-excel.md)** property of the **[ColorScale](colorscale-object-excel.md)** object.
+To return the **ColorScaleCriteria** collection, use the **[ColorScaleCriteria](colorscale-colorscalecriteria-property-excel.md)** property of the **[ColorScale](colorscale-object-excel.md)** object.
 
 
 ## Example
 
-The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the  **ColorScaleCriteria** collection to set individual criteria.
+The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the **ColorScaleCriteria** collection to set individual criteria.
 
 
 ```vb

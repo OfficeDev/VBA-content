@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorSchemes.Item Property (Publisher)
 
-Returns the specified  **[ColorScheme](colorscheme-object-publisher.md)** object from a **ColorSchemes** collection. Read-only.
+Returns the specified **[ColorScheme](colorscheme-object-publisher.md)** object from a **ColorSchemes** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **ColorSchemes** object.
+ _expression_A variable that represents a **ColorSchemes** object.
 
 
 ### Parameters
@@ -29,11 +29,11 @@ Returns the specified  **[ColorScheme](colorscheme-object-publisher.md)** object
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding  **PbColorScheme** constant.|
+|Index|Required| **Variant**|The color scheme to return. Can be either the name of the color scheme as a string or the corresponding **PbColorScheme** constant.|
 
 ## Remarks
 
-The  **Item** property value can be one of the **[PbColorScheme](pbcolorscheme-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Item** property value can be one of the **[PbColorScheme](pbcolorscheme-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

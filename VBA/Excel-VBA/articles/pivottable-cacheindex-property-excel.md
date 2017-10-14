@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CacheIndex Property (Excel)
 
-Returns or sets the index number of the PivotTable cache. Read/write  **Long** .
+Returns or sets the index number of the PivotTable cache. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the index number of the PivotTable cache. Read/write  **Long** .
 
 ## Remarks
 
-If you set the  **CacheIndex** property so that one PivotTable report uses the cache for a second PivotTable report, the first report's fields must be a valid subset of the fields in the second report.
+If you set the **CacheIndex** property so that one PivotTable report uses the cache for a second PivotTable report, the first report's fields must be a valid subset of the fields in the second report.
 
 
 ## Example

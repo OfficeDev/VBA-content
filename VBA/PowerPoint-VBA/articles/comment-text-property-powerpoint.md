@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Text Property (PowerPoint)
 
-Returns a  **String** that represents the text in a comment. Read-only.
+Returns a **String** that represents the text in a comment. Read-only.
 
 
 ## Syntax

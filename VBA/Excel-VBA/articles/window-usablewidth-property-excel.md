@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.UsableWidth Property (Excel)
 
-Returns the maximum width of the space that a window can occupy in the application window area, in points. Read-only  **Double** .
+Returns the maximum width of the space that a window can occupy in the application window area, in points. Read-only **Double** .
 
 
 ## Syntax

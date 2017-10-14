@@ -25,7 +25,7 @@ Returns a [SmartArtColors](http://msdn.microsoft.com/library/a1929517-b1fb-c6fe-
 
 ## Remarks
 
-The set of colors represented by the  **SmartArtColors** property correspond to the available color styles on the **Change Colors** button on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
+The set of colors represented by the **SmartArtColors** property correspond to the available color styles on the **Change Colors** button on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
 
 
 ## Example

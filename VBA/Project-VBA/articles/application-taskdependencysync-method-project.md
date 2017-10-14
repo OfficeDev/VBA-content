@@ -30,6 +30,6 @@ Synchronizes task dependencies in the active project with changes in deliverable
 
 ## Remarks
 
-The  **TaskDependencySync** method is equivalent to the **Sync Dependencies** command on the **Deliverable** drop-down menu on the **TASK** ribbon.
+The **TaskDependencySync** method is equivalent to the **Sync Dependencies** command on the **Deliverable** drop-down menu on the **TASK** ribbon.
 
 

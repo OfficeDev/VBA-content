@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebHiddenFields.Add Method (Publisher)
 
-Adds a new hidden field to a Web form and returns a  **Long** indicating the number of the new field in the **WebHiddenFields** collection. New fields are always placed at the end of the current field list.
+Adds a new hidden field to a Web form and returns a **Long** indicating the number of the new field in the **WebHiddenFields** collection. New fields are always placed at the end of the current field list.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Name_**,  **_Value_**)
+ _expression_. **Add**( **_Name_**, **_Value_**)
 
- _expression_A variable that represents a  **WebHiddenFields** object.
+ _expression_A variable that represents a **WebHiddenFields** object.
 
 
 ### Parameters

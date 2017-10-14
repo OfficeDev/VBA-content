@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rectangle.Height Property (Word)
 
-Returns a  **Long** that represents the height of a rectangle, in pixels.
+Returns a **Long** that represents the height of a rectangle, in pixels.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.DisplayUnitCustom Property (Word)
 
-If the value of the  **[DisplayUnit](axis-displayunit-property-word.md)** property is **xlCustom** , returns or sets the value of the displayed units. Read/write **Double** .
+If the value of the **[DisplayUnit](axis-displayunit-property-word.md)** property is **xlCustom** , returns or sets the value of the displayed units. Read/write **Double** .
 
 
 ## Syntax

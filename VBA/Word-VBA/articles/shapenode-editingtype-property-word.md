@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.EditingType Property (Word)
 
-If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **MsoEditingType** . .
+If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only **MsoEditingType** . .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ If the specified node is a vertex, this property returns a value that indicates 
 
 ## Remarks
 
-If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. This property is read-only. Use the  **SetEditingType** method to set the value of this property.
+If the node is a control point for a curved segment, this property returns the editing type of the adjacent vertex. This property is read-only. Use the **SetEditingType** method to set the value of this property.
 
 
 ## Example

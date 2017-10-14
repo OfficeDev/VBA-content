@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.MailingInstructions Property (Word)
 
-Returns or sets the mailing instruction text for a letter created by the Letter Wizard (for example, "Certified Mail"). Read/write  **String** .
+Returns or sets the mailing instruction text for a letter created by the Letter Wizard (for example, "Certified Mail"). Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the mailing instruction text for a letter created by the Letter 
 
 ## Example
 
-This example retrieves the Letter Wizard elements from the active document, changes the text of the mailing instructions, and then uses the  **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the text of the mailing instructions, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
 
 
 ```vb
@@ -34,7 +34,7 @@ myLetterContent.MailingInstructions = "Air Mail"
 ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 ```
 
-This example creates a new  **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the mailing instruction text), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
 
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.MoveEnd Method (Publisher)
 
-Moves the ending character position of a range. This method returns a  **Long** that represents the number of units the range or selection actually moved or returns 0 (zero) if the move was unsuccessful.
+Moves the ending character position of a range. This method returns a **Long** that represents the number of units the range or selection actually moved or returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **MoveEnd**( **_Unit_**,  **_Size_**)
+ _expression_. **MoveEnd**( **_Unit_**, **_Size_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Unit parameter can be one of the **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resources.UniqueID Property (Project)
 
-Gets a  **[Resource](resource-object-project.md)** object from its containing collection. Read-only **Resource**.
+Gets a **[Resource](resource-object-project.md)** object from its containing collection. Read-only **Resource**.
 
 
 ## Syntax

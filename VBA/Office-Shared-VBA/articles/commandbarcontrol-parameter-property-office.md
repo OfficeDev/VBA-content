@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Parameter Property (Office)
 
-Gets or sets a string that an application can use to execute a command from a  **CommandBarControl**. Read/write.
+Gets or sets a string that an application can use to execute a command from a **CommandBarControl**. Read/write.
 
 
 ## 

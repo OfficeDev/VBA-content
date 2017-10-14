@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellRange.Item Method (PowerPoint)
 
-Returns a single  **Cell** object from the specified **CellRange** collection.
+Returns a single **Cell** object from the specified **CellRange** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Cell** object from the specified **CellRange** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Cell** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Cell** object in the collection to be returned.|
 
 ### Return Value
 

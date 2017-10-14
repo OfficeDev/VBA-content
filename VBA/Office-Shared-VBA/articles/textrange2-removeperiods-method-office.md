@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.RemovePeriods Method (Office)
 
-Removes all period (.) punctuation from the text in the  **TextRange2** object.
+Removes all period (.) punctuation from the text in the **TextRange2** object.
 
 
 ## Syntax

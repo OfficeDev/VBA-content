@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Font.NumberStyle Property (Publisher)
 
-Returns or sets a  **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
+Returns or sets a **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
 
 
 ## Syntax
 
- _expression_.  **NumberStyles**
+ _expression_. **NumberStyles**
 
- _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+ _expression_A variable that represents a **[Font](font-object-publisher.md)** object.
 
 
 ## Return Value
@@ -29,6 +29,6 @@ Returns or sets a  **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.m
 ## Remarks
 
 
- **Note**  The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
+ **Note**  The **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
 
 

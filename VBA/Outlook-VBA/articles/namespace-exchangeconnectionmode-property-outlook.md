@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.ExchangeConnectionMode Property (Outlook)
 
-Returns an  **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-outlook.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
+Returns an **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-outlook.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns an  **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-ou
 
 ## Remarks
 
-If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](namespace-offline-property-outlook.md)** property returns **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False** .
+If the **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](namespace-offline-property-outlook.md)** property returns **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False** .
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example marks the items that are sent with high importance for download if the connection mode is 'Connected Headers' and the download state is 'Header Only' in the  **Inbox** folder.
+The following Microsoft Visual Basic for Applications (VBA) example marks the items that are sent with high importance for download if the connection mode is 'Connected Headers' and the download state is 'Header Only' in the **Inbox** folder.
 
 
 ```vb

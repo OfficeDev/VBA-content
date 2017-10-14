@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Offset Property (Excel)
 
-Returns or sets a  **Long** value that represents the distance between the levels of labels, and the distance between the first level and the axis line.
+Returns or sets a **Long** value that represents the distance between the levels of labels, and the distance between the first level and the axis line.
 
 
 ## Syntax

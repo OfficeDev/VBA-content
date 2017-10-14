@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.StatusText Property (Word)
 
-Returns or sets the text that is displayed in the status bar when a form field has the focus. Read/write  **String** .
+Returns or sets the text that is displayed in the status bar when a form field has the focus. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text that is displayed in the status bar when a form field h
 
 ## Remarks
 
-If the  **[OwnStatus](formfield-ownstatus-property-word.md)** property is set to **True** , the **StatusText** property specifies the status bar text. If the **OwnStatus** property is set to **False** , the **StatusText** property specifies the name of an AutoText entry that contains status bar text for the form field.
+If the **[OwnStatus](formfield-ownstatus-property-word.md)** property is set to **True** , the **StatusText** property specifies the status bar text. If the **OwnStatus** property is set to **False** , the **StatusText** property specifies the name of an AutoText entry that contains status bar text for the form field.
 
 
 ## Example

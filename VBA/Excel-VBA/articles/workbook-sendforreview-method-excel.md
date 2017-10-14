@@ -31,12 +31,12 @@ Sends a workbook in an e-mail message for review to the specified recipients.
 |:-----|:-----|:-----|:-----|
 | _Recipients_|Optional| **Variant**|A string that lists the people to whom to send the message. These can be unresolved names and aliases in an e-mail phone book or full e-mail addresses. Separate multiple recipients with a semicolon (;). If left blank and  _ShowMessage_ is **False** , you will receive an error message, and the message will not be sent.|
 | _Subject_|Optional| **Variant**|A string for the subject of the message. If left blank, the subject will be: Please review "filename".|
-| _ShowMessage_|Optional| **Variant**|A  **Boolean** value that indicates whether the message should be displayed when the method is executed. The default value is **True** . If set to **False** , the message is automatically sent to the recipients without first showing the message to the sender.|
-| _IncludeAttachment_|Optional| **Variant**|A  **Boolean** value that indicates whether the message should include an attachment or a link to a server location. The default value is **True** . If set to **False** , the document must be stored at a shared location.|
+| _ShowMessage_|Optional| **Variant**|A **Boolean** value that indicates whether the message should be displayed when the method is executed. The default value is **True** . If set to **False** , the message is automatically sent to the recipients without first showing the message to the sender.|
+| _IncludeAttachment_|Optional| **Variant**|A **Boolean** value that indicates whether the message should include an attachment or a link to a server location. The default value is **True** . If set to **False** , the document must be stored at a shared location.|
 
 ## Remarks
 
-The  **SendForReview** method starts a collaborative review cycle. Use the **[EndReview](workbook-endreview-method-excel.md)** method to end a review cycle.
+The **SendForReview** method starts a collaborative review cycle. Use the **[EndReview](workbook-endreview-method-excel.md)** method to end a review cycle.
 
 
 ## Example

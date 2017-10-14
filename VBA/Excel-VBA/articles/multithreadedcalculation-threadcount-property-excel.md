@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MultiThreadedCalculation.ThreadCount Property (Excel)
 
-Gets the total count of the process threads that are a part of the specified  **MultiThreadedCalculation** object.
+Gets the total count of the process threads that are a part of the specified **MultiThreadedCalculation** object.
 
 
 ## Syntax

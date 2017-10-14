@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[DataLabel](datalabel-object-excel.md)** object contained by the collection.
+A **[DataLabel](datalabel-object-excel.md)** object contained by the collection.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcHorizontalAnchor Enumeration (Access)
 
-Used with the  **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.
+Used with the **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.ActivePrinter Property (Word)
 
-Returns or sets the name of the active printer. Read/write  **String** .
+Returns or sets the name of the active printer. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the name of the active printer. Read/write  **String** .
 
 ## Remarks
 
-Setting the printer using the  **ActivePrinter** property changes the default printer. For more information, see[Setting ActivePrinter Changes System Default Printer](http://go.microsoft.com/fwlink/?LinkId=61996).
+Setting the printer using the **ActivePrinter** property changes the default printer. For more information, see[Setting ActivePrinter Changes System Default Printer](http://go.microsoft.com/fwlink/?LinkId=61996).
 
 
 ## Example

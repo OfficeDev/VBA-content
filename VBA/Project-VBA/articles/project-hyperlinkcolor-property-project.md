@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.HyperlinkColor Property (Project)
 
-Gets or sets the color used to denote unfollowed hyperlinks. Read/write  **PjColor**.
+Gets or sets the color used to denote unfollowed hyperlinks. Read/write **PjColor**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the color used to denote unfollowed hyperlinks. Read/write  **PjCol
 
 ## Remarks
 
-The  **HyperlinkColor** property is one of the **[PjColor](pjcolor-enumeration-project.md)** constants. To get a hexadecimal RGB value for the color, use the **[HyperlinkColorEx](project-hyperlinkcolorex-property-project.md)** property.
+The **HyperlinkColor** property is one of the **[PjColor](pjcolor-enumeration-project.md)** constants. To get a hexadecimal RGB value for the color, use the **[HyperlinkColorEx](project-hyperlinkcolorex-property-project.md)** property.
 
 

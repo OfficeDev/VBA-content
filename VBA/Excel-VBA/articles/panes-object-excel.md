@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Panes Object (Excel)
 
-A collection of all the  **[Pane](pane-object-excel.md)** objects shown in the specified window.
+A collection of all the **[Pane](pane-object-excel.md)** objects shown in the specified window.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[Pane](pane-object-excel.md)** objects shown in the s
 
 ## Example
 
-Use the  **Panes** property to return the **Panes** collection. The following example freezes panes in the active window if the window contains more than one pane.
+Use the **Panes** property to return the **Panes** collection. The following example freezes panes in the active window if the window contains more than one pane.
 
 
 ```vb
@@ -31,7 +31,7 @@ If ActiveWindow.Panes.Count > 1 Then _
  ActiveWindow.FreezePanes = True
 ```
 
-Use  **[Panes](window-panes-property-excel.md)** ( _index_ ), where _index_ is the pane index number, to return a single **Pane** object. The following example scrolls through the upper-left pane of the window in which Sheet1 is displayed.
+Use **[Panes](window-panes-property-excel.md)** ( _index_ ), where _index_ is the pane index number, to return a single **Pane** object. The following example scrolls through the upper-left pane of the window in which Sheet1 is displayed.
 
 
 

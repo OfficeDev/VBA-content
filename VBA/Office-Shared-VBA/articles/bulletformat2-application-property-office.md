@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # BulletFormat2.Application Property (Office)
 
-Gets an object that represents the  **BulletFormat2** object. Read-only.
+Gets an object that represents the **BulletFormat2** object. Read-only.
 
 
 ## Syntax

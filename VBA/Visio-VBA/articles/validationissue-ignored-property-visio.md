@@ -30,7 +30,7 @@ Determines whether the validation issue is currently ignored. Read/write.
 
 ## Remarks
 
-Ignored issues are still recorded but, by default, they are not displayed in the  **Issues** window.
+Ignored issues are still recorded but, by default, they are not displayed in the **Issues** window.
 
  **Ignored** is the default property of the **ValidationIssue** object.
 

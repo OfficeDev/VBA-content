@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.CurrentView Property (Access)
 
-Returns the current view for the specified Access object. Read-only  **[AcCurrentView](accurrentview-enumeration-access.md)**.
+Returns the current view for the specified Access object. Read-only **[AcCurrentView](accurrentview-enumeration-access.md)**.
 
 
 ## Syntax

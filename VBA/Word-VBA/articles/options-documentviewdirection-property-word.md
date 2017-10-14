@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DocumentViewDirection Property (Word)
 
-Returns or sets the alignment and reading order for the entire document. Read/write  **WdDocumentViewDirection** .
+Returns or sets the alignment and reading order for the entire document. Read/write **WdDocumentViewDirection** .
 
 
 ## Syntax

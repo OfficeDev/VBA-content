@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlSharingMsgType Enumeration (Outlook)
 
-Indicates the type of sharing message represented by a  **[SharingItem](sharingitem-object-outlook.md)** object.
+Indicates the type of sharing message represented by a **[SharingItem](sharingitem-object-outlook.md)** object.
 
 
 

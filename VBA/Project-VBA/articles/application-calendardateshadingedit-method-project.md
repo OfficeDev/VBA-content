@@ -29,9 +29,9 @@ Changes the background color and pattern of date boxes in the Calendar view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](pjcalendarshading-enumeration-project.md)** constants.|
-| _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the **[PjCalendarShading](pjcalendarshading-enumeration-project.md)** constants.|
+| _Pattern_|Optional|**Long**|The pattern for the type of date box specified by **Item**. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Color_|Optional|**Long**|The color for the type of date box specified by **Item**. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -47,7 +47,7 @@ Besides  _Item_, **CalendarDateShadingEdit** requires either the _Pattern_ or _C
 ? CalendarDateShadingEdit (PjCalendarShading.pjBaseWorking, , &;H01dddd)
 ```
 
-To edit calendar date boxes where the colors can be RGB values, use the  **[CalendarDateShadingEditEx](application-calendardateshadingeditex-method-project.md)** method.
+To edit calendar date boxes where the colors can be RGB values, use the **[CalendarDateShadingEditEx](application-calendardateshadingeditex-method-project.md)** method.
 
 
 ## Example

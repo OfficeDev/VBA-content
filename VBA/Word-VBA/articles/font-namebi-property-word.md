@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.NameBi Property (Word)
 
-Returns or sets the name of the font in a right-to-left language document. Read/write  **String** .
+Returns or sets the name of the font in a right-to-left language document. Read/write **String** .
 
 
 ## Syntax

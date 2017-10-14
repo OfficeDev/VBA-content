@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TabStop** object.
+Returns an **Object** that represents the parent object of the specified **TabStop** object.
 
 
 ## Syntax

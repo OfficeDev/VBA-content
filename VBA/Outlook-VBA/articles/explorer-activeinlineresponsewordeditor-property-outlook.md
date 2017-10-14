@@ -21,7 +21,7 @@ Returns the Word [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane. The returned Word **Document** object provides access to most of the Word object model except for the following members:
+This property returns **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane. The returned Word **Document** object provides access to most of the Word object model except for the following members:
 
 
 - [InlineShapes.AddChart2](http://msdn.microsoft.com/library/108899b6-24bb-cf4c-db95-066219536c19%28Office.15%29.aspx)

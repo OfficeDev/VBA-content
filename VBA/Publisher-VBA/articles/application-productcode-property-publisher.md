@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ProductCode Property (Publisher)
 
-Returns a  **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
+Returns a **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
 
 
 ## Syntax
 
  _expression_. **ProductCode**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

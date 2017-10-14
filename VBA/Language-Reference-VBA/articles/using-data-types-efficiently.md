@@ -25,7 +25,7 @@ You should consider using other data types if:
 - You write data directly to random-access files.
     
 
-In addition to  **Variant**, supported data types include **Byte**, **Boolean**, **Integer**, **Long**, **Single**, **Double**, **Currency**, **Decimal**, **Date**, **Object**, and **String**. Use the **Dim** statement to declare a variable of a specific type, for example:
+In addition to **Variant**, supported data types include **Byte**, **Boolean**, **Integer**, **Long**, **Single**, **Double**, **Currency**, **Decimal**, **Date**, **Object**, and **String**. Use the **Dim** statement to declare a variable of a specific type, for example:
 
 
 

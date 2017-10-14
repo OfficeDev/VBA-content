@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Characters Method (Excel)
 
-Returns a  **[Characters](characters-object-excel.md)** object that represents a range of characters within a shape?s text frame. You can use the **Characters** object to add and format characters within the text frame.
+Returns a **[Characters](characters-object-excel.md)** object that represents a range of characters within a shape's text frame. You can use the **Characters** object to add and format characters within the text frame.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Returns a  **[Characters](characters-object-excel.md)** object that represents a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Start_|Optional| **Variant**|The first character to be returned. If this argument is either set to 1 or omitted, the  **Characters** method returns a range of characters starting with the first character.|
-| _Length_|Optional| **Variant**|The number of characters to be returned. If this argument is omitted, the  **Characters** method returns the remainder of the string (everything after the character that was set as the _Start_ argument).|
+| _Start_|Optional| **Variant**|The first character to be returned. If this argument is either set to 1 or omitted, the **Characters** method returns a range of characters starting with the first character.|
+| _Length_|Optional| **Variant**|The number of characters to be returned. If this argument is omitted, the **Characters** method returns the remainder of the string (everything after the character that was set as the _Start_ argument).|
 
 ### Return Value
 
@@ -39,12 +39,12 @@ Characters
 
 ## Remarks
 
-The  **Characters** object isn't a collection.
+The **Characters** object isn't a collection.
 
 
 ## Example
 
-This example formats as bold the third character in the first shape?s text frame on the active worksheet.
+This example formats as bold the third character in the first shape's text frame on the active worksheet.
 
 
 ```vb

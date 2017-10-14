@@ -30,7 +30,7 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Baseline_|Required|**Integer**|Specifies the baseline number. Valid values are 0 through 10.|
-| _Show_|Required|**Boolean**|If  **True**, show the baseline slippage. If **False**, hide the baseline slippage.|
+| _Show_|Required|**Boolean**|If **True**, show the baseline slippage. If **False**, hide the baseline slippage.|
 
 ### Return Value
 
@@ -39,6 +39,6 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleSlippage** method corresponds to the **Slippage** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleSlippage** method corresponds to the **Slippage** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 

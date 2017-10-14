@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.VisualReports Method (Project)
 
-Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
+Opens the **Visual Reports - Create Report** dialog box to the specified tab.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PjVisualReportsTab_|Optional|**Long**|Specifies which tab to display. Can be one of the  **[PjVisualReportsTab](pjvisualreportstab-enumeration-project.md)** constants. The default is **pjTabAll**.|
+| _PjVisualReportsTab_|Optional|**Long**|Specifies which tab to display. Can be one of the **[PjVisualReportsTab](pjvisualreportstab-enumeration-project.md)** constants. The default is **pjTabAll**.|
 
 ### Return Value
 
@@ -38,11 +38,11 @@ Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 
 ## Remarks
 
-The  **VisualReports** method returns **False** if successful.
+The **VisualReports** method returns **False** if successful.
 
-The  **VisualReports** method corresponds to the **Visual Reports** command on the **REPORT** tab of the ribbon, which accesses the reports that use Excel and Visio templates. For the newer Office Art types of reports, see the **[ReportsDialog](application-reportsdialog-method-project.md)** method.
+The **VisualReports** method corresponds to the **Visual Reports** command on the **REPORT** tab of the ribbon, which accesses the reports that use Excel and Visio templates. For the newer Office Art types of reports, see the **[ReportsDialog](application-reportsdialog-method-project.md)** method.
 
 
- **Note**  The  **[Reports](application-reports-method-project.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
+ **Note**  The **[Reports](application-reports-method-project.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
 
 

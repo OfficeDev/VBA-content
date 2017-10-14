@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The Microsoft Access database engine cannot open an external Paradox table because of inconsistencies between your initialization settings and those of another user who currently has the table open. The  **ParadoxNetPath** and the **ParadoxNetStyle** settings in the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Paradox** key of the Microsoft Windows Registry must be consistent for all users sharing a database. Make sure your initialization settings match those of all other users sharing the database, and then try opening the table again.
+The Microsoft Access database engine cannot open an external Paradox table because of inconsistencies between your initialization settings and those of another user who currently has the table open. The **ParadoxNetPath** and the **ParadoxNetStyle** settings in the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Paradox** key of the Microsoft Windows Registry must be consistent for all users sharing a database. Make sure your initialization settings match those of all other users sharing the database, and then try opening the table again.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

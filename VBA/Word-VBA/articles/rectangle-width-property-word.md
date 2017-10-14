@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rectangle.Width Property (Word)
 
-Returns or sets a  **Long** that represents the width, in points, of a rectangle. Read/write **Long** .
+Returns or sets a **Long** that represents the width, in points, of a rectangle. Read/write **Long** .
 
 
 ## Syntax

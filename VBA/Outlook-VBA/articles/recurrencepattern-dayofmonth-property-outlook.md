@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.DayOfMonth Property (Outlook)
 
-Returns or sets a  **Long** indicating the day of the month on which the recurring appointment or task occurs. Read/write.
+Returns or sets a **Long** indicating the day of the month on which the recurring appointment or task occurs. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExtraColors.Item Method (PowerPoint)
 
-Returns a single color from the specified  **ExtraColors** collection.
+Returns a single color from the specified **ExtraColors** collection.
 
 
 ## Syntax

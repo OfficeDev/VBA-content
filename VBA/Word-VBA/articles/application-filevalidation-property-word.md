@@ -30,7 +30,7 @@ Returns or sets how Word will validate files before opening them. Read/write [Ms
 
 ## Remarks
 
-Files that do not pass validation will be opened in a [Protected View window](protectedviewwindow-object-word.md). The  **FileValidation** property is per session only. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
+Files that do not pass validation will be opened in a [Protected View window](protectedviewwindow-object-word.md). The **FileValidation** property is per session only. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
 
 
 ## See also

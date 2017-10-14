@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DefaultTableStyle Property (Excel)
 
-Specifies the table style from the  **TableStyles** collection that is used as the default TableStyle. Read/write **Variant** .
+Specifies the table style from the **TableStyles** collection that is used as the default TableStyle. Read/write **Variant** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.ParagraphFormat Property (Publisher)
 
-Returns a  **[ParagraphFormat](paragraphformat-object-publisher.md)** object representing the paragraph formatting for the specified text range or text style.
+Returns a **[ParagraphFormat](paragraphformat-object-publisher.md)** object representing the paragraph formatting for the specified text range or text style.
 
 
 ## Syntax
 
  _expression_. **ParagraphFormat**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ## Example

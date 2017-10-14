@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.CurrentRecord Property (Access)
 
-You can use the  **CurrentRecord** property to identify the current record in the recordset being viewed on a form. Read/write **Long**.
+You can use the **CurrentRecord** property to identify the current record in the recordset being viewed on a form. Read/write **Long**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **CurrentRecord** property to identify the current record in th
 
 ## Remarks
 
-Microsoft Access sets this property to a  **Long Integer** value that represents the current record number displayed on a form.
+Microsoft Access sets this property to a **Long Integer** value that represents the current record number displayed on a form.
 
-The  **CurrentRecord** property is read-only in Form view and Datasheet view. It's not available in Design view.
+The **CurrentRecord** property is read-only in Form view and Datasheet view. It's not available in Design view.
 
 The value specified by this property corresponds to the value shown in the record number box found in the lower-left corner of the form.
 

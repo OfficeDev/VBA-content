@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.Open Method (PowerPoint)
 
-Opens the specified presentation. Returns a  **[Presentation](presentation-object-powerpoint.md)** object that represents the opened presentation.
+Opens the specified presentation. Returns a **[Presentation](presentation-object-powerpoint.md)** object that represents the opened presentation.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ Presentation
 
 With the proper file converters installed, Microsoft Office PowerPoint 2003 and earlier versions open files with the following MS-DOS filename extensions: .ch3, .cht, .doc, .htm, .html, .mcw, .pot, .ppa, .pps, .ppt, .pre, .rtf, .sh3, .shw, .txt, .wk1, .wk3, .wk4, .wpd, .wpf, .wps, and .xls. PowerPoint also opens files with the following filename extensions: .docm, .docx, .mhtml, .potm, .potx, .ppam, .pptm, .pptx, .ppsm, .ppsx, .thmx, .xlsm, and .xlsx.
 
-The ReadOnly parameter value can be one of these  **MsoTriState** constants.
+The ReadOnly parameter value can be one of these **MsoTriState** constants.
 
 
 

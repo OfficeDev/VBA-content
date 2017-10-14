@@ -41,16 +41,16 @@ Nothing
 
 ## Remarks
 
-If Microsoft Visio cannot break the link between a shape in the selection and the data row, or if the link does not exist, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if anyshapes in the selection are still linked to a data row, call the  **[Shape.GetLinkedDataRow](shape-getlinkeddatarow-method-visio.md)** method on each shape in the selection. If the **GetLinkedDataRow** method fails for any shape, it indicates that the shape either no longer is linked to the data row, or never was linked to the data row.
+If Microsoft Visio cannot break the link between a shape in the selection and the data row, or if the link does not exist, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if anyshapes in the selection are still linked to a data row, call the **[Shape.GetLinkedDataRow](shape-getlinkeddatarow-method-visio.md)** method on each shape in the selection. If the **GetLinkedDataRow** method fails for any shape, it indicates that the shape either no longer is linked to the data row, or never was linked to the data row.
 
 Note that breaking links between shapes and data does not remove shape data (called custom properties in some previous versions of Visio) from shapes, nor does it remove data graphics associated with shapes.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **BreakLinkToData** method to break all links between the shapes in a selection and data rows in a data recordset.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **BreakLinkToData** method to break all links between the shapes in a selection and data rows in a data recordset.
 
-Before running this macro, place several shapes on the page, add at least one data recordset to the  **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document, and use any linking method to link several shapes to one or more data rows in the data recordset you most recently added to the collection.
+Before running this macro, place several shapes on the page, add at least one data recordset to the **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document, and use any linking method to link several shapes to one or more data rows in the data recordset you most recently added to the collection.
 
 
 

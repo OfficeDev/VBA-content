@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListColumn.Name Property (Excel)
 
-Returns or sets a  **String** value that represents the name of the list column.
+Returns or sets a **String** value that represents the name of the list column.
 
 
 ## Syntax

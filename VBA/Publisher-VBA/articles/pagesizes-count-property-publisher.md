@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSizes.Count Property (Publisher)
 
-Returns the number of  **PageSize** objects in the **PageSizes** collection of the active document. Read-only.
+Returns the number of **PageSize** objects in the **PageSizes** collection of the active document. Read-only.
 
 
 ## Syntax
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **PageSizes** collection.
+ _expression_A variable that represents a **PageSizes** collection.
 
 
 ### Return Value

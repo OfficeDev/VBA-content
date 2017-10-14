@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureEffects Object (Office)
 
-Represents a collection of  **PictureEffects** objects.
+Represents a collection of **PictureEffects** objects.
 
 
 ## Remarks

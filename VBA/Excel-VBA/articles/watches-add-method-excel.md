@@ -33,7 +33,7 @@ Adds a range which is tracked when the worksheet is recalculated.
 
 ### Return Value
 
-A  **[Watch](watch-object-excel.md)** object that represents the new range.
+A **[Watch](watch-object-excel.md)** object that represents the new range.
 
 
 ## Example

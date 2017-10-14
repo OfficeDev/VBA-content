@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.Path Property (Word)
 
-Returns the disk or Web path to the specified object. Read-only  **String** .
+Returns the disk or Web path to the specified object. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the disk or Web path to the specified object. Read-only  **String** .
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](fileconverter-name-property-word.md)** property to return the file name without the path. You can create the full name of a file converter by concatenating the **Path** , **PathSeparator** , and **Name** properties.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](fileconverter-name-property-word.md)** property to return the file name without the path. You can create the full name of a file converter by concatenating the **Path** , **PathSeparator** , and **Name** properties.
 
 
 ## See also

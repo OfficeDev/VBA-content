@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ArabicMode Property (Word)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **WdAraSpeller** .
+Returns or sets the mode for the Arabic spelling checker. Read/write **WdAraSpeller** .
 
 
 ## Syntax

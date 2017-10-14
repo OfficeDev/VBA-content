@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontBold Property (Word)
 
-Sets the font to bold for the specified Word Art shape. Read/write  **MsoTriState** .
+Sets the font to bold for the specified Word Art shape. Read/write **MsoTriState** .
 
 
 ## Syntax

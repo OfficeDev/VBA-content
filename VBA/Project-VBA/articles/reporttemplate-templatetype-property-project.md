@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ReportTemplate.TemplateType Property (Project)
 
-Gets the Visual Report template type. Read-only  **PjVisualReportsTemplateType**.
+Gets the Visual Report template type. Read-only **PjVisualReportsTemplateType**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the Visual Report template type. Read-only  **PjVisualReportsTemplateType**
 
 ## Remarks
 
-The TemplateType property can be one of the  **[PjVisualReportsTemplateType](pjvisualreportstemplatetype-enumeration-project.md)** constants.
+The TemplateType property can be one of the **[PjVisualReportsTemplateType](pjvisualreportstemplatetype-enumeration-project.md)** constants.
 
 
 ## Example

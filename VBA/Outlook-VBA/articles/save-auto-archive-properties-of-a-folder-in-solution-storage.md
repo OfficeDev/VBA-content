@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Save Auto-Archive Properties of a Folder in Solution Storage
 
-This topic shows a solution that saves its private data in a few MAPI auto-archive properties. The solution stores these properties in a  **[StorageItem](storageitem-object-outlook.md)** object of the folder to which the auto-archive properties apply. **StorageItem** objects are stored as hidden data in the associated portion of a folder, and because solutions can optionally encrypt their data, they offer the privacy required of solution data. Because the MAPI auto-archive properties are not exposed as explicit built-in properties in the Outlook object model, the solution uses the **[PropertyAccessor](propertyaccessor-object-outlook.md)** on the **StorageItem** object to set these properties.
+This topic shows a solution that saves its private data in a few MAPI auto-archive properties. The solution stores these properties in a **[StorageItem](storageitem-object-outlook.md)** object of the folder to which the auto-archive properties apply. **StorageItem** objects are stored as hidden data in the associated portion of a folder, and because solutions can optionally encrypt their data, they offer the privacy required of solution data. Because the MAPI auto-archive properties are not exposed as explicit built-in properties in the Outlook object model, the solution uses the **[PropertyAccessor](propertyaccessor-object-outlook.md)** on the **StorageItem** object to set these properties.
 
 The following illustrates the procedure:
 
@@ -30,15 +30,15 @@ The following illustrates the procedure:
     
       - 0 indicates nothing assumes a default value.
     
-  - 1 indicates that only the file location assumes a default value. This is the same as checking  **Archive this folder using these settings** and **Move old items to default archive folder** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
+  - 1 indicates that only the file location assumes a default value. This is the same as checking **Archive this folder using these settings** and **Move old items to default archive folder** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
     
-  - 3 indicates all settings assume a default value. This is the same as checking  **Archive items in this folder using default settings** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
+  - 3 indicates all settings assume a default value. This is the same as checking **Archive items in this folder using default settings** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
     
 2. The validity of the parameters is checked.
     
-3. If the parameters are valid,  ** [Folder.GetStorage](folder-getstorage-method-outlook.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**. 
+3. If the parameters are valid, ** [Folder.GetStorage](folder-getstorage-method-outlook.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**. 
     
-4.  **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**,  ** [StorageItem.Save](storageitem-save-method-outlook.md)** is used to save changes to the **StorageItem**.
+4. **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**, ** [StorageItem.Save](storageitem-save-method-outlook.md)** is used to save changes to the **StorageItem**.
     
 5. The  `TestAgingProps` procedure sets the auto-archive settings for the aging properties of the current folder so that items older than six months are moved to the default archive file.
     
@@ -47,12 +47,12 @@ The following illustrates the procedure:
 ## Remarks
 
 
-1. Place the code in the built-in  **ThisOutlookSession** module.
+1. Place the code in the built-in **ThisOutlookSession** module.
     
 2. Run the  `TestAgingProps` procedure to set aging properties on the current folder in the active explorer.
     
 
- **Note**  Whether it is implemented as a VBA macro or a COM add-in, the solution is a trusted caller and can therefore access the  **PropertyAccessor**. To improve this example, wrap the following VBA code in a .NET class for better error trapping and enumeration for  **Granularity**.
+ **Note**  Whether it is implemented as a VBA macro or a COM add-in, the solution is a trusted caller and can therefore access the **PropertyAccessor**. To improve this example, wrap the following VBA code in a .NET class for better error trapping and enumeration for **Granularity**.
 
 
 ```vb

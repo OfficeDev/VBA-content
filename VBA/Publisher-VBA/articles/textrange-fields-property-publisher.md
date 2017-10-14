@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Fields Property (Publisher)
 
-Returns a  **Fields** object that represents all the fields in the specified text range.
+Returns a **Fields** object that represents all the fields in the specified text range.
 
 
 ## Syntax
 
  _expression_. **Fields**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

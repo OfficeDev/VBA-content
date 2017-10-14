@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.TabStops Property (Word)
 
-Returns or sets a  **TabStops** collection that represents all the custom tab stops for the specified paragraphs. Read/write.
+Returns or sets a **TabStops** collection that represents all the custom tab stops for the specified paragraphs. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example adds a centered tab stop at 2 inches to all the paragraphs in the active document. The  **InchesToPoints** method is used to convert inches to points.
+This example adds a centered tab stop at 2 inches to all the paragraphs in the active document. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

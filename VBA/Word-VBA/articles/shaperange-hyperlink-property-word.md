@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Hyperlink Property (Word)
 
-Returns a  **Hyperlink** object that represents the hyperlink associated with the specified **ShapeRange** object. Read-only.
+Returns a **Hyperlink** object that represents the hyperlink associated with the specified **ShapeRange** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Hyperlink** object that represents the hyperlink associated with th
 
 ## Remarks
 
-If there is no hyperlink associated with the specified range of shapes, an error occurs. In this case, use the  **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink to the specified range of shapes. The following example shows how to do this.
+If there is no hyperlink associated with the specified range of shapes, an error occurs. In this case, use the **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink to the specified range of shapes. The following example shows how to do this.
 
 
 ```vb

@@ -19,7 +19,7 @@ Contains font attributes (for example, font name, font size, and color) for an o
 |**Name**|**Description**|
 |:-----|:-----|
 |[Allcaps](font2-allcaps-property-office.md)|True if the font is formatted as all capital letters. Read/write.|
-|[Application](font2-application-property-office.md)|Gets an object that represents the application the  **Font2** object is used in. Read-only.|
+|[Application](font2-application-property-office.md)|Gets an object that represents the application the **Font2** object is used in. Read-only.|
 |[AutorotateNumbers](font2-autorotatenumbers-property-office.md)|Gets or sets a value that specifies whether the numbers in a numbered list should be rotated when the text is rotated. Read/write.|
 |[BaselineOffset](font2-baselineoffset-property-office.md)|Gets or sets a value specifying the horizontaol offset of the selected font. Read/write.|
 |[Bold](font2-bold-property-office.md)|Gets or sets a value specifying whether the font should be bold. Read/write.|
@@ -40,7 +40,7 @@ Contains font attributes (for example, font name, font size, and color) for an o
 |[NameComplexScript](font2-namecomplexscript-property-office.md)|Gets or sets the complex script font name. Used for mixed language text. Read/write.|
 |[NameFarEast](font2-namefareast-property-office.md)|Gets or sets an East Asian font name. Read/write.|
 |[NameOther](font2-nameother-property-office.md)|Gets or sets the font used for characters whose character set numbers are greater than 127. Read/write.|
-|[Parent](font2-parent-property-office.md)|Gets the parent of the  **Font2** object. Read-only.|
+|[Parent](font2-parent-property-office.md)|Gets the parent of the **Font2** object. Read-only.|
 |[Reflection](font2-reflection-property-office.md)|Gets a value specifying the type of reflection format for the selection of text. Read-only.|
 |[Shadow](font2-shadow-property-office.md)|Gets the value specifying the type of shadow effect for the selection of text. Read-only.|
 |[Size](font2-size-property-office.md)|Gets or sets a value specifying the size of the font. Read/write.|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Intercept Property (Word)
 
-Returns or sets the point where the trendline crosses the value axis. Read/write  **Double** .
+Returns or sets the point where the trendline crosses the value axis. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
 ## Remarks
 
-Setting this property sets the  **[InterceptIsAuto](trendline-interceptisauto-property-word.md)** property to **False** .
+Setting this property sets the **[InterceptIsAuto](trendline-interceptisauto-property-word.md)** property to **False** .
 
 
 ## Example

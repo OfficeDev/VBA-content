@@ -43,7 +43,7 @@ Double
  
 If the Significance argument is omitted, the value 1.0 is used.
 
-Depending on the sign of the number and significance arguments, the  **Ceiling_Precise** method rounds either away from or towards zero.
+Depending on the sign of the number and significance arguments, the **Ceiling_Precise** method rounds either away from or towards zero.
 
 
 
@@ -54,7 +54,7 @@ Depending on the sign of the number and significance arguments, the  **Ceiling_P
 |-/+|Rounds toward zero.|
 |+/-|Rounds away from zero.|
 
-- If either argument is nonnumeric,  **Ceiling_Precise** generates an error.
+- If either argument is nonnumeric, **Ceiling_Precise** generates an error.
     
 - If number is an exact multiple of significance, no rounding occurs.
     

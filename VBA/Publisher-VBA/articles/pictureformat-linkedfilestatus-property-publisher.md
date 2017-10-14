@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.LinkedFileStatus Property (Publisher)
 
-Returns a  **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
+Returns a **PbLinkedFileStatus** constant that indicates the status of the file linked to the specified picture. Read-only.
 
 
 ## Syntax
 
  _expression_. **LinkedFileStatus**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -37,11 +37,11 @@ Use either of the following properties to determine whether a shape represents a
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
     
-- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
+- The **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
     
 
 
-The  **LinkedFileStatus** property value can be one of the **[PbLinkedFileStatus](pblinkedfilestatus-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **LinkedFileStatus** property value can be one of the **[PbLinkedFileStatus](pblinkedfilestatus-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

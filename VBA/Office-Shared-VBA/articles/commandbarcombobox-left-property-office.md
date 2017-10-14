@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Left Property (Office)
 
-Gets the horizontal position of the  **CommandBarComboBox** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
+Gets the horizontal position of the **CommandBarComboBox** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
 
 
 ## 

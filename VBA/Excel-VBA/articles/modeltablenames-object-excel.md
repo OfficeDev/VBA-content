@@ -16,7 +16,7 @@ A collection of table names representing tables in the Excel data model.
 
 ## Remarks
 
-The  **ModelTableNames** collection is used to represent a set of tables in the Excel data model for which changes have been made during a model operation like for example data refresh. The table names are represented as strings in the collection.
+The **ModelTableNames** collection is used to represent a set of tables in the Excel data model for which changes have been made during a model operation like for example data refresh. The table names are represented as strings in the collection.
 
 
 ## See also

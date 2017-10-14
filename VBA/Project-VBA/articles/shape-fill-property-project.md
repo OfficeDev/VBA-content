@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Fill Property (Project)
-Gets a  **FillFormat** object for the shape, if the shape contains fill formatting properties. Read-only **[FillFormat](http://msdn.microsoft.com/en-us/library/office/ff838198%28v=office.15%29)**.
+Gets a **FillFormat** object for the shape, if the shape contains fill formatting properties. Read-only **[FillFormat](http://msdn.microsoft.com/en-us/library/office/ff838198%28v=office.15%29)**.
 
 ## Syntax
 

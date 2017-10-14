@@ -18,9 +18,9 @@ Sets the specified fill to a preset gradient.
 
 ## Syntax
 
- _expression_. **PresetGradient**( **_Style_**,  **_Variant_**,  **_PresetGradientType_**)
+ _expression_. **PresetGradient**( **_Style_**, **_Variant_**, **_PresetGradientType_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -30,12 +30,12 @@ Sets the specified fill to a preset gradient.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The style of the gradient.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 |PresetGradientType|Required| **MsoPresetGradientType**|The gradient type.|
 
 ## Remarks
 
-The Style parameter can be one of the  **MsoPresetGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
+The Style parameter can be one of the **MsoPresetGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
@@ -46,7 +46,7 @@ The Style parameter can be one of the  **MsoPresetGradientStyle** constants decl
 | **msoGradientFromTitle**|
 | **msoGradientHorizontal**|
 | **msoGradientVertical**|
-The PresetGradientType parameter can be one of the  **MsoPresetGradientType** constants declared in the Microsoft Office type library and shown in the following table.
+The PresetGradientType parameter can be one of the **MsoPresetGradientType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

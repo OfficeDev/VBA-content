@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MasterPages.Add Method (Publisher)
 
-Adds a new  **Page** object to the specified **MasterPages** object and returns the new **Page** object.
+Adds a new **Page** object to the specified **MasterPages** object and returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Add**( **_IsTwoPageMaster_**,  **_Abbreviation_**,  **_Description_**, )
+ _expression_. **Add**( **_IsTwoPageMaster_**, **_Abbreviation_**, **_Description_**, )
 
- _expression_A variable that represents a  **MasterPages** object.
+ _expression_A variable that represents a **MasterPages** object.
 
 
 ### Parameters

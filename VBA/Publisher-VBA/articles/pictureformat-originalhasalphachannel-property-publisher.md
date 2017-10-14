@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.OriginalHasAlphaChannel Property (Publisher)
 
-Returns an  **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
+Returns an **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
 
 
 ## Syntax
 
  _expression_. **OriginalHasAlphaChannel**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -37,13 +37,13 @@ Use either of the following properties to determine whether a shape represents a
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
     
-- The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
+- The **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
     
 
 
 An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking information or transparency information.
 
-The  **OriginalHasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **OriginalHasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

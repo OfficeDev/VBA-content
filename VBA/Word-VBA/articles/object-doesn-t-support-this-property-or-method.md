@@ -16,7 +16,7 @@ ActiveDocument.Copy
 ```
 
 
-The  **[ActiveDocument](application-activedocument-property-word.md)** property returns a **[Document](document-object-word.md)** object. There is no **Copy** method or property available for the **Document** object, therefore an error occurs. To determine what properties and methods are available for an object, do any of the following.
+The **[ActiveDocument](application-activedocument-property-word.md)** property returns a **[Document](document-object-word.md)** object. There is no **Copy** method or property available for the **Document** object, therefore an error occurs. To determine what properties and methods are available for an object, do any of the following.
 
 
 - Use the Object Browser to determine what members (properties and methods) are available for the selected class (object).
@@ -25,7 +25,7 @@ The  **[ActiveDocument](application-activedocument-property-word.md)** property 
     
 - Use Word Visual Basic for Applications Help to determine which properties and methods can be used with an object. Each object topic in Help includes a page that lists the properties and methods for the object. Press F1 while in the Object Browser or while in a module to display the appropriate Help topic.
     
-- Use the  **TypeName** function to determine the type of object returned by an expression. The following example displays "Range" because the **[Content](document-content-property-word.md)** property returns a **[Range](range-object-word.md)** object.
+- Use the **TypeName** function to determine the type of object returned by an expression. The following example displays "Range" because the **[Content](document-content-property-word.md)** property returns a **[Range](range-object-word.md)** object.
     
 ```vb
   MsgBox TypeName(ActiveDocument.Content)

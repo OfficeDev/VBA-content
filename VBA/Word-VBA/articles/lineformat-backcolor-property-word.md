@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.BackColor Property (Word)
 
-Returns or sets a  **[ColorFormat](colorformat-object-word.md)** object that represents the background color for a patterned line. Read/write.
+Returns or sets a **[ColorFormat](colorformat-object-word.md)** object that represents the background color for a patterned line. Read/write.
 
 
 ## Syntax

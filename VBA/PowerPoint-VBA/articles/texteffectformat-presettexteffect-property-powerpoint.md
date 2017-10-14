@@ -30,9 +30,9 @@ MsoPresetTextEffect
 
 ## Remarks
 
-Setting the  **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
+Setting the **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
 
-The value of the  **PresetTextEffect** property can be one of these **MsoPresetTextEffect** constants.
+The value of the **PresetTextEffect** property can be one of these **MsoPresetTextEffect** constants.
 
 
 ||

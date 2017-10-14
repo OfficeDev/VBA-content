@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Dialogs Property (Word)
 
-Returns a  **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
+Returns a **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax

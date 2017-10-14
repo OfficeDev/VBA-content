@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfAuthorities.MarkCitation Method (Word)
 
-Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Field** object.
+Inserts a TA (Table of Authorities Entry) field and returns the field as a **Field** object.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Fi
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The location of the table of authorities entry. The TA field is inserted after Range.|
-| _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the  **Mark Citation** dialog box ( **Insert** menu, **Index and Tables** command).|
+| _ShortCitation_|Required| **String**|The short citation for the entry as it will appear in the **Mark Citation** dialog box ( **Insert** menu, **Index and Tables** command).|
 | _LongCitation_|Optional| **Variant**|The long citation for the entry as it will appear in the table of authorities.|
 | _LongCitationAutoText_|Optional| **Variant**|The name of the AutoText entry that contains the text of the long citation as it will appear in the table of authorities.|
-| _Category_|Optional| **Variant**|The category number to be associated with the entry: 1 corresponds to the first category in the  **Category** box in the **Mark Citation** dialog box, 2 corresponds to the second category, and so on.|
+| _Category_|Optional| **Variant**|The category number to be associated with the entry: 1 corresponds to the first category in the **Category** box in the **Mark Citation** dialog box, 2 corresponds to the second category, and so on.|
 
 ## Example
 

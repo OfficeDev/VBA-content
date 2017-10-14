@@ -33,7 +33,7 @@ Includes or excludes flagged records in a data source from a mail merge.
 
 ## Remarks
 
-You can set individual records in a data source to be included in or excluded from a mail merge using the  **Included** property.
+You can set individual records in a data source to be included in or excluded from a mail merge using the **Included** property.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.Adjustments Property (Publisher)
 
-Returns an  **[Adjustments](adjustments-object-publisher.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
+Returns an **[Adjustments](adjustments-object-publisher.md)** collection representing all adjustment handles for the specified **Shape** or **ShapeRange** object.
 
 
 ## Syntax
 
  _expression_. **Adjustments**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks

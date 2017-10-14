@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Application Property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **EmailMergeEnvelope** object. Read-only.
+Returns an **Application** object that represents the creator of the parent **EmailMergeEnvelope** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_A variable that represents an **EmailMergeEnvelope** object.
 
 
 ### Return Value

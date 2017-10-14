@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeZoneControl.SelectedTimeZoneIndex Property (Outlook)
 
-Returns or sets an index into the  **[Application.TimeZones](application-timezones-property-outlook.md)** collection that determines the selected time zone. Read/write.
+Returns or sets an index into the **[Application.TimeZones](application-timezones-property-outlook.md)** collection that determines the selected time zone. Read/write.
 
 
 ## Syntax

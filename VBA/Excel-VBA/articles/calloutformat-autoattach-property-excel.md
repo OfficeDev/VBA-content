@@ -33,9 +33,9 @@ ms.date: 06/08/2017
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
 | **msoTrue** . The place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box.|
-When the value of this property is  **True** , the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it's measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is **False** , the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the **[CustomDrop](calloutformat-customdrop-method-excel.md)** method to set the drop value, and use the **[Drop](calloutformat-drop-property-excel.md)** property to return the drop value.
+When the value of this property is **True** , the drop value (the vertical distance from the edge of the callout text box to the place where the callout line attaches) is measured from the top of the text box when the text box is to the right of the origin, and it's measured from the bottom of the text box when the text box is to the left of the origin. When the value of this property is **False** , the drop value is always measured from the top of the text box, regardless of the relative positions of the text box and the origin. Use the **[CustomDrop](calloutformat-customdrop-method-excel.md)** method to set the drop value, and use the **[Drop](calloutformat-drop-property-excel.md)** property to return the drop value.
 
-Setting this property affects a callout only if it has an explicitly set drop value — that is, if the value of the  **[DropType](calloutformat-droptype-property-excel.md)** property is **msoCalloutDropCustom** . By default, callouts have explicitly set drop values when they're created.
+Setting this property affects a callout only if it has an explicitly set drop value — that is, if the value of the **[DropType](calloutformat-droptype-property-excel.md)** property is **msoCalloutDropCustom** . By default, callouts have explicitly set drop values when they're created.
 
 
 ## Example

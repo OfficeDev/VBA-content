@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.ParagraphFormat Property (PowerPoint)
 
-Returns a  **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.
+Returns a **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.
 
 
 ## Syntax

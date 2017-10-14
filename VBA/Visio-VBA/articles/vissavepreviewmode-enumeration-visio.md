@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSavePreviewMode Enumeration (Visio)
 
-Values passed to and returned by the  **Document.SavePreviewMode** property.
+Values passed to and returned by the **Document.SavePreviewMode** property.
 
 
 

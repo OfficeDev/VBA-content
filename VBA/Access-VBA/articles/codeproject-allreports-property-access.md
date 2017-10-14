@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.AllReports Property (Access)
 
-You can use the  **AllReports** property to reference the **[AllReports](allreports-object-access.md)** collection and its related properties. Read-only **AllReports** object.
+You can use the **AllReports** property to reference the **[AllReports](allreports-object-access.md)** collection and its related properties. Read-only **AllReports** object.
 
 
 ## Syntax

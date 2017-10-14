@@ -18,8 +18,8 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value is  **True**. Set this property to  **False** if you don't want to be disturbed by prompts and alert messages while a macro is running; any time a message requires a response, Microsoft Graph chooses the default response.
+The default value is **True**. Set this property to **False** if you don't want to be disturbed by prompts and alert messages while a macro is running; any time a message requires a response, Microsoft Graph chooses the default response.
 
-If you set this property to  **False**, Microsoft Graph doesn't automatically set it back to  **True** when your macro stops running. Write your macro such that it always sets this property back to **True** when it stops running.
+If you set this property to **False**, Microsoft Graph doesn't automatically set it back to **True** when your macro stops running. Write your macro such that it always sets this property back to **True** when it stops running.
 
 
