@@ -49,7 +49,7 @@ Public Sub Sync()
  
  Set syc = sycs.Item(i) 
  
- strPrompt = MsgBox("Do you wish to synchronize " & syc.Name &;"?", vbYesNo) 
+ strPrompt = MsgBox("Do you wish to synchronize " & syc.Name & "?", vbYesNo) 
  
  If strPrompt = vbYes Then 
  

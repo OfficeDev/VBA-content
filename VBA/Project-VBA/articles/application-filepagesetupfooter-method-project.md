@@ -35,32 +35,32 @@ Sets up footers for printing.
 
 |**Format Code**|**Description**|
 |:-----|:-----|
-|&;B|Turns bold printing on or off.|
-|&;I|Turns italic printing on or off.|
-|&;U|Turns underline printing on or off.|
-|&;""fontname""|Prints characters that follow the format code in the specified font. An example would be &;""Arial"".|
-|&;nn|Prints characters that follow the format code in the specified font size. Use a two-digit number to specify a size in points. An example would be &;08.|
-|&;P""path""|Inserts the specified image. An example would be &;P"" _[My Documents]_ \Image.gif"". The term _[My Documents]_ represents the full path to your My Documents folder.|
-|&;[Date]|Prints the current system date.|
-|&;[Time]|Prints the current system time.|
-|&;[File]|Prints the file name.|
-|&;[Page]|Prints the page number.|
-|&;[Pages]|Prints the total number of pages in the document.|
-|&;[Project Title]|Prints the title.|
-|&;[Company]|Prints the company name.|
-|&;[Manager]|Prints the manager name.|
-|&;[Start Date]|Prints the project start date.|
-|&;[Finish Date]|Prints the project finish date.|
-|&;[Current Date]|Prints the project current date.|
-|&;[Status Date]|Prints the project status date.|
-|&;[View]|Prints the view name.|
-|&;[Report]|Prints the report name.|
-|&;[Filter]|Prints the filter name.|
-|&;[Saved Date]|Prints the last saved date.|
-|&;[Subject]|Prints the subject.|
-|&;[Author]|Prints the author.|
-|&;[Keyword]|Prints the keyword(s).|
-|&;[ _Field_Name_ ]|Prints the value of the field specified with  _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. An example would be &;[Actual Cost].|
+|&B|Turns bold printing on or off.|
+|&I|Turns italic printing on or off.|
+|&U|Turns underline printing on or off.|
+|&""fontname""|Prints characters that follow the format code in the specified font. An example would be &""Arial"".|
+|&nn|Prints characters that follow the format code in the specified font size. Use a two-digit number to specify a size in points. An example would be &08.|
+|&P""path""|Inserts the specified image. An example would be &P"" _[My Documents]_ \Image.gif"". The term _[My Documents]_ represents the full path to your My Documents folder.|
+|&[Date]|Prints the current system date.|
+|&[Time]|Prints the current system time.|
+|&[File]|Prints the file name.|
+|&[Page]|Prints the page number.|
+|&[Pages]|Prints the total number of pages in the document.|
+|&[Project Title]|Prints the title.|
+|&[Company]|Prints the company name.|
+|&[Manager]|Prints the manager name.|
+|&[Start Date]|Prints the project start date.|
+|&[Finish Date]|Prints the project finish date.|
+|&[Current Date]|Prints the project current date.|
+|&[Status Date]|Prints the project status date.|
+|&[View]|Prints the view name.|
+|&[Report]|Prints the report name.|
+|&[Filter]|Prints the filter name.|
+|&[Saved Date]|Prints the last saved date.|
+|&[Subject]|Prints the subject.|
+|&[Author]|Prints the author.|
+|&[Keyword]|Prints the keyword(s).|
+|&[ _Field_Name_ ]|Prints the value of the field specified with  _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. An example would be &[Actual Cost].|
 |
 
 ### Return Value
