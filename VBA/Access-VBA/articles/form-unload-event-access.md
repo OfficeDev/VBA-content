@@ -50,7 +50,7 @@ By running a macro or an event procedure when a form's  **Unload** event occurs,
 
 When you close a form, the following events occur in this order:
 
-Unload ? Deactivate ? Close
+**Unload** → **Deactivate** → **Close**
 
 The  **Unload** event occurs before the **Close** event. The **Unload** event can be canceled, but the **Close** event can't.
 
