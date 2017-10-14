@@ -44,9 +44,9 @@ This example displays the height and width in points of an object measured in pi
 
 ```vb
 MsgBox "320x240 pixels is equivalent to " _ 
- &; PixelsToPoints(320, False) &; "x" _ 
- &; PixelsToPoints(240, True) _ 
- &; " points on this display."
+ & PixelsToPoints(320, False) & "x" _ 
+ & PixelsToPoints(240, True) _ 
+ & " points on this display."
 ```
 
 

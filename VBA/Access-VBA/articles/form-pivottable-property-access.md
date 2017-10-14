@@ -34,7 +34,7 @@ Dim objChartSpace As PivotTable
 Set objChartSpace = Forms(0).PivotTable 
  
 MsgBox "Current version of Office Web Components: " _ 
- &; objChartSpace.Version 
+ & objChartSpace.Version 
 
 ```
 

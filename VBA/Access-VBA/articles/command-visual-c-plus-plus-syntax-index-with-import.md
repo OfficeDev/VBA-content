@@ -26,7 +26,7 @@ _RecordsetPtr Invalid DDUE based on source, error:link not allowed in code, link
  
 _ParameterPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcreateparam_HV10294243.xml( _bstr_t Name , enum 
  DataTypeEnum Type , enum ParameterDirectionEnum Direction , long Size , 
- const _variant_t &; Value  =vtMissing); 
+ const _variant_t & Value  =vtMissing); 
 
 ```
 
@@ -38,7 +38,7 @@ _ParameterPtr Invalid DDUE based on source, error:link not allowed in code, link
  
 _ConnectionPtr GetActiveConnection( ); 
 void PutRefActiveConnection( struct _Connection * ppvObject ); 
-void PutActiveConnection( const _variant_t &; ppvObject ); 
+void PutActiveConnection( const _variant_t & ppvObject ); 
 __declspec(property(get=GetActiveConnection,put=PutRefActiveConnection)) 
  _ConnectionPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactivecon_HV10293988.xml; 
  

@@ -52,13 +52,13 @@ Sub DisplayModuleCounts()
  
  ' by the NavigationPane object. 
  
- MsgBox "The Navigation Pane currently contains " &; _ 
+ MsgBox "The Navigation Pane currently contains " & _ 
  
- objPane.Modules.Count &; _ 
+ objPane.Modules.Count & _ 
  
- " modules, of which " &; _ 
+ " modules, of which " & _ 
  
- objPane.DisplayedModuleCount &; _ 
+ objPane.DisplayedModuleCount & _ 
  
  " are displayed." 
  

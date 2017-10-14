@@ -27,7 +27,7 @@ The following code example displays the number of  **Protected View** windows th
 
 
 ```vb
-MsgBox "There are " &; ProtectedViewWindows.Count &; _ 
+MsgBox "There are " & ProtectedViewWindows.Count & _ 
  " Protected View windows currently open."
 ```
 

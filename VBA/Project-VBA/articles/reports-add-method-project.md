@@ -65,7 +65,7 @@ Sub DeleteAReport()
         
         ActiveProject.Reports(reportName).Delete
     Else
-        MsgBox Prompt:="No report name: " &; reportName, Title:="Report delete error"
+        MsgBox Prompt:="No report name: " & reportName, Title:="Report delete error"
     End If
 End Sub
 ```

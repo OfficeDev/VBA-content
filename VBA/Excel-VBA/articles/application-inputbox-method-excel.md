@@ -113,8 +113,8 @@ Sub Cbm_Value_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
-     MsgBox "Length, width and height are needed -" &; _
-         vbLf &; "please select three cells!"
+     MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
       Exit Sub
    End If
    

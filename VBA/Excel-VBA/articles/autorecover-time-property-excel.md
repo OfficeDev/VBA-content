@@ -39,8 +39,8 @@ The following example sets the AutoRecover time interval to 5 minutes and notifi
 Sub SetTimeValue() 
  
  Application.AutoRecover.Time = 5 
- MsgBox "The AutoRecover time interval is set at " &; _ 
- Application.AutoRecover.Time &; " minutes." 
+ MsgBox "The AutoRecover time interval is set at " & _ 
+ Application.AutoRecover.Time & " minutes." 
  
 End Sub
 ```

@@ -101,11 +101,11 @@ Sub AllDistinctX()
     ' that have at least one order. 
  
     Set rst = dbs.OpenRecordset("SELECT DISTINCTROW " _ 
-        &; "CompanyName FROM Customers " _ 
-        &; "INNER JOIN Orders " _ 
-        &; "ON Customers.CustomerID = " _ 
-        &; "Orders.CustomerID " _ 
-        &; "ORDER BY CompanyName;") 
+        & "CompanyName FROM Customers " _ 
+        & "INNER JOIN Orders " _ 
+        & "ON Customers.CustomerID = " _ 
+        & "Orders.CustomerID " _ 
+        & "ORDER BY CompanyName;") 
  
     ' Populate the Recordset. 
     rst.MoveLast 

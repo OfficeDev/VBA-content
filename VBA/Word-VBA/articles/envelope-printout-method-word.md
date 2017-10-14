@@ -64,7 +64,7 @@ This example prints an envelope using the user address as the return address and
 
 
 ```
-recep = "Don Funk" &; vbCr &; "123 Skye St." &; vbCr &; _ 
+recep = "Don Funk" & vbCr & "123 Skye St." & vbCr & _ 
     "OurTown, WA 98107" 
 ActiveDocument.Envelope.PrintOut Address:=recep, _ 
     ReturnAddress:=Application.UserAddress, _ 

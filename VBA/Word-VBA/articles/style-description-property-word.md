@@ -43,8 +43,8 @@ Set docNew = Documents.Add
  
 For Each styleLoop In docActive.Styles 
  With docNew.Range 
- .InsertAfter Text:=styleLoop.NameLocal &; Chr(9) _ 
- &; styleLoop.Description 
+ .InsertAfter Text:=styleLoop.NameLocal & Chr(9) _ 
+ & styleLoop.Description 
  .InsertParagraphAfter 
  End With 
 Next styleLoop

@@ -65,7 +65,7 @@ Sub SaveAttachment()
  
  If MsgBox(strPrompt, vbYesNo + vbQuestion) = vbYes Then 
  
- myAttachments.Item(1).SaveAsFile Environ("HOMEPATH") &; "\My Documents\" &; _ 
+ myAttachments.Item(1).SaveAsFile Environ("HOMEPATH") & "\My Documents\" & _ 
  
  myAttachments.Item(1).DisplayName 
  

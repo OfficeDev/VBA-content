@@ -44,15 +44,15 @@ Function CreateSubjectRestriction(criteria As String) As String
  
  If Application.Session.DefaultStore.IsInstantSearchEnabled Then 
  
- result = "@SQL=" &; Chr(34) &; "urn:schemas:httpmail:subject" _ 
+ result = "@SQL=" & Chr(34) & "urn:schemas:httpmail:subject" _ 
  
- &; Chr(34) &; " ci_phrasematch '" &; criteria &; "'" 
+ & Chr(34) & " ci_phrasematch '" & criteria & "'" 
  
  Else 
  
- result = "@SQL=" &; Chr(34) &; "urn:schemas:httpmail:subject" _ 
+ result = "@SQL=" & Chr(34) & "urn:schemas:httpmail:subject" _ 
  
- &; Chr(34) &; " like '%" &; criteria &; "%'" 
+ & Chr(34) & " like '%" & criteria & "%'" 
  
  End If 
  

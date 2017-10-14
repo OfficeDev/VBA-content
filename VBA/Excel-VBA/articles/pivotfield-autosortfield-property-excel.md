@@ -38,8 +38,8 @@ With Worksheets(1).PivotTables(1).PivotFields("product")
  Case xlDescending 
  aso = "descending" 
  End Select 
- MsgBox " sorted in " &; aso &; _ 
- " order by " &; .AutoSortField 
+ MsgBox " sorted in " & aso & _ 
+ " order by " & .AutoSortField 
 End With
 ```
 

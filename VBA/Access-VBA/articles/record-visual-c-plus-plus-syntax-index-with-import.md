@@ -35,7 +35,7 @@ _bstr_t Invalid DDUE based on source, error:link not allowed in code, link filen
  _bstr_t UserName , _bstr_t Password , enum MoveRecordOptionsEnum 
  Options , VARIANT_BOOL Async ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenrecord_HV10294565.xml( const _variant_t &; Source , const _variant_t 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenrecord_HV10294565.xml( const _variant_t & Source , const _variant_t 
 &; ActiveConnection , enum ConnectModeEnum Mode , enum 
  RecordCreateOptionsEnum CreateOptions , enum RecordOpenOptionsEnum 
  Options , _bstr_t UserName , _bstr_t Password ); 

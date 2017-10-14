@@ -40,7 +40,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
  Debug.Print objBBT.Name 
  For intCountCat = 1 To objBBT.Categories.Count 
  Set objCat = objBBT.Categories(intCountCat) 
- Debug.Print vbTab &; objCat.Name 
+ Debug.Print vbTab & objCat.Name 
  Next 
  End If 
 Next

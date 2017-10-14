@@ -49,7 +49,7 @@ You should include single quotation marks in the  _criteria_ argument in such a 
 
 
 ```
-"[LastName] = '" &; strName &; "'"
+"[LastName] = '" & strName & "'"
 ```
 
 When the variable is evaluated and concatenated into the  _criteria_ string, the _criteria_ string becomes:
@@ -71,7 +71,7 @@ You should include double quotation marks within the  _criteria_ argument in suc
 
 
 ```
-"[LastName] = """ &; strName &; """"
+"[LastName] = """ & strName & """"
 ```
 
 When the variable is evaluated and concatenated into the  _criteria_ argument, each set of two double quotation marks is replaced by one single quotation mark. The _criteria_ argument becomes:
@@ -92,7 +92,7 @@ You can create a string variable that represents double quotation marks, and con
 
 
 ```
-"[LastName] = " &; strQuote &; strName &; strQuote
+"[LastName] = " & strQuote & strName & strQuote
 ```
 
 When the variables are evaluated and concatenated into the  _criteria_ argument, the _criteria_ argument becomes:

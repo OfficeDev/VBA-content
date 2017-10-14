@@ -79,7 +79,7 @@ If  _expr_ identifies multiple fields, separate the field names with a concatena
 intW = DCount("[ShipName]", "Orders") 
 intX = DCount("[ShipRegion]", "Orders") 
 intY = DCount("[ShipName] + [ShipRegion]", "Orders") 
-intZ = DCount("[ShipName] &; [ShipRegion]", "Orders")
+intZ = DCount("[ShipName] & [ShipRegion]", "Orders")
 ```
 
 
@@ -96,8 +96,8 @@ Public Function OrdersCount(ByVal strCountry As String, _
                             ByVal dteShipDate As Date) As Integer 
  
     OrdersCount = DCount("[ShippedDate]", "Orders", _ 
-                  "[ShipCountry] = '" &; strCountry &; _ 
-                  "' AND [ShippedDate] > #" &; dteShipDate &; "#") 
+                  "[ShipCountry] = '" & strCountry & _ 
+                  "' AND [ShippedDate] > #" & dteShipDate & "#") 
 End Function
 ```
 
@@ -128,24 +128,24 @@ The following examples show how to use various types of criteria with the  **DCo
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DCount("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DCount("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DCount("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DCount("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DCount("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DCount("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DCount("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DCount("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DCount("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DCount("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DCount("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

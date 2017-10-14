@@ -78,7 +78,7 @@ Private Sub Proj_Change(ByVal pj As Project)
  
     If ProjTaskNew Then 
         For Each NewTaskID In NewTaskIDs 
-            MsgBox "New Task Name: " &; ActiveProject.Tasks.UniqueID(NewTaskID).Name 
+            MsgBox "New Task Name: " & ActiveProject.Tasks.UniqueID(NewTaskID).Name 
         Next NewTaskID 
  
         NumNewTasks = 0 

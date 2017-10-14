@@ -60,26 +60,26 @@ ErrRoutine:
  ' allow access. 
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -313393143 ' &;HED520009 
  ' This error typically occurs if you set the 
  ' AllowWriteAccess property of a SharingItem 
  ' to True when sharing a default folder. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -2147467259 ' &;H80004005 
  ' This error typically occurs if the SharingItem 
  ' cannot be sent because of incorrect or 
  ' conflicting property settings. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case Else 
  ' Any other error that may occur. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  End Select 
  
  GoTo EndRoutine 

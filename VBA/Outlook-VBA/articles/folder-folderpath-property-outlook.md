@@ -57,11 +57,11 @@ Sub FolderInfo(ByVal fldFolder As Folder)
  
  'Displays information about a given folder 
  
- MsgBox fldFolder.Name &; "'s current path is " &; _ 
+ MsgBox fldFolder.Name & "'s current path is " & _ 
  
- fldFolder.FolderPath &; _ 
+ fldFolder.FolderPath & _ 
  
- ". The current address book name is " &; fldFolder.AddressBookName &; "." 
+ ". The current address book name is " & fldFolder.AddressBookName & "." 
  
 End Sub
 ```

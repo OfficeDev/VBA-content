@@ -39,7 +39,7 @@ Dim dicGrammar As Dictionary
  
 lngLanguage = Selection.LanguageID 
 Set dicGrammar = Languages(lngLanguage).ActiveGrammarDictionary 
-MsgBox dicGrammar.Path &; Application.PathSeparator &; dicGrammar.Name
+MsgBox dicGrammar.Path & Application.PathSeparator & dicGrammar.Name
 ```
 
 

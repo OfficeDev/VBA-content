@@ -34,7 +34,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  _bstr_t Password , long Options ); 
  
 _RecordsetPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenschema_HV10294568.xml( enum SchemaEnum Schema , const 
- _variant_t &; Restrictions  = vtMissing, const _variant_t &; 
+ _variant_t & Restrictions  = vtMissing, const _variant_t & 
  SchemaID  =vtMissing); 
 
 ```

@@ -29,7 +29,7 @@ This example displays the address of the cell beneath the lower-right corner of 
 
 
 ```vb
-MsgBox "The bottom right corner is over cell " &; _ 
+MsgBox "The bottom right corner is over cell " & _ 
  Worksheets("Sheet1").ChartObjects(1).BottomRightCell.Address
 ```
 

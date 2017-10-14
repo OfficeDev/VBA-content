@@ -55,7 +55,7 @@ Private Sub MailMergeApp_MailMergeDataSourceLoad(ByVal Doc As Document)
  strDSName = Right(ActiveDocument.MailMerge.DataSource.Name, intDSStart) 
  
  'Deliver a message to user when data source is loading 
- MsgBox "Your data source, " &; strDSName &; ", is now loading." 
+ MsgBox "Your data source, " & strDSName & ", is now loading." 
 End Sub
 ```
 

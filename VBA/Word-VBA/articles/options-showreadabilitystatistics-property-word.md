@@ -33,7 +33,7 @@ Options.ShowReadabilityStatistics = True
 ActiveDocument.CheckGrammar
 ```
 
-This example returns the current status of the Show readability statistics option on the Spelling &; Grammar tab in the Options dialog box (Tools menu).
+This example returns the current status of the Show readability statistics option on the Spelling & Grammar tab in the Options dialog box (Tools menu).
 
 
 

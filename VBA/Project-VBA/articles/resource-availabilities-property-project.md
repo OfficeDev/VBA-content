@@ -37,7 +37,7 @@ The following example displays the range of dates during which the specified res
 Sub ShowWorkAvail()
   Dim Avail As Availability
   For Each Avail In ActiveProject.Resources("Tom").Availabilities
-    MsgBox "From " &; Avail.AvailableFrom &; " to " &; Avail.AvailableTo
+    MsgBox "From " & Avail.AvailableFrom & " to " & Avail.AvailableTo
   Next Avail
 End Sub
 ```

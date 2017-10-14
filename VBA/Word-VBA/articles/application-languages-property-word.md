@@ -39,7 +39,7 @@ Dim dicSpell As Dictionary
 Set dicSpell = _ 
  Languages(Selection.LanguageID).ActiveSpellingDictionary 
  
-MsgBox dicSpell.Path &; Application.PathSeparator &; dicSpell.Name
+MsgBox dicSpell.Path & Application.PathSeparator & dicSpell.Name
 ```
 
 This example uses the  `aLang()` array to store the proofing language names.

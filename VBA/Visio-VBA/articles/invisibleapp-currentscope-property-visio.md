@@ -75,7 +75,7 @@ Private Sub vsoApplication_CellChanged(ByVal Cell As IVCell)
  'Check to see if this cell change is the result of something 
  'happening within the scope. 
  If vsoApplication.IsInScope(lngScopeID) Then 
- Debug.Print Cell.Name &; " changed in scope "; lngScopeID 
+ Debug.Print Cell.Name & " changed in scope "; lngScopeID 
  End If 
  
 End Sub 
@@ -85,9 +85,9 @@ Private Sub vsoApplication_EnterScope(ByVal app As IVApplication, _
  ByVal bstrDescription As String) 
  
  If vsoApplication.CurrentScope = lngScopeID Then 
- Debug.Print "Entering current scope " &; nScopeID 
+ Debug.Print "Entering current scope " & nScopeID 
  Else 
- Debug.Print "Enter Scope " &; bstrDescription &; "(" &; nScopeID &; ")" 
+ Debug.Print "Enter Scope " & bstrDescription & "(" & nScopeID & ")" 
  End If 
  
 End Sub 
@@ -98,9 +98,9 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
  ByVal bErrOrCancelled As Boolean) 
  
  If vsoApplication.CurrentScope = lngScopeID Then 
- Debug.Print "Exiting current scope " &; nScopeID 
+ Debug.Print "Exiting current scope " & nScopeID 
  Else 
- Debug.Print "ExitScope " &; bstrDescription &; "(" &; nScopeID &; ")" 
+ Debug.Print "ExitScope " & bstrDescription & "(" & nScopeID & ")" 
  End If 
  
 End Sub

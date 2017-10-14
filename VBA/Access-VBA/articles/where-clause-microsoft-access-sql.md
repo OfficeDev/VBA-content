@@ -145,8 +145,8 @@ Sub WhereX()
     ' Select records from the Employees table where the 
     ' last name is King. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
-        &; "FirstName FROM Employees " _ 
-        &; "WHERE LastName = 'King';") 
+        & "FirstName FROM Employees " _ 
+        & "WHERE LastName = 'King';") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

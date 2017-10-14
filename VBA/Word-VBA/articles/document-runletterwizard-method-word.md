@@ -64,13 +64,13 @@ Set myLetter = ActiveDocument _
  .CreateLetterContent(DateFormat:="July 31, 1999", _ 
  IncludeHeaderFooter:=False, _ 
  PageDesign:="C:\MSOffice\Templates" _ 
- &; "\Letters &; Faxes\Contemporary Letter.dot", _ 
+ & "\Letters & Faxes\Contemporary Letter.dot", _ 
  LetterStyle:=wdFullBlock, Letterhead:=True, _ 
  LetterheadLocation:=wdLetterTop, _ 
  LetterheadSize:=InchesToPoints(1.5), _ 
  RecipientName:="Dave Edson", _ 
  RecipientAddress:="436 SE Main St." _ 
- &; vbCr &; "Bellevue, WA 98004", _ 
+ & vbCr & "Bellevue, WA 98004", _ 
  Salutation:="Dear Dave,", _ 
  SalutationType:=wdSalutationInformal, _ 
  RecipientReference:="", MailingInstructions:="", _ 

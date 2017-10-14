@@ -23,10 +23,10 @@ Use the  **[Envelope](document-envelope-property-word.md)** property to return t
 
 ```vb
 Set myDoc = Documents.Add 
-addr = "Michael Matey" &; vbCr &; "123 Skye St." _ 
- &; vbCr &; "Redmond, WA 98107" 
-retaddr = "Cora Edmonds" &; vbCr &; "456 Erde Lane" &; vbCr _ 
- &; "Redmond, WA 98107" 
+addr = "Michael Matey" & vbCr & "123 Skye St." _ 
+ & vbCr & "Redmond, WA 98107" 
+retaddr = "Cora Edmonds" & vbCr & "456 Erde Lane" & vbCr _ 
+ & "Redmond, WA 98107" 
 With myDoc.Envelope 
  .Insert Address:=addr, ReturnAddress:=retaddr 
  .AddressFromTop = InchesToPoints(2.25) 

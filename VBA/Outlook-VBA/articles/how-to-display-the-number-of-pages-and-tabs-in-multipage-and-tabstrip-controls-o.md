@@ -31,13 +31,13 @@ Sub Item_Open
  Dim MyControl 
  
  Set Controls = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls 
- MsgBox "Controls.Count = " &; Controls.Count 
+ MsgBox "Controls.Count = " & Controls.Count 
  For i = 0 to Controls.Count -1 
  Set MyControl = Item.GetInspector.ModifiedFormPages.Item("P.2").Controls.Item(i) 
  If (MyControl.Name = "MultiPage1") Then 
- MsgBox MyControl.Name &; ".Pages.Count = " &; MyControl.Pages.Count 
+ MsgBox MyControl.Name & ".Pages.Count = " & MyControl.Pages.Count 
  ElseIf (MyControl.Name = "TabStrip1") Then 
- MsgBox MyControl.Name &; ".Tabs.Count = " &; MyControl.Tabs.Count 
+ MsgBox MyControl.Name & ".Tabs.Count = " & MyControl.Tabs.Count 
  End If 
  Next 
 End Sub

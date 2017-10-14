@@ -58,12 +58,12 @@ Sub AddCustomUI()
     Dim customUiXml As String 
  
     customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
-        &; "<mso:ribbon><mso:tabs><mso:tab id=""myTab"" label=""New Tab"" " _
-        &; "insertBeforeQ=""mso:TabView"">" _ 
-        &; "<mso:group id=""group1"" label=""New Group"">" _ 
-        &; "<mso:button id=""button1"" label=""Test Button"" size=""large"" " _
-        &; "imageMso=""GetExternalDataFromText"" />" _ 
-        &; "</mso:group></mso:tab></mso:tabs></mso:ribbon></mso:customUI>" 
+        & "<mso:ribbon><mso:tabs><mso:tab id=""myTab"" label=""New Tab"" " _
+        & "insertBeforeQ=""mso:TabView"">" _ 
+        & "<mso:group id=""group1"" label=""New Group"">" _ 
+        & "<mso:button id=""button1"" label=""Test Button"" size=""large"" " _
+        & "imageMso=""GetExternalDataFromText"" />" _ 
+        & "</mso:group></mso:tab></mso:tabs></mso:ribbon></mso:customUI>" 
  
     ActiveProject.SetCustomUI (customUiXml) 
 End Sub
@@ -79,7 +79,7 @@ Sub RemoveCustomUI()
     Dim customUiXml As String 
  
     customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
-        &; "<mso:ribbon></mso:ribbon></mso:customUI>" 
+        & "<mso:ribbon></mso:ribbon></mso:customUI>" 
  
     ActiveProject.SetCustomUI (customUiXml) 
 End Sub

@@ -47,7 +47,7 @@ Sub AddTextToTableCells()
  intCell = 1 
  
  For Each oCell In Selection.Cells 
- oCell.Range.Text = "Cell " &; intCell 
+ oCell.Range.Text = "Cell " & intCell 
  intCell = intCell + 1 
  Next oCell 
 End Sub

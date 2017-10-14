@@ -20,11 +20,11 @@ ms.date: 06/08/2017
 ```c#
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtwillchangefield_HV10294950.xml( long cFields , const 
- _variant_t &; Fields , enum EventStatusEnum * adStatus , struct 
+ _variant_t & Fields , enum EventStatusEnum * adStatus , struct 
  _Recordset * pRecordset ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtwillchangefield_HV10294950.xml( long cFields , const 
- _variant_t &; Fields , struct Error * pError , enum EventStatusEnum 
+ _variant_t & Fields , struct Error * pError , enum EventStatusEnum 
  * adStatus , struct _Recordset * pRecordset ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtwillchangerecord_HV10294951.xml( enum EventReasonEnum 

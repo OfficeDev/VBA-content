@@ -43,7 +43,7 @@ This example saves the active presentation in the same folder as PowerPoint.
 ```vb
 With Application
 
-    fName = .Path &; "\test presentation"
+    fName = .Path & "\test presentation"
 
     ActivePresentation.SaveAs fName
 

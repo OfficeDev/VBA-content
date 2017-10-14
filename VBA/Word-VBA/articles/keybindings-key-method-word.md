@@ -53,9 +53,9 @@ This example assigns the ALT+F4 key combination to the Arial font and then displ
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4), _ 
  KeyCategory:=wdKeyCategoryFont, Command:="Arial" 
-MsgBox KeyBindings.Count &; " keys in KeyBindings collection" 
+MsgBox KeyBindings.Count & " keys in KeyBindings collection" 
 KeyBindings.Key(KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4)).Clear 
-MsgBox KeyBindings.Count &; " keys in KeyBindings collection"
+MsgBox KeyBindings.Count & " keys in KeyBindings collection"
 ```
 
 This example assigns the CTRL+SHIFT+U key combination to the macro named "Macro1" in the active document. The example uses the  **Key** property to return a **KeyBinding** object so that Word can retrieve and display the command name.

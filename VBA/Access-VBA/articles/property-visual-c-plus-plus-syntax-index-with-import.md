@@ -31,7 +31,7 @@ enum DataTypeEnum GetType( );
 __declspec(property(get=GetType)) enum DataTypeEnum Invalid DDUE based on source, error:link not allowed in code, link filename:mdprotype_HV10294866.xml; 
  
 _variant_t GetValue( ); 
-void PutValue( const _variant_t &; pval ); 
+void PutValue( const _variant_t & pval ); 
 __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml; 
 
 ```

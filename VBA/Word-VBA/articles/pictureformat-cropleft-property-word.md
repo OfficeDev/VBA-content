@@ -49,7 +49,7 @@ Dim sngHeight As Single
 Dim sngCrop As Single 
  
 dblPercent = Val(InputBox("What percentage do you want " _ 
- &; "to crop off the left of this picture?")) 
+ & "to crop off the left of this picture?")) 
  
 Set shapeCrop = _ 
  Selection.ShapeRange(1) 

@@ -30,7 +30,7 @@ VisSnapSettings
 
 ## Remarks
 
-The value of the  **SnapSettings** property is equivalent to selecting check boxes under **Snap to** on the **General** tab of the **Snap &; Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
+The value of the  **SnapSettings** property is equivalent to selecting check boxes under **Snap to** on the **General** tab of the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
 The  **SnapSettings** property can be any combination of the following **VisSnapSettings** constants, which are declared in the Visio type library.
 

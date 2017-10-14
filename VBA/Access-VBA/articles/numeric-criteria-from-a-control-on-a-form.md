@@ -22,7 +22,7 @@ Suppose that you are performing the [DLookup](application-dlookup-method-access.
 
 ```
 =DLookup("[LastName]", "Employees", "[EmployeeID] = " _ 
- &; Forms!Orders!EmployeeID)
+ & Forms!Orders!EmployeeID)
 ```
 
 If the current value of the EmployeeID field is 7, the  _criteria_ argument that is passed to the **DLookup** function is:
@@ -47,7 +47,7 @@ Dim varResult As Variant
  
 intNum = 7 
 varResult = DLookup("[LastName]", "Employees", _ 
- "[EmployeeID] = " &; intNum)
+ "[EmployeeID] = " & intNum)
 ```
 
 

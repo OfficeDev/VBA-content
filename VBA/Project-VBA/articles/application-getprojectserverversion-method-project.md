@@ -53,18 +53,18 @@ Sub mpsVersion()
  ActiveProject.MakeServerURLTrusted 
  xmlStream = Application.GetProjectServerSettings( _ 
  RequestXML:="<ProjectServerSettingsRequest>" _ 
- &; "<AdminDefaultTrackingMethod /><AdminTrackingLocked />" _ 
- &; "<ProjectIDInProjectServer />" _ 
- &; "<ProjectManagerHasTransactions />" _ 
- &; "<ProjectManagerHasTransactionsForCurrentProject />" _ 
- &; "<TimePeriodGranularity /><GroupsForCurrentProjectManager />" _ 
- &; "</ProjectServerSettingsRequest>") 
+ & "<AdminDefaultTrackingMethod /><AdminTrackingLocked />" _ 
+ & "<ProjectIDInProjectServer />" _ 
+ & "<ProjectManagerHasTransactions />" _ 
+ & "<ProjectManagerHasTransactionsForCurrentProject />" _ 
+ & "<TimePeriodGranularity /><GroupsForCurrentProjectManager />" _ 
+ & "</ProjectServerSettingsRequest>") 
  MsgBox xmlStream 
  Else 
  MsgBox "This macro returns information from Project " _ 
- &; "Server. Please choose 'Collaborate using Project " _ 
- &; "Server' and specify a valid Project Server URL " _ 
- &; "for this project in Collaboration Options (Collaborate menu)." 
+ & "Server. Please choose 'Collaborate using Project " _ 
+ & "Server' and specify a valid Project Server URL " _ 
+ & "for this project in Collaboration Options (Collaborate menu)." 
  Exit Sub 
  End If 
 End Sub

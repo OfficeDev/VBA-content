@@ -20,7 +20,7 @@ This example shows how to select the used range on the current sheet, which incl
 ```vb
 Sub SelectUsedRange()
     ActiveSheet.UsedRange.Select
-    MsgBox "The used range address is " &; ActiveSheet.UsedRange.Address(0, 0) &; ".", 64, "Used range address:"
+    MsgBox "The used range address is " & ActiveSheet.UsedRange.Address(0, 0) & ".", 64, "Used range address:"
 End Sub
 ```
 
@@ -36,7 +36,7 @@ Sub SelectDataRange()
     LastRow = Cells.Find(What:="*", After:=Range("A1"), SearchOrder:=xlByRows, SearchDirection:=xlPrevious).Row
     LastColumn = Cells.Find(What:="*", After:=Range("A1"), SearchOrder:=xlByColumns, SearchDirection:=xlPrevious).Column
     Range("A1").Resize(LastRow, LastColumn).Select
-    MsgBox "The data range address is " &; Selection.Address(0, 0) &; ".", 64, "Data-containing range address:"
+    MsgBox "The data range address is " & Selection.Address(0, 0) & ".", 64, "Data-containing range address:"
 End Sub
 ```
 
@@ -61,7 +61,7 @@ Sub UnknownRange()
         If Err.Number <> 0 Then
             Err.Clear
             MsgBox _
-            "There are horizontally merged cells on the sheet" &; vbCrLf &; _
+            "There are horizontally merged cells on the sheet" & vbCrLf & _
             "that should be removed in order to locate the range.", 64, "Please unmerge all cells."
             Exit Sub
         End If
@@ -70,7 +70,7 @@ Sub UnknownRange()
         LastCol = Cells.Find(What:="*", SearchDirection:=xlPrevious, SearchOrder:=xlByColumns).Column
         Set myUsedRange = Range(Cells(FirstRow, FirstCol), Cells(LastRow, LastCol))
         myUsedRange.Select
-        MsgBox "The data range on this worksheet is " &; myUsedRange.Address(0, 0) &; ".", 64, "Range address:"
+        MsgBox "The data range on this worksheet is " & myUsedRange.Address(0, 0) & ".", 64, "Range address:"
     End If
 End Sub
 ```

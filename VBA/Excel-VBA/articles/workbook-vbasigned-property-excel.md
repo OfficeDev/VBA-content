@@ -32,8 +32,8 @@ This example loads a workbook named "mybook.xls" and then tests to see whether i
 Workbooks.Open FileName:="c:\My Documents\mybook.xls", _ 
  ReadOnly:=False 
 If Workbook.VBASigned = False Then 
- MsgBox "Warning! The project " _ &; 
- "has not been digitally signed." _ &; 
+ MsgBox "Warning! The project " _ & 
+ "has not been digitally signed." _ & 
  , vbCritical, "Digital Signature Warning" 
 End If
 ```

@@ -99,7 +99,7 @@ ErrRoutine:
  ' allow access. 
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -2147467259 ' &;H80004005 
  ' Export failed. 
  ' This error typically occurs if the CalendarSharing 
@@ -107,19 +107,19 @@ ErrRoutine:
  ' of conflicting property settings. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -2147221233 ' &;H8004010F 
  ' Operation failed. 
  ' This error typically occurs if the GetCalendarExporter method 
  ' is called on a folder that doesn't contain calendar items. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case Else 
  ' Any other error that may occur. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  End Select 
  
  GoTo EndRoutine 

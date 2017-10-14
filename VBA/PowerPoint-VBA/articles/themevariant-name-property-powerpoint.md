@@ -32,8 +32,8 @@ Sub IterateThemeVariants()
     Dim path As String
     
     ' Get a reference to the currently active theme.
-    path = "C:\Program Files (x86)\Microsoft Office\Document Themes 15\" &; _
-        ActivePresentation.TemplateName &; ".thmx"
+    path = "C:\Program Files (x86)\Microsoft Office\Document Themes 15\" & _
+        ActivePresentation.TemplateName & ".thmx"
     Set pptTheme = Application.OpenThemeFile(path)
     
     ' Get a reference to all of the variations in the theme.
@@ -43,7 +43,7 @@ Sub IterateThemeVariants()
     ' its name and ID.
     For Each pptThemeVariant In pptThemeVariants
     
-        Debug.Print "Variation " &; pptThemeVariant.name &; " id: " &; pptThemeVariant.Id
+        Debug.Print "Variation " & pptThemeVariant.name & " id: " & pptThemeVariant.Id
     
     Next pptThemeVariant
 

@@ -140,24 +140,24 @@ Public Sub BoundingBox_Example()
  
  vsoShape.BoundingBox intFlags + visBBoxUprightWH, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Upright WH "; _ 
- "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
- "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
- "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
- "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
+ "dblLeft:" & Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
+ "dblBottom:" & Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
+ "dblRight:" & Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
+ "dblTop:" & Application.FormatResult(dblTop, "in", "", "#0.00 u") 
  
  vsoShape.BoundingBox intFlags + visBBoxUprightText, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Upright text "; _ 
- "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
- "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
- "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
- "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
+ "dblLeft:" & Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
+ "dblBottom:" & Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
+ "dblRight:" & Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
+ "dblTop:" & Application.FormatResult(dblTop, "in", "", "#0.00 u") 
  
  vsoShape.BoundingBox intFlags + visBBoxExtents, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Bounding Box "; _ 
- "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
- "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
- "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
- "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
+ "dblLeft:" & Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
+ "dblBottom:" & Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
+ "dblRight:" & Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
+ "dblTop:" & Application.FormatResult(dblTop, "in", "", "#0.00 u") 
  
  End If 
  

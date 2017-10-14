@@ -63,15 +63,15 @@ Sub ListTemplatePaths()
 
  
 
- templateList = templateList &; vbCrLf &; typeOfTemplate &; ": " _ 
+ templateList = templateList & vbCrLf & typeOfTemplate & ": " _ 
 
- &; template.TemplatePath 
+ & template.TemplatePath 
 
  Next template 
 
  
 
- MsgBox "Visual Reports Templates:" &; templateList 
+ MsgBox "Visual Reports Templates:" & templateList 
 
  
 

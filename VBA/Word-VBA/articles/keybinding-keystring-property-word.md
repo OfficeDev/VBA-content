@@ -48,7 +48,7 @@ CustomizationContext = NormalTemplate
 aCode = BuildKeyCode(wdKeyAlt, wdKeyControl, wdKeyW) 
 For Each aKey In KeyBindings 
  If aCode = aKey.KeyCode Then 
- MsgBox aKey.KeyString &; " is already in use" 
+ MsgBox aKey.KeyString & " is already in use" 
  End If 
 Next aKey
 ```

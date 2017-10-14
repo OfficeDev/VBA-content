@@ -84,13 +84,13 @@ Sub DemoPropertyAccessorSetProperties()
  Set oMail = _ 
  Application.Session.GetDefaultFolder(olFolderInbox).Items(1) 
  'Names for properties using the MAPI string namespace 
- prop1 = "http://schemas.microsoft.com/mapi/string/" &; _ 
+ prop1 = "http://schemas.microsoft.com/mapi/string/" & _ 
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mylongprop" 
- prop2 = "http://schemas.microsoft.com/mapi/string/" &; _ 
+ prop2 = "http://schemas.microsoft.com/mapi/string/" & _ 
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mystringprop" 
- prop3 = "http://schemas.microsoft.com/mapi/string/" &; _ 
+ prop3 = "http://schemas.microsoft.com/mapi/string/" & _ 
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mydateprop" 
- prop4 = "http://schemas.microsoft.com/mapi/string/" &; _ 
+ prop4 = "http://schemas.microsoft.com/mapi/string/" & _ 
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/myboolprop" 
  PropNames = Array(prop1, prop2, prop3, prop4) 
  myValues = Array(1020, "111-222-Kudo", Now(), False) 

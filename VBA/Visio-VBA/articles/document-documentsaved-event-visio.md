@@ -68,13 +68,13 @@ Private Function IVisEventProc_VisEventProc( _
  'Find out which event fired 
  Select Case nEventCode 
  Case visEvtCodeDocSave 
- strMessage = "DocumentSaved (" &; nEventCode &; ")" 
+ strMessage = "DocumentSaved (" & nEventCode & ")" 
  Case (visEvtPage + visEvtAdd) 
- strMessage = "PageAdded (" &; nEventCode &; ")" 
+ strMessage = "PageAdded (" & nEventCode & ")" 
  Case visEvtCodeShapeDelete 
- strMessage = "ShapesDeleted(" &; nEventCode &; ")" 
+ strMessage = "ShapesDeleted(" & nEventCode & ")" 
  Case Else 
- strMessage = "Other (" &; nEventCode &; ")" 
+ strMessage = "Other (" & nEventCode & ")" 
  End Select 
  
  'Display the event name and the event code 

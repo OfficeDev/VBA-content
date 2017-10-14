@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-For example, if a stored query or view with a column made up of an expression was created, you would not be able to update that column. The following would return this error: CREATE VIEW VCustomer AS SELECT (FirstName &; LastName) AS Test FROM Customer followed by UPDATE Test FROM VCustomer
+For example, if a stored query or view with a column made up of an expression was created, you would not be able to update that column. The following would return this error: CREATE VIEW VCustomer AS SELECT (FirstName & LastName) AS Test FROM Customer followed by UPDATE Test FROM VCustomer
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

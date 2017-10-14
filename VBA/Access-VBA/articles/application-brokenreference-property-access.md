@@ -41,12 +41,12 @@ Dim strReport As String
  
 ' Test whether there are broken references. 
 If Application.BrokenReference = True Then 
- strReport = "The following references are broken:" &; vbCr 
+ strReport = "The following references are broken:" & vbCr 
  
  ' Test validity of each reference. 
  For Each refLoop In Application.References 
  If refLoop.IsBroken = True Then 
- strReport = strReport &; " " &; refLoop.Name &; vbCr 
+ strReport = strReport & " " & refLoop.Name & vbCr 
  End If 
  Next refLoop 
 Else 

@@ -55,7 +55,7 @@ If  _expr_ identifies multiple fields, the **Count** function counts a record on
 
 ```sql
 SELECT 
-Count('ShippedDate &; Freight') 
+Count('ShippedDate & Freight') 
 AS [Not Null] FROM Orders;
 ```
 
@@ -84,9 +84,9 @@ Sub CountX()
     ' Calculate the number of orders shipped  
     ' to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT" _ 
-        &; " Count (ShipCountry)" _ 
-        &; " AS [UK Orders] FROM Orders" _ 
-        &; " WHERE ShipCountry = 'UK';") 
+        & " Count (ShipCountry)" _ 
+        & " AS [UK Orders] FROM Orders" _ 
+        & " WHERE ShipCountry = 'UK';") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

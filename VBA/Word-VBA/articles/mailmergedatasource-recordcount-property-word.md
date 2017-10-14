@@ -49,8 +49,8 @@ Sub ExcludeRecords()
  If Len(.DataFields(6).Value) < 5 Then 
  .Included = False 
  .InvalidAddress = True 
- .InvalidComments = "The ZIP Code for this record" &; _ 
- "has fewer than five digits. This record will be" &; _ 
+ .InvalidComments = "The ZIP Code for this record" & _ 
+ "has fewer than five digits. This record will be" & _ 
  "removed from the mail merge process." 
  End If 
  If .ActiveRecord <> .RecordCount Then 

@@ -42,7 +42,7 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryCommand, _
 For Each kbLoop In _ 
  KeysBoundTo(KeyCategory:=wdKeyCategoryCommand, _ 
  Command:="Italic") 
- MsgBox kbLoop.KeyString &; vbCr &; kbLoop.Context.Name 
+ MsgBox kbLoop.KeyString & vbCr & kbLoop.Context.Name 
 Next kbLoop
 ```
 

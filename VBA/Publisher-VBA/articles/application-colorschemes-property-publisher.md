@@ -41,9 +41,9 @@ Set cscAll = Application.ColorSchemes
  
 For Each cscLoop In cscAll 
  With cscLoop 
- Debug.Print "Color scheme: " &; .Name _ 
- &; " / Followed hyperlink color: " _ 
- &; .Colors(ColorIndex:=pbSchemeColorFollowedHyperlink).RGB 
+ Debug.Print "Color scheme: " & .Name _ 
+ & " / Followed hyperlink color: " _ 
+ & .Colors(ColorIndex:=pbSchemeColorFollowedHyperlink).RGB 
  End With 
 Next cscLoop
 ```

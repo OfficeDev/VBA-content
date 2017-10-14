@@ -41,8 +41,8 @@ The style index number represents the position of the style in the alphabeticall
 
 ```vb
 MsgBox "Base style= " _ 
- &; ActiveDocument.Styles(1).BaseStyle &; vbCr _ 
- &; "Style name= " &; ActiveDocument.Styles(1).NameLocal
+ & ActiveDocument.Styles(1).BaseStyle & vbCr _ 
+ & "Style name= " & ActiveDocument.Styles(1).NameLocal
 ```
 
 To apply a style to a range, paragraph, or multiple paragraphs, set the  **Style** property to a user-defined or built-in style name. The following example applies the Normal style to the first four paragraphs in the active document.

@@ -55,7 +55,7 @@ Private Sub myOlSCuts_ShortcutAdd(ByVal NewShortcut As outlook.OutlookBarShortcu
  
  Set myNS = Application.GetNamespace("MAPI") 
  If NewShortcut.Target.Name = "Calendar" Then 
- NewShortcut.Name = myNS.CurrentUser &; "'s Schedules" 
+ NewShortcut.Name = myNS.CurrentUser & "'s Schedules" 
  End If 
 End Sub
 ```

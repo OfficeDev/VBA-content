@@ -37,9 +37,9 @@ Sub TestBackstageCheckout()
     ' project is not checked out.
     If ActiveProject.IsCheckoutOSVisible Then
         ActiveProject.CheckoutProject
-        Debug.Print "Attempted to check out: '" &; ActiveProject.Name &; "'"
+        Debug.Print "Attempted to check out: '" & ActiveProject.Name & "'"
     Else
-        Debug.Print "'" &; ActiveProject.Name &; "' is already checked out."
+        Debug.Print "'" & ActiveProject.Name & "' is already checked out."
     End If
 End Sub
 ```

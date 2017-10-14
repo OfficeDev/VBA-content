@@ -129,7 +129,7 @@ Set objPermission = ActiveDocument.Permission
 Set objUserPerm = objPermission.Add( _
 "<user>@<domain>.com", _
 msoPermissionRead + msoPermissionEdit, #12/31/2016#)
-MsgBox "Permissions added for " &; _
+MsgBox "Permissions added for " & _
 objUserPerm.UserId, _
 vbInformation + vbOKOnly, _
 "Permissions Added"
@@ -155,8 +155,8 @@ Dim irmPermission As Office.Permission
  .Enabled = True 
  .ApplyPolicy ("\\server\share\permissionpolicy.xml") 
  End With 
- strIRMInfo = "Permissions are now restricted on this document " &; _ 
- vbCrLf &; _ 
+ strIRMInfo = "Permissions are now restricted on this document " & _ 
+ vbCrLf & _ 
  " and the permission policy has been applied." 
  End Select 
  MsgBox strIRMInfo, vbInformation + vbOKOnly, "IRM Information" 
@@ -176,9 +176,9 @@ Dim irmPermission As Office.Permission
  Set irmPermission = ActiveDocument.Permission 
  If irmPermission.Enabled Then 
  For Each irmUserPerm In irmPermission 
- strIRMInfo = strIRMInfo &; irmUserPerm.UserId &; vbCrLf &; _ 
- " - Permissions: " &; irmUserPerm.Permission &; vbCrLf &; _ 
- " - Expiration Date: " &; irmUserPerm.ExpirationDate &; vbCrLf 
+ strIRMInfo = strIRMInfo & irmUserPerm.UserId & vbCrLf & _ 
+ " - Permissions: " & irmUserPerm.Permission & vbCrLf & _ 
+ " - Expiration Date: " & irmUserPerm.ExpirationDate & vbCrLf 
  Next 
  MsgBox strIRMInfo, _ 
  vbInformation + vbOKOnly, "IRM Information" 

@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-You can also set this value in the  **Center** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &; Footer**).
+You can also set this value in the  **Center** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
 
 Both the string returned by the property and the string you pass to the property can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the  **FooterCenter** property, see the **[FooterLeft](document-footerleft-property-visio.md)** property topic.
 

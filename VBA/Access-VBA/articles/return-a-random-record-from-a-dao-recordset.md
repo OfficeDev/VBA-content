@@ -38,7 +38,7 @@ NoRecords:
  If Err = 3021 Then 
    MsgBox "There Are No Records In The Dynaset", 16, "Error" 
  Else 
-   MsgBox "Error - " &; Err &; Chr$(13) &; Chr$(10) &; Error, _ 
+   MsgBox "Error - " & Err & Chr$(13) & Chr$(10) & Error, _ 
      16, "Error" 
  End If 
  FindRandom = "No Records" 

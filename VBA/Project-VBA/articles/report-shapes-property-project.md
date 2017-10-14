@@ -41,12 +41,12 @@ Sub ListShapesInReport()
         oReports(reportName).Apply
         
         Set oReport = oReports(reportName)
-        msgBoxTitle = "Shapes in report: '" &; oReport.Name &; "'"
+        msgBoxTitle = "Shapes in report: '" & oReport.Name & "'"
     
         For Each oShape In oReport.Shapes
             numShapes = numShapes + 1
-            msg = msg &; numShapes &; ". Shape type: " &; CStr(oShape.Type) _
-                &; ", '" &; oShape.Name &; "'" &; vbCrLf
+            msg = msg & numShapes & ". Shape type: " & CStr(oShape.Type) _
+                & ", '" & oShape.Name & "'" & vbCrLf
         Next oShape
         
         If numShapes > 0 Then
@@ -56,8 +56,8 @@ Sub ListShapesInReport()
                 Title:=msgBoxTitle
         End If
     Else
-         MsgBox Prompt:="The requested report, '" &; reportName _
-            &; "', does not exist.", Title:="Report error"
+         MsgBox Prompt:="The requested report, '" & reportName _
+            & "', does not exist.", Title:="Report error"
     End If
 End Sub
 ```

@@ -40,14 +40,14 @@ Dim rst As ADODB.Recordsetdc.Handler = "MSDFMAP.Handler"
 dc.ExecuteOptions = 1dc.FetchOptions = 1
 dc.Server = "http://MyServer"dc.Connect = "Data Source=AuthorDataBase"
 dc.SQL = "AuthorById('267-41-2394')"dc.Refresh 'Retrieve the record
-Set rst = dc.Recordset 'Use another Recordset as a convenienceDebug.Print "Author is '" &; rst!au_fname &; " " &; rst!au_lname &; "'"
+Set rst = dc.Recordset 'Use another Recordset as a convenienceDebug.Print "Author is '" & rst!au_fname & " " & rst!au_lname & "'"
 ' clean upIf rst.State = adStateOpen Then rst.Close
 Set rst = NothingSet dc = Nothing
 Exit SubErrorHandler:
 ' clean upIf Not rst Is Nothing Then
 If rst.State = adStateOpen Then rst.CloseEnd If
 Set rst = NothingSet dc = Nothing
-If Err <> 0 ThenMsgBox Err.Source &; "-->" &; Err.Description, , "Error"
+If Err <> 0 ThenMsgBox Err.Source & "-->" & Err.Description, , "Error"
 End IfEnd Sub
 'EndHandlerVB
 ```

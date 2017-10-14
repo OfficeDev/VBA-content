@@ -42,8 +42,8 @@ Use  **Fields** (Index), where Index is the index number, to return a single **[
 
 ```vb
 If ActiveDocument.Fields.Count >= 1 Then 
- MsgBox "Code = " &; ActiveDocument.Fields(1).Code &; vbCr _ 
- &; "Result = " &; ActiveDocument.Fields(1).Result &; vbCr 
+ MsgBox "Code = " & ActiveDocument.Fields(1).Code & vbCr _ 
+ & "Result = " & ActiveDocument.Fields(1).Result & vbCr 
 End If
 ```
 

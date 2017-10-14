@@ -62,7 +62,7 @@ Dim shpCrop As Shape
 Dim sngPoints As Single 
 Dim sngHeight As Single 
  
-sngPercent = InputBox("What percentage do you " &; _ 
+sngPercent = InputBox("What percentage do you " & _ 
  "want to crop off the bottom of this picture?") 
  
 Set shpCrop = Selection.ShapeRange(1) 

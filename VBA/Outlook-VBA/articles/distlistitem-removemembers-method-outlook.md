@@ -73,7 +73,7 @@ Sub RemoveRecs()
  
  objDstList.Display 
  
- objDstList.Body = "Last Modified: " &; Now 
+ objDstList.Body = "Last Modified: " & Now 
  
 End Sub
 ```

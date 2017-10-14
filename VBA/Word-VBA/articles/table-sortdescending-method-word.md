@@ -43,7 +43,7 @@ Set myTable = _
 For iRow = 1 To myTable.Rows.Count 
  For iCol = 1 To myTable.Columns.Count 
  Set MyRange = myTable.Rows(iRow).Cells(iCol).Range 
- MyRange.InsertAfter "Cell" &; Str$(iRow) &; "," &; Str$(iCol) 
+ MyRange.InsertAfter "Cell" & Str$(iRow) & "," & Str$(iCol) 
  Next iCol 
 Next iRow 
 MsgBox "Click OK to sort in descending order." 

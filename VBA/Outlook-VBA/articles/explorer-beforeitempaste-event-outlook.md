@@ -64,7 +64,7 @@ Private Sub myOlExp_BeforeItemPaste(ClipboardContent As Variant, ByVal Target As
  
  lngAns = MsgBox("Are you sure you want to paste the contents of the clipboard into the " _ 
  
- &; Target.Name &; "?", vbYesNo) 
+ & Target.Name & "?", vbYesNo) 
  
  If lngAns = vbNo Then 
  

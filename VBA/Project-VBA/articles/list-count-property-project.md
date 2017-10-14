@@ -51,7 +51,7 @@ Sub AssignResource()
  End If 
  Next T 
  Else 
- MsgBox Prompt:=RName &; " is not a resource in this project.", buttons:=vbExclamation 
+ MsgBox Prompt:=RName & " is not a resource in this project.", buttons:=vbExclamation 
  End If 
  
 End Sub

@@ -31,9 +31,9 @@ This Microsoft Visual Basic for Applications (VBA) example displays the number o
 ```vb
 Private Sub CountCOMAddins() 
  
- MsgBox "There are " &; _ 
+ MsgBox "There are " & _ 
  
- Application.COMAddIns.Count &; " COM add-ins." 
+ Application.COMAddIns.Count & " COM add-ins." 
  
 End Sub
 ```

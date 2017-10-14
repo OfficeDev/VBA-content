@@ -39,7 +39,7 @@ This example saves the loaded presentation to the application folder in a file n
 
 
 ```
-MyPath = Application.Path &; "\TestFile"
+MyPath = Application.Path & "\TestFile"
 
 Application.ActivePresentation.SaveAs MyPath
 ```

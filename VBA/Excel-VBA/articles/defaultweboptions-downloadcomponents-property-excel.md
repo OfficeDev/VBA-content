@@ -38,7 +38,7 @@ This example allows the Office Web components to be downloaded with the specifie
 ```vb
 Application.DefaultWebOptions.DownloadComponents = True 
 Application.DefaultWebOptions.LocationOfComponents = _ 
- Application.Path &; Application.PathSeparator &; "foo"
+ Application.Path & Application.PathSeparator & "foo"
 ```
 
 

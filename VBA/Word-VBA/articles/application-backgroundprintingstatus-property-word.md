@@ -44,7 +44,7 @@ If the number of print jobs is greater than 0 (zero), this example displays a me
 ```vb
 If Application.BackgroundPrintingStatus > 0 Then 
  StatusBar = Application.BackgroundPrintingStatus _ 
- &; " print jobs are queued up" 
+ & " print jobs are queued up" 
 End If
 ```
 

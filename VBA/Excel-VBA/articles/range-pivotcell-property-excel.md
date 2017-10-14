@@ -32,7 +32,7 @@ This example determines the name of the PivotTable the  **PivotCell** object is 
 Sub CheckPivotCell() 
  
  'Determine the name of the PivotTable the PivotCell is located in. 
- MsgBox "Cell A3 is located in PivotTable: " &; _ 
+ MsgBox "Cell A3 is located in PivotTable: " & _ 
  Application.Range("A3").PivotCell.Parent 
  
 End Sub

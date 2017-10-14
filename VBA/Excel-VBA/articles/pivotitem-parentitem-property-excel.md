@@ -35,7 +35,7 @@ This example displays the name of the parent item for the item that contains the
 
 ```vb
 Worksheets("Sheet1").Activate 
-MsgBox "This item is a subitem of " &; _ 
+MsgBox "This item is a subitem of " & _ 
  ActiveCell.PivotItem.ParentItem.Name
 ```
 

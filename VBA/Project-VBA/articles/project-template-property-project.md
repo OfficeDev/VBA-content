@@ -35,7 +35,7 @@ The following example creates a new project based on the template of the active 
 
 ```vb
 Sub CreateNewProject() 
-    FileOpen ActiveProject.Template &; ".mpt" 
+    FileOpen ActiveProject.Template & ".mpt" 
 End Sub
 ```
 

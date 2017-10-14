@@ -67,7 +67,7 @@ Private Sub FormatHandoffMessages()
  
  With objRule 
  
- .Filter = """http://schemas.microsoft.com/mapi/proptag/0x0037001f""" &; _ 
+ .Filter = """http://schemas.microsoft.com/mapi/proptag/0x0037001f""" & _ 
  
  " CI_STARTSWITH 'HANDOFF'" 
  

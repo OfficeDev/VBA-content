@@ -19,7 +19,7 @@ ms.date: 06/08/2017
 
 ```
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t &; Data ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t & Data ); 
  
 _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthgetchunk_HV10294391.xml( long Length ); 
 
@@ -72,7 +72,7 @@ _variant_t GetUnderlyingValue( );
 __declspec(property(get=GetUnderlyingValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprounderlyingvalue_HV10294879.xml; 
  
 _variant_t GetValue( ); 
-void PutValue( const _variant_t &; pvar ); 
+void PutValue( const _variant_t & pvar ); 
 __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml; 
 
 ```

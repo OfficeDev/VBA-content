@@ -50,7 +50,7 @@ This example crops the percentage specified by the user off the bottom of the se
 
 
 ```
-percentToCrop = InputBox("What percentage do you " &; _
+percentToCrop = InputBox("What percentage do you " & _
     "want to crop off the bottom of this picture?")
 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1)

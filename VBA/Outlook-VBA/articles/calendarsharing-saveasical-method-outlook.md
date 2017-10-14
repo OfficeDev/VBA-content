@@ -143,7 +143,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  Case -2147467259 ' &;H80004005 
  
@@ -159,7 +159,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  Case -2147221233 ' &;H8004010F 
  
@@ -173,7 +173,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  Case Else 
  
@@ -183,7 +183,7 @@ ErrRoutine:
  
  vbOKOnly, _ 
  
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  
  End Select 
  

@@ -475,16 +475,16 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](shape-object
 | **visXFormPinY**|1|PinY Cell (Shape Transform Section)|
 | **visXFormResizeMode**|9|ResizeMode Cell (Shape Transform Section)|
 | **visXFormWidth**|2|Width Cell (Shape Transform Section)|
-| **visXGridDensity**|6|XGridDensity Cell (Ruler &; Grid Section)|
-| **visXGridOrigin**|10|XGridOrigin Cell (Ruler &; Grid Section)|
-| **visXGridSpacing**|8|XGridSpacing Cell (Ruler &; Grid Section)|
-| **visXRulerDensity**|0|XRulerDensity Cell (Ruler &; Grid Section)|
-| **visXRulerOrigin**|4|XRulerOrigin Cell (Ruler &; Grid Section)|
+| **visXGridDensity**|6|XGridDensity Cell (Ruler & Grid Section)|
+| **visXGridOrigin**|10|XGridOrigin Cell (Ruler & Grid Section)|
+| **visXGridSpacing**|8|XGridSpacing Cell (Ruler & Grid Section)|
+| **visXRulerDensity**|0|XRulerDensity Cell (Ruler & Grid Section)|
+| **visXRulerOrigin**|4|XRulerOrigin Cell (Ruler & Grid Section)|
 | **visX**|0|X Cell (Geometry Section)|
-| **visYGridDensity**|7|YGridDensity Cell (Ruler &; Grid Section)|
-| **visYGridOrigin**|11|YGridOrigin Cell (Ruler &; Grid Section)|
-| **visYGridSpacing**|9|YGridSpacing Cell (Ruler &; Grid Section)|
-| **visYRulerDensity**|1|YRulerDensity Cell (Ruler &; Grid Section)|
-| **visYRulerOrigin**|5|YRulerOrigin Cell (Ruler &; Grid Section)|
+| **visYGridDensity**|7|YGridDensity Cell (Ruler & Grid Section)|
+| **visYGridOrigin**|11|YGridOrigin Cell (Ruler & Grid Section)|
+| **visYGridSpacing**|9|YGridSpacing Cell (Ruler & Grid Section)|
+| **visYRulerDensity**|1|YRulerDensity Cell (Ruler & Grid Section)|
+| **visYRulerOrigin**|5|YRulerOrigin Cell (Ruler & Grid Section)|
 | **visY**|1|Y Cell (Geometry Section)|
 

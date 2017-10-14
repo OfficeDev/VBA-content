@@ -36,7 +36,7 @@ If you create a control by dragging a field from the field list and haven't spec
 
 You can use the  **Caption** property to assign an access key to a label or command button. In the caption, include an ampersand (&;) immediately preceding the character you want to use as an access key. The character will be underlined. You can press ALT plus the underlined character to move the focus to that control on a form.
 
-Include two ampersands (&;&;) in the setting for a caption if you want to display an ampersand itself in the caption text. For example, to display "Save &; Exit", you should type  **Save &;&; Exit** in the **Caption** property box.
+Include two ampersands (&;&;) in the setting for a caption if you want to display an ampersand itself in the caption text. For example, to display "Save & Exit", you should type  **Save &;&; Exit** in the **Caption** property box.
 
 
 ## See also

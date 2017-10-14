@@ -46,23 +46,23 @@ Function ElapsedTime(endTime As Date, startTime As Date)
     Interval = endTime - startTime 
   
     ' Format and print the time interval in seconds. 
-    strOutput = Int(CSng(Interval * 24 * 3600)) &; " Seconds" 
+    strOutput = Int(CSng(Interval * 24 * 3600)) & " Seconds" 
     Debug.Print strOutput 
          
     ' Format and print the time interval in minutes and seconds. 
-    strOutput = Int(CSng(Interval * 24 * 60)) &; ":" &; Format(Interval, "ss") _ 
-        &; " Minutes:Seconds" 
+    strOutput = Int(CSng(Interval * 24 * 60)) & ":" & Format(Interval, "ss") _ 
+        & " Minutes:Seconds" 
     Debug.Print strOutput 
      
     ' Format and print the time interval in hours, minutes and seconds. 
-    strOutput = Int(CSng(Interval * 24)) &; ":" &; Format(Interval, "nn:ss") _ 
-           &; " Hours:Minutes:Seconds" 
+    strOutput = Int(CSng(Interval * 24)) & ":" & Format(Interval, "nn:ss") _ 
+           & " Hours:Minutes:Seconds" 
     Debug.Print strOutput 
          
     ' Format and print the time interval in days, hours, minutes and seconds. 
-    strOutput = Int(CSng(Interval)) &; " days " &; Format(Interval, "hh") _ 
-        &; " Hours " &; Format(Interval, "nn") &; " Minutes " &; _ 
-        Format(Interval, "ss") &; " Seconds" 
+    strOutput = Int(CSng(Interval)) & " days " & Format(Interval, "hh") _ 
+        & " Hours " & Format(Interval, "nn") & " Minutes " & _ 
+        Format(Interval, "ss") & " Seconds" 
     Debug.Print strOutput 
  
 End Function

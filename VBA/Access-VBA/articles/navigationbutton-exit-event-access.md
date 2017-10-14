@@ -101,9 +101,9 @@ End Sub
 Private Sub LastName_Exit(Cancel As Integer) 
  Dim strMsg As String 
  
- strMsg = "You entered '" &; Me!LastName _ 
- &; "' as your last name." &; _ 
- vbCrLf &; "Is this correct?" 
+ strMsg = "You entered '" & Me!LastName _ 
+ & "' as your last name." & _ 
+ vbCrLf & "Is this correct?" 
  If MsgBox(strMsg, vbYesNo) = vbNo Then 
  Cancel = True ' Cancel exit. 
  Else 

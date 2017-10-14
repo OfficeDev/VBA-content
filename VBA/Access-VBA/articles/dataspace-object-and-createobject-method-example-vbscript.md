@@ -54,8 +54,8 @@ The <i>Query</i> Method of the RDSServer.DataFactory is used to bring back a Rec
 <Script Language="VBScript"> 
 Dim rdsDFDim strServer
 Dim strCnxnDim strSQL 
-strServer = "http://<%=Request.ServerVariables("SERVER_NAME")%>"strCnxn = "Provider='sqloledb';Data Source=" &; _
-"<%=Request.ServerVariables("SERVER_NAME")%>" &; ";" &; _"Integrated Security='SSPI';Initial Catalog='Northwind';"
+strServer = "http://<%=Request.ServerVariables("SERVER_NAME")%>"strCnxn = "Provider='sqloledb';Data Source=" & _
+"<%=Request.ServerVariables("SERVER_NAME")%>" & ";" & _"Integrated Security='SSPI';Initial Catalog='Northwind';"
 strSQL = "Select FirstName, LastName from Employees" 
 Sub Run_OnClick() 
 Dim rs' Create Data Factory

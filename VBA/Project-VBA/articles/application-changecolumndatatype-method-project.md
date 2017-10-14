@@ -83,7 +83,7 @@ Sub CreateTestTable()
 
     For Each t In ActiveProject.Tasks 
         If n = 42 Then 
-            t.Text1 = CStr(n) &; " X" 
+            t.Text1 = CStr(n) & " X" 
         Else 
             t.Text1 = CStr(n) 
         End If 

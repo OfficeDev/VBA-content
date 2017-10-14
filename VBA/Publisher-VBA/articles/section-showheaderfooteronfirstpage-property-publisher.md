@@ -37,8 +37,8 @@ The following example adds a new section starting on the second page of the acti
 Dim objSection As Section 
 Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2) 
 With ActiveDocument.Pages(2).Master 
- .Header.TextRange.Text = "Page " &; .PageNumber &; " header." 
- .Footer.TextRange.Text = "Page " &; .PageNumber &; " footer." 
+ .Header.TextRange.Text = "Page " & .PageNumber & " header." 
+ .Footer.TextRange.Text = "Page " & .PageNumber & " footer." 
 End With 
 objSection.ShowHeaderFooterOnFirstPage = True
 ```

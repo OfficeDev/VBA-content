@@ -81,8 +81,8 @@ The following code example assigns an SQL string that returns the top 10 most ex
 ```sql
 Dim strGetSQL As String 
 strGetSQL = "SELECT TOP 10 Products.[ProductName] " _ 
-    &; "AS TenMostExpensiveProducts, Products.UnitPrice FROM Products " _ 
-    &; "ORDER BY Products.[UnitPrice] DESC;" 
+    & "AS TenMostExpensiveProducts, Products.UnitPrice FROM Products " _ 
+    & "ORDER BY Products.[UnitPrice] DESC;" 
 Me.RecordSource = strGetSQL  
 
 ```

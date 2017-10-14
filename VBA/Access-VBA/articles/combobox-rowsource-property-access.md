@@ -68,7 +68,7 @@ The following example shows how to set the  **RowSource** property of a combo bo
 
 ```vb
 Private Sub Form_Load()
-    Me.Caption = "Today is " &; Format$(Date, "dddd mmm-d-yyyy")
+    Me.Caption = "Today is " & Format$(Date, "dddd mmm-d-yyyy")
     Me.RecordSource = "tblDepartments"
     DoCmd.Maximize  
     txtDept.ControlSource = "Department"

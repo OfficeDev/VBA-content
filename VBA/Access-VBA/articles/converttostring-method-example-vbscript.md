@@ -32,7 +32,7 @@ Set objDF = RDS1.CreateObject("RDSServer.DataFactory", strServer)Set objRs = obj
 RDC1.SQL = vString 
 RDC1.ExecuteOptions = adcExecSyncRDC1.FetchOptions = adcFetchUpFront
 RDC1.Refresh 
-MsgBox "RecordCount = " &; RDC1.Recordset.RecordCountEnd Sub
+MsgBox "RecordCount = " & RDC1.Recordset.RecordCountEnd Sub
 </SCRIPT> 
 Connect String:<INPUT TYPE=Text NAME=txtConnect SIZE=50
 VALUE="Provider=sqloledb;Initial Catalog=pubs;Integrated Security='SSPI';"><BR> 

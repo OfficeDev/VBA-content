@@ -64,7 +64,7 @@ The following example opens the  **frmMainEmployees** form in Form view and disp
 
 ```vb
 Private Sub cmdFilter_Click()
-    DoCmd.OpenForm "frmMainEmployees", , , "DepartmentID=" &; cboDept.Value
+    DoCmd.OpenForm "frmMainEmployees", , , "DepartmentID=" & cboDept.Value
 End Sub
 ```
 
@@ -79,7 +79,7 @@ The following example shows how to use the  _WhereCondition_ argument of the **O
 Private Sub cmdShowOrders_Click()
 If Not Me.NewRecord Then
     DoCmd.OpenForm "frmOrder", _
-        WhereCondition:="CustomerID=" &; Me.txtCustomerID
+        WhereCondition:="CustomerID=" & Me.txtCustomerID
 End If
 End Sub
 ```

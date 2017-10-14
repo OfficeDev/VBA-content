@@ -77,7 +77,7 @@ Private Sub Colors_NotInList(NewData As String, _
         ' is being added. 
         Response = acDataErrAdded 
         ' Add string in NewData argument to row source. 
-        ctl.RowSource = ctl.RowSource &; ";" &; NewData 
+        ctl.RowSource = ctl.RowSource & ";" & NewData 
     Else 
     ' If user chooses Cancel, suppress error message 
     ' and undo changes. 
@@ -108,7 +108,7 @@ Private Sub cboDept_NotInList(NewData As String, Response As Integer)
         oRS.AddNew
         oRS.Fields(1) = NewData
         For i = 2 To oRS.Fields.Count - 1
-            sMsg = "What do you want for " &; oRS(i).Name
+            sMsg = "What do you want for " & oRS(i).Name
             oRS(i).Value = InputBox(sMsg, , oRS(i).DefaultValue)
         Next i
         oRS.Update
@@ -132,14 +132,14 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
 
     On Error GoTo Error_Handler
     Dim intAnswer As Integer
-    intAnswer = MsgBox("""" &; NewData &; """ is not an approved category. " &; vbcrlf _
-        &; "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
+    intAnswer = MsgBox("""" & NewData & """ is not an approved category. " & vbcrlf _
+        & "Do you want to add it now?" _ vbYesNo + vbQuestion, "Invalid Category")
 
     Select Case intAnswer
         Case vbYes
             DoCmd.SetWarnings False
             DoCmd.RunSQL "INSERT INTO tlkpCategoryNotInList (Category) "
-                &; _ "Select """ &; NewData &; """;"
+                & _ "Select """ & NewData & """;"
             DoCmd.SetWarnings True
             Response = acDataErrAdded
         Case vbNo
@@ -154,7 +154,7 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
         Exit Sub
 
     Error_Handler:
-        MsgBox Err.Number &; ", " &; Error Description
+        MsgBox Err.Number & ", " & Error Description
         Resume Exit_Procedure
         Resume
 

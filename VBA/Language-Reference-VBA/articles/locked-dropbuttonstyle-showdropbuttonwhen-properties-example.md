@@ -52,7 +52,7 @@ Private Sub UserForm_Initialize()
  TextBox1.Locked = True 
  
  Label1.Caption = "TheDropButton also " _ 
- &; "applies to a TextBox." 
+ & "applies to a TextBox." 
  Label1.AutoSize = True 
  Label1.WordWrap = False 
 End Sub

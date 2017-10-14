@@ -103,7 +103,7 @@ Sub Cbm_Active_Formula()
          intLen = Len(strRng)
          
          'Call MyFunction as a formula, with the range as the parameter.
-         .Formula = "=MyFunction(" &; strRng &; ")"
+         .Formula = "=MyFunction(" & strRng & ")"
             Application.SendKeys "{ENTER}"
       End If
    End With
@@ -147,12 +147,12 @@ Sub Cbm_Formula_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
-      MsgBox "Length, width and height are needed -" &; _
-         vbLf &; "please select three cells!"
+      MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
       Exit Sub
    End If
    'Call MyFunction in the active cell, E6.
-   ActiveCell.Formula = "=MyFunction(" &; rng.Address &; ")"
+   ActiveCell.Formula = "=MyFunction(" & rng.Address & ")"
 End Sub
 ```
 
@@ -168,8 +168,8 @@ Sub Cbm_Value_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
-     MsgBox "Length, width and height are needed -" &; _
-         vbLf &; "please select three cells!"
+     MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
       Exit Sub
    End If
    

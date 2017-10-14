@@ -38,8 +38,8 @@ This example displays both the numeric value of the first paragraph in the selec
 ```
 v = Selection.Range.ListFormat.ListValue 
 lstring = Selection.Range.ListFormat.ListString 
-MsgBox "List value " &; v _ 
- &; " is represented by the string " &; lstring
+MsgBox "List value " & v _ 
+ & " is represented by the string " & lstring
 ```
 
 

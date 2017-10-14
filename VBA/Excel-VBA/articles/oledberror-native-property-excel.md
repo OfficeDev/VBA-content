@@ -30,9 +30,9 @@ This example displays the native error number and other error information return
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
-MsgBox "The following error occurred:" &; _ 
- objEr.Number &; ", " &; objEr.Native &; ", " &; _ 
- objEr.ErrorString &; " : " &; objEr.SqlState
+MsgBox "The following error occurred:" & _ 
+ objEr.Number & ", " & objEr.Native & ", " & _ 
+ objEr.ErrorString & " : " & objEr.SqlState
 ```
 
 

@@ -51,12 +51,12 @@ For Each pgLoop In ActiveDocument.Pages
  With shpLoop.PictureFormat 
  
  If .IsEmpty = msoFalse Then 
- Debug.Print "File Name: " &; .Filename 
- Debug.Print "Resolution in Publication: " &; .EffectiveResolution &; " dpi" 
- Debug.Print "Horizontal Scaling: " &; .HorizontalScale &; "%" 
- Debug.Print "Height in publication: " &; .Height &; " points" 
- Debug.Print "Vertical Scaling: " &; .VerticalScale &; "%" 
- Debug.Print "Width in publication: " &; .Width &; " points" 
+ Debug.Print "File Name: " & .Filename 
+ Debug.Print "Resolution in Publication: " & .EffectiveResolution & " dpi" 
+ Debug.Print "Horizontal Scaling: " & .HorizontalScale & "%" 
+ Debug.Print "Height in publication: " & .Height & " points" 
+ Debug.Print "Vertical Scaling: " & .VerticalScale & "%" 
+ Debug.Print "Width in publication: " & .Width & " points" 
  End If 
  
  End With 

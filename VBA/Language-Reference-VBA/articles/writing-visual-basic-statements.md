@@ -34,7 +34,7 @@ Sub DemoBox() 'This procedure declares a string variable,
  ' a concatenated message. 
  Dim myVar As String 
  myVar = "John" 
- MsgBox Prompt:="Hello " &; myVar, _ 
+ MsgBox Prompt:="Hello " & myVar, _ 
  Title:="Greeting Box", _ 
  Buttons:=vbExclamation 
 End Sub

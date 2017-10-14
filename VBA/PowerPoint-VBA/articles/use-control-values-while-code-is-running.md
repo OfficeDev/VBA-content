@@ -56,8 +56,8 @@ Sub LaunchSalesPersonForm()
         MsgBox "Operation Canceled!", vbExclamation
     Else
         MsgBox "The Salesperson's ID is: " &;
-            intSalesPersonID &; _
-            "The Region is: " &; strRegion
+            intSalesPersonID & _
+            "The Region is: " & strRegion
     End If
 End Sub
 ```

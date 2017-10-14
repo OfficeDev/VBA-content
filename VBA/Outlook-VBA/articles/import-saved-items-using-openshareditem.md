@@ -69,26 +69,26 @@ ErrRoutine:
  ' allow access. 
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -2147024894 ' &;H80070002 
  ' Occurs if the specified file or URL could not 
  ' be found, or the file or URL cannot be 
  ' processed by the OpenSharedItem method. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case -2147352567 ' &;H80020009 
  ' Occurs if the specified file or URL is not valid, 
  ' or you attempt to use the Move method on 
  ' an Outlook item that represents a shared item. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  Case Else 
  ' Any other error that may occur. 
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
- Err.Number &; " - " &; Err.Source 
+ Err.Number & " - " & Err.Source 
  End Select 
  
  GoTo EndRoutine 

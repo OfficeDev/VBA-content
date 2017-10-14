@@ -66,9 +66,9 @@ Private Sub Worksheet_Change(ByVal Target As Excel.Range)
     If Target.Column = 1 Then 
         ThisRow = Target.Row 
         If Target.Value > 100 Then 
-            Range("B" &; ThisRow).Interior.ColorIndex = 3 
+            Range("B" & ThisRow).Interior.ColorIndex = 3 
         Else 
-            Range("B" &; ThisRow).Interior.ColorIndex = xlColorIndexNone 
+            Range("B" & ThisRow).Interior.ColorIndex = xlColorIndexNone 
         End If 
     End If 
 End Sub

@@ -78,7 +78,7 @@ Dim Msg
 IntervalType = "m"    ' "m" specifies months as interval.
 FirstDate = InputBox("Enter a date")
 Number = InputBox("Enter number of months to add")
-Msg = "New date: " &; DateAdd(IntervalType, Number, FirstDate)
+Msg = "New date: " & DateAdd(IntervalType, Number, FirstDate)
 MsgBox Msg
 
 

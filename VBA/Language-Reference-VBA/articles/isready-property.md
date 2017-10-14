@@ -39,11 +39,11 @@ Sub ShowDriveInfo(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
-    s = "Drive " &; d.DriveLetter &; ": - " &; t
+    s = "Drive " & d.DriveLetter & ": - " & t
     If d.IsReady Then 
-        s = s &; vbCrLf &; "Drive is Ready."
+        s = s & vbCrLf & "Drive is Ready."
     Else
-        s = s &; vbCrLf &; "Drive is not Ready."
+        s = s & vbCrLf & "Drive is not Ready."
     End If
     MsgBox s
 End Sub

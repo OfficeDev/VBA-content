@@ -81,7 +81,7 @@ When filtering text fields, you can use either a pair of single quotes (') or a 
 ```
 sFilter = "[CompanyName] = 'Microsoft'"  
 sFilter = "[CompanyName] = ""Microsoft"""  
-sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
+sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
 ```
 
 In specifying a filter in a Jet or DASL query, if you use a pair of single quotes to delimit a string that is part of the filter, and the string contains another single quote or apostrophe, then add a single quote as an escape character before the single quote or apostrophe. Use a similar approach if you use a pair of double quotes to delimit a string. If the string contains a double quote, then add a double quote as an escape character before the double quote. 
@@ -101,7 +101,7 @@ Alternatively, you can use the  `chr(34)` function to represent the double quote
 
 
 ```
-filter = "@SQL= " &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _&; Chr(34) &; " = " &; "'can''t'"
+filter = "@SQL= " & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _&; Chr(34) & " = " & "'can''t'"
 ```
 
 Escaping single and double quote characters is also required for DASL queries with the  **ci_startswith** or **ci_phrasematch** operators. For example, the following query performs a phrase match query for `can't` in the message subject:
@@ -110,7 +110,7 @@ Escaping single and double quote characters is also required for DASL queries wi
 
 
 ```
-filter = "@SQL=" &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _&; Chr(34) &; " ci_phrasematch " &; "'can''t'"
+filter = "@SQL=" & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _&; Chr(34) & " ci_phrasematch " & "'can''t'"
 ```
 
 Another example is a DASL filter string that filters for the  **Subject** property being equal to the words `the right stuff`, where the word  `stuff` is enclosed by double quotes. In this case, you must escape the enclosing double quotes as follows:
@@ -132,7 +132,7 @@ Although dates and times are typically stored with a  **Date** format, the **Fin
 
 
 ```
-sFilter = "[LastModificationTime] > '" &; Format("1/15/99 3:30pm", "ddddd h:nn AMPM") &; "'"
+sFilter = "[LastModificationTime] > '" & Format("1/15/99 3:30pm", "ddddd h:nn AMPM") & "'"
 ```
 
  **Boolean Operators**
@@ -185,7 +185,7 @@ sFullName = "Dan Wilson"
 
 
 ```
-sFilter = "[FullName] = " &; Chr(34) &; sFullName &; Chr(34)
+sFilter = "[FullName] = " & Chr(34) & sFullName & Chr(34)
 ```
 
  This approach uses double quotation marks to delimit the value:
@@ -194,7 +194,7 @@ sFilter = "[FullName] = " &; Chr(34) &; sFullName &; Chr(34)
 
 
 ```
-sFilter = "[FullName] = """ &; sFullName &; """"
+sFilter = "[FullName] = """ & sFullName & """"
 ```
 
  **Using Logical Operators as Part of the Filter**

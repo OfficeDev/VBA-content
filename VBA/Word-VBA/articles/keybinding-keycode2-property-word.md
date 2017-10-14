@@ -34,12 +34,12 @@ Dim aKey As KeyBinding
 CustomizationContext = ActiveDocument 
 For Each aKey In KeyBindings 
  If aKey.KeyCode2 <> wdNoKey Then 
- MsgBox aKey.KeyString &; vbCr _ 
- &; "KeyCode1 = " &; aKey.KeyCode &; vbCr _ 
- &; "KeyCode2 = " &; aKey.KeyCode2 
+ MsgBox aKey.KeyString & vbCr _ 
+ & "KeyCode1 = " & aKey.KeyCode & vbCr _ 
+ & "KeyCode2 = " & aKey.KeyCode2 
  Else 
- MsgBox aKey.KeyString &; vbCr _ 
- &; "KeyCode1 = " &; aKey.KeyCode 
+ MsgBox aKey.KeyString & vbCr _ 
+ & "KeyCode1 = " & aKey.KeyCode 
  End If 
 Next aKey
 ```

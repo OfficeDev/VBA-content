@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-You can also set this value in the  **Left** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &; Footer**).
+You can also set this value in the  **Left** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
 
 Both the string returned by  **FooterLeft** and the string to which you set **FooterLeft** can contain escape codes that represent data. These escape codes can be concatenated with other text.
 
@@ -62,7 +62,7 @@ Sub FooterLeft_Example()
     Dim strFooter as String 
  
     'Build the footer string.  
-    strFooter = "The date is " &; "&;D"  
+    strFooter = "The date is " & "&;D"  
  
     'Set the footer of the current document.  
     ThisDocument.FooterLeft = strFooter  

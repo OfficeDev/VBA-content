@@ -84,7 +84,7 @@ Sub GetSelectedItems()
  
  Set oMail = myOlSel.Item(x) 
  
- MsgTxt = MsgTxt &; oMail.SenderName &; ";" 
+ MsgTxt = MsgTxt & oMail.SenderName & ";" 
  
  ElseIf myOlSel.Item(x).Class = OlObjectClass.olAppointment Then 
  
@@ -92,7 +92,7 @@ Sub GetSelectedItems()
  
  Set oAppt = myOlSel.Item(x) 
  
- MsgTxt = MsgTxt &; oAppt.Organizer &; ";" 
+ MsgTxt = MsgTxt & oAppt.Organizer & ";" 
  
  Else 
  
@@ -106,7 +106,7 @@ Sub GetSelectedItems()
  
  Set mySender = Application.Session.GetAddressEntryFromID(strSenderID) 
  
- MsgTxt = MsgTxt &; mySender.Name &; ";" 
+ MsgTxt = MsgTxt & mySender.Name & ";" 
  
  End If 
  

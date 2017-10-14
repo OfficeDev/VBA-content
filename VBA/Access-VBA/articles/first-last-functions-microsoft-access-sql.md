@@ -68,8 +68,8 @@ Sub FirstLastX1()
     ' Return the values from the LastName field of the  
     ' first and last records returned from the table. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "First(LastName) as First, " _ 
-        &; "Last(LastName) as Last FROM Employees;") 
+        & "First(LastName) as First, " _ 
+        & "Last(LastName) as Last FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -102,8 +102,8 @@ Sub FirstLastX2()
     ' Find the earliest and latest birth dates of 
     ' Employees. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "First(BirthDate) as FirstBD, " _ 
-        &; "Last(BirthDate) as LastBD FROM Employees;") 
+        & "First(BirthDate) as FirstBD, " _ 
+        & "Last(BirthDate) as LastBD FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -118,8 +118,8 @@ Sub FirstLastX2()
     ' Find the earliest and latest birth dates of 
     ' Employees. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "Min(BirthDate) as MinBD," _ 
-        &; "Max(BirthDate) as MaxBD FROM Employees;") 
+        & "Min(BirthDate) as MinBD," _ 
+        & "Max(BirthDate) as MaxBD FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

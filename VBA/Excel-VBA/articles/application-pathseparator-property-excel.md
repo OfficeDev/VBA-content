@@ -29,7 +29,7 @@ This example displays the current path separator.
 
 
 ```vb
-MsgBox "The path separator character is " &; _ 
+MsgBox "The path separator character is " & _ 
  Application.PathSeparator
 ```
 

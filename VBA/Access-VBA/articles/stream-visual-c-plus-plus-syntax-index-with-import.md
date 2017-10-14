@@ -29,7 +29,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthloadfromfile_HV10294485.xml( _bstr_t FileName ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenstream_HV10294567.xml( const _variant_t &; Source , enum 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenstream_HV10294567.xml( const _variant_t & Source , enum 
  ConnectModeEnum Mode , enum StreamOpenOptionsEnum Options , _bstr_t 
  UserName , _bstr_t Password ); 
  
@@ -43,7 +43,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthskipline_HV10294780.xml( ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwrite_HV10294958.xml( const _variant_t &; Buffer ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwrite_HV10294958.xml( const _variant_t & Buffer ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwritetext_HV10294959.xml( _bstr_t Data , enum StreamWriteEnumOptions ); 
 

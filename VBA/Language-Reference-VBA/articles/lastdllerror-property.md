@@ -35,7 +35,7 @@ Private Sub UserForm_Click()
     ' Check for SQL error code.    
     If RetVal = -2 Then
         'Display the information code.
-        MsgBox "Error code is :" &; Err. LastDllError 
+        MsgBox "Error code is :" & Err. LastDllError 
     End If
 End Sub
 ```

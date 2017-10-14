@@ -81,7 +81,7 @@ This example takes a date and, using the  **DatePart** function, displays the qu
 Dim TheDate As Date    ' Declare variables.
 Dim Msg    
 TheDate = InputBox("Enter a date:")
-Msg = "Quarter: " &; DatePart("q", TheDate)
+Msg = "Quarter: " & DatePart("q", TheDate)
 MsgBox Msg
 
 

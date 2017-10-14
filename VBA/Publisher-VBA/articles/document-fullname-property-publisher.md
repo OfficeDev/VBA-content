@@ -49,11 +49,11 @@ Sub PathNames()
  strName = Application.ActiveDocument.Name 
  strFullName = Application.ActiveDocument.FullName 
  
- ' Note the file name &; path differences 
+ ' Note the file name & path differences 
  ' while executing. 
- MsgBox "The path is: " &; strPath 
- MsgBox "The file name is: " &; strName 
- MsgBox "The path &; file name are: " &; strFullName 
+ MsgBox "The path is: " & strPath 
+ MsgBox "The file name is: " & strName 
+ MsgBox "The path & file name are: " & strFullName 
  
 End Sub
 ```

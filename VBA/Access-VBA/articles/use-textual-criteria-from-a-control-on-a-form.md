@@ -23,7 +23,7 @@ The following example performs a lookup on an Employees table and returns the re
 
 ```
 =DLookup("[Region]", "Employees", "[LastName] = '" _
-    &; Forms!Employees!LastName &; "'")
+    & Forms!Employees!LastName & "'")
 ```
 
 If the current value of the control is  `King`, the following  _criteria_ argument is passed to the [DLookup](application-dlookup-method-access.md) function after Access evaluates the expression and concatenates the strings:
@@ -48,7 +48,7 @@ Dim varResult As Variant
 
 strLastName = "King"
 varResult = DLookup("[EmployeeID]", "Employees", "[LastName] = '" _
-    &; strLastName &; "'")
+    & strLastName & "'")
 ```
 
 

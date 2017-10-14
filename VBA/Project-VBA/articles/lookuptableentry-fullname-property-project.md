@@ -54,8 +54,8 @@ Sub CreateLocationOutlineCode()
  
 ErrorHandler: 
     MsgBox "CreateLocationOutlineCode(): Error Number: " 
- &; Err.Number &; _ 
-    vbCrLf &; " Error Description: " &; Err.Description 
+ & Err.Number & _ 
+    vbCrLf & " Error Description: " & Err.Description 
 End Sub 
  
  

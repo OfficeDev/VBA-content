@@ -38,7 +38,7 @@ Options.CheckGrammarAsYouType = True
 ActiveDocument.ShowGrammaticalErrors = True
 ```
 
-This example returns the status of the  **Check grammar as you type** option on the **Spelling &; Grammar** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the  **Check grammar as you type** option on the **Spelling & Grammar** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

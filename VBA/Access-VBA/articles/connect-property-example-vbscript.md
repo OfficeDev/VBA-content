@@ -63,8 +63,8 @@ CONNECT: <INPUT Name="txtConnect" Size="100"><BR>SQL: <INPUT Name="txtSQL" Size=
 <Script Language="VBScript">' Set parameters of RDS.DataControl at Run Time
 Sub Run_OnClickDim Cnxn
 ' build connection stringCnxn = "Provider='sqloledb';"
-Cnxn = Cnxn &; "Data Source="Cnxn = Cnxn &; document.frmInput.txtDataSource.value &; ";"
-Cnxn = Cnxn &; "Initial Catalog='Northwind';"Cnxn = Cnxn &; "Integrated Security='SSPI';"
+Cnxn = Cnxn & "Data Source="Cnxn = Cnxn & document.frmInput.txtDataSource.value & ";"
+Cnxn = Cnxn & "Initial Catalog='Northwind';"Cnxn = Cnxn & "Integrated Security='SSPI';"
 ' assign the valuedocument.frmInput.txtConnect.value = Cnxn
 MsgBox "Here we go!"' set RDS properties
 RDS.Server = document.frmInput.txtServer.valueRDS.SQL = document.frmInput.txtSQL.value

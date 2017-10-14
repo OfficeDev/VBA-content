@@ -38,7 +38,7 @@ This example displays the currency format in the status bar.
 
 ```
 StatusBar = "Currency Format: " _ 
- &; Application.International(wdCurrencyCode)
+ & Application.International(wdCurrencyCode)
 ```
 
 

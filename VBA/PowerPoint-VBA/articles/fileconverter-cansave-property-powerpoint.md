@@ -63,11 +63,11 @@ This example displays a message that indicates whether the third converter in th
 ```
 If FileConverters(3).CanSave = True Then
 
-    MsgBox FileConverters(3).FormatName &; " can save files"
+    MsgBox FileConverters(3).FormatName & " can save files"
 
 Else
 
-    MsgBox FileConverters(3).FormatName &; " cannot save files"
+    MsgBox FileConverters(3).FormatName & " cannot save files"
 
 End If
 ```

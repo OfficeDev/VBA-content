@@ -41,7 +41,7 @@ For details about the  **GetSysColor** function, search for " **GetSysColor** " 
 
 The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window will display a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-You can also set this value in the  **Color** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header &; Footer**, and then click  **Choose Font**).
+You can also set this value in the  **Color** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header & Footer**, and then click  **Choose Font**).
 
 
 ## Example

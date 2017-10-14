@@ -28,7 +28,7 @@ Dim countOfUpdates As Integer
  
 countOfUpdates = ActiveDocument.CoAuthoring.Updates.Count 
  
-MsgBox "The number of updates is " &; countOfUpdates
+MsgBox "The number of updates is " & countOfUpdates
 ```
 
 

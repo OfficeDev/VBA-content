@@ -111,7 +111,7 @@ Private Function IVisEventProc_VisEventProc( _
                 strMessage = "MouseMove - dragDrop" 
             End If 
         Case Else 
-            strMessage = "Other (" &; nEventCode &; ")" 
+            strMessage = "Other (" & nEventCode & ")" 
     End Select 
      
     'Display the event name and the event code 

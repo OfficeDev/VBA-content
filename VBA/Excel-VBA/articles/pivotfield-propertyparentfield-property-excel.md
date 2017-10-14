@@ -48,7 +48,7 @@ Sub CheckParentField()
  If pvtField.IsMemberProperty = False Then 
  MsgBox "No member properties present." 
  Else 
- MsgBox "The parent field of the members is: " &; _ 
+ MsgBox "The parent field of the members is: " & _ 
  pvtField.PropertyParentField 
  End If 
  

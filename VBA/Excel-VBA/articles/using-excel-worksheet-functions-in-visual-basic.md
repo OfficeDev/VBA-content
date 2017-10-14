@@ -84,7 +84,7 @@ loanTerm = Application.InputBox _
  Default:=loanTerm, Type:=1) 
 payment = Application.WorksheetFunction _ 
  .Pmt(loanInt / 1200, loanTerm * 12, loanAmt) 
-MsgBox "Monthly payment is " &; Format(payment, "Currency")
+MsgBox "Monthly payment is " & Format(payment, "Currency")
 ```
 
 

@@ -67,14 +67,14 @@ Sub CreateCalendar()
    For iMonth = 1 To 12
       'Create a new worksheet and label the worksheet tab with the name of the new month
       sMonth = Format(DateSerial(1, iMonth, 1), "mmmm")
-      Application.StatusBar = "Place month " &; sMonth &; " on..."
+      Application.StatusBar = "Place month " & sMonth & " on..."
       Worksheets.Add after:=Worksheets(Worksheets.Count)
       ActiveSheet.Name = sMonth
       
       'Copy the employee names to the first column, and add the dates across the remaining columns.
       wks.Range(wks.Cells(3, 1), wks.Cells( _
          WorksheetFunction.CountA(wks.Columns(1)) + 1, 1)).Copy Range("A2")
-      Range("A1").Value = "'" &; ActiveSheet.Name &; " " &; iYear
+      Range("A1").Value = "'" & ActiveSheet.Name & " " & iYear
       
       'Call the private subs, depending on what options are chosen for the calendar.
       
@@ -107,7 +107,7 @@ Sub CreateCalendar()
    
    'Label the window.
    Worksheets(1).Select
-   ActiveWindow.Caption = "Yearly calendar " &; iYear
+   ActiveWindow.Caption = "Yearly calendar " & iYear
    
    'Do some final cleanup, and then close out the sub.
    With Application

@@ -41,7 +41,7 @@ Sub AddStatusNote()
  If ActiveCell.Assignment.Notes = "" Then 
  ActiveCell.Assignment.Notes = "No status report yet." 
  Else 
- ActiveCell.Assignment.Notes = ActiveCell.Assignment.Notes &; vbCrLf &; vbCrLf &; "No status report yet." 
+ ActiveCell.Assignment.Notes = ActiveCell.Assignment.Notes & vbCrLf & vbCrLf & "No status report yet." 
  End If 
  
 End Sub

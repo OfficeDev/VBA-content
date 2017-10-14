@@ -61,7 +61,7 @@ Sub Item_Open()
  Set CommandButton1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("CommandButton1") 
  
  For i = 0 To 9 
- ListBox1.AddItem "Choice " &; (ListBox1.ListCount + 1) 
+ ListBox1.AddItem "Choice " & (ListBox1.ListCount + 1) 
  Next 
  
  OptionButton1.Caption = "Single Selection" 

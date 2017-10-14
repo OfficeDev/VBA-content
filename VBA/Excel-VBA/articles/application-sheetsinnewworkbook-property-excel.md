@@ -29,8 +29,8 @@ This example displays the number of sheets automatically inserted into new workb
 
 
 ```vb
-MsgBox "Microsoft Excel inserts " &; _ 
- Application.SheetsInNewWorkbook &; _ 
+MsgBox "Microsoft Excel inserts " & _ 
+ Application.SheetsInNewWorkbook & _ 
  " sheet(s) in each new workbook"
 ```
 

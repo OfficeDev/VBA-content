@@ -35,7 +35,7 @@ You can use the  **ActiveForm** property to refer to an active form together wit
 ```vb
 Dim frmCurrentForm As Form 
 Set frmCurrentForm = Screen.ActiveForm 
-MsgBox "Current form is " &; frmCurrentForm.Name
+MsgBox "Current form is " & frmCurrentForm.Name
 ```
 
 If a subform has the focus,  **ActiveForm** refers to the main form. If no form or subform has the focus when you use the **ActiveForm** property, an error occurs.

@@ -43,7 +43,7 @@ myRange.Collapse Direction:=wdCollapseEnd
 For Each prop In ActiveDocument.CustomDocumentProperties 
  With myRange 
  .InsertParagraphAfter 
- .InsertAfter prop.Name &; "= " 
+ .InsertAfter prop.Name & "= " 
  .InsertAfter prop.Value 
  End With 
 Next

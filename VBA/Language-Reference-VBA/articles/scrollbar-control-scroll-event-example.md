@@ -43,18 +43,18 @@ End Sub
  
 Private Sub ScrollBar1_Change() 
  Label2.Caption = " Widget Changes " _ 
- &; (ScrollSaved - ScrollBar1.Value) 
+ & (ScrollSaved - ScrollBar1.Value) 
 End Sub 
  
 Private Sub ScrollBar1_Exit(ByVal Cancel as MSForms.ReturnBoolean) 
  Label2.Caption = " Widget Changes " _ 
- &; (ScrollSaved - ScrollBar1.Value) 
+ & (ScrollSaved - ScrollBar1.Value) 
  ScrollSaved = ScrollBar1.Value 
 End Sub 
  
 Private Sub ScrollBar1_Scroll() 
  Label2.Caption = (ScrollSaved - ScrollBar1 _ 
- .Value) &; " Widget Changes by Scrolling" 
+ .Value) & " Widget Changes by Scrolling" 
 End Sub
 ```
 

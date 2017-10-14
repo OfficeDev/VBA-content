@@ -40,7 +40,7 @@ This example uses the  **PPmt** function to calculate how much of a payment for 
 ```vb
 Dim NL, TB, Fmt, FVal, PVal, APR, TotPmts, PayType, Payment, Msg, MakeChart, Period, P, I
 Const ENDPERIOD = 0, BEGINPERIOD = 1    ' When payments are made.
-NL = Chr(13) &; Chr(10)    ' Define newline.
+NL = Chr(13) & Chr(10)    ' Define newline.
 TB = Chr(9)    ' Define tab.
 Fmt = "###,###,##0.00"    ' Define money format.
 FVal = 0    ' Usually 0 for a loan.
@@ -51,21 +51,21 @@ TotPmts = InputBox("How many monthly payments do you have to make?")
 PayType = MsgBox("Do you make payments at the end of month?", vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 Payment = Abs(-Pmt(APR / 12, TotPmts, PVal, FVal, PayType))
-Msg = "Your monthly payment is " &; Format(Payment, Fmt) &; ". "
-Msg = Msg &; "Would you like a breakdown of your principal and "
-Msg = Msg &; "interest per period?"
+Msg = "Your monthly payment is " & Format(Payment, Fmt) & ". "
+Msg = Msg & "Would you like a breakdown of your principal and "
+Msg = Msg & "interest per period?"
 MakeChart = MsgBox(Msg, vbYesNo)    ' See if chart is desired.
 If MakeChart <> vbNo Then
     If TotPmts > 12 Then MsgBox "Only first year will be shown."
-    Msg = "Month  Payment  Principal  Interest" &; NL
+    Msg = "Month  Payment  Principal  Interest" & NL
     For Period = 1 To TotPmts
         If Period > 12 Then Exit For    ' Show only first 12.
         P = PPmt(APR / 12, Period, TotPmts, -PVal, FVal, PayType)
         P = (Int((P + .005) * 100) / 100)    ' Round principal.
         I = Payment - P
         I = (Int((I + .005) * 100) / 100)    ' Round interest.
-        Msg = Msg &; Period &; TB &; Format(Payment, Fmt)
-        Msg = Msg &; TB &; Format(P, Fmt) &; TB &; Format(I, Fmt) &; NL
+        Msg = Msg & Period & TB & Format(Payment, Fmt)
+        Msg = Msg & TB & Format(P, Fmt) & TB & Format(I, Fmt) & NL
     Next Period
     MsgBox Msg    ' Display amortization table.
 End If

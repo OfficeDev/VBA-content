@@ -25,12 +25,12 @@ Public Sub Main()On Error GoTo ErrorHandler
 Dim dc As RDS.DataControlDim rst As ADODB.Recordset
 Set dc = New RDS.DataControl 
 dc.Server = "http://MyServer"dc.ExecuteOptions = 1
-dc.FetchOptions = 1dc.Connect = "Provider='sqloledb';Data Source='MySqlServer';" &; _
+dc.FetchOptions = 1dc.Connect = "Provider='sqloledb';Data Source='MySqlServer';" & _
 "Initial Catalog='Pubs';Integrated Security='SSPI';"dc.SQL = "SELECT * FROM Authors"
 ' Wait at least 20 secondsdc.InternetTimeout = 200 
 dc.Refresh' Use another Recordset as a convenience
 Set rst = dc.RecordsetDo While Not rst.EOF
-Debug.Print rst!au_fname &; " " &; rst!au_lnamerst.MoveNext
+Debug.Print rst!au_fname & " " & rst!au_lnamerst.MoveNext
 Loop 
 If rst.State = adStateOpen Then rst.CloseSet rst = Nothing
 Set dc = NothingExit Sub 
@@ -38,7 +38,7 @@ ErrorHandler:' clean up
 If Not rst Is Nothing ThenIf rst.State = adStateOpen Then rst.Close
 End IfSet rst = Nothing
 Set dc = Nothing 
-If Err <> 0 ThenMsgBox Err.Source &; "-->" &; Err.Description, , "Error"
+If Err <> 0 ThenMsgBox Err.Source & "-->" & Err.Description, , "Error"
 End If 
 End Sub'EndInternetTimeoutVB
 ```

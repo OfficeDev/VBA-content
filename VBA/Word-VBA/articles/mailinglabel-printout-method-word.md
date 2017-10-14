@@ -45,8 +45,8 @@ This example prints a page of Avery 5664 mailing labels, using the specified add
 
 
 ```
-addr = "Jane Doe" &; vbCr &; "123 Skye St." _ 
- &; vbCr &; "OurTown, WA 98107" 
+addr = "Jane Doe" & vbCr & "123 Skye St." _ 
+ & vbCr & "OurTown, WA 98107" 
 Application.MailingLabel.PrintOut Name:="5664", Address:=addr
 ```
 

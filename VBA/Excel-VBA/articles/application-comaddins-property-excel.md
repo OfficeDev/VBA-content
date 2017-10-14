@@ -30,7 +30,7 @@ This example displays the number of COM add-ins that are currently installed.
 
 ```vb
 Set objAI = Application.COMAddIns 
-MsgBox "Number of COM add-ins available:" &; _ 
+MsgBox "Number of COM add-ins available:" & _ 
     objAI.Count
 ```
 

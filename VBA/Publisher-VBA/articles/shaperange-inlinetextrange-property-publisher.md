@@ -46,7 +46,7 @@ If Not theShape.IsInline = True Then
  Set theTextRange = theShape.TextFrame.Story.TextRange 
  For i = 1 To .InlineShapes.Count 
  With .InlineShapes(i) 
- .InlineTextRange.InsertAfter (" (Figure " &; i &; ") ") 
+ .InlineTextRange.InsertAfter (" (Figure " & i & ") ") 
  End With 
  Next 
  End If 

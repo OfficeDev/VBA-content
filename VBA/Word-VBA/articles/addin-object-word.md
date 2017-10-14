@@ -41,11 +41,11 @@ The following example creates a list of add-ins at the beginning of the active d
 
 ```vb
 With ActiveDocument.Range(Start:=0, End:=0) 
- .InsertAfter "Name" &; vbTab &; "Path" &; vbTab &; "Installed" 
+ .InsertAfter "Name" & vbTab & "Path" & vbTab & "Installed" 
  .InsertParagraphAfter 
  For Each oAddIn In AddIns 
- .InsertAfter oAddIn.Name &; vbTab &; oAddIn.Path &; vbTab _ 
- &; oAddIn.Installed 
+ .InsertAfter oAddIn.Name & vbTab & oAddIn.Path & vbTab _ 
+ & oAddIn.Installed 
  .InsertParagraphAfter 
  Next oAddIn 
  .ConvertToTable 

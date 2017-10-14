@@ -52,7 +52,7 @@ This example displays a list of OLE and DDE links in the active workbook. The ex
 aLinks = ActiveWorkbook.LinkSources(xlOLELinks) 
 If Not IsEmpty(aLinks) Then 
  For i = 1 To UBound(aLinks) 
- MsgBox "Link " &; i &; ":" &; Chr(13) &; aLinks(i) 
+ MsgBox "Link " & i & ":" & Chr(13) & aLinks(i) 
  Next i 
 End If
 ```

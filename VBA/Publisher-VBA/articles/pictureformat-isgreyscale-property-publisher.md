@@ -59,7 +59,7 @@ Dim shpLoop As Shape
  If .IsEmpty = msoFalse And .IsGreyScale = msoCTrue Then 
  
  Debug.Print .Filename 
- Debug.Print "Page " &; pgLoop.PageNumber 
+ Debug.Print "Page " & pgLoop.PageNumber 
  
  End If 
  End With 

@@ -33,12 +33,12 @@ On Error GoTo ErrorHandler
  
    Set dbsNorthwind = CurrentDb 
  
-   strSQL = "SELECT * FROM Products WHERE UnitsOnOrder >= 40 " &; _ 
+   strSQL = "SELECT * FROM Products WHERE UnitsOnOrder >= 40 " & _ 
             "ORDER BY CategoryID, UnitsOnOrder DESC" 
    Set rstProducts = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
    If rstProducts.EOF Then Exit Sub 
  
-   StrSQL = "SELECT CategoryID, CategoryName FROM Categories " &; _ 
+   StrSQL = "SELECT CategoryID, CategoryName FROM Categories " & _ 
             "ORDER BY CategoryID" 
    Set rstCategories = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
  
@@ -46,7 +46,7 @@ On Error GoTo ErrorHandler
    ' and the product generating the most revenue. 
    Do Until rstCategories.EOF 
  
-      strCriteria = "CategoryID = " &; rstCategories![CategoryID] 
+      strCriteria = "CategoryID = " & rstCategories![CategoryID] 
       rstProducts.FindFirst strCriteria 
       curHighRev = rstProducts![UnitPrice] * rstProducts![UnitsOnOrder] 
  
@@ -86,13 +86,13 @@ On Error GoTo ErrorHandler
       End If 
  
       ' Set high and low bookmarks to build the message string. 
-      strMessage = "CATEGORY:  " &; rstCategories!CategoryName &; _ 
-                   vbCrLf &; vbCrLf 
+      strMessage = "CATEGORY:  " & rstCategories!CategoryName & _ 
+                   vbCrLf & vbCrLf 
       rstProducts.Bookmark = varHighMark 
-      strMessage = strMessage &; "HIGH: $" &; curHighRev &; "  " &; _ 
-                   rstProducts!ProductName &; vbCrLf 
+      strMessage = strMessage & "HIGH: $" & curHighRev & "  " & _ 
+                   rstProducts!ProductName & vbCrLf 
       rstProducts.Bookmark = varLowMark 
-      strMessage = strMessage &; "LOW:  $" &; curLowRev &; "  " &; _ 
+      strMessage = strMessage & "LOW:  $" & curLowRev & "  " & _ 
                    rstProducts!ProductName 
       MsgBox strMessage, , "Product Statistics" 
       rstCategories.MoveNext 
@@ -109,7 +109,7 @@ On Error GoTo ErrorHandler
 Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 

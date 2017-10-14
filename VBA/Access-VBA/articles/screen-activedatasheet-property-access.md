@@ -58,8 +58,8 @@ Public Sub GetSelection()
  
  lngFirstRow = objDatasheet.SelTop 
  lngFirstColumn = objDatasheet.SelLeft 
- MsgBox "The first item in this selection is located at " &; _ 
- "Row " &; lngFirstRow &; ", Column " &; _ 
+ MsgBox "The first item in this selection is located at " & _ 
+ "Row " & lngFirstRow & ", Column " & _ 
  lngFirstColumn, vbInformation 
  
 GetSelection_Bye: 

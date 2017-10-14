@@ -47,7 +47,7 @@ Private Sub objPane_ModuleSwitch(ByVal CurrentModule As NavigationModule)
  If CurrentModule.NavigationModuleType = olModuleJournal Then 
  
  ' Let the user know what's happening. 
- MsgBox "The Journal module is temporarily unavailable. " &; _ 
+ MsgBox "The Journal module is temporarily unavailable. " & _ 
  " Outlook is switching to the Calendar module, if available." 
  
  ' Retrieve the Calendar module, if one exists, for the 

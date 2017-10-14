@@ -58,17 +58,17 @@ Sub SaveAttachment()
  
  Dim strPrompt As String 
  
- strPrompt = "Are you sure you want to save the first attachment " &; _ 
+ strPrompt = "Are you sure you want to save the first attachment " & _ 
  
- "in the current item to the Documents folder? If a file with the " &; _ 
+ "in the current item to the Documents folder? If a file with the " & _ 
  
- "same name already exists in the destination folder, " &; _ 
+ "same name already exists in the destination folder, " & _ 
  
  "it will be overwritten with this copy of the file." 
  
  If MsgBox(strPrompt, vbYesNo + vbQuestion) = vbYes Then 
  
- myAttachments.Item(1).SaveAsFile Environ("HOMEPATH") &; "\My Documents\" &; _ 
+ myAttachments.Item(1).SaveAsFile Environ("HOMEPATH") & "\My Documents\" & _ 
  
  myAttachments.Item(1).DisplayName 
  

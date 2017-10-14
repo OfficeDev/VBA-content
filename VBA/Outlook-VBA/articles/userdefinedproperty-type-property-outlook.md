@@ -39,7 +39,7 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  
  ' reference to the Immediate window. 
  
- Debug.Print "--- Folder: " &; FolderToCheck.Name 
+ Debug.Print "--- Folder: " & FolderToCheck.Name 
  
  
  
@@ -71,63 +71,63 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  
  Case OlUserPropertyType.olCombination 
  
- strPropertyInfo = strPropertyInfo &; " (Combination)" 
+ strPropertyInfo = strPropertyInfo & " (Combination)" 
  
  Case OlUserPropertyType.olCurrency 
  
- strPropertyInfo = strPropertyInfo &; " (Currency)" 
+ strPropertyInfo = strPropertyInfo & " (Currency)" 
  
  Case OlUserPropertyType.olDateTime 
  
- strPropertyInfo = strPropertyInfo &; " (Date/Time)" 
+ strPropertyInfo = strPropertyInfo & " (Date/Time)" 
  
  Case OlUserPropertyType.olDuration 
  
- strPropertyInfo = strPropertyInfo &; " (Duration)" 
+ strPropertyInfo = strPropertyInfo & " (Duration)" 
  
  Case OlUserPropertyType.olEnumeration 
  
- strPropertyInfo = strPropertyInfo &; " (Enumeration)" 
+ strPropertyInfo = strPropertyInfo & " (Enumeration)" 
  
  Case OlUserPropertyType.olFormula 
  
- strPropertyInfo = strPropertyInfo &; " (Formula)" 
+ strPropertyInfo = strPropertyInfo & " (Formula)" 
  
  Case OlUserPropertyType.olInteger 
  
- strPropertyInfo = strPropertyInfo &; " (Integer)" 
+ strPropertyInfo = strPropertyInfo & " (Integer)" 
  
  Case OlUserPropertyType.olKeywords 
  
- strPropertyInfo = strPropertyInfo &; " (Keywords)" 
+ strPropertyInfo = strPropertyInfo & " (Keywords)" 
  
  Case OlUserPropertyType.olNumber 
  
- strPropertyInfo = strPropertyInfo &; " (Number)" 
+ strPropertyInfo = strPropertyInfo & " (Number)" 
  
  Case OlUserPropertyType.olOutlookInternal 
  
- strPropertyInfo = strPropertyInfo &; " (Outlook Internal)" 
+ strPropertyInfo = strPropertyInfo & " (Outlook Internal)" 
  
  Case OlUserPropertyType.olPercent 
  
- strPropertyInfo = strPropertyInfo &; " (Percent)" 
+ strPropertyInfo = strPropertyInfo & " (Percent)" 
  
  Case OlUserPropertyType.olSmartFrom 
  
- strPropertyInfo = strPropertyInfo &; " (Smart From)" 
+ strPropertyInfo = strPropertyInfo & " (Smart From)" 
  
  Case OlUserPropertyType.olText 
  
- strPropertyInfo = strPropertyInfo &; " (Text)" 
+ strPropertyInfo = strPropertyInfo & " (Text)" 
  
  Case OlUserPropertyType.olYesNo 
  
- strPropertyInfo = strPropertyInfo &; " (Yes/No)" 
+ strPropertyInfo = strPropertyInfo & " (Yes/No)" 
  
  Case Else 
  
- strPropertyInfo = strPropertyInfo &; " (Unknown)" 
+ strPropertyInfo = strPropertyInfo & " (Unknown)" 
  
  End Select 
  

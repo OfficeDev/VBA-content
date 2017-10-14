@@ -38,7 +38,7 @@ Double
 
 ## Remarks
 
-You can also set this value in the  **Margin** box under **Header** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &; Footer**).
+You can also set this value in the  **Margin** box under **Header** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
 
 Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](visunitcodes-enumeration-visio.md)** .
 

@@ -39,8 +39,8 @@ The following example returns the path and name of the workbook associated with 
 
 
 ```vb
-MsgBox ActiveProtectedViewWindow.SourcePath &; "\" _ 
- &; ActiveProtectedViewWindow.SourceName
+MsgBox ActiveProtectedViewWindow.SourcePath & "\" _ 
+ & ActiveProtectedViewWindow.SourceName
 ```
 
 

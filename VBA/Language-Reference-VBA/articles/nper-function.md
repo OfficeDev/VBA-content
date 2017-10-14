@@ -47,7 +47,7 @@ PayType = MsgBox("Do you make payments at the end of month?", vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 TotPmts = NPer(APR / 12, -Payment, PVal, FVal, PayType)
 If Int(TotPmts) <> TotPmts Then TotPmts = Int(TotPmts) + 1
-MsgBox "It will take you " &; TotPmts &; " months to pay off your loan."
+MsgBox "It will take you " & TotPmts & " months to pay off your loan."
 ```
 
 

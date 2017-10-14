@@ -47,8 +47,8 @@ This example displays a message with the value of the first and second fields in
 Private Sub MailMergeApp_MailMergeAfterRecordMerge(ByVal Doc As Document) 
  
  With ActiveDocument.MailMerge.DataSource 
- MsgBox .DataFields.Item(3).Value &; " " &; _ 
- .DataFields.Item(2).Value &; " is finished merging." 
+ MsgBox .DataFields.Item(3).Value & " " & _ 
+ .DataFields.Item(2).Value & " is finished merging." 
  End With 
  
 End Sub

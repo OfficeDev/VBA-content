@@ -31,7 +31,7 @@ Private Sub Colors_NotInList(NewData As String, _
         ' is being added. 
         Response = acDataErrAdded 
         ' Add string in NewData argument to row source. 
-        ctl.RowSource = ctl.RowSource &; ";" &; NewData 
+        ctl.RowSource = ctl.RowSource & ";" & NewData 
     Else 
     ' If user chooses Cancel, suppress error message 
     ' and undo changes. 

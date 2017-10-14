@@ -59,7 +59,7 @@ Sub Item_Open()
  Set CheckBox1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("CheckBox1") 
  
  For i = 1 To 9 
- ComboBox1.AddItem "Choice " &; i 
+ ComboBox1.AddItem "Choice " & i 
  Next 
  ComboBox1.AddItem "Chocoholic" 
  

@@ -30,7 +30,7 @@ The following example adds the creation date of the active project to its notes.
 
 ```vb
 Sub AddCreationDateToNotes() 
- ActiveProject.ProjectNotes = ActiveProject.ProjectNotes &; vbCrLf &; "This project was created on " &; ActiveProject.CreationDate &; "." 
+ ActiveProject.ProjectNotes = ActiveProject.ProjectNotes & vbCrLf & "This project was created on " & ActiveProject.CreationDate & "." 
 End Sub
 ```
 

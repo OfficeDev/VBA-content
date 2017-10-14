@@ -40,8 +40,8 @@ Dim shpLoop As Shape
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  If shpLoop.HasTextFrame = msoTrue Then 
  Set hypAll = shpLoop.TextFrame.TextRange.Hyperlinks 
- Debug.Print "Shape " &; shpLoop.Name _ 
- &; " has " &; hypAll.Count &; " hyperlinks." 
+ Debug.Print "Shape " & shpLoop.Name _ 
+ & " has " & hypAll.Count & " hyperlinks." 
  End If 
 Next shpLoop
 ```
