@@ -30,7 +30,7 @@ Sends a Windows message and its associated parameters to the specified task.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Message_|Required| **Long**|A hexidecimal number that corresponds to the message you want to send. If you have the Microsoft Platform Software Development Kit, you can look up the name of the message in the header files (Winuser.h, for example) to find the associated hexadecimal number (precede the hexidecimal value with &;h).|
-| _wParam_|Required| **Long**|Parameters appropriate for the message you?re sending. For information about what these values represent, see the reference topic for that message in the documentation included with the Microsoft Platform Software Development Kit, available on MSDN. To retrieve the appropriate values, you may need to use the Spy tool (which comes with the kit).|
+| _wParam_|Required| **Long**|Parameters appropriate for the message you're sending. For information about what these values represent, see the reference topic for that message in the documentation included with the Microsoft Platform Software Development Kit, available on MSDN. To retrieve the appropriate values, you may need to use the Spy tool (which comes with the kit).|
 
 ## Example
 

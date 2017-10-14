@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Goto Method (Excel)
 
-Selects any range or Visual Basic procedure in any workbook, and activates that workbook if it?s not already active.
+Selects any range or Visual Basic procedure in any workbook, and activates that workbook if it's not already active.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ Selects any range or Visual Basic procedure in any workbook, and activates that 
 This method differs from the **[Select](range-select-method-excel.md)** method in the following ways:
 
 
-- If you specify a range on a sheet that?s not on top, Microsoft Excel will switch to that sheet before selecting. (If you use **Select** with a range on a sheet that?s not on top, the range will be selected but the sheet won?t be activated).
+- If you specify a range on a sheet that's not on top, Microsoft Excel will switch to that sheet before selecting. (If you use **Select** with a range on a sheet that's not on top, the range will be selected but the sheet won't be activated).
     
 - This method has a **_Scroll_** argument that lets you scroll through the destination window.
     

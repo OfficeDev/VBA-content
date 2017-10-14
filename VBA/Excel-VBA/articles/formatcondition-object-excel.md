@@ -22,14 +22,14 @@ Represents a conditional format.
 
 Use the **[Add](formatconditions-add-method-excel.md)** method to create a new conditional format. If a range has mulitple formats, you can use the **[Modify](formatcondition-modify-method-excel.md)** method to change one of the formats, or you can use the **[Delete](formatcondition-delete-method-excel.md)** method to delete a format and then use the **Add** method to create a new format.
 
-Use the **[Font](formatcondition-font-property-excel.md)**, **[Borders](formatcondition-borders-property-excel.md)**, and **[Interior](formatcondition-interior-property-excel.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren?t supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
+Use the **[Font](formatcondition-font-property-excel.md)**, **[Borders](formatcondition-borders-property-excel.md)**, and **[Interior](formatcondition-interior-property-excel.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren't supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
 
 
 
 |**Object**|**Properties**|
 |:-----|:-----|
 |**[Font](font-object-excel.md)**|**Bold** **Color** **ColorIndex** **FontStyle** **Italic** **Strikethrough** **Underline** The accounting underline styles cannot be used.|
-|**[Border](border-object-excel.md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren?t supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren?t supported): **xlWeightHairline** and **xlWeightThin**.|
+|**[Border](border-object-excel.md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren't supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren't supported): **xlWeightHairline** and **xlWeightThin**.|
 |**[Interior](interior-object-excel.md)**|**Color** **ColorIndex** **Pattern** **PatternColorIndex**|
 
 ## Example

@@ -29,7 +29,7 @@ Returns or sets colors in the palette for the workbook. The palette has 56 entri
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|The color number (from 1 to 56). If this argument isn?t specified, this method returns an array that contains all 56 of the colors in the palette.|
+| _Index_|Optional| **Variant**|The color number (from 1 to 56). If this argument isn't specified, this method returns an array that contains all 56 of the colors in the palette.|
 
 ## Example
 

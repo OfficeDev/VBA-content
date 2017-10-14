@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddCurve Method (Project)
-Adds a B?zier curve to a report, and returns a **Shape** object that represents the curve.
+Adds a Bézier curve to a report, and returns a **Shape** object that represents the curve.
 
 ## Syntax
 
@@ -32,7 +32,7 @@ Adds a B?zier curve to a report, and returns a **Shape** object that represents 
 
 ## Remarks
 
-For the  _SafeArrayOfPoints_ parameter, the first point you specify is the starting vertex, and the next two points are control points for the first B?zier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3 _n_ + 1 points, where _n_ is the number of segments in the curve.
+For the  _SafeArrayOfPoints_ parameter, the first point you specify is the starting vertex, and the next two points are control points for the first Bézier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3 _n_ + 1 points, where _n_ is the number of segments in the curve.
 
 
 ## Example

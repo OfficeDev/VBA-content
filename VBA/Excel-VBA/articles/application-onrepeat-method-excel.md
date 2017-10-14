@@ -34,7 +34,7 @@ Sets the **Repeat** item and the name of the procedure that will run if you choo
 
 ## Remarks
 
-If a procedure doesn?t use the **OnRepeat** method, the **Repeat** command repeats procedure that was run most recently.
+If a procedure doesn't use the **OnRepeat** method, the **Repeat** command repeats procedure that was run most recently.
 
 The procedure must use the **OnRepeat** and **OnUndo** methods last, to prevent the repeat and undo procedures from being overwritten by subsequent actions in the procedure.
 

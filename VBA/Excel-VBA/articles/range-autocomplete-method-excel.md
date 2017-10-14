@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.AutoComplete Method (Excel)
 
-Returns an AutoComplete match from the list. If there?s no AutoComplete match or if more than one entry in the list matches the string to complete, this method returns an empty string.
+Returns an AutoComplete match from the list. If there's no AutoComplete match or if more than one entry in the list matches the string to complete, this method returns an empty string.
 
 
 ## Syntax

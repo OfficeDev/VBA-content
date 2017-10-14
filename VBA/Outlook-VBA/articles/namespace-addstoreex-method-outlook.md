@@ -39,7 +39,7 @@ Use the **olStoreUnicode** constant to add a new .pst file that has greater stor
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file that has greater storage capacity for items and folders and supports Unicode to the user?s profile.
+This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file that has greater storage capacity for items and folders and supports Unicode to the user's profile.
 
 
 ```vb

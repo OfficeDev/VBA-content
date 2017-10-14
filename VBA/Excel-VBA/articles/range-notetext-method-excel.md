@@ -30,7 +30,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The text to add to the note (up to 255 characters). The text is inserted starting at position  _Start_, replacing  _Length_ characters of the existing note. If this argument is omitted, this method returns the current text of the note starting at position _Start_, for  _Length_ characters.|
-| _Start_|Optional| **Variant**|The starting position for the text that?s set or returned. If this argument is omitted, this method starts at the first character. To append text to the note, specify a number larger than the number of characters in the existing note.|
+| _Start_|Optional| **Variant**|The starting position for the text that's set or returned. If this argument is omitted, this method starts at the first character. To append text to the note, specify a number larger than the number of characters in the existing note.|
 | _Length_|Optional| **Variant**|The number of characters to be set or returned. If this argument is omitted, Microsoft Excel sets or returns characters from the starting position to the end of the note (up to 255 characters). If there are more than 255 characters from  _Start_ to the end of the note, this method returns only 255 characters.|
 
 ### Return Value

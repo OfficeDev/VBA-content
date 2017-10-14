@@ -38,7 +38,7 @@ Use the **RemoveStore** method to remove a .pst that is already added to a profi
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file to the user?s profile.
+This Microsoft Visual Basic for Applications (VBA) example adds a new Personal Folders (.pst) file to the user's profile.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application.SheetLensGalleryRenderComplete Event (Excel)
 
-Occurs after a callout gallery?s icons (dynamic &; static) have finished rendering.
+Occurs after a callout gallery's icons (dynamic &; static) have finished rendering.
 
 
 ## Syntax

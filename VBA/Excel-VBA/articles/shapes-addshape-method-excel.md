@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-To change the type of an AutoShape that you?ve added, set the **[AutoShapeType](shape-autoshapetype-property-excel.md)** property.
+To change the type of an AutoShape that you've added, set the **[AutoShapeType](shape-autoshapetype-property-excel.md)** property.
 
 
 ## Example

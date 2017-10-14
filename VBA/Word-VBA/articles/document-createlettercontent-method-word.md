@@ -52,14 +52,14 @@ Creates and returns a **LetterContent** object based on the specified letter ele
 | _SenderJobTitle_|Required| **String**|The job title of the person creating the letter.|
 | _SenderInitials_|Required| **String**|The initials of the person creating the letter.|
 | _EnclosureNumber_|Required| **Long**|The number of enclosures for the letter.|
-| _InfoBlock_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _RecipientCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _RecipientGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _ReturnAddressShortForm_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderCity_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _SenderReference_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _InfoBlock_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _RecipientCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _RecipientGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _ReturnAddressShortForm_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _SenderCity_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _SenderCode_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _SenderGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _SenderReference_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
 
 ### Return Value
 

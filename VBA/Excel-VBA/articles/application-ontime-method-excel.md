@@ -31,7 +31,7 @@ Schedules a procedure to be run at a specified time in the future (either at a s
 |:-----|:-----|:-----|:-----|
 | _EarliestTime_|Required| **Variant**|The time when you want this procedure to be run.|
 | _Procedure_|Required| **String**|The name of the procedure to be run.|
-| _LatestTime_|Optional| **Variant**|The latest time at which the procedure can be run. For example, if  _LatestTime_ is set to _EarliestTime_ + 30 and Microsoft Excel is not in Ready, Copy, Cut, or Find mode at _EarliestTime_ because another procedure is running, Microsoft Excel will wait 30 seconds for the first procedure to complete. If Microsoft Excel is not in Ready mode within 30 seconds, the procedure won?t be run. If this argument is omitted, Microsoft Excel will wait until the procedure can be run.|
+| _LatestTime_|Optional| **Variant**|The latest time at which the procedure can be run. For example, if  _LatestTime_ is set to _EarliestTime_ + 30 and Microsoft Excel is not in Ready, Copy, Cut, or Find mode at _EarliestTime_ because another procedure is running, Microsoft Excel will wait 30 seconds for the first procedure to complete. If Microsoft Excel is not in Ready mode within 30 seconds, the procedure won't be run. If this argument is omitted, Microsoft Excel will wait until the procedure can be run.|
 | _Schedule_|Optional| **Variant**| **True** to schedule a new OnTime procedure. **False** to clear a previously set procedure. The default value is **True** .|
 
 ## Remarks

@@ -30,7 +30,7 @@ Opens a dynamic data exchange (DDE) channel to another application, and returns 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _App_|Required| **String**|The name of the application.|
-| _Topic_|Required| **String**|The name of a DDE topic?for example, the name of an open document?recognized by the application to which you are opening a channel.|
+| _Topic_|Required| **String**|The name of a DDE topic - for example, the name of an open document - recognized by the application to which you are opening a channel.|
 
 ## Remarks
 

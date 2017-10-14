@@ -38,7 +38,7 @@ A **NavigationGroup** object that represents the selected default folder group.
 
 ## Remarks
 
-If the default navigation group specified in  _DefaultFolderGroup_ was deleted or otherwise doesn?t exist, it is automatically created if the parent **[NavigationModule](navigationmodule-object-outlook.md)** object supports the specified navigation group type. An error occurs if the parent **NavigationModule** object does not support creating this navigation group type.
+If the default navigation group specified in  _DefaultFolderGroup_ was deleted or otherwise doesn't exist, it is automatically created if the parent **[NavigationModule](navigationmodule-object-outlook.md)** object supports the specified navigation group type. An error occurs if the parent **NavigationModule** object does not support creating this navigation group type.
 
 
 ## See also

@@ -50,7 +50,7 @@ Following is a list of possible connections.
 
 - A connection point cell.
     
-- **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created?one from the BeginX or EndX cell to the guide's Angle cell, and one from the BeginY or EndY cell to the guide's Angle cell.
+- **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created - one from the BeginX or EndX cell to the guide's Angle cell, and one from the BeginY or EndY cell to the guide's Angle cell.
     
 - **The pin of a 2-D shape (creates dynamic glue):** The shape being glued from must be routable (ObjType includes **visLOFlagsRoutable** ) or have a dynamic glue type (GlueType includes **visGlueTypeWalking** ), and does not prohibit dynamic glue (GlueType does not include **visGlueTypeNoWalking** ). Gluing to PinX creates dynamic glue with a horizontal walking preference and gluing to PinY creates dynamic glue with a vertical walking preference.
     
@@ -62,9 +62,9 @@ Following is a list of possible connections.
     
  **From the edge (a cell in the Alignment section) of a 2-D shape to a cell of a guide or guide point.**
 
- **From an outward or inward/outward connection point cell of a 1-D shape to an inward or inward/outward connection point cell that is not a cell of a guide or guide point:** When these cells are glued, two connections are created?one from the BeginX cell of the 1-D shape to the Connections.Xi cell, and the other from the EndX cell of the 1-D shape to the Connections.Y _i_ cell.
+ **From an outward or inward/outward connection point cell of a 1-D shape to an inward or inward/outward connection point cell that is not a cell of a guide or guide point:** When these cells are glued, two connections are created - one from the BeginX cell of the 1-D shape to the Connections.Xi cell, and the other from the EndX cell of the 1-D shape to the Connections.Y _i_ cell.
 
- **From an outward or inward/outward connection point cell of a 2-D shape to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:** If the outward connection point has a direction, two connection points are created?one from the Angle cell to the Connections.X _i_ cell and the other from the PinX cell to the Connections.Y _i_ cell.
+ **From an outward or inward/outward connection point cell of a 2-D shape to an inward or inward/outward type connection point cell that is not a cell of a guide or guide point:** If the outward connection point has a direction, two connection points are created - one from the Angle cell to the Connections.X _i_ cell and the other from the PinX cell to the Connections.Y _i_ cell.
 
 
 ### From a control point cell to...
@@ -74,7 +74,7 @@ Following is a list of possible connections.
 
 - A connection point cell.
     
-- **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created?one to the guide's PinX and one to the guide's PinY.
+- **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point other than a connection point cell, two connections are created - one to the guide's PinX and one to the guide's PinY.
     
 - **Any cell of a vertex row in a Geometry section:** A connection point is created that is glued to. Any cell in the control point row can be designated as the cell to glue from. The **GlueTo** method establishes new formulas in both the X and Y cells of the connection row.
     

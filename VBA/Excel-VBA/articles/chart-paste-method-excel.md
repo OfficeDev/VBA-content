@@ -29,7 +29,7 @@ Pastes chart data from the Clipboard into the specified chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following **[XlPasteType](xlpastetype-enumeration-excel.md)** constants: **xlPasteFormats** , **xlPasteFormulas** , or **xlPasteAll** . The default value is **xlPasteAll** . If there?s data other than a chart on the Clipboard, this argument cannot be used.|
+| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following **[XlPasteType](xlpastetype-enumeration-excel.md)** constants: **xlPasteFormats** , **xlPasteFormulas** , or **xlPasteAll** . The default value is **xlPasteAll** . If there's data other than a chart on the Clipboard, this argument cannot be used.|
 
 ## Example
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineState.SetFilterDateRange Method (Excel)
 
-Sets the Timeline?s filter.
+Sets the Timeline's filter.
 
 
 ## Syntax

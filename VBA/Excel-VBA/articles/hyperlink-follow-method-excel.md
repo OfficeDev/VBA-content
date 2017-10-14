@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Follow Method (Excel)
 
-Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
+Displays a cached document, if it's already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 
 
 ## Syntax

@@ -38,7 +38,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays a new folder created in the user?s **Inbox** folder.
+The following Microsoft Visual Basic for Applications (VBA) example displays a new folder created in the user's **Inbox** folder.
 
 
 ```vb

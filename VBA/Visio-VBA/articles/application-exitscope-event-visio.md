@@ -48,7 +48,7 @@ For **ExitScope** , _bErrOrCancelled_ is non-zero if the operation failed or was
 
 ## Example
 
-This example shows how to use the **ExitScope** event. The example determines whether a call to a procedure that handles the **CellChanged** event is in a particular scope?that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
+This example shows how to use the **ExitScope** event. The example determines whether a call to a procedure that handles the **CellChanged** event is in a particular scope - that is, whether the call occurs between the **EnterScope** and **ExitScope** events for that scope.
 
 
 ```vb

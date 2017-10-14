@@ -40,7 +40,7 @@ Pastes the current contents of the Clipboard into the view represented by the **
 
 An error occurs if there is no data on the Clipboard when the **PasteSpecial** method is called.
 
- Valid views for the **PasteSpecial** method are the same as those for the **Paste** method. If the data type can?t be pasted into the view (for example, if you try to paste a picture into **Slide Sorter View**), an error occurs. 
+ Valid views for the **PasteSpecial** method are the same as those for the **Paste** method. If the data type can't be pasted into the view (for example, if you try to paste a picture into **Slide Sorter View**), an error occurs. 
 
 The DataType parameter can be one of these **PpPasteDataType** constants
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.RunEnd Property (Visio)
 
-Returns the ending index of a type of run?a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
+Returns the ending index of a type of run - a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
 
 
 ## Syntax

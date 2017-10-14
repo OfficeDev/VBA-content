@@ -53,7 +53,7 @@ The **AddSiteColumn** method gives run-time error 1004, "Application-defined or 
     
 - The  _ProjectField_ value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
     
-    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in **PjField**, there are 357?including local task custom fields?that can be used with the **AddSiteColumn** method.
+    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in **PjField**, there are 357 - including local task custom fields - that can be used with the **AddSiteColumn** method.
     
 
    **Table 1. Additional prohibited fields**
@@ -82,7 +82,7 @@ The **AddSiteColumn** method gives run-time error 1004, "Application-defined or 
 |**pjTaskStatus**|**pjTaskStatusIndicator**|**pjTaskSubproject**|
 |**pjTaskSubprojectReadOnly**|**pjTaskTotalSlack**|**pjTaskType**|
 |**pjTaskWarning**|**pjTaskWorkContour**|****|
-It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter?although the value of doing so is questionable.
+It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter - although the value of doing so is questionable.
 
 
 ## Example

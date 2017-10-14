@@ -33,7 +33,7 @@ Private Sub  _expression_ _**DataRecordsetChanged**( **_ByVal DataRecordsetChang
 
 ## Remarks
 
-When the **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](datarecordsetchangedevent-object-visio.md)** object is passed to the **[IVisEventProc.VisEventProc](iviseventproc-viseventproc-method-visio.md)** method as the pSubjectObj parameter, which represents he subject of the event?the object to which the event occurs.
+When the **DataRecordsetChanged** event fires, the **[DataRecordsetChangedEvent](datarecordsetchangedevent-object-visio.md)** object is passed to the **[IVisEventProc.VisEventProc](iviseventproc-viseventproc-method-visio.md)** method as the pSubjectObj parameter, which represents he subject of the event - the object to which the event occurs.
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

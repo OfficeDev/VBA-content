@@ -29,14 +29,14 @@ Returns a **[Range](range-object-excel.md)** object that represents a cell or a 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cell1_|Required| **Variant**|The name of the range. This must be an A1-style reference in the language of the macro. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they?re ignored. You can use a local defined name in any part of the range. If you use a name, the name is assumed to be in the language of the macro.|
+| _Cell1_|Required| **Variant**|The name of the range. This must be an A1-style reference in the language of the macro. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored. You can use a local defined name in any part of the range. If you use a name, the name is assumed to be in the language of the macro.|
 | _Cell2_|Optional| **Variant**|The cell in the upper-left and lower-right corner of the range. Can be a **Range** object that contains a single cell, an entire column, or entire row, or it can be a string that names a single cell in the language of the macro.|
 
 ## Remarks
 
-When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn?t a worksheet, the property fails).
+When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn't a worksheet, the property fails).
 
-When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it?s relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
+When applied to a **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it's relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Vertices Property (Word)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. You can use the array returned by this property as an argument for the **AddCurve** or **AddPolyLine** method. Read-only **Variant** .
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. You can use the array returned by this property as an argument for the **AddCurve** or **AddPolyLine** method. Read-only **Variant** .
 
 
 ## Syntax

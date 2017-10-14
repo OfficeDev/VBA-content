@@ -30,7 +30,7 @@ Private Sub  _expression_ _**AppObjDeactivated**( **_ByVal app As [IVAPPLICATION
 
 ## Remarks
 
-The **AppObjDeactivated** event indicates that the instance of Visio is no longer the active instance of Visio?the instance of Visio that is retrieved by the **GetObject** method in a Microsoft Visual Basic program. The **AppObjDeactivated** event is different from the **AppDeactivated** event, which occurs after an instance of Visio is no longer the active instance on the Microsoft Windows desktop.
+The **AppObjDeactivated** event indicates that the instance of Visio is no longer the active instance of Visio - the instance of Visio that is retrieved by the **GetObject** method in a Microsoft Visual Basic program. The **AppObjDeactivated** event is different from the **AppDeactivated** event, which occurs after an instance of Visio is no longer the active instance on the Microsoft Windows desktop.
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

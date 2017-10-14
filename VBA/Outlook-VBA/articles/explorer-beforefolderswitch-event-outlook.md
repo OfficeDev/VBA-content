@@ -36,7 +36,7 @@ Occurs before the explorer goes to a new folder, either as a result of user acti
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-If the folder being switched to is in a namespace that doesn?t support automation (such as the file system),  _NewFolder_ is **Nothing** .
+If the folder being switched to is in a namespace that doesn't support automation (such as the file system),  _NewFolder_ is **Nothing** .
 
 
 ## Example

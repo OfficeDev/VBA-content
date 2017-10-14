@@ -38,12 +38,12 @@ Object
 
 ## Remarks
 
-For OLAP data sources, there are no hidden fields, and the object or collection that?s returned reflects what?s currently visible.
+For OLAP data sources, there are no hidden fields, and the object or collection that's returned reflects what's currently visible.
 
 
 ## Example
 
-This example adds the PivotTable report?s field names to a list on a new worksheet.
+This example adds the PivotTable report's field names to a list on a new worksheet.
 
 
 ```vb

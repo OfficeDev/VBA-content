@@ -28,7 +28,7 @@ Calculates or predicts a future value based on existing (historical) values by u
 |||||
 | _Arg1_|Required|DOUBLE|Target Date: the data point for which you want to predict a value. Target date can be date/time or numeric. See Remarks.|
 | _Arg2_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can't be zero. See Remarks.|
 | _Arg4_|Optional|VARIANT|Seasonality: A numeric value. See Remarks.|
 | _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points, **Forecast_ETS** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
 | _Arg6_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points, **Forecast_ETS** aggregates multiple points that have the same time stamp. See Remarks.|
@@ -43,7 +43,7 @@ Calculates or predicts a future value based on existing (historical) values by u
 The predicted value is a continuation of the historical values in the specified target date, which should be a continuation of the timeline. You can use this function to predict future sales, inventory requirements, or consumer trends.
 
 
- **Note**  This function requires the timeline to be organized with a constant step between the different points. For example, that could be a monthly timeline with values on the 1st of every month, a yearly timeline, or a timeline of numerical indices. In general, it?s very useful to aggregate raw detailed data before you apply the forecast, which produces more accurate forecast results as well.
+ **Note**  This function requires the timeline to be organized with a constant step between the different points. For example, that could be a monthly timeline with values on the 1st of every month, a yearly timeline, or a timeline of numerical indices. In general, it's very useful to aggregate raw detailed data before you apply the forecast, which produces more accurate forecast results as well.
 
 If the target date parameter value ( _Arg1_) is chronologically before the end of the historical timeline, **Forecast_ETS** returns an error.
 

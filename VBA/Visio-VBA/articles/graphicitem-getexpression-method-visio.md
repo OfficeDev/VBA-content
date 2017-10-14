@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItem.GetExpression Method (Visio)
 
-Gets the label of the shape data item (custom property) that the **GraphicItem** represents, or the value of the expression string that is part of a **GraphicItem** object?s rule, against which shape data is evaluated.
+Gets the label of the shape data item (custom property) that the **GraphicItem** represents, or the value of the expression string that is part of a **GraphicItem** object's rule, against which shape data is evaluated.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

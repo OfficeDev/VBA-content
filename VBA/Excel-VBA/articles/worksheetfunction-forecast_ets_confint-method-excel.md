@@ -28,7 +28,7 @@ Returns a confidence interval for the forecast value at the specified target dat
 |||||
 | _Arg1_|Required|DOUBLE|Target Date: the data point for which you want to predict a value. Target date can be date/time or numeric. See Remarks.|
 | _Arg2_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg3_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can't be zero. See Remarks.|
 | _Arg4_|Optional|VARIANT|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
 | _Arg5_|Optional|VARIANT|Seasonality: A numeric value. See Remarks.|
 | _Arg6_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points, **Forecast_ETS_ConfInt** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|

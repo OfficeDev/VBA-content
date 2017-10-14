@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.RunBegin Property (Visio)
 
-Returns the beginning index of a type of run?a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
+Returns the beginning index of a type of run - a sequence of characters that share a particular attribute, such as character, paragraph, or tab formatting; or a word, paragraph, or field. Read-only.
 
 
 ## Syntax

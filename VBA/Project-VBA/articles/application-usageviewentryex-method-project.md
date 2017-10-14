@@ -45,7 +45,7 @@ Adds fields to the **Details** pane and option menu for the Task Usage or Resour
 
 ## Remarks
 
-In the Task Usage or Resource Usage view, choose the **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows?in alphabetical order?all of the fields available in the current view.
+In the Task Usage or Resource Usage view, choose the **FORMAT** tab to see the six default fields in the **Details** group on the ribbon. The **Add Details** command displays the **Detail Styles** dialog box, which shows - in alphabetical order - all of the fields available in the current view.
 
 The following table lists the possible fields for the  _Order_ parameter, and shows values for the Task Usage and Resource Usage views.
 

@@ -37,7 +37,7 @@ Private Sub  _expression_ _**XMLBeforeDelete**( **_DeletedRange_** , **_OldXMLNo
 
 If the InUndoRedo parameter is **True** , never change the XML in a document while the **XMLAfterInsert** and **XMLBeforeDelete** events are running.
 
-If the InUndoRedo parameter is **False** , you can insert and delete the XML in the document?but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
+If the InUndoRedo parameter is **False** , you can insert and delete the XML in the document - but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
 
 
 

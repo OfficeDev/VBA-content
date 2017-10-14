@@ -37,7 +37,7 @@ Merges the changes in one presentation with another.
 
 ## Example
 
-The following code sample merges the active presentation with a presentation saved to the user?s desktop.
+The following code sample merges the active presentation with a presentation saved to the user's desktop.
 
 
 ```vb

@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The **DockedStencils** method returns an array of strings?the names of the stencils shown in the docked stencil panes of a window. When the window is a drawing window, the number of docked stencil panes ( _n_ ) is equal to or greater than zero, and _n_ is zero when the window isn't a drawing window.
+The **DockedStencils** method returns an array of strings - the names of the stencils shown in the docked stencil panes of a window. When the window is a drawing window, the number of docked stencil panes ( _n_ ) is equal to or greater than zero, and _n_ is zero when the window isn't a drawing window.
 
 If the **DockedStencils** method succeeds, _NameArray()_ returns a one-dimensional array of _n_ strings indexed from zero (0) to _n_ - 1. The _NameArray()_ paramter is an out parameter that is allocated by the **DockedStencils** method, ownership of which is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. Note that the **SafeArrayDestroy** procedure has the side effect of freeing the strings referenced by the array's entries. The **DockedStencils** method fails if _NameArray()_ is null. (Microsoft Visual Basic and Visual Basic for Applications take care of destroying the array for you.)
 

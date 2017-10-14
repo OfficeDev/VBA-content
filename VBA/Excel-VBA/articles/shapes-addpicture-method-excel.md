@@ -61,7 +61,7 @@ Shape
 | **msoFalse** To store only the link information in the document.|
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
-| **msoTrue** To save the linked picture with the document into which it?s inserted. This argument must be **msoTrue** if _LinkToFile_ is **msoFalse** .|
+| **msoTrue** To save the linked picture with the document into which it's inserted. This argument must be **msoTrue** if _LinkToFile_ is **msoFalse** .|
 
 ## Example
 

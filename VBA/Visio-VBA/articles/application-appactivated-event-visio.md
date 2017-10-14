@@ -30,7 +30,7 @@ Private Sub  _expression_ _**AppActivated**( **_ByVal app As [IVAPPLICATION]_** 
 
 ## Remarks
 
-The **AppActivated** event indicates that an instance of Visio has become the active application on the Microsoft Windows desktop. The **AppActivated** event is different from the **AppObjectActivated** event, which occurs after an instance of Visio becomes active?the instance of Visio that is retrieved by the **GetObject** method in a Microsoft Visual Basic program.
+The **AppActivated** event indicates that an instance of Visio has become the active application on the Microsoft Windows desktop. The **AppActivated** event is different from the **AppObjectActivated** event, which occurs after an instance of Visio becomes active - the instance of Visio that is retrieved by the **GetObject** method in a Microsoft Visual Basic program.
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

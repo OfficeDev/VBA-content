@@ -33,7 +33,7 @@ Occurs when a specified **[Search](search-object-outlook.md)** object's **[Stop]
 
 ## Remarks
 
-After this event is fired, the **Search** object?s **[Results](results-object-outlook.md)** collection will no longer be updated. This event can only be triggered programmatically.
+After this event is fired, the **Search** object's **[Results](results-object-outlook.md)** collection will no longer be updated. This event can only be triggered programmatically.
 
 
 ## Example

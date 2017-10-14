@@ -50,7 +50,7 @@ The method fails and an error occurs if any of the following occurs:
     
 - Access could not reconnect the original .mdf file.
     
-- The current user for the Access project doesn?t have system administrator privileges for the database server.
+- The current user for the Access project doesn't have system administrator privileges for the database server.
     
 
 ## Example

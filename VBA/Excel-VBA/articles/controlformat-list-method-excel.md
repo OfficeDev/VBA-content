@@ -43,7 +43,7 @@ Setting this property clears any range specified by the **[ListFillRange](contro
 
 ## Example
 
-This example sets the entries in a list box on worksheet one. If  `Shapes(2)` doesn?t represent a list box, this example fails.
+This example sets the entries in a list box on worksheet one. If  `Shapes(2)` doesn't represent a list box, this example fails.
 
 
 ```vb

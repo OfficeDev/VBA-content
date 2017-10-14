@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Offset Property (Excel)
 
-Returns a **[Range](range-object-excel.md)** object that represents a range that?s offset from the specified range.
+Returns a **[Range](range-object-excel.md)** object that represents a range that's offset from the specified range.
 
 
 ## Syntax

@@ -34,7 +34,7 @@ Returns information about installed file converters. Returns **null** if there a
 
 ## Remarks
 
-If you don?t specify the index arguments, this property returns an array that containing information about all the installed file converters. Each row in the array contains information about a single file converter, as shown in the following table.
+If you don't specify the index arguments, this property returns an array that containing information about all the installed file converters. Each row in the array contains information about a single file converter, as shown in the following table.
 
 
 

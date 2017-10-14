@@ -42,7 +42,7 @@ To programmatically add a custom field to a view, use the **ViewFields.Add** met
 
 Referencing the property in  _PropertyName_ by its field name requires the localized name in the corresponding locale. For more information on referencing properties by namespace, see[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
 
-If you are adding a custom property to the **ViewFields** collection, the property must exist in the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for the View?s parent folder.
+If you are adding a custom property to the **ViewFields** collection, the property must exist in the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for the View's parent folder.
 
 If the property already exists in the **ViewFields** collection, Outlook will raise an error.
 

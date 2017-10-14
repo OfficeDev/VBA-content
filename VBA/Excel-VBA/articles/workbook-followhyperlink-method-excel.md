@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.FollowHyperlink Method (Excel)
 
-Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
+Displays a cached document, if it's already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 
 
 | **MsoExtraInfoMethod** type can be one of these **MsoExtraInfoMethod** constants.|
-| **msoMethodGet** . _ExtraInfo_ is a **String** that?s appended to the address.|
+| **msoMethodGet** . _ExtraInfo_ is a **String** that's appended to the address.|
 | **msoMethodPost** . _ExtraInfo_ is posted as a **String** or byte array.|
 
 ## Example

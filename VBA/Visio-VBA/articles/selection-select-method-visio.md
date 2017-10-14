@@ -97,7 +97,7 @@ Public Sub Select_Example()
  Dim vsoGroup As Visio.Shape 
  Set vsoGroup = vsoSelection.Group 
  
- 'There are now four shapes on the page?a group that contains three 
+ 'There are now four shapes on the page - a group that contains three 
  'subshapes, and three ungrouped shapes. Subselection is 
  'accomplished by selecting the parent shape first or one of the 
  'group's shapes already subselected. 

@@ -29,7 +29,7 @@ You can use the **DDEInitiate** function to begin a dynamic data exchange (DDE) 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Application_|Required|**String**|A string expression identifying an application that can participate in a DDE conversation. Usually, the  _application_ argument is the name of an .exe file (without the .exe extension) for a Microsoft Windows?based application, such as Microsoft Excel.|
+| _Application_|Required|**String**|A string expression identifying an application that can participate in a DDE conversation. Usually, the  _application_ argument is the name of an .exe file (without the .exe extension) for a Microsoft Windows-based application, such as Microsoft Excel.|
 | _Topic_|Required|**String**|A string expression that is the name of a topic recognized by the  _application_ argument. Check the application's documentation for a list of topics.|
 
 ### Return Value

@@ -30,7 +30,7 @@ Creates an OLE object. Returns a **[Shape](shape-object-excel.md)** object that 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ClassType_|Optional| **Variant**|(you must specify either  _ClassType_ or _FileName_). A string that contains the programmatic identifier for the object to be created. If  _ClassType_ is specified, _FileName_ and _Link_ are ignored.|
-| _Filename_|Optional| **Variant**| The file from which the object is to be created. If the path isn?t specified, the current working folder is used. You must specify either the _ClassType_ or _FileName_ argument for the object, but not both.|
+| _Filename_|Optional| **Variant**| The file from which the object is to be created. If the path isn't specified, the current working folder is used. You must specify either the _ClassType_ or _FileName_ argument for the object, but not both.|
 | _Link_|Optional| **Variant**| **True** to link the OLE object to the file from which it was created. **False** to make the OLE object an independent copy of the file. If you specified a value for _ClassType_, this argument must be **False** . The default value is **False** .|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the OLE object as an icon. The default value is **False** .|
 | _IconFileName_|Optional| **Variant**| The file that contains the icon to be displayed.|

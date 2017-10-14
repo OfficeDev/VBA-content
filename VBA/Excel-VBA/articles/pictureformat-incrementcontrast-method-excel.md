@@ -38,7 +38,7 @@ You cannot adjust the contrast of a picture past the upper or lower limit for th
 
 ## Example
 
-This example increases the contrast for all pictures on  `myDocument` that aren?t already set to maximum contrast.
+This example increases the contrast for all pictures on  `myDocument` that aren't already set to maximum contrast.
 
 
 ```vb

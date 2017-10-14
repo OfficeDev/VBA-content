@@ -65,7 +65,7 @@ Visio 5.0 and later still support this method but it has been renamed **FollowHy
 HRESULT FollowHyperlink45[in] (BSTR Target, [in] BSTR Location);
 ```
 
-Use of **FollowHyperlink45** is discouraged, however?unless you are using version 4.5, use **FollowHyperlink** instead.
+Use of **FollowHyperlink45** is discouraged, however - unless you are using version 4.5, use **FollowHyperlink** instead.
 
 
 ## Example

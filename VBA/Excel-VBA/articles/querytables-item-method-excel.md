@@ -38,7 +38,7 @@ A **[QueryTable](querytable-object-excel.md)** object contained by the collectio
 
 ## Example
 
-This example sets a query table so that formulas to the right of the query table are automatically updated whenever it?s refreshed.
+This example sets a query table so that formulas to the right of the query table are automatically updated whenever it's refreshed.
 
 
 ```vb

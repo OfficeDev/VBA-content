@@ -38,7 +38,7 @@ A **[Shape](shape-object-excel.md)** object contained by the collection.
 
 ## Example
 
-This example sets the **OnAction** property for shape two in a shape range. If the sr variable doesn?t represent a **ShapeRange** object, this example fails.
+This example sets the **OnAction** property for shape two in a shape range. If the sr variable doesn't represent a **ShapeRange** object, this example fails.
 
 
 ```vb

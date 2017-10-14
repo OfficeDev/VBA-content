@@ -92,7 +92,7 @@ DoCmd.SendObject acSendTable, "Employees", acFormatXLS, _
 
 The following example shows how to create an email message with Microsoft Outlook and display it to the user.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 
 
 

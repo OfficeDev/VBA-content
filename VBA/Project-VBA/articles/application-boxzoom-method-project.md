@@ -29,7 +29,7 @@ Zooms in to or out from the Network Diagram.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Percent_|Optional|**Variant**|The percentage?between 25 and 400?to reduce or enlarge the Network Diagram. If **Entire** is **True**, **Percent** is ignored.|
+| _Percent_|Optional|**Variant**|The percentage - between 25 and 400 - to reduce or enlarge the Network Diagram. If **Entire** is **True**, **Percent** is ignored.|
 | _Entire_|Optional|**Boolean**|**True** if the Network Diagram resizes to fit the entire project onto the screen, within the same limits described for **Percent**. The default value is **False**.|
 
 ### Return Value

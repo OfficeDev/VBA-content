@@ -27,7 +27,7 @@ Returns the length of the repetitive pattern Excel detects for the specified tim
 
 |||||
 | _Arg1_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg2_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg2_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can't be zero. See Remarks.|
 | _Arg3_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points, **Forecast_ETS_Seasonality** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
 | _Arg4_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points, **Forecast_ETS_Seasonality** aggregates multiple points that have the same time stamp. See Remarks.|
 

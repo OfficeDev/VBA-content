@@ -35,7 +35,7 @@ Returns an object that represents either a single PivotTable field (a **[PivotFi
 
 A hierarchy can contain only one page field.
 
-For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that?s returned reflects what?s currently in the cache.
+For a PivotTable report based on a PivotTable cache, the collection of PivotTable fields that's returned reflects what's currently in the cache.
 
 
 ## Example

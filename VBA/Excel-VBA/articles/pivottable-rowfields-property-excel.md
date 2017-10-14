@@ -33,7 +33,7 @@ Returns an object that represents either a single field in a PivotTable report (
 
 ## Example
 
-This example adds the PivotTable report?s row field names to a list on a new worksheet.
+This example adds the PivotTable report's row field names to a list on a new worksheet.
 
 
 ```vb

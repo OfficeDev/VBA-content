@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.SourceName Property (Excel)
 
-Returns a **String** value that represents the specified object?s name as it appears in the original source data for the specified PivotTable report.
+Returns a **String** value that represents the specified object's name as it appears in the original source data for the specified PivotTable report.
 
 
 ## Syntax

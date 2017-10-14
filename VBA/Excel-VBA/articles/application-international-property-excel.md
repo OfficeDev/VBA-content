@@ -66,7 +66,7 @@ Returns information about the current country/region and international settings.
 | **xlCurrencyCode**|String|Currency symbol.|
 | **xlCurrencyDigits**|Long|Number of decimal digits to be used in currency formats.|
 | **xlCurrencyLeadingZeros**|Boolean| **True** if leading zeros are displayed for zero currency values.|
-| **xlCurrencyMinusSign**|Boolean| **True** if you?re using a minus sign for negative numbers; **False** if you?re using parentheses.|
+| **xlCurrencyMinusSign**|Boolean| **True** if you're using a minus sign for negative numbers; **False** if you're using parentheses.|
 | **xlCurrencyNegative**|Long|Currency format for negative currency values:0 = ( _symbol_ x) or (x _symbol_ )1 = - _symbol_ x or -x _symbol_2 =  _symbol_ -x or x- _symbol_3 =  _symbol_ x- or x _symbol_ -where  _symbol_ is the currency symbol of the country or region. Note that the position of the currency symbol is determined by **xlCurrencyBefore** .|
 | **xlCurrencySpaceBefore**|Boolean| **True** if a space is added before the currency symbol.|
 | **xlCurrencyTrailingZeros**|Boolean| **True** if trailing zeros are displayed for zero currency values.|
@@ -77,8 +77,8 @@ Returns information about the current country/region and international settings.
 
 |**Index**|**Type**|**Meaning**|
 |:-----|:-----|:-----|
-| **xl24HourClock**| **Boolean**| **True** if you?re using 24-hour time; **False** if you?re using 12-hour time.|
-| **xl4DigitYears**| **Boolean**| **True** if you?re using four-digit years; **False** if you?re using two-digit years.|
+| **xl24HourClock**| **Boolean**| **True** if you're using 24-hour time; **False** if you're using 12-hour time.|
+| **xl4DigitYears**| **Boolean**| **True** if you're using four-digit years; **False** if you're using two-digit years.|
 | **xlDateOrder**| **Long**|Order of date elements:0 = month-day-year1 = day-month-year2 = year-month-day|
 | **xlDateSeparator**| **String**|Date separator ( **/** ).|
 | **xlDayCode**| **String**|Day symbol (d).|
@@ -100,8 +100,8 @@ Returns information about the current country/region and international settings.
 
 |**Index**|**Type**|**Meaning**|
 |:-----|:-----|:-----|
-| **xlMetric**| **Boolean**| **True** if you?re using the metric system; **False** if you?re using the English measurement system.|
-| **xlNonEnglishFunctions**| **Boolean**| **True** if you?re not displaying functions in English.|
+| **xlMetric**| **Boolean**| **True** if you're using the metric system; **False** if you're using the English measurement system.|
+| **xlNonEnglishFunctions**| **Boolean**| **True** if you're not displaying functions in English.|
  **Separators**
 
 
@@ -114,7 +114,7 @@ Returns information about the current country/region and international settings.
 | **xlListSeparator**| **String**|List separator.|
 | **xlRowSeparator**| **String**|Character used to separate rows in array literals.|
 | **xlThousandsSeparator**| **String**|Zero or thousands separator.|
-Symbols, separators, and currency formats shown in the preceding table may differ from those used in your language or geographic location and may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Symbols, separators, and currency formats shown in the preceding table may differ from those used in your language or geographic location and may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

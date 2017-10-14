@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Characters Method (Excel)
 
-Returns a **[Characters](characters-object-excel.md)** object that represents a range of characters within a shape?s text frame. You can use the **Characters** object to add and format characters within the text frame.
+Returns a **[Characters](characters-object-excel.md)** object that represents a range of characters within a shape's text frame. You can use the **Characters** object to add and format characters within the text frame.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ The **Characters** object isn't a collection.
 
 ## Example
 
-This example formats as bold the third character in the first shape?s text frame on the active worksheet.
+This example formats as bold the third character in the first shape's text frame on the active worksheet.
 
 
 ```vb

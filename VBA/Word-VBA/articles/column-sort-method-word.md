@@ -33,11 +33,11 @@ Sorts the specified table column.
 | _SortFieldType_|Optional| **Variant**|The sort type for the column. Can be one of the **[WdSortFieldType](wdsortfieldtype-enumeration-word.md)** constants.|
 | _SortOrder_|Optional| **Variant**|The sorting order to use for the column. Can be one **[WdSortOrder](wdsortorder-enumeration-word.md)** constant.|
 | _CaseSensitive_|Optional| **Variant**| **True** to sort with case sensitivity. The default value is **False** .|
-| _BidiSort_|Optional| **Variant**| **True** to sort based on right-to-left language rules. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreThe_|Optional| **Variant**| **True** to ignore the Arabic character alef lam when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreKashida_|Optional| **Variant**| **True** to ignore kashidas when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreDiacritics_|Optional| **Variant**| **True** to ignore bidirectional control characters when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _IgnoreHe_|Optional| **Variant**| **True** to ignore the Hebrew character he when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _BidiSort_|Optional| **Variant**| **True** to sort based on right-to-left language rules. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreThe_|Optional| **Variant**| **True** to ignore the Arabic character alef lam when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreKashida_|Optional| **Variant**| **True** to ignore kashidas when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreDiacritics_|Optional| **Variant**| **True** to ignore bidirectional control characters when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
+| _IgnoreHe_|Optional| **Variant**| **True** to ignore the Hebrew character he when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.|
 | _LanguageID_|Optional| **Variant**|Specifies the sorting language. Can be one of the **[WdLanguageID](wdlanguageid-enumeration-word.md)** constants.|
 
 ## Remarks

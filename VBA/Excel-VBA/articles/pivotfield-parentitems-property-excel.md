@@ -33,7 +33,7 @@ Returns an object that represents either a single PivotTable item (a **[PivotIte
 
 ## Remarks
 
-This property isn?t available for OLAP data sources.
+This property isn't available for OLAP data sources.
 
 
 ## Example

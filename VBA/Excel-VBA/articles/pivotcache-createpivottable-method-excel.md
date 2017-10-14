@@ -29,7 +29,7 @@ Creates a PivotTable report based on a **[PivotCache](pivotcache-object-excel.md
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report?s destination range (the range on the worksheet where the resulting PivotTable report will be placed). The destination range must be on a worksheet in the workbook that contains the **PivotCache** object specified by _expression_.|
+| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting PivotTable report will be placed). The destination range must be on a worksheet in the workbook that contains the **PivotCache** object specified by _expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all of the records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The default version of the PivotTable report.|

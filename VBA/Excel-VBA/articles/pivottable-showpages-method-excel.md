@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-This method isn?t available for OLAP data sources.
+This method isn't available for OLAP data sources.
 
 
 ## Example

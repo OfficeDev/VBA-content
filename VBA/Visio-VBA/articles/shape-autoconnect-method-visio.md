@@ -44,7 +44,7 @@ The **AutoConnect** method lets you automatically draw connections between shape
 
 For the ToShape parameter, pass the **Shape** object to which you want to draw the connection.
 
-For the PlacementDir parameter, pass a value from the **VisAutoConnectDir** enumeration to specify the connection direction?that is, where to locate the connected shape with respect to the primary shape. Possible values for PlacementDir are as follows.
+For the PlacementDir parameter, pass a value from the **VisAutoConnectDir** enumeration to specify the connection direction - that is, where to locate the connected shape with respect to the primary shape. Possible values for PlacementDir are as follows.
 
 
 

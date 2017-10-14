@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.BeginConnect Method (Excel)
 
-Attaches the beginning of the specified connector to a specified shape. If there?s already a connection between the beginning of the connector and another shape, that connection is broken. If the beginning of the connector isn?t already positioned at the specified connecting site, this method moves the beginning of the connector to the connecting site and adjusts the size and position of the connector. Use the **[EndConnect](connectorformat-endconnect-method-excel.md)** method to attach the end of the connector to a shape.
+Attaches the beginning of the specified connector to a specified shape. If there's already a connection between the beginning of the connector and another shape, that connection is broken. If the beginning of the connector isn't already positioned at the specified connecting site, this method moves the beginning of the connector to the connecting site and adjusts the size and position of the connector. Use the **[EndConnect](connectorformat-endconnect-method-excel.md)** method to attach the end of the connector to a shape.
 
 
 ## Syntax

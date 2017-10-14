@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Vertices Property (Project)
-Gets the coordinates of the vertices (and control points for a B?zier curve) as a series of coordinate pairs, for a shape that is a drawing. Read-only **Variant**.
+Gets the coordinates of the vertices (and control points for a Bézier curve) as a series of coordinate pairs, for a shape that is a drawing. Read-only **Variant**.
 
 ## Syntax
 

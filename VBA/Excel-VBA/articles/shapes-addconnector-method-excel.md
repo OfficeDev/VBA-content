@@ -49,7 +49,7 @@ Shape
 | **msoConnectorTypeMixed**|
 | **msoConnectorCurve**|
 | **msoConnectorStraight**|
-When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you?re going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
+When you attach a connector to a shape, the size and position of the connector are automatically adjusted, if necessary. Therefore, if you're going to attach a connector to other shapes, the position and dimensions you specify when adding the connector are irrelevant.
 
 
 ## Example

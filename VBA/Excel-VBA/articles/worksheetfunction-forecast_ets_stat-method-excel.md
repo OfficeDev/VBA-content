@@ -27,7 +27,7 @@ Returns a statistical value as a result of time series forecasting.
 
 |||||
 | _Arg1_|Required|VARIANT|Values: the historical values, for which you want to forecast the next points.|
-| _Arg2_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can?t be zero. See Remarks.|
+| _Arg2_|Required|VARIANT|Timeline: the independent array or range of dates or numeric data. The values in the timeline must have a consistent step between them and can't be zero. See Remarks.|
 | _Arg3_|Required|DOUBLE|Statistic_type:??? A numeric value between 1 and 8, indicating which statistic will be returned for the calculated forecast.|
 | _Arg4_|Optional|VARIANT|Confidence level: A numerical value between 0 and 1 (exclusive), indicating a confidence level for the calculated confidence interval. See Remarks.|
 | _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points, **Forecast_ETS_STAT** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
@@ -40,26 +40,26 @@ Returns a statistical value as a result of time series forecasting.
 
 ## Remarks
 
- It isn't necessary to sort the timeline ( _Arg2_), because **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns runtime error ?1004?. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns runtime error ?1004?.
+ It isn't necessary to sort the timeline ( _Arg2_), because **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns runtime error '1004'. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns runtime error ?1004?.
 
 The statistic_type parameter ( _Arg3_) indicates which statistic is requested by this function. The following optional statistics can be returned:
 
 
-- **Alpha parameter** of ETS algorithm. Returns the base value parameter?a higher value gives more weight to recent data points.
+- **Alpha parameter** of ETS algorithm. Returns the base value parameter - a higher value gives more weight to recent data points.
     
-- **Beta** parameter of ETS algorithm. Returns the trend value parameter?a higher value gives more weight to the recent trend.
+- **Beta** parameter of ETS algorithm. Returns the trend value parameter - a higher value gives more weight to the recent trend.
     
-- **Gamma** parameter of ETS algorithm. Returns the trend value parameter?a higher value gives more weight to the recent trend.
+- **Gamma** parameter of ETS algorithm. Returns the trend value parameter - a higher value gives more weight to the recent trend.
     
-- **MASE** metric. Returns the mean absolute scaled error metric?a measure of the accuracy of forecasts.
+- **MASE** metric. Returns the mean absolute scaled error metric - a measure of the accuracy of forecasts.
     
-- **SMAPE** metric. Returns the symmetric mean absolute percentage error metric?an accuracy measure based on percentage errors.
+- **SMAPE** metric. Returns the symmetric mean absolute percentage error metric - an accuracy measure based on percentage errors.
     
-- **MAE** metric. Returns the symmetric mean absolute percentage error metric?an accuracy measure based on percentage errors.
+- **MAE** metric. Returns the symmetric mean absolute percentage error metric - an accuracy measure based on percentage errors.
     
-- **RMSE** metric. Returns the root mean squared error metric?a measure of the differences between predicted and observed values.
+- **RMSE** metric. Returns the root mean squared error metric - a measure of the differences between predicted and observed values.
     
-- **Step size detected** .? Returns the step size detected in the historical timeline.
+- **Step size detected**. Returns the step size detected in the historical timeline.
     
 A confidence interval ( _Arg4_) of 95% means that 95% of future points are expected to fall within this radius from the result [Forecast_ETS](worksheetfunction-forecast_ets-method-excel.md) forecasted (with normal distribution). Using confidence intervals can help you grasp the accuracy of the predicted model. A smaller interval implies more confidence in the prediction for this specific point.
 

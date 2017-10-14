@@ -60,7 +60,7 @@ If **visOpenDocked** is specified, the file appears in a docked rather than an M
 
 If **visOpenDontList** is specified, the name of the opened file does not appear in the list of recently opened documents in the **Recent Documents** list on the **Recent** tab (click the **File** tab, and then click **Recent**).
 
-If **visOpenMinimized** is specified, the file opens minimized?it is not active. This flag is not supported in versions of Visio earlier than 5.0b.
+If **visOpenMinimized** is specified, the file opens minimized - it is not active. This flag is not supported in versions of Visio earlier than 5.0b.
 
 If **visOpenMacrosDisabled** is specified, the file opens with Visual Basic macros disabled. This flag is not supported in versions earlier than Visio 2002.
 
